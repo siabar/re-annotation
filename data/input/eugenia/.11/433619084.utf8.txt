@@ -1,0 +1,121 @@
+I.CLINIC DE NEUROCIÈNCIES NEUROLOGIA
+_NAME_	NHC: _ID_
+
+
+Sexo/Sexe: Masc.	Fecha nac./Data naix.: _DATE_	Edad/Edat: 81 años Dirección/Adreça: _LOCATION_	CP: _LOCATION_
+Municip. (Prov.): _LOCATION_  ABS:_SS_	Tel.:_CONTACT_
+As.: SERVEI CATALA DE LA SALUT	CIP: _ID_	NASS: _ID_
+Nº epis.: _ID_	Tipo/Tipus: HOSPIT.	Inici.: 24.10.2017
+Serv: NEUROLOGIA	UO Enf.: G6B4 SALA G NEUROL. CURT. E Hora: 18:02:18
+Facult. de ref.: _NAME_
+
+
+
+
+Tipo ingreso/Tipus ingrés: Urgent	Motivo/Motiu alta: Dom. Familiar
+Diag.:
+AFASIA REGRESIVA. ENCEFALOPATÍA HIPERTENSIVA. () AREA ENCEFALOMALÁCICA FRONTAL IZQUIERDA. ()
+Proc.:
+TC MULTIMODAL ()
+RM + ANGIO-RM INTRACRANEAL () ANALÍTICA SANGUÍNEA ()
+
+
+
+
+INFORME CLÍNICO ALTA / INFORME CLÍNIC ALTA
+
+Motivo de consulta / Motiu de consulta
+Alteración del lenguaje.
+
+Antecedentes e historia previa / Antecedents i història prèvia
+Hombre de 81 años, sin AMC, diestro. Independiente para ABVD (mRS 1). Vive con su mujer que tiene Alzheimer, de quien es el cuidador. ATENCIÓN!!! NHC duplicada (_ID_).
+*	ANTECEDENTES PATOLÓGICOS:
+1.	HIPERTENSIÓN ARTERIAL en tratamiento farmacológico.
+2.	DISLIPIDEMIA.
+3.	DIABETES MELLITUS TIPO 2
+4.	FIBRILACIÓN AURICULAR en tratamiento anticoagulante (dabigatrán) y frenador.
+5.	VASCULOPATÍA PERIFÉRICA marcada con c línica de claudicación intermitente. Portador de 2 stents: uno sobre art eria ilíaca primitiva izquierda y otro sobre la ilíaca externa derecha. ATP en 2008 de la arteria ilíaca primitiva derecha.
+6.	ANEURISMA DE AORTA ABDOMINAL.
+7.	CARDIOPATÍA ISQUÉMICA crónica: ACTP e implantación de 2 sten ts en la DA en 2002. En 07/2014, durante ingreso en Neurocirugía, IAMCES T inferior, angor inestable. Se realizó cateterismo cardíaco que mostró enfermedad de 3 vasos no revascularizable. Se trató con perfusión de NTG + AAS + heparina sódica iv (que se tuvo que detener por hematoma frontal a nivel de la herida quirúrgica). EcoCG de control mostró una zona de hi pocinesia basal septal e ínfero-posterior con función ventricular en el límite bajo de la normalildad (FE 45%). Se optimizó el tratamientomédico .
+8.	TUBERCULOSIS RENAL. NEFRECTOMÍA. MONORRENO.
+
+9.	MENINGIOMA FRONTAL IZQUIERDO intervenido quirúrgicamente en 07/2014.
+
+10.	HEMATOMA SUBDURAL FRONTAL IZQUIERDO CON RESANGRADO.Resangrado el 31/08/14. Consultó en
+
+unrgencias por alteración del lenguaje regresiva de 3 horas. Tratado posteriormente con Keppra 500mg/12h que se suspendió en mayo 2015.
+
+11.	ÚLCERA GÁSTRICA. HEMORRAGIAS DUODENALES.
+
+12.	BRONQUITIS CRÓNICA en tratamiento con broncodilatadores inhalados.
+
+*	MEDICACIÓN HABITUAL (SIRE 23/10): - Orfidal 1mg - Metformina 850mg 2c/24h - Omeprazol 40mg 2c/24h - Pradaxa 110mg 1c/12h - Citalopram 20mg 1c/24h - Paracetamol  1g 1c/8h - Bisoprolol 10mg 1c/12h - Digoxina 0,25mg 1c/24h - Citalopram 20mg 1c/24h - Tamsulosina 0,4mg 1c/24h - Uniket 50mg 1c/24h - Simvastatina 20MG/24H
+
+Proceso actual / Procés actual
+Sobre las 18h el paciente presenta debilidad del brazo derecho que en unos segundos progresa a alteración del lenguaje en forma de mutismo con nauseas y vomitos con hipertensión de TA 201/87 y ECG en FA ya conocida en tratamiento con Dabigatrán 110mg/12h.
+
+Exploración física / Exploració física
+24/10/2017-19:00:00: Frecuencia respiratoria (rpm) 19, PAS (mm Hg) 149, PAD (mm Hg) 65, Pulsioximetría (%) 94. 24/10/2017-20:00:00 : Glicemia ca pilar (mg/dl) 115. 24/10/2017-22:00:00 : Tª axilar (ºC) 36.5.
+A su llegada en urgencias: NRL: consciente, orientado en P-E, parcialmente en T. Levemente bradipsíquico. Lenguaje hipofluente con rasgos de afasia motor (bloqueos, parafasias fonémicas, nomina 4/8, comprende órdenes simples de hasta 3 ítems y cruzadas, repite pero se lía con frases largas). Disartria leve. PICNR, mirada conjugada centrada sin limitaciones a la excursión, campimetría por confrontación sin déficits. Balance motor 5/5 proximal y distal en las 4 extremidades. Sensibilidades táctil y algésica conservadas. No dismetrías. No extinción táctil ni negligencia visuoespacial. RCP flexor bilateral.
+AC: tonos arrítmicos sin soplos no taquicárdicos. AR: MVC con estridor espiratorio laringeo.
+
+Laboratorio / Laboratori
+*	ANALÍTICA SANGUÍNEA: PCR 7.16, Cr. 0.81, FG 83, úrico 7.4, Col 145, LDL 85, HDL 31, perfil hepático
+conservado, homocisteína 8.7, fólico 568, VitB12 380, Leucos 11.89, hematies 4.36, VCM 100, Hb1Ac 5.5, eje tiroidal conservado.
+
+Radiología / Radiologia
+*	TC MULTIMODAL:
+-	TC CRANEAL BASAL: No se observa sangrado agudo intracraneal. Diferenciación cortico- subcortical conservada. ASPECTS 10. Cambios encefalomalácicos a nivel frontal anterior izquierdo, de aspecto residual, con craneotomía frontal izquierda. Hipodensidad de la sustancia blanca periventricular en probable relación con microangiopatía crónica.
+-	TC PERFUSIÓN: No se observan alteraciones valorables en el TTP, CBV y CBF. Sin discordancia significativa.
+-	ANGIO-TC EXTRA E INTRACRANEAL: Arco aórtico y segmentos proximales de troncos supraórticos con extensa ateromatosis calcificada, sin estenosis significativa. Ateromatosis calcificada en origen de ambas carótidas internas, con estenosis aprox. del 50%. Ateromatosis calcificada en origen de las arterias vertebrales sin ateromatosis ni signos de estenosis.Segmentos intracavernoso y supraclinoideo de carótidas internas con ateromatosis sin estenosis. Principales arterias cerebrales intracraneales permeables (ACAs, ACMs y ACPs). Sistema vertebrobasilar permeable.En los cortes torácicos incluídos se observa enfisema pulmonar e imagen nodular parcialmente calcificada en ápex izquierdo, de aspecto granulomatoso crónico.
+
+*	RM CRANEAL + ANGIO-RM INTRACRANEAL: Secuencia DWI sin evidencia de lesión isquémica aguda. FLAIR con leucoaraiosis y área encefalomalácica frontal izquierda ya conocida. Secuencias de susceptibilidad sin
+*	
+
+
+sangrado. Angio-RM con arteria cerebral posterior fetal con todos los grandes vasos permeables.
+
+*	RADIOGRAFÍA DE TÓRAX sin alteraciones.
+
+Evolución / Evolució
+1.	AFASIA REGRESIVA. ENCEFALOPATÍA HIPERTENSIVA. 2. AREA ENCEFALOMALÁCICA FRONTAL IZQUIERDA. Varón de 81 años vasculópata, FA en tratamiento con Dabigatrán 110mg/12h, con antecedente de resección de  meningioma  frontal  izquierdo  reseccionado  con  área  encefalomalácica  residual  y  antecedente  de hematoma subdural subagudo tras 1 mes de la cirugía (2014) con clínica de alteración del lenguaje de 3 horas por la que tomó durante 1 año Keppra 500mg/12h.
+Acude por cuadro de debilidad del brazo derecho que en unos segundos progresa a alteración del lenguaje en forma de mutismo con nauseas y vomitos con hipertensión de TA 201/87.
+A su llegada persiste hipertenso con TA entorno 190/110mmHg, eupneico,a afebril. A la exploración destaca afasia mixta, mutista. NIH: 9. En a neuroimagen (TC mutlimodal) el TC basal no muestra signos de isquemia precoz, objetivándose el área de encefalomalacia frontal izquierda ya conocida; El Angio-TC presenta todos los grandes vasos permeables; en el TC-perfusión no hay retraso del TTP ni caída de volumen.
+Se inicia tratamiento hipotensor intensivo que consigue un buen control de la presión arterial a las tras 6 horas. Ya estando normotenso persiste afasia que mejora progresivamente hasta su resolución en <1 día. Un EEG estando aún sintomático no muestra ondas epileptiformes pero si un enlentecimiento focal hemisférico izquierdo.
+Se completa estudio con RM con Angio-RM intracraneal que en la secuencia de difusión no evidencia lesión isquémica aguda; secuencia de susceptibilidad sin sangrado, FLAIR con leucoaraiosis y encefalomalacia frontal izquierda conocida, Angio-RM con grandes vasos permeables.
+Se trata de una encefalopatía hipertensiva en paciente con lesión crónica frontal izquierda. Ajustamos tratamiento antihipertensivo al alta. No podemos descartar en este contexto una crisis epiléptica focal frontal izquierda aunque ante el desencadenante evidenciado tensional y un EEG sin ondas epileptiformes no consideramos pertinente reintroducir un antiepiléptico. En caso de nueva recurrencia clínica debería plantearse.
+En el momento del alta el paciente se encuentra asintomático desde el punto de vista neurológico. Al alta: - NIH: 0; mRS: 2
+
+2.	HEMATURIA INTERMITENTE DE 6 MESES DE EVOLUCIÓN. ANTECEDENTE DE PROSTATITIS CRÓNICA (2001) Y TBC RENAL (1954). MONORENO.
+Toma Tamsulosina desde 2016 para su prostatitis crónica. Último control (28/04/17):  ECO RV Bufeta repleccionada de 128cc sense lesions. Residuo postmiccional escaso. Prostata de 22g. Nefrectomia derecha con hipertrofia ocmpensatoria del riñón izquierdo.
+Refiere hematuria en forma de gotas de sangre intermitente de 6 meses de evolución. Pendiente de nueva ecografía renovesical y cistoscopia ambulatorias y cita en consultas ambulatorias de urología (se contactará para proporcionar citas)
+
+Plan terapéutico / Pla terapèutic
+Se modifica pauta hipotensora, sustituyendo el ramipril+hidroclorotiazida por enalapril 10mg a la noche. Resto de tratamiento sin cambios.
+
+Otras recomendaciones / Altres recomanacions
+Control de factores de riesgo cardiovascular por su médico de cabecera.
+
+
+
+Firma/Signatura1: _NAME_	Firma/Signatura2: _NAME_ Categoría: Resident 2	Categoría: Consultor/a 1
+
+
+
+Nº Matrícula _SS_: _ID_	Nº Matrícula _SS_: _ID_
+
+Fecha/Data Informe: 27.10.2017
+Hora Informe: 16:32:49
+
+Docum.: _ID_
+Hist. Clínica: _ID_
+El _SS_ ha incorporado sus datos al Fichero de Pacientes, para tratarlos con fines sanitarios.
+Puede ejercer sus derechos de acceso, rectificación, cancelación y oposición, así como obtener mas información en la Unidad de Atención al Cliente.
+Vers. 00
+Pag. 2 de
+4
+Episod.: _ID_
+_SS_ ha incorporat les seves dades al Fitxer de Pacients, per a tractar-los amb finalitats sanitàries. Pot exercir els seus drets d'accés, rectificació, cancel·lació i oposició, i obtenir més informació a la Unitat d'Atenció al Client.
+_SS_
+_LOCATION_) _LOCATION_) Tel. _CONTACT_ Fax _CONTACT_
+http://_CONTACT_/

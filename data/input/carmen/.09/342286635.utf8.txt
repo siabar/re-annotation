@@ -1,0 +1,155 @@
+_LOCATION_ Tel. _CONTACT_
+_CONTACT_
+Informe Alta Hospitalització
+_NAME_
+HC: _ID_
+
+>
+
+
+Adreça: _LOCATION_	Data naix.: _DATE_
+Població: _LOCATION_	Sexe: MASCULI
+Provincia: _LOCATION_	CIP: _ID_
+País: _LOCATION_	NASS: _ID_
+Telèfon: _CONTACT_	DNI o Tarja Residència: _ID_
+
+
+Servei: Digestiu	Data ingrés a URG: 18/02/2017 01:20
+Unitat clínica: Gastroenterologia	Data hospitalització: 21/02/2017 18:57
+Tipus d'ingrés: Urgències	Data alta: 27/02/2017 14:36
+Proveïdor de Serveis: Servei Català de la Salut	Destí: 01 - Alta Domicili
+
+
+
+Diagnòstic principal:
+
+569.3 RECTORRAGIA
+
+Diagnòstics Secundaris:
+
+578.9 HEMORRAGIA DIGESTIVA BAIXA
+153.6 NEOPLASIA MALIGNA COLON DRET
+401.1 HTA BENIGNA
+272.4 DISLIPEMIA
+715.90 ARTROPATIA DEGENERATIVA
+427.31 ACXFA
+434.10 EMBOLISME CEREBRAL SENSE INFART CEREBRAL
+
+Procediments:
+
+90.59 ANALITICA SANG
+99.29 INJECCIO FERRO
+88.01 TAC ABDOMINAL
+45.23 FCS FIBROCOLONOSCOPIA
+99.19 ANTICOAGULANT
+
+
+
+
+
+Pacient de 76 anys d'edat que ingressa per RECTORRÀGIA SENSE PATOLOGÍA PROCTOLÓGICA -
+
+Antecedents:
+
+Malalties prèvies:
+
+HIPERTENSIÓ ARTERIAL (de años de evolución, en tratamiento farmacológico. Desconocemos complicaciones micro o macroangiopáticas.
+No CI conocida. En tratamiento con BB. )
+DISLIPÈMIA (consta en informes previos, sin tratamiento farmacológico. )
+HIPERPLASIA DE PROSTATA SENSE OBSTRUCCIO URINARIA (En seguimiento por Urologia por PSA elevados (PSA máximo en 7.65 en abril 2016).
+*Biopsia prostática en nov 2014: negativa.
+* Ecografia vesico-prostàtica (11/16):
+Ronyons de mida i morfologia normals (ambdós ronyons mesuren 11cms) , sense signes d'uropatia obstructiva. Ronyó dret amb quists corticals (el més gran d'uns 24mm) i un càlcul no obstructiu 'uns 3mm al terç superior. Ronyó esquerre amb calcificació cortical. Bufeta uirnària sense proliferacions parietals ni ocupació de la cavitat, dintre de la normalitat. Volum premiccional
+
+
+d'uns 245cc i postmiccional d'uns 3cc. Pròstata augmentada de mida (43 x 45 x 44mm volum aproximat d'uns 45cc. ), d'estructura homogènia i vores conservades.
+
+Control con TR en 1 año. )
+ARTROPATIA DEGENERATIVA DORSO LUMBAR (RMN (12/16):
+Signes de discopatia i d'artropatia degenerativa de la columna lumbar L2L3/
+L5S1, amb certa tendència al canal raquidi estret a L2L3, però sense evidencia de hèrnies i sense repercussions radiculars en el moment actual.)
+ACXFA (Durante ingreso en febrero de 2017 para estudio de AVC se identificó ACXFA y previo al alta se inició tto descoagulante con sintrom.)
+AVC EMBOLIC (AVC embòlic d¿ACM dreta. Ingressat des del 7/2/17 al 13/2/17. S¿ha iniciat Sintro,..
+
+Al·lèrgies:
+
+El pacient no presenta al·lèrgies conegudes.
+
+Situació funcional:
+
+Situació mental: FFSS conservadas
+Situació física: Autónomo. Camina ocasionalment con bastón por gonastrosi bilateral, però anda cada dia mínimo una hora.
+
+Antecedents socials i professionals:
+
+Situació social: Jubilado. Vive con su mujer y dos hijos.
+
+Història Actual:
+
+Ingressat des del 7/2/17 al 13/2/17 per AVC cardioembòlic i ACxFA. Es va iniciar descoagulació amb Sintrom.
+Consulta per presentar des de fa unes hores, rectorràgia en 4 ocassions (sang vermella predominantment).
+També explica doloriment abdominal de tipus còlic.
+Avui se li ha realitzat un INR i estaba a 7, aleshores se li ha indicat que no ho prenguès durant 2 dies.
+
+Resum proves complementàries:
+
+Laboratori:
+
+-	Analitica al ingreso: Leucòcits 10.52 x 10^9/L, Hematies *4.29 x 10^12/L, Hemoglobina 135 g/L, Hematò crit *0.4 L/L, Volum corpuscular mig 93.7 fL, Hemoglobina corpuscular mitja 31.5 pg, Conc. Hb. corpuscular mitja 336 g/L, Plaquetes 289 x 10^9/L, Neutròfils (%) 64.1 %, Neutròfils 6.76 x 10^9/L, Limfò cits (%) 25.7 %, Limfòcits 2.7 x 10^9/L, Eosinòfils (%) 1 %, Eosinòfils 0.1 x 10^9/L, Basòfils (%) 0.5 %, Basòfils 0.05 x 10^9/L, Monòcits (%) 8.7 %, Monòcits 0.91 x 10^9/L, Temps protrombina *5.68 ratio, Temps protrombina (INR) *5.58 INR, Glucosa *177 mg/dL, Urea *82 mg/dL, Creatinina *1.54 mg/dL, Sodi 140 mEq/L, Potassi *5.1 mEq/L
+
+-	Analitica al alta: Leucòcits 6.8 x 10^9/L, Hematies *3.05 x 10^12/L, Hemoglobina *97 g/L, Hematòcrit
+*0.29 L/L, Volum corpuscular mig 95.1 fL, Hemoglobina corpuscular mitja 31.8 pg, Conc. Hb. corpuscular mitja 334 g/L, Índex dispersió hematies *14.6 %, Plaquetes 266 x 10^9/L, Volum plaquetar mig 11.1 fL, Í
+
+
+ndex dispersió de plaquetes 13.7 fL, Plaquetòcrit 0.03 L/L, Neutròfils (%) 63.3 %, Neutròfils 4.3 x 10^9/L, Limfòcits (%) 25.3 %, Limfòcits 1.72 x 10^9/L, Eosinòfils (%) 2.6 %, Eosinòfils 0.18 x 10^9/L, Basòfils (%)
+0.4 %, Basòfils 0.03 x 10^9/L, Monòcits (%) 8.4 %, Monòcits 0.57 x 10^9/L, Temps protrombina 1.05 ratio, Temps protrombina (INR) *1.05 INR, Urea 20 mg/dL, Creatinina 1.18 mg/dL, Sodi 142 mEq/L, Potassi 3.9 mEq/L, Aspartat aminotransferasa(AST) *46 U/L, Alaninaminotransferasa (ALT) 39 U/L, Fosfatasa  alcalina 49 U/L, Gammaglutamiltranspeptidasa 40 U/L, Bilirubina total 0.3 mg/dL, Proteïnes totals *53 g/L, Albúmina sérica 34.9 g/L, Colesterol total 150 mg/dL
+
+Imatge:
+
+-AngioTAC: A nivel de la mucosasubmucosa
+del canal anal proximal se observa una hiperintensidad puntiforme en fase
+arterial que no se visualiza en el estudio simple y no se identifica claramente en la fase portal. Podría tratarse
+de un pequeño vaso, sin poder descartar un pequeño punto de sangrado.
+No se observan signos de neumoperitoneo, líquido libre ni colecciones abdominales.
+El hígado es homogéneo de tamaño y morfología normal con bordes lisos y un pequeño quiste simple en segmento III sin otras lesiones focales.
+Bazo, páncreas y glándulas suprarrenales sin alteraciones.
+Riñones dentro de la normalidad con nefrograma simétrico. Quistes corticales simples y parapiélicos bilaterales.No hay signos de uropatía obstructiva.
+Eje aortoiliaco discretamente ateromatoso. Tronco celiaco, AMS, AMI y arterias renales permeables. Espondiloartrosis.
+No se ven masas ni ganglios linfáticos aumentados de tamaño ni en el retroperitoneo ni en otros territorios del
+abdomen o de la pelvis.
+Hernia inguinal izquierda de contenido graso. Cortes torácicos: Atelectasias laminares bibasales. Conclusió
+Se observa un foco hiperdenso puntiforme en canal anal proximal: posible pequeño vaso, sin poder descartar un punto de sangrado, en el contexto clínico del paciente
+
+Altres proves:
+
+-	FCS: S'explora la totalitat del colon fins arribar a cec que es reconeix per la valvula ileocecal i el foramen apendicular. Al retorn a nivell de valvula ileocecal s'objectiva una tumoració que ocupa un quart de la llum intestinal sospitosa de malignitat. Es prenen biopsies
+Conclusió Sospita de neoplasia de cec.
+
+-	anatomía patológica : pendiente de resultado.
+
+Evolució i comentaris:
+
+1 HDB Inicio reciente de tto con sintron (supradescoagulación) Neo de colon
+paciente que ingresa por HDB con repercusión hmdc , INR de 6 . Se corrigió con vitamina K ev .
+Dada la inestabilidad hemodinámica se realizó angioTAC que objetivó con lesión sangrante activa en canal anal. Sangrado autolimitado. Se realizaó FCS que objetivo posible neo de ciego. Al alta pendiente de anatomía patología. Familia y paciente informados del diagnostico.
+Se activa circuito rápido
+
+
+2.- ACxFA con avc cardioembolico menos de 15 días (inicio reciente de tratamiento con sintrom) ALTO RIESGO TROMBOEMBOLICO
+EN PRINCIPIO ESTARA PENDIENTE DE ECOCARDIO , POR TANTO NO TRIBUTARIO DE NACO HASTA SABER SI SE TRATA DE ACXFA NO VALVULAR
+Se explica a paciente y familia riesgo beneficio y comprende. Se reinicia sintron sin incidencias.
+
+Tractament:
+
+Fàrmacs:
+
+mantener tratamiento habitual
+
+Altres recomanacions:
+
+Se activa circuito rápido de CCR . Se avisara telefónicamente
+Inyección de hierro en Htal de dia de gastroenterología en el plazo de aproximadamente 10 días control por facultativos habitaules como tenia programado.
+
+_LOCATION_, 27/02/2017
+_NAME_ (Nº col _ID_
+Nom i cognoms metge: _NAME_ (Nº col: _ID_Pàg.: 1/4

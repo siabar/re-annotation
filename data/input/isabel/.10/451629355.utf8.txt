@@ -1,0 +1,171 @@
+_LOCATION_
+Tel. _CONTACT_
+_LOCATION_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 71 Anys
+NIF/DNI: _ID__NAME_; _NAME_; _NAME_
+Informe d'alta d'hospitalització
+CP	_LOCATION_
+ABS	_SS_
+Servei	NEUROLOGIA
+Data d'alta  15.12.2017	11:17:44
+_LOCATION_
+_CONTACT_; _CONTACT_
+DOMICIL/RES.SOC 05.12.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+altrecaiones ascendentes sensibilidad paroxisticas
+
+ANTECEDENTS
+-	No alergias medicamentosas conocidas.
+-	FRCV: Ex-fumador,  HTA. Hiperuricemia.
+-	SCA con elevación transitoria ST anterior en octubre 2017 KT con evidencia de arterias coronarias sin lesiones angiográficamente significativas (únicamente lesiones ligero-moderadas en coronaria derecha media) con ventriculografia que mostró hipoquinesia anteroapical, buena función sistólica. Se sospechó de probable IAMCEST abortado (¿trombo en DA con lisis espontánea?). Bajo ttx con DTAP (AAS y clopidogrel).
+-	Ergometria negativa para inducción de isquemia a máxima carga y test de basculación sugestivo de Hipotensión ortostática.
+-	Ictus PACI derecho de etiología cardioembólica 11/2017 s einsio anticoagulacion i antiagregcaion
+-	Hiponatremia asintomática leve.
+-	Anemia ferropénica
+-	EPOC grave. TBC pulmonar a los 20 años.
+-	Poliomelitis a la infància (2 años).
+
+MEDICACIÓ HABITUAL
+Adiro 100mg 1/24h; Diltiazem 60mg 2/24h; Enalapril 5mg; Fero Gradumet 105mcg 1/24h; Flutiform 125/5mcg/12 h; Omeprazol 20mg/d; Pravastatina 40mg 1/24h; Salbutamol 100mcg/d; Sintrom 4mg según pauta; Xalatan gotas oftálmicas 50mcg.
+
+PROCÉS ACTUAL
+Paciente con los AP descritos previamente que consulta porque desde ayer presenta de forma brusca debilidad en MMII e inestabilidad en la marcha, le pasó unas horas y por la noche nuevo episodio que aún persiste. Refiere que al hacer bidepestación presenta clinica paroxistica sensitiva .
+Presnet episodio prolongado de inico de hipotesia i parestesia asecndentes desde pie derecho ahcia las dos piernas i depsues hasta cuello, segun el apcient en cara no , segun el apcient no perdida de conocimiento pero en el episoido que implica el reingreso , la mujer dice que hablaba d emanera incoherente y hacia movimiento repetitivos como manierismos con la mano izquierda, el pacient no recuerda estos detalles. Luego nota debilidad generalizada i malestra que puede durar 24 e incluso 48 horas
+-	AIT hemisférico izquierdo de etiología no filiada. ( ver infoem d eingreso en nov 2017 )
+-	Cardiopatía isquémica reciente.
+-	HTA.
+-	EPOC grave.
+
+EXPLORACIÓ FÍSICA
+
+Informe d'alta d'hospitalització
+
+
+
+
+Al ingreso: E NRL muy abigarrada, el paciente para presentar una mano alien izda, no consigue bipedestación, se choca con las coas, aunque la fuerza está conservada por grupos musculares. En bipedestación refiere hipoestesia de ambos MMII. Luego hace mov repetidos con la mano, como un temblor. No alteración pares craneales. atrofia MID y dismetría ipsilateral, Fasciculaciones en MII gemelo.
+ROT presentes. No déficit campimétrico, lenguaje y orientación conservadas. Al alta: Exploración neurológica normal.
+EXPLORACIÓ COMPLEMENTÀRIA
+Pruebas complementarias recientes más relevantes: pruevas previas
+-TAC craneal:
+Estudio sin evidencia de hemorragia intracraneal ni ssignos precoces de isquemia (ASPECTS 10).
+En la TC perfusión con pequeñas zonas parcheadas de alteración del tiempo de tránsito, poco significativas y de dudoso significado, que podría corresponder con pequeñas zonas de isquémia en territorio frontoparietal izquierdo, sin evidencia de infarto. TAC angiografía sin alteraciones significativas.
+
+-ECG:
+
+Eje 30º, RS a 75 lpm, PR 200mseg, QRS: 80 mseg, T negativas en V5 y V6, leve elevación de 1-2mm de
+ST en V3 no presente en electros previos.
+
+-Ecocardiograma TT:
+VI de dimensiones normales con función sistólica normal (FEVI 70%) y alteraciones de la
+contractilidad segmentaria (hipoquinesia moderada lateral e hipoquinesia ligera anterior); función diastólica en el límite de la nomalidad. Imagen de dudoso significacado patológico a nivel del cayado aórtico.
+
+-Ecocardiograma TE:
+Aurícula izquierda y orejuela libres de masas; no ecocontraste espontáneo. Válvula mitral sin  masas adheridas. Válvula aórtica trivalva sin masas adheridas. Aorta retrocardíaca con palca ateromatosa
+concentrica no compleja (3mm de espesor). Cayado de calibre normal, con pared aparentemente normal y flujo normal (se descarta presencia de masas y existencia de flap intimal-doble luz). Conclusiones: ETE sin alteraciones
+
+-Prueba de esfuerzo:
+ECG basal: RS con discreta elevación convexa del ST en V3-5; con el ejercicio se normaliza
+el ST. Ergometría clínica y eléctricamentre negativa para isquemia miocárdica al 89% FCMT. Regular capacidad de esfuerzo.
+
+-Ecocardiografía de esfuerzo:
+ECO ejercicio al 89% FCMT, muestra: Alteración de la contractilidad antero-lateral
+que no parece variar significativamente con el esfuerzo. Respuesta compatible con isuquemia del septo anterior basal +/- medio (= 1- 2 segmentos). Regular capacidad de esfuerzo.
+
+-RM cerebral:
+Áreas isquémicas focales sin restricción de la difusión, localizadas en el córtex parietal alto derecho.
+Áreas de desmielinización, probablemente por hipoxia crónica, localizadas en la sustancia blanca periventricular  de predominio posterior. No se aprecian otros hallazgos valorables en la morfología y señal del parénquima cerebral ni cerebeloso. Sistema ventricular de tamaño, forma y posición normales. CONCLUSIONES: Área discontinua isquémica reciente cortical parietal altaderecha. Moderadas áreas supratentoriales de desmielinización
+
+Informe d'alta d'hospitalització
+
+
+
+
+periventricular por hipoxia crónica.
+
+-Angio-RM intracraneal:
+En las imágenes de la reconstrucción angiográfica (técnica de adquisición TOF 3D), no se
+aprecian anomalías valorables en la morfología y señal de flujo de las arterias que conforman el polígono de Willis ni en el resto de los segmentos arteriales incluidos en la exploración. Los planos axiales morfológicos complementarios confirman la  ausencia de hallazgos significativos. Conclusiones:  Examen sin hallazgos valorables.
+
+-Angio-RM TSA:
+En las imágenes de la reconstrucción angiográfica (adquisición simultánea a administración de
+contraste endovenoso), no se observan anomalías valorables de morfología y señal de flujo en las bifurcaciones  de las arterias carótidas primitivas ni en el resto de los ejes carotídeos; pequeña placa ateromatosa en el origen de la ACI derecha (1er cm post-bifurcación), sin repercusión sobre la señal de flujo vascular. Arterias vertebrales de aspectonormal. Los planos morfológicos complementarios concuerdan con la ausencia de hallazgos significativos. Conclusiones: Examen sin hallazgos valorables.
+
+Urgencias:
+-Rx Tórax 04/12/2017: Hilios priminentes; ICT >0.5; recesos costofrénicos libres
+
+En planta de Neurología:  
+- RM Cerebral 7/12/2017 : CONCLUSIONES: Progresión focal subaguda de las áreas isquémicas corticalesya conocidas en la región parietal alta derecha, sin otros hallazgos valorables.
+-	EEG: 7/12/2017 no paroximes , no altercaion del ritmo de base
+
+çEMG
+CONCLUSIÓN: estudio compatible con secuelas de poliomielitis en EID, sin signos de reactivación en el momento actual (aunque los hallazgos neurofisiológicos no permiten distinguir con total seguridad una afectación remota de poliomielitis de un síndrome post-polio, por lo que conviene valorar la evolución clínica).
+
+-	Analítica LCR 07/12: Treponema VDRL- LCR: Negativo, Pendiente Anti Neuronales LCR, Prot Priónica LCR . Bioquímica LCR: Gl:72mg/dL, Proteinas:83.4mg/dL, ADA: 0.86U/L, Celularidad: Eritrocitos:.8000, Leuc: 6, Limfo:67%, Neut:33%,
+-	Cultivo de LCR: Negativo
+-	Analítica 11/12: Pendiente: Ag Carbihidrat CA-50, Borrelia IgG y M. Bioquímica: Gl:109, Ur:27, Cr:0.76, Colesterol:134, HDL:32.2, LDL:77.60, Triglicéridos: 121, GOT:25, GPT:29, GGTP:66, LDH:145, Perfil hepático normal, Na:129mEq/L. Marcadores Tumorales (CEA, CA-125, CA-15.3, CA:19.9, PSA) Negativos. Serologías: VIH 1 y 2: Negativos, Sífilis pendiente, Coagulación correcta, VSG: 74mm, Hgma Hb:11g/dL, Hto:31.4%, Leuc:4 260, Neutrof:52.2% (2.220), Plaq: 234000
+-	Analítica 14/12: Na:129mEq/, K:4.7mEq/L, Osmolaridad: 262mOsm/L, T4:1.33.
+-	Orina 14/12: Osmolaridad: 310mOsm/L, vdrl trepone palidum en LCR negativo pendiete de natineuronales en LCR
+
+EVOLUCIÓ CLÍNICA
+Durante el ingreso nuevo episodio dsenstivo d eunos minutos de duracion donde no s objetiva focalidad motora, el apciente refier estar conciente i luego quedo pos la noche con malestar general
+
+Informe d'alta d'hospitalització
+
+
+
+
+EL apcient es a descoagulado y anteagregado. EN la RM no se encuentran nuevas lesiones si no las ya conocidas que estan en localizacion cortical
+
+Se orienta cuadro como de crisis parciales complejas , iniciándose tratamiento con Vimpat a dosis bajas, consiguiendo mejoría, sin volver a presentar nuevos espisodios desde el inicio del tratamiento. Se aumenta dosis hasta optimizar.
+No ha repetido episoidos iy e apaciente comneta mejoria general OTros
+Mnatien hiponatremia conocida se le indica restricicon hidrica i se etsudi osmolaridad en orina sin perdida de iones .
+PLan se hara control ambulatorio de EEG, Analitica con na i rm cranial comparativa
+
+Dada la estabilidad clínica, se decide el alta hospitalaria para control próximo por CCEE de NRL.
+
+ORIENTACIÓ DIAGNÒSTICA
+434.11/4 AVC cardioembòlic 414.9/2 Cardiopatia isquemica
+345.40/2 Epilepsia parcial tipus lobul temporal
+
+PROCEDIMENTS
+88.91 Imatge per ressonància magnètica de cervell i tronc cerebral
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+el propi
+vimpat 100 mgr en el esmorçar i sopar
+
+CONTROL
+acudira a conusltes extrene i rm segons data Acudira a EEG segons data
+es farà analitica ambulatoria  segon quincena de gener
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+15.12.2017
+Pàgina 1 de 4

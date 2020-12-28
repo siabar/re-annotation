@@ -1,0 +1,29 @@
+T1	Fecha_de_ingreso 305 315	22.08.2017
+#1	AnnotatorNotes T1	2017-08-22
+T2	SECCION_TIPO_DE_INGRESO 385 410	Tipo ingreso/Tipus ingrés
+T3	SECCION_MOTIVO_DEL_ALTA 419 436	Motivo/Motiu alta
+T4	SECCION_DIAGNOSTICOS 450 455	Diag.
+T5	_SUG_Ictus_isquemico 457 478	ICTUS ISQUÉMICO AGUDO
+T6	Ictus_isquemico 457 472	ICTUS ISQUÉMICO
+T7	Arteria_afectada 479 482	ACM
+T8	Lateralizacion 482 483	I
+T9	SECCION_PROCEDIMIENTOS 575 580	Proc.
+T10	SECCION_MOTIVO_DE_INGRESO 718 756	Motivo de consulta / Motiu de consulta
+T11	SECCION_ANTECEDENTES 844 906	Antecedentes e historia previa / Antecedents i història prèvia
+T12	SECCION_PROCESO_ACTUAL 1128 1158	Proceso actual / Procés actual
+T13	Fecha_inicio_sintomas 1277 1281	22/8
+#13	AnnotatorNotes T13	2017-08-22
+T14	Fecha_llegada_hospital 1277 1281	22/8
+#14	AnnotatorNotes T14	2017-08-22
+T15	Hora_inicio_sintomas 1289 1293	8:50
+#15	AnnotatorNotes T15	08:50
+T16	SECCION_EXPLORACION_FISICA 1345 1383	Exploración física / Exploració física
+T17	SECCION_EXPLORACIONES_COMPLEMENTARIAS 3071 3131	Exploraciones complementarias / Exploracions complementàries
+T18	SECCION_EVOLUCION 3234 3254	Evolución / Evolució
+T19	SECCION_EXPLORACION_FISICA_AL_ALTA 4608 4615	Al alta
+T20	SECCION_TRATAMIENTO_AL_ALTA 4958 4991	Plan terapéutico / Pla terapèutic
+T21	SECCION_RECOMENDACIONES 5094 5115	Otras recomendaciones
+T22	Fecha_de_alta 5533 5543	28.08.2017
+#22	AnnotatorNotes T22	2017-08-28
+T23	Hora_de_alta 5558 5563	15:05
+#23	AnnotatorNotes T23	15:05

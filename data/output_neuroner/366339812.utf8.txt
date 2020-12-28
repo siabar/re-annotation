@@ -1,0 +1,175 @@
+_LOCATION_ Tel. _CONTACT_
+e-mail: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 89 Anys
+NIF/DNI: _ID__NAME_ ,; _NAME_; _NAME_
+_NAME_ _NAME_
+Informe d'alta d'hospitalització
+CP	_LOCATION_
+ABS	_SS_ 5
+Servei	NEUROLOGIA
+Data d'alta  02.05.2017	09:28:51
+_LOCATION_
+_CONTACT_; _CONTACT_
+DOMICIL/RES.SOC 19.04.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Pacient que ingressa perIsquèmic. Infart cerebral
+
+ANTECEDENTS
+Sin alergias medicamentosas conocidas.
+
+-Hipertensión arterial, en tratamiento con diuréticos e IECAs
+-Diabetes mellitus tipo 2 . Hizo tratamiento con antidiabéticos orales, que se suspendieron por hipoglicemias frecuentes.
+-Hipercolesterolemia  en tratamiento con estatinas y seguimiento por médico de cabecera
+-Traumatismo craneo-encefálico (enero 2009) por atropello
+-Hematoma subdural crónico secundario, drenado (febrero 2009)
+-Epilepsia focal sintomática post-traumática remota por antecedente de traumatismo.
+Debut 10.2015, en forma de afasia aislada.
+EEG normal,
+Duplex TSA e Intracraneal.- Ateromatosis carotidea bilateral; estenosis leve de cerebral media izqda.ACM izda.
+RM cerebral.- Siderosis cortical y microbleeds corticales sugestivos de angiopatia amiloide. Alta con oxcarbacepina.
+Leve afasia residual desde entonces.
+
+-Ictus  isquémico en territorio  de  ambas cerebrales medias  de  etiología y mecanismo  cardioembólico antiagregado por riesgo de sangrado (10.2016), con afasia residual.
+-Insuficiencia cardíaca
+Debut con disnea de esfuerzo progresiva 10.2014.
+Insuficiencia cardíaca CF III, orptonea, disnea paroxística nocturna y edemas.
+Ecocardiograma (10.2015):	Ventrículo izqdo no dilatado con ligera hipertrofia y función conservada (FE
+64%)
+
+Sin alteraciones de la contractilidad segmentaria. Sin valvulopatias.
+
+-Fibrilación auricular lenta, debut 10.2016, durante ingreso por el ictus, en tratamiento antiagregante.
+Ecocardiograma (10.2016):	Ventrículo izqdo no dilatado, con ligera hipertrofia
+Función sistólica global y segemntaria conservada.
+Aurícula izquierda moderadamente dilatada. Sin alteraciones valvulares.
+
+-Insuficiencia renal crónica detectada en analítica 2010, con proteinúria. Origen no filiado.
+
+-Anemia por déficit de vitamina B12. Estuvo tomando vit B12 y Neurobión (B1, B6, B12) hasta 12.2014.
+
+-Hiperplasia prostática; en tratamiento con antiandróngenos Varios episodios de retención aguda de orina.
+Portador de sonda vesical permanente.
+
+Informe d'alta d'hospitalització
+
+-Glaucoma en tratamiento tópico.
+-Trombosis de la vena central de la retina en 2013.
+
+Situación funcional previa:  Rankin previ:3 - Discapacitat moderada. Necsita ayuda pero necesita ayuda para caminar sin asistencia
+
+MEDICACIÓ HABITUAL
+Adiro 100 mg c/ 24 horas, atorvastatina 40 mg c/ 24 horas, brinzolamida+timolol 2 gotas oculares, enalapril 5 mg c/ 24 horas, furosemida 40 mg c/ 24 horas, omeprazol 20 mg c/ 24 horas, oxcarbamazepina 300 mg/12 (no lo
+tomaba), sertralina 50 mg c/ 24 horas, hidroferol 1 c/ 12 días (bebible)
+
+PROCÉS ACTUAL
+Paciente que estando previamente asintomático presenta hoy 19.04.2017 a las 13:15h aproximadamente debilidad hemicuerpo derecho y trastorno de emisión del lenguaje por lo que avisa a SEM que activa el código ictus a las 14:20h, el paciente llega a Urgencias del nuestro centro a las 14:36h.
+
+
+EXPLORACIÓ FÍSICA
+
+FC	60 bpm
+Tªaxi 36.4 ºC
+FR	rpm Tªrec  ºC
+TA s	153 mmHg SAT O2 98 %
+TA d   83 mmHg Pes Kg
+
+Exploración Física Urgencias:
+
+Glicemia capilar 66mg/dL.
+
+Exploración neurológica: paciente vígil, orientación no valorable por afasia, no obedece órdenes ni emite lenguaje, mirada centrada, hemianopsia homónima derecha por reflejos de amenaza, hemiplejia facio-braquio-crural derecha,hipoestesia hemicuerpo derecha, RCP flexor izquierdo, extensor derecho.
+
+NIHSS: (0.2.2)0.2//2(4.0)(4.0)//0.1.3. 2.0 = 22
+
+Exploración Neurológica Planta de Neurología 27/04/2017: Paciente alerta, orientado en espacio no en tiempo, nomina y obedece ordenes simples y complejas, fluencia verbal disminuida, no alteraciones campimétricas exploradas por confrontación, no alteraciones de la oculomtricidad intrínseca ni extrínseca, leveasimetría facial derecha, MIller Fisher derecho, no déficit sensitivo.
+NIHSS: (0-0-0)0-0//1 (0-0)-(0-0)//0-0-1-1-0 = 3
+
+
+AC con tonos cardíacos irregulares sin soplo, AR con MVC sin ruidos sobreañadidos, abdomen blando y depresible, no doloroso a la palpación, no se palpa masa ni megalia, peristaltismo conservado. No edema ni signos de TVP en EEII.
+
+EXPLORACIÓ COMPLEMENTÀRIA
+Analítcas:
+
+Informe d'alta d'hospitalització
+
+
+
+
+Analítica urgente (19/04/17): Hemograma: leucocitos 6600 (N 44,1%, L 40,5%, M 7%), Hb 12,3g/dL, Hto 38,3%, plaquetas 179.000. Hemostasia:  TP 92%, fibrinógeno  506mg/dL, TTPA 31,6seg. Bioquímica: glucosa 80mg/dL, urea 39mg/dL, creatinina 0,97mg/dL, Na 135mmol/L, K 4,3mmol/L, PCR 3,9mg/L.
+
+Analítica de ingreso (24/04/17): Leucocitos 8900 (N:60.9%) Hb 13.3 g/dl Hcto 40.6% Plaquetas 176000 TP 83% INR 1.15 TTPA 31.5seg Fibrinógeno 585 mg/dl Glucosa 96 mg/dl Proteina 60.5 g/L Albúmina 33.2 g/L Urea
+32 mg/dl FG 66 ml/min Creat 1.01 mg/dl Yrato 4.7 mg/dl Calcio 8.90 mg/dl Magnesio 1.65 mg/dl Sodio 138.4
+mmol/L Potasio 4.51 mmol/L Bilirrubina 0.43 mg/dl FA 59 U/L ALT 11 U/L GGT 24 U/L CK 25 U/L PCR 7.50 mg/L Triglicéridos91 mg/dl Colesterol 96 mg/dl (HDL 44.9)
+
+Analítica de control 28/04/2017:
+Leucocitos: 7.100 (N: 55.1%, L: 31.9%, M: 31.9%) Hto: 40.6%, Hb: 13.3 g/dl , plaquetas: 195.000
+Coagulación: TP: 85%, TTPA: 32.9 seg, Fibrinógeno: 678 g/L
+Bioquímica: Glucosa: 93 mg/dl, Urea: 38 mg/dl, Cr: 1.13 mg/dl, Na: 135 mmol/L, K: 5.0 mmol/L , Ca: 9.2 mg/dl, CCK: 23, troponina ultrasensible 11
+
+
+Estudio de imágenes:
+TC craneal (pendiente de informe definitivo): persiste hematoma subdural fronto-parietal izquierdo con componente de hemorragia aguda. Atrofia cerebral difusa importante. No se observa lesión isquémica aguda, ASPECTS 10. AngioTC craneal: Oclusión M1 distal izquierda.
+
+TC de cráneo control (21/04/17): Aparición de pequeña hipoatenuación temporal izquierda, corticosubcortical,   compatible   con   lesión   isquémica   aguda   del   territorio   de   ACM   izquierda.   Persiste aproximadamente sin cambios la colección extraaxial subdural frontoparietal izquierda, laminar, de coeficiente de atenuación similar al parénquima adyacente, sin efecto masa significativo.Sin otros cambios TC valorable
+
+ECG: FA con FVM de 65lpm, QRS estrecho, no alteración de repolarización aguda.
+
+EVOLUCIÓ CLÍNICA
+Paciente varón de 89 años pluripatológico con antecedentes destacables de factores de riesgo cardiovascular, FA en antiagregación, crisis epiléptica probablemente secundaria a angiopatia amiloide, hematoma subdural en 04.2017 que consulta por debilidad hemicuerpo derecho y trastorno de emisión de lenguaje de 1h y media de evolución.
+A su llegada a Urgencias el paciente se encuentra hipertenso, afebril, la exploración neurológica destaca clínica de afectación total de circulación anterior izquierda (TACI izquierda) con puntuación de NIHSS de 22.
+Electrocardiograma está FA con FVM de 65lpm, analítica urgente es normal. Se realiza TC craneal urgente donde persiste hematoma subdural fronto-parietal izquierda con componente de sangrado agudo, no se observa lesión isquémica aguda. AngioTC craneal muestra oclusión distal de arteria cerebral media izquierda (M1 distal).
+
+Informe d'alta d'hospitalització
+
+Se orienta el caso como ictus isquémico ACM izquierda de etiología probablemente cardioembólico. Por antecedente de hematoma y angiopatía amiloide se desestima tratamiento fibrinolítico, también se desestima tratamiento endovascular por estado funcional previo del paciente. Se deja el paciente en observación en urgencias y se decide ingreso en planta de neurología convencional.
+
+Durante su estancia en planta de neurología paciente evoluciona favorablemente desde el punto vista clínico mejorando la debiliad de extremidades derechas y hemianopsia manteniendo la afasia puntundo un NIHSS de 3.
+
+Orientamos episodio como un ictus de ACM izquierda de etiología y mecanismo cardioembólico en paciente que se desestima tratameinto anticoagulante dado que el riesgo de sangrado supera el  beneficio. Se incia antiepilépticos dado que no se puede descartar del todo componente comicial sobreañadido, familia refiere que no tomaba tratamiento antiepiléptico en casa. Refiere además que durante el ingreso presenta inversión de imágenes de características intermitentes por lo que e orienta como posibles crisis comiciales, se decide iniciar tratamiento con oxcarbamacepina (150mg c/ 12 horas en dosis ascendentes). Ha realizado dos deposiciones semilíquidas sin fiebre (Se recomienda dieta astringente)
+
+Dada la estabilidad clínica del paciente se decide traslado a _SS_) para continuar con rehabilitación.
+
+DIAGNÒSTICS
+436/5 Ictus isquémico de terriotio de ACM izquierda de etiología y mecanismo cardioembólico
+401.9 Hipertensió essencial inespecificada
+250.00 Diabetis mellitus II sense complicació,controlada
+272.0 Hipercolesterolèmia pura.Hipercolesterolèmia familiar,hiperlipoproteïnèmia:tipus IIa(Fredrickson),LDL
+305.01 Abús d'alcohol, sense dependència, continu
+427.31 Fibril·lació auricular
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+- Adiro 100 mg c/ 24 horas
+-Atorvastatina 40 mg c/ 24 horas
+-Enalapril 5 mg c/ 24 horas
+-Furosemida 40 mg c/ 24 horas
+-Omeprazol 20 mg c/ 24 horas
+-Levetiracetam 500 mg c/ 12 horas
+- Oxacarbamaceoina 150 mg c/ 12 horas para luego subir a 150-0-300 (5 días) y luego 300-0-300
+-Sertralina 50 mg c/ 24 horas
+-Hidroferol 1 c/ 12 días (bebible)
+-Brinzolamida+timolol 2 gotas oculares
+
+CONTROL
+Visita y seguimiento en consultas externas de neurología (Dra. _NAME_) se le avisará por teléfono Pendiente visita con Neurocirugía para control de hematoma subdural
+Pendiente de TAC craneal para control
+
+Informe d'alta d'hospitalització
+
+
+
+DESTINACIÓ A L'ALTA:	HOSP. AGUTS/PSQ
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+02.05.2017
+Pàgina 1 de 5

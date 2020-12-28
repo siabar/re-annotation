@@ -1,0 +1,151 @@
+_LOCATION_
+email: _CONTACT_ Telèfon _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 73 Anys
+NIF/DNI: _ID__NAME_; _NAME_
+Informe de Trasllat a Sociosanitari
+15:00:00
+15.11.2017
+_LOCATION_
+_SS_ NEUROLOGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_; _CONTACT_; _CONTACT_
+DOMICIL/RES.SOC 05.11.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Pacient que ingressa per sospita d'Ictus con quadro de afasia y hemiparesia derecha.
+
+ANTECEDENTS
+No alergias medicamentosas conocidas.
+Ex- fumador desde hace 5 años de 2 paq/día.
+
+-Hipertensión arterial esencial en tratamiento con Losartan 100mg.
+-Cavernomatosis múltiple en ambos hemisferios diagnosticados en 2012 a raíz de hemorragia cerebelosaizquierda secundaria a cavernoma hemisférico cerebeloso izquierdo intervenido el 12/11/2012 mediante craniectomia suboccipital, drenaje y colocación de DVE de forma temporal que pudo retirarse sin complicaciones. En abril de 2013 se colocó DVP Polaris por hidrocefalia secundaria, actualmente a 30mmH2O. Presenta ataxia cerebelosa residual con tendencia a la lateropulsión derecha y posterior. Seguimiento en CEX Neurocirugía (Dr _NAME_).
+**RMN craneal julio 2017: Control de lesiones cavernomatosas supratentoriales sin signos de aumento de tamaño ni de sangrado reciente en comparación con RM previa de 2015. Cambios post-IQ de fosa posterior con disminción de la colección extracraneal suboccipital izquierda.
+-Infarto lacunar crónico en hemiprotuberancia derecha hallazgo en RMN de 2012.
+-Hematoma subdural laminar post traumático en 04/2013.
+-Dolicoectasia basilar, aneurisma fusiforme de los segmentos C4, C5 y C6 de la arteria carótida interna izquierda y estructura venosa anómala desde el margen lateral y occipital izquierdo hasta valle silviano y a nivel de asta temporal del ventrículo lateral sugestivo de drenaje venoso anómalo, descritos en RMN de noviembre de 2012.
+-AIT carotídeo izquierdo (en forma de afasia) de etiología indeterminada por estudio incompleto en octubre de 2017, dado de alta el 29/10. Se realizó Doppler TC/TSA que no mostró estenosis significativas, no se realizó estudio cardioembólico porque no se consideró anticoagulable (riesgo de complicaciones hemorrágicas).
+-Hipotiroidismo yatrógeno secundario a tiroidectomía total por BMN pretóxico con nódulo mayor de 4 cm e hipertiroidismo subclínico.
+
+Situación sociofuncional: parcialmente dependiente para ABVD (para la ducha, resto independiente). Deambula con bastón y a veces usa otro apoyo (persona) por hemiparesia izquierda secundaria a hemorragia cerebelosa en 2012, por lo que requiere supervisión estrecha. Deterioro cognitivo leve en forma de trastorno mnésico. mRS 3
+
+MEDICACIÓ HABITUAL
+Eutirox 125mg 1 comprimido al día, Losartan 100mg 1 comprimido al día, Rocaltrol 0.25mg 1 comprimido al día, Dolocatil 1g 1 comprimido al día
+.
+
+PROCÉS ACTUAL
+Su mujer refiere que, habiéndose acostado en 04/11/17 sobre las 23.45h asintomático, en 05/11/17 sobre las 10.30h al despertar lo encuentra afásico y hemiparético derecho, por lo que avisa al SEM, quienes activan código
+
+Informe de Trasllat a Sociosanitari
+
+
+
+
+ictus a las 11:51h.
+
+
+
+
+EXPLORACIÓ FÍSICA
+
+En Urgencias:
+TA 160/95mmHg FC 61lpm SpO2 100%aa BMT 81mg/dl
+AR: MVC; roncus y crepitantes en ambas bases pulmonares de predominio en base izquierda.
+Estado general conservado. NRL: Vigil, alerta, POC izquierda (1), LOC Q 0/2 (2), LOC C 0/2 (2), afasia global (3+2, nomina 1/2, no repite, disartria severa), probable HHD (2) por amenaza, PFSN derecha (1),hemiparesia derecha (1+1), hipoestesia no valorable (1). NIHSS 16
+
+A su ingreso en la Unidad de Ictus:
+TA 133/77, FC 57 lpm, Afebril, 107mg/dL
+EN: alerta, DOC hacia la izqueirda (2), HHD por reflejo de amenaza (2), Afasia severa (5), hemiparesia facio (1), braquio 1/5 (4), crural derecha 4/5 (1), sensibilidad no valorable (1). NIHSS 16
+
+EXPLORACIÓ COMPLEMENTÀRIA
+-	ECG: ritmo sinusal a 70lpm ,eje 0º, PR 0.16s, QRS estrecho, T negativas en V1 sin otras alteraciones de la repolarización, QT 320ms. Morfología compatible con HBAI.
+-ECG 7/11 : FA debut con FC 150-195lpm
+-Analitica urgencias: Hties 5.24 x10E12/L; Hb 15.4 g/dL; Hto 48.6 %; VCM 92.7 fL; Leucocitos 5.76x10E9/L; Neutrófilos 3.5 x10E9/L; Linfocitos 1.5 x10E9/L, Plaquetas 190 x10E9/L. TP 86 %; INR 1.09; TTPA 29.9 seg; Fibrinógeno derivado 4.75 g/L. Glucosa 85 mg/dL; urea 74 mg/dL; creatinina 1.25 mg/dL; FG 57 ml/min; sodio
+143.2 mmol/L; potasio 3.94 mmol/L; calcio 8.9 mg/dL; AST 12 UI/L; ALT 17 UI/L; Proteínas 7.0 g/dL.
+-	Rx torax: no se observan claras condensaicones parenquimatosas pero base pulmonar izquierda parece mas opacificada q derecha.
+-	TC craneal multimodal urgente: Craniectomía occipital. Sistema de derivación ventrículo peritoneal con entrada a través de frontal derecho y extremo distal en III ventrículo. No se observan alteraciones sugetsivas de lesión isquémica aguda. ASPECTS 10/10. El sistema ventricular no se observa dilatado, sin cambios respecto al Tc previo. Estructuras de la línea media centradas. No se observan lesiones hemorrágicas intra o extraaxiales. Persisten los múltiples hallazgos ya conocidos, correspondientes a la hiperdensidad lineal/tubular que se extiende desde el margen lateral del ventrículo lateral y occipital izquierdo hasta el valle silviano, sugestiva de drenaje venoso anómalo ya conocido y probablemente asociando cavernoma temporal izquierdo. Persiste sin cambios la colección subyacente a la craniectomía occipital de 37 x 61 mm. El estudio de perfusión se observa un alargamiento de los tiempo al pico (TTP) y tiempo de tránsito medio (MTT), asociado a un aumento del volumen cerebral (de probable origen compensatorio a través de colaterales); con disminución del flujo cerebral (CBF). Dichos hallazgos se observan en el territorio superficial de la ACM izquierda, territorios ASPECTS 2, 3, 5 y 6; afectando predominantemente al parietal y temporal ipsilateral. Además en dichos territorios se observa  un extenso MTT/ CBV. El estudio angioTC demuestra una oclusión de la ACM izquierda justo inmediatamente distal a su bifurcación, afectando primariamente al segmento más proximal de la M2.  Tronco bovino como  variante anatómica. Ambas ACI permeables, discretamente tortuosas, con calcificaciones en sus bifurcaciones y sifones que no condicionan estenosis significativas. Persiste la dilatación fusiforme de la arteria ACI supraclinoidea izquierda. Dolicobasilar, ya conocida. Resto sin hallazgos significativos. Enfisema paraseptal de LLSS. Conclusión:
+-	
+Informe de Trasllat a Sociosanitari
+
+
+
+
+ASPECTS 10/10 basal. Oclusión de M2 proximal, con área de penumbra significativa en territorio superficial de ACM izquierda (que afecta predominantemente al parietal y temporal izquierda) en segmentos de ASPECTS 2, 3, 5 y 6.
+-	Trombectomía: Por punción de a. femoral común derecha se cateteriza ACI izquierda y se realizan series angiográficas que muestran oclusión de una rama M2 izquierda. Se sube introductor largo a ACI y en el momento de cateterizar con microcatéter/microguíasegmento cervical de ACI el paciente empieza a agitarse y a mover la cabeza. Una vez se aumenta la sedación, se inyecta contraste y se observa una disección de la carótida. En un primer momento se intenta cateterizar la luz verdadera pero no es posible, por lo que se estudian el resto de troncos supraórticos. Desde ACI derecha se estudia la AComA es permeable pero solo se visuliza paso claramente a ACA . Desde circulación posterior (AV derecha acabada en PICA) se observa permeabilidad de la AComP izquierda pero con escaso paso de contraste hacia territorios de ACM. Dados los hallazgos se decide volver a intentar cateterizar la luz verdadera de ACI izq. Se consigue y se despliega un Solitaire 6x30 en ACM como anclaje para poder subir tanto el catéter distal Navien como el introductor 6F en ACI. Se despliega un Viabahn de 5x50 quedando cubierto el segmento proximal de la disección por lo que se despliega un Acclino 5.5x20 a nivel distal. El control muestra estenosis parcial en Acclino así como trombo distal, por lo que se despliega un segundo Acclino (6x30) y se realiza angioplastia con balón Copernic 5mm cubriendo el trombo y dilatando la estenosis. Los controles muestran que persiste la oclusión de M2, con permeabilidad de la ACI y sus prótesis. Conjuntamente con Neurología se decide dar por finalizado el procedimiento.
+-	TC craneal cotnrol 12 horas: Respecto al TC anterior se visualiza aparición de extensa hipodensidad cortico-subcortical fronto-parietal izquierda sugestiva de lesión isquémica aguda en territorio superficial de la ACM izquierda, asociado a borramiento difuso de los surcos de la convexidad adyacente. Hiperdensidades en surcos fronto-parietal izquierdas con un área más foca frontal izquierdo sin claro efecto de masa, que podría corresponder a retención de contraste vs transformación hemorrágica.
+-TC craneal control 24 horas: El estudio comparativo muestra una mejor delimitación con estabilidad de la extensión del área hipodensa que afecta la región corticosubcortical frontoparietal izquierda en relación a lesión isquémica establecida en territorio superficial de la ACM izquierda identificando una área focal de parénquima a aparentemente preservado correspondiendo al área más hiperdensa visualizada en el estudio  previo. Leve colapso del VL izquierdo secundario a edema así como borramiento de los surcos. No se observan claros signos de transformación hemorrágica. Estructura tubular hiperdensa que discurre desde el valle silviano hacia la región periventricular frontal izquierda sugestiva de correspondera una anomalía  del drenaje venoso. Lesión focal hiperdensa adyacente al asta temporal del VL izquierdo sugestiva de cavernoma, sin cambios. Válvula de derivación ventriculoperitoneal frontal derecha con extremo en la pared lateral izquierda del tercerventrículo. Resto del estudio sin cambios a destacar respecto al estudio previo. Cisternas peritronculares y de la base craneal libres.
+-	Telemetría cardiaca: FA debut
+-	EKG: FA rápida a 190-220 lpm
+-Analitica general 06/11: Hemoglobina 14.8 g/dL, Hematòcrit . 45.2 %, Volum corpuscular mig (VCM) . 90.6 fL, Leucòcits - 12.61 x10E9/ Neutròfils % . 88.4 % Limfòcits % . ¯ 4.0 % Monòcits % . 7.4 % Eosinòfils % . 0.0 % Basòfils % . 0.2 % Plaquetes . 185 x10E9/L INR) . 1.20, Glucosa - 143 mg/dL Glicohemoglobina (A1c) . 5.7 % Urea - 57 mg/dL Creatinini . 1.44 mg/dL Filtrat glomerular 48 ml/min/1,73 m2 Urat 6.4 mg/dL Bilirubina . 0.67 mg/dL Bilirubina esterificada . 0.25 mg/dL sodi 141.2 mmol/L potassi . 3.60 mmol/L Calci . 8.1 mg/dL Aspartat-aminotransferasa 48 UI/L Alanina-aminotransferasa . 18 UI/L Fosfatasa alcalina . 81 UI/L Gamma-glutamiltransferasa . 70 UI/L, Colesterol - 246 mg/dL Colesterol d'HDL . 66 mg/dL Colesterol d'LDL 172 mg/dL Triglicèrid .¯ 38 mg/dL, Proteïna .6.5 Albúmina . 3.9 Proteïna C reactiva . 2.61 Treponema pallidum. Ac específics (CLIA) Negatiu,  HIV1/-2. Ac. totals i Ag p24 (CLIA) Negatiu
+-	Ecografía Doppler-dúplex color de arterias carótidas, vertebrales y transcraneal: Estudio linmitado por movimiento constante del paciente. - Placas de ateroma en ambos bulbos carotideos sin repercusión hemodinámica. - No se viusalizan stents ACI I ni vertebrales proximales. - Arteria vertebral derecha con flujo de
+-	
+Informe de Trasllat a Sociosanitari
+
+
+
+
+alta pulsatildiad a nivel extracraneal (no se visualiza a nivel intracraneal). - Mala ventana acústica transcraneal insonando parcialmente arterias sin objetivarse alteraciones (ACMs simétricas, no se visualiza AV derecha). - Resto de estudio sin objetivarse alteraciones.
+-	Analitica  general  control  13/11/2017:  Urea  64,  Na  146.9,  Ca  7.5,  GGT  109,  proteina  6.4,  PCR  3.35, Digoxinemia 1.39, resto normal
+
+EVOLUCIÓ CLÍNICA
+Paciente varón de 73 años con antecedentes a destacar HTA, Cavernomatosis múltiple diagnosticada en 2012 a raíz de hemorragia cerebelosa izquierda con hidrocefalia secundaria por lo que se realiza craniectomia suboccipital, drenaje y colocación de DVE, Infarto lacunar crónico en hemiprotuberancia derecha, Hematoma subdural laminar post traumático 04/, Dolicoectasia basilar, Aneurisma fusiforme de segmentos C4, C5,C6 y ACI, así como estructura venosa anómala en región silvina izquierda. Hipotiroidismo tras tiroidectomía total por BMN pretóxico con nódulo mayor de 4 cm e hipertiroidismo subclínica, AIT hemisférico I (afasia autolimitada) en octubre de 2017 por lo que estuvo ingresado en la Unidad de Ictus. No se completó estudio etiológico dado que se trata de un paciente no anticoagulable por riesgo hemorrágico, mRS 3 por deterioro cognitivo, si bien es independiente para aseo, vestir, realiza básicas instrumentales y marcha autónoma.
+
+Consulta por clínica del despertar objetivada a las 10:30 am del día 5/11/17 de alteración del lenguaje y hemiparesia D. Ultima vez visto asintomático a las 1 am. A su llegada NIHSS 16, se realiza TC multimodal que muestra ASPECTS 10, oclusión M2 izquierda y mistmach rama posterior ACM I, por lo que activan la guardia neurovascular. Se desestima rtPA por inicio indeterminado y antecedentes. Tras informar a la familia del diagnóstico, procedimiento indicado y riesgos del mismo y tras firma de consentimiento informado se decide tratamiento intraarterial primario. El paciente llega a la sala a las 13:32, hora de punción 13:42. En la primera serie realizada a las 13:52 confirma oclusión M2 izquierda (TICI 0). Como complicación se produce disección ACI I, sin que se consiga recanalizar tras multiples pases. Se realizan por ellos series para valorar suplencia a través de colaterales objetivándose que a través de ACI D se rellena vía ACoA ACA I y sin objetivarse gran aporte a tráves de ACoP. Se decide por ello realizar nuevo pase sobre ACI I. Se consigue acceder a ACM I realizándose serie control a las 15:22 confirmandose persistencia oclusión M2. Se coloca Solitaire a las 15:30 para anclar dispositivo de cara a colocar 3 stents sobre ACI I (15:49, 15:59 y 16:14 respectivamente). En la serie de control a las 16:34 se objetiva permeabilidad ACI I si bien a nivel intracraneal queda oclusión M2 (TICI 0). Se decide finalizar el procedimiento a las 16:50. Se realiza Xpert- CT control de difícil valoración (drenaje venoso anómalo- hsa?, dudosa hipodensidad rama anterior ACM I). Hemodinámicamente estable durante el procedimiento. Al finalizar el mismo NIHSS 20 a expensas de Mutismo (7), DOC I (2), HHD por amenaza (2), Hemiparesia FBC D (2+4+2), posible hipoestesia (1). Ingresa en la Unidad de Ictus para control evolutivo.
+
+Desde el ingreso en UI, estable hemodinámicamente persistiendo con clínica de TACI izquierdo (NIHSS 16). Se realiza TC de control precoz que muestra posible TH vs retención de contraste, así como Eco Doppler que si bien no permite una valoración de los stents porque no son visualizados, no muestra alteraciones que hagan pensar en una reoclusión de los mismos. Se realiza a las 24 horas nuevo TC de control que confirma lesión isquémica establecida en territorio superficial de la ACM izquierda, sin signos de transformación hemorrágica, por lo que se inicia antiagregación simple, no se considerandose candidato a doble antiagregación por alto riesgo hemorrágico dados los antecedentes. Como incidencias presenta insuficiencia respiratoria en contexto de posible broncoaspiración por lo que se inicia ATB y nebulizaciones con buena tolerancia y evolución. Durante la monitorización se detecta FA que precisa de tratamiento frenador, aunque dados los antecedentes no se considera candidato a anticoagulación y en situación de estabilidad clínica es trasladado a planta de Neurovascular para control evolutivo y continuidad de cuidados.
+
+Informe de Trasllat a Sociosanitari
+
+
+
+
+
+Durante su estancia en planta de Neurovascular sin recurrencias, ha presentado mejoría neurológica pasando a NIHSS 11+1 a expensas de mutismo (2+2+3), obedece alguna orden por imitación y responde a la familia con monosílabos ocasionalmente, HHD por amenaza (2), PFSN D leve (1), mano D caída (+1) resto de balance motor conservado, sensibilidad no valorable (1). Se realiza AG control con digoxinemia dentro de rango. Como incidencias, ha presentado síndrome confusional agudo por lo que ha precisado medicación, pauta que actualmente estamos intentando adaptar dada la buena evolución. En situación de estabilidad clínica y hemodinámica se decide alta a CSS y control en CCEE Neurovascular con Doppler de cara a ver evolución del stenting y si presenta mejoría clínica recomentar posibilidad de cierre de orejuela (ya comentado durante el ingreso, pero dada la situación en ese momento no se consideró candidato a ello). En el momento del alta NIHSS 11+1, mRS 5
+
+DIAGNÒSTICS
+Ictus ACM I de etiología cardioembolica (FA debut)
+Tratamiento intraarterial primario. Disección carotidea tratada con stenting
+
+PROCEDIMENTS
+TC multimodal urgente Trombectomíamecánica Angioplastia + stent
+TC craneal control Telemetría
+AG
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Se adjunta
+
+CONTROL
+Control en CCEE Neurovascular con Doppler segun cita adjunta, entregada a la familia Control por especialistas habituales como tenga previsto
+Control estrecho de factores de riesgo vascular por CAP
+
+DESTINACIÓ A L'ALTA:	SOCI SANITARI
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+15.11.2017
+Pàgina 1 de 5

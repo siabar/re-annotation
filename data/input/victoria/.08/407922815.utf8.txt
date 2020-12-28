@@ -1,0 +1,103 @@
+I.CLINIC DE NEUROCIÈNCIES NEUROLOGIA
+_NAME_	NHC: _ID_
+
+
+Sexo/Sexe: Fem.	Fecha nac./Data naix.: _DATE_	Edad/Edat: 47 años Dirección/Adreça: _LOCATION_.	CP: _LOCATION_
+Municip. (Prov.): _LOCATION_  ABS:_SS_	Tel.:_CONTACT_ - _CONTACT_ As.: SERVEI CATALA DE LA SALUT	CIP: _ID_	NASS: _ID_
+Nº epis.: _ID_	Tipo/Tipus: HOSPIT.	Inici.: 01.09.2017
+Serv: NEUROLOGIA	UO Enf.: I064 SALA G DE NEUROL. INTE   Hora: 17:15:00
+
+
+
+
+
+Tipo ingreso/Tipus ingrés: Urgent	Motivo/Motiu alta: Hospital Ag.
+Diag.:
+POSIBLE ICTUS LACUNAR ()
+Proc.:
+TC CRANEAL MULTIMODAL ()
+
+
+
+
+INFORME CLÍNICO ALTA / INFORME CLÍNIC ALTA
+
+Motivo de consulta / Motiu de consulta
+Alteración sensitiva de inicio súbito.
+
+Antecedentes e historia previa / Antecedents i història prèvia
+Mujer de 47 años, sin alergias medicamentosas, exfumadora. Independiente (mRs 1).
+
+
+ANTECEDENTES MÉDICOS:
+
+1.	HIPERTENSIÓN ARTERIAL en tratamiento farmacológico.
+
+2.	DISLIPEMIA enm tratameinto farmacológico.
+
+3.	DIABETES MELLITUS tipo2 en tratameinto farmacológico.
+
+4.	DISECCIÓN CAROTÍDEA IZQUIERDA con lesión isquémica en territorio de la arteria cerebral media izquierda. Portadora de stent.
+
+5.	ESTENOSIS CAROTÍDEA DERECHA del 60% (según refiere), portadora de stent por progresión de grado de obstrucción con controles sucesivos desde 2014 (no disponemos de informes).
+
+
+ANTECEDENTES QUIRÚRGICOS:
+
+6.	COLECISTECTOMÍA Y APENDICECTOMÍA.
+
+
+MEDICACIÓN HABITUAL: Ranitidina 300mg/24h, clopidogrel 75mg/24h, atorvastatina 80mg/24h, metformina 850mg 1-1/2-0, ezetimibe 10mg/24h, bisoprolol 2,5mg/24h, losartán 100mg/24h.
+
+Proceso actual / Procés actual
+Inicia en el día de ayer (31/8) alteración sensitiva en hemicara derecha (refiere sensación de notar como un líquido que recorre ssu cara). El día 1/9 de manera súbita a las 12.30 inicia sensación de acorchamiento
+en mano, con ascenso por el antebrazo y brazo y en pie de lado derecho.
+
+Exploración física / Exploració física
+01/09/2017-17:16:00: Frecuencia respiratoria (rpm) 11, Glicemia capilar (mg/dl) 120, PAS (mm Hg) 125, PAD (mm Hg) 71, Pulsioximetría (%) 97, Tª axilar (ºC) 36.6.
+NRL: Consicente y orientado en las 3 esferas. Lenguaje normofluente sin afasia (nomina, repite y obedece). Mirada centrada sin limitaciones. No déficits campimétricos. No paresia facial. Paresia braquio (4/5, con pronación y claudicación en Barré) crural (4/5), con hipoestesia de extremidades derechas. Mo dismetrías. No extinicón ni negligencias. NIHSS 1.
+
+Laboratorio / Laboratori
+Se adjunta.
+
+Radiología / Radiologia
+TC CRANEAL BASAL: No se observa hemorragia intra ni extraaxial. Parénquima cerebral sin alteraciones densitométricas. Diferenciación cortico-subcortical conservada. ASPECTS 10. No se observan lesiones isquémicas parenquimatosas subagudas ni otras lesiones isquemicas crónicas. Estructuras de la línea media centradas. Discreta asimetría de los ventrículos laterales, inespecífica. Cisternas basales libres.
+TC PERFUSIÓN: No se observan alteraciones valorables en los mapas de TTP, CBV y CBF.
+ANGIO-TC EXTRA  E  INTRACRANEAL: Arco aórtico y segmentos proximales de  troncos supraórticos sin ateromatosis ni signos de estenosis. Origen de la arteria carótida sin signos de estenosis. Stent carotídeo bilateral. Artefacto de movimiento a nivel del tercio superior del territorio carotídeo cervical y bifurcación, permeables. Segmentos intracavernoso y supraclinoideo de la arteria carótida interna sin ateromatosis ni signos de estenosis. Origen de las arterias vertebrales sin ateromatosis ni signos de estenosis. Principales arterias cerebrales intracraneales permeables (ACAs, ACMs y ACPs). Sistema vertebrobasilar permeable. Sin hallazgos radiológicos valorables en los vertices pulmonares.
+
+Evolución / Evolució
+1. SÍNDROME HEMISENSITIVO DERECHO.
+Mujer con alteración sensitiva de más de 24h de evolución, que parece ha sido fluctuante y progresiva. A su llegada hemodinámicamente estable, afebril. A la exploración paresia braquiocrural (4/5) con hipoestesia de extremidades derechas. Se realiza TC craneal multimodal que no muestra alteraciones en secuencia basal, sin estenosis en angio-TC, ni alteraciones en los mapas de perfusión. La analítica no muestra alteraciones relevantes. La monitorización muestra ritmo sinusal.
+Se trata de un síndrome hemisensitivo, posible ictus lacunar, en paciente con factores de riesgo vascular y portadora de stents en ambas acrótidas internas, sin evidencia de estenosis carotídea. El síndrome hemimotor es más dudoso que fuera algo agudo, ya que refiere leve déficit de fuerza en extremidades derechas debido a su lesión isquémica previa.
+Durante su ingreso en la Unidad de Ictus de neurología, monitorizada, se ha mantenido hemodinámicamente estable y afebril con mejoría de los síntomas sensitivos, persistiendo 4+/5 de fuerza en extremidades derechas (ella explcia que la vez previa no se vio comprometida la pierna).
+Contactamos con _SS_ para su traslado y completar el ingreso y estudio en su centro. Mantenemos mismo tratamiento antiagregante con clopidogrel.
+
+
+
+
+Plan terapéutico / Pla terapèutic
+Se mantiene medicación sin cambios.
+
+Otras recomendaciones / Altres recomanacions
+Se comenta con su Hospital de referencia (_SS_) y se decide traslado para completar estudio.
+
+
+
+Firma/Signatura1: _NAME_	Firma/Signatura2: _NAME_ Categoría: Resident 2	Categoría: Esp.Assist.Urg.
+Nº Matrícula _SS_: _ID_	Nº Matrícula _SS_: _ID_
+
+Fecha/Data Informe: 02.09.2017
+Hora Informe: 14:59:21
+
+Docum.: _ID_
+Hist. Clínica: _ID_
+El _SS_ ha incorporado sus datos al Fichero de Pacientes, para tratarlos con fines sanitarios.
+Puede ejercer sus derechos de acceso, rectificación, cancelación y oposición, así como obtener mas información en la Unidad de Atención al Cliente.
+Vers. 00
+Pag. 2 de
+3
+Episod.: _ID_
+_SS_ ha incorporat les seves dades al Fitxer de Pacients, per a tractar-los amb finalitats sanitàries. Pot exercir els seus drets d'accés, rectificació, cancel·lació i oposició, i obtenir més informació a la Unitat d'Atenció al Client.
+_SS_
+_LOCATION_) _LOCATION_) Tel. _CONTACT_ Fax _CONTACT_
+http://_CONTACT_/

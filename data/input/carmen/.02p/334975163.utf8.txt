@@ -1,0 +1,152 @@
+_LOCATION_
+Tel. _CONTACT_
+_LOCATION_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 88 Anys
+NIF/DNI: _ID__NAME_; _NAME_
+Informe de Trasllat a Sociosanitari
+14:13:21
+10.02.2017
+_LOCATION_
+_SS_ NEUROLOGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_; _CONTACT_
+DOMICIL/RES.SOC 24.01.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Hemiparesia fluctuante
+
+ANTECEDENTS
+Mujer de 88 años de edad:
+
+No alergias medicamentosas conocidas No hábitos tóxicos
+No antecedentes patológicos conocidos (no visitas medicas), ciega de ojo derecho
+
+Situación basal: Autónoma para actividades de la vida cotidiana (camina con bastón), Vive con dos hijos . Rankin 2 basal.
+
+
+MEDICACIÓ HABITUAL
+No
+
+PROCÉS ACTUAL
+Hijo de la paciente refiere que el día 24/01/2017 sobre las 10:00am la paciente presenta caída desde su propia altura al tropezar sin pérdida de conciencia posterior a esta caída la paciente cae tres veces más sin perder la conciencia el hijo lo asocia a falta de estabilidad. Por lo cual deciden consultar con Primària, donde evidencian desviación de la comisura labial y alteración del lenguaje por lo cual derivan al HTVC para valoración. Días previos la paciente había estado con cuadro de vías respiratorias altas y bajas para lo cual tomo jarabes antitusivos e ibuprofeno. No había referido palpitaciones ni dolor torácico.
+
+
+EXPLORACIÓ FÍSICA
+
+FC	81 bpm Tªaxi  ºC
+FR	rpm Tªrec  ºC
+TA s	109 mmHg SAT O2 95 %
+TA d   51 mmHg Pes Kg
+
+ACR: Ruidos cardiacos arrítmicos, ruidos respiratorios crepitantes finos de predominio izquierdo, bien ventilados Abdomen abundante panículo adiposo, no impresiona de dolor, peristaltismo presente
+Extremidades sin edemas
+Neurológico: Paciente con apertura ocular espontanea, orientada en tiempo, persona y espacio, le cuesta obedecer órdenes sencillas, desviación de la comisura labial hacia la derecha, lenguaje disartria, fuerza de MSD 3/5, MSI: 0/5, EII:3/5, extinción, Hiporreflexia.
+NIHSS al ingreso: 0-0-1-2-1-2-(4-1)-(3-1)- 2-2-1-1-2.=23
+
+
++ 26/01/17-   ACR:RC Arritmicos. MVC, algunos ruidos de transimisión de vías altas. ABD: globuloso,  blando,
+
+Informe de Trasllat a Sociosanitari
+
+
+
+
+depresible, no doloroso a la palpación, peristaltismo presente. Hematoma frontal izquierdo.NRL: despierta, orientada en persona, disartrica, hemiparesia de hemicupero izquierdo: MSI 1/5, MII 2-3/5. MSD 5/5. MID 3-4/5. HIporreflexia. Disminución de sensibilidad de hemicuerpo izquierdo. Obedece órdenes simple.
+
++ Evaluación inicial por Rehabilitación: EF: Desperta i orientada en el moment de la meva visita. Bradipsíquia. Parlàsis facial supranuclear esquerre.Disàrtria dubotosa, ja que la parla està condicionada per paralisi facial severa i el to de veu baix.  Hemiparèsia esquerra amb sinergia flexora molt incipient i dèbil de l'extremitata superior i sinergia extensora proximal de l'extremitat inferior. Hipoestèsia hemicos esquerre. Extinció sensitiva i heminegligència lleu. Incapacitat per mobilitzar-se al llit.
+Tos poc efectiva, sense capacitat per expectorar. Mobilitza abundant secrecions respiratòries, però no les expulsa.
+
+
+EXPLORACIÓ COMPLEMENTÀRIA
+-Perfil de urgencias 24/01/2017: Glucosa:129mg/dl, Urea:18mg/dl, Creatinina:0.49mg/dl, GOT:34U/L, TGP:27U/L, PCR:0.97mg/dl, Potasio:4.2mEq/L, Sodio:140mEq/L. TTPArao:1.04, TPrao:1.04
+Hemograma: Hb:15.1g/dl, Hto:45.1%, VCM:86.6fl, leucocitos: 6.49x10^9/L, Neutrofilos:3.93X10^9/L, %NEU:60.5, plaquetas:221x10^9/L
+-Gasometria Venosa: PH:7.43, PCO2:42mmHg, PO2:40mmHg, SatO2:77%, Bicarbonato efectiu:27.9mmol/L, exceso de bases:3.2mmol/L, CO2total:29.2mmol/L
+-	Tira reactiva de orina: compatible con ITU
+-	EKG: FA a 140lpm
+-	RX de torax: Engrosamiento de hilio izquierdo, no derrames ni condensaciones parenquimatosas.
+-	Rx tórax de control :Engrosamiento de hilio izquierdo, no cambios respecto a previa.
+
+-	TC de cráneo simple 24/01/2017: Dudosa ténue hipodensidad parieto-temporal derecha con pérdida de la diferención cortico-subcortical, en probable relación con infarto isquémico agudo. Hipodensidad en núcleo lenticular izquierdo, sugestiva de secuela de infarto lacunar. Conclusiones: -Dudosos signos incipientes de infarto isquémico agudo parietotemporal derecho. -Secuela de infarto lacunar lenticular izquierdo. -Hematoma de partes blandas frontal izquierdo, sin evidencia de fractura ni complicaciones intracraneales post-TCE.
+
+-	Analítica (26/01/17): glucosa 112mg/dl, urea 17mg/dl, creatinina 0.51mg/dl, GPT 23, GGT 20U/L, FA 72U/L, Albúmina 3.1g/dl, PCR<0.4, INR 1.13, Hb 11.9g/dl, Leucocitos 5 010(N47.9%), Plaquetas 190 000. Pro BNP 622.6pg/ml, CEA 2.04, CA 125 6.6, Ca 15.3 13.1, CA19.9 24.72, Alfafetoproteina 3. Digoxina 0.88ng/ml
+
+-	Ecocardio (27/01/17): Ventriculo izquierdo no dilatado, sin hipertrofia y con función sistólica normal (FE70%) Alteración diastólica grado II. Válvula mitral con calcificación del anillo e insuficiencia mínima. Vàlvula aòrtica esclerosada, con estenosis ligera e insuficiència mínima. Aurícules ligeramente dilatadas. Ventriculo derecho no dilatado y con buena contratalidad. IT ligera, PAP calculada de 35 mmHg. No derrame pericárdico.
+
+-	Cultivo orina: negativo
+-ECG: RS  a 50-60 x´, con BBDFH
+
+-Toxina clostridium (01/02/17): negativas
+-Coprocultivo negativo
+
+-TC craneal de control (08/02/17): Infarto isquémico instaurado en sustancia blanca frontal-frontoparietal derecha y otra cortico-subcortical occipitotemporal derecha con zonas de probable revascularización cortical, sinevidencia de
+
+Informe de Trasllat a Sociosanitari
+
+
+
+
+sangrado. Resto del estudio sin otros nuevos hallazgos significativos respecto al estudio previo del 24/01/2017.
+
+
+EVOLUCIÓ CLÍNICA
+Mujer de edad avanzada que ingresa por ictus fluctuante de hemcuerpo izdo con posterior paresia establecida severa.
+
+Durante su estancia:
+
+-ACV isquémico de agudo parietotemporal derecho de etiología cardioembolica . TC craneal (24/12/16)Dudosos signos incipientes de infarto isquémico agudo parietotemporal derecho.Secuela de infarto lacunar lenticular izquierdo. Hematoma de partes blandas frontal izquierdo, sin evidencia de fractura ni complicaciones intracraneales post-TCE.
+Paciente realzia RHB e inicio de dieta triturada con buena respuesta y progresión de la misma, logrando deambulación con andador y supervisión de personal de RHB. TC de control del 07/02/17 infarto isquémico instaurado en sustancia blanca frontal-frontoparietal derecha y otra cortico-subcortical occipitotemporal derecha con zonas de probable revascularización cortical, sin evidencia de sangrado.
+
+-Fibrilación auricular de novo --paciente que debuta con fibrilación auricular de novo durante su ingreso, y a nivel de RX tórax se evidencia engrosamiento hiliar por lo que se realiza interconsulta a Medicina Interna que comentan que estando con FA con buen control de frecuencia ventricular, anticoagulada, en ttx con betabloqueantes y digoxina. Se solicita ecocardio con FEV 70% y minimas alteraciones, se procede a retiro betabloqueantes y se mantiene digoxina con analítica con niveles en rango. Debido a que no se ve claro aumento patológico del hilio valorado en nueva Rx de control  y analítica con marcadores tumorales negativos, cierran la interconsulta.
+EL 26/01/17 se registra ritmo sinusal de la paciente, por lo que se considera que tiene una fibrilación auricular paroxística de novo. Durante su estancia la paciente ha estado con enoxaparina a dosis anticoagulantes y el 07/02/17 se decide inicio de acenocumarol.
+
+-ITU: sedimento de orina positivo por el que se realiza tratamiento empírico con Ceftriazona EV, con resultados posterior de urocultivo negativo y hemodinámicamente estable.
+
+-Sindrome diarreico autolimitado: que con dieta astringente y control sintomático se resuelve. Toxina clostridium y coprocultivo negativo.
+
+-Micosis oral y genital: se trata con nistatina con mejoría de micosis orofaringea y con antimicóticos en crema a nivel genital con mejoría.
+
+Se realizad interconsulta a UFISS, dada estabilidad clínica de la paciente y por claudicación familiar por lo que se decide su traslado a HSCJ.
+
+DIAGNÒSTICS
+434.91/1 Infart cerebral frontal-frontoparietal derecha y otra cortico-subcortical occipitotemporal derecha 427.31/2 Fibril.lacio auricular paroxistica
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Veure full de trcatament al SILICON
+
+Informe de Trasllat a Sociosanitari
+
+
+
+
+
+en principi anticoagulacio indefinida, INR diana entre 2-3.
+
+CONTROL
+Trasllat a _SS_.
+
+Ser`avisada per a visita de contorl a CEXT d eNeurologia (Dr _NAME_) en 2-3 ,mesos.
+
+DESTINACIÓ A L'ALTA:	SOCI SANITARI
+
+
+
+
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+10.02.2017
+Pàgina 1 de 4

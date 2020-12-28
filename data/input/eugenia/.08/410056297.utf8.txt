@@ -1,0 +1,82 @@
+Pàgina 1/2INFORME D'ASSISTÈNCIA/ALTA
+
+Núm. HC
+_ID_
+Nom i cognoms	CIP o pòlissa	Data ingrés
+_ID_	25/08/2017 19:07	Data alta
+04/09/2017
+Edat	
+
+Sexe
+_NAME_		81	Home
+Adreça		Telèfon	
+_LOCATION_,	_LOCATION_	_CONTACT_	
+Metge/essa responsable	Servei	Habitació	
+_NAME_	Medicina Interna	_ID_	
+Destinació a l'alta
+Domicili
+
+
+
+
+Antecedentes patológicos:
+No AMC. Exfumador severo. No enolismo. DL e HTA. No DM. Sd prostático.
+ETT 2008 IAo severa, sin clínica previa de IC; prótesis aórtica biológica en 2014 con FA paroxística periingreso. No nuevos episodios de FA, en tto antiagregante. Seguimientos correctos.
+Medicación habitual: Bisoprolol 2,5 mg 1 x 24 h, Duodart 0,5/0,4mg 1 x 24 h, Tromalyt 150mg 1 x 24 h.
+
+Enfermedad actual:
+Paciente de 81 años, que el 24/8 se activa código ictus por presentar cuadro brusco de afasia sensitiva de 2 hs de evolución. No cefalea no mareo no vómitos ni otra clínica neurológica, no palpitaciones ni disnea. Se realiza teleictus y trombolisis: 80 kg (actilyse bolus 7 mg + perfusión 65 mg en 1 hora) y se deriva al _SS_.
+
+En _SS_ se realizan las siguientes pruebas complementarias:
+ANALÍTICA: Gluc 5.5; Urea7; Cr72; Na+139; K 4.3, TTPA 0.94; TP1.11 . Hb154 g/L; VCM 90fL; Plaq 210000; Leuc 10.500.
+ECG: RS 75, eje 0º, PR 160ms, QRS de 120ms, T negativa en DIII e isoeléctrica en aVF como ECG previos.   TAC craneal y angioTAC : Pequeñas imágenes hipodensas lenticulares bilaterales que plantean el diagnóstico diferencial entre dilatación de espacios perivasculares o pequeños infartos lacunares antiguos. No se evidencian imágenes que sugieran isquemia aguda. Como variante anatómica se observa una hipoplasia del segmento inicial de la arteria basilar y una arteria trigeminal persistente izquierda de gran tamaño, de la cual dependen las dos arterias cerebelosas superiores y ambas arterias comunicantes posteriores (Tipo I de Saltzman). No se observan defectos de repleción en las arterias intracraneales.
+TAC de control 24h post-rTPA: Se compara con TC del 24.08.17 respecto al cual no se observan signos de transformación hemorrágica ni otros cambios significativos.
+Durante su estancia en Urgencias de _SS_ se mantiene hemodinámicamente estable sin presentar incidencias. Se realiza TC Craneal de control que no muestra lesiones isquémicas ni hemorrágicas agudas.
+Ctes: TA 147/81 mmHg, FC 66 lpm, satO2 100%, afebril.
+Expl NRL: consciente , dice mes y edad, no alteración del habla, obedece órdenes simples y complejas, nomina 5/5 con alguna parafasia fonémica, evoca 5/5, repite correctamente (1). MOEs normales. Campimetría por confrontación normal. No asimetría facial. Resto de PPCC normales. No déficit motor ni sensitivo. RCP flexor bilateral. NIHSS 0.
+
+OD: ictus de ACM izquierda tratado en fase aguda con rTPA ev. No candidato a trombectomía por  ausencia de oclusión intracraneal.
+Se cambia tromalyt a clopidogrel. Se deriva a _SS_ para continuar estudio.
+
+Exploración física: TA 153/80 FC 73 Tª (ºC) : 35.6 Sat O2 (%) : 95%.
+BEG Consciente y orientado, normohidratado y normocoloreado, no adenopatías.
+
+RCR sin soplos ni signos de IC IY- no edemas PC n PP+ AR eupneico mv conservado. Abdomen anodino. Neurológico sin cambios respecto a _SS_.
+AS: hemograma, VSG, bioquímica completa normal, colesterol 142.
+RX tórax: normal.
+ECG: Ritmo sinusal.
+Ecocardiograma doppler transtorácico: Función sistólica global y segmentaria del VI dentro de valores normales. Ligera HVI. Ventrículo izquierdo no dilatado. Función sistólica global y segmentaria del VD dentro de valores normales. Ventrículo derecho no dilatado. AI ligeramente dilatada. Aorta ascendente ligeramente dilatada. Prótesis biológica normofuncionante. Discos móviles. Gradiente acorde. No se detecta trombosis protésica por ETT. Gradiente igual a eco 2015.
+TAC cardíaco: no evidencia de trombos.
+Holter: Ritmo sinusal, sin transtornos del ritmo. No se detectan pausas. No FA, no arrítmias ventriculares. Variaciones circadianas del ritmo cardíaco.
+
+Evolución: durante el ingreso presenta mejoría clínica quedando prácticamente asintomático. Tras valoración conjunta con Cardiología y Neurología y dado que el paciente es portador de Prótesis aórtica biológica, asumimos que muy probablemente se trate de un AVC cardioembólico, pese a que las exploraciones complementarias realizadas no detecten trombo periprotésico ni arrítmias. Se realiza descoagulación con Sintrom y se da el alta.
+
+Orientación diagnóstica:
+-	AVC isquémico cardioembólico.
+-	IA severa. Prótesis biológica aórtica.
+-	HTA.
+-	DLP.
+
+Tratamiento:
+-	Sintrom según pauta de Hematología adjunta.
+-	Bisoprolol 2.5mg 1-0-0.
+-	Duodart 1 comp al día.
+-	Resto de tto habitual STOP.
+
+Acudir a CCEE de Neurología y Cardiología el día que se le indique.  Control de Sintrom el día que se le indique.
+
+
+
+
+Atentamente.
+
+
+
+
+
+
+
+Metge/essa: _NAME_ Núm. col·legiat/da: _ID_
+Signatura
+
+D'acord amb la Llei Orgànica de Protecció de Dades, les vostres dades personals seran incorporades a un fitxer informatitzat, el titular del qual és el _SS_ i que té com a finalitat exclusiva disposar de les dades personals dels pacients per a usos medicosanitaris. El ciutadà té dret a exercitar l'accés, la rectificació, l'oposició i la cancel·lació d'aquestes dades personals.

@@ -1,0 +1,154 @@
+_LOCATION_ Telf Consultes: _CONTACT_ / _CONTACT_
+Telf Centraleta Hospital: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 53 Anys
+NIF/DNI: _ID__NAME_; _NAME_
+Informe d'alta d'hospitalització
+12:16:53
+17.11.2017
+_LOCATION_
+_SS_ NEUROLOGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_; _CONTACT_
+DOMICIL/RES.SOC 16.11.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Paciente de 53 años que consulta por visión borrosa e hemihipoestesia izquierda.
+
+ANTECEDENTS
+-Sin alergias medicamentosas conocidas.
+-No habitos toxicos.
+
+-Fibrilación Auricular paroxistica. Sin tratamiento anticoagulante CHADS-VASC 0pts. Ecocardio TT Mayo.2017: V. izquierdo con dimensiones en el límite de la normalidad con hipocontractilidad global con función sistólica en ligeramente deprimida (Simpson biplanar 48%), Con AI leve dilatación.
+- Sin otros factores de riesgo vascular y sin otros antecedentes patológicos de interés.
+
+MEDICACIÓ HABITUAL
+Atenolol 50 mg, Apocard 100 mg.
+
+PROCÉS ACTUAL
+Paciente que refiere incio de enfermedad actual a las 20.30h del día 15.11.17 caracterizada por incio subito de visión borrosa con disminución de sensibilidad en todo el hemicuerpo izquierdo. Motivo por el que acude a urgencias, a las 21h es valorado.
+No refiere palpitaciónes, dolor toracico o cefalea.
+
+EXPLORACIÓ FÍSICA
+
+Consciente y orientado.
+ACR: Ruidos ritmicos sin soplos. MV audible sin agregados.
+ABD: plano, peristaltismo presente, blando y depresible. Extremidades eutroficas sin edemas. Exploració NRL:
+Vigil. CyO, Lenguaje conservado, no anosognosia ni asomatognosia,
+Pupilas isocoricas normoreactivas, Cuadrantanopsia superior izda, MOE conservados,
+Discreto   borramiento  de   surco   nasogeniano  izquierdo   con   resto   PPCC  conservado,  no   deficit  motor, hemihipoestesia izquierda. RCP izdo indiferente.
+
+
+EXPLORACIÓ COMPLEMENTÀRIA
+Analitica de urgencias:
+-Bioquimica: Creatinini 0.76 mg/dL, Glucosa 99 mg/dL, K 3.8 mEq/L, Na 140 mEq/L, Urea 41 mg/dL.
+-Hemostasia: INR 1.09, fibrinogeno 288mg/dl.
+-Hemograma: Hb 15.3g/dl, leucos 6790cel/L, plaquetas 208000cel/L.
+
+Informe d'alta d'hospitalització
+
+
+
+
+ECG: RS a 70lpm, PR normal, QRS estrecho sin alteraciones de la repolarización.
+
+- TC cranial: No se evidencian lesiones isquemicas agudas ni hemorragicas agudas intra o extra axiales.
+-AngioTC craneal y TSA: Oclusión del segmento distal de P2 de la ACP derecha. Arteria vertebral izquierda hipoplasica.
+
+Analitica de ingreso
+-Bioquímica: Glucosa 75 mg/dL, Urat 5.79 mg/dL, Urea 35 mg/dL, Creatinina 0.92 mg/dL, Colesterol 201 mg/dL,
+HDL 55 mg/dL, LDL126.84 mg/dL. TG 96 mg/dL, AST 22 U/L, ALT 33 U/L, GGT 95 U/L, FA 61 U/L, Na 141.0
+mEq/L, K 4.0 mEq/L.
+-Hemograma: hb 14.8g/dl, Hto 45%, VCM 92fl, Leucos 6570cel/L, plaquetas 198000cel/L.
+
+Ecocardio TT: Función sistólica conservada (FEVI 55%). Aurícula izquierda dilatada.
+
+RM Cerebral: (pre-informe) lesión isquémica aguda en cortex occipital medial, parte del territorio superficial de la ACP derecha sin otras imagenes patológicas relevantes.
+
+
+EVOLUCIÓ CLÍNICA
+Paciente con antecedente descrito que refiere incio subito de visión borrosa con disminución de sensibilidad en todo el hemicuerpo izquierdo el día 15.11.17, es valorado en urgencias objetivando deficit campimetrico con cuadrantanopsia superior izquierda e hemihipoestesia izquierda, se cursa analitica, ECG en ritmo sinusal y TC craneal descrito que destaca oclusión del segmento distal de la ACP derecha, se orienta como  ictus de ACP derecha de probable etiología cardioembolica, se decide ingreso y manejo conservador sin fibrinolisis ante NIHSS bajo (NIHSS 3pts).
+Durante su estancia en planta se encuentra hemodinamicamente estable, paciente refiere mejoria de cuadro clínico inicial actualmente no presenta defecto campimetrico ni alteraciones sensitivas, se realiza ecocardio TT y RM cerebral que evidencia lesión isquémica residual en territorio de la ACP derecha.
+En resumen, se trata de un paciente con FA paroxística que ha sufrido una embólia cerebral con buena evolución. Precisa tratamiento anticoagulante indefinido como prevención secundaria de nuevos eventos y seguimiento y control de los factores de riesgo vascular. Se indica dabigatran 150mg/12h por FA paroxistica con CHADS-VASC 2pts.
+Ante estabilidad clínica se decide alta a domiclio y control con su MAP y especialistas habituales.
+
+
+DIAGNÒSTICS
+ICTUS isquemico de ACP derecha cardioembólico FA paroxistica
+
+
+PROCEDIMENTS
+Médicos, analiticos, ECG, TC craneal -Angio TC, RM cerebral, ETT.
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Continuar su medicación habitual: Atenolol 50 mg, Apocard 100 mg.
+
+Informe d'alta d'hospitalització
+
+
+
+
+
+Inicar: PRADAXA 150mg / 12h.
+
+Dieta sana mediterranea. Ejerciico leve-moderado diario.
+
+CONTROL
+Seguimiento y control de los FRV con objetivos de TA <140/90, colesterol LDL<100, por su medico de familia. Continuar controles con su MAP y especialistas habituales.
+Acudir si presenta signos de alarma.
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+17.11.2017
+Pàgina 1 de 3

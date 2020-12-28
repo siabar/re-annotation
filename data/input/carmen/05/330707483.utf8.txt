@@ -1,0 +1,128 @@
+_LOCATION_
+_LOCATION_) Anul·lació/Reprogramació visites:_CONTACT_
+Telèfon Centraleta: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 79 Anys
+NIF/DNI: _ID__NAME_; _NAME_;;				
+_NAME_;
+_NAME_
+Informe d'alta d'hospitalització
+_LOCATION_
+_SS_ NEUROLOGIA 31.01.2017	15:42:18
+ABS
+Servei Data d'alta
+_CONTACT_; _CONTACT_
+DOMICIL/RES.SOC 18.01.2017
+_LOCATION_
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Mujer de 79 años, que ingresa en NRL por ictus ACM derecha + trombolisis ev.
+
+ANTECEDENTS
+-Alergia a betalactámicos
+-No hábitos tóxicos
+-HTA en tratamiento médico. DM2 tipo II en tratamiento con ADO + insulina. DLP en tratamiento médico.
+-No cardiopatías conocidas
+-EPOC en tratamiento broncodilatador
+-Ceguera bilateral.
+-Neurálgia del Trigémino
+-Osteoporosis
+Situación basal: Rankin 3. Parcialmente dependiente, requiere ayuda y supervisión por discapacidad visual.
+
+MEDICACIÓ HABITUAL
+Diazepam 1 cda 24h, Doxazosina 1 cda 24h + Enalapril 1 cda 24h, Ketoconazol, Levemir 22-0-20, Novorapid 4-0-0, Metformina 850mg 0-1/2-1/2, omeprazol 20mg c/24h, Formoterol+budesonida 3c/8h, Lormetazepam 1 c/24h, Simvastatina 40mg cada 24 horas, Pregabalina 1 c/12h, Sertralina 1 c/24h.
+
+
+
+
+
+PROCÉS ACTUAL
+Paciente de 79 años que, previamente asintomática, presenta el día 17 de Enero 2017, de manera súbita a las 19.30h debilidad del hemicuerpo izquierdo. Familiares avisan a SEM quien activa Código Ictus desde domicilio a las 21h. Llega a HUBa las 21:25. A destacar, durante la mañana crisis hipertensiva de difcil control y cefalea, acudió a _SS_ donde se realiza TC Craneal sin alteraciones y se realiza tratamiento sintomático de la hipertensión. Marchó a casa asintomática. Posteriormente es cuando presenta la focalidad NRL a las 19:30h.
+
+A su llegada a HUB, TA:188/107. FC:90. SA02:99%. A nivel NRL consciente, orientada en persona y lugar, no en tiempo, disartria severa (2), lenguaje conservado. TOC Derecha (1). Ceguera bilateral (+3). PFSN I leve (2). Hemiparesia Izquierda B 2/5 C 3/5 (3+2). Anestesia Izquierda (2). No agnosias NIHSS: 12 (+3).
+
+Se realiza analítica: Glucosa:14mg/dL. Trombocitosis 536000. Leucocitos:13500 (diferencial conservado). ECG en ritmo sinusal a 100lpm. PR 0,20, QRS estrecho, no alteraciones agudas repolarización.Rx tórax sin infiltrados. Tc Craneal (21:50, se demora por dificultad acceso venoso para realizar analítica): Sin alteraciones agudas.
+
+Se orienta como ictus ACM Derecha. En ausnecia de contraindicaciones se realiza rTPA. Previo al pase de Actylise se administra 50mg de Labetaol: TA: previas a la trombolisis:170/90, buen control tensional posterior. No tributaria a Trombectomíapor edad + mRankin 3. Ingresa en NRL-Unidad de Ictus.
+
+Informe d'alta d'hospitalització
+
+
+
+
+EXPLORACIÓ FÍSICA
+
+TA 140/51 mmHg, Fc 88 lpm, TºC 37,7ºC, SatO2 94%, DXT 200-300-X
+-	NRL: somnolienta (1), orientada en espacio, no en tiempo. Disartria severa  (2), Lenguaje aparentemente conservado pero dificultad por bradipsiquia y disartria. DOC D (2). Ceguera bilateral (3). PFSN izq (2). Hemiparesia izq B 0/5 (4), C 2/5 (3). No impresiona anestesia, sí hipoestesia izq (1). Agnosias difícilmente valorable. NIHSS: 13 (+ 3) (ceguera bilateral)
+-	AC: Tonos rítmicos, sin soplos. Pulsos periféricos presentes y simétricos. Ingurgitación yugular negativa, RHJ (-).
+-	AR: auscultación anterior. Poca colaboración. Roncus dispersos.
+-ABD: Abdomen blando y depresible. No doloroso a la palpación superficial ni profunda. No presencia de masas ni visceromegalias. Peristaltismo presente. PPL (-) bilateral.
+-	EEII: No edemas periféricos, no signos de TVP.
+
+EXPLORACIÓ COMPLEMENTÀRIA
+PRUEBAS PARA REALIZAR EN URGENCIAS.
+Analítica 17/01/2017: pH .42, pCO2 41mmHg, pO2 42mmHg, HCO3 26.5mmol/L, urea 4.7mmol/l, creatinina 51umol/L, glucosa 14.7mmol/L, Na 137mmol/L, K 3.34mmol/l, TTPA 0.98, TP 1, Hb 143g/L, VCM 80fL, Htc 42%, plaquetas 536 x10E9//L, leucocitos 13.5 x10E9/L(PMN 85%, Limfos 8.5%).
+ECG: RS a 100 lpm, PR 0,20, QRS no ensanchado, onda T negativa en V3, V4, isodifásica en V5 V6.
+Rx tórax: AP, rotada, poco penetrada, poco inspirada. No impresiona condensaciones parenquimatosas agudas. Poco valorable.
+TAC craneal: Estudio sin alteraciones sugestivas de isquemia aguda encefálica (ASPECTS 10). Cambios involutivos con atrofia, sincrónico con la edad. Leucoaraiosis.
+
+PRUEBAS PARA REALIZAR EN PLANTA.
+TAC craneal control posttrombolisis 18/01: Área de hipodensidad córtico-subcortical frontal precentral derecha en relación a lesión isquémica establecida. No se observa sangrado intra ni extraaxial. Resto sin cambios al control.
+Analítica ingreso NRL 19/01/2017: función renal conservada, ionograma normal, perfil hepático normal. Perfil lipídico: normal. H. tiroideas, cobalaminas y folatos normales. Glucosa 9.0 mmol/L. HbA1C 7,8%. Hemograma: plaquetas 516 x10E9/L, Hb 135 g/L, VCM 81 fL, leucocitos 12.9 x10E9/L, N 10.59 x10E9/L, L 1.23 x10E9/L. VSG 19 mm. Coagulación normal.
+Serología LUES: negativa
+ECOTSA: Ateromatosis en ambas bifurcaciones carotídeas, placas mixtas, velocidad sistólica de 110-130cm/seg en ACI proximal bilateral. AV derecha de 2,5mm e izquierda de 3,3 mmm, ortodrómicas, sin aceleraciones de flujo sugestivas de estenosis.
+RMN cerebral: Infarto establecido en territorio superficial de ACM derecha. Estenosis en el segmento en M2 de ACM derecha en la secuencia angio-RM. Infartos lacunares antiguos ganglionares basales bilaterales y en hemisferios cerebelosos. Signos de patología de pequeño vaso moderada
+ECO-TT: Muy mala ventana ecográfica. Resultados orientativos. Ventrículo izquierdo no dilatado ni hipertrófico, con función sistólica conservada y sin alteraciones segmentarias de la contractilidad. Ventrículo derecho no dilatado, normocontráctil. Aurícula izquierda y raíz aórtica no dilatadas. Válvula aórtica trivalva, sin estenosis ni regurgitación. Válvula mitral normal. No se detecta regurgitación tricuspídea. Vena cava inferior no dilatada y móvil.  Sin derrame pericárdico.
+
+Informe d'alta d'hospitalització
+
+
+
+EVOLUCIÓ CLÍNICA
+Mujer de 79 años que ingresa en NRL por ictus ACM derecha + trombolisis ev. A su ingreso en NRL, tendencia a hipertensión requiriendo perfusión de urapidilo, a la exploración NRL NIHSS de 15, TACI ACM derecha. Se realiza TAC de control post-trombolisis a las 24 horas, donde se evidencia área hipodensa frontal precentral derecha sugestivo de infarto isquémico, no signos de transformación hemorrágica. Se inicia AAS 300mg/día.
+
+Se realiza estudio con analítica de ingreso en la que destaca mal control glucémico (HbA1C 7,8%), perfil lipídico normal, trombocitosis de 516000, (presente en 2015, no estudiada). ECO-TSA evidencia importante ateromatosis en ambos ejes carotídeos de predominio en derecho aunque sin condicionar aceleraciones de flujo sugestivas de estenosis significativa. ECO-TT sin alteraciones relevantes. Se realiza resonancia magnética cerebral en la que se objetivan infartos parcheados en territorio ACM D y AngioRMN que informa de estenosis en ACM Derecha.
+
+A nivel neurológico no presenta cambios. Se inicia rehabilitación pasiva. Se inicia tolerancia oral tras test de disfagia. A día de hoy vigil, atenta, consciente y orientada. Disartria severa (2). TOC derecha (1). Ceguera bilateral (+3). PFSN I (2). Paresia braquial izq 0/5 (4) crural 3/5 (2). Hipoestesia BC izq (1). NIHSS 12+3.
+
+Como incidencias presenta posible broncoaspiración; se inicia tratamiento antibiótico con levofloxacino + clindamicina (alergia a Penicilina) con buena respuesta, hemocultivos negativos; tratamiento ya finalizado.
+
+Se envía informe  el 20 de Enero a su hospital de referencia (_SS_). Se decide traslado el día 31 de Enero para control evolutivo y rehabilitación. Se orienta como Ictus ACM Derecha probable etiología aterotrombótica (estenosis ACM D M1)
+
+DIAGNÒSTICS
+434.01 Trombosi cerebral, amb infart cerebral
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Se adjunta.
+
+DESTINACIÓ A L'ALTA:	HOSP. AGUTS/PSQ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+31.01.2017
+Pàgina 1 de 3

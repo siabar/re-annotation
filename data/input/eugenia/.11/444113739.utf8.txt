@@ -1,0 +1,139 @@
+SERVEI DE UROLOGIA
+INFORME DE ALTANº Historia clínica	_ID_
+Fecha de nacimiento
+_DATE_
+
+C.I.P.	_ID_	Código Centro	_ID_
+Teléfono	_CONTACT_	Dirección	_LOCATION_
+Fecha ingreso	12/11/17		_LOCATION_
+Fecha de alta	17/11/17	Teléfono	_CONTACT_
+Nº Asistencia	_ID_		
+UH	_ID_		
+
+
+DIAGNÓSTICOS:
+Fiebre de origen urinario.
+
+PROCEDIMIENTOS:
+Antibioterapia intravenosa
+
+MOTIVO CONSULTA:
+Fiebre de origen urinario.
+
+ANTECEDENTES:
+Alérgica-intolerancia a AAS y AINEs . No hábitos tóxicos.
+
+ANTECEDENTES PERSONALES:
+Hipertensión arterial que, en la actualidad, no precisa tratamiento.
+-	Diabetes mellitus tipo 2, sin tratamiento.
+-	Miocardiopatía hipertrófica (MCHO) con ecocardiograma inicial en 2012 con gradiente dinámico obstructivo. Última ecocardiograma 2014: Miocardiopatía hipertrófica con mínimo gradiente. Función sistólica VI normal. Se completó estudio con RMN (2013) que mostró miocardiopatia hipertrófica asimétrica con obstrucción del TSVI sin claro SAM ni realce tardío intramiocárdico. Prueba de esfuerzo en enero 2016: pobre capacidad de esfuerzo por edad y sexo, sin evidencia de aritmias y con resposta hipertensiva  posterior.  Diagnóstico  final:  miocardiopatia  hipertrófica  +  amiloidosis  cardíaca. Clase funcional II.
+-	Neoplasia de mama izquierda CDI estadio I de bajo grado. Se realiza tumorectomía + biopsia  de ganglio centinela cuyo resultado fue negativo. Siguió tratamiento con letrozol. Libre de enfermedad.
+-	Hiperuricemia en tratamiento con alopurinol.
+-	Incontinencia urinaria y sindrome miccional. En seguimiento por Urología. Urodinamia 07/10/15: vejiga hipersensible de capacidad funcional muy disminuida y acomodación normal. Detrusor hiperactivo.
+Varios episodios de cistitis, por lo que el 27/7/2016 se realizó infiltración con BOTOX. Último UC del 31/8 con crecimiento de E. coli BLEE. Cultivos previos (en marzo-abril) con E.coli sensible, K. pneumoniae sensible y E. faecalis. Se valora cistectomia y derivación urinaria por vejiga dolorosa crónica, pendiente de visita con urología.
+
+
+MEDICACIÓN HABITUAL:
+- Bisoprolol 2.5 mg: 1+1/2 -0-0
+-	Alopurinol 100 mg: 0-0-1
+-	Betahistina 8 mg: 1-0-1.
+-	Citalopram 20 mg: 1-0-0.
+-	Calcifediol: 1-0-0.
+-	Metformina 875: medio comprimido cada 12 horas.
+-	Natecal: según pauta previa.
+-	Omeprazol 40mg: 0-0-1.
+-	Lorazepam 1 mg: 0-0-1.
+-	Paracetamol si precisa.
+
+Nombre	_NAME_		
+ENFERMEDAD ACTUAL:
+Paciente que los ap descritos anteriormente que es tráida a UCIAS por SEM como CI extrahospitalario. Segun refiere la hija sobre las 2 de la tarde la paciente presenta cuadro de mirada perdida, desviación de la comisura bucal y desorientación acompañado de vomito alimentario. A su  llegada a UCIAS la paciente esta febril 37.7 y sin focalidad neurológica.
+
+
+EXPLORACIÓN FÍSICA:
+P.Arterial: 174/88 , T.Axilar: 37.7 , SatO2: 96% ,
+NRL Consciente y orientada en las 3 esferas. Sin focalidad en el momento actual.
+
+EECC:
+-	Analítica sanguínea 12/11/2017: glucosa 169 mg/dl, urea 42 mg/dl, creat 0.86 mg/dl, FG 66, Na 129.5mmol/l, K 4.31 mmol/l, Cloro 94.8 mmol/l, PCR 24.1 mg/dl, Hb 11.5 g/dl, Hto 33.6%, VCM 86.2 fl,
+HCM 29.5 pg, leucocitos 1280, neutrófilos 9980, linfocitos 940, monocitos 1860, plaquetas 177000,
+TP79.5%, TPratio 1.13.
+-	Sedimento orina: 20-50 leucos por campo, abundantes bacterias.
+-	Radiografía de tórax: marco óseo conservado, ICT<0.5, senos costofrénicos libres, no condensaciones.
+
+
+EVOLUCIÓN:
+Dada la clínica, las pruebas complementarias y los antecedentes se orienta como  fiebre de  origen urinario y se solicita valoración por Urología que considera la paciente tributaria de ingreso en _SS_ dados los antecedentes de la paciente (ectasia ureteral bilateral y pendiente de valoración para cistectomía). Se cubre empíricamente con ertapenem segun cultivos previos.
+En la _SS_ la paciente se mantiene con buena evolución, hemodinámicamente estable, con buen control del dolor y con orina clara. Se coloca sonda vesical y la paciente realiza orina clara con diuresis correcta. Se aísla en el cultivo un E. Coli sensible a cefalosporinas de 3a generación por lo que se desescala el tratamiento a cefixima manteniéndose la paciente afebril.
+Dada la buena evolución se decide dar de alta el día de hoy con sonda vesical.
+
+
+
+TRATAMIENTO:
+
+.-Cefixima 200mg cada 12 horas durante 14 días.
+.-Paracetamol 1g cada 8 horas.
+
+.-Continuar con su medicación habitual.
+
+
+INDICACIONES:
+
+- La paciente deberá acudir al Servicio de Laboratorio el próximo día 30 de Noviembre a las 8:00h. en ayunas para la realización de analítica general.
+
+-La paciente deberá acudir al Servicio de Med. Nuclear el próximo día 30 de Noviembre 2017 a las 9:00h para la realización de renograma. ( DEBERÁ BEBER UN LITRO DE AGUA,  PUEDE ORINAR, Y DEBERÁ APORTAR UNA BOTELLA DE AGUA DE 33CC).
+
+INDICACIONES:
+
+- La paciente deberá acudir a CC.EE de Urología el próximo día 11 de Diciembre 2017 para control evolutivo de la paciente.
+
+Dr/a.	_NAME_	Dr/a.	_NAME_
+_NAME_
+Dr/a.	_NAME_
+Cap del Servei
+(Nº Colegiado _ID_Metge/essa Adjunt
+(Nº Colegiado _ID_Metge/essa Resident
+(Nº Colegiado _ID_
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Les seves dades personals s'incorporen en un fitxer d´usuaris a fi del seu tractament sanitari. Pot exercir el seu dret d´oposició, accés i rectificació de les dades inexactes dirigint-se al Servei de Documentació Clínica.
+Sus datos personales se incorporan en un fichero de usuarios para su tratamiento sanitario. Puede ejercer su derecho de oposición, acceso y rectificación de los datos inexactos dirigiéndose al Servicio de Documentación Clínica
+
+_SS_ | NIF _ID_ |_LOCATION_ | Telèfon _CONTACT_ | Fax _CONTACT_ | _CONTACT_
+Pàgina 1 de 3

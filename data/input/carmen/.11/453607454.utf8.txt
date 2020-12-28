@@ -1,0 +1,117 @@
+IC DE MEDICINA I DERMATOLOGIA E014 SALA E MED. INT. AVI
+_NAME_	NHC: _ID_
+
+
+Sexo/Sexe: Masc.	Fecha nac./Data naix.: _DATE_	Edad/Edat: 66 años Dirección/Adreça: _LOCATION_		CP: _LOCATION_
+Municip. (Prov.): _LOCATION_  ABS:_SS_	Tel.:_CONTACT_
+As.: SERVEI CATALA DE LA SALUT	CIP: _ID_	NASS: _ID_
+Nº epis.: _ID_	Tipo/Tipus: HOSPIT.	Inici.: 21.12.2017
+Serv: NEUROLOGIA	UO Enf.: E014 SALA E MED. INT. _NAME_	Hora: 16:37:54
+
+
+
+
+
+Tipo ingreso/Tipus ingrés: Urgent	Motivo/Motiu alta: Defunc.
+Diag.:
+ICTUS ISQUÉMICO EN TERRRITORIO VERTEBRO-BASILAR () FIBIRLACIÓN AURICULAR ()
+INFECCIÓN RESPIRATORIA POR H.INFLUENZAE () MUERTE ENCEFÁLICA ()
+Proc.:
+ANALÍTICAS, CULTIVOS, RX TÓRAX () IOT+VM ()
+MONITORIZACIÓN ()
+
+
+
+
+INFORME EXITUS
+
+Motivo de consulta / Motiu de consulta
+ICTUS VERTEBROBASILAR
+
+Antecedentes e historia previa / Antecedents i història prèvia
+Antecedentes personales: Hombre de 66 años sin alergias conocidas ni hábitos tóxicos. Independiente para las actividades básicas de la vida diaria. Natural de _LOCATION_, vive con su hermano en _LOCATION_, es soltero. mRS 0.
+
+ANTECEDENTES PATOLÓGICOS:
+1.	HIPERTENSIÓN ARTERIAL en tratamiento farmacológico.
+2.	PROBABLE CARDIOPATÍA HIPERTENSIVA no filiada.
+
+* MEDICACIÓN HABITUAL (20/12/2017): - Losartán/hidroclorotiazida 50/12.5mg/24h - Amlodipino 5mg/24h.
+
+Proceso actual / Procés actual
+El 20/12 a las 4 am aproximadamente presenta debilidad de extremidades izquierdas de inicio súbito por lo que avisa al SEM, que activa código ictus y lo traslada a nuestro hopital.
+A su llegada a urgencias hipertenso con TAS 185 mmHg, afebril. Muy nauseoso por lo que se administra ondansetron 4mg ev. A la exploración inicial destaca hemianopsia homónima izquierda, hemiparesia izquierda (3/5) y mirada fija con limitación de la abducción con ambos ojos (NIHSS 11). Se realiza analítica que muestra insuficiencia renal no conocida con creatinina de 1.38 mg/dL, leucocitosis y neutrofilia.
+Antes de realizar el TC, el paciente presenta vómito con desaturación de hasta el 80% por lo que por probable broncoaspiración se traslada de nuevo al BPARO y se contacta con anestesia para IOT+VM.
+La neuroimagen (TC Cerebral multimodal) en la secuencia basal no se observan alteraciones, en angio-TC
+muestra ateromatosis grave de arterias intra y extracraneales, con oclusión de arteria vertebral izquierda y trombo a nivel del TOP de la basilar,segmento P1 de la arteria cerebral posterior derecha y en arteria cerebelosa superior derecha, con extensa área de penumbra isquémica en hemisferio cerebeleoso y occipital derecho. Durante el procedimiento el paciente presenta varios episodios de bradicardia súbita alternada con FA con respuesta ventricular rápida, requiriendo administración de atropina en 2 ocasiones.
+Se orienta como ictus isquémico en territoiro vertebro-basilar por oclusión de la arteria vertebral izquierda y trombosis en el TOP de la basilar. Dado que se mantiene muy hipertenso durante todo este tiempo se desestima tratamiento fibrinolítico y se traslada a DIVAS para realizar tratamiento endovascular del ictus mediante trombectomia mecánica con punción femoral a las 7:30 am sin conseguir recanalización arterial por dificultad de sobrepasar el trombo. Durante el procedimiento además se detecta trombosis de la basilar desde tercio medio, por lo que  se realiza trombectomia a dicho nivel consiguiendo recanalizar, pero persistiendo la oclusión a nivel del TOP de la basilar y de la ACPD. Tras 5h de procedimiento se decide finalizar el tratamiento, persitiendo la oclusión en TOP y ACPD.
+Se informa a la familia de la gravedad del cuadro y del pronóstico del mismo. Se realiza RM cerebral el día 20/12 a las 17h que constata infarto isquémico masivo en territorio vertebrobasilar afectando a ambos hemisferios cerebelosos corticosubcorticales, vérmix y territorios de ambas arterias cerebrales posteriores temporo-occipitales y corticosubcorticales, junto con ambos talamos.
+Tras ello es trasladado nuevamente al BPARO y posteriormente ingresa en AVI para continuar evolución.
+
+Exploración física / Exploració física
+21/12/2017-16:49:38: PAS  (mm  Hg)  155,  PAD  (mm  Hg)  75,  Pulso  (ppm)  65.  2  1/12/2017-16:53:04 :
+Frecuencia respiratoria (rpm) 20. 21/12/2017-16:53: NRL: Consciente, orientado en las 3 esferas. Lenguaje normofluente sin rasgos afásicos. Disartria leve. PICNR.  Mirada centrada con limitación d e la mirada horizontal en ambas direcciones. Hemianopsia homómina izquie rda. Paresia facio(lev)-braquio(3-/5)-crural(3/5) izquierda. RCP extenso r bilateral. Sensibilidad sin alteraciones. NIHSS
+11. * INGRESO AVI: - N RL: RASS -5 bajo sedoanalgesia con propofol y remifentanilo, pendiente r educción progresiva de fármacos para exploración neurológica. - R: IOT + VM en modalidad volumen control, murmullo vesicular conservado. - CV: H emodinámicamente estable sin necesidad de tratamiento vasopresor.
+- ABD: globuloso, depresible, sin signos de peritonismo. Ruidos presentes. IND ICADORES DE ESTANCIA EN UCIIndicador de gravedad: APACHE II : 6;Indicado r disfunción orgánica: SOFA : 4;Indicadores de procedimiento: Ventilació n mecánica invasiva (*);
+
+Exploraciones complementarias / Exploracions complementàries
+21/12/2017.
+
+MICROBIOLOGÍA:
+-	Aspirado traquel: cultivo en curso.
+-	Urinocultivo: en curso.
+-	BAS: 1 S'aïllen 400.000 UFC/mL de Haemophilus influenzae Validació provisional 21/12/2017.
+LABORATORIO:
+* ANALÍITCA AL INGRESO EN AVI:
+-	BIOQUÍMICA GENERAL Glucosa 147/A mg/dL Creatinina 1.38/A mg/dL Filtrat glomerular calculat [CKD-EPI]
+52.90	ml/min/ Sodi 136 mEq/L Potasi 4.0 mEq/L
+-	HEMATIMETRIA Recompte de leucòcits 15.67/A 10^9/L Recompte d´hematies 5.18 10^12/L Concentració d´hemoglobina 166 g/L Hematòcrit 0.500 L/L VCM (Vol. corpusc. mitjana eritròcits) 95.9 fl HCM (Hb corpusc. mitjana) 32.1 pg Recompte plaquetes 265 10^9/L Neutròfils abs. (analit.) 11.6/A 10^9/L Limfòcits abs. (analit.) 2.8 10^9/L
+-	HEMOSTÀSIA GENERAL Temps de protrombina (%) 82.9% Temps de tromboplastina parcial 31.3 seg INR 1.10
+-	
+
+
+
+20/12/2017.
+
+IMAGEN:
+*	TC MULTIMODAL:
+-	TC CRANEAL BASAL: Diferenciación cortico-subcortical conservada. ASPECTS 10 Lesiones hipodensas en ganglios basales bilaterales compatibles con infartos lacunares antiguos. Hipodensidades periventriculares y en centros semiovales compatibles con leucoaraiosis
+-	TC PERFUSIÓN: Aumento del TTP y disminución del CBV y CBF que afecta el lobulo occipitoparietotemporal bilateral, de predominio derecho. Hay discordancia significativa.
+-	ANGIO-TC EXTRA E INTRACRANEAL: Aorta y segmentos proximales de troncos supraaórticos con leves signos de ateromatosis, permeables, sin estenosis secundarias. Arteria vertebral izquierda completamente trombosada desde el origen, con repermeabilización a nivel distal, probablemente de la basilar. Segmentos intracavernoso y supraclinoideo de las arterias carotidas internas con leves signos de ateromatosis, permeables, sin estenosis secundarias. Basilar permeable, con presencia de importante ateromatosis. ACP derecha no contrastada, hallazgos compatibles con trombosis de la misma.
+
+*	RMN cerebral: Svera dolicoectasia de arterias vertebrales y tronco basilar con trombosis del mismo que condiciona efecto masa sobre unión bulboprotuberancial. Infarto isquémico masivo en territorio vertebrobasilar afectando a ambos hemisferios cerebelosos corticosubcorticales, vérmix y territorios de ambas arterias cerebrales posteriores temporooccipitales corticosubcorticales, junto con ambos talamos. No se evidencian signos de transformación hemorrágica macroscópica evidente en las lesiones isquémicas agudas en territorio vertebrobasilar. Sistema ventricular de morfología y situación; normales. Infartos lacunares a nivel de ganglios basales y tálamos crónicos. Leucoaraiosis periventricular. Signos de leucoencefalopatía isquémica subcortical frontoparietal bilateral, sin poder excluir angiopatía amiloide o hipertensiva asociada.
+
+Evolución / Evolució
+.
+EVOLUCIÓN ÁREA DE VIGILANCIA INTENSIVA
+1.	ICTUS ISQUÉMICO EN TERRRITORIO VERTEBRO-BASILAR.
+2.	INFECCIÓN RESPIRATORIA POR H.INFLUENZAE
+3.	MUERTE ENCEFÁLICA
+
+Ingresa paciente sedoanalgesiado en RASS -4 con propofol y remifentanilo sin soporte vasoactivo, con tendencia a la hipertension arterial. Bajo IOT+VM con Fi02 al 45%.
+Durante su evolución en AVI presenta febrícula y analíticamente elevación de reactantes de fase aguda con aislamiento de H.Influenzae en BAS por lo que se inicia cobertura antibiótica con Amoxicilina- clavulánico siendo diagnosticado de neumonía precoz que condiciona insuficiencia respiratoria hipoxémica requiriendo incrementa progresivo de la FiO2 hasta 0.80. Requiere también inicio de perfusión de Noradrenalina en contexto de sepsis de fco respiratorio y disfunción de sistema vegetativo, con cambios bruscos en la TA y en la FC con alternancia de ACXFA y ritmo nodal.
+A nivel neurológico inicilamente se mantiene con sedoanalgesia profunda. Se realiza ventana de sedación objetivándose coma arreactivo con ausencia de reflejos de tronco, sin movilización espontánea ni retirada de extremidades al dolor por lo que se mantiene sin sedación para valoración del estado neurológico. El 23/12 se realiza exploración clínica compatible con muerte encefálica pero EEG con actividad cerebral lenta difusa a 7uV. En las siguientes horas presenta emperamiento clínico con mayor inestabilidad hemodinámica, poliúria y ACXFA rápida que alterna con sinusal. Sin sedoanalgesia durante más de 24h con tóxicos (barbitúticos y benzodiazepinas) negativos en sangre, se revalora el 24/12. Exploración física: Coma arreactivo al dolor ni al estímulo verbal. Pupilas midríaticas arreactivas. Ausencia de reflejos fotomotor, consensuado, corneal, oculo-cefálico, oculo-vestibular, nauseoso ni tusígeno. Test de atropina positivo para muerte encefálica. Test de  apnea realizado ayer (PCaO2  final 72); hoy no realizado por tendencia  a
+
+
+
+hipoxemia. EEG: trazado isoeléctrico a 2uV con únicamente artefacto EKG y EMG no reactivo a estímulos dolorosos. Al estímulo luminoso intermitente segiumiento únicamente en los canales fronto-polares (electroretinograma)no a nivel occipital. Con los hallazgos en la exploración clínica y prueba complementaria (EEG) compatible con muerte encefálica de origen conocido (ictus vértebro-basilar con mala progresión) es diagnosticado de muerte encefálica el 24/12/2017 a las 14:10h. Se informa a la familia que comprende la situación. Se plantea junto con coordinación de trasplantes la oportunidad de donación, expresando la familia que no era la voluntad del difunto por lo que se procede a la retirada del tratamiento de soporte vital.
+
+
+
+Firma/Signatura1: _NAME_ Categoría: Esp.Assist.Urg.
+Nº matrícula _SS_: _ID_
+
+Fecha/Data Informe: 24.12.2017
+Hora Informe: 20:44:22
+
+Docum.: _ID_
+Hist. Clínica: _ID_
+El _SS_ ha incorporado sus datos al Fichero de Pacientes, para tratarlos con fines sanitarios.
+Puede ejercer sus derechos de acceso, rectificación, cancelación y oposición, así como obtener mas información en la Unidad de Atención al Cliente.
+Vers. 00
+Pag. 2 de
+4
+Episod.: _ID_
+_SS_ ha incorporat les seves dades al Fitxer de Pacients, per a tractar-los amb finalitats sanitàries. Pot exercir els seus drets d'accés, rectificació, cancel·lació i oposició, i obtenir més informació a la Unitat d'Atenció al Client.
+_SS_
+_LOCATION_) _LOCATION_) Tel. _CONTACT_ Fax _CONTACT_
+http://_CONTACT_/

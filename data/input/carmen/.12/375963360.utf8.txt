@@ -1,0 +1,78 @@
+1/ 2
+
+Cognoms:   _NAME_	Adreça:  _LOCATION_
+Nom:	_NAME_	_LOCATION_
+Edat: 78	Sexe:H	CIP:	_ID_	NIF:	_ID_
+Data naixement:   _DATE_	NHC:	_ID_	NASS:    _ID_
+Telèfon / Mòbil:	_CONTACT_
+
+
+INFORME  D'ASSISTÈNCIA
+
+
+Metge/essa:	_NAME_	Servei:	Neurologia
+Data ingrés:	23/05/ 2017	Data Alta: 29/05/ 2017
+S'informa a:	Metge de família	Núm.  llit: _ID_
+
+
+DIAGNÒSTICS:
+1.	Ictus isquèmic de territori ACM esq. amb coexistència de dues causes (estenosi carotídia + fibril·lació auricular).
+2.	Estenosi severa de caròtide interna esq.
+3.	AC x FA.
+4.	HTA
+5.	Probable MPOC per emfisema pulmonar.
+6.	HBP.
+7.	Síndrome depressi va.
+
+
+Pacient de 78 anys sense al.lèrgies medicamentoses conegudes, fumador d'1 paquet de cigars al dia.
+
+ANTECEDENTS  PATOLÒGICS:
+·	HTA en tractament farmacològic.
+·	FA detectada fa uns 7 mesos en el context d'ECG preoperatori. Tractat amb Sintrom.
+·	Apendicectomia.
+·	Hernioplàstia engonal dreta el  febrer-2017.
+·	Hiperplàsia benigna de pròstata.
+·	Síndrome depressi va en tractament.
+·	Consulta a Urgències el 01.05.17 per cel·lulitis a escrot.
+
+Situació social i funcio nal:  vi u amb la seva esposa, que és depenent, pel que rep suport de cuidadora, a més del seus fills. El pacient és autònom per totes les acti vitats de la vida diària, Rankin 0.
+
+Tractame nt h abitu al: Sintrom segons pauta. Amlodipino 5 mg, 1 comp. al dia. Permixon 160 mg, 1 comp. cada 24 hores. Citalopram 10 mg, 1 comp. al dia. Atenolol 100 mg, 1 comp. al dia. Diazepam  5 mg, 1 comp. al dia.
+Enalapril/ HTZ 20/12' 5, 1 comp. cada 12 hores.
+
+MALALTIA  ACTUAL:
+El dia 22. 05.17, a les 9:45 hores mentre li estaven mirant la glicèmia capil·lar, es queda sense poder parlar i amb pèrdua de força al braç dret. A visen al SEM, qui trasllada el pacient a Urgències del nostre hospital, sense preavís, arribant a les 10:35 h., s'activa codi ictus des del servei d' Urgències a les 10:45 h. essent  valorat per Neurologia.
+Posteriorment, quan el pacient ha pogut expressar-se, refereix que des de fa 3-4 dies té almenys 1 episodi diari de pèrdua de força al braç dret, que s'autolimita en unes 2 hores.
+
+EXPLORACIÓ  FÍSICA:
+Conscient i orientat en persona, temps i espai. TA a Urgències 117/58. Afebril, resta de constants normals. AC: tons arítmics, no bufs.. AR: MVC. NRL: llenguatge amb fluència disminuïda, tot i que  permet  mantenir una conversa amb ell. No dèficits campimètrics per confrontació, parells cranials normals. Lleu pronació de la mà dreta a la maniobra de Barré i lleu claudicació a l'EID. No es detecten dèficits sensitius ni campimètrics.
+NIHSS: 0-0-0-0-0 / 0-0-0-1-0 / 0-0-1-0-0 = 2.
+
+EXPLORACIONS   COMPLEMENTÀRIES:
+ A nal ít i c a d' Ur gènc i es : INR 2' 38, glicèmia 236, resta  de  bioquímica  i  hemograma  sense  alteracions significatives.
+Analítica d' i ngr és : creatinina 1'34, FG 55, resta d'hemograma i bioquímica sense alteracions significatives.
+ECG: AC x FA amb FVM 70x'.
+TA C crani al + angi o TAC (2 2.05.1 7, 11:1 0 h): no s'aprecien lesions hemorràgiques. Petits focus d'hipodensitat subcorticals suggesti ves d'isquèmia crònica, dubtosa àrea d' hipodensitat occipital esq. que podria correspondre a lesió isquèmica. A l'estudi angiogràfic s'observen plaques fibrolipídiques i calcificades a ambdues bifurcacions carotídies, que condicionen estenosi del 30 al 50% a caròtide interna dreta i de més del 70%  a  segment proximal de caròtide interna esq. A més, marcada ateromatosi càlcica a crossa aòrtica. Marcat  emfisema paraseptal i centre-lobulillar a ambdós àpex, de predomini dret.
+RMN cranial: atròfia global, lesions isquèmiques cròniques a substància blanca, de petit vas. Di verses lesions isquèmiques agudes, de petita mida, distribuïdes a territori cortical d'ACM esq., algunes d' elles també a territori frontera.
+Ecodop pler TSA: plaques d' ateroma d' aspecte heterogeni i a ambdues bifurcacions carot ídies, condicionant estenosi severa, més del 70%, a caròtide interna esq. i del 30 al 50% a caròtide interna dreta.
+DTC: s'observa el flux d'ambdues ACM, simètriques (VPS d'ACM dreta 76, esq. 95), així com ACA, ACP, vertebrals i basilar. No es visualitza l'oftàlmica esq.
+
+EVOLUCIÓ:
+El pacient arriba a Urgències des d'on s'activa codi  ictus  intrahospitalari,  amb  simptomatologia  de  territori carotidi esq., però molt millorat. Es desestima tractament fibrinolític sistèmic per  INR i no es considera t ributari de tractament endovascular a fase aguda per l'absència d'oclusió. Al mateix temps, es detecta a l' angio-TAC una estenosi crítica a l'inici de caròtide interna esq., decidint l'ingrés a Neurologia.
+L'evolució clínica posterior ha estat favorable, de manera que a l'alta el pacient té un llenguatge normal i resta una lleu parèsia de la mà dreta, que no l'impedeix ser autònom per les acti vit ats de la vi da diària, requerint encara alguna ajuda en alguna tasca que requereixi de precisió amb aquesta mà (NIHSS 0, Rankin 2).
+Des del punt de vista etiològic, es tracta d'un pacient que té doble patologia, fibril.lació auricular i una estenosi carotídia severa. Considerem més probable que aquest darrer hagi estat el factor precipitant  de l'ictus, donat que posteriorment ha referit que els dies previs tenia clínica suggesti va d'AIT, sempre del mateix territori. En qualsevol cas s'ha decidit el canvi d'anticoagulant, havent iniciat Apixaban, associat a antiagregant i estatines. S'ha presentat en sessió de caròtides de _SS_,  considerant -lo  tributari d'endarterectomi a, pel que l'avisaran per vi a telefònica properament.
+Durant l'ingrés s'ha mantingut amb xifres  correctes  de  TA,  sense  precisar  tractament  farmacològi c. Recomanem controlar aquest factor els propers dies, evitant situacions d' hipotensió. Fins la data de la intervenció es recomana repòs relatiu.
+Atesa l'estabilitat clínica els darrers 7 dies, es permet l'alta hospitalària amb el tractament esmentat i es cita a CCEE de Neurologia.
+
+TRACTAMENT:
+·	Eliquis 5 mg, 1 comp. cada 12 hores.
+·	Adiro 100 mg, 1 comp. cada 24 hores.
+·	Cardyl 40 mg, 1 comp. al vespre.
+·	Omeprazol 20mg, 1c/dia
+·	Permixon 160 mg, 1 comp. cada 24 hores.
+·	Citalopram 10 mg, 1 comp. al dia.
+·	Atenolol 100 mg, 1 comp. al dia.
+·	Diazepam 5 mg, 1 comp. al vespre.
+·	
+Signat per _NAME_ núm.col: _ID_ Data/ Hora:29-05-2017 12:38

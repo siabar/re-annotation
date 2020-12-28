@@ -1,0 +1,85 @@
+_SS_
+_LOCATION_)  Tlf. _CONTACT_
+INFORME ALTA HOSPITALITZACIÓNHC	_ID_	Pacient	_NAME_	
+CIP	_ID_	Data Naix.   _DATE_	Edat 65	Sexe Home	NASS	_ID_
+Adreça   _LOCATION_	CP	_LOCATION_
+Població_LOCATION_	Tel.	_CONTACT_
+Episodi  _ID_	Admissió	07.07.2017 09:44	Alta	13.07.2017 15:28
+Servei	NEUUOHMB Neurologia	Unitat	U04UHHBL
+
+DIAGNÒSTIC ALTA
+
+Codi ICD-9	Descripció Diagnòstic
+434.91/8	INFART LACUNAR
+272.4/1	DISLIPEMIA
+305.1/1	FUMADOR
+
+DADES INFORME
+
+Motiu de consulta:Paciente diestro de 65 años, sin alergias medicamentosas conocidas ( refiere intolernacia a AAS), fumador de 10-15 cig/día ( refiere previamente 2 paq/día), enolismo moderado que ingresa procedente de la UCI por código ictus.
+
+Antecedents:
+-Dislipemia en 2009 sin tratamiento en la actualidad.
+-Portador de marcapasos DDDR por BAV completo en 2009 sigue controles en _SS_, se realizó ecocardiograma transtorácico en 2009 con mala ventana pero sin alteraciones significativas, SPECT miocárdico a 74% de FCMT no alteraciones significativas.
+-Lumbociatalgia izquierda en 2012.
+-Trastorno adaptativo.
+- Alteración de enzimas hepáticos en analítica de 2010. Niegan otros antecedentes patológicos de interés.
+Rankin previo: 0
+
+Malaltia actual:El paciente refiere que se ha levantado asintomático sobre las 7:15 presentando sobre las 8:30 mientras estaba sentado en el sofá jugando al ajedrez con el móvil episodio de pérdida de fuerza en mano izquierda al ir a coger un objeto de la mesita,intenta entonces levantarse sin poder aguantarse en bipedestación dado pérdida de fuerza en extremidad inferior izquierda. Niega cefalea, refiere mareo inespecífico no clara rotación de objetos, no dolor torácico o palpitaciones.
+Ante dicha clínica se llama al SEM sobre las 8:38h , que activa código ictus con preaviso a las 9:09. El paciente llega a nuestro centro a las 9:15h.
+
+Exploració física:
+A mi valoración TA 140/80, BMtest 146
+E NRL: consciente y orientado en persona, espacio y tiempo, no alt campimetría por confrontación, no nistagmo, PICNR lenguaje ( nomina 5/5, repite correctamente,fluencia conservada, comprende órdenes sencillas), no disartria, paresia facial izquierda leve, hemiparesia braquiocrural izquierda 4-/5, hipoestesia faciobraquiocrural izquierda, no clara dismetría de extremidades, RCPB flexor (NIHSS 0-0-0-0-0/1-(0-1)-(0-1)/0-1-0-0-0=4
+Aus card:tonos rítmicos sin soplos. Aus resp. eupneico, MVC Abdomen: anodino
+No signos de TVP
+
+Exploracions complementàries:
+-TC craneal urgente: sin alteraciones TC valorables.
+-AngioTC sin alteraciones valorables.
+-ECG: ritmo de marcapasos
+-Rx de tórax:la solicito
+-Analitica de urgencias: sin alteraciones.
+-Analitica de ingreso: se adjjunta
+-Ecocardiograma transtorácico +administración de contraste: Ventrículo izquierdo no dilatado, ligeramente hipertrófico con función ventricular ligeramente deprimida (FE per Simpson 49%),por movimiento septal y apical sugestivo de trasntorno de la conducción intraventricular. Sin trombos intraventriculares. Aurícula izquierda no dilatada.Válvulas normofuncionantes.
+-RM craneal: Infarto lacunar en fase subaguda capsulo-talámico derecho.Infarto lacunar crónico puntiforme mesencefálico derecho . Foco de microhemorragiacrónica yuxtaventricular derecho , inespecifico.
+
+Evolució: Se trata de un paciente de 65 años, fumador, enol, portador de marcapasos que presenta sdme sensitivo-moto izquierdo de una hora de evolución sin objetivarse sangrados ni signos inicipientes de lesión
+isquemica  en la TC craneal por lo que se decide tratamiento trombolítico ev tras descartar contraindicaciones. Dosis total alteplasia 65mg ( peso 72 Kg).Tras 30 minutos de perfusión el paciente refiere mejoría del déficit motor.(NIHSS
+2) Ante sdme sensitivo-motor izquierdo puro se orienta el cuadro como probable infarto lacunar, decidiéndose no traslado a centro de referencia por sospecha de pequeño vaso y ausencia de oclusion por duplex.
+Se realiza ecodoppler de TSA sin ateromatosis extracraneal hemodinámica significativa, duplex transcraneal con mala ventana transtemporal izquierda registrándose tan sólo la ACM izquierda, en el lado derecho se registra ACM, ACA,  AC segmento P2. Por vía transnucal se registran ambas vertebrales y basilar entre 75 y 83mm.
+Posteriormente en UCI presenta dos fluctuaciones de unos dos o tres minutos por lo que se decide angioTC urgente informado dentro de la normalidad.
+Durante su estancia en UCI no objetivan arritmias, estando hemodinámicamente estable. Se realiza TC craneal de control a las 24 horas sin cambios con respecto a estudio previo, iniciándose antiagregación con AAS sin presentar efectos secundarios.
+Se solicita RM craneal donde se objtetiva infarto lacunar capsulotalámico derecho.
+Se realiza no obstante estudio cardíaco con VI ligeramente hipertrófico con FE ligeramente deprimida por movimiento anómalo sugestivo de trastorno de conducción intraventricular, se recomienda control por su cardiólogo habitual.
+En analtiica de ingreso se objetiva LDL 150y se decide inicio de rosuvastatina, presenta alteración de la función hepática en el contexto de enolismo. Durante el ingreso se ha encontrado hemodinámicamentes estable con TA correctas y glicemias dentro de la normalidad. Se decide no obstante solicitar MAPA de HTA de forma ambulatoria. Desde el punto de vista neurológico el paciente ha presentado mejoría clínica presentando al alta leve asimetria facial, Miller Fiser izquierdo,parseia crural 4+/5, trastorno sensitivo faciobraquial izquierdo , babinski izquierdo (NIHSS 1, Rankin 2) deambulando sin punto de apoyo, habiéndose iniciado tratamiento rehabilitador precoz y siendo valorado por rehabilitaicón que instruye de ejercicios y cita para valoración de forma ambulatoria.
+
+Orientación diagnóstica:
+-Infarto lacunar capsulo-talámico derecho. (TOAST: Lacunar, Oxford: LACI, NIHSS 2, Rankin 2) realizándose tratamiento trombolítico ev en fase aguda
+-Portador de marcapasos
+-Fumador
+-OH
+
+Tractament mèdic al alta:
+ADIRO 100 MG/DÍA VO CRESTOR 10 MG/DIA
+OMEPRAZOL 20 MG/DIA
+
+Se recomienda control por cardiologia habitual.
+Solicito MAPA de HTA y posterior control en CCEE de Neurovascular en tres meses
+
+
+
+Tipus d'ingrés: Motiu d'alta:	Urgent Alt.Mèd.Domicil	
+Metge Adjunt:
+_ID_
+Servei:	_NAME_
+
+NEUUOHMB Neurologia	Nº Col·legiat Adjunt:
+
+Data informe:  13.07.2017
+
+
+Pàgina 1 de	3
+Data i hora d'impressió:
+13.07.2017 15:48:54

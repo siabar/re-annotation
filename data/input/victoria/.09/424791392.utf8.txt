@@ -1,0 +1,105 @@
+_LOCATION_) Telèfon _SS_  972 _CONTACT_
+Telèfon IDI (Ressonància i TAC) _CONTACT_
+Telèfon ICO _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 85 Anys
+NIF/DNI: _ID_Informe d'alta d'hospitalització
+14:00:00
+04.10.2017
+_LOCATION_
+_SS_ NEUROCIRURGIA
+CP
+ABS
+Servei Data d'alta
+_NAME_
+_CONTACT_; _CONTACT_; _CONTACT_; AGUTS
+01.10.2017
+Servei de Neurocirurgia.
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Valoració d'hematoma subdural.
+
+ANTECEDENTS
+ANTECEDENTES PERSONALES No AMC
+No habitos toxicos: ex-fumador (la mujer no sabe precisar desde cuando ha dejado de fumar, tampoco recuerda la cantidad) .
+Rankin 1: reciente diagnosticado de enfermedad de Parkinson pero sigue yiendo a huerto, va amb tractor
+
+ANTECEDENTES PATOLÓGICS
+HTA en tratamiento farmacológico
+Reciente diagnóstico de enfermedad de Parkinson con inicio de tratamiento con Sinemet. Fiebre de Malta a los 17 años
+Fractura brancas pelvianas el 2015 per accidente con tractor, no se realizó cirurgia. no IQ;
+
+ANTECEDENTES QUIRÚRGICOS:
+Prótesis pelvis izquierda. Faquectomia izquierda Herniorrafia inguinal izquierda.
+
+MEDICACIÓ HABITUAL
+Enalapril/Hidroclorotiazida   20/12.5mg   cada   24h,   Lorazepam   1mg/24h,   Parizac   (Omeprazol)	20mg/24h, Sinemetplus 1-1-1
+
+PROCÉS ACTUAL
+Pacient que ingresa via urgencies per valoració i tractament d'hematoma subdural diagnosticat en el contexte de possible crisi comicial afasia i mano torpe.
+
+EXPLORACIÓ FÍSICA
+
+EXPLORACION EN URGENCIAS:
+NRL: Vigil, responde el mes del año y su edad sin prob lemas, obedece ordenes simples y complejas sin problemas, repite palabras y frases sin anormalidades, puede decir 5 nombres de mujeres y 5 de hombres con fluencia adecuada(A pesa de que no objetivo alteraciones, el paciente refiere que siente dificultad para fluir con el lenguaje) . No deficit a los movimietos de persecuasion de los ojos. No deficit campimetrico a la confrontacion.
+
+Observo asimetria facial con surco nasogeniano derecho menos deprimido , est asimetria desaparece al sonreir. No deficit a la exploracion motor en EESS ni EEII cntra resistencia, no deficit sensitivo.
+
+Informe d'alta d'hospitalització
+
+
+
+
+
+NIHSS: 00000/(1)0000/00100: 1
+
+EXPLORACIÓ COMPLEMENTÀRIA
+TAC crani CONCLUSIONES: HSD bilaterales frontoparietales con signos de sangrado en diferentes estadios y leve efecto de masa sobre surcos corticales subyacentes, sin desviaciónde la línea media.
+
+Eco-doppler:
+-	TSA: ateromatosis con placas hipereicoicas y otras isoeicoicas de predomino en los dos bulbos carotidios, condicionando VSP de 120-140cm/s en ACI izquierda y VSP máximo de 80cm/s en ACI derecha pero con foco en la que se insona soplo con VSP de 40cm/s, flujo posterior de 40-50cm/s en ambas ACIs sin alteraciones.
+
+AV correctes:
+-	TC:  ACM  simétricas  con  VSP  de  60cm/s  simétricas,  ACPs  proximals  con  VSP  de  60cm/s  simétricas, ACAsortodrómicas. Oftalmica izquierda otrodrómica. Basilar hasta 8.5 cm sin alteraciones.
+
+EVOLUCIÓ CLÍNICA
+Pacient que un cop iniciat el tractament anticomicial i antiedema es soluciona la clínica. Es consensua actitud conservadora respecte l'hematoma subdural.
+
+No refereix signes de HTIC. No focalitat motora de vies llargues. No nous episodis de crisi comicial durant l'ingrés hospitalaria. Donada l'estabilitat clínica i que el pacient esta asimptomatic es decideix alta i control en CCEE de Neurocirurgia.
+
+DIAGNÒSTICS
+432.1/2 Hemorragia subdural no traumatica 852.20/3 Hematoma subdural traumàtica 780.39/2 Crisi comicial
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Medicació habitual sense canvis ( incloent parizac/omeprazol i xumadol).
+
+Keppra 500 mg / 12 hores fins nou control en CCEE de Neurocirurgia. Fortecortin 2 mg (dexametasona en pauta descendent)
+
+2 mg / 8 hores durant 4 dies
+1 mg / 8 hors durant 4 dies.
+1 mg / 12 hores (Matí i vespre) durant 4 dies. 1 mg / 24 hors (Matí) durant 4 dies i STOP
+
+
+
+CONTROL
+Control en CCEE de Neurocirurgia amb TC crani previ.
+Si signes d'alarma reconsultar ( Mal de cap intens. Vomits. Disminució del nivell de conciencia. Epilepsia)
+
+Informe d'alta d'hospitalització
+
+
+
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+Validat per: _NAME_	Col·legiat: _ID_
+
+04.10.2017
+Pàgina 1 de 3

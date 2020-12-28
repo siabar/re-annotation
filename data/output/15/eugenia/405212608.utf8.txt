@@ -1,0 +1,88 @@
+I.CLINIC DE NEUROCIÈNCIES NEUROLOGIA
+_NAME_	NHC: _ID_
+
+Sexo/Sexe: Fem.	Fecha nac./Data naix.: _DATE_	Edad/Edat: 67 años
+Dirección/Adreça: _LOCATION_		CP: _LOCATION_
+Municip. (Prov.): _LOCATION_  ABS:_SS_		Tel.:_CONTACT_
+As.: SERVEI CATALA DE LA SALUT	CIP: _ID_	
+Nº epis.: _ID_	Tipo/Tipus: HOSPIT.	Inici.: 22.08.2017
+Serv: NEUROLOGIA	UO Enf.: G064 SALA G DE NEUROLOGIA	Hora: 09:51:38
+
+
+Tipo ingreso/Tipus ingrés: Urgent	Motivo/Motiu alta: CSS Conval.
+Diag.:
+ICTUS ISQUÉMICO AGUDO ACMI (434.91) FIBRILACIÓN AURICULAR DE NOVO ()
+HIPERHOMOCISTEINEMIA. HIPOCIANOCOBALAMINEMIA. ()
+Proc.:
+ANALÍTICA SANGUÍNEA () ECG. MONITORIZACIÓN. () RADIOGRAFÍA DE TÓRAX () TC MULTIMODAL ()
+
+
+
+
+INFORME CLÍNICO ALTA / INFORME CLÍNIC ALTA
+
+Motivo de consulta / Motiu de consulta
+Alteración del lenguaje y debilidad de extremidades derechas de inicio indeterminado.
+
+Antecedentes e historia previa / Antecedents i història prèvia
+Mujer de 65 años sin alergias medicamentosas conocidas. Fumadora activa. Enol 2-4 UBEs/día. Independiente para las actividades de la vida diaria (mRS: 0). Sin antecedentes patológicos de interés ni tratamiento
+habitual.
+
+Proceso actual / Procés actual
+Acude a urgencias por alteración del lenguaje y debilidad de extremidades derechas. Vista asintomática el día de hoy (22/8) a las 8:50h. Asintomática el día previo (21/8) a las 20.30h.
+
+Exploración física / Exploració física
+22/08/2017-10:00:00: Glicemia capilar (mg/dl) 121, PAS (mm Hg) 112, PAD (mm Hg) 65, Pulsioximetría (%) 95, Tª axilar (ºC) 36. 22/08/2017-11:00:0 0 : Frecuencia respiratoria (rpm) 29.
+NRL: Consciente. Orientación no valorable por afasia, solo emitiendo sonidos, sin repetir ni obedecer. Mirada desviada hacia la izquierda, sobrepasando línea media, sin llegar a completar a la mirada extrema derecha. Reflejo de amenaza derecho abolido. Paresia facial completa, con plejia de extremidades derechas. Sensibilidad, dismetrías y extinción no valorables. NIHSS 23. Cardio: Arrítmico sin soplos ni ruidos patológicos. Pulmonar: MVF conservado sin sobreañadidos.
+
+Laboratorio / Laboratori
+
+
+*ANALÍTICA SANGUÍNEA: PCR de 15 sin leucocitosis asociada. Función renal, ionograma, bioquímica, perfil tiroidal y hemograma sin alteraciones. VCM de 104. Homocisteína elevada de 17; ácido fólico normal; vitamina B12 de 212 (sugestivo de déficit). Hb glicada de 5%. Perfil lipídico: LDL 58 HDL 40.
+
+Radiología / Radiologia
+*RADIOGRAFÍA DE TÓRAX PORTÁTIL: No se aprecian infiltrados ni consolidaciones. Cardiomegalia radiológica.
+*TC MULTIMODAL: - TC CRANEAL BASAL: parénquima cerebral con pérdida de la diferenciación cortico- subcortical y en ganglios de la base a nivel de cabeza del caudado izquierdo y núcleo lenticular izquierdo, que se extiende a capsula interna, lóbulo de la insula y convexidad izquierda en territorio superficial de ACM izquierda. ASPECTS (4) - ANGIO-TC EXTRA E INTRACRANEAL: presencia de placa ateromatosa en arteria carotida interna derecha a nivel se su origen con estenosis del 15% de su luz. Oclusion de la ACM izquierda en segmento M1, con escasa circulación colateral.
+
+Exploraciones complementarias / Exploracions complementàries
+*EKG: fibrilación auricular a 130lpm. QRS estrecho con morfología de hemibloqueo anterior izquierdo.
+
+Evolución / Evolució
+1.	ICTUS ISQUÉMICO AGUDO EN TERRITORIO DE LA ARTERIA CEREBRAL MEDIA IZQUIERDA (ACMI).
+2.	FIBRILACIÓN AURICULAR (FA) DE NOVO.
+A su llegada normotensa y afebril. En la exploración neurológica se aprecia un síndrome hemisférico izquierdo extenso (NIHSS: 23). Analítica sanguínea sin alteraciones significativas. ECG en fibrilación auricular previamente no conocida con respuesta ventricular media a 140-160 lpm sin inestabilidad hemodinámica.La neuroimagen (TC multimodal) muestra lesión isquémica extensa en territorio de la ACMI (ASPECTS 4). El estudio vascular (angio-TC) evidencia una oclusión en el segmento M1 distal de la ACMI sin ateromatosis de grandes vasos.
+Se trata de un ictus isquémico agudo en territorio de la ACMI de etiología cardioembólica por una FA de novo. Por ictus establecido no se realiza tratamiento revascularizador, se inicia anticoagulación con heparina con posterior paso a acenocumarol y tratamiento frenador.
+Durante el ingreso la paciente evoluciona de forma favorable, persistiendo en la exploración afasia global, hemianopsia derecha y hemiparesia facio (moderado) braquiocrural (4/5) derecha. Dada la situación se considera a la paciente tributaria de rehabilitación en el _SS_. Se ha solicitado la realización de un ecocardiograma transtorácico de forma ambulatoria y se recomienda seguimiento por cardiólogo de zona.
+Al alta: NIHSS: 10;   TOAST: cardioembólico;   mRS: 3.
+3.	HIPERHOMOCISTEINEMIA CON HIPOCIANOCOBALAMINEMIA Y MACROCITOSIS.
+En la analítica de ingreso se observa macrocitosis sin anemia con macrocitosis, hiperhomocisteinemia e hipocianocobalaminemia. Se inicia reposición oral de vitamina B12 y se recomienda control por su CAP de referencia al alta.
+
+Plan terapéutico / Pla terapèutic
+-	Digoxina 0,25 mg/48h. - Pantoprazol 40 mg/24h. - Acenocumarol según pauta. - Vitamina B12 1 g/24h.
+
+Otras recomendaciones / Altres recomanacions
+-	Traslado a _SS_. - Realizará ecocardiograma de forma ambulatoria. Se contactará para concertar cita. - Se recomienda control ambulatorio por parte de cardiólogo de zona. - Control por su CAP y especialistas de referencia.
+
+
+
+Firma/Signatura1: _NAME_	Firma/Signatura2: _NAME_ Categoría: Resident 2	Categoría: Espec. Senior
+
+
+
+Nº Matrícula HCP: _ID_	Nº Matrícula HCP: _ID_
+
+Fecha/Data Informe: 28.08.2017
+Hora Informe: 15:05:17
+
+Docum.: _ID_
+Hist. Clínica: _ID_
+El _SS_ ha incorporado sus datos al Fichero de Pacientes, para tratarlos con fines sanitarios.
+Puede ejercer sus derechos de acceso, rectificación, cancelación y oposición, así como obtener mas información en la Unidad de Atención al Cliente.
+Vers. 00
+Pag. 2 de
+3
+Episod.: _ID_
+_SS_ ha incorporat les seves dades al Fitxer de Pacients, per a tractar-los amb finalitats sanitàries. Pot exercir els seus drets d'accés, rectificació, cancel·lació i oposició, i obtenir més informació a la Unitat d'Atenció al Client.
+_SS_
+_LOCATION_) _LOCATION_) Tel. _CONTACT_ Fax _CONTACT_
+http://_CONTACT_/

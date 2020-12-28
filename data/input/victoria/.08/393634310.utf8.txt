@@ -1,0 +1,136 @@
+_LOCATION_
+_LOCATION_) Anul·lació/Reprogramació visites:_CONTACT_
+Telèfon Centraleta: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 73 Anys
+NIF/DNI: _ID__NAME_; _NAME_; 
+_NAME_;;;_NAME_
+Informe d'alta d'hospitalització
+14:08:21
+24.07.2017
+_LOCATION_
+_SS_ NEUROLOGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_; _CONTACT_
+AGUTS 03.07.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Ingresa en NRL por episodios de alteración del lenguaje y debilidad de extremidades izquierdas.
+
+ANTECEDENTS
+Alergia al voltaren, ex-fumador desde hace > 25 años, enolismo 1 vaso vino/día HTA y DLP en tratamiento, DM en tratamiento con ADOs.
+No cardioneumopatías conocidas,
+Colonoscopia en 2016 por estudio de episodios de diarreas, sin hallazgos relevantes, excepto minipólipos que se resecaron, resto normal.
+Lumbalgia crónica.
+
+Situación basal: Independiente para todas AVBD. mRankin 0.
+
+MEDICACIÓ HABITUAL
+Diamben, lyrica, Simvastatina, Co-Vals, Bisoprolol
+
+PROCÉS ACTUAL
+Paciente de 72 años que estando previamente asintomático, presenta el día 2 de julio a las 20:30h, cuadro brusco de alteración del lenguaje (refiere que no le salian las palabras) y debilidad del hemicuerpo izquierdo, el episodio presenciado por familiares ha durado escasos segundos con recuperación ad integrum. No obstante familiares avisan al SEM siendo trasladado a H. de referencia (_LOCATION_) para valoración, durante el traslado presenta nuevo episodio de las mismas caracterísitcas. A su llegada a H. referencia (21:00h) paciente con TA 153/66mmHg, se objetiva según informe de derivación, disartria, parálisis facial y hemiparesia BC izq. Nos activan codigo ictus a las 21:33h. Llega a UCIEs a las. 22:22h Tc craneal a las 22:42h.
+
+A su llegada paciente con TA 150/60mmHg. Por monitor en RS. NRL: Consciente y orientado en TEP, PICNR, MOEs y campimetría por confrontación sin alteraciones, habla y lenguaje sin alteraciones (nomina 5/5, evoca 5/5, repite correctamente), obedece órdenes simples y complejas), PFSN izq leve (1), balance muscular 5/5, sensibilidad sin alteraciones, no agnosias, ni dismetrias. RCP flexor bilateral. NIHSS 1.
+
+Analítica en la que destaca glucosa 7.1 mmol/L, urea 12. ECG: ICT 0,5, no claras imagenes de condensacion, RS a 60lpm, eje 60º sin alteraciones agudas en la repolarización. Rx tórax: ICT > 0,5, patrón intersticial con imagenes nodulares perhiliares bilaterales (se recomienda completar estudio con Tc torácico). Tc craneal y angioTSA: Estudio craneal sin alteraciones significativas (ASPECTS 10). Moderados signos de ateromatosis difusa, sin que se cuantifique una estenosis significativa en la circulación intra o extracraneal. Segmento P1 de la arteria cerebral posterior izquierda sin alteraciones. Los segmentos distales presentan un aspecto irregular y de calibre filiforme, sin evidenciar clara oclusión. Destaca la presencia de múltiples adenopatías mediastínicas, inespecíficas aunque de probable origen reactivo. Opacidad pseudonodular apical izquierda de 9mm, a valorar evolutivamente.
+
+Se orienta como ictus minor derecho fluctuante de etiología a estudio.
+
+Informe d'alta d'hospitalització
+
+
+
+
+Iniciamos antiagregación con Adiro 300mg. Ingresa en NRL.
+
+EXPLORACIÓ FÍSICA
+
+-	Hemodinámicamente estable y afebril. SatO2 98%. Fc 70 lpm.
+-	AC: soplo sistólico en foco aórtico irradiado a carótida. Ingurgitación yugular negativa, RHJ (-).
+-	AR: MVC, sin ruidos añadidos
+-ABD: Abdomen blando y depresible. No doloroso a la palpación superficial ni profunda. No presencia de masas ni visceromegalias. Peristaltismo presente. PPL (-) bilateral.
+-	NRL: consciente, orientado en espacio, tiempo y persona. Lenguaje y habla sin alteraciones. MOEs conservados Campimetría normal. Pares craneales normales. Discreta asimetría facial. Fuerza y sensibilidad sin alteraciones. RCP flexor bilateral. NIHSS 0
+-	EEII: No edemas periféricos, no signos de TVP.
+
+EXPLORACIÓ COMPLEMENTÀRIA
+Exploracions complementaries a urgencies:
+Analítica: EAB venós: pH ; CO2 mmHg; O2 mmHg; HCO3- mmol/L; EB mmol/L; Sat.O2 %. Bioquímica: Glucosa mmol/L; Urea mmol/L; Cr umol/L; Na+ mmol/L; K+ mmol/L; Br umol/L; ALT ukat/L. Coagulació: TTPA ; TP .
+Hemograma: Hb g/L; Hto %; VCM fL; Plaquetes x10E9/L;  Leucòcits x10E9/L  (Neutròfils x10E9/L, Limfòcits x10E9/L; N %, L %)
+-Rx tórax: ICT > 0,5, patrón intersticial con imagenes nodulares perhiliares bilaterales (se recomienda completar estudio con Tc torácico).
+- Tc craneal y angioTSA: Estudio craneal sin alteraciones significativas (ASPECTS 10). Moderados signos de ateromatosis difusa, sin que se cuantifique una estenosis significativa en la circulación  intra o extracraneal. Segmento P1 de la arteria cerebral posterior izquierda sin alteraciones. Los segmentos distales presentan un aspecto irregular y de calibre filiforme, sin evidenciar clara oclusión.
+-ECG: RS a 80 lpm, no alt. de la repolarización.
+
+Exploraciones complementàries a Planta de Neurologia:
+Analítica de ingreso (04.07.17): función renal normal, ionograma sin alteracioens, glucosa 7.1 mmol/L, función hepática normal, perfil lipídico sin hallazgos. Hormonas tiroideas noramles. HbA1c 5.7%. Cobalaminas elevadas > 1476 pmol/L, folatos normales. Proteinograma normal. VSG normal. Coagulación sin alteraciones.
+Serología lues : negativa.
+RMN (06/07): Destaca mayor focalidad capsulolenticular derecha que aunque sin clara restricción en la secuencia de difusión es sugestiva de corresponder a lesión isquémica relativamente reciente. Patrón de pérdida de volumen de parénquima encefálico, superior al esperado para la edad del/de la paciente,compatible con atrofia cerebral global. Signos de afectación isquémica crónica de la sustancia blanca. Imágenes puntiformes en núcleos grises de la base que plantean diagnóstico diferencial entre dilatación de espacios vasculares e infartos lacunares.
+EEG (14/07): EEG que muestra ritmo de base simétrico, compuesto por ritmo Alfa biposterior sobre los 10Hz, con correcta diferenciación topográfica, que se bloquea con la apertura ocular. La ELI y la hiperpnea no modifican el aspecto del trazado. Ausencia de episodios críticos y de fenómenos epileptiformes. CONCLUSIÓN: EEG NORMAL.
+ETT (05.07.17): Conclusiones: Ventrículo izquierdo no dilatado, no hipertrófico. Fracción de eyección preservada sin segmentarismos. Ventrículo derecho no dilatado, normocontráctil. Raíz aórtica no dilatada. Aurícula izquierda no dilatada. Válvula aórtica calcificada, restricción de la apertura de velos que condiciona estenosis aórtica leve.
+
+Informe d'alta d'hospitalització
+
+
+
+
+Insuficiencia mitral leve. No se observa insuficiencia tricuspidea. Vena cava ligeramente dilatada. Ausencia de derrame pericárdico
+
+EVOLUCIÓ CLÍNICA
+Ingresa para estudio de ictus minor de ACM derecha con clínica fluctuante.
+
+A nuestra valoración inicial el paciente se encuentra asintomático. Únicamente destaca a la exploración ligera asimetría facial Izquierda.
+
+Durante la monitorización en Unidad de ictus se mantiene hemodinámicamente estable, con tendencia a la HTA. No se objetivan arritmias en la telemetría.
+
+Como parte del estudio se ha realizado analítica que no muestra alteraciones destacables, cobalaminas elevadas en contexto de posible administración previa. Serología para lues negativa. La RMN cerebral evidencia infarto profundo establecido a nivel de ACM D compatible con infarto lacunar. El angioTC informa ateromatosis difusa sin evidencia de estenosis significativa. El estudio con ecocardiograma transtorácico con estenosis aórtica leve, sin otros hallazgos a destacar. Se realiza HolterECG, pendiente de informe al alta.
+
+Durante el ingreso presenta varios episodios autolimitados de empeoramiento de la focalidad NRL a expensas de disartria moderada, y empeoramiento de paresia facial y, en algunos episodios grabados por la familia impresiona de desconexión del medio, que ceden progresivamente en unos 20 minutos. Para estudio de estos episodios se ha realizado EEG que resulta normal. Iniciamos LEV 1000mg/12h.
+
+Como incidencias, en angioTC de urgencias se observa en cortes altos de tórax múltiples adenopatías mediastínicas, inespecíficas aunque de probable origen reactivo y opacidad pseudonodular apical izquierda de 9mm. Se comenta con NML, se solicita TC de tórax programado para el próximo 01.08.17.
+
+Se orienta como ictus lacunar derecho. Se ha iniciado tratamiento con clopidogrel 75mg y atorvastatina 40mg. Se encuentra pendiente de resultado de HolterECG al alta y TC de tórax.
+
+Ante la buena evolución se decide alta a domicilio y seguimiento por NRL de zona. Se recomienda control de FRCV por médico de cabecera. Acudir a médico de cabecera para solicitar rehabilitación al alta. Se dan normas de reconsulta.
+
+DIAGNÒSTICS
+436/5 Ictus Ictus lacunar.
+
+PROCEDIMENTS
+88.91 Imatge per ressonància magnètica de cervell i tronc cerebral
+88.91 Imatge per ressonància magnètica de cervell i tronc cerebral
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Clopidogrel 75mg vía oral cada 24 horas. Atorvastatina 40mg vía oral cada 24 horas.
+
+Informe d'alta d'hospitalització
+
+
+
+
+Levetiracetam 1000mg vía oral cada 12 horas. STOP simvastatina.
+Resto de tratamiento habitual sin cambios.
+
+CONTROL
+Control por NRL de zona.
+Acudir a realización de TC de tórax el próximo 01.08.17 a las 16h.
+Acudir a médico de cabecera para: derivar a RHB de zona, control de FRCV, ver resultado de TC de tórax y en función de hallazgos valorar derivar a NML.
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+24.07.2017
+Pàgina 1 de 4

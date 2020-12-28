@@ -1,0 +1,136 @@
+T0	FECHA 235 245	16.09.2017
+#0	AnnotatorNotes T0	2017-09-16
+T1	HORA 248 253	16:41
+#1	AnnotatorNotes T1	16:41
+T2	FECHA 297 307	15.09.2017
+#2	AnnotatorNotes T2	2017-09-15
+T3	HORA 310 315	12:12
+#3	AnnotatorNotes T3	12:12
+T4	SECCION_MOTIVO_DE_INGRESO 383 396	Motiu Ingreso
+T5	_SUG_Ictus_isquemico 398 413	Ictus isquémico
+T6	_SUG_Arteria_afectada 414 417	ACM
+T7	_SUG_Lateralizacion 418 427	izquierdo
+T8	SECCION_ANTECEDENTES 430 442	ANTECEDENTES
+T9	FECHA 530 534	2012
+#9	AnnotatorNotes T9	2012-UNDEF-month-UNDEF-day
+T10	FECHA 645 649	2008
+#10	AnnotatorNotes T10	2008-UNDEF-month-UNDEF-day
+T11	FECHA 738 746	20.11.12
+#11	AnnotatorNotes T11	2012-11-20
+T12	_SUG_Localizacion 891 899	parietal
+T13	_SUG_Ictus_isquemico 1420 1435	Ictus isquémico
+T14	_SUG_Etiologia 1445 1459	cardioembólica
+T15	_SUG_Arteria_afectada 1482 1485	ACM
+T16	_SUG_Lateralizacion 1486 1495	izquierda
+T17	FECHA 1499 1504	19/08
+#17	AnnotatorNotes T17	2012-08-19
+T18	FECHA 1718 1723	08/09
+#18	AnnotatorNotes T18	2009-08-UNDEF-day
+T19	_SUG_Etiologia 1909 1917	habitual
+T20	FECHA 1948 1952	2011
+#20	AnnotatorNotes T20	2011-UNDEF-month-UNDEF-day
+T21	_SUG_Tratamiento_anticoagulante_alta 1967 1974	Sintrom
+T22	_SUG_Tratamiento_anticoagulante_hab 1967 1974	Sintrom
+T23	FECHA 2098 2102	2014
+#23	AnnotatorNotes T23	2014-UNDEF-month-UNDEF-day
+T24	FECHA 2196 2200	2011
+#24	AnnotatorNotes T24	2011-UNDEF-month-UNDEF-day
+T25	FECHA 2292 2296	2017
+#25	AnnotatorNotes T25	2017-UNDEF-month-UNDEF-day
+T26	FECHA 2365 2369	2009
+#26	AnnotatorNotes T26	2009-UNDEF-month-UNDEF-day
+T27	_SUG_mRankin_alta 2491 2499	mRS de 4
+T28	_SUG_mRankin_previa 2491 2499	mRS de 4
+T29	_SUG_Etiologia 2529 2537	habitual
+T30	_SUG_Tratamiento_antiagregante_alta 2549 2552	AAS
+T31	_SUG_Tratamiento_antiagregante_hab 2549 2552	AAS
+T32	SECCION_ANTECEDENTES_QUIRURGICOS 2756 2778	Antecedents quirúrgics
+T33	FECHA 2779 2789	29.10.2012
+#33	AnnotatorNotes T33	2012-10-29
+T34	FECHA 2839 2849	10.12.2009
+#34	AnnotatorNotes T34	2009-12-10
+T35	FECHA 2908 2918	08.02.2008
+#35	AnnotatorNotes T35	2008-02-08
+T36	_SUG_Localizacion 2950 2966	SUPRAVENTRICULAR
+T37	SECCION_ANTECEDENTES_FAMILIARES 2968 2989	Antecedents familiars
+T38	SECCION_PROCESO_ACTUAL 3161 3178	ENFERMEDAD ACTUAL
+T39	_SUG_Etiologia 3216 3228	hipertensión
+T40	FECHA 3280 3284	2011
+#40	AnnotatorNotes T40	2011-UNDEF-month-UNDEF-day
+T41	_SUG_Tratamiento_antiagregante_alta 3306 3309	AAS
+T42	_SUG_Tratamiento_antiagregante_hab 3306 3309	AAS
+T43	_SUG_Ictus_isquemico 3410 3415	ictus
+T44	_SUG_Etiologia 3416 3430	cardioembólico
+T45	_SUG_Arteria_afectada 3448 3451	ACM
+T46	_SUG_Lateralizacion 3452 3461	izquierda
+T47	FECHA 3643 3648	08/09
+#47	AnnotatorNotes T47	2009-08-UNDEF-day
+T48	FECHA 3702 3707	15/09
+#48	AnnotatorNotes T48	2009-09-15
+T49	HORA 3718 3723	11:30
+#49	AnnotatorNotes T49	11:30
+T50	_SUG_Lateralizacion 3795 3803	derechas
+T51	HORA 3829 3834	12:12
+#51	AnnotatorNotes T51	12:12
+T52	_SUG_Ictus_isquemico 3855 3860	ictus
+T53	SECCION_EXPLORACION_FISICA 3877 3895	EXPLORACIÓN FÍSICA
+T54	_SUG_Lateralizacion 4204 4213	izquierda
+T55	_SUG_Lateralizacion 4267 4268	D
+T56	_SUG_Lateralizacion 4320 4327	derecha
+T57	_SUG_Lateralizacion 4409 4410	D
+T58	_SUG_NIHSS_alta 4412 4461	NIHSS: 0.2.1.2.2 / 2.(0.3).(0.2) / 0.0.3.0.0 = 17
+T59	_SUG_NIHSS_previa 4412 4461	NIHSS: 0.2.1.2.2 / 2.(0.3).(0.2) / 0.0.3.0.0 = 17
+T60	SECCION_EXPLORACIONES_COMPLEMENTARIAS 4572 4600	EXPLORACIONS COMPLEMENTÀRIES
+T61	_SUG_TAC_craneal 4910 4919	TC cráneo
+T62	_SUG_Arteria_afectada 4947 4949	M2
+T63	_SUG_Arteria_afectada 4956 4959	ACM
+T64	_SUG_Lateralizacion 4960 4969	izquierda
+T65	_SUG_Lateralizacion 5061 5070	izquierda
+T66	_SUG_Localizacion 5082 5089	frontal
+T67	_SUG_Localizacion 5091 5099	parietal
+T68	_SUG_Localizacion 5102 5110	temporal
+T69	_SUG_ASPECTS 5130 5142	ASPECTS de 5
+T70	_SUG_Arteria_afectada 5211 5214	ACM
+T71	_SUG_Lateralizacion 5215 5224	izquierda
+T72	_SUG_Localizacion 5279 5286	frontal
+T73	_SUG_Localizacion 5289 5297	parietal
+T74	_SUG_Lateralizacion 5298 5308	izquierdos
+T75	_SUG_Localizacion 5591 5599	temporal
+T76	_SUG_Arteria_afectada 5648 5650	AB
+T77	SECCION_EVOLUCION 5743 5752	EVOLUCIÓN
+T78	_SUG_Lateralizacion 5842 5851	izquierda
+T79	_SUG_NIHSS_alta 5853 5861	NIHSS 17
+T80	_SUG_NIHSS_previa 5853 5861	NIHSS 17
+T81	_SUG_TAC_craneal 5875 5885	TC craneal
+T82	_SUG_Arteria_afectada 5971 5974	ACM
+T83	_SUG_Lateralizacion 5975 5984	izquierda
+T84	_SUG_ASPECTS 5986 5995	ASPECTS 5
+T85	_SUG_Arteria_afectada 6011 6014	ACM
+T86	_SUG_NIHSS_alta 6377 6384	NIHSS 9
+T87	_SUG_NIHSS_previa 6377 6384	NIHSS 9
+T88	_SUG_Ictus_isquemico 6515 6520	ictus
+T89	_SUG_Arteria_afectada 6541 6544	ACM
+T90	_SUG_Lateralizacion 6545 6554	izquierda
+T91	_SUG_Etiologia 6598 6612	cardioembólica
+T92	_SUG_NIHSS_alta 7059 7066	NIHSS=9
+T93	_SUG_NIHSS_previa 7059 7066	NIHSS=9
+T94	SECCION_DIAGNOSTICOS 7075 7087	DIAGNÓSTICOS
+T95	_SUG_Localizacion 7111 7115	TACI
+T96	_SUG_Arteria_afectada 7142 7145	ACM
+T97	_SUG_Lateralizacion 7147 7156	izquierda
+T98	_SUG_Etiologia 7196 7210	cardioembólica
+T99	_SUG_Etiologia 7271 7283	Hipertensión
+T100	SECCION_TRATAMIENTO_Y_RECOMENDACIONES_AL_ALTA 7338 7374	TRATAMIENTO Y RECOMANACIONS A L'ALTA
+T101	SECCION_TRATAMIENTO_AL_ALTA 7375 7393	Medicación al alta
+T102	FECHA 7445 7452	4/10/17
+#102	AnnotatorNotes T102	2017-10-04
+T103	_SUG_Tratamiento_antiagregante_alta 7456 7461	Adiro
+T104	_SUG_Tratamiento_antiagregante_hab 7456 7461	Adiro
+T105	_SUG_Tratamiento_anticoagulante_alta 7556 7561	Hibor
+T106	_SUG_Tratamiento_anticoagulante_hab 7556 7561	Hibor
+T107	_SUG_Etiologia 7859 7871	hipertensión
+T108	_SUG_Ictus_isquemico 8854 8859	ICTUS
+T109	FECHA 8878 8888	29.09.2017
+#109	AnnotatorNotes T109	2017-09-29
+T110	FECHA 8966 8976	29.09.2017
+#110	AnnotatorNotes T110	2017-09-29

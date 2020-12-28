@@ -1,0 +1,134 @@
+_LOCATION_
+_LOCATION_) Anul·lació/Reprogramació visites:_CONTACT_
+Telèfon Centraleta: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 60 Anys
+NIF/DNI: _ID__NAME_; _NAME_; _NAME_
+Informe d'alta d'hospitalització
+15:53:14
+06.04.2017
+_LOCATION_
+_SS_ NEUROLOGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_'
+_CONTACT_; _CONTACT_
+DOMICIL/RES.SOC 23.03.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Varón de 60 años con debilidad hemicuerpo izquierdo.
+
+ANTECEDENTS
+-Alergia a AAS.
+-Fumador 1paq/día. Enol abundante (según familiar).
+-DM tipo 1 diagnosticada en 1975 a raíz de cetoacidosis, coincidiendo con episodio de pancreatitis aguda edematosa que requirió cirugía, en probable contexto de enolismo. Muy mal control  glicémico. No acude a controles médicos. En 2013 requirió ingreso para ajustar insulinoterapia, no se detectaron lesiones de órgano diana.
+-DLP en tratamiento médico, mal cumplimiento.
+-No HTA conocida.
+-No cardioneumopatías conocidas.
+-Fractura de cabeza de humero derecho por caída casual (04/2016). Realiza rehabilitación en zona.
+-Situación basal : Desempleado. mRankin 0.
+
+
+
+
+MEDICACIÓ HABITUAL
+-Atorvastatina 40mg/24h.
+-Metformina 850mg/12h.
+-Mixtard 1500/5s
+
+
+
+PROCÉS ACTUAL
+El día 22/03, habiendo sido visto por última vez asintomático a las 6:30 am, es encontrado a las 18:00h en el suelo de su domicilio con hemiparesia braquiocrural izquierda. La mujer refiere que habla con él por teléfono en torno a las 11:30 y el paciente verbaliza que presenta mal estar con mareo que atribuye a hipoglicemia. La hija de la mujer que se encontraba en el domicilio, evidencia la inestabilidad de la marcha sin clara lateralización. A las 16:00h lo dejan comiendo con persistencia del malestar pero sin haber evidenciado clara focalidad neurológica y es a las 18:00h que lo encuentran en el suelo. La clínica se mantiene hasta el momento actual que acude a urgencias. Avisan y se activa código ICTUS desde urgencias a las 19:45h.
+
+A su llegada paciente con TA 156/95mmHg FC 89lpm T 36. DXT 320. Neurológicamente FCS conservadas. Lenguaje con muy leve disártria (1) y comprensión conservada, ligera parálisis facial supranuclear izquierda gestual con resto de pares craneales normales (1), no se objetiva hemianopsia por confrontación, balance motor sin datos de déficit, hipoestesia BC izquierda (1), signos de desaferentación propioceptiva en MSI, anosognosia (2). RCP izquierdo extensor. Resto normal. Marcha no explorada. NIHSS 5. Analíticamente glucosa 21. mmol/L, Na 134 mmol/L, con resto normal. ECG en ritmo sinusal. Rx tórax sin hallazgos. Se realiza TAC craneal (20:20)
+
+Informe d'alta d'hospitalització
+
+
+
+
+que objetiva hipodensidad del parénquima cerebral parcheada compatible con infarto subagudo a nivel de insula, M2, M3 y M4 y pequeñas lesiones en M5 y M6. El AngioTAC craneal muestra oclusión de M1.
+
+Se orienta como ictus ACM derecha. No candidato a rtPA por inicio incierto, ni a TEV por NIHSS bajo sin paresia en este momento. Se decide ingreso para observación NRL y completar estudio.
+
+A las 23:45h se objetiva progresión clínica con TOC a la derecha (1), PFSN I (2), disartria leve-moderada (2), plejia B I (4), C 5/5, hipoestesia (1), extinción sensitiva (1), anosognosia (1), NIHSS 12. Dado que presenta claro empeoramiento se repite el TC craneal sin progresión del infarto y perfusión con presencia de gran área de missmatch por lo que se considera candidato a TEV primaria. Primera serie que confirma oclusión de M1 proximal a las 01:12, primer pase de Solitaire 6x30, sin recanalización. Segundo pase a las 01:32 con recanalización persistiendo pequeña irregularidad en la zona de oclusión y vasoespasmo en M2 distal. Se realiza segunda serie de control que muestra reoclusión de placa in situ. Se realiza angioplastia con balon en dos ocasiones con serie de control a los treinta minutos con irregularidad en la pared del vaso pero manteniendose permeable por lo que se decide finalizar el procedimiento a las 2:40. Expl NRL sin cambios respecto a previa excepto leve somnolencia en contexto de sedación.
+
+Se traslada a Unidad de Ictus.
+
+EXPLORACIÓ FÍSICA
+
+TA 125/61mmHg, FC 74 lpm, afebril, SatO2 97%
+NRL:Somnoliento (1), consciente y orientado en las 3 esferas.  Lenguaje con leve-moderada disártria (2) y comprensión conservada. Parálisis facial supranuclear izquierda con resto de pares craneales normales (2). No se objetiva hemianopsia por confrontación. Déficit motor braquial izquierdo 0/5 y crural izquierdo 2/5 (4+3). Hipoestesia BC izquierda (1) RCP izquierdo extensor. Signos de desaferentación propioceptiva en MSI. Anosognosia (2). Resto normal. Marcha no explorada. NIHSS 15.
+AC: tonos cardíacos rítmicos, sin soplos. AP: MVC sin ruidos sobreañadidos.
+ABD: blando y depresible no doloroso a la palpación superficial ni profunda. EEII: no edemas ni signos de TVP.
+
+
+
+EXPLORACIÓ COMPLEMENTÀRIA
+EXPLORACIONES COMPLEMENTARIAS EN URGENCIAS:
+Analítica: glucosa 21. mmol/L, Na 134 mmol/L, resto normal.
+ECG: Ritmo sinusal a 90 lpm, eje a 0º, PR<0.020s, QRS estrecho, sin cambios en ST, adecuada progresión ondas R y S, sin alteraciones de la repolarización.
+Rx tórax: Marco óseo conservado, ICT<0.5, senos costofrénicos libres, hilios no engrosados, no infiltrados ni condensaciones parenquimatosas.
+TC simple (22/03): Signos sugestivos de infarto establecido en región frontal y temporal derecha, así como en ribete insular derecho (ASPECTS 7).
+AngioTC y perfusión (22/03):El estudio de perfusión pone de manifiesto un  área de disminución del flujo sanguíneo cerebral y prolongación del tránsito medio en el territorio superficial y profundo de la arteria cerebral media derecha. El volumen sanguíneo cerebral está disminuido en pequeños focos del área afecta. Dichos
+
+Informe d'alta d'hospitalització
+
+
+
+
+hallazgos sugieren un área de mala vascularización, con un foco de infarto establecido, aunque gran parte del territorio afecto es área penumbra.
+TC, AngioTC y perfusión (23/03): Se realiza estudio comparativo con TC del dia 22/3/2017 En el TC simple llama la atención la disminución de la hipodensidad a nivel temporal derecho, sin observarse otras áreas de infarto, ni transformaciones hemorragicas en el estudio actual. El estudio de perfusión no muestra asimetrías valorables entre el flujo sanguíneocerebral, el tiempo de tránsito medio y el volumen sanguíneo cerebral en los cortes estudiados. El AngioTC craneal no muestra estenosis significativas a nivel de M1 derecha, aunque si se observa un defecto de replección en el tercio proximal de A1 derecha. El resto del segmento A1 derecho se ve compensado a través de comunicante anterior. No se observan otros hallazgos.
+
+EXPLORACIONES COMPLEMENTARIAS EN PLANTA DE  NEUROLOGÍA:
+Analítica completa: función renal: urea 2.5 mmol/L, creatinina 74 umol/L, FG >90mL/min. Na 134 mmol/L, K normal. Glucosa 19.2 mmol/L. BQ hepática (AST, ALT, GGT, FA) normal. Poteína 57 g/L, Ca 2.12 mmol/L. Perfil lipídico: LDL 3.43 mmol/L con resto (colesterol, HDL, HDL/colesterol, triglicéridos, colesterol excluyendo HDL) normal. Perfil tiroidal (tirotropina, tiroxina) normal. Perfil Hb: A1c 9% (75mmol/mol), glucosa media 11.7 mmol/L, cobalaminas 145 pmol/L, folatos 7.2 nmol/L. Immunoproteínas normales sin banda. Hemograma: serie roja con Hb 122g/L, Htc 36.2%, serie blanca con neutrofília relativa 5.790 (69.9%) y linfoticos 1.410 /17%), resto normal. Plaquetas normales. VSG 35mm. Coagulaión (TP, TTPA, fibrinógeno) normal.
+Serologías: Lues y VIH negativas.
+ETT: Ventrículo izquierdo no dilatado ni hipertrófico con buena contractilidad global y sin segmentarismos. Ventrículo derecho normal. Dinámica ventricular derecha normal. Válvula mitral normal, con calcificación del anillo. Insuficiencia mitral de grado ligero. Aurícula izquierda no dilatada. Válvula aórtica esclerosada. Flujo aórtico normal. Ausencia de insuficiencia aórtica. Ausencia de insuficiencia tricuspidea. Flujo pulmonar normal. Presión venosa central no elevada. Ausencia de derrame pericárdico.
+RMN y Angio RMN: Infarto agudo en la arteria cerebral media derecha principalmente en su territorio superficial con afectación discontinua de córtex insular, frontal, temporal y parietal. Permeabilidad de la arteria cerebral media derecha si bien se evidencia un segmento estenótico e irregular en M1 proximal. La valoración de A1 es limitada por artefactos de movimiento.
+
+EVOLUCIÓ CLÍNICA
+Ingresa en NRL por ictus isquémico ACM derecha con oclusión de M1. No candidato a rTPA por inicio incierto. Inicialmente no candidato a TEV por NIHSS bajo pero progresa las primeras horas por lo que se realiza TEV recanalizando M1, persistiendo cierta irregularidad por imagen aunque permeable. Administramos bolus de Clopidogrel y pautamos dosis de mantenimiento, el paciente es alérgico a AAS.
+
+En la unidad de ictus se mantiene estable. En monitorización no se objetivan arrítmias.
+
+Se realiza RMN y Angio RMN que informan de infarto agudo en la arteria cerebral media derecha principalmente en su territorio superficial con afectación discontinua de córtex insular, frontal, temporal y parietal, el estudio mediante angioRMN muestra permeabilidad de la arteria cerebral media derecha si bien se evidencia un segmento estenótico e irregular en M1 proximal. Se realiza ETT que muestra ventrículo izquierdo no dilatado ni hipertrófico con buena contractilidad global y sin segmentarismos, insuficiencia mitral de grado ligero, sin otras alteraciones.
+En analítica completa destaca importante hiperglicemia con mal control glucémico presentando Hb glicada de 9% e hipercolesterolemia compatibles con antecedentes del paciente, recomendamos control por MAP. Déficit de folato de 7.2 nmol/L por lo iniciamos suplementos de ácido fólico. Leve anemia. VSG de 35mm que tiene poca significación en el contexto de ictus subagudo.
+
+Informe d'alta d'hospitalització
+
+
+
+
+
+Actualmente mantiene NIHSS de 3 a expensas de parálisis facial centra leve izquierda (1), hemiparesia B 5-/5 con MF y C 4+/5 (1) , extinción sensitiva en miembro inferior izquierdo (1). En tratamiento rehabilitador desde su llegada, actualmente realiza demabulación con apoyo.
+
+Durante la hospitalización presenta regular control de las glicemias, presentando como complicación el día 4 abril episodio de cetosis simple al límite de la CAD, actualmente en resolución en seguimiento con Endocrinología.
+
+Se orienta el caso como ictus isquémico en territorio ACM derecha + oclusión M1 recanalizada mediante trombectomía mecánica de etiología aterotrombótica por perisitencia de estenosis in situ en segmento M1. En tto con Clopidogrel. NIHSS 3. mRankin 3.
+
+Es aceptado a Hospital de zona (_SS_) a día 6 de abril para evolución y control de glucemias hasta traslado a centro rehabilitación (CSI).
+
+
+DIAGNÒSTICS
+436/5 Ictus ACM derecha + trombectomía mecánica.
+
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Se adjunta.
+
+DESTINACIÓ A L'ALTA:	HOSP. AGUTS/PSQ
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+06.04.2017
+Pàgina 1 de 4

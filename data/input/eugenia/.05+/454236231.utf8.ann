@@ -1,0 +1,106 @@
+T0	HORA 233 238	16:00
+#0	AnnotatorNotes T0	16:00
+T1	FECHA 242 252	29.12.2017
+#1	AnnotatorNotes T1	2017-12-29
+T2	FECHA 367 377	21.12.2017
+#2	AnnotatorNotes T2	2017-12-21
+T3	SECCION_MOTIVO_DE_INGRESO 431 445	MOTIU D'INGRÉS
+T4	_SUG_Ictus_isquemico 479 487	infartos
+T5	SECCION_ANTECEDENTES 524 535	ANTECEDENTS
+T6	_SUG_Etiologia 576 588	Hipertensión
+T7	_SUG_Ictus_isquemico 746 753	Infarto
+T8	_SUG_Lateralizacion 785 786	I
+T9	_SUG_ASPECTS 896 901	SPECT
+T10	_SUG_Lateralizacion 1021 1022	E
+T11	FECHA 1060 1071	agosto 2016
+#11	AnnotatorNotes T11	2016-08-UNDEF-day
+T12	_SUG_TAC_craneal 1168 1170	TC
+T13	_SUG_Lateralizacion 1213 1222	izquierdo
+T14	_SUG_Arteria_afectada 1750 1759	carotídea
+T15	_SUG_Arteria_afectada 1770 1773	ACI
+T16	_SUG_Lateralizacion 1774 1781	derecha
+T17	_SUG_Arteria_afectada 1791 1794	ACI
+T18	_SUG_Lateralizacion 1795 1804	izquierda
+T19	FECHA 1814 1824	enero 2017
+#19	AnnotatorNotes T19	2017-01-UNDEF-day
+T20	FECHA 1945 1956	enero  2017
+#20	AnnotatorNotes T20	2017-01-UNDEF-day
+T21	_SUG_Lateralizacion 2015 2022	derecho
+T22	_SUG_Lateralizacion 2030 2033	Izq
+T23	SECCION_SITUACION_FUNCIONAL 2042 2066	Situación sociofuncional
+T24	_SUG_mRankin 2154 2159	mRS 1
+T25	SECCION_TRATAMIENTO_HABITUAL 2161 2179	MEDICACIÓ HABITUAL
+T26	_SUG_Tratamiento_antiagregante 2180 2185	Adiro
+T27	SECCION_PROCESO_ACTUAL 2366 2379	PROCÉS ACTUAL
+T28	FECHA 2403 2408	21/12
+#28	AnnotatorNotes T28	2017-12-21
+T29	_SUG_Lateralizacion 2442 2451	izquierda
+T30	SECCION_EXPLORACION_FISICA 2530 2547	EXPLORACIÓ FÍSICA
+T31	_SUG_Lateralizacion 2774 2783	izquierdo
+T32	_SUG_NIHSS 2917 2924	NIHSS 2
+T33	_SUG_Ictus_isquemico 2934 2939	ICTUS
+T34	_SUG_Lateralizacion 3124 3133	izquierda
+T35	SECCION_EXPLORACIONES_COMPLEMENTARIAS 3294 3319	EXPLORACIÓ COMPLEMENTÀRIA
+T36	SECCION_EXPLORACIONES_COMPLEMENTARIAS_EN_URGENCIAS 3333 3352	Analítica urgencias
+T37	_SUG_TAC_craneal 4085 4095	TC craneal
+T38	_SUG_Ictus_isquemico 4097 4104	infarto
+T39	_SUG_Arteria_afectada 4140 4143	ACS
+T40	_SUG_Ictus_isquemico 4145 4152	Infarto
+T41	_SUG_Localizacion 4170 4179	occipital
+T42	_SUG_Lateralizacion 4180 4187	derecho
+T43	_SUG_Lateralizacion 4229 4234	ambas
+T44	_SUG_Etiologia 4264 4276	ateromatosis
+T45	_SUG_Lateralizacion 4280 4285	ambas
+T46	_SUG_Lateralizacion 4351 4358	derecho
+T47	_SUG_ASPECTS 4368 4375	aspecto
+T48	_SUG_Localizacion 4450 4459	posterior
+T49	_SUG_Lateralizacion 4467 4476	izquierdo
+T50	_SUG_Lateralizacion 4553 4558	ambas
+T51	_SUG_Lateralizacion 4664 4669	ambas
+T52	_SUG_Lateralizacion 4708 4713	ambas
+T53	_SUG_Arteria_afectada 4728 4738	carotideas
+T54	_SUG_Lateralizacion 4750 4755	ambas
+T55	_SUG_Arteria_afectada 4773 4775	M2
+T56	_SUG_Lateralizacion 4801 4810	bilateral
+T57	_SUG_Lateralizacion 4846 4851	ambas
+T58	_SUG_Lateralizacion 4973 4980	derecha
+T59	_SUG_Localizacion 5050 5057	troncos
+T60	_SUG_Arteria_afectada 5073 5099	Arterias carótidas comunes
+T61	_SUG_Arteria_afectada 5154 5163	carotídea
+T62	_SUG_Arteria_afectada 5216 5219	ACI
+T63	_SUG_Lateralizacion 5220 5227	derecha
+T64	_SUG_Arteria_afectada 5327 5336	carotídeo
+T65	_SUG_Arteria_afectada 5343 5358	vertebrobasilar
+T66	_SUG_Lateralizacion 5387 5396	izquierdo
+T67	_SUG_TAC_craneal 5442 5444	TC
+T68	_SUG_Ictus_isquemico 5454 5459	ICTUS
+T69	SECCION_EXPLORACIONES_COMPLEMENTARIAS_EN_PLANTA_DE_NEUROLOGIA 5461 5478	Analítica ingreso
+T70	_SUG_Etiologia 6543 6555	hipertensiva
+T71	_SUG_Localizacion 6687 6698	subcortical
+T72	SECCION_EVOLUCION 6820 6836	EVOLUCIÓ CLÍNICA
+T73	_SUG_Ictus_isquemico 6906 6911	ictus
+T74	_SUG_Localizacion 6926 6935	posterior
+T75	_SUG_TAC_craneal 6968 6970	TC
+T76	_SUG_Arteria_afectada 6993 7002	carotídea
+T77	_SUG_Arteria_afectada 7718 7727	carotídea
+T78	_SUG_Ataque_isquemico_transitorio 7890 7893	AIT
+T79	_SUG_Arteria_afectada 7894 7909	vertebrobasilar
+T80	_SUG_Arteria_afectada 8072 8081	carotidea
+T81	_SUG_NIHSS 8119 8126	NIHSS 0
+T82	_SUG_mRankin 8128 8133	mRS 1
+T83	SECCION_DIAGNOSTICOS 8135 8157	ORIENTACIÓ DIAGNÒSTICA
+T84	_SUG_Ataque_isquemico_transitorio 8160 8163	AIT
+T85	_SUG_Arteria_afectada 8164 8179	vertebrobasilar
+T86	_SUG_Etiologia 8193 8206	indeterminada
+T87	_SUG_Arteria_afectada 8227 8230	ACI
+T88	_SUG_Lateralizacion 8231 8238	derecha
+T89	SECCION_TRATAMIENTO_Y_RECOMENDACIONES_AL_ALTA 8241 8276	TRACTAMENT I RECOMANACIONS A L'ALTA
+T90	_SUG_Lateralizacion 8277 8282	Dieta
+T91	_SUG_Tratamiento_antiagregante 8394 8399	Adiro
+T92	_SUG_Etiologia 8423 8431	habitual
+T93	_SUG_Tratamiento_antiagregante 8483 8494	Clopidogrel
+T94	_SUG_Etiologia 8554 8562	habitual
+T95	SECCION_CONTROL 8612 8619	CONTROL
+T96	SECCION_DESTINO_AL_ALTA 8868 8887	DESTINACIÓ A L'ALTA
+T97	FECHA 8940 8950	29.12.2017
+#97	AnnotatorNotes T97	2017-12-29

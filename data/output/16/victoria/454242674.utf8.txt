@@ -1,0 +1,126 @@
+_LOCATION_
+email: _CONTACT_ Telèfon _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 73 Anys
+NIF/DNI: _ID__NAME_; _NAME_; _NAME_
+Informe de Trasllat a Sociosanitari
+16:00:00
+29.12.2017
+_LOCATION_
+_SS_ NEUROLOGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_; _CONTACT_; _CONTACT_; DOMICIL/RES.SOC
+19.12.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Mujer de 73 años que ingresa por sospecha de ictus
+
+ANTECEDENTS
+-Alergias: Penicilina;Metamizol;AAS
+-No hábitos tóxicos.
+
+-Hipertensión arterial esencial en tratamiento farmacológico.
+-Dislipemia en tratamiento con estatinas hasta hace 1 mes, lo ha abandonado por iniciativa propia, previamente bien controlada.
+-Diabetes mellitus tipo 2 en tratamiento con metformina, sin complicaciones micro o macroangiopáticas.
+-Hematoma cápsulo-talámico izquierdo con invasión ventricular de probable etiología hipertensiva en enero de 2013. Como secuela presenta hemiparesia e hiperestesia braquiocrural derechas. Realizó convalecencia previa en nuestro centro.
+-Infección por VIH. Paciente en monoterapia con DRV/RTV desde el 27/05/2010 hasta marzo de 2012, que por viremias detectables se descartó la presencia de mutacionesde resistencia a IPs y se le reintrodujo la pareja de análogos el 02/03/12 (Kivexa). Buena adherencia terapéutica. Último control en junio 2015 con CV indetectable. Sigue controles en _SS_.
+-Hiperreactividad bronquial. Sin tratamiento BD.
+-Trastorno ansioso-depresivo. En agosto de 2015 presentó episodio maníaco mixto con sintomas psicóticos derivándose a unidad de _SS_ del 28/8/15 al 78/10/15.
+-Fractura distal radio derecho en 2015.
+
+Situación Sociofuncional: Casada, 2 hijos que viven en _LOCATION_. Vive en 3ero sin ascensor. Dependencia parcial para determinadas ABVDs. Ayuda para actividades domésticas y aseo desde Asistencia social. Utiliza caminador, silla de ruedas fuera de casa. mRs 3-4
+
+MEDICACIÓ HABITUAL
+Depakine 200mg 1c/12h, omeprazol 20mg/24h, tramadol 50mg/12h,gabapentina 300 0-0-1, metformina 850mg comp 1comp-0-1/2comp (850mg con el desayuno, 425mg con la cena), paracetamol 1g/8h, Rezolsta (darunavir/cobicistat 800/150) 1comp/24h, Kivexa (abacabir/lamivudina 600/300) 1 comp/24
+
+PROCÉS ACTUAL
+Paciente que el día 19/12/2017 a las 6h se encontraba asintomática, alrededor de las 10h llama por teléfono al marido indicando que no puede movilizarse. A su llegada, la pareja la encuentra en el suelo con incapacidad para mover las extremidades izquierdas.
+Llegada a nuestro centro 11:49:23 del 19/12/2017
+
+EXPLORACIÓ FÍSICA
+
+Informe de Trasllat a Sociosanitari
+
+
+
+
+Exploración en Urgencias
+TA 143/81mmHg (12h), Tª 37.8ºC
+NRL: Vigil, orientada en tiempo y espacio, disartria inteligible (1), no clara POC, campimetría por confrontación normal. PF pseudoperiférica I (3), plejia braquio-crural I (4+4). Hipoestesia en hemicuerpo izquierdo (dificil de valorar por hiperestesia en hemicuerpo derecho secuelar) (1) . NIHSS 14
+
+Exploración en UI
+TA 138/60mmHg, afebril.
+NRL: Vigil, orientada en tiempo y espacio, disartria inteligible (1), POC hacia la derecha (1), campimetría por confrontación normal. PFSN I (2), plejia braquio-crural I (4+4). Hipoestesia en hemicuerpo izquierdo (dificil de valorar por hiperestesia en hemicuerpo derecho secuelar) (1) NIHSS 13
+
+Exploración en planta neurovascular:
+TCR. MVC sin claros sobreañadidos. Puñopercusión aparentemente negativa (pero dificil valoración por dificultosa movilización de paciente)
+NRL: vigil, orientada, disartria leve (1), lenguaje normal. MOE normal. Hemiplejia FBC I (1+4+4), probable hemihipoestesia (1). extinción sensitiva I (1). NIHSS 12
+
+
+
+EXPLORACIÓ COMPLEMENTÀRIA
+URGENCIAS
+-TC craneal: Hematoma parénquimatoso talámico derecho con extension superior hacia centro semioval de volumen aproximado 3,1x1,7x2,4 cm (6,3 cc), rodeado por leve edema vasogénico y abierto al sistema ventrícular con contenido hemático en asta frontal y occipital de ventrículo lateral derecho, asta occipital de ventrículo lateral izquierdo y tercer ventrículo. Calcificación puntiforme en borde anterior izquierdo de  cisterna  suprasellar,  ya presente en estudio previo, sin cambios. Hipodensidad focal cápsulotalámica izquierda, ya presente en estudio previo.
+-AG: sin alteraciones destacables.
+-ECG: RS a 60lpm, QRS estrecho, sin alteraciones agudas de la repolarización.
+-Rx tórax::
+-Sedimento de orina: Leucòcits 194.9 cel/µL, Eritròcits 6.1 cel/µL, Cèl·lules epitelials 8.8 cel/µL, Cèl·lules epitelials de transició, Cilindres hialins 0 cil/µL, Bacteris 652 bact/µL
+-Hemocultivos pendientes.
+
+UNIDAD DE ICTUS
+-TC control 24 horas: Estabilitat de l'hematoma parenquimatós que afecta a tàlem/centre semioval dret, d'una mida aproximada de 3 x 1,8 x 2,4 cm en sentit anteroposterior, transversal i cràneocaudal i un volum de 6,7 cc, rodejat per un lleu edema vasogènic i que ocasiona un lleu efecte massa amb compressió parcial del VL homolateral, sense desviació significativa de les estructures de la línia mitja. Disminució del contingut hemàtic intraventricular respecte l'estudi anterior, observant-se actualment a VL ipsilateral i porcions declius d'ambdues banyes occipitals. Sistema ventricular estable en mida respecte l'estudi anterior. Hipodensitat focal capsulotalàmica esquerre ja visuaitzada en els estudis anteriors sugestiva d'infart lacunar crònic. Calcificació puntiforme a nivell del marge anterior-esquerre de la sella turca. Resta del parènquima cerebral, cerebel·lós i del tronc encefàlic sense alteracions significatives morfològiques ni densitomètriques valorables. Cisternes basals i peritronculars lliures. Amígdales cerebel·loses de disposició normal.
+-AG de ingreso: sin alteraciones relevantes
+
+Informe de Trasllat a Sociosanitari
+
+
+
+
+-Rx torax 29/12/17: sin alteraciones
+
+EVOLUCIÓ CLÍNICA
+Mujer de 73 años con antecedentes de HIC talámico izquierdo, que es traída por cuadro de una hora de evolución de debilidad de extremidades izquierdas. En la exploración neurológica se constata NIHSS 13 a expensas de hemiplejia izquierda y disartria. Se realiza TC craneal urgente que muestra hematoma talámico derecho abierto a ventrículos. Ante hipertensión posterior, a las 14:10h se inicia tratamiento con bomba de urapidilo ante TA 160/75mmHg, que se suspende a las 15:40 por TAS<100mmHg. Por otra parte, ha presenta pico febril, por lo que se extraen hemocultivos, y ante clínica referida de dolor lumbar, se cursa sedimento de orina, que es patológico. Dada la sospecha de pielonefritis aguda se decide inicio de ciprofloxacino.
+
+Ingresa en Unidad de ictus para control evolutivo. Se realiza TC craneal a las 24h que muestra estabilidad del hematoma. Durante su estancia se mantiene hemodinamicamente y clinicamente estable por lo que es trasladada posteriormente a planta convencional de hospitalización. Es valorada por Rehabilitación para inicio de fisioterapia. Como complicación presenta cuadro de bronquitis aguda, con roncus dispersos por ambos campos pulmonares sin fiebre por lo que se ha iniciado tratamiento broncodilatador. Ante estabilidad clínica se decide solicitar derivación a CSS para completar convalescencia. NIHSS 12, a expensas de LOC Q 1/2 (1, desorientación temporal), LOC C 2/2, disartria inteligible (1), PFSN izquierda (1), Hemiplejía izquierda (4+4), hemihipoestesia izquierda (1) moderada. NIHSS 12. mRS al alta 5
+
+ORIENTACIÓ DIAGNÒSTICA
+Hematoma talámico derecho de probable etiología hipertensiva. Bronquistis aguda
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+PRESCRIPCIÖ A L'ALTA: se adjunta.
+
+CONTROL
+Control tensional estrecho por CAP
+Control por especialistas habituales como tenga previsto
+
+DESTINACIÓ A L'ALTA:	SOCI SANITARI
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+29.12.2017
+Pàgina 1 de 3

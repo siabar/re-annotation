@@ -1,0 +1,138 @@
+_LOCATION_
+email: _CONTACT_ Telèfon _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 40 Anys
+NIF/DNI: _ID__NAME_; _NAME_; _NAME_;
+_NAME_
+Informe d'alta d'hospitalització
+17:10:00
+12.05.2017
+_LOCATION_
+_SS_ NEUROLOGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_; _CONTACT_
+DOMICIL/RES.SOC 05.05.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Mujer de 40 años que acude por ictus ACM derecha
+
+ANTECEDENTS
+Sin alergias medicamentosas conocidas. Fumadora.
+
+-Asmática en tratamiento broncodilatador.
+-Migraña típica con aura sin tratamiento preventivo.
+-Alérgica a polen, látex y melocotón.
+-Quistectomía ovario izquierda con AP de endometriósico, cistadenoma seroso papilar.
+-Mioma anterior subseroso de 23mm, mioma fúndico transmural con pequeño componente submucoso de 40mm. En seguimiento por servicio de Ginecología de zona.
+
+SSF; mRS 0.
+
+MEDICACIÓ HABITUAL
+Anticonceptivos orales
+
+PROCÉS ACTUAL
+Estando previamente asintomática presenta a las 13:25h del día 5/5 cuadro de paresia faciobraquial izquierda sin otra clínica acompañante. Niega fiebre, cefalea u otra clínica acompañante. En este contexto se avisa al SEM que la deriva a nuestro centro.
+
+EXPLORACIÓ FÍSICA
+
+EXP: FÍSICA A URG: PAS136 , PAD 90 mmHg // FC de80 // NIHSS a sala de2 // NIHSS total de2 TA 136/90mmHg, FC 80lpm, Tª 36.9ºC
+Paciente con estado general conservado, normocoloreada, normohidratada y normoperfundida.# Auscultación cardiaca con tonos rítmicos y sin soplos, sin síntomas de insuficiencia cardiaca.#
+Neurológicamente vigil, atenta,orientada, no presenta alteraciones en el habla ni el lenguaje, no presenta defectos campimétricos, paresia facial supranuclear izquierda (2), paresia braquial en forma de signo de pronador (+1), balance motor en MMII conservados. Sensibilidad conservada.NIHSS 2+1
+
+Exploración en Unidad de ictus:
+Vigil, atenta,orientada, no presenta alteraciones en el habla ni el lenguaje, no presenta defectos campimétricos, paresia facial izquierda con componente pseudoperiférico (2), paresia braquial en forma de signo de pronador (+1), balance motor en MMII conservados. Sensibilidad conservada. NIHSS 2+1
+
+Exploración planta de Neurología:
+Vigil, atenta,orientada, no presenta alteraciones en el habla ni el lenguaje, no presenta defectos campimétricos,
+
+Informe d'alta d'hospitalització
+
+
+
+
+paresia facial izquierda con componente pseudoperiférico (2), paresia braquial en forma de signo de pronador (+1), balance motor en MMII conservados. Sensibilidad conservada. NIHSS 2+1
+
+EXPLORACIÓ COMPLEMENTÀRIA
+URGENCIAS:
+-ECG: Ritmo sinusal a 60lpm, PR 160ms, QRS 80ms, eje 60º, sin alteraciones agudas de la repolarización, buena progresión de R en precordiales.
+-Analítica urgencias: Hem 4.290.000/mm3, Hb  11g/dl, Htc 35.1%, VCM 81.8fL, Leucocitos 9.120/mm3 (N 65.8%, L 27.6%, M 5%), Plaquetas 239.000/mm3, T. Quick 11.3s, INR 0.97, TTPA 27.6s, Fib 3.51g/L, Glucosa 80mg/dl, Urea  17mg/dl, Creatinina 0.68mg/dl, Na 134.7mmol/L, K 3.9mmol/L,  AST 15UI/L, ALT 10UI/L, proteina 6.6g/dl.
+-TC multimodal urgencias: En el TAC simple realizado no se observan lesiones hemorragicas ni signos directos de lesión isquémica aguda ni otras alteraciones radiológicas En el TAC perfusión se observa pequeña lesión frontal derecha precentral cortico subcortical en mapas TTP y MTT con mínima alteracion en CBF sin lesión en CBV. En el angiotac realizado, valorando dicha imagen se observaría en plano sagital defecto de permeabilidad en la rama posterior de la división anteriorde ACM derecha. También se observa un calibre muy fino en la rama inferior de la división posterior . No se observan otrs alteraciones en permeabilidad de vascularización intracraneal ni estenosis de TSA.
+-Tóxicos en orina: cocaina, opiacis, amfetaminas, MDMA negativo. cannabinoides positivo.
+
+UNIDAD DE ICTUS/ PLANTA DE NEUROLOGÍA:
+- Analítica general de ingreso:Hem 4.240.000/mm3, Hb 11.3g/dl, Htc 36%, VCM 84.9fL, Leucocitos 6.070/mm3 (N 60%, L 31 %, M 5.3%), Plaquetas 263.000/mm3, T. Quick 11.5s, INR 0.98, TTPA 28.9s, Fib 3.76g/L, Glucosa 131mg/dl, HbA1C 5.3%, fructosamina 252micromoL, Urea 17mg/dl, Creatinina 0.7mg/dl, Na 138mmol/L, K 4mmol/L,  clorur 108mmoL, fosfat 3.1mg/dl, calci *mg/dl, AST 13UI/L, ALT 13UI/L, FA 91UI/L, GGT 11UI/L.
+-Estudio de anemias ferritina 20ng/mL, transferrina 433mg/dl, ferro 34microg/dl, IST 8%, cobalaminas 262pg/ml, ácido fólico 3.4ng/ml.
+-Perfil lipídico: colesterol 147mg/dl, colesterol HDL 70mg/dl, colesterol LDL 60mg/dl, TG 87mg/dl.
+-Estudio de tiroides: normal.
+-Microbiología: Treponema pallidum negativo. HIV 1/2 negatiuvo.
+-Eco-Doppler TSA/TC de control: DTSA: no se observan placas ni estenosis en circulación extracraneal. DTC: sin asimetrias de flujo entre ambas ACM. Flujo conservado en rama anterior y posterior de ACM derecha. Sin otras alteraciones.
+-Telemetría durante 72 horas sin detectarse arritmias potencialmente embolígenas.
+-Ecoscan cardíaco: Ventrículo izquierdo no dilatado, aspecto hipertrófico apical con  redundacia de aparto valvular. Hipocinesia apical con fracción de eyección conservada en el límite normalidad. Aurícula izquierda no dilatada. No valvulopatias significativas. Patrón transmitral compatible con alteración de la relajación. No  se observan imágenes sugestivas de trombo intrauricular ni ventricular. No se detectan placas de ateroma significativas en arco aórtico. No se observa aneurisma del septo interauricular. CONCLUSION: Hipocinesia apical con FEVI aparentemente conservada.
+-Estudio SHUNT por eco-Doppler TC: Shunt Negativo
+-TC craneal de control: : Estudio sin alteraciones agudas intracraneales valorables. No se identifican lesiones isquémicas.
+-RM cerebral: Infarto fragmentado en fase subaguda precoz que afecta al territorio superficial de la arteria cerebral media derecha, que se asocia a pequeños infartos en fase subaguda tardía/crónica que afectan al territorio frontera interno izquierdo, por lo que podrían ser de origen embólico proximal. Angio-RM cerebral sin alteraciones valorables.
+-Ecografía transesofágica: Sin evidencia de fuentes embólicas en estudio transesofágico. Ventrículo izquierdo no
+
+Informe d'alta d'hospitalització
+
+
+
+
+dilatado, ni hipertrófico con FEVI conservada (58%). Hipertrabeculación medio-apical de la cara inferior e infero-lateral.
+-RM cardíaca: Cavidades izquierdas con volúmenes normales y con función sistólica conservada (FEVI: 57%). Sin alteraciones de la contractilidad segmentaria. Cavidades derechas con volúmenes normales y con función sistólica conservada (FEVD: 52%). Ausencia de focos de necrosis ni de fibrosis en ninguna de las paredes miocárdicas
+- IC Ginecología: Remesa per a valoració per antecedent de mioma uterí en el context de pacient ingressada per ictus. Prenia Daylette des de fa 2 anys que va deixar fa una setmana i ara té menstruació que ella refereix com a normal. Ja sap que no pot tornar a prendre ACOs. Exfumadora fa anys. TEPAL 0010. No té desig gestacional. Refereix darrer LAC fa 2 anys. DUM fa 5 dies, quan tocava i normal. Ecografia d'avui: Útero en anteversión, Diametros l 103 mm ap 78 mm t 89 mm, Mioma anterior intramural 30 mm, Mioma posterior intramural 51 mm, Endometrio de 7 mm tipo descamativo, Od 23 x 22 mm, Oi  30  x  25  mm, No liquido libre. Exploració: Abdomen tou i depressible, lleu dolor a la palpació a FIE. nO Es palpen masses. Ge normals, menstruació, E normal, escàs sagnat de cavitat. TV úter globulós, hipertròfic, com 10 setmanes, mòbil. OD: úter miomatós. Comentari: En principi, no es veu component submucós dels miomes que ens augmenti el risc de hipermenorrees amb la anticoagulació. De totes maneres, i donats els antecedents, creiem que seria una bona opció la possibilitat de DIU medicalitzat Mirena mentre duri la anticoagulació per intentar prevenir les hipermenorrees. En aquest cas, contactar de nou (interconsulta) amb Ginecologia per posar el DIU. L'altra possibilitat és esperar a la propera menstruació per veure la quantitat de sagnat, amb el risc d'hipermenorrea o, segons el temps estimat d'anticoagulació, valorar la possibilitat de menopausa reversible amb anàlegs de la GnRh.
+
+EVOLUCIÓ CLÍNICA
+Mujer de 40 años con los antecedentes descritos que acude por Ictus (PACI) de territorio de ACM derecha. A su llegada a nuestro centro, se encuentra hemodinámicamente estable, con NIHSS de 2, recuperándose espontánemaente. Posteriormente,  presenta de nuevo emperoamiento con paresia faciobraquial, se realiza TC multimodal en el que presenta defecto de perfusión a nivel frontal derecho precentral cortico subcortical en mapas TTP y MTT con minima alteracion en CBF sin lesion en CBV y con oclusión distal de rama posterior de la división anterior de ACM derecha y estenosis en la rama inferior de la división posterior, por lo  que se decide administración de rtPA (bolus de 5mg a las 14:57 y perfusión de 45mg que se finaliza).
+
+Informe d'alta d'hospitalització
+
+
+
+
+Durante su estancia en la Unidad de ictus se mantiene hemodinámicamente estable. Se realiza TC de control que no muestra lesiones isquémicas agudas ni transformación hemorrágica. Clínicamente presenta cierta fluctuación a nivel de mano izquierda con leve empeoramiento por lo que se realiza ECO doppler de control que muestra permeabilidad transcraneal. Se completa estudio etiológico mediante monitorización cardíaca durante 72 horas  que no muestra arritmias potencialmente embolígenas, estudio SHUNT negativo y ecoscan cardíaco que muestra hipocinesia apical por lo que se completa estudio mediante ETE objetivándose hipertrabeculación medio-apical de la cara inferior e infero-lateral, objetivándose así mismo multiples extrasistoles ventriculares. Por dicho motivo se completa estudio mediante RM cardíaca que no muestra alteraciones significativas. Se decide por ello Holter ambulatorio y valoración en CCEE Arritmias. Se ha realizado RM craneal que muestra Infarto fragmentado en fase subaguda precoz que afecta al territorio superficial de la arteria cerebral media derecha, que se asocia a pequeños infartos en fase subaguda tardía/crónica que afectan al territorio frontera interno izquierdo, por lo que podrían ser de origen embólico proximal. Si bien no se ha encontrado una causa clara, dadas las características objetivadas  en neuroimagen y en espera de completar estuido de trombofilias ambulatorio se decide iniciar anticoagulación durante unos meses hasta que este completado. Dados los antecentes de hipermenorrea es valorada por servicio de Ginecología y dadas las recomendaciones acordamos conducta expectante hasta la proxima menstruación y consultar con Ginecología de zona segun evolución. Durante su estancia hospitalaria, se ha iniciado rehabilitación con mejoría clínica, pendiente de control ambulatorio. NIHSS al alta: 2+1, mRS 1al alta. Se solicita estudio de trombofilias y control en CCEE Neurovascular.
+
+DIAGNÒSTICS
+Ictus isquémico ACM derecha de etiología indeterminada Tratamiento fibrinolítico con rtPA
+
+PROCEDIMENTS
+TC multimodal urgente TC craneal control Estudio shunt DI Doppler de control Telemetría
+Ecoscan cardiaco Ictus ETE
+RM craneal RM cardiaca IC Ginecología
+
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Dieta basal
+Ejercicio fisico moderado
+
+Tratamiento habitual:
+-	Sintrom 4 y Clexane 40 segun pauta adjuta
+-	Atorvastatina 40mg, 1 comprimido cada 24 horas
+-	
+Informe d'alta d'hospitalització
+
+
+
+CONTROL
+Se solicitan  1º visita  en CCEE  Cardiología-  arritmias y Hematología-  estudio de  trombofilias.  Le informaran telefonicamente y/o por carta con los datos de la cita
+Se solicita así mismo Holter ambulatorio
+Control en CCEE Rehabilitación y Neurovascular segun citas adjuntas Control TAO segun pauta adjunta
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+12.05.2017
+Pàgina 1 de 5

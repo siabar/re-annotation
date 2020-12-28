@@ -1,0 +1,152 @@
+T0	HORA 242 247	18:40
+#0	AnnotatorNotes T0	18:40
+T1	FECHA 251 261	30.12.2017
+#1	AnnotatorNotes T1	2017-12-30
+T2	FECHA 356 366	24.12.2017
+#2	AnnotatorNotes T2	2017-12-24
+T3	SECCION_MOTIVO_DE_INGRESO 420 434	MOTIU D'INGRÉS
+T4	_SUG_Ictus_isquemico 471 476	ictus
+T5	_SUG_Arteria_afectada 477 480	ACM
+T6	_SUG_Lateralizacion 481 490	izquierda
+T7	SECCION_ANTECEDENTES 492 503	ANTECEDENTS
+T8	SECCION_ANTECEDENTES_PATOLOGICOS 561 585	ANTECEDENTES PATOLÓGICOS
+T9	FECHA 632 643	agosto 2017
+#9	AnnotatorNotes T9	2017-08-UNDEF-day
+T10	_SUG_Ataque_isquemico_transitorio 653 656	AIT
+T11	_SUG_Arteria_afectada 657 666	carotídeo
+T12	_SUG_Lateralizacion 667 676	izquierdo
+T13	FECHA 680 694	Noviembre 2017
+#13	AnnotatorNotes T13	2017-11-UNDEF-day
+T14	_SUG_Trombolisis_intravenosa 736 755	tratamiento con AAS
+T15	SECCION_SITUACION_FUNCIONAL 810 813	SSF
+T16	_SUG_mRankin 860 865	mRS 2
+T17	SECCION_TRATAMIENTO_HABITUAL 867 885	MEDICACIÓ HABITUAL
+T18	_SUG_Tratamiento_antiagregante 886 889	AAS
+T19	SECCION_PROCESO_ACTUAL 1100 1113	PROCÉS ACTUAL
+T20	FECHA 1158 1163	24/12
+#20	AnnotatorNotes T20	2017-12-24
+T21	HORA 1170 1175	10:30
+#21	AnnotatorNotes T21	10:30
+T22	_SUG_Ictus_isquemico 1375 1380	ictus
+T23	_SUG_TAC_craneal 1403 1413	TC craneal
+T24	_SUG_TAC_craneal 1428 1430	TC
+T25	SECCION_EXPLORACION_FISICA 1445 1462	EXPLORACIÓ FÍSICA
+T26	_SUG_NIHSS 1874 1881	NIHSS=5
+T27	_SUG_Ictus_isquemico 1890 1895	ICTUS
+T28	_SUG_NIHSS 2276 2284	NIHSS: 1
+T29	SECCION_EXPLORACIONES_COMPLEMENTARIAS 2287 2312	EXPLORACIÓ COMPLEMENTÀRIA
+T30	_SUG_TAC_craneal 2429 2431	TC
+T31	_SUG_ASPECTS 2520 2533	ASPECTS 10/10
+T32	_SUG_Arteria_afectada 2585 2587	M1
+T33	_SUG_Arteria_afectada 2591 2593	M2
+T34	_SUG_Lateralizacion 2600 2608	esquerra
+T35	_SUG_Etiologia 2630 2642	ateromatosis
+T36	_SUG_Lateralizacion 2692 2700	esquerra
+T37	_SUG_Arteria_afectada 2729 2755	l'artèria caròtida interna
+T38	_SUG_Lateralizacion 2756 2764	esquerre
+T39	_SUG_Ictus_isquemico 3478 3483	ICTUS
+T40	_SUG_TAC_craneal 3486 3496	TC craneal
+T41	_SUG_ASPECTS 3600 3613	ASPECTS 10/10
+T42	_SUG_Arteria_afectada 3665 3667	M1
+T43	_SUG_Arteria_afectada 3671 3673	M2
+T44	_SUG_Lateralizacion 3680 3688	esquerra
+T45	_SUG_Arteria_afectada 3785 3811	l'artèria caròtida interna
+T46	_SUG_Lateralizacion 3812 3820	esquerre
+T47	_SUG_TAC_craneal 3930 3932	TC
+T48	_SUG_Arteria_afectada 3960 3969	carotideo
+T49	_SUG_Lateralizacion 3970 3979	izquierdo
+T50	_SUG_Arteria_afectada 4124 4127	ACI
+T51	_SUG_Lateralizacion 4128 4129	I
+T52	_SUG_Arteria_afectada 4135 4138	ACC
+T53	_SUG_Lateralizacion 4139 4140	I
+T54	_SUG_Arteria_afectada 4152 4155	ACI
+T55	_SUG_Lateralizacion 4156 4157	I
+T56	_SUG_Arteria_afectada 4197 4206	carotideo
+T57	_SUG_Lateralizacion 4207 4214	derecho
+T58	_SUG_Arteria_afectada 4330 4333	ACC
+T59	_SUG_Lateralizacion 4334 4335	D
+T60	_SUG_Arteria_afectada 4347 4350	ACI
+T61	_SUG_Lateralizacion 4351 4352	D
+T62	_SUG_Arteria_afectada 4365 4368	ACM
+T63	_SUG_Lateralizacion 4369 4370	I
+T64	HORA 4461 4465	1.00
+#64	AnnotatorNotes T64	01:00
+T65	_SUG_Arteria_afectada 4468 4471	ACM
+T66	_SUG_Lateralizacion 4472 4473	D
+T67	_SUG_Arteria_afectada 4530 4533	ACI
+T68	_SUG_Lateralizacion 4534 4535	I
+T69	SECCION_EXPLORACIONES_COMPLEMENTARIAS_EN_PLANTA_DE_NEUROLOGIA 4561 4578	Analítica ingreso
+T70	_SUG_Lateralizacion 4964 4971	derecha
+T71	_SUG_Arteria_afectada 4986 4989	ACC
+T72	_SUG_Lateralizacion 4990 4999	izquierda
+T73	_SUG_TAC_craneal 5609 5611	TC
+T74	_SUG_Lateralizacion 5655 5656	I
+T75	_SUG_Trombolisis_intravenosa 5681 5690	trombosis
+T76	_SUG_Arteria_afectada 5709 5712	ACC
+T77	_SUG_Lateralizacion 5713 5714	I
+T78	_SUG_Arteria_afectada 5726 5729	ACI
+T79	_SUG_Lateralizacion 5730 5731	I
+T80	_SUG_Arteria_afectada 5770 5779	carotideo
+T81	_SUG_Lateralizacion 5780 5787	derecho
+T82	_SUG_Arteria_afectada 5822 5825	ACC
+T83	_SUG_Lateralizacion 5826 5827	D
+T84	_SUG_Arteria_afectada 5839 5842	ACI
+T85	_SUG_Lateralizacion 5843 5844	D
+T86	_SUG_Arteria_afectada 5857 5860	ACM
+T87	_SUG_Lateralizacion 5861 5862	I
+T88	HORA 5953 5957	1.25
+#88	AnnotatorNotes T88	01:25
+T89	_SUG_Arteria_afectada 5960 5963	ACM
+T90	_SUG_Lateralizacion 5964 5965	D
+T91	_SUG_Lateralizacion 6031 6038	derecha
+T92	_SUG_Hemorragia_cerebral 6177 6186	hematomas
+T93	_SUG_Lateralizacion 6276 6284	derechos
+T94	SECCION_EVOLUCION 6413 6429	EVOLUCIÓ CLÍNICA
+T95	_SUG_NIHSS 6582 6592	NIHSS de 5
+T96	_SUG_Lateralizacion 6660 6668	derechas
+T97	_SUG_TAC_craneal 6709 6719	TC craneal
+T98	_SUG_ASPECTS 6743 6753	ASPECTS 10
+T99	_SUG_Trombolisis_intravenosa 6893 6897	rtPA
+T100	HORA 6903 6908	12:54
+#100	AnnotatorNotes T100	12:54
+T101	HORA 6943 6948	13:01
+#101	AnnotatorNotes T101	13:01
+T102	_SUG_Arteria_afectada 7035 7038	ACI
+T103	_SUG_Lateralizacion 7039 7040	I
+T104	_SUG_Tratamiento_anticoagulante 7082 7090	heparina
+T105	_SUG_Etiologia 7162 7174	ateromatosis
+T106	_SUG_Arteria_afectada 7175 7184	carotidea
+T107	_SUG_TAC_craneal 7230 7232	TC
+T108	_SUG_Etiologia 7362 7377	aterosclerótica
+T109	FECHA 7544 7554	29/12/2017
+#109	AnnotatorNotes T109	2017-12-29
+T110	_SUG_Arteria_afectada 7605 7614	carotídea
+T111	_SUG_TAC_craneal 7666 7668	TC
+T112	_SUG_NIHSS 8343 8348	NIHSS
+T113	_SUG_mRankin 8359 8364	mRS=2
+T114	SECCION_DIAGNOSTICOS 8367 8389	ORIENTACIÓ DIAGNÒSTICA
+T115	_SUG_Ictus_isquemico 8390 8405	Ictus isquémico
+T116	_SUG_Localizacion 8407 8411	PACI
+T117	_SUG_Arteria_afectada 8413 8416	ACM
+T118	_SUG_Lateralizacion 8417 8418	I
+T119	_SUG_Etiologia 8486 8501	aterosclerótica
+T120	_SUG_Arteria_afectada 8508 8511	ACI
+T121	_SUG_Lateralizacion 8512 8513	I
+T122	SECCION_PROCEDIMIENTOS 8528 8540	PROCEDIMENTS
+T123	_SUG_TAC_craneal 8541 8551	TC craneal
+T124	_SUG_Trombolisis_intravenosa 8563 8586	Fibrinolisis endovenosa
+T125	_SUG_TAC_craneal 8588 8598	TC craneal
+T126	_SUG_TAC_craneal 8667 8669	TC
+T127	SECCION_TRATAMIENTO_Y_RECOMENDACIONES_AL_ALTA 8671 8706	TRACTAMENT I RECOMANACIONS A L'ALTA
+T128	_SUG_Lateralizacion 8707 8712	Dieta
+T129	_SUG_Tratamiento_antiagregante 8806 8809	AAS
+T130	_SUG_Tratamiento_antiagregante 8833 8844	Clopidogrel
+T131	_SUG_Etiologia 8998 9006	habitual
+T132	SECCION_CONTROL 9020 9027	CONTROL
+T133	_SUG_TAC_craneal 9055 9057	TC
+T134	_SUG_Ictus_isquemico 9078 9083	Ictus
+T135	FECHA 9087 9097	12/04/2018
+#135	AnnotatorNotes T135	2018-04-12
+T136	SECCION_DESTINO_AL_ALTA 9147 9166	DESTINACIÓ A L'ALTA
+T137	FECHA 9221 9231	30.12.2017
+#137	AnnotatorNotes T137	2017-12-30

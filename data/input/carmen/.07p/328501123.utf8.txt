@@ -1,0 +1,175 @@
+_LOCATION_ Tel. _CONTACT_
+e-mail: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 83 Anys
+NIF/DNI: _ID_Informe d'alta d'hospitalització
+CP	_LOCATION_
+ABS	_SS_
+Servei	NEUROLOGIA
+Data d'alta  26.01.2017	10:21:04
+_LOCATION_
+_CONTACT_; _CONTACT_; _CONTACT_
+AGUTS 22.01.2017
+_NAME_ / _NAME_ / _NAME_ / _NAME_
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Trastorn del llenguatge.
+
+ANTECEDENTS
+Dona de 83 anys, dretana, sense hàbits tòxics ni al·lèrgies medicamentoses conegudes. mRS 0.
+
+ANTECEDENTS PATOLÒGICS:
+-	Hiepertensió arterial en tractament farmacològic
+-	Diabetes mellitus en tractament amb ADOs. El fill refereix que no fa correctament el tractament dietètic.
+-	Hipercolesterolemia en tractament farmacològic
+-	Nega malalties cardiaques o respiratories
+-	Síndrome ansiós depresiu
+
+SITUACIÓ SOCIO-FUNCIONAL: viu sola, a prop d'un fill. Indpedentent per a les ABVD. mRS0. Vida activa.
+
+MEDICACIÓ HABITUAL
+Enalapril/hidroclortiazida 20/12,5 mg 1 comprimit al dia Metformina 850mg 1 comprimit cada 12h
+Zolpidem a la nit
+Seroxat 20mg 1 comprimit al matí Omeprazol 20mg 1 comprimit al dia Forxiga 10mg 1c/24h
+
+PROCÉS ACTUAL
+És vista assimptomàtica per última vegada el dia 21/01/17 a les 21h. El dia 22/01 al matí la familia va a visitar-la cap a les 9h i la troba que no parla bé i possible asimetria facial. Esperen abans de consultar a _SS_ a les 13:32h, on detecten una possible afàsia i activen el codi ictus a les 14:02, arribant al nostre centre a les 14:33h
+
+EXPLORACIÓ FÍSICA
+
+FC	70 bpm
+Tªaxi 36.0 ºC
+FR	rpm Tªrec  ºC
+TA s	157 mmHg SAT O2 97 %
+TA d   80 mmHg Pes Kg
+
+A urgències: Glicemia 250 mg/dL.
+AC: tons cardíacs rítmics.
+NRL: concient i orientada en els tres eixos, llenguatge amb disminució de la fluència amb dificulutat per a la comprensió d'alguna ordre simple, possible component apràxic. Evoca amb dificultat 3/5 animals, nomina objectes correctament, repetició conservada. Disartria lleu. Oculomotricitat i campimetria normals. Lleu paresia facial central esquerre. Força normal en 4 extremitats. Extinció sensitiva hemicòs esquerre. Dubtosa  anosoagnosia sense
+
+Informe d'alta d'hospitalització
+
+
+
+
+asomatoagnosia.
+NIHSS: 0-0-0-0-0//2(0-0)(0-0)//0-0-1-1-2= 6.
+
+A unitat d'ictus: Glicemia 268 mg/dL.
+AC: tons cardíacs rítmics
+NRL: concient i orientada en els tres eixos, llenguatge amb disminució de la fluència amb dificulutat per a la comprensió d'alguna ordre simple, possible component apràxic. Evoca amb dificultat 3/5 animals, nomina objectes correctament, repetició conservada. Disartria lleu. Oculomotricitat i campimetria normals. Lleu paresia facial central esquerre. Força normal en 4 extremitats. Extinció sensitiva hemicòs esquerre. Dubtosa anosoagnosia sense asomatoagnosia.
+NIHSS: 0-0-0-0-0//2(0-0)(0-0)//0-0-1-1-2= 6.
+
+EXPLORACIÓ COMPLEMENTÀRIA
+Analítica  urgent  (22.01):  hemograma: leucos  7100 (N 56%,  L  34%), Hb  14,4 g/dl,  VCM 86fl, pqt 160000.
+Coagulació: TP 100%, INR 0,99, fibrinogen 440 mg/dl, TTPA 24 seg. Bioquímica: glucosa 277 mg/Dl, urea 40,9
+mg/dl, creat 0,72 mg/dl, Na+ 138 mmol/l, K+ 3,8 mmol/l, PCR 2,3 mg/l.
+
+ECG (22.01): en ritms sinsual sense canvis suggestius d'isquèmia aguda.
+
+TC cranial + angioTC (22.01.2017 14:40h): Lesió parenquimatosa parietal dreta, corticosubcortical, de petita mida que pot correspondre a lesió isquèmica aguda establerta o subaguda del territori de ACM dreta.
+Arteria caròtida comú esquerra originada al tronc braquiocefàlic. Estructures  arterials cervicals permeables. Defecte de repleció en segment M1 de ACM dreta amb fluxe posterior i segon defecte de repleció puntiforme a segment M2 de ACM dreta amb repermeabiltzació distal. Resta d'estructures arterials cervicals i arterials i venoses craneals permeables.
+
+Estudi neurosonològic: TSA: ambdós eixos carotidis permeables amb ateromatosis en  bulbs però que no condiciona estenosis ni alteracions del fluxe. A nivell intracranial té mala finestra transtemporal, i amb contrast observo la ACM permeable amb fluxe lleument accelerat entre 45 i 50 mm de profunditat al cantó dret amb resta d'artèries amb fluxe normal.
+
+Analítica general (23.01): Hemograma: leucòcits 7100 (N 52.8%, L 35.2, Mo 8.3, Eo 3.2, Ba 0.5), Hb 14.4gr/dl,
+plaquetes 156000. Bioquímica: glucosa 238 mg/dl, Hb glicada 10.1%, proteïna 63.2g/l, albúmina 38.5, urea 31
+mg/dl, creatinini 0.76mg/dl, calci 9.20, sodi 138.6, potassi  3.62, bilirubina 0.66, FA 67, ALT 12.  Triglicèrids 223mg/dl, colesterol 245 (HDL 36.7, LDL 164). Proteïnograma: Sense alteracions patológiques. TSH 0.500mcUI/mL, tiroxina 1.1ng/dl.
+
+Ecocardiograma transtorácic (24.01.2017): Ventricle esquerre lleugerament hipertròfic  i no dilatat. Funció ventricular conservada. Sense valvulopaties significatives. TIA íntegre.
+
+Rx tórax (24.01.2017): Silueta cardíaca aparentment de mida lleument augmentat. Hils de mida i morfologia normal. Sense signes RX de ICI Sense signes valorables d'infiltrats pulmonars. Sense vessament pleural. Ascens del hemidiafragma dret, valorar possible lobulació o parèsia frènica.
+
+Estudio neurosonológico de control (23.01.17): Troncs supraaórtics: carótides comuns, internes i externes sense alteracions significatives en el seu fluxe ni amb plaques importants, única placa en ACI dreta al seu inici,
+
+Informe d'alta d'hospitalització
+
+
+
+
+llisa, isohiperecoica eccèntrica. Vertebrals a V2 amb fluxe normal bilateral. Transcranial: mala finestra, necessita contrast, ACM dreta amb estenosi greu (>450cm/s) sobre M1 distal, resta d'arteries intracraneals (ACMs, ACPs i sifons) sense alteracions.
+
+RM cerebral y angio intracraneal (25.01.2017): [segons protocol CRYPTICAS] infart fragmentat recent corticosubcortical frontoparietotemporal dret en territori superficial de ACM dreta, amb imatge d'estenosi d'aspecte ateromatós a M1 distal homolateral. Signes d'ateromatosi intracranial al territori posterior, amb signe d'estenosi d'alt grau al segment P2 de ACP esquerre i dues estenosis a segment V4 de vertebral esquerra. Mínima transformació hemorràgica a focus esquèmic cortical frontal.
+
+Monitorització electrocardiográfica contínua durant 72 hores: sense arrìtmies emboligenes.
+
+EVOLUCIÓ CLÍNICA
+Dona de 83 anys, hipertensa, diabètica i dislipèmia amb mals controls que és portada via codi ictus el
+22.01.17 per clínica d'afasia i disartria del despertar.
+
+A la seva arribada hemodinàmicament estable, afebril amb tendència a la hipertensió. L'ECG està en ritme sinusal i clínicament s'observa una lleu afasia de predomini sensitiu, paresia facial esquerre, disartria i extinció sensitiva esquerre amb possible anosoagnosia puntuant un NIHSS de 6. Es realitza una analítica que no mostra troballes destacables i el TC cranial móstra lesió subaguda cortical en territori ACM dreta i presència de un possible èmbol recanalitzat en ACM M1 dreta i també en branca més distal. En un estudi doppler d'urgència es veu fluxe distal amb acceleració focal en ACM dreta compatible amb TIBI4. Per aquest motiu es decideix ingressar-la a l'unitat d'ictus aguts amb repòs absolut i amb doble antiagregació i atorvastatina a dosis altes (80mg).
+
+Durant el seu ingrés s'ha mantingut en ritme sinusal en la monitorització continua, amb hipertensió arterial inicialment que s'autolimita sense tractament farmacològic, hiperglucèmia que no es pot controlar amb 40 unitats d'insulina en pauta basal-bolus. A nivell mèdic no presenta complicacions. A nivell neurològic, es manté amb disàrtria lleu, puntuant un NIHSS de 1. Crida l'atenció una alteració de la fluència, que el fill refereix que es basal però que potser ha iniciat fa un temps, associat a oblits. Tolera dieta i deambulació sense ajuda i sense repetir símptomes.
+
+En l'analítica d'ingrés destaca hiperglucèmia, glicada de 10.1%, hipertrigliceridemia i hipercolesterolemia. Em repetit estudi neurosonològic que mostra estenosi vs. èmbol recanalitzat a regió distal de M1 dreta (velocitat sistòlica a 430cm/s). Una RM amb angioRM dins de l'estudi CRYPTICAS, mostra troballes compatibles amb ateromatosi intracranial amb estenosis politòpiques.
+
+Es fa IC a Endocrinologia que fa ajusts al tractament amb insulina i educació diabetològica a la pacient i al seu fill, i recomana vigilància per Endocrinòleg de zona. Se consulta amb el servei de Rehabilitació que pauta tractament rehabilitador.
+
+Per estabilitat clínica, es decideix alta a domicili, d'acord al la pacient i al seu fill.
+
+AL ALTA:
+NIHSS = 1 per lleu disartria. mRS = 1.
+
+Informe d'alta d'hospitalització
+
+
+
+
+Barthel = 100.
+DIAGNÒSTICS
+·	Ictus isquèmic agut de territori d'arteria cerebral mitja dreta de mecanisme embólic arteri-arterial i etiologia aterotrombótica
+·	Ateromatosi intracranial
+·	Hipertensió arterial
+·	Diabetes mellitus tipus 2
+·	Dislipemia
+·	Disminució de la fluencia del habla sense lesió a ressonancia.
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+-	Dieta baixa en grasses i sucre.
+-	Exercici aeròbic diària, al menys 30 minuts
+·	Esperar 2 a 3 setmanes per a començar-ho.
+-	Insulina "Novomix 30": 26 unitats al esmorzar i 20 al sopar.
+-	Metformina 850mg cada 12 hores.
+-	Atorvastatina 80mg cada 24 hores.
+-	Seroxat 20 mg cada 24 hores.
+-	Ranitidina 150 mg cada 12 hores.
+-	Aspirina "Adiro" 300mg cada 24 hores.
+-	Clopidogrel 75 mg cada 24 hores durant 3 mesos. No prendre-ho més allà del 20.04.17.
+
+CONTROL
+-	Control  amb  el  seu  metge de  capçalera  de  dislipemia i  hipertensió arterial (valorar  reinici  de  tractament hipotensor en funció de control a domicili).
+-	Es recomana derivació al seu Endocrinòleg de zona (d'acord amb el servei d'Endocrinologia del nostre centre).
+-	Control amb el seu neuròleg de zona
+·	Per ictus
+·	Per sospita de deteriorament cognitiu incipient
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+26.01.2017
+Pàgina 1 de 4

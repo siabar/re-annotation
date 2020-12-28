@@ -1,0 +1,171 @@
+
+
+
+
+
+Informe d'Alta Hospitalària	Cognoms i nom:
+_NAME_	NHC:
+_ID_
+	ABS:
+_SS_	CIP:
+_ID_	DNI:
+_ID_
+	Data de naixement:
+_DATE_	Sexe:
+Dona	Edat:
+77a	Telèfon:
+_CONTACT_
+	Finançament:
+CatSalut - _LOCATION_	Procedència:
+URGÈNCIES
+	Admissió:
+23.08.2017 - 00:05	Servei:
+NEURO - UNITAT ICTUS HOSP	Data entrada urg.:
+22.08.2017 - 23:07
+Adreça:
+_LOCATION_	Població:
+_LOCATION_	Codi Postal:
+_LOCATION_
+
+
+
+Motivo de ingreso
+Mujer de 77 años que ingresa por ictus.
+
+
+ANTECEDENTES
+-	Alergia a la cortisona.
+-	No hábitos tóxicos
+-	Factores de riesgo vascular:
+-	* Hipertensión arterial en tratamiento médico y con buen control.
+-	* Dislipemia en tratamiento médico.
+-	* Obesidad.
+-	Fibrilación  auricular  en  tratamiento  anticoagulante  con  sintrom  desde  2016.  Aparentemente  buenos controles.
+-	Ictus isquémico en territorio de ACM derecha de etiología carbioembólica por FA de debut en Julio 2016. Tratada con trombectomía mecánica en _SS_. NIHSS basal de 18 a NIHSS 0 al alta, mRS 2 al alta. Como secuela refieren algunos fallos mnésicos desde entonces.
+-	En Agosto 2015 consulta en _SS_ por clínica de paresia facial D y síncope. El TC craneal objetiva lesión hipodensa frontal derecha que orientan como posible proceso neoformativo y se deriva en Neurocirugía del _SS_. El estudio de neuroimagen (RM cerebral y PET cerebral), descarta que sea proceso neoformativo, por lo que es dada de alta desde neurocirugía.
+-	SAHS grave, IAH: 61; CT90%: 27%. Rechazó tratamiento con CPAP.
+-	Colecisitis.
+-	Glaucoma.
+-	Gonartrosis bilateral I>D.
+-	Incontinencia urinaria. Visita en clínica privada, en tratamiento con vesicare.
+-	Antecedentes familiares: padre fallecido de neoplasia de pulmón. Madre con antecedentes de ictus. Dos hemarnas con neoplasia de tiroides. Dos hijos, sanos.
+-	Situación sociofuncional: Vive con su pareja. Deambula sin soporte. FFSS aparentemente conservadas (aunque refieren algún fallo mnésico desde ictus previo). Independiente para las ABVD. mRS 2 por gonartrosis.
+
+-	Tratamiento habitual
+Bisoprolol 2.5 mg 1-0-0 Lorazepam 1 mg 1.5 comp al día Losartán 50mg 1 comp/día Omeprazol 20 mg 1-0-0
+Simvastatina 20mg 0-0-1
+Paracetamol 1 g/día
+Vesicare 5 mg 1 comp c/12 hrs Sintrom 4 mg según pauta
+
+Ventolin si precisa
+
+
+ENFERMEDAD ACTUAL
+Mujer de 77 años es traída a urgencias por presentar el día 22/8/2017 a las 22.45h de forma súbita debilidad de extremidades izquierdas, con conciencia de la sintomatología. No refiere alteraciones del lenguaje ni visuales. Sus familiares llaman al SEM que no activa código ictus. La paciente llega al hospital a las 23.07h y se activa código ictus en triaje.
+La paciente presentó hace un año un ictus isquémico de ACM derecha. Se realizó tratamiento endovascular primario (no rtPA por tiempo indeterminado de evolución) con recuperación prácticamente total de la clínica con la que debutó. Se diagnosticó una FA y se comenzó tratamiento con sintrom. Durante este año ha mantenido bueno controles y no ha presentado clínica neurológica.
+
+EXPLORACIÓN FÍSICA
+-	En Urgencias:
+afebril, con glicemia de 117, INR por coagucheck de 1.8. Consciente y orientada en las tres esferas.
+No alteración del leguaje. Disartria leve. Desviación oculocefálica a la derecha. HHI. Paresia facial central izquierda moderada. Hemiparesia braquial 2/5 y crural 3/5 izquierdas. No alteración de la sensibilidad.
+RCP extensor izquierdo. No agnosias.
+NIHSS: 0+0+0+2+2//2+(0+3)+(0+2)//0+0+0+1+0=12.
+
+-	En Unidad de Ictus:
+Consciente y orientada en las tres esferas. No alteración del habla ni del lenguaje.
+MOEs normales. No déficit campimétrico por confrontación. Paresia facial central izquierda leve.
+Sin focalidad motora.
+No alteración de la sensibilidad. RCP flexor bilateral.
+NIHSS: 0+0+0+0+0//1+(0+0)+(0+0)//0+0+0+0+0=1.
+
+-	Al ingreso en sala:
+Consciente y orientada en las tres esferas. No alteración del habla ni del lenguaje.
+MOEs normales. No déficit campimétrico por confrontación. Sin paresia facial
+Mínima paresia distal braquial izquierda. Miller Fisher izquierdo.
+
+No alteración de la sensibilidad. RCP flexor bilateral.
+NIHSS 0
+
+
+EXPLORACIONES COMPLEMENTARIAS
+-	Analítica: Sin alteraciones en bioquímica y hemograma. INR 2.18.
+-	ECG: FA rápida 150 lpm.
+-	Telemetría-ECG: Se mantiene en ritmo de FA con algún episodio de FVM rápida.
+-	TC craneal urgencias: Sin lesiones agudas, ASPECTS 10. Lesión isquémica crónica frontal derecha.
+-	AngioTCTSA/IC:  Importante  disminución de  calibre  distal de  M1  derecha que  plantea el  diagnostico diferencial entre suboclusión aguda y estenosis crónica.
+-	TC craneal de control: Estudio TC craneal superponible al previo, no se observan lesiones isquémicas de nueva aparición ni signos de sangrado intracraneal.
+
+INTERVENCIONES
+-	Tratamiento endovascular: Técnica: Sedación, punción femoral derecha, introductor corto 8F, Catéter Balón Merci 8F, Catéter Intermedio Sofía 5F, Microcateter Trevo 18, Microguía Synchro 14. Informe: Tras punción femoral derecha a las 00:25 horas se cateteriza la arteria carótida interna a las 00:41 h observándose la oclusión TICI 0 de la ACM distal derecha. Tras 1 aspiración con el catéter intermedio Sofía 5F se consigue a las 00:47 horas la recanalización completa TICI 3 de la ACM derecha. Se coloca cierre percutaneo tipo Proglide en zona de la puncion femoral.
+
+EVOLUCIÓN
+A la valoración neurológica en urgencias la paciente presenta un síndrome hemisférico derecho, puntuando un NIHSS de 12. El INR por coagucheck fue de 1.8.. Se realizó TC craneal que evidenció una lesión antigua frontal derecha sin lesiones intracraneales agudas y un angio TC que confirmó una oclusión de M1 derecha distal, por lo que se consideró candidata a tratamiento endovascular primario.
+El procedimiento resultó exitoso, consiguiendo una recanalización completa (TICI 3) tras una aspiración.
+Como complicaciones presentó una taquicardización de su FA de base que requirió un bolus de amiodarona.
+Después de la trombectomía fue trasladada a Unidad de Ictus dónde  presentó una mejoría clínica significativa, persistiendo únicamente una paresia facial central izquierda y paresia leve braquial izquierda, sumando una NIHSS de 2.
+Durante su estancia se mantuvo hemodinámicamente estable, sin requerimiento de oxígeno adicional y sin disfagia. Se realizó TC craneal de control a las 24h que no mostró sangrados ni otras complicaciones. Fue valorada por medicina rehabilitadora iniciando fisioterapia y logopedia con buena toleración.
+Como incidencias, presentó un nuevo episodio de aumento de la frecuencia ventricular que requirió aumento de la dosis de bisoprolol a 10 mg día y varios bolus de digoxina para su control.
+En unidad de ictus fue mejorando progresivamente hasta alcanzar un NIHSS de 0. Se inició anticoagulación oral inicialmente con heparina sódica y un posterior paso a anticoagulación oral con pradaxa.
+
+
+Dada la estabilidad fue trasladada a sala de neurología dónde continuó tratamiento rehabilitador y se mantuvo estable neurológicamente. Finalmente, se decidió alta a domicilio, pendiente de RM craneal y con controles ambulatorios posteriores.
+NIHSS al alta: 0 (Miller-Fisher izquierdo), mRS al alta: 2 por gonartrosis.
+
+
+PROCEDIMIENTOS
+-	Analítica sanguínea ingreso
+-	ECG y telemetría
+-	TC cerebral y angioTC de urgencia
+-	TC de control
+-	Trombectomíamecánica
+
+
+ORIENTACIÓN DIAGNÓSTICA
+-	Infarto isquémico en territorio de ACM derecha de mecanismo embólico y etiología cardioembólica.
+Tratamiento endovascular primario.
+-	Fibrilación auricular
+-	Hipertensión arterial
+-	Dislipemia
+
+
+TRATAMIENTO Y RECOMENDACIONES AL ALTA
+Tratamiento al alta
+Suspender Sintrom
+Dabigatrán (Pradaxa) 150mg 1-0-1 Bisoprolol 2.5 mg 1-0-1
+Orfidal 1 mg 0-0-1.5
+Losartán 50mg 1-0-0
+Omeprazol 20 mg 1-0-0
+Simvastatina 20mg 0-0-1 Paracetamol 1 g si dolor. Vesicare 5 mg 1-0-1
+
+Digoxina 0.25mg 1-0-0 excepto sábados y domingos Ventolin si precisa
+
+
+-	Realizar RM craneal de forma ambulatoria según programación adjunta con posterior visita en CEX neurología para resultados.
+-	Acudir a visitas de control en CEx Neurología según programación adjunta.
+-	Acudir a visita de control con Hemostasia según programación adjunta.
+
+
+
+
+Recomendaciones generales
+-	Tratamiento de la hipertensión arterial, manteniendo cifras por debajo de 140/90mmHg.
+-	Abandono completo del hábito tabáquico.
+-	Control  y  tratamiento  de  las  enfermedades  cardiacas  (cardiopatía  isquémica,  insuficiencia  cardiaca, arritmias y valvulopatías).
+-	Evitar consumo excesivo de alcohol (se permite una o dos bebidas al día).
+-	Vigilancia y tratamiento del perfil lipídico: Dieta pobre en grasas, actividad física apropiada. Tratamiento farmacológico si precisa para mantener niveles de LDL<100mg/dl.
+-	Control de la glucemia, que debe ser <126mg/dl en ayunas, con dieta, antidiabéticos orales o insulina si precisa.
+-	Realizar actividad física, 30 a 60 minutos, de tres a cuatro veces a la semana.
+-	Continuar el tratamiento anticoagulante a las dosis recomendadas.
+
+
+_NAME_ (NºCol. _ID_)
+Equip mèdic: _NAME_ (NºCol. _ID_), _NAME_ (NºCol. _ID_)
+
+Servei que ha donat d'alta:
+NEUROLOGIA HOSP	Data d'alta:
+31.08.2017	Nom del metge que informa de l'alta:
+Dra. _NAME_ (NºCol. _ID_)
+
+
+_LOCATION_, 31.08.2017
+Pàg. 1 de   5

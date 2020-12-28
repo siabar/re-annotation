@@ -1,0 +1,63 @@
+T0	Fecha_de_ingreso 212 222	02.03.2017
+#0	AnnotatorNotes T0	2017-03-02
+T1	HORA 223 228	23:40
+#1	AnnotatorNotes T1	23:40
+T7	SECCION_DIAGNOSTICOS 3779 3791	DIAGNÓSTICOS
+T12	Etiologia 3851 3870	angiopatía amiloide
+T13	_SUG_Lateralizacion 3902 3911	izquierda
+T14	SECCION_MOTIVO_DE_INGRESO 427 445	MOTIVO DE CONSULTA
+T15	_SUG_Ictus_isquemico 460 465	ictus
+T16	SECCION_ANTECEDENTES_PERSONALES 468 491	ANTECEDENTES PERSONALES
+T17	_SUG_Tratamiento_anticoagulante 582 594	acenocumarol
+T18	SECCION_TRATAMIENTO_HABITUAL 693 713	Tratamiento habitual
+T19	Tratamiento_anticoagulante_hab 800 807	Sintrom
+T20	_SUG_Lateralizacion 985 986	I
+T21	SECCION_PROCESO_ACTUAL 1192 1209	ENFERMEDAD ACTUAL
+T22	_SUG_Lateralizacion 1308 1317	izquierda
+T23	_SUG_Ictus_isquemico 1335 1340	ictus
+T24	NIHSS_previa 1351 1359	NIHSS 19
+T25	_SUG_Hemorragia_cerebral 1409 1419	hemorragia
+T26	_SUG_Localizacion 1423 1439	ganglios basales
+T27	_SUG_Lateralizacion 1440 1447	derecha
+T28	_SUG_Hemorragia_cerebral 1450 1458	hematoma
+T29	_SUG_Localizacion 1470 1479	occipital
+T30	SECCION_EXPLORACION_FISICA 1854 1872	EXPLORACIÓN FÍSICA
+T31	_SUG_Arteria_afectada 2034 2037	ACP
+T32	_SUG_Localizacion 2218 2226	profunda
+T33	_SUG_Lateralizacion 2342 2351	izquierdo
+T34	SECCION_EXPLORACIONES_COMPLEMENTARIAS 2438 2461	PRUEBAS COMPLEMENTARIAS
+T35	FECHA 2486 2492	2/3/17
+#35	AnnotatorNotes T35	2017-03-02
+T36	TAC_craneal 2598 2609	TAC craneal
+T37	Fecha_TAC_inicial 2610 2616	2/3/17
+#37	AnnotatorNotes T37	2017-03-02
+T38	_SUG_Hemorragia_cerebral 2630 2638	Hematoma
+T39	_SUG_Localizacion 2662 2678	ganglios basales
+T40	_SUG_Lateralizacion 2679 2687	derechos
+T41	_SUG_Localizacion 2747 2758	ventricular
+T42	_SUG_Localizacion 2771 2778	parcial
+T43	_SUG_Localizacion 2782 2792	ventriculo
+T44	_SUG_Lateralizacion 2801 2808	derecho
+T45	_SUG_Localizacion 2812 2822	ventrículo
+T46	_SUG_Localizacion 2889 2900	ventricular
+T47	_SUG_Localizacion 3103 3113	cerebeloso
+T51	SECCION_EVOLUCION 3310 3319	EVOLUCIÓN
+T52	_SUG_Hemorragia_cerebral 3356 3373	ictus hemorrágico
+T53	_SUG_Ictus_isquemico 3356 3361	ictus
+T54	Fecha_de_alta 3726 3744	5 de Marzo de 2017
+#54	AnnotatorNotes T54	2017-03-05
+T55	Hora_de_alta 3751 3756	17:27
+#55	AnnotatorNotes T55	17:27
+T56	SECCION_TIPO_DE_INGRESO 4027 4041	Tipus d'ingrés
+T57	FECHA 4165 4175	06.03.2017
+#57	AnnotatorNotes T57	2017-03-06
+T58	FECHA 4217 4227	06.03.2017
+#58	AnnotatorNotes T58	2017-03-06
+T59	HORA 4228 4233	08:48
+#59	AnnotatorNotes T59	08:48
+#4	AnnotatorNotes T24	19
+T2	SECCION_SITUACION_FUNCIONAL 888 897	Funcional
+T3	SECCION_EXPLORACIONES_COMPLEMENTARIAS_EN_URGENCIAS 2462 2474	En urgencias
+T4	Ictus_isquemico 3794 3811	Ictus hemorrágico
+T5	Localizacion 3812 3828	ganglios basales
+T6	Lateralizacion 3829 3837	derechos

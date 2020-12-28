@@ -1,0 +1,187 @@
+
+
+
+
+
+Informe d'Alta Hospitalària	Cognoms i nom:
+_NAME_	NHC:
+_ID_
+	ABS:
+_SS_	CIP:
+_ID_	DNI:
+_ID_
+	Data de naixement:
+_DATE_	Sexe:
+Dona	Edat:
+85a	Telèfon:
+_CONTACT_
+	Finançament:
+CatSalut - CATALUNYA	Procedència:
+URGÈNCIES
+	Admissió:
+03.01.2017 - 20:20	Servei:
+NEUROLOGIA HOSP	Data entrada urg.:
+03.01.2017 - 18:57
+Adreça:
+_LOCATION_	Població:
+_LOCATION_	Codi Postal:
+_LOCATION_
+
+
+
+MOTIVO DE INGRESO
+Paciente de 85 años de edad que ingresa por ictus isquémico y tratamiento endovascular
+
+
+ANTECEDENTES
+-No hábitos tóxicos
+-No alergias
+-HTA de larga evolución, bien controlada.
+-BAV primer grado
+-Pericarditis hace años
+-Cáncer  de  mama,  tratada  hace  10  años  con  tumorectomía,  extirpación  adenopatías, radioterapia  y quimioterapia (_SS_). Remisión.
+-Ruptura tendinosa en un brazo.
+-Conjuntivitis crónica
+-IQ: Cataratas, miomectomía uterina, prótesis rodilla derecha, osteotomía valguizante, hallux valgus
+-Recientemente desde el CAP la derivaron a _SS_ para estudiar quejas de memoria y episodios de deosrientación.
+-Tratamiento habitual: Enalapril/hidroclorotiacida, lorazepam, ideos
+-A nivel socio funcional vive con su hija. La paciente es autónoma para todas las actividades básicas e instrumentales de la vida diaria, camina con bastón desde hace unos 15 días por cirugía de hallux valgus (mRs2).
+
+
+
+ENFERMEDAD ACTUAL
+-	Mujer de 85 años que es traída a urgencias de nuestro centro por código ictus extrahospitalario. Es traída por el SEM porque el día 03.01.16 a las 18.00h cuando paseaba por la calle con su hija, se desploma en el suelo. A la llegada del SEM, objetivan hemiplejía I y desviación de la comisura bucal, por lo que activan código ictus.
+-	A su llegada a urgencias a las 18:57 h, hemodinámicamente estable. TA: 171/99 FC: 72 Tº 36º. INR: 1,1 Glu: 94. A la exploración en urgencias presenta un síndrome hemisférico izquierdo que puntua 20 en el NIHSS.
+-	Se realiza TC craneal que muestras signos de isquemia hiperaguda en territorio de ACM derecha (ASPECTS 7) y angio-TC con oclusión de M1 de ACM D. El ECG muestra ACxFA no conocida.
+-	Se orienta como ictus isquémico en territorio de ACM D por oclusión de M1 de etiología cardioembólica por FA no anticoagulada.
+-	Dado que la paciente en autónoma y presenta una oclusión aguda M1 derecha se indica tratamiento de reperfusión con rtpa y endovascular.
+
+
+
+
+
+
+EXPLORACIÓN FÍSICA
+-	A su ingreso en Urgencias presenta un síndrome hemisférico izquierdo que puntua un NIHSS=20.
+-	Tras el procedimiento: A la valoración tras finalizar el procedimiento presenta estupor, con muy escasa respuesta a estímulos, aunque obedece órdenes básicas y moviliza parcialmente extremidades izquierdas. Resto de la exploración sin cambios.
+-	A las 24 horas (REA): Disminución de nivel de conciencia, ojos espontáneamente cerrados, los abre tras estímulo repetido y nociceptivo. No emite palabras, obedece órdenes sencillas. Mioclonías muy abundantes y generalizadas. HHI por amenaza visual. Desviación ocular  a la derecha que se vence con ROC. Hemiplejia FB(0)>C(1-2) izquierda, Probable hemianestesia izquierda. Babinski bilateral. NIHSS: 2+2+1+1+2+2+0+4+0+3+0+2+3+2+0=24 Sistémica: AC arrítmica, AR normal, abdomen  normal, pulsos presentes.
+-	A su llegada a sala de paciente consciente y desorientada en tiempo y espacio, reactiva. Obedece a órdenes simples. Lenguaje escaso y de difícil comprensión. Pupilas isocóricas y reactivas. Campimetría por amenaza muestra heminegligencia izquierda. Presenta hemiparesia faciobraquiocrural izquierda (desviación comisura bucal izquierda, déficit motor en músculo orbicular del párpado). Fuerza en ESD y EID 5/5. Hemihipoestesia derecha, sensibilidad preservada en EEII. Asomatognosia de hemicuerpo izquierdo, anosognosia. Extinción sensitiva en EEII. Movimientos oculocefálicos preservados. Reflejo arcaico: grasping.  Mingazzini no valorable. Marcha y Romberg negativos.
+-	Prealta: Persiste síndrome hemisférico derecho completo hemiplejia izquierda con hemihipoestesia grave con signos corticales (anosognosia, asomatognosia, heminegligencia visual izquierda). NIHSS = 0.0.1.0.2/1(0.4)(0.4)/0.2.0.1.2 = 17
+
+EXPLORACIONES COMPLEMENTARIAS
+-	Analítica  Urgencias:  Bioquímica  normal  salvo  urea  8.6.  Hemograma  normal  salvo  plaquetas  388.
+Coagulación normal.
+-	Analítica control:  Amoni 29 µmol/L <72  49,98 µg/100mL   Sodi 143 mmol/L ( 136 - 145 ) Potassi 3,75
+mmol/L ( 3,50 - 5,10 ) Calci 2,07 mmol/L ( 2,15 - 2,55 )  8,28 mg/100mL  Glucosa 6,2 mmol/L ( 3,0 - 6,0 )
+111,60 mg/100mL  Urea 6,9 mmol/L ( 2,9 - 8,2 )   41 mg/100mL  Creatinina 63 µmol/L ( 0 - 80 )   0,71
+mg/100mL  AST (GOT) 59 U/L ( 0 - 31 ) ALT (GPT) 57 U/L ( 0 - 31 ) Hemoglobina 118 g/L ( 120 - 150 )
+Hematòcrit 0,36 L/L ( 0,35 - 0,45 ) Hematies 3,86 x10E12/L ( 3,90 - 5,00 ) vCM 94,3 fL ( 80,0 - 98,0 ) CCMH
+324 g/L ( 320 - 360 ) HCM 30,6 pg ( 27,0 - 32,0 ) RDW 13,5 % ( 12,0 - 15,0 ) Plaquetes 308 x10E9/L ( 140 -
+350 ) VPM 7,5 fL ( 7,0 - 10,5 ) Plaquetòcrit 0,30 %  Leucòcits 12,10 x10E9/L ( 3,80 - 11,00 ) Neutròfils 83,3
+%  Neutròfils absoluts 10,07 x10E9/L ( 1,80 - 7,00 ) Eosinòfils 0,2 %  Eosinòfils absoluts 0,02 x10E9/L ( 0,05
+- 0,50 ) Basòfils 0,2 %  Basòfils absoluts 0,03 x10E9/L ( 0,00 - 0,10 ) Monòcits 8,0 %  Monòcits absoluts 0,97 x10E9/L ( 0,30 - 1,00 ) Limfòcits 8,3 %  Limfòcits absoluts 1,01 x10E9/L ( 1,00 - 4,00 )
+-	ECG: FA con FVM 90lpm
+-	TC craneal urgente: Hiperdensidad en M2 de la ACM D. Aunque en el estudio craneal simple no es muy evidente, ya se aprecia una sutil hipodensidad en ganglios basales derechos y temporo-insular D, siendo la frontal derecha algo mas dudosa, pudiendo considerar un ASPECTS de 7. Moderada dilatación ventricular y cambios  involutivos  de  predominio  temporal  medial.  Moderada  hipodensidad  en  la  sustancia  blanca
+
+periventricular de aspecto hipóxico-isquémico crónico.
+-	ANGIO-TC (TSA E INTRACRANEAL): Llama la atención la presencia de una trombosis completa de la cerebral media derecha desde su origen, sin visualitzar circulación distal en su territorio, ni compensación aparente por colaterales. También existe un pequeño defecto de repleción muy focal en el lado Izquierdo del top de la basilar y segmento P1 de la cerebral posterior izquierda, aunque tanto el resto de la arteria basilar como de la cerebral posterior es permeable, apreciando una comunicante posterior izquierda prominente y permeable. El resto de la circulación intracraneal no muestra otros hallazgos relevantes. En el estudio de TSA, existen pequeñas placas ateromatosas en las bifurcaciones carotídeas, sin estenosis y sin otras alteracions tanto en ejes carotídeos como vertebrales. Impresión diagnóstica gobal: Estudio parenquimatoso con signos de afectación isquémica aguda en territorio profundo y superficial de la ACM D y angioTC con signos de trombosis completa en M1 de la ACM D desde su origen y otro pequeño trombo focal en lado izquierdo del top de la basilar/segmento P1 de la ACP izq, que hacen sospechar origen embólico cardíaco.
+-	TC control: Estudio artefactado por movimiento. Se compara con TC realizado el 03/01/2017. Pérdida de la diferenciación cortico-subcortical frontal, temporal y parietal derecha, con áreas hipodensas que afectan la cortical que alterna con zonas de ingurgitación cortical. También se observa sangrado derecho con efectación periventricular y de ganglios basales. Efecto de masa con la casi obliteración del ventrículo lateral derecho y miínima desviación de la línea media hacia la izquierda de 2 mm aproximadamente. Resto sin cambios. Conclusión: Hallazgos sugestivos de isquemia establecida en el territorio superficial y profundo de la ACM derecha, con transformación hemorrágica, ingurgitación cortical y efecto de masa con obliteración del ventrículo lateral derecho y mínima desviación de la línea media.
+-	Ecografía de partes blandas: El estudio ecográfico a nivel del glúteo izquierdo en la zona perianal muestra una masa sólida de 7. 3 cm x 4 cm en profundidad, que mediante estudio Doppler presenta vascularización significativa, siendo compatible con lesión tumoral de tejidos blandos.
+
+NEUROINTERVENCIONISMO
+Por punción femoral derecha a las 20.20 se realiza arteriografía cerebral que demuestra oclusión de TICA derecha y presencia de aneurisma permeable de comunicante posterior de unos 12 mm de diámetro que estaba trombosado en el angioTAc. Realizamos trombectomía mecánica mediante cuatro pases de TREVO 6 x 25 mm en M1 y A1-A2 derechas hasta obtener un TICI 2b a las 22.05 las con apertura de cerebral media y anterior derechas y oclusión de una rama frontal. Se ha colocado un sistema de cierre percutaneo proglide en femoral derecha.
+-	Hora d'inici dels símptomes: 18:00
+-	Hora arribada a urgències: 18:57
+-	Hora TC cerebral: 19:07
+-	Hora AngioTC: 19:15
+-	Hora bolus rtPA: 19:26
+-	Temps porta-agulla: 29 minuts
+-	Hora punció femoral: 20:14
+-	Temps TC-punció: 59 minuts
+-	Temps primera sèrie: 20:24
+
+
+
+
+EVOLUCIÓN
+-	Se retrasa el tiempo de administración del rtPA por HTA difícil de controlar (bolus 19:26). Se suspende la infusión de rtPA 20 minutos después de su inicio por imposibilidad para controlar la HTA. Por oclusión de M1 se indica también trombectomía mecánica. El procedimiento se consigue una repermeabilización de la arteria TICI2b angiográfico pero clínicamente la paciente no muestra mejoría clínica. A la revaloración a las 24h se encuentra obnubilada, con NIHSS 24. El TC de control muestra un infarto extenso en todo el territiorio de la ACM derecha con sufusión hemorrágica en la zona del infarto (la sufusión hemorrágica es asintomática).
+-	No tolera dieta oral, se implanta SNG para nutrición y se decide traslado a Sala de Neurología tras paso por la unidad de ictus. Porgresivamente mejora el nivel de consciencia, tolera dieta oral pero persite
+-	Es valorada por rehabilitación y realiza tratamiento.
+-	Como	complicación	médica   presenta	síndrome	febril	por	probable	infección	respiratoria	por broncoaspiración que presenta una buena evolución con el tratamiento antibiótico con augmentine.
+-	Se detecta realizando la higiene masa en un gluteo, se evidencia masa sólida vascularizada, no se realizan más estudios por estado funcional actual de la paciente.
+-	En resumen se trata de un infarto extenso en territorio de ACM derecha de probable etiología cardioembólica. No se inicia prevención secundaria con anticoagulación dado estado funcional actual (mRS=5).
+-	Es valorada por trabajo socia y UFISS, se decide alta a CSS.
+-	Al alta NIHSS = 17, mRS = 5.
+
+
+PROCEDIMIENTOS
+-Trombólisis rtpa
+-Trombectomía
+-ECG
+-Analítica sanguínea
+-TC craneal y angioTC
+-Telemetría
+
+
+DIAGNÓSTICO
+-	Infarto cerebral en territorio de  ACM derecha de probable etiología cardioembólica, tratado con trombólisis intravenosa y trombectomía.
+-	Oclusión de TICA, probablemente cardioembólica
+-	Fibrilación auricular de debut
+-	Sufusión hemorrágica en zona infarto asintomática.
+-	Aneurisma de arteria comunicante anterior asintomático
+-	Probable infección respiratoria por broncoaspiración buena respuesta al tratamiento antibiótico
+-	Masa interglútea
+
+
+RECOMENDACIONES AL ALTA
+-	Acudir a control en CEX de neurología sergún citación adjunta.
+-	Mantener controles con sus médicos habituales.
+
+Tratamiento
+Amoxicilina + clavulanico 1000 MG cada 8h hasta el sábado 21/01/2017 incluido y suspender. Bemiparina 2500 UI cada 24h
+Enalapril 5 MG cada 12h Omeprazol 20mg/día Hidroclorotiazida 25 MG/día Paracetamol 1gr/8h
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Responsable clínic: Dra. _NAME_ (Nº_ID_)
+Equip mèdic: _NAME_ (NºCol. _ID_), Dr. _NAME_, Dr. _NAME_ (NºCol. _ID_)
+
+Servei que ha donat d'alta:
+NEURO - UNITAT ICTUS HOSP	Data d'alta:
+20.01.2017	Nom del metge que informa de l'alta:
+Dr. _NAME_ (NºCol. _ID_)
+
+
+_LOCATION_, 20.01.2017
+Pàg. 1 de   5

@@ -1,0 +1,153 @@
+_LOCATION_
+Telf:
+_CONTACT_
+_CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 82 Anys
+NIF/DNI: _ID_Informe d'alta d'hospitalització
+11:26:52
+20.01.2017
+_LOCATION_
+_SS_ NEUROLOGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_
+DOMICIL/RES.SOC 17.01.2017
+_NAME_
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Codi Ictus
+
+ANTECEDENTS
+Autònoma. R 0. Viu sola. Vídua recent Hipertensió arterial
+ACXFA antiagregada DIslipèmia
+
+
+MEDICACIÓ HABITUAL
+ADIRO 100MG 30 COMPRIMIDOS GASTRORRESISTENTES EFG  ACID ACETILSALICILIC 1 x 24 h.  Indefinida 1  30
+APOCARD 100MG 60 COMPRIMIDOS  FLECAINIDA, ACETAT  1 x 12 h. Indefinida  1  30  RE-163 HIDROFEROL 0,266MG 10 AMPOLLAS BEBIBLES 1,5ML SOLUCION ORAL CALCIFEDIOL  1 x 15 d. RANITIDINA CINFA 150MG 28 COMPRIM RECU EFG  RANITIDINA  1 x 24 h.  Indefinida  1 28  RE-163 SIMVASTATINA ALMUS 20MG 28 COMPRIMIDOS RECUBIERTOS CON PELICULA EFG  SIMVASTATINA
+1 x 24 h.
+TRANKIMAZIN 0,25MG 30 COMPRIMIDOS  ALPRAZOLAM 1 x 12 h. Indefinida  1  15  RE-340 VALSARTAN/HDCLTZ KERN PHARMA 80/12,5MG
+
+
+PROCÉS ACTUAL
+Dona  de 82 anys que  estant dinant amb la família,  presenta de forma  ictal  a les 14:15 hores trastorn del llenguatge. Es portada a ucies per la família. S'activa CI a ucies.
+
+
+EXPLORACIÓ FÍSICA
+
+TA 190/100 afebril BEG, NC i NH
+AC tons arítmics AR mvc
+ABD tou i depressible
+
+Expl NRL:
+Vigil i Alerta. Colaboradora. No compren ordres senzilles. LLenguatge flut amb jergafàsia, no compresible. No dèficit campimètric. PPCC conservats. NO dèficit motor ni sensitiu. RCP flex
+PACI ; NIHSS 4
+
+Informe d'alta d'hospitalització
+
+
+
+
+EXPLORACIÓ COMPLEMENTÀRIA
+Analitica: Hemograma i coagulació: N
+
+ECG: FA
+
+TAC cranial: No hi ha evidència de lesions isquèmiques agudes ni hemorràgiques a l'estudi sense contrast. Atròfia cerebral de predomini cortical, en relació a l'edat.
+AngioTC TSA i intracranial: sense imatges d'oclusió.
+
+TC cranial control post-rtPA: sense lesions hemorràgiques ni isquèmiques.
+
+
+
+EVOLUCIÓ CLÍNICA
+La pacient presenta un Ictus isquèmic a territori ACM E d'origen cardioembòlic, PACI amb NIHSS 4.
+A l'arribada a ucies hipertensió que requereix 2 bolus de labetalol. Davant abscència de contraindicacions ii una vegada s'aconsegueix bon control de TA iniciem tto rtPA a les 16:22 hores sense complicacions.
+Pasa en observació al servei de vigilància semi-intensiva sense complicacions i posteriorement pasa a planta convencional de Neurologia. La pacient resta estable i sense complicacions. Inicia sedestació i deambulació autònoma i presenta progressiva recuperació complerta del llenguatge mostrant-se totalment recuperada en el moment de l'alta.
+
+En resum, es tracta d'una pacient amb una FA no descoagulada que ha peresentat un ictus isquèmic cardioemb`lic, tractat amb trombolisis amb recuperació complerta. Com a tractament de prevenció secundària precissa anticoagulants orals, sent tributària de Eliquis 2'5mg/12h per CAHDS-VASC2 6; i recomanant dosis de 2'5/12 per ictus recent i edat (HAS-BLED 2) i Clearance de 38.
+
+
+DIAGNÒSTICS
+436/5 Ictus isquèmic a territori de l'ACM E de mecanisme i causa cardioembòlica. 427.31/2 Fibril.lacio auricular
+401.9/4 Hipertensió arterial inespecificada 278.00/1 Obesitat
+272.0/1 Hipercolesterolemia
+
+PROCEDIMENTS
+Codi Ictus / Trombolisisev
+89.52 Electrocardiograma. ECG NOS, ECG (amb 12 o més derivacions)
+87.03 Tomografia axial computada de cap. TAC de cap
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+- Eliquis 2'5mg 1comp/12h Suspendre Adiro 100
+
+Informe d'alta d'hospitalització
+
+
+
+
+Resta de la seva medicació sense canvis.
+
+
+CONTROL
+Control i seguimnet pel seu metge de familia amb control dels FRV
+Acudirà a CEX de Hematologia per control anticoagulant i Neurologia per control evolutiu.
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+20.01.2017
+Pàgina 1 de 3

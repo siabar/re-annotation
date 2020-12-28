@@ -1,0 +1,190 @@
+_LOCATION_
+email: _CONTACT_ Telèfon _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 83 Anys
+NIF/DNI: _ID_Equipo Dra. _NAME_ / Dr. _NAME_ (Dra. _NAME_ / Dr. _NAME_ / Dr. _NAME_)
+Informe de Trasllat a Sociosanitari
+12:48:38
+19.10.2017
+_LOCATION_
+_SS_ NEUROLOGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_; _CONTACT_
+DOMICIL/RES.SOC 23.09.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Paciente de 83 años de edad, que ingresa por hematoma lobar.
+
+ANTECEDENTS
+ALERGIAS
+Alergia a la AAS según informes previos.
+
+ANTECEDENTES PATOLÓGICOS
+1.	Dislipemia en tratamiento con estatinas
+2.	Cardiopatía isquémica FEVI conservada con tres IAM por lo que realizaba seguimiento en cardiología de _SS_ con coronariografía de 1994 que mostraba DA: 50%, CX:80%, CD:40%. Se reaizó revascularización con bypass y durante estudio previo se detectó valvulopatía aórtica (no consta en informes el tipo) por lo que se realizó sustitución por válvula mecánica por lo que se encuentra en tratamiento con acenocumarol.
+3.	Múltiples episodios de síncope estudiados por Cardiología y Neurología. No queda clara la etiología aunque se encuentra en seguimiento por Unidad de Epilepsia bajo la orientación de  crisis parciales complejras en tratamiento con LEV 250-0-250 + LCS 200/12h
+4.	Glaucoma en tratamiento.
+5.	Adenocarcinoma de próstata G 4+4 cT3b N0 sobre el que se realizó SA intermitente con buena respuesta. Realiza controles con urología. En enero nuevo control para valorar su reinicio
+6.	AIT de perfil lacunar hemimotor  por lo que  acudió a _SS_ en 2013 realizándose  ecocardiograma para descartar trombosis de prótesis aórtica siendo éste normal.
+7.	Fractura mandibular que requirió de intervención quirúrgica en junio del 2017
+8.	Osteoporosis femoral en tratamiento con denosumab
+9.	Hipertrofia benigna de próstata
+10.	Fractura de radio derecho intervenida quirúrgicamente
+
+Situación sociofuncional: Parcialmente dependiente para actividades avanzadas. Independiente para básicas. mRS 2
+
+MEDICACIÓ HABITUAL
+Bisoprolol 2.5mg un comprimido cada 24 horas, Citalopram 20mg un comrpimido cada 24 horas, Diafusor 10mg cada 24 horas, Dogmatil 50 dos capsulas al día si precisa, Tamsulosina 0.4mg un comprimido cada 24 horas, Ferogradumet 105mg una cápsula al día, LEV 250-0-250, LCS 100-0-100, Acenocumarol según pauta, Simvastatina 20mg un comprimido cada 24 horas, Prolia 60mg inyectable.
+
+PROCÉS ACTUAL
+Acude por cuadro de una semana de evolución de debilidad generalizada asociada a hipotensión arterial con tendencia a la inestabilidad. La noche previa a su ingreso preseta caída desde propia altura, sin saber especificar los familiares si presentó alguna clínica neurológica previa a la misma. Desde el despertar la mañana de su ingreso 23.09.2017 presenta mayor desorientación y lenguaje más incoherente, con nueva caída al suelo, por lo que acuden a urgencias siendo valorado inicialmente por medicina interna y avisándose a la guardia de NRL tras
+
+Informe de Trasllat a Sociosanitari
+
+
+
+
+realización de TC craneal simple a las 11:53h.
+
+Última vez que fue visto asintomático: 22/09/2017 a las 20:00:00.
+
+EXPLORACIÓ FÍSICA
+
+EXP. FÍSICA A URG: PAS153 , PAD 68 mmHg // FC de80 bpm
+
+NIHSS total de7 (Vígil, alerta. LOC Q 1/2 (1). LOC C 1/2 (1). Afasia sensitiva con lenguaje fluente y abundantes parafasias, repite correctamente, nomina 1/3, comprende algunas órdenes sencillas (2). Impresiona de HHD por amenaza (2). No paresia ni hipoestesia facial. Balance motor globalmente conservado en las cuatro extremidades, motilidad fina distal no valorable. Sensibilidad ni valorable (1). NIHSS 7.
+
+EXP. UNIDAD DE ICTUS
+
+Vígil, alerta. LOC Q 1/2 (1). LOC C 1/2 (1). Afasia sensitiva con lenguaje fluente y abundantes parafasias, repite correctamente, nomina 1/3, comprende algunas órdenes sencillas (2). Impresiona de HHD por amenaza (2). No paresia ni hipoestesia facial. Balance motor globalmente conservado en las cuatro extremidades, motilidad fina distal no valorable. Sensibilidad ni valorable (1). NIHSS 7.
+
+EXP. PLANTA DE NEUROVASCULAR
+
+Vigil. alerta. LOC C 0/2, LOC Q 1/2. Persiste afasia sensitiva con lenguaje fluente e incoherente, aunque responde a órdenes sencillas (2). Discreta disartria (1). No aparente deficit visual (0). No presenta déficit motor facial (0). Balance motor globalmente conservado (0). Sensibilidad no valorable por falta de colaboración del paciente. NIHSS 4.
+
+EXPLORACIÓ COMPLEMENTÀRIA
+URGENCIAS:
+
+- Analítica:Hb: 11.1 Hto: 36.2 VCM: 4702 HCM: 22.7 Leucocitos: 9.45 (N: 6.6 L: 1.6)Ptl: 254. TP: 15.4 TPT.35.5
+INR: 1.32 glucosa: 111 Urea: 31 Creatinina: 1.19 Na: 136 K: 3.83 Ca: 9.2 ASt: 24 ALT:11
+
+-Electrocardiograma: ritmo sinusal, ondas Q en cara inferior y lateral alta. BAV 1r grado, sin alteraciones agudas de la repolarización.
+
+-	Radiografía de tórax: sin hallazgos patológicos relevantes.
+
+TC de craneo: Voluminoso hematoma intraparenquimatoso fronto-occipital izquierdo y punto de extravasación de contraste en su margen supero-medial y estructura vascular arterial en su espesor que ejerce efecto masa sobre estructuras adyacentes condicionante una compresión del cuerno occipital del VL lateral izquierdo sin desviación de la línea media.
+
+UNIDAD DE ICTUS: 	
+
+-	Analítica: TP 100%, INR 1, TTPAr 0.83, Fibrinógeno derivado 5.21 g/dl.
+-	
+Informe de Trasllat a Sociosanitari
+
+
+
+
+
+-	TAC simple de cráneo de control: 25.09.2017: Reporta estabilidad de tamaño y las características radiológicas del hematoma intraparenquimatoso parieto-occipital izquierdo, así como de la contaminación hemática intraventricular y del edema perilesional. Ausencia de alteraciones agudas valorables.
+
+-	Ecocardiograma (28/09/2017): prótesis aórtica mecánica sin datos de disfunción al estudio transtorácico. Ventrículo izquierdo severamente hipertrófico a nivel septobasal, no dilatado, con función sistólica conservada. Hipocinesia inferior e inferolateral.
+
+PLANTA DE NEUROLOGÍA
+
+-	TC craneal control (06/10/2017): En relacion al TAC previo, 25-9-2017, persiste de similares diametros el hematoma occipito parietal izquierdo aunque se observa discreta disminucion de su denridad y  sus limites perifericos muestran mayor imprecision en relacion a fase evolutiva aguda /subaguda , con estabilidad de su hipodensidad periferica que es concentrica por lo que no sugiere lesion subyacente, con estabilidad en la compresion del asta posterior de ventriculo lateral izquierda sin hidrocefalia. Sin otras alteraciones
+
+-	Ecocardiograma (05/10/2017): prótesis aórtica mecánica sin datos de disfunción al estudio transtorácico. Ventrículo izquierdo severamente hipertrófico a nivel septobasal, no dilatado, con función sistólica conservada. Hipocinesia inferior e inferolateral.
+
+-	Ecocardiograma (18/10/2017, informe provisional): prótesis aórtica normofuncionante, sin datos de trombosis al estudio transtorácico.
+
+-	Sedimento orina: leucocitos 1273.8, bacterias 1500, eritrocitos 325.2
+
+-	Urocultivo: positivo para E. faecalis
+
+-	Hemocultivos (10/10/2017):  positivo E. faecalis resistente a Rifampicina y Estreptomicina. Sensible a Ampicilina, Vancomicina, Teicoplaninay Gentamicina.
+
+-	Analítica general de control (16/10): Hb 11.4, Hto 36.8, VCM 76.3, leucocitos 5440 (N 47, L 41, M 8.3), plaquetas
+323000, coagulación sin alteraciones, glucosa 86, urea 40, creatinina 1.17, FG 57, Na 140.9, K 4.24, Cl 109, AST
+45, ALT 35
+
+Informe de Trasllat a Sociosanitari
+
+
+
+EVOLUCIÓ CLÍNICA
+Se trata por tanto de paciente de 83 años de edad, con los antecedentes previamente descritos, entre los que destaca ser portador de válvula protésica aórtica mecánica, que a su llegada a urgencias refiería debilidad generalizada asociada a hipotensión e inestabilidad y caída, presentando al despertar mayor desorientación con lenguaje incoherente. A su llegada se encontraba hemodinámicamente estable y afebril destacando a la exploración neurológica afasia sensitiva con lenguaje fluente y balance motor globalmente conservado. NIHSS 7. Se solicita inicialmente TC craneal que evidencia hematoma lobar parieto-occipital izquierdo. Se realiza un electrocardiograma que evidencia ritmo sinusal con BAV de 1º grado y ondas Q en cara lateral e inferior, así como, analítica general con INR de 3.7, por lo que tras contactar con Hematología se decide reversión de anticoagulación con una ampolla de vitamina K. Ante hallazgo en prueba de imagen se contacta con Neurocirugía quienes deciden que no es tributario de intervención quirúrgica, motivo por el que se comenta con Neurología quienes orientan caso como HIC lobar parieto-occipital izquierda de etiología indeterminada y se cursa ingreso a cargo de Unidad          de Ictus para vigilancia estrecha y control evolutivo.
+
+A su ingreso en Unidad de Ictus se encuentra hemodinámicamente estable, persistiéndo con clinica de afasia sensitiva. NIHSS 7. Durante su estancia en la unidad se realiza analítica general en la que se objetiva discreta anemia, así como, TC craneal de control que reporta estabilidad de tamaño y las características radiológicas del hematoma intraparenquimatoso parieto-occipital izquierdo, así como de la contaminación  hemática intraventricular y del edema perilesional. Dado los mencionados hallazgos, y al encontrarnos ante paciente portador de prótesis mecánica, se decide realización de ETT para valorar necesidad de inicio de anticoagulación donde no se observan hallazgos patológicos significativos, decidiéndose por el momento posponer anticoagulación por riesgo de aumento de hematoma. Ante estabilidad clínica del paciente se decide ingreso en planta de Neurología para control evolutivo.
+
+A su ingreso en planta de Neurología, paciente hemodinámicamente estable y afebril, NIHSS de 4. Por problemas, la evolución del paciente ha sido la siguiente:
+
+*	Respecto al momento de inicio de anticoagulación, se realizó nuevo TC craneal de control que muestra estabilidad radiológica del hematoma, sin evidencia de lesiones subyacentes. Asimismo, se realizó nuevo control mediante ecocardiograma transtorácico que evidencia normalidad de los gradientes, por lo que se reinicia de forma progresiva pauta de anticoagulación con HBPM ajustada por antiXa y de acuerdo con servicio de Hematología. Se realiza último control ecocardiográfico el día 18/10 sin evidenciarse datos de alteración de la función valvular. Actualmente en tratamiento con Clexane 60 mg cada 12 horas, dosis que se debe mantener hasta dentro de 1 semana, cuando se debe realizar nueva interconsulta a Hemostasia para valorar paso a anticoagulación oral. Solicitamos RM cerebral para realizar de forma ambulatoria, de cara a descartar lesiones subyacentes, así como visita en Neurología de zona para valorar evolución y resultado. El paciente se ha mantenido estable desde el punto de vista neurológico, siendo el NIHSS en el momento del alta de 4 y el mRS de 3.
+
+*	El paciente inició síndrome febril sin foco aparente, por lo que se cursó sedimento urinario que resultó patológico, que urocultivos y hemocultivos positivos para E. faecalis, por lo que se inició tratamiento con Ampicilina endovenosa cada 8 horas que se debe mantener hasta el día 01/11/2017.
+
+*	El día 17/10/2017 se detecta parafimosis, que puede ser reducida por parte de Urología sin incidencias.
+
+*	El paciente ha presentado cuadros de agitación nocturna, especialmente en contexto de prostatitis, que han requerido administración de Quetiapina y contenciones mecánicas puntuales.
+*	
+Informe de Trasllat a Sociosanitari
+
+
+
+
+
+Dada la correcta evolución y habiéndose completado el estudio, se decide traslado a CSS para completar convalecencia y rehabiltación. En el momento del alta, el paciente se encuentra hemodinámicamente estable y afebril.
+
+DIAGNÒSTICS
+1.	Hematoma fronto-occipital izquierdo, de etiología indeterminada en paciente anticoagulado
+2.	Prostatitis aguda bacteriémica por E. faecalis
+3.	Portador de prótesis aórtica normofuncionante
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Se adjunta
+
+CONTROL
+Serán avisados para acudir a realización de RM cerebral. Acudir a primera visita en CAE Chafarinas el día 09/01/2018.
+Control por médico de Atención Primaria y especialistas habituales.
+
+DESTINACIÓ A L'ALTA:	SOCI SANITARI
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+19.10.2017
+Pàgina 1 de 5

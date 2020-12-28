@@ -1,0 +1,131 @@
+T1	Fecha_de_alta 15 25	31-10-2018
+#1	AnnotatorNotes T1	2018-10-31
+T2	Ictus_isquemico 252 266	ECVA ISQUÉMICA
+T3	Arteria_afectada 284 287	ACM
+T4	Lateralizacion 288 295	DERECHA
+T5	Etiologia 309 322	INDETERMINADA
+T7	_SUG_Ictus_isquemico 414 419	ICTUS
+T9	_SUG_TAC_craneal 422 433	TAC CRANEAL
+T10	_SUG_TAC_craneal 462 465	TAC
+T12	Fecha_llegada_hospital 668 691	el pasado 19 de Octubre
+#12	AnnotatorNotes T12	2018-10-19
+T13	Tratamiento_anticoagulante_hab 1082 1090	Apixaban
+T14	mRankin_previa 1313 1318	mRS 0
+T15	_SUG_Lateralizacion 1439 1448	bilateral
+T17	_SUG_Ictus_isquemico 1542 1547	Ictus
+T18	Fecha_inicio_sintomas 1707 1720	18 de Octubre
+#18	AnnotatorNotes T18	2018-10-18
+T19	Hora_inicio_sintomas 1820 1825	16:00
+#19	AnnotatorNotes T19	16:00
+T20	_SUG_Lateralizacion 2024 2029	izdas
+T21	HORA 2221 2226	17:00
+#21	AnnotatorNotes T21	17:00
+T22	_SUG_Etiologia 2568 2576	habitual
+T23	HORA 2656 2661	13:00
+#23	AnnotatorNotes T23	13:00
+T24	_SUG_Lateralizacion 3236 3243	derecho
+T25	_SUG_Lateralizacion 3714 3721	derecha
+T26	_SUG_Lateralizacion 3763 3767	izda
+T27	_SUG_Lateralizacion 3875 3879	izda
+T28	_SUG_Lateralizacion 3908 3913	Dchas
+T29	_SUG_Lateralizacion 4535 4540	izdas
+T30	_SUG_Localizacion 4571 4577	tronco
+T31	_SUG_Lateralizacion 4602 4609	derecho
+T32	_SUG_NIHSS 4766 4809	NIHSS: 2:1 / 3:2 / 5b:1 / 6b:X / 8:2 / 11:1
+T33	_SUG_Lateralizacion 5042 5047	ambos
+T35	TAC_craneal 5134 5144	TC craneal
+T36	_SUG_Lateralizacion 5284 5291	derecha
+T37	_SUG_Ictus_isquemico 5308 5315	infarto
+T38	_SUG_Arteria_afectada 5326 5329	ACM
+T39	_SUG_Lateralizacion 5330 5331	D
+T40	Arteria_afectada 5505 5507	M3
+T41	FECHA 5545 5550	20/10
+#41	AnnotatorNotes T41	2018-10-20
+T42	_SUG_TAC_craneal 5743 5745	TC
+T43	FECHA 5770 5780	20-10-2018
+#43	AnnotatorNotes T43	2018-10-20
+T44	_SUG_Lateralizacion 5933 5942	bilateral
+T45	_SUG_Lateralizacion 6249 6250	e
+T46	_SUG_Etiologia 6437 6449	Ateromatosis
+T47	FECHA 6742 6747	20/10
+#47	AnnotatorNotes T47	2018-10-20
+T48	FECHA 6776 6781	21/10
+#48	AnnotatorNotes T48	2018-10-21
+T49	FECHA 6801 6806	22/10
+#49	AnnotatorNotes T49	2018-10-22
+T50	FECHA 7054 7059	22/10
+#50	AnnotatorNotes T50	2018-10-22
+T51	FECHA 7154 7159	22/10
+#51	AnnotatorNotes T51	2018-10-22
+T52	_SUG_TAC_craneal 7179 7181	TC
+T53	FECHA 7208 7218	22-10-2018
+#53	AnnotatorNotes T53	2018-10-22
+T54	_SUG_Lateralizacion 7276 7283	derecha
+T55	_SUG_Localizacion 7309 7316	parcial
+T56	_SUG_Ictus_isquemico 7345 7352	infarto
+T57	_SUG_Localizacion 7396 7406	corticales
+T58	_SUG_Lateralizacion 7496 7505	izquierda
+T59	_SUG_Localizacion 7596 7607	Ventrículos
+T60	_SUG_Lateralizacion 7609 7618	laterales
+T61	_SUG_Ictus_isquemico 7709 7716	Infarto
+T62	_SUG_Lateralizacion 7759 7766	derecho
+T63	FECHA 7814 7819	23/10
+#63	AnnotatorNotes T63	2018-10-23
+T64	_SUG_Lateralizacion 7915 7920	ambos
+T65	_SUG_Arteria_afectada 8112 8115	ACM
+T66	_SUG_Lateralizacion 8116 8121	izqda
+T67	_SUG_Arteria_afectada 8124 8127	ACP
+T68	_SUG_Lateralizacion 8128 8133	izqda
+T69	_SUG_Arteria_afectada 8136 8139	ACP
+T70	_SUG_Lateralizacion 8140 8144	dcha
+T71	_SUG_Arteria_afectada 8194 8197	ACM
+T72	_SUG_Lateralizacion 8198 8202	dcha
+T73	_SUG_Etiologia 8328 8340	Ateromatosis
+T74	_SUG_Arteria_afectada 8341 8350	carotídea
+T75	_SUG_Arteria_afectada 8374 8377	ACM
+T76	_SUG_Lateralizacion 8378 8382	dcha
+T77	FECHA 8404 8409	25/10
+#77	AnnotatorNotes T77	2018-10-25
+T78	FECHA 8572 8577	26/10
+#78	AnnotatorNotes T78	2018-10-26
+T79	FECHA 8668 8676	31/10/18
+#79	AnnotatorNotes T79	2018-10-31
+T80	_SUG_Lateralizacion 8717 8726	bilateral
+T81	_SUG_Lateralizacion 8999 9008	bilateral
+T82	_SUG_Ictus_isquemico 9333 9338	Ictus
+T83	_SUG_TAC_craneal 9528 9530	TC
+T84	FECHA 9713 9718	02/11
+#84	AnnotatorNotes T84	2011-02-UNDEF-day
+T86	FECHA 10070 10078	31/10/18
+#86	AnnotatorNotes T86	2018-10-31
+T87	_SUG_Lateralizacion 10280 10289	bilateral
+T88	FECHA 10299 10312	31 de Octubre
+#88	AnnotatorNotes T88	2018-10-31
+T90	_SUG_TAC_craneal 10324 10335	TAC craneal
+T91	FECHA 10627 10636	2/11/2018
+#91	AnnotatorNotes T91	2018-11-02
+T92	Tratamiento_antiagregante_alta 10943 10965	Ácido acetilsalicílico
+T93	FECHA 11225 11248	2 de Noviembre del 2018
+#93	AnnotatorNotes T93	2018-11-02
+T94	Tratamiento_anticoagulante_alta 11314 11324	Bemiparina
+T95	HORA 11358 11363	20:00
+#95	AnnotatorNotes T95	20:00
+T100	SECCION_DIAGNOSTICOS 236 248	DIAGNÓSTICOS
+T101	SECCION_PROCEDIMIENTOS 372 386	PROCEDIMIENTOS
+T102	SECCION_MOTIVO_DE_INGRESO 552 569	MOTIVO DE INGRESO
+T103	SECCION_ANTECEDENTES_PERSONALES 694 717	ANTECEDENTES PERSONALES
+T104	SECCION_TRATAMIENTO_HABITUAL 925 949	Tratamiento domiciliario
+T105	SECCION_SITUACION_FUNCIONAL 1211 1226	Situación basal
+T106	SECCION_ANTECEDENTES_PATOLOGICOS 1321 1345	ANTECEDENTES PATOLÓGICOS
+T107	SECCION_ANTECEDENTES_QUIRURGICOS 1394 1418	Antecedentes Quirúrgicos
+T108	SECCION_PROCESO_ACTUAL 1472 1489	ENFERMEDAD ACTUAL
+T109	SECCION_EXPLORACION_FISICA 2669 2680	Exploración
+T110	SECCION_EXPLORACIONES_COMPLEMENTARIAS 4879 4908	EXPLORACIONES COMPLEMENTARIAS
+T112	SECCION_CONTROL 9106 9110	Plan
+T113	SECCION_EVOLUCION 9272 9295	EVOLUCIÓN Y COMENTARIOS
+T114	SECCION_TRATAMIENTO_Y_RECOMENDACIONES_AL_ALTA 10504 10541	RECOMENDACIONES Y TRATAMIENTO AL ALTA
+#2	AnnotatorNotes T14	0
+T11	NIHSS_previa 4766 4819	NIHSS: 2:1 / 3:2 / 5b:1 / 6b:X / 8:2 / 11:1. TOTAL: 7
+#3	AnnotatorNotes T11	7
+T8	NIHSS_alta 9938 9961	NIH de 7 puntos al alta
+#4	AnnotatorNotes T8	7

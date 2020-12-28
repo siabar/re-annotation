@@ -1,0 +1,102 @@
+SERVEI DE NEUROLOGIA
+INFORME DE ALTA
+Unitat d`IctusNº Historia clínica	_ID_
+Fecha de nacimiento
+_DATE_
+
+C.I.P.	_ID_	Código Centro	_ID_
+Teléfono	_CONTACT_ P	Dirección	_LOCATION_
+Fecha ingreso	01/11/17		_LOCATION_
+Fecha de alta	12/11/17	Teléfono	_CONTACT_
+Nº Asistencia	_ID_		
+UH	_ID_		
+
+DIAGNÓSTICOS:
+1.	HEMATOMA LOBAR FRONTAL IZQUIERDO EN CONTEXTO DE ANGIOPATÍA AMILOIDE CEREBRAL
+2.	DETERIORO NEUROLÓGICO PRECOZ
+3.	MUTISMO ACINÉTICO SEC A 1
+4.	HTA
+5.	INFECCIÓN BRONQUIAL
+6.	ÉXITUS LETALIS
+
+Paciente de 78 años, sin alergias medicamentosas conocidas, independiente para las ABVD. Vive sola.
+
+MOTIVO CONSULTA:
+Parestesia hemifaciales
+
+ANTECEDENTES:
+-	Hipertensión arterial diagnosticada en 12/2013 por valores de 150/90 mmHg. Hasta ese momento, había tenido un buen control. En tratamiento con enalapril de 20 mg. Valores habituales de 130/80 mmHg.
+-	Hematoma frontoparietal derecho, diagnosticado a raiz de 2 episodios de parestesias en hemicara izquierda junto con disartria de 5 minutos de duración con 12 horas de diferencia. Consultó a su médico de cabecera que objetivó un mal control tensional (170/87 mmHg) por lo que ajustó el tratamiento antihipertensivo. Solicitó una RMN cerebral (30/05) que mostraba un hematoma frontal derecho subagudo y restos hemosiderínicos en relación a antecedentes hemorrágicos secundarios muy probablemente a HTA y leve leucopatía isquémico crónica periventricular y subcortical.
+*	RM  (mayo`14):  Hematoma  frontal  derecho  subagudo.  Hipointensidades  puntiformes  en  T2*,  en relación con antecendentes microhemorrágicos corticales frontal , de mayor tamaño 6mm,  occipital derechas y parietal izquierda , asimismo en cerebelo derecho
+*	AngioRM (Sept`14): Estudio angiográfico arterial intracraneal sin alteraciones.
+*	23/12/14 EEG: normal. Signos de impregnación medicamentosa. En seguimiento por Neurología, última visita 09/06/15
+
+TRATAMIENTO  HABITUAL:  enalapril  20mg  1c/24h;  levetiracetam  250mg  1c/12h;  stilnox   10mg (zolpidem) 1c/24h; tranxilium 5mg (Clorazepato) 1c/12h; tryptizol 10mg 1c/24h (amitriptilina).
+
+ENFERMEDAD ACTUAL:
+Acude a urgencias por presentar mutismo de 3 horas de evolución. Según explica la hija, al despertarse la paciente le ha comentado que se encontraba muy mareada, a las 13:00 ha hablado con ella y le notaba despistada aunque mantenía conversación. A las 16:00 su hija acude a visitarle a su casa y encuentra a la paciente mutista, solo sigue órdenes por imitación.
+A su llegada a nuestro centro presenta NIHSS de 6 a expensas de mutismo y facial derecho.
+Se  realiza  TC  craneal que  muestra hematoma frontal  izquierdo  en  paciente  con  antecedente de angiopatia amiloide.
+
+
+EXPLORACIÓN FÍSICA:
+- Exploración física en UCIAS:
+Estable hemodinámicamente, eupneica.
+
+Nombre	_NAME_
+GCS 11 (apertura ocular espontánea, no emite lenguaje, sigue órdenes por imitación). Mutista (2+3), solo sigue órdenes simples por imitación. MOEs pasivos conservados. Reflejo de amenaza  presente bilateral. Facial sn derecho (1). Mantiene ambos EESS. Claudica ambas EEII pero de forma simétrica. NIHSS:6
+
+- Exploración física en Unidad de Ictus: TA 130/57 FC 82lpm T 37,9ºC (20:30h).
+Expl. NRL: estuporosa, no apertura ocular a la voz, sí al estímulo tactil (1). DOC izquierda (2). Pupilas puntiformes, fotorreactivas, isocóricas. Orientación no valorable por bajo nivel de consciencia, no emite sonidos, no obedece órdenes (7). PFSN derecha (1). Plejia BC derecha (8). Moviliza espontáneamente hemicuerpo izquierdo. Sens no valorable por afasia, bajo niv consciencia (1). RCP extensor derecho y flexor izquierdo. NIHSS 20
+AC: roncus dispersos, alguna sibilancia.
+
+EXPLORACIONES COMPLEMENTARIAS:
+- Analítica UCIAS: GLUCOSA 95 CREATININA 1.32 SODI 144.4 POTASSI 4.70 CLOR 107.5 F. G. 38
+CREATINA  KINASA  (CK)  112  PROTEÏNA  C  REACTIVA  1.4  HEMATIES  3.96  HEMOGLOBINA  10.9
+HEMATÒCRIT 32.9 V. C. M. 83.1 H. C. M. 27.5 LEUCÒCITS 11.450 NEUTRÒFILS %79.1 PLAQUETES
+349000 T. PROTROMBINA (%) 107.4 FIBRINOGEN 434.1 D-DÍMER 1260
+-	ECG: Ritmo sinusal a 55`, sin alteraciones de la repolarización.
+-	Rx tórax: Sin condensaciones o cardiomegalia.
+-	TC craneal basal (1/11/2017): Gran hematoma parenquimatoso frontal izquierdo, de unas medidas aproximadas de 64x41x51mm (71cc), con presencia de discreta cantidad de edema  perihematoma. Ocasiona efecto de masa con un desplazamiento de línea media de aprox. 9mm. y  con obliteración parcial del asta anterior del ventrículo lateral izquierdo. No se observan herniaciones cerebrales.
+No se identifican signos de lesión isquémica de características recientes. No signos de lesión
+focal ocupante de espacio. Cisternas de la base libres. Seno maxilar izquierdo hipoplásico, de contenido mucoso denso, con discreto hundimiento del suelo orbitario, probable síndrome del seno silente. Resto de senos paranasales y celdas
+otomastoideas libres y sin alteraciones.
+No se observan signos sugestivos de patología ósea relevante. CONCLUSIÓN: Hematoma parenquimatoso frontal izquierdo (71cc), con edema y efecto de masa asociado.
+-	Hemocultivos negativos.
+-	Sedimento urinario: No patológico.
+-	Analítica de ingreso: UREA 58 CREATININA 1.28 À. ÚRIC 4.7 SODI 144 POTASSI 4.8 CLOR 106 F. G. 40 LDH 292 CREATINA KINASA (CK) 86 BILIRUBINA TOTAL .3 AST (GOT) 18 ALT (GPT) 7 GAMMA GT (GGT) 20 FOSFATASA ALCALINA 71 PROTEÏNES TOTALS 6.0 ALBÚMINA 3.8 COLESTEROL 249 COLESTEROL LDL
+191 COLESTEROL HDL 51 TRIGLICÈRIDS 109 TIROTROPINA (TSH) 0.57 HB GLICOSILADA (A1c) 34.4 HB
+GLICOSILADA (A1c) 5.3 PROTEÏNA C REACTIVA 2.96 HEMATIES 3.58 HEMOGLOBINA 9.7 HEMATÒCRIT
+30.6 V. C. M. 85.5 H. C. M. 27.1 M. C. H. C. 31.7 LEUCÒCITS 10.940 NEUTRÒFILS % 82.1 PLAQUETES 258000 VSG (1 hora) 49 T. PROTROMBINA 106 APTT 26 APTT (RATI) 0.94
+-	TC craneal control (2/11): En estudio comparativo se observa relativa estabilidad del volumen de sangrado del hematoma frontal izquierdo, con leve aumento del edema perilesional, con consiguiente aumento del efecto de masa (herniación subfalcina más evidente y desviación de la línea media de 8mm, previo 6mm; medido por mismo observador).
+Resto del estudio sin cambios significativos respecto a previo.
+
+EVOLUCIÓN:
+Se trata de una paciente de 79 años, con factores de riesgo vascular que presenta hematoma frontal izquierdo.
+La paciente ingresa en Unidad de Ictus para monitorización.
+
+Se valoran al ingreso el estado de ánimo, las necesidades de rehabilitación y se inician fisioterapia y movilización precoces.
+Durante el ingreso presenta empeoramiento clínico presentando, a los 2 días, un NIHSS de 20 e infección respiratoria que se ha cubierto con amoxicilina-clavulánico.
+Ante el empeoramiento clínico se decide, consensuado con la familia, realizar limitación del esfuerzo terapéutico debido al mal pronóstico funcional y vital de la paciente. Finalmente la paciente es éxitus el día 12/11/17 a las 1.15 horas.
+Etiología TOAST hemorragia lobar por AAC, Oxford TACI. Al alta Rankin 6.
+
+
+TRATAMIENTO:
+-
+
+
+
+Dr/a.     _NAME_	Dr/a.     _NAME_     Dr/a.     _NAME_
+Metge/essa Adjunt
+(Nº Colegiado _ID_Metge/essa Resident
+(Nº Colegiado _ID_Metge/essa Resident
+(Nº Colegiado _ID_
+
+
+
+
+Les seves dades personals s'incorporen en un fitxer d´usuaris a fi del seu tractament sanitari. Pot exercir el seu dret d´oposició, accés i rectificació de les dades inexactes dirigint-se al Servei de Documentació Clínica.
+Sus datos personales se incorporan en un fichero de usuarios para su tratamiento sanitario. Puede ejercer su derecho de oposición, acceso y rectificación de los datos inexactos dirigiéndose al Servicio de Documentación Clínica
+
+_SS_ | NIF _ID_ |_LOCATION_ | Telèfon _CONTACT_ | Fax _CONTACT_ | _CONTACT_
+Pàgina 1 de 3

@@ -1,0 +1,115 @@
+I.CLINIC DE NEUROCIÈNCIES NEUROLOGIA
+_NAME_	NHC: _ID_
+
+
+Sexo/Sexe: Masc.	Fecha nac./Data naix.: _DATE_	Edad/Edat: 81 años Dirección/Adreça: _LOCATION_	CP: _LOCATION_
+Municip. (Prov.): _LOCATION_  ABS:_SS_		Tel.:_CONTACT_ FILL As.: SERVEI CATALA DE LA SALUT	CIP: _ID_	NASS: _ID_
+Nº epis.: _ID_	Tipo/Tipus: HOSPIT.	Inici.: 31.05.2017
+Serv: NEUROLOGIA	UO Enf.: G6B4 SALA G NEUROL. CURT. E Hora: 20:18:56
+Facult. de ref.: _NAME_
+
+
+
+
+Tipo ingreso/Tipus ingrés: Urgent	Motivo/Motiu alta: Dom. Familiar
+Diag.:
+AIT ()
+Proc.:
+TC CRANEAL () ANALÍTICA SANGUÍNEA () ECOCARDIOGRAMA ()
+ESTUDIO VASCULAR DOPPLER ()
+
+
+
+
+INFORME CLÍNICO ALTA / INFORME CLÍNIC ALTA
+
+Motivo de consulta / Motiu de consulta
+Debilidad de pierna derecha.
+
+Antecedentes e historia previa / Antecedents i història prèvia
+Hombre de 81 años. Alergia a la penicilina. Sin hábitos tóxicos. Independiente para la vida diaria, mRS 0.
+*	ANTECEDENTES PATOLÓGICOS:
+-	HIPERTENSIÓN ARTERIAL en tratamiento farmacológico.
+-  INFECCIÓN  CRÓNICA  POR   VIRUS   HEPATITIS  C:  Hizo  tratamiento   con  IFN  sin   respuesta.  Sin descompensaciones. Control por Hepatología _SS_.
+-	PROBABLE NEUMOPATÍA CRÓNICA asociada a TBC pulmonar con uso de  broncodilatadores  de forma ocasional. Actualmente sin seguir tratamiento.
+-	HERNIA DE HIATO.
+-	PÓLIPOS COLÓNICOS: Extracción de 2 pólipos. A principios de marzo del 2013 nueva extracción de 3 pólipos (benignos). En abril nueva extracción tras realización de FCS por estudio de rectorragia.
+-	ANEMIA NORMOCRÓMICA debida a GASTRITIS ATRÓFICA.
+-	ACCIDENTE ISQUÉMICO TRANSITORIO: La hija explica AIT en 2014, en forma de debilidad autolimitada de extremidades derechas. Antiagregado desde entonces.
+-	Estudio en septiembre del 2012 por clínica de disnea y dolor torácico con ecocardiograma que mostró VI ligeramente hipertrófico con FE correcta y PE isotópica con dipiridamol que no mostró isquemia miocárdica.
+IQ:  apendicectomía,  hernia  inguinal  izquierda,  colecistectomía,  fístula  anal,  hemorrectomía,  pólipos intestinales.
+*	MEDICACIÓ HABITUAL: pantoprazol 40 mg/24h; Torasemida 5 mg/24h; lorazepam 1 mg/24h; Citalopram 20 mg/24h; Fero-gradumet; Optovite B12/mes; Loratadina 10 mg/24h; irbesartan 150 mg/24h; clopidogrel 75 mg/24h; atorvastatina 40 mg/24h.
+
+Proceso actual / Procés actual
+
+Paciente que sobre las 20.30h del 30/05 presenta debilidad de pierna derecha que le condiciona caída al suelo. Explica que no ha podido levantarse hasta que ha llegado su hija sobre las 21h. Ésta lo lleva a urgencias.
+
+Exploración física / Exploració física
+31/05/2017-21:00:00: PAS (mm Hg) 151, PAD (mm Hg) 62, Tª axilar (ºC) 37.  1. 01/06/2017-01:00:00 :
+Glicemia capilar (mg/dl) 92.
+NRL: Alerta y orientado. Lenguaje sin alteraciones. No disartria. Campimetría sin alteraciones. Mirada conjugada sin limitaciones. Pares craneales conservados. Paresia crural drcha (3+/5). Hipoestesia crural drcha. No dismetrías. NIHSS 2.
+
+Exploraciones complementarias / Exploracions complementàries
+
+*	ANALÍTICA SANGUÍNEA: Hb 8,7. Leucos 3.16. Hto 27%. Resto sin importantes alteraciones a destacar.
+*	ESTUDIO DOPPLER VASCULAR de TSA sin alteraciones relevantes.
+*	ECOSCAN: Se evidencia probable doble lesión aórtica, pendiente de nuevo ecocardiograma reglado.
+*	ANGIO-RM: Sin lesiones isquémicas ni hemorrágicas aguda.
+
+Evolución / Evolució
+1.	ACCIDENTE ISQUÉMICO TRANSITORIO (AIT)
+2.	ANEMIA NORMOCÍTICA NORMOCRÓMICA
+A su llegada a urgencias se encuentra normotenso y afebril. En la exploración destaca leve paresia e hipoestesia de pierna drcha, NIHSS 2. Soplo sistólico 4/6 panfocal irradiado a carótida izquierda. Se activa código ictus y se realiza TC cerebral (por clínica regresiva únicamente secuencia basal) que no muestra lesiones isquémicas agudas, sí lacunares y micronagiopatía crónica. Por clínica regresiva se decide no administrar fibrinólisis. Analítica sanguínea con anemia Hb 8.7 normo normo sin otras alteraciones relevantes.
+Se completa estudio con RM craneal sin evidencia de evento isquémico ni hemorrágico agudo. El estudio vascular (Eco-doppler y angio-RM) no objetiva alteraciones. Ecoscan con aparente valvulopatía aórtica pendiente de informe de ecocardiograma al alta.
+Se trata de un accidente isquémico transitorio probablemente de pequeño vaso, dado la duración de más de 3h de clínica sin evidencia de lesión aguda en la RM, a pesar de que la sospecha inicial, por la desproporción del déficit crural sugiera afectación en territorio de la ACA, en paciente con factores de riesgo cardiovascular. Se cambia clopidogrel por AAS 300 mg y se ajusta tratamiento hipolipemiante con atorvastatina 20mg.
+El paciente permanece asintomático por lo que se decide alta a domicilio pendiente de completar estudio con Holter y ecocardiograma ambulatorio.
+
+Al alta: NIH: 0
+TOAST: indeterminado (estudio incompleto) mRS: 0
+
+Plan terapéutico / Pla terapèutic
+Orfidal 1 mg comprimidos, 50 comprimidos. 1 MG. Vía oral. Cada 24 horas.
+
+Irbesartan teva 300 mg comprimidos recubiertos con pelicula efg, 28 comp rimidos. 150 MG. Vía oral. Cada 24 horas.
+
+Torasemida stada 5 mg comprimidos efg, 30 comprimidos. 5 MG. Vía oral. Cada 24 horas.
+
+
+
+Loratadina aristo 10 mg comprimidos efg , 20 comprimidos. 10 MG. Vía ora l. Cada 24 horas.
+
+Atorvastatina stada genericos 20 mg comprimidos recubiertos con pelicula  efg , 28 comprimidos. 20 MG. Vía oral. Una vez al día, en la cena.
+
+Citalopram alter 20 mg comprimidos recubiertos con pelicula efg , 28 com primidos. 20 MG. Vía oral. Cada 24 horas.
+
+Fero-gradumet (105 mg fe2+/comp) comprimidos de liberacion prolongada., 30 comprimidos. 210 MG. Vía oral. Cada 24 horas.
+
+Omeprazol davur 20 mg capsulas duras gastrorresistentes efg , 56 cápsula s. 20 MG. Vía oral. Una vez al día, en el desayuno.
+
+Optovite® b12 1.000 gammas (=1 mg), 5 ampollas de 2 ml. 0,5 MG. Vía intr avenosa. Cada mes.
+
+Acido acetilsalicilico aristo 100 mg comprimidos gastrorresistentes , 10 0 comprimidos. 100 MG. Vía oral. Una vez al día, en el desayuno.
+
+Otras recomendaciones / Altres recomanacions
+- Holter y Ecocardiograma ambulatorio. - Control de factores de riesgo cardiovascular y de los resultados de las pruebas por su médico de cabecera.
+
+
+
+Firma/Signatura1: _NAME_	Firma/Signatura2: _NAME_ Categoría: Resident 2	Categoría: Consultor/a 1
+Nº Matrícula HCP: _ID_	Nº Matrícula HCP: _ID_
+
+Fecha/Data Informe: 02.06.2017
+Hora Informe: 10:49:56
+
+Docum.: _ID_
+Hist. Clínica: _ID_
+El _SS_ ha incorporado sus datos al Fichero de Pacientes, para tratarlos con fines sanitarios.
+Puede ejercer sus derechos de acceso, rectificación, cancelación y oposición, así como obtener mas información en la Unidad de Atención al Cliente.
+Vers. 00
+Pag. 2 de
+3
+Episod.: _ID_
+_SS_ ha incorporat les seves dades al Fitxer de Pacients, per a tractar-los amb finalitats sanitàries. Pot exercir els seus drets d'accés, rectificació, cancel·lació i oposició, i obtenir més informació a la Unitat d'Atenció al Client.
+_SS_
+_LOCATION_) _LOCATION_) Tel. _CONTACT_ Fax _CONTACT_
+http://_CONTACT_/

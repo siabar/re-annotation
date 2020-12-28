@@ -1,0 +1,146 @@
+_LOCATION_) Telèfon _SS_  972 _CONTACT_
+Telèfon IDI (Ressonància i TAC) _CONTACT_
+Telèfon ICO _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 77 Anys
+NIF/DNI: _ID__NAME_; _NAME_; 
+_NAME_
+Informe d'alta d'hospitalització
+CP	_LOCATION_
+ABS	_SS_
+Servei	NEUROLOGIA
+Data d'alta  01.09.2017	18:03:10
+_LOCATION_
+_CONTACT_; _CONTACT_; _CONTACT_
+DOMICIL/RES.SOC 31.08.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Código ictus
+
+ANTECEDENTS
+PERSONALES
+-	No alergias medicamentosas conocidas
+-	No hábitos tóxicos
+-	Dependencia parcial para actividades básicas de la vida diaria. Vive solo en domicilio, supervisado por hijos de forma frecuente mRs: 1
+
+PATOLÓGICOS
+-	Hipertensión arterial en tratamiento farmacológico
+-	Diabetes Mellitus tipo 2 en tratamiento con ADO
+-	Cardiopatía isquémica
+-Debut 2003 (Angina), diagnostico de enfermedad 3 vasos. En _SS_ se realiza PMC DA-D2, PAc a IVP i PAC a Pl.
+-2012: Se realiza ecocardiografía que muestra hallazgos sugestivos de miocardiopatía isquémica.
+- Último EcoCG TT (2015): AI 55 mm. FEVI 41%. Ventricle esquerre severament dilatat, no hipertròfic amb funció contràctil moderadament deprimida per afectacio global. Vàlvula mitral lleugera-moderadament insuficient de causa funcional. -Vàlvula aòrtica trivalva, esclerosa sent lleugera-moderadament insuficient. -Vàlvula pulmonar normofuncionant. -Vàlvula  tricúspide  lleugerament  insuficient  sense  HTP.  -Arrel  aòrtica i  aorta  ascedent  de dimensions normals. -Aurícula  esquerra severament  dilatada. -Cavitats  dretes amb  VD  no  dilatat sent  molt lleugerament hipocinètic. -No vessament pericàrdic. Milloria de la FE i del greu de IM molt significatiu respecte a l,anterior estudi.
+
+-	Insuficiencia Renal Crónica moderada (TFG 65)
+-	No dislipemia
+-	Fibrilación auricular de larga evolución, EHRA I. Inicialmente tratamiento con sintrom, por mal control de INR se decide pasar a tratamiento con rivaroxaban. Se realiza Cardioversión eléctrica 22/10/2014. En control 01/2015 se objetiva de nuevo Fibrilación auricular EHRA I.
+
+MEDICACIÓ HABITUAL
+xarelto 20 mg, simvastatina 40 mg, metformina, emconcor 5 mg, elecor 5 mg, co-renitec 20/12'5 mg
+
+
+PROCÉS ACTUAL
+Paciente de 77 años, con los antecedentes descritos, que es traído por el SEM (sin activación de código ictus) el 31/08/2017 por cuadro de dificultad para la emisión del lenguaje, detectado por la familia a las 17.00 horas del mismo día, si bien la última hora visto asintomático había sido el día previo sobre las 21h.
+Llega a nuestro centro a las 17.39 horas y, tras valoración por MAU, se contacta con Neurología de Guardia y se activa Código Ictus, siendo atendido inmediatamente.
+
+Informe d'alta d'hospitalització
+
+
+
+
+EXPLORACIÓ FÍSICA
+
+FC	58 bpm
+Tªaxi 36.4 ºC
+FR	rpm Tªrec  ºC
+TA s	141 mmHg SAT O2 98 %
+TA d   48 mmHg Pes Kg
+
+EXPLORACIÓN FÍSICA AL INGRESO:
+El pacient es troba hemodinamicament estable i afebril a nivell neurològic presenta una hemianòpsia homònima dreta per amenaça, facial central lleu lleu, afàsia mixta de predomini motor i una lleu parèsia del MSD que no puntua a l'escala NIHSS. NIHSS: 8
+
+EXPLORACIÓN FÍSICA AL ALTA:
+TA: 141/48 mmHg, FC: 58 lpm, Sat 98%, T: 36.4ºC, Glicem capilar 106 mg/dL
+NRL: Paciente vigil. Lenguaje: lenguaje espontáneo con frases cortas correctamente construídas, sabe su nombre y primer apellido, no consigue expresar su edad ni el lugar en el que estamos (por cómo intenta responder impresiona que comprende la pregunta pero no es capaz de expresarse), comprende órdenes sencillas, repetición preservada, dificultad en la nominación de objetos. MOE y MOI normales, sin restricciones. Leve paresia facial dercha. No impresiona de déficit campimétrico por confrontación. No déficit motor ni sensitivo. No dismetrías.
+NIHSS: 02000/10000/00200 = 5
+- ACP: arrítmica, no auscultamos soplos.
+
+EXPLORACIÓ COMPLEMENTÀRIA
+ECG:
+-Ingreso: fibrilación auricular, ya conocida previamente.
+- Monitorización en la Unidad de Ictus: FA a buena frecuencia.
+
+ANALÍTICAS
+-AS (ingreso):
+Hemograma: Hb 14.1 g/dL, Plaqu 179 K/mcL, Leuc 8.82 K/mcL (N: 73.2 %, L: 16 %), Coagulación: Tasa protrombina 68 %, INR 1.30,
+Bioquímica: Gluc 124 mg/dL, Urea 43 mg/dL, Creatinina 1.08 mg/dL, Colesterol 214 mg/dL, Colesterol HDL 63 mg/dL, Colesterol LDL 126 mg/dL, Triglicèrid 127 mg/dL, 30, Calci (II) 9.8 mg/dL, Ió sodi 141 mEqu/L, Ió potasi 3.9 mEqu/L, TnT 29.5 ng/L
+
+PRUEBAS DE IMAGEN:
+-	Rx de tórax: Rx AP de tórax en decúbito, poco inspirada, poco penetrada, parcialmente rotada, difícil de valorar por características de proyección. No se observan aumentos de densidad compatibles con condensación. Posible pinzamiento de seno costofrénico derecho. ICT dentro de normlidad.
+
+-	Estudio eco-doppler urgente:
+Doppler TSA: s'objectiven plaques a nivell d'ambdos bifurcacions sense realitzar estenosis significatives. Doppler TC normal.
+
+-	TC craneal simple: Estudi TC cranial que mostra ventriculomegàlia (índex de Evans de 0,40) associat a un lleu esborrament dels solcs corticals de la convexitat parasagital superior, pel que tot i que podria ser atribuïble a signes d'atròfia cerebral de predomini subcortical, s'ha de valorar clínicament una hidrocefàlia crònica de l'adult.
+-	
+Informe d'alta d'hospitalització
+
+
+
+
+EVOLUCIÓ CLÍNICA
+A la valoración por Neurología de Guardia, el paciente presenta una hemianopsia homónima derecha por amenaza, PFC derecha ligera, afasia mixta (predominio motor) y leve paresia de miembro superior derecho sin clara claudicación (NIHSS: 8). Tras confirmar con la familia el tiempo de evolución, se decide realizar TC craneal simplee que muestra atrofia global, sin signos de patología aguda y se completa el estudio con un doppler que muestra ateromatosis carotídea sin estenosis significativa.
+Dado que no es posible asegurar la toma de Xarelto en el día de la consulta a urgencias, se decide iniciar heparina de bajo peso molecular a dosis anticoagulante e ingresar en la Unidad de Ictus para monitorización y vigilancia clínica.
+
+El paciente permanece 24 horas en la Unidad de Ictus estable hemodinamicamente, sin desarrollar ningún tipo de complicación y manteniendo una buena frecuencia cardíaca y cifras tensionales.
+Desde el punto de vista neurológico objetivamos una clara mejoría respecto al día previo, detectando únicamente la disfasia motora y la leve paresia facial derecha, puntuando en la escala NIHSS 5.
+
+Desde el punto de vista etiológico, se trata de un ictus isqúemico en territorio de ACM izquierda de mecanismo embólico y de etiología cardioembólica en un paciente con FA permanente ya anticoagulado con rivaroxaban. Dado que se ha producido un evento embólico durante la toma de dicho NACO, decidimos cambiar el tratamiento anticoagulante a Eliquis (apixaban) 5 mg cada 12 horas.
+
+Solicitamos interconsulta para tratamiento logopédico de forma ambulatoria. Se explican normas de reconsulta.
+Escalas al alta: NIHSS 5. mRS 3. Barthel 90.
+
+
+DIAGNÒSTICS
+436/5	Ictus squémico ACM izquierda, etiología cardioembólica en contexto de antecedentes de fibrilación auricular en tratamiento con NACOs.
+401.9/4	Hipertensió arterial inespecificada 250.00/2	Diabetis mellitus II, controlada 414.8/3	Miocardiopatia isquemica
+585.3/1	Insuficiència renal crònica moderada 427.31/2	Fibril.lacio auricular
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+-	Tratamiento farmacológico
+-	Pautamos Eliquis (apixaban) 5 mg cada 12 horas
+-	STOP rivaroxaban
+-	Resto de medicación sin cambios: simvastatina 40 mg, metformina, emconcor 5 mg, elecor 5 mg, co-renitec 20/12'5 mg
+
+-	Dieta baja en sal y grasas.
+-	Control de los factores de riesgo cardiovascular
+-	
+Informe d'alta d'hospitalització
+
+
+
+
+-	Colesterol (LDL) <100 mg / dl
+-	Tensión arterial sistólica <140mmHg / Diastólica <90mmHg
+
+
+CONTROL
+-	Visita de control en Neurología de nuestro centro (Edificio de Consultas Externas primera planta). Recibirá notificacón en domicilio.
+-	Control de los factores de riesgo cardiovascular por su equipo de atención primaria.
+
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+01.09.2017
+Pàgina 1 de 4

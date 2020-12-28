@@ -1,0 +1,140 @@
+
+
+
+
+
+Informe d'Alta Hospitalària	Cognoms i nom:
+_NAME_	NHC:
+_ID_
+	ABS:
+_SS_	CIP:
+_ID_	DNI:
+_ID_
+	Data de naixement:
+_DATE_	Sexe:
+Home	Edat:
+82a	Telèfon:
+_CONTACT_
+	Finançament:
+CatSalut - _LOCATION_	Procedència:
+	Admissió:
+16.12.2017 - 20:01	Servei:
+NEURO - UNITAT ICTUS HOSP	Data entrada urg.:
+16.12.2017 - 19:03
+Adreça:
+_LOCATION_	Població:
+_LOCATION_	Codi Postal:
+_LOCATION_
+
+
+
+Motivo de ingreso:
+Varón de 82 años que ingresa por ictus isquémico.
+
+
+ANTECEDENTES:
+-	No AMC
+-	Hábitos tóxicos: No conocidos.
+-	Hipertension arterial. Paciente con 2 episodios de crisis HTA (el primero en 2007 con PA de 200/105mmHg y clínica de inestabilidad cefálica y el segundo en 2012 con PA de 204/96 mmHg diagnosticada en contexto fractura supraintercondílea de codo izquierdo).
+-	ERC grado IV, última creatinina disponible de agosto 3, FG 20 No filiada, probablemente 2º a NAS en paciente monorreno funiconal.
+-	Hiperuricemia. Refiere última crisis de gota hace 3 años. Actualmente sin tratamiento farmacológico  ni seguimiento.
+-	Fractura supraintercondílea de codo izquierdo en 2012.
+-	Anemia cronica multifactorial, en tratamiento con EPO.
+
+-	Tratamiento habitual (diciembre 2017): Tamsulosina 0.4 mg/d, Aranesp, Amlodipino 10mg/12h, valsartan 0-0-80, Furosemida 40-0-0, Bisoprolol 2.5-0-0, Roclatrol 0.25/d, Kilor 1/d
+
+-	Situación sociofuncional: Vive en residencia, autónomo, Barthel de 85, con deambulación autónoma y cognitivamente sin alteraciones. mRS = 1
+
+ENFERMEDAD ACTUAL:
+Varón de 82 años con antecedentes descritos que acude por afasia y hemiplejia de comienzo brusco y presenciada. Llega a las 19:03 activado como código ictus extrahospitalario
+
+EXPLORACIÓN FÍSICA:
+A su llegada (16/12/17):
+A su llegada: TA 153/79, FC 64 x'
+AC tonos cardiacos arrítmicos sin soplos (monitor en FA) AR: MVS sin ruidos añadidos
+No soplos de TSA
+
+Neurológica:
+Consciente, no responde a ordenes verbales, mutista Mirada centrada, MOC preservados
+
+Hemiplejia derecha con hemianestesia HHD por amenaza
+RCP indiferente bilateral.
+NIHSS :0+2+2+0+2+2+4+4+0+2+3+0+0=21
+
+Post-intervención (16/12/17):
+Similar a previa a trombectomía. Unicamente mejoría de sensibilidad en hemicuerpo derecho. NIHSS :0+2+2+0+2+2+4+4+0+1+3+0+0=20
+
+En Unidad de ictus (19/12/17):
+-Vigil, sigue con la mirada.
+-Mutista. No obedece órdenes.
+-Preferencia oculocefálica a la izquierda. Hemianopsia derecha por amenaza
+-Parálisis facial derecha al Foix.
+-Hemiplejia derecha.
+-Sin respuesta al dolor en extremidades derechas.
+-RCP extensor derecho.
+NIHSS: 0+2+2+1+2+2+4+4+0+2+3+0+0=22
+
+En sala de Neurología (22/12/17):
+-	Vigil, reactivo a estímulo verbal, sigue con la mirada.
+-	Mutista. No obedece ningún tipo de órden.
+-	Hemianopsia derecha por amenaza. Tendencia oculo-cefálica a la izquierda
+-	Parálisis facial derecha al Foix.
+-	Hemiplejia derecha con anestesia derecha (no resp al dolor). Babinski derecho positivo. NIHSS : 0+2+2+1+2+2+0+4+0+4+0+2+3+0+0=22
+
+EXPLORACIONES COMPLEMENTARIAS:
+-	Analítica de sangre a su llegada (16/12/17): Bioquímica con Creatinina similar a previas, resto normal.
+Hemograma y coagulación normales.
+-	Analítica de sangre de control (20/12/17): Destaca empeoramiento de función renal con Creatinina de
+474 µmol/L y Urea  de 30 mmol/L. Hemoglobina  de 112 g/L  con  resto  de hemograma y coagulación normales.
+-	ECG: FA con respuesta a 59lpm, no alteraciones de la repolarización
+-	TC cerebral (16/12/17): Isquemia aguda de ACM izquierda ASPECTS  >6 con trombosis/oclusión de segmento M1 distal-M2 (ACI ipsilateral), sin colateralidad. Estenosis vs oclusión proximal de ACA izquierda sin poder concretar si es actual o crónica (presencia de infarto crónico en su territorio). Infartos lacunares crónicos capsuloganglionares y talámicos, lesión necrótica territorial frontal parafalcial y temporal posterior derecha y avanzada leucoaraiosis. Dudosa lesión necrótica protuberancial derecha que podría ser artefactual.
+-	TC cerebral de control (17/12/17): Extensa extravasación de contraste ev con HSA en relación a la rotura vascular tratada con ingurgitación parenquimatosa difusa cerebral y cerebelosa y borramiento de surcos y
+
+
+cisternas  supra  e  infratentoriales.   Borramiento  de  la  diferenciación  córtico-subcortical  en  territorio frontoinsular izquierdo que podría corresponder a infarto establecido, siendo difícil delimitar la lesión real.
+-	TC cerebral de control (20/12/17): Mejoría radiológica de la ingurgitación encefálica supra e infratentorial con mejoría de la obliteración de cisternas y de surcos. Lesión isquémica establecida afectando >2/3 del territorio uperficial de ACM izquierda. Mejoría de la extravasación de contraste ev, actualmente centrado a nivel temporooccipital.
+-	Analítica control: Na 139, K 4.9, Ca 2, fosfato 2.42, urea 81, creat 1379, FG 2.5. Hb 113, leucocitosis
+11560.
+-	Coprocultivo: Toxina Cl. difficile negativa, resto pendiente.
+
+
+EVOLUCIÓN:
+Se realiza TC cerebral que muestra signos de isquemica aguda en territorio de ACM  izquierda con ASPECTS >6, así como oclusión de segmento M1. Ante dichos hallazgos, se decide indicar trombectomía mecánica. Se realiza punción femoral a las 20:40 horas. Durante el procedimiento, se produce perforación de la rama inferior de ACM izquierda que se ocluye con coils. Al final del procedimiento, persiste oclusión de M1 distal que no se consigue recanalizar.
+
+Al realizar TC de control a las 24 horas, se observa extensa extravasación de contraste con HSA, y desdiferenciación córtico-subcortical en territorio frontoinsular izquierdo que podría corresponder a  infarto establecido. Posteriormente, el paciente presenta clonias a nivel del muslo derecho, que se orientan como crisis comiciales parciales. Se decide iniciar Valproato por este motivo (no se inicia Keppra por IRC).
+
+Durante el ingreso, el paciente presenta episodio de deposiciones melénicas en dos ocasiones, así como sangrado por el punto de punción femoral. Se realiza analitica de control que muestra Hemoglobina de 112 estable, pero empeoramiento de función renal con Creatinina >400 µmol/L. Ante la situación clínica y funcional del paciente, no se considera indicada ninguna acción agresiva sobre este empeoramiento. Se comenta con la hermana y se explica la situación. Está de acuerdo en priorizar el confort del paciente y no realizar maniobras agresivas ni dializar. Se solicita asimismo nuevo TC de control que refiere mejoría radiológica de la ingurgitación encefálica y mejoria de la obliteración de las cisternas. Se aprecia lesión isquémica establecida afectando >2/3 del territorio superficial de ACM izquierda con disminución de la extravasación de contraste ev.
+
+Se realiza interconsulta con rehabilitación y se decide traslado a sala de neurología para observación. En la sala de Neurología el paciente permanece sin cambios clínicos, con afasia global y hemiplejia derecha. Como complicaciones se encuentra oligúrico desde su llegada a sala y deterioro franco de la función renal sin respuesta a sueroterapia. Además presenta una infección respiratoria de etiología broncoaspirativa.
+Finalmente se decide de acuerdo con la familia, retirar la medicación activa priorizando el control sintomático y el confort del paciente, resultando exitus el 31/12 a las 2:45h.
+
+PROCEDIMIENTOS:
+-	Analítica, ECG, Telemetría ECG, TC cerebral, AngioTC cerebral.
+-	Trombectomía mecánica: Se realiza punción femoral a las 20:40 horas identificándose una oclusión de
+
+
+M1 distal izquierda, en paciente con displasia ateromatosa intracraneal en ramas de ACA izquierda y ACi intracraneal . Se realizan dos pases con tecnica de catéter balón , aspiración distal con cateter de 5f y solitaire platinum 6 x 40 en la rama superior que se consigue reabrir. Al realizar otro pase en la rama inferior de produce una perforación de la misma por lo que la ocluimos con coils . Al finalizar el procedimiento a las 22:15 horas persiste oclusión de M1 distal. La perforación ha quedado completamente tapada. Se realiza DynaCt que muestra extravasación de contraste en espacio subaracnoideo. Durante la perforación el flujo estaba bloqueado por lo que probablemente es la mayor parte contraste de las inyecciones que hemorragia
+.
+
+
+DIAGNÓSTICOS
+-	Ictus ACM izquierda de mecanismo embólico y probable etiología cardioembólica (FA no conocida),
+
+se  realizó  tratamiento   con  rtpa  y  TEV	con	perforación	rama	ACM	izquierda	que	requirió
+embolización.							
+-	Insuficiencia renal crónica reagudizada.							
+-	Broncoaspiración							
+-	Exitus letalis.							
+
+
+Responsable clínic: Dra. _NAME_ (NºCol. _ID_)
+Equip mèdic: _NAME_ (NºCol. _ID_)
+
+Servei que ha donat d'alta:
+NEURO - UNITAT ICTUS HOSP	Data d'alta:
+31.12.2017	Nom del metge que informa de l'alta:
+_NAME_ (NºCol. _ID_)
+
+
+_LOCATION_, 02.01.2018
+Pàg. 1 de   4

@@ -1,0 +1,114 @@
+I.CLINIC DE NEUROCIÈNCIES
+
+_NAME_	NEUROLOGIA	NHC: _ID_
+Sexo/Sexe: Masc.
+Dirección/Adreça: _LOCATION_	Fecha nac./Data naix.: _DATE_	Edad/Edat: 30 años
+CP: _LOCATION_
+Municip. (Prov.): _LOCATION_  ABS:_SS_	Tel.:_CONTACT_
+As.: SERVEI CATALA DE LA SALUT Nº epis.: _ID_
+Serv: NEUROLOGIA
+Facult. de ref.: _NAME_	CIP: _ID_
+Tipo/Tipus: HOSPIT.
+UO Enf.: G064 SALA G DE NEUROLOGIA	NASS: _ID_
+Inici.: 10.11.2017
+Hora: 22:41:57
+
+
+Tipo ingreso/Tipus ingrés: Urgent	Motivo/Motiu alta: Dom. Familiar
+Diag.:
+OCLUSION DE ART. CEREBRAL NO ESPECIF. CON INFARTO CEREBRAL (434.91) CRISIS EPILEPTICA ()
+Proc.:
+TC CRANEAL MULTIMODAL () FIBRINOLISIS ()
+
+
+
+
+INFORME CLÍNICO ALTA / INFORME CLÍNIC ALTA
+
+Motivo de consulta / Motiu de consulta
+Alteración del lenguaje de inico súbito.
+
+Antecedentes e historia previa / Antecedents i història prèvia
+Antecedentes personales: Varón de 30 años, sin alergias medicamentosas. No hábitos tóxicos.
+
+ANTECEDENTES PERSONALES:
+1.	Episodios de cefalea sin caracterísitcas migrañosas ocasional que  trata con analgesia convencional (AINEs).
+2.	Absceso submentoniano derecho en septiembre/2017, drenaod a mediados de octubre. 3.- PROBABLE EPILEPSIA infantil. Según la familia presentó crisis epilépticas en la infancia. ANTECEDENTES FAMILIARES: No antecedentes conocidos de trombosis ni de migraña.
+
+NO MEDICACIÓN HABITUAL.
+
+Proceso actual / Procés actual
+Inicia en el día 10/11/17 en torno a las 18h presenta un episodio de pocos minutos de "mareo" y disestesias en ambos miembros superiores, tras lo que observa una dificultad para la producción de lenguaje. No refiere cefalea asociada.
+
+Exploración física / Exploració física
+10/11/2017-22:48:00: Glicemia capilar (mg/dl) 96, Tª axilar (ºC) 36.2. 1 0/11/2017-23:00:00 : Frecuencia respiratoria (rpm) 19, PAS (mm Hg) 123, PAD (mm Hg) 59, Pulsioximetría (%) 99.
+GRAL:   Buen   estado.   Normohidratado  y   normocoloreado.   Lesiones	eritematosas   y   descamativas infracntimétricas en parte anterior del tórax y axila.
+NRL: Consciente, orientación no valorable por lenguaje afásico (nomina  4/8, repite frases cortas con parafasias, odedece órdenes simples, no cruzadas ni complejas). Mirada centrada sin limitaciones en la
+excursión visual. No alteraciones en campimetría por confrontación. No paresia facial, con balance muscular conservado. No alteraciones sensitivas. No dismetrías. No extinción ni negligencias. NIHSS 4.
+Cardio: Rítmoco sin soplos ni ruidos patológicos. Pulmonar: MVFC sin sobreañadidos.
+Abdomen: Blabndo y depresible. No doloroso. No masas ni megalias. Peristaltismo conservado.
+
+Laboratorio / Laboratori
+*	ANALÍTICA SANGUÍNEA: Sin alteraciones relevantes en hematimetría, coagulación, perfil lipídico, función hepática, renal, ionograma, úrico, Hb1Ac y homocisteína. Vitaminas y eje tiroideo.
+
+Radiología / Radiologia
+*	TC MULTIMODAL: - TC CRANEAL BASAL: No se observan imágenes de sangrado intracraneal agudo ni pérdida de diferenciación cortico-subcortical en el estudio basal.
+-	TC CRANEAL PERFUSIÓN Retraso del TTP y disminución del CBF a nivel cortico-subcortical parieto-temporal izquierdo, con CBV conservado, existiendo discordancia significativa.
+-	ANGIO-TC INTRA Y EXTRACRANEAL: Oclusión de rama angular en segmento M3 de ACMI.
+
+*	RX TÓRAX: Sin alteraciones.
+
+*	TC CRANEAL DE CONTROL: Estudio comparativo con TC previo del 11/10/2017 a las 20.30h: Hipodensidad corticosubcortical temporoparietal izquierda (territorio superficial posterior de ACMI) en relación a infarto isquémico establecido. No se observan signos de sangrado agudo intra ni extraaxial.
+
+Exploraciones complementarias / Exploracions complementàries
+*	ECOCARDIOGRAMA TRANSESOGÁGICO: ---Ventrículo izquierdo de dimensiones normales. Motilidad globlal y segmentaria normal. ---Insuficiencia aórtica ligera. Válvula aórtica trivalva, velos finos. Se observa pequeño filamento de fibrina. Dilatación de la raíz aórtica (38mm), aorta ascendente no dilatada. --- Vávula mitral con mínima insuficiencia. Se observa abombamiento hacia la aurícula ("billowing") de los velos, que se encuentran levemente engrosados, principalmente el anterior. ---Aurículas de tamaño normal. Orejuela izquierda de tamaño y forma normal, normocontráctil, sin trombo. Velocidad de lavado normal. ---Septum interauricular móvil a nivel de fosa oval, se realiza infusión de suero salino agitado por vía venosa periférica, evidenciando paso muy precoz de burbujas a cavidades izquierdas tanto en situación basal como con el Valsalva, indicativo de foramen oval permeable (FOP). ---Ligera insuficiencia tricuspídea  que  eprmite estimar baja probabilidad de prsentar hipertensión pulmonar. ---Se explora aorta descendente desde 30cm de arcada dentaria sin evidencia de placas de ateroma.
+*  ECOGRAFÍA  DOPPLER  TRANSCRANEAL  PARA  VALORAR  SHUNT  DERECHA-IZQUIERDA:  S'insona  l'artèria
+cerebral mitja a una profunditat de 50 mm. S'emulsiona una solució de 9 ml de sèrum fisiològic i 1 ml d'aire i s'injecta a la vena de l'avantbraç. - BASAL sense Valsalva:38 bombolles - Injecció amb Valsalva als 4 segons: 54 bombolles La maniobra de Valsalva ha estat efectiva (reducció> 25% de la velocitat a l'artèria cerebral mitjana en totes les ocasions).
+Conclusiones / Conclusions Els resultats obtinguts suggereixen un shunt cardíac dret-esquerre amb pas espontani de bombolles.
+
+* HOLTER: Todo el registro en ritmo sinusal.
+
+Evolución / Evolució
+1.	ICTUS ISQUÉMICO EN TERRITORIO DE ARTERIA MEDIA IZQUIERDA. OCLUSIÓN M2 DISTAL.
+2.	CRISIS EPILÉPTICA TONICO-CLÓNICA GENERALIZADA DURANTE TROMBOLISIS.
+Varón de 30 años con cefaleas habituales (posible migraña pero sin cumplir todos los criterios) que acude a urgencias por alteración del lenguaje de incio súbito. A su llegada a urgencias hemodinámicamante estable, afebril. A la exploración afasia mixta de predominio de comprensión (NIHSS 4). Analítica sin alteracines
+
+
+
+relevantes. Radiografía de tórax sin alteraciones. Monitorización y estudio Holter en ritmo sinusal. La neuroimagen de urgencias (TC multimodal) muestra una oclusión en segmento M2 de la ACMI que condiciona un retraso en la perfusión en una cuña cerebral en este territorio, con un área de penunmbra isquémcia significativa.
+Se trata de un ictus isquémico de unas 2 horas de evolución, por lo que se decidió realizar fibrinolisis intravenosa.
+Posteriormente realiza una crisis epiléptica tónico-clónica precoz por lo que se inicia tratamiento anticomicial que se retira durnate el ingreso.
+La neuroimagen de control (RM cerebral) muestra el ictus isquémico ya descrito sin datos de transformación hemorrágica ni otras lesiones.
+Se trata de un ictus isquémico en territorio de la ACMI de causa indeterminada con FOP espontaneo sin aneurisma del septo (en paciente con posible migraña). Esta pendiente de estudio de trombofilias qu ese realizará en 1 mes.
+Durante su estancia se inicia tratamiento antiagregante que deberá mantener al alta. Clínicamente presenta mejoría hasta quedar asintomático. Acudirá a CCEE de Neurología para visita de control (le contactarán telefónicamente).
+
+Al traslado: - NIH:0
+-	TOAST: indeterminado (FOP + pendiente estudio trombofilias)
+-	mRS: 1
+
+Plan terapéutico / Pla terapèutic
+Adiro 100mg día.
+
+Otras recomendaciones / Altres recomanacions
+Deberá acudir a extracción sanguínea y cita en consultas externas de neurología en unos 2 meses y medio (se contactará para facilitar citas)
+
+
+
+Firma/Signatura1: _NAME_	Firma/Signatura2: _NAME_ Categoría: Resident 2	Categoría: Consultor/a 1
+Nº Matrícula _SS_: _ID_	Nº Matrícula _SS_: _ID_
+
+Fecha/Data Informe: 15.11.2017
+Hora Informe: 19:57:14
+
+Docum.: _ID_
+Hist. Clínica: _ID_
+El _SS_ ha incorporado sus datos al Fichero de Pacientes, para tratarlos con fines sanitarios.
+Puede ejercer sus derechos de acceso, rectificación, cancelación y oposición, así como obtener mas información en la Unidad de Atención al Cliente.
+Vers. 00
+Pag. 2 de
+3
+Episod.: _ID_
+_SS_ ha incorporat les seves dades al Fitxer de Pacients, per a tractar-los amb finalitats sanitàries. Pot exercir els seus drets d'accés, rectificació, cancel·lació i oposició, i obtenir més informació a la Unitat d'Atenció al Client.
+_SS_
+_LOCATION_) _LOCATION_) Tel. _CONTACT_ Fax _CONTACT_
+http://_CONTACT_/

@@ -1,0 +1,112 @@
+_LOCATION_
+_LOCATION_) Anul·lació/Reprogramació visites:_CONTACT_
+Telèfon Centraleta: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 87 Anys
+NIF/DNI: _ID_Informe d'alta d'hospitalització
+_NAME_; _NAME_;_NAME_
+CP	_LOCATION_
+ABS	_SS_
+Servei	NEUROLOGIA
+Data d'alta  12.07.2017	12:59:39
+_LOCATION_
+_CONTACT_; _CONTACT_; _CONTACT_; DOMICIL/RES.SOC
+03.07.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+MOTIU D'INGRÉS
+Ingresa en NRL por clínica brusca de debilidad de hemicuerpo izquierdo y disartria.
+
+ANTECEDENTS
+No alergias medicamentosas conocidas. Exfumador
+Hipertensión arterial y dislipemia en tratamiento farmacológico. No DM conocida.
+Consta ACV isquémico previo, no disponemos de informes. Aparentemente sin secuelas. En tratamiento con Adiro.
+Adenocarcinoma de  colon pT1N0 intervenido el 2012. Fibrobroncoscopia en 2014 con pólipo adenomatoso de 12mm resecado completamente.
+No otros antecedentes patológicos conocidos. Situación basal: independiente para ABVD. mRankin 0.
+MEDICACIÓ HABITUAL
+AAS 100mg/24h, amlodipino 10mg/24h, enalapril/hidroclorotiazida 20/12.5mg/24h, omeprazol 20mg/24h
+
+PROCÉS ACTUAL
+El 02.07.17, estando previamente asintomático, presenta a las 16:10h caída al suelo. Es encontrado por familiar presentando debilidad de hemicuerpo izquierdo y dificultad para articular palabras. Se activa Codi Ictus (Teleictus) a las 16:30h siendo el paciente aleatorizado en el estudio RACECAT (129). Llega a _SS_ a 17:55h. Tc craneal 18:10h.
+A su llegada a urgencias se encuentra hipertenso con TA 184/98 mmHg, Fc 68 Dtx 58. Por monitor impresiona de RS. Clínica TACI derecho. NIHSS:18 a expensas de vigil, DOC d (2), HH i (2), disartria moderada (2), no afasia, PFSN izq (1), hemiplejia BC izq (4+4), sensibildiad no valorable (1), heminegligente izq (2).
+Se realiza analítica donde destaca hipoglucemia 2.9 mmol/L (no consta administración de insulina durante el traslado, previa de DXT 219), Hb 124 g/L, Htco 39 %, resto sin alteraciones. ECG: vibrado, RS a 60lpm, eje 0º, PR 0.2s, QRS 0.08s, T negativa en avL, V4, aplanada en V5-V6. No disponemos de ECG previos para comparar. Rx tórax: rotada, botón aórtico calcificado, hilio derecho prominente, senos costofrénicos libres, no condensación ni infiltrados. TC craneal simple que muestra infartos antiguos en ACM, lesión frontal derecha. Angio-TAC que muestra permeabilidad de arteria sin oclusión apartente aguda, sólo oclusión distal ACA derecha posible crónica. Se orienta como probable ictus en territorio de ACM derecha + oclusión ACA derecha (posiblemente de carácter crónico). Dada la ausencia de contraindicación y al encontrarse en periodo ventana se decide iniciar rTPA ev (inicio  a  las  18:20h  con  TA  175/66mmHg). Bolus  5mg  y  posterior perfusión 48mg  en  1  hora.  Finaliza  sin incidencias y sin cambios en el NIHSS. No tributario a rescate endovascular por ausencia de oclusión de gran vaso intracraneal proximal.
+Se realiza TC craneal de control post-trombolisis que muestra pequeño hematoma occipital izquierdo e infarto establecido en territorio de ACA y ACM derechas.
+Neurológicamente se mantiene estable, sin cambios a la exploración. NIHSS 18. Ingresa en NRL, Unidad de ictus.
+
+Informe d'alta d'hospitalització
+
+EXPLORACIÓ FÍSICA
+
+FC	69 bpm Tªaxi  ºC
+FR	18 rpm Tªrec  ºC
+TA s	142 mmHg SAT O2 97 %
+TA d   48 mmHg Pes Kg
+
+NRL: consciente, dice mes pero no edad (1), DOC a la D (2), disartria severa (2), dudosa HHI por amenaza (2), PFSN izq (2), hemiplejia BC izq (4+4), sensibilidad no valorable (1), heminegligencia izq (2), BBK izq, RCP derecho flexor. NIHSS 20
+AC: tonos cardiacos rítmicos, no ausculto soplos AR: mvc, sin ruidos sobreañadidos
+Abdomen: blando y depresible, no doloroso a la palpación superficial ni profunda. Peristaltismo conservado sin signos de irritación peritoneal. No m asas ni megalias palpables.
+EEII: no edemas. No signos de TVP. Pulsos pedios presentes.
+
+EXPLORACIÓ COMPLEMENTÀRIA
+EXPLORACIONES COMPLEMENTARIAS REALIZADAS EN URGENCIAS:
+Analítica:
+EAB venoso: pH 7.37; CO2 58mmHg; O2 38mmHg; HCO3- 33.5mmol/L; EB 6.4mmol/L; Sat.O2 52%. Bioquímica: Glucosa 2.9mmol/L; Urea 7.5mmol/L; Cr 77umol/L; Na+ 145mmol/L; K+ 3.86mmol/L. Coagulación: TTPA 0.93; TP 1.04.
+Hemograma:  Hb  124g/L;  Hto  39%;  VCM  86fL;  Plaquetas  218x10E9/L;  Leucocitos  5.3x10E9/L  (Neutrófilos 3.29x10E9/L, Linfocitos 1.38x10E9/L).
+TC y angioTC craneal: Área de encefalomalacia frontoparietal derecha en territorio vascular frontera ACA/ACM derecha. Estenosis de ACA derecha en su segmento A2 con paso filiforme de contraste a los segmentos A3. Signos de atrofia cerebral global de carácter involutivo y afectación por isquemia crónica de la sustancia blanca.
+ECG:  vibrado, RS  a  60lpm, eje 0º,  PR 0.2s, QRS 0.08s, T  negativa  en  avL,  V4, aplanada en  V5-V6. No disponemos de ECG previos para comparar.
+Rx  de  tórax:  rotada,  botón  aórtico  calcificado,  hileo  derecho  prominente,  senos  costofrénicos  libres,  no condensación ni infiltrados.
+Analítica de control:
+Bioquímica: Glucosa 7.9mmol/L; Urea 4.9mmol/L; Cr 69umol/L; Na+ 142mmol/L; K+ 3.53mmol/L.
+
+EXPLORACIONES COMPLEMENTARIAS REALIZADAS EN PLANTA DE NEUROLOGIA:
+Analítica de ingreso: función renal (urea, creatinina, filtrado glomerular) normal, iones normales, perfil hepático (AST, ALT, GGT, FA) normal excepto AST ligeramente elevada 0.64ukat/L, proteina 60g/L, perfil lipídico con colesterol total normal y LDL de 3.08 mmol/L  (elevado para prevención secundaria), TG normales, perfil tiroideo (tiroxina, tirotropina) normal, perfil glucídico (HbA1c, glucosa media estimada) normal, folatos normales, cobalaminas disminuidas 82pmol/L, ligera anemia Hb 11.4g/dL, hematocrito 34.9%, plaquetas normales, leucocitos normales, coagulación (TP, TTPA, Fibrinógeno) normal.. Proteinograma sin alteraciones destacables. VSG 25mm.
+Serología lues: negativa.
+Analítica control (10.07.17): función renal normal, ionograma sin alteraciones, perfil hepático normal, albúmina 33 g/L, prealbúmina 64*mg/L, Hb 10.7 g/dLm hematocrito 33.2%, VCM 85fL, sin otras alteraciones en el hemograma. TP 1.30, TTPA 0.96.
+RMN cerebral: Estudio artefactado por los movimientos del paciente. Infartos establecidos en territorio superficial de ACMD y en territorio de ACAD, este último con pequeños focos de sangrado petequial. Pequeño hematoma
+
+Informe d'alta d'hospitalització
+
+
+
+
+subagudo tardío a nivel occipital izquierdo, sin efecto de masa significativo. Marcados cambios desmielinizantes probablemente por enfermedad crónica de pequeño vaso. Infartos lacunares crónicos en ganglios basales, tálamos y a nivel frontal derecho. Cambios involutivos cerebrales.
+Ecografía cardiaca transtorácica: Ventrículo izquierdo no dilatado, no hipertrófico. Fracción de eyección preservada Ventrículo derecho no dilatado, normocontráctil. Raíz aórtica no dilatada, Aurícula izquierda dilatada. Válvula aórtica calcificada. Gradientes dentro de la normalidad. Regurgitación leve. Insuficiencia mitral leve. Insuficiencia tricuspidea leve que permite estimar PAP 30 mmHg. Vena cava dilatada con colapso inspiratorio 50%. Ausencia de derrame pericárdico.
+
+EVOLUCIÓ CLÍNICA
+Ingresa para estudio y control evolutivo por ictus en territorio de ACA y ACM derechas con oclusión de ACA derecha (probablemente crónica), tratado en fase aguda con rTPA ev sin cambios en la exploración. NIHSS 19. En el TC de control se observa infarto establecido en territorio de ACA y ACM derechas y pequeño hematoma occipital izquierdo.
+
+Como parte del estudio se ha realizado analítica que muestra cobalaminas disminuidas de 82 pmol/L, ligera anemia normocítica, sin otros hallazgos. La serología para lues resulta negativa. Se realiza RMN cerebral que informa de infarto establecido en territorio superficial de ACM derecha y en territorio de ACA derecha, este último con pequeños focos de sangrado petequial. Se observa también pequeño hematoma subagudo tardío a nivel occipital izquierdo sin efecto de masa. Se completa estudio con ETT que muestra AI dilatada, IM leve e IT leve con PAP de 30 mmHg.
+
+Durante su estancia en planta se ha mantenido hemodinámicamente estable.
+Como incidencias, presenta escasa ingesta oral por lo que se solicita valoración por Nutrición decidiéndose colocación de SNG (Nutrison protein plus 1000 ml + Nutrison energy M.F 500 ml actualmente a 60 mL/h). Ha realizado rehabilitación desde el inicio. Sedestación bien tolerada.
+
+Neurológicamente se ha mantenido estable. En el momento actual (12.07.17) presenta NIHSS de 18 a expensas de: responde edad, no mes (1), obede órdenes simples, disartria (2), sin altearaciones del lenguaje (nomina, repite, evoca), PICNR, tendencia oculocefálica a la derecha que pasa línea media (1), MOEs conservados, hemianopsia homónima izquierda (2), PFSN izquierda (2), plegia braquio-crural izquierda (4+4), hipoestesia izquierda (1), Babinski izquierdo, RCP flexor derecho, anosognosia (1). mRS 5
+
+Se orienta como ictus de ACA y ACM derecha de etiología indeterminada, pendiente de HolterECG.
+
+Ante estabilidad clínica se solicita traslado a centro de referencia (_SS_) a día 5/07 para continuar estudio y control evolutivo, siendo aceptado el día 12/07/17.
+
+
+DIAGNÒSTICS
+436/5 Ictus
+Ictus isquémico en territorio de ACA y ACM derechas.
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Se adjunta
+
+Informe d'alta d'hospitalització
+
+
+
+DESTINACIÓ A L'ALTA:	HOSP. AGUTS/PSQ
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+12.07.2017
+Pàgina 1 de 4

@@ -1,0 +1,140 @@
+_LOCATION_ Tel. _CONTACT_
+e-mail: visitescex.germanstrias@gencat.cat
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 62 Anys
+NIF/DNI: _ID__NAME_; _NAME_; _NAME_;;;
+_NAME_
+Informe d'alta d'hospitalització
+CP	_LOCATION_
+ABS	_SS_
+Servei	NEUROLOGIA
+Data d'alta  08.11.2017	17:00:00
+_LOCATION_
+_CONTACT_; _CONTACT_
+AGUTS 05.11.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Ictus isquémico
+
+ANTECEDENTS
+-	Sin alergias medicamentosas conocidas.
+-	Hábitos tóxicos: fumador de 10 cig/día. No enol.
+-	Situación funcional: Vive en _LOCATION_ con esposa en piso  con BBAA (2 escalones acceso), independiente para ABVD, Barthel 100, Rankin previo: 0
+
+ANTECEDENTES PATOLÓGICOS:
+-	Hipertensión arterial esencial
+-	Dislipemia.
+-	Obesidad.
+-	Accidente isquémico transitorio.
+-	Insuficiencia venosa
+-	Enfermedad  de  Hodgkin  a  nivel  local  femoral,  de  tipo  celularidad  mixta  Ia  intervenido  en  2008,  libre  de enferemdad en la actualidad.
+-	Acalasia intervenida quirúrgicamente,
+
+MEDICACIÓ HABITUAL
+Adiro 100 mg/día
+Carduran 8 mg/día
+Enalapril 10 mg/día
+Simvastatina 10 mg/día
+Hidrosaluretil 50 mg/día
+
+
+PROCÉS ACTUAL
+Estando previamente asintomático, el día 4/11/2017 sobre las 11:00 inicia clínica de paresia de extremidades derechas y alteración del lenguaje, por lo que consulta a _SS_, donde al llegar había recuperado la clínica. Durante su evolución presenta nuevo episodio de similares características, con recuperación clínica, aunque aparentemente no completa. A las 17:20, reaparece la clínica sin mejoría posterior, por lo que contactan con nuestro centro a las 17:30, y se activa código ictus, llegando a nuestro centro a las 18:35h
+
+
+EXPLORACIÓ FÍSICA
+
+EXPLORACIÓN FÍSICA EN URGENCIAS:
+TA 180/90 a 80 lpm. Saturación de oxígeno basal al 94%. Tª 36ºC.
+Exploración neurológica 4/11 (18h): Consciente y orientado. Obedece órdenes. Leve disminución de la fluencia,
+
+Informe d'alta d'hospitalització
+
+
+
+
+con nominación y comprensión correcta, en contexto de disartria severa No trastorno oculomotor ni campimétrico. Paresia facial derecha. Paresia braquiocrural derecha grave. Hipoestesia derecha. RCP extensor derecho
+NIHSS: (0.0.0)0.0//2(3.0).(3.0)//0.0.2 .1.0 = 11
+
+Exploración neurológica 5/11 (11h): Cosnciente y orientado, no alteraciones campimétricas ni oculomotoras, disartria grave con lenguaje en ocasiones ininteligible. Comprensión conservada. Nominación y repetición correcta (disártrico), Paresia facial central derecha gravem hemiplegia derecha con leve tono muscular en grupos flexores de extremidades derechas. Leve hipoestesia faciobraquial, no crural. No fenómenos de extinción visual ni sensitiva. Tono muscular normal.
+
+
+EXPLORACIÓN FÍSICA EN LA UNIDAD DE ICTUS:
+Buen nivel de consciencia, orientado en las tres esferas. Lenguaje de contenido normal, con disartria grave. Oculomotricidad conservada. No defectos campimétricos. Paresia facial supranuclear derecha. Hemiparesia derecha con balance muscular 0/5 en ESD y 3/5 en EID. Sensibilidad táctil conservada y simétrica en las cuatro extremidades. No dismetría. Babinski derecho, RCP flexor izquierdo.
+
+NIHSS (0.0.0)0.0/2(0.4)(0.2)0.0.0.2.0 =10
+
+
+EXPLORACIÓ COMPLEMENTÀRIA
+PRUEBAS REALIZADAS EN URGENCIAS:
+Analítica: Hematologia (04/11/17): Leucocitos 7600 /µL, (N 84,1 % / L 12,1 / M 2,5 / E 0,2 / B 1,1), Htíes 4,38
+mill/µL, Hb 13,1 g/dL, Hcto 39,4 %, VCM 90 fL, Plaquetes 185000 /µL, TP 87 %, INR 1,1 sg, TP ratio 1,1, TTPA
+27,1  sg,  TTPA  ratio  0,87,  Fibrinógeno  453  mg/dL. Bioquimica  (04/11/17):  Glucosa  123  mg/dL, Urea  38,2,
+Creatinina 0,76, Na 137,3 mmol/L, K 3,9, Prot-C reactiva 2 mg/L.
+
+ECG: ritmo sinusal sin alteraciones agudas dela repolarización
+
+TC craneal/angioTC/TC perfusión urgente: No se evidencian lesiones isquémicas ni hemorrágicas agudas TC valorables. ASPECTS = 10 Cisternas basales y perimesencefálicas libres. Línea media centrada. Leve prominencia de surcos de la convexidad infra y supratentoriales de forma proporcionada al tamaño del sistema ventricular compatible con atrofia cerebral difusa leve. Sin alteraciones óseas TC valorables. No se aprecian otras alteraciones intra ni extraaxiales TC valorables. Quistes de retención mucoso en ambos senos maxilares. TC PERFUSIÓN: Tiempo de tránsito medio, flujo sanguineo cerebral y volumen sanguineo cerebral simétricos, sin evidencia de signos de penumbra ni infarto establecido. ANGIO-TC: Correcta permeabilidad de estructuras arteriales principales intra y extracraneales.Arteria vertebral derecha es de menor calibre que la contralateral y acaba en PICA.
+
+PRUEBAS REALIZADAS DURANTE EL INGRESO EN LA UNIDAD:
+
+Analítica de ingreso: Bioquimica (06/11/17): Glucosa 94 mg/dL, HbA1c 5,9 %, Urea 28 mg/dL, Creatinina 0,79, Filtrado glomerular estimado >90 mL/min/1.73 m2, Uratos 6,7 mg/dL, Mg 1,88, Na 136,4 mmol/L, K 3,57, Cl 101,6,
+ALT 29 U/L, GGT 15, FA 76, Bilirrubina 0,93 mg/dL, Prot-C reactiva 17,3 mg/L, Proteína 66,2 g/L. Proteinograma.-
+Alb 39,5, a1·Glob 3,2, a2·Glob 8,2, ß·Glob 7,8, ?·Glob 7,5. Lípidos.- Triglicéridos99 mg/dL, Colesterol 202. Hormonas (06/11/17): TSH 0,759 µUI/mL.
+
+Informe d'alta d'hospitalització
+
+
+
+
+RM cerebral: foco de restricción a nivel protuberencial de localización central paramedial izquierdo compatible con una lesión isquémica aguda en el territorio de arteria paramediana izquierda dependiente de la arteria basilar. En la secuencia Flair se observa algún foco aislado de hiperintensidad puntiforme a nivel de la sustancia blanca subcortical supratentorial bihemisférica de características inespecíficas.
+
+Ecocardiograma TT: Ventriculo izquierdo de dimensiones normales con funcion sistólica global y segmentaria conservada , FE Simpson 60% Sin dilatacion de cavidades derechas con VD normocontractil (TAPSE normal). Auricula izquierda ligeramnete dilatada . Válvula mitral con velos finos y correcta apertura. Valvula aortica trivalva con velos finos y correcta apertura , raiz aórtica y aorta ascendente ligeramente dilatadas. TIA integro,cayado normal. Ausencia de derrame pericárdico VCI no dilatada con colapso normal. Conclusiones: VI ligeramente hipertrofico no dilatado con funcion sistolica conservada. Sin alteraciones valvulares
+
+
+EVOLUCIÓ CLÍNICA
+Varón de 62 años con factores de riesgo cardiovascular que acude por clínica de ictus hemisférico izquierdo de 7 horas de evolución, fluctuante. A su llegada, hipertenso y afebril. A la exploración física destacaba clínica de síndrome sensitivo-motor izquierdo con NIHSS de 11 a expensas de hemiparesia e hipoestesia derecha. Se realiza analítica, que no muestra alteraciones. ECG en ritmo sinusal. Se realiza TC craneal multiparamétrico que no objetiva alteraciones.
+Se orienta como ictus isquémico agudo en territorio indterminado izquierdo en el que no se visualiza oclusión de gran vaso ni defecto de perfusión, de mecanismo y etiología a estudio (inicialmente orientado como probable ictus de pequeño vaso con sde. alarma capsular). Se inicia carga de Clopidogrel y se ingresa en UIA.
+Se solicita RM cerebral que objetiva una lesión isquémica protuberancial izquierda (infarto paramediano). No se ha detectado arritmia embolígena en la telemetría ni cardiopatía embolígena en el ETT.
+Inicia tratamiento rehabilitador y se mantiene prevención secundaria.
+Durante el ingreso no presenta complicaciones ni incidencias y una vez en situación estable y con la prueba de neuroimagen realizada se solicita traslado a su hospital de referencia para continuar tratamiento rehabilitador.
+
+Al alta:
+Buen nivel de consciencia, orientado en las tres esferas. Lenguaje disártrico, sin elementos afásicos. Oculomotricidad conservada. No defectos campimétricos. Paresia facial supranuclear derecha. Hemiparesia derecha con balance muscular 2/5 en ESD y 3/5 en EID. Sensibilidad táctil conservada y simétrica en las cuatro extremidades. No dismetría. Babinski derecho, RCP flexor izquierdo.
+
+NIHSS (0.0.0)0.0/1(0.2)(0.2)/0.0.0.2. 0=7
+
+Rankim 5.
+
+DIAGNÒSTICS
+ICTUS ISQUÉMICO PROTUBERANCIAL IZQUIERDO (INFARTO PARAMEDIANO) HTA
+DISLIPEMIA
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+TRATAMIENTO SEGÚN HOJA DE SILICOM
+
+Informe d'alta d'hospitalització
+
+
+
+CONTROL
+TRASLADO A SU HOSPITAL DE REFERENCIA
+
+DESTINACIÓ A L'ALTA:	HOSP. AGUTS/PSQ
+
+
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+08.11.2017
+Pàgina 1 de 4

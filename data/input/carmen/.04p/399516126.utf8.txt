@@ -1,0 +1,195 @@
+_LOCATION_) Telèfon _SS_  972 _CONTACT_
+Telèfon IDI (Ressonància i TAC) _CONTACT_
+Telèfon ICO _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 84 Anys
+NIF/DNI: _ID__NAME_; _NAME_; _NAME_
+ENRIQUE
+Informe de Trasllat a Sociosanitari
+09:00:00
+16.08.2017
+_LOCATION_
+_SS_ NEUROLOGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_; _CONTACT_
+DOMICIL/RES.SOC 05.08.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Código Ictus
+
+ANTECEDENTS
+ANTECEDENTES PERSONALES
+-Consta posible alergia a noloitl. No otras alergias medicamentosas conocidas
+-No refiere hábitos tóxicos
+-Dependencia parcial para Actividades básicas de la vida diaria. mRs: 2.
+
+ANTECEDENTES PATOLÓGICOS.
+-Hipertensión arterial en tratamiento farmacológico
+-Dislipemia en tratamiento farmacológico
+-No diabetes mellitus
+-Sobrepeso, IMC 26
+-Posible AIT hemisférico derecho, que cursó como amaurosis fugax. Estudio eco-doppler describe estenosis ACI D 60% con VSM 160-200cm/seg. Pendiente realización de angio-TC de forma preferente.
+-No antecedentes personales de cardiopatía isquémica en tratamiento antiagregante AAS 100mg desde entonces
+-Valvulopatía aórtica, estenosis aórtica degenerativa, tratamiento IQx recambio valvular con válvula biológica en Junio/2015
+Ecocardiografía control (julio 2017):
+-	Ventricle esquerre no dilatat moderadament hipertròfic normocontràctil
+-	Aurícula esquerra severament dilatada. Calcificació de l'anell mitral posterior. Lleugera insuficiència mitral
+-	Pròtesi biològica Perceval S en posició aòrtica normofuncionat
+-	Ventricle dret no dilatat amb motilitat global conservada.
+-	Lleugera hipertensió pulmonar.
+
+-Disnea, clase funcional II de NYHA
+-Hernia de hiato, esofagitis
+-Osteoartritis que condiciona deambulación con bastón
+-No otros antecedentes personales de interés. No IQx
+
+
+MEDICACIÓ HABITUAL
+-Alendronato c/semana
+-AAS 100mg c/24hs
+-Atorvastatina 40mgc/24hs
+-Bisoprolol 2,5 mg c/24hs
+-Ramipril 5mg c/24hs
+-Lecardipino 10mg c/24hs
+-Furosemida 60mng c/24hs
+-Paracetamol 1gr c/24hs
+
+Informe de Trasllat a Sociosanitari
+
+
+
+
+-Trazadona 100mg c/24hs
+-Venlafaxina 75mg c/24hs
+-Carbonato de calcio 1gr c/24hs
+-Latanoprost colirio c/24hs
+-Omeprazol 20mg c/24hs
+
+
+PROCÉS ACTUAL
+Paciente de 84 años, con los antecedentes descritos, es vista asintomática por familia en última ocasión el día 04/08/2017 a las 22.30 horas aproximadamente. Al día siguiente 05/08 familia se encuentra a paciente a las 07.30 presentando deficit motor de hemicuerpo izquierdo, motivo por el que contactan con SEM que activan código ictus, y se procede a traslado a nuestro centro. Llegada a las 08.33, es atendida inmediatamente por neurología de guardia.
+
+
+EXPLORACIÓ FÍSICA
+
+FC	78 bpm
+Tªaxi 36.3 ºC
+FR	rpm Tªrec  ºC
+TA s	129 mmHg SAT O2 99 %
+TA d   65 mmHg Pes Kg
+
+EXPLORACION EN URGENCIAS
+TA s 160 mmHg TA d 80 mmHg
+NRL: Vigil, orientada, atenta, disartria leve, no otros deficitrs del lenguaje, preferencia de la mirada colnjugada a la derecha , HHI, PFCI, paresia de extremidades izquierdas, hipoewstesia de hemicuerpo izquierdo, no dismetrias. No anosognosia ni asomatognosia. Extincion sensitiva izquierda de EII
+NIHSS :00012/20202/01011: 12
+
+EXPLORACIÓN AL ALTA:
+NRL: Vigil, orientad, atenta, no deficits del lenguaje, no deficit campimetrico, movilidad conjugada de los ojos sin anormalidades, no deficit de PPCC, no deficit motor contra gravedad, hipoestesia de hemicuerpo izquierda. No dismetrias. No anosognosia ni asomatognosia.
+NIHSS : 00000/00000/01000: 1
+
+
+EXPLORACIÓ COMPLEMENTÀRIA
+ANALÍTICAS:
+-AS (ingreso): Hb 12.2 g/dL, Plaqu 186 K/mcL, Leuc 9.34 K/mcL (N: 80.1 %, L: 10.1 %), Tasa protrombina 80 %, INR 1.14, Gluc 121 mg/dL, Ur 45 mg/dL, Cr 0.67 mg/dL, Colesterol 152 mg/dL, Colesterol HDL 49 mg/dL, Colesterol LDL 86 mg/dL, Triglicèrid 85 mg/dL, Ió sodi 140 mEqu/L, Ió potasi 4 mEqu/L, TnT 15.5 ng/L
+-AS control:Hemoglobina * 10.9 g/dL, resto sin alteraciones relevantes. ECG:
+-Ritmo sinusal, QRS estrecho, en alguna ocasión irregular
+-En estudio holter se objetiva fibrilación auricular, revisando trazado de registro de Unidad de Ictus se objetivan episodios de fibrilación auricular paroxística, que no han producido alarma en monitor.
+
+Informe de Trasllat a Sociosanitari
+
+
+
+
+
+PRUEBAS DE IMAGEN:
+-Rx de tórax. Rx AP de tórax, bien inspirada, bien pentrada, rotada. No se observan aumentos de densidad compatibles con condensación, no pinzamiento de senoc costofrénicos. ICT dentro de normalidad.
+
+-Estudio  eco-doppler (ingreso):  Ateromatosis carotídea  de  predominio derecho que  no  condiciona  estenosis significativa (VSM 105 cm/seg en origen de ACI derecha). Carótidas y vertebrales sin alteraciones hemodinámicas.
+
+DTC:Aumento de velocidad en M2 derecha, sin diferencia significativa respecto  a contralateral (VSM de 100 cm/seg en derecha, VSM de 90 cm/seg en izquierda), manteniendo flujo laminar y sin caída de flujo posterior. Resto sin alteraciones.
+Basilar sin alteraciones.
+
+-TC multimodal: Estudi TC que mostra una extensa àrea de penombra isquèmia del territori superficial i profund de la ACM dreta, amb una estenosi significativa i no oclusiva del segment M2 de la ACM dreta i posterior permeabilitat distal (trombe hiperdens).
+
+-Ecocardiografría: -Ventricle esquerre no dilatat lleugerament hipertròfic amb funció contràctil global i segmentària normals . -Prótesis biològica en posició aòrtica sent lleugerament estenòtica -Insuficiència mitral lleugera (I). - Insuficiència tricuspídea severa ( III)
+
+-Tc de control 24 horas post-rtPA: Infart establert subagut a territori ACMD amb petit punt de transformació hemorràgica.
+
+
+EVOLUCIÓ CLÍNICA
+En urgencias se objetiva paciente vigil, presentando clínica de PACI derecho: hemianopsia homónima izquierda, paralisis facial central izquierda y hemiparesia+hemihipoestesia izquierdas (NIHSS: 12). Se decide realizar TC multimodal que muestra ASPECTS de 9, sin alteraciones objetivables en angio-TC, y con estudio perfusión que muestra mismatch de ACM derecha de 100%. Se realiza estudio eco-doppler que muestra soplo a nivel de M2, con flujo disminuido posteriormente.
+
+Por tanto, se orienta caso como ictus isquémico ACM derecha, mecanismo embólico, etiología no determinada en momento actual, pendiente de completar estudio. Paciente candidata a tratamiento fibrinolítico, por lo que se realiza administración de un total 63mg rtPa, inicio de bolus a las 09.15 horas. Perfusión cursa sin incidencias, se explora a paciente durante la misma objetivando mejoría de deficit motor.
+
+Se decide ingreso en Unidad de Ictus, bajo cuidados semi-intensivos, para vigilancia neurológica, monitorización y ampliación de estudio.
+
+Paciente ingresa en Unidad de Ictus, hemodinámicamente estable y afebril a su llegada. En ECG inicial se objetiva ritmo sinusal, posteriormente en estudio Holter se objetiva fibrilación auricular, se revisa registro ECG-24hrs de Unidad de Ictus confirmando episodios de fibrilación auricular paroxística.
+
+TC simple 24 horas post-rtPA muestra leve punto de transformación hemorrágica, por lo que se demora hasta las 48 horas el inicio de tratamiento de profilaxis secundaria, posteriormente se inicia tratamiento anticoagulante con enoxaparina a dosis anticoagulantes y sintrom.
+
+Informe de Trasllat a Sociosanitari
+
+
+
+
+Se realiza ecocardiografía transtorácica que muestra estabilidad de la valvula protésica aortica, no otras causas cardioembólicas.
+
+A nivel neurológico, mejoría clínica progresiva, persistiendo deficit motor facio-braquio-crural izquierdo, así como deficit sensitivo hemicuerpo izquierdo (NIHSS: 1).
+
+Por tanto, se orienta caso como ictus isquémico ACM derecha, mecanismo embólico, etiología cardioembólica, secundario a fibrilación auricular de novo, objetivada durante monitorización en Unidad, se inicia por tanto tratamiento anticoagulante como profilaxis secundaria. Durnte ingreso se inicia rehabilitación, con buena evolución clínica posterior.
+Ante estabilidad clínica, se decide alta a centro sociosanitario para continuar rehabilitación y finalizar gestión socio-sanitaria. Se realiza traslado a _SS_ día 16.8.2017
+
+
+Escalas al alta:
+-NIHSS: 00000/00000/01000:1
+-mRs: 4 (Requiere ayuda de una persdona para caminar)
+-Barthel:35
+
+
+DIAGNÒSTICS
+436/5 Ictus isquémico ACM derecha, etiología cardioembólica, secundario a fibrilación auriculr de novo 401.9/4 Hipertensió arterial inespecificada
+272.4/1 Dislipemia
+424.1/3 Estenosi valvula aortica 715.90/3 Osteoartrosi
+278.02 Sobrepès 553.3/1 Hernia hiatal
+427.31 Fibril·lació auricular paroxística
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+-	Tratamiento farmacológico
+-	Sintrom según pauta
+-	Atorvastatina 80mg/24hrs
+-	Resto de medicación sin cambios.
+
+-	Dieta baja en sal y grasas.
+-	Abandono del consumo de tabaco y reducción del consumo de alcohol.
+-	Control de los factores de riesgo cardiovascular
+-	Colesterol (LDL) <100 mg / dl
+-	Tensión arterial sistólica <140mmHg / Diastólica <90mmHg
+
+
+CONTROL
+-Visita de control en Neurología de nuestro centro (Edificio de Consultas Externas primera planta)
+-Control de los factores de riesgo cardiovascular por su equipo de atención primaria.
+
+Informe de Trasllat a Sociosanitari
+
+
+
+
+
+DESTINACIÓ A L'ALTA:	SOCI SANITARI
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+16.08.2017
+Pàgina 1 de 5

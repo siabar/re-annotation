@@ -1,0 +1,84 @@
+T0	Fecha_de_ingreso 234 244	03.08.2017
+#0	AnnotatorNotes T0	2017-08-03
+T1	HORA 245 250	23:52
+#1	AnnotatorNotes T1	23:52
+T2	Fecha_de_alta 256 266	09.08.2017
+#2	AnnotatorNotes T2	2017-08-09
+T3	Hora_de_alta 267 272	12:06
+#3	AnnotatorNotes T3	12:06
+T4	SECCION_DIAGNOSTICOS 318 333	DIAGNÒSTIC ALTA
+T5	Hemorragia_cerebral 376 390	AVC HEMORRAGIC
+T7	_SUG_Hemorragia_cerebral 397 405	HEMATOMA
+T9	_SUG_Localizacion 450 455	LACIO
+T15	_SUG_Etiologia 3882 3894	HIPERTENSIVA
+T16	HORA 4045 4047	13
+#16	AnnotatorNotes T16	13:00
+T17	FECHA 4054 4059	03/08
+#17	AnnotatorNotes T17	2008-03-UNDEF-day
+T18	_SUG_Ictus_isquemico 4089 4094	ictus
+T19	_SUG_Lateralizacion 4217 4225	derechas
+T20	_SUG_Hemorragia_cerebral 4265 4273	hematoma
+T21	_SUG_Localizacion 4274 4282	talámico
+T22	_SUG_Lateralizacion 4283 4292	izquierdo
+T23	_SUG_Lateralizacion 4475 4480	dicho
+T24	_SUG_Hemorragia_cerebral 4503 4520	hematoma cerebral
+T25	_SUG_Localizacion 4521 4529	profundo
+T26	_SUG_Etiologia 4552 4564	hipertensiva
+T27	_SUG_Lateralizacion 4565 4566	e
+T28	_SUG_Ictus_isquemico 4588 4593	ictus
+T29	_SUG_Hemorragia_cerebral 4827 4844	hematoma cerebral
+T30	_SUG_Localizacion 4867 4883	intraventricular
+T31	_SUG_Localizacion 5002 5011	posterior
+T32	SECCION_MOTIVO_DE_INGRESO 482 500	MOTIVO DE CONSULTA
+T33	SECCION_ANTECEDENTES_PATOLOGICOS 665 689	ANTECEDENTES PATOLOGICOS
+T34	FECHA 732 746	marzo del 2017
+#34	AnnotatorNotes T34	2017-03-UNDEF-day
+T35	FECHA 1059 1075	octubre del 2016
+#35	AnnotatorNotes T35	2016-10-UNDEF-day
+T36	FECHA 1302 1316	enero del 2017
+#36	AnnotatorNotes T36	2017-01-UNDEF-day
+T37	SECCION_PROCESO_ACTUAL 1654 1669	EPISODIO ACTUAL
+T38	Hora_inicio_sintomas 1677 1679	13
+#38	AnnotatorNotes T38	13:00
+T39	Fecha_llegada_hospital 1686 1691	03/08
+#39	AnnotatorNotes T39	2017-03-08
+T40	Hora_llegada_hospital 1943 1948	14:31
+#40	AnnotatorNotes T40	14:31
+T41	SECCION_EXPLORACION_FISICA 1952 1970	EXPLORACION FISICA
+T42	NIHSS_previa 2415 2454	NIHSS (0-2-0-0-0-1-1-0-2-0-0-0-2-2-0)10
+T43	_SUG_NIHSS 3026 3065	NIHSS (0-1-0-0-0-0-1-0-1-0-0-1-0-1-0) 5
+T44	SECCION_EXPLORACIONES_COMPLEMENTARIAS 3068 3097	EXPLORACIONES COMPLEMENTARIAS
+T45	TAC_craneal 3327 3337	TC craneal
+T46	Hora_TAC_inicial 3346 3351	14:33
+#46	AnnotatorNotes T46	14:33
+T47	_SUG_TAC_craneal 3509 3511	TC
+T48	_SUG_TAC_craneal 3522 3532	TC craneal
+T49	FECHA 3534 3539	04/08
+#49	AnnotatorNotes T49	2008-04-UNDEF-day
+T50	_SUG_TAC_craneal 3634 3636	TC
+T51	FECHA 3740 3745	08/08
+#51	AnnotatorNotes T51	2008-08-UNDEF-day
+T52	SECCION_CONTROL 5614 5625	SEGUIMIENTO
+T53	SECCION_TIPO_DE_INGRESO 5677 5691	Tipus d'ingrés
+T54	FECHA 5824 5834	09.08.2017
+#54	AnnotatorNotes T54	2017-08-09
+T55	FECHA 5876 5886	09.08.2017
+#55	AnnotatorNotes T55	2017-08-09
+T56	HORA 5887 5892	12:49
+#56	AnnotatorNotes T56	12:49
+T57	mRankin_previa 657 662	mRS 2
+#4	AnnotatorNotes T57	2
+T58	Fecha_inicio_sintomas 1686 1691	03/08
+#5	AnnotatorNotes T58	2017-03-08
+#6	AnnotatorNotes T42	10
+T59	Fecha_TAC_inicial 3339 3344	03/08
+#7	AnnotatorNotes T59	2017-03-08
+T60	NIHSS_alta 5113 5129	NIHSS al alta: 5
+#8	AnnotatorNotes T60	5
+T61	mRankin_alta 5131 5145	mRs al alta: 3
+#9	AnnotatorNotes T61	3
+T62	SECCION_TRATAMIENTO_AL_ALTA 5147 5166	TRATAMIENTO AL ALTA
+T63	SECCION_MOTIVO_DEL_ALTA 5693 5705	Motiu d'alta
+T64	Tratamiento_anticoagulante_alta 5188 5199	Enoxaparina
+T6	Localizacion 406 413	CAPSULO
+T8	Localizacion 414 421	TALAMIC

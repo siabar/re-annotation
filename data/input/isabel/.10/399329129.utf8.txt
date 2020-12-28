@@ -1,0 +1,82 @@
+INFORME ALTA HOSPITALARIA
+_NAME_
+Núm. Episodi: _ID_ Núm. HC: _ID_
+_SS_ _LOCATION_
+_LOCATION_
+Tel. _CONTACT_Adreça: _LOCATION_	C.A.P.: CAP _SS_
+Població: _LOCATION_	Sexe: DONA  Data naixement: _DATE_  Edat: 69a
+Telèfon: _CONTACT_  C.P.: _LOCATION_	T.I.S.: _ID_   DNI/NIF: _ID_
+
+Procedència:	Data Ingrés Hospital: 30/07/2017
+Servei assistencial: NEUROLOGIA HOSP	Data Ingrés Servei: 31/07/2017
+Metge Responsable: _NAME_	Data Alta: 8/8/2017
+
+MOTIU DE CONSULTA: Traida a UCIAS por el SEM en el contexto de Código Ictus.
+ANTECEDENTS PERSONALS:
+1.	Intolerància a AINEs y Ciprofloxacino (cuando lo toma aparecen vasculitis en las piernas).
+2.	HTA.
+3.	DL en tto dietético.
+4.	DM tipo 2 en tto con ADOs.
+5.	Psoriasis. Sigue control por DER (Dr _NAME_, proxima visita 18/03/15).
+6.	Adenocarcinoma de colon de bajo grado sin afectación ganglionar (T2N0M0). Tratada con IQ + RTP el 2010. Sigue controles con CE de ONC con Dr _NAME_. Portadora de Port-a-cath en subclavia derecha.
+7.	Sarcoïdosis diagnosticada por TAC el 2010. Espirometrias normales. Broncoscopia (2010): proceso inflamatorio difuso, citologias negativas para malignidad, biopsia + con granulomas no caseificantes, BK negativos. Presenta tos y expectoracion habituales. Primer cultivo positivo por Pseudomona Aeruginosa el 03/10/14, multisensible. Segun cultivo positivo el 08/01/15, tambien multisensible. No mejoró con tratamiento ATB orales, y finalmente se decide ingreso a HaD para tto ATB parenteral con Ceftazidima.
+8.	Anèmia ferropenica para la cual hace tandas de Fe oral.
+9.	Hiperuricemia.
+10.	Estenosis esofagica en seguimiento por Digestivo que ha requerido de dilataciones. Proxima programada en setiembre de 2017. Situación basal: Vive con la família. Independiente para las ABVD. Funciones superiores conservadas.
+Barthel 100 (independiente para las ABVD).
+
+MALALTIA ACTUAL:
+Paciente mujer de 69 años que acude a urgencias traída por el SEM en contexto de código ICTUS.
+Refiere que encontrándose previamente bien, inicia sobre las 20.00h del día de hoy (29/07/2017) sensación de parestesias y dificultad para movilizar el brazo y pierna izquierdos que se ha mantenido hasta la llegada al hospital. No fiebre, no dolor torácico ni ninguna otra sintomatología acompañante. Inicio dee símptomas 20:00, llegada _SS_ 20:47, TC crani: 21:20, bolus 21:35 (TPA de 48min, OTT de 95min).
+
+EXPLORACIÓ FÍSICA:
+En UCIAS:Paciente C y O. NH y NC.
+NRL: Plejia de pierna izquierda y paresia de brazo izquierdo (mueve contra gravedad pero claudica). pupilas isocoricas normoreactivas, no afasia de nominación ni de compresión, sensibilidad conservada menos la izquierda, fuerza conservada menos hemicuerpo izquierdo 3/5 ESI y 1/5 EII. no ataxia, no facial, no pares craneales. nishh 8
+En planta de Neurología:Constantes: FC 83 lpm, TA 160/75, Temp 36º©, gluc 90. NHISS 6.
+NRL: Consciente, orientada en las tres esferas. No alteraciones del lenguaje ni la marcha. No otra sintomatologia acompañante. La actora presentaba un Rankin modificado previo de 0 que se mantiene igual posteriormente al episodio ictal.
+
+EXPLORACIONS COMPLEMENTÀRIES: En UCIAS:
+1.	Analitica general: Hto 29.8  ; Hb 10.5   g/dl ; Plaquetes  300   x1E9/L ;Leucòcits  9.43  x1E9/L (  58.4  N, 31   L,  Mo, 9.4 Bandes); PCR 3.59 .Glucosa  121.3  mg/dl; Urea 47.7   mg/dl ;Creatinina  1.2   mg/dl ; Na 130   mmol/L; K 3.5   mmol/L . Tpr 96%.
+2.	TAC craneal: Sobre-expresión de surcos de la convexidad de predominio supratentorial fronto-temporal, se asocia a leve dilatación de los ventrículos laterales que mantienen una morfología conservada. Hipodensidad de la sustancia blanca subcortical hallazgo compatible con enfermedad de pequeño vaso (leucoaraiosis). Infarto lacunar antiguo en núcleo lenticular derecho. No se observan alteraciones de aspecto agudo en el momento de la exploración en el parénquima cerebral. No signos de sangrado extra-intraxial. Cisternas basales libres. Estructuras de la línea media centradas. Calcificaciones en sifones carotideos. Sinusopatia maxilar y etmoidal. OD: Sin focalidad neurológica aguda. Signos de leucoaraiosis cerebral.
+En UCI:
+1.	TAC craneal: Sin alteraciones intracraneales de carácter agudo. Patron de retracción corticosubcortical esperado en este grupo de edad. Hipodensidad de la sustancia blanca subcortical hallazgo compatible con enfermedad de pequeño vaso (leucoaraiosis). No se observan alteraciones de aspecto agudo en el momento de la exploración en el parénquima cerebral. No signos de sangrado extra-intraxial. Cisternas basales libres. Estructuras de la línea media centradas. Calcificaciones en sifones carotideos. Sinusopatia maxilar y etmoidal. OD: Sin alteraciones intracraneales de carácter agudo. Signos de leucoaraiosis y atrofia cerebral.
+En planta de Neurología:
+1.	RNM craneal + ARM intracraneal:  Absència de desplaçaments d'estructures de la línia mitja supra i infratentorials. Cisternes basals i perimesencèfaliques lliures. Lleu dilatació del sistema ventricular, valls silvians i solcs corticals de la convexitat concordant a l'edat de la pacient. Lleu atròfia vermiana. Lleu alteració de senyal de la substància blanca periventricular adjacent a les banyes frontals per leucoencefalopatia hipòxico-isquèmica de petit vas. S'observen múltiples focus d'alteració de senyal a substància blanca subcortical fronto- parietal bilateral i temporal esquerre d'aspecte hipòxic-isquèmic crònic. Infart llacunar a tàlam esquerra i sublenticular dret. No s'observen àreas de restricció de la difusió que indiquin infart agut. Unió crànio-cervical sense anomalies valorables. Imatge suggestiva d'hemangioma a os parietal dret. Signes de sinusopatia amb ocupació de la totalitat dels sins paranasals. Estudi d'artèries intracranials empleant seqüències TOF_3D. Estenosi pre-obstrutiva de la porció cavernosa de l'artèria caròtida interna dreta. Correcta
+1.	
+permeabilitat del segments inclosos a l'estudi de l'artèria caròtida interna esquerra, de les artèries cerebrals mitges, cerebrals anteriors, segment intracranial d'artèries vertebrals, tronc basilar i arteries cerebrals posteriors. Artèria comunicant anterior no visualitzada. Artèries comunicants posteriors presents, hipoplàsiques, sobretot l'esquerre. No veig dilatació aneurismatica en les arteries del poligon de Willis capaç de ser detectadas mitjançant aquesta tècnica. Tronc basilar centrat, no dilatat.
+2.	Eco-doppler TSA:
+-	Arteries Vertebrals: Flux de direcció cranial amb pics de velocitat sistòlica simètrics, 74,5 cm/s al costat dret vs 82,8 cm/s al costat esquerre.
+-	Eix carotidi pret: Artèria caròtida comú: No s'identifiquen plaques productores d'estenosi significativa de la llum vascular així com tampoc engruiximent significatiu de l'íntima arterial.
+Gruix íntima-mitja a paret posterior de 0,709 mm. Artèria caròtida interna: a bifurcació carotídia/bulb carotidi s'observa engruiximent de l'íntima arterial i petita placa calcificada a la paret posterior que causa una estenosi <50%. Els registres espectrals no mostren signes d'alteració hemodinàmica, amb un pic sistòlic de velocitat màxima, concordant ( PSV) ICA de 95,2 cm/s i un quocient també concordant de ICA/CCA 1,25.
+-	Eix carotidi esquerra: Artèria caròtida comú: No s'identifiquen plaques productores d'estenosi significativa de la llum vascular així com tampoc engruiximent significatiu de l'íntima arterial. Gruix íntima-mitja a paret posterior de 0,663 mm. Artèria caròtida interna: a bifurcació carotídia/bulb carotidi s'observa engruiximent de l'íntima arterial i alguna petita placa calcificada que causa una estenosi <50%. Els registres espectrals no mostren signes d'alteració hemodinàmica, amb un pic sistòlic de velocitat màxima, concordant ( PSV) ICA de 99,4 cm/s i un quocient també concordant de ICA/CCA 1,06.
+3.	Eco-cardio transtoracico (doppler):
+-Ecocardiografia:  No vessamet pericàrdic. VI moderadament hipertròfic, no dilatat, amb bona contractilitat global i segmentaria. VD de funció conservada. AE no dilatada. Arrel aòrtica no dilatada. Ao trivalva amb esclerosis important dels seus vels i moviments moderadament restringits. Mitral de vels lleugerament engruixits i moviments conservats. VCI no dilatada.
+-Doppler: Doble lesió aòrtica degenerativa, amb estenosis aòrtica moderada i insuficiència lleugera. IM molt lleugera. Absència de IT que no permet estimar la PAPs.
+-CONCLUSIONS: DOBLE LESIÓ AÒRTICA DEGENERATIVA: ESTENOSIS MODERADA I INSUFICIÈNCIA LLEUGERA FE CONSERVADA.
+4.	Holter cardio: Ritmo sinusal con QRS ancho y con FVM dentro del rango de normalidad. NO presenta pausas ni alteraciones de la conducción AV. No presenta FA. Una única tripleta EEAA. EEAA y EEVV aislada muy poco frecuente
+EVOLUCIÓ:
+Paciente mujer de 69 años con FRCV que acude a urgencias el día 29/07/2017 traída por el SEM en contexto de código ICTUS. La paciente refirió que encontrándose previamente bien, inicia sobre las 20.00h del dia referido sensación de parestesias y dificultad para movilizar el brazo y pierna izquierdos que se mantuvieron  hasta la llegada al hospital. No otra sintomatología acompañante.
+Se realiza TC craneal urgente que no muestra LOEs ni sangrado. No se puede realizar angioTC por presentar alergia al Yodo. Se decide fibrinolizar por no existir contraindicación médica. La paciente recupera ad integrum a los 15 min del bolus por lo que se decide no trasladar _SS_ para rescate intraarterial. Posteriormente ingresa a SEMI.
+En SEMI la paciente presenta recuperación ad integrum, a la exploración no muestra déficits motores ni sensitivos en las 4 extremidades, pupilas isocoricas y reactivas, pares craneales normales, no dismetrias, no afasia ni disartria.
+A exploración física destaca soplo sistólico panfocal de mayor intensidad en foco aórtico. Se pauta AAS. Es valorada por logopedia, tiene antecedentes de estenosis esofágica que ha precisado varias dilataciones (última en enero de 2017), seguimiento con Digestivo. De momento no puede deglutir. Dado que la paciente se recupera del ICTUS se alta a planta de Neurologia.
+En planta de Neurología la paciente se encuentra hemodinámicamente estable y sin hallazgos significativos a la exploración neurológica. Presenta disfagia para solidos. Dado que el episodio ictal no justifica en este momento la clínica presentada por la actora así como los antecedentes digestivos que presenta la misma, se considera oportuno realizar interconsulta con digestivo para valoración.
+Valorada por digestivo. Presenta buena tolerancia a líquidos. En la anamnesis, la paciente refiere disfagia a sólidos progresiva las semanas previas al episodio de ictus, realizando dieta adaptada blanda. Solicitan endoscopia digestiva alta terapéutica para valorar nueva dilatación en donde se pone de manifiesto unan Estenosis esofágica con anillo fibroso en esófago todo el estrecho y con mucosa fragil. Se efectua ilatación esofágica sin complicaciones. En la RNM.ARM realizada se pone de manifiesto la presencia de una Estenosis pre-obstrutiva de la porción cavernosa de la arteria carótida interna derecha que podría justificar la clínica presentada por la paciente. Se considera oportuno solicitar interconsulta con cirugía vascular para valorar posibilidades terapéuticas intervensionistas vs tratamiento conservador de forma ambulatoria. A alta paciente NIHSS 0, Barthel 100, mRS0.
+
+JUDICI CLÍNIC:
+Estenosi pre-obstrutiva de la porció cavernosa de l'artèria caròtida interna dreta.
+Ictus isquémico, territorio de ACM derecha de origen aterotrombotico (PACI) 434.11
+
+TRACTAMENT:
+Atorvastatina 80mg/noche, Lorazepam 1mg/nit, Citalopram 20mg/dia, Omeprazol 40mg/dia, Metformina 850 1-1-1, Balzac Plus 1-0-0 AAS 100 1c/dia, Avamys 27,5 2-0-2, Pulmicort 200 1-0-1, Citar C.Ext Dr _NAME_ , Control FRCV en CAP
+Atentamente, Signat:
+Dr/a.: _NAME_
+Metge adjunt - Neurologia Número col·legiat: _ID_
+
+Signat:
+Dr/a.: _NAME_
+Metge resident
+Número col·legiat: _ID_
+
+Hospitalització
+Imprès: 14/08/2017 02:44
+Pàg.: 1 de  2

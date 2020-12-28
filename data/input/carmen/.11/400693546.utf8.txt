@@ -1,0 +1,123 @@
+_SS_
+_LOCATION_)  Tlf. _CONTACT_
+INFORME ALTA HOSPITALITZACIÓCIP	_ID_	Data Naix.   _DATE_	Edat 59	Sexe Home   NASS	_ID_
+Adreça   _LOCATION_	CP	_LOCATION_
+Població_LOCATION_	Tel.	_CONTACT_
+Episodi  _ID_	Admissió	17.08.2017 08:52	Alta	21.08.2017 13:03
+Servei	NEUUOHMB Neurologia	Unitat	U04UHHBL
+
+
+
+DIAGNÒSTIC ALTA
+
+Codi ICD-9	Descripció Diagnòstic
+434.91/9	AVC
+
+DADES INFORME
+
+Paciente de 59 años que ingresa con sospecha de AIT y crisis HTA.
+
+ANTECENDETES PATOLÓGICOS
+-No alergias medicamentosas conocidas.
+-No refiere tabaquismo.
+-Hábito enólico de 20-40 gramos/día.
+-Cifras tensionales elevadas en algun control rutinario en MAP. Se realizó en 2010 MAPA de TA que mostró cifras al límite sin criterios de tratamiento médico. El paciente refiere en aquel momento controles de TA de 134/80, 137/81. Posteriormente no ha realizado controles.
+-HIpoacusia izquierda desde la infancia.
+-No tratamiento habitual.
+
+-Vive con esposa. mRS 0. Trabaja de camarero.
+
+ENFERMEDAD ACTUAL
+El 16/8/17 hacia las 6:15h, mientras deambulaba por el pasillo de su domicilio, presenta de forma brusca debilidad/torpeza en EIDerecha que le dificultaba la marcha y arrastraba la pierna al andar, sin otra clínica neurológica acompañante. No cefalea, ni dolor en extremidad.  Previamente estaba asintomático, se había despertado
+bien y había ido al baño a asearse sin dificultad. Llama a SEM que lo trae a nuestro centro.
+EXPLORACIÓN FISICA
+-A su valoración por equipo de urgencias y UCI, 16/8/17, 7:24h:
+Constantes vitales: PA 224/123mmHg, FC 94, Sat basal O2 96%, Glucemia capilar 100.
+NRL: C y O, lenguaje normal, no dismetrías, PPCC normales, campimetría normal, no focalidad motora ni sensitiva, NIS  0. No exploramos marcha.
+
+-A su valoración por neurología, 16/8/17, 9:30h: Afebril. TA 183/100. FC 75. Sat 99%.
+Conciente y orientado. NO alteraciones del habla ni lenguaje. No alteraciones campimétricas. PPCC normales. Fuerza, sensibilidades normal. No extinción sensitiva. NO dismetrías TR ni DN. Marcha normal. RMTs 1, RCP flexores.  NIHSS  0.
+
+EXPLORACIONES COMPLEMENTARIAS
+NHC	_ID_	Pacient	_NAME_
+
+
+-	Analítica sanguínea 16/8/17 : sin alteraciones.
+
+-	ECG 16/8/17 : ritmo sinusal a 90 lpm, eje 0, PR 120 ms, QRS estrecho, no ondas Q patológicas, no alteraciones agudas de la repolarización.
+
+-	TC craneal 16/8/17 :
+No se objetivan colecciones hemáticas intra ni extraparenquimatosas. Estructuras de la línea media
+centradas. Cisternas de la base y peritronculares libres Sistema ventricular de tamaño, situación y configuración conservados. Discreto ensanchamiento de surcos en relación a cambios involutivos acordes con la edad de la paciente.
+Hipodensidades difusas que afectan a la sustancia blanca subcortical y periventricular de ambos hemisferios cerebrales, compatibles con áreas de desmielinización de origen hipóxico-isquémico crónico. No se aprecian alteraciones a nivel de las estructuras óseas. No se observa ocupación de seno paranasales.
+
+-Ecodoppler TSA 16/8/17: conclusions eix dret: Engruiximent íntima-mitja CPD.
+Placa hiperecogènica a bifurcació carotídia que provoca estenosi del 30% a CID i del 50% a CED. Artèria subclàvia trifàsica.
+Artèria vertebral percebuda i anterògrada. conclusions eix esquerre:
+Engruiximent íntima-mitja CPE.
+Placa hiperecogènica a CIE que provoca estenosi del 30%. Artèria subclàvia trifàsica.
+Artèria vertebral percebuda i anterògrada. Grau de fiabilitat Alta
+
+-Ecocardiograma TT 17/8/17:
+-	Ventricle esquerre no dilatat, severa hipertròfia septeanterior-basal-.mig assimètrica amb obstrucció lleugera provocable (gradent dinàmic amb maniobres de valsalva) amb funció ventricular conservada (FE per Simpson 70%), sense alteracions en la contractilitat segmentària
+-	Aurícula esquerre moderadament dilatada
+-	Sense valvulopaties
+-	Aletració diastòlica tipus I
+
+-RM craneal con angioRM IC 17/8/17: HALLAZGOS:
+Infarto lacunar subagudo capsulo-lenitcular izquierdo, en territoiro de las arterias lenticuloestriadas. Infartos lacunares cronicos capsulolenticulares bilaterales.
+Estructuras de la línea media centradas.
+Hiperintesidades de la sustancia blanca periventricular y en ambos centros semiovales, en relación con focos de desmielinización de origen hipóxico crónico / involutivo.
+Focos de microsangrado cronicos GGBB y corticales supratentoriales bilaterales.
+Leve dilatación del sistema ventricular supratentorial, acorde con prominencia del espacio subaracnoideo que
+
+
+recubre la convexidad de ambos hemisferios cerebrales, en relación a atrofia cótico-subcortical moderada. Cisternas de la base , peritronculares y del ángulo ponto-cerebeloso libres.
+Charnela cráneo - cervical sin anomalías valorables.
+Sifones carotídeos normales, sin desplazamientos, con correcta visualización de emergencia de arterias cerebrales anteriores y medias así como de sus comunicantes. No se observa dilatación o estrechamiento circunscritos. Imagen homogénea de relleno de la luz vascular.
+Arteria basilar de trayecto y calibre normal. Visualización de arterias cerebrales posteriores y cerebelosas superiores, sin alteraciones significativas.
+CONCLUSIÓN:
+Infarto lacunar subagudo capsulo-lenitcular izquierdo, en territoiro de las arterias lenticuloestriadas. Atrofia córtico-subcortical.
+Areas de desmileinizacion de probable origen hipoxico-isquémico crónico que afectan a la sustancia blanca subcortical y periventricular de ambos hemisferios cerebrales, y que asociado a la presencia de infartos lacunares crónicos en territorio de las arterias perforantes de la circulacion anterior y a los focos de microsangrado crónico, sugieren un origen microangiopaticohipertensivo.
+
+-Analítica 18/8/17: se adjunta. Destaca:
+Srm_Triglicèrid; c.subst. * 1.98 mmol/L 0.45 - 1.70 Srm_Colesterol; c.subst. * 5.80 mmol/L < 5.20 lviv Srm_Colesterol d´HDL; c. subst. 1.15 mmol/L > 1.04 lviv
+Srm_Colesterol d´LDL (càlcul Friedewald) * 3.75 mmol/L < 3.36 lviv
+
+-Holter cardiológico 28/8/17: pendiente de informe definitivo.*
+
+EVOLUCIÓN Y COMENTARIOS
+Paciente de 59 años que consulta por debilidad/descoordinación en EID de inicio ictal el 16/8/17 a las 6:15h. A su llegada se activa código ictus intrahospitalario a las 7:07h.
+Es valorado por equip de UCI, la exploración neurológica a las 7:24h no muestra alteraciones, NIH 0.
+Destaca que a su llegada HTA con TA 240/140 por lo que se administra bolus de labetalol ev. Se realiza estudio analítico, ECG y TC craneal que no muestra alteraciones significativas.  Se orienta como posible AIT vs ictus minor, sin indicación de tratamiento recanalizador + Crisis HTA  y se realiza interconsulta a NRL.
+
+Tras ser valorado por neurología se decide ingreso. La RM craneal objetiva infarto lacunar subagudo capsulo-lenticular izquierdo, en territorio de las arterias lenticuloestriadas.  El estudio vascular no muestra
+ateromatosis significativas a nivel intra ni extracraneal ni cardiopatía embolígena. Durante el ingreso se mantiene neurologicamente asintomático, precisando para control de cifras tensionales ramipril y hidroclortiazida. Se pauta tratamiento hipolipemiante con atrorvastatina 40mg, que debe ser suspendido por intolerancia (mialgias), por lo que se valorará nuevo tratamiento por parte de atención primaria tras remitir los sintomas.
+
+ORIENTACIÓN DIAGNÓSTICA:
+-Infarto lacunar subagudo capsulo-lenitcular izquierdo, en territorio de las arterias lenticuloestriadas (LACI). NIHSS 0. mRS 0.
+-Crisis HTA
+
+Plan al alta:
+-Iniciar tratamiento con adiro 100mg 0-1-0
+-Ramipril  5mg 1-0-1
+-Hidroclortiazida 25mg 1-0-0
+-Omeprazol 20mg 0-0-1
+
+-Control de factores de riesgo por atención primaria.
+-Acudir a consultas de neurologia el dia citado.
+
+
+Tipus d'ingrés: Motiu d'alta:	Urgent Alt.Mèd.Domicil	
+Metge Adjunt:
+_ID_
+Servei:	_NAME_
+
+NEUUOHMB Neurologia	Nº Col·legiat Adjunt:
+
+Data informe:  21.08.2017
+
+
+Pàgina 1 de	4
+Data i hora d'impressió:
+21.08.2017 13:48:35

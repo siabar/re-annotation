@@ -1,0 +1,167 @@
+_LOCATION_ Tel. _CONTACT_
+e-mail: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 42 Anys
+NIF/DNI: _ID__NAME_; _NAME_;.
+ _NAME_;_NAME_
+Informe d'alta d'hospitalització
+14:01:18
+16.08.2017
+_LOCATION_
+_SS_ NEUROLOGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_; _CONTACT_
+DOMICIL/RES.SOC 10.08.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Alteración de la emisión del lenguaje y debilidad de extremidades derechas
+
+ANTECEDENTS
+Mujer de 42 años, sin alergias medicamentosas conocidas ni hábitos tóxicos. Situación funcional previa: Independiente para las ABVD.
+
+Antecedentes familiares: Padre con insuficiencia renal crónica y cardiopatía isquémica en edad joven. Abuela con ictus isquémico a los 73 años. Tía materna con ictus isquémicos y trombosis venosas profundas de repetición a los 68 años. 2 hermanos sanos. 2 hijos sanos. No antecedentes de enfermedades autoinmunes en la familia.
+
+ANTECEDENTES PATOLÓGICOS
+-	Dos partos eutócicos. Refiere un aborto en el primer trimestre entre ambos embarazos.
+-	Historia  de  tirotoxicosis  por  enfermedad  de  Graves  Basedow  hace  años  por  la  que  recibió  tratamiento. Actualmente asintomática sin tratamiento.
+-	Amigdalitis estreptocócica de  repetición  en  los  últimos 2  años, con  psoriasis guttata  posterior. Se  realizó amigdalectomía hace un mes.
+-	Niega antecedentes de migraña.
+-	No antecedentes que sugieran conectivopatía ni lívedo reticulares.
+-	Niega antecedentes de TVP.
+-	No historia de astenia, síndrome tóxico ni dolor torácico.
+-	No toma de anticonceptivos orales
+
+MEDICACIÓ HABITUAL
+No refiere. No toma de anticonceptivos orales.
+
+PROCÉS ACTUAL
+El 10.08.17 a las 18.55 horas, estando en sedestación y en reposo y sin maniobras de Valsalva simultáneas, nota de manera brusca debilidad de extremidades derechas, imposibilidad para la emisión del lenguaje y trastorno visual campimétrico derecho. Se activa código ictus desde domicilio por parte de SEM a las 19.20 horas y la paciente llega a nuestro centro a las 19.30 horas.
+
+EXPLORACIÓ FÍSICA
+
+FC	70 bpm
+Tªaxi 36.0 ºC
+FR	20 rpm Tªrec  ºC
+TA s	90 mmHg SAT O2 100 %
+TA d   60 mmHg Pes Kg
+
+Exploración física en Urgencias:
+Vigil, afasia global, obedece alguna orden simple pero se intoxica. No emite lenguaje, preferencia oculocefálica a la izquierda, hemianopsia derecha por reflejo de amenaza, paresia facial central derecha, plegia braquiocrural derecha, Babinski derecho. Hemihipoestesia derecha. Pupilas normales.
+
+Informe d'alta d'hospitalització
+
+
+
+
+
+NIHSS= 2.2.1.1.2/1(4.0)(4.0)/0.1.2.2.0 = 22.
+
+AC: Ruídos cardíacos regulares sin soplos. Sin soplos carotídeos. Pulsos radiales simétricos. Murmullo vesicular conservado sin ruídos sobreañadidos.
+Tras el primer angioTC craneal: asintomática. NIHSS = 0.
+
+Exploración física en Unidad de Ictus:
+Consciente y orientada en las 3 esferas. Lenguaje sin elementos afásicos ni disartria. Oculomotricidad y campimetría por confrontación sin alteraciones. No paresia facial ni afectación de otros pares craneales. Fuerza y sensibilidad sin alteraciones. RCP flexor bilateral. No dismetrías ni extinciones.
+
+NIHSS 0
+
+Sistémica: AC: tonos cardíacos rítmicos sin soplos ni roces. AR: MVC bilateral sin ruidos sobreañadidos. Abdomen blando y depresible no doloroso a la palpación, no palpo masas ni megalias, peristaltismo presente. EEII sin edemas ni signos de TVP. Pulsos periféricos presentes y simétricos. Piel sin lesiones.
+
+EXPLORACIÓ COMPLEMENTÀRIA
+Analíticas:
+Urgencias (10.08.2017): Hematologia (10/08/17): Leucòcits 14200 /µL, (N 89,1 % / L 7,2 / M 3 / E 0,3 / B 0,4), Hties 4,47 mill/µL, Hb 13,2 g/dL, Hct 39,6 %, VCM 88,6 fL, Plaquetes 249000 /µL, TP 83 %, INR 1,15 sg, TP ratio 1,15, TTPA 26 sg, TTPA ratio 0,84, Fibrinogen 415 mg/dL. Bioquimica (10/08/17): Glucosa 136 mg/dL, Urea 29, Creatinini 0,66, Na 133,2 mmol/L, K 3,7, Ca 8,9 mg/dL, Bilirubina 0,47, CK 55 U/L, Prot-C reactiva 2,8 mg/L. Toxicos (10/08/17): Sangre.- Etanol <10 mg/dL.
+Ingreso (11.08.2017): Hematologia (11/08/17): Leucòcits 7300 /µL, (N 78,1 % / L 15,8 / M 5,3 / E 0,3 / B 0,5), Hties 4,28 mill/µL, Hb 12,9 g/dL, Hct 38,4 %, VCM 89,7 fL, Plaquetes 256000 /µL, TP 78 %, INR 1,2 sg, TP
+ratio 1,2, TTPA 28,4 sg, TTPA ratio 0,92, Fibrinogen 404 mg/dL, VSG 26 mm.
+Estudio Anemias (11/08/17): B12 530 pg/mL, Fòlic 385 ng/mL, Homocisteína 10.50mmol/L.
+Bioquimica (11/08/17): Glucosa 95 mg/dL, HbA1c 5,3 %, Urea 15 mg/dL, Creatinini 0,66, Filtrat glomerular estimat
+>90 mL/min/1.73 m2, Osmolalitat 281 mOsm/Kg, Urat 4,2 mg/dL, Fosfat 3,4, Mg 1,91, Na 139,2 mmol/L, K 4,23, Cl
+107,1, ALT 10 U/L, GGT 14, FA 74, LDH 113, Bilirubina 0,46 mg/dL, Bilirubina directa 0,05, Prot-C reactiva 2,7 mg/L, Proteïna 72,9 g/L, Albumina 41,1. Proteinograma sin alteraciones patológicas.
+Lípids.- Triglicèrid 39 mg/dL, Colesterol 210, (HDL 63,1 / LDL 139). Hormonas (11/08/17): TSH 0,74 µUI/mL.
+Marcadores Tumorales (11/08/17): SCC 0,6 ng/ml, CEA <0,5, a-FP 2,08. Serologias (11/08/17): VIH 1-2 --, Lues-treponèmiques negativo.
+Estudio  de  autoinmunidad  (12/08/2017)   (incluye  Ac  antibeta2glicoproteína  y  anticoagulante  lúpico):	Ac antiperoxidasa tiroidal y antitiroglobulina negativos. Factor reumatoide normal.
+Estudio de tormbofílias (12/08/2017): PENDIENTE
+
+Estudio de orina (14/08/2017): Sedimento negativo. Tóxicos en orina negativos.
+
+Rx tórax (10.08.2017):  ICT dentro de la normalidad. Senos costofrénicos libres. Sin imágenes sugestivas de condensación parenquimatosa ni signos de fallo cardiaco.
+
+TC  craneal  con  angioTC  (10.08.2017):  Leve  hipoatenuación  de  núcleo  lenticulado  izquierdo  que  pudiera
+
+Informe d'alta d'hospitalització
+
+
+
+
+corresponder a signos TC iniciales de infarto isquémico agudo del territorio de ACM izquierda.(ASPECTS 9). Hiperdensidad del segmento M1 de ACM izquierda, compatible con trombosis de la misma. Angio-TC TSA e intracraneal. Oclusión de segmento M1 de ACM izquierda, con presencia de contraste distal al mismo con buena colateralidad.
+
+AngioTC craneal tras mejoría espontánea (10.08.2017): Repermeabilización de segmento M1 de ACM izquierda.
+
+Resonancia magnética cerebral con angioresonancia (11.08.2017): Lesión de aspecto isquémico en el aspecto posterior del putamen, cuerpo del caudado y focalmente en sustancia blanca subinsular todo ello izquierdo. Pequeño foco de hiposeñal SWI en el valle silviano izquierdo que en el contexto no permite descartar pequeño trombo residual en una rama silviana.
+
+Estudio doppler-shunt derecha-izquierda (11.08.2017): Positivo en maniobra de Valsalva con patrón en ducha.
+
+Ecocardiograma transtorácico (14/08/2017): Ventrículo izquierdo no dilatado ni hipertrófico. Función sistólica global y segmentaria conservada. Aurícula izquierda no dilatada. Sin valvulopatías significativas. Cavidades derechas no dilatadas con ventrículo normocontráctil. Sin signos de hipertensión pulmonar. Patrón diastólico normal.Sin masas ni trombos intracavitarios. Foramen oval permeble.
+
+Ecocardiograma transesofágico (16/08/2017): Ausencia de trombos en aurículas, sin ecocontraste espontáneo. Orejuela izquierda con velocidad de vaciado normal. Válvula aórtica trivalva con velos finos, apertura conservada; sin insuficiencia aórtica. Válvula mitral de velos finos; insuficiencia mitral mínima de jet central. Foramen oval permeable, con separación entre hojas de 4,5 mm. Aorta torácica descendente y cayado aórtico sin placas ateroscleróticas. Conclusiones: Foramen oval permeable. Resto de estudio sin diferencias respecto a ETT.
+
+Doppler de extremidades inferiores (16/08/2017):
+Eco-doppler venoso EII: Se realiza estudio de venas femoral común, femoral superficial y poplítea. No se aprecian signos directos o indirectos de TVP en el territorio explorado.
+Eco-doppler venoso EID: Se realiza estudio de venas femoral común, femoral  superficial  y poplítea. No se aprecian signos directos o indirectos de TVP en el territorio explorado.
+Se descarta TVP de EEII
+
+EVOLUCIÓ CLÍNICA
+Mujer de 42 años, sin antecedentes patológicos conocidos salvo amigdalitis estreptocócicas de repetición por lo que se realizó amigdalectomía hace un mes y antecedente de enfermedad de Graves-Basedow hace años sin tratamiento actual.
+
+Informe d'alta d'hospitalització
+
+
+
+
+Consulta el día 10.08 por hemiparesia derecha y afasia global de 30 min de evolución. A su llegada a Urgencias, hemodinámicamente estable y afebril; a la exploración neurológica presenta clínica hemisférica izquierda completa puntuando NIHSS de 22. ECG en ritmo sinusal. Se realiza una analítica que muestra leve leucocitosis sin otras alteraciones. Se realiza TC craneal que muestra signos de isquemia incipiente en putamen (ASPECTS 9); el angioTC muestra oclusión de M1 de ACM izquierda. A la salida del angioTC, la paciente presenta una mejoría neurológica dramática, persisitendo leve sensación de acorchamiento braquial derecho. Se repite el angioTC en ese momento (con 20 minutos de diferencia) que muestra repermeabilización espontánea de segmento M1 de ACM izquierda. Por la recanalización espontánea y la recuperación clínica, no se administra tratamiento de reperfusión y se decide ingreso en Unidad de Ictus Agudos (UIA) para estudio y control evolutivo, con colocación de Holter SRA previo consentimiento informado.
+
+Durante su estancia en la UIA, se mantiene hemodinámicamente estable y afebril. Clínicamente presenta mejoría de la sensación de acorchamiento, persistiendo leve alteración sensitiva únicamente en brazo derecho. Inicia sedestación progresiva y dieta oral sin alteraciones.
+
+Dentro del estudio etiológico, se mantiene bajo monitorización cardíaca sin presentar eventos arrítmicos. Se  realiza estudio de shunt derecha-izquierda mediante dúplex TC para valorar comunicación derecha-izquierda que es positivo, presentando un patrón ducha. Se realiza un ecocardiograma transtorácico y transesofágico, en el que tan sólo destaca foramen oval permeable. El estudio vascular realizado mediante angioTC no ha mostrado ateromatosis ni estenosis de troncos supraaórticos ni intracraneales, ni signos de disección. Revisando las imágenes del angioTC y la angioRM parece que se aprecia un trombo en una rama de la ACM izquierda después de la trifurcación. La paciente niega clínica compatible con enfermedades sistémicas ni conectivopatías así como consumo de tóxicos. Se realiza analítica completa que muestra leve elevación de LDL, por lo que se inician estatinas; marcadores tumorales negativos, estudio de autoinmunidad y trombofílias pendientes en el momento del alta.
+Ante el hallazgo de foramen oval permeable, se solicita ecografía de extremidades inferiores para descartar trombosis venosa profunda de extremidades inferiores, que resulta normal. Se orienta, pues, como un ictus isquémico de territorio de ACM izquierda de probable mecanismo embólico y etiología indeterminada (ESUS). Como tratamiento de prevención secundaria se inicia  antiagregación y estatinas. Al alta queda pendiente de estudio analítico de trombofílias y autoinmunidad.
+Dada la estabilidad clínica y hemodinámica, se decide alta a domicilio para continuar controles ambulatorios. Al alta:
+NIHSS=0
+mRS 0
+
+DIAGNÒSTICS
+-	Ictus  isquémico  de  territorio  de  arteria  cerebral  media  izquierda  de  mecanismo  embólico  y  etiología indeterminada (ESUS).
+-	Foramen oval permeable
+-	Dislipemia
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Dieta cardiosaludable
+Adiro 300mg/24h al mediodía
+
+Informe d'alta d'hospitalització
+
+
+
+
+Atorvastatina 40mg/24h
+
+
+CONTROL
+Control de factores de riesgo cardiovascular por médico de cabecera. Por problemas en el sistema informático, no se puede prescribir medicación de prevención secundaria al alta. Damos comprimidos a la paciente, en espera que se realice prescripción crónica por médico de cabecera
+Primera visita en consultas externas de Neurología con Dra. _NAME_ (primera planta) el día 6.10.2017 a las 10.00h
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+16.08.2017
+Pàgina 1 de 5

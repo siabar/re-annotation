@@ -1,0 +1,91 @@
+T1	Fecha_de_ingreso 265 275	25.12.2017
+#1	AnnotatorNotes T1	2017-12-25
+T2	HORA 278 283	11:16
+#2	AnnotatorNotes T2	11:16
+T3	FECHA 297 307	25.12.2017
+#3	AnnotatorNotes T3	2017-12-25
+T4	HORA 310 315	12:28
+#4	AnnotatorNotes T4	12:28
+T5	_SUG_Lateralizacion 386 393	derecho
+T7	_SUG_Tratamiento_anticoagulante 507 514	sintrom
+T8	Fecha_inicio_sintomas 537 545	25/12/17
+#8	AnnotatorNotes T8	2017-12-25
+T9	Hora_inicio_sintomas 567 568	9
+#9	AnnotatorNotes T9	09:00
+T10	_SUG_Lateralizacion 623 630	derecho
+T11	_SUG_Lateralizacion 660 667	derecho
+T12	_SUG_Tratamiento_anticoagulante 734 741	sintrom
+T14	_SUG_Tratamiento_anticoagulante 789 796	sintrom
+T15	_SUG_Tratamiento_anticoagulante 812 819	sintrom
+T16	NIHSS_previa 1148 1156	NIHSS= 0
+T17	_SUG_Lateralizacion 1232 1239	derecho
+T18	_SUG_TAC_craneal 1290 1292	TC
+T19	_SUG_TAC_craneal 1323 1325	TC
+T20	_SUG_Tratamiento_anticoagulante 1430 1438	heparina
+T22	FECHA 1613 1617	2007
+#22	AnnotatorNotes T22	2007-UNDEF-month-UNDEF-day
+T23	FECHA 1735 1745	12/05/2010
+#23	AnnotatorNotes T23	2010-05-12
+T25	_SUG_Tratamiento_anticoagulante 1947 1954	SIMTROM
+T27	FECHA 2277 2281	2007
+#27	AnnotatorNotes T27	2007-UNDEF-month-UNDEF-day
+T28	FECHA 2301 2311	12/05/2010
+#28	AnnotatorNotes T28	2010-05-12
+T30	_SUG_Tratamiento_anticoagulante 2513 2520	SIMTROM
+T31	FECHA 2652 2660	1/2/2015
+#31	AnnotatorNotes T31	2015-02-01
+T32	_SUG_Lateralizacion 2845 2846	D
+T34	FECHA 3177 3184	06/4/16
+#34	AnnotatorNotes T34	2016-04-06
+T35	Tratamiento_anticoagulante_hab 3214 3221	SINTROM
+T36	FECHA 3410 3420	08.04.2016
+#36	AnnotatorNotes T36	2016-04-08
+T37	_SUG_Lateralizacion 3483 3484	I
+T38	_SUG_Localizacion 3487 3498	VENTRICULAR
+T39	FECHA 3511 3521	07.04.2016
+#39	AnnotatorNotes T39	2016-04-07
+T40	FECHA 3564 3574	10.08.2015
+#40	AnnotatorNotes T40	2015-08-10
+T41	FECHA 3660 3670	07.08.2007
+#41	AnnotatorNotes T41	2007-08-07
+T42	_SUG_Lateralizacion 3897 3904	derecha
+T43	_SUG_Lateralizacion 4252 4253	D
+T44	TAC_craneal 4318 4320	TC
+T45	_SUG_Tratamiento_anticoagulante 4562 4569	sintrom
+T46	_SUG_Tratamiento_anticoagulante 4572 4580	Apixaban
+T47	_SUG_Tratamiento_anticoagulante 4669 4677	Apixaban
+T48	HORA 4684 4686	20
+#48	AnnotatorNotes T48	20:00
+T50	_SUG_Ictus_isquemico 4705 4721	Ictus  isquémico
+T51	_SUG_Arteria_afectada 4754 4757	ACM
+T52	_SUG_Etiologia 4789 4803	cardioembólica
+T53	_SUG_Ictus_isquemico 4860 4865	ictus
+T54	_SUG_Tratamiento_anticoagulante 4877 4885	Apixaban
+T55	HORA 4911 4913	20
+#55	AnnotatorNotes T55	20:00
+T56	Tratamiento_anticoagulante_alta 4940 4948	Apixaban
+T57	_SUG_Tratamiento_anticoagulante 4968 4975	sintrom
+T60	Ictus_isquemico 5021 5036	Ictus isquémico
+T61	Arteria_afectada 5061 5064	ACM
+T62	_SUG_Lateralizacion 5081 5082	e
+T63	Etiologia 5084 5098	cardioembólico
+T64	Fecha_de_alta 5265 5275	26.12.2017
+#64	AnnotatorNotes T64	2017-12-26
+T65	Hora_de_alta 5278 5283	15:04
+#65	AnnotatorNotes T65	15:04
+T66	FECHA 5359 5369	26.12.2017
+#66	AnnotatorNotes T66	2017-12-26
+T68	SECCION_MOTIVO_DE_INGRESO 346 360	Motiu Consulta
+T69	SECCION_PROCESO_ACTUAL 396 411	MALALTIA ACTUAL
+T70	SECCION_ANTECEDENTES 1441 1452	ANTECEDENTS
+T71	SECCION_ANTECEDENTES_PATOLOGICOS 1453 1475	Antecedents patològics
+T73	SECCION_EVOLUCION 3764 3772	EVOLUCIÓ
+T75	SECCION_RECOMENDACIONES 4917 4939	RECOMANACIONS A L'ALTA
+T77	SECCION_DIAGNOSTICOS 5005 5016	DIAGNÒSTICS
+T78	SECCION_CONTROL 5101 5109	CONTROLS
+T6	SECCION_TRATAMIENTO_HABITUAL 3163 3175	Tto habitual
+T13	Lateralizacion 5065 5068	izq
+T21	Fecha_llegada_hospital 537 545	25/12/17
+#5	AnnotatorNotes T21	2017-12-25
+#6	AnnotatorNotes T16	0
+T24	SECCION_ANTECEDENTES_QUIRURGICOS 3387 3409	Antecedents quirúrgics

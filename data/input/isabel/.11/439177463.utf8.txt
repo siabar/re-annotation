@@ -1,0 +1,128 @@
+_LOCATION_
+email: _CONTACT_ Telèfon _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 84 Anys
+NIF/DNI: _ID__NAME_; _NAME_; _NAME_
+Informe d'alta d'hospitalització
+15:00:00
+09.11.2017
+_LOCATION_
+_SS_
+UNITAT D'ICTUS
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_
+DOMICIL/RES.SOC 06.11.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Paciente que ingresa por sospecha de Ictus.
+
+ANTECEDENTS
+No alergias medicamentosas conocidas.
+Hábitos tóxicos: exfumador desde hace 15 años de 1paq/día. Consume 0.5UBE/día.
+
+-Hipertensión arterial esencial en tratamiento farmacológico.
+-Dislipidemia sin tratamiento.
+-Fibrilación auricular paroxística diagnosticada hace unos 6 meses y en seguimiento vía mutua privada. No anticoagulado. El pasado 1/11 fue derivado del CAP al _SS_ ante hallazgo de dicha arritmia (no tenían constancia); decidieron no anticoagular y derivar a Cardiología para valoración. En tratamiento frenador con bisoprolol.
+-Enfermedad Renal Crónica de etiología no filiada con Creatininas habituales en torno a 1-1.3mg/dl.
+-EPOC.  Sin  tratamiento  broncodilatador habitual. *PFRs  junio  2017:  FVC  84%  (3.65L),  FEV1  64%  (1.94L), FEV1/FVC 53,14. Tras BD: FVC 89% (3.86L), FEV1 77% (2.35L), FEV1/FVC 60.97.
+-Hiperplasia benigna de próstata en tratamiento farmacológico.
+-Síncope en julio de 2017 mientras estaba de vacaciones tras varias horas conduciendo, con TCE. No requirió ingreso. La hija desconoce si se le realizó TC u otros estudios.
+-Lumbalgia por lumbartrosis.
+-Hiperuricemia sintomática (crisis de podagra). Tratamiento dietético y con hipouricemiante. Intervenciones quirúrgicas: prótesis total de cadera bilateral hacemás de 10 años.
+
+Situación sociofuncional: vive con su mujer, independiente para las ABIVD, deambula sin asistencia. mRS 0.
+
+MEDICACIÓ HABITUAL
+Enalapril/hidroclorotiazida 20/12.5mg 1/24h, Tamsulosina 0.4mg 1/24h, Tramadol 50mg 1/12h
+
+PROCÉS ACTUAL
+Refieren que desde ayer presenta trastorno para la emisión del lenguaje que ha ido fluctuando pero sin recuperación completa en ningún momento, esta mañana ya tenía la alteración pero sobre las 15 horas observan un claro empeoramiento por lo que acuden a urgencias de nuestro centro. Se traslada sin activación de código ictus. Se activa código en urgencias el dia 5/11/2017 a lss 17:54.
+La hija también le ha visto ahora desviación de la comisura bucal. Niegan otra focalidad.
+
+EXPLORACIÓ FÍSICA
+
+EXP. FÍSICA A URG: PAS148 , PAD 73 mmHg // FC de49 bpm
+NIHSS total de9
+TA 168/77mmHg FC 49lpm Tª 35ºC SpO2 99% aa BMT 81mg/dl#
+
+Informe d'alta d'hospitalització
+
+
+
+
+Buen estado general, MVC sin ruidos sobreañadidos, TCR sin soplos. No edemas en EEII. NRL: Vigil, alerta, no POC/DOC, LOC Q 0/2 (2), LOC C 1/2 (1), afasia de predominio motor (3+2, nomina 1/2, repite 1/2, comprende alguna orden simple), No alteraciones campimétricas por confrontación, PFSN derecha (1), balance motor conservado globalmente, no alteraciones en la sensibilidad superficial. No extinciones ni negligencias. NIHSS 9
+
+EXP. FÍSICA A L'INGRÉS:  PAS151, PAD 88 mmHg // FC62  // Temperatura36.3ºC / NRL: sin focalidad. NIHSS=0
+
+EXPLORACIÓ COMPLEMENTÀRIA
+- A. general (Ucias): Hties 5.11 x10E12/L; Hb 15.1 g/dL; Hto 47.2 %; VCM 92.4 fL; Leucocitos 8.67 x10E9/L;
+Neutrófilos 5.9 x10E9/L; Linfocitos 1.6 x10E9/L; Plaquetas 315 x10E9/L; TP 101 %; INR 0.99; TTPA 28.8 seg; Fibrinógeno derivado 4.68 g/L; Glucosa 104 mg/dL; urea 62 mg/dL; creatinina 1.27 mg/dL; FG 52 ml/min; sodio 140.7mmol/L; potasio 3.71 mmol/L; calcio 9.7 mg/dL; AST 22 UI/L; ALT 29 UI/L; Proteína 7.8g/d.
+-ECG: FA lenta, eje 30º, QRS estrecho, T negativas en V1 sin otras alteraciones de la repolarización.Buena progresión de la R en precordiales.
+-Rx tórax: marco óseo conservado, ICT normal, seno costofrénico derecho libre, izquierdo cortado, no imágenes sugestivas de condensación parenquimatosa.
+-TC craneal multimodal: Hipodensidad córtico subcortical frontal izquierda, de aspecto mal definido, y que parece corresponder a una lesión isquémica ya establecida, de aspecto subagudo o subaguda/crónica y afectando al territorio superficial de la ACM izquierda (M3). No se observan otrasalteraciones sugestivasde lesión isquémica aguda. ASPECTS 10/10. Presenta focos de leucoaraiosis subcortical y periventricular. Estructuras de la línea media centradas. No se observan lesiones hemorrágicas intra o extraaxiales. Sistema ventricular no dilatado. Cisternas basales libres. El estudio de perfusión demuestra que en el territorio superficial de la ACM izquierda, territorios ASPECTS 1 al 6 y más marcado del 4 al 6, se observa un alargamiento de los tiempo al pico (TTP), tiempo de drenaje (TTD),tiempo de tránsito medio(MTT), con aumento de del volumen cerebral (CBV) y discreta disminución del flujo cerebral (CBF). El aumento del CBV es e  probable origen compensatorio a través de colaterales. Se idetifica mismatch CBV/CBF. El estudio angioTC demuestra una oclusión de la ACM izquierda justo inmediatamente distal a su bifurcación, afectando primariamente al segmento más proximal de la M2. El estudio angioTC demuestra una oclusión de la ACI desde su nacimiento post bifurcación hasta su segmento supraclinoideo, con posterior repermeabilización de la ACM M1 izquierda a través de la ACA izq/ACoA. Calcificaciones de ambas ACI a nivel de las bifurcaciones y ambos sifones. Ambas arterias vertebrales se originan en la arterias subclavias, se observan permeables, al igual que la arteria basilar. Discreta dominancia fetal de ACP derecha. Tronco bovino como variante anatómica. Ambas ACI permeables, discretamente tortuosas, concalcificaciones en sus bifurcaciones y sifones que no condiconan estenosis significativas. Persiste la dilatación fusiforme de la arteria ACI supraclinoidea izquierda. Adenopatía intraparotídea izquierda de 15 x 12 mm. Enfisema centrilobulillar de LLSS. Conclusión: ASPECTS 10/10 basal. Oclusión completa de ACI izquierda desde  su origenhasta su porción supraclinoidea, posterior repermeabilización mediante polígono de Willis, con M1 permeble. Alargamientos de MTT, TTP con CBV aumentado en territorio superficial de ACM izquierda, afectando a los lóbulos frontal parietal y temporal ipsilaterales.
+
+-	Ecografía Doppler-dúplex color de arterias carótidas, vertebrales y transcraneal: - Pequeñas placas de ateroma en ambos bulbos carotideos sin repercusión hemodinámica.- ACI I extracraneal permeable con patrón de muy alta pulsatildiad, sin visualizarse a nivel intracraneal, todo ello sugestivo de lesión de alto grado (estenosis severa/oclusión) de ACI I distal.- Asimetría ACMs (a 55 mm: ACM I VPS 45.6 cm7s, IP 0.99; ACM D VPS 70.0 cm/s, IP 1.35). - Flujo ACM I vía circulación anterior contralateral (hiperaflujo ACA-1 D, AComA permeable, ACA-1 I invertida) y probablemente posterior ipsilateral (hiperaflujo basilar, no se visualiza ACP-1 I, AComP I permeable en sentido postero-anterior).- Resto de estudio sin objetivarse alteraciones (no se visualzian ostiums).
+-	
+Informe d'alta d'hospitalització
+
+
+
+
+
+-	Ecografía Doppler-dúplex color de control de lesión de alto grado carotidea sin cambios. Persite patrón en ACI I extracraneal de muy alta pulsatildiad, sin visualizarse a nivel intracraneal, sugestivo de lesión de alto grado (estenosis severa/oclusión) de ACI I distal. Asimetría ACMs (a 55 mm: ACM I VPS 40.0 cm/s, IP 0.50; ACM D VPS 43.4 cm/s, IP 0.92).
+
+EVOLUCIÓ CLÍNICA
+Paciente varón de 84a con una fibrilación auricular de debut unos meses antes del ictus, no anticoagulada, que consulta por clínica de afasia fluctuante de unos 7-8 días de evolución, mostrando el TC un infarto subagudo pequeño opercular I y tanto el angioTC como el ecoDoppler una oclusión de la ACI I, que por ecoDoppler se localiza a nivel intracraneal, sugestiva pues de una etiología cardioembólica, con buena compensación intracraneal.
+El paciente ingresa en la Unidad de Ictus para control evolutivo, estando a nuestra valoración asintomático. Se mantiene con anticoagulación con Clexane a dosis anticoagulantes con buena evolución y sin presentar nuevas fluctuaciones. Se realiza ECO doppler de control previo al alta, sin cambios respecto a previo.
+Dado la estabilidad clínica y hemodinámica, se decide alta hospitalaria y control en consultas externas de neurovascular.
+Al alta NIHSS 0 y rankin 1.
+
+
+
+Se ha iniciado la anticoagulación con HBPM, con el plan de paso a NACO al alta.
+
+
+DIAGNÒSTICS
+Infarto ACM izquierda de etiología cardioembólica. Oclusión ACI izq intracraneal Fibrilación auricular
+
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Dieta sin sal. Ejercicio físico que tolere.
+
+-	Clexane 80 mg cada 12 horas hasta disposición de fármaco. entonces debera suspender el clexane subcutáne y, en el momento de la siguiente dosis programada de anticoagulante, comenzar con Apixaban.
+
+-	Apixaban 5 mg cada 12 horas
+
+-	Resto de tratamiento sin cambios.
+
+CONTROL
+-	Deberá acudir a visita control en las consultas externas de Neurovascular el día 19/4/2018 a las 10:30h en la 3ª planta anexos del _SS_, previa realización de ECO doppler de TSA/TC de control en la segunda planta del _SS_ (gabinete de neurosonología- Unidad de Ictus) a las 9:00h.
+
+-	Control estricto de FRCV por MAP. Recomendamos realización de Analítica completa con perfil lipídico por MAP.
+-	
+Informe d'alta d'hospitalització
+
+
+
+
+
+
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+09.11.2017
+Pàgina 1 de 4

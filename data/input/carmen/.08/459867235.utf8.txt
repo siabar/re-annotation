@@ -1,0 +1,80 @@
+_LOCATION_ Tel. _CONTACT_
+_CONTACT_
+Informe Alta Hospitalització
+_NAME_
+HC: _ID_
+
+>
+
+
+Adreça: _LOCATION_	Data naix.: _DATE_ Població: _LOCATION_	Sexe: MASCULI
+Provincia: _LOCATION_	CIP: _ID_
+País: _LOCATION_	NASS: _ID_
+Telèfon: _CONTACT_	DNI o Tarja Residència: _ID_
+
+
+Servei: Neurologia	Data ingrés a URG: 22/12/2017 13:42
+Unitat clínica: Neurologia	Data hospitalització: 22/12/2017 19:53
+Tipus d'ingrés: Urgències	Data alta: 30/12/2017 20:20
+Proveïdor de Serveis: Servei Català de la Salut	Destí: 11 - Defunció
+
+
+
+Diagnòstic principal:
+
+I629 AVC HEMORRAGIC
+
+
+
+
+
+Pacient de 88 anys d'edat que ingressa per Hematoma cerebral
+
+Història Actual:
+
+Varón de 88 años con antecedentes de neoplasia de colon intervenida en 1995. No refiere tratamiento habitual ni HTA ni DM. Función cognitiva normal. Rankin basal 0. Vive con su mujer. Tiene 6 hijos.
+Es traído a urgencias po debilidad de hemicuerpo izquierdo de inicio agudo.
+La TC cranial muestra hematoma parietal derecho de 3x3 aprox sin disminución del nivel de conciencia. No se considera tributario de ingreso en semicriticos e ingresa en neurología.
+
+Exploració física:
+
+Frecuencia Cardíaca (lat/min): 67, Tensión sistólica (mm Hg): 150, Tensión diastólica (mm Hg): 92. Sat 02 91%
+
+Exploración neurológica (Urgencias): consciente, orientado, responde a órdenes y preguntas, mirada centrada, restricción de VI par izquierdo (refiere estrabismo crónico ). Disartria leve (1) sin otras alteraciones del lenguaje. Hemiparesia FBC (2+3+1) con RCP extensor. Hipoestesia FBC izquierda (1). No asomatognosia y dudosa anosognosia. Observo mioclonias aisladas en mano izquierda ( únicamente a nivel de primer interóseo ).
+
+Exploración NRL en planta: consciente, orientado, no afasia, disartria moderada (1) mirada centrada, estrabismo OI previo, Paresia braquial 2/5 (3), crural 5/5 (dudosa paresia), Babinski izq, Hemihipoestesia FBC izquierda (1). No asomatognosia ni anosognosia.
+NIH: 5
+
+Resum proves complementàries:
+
+Laboratori:
+
+Leucòcits *11.53 x 10^9/L, Hematies 5.08 x 10^12/L, Hemoglobina 152 g/L, Hematòcrit 0.45 L/L, Volum corpuscular mig 87.6 fL, Hemoglobina corpuscular mitja 29.9 pg, Conc. Hb. corpuscular mitja 342 g/L, Í ndex dispersió hematies 13.2 %, Plaquetes 257 x 10^9/L, Volum plaquetar mig 12.8 fL, Índex dispersió de plaquetes *19.8 fL, Plaquetòcrit 0.033 L/L, Neutròfils (%) 66.8 %, Neutròfils *7.7 x 10^9/L, Limfòcits (%)
+
+
+23.1 %, Limfòcits 2.66 x 10^9/L, Eosinòfils (%) 1.7 %, Eosinòfils 0.2 x 10^9/L, Basòfils (%) 0.2 %, Basòfils
+0.02 x 10^9/L, Monòcits (%) 8.2 %, Monòcits 0.95 x 10^9/L, Temps protrombina 1.11 ratio, T.Tromboplastina parcial activ 0.92 ratio, Glucosa 100 mg/dL, Urea 48 mg/dL, Creatinina 1.2 mg/dL, Sodi 139 mEq/L, Potassi 4.8 mEq/L
+
+Imatge:
+
+TC craneal: (22/12717): Voluminós hematoma agut lobar parietal dreta, però sense efecte de massa significatiu. Petits focus d'HSA en alguns solcs de la convexitat frontal dreta, probablement en relació al TCE. Signes difusos d'atròfia cerebral i leucoencefalopatia hipòxica.
+
+TC craneal: (27/12717): Marcat augment de la mida del voluminós hematoma agut intraparenquimatós, obert al sistema ventricular, així com de l'efecte massa que condiciona, desplaçant la línia mitja fins a 14mm amb signes d'herniació subfalcial i transtentorial descendent.
+
+
+Rx de torax: no condensaciones. Imagen nodular en hilio derecho
+
+Evolució i comentaris:
+
+Varón de 88 años que ingresa por hematoma lobar hemisférico derecho. Inicialmente destaca disartria moderada, parèsia braquial izq 2/5 y hemihipoestesia izq.
+El dia 27/12/17 avisan por deterioro neurológico agudo. A la exploración neurológica destaca anartria, no apertura ocular, retirada al dolor. Desconjugación ocular con pupilas mióticas reactivas a la luz. Motor no valorable por nivel de conciencia. La TC craneal muestra un claro aumento del hematoma intraparenquimatoso, con importante efecto masa, herniación subfalcial y transtentorial.
+El 29/12/17 permanece estuporoso, sin responder a estímulos verbales, movilizando únicamente brazo derecho de forma espontánea, sin apertura ocular y con desconjugación de la mirada con pupilas mió ticas. RCP extensor bilateral. Hijos informados de la situación del paciente con mal pronóstico vital a corto plazo. Se retira medicación activa y se inicia pauta de confort.
+El 30/12717 es exitus a las 20.20h.
+A la valoración por médico de guardia se objetiva arreactivo, pupilas midriáticas y arreactivas, reflejo corneal ausente. No mecánica ventilatoria. No tonos cardiacos. No pulsos centrales ni periféricos.
+Certifico exitus a las 20.20h.
+-	Causa inmediata: broncoaspiración.
+-	Causa fundamental: hematoma intraparenquimatoso.
+
+_LOCATION_, 18/01/2018
+_NAME_ (Nº col _ID_
+Nom i cognoms metge: _NAME_ (Nº col: _ID_Pàg.: 1/2

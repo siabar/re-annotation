@@ -1,0 +1,119 @@
+_LOCATION_ Telf Consultes: _CONTACT_ / _CONTACT_
+Telf Centraleta Hospital: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 60 Anys
+NIF/DNI: _ID_Informe d'alta d'hospitalització
+13:26:13
+14.07.2017
+_LOCATION_
+_SS_ NEUROLOGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_
+DOMICIL/RES.SOC 12.07.2017
+_NAME_
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+AIT
+
+ANTECEDENTS
+Niega Alergias Medicamentosas.
+
+Fibril·lació Auricular paroxística amb esforç, ssense crietris d'anticoagulació. Seguiment pel seu Cardioleg privat. DLP, sin tratamiento actual
+Neoplasia de prostata (2012) tratado con Braquiterapia, controlado cada 6 meses. IQ: Colecistectomia
+No Fumador
+
+Autonomo e independiente para AVD, Rankin 0.
+
+
+MEDICACIÓ HABITUAL
+Bisoprolol 2.5mg comp 1/2 comp al dia
+
+PROCÉS ACTUAL
+Paciente de 60 años, que ingresa en Neurologia para estudio de AIT.
+
+Acude a URG del 11/07/2017 sobre las 23:50 horas via SEM como Codigo ICTUS. Refiere inicio de manera subita mientras estaba en el lavabo asimetria facial derecha, afasia. Posteriormente refiere hemiplejia del hemicuerpo derecho, que mejora progresivamente al llegar y durante su observación en urgencias.
+Se realiza TC Craneal y AngioTC, sin evidencias de lesiones agudas , ni trombos. En ECG de URG: Ritmo Sinusal, pero luego se constata FA  a 100 por minutos, asintomático.
+
+
+EXPLORACIÓ FÍSICA
+
+Valoración Neurologia 12/07/2017 9:30 horas AC: Ruidos cardiacos ritmicos.
+AR: Eupneico, MVC, no estertores.
+Abdomen: Blando, depresible, peristalsis presente, no doloroso a la palpación, no signos de irritación peritoneal. Cicatriz quirurgica en hemiabdomen derecho.
+EEII: Moviles, simetricos, no edemas, no signos de TVP
+NRL: Consciente, Orientado, Pupilas isocoricas y fotorreactivas. MOES conservados, No nistagmos, Campimetria normal. No paralisis facial. Sensibilidad y Fuerza muscular conservada. No dismetria. Leve disartria. Reflejo cutaneo-Plantar: Flexor bilateral.
+
+Informe d'alta d'hospitalització
+
+
+
+
+
+
+
+EXPLORACIÓ COMPLEMENTÀRIA
+Glucemia capilar: 111mg/dl
+
+-Analitica URG: Hemoglobina, 14.2 g/dL, Hematòcrito: 41.3 %, Leucòcits;c.nom. 6.07 10^9/L, Neutròfils;fr.nom.
+35.1 %, Limfòcits: 55.2 %, Plaquetes; 209 10^9/L
+- BQ: Creatinini-Plasma 1.00 mg/dL, Glucosa-Plasma [Urgències] * 118 mg/dL, Potassi-Plasma [Urgències] 3.8 mEq/L, Sodi-Plasma [Urgències] 142 mEq/L Urea-Plasma [Urgències] 31 mg/dL
+- INR: 0.97
+
+Monitoprització Ucies: episodi de FA autolimitat.
+
+Analitica de ingreso: Glucosa: 90 mg/dL, Urea: 42 mg/dL, Creatinini: 0.85 mg/dL, Colesterol:  235 mg/dL, HDL: 58 mg/dL, LDL: 123.85 mg/dL, TG: 268 mg/dL, AST:15 U/L, ALT:  20 U/L, GGT: 47 U/L, LDH: 238 U/L, Bilirubina:
+0.90 mg/dL, FA: 44 U/L, Bilirubina: 0.20 mg/dL, Albumina: 4.33 g/dL, Proteïna: 6.62 g/dL. Coagulación: INR: 0.97, Temps pac (T.protrombina): 10.8 seg, Raó (T.protrombina): 0.97, Pla-Fibrinogen: 411 mg/dL Hemograma: Hb: 14.8 g/dL, Eritròcits: 4.31 10^12/L, Eritròcits (Hematòcrit): 43.4 %, Leucòcits: 5.39 10^9/L, Neutròfils; 2.41 10^9/L, Neutròfils; 44.8 %, Limfòcits; 2.39 10^9/L, Limfòcits;44.3 %, Plaquetes: 203 10^9/L
+
+-TAC Craneal y angioTCcrani i de TSA: No desplaçaments significatius de les estructures de línia mitja supra i infratentorial. No se observen lesions hemorràgiques intra ni extraparenquimatoses. Sistema ventricular de mida, configuració i posició normals. Cisternes basals i peritronculars lliures. Fossa posterior i parènquima cerebral sense alteracions morfològiques ni densitomètriques valorables. A estudi angio-TC intracranial, no se observen defectes de repleció ni imatges denaddició. Variant anatòmica amb origen fetal de l'ACP dreta. Conclusio: Estudi cranial normal. Angio-TC sense troballes significatives
+
+EcoDoppler color de TSA y Transcraneal (13/07/2017): Estudio doppler color de TSA dentro de la normalidad, sin estenosis significativa en grandes vasos extracraneales estudiados.Sin poder descartar estenosis sifnificativa en unión vertebrobasilar derecha. Estudio trasncraneal de circulación anterior dentro de la normalidad. Probable patologia ateromatosa P1 derecha. Shun D-I negativo en situación basal y Valsalva. Estudio poco sugestivo de FOP.
+
+RM cerebral: Pequeñas lesiones focales isquémicas agudas/subagudas corticales en giro precentral inferior (altura de la insula), postcentral y más significativa en corona radiata izquierda, compatibles con lesiones isquémicas embólicas en territorio superficial de la ACM izquierda.
+Mínimos signos de leucoaraiosis. Resto de la exploración intracraneal dentro de los límites de la normalidad.
+
+Ecocardio TT:  sense alteracions.
+
+Informe d'alta d'hospitalització
+
+
+
+EVOLUCIÓ CLÍNICA
+El pacient ingressa a Neurologia per completar estudi de AIT de característiques emboligenes. La RM cerebral evidencia lesions isquémques amb tipica distribució embolica. No s'ha detectat ateromtosis ni estenosis significatives de gran vas i es conclou com Ictus isquèmic de causa i mecanisme cardioembólic per la seva FA paroxística ja coneguda previament.
+
+El pacient precissa anticoagulació com a preveneció secundaria de nous events embolics, CHADS-VASC 2 amb baix risc de sagnat, HAS-BLED 1, recomenant Lixiana 60mg 1comp/dia.
+
+DIAGNÒSTICS
+436/5 Ictus isquèmic a territori ACM Esquerra de mecanisme i causa cardioembolica
+-	FA paroxística
+
+PROCEDIMENTS
+Codi Ictus / Mèdics /
+89.52 Electrocardiograma. ECG NOS, ECG (amb 12 o més derivacions)
+88.71 Ultrasò diagnòstic de cap i coll. Determinació desviació de la línia mediana cerebral,ecoencefalografia
+88.71 Ultrasò diagnòstic de cap i coll. Determinació desviació de la línia mediana cerebral,ecoencefalografia
+88.91 Imatge per ressonància magnètica de cervell i tronc cerebral
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+-	LIXIANA 60mg 1comp/dia
+-	Omeprazol 20mg 1comp/deju
+-	Simvastatina 10mg 1comp/Dia Resta de la seva medicació habitual.
+CONTROL
+Control i seguiment dels FRV pel seu metge de familia i especialistes habtuals amb objectius de TA<130/80, colesterol LDL<100.
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+14.07.2017
+Pàgina 1 de 3

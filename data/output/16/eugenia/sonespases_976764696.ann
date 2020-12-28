@@ -1,0 +1,25 @@
+T1	Fecha_de_alta 15 25	12-11-2018
+#1	AnnotatorNotes T1	2018-11-12
+T2	SECCION_DIAGNOSTICOS 27 39	Diagnosticos
+T3	_SUG_Ictus_isquemico 41 73	ECVA ISQUÉMICA: infarto cerebral
+T4	Ictus_isquemico 57 73	infarto cerebral
+T5	Arteria_afectada 88 91	ACM
+T6	Lateralizacion 91 92	D
+T7	_SUG_Etiologia 96 121	etiología aterotrombótica
+T8	Etiologia 106 121	aterotrombótica
+T9	_SUG_Arteria_afectada 158 176	AAcarótida interna
+T10	Arteria_afectada 159 176	Acarótida interna
+T11	SECCION_PROCEDIMIENTOS 303 317	Procedimientos
+T12	SECCION_MOTIVO_DE_INGRESO 412 429	Motivo de ingreso
+T13	SECCION_ANTECEDENTES 648 668	Antecedentes Médicos
+T14	SECCION_SITUACION_FUNCIONAL 903 918	Situación basal
+T15	SECCION_ANTECEDENTES_QUIRURGICOS 1270 1272	IQ
+T16	SECCION_TRATAMIENTO_HABITUAL 1548 1572	Tratamiento domiciliario
+T17	SECCION_PROCESO_ACTUAL 1940 1949	Anamnesis
+T18	Fecha_inicio_sintomas 1964 1979	28/octubre/2018
+#18	AnnotatorNotes T18	2018-10-28
+T19	SECCION_EXPLORACION_FISICA 2453 2464	Exploración
+T20	SECCION_EXPLORACIONES_COMPLEMENTARIAS_EN_URGENCIAS 4016 4043	Analítica Sanguínea urgente
+T21	SECCION_EXPLORACIONES_COMPLEMENTARIAS 4761 4795	Resultados pruebas complementarias
+T22	SECCION_EVOLUCION 12110 12132	Evolución Hospitalaria
+T23	SECCION_TRATAMIENTO_Y_RECOMENDACIONES_AL_ALTA 13399 13436	Recomendaciones y tratamiento al alta

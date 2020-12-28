@@ -1,0 +1,200 @@
+
+
+
+
+
+Informe d'Alta Hospitalària	Cognoms i nom:
+_NAME_	NHC:
+_ID_
+	ABS:
+_SS_	CIP:
+_ID_	DNI:
+_ID_
+	Data de naixement:
+_DATE_	Sexe:
+Dona	Edat:
+54a	Telèfon:
+_CONTACT_
+	Finançament:
+CatSalut - _LOCATION_	Procedència:
+URGÈNCIES
+	Admissió:
+31.07.2017 - 21:09	Servei:
+NEURO - UNITAT ICTUS HOSP	Data entrada urg.:
+31.07.2017 - 19:52
+Adreça:
+_LOCATION_	Població:
+_LOCATION_	Codi Postal:
+_LOCATION_
+
+
+
+Motivo de ingreso:
+Ictus isquémico en territorio de ACM derecha.
+
+
+Antecedentes
+-	Alergia a AINES, nolotil, buscapina, zyprexa.
+-	Hábitos tóxicos: Fumadora de 2-3 p/d. Ocasional enol y cannabis.
+-	Hipertensión arterial mal controlada
+-	Diabetes Mellitus 2 diagnosticada hace más de 10 años. Inicialmente realizó tratamiento con metformina, posteriormente glicazida (que se suspendió por hipoglicemias) y actualmente se encontraba en tratamiento con Ristfor (sitagliptina+metformina 50/1000MG cada 12h). Controles por médico de cabecera, realiza seguimiento errático, no hace dieta, mala adherencia a la medicación.
+-	Dislipemia en tratamiento con simvastatina.
+-	Obesidad.
+-	Infarto lacunar en 2014 en area cápsulo-ventricular izquierda diagnosticado incidentalmente en la  TC craneal realizada en la _SS_. TC: hipodensidad focal en corona radiata izquierda, próxima a la cabeza del caudado que obliga a valorar la posibilidad isquémica aguda-subaguda en territorio dependiente de rama terminal de la arteria cerebral anterior izquierda.
+-	Metrorragias. Estudio por biopsia negativo para células malignas.
+-	Lumbociatalgia. RM enero 2015: Mínima protrusión con asimetría I del disco L5-S1 que ocupa el aspecto inferior de los forámenes de predominio I. Signos osteodegenerativos.
+IQ: Denudación cuerdas vocales. Apendicectomía. Histerectomía. Amigdalectomía.
+
+-	Antecedentes psiquiátricos: Historia de rasgos desadaptativos de personalidad cluster B que ha requerido varios ingresos, en 1991 y 1992 por tentativas autolíticas en el contexto de problemática personal. El último ingreso en _SS_ por clínica ansioso-depresiva en 2009 vinculándose a continuación a Hospital de Día. Desde entonces la evolución ha sido favorable. Última consulta a urgencias por insomnio en noviembre 2014, se ajustó medicación. Realiza controles en CSM (Dra. _NAME_) que ha seguido hasta la actualidad, adecuada vinculación.
+
+-	Situación sociofuncional: Natural de _LOCATION_. Soltera. Vive sola. Estudió FP auxiliar clínica. Ha realizado varios trabajos (dependienta, auxiliar en _NAME_, administrativa). Pensionista por larga enfermedad desde 2007. Vive en un piso compartido. mRS de 2.
+
+-	Medicación habitual: atenolol 50mg cada 12h, citalopram 20mg cada 24h, furosemida 40mg cada 24h, ristfor 50/100mg cada 12h, simvastatina 40mg cada 24h, telmisartan 40mg cada 24h
+
+
+Enfermedad Actual
+Según explican desde el CAP la paciente ha consultado la tarde del 31/07/2017 por pérdida de fuerza en extremidades izquierdas. La clínica ha debutado a las 9:00h con cefalea y pérdida de fuerza en brazo y pierna izquierdas. Poco a poco la cefalea ha ido mejorando según la nota del CAP. No queda claro por la historia del CAP ni por la anamnesis si la paciente llega a recuperar o no la hemiparesia en algún momento. La paciente consulta a las 18:40h a su médico de familia que evidencia la hemiparesia y se decide derivación no urgente en ambulancia. A la salida del CAP presenta una disminución brusca del nivel de consciencia recuperada con plejia posterior de extremidades izquierdas motivo por el cual finalmente se activa código ictus extrahospitalario.
+
+Exploración física
+- En Urgencias
+Ctes: 150/69 mmHg, 95 lpm, INR 1, Normoglicémica.
+NRL: desvicación oculocefálica a la derecha, junto con paresia facial central izquierda,
+paresia braquial 1/5 izquierda, paresia crural 3/5 izquierda, sensibilidad no valorable y babinski izquierdo puntuando una NIHSS de 0+1+1+1+2+1+(0+3)+(0+2)+0+1+0+1+0=13.
+
+- En sala de Neurología
+Vigil, consciente y orientada en las tres esferas. Obedece órdenes simples y complejas.
+Movimientos oculares conservados, con cuadrantanopsia inferolateral izquierda, Parálisis facial izquierda.
+Plejia de miembro superior izquierdo. Fuerza 3/5 en miembro inferior izquierdo.
+Anestesia total miembro superior izquierdo. Hipoestesia facial y miembro inferior izquierdos. No rasgos afásicos, con nominación y repetición conservada. Leve disartria.
+Extinción izquierda.
+NIHSS 0+0+0+0+1+2+(0+4)+(0+2)+0+2+0+1+1=13.
+
+- Al alta:
+Exploración neurológica:
+-Vigil, orientada en las tres esferas.
+-Sin rasgos afásicos, disartria leve.
+-Cuadrantanopsia inferior izquierda marginal.
+-PICNR, MOEs correctos.
+-Paresia facial central izquierda leve con compromiso orbicular.
+-Pares craneales bajos sin alteraciones.
+-Balance motor: Paresia braquio-crural (B 1/5 de predominio distal, crural 3/5).
+-Hemianestesia izquierda.
+-Sin dismetrías.
+-Extinción visual izquierda.
+
+-Hoffman izquierdo..
+NIHSS: 0.0.0.0.1 / 1.(0.4).(0.1) / 0.2.0.1.1 = 11
+
+Exploración sistémica:
+-ACV: Tonos cardíacos rítmicos normofrecuentes sin soplos ni otros ruidos añadidos.
+-AR: Murmullo vesicular conservado sin ruidos agregados.
+-EEII sin edemas ni signos de TVP.
+-Sin signos de candidiasis oral.
+
+
+Exploraciones complementarias:
+-	Analítica sanguínea en urgencias: Bioquímica con función renal y hepática normales. Hemograma sin alteraciones relevantes. Hemostasia básica correcta.
+-	Analítica de control: Ionograma, función renal y hepática normales. Serologías VIH y lues, vitamina B12, folato, TSH y electroforesis de proteínas normales. Triglicèrids 130,98 mg/100mL, Colesterol 282,51mg/L. HbA1c 12%.
+-	ECG: en RS: BRDHH.
+-	Telemetría-ECG: Sin eventos arrítmicos.
+-	TC craneal en urgencias: Se observa incipiente desdiferación córtico-subcortical frontó-parietal D sugestiva de afectación isquèmica aguda (ASPECTS 9). Múltiples lesiones de aspecto lacunar crónico en ambas coronas radiadas, en el putamen I y en el tálamo I.
+-	TC-PERFUSIÓN: El estudio de perfusión muestra àrea de retraso del tiempo de perfusión en territorio superficial de la ACM D, sin disminución del volumen.
+-	ANGIO-TC (TSA E INTRACRANEAL):Se observa segmento de irregularidad vascular en la porción distal de M1 e inicial de M2 de la ACM D con minimo paso de contraste que sugiere oclusión parcial (possible trombó recanalizado. Àrea frontó-parietal derecha que muestra asimetria vascular con respecto a otros territorios. Moderada ateromatosis en ambos bulbos carotídeos sin estenosis relevante.Pequeña estenosis focal en el segmento P2 de la ACP D. No se observan otras alteraciones relevantes en el territorio vertebro-basilar. La arteria basilar no muestra oclusión.
+
+-	Arteriografía con terapia endovascular (trombectomía mecánica):
+-	ANESTESIA UTILIZADA: Local.
+-	TIPO DE TROMBECTOMÍA: Trombectomíamecánica con stent retriever
+-	MATERIAL UTILIZADO:
+-	Heparinoterapia sistémica en los lavadores
+-	Dispositivo de trombectomía utilizado: trevo 6x25
+-	Catéter portador: Catéter BALON merci.
+-	Catéter intermedio: Sofia en un pase
+-	Microcateter: Trevopro18
+-	ARTERIAS EXPLORADAS: Arteria carótida interna derecha con proyecciones AP, Lateral y oblicuas
+-	PROCEDIMIENTO Se realiza punción femoral derecha. Se realiza cateterización selectiva y la primera serie angiográfica confirma la presencia de una oclusión TICI 0  de segmento M2  derecho. Se procede al microcateterismo selectivo de arteria ocluida y luego de 6 pases (uno de ellos usando cateter intermedio
+
+para aspirar) no se logra la recanalización del vaso ocluido. Se realiza cierre del punto de punción femoral derecho mediante cierre mecánico tipo Proglide y vendaje compresivo el cual deberá permanecer por 24 horas, debiendo el paciente mantener inmóvil el miembro inferior derecho por 12 horas siguientes al procedimiento.
+
+-	TC craneal de control: Comparativamente con el TC de cráneo del 31/07/2017 la hipodensidad frontoparietal derecha es más evidente, afectando tanto cortical como subcortical. También se observa un área de hipodensidad cortico-subcortical parieto-occipital derecha que no era evidente en el estudio previo. No se observan signos de transformación hemorrágica o efecto de masa relevante Resto sin cambios. Conclusión: Lesiones isquémicas establecidas en el territorio de la arteria cerebral media derecha.
+
+-	Ecocardiografía transtorácica: Ventrículo izquierdo no dilatado ni hipertrófico. Función sistólica global y segmentaría conservadas. Raíz aórtica no dilatada. Válvula aórtica tricúspide, morfológica y funcionalmente normal. Válvula mitral morfológicamente y funcionalmente normal. Aurícula izquierda ligeramente dilatada. Ventrículo derecho no dilatado, con contractilidad global conservada. Insuficiencia tricuspídea ligera que no permite estimar adecuadamente la PAPs. Sin embago no exísten signos indirectos de aumento de las resistencias pulmonares. Vena cava inferior no dilatada. Ausencia de derrame pericárdico. Conclusión: Estudio sin cambios significativos respecto al previo.
+
+-	Holter-ECG: en ritmo sinusal. EESSVV escasa. Ectopia ventricular muy frecuente
+
+-	Estudio neurosonológico de control: Dúplex transcraneal: Se insonan carótida interna distal, ACM, ACP y ACA derechas. Destaca una ACM permeable con aceleración a nivel M1 distal (Vmáx 129mm/), sin llegar a cumplir criterios de estenosis y una ligera aceleración a nivel de ACA derecha. A nivel izquierdo presenta una mala ventana acústica.
+
+Evolución:
+-	Mujer de 54 años con factores de riesgo vascular mal controlados que ingresa por síndrome hemisférico derecho de cronología incierta. A su llegada a urgencias de nuestro centro la paciente se encuentra hemodinámicamente estable y afebril. A la exploración neurológica se evidencia una desviación oculocefálica a la derecha, junto con paresia facio-braquiocrural izquierda, puntuando una NIHSS de 13. Se realiza TC craneal urgente que muestra ligera hipodensidad parenquimatosa fronto-parietal derecha sugestiva de afectación isquèmica aguda (ASPECTS 9). El angioTC evidencia una irregularidad vascular en el segmento distal de M1 e inicial de M2 con mínimo paso de contraste y un área de asimetría vascular fronto-parietal derecha. El estudio de perfusión muestra una extensa área de isquemia con miss-match.
+-	Se orienta como un ictus isquémico en territorio de la ACM derecha de mecaniso embólico y causa indeterminada, y dada la presencia de tejido potencialmente salvable con la reperfusión y la existencia de un trombo distal en segmento M1 distal se indica tratamiento de reperfusión con trombectomía mecánica. La angiografía confirma la presencia de una oclusión TICI 0 de segmento M2 derecho. Se realizan hasta 6 pases de dispositivo TREVO sin conseguir recanalización.
+
+-	En este contexto de decide ingreso en unidad de ictus donde se mantiene monitorizada por telemetría sin
+
+presentar eventos arrítmicos. Se realiza TC craneal de control a las 24h que muestra hipodensidad frontoparietal derecha más evidente, afectando tanto a nivel cortical como subcortical. El estudio de disfagia resulta positivo, aunque permitiendo la ingesta oral con espesantes. Es valorada por Medicina Rehabilitadora e inicia fisioterapia, logopedia y terapia ocupacional. Una vez alcanzada la estabilidad clínica se procede a traslado a sala de neurología para continuar tratamiento rehabilitador y estudio diagnóstico.
+
+-	En la sala, se completa estudio etiológico de ictus con ecocardiografía transtorácica y Holter-ECG (además de la telemetría-ECG en la UI), sin hallazgos, así como una analítica de estudio en la que destaca una HbA1C 12%, por lo que se inicia insulinoterapia con difícil control glicémico inicial que requiere ajustes por parte del servicio de endocrinología. Además, se realiza estudio neurosonológico en el que se evidencia una recanalización de la ACM derecha, leve aceleración focal en M1 que no llega a cumplir criterios de estenosis. Durante su estancia en sala se mantiene clínica y hemodinámicamente estable, sin cambios a nivel neurológico, manteniendo una hemiplejia braquial izquierda y cuadrantanopsia inferior homolateral. Destaca una reacción alérgica tras la administración de olanzapina, por lo que se recomienda evitar este fármaco, y en caso de necesitar medicación antipsicótica, administrar haloperidol. No obstante, no ha requerido tratamiento antipsicótico en la mayor parte del ingreso.
+-	Debido a estabilidad y de acuerdo a las necesidades actuales de la paciente, se procede al alta hospitalaria a _SS_ para continuar recuperación.
+-	NIHSS al alta: 11, mRS al alta: 4.
+
+
+Procedimientos
+-ECG
+-Telemetría
+-Analítica sanguínea
+-TC craneal x2
+-Trombectomía mecánica.
+-Ecocardiografía.
+
+
+Diagnósticos
+-Infarto isquémica en territorio ACM derecha de mecanismo embólico y etiología indeterminada.
+-Diabetes mellitus tipo 2 con mal control.
+-Hipertensión arterial.
+-Obesidad.
+-Trastorno de la personalidad cluster B.
+
+
+Recomendaciones y tratamiento al alta
+-	Tratamiento al alta:
+-	Insulina Humalog 13-13-13
+-	Insulina Lantus 0-0-21
+
+-	Omeprazol 20 mg/día
+-	Furosemida 40 mg/día
+-	Citalopram 20 mg/día
+-	Enalapril 10 mg/12h
+-	Atorvastatina 80 mg/día,
+-	AAS 300 mg/día
+-	Bemiparina 2500 UI/día
+-	Paracetamol 1 gr si precisa,
+-	Hidroclorotiazida 25 mg/día
+-,Amlodipino 5 mg/día
+*Si agitación: NO dar Quetiapina ni Olanzapina. SI Haloperidol.
+
+*	Control en Consulta EXterna de Neurología (se adjunta)
+*	Se solicita estudio de trombofilia en la Unidad de Hemostasia (se avisará de la programación por carta)
+-
+-	Recomendaciones generales:
+1.	Tratamiento de la  hipertensión arterial, manteniendo cifras  por debajo de 140/90; en caso  de ser diabético, cifras por debajo de 130/85.
+2.	Abandono completo del hábito tabáquico.
+3.	Control  y tratamiento de las enfermedades cardiacas (cardiopatía  isquémica,  insuficiencia  cardiaca, arritmias y valvulopatías).
+4.	Evitar consumo excesivo de alcohol (se permite una o dos bebidas al día).
+5.	Vigilancia y tratamiento del perfil lipídico:
+Dieta pobre en grasas, actividad física apropiada.
+Tratamiento farmacológico si precisa para mantener niveles de LDL<100mg/dl.
+6.	Control de la glucemia, que debe ser <126mg/dl en ayunas, con dieta, antidiabéticos orales o insulina si precisa.
+7.	Realizar actividad física, 30 a 60 minutos, de tres a cuatro veces a la semana.
+8.	Continuar el tratamiento antiagregante a las dosis recomendadas, siguiendo los controles necesarios.
+
+-
+
+Responsable clínic: Dra. _NAME_ (NºCol. _ID_)
+Equip mèdic: _NAME_ (NºCol. _ID_), _NAME_ (NºCol. _ID_)
+
+Servei que ha donat d'alta:
+NEURO - UNITAT ICTUS HOSP	Data d'alta:
+21.08.2017	Nom del metge que informa de l'alta:
+Dra. _NAME_ (NºCol. _ID_)
+
+
+_LOCATION_, 21.08.2017
+Pàg. 1 de   6

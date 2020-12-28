@@ -1,0 +1,156 @@
+_LOCATION_ Tel. _CONTACT_
+e-mail: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 70 Anys
+NIF/DNI: _ID__NAME_; _NAME_; _NAME_,;;_NAME_
+Informe d'alta d'hospitalització
+CP	_LOCATION_
+ABS	_SS_
+Servei	NEUROLOGIA
+Data d'alta  30.12.2017	12:00:00
+_LOCATION_
+_CONTACT_; _CONTACT_
+DOMICIL/RES.SOC 27.12.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Hematoma de ganglis basals drets.
+
+ANTECEDENTS
+Home de 70 anys, al·lèrgic a la penicil·lina.
+
+Hipertensió essencial en tractament mèdic.
+Diabetis mellitus tipus II sense complicacions. En tractament amb antidiabètics orals. Mal control metabòlic. Dislipemia en tractament amb estatines.
+Ictus isquèmic de territori vértebro-basilar amb lesió al cos callós que va cursar amb parèsia facial central esquerra i oftalmoparèsia. Sense recurrències.
+
+
+Situació funcional previa: Independent per les activitats bàsiques de la vida diària. Rankin previ:1
+
+MEDICACIÓ HABITUAL
+Atorvastatina 40mg/24h, Clopidogrel 75mg/24h, Dafiro 5/160mg/24h, Dianben 850mg/8h, Emconcor 2.5mg/24h, Gliclazida 30mg/24h, Omeprazol 20mg/24h, Tebetane 30mg/12h
+
+PROCÉS ACTUAL
+El pacient consulta per presentar, el dia 27/12/2017 a les 01:45h, de forma brusca mentre es trobava al llit, dificultat per aixecar-se pel que cau del llit. L´episodi és objectivat pel seu marit qui nega alteració del nivell de consciència o altra simptomatología acompanyant. S'activa codi ictus a les 02:12 hores per part del  SEM. Arriba al nostre centre a les 02:28h.
+
+Com a antecedent rellevant refereix l´acompanyan que el pacient es trobava refredat en les derreres 48h amb molts accessos de tos seca i que havia realitzat algunes transgressions dietètiques durant els dies de Nadal.
+
+EXPLORACIÓ FÍSICA
+
+FC	bpm Tªaxi 37.5 ºC
+FR	rpm Tªrec  ºC
+TA s	143 mmHg SAT O2 85 %
+TA d   90 mmHg Pes Kg
+
+Glicèmia capil·lar: 312 mg/dl
+Exploració neurològica urgent: pacient vigil, amb tendència a la somnolència, orientat en les tres esferes, no alteracions del llenguatge (obeeix ordres simples i complexes, nomina correctament i repeteix). No alteracions campimètriques per confrontació, no alteracions oculomotores, pupiles miòtiques reactives, parèsia facial central esquerre, resta de parells craneals normals. Miller fisher esquerre, no alteracions de la força en la resta d'extremitats. No alteracions sensitives. No dismetries.
+NIHSS: (1.0.0)0.0/1(0.0)(0.0)0.0.0.0.0 =2
+
+Informe d'alta d'hospitalització
+
+
+
+
+Exploració sistèmica: pal·lidesa mucocutània, correcta perfusió distal. Auscultació: hipofonesi bilateral amb alguns roncus, no sibilants. No alteracions de l'auscultació cardiaca. Abdomen tou i depressible.
+
+EXPLORACIÓ COMPLEMENTÀRIA
+Analítica d'urgències: hemograma: 9200 (86%N, 6.6%L), hco 34.1%, hb 10.8g/dL, plaquetes 22000. coagulació: TP 89%, INR 1.08, TTPAr 0.95. bioquímica: pendent EV: pH 7.39, pCO2 40mmHg, bicarbonat 24.2mmol/L. Hemocultius: pendent Sediment orina / Urocultiu: pendent
+
+RX Tórax: lleu patró cotonós bilateral
+
+ECG: ritme sinusal a 70bpm, sense alteracions agudes de la repolarització
+
+Neuroimatge basal: TC simple, realitzada el dia 27/12/2017 a les 02:40h. Hemorragia parenquimatosa aguda del núcleo caudado y lenticular derecho de aproximadamente 21 x 21x 26 mm de diámetros máximos aproximados APxLLxCC respectivamente , con escaso drenaje en tercer ventriculo y minimo edema perilesional , todo elloproduce leve efecto masa sobre parénquima adyacentey sobre el asta frontal del VLD. Prominencia de surcos de la convexidad infra y supratentoriales de forma proporcionada al tamaño del sistema ventricular compatible con leve atrofia cerebral difusa. Cisternas basales y perimesencefálicas libres. Línea media centrada. No se aprecian alteraciones óseas TC valorables Sin otras alteraciones parenquimatosas ni extraaxiales TC valorables.
+
+
+EXPLORACIONS COMPLEMENTÀRIES DURANT L'INGRÉS:
+
+Analítica d'ingrés: Hematologia (27/12/17): Leucocitos 9300 /µL, (N 88,7 % / L 5,5 / M 5,2 / E 0 / B 0,6), Htíes 4,39
+mill/µL, Hb 10,3 g/dL, Hcto 31,4 %, VCM 71,6 fL, Plaquetas 222000 /µL, TP 92 %, INR 1,06 sg, TP ratio 1,06,
+TTPA 30,7 sg, TTPA ratio 0,99, Fibrinógeno 470 mg/dL.
+Estudio Anemias (27/12/17): Reticulocitos 63000 /µL, (% rtc 1,43), Hb reticulocitaria 23,7 g/dL, Htíes hipocrómicos 13 %.
+Bioquimica (27/12/17): Glucosa 224 mg/dL, HbA1c 9,3 %, Urea 33 mg/dL, Creatinina 0,64, Filtrado glomerular estimado >90 mL/min/1.73 m2, Uratos 4,2 mg/dL, Ca 8, Fosfato 3, Mg 1,69, Na 129,1 mmol/L, K 3,36, Cl 92,7,
+ALT 19 U/L, GGT 27, FA 72, Bilirrubina 0,34 mg/dL, Bilirrubina directa 0,06, CK 172 U/L, Prot-C reactiva 13,2 mg/L. Lípidos.- Triglicéridos81 mg/dL, Colesterol 115, (HDL 26,3 / LDL 72).
+Hormonas (27/12/17): TSH 0,5 µUI/mL.
+
+Neuroimatge de control (29.12.2017): Persiste sin cambios TC significativos hemorragia parenquimatosa aguda del lenticular derecho y cabeza del núcleo caudado derecho, de aproximadamente 16 y 18 mm respectivamente de diámetros máximos aproximados. Persiste sin cambios similar efecto de masa sobre el asta frontal del VLD. Actualmente se aprecia una mínima hemorragia intraventricular (bilateral), de menor coeficiente de atenuación respecto al TC previo.
+
+Informe d'alta d'hospitalització
+
+
+
+EVOLUCIÓ CLÍNICA
+Es tracta d´un pacient home de 70 anys amb els antecedents prèviament descrits, que arriba al nostre centre via codi ictus per debilitat brusca de les extremitats esquerres de menys d´una hora d´evolució. A la seva arribada destaca dessaturació fins a 85% basal que recupera amb oxigenoteràpia, febreta, i hiperglicèmia de 312mg/dL. A l'exploració neurològica presenta bradipsiquia, parèsia facial central esquerre i Miller Fisher esquerre puntuant 2 en l´escala NIHSS. A l'exploració sistèmica destaca pal·lidesa mucocutània, i hipoventilació bibasal a l'auscultació respiratòria. Es realitza analítica que és normal excepte en que s´observa anèmia microcítica. Es realitza TC craneal urgent que demostra hemorragia intracrananeal profunda a territori de ganglis basals drets, adjancent al ventricle dret. S'orienta com a hemorràgia cerebral profunda de probable etiologia hipertensiva i es decideix ingrés a unitat d'ictus.
+
+Durant el seu ingrés el pacient requereix tractament amb insulina per normalització de les glicèmies així com tractament amb labetalol endovenós per control de la tensió arterial. Valorat per endocrinologia es considera al pacient tributari d´insulinització pel que s´indica control de glicèmies i es cita a Hospital de Dia per valoració del control de glicèmies i inici del tractament amb insulina. També destaca en l´analítica lleu hiponatrèmia que s´atribueix a la hemorràgia cerebral i es recomana restricció hidríca. Des del punt de vista neurològic presenta una evolució favorable amb milloria progressiva de la simptomatologia neurològica persistint únicament una lleu parèsia facial central esquerra i disàrtria. Es realiza neuroimatge de control que mostra hemorràgia de ganglis basals sense canvis.
+
+Donat que a la seva arribada el pacient està febricular i presenta dessaturació, i, a la placa de tòrax destaca una dubtosa condensació basal dreta, es realitza gasometria arterial en la que destaca insuficiència respiratoria amb pO2 de 48mmHg i es cursen antigenúries que resulten positives per S. pneumoniae. Amb la orientació de pneumònia extrahospitalària basal dreta per S. pneumoniae en pacient probable EPOC tipus bronquític crònic, el dia 29/12/17 s´inicia tractament amb levofloxacino que haurà de continuar després de l´alta hospitalària fins a cumplir 10 dies de tractament. Valorat per pneumologia s´indica que a l´alta es sol.liciti primera visita a Pneumologia de zona per a completar estudi. Tanmateix s'ha valorat per part d'Endocrinologia donat la tendència a al hiperglicèmia qui ajustra tractament i seguirà al pacient a l'hospital de dia per valorar insulinització.
+
+Davant l´estabilitat clínica i hemodinàmica del pacient es decideix alta a domicili per seguir control de forma ambulatòria.
+
+A l´alta NIHSS 2 mRS 3
+
+ORIENTACIÓ DIAGNÒSTICA
+Hematoma de ganglis basals drets d´etiologia hipertensiva. Pneumònia extrahospitalària basal dreta per S. pneumoniae. Possible EPOC tipus bronquitis crònica.
+HIpertensió arterial. Diabetis mellitus tipus II. Dislipèmia.
+Ictus isquèmic de territori vértebro-basilar d´etiologia i mecanisme indeterminat.
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Dieta de diabètic, sense sal y baixa en greixos. Atorvastatina 40mg 1comp/24h vo.
+
+Informe d'alta d'hospitalització
+
+
+
+
+Dafiro 5/160 1comp/24h vo. Tebetane 30mg 1comp/12h vo. Emconcor 2.5mg 1comp/24h vo. Omeprazol 20mg 1comp/24h vo.
+Levofloxacino 500mg 1comp/12h vo fins el dia 7 de gener del 2018. Spiriva respimat 2 inh cada 24 h.
+Atrovent 20mcg 2 inh cada 6 h si precisa.
+
+Suspendre de moment clopidogrel Suspendre glicazida
+
+Dianben (Metformina) 850mg 1-0-1 via oral
+Repaglinida 1mg 1-1-1 (abans d'esmorçar, dinar i sopar. No prendre si no hi ha ingesta). Autocontrols de glicèmica capil·lar abans de la visita amb Endocrinologia
+
+CONTROL
+Acudir a Hospital de Dia d´endocrinologia el dia 8 de gener   a les 9:00h (no està citat, acuri de forma espontània amb l'informe) .
+Primera visita a Neurologia (Dra. _NAME_) el dia 04/04/18 a les 09:30h.
+Primera visita a Pneumologia de zona al CAP Dr. _NAME_ el dia 18/04/2018 a les 15:15h. PFR a CAP Dr. _NAME_ el dia 27/02/18 a les 08:40h.
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+30.12.2017
+Pàgina 1 de 4

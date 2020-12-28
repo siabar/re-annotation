@@ -1,0 +1,63 @@
+T1	Fecha_de_ingreso 211 221	29.03.2017
+#1	AnnotatorNotes T1	2017-03-29
+T2	HORA 222 227	15:40
+#2	AnnotatorNotes T2	15:40
+T3	Fecha_de_alta 234 244	29.03.2017
+#3	AnnotatorNotes T3	2017-03-29
+T4	Hora_de_alta 245 250	19:38
+#4	AnnotatorNotes T4	19:38
+T5	Hemorragia_cerebral 360 368	HEMATOMA
+T6	Localizacion 369 384	CAPSULO-TALAMIC
+T7	_SUG_Ataque_isquemico_transitorio 427 432	ictus
+T9	FECHA 818 822	2015
+#9	AnnotatorNotes T9	2015-UNDEF-month-UNDEF-day
+T11	Hora_inicio_sintomas 1035 1040	12:00
+#11	AnnotatorNotes T11	12:00
+T12	_SUG_Lateralizacion 1081 1090	izquierda
+T13	Hora_llegada_hospital 1252 1257	15:00
+#13	AnnotatorNotes T13	15:00
+T14	_SUG_Ataque_isquemico_transitorio 1336 1341	ictus
+T15	_SUG_Lateralizacion 1472 1481	izquierda
+T16	_SUG_Lateralizacion 1528 1537	izquierdo
+T17	_SUG_TAC_craneal 1636 1638	TC
+T18	_SUG_Hemorragia_cerebral 1670 1678	Hematoma
+T19	_SUG_Localizacion 1705 1721	capsulo-talámico
+T20	_SUG_Lateralizacion 1722 1729	derecho
+T21	_SUG_Localizacion 1802 1812	ventrículo
+T22	_SUG_Lateralizacion 2331 2340	izquierda
+T23	_SUG_Lateralizacion 2387 2396	izquierdo
+T24	TAC_craneal 2512 2514	TC
+T25	_SUG_Hemorragia_cerebral 2524 2532	Hematoma
+T26	_SUG_Localizacion 2559 2575	capsulo-talámico
+T27	_SUG_Lateralizacion 2576 2583	derecho
+T28	_SUG_Localizacion 2655 2665	ventriculo
+T29	_SUG_Localizacion 2750 2761	subcortical
+T30	_SUG_Hemorragia_cerebral 2883 2891	Hematoma
+T31	_SUG_Localizacion 2892 2908	capsulo-talámico
+T32	Lateralizacion 2909 2916	derecho
+T33	_SUG_Lateralizacion 3349 3350	e
+T34	FECHA 3686 3696	29.03.2017
+#34	AnnotatorNotes T34	2017-03-29
+T35	FECHA 3738 3748	29.03.2017
+#35	AnnotatorNotes T35	2017-03-29
+T36	HORA 3749 3754	19:49
+#36	AnnotatorNotes T36	19:49
+T37	SECCION_DIAGNOSTICOS 304 319	DIAGNÒSTIC ALTA
+T38	SECCION_MOTIVO_DE_INGRESO 401 418	Motiu de consulta
+T39	SECCION_ANTECEDENTES 435 446	Antecedents
+T40	SECCION_PROCESO_ACTUAL 979 994	Malaltia actual
+T41	SECCION_EXPLORACION_FISICA 1928 1945	Exploració física
+T42	SECCION_EXPLORACIONES_COMPLEMENTARIAS 2485 2510	Exploració complementària
+T43	SECCION_DIAGNOSTICOS 2857 2879	Orientació diagnòstica
+T44	SECCION_EVOLUCION 2919 2927	Evolució
+T45	SECCION_TIPO_DE_INGRESO 3532 3546	Tipus d'ingrés
+T10	Fecha_llegada_hospital 211 221	29.03.2017
+T46	Fecha_inicio_sintomas 211 221	29.03.2017
+#6	AnnotatorNotes T46	2017-03-29
+#7	AnnotatorNotes T10	2017-03-29
+T47	Fecha_TAC_inicial 211 221	29.03.2017
+#8	AnnotatorNotes T47	2017-03-29
+T48	NIHSS_previa 2475 2482	NIHSS 6
+#10	AnnotatorNotes T48	6
+T8	Etiologia 2708 2720	hipertensivo
+T49	SECCION_MOTIVO_DEL_ALTA 3548 3560	Motiu d'alta

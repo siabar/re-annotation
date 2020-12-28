@@ -1,0 +1,129 @@
+IC DE MEDICINA I DERMATOLOGIA E014 SALA E MED. INT. AVI
+_NAME_	NHC: _ID_
+
+
+Sexo/Sexe: Masc.	Fecha nac./Data naix.: _DATE_	Edad/Edat: 61 años Dirección/Adreça: _LOCATION_	CP: _LOCATION_
+Municip. (Prov.): _LOCATION_  ABS:_SS_		Tel.:_CONTACT_ As.: SERVEI CATALA DE LA SALUT	CIP: _ID_
+Nº epis.: _ID_	Tipo/Tipus: HOSPIT.	Inici.: 06.09.2017
+Serv: NEUROLOGIA	UO Enf.: E014 SALA E MED. INT. AVI	Hora: 23:31:49
+
+
+
+
+
+Tipo ingreso/Tipus ingrés: Urgent	Motivo/Motiu alta: Defunc.
+Diag.:
+HEMATOMA INTRAPARENQUIMATOSO CEREBRAL () EMERGENCIA HIPERTENSIVA ()
+SÍNDROME FEBRIL SIN FOCO ()
+Proc.:
+ANALITICA ()
+TC CRANEAL + ANGIOTC () MONITORIZACIÓN ()
+INTUBACIÓN OROTRAQUEAL Y VENTILACIÓN MECÁNICA () SOPORTE VASOACTIVO ()
+
+
+
+
+INFORME EXITUS
+
+Motivo de consulta / Motiu de consulta
+HEMATOMA INTRAPARENQUIMATOSO CEREBRAL CON CONTAMINACIÓN TETRAVENTRICULAR
+
+Antecedentes e historia previa / Antecedents i història prèvia
+Paciente de 61 años, sin alergias a medicamentos. Exfumador desde los 50 años, con dosis acumulada de 45 paquetes-año. Sin otros hábitos tóxicos.
+
+
+ANTECEDENTES PATOLÓGICOS:
+
+-	HIPERTENSIÓN ARTERIAL en tratamiento con ARA-2. Hipertrofia septal leve sin alteración de la función ventricular.
+
+-	DIABETES MELLITUS tipo 2 en tratamiento con ADO.
+
+-	ENFERMEDAD PULMONAR OBSTRUCTIVA CRÓNICA, Gold II, diagnosticado por TC y espirometría en 2014.
+
+-	SÍNDROME DE APNEA-HIPOPNEA DEL SUEÑO, diagnosticado en 2011 y en tratamiento con CPAP.
+
+-	HIPERPLASIA BENIGNA DE PRÓSTATA, sin tratamiento específico.
+
+MEDICACIÓN HABITUAL: ASA 100mg/24h, omeprazol 20mg/24h, losartán 100mg/24h, metformina 850mg/12h, spiriva 18mcg/24h.
+
+Proceso actual / Procés actual
+Presenta, el día 6 de Septiembre hacia las 7 horas de la mañana cuadro de debilidad en extremidades derechas con caída desde su propia altura, de inicio súbito.
+
+A su llegada a urgencias presenta hipertensión arterial grave y se encuentra afebril sin precisar oxígeno. Presenta obnubilación, mirada desconjugada, anisocoria reactiva, paresia facial bilateral completa y plejia de extremidades derechas con paresia de izquierda.
+
+EN urgencias presenta disminución rápida del nivel de consciencia,  motivo por el que se procede a intubación orotraqueal para protección de la vía aérea. Para el control de la presión arterial se administra
+urapidilo.
+
+En el TC creaneal se objetiva hematoma intraparenquimatoso profundo en talamo izquierdo con extensión a mesencéfalo y con contaminación tetraventricular, de predominio en IV ventrículo, sin alteraciones en
+angio-TC. Se encuentra en ritmo sinusal.
+
+En la analítica presenta creatinina 1.2 mg/dL, sin alteraciones en el ionograma, el hemograma o la hemostasia.
+
+Se orienta como hematoma profundo de etiología hipertensiva y se comenta con neurocirugía, quienes desestiman tratamiento quirúrgico.
+
+Se explica a la familia el mal pronóstico vital a corto plazo y se traslada al Área de Vigilancia Intensiva.
+
+Exploración física / Exploració física
+*EXAMEN FÍSICO AL INGRESO:
+NRL: RASS -4 por sedoalgesia con propofol y remifentanilo.
+Resp: IOT + VM en modalidad VC con Vt 450 PEEP 5 Ppico 11 FiO2 30%. MV conservado sin ruidos agregados. CV: Tendencia a hipertension arterial (200/79 MMhG), FC 100x' sinusal R1 y R2 normofonéticos silencios libres. Pulsos radiales presentes simétricos rítmicos. No edemas en MMII. No IY.
+ABD: Blando, depresible. No organomegalias. RHA negativos. NRL: anisocoria (I>D) arreactivas.
+
+*INDICADORES DE ESTANCIA EN UCI: Indicador de gravedad: APACHE II: 19;Indicador disfunción orgánica: SOFA: 6; Indicadores de procedimiento: Ventilación mecánica invasiva (*); -> Nº días de VMI : 3;
+
+Laboratorio / Laboratori
+*ANALÍTICA AL INGRESO:
+-	BIOQUÍMICA GENERAL: Glucosa 246 mg/dL, Creatinina 1.22 mg/dL, FG [CKD- EPI] 63.54 ml/min/, Sodi 137 mEq/L, Potasi 4.0 mEq/L.
+-   HEMATIMETRIA:   Leucòcits   11.90   10^9/L,   Recompte   d´hematies   4.73   10^   12/L,   Concentració d´hemoglobina 146 g/L, Hematòcrit 0.420 L/L, VCM 88.6 fl, HCM 31 pg, CCMH 350 g/L, plaquetes 270
+
+
+
+10^9/L, Neutròfils 62.9%, Limfòcits 26.9%, Neutròfils abs. 7.5 10^9/L, Limfòcits abs. 3.2 10^9/L.
+-	HEMOSTÀSIA GENERAL: TP 98.5%, TTPa 23.1 seg, INR 1.01.
+
+*GASOM ARTERIAL con FiO2 30%: pH 7.39, PaCO2 34.5 mmHg, PaO2 111 mmHg, bicarbonato 20.7 mmol/L.
+
+Radiología / Radiologia
+* TC CRANEAL BASAL (06/09/2017): Hematoma profundo de medidas aproximadas de 50x41 mm, características agudas y que afecta la región capsulolenticular y talámica izquierda con extensión a mesencéfalo ipsilateral y apertura a ventrículos con contaminación tetraventricular, identificándose importante dilatación del sistema ventricular tanto a nivel supra e infratentorial, con astas temporales y frontales prominentes con signos sugestivos de actividad hidrocefálica. Este hematoma se asocia a leve edema perilesional y condiciona importante efecto masa sobre las estructuras vecinas condicionando desviación aproximada de 8 mm a la derecha de las estructuras de la linea media.
+
+* ANGIO-TC EXTRA E INTRACRANEAL (06/09/2017): Arco aórtico y segmentos proximales de troncos supraórticos sin ateromatosis ni signos de estenosis. Origen, bifurcación y segmentos cervicales de la arteria carótida interna sin ateromatosis ni signos de estenosis. Segmentos intracavernoso y supraclinoideo de la arteria carótida interna sin ateromatosis ni signos de estenosis. Origen de las arterias vertebrales sin ateromatosis ni signos de estenosis. Principales arterias cerebrales intracraneales permeables (ACAs, ACMs y ACPs). Sistema vertebrobasilar permeable. Imagen nodular hipodensa de 25 mm en lóbulo tiroideo derecho, a estudiar mediante ecografía tiroidea en caso de que el contexto clinico lo justifique.
+
+*RX TÓRAX: índice cardiotorácico conservado. Senos costofrénicos libres. No infiltrados parenquimatosos.
+
+Evolución / Evolució
+EVOLUCIÓN EN EL ÁREA DE VIGILANCIA INTENSIVA:
+1. HEMATOMA INTRAPARENQUIMATOSO CEREBRAL. EMERGENCIA HIPERTENSIVA.
+Al ingreso el paciente persiste hipertenso y taquicárdico, bajo sedación farmacológica con propofol y remifentanilo con buena tolerancia. Presenta pupilas anisocóricas reactivas, RASS -5. Reflejo cutáneo- plantar flexor bilateral. Para el control de la presión arterial se inicia labetalol ev eventualmente. Por fiebre de 38ºC se añade tratamiento antibiótico con amoxilina-clavulánico.
+Durante su estancia en la AVI se realiza ventana de sedación para valoración neurológica, objetivándose empeoramiento clínico progresivo, permaneciendo el paciente en coma arreactivo, con midriasis bilateral arreactiva y cutáneo-plantar indiferente, y con pérdida progresiva de reflejos de tronco del encéfalo así como diabetes insípida central que precisa uso puntual de desmopresina. Se realiza ecografía doppler transcranea que muestra flujo reberverante y ausencia de flujo diastólico en los territorios explorados.
+Ante los hallazgos descritos, se explica a la familia el mal pronóstico neurológico y vital del paciente a muy corto plazo y se decide conjuntamente la retirada del tratamiento de soporte.
+El paciente es Exitus Vitae el 8 de septiembre de 2017 a las 19:00 horas.
+
+Plan terapéutico / Pla terapèutic
+No procede.
+
+Otras recomendaciones / Altres recomanacions
+No procede.
+
+
+
+Firma/Signatura1: _NAME_	Firma/Signatura2: _NAME_ Categoría: Resident 3	Categoría: Especialista
+Nº Matrícula _SS_: _ID_	Nº Matrícula _SS_: _ID_
+
+
+
+
+Fecha/Data Informe: 08.09.2017
+Hora Informe: 19:07:51
+
+Docum.: _ID_
+Hist. Clínica: _ID_
+El _SS_ ha incorporado sus datos al Fichero de Pacientes, para tratarlos con fines sanitarios.
+Puede ejercer sus derechos de acceso, rectificación, cancelación y oposición, así como obtener mas información en la Unidad de Atención al Cliente.
+Vers. 00
+Pag. 2 de
+4
+Episod.: _ID_
+_SS_ ha incorporat les seves dades al Fitxer de Pacients, per a tractar-los amb finalitats sanitàries. Pot exercir els seus drets d'accés, rectificació, cancel·lació i oposició, i obtenir més informació a la Unitat d'Atenció al Client.
+_SS_
+_LOCATION_) _LOCATION_) Tel. _CONTACT_ Fax _CONTACT_
+http://_CONTACT_/

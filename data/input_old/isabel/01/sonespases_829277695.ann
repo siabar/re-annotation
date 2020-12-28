@@ -1,0 +1,50 @@
+T1	Fecha_de_alta 15 25	11-01-2018
+#1	AnnotatorNotes T1	2018-01-11
+T2	FECHA 41 51	10/01/2018
+#2	AnnotatorNotes T2	2018-01-10
+T3	FECHA 75 85	11/01/2018
+#3	AnnotatorNotes T3	2018-01-11
+T4	_SUG_Ictus_isquemico 202 207	ictus
+T7	NIHSS_previa 487 495	mRS 0 [2
+T8	_SUG_Etiologia 652 660	habitual
+T10	_SUG_Tratamiento_anticoagulante_alta 1174 1185	enoxaparina
+T11	_SUG_Tratamiento_anticoagulante_hab 1174 1185	enoxaparina
+T12	FECHA 2196 2204	10/01/18
+#12	AnnotatorNotes T12	2018-01-10
+T13	HORA 2205 2210	23:15
+#13	AnnotatorNotes T13	23:15
+T14	FECHA 2239 2247	10/01/18
+#14	AnnotatorNotes T14	2018-01-10
+T15	HORA 2248 2253	23:15
+#15	AnnotatorNotes T15	23:15
+T16	FECHA 2281 2289	10/01/18
+#16	AnnotatorNotes T16	2018-01-10
+T17	HORA 2290 2295	23:15
+#17	AnnotatorNotes T17	23:15
+T18	FECHA 2323 2331	10/01/18
+#18	AnnotatorNotes T18	2018-01-10
+T19	HORA 2332 2337	23:15
+#19	AnnotatorNotes T19	23:15
+T20	FECHA 2354 2362	10/01/18
+#20	AnnotatorNotes T20	2018-01-10
+T21	HORA 2363 2368	23:15
+#21	AnnotatorNotes T21	23:15
+T22	_SUG_Lateralizacion 3047 3054	derecha
+T23	_SUG_Lateralizacion 3669 3670	I
+T24	TAC_craneal 3820 3822	TC
+T25	Fecha_TAC_inicial 3849 3859	10-01-2018
+#25	AnnotatorNotes T25	2018-01-10
+T26	_SUG_Localizacion 3996 4007	ventricular
+T27	_SUG_Etiologia 4591 4605	Aterosclerosis
+T29	_SUG_Localizacion 4998 5007	posterior
+T31	_SUG_TAC_craneal 5104 5114	TC craneal
+T32	_SUG_Tratamiento_anticoagulante_alta 5272 5280	heparina
+T33	_SUG_Tratamiento_anticoagulante_hab 5272 5280	heparina
+T34	_SUG_Etiologia 5541 5549	habitual
+T35	Tratamiento_anticoagulante_alta 5551 5562	Enoxaparina
+T37	SECCION_DIAGNOSTICO_PRINCIPAL 27 39	Diagnosticos
+T38	SECCION_PROCEDIMIENTOS 157 171	Procedimientos
+T39	SECCION_MOTIVO_DE_INGRESO 209 226	Motivo de ingreso
+T40	SECCION_EXPLORACION_FISICA 2163 2174	Exploración
+T41	SECCION_EVOLUCION 4620 4642	Evolución Hospitalaria
+T42	SECCION_TRATAMIENTO_AL_ALTA 5330 5367	Recomendaciones y tratamiento al alta

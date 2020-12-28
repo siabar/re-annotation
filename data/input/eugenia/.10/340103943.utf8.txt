@@ -1,0 +1,111 @@
+_LOCATION_
+email: _CONTACT_ Telèfon _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 70 Anys
+NIF/DNI: _ID__NAME_; _NAME_; _NAME_
+Informe d'alta d'hospitalització
+14:54:16
+22.02.2017
+_LOCATION_
+_SS_ UNITAT D'ICTUS
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_
+DOMICIL/RES.SOC 21.02.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Mujer de 70 años que consulta a urgencias como Código Ictus.
+
+ANTECEDENTS
+Niega alergia a medicamentos ni hábitos tóxicos.
+
+-Hipertirodismo subclínico, TSH 0.49, T4 1.31, T3 3.43, anticuepros anti tiroglobulina <15, Anti TPo 42.1
+-Herpes zóster.
+
+SSF Natural de galicia sin antecedente familiar tiroideo ni personal. Independiente para ABVD.
+
+PROCÉS ACTUAL
+Paciente que presentando previamente asintomática sensación de rotación de objetos mientras estaba haciendo la cama. Se estira y posteriormente nota imposibilidad para levantarse y debilidad en extremidad superior izquierda. Se avisa al SEM, que acude y activa el código ictus. Durante el traslado ha presentado mejoría.
+
+EXPLORACIÓ FÍSICA
+
+AC: Tonos cardíacos rítmicos sin soplos. AR: murmullo vescicular conservado. A la exploración física neurológica, paciente vigil, orientada. No alteraciones del lenguaje ni el habla. Campimetría por confrontación normal. MOEs sin limitaciones, no diplopia ni nistagmo. No paresia/hipostesia facial, resto de ppcc normales. Balance motor 5/5 global. Sensibilidad táctil superficial normal. No extinciones, no dismetrías. Marcha no explorada. NIHSS 0.
+
+EXPLORACIÓ COMPLEMENTÀRIA
+-AG: sin alteraciones.
+-ECG: Ritmo sinusal a 85lpm. QRS estrecho. No alteraciones de la repolarización. Buena progressión de R en derivaciones precordiales.
+-TC multimodal: Estudi urgent que no mostra alteracions intracranials agudes significatives (ASPECTS 10/10) sense objectivar defectes de replecció a ACM dreta.
+-RM cerebral "protocolo ictus minor" que informa de la presencia de pequeños infartos subagudos que afectan de forma fragmentada al hemisferio cerebeloso derecho, los más recientes en el territorio de la PICA, y el de más tiempo  de  evolución  (subagudo  tardio)  en  territorio  de  la  AICA,  sugiriendo  por  su  topografia  un  origen ateroembólico vertebrobasilar. No se aprecian clares estenosis focales intracranials del segmento vertebrobasilar. Por dichos hallazgos, sugestivos de origen ateroembólico, se administra carga de doble antiagregación y estatinas a altas dosis.
+-Ecoscan cardíaco: Ventriculo izquierdo no dilatado ni hipetrófico. Fracción de eyección conservada. No alteraciones segmentarias de la contractilidad. Auricula izquierda no dilatada No valvulopatias significativas. Patrón transmitral compatible con alteración de la relajación. No se observan imagenes sugestivas de trombo intrauricular ni ventricular. Ateromatosis aórtica complicada distal proximal de aspecto heterogéneo sin evidencia de componentes móviles. No se observa aneurisma del septo interauricular. CONCLUSION Ateromatosis Aórtica
+
+Informe d'alta d'hospitalització
+
+
+
+
+complicada sin evidencia de componentes móviles
+
+
+EVOLUCIÓ CLÍNICA
+Mujer de 70 años sin antecedentes de interés que presenta cuadro compatible con POCI. Se ha realizado TC multimodal sin alteraciones. Se mantiene en urgencias para completar estudio.
+
+
+GUARDIA NEUROLOGÍA (_NAME_, _NAME_, _NAME_)
+Revaloramos a _NAME_ en urgencias. La paciente se ha mantenido clínica y hemodinámicamente estable. Acudió ayer por cuadro de vértigo, inetsabildiad y debilidad de extremidades izquierda que según ella misma ha remitido, estando actuamente asintomática. Niega recurrencias clínicas o nueva focalidad neurológica.
+A mi valoración paciente hemodinámicamente estable (TA 148/59mmHG, FC 63lpm, glucemia 87mg/dl). Pulso muestra extras´sitoles; se realiza nuevo ECg que muestra extrasñsitoles supraventricualres, sin otras alteraciones de la conducción o el ritmo cardiaco destacables. Vigil, alerta, orientada en las 3 esferas. Campimetría por confrontación sin déficits. Oculomotricidad sin rectricciones, nistagmos agtable a la mirada extrema a la derecha, niega diplopia. No paresia / hipoestesia facial. Resto de pares craneales conservados. Balanfce motor y sensitivo conservado de forma global. No dismetrías. Marcha no explorada.
+Se realiza RM cerebral "protocolo ictus minor" que informa de la presencia de pequeños infartos subagudos que afectan de forma fragmentada al hemisferio cerebeloso derecho, los más recientes en el territorio de la PICA, y el de más tiempo de evolución (subagudo tardio) en territorio de la AICA, sugiriendo por su topografia un origen ateroembólico vertebrobasilar. No se aprecian clares estenosis focales intracranials del segmento vertebrobasilar. Por dichos hallazgos, sugestivos de origen ateroembólico, se administra carga de doble antiagregación y estatinas a altas dosis.
+OD/Plan:
+-Infartos fragmentados en territorio de PICA y AICA izquierdas de probable origen ateroembólico. Doble antiagregación y estatinas a dosis altas. Pendiente de ingreso.
+
+Guardia NRL (_NAME_, _NAME_, _NAME_)
+Revaloramos a _NAME_ de 70 años en urgencias por infarto cerebelos izquierdo.
+Clínicamente estable, asintomática. EF TA 147/72mmHg, FC 61lpm, T35.8ºC, SpO2100%aa, BMT 105-99mg/dl. EF NRL destaca nistagmus HR agotable a la derecha. Marcha normal. Marcha en tándem imposible.
+-Ecoscan cardíaco: Ventriculo izquierdo no dilatado ni hipetrófico. Fracción de eyección conservada. No alteraciones segmentarias de la contractilidad.  Auricula izquierda no dilatada No valvulopatias significativas. Patrón transmitral compatible con alteración de la relajación. No se observan imagenes sugestivas de trombo intrauricular ni ventricular. Ateromatosis aórtica complicada distal proximal de aspecto heterogéneo sin evidencia de componentes móviles. No se observa aneurisma del septo interauricular. CONCLUSION Ateromatosis Aórtica complicada sin evidencia de componentes móviles
+
+OD/Plan:
+-Infartos fragmentados en territorio de PICA y AICA izquierdas por Aao complicada. Se mantiene doble antiagregación y estatinas a dosis altas. Pendiente estudio cardiológico. Se incluye a la paciente en protocolo CryptoFA , se coloca holter_ 172. Dado que se encuentra clínca y hemorinámicamente estable, se decide alta a domiclio, con controil CEX Neurovascular.
+
+DIAGNÒSTICS
+
+Informe d'alta d'hospitalització
+
+
+
+
+-Infarto PICA y AICA izquierda. Ateromatosis aórtica complicada.
+
+PROCEDIMENTS
+88.91 Imatge per ressonància magnètica de cervell i tronc cerebral
+88.72 "Ultrasó diagnòstic de cor; Ecocardiografia transesofàgica"
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+CONTROL DE FACTORES DE RIESGO VASCULAR:
+Dieta equilibrada. Ejercicio físico moderada. Control tensional y glucémico mediante médico de cabecera.
+
+TRATAMIENTO FARMACOLÓGICO:
+-AAS 100mg 1 comprimido cada 24 horas.
+-Clopidogrel 75ng 1 comprimido cada 24 horas.
+-Ranitidina 150mg cada 12 horas.
+-Atorvastatina 80mg 1 comprimido cada 24horas.
+
+CONTROL
+Acudir el dia 2 de marzo a las 11 am para control en gabinete ECOSCAN Unidad de Ictus. Acudir a CEX Neurovascular. Se le avisará telefónicamente o mediante correo convencional. Acudir a _SS_ para realizar ecografia transesofágica.
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+22.02.2017
+Pàgina 1 de 3

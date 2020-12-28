@@ -1,0 +1,136 @@
+_LOCATION_
+_LOCATION_) Anul·lació/Reprogramació visites:_CONTACT_
+Telèfon Centraleta: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 79 Anys
+NIF/DNI: _ID__NAME_; _NAME_; _NAME_
+Informe d'alta d'hospitalització
+08:55:00
+20.06.2017
+_LOCATION_
+_SS_ NEUROLOGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_; _CONTACT_
+DOMICIL/RES.SOC 05.06.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Ictus arteria cerebral anterior.
+
+ANTECEDENTS
+Sin alergias medicamentosas conocidas.
+Hábitos tóxicos:  Fumador hasta los 70 años aprox de 20cig/dia, actualmente fumador de 1 puro / día. Enolismo de 3UBEs al día.
+Factores de riesgo cardiovascular: HTA y DLP en tratamiento FA crónica en tratamiento anticoagulante.
+Insuficiencia cardiaca en seguimiento por _SS_. Último ecocardio abril 2016: Cardiopatía hipertensiva con ligera dilatación ventricular izquierda y función contráctil moderadamente deprimida. Severa dilatación de AI. Esclerosis valvular aórtica. Ligera calcifiación del anillo mitral con IM ligera. ACxFA..
+Bronquitis crónica.
+Insufiencia renal crónica conocida desde abril de 2016 en estadío 3 con FG de 30-35ml/min.
+Vasculopatia periférica con bypass bilateral en el 2000. Actualmente claudicación intermitente a los 5-10 pasos. Oclusión intestinal en el postoperatorio de vascular que requirió resección intestinal.
+Hemoptisis  en  2013  estudiado  por  neumologia.  Se  realizó  TC  torácico  que  no  mostró  alteraciones  y fibrobroncoscopia con citologia negativa.
+
+Situación basal: Vive con su esposa. Autónomo para todas las ABVD. Se desplaza con silla de ruedas motorizada por exterior y en domicilio deambula distancias cortas (por claudicación intermitente severa). Funciones superiores conservadas. mRankin 2.
+
+MEDICACIÓ HABITUAL
+-	Furosemida 40mg 1-1-0.
+-	Atrovent 20 3-3-3 con camara.
+-	Paracetamol 1g 1c/8h si dolor.
+-	Omeprazol 20mg 1-0-0.
+-	Simvastatina 40mg 0-0-1.
+- Balzak 40/10mg 1-0-0.
+-	Sintrom 4mg segun pauta.
+
+PROCÉS ACTUAL
+Varón de 79 años que consulta derivado como código ictus. El día 03/06 se acuesta asintomático y el día 04/06 al despertar a las 10:30h su mujer evidencia alteración del lenguaje, avisa a su hija y se activa código ictus vía SEM a las 12:55h por cuadro de alteración del lenguaje y hemiparesia derecha.
+
+A su llegada a nuestro centro a las 13:20h el paciente presenta TA 165/83. Neurológicamente: consciente, orientación no valorable, disartria, nomina 4/5, no evoca, no repite, obedece órdenes simples, no complejas, campimetría por confrontación normal, PICNR, MOE normal, PFSN derecha, paresia ESD 4/5 EID 4/5, sensibilidad poco valorable. NIHSS 9.
+
+Informe d'alta d'hospitalització
+
+
+
+
+Como exploraciones complementarias se realiza analítica: urea 10, creatinina 167, Hb 122, Hto 37%, INR en rango infraterapéutico (1.50), resto sin alteraciones significativas. La radiografía de tórax muestra cardiomegalia y ausencia condensaciones. TC craneal: sin lesiones agudas, ASPECTS 10. AngioTC: oclusión M1 ACM izquierda con missmatch en el territorio de ACM izquierda.
+
+Se orienta como ictus isquémico en territorio de ACM izquierda + oclusión proximal de ACM izquierda (M1) en paciente con FA crónica con INR en rango infraterapéutico. No tributario a rTpa endovenosa por clínica del despertar. Se contaca con guardia Neurovascular para valorar tratamiento de rescate endovascular (se activa guardia Neurovascular a las 14:05h). Se realiza punción femoral a las 15:30, se observa patrón a nivel de ACM izquierda compatible con estenosis crítica crónica con mucha colateralidad y buena perfusión del territorio distal y una oclusión del segmento A3 de ACA izquierda, se desestima la realización de trombectomía mecánica.
+
+Se orienta como ictus isquémico de territorio de ACA izquierda (oclusión de A3) de probable mecanismo embólico y etiología cardioembólica. Se decide ingreso en Neurología.
+
+EXPLORACIÓ FÍSICA
+
+FC	64 bpm Tªaxi  ºC
+FR	rpm Tªrec  ºC
+TA s	150 mmHg SAT O2 98 %
+TA d   73 mmHg Pes Kg
+
+NRL: consciente, obede órdenes simples y complejas, afásico (nomina 5/5, evoca 2/5, repite) (2), disártrico (2), PICNR, MOEs conservados, campimetría por confrontación normal, parálisis facial supranuclear derecha (2), paresia braquiocrural derecha 4/5 (1+1), sensibilidad conservada. NIHSS 7.
+AC: tonos cardiacos rítmicos, sin soplos. AR: MVC sin ruidos sobreañadidos.
+
+EXPLORACIÓ COMPLEMENTÀRIA
+EXPLORACIONES COMPLEMANTARIAS EN URGENCIAS
+Analítica:
+EABv: pH 7.39, pCO2 45 mmHg, pO2 34 mmHg, HCO3 27.2 mmol/l, EB 1.7 mmol/L
+Bioquímica: glucosa 5.4 mmol/l, urea 10 mmol/L, creatinina 167 umol/L, Na 142 mmol/L, K 4.61 mmol/L
+Coagulación: TTPA 1.01, TP 1.51
+Hemograma: Hb 122 g/L, hcto 37%, VCM 90 fL, plaquetas 151000, leucocitos 8700 (PMN 5800, linfos 1350)
+ECG: fibrilación auricular con respuesta ventricular media  a 70 lpm, QRS estrecho, no alteraciones de la repolarización.
+Rx tórax: cardiomegalia, aumento de trama broncovascular bilateral, pinzamiento de seno constofrénico derecho, no condensaciones en parénquima pulmonar.
+
+EXPLORACIONES COMPLEMENTARIAS EN PLANTA DE NEUROLOGÍA
+TC craneal control: Infarto cerebral establecido en territorio de la arteria cerebral anterior izquierda. Múltiples infartos lacunares en tálamo derecho, y en caudado y lenticular izquierdos. Infarto cerebral antiguo en polo occipital izquierdo.
+Analítica de ingreso: destaca FG 41mL/min, creatinina 140, Hb 11.3g/dL (similar a previas), hematocrito 33.80%, plaquetopenia 123000, leve leucocitosis 10100 con neutrofilia, VSG 102mm, coagulación normal
+RMN cerebral: El examen pone de manifiesto una extensa área situada frontal parasagital izquierda discontínua, afectando además a región de pálido izquierdo, hipointensa en T1, marcadamente hiperintesa en secuencias T2 y FLAIR, con hiperintensidad en las imágenes isotrópicas de difusión, en relación a lesión isquémica subagudas.
+
+Informe d'alta d'hospitalització
+
+
+
+
+Lesión de gliosis y malacia occipital izquierda sugestiva de infarto antiguo. La secuencia angioRM no muestra flujo en la cerebral media izquierda. Infartos lacunares múltiples. Moderados signos de atrofia cerebral difusa de predominio cortical. Áreas de gliosis y/o desmielinización de origen isquémico crónico en grado moderado-severo.
+
+
+EVOLUCIÓ CLÍNICA
+Ingresa varón de 79 años para estudio y control evolutivo de ictus de ACA izquierda con oclusión A3, sin tratamiento en fase aguda, con estenosis crítica crónica de ACM izquierda.  Se reinicia anticoagulación con sitnrom después de TC sin transformación hemorrágica, se cambia a Apixaban 2,5mg/12h el día 13/06 por fracaso terpéutico de sintrom, sin incidencias.
+
+Como parte del estudio vascular se realiza TC craneal de control donde se observa un nfarto cerebral establecido en territorio de la arteria cerebral anterior izquierda, múltiples infartos lacunares en tálamo derecho, y en caudado y lenticular izquierdos., e infarto cerebral antiguo en polo occipital izquierdo. La RMN cerebral pone de manifiesto una extensa área situada frontal parasagital izquierda discontínua, afectando además a región de pálido izquierdo, en relación a lesión isquémica subagudas, lesión de gliosis y malacia occipital izquierda sugestiva de infarto antiguo, ausencia de flujo en la cerebral media izquierda en la secuencia anigioRMN. En la analítica de ingreso: destaca FG 41mL/min, creatinina 140, Hb 11.3g/dL (similar a previas), hematocrito 33.80%, plaquetopenia 123000, leve leucocitosis 10100 con neutrofilia, VSG 102mm, coagulación normal.
+
+Neurológicamente presenta buena evolución clínica, presenta en el momento de la ralizacion de este informe NIHSS 1 a espensas de parálisis facial supranuclear derecha (1) y leve paresia 5-/5 braquiocrural derecha.
+
+Tolera dieta oral, sedestación y deambulación asistida por dos personas de pequeño recorrido dentro de la habitación.
+
+Se orienta como ictus ACA izquierda sin tratamiento en fase aguda, NIHSS 1, mRankin 4.
+
+El paciente es dado de alta a día 20/06 al _SS_ para realizar rehabilitación Sería oportuno nueva analítica con realización de VSG de control dado elevada en momento actual sin claro desencadenante.
+
+DIAGNÒSTICS
+436/5 Ictus ACA izquierda cardioembólica y ACM izquierda aterotrombótica.
+
+PROCEDIMENTS
+98.20 Extracció de cos estrany, no especificat de cap altra manera
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Se adjuntan.
+En caso de duda contactar con Unidad 9.1 (telef _CONTACT_)
+
+CONTROL
+Control  médico cabecera y centro sociosanitario.
+
+Informe d'alta d'hospitalització
+
+
+
+
+DESTINACIÓ A L'ALTA:	HOSP. AGUTS/PSQ
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+20.06.2017
+Pàgina 1 de 4

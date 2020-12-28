@@ -1,0 +1,122 @@
+_LOCATION_ Telf Consultes: _CONTACT_ / _CONTACT_
+Telf Centraleta Hospital: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 61 Anys
+NIF/DNI: _ID__NAME_; _NAME_
+Informe d'alta d'hospitalització
+CP	_LOCATION_
+ABS	_SS_
+Servei	NEUROLOGIA
+Data d'alta  18.08.2017	12:00:59
+_LOCATION_
+_CONTACT_
+ATEN.PRIMÀRIA 13.08.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Dona de 60 anys que ingressa procedent d'UCI per ictus isquèmic a territori ACM E:
+
+ANTECEDENTS
+. No té al·lèrgies medicamentoses.
+. Ex fumadora.
+
+. Hipertensió arterial dx als 37 anys.
+. Dislipèmia
+. IQ Cataractes, Lligadura de trompes.
+. Implants dentaris fa uns 15 dies. Autònoma. Rankin previ 0.
+MEDICACIÓ HABITUAL
+Hidrosalouretil 50mg, Atenolol 50mg.
+
+PROCÉS ACTUAL
+El dia 13.08.17 es va aixecar amb normalitat. A les 8:30, després de tractament hipotensor, malestar indeterminat amb nàusees, dificultat per caminar; portada a CAP, en sortir del cotxe, afàsia i hemiparèsia dreta. Activació de Codi Ictus a CAP. Arriba a Ucies a les 10:30. En arribar, afàsia i hemiparèsia dreta. TC de crani anodí, amb angioTC normal. ECG ACFA. Analítica normal.
+
+Valoració a les 11:30. Conscient, orientada. Asimetria del solc D<E. Anestèsia EEDD. Mà dreta parietal, amb moviments de desaferentització i dismetria sensorial. NIHSS de 5, Trombolisi ev amb rtPA  a les 11:45 hores.
+
+EXPLORACIÓ FÍSICA
+
+FC	bpm Tªaxi 37.0 ºC
+FR	rpm Tªrec  ºC
+TA s	148 mmHg SAT O2  %
+TA d   89 mmHg Pes Kg
+
+Bon estat general
+AR: Murmuri vesicular conservat
+ABD: Tou i depressible. No dolorós a la palpació. No es palpen masses ni visceromegàlies. AC: tons arítmics.
+No edemes. Polsos perifèrics presents i simètrics.
+NRL: conscient, orientada, parla i llenguatge conservats, campimetria per confrontació normal. PICNR, MOE conservada, PPCC conservats, Miller-Fisher dret, resta força 5/5, anestèsia braquial dreta amb desaferentizació sensitiva ESD, hipoestèsia crural dreta, RCP flexors. NIHSS: 2
+
+Informe d'alta d'hospitalització
+
+
+
+EXPLORACIÓ COMPLEMENTÀRIA
+URGÈNCIES I UCI:
+Analítca: Normal
+TC crani amb angio IC i TSAO 13.08.17: No signes d'hemorràgia ni isquèmia aguda. Anodí. Angiografia que no mostra oclusions.
+TC crani de control 14.08.17: Aparició d'una lesió isquèmica aguda còrtico-subcortical post-central i parietal inferior esquerra, a territori superficial de l'artèria cerebral mitja esquerra. Sense signes de transformació hemorràgica.
+ECG: Fibrilació auricular a 120 lpm.
+
+A/S Neurologia (17/08/2017):
+- BQ: Glucosa 88 mg/dL, Urat 5.83 mg/dL, Urea 32 mg/dL, Creatina 0.48 mg/dL, Colesterol 214 mg/dL, Colesterol HDL 52 mg/dL, Colesterol LDL 136.26 mg/dL, Triglicèrid 129 mg/dL, AST 26 U/L, ALT 33 U/L, GGT 38 U/L, FA 57 U/L, Na 140.0 mEq/L, K 4.0 mEq/L.
+-	Hormones: Tirotropina (TSH) 1.78 uUI/mL, Tiroxina (lliure) (FT4) 0.98 ng/dL.
+-	Hemograma: Hemoglobina 13.6 g/dL, Hematòcrit 41.0 %, VCM 92.6 fL, ADE 13.0 %, CCMH 33.2 g/dL, HCM 30.7 pg, Leucòcits 8210/mL amb fòrmula normal, Plaquetes 284000/mL.
+Control hemostàsia (18/08/2017): INR 1.09, T.protrombina 11.8 seg, Raó T.protrombina 1.09.
+
+Eco-Doppler de TSA (17/08/2017): L'estudi morfològic no mostra engruiximent miointimal (EMI) carotidi ni imatges d'estenosis o ateromatosis al territori explorat, excepte dues petites calcificacions intimals menors de 2 mm a CI esquerra proximal. Els registres espectrals mitjançant doppler pulsat no evidencien canvis valorables en la seva morfologia ni en els paràmetres hemodinàmics. Ambdues vertebrals són permeables en el seu trajecte visible (V1-V2), sense anomalies en els registres espectrals. Sense altres troballes significatives en la resta de l'exploració. CONCLUSIÓ: Mínima ateromatosis a caròtida interna esquerra proximal, estudi actual sense anomalies de significació patològica.
+
+Ecografia cardíaca transtoràcica (16/08/2017): Ventricle esquerre no dilatat,  no hipertròfic, funció sistòlica conservada, sense alteracions evidents de la contractilitat segmentària. Ventricle dret de mida normal, funció conservada. Aurícula esquerra dilatada. Vàlvula aòrtica trivalva, amb obertura conservada. Vàlvula mitral normal. Vena cava inferior no dilatada. Sense vessament pericàrdic. CONCLUSIONS: Aurícula esquerra dilatada, resta normal.
+
+EVOLUCIÓ CLÍNICA
+Dona de 61 anys ingressada a Neurologia per Ictus isquèmic a artèria cerebral mitja esquerra tractat amb fibrinolisis ev amb rtPA, sense incidències immediates.
+
+Durant la seva estada hospitalària, la pacient s'ha mantingut hemodinàmicament estable, sense complicacions en TAC de control post-fibrinolisis on evidencia infart a territori ACM E. S'ha iniciat rehabilitació amb millora progressiva de la clínica residual a mà dreta persistint dèficit sensitiu sever per totes les modalitats a mà dreta.
+Donat FA de novo en pacient sense cardiopatia estructural, s'inicia tractament amb digoxina i anticoagulació amb Sintrom.
+
+DIAGNÒSTICS
+436/5 Ictus isquèmic a ACM esquerra. Origen cardiomebòlic. NIHSS 0. Rankin 2 ACXFA paroxística
+Hipertensió arterial
+
+Informe d'alta d'hospitalització
+
+
+
+
+
+
+
+PROCEDIMENTS
+89.52 Electrocardiograma. ECG NOS, ECG (amb 12 o més derivacions)
+89.52 Electrocardiograma. ECG NOS, ECG (amb 12 o més derivacions)
+89.52 Electrocardiograma. ECG NOS, ECG (amb 12 o més derivacions)
+87.03 Tomografia axial computada de cap. TAC de cap
+88.77 Ultrasò diagnòstic de sistema vascular perifèric. Enregistrament de trombosi venosa profunda
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+-	Pradaxa 150mg/12h.
+-	Stop antihipertensius. Valorar reiniciar-los per part del metge de capçalera en una setmana amb objectius < 130/90
+-	Digoxina 0.25mg/24h.
+-	Atorvastatina 80mg/24h.
+-	Dieta mediterrània baixa en greixos i fregits.
+
+CONTROL
+-	Control ambulatori amb el seu Metge d'Atenció primària amb analítca de control (s'adjunta volant) en 2 setmanes.
+-	Seguir en tto rehabilitador
+-	Control a Consultes Externes de Cardiologia (Dr. _NAME_) el 20/10/2017 a les 9:32h.
+-	Control a consulta de TAO (edificio A, consulta 107) el día 15/9 a les 9.45h.
+-	Pel seus especialistes habituals.
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+18.08.2017
+Pàgina 1 de 3

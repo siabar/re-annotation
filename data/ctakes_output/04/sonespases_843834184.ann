@@ -1,0 +1,27 @@
+T0	FECHA 15 25	08-02-2018
+#0	AnnotatorNotes T0	2018-02-08
+T1	SECCION_DIAGNOSTICOS 27 39	Diagnosticos
+T2	FECHA 41 51	05/02/2018
+#2	AnnotatorNotes T2	2018-02-05
+T3	_SUG_Ictus_isquemico 61 93	ECVA isquémica: infarto cerebral
+T4	_SUG_Arteria_afectada 117 132	vertebrobasilar
+T5	_SUG_Etiologia 136 159	etiología indeterminada
+T6	SECCION_PROCEDIMIENTOS 163 177	Procedimientos
+T7	SECCION_MOTIVO_DE_INGRESO 273 290	Motivo de ingreso
+T8	SECCION_ANTECEDENTES_PATOLOGICOS 402 422	Antecedentes Médicos
+T9	_SUG_mRankin 464 469	mRS 0
+T10	SECCION_PROCESO_ACTUAL 594 603	Anamnesis
+T11	FECHA 610 622	3 de febrero
+#11	AnnotatorNotes T11	2018-02-03
+T12	HORA 662 667	01:00
+#12	AnnotatorNotes T12	01:00
+T13	SECCION_EXPLORACION_FISICA 1008 1019	Exploración
+T14	_SUG_NIHSS 1717 1724	NIHSS 1
+T15	FECHA 1918 1926	5-2-2018
+#15	AnnotatorNotes T15	2018-02-05
+T16	SECCION_EXPLORACIONES_COMPLEMENTARIAS 2092 2126	Resultados pruebas complementarias
+T17	_SUG_TAC_craneal 2175 2186	TAC craneal
+T18	SECCION_EVOLUCION 2807 2829	Evolución Hospitalaria
+T19	SECCION_TRATAMIENTO_Y_RECOMENDACIONES_AL_ALTA 3108 3145	Recomendaciones y tratamiento al alta
+T20	_SUG_Tratamiento_antiagregante 3273 3295	Ácido acetilsalicílico
+T21	_SUG_TAC_craneal 3626 3633	craneal

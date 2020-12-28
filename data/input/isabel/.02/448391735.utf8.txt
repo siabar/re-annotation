@@ -1,0 +1,107 @@
+I.CLINIC DE NEUROCIÈNCIES NEUROLOGIA
+_NAME_	NHC: _ID_
+
+
+Sexo/Sexe: Fem.	Fecha nac./Data naix.: _DATE_	Edad/Edat: 82 años Dirección/Adreça: _LOCATION_		CP: _LOCATION_
+Municip. (Prov.): _LOCATION_  ABS:_SS_		Tel.:_CONTACT_ As.: SERVEI CATALA DE LA SALUT	CIP: _ID_	NASS: _ID_
+Nº epis.: _ID_	Tipo/Tipus: HOSPIT.	Inici.: 15.11.2017
+Serv: NEUROLOGIA	UO Enf.: G6B4 SALA G NEUROL. CURT. E Hora: 22:11:34
+Facult. de ref.: _NAME_
+
+
+
+
+Tipo ingreso/Tipus ingrés: Urgent	Motivo/Motiu alta: CSS Conval.
+Diag.:
+ICTUS ISQUÉMICO ACMI (434.91)
+Proc.:
+
+
+
+
+INFORME CLÍNICO ALTA / INFORME CLÍNIC ALTA
+
+Motivo de consulta / Motiu de consulta
+Alteración del lenguaje y debilidad de extremidades derechas.
+
+Antecedentes e historia previa / Antecedents i història prèvia
+Mujer de 82 años, sin alergias conocidas. No hábitos tóxicos. Independiente para la vida diaria, mRS 0.
+
+*ANTECEDENTES PATOLÓGICOS:
+1.	HIPOTIROIDISMO en tratamiento sustitutivo.
+2.	DISLIPEMIA en tratamiento dietético.
+3.	POSIBLE ARTRITIS REUMATOIDE.
+4.	SINDROME CONSTITUCIONAL en estudio. Pendiente de colonoscopia y analítica sanguínea por pérdida de 4 kg en 2 meses y estreñimiento. Antecedente familiar de CCR en hermana.
+5.	OSTEOPOROSIS
+
+*MEDICACIÓN HABITUAL: Levotiroxina 75 mcg/24h.
+
+Proceso actual / Procés actual
+El 15/11 a las 20:30h aproximadamente es encontrada caída en el suelo de su domicilio con alteración del lenguaje y debilidad de extremidades derechas. Última vez vista asintomática el día anterior por la tarde- noche.
+
+Exploración física / Exploració física
+Frecuencia respiratoria (rpm) 13, PAS (mm Hg) 105, PAD (mm Hg) 53, Pulsioximetría (%) 99, Tª axilar (ºC)
+35.7. Glicemia capilar (mg/dl) 118.
+NRL: Consciente. Responde nombre y edad bien. Afasia mixta (no nomina, no repite, realiza órdenes simples pero no complejas). Mirada desviada a la izquierda. Reflejo de amenaza derecho abolido. Hemiparesia facio (mod)-braquiocrural(0/5) derecha. Reflejo cutáneoplantar extensor derecho. NIHSS 18.
+
+Laboratorio / Laboratori
+* ANALÍTICA SANGUÍNEA: PCR 5; leuc 12000. Sin otras alteraciones a destacar.
+
+
+Radiología / Radiologia
+*	TC CEREBRAL: No se observan imágenes de sangrado intraparenquimatoso ni extraaxial. Extensa hipodensidad que afecta al territorio de la arteria cerebral media izquierda en relación con infarto establecido. Arteria cerebral media izquierda hiperdensa. Mínimo desplazamiento de estructuras de referencia de línea media hacia la derecha.
+
+Exploraciones complementarias / Exploracions complementàries
+*	DOPLER TSA Y TC: Oclusión/suboclusión de la arteria carótida interna izquierda con repercusión intracraneal. No se visualiza la arteria oftálmica ni cerebral anterior ni cerebral media del lado izquierdo. Placa irregular e hiperecogénica en la bifurcación y arteria carótida interna derecha que no condiciona una estenosis por criterios doppler. Patrón de alta resistencia y flujo turbulento en la arteria cerebral posterior izquierda proximal.
+
+* HEMOCULTIVOS 2/2 Positivos por Klebsiella pneumoniae Antibiograma 1(CMI:µg/ml) Amikacina S (<=4) Amox./àc. clavulànic S (<=2/2) Ampicil.lina R (>8) Ceftazidima S (<=0,5) Ceftriaxona S (<=0,5) Cefuroxima S
+(4)	Ciprofloxacina S (<=0,25) Colistina S (<=1) Cotrimoxazol R (>4/76) Ertapenem S (<=0,25) Gentamicina S (<=1) Imipenem S (<=0,25) Meropenem S (<=0,125) Pipera/tazobactam S (<=4/4) Tobramicina S (<=1)
+
+*	SEDIMENTO DE ORINA patológico Hematies 30-50, Leucos 10-20, nitritos negativos.
+
+*	Rx tórax sin alteraciones relevantes.
+
+Evolución / Evolució
+1.	ICTUS ISQUÉMICO EN EL TERRITORIO DE LA ARTERIA CEREBRAL MEDIA IZQUIERDA (ACMI).
+A su llegada a Urgencias se encuentra normotensa y afebril. En la exploración neurológica presenta un síndrome hemisférico izquierdo completo (NIHSS 18). La neuroimagen (TC cerebral) muestra lesión extensa establecida en territorio de ACMI. El estudio vascular (ecodoppler transcreaneal) muestra oclusión/suboclusión de la arteria carótida interna izquierda. Analítica sanguínea con leve leucocitosis, PCR 5, sin otras alteraciones destacables. La monitorización cardíaca realizada en la Unidad de Ictus no ha objetivado la presencia de trastornos paroxísticos del ritmo cardíaco. Dada la extensión de la lesión ya establecida en la primera neuroimagen no se realiza tratamiento de reperfusión en la fase aguda y la paciente ingresa en la Unidad de Ictus.
+Se orienta como un ictus en territorio de ACMI de etiología aterotrombótica, por lo que inicia antiagregación con AAS 100 mg. Durante su estancia en la Unidad de Ictus y posteriormente en la planta de neurología la paciente se muestra clínicamente estable con un déficit neurológico extenso.
+Dada estabilidad clínica se traslada a centro de convalescencia. Al traslado persiste un síndrome hemisférico cortical izquierdo extenso (NIHSS 17, afasia global y hemiplejia derecha). Al traslado porta sonda nasogástrica para nuetrición enteral y se ha iniciado fisioterapia. Se recomienda control por su médico de familia.
+Al alta: NIHSS=17; mRS=5; TOAST aterotrombótico.
+
+2.	BACTERIEMIA POR KLEBSIELLA PNEUMONIAE.
+A raíz de episodio febricular se realizan hemocultivos y se inicia Ceftriaxona. En uno de los hemocultivos crece Klebsiella pneumoniae sensible. La paciente no repite episodios febriculares durante el resto de su estancia. Se retira Ceftriaxona tras 5 días de tratamiento restando la paciente asintomática desde el punto de vista infeccioso en los días posteriores.
+
+Plan terapéutico / Pla terapèutic
+-	Omeprazol 20 MG. Vía oral. Una vez al día, en el desayuno.
+-	Enalapril 15 MG. Vía oral. Dos veces al día: desayuno y cena.
+-	
+
+
+-	Eutirox 88 MCG. Vía oral. Cada 5 dias.
+-	Acido acetilsalicilico 100 MG. Vía oral. Una vez al día, en el desayuno.
+-	Clexane 4000 u.i. (40 mg)/ 0,4 ml  solucion inyectable , 30 jeringas pre cargadas de 0,4 ml. 40 MG. Vía subcutanea. Cada 24 horas.
+-	Eutirox 75 MCG. Vía oral. Cada 24 horas.
+
+Otras recomendaciones / Altres recomanacions
+Controles por sus médicos habituales.
+
+
+
+Firma/Signatura1: _NAME_	Firma/Signatura2: _NAME_ Categoría: Resident 2	Categoría: Espec. Senior
+Nº Matrícula _SS_: _ID_	Nº Matrícula _SS_: _ID_
+
+Fecha/Data Informe: 01.12.2017
+Hora Informe: 14:23:21
+
+Docum.: _ID_
+Hist. Clínica: _ID_
+El _SS_ ha incorporado sus datos al Fichero de Pacientes, para tratarlos con fines sanitarios.
+Puede ejercer sus derechos de acceso, rectificación, cancelación y oposición, así como obtener mas información en la Unidad de Atención al Cliente.
+Vers. 00
+Pag. 2 de
+3
+Episod.: _ID_
+_SS_ ha incorporat les seves dades al Fitxer de Pacients, per a tractar-los amb finalitats sanitàries. Pot exercir els seus drets d'accés, rectificació, cancel·lació i oposició, i obtenir més informació a la Unitat d'Atenció al Client.
+_SS_
+_LOCATION_) _LOCATION_) Tel. _CONTACT_ Fax _CONTACT_
+http://_CONTACT_/

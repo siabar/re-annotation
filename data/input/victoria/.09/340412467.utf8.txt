@@ -1,0 +1,77 @@
+_SS_
+Núm. HC: _ID_
+Edat: 66
+Núm. Episodi: _ID_
+Núm. Assistència: _ID_
+Nom i Cognoms: _NAME_
+Adreça: _LOCATION_
+Població: _LOCATION_
+Afiliació: _ID_
+Data Ingrés:16.02.2017 Data Alta: 21.02.2017
+Tel: _CONTACT_
+Sexe:
+_LOCATION_ _CONTACT_ / _CONTACT_
+_CONTACT_Informe de asistencia
+SERVICIO DE MEDICINA INTERNA
+Paciente de 66 años edad que ingresa a servicio de Medicina Interna procedente de UCIES con diagnóstico de ICTUS lacunar.
+
+ANTECEDENTS PERSONALES:
+Alergias: niega alergias medicamentosas conocidas. Estado basal: independiente para todas las ABVD. Hábitos tóxicos: Fumador de 1 paq./día desde hace 50 años, ex enolismo desde hace 3 años.
+
+ANTECEDENTS PATOLÓGICOS:
+-HTA.
+-Dislipemia.
+-Estenosis Carotídea Moderada (11.2015). Se realizó estudio ambulatorio: Eco TSA: estenosis ACI derecha e izquierda del 30-50%.
+-Claudicación intermitente.
+-EPOC. PFR (09.2013): CVF 87, FEV1/FVC: 56.
+-Otros: lumbociatalgia, cervicalgia.
+
+Medicación  habitual:  adiro  100mg,  atrovent  2-2-2,  salbutamol 2-2-2-2,  simvastatina  20mg 0-0-1, budesonida 200 2-0-2, lyrica 75 1-0-0, omeprazol 20mg 1-0-0
+
+ENFEREMDAD ACTUAL:
+Ayer a las 14:30-15 hrs presenta episodio de paresia en hemicuerpo derecho por lo que llama a SEM, activan código ictus y le trasladan a UCIES.
+
+EXPLORACIÓ FÍSICA:
+Constantes: TA 159/86 mmHg, FC 62x', Temp. 36.0ºC, Sat. O2 97%, Glic. Cap. 119 mg/dl. General: BEG, normocoloreado, normohidratado, eupnéico, afebríl.
+Respiratorio: MVC , algunos roncus dispersos.
+Cardiovascular: RCR sin soplos, no IY, no RHY, no edema de EEII, no signos de TVP, pulsos periféricos presentes, pulso pedio izquierdo disminuido.
+Abdomen: Blando, depresible, no doloso a la palpación, no masas ni megalias, PPLB negativa. Neurológico: Glasgow 15, pupilas isocóricas, normorrefléxicas, movimientos oculares conservados, campimetría normal, PCC, sensibilidad conservada, fuerza ESD 4/5, fuerza en EEII 5/5, no afasias.
+
+EXPLORACIONS COMPLEMENTÀRIES:
+Análisis: Hb. 14.7, Hto. 44.8, HCM 30.8, VCM 93.8, Plq. 203, Leuc. 14.4 (NS 85%,L 12%, M3%), INR
+0.93, Fibr. 400, Gluc. 229, Ur. 42, Cr. 0.97, FG 81, Bilirr 0.6, ALT 27, Lactat. 3.3, K 4.8, Na 137, PCR 5.4.
+EAB: pH 7.36, pCO2 53, HCO3 29.9, CO2 total 31.5, Exces bas. 4.5.
+Rx de tórax: ICT aumentado, ángulos costo-frénicos y cardio-frénicos libres, hílios congestivos, no condensaciones.
+ECG: RS a 100x'
+TAC craneal: Estructuras de línea media centradas con sistema ventricular de medida y configuración dentro de la normalidad. Pequeño lacunar a nivel del centro semioval izquierdo. A nivel del centro semioval derecho se observa alguna pequeña imagen hipodensa que sugiere la posibilidad de un pequeño lacunar. Cuarto ventrículo centrado y cisternas perimesencefálicas libres. No se observa sangrado intracraneal. El resto del estudio sin hallazgos indicativos. Conclusión: Lacunar crónico en centro semioval izquierdo y también probable lacunar a nivel de centro semioval derecho.
+
+ECO TSA Arteria carótida interna (ACI) derecha: Se aprecia placa hiperecogénica-calcificada, heterogénea, irregular, con turbulencia de flujo sin aceleración, situadas en cara posterior sugestiva de estenosis 0-30%. Arteria carótida interna (ACI) izquierda: Se aprecia placa hiperecogénica-calcificada, heterogénea, irregular, con turbulencia de flujo sin aceleración, situadas en cara posterior sugestiva de estenosis 30-50%. Arterias vertebrales permeables y con flujo de sentido anterógrado.
+
+EVOLUCIÓN Y COMENTARIOS:
+Paciente de 66 años con FRCV y estenosis carotídea moderada bilateral, que es valorado en UCIES traído por SEM por código ictus. A su llegada se encuentra hipertenso, con hemiplejía derecha con un (NIHHS de 7). Se inicia tratamiento con urapidil 50 mg con mejoría de TA. Se realiza TAC craneal que muestra Lacunar crónico en centro semioval izquierdo y también probable lacunar a nivel de centro semioval derecho, se contacta con Neurólogo de guardia _SS_, Dr. _NAME_ se decide posterior a TA <180/90 mmHg, iniciar rTPA 8 mg en bolus y 70 mg en 60 min (hora de fibrinólisis 17:45). Posterior a tratamiento el paciente presenta NIHHS de 2, se monitoriza e ingresa a medicina interna.
+
+En planta se encuentra hemodinámicamente estable, buena Sat. O2 basal, glicemias correctas. Presenta de fuerza ESD 4/5, ESD y EEII dentro de la normalidad.
+
+Se ha iniciado tratamiento con parches de nicotina, se cambia Adiro por Clopidogrel y se aumenta el tratamiento hipolipemiante.
+
+Acudirá a CCEE de neurologia
+
+
+DIAGNÓSTICOS:
+DP: ICTUS Lacunar (ACM).
+
+PROCEDIMINTOS:
+TAC CRANEAL	87.03
+ECO TSA	88.72
+
+TRATAMINTO AL ALTA:
+
+1	ATORVASTATINA 80 MG comp, 80 mg oral SOPAR (19) Diaria
+2	CLOPIDOGREL 75 MG comp, 75 mg oral C/24H (8) Diaria
+3	NICOTINA 21 mg/24h pegat, 1 uni TD C/24H (8) Diaria
+4	OMEPRAZOL 20 MG caps, 20 mg oral C/24H (8) Diaria
+5	PREGABALINA 75 MG càpsula, 75 mg oral C/24H (8) Diaria
+6	SPIOLTO 2 inh INH C/24H (8) Diaria Cordialmente,
+Dr. _NAME_  _ID_ Dr. D. _NAME_ _ID_.
+
+_LOCATION_,21.02.2017

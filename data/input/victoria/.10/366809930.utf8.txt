@@ -1,0 +1,120 @@
+_LOCATION_
+email: _CONTACT_ Telèfon _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 81 Anys
+NIF/DNI: _ID_Informe d'alta d'hospitalització
+14:00:22
+03.05.2017
+_LOCATION_
+_SS_ NEUROLOGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_
+DOMICIL/RES.SOC 27.04.2017
+Equipo Dra _NAME_ (Dra _NAME_, Dr _NAME_).
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Mujer de 81 años que ingresa en planta de Neurología por ictus ACM izquierda.
+
+ANTECEDENTS
+Sin alergias medicamentosas conocidas. No hábitos tóxicos.
+
+-Hipertensión arterial, en tratamiento farmacológico.
+-Fibrilación  auricular paroxística diagnosticada en octubre 2016. Se prescribió tratamiento anticoagulante con enoxaparina sin poder realizarse el cambio a anticoagulación oral.
+-Dislipemia, sin tratamiento farmacológico en el momento actual.
+-Deterioro cognitivo no filiado. Consta antecedente de demencia en el CAP, sin informes ni otras pruebas.
+-Intervenciones quirúrgicas(4) por tumores mamarios benignos.
+-Histerosalpingoforectomía bilateral en 1981 por metrorragias.
+
+SSF: vive con su hija, autonomía en el interior del domicilio, no sale sola de casa. mRS 2.
+
+MEDICACIÓ HABITUAL
+Atrovent,  Metamizol,  Omeprazol  20mg/24h,  Paracetamol,  Symbicort,  Xalatan,  Zolpidem  10mg/24h,  Zyprexa 2.5mg/24, Furosemida 40mg/12hh
+
+PROCÉS ACTUAL
+Última vez vista asintomática a las 13.00 del día 27/4, es encontrada a las 13.48 con debilidad hemcuerpo derecho y alterarción del lenguaje. Hora de llegada: 13.54h.
+
+EXPLORACIÓ FÍSICA
+
+URGENCIAS:
+177 /50 mmHg.
+DOC I (2), HHD (2), PFSN D (2), Afasia severa (3), nominación 0/2 (2), comprensión 1/2 (1), Hemiplegia BC (4+4),
+Hemihipoestesia (2). NIHSS:20
+
+A las 03.00 del 28/4: Somnolencia (1). HHD (2). Afasia global  (2+2+3). DOC a la I (2). PFSN D (1). Plegia braquial I 0/5 (4), D 3/5 (2), moviliza las dos EEII de forma simétrica,sin claras asimetrias. Sensibilidad no valorable (1). NIHSS: 19. Se objetivan movimientos tremóricos, no claras clonias a ESD.
+
+PLANTA DE NEUROLOGÍA:
+A la exploración física neurológica, paciente vigil, orientada. No alteraciones del lenguaje ni el habla. Campimetría por confrontación normal. MOEs sin limitaciones, no diplopia ni nistagmo. No paresia/hipostesia facial, resto de ppcc normales. Balance motor 5/5 global. Sensibilidad táctil superficial normal. No extinciones, no dismetrías. Marcha no explorada. NIHSS 0.
+
+Informe d'alta d'hospitalització
+
+
+
+
+EXPLORACIÓ COMPLEMENTÀRIA
+-Analítica general 27/4: Hem 4.900.000/mm3, Hb 13.2g/dl, Htc 42.6%, VCM 86.9fL, Leucocitos 12.250/mm3 (N 82.5%, L 12.5%, M3.2%), Plaquetas 224.000/mm3, T. Quick 11.2s, INR 0.96, TTPA 24.6s, Fib 3.56g/L, Glucosa 194mg/dl, Urea 29mg/dl, Creatinina 0.75mg/dl, Na 138.3mmol/L,  K 3.92mmol/L, Ca 8.6mg/dl,  AST 33UI/L, ALT 30UI/L, proteina 6.7g/dl, digoxina <0.25ng/ml.
+-Analítica general 2/5: Hem 5.000.000/mm3, Hb 13.6g/dl, Htc 43.3%, VCM 86.6fL, Leucocitos 8.500/mm3 (N 39.3%, L 35.4%, M9.2%), Plaquetas 213.000/mm3, T. Quick 11.5s, INR 0.98, TTPA 28.5s, Fib 4.02g/L, Glucosa 87mg/dl, fructosamina 224micromol/L, HbA1C pendiente, Urea  61mg/dl, Creatinina 0.93mg/dl,  Na 142.4mmol/L, K 3.47mmol/L, AST 34UI/L, ALT 39UI/L, FA 105UI/L. Lípidos: colesterol 163mg/dl, colesterol HDL 36mg/dl, colesterol LDL 104mg/dl, triglicéridos 117mg/dl. Proteinas: proteina 5.9g/dl, albúmina 2.9g/dl, PCR 2.44mg/dl. Estudio tiroides: TSH 1.98mU/L, tiroxina 1.36ng/dl.
+-ECG 27/4: Fibrilación auricular a 100lpm, eje 60º. QRS estrecho. T aplanadas en DII, DIII, avF.
+-Trombectomía 27/4: Se realiza XperCT para descartar evento hemorrágico. Mediante punción femoral derecha y anestesia local, se cateteriza la ACII visualizando oclusión del segmento M1. Se realiza trombectomía mecánica mediante aspiración y se consige recanalización TICI 3 tras un pase. Procedimiento sin complicaciones inmediatas.
+-TC craneal multimodal 27/4: Hiperdensidad en núcleo lenticular y cabeza de caudado izquierda, sin efecto de masa, sugestivo de retención de contraste más que de transformación hemorrágica a valorar en próximo control. Leve irregularidad y disminuición del diámetro del segmento M1 proximal izquierdo, sin objetivarse oclusiones vasculares intracraneales.
+-TC craneal control 28/4: Disminución de la hiperdensidad en ganglios basales izquierdos, sugestivo de retención de contraste. Leucoaraiosis y atrofia cortico-subcortical.
+-Radiografía de tórax: 27/4 Mal inspirada ICT>0.5 (sobrevalorada por mala técnica). Senos costofrénicos libres. No condensaciones, nodulos o masas en parenquima pulmonar.
+-EEG 27/4: Signos de disfunción neuronal difusa, con lentificación global de carácter asimétrico, obervándose mayor lentificación en hemisferio derecho, especialmente a nivel de regiones temporales (anteriores, medias y posteriores).
+Reactividad presente frente a estimulaciones externas.
+No se observan paroxísmos críticos o intercríticos, por lo que se descarta situación de estado epiléptico en el momento actual.
+-EEG 28/4 globalmente lentificado y asimétrico, a expensas de moderados signos de disfunción neuronal de probable carácter lesivo en regiones temporales del hemisferio izquierdo (ACM I) y marcados signos de disfunción neuronal también de probable carácter lesivo en regiones fronto-temporo-parietales del hemisferio derecho (ACM
+D) donde se sobreañaden ocasionales signos de disfunción neuronal irritativa e interictal (paroxismos epileptiformes fronto-temporales D). No se han registrado crisis, descartando en el momento actual la situación de estado epiléptico (MC)
+
+Informe d'alta d'hospitalització
+
+
+
+EVOLUCIÓ CLÍNICA
+Paciente de 81 años con los antecedentes referidos trasladada a urgencias como código ictus por clínica de inicio a las 13:00 horas compatible con ictus ACM I. A su llegada NIHSS 20, se realiza código-Angio. A su llegada a la sala de angiografía se realiza Expert CT que descarta la presencia de HIC por lo que se decide tratamiento intraarterial primario. La primera serie realizada a las 14:21 muestra una oclusión M1 izquierda. Tras firma de consentimiento informado, la paciente entra en Registro Promise. Se realiza un primer pase con dispositivo penumbra a las 14:27 consiguiéndose recanalización completa TICI 3 a las 14:31 por lo que se decide finalizar el procedimiento a las 14:45. Al finalizar el procedimiento la paciente presenta NIHSS 18 a expensas DOC I (2), HHD (2), Afasia severa (7), Hemiparesia B 3-/5 (2), C 1/5 (4), posible hipoestesia (1). Durante el procedimiento ha presentado HTA importante con FC elevadas que han precisado administración de bolus de amiodarona. La paciente ingresa en la Unidad de Ictus para control evolutivo.
+
+Durante las primeras horas de ingreso en la Unidad de Ictus, se añade a la clínica DOC hacia la D y una paresia faciobraquial izquierda, no presente anteriormente. Ante la presencia de clínica contralateral en una paciente con una fibrilación auricular, se decide realizar una TC craneal multimodal urgente que muestra hiperdensidad en GGBB izquierdos (contraste vs transformación H) así como leve irreularidad M1 proximal izquierda, sin alteraciones a otro nivel. Ante posible origen ictal epiléptico (DOC D, constatándose movimientos braquiales D), se decide instaurar tratamiento con levetiracetam (bolus 2.5g, con mantenimiento 500mg/12h) y se solicita EEG que muestra signos de disfunción neuronal difusa, con lentificación global de carácter asimétrico, obervándose mayor lentificación en hemisferio derecho sin anomalias epileptiformes. Dado que la clínica perdura más de 24 horas, se realiza control electroencefalográfico que muestra signos de disfunción hemisférico derecho y izquierdo así como paroxismos epileptiformes fronto-temporales D, por lo que se intensifica tratamiento a levetiracetam 1.000mg cada 12horas. Se realiza TC craneal a las 24 horas que muestra disminución de la hiperdensidad en ganglios basales izquierdos, sugestivo de retención de contraste.  Durante su estancia hospitalaria (a las 72 horas), la paciente presenta una gran mejoría clínica, quedándose con NIHSS de 0. Se instaura tratamiento preventivo con anticoagulación (enoxaparina) y dado que se trata de paciente con baja movilidad, se indica NACOs (rivaroxabán 20mg/24h) pra mejorar cumplimiento farmacológico.
+
+Como complicación ha presentado signos de insuficiencia cardíaca descompensada por fibrilación auricular rápida por lo que se intensifica tratamiento diurético y frenador.
+
+Una vez estable clínica y hemodinámicamente, se decide alta a domicilio, realizándose control a CEX Neurovascular. Ha sido valorada por parte de Trabajador Social, solicitándose visita y recomendando acudir a ambulatorio para teleasistencia.
+
+DIAGNÒSTICS
+-Infarto ACM izquierda de etiología cardioembólica.
+-Probable ictus ACM derecha de etiología cardioembólica.
+-Probable crisis epiléptica sintomática.
+-Fibrilación auricular paroxística.
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+-Rivaroxabán 20mg cada 24 horas.
+-Levetiracetam 500mg
+*1comprimido por la mañana
+*2 comprimidos por la noche.
+
+Informe d'alta d'hospitalització
+
+
+
+
+-Digoxina 0.25, 1 comprimido al día descansando sábado y domingo
+
+-Resto sin cambios.
+
+CONTROL
+Acudir a CEX Neurovascular para seguimiento. Se adjunta citación. Acudir a su médico de cabecera para control.
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+03.05.2017
+Pàgina 1 de 4

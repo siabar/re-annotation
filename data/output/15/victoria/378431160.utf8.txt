@@ -1,0 +1,124 @@
+_LOCATION_) Telèfon _SS_  972 _CONTACT_
+Telèfon IDI (Ressonància i TAC) _CONTACT_
+Telèfon ICO _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 83 Anys
+NIF/DNI: _ID__NAME_; _NAME_; 
+_NAME_
+Informe d'alta d'hospitalització
+10:06:06
+07.06.2017
+_LOCATION_
+_SS_ NEUROLOGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_; _CONTACT_
+DOMICIL/RES.SOC 31.05.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Hemiparèsia dreta i trastorn de la parla
+
+ANTECEDENTS
+ANTECEDENTES PERSONALS
+-	No alèrgies mèdiques conegudes
+-	Hàbits tòxics: poc bebedor, exfumador des de fa 9 anys (fumador durant 30 anys)
+-	mRs: 0
+
+ANTECEDENTS PATOLÓGICS
+-	Hipertensió arterial : En tractament amb lsinopril.
+-	Dislipemia : Sense tractament farmacologic.
+-	Diabetes mellitus(10-2016):Sota tractament dietetic.
+-	Sense cardiopatía isquémica.
+-	No patologia vascular cerebral previa.
+-	Insuficiencia Renal Crónique . Monorrè (nefrectomia dreta per patologia neoplásiqiue rebal drteta)
+-	Malatia pulmonar cronique obstruictiva: Tractat amb salbutamol i indacaterol.
+-	Glaucoma ocular crònic
+-	Síndrome prostàtic: En tractament amb tamsulosina i dutasterida.
+
+
+MEDICACIÓ HABITUAL
+Lisinopril 5mg/d Indacaterol 150mcg c/24hs
+Salbutamnol 100mcgr c/24hs Brinzolamoda 3gotas c/24hs
+Tamsulosina 04mg + dutasterida 0,5mg c/24hs Lactulosa si precisara.
+
+PROCÉS ACTUAL
+Pacient que es vist per darrera vegada vist assimptomàtic el dia 30/5/2017 a les 21h assimptomàtic. El dia 31/5/2017 es desperta a les 7h amb debilitat dreta i trastorn de la parla.
+
+
+EXPLORACIÓ FÍSICA
+
+Informe d'alta d'hospitalització
+FC	74 bpm
+Tªaxi 36.4 ºC
+
+FR	rpm Tªrec  ºC
+
+TA s	156 mmHg SAT O2 90 %
+
+TA d   73 mmHg Pes Kg
+
+Hemodinàmicament estable Exploració física a l'ingrès: General: anodina.
+NRL: parèsia facial dreta, disàrtria lleu, parèsia severa ESD, no parèsia EID, hipoestèsia esquerra. No visual. No afàsia.
+NIHSS: 0-0-0-0-0 / 2-2-0-0-0 / 0-1-0-1-0: 6.
+
+EXPLORACIÓ COMPLEMENTÀRIA
+-	Analítica sang (31/5): hemograma normal, Glucosa 191 mg/dL, Urea 75 mg/dL, Creatinina 1.76 mg/dL, Urat 6.5mg/dL, Troponina T hs (alta sensibili * 24.8 ng/L
+
+-	ECG (31/5): ritme sinusal a 70 x'.
+
+-	Rx torax (31/5): sense condensacions
+
+- Ecodoppler TSA: - Ateromatosis carotídea de predominio izquierdo. Estenosis del 50% de ACI izquierda (VSM de 150 cm/seg). Eje carotídeo derecho sin alteraciones hemodinámicas. Vertebral oclusión de vertebral derecha en su segmento V2, con flujo preoclusivo en V1. Vertebral izquierda sin alteraciones.DTC: ACMs, ACAs y ACPs sin alteraciones. Oclusión vertebral derecha. Vertebral izquierda y basilar sin alteraciones.
+
+-	Angio RM crani (31/5): RM cranial que mostra focus aillats compatibles amb infarts, en fase aguda / subaguda queafecten de forma fragmentada predominantment al territori superficial irrigat per l'artèria cerebral  mitjana esquerra, sense alteracions en els mapes ni oclusió valorable en el AngioTOF (poc valorable estudi subòptim per moviments). Marcada vasculopatia de petit vas (Fazekas III).
+
+
+
+EVOLUCIÓ CLÍNICA
+A la arribada del pacient es objectiva clínica ictal de hemiparesia dreta i afasia amb un NIHSS de 6 . El pacient no és candidat a ser tractat amb rtpa per estar fora de finestre, no cumpleix criteris per assajos clínics en fase aguda de l'ictus.
+Pacient ingressa a la Unitat d'Ictus sota monitorització semiintensiva amb la orientación diagnóstique de ictus isquémic ACM esquerre indeterminat per estudi incomplet.
+
+Durant la seva estada es manté estable sense complicacions clíniques. Progressivament el pacient millora, al moment de l'alta persisteix lleu paresia facio-brasquial dreta i disartria amb un NIHSS de 3. Destaca amés lleu trastorn de la deambulació però autònoma.
+S'ha practicat ewstudi doppler que mostrra estenosi significativa del 50% de ACI I i olcussió de arteria vertebral esquerre amb patró pre oclusiu de AV dreta.
+No s'han enregistrat arrittmies emobolígenas durant la telemetría a la unitat de ictus. No s'han detectat complicacions dureant el ingress.
+
+Informe d'alta d'hospitalització
+S'orienta el diangóstic com ictus ACM esquerre aterotrombotic probable per estenosis de ACI dreta significative del 50%. Com altre diganostic incidental es troba oclussió de Arteria Vertebral Dreta.
+
+Donada la estabiltat clínica i hemodinámique del pacient es decideix alta domiciliaria i controls  per neruologia vascular.
+És donat d'alta a domicili amb rehabilitació ambulatòria i pendent de ecocardiograma ambulatori
+
+ESCALES AL ALTA. NIHSS:00000/10100/00010: 3
+mRs: 2
+Barthel :20
+
+
+DIAGNÒSTICS
+434.91/1 Infart cerebral ACM esquerre aterotrombotic probable per estenosis major al 50% de ACM esquerre.
+249.00 Diabetis  mellitus secundària  sense  menció de  complicació,  no  esmentada com  a  incontrolada  o  no especificada
+272.4/1 Dislipemia
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Mantenir el mateix tractament Afegir:
+-	AAS 100mg/d
+-	Atorvastatina 80mg/d
+
+CONTROL
+Control de factors de risc cardiovascular pel metge de família Tramitar rehabilitació ambulatòria a domicili
+Acudir a CCEE Neurologia el 26/10/2017 a les 17:40 amb la Dra. _NAME_. SE l'avisarà per coeeru o telefon realitzar ecocardiograma ambulatori
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+Validat per: _NAME_	Col·legiat: _ID_
+
+07.06.2017
+Pàgina 1 de 3

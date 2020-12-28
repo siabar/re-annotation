@@ -1,0 +1,154 @@
+_LOCATION_ Tel. _CONTACT_
+e-mail: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 64 Anys
+NIF/DNI: _ID__NAME_; _NAME_; _NAME_
+Informe d'alta d'hospitalització
+CP	_LOCATION_
+ABS	_SS_
+Servei	NEUROLOGIA
+Data d'alta  24.03.2017	11:55:00
+_LOCATION_
+_CONTACT_
+DOMICIL/RES.SOC 16.03.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Ictus isquémico
+
+ANTECEDENTS
+Al·lèrgies:Sense al·lèrgies conegudes. Rankin previ:0 - Sense símptomes.
+
+ANTECEDENTS PATOLÒGICS:
+-	Hipertensió essencial en tractament mèdic.
+-	Diabetis mellitus II en tractament amb ADOs.
+-	Dislipemia.
+-	Obesitat.
+-	Hiperplasia benigna de próstata.
+
+MEDICACIÓ HABITUAL
+Enalapril 5mg/24g, tamsulosina 0.4mg/24h, finasterida 5mg/24h, metfromina/sitagliptina50/100mg/24h.
+
+PROCÉS ACTUAL
+Pacient que es desperta asimptomàtic a les 5.00h. Els símptomes s'inicien el dia 16/03/2017 a les 06:00:00. A les 6.00h al intentar aixecar-se del sofà presenta hemiparesia dreta, pel que avisen al SEM, que activa codi ictus a les 6.43h. El pacient arriba al nostre centre a les 6:51h.
+
+EXPLORACIÓ FÍSICA
+
+FC	84 bpm Tªaxi  ºC
+FR	rpm Tªrec  ºC
+TA s	177 mmHg SAT O2  %
+TA d   71 mmHg Pes Kg
+
+A urgències:
+Tensió arterial:177/71 mmHg. Tª: 36 ºC . FC 84. Glicèmia capil·lar:215 mg/dL.
+Conscient i orientat en les 3 esferes. Llenguatge sense elements afàsics. Disartria lleu. Paresia facial central dreta. Hemiparesia dreta. No alteració de la sensibilitat. RCP flexor bilateral.
+NIHSS=(0.0.0)0.0/2(1.0)(1.0)/0. 0.0.1.0=5.
+
+AC: tons cardíacs rímtics sense bufs ni frecs. AR: MVC bilateral sense sorolls sobreafegits.
+
+A Unitat d'Ictus Agut:
+Consciente, orientado, colaborador. Isocoria normorreactiva. Lenguaje normal. Campimetría por confrontación normal. Pares craneales sin alteraciones. Fuerza y sensibilidad táctil conservadas, no extinción. No dismetría. RCP flexor bilateral.
+NIHSS: 0.
+
+Informe d'alta d'hospitalització
+
+
+
+
+Auscultación cardíaca: rítmica. Auscultación pulmonar: murmullo vesicular conservado. Abdomen: blando, depresible, no doloroso. EEII: no edema ni signos de TVP. Pulsos pedios presentes.
+
+EXPLORACIÓ COMPLEMENTÀRIA
+A Ugències:
+ECG: ritme sinusal a 80lpm, rjr -60º, pR 0.12seg, QRS 0.08seg, sin alteraciones agudas de la repolarización.
+
+Analítica urgent:
+Hemograma: leucòcits 8700 (N 77,8%, L 15,6%, M 5,7%), Hb 13,2g/dL, Hto 40,1%, plaquetes 169.000. Hemostasia: TP 90%, fibrinògen 393mg/dL, TTPA 22,1seg.
+Bioquímica: glucosa 228mg/dL, urea 51,6mg/dL, creatinina 0,82mg/dL, Na 138,3mmol/L, K 4,2mmol/L, PCR 4,9mg/L.
+
+TC cranial (16/03/17): ASPECTS 10. Infarts isquèmics lacunars crònics de ganglis basals bilaterals. Augment de mida dels espais subaracnoïdals i del sistema ventricular de forma proporcionada compatible amb atròfia cerebral difusa. Cisternes basals i perimesencefàl.liques lliures. Línia mitja centrada. Sense altres alteracions parenquimatoses ni extraaxials TC valorables.
+
+Estudi neurosonològic urgent (16/03/17): Transcraneal: ACM amb velocitats simètriques de 70-80cm/seg. Troncs supraaòrtics: Es visualitzen ambdues arteries caròtides comuns i internes sense alteracions del flux.
+
+A Unitat d'Ictus Agut:
+Analítica:
+Bioquímica: Glucosa 198 mg/dL, Hemoglobina glicosilada 8%, Proteína 65.6 g/L, Urea 46 mg/dL, Creatinina 0.73
+mg/dL (FG >90), Urato 5.5 mg/dL, Fosfato 2.4 mg/dL, Magnesio 1.75 mg/dL, Sodio 138.9 mmol/L, Potasio 4.35 mmol/L, Fosfatasa alcalina 59 U/L, ALT 14 U/L, GGT 17 U/L, PCR 5 mg/L, Osmolalidad 299 mOsm/Kg.
+Perfil lipídico: Triglicéridos163 mg/dL, Colesterol 180 mg/dL, HDL 40.7 mg/dL, LDL 107 mg/dL. Proteinograma: Sin alteraciones patológicas.
+Perfil tiroideo: TSH 2.543, tiroxina 0.88 ng/dL.
+
+Estudio neurosonológico (18/03/17): Estudi Transcraneal: a nivel intracraneal, no se observan alteraciones del flujo en principales arterias del polígono de Willis. Estudi de TSA: se insonan ambas a.carótidas communes, internas y externas sin observarse estenosis significativas. Arterias vertebrales extracraneales no insonadas. Conclusió: Sin alteraciones del flujo significativas.
+
+TC control 24h (17/03/17): no se evidencian lesiones hemorrágicas ni isquémicas agudas intra ni extraaxiales. Imágenes hipodensas en territorio gangliobasal bilateral compatibles con ictus isquémicos lacunares crónicos. Prominencia de surcos corticales y dilatación leve de sistema ventricular con predominio de cuarto ventrículo. Línea media centrada. Cisternas basales y perimesencefálicas libres. No lesiones oseas TC valorables. No otras lesiones TC valorables.
+
+TC craneal urgente (18/03/17): sin cambios respecto TC previo de 17.03.2017.
+
+TC craneal urgente (20/03/17): respecto a exploración previa del 18.03.2017 no se aprecian cambios TC valorables, sin evidencia de lesiones isquémicas ni hemorrágicas agudas TC valorables. Infartos isquémicos lacunares crónicos de ganglios basales bilaterales. Cisternas basales y perimesencefálicas libres. Línea media centrada.  Sistema  ventricular  simétrico  de  tamaño  y  morfología  conservados.  Sin  alteraciones  óseas  TC
+
+Informe d'alta d'hospitalització
+
+
+
+
+valorables. No se aprecian alteraciones intra ni extraaxiales TC valorables.
+
+Radiografía de tórax: hasta donde es posible valorar, sin alteraciones relevantes. Sin signos RX de insuficiencia cardíaca izquierda ni infiltrados pulmonares o derrame pleural.
+
+Ecocardiograma transtorácico: ventrículo izquierdo no hipertrófico, no dilatado, con función  sistólica  global y segmentaria conservadas. Aurícula izquierda ligeramente dilatada (41mm). Sin alteraciones valvulares significativas.
+
+RM cerebral con angiografía intracraneal y troncos supraaórticos (23/03/2017): no se aprecian lesiones isquémicas agudas o recientes, ni otras alteraciones significativas en secuencia de difusión. No se aprecian lesiones isquémicas crónicas con afectación cortical. Algún lacunar crónico en ganglios de la base, de predominio izquierdo. No se aprecia afectación relevante de la sustancia blanca. No se aprecian hemorragias o microhemorragias. Parénquima cerebral que no muestra otras alteraciones relevantes de la señal. Sistema ventricular de tamaño y morfología normales. Cisternas de la base patentes y libres. No se aprecian efectos de masa, ni alteraciones morfológicas relevantes. Vasos intracraneales que muestran vacío de señal en T2, sugiriendo permeabilidad. La angio-RM intracraneal (mediante secuencia de flujo) la porción terminal de arteria vertebral izquierda no se visualiza correctamente. Por lo demás, las arterias intracraneales no muestran oclusiones, estenosis ni otras alteraciones morfológicas significativas.
+Conclusión: no se observan lesiones isquémicas recientes, ni otros hallazgos que sugieran lesiones intracraneales agudas.
+
+EVOLUCIÓ CLÍNICA
+Pacient de 64 anys, amb antecedents de FRCV, que acut per hemiparesia dreta de 1h d'evolució. A la seva arribada a Urgències, hipertens i hiperglucèmic. A l'exploració presenta síndrome motor pur dret puntuant un NIHSS de 5. ECG en ritme sinusal. Es realitza analítica que no mostra alteracions. Es realitza TC cranial que no mostra lesions isquèmiques establertes i ni lesions hemorràgiques. Donada l'absència de contraindicacions, es decideix iniciar tractament trombolític endovenós 07:13:00, amb NIHSS pre trombòlisi 5, rebent dosi total de 90mg (TA prebolus de 159/66mmhg), amb un temps porta agulla de 21 min. Es realitza estudi neurosonològic durant la infusió de rTPA que no mostra oclusions de gran vas. Es reexplora al pacient després d'administració de rTPA que es queda assimptomàtic.
+
+S'orienta com un ictus isquèmic lacunar (sde motor pur) de territori indeterminat esquerre. Es decideix ingrés a UIA per a estudi i control.
+
+Horas después de ingresar presenta nueva clínica de disartria, paresia facio-braquio-crural y hemihipoestesia izquierdas (NIHSS 7), orientándose como capsular warning vs. ictus de arteria paramediana. Se realiza TC urgente que no muestra alteraciones y recupera clínicamente en minutos hasta encontrarse de nuevo asintomático. La siguiente madrugada presenta nuevo episodio de hemiparesia derecha y disartria de aproximadamente 30 minutos de duración, de nuevo con recuperación "ad integrum". Se realiza nuevo TC craneal urgente donde no se evidencian lesiones hemorrágicas y donde revisando los cortes tampoco se detecta una nueva lesión isquémica  de forma clara comparado con el primer TC del día 16/3.
+No ha presentado más complicaciones neurológicas durante el ingreso, permaneciendo desde entonces asintomático.
+
+Informe d'alta d'hospitalització
+
+
+
+
+Durante su estancia en la unidad presenta cifras aisladas de hipertensión arterial sistólica, con valores hasta 172mmHg, que no precisaron medicación de rescate y se normalizaron tras reintroducción de dosis de enalapril habitual. Los controles glucémicos se mantuvieron entre 140-230mg/dL, precisándose rescates de insulina rápida y con mejoría tras reintroducción de tratamiento domiciliario. La monitorización continua no reveló alteraciones del ritmo cardíaco potencialmente embolígenas.
+
+Dentro del estudio se realizó analítica completa, incluido proteinograma, en la que destaca una hemoglobina glicosilada de 8%, sin otras alteraciones significativas. La radiografía de tórax resultó normal. Se solicitó ecocardiograma transtorácico que no mostró alteraciones significativas salvo aurícula izquierda levemente dilatada (41mm). Se realizó RM cerebral que no muestra lesión isquémica aguda, si bien la presencia de mútliples lesiones isquémica crónicas de ganglio-basales bilaterales de predominio izquierdo que orientan hacia una microangiopatía cerebral, con angiografía intra y extracraneal que descarta estenosis significativas (hipoplasia AV I).
+
+Dadas las cifras de hemoglobina glicosilada y controles glucémicos se realiza interconsulta a Endocrinología que indica modificar tratamiento domiciliario iniciando un combinado de Metformina/Empaglifozina a dosis de 5mg/1000mg cada 12 horas.
+
+Presentó adecuada tolerancia a la reintroducción de la dieta oral y sedestación progresiva hasta deambulación. No presentó complicaciones sistémicas.
+Al alta asintomático, NIH 0, mRS 2, Barthel 100.
+
+DIAGNÒSTICS
+1.	SÍNDROME DE ALARMA CAPSULAR SIN LESION ESTABLECIDA. MICROANGIOPATÍA CEREBRAL
+2.	Hipertensión arterial.
+3.	Diabetes mellitus.
+4.	Dislipemia.
+5.	Sobrepeso.
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Suspender Efficib. Sustituir por Synjardy (Combinado Metformina/Empaglifozina) 5mg/1000mg 1 comprimido cada 12 horas.
+Atorvastatina 80mg: 1 comprimido a la cena. AAS 300mg: 1 comprimido a mediodía.
+Resto de medicación domiciliaria sin cambios.
+
+
+
+CONTROL
+Acudirá a consulta de revisión de Neurología el día 22 de Mayo de 2017 a las 0:50h (Dra. _NAME_). Será informado de cita para acudir a consulta de Endocrinología para revisión de diabetes mellitus.
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+24.03.2017
+Pàgina 1 de 4

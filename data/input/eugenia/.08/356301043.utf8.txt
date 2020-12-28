@@ -1,0 +1,168 @@
+_LOCATION_) Telèfon _SS_  972 _CONTACT_
+Telèfon IDI (Ressonància i TAC) _CONTACT_
+Telèfon ICO _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 70 Anys
+NIF/DNI: _ID__NAME_; _NAME_
+Informe d'alta d'hospitalització
+12:45:33
+29.03.2017
+_LOCATION_
+_SS_ NEUROLOGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_
+AGUTS 25.03.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Ictus isquemico ACM izquierda
+
+ANTECEDENTS
+ANTECEDENTES PERSONALES
+-Dudosa  alergia  al  Ciprofloxacino  o  Amoxi  Clavulánico.   Pruebas  epicutaneas  negativas  para  alergia  a ciprofloxacino y amoxicilina + clavulanico.
+-Sin habitos tóxicos conocidos.
+-mRs: 0. La mujer niega alteraciones cognitivas.
+
+ANTECEDENTES PATOLÓGICS
+-DLP: Sin tratamiento farmacológico.
+-No HTA, No DM, No cardiopàtía isquémica..
+-Multiples consultas por disnea del paciente, se orientaron como rinitis. La mujer refiere episodio de epistaxis.
+-ITU: Diagnosticada por hematuria macroscopica, fue tratadop con Amoxicilina/Ac clavulánico y Ciprofloxacino.
+-	Traumatismo en brazo izquierdo
+
+ANTECEDENTES QUIRÚRGICOS
+-	Lipomas
+-	Cirugía de codo derecho
+-	Hernia inguinal derecha en la infancia.
+-	Hernia umbilical + epigastrica en enero/2016: tratada mediante herniorrafia sin tension.
+
+MEDICACIÓ HABITUAL
+Sin medicación habitual.
+
+PROCÉS ACTUAL
+Paciente de 70 años que presenta cuadro de déficit motor en extremidad superior derecha y asimetria facial, el 24/03/2017 sobre las 21:00hs mientras cenaba. Acuden al _SS_ donde el paciente llega  asintomático a las 21:26hs, con TA de 220/110. Se administra Captopril sublingual y Nitroglicerina con descenso de TA hasta 136/63, presentando entonces nuevo déficit motor de extremidad superior derecha y hemifacial derecho. por lo que contactan con nuestro centro para activación de Código Ictus.
+
+El paciente llega a nuestro centro a las 23:35hs, asintomático, y es atendido por neurologia de guardia al momento. Se desactiva código ictus y se realiza TC cerebral basal que no muestra alteraciones agudas. Durante la realización del estudio neurosonológico, el paciente presenta de nuevo empeoramiento, con NIHSS de 11, por lo que se actuva código ictus. Se realiza angio TC que muestra multiples estenosis intracraneales. Dado quye se encuentra dentro de tiempo de ventana, en ausencia de contraindicaciones, se decide tratamiento con rtPA, con dosis ajustada al peso. El tratamiento cursa sin incidencias, y el paciente presenta mejoría clínica progresiva hasta quedar asintomático de nuevo.
+Se decide ingreso en la Unidad de Ictus para vigilancia neurológica y monitorización.
+
+Informe d'alta d'hospitalització
+
+EXPLORACIÓ FÍSICA
+
+En urgéncias:
+Exploración NRL: Vigil, orientado, atento, no deficit del lenguaje. No déficit campiemtrico, movimientos oculomotores adecuados, no deficit de pares craneales. Presenta Miller Fisher enlentecido en mano izquierda, no otros deficits motores, no deficit sensitivo, no dismetrias.
+NIHSS = 0
+
+Al ingreso:
+TA 119/64, FC 74x', afebril, eupneico. Glicemia 87mg/dl AC: ritmico, no soplos
+AR: murmullo vesicular conservadio
+Exploración NRL: vigil, desorientado en mes y en año, desorientado en edad: despues de varias repeticiones corrige el mes y el año, no la edad. No deficit campimétrico, no paresia oculomotores. Asimetria facial derecha que luego corrige. No déficit motor ni sensitivo, no dismetrias. Marcha sin alteraciones.
+Alguna apraxia ideomotora, signo del aplauso positivo. Dificultad para nombrar los días de la semana al revés. NIHSS = 02000/00000/00000 = 2
+
+EXPLORACIÓ COMPLEMENTÀRIA
+ECG: ritmo sinusal
+Monitorización en la unidad de ictus (48 horas): Ritmo sinusal durante todo el registro.
+Rx de torax: mal centrada y penetrada, ICT no valorable. Senos costofrénicos libres, no condensaciones.
+
+Analítica sanguinea:
+-	Hemograma: Eritròcits 4.87 M/mcL, Hemoglobina 13.9 g/dL, Hematòcrit 43 %, Volum corpuscular mitjà 88.5 fL, Hemoglobina corpuscular mitja 29 pg, C.H.C.M. 32 g/dL, A.D.E. 14.4 %, Plaquetes 340 K/mcL, Volum plaquetari mig 10 fL, Leucòcits 8.73 K/mcL
+-	Coagulació: Tasa protrombina 97 %, Tasa protrombina (INR) 1, Temps de cefalina (TTPA) 31.9 segons, Temps de cefalina (ratio) 1.1, Fibrinogen (deduit) 363 mg/dL
+-	Bioquímica: Glucosa 107 mg/dL, Urea 33 mg/dL, Creatinina 0.91 mg/dL, Urat 6.3 mg/dL, Proteïna 6.8 g/dL, Albúmina (sèrum) 4.3 g/dL, Lactat deshidrogenasa 143 U/L, Creatincinasa (CK) 86 U/L, Amilasa 77 U/L, Calci (II)
+9.3 mg/dL, Ió sodi 140 mEqu/L, Ió potasi 4.7 mEqu/L Perfil hepático correcto
+Colesterol 225 mg/dL, Colesterol HDL 48 mg/dL, Colesterol LDL (calcul) 141 mg/dL, Triglicèrid 179 mg/dL
+-	Troponina T hs (alta sensibili 8.7 ng/L,
+
+TC de craneo al ingreso: Estudi TC cranial que no mostra patologia intracranial aguda. Imatge hipodensa corticosubcortical a regió occipital esquerre, en probable relació a infart establert però amb troballes atítpiques (part central conservada) pel que recomanem completar estudi amb RM.
+Angio TC: L'estudi angiogràfic mostra la presència de múltiples àrees d'estenosi arterial que afecta principalment les artèries caròtides internes a nivell del sifó carotidi i a nivell de la unió amb la ACM (en especial al costat dret amb estenosi del 50%), varis segments de les ACMs, artèria basilar i ACPs. Placa d'ateroma a nivell de l'artèria caròtida interna dreta postbifurcació, amb una estenosi del 40-50% de la seva llum.
+No s'observen imatges de trombosis intravascular dels vasos intracranials ni dels TSA.
+
+Informe d'alta d'hospitalització
+
+
+CONCLUSIÓ: Estudi angioTC que mostra múltipls arees d'estenosi arterial a nivell de les ACI, ACM, ACP i artèria basilar, sense observar trombosis total dels vasos.
+TC de craneo de control (por empeoramiento del paciente despues de rtPA): No s'observen lesions hemorràgiques agudes intra ni extraaxials. La resta del estudi no mostra canvis significaius respecte el control.
+TC de crani de control 24h post-rtPA: Aparició d'un infart establert al braç posterior i genoll de la càpsula interna esquerra. Petit infart còrtico-subcortical occipital esquerre (al territori superficial de l'ACP). Probable infart cortical occipital dret.
+
+Estudio Doppler en urgéncias:
+-	TSA sin anormalidades.
+-	TC muestra estenosis de segmento medio de M1 de ACM izquierda con VSM de aprox 200cm/seg, con perdida de la espectrometria normal (TIBI IV) ademas se evidencia otro sitio de estenosis a nivel bifurcacion y M2 proximal se rompe la ventana pero no se objetivan grades incrementos de la VSM. Resto de la exp`loraicon sin ams relevancias.
+
+Eco-doppler de control:
+DUPLEX TSA
+-	Ateromatosis importante, bilateral, con placas heterogéneas, de predominio en lado derecho y bulbo carotídeo derecho.
+-	Estenosis ICA D, por estensa placa en bulbo, de un 50-60% (VSM 179,5 cm/s) con flujo laminar conservado distal.
+-	ICA izda sin estenosi reelvantes.
+-	AVs sin alteraciones. DUPLEX TRANSCRANEAL
+- Estenosis ACM D (M1) 50-60%.  VSM/VDF: 169,8 / 86,3; VM 119
+-	Estenosi M1 izda, 30-40% con flujo turbulento (TICA-M1) pero con VSM 109,4 y VM 70,7 Mantiene flujo distal, ambas ACMs, sin alteraciones relevantes.
+-	Estenosis ACP P1 D (VM D vs. Izda: 68,5 vs. 28)
+-	ACAs ortodrómicas.
+-	Vertebrales (V4) y basilar sin alteraciones hemodinámicas reelvantes, sin detectar ni signos directos ni indirectos de estenosis (limitación por equipo)
+CONCLUSIÓN: - Estenososis múltiples, ateromatosas, destacando ICA D (60%), ACM D (50-60%) y ACP D (50%)
+
+Estudi neuropsciològic: Pacient de 70 anys. Va treballar de diversos oficis relacionats amb la construcció. Estudis basics incomplerts. Exploració neuropsicològica (28/03/2017): Boston Naming Test: 5/15 MIS: 0/8 Sèries automàtiques directes: 3/3 6/6  Sèries automàtiques inverses: 2/3 3/6   FAB: 10/18 (0-1-1-2-3-3)
+Pacient vigil i col·laborador.
+Llenguatge poc fluent amb anòmia i presència de parafàsies. Nodisàrtria. Repetició i comprensió preservades. Marcat dèficit amnèsic anterògrad de fixació. Funcions executives alterades: abstracció, ev. fonològica i programació de sèries motores. Resta de funcions executives preservades. No bradipsíquia.
+OD: amnèsia anterògrada de fixació i trastorn afàsic de predomini expressiu (compatible amb A Transcortical motora).
+Citar a CCEE de neuropsicologia per valorar rhb cognitiva
+
+Informe d'alta d'hospitalització
+EVOLUCIÓ CLÍNICA
+El paciente ingresa en la Unidad de Ictus bajo monitorización semi-intensiva. Durante las primeras horas de ingreso presenta fluctuación neurológica, con nuevo empeoramiento en la madrugada del 25/03, presentando afasia mixta, hemianopsia homónima derecha y hemiparesia derecha (NIHSS :02002/21000/00200 = 9). Se realiza TC de craneo de control sin evidencia de lesiones hemorrágicas, sin cambios en el resto del estudio respecto a los previos.
+Hemodinámicamente estable, presenta ritmo sinusal durante todo el registro y tendencia a hipotensión arterial (asintomática), por lo que se inicia dieta con sal.
+
+En el TC de control 24 horas post rtPA se observa un pequeño infarto córtico-subcortical occipital izquierdo, que ya se visualizaba en el primer TC realizado, y pequeña hipodensidad en tálamo izquierdo, de nueva aparición.
+Se realiza eco-doppler de control que muestra estenososis múltiples, ateromatosas, destacando ICA D (60%), ACM D (50-60%) y ACP D (50%).
+
+Clínicamente presenta mejoría progresiva, persistiendo afasia leve de predominio motor y deterioro cognitivo con desorientación y alteración mnésica, posiblemente relacionado con infarto talámico. Se solicita estudio Neuropsicológico durante el ingreso, que detecta afasia motora transcortical i trastorno amnésico, decidiendo control en Consultas Externas de Neuropsicologia para valorar necesidad de rehabilitación cognitiva.
+Con estabilidad hemodinámica y clínica, es alta a domicilio con control en Consultas Externas de Neurovascular. Escalas al alta:
+- NIHSS: 01000/00000/00100: 2
+-	Rankin 3
+-	Barthel 40%
+
+DIAGNÒSTICS
+436/5 Ictus isquemico ACM izquierda por estenosis de ACM izquierda de probable etiologia aterotrombótica. 331.83/1 Deterior cognitiu lleu de origan vascular
+
+PROCEDIMENTS
+89.08 Altra consulta
+88.71 Ultrasò diagnòstic de cap i coll. Determinació desviació de la línia mediana cerebral,ecoencefalografia
+89.08 Altra consulta
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Tratamiento:
+-	Adiro 100mg/24h con la comida	0-1-0
+-	Atorvastatina 80mg/24h con la cena 0-0-1
+
+Se le avisará para continuar rehabilitación con logopeda ambulatória.
+
+CONTROL
+-	Se recomienda ecocardioTT a realizar de manera ambulatória en _SS_ (peticion a cursar por equipo de atención primária)
+-	
+Informe d'alta d'hospitalització
+
+
+
+
+-	RMN cerebral: recibirá cita en domicilio.
+-	Primera visita a CEX de Neuropsicologia el dia 23/05/2017 a las 12:15h con el Dr. _NAME_ (Edificio de Consultas Externas del _SS_)
+-	Visita de control a Consultas Externas de Neurovascular el dia 11/07/2017 a las 13:10h con el Dr. _NAME_ con eco-doppler de control (Edificio de Consultas Externas del _SS_, 1a planta)
+
+Control de factores de riesgo cardiovascular por equipo de atencion primária.
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+03.04.2017
+Pàgina 1 de 5

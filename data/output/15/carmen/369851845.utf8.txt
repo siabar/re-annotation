@@ -1,0 +1,83 @@
+INFORME ALTA HOSPITALARIA
+_NAME_
+Núm. Episodi: _ID_ Núm. HC: _ID_
+_SS_ _LOCATION_
+_LOCATION_
+Tel. _CONTACT_
+
+
+: _LOCATION_	C.A.P.: _SS_
+Població: _LOCATION_	Sexe: DONA  Data naixement: _DATE_  Edat: 33a
+Telèfon: _CONTACT_  C.P.: _LOCATION_	T.I.S.: _ID_  DNI/NIF: _ID_
+
+Procedència:	Data Ingrés Hospital: 03/05/2017
+Servei assistencial: NEUROLOGIA HOSP	Data Ingrés Servei: 04/05/2017
+Metge Responsable: _NAME_	Data Alta: 11/5/2017
+
+
+ANTECEDENTS PERSONALS:
+1.	No alergias medicamentosas conocidas. Alergias alimentaria a Melocotón.
+2.	Insuficiencia  renal  crónica  grado  IV  probablemente  secundaria  a  microangiopatía  trombótica
+/intersticial. En seguimiento en el _SS_.
+3.	-Hipertensión arterial, según consta en historia compartida del CAP desde el 2014. cifras tensionales habituales alrededor de 150-160/90-100 mmHg. Se realizó ecografía abdominal (agosto/2014)
+4.	Obesidad
+5.	Fibromialgia, en seguimiento por Reumatología de _SS_.
+6.	Cefalea tensional crónica, valorada en CCEE de Neurología de nuestro centro en oct/2014.
+7.	-Migraña en relacion a los cambios de clima. Localización variable, pinchazos, no nauseas ni vómitos, sono y fotofobia habitual, duración 1.2 dias.
+8.	Cervicalgia.
+9.	Vértigo periférico según historia compartida del CAP.
+
+
+Medicación habitual: Enalapril 20 mg /24h, Carvedilol 6,25 mg /24h.
+
+MALALTIA ACTUAL:
+
+Paciente refiere que alrededor de las 15:30 y mientras se encontraba mirando la TV inicia con sensación de parestesias facio-braquial izquierda y dificultad para hablar. Avisan al SEM objetiva cifras tensionales: 180/116 mmHg y le derivan a nuestro centro.
+
+En emergencias se objetiva parálisis facial izquierda, hipoestesias facio-braquial izquierda y ligera disartria fluxtuante. TA: 170/95 mmhg, se Activa código ICTUS a las 17 horas y se pauta Urapidilo por vía endovenosa se realiza TC se descarta lesiones agudas. Tras normalización de las cifras tensionales TA: 140/60mmHg persiste la clínica y dado los antecedentes (a pesar de NIHSS 3), se decide realizar Fibrinolisis sistémica con posterior control evolutivo desde UCI. Dada la establidad clinica se ingresa en Neurología para completar estudio.
+
+
+EXPLORACIÓN FÍSICA:
+
+AC: TCR sin soplos
+
+NRL: conciente y orientada, pupilas isócoricas reactivas y simetricas, pares craneales conservados, fuerza y sensibilidad conservada, no dismetrías, marcha sin alteraciones, Romberg negativo, Lenguaje preservado, fluidez verbal. Glasgow 15. nihss 0
+
+
+EXPLORACIONES COMPLEMENTÀRIAS:
+TAC craneo urgencias:Absència de desplaçaments d'estructures de línia mitja.Sistema ventricular, espais aracnoïdals-cisternals normals.No hi ha imatges de sagnat intra ni extraparenquimatoses.No identifico signes d'isquèmia  establerta.
+
+Planta:
+Eco-döppler de troncs supra-aòrtics:ARTERIAS VERTEBRALES: Flujo de dirección craneal con picos de velocidad sistólica asimétricos, 67 vs 34 cm / s. EJES carotídea: DERECHO: No se identifican placas productoras de estenosis significativa de la luz vascular así como tampoco engrosamiento significativo de la íntima arterial. IMT 0.6 mm. Los registros espectrales no muestran signos de alteración hemodinámica con un pico sistólico de velocidad máxima, concordante (PSV) CID de 53 cm / s y un cociente  también concordante de
+CPD-CID 0.6. IZQUIERDO: No se identifican placas productoras de estenosis significativa de la luz vascular así como tampoco engrosamiento significativo de la íntima arterial. IMT 0.7 mm. Los registros espectrales no muestran signos de alteración hemodinámica con un pico sistólico de velocidad máxima, concordante (PSV) CIE de 123 cm / s y un cociente también concordante de CPE-CIE 1.4. CONCLUSIÓN: Compatible con la normalidad.
+
+Analítica: Triglicerid 233.6 mg/dL, Alanina aminotransferasa (ALT) 10.2 U/L, Bilirrubina total 0.3 mg/dL, Albumina 3.7 g/dL, Magnesi (II) 2.2 mg/dL, Colesterol HDL *29.0 mg/dL, Colesterol LDL 77.3 mg/dL, Colesterol 152.7 mg/dL, Glicohemoglobina S-A1C *5.2 %, Tirotropina (TSH) 1.01 mUI/L, Urat *8.2 mg/dL, Tiroxina lliure (T4L) 1.2 ng/dL, Aspartat aminotransferasa (AST) 11.4 (UI/L) U/L, Gamma-glutamiltransferasa (GGT) 14.4 U/L, Bilirrubina esterificada No procedeix. Bilirubina dins del rang de normalitat. mg/dL, Fosfatasa alcalina 89.4 U/L, Fosfat 3.8 mg/dL, Proteina 6.5 g/d
+
+ECG: RS A 75 x´
+
+Ecocardiograma: Ventrículo izquierdo no dilatado, no hipertrófico, sin alteraciones segmentarias de la contractilidad, con función ventricular conservada (FE estimada por Simpson 65%). Aurícula izquierda ligeramente dilatada. Válvula mitral con velos finos con correcto plano de coaptación. Raíz aórtica y aorta ascendente no dilatadas. Cayado aórtico de tamaño normal. Válvula aórtica mal visualizada sin poderse descartar bicúspide. Ventrículo derecho no dilatado con función conservada (TAPSE 27 mm). Vena cava inferior no dilatada con colapso inspiratorio normal. Sin derrame pericárdico. Doppler: Sin insuficiencia mitral. Estenosis aórtica ligera (Gmedio 14mmHg). Sin insuficiencia aórtica. Sin señal de IT que permita estimar la PAP. Sin signos indirectos de hipertensión pulmonar. Sin flujos sugestivos de coartación de aorta. Función diastólica normal.
+
+RM craneal: Estructuras de la línea media centradas.Correcta diferenciación entre la sustancia blanca y la sustancia gris. Sistema ventricular y espacios aracnoïdals - cisternal normales para la edad del paciente.
+No se identifican alteraciones de la intensidad de señal que sugieran patología salgan émica o desmielinizante.
+Tronco y fosa posterior sin anomalías significativas. Unión cráneo-cervical normal. Cuerpo calloso de tamaño, morfología y señal normales. No se detectan ensanchamientos significativos de la silla turca. No se observan anomalías de  restricción en difusión que  sugieran patología salgan émica aguda. Imagen hipointensa en hemisferio cerebeloso izquierdo en GRE, que puede ser un depósito de hemosiderina .No tiene traducción al resto de las secuencias ni al tc. ANGIO-RM intracraneal. (PC 2D, TOF 3D). Correcta permeabilidad de las ACM, ACA y ACP-D. Hipoplàssia de P1 izquierdo con permeabilidad de la comunicante posterior ipsilateral.
+Hipoplàssia de la VE con elongación del tronco basilar hacia el izquierdo. Correcta permeabilidad de la arteria basilar y de la VD. No se identifica estenosis significativas ni aneurismas detectables con esta técnica.
+
+EVOLUCIÓ:
+
+Mujer de 33 años que ingresa por paralisis facial izquierda, con hipoestesia faciobraquial izquierda y leve disatria que tras fibrinolisis ha recuperado completamente. Se ha iniciado tratamiento antiagregante, y se ha pautado tratamiento habitual . En planta de hospitalziación, se encuentra hemodinamicamente estable sin presentar focalidad neurológica. No presenta disartria con un NIHSS 0 mRS 0. Se ha realziado pruebas complementarias para estudio de AVC, que destaca hipertrigliceridemia y TAC de control sin signos de sangrado.
+
+JUDICI CLÍNIC:
+Probable AVC isquemico recuperado de origen desconocido en territorio ACM D (PACI) 434.11
+
+TRACTAMENT:
+
+Adiro 100mg/24h.   Atorvastatina 80mg/24h (noche) Enalapril 20 mg  0.5-0-0.5
+Carvedilol 6,25 /24h.
+Citar Dr _NAME_i en 3 meses Atentament,
+Signat:
+Dr/a.: _NAME_
+Metge adjunt - Neurologia Número col·legiat: _ID_
+
+Hospitalització
+Imprès: 11/05/2017 16:49
+Pàg.: 1 de  3

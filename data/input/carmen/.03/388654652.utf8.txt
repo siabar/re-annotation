@@ -1,0 +1,122 @@
+_LOCATION_
+_LOCATION_) Anul·lació/Reprogramació visites:_CONTACT_
+Telèfon Centraleta: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 61 Anys
+NIF/DNI:_NAME_; _NAME_; _NAME_,;
+_NAME_
+Informe d'alta d'hospitalització
+CP	_LOCATION_
+ABS	_SS_
+Servei	NEUROLOGIA
+Data d'alta  12.07.2017	17:20:16
+_LOCATION_
+_CONTACT_; _CONTACT_
+DOMICIL/RES.SOC 28.06.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Ictus ACM dreta + estenosis ACI bilateral.
+
+ANTECEDENTS
+No alergias medicamentosas conocidas. Fumador de 30 paq/año, no enolismo.
+Factores de riesgo cardiovascular: HTA, DM, DLP en tratamiento. Fractura estallido de L4 con afectación del muro posterior.
+Historia Neurológica:
+1.	Episodio de afasia y paresia de ESD en mayo de 2015 con RMN normal.
+2.	Episodio de paresia de ESD, parestesias e inestabilidad de la marcha en octubre de 2016. TC craneal normal.
+3.	Episodio de paresia de ESI en noviembre de 2016, ingresa en Neurología en _SS_. Se realiza RMN craneal que informa de lesiones isquémicas agudas bilaterales y en distintos territorios vasculares; se realiza ecografía de carótidas con placa ateromatosa en ACC derecha a nivel del bulbo con estenosis del 20% y placa ateromatosa en ACC izquierda en tercio distal con estenosis  del 50%. Se realiza EMG con resultado de polineuropatía mixta (paciente diabético). Se realiza TC torácico  que informa de granulomas pulmonares y adenopatías calcificadas. Se orienta como vasculitis intracraneal aislada, se administran bolus de corticoides, es dado de alta en tratamiento con metilprednisolona. Al alta precisa de ayuda para las ABVD y para la deambulación.
+Intervenciones quirúrgicas: Artrodesis L3-L5 con sistema JAVA ( tornillos poliaxiales de 6.5X45mm y barras de 90mm ). (Agosto 2015).
+Situación basal: natural de _LOCATION_, donde reside su familia; vive solo en una masia, poco autocuidado, desconocemos controles con NRL.
+
+MEDICACIÓ HABITUAL
+Dexketoprofeno 25mg 5/semana si precisa, Insulina Actrapid 18/24h, Adiro 300mg, Amlodipino 5mg/12h, Atorvastatina 40mg/24h, Enalpril 20mg/24h, Gabapentina 300mg 2/24h, Mixtard 100/24h, Omeprazol 20mg/24h, Prednisona 5mg/24h, Amitriptilina 0mg/24h.
+
+
+
+PROCÉS ACTUAL
+Varón de 61 años, visto asintomático por última vez el día 28/06 a las 14.30h. A las 17h aproximadamente es encontrado con alteración del habla y debilidad del hemicuerpo izquierdo por lo que se avisa al SEM. A la llegada del SEM presenta TA 124/59 mmHg, DTX 136, FC 77. Neurológicamente persenta PFSN izquierda, paresia braquial y crural izquierda y desviación oculocefálica (RACE 6). Se activa guardia de neurovascular, se avisa a NRL _SS_ a las 17.30h. Estudio RACE CAT 126.
+
+A su llegada al _SS_ a las 18.50h. TA 167/80 mmHg, FC 75 lpm, ritmo sinusal por monitor, SatO2 98%, DTX 104. Neurológicamente consciente, orientado en TEP, disartria moderada (2), lenguaje conservado, DOC D (2); HH izquierda por amenaza (2), PFSN I (2), hemiparesia braquial 1/5 (4) y crural 2/5  izquierdas (3), sensibilidad no
+
+Informe d'alta d'hospitalització
+
+
+
+
+valorable (1), negligencia (1), RCP extensor izquierdo, flexor derecho, espasticidad ESI. NIHSS 17.
+Como pruebas complementarias se realizan TC y angioTC craneal, que informan de mínima hipodensidad córtico-subcortical que podría estar en relación con isquemia aguda (ASPECTS 7-8), estenosis significativa de ambas carótidas internas, sin oclusiones intracraneales. ECG en ritmo sinusal. Analítica donde destaca urea 8.9, anemia microcítica Hb 11.4 y leucocitosis 12600 neutrofílica.
+Se orienta como ictus ACM derecha en contexto de estenosis crítica bilateral de arterias carótidas internas. No se realiza trombolisis por tiempo de evolución (>4.5h), se desestima trombectomia por ausencia de oclusión intracraneal y situación basal.
+
+EXPLORACIÓ FÍSICA
+
+FC	71 bpm
+Tªaxi 35.4 ºC
+FR	10 rpm Tªrec  ºC
+TA s	151 mmHg SAT O2 99 %
+TA d   78 mmHg Pes Kg
+
+NRL: consciente, orientado en TEP, disartria moderada (2), lenguaje conservado, anisocoria reactiva I>D, DOC a la derecha que no pasa línea media (2); HH izquierda por amenaza (2), PFSN izquierda (2), hemiparesia braquial 1/5 (4) y crural 2/5 (3), senisbiliad no valorable (1), negligencia (1), RCP extensor izquierdo, flexor derecho, espasticidad ESI. NIHSS 17.
+
+
+EXPLORACIÓ COMPLEMENTÀRIA
+EXPLORACIONES COMPLEMENTARIAS EN URGENCIAS:
+Analítica: EABv pH normal, pCO2 59 mmHg, BIC 34, EB 7.2. Glucosa normal. URea 8.9, anemia microcitica (Hb 114, VCM 77), plaquetas normales, leucocitosis (12.6 x10E9/L) neutrofilica.
+ECG (monitor) en ritmo sinusal.
+Rx tórax: marco óseo conservado, ICT>0.5, senos costofrénicos libres,  hilios congestivos y signos de redistribución vascular.
+TC craneal/angioTC: mínima hipodensidad córtico-subcortical que podría estar en relación con isquemia aguda (ASPECTS 7-8) Severa ateromatosis "blanda" de ambas bifurcaciones carotídeas con estenosis significativa de ambas carótidas internas, permeables distalmente. No se identifican oclusiones a nivel de los vasos intracraneales. Sin otros signos de patología intracraneal aguda.
+
+EXPLORACIONES COMPLEMENTARIAS EN NEUROLOGÍA:
+Analítica de ingreso (30.06.17): función renal normal, ionograma sin alteraciones. Glucosa 12.9 mmol/L. Perfil hepático (ALT, AST, GGT, FA) norma, proteina 54g /L, perfil lipídico normal excepto HDL bajo de 0.71 mmol/L. Hormonas tiroideas normales. Cobalaminas y folatos normales. HbA1c 9.5%. Proteinograma sin alteraciones. Hb
+12.1 g/dL, hematocrito 40.6%, VCM 76 fL. VSG 41mm.
+Serología para lues, VIH, VHB y VHC negativas.
+Analítica (06.07.17): glucosa 15.5 mmol/L, urea 9.1 mmol/L, creatinina normal, sodio normal, potasio 3.70 mmol/L, coagulación normal. Hb 12.5g/dL, hematocrito 41%, VCM 76 fL, leucocitosis de 10300 con neutrofilia de 8490, sin otras alteraciones.
+Gasometría arterial (con FiO2 de 100%): pH 7.45, pO2 90 mmHg, pCO2 41 mmHg, HCO3- 29 mmol/L, EB 4.1
+mmol/L, satO2 98%.
+Rx de tórax (portátil): aumento de densidad en base pulmonar derecha.
+ANGIORMN CRANEAL (30/06): Extenso infarto agudo dependiente del territorio superficial y profundo de ACM derecha. Transformación hemorrágica en su porción ganglionar basal. Lesiones isquémicas crónicas contralaterales que configuran un territorio frontera ACP - ACM. Patrón de pérdida de volumen de parénquima
+
+Informe d'alta d'hospitalització
+
+
+
+
+encefálico, superior al esperado para la edad del/de la paciente, compatible con atrofia cerebral global. Signos de afectación isquémica crónica de la sustancia blanca.
+
+EVOLUCIÓ CLÍNICA
+Varón de 61 años que ingresa en neurología por ictus de ACM derecha en contexto de estenosis significativa de ambas carótidas internas, desestimándose tratamiento por tiempo de evolución, ausencia de oclusión intracraneal y situación basal.
+
+Durante su ingreso en la unidad de ictus permanece estable, telemetría en ritmo sinusal en torno a 70 lpm, con tendencia a la hipertensión (TA 170/89), SaO2 98%.
+
+Como parte del estudio se ha realizado analítica donde destaca hiperglicemia con HbA1c de 9.5%, anemia normocítica leve, sin otros hallazgos destacables. Serologías negativas. Se realiza RMN y angioRMN craneal que confirma infarto agudo en territorio superficial y profundo de ACM derecha con transformación hemorrágica en porción ganglionar basal, además de lesiones bilaterales crónicas en territorio frontera de ACM - ACP.
+
+Como incidencias presenta episodio de desaturación hasta 82% basal, con aumento de secreciones respiratorias, taquipnea y taquicardia. A la auscultación presenta abundantes roncus dispersos. Se solicita Rx de tórax que muestra condensación basal derecha y analítica que muestra leucocitosis de 10300 con neutrofilia, gasometría arterial con PaFI de 90 (pO2 de 90 mmHg con monagan), normocapnia y bicarbonato normal. Se inicia ventilación con alto flujo, antibioticoterapia empírica con A/C 1g cada 8h durante una semana, corticoides y broncodilatadores con buena evolución. Actualmente presenta saturaciones correctas con gafas nasales. Se realiza nueva Rx de tórax de control con mejoría respecto a previa.
+
+Se orienta como ictus de ACM derecha de etiología aterotrombótica por estenosis de ACI bilateral. Antiagregado. Se ha informado a familiares de afectación neurológica severa, con mal pronóstico funcional y se acuerda conjuntamente priorizar medidas de confort en caso de empeoramiento.
+
+En el momento actual (12.07.17), tolera ingesta oral pastosa. Neurológicamente se encuentra despierto, obedece órdenes sencillas, disatria severa, TOC derecha que cruza línea media, HHI,  PFSN I completa y plejia BC con hipertonía crural y plantar izquierdo extensor, negligente, poco colaborador.  NIHSS 17. mRS 5.
+
+Ante la mejoría clínica se decide traslado a centro de referncia (_SS_) para control evolutivo.
+
+
+DIAGNÒSTICS
+Ictus ACM derecha. NIHSS 17  mRS 5 Ictus territorio frontera ACM- ACP bilateral
+Estenosis significativa de ambas carótidas internas.
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Se adjunta
+
+DESTINACIÓ A L'ALTA:	HOSP. AGUTS/PSQ
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+12.07.2017
+Pàgina 1 de 3

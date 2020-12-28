@@ -1,0 +1,91 @@
+T1	Fecha_de_alta 15 25	05-09-2018
+#1	AnnotatorNotes T1	2018-09-05
+T2	_SUG_Etiologia 127 140	indeterminada
+T3	Ataque_isquemico_transitorio 150 153	AIT
+T4	Arteria_afectada 168 170	VB
+T5	Etiologia 184 197	indeterminada
+T7	_SUG_TAC_craneal 271 283	TAC CEREBRAL
+T8	_SUG_TAC_craneal 286 294	ANGIOTAC
+T9	_SUG_Ictus_isquemico 393 398	ICTUS
+T11	mRankin_previa 725 730	mRS 0
+T14	Fecha_inicio_sintomas 1165 1175	28/08/2018
+#14	AnnotatorNotes T14	2018-08-28
+T15	_SUG_Etiologia 1246 1254	habitual
+T16	_SUG_Etiologia 1322 1330	habitual
+T17	FECHA 2075 2080	28/08
+#17	AnnotatorNotes T17	2018-08-28
+T18	_SUG_Lateralizacion 2834 2843	bilateral
+T19	_SUG_Lateralizacion 2858 2865	derecho
+T20	_SUG_Lateralizacion 3030 3039	bilateral
+T21	_SUG_Lateralizacion 3123 3128	ambos
+T22	_SUG_Lateralizacion 3370 3379	bilateral
+T23	FECHA 3498 3503	29/08
+#23	AnnotatorNotes T23	2018-08-29
+T24	_SUG_Lateralizacion 3647 3648	E
+T25	_SUG_Lateralizacion 4061 4070	izquierdo
+T26	_SUG_NIHSS 4122 4134	NIHSS 2 [7 2
+T28	TAC_craneal 5152 5164	TAC cerebral
+T29	Fecha_TAC_inicial 5177 5187	28-08-2018
+#29	AnnotatorNotes T29	2018-08-28
+T30	_SUG_Localizacion 5337 5348	ventricular
+T32	_SUG_TAC_craneal 5528 5538	TC craneal
+T33	_SUG_Arteria_afectada 5789 5806	núcleo lenticular
+T34	_SUG_Lateralizacion 5807 5814	derecho
+T35	_SUG_Ictus_isquemico 5840 5847	infarto
+T36	_SUG_Localizacion 5840 5854	infarto lacuar
+T37	_SUG_Localizacion 5905 5916	ventricular
+T38	_SUG_Lateralizacion 6050 6059	izquierdo
+T39	_SUG_Lateralizacion 6105 6114	izquierdo
+T40	_SUG_Lateralizacion 6151 6158	derecha
+T41	_SUG_Arteria_afectada 6198 6215	Arteria vertebral
+T42	_SUG_Lateralizacion 6216 6223	derecha
+T43	_SUG_Localizacion 6248 6255	Troncos
+T44	_SUG_ASPECTS 6542 6549	aspecto
+T45	_SUG_Lateralizacion 6735 6742	derecho
+T46	_SUG_Arteria_afectada 6784 6793	carotídea
+T47	_SUG_Lateralizacion 6794 6798	izda
+T48	_SUG_Arteria_afectada 6842 6862	Arterias vertebrales
+T49	_SUG_Lateralizacion 6987 6988	I
+T50	_SUG_Lateralizacion 7084 7089	ambas
+T51	_SUG_Etiologia 7106 7120	Aterosclerosis
+T52	_SUG_Lateralizacion 7129 7134	ambos
+T53	_SUG_Arteria_afectada 7198 7215	arteria vertebral
+T54	_SUG_Lateralizacion 7216 7223	derecha
+T55	_SUG_Localizacion 7375 7386	posteriores
+T56	FECHA 7620 7628	04/09/18
+#56	AnnotatorNotes T56	2018-09-04
+T57	_SUG_Ictus_isquemico 7709 7714	ictus
+T58	_SUG_Arteria_afectada 7729 7731	VB
+T59	_SUG_Localizacion 7934 7942	cortical
+T60	_SUG_Lateralizacion 7949 7950	e
+T61	_SUG_Localizacion 8232 8243	subcortical
+T62	_SUG_Localizacion 8246 8254	profunda
+T63	_SUG_Localizacion 8723 8734	ventricular
+T64	_SUG_Lateralizacion 8787 8788	e
+T65	_SUG_Localizacion 8818 8826	Cerebelo
+T66	_SUG_Localizacion 8828 8834	tronco
+T67	_SUG_Localizacion 8906 8917	cerebelosas
+T68	_SUG_Lateralizacion 8978 8987	izquierdo
+T69	_SUG_Ictus_isquemico 9226 9240	ECVA isquémica
+T70	Localizacion 9255 9264	posterior
+T71	_SUG_Localizacion 9723 9739	supraventricular
+T72	_SUG_Etiologia 9857 9870	indeterminada
+T73	_SUG_Lateralizacion 10351 10356	dieta
+T74	_SUG_Etiologia 10888 10896	habitual
+T75	Tratamiento_antiagregante_alta 10898 10920	Ácido acetilsalicílico
+T76	SECCION_DIAGNOSTICOS 51 63	DIAGNÓSTICOS
+T77	SECCION_PROCEDIMIENTOS 253 267	PROCEDIMIENTOS
+T78	SECCION_MOTIVO_DE_INGRESO 400 418	Motivo de consulta
+T79	SECCION_ANTECEDENTES_PERSONALES 540 563	Antecedentes Personales
+T82	SECCION_ANTECEDENTES_PATOLOGICOS 912 936	Antecedentes Patológicos
+T83	SECCION_PROCESO_ACTUAL 1046 1063	Enfermedad Actual
+T84	SECCION_EXPLORACION_FISICA_EN_URGENCIAS 2045 2073	Exploración Física Urgencias
+T85	SECCION_EXPLORACION_FISICA_DURANTE_HOSPITALIZACION 3471 3496	Exploración física planta
+T86	SECCION_EXPLORACIONES_COMPLEMENTARIAS 4311 4334	Pruebas complementarias
+T88	SECCION_EVOLUCION 9172 9181	Evolución
+T89	SECCION_TRATAMIENTO_Y_RECOMENDACIONES_AL_ALTA 10210 10240	Plan y recomendaciones al alta
+T6	SECCION_SITUACION_FUNCIONAL 701 716	Situación basal
+#2	AnnotatorNotes T11	0
+T10	SECCION_TRATAMIENTO_HABITUAL 734 752	Mediación habitual
+T12	Fecha_llegada_hospital 1165 1175	28/08/2018
+#3	AnnotatorNotes T12	2018-08-28

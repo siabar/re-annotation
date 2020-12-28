@@ -1,0 +1,60 @@
+T0	FECHA 321 331	31.05.2017
+#0	AnnotatorNotes T0	2017-05-31
+T1	HORA 392 397	20:18
+#1	AnnotatorNotes T1	20:18
+T2	SECCION_TIPO_DE_INGRESO 429 454	Tipo ingreso/Tipus ingrés
+T3	SECCION_DIAGNOSTICOS 496 501	Diag.
+T4	_SUG_Ataque_isquemico_transitorio 503 506	AIT
+T5	SECCION_PROCEDIMIENTOS 510 515	Proc.
+T6	_SUG_TAC_craneal 517 527	TC CRANEAL
+T7	SECCION_MOTIVO_DE_INGRESO 648 686	Motivo de consulta / Motiu de consulta
+T8	SECCION_ANTECEDENTES 717 779	Antecedentes e historia previa / Antecedents i història prèvia
+T9	_SUG_mRankin 880 885	mRS 0
+T10	SECCION_ANTECEDENTES_PATOLOGICOS 889 913	ANTECEDENTES PATOLÓGICOS
+T11	_SUG_Trombolisis_intravenosa 1027 1049	tratamiento   con  IFN
+T12	FECHA 1330 1358	principios de marzo del 2013
+#12	AnnotatorNotes T12	2013-03-UNDEF-day
+T13	FECHA 1588 1592	2014
+#13	AnnotatorNotes T13	2014-UNDEF-month-UNDEF-day
+T14	FECHA 1697 1716	septiembre del 2012
+#14	AnnotatorNotes T14	2012-09-UNDEF-day
+T15	_SUG_Tratamiento_antiagregante 1849 1860	dipiridamol
+T16	SECCION_ANTECEDENTES_QUIRURGICOS 1896 1898	IQ
+T17	SECCION_TRATAMIENTO_HABITUAL 2022 2040	MEDICACIÓ HABITUAL
+T18	_SUG_Tratamiento_antiagregante 2206 2217	clopidogrel
+T19	SECCION_PROCESO_ACTUAL 2255 2285	Proceso actual / Procés actual
+T20	HORA 2310 2315	20.30
+#20	AnnotatorNotes T20	20:30
+T21	FECHA 2321 2326	30/05
+#21	AnnotatorNotes T21	2012-05-30
+T22	HORA 2473 2475	21
+#22	AnnotatorNotes T22	21:00
+T23	SECCION_PROCESO_ACTUAL 6650 6656	Episod
+T24	SECCION_EXPLORACION_FISICA 2506 2544	Exploración física / Exploració física
+T25	FECHA 2545 2555	31/05/2017
+#25	AnnotatorNotes T25	2017-05-31
+T26	HORA 2556 2561	21:00
+#26	AnnotatorNotes T26	21:00
+T27	FECHA 2622 2632	01/06/2017
+#27	AnnotatorNotes T27	2017-06-01
+T28	HORA 2633 2638	01:00
+#28	AnnotatorNotes T28	01:00
+T29	_SUG_NIHSS 2903 2910	NIHSS 2
+T30	SECCION_EXPLORACIONES_COMPLEMENTARIAS 2913 2973	Exploraciones complementarias / Exploracions complementàries
+T31	SECCION_EVOLUCION 3296 3316	Evolución / Evolució
+T32	_SUG_NIHSS 3523 3530	NIHSS 2
+T33	_SUG_TAC_craneal 3629 3631	TC
+T34	_SUG_Trombolisis_intravenosa 3822 3834	fibrinólisis
+T35	_SUG_Tratamiento_antiagregante 4513 4524	clopidogrel
+T36	_SUG_Tratamiento_antiagregante 4529 4532	AAS
+T37	SECCION_EXPLORACION_FISICA_AL_ALTA 4749 4756	Al alta
+T38	_SUG_NIHSS 4758 4764	NIH: 0
+T39	_SUG_mRankin 4807 4813	mRS: 0
+T40	SECCION_TRATAMIENTO_AL_ALTA 4815 4848	Plan terapéutico / Pla terapèutic
+T41	_SUG_Tratamiento_antiagregante 5819 5841	Acido acetilsalicilico
+T42	_SUG_Tratamiento_antiagregante 5825 5841	acetilsalicilico
+T43	SECCION_RECOMENDACIONES 5958 5979	Otras recomendaciones
+T44	FECHA 6318 6328	02.06.2017
+#44	AnnotatorNotes T44	2017-06-02
+T45	HORA 6343 6348	10:49
+#45	AnnotatorNotes T45	10:49

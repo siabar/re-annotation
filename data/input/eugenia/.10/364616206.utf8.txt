@@ -1,0 +1,137 @@
+_LOCATION_
+Telèfon: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 86 anys
+NIF/DNI: _ID_Informe d'alta d'hospitalització
+13:00:00
+27.04.2017
+_LOCATION_
+_SS_ NEUROLOGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_; _CONTACT_
+DOMICIL/RES.SOC 20.04.2017
+_NAME_
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Paresia de la extramidad superior derecha
+
+ANTECEDENTS
+NAMC. Reside con su mujer. Deambulación  sin ayuda. mRS 0. Empadronado en _LOCATION_. Fumador de 3 caliqueños al día.
+DL. Enf. De Paget.
+
+IQ: Hernias inguinales,STC I, Hernia discal lumbar (hace 20 años).
+
+
+MEDICACIÓ HABITUAL
+Hidroferol, Ideos Unidia 1000mg/880UI, Omperazol 20 mg, Paracetamol 1 g, Simvastatina 10 mg.
+
+PROCÉS ACTUAL
+Varón de 86 años que consultó con el S. de Urgencias del _SS_ de Ll_LOCATION_ por déficit motor en MSD, desviación de comisura labial y trastorno del habla, que se inciaron de modo brusco a las 20:15h del día 19/04/2017. Se procedió a la activación del protocolo Código Ictus Extrahospitalario. Durante el traslado el paciente experimentó una mejoría clíninca. Llegó al S. de Urgencias con una evolución de los síntomas cercana a las 2 h. Se realizó una TC de cráneo y se desestimó el tratamiento fibrinolítico por la mejoría clínica.
+
+EXPLORACIÓ FÍSICA
+
+-	Inicial: Consciente, alerta, orientado en los 3 ejes. Comprensión, nominación y repetición correctas. Disartria comprensible (1). Isocoria y normorreactividad pupilar. MOE conservados. Campimetría por confrontación sin déficits. Paresia facial central derecha leve (1). Resto de PPCC normales. ESD no claudica en 10", paresia de la mano 3/5. Fuerza conservada en EEII. No alteración sensitiva. RCP flexor bilateral. Estática y marcha sin alteraciones. NIHSS 2.
+
+AC: RsCsRs. SS.
+
+EXPLORACIÓ COMPLEMENTÀRIA
+1.	AS (19/04/2017, Urgencias): BQ: Gluc 123. U, Cr, Na, K, Cl Normales. Hemograma: Leucos, Hb, VCM, Plaq Normales. Coag básica: Normal.
+
+2.	AS (21/04/2017):BQ:	Col  168. HDL-Col  34. LDL Col 103.8. TAG 151. GOT, GPT, GGT, FA,  Bilirrubina Normales. HbA1C 5.5%. Hemograma: Leucos, Hb, VCM, Plaq Normales.
+
+3.	TC  de  Cráneo  (19/04/2017,  Urgencias):  Absència  de  desplaçaments d'estructures de  línia  mitja supra  i
+1.	
+Informe d'alta d'hospitalització
+
+
+
+
+infratentorials. No s'observen lesions hemorràgiques intra ni extraparenquimatoses. Dilatació global i simètrica del sistema ventricular, valls silvians i solcs corticals de la convexitat cerebral. Cisternes basals i peritronculars lliures. Hipodensitat a cap de nucli caudat esquerre suggestiva d'infart lacunar. Fossa posterior i resta de parènquima cerebral sense altres alteracions morfològiques o densitomètriques valorables. CONCLUSIÓ Atròfia difusa. Hipodensitat a cap de nucli caudat esquerre suggestiva d'infart lacunar.
+
+4.	RM de cráneo + A-RM de Willis y TSA: Prominencia de surcos, cisuras y sistema ventricular, en relación a atrofia cerebral global cortico-subcortical discreta. Estructuras de la línea media centradas. Se visualizan varios focos de difusión restringida en la convexidad fronto-parietal izda. en relación con infarto en evolución fragmentado en el territorio de la ACM izda. En secuencias T2 y FLAIR se aprecia, hiperintensidad de señal en la protuberancia, sustancia blanca adyacente a los ventrículos laterales, y varios focos en las coronas radiatas. Estas alteraciones de señal son sugestivas de lesiones hipóxico-isquémicas. Foco de encefalomalacia periventricular temporal izdo. sugestivo de lesión residual. No evidencia de procesos expansivos intra ni extra-axiales. Charnela occípito#cervical normal. Polígono de Willis sin evidencia de estenosis significativas. Estenosis focal significativa en el tercio inferior de la a. vertebral dcha. Engrosamiento mucoso del receso dcho. del seno esfenoidal compatible con cambios inflamatorios/infecciosos. CONCLUSIÓN: Infarto en evolución en la convexidad izda. Alteraciones hipóxico-isquémicas. Estenosis focal vertebral dcha.
+
+4.	Estudio Neurosonológico: Se realiza estudio neurosonológico que comprende:
+-	Dúplex de TSA: Se evidencian signos de ateromatosis con la presencia de placas hiperecogénicas en ambos ejes carotídeos aunque de predominio en el eje izquierdo. En la porción proximal de la arteria carótida interna izquierda se constata el artefacto producido por la sombra acústica que no permite su valoración. Valorar otras técnicas de imagen. Sin evidencia de alteraciones hemodinámeicamente significativas en el eje derecho. Ambas arterias vertebrales siguen un curso en dirección cefálico en su trayecto extracraneal.
+-	Dúplex TC: A través de las ventanas transtemporales el estudio es de calidad subóptima pero impresiona dentro de la normalidad. A través de la ventana suboccipital se valora la permeabilidad de las arterias vertebrales y de la arteria basilar.
+
+5.	Telemetría (de más de 24 horas): Sin evidencia de FA. Se observa alarma 23/04/2017 a las 17:51 compatible con racha de TVNS.
+
+6.	ETT:
+-	VI: dimensiones normales. Hipertrofia concéntrica ligera. Movimiento anómalo del TIV en relación con estimulación por BRIHH. Función sistólica normal, sin otras asimetrías contráctiles regionales. Patrón diastólico de mala relajación.
+-	Ligera dilatación biauricular (vol. indexado de AI: 38 ml/m2 y de AD: 35 ml/m2).
+-	VD normal.
+-	VM: velos esclerosos con apertura normal e IM ligera.
+-	VAo: trivalva, calcificada, con apertura ligeramente reducida (gradiente máximo 31 mm Hg, medio 19 mm Hg) e IAo
+testimonial.
+-	IT ligera funcional. PAPs normal.
+-	No masas intracardíacas.
+-	Ausencia de derrame pericárdico.
+-	Ausencia de cortocircuitos.
+-	Cava inferior y suprahepáticas normales.
+-	Raíz aórtica, porción tubular de aorta ascendente y arco de dimensiones normales.
+-	
+Informe d'alta d'hospitalització
+
+
+
+
+Conclusiones: Valvulopatía mitro-aórtica degenerativa: Insuficiencia mitral ligera. Estenosis aórtica ligera. VI no dilatado, ligeramente hipertrofiado, con función sistólica normal y disfunción diastólica por mala relajación. Ligera dilatación biauricular. Normopresión pulmonar.
+
+
+EVOLUCIÓ CLÍNICA
+Paciente que ingresa por sospecha de ictus isquémico con clínica de disartria, paresia facial central derecha y paresia de predominio distal de la extremidad superior derecha. Durante el ingreso se ha rehalizado una RM de cráneo que ha constatado un infarto en evolución en la convexidad izda. El estudio de neuroimagen se ha completado con un estudio de A-RM intra y extracraneal que ha evidenciado una estenosis focal de la arteria vertebral derecha, que se considera un hallazgo asintomático. El estudio neurosonológico realizado puso de manifiesto la presencia de signos de ateromatosis con la presencia de placas hiperecogénicas en ambos ejes carotídeos aunque de predominio en el eje izquierdo. El estudio etiológico se completó con una valoración cardiológica que incluyó telemetría (durante más de 24 horas) y una ecocardiografía transtorácica. La telemetría no objetivó arritmias embolígenas, aunque cabe reseñar que se identificó una breve racha de TVNS. La ETT identificó una estenosis aórtica ligera y una ligera dilatación biauricular. Por las alteraciones reseñadas se solciitó una interconsulta al S. de Cardiología que estimó seguimiento por su Cardiólogo de zona, sin precisar de otras medidas específicas. Desde el punto de vista terapéutico, se ha añadido tratamiento antiagregante con Adiro 100 mg y se ha aumentado la pauta de estatina a Simvastatina 20 mg. Durante el ingreso ha seguido tratamiento rehabilitador y ha sido valorado por logopedia.
+Desde un punto de vista clínico, el paciente ha permanecido estable. En el momento del alta hospitalaria: Persiste disartria leve, paresia distal de ESD y leve paresia de EID. NIHSS 3 p. mRS 3.
+Dada la estabilidad clínica, se decide el alta domiciliaria del paciente siendo recomendable el control de los factores de riesgo cerebrovascular a través de su Médico de Atención Primaria, así como controles por su Neurólogo y Cardiólogo de zona. Desde el punto de vista rehabilitador, consta la emisión de un informe al respecto para seguir tratamiento en su domicilio.
+
+DIAGNÒSTICS
+1.	Ictus isquémico en el territorio de la ACM izquierda (PACI).
+2.	Ateromatosis carotídea. Estenosis focal de la arteria vertebral derecha.
+3.	Episodio de TVNS durante ingreso por ictus
+4.	BRI completo
+5.	Estenosis aórtica ligera asintomática
+6.	Los previos
+
+
+PROCEDIMENTS
+89.08 Altra consulta
+88.91	Imatge per ressonància magnètica de cervell i tronc cerebral
+88.92	Imatge p/ressonància magnètica tòrax/miocardi per a avaluació de limfoadenopaties hilar/mediastínica
+99.29 Injecció o infusió d'altra substància terapèutica o profilàctica
+89.08 Altra consulta
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+1.	Dieta baja en grasas de origen de animal.
+1.	
+Informe d'alta d'hospitalització
+
+
+
+
+2.	Adiro 100 mg: 1 comprimido diario al mediodía.
+3.	Simvastatina 40 mg: 1 comprimido diario con la cena.
+4.	Suspender Simvastatina 10 mg.
+5.	Seguirá  tomando  tal  y  como  realizaba  previamente  al  ingreso:  Hidroferol,  Ideos  Unidia  1000mg/880UI, Omeprazol 20 mg.
+
+
+CONTROL
+1.	Se ruega un control estricto de los factores de riesgo vascular a través de su Médico de Atención Primaria.
+2.	Se ruega seguir controles por su Neurólogo y Cardiólogo de zona.
+3.	Seguir tratameinto rehabilitador.
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+27.04.2017
+Pàgina 1 de 4

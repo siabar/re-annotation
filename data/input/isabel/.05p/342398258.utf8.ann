@@ -1,0 +1,143 @@
+T0	FECHA 290 300	28.02.2017
+#0	AnnotatorNotes T0	2017-02-28
+T1	HORA 301 306	09:03
+#1	AnnotatorNotes T1	09:03
+T2	FECHA 347 357	05.02.2017
+#2	AnnotatorNotes T2	2017-02-05
+T3	SECCION_MOTIVO_DE_INGRESO 411 425	MOTIU D'INGRÉS
+T4	SECCION_ANTECEDENTES 497 508	ANTECEDENTS
+T5	SECCION_ANTECEDENTES_PERSONALES 509 532	ANTECEDENTES PERSONALES
+T6	SECCION_ANTECEDENTES_PATOLOGICOS 596 620	ANTECEDENTES PATOLÓGICOS
+T7	SECCION_TRATAMIENTO_HABITUAL 670 688	MEDICACIÓ HABITUAL
+T8	SECCION_PROCESO_ACTUAL 716 729	PROCÉS ACTUAL
+T9	FECHA 791 799	5/2/2017
+#9	AnnotatorNotes T9	2017-02-05
+T10	_SUG_TAC_craneal 1106 1117	TC  craneal
+T11	SECCION_EXPLORACION_FISICA 1450 1467	EXPLORACIÓ FÍSICA
+T12	SECCION_EXPLORACIONES_COMPLEMENTARIAS 2278 2303	EXPLORACIÓ COMPLEMENTÀRIA
+T13	_SUG_TAC_craneal 2305 2307	TC
+T14	FECHA 2340 2349	5/02/2017
+#14	AnnotatorNotes T14	2017-02-05
+T15	_SUG_Lateralizacion 2445 2454	izquierda
+T16	_SUG_Localizacion 2815 2826	ventricular
+T17	_SUG_Lateralizacion 2827 2836	izquierdo
+T18	_SUG_Localizacion 2864 2875	ventricular
+T19	_SUG_Lateralizacion 2972 2979	derecha
+T20	_SUG_Lateralizacion 3032 3041	izquierda
+T21	_SUG_Localizacion 3163 3174	cerebelosas
+T22	_SUG_Lateralizacion 3219 3224	ambos
+T23	_SUG_Lateralizacion 3363 3372	izquierdo
+T24	_SUG_Arteria_afectada 3395 3397	M1
+T25	_SUG_Arteria_afectada 3404 3426	arteria cerebral media
+T26	_SUG_Arteria_afectada 3498 3520	arteria cerebral media
+T27	_SUG_Lateralizacion 3521 3530	izquierda
+T28	_SUG_Lateralizacion 3724 3733	izquierdo
+T29	_SUG_Lateralizacion 3806 3815	izquierdo
+T30	_SUG_Arteria_afectada 3856 3878	arteria cerebral media
+T31	_SUG_Lateralizacion 3879 3888	izquierda
+T32	FECHA 3945 3952	5/02/17
+#32	AnnotatorNotes T32	2017-02-05
+T33	_SUG_Lateralizacion 4075 4085	izquierdas
+T34	_SUG_Localizacion 4168 4177	posterior
+T35	_SUG_Arteria_afectada 4189 4211	arteria cerebral media
+T36	_SUG_Arteria_afectada 4562 4584	arteria cerebral media
+T37	_SUG_Arteria_afectada 4691 4707	vertebro basilar
+T38	_SUG_Lateralizacion 5203 5210	derecho
+T39	_SUG_Localizacion 5406 5414	temporal
+T40	_SUG_Lateralizacion 5415 5423	esquerra
+T41	_SUG_Localizacion 5456 5464	temporal
+T42	_SUG_Lateralizacion 5465 5473	esquerre
+T43	_SUG_Localizacion 5617 5625	temporal
+T44	_SUG_Lateralizacion 5626 5634	esquerre
+T45	_SUG_Lateralizacion 5751 5759	esquerre
+T46	_SUG_Localizacion 5891 5899	temporal
+T47	_SUG_Localizacion 5914 5925	ventricular
+T48	_SUG_Localizacion 5982 5991	posterior
+T49	_SUG_Localizacion 6022 6030	parietal
+T50	_SUG_Lateralizacion 6031 6039	esquerra
+T51	_SUG_Lateralizacion 6124 6132	esquerre
+T52	_SUG_Localizacion 6146 6154	temporal
+T53	_SUG_Arteria_afectada 6377 6403	l'artèria cerebral mitjana
+T54	_SUG_Localizacion 6438 6447	corticals
+T55	_SUG_Lateralizacion 6497 6502	drena
+T56	_SUG_Lateralizacion 6528 6536	esquerre
+T57	_SUG_Arteria_afectada 6852 6868	vertebro-basilar
+T58	_SUG_Localizacion 6932 6943	ventricular
+T59	_SUG_Localizacion 7052 7060	temporal
+T60	_SUG_Lateralizacion 7061 7069	esquerre
+T61	FECHA 7177 7187	16/02/2017
+#61	AnnotatorNotes T61	2017-02-16
+T62	_SUG_Lateralizacion 7209 7216	derecha
+T63	_SUG_Lateralizacion 7363 7372	izquierda
+T64	_SUG_Arteria_afectada 7436 7439	ACM
+T65	_SUG_Localizacion 7581 7590	posterior
+T66	_SUG_Lateralizacion 7609 7618	izquierdo
+T67	_SUG_Lateralizacion 7660 7665	drena
+T68	FECHA 7999 8009	21/02/2017
+#68	AnnotatorNotes T68	2017-02-21
+T69	_SUG_TAC_craneal 8134 8144	TC craneal
+T70	FECHA 8145 8155	22/02/2017
+#70	AnnotatorNotes T70	2017-02-22
+T71	_SUG_Localizacion 8202 8210	temporal
+T72	_SUG_Lateralizacion 8211 8219	izuierda
+T73	_SUG_Localizacion 8249 8258	posterior
+T74	_SUG_Localizacion 8329 8337	temporal
+T75	_SUG_Localizacion 8368 8377	posterior
+T76	_SUG_TAC_craneal 8431 8433	TC
+T77	FECHA 8467 8475	5-2-2017
+#77	AnnotatorNotes T77	2017-02-05
+T78	_SUG_Localizacion 8706 8717	ventricular
+T79	_SUG_Localizacion 8753 8763	ventriculo
+T80	_SUG_Lateralizacion 8772 8781	izquierdo
+T81	SECCION_EVOLUCION 8827 8843	EVOLUCIÓ CLÍNICA
+T82	FECHA 8853 8859	5/2/17
+#82	AnnotatorNotes T82	2017-02-05
+T83	_SUG_Lateralizacion 9114 9118	izda
+T84	_SUG_Localizacion 9214 9224	corticales
+T85	_SUG_Localizacion 9296 9304	temporal
+T86	_SUG_Etiologia 9481 9489	habitual
+T87	_SUG_TAC_craneal 9608 9618	TC craneal
+T88	_SUG_Localizacion 9737 9748	ventricular
+T89	FECHA 9968 9973	06/02
+#89	AnnotatorNotes T89	2002-06-UNDEF-day
+T90	_SUG_Lateralizacion 10114 10121	derecha
+T91	FECHA 10738 10748	21/02/2017
+#91	AnnotatorNotes T91	2017-02-21
+T92	FECHA 10809 10812	5/2
+#92	AnnotatorNotes T92	2017-02-05
+T93	_SUG_Etiologia 10932 10941	disección
+T94	_SUG_Etiologia 11003 11012	disección
+T95	_SUG_Arteria_afectada 11096 11098	M1
+T96	_SUG_Localizacion 11191 11199	temporal
+T97	_SUG_Localizacion 11200 11209	posterior
+T98	_SUG_Lateralizacion 11260 11265	dicha
+T99	_SUG_Lateralizacion 11320 11325	drena
+T100	_SUG_Arteria_afectada 11411 11414	ACM
+T101	_SUG_Localizacion 11433 11440	frontal
+T102	_SUG_Lateralizacion 11613 11618	dicha
+T103	_SUG_Etiologia 11688 11697	disección
+T104	_SUG_Localizacion 11815 11824	profundas
+T105	_SUG_Lateralizacion 11959 11964	ambos
+T106	_SUG_Localizacion 12038 12046	temporal
+T107	_SUG_Localizacion 12049 12058	posterior
+T108	_SUG_Localizacion 12061 12069	profundo
+T109	_SUG_Etiologia 12205 12213	habitual
+T110	_SUG_TAC_craneal 12517 12527	TC craneal
+T111	_SUG_Etiologia 13032 13058	malformación arteriovenosa
+T112	SECCION_DIAGNOSTICOS 13195 13206	DIAGNÒSTICS
+T113	_SUG_Hemorragia_cerebral 13207 13231	Hemorragia intracerebral
+T114	_SUG_Etiologia 13232 13258	Malformación arteriovenosa
+T115	_SUG_Lateralizacion 13268 13277	izquierda
+T116	SECCION_PROCEDIMIENTOS 13279 13291	PROCEDIMENTS
+T117	_SUG_Arteria_afectada 13701 13709	caròtide
+T118	SECCION_TRATAMIENTO_Y_RECOMENDACIONES_AL_ALTA 13930 13965	TRACTAMENT I RECOMANACIONS A L'ALTA
+T119	SECCION_CONTROL 14398 14405	CONTROL
+T120	FECHA 14487 14496	6/04/2017
+#120	AnnotatorNotes T120	2017-04-06
+T121	HORA 14503 14507	9:30
+#121	AnnotatorNotes T121	09:30
+T122	FECHA 14788 14794	7/3/17
+#122	AnnotatorNotes T122	2017-03-07
+T123	SECCION_DESTINO_AL_ALTA 14819 14838	DESTINACIÓ A L'ALTA
+T124	FECHA 14909 14919	28.02.2017
+#124	AnnotatorNotes T124	2017-02-28

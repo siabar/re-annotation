@@ -1,0 +1,135 @@
+_LOCATION_ Tel. _CONTACT_
+e-mail: _CONTACT_
+Nº Història Clínica: _ID_
+NºEpisodi: _ID_
+CIP: _ID_
+Cognoms, Nom: _NAME_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 74 Anys
+NIF/DNI: _ID_Dr. _NAME_/ Dra. _NAME_/ Dra. _NAME_/ Dra. _NAME_
+Informe d'alta d'hospitalització
+17:00:00
+27.06.2017
+_LOCATION_
+_SS_ NEUROLOGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_
+AGUTS 23.06.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Mareo, alteración de la articulación del lenguaje.
+
+ANTECEDENTS
+Paciente de 74 años, sin alergias medicamentosas. No refiere hábitos tóxicos. Situación funcional previa: Independiente para las ABVD. mRS 0
+
+ANTECEDENTES PATOLÓGICOS:
+-	Hipertensión arterial en tratamiento médico con IECAs.
+-	CDIS a UQQSS de mama izquierda, pTis N0 M0, tratada con cirugia conservadora el 5.5.09 (segmentectomia) y
+9.6.09 (ampliación de margenes i determinación de GS). Índex de van Nuys 7 (4 cm, alto grado con necrosis, margenes negativos). Receptores hormonales negativos. RT sobre mama  izquierda: 50 Gy.Fi 16/9/09. No tamoxifeno. Libre de enfermedad y dada de alta de Oncología.
+
+MEDICACIÓ HABITUAL
+Lisinopril 2.5 mg cada 24 horas
+
+PROCÉS ACTUAL
+Vista asintomática por última vez 22.06.2017 a las 23:00h al acostarse. A las 3:00h al levantarse para ir al baño, le es imposible, con mareo importante que se acompaña de vómitos. Activan asistencia domiciliaria no acudiendo hasta las 9h00. La paciente refiere que ha presentado visión de rotación de un cuadro que estaba colgado en la pared 90º a la derecha. Es transportada al _SS_, donde objetivan disartria y se activa código ictus a las 10h15. Llega a nuestro centro el día 23.06.2017 a las 12h00.
+
+EXPLORACIÓ FÍSICA
+
+FC	60 bpm
+Tªaxi 36.0 ºC
+FR	21 rpm Tªrec  ºC
+TA s	130 mmHg SAT O2 96 %
+TA d   53 mmHg Pes Kg
+
+Glicemia 147 mg/dL.
+
+Exploración neurológica en Urgencias:
+Consciente y orientada en los 3 ejes. Obedece órdenes simples y complejas. No elementos afásicos, disartria moderada. No alteraciones campimétricas, paresia a la abducción del ojo izquierdo leve. Leve borramiento de surco nasogeniano izquierdo. No deficits motores ni sensitivos. Dismetria de extremidades derechas.
+
+NIHSS: (0.0.0)0.0/1(0.0)(0.0)/2.0.0.1. 0 = 4
+
+Exploración física al alta:
+Consciente y orientada en las 3 esferas. Lenguaje sin elementos afásicos. Habla escándida. Campimetría por confrontación y oculomotricidad normal. No paresia facial ni afectación de otros pares craneales. Miller-Fisher
+
+Informe d'alta d'hospitalització
+
+
+
+
+derecho. Dismetría  de  extremidades  derechas leve  con  hipotonía. RCP  flexor  bilateral. Marcha  atáxica  con aumento de la base de sustentación.
+
+NIHSS=(0.0.0)0.0/0(0.0)(0.0)/2. 0.0.1.0=3
+
+Sistémica: AC: tonos cardíacos rítmicos sin soplos ni roces. AR: MVC bilateral sin ruidos sobreañadidos. EEII sin edemas ni signos de TVP. Pulsos periféricos presentes y simétricos.
+
+EXPLORACIÓ COMPLEMENTÀRIA
+EXPLORACIONES COMPLEMENTARIAS EN URGENCIAS:
+ECG: ritmo sinusal a 60lpm, eje -120º, PR 0.12seg, QRS estrecho, T negativas a V1, resto sin alteraciones agudas de la repolarización.
+
+Analítica de Urgencias: Hematologia (23/06/17): Leucòcits 13100 /µL, (N 93 % / L 3,8 / M 2,7 / E 0,3 / B 0,2), Hties 4,74 mill/µL, Hb 13,3 g/dL, Hct 40,4 %, VCM 85,3 fL, Plaquetes 127000 /µL. Bioquimica (23/06/17):
+Glucosa 163 mg/dL, Urea 55, Creatinini 0,52, Na 141 mmol/L, K 4,2, Prot-C reactiva 1,5 mg/L.
+
+RMN multiparamétrica (23.06.2017 12h30): Pequeña lesión isquémica corticosubcortical en el tercio superior del hemisferio cerebeloso derecho y pedúnculo cerebeloso superior derecho, y algún otro foco puntiforme separado de la anterior también en hemisferio cerebeloso derecho. Se muestra hiperintensa en T2 y con presencia de restricción  de la difusión, por lo que sugiere estar establecida. No se aprecian microsangrados supra ni infratentoriales. No se observan otras lesiones isquémicas agudas en parénquima cerebral supratentorial. Algún mínimo foco de isquemia crónica en hemisferio cerebeloso izquierdo. En la secuencia de angioresonancia se identifica ausencia de señal en el tercio medio de la arteria cerebelosa superior derecha compatible con oclusión. Resto  de  arterias proximales del  Polígono de  Willis  permeables, incluyendo  ambas  ACP.  Lesión  extraaxial frontobasal  interhemisférica con base de implantación  ancha en porción inferior de la hoz cerebral a la cual desplaza contralateralmente. Dicha lesión mide unos 28x23 mm aproximadamente y ejerce leve efecto de masa sobre los giros rectos, más el derecho pero sin el edema vasogénico o gliosis . No se observan otras lesiones intra o extraaxiales en parénquima cerebral supra ni infratentorial. Línea media centrada. Sistema ventricular simétrico y de  tamaño  normal.  Cisternas  basales  y  perimesencefálicas libres.  CONCLUSIÓN:  Lesión  isquémica  aguda establecida en territorio de arteria cerebelosa superior derecha con oclusión de dicha arteria a nivel medio-distal. No se aprecia evidente afectación isquémica aguda en territorio de las ACP, ni oclusión de las mismas. Lesión extraaxial frontobasal interhemisférica compatible con meningioma de la hoz cerebral
+
+EXPLORACIONES COMPLEMENTARIAS EN UIA:
+
+Analítica de ingreso: Hematologia (26/06/17): Leucòcits 7600 /µL, (N 63,5 % / L 25,6 / M 7,6 / E 2,9 / B 0,4), Hties 4,41 mill/µL, Hb 13 g/dL, Hct 37,4 %, VCM 84,9 fL, Plaquetes 145000 /µL.
+Bioquimica (26/06/17):  Glucosa 109 mg/dL, HbA1c 5,3 %, Urea 39 mg/dL, Creatinini  0,59, Filtrat glomerular estimat >90 mL/min/1.73 m2, Na 142 mmol/L, K 4,03, ALT 35 U/L, AST 46, FA 45, Bilirubina 0,33 mg/dL, Proteïna
+58,9 g/L, Albumina 37,4. Proteinograma PEND. Lípids.- Triglicèrid 123 mg/dL, Colesterol 168, (HDL 36,2 / LDL
+107). Hormonas (26/06/17): TSH 1,389 µUI/mL.
+
+Estudio neurosonológico (25.06.2017): Estudi Trans-Craneal:Finestra transtemporal subòpitima. Es registren  ambdues ACPs, sense alteracions. S'arriba a determinar punts focals d'ACM i ACA en el seu terç proximal i a AB, i AV en el seu terç distal. Fluxes ortodròmics. Tot i que no es possible determinar la porció completa de l'arteria. Les característiques i velocitats del fluxe de les artèries insonandes són normals, no són
+
+Informe d'alta d'hospitalització
+
+
+
+
+suggestius d'estenosi intracraneal. Estudi de TSA: Eix carotidi dret: placa ateromatosa isoecoica amb superficie llisa calcificada, que no condiciona estenosis significatives. Eix carotidi izquierda: placa ateromatosa isoecoica amb superficie llisa plana, que no condiciona estenosis significatives. AV derecha: acceleración focal en òstium de AV fins a 105cm/seg, sense altres alteracions. Vertebral ortodròmiques. Conclusión: No ateromatosis significativa. No estenosis TSA ni intracraneal significatvia.
+
+Ecografia transtorácica (26.06.2017): Ventricle esquerre no dilatat i lleugerament hipertròfic. Funció sistòlica global conservada. Aurícula esquerra lleugerament dilatada. Sense valvulopaties significatives
+
+EVOLUCIÓ CLÍNICA
+Paciente de 74 años, con factores de riesgo cardiovascular y antecedente de neoplasia de mama libre de enfermedad, que acude a Urgencias el día 23.07.2017 por mareo y disartria. A su llegada a Urgencias, hemodinamicamente estable, eupneica y afebril. ECG en ritmo sinusal. A la exploración física se objetiva disartria moderada con borramiento de surco nasogeniano izquierdo, leve paresia del VI izquierdo y dismetría de extremidades derechas, puntuando un NIHSS de 4. Al tratarse de una paciente con focalidad de territorio vertebrobasilar y de cronologia incierta se decide realización de RMN multiparamétricaurgente que muestra lesión isquémica aguda establecida en territorio de arteria cerebelosa superior derecha con oclusión de dicha arteria a nivel medio-distal. Incidentalmente se diagnostica de un meningioma de la hoz cerebral que no ejerce efecto masa. Se desestima tratamiento con fibrinólisis por tiempo de evolución y tratamiento endovascular por no presentar oclusión de gran vaso. Se decide ingreso en Unidad de Ictus agudo para estudio.
+
+Durante su ingreso en la unidad de ictus, la paciente se mantiene estable, monitorizada sin presentar eventos arrítmicos. Se coloca dispositivo SRA, previo consentimiento informado. Neurológicamente presenta mejoría clínica, persistiendo habla escándida y dismetría con hipotonía de brazo izquierdo, con ataxia de la marcha importante, precisando 2 apoyos para la deambulación.
+Dentro del estudio etiológico se realiza estudio neurosonológico que no muestra alteraciones, ecocardiograma que descarta patología cardioembólica mayor y analítica con perfil lipídico y glicémico normal.
+
+Se orienta como ictus isquémico de territorio de arteria cerebelosa superior derecha de mecanismo embólico y etiología indeterminada. Se solicita visita de control con Dra. _NAME_ para valoración de inclusión en estudio NAVIGATE-ESUS (anticoagulantes de acción directa vs antiagregación en ictus de etiología indeterminada).
+Dada la estabilidad clínica, se decide traslado a Hospital de referencia (_SS_). Al alta:
+NIHSS=(0.0.0)0.0/0(0.0)(0.0)/2. 0.0.1.0=3
+mRS: 3
+
+DIAGNÒSTICS
+1.- Ictus isquémico de arteria cerbelosa superior derecha de mecanismo embólico y de etiología indeterminada. 2.- Hipertensión arterial
+3.- Neoplasia de mama izquierda actualmente libre de enfermedad. 4.- Meningioma de la hoz cerebral frontal derecho.
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Dieta cardiosaludable. Líquidos con espesantes.
+
+Informe d'alta d'hospitalització
+
+
+
+
+Adiro 300mg/24h Enoxaparina 40mg/24h Omeprazol 20mg/24h Enalapril 5mg/24h
+
+CONTROL
+Traslado a _SS_ (habitación _ID_).
+Primera visita con Neurologia (Dra. _NAME_) el dia 09.08.2017 a las 13:45h, para valorar inclusión en estudio NAVIGATE.
+
+DESTINACIÓ A L'ALTA:	HOSP. AGUTS/PSQ
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+27.06.2017
+Pàgina 1 de 4

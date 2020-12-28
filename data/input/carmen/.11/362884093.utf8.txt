@@ -1,0 +1,145 @@
+_LOCATION_
+_LOCATION_) Anul·lació/Reprogramació visites:_CONTACT_
+Telèfon Centraleta: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 65 Anys
+NIF/DNI: _ID__NAME_; _NAME_; _NAME_
+Informe d'alta d'hospitalització
+16:53:03
+21.04.2017
+_LOCATION_
+_SS_ NEUROLOGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
++_CONTACT_; _CONTACT_; _CONTACT_
+DOMICIL/RES.SOC 11.04.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Mujer de 65 años que ingresa por ictus ACM izquierda con oclusión M1-M2 tratado con trombectomía.
+
+ANTECEDENTS
+-No alergias medicamentosas conocidas.
+-Niega hábitos tóxicos.
+-HTA en tratamiento médico. No DM ni DLP conocidas. Obesidad.
+-No cardionpatías conocidas.
+-Hipotiroidismo yatrogénico por bocio multinodular en tratamiento hormonal sustitutivo.
+-Adenocarcinoma endometrio tratado en 2013 con IQx (Histerectomia total simple + doble anexectomia + linfadenectomia pelvica bilateral), en 2014 M1 en cadena iliaca derecha con extension a tejido periganglionar tratada con RT adyuvante. PET TC 2016: sin signos sugestivos de malignidad. Alta voluntaria de ONCRDT _SS_ en 02/2016. Sigue controles en _SS_, sin signos de recidiva. Última visita en Marzo/17 con citología -, solicitan @ de control y marcadores tumorales en 3 meses. Si son normales indicaran seguimiento rutinario.
+-Esteatosis hepática en seguimineto por GAS.
+-Pancreatitis alitiásica en (01/2017) en tto médico. Pendiente de colangio RMN y colecistecotmía, no programadas.
+-Disnea de esfuerzo en seguimiento por NML. PFR (17/02/2017) cierta disfuncón diafragmática, pendiente de ETT y Rx de tórax.
+-Síndrome de insuficiencia venosa en seguimiento en _SS_. Pendiente de intervención (CHIVAS) en EID de manera ambulatoria, no programada.
+-Sociofuncional: vive con hijos. Autónoma para las AVBD. Deambulación autónoma aunque limitada, sale poco a la calle. mRankin 2.
+
+MEDICACIÓ HABITUAL
+EUTIROX 200MCG  1 x 24 h.
+HIDROCLOROTIAZIDA  50MG 1 x 24 h.
+
+
+PROCÉS ACTUAL
+El día 11/04 a las 09.45h es encontrada por familiar sentada en sillón con alteración del lenguaje y posible debilidad brazo derecho por lo que se avisa al SEM a las 10.02h. Vista asintomática por última vez el día previo a las 23 h. A la llegada del SEM, TA 156/79 mmHg, con afasia y hemiparesia extremidades derechas por lo que se activa código ictus a las 10.20h desde domicilio. Se traslada al _SS_. El SEM refiere clínica fluctuante durante el traslado.
+
+A su llegada al _SS_ a las 10.41h, TA 127/105 mmHg, FC 73 lpm, SatO2 99%, DTX 116, INR 0.9. NRL: apertura ocular espontánea, DOC I (2), orientación no valorable por afasia global (2+3), no cumple órdenes (2), HHD por amenaza (2), PFSN D (1), hemiparesia derecha BC 4/5 (1+1) aunque dificil valoración, sensibilidad no valorable por afasia (1), RCPflexor bilateral. NIHSS 15. En la exploración física destacan lesiones en EID secundarias a insuficiencia venosa. Analíticamente Hb 107 g/l, Hto 33%, plaquetas normales, neutrofilia 6.180/L, sin leucocitosis, coagulación normal. ECG en ritmo sinusal con extrasístole supraventricular aislada. Rx tórax poco valorable,
+
+Informe d'alta d'hospitalització
+
+
+
+
+cardiomegalia y ligero pinzamiento de seno costofrénico derecho. Se realiza Tc craneal que objetiva ASPECTS 10. CTASI 8-9 a expenses del territorio de la subdivisión inferior y anterior. Oclusión M1 distal y M2 proximal subdivisión inferior. Missmatch total en territori ACM izq. Destacan varios ictus antiguos en territorio frontera de ambas ACM (frontal derecho, parietal derecho, parietal izquierdo posterior). Al reinterrogatorio la familia refiere episodios previos de alteración del lenguaje por lo que no se ha consultado en urgencias, que podría estar en relación a las lesiones isquémicas antiguas objetivadas en Tc craneal.
+
+Se orienta como ictus de ACM I (TACI) con oclusión ACM izq de etiología desconocida. No se realiza trombolisis por hora de inicio incierta. Dada la ausencia de contraindicaciones se considera que la paciente podría ser candidata a trombectomía mecánica primaria por lo que se activa la guardia de neurovascular decidíéndose tratamiento endovascular. Finaliza el procedimiento a las 13:30 con recanalización completa TICI 3. Exploración al terminar con disminución de la fluencia y bloqueos del lenguaje (obedece ordenes y responde las dos preguntas), borramiento de surco nasogeniano derecho, NIHSS 2.
+
+Ingresa en NRL, incialmente se traslada a REA..
+
+
+EXPLORACIÓ FÍSICA
+
+Estable a nivel hemodinámico con TA146/78mmHg, Fc 77lpm Afebril SatO2 95%
+NRL: consciente y orientada (responde mes y edad). Cumple órdenes, no afasia, no disartria. MOEs conservados, no déficits campimétricos, PPCC conservados. No déficit motor. Sensibilidad conservada. NIHSS 0.
+AC: tonos rítmicos sin soplos audibles ni ruidos sobreañadidos. AR: hipofonesisi basal derecha, sin ruidos sobreañadidos.
+ABD: abdomen globuloso, hernia periumbilical. Blando y depresible, no doloros a la palpación. EEII: abundantes venas varicosas bilaterales. EID impresiona de linfedema.
+
+
+EXPLORACIÓ COMPLEMENTÀRIA
+Exploraciones Complementarias en Urgencias:
+Analítica: Hb 107 g/l, Hto 33%, palquetas normales, neutrofilia 6.180/L, sin leucocitsis, coagulación normal.
+ECG: ritmo sinusal con extrasístole supraventricular aislada.
+Rx tórax:  poco valorable por ser en decúbito. Marco óseo conservado, ICT>0.5, seno costofrénico  derecho ligeramente pinzado, izquierdo no valorable, hilios no engrosados, sin condensaciones ni infliltrados parenquimatosos.
+Tc craneal, AngioTc, perfusión: ASPECTS 10. -CTASI 8-9 a expenses del territori de la subdivisió inferior i anterior. -Oclusió M1 distal i M2 proximal subdivisió inferior. -Missmatch total en territori ACM E. Infarts antics llacunars profunds i limítrofs superficials bilaterals.
+
+Exploraciones Complementarias en Neurología:
+Tc control: Signes d'infart cerebral establert a nivell frontal dret, sense signes de transformació hemorràgica. Infarts antics llacunar profund esquerre i en territoris limítrofs superficials bilaterals. Calcificacions en ganglis basals. Meningioma frontal dret calcificat
+Analítica completa: función renal: urea 9.2mmol/L, creatinina 90umol/L, FG 58 mL/min. Na normal. K 3.48 mmol/L, glucosa Ca, proteína normales. BQ hepática (AST, ALT, FA, GGT) normal. Perfil lipídico: colesterol 5.37mmol/L, LDL 3.66 mmol/L, colesterol excluyendo HDL 4.31 mmol/L, HDL, HDL/colesterol y triglicéridos
+
+Informe d'alta d'hospitalització
+
+
+
+
+normal. Perfil tiroidal (tirotropina y tiroxina) normal. Perfil Hb (HbA1c, glucosa media, cobalaminas y folatos) normal. Proteinograma: alb 53.3%, alfa 1glob 6.6%, alfa 2 glob 13.8%, beta glob 11.8%, gamma glob 14.5%. Estudio de bandas pendiente. Hemograma: serie roja eritrocitos 3.65 x10E12/L, Hb 105g/L, Htc 31.90
+%, resto normal Serie blanca 7.500 leucocitos (N 5400 71.8%, L 820 10.9%). Plaquetas normales. VSG 35mm. Coagulación ( TP, TTPA, fibrinógeno) normal.
+Serologias: VHB IgG +, VHB HbsAg -. VHC +. Treponema pallidum, VIH 1, VIH 2 y antígeno p24 negativos. ETT: Ventrículo izquierdo ligeramente dilatado, no hipertrófico, con función sistólica conservada y sin alteraciones segmentarias de la contractilidad. Ventrículo derecho no dilatado, normocontráctil. Aurícula izquierda dilatada. Raíz aórtica no dilatada. Válvula aórtica trivalva, con velos esclerosados sin estenosis ni regurgitación. Válvula mitral normal. Ligera regurgitación. Regurgitación tricuspídea ligera, que permite estimar una PAPs 37mmhg. Vena cava inferior no dilatada y móvil. Sin derrame pericárdico.
+RMN cerebral: Proceso isquémico multifocal antiguo en territorio frontera anterior y posterior derecho y subagudo en territorio frontera posterior izquierdo. Lesión isquémica subaguda en porción superior del vermis cerebeloso. Lesión isquémica antigua en circunvolución precentral izquierda. Signos de afectación isquémica crónica de la sustancia blanca. Meningioma calcificado en convexidad frontal anterior derecha, ya conocido.
+Holter 24h:pendiente al alta.
+
+
+EVOLUCIÓ CLÍNICA
+Evolución en REA
+A su llegada a REAU, paciente alerta, orientada en la tres esferas, pupilas iscoricas normoreactivas, Glasgow 15, ligera dismetria con MSD, fuerza conservada 5/5 en MS, y MI, limitada la valoracion en extremidad derecha por vendaje compresivo femoral, pero movilizada contra gravedad. No observo asimetria facial, ni deficil de pares altos. AC: ruidos ritmicos, no ausculto soplos AR: MV conservado con sibilantes fluctuantes con la tos. Abdomen blando depresible, con RI presentes, no doloroso. Extremidades: pulsos distales presentes, signos de insuficiencia venosa en MID cronicos. Llenado capilar normal. Edema de MSI, la paciente refiere que esta un poco mas inflamado de lo habitual (secundario a fistula venosa), llenado capilar normal, ligeramente dismunuido comparado con la mano contralateral, pulso radial represente, ligera frialdad distal, niega parestesias, moviliza todos los dedos de la mano.
+Durante su estancia en REAU la paciente se mantiene consciente y orientada en todo momento, con mejoría neurológica hasta desaparición de clínica. EE: No presenta dismetrias. BM 5/5 en extremidades superiores e inferiores. Sensibilidad y trofismo neurovascular distal conservados. ESI: Antebrazo menos tumefacto, no doloroso, perfusión distal conservada. Hemodinámicamente estable sin necesidad de drogas vasoactivas. Hb 10'2 (hto 32%), plaquetas 181000 Coagulación: TTPA 0'83, TP 1'17. Respiratoriamente realiza algún episodio de desaturación basal (ya en estudio por NML) que se corrige con GN 3lx', manteniendo satO2 98-100%.
+Analíticamente: PO2 101, pCO2 40. AR: MVC sin ruidos sobreañadidos. Abdomen/ Metabólico: Peristaltismo presente, blando y depresible sin dolor ni defensa a la palpación. Se progresa dieta con buena tolerancia. No realiza deposiciones. Renal: Diuresis conservada >1ml/kg/h. BH 24h: -2544. BH acumulado: +1544. Creatinina 91, urea 5. Na 137, K 4'2. Afebril, sin tratamiento atb. 8100 leucocitos.
+Se realiza TAC de control a las 24h sin cambios respecto al previo por lo que inicia AAS y HBPM a dosis profilácticas. Alta a Neurología (Unidad de Ictus).
+
+Evolución en Neurología:
+Durante su estancia en la unidad de ictus se mantiene estable. En la monitorización no se detectan arritmias a pesar de 4 días de monitorización con telemtría (1 día REA y 3 Unidad Ictus ). TA bien controladas con su tratamiento habitual.
+
+Informe d'alta d'hospitalització
+
+
+
+
+
+En analítica completa destaca hipercolesterolemia por lo que iniciamos tratamiento con Atorvastatina 40mg/24h y recomendamos seguimiento por MAP. Función renal discretamente alterada con urea 9.2 , creatinina 90 y FG 58 mL/min. Leve anemia e hipoK, y VSG muy ligeramente elevada, que tienen poca significación en el contexto actual. Las serologías resultan positivas para VHB con patrón compatible con infección pasada (anticore IgG positivo con HbsAg negativo) y para VHC (no presente en serologías previas, última 2012).
+
+La RMN cerebral que objetiva proceso isquémico multifocal antiguo en territorio frontera anterior y posterior derecho; y en circunvolución precentral izquierda, además de subagudo en territorio frontera posterior izquierdo y en porción superior del vermis cerebeloso. En ecocardiografía transtorácica destaca aurícula izquierda dilatada (48mm) sin otros hallazgos. Resta pendiente al alta Holter 24h.
+
+Sin incidencias durante la hospitalización.
+
+En el momento actual se encuentra asintomática neurológicamente, NIHSS 0. Tolera dieta oral. Deambula de manera autónoma.
+
+Se orienta como TACI ACM izquierda con oclusión M1-M2. Tratado con trombectomía consiguiendo recanalización completa (TICI 3). En tratamiento de prevención secundaria con AAS 300mg. Dada la presencia de ictus en diferentes territorios (ACM derecha, ACM izquierda y fosa posterior), la ausencia de estenosis y la aurícula izquierda dilatada, hallazgos altamente sugestivos de etiología cardioembólica aunque no se haya objetivado FA durante la monitorización. Consideramos la anticoagulación la mejor opción terapéutica. Se comenta con la paciente que en el momento actual no es partidaria de dicho tratamiento. Ante la ausencia de evidencia clínica y la preferencia de la paciente se decide antiagregar con Clopidogrel 75mg/día.
+
+Dada la estabilidad clínica se decide alta a domicilio a día 21 abril del 2017. Seguriá control con _SS_ NRL (Dr. _NAME_) con Holter 24h de manera ambulatoria. .
+
+DIAGNÒSTICS
+436/5 Ictus ACM izquierda+ TEV de probable etiología cardiomebólica.
+
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Adiro 300mg.
+Resto de tratamiento habitual.
+
+
+CONTROL
+Control por NRL _SS_ (Dr._NAME_). Pendiente de Holter 24horas.
+Control por GyO, GAS y ACV habituales
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+21.04.2017
+Pàgina 1 de 4

@@ -1,0 +1,69 @@
+Pàgina 1/2INFORME D'ASSISTÈNCIA/ALTA
+
+Núm. HC	CIP o pòlissa
+_ID_	_ID_
+Nom i cognoms	Data ingrés
+12/10/2017 12:24	Data alta
+
+Edat	
+
+Sexe
+_NAME_		76	Home
+Adreça		Telèfon	
+_LOCATION_		_CONTACT_	
+Metge/essa responsable	Servei	Habitació	
+_NAME_	Medicina Interna		
+Destinació a l'alta
+Defunció
+
+
+
+Pacient home de 76a que ingressa procedent d'Ucies per AVC hemorràgic.
+
+Antecedents personals:
+-	No AMC.
+-	No hàbits tòxics.
+-	Hiperuricèmia.
+-	FA en tractament amb sintrom.
+
+Tractament actual: sintrom, diltiazem 60 mg al dia, alopurinol 300 mg al dia, tramdol si precisa.
+
+Malaltia actual:
+Mentre anava en bicicleta ha referit sensació d'inestabilitat, cefalea, motiu pel qual s'ha activat ambulància.
+
+Exploració física:
+TA (mmHg) 156:  FC (pul/min) :  Tª (ºC) Afebril :  Sat O2 (%)93 :  EVA (<3 baix, 4-7 mig, >8 alt) : D'entrada afàsia d'expressió. Hemiparèsia esq. Nistagmus horitzontal cap a l'esquerra. Glasgow: 2 +1 +5. AC: Tons cardiacs aritmics a 60 bpm. AR: MVC. Abdomen: Tou i depresible, no dolorós a la palpació. Ext inf. No edemes.
+
+Proves complementàries:
+Analitica: Hb 16.1 VCM 90, leucòcits 6770 (56%N), plaquetes 194000, glucosa 144, cr 1.1, Na 142. k 3.7, INR
+3.22.
+ECG. FA a 55 bpm, no alteracions de la repolaritzacio
+Rx tórax: Cardiomegalia. Aparent infiltrat base esq
+TAC cranial: Hematoma talamo-capuslar dret de 22 mm obert a sistema ventricular amb hemorragia difusa intraventricular i dilatacio hidrocefàlica global. Infart lacunar crònica protuberancial paracentral esq.
+
+Evolució:
+Durant l'estada a Ucies per disminució del nivell de consciència i bradicàrdia fins 35bpm es procedeix a IoT. Es comenta amb Neurocirugià de guàrdia _SS_ que valora les imatges descartant opció d'intervencionisme per les característiques de l'hemorràgia.
+La familia, tant la dona com els dos fills, refereixen que el pacient no volia ser intubat en cas d'emergència i demanen limitació de l'esforç terapèutic. Donat pronòstic infaust, acordem ingrés al nostre centre amb mesures de confort. S'ha administrat vit K i 1 unitat de plasma.
+
+
+
+El pacient ingressa a planta tranquil, en situació de coma per AVC hemorràgic extens obert a ventricles en tractament pal·liatiu i mesures de comfort. El pacient és èxitus avui 13/10/17 a les 11.05h.
+
+
+Orientació diagnòstica: 1.- AVC HEMORRÀGIC.
+2.- FA CRÒNICA. ANTICOAGULACIÓ AMB SINTROM.
+3.- ÈXITUS.
+
+
+
+
+
+
+Atentament,
+
+
+
+Metge/essa: _NAME_ Núm. col·legiat/da: _ID_
+Signatura
+
+D'acord amb la Llei Orgànica de Protecció de Dades, les vostres dades personals seran incorporades a un fitxer informatitzat, el titular del qual és el _SS_ i que té com a finalitat exclusiva disposar de les dades personals dels pacients per a usos medicosanitaris. El ciutadà té dret a exercitar l'accés, la rectificació, l'oposició i la cancel·lació d'aquestes dades personals.

@@ -1,0 +1,95 @@
+T1	_SUG_TAC_craneal 67 70	TAC
+T2	Fecha_de_alta 345 355	31.05.2017
+#2	AnnotatorNotes T2	2017-05-31
+T3	Hora_de_alta 356 361	16:00
+#3	AnnotatorNotes T3	16:00
+T4	Fecha_de_ingreso 413 423	29.05.2017
+#4	AnnotatorNotes T4	2017-05-29
+T5	_SUG_Ataque_isquemico_transitorio 499 504	ictus
+T6	FECHA 743 747	1997
+#6	AnnotatorNotes T6	1997-UNDEF-month-UNDEF-day
+T7	FECHA 961 965	1997
+#7	AnnotatorNotes T7	1997-UNDEF-month-UNDEF-day
+T9	_SUG_Lateralizacion 1215 1224	izquierdo
+T10	FECHA 1253 1258	28/05
+#10	AnnotatorNotes T10	1997-05-28
+T11	_SUG_Ataque_isquemico_transitorio 1348 1353	ictus
+T12	HORA 1360 1365	06:15
+#12	AnnotatorNotes T12	06:15
+T13	Hora_llegada_hospital 1411 1416	07:02
+#13	AnnotatorNotes T13	07:02
+T14	_SUG_Lateralizacion 1501 1510	izquierda
+T15	_SUG_NIHSS 1516 1526	NIHSS de 6
+T16	_SUG_Ataque_isquemico_transitorio 1552 1557	ictus
+T17	HORA 1756 1761	07:18
+#17	AnnotatorNotes T17	07:18
+T18	_SUG_Lateralizacion 1803 1810	derecho
+T20	_SUG_Ataque_isquemico_transitorio 2127 2132	Ictus
+T21	_SUG_Lateralizacion 2390 2399	izquierda
+T22	NIHSS_previa 2493 2520	NIHSS: 00000/14000/00010: 6
+T23	_SUG_Ataque_isquemico_transitorio 2603 2608	ictus
+T24	FECHA 2740 2745	29/05
+#24	AnnotatorNotes T24	1997-05-29
+T25	_SUG_Lateralizacion 3494 3501	derecho
+T28	_SUG_Ictus_isquemico 3626 3654	infarto isquémico hiperagudo
+T29	_SUG_Arteria_afectada 3687 3690	ACM
+T30	_SUG_Lateralizacion 3691 3692	D
+T31	_SUG_Localizacion 3759 3770	subcortical
+T32	_SUG_Lateralizacion 3771 3780	bilateral
+T33	_SUG_Ictus_isquemico 4163 4170	infarto
+T34	_SUG_Lateralizacion 4193 4200	derecho
+T35	_SUG_TAC_craneal 4204 4206	TC
+T36	_SUG_Ictus_isquemico 4244 4251	Infarto
+T37	_SUG_Arteria_afectada 4296 4299	ACM
+T38	_SUG_Lateralizacion 4300 4307	derecha
+T39	_SUG_Ictus_isquemico 4309 4317	Infartos
+T40	_SUG_Lateralizacion 4366 4375	izquierdo
+T41	_SUG_Localizacion 4385 4393	talámico
+T42	_SUG_Lateralizacion 4394 4403	izquierdo
+T43	_SUG_Etiologia 4455 4467	ateromatosis
+T44	_SUG_Lateralizacion 4567 4572	ambas
+T45	_SUG_Arteria_afectada 4670 4685	vertebrobasilar
+T46	_SUG_Lateralizacion 4687 4692	Ambas
+T47	_SUG_Lateralizacion 4769 4777	esquerre
+T48	_SUG_Lateralizacion 5141 5149	esquerra
+T49	_SUG_Ataque_isquemico_transitorio 5280 5285	ictus
+T50	_SUG_TAC_craneal 5394 5396	TC
+T51	_SUG_Arteria_afectada 5474 5490	arteria coroidea
+T52	_SUG_Lateralizacion 5500 5507	derecha
+T53	_SUG_Lateralizacion 5608 5617	izquierdo
+T54	_SUG_Lateralizacion 5642 5651	izquierda
+T55	NIHSS_alta 5884 5911	NIHSS: 00000/14000/00020: 7
+T56	mRankin_alta 5914 5920	mRS: 4
+T58	Ictus_isquemico 5940 5955	Ictus isquémico
+T60	Lateralizacion 5999 6006	derecha
+T61	Etiologia 6020 6033	indeterminada
+T64	FECHA 6355 6365	31.05.2017
+#64	AnnotatorNotes T64	2017-05-31
+T65	SECCION_MOTIVO_DE_INGRESO 477 491	MOTIU D'INGRÉS
+T66	SECCION_ANTECEDENTES 506 517	ANTECEDENTS
+T67	SECCION_ANTECEDENTES_PERSONALES 518 528	PERSONALES
+T68	SECCION_ANTECEDENTES_PATOLOGICOS 627 638	PATOLÓGICOS
+T69	SECCION_TRATAMIENTO_HABITUAL 989 1007	MEDICACIÓ HABITUAL
+T70	SECCION_PROCESO_ACTUAL 1095 1108	PROCÉS ACTUAL
+T71	SECCION_EXPLORACION_FISICA 2216 2233	EXPLORACIÓ FÍSICA
+T72	SECCION_EXPLORACION_FISICA_EN_URGENCIAS 2235 2259	Explroación en urgencias
+T74	SECCION_EXPLORACIONES_COMPLEMENTARIAS 2522 2547	EXPLORACIÓ COMPLEMENTÀRIA
+T75	SECCION_EVOLUCION 5228 5244	EVOLUCIÓ CLÍNICA
+T76	SECCION_DIAGNOSTICOS 5922 5933	DIAGNÒSTICS
+T77	SECCION_TRATAMIENTO_Y_RECOMENDACIONES_AL_ALTA 6057 6092	TRACTAMENT I RECOMANACIONS A L'ALTA
+T78	SECCION_CONTROL 6112 6119	CONTROL
+T79	SECCION_DESTINO_AL_ALTA 6278 6297	DESTINACIÓ A L'ALTA
+T8	Arteria_afectada 5973 5998	arteria coroidea anterior
+T26	mRankin_previa 619 625	mRs: 0
+#1	AnnotatorNotes T26	0
+T27	Hora_inicio_sintomas 1182 1187	06:00
+T57	Fecha_llegada_hospital 413 423	29.05.2017
+T59	Fecha_inicio_sintomas 413 423	29.05.2017
+#5	AnnotatorNotes T22	6
+#8	AnnotatorNotes T55	7
+#9	AnnotatorNotes T56	4
+T62	Trombolisis_intravenosa 1971 1975	rtPA
+T19	Fecha_trombolisis_rtPA 413 423	29.05.2017
+#11	AnnotatorNotes T19	2017-05-29
+#14	AnnotatorNotes T59	2017-05-29
+#15	AnnotatorNotes T57	2017-05-29

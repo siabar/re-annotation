@@ -1,0 +1,129 @@
+_LOCATION_
+Telèfon: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 86 anys
+NIF/DNI: _ID_Informe d'alta d'hospitalització
+CP	_LOCATION_
+ABS	_SS_
+Servei	NEUROLOGIA
+Data d'alta  24.08.2017	16:00:00
+_LOCATION_
+_CONTACT_; _CONTACT_ _NAME_ DOMICIL/RES.SOC
+15.08.2017
+_NAME_
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Código Ictus
+
+ANTECEDENTS
+ALÉRGICA A METAMIZOL (NOLOTIL). Reside con familia. Deambula sin ayuda por el domicilio. No sale a la calle. PDABVD (Precisa ayuda para el aseo). mRS 3. Niegan hábitos tóxicos.
+HTA.  DMID. Hiperuricemia.  ICC. Angor de esfuerzo. Nefropatía  diabética en situación de Insuficiencia  renal crónica en diálisis 3 días a la semana (Lu-Mi-Vi). Fractura de pelvis (03/2017).
+Intervenciones quirúrgicas: Histerectomía y doble ooforectomía. Cataratas.
+
+MEDICACIÓ HABITUAL
+Adiro 100 mg, Atorvastatina 40 mg (0-0-1/2), Omeprazol 20 mg. Losartan 25 mg (0-1/2-0), Zyloric 100 mg (0-1-0),
+Ezetrol 10 (0-0-1), Dulcolaxo (0-0-1), Lorazepam 1 mg (0-0-1), Velphoro 500 mg (0-2-0, excepto los días de diálisis), Insulatard (10 UI por la mañana), Paracetamol (sp), Enantyum (1/12h).
+
+
+PROCÉS ACTUAL
+Mujer de 86 años que a las 10:30 h del día del ingreso sufrió una hemiparesia derecha con disfasia. Se activó el protocolo "Código ictus" y fue valorada por Neurología. Ante la sospecha de Ictus isquémico agudo y la ausencia de contraindicaciones, se infundió el tratamiento fibrinolítico endovenoso (rt-PA). No se consideró el tratamiento de rescate endovascular por la ausencia de evidencia de oclusión vascular en la Angio-TC. La infusión de rt-PA discurrió sin incidencias.
+
+
+EXPLORACIÓ FÍSICA
+
+Consciente, Orientada, Reactiva, Participativa.. Pares craneales explorados dentro de la normalidad. No déficit campimétrico. Hemiparesia derecha braquial 4/5 y crural 5-/5. Hemihipoestesia derecha. Disfasia mixta. NIHSS 3.
+
+
+EXPLORACIÓ COMPLEMENTÀRIA
+1. AS (15/08/2017):
+- BQ:Gluc 293. U 95. Cr 4.58. Na 130.7. K 3.68.
+-Hemograma: Leucos, Hb, VCM, Plaq Normales.
+-	Hemostasia básica: Normal.
+
+2. AS (17/08/2017):
+-	BQ: Gluc 149. U 155. Cr 5.72. Urat 8.4. Ca total 8.24. Col 154. LDL 70. TAG 225. Prots total 5.73. Prealb, FA, GOT Nromales. GPT 1. GGT, Bb total, CK Normales. Na 134.3. K, Mg Normales. PCR 18.7. Cobalmina, Folat,
+-	
+Informe d'alta d'hospitalització
+
+
+
+
+TSH, T4 Normales.
+-	Hemograma: Leucos, VCM y Plaq Normales. Hb 10.8. HbA1c 7.2%.
+-	Hemostasia básica: Normal.
+
+3.	ECG al ingreso: ritmo sinusal a 70 lpm. BAV primer grado con PR 400 mseg. QRS estrecho con eje izdo y QS inferior. QTc normal.
+
+4.	Telemetría: Fibrilación auricular en ocasiones con RV ligeramente rápida (100 lpm), con otras rachas de FA lenta a 40-45 lpm. Pausas máximas de hasta 3.2 segundos (en fibrilación auricular), asintomáticas.
+
+5.	Ecocardiografía: Ventrículo  izquierdo:  no  dilatado  con  ligera  hipertrofia  concéntrica.  Contractilidad  global hiperdinámica (FEVI 75-78%) sin alteraciones de la contractilidad segmentaria. Patrón diastólico mitral restrictivo con E/E'=21. Aurícula izquierda: severamente dilatada (vol. indexado 54 ml/m2). Ventrículo derecho: no dilatado. Normocontráctil (TAPSE 21 mm). Aurícula derecha: ligeramente dilatada (vol. indexado 35 mL/m2). Válvula mitral: calcifcación  anular  postero-lateral. Velos  esclerosados.  Apertura  conservada.  Insuficiencia  mitral  severa  de etiología degenerativa + funcional (jet holosistólico de alta densidad que llega hasta techo de AI). Válvula aórtica: esclerocalcificada. Trivalva. Apertura conservada, gradientes no elevados a su través. Mínima insuficiencia. Raíz aórtica, porción tubular de aorta ascendente y arco (32 mm) de calibre normal. Válvula tricúspide: morfología normal. Apertura normal. Insuficiencia significativa funcional. Gradiente VA de 50-55 mmHg. HTPs severa (PAPs 60-65 mmHg). Válvula pulmonar: morfología normal. TAP 89 mseg. Tronco y ramas  pulmonares: normales. Tabiques: íntegros. Pericardio: no derrame. Cava inferior: dilatada (23 mm) con colapso inspiratorio > 50%. Conclusiones: VI no dilatado con ligera hipertrofia concéntrica. FEVI hipercontráctil y disfunción diastólica con datos de aumento de presiones de llenado. VMi con insuficiencia severa (degenerativa + funcional). VAo trivalva con insuficiencia mínima (degenerativa). Dilatación biauricular: AI severamente y AD ligeramente. VD no dilatado con FEVD conservada. IT significativa que permite estimar HTPs severa.
+
+6.	Rx de tórax: Sin sugerir patología guda. Sin cambios respecto Rx previa de 05/2017.
+
+7.	TC de cráneo + A-TC: Prominentes surcos cerebrales de predominio en la convexidad superior frontal y de cisuras silvianas en relacion a atrofia cerebral de predominio frontotemporal. Discreta hipodensidad en sustancia blanca frontal izq. compatible con foco de hipoxia que podria ser cronico. No lesiones hemorragicas. Al estudio vascular no se observan trombosis ni otras alteraciones vasculares relevantes en TSA y PW. Dilatacion del tronco de la art, pulmonar de 36 mm, a valorar posible HTPulmonar.
+
+8.	TC de cráneo (post-fibrinolisis): Presència de c.e.v. (?). L'estudi comparatiu amb la TC prèvia del 15/08/17 no ha mostrat canvis significatius, excepte un realç cortical parietal esquerre més evident i amb cert desdibuixamnet de solscs de la convexitat. Sense signes de transformació hemorràgica post-rt-PA.
+
+9.	RM de cráneo + Angio-RM sobre el polígono de Willis (23/08/2017): Signos de atrofia cerebral. Lesion focal centrada en circunvolucion postcentral izq., con baja señal en T2*, en relacion a lesion hemorragica. Estructuras de la línea media centradas. No evidencia de procesos expansivos intra ni extra-axiales. Charnela occípito-cervical normal. Irregularidad ateromatosa de la art. basilar y segmentos P1 de la art. cerebral posterior bilateralmente. No se aprecian otras alteraciones vasculares significativas en las secuencias de angio-RM sobre el polígono de Willis. CONCLUSION: Lesion centrada en circunvolucion postcentral izq., compatible con transformacion hemorrágica de infarto isquémico agudo previo.
+3.	
+Informe d'alta d'hospitalització
+
+
+
+
+10.	Estudio Neuronológico: Duplex carotidi fet amb ecògraf portàtil. L'estudi únicament ha mostrat la presència de petites plaques en totes dues bifurcacions.
+
+
+EVOLUCIÓ CLÍNICA
+Paciente que ha permanecido ingresada por ictus isquémico en el territorio de la arteria cerebral media izquierda. La paciente recibió tratamiento fibrinolítico endovenoso con buena evolución posterior. Por lo que respecta a la etiología, cabe reseñar que la monitorización cardíaca ha puesto de manifiesto una fibrilación auricular que conduce a una causa cardioembólica del ictus. La paciente fue valorada por Cardiología por la respuesta ventricular lenta que recomienda evitar tratamientos frenadores como betablequeantes, calcioantagonistas tipoa verapamil-diltiazem, digoxina y amiodarona. Se ha realizado una ecocardiografía durante el ingreso que ha constatado una dilatación severa de la aurícula izquierda, así como una insuficiencia mitral severa (degenerativa y funcional) y una hipertensión pulmonar severa. Las imágenes obtenidas de la RM de cráneo confirman el diagnóstico clínico e identifican una transformación hemorrágica en el lecho de lesión isquémica, probablemente IH-2. Habida cuenta de la etiología, se considera que la paciente debería iniciar tratamiento con anticoagulación oral mediante Acenocumarol (Sintrom). Sin embargo, la transformación hemorrágica y el contexto de riesgo en cuanto a complicaciones hemorrágicas condicionan que se decida un inicio diferido de la anticoagulación oral.
+Desde un punto de vista clínico, durante el ingreso la paciente ha presentado una evolución favorable. En el momento del alta la paciente mantiene un NIHSS de 1 a expensas de una leve disfasia expresiva con algunaparafasia. mRS 3.
+
+DIAGNÒSTICS
+1.	PACI  izquierdo:  Ictus  isquémico  en  el  territorio  de  la  arteria  cerebral  media  izquierda  de  etiología cardioembólica.
+2.	Transformaciónhemorrágica.
+3.	Fibrilación auricular de novo.
+4.	Insuficiencia severa (degenerativa y funcional) de la válvula mitral.
+5.	Hipertensión pulmonar.
+6.	Los previos
+
+PROCEDIMENTS
+87.03 Tomografia axial computada de cap. TAC de cap
+39.95 Hemodiàlisi. Ronyó artificial, diàlisi renal, hemodiafiltració, hemofiltració
+89.08 Altra consulta
+39.95 Hemodiàlisi. Ronyó artificial, diàlisi renal, hemodiafiltració, hemofiltració
+99.29 Injecció o infusió d'altra substància terapèutica o profilàctica
+99.29 Injecció o infusió d'altra substància terapèutica o profilàctica
+88.91 Imatge per ressonància magnètica de cervell i tronc cerebral
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+1.	Dieta sin sal y pobre en grasas de origen animal.
+2.	Iniciar tratamiento con Sintrom según la pauta adjunta.
+3.	SUSPENDER Adiro 100 mg.
+4.	Seguirá tomando el resto de tratamientos domiciliarios tal y como venía realizando previamente.
+1.	
+Informe d'alta d'hospitalització
+
+
+
+CONTROL
+1.	Se ruega un control de los factores de riesgo vascular a través de su Médico de Atención Primaria.
+2.	Será citada para acudir a revisión en las Consultas de Cardiología.
+3.	Acudirá el próximo día 8/09/2017 a las Consultas  de Neurología (14:00h)  en vistas a valorar el inicio de tratamiento anticoagulante (Dr. _NAME_).
+4.	Seguirá controles por Nefrología.
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+24.08.2017
+Pàgina 1 de 4

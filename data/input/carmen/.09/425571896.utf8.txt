@@ -1,0 +1,60 @@
+Pàgina 1/2INFORME D'ASSISTÈNCIA/ALTA
+
+Núm. HC	CIP o pòlissa
+_ID_	_ID_
+Nom i cognoms	Data ingrés
+01/10/2017 13:12	Data alta
+02/10/2017
+Edat	
+
+Sexe
+_NAME_		73	Home
+Adreça		Telèfon	
+_LOCATION_		_CONTACT_	
+Metge/essa responsable	Servei	Habitació	
+_NAME_	Medicina Interna	_ID_	
+Destinació a l'alta
+Domicili
+
+
+
+Pacient de 73 anys, amb intolerancia gàstrica a amoxicilina/clavulànic, no fumador i hàbit enòlic no apreciable Autònom per les activitats de la vida diària.
+
+ANTECEDENTS PATOLÒGICS
+No HTA.
+Dislipèmia sense tractament farmacològic en l´actualitat. Intolerància a estatines per miàlgies. No DM.
+Insuficiencia aòrtica detectada arran de revisió d´empresa.
+Bronquiectàsies detectades arran de hemoptisi l´any 2008 amb alteració ventilatòria no definida de molt lleugera intensitat.
+No segueix medicació de forma habitual.
+
+MALALTIA ACTUAL
+Quadre d´instaturació aguda de perua de visio de l´ull dret de com a molt 5 minuts de durada i amb resolució ad-integrum. El dia previ percepció de parestesies a hemicara esq d´aproximadament 10 hores de durada.
+Nega cefelea o altra simptomatologia.
+
+EXPLORACIO FISICA
+UCIES TA 161/63, FC 63, afebril, sat del 97%. Tons cardiacs ritmics, no bufs. AR. MVC. Exploracio neurològica dins de la normalitat.
+Sala. TA 131/74, FC 61, sat del 97%, afebril. Bon estat general. AC. Tons cardiacs ritmic, no bufs. AR. Sorolls respiratoris conservats. Abdomen. Tou i depresible, no dolorós a la palpació. Ext inf. No edemes
+Exploracio neurològica. No focalitat a nivell de parels cranials,no deficit motor.
+
+EXPLORACIONS COMPLEMENTÀRIES
+ECG: Ritme sinusal a 60 bpm sense alteracions de la repolartizació. Rx de torax. No cardiomegalia. No signes d´insuficiencia cardiaca.
+TAC cranial/AngioTAC _SS_: No lesions agudes intraparenquimatoses. Molt discreta ateromatosi calcificada a nivell de crossa aortica, bifurcacio carotidea dreta i porcio proximal de vertebral dreta, sense evidència d´estenosis significatives i resta de circulacio dins de la normalitat.
+Analitica d´ingrés. Hemograma dins de la normalitat, quick 93%, glucosa 81, TG 120, col 248, cr 0.9, ura 51,  Na 137, k 4, ca 8.5, biologia hepàtica dins de la normalitat, proteines totals 6.3, alb 3.5, proteinograma en curs, LDH 169.
+
+EVOLUCIÓ
+En definitiva es tracta de pacient que presenta accident isquèmic transitori en forma d´amaurosi fugax. Ha restat assimptomàtic durant l´ingrés i d´acord amb Neurologia s´opta per completar estudi a nivell ambulatori.
+
+DIAGNOSTICS
+1.-AIT HEMISFÈRIC ESQUERRE.
+2.- DISLIPÈMIA.
+
+TRACTAMENT
+TROMALYT 300 mg al dia. EZETROL 1 comp al dia.
+
+SEGUIRA CONTROLS A CCEE DE Neurologia, Dra _NAME_ previa i es sol-licita RM cerebral i ecocardiograma. Atentament,
+
+
+Metge/essa: _NAME_ Núm. col·legiat/da: _ID_
+Signatura
+
+D'acord amb la Llei Orgànica de Protecció de Dades, les vostres dades personals seran incorporades a un fitxer informatitzat, el titular del qual és el _SS_ i que té com a finalitat exclusiva disposar de les dades personals dels pacients per a usos medicosanitaris. El ciutadà té dret a exercitar l'accés, la rectificació, l'oposició i la cancel·lació d'aquestes dades personals.

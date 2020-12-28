@@ -1,0 +1,157 @@
+_LOCATION_ Tel. _CONTACT_
+e-mail: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 73 Anys
+NIF/DNI: _ID__NAME_; _NAME_; _NAME_;
+_NAME_; _NAME_;
+Informe d'alta d'hospitalització
+15:54:27
+NEUROLOGIA
+11.04.2017
+_LOCATION_
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_
+DOMICIL/RES.SOC 06.04.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Ictus isquémico de territorio indeterminado derecho
+
+ANTECEDENTS
+Paciente hombre de 73 años, sin alergias medicamentosas conocidas. Ex fumador desde hace 13 años con tabaco acumulado 114 años por paquete/dia. Escala de Rankin 0.
+
+-	No constan factores de riesgo cardiovascular. Algunas cifras elevadas de tensión arterial en 2016, ha realizado pocos controles por Medicina de Familia.
+-	Enfermedad pulmonar  obstructiva  crónica de  tipo  enfisematosa  en  tratamiento  con  broncodilatadores Espirometria septiembre 2016: FEV1/FVC 50,23%.
+-	Episodio de Monoartritis en tobillo izquierdo con análisis inflamatorio del líquido articular en Enero 2011.
+-	Refiere tumor vesical superficial tratado con instilaciones (no informe ni más informe disponibles)
+
+MEDICACIÓ HABITUAL
+Ultibro Breezhale 85/43 mcg 1 inh/24 h, salbutamol a demanda.
+
+PROCÉS ACTUAL
+El 06.04.2017 a las 13:30 presenta de forma brusca, estando en la calle, debilidad en extremidad inferior izquierda que no le permite deambular. Es traído por el SEM que activa código ictus a las 14:10, llegando a las 14:14 a nuestro centro.
+
+EXPLORACIÓ FÍSICA
+
+FC	77 bpm
+Tªaxi 35.8 ºC
+FR	rpm Tªrec  ºC
+TA s	157 mmHg SAT O2 95 %
+TA d   97 mmHg Pes Kg
+
+Exploración neurológica urgente: Consciente y orientado en las tres esferas. Lenguaje normal. Campimetría por confrontación y oculomotricidad normales. Sin asimetría facial. Leve claudicación de extremidad inferior izquierda sin otros déficits motores. Sin trastorno sensitivo. Sin dismetría dedo-nariz, talón-rodilla proporcionada a la paresia. Sin agnosias. Reflejo cutaneoplantar flexor bilateral. NIHSS = (0.0.0)0.0//0(0.0)(0.1)//0.0.0. 0.0 = 1.
+
+Exploración neurológica al alta: consciente y orientado en los tres ejes. No agnosias. Lenguaje normal. No disartria. Mirada centrada; campimetría sin alteraciones; resto de pares craneales normales. Muy leve claudicación de extremidad inferior izquierda en la maniobra de Barré (fuerza en miembros superiores 5/5 global y analítico; en inferior derecho 5/5 global y analitico, inferior izquierdo psoas 4+/5, cuádriceps 4+/5, tibial anterior 4+/5, triceps sural 4+/5, extensor propio del dedo gordo 4+/5. Sensibilidad superficial sin alteraciones,  propiocepción  normal en miembros inferiores. Cierta deshinibición; repetitivo, persistente; liberación de reflejo glabelar, de chupeteo y palmomentiano. NIHSS = 0
+
+Exploración sistémica: Buen estado general. Normocoloredo y normohidratado. Auscultación cardíaca con tonos
+
+Informe d'alta d'hospitalització
+
+
+
+
+regulares sin soplos, auscultación repsiratoria con abundantes roncus y sibilancias dispersas, abdomen blando y depresible, no doloroso a la plapaicón sin masas ni megalias, sin signos de peritonismo, peristaltismo conservado. No edema ni signos de trombosis venosa profunda en extremidades inferiores.
+
+EXPLORACIÓ COMPLEMENTÀRIA
+Analítica Urgencias (06.04.2017):
+Hematologia: Leucocitos 13300 /µL, (N 84,5 % / L 8,9 / M 4,7 / E 1,3 / B 0,6), Htíes 4,65 mill/µL, Hb 14,5 g/dL,
+Hcto 44,3 %, VCM 95,3 fL, Plaquetes 188000 /µL, TP 74 %, INR 1,25 sg, TP ratio 1,25, TTPA 29,7 sg, TTPA ratio
+0,96, Fibrinógeno 430 mg/dL.
+Bioquimica: Glucosa 93 mg/dL, Urea 23, Cr 0,87, Na 140 mmol/L, K 3,7, PCR 6 mg/L.
+
+TC craneal Urgencias (06.04.2017): Infartos lacunares crónicos de ganglio-basales bilaterales. Leucoaraiosis. Atrofia difusa. Sinupatia esfenoidal y maxilar y etmoidal izquierdas.
+
+TC craneal (control de 24h): No se observan lesiones isquémicas ni hemorrágicas agudas. Sinupatia maxilar izquierda, etmoidal anterior izquierda y esfenoidal. Infartos isquémicos lacunares crónicos de ganglios basales bilaterales. Hipoatenuació de sustancia blanca periventricular y subcortical bilateral simétrica y difusa compatible con desmielinización de características inespecíficas de probable causa isquémica crónica. Aumento de tamaño de los espacios subaracnoideos y del sistema ventricular de forma proporcionada compatible con atrofia cerebral difusa. Cisternas basales y perimesencefàlicas libres. Línea media centrada. Sin otras alteraciones parenquimatosas ni extraxiales TC valorables.
+
+Analítica ingreso 07.04.17:
+Hematologia (07/04/17): Leucocitos 9800 /µL, (N 75,6 % / L 14,1 / M 6,8 / E 2,7 / B 0,8), Htíes 4,37 mill/µL, Hb 14
+g/dL, Hcto 41,5 %, VCM 94,9 fL, Plaquetes 185000 /µL, TP 75 %, INR 1,23 sg, TP ratio 1,23, TTPA 34,6 sg, TTPA
+ratio 1,12, Fibrinógeno 401 mg/dL.
+Bioquimica (07/04/17): Glucosa 93 mg/dL, HBA1c 5,2 %, Urea 21 mg/dL, Creatinina 0,98, (Filtrado glomerular estimado 76 mL/min/1.73 m2), Uratos 7,6 mg/dL, Ca 8,7, Na 143 mmol/L, K 3,74, ALT 7 U/L, GGT 19, FA 83,
+Bilirrubina 1,27 mg/dL, CK 118 U/L, Prot-C reactiva 19 mg/L. Lípidos.- Trigliceridos 124 mg/dL, Colesterol 193,
+(HDL 43,3 / LDL 125). Proteínas 66,2 g/L, Albumina 36,6.
+Hormonas (07/04/17): TSH 1,91 µUI/mL.
+Marcadores Tumorales (07/04/17): a-FP 2,36 ng/ml, PSA 5,99 (libre 1.52; ratio libre/total 0.25), CA-19-9 24,4 U/ml, SCC 1,6 ng/ml.
+
+Electrocardiograma 07.04.17: ritmo sinusal a 80 x', eje 30, PR constante 0.16, QRS estrecho sin alteraciones agudas en la repolarización.
+
+Monitorización electrocardiográfica durante 48 horas: no se aprecian arritmias potencialmente embolígenas.
+
+Radiografía de tórax 07.04.17: Se visualiza opacidad proyectada sobre el margen anterior del 2º arco costal derecho, que podria corresponder a imagen de composición/ nódulo, se recomienda Rx de control. Se visualiza dudoso infiltrado nodulillar en base del hemitórax derecho, se recomienda Rx de control. Se observa atelectasia laminar en campo medio de hemitórax derecho.
+
+Estudio Neurosonológico 07.04.17:
+Duplex Trans-Craneal: Sifones carotídeos, arterias cerebrales medias, anteriores y posteriores sin alteraciones de flujo. Arterias vertebrales permeables sin estenosis; basilar insonada hasta 96mm de profundidad con flujo
+
+Informe d'alta d'hospitalització
+
+
+
+
+normal.
+Duplex de Troncos Supra-Aórticos: Carótidas comunes, internas y externas permeables y sin estenosis significativas. Grosor íntima-media aumentado. Pequeña placa de ateroma en bifurcación carotídea derecha, sin estenosis. Vertebrales ortodrómicas y permeables, sin estenosis hasta el ostium; vertebral izquierda dominante.
+
+ETT 10.04.17: Ventrículo izquierdo no dilatado y ligeramente hipertrófico con tabique basal de morfología sigmoidea. Función sistólica global conservada. Sin valvulopatías significativas. Alteración diastólica tipo I.
+
+Resonancia magnética con angiografía intracraneal 11.04.17: Estructuras de la línea media centradas. Sistema ventricular de morfología y tamaño normal para la edad del paciente y acordes al grado de prominencia de los espacios subaracnoideos de la convexidad. Leucoaraiosis ampliamente confluente de predominio en sustancia blanca periventricular posterior. Pequeña lesión con restricción positiva e hiperseñal FLAIR localizada en corona radiata derecha. La secuencia T2* muestra múltiples lesiones de tamaño milimétrico / puntiformecompatibles con microsangrados crónicos en localización corticosubcortical frontal y temporal bilateral, parietal derecho, hemisferio cerebeloso derecho y sustancia blanca profunda parietal izquierda. Pequeña imagen redondeada en el margen lateral y posterior de la hemiprotuberancia derecha con señal de resonancia paralela al LCR sugestivo de espacio perivasculardilatado. Espacios perivasculares dilatados en región capsuloganglionar bilateral con alguna imagen puntiforme que se acompaña de alteración de señal marginal FLAIR y no permite descartar infarto lacunar crónico concomitante. Cisternas basales y peritronculares libres. Charnela occipitocervical sin anomalías valorables. El estudio angiográfico muestra hipoplasia del segmento A1 derecho con comunicante anterior permeable y origen fetal de ACP derecha. Ligera irregularidad mural del segmento distal de M1 de ACM izquierda en relación con ateromatosis intracraneal. Conclusión: Pequeña lesión isquémica aguda establecida en corona radiata derecha. Múltiples microsangrados crónicos supra e infratentoriales con distribución preferentementesuperficial. Leucoaraiosis ampliamente confluente. Espacios perivasculares dilatados en región capsuloganglionar bilateral con algún posible infarto lacunar crónico puntiforme sobreañadido. Ligera ateromatosis intracraneal en segmento distal de M1 de ACM izquierda sin evidencia de estenosis significativas.
+
+EVOLUCIÓ CLÍNICA
+Hombre de 73 años con antecedentes de ex-tabaquismo importante, enfermedad pulmonar obstructiva crónica en controles por neumólogo de zona en tratamiento con broncodilatadores sin exacerbaciones, sin constar otras patologías o factores de riesgo cardiovascular, que es traído a nuestro centro vía código ictus el 06.04.17 por debilidad crural izquierda de menos de una hora de evolución.
+
+A su llegada está hipertenso, requiriendo bolus de 10mg de labetalol, en la exploración neurológica solo se objetiva claudicación de extremidad inferior izquierda (NIHSS 1), un electrocardiograma muestra ritmo sinusal y una analítica leucocitosis leve y neutrofilia; un TC craneal no muestra lesiones isquémicas ni hemorrágicas agudas, por lo que se orienta como ictus isquémico agudo de territorio ACA o lacunar profundo y se decide administrar rtPA, precisando nuevo bolus de labetalol por hipertensión, que se logra ccontrolar entonces. Se inicia bolus a las 14:54 (TA prebolus 158/99 mmHg, dosis total 88,5 mg). En la exploración inmediatamente posterior no se objetiva mejoría. Se decide ingreso en UIA para continuar estudio, tratamiento y evolución.
+
+Informe d'alta d'hospitalització
+
+
+
+
+
+Durante su ingreso el paciente se mantiene ccon hipertensión leve a pesar de tratamiento con enalapril 5mg, con el resto de constantes vitales y glicemias normales sin necesidad de tratamiento farmacológico. La analítica de ingreso no muestra alteración excepto leve aumento de PSA y de SCC, y perfil lipídico mínimante desfavorable, por lo que se inicia atorvastatina 40mg cada 24 horas; una placa de tórax muestra un dudoso infiltrado nodulillar en base del hemitórax derecho, por el que radiología recomienda prueba de imagen de control a posteriori; un estudio neurosonológico reglado muestra leve ateromatosis sin alteración de flujo; el ecocardiograma tanstorácico no muestra alteraciones significativas y la monitorización electrocardiográfica contínua durante 48 horas no muestra arrímitas.
+
+A nivel neurológico, se realiza un TC de control a las 24 horas posteriores al rTPA que no muestra evidencia de hemorragias ni lesiones establecidas, por lo que se inicia enoxaparina 40mg, AAS 300mg; al examen neurológico presenta una paresia aislada del miembro inferior izquierdo proporcionada (global 4+), a pesar de la cual logra deambulación, ponerse de pie, subir y bajar escaleras (al menos dos pisos) sin ayuda alguna, presentando una mínima inestabilidad (no percibida por el paciente). Tolera dieta oral sin disfagia y se encuentra animado, sin clínica cortical. La RMN realizada a los cinco días de evolución muestra una pequeña lesión isquémica en corona radiata derecha, posiblemente territorio lenticuloestriado, e importante leucoaraiosis, y ateromatosis leve de ACM izquqierda.
+
+Debido a la estabilidad clínica, se decide el alta a domicilio. Al alta: mRS = 3; NIHSS = 0; Barthel = 100.
+DIAGNÒSTICS
+-	Ictus isquémico agudo tipo LACI tras estudio completo.
+-	Ateromatosis intracraneal leve asintomática de ACM izquierda.
+-	Hipertensión arterial esencial.
+-	Hipercolesterolemia leve.
+-	Dudoso infiltrado nodulillar en base del hemitórax derecho.
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+-	Actividad diaria "normal" para el paciente.
+-	Dieta mediterránea baja en sal, grasas y azúcares.
+-	Ejercicio físico aeróbico moderado diario, al menos 30 minutos.
+-	Enalapril 10mg cada 24 horas (por la mañana)
+-	Atorvastatina 40mg cada 24 horas. Si tras 15 o 30 días no presenta efectos adveros, aumentar a 80mg cada 24 horas.
+-	"Adiro" 300mg cada 24 horas vía oral.
+-	Budesonida 200mcg: dos inhalaciones cada 12 horas.
+-	"Breezhaler" 2 inhalaciones cada 24 horas.
+
+-	Toma de tensión arterial al menos tres veces al día en su domicilio, después de estar al menos cinco minutos sentado, en un ambiente tranquilo. Anotar resultados para llevarlos  a su Médico de Familia para ajuste de medicación hipotensora.
+-	
+Informe d'alta d'hospitalització
+
+
+
+CONTROL
+-	Solicitar en su Ambulatorio un control con su neurólogo de zona.
+-	Control de sus factores de riesgo cardiovascular con su Médico de Familia.
+-	Control de dudoso infiltrado en hemitorax derecho con imagen de control, a valorar según criterio de Médico de Familia.
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+11.04.2017
+Pàgina 1 de 5

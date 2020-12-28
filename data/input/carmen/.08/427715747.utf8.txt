@@ -1,0 +1,109 @@
+_LOCATION_ Tel. _CONTACT_
+e-mail: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 87 Anys
+NIF/DNI: _ID__NAME_; _NAME_
+Informe d'epicrisi
+CP	_LOCATION_
+ABS	_SS_
+Servei	NEUROLOGIA
+Data d'alta  07.10.2017	23:59:00
+DOMICIL/RES.SOC
+07.10.2017
+_LOCATION_
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Alteración del lenguaje y desviación de comisura bucal
+
+ANTECEDENTS
+Mujer de 87 años. Sin alkergias medicamentosas conocidas. Sin hábitos tóxicos. Situación funcional: independiente para las actividades diarias de la vida mRS 0
+
+Antecedentes patológicos:
+-	Hipertensión arteria en tratamiento
+-	Neumonía adquirida en la comunidad en septiembre de 2017 que siguió tratamiento con amoxicilina-clavulánico
+-	Osteoporosis y artrosis
+
+MEDICACIÓ HABITUAL
+Enalapril/Hidroclorotiazida 20/12.5mg/24h, Amlodipino 5mg/24h, Calcium Sandoz D 1000/800/24h
+
+PROCÉS ACTUAL
+El dia 7/10 es vista por última vez asintomática a las 14:45h, y a las 17:30h la encuentran en el domicilio con desviación de comisura bucal, alteración del lenguaje y debilidad de extremidades derechas por lo que avisan al SEM que activa el código ictus a las 18:10h. Llega a nuestro centro a las 18:18h.
+
+EXPLORACIÓ FÍSICA
+
+FC	120 bpm
+Tªaxi 36.0 ºC
+FR	rpm Tªrec  ºC
+TA s	153 mmHg SAT O2 96 %
+TA d   80 mmHg Pes Kg
+
+Glicemia capilar:
+
+Exploración neurológica: paciente vigil, desivación oculocefálica forzada a la izquierda que cruza linea media, hemianopsia homónima derecha, con extinción visual, anosognosia, no afasia, comprende órdenes, nomina correctamente ocasionalmente con lenguaje repetitivo, repite perfectamente, evocación categorial preservada, disartria moderada inteligible, paresia facial central derecha con componente superior, no altreraciones del resto de pares craneales. Debilidad muy leve braquial derecha, no crural. Extinción sensitiva de extremidades derechas. No dismetrías. RCP flexor bilateral.
+
+NIHSS (0.0.0)1.2.3(1.0)(0.0)0.1.0.2.2 =12//
+
+Posteriormente al TC mejoría espontanea de la debilidad braquial y de la extinción sensitiva: NIHSS (0.0.0)1.2.3(0.0)(0.0)0.1.0.2.1 =10//
+Post rtpa:  NIHSS: (0.0.0)0.2/2(0.0)(0.0)0.1.0.1.2 =8//
+
+Informe d'epicrisi
+
+
+
+
+EXPLORACIÓ COMPLEMENTÀRIA
+Analítica urgente:
+San-Hematies, c 3.72 x10^12/L 3.80 - 5.10 *
+San-Hemoglobina, g 10.6 g/dL 12.0 - 16.0 *
+San-Hematòcrit, h 32.6 % 37.0 - 47.0 *
+San-Volum Corpuscular Mig, b 87.4 fL 80.0 - 95.0
+San-Hemoglobina Corp. mitja, m 28.5 pg 27.0 - 32.0
+San-Conc. _SS_ Corpuscular mitja, g 32.6 g/dl 30.0 - 35.0 San-Ample Distribució Eritrocits, 14.1 % 10.0 - 15.0
+San-Plaquetes, c 434 x10^9/L 150 - 400 *
+San-Volum Plaquetari Mig, b 9.1 fL 7.2 - 11.1 San- Plaquetocrit, h 0.4 %
+San-Ample Distribució Plaquetar, h 16.5 % San-Neutròfils Segmentats, f 87 %
+Comentaris frotis sang perifèrica:
+Frotis validat per: _NAME_
+Pla-Temps de Protrombina,(s)tr. 13.2 seg. 7.5 - 13.5
+Pla-Temps de Protrombina,(%)tr. 76 % 75 - 130
+Pla-Temps de Protrombina (ratio). 1.22 ratio 0.7 - 1.29 Pla-Temps de Protrombina (INR) 1.22
+Pla-Fibrinogen; c arb 776 mg/dL 150 - 450 * 7.8 g/L 1.5 - 4.5 * Página 1/2
+Pla-TTPA.(seg) 27.9 seg 21 - 40
+Pla-TTPA.(ratio), tr 0.9 ratio 0.7 - 1.29
+Pla-Glucosa; c. subst. 133 mg/dL 68 - 100 * 7.4 mmol/L 3.8 - 5.6 *
+Pla-Urea; c. subst. 65.4 mg/dL 17.0 - 43.0 * 10.9 mmol/L 2.8 - 7.1 *
+Pla-Creatinini; c. subst. 0.79 mg/dL 0.55 - 1.02 69.8 ?mol/L 48.6 - 90.2 Pla-Ió Sodi; c. subst. 135.9 mmol/L 136.0 - 146.0 *
+Pla-Ió Potassi; c. subst. 5.0 mmol/L 3.4 - 4.5 *
+Pla-Proteïna C reactiva; c. massa. 90.60 mg/L 0.00 - 5.00 **
+
+ECG: fibrilación auricular rápida a FC de 130-140lpm, sin alteraciones agudas de la repolarización, QRS estrecho.
+
+TC craneal urgente y angioTC craneal: No se observan signos hemorrágicos intra ni extraaxiales. Borramiento de ínsula izquierda en relación a signos de isquemia hiperaguda en territorio profundo y superficial de ACM I. Resto de territorio de ACMI izquierda con correcta diferenciación corticosubcortical. ASPECTS 8. Infartos isquémicos lacunares crónicos en ambas cápsulas externas. Leve hipoatenuación de la sustancia blanca periventricular y subcortical bilateral simétrica y difusa compatible con desmielinización de características inespecíficas de probable causa isquémica crónica. Prominencia de surcos de la convexidad infra y supratentoriales de forma proporcionada al tamaño del sistema ventricular congruente con la edad del paciente. Cisternas basales y perimesencefálicas libres. Línea media centrada. No se aprecian alteraciones óseas TC valorables ANGIOTC TSA E INTRACRANEAL: Ateromatosis calcificada en cayado aórtico, ambos bifurcaciones carotídeas y sifones carotídeos, sin observar estenosis significativas. Trifurcación de ACM izquierda. Defecto de repleción parcial proximal en rama superior (M2) de ACM I con correcta
+
+Informe d'epicrisi
+
+
+
+EVOLUCIÓ CLÍNICA
+Mujer de 87 años, con antcedentes de hipertensión arterial e independiente para las actividades básicas de la vida diaria que es trasladada como código ictus por el SEM por clínica de 4h de evolución desde la última vez vista asintomática, de alteración del habla y debilidad de las extremidades derechas.
+A su llegada se encuentra hemodinámicamente estable, con fibrilación auricular en el ECG, y en la exploración presenta clínica completa hemisférica izquierda con alteración campimétrica, sin alteración del lenguaje, con disartria marcada, leve alteración de la fuerza de extremidad superior derecha y extinción sensitiva y anosognosia, puntuando NIHSS de 12. Se realiza analítica general que muestra leucocitosis, anemia microcítica y elevación de reactantes de fase aguda (diagnosticada recientemente de pneumonía aquirida en la comunidad). Se realiza TC craneal que muestra signos incipientes de isquemia en ínsula y cortex frontal izquierdo (ASPECTS 8), e hiperdensidad en ramas proximales de M2. El angioTC muestra defecto de replección sin reperfusión en 1 de las tres ramas de M2 (insular), mientras que en las otras dos ramas se observa un defecto de replección sin con correcta permeabilidad distal.
+Tras la realizacón del TC craneal, la paciente presenta mejoría clínica espontanea a expensas del déficit motor y la extinción sensitiva puntuando NIHSS de 10.
+Dado que no existe contraindicación, y tras explicar a los familiares los beneficios y posibles riesgos del tratamiento, se firma el consentimieto informado para administración de trombolisis intravenosa por encima de los 80 años. Se inicia el bolus a las 18:58h, con 4h y 15 minutos desde la última vez vista asintomática (tiempo puerta-aguja 40 minutos; el retraso es debido a dificultad para obtener acceso venoso y no disponer de camas en semicriticos por lo que se administra el rtpa en unidad de ictus). Durante la admisnitración del tratamiento la paciente presenta fibrilación auricular rápida hasta 140lpm, requiriendo administración de 0.37mg de digoxina con mejoría de la frecuencia ventricular. Tras finalizar el tratamiento la paciente presenta leve mejoría clínica con menor debilidad facial, corrección de la desviación oculocefálica, persistiendo la alteración campimétrica derecha, extinción sensitiva y leve debilidad fluctuante del brazo derecho. NIHSS: (0.0.0)0.2/2(0.0)(0.0)0.1.0.1.2 =8.
+Se decide ingreso en la unidad de ictus para completar el tratamiento, y el estudio etiológico del ictus. Durant la tarde la paciente se ha mantenido clínicamente estable, sin cambios hemodinámicos ni en las evaluaciones neurológicas por parte del equipo de enfermería.
+Vista por última vez en su situación basal a las 23:00h, a las 23:10h enfermeria detecta alteración del ritmo cardiaco con parada cardiorespiratoria, y clínicamente disminución del nivel de conciencia, activando busca de paros e iniciando maniobras de reanimación cardiopulmonar. A la evaluación ECG tras las primeras maniobras se detecta RS con QRS estrecho no aberrante, con ausencia de pulso central, sugestivo de disociación electromecánica. Se inician maniobras de reanimación avanzadas sin conseguir recuperar el pulso. Finalmente, tras 35 minutos de maniobras, la paciente presenta es éxitus a las 23:45h.
+
+DIAGNÒSTICS
+427.5/3 Aturada cardiorespiratoria 436/5 Ictus
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+08.10.2017
+Pàgina 1 de 3

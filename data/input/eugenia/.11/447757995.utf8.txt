@@ -1,0 +1,95 @@
+1/ 3
+
+Cognoms:	_NAME_	Adreça:	_LOCATION_	
+Nom:
+Edat: 61	_NAME_
+Sexe:M	
+CIP:	_LOCATION_
+_ID_	
+NIF:	
+_ID_
+Data naixement:   _DATE_	NHC:	_ID_	NASS:    _ID_
+Telèfon / Mòbil:	_CONTACT_ / _CONTACT_
+
+INFORME  D'ASSISTÈNCIA
+Metge/essa:	_NAME_,
+_NAME_
+
+Servei:	Neurologia
+Data ingrés:	22/11/ 2017	Data Alta: 29/11/ 17
+S'informa a:	Metge de família	Núm.  llit: _ID_
+
+
+
+DIAGNÒSTICS:
+1.	Episodi de  somnolència i disartria autolimitat de etiologia indeterminada
+2.	Fibrilació auricular paroxísitca
+3.	Hipertensió  arterial
+4.	Diabetes Mellitus tipus 2
+5.	Síndrome  despressíu
+6.	Ex consum de enol
+
+PROCEDIMENTS:
+1.   RM cerebral, Holter 24h, Ecocardiograma transtoràcic
+
+
+
+Pacient  sense  al·lèrgies  medicamentoses  conegudes  i  ex-enòlica  que ingressa a  planta  de  Neurologia  per sospita de AVC de fosa posterior.
+
+ANTECEDENTS  PATOLÒGICS:
+-	Hipertensió arterial
+-	Diabetis mellitus en tractament amb medicació oral i insulina.
+-	Síndrome depressiu de llarga evolució, controls amb Dra _NAME_. Trastorn de personalitat cluster B.
+-	Antecedents d'enolisme actualment sense consum i en tractament farmacològic. Havi a presentat hipotensió en context del tractament en context amb antabus.
+-	Consta diagnòstic de fibromiàlgia.
+-	FA que va requerir cardioversió elèctrica al setembre del 2015 (no resposta a amiodarona).
+-	Ingressada a neurologia al gener del 2016 per episodi de disminució  de  la  consciència  d'etiologia  no aclarida. Es va realitzar EEG que va resultar normal i RNM cranial i holter amb resultats normals. Es va orientar com a síncope vs crisis comicial.
+-	Intervencions  quirúrgiques.
+-	Fractura a espatlla esquerre i protesi de genoll esquerre.
+-	Amigdalectomia, colecistectomia, by-pass gàstric, faquectomia, by-pass femoropopliti.
+
+Tractame nt habit ual: fluoxetina, quetiapina, colme, plavix, enalapril/HCTZ, lansoprazol, lamotrigina, lantus, ebastel, diazepam, ebastel, elontril.
+
+Situació social i funcio nal: casada, viu amb el marit, té 1 fill i 2 nets, autònoma sense deteriorament cognitiu, cuida de la neta. MRS 0.
+
+MALALTIA  ACTUAL:
+Portava un quadre de 3 setmanes d'astènia, i un quadre catarral que havia consultat a MAP i li havi en dit que tenia "inflamada" la orella dreta. Refereix tos i expectoració no purulenta.
+El dimarts la pacient refereix aixecar-se bé, va cuidar de la neta com cuida habitualment, i refereix trobar-se estranya. Quan arriba el marit cap a la 13. 00 la nota amb dificultat de la parla i refereix mareig, queda al sofà adormida i posteriorment quan intenten despertar-la tenen molta dificultat i observen trastorn de la parla i somnolència així com impossibilitat per la marxa autònoma. Es portada a urgències.
+
+EXPLORACIÓ  FÍSICA:
+A urgè ncies: PA 101/69 , FC 102x' , SO2 94%
+PELL I MUCOSES: sequedat mucocutània. NRL: conscient desorientada bradipsíquica, respon a ordres senzilles, llenguatge pobre, flapping, dismetries, força i sensibilitat conservada , lleugera retropulsió - la pacient es deixa caure ? - ROT's presents i simètrics, no signes meningis. ORL: matides timpànica amb mucositat retroauricular. RESP: MVC no sorolls afegits. COR: TCR no buf. ABDOMEN: tou depressible, no algies no megalies no signes d'irritació peritoneal.
+21.11. 2017: TA 110/60, afebril, r sinusal. Disminució de resposta a estímuls, c apaç d' obrir els ulls a la ordre i mobilitzar EE simètricament, PICNR, no alt ppcc ni campimètriques aparents, RCP flexor bilateral, llenguatge disàrtric escàs i inintel·ligible.
+
+A planta de NRL:
+TA 131/79 FC 79 x', afebril.
+Conscient i orientada, nomina i compren, no trastorn MOE ni campimetria per confrontació, no alteracions de la resta de parells cranials, força i sensibilitat conservades, marxa amb lleu augment de la base de sustentació però autònoma. NIHSS=0
+RESP: MVC. COR: FR sense bufs.
+
+Al alta: Concient i orientada, llenguatge normal, no disartria. Oculomotricitat i campimetria normals. No afectació de parells cranials. Força i sensibilitat normal. Marxa normal. NIHSS 0
+
+EXPLORACIONS  COMPLEMENTÀRIES:
+TA C crani u rg ències: Estructures de la l ínia mitja no desplaçades. Cisternes perimesencefàliques i de la base no obliterades. Sistema ventricular no dilatat. No hi ha imatges de sagnat. Engruiximent de la mucosa del sins maxil·lars i cèl·lules etmoïdals en relació a sinusopatia. Ocupació parcial de cel·les mastoïdals dretes i ocupació de l'oïda mitja dreta. Ateromatosis càlcica de sifons carotidis.
+Analítica: sense alteracions destacables excepte fostatasa alcalina elevada. Coleseterol,  vitB12, acid fòlic normals.
+ECG: ritme sinusal a 80 bpm sense alteracions agudes de la repolarització.
+Rx tòrax: sense alteracions.
+Dop ple r TSA i transcrani al: Ateromatosi bicarotídea lleu sense altres alteracions significatives.
+RM cere bral: No lesions isquèmiques cerebrals ni hemorràgiques. Atrofia cerebral difusa. Leucaraiosis.  Holte r 24 h: Ritme Sinusal. FC entre 62 i 109 bpm amb una FC mitja de 79 bpm. ESVs ocasional. EVs tambe ocasional amb un RUN de 4 complexos a 134 bpm irregular amb el QRS ample i el iex similiar al QRS   basal, compatible amb FA.
+Ecocardio grama tra nstoràcic: VI no dilatada amb HVI concèntrica lleugera. Bona contractilitat global sense alteracions segmentaries. AI mínimament dilatada. IM lleugera.
+
+EVOLUCIÓ:
+Inicialment s'acti va codi ictus a dia 21. 11.17 a les 16.00 hores, posterior avis del SEM 15.30 hores. Clínica iniciada sobre les 13.00 hores, valoració a urgències 16.10 hores. Es desactiva codi ictus per baixa sospita diagnòstica i cronologia incerta. La pacient inicialment estava molt somnolenta, hi ha dubtes que pugui haver realitzat ingesta medicamentosa que posteriorment es descarta. A l'endemà la pac ient recupera el nivell de consciència i es troba vigil, parcialment orientada en temps, col·laboradora, disàrtrica amb tremolor d'ambdues extremitats superiors d'actitud i atàxia franca de tronc, no pot mantenir la sedestació.
+
+Es realitza dins l'estudi etiològic, analítica amb vit amines normals, i perfil lipídic normal. Bon control tensional i de glicèmies. La RM cerebral no mostra lesions agudes i el doppler de tSA i transcranial mostra només lleu ateromatosis extracranial sense estenosis ni oclusions significati ves. L'ecocardiograma no mostra lesions estructurals i el HOlter està en Ritme sinusal però presenta un RUN de fibrilació auricular. Amb totes les proves es descarta que la clínica hagi sigut per una lesió isquèmica i per la fibrilació auricular paroxísitica iniciem anticoagulants d'acció directe, per la dificultat per el control ambulatori i el risc d'interaccions farmacològiques.
+
+La pacient presenta bona evolució durant l'ingrés, quedant completament assimptomàtica. Pot ralitzar tot tipus d'acti vitat sense risc. Es decideix alta a domicili i seguiment ambulatori.
+
+TRACTAMENT:
+Stop plavix
+Apixaban 5 mg 1 comprimit cada 12h REste de medicació igual.
+CONTROL:
+
+Pel seu metge de capçalera i especialistes habituals
+Control amb analítica i funció renal en 2 setmanes a programar ambulatoriament.
+
+Signat per _NAME_ núm.col: _ID_ Data/Hora:29-11-2017 12:15

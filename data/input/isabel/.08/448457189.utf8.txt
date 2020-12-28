@@ -1,0 +1,126 @@
+
+INFORME DE ALTA
+Medicina Interna. Unidad de neurología. Unidad de Ictus.
+
+
+
+Paciente: _NAME_
+
+
+Número de historia clínica: _ID_
+
+
+Fecha de nacimiento y sexo: _DATE_ HOME	Edad: 71 Régimen económico:  CatSalut-Propi CIP: _ID_	ABS/CAP:		Médico de cabecera: Dirección: _LOCATION_  Teléfono: _CONTACT_
+Fecha ingreso hospitalización: 29/11/2017	Fecha alta hospitalización: 1/12/2017
+
+
+
+Paciente que consulta por debilidad del brazo derecho y alteración del lenguaje.
+
+Historial médico
+
+
+
+Alergias: NO      Hábitos tóxicos: No   Estado basal:  Autónomo e independiente para ABVD. msR 0
+Medicación habitual: No precisa
+
+Antecedentes patológicos:
+o	Madre, y dos hermanos con mutación del Factor V de Leiden, desconocemos si estado de portador en más miembros de la familia.
+o	Hernia hiato que puntualmente trata con antiácidos.
+o	Niega otras enfermedades o factores de riesgo aparentes
+
+Enfermedad actual
+
+
+El pasado día 29/11 sobre las 5:00h se despierta con alteración en la evocación del lenguaje, hipoestesia derecha y alteración del reconocimiento del brazo derecho. Contactan con el SEM y acuden a urgencias llegando a las 6:07 am. Se activa el código ictus y tras comentar el caso con Teleictus se desestima la trombolisis por déficit minor con una NIHSS de 3.
+
+Exploración física
+
+
+Constantes. T.arterial:  142/71 . Pulso: 53 x'. Afebril Exploración por aparatos:
+AC: tonos rítmicos. Sin soplos audibles AR: MVC sin ruidos añadidos.
+Abd: Blando y depresible no doloroso a la palpación.
+Exploración neurológica:
+Vigil. Alerta. Lenguaje normal. No anosognosia ni asomatognosia. Extinción sensitiva derecha. No parálisis facial. Fuerza normal. Hipoestesia derecha. No dismetrias. Marcha normal. RMP 2/5 simetricos. RCP flexor bilateral.
+Test de disfagia: Superado NIHSS (ingreso):	3
+
+Pruebas complementarias realizadas
+
+
+o   Analítica (ingreso): Glucosa sèrum 150 mg/dL (75 - 115). Urea sèrum 60 mg/dL (10 - 50) Creatinina sèrum
+1.03 mg/dL (0.60 - 1.20) Sodi 143 mmol/L (135 - 146) Potassi 3.6 mmol/L (3.5 - 5.1) Clor 108 mmol/L (98 - 111)
+EAB / GASOMETRIA VENOSA pH 7.37 (7.31 - 7.41) pCO2 38 mmHg (42 - 55) Bicarbonat real (HCO3) 22 mmol/L
+(22 - 28) Excés de base (BE) -3.2 mmol/L (-3.3 - 2.3) pO2 39 mmHg (25 - 75) Saturació O2 73 % (50 - 85) À.Làctic
+- Lactat 1.38 mmol/l (0.5 - 2.2) Creatina kinasa (CK) sèrum 105 UI/L 37C (20 - 190) Bilirubina total sèrum 0.69 mg/dL (0.2 - 1.2) Aspartat aminotranferasa (GOT) UI/L 37C (10 - 40) Proteïna C reactiva sèrum 0.07 mg/dL (0.00 - 0.50) HEMOGRAMA Hematies 4.42 x10^6/uL (4.5 - 5.5)Hemoglobina 13.3 g/dL (13 - 17) Hematòcrit 39.8 % (40 -
+50) VCM 90.0 fL (83 - 101) HCM 30.1 pg (27 - 32) CHCM 33.4 g/dL (31.5 - 34.5) RDW-CV 13.2 % (11.6 - 14)
+
+Leucòcits 5.30 x10^3/uL (4 - 10) Neutròfils % 40.4 % (40 - 80) Neutròfils total 2.14 x10^3 /uL (2 - 7) Linfòcits % 50.6
+% (20 - 40) Linfòcits total 2.68 10^3/uL (1 - 3) Monòcits % 6.4 % (2 - 10) Monòcits total 0.34 x10^3/uL (0.2 - 1)
+Eosinòfils % 1.5 % (1 - 6) Eosinòfils total 0.08 x10^3/uL (0.02 - 0.5) Basòfils % 1.1 % (0.2 - 2) Basòfils total 0.06
+x10^3/uL (0.02 - 0.1) Plaquetes 171 x10^3/uL (150 - 410) VPM 8.7 fL (9.4 - 12.6) Temps de protrombina (rati) 1.01
+(0.8 - 1.2) T. tromboplastina parcial activada (0.8 - 1.2) plasma0.80
+o	Radiología torácica (ingreso):.
+o	Ecocardiografia : AI dilatada 41 mm, TIB 8,9 mm, raiz aortica 40 mm, resto normal.
+o	TC - craneal (ingreso): quiste aracnoideo cerebeloso izquierdo vs lesion isquiemica antigua
+o	Dopler TSA/TC nromal
+o	RM craneal (1/12/2017): Lesión corticosubcortical parietotemporal izquierda, sugestiva de etiología isquémica aguda territorio superficial arteria cerebral media izquierda, sin efecto masa significativo ni transformación hemorrágica evidente. Lesión isquémica antigua con morfología que sugiere etiología cardioembólica cerebelosa posteroinferior izquierda. Imagen puntiforme parietotemporal derecha hipointensa en
+secuencia SWAN, probable resto de hemosiderina por sangrado antiguo, menos probable pequeño cavernoma. Sistema ventricular centrado sin dilatación ni deformación. No se identifica patología malformativa vascular ni patología neoformativa intracraneal. Unión cráneo-cervical sin anomalías. Señal de flujo en senos venosos, tronco basilar y segmentos intracraneales de arterias carótidas internas.
+
+Evolución y tratamiento realizado
+
+
+
+Paciente de 71 años con antecedente de antecedentes familiares de mutación Factor V Leiden, que ingresa para estudio de Infarto parietotemporal izquierdo en territorio superfical de la ACM izquierda.
+El paciente presenta una evolución clinica satisfactoria, con una NIHSS inicial de 3, con progresiva mejoria hasta una NIHSS al alta de 1 a expensas de leve alteracion sensitiva distal de brazo derecho.
+
+Durante el Ingreso se ha completado estudio mediante doppler TSA y TC sin oculsion de gran vaso intra ni extracraneal, y ecocardiografia TT donde se aprecia una AI dilatada de 41mm sin otras alteraciones, dada la lesion cortical asi como evidencia de lesiones dependientes en la arteria cerebelosa posterior izquierda en la RMN se decide completar estudio con Holter-24h que no aprecia trastornos del ritmo.
+
+Tras completar el estudio se orienta como PACI ACM izquierda de etiologia indeterminada sospechando entre las posibles opciones la cardioembólica vs estado protrombótico dado antecedentes mutacion factor V leiden, por este motivo se  decide completar con el estudio de dicho Factor V cuyo resultado se informará en consulta externa.
+
+Dado que otra de las posibilidades es de que presente trastornos del ritmo paroxístico se completará estudio co Holter Prolongoda de 1 mes, esto se realizará en _SS_ asi que se le avisará para dicha exploracion.
+
+Hasta completar el estudio y ante no tener una evidencia en las exploraciones de una fuente cardieombólica, se decide mantener antiagregacion con Clopidogrel 75mg y Atorvastatina 80mg.
+
+Destino al alta:	DOMICILIO
+Rankin (alta): 0   Canadiense (alta): 10	NIHSS (alta):	1
+
+
+Diagnósticos Diagnóstico principal
+o	ICTUS TEMPORA PARITEAL IZQUIERDO ETIOLOGIA INDETERMINADA
+
+Procedimientos:
+o	ECOCARDIO
+o	HOLTER
+o	TC CRANI
+o	ANGIO-RMN CRANEAL
+o	DOPPLER TSA/TC
+o	
+
+Tratamiento al alta
+
+
+Clopidogrel 75mg 1-0-0
+Atorvastatina 80mg 0-0-1
+Pantoprazol 40mg 1-0-0
+
+
+Recomendaciones de prevención secundaria
+
+
+o	Caminar cada día, mínimo 1/2 hora
+o	Perder peso, hasta conseguir perímetro abdominal en hombres por debajo de 108 cm. y 88 cm. en mujeres.
+o	Dieta rica en verduras, frutas y legumbres.
+o	Mantener tensión arterial por debajo de 130 /80 mm. Hg. En diabéticos por debajo de 120/75
+o	Mantener cifras de colesterol total por debajo de 150, y LDL por debajo de 100. En diabéticos LDL por debajo de 70.
+o	Evitar el tabaco y el alcohol.
+
+
+
+Control en fecha programada con Dra _NAME_ para resultados y seguimiento Control por el médico de cabecera
+
+
+Atentamente,
+
+Médico/s responsable/s: _NAME_ / _NAME_	Nº de colegiado: _ID_ / _ID_
+
+Firma

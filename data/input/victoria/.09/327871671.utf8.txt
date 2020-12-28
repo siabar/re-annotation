@@ -1,0 +1,97 @@
+I.CLINIC DE NEUROCIÈNCIES NEUROLOGIA
+_NAME_	NHC: _ID_
+
+
+Sexo/Sexe: Fem.	Fecha nac./Data naix.: _DATE_	Edad/Edat: 52 años Dirección/Adreça: _LOCATION_	CP: _LOCATION_
+Municip. (Prov.): _LOCATION_  ABS:_SS_	Tel.:_CONTACT_
+As.: SERVEI CATALA DE LA SALUT	CIP: _ID_	NASS: _ID_
+Nº epis.: _ID_	Tipo/Tipus: HOSPIT.	Ingres.: 24.01.2017 Serv: NEUROLOGIA	UO Enf.: G064 SALA G DE NEUROLOGIA	Hora: 18:58:56
+
+
+
+
+
+Tipo ingreso/Tipus ingrés: Urgent	Motivo/Motiu alta: Dom. Familiar
+Diag.:
+EMERGENCIA HIPERTENSIVA ()
+Proc.:
+ANALÍTICA SANGUÍNEA () TC PERFUSIÓN ()
+RM CEREBRAL ()
+
+
+
+
+INFORME CLÍNICO ALTA / INFORME CLÍNIC ALTA
+
+Motivo de consulta / Motiu de consulta
+Alteración del habla y parestesias peribucales
+
+Antecedentes e historia previa / Antecedents i història prèvia
+** ANTECEDENTES PERSONALES:
+Mujer de 52 años, sin alergias mecicamentosas conocias, sin hábitos  tóxicos. Independiente para las actividades básicas de la vida diaria (mRs:0). Medico pediatra de profesión.
+
+** ANTECEDENTES PATOLÓGICOS:
+1.- ASMA BRONQUIAL en tratamiento con broncodilatadores
+2.- HIPERTENSIÓN ARTERIAL en tratamiento farmacológico con antihipertensivos. 3.- HIPOGAMMAGLOBULINEMIA en controles analíticos.
+4.- HISTERECTOMIA por miomas uterinos.
+
+** TRATAMIENTO MÉDICO HABITUAL: Losartan 100 mg c/24h. Loracepam 1 mg c/24h. Torasemida 5 mg c/24h.
+
+Proceso actual / Procés actual
+Mujer de 52 años que el 23.01.2017 a las 11 am, tras estar de guardia, presenta alteración del habla en forma de disartria y parestesias peribucales. En el CAP se determinan cifras tensionales con TAS 230-240 mmHg, por lo que se administra Losartan y Loracepam, acude el SEM y se activa código ictus extramuros.
+Refiere que el día anterior durante la guardia tenia "embotamiento" de cabeza sin cefalea, se tomó la TA y estaba a 180 mmHg.
+
+Exploración física / Exploració física
+24/01/2017-19:15:00: Glicemia capilar (mg/dl) 89, PAS (mm Hg) 127, PAD ( mm Hg) 92, Pulsioximetría (%) 97, Tª axilar (ºC) 36.2.
+
+Hemodinámicamente estable (TAS 165/TAD 105 mmHG), eupneica, SatO2 100%. Afebril.
+NRL: Consciente y orientada en todas las esferas. Lenguaje fluente sin rasgos afásicos (nominación 7/7, repetición conservada, obedece órdenes simples, compleja y cruzadas). Mirada centada sin limitaciones. Campimetría por confrontación sin alteracines. Disartria. Resto de pares craneales conservados. Balance muscular conservado en las 4 extremidades. Parestesias hemibucales izquierdas. Sin hipoestesias.
+AC: Rítmica, sin soplos
+AR: MVC; sin roncus ni sibilancias.
+
+Laboratorio / Laboratori
+** ANALÍTICA SANGUÍNEA: PCR 0.59 mg/dL Glucosa 93 mg/dL Creatinina 0.60 mg/dL Filtrat glomerular >90 ml/min Acid úric 4.7 mg/dL Colesterol total 203/A mg/dL Triglicèrids 114 mg/dL ASAT/ALAT 18/23 U/L GGT/FA 24/98 U/L Bilirrubina total 0.9 mg/dL (0.3 D + O.6 I) LDH 383 U/L CK 54 U/L Proteïnes totals 63 g/L Na+/K+ 142/4.3 mEq/L Calci 9.1 mg/dL
+LÍPIDS LDL 120 mg/dL, Colesterol HDL 60 mg/dL
+AMINOÀCIDS, VITAMINES I NUCLEÒTIDS Homocisteïna basal En curs Àcid fòlic intraeritrocitari,sang total En curs Vitamina B12 En curs
+HEMATIMETRIA Leucòcits 7.2 10^9/L, Hematies 4.7 10^12/L, Hb 140 g/L. Hto 0.410 L/L, VCM 86.0 fl, HCM
+29.7 pg, CCMH 345 g/L, RDW 13.1%
+
+Radiología / Radiologia
+** TC PERFUSIÓN: No se observa imágenes de sangrado agudo intra ni extra-axial. Cisternas basales libres Estructuras de la línea media centradas. Sistema ventricular de tamaño, morfología y situación normales. No se observan alteraciones significativas de la densidad del parénquima cerebral valorables en el momento actual.
+** RM CEREBRAL: sin alteraciones.
+
+Evolución / Evolució
+1.- EMERGENCIA HIPERTENSIVA.
+A su llegada a urgencias, la paciente sen encuentra hipertensa (TAS 165/TAD 105 mmHG), eupneica, afebril. En la exploración neurológica presenta disartria leve con tendencia a la regresión (NIHSS: 1). El ECG en ritmo sinusal. La analítica sanguinea sin alteraciones relevantes. La neuroimagen (TC y RM crneal) sin lesiones isquémicas ni hemorrágicas agudas.
+Se orienta como emergencia hipertensiva en paciente con hipertensión arterial. Durante su ingreso se controlan valores tensionales con Losartan 100mg/24h y Amlodipino 5mg/12h. La paciente se encuentra hemodinámicamente estable, eupneica, afebril y asimptomática por lo que es dada de alta a domicilio.
+
+Plan terapéutico / Pla terapèutic
+-	Losartan actavis 100 mg comprimidos recubiertos con pelicula efg , 28 co mprimidos. 100 MG. Vía oral. Una vez al día, en el desayuno.
+-	Amlodipino alter 5 mg comprimidos efg, 30 comprimidos. 5 MG. Vía oral. Cada 12 horas.
+-	Dilutol 5 mg comprimidos, 30 comprimidos. 5 MG. Vía oral. Una vez al día , en el desayuno.
+-	Lorazepam cinfa 1 mg comprimidos efg, 50 comprimidos. 1 MG. Vía oral. Ca da 24 horas al acostarse.
+
+Otras recomendaciones / Altres recomanacions
+-	Control de factores de riesgo cardiovascular por médico de cabecera.  - Dieta hiposódica.  - Realizar actividad física aeróbica un mínimo de 30 minutos diarios.
+
+
+
+Firma/Signatura1: _NAME_	Firma/Signatura2: _NAME_ Categoría: Resident 1	Categoría: Consultor/a 1
+
+
+
+Nº Matrícula HCP: _ID_	Nº Matrícula HCP: _ID_ Fecha/Data: 25.01.2017
+Hora: 15:23:37
+
+Docum.: _ID_
+Hist. Clínica: _ID_
+El _SS_ ha incorporado sus datos al Fichero de Pacientes, para tratarlos con fines sanitarios.
+Puede ejercer sus derechos de acceso, rectificación, cancelación y oposición, así como obtener mas información en la Unidad de Atención al Cliente.
+Vers. 00
+Pag. 2 de
+3
+Episod.: _ID_
+_SS_ ha incorporat les seves dades al Fitxer de Pacients, per a tractar-los amb finalitats sanitàries. Pot exercir els seus drets d'accés, rectificació, cancel·lació i oposició, i obtenir més informació a la Unitat d'Atenció al Client.
+_SS_
+_LOCATION_) _LOCATION_) Tel. _CONTACT_ Fax _CONTACT_
+_CONTACT_/

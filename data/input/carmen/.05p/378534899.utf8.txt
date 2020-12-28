@@ -1,0 +1,138 @@
+_LOCATION_
+Telèfon: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 82 anys
+NIF/DNI: _ID_Informe d'alta d'hospitalització
+CP	_LOCATION_
+ABS	_SS_
+Servei	NEUROLOGIA
+Data d'alta  07.06.2017	15:30:08
+_LOCATION_
+_CONTACT_; _CONTACT_
+ATEN.PRIMÀRIA 31.05.2017
+_NAME_
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Código Ictusl
+
+ANTECEDENTS
+NAMC. mRS basal 3. Vive con hija.
+HTA. DM II. DL. Asma. Hepatitis C crónica. Distimia. Poliartrosis. Hipotiroidismo subclínico. Valorada en las consultas de Geriatría (2016) con sospecha de DCL. Déficit de B12. Apnea del sueño (a tto con CPAP). Ingreso en Med Interna por Hiponatremia en probable relación a tiazidas (Ameride)
+
+IQ: Hernia de hiato, Apendicectomía, PTR, PTC, Amigdalectomía, Hallux valgus, Espolón, Cataratas. Prolapso vesical. Colecistectomía.
+
+
+MEDICACIÓ HABITUAL
+Adiro 100 mg, Budesonida pulv nasal, Losartan 25 mg, Metformina 850 mg, Omprazol 20 mg, Optovite B12, Paracetamol 1 g, Serc 16 mg, Venlafaxina Retard 75 mg.
+
+PROCÉS ACTUAL
+Mujer de 82 años que acude remitida al S. de Urgencias del _SS_ a través del SEM por alteración del lenguaje y hemiparesia derecha. La paciente es hallada con los síntomas a las 20:30 h por su hija, quien la había visto asintomática una hora antes. Por ello se activa el protocolo Código Ictus a su llegada al S. de Urgencias (23:17 h, según el informe de Urgencias) y es valorada por Neurología que, ante la ausencia de contraindicaciones y una exploración que arroja un NIHSS de 14 puntos, decide la infusión de tratamiento fibrinolítico endovenoso a las 00h (4:30 h de evolución desde la última vez que la paciente fue vista asintomática). Previamente, precisó de la administración de un bolo de labetalol por tensión arterial fuera de rango. Se practicó un A-TC que descartó oclusión arterial. El procedimiento se desarrolló sin incidencias.
+La paciente fue valorada unas 72 horas antes por una disartria autolimitada por lo que se recomendó instaurar tratamiento antiagregante.
+
+EXPLORACIÓ FÍSICA
+
+AC: Tonos ritmicos, no soplos
+AR: MVC, no ruidos sobreañadidos
+NRL: Afasia global. no desviación oculocefálica. Hemianopsia derecha (por amenaza). Pares craneales conservados. Paresia derecha 3/5 en extremidad sup e inferior.
+NIHSS: 1+2+0+2+0+2+3+0+0+2+2+0: total 14
+
+EXPLORACIÓ COMPLEMENTÀRIA
+1. AS (S. de Urgencias, 30/05/2017):
+
+Informe d'alta d'hospitalització
+
+
+
+
+-	BQ: Gluc, cr, Na, K Normales. U 53.
+-	Hemograma: Leucos, Hb, VCM, Plaq Normales.
+-	Hemostasia básica: Normal
+
+2. AS general (2/06/2017):
+-	BQ: Gluc, U, Cr, Urat, Ca Normales. P 4.57 (2.70-4.50). Col 205. HDL 62. LDL 119.2. TAG 119. GOT, GPT,
+GGT, FA, Bilirrubina, Na, K, Cl Normales.
+-	Hemograma: Leucos, Hb, VCM, Plaq Normales. VSG 24 (0-20). HbA1c Normal.
+-	Hemostasia básica: Normal.
+
+3.	ECG: Ritmos sinusal.
+
+4.	Telemetría (más de 24 horas): Sin arritmias embolígenas.
+
+5.	ETT: Ventrículo izquierdo: dimensiones, grosor y función sistólica normales. No alteraciones de la contractilidad segmentaria. Función sistólica normal. FE 65%. Patrón diastólico mitral normal. Aurícula izquierda: ligeramente dilatada (voluimen 39 ml/m2). Ventrículo derecho: no dilatado. Normocontráctil. Aurícula derecha: normal. Válvula mitral: esclerosa, calcificación anular posterolateral. Apertura normal. Insuficiencia mitral ligera. Válvula aórtica: escleros. Trivalva. Apertura normal. No insuficiencia aórtica. Raíz aórtica, porción tubular de aorta ascendente y arco de calibre normal. Válvula tricúspide: morfología normal. Apertura normal. Insuficiencia tricuspídea mínima funcional. Gradiente VA de 24 mmHg. Normopresión pulmonar. Válvula pulmonar: morfología normal. Flujos normales. - Tronco y ramas pulmonares: normales. Tabiques: íntegros. Pericardio: no derrame. Cava inferior: no dilatada con colapso inspiratorio correcto.
+Conclusiones: VI no dilatado con función sistólica normal y disfunción diastólica por mala relajación. Ligera dilatación auricular izquierda. Esclerosis mitroaórtica. Normopresión pulmonar.
+
+6.	TC de cráneo + A-TC (30/05/2017): Estructuras de la línea media centradas. Calcifiaciones bilaterales en n putaminales No se observan lesiones focales. El sistema ventricular presenta moderada dilatación ventricular global y simétrica. Dilatación de los espacios aracnoideos de la convexidad globalmente, de los valles silvianos y de la convexidad cerebelosa y vermiana. No se observan signos de sangrado intra ni extra-axial. Hiperostosis frontal interna.  Lesiones de hipoxia-isquemia crónica en sustancia blanca supratentorial. Estudio vascular sin signos de trombosis ni estenosis críticas.
+
+7.	TC de cráneo de control postfibrinolisi (1/06/2017): Lesiones hipodensas en sustancia blanca profunda periventricular sugestivos de lesiones hipóxico-isquémicas crónicas. Estructuras de la línea media centradas. Calcificaciones de ganglios basales bilaterales. El sistema ventricular presenta moderada dilatación ventricular global y simétrica. Dilatación de los espacios aracnoideos de la convexidad globalmente, de los valles silvianos y de la convexidad cerebelosa y vermiana. No se observan signos de sangrado intra ni extra-axial. Hiperosotosis frontal.
+CONCLUSION: Control post-fibrinolisis , sin imágenes sugestivas de sangrado.
+
+8.	RM de cráneo + Willis (5/06/2017): Múltiples imágenes de alta señal en T2, localizadas en sustancia blanca yuxtaventricular profunda y subcortical de ambos hemisferios cerebrales, por isquemia/hipoxia crónica. En la secuencia de difusión no apreciamos alteraciones sugestivas de lesión isquémica aguda o subaguda. La secuencia de gradiente de eco no muestra lesiones hemorrágicas. Moderada dilatación simétrica y de características crónicas del sistema ventricular supratentorial que se acompañan de una dilatación proporcional de los espacios subaracnoideos  que rodean  ambos hemisferios cerebrales. Charnela  occipitocervical normal. El
+3.	
+Informe d'alta d'hospitalització
+
+
+
+
+estudio vascular muestra una estenosis del 50% en la arteria basilar en su porcion media-distal. Hipoplasia del segmento A1 derecho. CONCLUSION: Lesiones de afectación hipóxico/isquémica cronica en ambos hemisferios cerebrales. No se identifica lesion isquemica aguda. Atrofia cerebral global. Estenosis focal de arteria basilar en tercio medio/distal. Hipoplasia del segmento A1 derecho.
+
+9.	Estudio neurosonológico:
+-	Dúplex de TSA: Se evidencian signos de ateromatosis con la presencia de placas en ambos bulbos que generan una estenosis del 50-70% a nivel de la arteria carótida externa izquierda.
+Ambas arterias vertebrales siguen un curso en dirección cefálica en su trayecto extracraneal.
+-	Dúplex TC: No se identifican una ventanas adecuadas para su valoración.
+
+10.	EEG: EEG que no muestra alteraciones significativas.
+
+
+EVOLUCIÓ CLÍNICA
+La paciente ingresa con semiología de ictus isquémico agudo sobre el territorio de la ACM izquierda (TACI) por lo que, tras descartar contraindicaciones, recibió tratamiento fibrinolítico endovenoso. A las 24 horas se constantó una franca mejoría clínica, manteniendo desde entoces su situación basal (NIHSS 0. mRS 3). La TC de cráneo de control no identificó transformación hemorrágico por lo que se instauró tratamiento antiagregante con Clopidogrel 75 mg. La paciente fue sometida a un estudio mediante RM de cráneo, cuyo resultado fue llamativo por la ausencia de lesión en las secuencias de difusión por lo orienta al diagnóstico de "Stroke mimic" vs Ictus isquémico con reperfusión postfibrinolisis. Con el fin de evaluar fuentes etiológicas de ictus, se pracfticaron estudios vasculares mediante A-TC, A-RM intracraneal y Dúplex que pusieron de manifiesto (como hallazgos) una  estenosis focal del 50% de la arteria basilar en su tercio medio/distal (por A-RM) y una estenosis del 50-70% a nivel de la arteria carótida externa izquierda (por Dúplex de TSA). Los estudios cardiológicos (ecocardiografía y Holter) no mostraron alteraciones significativas, salvo una ligera dilatación auricular izquierda y una esclerosis mitroaórtica. En vistas a completar el diagnóstco diferencial se realizó un EEG que resultó dentro de la normalidad. Durante su estancia hopsiptalaria ha sido valorada por Rehabilitación.
+Desde el punto de vista terapéutico se ha sustituído Adiro 100 mg por Clopidogrel 75 mg y Omeprazol 20 mg por Ranitidina 150 mg y se ha instaurado tratamiento con estatinas mediante Simvastatina 40 mg (por dislipemia y estenosis del 50% en la arteria basilar). En vistas a optimizar el tratamiento antihipertensivo se ha aumentado a la pauta de Losartan a 50 mg diarios.
+
+
+
+DIAGNÒSTICS
+436/5 Sospecha de Ictus isquémico con semiología de ACM Izquierda con reperfusión tras fibrinollisis (Ver nota de evolución).
+433.00/2 Estenosis del 50% a nivel de la arteria basilar.
+
+PROCEDIMENTS
+87.03 Tomografia axial computada de cap. TAC de cap
+89.08 Altra consulta
+88.91 Imatge per ressonància magnètica de cervell i tronc cerebral
+89.08 Altra consulta
+99.29 Injecció o infusió d'altra substància terapèutica o profilàctica
+
+Informe d'alta d'hospitalització
+
+
+
+
+89.08 Altra consulta
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+1.	Dieta pobre en grasas de origen animal y sin sal..
+2.	SUSPENDER: Adiro 100 mg, Omeprazol 20 mg y Losartan 25 mg.
+3.	Clopidogrel 75 mg: 1 comprimido diario con la comida principal.
+4.	Ranitidina 150 mg: 1 comprimido cada 12 horas (mañana y noche).
+5.	Simvastatina 40 mg: 1 comprimido diario con la cena.
+6.	Losartan 50 mg: 1 comprimido diario por las mañanas.
+7.	Resto de tratamientos domiciliarios tal y como venía realizando previamente.
+
+CONTROL
+1.	Se ruega control a través de su Médico de Atención Primaria, con especial atencuión a los factores de riesgo vascular.
+2.	Acudirá a revisión en las Consultas de Neurología (Dr. _NAME_).
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+07.06.2017
+Pàgina 1 de 4

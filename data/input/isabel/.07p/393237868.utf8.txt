@@ -1,0 +1,125 @@
+_LOCATION_
+email: _CONTACT_ Telèfon _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 75 Anys
+NIF/DNI: _ID__NAME_; _NAME_; _NAME_;;
+_NAME_
+Informe d'alta d'hospitalització
+13:33:45
+23.07.2017
+_LOCATION_
+_SS_ UNITAT D'ICTUS
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_; _CONTACT_; _CONTACT_
+AGUTS 20.07.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Mujer de 75 años que ingresa en UI por ictus en territorio ACM izquierda.
+
+ANTECEDENTS
+No alergias medicamentosas conocidas No hábitos tóxicos
+
+ANTECEDENTES PATOLÓGICOS
+-	Hipertensión arterial esencial en tratamiento farmacológico
+-	Dislipemia
+-	Fibrilación auricular en tratamiento anticoagulante con sintrom, y buenos controles [último 3/7]
+-	Tromboembolismopulmonar en 2009
+-	Bocio multinodular no tóxico
+-	TromboflebitisEII en enero de 2017 tratada mediante agua de Burow
+-	Dorsolumbalgia en tratamiento con bloqueos anestésicos
+-	Carcinoma basocelular
+
+Situación sociofuncional: vive con su hija. Independiente para las ABVD. Camina sin ayuda, mRS 1
+
+MEDICACIÓ HABITUAL
+Hidroclorotiazida  50 mg cada 24 horas, Simvastatina 20 mg cada 24 horas, Bisoprolol 5 mg cada 12 horas, Sintrom sp, Omeprazol 20 mg cada 24 horas, Paracetamol 1g/8h si precisa
+
+PROCÉS ACTUAL
+La paciente se va a dormir asintomática a las 00:00 horas del día 20/07/2017, al despertar a las 07:00 horas la familia la encuentra en el suelo con desviación de la comisura bucal e imposibilidad para la emisión del lenguaje, por lo que avisan a SEM quederiva a nuestro centro como Código Ictus.
+* Hora de activación Código Ictus 7:52
+
+EXPLORACIÓ FÍSICA
+
+URGENCIAS.
+Constantes: TA 135/89mmHg, FC 136x', BMT 106mg/dl
+Vigil, alerta, orientación no valorable. Afasia de predominio motor (LOC q 0/2, LOC c 2/2, afasia global de predominio motor) (2+2+3), HHD (2), DOC a la izquierda (2), PFSN D (2). Resto de PPCC conservados. Paresia braquial derecha de predominio distal con mano caída (2+1). Probable hemihipoestesia ipsilateral (1). NIHSS 16+1.
+
+UNIDAD ICTUS.
+Vigil, desorientada (2), POC (1), afasia moderada (1) y disartria (1). PFSN (2) Mínima paresia 4-/5 ESD (1), sin
+
+Informe d'alta d'hospitalització
+
+
+
+
+alteraciones objetivables de la sensibilidad. Extinción sensitiva (1), no dismetrías desproporcionadas a déficit motor NIHSS 10 [inmediatamente post IA]
+
+EXPLORACIÓ COMPLEMENTÀRIA
+URGENCIAS
+- TC multimodal: Estudio craneal multifásico que muestra hipodensidad del cortex insular izquierdo (ASPECTS 9/10), con oclusión del segmento M2 anterior izquierdo que condiciona mismatch de la practica totalidad del territorio superficial de ACM izquierda.
+** TC simple: Ausencia de signos de sangrado agudo intra o extraaxial. Discreta hipodensidad del córtex insular. ASPECTS 9/10. Lesión extraxial frontal izquierda en probable relación a meningioma. Estructuras de la línea media centradas. Sistema ventricular discetamente aumentado de tamaño en proporción respecto de la profundización de los surcos de la convexidad, en relación a atrofia parenquimatosa. Cisternas de la base y perimesencefálicas libres. Marco óseo sin alteraciones.
+** AngioTC: Se observa oclusión de la división anterior de ACM izquierda (M2) con permeabilidad del resto del territorio carotideo bilateral inta y extracraneal sin alteraciones valorables. Ateromatosis del arco aortico. En el sistema vertebrobasilar se observa permeabilidad de todos los vasos. ACP izquierda de origen fetal. Senos venosos permeables.
+** TC perfusión: Alargamiento del tiempo (MTT) con disminución del flujo (CBF) en el territorio superficial anterior de ACM izquierda con volumen (CBV) practicamente preservado en casi todo el territorio, condicionando un mismatch de la mayoría del territorio superficialde ACM izquiera con alguna zona de infarto establecido.
+-	Analítica urgencias: hemoglobina 11.5g/dl, hematocrito 35%, VCM 98.6fL, HCM 32.4pg. Leucocitos 5320 (N62%, L26.9%), plaquetas 195000. INR 2.10, TTPA 41.1s, fibrinogeno 4.01. Glucosa 89mg/dl, creatinina 0.74mg/dl.
+-	ECG: fibrilación auricular con rvm 90lpm, QRS estrecho, eje 15º. Sin alteraciones agudas de la repolarización, lenta progresión R en precordiales
+-	Trombectomía: Tras primera serie diagnóstica (09:10 horas), se evidencia oclusión a nivel de ACM-M2 (TICI inicial 0).Se despliega Perflow a las 09:29 horas y se realiza primer pase a las 09:30 horas, persistiendo oclusión. Se realiza segundo pase (09:47 horas) sin conseguirse recanalización. Se despliega Solitaire y se realiza tercer pase a las 09:58 horas consiguiéndose recanalización completa (TICI 3). Se finaliza procedimiento a las 10:00 horas. Sin incidencias a destacar.
+
+UNIDAD ICTUS
+-	TC control: Discreta hipodensitat del córtex insular esquerre, sense identificar lesions isquèmiques de nova aparició ni lesions hemorràgiques intracranials.
+-	Analitica ingreso: hemoglobina 11.5g/dl, heamtocrito 35.2%, VCM 98.fL, HCM 32.3pg. Leucocitos 8040 (N64.5%, L24%), plaquetas 210000. INR 1.70, TTPA 33.7, vitB12 374pg/ml, ácido fólico 7.8ng/ml. VSG 49mm/h. GLucosa 89mg/Dl. HbA1c pendiente. Creatinina 0.74mg/dl. Na 139.2mmol/l, K 3.51 mmol/l. Colesterol 148mg/dl, HDL 40mg/dl, TG 107mg/dl. TSH 0.263, Tlibre 2.29 y t3 1.18
+
+EVOLUCIÓ CLÍNICA
+A su llegada a urgencias paciente hemodinámicamente estable y afebril. Presenta clínica compatible con síndrome TACI derecho con NIHSS inicial 16+1. El TC craneal multimodal muestra ASPECTS 9, con oclusión a nivel de ACM-M2 y mismatch en todo el territorio. Dado que la paciente se encuentra en tratamiento con anticoagulación oral, se desestima tratamiento de reperfusión ev, decidiéndose TEV primario. Tras tres pases se consigue la recanalización completa (TICI 3) sin complicaciones inmediatas asociadas al procedimiento. La paciente ingresa en la unidad de ictus. Tras comprobar que cumple criterios de inclusión y ninguno de exclusión, se incluye dentro del estudio ACTION 2.
+
+Informe d'alta d'hospitalització
+
+
+
+
+Durante el ingreso, se mantiene hemodinámicamente estable, y con mejoría progresiva clíncamente. Se realiza TC control que muestra ausencia de transformación hemorrágica y únicamente hipodensidad en ribete insular por lo que se reintroduce tratamiento anticoagulante con enoxaparina. Ante paciente con FA conocida y ausencia de estenosis significativas en árbol vascular, se orienta como ictus de etiología cardioembólica. Ante fracaso de sintrom, se inicia tratamiento de prevención secundaria con Dabigatran (Pradaxa 150 mg cada 12 horas).
+El día 22 de julio presentó registro febril (38ºC) por lo que se realizó una Rx toráx (mal inspirada) que no mostró claras condensaciones, un sedimento de orina sin presencia de bacterias así como se retiraron hemocultivos (pendiente de resultados). Sin detectar un claro foco infeccioso se inició tratamiento antibiótico de forma empírica con amoxicilina-clavulánico por vía oral con buena evolución clínica y sin recurrencia de fiebre.
+Tras estabilidad clínica y hemodinámica, se decide alta hospitalaria y control según visitas del estudio. Seguimiento por Neurología de zona. Recomendamos control analítico de perfil tiroideo por parte de MAP en unos meses.
+
+NIHSS al alta 1 mRS al alta 2.
+
+DIAGNÒSTICS
+Infarto ACM izquierda de etiología cardioembólica Fibrilación auricular
+
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Dieta sin sal y baja en grasas. Ejercicio físico moderado que tolere.
+
+-	Clexane 60 mg cada 12 horas hasta comenzar con Pradaxa: para  ello, debe suspender anticoagulación subcutánea y en el momento de la siguiente dosis programada, comenzar con la pastilla de Pradaxa 150 mg y continuar con ella, cada 12 horas.
+
+-	Suspender Sintrom.
+
+-	Amoxicilina-Clavulánico 875/125mg cada 8hs durante 7 días.
+
+-	Resto de tratamiento sin cambios: Hidroclorotiazida 50 mg cada 24 horas, Simvastatina 20 mg cada 24 horas, Bisoprolol 5 mg cada 12 horas, Omeprazol 20 mg cada 24 horas, Paracetamol 1g/8h si precisa
+
+CONTROL
+-	Control estricto de FRCV por MAP, asi como de analítica de control con perfil tiroideo.
+
+-	Visitas control segun protocolo del estudio ACTION:
+Deberá acudir a la segunda planta del _SS_ (Unidad de ictus) el día 22/8/2017 a las 15:15h y posteriomente, en la misma planta el día 17/10/2017 a las 15:15h.
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+23.07.2017
+Pàgina 1 de 3

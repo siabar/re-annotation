@@ -1,0 +1,67 @@
+_LOCATION_
+email: _CONTACT_ Telèfon _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 89 Anys
+NIF/DNI: _ID__NAME_; _NAME_; 
+_NAME_
+Informe d'epicrisi
+CP	_LOCATION_
+ABS	_SS_
+Servei	NEUROLOGIA
+Data d'alta  05.06.2017	07:00:00
+_LOCATION_
+_CONTACT_; _CONTACT_
+AGUTS 03.06.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Varón de 89 años que ingresa por hematoma talámico.
+
+ANTECEDENTS
+-Sin alergias medicamentosas.
+
+-Hipertensión arterial
+-Fibrilación auricular en tratamiento frenador con betabloqueantes y anticoagulado con Eliquis.
+-Hiperplasia benigna de próstata.
+-Hematoma subdural evacuado.
+
+Situación sociofuncional: Independiente para actividades de la vida diaria.
+
+PROCÉS ACTUAL
+Paciente de 89 años con antecedentes de ACxFA en tratamiento con eliquis, hematoma subdural intervenido que acude a urgencias de _LOCATION_ por mal estar general asociado a naúseas y vómitos. Estando en _SS_ presenta disminución del nivel de conciencia y hemiparesia izquierda.
+
+
+EXPLORACIÓ FÍSICA
+
+Somnolencia, moviliza hemicuerpo derecho al estímulo doloroso, posible apraxia de la apertura ocular, no déficits campimétricos por amenaza. Paresia facial supranuclear izquierda. Hemiparesia braquio-crural izquierda 2/5. Hemihipoestesia ipsilateral.
+
+EXPLORACIÓ COMPLEMENTÀRIA
+TAC CRANEAL + ANGIOTC: Hematoma talámico derecho abierto al sistema ventricular, el cual se encuentra dilatado de manera desproporcionado a la profundidad de los surcos de la cortical.
+
+EVOLUCIÓ CLÍNICA
+A su llegada a nuestro centro paciente con somnolencia asociada a hemiparesia y hemihipoestesia izquierda. Se realizó TC craneal en el que muestra hematoma de GGBB izquierdos abierto a ventrículos. Durante su estancia en la Unidad de Ictus presentó empeoramiento progresivo con broncoaspiración y signos de distres respiratorio por lo que, de acuerdo con la familia, se decide iniciar medidas de confort siendo el paciente exitus el día 5 de junio a las 07:00 horas, se constata el fallecimiento y se comunica a los familiares.
+
+DIAGNÒSTICS
+Exitus laetalis
+Causa inmediata: Insuficiencia respiratoria
+
+Informe d'epicrisi
+
+
+
+
+Causas intermedias: Hipertensión intracraneal e infección respiratoria Causa inicial: Hematoma en ganglios basales.
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+05.06.2017
+Pàgina 1 de 2

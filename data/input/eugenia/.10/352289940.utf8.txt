@@ -1,0 +1,153 @@
+
+
+
+
+
+Informe d'Alta Hospitalària	Cognoms i nom:
+_NAME_	NHC:
+_ID_
+	ABS:
+_SS_	CIP:
+_ID_	DNI:
+_ID_
+	Data de naixement:
+_DATE_	Sexe:
+Dona	Edat:
+39a	Telèfon:
+_CONTACT_
+	Finançament:
+CatSalut - _LOCATION_	Procedència:
+URGÈNCIES
+	Admissió:
+13.03.2017 - 15:21	Servei:
+NEURO - UNITAT ICTUS HOSP	Data entrada urg.:
+13.03.2017 - 12:56
+Adreça:
+_LOCATION_	Població:
+_LOCATION_	Codi Postal:
+_LOCATION_
+
+
+
+Motivo de ingreso.
+Mujer de 39 años que ingresa por ictus isquémico.
+
+
+ANTECEDENTES
+-	Alérgica a los ácaros y al polen de gramíneas. Intolerancia grave a la lactosa.
+-	Hábitos tóxicos: fumó de manera esporádica durante la adolescencia. Consumo esporádico de alcohol.
+Niega otros tóxicos.
+-	Factores de riesgo cardiovascular: hipertensión arterial a raíz de trasplante renal en tratamiento médico, hipertrigliceridemia (refiere que le informaron de que era genética), sin antecedentes de DM conocida.
+-	Antecedentes cardiovasculares:
+-	Episodios de palpitaciones de 2-3 meses de evolución que en ocasiones le obligan a cesar actividad por disnea.
+-	Soplo cardiaco evidenciado durante visita a urgencias en _SS_, nunca estudiado.
+-	Antecedentes digestivos:
+-	Estudiada por síndrome emético de repetición. Descartada celiaquía (biopsia, analítica). Refiere que se orientó como posible psicosomático (relación con estrés, estudios complementarios negativos).
+-	Pancreatitis con exploraciones de imagen posteriores normales.
+-	Antecedentes nefrourológicos:
+GMN IgA con proliferación extracapilar.
+*	Debut en 2009 como cuadro asténico. Se evidenció deterioro importante de función renal en analítica del CAP, siendo derivada a la _SS_. En biopsia renal se evidenció GMN proliferativa mesangial y endocapilar con proliferación extracapilar y formación de semilunas, además de positividad moderada para IgA y C3 en mesangio. Realizó diálisis vía Shaldon derecho y peritoneal durante 2009-2010. Trasplantadaen 2010.
+*	Como complicaciones del tto. inmunosupresor ha presentado cataratas bilaterales ya intervenidas, estrías cutáneas, hipertensión arterial, fragilidad cutánea, acúfenos, aumento del sangrado menstrual...
+-	Antecedentes neurológicos:
+-	Refiere meningitis grave cuando tenía 1 año de edad. Aparentemente sin secuelas.
+-	Cefalea de meses de evolución. Descrita como opresiva/punzante, localizada siempre a nivel frontal izquierdo. Duración de 1-2 días, frecuencia de 2-3 veces al mes. Le despierta por la noche, empeora con el edcúbito supino. No respuesta a paracetamol. No ha consultado.
+-	Antecedentes personales: natural de _LOCATION_, en _LOCATION_ desde hace 15 años. Formación superior. Trabaja en visual marketing para empresa de moda. Vive con su marido en su domicilio. Autónoma y FFSS conservadas. 1 aborto provocado.
+-	Antecedentes familiares: ambos progenitores vivos, su padre padece de cardiopatía isquémica y su madre de posible uveitis con aparente causa autoinmune según nos refiere. 2 hermanos vivos, sin problemas de salud relevante. Sin hijos.
+-	Tratamiento habitual (Marzo 2017): Atorvastatina 20mg/día, Advagraf 6mg cada 24h, Enalapril 5mg/24h, Prednisona 5 mg/24h, Ranitidina 150mg cada 24h, Myfortic 180mg 2 comp cada 24h., Tardyferon 80mg
+
+cada 24h
+
+
+ENFERMEDAD ACTUAL
+Mujer de 39 años que el 12/03 sufrió cuadro de vómitos y diarrea sin producto patológico (presenta cuadros similares de manera habitual). El 13/03, aproximadamente a las 12:00 h mientras hablaba por teléfono y habiéndose despertado asintomática desde el punto de vista neurológico, sufrió cuadro brusco de alteración en la emisión del lenguaje con comprensión conservada y debilidad de extremidades derechas; refiere que tampoco era capaz de escribir en el teclado del móvil. Se avisó al SEM desde donde activaron código ictus extrahospitalario.
+
+EXPLORACIÓN FÍSICA
+-	Exploración neurológica a su llegada a urgencias (13/3/17): Destaca NIHSS 8 por afasia motora, disartria, hemiparesia D y hemihipoestesia derecha.
+-	Exploración física en unidad de ictus (14/3/17): Vigíl y orientada, no rasgos afásicos ni disartria, campimetría por confrontación normal, PINR, MOEs ok, no asimetría facial, trigémino SM normal, resto PPCC conservados, no paresia braquial ni crural, mínima asimetría mano derecha movimientos finos que no puntúa, sensibilidad conservada para todas las modalidades, no dismetría. Marcha no explorada. NIHSS
+= 0.
+-	Exploración en sala de Neurología: BEG. NC, NH. Eupneica en reposo. Múltiples hematomas cutáneos en diferentes fases de resolución en relación con punciones venosas para analíticas, vías, etc. Eutímica, humor reactivo. Orientada en tres esferas, atenta y colaboradora. Nomina 5/5, repite frases largas, obedece órdenes de tres comandos. Cálculo correcto. Sin apraxias. Lenguaje fluido, sin  rasgos disfásicos ni disártricos. Lectura y escritura correctas. Cálculo 5/5. PICNR. MOEs no limitados. Campimetría por confrontación sin alteraciones. Sin nistagmus. Sin asimetrías faciales. Trigémino sensitivo-motor sin alteraciones. PPCC bajos sin alteraciones. Balance motor sin alteraciones. Debilidad distal leve de ESD (tapping asimétrico, cinesias alteradas). Sensibilidad táctil, algésica y propioceptiva sin alteraciones. Sin dismetrías ni disdiadococinesias. Dolor a la presión sobre musculatura glútea bilateral. Lasegue y Bragard bilateral positivo. RMPs vivos de manera simétrica y global. Sin Hoffman. RCP flexor bilateral. Marcha sin alteraciones.
+
+
+
+EXPLORACIONES COMPLEMENTARIAS
+-	Analítica al ingreso (13/3/17): Sodi 136 mmol/L ( 136 - 145 ) Potassi 3,89 mmol/L ( 3,50 - 5,10 ) Glucosa 6,8
+mmol/L ( 3,0 - 6,0 ) 122,40 mg/100mL Urea 13,1 mmol/L ( 2,1 - 7,1 ) 79 mg/100mL Creatinina 126 µmol/L (
+0 - 80 ) 1,42 mg/100mL Hemoglobina 120 g/L ( 120 - 150 ) Hematòcrit 0,38 L/L ( 0,35 - 0,45 ) Hematies 4,68
+x10E12/L ( 3,90 - 5,00 ) VCM 80,8 fL ( 80,0 - 98,0 ) CCMH 317 g/L ( 320 - 360 ) HCM 25,6 pg ( 27,0 - 32,0 )
+RDW 13,3 % ( 12,0 - 15,0 ) Plaquetes 345 x10E9/L ( 140 - 350 ) VPM 7,9 fL ( 7,0 - 10,5 ) Plaquetòcrit 0,40
+% Leucòcits 16,16 x10E9/L ( 3,80 - 11,00 ) Fórmula leucocitària Neutròfils 76,0 % Neutròfils absoluts 12,27 x10E9/L ( 1,80 - 7,00 ) Eosinòfils 0,4 % Eosinòfils absoluts 0,07 x10E9/L ( 0,05 - 0,50 ) Basòfils 0,3 %
+
+Basòfils absoluts 0,05 x10E9/L ( 0,00 - 0,10 ) Monòcits 8,0 % Monòcits absoluts 1,30 x10E9/L ( 0,30 - 1,00 ) Limfòcits 15,3 % Limfòcits absoluts 2,47 x10E9/L ( 1,00 - 4,00 ) HEMOSTÀSIA Temps de tromboplastina 0,79 RATIO ( 0,75 - 1,30 ) Temps de protrombina 1,08 INR ( 0,75 - 1,20 ) Temps de trombina 26,10 s (
+17,00 - 24,00)
+-	Electrocardiograma: RS a 100lpm, PR<0.2, QRS estrecho, AQRS a -50º,  sin alteración de la repolarización.
+-	Telemetría en urgencias y en unidad de ictus: Ritmo sinusal con algunos episodios de taquicardia sinusal a 120-130. Sin otras alteraciones.
+-	TC craneal a su llegada (13/3/17): Signos de trombosis distal en segmento M1 de la ACM Izq, con ASPECTS 10, tributaria de TEV desde el punto de vista radiológico.
+-	Trombectomía (13/3/17): se realiza punción femoral derecha. Se realiza cateterización selectiva y la primera serie angiográfica confirma la presencia de una oclusión a nivel de M1 izquierda. Se procede al microcateterismo selectivo de arteria ocluida logrando una adecuada posición para realizar trombectomía realizando 1 pase . En la serie de comprobación final se confirma recanalización TICI 3. No se detectan incidencias durante ni inmediatamente tras el procedimiento. Se realiza cierre del punto de punción femoral derecho mediante cierre mecánico tipo Proglide que no es eficaz por lo que se aplica vendaje compresivo el cual deberá permanecer por 24 horas, debiendo el paciente mantener inmóvil el miembro inferior derecho. Conclusión: trombectomía mecánica sin complicaciones. Resumen: dispositivo de trombectomía utilizado:trevo 6x25. Número de pases:12. Aspiración sí. Balón carotídeo sí. Complicaciones: no. TICI final: 3.
+-	TC craneal de control (14/3/17): Respecto al estudio de ayer destacamos la presencia de hemorragia en atrio ventricular derecho, sin poder descartar que el origen sea a nivel del parénquima periventricular parietal derecho adyacente (cavernoma previo?). No se acompaña de hidrocefalia ni compromiso de linea media. En relación al hemisferio izquierdo, no se aprecian lesiones isquémicas establecidas. Resto sin nuevos hallazgos.
+-	Analítica ampliada: Sodi 140 mmol/L ( 136 - 145 ) Potassi 6,01 mmol/L ( 3,50 - 5,10 ) Calci 2,08 mmol/L (
+2,15 - 2,55 ) 8,32 mg/100mL Fosfat 1,11 mmol/L ( 0,87 - 1,45 ) 3,44 mg/100mL Urea 11,3 mmol/L ( 2,1 - 7,1
+) 68 mg/100mL Creatinina 129 µmol/L ( 0 - 80 ) 1,46 mg/100mL Bilirubina total 8 µmol/L (< 17) 0,44
+mg/100mL Triglicèrids 1,94 mmol/L (< 1.65) 171,69 mg/100mL Colesterol  3,75 mmol/L (< 6.2) 145,13
+mg/100mL AST (GOT) 34 U/L ( 0 - 31 ) ALT (GPT) 40 U/L ( 0 - 31 ) Fosfatasa alcalina 57 U/L ( 35 - 110 )
+GGT 15 U/L ( 0 - 43 ) Proteïna total 54,4 g/L ( 64,0 - 83,0 ) Albúmina 32,7 g/L ( 34,0 - 48,0 ) LÍPIDS
+Colesterol HDL 1,19 mmol/L ( 1,00 - 1,70 ) 46,05 mg/100mL Colesterol LDL 1,67 mmol/L ( 1,81 - 4,13 )
+64,47 mg/100mL Colesterol VLDL 0,89 mmol/L ( 0,00 - 0,63 ) 34,60 mg/100mL Homocisteïna 11,92 µmol/L ( 0,00 - 14,40 ) HIV 1 i 2 (CMIA) Negatiu Prova treponèmica (MEIA) 0,02 (Negatiu) Hemoglobina 117 g/L ( 120 - 150 ) Hematòcrit 0,38 L/L ( 0,35 - 0,45 ) Hematies 4,59 x10E12/L ( 3,90 - 5,00 ) VCM 82,8 fL ( 80,0 -
+98,0 ) CCMH 308 g/L ( 320 - 360 ) HCM 25,5 pg ( 27,0 - 32,0 ) RDW 13,7 % ( 12,0 - 15,0 ) Plaquetes 343
+x10E9/L ( 140 - 350 ) VPM 8,1 fL ( 7,0 - 10,5 ) Plaquetòcrit 0,40 % Leucòcits 14,32 x10E9/L ( 3,80 - 11,00 )
+Velocitat de sedimentació globular (VSG) 9 mm/hora ( 1 - 15 ) Vitamina B12 208 pmol/L ( 150 - 650 ) Folat sèric 19,5 nmol/L ( 7,0 - 45,0 ) Hb glicosilada (HbA1c) 5,6 % ( 4,6 - 5,8 ) Temps de tromboplastina 0,78 RATIO ( 0,75 - 1,30 ) Temps de protrombina 1,07 INR ( 0,75 - 1,20 ) Temps de trombina 22,90 s ( 17,00 - 24,00 ) Anticoagulant lúpic (T.de Sílica) 3,02 (Positiu) RATIO Anticoagulant lúpic (T.de Russell) Negatiu <
+1.1 Plaquetes 343 x10E9/L ( 140 - 350 ) Factor Reumatoide 102,00 UI/mL (<20)Ac. antinuclears i citoplasmàtics Negatiu Ac. anti-triple teixit (AMA, AML, AMG), sèrum Ac. antimitocondrials Negatiu (<1/80)
+Ac. antimucosa gàstrica Negatiu (<1/80) Ac. antimúscul llis Negatiu (<1/80)
+-	RM cerebral: Se obtiene un estudio convencional, MRangiografia intracraneal 3DTOF y estudio de perfusion ASL, sin y con bloqueo arterial selectivo. Se observa la lesion isquémica establecida insular izda que muestra un aumento de metabolismo (CBF) en el mapa de ASL. No hay componente hemorrágico asociado, ni necrosis cortical laminar. Existe vacio de señal y asi permeabilidad de la ACM Izda, y en especial, del segmento M1 izdo. La MRAngiografia intracraneal no muestra anomalias relevantes. Se observa tambien la zona de hemorragia intra/periventricular en relacion con el trigono/asta occipital del ventriculo lateral D, presumiblemente de origen venoso, y la hiperseñal en T2 alrededor de esta porcion ventricular. Adicionalmente, se observan varios focos de hiperseñal, inespecificos, en la sustancia blanca cerebral, sobre todo en localizacion subcortical, que son inespecificos, pero sugestivos de  afectacion microangiopatica, incluso inflamatoria/autoinmune (vasculitica). No hay microsangrados. Conclusiónes: 1) Lesion isquemica subaguda/establecida insular izda, en territorio de ACM Izda, que muestra un aumento del flujo/metabolismo en ASL, lo cual sugiere hiperperfusion por colaterales/perfusion de lujo. 2) Hallazgos sugestivos de microangiopatia cerebral, sin poderse descartar etiopatogenia inflamatoria/autoinmune. 3) Sangrado intraventricular/ependimario D posterior. 4) No hay alteraciones arteriales intracraneales relevantes.
+-	Ecografía transesofágica: ventricle esquerre no dilatat amb hipertrofia concèntrica important i volums reduïts. Reducció de l'escurçament longitudinal amb contractilitat radial hiperdinàmica. Lleuger SAM de cordes amb molt lleugera obstrucció al fluxe ejectiu. Vàlvula mitral morfològicament normal. Regurgitació central lleugera a moderada. Vàlvula àortica normofuncionant. Aurícula esquerra de mida en el límit superior de la normalitat. Ventricle dret normofuncionant. IT secundaria molt lleugera. No hi ha embasasment pericàrdic. ETE: no s'observen trombus ni masses intracardíaques. Es descarta FOP amb injecció de sèrum salí agitat + Valsalva. Aorta toràcica descendent i arc aòrtic normals. OD: miocardiopatia infiltrativa vs. hipertròfica. Donats els antecedents clínics cal descartar una malaltia de Fabry. Aconsello completar estudi per CardioRM.
+
+EVOLUCIÓN
+A su llegada a urgencias a las 12.56h la paciente se encuentra hemodinámicamente estable y afebril. Ctes: TA de 135/87, glicemia 139, INR 0.9, FC 95 lpm. ECG en ritmo sinusal. Se realiza TC cerbral urgente (12.59h) en el que no se aprecian signos incipientes de isquemia. Hiperdensidad de ACM izquierda y AngioTC que confirma oclusión de M1 izquierda.
+
+Dado el tiempo de evolución, la presencia de oclusión intracraneal y la ausencia de contraindicaciones se inicia tratamiento de reperfusión con rTPA+trombectomia mecánica. A las 13:25 se inicia bolus rTPA (5mg bolus y 45mg perfusión). Tiempo puerta-ahuja de 29 minutos. La paciente es trasladada a sala de arteriografías. Punción femoral a las 14:05 (puerta-punción de 69 minutos y TC-punción de 66 minutos). Tras un pase se consigue recanalización completa TICI 3 a las 14:12.
+
+
+Posteriormente al procedimiento mejoría clínica significativa pasando a NIHSS de 0+0+0+0+0+0+(0+0)+(9+0)+0+0+1+0+0=1 (+eve debilidad distal brazo derecho + pierna no valorable en el momento actual por vendaje compresivo). Se realiza TC craneal de control que no muestra lesión isquémica establecida pero si hemorrágia intraventricular derecha. Se decide ingreso en unidad de ictus para manejo y estudio etiológico del episodio.
+
+En unidad de ictus se realiza test de disfágia con buena tolerancia, por lo que se inicia dieta oral. No se solicitó valoración por rehabilitación por la ausiencia de déficitis susceptible de la misma. Como incidencias a destacar, durante su estancia experimentó dolor glúteo bilateral orientado como mecánico en contexto postural y con buena respuesta a analgesia de primer escalón, además de episodio de palpitaciones, disnea y dolor torácico con taquicardia sinusal en electrocardiograma durante el evento. Así mismo, a raíz de dolor inguinal se objetivó fístula arteriovenosa de bajo débito evaluada por el servicio de Cir. Vascular y por la que deberá seguir un control ambulatorio.
+
+De cara a completar el estudio se realizó RM cerebral que reveló lesión isquémica establecida en territorio insular izquierdo, además de ecocardiograma transesofágico con hallazgos que establecen el diferencial entre miocardiopatía hipertrófica vs infiltrativa. Fue valorada por el servicio de Cardiología que establecerá un seguimiento tras la realización de un Holter y una cardiorresonancia ambulatoriamente; dados sus antecedentes y la imagen evidenciada se solicitó estudio de enf. de Fabry.
+
+En resumen, se trata de una mujer de 39 años cuyo principal antecedente es una glomerulonefritis IgA con requerimiento de trasplante renal que por un ictus isquémico en territorio de la ACM izquierda de mecanismo embólico en contexto de trombofilia (ac. lúpico positivo) como primera posibilidad diagnóstica por el que recibió tratamiento reperfusor endovenoso y mediante trombectomía endovascular con recuperación ad integrum. Se inició anticoagulación con heparina de bajo peso molecular, quedando pendiente el paso a anticoagulación oral en el momento del alta. Tras el alta deberá continuar con un seguimiento ambulatorio según las recomendaciones más adelante recogidas. Al alta NIHSS = 0, mRS 0.
+
+PROCEDIMENTOS
+-	Analítica.
+-	ECG.
+-	TC craneal + AngioTC.
+-	Ecografía transesofágica.
+-	RMN craneal.
+
+
+DIAGNÓSTICOS
+-	Infarto  isquémico  insular  izquierdo  (territorio  de  ACM  izquierda)  de  mecanismo embólico en  probable contexto de trombofilia (ac. lúpico).
+-	Taquicardiasupraventricular episódica a estudio.
+-	Miocardiopatía a estudio.
+
+
+RECOMENDACIONES AL ALTA
+-	Mantener tratamiento médico habitual con las siguientes modificaciones:
+- Hibor y sintrom según pauta adjunta de paso.
+
+-	Acudir a cita en Hemostasia para ajuste de tratamiento de sintrom.
+-	Visita en CEx de Hematología para estudio y seguimiento (aviso telefónico).
+-	Visita en CEx de Cir. Vascular de control (aviso telefónico).
+-	Realización   ambulatoria  de  Holter   y  cardiorresonancia   magnética  para  estudio  de  sospecha   de miocardiopatía (aviso telefónico).
+-	Visita en CEx de Cardiología - Miocardiopatías para estudio y seguimiento (aviso telefónico).
+-	Visita en CEx de Neurología de control (Dr. _NAME_) según cita adjunta.
+
+
+Responsable clínic: Dr. _NAME_ (NºCol. _ID_)
+Equip mèdic: Dr. _NAME_  (NºCol.  _ID_), Dra. _NAME_ (NºCol.  _ID_), _NAME_ (NºCol. _ID_)
+
+Servei que ha donat d'alta:
+NEUROLOGIA HOSP	Data d'alta:
+23.03.2017	Nom del metge que informa de l'alta:
+Dr. _NAME_ (NºCol. _ID_)
+
+
+_LOCATION_, 23.03.2017
+Pàg. 1 de   6

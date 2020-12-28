@@ -1,0 +1,71 @@
+INFORME ALTA HOSPITALARIA
+_NAME_
+Núm. Episodi: _ID_ Núm. HC: _ID_
+_SS_ _LOCATION_
+_LOCATION_
+Tel. _CONTACT_Adreça: _LOCATION_	C.A.P.: CAP _SS_
+Població: _LOCATION_	Sexe: HOME  Data naixement: _DATE_  Edat: 70a
+Telèfon: _CONTACT_  C.P.: _LOCATION_	T.I.S.: _ID_  DNI/NIF: _ID_
+
+Procedència:	Data Ingrés Hospital: 04/05/2017
+Servei assistencial: NEUROLOGIA HOSP	Data Ingrés Servei: 05/05/2017
+Metge Responsable: _NAME_	Data Alta: 9/5/2017
+
+
+Paciente que ingresa por disminución del nivel de conciencia y probable focalidad neurologica.
+
+ANTECEDENTS PERSONALS:
+1.	Dislipemia.
+2.	Insuficiencia cardiaca de debut en 3/2016. El ecocardiograma mostró: cardiopatia isquémica con disfunción ventricularligera-moderada, acinesia inferior y inferolateral basal, doble lesión aórtica con EAo ligera e IAo moderada. Un cateterismocardíaco mostró enfermedad coronaria severa de 3 vasos, con DA severamente calcificada con lesión en tándem del 80%,Cx con lesión moderada ostial del 60% y distal significativa del 80%, CD con CTO a nivel medio. Se consideró tributario derevascularización percutanea la DA y CX implantándose un stent farmacoactivo en DA y en CX. La CTO de la CD demomento se consideró tributaria de tratamiento médico. Ultima visita en CCEE de Cardiología (Dra._NAME_) en 6/2016.
+3.	Tambien sigue controles con UFC.
+4.	Fibrilación auricular paroxística.
+5.	Enfermedad renal crónica estadío III. Hipocalcemia secundaria a hipovitaminosis D que motivó un ingreso en 6/2016.Controles Dra. _NAME_.
+6.	EPOC tipo bronquitis crónica. PFR (7/2016): FVC 2.4 (65, FEV1 1.56 (58%), FEV1/FVC 65%, PBD +/- FEV1  (+10%)64%.
+7.	Hiperuricemia sintomática.
+8.	TVP vena femoral común y vena femoral superficial en 10/2015. Nuevo episodio TVP vena poplítea en 4/2016, estandocon sintrom pero con controles erráticos. Hiperhomocisteinemia. Actualmente bajo tratamiento con ribaroxavan.HDA el 5/2016 en el contexto de hiperdescoagulación. Se realzó FGS que mostró epitelio de Barret (segmento corto);hernia de hiato con mucosa preservada sin signos de sangrado. Se trasfundió 1 CH y se administró hierro ev.
+9.	Claudicación intermitente. Ausencia de pulso radial derecho. Valoración 2011 por Cirugía Vascular.
+10.	Lumbociatalgia, controles anuales en Neurocirugía. Consta RM de 2015.
+11.	IQ fístula anal a los 40 años, asintomático hasta la actualidad. Barthel 90, mRS 2, cognitivamente preservado. Deambula con bastón
+Trataminetyos habituals: Xarelto: AAS, Hemovas, spiriva, procorolan simvastatina, parcetamol, calecetin pantecta, furosemida, alopurinol, mastical
+
+MALALTIA ACTUAL:
+Paciente que ingresa procedente de UCIES por coma.En el momento del ingreso el paciente se muestra en glasgow 14, pupilas isocoricas normoreactivas, a pesar de presentarbuena mobilidad de las 4 extremidades parece presentar negligencia derecha que remite de forma espontanea. Durante elingreso el paciente pasa a mostrar glasgow 15 sin otra  manifestación  neurológica.Hemodinamicamente  ha  precisado  drogas vasoactivas que se han podido retirar por buena evolución. Diuresis espontaneaen botella. Afebril.Respiratoriamente se muestra eupneico sin precisar O2 extra.
+Dieta bien tolerada.Sedestación en sillón bien tolerada.Continente tanto urinaria como fecal.Tras buena evolución se decide alta a planta.
+
+EXPLORACIÓ FÍSICA:
+
+Cy O en TEP, no alteración de habla ni lenguaje, PPICNR, PPCC N, sin deficit motor ni sensitivo, RCP flexor bilateral, NIHSS 0.
+
+EXPLORACIONS COMPLEMENTÀRIES:
+Bioquímica: VSG: Hemograma: Temps de Tromboplastina parcial (s) *25.9 , Hemoglobina *11.9 g/dL, Neutròfils % *84.2 %, Monòcits % *6.3 %, Eosinòfils % *0.1 %, Neutròfils *12.10 x1E9/L, Eosinòfils *0.02 x1E9/L, Basòfils *0.02 x1E9/L, Glucosa basal *113.7 mg/dL, Aspartat aminotransferasa (AST) *18.6 (UI/L) U/L, Bilirrubina total *0.2 mg/dL, Fosfatasa alcalina *38.4 U/L, Albumina *3.2 g/dL, Potassi *4.2 (mEq/L) mmol/L, FG Home Crea alta *64.28 , Temps de Protrombina (%) *93 , Temps de Protrombina (INR) *1.1 , Temps de protrombina (rati) *1.05 , Temps de Tromboplastina parcial (rati) *0.84 , Clorur *104.8 (mEq/L) mmol/L, Hematies *3.26 x1E12/L, Hematocrit *34.6 %, Volum eritrocitari mitja (VCM) *106.1 fL, Hemoglobina eritrocitari mitja (HCM) *36.5 pg/cel, Conc. hemoglobina eritrocitaria mitja *34.4 g/dL, C.V. Volum eritrocitari (RDW) *15.7 %, Leucocits *14.38 x1E9/L, Limfòcits % *9.3 %, Basòfils % *0.1 %, Limfòcits *1.34 x1E9/L, Monòcits *0.90 x1E9/L, Plaquetes *276 x1E9/L, Volum plaquetari mitja (VPM) *10.1 fL, Urea *55.1 mg/dL, Creatinina *1.2 mg/dL, Alanina aminotransferasa (ALT) *13.8 U/L, Gamma- glutamiltransferasa (GGT) *38.4 U/L, Sodi *143.0 (mEq/L) mmol/
+
+RM crani: Examen RM cranial amb seqüències potenciades en T1, T2 / DP, GE, FLAIR, DIFUSIÓ iADC en els tres plans de l'espai. S'administra contrast paramagnètic endovenós.
+Estudi molt artefactat pels moviments del pacient.Absència de desplaçaments d'estructures de la línia mitja supra i infratentorials.Cisternes basals i perimesencèfaliques lliures.Dilatació del sistema ventricular, valls silvians i solcs corticals de la convexitat per atr òfiacórtico-subcortical global.Atròfia cerebel·losa i del cos callós.Alteració de senyal de la substància blanca periventricular per leucoencefalopatiahipòxico-isquèmica de petit vas. S'observen múltiples focus d'alteració de senyal asubstància blanca subcortical fronto-parietal bilateral d'aspecte hipòxic-isquèmic crònic.No s'observen àreas de restricció de la difusió que indiquin infart agut.
+Petita àrea encefalomalàcica cortico-subcortical perieto-occipital dreta d'aspectehipòxic-isquèmic.Infarts llacunars capsulo-lenticulars bilaterals.No s'observa realç patològic de contrast.
+Unió	crànio-cervical	sense	anomalies	valorables.Ocupació	de	cel·les	mastoïdals.Nòdul	subcutani laterocervical esquerre de 13 mm sense realç de contrast, indeterminat.
+
+EVOLUCIÓ:
+GCS 15, NIHSS 0, Barthel 80, mRS2. No se objetiva patologia neurologica aguda. Se decide alta a domicilio. Se decide cambio a dabigatran dado probable nueva focalidad transitoria. CHA2DS2-Vasc 5, Has-Bled 5.
+
+JUDICI CLÍNIC:
+Disminución del nivell de consciencia Malaltia cerebrovascular 434.11
+
+
+TRACTAMENT:
+Stop Xarelto Stop Hemovas
+Pradaxa 150mg/12h recomendamos control f.renal ambulatoria en 6 meses Resto medicación habitual
+Control medicos habituales
+
+
+Atentament,
+
+
+
+
+Signat:
+Dr/a.: _NAME_
+Metge adjunt - Neurologia Número col·legiat: _ID_
+
+Hospitalització
+Imprès: 09/05/2017 15:13
+Pàg.: 1 de  2

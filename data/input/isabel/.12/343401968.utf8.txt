@@ -1,0 +1,236 @@
+
+
+
+
+
+Informe d'Alta Hospitalària	Cognoms i nom:
+_NAME_	NHC:
+_ID_
+	ABS:
+_SS_	CIP:
+_ID_	DNI:
+_ID_
+	Data de naixement:
+_DATE_	Sexe:
+Dona	Edat:
+83a	Telèfon:
+_CONTACT_
+	Finançament:
+CatSalut - _LOCATION_	Procedència:
+URGÈNCIES
+	Admissió:
+18.02.2017 - 11:26	Servei:
+NEURO - UNITAT ICTUS HOSP	Data entrada urg.:
+18.02.2017 - 09:36
+Adreça:
+_LOCATION_	Població:
+_LOCATION_	Codi Postal:
+_LOCATION_
+
+
+
+Motivo ingreso:
+Mujer de 83 años ingresa por ictus en territorio carotídeo izquierdo.
+
+
+ANTECEDENTES
+-	Dudosa alergia al contraste.
+-	Hábitos tóxicos: niega tabaco o enol.
+-	Factores de riesgo cardiovascular: diabetes tipo 2 insulinodependiente, hipertensión en tratamiento médico, niega dislipemia.
+-	Fibrilación auricular diagnosticada en 2007 anticoagulada con sintrom. Malos controles recientes.
+-	Insuficiencia cardíaca con descompensación en Enero 2017 e ingreso en UEC en contexto de infección respiratoria y FVM rápida.
+* Ecocardiografía 04/2016: Ventrículo izquierdo no dilatado con hipertrofia septal de grado moderada (sin evidencia de obstrucción en el TSVI). Contractilidad global aparentemente conservada. Patrón diastólico compatible con alteración de la relajación del VI. Aurícula izquierda ligeramente dilatada. V. Mitral con insuficiencia ligera-moderada. Insuficiencia tricuspídea ligera que permite estimar un gradiente AD-VD de 21 mmHg.
+-	Sd. depresivo en tratamiento médico.
+-	Medicación habitual: Sintrom sp, fluoxetina 20 mg/d, amiodarona 200 mg/dia, telmisartan/HCTZ 80/25 mg, Lantus 0-0-12.
+-	Situación sociofuncional: Vive con su hija. Mantiene FFSS conservadas, es autónoma. Se desplaza con bastón para salir a la calle, sale sola. En casa se desplaza sin bastón. No necesita ayuda para actividades básicas ni instrumentales (mRS 2).
+
+ENFERMEDAD ACTUAL
+Mujer de 83 años que el 18/08/2017, tras levantarse para ir al baño a las 8:00 asintomática, presentó debilidad súbita en el brazo derecho, por lo que contactó con el SEM y se activó código ictus extrahospitalario. Llegó al hospital a las 9:36h.
+
+EXPLORACIÓN FÍSICA
+A su llegada a urgencias
+-	Se encuentra hemodinámicamente estable y afebril, con tendencia a la HTA.
+-	TA 198/94mmHg, Fr 18, Fc 99 lpm, sat 97% al aire 35,8ºC. INR 1,1, Glicemia 130mg/dl
+-	Vigil, orientada en las tres esferas. Comprende, nomina, repite sin dificultad.
+-	Disartria leve.
+-	MOE correcta, campimetría por confrontación normal.
+
+
+
+-	Paresia facial central derecha
+-	V s-m correcto.
+-	Pares correctos normales.
+-	Paresia braquial derecha 2/5.
+-	Dudosa paresia crural, con RCP flexor bilateral.
+-	No hipoestesia.
+-	Coordinación correcta.
+-	NIHSS = 0.0.0.0.0/1.(0.2).(0.0)/ 0.0.0.1.0 = 4.
+
+En Urgencias a las 11h
+-	Vigil, desorientada.
+-	Afasia mixta, comprende  órdenes sencillas y semicomplejas  pero se intoxica,  no obecede complejas.
+Nomina 2/4, repite algunas palabras, ecolalia. Disartria moderada.
+-	HHD por amenaza. MOEs sin limitaciones.
+-	Parálisis facial central derecha.
+-	Paresia braquial (próximal 3/5, distal 1/5) y crural (3/5) derechas.
+-	NIHSS = 0.2.0.0.2/2(2.0)(2.0)/0.0.2.1.0 = 13.
+
+En Unidad de ictus
+-	Vigil, orientada en las tres esferas.
+-	Afasia mixta con anomia, comprende órdenes simples	y alguna semicompleja. Repetición preservada hasta frases cortas. Ecolalia.
+-	Sin rasgos disártricos.
+-	Paresia facial central derecha leve.
+-	MOE correcta, campimetría por confrontación normal.
+-	Resto de pares craneales normales.
+-	Paresia braquio-crural derecha 4/5.
+-	RCP flexor bilateral
+-	Sin alteraciones de la sensibilidad.
+-	Sin dismetrías.
+-	NIHSS: 0.2.0.0.0/1.(1.0).(1.0)/ 0.0.2.0.0 = 7
+
+En sala de Neurología
+-	Vigil, orientada en persona, espacio y parcialmente en tiempo  (sí mes). Atenta, colaboradora.  Facies hipomímica.
+-	Lenguaje hipofluente con bloqueos y alguna parafasia fonémica. Repite frases largas, obedece órdenes sencillas y algunas de dos comandos, nomina 5/5.
+-	Apraxia de conducción e ideatoria.
+-	MOEs no limitados. Campimetría sin alteraciones. Sin nistagmus.
+-	Sin asimetrías faciales. Trigémino s-m sin alteraciones. PPCC bajos sin alteraciones.
+-	Paresia braquial derecha de predominio distal (4/5).
+-	Sin alteraciones a la exploración sensitiva.
+
+-	Sin dismetrías.
+-	Sin extinciones o agnosias.
+-	NIHSS = 0.0.0.0.0/0.(0.0).(0.0)/0.0.1.0.0 = 1.
+
+
+EXPLORACIONES COMPLEMENTARIAS
+-	Electrocardiograma: fibrilación auricular a 110lpm.
+-	Analítica urgencias: Sodi 138 mmol/L ( 136 - 145 ) Potassi 3,96 mmol/L ( 3,50 - 5,10 ) Glucosa 6,5 mmol/L
+( 3,0 - 6,0 ) 117,00 mg/100mL Urea 11,0 mmol/L ( 2,9 - 8,2 ) 66 mg/100mL Creatinina 113 µmol/L ( 0 - 80 )
+1,28 mg/100mL AST (GOT) 42 U/L ( 0 - 31 ) ALT (GPT) 40 U/L ( 0 - 31 ) Hemoglobina 122 g/L ( 120 - 150 )
+Hematòcrit 0,38 L/L ( 0,35 - 0,45 ) Hematies 4,75 x10E12/L ( 3,90 - 5,00 ) VCM 79,6 fL ( 80,0 - 98,0 ) CCMH
+323 g/L ( 320 - 360 ) HCM 25,7 pg ( 27,0 - 32,0 ) RDW 14,8 % ( 12,0 - 15,0 ) Plaquetes 318 x10E9/L ( 140 -
+350 ) VPM 9,0 fL ( 7,0 - 10,5 ) Plaquetòcrit 0,40 % Leucòcits 13,51 x10E9/L ( 3,80 - 11,00 ) Fórmula leucocitària Neutròfils 87,3 % Neutròfils absoluts 11,79 x10E9/L ( 1,80 - 7,00 ) Eosinòfils 1,8 % Eosinòfils absoluts 0,24 x10E9/L ( 0,05 - 0,50 ) Basòfils 0,6 % Basòfils absoluts 0,08 x10E9/L ( 0,00 - 0,10 ) Monòcits
+4,4 % Monòcits absoluts 0,60 x10E9/L ( 0,30 - 1,00 ) Limfòcits 5,9 % Limfòcits absoluts 0,80 x10E9/L ( 1,00
+- 4,00 ) HEMOSTÀSIA Temps de tromboplastina 0,92 RATIO ( 0,75 - 1,30 ) Temps de protrombina 1,16 INR ( 0,75 - 1,20 ) Temps de trombina 19,60 s ( 17,00 - 24,00).
+-	Radiografía torácica: ICT >0.5, signos de redistribución vascular. Senos costofrénicos libres. Similar a previas.
+-	TC craneal urgencias: lesiones encefalomalácicas de probable origen isquémico ya antiguas en parénquima occipitoparietal derecho y occipitotemporal medial izquierdo. Pequeño foco de borramiento cortical parietal izquierdo que podría ser antiguo, coincidiendo con pequeña área también encefaloamalácica de predominio subcortical. Destaca una hiperdensidad segmentaria en ACI supraclinoidea izquierda. Extensas calcificaciones en segmentos cavernosos de ambas ACIs, destacando una hiperdensidad asimétrica también en el segmento intrapetroso y cervical distal de ACI izquierda. Sin hemorragia aguda ni isquemia aguda visible, tampoco signos de edema parenquimatoso. Signos de microangiopatía en sustancia blanca cerebral con focos parcialmente confluentes de hipodensidad. Dilataciones perivasculares en regiones perforantes gangliobasales entre los que podría existir algún pequeño infarto lacunar.
+-	Angio TC: (se pospone por posible alergia al contraste yodado). Ausencia de contraste en ACC, ACI y ACE izquierdas; destaca la ausencia de colateralidad significativa por TC particularmente en territorio de externa, la falta de adelgazamiento vascular y la existencia de permeabilidad en el origen de ACC, sin signos de ateromatosis significativa en su origen. Existe permeabilidad de ACM izquierda y ACA izquierda por colateralidad por CoA. Impresión diagnóstica gobal: A nivel parenquimatoso no se aprecian claras lesiones isquémicas agudas (ASPECTS 10), con dudas de cronicidad de  una pequeña lesión cortical parietal izquierda. Hiperdensidad segmentaria en ACI supraclinoidea izquierda con permeabilidad de ACM y ACA por colateralidad de Willis anterior. Ausencia de contraste ev en sectores carotideos izquierdos, incluyendo ACC, con hallazgos angiográficos atípicos para una oclusión crónica, planteando la posibilidad de oclusión aguda. Infartos antiguos territoriales supratentoriales y signos de microangiopatía.
+-	TC craneal en Urgencias tras empeoramiento: en este estudio queda mejor visualizada una pequeña lesión  cortical  parietal  izquierda,  con  dudas  de  que  pueda  existir  un  mínimo  borramiento  cortical
+
+
+temporoinsular izquierdo.  No se aprecian signos de hemorragia ni compromiso de linea media. En relación a la hiperdensidad de ACI supraclinoidea izquierda no es valorable (presencia de contraste ev). Conclusión: respecto a la TC previa se aprecia una pequeña lesión cortical parietal izquierda, con dudas de leve borramiento cortical temporoinsular izquierdo (ASPECTS>7).
+-	Angiografía diagnóstico-terapéutica: se realiza punción femoral derecha. Se realiza cateterización selectiva y la primera serie angiográfica confirma la presencia de una oclusión a nivel de ambas carótidas interna y externa izquierdas. Se procede a realizar aspiración directa desde el introductor y desde el catéter sofía 5F extrayéndose gran catidad de trombo. Al persistir trombo en ICA distal se procede al microcateterismo selectivo de arteria ocluida logrando una adecuada posición para realizar trombectomía con stentretriever realizandose 4 pases. En la serie de comprobación final se confirma recanalización TICI 2b. No se detectan incidencias durante ni inmediatamente tras el procedimiento. Se realiza cierre del punto de punción femoral derecho mediante cierre mecánico tipo Proglide y vendaje compresivo el cual deberá permanecer por 24 horas, debiendo el paciente mantener inmóvil el miembro inferior derecho por 12 horas siguientes al procedimiento. Tiempos: entrada a sala: 13:10 h Punción femoral: 13.15 Ultima serie: 14:10 Cierre femoral: 14:15
+-	TC craneal a las 12h: Aparición de una hiperdensidad en el área de infarto de convexidad parietal izquierda que podría estar más en relación a la presencia de contraste yodado que a hemorragia, a valorar evolutivamente. Pequeña área de borramiento cortical en el parénquima frontal perisilviano izquierdo y en región insular que podrían corresponder a áreas isquémicas, poco definidas, con una área de ingurgitación parenquimatosa frontal izquierda sin borramiento cortical. No se aprecia compromiso de linea media ni ventricular. Resolución de la hiperdensidad de ACI. Conclusión: hiperdensidad en el área isquémica parietal izquierda que podría estar más en relación a presencia de contraste yodado que a hemorragia y que debe valorarse evolutivamente; área de ingurgitación parenquimatosa frontal izquierda con sospecha de pequeñas áreas de isquemia en convexidad frontal perisilviana izquierda e insular izquierda, poco definidas.
+-	TC craneal control 24h: Respecto al estudio de ayer quedan mejor definidas pequeñas lesiones isquémicas en la convexidad frontal, posterocentral, temporo-occipital y mínima insular izquierdas, persistiendo todavía áreas de leve ingurgitación parenquimatosa sin una hipodensidad definida. En relación a la lesión isquémica parietal izquierda presenta una menor  hiperdensidad en relación a lavado del contraste yodado. No se aprecia compromiso de linea media ni del drenaje ventricular. CONCLUSION: TC de control en la que se quedan mejor definidas pequeñas áreas de infarto de distribución parcheada por territorio superficial de ACM izquierda que en conjunto no condicionan compromiso sobre linea media, persistiendo todavía ingurgitación parenquimatosa.
+-	RM craneal: se identifican varios focos de aspecto isquémicosubagudo en terriotrio carotídeo I. El de mayor tamaño parietal izquierdo con extensión cortical y signos de sufusión hemorragiaca cortical con contaminación usbaracnoidea sin efecto de masa. Además se observan algunos peuqeños focos isquémicos con extesión cortical parietal próximo a la convexidad, frontales I, insular y temporal posterior I, asi como en corona radiada I, algunas de estas lesiones muestran signos de sufusión hemorrágica en seceuncias de suceptibilidad. Lesión de aspecto cronico con extensión cortical occipital y temporo-occipital medial izquierdas (territorio ACP vs frontera ACM/ACP) y occipital D (ACP D). Ademas se observa múltiples focos puntiformes de hiperseñal en sustancia blanca subcortical y periventricular de aspecto vascular crónico de pequeño vaso en grado moderado. No se observan otros focos de sangrado o microsangrado ni otras alteraciones relevantes de señal o de morfología en el parenquima cerebral. Sistema ventricular de
+
+tamaño y morfología conservados. Linea media centrada.El estudio angio-RM 3D-TOF intracraneal no muestra oclusión vascular ni estenosis relevantes. Conclusión: múltiples lesiones de aspecto isquémico subagudo en territorio carotideo izquierdo con las características descritas de probable etiología embólica, sin poder descartar cierto componente hemodinámico de las lesiones de corona radiada I. La de mayor tamaño parietal izquierda con sufusión hemorrágica sin efecto de masa y otras de menor tamaño pero también con extensión cortical en territorio superficial de la ACM I (ver informe). El estudio angio-RM TOF intracraneal no muestra alteraciones relevantes.
+- Analítica sanguínea de control: Sodi 136 mmol/L ( 136 - 145 ) Potassi 3,88 mmol/L ( 3,50 - 5,10 ) Glucosa 5,9 mmol/L ( 3,0 - 6,0 ) 106,20 mg/100mL Urea 5,6 mmol/L ( 2,9 - 8,2 ) 34 mg/100mL Creatinina 83 µmol/L (
+0 - 80 ) 0,94 mg/100mL Filtrat glomerular estimat 56,12 mL/min/1.73m2 AST (GOT) 19 U/L ( 0 - 31 ) ALT
+(GPT) 23 U/L ( 0 - 31 ) Hemoglobina 83 g/L ( 120 - 150 ) Hematòcrit 0,26 L/L ( 0,35 - 0,45 ) Hematies 3,26
+x10E12/L ( 3,90 - 5,00 ) VCM 78,5 fL ( 80,0 - 98,0 ) CCMH 324 g/L ( 320 - 360 ) HCM 25,5 pg ( 27,0 - 32,0 )
+RDW 15,4 % ( 12,0 - 15,0 ) Plaquetes 259 x10E9/L ( 140 - 350 ) VPM 8,5 fL ( 7,0 - 10,5 ) Plaquetòcrit 0,30
+% Leucòcits 9,73 x10E9/L ( 3,80 - 11,00 ) Neutròfils 79,8 % Neutròfils absoluts 7,76 x10E9/L ( 1,80 - 7,00 )
+Eosinòfils 3,2 % Eosinòfils absoluts 0,31 x10E9/L ( 0,05 - 0,50 ) Basòfils 0,8 % Basòfils absoluts 0,08
+x10E9/L ( 0,00 - 0,10 ) Monòcits 7,5 % Monòcits absoluts 0,73 x10E9/L ( 0,30 - 1,00 ) Limfòcits 8,7 % Limfòcits absoluts 0,85 x10E9/L ( 1,00 - 4,00 ) Temps de tromboplastina 0,90 RATIO ( 0,75 - 1,30 ) Temps de protrombina 1,27 INR ( 0,75 - 1,20 ) Temps de trombina 22,10 s ( 17,00 - 24,00)
+-	TC abdominal: no s'observen hematomes ni cap signe de sagnat actiu en la regió estudiada. No s'observa embassament pleural ni pericardíac. Moderada cardiomegàlia global. Ateromatosi calcificada generalitzada de les parets arterials en grau moderat. Es demostra la permeabilitat de tots els troncs viscerals de l'aorta abdominal i també dels eixos arterials ilio-femorals en la regió estudiada. Canvis post-quirúrgics: colecistectomia. Lleugera dilatació generalitzada de la via biliar  intrahepàtica i extrahepàtica, troballa probablement atribuïble a l'antecedent de colecistectomia. Fetge amb discreta atròfia del lòbul esquerre. No s'observen lesions focals hepàtiques. Melsa i pàncrees normals. Suprarenals normals. Ronyons amb parènquima conservat. Presència d'una àrea de cicatriu parenquimàtica al pol superior del ronyó dret i d'alguns quistes corticals. Destaca l'existència d'un gran quist cortical d'uns 13 cm de diàmetre màxim localitzat al pol inferior del ronyó esquerre. Vies urinàries no dilatades. Bufeta urinària sense lesions. Estómac notablement replecionat (situació post-prandial). Nanses de budell peim sense alteracions. Apèndix cecal normal.No s'observen alteracions rellevants del tracte gastro-intestinal. Lesió quística de 38 mm de diàmetre màxim, de parets fines, situada a la regió annexal esquerra, amb aspecte suggestiu de benignitat. Probablement es tracta d'un cistadenoma ovàric esquerre. També s'observa una petita lesió quística annexal dreta de les mateixes característiques i de 19 mm de diàmetre. El diagnòstic més probable també és el de cistadenoma ovàric. Petita hèrnia umbilical. Signes suggestius d'osteoporosi amb lleugera pèrdua d'alçada dels cossos vertebrals T12 i L1. La resta de l'estudi no presenta alteracions significatives. Conclusió: No s'observen hematomes ni cap signe de sagnat actiu en la regió estudiada.
+-	Analítica sanguínea de control: Sodi 138 mmol/L ( 136 - 145 ) Potassi 4,05 mmol/L ( 3,50 - 5,10 ) Glucosa 5,5 mmol/L ( 3,0 - 6,0 ) 99,00 mg/100mL Urea 4,7 mmol/L ( 2,9 - 8,2 ) 28 mg/100mL Creatinina 87 µmol/L (
+0 - 80 ) 0,98 mg/100mL Filtrat glomerular estimat 53,32 mL/min/1.73m2 Bilirubina total 10 µmol/L (< 17)
+0,59 mg/100mL Triglicèrids 1,31 mmol/L (< 1.65) 115,94 mg/100mL Colesterol 4,10 mmol/L (< 6.2) 158,67
+mg/100mL AST (GOT) 21 U/L ( 0 - 31 ) ALT (GPT) 20 U/L ( 0 - 31 ) Fosfatasa alcalina 134 U/L ( 35 - 110 )
+GGT 85 U/L ( 0 - 43 ) Colesterol HDL 1,28 mmol/L ( 1,00 - 1,70 ) 49,54 mg/100mL Colesterol LDL 2,22
+
+
+mmol/L ( 1,81 - 4,13 ) 85,77 mg/100mL Colesterol VLDL 0,60 mmol/L ( 0,00 - 0,63 ) 23,36 mg/100mL
+Colesterol quilomicrons 0,00 mmol/L 0,00 mg/100mL Hemoglobina 90 g/L ( 120 - 150 ) Hematòcrit 0,28 L/L (
+0,35 - 0,45 ) Hematies 3,45 x10E12/L ( 3,90 - 5,00 ) VCM 80,9 fL ( 80,0 - 98,0 ) CCMH 323 g/L ( 320 - 360 )
+HCM 26,1 pg ( 27,0 - 32,0 ) RDW 16,4 % ( 12,0 - 15,0 ) Plaquetes 295 x10E9/L ( 140 - 350 ) VPM 8,3 fL (
+7,0 - 10,5 ) Plaquetòcrit 0,30 % Leucòcits 8,13 x10E9/L ( 3,80 - 11,00 ) Fórmula leucocitària Neutròfils 72,8
+% Neutròfils absoluts 5,92 x10E9/L ( 1,80 - 7,00 ) Eosinòfils 4,1 % Eosinòfils absoluts 0,33 x10E9/L ( 0,05 - 0,50 ) Basòfils 1,0 % Basòfils absoluts 0,08 x10E9/L ( 0,00 - 0,10 ) Monòcits 10,7 % Monòcits absoluts 0,87 x10E9/L ( 0,30 - 1,00 ) Limfòcits 11,4 % Limfòcits absoluts 0,93 x10E9/L ( 1,00 - 4,00 ) Hb glicosilada (HbA1c) 6,3 % ( 4,6 - 5,8 ) Temps de tromboplastina 0,91 RATIO ( 0,75 - 1,30 ) Temps de protrombina 1,35
+INR ( 0,75 - 1,20 ) Temps de trombina 22,50 s ( 17,00 - 24,00 )
+-	Analítica al alta: sodi 137 mmol/L ( 136 - 145 ) Potassi 4,30 mmol/L ( 3,50 - 5,10 ) Glucosa 5,6 mmol/L ( 3,0
+- 6,0 ) 100,80 mg/100mL Urea 6,6 mmol/L ( 2,9 - 8,2 ) 40 mg/100mL Creatinina 92 µmol/L ( 0 - 80 ) 1,04
+mg/100mL Hemoglobina 98 g/L ( 120 - 150 ) Hematòcrit 0,30 L/L ( 0,35 - 0,45 ) Hematies 3,81 x10E12/L (
+3,90 - 5,00 ) VCM 79,5 fL ( 80,0 - 98,0 ) CCMH 323 g/L ( 320 - 360 ) HCM 25,7 pg ( 27,0 - 32,0 ) RDW 16,2
+% ( 12,0 - 15,0 ) Plaquetes 308 x10E9/L ( 140 - 350 ) VPM 7,9 fL ( 7,0 - 10,5 ) Plaquetòcrit 0,30 % Leucòcits
+9,34 x10E9/L ( 3,80 - 11,00 ) Fórmula leucocitària Neutròfils 80,1 % Neutròfils absoluts 7,49 x10E9/L ( 1,80
+- 7,00 ) Eosinòfils 2,5 % Eosinòfils absoluts 0,23 x10E9/L ( 0,05 - 0,50 ) Basòfils 0,9 % Basòfils absoluts 0,08 x10E9/L ( 0,00 - 0,10 ) Monòcits 7,8 % Monòcits absoluts 0,73 x10E9/L ( 0,30 - 1,00 ) Limfòcits 8,7 %
+Limfòcits absoluts 0,81 x10E9/L ( 1,00 - 4,00)
+
+
+EVOLUCIÓN
+En Urgencias
+A su llegada a urgencias se encuentra hemodinámicamente estable y afebril, con tendencia a la hipertensión; destaca un INR de 1.1. A la exploración física se detecta una paresia facial central derecha y braquial derecha 2/5, con lenguaje con disartria leve y sin rasgos afásicos. Se realiza TC craneal sin contraste por referir antecedente de alergia al contraste yodado, en el que no se aprecian claras lesiones isquémicas agudas (ASPECTS 10), con dudas de cronicidad de una pequeña lesión cortical parietal izquierda, y se detencta una hiperdensidad segmentaria en ACI supraclinoidea izquierda.
+Se orienta como Ictus siquémico en territorio de ACM izquierda de etiología cardioembólica por FA infradescoagulada. Dado que NIHSS bajo y la posiblidad de alergia al contraste referida por la paciente se decide inicialmente no realizar angioTc incialmente. De acuerdo con la familia y tras firmar consentimiento informado, se calcula dosis de rtpa para 85 kg y se administra rtpa en bolus de 7mg y 68mg de perfusión a las 10:19h, con un tiempo aguja de 43 minutos (con respecto a la demora, destaca por un lado que han coincidido dos códigos ictus simultáneos y que por la importante obesiadad es especialmente costoso encontrar vías periféricas).
+Tras el inicio de perfusión de rtpa la paciente presenta una fluctuación clínica con aparición de afasia mixta, obedece órdenes sencillas pero se intoxica con las semicomplejas, nomina 1/4, presenta ecolalia, persite hemiparesia derecha sin cambios. Minutos después presenta una mejoría de la  afasia pero persiste un lenguaje hipofluente, con bloqueos y parafasias.
+
+
+Ante dichas fluctuaciones clínicas y la presencia de una hiperdensidad de ACI intracraneal y la dudosa posibilidad de alargia al contraste yodado se decide realizar AngioTC previa administración de urbasón 60mg ev. El angio-TC muestra permeabilidad de ACM y ACA por colateralidad de Willis anterior. Ausencia de contraste ev en sectores carotideos izquierdos, incluyendo ACC, con hallazgos angiográficos atípicos para una oclusión crónica, planeando la posibilidad de oclusión aguda. Se repite TC craneal que muestra ASPECTS 8 (cambios en ínsula y cortical temporal izquierdos), siendo el NIHSS 13. Ante el cuadro clínico actual se decide activar tratamiento endovascular.
+Durante el procedimiento se confirma la presencia de una oclusión a nivel de ambas carótidas interna y externa izquierdas. Se procede a realizar aspiración directa extrayéndose gran catidad de trombo. Al persistir trombo en ICA distal se procede al microcateterismo selectivo de arteria ocluida logrando una adecuada posición para realizar trombectomía con stentretriever realizando 4 pases. En la serie de comprobación final se confirma recanalización TICI 2b. Posteriormente presenta una mejoría clínica del déficit motor con persistencia de la afasia.
+Ingrea en Unidad de Ictus permanenciendo HD estable y afebril, con telemetría en FA permanente.
+
+En Unidad de Ictus
+Durante su estancia permanece hemodinámicamente estable y afebril. Es valorada por Rehabilitación e inicia fisioterapia. Se realiza test de disfagia permitiendo una correcta tolerancia oral.
+Se realizó TC craneal de control a las 12h en el que destacan pequeñas áreas de isquemia en territorio ACM superficial, poco definidas y una hiperdensidad en el área isquémica parietal izquierda que podría estar más en relación a presencia de contraste yodado. En el TC de control a las 24h quedan mejor definidas las pequeñas áreas de infarto de distribución parcheada, persistiendo todavía ingurgitación parenquimatosa. Se inició BIC de heparina tras TC de control.
+Clínicamente presenta una evolución favorable, persistiendo una paresia braquio-crural derecha 4/5 y una afasia mixta con anomia, ecolalia y comprensión de órdenes simples preserva, puntuando un NIHSS de 7 a las 48h.
+Dada la estabilidad mostrada se decidió traslado a sala de Neurología.
+
+En sala de Neurología
+Durante su estancia permaneció hemodinámicamente estable y  afebril durante su  estancia. Toleró la rehabilitación satisfactoriamente. Se realizó el paso de heparina sódica a anticoagulación oral con apixaban (dados los previos malos controles con sintrom).
+Como incidencias a destacar presentó dos flebitis por las cuales se administró tratamiento tópico y se evidenció anemización hasta (Hb 83 g/L) con urea en rango de normalidad en analítica de control. No se evidenciaron puntos de sangrado externo salvo por extensos  hematomas cutáneos en ambos miembros superiores. Se descartaron focos de sangrado intrabdominal mediante TC abdominopélvico. Se inició tratamiento sutitutivo con hierro oral y se comprobó estabilidad en los niveles de hemoglobina en analítica de control.
+En resumen se tratada de una mujer de 83 años con una fibrilación auricular conocida e infradescoagulada que sufrió un ictus isquémico en territorio carotídeo izquierdo de mecanismo embólico y etiología cardioembólica por el que recibió tratamiento con rtPA y endovascular de rescate. Al alta se instauró tratamiento de prevención secundaria con apixaban.
+
+
+
+Dada la estabilidad mostrada se decide dar el alta hospitalaria a domicilio bajo las recomendaciones más adelante recogidas. Al alta NIHSS = 1 (afasia) y mRS = 2.
+
+PROCEDIMIENTOS
+-	TC craneal y angioTC.
+-	Analítica sanguínea.
+-	Radiografía torácica.
+-	Electrocardiograma.
+-	Telemetría.
+-	RM craneal.
+
+
+DIAGNÓSTICOS
+-	Ictus isquémico en territorio carotídeo izquierdo de mecanismo embólico y etiología cardioembólica.
+-	Oclusión de las arterias carótidas interna y externa izquierdas tratadas mediante trombectomía.
+-	Fibrilación auricular infradescoagulada.
+
+
+TRATAMIENTO AL ALTA
+-	Continuar con medicación habitual con las siguientes modificaciones:
+-	STOP Sintrom.
+-	Apixaban 5 mg 1 comprimido cada 12 horas (1-0-1).
+-	Ferogradumet 80 mg 1 comprimido al día en ayunas (1-0-0).
+
+
+RECOMENDACIONES AL ALTA
+-	Visita de control en CEx de Neurología según cita adjunta.
+
+
+Recomendaciones generales
+-	Tratamiento de la hipertensión arterial, manteniendo cifras por debajo de 140/90; en caso de ser diabético, cifras por debajo de 130/85.
+-	Abandono completo del hábito tabáquico.
+-	Control  y  tratamiento  de  las  enfermedades  cardiacas  (cardiopatía  isquémica,  insuficiencia  cardiaca, arritmias y valvulopatías).
+-	Evitar consumo excesivo de alcohol (se permite una o dos bebidas al día).
+-	Vigilancia y tratamiento del perfil lipídico: dieta pobre en grasas, actividad física apropiada, tratamiento farmacológico si precisa para mantener niveles de LDL<100mg/dl.6.
+-	Control de la glucemia, que debe ser <126mg/dl en ayunas, con dieta, antidiabéticos orales o insulina si precisa.
+-	Realizar actividad física, 30 a 60 minutos, de tres a cuatro veces a la semana.
+
+-	Continuar el tratamiento antiagregante o anticoagulante a las dosis recomendadas, siguiendo los controles necesarios.
+
+
+
+Responsable clínic: Dr. _NAME_ (NºCol. _ID_)
+Equip mèdic: Dr. _NAME_  (NºCol.  _ID_), Dra. _NAME_ (NºCol.  _ID_), _NAME_ (NºCol. _ID_)
+
+Servei que ha donat d'alta:
+NEUROLOGIA HOSP	Data d'alta:
+02.03.2017	Nom del metge que informa de l'alta:
+Dr. _NAME_ (NºCol. _ID_)
+
+
+_LOCATION_, 02.03.2017
+Pàg. 1 de   9

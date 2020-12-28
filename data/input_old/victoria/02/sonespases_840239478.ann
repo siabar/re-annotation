@@ -1,0 +1,124 @@
+T2	_SUG_Lateralizacion 136 145	izquierdo
+T3	Localizacion 185 190	lobar
+T4	Localizacion 191 199	temporal
+T5	Lateralizacion 200 207	derecho
+T6	Etiologia 209 228	angiopatía amiloide
+T7	_SUG_Etiologia 395 407	Hipertensión
+T8	FECHA 467 477	23/01/2018
+#8	AnnotatorNotes T8	2018-01-23
+T9	FECHA 509 519	23/01/2018
+#9	AnnotatorNotes T9	2018-01-23
+T13	FECHA 575 585	19/01/2018
+#13	AnnotatorNotes T13	2018-01-19
+T14	FECHA 612 622	19/01/2018
+#14	AnnotatorNotes T14	2018-01-19
+T15	_SUG_Localizacion 963 970	frontal
+T16	_SUG_Lateralizacion 971 980	izquierdo
+T17	_SUG_Etiologia 994 1007	indeterminada
+T18	FECHA 1039 1056	noviembre de 2016
+#18	AnnotatorNotes T18	2016-11-UNDEF-day
+T19	_SUG_Localizacion 1165 1172	frontal
+T20	_SUG_Lateralizacion 1173 1182	izquierda
+T21	_SUG_Localizacion 1629 1639	temporales
+T22	_SUG_Localizacion 1904 1914	parietales
+T23	_SUG_Localizacion 1924 1935	ventricular
+T24	_SUG_Etiologia 2277 2296	angiopatía amiloide
+T25	_SUG_Localizacion 2375 2382	frontal
+T26	_SUG_Lateralizacion 2383 2392	izquierda
+T27	_SUG_Lateralizacion 2678 2685	derecha
+T28	_SUG_Ictus_isquemico 2925 2930	ictus
+T30	_SUG_Etiologia 2951 2958	lacunar
+T33	_SUG_Localizacion 3315 3322	frontal
+T34	_SUG_Lateralizacion 3430 3439	izquierda
+T35	_SUG_Lateralizacion 3644 3651	derecho
+T37	_SUG_TAC_craneal 4040 4050	TC craneal
+T38	TAC_craneal 4178 4180	TC
+T39	Fecha_TAC_inicial 4207 4217	20-01-2018
+#39	AnnotatorNotes T39	2018-01-20
+T40	FECHA 4253 4263	18/01/2018
+#40	AnnotatorNotes T40	2018-01-18
+T41	_SUG_Lateralizacion 4353 4360	derecho
+T42	_SUG_Lateralizacion 4621 4630	izquierda
+T43	_SUG_Localizacion 4699 4707	parietal
+T44	_SUG_Lateralizacion 4708 4715	derecho
+T45	_SUG_Localizacion 4718 4726	temporal
+T46	_SUG_Lateralizacion 4727 4736	izquierdo
+T47	_SUG_Localizacion 4758 4766	temporal
+T48	_SUG_Lateralizacion 4767 4774	derecho
+T49	_SUG_Localizacion 4808 4827	ganglios de la base
+T50	_SUG_Localizacion 5023 5031	parietal
+T51	_SUG_Lateralizacion 5032 5039	derecho
+T52	_SUG_Localizacion 5042 5050	temporal
+T53	_SUG_Lateralizacion 5051 5060	izquierdo
+T54	FECHA 5206 5216	30-01-2018
+#54	AnnotatorNotes T54	2018-01-30
+T56	_SUG_Localizacion 5267 5275	parietal
+T57	_SUG_Lateralizacion 5276 5283	derecho
+T58	_SUG_Localizacion 5328 5336	temporal
+T59	_SUG_Localizacion 5344 5352	parietal
+T60	_SUG_Lateralizacion 5353 5362	izquierdo
+T61	FECHA 5389 5393	2016
+#61	AnnotatorNotes T61	2016-UNDEF-month-UNDEF-day
+T62	_SUG_Etiologia 5404 5423	angiopatía amiolide
+T63	_SUG_Localizacion 5526 5534	temporal
+T64	_SUG_Lateralizacion 5535 5542	derecho
+T65	_SUG_Localizacion 5567 5572	lobar
+T66	_SUG_Localizacion 5677 5685	temporal
+T67	_SUG_Localizacion 5716 5725	occipital
+T68	_SUG_Lateralizacion 5932 5937	dicha
+T69	_SUG_Localizacion 6056 6064	cortical
+T70	_SUG_Localizacion 6099 6107	profunda
+T71	_SUG_Lateralizacion 6189 6198	izquierda
+T72	_SUG_Localizacion 6486 6497	ventricular
+T73	_SUG_Localizacion 6645 6653	profunda
+T74	_SUG_Lateralizacion 6839 6848	izquierdo
+T75	_SUG_Etiologia 7182 7201	angiopatía amiloide
+T76	_SUG_Localizacion 7276 7281	lobar
+T77	_SUG_Localizacion 7282 7290	temporal
+T78	_SUG_Lateralizacion 7291 7298	derecho
+T79	_SUG_Localizacion 7343 7354	ventricular
+T80	_SUG_ASPECTS 7487 7494	aspecto
+T81	FECHA 8050 8060	18-01/2018
+#81	AnnotatorNotes T81	2018-01-18
+T82	FECHA 8061 8071	01/02/2018
+#82	AnnotatorNotes T82	2018-02-01
+T84	_SUG_Lateralizacion 8166 8175	izquierdo
+T85	FECHA 8179 8183	2016
+#85	AnnotatorNotes T85	2016-UNDEF-month-UNDEF-day
+T86	FECHA 8226 8236	18-01-2018
+#86	AnnotatorNotes T86	2018-01-18
+T88	_SUG_Localizacion 8722 8731	posterior
+T89	_SUG_Localizacion 8876 8884	parietal
+T90	_SUG_Lateralizacion 8885 8892	derecho
+T91	_SUG_Localizacion 8895 8903	temporal
+T92	_SUG_Lateralizacion 8904 8913	izquierdo
+T93	_SUG_Lateralizacion 9375 9384	izquierdo
+T94	FECHA 9386 9389	4/5
+#94	AnnotatorNotes T94	2018-05-04
+T95	FECHA 10043 10053	24/01/2018
+#95	AnnotatorNotes T95	2018-01-24
+T96	FECHA 10054 10064	01/02/2018
+#96	AnnotatorNotes T96	2018-02-01
+T97	FECHA 10119 10129	24/01/2018
+#97	AnnotatorNotes T97	2018-01-24
+T98	_SUG_Lateralizacion 10354 10363	izquierda
+T99	_SUG_Lateralizacion 10885 10895	izquierdas
+T100	_SUG_Localizacion 11101 11108	frontal
+T101	_SUG_Etiologia 11339 11358	angiopatía amiloide
+T102	HORA 11883 11887	8:00
+#102	AnnotatorNotes T102	08:00
+T103	HORA 11891 11896	20:00
+#103	AnnotatorNotes T103	20:00
+T104	Tratamiento_anticoagulante_alta 11900 11910	Bemiparina
+T106	HORA 11944 11949	20:00
+#106	AnnotatorNotes T106	20:00
+T107	SECCION_MOTIVO_DE_INGRESO 36 53	MOTIVO DE INGRESO
+T108	SECCION_DIAGNOSTICOS 148 172	DIAGNÓSTICOS DEL INGRESO
+T109	SECCION_PROCEDIMIENTOS 419 433	PROCEDIMIENTOS
+T110	SECCION_ANTECEDENTES_PERSONALES 698 721	ANTECEDENTES PERSONALES
+T111	SECCION_PROCESO_ACTUAL 3154 3171	ENFERMEDAD ACTUAL
+T112	SECCION_EXPLORACIONES_COMPLEMENTARIAS 4145 4174	EXPLORACIONES COMPLEMENTARIAS
+T114	SECCION_TRATAMIENTO_AL_ALTA 11814 11831	Medicación actual
+T1	Hemorragia_cerebral 176 184	Hematoma
+T10	Fecha_inicio_sintomas 3242 3247	18/01
+#1	AnnotatorNotes T10	2018-01-18

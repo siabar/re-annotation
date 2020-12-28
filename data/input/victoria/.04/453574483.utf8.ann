@@ -1,0 +1,101 @@
+T1	_SUG_TAC_craneal 67 70	TAC
+T2	Fecha_de_alta 340 350	24.12.2017
+#2	AnnotatorNotes T2	2017-12-24
+T3	Hora_de_alta 351 356	10:00
+#3	AnnotatorNotes T3	10:00
+T4	Fecha_de_ingreso 397 407	21.12.2017
+#4	AnnotatorNotes T4	2017-12-21
+T5	_SUG_Ictus_isquemico 483 488	ictus
+T7	_SUG_Lateralizacion 723 730	derecho
+T8	HORA 741 746	12.15
+#8	AnnotatorNotes T8	12:15
+T9	FECHA 764 772	21/12/17
+#9	AnnotatorNotes T9	2017-12-21
+T10	_SUG_Ictus_isquemico 941 946	ictus
+T11	HORA 953 958	12.46
+#11	AnnotatorNotes T11	12:46
+T12	HORA 992 997	13.14
+#12	AnnotatorNotes T12	13:14
+T13	_SUG_Lateralizacion 1099 1106	derecha
+T14	_SUG_Lateralizacion 1124 1131	derecha
+T15	_SUG_Lateralizacion 1202 1209	derecha
+T16	_SUG_NIHSS 1211 1218	NIHSS 4
+T18	_SUG_TAC_craneal 1231 1242	TAC craneal
+T19	_SUG_ASPECTS 1255 1264	ASPECS 10
+T20	_SUG_TAC_craneal 1301 1309	AngioTAC
+T21	_SUG_TAC_craneal 1453 1456	TAC
+T22	_SUG_Lateralizacion 1497 1506	izquierda
+T23	_SUG_NIHSS 1509 1515	NIHSS3
+T24	_SUG_Etiologia 1538 1545	lacunar
+T25	_SUG_Localizacion 1538 1545	lacunar
+T26	_SUG_Lateralizacion 1562 1569	derecho
+T27	_SUG_Ictus_isquemico 1600 1605	ictus
+T28	_SUG_Trombolisis_intravenosa 1666 1691	tratamiento fibrinolítico
+T29	_SUG_NIHSS 1715 1720	NIHSS
+T30	_SUG_Trombectomia_mecanica 1725 1749	tratamiento endovascular
+T31	_SUG_Lateralizacion 1966 1973	derecha
+T32	_SUG_Lateralizacion 1991 1998	derecha
+T33	_SUG_Lateralizacion 2069 2076	derecha
+T34	_SUG_NIHSS 2078 2104	NIHSS 00000/11010/00000: 3
+T35	_SUG_Lateralizacion 2629 2638	bilateral
+T36	_SUG_NIHSS 2684 2692	NIHSS: 0
+T37	_SUG_Ictus_isquemico 2783 2788	Ictus
+T38	_SUG_Etiologia 3109 3121	ateromatosis
+T39	_SUG_Localizacion 3291 3300	posterior
+T40	_SUG_Localizacion 3396 3406	Ventrículo
+T41	_SUG_Lateralizacion 3407 3416	izquierdo
+T42	_SUG_Lateralizacion 3720 3729	izquierda
+T43	_SUG_Lateralizacion 3862 3870	derechas
+T44	_SUG_Localizacion 3921 3931	ventrículo
+T45	_SUG_Lateralizacion 3932 3939	derecho
+T47	_SUG_TAC_craneal 4027 4038	TAC craneal
+T48	_SUG_ASPECTS 4053 4062	ASPECS 10
+T49	_SUG_TAC_craneal 4099 4107	AngioTAC
+T50	_SUG_Ictus_isquemico 4235 4240	Ictus
+T51	_SUG_NIHSS 4409 4416	NIHSS 0
+T52	_SUG_Lateralizacion 4446 4453	derecho
+T53	_SUG_Localizacion 4597 4607	ventrículo
+T54	_SUG_Lateralizacion 4608 4617	izquierdo
+T55	_SUG_Ictus_isquemico 4823 4828	Ictus
+T56	_SUG_Lateralizacion 5120 5127	derecho
+T57	_SUG_Localizacion 5144 5153	posterior
+T58	_SUG_Lateralizacion 5182 5189	derecho
+T59	_SUG_Lateralizacion 5217 5224	derecha
+T60	_SUG_Lateralizacion 5421 5430	izquierda
+T61	_SUG_Lateralizacion 5465 5466	e
+T63	_SUG_Etiologia 5795 5802	lacunar
+T64	_SUG_Localizacion 5795 5802	lacunar
+T65	_SUG_Lateralizacion 5819 5826	derecho
+T66	_SUG_Etiologia 5827 5836	a estudio
+T67	_SUG_Ataque_isquemico_transitorio 5867 5870	AIT
+T68	_SUG_Lateralizacion 5883 5892	izquierdo
+T69	_SUG_Etiologia 5910 5921	determinada
+T70	_SUG_Tratamiento_antiagregante 6010 6013	AAS
+T71	_SUG_Localizacion 6058 6069	posteriores
+T72	FECHA 6213 6225	24/Diciembre
+#72	AnnotatorNotes T72	2017-12-24
+T73	_SUG_NIHSS 6245 6254	NIHSS:  0
+T74	_SUG_mRankin 6256 6262	mRs:	0
+T75	_SUG_Ictus_isquemico 6407 6414	infarto
+T77	_SUG_Tratamiento_antiagregante 6494 6499	Adiro
+T78	_SUG_Lateralizacion 6616 6621	Dieta
+T79	FECHA 7052 7068	13 de Marzo/2018
+#79	AnnotatorNotes T79	2018-03-UNDEF-day
+T80	HORA 7075 7080	02.30
+#80	AnnotatorNotes T80	02:30
+T81	_SUG_Tratamiento_antiagregante 7099 7102	AAS
+T82	FECHA 7385 7395	24.12.2017
+#82	AnnotatorNotes T82	2017-12-24
+T83	SECCION_MOTIVO_DE_INGRESO 461 475	MOTIU D'INGRÉS
+T84	SECCION_ANTECEDENTES 491 502	ANTECEDENTS
+T85	SECCION_TRATAMIENTO_HABITUAL 593 611	MEDICACIÓ HABITUAL
+T86	SECCION_PROCESO_ACTUAL 625 638	PROCÉS ACTUAL
+T87	SECCION_EXPLORACION_FISICA 1830 1847	EXPLORACIÓ FÍSICA
+T88	SECCION_EXPLORACION_FISICA_DURANTE_HOSPITALIZACION 1939 1961	EXPLORACIÓN AL INGRESO
+T89	SECCION_EXPLORACION_FISICA_AL_ALTA 2106 2125	EXPLORACIÓN AL ALTA
+T90	SECCION_EXPLORACIONES_COMPLEMENTARIAS 2694 2719	EXPLORACIÓ COMPLEMENTÀRIA
+T91	SECCION_EVOLUCION 4188 4204	EVOLUCIÓ CLÍNICA
+T92	SECCION_DIAGNOSTICOS 6278 6300	ORIENTACIÓ DIAGNÒSTICA
+T93	SECCION_TRATAMIENTO_Y_RECOMENDACIONES_AL_ALTA 6428 6463	TRACTAMENT I RECOMANACIONS A L'ALTA
+T94	SECCION_CONTROL 6788 6795	CONTROL
+T95	SECCION_DESTINO_AL_ALTA 7268 7287	DESTINACIÓ A L'ALTA

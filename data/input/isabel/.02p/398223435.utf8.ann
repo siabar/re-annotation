@@ -1,0 +1,90 @@
+T0	_SUG_Lateralizacion 1 2	I
+T1	_SUG_Lateralizacion 15 16	D
+T2	FECHA 100 110	28/07/2017
+#2	AnnotatorNotes T2	2017-07-28
+T3	FECHA 124 132	02/08/17
+#3	AnnotatorNotes T3	2017-08-02
+T4	_SUG_Ictus_isquemico 314 319	ictus
+T5	_SUG_Arteria_afectada 320 323	ACM
+T6	_SUG_Trombolisis_intravenosa 340 344	rtPA
+T7	FECHA 348 353	26/07
+#7	AnnotatorNotes T7	2017-07-26
+T8	SECCION_ANTECEDENTES 356 367	Antecedents
+T9	_SUG_Etiologia 424 435	Hipertensió
+T10	SECCION_TRATAMIENTO_HABITUAL 556 575	Tractament habitual
+T11	_SUG_Tratamiento_antiagregante_alta 577 580	AAS
+T12	_SUG_Tratamiento_antiagregante_hab 577 580	AAS
+T13	SECCION_TRATAMIENTO_HABITUAL 5574 5584	Tractament
+T14	_SUG_Tratamiento_anticoagulante_alta 5586 5593	Sintrom
+T15	_SUG_Tratamiento_anticoagulante_hab 5586 5593	Sintrom
+T16	_SUG_Etiologia 5760 5768	habitual
+T17	SECCION_PROCESO_ACTUAL 889 904	Malaltia actual
+T18	_SUG_Ictus_isquemico 1015 1020	ictus
+T19	_SUG_Ictus_isquemico 1041 1046	ictus
+T20	HORA 1070 1075	16:00
+#20	AnnotatorNotes T20	16:00
+T21	_SUG_Lateralizacion 1376 1383	derecha
+T22	_SUG_Lateralizacion 1478 1485	derecha
+T23	_SUG_NIHSS_alta 1487 1494	NIHSS 4
+T24	_SUG_NIHSS_previa 1487 1494	NIHSS 4
+T25	_SUG_TAC_craneal 1549 1560	TAC craneal
+T26	_SUG_Trombolisis_intravenosa 1766 1770	rTPA
+T27	HORA 1780 1785	17:55
+#27	AnnotatorNotes T27	17:55
+T28	HORA 1915 1919	7.15
+#28	AnnotatorNotes T28	07:15
+T29	HORA 1944 1949	19:15
+#29	AnnotatorNotes T29	19:15
+T30	_SUG_TAC_craneal 1951 1962	TAC craneal
+T31	HORA 1969 1974	19:43
+#31	AnnotatorNotes T31	19:43
+T32	_SUG_NIHSS_alta 2413 2419	NIHSS1
+T33	_SUG_NIHSS_previa 2413 2419	NIHSS1
+T34	_SUG_TAC_craneal 2430 2441	TAC craneal
+T35	_SUG_Lateralizacion 2601 2610	izquierdo
+T36	_SUG_Localizacion 2636 2640	PACI
+T37	_SUG_Arteria_afectada 2641 2644	ACM
+T38	_SUG_Lateralizacion 2645 2654	izquierda
+T39	_SUG_Etiologia 2677 2691	cardioembólica
+T40	_SUG_Trombolisis_intravenosa 2760 2764	rTPA
+T41	_SUG_Trombectomia_mecanica 2769 2781	trombectomía
+T42	_SUG_NIHSS_alta 2786 2791	NIHSS
+T43	_SUG_NIHSS_previa 2786 2791	NIHSS
+T44	_SUG_TAC_craneal 2835 2846	TAC craneal
+T45	_SUG_Trombolisis_intravenosa 2860 2864	rTPA
+T46	SECCION_EXPLORACION_FISICA 2946 2967	Exploració física _SS
+T47	FECHA 2970 2975	28/07
+#47	AnnotatorNotes T47	2017-07-28
+T48	SECCION_EXPLORACIONES_COMPLEMENTARIAS 3194 3222	Exploracions complementàries
+T49	_SUG_TAC_craneal 3231 3243	TC de cráneo
+T50	FECHA 3258 3263	26/07
+#50	AnnotatorNotes T50	2017-07-26
+T51	_SUG_ASPECTS 3360 3370	ASPECTS 10
+T52	_SUG_Arteria_afectada 3405 3408	ACM
+T53	_SUG_Lateralizacion 3409 3418	izquierda
+T54	_SUG_Localizacion 3610 3621	ventricular
+T55	FECHA 3766 3771	26/07
+#55	AnnotatorNotes T55	2017-07-26
+T56	_SUG_TAC_craneal 4043 4045	TC
+T57	FECHA 4058 4063	27/07
+#57	AnnotatorNotes T57	2017-07-27
+T58	_SUG_TAC_craneal 4089 4091	TC
+T59	FECHA 4100 4110	26.07.2017
+#59	AnnotatorNotes T59	2017-07-26
+T60	FECHA 4189 4194	31/08
+#60	AnnotatorNotes T60	2017-08-31
+T61	_SUG_Localizacion 4877 4884	profund
+T62	_SUG_Localizacion 4904 4920	Infarts lacunars
+T63	_SUG_Lateralizacion 4936 4937	D
+T64	_SUG_Localizacion 4957 4966	posterior
+T65	_SUG_Lateralizacion 4967 4968	D
+T66	SECCION_EVOLUCION 5037 5045	Evolució
+T67	_SUG_Tratamiento_anticoagulante_alta 5100 5112	acenocumarol
+T68	_SUG_Tratamiento_anticoagulante_hab 5100 5112	acenocumarol
+T69	_SUG_mRankin_alta 5393 5401	Rankin 0
+T70	_SUG_mRankin_previa 5393 5401	Rankin 0
+T71	SECCION_DIAGNOSTICOS 5416 5427	Diagnòstics
+T72	_SUG_Etiologia 5488 5502	cardioembòlica
+T73	_SUG_Trombolisis_intravenosa 5504 5515	Fibrinolisi
+T74	_SUG_Trombolisis_intravenosa 5516 5520	rtPA
+T75	SECCION_CONTROL 5771 5778	Control

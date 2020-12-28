@@ -1,0 +1,84 @@
+T1	Fecha_inicio_sintomas 363 373	09/04/2017
+#1	AnnotatorNotes T1	2017-04-09
+T2	HORA 374 379	23:16
+#2	AnnotatorNotes T2	23:16
+T3	Fecha_de_ingreso 437 447	10/04/2017
+#3	AnnotatorNotes T3	2017-04-10
+T4	HORA 448 453	00:44
+#4	AnnotatorNotes T4	00:44
+T5	_SUG_TAC_craneal 617 620	TAC
+T7	_SUG_Lateralizacion 2044 2053	bilateral
+T8	FECHA 2593 2596	4/5
+#8	AnnotatorNotes T8	2017-05-04
+T9	_SUG_Lateralizacion 2638 2645	derecha
+T10	_SUG_Lateralizacion 2796 2803	derecha
+T11	_SUG_Localizacion 3459 3466	parcial
+T12	TAC_craneal 3829 3831	TC
+T13	_SUG_Lateralizacion 3924 3925	e
+T14	_SUG_Lateralizacion 4371 4378	derecha
+T15	ASPECTS 4380 4393	ASPECTS 10/10
+T17	_SUG_Trombolisis_intravenosa 4834 4856	tratamiento con triple
+T18	_SUG_Etiologia 4983 4992	a estudio
+T19	_SUG_Lateralizacion 5139 5146	derecha
+T20	HORA 5164 5169	22:30
+#20	AnnotatorNotes T20	22:30
+T21	_SUG_Ataque_isquemico_transitorio 5214 5219	Ictus
+T22	Hora_inicio_sintomas 5288 5293	22:30
+#22	AnnotatorNotes T22	22:30
+T23	Hora_llegada_hospital 5317 5322	23:30
+#23	AnnotatorNotes T23	23:30
+T24	NIHSS_previa 5397 5404	NIHSS 3
+T25	_SUG_Lateralizacion 5443 5450	derecha
+T26	_SUG_NIHSS 5543 5548	NIHSS
+T28	_SUG_Ataque_isquemico_transitorio 5834 5839	ictus
+T29	_SUG_Ictus_isquemico 5834 5848	ictus isquèmic
+T30	_SUG_Lateralizacion 5921 5926	dreta
+T31	_SUG_TAC_craneal 5940 5943	TAC
+T32	_SUG_ASPECTS 6002 6015	ASPECTS 10/10
+T33	_SUG_NIHSS 6023 6033	NIHSS de 3
+T34	_SUG_Lateralizacion 6187 6192	dreta
+T35	_SUG_Lateralizacion 6268 6273	dieta
+T36	_SUG_TAC_craneal 6287 6290	TAC
+T37	_SUG_Ataque_isquemico_transitorio 6496 6501	ictus
+T38	_SUG_Ictus_isquemico 6496 6510	ictus isquèmic
+T39	_SUG_Lateralizacion 6553 6557	dret
+T40	_SUG_NIHSS 6571 6581	NIHSS de 3
+T41	Fecha_trombolisis_rtPA 6625 6629	11/4
+#41	AnnotatorNotes T41	2017-04-11
+T42	HORA 6650 6655	22:30
+#42	AnnotatorNotes T42	22:30
+T43	HORA 6670 6675	23:30
+#43	AnnotatorNotes T43	23:30
+T44	_SUG_TAC_craneal 6710 6712	TC
+T45	_SUG_Lateralizacion 6807 6815	esquerre
+T46	_SUG_Lateralizacion 6867 6871	dret
+T47	_SUG_Lateralizacion 6962 6963	D
+T48	FECHA 7019 7022	2/5
+#48	AnnotatorNotes T48	2017-05-02
+T49	_SUG_Lateralizacion 7081 7086	dreta
+T50	_SUG_Lateralizacion 7114 7118	dret
+T51	_SUG_Lateralizacion 7126 7134	esquerre
+T52	_SUG_Lateralizacion 7224 7228	DRET
+T53	Fecha_de_alta 7395 7405	11/04/2017
+#53	AnnotatorNotes T53	2017-04-11
+T54	SECCION_TIPO_DE_INGRESO 454 468	Tipus d'ingrés
+T55	SECCION_DIAGNOSTICO_PRINCIPAL 531 551	Diagnòstic principal
+T56	SECCION_PROCEDIMIENTOS 575 587	Procediments
+T57	SECCION_ANTECEDENTES 714 725	Antecedents
+T58	SECCION_ANTECEDENTES_PATOLOGICOS 728 745	Malalties prèvies
+T59	SECCION_TRATAMIENTO_HABITUAL 1169 1185	Medicació prèvia
+T60	SECCION_PROCESO_ACTUAL 1404 1419	Història Actual
+T61	SECCION_EXPLORACION_FISICA 1510 1527	Exploració física
+T62	SECCION_EXPLORACIONES_COMPLEMENTARIAS 2883 2911	Resum proves complementàries
+T64	SECCION_SITUACION_FUNCIONAL 4712 4720	-	Social
+T66	SECCION_DIAGNOSTICOS 5453 5476	Orientación diagnóstica
+T68	SECCION_TRATAMIENTO_AL_ALTA 7349 7359	Tractament
+T6	Ictus_isquemico 561 573	AVC ISQUEMIC
+#5	AnnotatorNotes T15	10
+#6	AnnotatorNotes T24	NIHSS=3
+T16	Localizacion 7229 7235	(PACI)
+T67	Trombolisis_intravenosa 696 707	FIBRINOLISI
+T71	Etiologia 6512 6530	síndrome motor pur
+T69	Fecha_llegada_hospital 363 373	09/04/2017
+#7	AnnotatorNotes T69	2017-04-09
+T27	SECCION_EVOLUCION 5712 5720	Evolutiu

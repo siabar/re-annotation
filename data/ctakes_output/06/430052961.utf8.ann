@@ -1,0 +1,25 @@
+T0	FECHA 96 106	12/10/2017
+#0	AnnotatorNotes T0	2017-10-12
+T1	HORA 107 112	12:24
+#1	AnnotatorNotes T1	12:24
+T2	SECCION_DESTINO_AL_ALTA 259 278	Destinació a l'alta
+T3	SECCION_ANTECEDENTES_PERSONALES 363 384	Antecedents personals
+T4	_SUG_Tratamiento_anticoagulante 456 463	sintrom
+T5	SECCION_TRATAMIENTO_HABITUAL 466 483	Tractament actual
+T6	_SUG_Tratamiento_anticoagulante 485 492	sintrom
+T7	SECCION_PROCESO_ACTUAL 565 580	Malaltia actual
+T8	SECCION_EXPLORACION_FISICA 695 712	Exploració física
+T9	_SUG_Tratamiento_anticoagulante 951 954	bpm
+T10	SECCION_EXPLORACIONES_COMPLEMENTARIAS 1039 1061	Proves complementàries
+T11	_SUG_Tratamiento_anticoagulante 1190 1193	bpm
+T12	_SUG_TAC_craneal 1283 1294	TAC cranial
+T13	SECCION_EVOLUCION 1492 1500	Evolució
+T14	_SUG_Tratamiento_anticoagulante 1586 1591	35bpm
+T15	FECHA 2218 2226	13/10/17
+#15	AnnotatorNotes T15	2017-10-13
+T16	HORA 2233 2238	11.05
+#16	AnnotatorNotes T16	11:05
+T17	SECCION_DIAGNOSTICOS 2243 2265	Orientació diagnòstica
+T18	_SUG_Hemorragia_cerebral 2271 2285	AVC HEMORRÀGIC
+T19	_SUG_Tratamiento_anticoagulante 2322 2329	SINTROM
+T20	_SUG_Lateralizacion 2699 2703	dret

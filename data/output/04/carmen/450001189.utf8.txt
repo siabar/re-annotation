@@ -1,0 +1,104 @@
+I.CLINIC DE NEUROCIÈNCIES NEUROLOGIA
+_NAME_	NHC: _ID_
+
+
+Sexo/Sexe: Fem.	Fecha nac./Data naix.: _DATE_	Edad/Edat: 79 años Dirección/Adreça: _LOCATION_		CP: _LOCATION_
+Municip. (Prov.): _LOCATION_  ABS:_SS_		Tel.:_CONTACT_ As.: SERVEI CATALA DE LA SALUT	CIP: _ID_	NASS: _ID_
+Nº epis.: _ID_	Tipo/Tipus: HOSPIT.	Inici.: 02.12.2017
+Serv: NEUROLOGIA	UO Enf.: I064 SALA G DE NEUROL. INTE   Hora: 05:06:25
+Facult. de ref.: _NAME_
+
+
+
+
+Tipo ingreso/Tipus ingrés: Urgent	Motivo/Motiu alta: Dom. Familiar
+Diag.:
+()
+OCLUSION DE ART. CEREBRAL NO ESPECIF. CON INFARTO CEREBRAL (434.91) FIBRILACIÓN AURICULAR ()
+DÉFICIT DE VITAMINA B12 ()
+Proc.:
+TC MULTIMODAL ()
+RM CEREBRAL + ANGIO-RM INTRACRANEAL () MONITORIZACIÓN CONTINUA ()
+
+
+
+
+INFORME CLÍNICO ALTA / INFORME CLÍNIC ALTA
+
+Motivo de consulta / Motiu de consulta
+Debilidad de extremidades izquierdas.
+
+Antecedentes e historia previa / Antecedents i història prèvia
+Mujer de 79 años, sin alergias conocidas ni hábitos tóxicos. Independiente, mRS 2 por lumbalgia.
+
+ANTECEDENTES PATOLÓGICOS:
+1.	Hipertensión arterial en tratamiento farmacológico.
+2.	Obesidad.
+3.	Fibrilación auricular paroxistica asintomática. Actualmente sin anticoagulación.
+4.	Linfoma folicular, estadio IIIA, diagnosticado en enero de 2016. Ha sido tratada con QMT y RDT por fractura vertebral en L2. Seguimiento por hematología _SS_.
+5.	Neoplasia de endometrio intervenida hace >10 años, tratada con radioterapia adyuvante, y actualmente libre de enfermedad.
+6.	Insuficiencia venosa crónica.
+7.	Lumbalgia por fractura vertebral (ver punto 4).
+
+
+MEDICACIÓN HABITUAL: Omeprazol 20 mg c/24h, Bisoprolol 5 mg c/24h Pregabalina 75 mg c/8h, Fentanilo 25 mcgr c/72h.
+
+Proceso actual / Procés actual
+El día 2/12/2017 es vista por la familia presentando debilidad de extremidades izquierdas en torno a las 2:30 am, por lo que avisan al SEM  que trae a la paciente como Código Ictus Extramuros. Había sido vista
+asintomática por última vez a las 22:00 horas.
+
+Exploración física / Exploració física
+02/12/2017-06:00:00: Frecuencia respiratoria (rpm) 11, PAS (mm Hg) 117, PAD (mm Hg) 54, Pulsioximetría (%) 93. 02/12/2017-07:00:00 : Tª axilar ( ºC)  36. 02/12/2017-19:30:00 : Glicemia capilar (mg/dl) 85. 04/12/2017- 07 :00:00 : FiO2 (%) 21.
+NRL: Consciente, desorientada. Obedece órdenes simples. Mirada tónica hacia la derecha, sin sobrepasar la linea media. Hemianopsia por amenaza izquierda. Lenguaje hipofluente con disartria grave. Paresia facial izquierda grave. Hemiparesia braquio 1-5 - crural 1-5 izquierda. Hemihipoestesia con heminegligencia izquierda. Dismetrías no valorables en el lado parético. NIHSS 18.
+Cardio: Arrítmico sin soplos patológicos. Pulmonar: MVFC sin sobreañadidos.
+
+Laboratorio / Laboratori
+*	ANALÍTICA SANGUÍNEA: Anemia normocítica y leucopenia ya conocidas. Déficit de vitamina B12 sin elevación de homocisteína. Perfil lipídico: LDL/HDL 83/42. Hemoglobina glicada de 5,2%.
+
+Radiología / Radiologia
+*	TC MULTIMODAL: BASAL: No se observa hemorragia intra ni extraaxial. Parénquima cerebral sin alteraciones densitométricas. Diferenciación cortico-subcortical conservada. ASPECTS 10. TC  PERFUSIÓN: Importante aumento del TTP y leve disminución del CBF a nivel frontoparietotemporal derecho. Hay discordancia significativa. ANGIO-TC EXTRA E INTRACRANEAL: Oclusión del segmento M1 de la arteria cerebral media derecha. Resto de árbol arterial con leves signos de ateromatosis sin estenosis.
+* RM CEREBRAL Y ANGIO-RM: Pequeña lesión isquémica aguda en el hemisferio cerebeloso derecho. Lesión isquémica aguda occipital derecha. También se objetivan pequeñas lesiones isquémicas agudas que de forma parcheada afectan al lóbulo temporal, núcleo lenticular derecho,caudado derecho, porción posterior del valle Silviano, y dos de pequeño tamaño a nivel frontal y parietal derecho. Angio-RM intracraneal: Disminución de la señal de flujo en la porción distal del segmento M2 derecho.
+
+Exploraciones complementarias / Exploracions complementàries
+*	ECG en fibrilación auricular. Posterior telemetría en ritmo sinusal.
+
+Evolución / Evolució
+1. ICTUS ISQUÉMICO AGUDO DE ARTERIA CEREBRAL MEDIA DERECHA (ACMD). 2. FIBRILACIÓN AURICULAR. Paciente con antecedentes de fibrilación auricular conocida no anticoagulada, que el día 2/12 de 2017 presenta debilidad brusca de extremidades izquierdas, por lo que es traída por el SEM como código ictus extramuros. A su llegada se encuentra normotensa y afebril y presenta un síndrome hemisférico derecho extenso (NIHSS de 19). La analítica sanguínea muestra una anemia normocítica y leucopenia ya conocidas. El ECG muestra una fibrilación auricular también conocida previamente. En la neuroimagen de urgencias (TC multimodal) se objetiva una oclusión completa de la ACMD en su segmento M1 con penunmbra isquémica. En la  fase  aguda  se  reliza  tratamiento  de  reperfusión  con  trombectomía  mecánica  consiguiéndose  una recanalización completa (TICI  3). La neuroimagen  post-trombectomía  (RM  cerebral) no ha evidenciado complicaciones hemorrágicas y muestra lesiones isquémicas agudas en  territorio de la arteria cerebral posterior derecha (origen fetal) y de la ACMD.
+Se orienta como ictus isquémico agudo en territorio carotídeo derehco  de causa cardioembólica por fibrilación auricular no anticoagulada previamente al evento. Durante el ingreso en la unidad de ictus se inicia tratamiento anticoagulante con heparina sódica con posterior paso a acenocumarol oral. Ha realizado un episodio de fibrilación auricular paroxística con frecuencia ventricular rápida, controlando el ritmo con bisoprolol y con posterior paso a ritmo sinusal de manera espontánea. La evolución clínica ha sido favorable con marcada mejoría clínica, persistiendo hemiparesia facio(leve)-braquicrural(4+/5) izquierda, y en la monitorización encontrándose en ritmo sinusal.
+
+
+
+Dada la estabilidad clínica se procede al alta hospitalaria. Se recomienda mantener tratamiento con acenocumarol oral como prevención secundaria de nuevos eventos embólicos. Se recomienda acudir a control médico en consultas externas de neurología (Dr. _NAME_) según cita adjunta (6/3/17 a las 13.15h).
+Al alta: NIHSS 1, Rankin 2, TOAST cardioembólico.
+
+3. DÉFICIT DE VITAMINA B12.
+En análisis de ingreso presenta déficit de vitamina B12 (173 pg/mL). Se inicia suplementación vía oral. Se aconseja control por médico de atención primaria.
+
+Plan terapéutico / Pla terapèutic
+Cambio de omeprazol 20mg por pantoprazol  40mg. Acenocumarol según pauta.  Optivite 1000mcg/24h. Bisoprolol 5mg/12h. Resto de la medicación sin cambios.
+
+Otras recomendaciones / Altres recomanacions
+Acudir a consultas externas de neurología (se adjunta citación) y control por sus médicos habituales.
+
+
+
+Firma/Signatura1: _NAME_	Firma/Signatura2: _NAME_ Categoría: Resident 4	Categoría: Especialista
+Nº Matrícula _SS_: _ID_	Nº Matrícula _SS_: _ID_
+
+Fecha Alta Médica/Data Alta Mèdica: 07.12.2017 Hora Alta Médica/ Hora Alta Mèdica: 16:15:50
+
+Fecha/Data Informe: 07.12.2017
+Hora Informe: 16:15:50
+
+Docum.: _ID_
+Hist. Clínica: _ID_
+El _SS_ ha incorporado sus datos al Fichero de Pacientes, para tratarlos con fines sanitarios.
+Puede ejercer sus derechos de acceso, rectificación, cancelación y oposición, así como obtener mas información en la Unidad de Atención al Cliente.
+Vers. 01
+Pag. 2 de
+3
+Episod.: _ID_
+_SS_ ha incorporat les seves dades al Fitxer de Pacients, per a tractar-los amb finalitats sanitàries. Pot exercir els seus drets d'accés, rectificació, cancel·lació i oposició, i obtenir més informació a la Unitat d'Atenció al Client.
+_SS_
+_LOCATION_) _LOCATION_) Tel. _CONTACT_ Fax _CONTACT_
+http://_CONTACT_/

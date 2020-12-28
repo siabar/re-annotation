@@ -1,0 +1,32 @@
+T0	FECHA 15 25	30-05-2018
+#0	AnnotatorNotes T0	2018-05-30
+T1	SECCION_DIAGNOSTICOS 27 39	Diagnosticos
+T2	FECHA 41 51	26/05/2018
+#2	AnnotatorNotes T2	2018-05-26
+T3	_SUG_Ataque_isquemico_transitorio 96 99	AiT
+T4	_SUG_Localizacion 103 127	territorio indeterminado
+T5	_SUG_Arteria_afectada 103 127	territorio indeterminado
+T6	_SUG_Etiologia 131 154	etiología indeterminada
+T7	SECCION_PROCEDIMIENTOS 160 174	Procedimientos
+T8	SECCION_MOTIVO_DE_INGRESO 212 229	Motivo de ingreso
+T9	HORA 302 303	1
+#9	AnnotatorNotes T9	1:00
+T10	SECCION_ANTECEDENTES_PATOLOGICOS 347 367	Antecedentes Médicos
+T11	SECCION_SITUACION_FUNCIONAL 566 581	Situación basal
+T12	_SUG_mRankin 590 595	mRS 0
+T13	SECCION_ANTECEDENTES_QUIRURGICOS 597 621	Antecedentes Quirúrgicos
+T14	SECCION_TRATAMIENTO_HABITUAL 625 649	Tratamiento domiciliario
+T15	SECCION_PROCESO_ACTUAL 761 770	Anamnesis
+T16	HORA 877 879	21
+#16	AnnotatorNotes T16	21:00
+T17	FECHA 885 893	25/05/18
+#17	AnnotatorNotes T17	2018-05-25
+T18	HORA 1068 1073	21.10
+#18	AnnotatorNotes T18	21:10
+T19	SECCION_EXPLORACION_FISICA 1103 1114	Exploración
+T20	_SUG_NIHSS 1880 1891	NIHSS: 0 [3
+T21	SECCION_EXPLORACIONES_COMPLEMENTARIAS 2172 2206	Resultados pruebas complementarias
+T22	_SUG_TAC_craneal 2235 2247	TAC cerebral
+T23	SECCION_EVOLUCION 3066 3088	Evolución Hospitalaria
+T24	SECCION_TRATAMIENTO_Y_RECOMENDACIONES_AL_ALTA 3404 3441	Recomendaciones y tratamiento al alta
+T25	_SUG_Tratamiento_antiagregante 3580 3602	Ácido acetilsalicílico

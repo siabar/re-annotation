@@ -1,0 +1,30 @@
+T1	SECCION_DIAGNOSTICOS 316 331	DIAGNÒSTIC ALTA
+T2	SECCION_MOTIVO_DE_INGRESO 658 675	Motiu de consulta
+T3	_SUG_Trombolisis_intravenosa 849 876	tratamiento trombolítico ev
+T4	SECCION_ANTECEDENTES 879 890	Antecedents
+T5	_SUG_Trombolisis_intravenosa 946 965	tratamiento con ASA
+T6	_SUG_Trombolisis_intravenosa 2693 2712	tratamietno con ASA
+T7	_SUG_TAC_craneal 2761 2763	TC
+T8	SECCION_ANTECEDENTES_QUIRURGICOS 2796 2798	IQ
+T9	SECCION_PROCESO_ACTUAL 3503 3518	Malaltia actual
+T10	_SUG_TAC_craneal 4004 4006	TC
+T11	_SUG_Trombolisis_intravenosa 4073 4084	trombolisis
+T12	_SUG_Trombolisis_intravenosa 4162 4166	rTPA
+T13	Hora_primer_bolus_trombolisis_rtPA 4173 4178	16:45
+#13	AnnotatorNotes T13	16:45
+T14	SECCION_EXPLORACION_FISICA 4406 4423	Exploració física
+T15	SECCION_EXPLORACIONES_COMPLEMENTARIAS 4939 4967	Exploracions complementàries
+T16	SECCION_EXPLORACIONES_COMPLEMENTARIAS_EN_URGENCIAS 5025 5047	Analítica de urgencias
+T17	SECCION_EXPLORACIONES_COMPLEMENTARIAS_EN_PLANTA_DE_NEUROLOGIA 5106 5126	Analitica de ingreso
+T18	TAC_craneal 5141 5151	TC craneal
+T19	_SUG_TAC_craneal 5772 5784	transcraneal
+T20	_SUG_TAC_craneal 5799 5811	transcraneal
+T21	_SUG_Trombolisis_intravenosa 6431 6440	trombosis
+T22	_SUG_TAC_craneal 6865 6872	craneal
+T23	SECCION_EVOLUCION 7915 7923	Evolució
+T24	Trombolisis_intravenosa 8082 8088	rTPAev
+T25	_SUG_TAC_craneal 8104 8111	craneal
+T26	_SUG_Trombolisis_intravenosa 10464 10471	rTPA ev
+T27	SECCION_TRATAMIENTO_Y_RECOMENDACIONES_AL_ALTA 10791 10815	Tractament mèdic al alta
+T28	SECCION_TIPO_DE_INGRESO 11474 11488	Tipus d'ingrés
+T29	SECCION_MOTIVO_DEL_ALTA 11490 11502	Motiu d'alta

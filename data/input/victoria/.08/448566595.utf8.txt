@@ -1,0 +1,93 @@
+I.CLINIC DE NEUROCIÈNCIES G064 SALA G DE NEUROLOGIA
+_NAME_	NHC: _ID_
+
+
+Sexo/Sexe: Masc.	Fecha nac./Data naix.: _DATE_	Edad/Edat: 59 años Dirección/Adreça: _LOCATION_	CP: _LOCATION_
+Municip. (Prov.): _LOCATION_  ABS:_SS_	Tel.:_CONTACT_
+As.: SERVEI CATALA DE LA SALUT	CIP: _ID_	NASS: _ID_
+Nº epis.: _ID_	Tipo/Tipus: HOSPIT.	Inici.: 28.11.2017
+Serv: NEUROLOGIA	UO Enf.: G064 SALA G DE NEUROLOGIA	Hora: 21:43:43
+Facult. de ref.: _NAME_
+
+
+
+
+Tipo ingreso/Tipus ingrés: Urgent	Motivo/Motiu alta: Dom. Familiar
+Diag.:
+ICTUS ISQUÉMICO MESENCEFALO-TALÁMICO DERECHO. () DIABETES MELLITUS. ()
+Proc.:
+ANALÍTICA SANGUÍNEA () TC MULTIMODAL ()
+
+
+
+
+INFORME CLÍNICO ALTA / INFORME CLÍNIC ALTA
+
+Motivo de consulta / Motiu de consulta
+Inestabilidad a la marcha
+
+Antecedentes e historia previa / Antecedents i història prèvia
+Hombre  de  59  años,  sin  alergias  medicamentosas  conocidas.  Sin  hábitos  tóxicos.  Vive  con  su  madre. Independiente para ABVD (mRS 0).
+
+ANTECEDENTES PATOLÓGICOS
+1. DIABETES MELLITUS TIPO 2 de más de 10 años de evolución, en tratamiento con ADOs. No refiere otros antecedentes medicoquirúrgicos de interés.
+
+MEDICACIÓN HABITUAL (act 28/11/17)
+- AAS 100 mg/24h - Metformina 850 mg/12h - Repaglinida 0,5 mg/8h.
+
+Proceso actual / Procés actual
+Varón de 59 años que el 28.11/.2017 a las 15:30h presenta episodio súbito de inestabilidad de la marcha, con lateralización hacia la izquierda y alteracion del habla, por lo que consulta a urgencias.
+
+Exploración física / Exploració física
+28/11/2017-21:51:00: FiO2 (%) 21, Frecuencia respiratoria (rpm) 17, Glic emia capilar (mg/dl) 345, PAS (mm Hg) 135, PAD (mm Hg) 68, Pulsioximetrí a (%) 96, Tª axilar (ºC) 36.3.
+NRL: consciente y orientado globalmente. Lenguaje levemente hipofluente sin rasgos de afasia (nomina 6/6, comprende órdenes simples y cruzadas, repite correctamente). Disartria leve. PICNR, mirada conjugada centrada sin limitaciones a la excursión visual, no nistagmus ni diplopia. Campimetría por confrontación conservada. Hemiparesia facio (central, leve)- braquial (4/5 distal con pronación en Barré) izquierda. Sensibilidad táctil sin alteraciones ni extinción. Dismetría leve de ESI. Marcha con lateralización hacia la izquierda. Romberg negativo. NIHSS 4.
+
+Laboratorio / Laboratori
+*	ANALÍTICA: Se adjunta.
+- Glucemia 126 mg/dl. - Perfil lipído, tiroidal y vitaminas normales. - Hemograma y coagulación: sin alteraciones.
+
+Radiología / Radiologia
+*	TC MULTIMODAL:
+TC CRANEAL BASAL: No se observa hemorragia intra ni extraaxial. Hipodensidad talámica derecha sugestiva de corresponder a infarto lacunar establecido. Resto del parénquima cerebral sin alteraciones densitométricas con diferenciación cortico-subcortical conservada (ASPECTS 10). TC  PERFUSIÓN: No se observan alteraciones valorables en el TTP, CBV y CBF. Sin discordancia significativa. ANGIO-TC EXTRA E INTRACRANEAL: Arco aórtico y segmentos proximales de troncos supraórticos sin ateromatosis ni signos de estenosis. Origen, bifurcación y segmentos cervicales de la arteria carótida interna sin ateromatosis ni signos de estenosis.
+* RM CRANEAL: Infarto lacunar talamico derecho con restos hematicos en su interior que condiciona discreto efecto de masa sobre la pared lateral derecha del 3er ventrículo. La presencia de material hemático en el contexto de lesión isquémica no permite valorar la evolución temporal mediante secuencias de difusión,aunque la presencia de efecto de masa sugiere una lesión aguda-subaguda. No se aprecian colecciones extraaxiales. No se identifican alteraciones de la intensidad de señal de flujo de las arterias carótidas, vertebrales, tronco basilar y de la vasculatura del polígono de Willis.
+
+Evolución / Evolució
+1.- ICTUS ISQUÉMICO AGUDO TALÁMICO DERECHO.
+Paciente que consulta por cuadro súbito de inestabilidad a la marcha con lateralización hacia la izquierda de 6h de evolución clínica. En la exploración neurológica destaca mirada desconjugada en posicion primaria sin oftalmoparesia ni diplopia así como dismetría de extremidades izquierdas. La analítica sanguinea muestra hiperglucemia de 314 mg/dl con HbA1c de 14, sin otras alteraciones relevantes. La neuroimagent (TC Craneal y RM cerebral) muestra lesión isquémica aguda talámica media y mesencefálica correspondiente. El estudio vascular (Doppler troncos supraórticos/transcraneal y angio-RM) sin signos de estenosis ni oclusión de gran vaso intra ni extracraneal. Durante su monitorizacion en la Unidad de ictus (>48h) no se han registrado alteraciones del ritmo cardiaco y un ecocardiograma transtorácico no ha mostrado la presencia de fuentes embólicas mayores.
+Se orienta como ictus isquémico agudo en territorio de ramas ramas perforantes talámicas paramedianas derechas probablemente en relación a arteriopatía de pequeño vaso en paciente con factores de riesgo vascular. Durante el ingreso se mantiene tratamiento antiagregante, estatinas y se ajusta el control de los factores de riesgo vascular.
+Dada la estabilidad clínica se decide el alta hospitalaria. Al alta persiste leve desconjugación de la mirada y limitación en la supra e  infraversión, así como discreta lateralización de la marcha a la  izquierda. Se recomienda control estricto de los factores de riesgo vascular por su médico de familia (con especial énfasis en el control de la diabetes mellitus) y control por su neurólogo de zona.
+Al alta: NIHSS 1, TOAST indeterminado; mRS 2.
+
+2.- DIABETES MELLITUS
+El paciente tiene antecedente de diabete mellitus, no obstante suspendió de forma unilateral en tratamiento antidiabético y no se ha realizado controles. En analítica de urgencias presentó hiperglucemia de 314 mg/dl y durante ingreso ha presentado hiperglucemia requiriendo tratamiento con insulina. Se ha iniciado tratamiento con Metformina 850 mg c/8h y se ha solicitado IC con endocrinología para ajuste terapéutico y posterior control. Al alta se recomienda tratamiento con insulina sc. Se entregan pautas de insulinoterapia, con correcciones. Se le ha realizado la educación diabetológica en sala, se han hecho recomendaciones dietéticas y se le han explicado los signos de hipoglicemia. Acudirá a control en HDía de
+
+
+
+Endocrinología en 10 días, según cita adjunta.
+
+Plan terapéutico / Pla terapèutic
+Pantoprazol 40 mg Vía oral. Una vez al día, en el desayuno. Clopidogrel 75 mg Vía oral. Una vez al día, en el desayuno. Atorvastatina 40 mg Vía oral. Una vez al día, en la cena. Humalog 100 u/ml, 6 UI. Vía subcutanea. Desayuno, comida y cena. Enalapril 5 mg Vía oral. Dos veces al día: desayuno y cena. Metformina 850 mg Vía oral. Dos veces al día: desayuno y comida. Lantus solostar 100 unidades/ml, 20 UI. Vía subcutanea. Cada 24 horas al acostarse.
+
+Otras recomendaciones / Altres recomanacions
+- Acudirá a H.Día de Endocrinología según cita adjunta.
+
+
+
+Firma/Signatura1: _NAME_	Firma/Signatura2: _NAME_ Categoría: Resident 3	Categoría: Especialista
+Nº Matrícula _SS_: _ID_	Nº Matrícula _SS_: _ID_
+
+Fecha/Data Informe: 02.12.2017
+Hora Informe: 15:53:31
+
+Docum.: _ID_
+Hist. Clínica: _ID_
+El _SS_ ha incorporado sus datos al Fichero de Pacientes, para tratarlos con fines sanitarios.
+Puede ejercer sus derechos de acceso, rectificación, cancelación y oposición, así como obtener mas información en la Unidad de Atención al Cliente.
+Vers. 00
+Pag. 2 de
+3
+Episod.: _ID_
+_SS_ ha incorporat les seves dades al Fitxer de Pacients, per a tractar-los amb finalitats sanitàries. Pot exercir els seus drets d'accés, rectificació, cancel·lació i oposició, i obtenir més informació a la Unitat d'Atenció al Client.
+_SS_
+_LOCATION_) _LOCATION_) Tel. _CONTACT_ Fax _CONTACT_
+http://_CONTACT_/

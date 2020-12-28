@@ -1,0 +1,35 @@
+T1	SECCION_ANTECEDENTES_PERSONALES 776 799	Antecedentes personales
+T2	mRankin_previa 898 913	Rankin previo 0
+#2	AnnotatorNotes T2	0
+T3	SECCION_EXPLORACION_FISICA 916 934	EXPLORACIÓN FÍSICA
+T4	NIHSS_previa 1257 1264	NIHSS 7
+#4	AnnotatorNotes T4	7
+T5	SECCION_EVOLUCION 3265 3274	Evolución
+T6	SECCION_DESTINO_AL_ALTA 3873 3888	Destino al alta
+T7	mRankin_alta 3901 3917	Rankin (alta): 1
+#7	AnnotatorNotes T7	1
+T8	NIHSS_alta 3918 3933	NIHSS (alta):	0
+#8	AnnotatorNotes T8	0
+T9	Fecha_de_ingreso 406 415	23/1/2017
+#9	AnnotatorNotes T9	2017-01-23
+T10	Fecha_llegada_hospital 406 415	23/1/2017
+T11	Fecha_de_alta 444 453	26/1/2017
+#11	AnnotatorNotes T11	2017-01-26
+T12	Fecha_inicio_sintomas 550 559	22/1/2017
+#12	AnnotatorNotes T12	2017-01-22
+T13	Hora_inicio_sintomas 566 571	18:30
+#13	AnnotatorNotes T13	18:30
+T14	Hora_llegada_hospital 667 672	04:57
+#14	AnnotatorNotes T14	04:57
+T15	Arteria_afectada 2360 2369	M1 de ACM
+T16	SECCION_DIAGNOSTICOS 3937 3949	Diagnósticos
+T17	SECCION_DIAGNOSTICO_PRINCIPAL 3953 3974	Diagnóstico principal
+T18	Ictus_isquemico 3977 3984	Infarto
+T19	Localizacion 3985 3992	lacunar
+T20	Etiologia 3985 3992	lacunar
+T21	Lateralizacion 4002 4011	izquierdo
+T22	SECCION_DIAGNOSTICOS_SECUNDARIOS 4013 4037	Diagnósticos secundarios
+T23	SECCION_PROCEDIMIENTOS 4097 4111	Procedimientos
+T24	SECCION_TRATAMIENTO_AL_ALTA 4233 4252	Tratamiento al alta
+T25	SECCION_RECOMENDACIONES 4381 4421	Recomendaciones de prevención secundaria
+T26	SECCION_CONTROL 4858 4865	Control

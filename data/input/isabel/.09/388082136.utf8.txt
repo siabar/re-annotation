@@ -1,0 +1,104 @@
+1/ 3
+
+Cognoms:  _NAME_	Adreça: _LOCATION_
+Nom:	_NAME_	_LOCATION_
+Edat: 89	Sexe: M	CIP:	_ID_	NIF:	_ID_
+Data naixement:  _DATE_	NHC:	_ID_	NASS:  _ID_
+Telèfon / Mòbil:	_CONTACT_
+
+INFORME D'ASSISTÈNCIA
+
+
+Metge/essa:	_NAME_	Servei:	Geriatria
+Data ingrés:	28/06/2017	Data Alta: 10/07/2017
+S'informa a:	Metge de família	Núm. llit: _ID_
+
+
+
+DIAGNÒSTICS:
+1.	ICTUS ISQUÉMIC AGUT
+2.	CRISI HIPERTENSIVA
+3.	AC x FA (descoagulada amb sintrom)
+4.	HIPOPOTASEMIA LLEU
+5.	DECLIVE FUNCIONAL
+6.	Sdre. depressiu
+
+MOTIU DE CONSULTA:
+Pacient de 89 anys amb al·lèrgia a penicil·lina, sense h. Tòxics, derivada des de domicili per pèrdua de coneixement.
+
+ANTECEDENTS PATOLÒGICS:
+-	HTA
+-	Dislipemia
+-	FA permanent ... Anticoagulada amb sintrom
+-	Síndrome depressiu
+-	ITUs de repetició
+-	Hernia hiatal
+-	Hipertiroïdisme en la joventut
+-	Artrosi coxofemoral esq.
+-	Poliartràlgies + anèmia inflamatòria
+-	Feb-03. Ingreso M.I.: AVC isquèmic protuberancial dret. HTA.
+o	TAC cranial: canvis corticosubcorticals propis de l'edat de la pacient.
+o	Ecocardiograma: VE no dilatat ni hipertròfic. Bona contractilitat global i segmentària. AE mínimament dilatada. Calcificació de l'anell mitral posterior. IM lleugera-moderada. IAo lleugera. Cavitats dretes normals.
+o	Holter 24 h: RS. FC entre 88 i 37 x' i FCM de 49 x'. No EV. ESV ocasionals. 5 Runs SV d'entre 9 i 4 batecs i una FC de 130 x'. No bradiarítmies ni ones P bloquejades.
+o	RMN cranial: discrets signes d'atròfia cerebel·losa. Dubtoses lesions d'AVC lacunars en els ganglis basals. Imatge suggestiva d'isquèmia a protuberància dreta paramedial
+-	Ingrés a M. Interna (2013): Insuficiència cardíaca esquerra, FA ràpida, Insuficiència renal aguda.
+-	IQ: Histerectosalpingooforectomia per sagnats de repetició  arran d'un avortament, als 40 anys, Faquectomia (2013).
+
+Valoració geriàtrica integral:
+V. social: viu amb el seu marit. Suport de T. Familiar 4 h/dia excepte diumenge. 5º pis amb ascensor. Dutxa. Bon suport de la seva filla
+V: funcional: autònoma per menjar, WC, higiene personal, precisa ajuda per dutxa. Deambula amb caminador per carrer. Per casa sense ajuda. Incontinencia urinària. Controla esfínter anal.
+V. anímica: fons depressiu
+V. nutricional: no consta disfàgia
+V. cognitiva: probable deterior cognitiu d'un any d'evolució amb amnèsia i desorientació sense trastorns conductuals.
+V. sensorial. Hipoacúsia bilateral
+
+TRACTAMENTS: sintrom, sertralina, lantanon, hidroferol, digoxina, enalapril/hidroclorotiazida, pantoprazol., lorazepan
+
+MOTIU DE CONSULTA: pacient que a les 13:30 h d'avui presenta quadre de d'esvaniment amb dubtosa pèrdua de coneixement, amb posterior dificultat al parlar motiu pel que consulta.
+EXPLORACIÓ a urgències: PA 198/81, Tª.ax 35.8ºC , FC 61 , FR 18 , SO2 97%
+PELL I MUCOSES: Normohidratada I normocolorida. NRL: Conscient i desorientada. Comprèn 1 ordre, expressió nul·la. No asimetria facial, pronació de mà dreta al Barré, no claudicació d'EE, no asimetries en resposta a estímuls noioceptius, no dèficit campimètric per amenaça. NIHSS: 0-2-1-0-0/ 0-0-0-0-0/ 0-0-3-2-0= 8
+RESP: MV audible no estretors. COR: Rc arítmics, bon to, no bufs. Abdomen: tou i depressible, no dolorós a palpació.
+
+A urgències es realitza:
+Analítica: BQ: Glucosa 230.6, Urea 48.6, Creatinina 0.79, Filtrat glomerular estimat 67,  Sodi 141, Potassi 3.2, Clor 101.
+Hemoglobina 12.2, Hto: 39.1 %, VCM 77, HCM 24, Leucòcits 8000 (Neutròfils % 62.9, Neutròfils total 5.040, Limfòcits %
+22.8, Limfòcits total 1.820, Monòcits % 11.0, Monòcits total 880), Plaquetes 198000, PCR: 0.4
+I.N.R	2.08
+ECG: RS x75 lpm, amb extrasístoles ventriculars.
+TAC cranial: Estudi basal. Estructures de la línia mitja no desplaçades. Cisternes perimesencefàliques i de la base no obliterades. Augment de mida del sistema ventricular i eixamplament dels espais aracnoïdals dels solcs corticals i valls silvians per atròfia córtico-subcortical. Hipodensitat de la substància blanca periventricular per leucoencefalopatia hipòxico- isquèmica de petit vas. No hi ha imatges de fractura o sagnat. Ateromatosis càlcica de sifons carotidis i arteries vertebrals.
+
+COMENTARI:
+Pacient de 89 anys, pluripatologica que a les 13: 30 h d'avui presenta quadre de possible síncope amb afàsia, a l'arribar a urgències s'activa codi ictus, sent valorada per neurologia qui desactiva el codi en context de la seva situació clínico- funcional de base. A més de no ser tributària a fibrinòlisi. Es realitza TAC cranial en el qual no s'aprecien imatges de fractures ni sagnat,
+A la vegada presenta xifres de TA: 198/81 pel que s'administren 2 captopril de 25mg Es decideix ing´res a geriatria per completar valoració i ajustar tractament.
+
+Exploració a planta:
+Pacient conscient, desorientada, col·laboradora. NC. NH AC: aritimica, AR mv. conservat, Abdomen tou, depressible, no dolorós. No palpo masses ni megàlies. Presenta afàsia predominantment motora, encara que comença a pronunciar paraules Movilitza correctament les EE.
+
+Exploracions complementaries:
+Analitica (03/07/2017): Urea 48.5, Creat 0.88, Na 147, K 3.5, Cl 102, FG 58. Hb 12.9, Hto 42.4%, VCM 79.4, HCM 24.2,
+Leucos 8780 (58.4 S, 26 L, 8 M), Plaqts 229000.
+RNM cerebral (07/07/2017): Fosa posterior sin alteraciones. Atrofia corticosubcortical global con dilatación de los surcos cerebrales, de los espacios perivasculares en los ganglios basales y del sistema ventricular el cual se presenta de morfología normal. Sustancia blanca periventricular de hiperseñal en T2 y Flair así como pequeñas lesiones de la sustancia blanca en ambos centros semiovales, hiperintensas en T2 y FLAIR, de aspecto RM inespecífico probablemente isquémico crónico. Áreas hiperintensas en T2 y Flair y difusión subcortical parietal izquierda y occipital periventricular izquierda, mal definidas y compatibles con infartos isquémicos subagudos en el territorio de la ACM izquierda. No se detectan otras lesiones isquémicas, hemorrágicas ni malformativas vasculares o neoformativas expansivas. Flow void fisiológico en senos venosos, tronco basilar y los trayectos intracraneales de ambas arterias carótidas internas
+
+Evolució:
+Inicialment la pacient es manté estable, afebril, col·laboradora, comença a pronunciar paraules (el seu nom, on viu ...). Presenta bona tolerància de la sedestació.
+
+Evolució per problemes:
+1.	ICTUS ISQUÉMIC AGUT amb afasia mixte de clar predomini motor: presenta progressiva millora de la parla, respecte a l'ingrés.
+
+1.	Deterior funcional associat amb dificultat per la deambulació: realitza deambulació al WC amb caminador pero amb clar component d'inestabilitat i risc de caigudes
+
+2.	CRISI HIPERTENSIVA ... actualment TA correcte.
+
+3.	AC x FA (descoagulada amb sintrom) ... s'ha ajustat pauta segons INR
+
+4.	HIPOPOTASEMIA LLEU: K 3.2 .. últim control (03/07): K 3.5
+
+5.	Sdre. Depressiu: s'ha mantingut estable.
+
+
+
+Tributaria de trasllat a convalescencia-_SS_ per continuar programa de RHB i posterior retorn a domicili.
+
+Posteriorment contactar amb hospital de dia-geriatria (contactar amb Dr. _NAME_) per seguiment clínic.
+
+Signat per _NAME_ núm.col: _ID_ Data/Hora:10-07-2017 09:22

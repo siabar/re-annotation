@@ -1,0 +1,75 @@
+INFORME ALTA HOSPITALARIA
+_NAME_
+Núm. Episodi: _ID_ Núm. HC: _ID_
+_SS_ _LOCATION_
+_LOCATION_
+Tel. _CONTACT_Adreça: _LOCATION_	C.A.P.: _SS_
+Població: _LOCATION_	Sexe: DONA  Data naixement: _DATE_  Edat: 84a
+Telèfon: _CONTACT_  C.P.: _LOCATION_	T.I.S.: _ID_  DNI/NIF: _ID_
+
+Procedència:	Data Ingrés Hospital: 03/02/2017
+Servei assistencial: URGÈNCIES URG	Data Ingrés Servei:
+Metge Responsable: _NAME_	Data Alta: 10/2/2017
+
+
+Paciente de 84 años que acude por afasia de expresión el día 03/01/2017.
+
+ANTECEDENTS PERSONALS:
+1.	Sin alergias medicamentosas conocidas
+2.	Hipertensión arterial en tratamiento farmacológico.
+3.	Diabetes mellitus tipus II en tratamiento médico
+4.	Dislipemia en tratamiento médico
+5.	Accident vascular cerebral isquèmic al 2012. Últim TC crani 3/2014 que observa hipodensitat corticosubcortical frontal esquerre compatible amb seqüela de lesió isquèmica.
+6.	Hiperuricemia en tratamiento médico.
+7.	Esteatosis hepática secundaria a dislipemia, diagnosticada a raiz de hipertransaminasemia en la analítica de control. Ecografia abdominal (2014): Hígado de tamaño normal, homogeneo, sin signos de infiltración de grasa difusa.
+8.	Antritis erosiva. Ingreso por melenes al 6/2012 con gastroscopia que  muestra  antroduodenitis erosiva. Se atribuyo a atribuyo al trtamiento con AAS 300mg y se hizo tratamiento erradicador de H. pylori.
+9.	Hemorragia digestiva alta en forma de melenas con anemia ferropénica crónica por angiodisplasia jejunal con paciente en tratamiento habitual con aspirina 100mg. Se solicita enteroscopia con doble balón que informa de presencia de una angiodisplasia jejunal con sagrado pulsátil, que se trata con coagulación con argón y colocación de tres clips, consiguiendo la hemostasia. Se valora risgo- beneficio de sagnat (HAS-BLED 9) respecto al risgo de evento tromboembólico (CHA2DS2-VASc Score 7), manteniendose antiagregación con aspirina.
+10.	Diverticulos en el sigma.
+Situación basal: parcialemente dependiente para ABVD. Deterioro cognitivo leve. MRS1, Barthel 80   Medicació habitual: Omeprazol 40 mg 1-0-1, Lexatin 1.5 mg 0-1-0, Metformina 850mg 1/2-0-1/2, Ixia 10 mg
+1-0-0, Xeristar 60 mg 1-0-0, Secalip 145 mg 0-0-1, Zyloric 100 mg 0-0-1, Adiro 100 mg 0-1-0, Rivastigmina pegats.
+
+
+MALALTIA ACTUAL:
+Paciente de 84 años que acude por afasia de expresión el día 03/01/2017. A su llegada a urgencias la paciente se encontraba hemodinámicamente estable. A la exploración física destacaba una afasia sensitiva. Se realiza analítica que no muestra alteraciones. Se realiza TAC craneal que no muestra lesiones exansivas ni hemorragias agudas. Dado que la paciente había sido intervenida el diciembre 2016 por HDA se desestima para tratamiento fibrinolítico, no activándose código ICTUS. Se cursa ingreso en Neurología para completar estudio.
+
+
+EXPLORACIÓ FÍSICA:
+Consciente, orientada, normocoloreada, normohidrada TA: FC: SatO2 basal: AC: TCR sin soplos, sin edemas en EEII, sin signos de sobrecarga derecha AR: MVC sin ruidos sobreañadidos.
+ABD: blando y depresible, no doloroso a la palpación. No se palpan masas ni megalias. No signos irritación peritoneal.
+NRL: Glasgow 15. Afasia de expresión. No disartria, PPCC normales, PICNR, sin alteraciones sensitivas ni motoras, sin dismetrias. NIHSS 4
+
+
+EXPLORACIONS COMPLEMENTÀRIES:
+ECG: ritmo sinusal a 77x'. PR 0.16s.Hemibloqueo rama derecha. No alteraciones de la repolarización.  Gasometria (venosa): pH  7.36	pCO2 44	pO2 24  CO3H 24.9	EB -0.5	SO2 42%
+Analítica general: Hb 13.9 g/dl, Hto 42%, 421.000 plaquetas, 6970 leucocitos, glucosa 102 mg/dl, urea 60
+mg/dl, creatinina 0.93 mg/dl, Na 139 mmol/L, K 4.3 mmol/L, TP 115%.
+TAC craneal: No se observan lesiones isquémicas agudas/subagudas, así como tampoco colecciones hemorrágicas intra ni extraaxiales TC valorables. Área de encefaloamalacia frontotemporal izquierda compatible con ictus isquémico crónico de ramas anteriores superficiales de la ACM izquierda. Aumento del tamaño del sistema ventricular de manera proporcionada al aumento de la profundidad de los surcos subaracnoideos, compatible con atrofia córtico-subcortical. Hipoatenuación de la sustancia blanca periventricular y subcortical, sugestivo de desmielinización por  hipoperfusión crónica como opción más probable. Línea media centrada. Cisternas de la base y perimesencefálicas libres. No se observan lesiones de fosa posterior. No evidencia de lesiones óseas valorables.
+RM: pte informe
+Holter cardio: pte informe
+
+EVOLUCIÓ:
+Buena recuperación de lenguaje, paciente deambula, deterioro cognitivo mixto. NIHSS 1, MRS2, Barthel 60.
+
+
+JUDICI CLÍNIC:
+ICTUS en territorio ACM izquierdo de origen aterotrombotico. (PACI) 434.11
+
+
+TRACTAMENT:
+Tratamineto habitual: Omeprazol 40 mg 1-0-1, Lexatin 1.5 mg 0-1-0, Metformina 850mg 1/2-0-1/2, Ixia 10
+mg 1-0-0, Xeristar 60 mg 1-0-0, Secalip 145 mg 0-0-1, Zyloric 100 mg 0-0-1, Adiro 100 mg 0-1-0, Rivastigmina pegats.
+Control FRCV primaria
+Estimulación cogntiva, talleres de memoria Citar Dr _NAME_ en 3 meses
+
+
+Atentament,
+
+
+
+Signat:
+Dr/a.: _NAME_	Dr/a.:_NAME_
+Metge adjunt - Neurologia		Metge resident- Medicina Interna Número col·legiat: _ID_	Número col·legiat: _ID_
+
+Hospitalització
+Imprès: 10/02/2017 13:25
+Pàg.: 1 de  2

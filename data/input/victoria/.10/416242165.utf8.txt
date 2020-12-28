@@ -1,0 +1,202 @@
+_LOCATION_ Tel. _CONTACT_
+e-mail: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 39 Anys
+NIF/DNI: _ID_Informe d'alta d'hospitalització
+CP	_LOCATION_
+ABS	_SS_
+Servei	NEUROLOGIA
+Data d'alta  15.09.2017	14:30:00
+_LOCATION_
+_CONTACT_; _CONTACT_
+DOMICIL/RES.SOC 07.09.2017
+Dr. _NAME_, Dra. _NAME_, Dra. _NAME_, Dra. _NAME_
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Alteración de la emisión del lenguaje, alteración sensibilidad mano derecha
+
+ANTECEDENTS
+ANTECEDENTES PERSONALES:
+Mujer de 39 años Alergia a la PENICILINA. Exfumadora  10 cig/día desde hasta hace 8 años  Enolismo ocasional. Vive con su marido. Tiene 2 hijos. de 4 y 10 años
+
+ANTECEDENTES GINECOLÓGICOS:
+2 partos eutocicos sin complicaciones, 2 abortos de 8-9 semanas de gestación, luego del primer embarazo.
+
+ANTECEDENTES FAMILIARES
+Padre: Artritis Reumatoide y Enermdad de Parkinson.
+Hermano con Vasculitis granulomatosa de Wegener Dx  hace 21 años controles en el _SS_.
+
+ANTECEDENTES PATOLÓGICOS:
+-Presento sindrome vertiginoso autolimitado de 3-4 días de evolución durante su primer embarzo.No se realizaron estudios.
+-Migraña con aura de larga evolución, aura que se manifiesta con hipoestesia facial y en extremidad superior, de aprox 30 min duración, controles iniciales en el _SS_ hasta hace 4 años, posteriormente en la _SS_. NRL Dr _NAME_. desde hace 1 año.  No realiza  tratamiento de profilaxis anti-migrañoso.Solo triptanes y Analgesicos en el momento agudo. Frequencia de 1 episodio mensual, inicio en la adolescencia.
+-Ictus isquemico hemisferico cerebeloso izquierdo en probable relacion a un Sindrome vertiginoso que presento durante su primera gestación hace 10 años, en el estudio de migraña se solicita una RMN cerebral 03/2017 que objetiva como hallazgo inicidental una lesión hemisferica cerebelosa izquierda (No aporta informes, ni CD). Se realiza estudio de trombofilia Factor V Leiden que objetivo genotipo  homocigoto No mutado. Fenotipo normal. Factor II genotipo homocigoto No mutado. Fenotipo normal. Anticoagulante lupico negativo, Anti cardiolipina, beta2 glicoproteinas, homocisteina negativos. proteina C y S, resistencia proteina C activada, antitrombina III negativos. Deficit de factor VII aislado, sin clínica de hemorragias espontaneas, por lo que realizo un control con Hematología de la _SS_.
+-	Ecocardiografia que objetivo la presencia de foramen oval permeable y aneurisma de tabique interauricular (no aporta informes) que se realizó en contexto de control con prueba de esfuerzo (previa iniciar entrenamiento intensivo).
+-	Nodulos Tiroideos controles con Endocrinología en la _SS_.
+-	Varices venosas en extremidades inferiores intervenidas hace 10 años despues del primer embarazo.
+
+MEDICACIÓ HABITUAL
+Adiro 100 mg, Zomig 6 mg vsl , paracetamol-AINES.
+
+PROCÉS ACTUAL
+El 07.09.2017 a las  9.20h, mientras está planchando, presenta de forma  brusca dificultad para la emisión-
+
+Informe d'alta d'hospitalització
+
+
+
+
+articulación del lenguaje, con comprensión conservada y debilidad de extremidades derechas de predominio braquial. Avisan al SEM que nos activan código ictus a las 10.01h con llegada a nuestro centro a las 10.10h. Niega fiebre, cefalea.
+
+EXPLORACIÓ FÍSICA
+
+FC	105 bpm
+Tªaxi 35.6 ºC
+FR	16 rpm Tªrec  ºC
+TA s	130 mmHg SAT O2 99 %
+TA d   87 mmHg Pes Kg
+
+Exploración física en urgencias:
+Glicèmia capil·lar:96
+
+Exploración neurológica a su llegada a Urgencias: consciente y orientada en los tres ejes. Lenguaje normal. No disartria. Pares craneales normales. No presenta alteraciones de la fuerza, el tono o la coordinación. No déficit sensitivo. NIHSS 0#
+
+Exploración neurológica pre-rTPA: consciente y orientada en los tres ejes. Lenguaje: comprende, emite, repite, escritura conservada. Dificultad para la articulación del lenguaje grave que en ocasiones le impide la emisión por completo. Paresia facial central derecha; resto de pares craneales incluidos bajos sin alteraciones. Alteración sensitiva en hemicara derecha y mano derecha.
+NIHSS: (0.0.0)0.0/1(0.0)(0.0)/0.1.0.2. 0=4//
+
+Exploración física en la unidad de ictus:.
+Buen estado general, consciente y orientado, afebril, hemodinamicamente estable. Piel normohidratada y normcoloreada.
+Cardiovascular: Tonos cardiacos rítmicos regulares, sin soplos ni roces, ingurgitación yugular negativa, Pulsos periféricos presentes y simétricos Respiratorio: Tórax simétrico normoexpansible, murmullo vesicular conservado, sin ruidos agregados. Abdomen blando depresible no doloroso, sin masas ni megalias, peristaltismo presente, sin signos de irritación peritoneal Extremidades: No edemas en EEII, no signos de TVP Neurológico: Glasgow 15/15, sin focalidad aguda sensitiva ni motora, pares craneales indemenes, lenguaje coherente y fluido. Fuerza muscular 5/5, Campimetria por confrontación consevada. Romberg negativo No dismetrías, ni signos meníngeos.
+NIHSS: (0.0.0)0.0/0(0.0)(0.0)/0.0.0.0. 0=0
+
+Exploración física en planta de Neurologia:
+NRL: Consciente y orientada en los 3 ejes. No alteraciones de la emisión ni de la articulación del lenguaje. Pupilas isocóricas normoreactivas, campimetria por confrontación y oculomotricidad conservadas. No paresia facial, resto de pares craneales bajos normales. Sin deficit motor ni sensitivo, no dismetrias. Romberg negativo con buen control de tronco. Marcha estable.
+NIHSS: 0
+
+Sistémica: Normocoloreada y normohidratada, piel sin lesiones objetivables, no livedo reticularis ni  lesiones faciales. No palpo adenopatias.
+ACV: RCR sini soplos ni roces. AR: mvc sin ruidos sobreañadidos.
+EEII: sin signos de TVP, pulsos periféricos presentes y simétricos. Varices en ambas piernas sin signos de dilatación ni estasis.
+
+Informe d'alta d'hospitalització
+
+
+
+
+EXPLORACIÓ COMPLEMENTÀRIA
+EXPLORACIONES COMPLEMENTARIAS EN URGENCIAS
+
+ECG: ritmo sinusal a 90 lpm.
+
+Analítica urgencias (07/09/2017):
+Hematologia (07/09/17): Leucòcits 3800 /µL, (N 49,1 % / L 35,4 / M 9,5 / E 5 / B 1), Hties 4,14 mill/µL, Hb 13,3
+g/dL, Hct 40,4 %, VCM 97,6 fL, Plaquetes 204000 /µL, TP 85 %, INR 1,13 sg, TP ratio 1,13, TTPA 27,3 sg, TTPA
+ratio 0,88, Fibrinogen 291 mg/dL.
+Bioquimica (07/09/17): Glucosa 99 mg/dL, Urea 25, Creatinini 0,76, Na 139 mmol/L, K 4, Prot-C reactiva 2,5 mg/L..
+
+TC craneal (07/09/2017): No se observan lesiones isquémicas ni hemorrágicas agudas TC valorables.
+ASPECTS = 10 Área de encefalomalacia en hemisferio cerebeloso izquierdo, en relación con lesión isquémica crónica, según la historia clínica. Cisternas basales y perimesencefálicas libres. Línea media centrada. Sistema ventricular simétrico de tamaño y morfología conservados. Sin alteraciones óseas TC valorables. No se aprecian otras alteraciones intra ni extraaxiales TC valorables. Data: 07.09.2017.
+
+EXPLORACIONES COMPLEMENTARIAS EN UNIDAD DE ICTUS:
+
+Analítica de ingreso (08/09/2017):
+-	Hematologia: Leucòcits 4300 /µL, (N 68,7 % / L 22,6 / M 7 / E 0,8 / B 0,9), Hties 4,01 mill/µL, Hb 12,7 g/dL, Hct 38,4 %, VCM 95,7 fL, Plaquetes 193000 /µL, TP 68 %, INR 1,34 sg, TP ratio 1,34, TTPA 32,4 sg, TTPA ratio 1,05,
+Fibrinogen 267 mg/dL, VSG 8 mm.
+-	Estudio Anemias: Ferritin 15 ng/mL, Fe 112 µg/dL, Transferrina 241 mg/dL, Sat Trasferrina 34 %, TIBC 333
+µg/dL, Haptoglobina 97 mg/dL, B12 317 pg/mL, Fòlic 5 ng/mL, Fòlic eritròcits 255.
+-	Bioquimica: Glucosa  90  mg/dL,  Urea  21,  Creatinini  0,67,  Filtrat  glomerular  estimat  >90  mL/min/1.73 m2, Osmolalitat 285 mOsm/Kg, Urat 3,9 mg/dL, Ca 8,8, Fosfat 2,4, Mg 2,04, Na 140,8 mmol/L, K 3,89, Cl 109,8, ALT 9
+U/L, GGT 13, FA 46, LDH 127, Bilirubina 0,7 mg/dL, Bilirubina directa 0,17, Amilasa 45 U/L, CK 49, Prot-C reactiva
+2,3 mg/L, Proteïna 72,8 g/L, Albumina 39,9.
+-	Proteinograma: sin alteraciones patológicas, Homocisteïna 9 µmol/L.
+-	Lípids: Triglicèrid 42 mg/dL, Colesterol 135, (HDL 57,9 / LDL 69).
+-	Perfil tiroideo: TSH 1,77 µUI/mL, T4-Libre 1,07 ng/dL. T3 1.770, tiroglobulina 114.8 ng/mL.
+-	Autoinmunidad: F Reumatoide <10 UI/ml, ANAs positivo 1/320, c-ANCA negativo, anti-DNA, 7 ENAs, ANCAs, anti-MBG. PENDIENTES
+-	AntiTiroidals: anti-Peroxidasa tiroidal 174,43 UI/ml, anti-tiroglobulina 130,51, anti-rTSH PENDIENTE
+-	Marcadores Tumorales: Antígen carcinoembriogècic (CEA) 1.14 ng/ml <= 5  Alfa-fetoproteïna; 5.54 ng/ml <= 8.78 Antigen CA 15-3; 16.7 U/ml <= 31.3 Antigen CA-125; . 34.9 U/ml <= 35.0 Antígen CA-19-9; c. subst. arb 8.5 U/ml
+<= 37.0
+-	Inmunologia (08/09/17): Paraproteïnes no disp. Complement.- C3 106 mg/dL, C4 22. Immunoglobulines.- IgG 1350, IgM 48, IgA 345.
+-	Serologias (12/09/17): Ac Hepatitis-A [-], HBsAg [-], HBcAc [-], HBsAc [+], VHC [-], VIH 1-2 [-].
+-	Factores de Coagulacion: FACTOR II,c arb 69.5 % 70 - 120 * FACTOR V,c arb 118 % 70 - 120 FACTOR VII,c arb
+45.9 % 70 - 120 * FACTOR X,c arb 65 % 70 - 120 * FACTOR VIII,c arb 142.3 % 70 - 150 FACTOR IX,c arb 109.2
+% 70 - 120 FACTOR XI,c 107.9 % 70 - 120 FACTOR XII,c arb 119.2 % 70 - 150
+-	Estudio de Trombofilia: Prot S  83.5%, Prot C 80%, Factor V de Leiden y gen de protrombina PENDIENTES
+-	estudio anticoagulante lúpico negativo
+-	
+Informe d'alta d'hospitalització
+
+
+
+
+
+RMN cerebral 08/09/2017 : Mínimas lesiones isquémicas de aspecto reciente corticales frontales izquierdas, dos de ellas afectando al giro precentral sin edema ni signos de sufusión hemorrágica. No se aprecian            otras lesiones  isquémicas  recientes.  Lesión isquémica  crónica en el aspecto inferior y medial del hemisferio cerebeloso izquierdo. Pequeña lesión necrótica cortical con restos sideróticos frontal derecha que también sugiere ser secundaria a isquemia crónica. Algún foco gliótico en sustanciablanca supratentorial, de aspecto inespecífico. No se aprecian otras hemorragias o microhemorragias. Parénquima cerebral que no muestra otras alteraciones relevantes de la señal. Sistema ventricular de tamaño y morfología normales. Cisternas de la base patentes y libres.  No  se  aprecian efectos  de  masa, ni  alteraciones morfológicas relevantes.  Vasos  intracraneales  que muestran  vacío de señal en T2, sugiriendo permeabilidad. Se realiza angio-RM intracraneal mediante secuencia de flujo. No se aprecian oclusiones, estenosis relevantes ni otras alteraciones morfológicas significativas en las arterias intracraneales : Conclusiones:  Pequeñas lesiones isquémicas corticales de aspecto reciente en territorio superficial de ACM izquierda.
+
+EXPLORACIONES COMPLEMENTARIAS EN PLANTA DE NEUROLOGIA:
+
+Ecocardiografia transtorácica (14/09/2017):
+No s'administra bombolles ja que es FOP és conegut Presenta aneurisma del TIa amb un tabic hiperlaxe i mòbil FE conservada
+
+Doppler venoso: Se realizan 2 Eco Doppler venosos (13/09 y 14/09/2017) que muestran femorales comunas no comprimibles, con flujo pero con imágen que no permite descartar trombosis.
+
+Flebografía (14/09/2017):
+Mediante vía venosa periférica (20G) en ambos pies, se realiza flebografía de miembros inferiores:
+-Miembro inferior derecho: sistema venoso profundo permeable y sin defectos de repleción en toda su extensión (desde pie hasta vena ilíaca común).
+-Miembro inferior izquierdo: sistema venoso profundo permeable y sin defectos de repleción desde pie hasta vena ilíaca común, excepto a nivel de tercio medio-distal de vena femoral superficial donde se observa un stop y derivación del flujo por colateral, que podría estar en relación con antecedente quirúrgico que la paciente refiere (a correlacionar con hallazgos ecográficos). Tanto la vena femoral común como la vena ilíaca son permeables y sin defectos de repleción. No se producen incidencias.
+
+EVOLUCIÓ CLÍNICA
+Paciente de 39 años, con antecedentes de ictus isquémico cerebeloso izquierdo, migrañas con auras y foramen oval permeable que consulta por alteración de la emisión del lenguaje y debilidad de la mano derecha.
+
+Informe d'alta d'hospitalització
+
+
+
+
+A su llegada a Urgencias presenta constantes vitales conservadas y electrocardiograma en ritmo sinusal. A la exploración neurológica se aprecia remisión completa de la sintomatología (NIHSS 0). Se realiza TC craneal simple que no muestra alteraciones y estudio neurosonológico que muestra hipoplasia de a.vertebral izquierda sin otras alteraciones. Analítica urgente que muestar leucopenia. Al terminar el estudio neurosonológico, (11.05h) la paciente refiere dificultad para la articulación del lenguaje, que empeora en los siguientes 5 minutos presentado a la exploración disartria grave, paresia facial central derecha y alteración sensitiva de cara y mano derechas (NIHSS 4). Ante el nuevo episodio se decide iniciar tratamiento con alteplasa en box de semicríticos de Urgencias a las 11:18h (bolus 6.3mg+perfusión de 56.7mg, constantes prebolus TA 130/87, glicemia 96mg/dl). Durante la infusión presenta mejoría progresiva hasta quedar de nuevo asintomática (NIHSS 0). Ingresa en la Unidad de Ictus.
+
+A su llegada a la UIA, se encuentra afebril, hemodinamicamente estable, en la telemetria no se objetivan alteraciones del ritmo. Tolera dieta oral correctamente sin indicios de disfagia e inicia sedestación y deambulación por la unidad. La paciente se mantiene en todo momento asintomática neurologicamente.
+
+Para completar estudio se realiza RMN cerebral que objetiva pequeñas lesiones isquémicas corticales de aspecto reciente en territorio superficial de ACM izquierda, así como estudio neurosonológico que confirma shunt con paso de burbujas con patron en cortina. Dados los antecedentes familiares hermano con vasculitis y personales de abortos de repetición, ictus cerebeloso silente de cronologia incierta, así como leucopenia en analítica urgente, se amplia estudio de ingreso con perfil autoinmunidad que queda pendiente en el alta, a excepeción de ANA 1/320 positivo, y estudio de trombofilia con FVII alterada, recomendandose analítica de control en 3 meses. Serologías hepatitis, VIH que resultan negativas. Anti-tiroideos postivos (anti-peroxidasa y anti.tiroglobulina) por lo que solicitamos valoración por Endocrinologia que recomiendan seguimiento ambulatorio de cara al alta por Endocrinologo de zona. (quedando pendientes algunos resultados). Resto de estudio sin alteraciones relevantes.
+
+Se orienta como un ictus  isquemico  en  territorio superficial de ACM izquierda de macanismo embólico y de posible etiologia cardioembólica por formen oval permeable.
+Se mantiene con antiagregación con acido acetilsalicilico 300 mg y profilaxis con enoxaparia. Al alta de la UIA (NIHSS 0).
+
+Durante su ingreso en planta de Neurologia, la paciente persiste asintomática. Se solicita ecocardiografia transtorácica para confirmación de foramen oval permeable compatible con aneurisma en septo interauricular y FOP. Se realiza interconsulta a Cardiologia para manejo médico que aconseja en caso de alta, aumentar a adiro de 300 mg cada 24 horas, en caso de no encontrarse causa que requiera anticoagulación y mantener controles en CEX para valoración de tratamiento de manera ambulatoria, si fuera necesario.
+Doppler venoso vascular de extremidades inferiores por el antecedente de varices que no es concluyente en dos ocasiones, mostrando imagenes dudosas, no compresibles pero con paso de flujo a nivel de venas femorales comunes bilaterales de predominio izzquierdo así como en iliaca extrena izquierda. Para confirmar estos hallazgos se solicita flebografia que resulta normal.
+Se decide alta a domicilio con controles por especialistas de manera ambulatoria y aumentando antiagregación a Adiro 300 mg.
+
+Al alta: NIHSS: 0
+mRS: 0
+
+DIAGNÒSTICS
+
+Informe d'alta d'hospitalització
+
+
+
+
+1.- Ictus   isquemico   en   territorio superficial de ACM izquierda de macanismo embólico y de posible etiologia cardioembólica por formen oval permeable.
+2.- Foramen oval permeable
+3.- Ictus isquémico crónico en hemisferio cerebeloso izquierdo.
+
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+- Adiro 300 mg cada 24 horas
+
+CONTROL
+Control de factores de riesgo cardiovasculares por medico de cabecera.
+Primer visita en Consultas Externas de Neurologia (Dra. _NAME_) el 17/11/2017 a las 9h30 en _SS_ (primera planta).
+Se le avisará telefonicamente de las visitas con Cardiologia y Hematologia.
+Se recomienda derivación a Endocrinologo de zona para controles de función tiroidea y anticuerpos anti-tiroideos
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+15.09.2017
+Pàgina 1 de 6

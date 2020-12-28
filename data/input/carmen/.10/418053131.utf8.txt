@@ -1,0 +1,107 @@
+ÀREA QUIRÚRGICA
+E043 SALA E CURES INT. QUIR.
+_NAME_	NHC: _ID_
+
+
+Sexo/Sexe: Fem.	Fecha nac./Data naix.: _DATE_	Edad/Edat: 79 años Dirección/Adreça: _LOCATION_	CP: _LOCATION_
+Municip. (Prov.): _LOCATION_  ABS:_SS_	Tel.:_CONTACT_
+As.: SERVEI CATALA DE LA SALUT	CIP: _ID_	NASS: _ID_
+Nº epis.: _ID_	Tipo/Tipus: HOSPIT.	Inici.: 15.09.2017
+Serv: NEUROLOGIA	UO Enf.: E043 SALA E CURES INT. QUIR	Hora: 04:55:39
+
+
+
+
+
+Tipo ingreso/Tipus ingrés: Urgent	Motivo/Motiu alta: Defunc.
+Diag.: hiperproteinorraquia () Proc.:
+MONITORIZACION DE PRESION ARTERIAL SISTEMICA (89.61) MONITORIZACION ELECTROCARDIOGRAFICA (89.54)
+MONITORIZACION CIRCULATORIA (89.6) MONITORIZACION DE PRESION VENOSA CENTRAL (89.62)
+MONITORIZACION DE GASTO CARDIACO POR OTRA TECNICA (89.68) INFUSIÓ D'AGENT VASOPRESSOR (00.17)
+TOMOGRAFIA AXIAL COMPUTERIZADA DE CABEZA (87.03) TOMOGRAFIA AXIAL COMPUTERIZADA DE TORAX (87.41) TOMOGRAFIA AXIAL COMPUTERIZADA DE ABDOMEN (88.01)
+ULTRASÓ DIAGNÒSTIC DE COR; ECOCARDIOGRAFIA TRANSESOFÀGICA (88.72) HEMODIALISIS (39.95)
+
+
+
+
+INFORME EXITUS
+
+Motivo de consulta / Motiu de consulta
+Disminución del nivel de consciencia
+
+Antecedentes e historia previa / Antecedents i història prèvia
+Antecedentes personales:
+Mujer de 79 años, sin alergias medicamentosas conocidas, refiere alguna alergia ambiental que no sabe especificar. Sin hábitos tóxicos. Vive con su marido, independiente para ABVD,
+
+
+ANTECEDENTES PATOLÓGICOS
+
+No refiere antecedentes medicoquirúrgicos de interés.
+
+
+MEDICACIÓN HABITUAL (act 14/09/17)
+
+No toma.
+
+
+Proceso actual / Procés actual
+Paciente traída por el SEM (triaje el jueves 14/09/17 a las 20:36h) tras ser encontrada por su familia en domicilio, al despertar de la siesta el día 14/09/17 sobre las 17h, con cuadro de disminución del nivel de
+consciencia y mutismo. Ha presentado un vómito de contenido alimentario.
+Los familiares refieren haberla visto asintomática por última vez antes de la siesta (sobre las 15:00h) y niegan consumo de fármacos, tóxicos u otra sintomatología en días previos.
+
+Exploración física / Exploració física
+16/09/2017-01:00:00: Glicemia capilar (mg/dl) 246.
+HDE, normotensa, eupneica en reposo. Caquéctica, en regular estado general.
+CCV: tonos arrítmicos (extrasístoles?) con soplo sistólico de predominio aórtico. No edemas en EEII.
+NRL: somnolienta, perpleja, inatenta y poco reactiva a estímulos externos. Lenguaje muy hipofluente, pero sin claros rasgos de afasia (nomina 5/5, comprende órdenes simples). Disartria moderada. PICNR, mirada centrada sin limitaciones a la excursión visual, reflejo de amenaza presente bilateral y simétrico. No paresia facial. Paresia braquio- crural (3/5) derecha. Sensibilidades y dismetrías no valorables. RCP flexor bilateral. Marcha no explorada.
+
+Radiología / Radiologia
+15/09/2017 : Tac toraco-abdominal : tac toraco-abdominal.
+
+TET correctamente posicionado. Presencia de SNG. No se observan adenopat ías axilares ni mediastínicas de tamaño valorable. Leve derrame pleural bilateral. No derrame pericárdico. Adyacente y lateral a la inserción de la válvula mitral se aprecia una masa periféricamente calcificada de ap rox. 45 x 27 mm. Puede corresponder a una calcificación caseosa del anil lo mitral como primera posibilidad diagnóstica, aunque el estudio es sub óptimo debido a los artefactos de movimiento cardíaco. En parénquima pul monar se aprecian múltiples imágenes nodulares de distribución difusa y predominio periférico, en zonas declives y adyacente a las cisuras, con formación de áreas consolidadas de aspecto inflamatorio. Dichas lesiones en no estaban presentes en el estudio realizado ayer que incluyen los á pices pulmonares. No se puede  descartar embolismo por la morfología y di stribución de las lesiones. En los cortes de abdomen se aprecia retenció n de contraste ev. a nivel renal bilateral en probable relación al estad o funcional renal de la paciente. Hígado de tamaño normal con edema peri portal sin lesiones focales. Vía biliar no dilatada. Vena porta y eje es plenomesentérico permeables. Vesicula biliar, bazo, páncreas y glándulas suprarrenales de morfología tamaño y densidad normal. Presencia de algu na dudosa y pequeña hipodensidad esplénica periférica. Asas intestinales  colapsadas con captación conservada. Presencia de anasarca difusa.
+
+Exploraciones complementarias / Exploracions complementàries
+15/09/2017 : Ecocardiograma : ecocardiograma.
+
+VENTRICULOS FE estimada 65%. VÁLVULA TRICÚSPIDE Insuficiencia tricuspíde a ligera. Presión arterial pulmonar sistólica estimada de 31 mmHg. Doppl er Measurements & Calculations Vmáx RT:229.6 cm/s GP máx RT:21.1 mmHg Co nclusion - Insuficiència mitral severa amb vel anterior mòvil, discretam ent engruixit i sense poder visualitzar correctament el velposterior. A la paret posterior basal del Vesquerre i de l'aurícula esquerre s'identi fica una imatge "com quística ", gran, de 4,6 x 2,8 cm, amb parets calci ficades, al voltant de la zona de l'anell mitral posterior. - Ventricle esquerre moderadament hipertròfic amb motilitat global normal. - Vàlvula aòrtica  no  ben visualitzada. -  Insuficiència tricuspídea lleugera sense hipertensió pulmonar. - Sense vessament pericàrdic. NOTA: S'aconsella l a realització d'un CT tòrax amb contrast per valorar millor aquesta estr uctura calcificada cardíaca.
+
+Evolución / Evolució
+
+
+
+NOTA DE EVOLUCIÓN EN UCIQ:
+1.- ICTUS CEREBELOSO DERECHO DE ORIGEN PROBABLEMENTE EMBÓLICO SECUNDARIO A 2. 2.- LESIÓN ANILLO MITRAL CALCIFICADA (PROBABLE NECROSIS CASEOSA ANILLO MITRAL VS ENDOCARDITIS VS TUMOR PRIMARIO Ó METASTÁSICO CARDÍACO). INSUFICIENCIA MITRAL SEVERA. SHOCK CARDIOGÉNICO. DISFUNCIÓN MULTIORGÁNICA.
+Paciente que ingresa en UCI Q con diagnostico de ictus isquemico de territorio de PICA derecha con posterior deterioro interpretado como status comicial vs cuadro infeccioso del sistema nervioso central. En UCI Q destaca el día 15/9 elevación de lactatos hasta 45mg/dl y troponinas de 23. A nivel clínico destacaba anuria con insuficiencia renal aguda y leve hipoperfusión periférica. Se realiza ECG que descarta signos de isquemia aguda y se realiza ecocardio que objetiva gran lesión a nivel del anillo mitral de aspecto heterogéneo calcificado y que provoca insuficiencia mitral severa con hemodinámica compatible con shock cardiogénico. Ante dichos hallazgos se plantea la posibilidad de endocarditis por lo que se realizan hemocultivos y se inicia tratamiento antibiótico con meropenem + daptomicina + cloxacilina ó de que se trate de una lesión tumoral primaria y/o metastásica. Asimismo se inicia tratamiento inotrópico con dobutamina a 10ug/kg/min con leve mejoría hemodinámica. Se comenta el caso con servicio de ecocardiografía que realiza ecografía trasntorácica que muestra insuficiencia mitral severa con una gram imagen quistica calcificada de 4.6 x 2.8cm en relación al velo posterior. Ventriculo  izquierdo moderadamente hipertrófico con motilidad normal, Insuficiencia tricuspidea leve y ausenica de derrame pericárdico.
+Ante la ausencia de un diagnóstico claro se decide realizar un TAC toraco-abdominal para filiar la lesión y descartar un posible origen neoplasico del mismo. El TAC objetiva:
+Leve derrame pleural bilateral. No derrame pericárdico. Adyacente y lateral a la inserción de la válvula mitral se aprecia una masa periféricamente calcificada de aprox. 45 x 27 mm. Puede corresponder a una calcificación caseosa del anillo mitral como primera posibilidad diagnóstica, aunque el estudio es subóptimo debido a los artefactos de movimiento cardíaco. En parénquima pulmonar se aprecian múltiples imágenes nodulares de distribución difusa y predominio periférico, en zonas declives y adyacente a las cisuras, con formación de áreas consolidadas de aspecto inflamatorio. Dichas lesiones en no estaban presentes en el estudio realizado ayer que incluyen los ápices pulmonares. No se puede descartar embolismo por la morfología y distribución de las lesiones. En los cortes de abdomen se aprecia retención de contraste ev. a nivel renal bilateral en probable relación al estado funcional renal de la paciente. Hígado de tamaño normal con edema periportal sin lesiones focales. Vía biliar no dilatada.  Vena porta y eje esplenomesentérico permeables. Vesicula biliar, bazo, páncreas y glándulas suprarrenales de morfología tamaño y densidad normal. Presencia de alguna dudosa y pequeña hipodensidad esplénica periférica. Asas intestinales colapsadas con captación conservada. Presencia de anasarca difusa.
+Ante la sospecha diagnóstica de necrosis caseosa del anillo mitral se decide soporte pleno para estabilización y se comenta el caso con servicio de cirugía cardiovascular que descarta posibilidad de tratamiento quirúrgico. A pesar de soporte pleno con inotropos- vasopresores e inicio de hemodiafiltración el día 16/9/17 la paciente presenta progresivo deterioro clínico con shock cardiogénico refractario y disfunción multiorgánica siendo exitus por parada cardíaca el día 18/9/17 a las 11:20h.
+
+Plan terapéutico / Pla terapèutic
+x
+
+Otras recomendaciones / Altres recomanacions
+x
+
+
+
+Firma/Signatura1: _NAME_ Categoría: Especialista
+Nº matrícula _SS_: _ID_
+
+
+
+
+Fecha/Data Informe: 19.09.2017
+Hora Informe: 11:56:25
+
+Docum.: _ID_
+Hist. Clínica: _ID_
+El _SS_ ha incorporado sus datos al Fichero de Pacientes, para tratarlos con fines sanitarios.
+Puede ejercer sus derechos de acceso, rectificación, cancelación y oposición, así como obtener mas información en la Unidad de Atención al Cliente.
+Vers. 00
+Pag. 2 de
+4
+Episod.: _ID_
+_SS_ ha incorporat les seves dades al Fitxer de Pacients, per a tractar-los amb finalitats sanitàries. Pot exercir els seus drets d'accés, rectificació, cancel·lació i oposició, i obtenir més informació a la Unitat d'Atenció al Client.
+_SS_
+_LOCATION_) _LOCATION_) Tel. _CONTACT_ Fax _CONTACT_
+http://_CONTACT_/

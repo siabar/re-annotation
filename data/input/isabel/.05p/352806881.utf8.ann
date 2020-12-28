@@ -1,0 +1,107 @@
+T0	FECHA 233 243	12.03.2017
+#0	AnnotatorNotes T0	2017-03-12
+T1	HORA 244 249	16:55
+#1	AnnotatorNotes T1	16:55
+T2	FECHA 255 265	24.03.2017
+#2	AnnotatorNotes T2	2017-03-24
+T3	HORA 266 271	17:52
+#3	AnnotatorNotes T3	17:52
+T4	SECCION_DIAGNOSTICOS 316 331	DIAGNÒSTIC ALTA
+T5	_SUG_Ictus_isquemico 375 378	AVC
+T6	_SUG_Ictus_isquemico 397 403	INFART
+T7	_SUG_Etiologia 404 411	LACUNAR
+T8	_SUG_Localizacion 404 411	LACUNAR
+T9	_SUG_Etiologia 421 430	ANEURISMA
+T10	_SUG_Arteria_afectada 431 447	ARTERIA CAROTIDE
+T11	_SUG_Lateralizacion 463 464	I
+T12	_SUG_Arteria_afectada 474 490	ARTERIA CAROTIDE
+T13	SECCION_DIAGNOSTICOS 10384 10406	Orientació diagnostica
+T14	_SUG_Ictus_isquemico 10409 10426	Infarto isquemico
+T15	_SUG_Lateralizacion 10442 10451	izquierdo
+T16	_SUG_Trombolisis_intravenosa 10464 10468	rTPA
+T17	_SUG_Etiologia 10481 10488	lacunar
+T18	_SUG_Localizacion 10481 10488	lacunar
+T19	_SUG_Localizacion 10498 10502	LACI
+T20	_SUG_Etiologia 10524 10533	Aneurisma
+T21	_SUG_Lateralizacion 10551 10560	izquierda
+T22	_SUG_Arteria_afectada 10611 10620	carotídea
+T23	_SUG_Lateralizacion 10621 10628	derecha
+T24	SECCION_MOTIVO_DE_INGRESO 658 675	Motiu de consulta
+T25	_SUG_Trombolisis_intravenosa 849 873	tratamiento trombolítico
+T26	SECCION_ANTECEDENTES 879 890	Antecedents
+T27	FECHA 1089 1093	2003
+#27	AnnotatorNotes T27	2003-UNDEF-month-UNDEF-day
+T28	FECHA 1553 1571	Septiembre de 2015
+#28	AnnotatorNotes T28	2015-09-UNDEF-day
+T29	FECHA 2377 2381	2013
+#29	AnnotatorNotes T29	2013-UNDEF-month-UNDEF-day
+T30	FECHA 2815 2819	2001
+#30	AnnotatorNotes T30	2001-UNDEF-month-UNDEF-day
+T31	FECHA 2839 2843	2006
+#31	AnnotatorNotes T31	2006-UNDEF-month-UNDEF-day
+T32	FECHA 2897 2901	4/16
+#32	AnnotatorNotes T32	2016-04-UNDEF-day
+T33	FECHA 3168 3185	noviembre de 2016
+#33	AnnotatorNotes T33	2016-11-UNDEF-day
+T34	FECHA 3437 3441	2001
+#34	AnnotatorNotes T34	2001-UNDEF-month-UNDEF-day
+T35	FECHA 3461 3465	2006
+#35	AnnotatorNotes T35	2006-UNDEF-month-UNDEF-day
+T36	SECCION_PROCESO_ACTUAL 3503 3518	Malaltia actual
+T37	HORA 3627 3632	13:00
+#37	AnnotatorNotes T37	13:00
+T38	HORA 3919 3924	16:00
+#38	AnnotatorNotes T38	16:00
+T39	_SUG_TAC_craneal 4004 4006	TC
+T40	HORA 4008 4013	16:20
+#40	AnnotatorNotes T40	16:20
+T41	_SUG_Trombolisis_intravenosa 4073 4084	trombolisis
+T42	_SUG_Trombolisis_intravenosa 4162 4166	rTPA
+T43	HORA 4173 4178	16:45
+#43	AnnotatorNotes T43	16:45
+T44	SECCION_EXPLORACION_FISICA 4406 4423	Exploració física
+T45	_SUG_NIHSS 4896 4937	NIHSS 0-0-0-0-0/0-(0-0)-(1-0)/0-0-0-1-0=2
+T46	SECCION_EXPLORACIONES_COMPLEMENTARIAS 4939 4967	Exploracions complementàries
+T47	SECCION_EXPLORACIONES_COMPLEMENTARIAS_EN_URGENCIAS 5025 5047	Analítica de urgencias
+T48	SECCION_EXPLORACIONES_COMPLEMENTARIAS_EN_PLANTA_DE_NEUROLOGIA 5106 5126	Analitica de ingreso
+T49	SECCION_EVOLUCION 7915 7923	Evolució
+T50	_SUG_Lateralizacion 7946 7953	derecho
+T51	_SUG_Etiologia 7985 7992	lacunar
+T52	_SUG_Localizacion 7985 7992	lacunar
+T53	_SUG_Lateralizacion 8021 8022	e
+T54	_SUG_Etiologia 8034 8046	ateromatosis
+T55	_SUG_Trombolisis_intravenosa 8082 8088	rTPAev
+T56	_SUG_Lateralizacion 8176 8185	izquierdo
+T57	_SUG_Etiologia 8251 8263	ateromatosis
+T58	_SUG_Arteria_afectada 8279 8294	vertebrobasilar
+T59	_SUG_Lateralizacion 8575 8584	izquierda
+T60	_SUG_Lateralizacion 8624 8631	derecho
+T61	FECHA 8736 8746	abril 2016
+#61	AnnotatorNotes T61	2016-04-UNDEF-day
+T62	_SUG_Etiologia 8840 8848	habitual
+T63	FECHA 8937 8941	20.3
+#63	AnnotatorNotes T63	2016-03-20
+T64	_SUG_Etiologia 9033 9041	habitual
+T65	_SUG_Etiologia 9101 9113	ateromatosis
+T66	_SUG_Arteria_afectada 9114 9123	carotidea
+T67	_SUG_Lateralizacion 9124 9131	derecha
+T68	_SUG_Arteria_afectada 9195 9204	carotídea
+T69	_SUG_Lateralizacion 9205 9214	izquierda
+T70	_SUG_Etiologia 9310 9319	aneurisma
+T71	_SUG_Lateralizacion 9509 9510	e
+T72	_SUG_Localizacion 9706 9714	parietal
+T73	FECHA 9778 9782	2014
+#73	AnnotatorNotes T73	2014-UNDEF-month-UNDEF-day
+T74	_SUG_Lateralizacion 10196 10203	derecha
+T75	_SUG_NIHSS 10210 10217	NIHSS 2
+T76	_SUG_mRankin 10219 10227	Rankin 2
+T77	SECCION_TRATAMIENTO_AL_ALTA 10791 10815	Tractament mèdic al alta
+T78	FECHA 11344 11348	2014
+#78	AnnotatorNotes T78	2014-UNDEF-month-UNDEF-day
+T79	SECCION_TIPO_DE_INGRESO 11474 11488	Tipus d'ingrés
+T80	FECHA 11621 11631	24.03.2017
+#80	AnnotatorNotes T80	2017-03-24
+T81	FECHA 11673 11683	24.03.2017
+#81	AnnotatorNotes T81	2017-03-24
+T82	HORA 11684 11689	18:48
+#82	AnnotatorNotes T82	18:48

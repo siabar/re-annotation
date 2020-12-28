@@ -1,0 +1,122 @@
+SERVEI DE NEUROLOGIA
+INFORME DE ALTA
+
+
+
+
+
+SERVEI DE NEUROLOGIA
+INFORME DE ALTANº Historia clínica	_ID_
+Fecha de nacimiento
+_DATE_
+
+C.I.P.	_ID_	Código Centro	_ID_
+Teléfono	_CONTACT_	Dirección	_LOCATION_
+Fecha ingreso	14/09/17		_LOCATION_
+Fecha de alta	18/09/17	Teléfono	_CONTACT_
+Nº Asistencia	_ID_		
+UH	_ID_		
+
+DIAGNÓSTICOS:
+1.	ICTUS ISQUÉMICO DE TERRITORIO VERTEBROBASILAR (POCI)
+2.	ESTENOSIS PREOCLUSIVA V4 DERECHA
+3.	DISLIPEMIA
+4.	ANTECEDENTE DE TUBERCULOSIS RENAL
+
+Paciente de 76 años, sin alergias medicamentosas conocidas. No hábitos tóxicos conocidos. mRS 2 (vive sola  con  cuidadora  que  le  hace  la  comida,  deambula  sin  ayuda  en  casa  y  hace  la  limpieza más superficial, sale a la calle con el carro de la compra por miedo a caerse).
+
+PROCEDIMIENTOS:
+-	INGRESO Y MONITORIZACIÓN EN UNIDAD DE ICTUS
+-	TC CRANEAL Y ANGIOTC
+
+ANTECEDENTES:
+-	Esófago de Barret. Úlcera esofágica distal con tinción positiva para VHS I.
+-	Estudiada por síndrome tóxico. Úlcera esofágica distal con sospecha de tumor gástrico submucoso que no se identuifica por ecoendoscopia. AP negativa. Alta por parte de Digestivo.
+-	Hemorroides
+-	Anemia ferropénica.
+-	Dislipemia.
+-	Hipotiroidismo subclínico.
+-	Colelitiasis.
+-	Hidronefrosis derecha diagnosticada por Eco en 2001, sin otros hallazgos.
+-	Pielonefritis xantogranulomatosa D. Nefrectomía reglada.
+-	Tuberculosis renal tratamiento completo y seguimiento por parte de Unidad de TBC hasta julio/2017, control desde entonces por MAP.
+-	IQ: Histerectomia en 1991. Cataratas.
+
+Tratamiento habitual:
+Omeprazol, diazepam y paracetamol SOS
+
+ENFERMEDAD ACTUAL:
+Paciente traida por el SEM como CIEH tras presentar esta mañana las 06h clínica del despertar de hemiparesia izquierda, última vez asintomática ayer a las 22h. Llega a urgencias a las 10:49h, se pasa a box de códigos. A su llegada, PA 164/74mmHg, glicemia de 74mg/dl. Neurológicamente, consciente y orientada en las tres esferas. MOEs conservados sin defectos campimétricos por confrontación. Asimetría facial derecha que desparece al  sonreir  (1).  Disartria  leve  (1).  Paresia  braquial  izquierda  con desaferentización (1). EID no puntua. No alteración sensitiva. NIHSS 3.
+Se realiza TC craneal en el que destaca importante leucaraiosis sin clara lesión isquémica aguda y angioTC con oclusión de segmento V4 de arteria vertebral derecha.
+
+EXPLORACIÓN FÍSICA:
+- Exploración física en urgencias:
+PA 164/74mmHg, glicemia de 74mg/dl. Neurológicamente, consciente y orientada en las tres esferas. MOEs conservados sin defectos campimétricos por confrontación. Asimetría facial derecha que desparece
+
+Nombre	_NAME_	
+al sonreir (1). Disartria leve (1). Paresia braquial izquierda con desaferentización (1). EID no puntua. No alteración sensitiva. NIHSS: 3.
+AC: tonos cardíacos rítmicos sin soplos audibles.
+
+- Exploración física en Unidad de Ictus: TA: 145/63mmHg; FC: 56ppm; T: 36,3ºC
+Paciente estable hemodinámicamente, eupneica
+A nivel neurológico presenta NIHSS de 4 a expensas de facial derecho (1), disartria (1), paresia braquial izquierda con desaferentización (1), hipoestesia derecha (1). No alteraciones en movlidad ocular, no alteraciones campimétricas, no alteraciones en resto de pares craneales. No puntua la pierna pero si que refiere que está un poco más débil.
+
+EXPLORACIONES COMPLEMENTARIAS:
+-	Analítica de urgencias (14/09/2017): glucosa 102mg/dl, creatinina 0.82mg/dl, Na 142.9mmol/l,  K 4.03mmol/l, Cl 107.3mmol/l, FGe 70ml/min, CKs 91U/l, PCR 0.1mg/dl. Fibrinógeno 297.9mg/dl, dímero D 440mcg/l.
+*Hemograma: Hb 13.1g/dl, VCM 89.3fl, HCM 30.6pg, leucocitos 4.430/mm3 (N 2.950/mm3, L 24.4%, M 6.5%), plaquetas 202.000/mm3.
+*Coagulación: TP 92.1%, TP ratio 1.06, TTPa 27.5seg.
+-	ECG: ritmo sinusal a 75lpm.
+-	Rx tórax: ICT>0.5, no infiltrados ni condensaciones evidentes. Senos cardio y costofrénicos libres.
+-	TC craneal basal y angioTC (14/09/2017; 11:01h): No signos de isquemia hiperaguda/aguda (ASPECTS 10), ni focos de sangrado agudo intracraneal.
+Enfermedad de pequeño vaso severa. Elongación carotídea bilateral, evidenciándose trayecto medializado de disposición retrolaríngea. Ateromatosis parcialmente calcificada en vertebral derecha (segmento V4), que genera estenótico corto significativo (preoclusivo). Resto de estudio angiográfico sin alteraciones significativas.
+-	Analítica ingreso (15/09/2017): urea 26mg/dl, creatinina 0.88mg/dl, ác úrico 4.3mg/dl, Na 144mg/dl, K 4.1mmol/l, Cl 106mmol/l, FGe 64ml/min, LDH 351U/l, CKs 63U/l, bil T 0.7mg/dl, GOT/GPT 18/12U/l, FA sérica 68U/l, albúmina 4.2g/dl, colestrol T 223mg/dl, LDL 157mg/dl, HDL 67mg/dl, triglicéridos 67mg/dl, TSH 4.97mcU/ml, T4 1ng/ml, HbA1c 5.5%, PCR 0.11mg/dl.
+*Hemograma: Hb 13g/dl, VCM 89.9fl, HCM 30.6pg, leucocitos 4.430/mm3 (N 2.280/mm3, L 35.4%, M 8.6%), plaquetas 189.000/mm3.
+*Coagulación: TP 80%, TP ratio 1.06, TTPa 26seg.
+
+EVOLUCIÓN:
+Se trata de una paciente de 76 años, con factores de riesgo vascular que presenta cuadro compatible con ictus lacunar en territorio vertebrobasilar.
+Dado el tiempo de evolución se desestima realización de tratamiento recanalizador.
+La paciente ingresa en Unidad de Ictus para monitorización y estudio neurovascular. Se inicia  doble antiagregación con AAS 100mg, clopidogrel 75mg y estatinas a dosis elevadas.
+Se valoran al ingreso el estado de ánimo, las necesidades de rehabilitación y se inician fisioterapia y movilización precoces.
+Durante el ingreso evoluciona de forma favorable, presentando al alta únicamente leve déficit motor en extremidades izquierdas y parálisis facial inferior derecha, con marcha inestable. Durante el ingreso se realiza educación sanitaria acerca del ictus.
+No presenta otras complicaciones, y dada la estabilidad clínica se decide alta a domicilio.
+Precisa rehabilitación al alta, por lo que se plantea traslado a _SS_ que la paciente rehusa por lo que se solicita rehabilitación domiciliaria de acuerdo con la paciente.
+Al alta se mantiene tratamiento antiagregante doble con AAS y clopidogrel. Etiología TOAST aterotrombótico, Oxford POCI. Al alta NIHSS 3. Rankin 2. Debe seguir controles en CCEE de Neurología en fecha programada.
+
+
+
+TRATAMIENTO:
+
+INICIO:
+- ADIRO 100 mg 0-1-0
+-	CLOPIDOGREL 75 mg 0-1-0 (durante 3 meses y suspender)
+-	ATORVASTATINA 80 mg 0-0-1
+-	OMEPRAZOL 20 mg al día
+
+-	PARACETAMOL SI DOLOR
+
+INDICACIONES:
+-	Se recomienda control estricto de enfermedades que aumentan el riesgo de ictus: hipertensión arterial, diabetes, colesterol elevado (dislipemia) y enfermedades del corazón. Realizar el tratamiento de forma adecuada según las recomendaciones de su médico.
+-	Abstención de tabaco y alcohol
+-	Seguir una dieta adecuada, con poca sal, evitando grasas, especialmente las saturadas (grasas animales, aceites y grasas para cocinar).
+-	Evitar la obesidad y el sobrepeso y realizar ejercicio físico moderado de forma regular.
+
+Dr/a.	_NAME_
+Dr/a.	_NAME_	Dr/a.	_NAME_
+Cap Secció	(Nº Colegiado : _ID_)
+Metge/essa
+Resident
+(Nº Colegiado : _ID_)
+Metge/essa
+Resident
+(Nº Colegiado : _ID_)
+
+
+
+
+
+Les seves dades personals s'incorporen en un fitxer d´usuaris a fi del seu tractament sanitari. Pot exercir el seu dret d´oposició, accés i rectificació de les dades inexactes dirigint-se al Servei de Documentació Clínica.
+Sus datos personales se incorporan en un fichero de usuarios para su tratamiento sanitario. Puede ejercer su derecho de oposición, acceso y rectificación de los datos inexactos dirigiéndose al Servicio de Documentación Clínica
+
+_SS_ | NIF _ID_ |_LOCATION_ | Telèfon _CONTACT_ | Fax _CONTACT_ | _CONTACT_
+Pàgina 1 de 3

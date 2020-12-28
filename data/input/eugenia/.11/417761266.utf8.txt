@@ -1,0 +1,125 @@
+I.CLINIC DE NEUROCIÈNCIES NEUROLOGIA
+_NAME_	NHC: _ID_
+
+
+Sexo/Sexe: Masc.	Fecha nac./Data naix.: _DATE_	Edad/Edat: 70 años Dirección/Adreça: _LOCATION_		CP: _LOCATION_
+Municip. (Prov.): _LOCATION_  ABS:_SS_	Tel.:_CONTACT_
+As.: SERVEI CATALA DE LA SALUT	CIP: _ID_	NASS: _ID_
+Nº epis.: _ID_	Tipo/Tipus: HOSPIT.	Inici.: 08.09.2017
+Serv: NEUROLOGIA	UO Enf.: G6B4 SALA G NEUROL. CURT. E Hora: 06:58:42
+Facult. de ref.: _NAME_
+
+
+
+
+Tipo ingreso/Tipus ingrés: Urgent	Motivo/Motiu alta: Dom. Familiar
+Diag.:
+ICTUS ISQUÉMICO AGUDO CAROTÍDEO DERECHO (434.91) OCLUSIÓN TICA DERECHA ()
+Proc.:
+ANALÍTICA SANGUÍNEA. HEMO Y COPROCULTIVOS. () ECG. MONITORIZACIÓN. ()
+TC MULTIMODAL. FIBRINOLISIS. TROMBECTOMÍA MECÁNICA () RADIOGRAFÍA DE TÓRAX ()
+RM CEREBRAL Y ANGIO-RM INTRACRANEAL () ECOCARDIOGRAMA TRANSTORÁCICO ()
+
+
+
+
+INFORME CLÍNICO ALTA / INFORME CLÍNIC ALTA
+
+Motivo de consulta / Motiu de consulta
+Debilidad de extremidades izquierdas.
+
+Antecedentes e historia previa / Antecedents i història prèvia  Varón de 70 años sin alergias medicamentosas conocidas ni hábitos tóxicos. Estilo de vida activo. Independiente para las actividades de la vida diaria (mRS: 0)
+
+*ANTECEDENTES PATOLÓGICOS:
+
+1.	HIPERTENSIÓN ARTERIAL en tratamiento farmacológico.
+
+2.	DISLIPEMIA en tratamiento farmacológico.
+
+3.	CARDIOPATÍA ISQUÉMICA: INFARTO AGUDO DE MIOCARDIO ÁNTERO-LATERAL (2001) E ÍNFERO-APICAL (2013) con colocación de stent en descendente anterior y coronaria derecha. En junio de 2013 se realizó bypass a descendente anterior y obtusa marginal.
+
+4.	FIBRILACIÓN AURICULAR PAROXÍSTICA en tratamiento frenador sin anticoagulación.
+
+5.	HIPERPLASIA BENIGNA DE PRÓSTATA en tratamiento farmacológico.
+
+
+6.	HIPERURICEMIA en tratamiento farmacológico.
+
+*TRATAMIENTO HABITUAL: Omeprazol 20 mg/24h; clopidogrel 75 mg/24h; nitroglicerina transderm/24h; simvastatina 40 mg/24h; ezetimibe 10 mg/24h; bisoprolol 1.25 mg/24h; enalapril 5 mg/24h; dutasterida+tamsulosina 0.5/0.4 mg i c/24h; alopurinol 100 mg/24h.
+
+Proceso actual / Procés actual
+Asintomático hasta las 23:00h del 07/09/17. Se despierta a las 2:30h del 08/09 con debilidad de extremidades izquierdas y disartria de 5 min de duración y recuperación completa posterior. Por este motivo acude al _SS_ donde a las 3:00h presenta nuevo empeoramiento en forma de hemiparesia izquierda y disartria, motivo por lo cual se activa código ictus extramuros y se deriva a nuestro centro.
+
+Exploración física / Exploració física
+08/09/2017-07:30:00: Frecuencia respiratoria (rpm) 18, Glicemia capilar (mg/dl) 123, PAS (mm Hg) 118, PAD (mm Hg) 66, Pulsioximetría (%) 95, Tª axilar (ºC) 35.1. 08/09/2017-07:47:04 : Peso (Kg) 80, Talla (cm) 175.
+NRL: Alerta, desorientado en espacio, no en tiempo. Lenguaje sin alteraciones. Disartria moderada. Reflejo por amenaza izq abolido. Mirada conjugada con tendencia a mirar a la drcha, sin cruzar línea media. Hemiparesia facio (mod)- braquiocrural (0/5) izq. Anestesia izq.  Dismetrías no valorables. Anosognosia. NIHSS 18.
+
+Laboratorio / Laboratori
+*ANALÍTICA SANGUÍNEA: PCR 0.23 mg/dL. Glucosa 134 mg/dL. Creatinina 0.81 mg/dL; filtrado >90 mL/min. Úrico 5.5 mg/dL. Colesterol total 138 mg/dL; TG 81 mg/dL; LDL 74 mg/dL; HDL 48 mg/dL. Hemograma y hemostasia sin alteraciones. HbA1c 5.8%. TSH 1.627 mUI/L; FT4 ng/dL.
+
+*ANALÍTICA DE ORINA: sin alteraciones significativas.
+
+*HEMOCULTIVOS: pendientes.
+
+*COPROCULTIVOS Y TOXINA C. DIFFICILE: negativos.
+
+Radiología / Radiologia
+*RX DE TÓRAX: sin focos de consolidación ni otros hallazgos sugestivos de patología aguda.
+
+*TC MULTIMODAL: - TC CRANEAL BASAL: mínima hipodensidad del putamen y capsula interna derecha con respecto al contralateral y dudosa afectación temporobasal derecha. ASPECTS 8-9. Muy discretas áreas hipodensas en sustancia blanca periventricular en relación a enfermedad de pequeño vaso. Lesión calcificada en la porción posterior de la hoz cerebral probablemente meningioma de 5 mm. - TC PERFUSIÓN: retraso del mapa de TTP en gran parte del territorio de la ACMD con ligera afectación profunda de mapas CBV y CBF condicionando discordancia significativa (>200%) entre mapas. - ANGIO-TC EXTRA E INTRACRANEAL: calcificación y elongación de los segmentos proximales de los troncos supra-aórticos sin estenosis valorable. Origen de la a. vertebral izquierda directamente en el cayado como variante. Placa calcificada en bulbo carotídeo derecho con oclusión proximal del mismo sin opacificación hasta el segmento supraclinoideo de la ACI D, donde se repermeabiliza por colaterales. ACI Izq permeable con placa calcificada en su origen que condiciona estenosis de aprox 40-50% de la luz. Segmento inicial de la ACMD permeable con oclusión en tercio medio del segmento M1 por un trombo que se extiende hasta la trifurcación obliterando dos de sus ramas M2. ACMI y sus ramas permeables.
+
+
+
+
+*RM CEREBRAL Y ANGIO-RM INTRACRANEAL: lesión isquémica aguda a nivel lentículo caudado derecho, con leve efecto de masa sobre VLD. En las secuencias angiográficas existen signos de ateromatosis intracraneal y muy discreta asimetría de la señal siendo menor en la ACM derecha, con menor visualización de sus ramas distales. No se visualiza A1 derecha (hipoplásica?).
+
+Exploraciones complementarias / Exploracions complementàries
+*ECG: ritmo sinusal con extrasístoles auriculares con pausa compensatoria y ondas Q en cara ántero-lateral.
+
+*ECOCARDIOGRAMA TRANSTORÁCICO: ventrículo izquierdo ligeramente hipertrófico no dilatado con motilidad ligera/moderada disminuida por movimiento anómalo del septum por bloqueo de rama izquierda del haz de His y acinesia septoapical. Aurícula izquierda ligeramente dilatada.
+
+Intervenciones quirúrgicas / Intervencions quirúrgiques
+*TROMBECTOMÍA MECÁNICA: se realiza punción femoral derecha. Se realiza cateterización selectiva y la primera serie angiográfica confirma la presencia de una oclusión a nivel de carotida terminal. Se procede al microcateterismo selectivo de arteria ocluida logrando una adecuada posición para realizar trombectomía se realizando 4 pases. En la serie de comprobación final se confirma recanalización TICI 3. No se detectan incidencias durante ni inmediatamente tras el procedimiento.
+
+Evolución / Evolució
+1.	ICTUS ISQUÉMICO AGUDO EN TERRITORIO CAROTÍDEO DERECHO. OCLUSIÓN DE LA ARTERIA CARÓTIDA INTERNA TERMINAL DERECHA (TICAD).
+2.	FIBRILACIÓN AURICULAR PAROXÍSTICA (FA) NO DESCOAGULADA.
+A su llegada normotenso y afebril. En la exploración neurológica se aprecia un síndrome hemisférico derecho extenso (NIHSS: 18). Analítica sanguínea sin alteraciones. ECG en ritmo sinusal sin alteraciones en la repolarización. La neuroimagen (TC y RM craneal) muestra lesiones isquémicas agudas a nivel de los núcleos caudado y lenticular derechos. El estudio vascular (angiografía y angio-RM) evidencia oclusión de la TICAD. Monitorización >72h en la unidad de ictus con rachas de FA paroxística. Estudio cardiológico (ecocardiograma transtorácico) sin datos de patología cardioembólica.
+Se trata de un ictus isquémico agudo en territorio carotídeo derecho por una oclusión a nivel de la TICAD de origen cardioembólico en un paciente con una FA paroxística no descoagulada. Se realiza fibrinolisis con rtPA y trombectomía mecánica con recanalización completa (TICI: 3). El TC dual de control no muestra indicios de sangrado, por lo que se inicia anticoagulación con heparina con posterior paso a acenocumarol.
+Durante el ingreso el paciente evoluciona de forma favorable, sin apreciarse focalidad en la exploración neurológica. Dada la estabilidad clínica se decide alta domiciliaria con tratamiento anticoagulante y control por parte de neurología.
+Al alta: NIHSS: 0;   TOAST: cardioembólico;   mRS: 0.
+3.	DIARREA.
+El 14/09/17 inicia un cuadro de deposiciones diarreicas líquidas sin productos patológicos con coprocultivo y toxina de Clostridium difficile negativos que se resuelven con dieta astringente.
+4.	FLEBITIS.
+El 15/09/17 realiza un pico febril de hasta 39.9ªC con clínica bacteriémica acompañado de un vómito de contenido alimentario sin productos patológicos. En la exploración se evidencia flebitis incipiente en ambos miembros superiores. Hemocultivos pendientes tras > 72h de sy extracción. Resto de pruebas complementarias anodinas. Se inicia antibioterapia empírica con piperacilina/tazobactam con posterior paso a amoxicilina/clavulánico.
+
+Plan terapéutico / Pla terapèutic
+-	Atorvastatina 40 mg/24h. - Pantoprazol 40 mg/24h. - Enalapril 5 mg/24h. - Acenocumarol según pauta. - Bisoprolol 2,5 mg LU-MI-VI.  - Clopidogrel 75 mg/24h.  - Alupurinol 100 mg/24h.  - Otix gotas óticas.  -
+-	
+
+
+Exetimibe	10	mg/24h.	-	Nitroglicerina   parches.	-	Dutasterida/Tamsulosina   0,5/0,4	mg/24h.	- Amoxicilina/clavulánico 875/125 mg/8h 7 días.
+
+Otras recomendaciones / Altres recomanacions
+-	Acudirá a visita de control con el Dr. _NAME_ del servicio de neurología según se indica en cita adjunta. - Acudirá en un plazo de 3-4 días a su CAP de referencia para conocer el resultado de los hemocultivos. - Control de los factores de riesgo cardiovascular y del INR (sintrom) por parte de su CAP de referencia.
+
+
+
+Firma/Signatura1: _NAME_	Firma/Signatura2: _NAME_ Categoría: Resident 2	Categoría: Espec. Senior
+Nº Matrícula _SS_: _ID_	Nº Matrícula _SS_: _ID_
+
+Fecha/Data Informe: 18.09.2017
+Hora Informe: 16:26:22
+
+Docum.: _ID_
+Hist. Clínica: _ID_
+El _SS_ ha incorporado sus datos al Fichero de Pacientes, para tratarlos con fines sanitarios.
+Puede ejercer sus derechos de acceso, rectificación, cancelación y oposición, así como obtener mas información en la Unidad de Atención al Cliente.
+Vers. 00
+Pag. 2 de
+4
+Episod.: _ID_
+_SS_ ha incorporat les seves dades al Fitxer de Pacients, per a tractar-los amb finalitats sanitàries. Pot exercir els seus drets d'accés, rectificació, cancel·lació i oposició, i obtenir més informació a la Unitat d'Atenció al Client.
+_SS_
+_LOCATION_) _LOCATION_) Tel. _CONTACT_ Fax _CONTACT_
+http://_CONTACT_/

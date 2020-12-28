@@ -1,0 +1,90 @@
+T0	FECHA 316 326	06.05.2017
+#0	AnnotatorNotes T0	2017-05-06
+T1	HORA 387 392	18:30
+#1	AnnotatorNotes T1	18:30
+T2	SECCION_TIPO_DE_INGRESO 424 449	Tipo ingreso/Tipus ingrés
+T3	SECCION_DIAGNOSTICOS 490 495	Diag.
+T4	_SUG_Ictus_isquemico 497 512	ICTUS ISQUÉMICO
+T5	_SUG_Arteria_afectada 513 516	ACM
+T6	_SUG_Lateralizacion 516 517	D
+T7	_SUG_Arteria_afectada 528 532	TICA
+T8	SECCION_PROCEDIMIENTOS 538 543	Proc.
+T9	_SUG_TAC_craneal 545 547	TC
+T10	_SUG_TAC_craneal 562 572	TC CRANEAL
+T11	SECCION_MOTIVO_DE_INGRESO 680 718	Motivo de consulta / Motiu de consulta
+T12	SECCION_ANTECEDENTES 755 817	Antecedentes e historia previa / Antecedents i història prèvia
+T13	_SUG_mRankin 1039 1048	mRankin 2
+T14	SECCION_ANTECEDENTES_PATOLOGICOS 1052 1076	ANTECEDENTES PATOLÓGICOS
+T15	FECHA 1510 1521	agosto/2016
+#15	AnnotatorNotes T15	2016-08-UNDEF-day
+T16	_SUG_Trombectomia_mecanica 1747 1755	mecánica
+T17	_SUG_Tratamiento_anticoagulante 1990 1997	sintrom
+T18	SECCION_TRATAMIENTO_HABITUAL 2119 2138	MEDICACIÓN HABITUAL
+T19	FECHA 2140 2148	06/05/17
+#19	AnnotatorNotes T19	2017-05-06
+T20	_SUG_Tratamiento_anticoagulante 2152 2164	Acenocumarol
+T21	SECCION_PROCESO_ACTUAL 2276 2306	Proceso actual / Procés actual
+T22	HORA 2366 2371	16:45
+#22	AnnotatorNotes T22	16:45
+T23	_SUG_Tratamiento_anticoagulante 2570 2577	sintrom
+T24	SECCION_PROCESO_ACTUAL 10190 10196	Episod
+T25	SECCION_EXPLORACION_FISICA 2580 2618	Exploración física / Exploració física
+T26	FECHA 2619 2629	06/05/2017
+#26	AnnotatorNotes T26	2017-05-06
+T27	HORA 2630 2635	19:30
+#27	AnnotatorNotes T27	19:30
+T28	FECHA 2670 2680	06/05/2017
+#28	AnnotatorNotes T28	2017-05-06
+T29	HORA 2681 2686	21:00
+#29	AnnotatorNotes T29	21:00
+T30	FECHA 2769 2779	06/05/2017
+#30	AnnotatorNotes T30	2017-05-06
+T31	HORA 2780 2785	22:00
+#31	AnnotatorNotes T31	22:00
+T32	FECHA 2825 2835	09/05/2017
+#32	AnnotatorNotes T32	2017-05-09
+T33	HORA 2837 2842	17:31
+#33	AnnotatorNotes T33	17:31
+T34	_SUG_NIHSS 3615 3624	NIHSS: 24
+T35	_SUG_TAC_craneal 3897 3907	TC CRANEAL
+T36	_SUG_TAC_craneal 4064 4074	TC CRANEAL
+T37	FECHA 4084 4092	09/05/17
+#37	AnnotatorNotes T37	2017-05-09
+T38	SECCION_EXPLORACIONES_COMPLEMENTARIAS 4383 4443	Exploraciones complementarias / Exploracions complementàries
+T39	_SUG_Trombectomia_mecanica 4810 4818	mecánica
+T40	SECCION_EVOLUCION 5626 5646	Evolución / Evolució
+T41	_SUG_Trombectomia_mecanica 5769 5777	MECÁNICA
+T42	HORA 6057 6062	1h 30
+#42	AnnotatorNotes T42	1:30
+T43	_SUG_NIHSS 6200 6208	NIHSS 20
+T44	_SUG_TAC_craneal 6347 6357	TC craneal
+T45	_SUG_ASPECTS 6479 6488	ASPECTS 5
+T46	_SUG_Trombectomia_mecanica 6922 6930	mecánica
+T47	_SUG_Trombolisis_intravenosa 6971 6983	fibrinolisis
+T48	_SUG_Trombectomia_mecanica 7099 7129	tratamiento mecánico del ictus
+T49	_SUG_Tratamiento_anticoagulante 7157 7165	heparina
+T50	_SUG_Tratamiento_anticoagulante 7195 7202	Sintrom
+T51	FECHA 7210 7214	11/5
+#51	AnnotatorNotes T51	2017-05-11
+T52	_SUG_NIHSS 7418 7429	NIHSS de 12
+T53	FECHA 7452 7455	9/5
+#53	AnnotatorNotes T53	2017-05-09
+T54	_SUG_TAC_craneal 7552 7554	TC
+T55	_SUG_NIHSS 7673 7683	NIHSS de 5
+T56	FECHA 7854 7857	4/5
+#56	AnnotatorNotes T56	2017-05-04
+T57	_SUG_Recanalizacion 8180 8194	rehabilitación
+T58	_SUG_Recanalizacion 8265 8276	realización
+T59	_SUG_Recanalizacion 8818 8832	rehabilitación
+T60	SECCION_EXPLORACION_FISICA_AL_ALTA 9094 9101	AL ALTA
+T61	_SUG_NIHSS 9103 9111	NIHSS: 5
+T62	_SUG_mRankin 9134 9144	mRANKIN: 3
+T63	SECCION_TRATAMIENTO_AL_ALTA 9147 9180	Plan terapéutico / Pla terapèutic
+T64	_SUG_Tratamiento_anticoagulante 9207 9219	Acenocumarol
+T65	SECCION_RECOMENDACIONES 9445 9466	Otras recomendaciones
+T66	_SUG_Recanalizacion 9528 9542	rehabilitación
+T67	_SUG_Recanalizacion 9644 9655	realización
+T68	FECHA 9858 9868	19.05.2017
+#68	AnnotatorNotes T68	2017-05-19
+T69	HORA 9883 9888	09:45
+#69	AnnotatorNotes T69	09:45

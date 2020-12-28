@@ -1,0 +1,142 @@
+_LOCATION_ Tel. _CONTACT_
+e-mail: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 87 Anys
+NIF/DNI: _ID_Informe d'alta d'hospitalització
+CP	_LOCATION_
+ABS	_SS_
+Servei	NEUROLOGIA
+Data d'alta  13.09.2017	16:00:00
+_LOCATION_
+_CONTACT_; _CONTACT_
+DOMICIL/RES.SOC 06.09.2017
+Dr. _NAME_, Dra. _NAME_, Dra. _NAME_, Dra. _NAME_
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Debilidad de extremidades derechas
+
+ANTECEDENTS
+ANTECDENTES PERSONALES:
+Paciente de 87 años, sin alérgias medicamentosas conocidas, no refiere hábitos tóxicos. Vive sola, autonoma para las ABVD, mRS 0.
+
+ANTECEDENTES PATOLÓGICOS:
+-	Hipertensión arterial
+-	Dislipemia
+-	Diabetes mellitus tipo II sin tratamiento
+-Osteoporosis
+
+
+MEDICACIÓ HABITUAL
+Aerius 5 mg cada 24 horas, Alprazolam 0.25 mg cada 24 horas, Atenolol 75 mg cada 24 horas, Budesonida 1 inh
+cada 12 horas, Enalapril 5 mg cada  24 horas, Flatoril  cada  8  horas, Lormetazepam 1 mg cada  24 horas, Paracetamol 1 g cada 12 horas si precisa, Simvastatina 10 mg cada 24 horas
+
+PROCÉS ACTUAL
+Paciente vista asintomática por última vez el 06.09.2017 a las 14:30 que es encontrada en domicilio en el suelo por su hijo, hacia las 18:30 con debilidad de extremidades izquierdas, por lo que avisa el SEM. Se activa código ictus a las 19:15, llegando a nuestro centro a las 19:30.
+
+EXPLORACIÓ FÍSICA
+
+Exploración neurológica en Urgencias:
+Consciente y orientada en los 3 ejes. Obedece ordenes simples. Disartria sin elementos afásicos. No alteraciones campimétricas por confrontación, no alteraciones de la oculomotricidad, sin preferencia oculocefálica. Paresia facial izquierda. Plejio braquiocrural izquierda, con hipoestesia ipsilateral. Babinski izquierdo. Anosognosia, extinciones no valorables.-
+NIHSS: (0.0.0)0.0/2(0.4)(0.4)/0.2.0.1. 1 = 14
+
+ACV: RC irregulares
+AR: mvc sin ruidos sobreañadidos.
+
+Exploración neurológica en planta de Neurologia:
+Consciente  y  orientada  en  los  3  ejes.  Sin  elementos  afásicos,  disartria  moderada. No  alteraciones  de  la oculomotricidad ni campimétricas. No preferencia oculocefálica. Paresia facial izquierda con componente superior.
+
+Informe d'alta d'hospitalització
+
+
+
+
+Plejia  braquiocrural izquierda,  con  hipoestesia  ipsilateral.  Babinski  espontáneo  izquierdo.  no  extinciones,  ni asosognosia, asomatognosia.
+NIHSS: (0.0.0)0.0/2(0.4)(1.4)/0.2.0.1. 0 = 14
+
+ACV: RC arrítmicos sin soplos. AR: mvc con roncus bilaterales.
+
+EXPLORACIÓ COMPLEMENTÀRIA
+EXPLORACIONES COMPLEMENTARIAS EN URGENCIAS:
+ECG: FA a 80 lpm.
+
+Analítica de Urgencias (06/09/2017):
+Hematologia (06/09/17): Leucòcits 9000 /µL, (N 80,9 % / L 14,6 / M 4,2 / E 0,1 / B 0,2), Hties 4,68 mill/µL, Hb 15,1
+g/dL, Hct 45,1 %, VCM 96,4 fL, Plaquetes 200000 /µL, TP 91 %, INR 1,07 sg, TP ratio 1,07, TTPA 28,4 sg, TTPA
+ratio 0,92, Fibrinogen 444 mg/dL.
+Bioquimica (06/09/17): Glucosa 197 mg/dL, Urea 25,7, Creatinini 0,55, Na 135,3 mmol/L, Prot-C reactiva 2,9 mg/L.
+
+TC craneal (06/09/2017): Hemorragia parenquimatosa aguda ganglio-capsular derecha (núcleo lenticular y cápsulo talámica derecha) de aproximadamente 17x28x26 mm de diámetros máximos aproximados APxLLxCC , abierta al sistema ventricular (VLs, 3º y 4º), que produce leve efecto masa sobre parénquima adyacente. Linea media centrada. Leve hipoatenuación de la sustancia blanca periventricular y subcortical bilateral simétrica y difusa compatible   con   desmielinización  de  características   inespecíficas   de  probable  causa   isquémica   crónica. Prominencia de surcos de la convexidad infra y supratentoriales de forma proporcionada al tamaño del sistema ventricular compatible con atrofia cerebral difusa. Cisternas basales y perimesencefálicas libres. No se aprecian alteraciones óseas TCvalorables Sin otras alteraciones intra o extraaxiales Tc valorables.
+
+EXPLORACIONES COMPLEMENTARIAS EN UNIDAD DE ICTUS:
+
+Analítica de ingreso (07.09.2017):
+-Hemograma: Hematies, 4.45  x10^12/L Hb 14.4 g/dL Hcto 43% VCM 97 fL 80.0 - 95.0 * HCM 32 pg 27.0 - 32.0 *
+CHCM 33 g/dl 30.0 - 35.0 * Leucos 6300 (N  81 % L 13.6 % Mo 4.7% Eo  0 %) plaquetas 163.000
+-Bioquimica: Glucosa 121 mg/dL Hbglicada   5.2% Cr   0.58 mg/dL		Urea; 22 mg/dL FG 83   mL/min/1.73 m2 Proteïna;	64.5	g/L	Albúmina;	38.3	g/L	Bilirubina;	0.58	mg/dL		Fosfatasa	Alcalina;	112U/L Aspartat-aminotransferasa;	9   U/L		Alanina-aminotransferasa;	U/L	Gamma-glutamiltransferasa;	U/L Lactat-deshidrogenasa U/L  Amilasa U/L  Na  140 mmol/L K  3.89 mmol/L
+- Proteinograma:  Albúmina; 38.2 30.0 - 50.0 Alfa 1 Globulines;2.9 2.5 - 6.0 Alfa 2 Globulines;6.8 3.5 - 9.5Beta Globulines;7.6 5.0 - 11.0Gamma Globulines;9.0 5.5 - 16.0 sin lateraciones
+-Perfil lipidico: Colesterol 192 mg/dL Colesterol HDL; 64 mg/dL Colesterol LDL; 118 mg/dL TAG 45 mg/dL
+-Perfil tiroideo: Tirotropina;c.arb0.691 ìUI/mL 0.350 - 4.940
+
+RX torax (08.09.2017): No se aprecian claras condensaciones parenquimatosas. Dudoso pinzamiento del seno costofrénico lateral derecho. Marcada elongación aórtica.
+
+Informe d'alta d'hospitalització
+
+
+
+EVOLUCIÓ CLÍNICA
+Paciente de 87 años, autónoma para las actividades de la vida diarias, con antecedentes de hipertensión arterial, diabetes mellitus tipo 2 sin tratamiento y dislipemia, que es traida a nuestro centro por debilidad de extremidades izquierdas de 3h de evolución.
+
+A su llegada a nuestro centro, hemodinámicamente estable, tendencia a la hipertensión, eupneica y afebril. A la exploración neurológica alteración motora faciobraquiocrural izquierdas sin déficits corticales. Se realiza ECG que muestra FA previamente no conocida (episodio previo de taquicardia sinusal, nunca de fibrilación auricular).
+Analítica sin alteraciones destacables. Se solicita TC craneal que muestra hemorragia aguda ganglio-capsular derecha que drena a ventrículos, con leve efecto masa. Presenta tensiones altas mantenidas por lo que se pauta bolus de urapidilo, con malos controles requiriendo finalmente colocación de BIC de Urapidilo. Se decide ingreso en UIA para controles tensionales y control evolutivo.
+
+Durante su estancia en la Unidad de Ictus se mantiene en ritmo de fibrilacion auricular rápida que precisa de bolus puntual de digoxina, frenandose la respuesta ventricular y manteniendo a 75-80 lpm, se mantiene en tratamiento con atenolol y se logra retirar la perfusion de urapidilo por lo que se incia tratamiento con enalapril. Se realiza analítica de ingreso sin alteraciones relevantes, unicamente con VCM y HCM levemente aumentados.
+
+Durante su ingreso en planta de Neurología, la paciente se mantiene hemodinámicamente estable. Presenta un pico febricular de hasta 37.5ºC con clínica respiratoria, abundantes roncus a la exploración, manteniendose eupneica en todo momento. Se realiza placa de torax y se decide iniciar cobertura antibiótica con
+amoxicilina-ac.clavulánico a 2g cada 8 horas y tratamiento con broncodilatadores. A nivel neurológico la paciente se mantiene estable, manteniendose la plejia faciobraquiocrural izquierda, sin clínica cortical. Valorada por Medicina Rehabilitación se indica inicio de la rehabilitación.
+Dada la estabilidad clínica de la paciente, se contacta con centro de referencia (_SS_) para valorar traslado.
+
+Al alta: NIHSS: 15
+mRS 5.
+
+DIAGNÒSTICS
+1.- Ictus hemorrágico capsulotalámico derecho que drena a ventriculos de probable etiologia hipertensiva. 2.- Hipertensión arterial
+3.- Dislipemia
+4.- Diabetes mellitus tipo 2
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+-	Dieta hiposódica
+-	Omeprazol 20 mg cada 24 horas vo
+-	Metoclopramida 10 mg cada 8 horas si nauseas
+-	Enoxaparina 40 mg sc a las 21h00
+-	Atenolol 50 mg a las 9h00 vo
+-	Amlodipino 5 mg a las 9h00 vo
+-	Enalapril 10 mg cada 12 horas vo
+-	Amoxicilina- ac. clavulanico 2 g cada 8 horas ev hasta el 22.09.2017
+-	
+Informe d'alta d'hospitalització
+
+
+
+
+-	Paracetamol 1 g cada 8 horas si precisa
+-	Bromuro de ipatropio 500 mcg cada 6 horas neb
+-	Salbutamol 5 mg cada 6 horas neb
+
+CONTROL
+Se traslada a su centro de referencia (_SS_).
+
+DESTINACIÓ A L'ALTA:	HOSP. AGUTS/PSQ
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+13.09.2017
+Pàgina 1 de 4

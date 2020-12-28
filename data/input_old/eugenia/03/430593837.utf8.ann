@@ -1,0 +1,108 @@
+T1	_SUG_Lateralizacion 105 106	I
+T2	Fecha_de_ingreso 188 196	15/10/17
+#2	AnnotatorNotes T2	2017-10-15
+T3	Fecha_de_alta 223 231	17/10/17
+#3	AnnotatorNotes T3	2017-10-17
+T5	Ictus_isquemico 300 315	ICTUS ISQUÉMICO
+T6	Arteria_afectada 326 329	ACM
+T7	Lateralizacion 330 339	IZQUIERDA
+T9	mRankin_previa 464 469	mRS 0
+T11	_SUG_Ataque_isquemico_transitorio 644 649	Ictus
+T12	_SUG_ASPECTS 1064 1071	aspecto
+T13	_SUG_Lateralizacion 1331 1340	izquierda
+T14	_SUG_Ataque_isquemico_transitorio 1842 1847	ictus
+T15	Fecha_llegada_hospital 1873 1883	15/10/2017
+#15	AnnotatorNotes T15	2017-10-15
+T16	Hora_inicio_sintomas 1905 1910	15:20
+#16	AnnotatorNotes T16	15:20
+T17	_SUG_Lateralizacion 2047 2054	derecho
+T18	Hora_llegada_hospital 2076 2081	15:55
+#18	AnnotatorNotes T18	15:55
+T19	_SUG_Ataque_isquemico_transitorio 2107 2112	ictus
+T20	_SUG_Lateralizacion 2625 2632	derecha
+T21	_SUG_Lateralizacion 2671 2678	derecha
+T22	_SUG_Lateralizacion 2841 2848	derecho
+T23	NIHSS_previa 2860 2868	NIHSS 10
+T24	_SUG_Ataque_isquemico_transitorio 2905 2910	Ictus
+T25	_SUG_Lateralizacion 3448 3455	derecho
+T26	_SUG_NIHSS 3480 3487	NIHSS 2
+T27	FECHA 3539 3547	15/10/17
+#27	AnnotatorNotes T27	2017-10-15
+T28	_SUG_TAC_craneal 3963 3965	TC
+T29	Fecha_TAC_inicial 3981 3989	15/10/17
+#29	AnnotatorNotes T29	2017-10-15
+T30	Hora_TAC_inicial 3991 3996	16:04
+#30	AnnotatorNotes T30	16:04
+T31	_SUG_TAC_craneal 4075 4077	TC
+T32	_SUG_Ictus_isquemico 4101 4108	infarto
+T33	ASPECTS 4144 4154	ASPECTS 10
+T34	_SUG_ASPECTS 4191 4198	aspecto
+T35	_SUG_TAC_craneal 4520 4522	TC
+T36	_SUG_Lateralizacion 4626 4635	izquierda
+T37	Arteria_afectada 4662 4664	M5
+T38	_SUG_ASPECTS 4682 4689	ASPECTS
+T39	Arteria_afectada 4714 4716	M2
+T40	_SUG_Arteria_afectada 4903 4905	M5
+T41	_SUG_ASPECTS 4906 4913	ASPECTS
+T42	_SUG_Arteria_afectada 5330 5332	M2
+T43	_SUG_Arteria_afectada 5426 5444	Arterias carótidas
+T44	_SUG_Arteria_afectada 5455 5470	vertebrobasilar
+T45	_SUG_TAC_craneal 5997 5999	TC
+T46	FECHA 6017 6027	16/10/2017
+#46	AnnotatorNotes T46	2017-10-16
+T47	HORA 6029 6034	11:42
+#47	AnnotatorNotes T47	11:42
+T50	_SUG_Ictus_isquemico 6040 6063	Infarto isquémico agudo
+T51	_SUG_Lateralizacion 6093 6102	izquierdo
+T52	_SUG_Arteria_afectada 6142 6145	ACM
+T53	_SUG_Lateralizacion 6146 6155	izquierda
+T54	_SUG_Ictus_isquemico 6171 6197	transformación hemorrágica
+T56	_SUG_Lateralizacion 6301 6302	e
+T57	_SUG_Ataque_isquemico_transitorio 6381 6386	ictus
+T58	_SUG_Arteria_afectada 6390 6393	ACM
+T59	_SUG_Lateralizacion 6394 6403	izquierda
+T60	Hora_primer_bolus_trombolisis_rtPA 6558 6563	16:05
+#60	AnnotatorNotes T60	16:05
+T61	_SUG_Lateralizacion 6717 6718	e
+T62	_SUG_Lateralizacion 6731 6738	derecha
+T63	_SUG_NIHSS 6744 6751	NIHSS 2
+T64	_SUG_Ataque_isquemico_transitorio 6787 6792	Ictus
+T65	_SUG_TAC_craneal 6833 6835	TC
+T66	_SUG_Lateralizacion 6892 6901	izquierda
+T67	_SUG_Ictus_isquemico 6906 6932	transformación hemorrágica
+T68	_SUG_Ataque_isquemico_transitorio 7209 7214	ictus
+T69	NIHSS_alta 7685 7692	NIHSS 0
+T70	_SUG_mRankin 7694 7700	Rankin
+T71	_SUG_Ataque_isquemico_transitorio 8080 8085	ictus
+T72	_SUG_Lateralizacion 8308 8313	dieta
+T73	_SUG_Lateralizacion 8799 8803	dret
+T74	_SUG_Lateralizacion 9016 9023	derecho
+T75	SECCION_DIAGNOSTICOS 283 295	DIAGNÓSTICOS
+T76	SECCION_PROCEDIMIENTOS 551 565	PROCEDIMIENTOS
+T77	SECCION_ANTECEDENTES 651 663	ANTECEDENTES
+T78	SECCION_TRATAMIENTO_HABITUAL 1600 1620	Tratamiento habitual
+T79	SECCION_PROCESO_ACTUAL 1792 1809	ENFERMEDAD ACTUAL
+T80	SECCION_EXPLORACION_FISICA 2133 2151	EXPLORACIÓN FÍSICA
+T81	SECCION_EXPLORACION_FISICA_EN_URGENCIAS 2155 2182	Exploración física en UCIAS
+T82	SECCION_EXPLORACION_FISICA_DURANTE_HOSPITALIZACION 2873 2910	Exploración física en Unidad de Ictus
+T83	SECCION_EXPLORACIONES_COMPLEMENTARIAS 3489 3518	EXPLORACIONES COMPLEMENTARIAS
+T84	SECCION_EXPLORACIONES_COMPLEMENTARIAS_EN_PLANTA_DE_NEUROLOGIA 5508 5528	Analítica de ingreso
+T85	SECCION_EVOLUCION 6200 6209	EVOLUCIÓN
+T86	SECCION_TRATAMIENTO_AL_ALTA 7813 7824	TRATAMIENTO
+T87	SECCION_RECOMENDACIONES 7991 8003	INDICACIONES
+T8	Localizacion 317 321	PACI
+#1	AnnotatorNotes T9	0
+T48	Trombolisis_intravenosa 569 581	Fibrinolisis
+T49	Tratamiento_antiagregante_hab 1719 1722	AAS
+T55	Fecha_inicio_sintomas 1873 1883	15/10/2017
+#4	AnnotatorNotes T55	2017-10-15
+#5	AnnotatorNotes T23	10
+#6	AnnotatorNotes T33	10
+T89	Etiologia 7648 7662	cardioembólico
+#7	AnnotatorNotes T69	0
+T91	mRankin_alta 7694 7702	Rankin 0
+#8	AnnotatorNotes T91	0
+T92	Tratamiento_anticoagulante_alta 7828 7835	SINTROM
+T93	Fecha_trombolisis_rtPA 1873 1883	15/10/2017
+T4	Test_de_disfagia 2950 2966	Test de disfagia
+T10	TAC_craneal 3963 3973	TC craneal

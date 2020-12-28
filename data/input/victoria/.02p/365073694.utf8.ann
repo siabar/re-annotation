@@ -1,0 +1,102 @@
+T0	_SUG_Lateralizacion 0 1	I
+T1	FECHA 315 325	24.04.2017
+#1	AnnotatorNotes T1	2017-04-24
+T2	HORA 384 389	01:06
+#2	AnnotatorNotes T2	01:06
+T3	SECCION_TIPO_DE_INGRESO 421 446	Tipo ingreso/Tipus ingrés
+T4	_SUG_Ictus_isquemico 495 500	ICTUS
+T5	_SUG_Arteria_afectada 501 523	ARTERIA CEREBRAL MEDIA
+T6	_SUG_Lateralizacion 524 531	DERECHA
+T7	SECCION_MOTIVO_DE_INGRESO 634 672	Motivo de consulta / Motiu de consulta
+T8	_SUG_Lateralizacion 706 716	izquierdas
+T9	SECCION_ANTECEDENTES 719 781	Antecedentes e historia previa / Antecedents i història prèvia
+T10	_SUG_mRankin_alta 883 888	mRS 0
+T11	_SUG_mRankin_previa 883 888	mRS 0
+T12	_SUG_Etiologia 920 932	HIPERTENSIÓN
+T13	SECCION_TRATAMIENTO_HABITUAL 1054 1073	MEDICACIÓN HABITUAL
+T14	SECCION_PROCESO_ACTUAL 1229 1259	Proceso actual / Procés actual
+T15	HORA 1283 1288	19.25
+#15	AnnotatorNotes T15	19:25
+T16	FECHA 1294 1299	23/04
+#16	AnnotatorNotes T16	2017-04-23
+T17	_SUG_Lateralizacion 1342 1352	izquierdas
+T18	_SUG_Ictus_isquemico 1408 1413	ictus
+T19	SECCION_PROCESO_ACTUAL 7968 7974	Episod
+T20	SECCION_EXPLORACION_FISICA 1416 1454	Exploración física / Exploració física
+T21	_SUG_Lateralizacion 1733 1738	drcha
+T22	_SUG_NIHSS_alta 1890 1898	NIHSS 16
+T23	_SUG_NIHSS_previa 1890 1898	NIHSS 16
+T24	_SUG_Lateralizacion 2058 2065	derecho
+T25	FECHA 2098 2102	2015
+#25	AnnotatorNotes T25	2015-UNDEF-month-UNDEF-day
+T26	_SUG_TAC_craneal 2142 2144	TC
+T27	_SUG_TAC_craneal 2159 2169	TC CRANEAL
+T28	_SUG_Arteria_afectada 2255 2277	arteria cerebral media
+T29	_SUG_Lateralizacion 2278 2285	derecha
+T30	_SUG_ASPECTS 2434 2444	ASPECTS 10
+T31	_SUG_TAC_craneal 2449 2451	TC
+T32	_SUG_Localizacion 2547 2555	profundo
+T33	_SUG_Arteria_afectada 2562 2565	ACM
+T34	_SUG_Lateralizacion 2566 2573	derecha
+T35	_SUG_Arteria_afectada 2633 2636	ACM
+T36	_SUG_Lateralizacion 2637 2644	derecha
+T37	_SUG_Arteria_afectada 2721 2723	M1
+T38	_SUG_Arteria_afectada 2730 2752	arteria cerebral media
+T39	_SUG_Lateralizacion 2753 2760	derecha
+T40	_SUG_Arteria_afectada 2810 2836	Arterias carótidas comunes
+T41	_SUG_Arteria_afectada 2934 2937	ACM
+T42	_SUG_Lateralizacion 2938 2947	izquierda
+T43	_SUG_Ictus_isquemico 3114 3119	ICTUS
+T44	_SUG_Arteria_afectada 3215 3217	M1
+T45	_SUG_TAC_craneal 3498 3508	TC CRANEAL
+T46	_SUG_Localizacion 3756 3766	lenticular
+T47	_SUG_Lateralizacion 3767 3774	derecho
+T48	_SUG_Localizacion 3865 3876	ventricular
+T49	_SUG_Lateralizacion 3982 3989	derecha
+T50	_SUG_Localizacion 3992 3999	caudado
+T51	_SUG_Lateralizacion 4000 4007	derecho
+T52	_SUG_Localizacion 4030 4040	corticales
+T53	SECCION_EXPLORACIONES_COMPLEMENTARIAS 4065 4125	Exploraciones complementarias / Exploracions complementàries
+T54	_SUG_Etiologia 4372 4387	cardioembólicas
+T55	SECCION_EVOLUCION 4708 4728	Evolución / Evolució
+T56	_SUG_Ictus_isquemico 4750 4765	ICTUS ISQUÉMICO
+T57	_SUG_Lateralizacion 4803 4810	DERECHA
+T58	_SUG_Trombectomia_mecanica 4819 4840	trombectomía mecánica
+T59	FECHA 4841 4850	23/3/2017
+#59	AnnotatorNotes T59	2017-03-23
+T60	FECHA 4911 4915	23/4
+#60	AnnotatorNotes T60	2017-04-23
+T61	_SUG_Lateralizacion 4949 4959	izquierdas
+T62	_SUG_Etiologia 5014 5024	hipertensa
+T63	_SUG_Lateralizacion 5101 5108	derecho
+T64	_SUG_TAC_craneal 5200 5210	TC craneal
+T65	_SUG_Arteria_afectada 5243 5265	arteria cerebral media
+T66	_SUG_Lateralizacion 5420 5427	derecho
+T67	_SUG_Arteria_afectada 5522 5524	M1
+T68	_SUG_Trombectomia_mecanica 5579 5600	trombectomía mecánica
+T69	_SUG_NIHSS_alta 5952 5959	NIHSS 5
+T70	_SUG_NIHSS_previa 5952 5959	NIHSS 5
+T71	_SUG_TAC_craneal 5965 5975	TC craneal
+T72	_SUG_Lateralizacion 6199 6206	derecha
+T73	_SUG_Localizacion 6209 6216	caudado
+T74	_SUG_Lateralizacion 6217 6224	derecho
+T75	_SUG_Localizacion 6247 6257	corticales
+T76	_SUG_Ictus_isquemico 6300 6316	ictus  isquémico
+T77	_SUG_Arteria_afectada 6345 6369	arteria  cerebral  media
+T78	_SUG_Lateralizacion 6371 6378	derecha
+T79	_SUG_Etiologia 6394 6407	indeterminada
+T80	_SUG_Tratamiento_antiagregante_alta 6449 6452	AAS
+T81	_SUG_Tratamiento_antiagregante_hab 6449 6452	AAS
+T82	_SUG_Lateralizacion 6582 6589	derecha
+T83	_SUG_Tratamiento_antiagregante_alta 6645 6648	AAS
+T84	_SUG_Tratamiento_antiagregante_hab 6645 6648	AAS
+T85	_SUG_NIHSS_alta 6668 6676	NIHSS: 0
+T86	_SUG_NIHSS_previa 6668 6676	NIHSS: 0
+T87	_SUG_mRankin_alta 6678 6683	mRs 1
+T88	_SUG_mRankin_previa 6678 6683	mRs 1
+T89	_SUG_Etiologia 6692 6723	Indeterminado (estudio completo
+T90	SECCION_RECOMENDACIONES 7278 7299	Otras recomendaciones
+T91	FECHA 7636 7646	28.04.2017
+#91	AnnotatorNotes T91	2017-04-28
+T92	HORA 7661 7666	16:06
+#92	AnnotatorNotes T92	16:06

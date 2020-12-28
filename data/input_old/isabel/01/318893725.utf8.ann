@@ -1,0 +1,102 @@
+T1	Hora_de_alta 287 292	13:10
+#1	AnnotatorNotes T1	13:10
+T2	Fecha_de_alta 296 306	05.01.2017
+#2	AnnotatorNotes T2	2017-01-05
+T3	Fecha_de_ingreso 414 424	02.01.2017
+#3	AnnotatorNotes T3	2017-01-02
+T5	_SUG_Ictus_isquemico 493 508	Ictus isquémico
+T7	mRankin_previa 700 705	mRS 0
+T8	FECHA 819 823	2010
+#8	AnnotatorNotes T8	2010-UNDEF-month-UNDEF-day
+T12	FECHA 1234 1240	2/1/17
+#12	AnnotatorNotes T12	2017-01-02
+T13	_SUG_Lateralizacion 1340 1347	derecha
+T14	_SUG_Ictus_isquemico 1426 1431	Ictus
+T15	_SUG_Lateralizacion 1770 1779	izquierda
+T16	_SUG_Lateralizacion 1817 1824	derecha
+T17	_SUG_Lateralizacion 1965 1972	derecha
+T18	_SUG_Lateralizacion 2109 2116	derecha
+T19	_SUG_NIHSS_alta 2256 2284	NIHSS 12013/22032/00200 = 18
+T20	_SUG_NIHSS_previa 2256 2284	NIHSS 12013/22032/00200 = 18
+T21	_SUG_Arteria_afectada 2295 2298	ACP
+T22	_SUG_Lateralizacion 2494 2503	izquierdo
+T24	_SUG_TAC_craneal 3437 3447	TC craneal
+T25	_SUG_Arteria_afectada 3652 3656	PICA
+T26	_SUG_Localizacion 3718 3733	infart llacunar
+T27	_SUG_Localizacion 4051 4056	tronc
+T28	_SUG_Localizacion 4076 4087	ventricular
+T29	_SUG_Localizacion 4267 4272	tronc
+T30	_SUG_Arteria_afectada 4365 4368	ACP
+T31	_SUG_Arteria_afectada 4422 4441	d'artèria vertebral
+T32	_SUG_Localizacion 4586 4593	frontal
+T33	_SUG_TAC_craneal 4959 4961	TC
+T34	_SUG_Localizacion 5047 5054	frontal
+T35	_SUG_Arteria_afectada 5277 5281	PICA
+T36	FECHA 5305 5311	3/1/17
+#36	AnnotatorNotes T36	2017-01-03
+T37	_SUG_Localizacion 5381 5390	posterior
+T38	_SUG_Localizacion 5449 5456	profund
+T39	_SUG_Arteria_afectada 6046 6048	AB
+T40	_SUG_ASPECTS 6378 6385	aspecte
+T41	_SUG_NIHSS_alta 6796 6811	escala NIHSS 18
+T42	_SUG_NIHSS_previa 6796 6811	escala NIHSS 18
+T44	_SUG_TAC_craneal 6832 6842	TC craneal
+T46	_SUG_Ictus_isquemico 6970 6985	ictus isquémico
+T47	_SUG_Lateralizacion 6998 7007	izquierdo
+T48	_SUG_Trombolisis_intravenosa 7162 7166	rtPA
+T49	_SUG_Trombolisis_intravenosa 7192 7196	rtPA
+T50	_SUG_Ictus_isquemico 7386 7391	Ictus
+T52	_SUG_Ictus_isquemico 7472 7487	Ictus isquémico
+T53	_SUG_Arteria_afectada 7505 7508	ACM
+T54	_SUG_Lateralizacion 7509 7518	izquierda
+T55	_SUG_Etiologia 7532 7545	indeterminada
+T56	_SUG_Ictus_isquemico 7584 7589	ICTUS
+T57	_SUG_Lateralizacion 7687 7694	derecho
+T58	_SUG_TAC_craneal 7699 7701	TC
+T59	FECHA 7714 7717	3/1
+#59	AnnotatorNotes T59	2017-01-03
+T60	_SUG_Trombolisis_intravenosa 7724 7729	r-tpa
+T61	_SUG_Localizacion 7776 7785	posterior
+T62	_SUG_Lateralizacion 7805 7814	izquierda
+T63	_SUG_Localizacion 7845 7853	profundo
+T64	_SUG_Arteria_afectada 7857 7860	ACM
+T65	_SUG_Lateralizacion 7861 7870	izquierda
+T66	FECHA 7928 7931	3/1
+#66	AnnotatorNotes T66	2017-01-03
+T67	_SUG_Tratamiento_antiagregante_alta 7942 7945	AAS
+T68	_SUG_Tratamiento_antiagregante_hab 7942 7945	AAS
+T69	FECHA 7974 7977	4/4
+#69	AnnotatorNotes T69	2017-04-04
+T70	FECHA 8401 8404	4/4
+#70	AnnotatorNotes T70	2017-04-04
+T71	_SUG_NIHSS_alta 8603 8634	NIHSS: 01000 / 10000 / 00100: 3
+T72	_SUG_NIHSS_previa 8603 8634	NIHSS: 01000 / 10000 / 00100: 3
+T73	_SUG_mRankin_alta 8635 8643	Rankin 3
+T74	_SUG_mRankin_previa 8635 8643	Rankin 3
+T75	_SUG_Ictus_isquemico 8675 8691	Infarto cerebral
+T76	_SUG_Arteria_afectada 8713 8716	ACM
+T77	_SUG_Lateralizacion 8717 8726	izquierda
+T78	_SUG_Trombolisis_intravenosa 8748 8772	Tratamiento trombolítico
+T79	_SUG_Etiologia 8818 8830	Hipertensión
+T81	_SUG_Etiologia 8994 9002	habitual
+T82	_SUG_Tratamiento_antiagregante_alta 9187 9192	Adiro
+T83	_SUG_Tratamiento_antiagregante_hab 9187 9192	Adiro
+T84	_SUG_Etiologia 9340 9348	habitual
+T85	_SUG_Trombolisis_intravenosa 9411 9435	tratamiento trombolítico
+T87	_SUG_Localizacion 9469 9480	posteriores
+T88	FECHA 9770 9780	05.01.2017
+#88	AnnotatorNotes T88	2017-01-05
+T89	SECCION_PROCESO_ACTUAL 147 156	NºEpisodi
+T90	SECCION_MOTIVO_DE_INGRESO 478 492	MOTIU D'INGRÉS
+T91	SECCION_ANTECEDENTES 510 521	ANTECEDENTS
+T92	SECCION_ANTECEDENTES_PERSONALES 522 545	Antecedentes Personales
+T93	SECCION_ANTECEDENTES 708 732	Antecedentes Patológicos
+T94	SECCION_TRATAMIENTO_HABITUAL 1088 1106	MEDICACIÓ HABITUAL
+T95	SECCION_PROCESO_ACTUAL 1192 1205	PROCÉS ACTUAL
+T96	SECCION_EXPLORACION_FISICA 1530 1547	EXPLORACIÓ FÍSICA
+T97	SECCION_EXPLORACIONES_COMPLEMENTARIAS 2386 2411	EXPLORACIÓ COMPLEMENTÀRIA
+T98	SECCION_EVOLUCION 6687 6703	EVOLUCIÓ CLÍNICA
+T99	SECCION_DIAGNOSTICO_PRINCIPAL 8657 8668	DIAGNÒSTICS
+T100	SECCION_TRATAMIENTO_AL_ALTA 8877 8912	TRACTAMENT I RECOMANACIONS A L'ALTA
+T101	SECCION_CONTROL 9351 9358	CONTROL
+#4	AnnotatorNotes T7	0

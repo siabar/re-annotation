@@ -1,0 +1,175 @@
+_LOCATION_
+email: _CONTACT_ Telèfon _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 67 Anys
+NIF/DNI: _ID_Informe d'alta d'hospitalització
+12:00:00
+24.12.2017
+_LOCATION_
+_SS_ CARDIOLOGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_; _CONTACT_; _CONTACT_
+AGUTS 27.11.2017
+Equipo Dr _NAME_ ( _NAME_, _NAME_)
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Paciente de 67 años que ingresa por ictus posterior embólico secundario a trombosis protésica.
+
+ANTECEDENTES
+-Alergias: sin alergias medicamentosas conocidas. Refiere intolerancia al bisoprolol (malestar general, astenia, hipotensión)
+-Hábitos tóxicos: exfumador
+
+Antecedentes patológicos:
+-Hipertensión arterial en tratamiento farmacológico.
+-Dislipemia en tratamiento con estatinas.
+-Carcinoma tímico mucoepidermoide intervenido quirúrgicamente, con márgenes libres, sin afectación ganglionar. Recibió RT adyuvante (DT 50 Gy, fin febrero 2002). TC toracoabdominal que no pone de manifiesto cambios significativos respecto a la exploración de octubre de 2012. Libre de enfermedad, se procede a alta en octubre de 2013.
+-Hernioplastia derecha en septiembre de 2017.
+
+Historia cardiológica:
+Portador de una prótesis aórtica metálica desde marzo de 2015 por valvulopatía aórtica bicúspide con FE normal. En junio de 2016 se objetivó masa valvular no filiada con seguimiento posterior en el que desapareció, en junio de 2017 nuevo ingreso por masa no filiada que se descartó endocarditis y se orientó como probable trombosis por lo que se ajustó anticoagulación, desapareciendo la imagen y disponiendo de un ETE de control en octubre de este año en la que no había trombosis.
+
+Por otro lado, es portador de un DAI monocameral por taquicardia ventricular mal tolerada objetivánose en el EEF una taquicardia rama-rama en marzo de 2017.
+
+Situación sociofuncional: Independiente para las actividades de la vida diaria. mRS 1.
+
+MEDICACIÓN HABITUAL
+Losartan 25mg ½ comprimido por la mañana, Simvastatina 20mg, sintrom.
+
+ENFERMEDAD ACTUAL
+El paciente ingresa como código ictus tras despertarse a las 2:00am del día 27 de noviembre con diplopia y debilidad y torpeza de miembros izquierdos. Refieren mal controles de INR en las últimas semanas.
+
+La exploración neurológica inicial mostró: despierta a la orden (1). Lenguaje normal. Disartria inteligible (1). No déficit campimétrico. Limitación de la mirada conjugada a la derecha con skew (1). Hemiparesia facial pseudoperiférica (3), paresia braquiocrural izquierda (1+2), con claudicación distal de la mano. Sensibilidad conservada. Dismetría miembros izquierdos (2). Resto normal. NIHSS 11
+
+Se realizó un TC multimodal que no mostró lesión isquémica establecida o hemorragia intracraneal. Oclusión en
+
+Informe d'alta d'hospitalització
+
+
+
+
+tercio medio de arteria basilar. Dado el tratamiento con Sintrom se decide trombecomía primaria. Llega a la sala a las 4:00h, y se realiza la punción femoral a las 4:23h. La primera serie (5:03, acceso dificultoso por tortuosidad del origen de la AV I) muestra una oclusión del tercio medio de la AB (TICI 0). Se intenta en varias ocasiones el acceso a la AB por vía femoral, pero no se consigue estabilidad del sistema, por lo que a las 5:23h se decide acceso por vía braquial. Finalmente, se consigue colocar un Solitaire a las 6:05, y a las6:08 la recanalización completa tras 1 pase (TICI 3).
+
+El paciente se traslada a Urgencias, en espera de cama para la Unidad de Ictus. Neurológicamente, tras el procedimiento, el paciente está vigil, orientado, no trastorno de habla, no limitación de MOE, paresia facial central I leve (1). No se pueden valorar déficits motores o dismetrías de extremidades. Durante el procedimiento, destaca en la telemetría taquicardia ventricular bien tolerada (portador DAI).
+
+Para completar estudio se realiza un ecocardiograma transesofágico que muestra trombosis valvular protésica no obstructiva. Se realizó un TC de control a las 24 horas sin evidenciarse sangrados agudos ni lesiones isquémicas establecidas que contraindiquen la anticoagulación por lo que se inicia perfusión de heparina sódica y se contacta con cardiología decidiendose traslado para continuar manejo.
+
+EXPLORACIÓN FÍSICA (a su ingreso en cardiología):
+Normocoloreado, bien hidratado y perfundido, hemodinámicamente estable manteniendo TA 150/70mmHg y FC 80lpm, saturando a 98% en aire ambiente y afebril. Tonos cardiacos rítmicos con soplo sistólico paraesternal y con click protésico audible. Eupneico, tolerando decúbito, murmullo vesicular conservado sin ruidos sobreañadidos. Sin edema en extremidades inferiores ni ingurgitación yugular. Pulsos pedios presentes y simétricos. Abdomen anodino. Orientado, sin signos de focalidad neurológica aguda.
+
+EXPLORACIONES COMPLEMENTARIAS
+-Analítica urgente: Hb 12.8g/dl, Hto 39.3%, Leucocitos 8200, Plaquetas  216000, TQuick , INR , TTPAr , Fibrinógeno , Glucosa 136mg/dl, Urea 49mg/dl, Cr 0.82mg, FG >90, Na 138.2mmol/l, K 3.71mmol/l, Ca 9.3mg/dl, AST 25UI/L, ALT 16UI/L, Proteínas 7.1g/dl.
+
+-Electrocardiograma: ritmo sinusal, intervalo PR 200 ms, estimulación ventricular por marcapasos; sin cambios respecto a previo.
+
+-TC craneal: No se observan desplazamientos valorables de las estructuras de línea media, ni lesiones hemorrágicas intra o extraparenquimatosas, supra ni infratentoriales. Sistema ventricular de morfología y tamaño normales. Cisternas basales y peritronculares libres. Pequeña hipodensidad focal cortico-subcortical cerebelosa izquierda en relación a infarto crónico. No se observan otras alteraciones significativas en el resto del parénquima cerebral. Defecto de repleción en tercio distal de la arteria basilar con permeabilidad de ambas ACP probablemente a través de las comunicantes. No se identifica claramente la PICA izquierda. Arterias en territorio vascular carotídeo permeables. Troncos supraaórticos permeables. No se identifican estenosis en ACI. Catéteres subclavios derechos visualizados hasta segmento en VCS. Importante circulación colateral en mediastino, región cervicotorácica y paravertebral. No identifico vena braquiocefálica izquierda (oclusión crónica?). El estudio de perfusión (a pesar de no estar dirigido a la valoración de territorio posterior) identifica probable área de penumbra en zona superior del hemisferio cerebeloso izquierdo.
+
+-TC de control (a las 24h del ingreso): sin sangrados agudos ni lesiones isquémicas establecidas.
+
+-Ecocardiografía transtorácica: Ventrículo izquierdo no dilatado, con hipertrofia severa del rodete septal-basal
+
+Informe d'alta d'hospitalització
+
+
+
+
+(rodete septal 18 mm) e hipertrofia moderada del resto del septo y función sistólica conservada (FE 61 % por Simpson biplano). Movimiento anómalo septal. Válvula mitral de morfología normal con apertura conservada. Prótesis mecÁnica a nivel aórtico, con movimiento de apertura de ambos hemidiscos. Engrosamiento perianular posterior (entre raíz aórtica y prótesis) máximo de 15mm. No se observa ninguna imagen móvil en el TSVI. Aurícula izquierda ligeramente dilatada (área 21cm2). Raíz aórtica ligeramente dilatada (41 mm). Cavidades derechas de tamaño normal. Ventrículo derecho con disfunción sistólica ligera (TAPSE de 17 mm). Sin cambios con respecto a ecos previos. No derrame pericárdico. Doppler: Prótesis mecánica en posición aórtica con gradientes en el límite de la normalidad (gradiente medio 11 mmHg y máximo 21 mmHg), con fuga mínima. Insuficiencia tricuspídea muy ligera que no permite estimar PAPs. Sin datos indirectos de hipertensión pulmonar (Tiempo de aceleración pulmonar normal).
+
+-Ecocardiografía transesofágica 27/11: Persistencia del engrosamiento en zona posterior del anillo aórtico de 15 mm de grosor máximo, sin cavidad en su interior (similar a estudio previo). Presenta dos fugas protésicas ligeras (I/IV) de lavado. No se objetiva ninguna masa vibrátil en el estudio actual. Se observa una imagen hiperecogénica, fija adherida a ambos hemidiscos, junto al anillo anterior y que se extiende a la superficie de ambos hemidiscos. Se administra contraste confirmándose la presencia de esta masa. Válvula mitral de velos finos, correcta apertura y plano de coaptación. Insuficiencia mitral minima (I/IV) con dos jets (uno central y uno periférico). Orejuela izquierda sin imágenes de trombo. Velocidades normales. Aorta sin placas de ateromatosis.
+
+-Ecocardiografía transesofágica 05/12: Prótesis mecánica en posición aórtica con  gradientes dentro de la normalidad y ligeramente menores que en estudio previo (gradiente medio de 7 mmHg y máximo de 15 mmHg) y con fuga mínima. Persistencia de la imagen hiperecogénica, ligeramente móvil de 8x4mm junto al anillo anterior y que se extiende a la superficie de ambos hemidiscos, sugestivo de trombo, que ha disminuido de tamaño respecto a estudio previo. A parte, se evidencia imagen milimétrica y vibrátil, en zona de bisagra de ambos hemidiscos que puede ser compatible con pequeño trombo. Se administra nuevamente contraste confirmándose la presencia de esta masa. Persistencia del engrosamiento en zona posterior del anillo aórtico de 12mm de grosor máximo, sin cavidad en su interior y sin paso de contraste a su interior (similar a estudios previo). Presenta dos fugas protésicas ligeras (I/IV) de lavado. Válvula mitral de velos finos, correcta apertura  y plano de coaptación. Insuficiencia mitral mínima (I/IV) con dos jets (uno central y uno periférico). Orejuela izquierda sin imágenes de trombo. Velocidades de vaciado normales. Aorta sin placas de ateromatosis.
+
+-Ecocardiografía transesofágica 18/12: prótesis mecánica en posición aórtica con persistencia de imagen sospechosa de trombo no obstructivo con aumento del tamaño respecto a estudio previo.
+
+-Ecocardiografía transesofágica 20/12: Prótesis mecánica en posición aórtica con adecuada movilidad de discos y sin aumento significativo del gradientetransprotésico (gradiente medio 10mmHg). Fuga periprotésica muy ligera, ya visualizada en estudios previos. Seobserva reducción muy significativa de la imagen compatible con trombo, quedando actualmente imagen móvilmilimétrica en disco anterior (loop 22). Se administra contraste y no se observan más imágenes patológicas.Persistencia del engrosamiento en zona anterior del anillo aórtico de 11 mm de grosor máximo. No se observaclaro pseudoaneurisma.- Válvula mitral de velos finos, correcta apertura y sin imágenes patológicas. Insuficienciamitral mínima (I/IV).  Función sistólica biventricular conservada.
+
+
+-TC cardíaco: Esternotomía media consolidada, sin evidencia de complicaciones periesternotomía. Persistencia de discretos cambios cicatriciales en mediastino anterior. Prótesis valvular aórtica mecánica bidisco, con apertura y cierre de los discos conservados. No se visualizan claros defectos de repleción en relación a los  discos protésicos identificables  por TC. Estabilidad del marcado engrosamiento de partes blandas periprotésico de
+
+Informe d'alta d'hospitalització
+
+
+
+
+predominio en la zona posterior del anillo protésico (17 mm de grosor máximo). Persiste pseudoaneurisma en la unión del SNC-SCD, de tamaño similar respecto al estudio previo (17x10mm) pero con significativa disminución de la cavidad permeable, con imagen en su interior sugestiva de trombo. Electrodos de DAI con extremos en AD y ápex del VD. Orejuela de AD de paredes engrosadas, ya descrito en estudios previos, sin cambios. Arterias coronarias no estudiadas de forma dirigida, con marcada ateromatosis difusa de predomino calcificado. No hay derrame pleural ni pericárdico. Parénquima pulmonar visualizado sin condensaciones. Resto sin cambios significativos. Conclusión: Cambios postquirúrgicos de recambio valvular aórtico, con estabilidad del engrosamiento de partes blandas periprotésico, así como disminución de la cavidad permeable del pseudoaneurisma conocido en unión de SNC-SCD, con imagen de trombo en su interior. Prótesis aórtica con correcto cierre y apertura de los discos, sin claros defectos de repleción asociados identificables por TC. Resto sin cambios significativos.
+
+EVOLUCIÓN:
+Se trata de un paciente de 67 años con buena calidad de vida previa, anticoagulado con sintrom por prótesis aórtica que presenta cuadro clínico de inicio incierto pero menos de 3 horas de evolución compatible con ictus isquémico de territorio posterior, apreciándose en angio TC oclusión de tercio medio de la A. basilar. Dados los hallazgos se activa la guardia de intervencionismo realizándose trombectomía mecánica con resolución de la clínica. En el estudio etiológico se realizó ecocardiografía transesofagica que documentó una trombosis protésica no obstructiva, ingresando posteriormente en la planta de cardiología e iniciándose heparina sódica no fraccionada. Se completa estudio con TAc cardíaco que objetiva enfrosamiento de partes blandas periprotésico, con imagen de trombo en el interior de pseudoaneurisma ya conocido. En  los ETEs evolutivos se obetiva persistencia de imagen sospechosa de trombo con disminución paulatina del tamaño de éste, decidiéndose ante el alto riesgo quirúrgico optar por manejo médico. Tras cuatro semanas de ingreso en el ETE previo al alta se observa disminución muy importante de imagen móvil en prótesis mecánica por lo que se decide paso a sintrom, llegando a rango terapéutico y permitiendo la suspensión de la heparina no fraccionada. Ante mejoría clínica se decide alta hospitalaria con control en consultas externas. Se explican signos de alarma y normas de reconsulta.
+
+RESUMEN:
+Varón de 67 años con antecedentes de hipertensión arterial, dislipemia y carcinoma tímico mucoepidermoide tratado con Qx y RT en 2002, libre de enfermedad, hernioplastia inguinal en septiembre por el que requirió cambio de anticoagulación de sintrom a clexane, que desde el punto de vista cardiológico es portador de DAI por TV mal tolerada y ablacionada en abril 2017 y de una prótesis aórtica mecánica con antecedente de trombosis no obstructiva resuelta con anticoagulación. Ingresa por ictus secundario a oclusión de tercio medio de arteria basilar sobre la que se realizó trombectomía mecánica, con mejoría de la clínica. En el ETE se ha documentado trombosis protésica no obstructiva. Se inició perfusión de heparina sódica el 27/11.Se realizó un TC cardíaco que muestra estabilidad del engrosamiento de partes blandas periprotésico, así como disminución de la cavidad permeable del pseudoaneurisma conocido en unión de SNC-SCD, con imagen de trombo en su interior. En los ETEs evolutivos se obetiva persistencia de imagen sospechosa de trombo con disminución paulatina del tamaño de éste, observándose en el último del día 20/12 disminución muy importante de imagen  móvil en prótesis mecánica por lo que se decide paso a sintrom. Ante estabilidad clínica se decide alta hospitalaria con control en consultas externas.
+
+
+
+ORIENTACIÓ DIAGNÒSTICA
+-	Trombosis protésica no obstructiva
+-	Ictus cardioembólico
+-	
+Informe d'alta d'hospitalització
+
+
+
+
+-Protésis mecánica aórtica
+-Portador de DAI por taquicardia ventricular mal tolerada
+-Hipertensión arterial.
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Dieta sin sal
+
+-Sintrom según pauta TAO
+-Adiro 100mg 1 comprimido al día 0-1-0
+-Ivabradina 5mg 1 comprimido cada 12 horas 1-0-1
+-Losartan 25mg 1 comprimido al día 1-0-0
+-Paracetamol 1 comprimido cada 8 horas si precisa 1-1-1
+-atorvastatina 80mg/ 1 comprimido al día 0-0-1
+
+
+
+CONTROL
+Se adjunta hoja de citaciones
+-Control el día 10/01 a las 10:20 en CEX de aritmias
+-Control el día 25/01 a las 11:30 en CEX de cardiología _NAME_
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+24.12.2017
+Pàgina 1 de 5

@@ -1,0 +1,68 @@
+T0	_SUG_Lateralizacion 239 240	I
+T1	FECHA 300 310	02/10/2017
+#1	AnnotatorNotes T1	2017-10-02
+T2	FECHA 368 378	02/10/2017
+#2	AnnotatorNotes T2	2017-10-02
+T3	SECCION_ANTECEDENTES_PERSONALES 428 449	ANTECEDENTS PERSONALS
+T4	SECCION_PROCESO_ACTUAL 573 588	MALALTIA ACTUAL
+T5	FECHA 620 625	01/10
+#5	AnnotatorNotes T5	2017-10-01
+T6	SECCION_EXPLORACION_FISICA 1069 1086	EXPLORACIÓ FÍSICA
+T7	_SUG_NIHSS 1417 1427	NIHSS de 4
+T8	SECCION_EXPLORACIONES_COMPLEMENTARIAS 1946 1974	EXPLORACIONS COMPLEMENTÀRIES
+T9	_SUG_TAC_craneal 2656 2664	TC crani
+T10	_SUG_ASPECTS 2700 2707	aspecto
+T11	_SUG_Localizacion 2751 2757	tronco
+T12	_SUG_Localizacion 2771 2779	cerebelo
+T13	_SUG_Localizacion 2828 2839	ventricular
+T14	_SUG_Localizacion 3009 3019	Ventrículo
+T15	_SUG_Lateralizacion 3020 3029	izquierdo
+T16	_SUG_Lateralizacion 3160 3169	izquierda
+T17	_SUG_Lateralizacion 3248 3256	derechas
+T18	_SUG_Localizacion 3794 3805	ventricular
+T19	_SUG_Lateralizacion 3913 3918	dreta
+T20	_SUG_Localizacion 3951 3960	posterior
+T21	_SUG_Arteria_afectada 4072 4099	l'artèria coroidea anterior
+T22	_SUG_Localizacion 4314 4319	tronc
+T23	_SUG_Localizacion 4390 4396	troncs
+T24	_SUG_Arteria_afectada 4577 4586	caròtides
+T25	_SUG_Arteria_afectada 4604 4613	caròtides
+T26	_SUG_Arteria_afectada 4624 4649	artèries cerebrals mitges
+T27	_SUG_Localizacion 4672 4677	tronc
+T28	_SUG_Localizacion 4707 4717	posteriors
+T29	_SUG_Localizacion 4740 4750	posteriors
+T30	_SUG_Localizacion 4779 4784	Tronc
+T31	_SUG_Localizacion 4958 4964	troncs
+T32	_SUG_Lateralizacion 5090 5094	dret
+T33	_SUG_Lateralizacion 5118 5126	esquerre
+T34	_SUG_Lateralizacion 5143 5147	DRET
+T35	_SUG_Arteria_afectada 5149 5170	Artèria caròtida comú
+T36	_SUG_Localizacion 5285 5294	posterior
+T37	_SUG_Arteria_afectada 5308 5332	Artèria caròtida interna
+T38	_SUG_Lateralizacion 5633 5641	ESQUERRE
+T39	_SUG_Arteria_afectada 5643 5664	Artèria caròtida comú
+T40	_SUG_Localizacion 5777 5786	posterior
+T41	_SUG_Arteria_afectada 5800 5824	Artèria caròtida interna
+T42	SECCION_EVOLUCION 6111 6119	EVOLUCIÓ
+T43	_SUG_Lateralizacion 6208 6216	esquerra
+T44	_SUG_Lateralizacion 6264 6272	esquerra
+T45	_SUG_Arteria_afectada 6337 6353	arteria coroidea
+T46	_SUG_Lateralizacion 6354 6362	esquerre
+T47	_SUG_Etiologia 6439 6447	embòlica
+T48	_SUG_Etiologia 6476 6483	lacunar
+T49	_SUG_Localizacion 6476 6483	lacunar
+T50	_SUG_Lateralizacion 6626 6634	esquerre
+T51	_SUG_Lateralizacion 6667 6675	esquerre
+T52	_SUG_mRankin 6876 6885	mRankin 2
+T53	SECCION_DIAGNOSTICOS 6888 6901	JUDICI CLÍNIC
+T54	_SUG_Ictus_isquemico 6905 6910	Ictus
+T55	_SUG_Lateralizacion 6927 6932	dreta
+T56	_SUG_Etiologia 6946 6953	lacunar
+T57	_SUG_Localizacion 6946 6953	lacunar
+T58	_SUG_Localizacion 6955 6959	LACI
+T59	SECCION_TRATAMIENTO_AL_ALTA 6976 6986	TRACTAMENT
+T60	_SUG_Tratamiento_antiagregante 6999 7004	Adiro
+T61	FECHA 7378 7388	09/10/2017
+#61	AnnotatorNotes T61	2017-10-09
+T62	HORA 7389 7394	15:17
+#62	AnnotatorNotes T62	15:17

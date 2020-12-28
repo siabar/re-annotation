@@ -1,0 +1,84 @@
+Pàgina 1/2INFORME D'ASSISTÈNCIA/ALTA
+
+
+Núm. HC	CIP o pòlissa	Data ingrés	Data alta
+_ID_	_ID_	12/01/2017 15:30	18/01/2017
+Nom i cognoms	Edat	Sexe
+_NAME_	83	Home
+Adreça	Telèfon
+_LOCATION_	_CONTACT_
+Metge/essa responsable	Servei	Habitació
+_NAME_	Medicina Interna	_ID_
+Destinació a l'alta
+Domicili
+
+
+
+
+Pacient de 83 anys, sense al-lèrgies medicamentoses conegudes, no fumador i hàbit enòlic no valorable. Marxa habitual amb suport de bastó.
+
+ANTECEDENTS PATOLÒGICS
+HTA. Evidència d´hipertròfia concèntrica de predomini septal subaòrtic sense segmentarismes i aurícula esquerra dilatada. (Ecocardiograma de gener de 2016). Classe funcional II en forma de de dispnea d´esforç
+No DM ni dislipèmia. Hiperuricèmia amb crisis gotoses.
+Arran d´alteració de la marxa detectada l´any 2015 ha estat estudiat per Neurologia amb RM que informava d´ictus frontal esquerre amb eco-TSA sense troballes a destacar.
+Insuficiència mitral severa detectada arran d´estudi vascular així com fibril·lació auricular, anticoagulada amb sintrom des de febrer de 2016. Per altra banda ha estat valorat a Cirurgia Cardiaca d´HUB per recanvi valvular. Cateterisme de maig de 2016 lesions no significatives.
+Colecistectomia i piloroplàstia i vagotomia aproximadament als 45 anys.
+Intervingut de HBP amb posterior detecció de neoplàsia de pròstata requerint radioteràpia. Havia seguit controls per uròleg de la mútua.
+
+Tractament actual: vesicare 10 mg al dia, sintrom, noctamid 2 mg/nit, paracetamol cada 12 h, parapres plus 16/12.5 1 comp al dia, zyloric 100 mg al dia.
+
+MALALTIA ACTUAL
+Quadre evidenciat al llevar-se al matí de pèrdua de força a hemicós dret de predomi al braç sense alteració del llenguatge.
+
+EXPLORACIÓ FÍSICA
+UCIES. TA 138/90, FC 72, afebril, sat del 97%. Tons cardíacs arítmics. Consta pèrdua de força a mà dreta.   Sala. TA 110/77, FC 87, sat del 99%, afebril. Molt bon estat general. Conscient, orientat, col·laborador. AC. Tons cardíacs arítmics a 80 bpm, amb buf sistòlic 2/6 a focus mitral. AR. MVC. Abdomen: Tou i depresible, no dolorós a la palpació. Ext inf: No edemes. Exploració neurològica. No focalitat a nivell de parells cranials. Hemiparèsia B-C dreta 4/5 de predomini proximal. RCP ambdós de tipus flexor. Certa apràxia. No alteració del llenguatge.
+
+EXPLORACIONS COMPLEMENTÀRIES
+Analítica d´urgències: Hemograma dins de la normalitat. INR 2.18. Rx de tòrax: (AP). Cardiomegàlia. No infiltrats.
+ECG: Fibril·lació auricular a 78 bpm. No alteracions de la repolarització. TAC de crani: Absència de lesions agudes.
+
+Analítica d´ingrés: VSG 15, Hb 14.7 VCM 98, leucòcits 4290 (65%N), plaquetes 202000, INR 2.34, glucosa 90,
+TG 84, col 140, àcid úric 8.1, cr 1.1, urea 44, Na 141,k 4.1, ca 8.9, biologia hepàtica dins de la normalitat, proteïnes totals 6.8, alb 3.3, LDH 171, proteïnograma: hipergammaglobulinèmia policlonal.
+RM cranial: Lesió isquèmica aguda a nivell de la substància blanca periventricular frontal esq. Múltiples lesions de naturalesa crònica bihemisfèriques. Atròfia cerebral global.
+AngioRM intra i extracranial. Manca d´evidència d´estenosi significatives.
+
+EVOLUCIÓ
+En definitiva pacient que presenta clínica aguda d´hemiparèsia dreta, amb milloria clínica durant l´ingrés i després de la realització de les exploracions esmentades s´ha detectat AVC lacunar frontal esquerre. Es decideix conjuntament amb Neurologia mantenir tractament anticoagulant. Ha estat valorat per rehabilitació considerant-se tributari de seguir programa de rehabilitació domiciliària.
+Com a altres incidències ha presentat artritis gotosa al peu esq amb discreta milloria sota tractament amb colchicina i a l´alta s´inicia pauta curta de corticoides.
+Per tendència a hipotensió s´opta per retirada de parapres/hidrosaluretil de forma temporal.
+
+DIAGNÒSTICS
+1.- AVC LACUNAR FRONTAL ESQ.
+2.- ACXFA CRÒNICA.
+3.- INSUFICIÈNCIA MITRAL SEVERA.
+4.- ARTRITIS GOTOSA PEU ESQ.
+5.- HTA.
+
+TRACTAMENT
+MANTENIR TRACTAMENT DE BASE A EXCEPCIÓ DE:
+SUSPENDRE PARAPRES. A REVALORAR LA SEVA REINTRODUCCIÓ PER PART DE METGE DE FAMILIA EN FUNCIÓ D´EVOLUCIÓ DE LA TENSIÓ ARTERIAL.
+S´ADJUNTA NOVA PAUTA DE SINTROM.
+PREDNISONA 10 mg: 1 comprimit al matí únicament durant 3 dies.
+
+ES  PROGRAMA  VISITA  DE  CONTROL  A  CCEE  DE  REHABILITACIÓ  I  DE  NEUROLOGIA  I  ES  TRAMITA FISIOTERÀPIA DOMICILIÀRIA.
+
+
+
+
+Atentament,
+
+
+
+
+
+
+
+
+
+
+
+
+Metge/essa: _NAME_ Núm. col·legiat/da: _ID_
+Signatura
+
+D'acord amb la Llei Orgànica de Protecció de Dades, les vostres dades personals seran incorporades a un fitxer informatitzat, el titular del qual és el _SS_ i que té com a finalitat exclusiva disposar de les dades personals dels pacients per a usos medicosanitaris. El ciutadà té dret a exercitar l'accés, la rectificació, l'oposició i la cancel·lació d'aquestes dades personals.

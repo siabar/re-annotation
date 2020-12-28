@@ -1,0 +1,118 @@
+_LOCATION_ Tel. _CONTACT_
+e-mail: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 76 Anys
+NIF/DNI: _ID__NAME_; _NAME_.
+Informe d'epicrisi
+09:00:00
+15.11.2017
+_LOCATION_
+_SS_ NEUROLOGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_
+DOMICIL/RES.SOC 12.11.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Hematoma parietoocipital derecho
+
+ANTECEDENTS
+ANTECEDENTES PERSONALES:
+Paciente de 76 años, sin alérgias medicamentosas conocidas, no refeier hábitos tóxicos. Independiente para las actividades de la vida diaria, mRS 0
+
+ANTECEDENTES PATOLÓGICOS:
+-	Hipertensión arterial en tratamiento médico
+-	Diabetes Mellitus tipo II en tratamiento médico
+-	Dislipemia en traamiento médico
+-	Hiperuricemia
+-	SAHS
+-	Portador de protesis de cadera bilateral y de rodilla derecha
+
+
+MEDICACIÓ HABITUAL
+Alopurinol 100 mg cada 24 horas, Amlodipino 5 mg cada 24 horas, Elidel crema, Lumigan ccolirio, Metformina 850 mg cada 8 horas, Simvastatina 20 mg cada 24 horas
+
+PROCÉS ACTUAL
+Vista asintomática el 11/11/2017 a las 23:00 por ultima vez al acostarse, el paciente se despierta a las 3:15 con debilidad de extremidades izquierdas por lo que se avisa al SEM, activandose código ictus a las 4h30. Llegada a nuestro centro a las 5h15.
+
+EXPLORACIÓ FÍSICA
+
+FC	73 bpm Tªaxi  ºC
+FR	rpm Tªrec  ºC
+TA s	104 mmHg SAT O2  %
+TA d   62 mmHg Pes Kg
+
+Glicémia capilar: 161 mg/dL
+
+Urgencias:
+Consciente y orientado en los tres ejes. Obedece órdenes simples. Disartria leve, no elementos afásicos. Desviación oculocefálica a la derecha que no pasa linia media, hemianopsia homónima izquierda. Paresia facial supranuclear izquierda. Plejia braquiocrural izquierda con anestesia homolateral. Anosognosia y asomatognosia.
+NIHSS: (0.0.0)2.2/2.(0.4)(0.4)/0.2.0.1 .2 = 19
+
+Unidad de ictus:
+Tendencia a la somnolencia, apertura ocular al estímulo verbal, desorientada en espacio y tiempo. Lenguaje sin
+
+Informe d'epicrisi
+
+
+
+
+elementos afásicos. Disartria moderada. Pupilas isocóricas normoreactivas. Preferencia oculocefálica a la derecha que cruza linea media. Hemianopsia homónima izquierda. Paresia facial izquierda con componente superior. Plegia de extremidades izquierdas, fuerza no valorable en extremidades derechas por falta de colaboración. Hemihipoestesia grave izquierda. Asomato y anosognosia.
+NIHSS: 1.2.0.1.2/3.0.4.2.4/0.2.0.2.2 = 25.
+AC: ruídos cardíacos regaulres, sin soplos. No IY/RHY ni edemas. AR: MVC, sin ruídos añadidos. Eupneica. Abdomen blando no doloroso.
+
+EXPLORACIÓ COMPLEMENTÀRIA
+URGENCIAS:
+
+ECG: RS a 80 lpm, PR constante. QRS estrecho sin alteraciones de la despolarización
+
+Analítica urgente: Hematologia (12/11/17): Leucocitos 8500 /µL, (N 61,4 % / L 27,8 / M 7,6 / E 2,5 / B 0,7), Htíes 4,26 mill/µL, Hb 13,1 g/dL, Hcto 38,8 %, VCM 91,1 fL, Plaquetes 300000 /µL, TP 100 %, INR 0,9 sg, TP ratio 0,9,
+TTPA 35,1 sg, TTPA ratio 1,13, Fibrinógeno 497 mg/dL.
+Bioquimica (12/11/17): Glucosa 183 mg/dL, Urea 34,9, Creatinina 0,79, Na 137,5 mmol/L, K 4, Prot-C reactiva 3,4 mg/L.
+
+TC craneal y AngioTC craneal: Hematoma lobar parietoocciptal derecho con edema vasogénico. angioTC sin lesiones vasculares subyacentes ni dot sign
+
+UNIDAD DE ICTUS:
+
+Analítica: Bioquimica (12/11/17):  Glucosa 197 mg/dL, HbA1c 6,1 %, Urea 31 mg/dL, Creatinina 0,83, Filtrado glomerular estimado 85 mL/min/1.73 m2, Uratos 5,1 mg/dL, Fosfato 3,1, Na 139,2 mmol/L, K 3,9, Cl 102,6, ALT 11
+U/L, GGT 17, FA 108, Prot-C reactiva 3,4 mg/L, Proteína 66,2 g/L, Albúmina 41,1.
+Proteinograma amb banda de mobilitat restirngida però sense component monoclonal. Marcadors tumorals (CEA, PSA, Ca 19.9) sense alteracions.
+Lípidos.- Triglicéridos76 mg/dL, Colesterol 157, (HDL 64,5 / LDL 77). Hormonas (12/11/17): TSH 1,97 µUI/mL.
+
+TC craneal control (12/11/2017): mayor ocupación del sistema ventricular y mayor componente de hemorragia subaracnoidea sin claros signos de hidrocefalia ni desplazamiento de linea media.
+
+TC craneal control (14/11/2017): mayor ocupación del sistema ventricular y mayor edema vasogénico con leve desplazamiento de la línea media.
+
+EVOLUCIÓ CLÍNICA
+A su llegada a Urgencias, hemodinamicamente estable, eupneica y afebril, con sensación nauseosa. A la exploración física presenta clínica hemisférica derecha completa (desviación oculocefálica a la derecha, hemianopsia homónima izquierda, paresia facial, disartria, plegia y anestesia braquiocrural izquierda y asomato/anosognosia), puntuando un NIHSS de 19. ECG en ritmo sinusal. Analítica sin alteraciones. Se realiza TC craneal que muestra hematoma lobar parietooccipital derecho con edema importante, sin lesión vascular subyacente en AngioTC. Se orienta como hematoma parietoccipital derecho de etiología probable hipertensiva. Ingresa en Unidad de ictus para control clínico y tensional.
+
+Informe d'epicrisi
+
+
+
+
+
+Durante su ingreso en la unidad de ictus presenta mal control tensional por lo que requiere de perfusión continua de urapidilo, se mantiene afebril y eupneica.
+
+Ante disminución del nivel de consciencia se realiza TC control el 12/11 que muestra mayor ocupación del sistema ventricular y mayor componente de hemorragia subaracnoidea sin claros signos de hidrocefalia ni desplazamiento de linea media. Se realiza un tercer TC craneal el 14/11 por disminución del nivel de consciencia con empeoramiento de 6 puntos en la NIHSS, que muestra mayor ocupación del sistema ventricular y mayor edema vasogénico con leve desplazamiento de la línea media. Tras comentar la situación clínica de pronóstico grave a la familia, se decide iniciar tratamiento antiedema con manito el dia al a s017. Aún así, el paciente empeora progresivamente hasta ser éxitus el dia 14/11/2017 a las 22:30h por edema cerebral e hipertensión intracranial secundarias al hematoma cerebral.
+
+
+DIAGNÒSTICS
+Hemorragia parietooccipital derecha
+
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+21.11.2017
+Pàgina 1 de 3

@@ -1,0 +1,155 @@
+IC CARDIOVASCULAR CIRURGIA	CARDIOVASCULAR
+_NAME_	NHC: _ID_
+
+
+Sexo/Sexe: Masc.	Fecha nac./Data naix.: _DATE_	Edad/Edat: 64 años Dirección/Adreça: _LOCATION_	CP: _LOCATION_
+Municip. (Prov.): _LOCATION_  ABS:_SS_	Tel.:_CONTACT_
+As.: SERVEI CATALA DE LA SALUT	CIP: _ID_	NASS: _ID_
+Nº epis.: _ID_	Tipo/Tipus: HOSPIT.	Inici.: 11.06.2017 Serv: CIRURGIA	CARDIOVASCULAR	UO Enf.: G033 SALA G CIR. CARDIOVAS  Hora: 02:56:28 Facult. de ref.: _NAME_
+
+
+
+
+Tipo ingreso/Tipus ingrés: Urgent	Motivo/Motiu alta: Hosp. domiciliaria
+Diag.:
+ICTUS ISQUÉMICO VÉRTEBRO-BASILAR Y ACMD (434.91) OCLUSIÓN ACPI P1 y ACPD P2 ()
+DERRAME PERICÁRDICO SEVERO () TAPONAMIENTO CARDÍACO ()
+TRIPLE BYPASS CORON + ANULOPLASTIA MITRAL RECIENTE ()
+Proc.:
+ANALÍTICA SANGUÍNEA ()
+RX TÓRAX. ECG. MONITORIZACIÓN. ()
+TC MULTIMODAL. TC DUAL DE CONTROL. () ECOCARDIOGRAMA TRANSESOFÁGICO () ECOCARDIOGRAMA TRANSTORÁCICO () TROMBECTOMÍA MECÁNICA ()
+
+
+
+
+INFORME CLÍNICO ALTA / INFORME CLÍNIC ALTA
+
+Motivo de consulta / Motiu de consulta
+Alteración del lenguaje y disminución del nivel de conciencia.
+
+Antecedentes e historia previa / Antecedents i història prèvia
+Antecedentes personales:
+Varón de 64 años sin alergias medicamentosas conocidas.
+
+*ANTECEDENTES PATOLÓGICOS:
+1.	HIPERTENSIÓN ARTERIAL.
+2.	DISLIPEMIA.
+3.	ENFERMEDAD CORONARIA GRAVE de tronco común y de 3 vasos (DA y C x proximal y distal) revascularizada el 30/05/17 por triple derivación c oronaria a descendente anterior media con arteria mamaria izquierda, a p rimera marginal y a ramas posterolaterales, ambas con vena safena.
+4.	RE PARACIÓN DE ANILLO MITRAL Y COMISUROPLASTIA POSTERIOR Y ANULOPLASTIA CON BANDA DE COSGROVE (28 mm), realizado en la misma cirugía que (3).
+
+*MEDICACIÓN HABITUAL: AAS 100 mg/día, pantoprazol 40 mg/día, carvedilol 6,25 mg/día, metamizol 575 mg sp, paracetamol 1 g sp, atorvastatina 20
+mg/día .
+
+Proceso actual / Procés actual
+El paciente presentó de forma súbita a las 23:00 h del día 10/06/17 una alteración del lenguaje en forma de afasia mixta, y disminución del nivel de conciencia. Se avisó al SEM y se activó el código ictus extrahospitalario.
+
+Exploración física / Exploració física
+11/06/2017-04:00:00: FiO2 (%) 24, Frecuencia respiratoria (rpm) 14, Glic emia capilar (mg/dl) 103, PAS (mm Hg) 135, PAD (mm Hg) 91, Pulsioximetrí a (%) 100, Tª axilar (ºC) 35.4.
+*	A su llegada:
+PA 137/79 mmHg, FC 83 lpm, T axilar 36,3ºC, Sat O2 98% basal.
+NRL: mutista, no obedece órdenes simples, no nomina ni repite. Orientación no valorable. Apertura ocular ante estímulos verbales vigorosos. PINR, mirada centrada con tendencia a la desviación hacia la izquierda, reflejo de amenaza abolido bilateralmente. Hemiparesia facio (moderada) - braquio (2/5) - crural (1/5) con hemihipoestesia ipsilateral. Dismetrías no valorables. Babinski derecho. NIHSS 23.
+
+*	Al ingreso en Unidad de Ictus:
+NRL: consciente, desorientado en espacio, parcialmente colaborador.  Lenguaje hipofluente con rasgos afásicos: disnomia (4/6), obedece órdenes simples y complejas, repite bien lo que le dicta su familiar. Barrera idiomática (la familia hace de intérprete). PINR, mirada centrada sin limitaciones aparentes a la excursión visual, campimetría por amenaza sin déficits. Pares craneales conservados. Balance muscular conservado. No déficit sensitivo ni dismetrías. NIHSS 2.
+ACCR: tonos cardíacos rítmicos, no ausculto soplos. AR: MVC sin ruidos agregados.
+Abdomen: blando, depresible, no doloroso a la palpación. No palpo masas ni visceromegalias.
+
+Laboratorio / Laboratori
+INR : 2.10 Recompte de leucòcits : 5.60 10^9/L Recompte plaquetes : 376 10^9/L Concentració d´hemoglobina : 93 g/L Hematòcrit : 0.280 L/L Glucosa : 99 mg/dL Creatinina : 0.77 mg/dL Sodi : 143 mEq/L Potasi : 3.8 mEq/L Filtrat glomerular calculat [C : >90 ml/min/1,73m2
+
+Exploraciones complementarias / Exploracions complementàries
+15/06/2017.
+
+*ANALÍTICA SANGUÍNEA: PCR 5.01 mg/dL. Glucosa 118 mg/dL. Creatinain 0.78 mg/dL; filtrado >90 mL/min. Úrico 6.4 mg/dL. Clesteriol total 146 mg/dL; TG 110 mg/dL; LDL 99 mg/dL; HDL 25 mg/dL. Anemia (Hb 2.77
+10^12/L; Hcto 26%) normocítica normocrómica. VSG 140 mm/h. HbA1c 5.4%. INR 1.39. TSG 0.364 mUI/L; FT4
+1.16 ng/dL.
+
+*RX DE TÓRAX: aumento de la silueta cardiopericárdica sugestivo de derrame pericárdico considerable, sin signos de fallo cardíaco izquierdo.
+
+*TC MULTIMODAL: - TC CRANEAL BASAL: no se observa hemorragia intra ni extraaxial. Parénquima cerebral sin alteraciones densitométricas. Diferenciación cortico-subcortical conservada. ASPECTS 10 No se observan lesiones isquémicas parenquimatosas subagudas ni otras lesiones isquemicas crónicas. Estructuras de la línea media centradas. Sistema ventricular de tamaño y morfología normal. Cisternas basales libres. TC PERFUSIÓN: Retraso del TTP en territorio posterior bilateral con afectación de los tálamos y hemimesencéfalo izquierdo con mínima alteración de los mapas CBV/CBF condicionando discordancia significativa (>200%)  entre mapas.  - ANGIO-TC  EXTRA E  INTRACRANEAL: Ausencia de  opacicifación  del
+
+
+
+segmento P1 bilateral de los arterias cerebrales posteriores con repermeabilización distal y siendo la arteria basilar permeable. Arterias vertebrales con irregularidad en su segmento intracraneal y una imagen cálcica en AV derecha.Origen de las arterias vertebrales sin ateromatosis ni signos de estenosis. Cambios posquirúrgicos cardíacos y en mediastino anterior. Leve derrame pleural izquierdo. Ateromatosis calcificada del bulbo carotídeo bilateral de predominio izquierdo que condiciona estenosis de aprox 30-40% en este lado. Segmentos intracavernoso y supraclinoideo de la arteria carótida interna con ateromatosis calcificada. Resto de las principales arterias cerebrales intracraneales permeables (ACAs, ACMs y ACPs). Hipoplasia del segmento A1 izquierdo con irrigación de la ACA izq. del lado A1 derecho.
+
+*TC DUAL DE CONTROL: no se observa hiperdensidades sugestivas de hemorragia intra craneal Parénquima cerebral sin alteraciones densitométricas significativas valorables, sin identificicar lesiones isquémicas parenquimatosas establecidas. Estructuras de la línea media centradas. Sistema ventricular de tamaño y morfología normal. Cisternas basales libres. Estudio sin cambios significativos respecto TC previo realizado hace 8 horas.
+
+*TROMBECTOMÍA MECÁNICA: procedimiento: Sse realiza punción femoral derecha a las 1 horas y 48 minutos del dia Primera serie angiográfica a las 1:51 horas confirmándose la presencia de una oclusión (TICI grado 0) de CEREBRAL POSTERIOR IZQUIERDA Y SUBOCLUSION DE CEREBRAL POSTERIOR DERECHA EN EL TOP DE LA
+BASILAR . Se procede al microcateterismo selectivo de laS arteria ocluidaS, logrando realizándose 2 pases con dspositivo trevo 4 x 20 (?stent retriever?), evidenciándose en la serie de comprobación final a las 2:21 horas recanalización TICI 3 . No se detectan incidencias durante ni inmediatamente tras el procedimiento. Se realiza cierre del punto de punción femoral derecho mediante sistema de cierre percutáneo y vendaje compresivo, debiendo el paciente mantener inmóvil el miembro inferior derecho por 4 horas siguientes al procedimiento.
+
+*ECG: ritmo sinusal con bajo voltaje, sin alteraciones en la repolarización.
+
+*ECOCARDIOGRAMA TRANSESOFÁGICO: ventrículo izquierdo de tamaño normal con hipertrofia concéntrica moderada a severa. Motilidad global conservada a pesar de movimiento anómalo del septum (post cirugía). FEVI estimada 57%. Ventrículo derecho de tamaño normal y nomocontráctil. Aurícula izquierda dilatada en rango ligero ( Vol AI: 35 ml/m2). Se explora orejuela izquierda: Doppler color hasta vértice con velocidad de lavado de hasta 57 cm/seg. No se observan trombos en su interior. Válvula aórtica trivalva de aspecto degenerativo, normofuncionante. Se observa pequeña imagen nodular móvil en la superficie ventricular del velo no coronárico, ya presente en el ETE realizado durante la cirugía. Plastía mitral con anillo Cosgrove nº 28 efectiva sin insuficiencia residual. Insuficiencia tricuspídea mínima que no permite estimar PAP Vena cava inferior no dilatada con colapso inspiratorio mayor al 50%. Derrame pericárdico moderado a severo, sin signos de compromiso hemodinámico o fenómenos compresivos sobre cavidades cardíacas. Vena cava inferior no dilatada. Se explora aorta descendente hasta 30 cm de arcada dentaria. A nivel de segmento más proximal de aorta descendente se observa imagen de placa ateroesclerótica de tamaño significativo (7-8 mm), complicada con imagen de ulceración, y con filamentos móviles en su superficie. - Conclusiones: Imagen nodular móvil en velo no coronariano, ya presente en ETE durante la cirugía. Aorta descendente con marcada ateromatosis y placa complicada ulcerada. Derrame pericárdico moderado a severo, sin signos de compromiso hemodinámico.
+
+*ECOCARDIOGRAMA TRANSTORÁCICO: derrame pericárdico muy severo que predomina en el saco anterior con gran compresión de cavidades derechas y oscilaciones respiratorias de la velocidad del flujo transmitral
+>25%. Signos de compromismo hemodinámico que corresponden a taponamiento pericárdico. Amplitud en el saco posterior: 19 mm. En el saco anterior por vía subcostal nivel medioventricular: 46 mm.
+
+11/06/2017.
+
+
+
+Intervenciones quirúrgicas / Intervencions quirúrgiques
+20/06/2017 : REVISIÓN MEDIASTÍNICA POR TAPONAMIENTO CARDIACO.
+
+Evolución / Evolució
+1.	ICTUS ISQUÉMICO EN TERRITORIO VÉRTEBRO-BASILAR. OCLUSIÓN DE LA ARTERIA CEREBRAL POSTERIOR IZQUIERDA (ACPI) Y SUBOCLUSIÓN DE LA ARTERIA CEREBRAL POSTERIOR DERECHA (ACPD) EN EL TOP DE LA BASILAR.
+2.	TRIPLE DERIVACIÓN AORTO-CORONARIA RECIENTE (30/05/17) EN PACIENTE CON ENFERMEDAD CORONARIA GRAVE DE TRONCO COMÚN Y 3 VASOS.
+
+A su llegada a Urgencias, paciente mutista, afásico, con apertura ocular a estímulos verbales vigorosos, desviación de lamirada a la izquierda, reflejo de amenaza abolido bilateralmente y hemiparesia facio (mod)
+- braquio (2/5) - crural (1/5) con hemihipoestesia ipsilateral. NIHSS 23.
+Analítica sanguínea con anemia normocítica (Hb 93 g/l, Hto 29%), monitorización ECG en ritmo sinusal. Se realiza TC craneal multimodal, en cuyas secuencias basales no se objetivan lesiones isquémicas ni hemorragicas agudas (ASPECTS 10); la TC perfusión muestra un retraso del TTP en territorio de la arteria cerebral posterior bilateral con afectación de ambos tálamos y hemimesencéfalo izquierdo con mínima alteración de los mapas de CBV y CBF con penumbra isquémica significativa. La angio-TC muestra una oclusión de ambos segmentos proximales de las arterias cerebrales posteriores y ateromatosis calcificada en AVD.
+Se orienta como un  ictus  isquémico en  territorio vértebro-basilar de etiología  indeterminada (probablemente cardioembólica, dado el antecedente reciente). El tratamiento fibrinolítico con rTPA está contraindicado. Se contacta con Neuroangiorradiología para trombectomía mecánica, que se realiza bajo anestesia general tras consenso. Punción femoral a la 01:48 h. Se constata la oclusión de la ACPI y la suboclusión de la ACPD en el top de la basilar. Se realiza microcateterismo de las arterias ocluidas, llevándose a cabo dos pases con dispositivo Trevo y evidenciándose una recanalización TICI 3 en la serie de comprobación final (02:21 h). Tras el procedimiento se extuba sin incidencias y se traslada a la Unidad de Ictus.
+Presenta mejoría clínica persistiendo una disnomia modearda y desorientación espacial (NIHSS 2). Se solicita TC craneal de energía dual de control para las 08:00 h del 11/06/17.
+1.	ICTUS ISQUÉMICO EN TERRITORIO VÉRTEBRO-BASILAR (VB) Y ARTERIA CEREBRAL MEDIA DERECHA (ACMD). OCLUSIÓN DE LA ARTERIA CEREBRAL POSTERIOR IZQUIERDA (ACPI) Y SUBOCLUSIÓN DE LA ARTERIA CEREBRAL POSTERIOR DERECHA (ACPD) EN EL TOP DE LA BASILAR.
+
+A su llegada a urgencias normotenso y afebril. En la exploración física mutista, con apertura ocular a estímulos verbales vigorosos, desviación de lamirada a la izquierda, reflejo de amenaza abolido bilateralmente y hemiparesia facio (mod) - braquio (2/5) - crural (1/5) con hemihipoestesia ipsilateral. NIHSS 23. Analítica sanguínea con anemia normocítica (Hb 93 g/L, Hto 29%) ya conocida. ECG en ritmo sinusal. La neuroimagen (TC y RM cerebral) muestra ictus isquémicos agudos en ambos hemisferios cerebelosos, tálamo izquierdo y territorio de ambas arterias cerebrales posteriores y arteria cerebral media. Estudio vascular (angiografía) confirma la oclusión en ACPI P1 y ACPD P2. La cirugía reciente contraindica fibrinolisis, por lo que se realiza trombectomía mecánica bajo anestesia general con dos pases de Trevo consiguiendo una recanalización final TICI  3 con mejoría sintomática inmediata (NIHSS a expensas de disnomia y desorientación temporal). El estudio ecocardiográfico muestra placa ateromatosa en la raíz aórtica ulcerada y heterogénea muy sugestiva de ser el origen embólico. Monitorización >48h en unidad de ictus sin arritmias.
+Se trata de un ictus en territorio VB y ACMD de etiología cardioembólica en un paciente postoperado reciente tratado mediante trombectomía mecánica con recanalización TICI 3. TC craneal de control sin alteraciones. Ingresa en unidad de ictus y se inicia tratamiento con heparina sódica.
+Durate su estancia en la unidad de ictus el paciente evoluciona de forma favorable desde el punto de vista neurológico, persisitiendo desorientación temporal sin otra focalidad. Teniendo en cuenta la estabilidad
+
+
+
+neurológica y la presencia de importantes comorbilidades se decide traslado a la 10.3. Al traslado: NIHSS: 1;	TOAST: cardioembólico;	mRS: 2.
+
+2.	TRIPLE DERIVACIÓN AORTO-CORONARIA RECIENTE (30/05/17) EN PACIENTE CON ENFERMEDAD CORONARIA GRAVE DE TRONCO COMÚN Y 3 VASOS. ANULOPLASTIA MITRAL.
+3.	DERRAME PERICÁRDICO GRAVE: TAPONAMIENTO CARDÍACO.
+En el ecocardiograma transesofágico realizado para completar estudio se observa derrame pericárdico moderado/grave,  estando  hemodinámicamente  estable  y  con  frecuencia  cardíaca  en  torno  a  90  lpm. Analítica sanguínea con anemia ya conocida. Se contacta con cirugía cardiovascular y, de acuerdo con ellos, se mantiene tratamiento anticoagulante con heparina pautando transfusión de 2 concentrados de hematíes. En el ecocardiograma de control se observa aumento del derrame hasta hacerse muy severo con datos de taponamiento cardíaco. En la exploración física el paciente no presenta semiología de fallo cardíaco grave, solamente  IVY  +  con  RHY  ++  y  discreta  congestión  hepática  y  progresivo  dolor  centrotorácico  de características pericardíticas. Dada la situación actual se contacta con cirugía cardiovascular para traslado. Paciente  reintervenido  por  derrame  pericárdioc  severo.  Postoperado  hace  2  semanas  de  PACx3  + valvuloplastia mitral, reingresa por ACV resulelto mediante trombectomía mecánica y en el estudio de la misma se detecta derram epericárdico severo. Ecografía previa a l alta sin signos de dehiscencia.
+Cirugía de revisión mediastínica sin incidencias. Tras la cirugía, el paciente es trasladado a la UCI donde progresa correctamente permitiéndose despertar precoz, extubación y retirada progresiva de drogas vasoactivos. Correcta tolerancia hemodinámica tras la cirugía sin necesidad de drogas. reiniciamos sedestcaión e ingesta oral. Debito de renajes decreciente lo que permite su retirada sin mayores incidencias y con correcto control postoperatorio. Durante todo el postoperatorio el paciente esta neurológicamente bien, sin nuevo signos de focalidad. ( Dificil valoración de áreas del lenguaje por abrrera idiomática), aunque responde a órdenes simples.
+Afebril en todo momento. Reiniciamos pauta anticoagulante indicada por FA en paciente con antecedente de ictus cardioembólico.
+Se  realiza  ecocardiografía  de  control  postoperatorio  con  el  siguiente  resultado:	-  Sin  derrame pericárdico.	- válvulas normofuncionantes sin cambios repsescto a estudio previo.
+Se realiza RMN cerebral de control post-evento isquemico cerebral con el siguiente informe:
+Estudio artefactado por los movimientos del paciente. Multiples lesiones isquemicas de caracteristicas agudas cortical temporo-insular derecha, en el esplenio del cuerpo calloso, cortical occipital bilateral de predominio izquierdo y en ambas circunvoluciones parahipocampales, sin signos de transformacion hemorrágica ni otras alteraciones asociadas. Microsangrado cortico-subcortical frontal izquierdo sin otras alteraciones asociadas. Multiples focos de hiperseñal en sustancia blanca supratentorial de predominio subcortical, probablemente secundarias a angiopatia microvascular. Resto de las estructuras parenquimatosas supra e infratentoriales sin otras alteraciones significativas. Cisternas de la base libres. Estructuras de linea media centradas. Estudio de AngioRM arterial intracraneal artefactado por el movimiento sin oclusion de los principales troncos  arteriales. Resto del estudio sin otras alteraciones significativas.
+Dada la correcta evolución del paciente se decide el alta.
+
+Plan terapéutico / Pla terapèutic
+Pantoprazol pensa 40 mg comprimidos gastrorresistentes efg, 14 comprimid os. 40 MG. Vía oral. Cada 24 horas. Carvedilol kern pharma 6.25 mg comprimidos recubiertos con pelicula efg , 28 comprimidos. 6,25 MG. Vía oral. Cada 24 horas. Metamizol aristo 575 mg capsulas efg , 10 cápsulas. 575 MG. Vía oral. Ca da 8 horas. Atorvastatina ratio 20 mg comprimidos recubiertos con pelicula efg, 28 c omprimidos. 20 MG. Vía oral. Cada 24 horas. Paracetamol kern pharma 500 mg comprimidos efg, 20 comprimidos. 500 MG. Vía oral. Cada 8 horas. Acido acetilsalicilico aristo 100 mg comprimidos gastrorresistentes , 10 0 comprimidos. 100 MG. Vía oral. Cada 24 horas.
+
+Otras recomendaciones / Altres recomanacions
+
+
+
+1.- El paciente deberá visitarse en Consultas Externas de Cirugía Cardiovascular (C/_LOCATION_), según cita adjunta. Y ecocardiografía previa según volante adjunto
+2.- Control de factores de riesgo cardiovascular por su médico de cabecera, al que debe visitar en el plazo de 15-30 días y entregar copia de este informe
+3.- Solicitar visita de control en su cardiólogo de referencia, al que debe entregar copia de este informe 4.- Medidas generales según folleto adjunto
+5.- Ante signos de alarma como fiebre, dolor torácico o dehiscencia de las heridas, reconsultar en el servicio de urgencias.
+
+
+
+Firma/Signatura1: _NAME_	Firma/Signatura2: _NAME_ Categoría: Resident 1	Categoría: Especialista
+Nº Matrícula HCP: _ID_	Nº Matrícula HCP: _ID_
+
+Fecha/Data Informe: 21.06.2017
+Hora Informe: 18:02:14
+
+Docum.: _ID_
+Hist. Clínica: _ID_
+El _SS_ ha incorporado sus datos al Fichero de Pacientes, para tratarlos con fines sanitarios.
+Puede ejercer sus derechos de acceso, rectificación, cancelación y oposición, así como obtener mas información en la Unidad de Atención al Cliente.
+Vers. 00
+Pag. 2 de
+6
+Episod.: _ID_
+_SS_ ha incorporat les seves dades al Fitxer de Pacients, per a tractar-los amb finalitats sanitàries. Pot exercir els seus drets d'accés, rectificació, cancel·lació i oposició, i obtenir més informació a la Unitat d'Atenció al Client.
+_SS_
+_LOCATION_) _LOCATION_) Tel. _CONTACT_ Fax _CONTACT_
+http://_CONTACT_/

@@ -1,0 +1,91 @@
+INFORME EQUIP DE SUPORT HOSPITALARI
+_NAME_
+Núm. Episodi: _ID_ Núm. HC: _ID_
+_SS_ _LOCATION_
+_LOCATION_
+Tel. _CONTACT_Població: _LOCATION_	Sexe: HOME   Data naixement: _DATE_  Edat: 80a
+Telèfon: _CONTACT_  C.P.: _LOCATION_	T.I.S.: _ID_  DNI/NIF: _ID_
+
+Procedència: NEUROLOGIA HOSP
+Servei assistencial: UFISS GERIATRIA I PAL.LIATIVA
+Metge Responsable: _NAME_
+
+
+Data d'entrevista: 21/11/2017    Data d'alta UFISS: 29/11/2017     Destí d'alta: 14- CSS Conva FVP
+
+
+MOTIU DE CONSULTA:
+Home, 80 anys ha ingressat a Neurologia per ICTUS isquèmic de l'ACM esquerra amb hemiparèsia BC D, disfàgia i disàrtria molt severa. Li ha calgut fibrinolisi i rescat endovascular a _SS_. Veure informe de Neurologia.
+Se'ns demana consulta per valorar trasllat a CSS per convalescència a l'alta hospitalària.
+
+SÍNDROMES GERIÀTRIQUES PRÈVIES:	SÍNDROMES AGUDES:
+Dèficit Sensorial Polifarmàcia	Dèficit Funcional
+Q. Confusional Inestabilitat Immobilitat Restrenyiment Polifarmàcia Disfàgia
+
+SÍMPTOMES A L'INGRÉS	SÍMPTOMES A L'ALTA
+Debilitat: 2/4	Debilitat: 2/4
+Constipació: 2/4	Constipació: 1/4
+Disfàgia: 2/4	Disfàgia: 0/4
+Confusió: 3/4	Confusió: 0/4
+Agitació: 2/4	Agitació: 2/4
+Insomni: 2/4	Insomni: 2/4
+Ansietat: 1/4	Ansietat: 1/4
+Tristesa: 1/4	Tristesa: 1/4
+
+Barthel previ: 100 / 100
+Barthel entrevista: 25 / 100
+Barthel alta: 35 / 100
+FAC: 5
+Charlson: 3
+
+
+VALORACIÓ MÈDICA:
+Paciente ingresado por ictus de orígen cardioembólico, que presenta pérdida funcional, y disfagia. Cuadro confusional y constipación.
+
+VALORACIÓ D'INFERMERIA:
+Sr. que prèviament a l'ingrés era autonom per les ABVD.
+Conscient i alerta, ha presentat quadre confusional. Estat físic regular. Visió dificultosa. Porta ulleres. Hipoacúsia. És  dependent per l'alimentació. Disfàgia a líquids. És  dependent per higiene i vestir-se.  És continent. Constipació. Precisa laxants. Només es mobilitza llit-cadira. Pell fràgil.
+SITUACIÓ SOCIAL:
+Sr. casat. Té dues filles, una d' elles viu a l' estranger, _LOCATION_. Van tenir un fill que fa anys va morir. Conviu amb la seva esposa, de qui ell és el cuidador principal. Actualment l' esposa també esta ingressada a _SS_, tot i que ell no esta informat..
+La filla i néts, la néta que està més implicada esta embarassada, donen suport conciliant amb vida familiar i responsabilitats laborals.
+No contactes previs amb SSAP ni beneficiaris de cap recurs social. Habitatge amb barreres arquitectòniques d' accés, uns 15 esglaons.
+La família ha volgut introduir suports, teleassistència i el Sr. no considerava necessari.
+Informats de la temporalitat de l' ingrés, no fan cap demanada concreta, parlem segons evolució caldrà valorar suports a domicili, iniciar LAPAD, en aquest moments la família esta molt preocupada per la situació de l' esposa, de moment no hi previsió d' alta per inestabilitat.
+
+VALORACIÓ FISIOTERÀPIA:
+Prèviament al seu ingrés autònom per totes les ABVD.
+21/11/17: molt agitat i neguitós, molt poc explorable a nivell funcional, a grans trets presenta una hemiparèsia dreta lleu, pendent afinar més bé BM global hemícós dret.
+22/11/17: col.laborador, li cal ajuda de dues persones per totes les transferències. Ara, segons refereix infermeria, és continent urinari i continent fecal. Presenta una lleu hemiparèsia BC D amb BM global de 3-/5 proximal i 3+/5 distal per ESD i per EID de psoas i quàdriceps 4-/5, isquiotibials 4+/5, EPDG, tibial anterior i tríceps sural de 1+/5. Cames discretament edematoses. Sense dismetries. Manté bp. estàtica amb assistència lateral de dos fisioterapeutes.
+24/11/17: bipedestació assistida lateral doble amb bon control en extensió de la cama dreta i amb mínima lateropulsió dreta. Assoleix simulació de passes, persisteix severa disàrtria. Avui molt menys neguitós i més col.laborador amb la rehabilitació. Acompanyat de la filla amb la qual fem recordatori també del plà d'exercicis per tal que li vagi recordant durant el dia.
+27/11/17: milloria progressiva, també del quadre confusional i de l'agitació, molt més alerta i reactiu i col.laboradora amb les sessions de RHB. Li cal mínima ajuda d'una persona per les transferències des de la butaca i ajuda d'una persona pel aixecar-se del llit. Balanç motor global per hemicós dret també millorant; EID: proximal 4+/5 i distal de 4-/5 i per ESD sense canvis: 3-/5 proximal i 3+/5 distal. Milloria també motricitat fina mà dreta, encara persisteix lleu asomatognòsia de la seva mà dreta quan deambula assistit per les paral.leles i no para atenció a la col.locació de la seva mà dreta amb els recolzaments i amb els punts de referència suport. És doble continent, ajuda parcial per les transferències i ajuda parcial pel menjar. Dependent per la higiene personal, la dutxa, vestit i per l'ús del WC.
+
+OBSERVACIONS:
+És traslladat a _SS_ per Convalescència per reprendre el programa integral de Rehabilitació el dia 29/11/2017.
+
+Cordialment,
+
+
+
+
+
+
+Signat:
+Dr/a.: _NAME_
+Metge adjunt
+Número col·legiat: _ID_
+
+Signat:
+_NAME_
+Infermer/a
+Número col·legiat: _ID_
+
+Signat: _NAME_
+Fisioterapeuta Número col·legiat: _ID_
+
+Signat:
+_NAME_
+Treballador/a social Número col·legiat: _ID_
+
+Hospitalització
+Imprès: 04/12/2017 11:15
+Pàg.: 1 de  2

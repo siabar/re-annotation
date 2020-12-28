@@ -1,0 +1,118 @@
+_LOCATION_
+email: _CONTACT_ Telèfon _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 73 Anys
+NIF/DNI: _ID__NAME_; _NAME_;
+ _NAME_
+Informe d'alta d'hospitalització
+15:00:00
+18.09.2017
+_LOCATION_
+_SS_ UNITAT D'ICTUS
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_
+DOMICIL/RES.SOC 08.09.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Pacient que ingressa per sospita d'Ictus.
+
+ANTECEDENTS
+Al·lèrgies:Penicil·lina
+-Hipertensió essencial inespecificada
+-Luxación humeral derecha hace 3 días.
+-Hábito enólico moderado
+-La mujer refiere sangrado digestivo bajo hace años (no disponemos de informes clínicos) Rankin previ:0
+
+MEDICACIÓ HABITUAL
+Enalapril
+
+PROCÉS ACTUAL
+Varón de 73 años con los AP descritos anteriormente que, estando en su estado basal, persenta de forma abrupta el dia 08/09/2017 a las 20:30, clíncia de síndorme completo de ACM izquierda. S'activa codi ictus el dia08/09/2017 a les 20:55 hores, a nivell SEM. Icluido en estudio RACECAT, es randomizado a traslado directo a _SS_. A su llegada mejoría clínica en forma de síndorme incompleto de ACM izq, NIHSS 11
+
+EXPLORACIÓ FÍSICA
+
+EXP. FÍSICA A URG: PAS112 , PAD 93 mmHg
+NIHSS total de11  (Vigil, alerta, Afasia global (3+2+2). PFSN derecha (2). No alteraciones al valorar campimetría por amenaza. Balance motro de extremidades conservado. Anestensia hemicuerpo derecho (2). No DOC ni POC.
+)
+
+EXP FISICA A INGRESS
+TA 161/78 FC 57
+NRL: Vigil, consciente, orientado. CUmpre ordens simples y complexas. Sin deficits de fuerza o sensibilidad. Sin deficits visuales. NIHSS 0
+
+EXPLORACIÓ COMPLEMENTÀRIA
+Analítica d'urgències: Hb 13,9; L 6,22; Plaq 240; INR 0,94;Glic 94; U 46; Creat 0,8; Na 130; K 4,34; Ca 8,6; AST
+23; ALT 20; Prot 6,6;
+Analítica d'ingrés: Hb 14,8; L 7,33; Plaq 310; INR 1,01;Vit b12 353; Acid Folic 12,5; Glic 95; HbA1C 5,6;Creat 1,03;
+U 42; Na 135,6; K 4,45; AST 27; ALT 22; FA 69; GGT 24; Colest 165; HDL 41; LDL 103; Trig 103; PCR 1,87; TSH
+1,318; FT4 1,27;
+
+Informe d'alta d'hospitalització
+
+
+
+
+TC craneal multimodal: TC craneal que no muestra lesiones isquémicas agudas cerebrales valorables (ASPECTS 10/10). Extensa área de penumbra en el territorio de ACM izquierda. Acusada estenosis de segmento distal de carótida primitiva izquierda con repermeabilización distal. Defectos de repleción a partir de segmento petroso de ACI izquierda y en la porción proximal de M1 izquierda, ambas con repermeabilización en fases tardías a través de colaterales, lo cual corresponde con lesión en tandem.
+Trombectomía mecánica: Entrada en la sala 23:40; Punción femoral 23:50. Se atraviesa la estenosis de arteria carótida común y, distalmente, el estudio angiográfico basal (23:55) pone de manifiesto una oclusión a nivel del segmento M1 de ACM izquierda. Se realiza primer pase de solitaire a las 00:05 con recanalización de ACM y sus ramas aunque se observa una embolia en rama distal no accesible (TICI 2b) por lo que se finaliza el procedimiento. El procedimiento se realizó bajo sedación y sin incidencias.
+Doppler de carotidas, vertebrales y transcraneal: DTSA: trombo en ACC izquierda con estenosis severa asociada. Flujo muy amortiguado postestenótico en ACI izquierda (VPS 42cm/s). Estenosis severa ACI derecha postbifurcación por placa hipoecogénica (VPS 483cm/s). Flujo conservado y acelerado en ambas AV extracraneales.
+DTC: flujo acelerado en M1 izquierda (VPS 126cm/s, a 48mm. IP 0.83) compensado por Accomp post y anterior. Flujo amortiguado en ACM derecha (VPS 88cm/s a 50 mm). Flujo acelerado en AV intracraneal y AB.
+TC craneal control 24 horas: CONCLUSIÓN: Discreto edema del parénquima del territorio superficial de ACM izquierda respecto el contralateral sin áreas de infarto o lesiones hemorrágicas.
+Angioplastia extracraneal con prótesis: Conclusión: Angioplastia mas stenting de ACCI y ACI con  adecuada estabilización de la lesión. Paciente es hiperrespondedor al clopidogrel.
+Control Verifynow: AAS 100mg c/24 h, CLOPIDOGREL 75 mg c/24h, Protector: RANITIDINA. AAS: 487 respon al tractament. CLOPIDOGREL : 8 respon al tractament PRU: 96%
+Doppler control stent ACI I: Stent permeable sin signos de estenosis. ACM I con VPS 180cm/s a 48mm, con ACA I 140cm/s en sentido normal. ACM D con flujo amortiguado a 70cm/s a 48mm compensada probablemente a través de ACoP, objetivándose ACP-P1 D acelerada VPS 97cm/s
+Doppler- dúplex color de stent carotídeo izquierdo: Stent ACC I permeable sin signos de estenosis (VPS ACC I
+67.9 cm/s, ACI I 46.1 cm/s). Placa de ateroma hipoecogénica en bulbo carotideo derecho que condiciona una estenosis >90% de ACI D (VPS ACC D 52.6 cm/s, ACI D 408.0 cm/s). Asimetría ACMs (a 50 mm: ACM I VPS
+158.3 cm/s, IP 1.04; ACM D VPS 94.0 cm/s, IP 0.94) sin presencia de turbulencias ni otros signos de hiperaflujo en ACM I ni evidencia de compensación de ACM D (ACA-1 D ortodrómica, no se evidencia hiperaflujo ACP-1 D). Telemetría > 72 horas: no se detecta FA
+
+Informe d'alta d'hospitalització
+
+
+
+EVOLUCIÓ CLÍNICA
+A su llegada se objetiva mejoría clínica a expensas del déficit motor aunque persiste afasia global. Se realiza TC craneal que no muestra lesiones isquémicas agudas cerebrales valorables (ASPECTS 10), angio TC que muestra una estenosis grave del segmento distal de ACC izquierda con repermeabilización distal y defectos de replección en segmento petroso de ACI izquierda y M1 proximal. Se observa una extensa área de penumbra en territorio de ACM izquierda. Al finalizar el estudio el paciente presenta debilidad braquial que no tenía a su llegada. Se inicia tratamiento con tPA y a la llegada de la guardia de neurovascular el paciente ha mejorado clínicamente persistiendo únicamente una afasia motora leve (NIHSS 1). Se decide repetir la angioTC que no muestra cambios respecto a la previa y al volver el paciente a la UIA vuelve a empeorar clínicamente evidenciándose de nuevo clínica compatible con TACI izquierdo (NIHSS 0-2-2-1-2 / 2-3-0-3-0 / 0-1-3-2-0= 21). Se informa a la familia de los riesgos y beneficios del tratamiento endovascular que aceptan y firman el consentimiento informado. Entrada en la sala 23:40; Punción femoral 23:50. Se atraviesa la estenosis de arteria carótida común y, distalmente, el estudio angiográfico basal (23:55) pone de manifiesto una oclusión a nivel del segmento M1 de ACM izquierda. Se realiza primer pase de solitaire a las 00:05 con recanalización de ACM y sus ramas aunque se observa una embolia en rama distal no accesible (TICI 2b) por lo que se finaliza el procedimiento. El procedimiento se realizó bajo sedación y sin incidencias. Se ingresa al paciente en la UIA bajo vigilancia semiintensiva.
+
+Durante su estancia en la Unidad de Ictus el paciente se mantiene neurológica y hemodinámicamente estable. Asintomático desde el punto de vista neurológico se realiza TC craneal control 24 horas que muestra discreto edema del parénquima del territorio superficial de ACM izquierda respecto el contralateral sin áreas de infarto o lesiones hemorrágicas. El doppler de control confirma la presencia de estenosis carotídea bilateral, siendo la izquierda preoclusiva por lo que se orienta el cuadro como de origen aterotrombótico y se decide realizar angioplastia + stent. Durante el procedimiento sufre pequeña microembolia a rama cortical parieto-temporal, sin otras incidencias significativas. El doppler de control muestra permeabilidad del stent con hiperaflujo en territorio carotideo izquierdo por lo que se mantiene en observación durante 72 horas sin que se objetiven recurrencias. Se realiza nuevo doppler de control que muestra mejoría por lo que se decide alta y control ambulatorio, solicitandose Doppler de control asi como RM craneal de cara a valorar estenosis contralateral y necesidad de tratamiento sobre la misma. En situación de estabilidad clínica y hemodinámica se decide alta y control en CCEE Neurovascular. En el momento del alta NIHSS 0, mRS 0
+
+DIAGNÒSTICS
+Ictus ACM I de origen aterotrombótico por estenosis carotidea severa
+-	rtPA + Tratamiento intraarterial de rescate
+-	Angioplastia + Stent carotídeo Estenosis ACI D asintomática
+
+PROCEDIMENTS
+TC multimodal AngioTC
+Trombectomíamecánica
+Doppler de carotidas, vertebrales y transcraneal Angioplastia + stent carotideo
+Doppler de control
+
+Informe d'alta d'hospitalització
+
+
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Dieta sin sal baja en grasas Ejercicio fisico que tolere Abandono del habito enólico
+
+Añadir a su medicación habitual:
+-	Ranitidina 300mg, 1 comprimido cada 24 horas
+-	Adiro 100mg, 1 comprimido cada 24 horas despues de comer
+-	Clopidogrel 75mg, 1 comprimido cada 24 horas después de comer
+-	Atorvastatina 80mg, 1 comprimido cada 24 horas después de cenar Resto de medicación habitual sin cambios, Enalapril 20mg cada 24 horas
+CONTROL
+Doppler de control el proximo día 21/12/2017 a las 9:40 (2º planta, Unidad de Ictus, Gabinete 2). Posteriormente visita de control en CCEE Neurovascular a las 10:30
+Se solicita RM control, le informaran telefonicamente y/o por carta con los datos de la cita Control estrecho de factores de riesgo vascular por CAP
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+18.09.2017
+Pàgina 1 de 4

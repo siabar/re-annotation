@@ -1,0 +1,138 @@
+_LOCATION_ Telf Consultes: _CONTACT_ / _CONTACT_
+Telf Centraleta Hospital: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 63 Anys
+NIF/DNI: _ID__NAME_; _NAME_
+Informe d'epicrisi
+CP	_LOCATION_
+ABS	_SS_
+Servei	NEUROLOGIA
+Data d'alta  06.11.2017	03:00:43
+_LOCATION_
+_CONTACT_; _CONTACT_
+DOMICIL/RES.SOC 09.10.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Ictus isquémico ACM derecha.
+
+ANTECEDENTS
+-	No AMC
+-	Autónomo para ABVD. Vive solo según refiere.
+-	Ex fumador importante.
+-	Ex enolismo severo. Abstinente en momento actual.
+
+-	Cirrosis hepática enólica. Ascitis de debut en 2012. Controles correctos hasta el momento. En Mayo 2017, CHILD A = 5 puntos (INR 1.09, Alb 4.53 g/dL, ausente EH, no ascitis, BT 0.9,g/dL). Última ecografía abdominal: Hepatopatía crónica- cirrosis. Colelitiasis/barro biliar. No lesiones ocupantes de espacio. Ausencia de líquido libre intraperitoneal.
+
+
+MEDICACIÓ HABITUAL
+FUROSEMIDA ALDACTONE XALATAN
+
+PROCÉS ACTUAL
+Paciente que acudió a urgencias como código ictus, siendo encontrado en su domicilio por el hermano con hemiplégia izquierda. Inicio desconocido de la clínica.
+
+EXPLORACIÓ FÍSICA
+
+Regular estado general. Normocoloreado. Deshidratado. Eupneico en reposo. AC: tonos rítmicos, no soplos.
+AR: Murmullo vesicular conservado. Exploración NEUROLÓGICA:
+consciente. Responde a estímulos verbales. No obedece órdenes simples. Habla conservada. PICNR.
+Desviación ocular a la derecha. Hemianopsia homónima izquierda. Hemiplejía facio-braquio-crural izquierda 0/5. Babinski izquierdo
+NIHSS 16: TACI
+
+EXPLORACIÓ COMPLEMENTÀRIA
+TAC craneal: Extensa lesió hipodensa cortico-subcortical temporo-parietal dreta, en territori d'ACM dreta, suggestiva de lesió isquèmica establerta, en evolució. Absència de desplaçaments d'estructures de la linia mitja i de  lesions  hemorràgiques intra  o  extraparenquimatoses supra  i  infratentorials.  Sistema  ventricular de  mida,
+
+Informe d'epicrisi
+
+
+
+
+configuració i posició normals. Cisternes de la base i peritronculars lliures. Fossa posterior, tronc encefàlic i parènquima cerebral sense alteracions morfològiques ni densitomètriques valorables.
+CONCLUSIÓ: Lesió isquèmica establerta, en evolució, en territori d'ACM dreta.
+
+Analítica sanguínea:
+-	Bioquímica: Alanina-aminotransferasa 284 U/L, Alfa-amilasa 71 U/L, Aspartat-aminotransferasa 354 U/L, Bilirrubina total 0.9 mg/dL, Potassi 5.2 mEq/L, di136 mEq/L, PCR 30.8 mg/dL, Urea 118 mg/dL. PCT 5.3 ng/mL. CK: 2496.
+-	Hemograma: Hemoglobina 14.3 g/dL, Eritròcits5.07 10^12/L, Hematòcrit 42.3 %, VCM 83.4 fL, CCMH 33.8 g/dL, HCM28.2 pg ,Leucòcits;c.nom. 32.69 10^9/L, Neutròfils;c.nom. 29.75 10^9/L, Limfòcits;c.nom. 1.31 10^9/L, Monòcits;c.nom. 1.63 10^9/L, Eosinòfils;c.nom. 0.00 10^9/L, Basòfils;c.nom. 0.00 10^9/L, Plaquetes;c.nom. 102 10^9/L.
+-	Coagulación: INR 1.73, T.protrombina 18.8 seg, Raó (T.protrombina)1.74, TTPA27.5 seg, Raó (TTPA) 0.88, Fibrinogen238 mg/dL.
+-Gasometría: PCO2 37.4 mmHg, CO2 Total-vSan 24.5 mmol/L, P. Parcial Oxigen (PO2)-vSan 69.9 mmHg, PH-vSan * 7.414, Bicarbonato efectiu-vSan 23.4 mmol/L, Excés de bases-vSan -1.2 mmol/L, Saturació Oxigen-vSan 94.3 %, Lactat-Sang venosa * 2.50 mmol/L.
+
+ATG en orina: negativos.
+
+Analítica sanguínea de control :
+-	Bioquímica: Creatinini 2.89 mg/dL, Glucosa 166 mg/dL, Potassi 4.7 mEq/L, Sodi 138 mEq/L, PCR 28.9 mg/dL, Urea 141 mg/dL.
+-	Hemograma: Hemoglobina 12.9 g/dL, Hematòcrit 39.0 % Leucòcits;c.nom. 24.07 10^9/L, Neutròfils;c.nom. * 23.11 10^9/L, Limfòcits;c.nom. * 0.48 10^9/L, Monòcits;c.nom. 0.24 10^9/L, Eosinòfils;c.nom. * 0.00 10^9/L, Basòfils;c.nom. 0.24 10^9/L Plaquetes;c.nom. * 92 10^9/L
+-	Gasometría: Diòxid de carboni 32.7 mmHg, CO2 Total-aSan 20.6 mmol/L, P. Parcial Oxigen (PO2)-aSan *101.1 mmHg, pH-Sang arterial 7.395, Bicarbonato efectiu-aSan 19.6 mmol/L, Excés de bases-aSan * -5.3 mmol/L, Saturació Oxigen-aSan 97.7 %
+
+TAC crani control (11/10): Lesió isquèmica establerta, en territori d'ACM dreta amb lleu HSA frontal dreta.
+TAC crani (17/10): Infarto isquémico de ACM derecha que respecto el estudio previo se asocia con mayor edema perilesional condicionando mayor efecto de masa con desviación de línea media de 4mm (antes 2mm). Discreto empeoramiento de los focos de HSA derechas (Fischer grado I).
+
+TAC toraco-abdominal: TEP dret. Discret vessament pericàrdic dret.. Vessament pleural de predomini dret amb component atelectàtic. Hepatomegàlia heterogènia amb vores nodulars, destacant lesions focals hipodenses al seu interior, a ambdós lòbuls, la major situada a segment de 65mm, suggestives de metàstasis sense descartar etiologia infecciosa, ja que no foren visualitzades en ecografia prèvia recent. Melsa homogènia no megàlica amb infarts al seu interior.
+Glàndules suprarrenals de morfologia normal.Ronyons de mides, morfologia i densitat normals, sense signes obstructius.
+Funcionalisme conservat, bilateral i simètric. Infarts corticals bilaterals.
+Adenopaties intraabdominals. Moderada presència de líquid lliure intra abdominal. Hèrnia umbilical. Pròstata heterogènia amb àrea hipodensa a lòbul esquerre de 27mm suggestiva d'abscés.
+Extensa edematització del teixit gràs subcutani de distribució difusa.
+CONCLUSIÓ:  Signes  d'hepatopatia  crònica  amb  lesions  focals  associades que  poden  ser  corresponents  a
+
+Informe d'epicrisi
+
+
+
+
+abscesos o metàstasis. Infarts esplènics i renals. Líquid lliure intra abdominal. Probable abscés prostàtic.
+
+
+EVOLUCIÓ CLÍNICA
+Evolució en UCIM:
+1.- AVC Isquemico de ACM derecha: durante el ingreso se ha mantenido consciente i orientado en espacio, tiempo y
+persona con ligera disartria. Ha persistido con hemiplegia faciobraquiocrural izquierda, con hipoestesia braquial izquierda y extinción sensitiva crural izquierda. El 11/10 se realizó TC craneal de control que muestra lesión isquémica establecida en territorio de ACM derecha con HSA frontal derecha (Fisher I). Se inicia tratamiento con aspirina.
+2.- Neumonia por broncoaspiración basal izquierda: se inicia tratamiento antibiótico empírico con
+amoxicilina-clavulánico. No se han podido obtener muestras respiratorias para cultivo. El paciente se ha mantenido eupneico en aire ambiente y con normalización de los parámetros inflamatorios. Al alta restan pendientes los hemocultivos que de momento son negativos y el urocultivo es nagativo.
+3.- Rabdomiólisis e Insuficiencia renal aguda secundaria: al ingreso persiste taquicárdico y oligúrico con tensiones mantenidas pero con signos de respuesta a volumen por ecocardiografía cardíaca, por lo que se inicia tratamiento con sueroterapia con descenso de las cifras de CPK y aumento de la diuresis y mejoria de la función renal.
+5.- TVP femoropoplitea en EII: ante la sospecha de trombosis venosa en estremidad inferior izquierda, se contacta con Cirugía Vascular que realizan EcoDoppler que demuestra trombosis femoro poplitea en dicha extremidad. Se inicia tratamiento con enoxaparina a dosis profilácticas. Dados los hallazgos en el TC craneal de control (HSA) , se decide no aumentar la dosis.
+
+Planta de NRL:
+El pacient pasa a planta de Neurologia. Presenta evolució molt tòprpida amb nivell de consciència fluctuant, anemityzació greu precissant transfussions sense resposta. Inciia dieta per SNG, rehabilitació i sedestació.
+Es realitza TAC toraco-abdominla que evidencia embòls sistèmics; pulmonars, melsa i ronyons, possible abcès prostàtic i lesions compatibles amb mestastasi hepàtiques. Es torna a realitzar tractament antibiòtic i ajust paràmtres metabòlics.
+El pacient no evoluciona favorablement, no presenta milloria neurològica, i presenta empitjorament de la funció respiratòria amb febre que no remet i finalment és exitus el dia 6/11 a les 1:50h.
+
+
+DIAGNÒSTICS
+434.11/1 ICTUS isquèmic massiu a territori de l'ACM dreta.
+-	Tromboembolismepulmonar
+-	Embòls melsa i renals.
+-	Cirrosis hepàtica descompensada.
+-	Pneumonia per broncoaspiració.
+-	Rabdomniolisis
+-	Anèmia
+-	Abcès prostàtic
+-	Metàstatsi hepàtiques.
+
+PROCEDIMENTS
+87.03 Tomografia axial computada de cap. TAC de cap
+
+Informe d'epicrisi
+
+
+
+
+88.76 Ultrasò diagnòstic d'abdomen i retroperitoneu
+89.52 Electrocardiograma. ECG NOS, ECG (amb 12 o més derivacions)
+89.52 Electrocardiograma. ECG NOS, ECG (amb 12 o més derivacions)
+87.03 Tomografia axial computada de cap. TAC de cap
+89.08 Altra consulta
+89.08 Altra consulta
+45.14 Biòpsia d'intestí prim, tancada [endoscòpica]. Raspallada o rentada per a recollida d'espècimen
+89.08 Altra consulta
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+06.11.2017
+Pàgina 1 de 4

@@ -1,0 +1,93 @@
+T0	FECHA 233 243	23.08.2017
+#0	AnnotatorNotes T0	2017-08-23
+T1	HORA 246 251	00:05
+#1	AnnotatorNotes T1	00:05
+T2	FECHA 305 315	22.08.2017
+#2	AnnotatorNotes T2	2017-08-22
+T3	HORA 318 323	23:07
+#3	AnnotatorNotes T3	23:07
+T4	SECCION_MOTIVO_DE_INGRESO 391 408	Motivo de ingreso
+T5	SECCION_ANTECEDENTES 451 463	ANTECEDENTES
+T6	_SUG_Tratamiento_anticoagulante 726 733	sintrom
+T7	FECHA 742 746	2016
+#7	AnnotatorNotes T7	2016-UNDEF-month-UNDEF-day
+T8	FECHA 876 886	Julio 2016
+#8	AnnotatorNotes T8	2016-07-UNDEF-day
+T9	_SUG_Trombectomia_mecanica 900 921	trombectomía mecánica
+T10	_SUG_NIHSS 931 948	NIHSS basal de 18
+T11	_SUG_NIHSS 951 958	NIHSS 0
+T12	_SUG_mRankin 968 973	mRS 2
+T13	FECHA 1050 1061	Agosto 2015
+#13	AnnotatorNotes T13	2015-08-UNDEF-day
+T14	_SUG_TAC_craneal 1125 1135	TC craneal
+T15	_SUG_Trombolisis_intravenosa 1448 1468	tratamiento con CPAP
+T16	SECCION_ANTECEDENTES_FAMILIARES 1610 1633	Antecedentes familiares
+T17	SECCION_SITUACION_FUNCIONAL 1768 1792	Situación sociofuncional
+T18	_SUG_mRankin 1954 1959	mRS 2
+T19	SECCION_TRATAMIENTO_HABITUAL 1980 2000	Tratamiento habitual
+T20	_SUG_Tratamiento_anticoagulante 2177 2184	Sintrom
+T21	SECCION_PROCESO_ACTUAL 2225 2242	ENFERMEDAD ACTUAL
+T22	FECHA 2303 2312	22/8/2017
+#22	AnnotatorNotes T22	2017-08-22
+T23	HORA 2319 2324	22.45
+#23	AnnotatorNotes T23	22:45
+T24	HORA 2560 2565	23.07
+#24	AnnotatorNotes T24	23:07
+T25	_SUG_Trombectomia_mecanica 2682 2706	tratamiento endovascular
+T26	_SUG_Trombolisis_intravenosa 2720 2724	rtPA
+T27	_SUG_Tratamiento_anticoagulante 2885 2892	sintrom
+T28	SECCION_EXPLORACION_FISICA 2981 2999	EXPLORACIÓN FÍSICA
+T29	_SUG_NIHSS 3368 3413	NIHSS: 0+0+0+2+2//2+(0+3)+(0+2)//0+0+0+1+0=12
+T30	_SUG_NIHSS 3698 3742	NIHSS: 0+0+0+0+0//1+(0+0)+(0+0)//0+0+0+0+0=1
+T31	_SUG_NIHSS 4053 4060	NIHSS 0
+T32	SECCION_EXPLORACIONES_COMPLEMENTARIAS 4063 4092	EXPLORACIONES COMPLEMENTARIAS
+T33	_SUG_TAC_craneal 4267 4277	TC craneal
+T34	_SUG_ASPECTS 4310 4320	ASPECTS 10
+T35	_SUG_TAC_craneal 4530 4540	TC craneal
+T36	_SUG_TAC_craneal 4561 4571	TC craneal
+T37	_SUG_Trombectomia_mecanica 4704 4728	Tratamiento endovascular
+T38	HORA 4938 4943	00:25
+#38	AnnotatorNotes T38	00:25
+T39	HORA 4998 5003	00:41
+#39	AnnotatorNotes T39	00:41
+T40	HORA 5135 5140	00:47
+#40	AnnotatorNotes T40	00:47
+T41	_SUG_Recanalizacion 5150 5164	recanalización
+T42	SECCION_EVOLUCION 5274 5283	EVOLUCIÓN
+T43	_SUG_NIHSS 5392 5403	NIHSS de 12
+T44	_SUG_TAC_craneal 5451 5461	TC craneal
+T45	_SUG_TAC_craneal 5557 5559	TC
+T46	_SUG_Trombectomia_mecanica 5644 5668	tratamiento endovascular
+T47	_SUG_Recanalizacion 5730 5744	recanalización
+T48	_SUG_Trombectomia_mecanica 5902 5914	trombectomía
+T49	_SUG_NIHSS 6107 6117	NIHSS de 2
+T50	_SUG_TAC_craneal 6243 6253	TC craneal
+T51	_SUG_NIHSS 6677 6687	NIHSS de 0
+T52	_SUG_Tratamiento_anticoagulante 6737 6745	heparina
+T53	_SUG_Tratamiento_anticoagulante 6800 6807	pradaxa
+T54	_SUG_Trombectomia_mecanica 6882 6907	tratamiento rehabilitador
+T55	_SUG_Trombolisis_intravenosa 6882 6907	tratamiento rehabilitador
+T56	_SUG_TAC_craneal 7004 7011	craneal
+T57	_SUG_NIHSS 7054 7059	NIHSS
+T58	_SUG_mRankin 7098 7101	mRS
+T59	SECCION_PROCEDIMIENTOS 7132 7146	PROCEDIMIENTOS
+T60	_SUG_TAC_craneal 7198 7209	TC cerebral
+T61	_SUG_TAC_craneal 7234 7236	TC
+T62	_SUG_Trombectomia_mecanica 7250 7270	Trombectomíamecánica
+T63	SECCION_DIAGNOSTICOS 7273 7296	ORIENTACIÓN DIAGNÓSTICA
+T64	_SUG_Ictus_isquemico 7299 7316	Infarto isquémico
+T65	_SUG_Arteria_afectada 7334 7337	ACM
+T66	_SUG_Lateralizacion 7338 7345	derecha
+T67	_SUG_Etiologia 7370 7394	etiología cardioembólica
+T68	_SUG_Trombectomia_mecanica 7396 7420	Tratamiento endovascular
+T69	SECCION_TRATAMIENTO_Y_RECOMENDACIONES_AL_ALTA 7494 7531	TRATAMIENTO Y RECOMENDACIONES AL ALTA
+T70	SECCION_TRATAMIENTO_AL_ALTA 7532 7551	Tratamiento al alta
+T71	_SUG_Tratamiento_anticoagulante 7562 7569	Sintrom
+T72	_SUG_Tratamiento_anticoagulante 7570 7580	Dabigatrán
+T73	_SUG_Tratamiento_anticoagulante 7582 7589	Pradaxa
+T74	_SUG_TAC_craneal 7846 7853	craneal
+T75	SECCION_RECOMENDACIONES 8110 8135	Recomendaciones generales
+T76	FECHA 9060 9070	31.08.2017
+#76	AnnotatorNotes T76	2017-08-31
+T77	FECHA 9148 9158	31.08.2017
+#77	AnnotatorNotes T77	2017-08-31

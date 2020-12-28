@@ -1,0 +1,172 @@
+_LOCATION_) Telèfon _SS_  972 _CONTACT_
+Telèfon IDI (Ressonància i TAC) _CONTACT_
+Telèfon ICO _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 65 Anys
+NIF/DNI: _ID__NAME_; _NAME_; _NAME_,; _NAME_
+Informe de Trasllat a Sociosanitari
+09:22:43
+26.07.2017
+_LOCATION_
+_SS_ NEUROLOGIA
+ABS
+Servei Data d'alta
+_CONTACT_; _CONTACT_; _CONTACT_
+AGUTS 11.07.2017
+_LOCATION_
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+hemiparesia derecha no recuperada
+
+ANTECEDENTS
+ANTECEDENTES PERSONALES
+-No alergias medicamentosas conocidas
+-Fumador de 10 cigarrillos/día. No refiere otros hábitos tóxicos
+-Independiente para actividades básicas de la vida diaria. mRs: 2 (leve paresia izquierda, no conduce)
+
+ANTECEDENTES PATOLÓGICOS
+-Hipertensión arterial sin tratamiento
+-Dislipemia en tratamiento farmacológico
+-Ictus isquémico ACM derecha, mecanismo embólico, etiología aterotrombótica, secundario a oclusión de arteria carótida comíun derecha y carótida interna ipsilateral, como secuelas leve paresia izquierda
+-Glaucoma neovascular derecho, IQx hace 3 años, intervención infructuosa, de forma residual presenta amaurosis.
+-Sd. parkinsoniano con alucinaciones pendiente de filiar etiología.
+
+MEDICACIÓ HABITUAL
+-Adiro 100 mg/24hrs
+-Simvastatina 40 mg/24hrs
+-Azarga (Brinzolamida+timolol) 1/12hrs
+-Dexametasona colirio 1/12hrs
+
+PROCÉS ACTUAL
+Paciente de 65 años, con los antecedentes descritos, refiere que último mes comienza con cuadro de caídas frecuentes secundarios a probables AITs de repetición en forma de hemiparesia y hemihipoestesia derechas, y finalmente día 04/07/2017 presenta cuadro de hemiparesia que ya no recupera, motivo por el que acude a _SS_, que contacta con Neurología de guardia en nuestro centro y se decide derivación para valoración.
+
+En urgencias se objetiva leve hemiparesia derecha (NIHSS: 2), por lo que se realiza estudio eco-doppler que muestra oclusión arteria carótida común derecha, así como placa que condiciona estenosis crítica en arteria carótida interna izquierda, estudio muy complejo por cervicalgia de paciente (secundaria a caídas recientes).
+
+Por tanto, se orienta el caso como ictus isquémico ACM izquierda, etiología aterotrombótica, secundario a estenosis significativa de arteria carótida izquierda, y se decide ingreso en Unidad de Ictus de nuestro centro para vigilancia neurológica y valoración de tratamiento quirúrgico de estenosis carotídea sintomática.
+
+El dia 11/07 presenta un empeoramiento neurológico, con afàsia global, desviación oculocefálica a la izquierda, hemiplejia braquiocrural derecha NIHSS (12222/104030/00300: 20). Por todo ello se decide realizar TC simple que
+
+Informe de Trasllat a Sociosanitari
+
+
+
+
+muestra lesión frontera ACA+ACM izquierda subaguda, con oclusión ACI, se contacta con _SS_ y se decide traslado para valorar tratamiento endovascular.
+
+EXPLORACIÓ FÍSICA
+
+EXPLORACIÓN AL INGRESO:
+TA: 85/58; FC: 50; afebril
+NRL: vigil amb tendència a la somnolència, orientat en temps i persona però no en espai, obeeix ordres senzilles i complexes, MOEs normal, campimetria normal, parèsia facila central dreta, hemiplègia dreta, hemihipoestèsia dreta, disàrtria lleu
+NIHSS: 00010 / 24040 / 01010 = 13
+
+
+
+
+EXPLORACIÓ COMPLEMENTÀRIA
+ECG:
+-Ritmo sinusal a 79 lpm, no se observa morfología de bloqueo ni alteraciones de la repolarización
+
+ANALÍTICAS:
+-AS: Eritrosedimentació 1º hora * 32 mm, Hb 14.2 g/dL, Plaqu 238 K/mcL, Leuc 8.69 K/mcL (N: 64.7 %, L: 22.7 %), Tasa protrombina 92 %, INR 1.12, Gluc 98 mg/dL, Ur 40 mg/dL, Crea0.62 mg/dL, Colesterol 131 mg/dL, Colesterol HDL 60 mg/dL, Colesterol LDL 44 mg/dL, Triglicèrid 136 mg/dL, Ió sodi 140 mEqu/L, Ió potasi 4.3 mEqu/L, Filtrat glomerular (CKD-EPI) 104.1 mL/min, TnT: 7 ng/L
+-AS (06/07/2017): Hemoglobina A1c (DCCT/NGSP) 5.6
+-Tira de orina (13/07/17): Densitat 1015, PH orina 6, Leucòcits tira +++, Eritròcits ++, Hematies * 42.8 per camp, Leucocits * 62.25 per camp,
+-AS (14/07/17): Eritròcits * 3.97 M/mcL, Hemoglobina * 11.6 g/dL, Hematòcrit * 35 %, Volum corpuscular mitjà 89.2 fL, Hemoglobina corpuscular mitja 29 pg, C.H.C.M. 33 g/dL, A.D.E. 13.2 %, Plaquetes 259 K/mcL, Volum plaquetari mig 11.1 fL, Leucòcits 8.6 K/mcL, Glucosa 102 mg/dL, Urea 25 mg/dL, Creatinina * 0.62 mg/dL, Creatincinasa (CK) * 250 U/L, Creatinincinasa-MB * 28.4 U/L, Ió sodi 140 mEqu/L, Ió potasi 3.9 mEqu/L, Filtrat glomerular (CKD-EPI) 104.1 mL/min, Proteïna C reactiva * 6.52 mg/dL,
+
+PRUEBAS DE IMAGEN:
+-Rx de tórax: Rx AP de tórax, poco inspirada, bien penetrada, parcialmente rotada. No se observan aumentos de densidad compatibles con condensación ni pinzamiento de senos costofrénicos. ICT dentro de normalidad.
+
+-Estudio ultrasonológico (ingreso): DTSA /DTC: muy complejo per ansiedad de paciente y cervicalgia. Tras 45 minutos: ateromatosis muy severa con oclusion ACC dcha persistente, flujo permeable en ACE dcha (?). Placas de grandes dimensiones en ACI Izda en sui salida con velocidad sitolioca máxima de hasta 250 cm/seg en un solo punto, permeable posterior pero clara caida del flujo (normal hace 3 años). Estudi TC: flujo amortiguado ambas ACMs, no valido para valorar inversion de flujo
+-Estudio ultrasonológico (control 05/07/2017): DTSA: Lado derecho: oclusión de ACC desde origen, con contenido ateromatoso crónico iso-hiperecoico, produciendo también oclusión de ACI derecha. ACExt derecha con ateromatosis, se rellena probablemente por colaterales, presenta flujo con morfología pulsátil. AV derecha con hiperaflujo: VPS 124 cm/seg. Lado izquierdo: ateromatosis muy importante con placa concéntrica a lo largo de
+
+Informe de Trasllat a Sociosanitari
+
+
+
+
+todo el segmento insonado de ACC incluyendo bulbo y tanto ACExt como ACI, con engrosamientos en diferentes puntos condicionando a mayores placa excéntricas, todas de aspecto crónico con componente cálcico. Tanto ACext como ACI presentan una reducción importante de la luz del vaso. En ACI no consigo insonar un punto de máxima estenosis, si bien, el flujo posterior es reducido con VPS 52 cm/seg y morfología redondeada. AV izq morfología pulsátil y con hiperaflujo: VPS 104 cm/seg.
+DTC: Lado derecho: ACM dcha: morfología de curva amortiguada: M1 VPS 31 cm/seg y VDF 18 cm/seg. M2 VPS 48 cm/seg. ACA ortodrómica con curva muy amortiguada VPS 25 cm/seg. Flow diversion de ACP: P1 VPS 89 cm/seg. P2 VPS 93 cm/seg. Detecto un flujo invertido de hasta VPPs 158 cm/seg en la zona que debe corresponder a ACoP derecha (podría deberse por curvatura del vaso). Lado izquierdo: ACM izq: morfología espectral amortiguada si bien con mejores flujos que su contralateral: M1 VPS 55 cm/seg y VDF 28 cm/seg. M2 VPs 64 cm/seg. ACA ortodrómica con curva también amortiguada VPS 48 m/seg. Detecto soplo a nivel de ACoA, pero no me impresiona de funcionante. ACoP con soplo rugoso pero flujomuy bueno de VPS 120 cm/seg y VDF 74 cm/seg. SEgmento P1 VPS 47 cm/seg y P2 VPS 51 cm/seg. entana suboccipital: ambos segmentos simétricos y con cierto hiperaflujo (como a nivel cervical). AB insonada  hassta 83 mm de profundidad con VPs 70 cm/seg.
+
+-TC craneal (_SS_): Cisternes de la base lliures, Estructures de la línia mitjana centrades. Sistema ventricular de situació, morfologia i dimensions normals. Parènquima cerebral, cervellet i tronc de l'encèfal amb una correcta diferenciació entre lasubstància blanca i grisa, sense imatges d'hemorràgia aguda ni àrees d'edema ni processos expansius. Àrees hipodenses parietals dretes superiors còrticosubcorticals compatibles amb lesions isquèmiques antigües. Abscència de col·leccions extraaxials
+Conclusió : Lesions isquèmiques antigües parietals dretes
+
+-RM cerebral + angio-RM (06/07/2017): Oclusión de carótida común y interna derecha. Estenosis de aprox.80% de ACI izquierda con marcada disminución del flujo de ACI distal y de ACM ipsilateral. Dado que la calidad de la angioRM es subóptima se ampliara con angioTC.
+Infarto subagudo-agudo en territorio frontera interno y de ACM izquierda. Infarto crónico en territorio ACM derecha. Marcados signos de hipoperfusión crónica, grado 3 de Fazekas.
+
+-Angio-TC (07/07/2017): Oclusión de carótida común y interna derecha. Estenosis de aprox.80% de ACI izquierda con permeabilidad distal, siendo la ACM permeable sin estenosis significativas. segmento cavernoso de ACI derecha y ACM derecha permeables de flujo discretamente mas filiforme pero sin estenosis significativa. Estenosis 50% origen de la vertebral derecha, con estenosis focales no significativas en el resto de segmentos. Resto de sistema VB y basilar permeables.
+
+EVOLUCIÓ CLÍNICA
+En el _SS_ se realiza angioplastia i colocación de stent sobre ACI izquierda. Se observa oclusión en rama distal de ACM izquierda (M3) que no se trata.
+A su regreso al _SS_ ingresa en la Unidad de Ictus para vigilancia y monitorización intensiva. El paciente se encuentra vígil con tendencia al sueño, orientado en tiempo y persona, pero no en espacio. Obedece ordenes sencillas i complejas, MOEs normales, campimetría normal. Paresia facial central derecha, hemiplegia derecha, hemihipoestesia derecha, disartria leve.
+NIHSS: 00010/24040/01010 = 13
+
+Durante su ingreso el paciente presenta tendencia a la bradicardia y a la hipotensión, con un episodi de bradicardia sinusal de hasta 30 lpm, que va mejorando a lo largo del ingreso.
+
+Informe de Trasllat a Sociosanitari
+
+
+
+
+Se realiza sedestación progresiva sin incidentes, y se inicia RHB. Presenta disfagia leve, con lo que tolera dieta con espesante, que se puede retirar el dia 13/07.
+
+El dia 13/07 realiza pico febril de 38ºC, por lo que se sacan hemocultivos y urocultivos, y se inicia tratamiento con amoxicilina/clavulanico, cambiandose posteriormente a cefalosporina. Buena evolución, con desaparición de la fiebre y restando asintomático.
+
+El dia 14/07 el paciente es trasladado a la planta general de Neurologia, encontrandose hemodinamicamente estable. Durante su estancia en la planta no presenta ninguna complicación y mejora lentamente con rehabilitación
+
+Se objetiva bradicinesia y rigidez, atribuida inicialmente a tratamiento con neurolépticos, así como alucinaciones nocturnas desde hace 2 años. Se inicia tratamiento con Levodopa+Carbidopa y Trazodona, con buena tolerancia y mejoría parcial de los síntomas con disminución de la rigidez, mejoria de la bradicinesia, mejoría del descanso nocturno y desaparición de las alucinaciones. Necesitará estudio ambulatorio de este cuadro extrapiramidal.
+
+Dada la estabilidad clínica se decide alta a CSS la República el 26/7 Escalas al alta:
+NIHSS 10
+Rankin 4
+Barthel 5
+
+
+DIAGNÒSTICS
+433.11/3 Infarto del territorio carotidio izquierdo por oclusión de ICA izquierda 433.10/1 Estenosis arteria carotida derecha asintomática
+332.0 Parkinsonismo en estudio
+401.9/4 Hipertensión arterial inespecificada 272.4/1 Dislipemia
+
+
+PROCEDIMENTS
+TC RM
+Ecodoppler Stent carotidi E
+
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+-	Tratamiento farmacológico
+-	Adiro 100mg cada 24h después de la comida
+-	Atorvastatina 40mg cada 24h por la noche
+-	Trazodona 50mg en la noche
+-	Sinemet plus 25/100mg progressivo hasta llegar a dosis de 1-1-1
+
+-	Dieta baja en sal y grasas.
+-	Abandono del consumo de tabaco y reducción del consumo de alcohol.
+-	
+Informe de Trasllat a Sociosanitari
+
+
+
+
+-	Control de los factores de riesgo cardiovascular
+-	Colesterol (LDL) <100 mg / dl
+-	Tensión arterial sistólica <140mmHg / Diastólica <90mmHg
+
+
+CONTROL
+-Visita de control en Neurología
+-Control de los factores de riesgo cardiovascular por su equipo de atención primaria.
+
+DESTINACIÓ A L'ALTA:	SOCI SANITARI
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+26.07.2017
+Pàgina 1 de 5

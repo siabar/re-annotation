@@ -1,0 +1,143 @@
+_LOCATION_
+email: _CONTACT_ Telèfon _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 84 Anys
+NIF/DNI: _ID__NAME_; _NAME_; _NAME_
+Informe d'alta d'hospitalització
+14:59:45
+21.12.2017
+_LOCATION_
+_SS_ UNITAT D'ICTUS
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_; _CONTACT_; _CONTACT_
+ATEN.PRIMÀRIA 19.12.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Mujer de 84 años que ingresa por infarto en territorio ACM izquierda.
+
+ANTECEDENTS
+No alergias medicamentosas concodias
+-	Niega hábitos tóxicos
+
+ANTECEDENTES PATOLÓGICOS
+-	Hipertensión arterial esencial
+-	Glicemia basal alterada
+-	Osteoporosis, déficit de vitamina D, con antecedente de aplastamiento verebral
+-	Cistocele, incontiencia de orina
+
+Situación sociofuncional: independiente  para las actividades básicas e instrumentales  de la vida diaria, buen soporte familiar (vive con una hija), no deterioro cogntivio. mRS 0
+
+MEDICACIÓ HABITUAL
+Torasemida 5 mg 1c/d, amlodipino 5mg 1c/d, losartan 50mg 1c/d
+
+PROCÉS ACTUAL
+Habiendo ido a dormir asintomática, la paciente presenta una clínica de afasia del despertar el dia 18.12. Ante la persistencia de la clínica es traida a urgencias, donde se produce remisión de la clínica.
+
+EXPLORACIÓ FÍSICA
+
+URGENCIAS
+Constantes: TA 135/60 mmHg BMT 98. ENRL: Vigil, LOC q 2/2, LOC c 2/2, no DOC, HHD por confrontación (2) PFSN derecha leve (1) hemiparesia ESD 4 /5 (1) No alteraciones de la sensibilidad, afasia leve predominio sensitivo (1) no disartria, no extinciones ni agnosias, no dismetrias. NIHSS 5
+
+UNIDAD ICTUS
+Constantes: TA 112/65mmHg, FC 80x', afebril
+Vigil y orientada, afasia motora leve (bloqueos del lenguaje), nomina, comprende y repite correctamente (1), no disartria. Campimetría sin déficits, MOEs sin restricciones. No paresia ni hipoestesia facial. Resto ppcc conservados. Leve paresia ESD 4/5, claudicación distal (1), resto conservado. Sensibilidad sin alteraciones objetivables. No dismetrías. No extinciones ni agnosias. NIHSS 2
+
+EXPLORACIÓ COMPLEMENTÀRIA
+URGENCIAS
+
+Informe d'alta d'hospitalització
+
+
+
+
+-	ECG: ACxFA a 90 lpm, sin alteraciones en la repolarización.
+-	Analítica: hemogloobina 14.2g/dl, hematocrito 43%, leucocitos 10900 (N62%, L29.85). Plaquetas 203000. TP 84%, TTPA 24.7s. Cr 0.75mg/dl.
+-	TC craneal multimodal: Estudio urgente que muestra hipodensidad en aspecto posterior de insula izquierda (ASPECTS 9/10) sugestiva de ictus isquémico agudo. Defecto de repleción de la división superior de la ACM izquierda (M3). Missmatch >20% a nivel frontal posterior izquierdo (M5) en territorio superficial de ACM izquierda.
+-	TC craneal control por deterioro neurológico: Estudio craneal sin cambios significativos en relación a estudio previo.
+
+
+UNIDAD ICTUS
+-	TC control 24h: Infarto establecido en territorio superficial y profundo de la ACM izquierda, ahora mejor definido y discretamente más extenso respecto al TC previo. No observamos hemorragia
+-	Analítica ingreso: nada destacable (se adjunta)
+-	Ecografía Doppler-dúplex color de arterias carótidas, vertebrales y transcraneal: Placas de ateroma en ambos bulbos carotideos sin repercusión hemodinámica. Resto de estudio sin objetiavrse alteraciones (no se visualizan ostiums, regular ventana acústica transtemporal bilateral insonando parcialmente arterias).
+
+EVOLUCIÓ CLÍNICA
+A su llegada a urgencias, la paciente se encuentra asintomática, pero mientra espera a ser atendida a las 00:00h inicia nuevo cuadro de afasia, con NIHSS a la exploración física de 6. Se realiza TC craneal multimodal (02:21) que muestra oclusión ACM izquierda en su segmento M3 con mismatch. Estando en período ventana y en ausencia de contraindicaciones se procede a la administración de rTPA 56 UI (6 UI bolus a las 00:3hh y 50 UI a las 00:37h) con control tensional adecuado tras sondaje vesical. En contexto de un episodio de hipotensión presenta un cuadro de empeoramiento clínico, que remite al normalizar cifras tensionales. Se realiza TC simple que no muestra complicaciones hemorrágicas. La paciente ingresa en unidad de ictus para control evolutivo.
+Durante su estancia en la Unidad, la paciente presenta una mejoría clínica progresiva. Se realiza TC control que muestra un pequeño infarto isquémico cerebral agudo segmentario de la ACM izquierda y un ecoDoppler con recanalización arterial. Un ECG realizado muestra una fibrilación auricular con frecuancia ventricular lenta de debut, por lo que se orienta la etiología como cardioembólica y se inicia anticoagulación con Edoxabán. Ante la estabilidad, se decide el alta hospitalaria con control por su cardiólogo y neurólogo de zona.
+
+NIHSS al alta: 1+1 mRS al alta=1
+
+ORIENTACIÓ DIAGNÒSTICA
+Infarto isquémico (PACI) ACM I de etiología cardioembólica Fibrilación auricular paroxística de debut
+
+PROCEDIMENTS
+TC craneal multimodal Fibrinolisis endovenosa TC craneal simple EcoDoppler TSA/TC
+
+Informe d'alta d'hospitalització
+
+
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Dieta sin sal. Actividad física diaria suave
+1.	Lixiana 60mg 1 comp/día vo
+2.	Omeprazol 1 comp/día vo
+
+Resto de su medicación habitual sin cambios
+
+CONTROL
+Control por Neurólogo de _SS_ el día 13 de Marzo del 2018 a las 9:20h.
+Se avisará telefónicamente o por carta para valoración por Cardiólogo _SS_.
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+21.12.2017
+Pàgina 1 de 3

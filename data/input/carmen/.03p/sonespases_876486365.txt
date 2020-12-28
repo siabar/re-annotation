@@ -1,0 +1,155 @@
+Fecha de Alta 
+18-04-2018
+
+Diagnosticos 
+- ECVA ISQUÉMICA: INFARTO EN TERRITORIO FRONTERA ACM D y ACP D (origen fetal), con buena evolución y mejoría espontánea, pasando de una NIHSS basal de 8 a 2 en las primeras horas.
+- ETIOLOGÍA INDETERMINADA POR COEXISTENCIA DE FACTORES:
+  . FA PERMANENTE
+  . ATEROSCLEROSIS CAROTIDEA BILATERAL
+
+Procedimientos 
+
+-Ingreso en Unidad de Ictus.
+-Los referidos en el informe.
+
+Motivo de ingreso
+
+Código Ictus externo.
+
+Alergias
+
+Sin Alergias Conocidas
+
+
+Problemas de Salud 
+ ICTUS ISQUEMICO; 
+ fibrilación auricular; 
+ neoplasia maligna primaria de la mama; 
+ arritmia cardíaca; La familia no aclara bien de que tipo. Tiene spray de nitroglicerina como tratamiento para ello.
+
+Antecedentes Médicos 
+
+- NO FRCV conocidos
+- No hábitos tóxicos
+- Situación basal: IABVD. mRS 0. De vacaciones en Mallorca.
+- Neoplasia maligna primaria de la mama intervenida.
+- Arritmia conocida desde hace 4años, en tratamiento con AAS +/- anticoagulante (?) que la propia paciente había retirado por cuenta propia hacía 3-4 semanas. Refiere que tiene spray de nitroglicerina como tratamiento para ello. [1]
+
+Tratamiento domiciliario 
+
+
+
+- Yinko biloba.
+- Spray de nitroglecerina. [2]
+- Antihipertensivos.
+
+
+
+
+Anamnesis
+
+
+
+Mujer de 83 años de vacaciones en Mallorca que acude traída por el 061 como código ictus por presentar desviación oculocefálica, desviación de la comisura bucal, disatria y hemiplejía izquierda en el momento de la recogida. A su llegada tendencia a la mejoría. Niega otra sintomatología asociada.
+
+Cronopatología:
+- Hora inicio síntomas 22:50
+- Hora activación C. ictus: 22:51
+- Hora llegada HUSE: 23:22
+- Hora TC 23:44; Informe 00:20
+- Hora llegada UI: 0:17 [3]
+
+
+
+
+Exploración
+
+
+
+-Constantes: 34.2ºC, Sat O2 98%, FC: 80 lat/min, TA: 159/76 mmHg, BMT: 111 mg/dL.
+
+- Neurológico: Consciente y orientada en tres esferas. Colaboradora. Barrera idiomática. Obede órdenes, impresiona de lenguaje fluido, no clara disatria. Pupilas isocóricas normorreactivas. Desviación oculocefálica derecha, que sobrepasa línea media en la mirada a la izquierda. Hemianopsia homónima por amenaza. Parálisis facial  supranuclear izquierda.  No alteración en movilidad lingual. No alteración en resto de PPCC. No claudica en Barré. Realiza contracción en MII sin llegar a realizar esfuerzo contra gravedad. No claras alteraciones en sensibilidad tactoalgésica. No extinción sensitiva.  No valoro dismetrías. Reflejo cutáneo plantar flexor derecho, extensor izquierdo. No exploro marcha.
+
+ESCALA NIH:
+1a. Nivel de conciencia:0. Alerta, responde
+1b. Preguntas LOC:0. Ambas son correctas
+1c. Ordenes LOC:0. Ambas son correctas
+2. Mirada conjugada:1. Paresia/limitación de la mirada
+3. Campos visuales:2. Hemianopsia completa
+4. Parálisis facial:2. Paresia parcial
+5a. Brazo derecho:0. No claudica
+5b. Brazo izquierdo: 0. No claudica
+6a: Pierna derecha: 0. No claudica
+6b: Pierna izquierda: 3. Sin esfuerzo gravitatorio pero con movimiento
+7. Ataxia:0. No ataxia (o en caso de hemiplejia o afasia severa)
+8. Sensibilidad:0. Normal
+9. Lenguaje:0. Normal
+10. Disartria:0. Normal
+11. Extinción:0. Sin alteración
+PUNTUACION TOTAL NIH:8
+
+Sistémico:
+- AR: MVC en ambos campos pulmonares sin ruidos sobreañadidos
+- AC: tonos arrítmicos, sin soplos ni extratonos.
+- ABD: blando y depresible. Persitaltismo conservado. No doloroso a la palpación. No palpo masas ni megalias. No signos de irritación peritoneal.
+- MMII: pulsos periféricos presentes y simétricos.Signos de IVC. [4]
+
+
+
+
+Resultados pruebas complementarias 
+
+
+
+- Analítica Sanguínea urgente: Hemograma (Hb 13,5 / Leucocitos 6,56/ Plaquetas 193000 ), coagulación básica (INR  1,13 ), bioquímica  (Glucemia 116 / Creatinina 0,82/ Urea 24/ Na 143/ K 3,7)
+
+- Rx tórax: En sedestación. Leve cardiomegalia. No alt. en marco óseo. No infiltrados en parénquima pulmonar.
+
+- ECG: ACxFA con FVM a 72 lpm, sin alt. agudas en la repolarización.
+
+- TC cerebro sin contraste urgente del 15-04-2018: No hay sangrado agudo intra ni extraaxial. Signos de atrofia cerebral difusa. No se ven alteraciones significativas en la densidad del parénquima cerebral. Estructuras de la línea media centradas. Sistema ventricular de tamaño y morfología normal. Cisternas de la base y perimesencefalicas permeables. TC Perfusión cerebral del 15-04-2018: En los mapas de perfusión se aprecia aumento del tiempo de transito parietooccipital derecho, sin afectación del flujo ni volumen cerebral. Angio-TC Arterias cerebrales y TSA del 15-04-2018: Importante ateromatosis calcificada en los troncos supraaórticos, que provoca estenosis significativa a nivel de la bifurcación de ambas carótidas Permeabilidad de ACM, ACA y ACP. Origen fetal de la ACP derecha. La arteria cerebral anterior izquierda tiene su origen en la arteria cerebral anterior derecha. Permeabilidad del eje vertebro basilar, con arteria vertebral derecha filiforme. Conclusión: Área de penumbra en el territorio frontera de la ACMD y ACP derecha sin infarto establecido.
+
+-Neurosonología: Estudio de dificil realización por movimientos constantes de la paciente.
+- EDTSA: Se insonan placas heterogeneas de predominio hipoecoico, calcificadas, concéntricas (de predominio en pared anterior en eje carotídeo derecho, y en pared posterior en eje carotídeo izq), desde origen de ambas ACCs que se prolongan hasta bifurcación y ambas ACIs y ACEs. No se objetivan aceleraciones de flujo que sugieran estenosis en ejes carotídeos, pero estudio de difícil realización por gran cantidad de artefacto del contenido cálcico de las placas y la inquietud física de la paciente.  AVs permeables y simétricas
+- No se realiza EDTC por condiciones de la paciente.
+CONCLUSIÓN:
+Ateromatosis carotidea moderada-severa. No se objetiva alteraciones hemodinámicas.  
+Nota: Dadas las dificultades técnicas, valorar solicitar reconstruciión 3D de angioTC. 
+
+-Serología:
+-Treponema Pallidum:  negativa
+
+-Analítica: Hemograma sin alteraciones, VSG: 23mm, Quick: 84% INR: 1.13, bioquímica sin alteraciones, a destacar Bilirrubina total de 1.7 a expensas de directa de 0.7 mg/dl, Colesterol total: 163mg/dl, Colesterol LDL: 90mg/dl, Colesterol HDL: 49mg/dl, Triglicéridos: 117mg/dl, HbA1.c: 5,6%
+ 
+-TAC Cerebral: Lesión hipodensa parieto-occipital derecha compatible con infarto agudo. No signos de sangrado. No otras alteraciones de densidad significativas en parénquima cerebral.    Sistema ventricular de tamaño y morfología normal centrado en línea media. Estructuras de fosa posterior normales. Cisternas basales permeables.  
+Conclusión.- Lesión isquémica aguda. No signos de sangrado. 
+
+
+
+
+Evolución Hospitalaria 
+
+
+
+A su llegada a nuestro centro la paciente presenta NIHSS de 8 compatible con una afectación parcial de ACMD. Durante su estancia en urgencias presenta tendencia a la mejoría presistiendo una hemianopsia homónima izquierda y una asimetría facial izquierda con una NIHSS total de 3 puntos. Ante la mejoría clínica se desestima la realización de tratamiento agudo de reperfusión. La paciente ha permanecido monitorizada en Unidad de Ictus, clínicamente estable y sin eventos reseñables.  
+La etiología del evento es indeterminada por coexistencia de factores, ya que presenta ateromatosis carotídea bilateral (aunque no presenta estenosis hemodinámicamente significativas a nivel cervical, sí las presenta a nivel de ambos sifones carotídeos en angioTAC) así como una FA de base. La paciente refiere haber suspendido durante las últimas semanas una medicación "para el corazón" que no es capaz de recordar (podría tratarse de medicación antiagregante/anticoagulante).
+Ante la presencia de un infarto establecido parietal derecho en el TAC de control, se decide demorar el inicio de la anticoagulación por el momento, que deberá valorarse en su centro médico habitual (debe además valorarse previamente la posibilidad de cumplimiento terapéutico, ya que la paciente presenta durante el ingreso cierta tendencia a la desorientación con episodios de agitación psicomotriz que podrían deberse a un deterioro cognitivo incipiente subyacente).
+Dada la estabilidad clínica, tras salida de Unidad de Ictus y ajuste terapéutico, damos alta para seguimiento ambulatorio. Se recomienda consultar con su médico habitual tan pronto se encuentre de vuelta en su país de origen.
+Se informa a la paciente y familiar de la recomendación de no viajar en avión hasta transcurridos diez días desde el evento vascular. 
+
+
+
+
+Recomendaciones y tratamiento al alta 
+
+-Se recomienda dieta POBRE EN SAL rica en fruta, verdura, pescado azul, condimentada con aceite de oliva. Se desaconseja la ingesta de grasas animales y azúcares refinados.
+-Se recomienda el abandono del hábito tabáquico, NO PERMANECER EN AMBIENTES CARGADOS DE HUMO DE TABACO ASÍ COMO EVITAR LA INGESTA EXCESIVA DE ALCOHOL.
+-Se recomienda realizar ejercicio moderado que tolere.
+-Se aconseja control estricto de factores de riesgo vascular por médico habitual. 
+-Se recomienda consultar con su médico habitual tan pronto se encuentre de vuelta en su país de origen para valorar inicio de anticoagulación.
+-Se informa a la paciente y familiar de la recomendación de no viajar en avión hasta transcurridos diez días desde el evento vascular.
+
+Tratamiento médico al alta: 
+-Ácido acetilsalicílico (Adiro 100 mg).
+-Omeprazol 20 mg 20 minutos antes del desayuno.
+-Atorvastatina 40 mg 0-0-1.

@@ -1,0 +1,115 @@
+_LOCATION_
+_LOCATION_) Anul·lació/Reprogramació visites:_CONTACT_
+Telèfon Centraleta: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 75 Anys
+NIF/DNI: _ID__NAME_; _NAME_
+Informe d'alta d'hospitalització
+CP	_LOCATION_
+ABS	_SS_
+Servei	NEUROLOGIA
+Data d'alta  27.07.2017	16:00:00
+_LOCATION_
+_CONTACT_
+DOMICIL/RES.SOC 20.07.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Código ictus
+
+ANTECEDENTS
+Sin AMC
+No refiere hábitos tóxicos
+HTA, DLP y DM en tratamient médico. No cardioneumopatías conocidas.
+Artrosis. No otros AP a destacar.
+Situación basal: independiente para ABVd, movilidad limitada por artrosis, camina con ayuda de muleta. Cuidadora en casa que le ayuda en las tareas de la casa. mRankin 2
+
+
+MEDICACIÓ HABITUAL
+Amitriptilina, amlodipí, captopril/HCTZ, fluoxetina, duloxetina, gliclazida, pregabalina,  metformina, tapentadol, simvastatina.
+
+PROCÉS ACTUAL
+Mujer de 75 años que el dia 20.07.17, mientras estaba acompañada por familiares, a las 12:30h objetivan alteración del habla con lenguaje incomprensible y hemiplejia derecha. Avisna al médico quien acude a domicilio y según refieren presenta mejoría clínica hasta quedar asintomática. Cuando llega el SEM presenta de nuevo hemiplejia derecha por lo que se activa código ictus. Paciente aleatorizado en estudio RACECAT nº _ID_, siendo derivada a _SS_ activándose traslado a las 14:05h. Llega a urgencias de _SS_ a las 15:15h. A su llegada presenta un vómito. TC craneal a las 15:31h.
+
+A la valoración por Neurología de guardia el paciente se encuentra HTA con TA 190/111 mmHg, DXt 145 mg/dL. NRL: consciente, dices y edad, disartria severa (2), nomina 5/5, evoca 5/5, comprende dos órdenes simples, MOEs normales. Campimetría por confrontación normal. PFSN D (2). hemiplejia derecha (4+4), sensibilidad táctil conservada. Extinción sensitiva (1). BBK derecho, RCP flexor izq. NIHSS 13
+
+Se realiza TC Craneal que no muestra lesiones isquémicas ni hemorrágicas agudas. Ante ausencia de contraindicaciones y encontrándose en periodo ventana se realiza trombolisis. Bolus 6mg+61mg en perfusión. A las 15:55h con TA 144/33 mmHg.
+
+Como pruebas complementarias se realiza analítica con glucosa 8.6 mmol/L, urea 8.2 mmol/L, creatinina 103 umol/L, ionograma normal, coagulación ok. Leucocitosis de 16300 con neutrofilia de 12770. El Tc craneal y angioTCEstudio no muestran signos sugestivos de isquemia aguda (ASPECTS 10), ni alteraciones significativas en la circulación arterial. Cambios involutivos en parénquima encefálico con signos de hipoperfusión crónica de la sustancia blanca.
+ECG: ritmo sinusal a 75 lpm, PR 0.20s, QRS estrecho, sin alteraciones agudas de la repolarización. Rx de tórax: rotada, mal inspirada, ICT < 0.5, no condensaciones.
+
+Informe d'alta d'hospitalització
+
+
+
+
+OD: posible ictus de ACM izquierda, etiología a estudio PLAN: ingresa en NRL. Unidad de ictus.
+
+EXPLORACIÓ FÍSICA
+
+TA 159/89mmHg FC 71lpm Tº 36.6ºC SatO2 99%
+
+NRL: vigil, consciente, orientada en TEP; responde a órdenes simples y complejas, anartria (2) lenguaje no valorable, PICNR, MOEs conservados, nistagmus izquierdo leve agotable, PFSN derecha (2), plejia brazo derecho (4), paresia con espasticidad EID (3). NIH 11.
+AC: rítmica, no ausculto soplos
+AP: murmulo vesicular conservado, sin ruidos sobreañadidos Abdomen: anodino
+EEII: no edemas ni signos de TVP
+
+
+EXPLORACIÓ COMPLEMENTÀRIA
+Pruebas en Urgencias de _SS_:
+TC simple i angioTC: No se observan signos de sangrado intra o extraaxial. Ausencia de áreas de desdiferenciación corticosubcortical (ASPECTS 10) sugestivos de cambios por isquemia aguda. Ensanchamiento de surcos y cisuras que se asocia a una dilatación proporcional del sistema ventricular, en relación a cambios involutivos del parénquima cerebral. Hipodensidad de la sustancia blanca  de predominio periventricular, de distribución simétrica y que no muestra efecto de masa, en relación con hipoperfusión crónica. No se detectan otras alteraciones significativas en la densidad del parénquima cerebral. Estructuras de la línea media supra e infratentoriales centradas. AngioTC: Moderada ateromatosis calcificada en orígenes de troncos supraaórticos y bifurcaciones carotídeas, sin estenosis significativas. Permeabilidad de sistema arterial vertebrobasilar. No se identifican defectos de repleción u otras alteraciones significativas de la circulación arterial intracraneal. Moderada ateromatosis calcificada de sifones carotídeos. CONCLUSIONES: Estudio sin evidencia de signos sugestivos de isquemia aguda (ASPECTS 10), ni alteraciones significativas en la circulación arterial. Cambios involutivos en parénquima encefálico con signos de hipoperfusión crónica de la sustancia blanca.
+Analítica: Equilibrio venoso conservado. Cr 103 umol/L, urea 8,2 mmol/L, coagulación e ionograma normales. Hb 146 g/L. Plaquetes 355.000/uL. Leucòcits 16.300/uL amb lleu desviació esquerra.
+ECG: RS a 80lpm, PR 160ms, QRS estret amb eix -30º. No alteracions significatives a repolarització.
+Rx de tórax: AP en decúbit, molt rotada. A grans trets no s'observen masses ni condensacions, encara que es una Rx molt rotada (que repetim i tècnicament no és millor) i poc valorable en aquest aspecte.
+
+Pruebas en Unidad de ictus:
+TAC craneal post-trombolisis: Sin cambios respecto  estudio previo. No signos de sangrado ni alteraciones densitométricas sugestivas de isquemia subaguda.
+Analítica (24/07):
+Bioquímica: Urea 4.9 mmol/l, Creatinina 87 umol/L, FG 56 ml/min, Na+ 141 mmol/L, K+ interferencia por hemólisis, Glucosa 7.0 mmol/L, AST y ALT interferencia por hemólisis, Albúmina 41 g/L, Bilirubina 7 umol/L, GGT, FA, Fosfato interferencia por hemólisis.
+Perfil lipídico no valorable por hemólisis. Perfil tiroideo dentro de la normalidad.
+Hemograma: Eritrocitos 4.45x10^12/L, Hb 136g/L, Hto 40.10%, VCM 90fL, HCM 31pg, CHCM 339g/L, Plaquetas
+
+Informe d'alta d'hospitalització
+
+
+
+
+350/L, Leucocitos 11.8/L, Neutrófilos 7.89/L, Linfocitos 2.25/L, Monocitos  1.10/L, Eosinófilos 0.48/L, Basófilos 0.05/L. T.
+Coagulación: TP 1.10, TTPA 0.87, INR 1.10
+Analítica (25/07): K+ 3.96 mmol/L, GGT 0.36 ukat/L, Fosf alcalina 1.51 ukat/L, fosfato 1.43 mmol/L
+perfil lipídico: colesterol 4.20 mmol/L, HDL 0.98 mmol/L, LDL no valorable por concentración de triglicéridos, Triglicéridos2.64 mmol/L.
+Rx femur esquerre (infomre oral): No parece haber signos de fractura pero destaca posible falta de alineacion sacro con cresta iliaca.
+
+EVOLUCIÓ CLÍNICA
+Ingresa en el _SS_ para valoración como paciente aleatorizado en estudio RACECAT nº _ID_.
+
+Tras la valoración por Neurología de guardia, se decide tratamiento en fase aguda con r-TPA.
+A las 24h, la paciente se encuentra vigil, consciente, orientada en TEP; responde a órdenes simples y complejas, anartria (2) lenguaje no valorable, PICNR, MOEs conservados, nistagmus izquierdo leve agotable, PFSN derecha (2), plejia brazo derecho (4), paresia con espasticidad EID (3). NIH 11.
+
+Se realiza un TAC a las 24h post-trombolisis en el que no muestra sangrado agudo y evidencia imagen de posible lacunar en hemiprotuberancia izquierda.
+
+Se orienta el caso como aparente infarto incipiente en hemiprotuberancia izquierda. Se inicia antiagregación con AAS 100mg/24h
+
+Se envía el presente informe a su hospital de referencia el 21 de julio para valorar traslado el próximo lunes. Paresia extremidad derecha facio (2) - braquio 0/5 (4) y crural 2/5 (3). Se solicita Rx pelvis por referir desde dias previos al ictus por caida casual dolor en cresta iliaca izqueirda, con Rx de urgencia que no parece evidenciar fractura pero pendiente de otra Rx con proyección y visión de sacroiliacas que será importante confirmar de cara a rehabilitación posterior. De acuerdo con familia realizamos traslado a _SS_.
+
+DIAGNÒSTICS
+436/5 Ictus protuberancial lacunar.
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Se adjunta.
+En caso de dudas sobre medicación llamara al. _CONTACT_ (Unidad 9.2).
+
+DESTINACIÓ A L'ALTA:	HOSP. AGUTS/PSQ
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+27.07.2017
+Pàgina 1 de 3

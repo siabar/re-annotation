@@ -1,0 +1,142 @@
+_LOCATION_ Telf Consultes: _CONTACT_ / _CONTACT_
+Telf Centraleta Hospital: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 72 Anys
+NIF/DNI: _ID__NAME_, _NAME_
+Informe de Trasllat a Sociosanitari
+CP	_LOCATION_
+ABS	_SS_
+Servei	NEUROLOGIA
+Data d'alta  14.08.2017	09:30:01
+_LOCATION_
+_CONTACT_
+DOMICIL/RES.SOC 27.07.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Home de 72 anys que ingressa per ictus isquèmic. diencefàlic
+
+ANTECEDENTS
+-	No al·lèrgies medicamentoses conegudes.
+-	No hàbits tòxics.
+
+-	Hipertensió arterial, en tractament.
+-	Dislipèmia, en tractament.
+-	Nega Diabetis Mellitus.
+-	ACxFA crònica, anticoagulada amb Sintrom.
+-	Isquèmia  extremitat  inferior  esquerra  cardioembòlica  d'artèria  femoro-poplítea   esquerra  (07/2016)   amb embolectomia efectiva.
+-	Oclusió artèria vertebral esquerra.
+-	Ictus previs en territori cerebel·l esquerre (2006) -des de llavors en tractament amb Zonisamida- i ACM dreta.
+-	Fractura radi dret distal, portador de fèrula de guix.
+-	IQ: no consta.
+
+-	Situació basal prèvia: autònom per a les activitats bàsiques de la vida diària. Conduia. Rankin 0.
+
+MEDICACIÓ HABITUAL
+Sintrom sp, Amlodipina 5mg/24h, Losartan 100mg/24h, Omeprazol 40mg/día, Zonisamida 25mg/dia, Atorvastatina 80 mg/dia.
+
+PROCÉS ACTUAL
+Home de 72 anys, amb els antecedents descrits, que el dia 27/07/2017 a les 16:30 hores ha anat a fer la migdiada trobant-se bé. A les 18 hores, la família el troba amb disminució del nivell de consciència i debilitat a hemicós esquerre, motiu pel qual s'activa el SEM.
+A la seva arribada a Urgències del nostre centre a les 19:36h, el pacient es troba afebril, TA 150/89 mmHg, FC 88bpm i SatO2 98%. Neurològicament, destaca disminució del nivell de consciència, no obre els ulls de forma espontània, obeeix ordres senzilles, parèsia facial esquerra, desviació ocular a la dreta, hemianòpsia homònima esquerra per amenaça, mutisme, hemiparèsia esquerra 4/5 i Babinski esquerre. NIHSS 13. Es realitza TAC cranial urgent que mostra infart antic a nivell hemisferi cerebelós esquerre, infarts antics a nivell de territori frontera ACM dreta. Angio IC i TSAO sense oclusions. Analíticament, destaca INR 3,5.
+S'orienta el quadre coma ICtus isquèmic no tributari de tractament trombolític ev per alteració en la coagulació ni susceptible de tractament endovascular. Es suspèn anticoagulació per risc de transformació hemorràgica fins a control amb neuroimatge en 48-72h i ingressa a UCIm per a monitorització.
+
+EXPLORACIÓ FÍSICA
+
+FC    bpm	FR     rpm	TA s    129 mmHg	TA d   92 mmHg
+
+Informe de Trasllat a Sociosanitari
+
+
+
+
+Tªaxi 37.0 ºC	Tªrec  ºC	SAT O2 98 %	Pes Kg Regular estat general, afebril. Normocolorejat i normohidratat.
+-	AC: tons arrítmics, no ausculto bufs ni frecs.
+-	AR: adequada mecànica respiratòria, bona entrada d'aire bilateral amb hipofonesis en ambdues bases, roncus dispersos bilaterals.
+-	NRL: Conscient però amb tendència a la somnolència, despertar al estimul verbal intens i tactil. Disartria severa. Compren ordres, diu el seu nom amb dificultat. Campimetria per amenaça aparentment conservada. Ptosi palpebral bilateral que impressiona de constitucional previa. Lleu paresia facial central esquerra. Oftalmoplegia amb limitació de la mirada vertical i limitació de ADD UD i ABD UE. Paresia crural esquerra 4+/5. Babinski E. RCP D flexor. Refereix sensibilitat conservada.
+-	ABD: tou i depressible, no dolorós a la palpació, no masses ni megàlies. Peristaltisme conservat.
+-	EEII: no edemes ni signes de TVP. Polsos pedis presents i simètrics.
+-	portador de guix a avantbraç dret per fisura a radi distal.
+
+EXPLORACIÓ COMPLEMENTÀRIA
+A/S Urgències (27/08/2017):
+-	BQ: Creatinina 1.17 mg/dL, Glucosa 106 mg/dL, K 3.7 mEq/L, Na 142 mEq/L, PCR 0.4 mg/dL, Urea 49 mg/dL.
+-	Hemostàsia:  INR 3.51, T.protrombina 38.4 seg, Raó T.protrombina 3.56, TTPA 35.6 seg, Raó TTPA 1.14,
+Fibrinogen 550 mg/dL.
+-	Hemograma: Hemoglobina 12.2 g/dL, Hematòcrit 36.7 %, VCM 86.8 fL, ADE 15.1 %, CCMH 33.2 g/dL, HCM 28.8 pg, Leucòcits 7590/mL amb fòrmula normal, Plaquetes 257000/mL.
+A/S UCIm (02/08/2017):
+-	BQ: Creatinina 0.90 mg/dL, Glucosa 101 mg/dL, K 3.4 mEq/L, Na 143 mEq/L, Urea 30 mg/dL.
+-	Hemostàsia:  INR 1.17, T.protrombina 12.7 seg, Raó T.protrombina 1.18, TTPA 27.2 seg, Raó TTPA 0.87,
+Fibrinogen 828 mg/dL.
+-	Hemograma: Hemoglobina 12.8 g/dL, Hematòcrit 38.4 %, VCM 86.7 fL, ADE 15.3 %, CCMH 33.3 g/dL, HCM 28.9 pg, Leucòcits 9070/mL amb fòrmula normal, Plaquetes 315000/mL.
+-	GSV: pCO2 39.4 mmHg, pO2 73.5 mmHg, pH 7.406, Bicarbonat efectiu 24.2 mmol/L, EB -0.5 mmol/L, SatO 94.9
+%, Ió calci (II) 1.23 mmol/L, Clorur 109 mEq/L, Lactat 1.08 mmol/L, Bilirubina <2 mg/dL.
+A/S Neurologia (03/08/2017):
+-	BQ: GLu 79 mg/dl; Col 156 mg/dl, LDL 95 mg/dl; GGT 86 U/L. PCR: 7
+-	Hemograma: Normal
+
+ECG (27/07/2017): FA a 84bpm, sense alteracions agudes de la repolarització.
+
+TAC i angioTAC cranial (27/07/2017): Àrees hipodenses cortico-subcorticals frontal i parieto-temporal dretes, i extensa a la regió postero-inferior de l'hemisferi cerebel·lós esquerre, afectant també l'amígdala i hemivermis (lesions isquèmiques antigues). Hipodensitat focal protuberancial paramedial esquerra (infart lacunar antic) Fossa posterior i parènquima cerebral sense altres alteracions morfològiques ni densitomètriques valorables. No desplaçaments significatius de les estructures de línia mitja supra i infratentorial. No s'observen lesions hemorràgiques intra ni extraparenquimatoses. Dilatació global i simètrica del sistema ventricular, valls silvians i solcs corticals de la convexitat. Cisternes basals i peritronculars lliures. Calcificació grollera de la falç. A l'estudi
+
+Informe de Trasllat a Sociosanitari
+
+
+
+
+angio-TC: No s'observen oclusions arterials. Calcificacions a l'ostium d'ambdues ACIs, sense estenosis significatives. Origen fetal de l'ACP dreta i hipoplàsia del segment V4 de l'artèria vertebral esquerra, variants anatòmiques. CONCLUSIÓ: No s'observen signes de patologia aguda. Angio-TC sense troballes significatives. Infarts antics hemisfèrics drets (als territoris frontera ACA-ACM i ACM-ACP) i cerebel·lós esquerre (territori PICA). Signes d'atròfia cerebral difusa.
+TAC cranial de control (31/07/2017): Aparició de lesió hipodensa mesencefàlica paramedial dreta, suggestiva de lesió isquèmica en fase subaguda. També objectivem aparició de lesió hipodensa a braç posterior de la càpsula interna esquerra que afecta mínimament el marge anterior del tàlam, suggestiu de lesió isquèmica subaguda. No hi ha signes de transformació hemorràgica. Àrees hipodenses cortico-subcorticals frontal i parieto-temporal dretes, i extensa a la regió postero-inferior de l'hemisferi cerebel·lós esquerre, afectant també l'amígdala i hemivermis (lesions isquèmiques antigues). Hipodensitat focal protuberancial paramedial esquerra (infart lacunar antic). Fossa posterior i parènquima cerebral sense altres alteracions morfològiques ni densitomètriques valorables. No desplaçaments significatius de les estructures de línia mitja supra i infratentorial. Dilatació global i simètrica del sistema ventricular, valls silvians i solcs corticals de la convexitat. Cisternes basals i peritronculars lliures. Calcificació grollera de la falç. CONCLUSIÓ: Aparició de dues lesions isquèmiques en fase  subaguda, una mesencefàlica paramedial dreta i l'altra a banya posterior de la càpsula interna esquerra, sense signes de transformació hemorràgica.
+
+EVOLUCIÓ CLÍNICA
+El pacient s'ha mantingut esable a nivell NRL durant l'ingrés.
+A l'alta: Alerta ( fluctua el nivell de consciència al llarg del dia). Ptosi Dreta. Oftalmoplègia dreta complerta. Nistagme ABD ull E. Disàrtria molt severa. Apnees freqüents. Hemiparèsia E FBC E 4/5. Babinski E.  Durant els primers dies va requerir SNG i nutrició enteral. Posteriorment ha tolerat dieta triturada. Ha iniciat sedestació i tractament rehabilitador amb bona tolerància.
+Com a complicacions:
+1.	Distensió abdominal: a l'alta abdomen tou i depressible, lleugeramtn distès. TImpànic a la palpació, no és dolorosa. Peristaltisme present. .RX tórax: distensió de nanses amb presència d'aire a nivell d'amporlla rectal. Valorat per Cirurgia han recomanat enemes i sondange rectal intermitent. Milloria parcial dels símptomes.
+2.	Abundants secrecions respiratòries que requereixen aspiració freqüent
+
+Home de 72 anys amb antecedents d'ACXFA i ictus previs que ingressa per ictus isquèmic a nivell mesencefàlic. No es va poder realitzar trombolisi per INR > 3 i abscència d'oclusió de gran vas. Durant l'ingrés s'ha iniciat tractament amb Dabigatran.
+
+DIAGNÒSTICS
+436/5 Ictus diencefàlic. Origen cardiomebòlic. NIHSS 7. Rankin 4. 796.2/2 Hipertensió arterial sense diagnòstic HTA crònica 427.31/2 Fibril.lacio auricular
+342.90/2 Hemiparesia
+438.13 Disàrtria, efecte tardà de l'AVC
+
+PROCEDIMENTS
+89.52 Electrocardiograma. ECG NOS, ECG (amb 12 o més derivacions)
+89.52 Electrocardiograma. ECG NOS, ECG (amb 12 o més derivacions)
+87.03 Tomografia axial computada de cap. TAC de cap
+89.08 Altra consulta
+
+Informe de Trasllat a Sociosanitari
+
+
+
+
+89.08 Altra consulta
+88.19 Altra radiografia d'abdomen. Placa simple d'abdomen
+89.08 Altra consulta
+87.44 Radiografia rutinària de tòrax, descrita com a tal. Radiografia de tòrax NOS
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+1.	Dieta fàcil masticació cardioprotectora
+2.	Dabigatran 150 mg/12h vo
+3.	Enalapril 10 mg/matí /24h
+4.	Omeprazol 20 mg/24h vo 6.Lactitol 1 _NAME_/_NAME_/24h
+7.	Enema si precisa
+8.	Paracetamol 1g/8h si dolor.
+9.	Atorvastatina 40 mg/24h vo
+
+DESTINACIÓ A L'ALTA:	SOCI SANITARI
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+14.08.2017
+Pàgina 1 de 4

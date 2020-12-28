@@ -1,0 +1,90 @@
+I.CLINIC DE NEUROCIÈNCIES NEUROLOGIA
+
+_NAME_		NHC: _ID_
+Sexo/Sexe: Fem.	Fecha nac./Data naix.: _DATE_	Edad/Edat: 87 años
+Dirección/Adreça: _LOCATION_		CP: _LOCATION_
+Municip. (Prov.): _LOCATION_  ABS:_SS_		Tel.:_CONTACT_ FRANCI
+As.: SERVEI CATALA DE LA SALUT	CIP: _ID_	
+Nº epis.: _ID_	Tipo/Tipus: HOSPIT.	Inici.: 27.06.2017
+Serv: NEUROLOGIA	UO Enf.: I064 SALA G DE NEUROL. INTE	Hora: 21:31:16
+
+
+Tipo ingreso/Tipus ingrés: Urgent	Motivo/Motiu alta: Defunc.
+Diag.:
+HEMORRAGIA INTRACEREBRAL (431) CLONIAS EN EXTREMIDADES IZQUIERDAS () BRONCOASPIRACIÓN ()
+Proc.:
+TC CRANEAL MULTIMODAL. ()
+
+
+
+
+INFORME EXITUS
+
+Motivo de consulta / Motiu de consulta
+Mutismo, debilidad de extremidades derechas de inicio indeterminado.
+
+Antecedentes e historia previa / Antecedents i història prèvia
+Mujer de 87 años, independiente para las actividades básicas de la vida diaria (mRs: 2). Vive sola en domicilio. No hábitos tóxicos.
+
+
+*ANTECEDENTES PATOLÓGICOS:
+
+1. HIPERTENSIÓN ARTERIAL en tratamiento farmacológico.
+
+
+*TRATAMIENTO HABITUAL: hidroclorotiazida (se desconocen dosis).
+
+Proceso actual / Procés actual
+Acude a urgenias por mutismo y debilidad de extremidades derechas. Vista con dicha sintomatología a las 20h del día 27/6, junto con traumatismo craneoencefálico. Última vez vista asintomática a las 13h del mismo día.
+
+Exploración física / Exploració física
+27/06/2017-22:00:00: Frecuencia respiratoria (rpm) 18, PAS (mm Hg) 118, PAD (mm Hg) 64, Pulsioximetría (%) 94, Tª axilar (ºC) 36.1.
+NRL: Ojos cerrados de manera espontánea, sin apaertura ocular. Mutista. Desviación oculocefálica a la izquierda, con reflejo de amenaza derecho abolido. Paresia facio (mod)-braquio (0/5)-crural (1/5) derecha, con movimiento al dolor en pierna. Dismetrías no valorables. NIHSS 23.
+
+
+Laboratorio / Laboratori
+De urgencias: Creatinina 0.95 mg/dL, natremia 148 mEq/L, 12.66 10^9/L leucocitos, sin alteraciones en serie roja ni hemostasia.
+Al ingreso: PCR 3.37 mg/dL. Glucosa 140 mg/dL. Creatinina 0.77 mg/dL; filtrado 70 mL/min. Úrico 5.1 mg/dL. Colesterol total 244 mg/dL; TG 99 mg/dL; LDL 185 mg/dL; HDL 39 mg/dL. CK 513 U/L. Hemograma sin alteraciones. VSG 26 mmm/h. HbA1c 5.8%. TSH 0.330 MUI/L; FT4 1.66 ng/dL.
+
+Radiología / Radiologia
+*TC CRANEAL: gran hematoma fronto-parieto-temporal izquierdo, con moderado edema vasogénico asociado, que ejerce efecto masa sobre los surcos adyacentes y sobre el ventrículo  lateral izquierdo. Discreta contaminación hemática del VLI (asta temporal). Desplazamiento de la línea media aproximadamente 6 mm hacia la derecha. HSA en convexidad izquierda que se extiende a través de la cisura interhemisférica. Focos de HSA en algunos surcos parietales y frontales derechos. Pequeños focos de contusión agudos bilaterales de predominio parietal derecho, frontobasal parasagital derecho y parietal y temporal izquierdos. Hematoma subdural temporal izquierdo, de 6 mm de diámetro transverso máx. PERFUSIÓN: caída de CBF y CBV en el área correspondiente al hematoma. Retraso del TTP en todo el hemisferio cerebral izquierdo. ANGIO-TC EXTRA E INTRACRANEAL: Sin estenosis ni oclusiones significativas. No mañlformaciones vasculares.
+
+Evolución / Evolució
+1.	HEMATOMA CEREBRAL LOBAR FRONTOPARIETOTEMPORAL IZQUIERDO.
+A su llegada a urgencias tendencia a la hipertensión arterial moderada (TAS 166 mmHg) y afebril. A la exploración síndrome hemisférico izquierdo extenso (NIHSS 23) y traumatismo cráneofacial asociado. Analítica sanguínea con creatinina 0.95 mg/dL, hipernatremia de 148  mEq/L y leucocitosis de 12000 a expensas de neutrofilia. ECG en ritmo sinusal sin alteraciones en la repolarización. La neuroimagen (TC craneal) muestra gran hematoma intraparenquimatoso lobar frontoparietotemporal izquierdo de 180 cc con apertura al sistema subaracnoideo y focos de contusión fronto-occipitales derechos, sin alteraciones en las secuencias vasculares.
+Se trata de un hematoma lobar de probable etiología amiloide por localización en una paciente con antecedentes de hipertensión arterial. Se comenta con neurocirugía, desestimándose intervención quirúrgica por localización y afectación extensa.
+Dada la extensión de la lesión y la irreversibilidad clínica se comenta con la familia y, de acuerdo con ellos, se priorizan medidas de confort. Durante su estancia en la unidad de ictus la paciente evoluciona de forma desfavorable, siendo exitus letalis el 29/6 a las 11.10h.
+
+2.	CLONIAS DE EXTREMIDADES IZQUIERDAS.
+Durante su estancia en la unidad de ictus se evidencias clonias en extremidades izquierdas, por lo que se inicia tratamiento con levetiracetam con carga ajustada a función renal logrando remisión completa.
+
+3.	BRONCOASPIRACIÓN.
+Durante el ingreso en neurología se observa pico febricular de 37,4ºC. En la exploración física se evidencia auscultación pulmonar patológica con abundantes secreciones, siendo altamente probable una neumonía broncoaspirativa. Dada la gravedad de la clínica neurológica se desestiman medidas diagnóstico-terapéuticas invasivas.
+
+Plan terapéutico / Pla terapèutic
+.
+
+Otras recomendaciones / Altres recomanacions
+.
+
+
+
+
+Firma/Signatura1: _NAME_	Firma/Signatura2: _NAME_ Categoría: Resident 4	Categoría: Especialista
+Nº Matrícula _SS_: _ID_	Nº Matrícula _SS_: _ID_
+
+Fecha/Data Informe: 29.06.2017
+Hora Informe: 11:25:30
+
+Docum.: _ID_
+Hist. Clínica: _ID_
+El _SS_ ha incorporado sus datos al Fichero de Pacientes, para tratarlos con fines sanitarios.
+Puede ejercer sus derechos de acceso, rectificación, cancelación y oposición, así como obtener mas información en la Unidad de Atención al Cliente.
+Vers. 00
+Pag. 2 de
+3
+Episod.: _ID_
+_SS_ ha incorporat les seves dades al Fitxer de Pacients, per a tractar-los amb finalitats sanitàries. Pot exercir els seus drets d'accés, rectificació, cancel·lació i oposició, i obtenir més informació a la Unitat d'Atenció al Client.
+_SS_
+_LOCATION_) _LOCATION_) Tel. _CONTACT_ Fax _CONTACT_
+http://_CONTACT_/

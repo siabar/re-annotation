@@ -1,0 +1,43 @@
+T1	_SUG_Ictus_isquemico 67 72	Ictus
+T2	Fecha_de_ingreso 322 332	18/10/2017
+#2	AnnotatorNotes T2	2017-10-18
+T3	Fecha_llegada_hospital 405 415	18/10/2017
+#3	AnnotatorNotes T3	2017-10-18
+T4	Fecha_de_alta 444 454	23/10/2017
+#4	AnnotatorNotes T4	2017-10-23
+T5	Fecha_inicio_sintomas 563 568	18/10
+#5	AnnotatorNotes T5	2017-10-18
+T6	Hora_inicio_sintomas 588 593	14:30
+#6	AnnotatorNotes T6	14:30
+T7	_SUG_Lateralizacion 645 655	izquierdas
+T8	_SUG_Lateralizacion 890 899	izquierdo
+T9	FECHA 1143 1147	2013
+#9	AnnotatorNotes T9	2013-UNDEF-month-UNDEF-day
+T11	_SUG_Lateralizacion 1618 1627	izquierda
+T12	_SUG_Lateralizacion 1802 1811	izquierda
+T13	_SUG_Lateralizacion 1850 1859	izquierda
+T14	_SUG_Lateralizacion 1915 1924	izquierdo
+T15	_SUG_Lateralizacion 1933 1940	derecho
+T16	_SUG_Lateralizacion 1963 1972	izquierdo
+T17	_SUG_Lateralizacion 1978 1985	derecho
+T18	_SUG_Arteria_afectada 2083 2086	ACP
+T20	NIHSS_previa 2137 2144	NIHSS 3
+T21	FECHA 2922 2925	1/2
+#21	AnnotatorNotes T21	2013-02-01
+T22	TAC_craneal 3282 3292	TAC craneo
+T24	_SUG_Lateralizacion 3631 3640	izquierdo
+T25	_SUG_Lateralizacion 3834 3843	izquierdo
+T27	_SUG_TAC_craneal 4304 4314	TC craneal
+T28	_SUG_TAC_craneal 4329 4331	TC
+T29	SECCION_MOTIVO_DE_INGRESO 458 476	MOTIVO DE CONSULTA
+T30	SECCION_TRATAMIENTO_HABITUAL 1257 1277	Tratamiento habitual
+T31	SECCION_EXPLORACION_FISICA 1352 1370	EXPLORACIÓN FÍSICA
+T32	SECCION_EXPLORACIONES_COMPLEMENTARIAS 2146 2175	EXPLORACIONES COMPLEMENTARIAS
+T33	SECCION_EVOLUCION 3420 3429	EVOLUCIÓN
+T34	SECCION_DIAGNOSTICO_PRINCIPAL 4204 4216	Diagnósticos
+T35	SECCION_PROCEDIMIENTOS 4286 4300	Procedimientos
+T10	SECCION_ANTECEDENTES 989 1005	HISTORIAL MEDICO
+#1	AnnotatorNotes T20	3
+T19	SECCION_TRATAMIENTO_AL_ALTA 4385 4404	Tratamiento al alta
+T23	SECCION_RECOMENDACIONES 4583 4598	Recomendaciones
+T26	SECCION_CONTROL 5060 5067	Control

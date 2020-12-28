@@ -1,0 +1,107 @@
+I.CLINIC DE NEUROCIÈNCIES NEUROLOGIA
+_NAME_	NHC: _ID_
+
+
+Sexo/Sexe: Masc.	Fecha nac./Data naix.: _DATE_	Edad/Edat: 55 años Dirección/Adreça: _LOCATION_	CP: _LOCATION_
+Municip. (Prov.): _LOCATION_  ABS:_SS_	Tel.:_CONTACT_
+As.: SERVEI CATALA DE LA SALUT	CIP: _ID_	NASS: _ID_
+Nº epis.: _ID_	Tipo/Tipus: HOSPIT.	Inici.: 08.12.2017
+Serv: NEUROLOGIA	UO Enf.: I064 SALA G DE NEUROL. INTE   Hora: 16:18:36 Facult. de ref.: _NAME_
+
+
+
+
+Tipo ingreso/Tipus ingrés: Urgent	Motivo/Motiu alta: Dom. Familiar
+Diag.:
+OCLUSION DE ART. CEREBRAL NO ESPECIF. CON INFARTO CEREBRAL (434.91) FRACTURA DE ESCAFOIDES TARSAL ()
+DISLIPEMIA ()
+Proc.:
+RMN CEREBRAL () TC CEREBRAL ()
+ECOCARDIOGRAMA TRANSESOFÁGICO. ()
+
+
+
+
+INFORME CLÍNICO ALTA / INFORME CLÍNIC ALTA
+
+Motivo de consulta / Motiu de consulta
+Alteración del lenguaje regresiva.
+
+Antecedentes e historia previa / Antecedents i història prèvia
+Antecedentes personales: Varon de 55 años de edad, no alergias medicamentosas conocidas, no habitos toxicos. mRs 0.
+ANTECEDENTE PATOLOGICOS.
+1. Fractura de tobillo derecho reciente, en tratamiento errático con heparina de bajo peso molecular. No medicación habitual.
+
+Proceso actual / Procés actual
+Acude por un episodio de alteración del lenguaje de aproximadamente una hora de evolución, autolimitado. No alteración de fuerza o sensibilidad, no palpitaciones, no otra sintomatologia acompañante.
+
+Exploración física / Exploració física
+08/12/2017-17:00:00: PAS (mm Hg) 117, PAD (mm Hg) 60, Pulsioximetría (%)   95. 08/12/2017-19:30:00 :
+Glicemia capilar (mg/dl) 107. 08/12/2017-22:0 0:00 : Tª axilar (ºC) 36.4.
+Se encuentra hemodinamicamente estable, afebril, hidratado, eupneico, consciente y orientado en tiempo y espacio.
+ACP :ruidos cardiacos ritmicos sin soplos , MV audible en ambos campos pulmonares sin agregados.
+ABD: blando, depresible , no doloroso a la palpación superficial ni  profunda, no se palpan masas ni viceromegalias, timpanico, RHA presentes y normales , no signos de peritonismo.
+NEU: pupilas isocoricas normoreactivas, pares craneales conservados , no se evidencia nistagmo, no déficit campimétrico por confrontación , no lateralizaciónes , ROT presentes y normales , sensibilidad termoalgesica y propioceptiva conservada , fuerza en MII 5/5 , MMSS 5/5 , reflejos cutáneo-plantares flexores de forma
+
+bilateral ,no se evidencian signos de focalidad neurologia ni signos de meningismo. NIHSS 0.
+MIEMBROS: no se evidencian edemas en miembros inferiores , pulsos pedios palpables y simetricos , tonicidad y fuerza conservada en extremidades. Férula de yeso en el miembro inferior derecho.
+
+Laboratorio / Laboratori
+*	ANALÍTICA SANGUÍNEA: Hemograma, función renal, bioquímica báscia, ionograma, ácido fólico y vitamina B12 sin alteraciones. Perfil lipídico: LDL/HDL 141/31. Hemoglobina glicada 5,5%.
+
+Radiología / Radiologia
+*	RM CEREBRAL: Se objetivan al menos cuatro lesiones isquémicas agudas de pequeño tamaño y localización cortical a nivel temporal, occipital y parietal izdo. El estudio de Angio-RM intacraneal no muestra oclusión de gran vaso.
+*	TC CEREBRAL: Sin signos de hemorragia ni alteraciones densitométricas del parénquima.
+*	RADIOGRAFÍA DE TÓRAX: No se aprecian infiltrados ni condensaciones.
+*	ECOGRAFÍA VENOSA EID (8/12): V. femoral común, superficial y profunda derechas permeables y compresibles, sin signos eco-doppler de TVP. V. poplítea derecha permeable y compresible sin signos eco-doppler de TVP.
+*	ECOGRAFÍA VENOSA EID (13/12): Extremidad inferior derecha. V. femoral común, superficial y profunda derechas permeables y compresibles, sin signos eco-doppler de TVP. V. poplítea derecha permeable y compresible sin signos eco-doppler de TVP. Extremidad inferior izquierda. V. femoral común, superficial y profunda derechas permeables y compresibles, sin signos eco-doppler de TVP. V. poplítea izquierda permeable y compresible sin signos eco-doppler de TVP.
+*	RADIOGRAFÍA DE TOBILLO (PA y LATERAL 13/12): Sin evidencia de lineas de fractura.
+
+Exploraciones complementarias / Exploracions complementàries
+*	ECOCARDIOGRAMA TRANSESOFÁGICO: --Ventrículo izquierdo de dimensiones normales. Motilidad global y segmentaria conservada.  Función  diastólica  normal.  --Ventrículo  derecho  no  dilatado,  normocontráctil.
+--Aurículas no dilatadas. --Orejuela izquierda normocontráctil, sin evidencia de trombo o masas en su interior, con velocidades de lavado normal. --Septum interauricular aneurismático, con evdiencia de separación marcada de sus hojas. Se realiza infusión de suero salino agitado por vía venosa periférica observándose paso de burbujas a cavidades izquierdas entre el 2-3 latido del ciclo cardíaco. Estos hallazgos son indicativos de foramen oval permeable (FOP). --Válvulas sin alteraciones. - Aorta descedente desde 30cm de arcada dentaria sin evidencia de placas de ateroma en su interior.
+*	ECOGRAFÍA TRANSCRANEAL DE SHUNT: Se insona la arteria cerebral media a una profundidad de 5 cm y se adminsitra por vía una emulsión de suero salino con aire, observándose paso de burbujas, compatible con un foramen oval en grado moderado.
+*	ECG y TELEMETRÍA (>48hs): Ritmo sinusal.
+
+Evolución / Evolució
+1.	ICTUS ISQUÉMICO EN TERRITORIO DE LA ARTERIA CEREBRAL MEDIA IZQUIERDA (ACMI).
+Se trata de un paciente de 55 años con antecedentes de fractura reciente de tobillo, inmovilizada con una férula, que ha realizado de forma errática tromboprofilaxis. Consulta por un cuadro regresivo de aproximadamente una hora de evolución de alteración del lenguaje en forma de afasia.
+A su llegada se encontraba afebril, normotenso y neurológicamente asintomático. El ECG se encontraba en ritmo sinusal y la analítica sanguínea no mostró hallazgos relevantes. La neuroimagen (TC y RMN cerebral) ha mostrado lesiones isquémicas corticales agudas en el territorio de la ACMI. El estudio vascular (angio-RM y ecografía doppler de troncos supraórticos y transcraneal) no muestra oclusiones ni estenosis arteriales. Se completa el estudio etiológico del ictus con un ecocardiograma transesofágico y una ecografía transcraneal con burbujas que indican la presencia de un foramen oval permeable asociado a un aneurisma del septum interauricular y un shunt moderado. La ecografía venosa de miembros inferiores (x2) no identificó trombos en el sistema venoso profundo.
+
+
+
+Se trata de un ictus isquémico en el territorio de la ACMI en contexto de embolia paradójica a través del foramen oval (RoPe score de 7).
+Durante su estancia en la Unidad de Ictus se inicia tratamiento antiagregante con AAS y enoxaparina a dosis profilácticas. Clínicamente ha permanecido neurológicamente asintomático. Ante la estabilidad clínica, se decide alta domiciliaria. Se realizará visita de control con Neurología y primera visita con Cardiología para valorar cierre de FOP.
+
+2.	FRACTURA DE TOBILLO.
+Portador de yeso, se realiza radiografía de control previa al alta (proyección PA y lateral). No se evidencian líneas de fractura en el estudio actual. Dado que el paciente tiene visita con su traumatólogo habitual mañana, se decide alta y control ambulatorio.
+
+3.	DISLIPEMIA.
+En analítica de ingreso destaca colesterol total de 210 mg/dL (LDL 141mg/dL, HDL 31mg/dL). Se recomienda hábitos higiénico-dietéticos saludables.
+
+Plan terapéutico / Pla terapèutic
+Adiro 100mg al día. Enoxaparina 40mg al día hasta restablececimiento movilización del miembro inferior derecho.
+
+Otras recomendaciones / Altres recomanacions
+Control por traumatólogo habitual. Se citará para revisión en CCEE de NRL (Dra. _NAME_).
+
+
+
+Firma/Signatura1: _NAME_	Firma/Signatura2: _NAME_ Categoría: Resident 2	Categoría: Especialista
+Nº Matrícula _SS_: _ID_	Nº Matrícula _SS_: _ID_
+
+Fecha/Data Informe: 13.12.2017
+Hora Informe: 18:20:43
+
+Docum.: _ID_
+Hist. Clínica: _ID_
+El _SS_ ha incorporado sus datos al Fichero de Pacientes, para tratarlos con fines sanitarios.
+Puede ejercer sus derechos de acceso, rectificación, cancelación y oposición, así como obtener mas información en la Unidad de Atención al Cliente.
+Vers. 00
+Pag. 2 de
+3
+Episod.: _ID_
+_SS_ ha incorporat les seves dades al Fitxer de Pacients, per a tractar-los amb finalitats sanitàries. Pot exercir els seus drets d'accés, rectificació, cancel·lació i oposició, i obtenir més informació a la Unitat d'Atenció al Client.
+_SS_
+_LOCATION_) _LOCATION_) Tel. _CONTACT_ Fax _CONTACT_
+http://_CONTACT_/

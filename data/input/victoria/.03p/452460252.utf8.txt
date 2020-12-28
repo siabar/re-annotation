@@ -1,0 +1,153 @@
+_LOCATION_
+Tel. _CONTACT_
+_LOCATION_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 83 Anys
+NIF/DNI: _ID__NAME_; _NAME_;
+ _NAME_; _NAME_
+Informe d'alta d'hospitalització
+11:25:37
+19.12.2017
+_LOCATION_
+_SS_ NEUROLOGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_; _CONTACT_
+DOMICIL/RES.SOC 08.12.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Home de 83 a que ingressa procedent _SS_ per Avc isquemic codi Ictus,postractament fibrinolític.
+
+ANTECEDENTS
+No alergias medicamentosas conocidas FRCV:  HTA
+Estenosi meat uretral, dilatacions per Urología Demencia GDS 4 Agost 2017
+Insuficiencia Aórtica
+Ulcera gástrica intervinguda
+
+MEDICACIÓ HABITUAL
+Rivastigmina
+
+PROCÉS ACTUAL
+Paciente que acude a urgencias el día 08/12 a las 11:20 activándose código ictus por afasia debilidad hemicuerpo derecho. Además TCE leve en región oxipital. Se realiza fibrinolisis a las 12:10hrs. Orientándose como Ictus arcial de ACM izquierda con recuperación parcial y sin evidencia de oclusión de arterias principales. No subsidiario de rescate por ausencia de trombo y deterioro cognitivo previo.
+Ingresa 24hrs a UMI, pasando posteriormente a planta de neurología para completar estudio.
+
+EXPLORACIÓ FÍSICA
+
+FC	67 bpm
+Tªaxi 36.6 ºC
+FR	18 rpm Tªrec  ºC
+TA s	154 mmHg SAT O2  %
+TA d   71 mmHg Pes Kg
+
+En urgencias:
+Consciente. Bien perfundido, ACV: RC ritmicos, no soplos.
+AR: MV conservado sin ruidos agregados
+Abd: Blando depresible, no doloroso, no peritonismo. Peristaltismo conservado
+NRL: Afasia motora, comprensión conservada. Obedece órdenes, no sabe edad ni mes. Conciente. Paresia 4/5 derecha, hemianopsia homónima derecha, extinción sensitiva, ROT presentes, RCP flexor,
+NIHSS 11 (0 + 2 + 0 + 0 + 1 + 2 + 1 + 1 + 0 + 0 + 2 + 0 + 2)
+
+Al alta: NIHS: 2ptos.
+Facial derecho y paresia MID
+
+EXPLORACIÓ COMPLEMENTÀRIA
+EN URGENCIAS
+
+Informe d'alta d'hospitalització
+
+
+
+
+-	Bioquimica: Creat 0,75 Urea 26 mg/dl K 3,7 Na 138 meq/l GOT/GPT 21/14 u/l
+-	Hemograma: Hb 15,8 gr/dl Htco 46,6% Plaquetes 254000 Leucocits 8860 ( 52% PMN)
+-	Hemostasia TTPA 0,80 TQ 1.19
+
+-	ECG: RS a 75 lpm. BRDHH
+
+-TAC Craneal: Hipodensitats periventriculars atribuïbles a patologia de petit vas / leucoaraiosi. Fossa posterior i els dos hemisferis cerebrals, dins de la normalitat per l'edat del pacient. Sense evidència de stop / trombosi en territori de cerebral mitjana valorables en l'estudi angio-TC. Sense altres troballes significatives. Sense clars signes de patologia aguda.
+Angio-TC sense alteracions significatives.
+
+EN PLANTA DE NEUROLOGÍA
+
+-	Rx cadera y pelvis 09/12: No se observan lesiones óseas
+
+-	TAC control 12/12: CONCLUSIÓN: Control sin cambios.
+
+-	Ecografía de partes blandas 12/12: CONCLUSION: sufusión hemorrágica extensa en la región glutea y EID, sin evidencia de hematomas profundos. Signos de contusión de la musculatura glutea derecha.
+
+-	Perfil Ictus: Analítica: Hb:9.3g/dL, Hto:27.4%, Leuc: 10 840, neutrof: 61.2% Ur:55, Cr:0.82, Colesterol:117mg/dL, HDL:35.7, LDL:60.90, Triglicéridos: 102mg/dL, Ac úrico:5.6mg/dL, GOT:22, GPT:9, LDH:161, PCR: 2.59mg/dL, Cobalamina:314pg/ml, Ac fólico:4.10, THS: 2.021, Coagulación correcta, VSG:47mm
+
+- Analítica 14/12: Hb:9.3g/dL, Hto:26.4%, Leuc:9 400, Neutrof:62.6% (5890).
+
+-Doppler TSA 13/12: CONCLUSIÓ.- Absència d'ateroma, estudi dúplex TSA compatible amb la normalitat.
+
+-	Ecocardio TT: Ventricle esquerra no diltatat ni hipertòfic. Bona contractilitat sense alteracions segmentàries. Disfunció diastòlica per alteració de la relaxació. No trombos. Vàlvula aòrtica trivalva amb engruiximent de vels i lleu regurgitació dirigida al vel mitral anterior. Mitral competent. Aurícula lleument dilatada. No septo aneurismàtic evident però en fase de retorn venós, la zona del foramen oval protueix bastant cap aurícula esquerra. Ventricle dret normofuncionant sense hipertensió pulmonar.
+No embassament pericàrdic ni pleural. No aneurisme d'aorta abdominal.
+>Esclerosis vels vàlvula aòrtica. Dilatació lleu aurícula esquerra.
+>Si no hi ha altre causa evident de lìctus, valorar descartar foramen oval permeable.
+
+
+EVOLUCIÓ CLÍNICA
+En planta de neurología se mantiene estable hemodinámicamente, mejoría progresiva de la focalidad neurológica mejorándose en la exploración al alta con un NIHSS de 2 puntos por facial derecho y claudicación de MID.
+Debido a la caída que presentó en casa y tratamiento fibrinolítico el paciente presenta un hematoma importante en región glutea derecha con anemización, que se mantiene estable posteriormente, se realiza ecografía de partes blandas descartándose complicación.
+Se interconsulta a RHB consiguiendo deambulación con andador sin ayuda, no barreras arquitectonicas en domicilio.
+
+Informe d'alta d'hospitalització
+
+
+
+
+Se completa estudio de ictus orientándose como Ictus de ACM parcial izquierda de etiología cardioembólica por hallazgo de probable foramen oval permeable, dada los antecednets patologicos del paciente i su edat se decsrata IQ i se decide tratamiento conservador medico con   antiagregación.
+durant el ingres lleugera hiperreactivitat bronquial que e stracta amb salbulamol, atrovent i budesonida. control per capçalera
+
+Dada la estabilidad clínica se decide alta hospitalaria y control por CCEE.
+
+ORIENTACIÓ DIAGNÒSTICA
+434.91/5 Avc isquemic
+294.10/1 Demencia en malaltia d'alzheimer (+ codi 331.0) 401.1/1 Hipertensio essencial benigna
+424.1/1 Insuficiencia aortica
+600.00/1 Hipertrofia benigna de prostata sense obstruccio
+
+PROCEDIMENTS
+89.52 Electrocardiograma. ECG NOS, ECG (amb 12 o més derivacions)
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Se agrega al tratamiento
+-	Adiro 300mg 1 comprimido en la comida
+-	Lactulosa 1 sobre por las mañanas
+
+Resto de medicación sin cambios. ha inicado el 18/12
+inhalador con
+salbutamol 2 inh cada 8 , budesonida 200 1 inghalacion cada 12 i atrovent  2 inhalaciones cada 8 hores  incio 18/12
+control por cabecera
+
+CONTROL
+-	Control de FRCV por su MAP
+-	Control por CEE de NRL Ictus.
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+
+
+
+
+
+
+
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+19.12.2017
+Pàgina 1 de 3

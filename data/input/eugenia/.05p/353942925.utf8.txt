@@ -1,0 +1,140 @@
+I.CLINIC DE NEUROCIÈNCIES NEUROLOGIA
+_NAME_	NHC: _ID_
+
+
+Sexo/Sexe: Masc.	Fecha nac./Data naix.: _DATE_	Edad/Edat: 80 años Dirección/Adreça: _LOCATION_	CP: _LOCATION_
+Municip. (Prov.): _LOCATION_  ABS:_SS_		Tel.:_CONTACT_ / _CONTACT_ As.: SERVEI CATALA DE LA SALUT	CIP: _ID_	NASS: _ID_
+Nº epis.: _ID_	Tipo/Tipus: HOSPIT.	Inici.: 19.03.2017
+Serv: NEUROLOGIA	UO Enf.: G064 SALA G DE NEUROLOGIA	Hora: 00:33:09
+Facult. de ref.: _NAME_
+
+
+
+
+Tipo ingreso/Tipus ingrés: Urgent	Motivo/Motiu alta: Dom. Familiar
+Diag.:
+ICTUS ACMD ()
+HSA silviana derecha ()
+Proc.:
+TC CEREBRAL MULTIMODAL () TC CRANEAL DUAL () TROMBECTOMÍA MECÁNICA ()
+
+
+
+
+INFORME CLÍNICO ALTA / INFORME CLÍNIC ALTA
+
+Motivo de consulta / Motiu de consulta
+Debilidad de extremidades izquierdas
+
+Antecedentes e historia previa / Antecedents i història prèvia
+Hombre de 80 años, sin alergias medicamentosas conocidas. Ex-fumador. Consumo enólico leve. Vive con su mujer. Independiente para actividades básicas de la vida diaria (mRs1).
+
+ANTECEDENTES MÉDICOS:
+1.	HIPERTENSIÓN ARTERIAL.
+2.	HIPERURICEMIA. Episodios de gota.
+3.	FLUTTER AURICULAR diagnosticado en 2011. Previamente tenía arritmia no filiada que se controlaba con amiodarona. El futter auricular se diagnosticó por primera ocasión en 2011 y se revirtió con cardioversión eléctrica. Los controles posteriores (Holter) mostraron ritmo sinusal. Ecocardio con AE de 45 mm, FE 66 %, Insuficiencia mitro-aórtica ligera. Se propuso tratramiento anticoagulante por cardiólogo privado pero el paciente aparentemente lo rechazó. Recibió tratamiento con amiodarona hasta febrero 2017, cuando su cardiólogo se lo retiró por llevar mucho tiempo en ritmo sinusal. Hace pocos días se reintrodujo debido a palpitaciones.
+4.	INSUFICIENCIA RENAL CRÓNICA CON POLIQUISTOSIS RENAL. En seguimiento por Nefro del _SS_ (Dr. _NAME_), en 2016 función renal estable con Creat 1,9.
+5.	BOCIO MULTINODULAR por lo que se realizó tiroidectomía hace más de 30 años.
+6.	SÍNDROME DE APNEA OBSTRICTIVA CRÓNICA en tratamiento con CPAP.
+7.	ADENOMA DE PRÓSTATA. Intervenido quirúrgicamente hace unos 10 años.
+
+MEDICACIÓN HABITUAL (Marzo/17):
+Hidroferol, omeprazol 20mg/24h, Adenuric 80mg/24h, Adiro 300mg/24h, torasemida 5mg/24h, Emconcor 2,5mg/24h, irbesartan 300mg/24h, suplement vit D.
+
+
+Proceso actual / Procés actual
+Paciente que presenta el día 18/03 sobre las 22h de la noche debilidad de brazo y pierna izquierdas. Los días previos había presentado palpitaciones ocasionales. No otra clínica acompañante. La familia avisa al SEM y se traslada a nuestro centro como código ictus. A su valoración, el paciente presenta plegia de extremidades izquierdas y alteración del lenguaje.
+
+Exploración física / Exploració física
+19/03/2017-01:00:00: Frecuencia respiratoria (rpm) 14, Glicemia capilar (mg/dl) 105, PAS (mm Hg) 130, PAD (mm Hg) 57, Pulsioximetría (%) 99. 19/ 03/2017-06:00:00 : Tª axilar (ºC) 35.7. 20/03/2017-17:00:00 : FiO2 (%) 2 1.
+**A SU LLEGADA**
+NRL: Vigil, orientado en persona. No emite lenguaje espontáneo, responde a preguntas dirigidas con lenguaje hipofluente, nomina 3/5, obedece órdenes simples. Hemianopsia homónima izquierda. Paresia facio(mod)- braquio-crural (4/5) izquierdas. Heminegligencia. NIHSS 12
+
+**UNIDAD DE ICTUS**
+NRL: consciente y orientado globalmente. Lenguaje normofluente sin rasgos afásicos ni disartria. PICNR, mirada centrada sin limitaciones a la excursión visual, campimetría por confrontación sin déficits. Paresia facial izquierda leve. Balance motor y sensibilidad conservadas en extremidades. No dismetrías. No negligencias ni extinciones. NIHSS 1.
+CCV: tonos arrítmicos sin soplos ni roces audibles. AR: MVC con algún crepitante basal
+DER: múltiples hematomas cutáneos en extremidades y hemiabdomen inferior derecho, sin signos inflamatorios ni induración, en fase de reabsorción.
+AD: blando y depresible, no doloroso.
+
+Laboratorio / Laboratori
+ANALÍTICA SANGUÍNEA:
+*	BIOQUÍMICA GENERAL Proteïna C reactiva (PCR) 0.08 mg/dL Glucosa 143/A mg/dL Creatinina 2.25/A mg/dL Filtrat glomerular 27 ml/min/ Acid úric 7.6/A mg/dL Colesterol total 113 mg/dL Valor desitjable
+<200 mg/dL Triglicèrids 61 mg/dL Proteïnes totals 54/B g/L Sodi 137 mEq/L Potasi 4.2 mEq/L Calci 7.0/B mg/dL Colesterol LDL 75 mg/dL Colesterol HDL 26/B mg/dL
+*	HEMATIMETRIA Recompte de leucòcits 10.30 10^9/L Recompte d´hematies 3.07/B 10^12/L Concentració d´hemoglobina 96/B g/L Hematòcrit 0.300/B L/L Recompte plaquetes 169 10^9/L Neutròfils abs. (analit.) 8.6/A 10^9/L Limfòcits abs. (analit.) 0.7/B 10^9/L VSG (Vel. sedimentació globular) 51/A mm/h Hemoglobina glicada (NGPS/DCCT) 5.8%
+*	HEMOSTÀSIA GENERAL Temps de protrombina (%) 65.5/B% Temps de protrombina (seg) 14.7/A seg Temps de protrombina, rati 1.24/A Fibrinogen 2.1 g/L INR 1.27
+
+Radiología / Radiologia
+TC MULTIMODAL:
+*	TC CEREBRAL BASAL: No se observan imágenes de sangrado agudo intra ni extraxial. No se observan alteraciones significativas de la densidad del parénquima cerebral ni cerebeloso (ASPECTS 10).
+*	TC PERFUSIÓN: Extenso retraso del TTP corticosubcortical fronto-parieto-temporal derecho, asociado a una mínima pérdida de volumen en el mapa de CBV en lóbulo temporal derecho(mismatch total), sugestivo de infarto cerebral agudo del territorio superficial de la ACM derecha.
+*	ANGIO-TC INTRA Y EXTRACRANEAL: Defecto de repleción compatible con oclusión en segmento M1 distal de la ACM D, con repermeabilización de ramas distales por colateralidad. Resto de arterias intracraneales (ACAs, ACMI y ACPs) visualizadas, sin observar defectos de replección. Troncos supraórticos globalmente tortuosos.  Arterias  carótidas  comunes  y  ACIs  permeables,  evidenciando  algunas  placas  de  ateroma
+*	
+
+
+calcificadas bilaterales que no condicionan estenosis significativa (<30%), de predominio derecho.
+
+TC CONTROL (21/03/2017): se aprecia extensa hemorragia subaracnoidea en cisura Silviana derecha y en surcos de la convexidad derecha, así como algún foco de HSA infratentorial, no presentes previamente. No se observan áreas hipodensas que sugieran isquemia establecida evidente.
+
+Evolución / Evolució
+1.	ICTUS ISQUÉMICO EN TERRITORIO DE ARTERIA CEREBRAL MEDIA DERECHA (ACMD) DE PROBABLE ORIGEN CARDIOEMBÓLICO - Fibrinolisis y Trombectomía mecánica
+2.	HEMORRAGIA SUBARACNOIDEA SILVIANA DERECHA SECUNDARIA A 1
+3.	CRISIS EPILEPTICAS GENERALIZADAS SECUNDARIAS A 2
+4.	INSUFICIENCIA RENAL CRÓNICA. Estable (creat 1,5 mg/dL)
+5.	MULTIPLES HEMATOMAS CUTÁNEOS SECUNDARIOS A ANTICOAGULACIÓN
+6.	ANEMIA AGUDA (Hb 9,1 g/dL)
+7.	HIPOCALCEMIA ASINTOMATICA
+
+Paciente remitido como código ictus por síndrome hemisférico derecho parcial (NIHSS 12). La analítica sanguínea realizada al ingreso muestra insuficiencia renal ya conocida (creat 2.93 mg/dL), con hemograma y hemostasia sin alteraciones. El ECG muestra ritmo sinusal. Se realiza TC craneal multimodal que confirma la presencia de un ictus isquémico en territorio de la ACMD por oclusión en segmento M1 distal, con presencia de mismatch significativo. Ante la ausencia de contraindicaciones clínicas y radiológicas se realiza tratamiento agudo con fibrinolisis (r-tpa) y posterior trombectomía mecánica, consiguiendo recanalización completa. Tras el procedimiento, el paciente presenta importante mejoría clínica quedando asintomático. El TC craneal dual de control no muestra signos de hemorragia, por lo que se inicia tratamiento anticoagulante con heparina sódica. Durante la monitorización electrocardiográfica en Unidad de Ictus se evidencia presencia de fibrilación auricular (FC 100- 110 lpm). En relación al tratamiento antitrombótico el paciente presenta múltiples hematomas en brazo izquierdo, brazo derecho y uno especialmente extenso en fosa ilíaca derecha, blandos, no dolorosos ni indurados. A las 24h del ingreso, el paciente presenta episodio de crisis epiléptica tónico-clónica generalizada. Se realiza TC craneal urgente que muestra hemorragia subaracnoidea silviana derecha y se administra tratamiento antiepiléptico con levetiracetam 1000 mg
+Se orienta como ictus isquémico en territorio de ACMD de etiologia cardioembólica, con transformación hemorrágica (crisis comicial secundaria a hemorragia subaracnoidea silviana derecha) posterior al tratamiento de reperfusión.
+Durante el ingreso en la Unidad de Ictus el paciente permanece hemodinámicamente  y clínicamente estable, asintomático desde el punto de vista neurológico. Los controles analíticos muestran anemia aguda, llegando a presentar hematocrito de 28%, que se mantiene estable sin requerimientos de transfusión; al alta, Hb 9, Hto 28%. La función renal se mantiene estable, incluso mejor que en controles previos. También se objetiva hipocalcemia de 7,8 mg/dL (calcio corregido por albúmina), asintomática. Se inician suplementos de calcio oral, siendo al alta de 8,4 mg/dL. Los hematomas cutáneos se han resuelto progresivamente sin complicaciones.
+Ante la estabilidad clínica actual del paciente se procede al alta hospitalaria. Al alta no se inicia tratamiento antitrombótico (dada la complicación hemorrágica). Se realizará control en Hospital de Día de Neurología previa realización de TC cerebral de control para valorar la introducción del tratamiento anticoagulante oral. Se recomienda igualmente mantener tratamiento antiepiléptico con levetiracetam 500 mg/12h (a valorar su retirada en unos meses si permanece libre de crisis). Se recomienda control estricto de los factores de riesgo vascular por su médico de familia.
+Al alta: NIHSS: 0;  mRankin: 2;  TOAST: cardioembólico
+
+Plan terapéutico / Pla terapèutic
+-	Hidroferol 266 MCG. Vía oral. Cada 24 horas.
+-	
+
+
+-	Bisoprolol 1,25 MG. Vía oral. Cada 24 horas.
+
+-	Torasemida 5 MG. Vía oral. Cada 24 horas.
+
+-	Fero-gradumet (105 mg fe2+/comp) comprimidos de liberacion prolongada. 105 MG. Vía oral. Una vez al día, en el desayuno.
+
+-	Omeprazol 20 MG. Vía oral. Cada 24 horas.
+
+-	Irbesartan 300 MG. Vía oral. Cada 24 horas.
+
+-	Adenuric 80 MG. Vía oral. Cada 24 horas.
+
+-	Levetiracetam 500 MG. Vía oral. Dos veces al día: desayuno y cena.
+
+-	Demilos 600 mg/1000 ui comprimidos bucodispersables. 1 COM. Vía oral. Cada 24 horas.
+
+-	Paracetamol 500 MG. Vía oral. Cada 8 horas. Si precisa
+
+Otras recomendaciones / Altres recomanacions
+Se remite para control de factores de riesgo cardiovascular, en especial la presión arterial, por su médico de cabecera. Continuar controles habituales por Nefrología _SS_.
+Acudir para realización de TC craneal el 5 Abril 2017 a las 13:20h (según cita adjunta).
+Acudir a visita de seguimiento en Hospital Día Neurología (Dr. _NAME_, esc. 6, pl. 4 _SS_) el 6 Abril a las 11 am.
+
+
+
+Firma/Signatura1: _NAME_	Firma/Signatura2: _NAME_ Categoría: Resident 2	Categoría: Espec. Senior
+Nº Matrícula HCP: _ID_	Nº Matrícula HCP: _ID_
+
+Fecha/Data Informe: 27.03.2017
+Hora Informe: 13:30:10
+
+Docum.: _ID_
+Hist. Clínica: _ID_
+El _SS_ ha incorporado sus datos al Fichero de Pacientes, para tratarlos con fines sanitarios.
+Puede ejercer sus derechos de acceso, rectificación, cancelación y oposición, así como obtener mas información en la Unidad de Atención al Cliente.
+Vers. 00
+Pag. 2 de
+4
+Episod.: _ID_
+_SS_ ha incorporat les seves dades al Fitxer de Pacients, per a tractar-los amb finalitats sanitàries. Pot exercir els seus drets d'accés, rectificació, cancel·lació i oposició, i obtenir més informació a la Unitat d'Atenció al Client.
+_SS_
+_LOCATION_) _LOCATION_) Tel. _CONTACT_ Fax _CONTACT_
+http://_CONTACT_/

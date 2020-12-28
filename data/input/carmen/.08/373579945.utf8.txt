@@ -1,0 +1,111 @@
+
+INFORME DE ALTA
+Medicina Interna. Unidad de neurología. Unidad de Ictus. Paciente: _NAME_
+
+
+Número de historia clínica: _ID_
+
+
+Fecha de nacimiento y sexo: _DATE_  HOME	Edad: 51 Régimen económico:  CatSalut-Propi CIP: _ID_	ABS/CAP:		Médico de cabecera: Dirección: CR _LOCATION_  Teléfono: _CONTACT_ Fecha ingreso servicio: 20/05/2017	Fecha alta servicio: Data alta servei
+Fecha ingreso hospitalización: 20/5/2017	Fecha alta hospitalización: 22/5/2017 Paciente que consulta por  paresia facio-braquio-crural derecha y disartria
+Historial médico
+Alergias: no	Hábitos tóxicos: fumador
+Antecedentes patológicos:
+o	Obesidad
+o	DM2 en tratamiento farmacologico. o	HTA no tratada
+o	DLP tratada con simvastatina. Alta de Endocrinologia hace dos semanas o	Hiperuricemia. Antecedentes de gota
+o	SAHOS en estudio programado para 2019
+Estado basal: trabaja en la ONCE. Autonomo para ABVD.
+Medicación habitual: metformina 850mg, adenuric, ibuprofeno, simvastatina
+
+Enfermedad actual
+
+
+Paciente refiere que el día 20/05 a las 5am presenta deficit motor en hemicuerpo derecho, paralisis facial derecha y disartria marcada. A su llegada a urgencias presenta hipertensión (TA 199/107mmHg), frecuencia 67lpm, Glasgow 15, NIHSS 2. Se contacta con teleictus que desestima fibrinolisis y se orienta como AVC del despertar minor.
+
+Exploración física
+
+
+Constantes. T.arterial: 158/96mmHg, FC 67bpm, Sat O2 96% basal. T 35ºC. glicèmies 184-113-147 Exploración por aparatos: Buen estado general. AR: MVC, sin ruidos sobreañadidos. AC: tonos ritimicos sin soplos.
+Exploración neurológica: Vigil y orientado en las tres esferas. Fuerza 5/5 en extremidades superiores e inferiores. Sensibilidad preservada. No alteraciones campimetricas. No dismetria D-N. pares craneales sin alteraciones. Leve parálisis facial derecha. RCP correctos. MOES normales. Lenguaje conservado (fluente, nomia y repite bien, comprensión correcta).
+Test de disfagia: superado NIHSS (ingreso):	0
+
+
+Pruebas complementarias realizadas
+
+
+o Analítica (ingreso): glucosa 182mg/dl, urea 30mg/dl, creatinina 0.75mg/dl, FG>90, sodi 144mmol/l, potassi 4.5mmol/l, clor 108mmol/l. Hb 15.3g/dl, Hto 45.7%, VCM 88.4fl, leucòcits 9.800, N 65.4%m L 24.2%, Plaquetes 234.000. TO 0.99, TTPA 0.99
+o	Radiología torácica (ingreso):. Cambios cronicos en ambos campos pulmonares. No condensaciones
+o	Ecocardiografía  (22/5/2017):  AI  32  mm,  TIV  13  mm,  IM  ligera,  valvula  aortica  normal.  Sin  defectos segmentarios en la contractilidad
+o	TC -  craneal  (ingreso):  Ausencia  de  desplazamientos  significativos  de  las  estructuras  de  línea  media  supra  e
+infratentoriales.  No  lesiones  hemorrágicas  intra  o  extraparenquimatosas.  Sistema  ventricular  de  tamaño,
+
+configuración y posición normales. Cisternas basales y peritronculares libres. Fosa posterior y parénquima cerebral sin alteraciones morfológicas ni densitométricas valorables. Conclusión: Estudio intracraneal sin alteraciones significativas
+o	Dúplex TSA (22/5/2017): normal o	Duplex TC( 22/5/2017): normal
+
+Evolución y tratamiento realizado
+
+
+Paciente varon de 51 años con antecedentes de SAHOS, HTA, DM2, DLP, obesidad acude por paresia facio-braquio- crural derecha de unas 2-3 horas de duracion.
+Se  completa  el  estudio  vascular  que  descarta  afectación  de  gran  vaso  extra  o  intracraneal,  así  como  fuente cardioembolica.
+
+Se decide alta con RM y EBT ambulatorio
+
+Destino al alta:	Domicilio	
+Rankin (alta):  0	NIHSS (alta):	0
+
+
+
+Diagnósticos
+
+
+
+Diagnóstico principal
+o	Infarto regresivo tipo lacunar, posiblemente po patologia de pequeño vaso.
+
+Diagnósticos secundarios:
+o	Obesidad
+o	DM2
+o	HTA
+o	Posible SAOS
+
+Procedimientos:
+o	Analitica
+o	TAC craneal o	Doppler TSA
+
+Tratamiento al alta
+
+
+Dieta y otros datos para control:
+AAS 300 mg, 1-0-0
+Omperazol 20 mg, 1-0-0
+Atorvastatna 80 mg, 0-0-1
+Enalapril 10 mg, 1-0-0 Suspender simvastatina
+
+Resto de medicacion habitual sin cambios
+metformina 850mg, adenuric, ibuprofeno,
+
+
+Recomendaciones de prevención secundaria
+
+
+o	Caminar cada día, mínimo 1/2 hora
+o	Perder peso, hasta conseguir perímetro abdominal en hombres por debajo de 108 cm. y 88 cm. en mujeres.
+o	Dieta rica en verduras, frutas y legumbres.
+o	Mantener tensión arterial por debajo de 130 /80 mm. Hg. En diabéticos por debajo de 120/75
+o	
+o	Mantener cifras de colesterol total por debajo de 150, y LDL por debajo de 100. En diabéticos LDL por debajo de 70.
+o	Evitar el tabaco y el alcohol.
+
+
+
+Control por el médico de cabecera para ajuste de tensión arterial Se avisará para la realización de RM craneal y EBT
+Se avisará para acudir a CCEE de Neurologia
+
+
+
+Atentamente,
+
+Médico/s responsable/s: Dra _NAME_	Nº de colegiado: _ID_
+
+Firma

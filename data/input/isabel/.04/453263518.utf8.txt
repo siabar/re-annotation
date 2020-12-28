@@ -1,0 +1,185 @@
+_LOCATION_
+_LOCATION_) Anul·lació/Reprogramació visites:_CONTACT_
+Telèfon Centraleta: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 53 Anys
+NIF/DNI: _ID_Informe d'alta d'hospitalització
+13:59:00
+22.12.2017
+_LOCATION_
+_SS_ NEUROLOGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+; _CONTACT_; _CONTACT_
+DOMICIL/RES.SOC 04.12.2017
+_NAME_
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Varón de 53 años que ingresa por hematoma GGBB izquierdos.
+
+ANTECEDENTS
+-No alergias medicamentosas conocidas.
+-Fumador de 2-3 paq/día. Enol ocasional.
+-DM en tratamiento con ADOs e insulina. No HTA ni DLP (poco control médico).
+-No cardioneumoaptías conocidas.
+-Ingreso  en  Octubre  2016  en  _SS_  por  absceso  inguino-escrotal/gangrena  de  Fournier  que  precisó desbridamiento quirúrgico con drenaje y antibioterapia endovenosa con buena evolución.
+-No otros AP a destacar.
+
+-Situación basal: independiente para ABVD. mRS 0
+
+
+MEDICACIÓ HABITUAL
+Paracetamol 1g/8h si precisa Lantus 16 UI noche Metformina 850MG 0,50 x 12 h
+
+
+PROCÉS ACTUAL
+Varón de 53 años que el 04.12.17 presenta, mientras estaba comiendo con su mujer, a las 16h debilidad brusca de extremidades izquierdas por lo que avisan al SEM quien activa código ictus a las 17:31h. Llega a urgencias de _SS_ a las 18:13h.
+
+A la valoració por neurología de guardia paciente HDME con TA 186/83 mmHg, INR 1, DXT 249 mg/dL.Neurológicamenteconsciente, dice mesy edad, disartria moderada (2). No alteración del lenguaje. TOC a la D (1). HHI por confrontación (2). PFSN izq (2). Plejia braquial izq (4), paresia crural izquierda 2/5 (3). Hemianestesia izq (2). BBK izquierdo, RCP derecho flexor. No agnosias. NIHSS 16
+Analítcamente destaca alteración de la función renal (creatinina 276 umol/L, urea 11.9), leucocitosis de 10400 con neutrofilia con 7980 sin otras alteraciones destacables. ECG en ritmo sinusal a 72 lpm, PR 0.16s, QRS ancho con morfología de BRDHH, ondas T picudas en derivaciones con signos de sobrecarga de ventrículo izquierdo. precordiales. La Rx de tórax con ICT < 0.5, senos costofrénicos libres,hilios engrosados, no condensaciones ni infiltrados.
+Se  realiza  Tc  craneal  que   objetiva  hematoma  intraparenquimatoso   de  ganglios   basales  derechos.  No desplazamiento de estructuras de la línea media. No se realiza angio-TC.
+
+Se orienta el caso como hematoma de GGBB derechos. Se comenta con NRC. Se decide ingreso en NRL (Unidad de ictus).
+
+Informe d'alta d'hospitalització
+
+
+
+
+EXPLORACIÓ FÍSICA
+
+TA 143/64 Fc 75lpm Afebril SatO2 98%
+NRL: consciente y orientado en las 3 esferas. Disartria severa (2). Lenguaje conservado. PICNR, MOEs sin alteraciones, no déficits visuales, PFSN izq(2). Paresia hemicuerpo izquierdo 3/5braquial 4/5 crura (2+1). Anestesia hemicuerpo izquierdo (2). BBK izquierdo, indiferente derecho. No agnosias. NIHSS 9.
+AC: TCR sin soplos audibles ni ruidos sobreañadidos. AR: MVC sin ruidos sobreañadidos.
+ABD: globo vesical.
+EEII: no edemas ni signos de TVP.
+
+EXPLORACIÓ COMPLEMENTÀRIA
+URGENCIAS:
+-	Analítica: pH normal, pCO2 57 mmHg, HCO3 30.7 mmol/L, EB 3.8 mmol/L. Glucosa 14.2 mmol/L, urea 11.9 mmol/L, creatinina 276 umol/L, sodio y potasio normal. Coagulación normal. Hematocrito 38%. Leucocitosis de 10400 con neutrofilia con 7980, sin otras alteraciones en el hemograma.
+-	ECG: ritmo sinusal a 72 lpm, PR 0.16s, QRS ancho con morfología de BRDHH, ondas T picudas en derivaciones precordiales.
+-	Rx de tórax: ICT < 0.5, senos costofrénicos libres,hilios engrosados, no condensaciones ni infiltrados.
+-	TC craneal: Hematoma intraparenquimatoso de ganglios basales derechos. No desplazamiento de estructuras de la línea media. No se realiza angio-TC.
+
+NEUROLOGÍA:
+-	Analítica ingreso: Alteración de la función renal con Cr 279umol/L, urea 11.8mmol/L, FG 21mL/min; hipernatremian 149mmol/L, Ca corregido por proteinas normal. Bioquímica hepatica sin alteaciones (transaminasas, GGT, FA y bilirrubina), destaca marcada hipoproteinemia 46g/L, hipoalbuminemia 23g/L e hipercolesterolemia con colesterol total 6.24mmol/L, HDL 0.71mmol/L, LDL 4.75mmol/L y colesterol excluido HDL 5.53mmol/L con trigliceridos normales. Perfil tiroideo normal, Perfil glicidico alterado con Hb1Ac 7.8 %. Proteinograma alterado con albumina 41.2%, alfa 1 globulina 6.8%, alfa 2 globulina 22.8%, beta globulina 14.7% y gamma globulina 14.5%, pendiente de banda monoclonal. Anemia normocítica con Hb 107g/L, Hto 32.50%, resto de hemograma sin alteraciones. PCR 78.6mg/L, VSG 107mm. Coagulación normal TP 1.14, TTPA 0.91, fibrinogeno 7.25g/L, Dimero D 526ug/L
+-	Microbiología: Urocultivo 11/12: > 100.000 UFC/mL Enterococcus faecalis S ampicilina, vancomicina, fosfomicina, nitrofurantoina y linezolid. R a cloramfenicol y ciprofloxacino. Hemocultivos 11/12: negativos
+-	Serologias: Hepatitis C, LUES y VIH 1 y 2 negativas. Hepatitis B positiva (vacunación)
+-	TC 06.12.2017: Discrets canvis catabòlics esperables sobre l'hematoma temporo-insular dret sense altres canvis valorables significatius
+-	RMN 14/12/17: Hematoma en región ganglionar basal t temporal derecho sin imágenes de lesiones subyacentes. Su localización y aspecto corrobora el origen hipertensivo. Patrón de pérdida  de volumen de parénquima encefálico con cambios de señal discretos en la sustancia blanca que se pueden incluir dentro de los cambios involutivos normales con la edad.
+
+Estudio de órgano diana de HTA :
+-	Ecocardiografgia 13/12: Ventrículo izquierdo no dilatado, moderada hipertrofia septal, con buena contractilidad global y sin segmentarismos. Ventrículo derecho normocontráctil. Aurícula izquierda ligeramente dilatada. Raíz
+-	
+Informe d'alta d'hospitalització
+
+
+
+
+aórtica no dilatada. Aorta ascendente ligeramente dilatada. Septo interauricular íntegro. Válvula mitral normal. Ausencia de insuficiencia mitral. Válvula aórtica trivalva, sin gradientes signifiativos. Mínima insuficiencia tricuspídea que no permite estimar PAPs. Flujo pulmonar no acelerado. Presión venosa central no elevada. Ausencia de derrame pericárdico
+-	VAL OFT FO: Papilas normocoloreadas, normodelimitadas, no sobreelevadas. Máculas contrastadas. Microaneurismas, IRMAs dispersos en 4C >20, sin impresionar EMD. Tortuosidad vascular leve en AO. No objetivo NVC. No PFC. RBA 360º. OD: RDNP moderada-grave en AO. Retinopatía hipertensiva leve AO KW.
+
+Estudio de alteración de la función renal:
+-	Analítica de estudio de función renal: Immunoglobulinas sericas normales; subclases de IgG normales; complementeo con mínma elevación de C4 (372, límite normalidad 340), C3 y factor B del complemento normales; crioglobulinas negativas; perfil vasculitis ( Ac. antimieloperoxidasa, Ac. antiproteïnasa 3, Ac. anticol·lagen IV ) normal.
+-	Iones en orina: Patrón renal (urea 146mmol/L, Na 75mmol/L, K 27mmol/L, Cl 57mmol/L)
+-	Sedimento orina: Eritrocitos 357, Leucocitos 50, bacterias 147, cilindros hialinos 2.
+-	Orina de 24 horas: Destaca proteinuria de 7.70g/l con albuminuri de 4368.04mg/d. Resto de parámetros dentro de la normalidad
+-	Ecografia abdominal 12.12.2017: Ronyons de mida i morfologia normal (D:13cm i E:13cm) amb gruix cortical conservat i bona diferenciació cortico-sinusal. Vies excretores no dilatades. Petit quist cortical al terç mig del RD. No s'observen litiasis ni lesions focals sòlides renals. Bufeta urinària ben distesa amb globus de sonda urinària al seu interior, de parets fines, sense identificar engruiximents focls sospitosis ni litiasis endoluminals. Pròstata de 34x57x29mm i un volum aproximat de 30cc. CONCLUSIONS: Estudi sense alteracions significatives.
+-	Doppler renal: Estudio Doppler renal de muy con velocidades parenquimatosas e hiliares normales en de manera bilateral (RD: Vel parenquimatosa 18-40cm/seg, Vel hiliar 48 cm/seg, Vel arteria renal: 98-136cm/seg ; RI: Vel parenquimatosa 25-27cm/seg, Vel hiliar 48 cm/seg,Vel arteria renal: 81-86cm/seg). Morfología de la onda de aspecto normal de manera bilateral con tendencia a picos sistólicos e IR renales parenquimatosos elevados de manera bilateral (RD: 0.83, 0.9, RI: 0.86, 0.84). No dilatación de vías excretoras. Vejiga colapsada no valorable. CONCLUSIÓN: Cambios leves sugestivos de nefropatía crónica con velocidades renales parenquimatrosas e hiliares dentro de la normalidad.
+
+EVOLUCIÓ CLÍNICA
+A su llegada a la unidad de ictus paciente estable, con tendencia a la hipertensión, afebril. Exploraicón neurológica inical muestra consciente y orientado en las 3 esferas. Disartria severa (2). Lenguaje conservado. PICNR, MOEs sin alteraciones, no déficits visuales, PFSN izq(2). Paresia hemicuerpo izquierdo 3/5 braquial 4/5 crural (2+1).
+Anestesia hemicuerpo izquierdo (2). BBK izquierdo, indiferente derecho. No agnosias. NIHSS 9.
+
+Con la orientación diagnóstica de hematoma GGBB derechos hipertensivo se completa el estudio con analítica que destaca alteración de la función renal e hipernatremia, marcada hipoproteinemia con hipoalbuminemia e hipercolesterolemia, perfil glicídico alterado con Hb1Ac 7.8 %. Proteinograma alterado, pendiente de banda monoclonal. Anemia normocítica y elevación de reactantes de fase aguda. Se realizan serologías de Hepatitis C, LUES y VIH 1 y 2 que son negativas y Hepatitis B positiva por vacunación. Se realizan pruebas de imagen de control (TC 06/12y 11/12) que describen "discrets canvis catabòlics esperables sobre l'hematoma temporo-insular dret sense altres canvis valorables significatius". Se realiza RMN el 14/12 que desrcibe hematoma en región ganglionar basal temporal derecho sin imágenes de lesiones subyacentes. Su localización y aspecto corrobora el origen hipertensivo. Patrón de pérdida de volumen de parénquima encefálico con cambios de señal discretos en la sustancia blanca que se pueden incluir dentro de los cambios involutivos normales con la edad.
+
+Informe d'alta d'hospitalització
+
+
+
+
+
+Ante marcada hipertensión arterial no conocida se decide completar estudio de órgano diana con ecocardiografia que objetiva ventrículo izquierdo no dilatado con moderada hipertrofia septal sin otros hallazgos y valoraicón por oftalmología con fondo de ojo que describe retinopatía diabética no proliferativa moderada-grave en ambos ojos y retinopatía hipertensiva leve ambos ojos y recomienda seguimiento por OFT de zona para valoración con OCT.
+
+Ante alteración de la función renal con patrón de daño renal establecido se solicita valoración por Nefrología y se amplia el estudio con analítico con Immunoglobulinas, subclases IgG, autoimmunnidad con perfil vasculitis y complemento que són normales, y crioglobulinas negativas; sedimento urinario que muestra hematúria, leve leucocituria y bacteriuria; orina de 24 horas donde destaca proteinuria de 7.70g/d con albuminuria 4368.04mg/d; ecografia renal que no objetiva alteraciones y eco-doppler renal que describe cambios leves sugestivos de nefropatía crónica con velocidades renales parenquimatrosas e hiliares dentro de la normalidad.
+
+Durante la estancia en el servicio de Neurología el paciente se mantiene hemodinámicamente estable, con mejoría clínca progresiva. Se reinicia dieta oral con correcta tolerancia y se realiza rehabilitación consiguiendo deambulación con ayuda de fisioterapeutas. Exploración Neurológica al alta paciente consciente y orientado en  las 3 esferas. Disartria leve(1). Lenguaje conservado. PICNR, MOEs sin alteraciones,disartria (2) no déficits visuales, PFSN izq (2). Paresia hemicuerpo izquierdo B 4/5 de predominio distal (mano 4/5) y C 4/5 (2).
+Hipoestesia hemicuerpo izquierdo (1). RCP flexor izq, indiferente derecho. No agnosias. NIHSS 7.
+
+Como incidencias durante el ingreso destaca:
+-	Hipertensión arterial de difícil control con requerimiento inicial de bomba de urapidilo que se substituye posteriormente por antihipertensivos orales. Se objetiva leve retinopatia hipertensiva y se descarta miocaridopatia hipertensiva como complicaciones.
+
+-	Objetivación de bigeminismo supraventricular por telemetría. Ecocardiografía ventrículo izquierdo no dilatado con moderada hipertrofia septal sin otros hallazgos.
+
+-	Insuficiencia renal crónica no conocida en paciente hipertenso no conocido y diabético mal controlado. Con los estudios realizados se concluye etiología dual (nefropatía diabética + hipertensiva), completar estudio para determinar posible banda monoclonal. Diuresis mantenidas en todo momento. Al alta leve mejoría de la FR con Cr 211umol/L, urea 9.6mmol/L, FG 30ml/min. Control por Nefrología de forma ambulatoria.
+
+-	Probable prostatitis: El paciente presenta clínica de globo vesical acomapañado de pico febril 38ºC. Se procede a sondaje vesical y se cursa urocultivo con crecimiento de Enterococo faecalis S a ampicilina,hemocultivos negativos. Tratado de forma empírica con amoxicilina - clavulanico (11/12-15/12) que se desescala según antibiograma a amoxicilina (i 15/12), hasta completar 21 dias de tratamiento. Se intenta retirada de sondaje vesical sin exito. A destacar ecografía de vias urinarias que muestra prostata de 34x57x29mm con volumen aproximado de 30cc. Al alta se marcha con sondaje vesical colocado pendiente de probar retirada ambulatoria y en tratamiento antibiótico hasta el día 28-Diciembre. Comentamos con enfermera clínica para IC con enfermera de enlace a ambulatorio del paciente y seguimiento.
+
+Se comenta con rehabilitación quienes explican a paciente que será enviado de forma ambulatoria para rehabilitación _SS_.
+
+Informe d'alta d'hospitalització
+
+
+
+
+
+Por parte de neurología, en cuanto al manejo del hematoma de ganglios basales se realizará seguimiento por Neurólogo de zona. La familia solicita alta a domicilio conociendo los cuidados médicos que requieren y asumiendolos.
+
+
+ORIENTACIÓ DIAGNÒSTICA
+431/4 Hematoma capsulo-talamic
+
+CONTROL
+-Control por NRL de zona
+-Solicitamos primera visita con NFR.
+-Se avisará al paciente para acudir a _SS_ para rehabilitación.
+-Contactamos desde _SS_ con enfermera de enlace para seguimiento y control de sondaje vesical.
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+22.12.2017
+Pàgina 1 de 5

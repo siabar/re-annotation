@@ -1,0 +1,117 @@
+I.CLINIC DE NEUROCIÈNCIES NEUROLOGIA
+_NAME_	NHC: _ID_
+
+
+Sexo/Sexe: Masc.	Fecha nac./Data naix.: _DATE_	Edad/Edat: 67 años Dirección/Adreça: _LOCATION_	CP: _LOCATION_
+Municip. (Prov.): _LOCATION_  ABS:_SS_	Tel.:_CONTACT_
+
+As.: SERVEI CATALA DE LA SALUT	CIP: _ID_	NASS: _ID_
+Nº epis.: _ID_	Tipo/Tipus: HOSPIT.	Inici.: 07.04.2017
+Serv: NEUROLOGIA	UO Enf.: G064 SALA G DE NEUROLOGIA	Hora: 21:37:24
+Facult. de ref.: _NAME_		
+
+
+Tipo ingreso/Tipus ingrés: Urgent	Motivo/Motiu alta: Ingr. Hospital
+Diag.:
+ICTUS ISQUÉMICO ACAI ()
+Proc.:
+
+
+
+
+INFORME CLÍNICO ALTA / INFORME CLÍNIC ALTA
+
+Motivo de consulta / Motiu de consulta
+Alteración del lenguaje y debilidad de extremidades derechas.
+
+Antecedentes e historia previa / Antecedents i història prèvia
+Hombre de 67 años, posible alérgica a IECAS, sin hábitos tóxicos. Independiente para las actividades básicas de la vida diaria (mRs0)
+
+** ANTECEDENTES PATOLÓGICOS:
+1.	HIPERTENSIÓN ARTERIAL
+2.	SÍNDROME DE APNEA-HIPOPNEA DEL SUEÑO. En tratamiento con CPAP nocturna.
+3.	OBESIDAD MÓRBIDA, sometido a cirugia bariatrica.
+4.	ESTENOSIS ESOFÁGICA no fialiada
+** TRATAMIENTO MÉDICO HABITUAL: Omeprazol. Losartan. Bisoprolol. Adiro.
+
+Proceso actual / Procés actual
+Varón de 67 años que el 1 de abril presenta episodio sincopal con posterior confusión, por lo que ingresa en el _SS_. Se realiza EEG que es normal y RM cerebral que evidencia lesiones isuqémica puntiformes. Durante el ingreso el paciente presenta episodios fluctuantes de desorientación, confusión y apatia. En analítica objetivan Dimero-D de 1200 y angio-TC pulmonar sin evidencia de TEP, no obstante inicia tratamiento anticoagulante con heparina subcutanea.
+El 7.04.2017 a las 17 h, mientras estaba ingresado en el _SS_ presenta debilidad de extremidades derechas, por lo que se realiza TC Craneal que no muestra alteraciones y se deriva a nuestro centro para valoración. Última vez visto asintomático a las 14h.
+
+Exploración física / Exploració física
+07/04/2017-22:00:00: Frecuencia respiratoria (rpm) 18, PAS (mm Hg) 147, PAD (mm Hg) 70, Pulsioximetría (%) 97. 08/04/2017-01:00:00 : Glicemia ca pilar (mg/dl) 150. 08/04/2017-12:00:00 : Tª axilar (ºC) 36.6.
+NRL: Consciente. Apato-abulico. Mutista. Comprende ordenes sencillas. Mirada en posición primaria centrada sin alteración de la excursión visual. Campimetria por amenaza conservada. Paralisis facial leve derecha.  Paresia  braquio  (4+/5)-  crural  (3/5)  derechas.  Sensibilidad  y  dismetrias  no valorables. NIH:8
+
+
+
+(componente de abulia)
+
+Laboratorio / Laboratori
+*	ANALÍTICA SANGUÍNEA: PCR 6.95, Calcio 7,6 proteinas totales bajas 53, LDL 53, HDL 30, VSG 91. Resto sin alteraciones destacables. Se adjunta.
+
+Radiología / Radiologia
+*	TC MULTIMODAL 7/4/2017: -CRANEO: No se aprecian imágenes de sangrado intracraneal. Signos sugestivos de microangiopatía crónica con algunos infartos lacunares crónicos en sustancia blanca en centros semiovales y corona radiada bilateral. Sistema ventricular de tamaño y morfología conservada. - ANGIO-TC: Arterias carótidas comunes permeables con origen sin ateromatosis calcificada ni estenosis significativas. Origen de arterias carótidas internas sin estenosis significativas. Art. vertebrales desde su origen permeables con ateromatosis calcificada en la porción intracraneal de la vertebral izquierda que ocasiona una estenosis aprox 50-70 %. Oclusión de A2 izquierda con repermeabilziación distal. Se observa alguna irregularidad/estenosis a nivel de M1 de la ACM izda. - PERFUSION -TC: Retraso en el TTP corticosubcortial frontal izquierdo sin caída en el CBV con discordancia significativa.
+*	ARTERIOGRAFÍA 7/4/2017: Se realiza punción femoral derecha a las 20:21 horas del dia 07-04- 2016. Primera serie angiográfica a las 20:30 horas confirmándose la presencia de una oclusión (TICI grado 0) de segmento proximal y medio de arteria pericallosa izquierda. Se procede al microcateterismo selectivo de la arteria ocluida, logrando atravesar el trombo a las 20:43 horas, realizándose 1 pase con dspositivo Trevo 4x20 mm, evidenciándose en serie de comprobación a las 20:50 apertura del vaso que presenta bordes irregulares sugestivos de aterosclerosis. Se repite una serie de comprobación a las 20:59 donde se aprecia reoclusión del vaso. Se decide no realizar nuevos intentos de trombectomía por tratarse de una arteria de pequeño calibre con patología aterosclerótica crónica y elevado riesgo de complicaciones. En las series angiográficas realizadas también se aprecia una estenosis del 50% del segmento  M1 de ACMI a nivel prebifurcación probablemente secundaria a ateromatosis.
+*	RM CEREBRAL 10/4/17: Focos de infarto isquemico agudo-subagudo en territorio frontera de ACM y ACA izquierdas. Probable foco de infarto isquemico mas evolucionado en el centro semioval frontal derecho. Presencia de hemosiderina en cisternas basales, en surcos vermianos, en la cisura de Silvio izquierda y en surcos supratentoriales, mas evidente en surco temporal superior derecho. Sistema ventricular con hemosiderina en el IV ventriculo, niveles hematicos en ambas astas occipitales, con tamaño ventricular aumentado, sin modificacion de sus dimensiones respecto al TC previo y con situacion conservada. Foco de hemosiderina subcortical frontal izquierdo. Alteracion de la señal periventricular y en la sustancia blanca subcortical que tiende a confluir en los centros semiovales, en relacion con cambios secundarios a microangiopatia. En el estudio angio-RM intracraneal arterial se aprecia estenosis focal en M1 izquierda. Arteria vertebral izquierda dominante.
+*	TC MUSLO DERECHO 10/4/17: Se aprecia un marcado aumento de diámetro del muslo derecho a expensas del compartimiento medial y posterior, de aspecto heterogéneo, de predominio hiperdenso, en relación con hematoma muscular, localizado a nivel de los músculos aductores (m. aductor largo, aductor corto, aductor mayor y gracilis), que globalmente mide unos 10 x 9 cm de diámetros máximos axiales. Trabeculación de la grasa adyacente por cambios inflamatorios.
+* TC CRANEAL (21/04/17): No se aprecian imágenes de sangrado ntracraneal. Signos sugestivos de microangiopatía crónica con algunos infartos lacunares crónicos en sustancia blanca en centros semiovales y corona radiada bilateral. Cisternas basales libres. Estructuras de la línea media centradas. Sistema ventricular de tamaño y morfología conservada.
+
+Exploraciones complementarias / Exploracions complementàries
+
+EMG: Disfunción de la via córticoespinal a la extremidad inferior derecha, sin alteraciones aparentes de la respuesta sudomotora.
+
+
+
+Evolución / Evolució
+1.	ICTUS ISQUÉMICO EN TERRITORIO DE LA ARTERIA CEREBRAL ANTERIOR IZQUIERDA (ACAI)
+2.	ATEROMATOSIS INTRACRANEAL. 50% ESTENOSIS ARTERIA CEREBRAL MEDIA IZQUIERDA (ACMI)
+A su llegada normotenso, bradicardia entre 45-50 lpm. Afebril. A la exploración destaca un paciente abúlico, poco colaborador. No articulación del lenguaje aunque si parece comprender ordenes. Paresia facial leve- braquio 4+/5-crural 3/5 derechas. NIHSS:8 (impresiona de componente de abulia y falta de colaboración). Analítica con glicemia de 141, Quick 79,8%. La TC multimodal muestra lesión isquémica incipiente en territorio de la ACAI con área de penumbra isquémica, confirmándose en angio-TC oclusión a nivel de A2, así como ateromatosis intracraneal (estenosis 50% ACMI). Se realiza en fase aguda trombectomía mecánica con punción femoral a las 20:21 horas del día 07-04-17 y tras realizar un pase se observa después reoclusión y ateroesclerosis tanto en la ACAI como en la arteria cerebral media izquierda (ACMI), por lo que se finaliza el procedimiento.
+La monitorización cardiaca prolongada (> 72h) no ha mostrado arrítmias cardiacas. Se completa estudio con RM cerebral que muestra lesión isquémica parcheada en territorio de la ACAI, con ateromatosis intracraneal en angio-RM en ACAI y ACMI, además de presencia de contaminación intraventricular en astas occipitales secundario a trombectomia mecánica, sin presentar signos de hidrocefalia.
+Se trata de un ictus isquémico en territorio de ACA izquierda por ateromatosis intracraneal. Tras confirmar la resolución del sangrado en neuroimagen de contro (TC Craneal) se inicia tratamiento con antiagregante con AAS.
+Durante su ingreso, el paciente presenta buena evolución clínica, persistiendo en la exploración neurológica apatia y abulia con paresia 4/5 de extremidad inferior derecha. Se traslada a _SS_ para continuar con la rehabilitación física. Se completará estudio con ecocardiograma ambulatorio y posterior visita de control en CCEE de neurología (Dr. _NAME_).
+Al alta: TOAST: Ateromatosis NIHSS: 1
+mRs: 3
+
+3.	HEMATOMA PARTES BLANDAS. MÚSCULATURA ADDUCTORA DE LA EXTREMIDAD INFERIOR DERECHA
+Durante el ingreso se objetivó dolor en la extremidad inferior derecha, por lo que se realizó TC, en el que se objetivó un hematoma de los músculos adductores de unos 10 x 9 cm de diámetros máximos axiales con caída de hematocrito, pero manteniendose clínicamente estable, sin signos de síndrome compartimental. Evoluciona favorablemente con resolución progresiva de la sintomatología y hematocritos de control estables.
+
+Plan terapéutico / Pla terapèutic
+-	Omeprazol 20 mg/24h
+
+-	Enoxaparina 40 mg/24h sc
+
+-	AAS 100 mg/24h
+
+-	Atorvastatina 40 mg/24h
+
+-	Tamsulosina 0,4 mg/24h
+
+-	Amlodipino 5 mg/12h si PA > 140/90 mmHg
+
+Otras recomendaciones / Altres recomanacions
+Acudir a cita para realización de ecocardiograma y posterior visita de seguimiento en CCEE NRL con dr. _NAME_ (según citas adjuntas).
+Se remite para control por su médico de cabecera.
+
+
+
+
+
+
+Firma/Signatura1: _NAME_	Firma/Signatura2: _NAME_ Categoría: Resident 2	Categoría: Especialista
+Nº Matrícula HCP: _ID_	Nº Matrícula HCP: _ID_
+
+Fecha/Data Informe: 24.04.2017
+Hora Informe: 11:02:42
+
+Docum.: _ID_
+Hist. Clínica: _ID_
+El _SS_ ha incorporado sus datos al Fichero de Pacientes, para tratarlos con fines sanitarios.
+Puede ejercer sus derechos de acceso, rectificación, cancelación y oposición, así como obtener mas información en la Unidad de Atención al Cliente.
+Vers. 00
+Pag. 2 de
+4
+Episod.: _ID_
+_SS_ ha incorporat les seves dades al Fitxer de Pacients, per a tractar-los amb finalitats sanitàries. Pot exercir els seus drets d'accés, rectificació, cancel·lació i oposició, i obtenir més informació a la Unitat d'Atenció al Client.
+_SS_
+_LOCATION_) _LOCATION_) Tel. _CONTACT_ Fax _CONTACT_
+http://_CONTACT_/

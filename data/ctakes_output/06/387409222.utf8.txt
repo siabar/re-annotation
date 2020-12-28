@@ -1,0 +1,106 @@
+_SS_
+_LOCATION_)  Tlf. _CONTACT_
+INFORME ALTA HOSPITALITZACIÓ
+CIP	_ID_	Data Naix.   _DATE_	Edat _ID_	Sexe Home	NASS	_ID_
+Adreça   _LOCATION_		CP	_LOCATION_
+Població_LOCATION_		Tel.	_CONTACT_
+Episodi  _ID_	Admissió	02.07.2017 16:33		Alta	07.07.2017 14:32
+Servei	CARUOHMB Cardiologia		Unitat	U02UHHBL
+
+DIAGNÒSTIC ALTA
+
+Codi ICD-9	Descripció Diagnòstic
+426.6/1	ATURADA SINUSAL
+
+DADES INFORME
+
+Paciente de 91 años de edad que ingresa procedente de UCI por ictus isquémico en el contexto de bajo gasto cardiaco.
+
+ANTECEDENTES PATOLOGICOS
+-	No alergias medicamentosas conocidas.
+-	No hábitos tóxicos.
+-	HTA.
+-	Insuficiencia renal crónica.
+-	ICTUS ISQUEMICO CORONA RADIATA IZQUIERDA en agosto/2016. En el estudio etiológico presentó una estenosis de la ACI izquierda >70% con leve ateromatosis carotídea intracraneal y estenosis de la ACP ziquierda. Se decidió seguimiento ecográfico por parte de cirugía vascular (según la hija se descartó cirugía por edad del paciente). Al alta con AAS 300 mg/día y atorvastatina 80 mg/día.
+NIHSS al alta: 1. TOATS: aterotrombótico. mRS al alta: 1. Clasificación Oxford: PACI.
+Control post alta con resultados de estudios. Ha recuperado la movilidad de la extremidad superior derecha como lo tenía previo al ictus. Camina con bastón por dolor en extremidades inferiores.
+*Ecocardiograma transtorácico (Feb-17): Ventrículo izquierdo no dilatado, con ligera hipertrofia septal. Función sistólica global conservada (FEVI estimada 60%), sin aparentes alteraciones de la motilidad segmentaria.
+Trabeculación lateroapical. Aurícula izquierda no dilatada. Raíz aórtica y aorta ascendente ligeramete dilatadas. Válvula aórtica trivalva, sigmoideas esclerosadas y calcificadas con ligera aceleracion del flujo a su traves sin estenosis. Discreta esclerosis mitral sin repercusion funcional. Cavidades derechas no dilatadas con VD normocontráctil. No derrame pericárdico. No dilatación de VCI.
+*Holter de 24 h: Ritmo sinusal durante todo el registro con FVM de 52, máxima de 52 y minima de 39lpm. ESV aisladas puntuales, 23 parejas y breves salvas de taquicardia con mismo QRS basal con actividad auricular visible, algunas de ellas regulares y otras irregulares compatibles con taquicardia auricular ( máximo 7 latidos a 129lpm). EV aisladas puntuales. 1 cuadriplete ventricular. 3 pausas nocturnas >2 s con RR máximo 2.07s post extrasistole ventricular. No refiere clínica en el diario de síntomas del paciente.
+CONCLUSIONES: Ritmo sinusal con salvas cortas de taquicardia auricular (máximo 7 latidos).
+
+-	Valoración socio-funcional; AVD: Independiente. Sale a la calle con bastón y camina poco por dolor en las EEII cuando lo hace. La hija explica que presenta fallos de memoria frecuentes.
+
+-	Tratamiento habitual: atorvastatina 40 mg 0-0-1, omeprazol 20 mg 1-0-0, enalapril 10 mg 1-0-0, adiro 300 mg
+0-1-0
+
+- Una semana antes del ingreso consulta con su Med de familia por edemas en EEII le prescribio furosemida 20 mg / 24 h ( no consta en receta electronica porque lo visito en casa).
+NHC	_ID_	Pacient	_NAME_
+
+ENFERMEDAD ACTUAL: Paciente traído a UCIAS por inicio a las 14:45 h, según refiere la hija por iniciar mientras estaba sentado a la mesa cuadro de afasia. Llega a UCIAS de nuestro centro a las 15:39, activándose código ictus desde triaje y avisando al SMI. En el momento de la valoración la familia refiere apreciar mejoría al encontrarse el paciente ya solo disártrico cuando antes no emitía ningún sonido. A la exploración presenta como focalidad neurológica parálisis facial derecha menor, dismetría dedo-nariz (con ESD y al parecer ya presente previamente como secuela del ictus previo) y disartria leve/moderada: NIHSS 3
+
+EXPLORACION FISICA: TA 109/68 mmHg, FC 70 lpm, afebril, sat basal 96%. AC: Tonos rítmicos; no soplos. AR: MVC. ABD: B y D; peristaltismo presente. EEII: No edemas.
+
+EXPLORACIONES COMPLEMENTARIAS
+-	ANALÍTICA: Hb 148, leucoc 6460, plaq 150000, INR 1.3, r. cef. 1.1, Na 142, K 5.1, urea 12 y creat 136.
+-	ECG: RS a 60 x'.  HBSA.
+-	RX TÓRAX: SIn lesiones pleuroparenquimatosas activas.
+-	TAC Craneal no se aprecian lesiones hemorrágicas ni isquémicas agudas: "Signos involutivos cortico-subcorticales de predominio fronto-temporal . Leucoencefalopatía hipoxico-isquémica crónica . Infartos lacunares crónicos en ganglios de la base . Infarto isquémico crónico en territorio superficial y posterior de ACM izquierda". Se orienta el cuadro como ictus isquémico y se valora riesgo/beneficio, decidiéndose no realizar fibrinolisis por la escasa focalidad neurológica que ademas es muy poco incapacitante y en un paciente de edad avanzada. Se informa a la familia de dicha decisión y se ingresa en el SMI para monitorización y tratamiento.
+-Analítica de control : 6.880 leucos. HB 144 G/L: Creatinina  105 Umol/l FG 53 mil/ min; Na 140 mmol/l; K 4.3 mmol/l.
+-	TAC craneal 06.07.17: CONCLUSIÓN: Cambios involutivos acordes a la edad y signos hipóxico isquémicos crónicos. Infartos crónicos descritos en TC Previo, sin cambios. No se aprecian alteraciones intracraneales agudas que sean valorables al momento.
+-	Analitica 03.07: leucos 6,88, Hb 144, Hto 42%, VCM 97, HCM 33, plaquetas 141.000, glucosa 4,9, creatinina 105,
+FG 52, Na 140, K 4,3, Hb glic 6%, TG 94, CT 123 (HDL 32, LDL 71 mg/dl, uratos 382, cloro 103, calcio y fosfatos normal, BT 27, GOT, GPT y GGT normal.
+. RxT post-implantem (mala calidad) parece estar bien situado el electrodo en VD
+-	ECG al alta ritmo de marcapasos
+
+EVOLUCIÓN UCI: Durante su ingreso se constatan episodios de pausa sinusal de hasta 6 segundos de duración que se acompañan de de desconexión del medio y que revierten espontáneamente, compatibles con bajo gasto cerebral.
+Se decide coloca MCP externo (que no llega a necesitar activarse) mientras se prepara la colocación de un electrocatéter provisional. Se coloca el mismo por vía yugular derecha sin incidencias. Se deja con Fc de rescate de 40 x', salida de 2  (estimula correctamente a 0.5) y sensibilidad de 1. Se realiza Rx de tórax de control.
+La evolución posterior es buena manteniéndose en RSR con FVM de 70 x' que se acompaña de mejoría de la focalidad  neurológica quedando únicamente discreta disartria y leve dismetría ( dedo mano izquierda que ya existia). Valorado por neurología se orienta como posible ictus isquémico minor por hipoperfusión cerebral en paciente con estenosis carotidea izquierda significativa y con paradas sinusales que condicionan bajo gasto.
+Valorado con cardiología se decide implantación de marcapasos definitivo MARCAPASOS VVI-R, que se realiza el día 02.07.17 Generador BOSTON SCIENTIFIC PROPONENT MRI SR L210 SN 741028. Sonda VENTRICULAR ST.
+JUDE MEDICAL avanzada por punción de vena subclavia izda, de fijación pasiva ISOFLEX 1948 SN CPD288484 58
+cm. PARÁMETROS AGUDOS: Reobase V: 0.4 V. Cronaxia V 0.3 ms. Resistencia V 800 OHM. Sensibilidad V 10.6 PARÁMETROS PROGRAMADOS: Modo VVI. Detección V: Bipolar. Estimulación V: Unipolar.  Sensor: ON. Frecuencia Basal: 70. Frecuencia Magnética: 100. Frecuencia Máxima Sensor: 115. Histéresis: 45 lpm. Frecuencia Sueño: OFF. Amplitud V AUTO. Duración V: 0.4 ms. Sensibilidad V 2.5 mV. Período Refractario V 250 ms.
+PARÁMETROS DE AGOTAMIENTO: Frecuencia Magnética: 90 (85).
+Tras el implante reingresa de nuevo a UCI. Cómo única secuela neurológica destaca dismetria. Tolera bipedestación. Se reinicia su tratamiento habitual antihipertensivo con IECA y se continua antiagregación con AAS. Alterna episodios de  rirtmo sinusal  que alterna con ritmo de marcapasos a 70 x'. Pasa a planta de cardiología para seguir control y tratamiento el día 06.07 y el día 07, el paciente quiere marchar a domicilio y de hecho cuando voy a visitarlo, está ya vestido. Dado que el implante fué el dia 02.07 y en el TAC de control se descarta infartos actuales, se decide el alta hospitalaria
+
+ORIENTACION DIAGNOSTICA:
+-	Ictus isquémico secundario a bajo gasto.
+-	Disfunción sinusal sintomática. Implante de marcapasos permanente VVIR
+-	HTA.
+-	IR crónica estadio 3
+-	Probable deterioro cognitivo no filiado
+
+TRATAMIENTO
+Igual que hacia + Nolotil cap 1-1-1 si precisa y xumadol 1G 1-1-1 si precisa
+
+PLAN
+- Control del marcapasos dentro 4-6 meses
+-	Control por su MAP tal como tenga previsto
+
+CONSEJOS
+-	Tómese la temperatura al atardecer. Consulte si temperatura mayor de 37ºC
+-	Vigile el estado de su herida quirúrgica y realice las curas según los consejos dados por enfermería.
+-	Consulte si se inflama, se hincha o supura la zona donde le han implantado el marcapasos.
+-	No haga movimientos bruscos del brazo correspondiente al lado donde le han implantado el marcapasos durante el primer mes.
+-	El marcapasos no le impide realizar ninguna actividad, pudiendo realizar deporte aunque evitando aquellos en los que puede ser fácil que le golpeen en la zona de marcapasos (futbol, artes marciales, etc)
+-	Puede viajar en cualquier medio de locomoción. Para volver a conducir  si su permiso es tipo "B" conducirá a partir del primer mes y si es tipo "C" o superior a partir de los tres meses del implante.
+-	Los sistemas antirrobos situados en los bancos, o en las entradas o salidas de los comercios pueden producir interferencias que se evitan pasando normalmente, sin apoyarse ni detenerse en ellos. Los arcos detectores de metales usados en los aeropuertos o en las entradas de las entidades bancarias o edificios públicos no afectan al marcapasos, pero debe indicar al encargado que usted es portador de un marcapasos.
+-	Evite colocar o aproximar imanes a la zona del marcapasos.
+-	Puede utilizar todo tipo de electrodomésticos, mandos a distancia, equipos informáticos... Los teléfonos fijos e inalámbricos son seguros. El "móvil" puede utilizarse sobre el lado opuesto donde está implantado el marcapasos.
+-	Puede tomar el sol sin exponer directamente la zona del marcapasos demasiado tiempo.
+-	Su dieta habitual no tiene que verse afectada por el marcapasos.
+-	Si se le tiene que realizar una resonancia magnética, asegúrese que su marcapasos es compatible con esta técnica. En caso de ser así, podrá realizarla pasadas 6 semanas del implante y previo contacto con su consulta de marcapasos para programación adecuada del mismo. No hay problema para el resto de pruebas diagnósticas. En caso de intervenciones quirúrgicas debe avisar de que lleva un marcapasos.
+
+
+Tipus d'ingrés: Motiu d'alta:	Urgent Alt.Mèd.Domicil	
+Metge Adjunt:
+_ID_
+Servei:	_NAME_
+
+CARUO_SS_ Cardiologia	Nº Col·legiat Adjunt:
+
+Data informe:  07.07.2017
+
+
+Pàgina 1 de	4
+Data i hora d'impressió:
+07.07.2017 14:48:54

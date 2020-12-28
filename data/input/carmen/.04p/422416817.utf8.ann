@@ -1,0 +1,121 @@
+T1	_SUG_TAC_craneal 67 70	TAC
+T2	HORA 300 305	13:30
+#2	AnnotatorNotes T2	13:30
+T3	FECHA 309 319	25.09.2017
+#3	AnnotatorNotes T3	2017-09-25
+T4	FECHA 421 431	20.09.2017
+#4	AnnotatorNotes T4	2017-09-20
+T6	_SUG_Hemorragia_cerebral 500 524	Hemorràgia intracerebral
+T7	_SUG_Localizacion 525 530	lobar
+T8	_SUG_Lateralizacion 531 538	derecha
+T9	_SUG_mRankin 669 672	mRs
+T11	_SUG_Etiologia 799 811	Hipertensión
+T12	FECHA 870 874	2010
+#12	AnnotatorNotes T12	2010-UNDEF-month-UNDEF-day
+T13	_SUG_Lateralizacion 900 901	I
+T14	_SUG_Hemorragia_cerebral 904 914	Hemorragia
+T15	_SUG_Localizacion 916 921	lobar
+T16	_SUG_Localizacion 923 931	parietal
+T17	_SUG_Lateralizacion 933 940	derecha
+T18	FECHA 959 970	Agosto/2015
+#18	AnnotatorNotes T18	2015-08-UNDEF-day
+T19	FECHA 973 984	Agosto/2017
+#19	AnnotatorNotes T19	2017-08-UNDEF-day
+T20	_SUG_Etiologia 997 1017	Angiopatía  Amiloide
+T21	FECHA 1219 1230	Agosto/2017
+#21	AnnotatorNotes T21	2017-08-UNDEF-day
+T22	_SUG_mRankin 1232 1237	mRs 1
+T23	_SUG_NIHSS 1239 1246	NIHSS 1
+T24	_SUG_Lateralizacion 1255 1264	izquierdo
+T25	FECHA 1386 1390	2005
+#25	AnnotatorNotes T25	2005-UNDEF-month-UNDEF-day
+T26	FECHA 1410 1415	09/07
+#26	AnnotatorNotes T26	2007-09-UNDEF-day
+T27	FECHA 1637 1642	10/14
+#27	AnnotatorNotes T27	2014-10-UNDEF-day
+T28	FECHA 1747 1752	08/11
+#28	AnnotatorNotes T28	2011-08-UNDEF-day
+T29	_SUG_Lateralizacion 1817 1824	derecho
+T30	FECHA 1854 1859	08/06
+#30	AnnotatorNotes T30	2006-08-UNDEF-day
+T32	FECHA 2030 2040	20/09/2017
+#32	AnnotatorNotes T32	2017-09-20
+T33	HORA 2100 2105	08.00
+#33	AnnotatorNotes T33	08:00
+T34	HORA 2159 2164	08.15
+#34	AnnotatorNotes T34	08:15
+T35	_SUG_Lateralizacion 2229 2238	izquierda
+T36	_SUG_Ictus_isquemico 2416 2421	ictus
+T37	HORA 2428 2433	08.40
+#37	AnnotatorNotes T37	08:40
+T38	HORA 2512 2517	09.48
+#38	AnnotatorNotes T38	09:48
+T39	_SUG_Lateralizacion 3013 3022	izquierda
+T40	_SUG_Lateralizacion 3051 3060	izquierdo
+T41	_SUG_Lateralizacion 3202 3211	izquierda
+T42	_SUG_NIHSS 3251 3279	NIHSS: 00000/24010/01021: 11
+T43	_SUG_Lateralizacion 3388 3397	izquierda
+T44	_SUG_Lateralizacion 3412 3413	e
+T45	_SUG_Lateralizacion 3426 3436	izquierdas
+T46	_SUG_NIHSS 3438 3467	NIHSS:  10002/13020/01010: 11
+T47	_SUG_Lateralizacion 3919 3928	izquierda
+T48	_SUG_TAC_craneal 3954 3956	TC
+T49	_SUG_Hemorragia_cerebral 3969 3979	Hemorragia
+T50	_SUG_Localizacion 3980 3985	lobar
+T51	_SUG_Localizacion 3994 4001	frontal
+T52	_SUG_Lateralizacion 4002 4009	derecho
+T53	_SUG_Lateralizacion 4168 4173	drets
+T54	_SUG_Lateralizacion 4239 4243	dret
+T55	_SUG_Lateralizacion 4483 4492	izquierda
+T56	_SUG_Lateralizacion 4512 4521	izquierda
+T57	_SUG_NIHSS 4546 4557	NIHSS de 11
+T58	_SUG_TAC_craneal 4570 4572	TC
+T60	_SUG_Hemorragia_cerebral 4592 4615	hemorragia intracraneal
+T61	_SUG_Localizacion 4616 4621	lobar
+T62	_SUG_Lateralizacion 4622 4629	derecha
+T63	_SUG_Hemorragia_cerebral 4675 4685	hemorragia
+T65	_SUG_Hemorragia_cerebral 4720 4744	hemorragia intracerebral
+T66	_SUG_Localizacion 4745 4750	lobar
+T67	_SUG_Localizacion 4760 4767	frontal
+T68	_SUG_Lateralizacion 4768 4775	derecho
+T69	_SUG_Etiologia 4844 4863	angiopatía amiloide
+T70	_SUG_Ictus_isquemico 4942 4947	Ictus
+T71	FECHA 5337 5342	24/09
+#71	AnnotatorNotes T71	2017-09-24
+T72	_SUG_Lateralizacion 5407 5416	izquierdo
+T74	_SUG_TAC_craneal 5426 5438	TC de craneo
+T75	_SUG_Hemorragia_cerebral 5509 5519	hemorragia
+T76	_SUG_Lateralizacion 5804 5813	izquierda
+T77	_SUG_Lateralizacion 5856 5865	izquierda
+T79	_SUG_Hemorragia_cerebral 5972 5999	hemorragias intracerebrales
+T80	_SUG_Localizacion 6155 6162	parcial
+T82	_SUG_Hemorragia_cerebral 6286 6297	hemorragias
+T84	_SUG_Hemorragia_cerebral 6338 6362	hemorragia intracerebral
+T86	_SUG_Hemorragia_cerebral 6379 6403	hemorrafia intracerebral
+T87	_SUG_Etiologia 6430 6449	angiopatia amiloide
+T88	_SUG_NIHSS 6481 6509	NIHSS: 00000/24010/01021: 11
+T89	_SUG_mRankin 6525 6531	mRs: 5
+T91	_SUG_Hemorragia_cerebral 6551 6575	Hemorragia intracerebral
+T92	_SUG_Etiologia 6616 6635	angiopatia amiloide
+T93	_SUG_Etiologia 6643 6654	Hipertensió
+T95	_SUG_Hemorragia_cerebral 6684 6708	Hemorràgia intracerebral
+T96	_SUG_Hemorragia_cerebral 6709 6719	Hemorràgia
+T97	_SUG_Localizacion 6729 6741	cerebel·losa
+T98	_SUG_Localizacion 6767 6775	cortical
+T100	_SUG_Lateralizacion 7058 7063	Dieta
+T101	FECHA 7279 7289	25.09.2017
+#101	AnnotatorNotes T101	2017-09-25
+T102	SECCION_MOTIVO_DE_INGRESO 485 499	MOTIU D'INGRÉS
+T103	SECCION_ANTECEDENTES 540 551	ANTECEDENTS
+T104	SECCION_ANTECEDENTES_PERSONALES 552 575	ANTECEDENTES PERSONALES
+T105	SECCION_ANTECEDENTES_PATOLOGICOS 772 796	ANTECEDENTES PATOLOGICOS
+T106	SECCION_TRATAMIENTO_HABITUAL 1865 1883	MEDICACIÓ HABITUAL
+T107	SECCION_PROCESO_ACTUAL 2000 2013	PROCÉS ACTUAL
+T108	SECCION_EXPLORACION_FISICA 2554 2571	EXPLORACIÓ FÍSICA
+T109	SECCION_EXPLORACION_FISICA_AL_ALTA 3281 3300	EXPLORACION AL ALTA
+T110	SECCION_EXPLORACIONES_COMPLEMENTARIAS 3470 3495	EXPLORACIÓ COMPLEMENTÀRIA
+T111	SECCION_EVOLUCION 4383 4399	EVOLUCIÓ CLÍNICA
+T112	SECCION_DIAGNOSTICOS 6533 6544	DIAGNÒSTICS
+T113	SECCION_TRATAMIENTO_Y_RECOMENDACIONES_AL_ALTA 6836 6871	TRACTAMENT I RECOMANACIONS A L'ALTA
+T114	SECCION_CONTROL 7160 7167	CONTROL
+T115	SECCION_DESTINO_AL_ALTA 7202 7221	DESTINACIÓ A L'ALTA

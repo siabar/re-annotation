@@ -1,0 +1,147 @@
+
+
+
+
+
+Informe d'Alta Hospitalària	Cognoms i nom:
+_NAME_	NHC:
+_ID_
+	ABS:
+_SS_	CIP:
+_ID_	DNI:
+_ID_
+	Data de naixement:
+_DATE_	Sexe:
+Home	Edat:
+59a	Telèfon:
+_CONTACT_	_CONTACT_
+	Finançament:
+CatSalut - _LOCATION_	Procedència:
+URGÈNCIES
+	Admissió:
+08.06.2017 - 14:55	Servei:
+NEURO - UNITAT ICTUS HOSP	Data entrada urg.:
+08.06.2017 - 06:44
+Adreça:
+_LOCATION_	Població:
+_LOCATION_	Codi Postal:
+_LOCATION_
+
+
+
+Motivo de Ingreso:
+Varón de 59 años que ingresa por hemorragia cerebral.
+
+
+ANTECEDENTES
+-	No AMC
+-	Fumador de 1 paq / dia. Enol fines de semana.
+-	Obesidad (IMC 38 aprox).
+-	Hipertensión arterial sin tratamiento farmacológico
+-	Posible tumor de Warthin. Sigue controles en ORL _SS_.
+-IQ: Hemorroides
+-	No tratamiento habitual.
+-	Situación sociofuncional: mRs 0. Trabaja de guardia seguridad en un Parking. Vive en domicilio con su esposa y sus dos hijos. Padre 92 años tuvo un ictus, madre falleció por cardiopatía, 2 hermanos sanos. Nacido en un pueblo de _LOCATION_, vive en _LOCATION_.
+
+ENFERMEDAD ACTUAL
+Varón 59 años que acude a urgencias el 08/06. Según refieren sus familiares, el paciente se ha despertado bien, ha ido al baño, ha desayunado y posteriormenete regresa a  la habitación para vestirse, y en ese momento nota la debilidad en extremidades izquierdas (aprox a las 6:00). Niegan consumo de toxicos.
+
+EXPLORACIÓN FÍSICA
+Neurológica
+A la exploracion el 08/06 a su llegada a urgencias: vigil, orientado, desviación forzada de la mirada a la derecha que no cruza linea media, disartria, alteración de campos visuales por amenaza, paresia facial central importante, hipoestesia FBC izquierda, plejia BC izquierda, anosognosia parcial del déficit. NIHSS: 0.0.0.2.2/2.(0+4)(0+4)/0.1.0.1.1 = 17 puntos
+
+Exploración neurológica a su llegada a la unidad de ictus el 08/06 a las 15:30h: Somnolencia, orientado en las 3 esferas, disartria grave sin rasgos afásicos (nomina, comprende y repite), paresia mirada conjugada a la izquierda que no pasa línea media, campimetría por confrontación normal, PINR, paresia facial izquierda con participación orbicular, plejia braquial 0/5 y paresia crural 1/5, hemihipoestesia izquierda, dismetría no valorable, no anosognosia ni asomatognosia. NIHSS = 1.0.0.2.0.2.0.4.0.3.0.1.0.2.0 = 15
+
+CTES: PA 157/84 mmHg, FC 51x', T 35.4ºC, FR 18x', SatO2 98% amb VMK al 24%.
+
+A su ingreso en Sala de Neurología (explorado en silla):
+
+
+
+Conciente, orientado, trastorno de memoria de fijación (1 de 3 palabras en recuerdo diferido), disartria inteligible con hipofonia, lenjguaje normal, no anosognosia ni asomatognosia aunque la reacción emocional a su déficit neurológico parece nula,  desviación óculo-cefálica a la derecha con paràlisis de la mirada conjugada a la izquierda. No hemianopsia pero sí hemiinatención visual izquierda y extinción visual  aunque no constante.
+PPCC: Paresia facial central derecha Motor: Hemiplejia FBC o/5 izquierda
+Sensibilidead: Hipoestesia tacto, dolor y vibratòria en hemicuerpo izquierdo NIHSS: 0+0+0+1+0+2+0+4+0+4+0+1+0+1+1=14
+
+Al alta:
+Conciente, orientado pero con somnolencia (ha recibido sendantes por la noche). Trastorno de memoria de fijación. Disartria, hipofonia. No anosognosia ni asomatognosia pero algo indiferente a sus déficits neurológicos. Paràlisis de la mirada conjugada hacia la izquierda. No hemianopsia pero sí extinción visual izquierda (inconstante). Hemiplejia FB(0)C(1) izquierda. Hipoestesia superficial  y profunda en hemicuerpo izquierdo. Babinski izquierdo.
+NIHSS: 1+0+0+1+0+2+4+0+4+0+0+1+0+1+2=16
+
+
+
+EXPLORACIONES COMPLEMENTARIAS
+- Analítica a su llegada a urgencias (08/06): Sodi 141 mmol/L ( 136 - 145 ) Potassi 4,23 mmol/L ( 3,50 - 5,10 ) Glucosa 7,5 mmol/L ( 3,0 - 6,0 ) 135,00 mg/100mL Urea 7,5 mmol/L ( 2,1 - 7,1 ) 45 mg/100mL Creatinina
+83 µmol/L ( 0 - 106 ) 0,94 mg/100mL Proteïna total 76,4 g/L ( 64,0 - 83,0 ) HEMATOLOGIA-HEMATIMETRIA
+Hemograma Hemoglobina 169 g/L ( 130 - 170 ) Hematòcrit 0,50 L/L ( 0,40 - 0,50 ) Hematies 5,59 x10E12/L (
+4,50 - 5,70 ) VCM 89,3 fL ( 80,0 - 98,0 ) CCMH 339 g/L ( 320 - 360 ) HCM 30,2 pg ( 27,0 - 32,0 ) RDW 13,0 % (
+12,0 - 15,0 ) Plaquetes 180 x10E9/L ( 140 - 350 ) VPM 9,6 fL ( 7,0 - 10,5 ) Plaquetòcrit 0,20 % Leucòcits 8,78 x10E9/L ( 3,80 - 11,00 ) Fórmula leucocitària Neutròfils 67,6 % Neutròfils absoluts 5,94 x10E9/L ( 1,80 - 7,00 ) Eosinòfils 2,3 % Eosinòfils absoluts 0,20 x10E9/L ( 0,05 - 0,50 ) Basòfils 0,5 % Basòfils absoluts 0,04 x10E9/L ( 0,00 - 0,10 ) Monòcits 7,2 % Monòcits absoluts 0,63 x10E9/L ( 0,30 - 1,00 ) Limfòcits 22,4 % Limfòcits absoluts 1,97 x10E9/L ( 1,00 - 4,00 ) HEMOSTÀSIA Temps de tromboplastina 1,04 RATIO ( 0,75 - 1,30 ) Temps de protrombina 0,96 INR ( 0,75 - 1,20 ) Temps de trombina 18,80 s ( 17,00 - 24,00).
+-	Analítica de estudio etiológico (10/6/17): Hemograma, bioquímica normal. Serologías hepatitis, lues y HIV negativas. An Antinucleares 1/80.
+-	Rx de tórax: Placa rotada, no valorable índice cardiotórácico, no condensaciones en parénquima pulmonar.
+-	ECG: Ritmo sinusal a 50x', eje a la izquierda a -15º aporx, el eje y la progresión de las Rs en precordiales son compatibles con un hemibloqueo de la subdivisión anterior de la rama izquierda del HH, QRS estrcho, sin alteraciones agudas de la repolarización ventricular.
+-	Monitorización ECG en la unidad de ictus: tendencia a la bradicardia sinusal, bien tolerada.
+
+-	TC craneal + angioTC a su llegada a urgencias el 08/06: TC CRANEAL: Isquemia Aguda Visible: NO. Hemorragia: SI. Localización: Hematoma intraparenquimatoso frontal derecho, con apertura hacia espacios aracnoideos de los surcos de la convexidad adyacentes y con ligero edema perilesional. Efecto de masa sobre el sistema ventricular: NO. Desviación de la línea media: NO. Otros hallazgos: Focos de hipodensidad en la sustancia blanca periventricular y subcortical de aspecto hipf3xico-isquémico crónico.  ANGIO-TC (TSA E INTRACRANEAL): No se observan anomalías vasculares en relación con el hematoma. Origen fetal de la arteria cerebral posterior izquierda. Trombosis/Oclusiónarterial de arterias de mediano calibre: NO. Signos de ateromatosis en ambas bifurcaciones carotídeas, sin apreciar estenosis significativas. Permeabilidad de arterias carótidas comunes, internas, externas y vertebrales.Impresión diagnóstica global: Hematoma intraparenquimatoso frontal D, con las características descritas. No se observan alteraciones significativas en el estudio angio-TC intra y extracraneal.
+-	TC de control el 08/06 por la tarde: Comparativamente con el TC realizado el mismo día no se observan cambios significativos en cuanto al tamaño o el efecto de masa que produce el hematoma intraparenquimatoso frontal derecho, con apertura hacia espacios aracnoideos. En cuanto a la densidad se observa aumento en las zonas más caudales en relación a la evolución del hematoma. Restos del estudio sin cambios o alteraciones significativas.
+-	RM cerebral para estudio etiológico (9/6/16): Gran hematoma lobar frontal derecho de aspecto agudo con contaminación subaracnoidea en los surcos adyacentes. Los diámetros máximos del hematoma son 5.8x5x4.5 cm CCxTxAP . Se asocia a ligero edema del parénquimatoso y condiciona escaso efecto de masa que oblitera los surcos adyacentes y distorsiona mínimamente el ventrículo lateral D. Línea media centrada, no se observan herniaciones intracraneales. Múltiples focos confluentes de hiperseñal de sustancia blanca subcortical y periventricular supratentorial sugestivos de afectación microangiopática en grado moderado/severo.
+En secuencias de susceptibilidad magnética se identifican varias aéreas de hemosiderosis cortical en la región parieto-temporal D y parietal I así como múltiples focos puntiformes de microsangrado crónico ( 20 aprox.) de localización cortical y subcortical supratentoriales. No se observa signos sugestivos de trombosis venosa. Resto del sistema ventricular de tamaño y morfología conservados. Sin otras alteraciones.
+Conclusión: Gran hematoma lobar agudo frontal D con escasa contaminación subaracnoidea y ligero efecto de masa sin desviación de la línea media de probable etiología amiloidea (ver informe).
+-	TC craneal de control (10/6/17): Se compara con el TC Craneal previo del 8-6-2017, apreciando un aumento de tamaño del hematoma que ha pasado de 41,6 x 30,5 x 53 mm a 46,3 x 36,3 x 65,8 mm de diámetros trans x ap x cc. El efecto de masa sobre los surcos hemisféricos derechos y sobre el sistema ventricular es notable, aunque no se aprecia desplazamiento de la línea media. Resto del estudio sin otros cambios relevantes.
+CONCLUSIÓN: Discreto aumento del hematoma y de su efecto de masa son respecto al estudio previo de hace 2 días.
+
+EVOLUCIÓN
+Se realiza TC craneal que evidencia hemorragia parenquimatosa frontal derecha, por lo que se decide ingreso en la unidad de ictus para monitorización y control evolutivo. Dada la tendencia a la somnolencia, se decide colocar SNG. El paciente se encuentra hipertenso, requiriendo BIC de urapidilo para control tensional, que posteriormente se pasa a hipotensores vía oral. Se realiza consulta con rehabilitación y con neurocirugía para valoración posibilidades quirúrgicas del hematoma. En RM craneal, se observan microsangrados y siderosis cortical en ambos hemisferios, todo ello, junto a la normalidad de la anigoTC, compatible con probable angiopatía amiloide. Al tercer día de ingreso, se realiza nueva TC cerebral de control que muestra discreto aumento del hematoma y de su efecto masa.
+Dada la estabilidad, se decide traslado del paciente a sala de neurología para continuar estudio. En Sala se encuentra estable de su déficit neurológico y no presenta ninguna complicación relevante.  Realiza rehabilitación. Ante la imposibilidad de ser dado de alta a su domicilio y dado que cumple los  criterios pertinentes, se deriva a _SS_ para rehabilitación de alta intensidad. Se ha iniciado medicación antidepresiva.
+Al alta Rankin 4, NIHSS=16.
+
+
+
+PROCEDIMENTS
+-	Analítica de sangre
+-	ECG
+-	Telemetría
+-	Rx de tórax
+-	TC y angioTC craneales
+-	RM craneal
+
+
+DIAGNÓSTICOS
+-	Hematoma cerebral frontal derecho por probable angiopatía amiloide.
+
+
+
+MEDICACIÓN AL ALTA
+-	Hibor 2.500UI/dia sc.
+-	Amlodipino 10mg/dia vo.
+-	Citalopram 10mg/dia vo.
+-	Enalapril 10mg/12h vo.
+-	Esomeprazol 20mg/dia vo.
+-	Hidroclorotiazida 12'5mg/dia vo.
+-	Paracetamol 1g/8h si dolor.
+-	Metoclopramida 10mg/dia si nauseas.
+RECOMENDACIONES AL ALTA
+Recomendaciones generales:
+-	Tratamiento de la hipertensión arterial, manteniendo cifras por debajo de 140/90.
+-	Abandono completo del hábito tabáquico.
+-	Evitar consumo excesivo de alcohol (se permite una o dos bebidas al día).
+-	Vigilancia y tratamiento del perfil lipídico:
+Dieta pobre en grasas, actividad física apropiada.
+Tratamiento farmacológico si precisa para mantener niveles de LDL<100mg/dl.
+-	Control de la glucemia, que debe ser <126mg/dl en ayunas, con dieta, antidiabéticos orales o insulina si precisa.
+-	Continuar el tratamiento anticoagulante a las dosis recomendadas, siguiendo los controles necesarios.
+
+
+ACUDIR A CONSULTAS EXTERNAS DE NEUROLOGIA SEGÚN CITA ADJUNTA
+ACUDIR  A  CONTROL  EN  CONSULTAS  EXTERNAS  DE  OTORRINOLARINGOLOGIA  SEGUN  CITA ADJUNTA
+
+
+
+Responsable clínic: Dr. _NAME_ (NºCol. _ID_)
+Equip mèdic: _NAME_ (NºCol. _ID_), Dra. _NAME_ (NºCol. _ID_)
+
+Servei que ha donat d'alta:
+NEUROLOGIA HOSP	Data d'alta:
+20.06.2017	Nom del metge que informa de l'alta:
+Dr. _NAME_ (NºCol. _ID_)
+
+
+_LOCATION_, 20.06.2017
+Pàg. 1 de   5

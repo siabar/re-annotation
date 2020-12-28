@@ -1,0 +1,183 @@
+_LOCATION_
+_LOCATION_) Anul·lació/Reprogramació visites:_CONTACT_
+Telèfon Centraleta: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 79 Anys
+NIF/DNI: _ID__NAME_; _NAME_; _NAME_;
+_NAME_; _NAME_
+Informe d'alta d'hospitalització
+CP	_LOCATION_
+ABS	_SS_
+Servei	NEUROLOGIA
+Data d'alta  12.07.2017	09:10:03
+_LOCATION_
+_CONTACT_; _CONTACT_
+DOMICIL/RES.SOC 16.06.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+ICTUS
+
+ANTECEDENTS
+No alergias conocidas según familia.
+Factores de riesgo cardiovascular: HTA complicada con Retinopatía hipertensiva. DLP, DM2. ACxFA anticoagulado con Sintrom. Paciente con INR inestable según familiares.
+Cardiopatia Isquémica estable x4 by pass:  AMI-DA arteria radial izquierda en Y sobre MI ramo intermedio, vena safena-DP y OM. (05/2011).
+SAOS, portador de CPAP desde julio de 2004. Hiperplàsia benigna de pròstata.
+Estadio basal: Rankin previo 2.
+
+MEDICACIÓ HABITUAL
+AMLODIPINO 10MG 30 1cada 24 Hores DOLAK RETARD 60MG 1 cada 24 Hores
+IRBESARTAN/HIDROCLOROTIAZIDA 300/25MG 1 cada 24 Hores
+SINTROM 1MG 2 cada 24 Hores
+ZYLORIC 300MG 1 cada 24 Hores
+DIANBEN 850MG 1 cada 12 Hores
+EZETROL 10MG 1 cada 24 Hores
+UROLOSIN  0,4MG 1 cada 24 Hores
+FUNGAREST 2% 100ML GEL 1 ML cada 3 Dies
+ELECOR 50MG 1 cada 24 Hores
+
+PROCÉS ACTUAL
+Paciente de 79 años que el día 16/06 por la mañana cuando estaba en el bar a las 9:15 am al empezar a desayunar presenta clínica ACM izquierda completa (TACI) desde _LOCATION_. Paciente RACECAT núm 104.
+
+A su llegada a urgencias, llega a las 10:42h. HMDE, SatO2 95% basal, , DXT 137, Coaguchek 1.7. A nivel de Expl NRL se encuentra consciente, orientación no valorable, mutista, no obedece órdenes simples ni complejas (7). PFSN (2). TOC izq (1). HHD (2). ESD 0/5 (4), EID 3/5 (2), sensibilidad no valorable. NIHSS 18.
+ECG en FA a 100 lpm, no alt. en la repolarización. TC craneal con AngioTC TSA y transcraneal. Se constata en TAC hiperdensidad M1 izquierda y angio-TAC trombosis M1 izquierda. ASPECTS 9. TC craneal a las 11:12. Se inicia bolus de rTPA con TA 149/78 y FC 87 a las 11:15. Se contacta con Neurovascular. Se comenta trombectomía con familia que firma consentimiento. Se realiza punción a las 11:40h, presenta dificultad anatómica para pasar dispositivo por carótida tortuosa; al final del procedimiento el resultado es recanalización incompleta TICI 2a-1.
+
+Ingresa en la unidad de ciudados intensivos. Evolución UCI 2.1:
+
+Informe d'alta d'hospitalització
+
+
+
+
+1. ICTUS de ACM izq, rTPA + trombectomía pero sin mejoría clinica. desviación de la linea media en TAC de control que requiere tratamiento osmótico.
+
+Evolución globalemente favorable.
+
+Sin soporte vasopresor durante toda la estancia en la unidad, a ritmo de FA sin requerir tratamiento frenador. Iniciamos tratamiento habitual para cardiopatía de base sin presentar descompensaciones, sin signos de IC.
+
+Tras extubación se informa a familiares situación neurológica y secuelas probables, conscientes y tras entender la situación se decide realizar traqueostomía percutanea el día 23/06 sin complicaciones posteriores aparentes.
+
+Se inicia la fase de destete de la VM que resulta satisfactoria lográndose mantener las últimas 48h en desconexión continua con secreciones, se cultivan en varias oportunidades sin aislamiento microbiolóbico. Atelectasias bibasales en la Rx de tórax. Normooxigenado y normoventilado durante su estancia en la unidad.
+
+Abdomen globuloso, destaca el día 25/06 distensión abdominal atribuido a mórficos y la dieta rica en dieta. Se recambia a nutrison con 1500 calorias y retirada de mórficos. Diarrea desde el 5to dia de ingreso, toxina para clostridium negativa, perfil hepático sin alteraciones durante su estancia en la unidad.
+Función renal correcta en todo momento, ligera hipofosfatemia que se corrige, balances hídricos equilibrados. Febricular los últimos 4 días, 27/06 retiramos CVC, policultivado, realizo antibióticoterapia desde el día 16/06
+-23/06  con  amoxicilina/clavulánico. Pico  de  leucocitosis  12000xmm3,  Sin  anemización  ni  alteraciones de  la
+coagulación durante su ingreso.
+
+SItuación neurológica residual apertura ocular espontánea, DOC izquierda sin cruzar la línea media, dirige la mirada por momentos, Mutista, moviliza el hemicuerpo derecho espontáneamente. plejia hemicuerpo derecho.
+
+Dada la evolución clínica se decide el alta a planta de NRL para seguir a evolución.
+
+EXPLORACIÓ FÍSICA
+
+FC	94 bpm
+Tªaxi 36.9 ºC
+FR	rpm Tªrec  ºC
+TA s	120 mmHg SAT O2 100 %
+TA d   83 mmHg Pes Kg
+
+NRL se encuentra somnoliento (1), orientación no valorable, mutista, no obedece órdenes simples ni complejas (7). PFSN (2). TOC izq (1). HHD (2). ESD 0/5 (4), EID 3/5 (2), sensibilidad no valorable (1). NIHSS 20. mRankin 5.
+-	AC: Tonos arrítmicos, sin soplos. Pulsos periféricos presentes y simétricos. Ingurgitación yugular negativa, RHJ (-).
+-	AR: roncus dispersos. Hipoventilación bilateral.
+-	ABD: Abdomen blando y depresible. Distendido, globuloso. No doloroso a la palpación superficial ni profunda. No presencia de masas ni visceromegalias. Peristaltismo presente. PPL (-) bilateral.
+-	EEII: No edemas periféricos, no signos de TVP.
+-	
+Informe d'alta d'hospitalització
+
+
+
+EXPLORACIÓ COMPLEMENTÀRIA
+PRUEBAS EN URGENCIAS:
+TC y angioTC: Ausencia de permeabilidad vascular focal en el segmento M1 prebifurcación en relación a la trombosis visualizada en la TC craneal sin contraste, con permeabilidad distal. Importante elongación del tronco braquiocefálico y de ambas arterias carótidas primitivas en su segmento proximal, de claro predominio en el lado izquierdo. Calcificaciones ateromatosas en arco aórtico, arterias carótidas primitivas, carótidas internas yexternas. ECG: en FA a 100 lpm, no alt. en la repolarización.
+Analítica sanguínea: pH 7.42, pCO2 45mmHg, pO2 68mmHg, bicarbonat 29.2mmol/L, excés de base 4.2mmol/L, glucosa 10.2mmol/L, urea 11.1mmol/L, Na 138mmol/L, INR 2.11, TTPA 1.04, TP 2.13.
+Radiografía de tórax: en decúbito, cardiomegalia no valorable pero impresiona ICT>0.5, no se visualizan los senos.
+
+PRUEBAS EN UCI:
+TC craneal control: Infarto establecido en territorio ACM izq extenso con discreto efecto de masa.
+Analítica 28/06: urea 8.2 mmol/L, Cr 69 umol/L, FG 86 ml/min, Na 141 mmol/L, K 4.82 mmol/L, Cl 99 mmol/L, Glucosa 7.7 mmol/L, AST 0.70 ukat/L, ALT 0.89 ukat/L, Albumina 33 g/L, Bi 16 umol/L, Ca (II) 2.14 mmol(L, Fosfat
+0.98 mmol/L, Mg 0.79 mmol/L, PCR 83 mg/L, Hb 126 g/L, Htc 38%, VCM 99 fL, RDW 14.2%, Plaquetas 156.000, Leucocitos 11.200, Neutrofilos 8.520. Eq pH 7.46, pCO2 51 mHg, HCO3 36 mmol/L.
+
+
+PRUEBAS EN NEUROLOGÍA:
+EcoTT: Ventrículo izquierdo no dilatado ni hipertrófico, con función sistólica conservada y sin alteraciones segmentarias de la contractilidad. Ventrículo derecho no dilatado, normocontráctil. Aurícula izquierda y raíz aórtica no dilatadas. Válvula aórtica trivalva, sin estenosis ni regurgitación. Válvula mitral normal. Regurgitación tricuspídea ligera, que no permite estimar una presión pulmonar fiable. Vena cava inferior no dilatada y móvil. Sin derrame pericárdico. Registro en FA.
+Clostridium difficile y toxina: negativo en heces.
+Bacteris:  No  s'aïllen  enterobacteris  multirresistents. No  s'aïllen  Acinetobacter  baumannii  ni  Pseudomonas aeruginosa multirresistents.
+No se aísla S. aureus meticilin resistente en frotis nasal.
+Cultivo de esputo, urocultivo y HC x2 16/06 y 20/06: negativos.
+
+TC craneal control 26/06: Respecto al 19/06:
+-Evolución dentro de los límites esperables del extenso infarto prácticamente completo territorio ACM I.
+-Discreta reducción del efecto de massa.
+-No imágenes hemorràgicas valorables.
+
+EVOLUCIÓ CLÍNICA
+Paciente de 79 años que ingresa por ictus TACI ACM Izq con M1,  tratado con trombolisis y trombectomía TICI 2A-1. Ante estabilidad clínica se traslada de UCI a planta de neurología para control evolutivo.
+
+Durante su ingreso en unidad de ictus y posteriormente en planta, el paciente se ha mantenido en fibrilación auricular, con una exploración neurológica similar.
+
+Como incidencias realizó fiebre de 38ºC que se orientó como probable origen respiratorio sin evidencia microbiológicacubriéndose con Augmentine 7 días con buena respuesta.
+
+Informe d'alta d'hospitalització
+
+
+
+
+
+En un TC control realizado en planta de evidencia infarto establecido a nivel de territorio de ACM Izq extenso, prácticamente completo. No se ha detectado evidencia de bacterias multiresistentesen las distintas muestras analizadas. El paciente es portador de traqueotomía y SNG. Se ha acordado con familiares limitación de otras medidas terapéuticas agresivas en caso de inestabilidad del paciente.
+
+Se orienta como ictus de ACM izquierda de etiología cardioembólica por FA. NIHSS 20, mRS 5.
+
+Actualmente, se trata de un paciente con una gran afectación neurológica. A nivel NRL se encuentra somnoliento (1), orientación no valorable, mutista, no obedece órdenes simples ni complejas (7). PFSN (2). TOC izq (1). HHD (2). ESD 0/5 (4), EID 3/5 (2), sensibilidad no valorable (1). NIHSS 20. mRankin 5.
+
+Ante estabilidad clínica se decide traslado a centro de referencia (_SS_) para control evolutivo.
+
+DIAGNÒSTICS
+436/5 Ictus
+Ictus de ACM izquierda de etiología cardioembólica.
+
+PROCEDIMENTS
+87.44 Radiografia rutinària de tòrax, descrita com a tal. Radiografia de tòrax NOS
+87.44 Radiografia rutinària de tòrax, descrita com a tal. Radiografia de tòrax NOS
+87.44 Radiografia rutinària de tòrax, descrita com a tal. Radiografia de tòrax NOS
+87.44 Radiografia rutinària de tòrax, descrita com a tal. Radiografia de tòrax NOS
+93.14 Entrenament de moviments articulars
+93.18 Exercici respiratori
+87.44 Radiografia rutinària de tòrax, descrita com a tal. Radiografia de tòrax NOS
+87.44 Radiografia rutinària de tòrax, descrita com a tal. Radiografia de tòrax NOS
+87.44 Radiografia rutinària de tòrax, descrita com a tal. Radiografia de tòrax NOS
+87.44 Radiografia rutinària de tòrax, descrita com a tal. Radiografia de tòrax NOS
+87.44 Radiografia rutinària de tòrax, descrita com a tal. Radiografia de tòrax NOS
+87.44 Radiografia rutinària de tòrax, descrita com a tal. Radiografia de tòrax NOS
+87.44 Radiografia rutinària de tòrax, descrita com a tal. Radiografia de tòrax NOS
+87.44 Radiografia rutinària de tòrax, descrita com a tal. Radiografia de tòrax NOS
+89.09 Consulta, no especificada de cap altra manera
+89.08 Altra consulta
+89.08 Altra consulta
+93.18 Exercici respiratori
+89.8	Altra consulta
+89.9	Consulta, no especificada de cap altra manera
+89.08 Altra consulta
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Se adjunta.
+
+Informe d'alta d'hospitalització
+
+
+
+DESTINACIÓ A L'ALTA:	HOSP. AGUTS/PSQ
+
+
+
+
+Validat per: _NAME_ NAIMA	Col·legiat: _ID_
+
+12.07.2017
+Pàgina 1 de 5

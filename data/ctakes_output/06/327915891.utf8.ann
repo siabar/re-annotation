@@ -1,0 +1,49 @@
+T0	FECHA 322 332	19/01/2017
+#0	AnnotatorNotes T0	2017-01-19
+T1	FECHA 404 413	20/1/2017
+#1	AnnotatorNotes T1	2017-01-20
+T2	FECHA 442 451	25/1/2017
+#2	AnnotatorNotes T2	2017-01-25
+T3	_SUG_NIHSS 733 740	NIHSS 7
+T4	_SUG_Trombolisis_intravenosa 769 783	trombolisis ev
+T5	_SUG_Trombectomia_mecanica 818 838	terapia endovascular
+T6	_SUG_NIHSS 923 930	NIHSS 1
+T7	SECCION_ANTECEDENTES_PATOLOGICOS 1020 1035	HISTORIAL MÈDIC
+T8	FECHA 1235 1239	2010
+#8	AnnotatorNotes T8	2010-UNDEF-month-UNDEF-day
+T9	SECCION_TRATAMIENTO_HABITUAL 1241 1261	Tratamiento habitual
+T10	_SUG_Tratamiento_anticoagulante 1382 1389	sintrom
+T11	SECCION_EXPLORACION_FISICA_DURANTE_HOSPITALIZACION 1421 1460	EXPLORACIÓ FÍSICA en la UNidad de Ictis
+T12	_SUG_NIHSS 1623 1630	NHISS 1
+T13	_SUG_Test_de_disfagia 1689 1703	Test deglucion
+T14	SECCION_EXPLORACIONES_COMPLEMENTARIAS 1714 1742	EXPLORACIONS COMPLEMENTARIES
+T15	FECHA 3012 3015	1/2
+#15	AnnotatorNotes T15	2010-02-01
+T16	_SUG_Tratamiento_anticoagulante 3975 3981	liquid
+T17	_SUG_Tratamiento_anticoagulante 4058 4065	LÍQUIDS
+T18	_SUG_Tratamiento_anticoagulante 4075 4082	líquids
+T19	_SUG_ASPECTS 4089 4096	Aspecte
+T20	_SUG_ASPECTS 4105 4112	Aspecte
+T21	_SUG_Tratamiento_anticoagulante 4154 4160	líquid
+T22	_SUG_Tratamiento_anticoagulante 4189 4195	liquid
+T23	_SUG_TAC_craneal 4232 4243	TAC cranial
+T24	_SUG_Trombectomia_mecanica 4391 4412	tratamiento realizado
+T25	_SUG_Trombolisis_intravenosa 4391 4412	tratamiento realizado
+T26	_SUG_TAC_craneal 4675 4677	TC
+T27	_SUG_Tratamiento_anticoagulante 5069 5076	sintrom
+T28	_SUG_Tratamiento_anticoagulante 5081 5088	Eliquis
+T29	SECCION_DESTINO_AL_ALTA 5126 5141	Destino al alta
+T30	_SUG_mRankin 5154 5170	Rankin (alta): 0
+T31	_SUG_NIHSS 5171 5186	NIHSS (alta):	0
+T32	SECCION_DIAGNOSTICOS 5188 5200	Diagnósticos
+T33	SECCION_DIAGNOSTICO_PRINCIPAL 5204 5225	Diagnóstico principal
+T34	_SUG_Ictus_isquemico 5228 5235	Infarto
+T35	_SUG_Arteria_afectada 5262 5265	ACM
+T36	_SUG_Lateralizacion 5266 5273	derecha
+T37	_SUG_Etiologia 5277 5297	causa cardioembolica
+T38	SECCION_DIAGNOSTICOS_SECUNDARIOS 5300 5324	Diagnósticos secundarios
+T39	SECCION_PROCEDIMIENTOS 5465 5479	Procedimientos
+T40	_SUG_TAC_craneal 5483 5493	TC craneal
+T41	SECCION_TRATAMIENTO_AL_ALTA 5545 5564	Tratamiento al alta
+T42	_SUG_Tratamiento_anticoagulante 5598 5605	Eliquis
+T43	SECCION_RECOMENDACIONES 5794 5834	Recomendaciones de prevención secundaria

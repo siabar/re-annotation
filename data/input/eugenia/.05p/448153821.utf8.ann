@@ -1,0 +1,77 @@
+T0	FECHA 233 243	25.11.2017
+#0	AnnotatorNotes T0	2017-11-25
+T1	HORA 246 251	16:04
+#1	AnnotatorNotes T1	16:04
+T2	_SUG_Ictus_isquemico 275 280	ICTUS
+T3	FECHA 305 315	25.11.2017
+#3	AnnotatorNotes T3	2017-11-25
+T4	HORA 318 323	11:35
+#4	AnnotatorNotes T4	11:35
+T5	SECCION_MOTIVO_DE_INGRESO 391 408	Motivo de ingreso
+T6	SECCION_ANTECEDENTES 473 485	ANTECEDENTES
+T7	SECCION_TRATAMIENTO_HABITUAL 842 862	Tratamiento habitual
+T8	_SUG_Tratamiento_antiagregante 864 867	AAS
+T9	SECCION_SITUACION_FUNCIONAL 939 953	Sociofuncional
+T10	FECHA 1123 1133	03.03.2014
+#10	AnnotatorNotes T10	2014-03-03
+T11	SECCION_PROCESO_ACTUAL 1185 1202	ENFERMEDAD ACTUAL
+T12	FECHA 1206 1214	25/11/17
+#12	AnnotatorNotes T12	2017-11-25
+T13	HORA 1251 1256	10:30
+#13	AnnotatorNotes T13	10:30
+T14	SECCION_EXPLORACION_FISICA 1793 1811	EXPLORACIÓN FÍSICA
+T15	SECCION_EXPLORACION_FISICA_EN_URGENCIAS 1812 1848	Exploración neurológica en urgencias
+T16	_SUG_NIHSS 2190 2197	NIHSS 2
+T17	SECCION_EXPLORACION_FISICA_AL_ALTA 2276 2307	Exploración neurológica al alta
+T18	SECCION_EXPLORACIONES_COMPLEMENTARIAS_EN_PLANTA_DE_NEUROLOGIA 2367 2406	EXPLORACIONS COMPLEMENTÀRIES A L'INGRÉS
+T19	SECCION_DIAGNOSTICOS 3212 3240	Impresión diagnóstica global
+T20	_SUG_Trombectomia_mecanica 3289 3292	TEV
+T21	_SUG_Arteria_afectada 3345 3348	ACM
+T22	_SUG_Trombolisis_intravenosa 3353 3362	trombosis
+T23	_SUG_Arteria_afectada 3384 3386	M1
+T24	_SUG_Arteria_afectada 3388 3391	ACI
+T25	_SUG_Lateralizacion 4005 4010	ambos
+T26	_SUG_Arteria_afectada 4016 4026	carotídeos
+T27	_SUG_TAC_craneal 4155 4157	TC
+T28	_SUG_Lateralizacion 4186 4195	bilateral
+T29	_SUG_Ictus_isquemico 4366 4373	infarto
+T30	_SUG_Localizacion 4409 4422	frontoinsular
+T31	_SUG_Arteria_afectada 4426 4429	ACM
+T32	_SUG_Lateralizacion 4430 4437	derecha
+T33	_SUG_Ictus_isquemico 4442 4468	transformación hemorrágica
+T34	_SUG_Localizacion 4469 4477	cortical
+T35	_SUG_Hemorragia_cerebral 4508 4516	hematoma
+T36	_SUG_Localizacion 4571 4582	ventricular
+T37	_SUG_Arteria_afectada 4675 4678	ACM
+T38	_SUG_Lateralizacion 4679 4686	derecha
+T39	SECCION_DIAGNOSTICOS 6135 6147	Diagnósticos
+T40	_SUG_Ictus_isquemico 6149 6164	Ictus isquémico
+T41	_SUG_Arteria_afectada 6182 6185	ACM
+T42	_SUG_Lateralizacion 6186 6193	derecha
+T43	_SUG_Etiologia 6197 6215	mecanismo embólico
+T44	_SUG_Etiologia 6228 6242	cardioembólica
+T45	SECCION_EVOLUCION 4714 4723	EVOLUCIÓN
+T46	_SUG_Arteria_afectada 4813 4816	ACM
+T47	_SUG_Lateralizacion 4817 4824	derecha
+T48	_SUG_Arteria_afectada 5024 5027	ACM
+T49	_SUG_Lateralizacion 5028 5035	derecha
+T50	_SUG_Etiologia 5058 5072	cardioembólica
+T51	_SUG_NIHSS 5139 5144	NIHSS
+T52	_SUG_Lateralizacion 5644 5649	dieta
+T53	_SUG_Lateralizacion 5655 5656	e
+T54	_SUG_Arteria_afectada 5900 5903	ACM
+T55	_SUG_Lateralizacion 5904 5911	derecha
+T56	_SUG_Etiologia 5915 5933	mecanismo embólico
+T57	_SUG_Etiologia 5946 5960	cardioembólica
+T58	_SUG_NIHSS 5985 5995	NIHSS de 2
+T59	_SUG_mRankin 6019 6030	rankin de 2
+T60	SECCION_PROCEDIMIENTOS 6033 6047	PROCEDIMIENTOS
+T61	_SUG_TAC_craneal 6048 6058	TC craneal
+T62	SECCION_RECOMENDACIONES 6267 6290	RECOMENDACIONES AL ALTA
+T63	SECCION_TRATAMIENTO_AL_ALTA 6292 6302	Tatamiento
+T64	_SUG_Tratamiento_anticoagulante 6370 6377	Sintrom
+T65	SECCION_CONTROL 6465 6476	Seguimiento
+T66	FECHA 6793 6803	30.11.2017
+#66	AnnotatorNotes T66	2017-11-30
+T67	FECHA 6880 6890	30.11.2017
+#67	AnnotatorNotes T67	2017-11-30

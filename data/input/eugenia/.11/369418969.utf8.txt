@@ -1,0 +1,124 @@
+_SS_
+Informe d'alta Mèdica Servei de Medicina Intensiva
+Full 1 de _NAME_
+_ID_
+Data de naixement: _DATE_	Edat: 74 anys	Sexe: Home
+Nº Episodi: _ID_	Nº Història Clínica: _ID_	
+Adreça: _LOCATION_	
+Telèfon: _CONTACT_	
+Al·lèrgies/ Intoleràncies
+No allergies	
+Grup sanguini:	
+Data d'ingrés UCI: 27.04.2017 18:37	Data d'alta UCI: 28.04.2017 20:00	Estada UCI: 1 dies
+Procedència:  URGENCIES	Destinació:  Altres U	Data Intervenció:
+Tipo d'admissió: Urgent	
+Resultat UCI: TRASLADO A PLANTA	
+
+Telèfons contacte famílies: _NAME_ (Filla)	_CONTACT_ Telèfons contacte famílies: _NAME_ (Hija)	_CONTACT_
+
+
+27.04.2017 18:37
+27.04.2017 18:37
+91
+170
+Pes actual
+Talla actual
+
+
+
+FC	112 /min	PNIs	144 mmHg	Pes	91,000 kg
+SpO2	100 %	PNId	72 mmHg		
+
+28.04.2017
+CONSTANTS A L´ALTA
+EVOLUCIÓ CLÍNICA
+
+
+M0 NOTA D'INGRES
+27/04/2017 19:48 CCC6511 Nota de ingreso MOTIU D'INGRÉS
+Código Ictus
+
+
+ANTECEDENTS
+Varón de 74 años, SAMC. Autónomo . Cognintivamente conservado, Riesgo de caidas. Vive en domicilio.
+
+
+ANTECDENTES PATOLÓGICOS
+-	HTA en tratamiento médico. Cardiopatía hipertensiva: Ecocardiograma 2013: VI de aspecto ligeramente hipertrófico, no dilatado y con buena función (FE 60%). Dilatación de aurícula izquierda importante, así como de aurícula derecha. Buena contractilidad del VD. Insuficiencia mitral moderada. Ingreso en diciembre de 2016 por EAP con buena evolución.
+-	DM tipo2 en tratamiento con dieta. Últma HbA1c de 5.7
+-	FA permanente. Se descarta anticoagulación por AVC hemorrágico previo.
+-	Insuficiencia renal crónica . Creatinina basal 1.93 FG basal 35 (4/ 2017)
+-	AVC hemorrágico a los 59-60 años con recuperación ad integrum. Alteració del equilibri
+-	Hiperuricemia . Gota
+-	Anemia ferropénica estudiada mediante en FCS (pólipo de 0,5 cm a 20 cm de margen anal) y FGC (úlcus gástrico. HP neg) en tratamiento con Fe oral
+-	
+EVOLUCIÓ CLÍNICA
+-	2015 Neumonía bilobar derecha.
+-	Lumbartrosis
+-	Herpes zoster torácico izquierdo
+
+TRATAMIENTO HABITUAL:
+Espironolactona 25, omeprazol 20, tromalyt 300, alopurinol 300, seguril 40, bisoprolol 5, ferrogradumet, atorvastatina 40.
+
+
+MALALTIA ACTUAL
+Consulta por afasia de expresión del despertar. Ultima hora visto bien  a las 23.00.
+
+
+A su llegada a UCIAs paciente con afasia de expresión, No déficit motor ni campimétrico, sensibilidad conservada, sin focalidad de PPCC.
+
+Se traslada a TC donde se realiza TC simple, angio TC y TC perfusión donde presenta importante área de penumbra con escaso tejido ictado, por lo que se decide realiza fibrinolisis sistémica.
+
+
+
+EXPLORACIÓ
+Pacinete consciente, orientación no valorable. AC: sin roce ni 3R.
+AP: MVC sin ruidos sobreañadidos.
+ABD: blando y depresible, no dolrooso, sin masas ni megalias. EEII: Sin edemas ni semiología de TVP.
+
+ANALÍTICA I EXPLORACIONS
+Analítica:
+-	Hemograma: Hb 13 g/dL Hcto 39%, plaquetas 184000, leucocitos 10540 (67%N)
+-	Bioquímica: Glucosa 121 mg/dL; Urea/creatinina: 62/1.74 mg/dL; Na/K: 141/4.2 mmol/L, Cl 100 mmol/L.
+-	Coagulación: TP 100% ECG:
+EVOLUCIÓ INICIAL
+Ingresa tras la adminitración de la carga y la perfusión persistiendo la clínica de afasia de predominio de expresión aunque tambie de comprensión. Mantengo dieta absoluta.
+
+ORIENTACIÓ DIAGNÓSTICA
+Ictus isquémico
+EVOLUCIÓ CLÍNICA
+M1 EVOLUCIÓ CLINICA 28/04/2017 09:18 CCC1064 UCI
+Primeras 16 horas tras fibrinolisis por Ictus isquémicos. El paceinte persiste con afasia de expresión, no nomina ni repite adecuadamente. Comprensión conservada. Discretamente bradipsíquico auqnue desconocemos estado cognitivo previo. Sin focalidades motor-sensitivas ni dismetrias, no otras fiocalidades.
+En FA persistente, no descoagulado por Ictus hemorragico previo. No alteracion orgánica signitiva salvo su comorbilidad previa en forma de IRC, cardiopatía hipertensiva y DM .
+
+Plan: TC craneal de control. Traslado a UFI y seguir trayectoria clínica.
+
+Diagnòstics  ANTECEDENTS DIABETES MELLITUS
+INSUFICIENCIA RENAL CRONICA CARDIOPATIA NO ESPECIFICADA HIPERTENSION
+DIAGNOSTIC PRINCIPAL (N.U.)
+ALTRA MALALTIA CEREBROVASCULAR ISQUEMICA GENERALITZADA
+
+
+Tractaments
+PROCEDIMENTS
+MONITORATGE ELECTROGRAFIC; TELEMETRIA
+Antecedents/Diagnòstics/Procediments
+
+APACHE II	
+Mitja 15,00	
+Primera 15	
+Máx 15	
+Min 15	
+La mès nova 15
+Mort(APACHE)	0,21	0	0	0	0
+SAPS II	33,00	33	33	33	33
+Mort(SAPS)	0,14	0	0	0	0
+NEMS	15,00	15	15	15	15
+NEMS(e)/d	15,00	15	15	15	15
+
+Puntuació (SCORES)
+Atès per:	_NAME_
+Autorizat per:
+_NAME_
+
+Impreso: 28.04.2017 21:05

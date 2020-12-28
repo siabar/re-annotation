@@ -1,0 +1,202 @@
+_LOCATION_ Tel. _CONTACT_
+e-mail: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 49 Anys
+NIF/DNI: _ID__NAME_; _NAME_; _NAME_;
+_NAME_
+Informe d'alta d'hospitalització
+11:54:54
+01.02.2017
+_LOCATION_
+_SS_ NEUROLOGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_ID_
+DOMICIL/RES.SOC 25.01.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Ictus territorio indeterminado izquierdo
+
+ANTECEDENTS
+Varón de 49 años. Independiente para las ABVD. mRS 0. Trabaja de camarero. Fumador. No alergias medicamentosas conocidas.
+Natural de _LOCATION_. Vive en _LOCATION_ desde el 98
+Hacía deporte de joven. Última vez que hizo deporte el año pasado.
+
+Patológicos:
+-	Hipertensión arterial sin tratamiento médico. por decisión propia
+-	Niega episodios de taquicardia, angina, edemas, disnea importante, síncopes.
+
+Antecedentes  familiares  de  diabetes  (madre)  e  infarto  miocárdico (hermano  mayor,  no  sabe  a  qué  edad ocurrieron).
+
+MEDICACIÓ HABITUAL
+No toma.
+
+PROCÉS ACTUAL
+Varón de 49 años que consulta porque el 25.01.17 a las 11:00h de la mañana comienza con cuadro repentino de torpeza a nivel de mano derecha, notando la mujer que articula mal el lenguaje y presenta desviación de la comisura bucal, además de marcha inestable sin clara lateropulsión.
+
+A las 14.28 horas se activa código ictus desde SEM y el paciente llega a nuestro centro a las 15.15 horas, ubicándose en semicríticos de urgencias.
+
+EXPLORACIÓ FÍSICA
+
+FC	70 bpm
+Tªaxi 36.0 ºC
+FR	rpm Tªrec  ºC
+TA s	180 mmHg SAT O2 99 %
+TA d   118 mmHg Pes Kg
+
+En Urgencias:
+AC: Rítmico, sin soplos. AP: MV conservado. Abdomen: Blando, depresible, no doloroso. EEII: No edema ni signos de TVP.
+NRL: Consciente, orientado, colaborador. Disartria leve, no elementos afásicos. Isocoria normorreactiva. Campimetría por confrontaciónnormal. MOE sin paresias. Paresia facial supranuclear derecha, resto de pares craneales sin alteraciones. Debilidad 4+/5 a nivel de garra con pronación y excavación en Barré, sin claudicación de la extremidad, resto de fuerza conservada. Sensibilidad táctil conservada, no extinción. No dismetría dedo-nariz ni talón-rodilla.
+
+Informe d'alta d'hospitalització
+
+
+
+
+NIHSS: (0-0-0)-0-0//2(0-0)(0-0)//0-0-0 -1-0=3
+
+En Unidad de Ictus Agudo:
+Consciente, orientado, colaborador. Leve disartria, no elementos afásicos. Anisocoria reactiva (derecha midriática). Campìmetría por confrontación normal. MOE sin paresias. Paresia facial derecha con mínimo componente superior. Paresia leve ESD distal sin claudicación de extremidad, resto conservada. Sensibilidad táctil conservada, no extinción. No dismetría.
+NIHSS: (0-0-0)-0-0//2(0-0)(0-0)//0-0-0 -1-0=3
+
+Al alta: consciente y orietnado en 3 esferas, , no afasia, disartria leve. No alteracines campimétricas exploradas por confrontación Paresia facial derecha con componente superior  y Miller Fisher derecho. Sin alteraciones sensitivas. RCP flexor bilateral. sin extinción, no anoso/asomatognosia,
+
+NIHSS = (0-0-0)-0-0/1(0-0)-(0-0) /0-0- 0-1-0 = 2
+
+EXPLORACIÓ COMPLEMENTÀRIA
+En Urgencias: Analítica:
+Hemograma: Leucocitos 9000 (67% neutrófilos, 26% linfocitos), Hemoglobina 12.8 g/L, Hcto 40.7%, VCM 63.3 fL,
+HCM 31.4 pg, Plaquetas 295000.
+Coagulación: T de Protrombina 11.1s, 96%, ratio 1.03, INR 1.03; TTPA 34.3s,ratio 1.11; Fibrinógeno 537 mg/dL. Bioquímica: Glucosa 83 mg/dL, Creatinina 1.58 mg/dL, Urea 41 mg/dL, Sodio y potasio pendientes, PCR 3.4 mg/dL.
+Tóxicos en orina: Negativos.
+
+ECG:  Ritmo  sinusal  a  70  lpm,  QRS  >0.12  seg,  signos  de  crecimeinto  biventricular,  no  trastornos  de  la repolarización aguda.
+
+AngioTC craneal (25.01.2017 15:34h): No se observan signos precoces TC sugestivos de isquemia  aguda. ASPECTS 10. Cisternas basales y perimesencefálicas libres. Espacios perivasculares de Virchow dilatados en ganglios basales derechos. Línea media centrada. Sinupatia maxilar bilateral.
+
+Angio TC TSA e intracraneal: NOTA: angio TC disparado de forma precoz por dificultades técnicas, con difícil valoración de los TSA. No se observan defectos de replección arterial sugestivos de trombosis, ni signos TC sugestivos de MAVs o aneurismas.
+
+En Unidad de Ictus Agudo:
+Rx tórax: Aumento ICT. Sin alteraciones agudas.
+
+Analítica:
+Hemograma: Leucocitos 8000, Hemoglobina 13.1 g/L, Hcto 42%, VCM 63.3 fL, HCM 19.8 pg, Plaquetas 261000.
+Bioquímica: Glucosa 89 mg/dL, Hemoglobina glicosilada  5.5%, Proteína 62.5 g/L, Albúmina 37.8 g/L, Urea 37
+mg/dL, Creatinina 1.47 mg/dL (FG 55), Urato 8.2 mg/dL, Calcio 9 mg/dL, Fosfato 3.4 mg/dL, Magnesio 1.89 mg/dL,
+Sodio 141.5 mmol/L, Potasio 4.05 mmol/L, Bilirrubina 0.79 mg/dL, Fosfatasa alcalina 67 U/L, ALT 6 U/L, GGT 14
+U/L, LDH 120 U/L, CK 47 U/L,PCR 3.2 mg/L.
+Perfil lipídico: Triglicéridos 78 mg/dL, Colesterol 191 mg/dL, HDL 43.5 mg/dL, LDL 132 mg/dL, Colesterol no HDL 148 mg/dL.
+
+Informe d'alta d'hospitalització
+
+
+
+
+Proteinograma: normal.
+Perfil tiroideo: TSH 1.157, T4L 1.06.
+Estudio de anemia: recitulocitos 38.000, hematíes hipocrómicos 6%, ferritina 285ng/mL, haptoglobina 174mg/dL.
+Pendiente de resultado de estudio de hemoglobinas.
+Hemoglobina  13.1 g/L,  Hcto  41.7%, VCM 63  fL,  HCM  19.8 pg,  Leucocitos 7900 (65.9%  neutrófilos, 22.1%
+linfocitos), Plaquetas 273000.
+Bioquímica: Glucosa 80 mg/dL, Urea 48 mg/dL, Creatinina 1.49 mg/dL (FG 54), Sodio 141 mmol/L, Potasio 3.83 mmol/L, LDH 128 U/L.
+Marcadores tumorales: CEA 2.32, aFP 1.45, CA 19-9 7.5, PSA 6.19 (elevado) con índice PSAlibre/total normal.
+
+Analítica (nefrología):
+Hemograma: microcitosis (VCM 62fL, HCM 19pg, CHCM normal) sin anemia. Resto de hemograma normal. Bioquímica: creatinina/urea 1.68/59mg/dL FG 47mL/min, urato 9.3mg/dL. Calcio, fosfato, sodio, potasio normales. ALT normal.
+Orina: proteinúria 24 horas 1220mg/24h.
+Infecciosas: VHC, VHB, VIH negativos. Tripanozoma cruzy pendeinte. Autoinmunidad: FR negativo.
+Inmunoquímica: IgG, A y M normales.
+
+RM cerebral (27.01.2017): Se observan dos lesiones con restricción de la difusión positiva de localización profunda centro semioval izquierdo de unos 17x7 mm de diámetros LLxCC y otra puntiforme focal cortical temporomedial derecha. Ambas lesiones son compatible con lesiones isquémicas agudas de etiología embólica (a valorar alteraciones cardíacas vs ateromatosis aorta) observan también múltiples lesiones de microsangrados algunas centrales y otras periféricas en probable relación con vasculopatía hipertensiva. Hay lesiones de aspecto crónico vascular algunas con restos de hemosiderina a nivel ganglio basal derecho, lenticulocapsular derecho y múltiples pequeñas lesiones puntiformes necróticas y no necróticas compatibles con enfermedad de pequeño vaso que por la edad del paciente y restos de hemosiderina se pueden considerar de grado severo. Ventrículo cerebral de tamaño y morfología normales con dilatación de espacios de Virchow Robin signifcativas. NO se observan otras alteraciones significativas a nivel de parénquima cerebral, cerebeloso ni en tronco del encéfalo.
+
+Ecocardiograma transtorácico (27.01.2017): ETT: Ventrículo izquierdo severamente dilatado, moderadamente hipertrófico, con hipocinesia difusa y función sistólica severamente deprimida. Aurícula izquierda severamente dilatada. Insuficiencia aóritca ligera-moderada; dilatación ligera de aorta ascendente y raíz aórtica. FE 30% .
+
+Monitorización electrocardiográfica durante 5 días: No se objetivan alteraciones del ritmo
+
+Estudio neurosonológico: Transcraneal: Temporal: Ambas ACAs, ACMs y ACPs simétricas de manera bilateral, con flujo laminar sin aliasing ni aumentos focales de la velocidad sistólica. Carótidas: Ambos ejes carotídeos se visualizan perfectamente (bifurcación baja, anatomía muy favorable), presentando ausencia de placas ateromatosas, flujo laminar en todos sus puntos sin aumetnos focales de la velocidad. GIM bilateral 1.5. Estudio de shunt derecha-izquierda: Buena maniobra de Valsalva. Basal 0 burbujas. Tras Valsalva, cero burbujas.
+
+Informe d'alta d'hospitalització
+
+
+
+EVOLUCIÓ CLÍNICA
+Varón de 49 años fumador activo, no enol, hipertenso sin tratamiento médico por decisión propia que el día 25.01.2017 sobre las 11:00h presenta clínica de PACI izquierdo (disartria, facial y paresia manual derechas) llegando a nuestro centro a las 15:15h (activación código ictus 14:28h). ECG en ritmo sinual. Analítia de urgencias con insuficiencia renal, sin otras alteraciones significativas. Se realiza TAC craneal y angioTC sin observarse lesiones isquémicas/hemorrágicas agudas ni oclusión de gran vaso, por ello y por el tiempo de evolución (4:30h) se desestima tratamiento en fase aguda. A su llegada constantes normales salvo TA 180/118mmHg por lo que se administra bolus de 10mg de urapidilo permaneciendo posteriormente con TA en torno a 160/105mmHg. Se orienta como ictus isquémico en paciente joven y se decide ingreso en Unidad de Ictus Agudo para control hemodinámico, clínico ,  metabólico y estudio etiológico.
+
+Durante su ingreso no se ha objetivado arritmias en telemetría , hiperetenso en las primeras horas que requirió administración de varios bolus de urapidilo (10 mg) , con posterior corrección tras añadir al tratamiento hipotensor oral. El resto de constantes se han mantenido dentro de la normalidad. Clínicamente presenta buena evolución.
+
+En la analítica de ingreso llama la atención aumento de la creatinina que tras valoración de nefrología se orineta como crónico en paciente hipertenso jóven pòr lo que se realizará estudio y seguimiento en cosnultas externas de Nefrología pendiente de realizar un eco renal. También se observa anemia por lo que se solicita estudio específico que no muestra leve disminución de número de reticulocitos, pendiente de resultado de estudio de hemoglobinas al alta. Se solicitó RM que muestra una lesión isquémica de tamaño lacunar en territorio de ACM izquierda y puntiforme a nivel de ACM derecha de aspecto embólico, además de datos de vasculopatía hipertensiva con enfermedad de pequeño vaso. El estudio neurosonológico de ejes carotídeos y circulación anterior, con estudio de shunt derecha-izquierda, muestra normalidad. Se realizó ecocardiograma transtorácico hallándose una dilatación severa de cavidades izquierdas así como insuficiencia aórtica con dilatación de aorta proximal, compatible con miocardiopatíadilatada con FE del 30%, fue evaluado por el servicio de cardiología quienes recomiendan iniciar tratamiento con IECAs y bisoprolol y realizarán seguimiento y estudio etiológico en Unidad de insuficiencia cardíaca. Se incia  anticoagulación según pauta.
+
+Al alta presenta una paresia facial y disartria residual leve. Se inicia dieta oral, sedestación y deambulación sin incidencia.
+
+Dada la buena evolución clínica del paciente se decide dar el alta a domicilio con pauta de sintrom y control. Al alta:
+NIHSS: 2
+Escala de Rankin: 1 Barthel: 100.
+
+DIAGNÒSTICS
+Ictus isquémico en territorio de ACM derecha e izquierda de mecanismo embólico y etiología cardioembólica. Hipertensión arterial.
+Dislipemia leve. Miocardiopatía dilatada. Insuficiencia renal crónica.
+436 Malaltia cerebrovascular aguda,però maldefinida.Apoplexia,apoplèctic:atac,crisi;accident cerebrovasc.NOS
+
+Informe d'alta d'hospitalització
+
+
+
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Dieta cardiosaludable.
+Acenocumarol según pauta de Hematología.
+Clexane 60 mg c/ 12 horas solo hoy
+Atorvastatina 40mg: 1 comprimido después de la cena. Carvedilol  25mg 1-0-1.
+Enalapril 5 mg 1-0-1.
+Alopurinol 100mg 1-0-0. Paracetamol 1g 1-1-1 si precisa.
+
+CONTROL
+Valorara por parte de médico de familia el tyrtaamiento de sinupatía maxilar Valorar rehabilitación ambulatoria en _SS_
+Acudir a _SS_ para control de sintrom mañana
+Acudir 17.02.2017 a las 08:50h a consultas externas de la Unidad de Insuficiencia cardíaca. Acudir 06.03.2017 a las 09:30h a consultas externas de Neurología (Dra _NAME_).
+
+
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+01.02.2017
+Pàgina 1 de 5

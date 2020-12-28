@@ -1,0 +1,86 @@
+I.CLINIC DE NEUROCIÈNCIES NEUROLOGIA
+_NAME_	NHC: _ID_
+
+
+Sexo/Sexe: Fem.	Fecha nac./Data naix.: _DATE_	Edad/Edat: 84 años Dirección/Adreça: _LOCATION_	CP: _LOCATION_
+Municip. (Prov.): _LOCATION_  ABS:_SS_	Tel.:_CONTACT_
+As.: _NAME_	CIP: _ID_	NASS: _ID_
+Nº epis.: _ID_	Tipo/Tipus: HOSPIT.	Ingres.: 06.01.2017 Serv: NEUROLOGIA	UO Enf.: G064 SALA G DE NEUROLOGIA	Hora: 23:40:27
+
+
+
+
+
+Tipo ingreso/Tipus ingrés: Urgent	Motivo/Motiu alta: Defunc.
+Diag.:
+ACMI ()
+TRASFORMACIÓN HEMORRÁGICA ()
+Proc.:
+
+
+
+
+INFORME EXITUS
+
+Motivo de consulta / Motiu de consulta
+Alteración del habla
+
+Antecedentes e historia previa / Antecedents i història prèvia
+Mujer de 85 años, sin alergias medicamentosas conocidas. Independiente  para las actividades basicas. Camina con muleta por protesis femur. Vive con su marido de 90 años. mRS2.
+
+** ANTECEDENTES PATOLÓGICOS:
+1.	DISLIPEMIA
+2.	ASMA BRONQUIAL.
+3.	FRACTURA SUBCAPITAL FÉMUR DERECHO -> HEMIARTROPLASTIA CEMENTADA CON PRÓTESIS BIPOLAR (13/11/08) - AFLOJAMIENTO VÁSTAGO EXETER -> RECAMBIO A PTC ECHELON (08/11/10) - ULCERA en maleolo interno pierna izquierda a raz de atropello de bicicleta.
+
+** MEDICACIÓN ACTUAL: Serevent (salmeterol) cada 12h, Salbutamol sp, simvastatina 10 mg/d, zaldiar (tramadol/paracetamol) 37.5/325 mg cada 12h, paracetamol 500 mg cada 8h, beclometasona 2 pulverizaciones cada 12h.
+
+Proceso actual / Procés actual
+Asintomática hasta las 19:00h de hoy 06/01/17 estando su hijo en casa. Sobre las 21:00h la vecina de casa la encuentra confusa y con alteración del habla por lo que avisan a SEM.
+Hace 2 días la paciente prsentó crisis hipertensiva detectada por cefalea por medico de cabecera. Se inició tratamiento con hidroclorotiazida. Mejoría de la cefalea a las 24h.
+
+Exploración física / Exploració física
+07/01/2017-00:00:00: Frecuencia respiratoria (rpm) 22, PAS (mm Hg) 207, PAD (mm Hg) 73, Pulsioximetría (%) 95.
+NRL: Vigil, consciente. Lenguaje normofluente con rasgos afásicos (sabe decir su nombre, no su edad, nomina 1/4 objetos, repite frases cortas de 2-3 ítems, no de 4, realiza órdenes sencillas 2/3). No disartria.
+
+
+
+Reflejo de amenaza presente bilateral. Mirada centrada sin limitaciones. Balance muscular conservado. Sensibilidad y dismetrías no valorables. NIHSS 4.
+
+Laboratorio / Laboratori
+*	ANALÍTICA SANGUÍNEA: Glucemia 128, Sodio 123, Hto 35%, Fibrinógeno 5.2. Resto normal.
+*	ANALÍTICA SANGUÍNEA DE CONTROL: Glucemia 174, sodio 125, 12600 leucos, Hto 34%, 9.4% neutros.
+Fibrinogeno 3.6.
+
+Radiología / Radiologia
+*	TC CRANEAL: Se aprecia una zona de hipodenisdad cortical´subcortical a nviel del territorio de la angular izda. Mínima zona de hipodensidad cortical en corteza parietal correspondiente. Estructuras de la línea media centradas. No se observan signos de sangrado agudo intra ni extra axial.
+*	TC CRANEAL DE CONTROL: Se aprecian varios focos de hemorragia a nivel de la región parietal- occipital izda con algún foco en región frontal del vértex. Presentan niveles en su interior. Se aprecia una pérdida del tamaño de los surcos y desdiferenciación cortical a nivel de la zona del sangrado, podría todo ello corepsonder a edema. Hematoma subdural de 5 mm a nivel de la región frontal izda. Estructuras de la línea media centradas.
+
+Evolución / Evolució
+1. ICTUS ISQUÉMICO EN TERRITORIO DE LA ARTERIA CEREBRAL MEDIA IZQUIERDA (ACMI). 2. TRANSFORMACION HEMORRÁGICA.
+Mujer de 85 años sin AMC, hipertensa de reciente diagnóstico, dislipémica y asma. Presenta la tarde del 6/1/2016, entre las 19-21h (asintomática a las 19h y encontrada con alteración del lenguaje a las 21h) alteración del lenguaje en forma de afasia por lo que avisan al SEM.
+A su llegada a nuestro centro nos avisa triaje para valoración activándose código ictus. Estaba con TAS 155 y en la exploración destaca afasia global con NIHSS 4.
+Se realiza TC basal que presenta hipodensidad discreta inicial en territorio parietal izquierdo ACMI, subcortical, sin otras lesiones agudas.
+Se inicia fibrinolisis ante al ausencia de contraindicaciones a las 22:15h. Durante la perfusión de rTPA de detuvo el tratamiento tras 26mL por hipertensión que no respondió a tratamiento hipotensor ev (urapidilo 10mg) y cefalea sin cambios neurológicos. Se realiza TC de control que muestra lesiones hemorrágicas parenquimatosas múltiples en hemisferio izquierdo, con signos de sangrado activo y también hemorragia subdural frontal izquierda. Tras la realizazión del TC se incia tratamiento con fibrinogeno (4g). Durante el tratamiento la paciente presenta empeoramiento rápido presentandose arreactiva, anisocoria, signos de descerebración, Babinski bilateral.
+Se explica a la familia el mal pronóstico y se inician medidas de confort siendo éxitus el día 7/1/2016 a las 04:20h.
+
+Plan terapéutico / Pla terapèutic
+.
+
+Otras recomendaciones / Altres recomanacions
+.
+
+
+
+Firma/Signatura1: _NAME_		Firma/Signatura2: _NAME_ Categoría: Resident 4	Categoría: Esp.Assist.Urg.
+Nº Matrícula HCP: _ID_	Nº Matrícula HCP: _ID_ Fecha/Data: 07.01.2017
+Hora: 04:24:31
+
+Docum.: _ID_
+Hist. Clínica: _ID_	Vers. 00	Pag. 2 de	2
+Episod.: _ID_
+El _SS_ ha incorporado sus datos al Fichero de	_SS_	_SS_ ha incorporat les seves dades al
+Pacientes, para tratarlos con fines sanitarios.	_LOCATION_)	Fitxer de Pacients, per a tractar-los amb finalitats
+Puede ejercer sus derechos de acceso, rectificación,	_LOCATION_ (España)	sanitàries. Pot exercir els seus drets d'accés,
+cancelación y oposición, así como obtener mas información	Tel. _CONTACT_ Fax _CONTACT_	rectificació, cancel·lació i oposició, i obtenir més
+en la Unidad de Atención al Cliente.	<_CONTACT_/>	informació a la Unitat d'Atenció al Client.

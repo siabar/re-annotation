@@ -1,0 +1,123 @@
+_LOCATION_
+email: _CONTACT_ Telèfon _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 51 Anys
+NIF/DNI: _ID__NAME_; _NAME_; _NAME_;
+_NAME_
+Informe d'alta d'hospitalització
+12:18:31
+16.09.2017
+_LOCATION_
+_SS_ UNITAT D'ICTUS
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_
+AGUTS 11.09.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Paciente que ingresa por infarto en territorio de ACM I
+
+ANTECEDENTS
+Alergias: Sin alergias conocidas
+Fumadora de 1 paquete/día. Sin hábito enólico.
+
+Otros antecedentes:
+- Embarazo ectópico. No antecedentes de abortos espontáneos.
+-Historia de síncopes convulsivos (en uno de los episodios según la familia se realizó un TC y un EEG, sin hallazgos, no ttos)
+
+Antecedentes familiares:
+Primo carnal con muerte súbita. Sin otros antecedentes relevantes. Rankin previ:0
+MEDICACIÓ HABITUAL
+No realiza
+
+PROCÉS ACTUAL
+Mujer de 51 años, que se despierta el día 11 de septiembre asintomática (aunque su esposo refiere que "hablaba poco") y en domicilio presenta cuadro sincopal con afasia posterior, por lo que es visitada inicialmente en _SS_ orientándose como una crisis epiléptica con cuadro postcrítico posterior. Allí se le administra carga de Levetiracetam bajo dicha sospecha. Afebril en todo momento. Dado que la clínica de afasia no mejora se contacta con Teleictus, decidiéndose derivar a nuestro centro para valoración bajo orientación de posible evento isquémico cerebral.
+
+Ultima vez que fue vista asintomáica: 11/09/2017 a las 07:00:00.
+Se activa código Ictus 11/09/2017 a las 14:27:00 horas, a nivell  _SS_)
+
+
+EXPLORACIÓ FÍSICA
+
+EXP. FÍSICA A URG: PAS135 , PAD 77 mmHg // FC de84 bpm
+NRL: Vigil, alerta. Afasia severa (3) (nomina 0/2 (1), no repite, comprende órdenes simples pero se intoxica fácilmente (1)). No POC ni DOC. Campimetría por amenaza sin alteraciones. No paresia facial. Balance motor y sensibilidad conservados. No agnosias ni negligencias. No dismetría. NIHSS 6
+
+EXP. NRL (U. ICTUS): vigil, afasia mixta grave (3), no nomina, no repite, comprende 1 orden sencilla (2+1),
+
+Informe d'alta d'hospitalització
+
+
+
+
+paresia facial central D leve(1). Sin otros déficits motores o sensitivos. NIHSS=7
+
+
+EXPLORACIÓ COMPLEMENTÀRIA
+Analítica de ingreso: Hb 14.9 g/dL ; VCM 91.3 fL; HCM 30.2 pg; Leucòcits 12.090 (Neutròfils   7700, Limfòcits
+3300); Plaquetes 286.000; INR 1.08; TQ 88%; VSG 30; Glucosa 90; Urea 41; Creatinini 0.78 mg/dL; FG 88
+ml/min/1,73 m2 Bilirubina tot 1.39; BD 0.37; Na 138.6; K 4.55; Ca 10; AST 24; ALT 17; FA 101; GGT 53; Proteïna
+7.3; Albúmina 4.6;
+*Perfil lipidico: Colesterol tot 193; HDL 46; LDL 125; Triglicèrid 111;
+*Maradores tumorales: Ag carcinoembriogenic 2.8; CA 19.9 6.0; CA-125 6.2; AFP 2.9 (normales)
+*Autoinmunidad PEND
+TC craneal multimodal (11/9/2017): No se observan lesiones hemorragicas. Hipodensidad limitada a region cortico subcortical superior al valle silviano, segmentos M2 y M4 ASPECTS 8. Sistema ventricular,espacios cisternales y aracnoideos normales No se observan alteraciones en parenquima cerebral cerebeloso ni tronco. El estudio TC perfusion muestra alteracionesen una pequeña region frontal izquierda con elevacion en mapas de tiempo ,TTP Y MTT y alteracion de flujo (corresponderia a la lesion visualizada en TAC simple) que apenas muestra alteracion en CBV En el angiotac realizado se observa permeabilidad de TSA sin estenosis hemodinamicamente significativas. En relacion a vascularizacion intracraneal unicamente se observa posible oclusion a nivel de M2 de division anterior aunque dificil de identificar por su fino calibre
+Trombectomía cerebral: Punción femoral derecha, introductor 6F 90 cm. La serie de ACI izquierda muestra oclusión M2división anterior Se realiza un pase de Capture + aspiración por Navien 0.072 logrando recanalización TICI 2b
+Electrocardiograma: ritmo sinusal a 80x', sin alteraciones de la repolarización. Estudio shunt DI (basal y tras valsalva): negativo
+TC de craneo: (12.09.2017) Lesión isquémica establecida frontal inferior izquierda, en territorio superficial de la ACM izquierda (M2 y M4). Aparición de pequeña lesión isquémica establecida en la cabeza del núcleo caudado izquierdo.No se observan focos de transformación hemorrágica.
+Vscan cardiaco: Ventriculo izquierdo de aspecto no hipetrófico. Fracción de eyección aparentemente conservada por valoración visual.  No alteraciones segmentarias de la contractilidad. Auricula izquierda de aspecto no dilatado. No valvulopatia mitral significativas. No se observan imagenes sugestivas de trombo intrauricular ni ventricular. No se detectan placas de ateroma significativas en arco aórtico. No se observa aneurisma del septo interauricular Telemetría cardiaca 96h: sin evidencia de arritmias potencialmente embolígenas.
+
+EVOLUCIÓ CLÍNICA
+Se trata pues de una paciente de 51a, fumadora, que presenta un ictus ACM I por una oclusión de M2 ACM I tratada con trombectomía mecánica y recanalización completa, aunque el TC simple pre-tratamiento de reperfusión ya mostraba un infarto isquémico agudo en el territorio insular de la ACM I, que no se modificó en el TC de control a las 24h.
+Dentro del estudio etiológico se ha realizado un ecoscan cardiaco, telemetría cardiaca de 96h, estudio shunt D-I y analítica general que no han mostrado alteraciones significativas. Para completar el estudio se continuará de forma domiciliaria la monitorización cardiaca mediante un Holter-ECG wearable, y se solicita la realización ambulatoria de un ecocardiograma transesofágico y un estudio de trombofilia.
+Clínicamente, la paciente se ha mantenido estable durante su estancia en la Unidad de Ictus, persistiendo con una afasia global de predominio motor, con compresión de alguna orden sencilla al alta, y leve paresia facial derecha (NIHSS al alta=6, mRS = 3). Por ello, recomendamos remitir a su Logopeda de zona para valoración.
+
+Informe d'alta d'hospitalització
+
+
+
+
+Tras comprobar que la paciente cumple todos los criterios de inclusión y ninguno de exclusión, y firma del consentimiento informado por su marido, se incluye en el ensayo clínico RESTORE-BRAIN (estudio randomizado, doble-ciego para probar la eficacia y seguridad de S44819 después de un ictus).
+Ante la estabilidad, se decide el alta hospitalaria con control en nuestras CCEE.
+
+
+DIAGNÒSTICS
+Infarto isquémico (PACI) ACM I de etiología indeterminada
+
+PROCEDIMENTS
+TC craneal multimodal Trombectomíacerebral TC craneal
+Estudio shunt D-I Telemetría cardiaca Vscan cardiaco
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Dieta pobre en sal y grasas. Actividad física diaria suave.
+1.	AAS 100mg 1 comp/día vo
+2.	Omeprazol 20mg 1 comp/día vo
+3.	Atorvastatina 80mg 1 comp/día vo
+4.	Medicación ensayo clínico RESTORE-BRAIN: 2 sobres/12h.
+
+Control de factores de riesgo vascular por su médico de Atención Primaria.
+
+CONTROL
+Se contactará telefónicamente o por carta para realización de ecocardiograma transesofágico (2ª planta anexos _SS_). Acudir en ayunas y acompañada
+Se contactará para valoración en CCEE de Logopedia y Hematología (estudio de trombofilia). Acudir a CCEE de Unidad de Ictus (2ª planta centro, _SS_):
+- 10/10/17 a las 15:00h
+- 14/11/17 a las 15:00h
+- 12/12/17 a las 15:00h
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+16.09.2017
+Pàgina 1 de 3

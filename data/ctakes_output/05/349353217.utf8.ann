@@ -1,0 +1,41 @@
+T0	SECCION_DIAGNOSTICOS 352 363	DIAGNÒSTICS
+T1	_SUG_Ictus_isquemico 368 382	Ictus isquèmic
+T2	_SUG_Localizacion 415 437	territori indeterminat
+T3	_SUG_Arteria_afectada 415 437	territori indeterminat
+T4	_SUG_Etiologia 439 463	etiologia cardioembòlica
+T5	_SUG_Trombectomia_mecanica 486 494	mecànica
+T6	_SUG_Lateralizacion 623 630	Dretana
+T7	SECCION_ANTECEDENTES_PATOLOGICOS 651 674	ANTECEDENTS  PATOLÒGICS
+T8	FECHA 771 775	2015
+#8	AnnotatorNotes T8	2015-UNDEF-month-UNDEF-day
+T9	SECCION_TRATAMIENTO_HABITUAL 1294 1314	Tractament  habitual
+T10	_SUG_Tratamiento_anticoagulante 1438 1445	sintrom
+T11	SECCION_MOTIVO_DE_INGRESO 1461 1475	MOTIU D'INGRÉS
+T12	FECHA 1484 1492	10.03.17
+#12	AnnotatorNotes T12	2017-03-10
+T13	HORA 1736 1741	12.50
+#13	AnnotatorNotes T13	12:50
+T14	SECCION_EXPLORACION_FISICA 2219 2237	EXPLORACIÓ  FÍSICA
+T15	_SUG_NIHSS 2625 2632	NIHSS 0
+T16	SECCION_EXPLORACIONES_COMPLEMENTARIAS 2801 2831	EXPLORACIONS   COMPLEMENTÀRIES
+T17	_SUG_TAC_craneal 3030 3041	TC crani al
+T18	_SUG_Tratamiento_antiagregante 3545 3549	ACAs
+T19	_SUG_TAC_craneal 3764 3769	crani
+T20	FECHA 3815 3825	17/03/2017
+#20	AnnotatorNotes T20	2017-03-17
+T21	_SUG_Trombectomia_mecanica 3962 3970	mecànica
+T22	SECCION_EVOLUCION 4098 4106	EVOLUCIÓ
+T23	_SUG_Tratamiento_anticoagulante 4172 4177	76bpm
+T24	_SUG_NIHSS 4225 4232	NIHSS 1
+T25	_SUG_TAC_craneal 4238 4248	TC cranial
+T26	_SUG_Tratamiento_anticoagulante 4548 4555	sintrom
+T27	_SUG_Tratamiento_anticoagulante 4558 4562	HBPM
+T28	_SUG_NIHSS 4656 4663	NIHSS 0
+T29	_SUG_mRankin 4665 4673	rànkin 0
+T30	_SUG_Tratamiento_anticoagulante 4904 4911	Sintrom
+T31	_SUG_Tratamiento_antiagregante 5005 5008	AAS
+T32	SECCION_TRATAMIENTO_AL_ALTA 5192 5202	TRACTAMENT
+T33	_SUG_Tratamiento_antiagregante 5206 5211	Adiro
+T34	_SUG_Tratamiento_anticoagulante 5377 5384	Sintrom
+T35	HORA 5455 5460	12:34
+#35	AnnotatorNotes T35	12:34

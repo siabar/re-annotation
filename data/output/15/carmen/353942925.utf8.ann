@@ -1,0 +1,37 @@
+T1	SECCION_TIPO_DE_INGRESO 434 459	Tipo ingreso/Tipus ingrés
+T2	SECCION_MOTIVO_DEL_ALTA 468 485	Motivo/Motiu alta
+T3	SECCION_DIAGNOSTICOS 501 506	Diag.
+T4	SECCION_PROCEDIMIENTOS 546 551	Proc.
+T5	_SUG_TAC_craneal 553 564	TC CEREBRAL
+T6	_SUG_TAC_craneal 579 589	TC CRANEAL
+T7	Trombectomia_mecanica 598 619	TROMBECTOMÍA MECÁNICA
+T8	SECCION_MOTIVO_DE_INGRESO 671 709	Motivo de consulta / Motiu de consulta
+T9	SECCION_ANTECEDENTES 748 810	Antecedentes e historia previa / Antecedents i història prèvia
+T10	SECCION_ANTECEDENTES_PATOLOGICOS 988 1008	ANTECEDENTES MÉDICOS
+T11	_SUG_Trombectomia_mecanica 1911 1924	tiroidectomía
+T12	_SUG_Trombolisis_intravenosa 1990 2010	tratamiento con CPAP
+T13	SECCION_TRATAMIENTO_HABITUAL 2084 2103	MEDICACIÓN HABITUAL
+T14	SECCION_PROCESO_ACTUAL 2265 2295	Proceso actual / Procés actual
+T15	SECCION_EXPLORACION_FISICA 2661 2699	Exploración física / Exploració física
+T16	SECCION_EXPLORACION_FISICA_EN_URGENCIAS 2923 2935	A SU LLEGADA
+T17	SECCION_EXPLORACION_FISICA_DURANTE_HOSPITALIZACION 3210 3225	UNIDAD DE ICTUS
+T18	TAC_craneal 4762 4764	TC
+T19	_SUG_TAC_craneal 4779 4790	TC CEREBRAL
+T20	_SUG_TAC_craneal 4972 4974	TC
+T21	_SUG_TAC_craneal 5769 5771	TC
+T22	SECCION_EVOLUCION 6049 6069	Evolución / Evolució
+T23	_SUG_Trombolisis_intravenosa 6180 6194	Fibrinolisis y
+T24	Trombolisis_intravenosa 6180 6192	Fibrinolisis
+T25	_SUG_Trombectomia_mecanica 6195 6216	Trombectomía mecánica
+T26	_SUG_TAC_craneal 6788 6798	TC craneal
+T27	_SUG_Trombolisis_intravenosa 7056 7075	fibrinolisis (r-tpa
+T28	_SUG_Trombectomia_mecanica 7089 7110	trombectomía mecánica
+T29	_SUG_TAC_craneal 7247 7257	TC craneal
+T30	_SUG_TAC_craneal 7828 7838	TC craneal
+T31	_SUG_Trombolisis_intravenosa 8170 8196	tratamiento de reperfusión
+T32	_SUG_Trombectomia_mecanica 8170 8196	tratamiento de reperfusión
+T33	_SUG_TAC_craneal 9081 9092	TC cerebral
+T34	SECCION_EXPLORACION_FISICA_AL_ALTA 9420 9427	Al alta
+T35	SECCION_TRATAMIENTO_AL_ALTA 9476 9509	Plan terapéutico / Pla terapèutic
+T36	SECCION_RECOMENDACIONES 10131 10152	Otras recomendaciones
+T37	_SUG_TAC_craneal 10376 10386	TC craneal

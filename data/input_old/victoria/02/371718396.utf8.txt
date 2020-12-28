@@ -1,0 +1,99 @@
+I.CLINIC DE NEUROCIÈNCIES NEUROLOGIA
+_NAME_	NHC: _ID_
+
+
+Sexo/Sexe: Fem.	Fecha nac./Data naix.: _DATE_	Edad/Edat: 70 años Dirección/Adreça: _LOCATION_	CP: _LOCATION_
+Municip. (Prov.): _LOCATION_  ABS:_SS_		Tel.:_CONTACT_ -_CONTACT_ As.: SERVEI CATALA DE LA SALUT	CIP: _ID_	NASS: _ID_
+Nº epis.: _ID_	Tipo/Tipus: HOSPIT.	Inici.: 14.05.2017
+Serv: NEUROLOGIA	UO Enf.: G064 SALA G DE NEUROLOGIA	Hora: 05:36:59
+Facult. de ref.: _NAME_
+
+
+
+
+Tipo ingreso/Tipus ingrés: Urgent	Motivo/Motiu alta: Dom. Familiar
+Diag.:
+HEMATOMA DE GANGLIOS BASALES DERECHOS () HIPERTENSIÓN ARTERIAL ()
+Proc.:
+TC CRANEAL () ANALÍTICA SANGUÍNEA ()
+
+
+
+
+INFORME CLÍNICO ALTA / INFORME CLÍNIC ALTA
+
+Motivo de consulta / Motiu de consulta
+Debilidad de extremidades izquierdas.
+
+Antecedentes e historia previa / Antecedents i història prèvia
+Mujer de 70 años sin AMC ni hábitos tóxicos. Natural de _LOCATION_, vive con familiares. Autónoma para las ABVD. mRS: 0.
+
+*ANTECEDENTES PATOLÓGICOS:
+1.	HIPERTENSIÓN ARTERIAL en tratamiento farmacológico.
+2.	ACCIDENTE VASCULAR CEREBRAL previo, no disponemos informes.  Recuperación ad integrum según refieren los familaires.
+3.	INFECCIÓN CRÓNICA POR VHC, en tratamiento antiviral y seguimiento por Digestivo en _SS_.
+4.	MIGRAÑA
+
+*TRATAMIENTO HABITUAL: Paracetamol, Omeprazol, Losartan, Lorazepam, harvoni (sofosvuvir/lavipesvir) 1 comprimido cada día a las 17:30h.
+
+Proceso actual / Procés actual
+Paciente que se acuesta asintomática a las 22h del día 13/05. A las 04:00h, se levanta para ir al lavabo y presenta caída objetivándose debilidad de extremidades izquierdas. Es trasladada a urgencias vía SEM y se activa código ictus intramuros.
+
+Exploración física / Exploració física
+14/05/2017-06:00:00: Frecuencia respiratoria (rpm) 16, PAS (mm Hg) 154, PAD (mm Hg) 90, Pulsioximetría (%) 96, Tª axilar (ºC) 35.6. 14/05/2017-0 7:30:00 : Glicemia capilar (mg/dl) 101.
+NRL: Consciente, parcialmente orientada (falla edad). Lenguaje espontáneo hipofluente, sin rasgos afásicos. Mirada desviada de forma tónica a la derecha, no completa la excursión visual. Paresia facio (mod) braquio
+
+
+
+(0/5) crural (0/5) izquierdas. Hipoestesia grave de extremidades izquierdas.  Dismetrías no valorables. Anosognosia. Heminegligencia izquierda. NIHSS 18.
+
+Laboratorio / Laboratori
+*ANALÍTICA SANGUÍNEA (se adjunta): PCR 0,11 mg/dL. Función renal conservada. Colesterol total 204 mg/dL, TG 64 mg/dL, LDL 139 mg/dL, HDL 52 mg/dL. Anemia  (Hb 108 g/L, hcto 34%) normocítica/normocrómica.
+VSG 37 mm/H. HbA1c 5,7%.
+
+*SEDIMENTO DE ORINA: negativo.
+
+*MICROBIOLOGÍA: urocultivo pendiente.
+
+Radiología / Radiologia
+*TC CRANEAL: hematoma agudo intraparenquimatoso en ganglios basales derechos de 4.7 x 3.5 x cm con leve edema perilesional. Produce efecto de masa con colpaso de los surcos adyacentes y de la cisura de Silvio derecha, desplaza la línea media 5 mm hacia la izquierda, colapsa el III ventrículo y el VLD. Cisternas de la base libres. Cambios involutivos parenquimatosos corticosubcorticales globales. Signos de leucoaraiosis periventricular. Senos paranasales y celdas mastoideas aireados.
+
+Evolución / Evolució
+1.	HEMATOMA EN GANGLIOS BASALES DERECHOS DE 28 cc.
+2.	HIPERTENSIÓN ARTERIAL DE DIFÍCIL CONTROL.
+
+Paciente con los antecedentes descritos que es traída a urgencias por debilidad de extremidades izquierdas. A su llegada, destaca hipertensión arterial (PA 194/111 mmHg) así como síndrome hemisférico derecho (NIHSS 18). La analítica genera muestra colesterol 204, con LDL 139, HDL 52, Hto 34, Hb 10.8, VSG 37. La neuroimagen (TC craneal) mostró hematoma profundo en ganglios de la base derechos de unos 28 cc con leve edema perilesional y que produce efecto de masa sobre los surcos adyacentes y desplaza la línea media 5 mm.
+Se orienta como hematoma cerebral profundo de etiología hipertensiva, realizándose tratamiento agresivo hipotensor con control parcial de los valores tensionales.
+Durante la estancia en neurología la paciente evoluciona de forma favorable, tolerando dieta disfágica y persistiendo en la exploración neurológica mirada con preferencia a la derecha, hemianopsia homónima izquierda densa, hemiparesia facio (total) braquio (0/5) crural (2/5) izquierda con hemihipoestesia ipsilateral. Ante la estabilidad clínica se decide traslado a _SS_ para completar vigilancia evolutiva y rehabilitación.
+Al alta: NIHSS: 15;   mRS: 4.
+
+Plan terapéutico / Pla terapèutic
+-	Omeprazol 10 mg/24h. - Enoxaparina 40 mg/24h. - Ondansetron 4 mg PRN. - Lactitol 10 g/8h. - Paracetamol 1 g/8h PRN. - Metamizol 2 g/8h alterno PRN. - Lavipesvir/sofosbuvir (harvoni) 90/400 mg/24h. - Amlodipino 5 mg/24h. - Enalapril 10 mg712h. - Captopril 25 mg 1er rescate. - Amlodipino 5 mg 2º rescate. - Uradipilo 5 mg 3er rescate
+
+Otras recomendaciones / Altres recomanacions
+-	Ingreso en el _SS_. - Control estricto de los factores de riesgo cardiovascular, en especial hipertensión arterial, por parte de su CAP.
+
+
+
+Firma/Signatura1: _NAME_     Firma/Signatura2: _NAME_
+
+
+
+Categoría: Resident 1	Categoría: Consultor/a 1
+Nº Matrícula HCP: _ID_	Nº Matrícula HCP: _ID_
+
+Fecha/Data Informe: 17.05.2017
+Hora Informe: 09:35:22
+
+Docum.: _ID_
+Hist. Clínica: _ID_
+El _SS_ ha incorporado sus datos al Fichero de Pacientes, para tratarlos con fines sanitarios.
+Puede ejercer sus derechos de acceso, rectificación, cancelación y oposición, así como obtener mas información en la Unidad de Atención al Cliente.
+Vers. 00
+Pag. 2 de
+3
+Episod.: _ID_
+_SS_ ha incorporat les seves dades al Fitxer de Pacients, per a tractar-los amb finalitats sanitàries. Pot exercir els seus drets d'accés, rectificació, cancel·lació i oposició, i obtenir més informació a la Unitat d'Atenció al Client.
+_SS_
+_LOCATION_) _LOCATION_) Tel. _CONTACT_ Fax _CONTACT_
+http://_CONTACT_/

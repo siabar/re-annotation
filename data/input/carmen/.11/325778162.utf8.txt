@@ -1,0 +1,162 @@
+_LOCATION_
+email: _CONTACT_ Telèfon _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 60 Anys
+NIF/DNI: _ID__NAME_; _NAME_; 
+_NAME_; _NAME_
+Informe d'epicrisi
+11:49:52
+20.01.2017
+_LOCATION_
+_SS_ ANGIOLOGIA I CIRURGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_; _CONTACT_; _CONTACT_; DOMICIL/RES.SOC
+13.01.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Varón de 60 años que ingresa por ictus PACI izquierdo.
+
+ANTECEDENTS
+-No AMC.
+-Fumador de 2 paquetes diarios.
+-Hábito enólico crónico muy severo.
+
+-Hipertensión arterial en tratamiento farmacológico. Buen control de las cifras tensionales.
+-Dislipemia en tratamiento farmacológico.
+-Diabetes mellitus tipo 2 en tratamiento con ADO's. No disponemos de cifras de Hb glicada recientes.
+-Insuficiencia cardíaca con diversos ingresos por descompensación. Consta la realización de un cateterismo cardiaco que mostró enfermedad coronaria severa de un vaso (CD) no revascularizado en ausencia de angina ni insuficiencia cardiaca.
+-Hematoma capsulo-talamico derecho en 2009. El estudio vascular mostró una oclusión de ACI derecha junto con estenosis importante en eje carotideo izquierdo, por lo que se decidió realizar un bypass subclavio-carotideo izquierdo con PTFE anillado de 6mm por estenosis severa de CPI.
+-Vasculopatia periférica, por lo que está amputado de EID. Seguimiento por Cx. Vascular de nuestro centro.
+
+SSF: vive solo. Deambula poco (con colocación de ortesis y muleta). Un servicio de ayuda le trae catering a domicilio. No sale solo de casa, y si lo hace le llevan en silla de ruedas. mRS 3-4.
+
+MEDICACIÓ HABITUAL
+adrio 100mg, amlodipino 5mg, carvedilol 6.25mg, enalapril 10mg, furosemida  40mg, lorazepam,  metformina, mirtazapina 15mg , omeprazol 20mg, paracetamol, simvastatina 40mg,
+
+PROCÉS ACTUAL
+Avisa el SEM a las 12:35am del día 13/01 porque al parecer un amigo ha llamado al paciente a las 20h del día anterior y lo ha encontrado con lenguaje incoherente y desorientado. El amigo ha informado al SEM que el paciente vive solo y es independiente para realizar sus actividades diarias a pesar de estar amputado de EID (ya que es portador de una prótesis ortopédica). No hay familia durante su estancia en urgencias con los que completar la anamnesis ni se tiene información de cuándo fue la última vez que se vio asintomático al paciente.
+Llega a urgencias a las 00:45h.
+
+EXPLORACIÓ FÍSICA
+
+FC	97 bpm
+Tªaxi 36.6 ºC
+FR	16 rpm Tªrec  ºC
+TA s	172 mmHg SAT O2 100 %
+TA d   96 mmHg Pes Kg
+
+Informe d'epicrisi
+
+
+
+
+
+URGENCIAS
+Vigil, orientacion no valorable por alteraicon del lenguaje, afasia mixta de predominio motor (2) (nomina 1/5, comprende 4/5 ordenes simples pero se intoxica con las complejas (1)), LOCQ (0), no alt campimetricas, disartria leve (1), MOE normal, PFSN derecha leve (1) resto de pc conservados, no focalidad motora ni sensitiva, no dismetrias aparentes. NIHSS 5
+
+UNIDAD DE ICTUS:
+TA 117/56mmHg, FC 88lpm, Tª 36.6ºC, BMT 193-256.
+Paciente vigil, alerta, orientado en las 3 esferas. Afasia motora leve (1) (lenguaje fluente con algún bloqueo, nomina 3/3, evocación dificultada, comprende órdenes simples y complejas). Disartria inteligible (1). Campimetría por confrontación sin déficits. PFSN derecha (1). Balance motor conservado en las 3 extremidades, aunque signo del proador en mano derecha (+1). Sensibilidad táctil superficial sin déficits. No dismetrías. NIHSS 3+1
+
+EXPLORACIÓ COMPLEMENTÀRIA
+-Analítica urgente: Hb 12.5, VCM 101, resto de hemograma y coagulacion normal, glucosa 149, resto de bq sin alteraicones significativas
+-EKG: RS a 70x', AQRS 30º, T picudas asimetricas V2-V6.
+-TC craneal urgente: Hipodensidades croticosubcorticales frontobasales bilaterales, de diferente estadio evolutivo, siendo de aspecto crónico en el lado derecho y de evolución subaguda en el lado izquierdo.
+-AngioTC: oclusión de ACI derecha desde su origen hasta nivel intracraneal, con repermeabilización de ACM derecha a partir de poligono de Willis. Estenosis significativa >70% en ACC izquierda de aprox 1 cm de longitud. El resto de estructuras vasculares del poligono de Willis y sistma vertebrobasilar son permeables. By-pass trombosado Subclavia izquierda - ACC ipsilateral.
+-AG de ingreso:
+
+
+EVOLUCIÓ CLÍNICA
+Varón de 60 años con los antecedentes anteriormente referidos, que acude a urgencias con clínica de alteración para la emisión del lenguaje de inicio indeterminado (su amigo lo detecta a las 20h, pero no tenemos información de cuándo fue visto por última vez asintomático y el paciente no sabe especificar). Llegada a urgencias de nuestro centro a las 00:45h, evidenciándose una afasia aislada de predominio motor (NIHSS 5). Se realiza TC craneal que muestra una lesión de aspecto crónico en territorio de ACM derecha (ya conocida) y una nueva lesión en territorio de ACM izquierda, cortico-subcortical frontal, de aspecto subagudo. En el estudio vascular por angioTC se evidencia una oclusión de ACI derecha ya conocida así como la presencia de una trombosis a nivel del Bypass subclavia izquierda-ACC izquierda realizado en 2015 por estenosis significativa a nivel ACC izquierda (ya conocida la trombosis del bypass). Analíticamente se evidencia una anemia macrocitica en paciente con consumo enólico severo diario; se inicia administración de tiamina. Se cursa ingreso en Unidad de Ictus apra control evolutivo.
+
+Informe d'epicrisi
+
+
+
+
+Durante su estancia en la unidad paciente clínica y hemodinámicamente estable, persistiendo a la exploración neurológica leve afasia motora y disatria (NIHSS 3+1). Se mantiene prevención secundaria con antiagregación y estatinas a altas dosis. Dada la situación socio-funcional basal del paciente y las múltiples comorbilidades que presenta, no se considera al paciente tributario de medidas terapéuticas más agresivas. Se realiza ICT con UFISS y con Cx Vascular para valoración. Como incidencia durante su ingreso presenta episodio de hematoquecia sin anemización, por lo que se solicita estudio analítico de anemias e ICT a Digestología para valoración. Con la orientación de ictus ACM I de etiología aterotrombótica (lesión que no es de aspecto hemodinámico), en situación de estabilidad clínica desde el punto de vista neurológico y hemodinámica se decide traslado. En el momento del alta NIHSS 3, mRS 3-4.
+
+Valoración por C. Vascular:
+
+Valoramos paciente por obliteración de bypass subclavio carotídeo izquierdo observado en el angio TAC realizado en urgencias.
+El bypass se realizó en agosto de 2015 por estenosis severa de CPI.
+El paciente es traido a urencias como código ictus por alteracion del habla y desorientacion de 24 horas de evolución que sepamos. Presenta estado general conservado, afebril, HDM estable, no focalidad neurológica a nivel de extremidades, no defectos de visión, no alteración de pares craneales, algo desorientado, comprende lo que digo, dificultad para expresarse aunque lo hace parcialmente, tiene una cicatriz única, tranversa, en fosa subclavia izquierda.
+Revisamos angio TAC más antiguos, el bypass ya se encuentra trombosado en un angio TAC de octubre de 2016, por lo que pensamos que la clínica aguda que ha presentado el paciente puede ser debida a otra causa. Al no tratarse de una trombosis aguda del bypas (lleva 3 meses tapado) no consideramos indicado realizar intervención urgente para destaparlo. Se observan livideces a nivel de EII, sin dolor, realizamos eco doppler que muestra trombosis de ambas iliacas exteras y ambas femorales comunes. Lleva realizado:
+-	Agosto 2015: Viabahn de Gore de 9x100 mm y 7x100 mm solapados en ICI e IEI + TEA de femoral comun y femoral superficial (segmento inicial) derechas + bypass cruzado fémoro-femoral izq-der con prótesis de Dacron de 8 mm y bypass subclavio-carotideo izquierdo con PTFE anillado de 6mm por estenosis severa de CPI.
+-	Diciembre 2015: Bypass de iliaca externa izquierda a FP izquierda con PTFE 6 mm + reimplante sobre este de bypass cruzado previo.
+.
+El bypas cruzado y la TEA de FC dcha ya estaban tapados en el angio TAC de octubre de 2016. No tiene opciones de revascularización en ninguna extremidad, el dolor está controlado. Se decide traslado a nuestra planta para control evolutivo, control del dolor y decisión terapeútica.
+
+24h después observamos livideces bilaterales hasta ingles, refiere no tener dolor, demás presenta signos clínicos de isquemia mesentérica masiva (abdomen agudo, elevación de enzimas hepáticas, acidosis) Insuficiencia renal aguda (Creat 2.6 + Hiperpotasemia).
+
+Paciente con mal estado general, presenta fallo multiorgánicosecundario a isquemia irreversible de extremidades e isquemia mesentérica, se dará manejo médico y se priorizará la analgesia. Dada la situación actual si presenta PCR no se revertirá.
+
+24 horas después el paciente presenta PCR, siendo éxitus el día 20 de enero de 2017 a las 11h Causa inmediata: Isquemia mesentérica, IRA.
+
+Informe d'epicrisi
+
+
+
+
+
+Causa antecedente: Síndrome de Leriche agudo. Causa fundamental: Aretriosclerosis.
+
+
+
+DIAGNÒSTICS
+Ictus ACM I de etiología aterotrombotica (trombosis a nivel del Bypass subclavia izquierda-ACC izquierda)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+20.01.2017
+Pàgina 1 de 4

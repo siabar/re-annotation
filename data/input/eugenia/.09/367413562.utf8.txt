@@ -1,0 +1,113 @@
+_LOCATION_
+_LOCATION_) Anul·lació/Reprogramació visites:_CONTACT_
+Telèfon Centraleta: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 88 Anys
+NIF/DNI: _ID__NAME_; _NAME_; _NAME_;
+_NAME_
+Informe d'epicrisi
+22:04:20
+11.04.2017
+_LOCATION_
+_SS_ NEUROLOGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_; _CONTACT_
+DOMICIL/RES.SOC 06.04.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Hematoma ganglios basales derechos.
+
+ANTECEDENTS
+-No alergias medicamentosas.
+-No fumador. Enol ocasional.
+-HTA y DLP en tto médico. No DM conocida.
+-Cardiopatia isquémica, SCACEST Dic 2010, implantacion stent metalico en CD proximal. IAortica miderada. Eco con FVI normal. HVI.
+-Bronquitis y hiperreactividad bronquial.
+-Nódulo pulmonar subpleural en el segmento superior del LII, no tributario de más seguimientos.
+-Episodio de neumonía basal derecha.
+-Tumor vesical hace 12 años.
+-En Junio/2010 ingresó _SS_ por insuficiencia renal aguda + Plaquetopenia.
+-Anemia en tto con optovite.
+-HBP.
+-Ingreso Febrero 2017 por orquiepidedimitis (enero 2017) con fracaso renal agudo con sd nefritico, en estudio por nefrología (descartar vasculitis), con proteinuria en rango no nefrótico y FG 23.
+
+-Situación basal: Independiente ABVD.mR 0.
+
+
+MEDICACIÓ HABITUAL
+AAS 100mg 1x24h, Bisoprolol 2.5mg 1x24h, Omeprazol 20mg 1x24h, Simvastatina 40mg 1x24h, Tamsulosina 0.4mg 1x24h, Manidipino 10mg 1x24h, Ramipril 5mg 1x24h, Cianocobalamina 1000mcg 1x1m, Latanoprost colirio, Nitrogliceria sublingual si precisa.
+
+
+
+
+PROCÉS ACTUAL
+Varón de 88 años que el 6/04/2017 presenta clínica desde el despertar de debilidad extremidades izquierdas y PFSN izquierda. Avisa a la vecina quien avisa a emergencias. No constan  antecedentes previos aunque el paciente refiere que ya le había pasado antes. No otra clinica asociada. Ayer asintomático. Se activa codigo ictus a las 9:48h, llega a urgencias a las 10:20h.
+
+A su llegada TA 110/74 mmHg, FC 104 pxm. DXT 123. Afebril. Neurológicamente vigil, orientado, leve disartria (1), no afasia, MOEs sin alteraciones, PICNR, campimetria visual normal. PFSN izquierda (2), Paresia 5-/5 hemicuerpo izquierdo de predominio distal con mano caída pero leve claudicacion al barré (que ha mejorado respecto domicilio segun SEM). Hipoestesia lve (1). RCP flexor bilateral. NIHSS 4. Auscultación cardíaca con tonos rítmicos. Analíticamente  Glucosa  6.8mmol/L;  Urea   11.2mmol/L;  Cr  136umol/L;  Na+  149mmol/L;  K+  4.50mmol/L.
+
+Informe d'epicrisi
+
+
+
+
+Coagulacion normal. Hb 91g/L; Hto 29%; VCM 106fL; Plaquetas 80.000x10E9/L; Leucocitos 5.6x10E9/L. ECG en RS a 70 lpm. PR 0,2s. Eje 0º Imagen de bloqueo incompleto de rama derecha. No alteraciones agudas de la repolarización. Rx de tórax con cardiomegália, mínimo pinzamiento senos costofrénicos y signos de redistribución vascular. Se realiza TC craneal que objetiva hematoma capsula interna derecha con leve efecto de massa sin desplazamiento linea media e infarto antiguo en capsula interna izquierda.
+
+Se orienta el caso como hematoma intraparenquimatoso derecho, de probable etiologia hipertensiva. Se decide ingreso en NRL, unidad de ictus.
+EXPLORACIÓ FÍSICA
+
+TA 195/80 FC 65lpm Afebril
+NRL: consciente y orientado (responde mes y edad). Cumple órdenes, no afasia, leve disartria (1). MOEs conservados, PICNR, sin déficits visuales, PFSN izquierda (2). Déficit motor brazo izquierdo 4/5 con mano caída(1). No déficits sensitivos. RCP felxor bilateral. NIHSS 4.
+AC: tonos rítmicos sin soplos audibles ni ruidos sobreañadidos.
+AR: en focos anteriores: murmullo vesicular conservado sin ruidos sobreañadidos.
+ABD: blando y depresible aunque poca colaboración por parte del paciente que mantiene defensa abdominal, no doloros a la palpación superficial ni profunda.
+EEII: sin edemas ni signos de TVP. Pulsos presentes y simétricos.
+
+
+
+EXPLORACIÓ COMPLEMENTÀRIA
+En urgencias: Analítica:
+EAB venoso: pH 7.338; CO2 53mmHg; O2 26.3mmHg; HCO3- 27.8mmol/L; EB 1.4mmol/L; Sat.O2 37%. Bioquímica: Glucosa 6.8mmol/L; Urea 11.2mmol/L; Cr 136umol/L; Na+ 149mmol/L; K+ 4.50mmol/L. Coagulación: TTPA 0.87; TP 1.10.
+Hemograma:  Hb 91g/L; Hto 29%; VCM 106fL; Plaquetas 80.000x10E9/L; Leucocitos 5.6x10E9/L (Neutrófilos 3.31x10E9/L, Linfocitos 1.60x10E9/L; N 58.9%, L 28.4%).
+ECG:RS a 70 lpm. PR 0,2s. Eje 0º Imagen de bloqueo incompleto de rama derecha. No alteraciones agudas de la repolarización.
+TC cranial: Hematoma en ganglios basales derechos con discreto edema perilesional, con discreto efecto de masa. Infarto lacunar en caudado derecho. Calcificaciones bipalidales inespecíficicas. Resto del parenquima cerebral con cambios involutivos.
+Rx tórax: marco óseo conservado, ICT>0.5, mínimo pinzamiento de senos costofrénicos, signos de redistribución vascular.
+
+
+EVOLUCIÓ CLÍNICA
+Hombre de 88 años que ingresa en NRL por hematoma de ganglios basales derechos, de etiología probablemente hipertensiva. Durante el ingreso presenta tendencia a la HTA por lo que requiere bomba de urapidilo para control tensional.
+
+Informe d'epicrisi
+
+
+
+
+Durante el ingreso presenta marcado cuadro confusional alternando periodos de agitación con episodios de somnolencia. Al quinto día de ingreso presenta empeoramiento respiratorio con desaturación y marcado trabajo respiratorio que requiere oxigenoterapia con Monagan. A la auscultación presenta broncoespasmo y en la placa se observan infiltrados alveolares de predominio derecho, con orientación de broncoaspiración y posible ICC descompensada, se administra tratamiento mixto deplectivo y broncodilatador, así como antibioterapia con A/C. Ante la mala evolución se comenta con UCI, no considerandose candidato a ventilación mecánica y priorizandose medidas de confort tras explicar situación a familiares.
+El paciente es exitus el dia 11/05 a las 21:45.
+-	Causa inmediata: insuficiencia respiratoria
+-	causa intermedia: neumonia broncoaspirativa
+-	causa fundamental: hematoma ganglios basales derechos.
+
+
+DIAGNÒSTICS
+436/5 Ictus
+
+PROCEDIMENTS
+89.52 Electrocardiograma. ECG NOS, ECG (amb 12 o més derivacions)
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+05.05.2017
+Pàgina 1 de 3

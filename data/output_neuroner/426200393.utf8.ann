@@ -1,0 +1,28 @@
+T1	SECCION_DIAGNOSTICOS 326 341	DIAGNÒSTIC ALTA
+T2	SECCION_PROCESO_ACTUAL 595 612	Enfermedad actual
+T3	SECCION_ANTECEDENTES 843 855	Antecedentes
+T4	mRankin_previa 1164 1169	mRS 3
+#4	AnnotatorNotes T4	3
+T5	SECCION_EXPLORACION_FISICA 1172 1183	Exploración
+T6	NIHSS_previa 1454 1461	NIHSS 3
+#6	AnnotatorNotes T6	3
+T7	SECCION_EXPLORACIONES_COMPLEMENTARIAS 1464 1493	Exploraciones complementarias
+T8	SECCION_EVOLUCION 1724 1733	Evolución
+T9	mRankin_alta 2571 2584	mRS al alta 3
+#9	AnnotatorNotes T9	3
+T10	NIHSS_alta 2593 2600	NIHSS 0
+#10	AnnotatorNotes T10	0
+T11	SECCION_TRATAMIENTO_AL_ALTA 2668 2681	Pauta al alta
+T12	Tratamiento_anticoagulante_alta 2720 2727	Lixiana
+T13	Fecha_de_ingreso 234 244	04.10.2017
+#13	AnnotatorNotes T13	2017-10-04
+T14	Fecha_de_alta 256 266	06.10.2017
+#14	AnnotatorNotes T14	2017-10-06
+T15	Hora_de_alta 267 272	14:38
+#15	AnnotatorNotes T15	14:38
+T16	Ictus_isquemico 415 427	AVC ISQUEMIC
+T17	Hora_inicio_sintomas 646 651	11:30
+#17	AnnotatorNotes T17	11:30
+T18	Etiologia 2555 2569	cardioembólico
+T19	SECCION_TIPO_DE_INGRESO 2759 2773	Tipus d'ingrés
+T20	SECCION_MOTIVO_DEL_ALTA 2775 2787	Motiu d'alta

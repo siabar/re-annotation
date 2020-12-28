@@ -1,0 +1,160 @@
+
+
+
+
+
+Informe d'Alta Hospitalària	Cognoms i nom:
+_NAME_	NHC:
+_ID_
+	ABS:
+_SS_	CIP:
+_ID_	DNI:
+_ID_
+	Data de naixement:
+_DATE_	Sexe:
+Dona	Edat:
+86a	Telèfon:
+_CONTACT_
+	Finançament:
+CatSalut - _LOCATION_	Procedència:
+URGÈNCIES
+	Admissió:
+11.03.2017 - 23:20	Servei:
+NEURO - UNITAT ICTUS HOSP	Data entrada urg.:
+11.03.2017 - 22:15
+Adreça:
+_LOCATION_	Població:
+_LOCATION_	Codi Postal:
+_LOCATION_
+
+
+
+MOTIVO DE CONSULTA
+Mujer de 86 años que ingresa por ictus isquémico.
+
+
+ANTECEDENTES
+-	Sin alergias medicamentosas conocidas.
+-	FRCV: No HTA (refiere controles habituales de TA cada semana, con cifras de máximo TAS 140), no DLP, no DM.
+-	Estudiada por sospecha de ictus isquémico a finales de 2016 en la Teknon a raíz de cuadro de "desorientación". Sin secuelas aparentes.
+-	Fibrilación auricular anticoagulada con sintrom y frenada con bisoprolol. Diagnosticada a raíz de estudio etiológico de ictus previo.
+-	Úlcera duodenal intervenida quirúrgicamente. Desde entonces presenta diarrea frecuente que requiere de toma de fortasec. Secundariamente presenta algunos episodios de incontinencia fecal.
+-	Glaucoma.
+-	Bronquiectasias.
+-	Fractura de codo izquierdo, a raíz de caída casual al bajar escaleras, que requirió intervención quirúrgica el 18/1/17 y colocación de placa. Secundariamente presentó infección del lecho quirúrgico por lo que estaba en tratamiento con rifampicina y ciprofloxacino.
+-	Hipoacusia.
+-	IQ: Colecistectomía, fractura codo izquierdo.
+-	Antecedentes familiares: padre fallecido a los 80 aproximadamente y madre a las 70, ambos por problemas cardiacos. 6 hijos sin problemas de salud relevantes.
+-	Antecedentes personales: natural de _LOCATION_, más de 30 años en _LOCATION_. Trabajó de ama de casa.
+Escolarizada en domicilio hasta los 18 años. Diestra.
+-	Tratamiento habitual: Sintrom según pauta, Bisoprolol 2.5mg 0.5c/12h, Omeprazol 20mg/12h, Spiraxin 200mg/8h, Yurelax 10 mg/noche, Paracetamol 1g/8h, Combigan gotas/12h, Xalatan gotas/24h, Fortasec 2 mg, Rifaldin 300mg/24h, Ciprofloxacino 500mg/8h.
+-	Situación sociofuncional: Vive con su marido y dos hijas. Autónoma para todas las ABVD. Anda sola sin ayuda. No incontinencia urinaria, sí fecal ocasional. mRS=2 (tras Fx humeral).
+
+ENFERMEDAD ACTUAL
+Mujer de 86 años que traen a urgencias como código ictus. Estando previamente asintomática, a las 21.15h del 11.3.2017 ha presentado alteración del habla y pérdida de fuerza en hemicuerpo izquierdo. Llega a urgencias a las 22.16h. INR 1.3.
+
+
+EXPLORACIÓN FÍSICA
+-	Exploración en urgencias (11/3/17):
+-	Vigíl, orientada, obedece a órdenes, disartria moderada, desviación oculocefálica a la derecha, HHI, paresia facial central izquierda, hemiparesia 3/5 braquial y 4/5 crural derecha, no aparente déficit sensitivo, anosognosia, RCP extensor izquierdo.
+- NIHSS: 0+0+0+1+2//2+(0+2)+(0+1)//0+0+0+2+1=11.
+-	Exploración en unidad de ictus (13/3/17):
+-	AC: TCR con soplo sistólico en foco aórtico.
+-	AR: MVC con crepitantes bibasales.
+-	Abd: Blando y depresible, no doloroso a la palpación, sin masas ni megálias.
+-	EEII: No edemas, pulsos presentes y simétricos, signos de insuficiencia venosa crónica.
+-	Vigíl y orientada, obedece órdenes simples y complejas, no rasfos afásicos ni disartria, campimetría por confrontación sin déficit, PINR, MOEs normales, trigémino sensitivo-motor normal, leve asimetría facial al sonreír, resto PPCC sin alteración. Balance motor conservado en ambas extremidades. No alteración sensitiva. RCP flexor bilateral.
+- NIHSS = 0.0.0.0.0/1.(0.0).(0.0)/0.0.0.0.0 =1.
+Exploración en sala de Neurología
+-	Vigil, orientada en tres esferas, atenta y colaboradora. Ánimo reactivo. Nomina 4/4, obedece órdenes de tres comandos y repite frases largas sin alteraciones. Lenguaje fuido sin rasgos disfásicos ni disártricos, aunque impresiona de bradipsiquia leve. Capacidad de lectura preservada, escritura poco valorable por alteración en la movilidad de ESD a consecuencia de fractura reciente. Sin apraxias. PICNR. MOEs no limitados Campimetría por confrontación sin alteraciones. Paresia facial central izquierda leve (asimetría en surco nasogeniano). Trigémino sensitivo-motor sin alteraciones. Pares craneales bajos sin alteraciones. Paresia distal leve de ESI, movilidad limitada de ESD en contexto de fractura reciente; balance motor de MMII sin alteraciones. Sin alteraciones en sensibilidad táctil, algésica o propioceptiva. Sin dismetrías desproporcionadas a la paresia. Sin extinciones.
+-	NIHSS = 0.0.0.0.0/1.(1.0).(0.0)/0.0.0.0.0 =2 (claudicación ESD secundaria a fractura ósea).
+
+
+EXPLORACIONES COMPLEMENTARIAS
+-	Analítica a su llegada (11/3/17): Sodi 138 mmol/L ( 136 - 145 ) Potassi 5,01 mmol/L ( 3,50 - 5,10 ) Glucosa 5,7 mmol/L ( 3,0 - 6,0 ) 102,60 mg/100mL Urea 14,0 mmol/L ( 2,9 - 8,2 ) 84 mg/100mL Creatinina 85 µmol/L
+( 0 - 80 ) 0,96 mg/100mL Bilirubina total 3 µmol/L (< 17) 0,18 mg/100mL AST (GOT) 27 U/L ( 0 - 31 ) ALT
+(GPT) 15 U/L ( 0 - 31 ) Fosfatasa alcalina 88 U/L ( 35 - 110 ) GGT 22 U/L ( 0 - 43 ) Proteïna total 62,4 g/L (
+64,0 - 83,0 ) Hemoglobina 95 g/L ( 120 - 150 ) Hematòcrit 0,30 L/L ( 0,35 - 0,45 ) Hematies 2,94 x10E12/L (
+3,90 - 5,00 ) VCM 103,4 fL ( 80,0 - 98,0 ) CCMH 313 g/L ( 320 - 360 ) HCM 32,3 pg ( 27,0 - 32,0 ) RDW
+13,9 % ( 12,0 - 15,0 ) Plaquetes 299 x10E9/L ( 140 - 350 ) VPM 7,9 fL ( 7,0 - 10,5 ) Plaquetòcrit 0,30 %
+Leucòcits 6,54 x10E9/L ( 3,80 - 11,00 ) Fórmula leucocitària Neutròfils 57,3 % Neutròfils absoluts 3,75
+x10E9/L ( 1,80 - 7,00 ) Eosinòfils 4,4 % Eosinòfils absoluts 0,29 x10E9/L ( 0,05 - 0,50 ) Basòfils 1,1 %
+Basòfils absoluts 0,07 x10E9/L ( 0,00 - 0,10 ) Monòcits 7,2 % Monòcits absoluts 0,47 x10E9/L ( 0,30 - 1,00 )
+
+
+Limfòcits 30,0 % Limfòcits absoluts 1,96 x10E9/L ( 1,00 - 4,00 ) HEMOSTÀSIA Temps de tromboplastina 1,01 RATIO ( 0,75 - 1,30 ) Temps de protrombina 1,30 INR ( 0,75 - 1,20 ) Temps de trombina 21,00 s (
+17,00 - 24,00).
+-	Analítica de control: Hemograma con anemia Hb97, Hcr 0.31, Hties 3.01, VCM 103.7. Ferropenia 7.9, factores de maduración normales. Bioquímica normal salvo hipocalcemia asociada a hipoalbuminemia. TSH, HB glucosilada y fracciones de colesterol normales.
+-	ECG: RS a 90 lpm, PR<0.2, QRS estrecho, AQRS a 90º, morfología BIRDHH en V1, sin alteraciones de la repolarización.
+-	Telemetría en urgencias y unidad de ictus: Ritmo sinusal sin otros eventos.
+-	TC cranial a su llegada (11/3/17): Isquemia aguda visible de ACM en región cortical frontoinsular derecha (ASPECTS 8).
+-	AngioTC a su llegada: bifurcación precoz de ACM con trombo en rama proximal silviana (M1-M2)
+-	Trombectomía mecánica (11-12/3/17): se realiza punción femoral derecha. Se realiza cateterización selectiva y la primera serie angiográfica confirma la presencia de una oclusión a nivel de arteria cerebral media derecha distal. Se procede al microcateterismo selectivo de arteria ocluida logrando una adecuada posición para realizar trombectomía realizando 1 pase. En la serie de comprobación final se confirma recanalización TICI 2B. No se detectan incidencias durante ni inmediatamente tras el procedimiento. Se realiza cierre del punto de punción femoral derecho mediante cierre mecánico tipo Proglide yvendaje compresivo el cual deberá permanecer por 24 horas, debiendo el paciente mantener inmóvil el miembro inferior derecho. Conclusión: trombectomía mecánica sin complicaciones
+-	TC craneal de control (12/3/17): resolución de la hiperdensidad en la bifurcación silviana de ACM derecha con dudas de que pueda existir una leve hipodensidad cortical en el parénquima frontal más basal derecho y en la convexidad frontal perilsilviana derecha pero sin poder confirmar una lesión establecida. Destaca una pequeña área de hipodensidad subcortical temporoparietal derecha sin clara afectación cortical que podría ser crónica y en relación a microangiopatía. No se aprecian signos de sangrado. Resto sin cambios, con una lesión necrótica en el parénquima occipitomedial basal y en hemisferio cerebeloso izquierdo. Linea media centrada. Conclusión: TC craneal que muestra alguna zonda de dudosa hipodensidad cortical en el parénquima superficial frontal derecha pero para las horas transcurridas es muy sutil, siendo difícil confirmar lesión establecida. No se aprecian signos de complicación hemorráfgica.
+-	Analítica sanguínea de control: Sodi 139 mmol/L ( 136 - 145 ) Potassi 4,41 mmol/L ( 3,50 - 5,10 ) Calci 2,12 mmol/L ( 2,15 - 2,55 ) 8,48 mg/100mL Fosfat 1,03 mmol/L ( 0,87 - 1,45 ) 3,19 mg/100mL Glucosa 4,3
+mmol/L ( 3,0 - 6,0 ) 77,40 mg/100mL Urea 6,4 mmol/L ( 2,9 - 8,2 ) 38 mg/100mL Creatinina 61 µmol/L ( 0 -
+80 ) 0,69 mg/100mL Bilirubina total 4 µmol/L (< 17) 0,26 mg/100mL Triglicèrids 0,74 mmol/L (< 1.65) 65,49
+mg/100mL Colesterol 3,87 mmol/L (< 6.2) 149,77 mg/100mL AST (GOT) 21 U/L ( 0 - 31 ) ALT (GPT) 12 U/L
+( 0 - 31 ) Fosfatasa alcalina 79 U/L ( 35 - 110 ) GGT 20 U/L ( 0 - 43 ) Proteïna total 52,5 g/L ( 64,0 - 83,0 )
+Albúmina 29,9 g/L ( 34,0 - 48,0 )  Haptoglobina 1,29 g/L ( 0,30 - 2,00 ) Tirotropina 2,49 mUI/L ( 0,30 - 5,00 )
+Hemoglobina 97 g/L ( 120 - 150 ) Hematòcrit 0,31 L/L ( 0,35 - 0,45 ) Hematies 3,01 x10E12/L ( 3,90 - 5,00 )
+VCM 103,7 fL ( 80,0 - 98,0 ) CCMH 311 g/L ( 320 - 360 ) HCM 32,2 pg ( 27,0 - 32,0 ) RDW 13,9 % ( 12,0 -
+15,0 ) Plaquetes 213 x10E9/L ( 140 - 350 ) VPM 8,4 fL ( 7,0 - 10,5 ) Plaquetòcrit 0,20 % Leucòcits 5,56 x10E9/L ( 3,80 - 11,00 ) Fórmula leucocitària Neutròfils 69,3 % Neutròfils absoluts 3,85 x10E9/L ( 1,80 - 7,00 ) Eosinòfils 2,3 % Eosinòfils absoluts 0,13 x10E9/L ( 0,05 - 0,50 ) Basòfils 0,9 % Basòfils absoluts 0,05
+x10E9/L ( 0,00 - 0,10 ) Monòcits 8,1 % Monòcits absoluts 0,45 x10E9/L ( 0,30 - 1,00 ) Limfòcits 19,4 %
+
+Limfòcits absoluts 1,08 x10E9/L ( 1,00 - 4,00 ) Rèticulòcits Reticulòcits % 2,76 % ( 0,50 - 2,00 ) Reticulòcits absoluts 83,1 ( 20,0 - 100,0 ) Fracció de baixa intensitat 84,7 % ( 78,0 - 97,0 ) Fracció de mitja intensitat 12,7 % ( 3,0 - 18,0 ) Fracció d'alta intensitat 2,6 % ( 0,0 - 4,0 ) IRF 15,30 ( 3,00 - 22,00 ) RET-He 34,60 (
+29,80 - 37,70 ) Velocitat de sedimentació globular (VSG) 61 mm/hora ( 1 - 15 ) Morfologia eritrocitària Anisocitosi aïllada Siderèmia 7,9 µmol/L ( 8,0 - 26,0 ) Capacitat total transport ferro 45,7 µmol/L ( 44,0 - 74,0
+) Índex de saturació 17 % ( 15 - 45 ) Ferritina 298 µg/L ( 10 - 200 ) Vitamina B12 361 pmol/L ( 150 - 650 ) Folat sèric 8,1 nmol/L ( 7,0 - 45,0 ) Haptoglobina 1,29 g/L ( 0,30 - 2,00 ) Test de Coombs directe Negatiu Hb glicosilada (HbA1c) 4,8
+-	RM cerebral: infartos ya establecidos en territorio profundo capsuloganglionar derecho con afectación lenticular, de caudado, brazo anterior de c.i. y parénquima sublenticular. Infartos también establecidos de pequeño tamaño y de distribución parcheada en el parénquima superficial frontoinsular derecho y, milimétricas, en parénquima parietal y temporoparietal derecho. El estudio angiográfico muestra correcta permeabilidad de ACM derecha. En ACM izquierda se aprecia una estenosis focal corta prebifurcación, con bifurcación precoz. Pequeña fenestración en la basilar proximal. Artefacto en la señal de difusión en la convexidad frontal izquierda coincidiendo con un pequeño meningioma calcificado por TC. Pequeños focos de leucoaraiosis en la sustancia blanca cerebral. Lesión encefalomalácica córtico-subcortical occipital derecha de aspecto vascular isquémico, y pequeña lesión crónica con signos hemorrágicos en hemisferio cerebeloso izquierdo. Resto del estudio sin hallazgos significativos. Conclusión: infarto subagudo en territorio profundo capsuloganglionar de ACM derecha y, de menor tamaño y de distribución muy parcheada en territorio superficial frontoinsular derecho y, distal, temporoparietal, sin signos de transformación hemorrágica ni compromiso de linea medial.
+-	Ecocardiograma transtorácico: Pacient en ritme sinusal, amb contracció auricular poc efectiva. Ventricle esquerre no dilatat ni hipertròfic, amb reducció de l'escurçament longitudinal i contractrilitat radial conservada. FEVE global conservada. Vàlvula mitral amb engruiximent degeneratiu lleuger i regurgitació lleugera secundaria. Arrel aòrtica no dilatada. Vàlvula aòrtica amb lleuger engruiximent degeneratiu i regurgitació lleguera. Aurícula esquerra lleugerament dilatada. Ventricle dret normofuncionant. Vàlvula tricúspide amb lleguera afectació degenerativa i regurgitació secundaria moderada. HAP lleugera a moderada (PAPs 50-55 mmHg). No hi ha embassament pericàrdic.
+
+EVOLUCIÓN
+En Urgencias
+Se realiza un TC craneal simple donde no se observan lesiones intracraneales agudas con M1 distal ACM derecha hiperdensa y un angioTC que confirma la presencia de un trombo distal en M1 de ACM derecha.
+Ante ausencia de contraindicación, y tras el consentimiento informado de sus hijos, se inicia tratamiento de reperfusión en fase aguda con rtPA 22.55 (bolus 3.6 mg + 32.4mg en perfusión en una hora). Se avisa al equipo de intervencionismo para realización de tratamiento endovascular de rescate, con buena respuesta pasando de NIHSS de 11 a 1. Se realiza TC craneal de control post-prodecimiento, que no muestra lesión establecida (sólo dudosa hipodensidad cortical) ni transformación hemorrágica, y decide ingreso en la unidad de ictus para monitorización y control evolutivo.
+
+En Unidad de Ictus
+Permaneció hemodinámicamente estable durante toda su estancia. Se realizó test de disfágia con buena tolerancia, por lo que se inicia dieta oral. Se interconsulta también al servicio de rehabilitación para inicio de la misma. No experimentó complicaciones médicas de interés.
+Se inició anticoagulación con heparina no fraccionada con buenos controles analíticos; tras consulta con Hemostasia se decidió sustituir por heparina de bajo peso molecular a la espera de completar el tratamiento antibiótico actual por la infección del lecho quirúrgico.
+En el estudio etiológico se realizó analítica sanguínea que evidenció anemia macrocítica hipercrómica con niveles de B12, folato y TSH dentro de la normalidad. Dada la estabilidad mostrada se decidió traslado a sala de Neurología.
+
+En sala de Neurología
+Sin incidencias médicas relevantes. Buena tolerancia a fisioterapia. Se realizó RM cerebral que reveló lesión isquémica establecida en lenticular, caudado, brazo anterior de capsula interna y parénquima sublenticular derecho, además de infartos establecidos de pequeño tamaño y de distribución parcheada en el parénquima superficial frontoinsular derecho y milimétricas en parénquima parietal y temporoparietal derecho; el estudio ecocardiográfico no reveló alteraciones relevantes.
+En resumen, infartos cardioembólicos por FA paroxística infradescoagulada debido a interacción entre antivitaminas K y antibioticos. Tras consulta con Unidad de Medicina Infecciosa recomiendan valoración por parte de COT para retirar osteosíntesis, suspender rifampicina y mantener ciprofloxacino hasta extracción de osteositesis. En el momento del alta la consulta a COT no ha tenido lugar y la pacient refiere que consultarà con el traumatólogo que la intervino. Al alta NIHSS 2 y Rankin 2.
+
+PROCEDIMIENTOS
+-	Analítica.
+-	ECG.
+-	Trombectomíamecánica.
+-	TC craneal + AngioTC.
+-	RMN craneal + angioRM.
+-	Ecocardiografía.
+
+
+DIAGNÓSTICOS
+-	Infarto isquémico en territorio superficial y profundo de la arteria cerebral media derecha de mecanismo embólico y etiología cardioembólica (FA infradescoagulada por interacción farmacológica entre el sintrom y antibioterapia).
+-	Estenosis asintomática ACM izquierda
+-	Fibrilación auricular paroxística.
+-	Infección de lecho quirúrgico en ESI.
+-	Anemia macrocítica hipercrómica de etiología no filiada.
+
+
+
+TRATAMIENTO:
+El suyo habitual, salvo rifampicina que debe suspender. Suspender Sintrom hasta consulta con hematologia Tinzaparina 10.000 U/dia subcutánea.
+
+
+
+
+
+Responsable clínic: Dr. _NAME_ (NºCol. _ID_)
+Equip mèdic: Dr. _NAME_  (NºCol.  _ID_), Dra. _NAME_ (NºCol.  _ID_), _NAME_ (NºCol. _ID_)
+
+Servei que ha donat d'alta:
+NEURO - UNITAT ICTUS HOSP	Data d'alta:
+20.03.2017	Nom del metge que informa de l'alta:
+Dr. _NAME_ (NºCol. _ID_)
+
+
+_LOCATION_, 20.03.2017
+Pàg. 1 de   6

@@ -1,0 +1,137 @@
+T1	Fecha_de_ingreso 233 243	11.10.2017
+#1	AnnotatorNotes T1	2017-10-11
+T2	HORA 246 251	13:16
+#2	AnnotatorNotes T2	13:16
+T3	_SUG_Ataque_isquemico_transitorio 275 280	ICTUS
+T4	FECHA 305 315	11.10.2017
+#4	AnnotatorNotes T4	2017-10-11
+T5	HORA 318 323	07:06
+#5	AnnotatorNotes T5	07:06
+T7	_SUG_Ataque_isquemico_transitorio 443 448	ictus
+T8	_SUG_Ictus_isquemico 443 458	ictus isquémico
+T9	FECHA 809 813	2010
+#9	AnnotatorNotes T9	2010-UNDEF-month-UNDEF-day
+T10	FECHA 850 856	2/2017
+#10	AnnotatorNotes T10	2017-02-UNDEF-day
+T11	_SUG_Lateralizacion 1043 1050	derecho
+T12	Tratamiento_antiagregante_hab 1108 1113	ADIRO
+T14	_SUG_mRankin 1669 1675	Rankin
+T15	Fecha_llegada_hospital 1707 1715	11/10/17
+#15	AnnotatorNotes T15	2017-10-11
+T16	_SUG_Lateralizacion 1767 1774	derecho
+T17	_SUG_Lateralizacion 1862 1869	derecha
+T18	Hora_inicio_sintomas 1939 1943	1:00
+#18	AnnotatorNotes T18	1:00
+T19	Hora_llegada_hospital 1971 1975	7:05
+#19	AnnotatorNotes T19	07:05
+T20	_SUG_Ataque_isquemico_transitorio 1996 2001	ictus
+T21	_SUG_Lateralizacion 2368 2375	derecha
+T22	_SUG_Lateralizacion 2439 2446	derecho
+T23	_SUG_Lateralizacion 2477 2484	derecho
+T24	_SUG_Lateralizacion 2506 2513	derecha
+T25	_SUG_Lateralizacion 2531 2538	derecho
+T26	_SUG_Lateralizacion 2547 2556	izquierdo
+T27	NIHSS_previa 2596 2635	NIHSS= 0.0.0.0.0/0.0.1.0.1./0.1.0.0.0=3
+T28	_SUG_Ataque_isquemico_transitorio 2665 2670	ictus
+T29	_SUG_Lateralizacion 3253 3260	derecho
+T30	_SUG_NIHSS 3412 3453	NIHSS = 0.0.0.0.0/0.0.0.0.0/1.1.0.0.0 = 2
+T31	_SUG_Lateralizacion 3698 3705	derecho
+T33	_SUG_Lateralizacion 3957 3958	D
+T34	_SUG_Ataque_isquemico_transitorio 4402 4407	Ictus
+T36	ASPECTS 4487 4497	ASPECTS 10
+T37	_SUG_Ictus_isquemico 4499 4506	Infarto
+T38	_SUG_Etiologia 4507 4514	lacunar
+T39	_SUG_Localizacion 4507 4514	lacunar
+T40	_SUG_Lateralizacion 4526 4533	derecho
+T41	_SUG_Localizacion 4539 4555	ganglios basales
+T42	_SUG_Lateralizacion 4556 4564	derechos
+T43	_SUG_Lateralizacion 4633 4638	ambos
+T44	_SUG_Lateralizacion 4737 4742	Ambas
+T45	_SUG_Lateralizacion 4900 4905	ambas
+T46	_SUG_Arteria_afectada 4906 4909	ACM
+T47	_SUG_Arteria_afectada 4911 4914	ACA
+T48	_SUG_Localizacion 4973 4983	Ventrículo
+T49	_SUG_Lateralizacion 4984 4993	izquierdo
+T50	_SUG_Lateralizacion 5147 5156	izquierda
+T51	_SUG_Lateralizacion 5538 5548	izquierdos
+T52	_SUG_Arteria_afectada 5684 5687	ACM
+T53	_SUG_Lateralizacion 5688 5697	izquierda
+T54	Arteria_afectada 5709 5712	ACA
+T55	_SUG_Arteria_afectada 5713 5716	ACM
+T56	_SUG_Lateralizacion 5725 5734	izquierdo
+T57	_SUG_Ictus_isquemico 5753 5779	transformación hemorrágica
+T58	_SUG_Lateralizacion 5814 5822	derechos
+T59	_SUG_Localizacion 5878 5889	subcortical
+T60	_SUG_Lateralizacion 6090 6097	derecha
+T61	_SUG_ASPECTS 6146 6153	aspecto
+T62	_SUG_Lateralizacion 6245 6255	izquierdas
+T63	_SUG_Arteria_afectada 6328 6331	ACM
+T64	_SUG_Lateralizacion 6332 6341	izquierda
+T65	_SUG_Lateralizacion 6353 6362	izquierda
+T66	_SUG_Arteria_afectada 6363 6366	ACA
+T67	_SUG_Arteria_afectada 6367 6370	ACM
+T68	_SUG_Lateralizacion 6463 6470	derecha
+T69	_SUG_Lateralizacion 6636 6643	derecha
+T70	_SUG_NIHSS 6686 6696	NIHSS de 3
+T71	_SUG_TAC_craneal 6709 6711	TC
+T72	_SUG_Ataque_isquemico_transitorio 6831 6836	ictus
+T73	_SUG_Lateralizacion 6853 6866	indeterminada
+T74	_SUG_NIHSS 6916 6921	NIHSS
+T75	_SUG_Tratamiento_antiagregante 7080 7088	aspirina
+T76	_SUG_Ataque_isquemico_transitorio 7141 7146	Ictus
+T77	_SUG_Lateralizacion 7288 7293	dieta
+T78	_SUG_Lateralizacion 7350 7355	dieta
+T79	_SUG_Arteria_afectada 7516 7519	ACM
+T80	_SUG_Lateralizacion 7520 7529	izquierda
+T81	_SUG_Etiologia 7582 7600	mecanismo embólico
+T82	_SUG_Ataque_isquemico_transitorio 7781 7786	ictus
+T83	_SUG_Ataque_isquemico_transitorio 7933 7938	ictus
+T84	_SUG_Ictus_isquemico 7933 7948	ictus isquémico
+T85	_SUG_Etiologia 7952 7970	mecanismo embólico
+T86	_SUG_Lateralizacion 7983 7996	indeterminada
+T87	_SUG_mRankin 8465 8468	mRS
+T88	_SUG_NIHSS 8481 8486	NIHSS
+T89	_SUG_TAC_craneal 8574 8576	TC
+T91	Ictus_isquemico 8614 8632	Infartos isquémico
+T92	Arteria_afectada 8653 8656	ACM
+T93	Lateralizacion 8657 8666	izquierda
+T95	Etiologia 8710 8723	indeterminada
+T96	HORA 9233 9238	10:00
+#96	AnnotatorNotes T96	10:00
+T97	_SUG_Lateralizacion 9786 9791	Dieta
+T98	_SUG_Lateralizacion 9977 9982	dieta
+T100	_SUG_Ataque_isquemico_transitorio 10338 10343	ICTUS
+T101	Fecha_de_alta 10362 10372	18.10.2017
+#101	AnnotatorNotes T101	2017-10-18
+T102	FECHA 10450 10460	18.10.2017
+#102	AnnotatorNotes T102	2017-10-18
+T103	SECCION_MOTIVO_DE_INGRESO 391 408	MOTIVO DE INGRESO
+T104	SECCION_ANTECEDENTES 462 474	ANTECEDENTES
+T105	SECCION_TRATAMIENTO_HABITUAL 1086 1106	Tratamiento habitual
+T106	SECCION_ANTECEDENTES_FAMILIARES 1305 1333	Antecedentes sociofamiliares
+T107	SECCION_PROCESO_ACTUAL 1680 1697	ENFERMEDAD ACTUAL
+T108	SECCION_EXPLORACION_FISICA 2014 2032	EXPLORACIÓN FÍSICA
+T109	SECCION_EXPLORACION_FISICA_AL_ALTA 3458 3465	Al alta
+T110	SECCION_EXPLORACIONES_COMPLEMENTARIAS 3806 3835	EXPLORACIONES COMPLEMENTARIAS
+T111	SECCION_EXPLORACIONES_COMPLEMENTARIAS_EN_URGENCIAS 3838 3857	Analítica urgencias
+T112	SECCION_EVOLUCION 6473 6482	EVOLUCIÓN
+T113	SECCION_PROCEDIMIENTOS 8500 8514	PROCEDIMIENTOS
+T114	SECCION_DIAGNOSTICOS 8600 8611	DIAGNÓSTICO
+T115	SECCION_TRATAMIENTO_Y_RECOMENDACIONES_AL_ALTA 8799 8836	RECOMENDACIONES Y TRATAMIENTO AL ALTA
+T116	SECCION_TRATAMIENTO_AL_ALTA 8837 8856	Tratamiento al alta
+T117	SECCION_RECOMENDACIONES 9357 9382	Recomendaciones generales
+T6	SECCION_ANTECEDENTES_QUIRURGICOS 815 817	IQ
+T13	mRankin_previa 1669 1677	Rankin 2
+#3	AnnotatorNotes T13	2
+T90	Fecha_inicio_sintomas 1707 1715	11/10/17
+#6	AnnotatorNotes T27	3
+T99	SECCION_EXPLORACION_FISICA_DURANTE_HOSPITALIZACION 2639 2670	A su ingreso en unidad de ictus
+T118	mRankin_alta 8465 8479	mRS al alta: 3
+#8	AnnotatorNotes T118	3
+T32	NIHSS_alta 8481 8497	NIHSS al alta: 0
+#7	AnnotatorNotes T32	0
+T119	Tratamiento_antiagregante_alta 8905 8916	Clopidogrel
+#11	AnnotatorNotes T36	10
+T120	Test_de_disfagia 7311 7327	test de disfagia
+T121	SECCION_EXPLORACION_FISICA_EN_URGENCIAS 2033 2045	A su llegada
+T35	TAC_craneal 4435 4445	TC craneal

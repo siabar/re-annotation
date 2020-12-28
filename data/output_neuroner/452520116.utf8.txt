@@ -1,0 +1,211 @@
+_LOCATION_ Tel. _CONTACT_
+e-mail: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 67 Anys
+NIF/DNI: _ID__NAME_; _NAME_; _NAME_,;;
+_NAME_
+Informe d'alta d'hospitalització
+15:00:00
+19.12.2017
+_LOCATION_
+_SS_ NEUROLOGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_; _CONTACT_
+DOMICIL/RES.SOC 09.12.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Disartria i debilitat d'extremitats esquerres
+
+ANTECEDENTS
+Pacient de 67 anys, sense al·lèrgies medicamentoses conegudes. No refereix hàbits tòxics, exfumador.
+
+
+-	Analítica recent amb colesterol total normal però LDL elevat (141 mg/dl)
+-	Hipertròfia benigne de pròstata
+-	Apneas de la son en tractament amb CPAP
+-	Hernia hiato amb refluxe gastroesofàgic en tractament simptomàtic.
+
+Situació funcional prèvia: Independent per a les activitats de la vida diària: mRS 0
+
+
+MEDICACIÓ HABITUAL
+Omeprazol 20 mg cada 24 hores
+
+PROCÉS ACTUAL
+Estant prèviament bé, a les 10:45h mentres canviaba una persiana (possible hiperextensió del coll) presenta de forma sobtada disàrtira i debilitat a extremitats esquerres. La dona avisa al SEM a les 11:03, que valoren el pacient amb RACE 7, i s'activa codi ictus a les 11:10h. Sense complicacions durant el trasllat. Arriba a _SS_ a les 12:09.
+
+EXPLORACIÓ FÍSICA
+
+FC	76 bpm Tªaxi  ºC
+FR	rpm Tªrec  ºC
+TA s	131 mmHg SAT O2 96 %
+TA d   69 mmHg Pes Kg
+
+Glicèmia capil·lar:131
+
+Exploració sistèmica: Tons rítmics. Eupenic, sense sorolls respiratoris. Tremolor generalitzat a les 4 extremitats que no sueggereixen moviments clònics d'origen comicial. Murmuri vesicular preservat sense sorolls sobreafgits. Abdomen tou i depressible, no dolorós a la palpació, no es palpen masses ni megàlies, peristaltisme preservat.
+
+Exploració neurològica: Conscient, orientat. Disàrtira. Desviació oculocefàlica a la dreta, hemianòpsia homònima esquere, parèsia facial esquerre. Hemiplègia braquio-crural esquerre. Hemihipoestèsia. Asomato i anosognosia.
+
+NIHSS total de19  (00022/20404/02012)
+
+Informe d'alta d'hospitalització
+
+
+
+EXPLORACIÓ COMPLEMENTÀRIA
+URGÈNCIES:
+ECG: Ritme sinusal, sense signes d'isquèmia aguda ni crònica Analítica d'urgències:
+Hemograma: Leucos 6700, Hb 15.3 g/dl, Hto 45.2%, plaquetes 211000 Coagulació: T.Quick 74%, INR 1.25, TTPA 27.7seg, fibrinògen 374 mg/dl
+Bioquímica: Glucosa 143 mg/dl, urea 38.8 mg/dl, creatinina 0.97 mg/dl, Na 142 mmol/l, K 3.6 mmol/l, PCR 2.3 mg/l
+
+TC cranial (12:35h):
+TC simple: sense signes d'isuqèmia aguda (ASPECTS 10) ni hemorràgia
+AngioTC: Oclusió ACM dreta segment proximal M1 i ACA dreta (segment mig), sense estenosis a eixos carotidis.
+
+UNITAT D'ICTUS:
+Monitorització continua ECG: sense alteracions del ritme Analítica ingrés (11.12.17):
+-	Bioquimica:  Glucosa  104  mg/dL,  HbA1c  5  %,  Creatinina  1,02  mg/dL,  Filtrado  glomerular  estimado  76 mL/min/1.73 m2, Uratos 6,8 mg/dL, Ca 9, Fosfato 3, Mg 1,87, Cl 104,6 mmol/L, ALT 13 U/L, GGT 42, FA 76, LDH
+190, Bilirrubina 1,34 mg/dL, CK 130 U/L, Prot-C reactiva 11,2 mg/L, Proteína 64,6 g/L, Albúmina 39,2.
+-	Lípidos.- Triglicéridos97 mg/dL, Colesterol 175, (HDL 35 / LDL 121).
+-	Hormonas: TSH 2,887 µUI/mL.
+-	VSG 8 mm.
+-	Estudi de cuagulabilitat: anticoagulant lúpic negatiu. Factor V, gen de la protrombina, Ac anti-cardiolipina i antibeta2-glicoproteina pendents en el moment de l'alta.
+-	Marcadores Tumorales (13/12/17): CEA, alfa-fetorpoteïna, PSA, CA-19-9, SCC negatius.
+
+TC cranial 24h post trombectomía mecánica (10.12.17): Aparición de un área de baja atenuación de localización  en  núcleo  lenticular,  cápsula  externa,  cuerpo  del  caudado  y  área  cortico-subcortical parieto-temporal derecho que produce leve efecto masa sobre el ventrículo lateral derecho levemente comprimido, hallazgos  compatibles  con  lesión  isquémica  subaguda  de  ramas  de  ACM  derecha,  sin evidenciarse signos de transformación hemorrágica TC valorable. Leve hiperdensidad en globo palido , brazo anterior de cápsula interna y cabeza del caudado en probable relación con síndrome de reperfusión.
+
+Ecocardiograma (11.12.17): Estudi limitat per finestra ecocardiogàfica de mala qualitat. Ventricle esquerre  no dilatat i lleugerament hipertròfic i amb funció global i segmentaria conservada (FE 60%). Auricula esquerra lleugerament dialtada. Sense clares alteracions valvulars.
+
+TC cranial al empitjorament médic (11.12.17): Aparición de una transformación hemorrágica aguda de 51x34x41mm en el seno del área de isquemia previa localizada en el núcleo lenticular , cápsula externa y cuerpo del caudado derecho previo que produce mayor efecto masa sobre el ventrículo lateral derecho casi completamente comprimido, con leve  compresión de cisternas perimesencefálicas  derechas.  La lesión hemorrágica descrita se encuentra abierta al sistema ventricular con presencia de sangre en el ventrículo lateral derecho Mayor hipoatenuación del área hipodensa córtico-subcortical temporo parietal derecha en relación con lesión isquémica establecida de ramas superficiales de ACM derecha.
+
+Informe d'alta d'hospitalització
+
+
+
+
+
+RX tórax (12.12.17): Estudi poc penetrat sense troballes significatives.
+
+PLANTA DE NEUROLOGIA
+
+TC cranial control (15.12.2017): Persiste hemorrágica aguda intraparenquimatosa en el seno del área de isquemia previa, con mayor edema perilesional, localizada en ganglios basales derechos, de la misma extensión que en exploración previa, que produce mayor efecto masa sobre el ventrículo lateral derecho prácticamente obliterado, así como mínimo desplazamiento de la línea media hacia la izquierda (3 mm). La lesión hemorrágica descrita se encuentra abierta al sistema ventricular con presencia de sangre en el ventrículo lateral derecho. Persiste sin  cambios  el  área  hipodensa córtico-subcortical  temporo  parietal derecha en  relación  con  lesión isquémica establecida de ramas superficiales de ACM derecha.
+
+Analítica control post-febrícula (15.12.2017): Hematologia (15/12/17): Leucocitos 8100 /µL, (N 75,3 % / L 16,4 / M 6,2 / E 1,6 / B 0,5), Htíes 4,87 mill/µL, Hb 15,7 g/dL, Hcto 46 %, VCM 94,4 fL, Plaquetes 202000 /µL, TP
+76 %, INR 1,22 sg, TP ratio 1,22, TTPA 30,6 sg, TTPA ratio 0,99, Fibrinógeno 525 mg/dL.
+Bioquimica (15/12/17): Glucosa 189 mg/dL, Urea 42, Creatinina 0,89, Na 138 mmol/L, K 3,8, Prot-C reactiva 8,3 mg/L.
+
+Orina (15/12/17): Densidad 1,03, pH 5,5, Proteína 5 mg/dL, Glucosa [-], C Cetonicos 0 mg/dL, Bilirrubina [-], Hb [-], Urobilinogeno 0,2 mg/dL, Nitritos [-], Esterasa leucocitica 0 leucos/µL, Bacterias Escasas, Eritrocitos 1-2
+/cmp, Leucocitos 1-2.
+
+Radiografia de tòrax (16.12.2017): Sense condensacions parenquimatoses.
+
+TC cranial control (18.12.2017): Disminución del tamaño y de la atenuación de la lesión hemorrágica subaguda en el seno del área de isquemia previa, con halo hipodenso perilesional, localizada en ganglios basales derechos, que produce menor efecto masa sobre el ventrículo lateral derecho parcialmente comprimido, así como mínimo desplazamiento de la línea media hacia la izquierda no mesurable. Menor cantidad de sangre en la porción más declive de las astas occipitales de los ventriculos laterales de predominio derecho.
+
+EVOLUCIÓ CLÍNICA
+Pacient de 67 anys, amb els antecedents previament descrits que es portat via codi ictus per disartria i debilitat d'extremitats esquerres de 2 hores d'evolució. A la seva arribada, estable hemodinàmicament, afebril i eupneic, amb clínica hemisfèrica dreta puntuant un NIHSS  de 19. El TC cranial no mostra signes d'isquèmia aguda, AngioTC on s'observa oclusió de ACM proximal.
+Donat que la sala d'arteriografia i l'equip de intervencionisme estàn disponible de forma immediata, es decideix fer tractament endovascular primari.
+Entrada a sala a les 12:45h, punció femoral a les 13:06, primera sèrie diagnòstica 13:16. S'observa oclusió de M1 proximal (TICI inicial 0), que es recanalitza a les 13:34h amb 2 passes del dispositiu stentretriever CATCH. S'observa també oclusió d'artèia pericallosa (ACA) dreta , que ja s'observaba al TC previ, que s'aconsegueix recanalitzar amb 1 passe de CATCH a les 13:41h. Es finalitza la intervenció a les 13:50h. TICI final 3 Sense complicacions durant la intervenció, realitzada sota sedació. NIHSS post REV sense canvis (19) Es trasllada al pacient a Unitat d'Ictus
+
+Informe d'alta d'hospitalització
+
+
+
+
+Durant el seu ingrès a la unitat d'ictus, el pacient presenta milloria clínica durant les primeres 12-24h, amb milloria del dèficit motor, fins assolir NIHSS 6. TC cranial de control a les 24 horas post-intervencionisme amb aparició de àrea de baixa atenuació de localització en nucli lenticular, càpsula externa, cós del caudat i àrea cortico-subcortical parieto-temporal dret, troballes compatibles amb lesió isquèmica subaguda de branques de ACM dreta, sense signes de transformació hemorràgica.
+
+Com a complicacions ha presentat:
+-	Deteriorament neurològic a les 30 hores de l'ingrés, amb hemiplegia de l'hemicós esquerre amb to augmentat, cefalea i diaforesi important. Es realitza TC cranial urgent que mostra transformació hemorrágica de la lesió amb compresió del ventricle lateral homolateral i invasió ventricular (PH2). Durant els següents dies, el pacient es manté amb bon estat de consciència i presenta lleu milloria progressiva. En TC de control als 5 dies de la transformació hemorràgica, s'observa estabilitat de l'hematoma amb lleu augment de l'eedema i de l'efecte massa sobre el ventricle lateral. Una nova TC als 8 dies d'evolució mostra disminució de l'hematoma i de l'edema.
+-	Infecció respiratòria de vies altes amb placa de tòrax que no mostra alteracions, es manté amb tractament broncodilatador i no requeriex antibiòtic. Per nou pic febricul·lar el 15.12, s'han cursat nova analítica, sediment i radiologia sense troballes patològiques.
+
+L'estudi etiològic no mostra alteracions, no presenta ateromatosi carotídia a angioTC ni arteriografia, ni signes de dissecció arterial. No presenta alteracions del ritme cardiac per monitorització cardiaca durant 5 dies.
+L'ecocardiograma mostra fracció d'ejecció conservada pero amb lleu dilatació auricular. L'analítica no mostra alteracions.
+
+Actualmente el pacient es troba conscien i orientat, amb lleu disàrtria sense afàsia, presenta parèsia facial central esquerra, plègia braquial i parèsia crural severa amb lleu anosognòsia, puntuant a l'alta 11 en la escala NIHSS. Ha tolerat sedestació a cadira, ha iniciat tractament rehabilitador i tolera dieta oral turmix.
+
+Finalment, s'orienta com a ictus isquèmic de territori d'artèria cerebral mitja dreta amb transformació hemorrágica de possible mecanisme embólic i etiologia indeterminada. Donada l'estabilidad clínica i hemodinàmica es decideix trasllat al seu centre de referència (_SS_) per continuar evolució i rehabilitació.
+
+A l'alta: mRS: 4
+NIHSS: 11
+
+ORIENTACIÓ DIAGNÒSTICA
+1.- Ictus isquèmic de territori de ACM dreta de mecanisme embòlic i d'etiología indeterminada. Com a complicació neuroògica ha presentat transformació hemorrágica de la lesió a les 30 hores.
+2.- SAHS en tractament amb CPAP. 3.- Infecció respiratòria de vies baixes.
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+-	Dieta pastosa i líquids amb espessidor baixa en sal i en greixos.
+-	Sedestació a cadira matí i tarda.
+-	CPAP nocturna.
+-	Macrogol si precisa.
+-	Omeprazol 20mg 1-0-0 vo
+-	
+Informe d'alta d'hospitalització
+
+
+
+
+-	Enoxaparina 40mg sc a la nit
+-	Adiro 300mg 0-1-0 vo
+-	Amlodipi 5mg cada 12 h si TA > 145/90 mmHg
+-	Paracetamol 1g/8h si precisa vo
+-	Atrovent 250mcg nebulitzación c/8h.
+
+CONTROL
+Trasllat al seu centre de referència (_SS_) el 19.12.2017 a les 18:00h.
+
+DESTINACIÓ A L'ALTA:	HOSP. AGUTS/PSQ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+19.12.2017
+Pàgina 1 de 5

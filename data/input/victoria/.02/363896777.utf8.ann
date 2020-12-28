@@ -1,0 +1,40 @@
+T1	FECHA 420 430	18/04/2017
+#1	AnnotatorNotes T1	2017-04-18
+T2	HORA 431 436	06:03
+#2	AnnotatorNotes T2	06:03
+T3	_SUG_Lateralizacion 752 753	I
+T4	_SUG_Localizacion 835 844	occipital
+T5	FECHA 1154 1159	27/03
+#5	AnnotatorNotes T5	2017-03-27
+T6	_SUG_Ictus_isquemico 1231 1236	ICTUS
+T7	_SUG_Localizacion 1318 1327	occipital
+T8	FECHA 1576 1581	18/04
+#8	AnnotatorNotes T8	2017-04-18
+T9	_SUG_Localizacion 1662 1671	occipital
+T10	_SUG_Localizacion 1719 1728	occipital
+T11	_SUG_Localizacion 1768 1779	ventricular
+T12	FECHA 2995 3000	31/03
+#12	AnnotatorNotes T12	2017-03-31
+T13	_SUG_Localizacion 3113 3124	ventricular
+T14	_SUG_Localizacion 3175 3186	ventricular
+T15	_SUG_Localizacion 3195 3204	occipital
+T16	_SUG_Localizacion 3254 3263	corticals
+T17	_SUG_Localizacion 3302 3311	posterior
+T18	_SUG_Localizacion 3346 3357	ventricular
+T19	_SUG_Localizacion 3462 3467	tronc
+T20	_SUG_Localizacion 3539 3548	occipital
+T21	_SUG_Localizacion 3559 3568	occipital
+T22	_SUG_Localizacion 3581 3590	posterior
+T23	_SUG_Localizacion 4050 4058	parietal
+T24	_SUG_Localizacion 4129 4134	tronc
+T25	_SUG_Localizacion 4405 4413	parietal
+T26	_SUG_Localizacion 4749 4758	occipital
+T27	FECHA 5386 5396	19/04/2017
+#27	AnnotatorNotes T27	2017-04-19
+T28	SECCION_TIPO_DE_INGRESO 437 451	Tipus d'ingrés
+T29	SECCION_DIAGNOSTICO_PRINCIPAL 532 552	Diagnòstic principal
+T30	SECCION_DIAGNOSTICOS_SECUNDARIOS 579 601	Diagnòstics Secundaris
+T31	SECCION_PROCEDIMIENTOS 631 643	Procediments
+T32	SECCION_ANTECEDENTES 846 857	Antecedents
+T33	SECCION_PROCESO_ACTUAL 1110 1125	Història Actual
+T34	SECCION_EXPLORACION_FISICA 1929 1946	Exploració física

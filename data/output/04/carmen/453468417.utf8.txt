@@ -1,0 +1,169 @@
+_LOCATION_ Tel. _CONTACT_
+e-mail: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 77 Anys
+NIF/DNI: _ID__NAME_; _NAME_
+Informe d'alta d'hospitalització
+11:00:00
+23.12.2017
+_LOCATION_
+_SS_ NEUROLOGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_
+DOMICIL/RES.SOC 19.12.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Ictus agut
+
+ANTECEDENTS
+Hombre de 77 años sin alergias medicamentosas
+
+-Hipertensión arterial en tratamiento con 4 fármacos.
+-Diabetes mellitus tipo 2 en tratamiento con antidiabéticos orales.
+-Dislipemia en tratamiento hipolipemiante.
+-ERC estadio III con Cr basales sobre 1.66 mg/dL.
+-Ictus isquémico de territorio de arteria cerebral media derecha en 2006 de etiología indeterminada y recuperado ad integrum. Estudio neurosonológico TSA y Holter normal. Desde entonces en tratamiento con AAS 300 mg. Sin secuelas
+-Cardiopatía isquémica con infarto no Q Killip I en diciembre de 2014, con enfermedad de 3 vasos y tronco común en que precisó cirugía derivativa coronaria. Ecocardio: VI ligeramente hipertrófico, con acinesia inferior e inferoseptal basal, hipocinesia severa lateral basal e hipocinesia anterior que condiciona función sistólica global moderadamente deprimida (FE Simpson 34%). AI severamente dilatada. Esclerosis aórtica sin estenosis. IM ligera. TSA: ateromatosis carotidea sin estenosis significativa. Infección postquirúrgica por Ps. aeruginosa multisensible tratada. En tratamiento antiagregante con aspirina 300 mg.
+
+Situación funcional previa: rankin 0.
+
+MEDICACIÓ HABITUAL
+AAS 300 mg c/d, Atorvastatina 80 mg c/d, Bisoprolol 2.5 mg c/12h, Amlodipino 5 mg/12h, Doxazosina 4 mg/12h, Hidralazina 12.5mg/12h, Gliclazida 60 mg/24h, Metformina 850 mg c/12 h, Alopurinol 100 mg c/d, Omeprazol, paracetamol.
+
+PROCÉS ACTUAL
+El 19/12/17 a las 8h al despertarse nota debilidad de brazo izquierdo, motivo por el que consulta. Visto asintomático por última vez el día anterior a las 24h. Sin otra focalidad neurológica acompañante. No cefalea. No fiebre.
+
+EXPLORACIÓ FÍSICA
+
+FC	71 bpm
+Tªaxi 36.0 ºC
+FR	rpm Tªrec  ºC
+TA s	149 mmHg SAT O2  %
+TA d   71 mmHg Pes Kg
+
+Buen estado general. AC: ruídos cardíacos regulares, soplo sistólico. AR: murmullo vesicular conservado, sin ruídos añadidos. Eupneico. Abdomen blando y depresible no doloroso.Exploración fisica cardiaca y respiratoria sin alteraciones.
+
+Informe d'alta d'hospitalització
+
+
+
+
+Exploración neurológica en Urgencias: Consciente, orientado en persona y espacio, desorientado parcialmente en tiempo (día y año mal). Lenguaje fluído sin elementos afásicos, disartria leve. Pupilas isocóricas normoreactivas. Cuadrantanopsia superior izquierda. Oculomotricidad sin restricciones ni diplopia. No paresia ni hipoestesia facial. Pares craneales bajos normales. Paresia moderada braquial izquierda, reflejo cutáneo plantar flexor bilateral. Sensibilidad superficial conservada. No dismetrías. NIHSS: 0.0.0.0.1/0.0.1.0.0/0.0.0.1.0 = 3.
+
+EXPLORACIÓ COMPLEMENTÀRIA
+Exploraciones realizadas en Urgencias:  
+
+ECG: ritmo sinusal a 60 lpm, PR 160 ms, aQRS 45º, onda Q crónica en DIII, sin signos de isquemia aguda.
+
+Analítica: Hematologia (19/12/17): Leucocitos 6400 /µL, (N 72,1 % / L 17,4 / M 7,1 / E 2,8 / B 0,6), Htíes 3,92
+mill/µL, Hb 11,8 g/dL, Hcto 36,6 %, VCM 93,4 fL, Plaquetes 122000 /µL, TP 75 %, INR 1,21 sg, TP ratio 1,21,
+TTPA 29,5 sg, TTPA ratio 0,95, Fibrinógeno 575 mg/dL. Bioquimica (19/12/17): Glucosa 174 mg/dL, Urea 49,
+Creatinina 1,33, Na 137 mmol/L, K 4,2, Prot-C reactiva 7,6 mg/L.
+
+TC craneal: signos incipientes de isquemia aguda en territorio de ACP derecha y parietal derecha con sufusión hemorrágica. Lesiones sugestivas de isquemia crónica en territorio frontera ACA-ACM derecha.
+
+Estudio neurosonológico: Ateromatosi carotidia severa. Placa heterogenia irregular de predomini hiperecoic a bulb carotidi que engloba emergència d'ACE i ACI provocant patró suggestiu d'oclusió/pseudo-oclusió d'ACI dreta. Asimetria d'ACMs amb patró esmorteït ACM dreta. Compensació a través d'ACoA i oftàlmica.
+
+Ecocardiograma transtorácico: Ventrículo izquierdo no dilatado, moderadamente hipertrófico, con función sistólica global y segmentaria conservadas. Aurícula izquierda moderadamente dilatada. Válvula aórtica con velos esclerosados. Sin valvulopatías significativas.
+
+
+Exploraciones realizadas en la Unidad de Ictus:  
+
+Analítica de ingreso: Hemograma: leucocitos 4400 (N 43.5%, L 38.5, Mo 10.5, Eo 6.3, Ba 1.2), Hb 12.5 gr/dl, Hto 37.1%, plaquetas 119000. Hemostasia: TP 13.2seg, fibrinógeno 558 mg/dl, TTPA 35.7seg. Bioquímica: glucosa 74 mg/dl, Hb glicada 6.7%, proteina 66.1g/l, albúmina 38.6, urea 32mg/dl, creatinina 1.33, urato 8.5, calcio 9, fosfato 3.7, magnesio 1.60, sodio 142.3, potasio 3.59, cloruro 105.7, bilirrubina 0.51mg/dl, FA 102 U/l, ALT 21, GGT 32,
+LDH 150, CK 153, amilasa 56, PCR 11mg/l, colesterol 109mg/dl, HDL 29.4, LDL 61, triglicéridos 92, osmolalidad 290mOsm/Kg. Proteinograma pendiente. TSH 9.2000mcUI/ml, tiroxina no unida a proteina 0.9ng/dL.
+
+Monitorización cardiaca: sin alteraciones del ritmo
+
+RM cerebral + angioRM: RM cerebral: lesión isquémica aguda/subaguda en territorio parietal de a.cerebral media derecha con sufisión hemorrágica (sin cambios respecto a TC previo) y presencia de lesiones embólicas puntiformes en centro semioval y cortical hemisféricas derechas. Lesión isquémica aguda en territorio de a.cerebral posterior derecha (occipital) con a.cerebral posterior fetal. Lesiones isquémicas crónicas en territorio frontera ACM/ACA derecha y ACM/ACP derecha. Estenosis del 50-60% de la a.carótida interna derecha y estenosis del 30% de a.carótida interna izquierda con buen flujo intracraneal.
+
+Informe d'alta d'hospitalització
+
+
+
+EVOLUCIÓ CLÍNICA
+Hombre de 62 años, que ingresa por ictus de territorio carotídeo derecho. A su llegada está hemodinámicamente estable, presenta hemianopsia homónima izquierda y paresia braquial izquierda (NIHSS 3). El TC craneal de urgencias muestra lesiones isquémicas crónicas en territorio frontera ACA-ACM derecha y lesión con sufusión hemorrágica parietal derecha. El estudio neurosonológico sugiere oclusión de ACI derecha. No se administra tratamiento trombolítico por tiempo de evolución (despertar) ni TEV por ausencia de oclusión.
+
+Se orienta como ictus agudo de territorio de arteria cerebral media/posteriorderecha de mecanismo probable embólico y etiología aterotrombótica Ingresa en Unidad de ictus.
+
+Durante su ingreso en la unidad se realiza analítica de ingreso que muestra hiperglicemia, discreta anemia y elevación de la TSH con tiroxina no unida a proteina dentro de la normalidad. El estudio con RM muestra lesiones isquémicas agudas en territorio frontera y cortical embólicas de hemisferio derecho, con sufusión hemorrágica, además de lesiones crónicas y la angioRM muestra estenosis de la a.carótida interna derecha del 60%. El estudio con ecocardiogama no muestra alteraciones embolígenas y no ha presentado arritmias durante su ingreso en la UIA con monitorización continua /72h).
+Se orienta como ictus isquémico agudo de territorio carotídeo derecho de etiología aterotrombótica por estenosis moderada de ACI derecha.
+Se plantea tratamiento de revascularización carotidea en 1 mes, dado que el tamaño de las lesiones cerebrales y la sufusión hemorrágica aumentan el riesgo de daño por referfusión. Mantener doble antiagregación y estatinas a dosis altas hasta entonces.
+
+No ha presentado complicaciones médicas. Ha tolerado dieta oral y sedestación. Ha iniciado rehabilitación. Dada la buena evolución, se decide alta a domicilio. Se cita en 1 mes en CCEE para ver evolución y tomar decisión sobre tratamiento de revascularización carotidea.
+Informo a la mujer y al paciente de los síntomas de alarma y necesidad de avisar al 112. Evitar hipotensión. Al alta:
+mRS 3
+NIHSS 3 (hemianopsia y leve paresia braquial izquierda)
+
+
+ORIENTACIÓ DIAGNÒSTICA
+-	Ictus isquémico agudo parietal-occipital derechos
+-	Ateromatosis carotidea con estenosis moderada de arteria carótida interna derecha y leve de arteria carótida interna izquierda
+-	Hipertensión arterial
+-	Diabetes mellitus tipo 2
+-	Dislipemia
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+AAS 100 mg c/d vía oral Clopidogrel 75mg c/d vía oral Atorvastatina 80 mg c/d  vía oral Bisoprolol 2.5 mg c/12h
+
+Informe d'alta d'hospitalització
+
+
+
+
+Amlodipino 5 mg/12h Gliclazida 60 mg/24h vía oral
+Metformina 850 mg c/12 h vía oral Alopurinol 100 mg c/d vía oral Ranitidina 150mg/12h vía oral
+
+Si TA>140/80, añadir al tratamiento Doxazosina 4 mg/12h vía oral Hidralazina 12.5mg/12h vía oral
+
+Dieta cardiosaludable, baja en grasas, diabética
+
+CONTROL
+Control en CCEE Neurologia  (Dra. _NAME_-_NAME_)  el dia 22/01/2018 (1a planta). Se realizará ecoTSA de control y se valorará decisión de revascularización carotidea.
+Informo a la mujer y al paciente de los síntomas de alarma y necesidad de avisar al 112. Evitar hipotensión (mantener TA>140/80)
+
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+23.12.2017
+Pàgina 1 de 4

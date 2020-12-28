@@ -1,0 +1,173 @@
+_LOCATION_
+_LOCATION_) Anul·lació/Reprogramació visites:_CONTACT_
+Telèfon Centraleta: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 72 Anys
+NIF/DNI: _ID__NAME_; _NAME_; _NAME_;
+_NAME_
+Informe d'alta d'hospitalització
+16:39:15
+27.12.2017
+_LOCATION_
+_SS_ NEUROLOGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_; _CONTACT_
+DOMICIL/RES.SOC 19.12.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Varón de 72 años que ingresa en Neurología por inestabilidad y debilidad de extremidad inferior derecha.
+
+ANTECEDENTS
+Sin alergias conocidas.
+
+Hábitos tóxicos:
+-	Fumador activo
+-	Enol puntual
+
+Factores de riesgo cardiovascular:
+-	Hipertensión arterial en tratamiento médico
+-	Dislipemia en tratamiento médico
+-	Diabetes mélitus tipo II en tratamiento con antidiabéticos orales
+
+Antecedentes patológicos:
+-	No cardioneumopatías conocidas. No intervenciones conocidas.
+Situación basal: Independiente para actividades básicas vida diaria. mRS 0.
+
+MEDICACIÓ HABITUAL
+Enalapril/Hidroclorotiazida 20/12.3mg 1.5 copm/24h; Glimepirida 2mg/8h; Metfromina 850mg/8h; Omeprazol 20mg/24h; Simvastatina 10mg/24h.
+
+PROCÉS ACTUAL
+Varón de 72 años que acude derivado desde _LOCATION_ como código ictus (randomización RACECAT tras teleictus), activado a las 19:23. Refiere inicio de la clínica aproximademante a las  18:10-18:15 en la que se  objetiva inestabilidad y paresia EID (no queda claro si también ESD) asi como dificultad para el habla (dificil precisar si afasia o disatria); a las 18:25 llama a familiar que avisa al SEM. A su llegada el SEM refiere objetivar hemiparesia derecha y afasia.
+
+A su llegada a _SS_ TA 140/90mmHg, exploraicón neurológica muestra paciente consciente y orientado en tiempo espacio y persona (dice mes y edad), disatria (impresiona de habla escándida) (2), lenguaje conservado (nomina 5, evoca 5, repite, con dudosos bloqueos), obedece órdenes complejas. PFSN d leve (1), no déficits campimétricos por confrontación, sin limitación de MOEs pero nistagmo horizontal a la levo y dextroversión de la mirada, no diplopia subjetiva. Resto de pares craneales bajos normales. Fuerza hemiparesia 5- y sensibilidad conservada, Miller Fisher derecho, dismetría d leve. NIHSS de 4.
+Se realiza analítica que destaca hiperglucemia de 10.6mmol/L, leve alteración de la función renal con urea 9.2 mmol/L, creatininia 109umol/L, hiponatremia de 132mmol/L, anemia microcítica con Hb 12.5g/dL, Hto 37% y  VCM
+
+Informe d'alta d'hospitalització
+
+
+
+
+81fL, resto de parámetros dentro de la normalidad. Radiografía de tórax: mal inspirada, muestra cardiomegalia, sin condensaciones en campos pulmonares y ángulos costofrénicos libres.
+Se realiza TC craneal y angioTC de TSA con ASPECTS de 10, no se objetivan otras imágenes de lesiones isquémicas agudas. Describen dudoso defecto de replección en M2 proximal izq.
+
+Se orienta como ictus isquémico, sin poder especifiar por semiología y con pruebas de imagen si se trata de PACI o POCI. Se decide realización de trombolisis, que se inicia a las 21:50 (Bolus 7mg+PVC 1h de 65mg). Se decide ingreso en Unidad de Ictus.
+
+EXPLORACIÓ FÍSICA
+
+TA 141/62mmHg, FC 62lpm; SpO2 98% basal; afebril.
+NRL: paciente consciente y orientado en tiempo espacio y persona (dice mes y edad), disatria (impresiona de habla escándida) (2), lenguaje conservado (nomina 5, evoca 5, repite), obedece órdenes complejas. PFSN d leve (1), no déficits campimétricos por confrontación, sin limitación de MOEs pero nistagmo horizontal a la levo y dextroversión de la mirada, no diplopia subjetiva. Resto de pares craneales bajos normales. Hemiparesia derecha BC 4+/5 (1), con Milton Alter, fuerza hemicuerpo izquierdo conservada, sensibilidad conservada, Miller Fisher derecho, dismetría derecha leve congruente. RCP derecho extensor, izquierdo flexor. NIHSS de 4.
+AC: Tonos cardíacos rítmicos sin soplos AR: Murmullo vesicular conservado Abdomen anodino
+No edemas en EEII
+
+EXPLORACIÓ COMPLEMENTÀRIA
+PRUEBAS REALIZADAS EN URGENCIAS
+-	Analítica: glucosa 10.6mmol/L, urea 9.2 mmol/L, creatininia 109umol/L, Na 132mmol/L, Hb 12.5g/dL, Hto 37%, VCM 81fL, resto sin alteraciones destacables.
+-	ECG: Bloqueo AV 2o grado tipo II
+-	Rx de tórax: mal inspirada, cardiomegalia, no condensaciones en campos pulmonares, ángulos costofrénicos libres.
+-	TC craneal y angioTC de TSA: ASPECTS 10, no se objetivan otras imagenes de lesiones isquemicas agudas. Dudoso defecto de replección en M2 proximal izq.
+-	Tac control 24h: Sin lesiones destacables, no hemorragia.
+
+PRUEBAS REALIZADAS EN EL SERVICIO DE NEUROLOGÍA
+-	Analítica: Alteración de la funcion renal con Cr 115umol/L, urea 7.2mmol/L, FG 55ml/min. Iones conservados. Bioquímica hepática sin aleraciones (ALT, AST, bilirrubina, GGT y FA); perfil lipídico alterado con colesterol tota 3.99mmol/L, HDL 0.72mmol/L, total menos HDL 3.27mmol/L, elevación de TG 2.75mmol/L; perfil tiroidal normal; perfil glucémico muy alterado con Hb1Ac 9.8%. Nivles de folatos levemente por debajo de la normalidad 114pmol/L ( LN > 122), folatos normales 17.8nmol/L. Immunoglobulinas normales, estudio de bandas pendiente. Anemia microcítica con Hb 118g/L, Hto 34.90%, VCM 82fL; leve plaquetopenia 142.000, serie blanca conservada. VSG 38mm. Coagulación conservada.
+-	Serologías: LUES negativo
+-	Ecocardiografia: - Ventricle esquerre no dilatat i amb hipertròfia lleugera. Contractil.litat global i segmentària conservada. - Ventricle dret no dilatat i normocontràctil. - Aurícula esquerra lleugerament dilatada. - Arrel aòrtica i aorta ascendent no dilatades. - Vàlvula mitral normal sense estenosi i amb regurgitació molt lleugera. - Vàlvula
+-	
+Informe d'alta d'hospitalització
+
+
+
+
+aòrtica trivalva, esclerocalcificada, sense estenosi ni regurgitació. - Insuficiència tricuspídia lleugera que permet calcular PAP normal. - Vena cava inferior no dilatada i mòbil. - Absència de vessament pericàrdic
+-	TC crani control 21/12: Sin transforamción hemorragica ni otras complicaciones
+-	Holter ECG 24h: Pendiente de realizar
+-	RM y angioRM: Pendientes de realizar
+
+
+EVOLUCIÓ CLÍNICA
+Varón de 72 años que ingresa en Neurología por ictus isquémico tratado con rTPA ev.
+A su llegada a la planta de Neurología (Unidad de Ictus), presenta buen estado general, hemodinámicamente estable y afebril. Neurológicamente presenta NIHSS de 4 a expensas de disartria (inpresiona habla escándida), PFSN D leve, nistagmus horizontal a la levo y dextroversión de la mirada, hemiparesia derecha 4+/5 con Milton alter, Miller Fisher derecho y dismetría con ESD proporcional al grado de paresia.
+Se realiza TAC de control 24h post fibrinolisis que no muestra transformación hemorragica ni otras complicaciones por lo que se incia antiagregación.
+
+Se completa el estudio de ictus con analítica que muestra alteración de la funcion renal con Cr 115umol/L, urea 7.2mmol/L, FG 55ml/min; alteración del perfil lipídico con colesterol tota 3.99mmol/L, HDL 0.72mmol/L y coelsterol total menos HDL 3.27mmol/L junto con elevación de TG 2.75mmol/L; perfil glucémico muy alterado con Hb1Ac 9.8%. Anemia microcítica con Hb 118g/L, Hto 34.90%, VCM 82fL, resto dentro de la normalidad. Estudio de bandas monoclonales pendiente de resultados. Serologías de LUES ques es negativa. Ecocardiografia que describe ligera hipertofia de ventriculo izquierdo y aurícula izquierda ligeramente dilatada, resto dentro de la normalidad. Queda pendiente de completar el estudio con Holter ECG 24hyRM y angioRM.
+
+Durante la estancia en NRL se mantiene monitorizado, objetivándose alteración de la conducción del nodo auriculoventricular con p que no conducen, compatible con bloqueo AV Mobitz II, asintomático. Queda pendiente realización de Holter ECG 24h y valoración reglada por Cardiología con todas las pruebas.
+
+Se ha iniciado rehabilitación, logopedia y reinicio de la dieta oral con correcta tolerancia.
+
+Al alta de _SS_, a la exploración NRL se encuentra consciente, orientado, disartria, no alteraciones del lenguaje, campimetría por confrontación normal, PICNR, MOE normal, nistagmus horizontal a la mirada horizontal bilateral sin diplopia ni oscilopsias, PFSN D leve, paresia BC 4+/5 distal, no déficit sensitivo, no dismetría. NIHSS 4.
+
+Se orienta cl cuadro como ictus isquémico hemisférico izquierdo, de etiología a estudio, pendiente de RMN cerebral y HolterECG. Actualmente antiagregado con AAS 300mg.
+
+Ante estabilidad clínica el día 27/12/17 se traslada a centro de referencia para continuar estudio de ictus, control evoluctivo y rehabilitación.
+
+ORIENTACIÓ DIAGNÒSTICA
+434.01/3 Avc isquemic arteries cerebrals Ictus isquémico
+
+Informe d'alta d'hospitalització
+
+
+
+PROCEDIMENTS
+93.14 Entrenament de moviments articulars
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Se adjunta
+
+DESTINACIÓ A L'ALTA:	HOSP. AGUTS/PSQ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Validat per: _NAME_ NAIMA	Col·legiat: _ID_
+
+27.12.2017
+Pàgina 1 de 4

@@ -1,0 +1,61 @@
+T0	_SUG_Lateralizacion 0 1	I
+T1	FECHA 306 316	11.11.2017
+#1	AnnotatorNotes T1	2017-11-11
+T2	HORA 377 382	01:20
+#2	AnnotatorNotes T2	01:20
+T3	SECCION_TIPO_DE_INGRESO 391 416	Tipo ingreso/Tipus ingrés
+T4	SECCION_MOTIVO_DE_INGRESO 552 590	Motivo de consulta / Motiu de consulta
+T5	SECCION_ANTECEDENTES 622 684	Antecedentes e historia previa / Antecedents i història prèvia
+T6	_SUG_mRankin_alta 814 819	mRS 0
+T7	_SUG_mRankin_previa 814 819	mRS 0
+T8	_SUG_Ictus_isquemico 827 832	ICTUs
+T9	FECHA 836 848	octubre 2017
+#9	AnnotatorNotes T9	2017-10-UNDEF-day
+T10	_SUG_Etiologia 878 890	HIPERTENSIÓN
+T11	_SUG_Ictus_isquemico 926 941	ICTUS ISQUÉMICO
+T12	_SUG_Lateralizacion 952 959	DERECHO
+T13	FECHA 996 1008	octubre 2017
+#13	AnnotatorNotes T13	2017-10-UNDEF-day
+T14	_SUG_Lateralizacion 1190 1197	derecha
+T15	_SUG_Trombectomia_mecanica 1279 1291	trombectomía
+T16	_SUG_Lateralizacion 1334 1341	derecha
+T17	_SUG_Localizacion 1410 1419	posterior
+T18	_SUG_Arteria_afectada 1455 1458	ACM
+T19	_SUG_Lateralizacion 1459 1466	derecha
+T20	_SUG_NIHSS_alta 1551 1559	NIHSS 11
+T21	_SUG_NIHSS_previa 1551 1559	NIHSS 11
+T22	_SUG_mRankin_alta 1605 1610	mRS 3
+T23	_SUG_mRankin_previa 1605 1610	mRS 3
+T24	FECHA 1619 1624	02/11
+#24	AnnotatorNotes T24	2017-11-02
+T25	SECCION_TRATAMIENTO_HABITUAL 1676 1696	Medicación  habitual
+T26	_SUG_Tratamiento_antiagregante_alta 1733 1744	Clopidogrel
+T27	_SUG_Tratamiento_antiagregante_hab 1733 1744	Clopidogrel
+T28	_SUG_Tratamiento_antiagregante_alta 1763 1766	AAS
+T29	_SUG_Tratamiento_antiagregante_hab 1763 1766	AAS
+T30	SECCION_PROCESO_ACTUAL 1837 1867	Proceso actual / Procés actual
+T31	_SUG_Ictus_isquemico 1919 1924	Ictus
+T32	SECCION_PROCESO_ACTUAL 6001 6007	Episod
+T33	SECCION_EXPLORACION_FISICA 2026 2064	Exploración física / Exploració física
+T34	FECHA 2065 2075	11/11/2017
+#34	AnnotatorNotes T34	2017-11-11
+T35	HORA 2076 2081	11:00
+#35	AnnotatorNotes T35	11:00
+T36	_SUG_Lateralizacion 2383 2392	izquierda
+T37	_SUG_Ictus_isquemico 2409 2414	Ictus
+T38	_SUG_TAC_craneal 3110 3112	TC
+T39	_SUG_Etiologia 3404 3418	indeterminadas
+T40	SECCION_EVOLUCION 3516 3536	Evolución / Evolució
+T41	_SUG_Ictus_isquemico 3658 3663	Ictus
+T42	_SUG_Lateralizacion 4028 4037	izquierda
+T43	_SUG_Ictus_isquemico 4055 4060	ictus
+T44	_SUG_Lateralizacion 4269 4276	derecho
+T45	_SUG_Tratamiento_anticoagulante_alta 4721 4728	clexane
+T46	_SUG_Tratamiento_anticoagulante_hab 4721 4728	clexane
+T47	FECHA 4969 4979	06/11/2017
+#47	AnnotatorNotes T47	2017-11-06
+T48	SECCION_RECOMENDACIONES 5417 5438	Otras recomendaciones
+T49	FECHA 5669 5679	20.11.2017
+#49	AnnotatorNotes T49	2017-11-20
+T50	HORA 5694 5699	08:53
+#50	AnnotatorNotes T50	08:53

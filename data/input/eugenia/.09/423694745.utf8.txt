@@ -1,0 +1,146 @@
+_LOCATION_
+_LOCATION_) Anul·lació/Reprogramació visites:_CONTACT_
+Telèfon Centraleta: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 53 Anys
+NIF/DNI: _ID__NAME_; _NAME_; _NAME_
+Informe d'alta d'hospitalització
+CP	_LOCATION_
+ABS	_SS_
+Servei	NEUROLOGIA
+Data d'alta  29.09.2017	17:00:00
+_LOCATION_
+_CONTACT_; _CONTACT_; _CONTACT_; AGUTS
+19.09.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Ictus arteria basilar remitido de UCI _SS_ (Tarr_LOCATION_)
+
+ANTECEDENTS
+No alergias a medicamentos conocidas.
+Hábitos tóxicos: fumador de 1paquete/dia cigarros (previamente 2pq/dia), 4 porros diarios desde los 18 años, 1-2UBEs/dia (ex-enol severo desde 2007), ex-cocainómano desde hace 8 años
+FRCV: No HTA, No DM, No DLP conocidos. No cardioneumopatías.
+infoma de Hodgkin clásico dx Feb16 a raíz de sd hemofagocítico que recibió tratamiento con ciclofosfamida y ABVD ajustado (sin Doxorrubicina ni Vinblastina) en seguimiento en _SS_.
+VHB curada.
+Trastorno límite de la personalidad sin tratamiento actualmente. En PSQ se plantearon posible síndrome de Korsakoff
+IQ quistes sacros, vasectomía, hernia inguinal derecha, fístula anal.
+
+Situación basal: mRankin 0. independiente para ABVD. Vive con su madre. Desempleado desde hace 1 año
+
+MEDICACIÓ HABITUAL
+Diazepam 10mg 1 comprimido por las noches.
+
+PROCÉS ACTUAL
+Paciente varón de 53 años que el día 09/09 inicia cuadro de cefalea intensa y vómitos por lo que acude a hospital de referencia orientándose como cefalea inespecífica dándole el alta con Tramadol y Serc. La clínica mejora con analgesia pautada pero no desaparece. El 15/09 se añade inestabilidad de la marcha, diplopia y acúfenos por los que no consulta. El día 18/09 se añade incapacidad para deambular, disartria y disminución de  fuerza en extremidades derechas por lo que se activa código ictus y se traslada el paciente a _SS_ donde llega con GCS de 14. Se realiza TAC craneal que es normal y ante disminución progresiva de nivel de consciencia (Glasgow 7) se realiza PL y aunque LCR no está alterado se inicia Ampicilina y Aciclovir. El 19/09, valorado por NRL de dicho centro objetiva plejia derecha por lo que realiza ECO-TSA con imagen de flap intimal de ACI derecha por lo que realizan angioTAC que muestra trombo a nivel proximal de arteria basilar. Contactan con _SS_ para derivar para valorar rescate intrarterial a las 13:35. Llega a _SS_ a las 15:30.
+
+A su llegada a uegencias, paciente está hemodinamicamente estable (TA 133/73, FC 56x', Sat 100%, DXT 101).A la exploración neurológica está con IOT y sedado con Midazolam. Lenguaje no valorable. Reflejos corneales y oculocefálicos presentes. Destaca hemiplegia derecha, sensibilidad no valorable.
+
+Dentro de las pruebas complementarias se realiza una analítica en la que destaca leucocitosis de 14.400 e hipopotasemia de 3.81.Resto sin alteraciones a destacar. La radiografía de tórax es normal. El ECG muestra ritmo sinusal a 60 lpm, sin alteraciones agudas de la repolarización. La TAC y angioTAC muestra oclusión del tercio proximal de la arteria basilar
+
+Informe d'alta d'hospitalització
+
+
+
+
+
+Se orienta el caso como ictus Vertebrobasilar con colusión del tercio medio de la arteria basilar de etiología desconocida, decidiendose realizar trombectomía de rescate que recanaliza con buen resultado angiográfico TICI
+3. Se decide ingreso a UCI, a donde llega hemodinamicamente estable, sin soporte vasopresor, TAm 75mmHg,diuresis > 1ml/kg/h, bien perfundido, pulsos periféricos presentes en 4 extremidades. Tras ventana de sedación se realiza destete de la ventilación mecánica lograndose extubar a las pocas horas de ingreso, requiriendo oxigeno suplementario al 28%, eupneico. Al exámen neurológico destaca consciente, orientado, disartrico, MOEs conservados, paresia facial periférica izquierda, paresia braquiocrural 4/5 derecha, RCP flexor bilateral.
+
+Como incidencias destaca leucocitosis de 12200xmm3, manteniendose afebril se orienta el caso como probable broncoaspiración, por lo que se deja Amoxicilina/ Ac. clavulánico.
+
+A las 48 horas de ingreso presenta mejoría neurológica importante a nivel motor, consciente, orientado en TEP, disártrico, impresiona ligera dificultad para la deglución por la presencia de SNG, Dismetria facial izquierda, Paresia braquiocrural derecho 5-/5, sin otras focalidades a destacar. La TAC de control muestra imagen de infarto establecido protuberancial, sin signos de transformación hemorrágica.
+
+Ante la buena evolución , se decide traslado a la  unidad de ictus.
+
+EXPLORACIÓ FÍSICA
+
+TA 130/70mmHg FC 64lpm Tª 36.7ºC SatO2 basal 96% 11rpm
+NRL: vigil, consciente, orientado en TEP, responde a órdenes simples y complejas, lenguaje conservado, habla disártrica (1), no HH por confrontación, pursuit de la mirada horizontal, no nistagmus, mirada vertical normal, PFSN derecha (1), mínimo signo de la pestaña derecha, uvula centrada, reflejo nauseoso algo disminuído, MF derecho, paresia 5-/5 en ESI y EID, sensibilidad conservada. NIH 2
+AC: rítmica, no ausculto soplos
+AP: murmulo vesicular conservado, sin ruidos sobreañadidos Abdomen: anodino
+EEII: no edemas ni signos de TVP
+
+
+EXPLORACIÓ COMPLEMENTÀRIA
+Pruebas complementarias realizadas en Urgencias:  
+Analítica: Equilibrio ácido-base: p7.34, pCO2 52 mmHg, H2CO3 28 mmol/L, EB 1.3 mmol/L. Bioquímica: Glucosa
+5.5 mmol/l, Urea 5.6 mmol/l, Creatinina 73 umol/L, Na+ 144 mmol/l, K+ 3.81 mmol/L.Coagulación: TTPA 0.96, TP
+1.04. Hemograma: Hb 140g/L, Hto 42%, VCM 93fl, HCM 31 pg, CHCM 331 g/L, Plaquetes 229/L, Leucocitos 14400/L, Neutrófilos 10070/L, Linfocitos 2950/L.
+Rx tórax (_SS_): ICT<0.5. No condensaciones, senos no pinzados.
+ECG: RS a 60lpm. PR no alargado, QRS no ensanchado. No alteraciones agudas de la repolarización.
+TC CRANEAL SIMPLE: Estructuras de la línea media no desplazadas y cisternas de la base libres. Parénquima encefálico y sistema ventricular sin alteraciones destacables. Tenue hipodensidad del parénquima protuberancial, en posible relación con infarto subagudo. No se identifican sufusiones hemáticas intra o extraaxiales.
+ANGIOTC DE TRONCOS SUPRAAÓRTICOS Y CRANEAL: Oclusión de  arteria basilar proximal, con repermeabilización  a  nivel  más  distal. Arteriascerebrales posteriores opacificadas a  través  de  comunicantes
+
+Informe d'alta d'hospitalització
+
+
+
+
+posteriores.  Tenue  hipodensidad  pontina,  de  caracterización  dudosa,  que  podría  corresponder  con  infarto establecido protuberancial.
+
+Pruebas complementarias realizadas en Planta de Neurología: 	
+Analítica: Función renal y iones normales. Perfil hepático normal. Proteina 56g/L. Ca 2.04 mmol/L. Perfil hepático normal, excepto HDL0.78 mmol/L. Perfil tiroideo normal. Cobalaminas y folatos normales. HbA1c 5.2%. Proteinograma normal. Hemograma Hb 120 g/L, VCM 91 fL, PLAQUETAS 189x10E9/L, no leucositosis. Coagulaicón normal. VSG 31mm
+Serologías: Hepatitis B (anti core IgG) Positivo. Hepatitis B ( HbsAg) Negativo. Hepatitis C , Treponema pallidum, VIH 1 y VIH 2 Negativo.
+Anticuerpos: ANA, anti-MPO y anti-PR3 negativos, anti-cardiolipina y anti-B2 microglobulina pendientes. Anticoagulante lúpico negativo.
+Ecocardio TT: Ventrículo izquierdo no dilatado, ni hipertrófico, función sistólica preservada, Fe biplanar del 59%. Sin alteración de la contractilidad segmentaria Ventrículo derecho no dilatado, normocontractil Aurícula izqueirda y raíz aórtica no dilatadas Válvula aórtica trivalva, sin calcio, sin lesiones Válvula mitral normal, sin lesiones Válvula tricuspídea sin insuficiencia, por lo que no se permite calcular PAPS. Flujo pulmonar no sugestivo de HTP. Vena cava inferior no dilatada, móvil. Sin signos de derrame pericárdico.1
+RMN y angioRM: Presencia de dos lesiones en región frontal derecha y protuberancia, en relación a evento isquémico previo. Estenosis focal moderada del segmento más proximal de arteria cerebral posterior izquierda. No visualización de arteria verteral derecha.
+Holter: pendiente
+
+EVOLUCIÓ CLÍNICA
+Ingresa en la unidad de ictus por ictus vertebrobasilar tratado mediante trombectomía TICI3. A las 24h presenta un NIH de 2 a expensas de habla disártrica, paresia facial derecha leve y pursuit de la mirada horizontal. EL TAC de control se observa hipodensidad sugestiva de infarto establecido hemiprotubernacial izquierdo sin datos de transformación hemorrágica.
+Se mantiene monitorizado durante 4 dias sin presentar eventos arrítmicos.
+
+Como parte del estudio vascular se solicita analítica en la que destaca disminución del HDL, con estudio de autoinmunidad negativo (queda pendiente los AC anticardiolipina y anti-B2microglobulina). Serologías negativas (Ac IgG anti-VHB positivos en relación a Hepatitis B pasada). El ETT se encuentra dentro de la normalidad. En la RMN se objetiva dos lesiones en región frontal derecha y protuberancia, en relación a evento isquémico previo y en la angioRMN estenosis focal moderada del segmento más proximal de arteria cerebral posterior izquierda.
+Queda pendiente realizar el Holter y dado edad solicitaremos de forma ambulatoria estudio de ecocardiografía transesofágica (ETE).
+
+Durante su estancia en planta el paciente se ha mantenido HDME con correcto control tensional sin necesidad de medicación antihipertensiva. Inicia dieta oral con buena tolerancia y deambualción autónoma algo inestable que se beneficia de un sistema de apoyo.
+
+Se orienta el caso como ictus en protuberancia izquierda y frontal derecho sin etiología. Se inicia CLOPIDOGREL 75 MG/DIA
+
+Como incidencias destaca un posible episodio de broncoaspiración que se ha resulto con tratamiento antibiótico con augmentine durante 10 dias
+
+Informe d'alta d'hospitalització
+
+
+
+
+A dia de hoy 29/09 neurológicamente el paciente presenta un NIHSS de 2 a expensas de PFSN derecha leve y habla disártrica.
+
+Dada la estabilidad clínica se decide alta a domicilio.
+
+DIAGNÒSTICS
+436/5 Ictus vertebrobasilar de etiología indeterminada posiblemente embólica (pendiente finalizar estudio).
+
+PROCEDIMENTS
+87.44 Radiografia rutinària de tòrax, descrita com a tal. Radiografia de tòrax NOS
+93.14 Entrenament de moviments articulars
+93.18 Exercici respiratori
+93.75 Altre entrenament i terapèutica de la parla
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+- Clopidogrel 75 mg/dia.
+-	Omeprazol 20 mg/dia
+-	Paracetamol 1 gr/12h sólo si cefalea.
+-	Si persiste cerfalea Nolotil 1 comp/12h.
+
+
+CONTROL
+Control médico cabecera en menos de 1 semana Abstención consumo tabaco y alcohol.
+Ejercicio moderado y dieta baja en grasas.
+Se citará para ecocardiografía transesofágica y Holter.
+Acudir a médico cabecera para programar rehabilitación y terapia ocupacional en su centro de referencia
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+29.09.2017
+Pàgina 1 de 4

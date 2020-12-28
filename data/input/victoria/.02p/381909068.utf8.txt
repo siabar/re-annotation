@@ -1,0 +1,106 @@
+I.CLINIC DE NEUROCIÈNCIES NEUROLOGIA
+_NAME_	NHC: _ID_
+
+
+Sexo/Sexe: Masc.	Fecha nac./Data naix.: _DATE_	Edad/Edat: 63 años Dirección/Adreça: _LOCATION_		CP: _LOCATION_
+Municip. (Prov.): _LOCATION_  ABS:_SS_	Tel.:_CONTACT_
+As.: SERVEI CATALA DE LA SALUT	CIP: _ID_	NASS: _ID_
+Nº epis.: _ID_	Tipo/Tipus: HOSPIT.	Inici.: 12.06.2017
+Serv: NEUROLOGIA	UO Enf.: G064 SALA G DE NEUROLOGIA	Hora: 12:23:26
+Facult. de ref.: _NAME_
+
+
+
+
+Tipo ingreso/Tipus ingrés: Urgent	Motivo/Motiu alta: CSS Conval.
+Diag.:
+HEMATOMA CAPSULOTALÁMICO IZQUIERDO (431) HEMATURIA ()
+Proc.:
+ANALÍTICA SANGUÍNEA () ECG. MONITORIZACIÓN. () RX TÓRAX ()
+TC MULTIMODAL ()
+TC CRANEAL DE CONTROL ()
+
+
+
+
+INFORME CLÍNICO ALTA / INFORME CLÍNIC ALTA
+
+Motivo de consulta / Motiu de consulta
+Anestesia y debilidad de extremidades derechas del despertar.
+
+Antecedentes e historia previa / Antecedents i història prèvia
+Hombre de 63 años sin alergias medicamentosas conocidas ni hábitos tóxicos. Independiente para la vida diaria. Vive con un hermano. (mRS 0)
+
+*ANTECEDENTES PATOLÓGICOS:
+1.	DIABETES MELLITUS TIPO 2 en tratamiento con hipoglicemiantes orales.
+2.	HIPERTENSIÓN ARTERIAL en tratamiento farmacológico.
+3.	HIPERTRIGLICERIDEMIA en tratamiento con fibrato.
+4.	CARDIOPATÍA ISQUÉMICA en fase dilatada, que debutó en el año 1997 en forma de angina vasoespástica. FE 29%. Cateterismo normal en 2010. No sigue control cardiológico.
+5.	HIPERURICEMIA en tratamiento con alopurinol.
+6.	OBESIDAD
+
+*MEDICACIÓN  HABITUAL:  Metformina  850  mg/12h;  glimepirida  4-0-2  mg;  lovastatina  40  mg/noche; fenofibrato 160 mg/24h; bisoprolol 2.5 mg/24h; lisinopril 20 mg/24h; tamsulosina 0.4 mg/24h; alopurinol
+100 mg/24h.
+
+Proceso actual / Procés actual
+Paciente que despierta el 12/06 con hipoestesia de hemicuerpo derecho y leve paresia distal, que empeora con el tiempo hasta progesar a anestesia. Llaman al SEM quienes lo trasladan como código ictus.
+Exploración física / Exploració física
+12/06/2017-13:00:00: Frecuencia respiratoria (rpm) 22, PAS (mm Hg) 125, PAD (mm Hg) 83, Pulsioximetría (%) 94. 12/06/2017-13:29:00 : Glicemia ca pilar (mg/dl) 231. 12/06/2017-22:00:00 : Tª axilar (ºC) 36.9.
+NRL: Alerta y orientado. Lenguaje sin alteraciones. No disartria. Isocoria normoreactiva. Campimetría sin alteraciones. Mirada conjugada sin limitaciones. Hemiparesia facio (leve)- braquio (2/5)- crural (1/5) drcha. Hemianestesia drcha (incluye tronco). Dismetrías no valorables. NIHSS 9.
+
+Laboratorio / Laboratori
+*ANALÍTICA SANGUÍNEA: PCR 0.46 mg/dL. Glucosa 181 mg/dL. Creatinina 1.00 mg/dL; filtrado 80 mL/min. Úrico 5.9 mg/dL. Colesterol total 157 mg/dL; TG 174 mg/dL; LDL 97 mg/dL; HDL 25 mg/dL. Leucocitosis
+11.17 10^9/L a expensas de neutrofilia. VSG, vitaminas, HbA1c, hemostasia y eje tiroideo pendientes.
+
+Radiología / Radiologia
+*RX TÓRAX: sin focos de consolidación ni otros focos sugestivos de patología aguda.
+
+*TC MULTIMODAL: - TC CRANEAL BASAL: infarto hemorrágico intracraneal presente de localización intraparenquimatosa de localización talámica y porción retrolenticular de la cápsula interna izquierda. Parénquima cerebral con correcta diferenciación cortico-subcortical No se aprecian lesiones isquémicas parenquimatosas subagudas/crónicas. Estructuras de línea media centradas. Sistema ventricular de tamaño, morfologia y localización conservados. Cisternas basales libres. - TC PERFUSION CEREBRAL: el estudio de perfusion no muestra spot sign ni otros signos precoces de resangrado. - ANGIO-TC EXTRA E INTRACRANEAL: aorta y segmentos proximales de troncos supraaórticos con signos de ateromatosis, permeables sin estenosis presente. Origen y segmentos cervicales de las arterias carótidas internas y de las arterias vertebrales permeables y sin signos de atetomatosis. Segmentos intracavernoso y supraclinoideo de las arterias carótidas internas con leve ateromatosis calcificada y permeables. No se observan malformaciones arteriovenosas ni aneurismas responsables del sangrado inparenquimatoso descrito. A nivel intracraneal no se observan alteraciones significativas. Resto del estudio sin otras alteraciones significativas.
+
+*TC CRANEAL DE CONTROL: no se detectan cambios significativos en comparación con estudio TC craneal previo practicado el 12/06/2017. Hematoma capsulotalámico izquierdo, de morfología ovalada, con mínimo edema perihemorrágico, que presenta unos diámetros de 12x17x13 mm, con afectación del brazo posterior de cápsula interna izquierda,ni signos de desplazamientos de estructuras adyacentes que sugieran resangrado. Discreta atrofia cerebral global de predominio cortical frontoparietal. Mínima atrofia vermiana. Dolicoectasia de tronco basilar. Dilatación quística de espacio prevascular a nivel de la porción inferior de núcleo lenticular izquierdo, sin poder excluir infarto lacunar antiguo. Calcificaciones de arterias carótidas intracavernosas bilaterales.
+
+* RM CRANEAL: Hematoma capsulotalámico izquierdo, con mínimo edema perihemorrágico, que presenta unos diámetros de 17 x 15 x 12 mm, con afectación parcial del brazo posterior de cápsula interna izquierda. Imagen de infarto lacunar crónico, en porción posterolateral de núcleo lenticular izquierdo, con calcificación y/o restos de hemosiderina y cavitación residual. Imagen de características similares contralateral del núcleo lenticular / cápsula externa derecha. Pequeño foco de calcificación talámico derecho. Moderada atrofia cerebral global de predominio cortical frontoparietal. Focos de isquemia crónica subcorticales, parcialmente confluentes, frontoparietales bilaterales afectando ambos centros semiovales. Dolicoectasia de  tronco basilar y arterias carótidas internas intracavernosas. Pequeños focos hipointensos en secuencias de susceptibilidad magnética hemisféricos cerebrales derechos, por lo que no se excluye angiopatía hipertensiva o amiloide. Discreta atrofia cerebelosa hemisférica y vermiana.
+
+Exploraciones complementarias / Exploracions complementàries
+
+*ECG: ritmo sinusal a 90 lpm sin alteraciones en la repolarización.
+
+18/06/2017.
+
+Evolución / Evolució
+1.	HEMATOMA CAPSULOTALÁMICO IZQUIERDO (1,3 cc)
+A su llegada a urgencias se encuentra normotenso y afebril. En la exploración destaca hemiparesia 2/5 y hemianestesia derecha que incluye facies y tronco  (NIHSS 9). Analítica sanguínea con hiperglicemia e hipertrogliceridemia sin otras alteraciones. ECG en ritmo sinusal sin alteraciones en la repolarización. Rx de tórax sin patología aguda. La neuroimagen (TC multimodal) muestra pequeño hematoma capsulotalámico izquierdo de 1,3 cc.
+Se trata, por tanto, de un hematoma intraparenquimatoso de probable etiología hipertensiva. Ingresa para control evolutivo ajustándose pauta antihipertensiva e insulínica. TC de control a las 24 horas sin cambios con respecto al del ingreso.
+Durante su ingreso el paciente evoluciona de forma favorable persistiendo hemiparesia derecha 4/5 e hipoestesia de hemicuerpo derecho. Dada la situación actual se considera subsidiario de completar rehabilitación en el _SS_.
+Al alta: NIHSS: 3;   mRS: 3.
+
+2.	HEMATURIA INTERMITENTE DE 2 MESES A ESTUDIO.
+3.	HIPERTROFIA PROSTÁTICA BENIGNA
+El paciente refiere hematúria intermitente desde hace 2 meses en forma de sangre oscura durante toda la micción. No síndrome tóxico. Tiene una ecografia renovesicoprostática del 22/5 que no muestra litiasis, próstata de 170cc por lo que inició tamsulosina. No otras alteraciones. El 13/06/17 se objetiva hematuria acompañada de disuria y polaquiuria. Sedimento de orina con 36-60 leucocitos y 5-10 hematíes  con urocultivo negativo (flora mixta). El día 15/6 presenta pico febril con puño- percusión lumbar izquierda dolorosa junto con el síndrome miccional y hematúria. Analítica con elevación de reactantes de fase aguda. Sedimento de orina con leucos +++, hematies +++, nitritos - y escasas bacterias. Se cubre con ceftriaxona y analgesia ante posible pielonefritis permaneciendo posteriormente afebril y sin dolor. La hematúria podría explicarse por la hipertrofia prostática benigna y compresión secundaria de venas periuretrales si bién se debería completar estudio de forma ambulatoria para descartar otras causas.
+
+Plan terapéutico / Pla terapèutic
+-	Metformina 850 mg/12h. - Glimepirida 4-0-2 mg. - Atorvastatina 40 mg/24h. - Fenofibrato 160 mg/24h. - Bisoprolol 2,5 mg/24h. - Lisinipril 20 mg/24h. - Tamsulosina 0,4 mg/24h. - Alopurinol 100 mg/24h.
+
+Otras recomendaciones / Altres recomanacions
+-	Ingresa en _SS_ para completar rehabilitación. - Visita de control en Hospital de Día de neurología el jueves 21/9/17 a las 9:30 (se adjunta citación).
+
+
+
+Firma/Signatura1: _NAME_	Firma/Signatura2: _NAME_ Categoría: Resident 2	Categoría: Consultor/a 1
+Nº Matrícula HCP: _ID_	Nº Matrícula HCP: _ID_
+
+Fecha/Data Informe: 19.06.2017
+Hora Informe: 10:18:06
+
+Docum.: _ID_
+Hist. Clínica: _ID_
+El _SS_ ha incorporado sus datos al Fichero de Pacientes, para tratarlos con fines sanitarios.
+Puede ejercer sus derechos de acceso, rectificación, cancelación y oposición, así como obtener mas información en la Unidad de Atención al Cliente.
+Vers. 00
+Pag. 2 de
+3
+Episod.: _ID_
+_SS_ ha incorporat les seves dades al Fitxer de Pacients, per a tractar-los amb finalitats sanitàries. Pot exercir els seus drets d'accés, rectificació, cancel·lació i oposició, i obtenir més informació a la Unitat d'Atenció al Client.
+_SS_
+_LOCATION_) _LOCATION_) Tel. _CONTACT_ Fax _CONTACT_
+http://_CONTACT_/

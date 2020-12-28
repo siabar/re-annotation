@@ -1,0 +1,156 @@
+_LOCATION_
+Tel. _CONTACT_
+_LOCATION_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 70 Anys
+NIF/DNI: _ID_Informe d'alta d'hospitalització
+CP	_LOCATION_
+ABS	_SS_
+Servei	NEUROLOGIA
+Data d'alta  23.01.2017	11:00:00
+_LOCATION_
+_CONTACT_; _CONTACT_; _CONTACT_
+DOMICIL/RES.SOC 19.01.2017
+_NAME_
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Déficit hemicorporal dcho agudo
+
+ANTECEDENTS
+Mujer de 70 años de edad
+
+FRCV: HTA, niega habitos toxicos, No DM, No dislipemia
+ITU con E.coli sensible a Amoxi-cla y resistente  a ciprofloxacino en el 2014, varices de miembros inferiores, cervicalgia, hiperuricemia, hipoacusia, endometriosis
+
+IQX: Carcinoma basocelular nodular y superficial totalmente extirpada en el año 2013, Cesarea, Histerectomia con colocación de malla suburetral (por incontinencia urinaria)
+
+Rankin basal 0
+
+MEDICACIÓ HABITUAL
+Lorazepam 1mg C/24hrs, Trimetazidina 20mg C/8hrs, Vesicare 10mg C/24hrs, Copalia 5/160mg C/24hrs.
+
+
+PROCÉS ACTUAL
+19/01/17- Paciente refiere que mientras estaba preparando la comida sintio sensacion de rampas en miembro superior derecho inferior derecho posteriormente con perdida de fuerza que le costaba deambular e iba arrastrando la pierna derecha, niega cefalea, no disartria ni otra sintomatologia.
+Activación Codi Ictus desde Urg a las 11:45 h, Llegada 11:34 h. Valoración 11:55 h
+
+
+EXPLORACIÓ FÍSICA
+
+- Urg:
+Exploración fisica:
+CV: TA:165/89mmHg FC:90lpm SatO2:96% aire ambiente
+Ruidos cardiacos ritmicos, ruidos respiratorios sin agregados bien ventilados
+Abdomen blando depresible no doloroso a la palpación sin signos de irritacion peritoneal
+Neurologico:  Paciente  orientada  en  sus  tres  esferas,  hemihipoestesia  facial  derecha,  Hemihipoestesia  y hemiparesia derecha crural,  claudicacio 4/5D  NIH 1+1+1+1:4
+
++ Planta: Habla normal. Hemiparesia dcha con mínima claudicación ESD + 4/5 crural derecha. Extinción sensitiva y visual derechas. Leve hipoestesia derecha. No asimetría facial. NIHSS 4
+
+Informe d'alta d'hospitalització
+
+
+
+
+EXPLORACIÓ COMPLEMENTÀRIA
+-	TC urgente con Angio TC normal. ASPECTS 10, no oclusión vascular.
+
+-Analítica: Destaca Glu 139, Colest total 213 con LDL 138. VSG 32. Resto normal (Vit B12,...).
+
+-	ECG seriados sinusales
+
+-	Rx tórax sin alts
+
+-	ECODoppler TSA sin alteraciones.
+
+-	Ecocardio (20/01/17): Ventriculo izquierdo no dilatado, sin hipertrofia y con función sistolica normal. Alteración diastólica grado I. Válvula mitral normal. Válvula aórtica con calcificación de la valva coronarica derecha, que está parcialment fixada, sin estenosis aórtica significativa (con apertura del resto normal) y con insuficiencia ligera. Aurículas no dilatadas. Ventriculo derecho no dilatado y con buena contractilidad. No derrame pericárdico.
+
+
+EVOLUCIÓ CLÍNICA
+Ingreso de paciente con clínica d Ictus parcial en territorio ACM izda (no lacunar al presentar clínica cortical -- visual y extinción). Se inicia estudio etilógico del ictus, que no demuestra cardiopatia estructural mayor ni ateromatosis carotídea.
+Durante su estancia inicia tratamiento RHB (fisio y logopedia) con buena respuesta, pero persistiendo paresia leve derecha con déficit leve propioceptivo / inestabilidad.
+
+En el momento del alta - NIHSS 4 y Rankin 2.
+Se citará de forma ambulatoria a Consultas de Neurovascular por ser mecanismo indeterminado.l
+
+DIAGNÒSTICS
+436/5 Ictus PACI en territorio ACM izda de mecanismo indeterminado (pendiente de completar estudio) 434.91/9 Avc
+790.29/2 Hiperglucemia 272.4/1 Dislipemia 342.90/2 Hemiparesia
+
+PROCEDIMENTS
+89.08 Altra consulta
+89.52 Electrocardiograma. ECG NOS, ECG (amb 12 o més derivacions)
+89.52 Electrocardiograma. ECG NOS, ECG (amb 12 o més derivacions)
+89.08 Altra consulta
+89.52 Electrocardiograma. ECG NOS, ECG (amb 12 o més derivacions)
+89.08 Altra consulta
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+El mismo que tomaba en casa.
+
+Informe d'alta d'hospitalització
+
+
+
+
+Asociar:
+
+-	Adiro 300 mg 1 cp en la comida de mediodía
+-	Atorvastatina 20 mg 1 cp en la cena
+-	Si molestias gástricas: Omeprazol 1 cp en desayuno
+
+CONTROL
+Le avisarán para Consulta de Neurovascular y control por Primaria
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+23.01.2017
+Pàgina 1 de 3

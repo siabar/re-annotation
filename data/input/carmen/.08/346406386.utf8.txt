@@ -1,0 +1,112 @@
+I.CLINIC DE NEUROCIÈNCIES G064 SALA G DE NEUROLOGIA
+_NAME_	NHC: _ID_
+
+
+Sexo/Sexe: Masc.	Fecha nac./Data naix.: _DATE_	Edad/Edat: 79 años Dirección/Adreça: _LOCATION_	CP: _LOCATION_
+Municip. (Prov.): _LOCATION_  ABS:_SS_	Tel.:_CONTACT_
+
+As.: SERVEI CATALA DE LA SALUT	CIP: _ID_	NASS: _ID_
+Nº epis.: _ID_	Tipo/Tipus: HOSPIT.	Ingres.: 05.03.2017
+Serv: NEUROLOGIA	UO Enf.: G064 SALA G DE NEUROLOGIA	Hora: 16:12:34
+Facult. de ref.: _NAME_		
+
+
+Tipo ingreso/Tipus ingrés: Urgent	Motivo/Motiu alta: Dom. Familiar
+Diag.:
+INTOXICACIÓN FARMACOLÓGICA () ()
+Proc.:
+
+
+
+
+INFORME CLÍNICO ALTA / INFORME CLÍNIC ALTA
+
+Motivo de consulta / Motiu de consulta
+Disminución del nivel de consciencia.
+
+Antecedentes e historia previa / Antecedents i història prèvia
+Hombre  de  79  años,  sin  alergias  medicamentosas  conocidas.  Exfumador.  Vive  con  su  esposa  e  hijo. Independiente para la vida diaria (mRankin 2).
+*ANTECEDENTES PATOLÓGICOS:
+1.	HIPERTENSIÓN ARTERIAL en tratamiento farmacológico.
+2.	DIABETES MELLITUS TIPO 2 en tratamiento con hipoglicemiante oral.
+3.	FIBRILACIÓN AURICULAR PAROXÍSTICA diagnosticada en febrero 2008. Inicialmente anticoagulado con Sintrom, se suspendió por hematoma subdural en 2012. Por riesgo embólico se decidió cierre de la orejuela izquierda en sept 2016. Actualmente antiagregado con AAS. Episodio de fibrilación auriular paroxística en enero 2017 sometido a cardioversión farmacológica con flecainida. Control Unidad de Arritmias de HCP.
+5.	HEMATOMA SUBDURAL en 2012 en contexto de tratamiento con sintrom.
+6.	HEMATOMA FEMORAL postcateterismo cardíaco (cierre orejuela).
+7.	DETERIORO COGNITIVO LEVE en seguimiento en _SS_.
+*MEDICACIÓN HABITUAL: AAS 100mg/24h, pantoprazol 40mg/24h, bisoprolol 2.5mg/24h, flecainida 50mg/12h, enalapril 5mg/24h, betmiga 50mg/24h, silodosina 8mg/24h, betahistina 16mg/24h.
+
+Proceso actual / Procés actual
+Paciente que, sobre las 15.30h del sábado 04/03, presenta disminución súbita del nivel de conciencia, quedando mutista y arreactivo. No relajación de esfínteres ni movimientos tonicoclónicos ni rigidez muscular. A la llegada del SEM observan hipertensión (TAS 220 mmHg), con GCS 4, por lo que proceden a sedación (fentanilo, etomidato y rocuronio e intubación orotraqueal. ECG en ritmo sinusal a 50 lpm.
+
+Exploración física / Exploració física
+Frecuencia respiratoria (rpm) 17, PAS (mm Hg) 127, PAD (mm Hg) 85, Pulsioximetría (%) 98. Glicemia capilar (mg/dl) 175. Tª axilar (ºC) 37.2.
+*LLEGADA A URGENCIAS:
+
+Paciente bajo efectos de sedación, relajación muscular y con intubación orotraqueal. Realiza algun movimiento espontáneo de EESS.
+CCV: tonos rítmicos. Pulsos periféricos presentes. AR: MVC sin agregados
+NRL (sedado e IOT): GCS 3. Pupilas miótica isocóricas y normorreactivas.
+
+*EXPLORACIÓN EN SALA NEUROLOGÍA:
+NRL: Alerta, desorientado en tiempo. Lenguaje sin alteraciones, no disartria. Isocoria normoreactiva. Campimetría sin déficits. Mirada conjugada sin limitaciones. Pares craneales sin alteraciones. Fuerza y sensibilidad sin alteraciones. No dismetrías.
+
+Laboratorio / Laboratori
+*	ANALÍTICA SANGUÍNEA: A destacar PCR 6 sin leucocitosis; HbA1c 6.4%. resto sin importantes alteraciones a destacar.
+*	NIVELES DE CLOZAPINA EN SANGRE: 104 ng/mL [ 50 - 700 ]
+*	TÓXICOS EN ORINA: Negativos.
+*	SEDIMENTO DE ORINA: No patológico.
+
+Radiología / Radiologia
+*	Rx  TÓRAX:  Imagen  levemente  rotada,  bien  penetrada.  No  se  observan  condensaciones,  masas  ni condensaciones. ICT dentro de la normalidad.
+*	TC MULTIMODAL: No se observan imágenes de sangrado intracraneal agudo. Signos de atrofia cortico-subcortical de distribución simétrica.
+-	TC Perfusión: Artefactada por endurecimiento del haz de rayos en fosa posterior, sin asimetrías valorables en los mapas paramétricos.
+-	AngioTC intra y extracraneal: Grandes vasos intracraneales permeables. Placas de ateromatosis calcificada en sifones carotídeos, origen de ACIs y segmento V4 de AVI, sin estenosis significativas. ACP derecha con origen embrionario.
+* RM CEREBRAL: Exploracion parcialmente artefactada por movimiento del paciente. No se aprecian signos sugestivos de infarto isquemico agudo o subagudo. Imagen lacunar sugestivo de infarto lacunar con hemosiderina en la hemiprotuberancia derecha. Sistema ventricular supratentorial de tamaño aumentado, con situación conservada. Signos de atrofia cortico- subcortical con disminucion de volumen de ambos hipocampos. La secuencia obtenida para estudio angio-RM intracraneal arterial no es valorable por el importante artefacto.
+
+Evolución / Evolució
+1.	INTOXICACIÓN FARMACOLÓGICA POR CLOZAPINA
+A su llegada se objetiva HTA a 210/100 mmHg (en contexto de IOT con FBS). Pupilas mióticas isocóricas normorreactivas, resto de la exploración neurológica no valorable. Incialmente se realiza TC multimodal, donde no se observan lesiones isquémicas o hemorrágicas agudas en secuencias basales, tampoco alteraciones en mapas de perfusión. AngioTC sin estenosis ni alteraciones en grandes vasos intra o extracraneales. En una analítica sanguínea no se observa importantes alteraciones a destacar. Rx de tórax sin condensaciones ni infiltrados intersticiales, silueta no sugestiva de cardiomegalia.
+Progresivamente se retira sedación y se procede a extubación sin complicaciones. Tras esto se observa paciente desorientado, cofusional, sin otra focalidad. Se completa estudio con RM cerebral, que no muestra lesiones agudas. También EEG, sin actividad epileptiforme.
+Realizando la anamnesis con la esposa del paciente, nos comunica que pudo confundirse y tomarse la medicación de un familiar (éste toma clozapina). Ante este dato se solicitan niveles de clozapina en sangre, siendo éstos positivos.
+Por tanto se orienta como un episodio de disminución del nivel de consciencia debido a intoxicación por clozapina. Durante su estancia permanece estable, confusional, con algún episodio de agitación en la noche
+
+
+
+que ha requerido tratamiento con quetiapina. Se comenta con la familia el diagnóstico y se procede al alta a domicilio. Control por su médico de cabecera.
+
+2.	FIBRILACIÓN AURICULAR (FA)
+Durante su estancia se realizan varios ECG, estando algunos de ellos en FA. El paciente está en tratamiento con flecainida desde enero pasado y refiere malestar desde entonces. Se consulta con Cardiología, quienes valoran al paciente y deciden retirar la flecainida. Recomiendan realizar Holter y continuará control con su cardiólogo habitual.
+
+Plan terapéutico / Pla terapèutic
+Stop flecainida.
+Resto de su medicación habitual:
+-	Bisoprolol 2,5 MG. Vía oral. Una vez al día, en el desayuno.
+-	Enalapril 5 MG. Vía oral. U na vez al día, en el desayuno.
+-	AAS 100 MG. Vía oral. Una vez al día, en la comida.
+-	Pantoprazol 40 MG. Vía oral. Una vez al día, en el desayuno.
+-	Betmiga 50 MG. Vía oral. Cada 24 horas.
+-	Quetiapina 25 MG. Vía oral. Una vez al día, en la cena, si precisa por agitación.
+-	Silodyx 8 MG. Vía oral. Una vez al día, en la cena.
+-	Paracetamol 1000 MG. Vía oral. Cada 8 horas.
+
+Otras recomendaciones / Altres recomanacions
+- Control por médico de cabecera.
+- Quedará pendiente realizar estudio Holter ambulatorio y visita con Dr. _NAME_ con resultados. Se le avisará por teléfono para citar ambas cosas.
+
+
+
+Firma/Signatura1: _NAME_	Firma/Signatura2: _NAME_ Categoría: Resident 3	Categoría: Espec. Senior
+Nº Matrícula HCP: _ID_	Nº Matrícula HCP: _ID_ Fecha/Data Informe: 09.03.2017
+Hora Informe: 16:55:16
+
+Docum.: _ID_
+Hist. Clínica: _ID_
+El _SS_ ha incorporado sus datos al Fichero de Pacientes, para tratarlos con fines sanitarios.
+Puede ejercer sus derechos de acceso, rectificación, cancelación y oposición, así como obtener mas información en la Unidad de Atención al Cliente.
+Vers. 00
+Pag. 2 de
+3
+Episod.: _ID_
+_SS_ ha incorporat les seves dades al Fitxer de Pacients, per a tractar-los amb finalitats sanitàries. Pot exercir els seus drets d'accés, rectificació, cancel·lació i oposició, i obtenir més informació a la Unitat d'Atenció al Client.
+_SS_
+_LOCATION_) _LOCATION_) Tel. _CONTACT_ Fax _CONTACT_
+http://_CONTACT_/

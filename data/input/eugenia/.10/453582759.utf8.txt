@@ -1,0 +1,159 @@
+_LOCATION_ Tel. _CONTACT_
+e-mail: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 60 Anys
+NIF/DNI: _ID__NAME_; _NAME_; _NAME_;;
+_NAME_
+Informe d'alta d'hospitalització
+11:25:00
+24.12.2017
+_LOCATION_
+_SS_ NEUROLOGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_; _CONTACT_
+DOMICIL/RES.SOC 20.12.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Dificultad para la emisión y comprensión del lenguaje.
+
+ANTECEDENTS
+Varón de 60 años, zurdo, exfumador de 2 paquetes al día desde hace unos 5 años. No enol.
+
+·	Diabetes mellitus en tratamiento con insulina y metformina. Última glicada 7,2%. Neuropatia diabética.
+·	Dislipemia en tratamiento con estatinas
+·	Esteatosis hepática leve-moderada
+·	Claudicación intermitente dx hace 7 años
+·	Hiperplasia prostática benigna
+. Ex fumador desde hace 7 años
+. Ictus isquémico de territorio de ACM izquierda de mecanismo embólico y etiologia aterotrombótica por estenosis critica deACI izquierda (ingreso del 12-15/12/2017 en Neurologia de nuestro centro). Pendiente de realización de endarterectomia diferida por petición del paciente, que no quiso realizarla en el momento del ingreso.
+
+Situación funcional previa: independiente para las actividades de la vida diaria. Trabajador activo de gestor. mRS 0.
+
+
+MEDICACIÓ HABITUAL
+Adiro 300mg/dia, via oral, Clopidogrel 75mg/dia, via oral, Atorvastatina 80mg/dia, via oral, Ranitidina 300mg/día, Insulina Lantus (dosis similar a la prèvia), via subcutània, Pregabalina 75mg/día, Metformina 850mg/8h, Tamsulosina 0.4mg/día.
+
+PROCÉS ACTUAL
+El 20/12/2017 se encontraba en la calle, caminando con su mujer, cuando de manera súbita, hacia las 9h30, presenta dificultad para la emisión del lenguaje, por lo que avisan al SEM. Se activa codigo ictus a las 10h04, llegando a nuestro centro a las 10h16.
+
+EXPLORACIÓ FÍSICA
+
+FC	78 bpm
+Tªaxi 36.1 ºC
+FR	rpm Tªrec  ºC
+TA s	157 mmHg SAT O2 97 %
+TA d   77 mmHg Pes Kg
+
+Glicèmia capil·lar:117 mg/dl
+Vigil, obedece alguna órden simple pero se intoxica. Lenguaje con afasia de expresión, con abundantes parafasias. No alteraciones campimétricas por confrontación ni de la oculomotricidad. No paresia facial. Sin deficit motor ni sensitivo, no asomato ni anosognosia, no extinciones.
+
+NIHSS: (0.1.1)0.0/0.(0.0)(0.0)/0.0.2.1 .0 = 5
+
+Informe d'alta d'hospitalització
+
+
+
+
+EXPLORACIÓ COMPLEMENTÀRIA
+URGENCIAS:
+
+Analítica urgente:
+- Hemograma: Leucos 8.600 (N 60%, L 30.1%, M 8.7%), Hb 13.8 g/dL, Ht 42.9%, Plaq 202.000
+-	Hemostasia: TP 79%, INR 1.17, Fibrin 539 mg/dL, TTPA 0.91 ratio
+-	Bioquimica: Glucosa 133 mg/dL, Urea 47 mg/dL, Creatinina 0.63 mg/dL, Na 136 mmol/L, K 4.6 mmol/L, PCR 0.50 mg/L.
+
+TC craneal simple que muestra divresas lesiones de características embólicas y de aspecto crónico-subagudo en territorio de ACM izquierda. AngioTC con oclusión de ACI izquierda y oclusión de rama M2 de ACM derecha postbifurcación
+
+UNIDAD DE ICTUS:
+Monitorización cardiaca continua: sin alteraciones del ritmo. Estudio neurosonológico:
+Estudi Trans-Craneal
+No se observan oclusiones ni estenosis intracraneales. ACMs asimétricas (VPS ACM izq 55cm/seg vs. ACM der 115cm/seg) con flujo amortiguado, compensación a través de a.oftálmica izquierda invertida, a.comunicante anterior con musical murmurs y flujo turbulento; a.cerebral anterior izquierda invertida; a.comunicante posterior izquierda con flujo turbulento compensatorio; flow diversion a través de a.cerebral posterior izquierda. Aa.vertebrales de forma intracraneal sin alteraciones; basilar no insonada por mala ventana transoccipital.
+Estudi de TSA
+-	Eje carotideo derecho: Grosor íntima media ligeramente aumentado en carótida común derecha. Placa heterogénea en bifurcación carotídea derecha que penetra en bulbo carotídeo ocasionando una estenosis<30%.
+-	Eje carotideo izquierdo: grosor de íntima media francamente aumentado en ACC con ateromatosis difusa. Placa heterogénea larga en bulbo carotídeo izquierdo de predominio hipo/anecoico, se observa luz de ACI izquierda sin que se determine flujo en su interior sugiriendo oclusión de ACI izquierda.
+-	Aa.vertebrales ortodrómicas y sin alteraciones.
+Conclusión: Ateromatosis carotidea difusa. Placa heterogénea larga en bulbo carotídeo izquierdo de predominio hipo/anecoico, se observa luz de ACI izquierda sin que se determine flujo en su interior sugiriendo oclusión de ACI izquierda. No se observan oclusiones ni estenosis intracraneales. ACMs asimétricas (VPS ACM izq 55cm/seg vs. ACM der 115cm/seg) con flujo amortiguado, compensación a través A.oftálmica, ACoA y ACoP.
+
+Analítica de ingreso: Hemograma: leucocitos 6600 (N54.5%, L 34.8%, Mo 8.6, Eo 1.5, Ba 0.6), Hb 14.8gr/dl, Hto 44.8%, plaquetas 186000. Hemostasia: TP 12.3seg, INR 1.14, fibrinógeno 538mg/dl, TTPA 29.7seg. Bioquímica: glucosa 163mg/dl, Hb glicada 6.9%, proteina 62.9g/l, albúmina 37.3, urea 24mg/dl, creatinina 0.74, urato 5.2, calcio 9, fosfato 3.3, magnesio 2.22, sodio 140.2, potasio 4.8, cloruro 104.3, bilirrubina 0.59mg/dl, FA 68 u/l, ALT
+16 U/l, GGT 11, LDH 145, CK 69, PCR 0.70 mg/dl, colesterol 81 mg/dl, HDL 27.2, LDL 34, triglicéridos 101mg/dl, osmolalidad 290 mOsm/Kg. Proteinas. TSH 0.830mcUI/ml.
+
+RMN cerebral y angioTSA + IC: Respecto al estudio previo se observa aparición de nuevos focos de restricción de difusión localizados a nivel cortical del uncus izquierdo, temporal lateral izquierdo, a nivel opercular y posterior temporo-insular que  afectando también  la  cortical  frontoparietal  del  lado  izquierdo,  y  en  cabeza  del  núcleo
+
+Informe d'alta d'hospitalització
+
+
+
+
+caudado izquierdo. Todos los focos muestran una hiperintensidad establecida en la secuencia Flair. De evolución hacia estadio subagudo de las lesiones isquémicas agudas visualizadas en estudio previo. No apreciamos focos hemorrágicos en la secuencia de susceptibilidad magnética. Sistema ventricular simétrico, de tamaño normal.Línea media centrada. Cisternas de la base y perimesencefálicas libres. El estudio angiográfico intracraneal muestra un sistema vertebrovasilar permeable, con arterias cerebrales posteriores conservadas. Se evidencia un una discreta menor intensidad de señal intravascular con un menor calibre de la ACM izquierda y sus ramas,secundario a un empobrecimiento y enlentecimiento del flujo arterial secundario a una oclusión de la ACI extracraneal. Se aprecia permeabilidad del segmento C7 distal de la AC izquierda probablemente por flujo retrógrado. El estudio angiográfico en extracraneal muestra una correcta salida de los troncos supraaórticos del cayado aórtico. Sistema vertebrobasilar permeable con discreta dominancia de arteria vertebral izquierda. AC común derecha conservada. Presencia de estenosis diafragmática en el origen de la ACI derecha, que dada la morfología es difícil de medir y establecer grado de estenosis según  método NASCET. La carótida común izquierda permeable. Oclusión del origen de la ACI izquierda. Unión cráneo-cervical de características normales.
+CONCLUSION: Estudio de control que muestra aparición de nuevos focos de isquemia en territorio vascular superficial de la ACM izquierda, y a modo focal en el territorio lenticuloestriado, de causa embólica carotídeo arterial, secundaria a una oclusión de la ACI izquierda con permeabilidad distal de la ACM y sus ramas por colateralidad. Se aprecia estenosis diafragmática del origen de la ACI derecha que dada la morfología es difícil de medir y establecer grado de estenosis según método NASCET aunque no parece significativa.
+
+EVOLUCIÓ CLÍNICA
+Varón de 60 años con factores de riesgo cardiovascular e ingreso reciente en nuestro centro (15/12/2017 alta) por ictus isquémico de territorio de a. cerebral media (ACM) izquierda de mecanismo embólico y etiología aterotrombótica con estenosis crítica de a. carótida interna (ACI) izquierda. Se recomendó tratamiento de revascularización vascular pero el paciente solicitó post-poner el procedimiento un par de meses.
+
+Acude por nuevo episodio de alteración del lenguaje de una hora de evolución. A su llegada a Urgencias, hemodinámicamente estable, eupneico y afebril. A la exploración física presenta afasia de expresión, puntuando 5 en la NIHSS, que mejora inmediatamente tras colocar al paciente en posición de Trendelemburg.Se realiza TC craneal simple que muestra lesiones de características embólicas y de aspecto crónico-subagudo en territorio de ACM izquierda sin claros signos de isquemia aguda. El angioTC muestra oclusión de ACI izquierda y oclusión de rama M2 de ACM izquierda postbifurcación. Dado el antecedente de ictus isquémico hace menos de una semana, queda contraindicada la fibrinolisis sistémica y dada la NIHSS baja con oclusión distal no se considera tratamiento de reperfusión intraarterial.  Se mantiene tratamiento con doble antiagregación y estatinas y el paciente ingresa en la unidad de ictus para control evolutivo.
+
+Durante su ingreso en la Unidad se ha mantenido en ritmo sinusal en la monitorización cardiaca. El estudio neurosonológico realizado tras 3 dias de ingreso sugiere presencia de oclusión carotidea izquierda, con compensación intracraneal. Para confirmar dicho hallazgo se realiza una RM cerebral con angioRM intracraneal y extracraneal que muestra nuevos focos isquémicos en territorios superficiales y profundo de ACM izquierda, oclusión de la ACI izquierda desde su origen y estenosis no cuantificable de la ACI derecha desde su inicio. Ante los hallazgos por neuroimagen, se desestima tratamiento de revascularización carotídea y se indica doble antiagregación, estatinas a dosis altas y la optimización de los factores de riesgo vascular como mejor tratamiento médico de prevención secundaria.
+
+Desde el punto de vista clínico se ha mantenido estable sin presentar nueva clínica neurológica y tolerando dieta oral, sedestación progresiva y deambulación. Se procede al alta para realizar seguimiento en consultas externas.
+
+Informe d'alta d'hospitalització
+
+
+
+
+
+Al alta NIHSS: 0
+mRS: 2
+
+ORIENTACIÓ DIAGNÒSTICA
+-	Ictus isquémico de territorio de a.cerebral media izquierda de mecanismo embólico arterio-arterial y etiología aterotrombótica.
+-	Oclusión arteria carótida interna izquierda extracraneal
+-	Diabetes mellitus tipo 2
+-	Dislipemia
+-	Vasculopatia periférica
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Dieta diabética baja en sal
+Realizar ejercicio físico moderado (caminar 30 minutos al día) Adiro 100mg/dia, via oral
+Clopidogrel 75mg/dia, via oral Atorvastatina 80mg/dia, via oral Ranitidina 300mg/día
+Insulina Lantus (dosis similar a la previa), via subcutanea Pregabalina 75mg/día,
+Metformina 850mg/8h Tamsulosina 0.4mg/día.
+
+CONTROL
+Control en CCEE Neurologia (Dra. _NAME_) el dia 19/01/2018 a les 11:00h.
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+24.12.2017
+Pàgina 1 de 4

@@ -1,0 +1,123 @@
+_LOCATION_) Telèfon _SS_  972 _CONTACT_
+Telèfon IDI (Ressonància i TAC) _CONTACT_
+Telèfon ICO _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 68 Anys
+NIF/DNI: _ID__NAME_; _NAME_;
+ _NAME_
+Informe d'alta d'hospitalització
+11:41:19
+19.09.2017
+_LOCATION_
+_SS_ NEUROLOGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_; _CONTACT_
+DOMICIL/RES.SOC 21.09.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Afasia.
+
+ANTECEDENTS
+ANTECEDENTES PERSONALES
+-Sin alergias a medicamentos conocidas.
+-No fumadora, OH ocasional.
+-MRS 0, no sale de casa porque no quiere.
+
+ANTECEDENTES PATOLIOGICOS
+-	Obesidad.
+-	Sin otros FRCV conocidos.
+-	Síndrome depresivo de años de evolución.
+-	Hiperuricemia : En tratamiento con alopurinol. IQx: incontinencia urinaria y túnel carpiano derecho
+
+MEDICACIÓ HABITUAL
+-Alprazolam
+-Escitalopram
+-Alopurinol
+
+PROCÉS ACTUAL
+Se activa código ictus a las 20:15 por el SEM en _LOCATION_ porque la paciente ha presentado cuadro de inicio a las 19.20h en que estaba en la iglesia y no podía mover bien el brazo derecho, posteriormente la hermana ha visto que decía cosas incoherentes y que caminaba arrastrando los pies.
+Durante mucho tiempo no había salido de casa, y hoy habían salido para ir a misa porque hacía un año de la muerte de un familiar.
+
+EXPLORACIÓ FÍSICA
+
+EF al ingreso:
+
+FC 75 lpm Tªaxi ºC FR rpm Tªrec ºC TA s 112 mmHg SAT O2% TA de 80 mmHg Peso 95.000 Kg
+NRL: Consciente, desorientada en tiempo (contesta febrero, septiembre, agosto ... y dice un año diferente cada vez) y orientada en espacio. Nomina correctamente, repite bien, compran órdenes sencillas y complejas. Sin disartria. PICNR, perimetría por confrontación normal, Moes completos, resto de pares craneales normales, no claudica en Barré ni en Mingazzini, fuerza a 5/5 en las 4 extremidades con RCP flexor bilateral, sin alteración de la senibiltiat, sin dismetrías.
+
+NIHSS: 02000/00000/00100: 3 Las únicas preguntas que falla son la edad y la fecha, discurso coherente excepto
+
+Informe d'alta d'hospitalització
+
+
+
+
+en alguna ocasión que se hace incomprensible. EF al alta:
+O: 120/38mmHg, 55bpm, 97%, 18rpm, glicemia capilar 122mg/dl
+NRL:	Vigil, sin focalidades  aparentes aparte de afasia de expression que  mantiene, nomina bien a veces, presenta algun bloqueo.
+NIHSS: 00000/00000/00100: 1
+
+
+EXPLORACIÓ COMPLEMENTÀRIA
+Análisis de sangre: triglicéridos 242 mg / dL, Gamma-glutamiltransferasa 106 U / L, Lactato deshidrogenasa 230 U
+/ L, resto de bioquímica, hematimetria y coagulación normales. EKG: ritmo sinusal
+Ecodoppler TSA: sin ateromatosis en ejes carotídeos, ACC, ACI y ACE bilateral permeables y sin signos de estenosis. AV bilateral permeables y ortodròmiques.
+
+TC craneal simple + AngioTC + perfusión: sin alteraciones.
+
+EEG (22/09): Lleus signes de disfunció neuronal a regions frontal inferior i temporals de l#hemisferi esquerre, sense paroxismes focals ni generalitzats suggestius de comicialitat en el moment actual.
+
+RM craneal: Infarto subagudo en territorio profundo de ACM izquierda sin transformación  hemorrágica y con mínimo efecto masa sobre asta frontal. Importante afectación por hipoperfusión crónica (Fazekas 2).
+
+ECO-cardiograma: pendiente en el momento del alta. Se solicita ambulatoriamente.
+
+
+EVOLUCIÓ CLÍNICA
+Mujer de 68 años que ha iniciado cuadro de debilidad en brazo derecho y lenguaje incomprensible para el que se ha activado código ictus. A urgenciass puntúa NIHSS de 3 (afasia de expresión muy leve) y presenta pruebas de imagen sin signos de isquemia. La familia refiere que aún no habla como normalmente y sigue fallando en edad y fecha (resto de preguntas las responde bien). Ingresa en la Unidad de Ictus para control.
+
+El Doppler de TSA y cerebral es normal y el TAC también. La RM muestra un infarto agudo en territyorio profundo de ACM, destacando patrón de enf. de pequño vaso en paciente sin FRV relevantes aparentes.
+
+Durante la estancia en la Unidad, de Ictus la paciente mejora neurológicamente, persistiendo solo una leve afasia de expresión, con algun bloqueo y anomia fluctuante. Se mantiene hemodinámicamente estable y no sufre ninguna complicación.
+
+Dada la estabilidad de la paciente, se decide alta a domicilio, con estudio ECO-C ambulatorio.
+
+Informe d'alta d'hospitalització
+
+
+
+DIAGNÒSTICS
+436/5 Infarto cerebral en territorio de ACM, criptogénico (ESUS).
+Enfermedad de pequeño vaso en estudio RMN, silente, en paciente sin FRV conocidos relevantes.
+
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+-	Dieta baja en sal y grasas.
+-	Abandono del consumo de alcohol.
+-	Control de los factores de riesgo cardiovascular
+-	Colesterol (LDL) <70 mg / dl
+-	Tensión arterial sistólica <135mmHg / Diastólica <85mmHg
+-	Tratamiento farmacológico:
+-	Adiro 100mg cada 24h después del desayuno
+-	Atorvastatina 80mg cada 24h por la noche Control en CCEE de neurología (neurovascular).
+CONTROL
+-	Control por Neurologia en consultas externas el 24 de Enero de 2018 a las 13:30.
+-	Se solicita ECO-C ambulatorio.
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+26.09.2017
+Pàgina 1 de 3

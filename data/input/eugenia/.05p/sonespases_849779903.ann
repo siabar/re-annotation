@@ -1,0 +1,138 @@
+T0	FECHA 15 25	20-02-2018
+#0	AnnotatorNotes T0	2018-02-20
+T1	SECCION_DIAGNOSTICOS 27 39	Diagnosticos
+T2	_SUG_Ictus_isquemico 41 65	ECVA ISQUÉMICA: INFARTOS
+T3	_SUG_Localizacion 80 87	CAUDADO
+T4	_SUG_Localizacion 90 100	LENTICULAR
+T5	_SUG_Lateralizacion 101 111	IZQUIERDOS
+T6	_SUG_Etiologia 125 135	INHABITUAL
+T7	SECCION_PROCEDIMIENTOS 232 246	Procedimientos
+T8	SECCION_MOTIVO_DE_INGRESO 312 329	Motivo de ingreso
+T9	SECCION_ANTECEDENTES_PATOLOGICOS 443 463	Antecedentes Médicos
+T10	SECCION_SITUACION_FUNCIONAL 538 553	Situación basal
+T11	SECCION_TRATAMIENTO_HABITUAL 610 634	Tratamiento domiciliario
+T12	FECHA 662 674	5 de febrero
+#12	AnnotatorNotes T12	2018-02-05
+T13	HORA 752 756	8:00
+#13	AnnotatorNotes T13	8:00
+T14	HORA 1684 1688	8:00
+#14	AnnotatorNotes T14	08:00
+T15	HORA 1718 1723	10:40
+#15	AnnotatorNotes T15	10:40
+T16	HORA 1742 1747	13:35
+#16	AnnotatorNotes T16	13:35
+T17	HORA 1764 1769	13:55
+#17	AnnotatorNotes T17	13:55
+T18	HORA 1781 1786	14:33
+#18	AnnotatorNotes T18	14:33
+T19	SECCION_EXPLORACION_FISICA 1792 1803	Exploración
+T20	FECHA 1831 1839	05/02/18
+#20	AnnotatorNotes T20	2018-02-05
+T21	HORA 1840 1845	14:25
+#21	AnnotatorNotes T21	14:25
+T22	FECHA 1878 1886	05/02/18
+#22	AnnotatorNotes T22	2018-02-05
+T23	HORA 1887 1892	14:25
+#23	AnnotatorNotes T23	14:25
+T24	FECHA 1910 1918	05/02/18
+#24	AnnotatorNotes T24	2018-02-05
+T25	HORA 1919 1924	14:25
+#25	AnnotatorNotes T25	14:25
+T26	FECHA 1948 1956	05/02/18
+#26	AnnotatorNotes T26	2018-02-05
+T27	HORA 1957 1962	14:25
+#27	AnnotatorNotes T27	14:25
+T28	_SUG_NIHSS 2617 2639	PUNTUACION TOTAL NIH:1
+T29	SECCION_EXPLORACIONES_COMPLEMENTARIAS_EN_URGENCIAS 3041 3068	Analítica Sanguínea urgente
+T30	SECCION_EXPLORACIONES_COMPLEMENTARIAS_EN_PLANTA_DE_NEUROLOGIA 3336 3353	Analítica ingreso
+T31	SECCION_EXPLORACIONES_COMPLEMENTARIAS 3630 3664	Resultados pruebas complementarias
+T32	_SUG_TAC_craneal 3753 3765	TAC cerebral
+T33	_SUG_ASPECTS 3799 3807	ASPECT 8
+T34	_SUG_Localizacion 3865 3884	ganglios de la base
+T35	_SUG_Lateralizacion 3899 3908	izquierdo
+T36	_SUG_TAC_craneal 3912 3914	TC
+T37	FECHA 3944 3954	05-02-2018
+#37	AnnotatorNotes T37	2018-02-05
+T38	_SUG_Localizacion 4093 4104	ventricular
+T39	FECHA 4246 4256	05-02-2018
+#39	AnnotatorNotes T39	2018-02-05
+T40	_SUG_Arteria_afectada 4277 4286	carotídeo
+T41	_SUG_Lateralizacion 4287 4296	bilateral
+T42	_SUG_Arteria_afectada 4351 4354	ACM
+T43	_SUG_Lateralizacion 4355 4364	izquierda
+T44	_SUG_Arteria_afectada 4416 4419	ACM
+T45	_SUG_Lateralizacion 4420 4427	derecha
+T46	_SUG_Arteria_afectada 4437 4452	vertebrobasilar
+T47	_SUG_Lateralizacion 4485 4492	derecha
+T48	_SUG_Localizacion 4563 4570	Troncos
+T49	_SUG_Arteria_afectada 4671 4674	ACM
+T50	_SUG_Lateralizacion 4675 4684	izquierda
+T51	_SUG_Arteria_afectada 4756 4766	carotídeos
+T52	_SUG_Arteria_afectada 4769 4789	arterias vertebrales
+T53	_SUG_Arteria_afectada 4884 4886	M1
+T54	_SUG_Lateralizacion 4890 4895	ambas
+T55	_SUG_Arteria_afectada 4896 4899	ACM
+T56	_SUG_Lateralizacion 4914 4923	izquierdo
+T57	_SUG_Arteria_afectada 4925 4928	ACM
+T58	_SUG_Lateralizacion 4929 4930	D
+T59	_SUG_Arteria_afectada 4946 4949	ACM
+T60	_SUG_Lateralizacion 4950 4951	I
+T61	_SUG_Lateralizacion 5126 5131	ambas
+T62	_SUG_Arteria_afectada 5132 5135	ACM
+T63	_SUG_Lateralizacion 5221 5226	ambas
+T64	_SUG_Arteria_afectada 5227 5230	ACM
+T65	_SUG_Arteria_afectada 5232 5235	ACM
+T66	_SUG_Lateralizacion 5236 5237	D
+T67	_SUG_Arteria_afectada 5273 5276	ACM
+T68	_SUG_Lateralizacion 5277 5278	I
+T69	FECHA 5353 5357	6/02
+#69	AnnotatorNotes T69	2002-06-UNDEF-day
+T70	_SUG_Arteria_afectada 5360 5363	ACM
+T71	_SUG_Lateralizacion 5364 5365	D
+T72	_SUG_Arteria_afectada 5380 5383	ACM
+T73	_SUG_Lateralizacion 5384 5385	I
+T74	_SUG_Lateralizacion 5443 5448	ambas
+T75	_SUG_Arteria_afectada 5449 5452	ACM
+T76	_SUG_Arteria_afectada 5454 5457	ACM
+T77	_SUG_Lateralizacion 5458 5459	D
+T78	_SUG_Arteria_afectada 5495 5498	ACM
+T79	_SUG_Lateralizacion 5499 5500	I
+T80	_SUG_Arteria_afectada 5570 5573	ACM
+T81	_SUG_Lateralizacion 5574 5575	D
+T82	_SUG_Arteria_afectada 5592 5595	ACM
+T83	_SUG_Lateralizacion 5596 5597	I
+T84	_SUG_Lateralizacion 5645 5654	izquierda
+T85	_SUG_Localizacion 5692 5699	caudado
+T86	_SUG_Localizacion 5725 5732	frontal
+T87	_SUG_Lateralizacion 5733 5742	izquierda
+T88	_SUG_ASPECTS 5833 5840	aspecto
+T89	_SUG_Arteria_afectada 6001 6018	núcleo lenticular
+T90	_SUG_Lateralizacion 6019 6028	izquierdo
+T91	_SUG_Lateralizacion 6136 6141	Ambas
+T92	_SUG_Localizacion 6399 6406	caudado
+T93	_SUG_Lateralizacion 6407 6416	izquierdo
+T94	_SUG_Localizacion 6459 6469	lenticular
+T95	_SUG_Arteria_afectada 6552 6555	ACI
+T96	_SUG_Lateralizacion 6556 6565	izquierda
+T97	_SUG_Arteria_afectada 6758 6763	M1-M2
+T98	_SUG_Lateralizacion 6764 6774	izquierdos
+T99	_SUG_Lateralizacion 6794 6802	derechos
+T100	_SUG_Localizacion 6939 6950	ventricular
+T101	_SUG_Localizacion 7208 7215	caudado
+T102	_SUG_Localizacion 7218 7228	lenticular
+T103	_SUG_Lateralizacion 7229 7238	izquierdo
+T104	_SUG_Localizacion 7347 7354	caudado
+T105	_SUG_Lateralizacion 7355 7362	derecho
+T106	_SUG_Lateralizacion 7579 7584	ambas
+T107	_SUG_Arteria_afectada 7585 7588	ACM
+T108	_SUG_Lateralizacion 7793 7800	derecha
+T109	_SUG_Lateralizacion 7916 7925	izquierda
+T110	_SUG_Lateralizacion 8175 8182	derecha
+T111	SECCION_EVOLUCION 8192 8214	Evolución Hospitalaria
+T112	FECHA 8377 8393	el verano pasado
+#112	AnnotatorNotes T112	SU-UNDEF-last-year
+T113	_SUG_Lateralizacion 8752 8756	izda
+T114	_SUG_NIHSS 8799 8806	NIHSS 0
+T115	SECCION_TRATAMIENTO_Y_RECOMENDACIONES_AL_ALTA 8812 8849	Recomendaciones y tratamiento al alta
+T116	_SUG_Tratamiento_antiagregante 9057 9079	Ácido acetilsalicílico
+T117	_SUG_Tratamiento_antiagregante 9274 9277	AAS

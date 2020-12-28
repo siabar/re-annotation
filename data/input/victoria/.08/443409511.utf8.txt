@@ -1,0 +1,103 @@
+
+INFORME DE ALTA
+Medicina Interna. Unidad de neurología. Unidad de Ictus.
+
+
+
+Paciente: _NAME_
+
+
+Número de historia clínica: _ID_
+
+
+Fecha de nacimiento y sexo: _DATE_ HOME	Edad: 65 Régimen económico:  CatSalut-Propi CIP: _ID_	ABS/CAP:		Médico de cabecera: Dirección: _LOCATION_  Teléfono: _CONTACT_
+Fecha ingreso servicio: 11/11/2017	Fecha alta servicio: Data alta servei
+
+
+Fecha ingreso hospitalización:  11/11/2017	Fecha alta hospitalización: 15/11/2017
+
+
+
+Paciente varón de 66 años que acude por déficit sensitivo-motor en hemicuerpo derecho
+
+HISTORIAL MEDICO
+Alergias: Neomicina
+Hábitos tóxicos: No refiere
+Antecedentes personales i patológicos: DM2 en tto con insulina y controles dispares. Tratamiento habitual:
+toujeo 300 unidades/ml	14 ui   cada 24 hores novorapid flexpen 100u/ml   15 ui   cada 24 hores
+
+ENFERMEDAD ACTUAL
+Acude por presentar después de caminar unos 6 km, hemiparesia en pie derecho que progresa hasta ingle. A su llegada a urgencias explica progresión del cuadro a brazo derecho y facial derecho sin alteración motora. No otra clínica concomitante.
+
+EXPLORACIÓN FÍSICA
+TA 130/65, Fc 70lpm, afebril, SPO2 b 99%
+BEG; C Y O, NC Y NH
+NRL: Hemiparesia F-C derecha 4+/5. Hipoestesia F-B-C derecha
+Reflejos 2/5 con plantar extensor. Lenguaje conservado con nominación/evocación normal. Coordinación normal. ACR sin hallazgos
+ABD anodino
+No edemas ni signos de TVP en MMII
+
+NIHSS 5
+Test deglución : superado
+
+EXPLORACIONES COMPLEMENTARIAS
+Analítica: Glic 246, urea 58, crea 1.4, FG 53, Na 138, K 4.9, PCR 0.06, Hb 14.6, Hto 41.6, VCM 84.2, leucocitos 6670,
+plaquetas 167000, TP 0.99.
+TC craneo: Sin alteraciones agudas. No signos de sangrado agudo.
+E.C.G.: RS a 65lpm, aQRS 60º, PR 120ms, QRS estrecho. No alteración en la repolarización.
+Duplex TSA/TC: normal
+Ecocardiografia TT: normal
+
+
+
+EVOLUCIÓN
+
+Paciente varón de 66 a con DM, que ingresa por déficit sensitivo motor derecho.
+Desde el ingreso se inicia rehabilitación intensiva, con mejoría progresiva del déficit, presentando en el momento del alta minima hipoestesia derecha, y paresia crural derecha.
+Tras solicitar consentimiento, el paciente es incluido en el estudio TIS.
+Se completa el estudio vascular con ecocardiografia y Duplex TSA/TC que descarta fuenta cardioembólica o patología arterial exta o intracraneal.
+El paciente es dado de alta en tratameinto con antiagregación y estatinas, pendiente de RM craneal ambulatoria
+
+Destino al alta: domicilio Rankin alta 2
+
+NIHSS 3
+Diagnósticos Diagnóstico principal
+o	Sindrome sensitivo motor derecho por patologia de pequeño vaso
+
+Diagnósticos secundarios:
+o	DM tipo 2 insulinodependiente
+
+Procedimientos:
+o	Analitica
+o	ECG
+o	TC craneal
+o	Duplex TSA/TC
+o	Ecocardiografia
+o	Rehabilitacion
+o	Test deglucion
+
+Tratamiento al alta
+Dieta diabética baja en grasas. AAS 300 mg, 1-0-0
+Omeprazol 20 mg 1-0-0
+Atorvastatina 80 mg, 0-0-1
+Resto de medicacion habitual sin cambios.
+Lantus 10 unidades, 0-0-10
+novorapid flexpen 100u/ml   8-8-6 ui	cada 24 hores
+
+Recomendaciones de prevención secundaria
+
+
+o	Caminar cada día, mínimo 1/2 hora
+o	Perder peso, hasta conseguir perímetro abdominal en hombres por debajo de 108 cm. y 88 cm. en mujeres.
+o	Dieta rica en verduras, frutas y legumbres.
+o	Mantener tensión arterial por debajo de 130 /80 mm. Hg. En diabéticos por debajo de 120/75
+o	Mantener cifras de colesterol total por debajo de 150, y LDL por debajo de 100. En diabéticos LDL por debajo de 70.
+o	Evitar el tabaco y el alcohol.
+
+
+Control por el médico de cabecera
+Se avisará para la realización de la RM craneal y control en CCEE
+
+Atentamente,
+Médico/s responsable/s: Dra _NAME_	Nº de colegiado: _ID_
+Firma

@@ -1,0 +1,46 @@
+T1	HORA 195 200	12:00
+#1	AnnotatorNotes T1	12:00
+T2	FECHA 204 214	30.03.2017
+#2	AnnotatorNotes T2	2017-03-30
+T3	Fecha_de_ingreso 334 344	27.03.2017
+#3	AnnotatorNotes T3	2017-03-27
+T4	_SUG_Ictus_isquemico 420 425	Ictus
+T5	_SUG_Etiologia 426 440	cardio-embòlic
+T6	FECHA 766 776	abril 2016
+#6	AnnotatorNotes T6	2016-04-UNDEF-day
+T9	Tratamiento_antiagregante_hab 1350 1355	adiro
+T10	Hora_inicio_sintomas 1496 1501	10.30
+#10	AnnotatorNotes T10	10:30
+T11	TAC_craneal 2088 2099	TAC craneal
+T13	_SUG_Arteria_afectada 2149 2171	arteria cerebral media
+T14	_SUG_Lateralizacion 2172 2179	derecha
+T17	_SUG_Lateralizacion 2233 2240	derecho
+T18	ASPECTS 2292 2301	ASPECTS 5
+T19	_SUG_Localizacion 2325 2344	ganglios de la base
+T20	_SUG_Lateralizacion 2448 2457	izquierdo
+T22	Etiologia 2681 2694	cardioembòlic
+T24	Arteria_afectada 2705 2727	arteria cerebral mitja
+T26	_SUG_Ictus_isquemico 2779 2793	ictus isquèmic
+T27	Fecha_de_alta 3451 3456	30.03
+#27	AnnotatorNotes T27	2017-03-30
+T28	Ictus_isquemico 3491 3496	Ictus
+T29	FECHA 3744 3754	31.03.2017
+#29	AnnotatorNotes T29	2017-03-31
+T30	SECCION_MOTIVO_DE_INGRESO 405 419	MOTIU D'INGRÉS
+T31	SECCION_ANTECEDENTES 442 453	ANTECEDENTS
+T32	SECCION_TRATAMIENTO_HABITUAL 1219 1237	MEDICACIÓ HABITUAL
+T33	SECCION_PROCESO_ACTUAL 1380 1393	PROCÉS ACTUAL
+T34	SECCION_EXPLORACION_FISICA 1643 1660	EXPLORACIÓ FÍSICA
+T35	SECCION_EXPLORACIONES_COMPLEMENTARIAS 1954 1979	EXPLORACIÓ COMPLEMENTÀRIA
+T36	SECCION_EVOLUCION 2658 2674	EVOLUCIÓ CLÍNICA
+T37	SECCION_DIAGNOSTICOS 3473 3484	DIAGNÒSTICS
+T7	SECCION_SITUACION_FUNCIONAL 1043 1062	situacio funcional:
+#4	AnnotatorNotes T18	5
+T12	Lateralizacion 2728 2733	dreta
+T15	Hora_de_alta 3463 3468	11.30
+#5	AnnotatorNotes T15	11:30
+T8	Arteria_afectada 2181 2183	M2
+T16	Arteria_afectada 2185 2187	M3
+T21	Arteria_afectada 2189 2191	M5
+T23	Arteria_afectada 2193 2195	M6
+T25	Arteria_afectada 2222 2232	lenticular

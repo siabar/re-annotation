@@ -1,0 +1,58 @@
+T1	Fecha_de_ingreso 237 247	20.06.2017
+#1	AnnotatorNotes T1	2017-06-20
+T2	HORA 248 253	12:29
+#2	AnnotatorNotes T2	12:29
+T3	Fecha_de_alta 259 269	29.06.2017
+#3	AnnotatorNotes T3	2017-06-29
+T4	Hora_de_alta 270 275	09:08
+#4	AnnotatorNotes T4	09:08
+T5	FECHA 604 620	febrero del 2016
+#5	AnnotatorNotes T5	2016-02-UNDEF-day
+T6	_SUG_Tratamiento_anticoagulante_alta 835 842	Sintrom
+T7	_SUG_Tratamiento_anticoagulante_hab 835 842	Sintrom
+T8	_SUG_Lateralizacion 966 975	izquierdo
+T9	_SUG_Lateralizacion 1228 1237	izquierda
+T10	_SUG_Lateralizacion 1404 1412	derechas
+T11	FECHA 1740 1744	2016
+#11	AnnotatorNotes T11	2016-UNDEF-month-UNDEF-day
+T13	_SUG_Lateralizacion 1952 1953	I
+T14	_SUG_Lateralizacion 1994 1995	I
+T15	_SUG_Lateralizacion 2632 2633	I
+T16	_SUG_Lateralizacion 2681 2682	I
+T17	_SUG_Ictus_isquemico 2816 2819	AVC
+T18	NIHSS_previa 2840 2850	NIHSS de 5
+T20	_SUG_Lateralizacion 3749 3750	I
+T21	_SUG_Ictus_isquemico 3794 3797	AVC
+T22	_SUG_Localizacion 3798 3803	tronc
+T23	_SUG_Lateralizacion 4531 4532	I
+T24	_SUG_Lateralizacion 4789 4790	I
+T25	_SUG_Localizacion 5011 5018	troncos
+T26	Lateralizacion 5059 5068	izquierda
+T27	TAC_craneal 5095 5097	TC
+T28	_SUG_Arteria_afectada 5168 5183	arteria basilar
+T29	_SUG_Arteria_afectada 5299 5325	Arterias carótidas comunes
+T30	_SUG_Arteria_afectada 5469 5496	arterias carótidas internas
+T31	_SUG_Arteria_afectada 5545 5575	arterias cerebrales anteriores
+T32	_SUG_Lateralizacion 5753 5762	izquierdo
+T33	_SUG_Arteria_afectada 5780 5811	arterias cerebrales posteriores
+T34	_SUG_Localizacion 5814 5825	cerebelosas
+T35	_SUG_TAC_craneal 5873 5875	TC
+T36	_SUG_Lateralizacion 6131 6138	derecho
+T37	_SUG_Lateralizacion 6156 6165	izquierda
+T38	Ictus_isquemico 6472 6475	AVC
+T40	_SUG_Localizacion 6702 6707	tronc
+T41	FECHA 6874 6884	28.06.2017
+#41	AnnotatorNotes T41	2017-06-28
+T42	FECHA 6926 6936	29.06.2017
+#42	AnnotatorNotes T42	2017-06-29
+T43	HORA 6937 6942	10:48
+#43	AnnotatorNotes T43	10:48
+T44	SECCION_EXPLORACIONES_COMPLEMENTARIAS 4653 4681	Exploracions complementaries
+T45	SECCION_TIPO_DE_INGRESO 6727 6741	Tipus d'ingrés
+T46	SECCION_ANTECEDENTES_PATOLOGICOS 457 479	Antecedents patològics
+T47	SECCION_TRATAMIENTO_HABITUAL 1906 1926	Tractament habitual:
+T12	SECCION_PROCESO_ACTUAL 2006 2021	Malaltia actual
+T49	SECCION_MOTIVO_DEL_ALTA 6743 6756	Motiu d'alta:
+#6	AnnotatorNotes T18	NIHSS=5
+T19	Arteria_afectada 2820 2835	vertebrobasilar
+T39	SECCION_EXPLORACION_FISICA 4100 4117	Exploració física

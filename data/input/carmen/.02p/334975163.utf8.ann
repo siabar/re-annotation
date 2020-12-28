@@ -1,0 +1,109 @@
+T0	HORA 227 232	14:13
+#0	AnnotatorNotes T0	14:13
+T1	FECHA 236 246	10.02.2017
+#1	AnnotatorNotes T1	2017-02-10
+T2	FECHA 348 358	24.01.2017
+#2	AnnotatorNotes T2	2017-01-24
+T3	SECCION_MOTIVO_DE_INGRESO 412 426	MOTIU D'INGRÉS
+T4	SECCION_ANTECEDENTES 451 462	ANTECEDENTS
+T5	_SUG_Lateralizacion 619 626	derecho
+T6	SECCION_ANTECEDENTES 451 462	ANTECEDENTS
+T7	SECCION_SITUACION_FUNCIONAL 628 643	Situación basal
+T8	_SUG_mRankin_alta 734 742	Rankin 2
+T9	_SUG_mRankin_previa 734 742	Rankin 2
+T10	SECCION_TRATAMIENTO_HABITUAL 752 770	MEDICACIÓ HABITUAL
+T11	SECCION_PROCESO_ACTUAL 775 788	PROCÉS ACTUAL
+T12	FECHA 828 838	24/01/2017
+#12	AnnotatorNotes T12	2017-01-24
+T13	HORA 849 854	10:00
+#13	AnnotatorNotes T13	10:00
+T14	_SUG_Localizacion 945 954	posterior
+T15	SECCION_EXPLORACION_FISICA 1421 1438	EXPLORACIÓ FÍSICA
+T16	_SUG_Lateralizacion 1613 1622	izquierdo
+T17	_SUG_Lateralizacion 1921 1928	derecha
+T18	_SUG_NIHSS_alta 2014 2019	NIHSS
+T19	_SUG_NIHSS_previa 2014 2019	NIHSS
+T20	FECHA 2045 2048	4-1
+#20	AnnotatorNotes T20	2017-01-04
+T21	FECHA 2051 2054	3-1
+#21	AnnotatorNotes T21	2017-01-03
+T22	FECHA 2075 2083	26/01/17
+#22	AnnotatorNotes T22	2017-01-26
+T23	_SUG_Localizacion 2296 2303	frontal
+T24	_SUG_Lateralizacion 2304 2313	izquierdo
+T25	_SUG_Lateralizacion 2390 2399	izquierdo
+T26	_SUG_Lateralizacion 2498 2507	izquierdo
+T27	SECCION_EXPLORACIONES_COMPLEMENTARIAS 3164 3189	EXPLORACIÓ COMPLEMENTÀRIA
+T28	FECHA 3211 3221	24/01/2017
+#28	AnnotatorNotes T28	2017-01-24
+T29	_SUG_Lateralizacion 3748 3757	izquierdo
+T30	_SUG_Lateralizacion 3852 3861	izquierdo
+T31	_SUG_TAC_craneal 3896 3908	TC de cráneo
+T32	FECHA 3916 3926	24/01/2017
+#32	AnnotatorNotes T32	2017-01-24
+T33	_SUG_Lateralizacion 3971 3978	derecha
+T34	_SUG_Localizacion 4103 4113	lenticular
+T35	_SUG_Lateralizacion 4114 4123	izquierdo
+T36	_SUG_Localizacion 4149 4164	infarto lacunar
+T37	_SUG_Lateralizacion 4251 4258	derecho
+T38	_SUG_Localizacion 4272 4287	infarto lacunar
+T39	_SUG_Localizacion 4288 4298	lenticular
+T40	_SUG_Lateralizacion 4299 4308	izquierdo
+T41	_SUG_Localizacion 4338 4345	frontal
+T42	_SUG_Lateralizacion 4346 4355	izquierdo
+T43	FECHA 4440 4448	26/01/17
+#43	AnnotatorNotes T43	2017-01-26
+T44	FECHA 4752 4760	27/01/17
+#44	AnnotatorNotes T44	2017-01-27
+T45	_SUG_Lateralizacion 4774 4783	izquierdo
+T46	_SUG_Lateralizacion 5070 5077	derecho
+T47	FECHA 5259 5267	01/02/17
+#47	AnnotatorNotes T47	2017-02-01
+T48	_SUG_TAC_craneal 5305 5315	TC craneal
+T49	FECHA 5328 5336	08/02/17
+#49	AnnotatorNotes T49	2017-02-08
+T50	_SUG_Lateralizacion 5411 5418	derecha
+T51	_SUG_Lateralizacion 5463 5470	derecha
+T52	_SUG_Localizacion 5511 5519	cortical
+T53	FECHA 5679 5689	24/01/2017
+#53	AnnotatorNotes T53	2017-01-24
+T54	SECCION_EVOLUCION 5693 5709	EVOLUCIÓ CLÍNICA
+T55	_SUG_Ictus_isquemico 5749 5754	ictus
+T56	_SUG_Localizacion 5788 5797	posterior
+T57	_SUG_Lateralizacion 5889 5896	derecho
+T58	_SUG_Etiologia 5910 5924	cardioembolica
+T59	_SUG_TAC_craneal 5927 5937	TC craneal
+T60	FECHA 5939 5947	24/12/16
+#60	AnnotatorNotes T60	2016-12-24
+T61	_SUG_Lateralizacion 6018 6025	derecho
+T62	_SUG_Localizacion 6037 6052	infarto lacunar
+T63	_SUG_Localizacion 6053 6063	lenticular
+T64	_SUG_Lateralizacion 6064 6073	izquierdo
+T65	_SUG_Localizacion 6102 6109	frontal
+T66	_SUG_Lateralizacion 6110 6119	izquierdo
+T67	_SUG_TAC_craneal 6353 6355	TC
+T68	FECHA 6371 6379	07/02/17
+#68	AnnotatorNotes T68	2017-02-07
+T69	_SUG_Lateralizacion 6452 6459	derecha
+T70	_SUG_Lateralizacion 6504 6511	derecha
+T71	_SUG_Localizacion 6552 6560	cortical
+T72	_SUG_Localizacion 6871 6882	ventricular
+T73	FECHA 7258 7266	26/01/17
+#73	AnnotatorNotes T73	2017-01-26
+T74	_SUG_Tratamiento_anticoagulante_alta 7436 7447	enoxaparina
+T75	_SUG_Tratamiento_anticoagulante_hab 7436 7447	enoxaparina
+T76	FECHA 7477 7485	07/02/17
+#76	AnnotatorNotes T76	2017-02-07
+T77	_SUG_Tratamiento_anticoagulante_alta 7506 7518	acenocumarol
+T78	_SUG_Tratamiento_anticoagulante_hab 7506 7518	acenocumarol
+T79	_SUG_Localizacion 7633 7642	posterior
+T80	SECCION_DIAGNOSTICOS 8123 8134	DIAGNÒSTICS
+T81	_SUG_Ictus_isquemico 8144 8159	Infart cerebral
+T82	_SUG_Lateralizacion 8183 8190	derecha
+T83	_SUG_Lateralizacion 8235 8242	derecha
+T84	_SUG_Localizacion 8259 8264	lacio
+T85	SECCION_TRATAMIENTO_Y_RECOMENDACIONES_AL_ALTA 8288 8323	TRACTAMENT I RECOMANACIONS A L'ALTA
+T86	SECCION_CONTROL 8463 8470	CONTROL
+T87	SECCION_DESTINO_AL_ALTA 8574 8593	DESTINACIÓ A L'ALTA
+T88	FECHA 8654 8664	10.02.2017
+#88	AnnotatorNotes T88	2017-02-10

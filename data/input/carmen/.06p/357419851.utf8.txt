@@ -1,0 +1,156 @@
+
+
+
+
+
+Informe d'Alta Hospitalària	Cognoms i nom:
+_NAME_	NHC:
+_ID_
+	ABS:
+_SS_	CIP:
+_ID_	DNI:
+_ID_
+	Data de naixement:
+_DATE_	Sexe:
+Home	Edat:
+81a	Telèfon:
+_CONTACT_
+	Finançament:
+CatSalut - _LOCATION_	Procedència:
+URGÈNCIES
+	Admissió:
+21.03.2017 - 14:51	Servei:
+NEURO - UNITAT ICTUS HOSP	Data entrada urg.:
+21.03.2017 - 11:47
+Adreça:
+_LOCATION_	Població:
+_LOCATION_	Codi Postal:
+_LOCATION_
+
+
+
+MOTIVO DE INGRESO
+-	Varón de 81 años que ingresa por ictus isquémico.
+
+
+ANTECEDENTES PATOLÓGICOS
+-	Alérgico a meiact, spectacef, telo, cefditoreno (cefalosporinas de tercera generación).
+-	Hábitos tóxicos: exfumador de 30 cigarrillos diarios desde hace más de 5 años; ex-enolismo severo desde hace más de tres años.
+-	Factores de riesgo vascular:
+*	hipertensión arterial en tratamiento médico
+*	diabetes tipo 2 en tratamiento con metformina
+*	dislipemia en tratamiento con estatinas.
+-	Historia endocrinológica: Adenoma de paratiroides derecha intervenido en el 2003. Tiroiditis de Hashimoto en tratamiento sustitutivo.
+-	Historia neumológica: Disnea de moderados esfuerzos desde 2009. Enfisema y bronquiectasias (FEV1 62%), hallazgos de TC. En tratamiento con BD. Ha presentado algún episodio de hemoptisis por infección respiratoria. Nodulo pulmonar LSD inespecífico estable radiológicamente desde hace 4años.
+-	Historia hematológica: Trombopenia autoinmune en control en Hematología de _SS_ (Dra _NAME_), de muy larga evolución. Anticuerpos antiplaquetarios positivos y turnover bajo, con médula ósea normal. Realizó tratamiento con romiplostin desde 2010 pero se retiró a raÍz de un ictus isquémico con trombo fresco carotídeo izq (09/07/2012 última dosis). Se realiza esplenectomía electiva el día 03.07.12.
+-	Historia oftalmología: Pérdida de agudeza visual en ojo izquierdo, secundaria a traumatismo ocular antiguo.
+-	Historia neurológica:
+-	Síndrome de piernas inquietas diagnosticado durante ingreso en 2011.
+-	1995: Infarto isquémico de la arteria cerebral media izquierda. Presenta secuela de ligera hemiparèsia braquial y crural derecha.
+-	2005: Infarto lacunar talámico derecho, antiagregado desde entonces. Ecocardio transesofágico: ateromatosis aórtica, con lesiones difusas, calcificadas, prominentes, en la región del arco y aorta descendente.
+-	Abril 2011: AIT motor en forma de paresia en extremidad inferior izquierda. Al alta con antiagregación con clopidogrel, se suspende AAS y simvastatina.
+-	Julio 2011: Ictus isquémico en territorio de ACM izquierda con clínica de afasia global, hemiparèsia facio-braquial derecha leve y hemianopsia homónima derecha. Orientan etiología como aortoembólica por ateromatosis aórtica difusa significativa. Al alta antiagregación con AAS y dipiridamol. Se suspende el clopidogrel.
+-	Octubre 2011: Infarto isquémico en territorio de arteria cerebral anterior izquierda con clínica de hemiparesia derecha crural y afasia motora. Etiología posiblemente aortoembólica: estenosis carotídia bilateral
+< 50%; ecocardiograma transtorácico sin hallazgos significativos. Al alta NIHSS 1 (afasia motora).
+
+-	Julio 2012. Ictus isquémico en territorio de ACM izquierda en forma de hemiparèsia derecha. En el estudio etiológico se constató trombó fresco en caròtida interna izquierda, atribuido a trombocitosis hasta 1,200,000. Realizó anticoagulación y antiagregación durante 3 meses.
+-	Posible AIT motor en forma de paresia en extremidad inferior izquierda
+-	Medicación habitual (22.7.2016): ADIRO 100MG 1 x 24 h, EUTIROX 75MCG 1 x 24 h, LISINOPRIL 5MG 0,50 x 24 h, METFORMINA  850MG 1 x 24 h, OMEPRAZOL 20MG, PERSANTIN 100MG  DIPIRIDAMOL 1 x 8 h, SPIRIVA 18MCG BROMUR DE TIOTROPI 1 x 24 h, TAMSULOSINA 0,4MG 1 x 24 h, ATORVASTATINA 40MG 1 x 24 h.
+-	Situación sociofuncional: Vive con su mujer. Independiente para ABVD. Afasia residual de ictus previos. mRS = 2.
+
+ENFERMEDAD ACTUAL
+-	Varon 81 años que acudió el 21.03.17 a urgencias porque estando en el gimnasio presenta debilidad hemicuerpo derecho y afasia. No hay acompañantes. Se activó código a las 11:32 extrahospitalariamente. Llegó a las 11:47. A su llegada, Vigíl, afasia global, mutismo, obedece una orden. Hemianopsia derecha por amenaza. Paresia facial central derecha. Hemiplejia derecha. Hemihipoalgesia derecha. NIHSS 19
+
+EXPLORACIÓN FÍSICA
+-	ENRL en urgencias (21/3/17): Vigíl, afasia global, mutismo, obedece una orden. Hemianopsia derecha por amenaza. Paresia facial central derecha. Hemiplejia derecha. Hemihipoalgesia derecha. NIHSS 19
+-	ENRL en unidad de ictus (23/3/17): Vigíl, orientación no valorable por afasia, comprende órden simple, no compleja, disartria importante, campimetría por amenaza con HHD, oculomotricidad normal, trigemino SM normal, resto PPCC conservados, paresia facial central derecha, paresia braquial derecha (3/5), paresia crural derecha (4/5), hipoestesia crural, anestesia braquial. Dismetría no valorable. NIHSS = 0.0.1.0.1/2.(2.0).(1.0)/0.2.1.2.0 = 12
+-	ENRL en sala de Neurología (23/3/17): vigil, orientado en tres esferas, atento y colaborador. Lenguaje hipofluente con bloqueos frecuentes y agramatismos, sin claras parafasias. Agrafia. PICNR. MOEs no limitados. Campimetría sin alteraciones. Paresia facial central derecha. Trigémino s-m sin alteraciones. Pares craneales sin alteraciones. Pronación ESD sin claudicación, no claudicación MMII. Dudosa hipoestesia extremidades derechas. Sin dismetrías. Marcha no explorada. RCP extensor derecho, flexor izquierdo. NIHSS: 0.0.0.0.0/2.(0.0).(0.0)/0.1.2.1.0=6.
+-	ENRL al alta: afasia motora moderada, aunque es posible la comunicación, y un déficit motor 3/5 distal de la mano derecha con Miller-Fisher patológico. No deficits motores en EEII. RCP flexor bilateral. Hipoestesia braquial derecha. Dismetria y disartria leve. NIHSS=5
+
+EXPLORACIONES COMPLEMENTARIAS
+-	Analítica de sangre al ingreso (21/3/17): Sodi 138 mmol/L ( 136 - 145 ) Potassi 4,00 mmol/L ( 3,50 - 5,10 ) Glucosa 4,9 mmol/L ( 3,0 - 6,0 ) 88,20 mg/100mL Urea 6,5 mmol/L ( 2,9 - 8,2 ) 39 mg/100mL Creatinina 74
+µmol/L ( 0 - 106 ) 0,84 mg/100mL HEMATOLOGIA-HEMATIMETRIA Hemograma Hemoglobina 124 g/L (
+
+130 - 170 ) Hematòcrit 0,39 L/L ( 0,40 - 0,50 ) Hematies 4,84 x10E12/L ( 4,50 - 5,70 ) VCM 80,6 fL ( 80,0 -
+98,0 ) CCMH 318 g/L ( 320 - 360 ) HCM 25,6 pg ( 27,0 - 32,0 ) RDW 19,5 % ( 12,0 - 15,0 ) Plaquetes 175
+x10E9/L ( 140 - 350 ) VPM 8,3 fL( 7,0 - 10,5 ) Plaquetòcrit 0,20 % Leucòcits 11,13 x10E9/L ( 3,80 - 11,00 )
+Fórmula leucocitària Neutròfils 39,4 % Neutròfils absoluts 4,37 x10E9/L ( 1,80 - 7,00 ) Eosinòfils 0,5 % Eosinòfils absoluts 0,06 x10E9/L ( 0,05 - 0,50 ) Basòfils 0,4 % Basòfils absoluts 0,05 x10E9/L ( 0,00 - 0,10 )
+Monòcits 12,8 % Monòcits absoluts 1,43 x10E9/L ( 0,30 - 1,00 ) Limfòcits 46,9 % Limfòcits absoluts 5,22 x10E9/L ( 1,00 - 4,00 ) HEMOSTÀSIA Temps de tromboplastina 0,96 RATIO ( 0,75 - 1,30 ) Temps de protrombina 1,19 INR ( 0,75 - 1,20 ) Temps de trombina 20,70 s ( 17,00 - 24,00).
+-	Electrocardiograma: Ritmo sinusal a 75lpm, PR <0.2, QRS estrecho con A a 0º, no alteraciones de la repolarización.
+-	Telemetría en la unidad de ictus: Ritmo sinusal sin eventos arrítmicos.
+-	TC craneal al ingreso (21/3/17): No se identifican hiperdensidades vasculares ni lesiones isquémicas agudas evidentes. Lacunares en ambos caudados y lenticulares. Lesiones necróticas córtico-subcorticales parietal y occipital izquierdas. Hipodensidad en la sustancia blanca periventricular de aspecto hipóxico-isquémico crónico. Resto del parénquima cerebral con aumento de valles silvianos, cisternas basales y surcos corticales de la convexidad, traduciendo cambios involutivos cerebrales.
+-	ANGIO-TC (TSA E INTRACRANEAL): El estudio angioTC intracraneal muestra una menor visualización arterial hemisférica izquierda, parte de ello pudiendo ser secundario a los ictus previos, pero llama la atención un defecto de repleción y amputación en una rama M2 de la ACM izquierda, sugestivo de trombosis de la misma. También existe un pequeño defecto de repleción en una rama insular isquierdacon recanalización distal. El estudio de troncos supraaórticos muestra múltiples placas ateromatosas en cayado, carótidas comunes, origen de carótidas internas y externas de ambos lados, sifones carotídeos y vertebrales de ambos lados, sin evindencia de estenosis significativas. Impresión diagnóstica global: No se aprecian signos de isquemia aguda en el parénquima cerebral. Signos sugestivos de trombosis en M2 de la ACM izquierda, en paciente con varias lesiones isquémicas necróticas hemisféricas izquierdas previas y de ganglios basales de ambos lados. La indicación de TEV en este caso deberá valorarse en el contexto clínico global del paciente.
+-	TC craneal de control a las 24h (22/3/17): En valoración comparativa con estudio TC previo no identifico claras lesiones isquémicas de nueva aparición en territorio de la ACM I, ni signos de sangrado intracraneal.
+-	RM cerebral: Infarto isquémico subagudo en territorio frontoinsular y temporoparietal izquierdo, con recanalización parcial del trombo en M2 de ACM izquierda y focos de sufusión hemorrágica. Lesiones encefalomalácicas y necróticas crónicas de aspecto territorial en hemisferio cerebral izquierdo e infartos lacunares crónicos capsuloganglionares con afectación de corona radiata izquierda, y protuberancial izquierdo. Focos muy aislados de microsangrado y signos de microangiopatía moderada en sustancia blanca.
+-	Analítica sanguínea estándar: Sodi 141 mmol/L ( 136 - 145 ) Potassi 3,86 mmol/L ( 3,50 - 5,10 ) Calci 2,45
+mmol/L ( 2,15 - 2,55 ) 9,80 mg/100mL Fosfat 1,14 mmol/L ( 0,87 - 1,45 ) 3,53 mg/100mL Glucosa 5,7
+mmol/L ( 3,0 - 6,0 ) 102,60 mg/100mL Urea 5,0 mmol/L ( 2,9 - 8,2 ) 30 mg/100mL Creatinina 69 µmol/L ( 0 -
+106 ) 0,78 mg/100mL Bilirubina total 13 µmol/L (< 17) 0,78 mg/100mL Triglicèrids 1,10 mmol/L (< 1.65)
+97,35 mg/100mL Colesterol 3,76 mmol/L (< 6.2) 145,51 mg/100mL AST (GOT) 26 U/L ( 0 - 37 ) ALT (GPT)
+13 U/L ( 0 - 41 ) Fosfatasa alcalina 118 U/L ( 40 - 130 ) GGT 14 U/L ( 0 - 54 ) Proteïna total 70,9 g/L ( 64,0 -
+83,0 ) Albúmina 41,4 g/L ( 34,0 - 48,0 ) Beta-2-microglobulina 3,07 mg/L ( 0,70 - 1,80 ) CEA 2,4 µg/L ( 0,0 -
+5,0 ) CA 19.9 7,5 kUI/L ( 0,0 - 37,0 ) CYFRA 21.1 1,1 µg/L ( 0,0 - 3,3 ) HIV 1 i 2 (CMIA) Negatiu  Prova
+
+
+treponèmica (MEIA) 0,06 (Negatiu) Hemoglobina 135 g/L ( 130 - 170 ) Hematòcrit 0,43 L/L ( 0,40 - 0,50 )
+Hematies 5,27 x10E12/L ( 4,50 - 5,70 ) VCM 81,4 fL ( 80,0 - 98,0 ) CCMH 315 g/L ( 320 - 360 ) HCM 25,6
+pg ( 27,0 - 32,0 ) RDW 20,8 % ( 12,0 - 15,0 ) Plaquetes 202 x10E9/L ( 140 - 350 ) VPM 8,7 fL ( 7,0 - 10,5 )
+Plaquetòcrit 0,20 % Leucòcits 9,63 x10E9/L ( 3,80 - 11,00 ) Velocitat de sedimentació globular (VSG) 5 mm/hora ( 1 - 10 ) Hb glicosilada (HbA1c) 6,1 % ( 4,6 - 5,8 ) Temps de tromboplastina 1,06 RATIO ( 0,75 - 1,30 ) Temps de protrombina 1,12 INR ( 0,75 - 1,20 ) Temps de trombina 21,00 s ( 17,00 - 24,00 ) Anticoagulant lúpic (T.de Sílica) 0,99 (Negatiu) RATIO Anticoagulant lúpic (T.de Russell) Negatiu < 1.1 Plaquetes 202 x10E9/L ( 140 - 350 ) Factor Reumatoide <20,00 UI/mL (<20) Ac. antinuclears i citoplasmàtics 1:640 Homogeni amb reforç, 1:640 Clapejat.
+-	PET-TAC: pendiente de cuantificar actividad metabólica carotídea. Ausencia de adenopatías hipermetabòliques cervicales, supraclaviculares, axilares ni mediastínicas. El estudio del parénquima pulmonar no muestra lesiones morfológicas ni hipermetabòliques sospechosas de malignidad. Leve enfisema centreacinar y paraseptal. Ausencia de derrame pleural ni pericárdico. Pequeñas adenopatías infracentimètriques hiliares pulmonares bilaterales (D> E), con discreto refuerzo metabólico, inespecíficas. Esplenectomía. Hígado, páncreas, riñones y glándulas suprarrenales sin alteraciones. Ausencia de adenopatías abdominopèlviques hipermetabòliques. Presencia de varios focos hipermetabólico intraluminal a colon ascendente, transverso y sigma, que no se modifican signficativament al estudio selectivo tardío y que no tienen traducción morfológica a la TC. Probablemente se trata de focos de captación fisiológica, aunque se recomienda estudio con FCS para descartar malignidad. El resto del estudio muestra una distribución fisiológica del metabolismo glucídico. Conclusión: Focus hipermetabólico intraluminal a colon ascendente, transverso y sigma.
+
+EVOLUCIÓN
+-	A su llegada, presenta clínica compatible con afectación de circulación anterior izquierda completa (NIHSS 19). Se realiza TC craneal que muestra lesiones cronicas similares a sus previas, sin otras lesiones agudas. En el AngioTC se observa oclusión M2. Dada la sospecha de ictus extenso y la ausencia de contraindicaciones al margen de la edad, se realiza trombólisis intravenosa sin incidencias e ingresa en la Unidad de Ictus.
+-	Clínicamente presenta una mejoría parcial de la sintomatología, tanto a nivel del lenguaje como motor. LA TC craneal de control no mostró lesiones isquémicas ni hemorrágicas. A las 24 horas se realiza el test de disfagia con buena tolerancia, por lo que se inicia dieta oral. Durante su ingreso en unidad de ictus, el paciente presenta fluctuaciones neurológicas en contexto de hipotensión, que recupera completamente. Se orienta como posiblemente secundarios a hipoperfusión por hipotensión por lo que se decide retirar medicación antihipertensiva (enalapril) y mantener paciente en decúbito. Se traslada el paciente a sala convencional de neurología.
+-	Durante su estancia en sala de Neurología permanece hemodinámicamente estable y sin incidencias destacables. Sigue con mejoría progresiva de la focalidad neurológica, persistiendo al alta una afasia motora moderada, aunque es posible la comunicación, y un déficit motor 3/5 distal de la mano derecha.
+-	Para completar el estudio se realiza una RM craneal en el que se observa un infarto isquémico subagudo en territorio frontoinsular y temporoparietal izquierdo, con recanalización parcial del trombo en M2 de ACM izquierda y focos de sufusión hemorrágica. Analíticamente presenta un recuento normal de plaquetas, marcadores tumorales negativos y AAF negativos, destacando únicamente unos ANA + (1/640). Como
+parte del estudio IMPROVE, se realiza un PET-TC en el que se observa la presencia de varios focos hipermetabólicos intraluminal a colon ascendente, transverso y sigma, por lo que se recomienda la realización de una colonoscopia, que se realizará ambulatoriamente.
+-	Por tanto, se orienta como un ictus isquémico de probable mecanismo embólico y etiología indeterminada. Se mantiene el tratamiento antiagregante y continuará seguimiento en consultas externa de Neurología. Al alta quda pendiente la realización de la colonoscopia y el estudio de trombofilia diferido.
+-	Al alta: NIHSS=5, mRS=3
+
+
+PROCEDIMIENTOS
+-	Analítica
+-	ECG
+-	Rx de tórax
+-	TC craneal con y sin contraste
+-	rtPA
+-	RM craneal
+
+
+DIAGNÓSTICOS
+-	Infarto isquémico agudo en territorio de la ACM izquierda de probable mecanismo embólico y de etiología indeterminada. Trombólisis intravenosa
+-	Enfermedad cerebrovascular crónica
+-	Hipertensión arterial en tratamiento médico
+-	Diabetes  mellitus tipo 2
+-	Dislipemia
+-	Trombopenia autoinmune
+
+
+TRATAMIENTO Y RECOMENDACIONES AL ALTA
+-	Adiro 100 mg/día
+-	Persantin 100 mg/8h
+-	Atorvastatina 80 mg/24horas (cena)
+-	Eutirox 75MCG 1 x 24 h,
+-	Tamsulosina 0,4 mg 1 x 24 h
+-	Spiriva 1 inh/24h
+-	Metformina 850 mg/día
+-	Lisinopril 5 mg 0,50 x 24 h.
+-	Omeprazol 20 mg/día
+-
+
+
+
+
+
+
+Responsable clínic: Dra. _NAME_ (NºCol. _ID_)
+Equip mèdic: Dr. _NAME_ (NºCol. _ID_), _NAME_ (NºCol. _ID_)
+
+Servei que ha donat d'alta:
+NEUROLOGIA HOSP	Data d'alta:
+06.04.2017	Nom del metge que informa de l'alta:
+Dr. _NAME_ (NºCol. _ID_)
+
+
+_LOCATION_, 06.04.2017
+Pàg. 1 de   5

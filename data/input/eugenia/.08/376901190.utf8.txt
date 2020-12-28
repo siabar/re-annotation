@@ -1,0 +1,152 @@
+_LOCATION_
+_LOCATION_) Anul·lació/Reprogramació visites:_CONTACT_
+Telèfon Centraleta: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 22 Anys
+NIF/DNI: _ID__NAME_; _NAME_;
+ _NAME_;_NAME_
+Informe d'alta d'hospitalització
+18:08:39
+01.06.2017
+_LOCATION_
+_SS_ NEUROLOGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_
+DOMICIL/RES.SOC 22.05.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Mujer de 22 años que ingresa en NRL por ictus de ACM izquierda.
+
+ANTECEDENTS
+Mujer de 22 años procedente de _LOCATION_, residente en _LOCATION_ desde 2008. No alergias a medicamentos conocidas.
+No hábitos tóxicos.
+No factores de riesgo cardiovascular conocidos. No cardioneumopatías conocidas.
+Antecedente de interrupción  voluntaria del embarazo de gestación  intrauterina  compatible  con  embarazo no evolutivo en 2010.
+Derivada a hematología en 2010 según cursos de MAP por alteración en hemograma y coagulación (Hematíes elevados con TP alargado).
+Toma anticonceptivos orales desde el año 2010. Situación basal: independiente para ABVD. mRS 0.
+MEDICACIÓ HABITUAL
+ACO: cerezet 75mcg 1c/24h.
+
+PROCÉS ACTUAL
+Vista asintomática por última vez el día 21/05 por su madre. El día 22/05 a ls 10h habla con ella por teléfono. Avisan al SEM a las 16h por haberla encontrado con alteración del lenguaje. Llega a urgencias a las 16:40h.
+
+A su llegada a urgencias, presenta TA 100/70 mmHg, SatO2 100%, Fc 70 lpm. Neurológicamente se encuentra consciente, orientación no valorable por afasia (2) Nomina, evoca 3/5, con parafasias. (2). Obedece órdenes simples no complejas (1). Repite con dificultad. Disartria (2). TOC Izq (1). HHD (2). PFSN D (1). Resto de PPCC conervados. ESD 0/5 (4). EID 4+/5 (1). Sensibilidad no valorable (1). RCP flexor bilateral. NIHSS 17.
+
+Se realiza analítica sin alteraciones significativas, TC craneal con ASPECTS 6-7, en angio-TAC oclusión M1 izquierda, perfusión con missmatch evidente en ACM izq e infarto establecido en territorio profundo.
+
+Se orienta como ictus ACM izquierda (posible mecanismo embólico paradójico vs cardiopatía no conocida vs discrasia). Se decide trombectomía mecánica, se hace punción a las 17:59h, se objetiva oclusión M1 izquierda, se realiza trombectomía con recanalización TICI 3. Es trasladada a la UCI.
+Se realiza TC control 24h post trombectomía que muestra un infarto cerebral establecido localizado en caudado, brazo anterior de la capsula interna y lenticular izquierdos, con signos de transformación hemorragica en su interior. Se retira introductor sin incidencias siendo posteriormente trasladada a unidad de ictus de Neurología.
+
+EXPLORACIÓ FÍSICA
+
+Informe d'alta d'hospitalització
+
+
+
+
+FC	80 bpm
+Tªaxi 36.9 ºC
+
+FR	rpm Tªrec  ºC
+
+TA s	108 mmHg SAT O2 100 %
+
+TA d   62 mmHg Pes Kg
+
+NRL: Paciente consciente, obedece órdenes simples y complejas, lenguaje: nomina 5/5, repite, evoca 5/5, alteración de la fluencia (1), no disartria, PICNR, MOEs conservados, campimetría por confrontación normal, parálisis facial supranuclear derecha (2), paresia braquial 4/5 drecha (1), paresia crural 4/5 drecha (1), sensiblidad no valorada (1).  NIHSS 6.
+AC: tonos rítmicos sin soplos
+AR: Mvc, sin ruidos sobreañadidos Abdomen anodino
+EEII: no edemas, no signos de TVP. Pulsos pedios presentes y simétricos.
+
+EXPLORACIÓ COMPLEMENTÀRIA
+PRUEBAS COMPLEMENTARIAS EN URGENCIAS
+TC craneal simple, TC perfusión, angioTC: Ictus isquémico en el territorio vascular profundo de ACM izquierda (ASPECTS 7) secundario a oclusión en segmento M1 proximal de dicha arteria. El estudio TC perfusión, muestra un aumento del TTM y disminución del FSC con preservación del VSC, a excepción de la región gangliobasal y a nivel corticosubcortical postcentral, existiendo missmatch significativo.
+Analítica  sanguínea:  pH  7.38,  pCO2  37mmHg,  pO2  28mmHg,  bicarbonat  21.9mmol/L,  excés  de  base
+-2.8mmol/L, satO2 36%, glucosa 4.9mmol/L, urea 4.4mmol/L, creatinina 49umol/L, K 4.26mmol/L, TTPA 0.77, TP 1.19, Hb 14.1g/dL, hematòcrit 40%, plaquetes 322000, leucòcits 9600, neutròfils 8140 (84.4%), limfòcits 1140
+(11.9%).
+
+PRUEBAS COMPLEMENTARIAS EN UCI
+Tc control: Infarto cerebral establecido localizado en caudado, brazo anterior de la capsula interna y lenticular izquierdos, con signos de transformación hemorragica en su interior. Se asocia a discreto edema periinfarto que condiciona discreto efecto de masa sobreparénquima cerebral adyacente y sobre el asta frontalr del ventrículo lateral izquierdo. Resto del parénquima cerebral sin otros hallazgos.
+
+PRUEBAS COMPLEMENTARIAS EN PLANTA DE NEUROLOGÍA.
+Analítica de ingreso: función renal (urea, creatinina, FG) normal, ligera hipopotasemia 3.80mmol/L, perfil hepático (AST, ALT, GGT, FA) normal, factores reumatodies <10ku.i/L, perfil lipídico (HDL, LDL, TG) normal, perfil tiroideo (tiroxina, tirotropina) normal, perfil glucídico (HbA1c, glucosa media estimada) normal, coabalminas normales, folatos disminuidos 5.0nmol/L, ligera anemia Hb 11.3g/dL, hematocrito 33%, plaquetas 238000, leucocitos 6500, neutrófilos 3800, linfocitos 2140 (33.2%), coagulación: TP 1.21, TTPA 0.82. Proteinograma sin alteraciones.
+Autoinmunidad: ANAs títol 1:40 patró clapejat gruixut (Associacions més freqüents: U1RNP, Sm, hnRNP, RA33.), antiDNA negativos, antifosfolípidos negativos. FR normal. ANCAs negativos. AntiENA pendientes. Anticoagulante lúpico negativo.
+Rx de tórax: ICT < 0.5, senos costofrénicos libres, no condensaciones ni infiltrados.  ECG: RS a 60 lpm, PR 0.16s, QRS estrecho, sin alteraciones agudas de la repolarización. Serologías VIH, VHB, VHC, lúes negativas.
+Resonancia magnética cerebral: Lesión en centro semioval izquierda, pálido-putaminal izquierda y cápsula externa izquierda, en menor grado en región temporal izquierda, hiperintensa en secuencias T2 y FLAIR, con brillo
+
+Informe d'alta d'hospitalització
+
+
+
+
+en  secuencias  de  difusión, en  relación  a  lesión  isquémica  subaguda.  La  secuencia  angioRM muestra una estenosis de la cerebral media izquierda en el primer segmento, (flujo filiforme), flujo distal presente.
+Ecografía cardiaca transtorácica y transesofágica: Conclusiones:
+1.	VI no dilatado ni hipertrófico, con función contráctil conservada. VD no dilatado, con contractilidad conservada.
+2.	Aurícula izquierda no dilatada. Aorta ascendente no dilatada.
+3.	Válvula mitral de morfología normal, con ligera insuficiencia.
+4.	Insuficiencia tricuspídea ligera. PAPs estimada de 23 mm Hg.
+5.	PVC normal.
+6.	Sin derrame pericárdico significativo.
+7.	SIA de aspecto normal. Test de SS agitado negativo (basal y con Valsalva), tanto en transtorácico como en ETE.
+** ETE: Sin hallazgos patológicos.
+ECO-TSA (31.05.17): se visualizan ambos ejes carotídeos y ambas bifurcaciones sin imágenes ni aceleraciones de flujo sugestivas de estenosis. Vsist max de ambas ACIs alrededor de 60-80 cm/seg. Se visualizan ambas arterias vertebrales con flujo simétrico y ortodrómico.
+Doppler transcraneal (31.05.17): ACM izquierda con irregularidad en su trayecto presentando en zonas de flujo turbulento Vsist max de 180cm/seg. Presencia de flujo distal. ACM derecha sin alteraciones.
+
+EVOLUCIÓ CLÍNICA
+Ingresa en Neurología procedente de la UCI para estudio y control evolutivo de ictus de ACM izquierda con olcusión M1 tratado en fase aguda con trombectomía mecánica con recanalización completa TICI 3. En TC de control 24h post trombectomía se objetiva infarto cerebral establecido en caudado, brazo anterior de la capsula interna y lenticular izquierdos, con signos de transformación hemorrágica en su interior.
+
+Inicialmente presenta NIHSS de 6 a expensas de afasia por alteración de la fluencia del lenguaje (1), PFSN derecha (2), paresia BC derecha 4/5 (1+1), sensibilidad no valorable (1).
+
+Permanece monitorizada en la unidad de ictus, sin evidenciarse eventos arrítmicos por telemetría. Se inicia clopidogrel sin incidencias.
+
+Como parte de estudio vascular se realiza analítica donde destaca discreta anemia normocítica con Hb de 11.3 g/dL y hematocrito 33%, estudio de autoinmunidad que muestra ANAs elevados con título de 1:40 en el momento agudo, antiDNA, ANCAs, antifosfolípidos, FR y anticoagulante lúpico negativos, antiENA pendientes al alta.
+Serologías para lues, VIH, VHB y VHC negativas.
+La RMN cerebral muestra una lesión isquémica subaguda en centro semioval izquierdo, pálido-putaminal izquierdo y cápsula externa izquierda, en menor grado en región temporal izquierda.
+Se realiza ETT que muestra ligera insuficiencia mitral y ligera insuficiencia tricuspídea sin otros hallazgos. Se realiza test de SS agitado que resulta negativo (basal y con Valsalva) tanto en ecografía transtorácica como en transesofágica.
+Se completa estudio con ecoTSA que no muestra alteraciones significativas y duplex transcraneal que evidencia irregularidad en trayecto de ACM izquierda presentando en zonas de flujo turbulento una Vsist max de 180cm/seg, por lo que se decide de momento mantener antiagregación con clopidogrel.
+
+Informe d'alta d'hospitalització
+
+
+
+
+Durante su estancia en planta de neurología la paciente ha presentado una evolución favorable, manteniéndose hemodinámicamente estable en todo momento y sin presentar incidencias. Tolera dieta oral, sedestación y deambulación autónoma. Neurológicamente ha presentado mejoría clínica, con NIHSS en el momento del alta de 1 a expensas de PFSN derecha. mRS 1..
+
+Se orienta como ictus ACM izquerda con oclusión M1, en contexto de tratamiento crónico con anticonceptivos orales, con resto del estudio vascular sin hallazgos en el momento actual. Se recomienda retirada de anticoncepción hormonal.
+
+Dada la buena evolución se decide alta a domicilio y seguimento en CEX de NRL (Dr. _NAME_) según programación. Se encuentra pendiente de resultados de anticuerpos antiENA al alta. Se explican signos de alarma y normas de reconsulta.
+
+DIAGNÒSTICS
+436/5 Ictus
+
+PROCEDIMENTS
+93.83 Terapèutica ocupacional. Terapèutica d'activitats de la vida quotidiana
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Clopidogrel 75 mg vo cada 24h. Pantoprazol 20mg vo cada 24h.
+
+STOP anticonceptivos hormonales.
+
+
+CONTROL
+Control en CEX de NRL (Dr _NAME_) según programación.
+Control de FRCV y monitorización de niveles de ácido fólico por médico de cabecera.
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+Validat per: _NAME_ NAIMA	Col·legiat: _ID_
+
+01.06.2017
+Pàgina 1 de 4

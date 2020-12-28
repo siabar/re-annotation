@@ -1,0 +1,111 @@
+_LOCATION_ Telf Consultes: _CONTACT_ / _CONTACT_
+Telf Centraleta Hospital: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 82 Anys
+NIF/DNI: _ID_Informe d'epicrisi
+15:03:51
+05.06.2017
+_LOCATION_
+_SS_ NEUROLOGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_
+DOMICIL/RES.SOC 31.05.2017
+_NAME_
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Hombre de 82 años que ingresa en UCIM procedente de urgencias por ictus isquémico en territorio de arteria cerebral
+media izquierda.
+
+ANTECEDENTS
+No alergias medicamentosas conocidas.
+Autónomo, buena calidad de vida, vive solo. Rankin 0.
+
+Enfermedad de Parkinson incipiente. Dislipemia. No HTA, no DM.
+Antecedente de ictus isquémico no lisado en 2012, con estudio negativo. Coxartrosis.
+Síndrome del tunel carpiano. IQ: ulcus duodenal hace años.
+
+MEDICACIÓ HABITUAL
+Clopidogrel, Tamsulosina, Paracetamol, Omeprazol.
+
+PROCÉS ACTUAL
+El día 31/05/17 hacia las 6:00 según refiere su familiar (sobrino) se levanta al baño correctamente y a la vuelta a la cama
+sufre pérdida de fuerza de hemicuerpo derecho y caída con traumatismo frontal izquierdo periorbitario. La familia oye los
+gritos (vive en el piso de arriba) y acude al paciente. Lo encuentran en el suelo, con el habla conservada y con paresia de
+extremidades derechas. Trasladado a urgencas de nuestro centro como códio ictus.
+
+EXPLORACIÓ FÍSICA
+
+Conciente, orientado y colaborador. Motilidad ocular externa conservada. Afasia lleu amb anòmia i bloquiegs.
+Hemianopsia homonima derecha. Paresia facial derecha. Hemiparesia derecha, ESD 2/5, EID 1/5, TACI: NIHSS 7.
+
+AC: Rítmico, sin soplos ni roce. Buena perfusión periférica. AR: MVC sin ruidos sobreañadidos. Eupneico.
+Abdomen blando y depresible, no doloroso, no se palpan masas ni megalias, se auscultan ruidos intestinales normales.
+
+Informe d'epicrisi
+
+
+
+
+No edemas ni signos de TVP en EEII.
+
+EXPLORACIÓ COMPLEMENTÀRIA
+- ANALÍTICA INGRÉS:
+GSA: pH ; PO2 mmHg; PCO2 mmHg; Bicarbonat mmol/l; EB ; SaO2 %;
+Glucosa 111mg/dL; creatinina 0.85mg/dL; urea 29mg/dL; Na 139mE/L; K 4.1mEq/L; Leucocitos 9000/mL; Hemoglobina 15.8g/dL; Hematocrito 47%; Plaquetes 154000/mcL; Fibrinogeno 567mg/dl; INR 1.17 ; TTPAr 0.98.
+Lactato mmol/L; PCR 0.6mg/dL.
+ALT U/L; AST U/L; LDH U/L; CPK U/L;
+-	Rx TÒRAX: pendiente.
+-	ECG: Ritmo sinusal, BAV primer grado, sin alteraciones agudas de la repolarización.
+
+-	Angio-TC craneal y TC de órbita (31/05/17): No s'evidencia signes de patologia intracranial aguda (isquèmica, hemorràgica
+ni traumàtica). Absència d'oclusions o d'estenosis vasculars. Seqüel·la isquèmica còrtico-subcortical en territori de l'ACM
+esquerra  (circunvolució  frontal  mitja),  no  visible  en  TC  previ.  Leucopatia  isquèmica  crónica  supratentorial periventricular i profunda. Atròfia cerebral còrtico-subcortical, de predomini subcortical.
+Adenopatía paraesofàgica dreta i retrotraquial (en mediastí superior) de 12 mm). Absència de fractures en la calota, base de crani ni massís facial. Contusió de parts toves peri-orbitària i frontal esquerra, sense evidencia d?extensió intra-orbitària.
+Globus oculars d'esfericitat conservada. Greix intra i extra conal sense anomalies. Músculs extrínsecs de mida i morfologia preservades. Absència de síndrome de massa i de realç patològic. Glàndules lacrimals de volum i captació normals. Àpex orbitaris, fissures supra i infra orbitàries lliures.
+
+- TAC crani urgent ost-trombolisis (31/6): Tres hematomes aguts intraparenquimatosos: parietal inferior de 19 x 21 mm (LL xCC), temporo-parietal dret de 47 x 52 x 103 mm (CC x LL x AP), temporal inferior dret de 17 x 26 x 57 mm (CC x LL x AP).
+L'hematoma  temporo-parietal  dret  es  comunica  amb  el  sistema  ventricular  a  través  de  l'atri.  Hemorràgia intra-ventricular amb dilatació del VL esquerra sense signes de resorpció transependimària.
+HSA difusa supra i infratentorial Desviació de la línia mitja cap a l'esquerra (mesurat en 9 mm). Herniació temporal interna dreta incipient, transtentorial descendent i amigdalar.
+
+EVOLUCIÓ CLÍNICA
+A su llegada a urgencias estable hemodinámica y respiratoriamente, correcto control tensional. ECG en ritmo sinusal con BAV primer grado. Afasia leve, hemianopsia homonima derecha, paralisis facial derecha, hemiparesia derecha ESD 2/5, EID 1/5, NIHSS de 9. Se realiza angio-TC creaneal urgente sin lesiones hemorragicas, sin lesiones isquémicas establecidas, sin oclusión arterial, hematoma de partes blandas periocular, sin compresión ocular, sin fracturas asociadas, sin contusión cerebral asociada. Tras el TC leve  con NIHSS 7. Valorado por oftalmología, por su parte, no existe contraindicación para fibrinolisis por el hematoma periorbitario.
+Recomiendan frío local y compresión. Ingresa en UCIM para fibrinolisis.
+
+A su ingreso en UCIM mantiene misma exploración neurológica, correcto control tensional, se realiza vendaje compresivo
+ocular izquierdo, aplicación de frío local y se inicia fibrinolisis a las 9:30h.
+
+Informe d'epicrisi
+
+
+
+
+
+Tras fibrinolisis el paciente presenta discreta mejoría inicial de la fuerza en extremidad inferior derecha 2/5. En las horas siguientes comienza agitación, nauseas, hipertensión arterial y posteriormente bajo nivel de consciencia, GCS 8. Se realiza TC craneal urgente en el que se observan 3 hematomas intraparenquimatosos extensos, con desviación de línea media, con signos de herniación transtentorial. Ante la severidad de las lesiones cerebrales y la situación de coma, se explica a la familia el mal pronóstico. Posteriormente agitado requiere inicio de tratamiento con perfusión de morfina a baja dosis con lo que se controla. De acuerdo con neurología se decide alta a planta.
+
+Ingresa a planta de Neurologia en coma, arectaiu i amb pupiles fixes i babinski bilateral. El pacient presenta empitjorament progressiu presentant insufuciencia respiratòria i exitus el dilluns 5/7 a les 12:27h.
+
+DIAGNÒSTICS
+-	ICTUS isquèmic a territori de l'ACM E
+-	Transformacióhemorràgica massica amb hematoma parenquimatòs a distància.
+-	Herniació cerebral.
+-	EXITUS LAETALIS
+
+PROCEDIMENTS
+Codi Ictus / Trombolisis cerebral / TC crani / AngioTC crani /
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+05.06.2017
+Pàgina 1 de 3

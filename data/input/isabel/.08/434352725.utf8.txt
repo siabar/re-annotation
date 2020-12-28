@@ -1,0 +1,120 @@
+I.CLINIC DE NEUROCIÈNCIES NEUROLOGIA
+_NAME_	NHC: _ID_
+
+
+Sexo/Sexe: Fem.	Fecha nac./Data naix.: _DATE_	Edad/Edat: 86 años Dirección/Adreça: _LOCATION_		CP: _LOCATION_
+Municip. (Prov.): _LOCATION_  ABS:_SS_	Tel.:
+As.: SERVEI CATALA DE LA SALUT	CIP: _ID_	NASS: _ID_
+Nº epis.: _ID_	Tipo/Tipus: HOSPIT.	Inici.: 22.10.2017
+Serv: NEUROLOGIA	UO Enf.: G6B4 SALA G NEUROL. CURT. E Hora: 16:55:44
+Facult. de ref.: _NAME_
+
+
+
+
+Tipo ingreso/Tipus ingrés: Urgent	Motivo/Motiu alta: Dom. Familiar
+Diag.:
+ICTUS ISQUÉMICO CAROTÍDEO DERECHO ()
+Proc.:
+ANALÍTICA SANGUÍNEA ()
+TC CRANEAL MULTIMODAL ()
+
+
+
+
+INFORME CLÍNICO ALTA / INFORME CLÍNIC ALTA
+
+Motivo de consulta / Motiu de consulta
+Código ictus
+
+Antecedentes e historia previa / Antecedents i història prèvia
+Mujer de 86 años, alérgica a la penicilina. Sin hábitos tóxicos. Vive con un hijo. Independiente para ABVD, sale sola a la calle (mRS 1).
+
+ANTECEDENTES PATOLÓGICOS
+1.	HIPERTENSIÓN ARTERIAL en tratamiento farmacológico
+2.	DISLIPEMIA y OBESIDAD en tratamiento
+3.	CARDIOPATÍA ISQUÉMICA que debutó en el 2003 con angor inestable. En cateterismo coronario en 2003 se diagnosticó de lesión severa en DA-D1. Portadora de stent en DA-D1 desde el 2006, en tratamiento antiagregante con AAS.
+* Cateterismo coronario (2006): DA lesión del 90% en tercio medio con vaso distal fino. D1 lesión ostial proximal y severa que se bifurca en vasos finos. Cx placa ostial del 40% y media del 50%. CD lesión del 30% IVP con enfermedad moderada PL sin lesiones. Ventrículo izquierdo hipertrófico con motilidad aumentada.
+4.	FIBRILACIÓN AURICULAR RÁPIDA que revertió a ritmo sinusal, durante un ingreso en Mayo/2007. Se realizó cateterismo que mostró FE 80%, sin IM, calcificación severa del anillo mitral. Dominancia derecha. Tronco común: vaso con lesión distal de difícil valoración angiográfica de aproximadamente un 40-45%, con diámetro luminal mínimo de 2,1 mm. DA: vaso con tortuosidad en todo su trayecto con STENT liberté 2.75/32 en tercio medio con pérdida luminal difusa no significativa, sin evidencia de estenosis. D1 de fino calibre sin reestenosis. Cx: vaso de fino calibre, lesión ostial no significativa y resto del vaso libre de lesiones significativas. CD: vaso dominante sin estenosis significativas. Lesión ostial en la IVP del 30%.
+5.	INSUFICIENCIA CARDÍACA CONGESTIVA con disnea a moderados esfuerzos y edemas bimaleolares habituales, con nicturia.
+* Ecocardiografía (última de Agosto/16): Doble lesión aórtica degenerativa: Estenosis aórtica moderada-severa. Insuficiencia aórtica ligera. Insuficiencia mitral ligera-moderada. Función sistólica de VI conservada. Hipertension pulmonar moderada (PAPs est. 57 mmHg). Vena cava inferior dilatada.
+
+6.	Talasemia minor
+7.	Neumonía del segmento anterior del lóbulo superior derecho en 2002
+8.	Neumonía basal derecha en enero/2010
+9.	Síndrome ansioso-depresivo
+10.	Coxartrosis que requirió colocación de prótesis total de cadera bilateral.
+
+MEDICACIÓN HABITUAL (act 22/10/17)
+- AAS 100 mg/24h - Rivaroxabán 15 mg/24h - Omeprazol 20 mg/24h - Nitroglicerina trandérmica 5 mg/24h - Furosemida 40 mg/8h - Fluvastatina liberación prolongada 80 mg/24h - Zolpidem 10 mg/24h - Diclofenaco 50 mg si precisa - Paracetamol + tramadol (pazital) 37,5/325 mg/8h - Carvedilol 6,25 mg/12h - Amlodipino 5 mg/24h - Candesartán 32 mg/24h
+
+Proceso actual / Procés actual
+Paciente que acude traída por el SEM, randomizada para RACECAT, por presentar el día 22/10/17 a las 14:30h de forma aguda cuadro de debilidad de extremidades izquierdas y desviación de la mirada hacia la derecha.
+
+Exploración física / Exploració física
+22/10/2017-18:00:00: Frecuencia respiratoria (rpm) 22, PAS (mm Hg) 145, PAD (mm Hg) 58, Pulsioximetría (%) 98. 22/10/2017-18:30:00 : Glicemia ca pilar (mg/dl) 122, Tª axilar (ºC) 35.8.
+Hemodinámicamente estable, normotensa, eupneica en reposo y afebril.
+CCV: tonos arrítmicos con soplo sistólico panfocal. No IY. No edemas periféricos. AR (campo anterior): MVC con algunos crepitantes bibasales.
+NRL: consciente y orientada globalmente. Lenguaje  hipofluente pero coherente, sin rasgos de afasia (nomina 6/6, comprende órdenes simples, repite correctamente). Disartria leve. Desviación forzada de la mirada conjugada hacia la derecha, reflejo de amenaza derecho ausente. Hemiparesia facio (mod)- braquio (0/5)- crural (0/5) izquierda con anestesia táctil ipsilateral. Dismetrías no valorables. Anosognosia y asomatognosia. RCP flexor bilateral. NIHSS 19.
+
+Laboratorio / Laboratori
+*	ANALÍTICA SANGUÍNEA: función renal e ionograma sin alteraciones. Anemia microcítica e hipocroma de Hb 10,8 g/dL. Plaquetas 198.000.
+
+Radiología / Radiologia
+*	TC CRANEAL MULTIMODAL (22/10/17):
+- BASAL: No se observa hemorragia intra ni extraaxial. Leve hipodensidad de caudado derecho. Diferenciación cortico-subcortical del resto del parénquima conservada. ASPECTS 9. Pequeñas hipodensidades cerebelosas derechas que podrían ser compatibles con infartos crónicos. Estructuras de la línea media centradas. Sistema ventricular de tamaño y morfología normal. Cisternas basales libres.
+-	TC PERFUSIÓN: Importante aumento del TTP a nivel de todo el hemisferio derecho y más discreto aumento del TTP a nivel del hemisferio izquierdo. Leve disminución del CBV y CBF a nivel del hemisferio derecho. Hay discordancia significativa.
+-	ANGIO-TC EXTRA E INTRACRANEAL: Oclusión completa de la a. carótida común derecha a unos 3 cm del origen. Dada la terminación "en pico" los hallazgos no permiten descartar disección. Ausencia de realce que se extiende a nivel de la c. interna derecha. C. externa derecha parcialmente contrastada a través de colaterales. Aorta y segmentos proximales de los otros troncos supraaórticos con signos de ateromatosis, permeables, sin estenosis secundarias. Origen y segmento cervical de la arteria carótida interna izquierda y de las arterias vertebrales con signos de ateromatosis, permeables, sin estenosis secundarias. A. vertebral derecha hipoplasica. Segmentos intracavernoso y supraclinoideo de la arteria carotida interna izquierda con leves signos de ateromatosis, permeables, sin estenosis secundarias. Principales arterias cerebrales intracraneales permeables (probable  perfusión del hemisferio derecho a través de colaterales). Sistema
+-	
+
+
+vertebrobasilar permeable.
+
+*	TC DUAL DE CONTROL: Estudio comparativo con Tc de hace aproximadamente 8 horas. A nivel de la cisura de Silvio derecha, se aprecia minima hiperdensidad en las imagenes VNC siendo los hallazgos sugestivos de minima hemorragia subaracnoidea a este nivel.
+
+*	RADIOGRAFÍA DE TÓRAX: En decúbito aunque impresiona de cardiomegalia e hilios prominentes.
+*	ANGIO-TC DE MIEMBROS INFERIORES: Moderada ateromatosis aortoilíaca calcificada. Se identifica defecto total de repleción desde el origen de la arteria ilíaca común izquierda, compatible con oclusión de la misma, que se repermeabiliza a nivel de su tercio medio. La arteria ilíaca externa izquierda presenta un trombo parcial mural en toda su extensión que condiciona estenosis de aprox. 50% de la luz. Se observa un segundo defecto total de repleción que se inicia en el tercio distal de la arteria femoral izquierda y se extiende hasta el tercio distal de la art. poplítea, con bifurcación y ramas distales permeables. Arteria femoral profunda izquierda permeable. Defecto de repleción total en tercio medio de la arteria femoral profunda derecha, con repermeabilicación en su tercio distal. Oclusión del tercio distal de la art. poplítea derecha que se extiende a la bifurcación, con repermeabilización de ramas distales. Ateromatosis calcificada difusa en ambas EEII, que condiciona focos de estenosis <50%, a excepción de las oclusiones descritas anteriormente.
+
+Evolución / Evolució
+1.	ICTUS ISQUÉMICO AGUDO CAROTÍDEO DERECHO
+2.	FIBRILACIÓN AURICULAR CRÓNICA.
+
+A su llegada a nuestro centro se encuentra normotensa, afebril. A la exploración destaca sd hemisférico derecho completo (NIHSS 19). Analítica sanguínea sin alteraciones relevantes. ECG en fibrilación auricular con respuesta ventricular media controlada. El TC craneal multimodal muestra en secuencias basales signos incipientes de lesión isquémica aguda en núcleo caudado derecho, sin otros signos de isquemia o hemorragia agudos (ASPECTS 9); el angio-TC evidencia oclusión completa de la a. carótida común derecha e importante ateromatosis difusa en troncos supraaórticos, con extensa área de penumbra isquémica en los mapas de perfusión. Se desestima fibrinolisis con r-tPA por tratameinto anticoagulante con Rivaroxaban, por lo que se realiza tratamiento endovascular del ictus isquémico mediante trombectomia mecánica, consiguiendo recanalización arteria completa (TICI 3).
+Se orienta como un ictus carotídeo derecho por oclusión a nivel de a. carótida común derecha en paciente con enfermedad ateromatosa y fibrilación auricular en tratamiento con rivaroxabán. El estudio vascular mediante ecografía doppler posterior a trombectomia muestra ateromatosis de ambas bifurcaciones carotídeas sin estenosis significativas. En fase aguda se inicia tratamiento anticoagulante con heparina sódica con posterior pasa a anticoagulanción con Sintrom
+Durante su ingreso, la paciente ha presentado excelente evolución clínica hasta quedar asintomática, por lo que se decide alta a domicilio. Se realizará control ambultaorio en CCEE de neurología (Dr. _NAME_) según citación adjunta.
+
+Al alta: - NIH: 0
+-	TOAST: Cardioembólico.
+-	mRS: 1
+
+3.	OCLUSIÓN ARTERIA FEMORAL IZQUIERDA:
+Se trata de una paciente con clínica crónica de claudicación intermitente y rampas en el miembro inferior izquierdo que presenta una reagudización isquémica en dicho miembro. Se realiza un angio-TC que muestra una oclusión en la arteria iliaca común izquierda. Se orienta como una oclusión de origen embólico sobre un lecho ateromatoso y se procede a embolectomía urgente, que es efectiva, presentando la paciente una buena evolución.
+
+
+
+Plan terapéutico / Pla terapèutic
+Se suspende tratamiento con rivaroxabán y se inicia anticoagulación con acenocumarol según pauta. Resto de tratamiento sin cambios.
+
+Otras recomendaciones / Altres recomanacions
+Control de los factores de riesgo cardiovascular por sus médicos habituales.
+
+
+
+Firma/Signatura1: _NAME_	Firma/Signatura2: _NAME_ Categoría: Resident 2	Categoría: Especialista
+Nº Matrícula _SS_: _ID_	Nº Matrícula _SS_: _ID_
+
+Fecha/Data Informe: 30.10.2017
+Hora Informe: 16:50:02
+
+Docum.: _ID_
+Hist. Clínica: _ID_
+El _SS_ ha incorporado sus datos al Fichero de Pacientes, para tratarlos con fines sanitarios.
+Puede ejercer sus derechos de acceso, rectificación, cancelación y oposición, así como obtener mas información en la Unidad de Atención al Cliente.
+Vers. 00
+Pag. 2 de
+4
+Episod.: _ID_
+_SS_ ha incorporat les seves dades al Fitxer de Pacients, per a tractar-los amb finalitats sanitàries. Pot exercir els seus drets d'accés, rectificació, cancel·lació i oposició, i obtenir més informació a la Unitat d'Atenció al Client.
+_SS_
+_LOCATION_) _LOCATION_) Tel. _CONTACT_ Fax _CONTACT_
+http://_CONTACT_/

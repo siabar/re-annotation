@@ -1,0 +1,130 @@
+_LOCATION_) Telèfon _SS_  972 _CONTACT_
+Telèfon IDI (Ressonància i TAC) _CONTACT_
+Telèfon ICO _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_._NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 48 Anys
+NIF/DNI: _ID_Informe d'alta d'hospitalització
+CP	_LOCATION_
+ABS	_SS_
+Servei	NEUROLOGIA
+Data d'alta  29.12.2017	15:20:58
+_LOCATION_
+_CONTACT_; _CONTACT_; _CONTACT_
+AGUTS 27.12.2017
+_NAME_
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Hemiparesia con hemihipoestesia ipsilateral.
+
+ANTECEDENTS
+PERSONALS
+-	Sense AMC.
+-	Hàbits tòxics: fumador d'un paquet i mig al dia. Enolisme de 1-2 litres de cervesa. Consumidor habitual de cocaïna caps de setmana.
+-	mRS 1 (hipoestèsia hemicós dret).
+
+PATOLÒGICS:
+-	Ictus lacunar sensitiu el dia 21/12/17. Amb ecodoppler normal.
+-	HTA en tractament mèdic, mal control. Última setmana TAS 190-200mmHg.
+-	Diabetes Mellitus diagnosticada el dia 21/12 sense tractament.
+-	MPOC per criteris clínics, pendent d'espirometria.
+
+MEDICACIÓ HABITUAL
+Enalapril/Hidroclortiazida 20/12.5mg cada 24h.
+
+PROCÉS ACTUAL
+Pacient de 46 anys amb FRCV no controlats que consulta per empitjorament de la seva hipoestèsia i aparició d'hemiparèsia braquiocrural dreta d'inici a les 9.30.
+Consulta a urgències de _SS_ des d'on s'activa codi ictus a les 12.30 i arriba al nostre centre a les 14h.
+
+Va  ser  valorat  per  Neurologia  del  nostre  centre  el  dia  21/12  per  clínica  d'hipoestèsia faciobraquial  dreta, orientant-se com un ictus lacunar i iniciant-se antiagregants i estatines.
+
+EXPLORACIÓ FÍSICA
+
+Exploració física: 160/90. Glicèmia 390mg/dl.
+
+NRL: vigil, orientat. No alteracions del llenguatge ni l'articulació. No afectació dels PPCC. Campimetria per confrontació normal. Hemiparèsia dreta (braquial 4+/5 i crural 3/5), hemihipoestèsia esquerra. No extinció visual ni sensitiva. Dismetria dit-nas dreta congruent amb el grau de parèsia.
+
+NIHSS: 00000/11010/01000: 4
+
+Informe d'alta d'hospitalització
+
+
+
+EXPLORACIÓ COMPLEMENTÀRIA
+ECG: Ritme sinusal. PR normal. QRS estret no alteracions de la repolartizació.
+
+Analítica sanguinea:
+-	Hemograma i coagulació normal.
+-	Bioquímica: Glucosa * 415 mg/dL, Urea 47 mg/dL, Creatinina 0.98 mg/dL, Urat 7 mg/dL, Proteïna 6.8 g/dL, Albúmina (sèrum) 4.1 g/dL, Colesterol * 159 mg/dL, HDL * 26 mg/dL, Colesterol LDL (calcul) 104 mg/dL, Triglicèrid
+147 mg/dL, Bilirubina total 0.54 mg/dL, GOT 35 U/L, GPT * 48 U/L, Gamma-glutamiltransferasa * 62 U/L,
+Fosfatasa alcalina 71 U/L, Lactat deshidrogenasa * 290 U/L, Creatincinasa (CK) 50 U/L, Amilasa * 13 U/L, Calci (II)
+8.6 mg/dL, Ió sodi * 128 mEqu/L, Ió potasi * 5.3 mEqu/L, Troponina T hs (alta sensibili * 14.4 ng/L
+
+- Hemoglonian Glicada (HgA1c): 10.1 % (normal: <5.7%; Objectiu: <7%)
+
+TC multimodal: Estudio sin  evidencia de lesiones  hemorrágicas ni isquémicas  agudas valorables. Moderada irregularidad/estenosis de segmentos A2-ACAs y de P2-ACP de predominio izquierdo.
+
+Estudi ultrasonogràfic
+Eco-Doppler de troncs supraaórtics: ateromatosis lleu amb placa a nivell d'ACC dreta fins a ACI sense condicionar estenosis significatives.
+Eco-Doppler Transcranial: ACA dreta amb buf rugós, sense acceleració del fluxe. ACMs simètriques. ACPs amb estenosis a abdues P1 amb VSM 180cm/s i fluxe posterior esmorteït. V4 i basilar normal.
+
+EVOLUCIÓ CLÍNICA
+Pacient admès a l'Unitat d'Ictus per a monitorització clínica i hemodinàmica intensiva, permanent estable, sense complicacions neurològiques, amb monitorització cardíaca normal.
+
+Bon control tensional. Es prescriu ADO amb el que es comença a millorar el control de glicèmies.
+
+Dada la estabilitat clínica, es decideix alta a domicili amb control en CCEE de neurologia i de FRV per equip d'atenció primària.
+
+Escalades neurològiques a l'alta:
+
+- NIHSS: 00000/10000/01000: 2
+-	Rankin: 2
+-	Barthel: 80
+
+ORIENTACIÓ DIAGNÒSTICA
+436/5 Infarto lacunar (sd. sensitivo-motor).
+437.0 Estenosis ACPs bilateral.
+
+401.1 Hipertensión arterial
+250.0 Diabetes Mellitus
+
+Informe d'alta d'hospitalització
+
+
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+-	Dieta baja en sal y grasas.
+-	Abandono del consumo de tabaco y reducción del consumo de alcohol.
+-	Control de los factores de riesgo cardiovascular
+-	Colesterol (LDL) <70 mg / dl
+-	Tensión arterial sistólica <135mmHg / Diastólica <85mmHg
+-	Glicada <7
+
+-	Tratamiento farmacológico:
+-	Adiro 100mg cada 24h después del desayuno
+-	Atorvastatina 80mg cada 24h por la noche
+-	Metformina 850
+
+CONTROL
+Control en CCEE de neurología (neurovascular) con estudfio ultrasonográfico de control (s'adunta). Valorar tractament rehabilitador en zona, segons evolució clínica.
+
+Control de FRV per equip d'atenció primària.
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+29.12.2017
+Pàgina 1 de 3

@@ -1,0 +1,156 @@
+_LOCATION_ Tel. _CONTACT_
+e-mail: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 65 Anys
+NIF/DNI: _ID__NAME_; _NAME_;
+ _NAME_;;_NAME_
+Informe d'alta d'hospitalització
+11:00:57
+06.12.2017
+_LOCATION_
+_SS_ MEDICINA FISICA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_; _CONTACT_
+AGUTS 20.11.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Paciente varón de 65 años procedente del servicio de neurología con hemiparesia braquiocrural derecha en el contexto de ictus lacunar capsulotalámico izquierdo, que ingresa el 29/11/2017 a nuestro Servicio para optimización funcional.
+
+ANTECEDENTS
+ANTECEENTES PERSONALES: sin alergias medicamentosas conocidas. Exfumador desde hace 5 años.
+
+ANTECEDENTES PATOLÓGICOS:
+-	Hipertensión arterial en tratamiento farmacológico. Buen control de las cifras tensionales.
+-Diabetes mellitus tipo 2 diagnosticada hace 2 años aproximadamente. En tratamiento con antidiabéticos orales, con buenos controles. No nefropatía, retinopatía ni neuropatía conocidas.
+-	Dislipemia en tratamiento farmacológico.
+
+Intervenciones quirúrgicas: amigdalectomía, meniscectomía rodilla derecha.
+
+Funcionalidad previa: Independiente para las actividades de la vida diaria, Rankin 0. Barthel 100.Trabajaba como transportista. Vive con su mujer en un piso sin barreras arquitectónicas.
+
+MEDICACIÓ HABITUAL
+Losartan 50 mg/24h, Metformina 850 mg/12h., Fenofibrato 160 mg/24h, Condrosan 400 mg/24h,
+
+PROCÉS ACTUAL
+Hombre de 65 años que ingresa el 20/11/17 por paresia de extremidades derechas y disartria de cuatro horas de evolución (NIHSS 3). A su llegada a urgencias presenta hipertensión arterial. El electrocardiograma está en ritmo sinusal. La analítica no muestra alteraciones. La TC craneal urgente no muestra lesiones, con estudio vascular por angioTC sin estenosis significativas ni oclusiones. Se orienta como ictus isquémico de territorio izquierdo indeterminado (clínicamente LACI) de mecanismo y etiología indeterminados. Se realiza tratamiento fibrinolítico (bolus 9mg, perfusión de 81mg, con tensión arteria prebolus de 170/100 mmHg), tras 4 horas y 27 minutos del inicio de la sintomatología. Clínicamente no presenta mejoría. La monitorización cardiaca en Urgencias no muestra alteraciones del ritmo. Se decide ingreso en planta de Neurología.
+
+Durante su ingreso el paciente se mantiene hemodinámicamente estable y afebril, con tendencia a la hiperglicemia. La TC craneal de control a las 24 horas muestra infarto capsulotalámico izquierdo de 1,7cm de diámetro máximo. La analítica de ingreso muestra hemoglobina glicada de 8,5%, leve hipertrigliceridemia, con perfil tiroideo correcto. El ecocardiograma transtorácico no muestra alteraciones. Se ha iniciado tratamiento antiagregante y con estatinas.
+
+Clínicamente persiste hemiparesia de extremidades derechas de predominio distal, con incapacidad para la deambulación y la bipedestación de forma autónoma. Ha tolerado dieta oral y ha iniciado tratamiento rehabilitador.
+
+Informe d'alta d'hospitalització
+
+
+
+
+Finalmente,  se orienta como  infarto  lacunar  gigante  capsulotalámico  izquierdo.  Dada  la estabilidad clínica y hemodinámica, se decide traslado al servicio de Rehabilitación para continuar tratamiento y fisioterapia.
+
+EXPLORACIÓ FÍSICA
+
+FC	bpm Tªaxi 36.0 ºC
+FR	rpm Tªrec  ºC
+TA s	148 mmHg SAT O2  %
+TA d   74 mmHg Pes Kg
+
+Exploración sistémica: Ruidos cardiacos regulares, no ausculto soplos. Murmullo vesicular preservado sin ruidos sobreañadidos.
+
+Exploración física al ingreso en Rehabilitación: Consciente y orientado. Lenguaje fluente sin elementos afásicos ni disartria. Campimetría por confrontación y oculomotricidad sin alteraciones. No paresia facial. Paresia braquial derecha de predominio distal con leve claudicación proximal BM deltoide, biceps, triceps 4/5 EC FC 4-/5 IO 3/5 garra 4/5 Pinzas 4/5 desde 2-º dedo pinza con 5º dedo T-l Falta destreza manual. Miller fisher, adiadococinesia. Paresia crural derecha psoas 4-/5 Q 4-/5 TA 1/5 TS 1/5 .Hemihipoestesia faciobraquicrural derecha. Babainski derecho. Bipedestación estable. Marcha requiere gran asistencia y no tiene control motor de EID que cruza con la otra pierna.
+
+
+Exploración física al alta de Rehabilitación (6/12/2017):
+Consciente y orientado en las tres esferas. Lenguaje correcto, fluente sin elementos afásicos ni disártricos. No paresia facial. Paresia braquial derecha de predominio distal con leve claudicación proximal: BM deltoides, bíceps, tríceps, EC (D/I) 4+/5, FC 4/5; IO 3/5; Pinzas TL desde 2o hasta 5o dedo, BM 3/5. Falta de control motor mano. Paresia crural derecha, con BM (D/I) proximal 4+/5; distal: TA 2/5,TS 3.
+Bipedestacion y deambulación estable con caminador, ayer provó la eambulación con una muleta, con buena tolerancia. En sala de terapias realiza deambulación en paralelas. Buena adapatación a AFO.
+
+EXPLORACIÓ COMPLEMENTÀRIA
+Electrocardiograma en ritmo sinusal sin alteraciones de la repolarización.
+
+Monitorización cardiaca en Urgencias: Sin eventos arrítmicos.
+
+Analíticas:
+Urgencias (20.11.2017): Hematologia (20/11/17): Leucocitos 4800 /µL, (N 48,5 % / L 42,2 / M 7,4 / E 1,2 / B 0,7), Htíes 4,33 mill/µL, Hb 14,5 g/dL, Hcto 40,5 %, VCM 93,5 fL, Plaquetes 196000 /µL, TP 95 %, INR 1,04 sg, TP
+ratio 1,04, TTPA 27,5 sg, TTPA ratio 0,89, Fibrinógeno 292 mg/dL.
+Bioquimica (20/11/17): Glucosa 247 mg/dL, Urea 31,1, Creatinina 0,62, Na 136,6 mmol/L, K 3,7, Prot-C reactiva
+2,5 mg/L.
+Ingreso (21.11.2017):
+- Hematologia (21/11/17): Leucocitos 5700 /µL, (N 53,8 % / L 35,8 / M 8,2 / E 1,8 / B 0,4), Htíes 4,34 mill/µL, Hb 13,9 g/dL, Hcto 40,4 %, VCM 93,1 fL, Plaquetes 204000 /µL.
+-	Bioquimica (21/11/17): Glucosa 186 mg/dL, HbA1c 8,5 %, Urea 26 mg/dL, Creatinina 0,64, Filtrado glomerular estimado >90 mL/min/1.73 m2, Uratos 5,4 mg/dL, Ca 9,1, Fosfato 2,9, Mg 1,91, Na 138,5 mmol/L, K 3,7, Cl 103,8,
+ALT 50 U/L, AST 49, GGT 45, FA 59, LDH 167, Bilirrubina 0,98 mg/dL, CK 119 U/L, Prot-C reactiva 3,4 mg/L,
+Proteína 71,4 g/L, Albúmina 40.
+-	Proteinograma: Sin alteraciones patológicas.
+-	
+Informe d'alta d'hospitalització
+
+
+
+
+-	Lípidos.- Triglicéridos230 mg/dL, Colesterol 165, (HDL 33,2 / LDL 86).
+- Hormonas (21/11/17): TSH 1,75 µUI/mL.
+-	Marcadores Tumorales (21/11/17):  CEA, PSA, CA-19-9, SCC, S100 Negativos
+
+Neuroimagen:
+TC   craneal   Urgencias   (20.11.2017):	No   se   observan   lesiones   isquémicas   ni   hemorrágicas  agudas. ASPECTS=10. No se aprecian alteraciones intra ni extraaxiales TC valorables.
+AngioTC: Vasos arteriales intra y extracraneales permeables, sin defectos de repleción y de calibre normal.
+
+TC craneal de control 24 horas (21.11.2017): Aparición de un área de baja atenuación de localización en porción posterior del caudado izquierdo, núcleo lenticular y brazo posterior de cápsula interna izquierda compatible con lesión isquémica subaguda de ramas de arteria cerebral media izquierda, sin evidenciarse signos de transformación hemorrágica TC valorable.
+
+Ecocardiograma transtorácico (21.11.2017):
+-	Ventrículo izquierdo no dilatado y normocontráctil (FE > 60%), ligeramente hipertrófico.
+-	Aurícula izquierda ligeramente dilatada
+-	Válvulas normofuncionantes
+
+Analítica general (29.11.2017): Hemograma: Leucòcits 5.80 x10^9/L; Hemoglobina 13.4 g/dL (VCM 94.2 fL; HCM
+31.9 pg); Hematòcrit 39.7 %; Plaquetes 194 x10^9/L. Bioquímica: Glucosa 182 mg/dL; Proteïna 69.6 g/L ; Urea 28 mg/dL; Filtrat glomerular (estimació segons CKD-EPI) >90 mL/min/1.73 m2; Creatinini 0.66 mg/dL; Ió Sodi 143.0 mmol/L; Ió Potassi 4.07 mmol/L; Bilirubina 0.79 mg/dL; Fosfatasa Alcalina 59 U/L; Aspartat-aminotransferasa 35 U/L; Alanina-aminotransferasa 43 U/L.
+
+EVOLUCIÓ CLÍNICA
+Hombre de 65 años con hemiparesia de extremidades derechas en el contexto de infarto lacunar gigante capsulotalámico izquierdo ingresado en Rehabilitación para optimización funcional.
+Durante su ingreso en Rehabilitación el paciente se ha mantenido clínica y hemodinámicamente estable. Ha presentado una mejoría del déficit y funcionalidad de forma progresiva. Con el objetivo de faciliar la deambulación se ha indicado una ortesis dinámica en el pie derecho y un caminador.
+Actualmente el paciente a la exploración física presenta:
+Consciente y orientado en las tres esferas. Lenguaje correcto, fluente sin elementos afásicos ni disártricos. No paresia facial. Paresia braquial derecha de predominio distal con leve claudicación proximal: BM deltoides, bíceps, tríceps, EC (D/I) 4+/5, FC 4/5; IO 3/5; Pinzas TL desde 2o hasta 5o dedo, BM 3/5. Falta de control motor mano.
+Paresia crural derecha, con BM (D/I) proximal 4+/5; distal: TA 2/5,TS 3.
+Bipedestacion y deambulación estable con caminador, actualmente valorando el uso de una muleta. En sala de terapias realiza deambulación en paralelas. Buena adapatación a AFO.
+Dada la estabilidad clínica y funcional se decide alta hospitalaria y deberá continuar tratamiento de Rehabilitación en régimen ambulatorio en nuestro hospital, se le comunicará por vía telefónica.
+Deberá seguir controles con Neurología y Rehabilitación.
+
+DIAGNÒSTICS
+436/5 Ictus lacunar capsulotalámico izquierdo.
+
+Informe d'alta d'hospitalització
+
+
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+-	Dieta oral sin sal baja en grasas
+-	Adiro 300mg 1 comprimido al mediodía.
+-	Atorvastatina 40mg 1 comprimido con la cena.
+-	Omeprazol 20mg 1 comprimido por la mañana.
+
+Resto de su medicación habitual: Losartan 50 mg/24h
+Metformina 850 mg/12h.
+Fenofibrato 160 mg/24h
+Condrosan 400 mg/24h
+
+CONTROL
+Control por médico de cabecera y especialistas habituales.
+Control en Consultas Externas de Neurología (Dra. _NAME_) el 14 de febrero a las 9:30h en la primera planta. Seguirá tratamiento de Rehabilitación en régimen ambulatorio de nuestro Hospital.
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+06.12.2017
+Pàgina 1 de 4

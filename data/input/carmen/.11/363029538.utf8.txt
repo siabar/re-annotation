@@ -1,0 +1,130 @@
+I.CLINIC DE NEUROCIÈNCIES NEUROLOGIA
+_NAME_	NHC: _ID_
+
+
+Sexo/Sexe: Masc.	Fecha nac./Data naix.: _DATE_	Edad/Edat: 90 años Dirección/Adreça: _LOCATION_	CP: _LOCATION_
+Municip. (Prov.): _LOCATION_  ABS:_SS_		Tel.:_CONTACT_ _NAME_ As.: SERVEI CATALA DE LA SALUT	CIP: _ID_	NASS: _ID_
+Nº epis.: _ID_	Tipo/Tipus: HOSPIT.	Inici.: 14.04.2017
+Serv: NEUROLOGIA	UO Enf.: E014 SALA E MED. INT. AVI	Hora: 05:30:35
+
+
+
+
+
+Tipo ingreso/Tipus ingrés: Urgent	Motivo/Motiu alta: Defunc.
+Diag.:
+INSUFICIENCIA RESPIRATORIA GRAVE NORMOCÁPNICA () NEUMONÍA BILATERAL BRONCOASPIRATIVA ()
+ÍLEO PARALÍTICO ()
+ICTUS ISQUÉMICO VERTEBROBASILAR () HIPERTENSIÓN ARTERIAL ()
+EXITUS LETALIS ()
+Proc.:
+ANALÍTICA SANGUÍNEA () RADIOGRAFÍA DE TÓRAX () MONITORIZACIÓN () CULTIVOS ()
+LNAF ()
+
+
+
+
+INFORME EXITUS
+
+Motivo de consulta / Motiu de consulta
+INSUFICIENCIA RESPIRATORIA AGUDA
+
+Antecedentes e historia previa / Antecedents i història prèvia
+Varón de 90 años, sin alergias medicamentosas conocidas ni hábitos tóxicos. Independiente para actividades básicas de vida diaria. Camina sin ayuda (mRs 1 por lumbalgia).
+
+ANTECEDENTES PATOLÓGICOS
+1.	HTA
+2.	ULCUS DUODENAL en 2016.
+3.	COLELITIASIS
+4.	HBP.
+5.	LUMBALGIA en seguimiento por médico de cabecera y traumatologo. Probable estenosis de canal lumbar. MEDICACIÓN HABITUAL: AAS 100mg, Torasemida 5mg, Finasteride, Flunarizina.
+Proceso actual / Procés actual
+Derivado desde _SS_ por sospecha de ictus vertebrobasilar. A su llegada hipertenso (TAS de hasta 200 mmHg). Afebril. A la exploración destaca voz disfónica, con disartria leve-moderada, facial derecho y franca disfagia referida por el paciente (NIHSS 2). Analítica sanguínea no muestra alteraciones. Neuroimagen
+
+
+inicial (TC MULTIMODAL) no muestra lesiones isquémicas agudas. Vasos extracraneales sin oclusiones. Intracraneal, destaca estenosis de ACPD.
+Refiere al despertar a las 03.00 del día 14/04 inestabilidad y debilidad en extremidad inferior drecha, con caída al suelo, asociada a disartria y desviación comisural derecha. Última vez visto asintomático a las 00:00h
+Se orienta como probable ictus lacunar en territorio vertebrobasilar en paciente con FRCV e ingresa en la unidad de ictus para monitorización y vigilancia de disfagia. Se coloca SNG para alimentación y administración de medicación. Se inicia heparina.
+En la unidad de ictus a las 24 horas del ingreso comienza cuadro de hipo persistente, náuseas y vómitos fecaloideos en contexto de ileo paralítico, por lo que a las 24 horas de iniciar alimentación enteral se para, se optimiza tratamiento  con nebulizaciones por empeoramiento respiratorio y se realiza Rx tórax que muestra infiltrados alveolares bilaterales por lo que se inicia tratamiento antibiótico empírico (piperacilina-tazobactam), corticoides, así como laxantes.
+Al presentar empeoramiento respiratorio  progresivo con aumento de roncus en ambos hemicampos, taquipnea 30 rpm con leve tiraje y deterioro gasométrico pese aumento de aporte oxígeno, se valora por Neumólogo de guardia quien inicia terapia con LAF con FIO2 70%.
+Se orienta como insuficiencia respiratoria aguda grave en contexto de neumonía bilateral broncoaspirativa secundaria a ileo paralitico en paciente con ictus vertebrobasilar con NIHSS 3 (disartria leve, paresia facial central derecha leve y dismetria leve de extremidades derechas) por lo que se traslada a la AVI para tratamiento y monitorización.
+
+Exploración física / Exploració física
+14/04/2017-06:00:00: Glicemia capilar (mg/dl) 88. 14/04/2017-07:00:00 : Frecuencia respiratoria (rpm) 11, PAS (mm Hg) 174, PAD (mm Hg) 79, Pulsi oximetría (%) 95, Tª axilar (ºC) 35.8.
+EXAMEN FÍSICO EN UNIDAD DE ICTUS: CyO. Disfonia. NRL: Consciente, orientado en las tres esferas. Lenguaje normofluente, sin rásgos afásicos. Disartria leve-moderada. Mirada centrada en posición primaria sin limitación de la excursión visual. Campimetría por confrontación sin déficits. Parálisis facial derecha leve. Balance muscular 4/5 simétrico en ambos brazos, 4-/5 miembro inferior derecho. No dismetrías. No hipoestesia ni negligencia. ACV: RsCsRs sin soplos. No soplos carotídea. AP: mvc sin sobreagregados
+
+EXAMEN FÍSICO AL INGRESO AVI:  Normocoloreado, euhidratado, afebril. CV: tendencia a HTA (200/59 mmHg) FC 89x' R1 y R2 normofonéticos silencios libres. Pulsos radiales presentes simétricos rítmicos. No edemas en MMII. No IY. Resp: Taquipneico con LNAF a 70%, SatO2 94% con MV conservado con crepitantes en hemicampo derecho. No fuerza para toser. ABD: Blando, depresible, no doloroso. No organomegalias. RHA+ disminuidos. SNG pinzada. NRL: Lenguaje normofluente sin afasia. Mirada en posición primaria centrada. Orientado. Disartria leve. No oftalmoparesias. Campimetria por confrontación sin déficits. Paresia facial central derecha leve. Balance motor conservado.No alteraciones sensitivas. Dismetria leve de extremidades derechas. Pupilas isocóricas reactivas.
+
+INDICADORES DE ESTANCIA EN UCI Indicador de gravedad: APACHE II: 12; Indicador disfunción orgánica: SOFA : 4; Indicadores de procedimiento: Indicadores de calidad intra-UCI:
+
+Laboratorio / Laboratori
+*	ANALÍTICA URGENCIAS (14/04/20107):
+-	BIOQUÍMICA GENERAL: PCR 0.09 mg/dL, Glucosa 101 mg/dL, Creatinina 0.87 mg/dL, FG [CKD-EPI] 75.92 ml/min/, Sodi 142 mEq/L, Potasi 3.6 mEq/L.
+-	HEMATIMETRIA: Leucòcits 10.23 10^9/L, Recompte d´hematies 5.18 10^ 12/L, hemoglobina 157 g/L, Hematòcrit 0.480 L/L, VCM 92.7 fl, HCM 30.3 pg, plaquetes 195 10^9/L, Neutròfils 8 10^9/L, Limfòcits 1.2 10^9/L, Monòcits 0.8 10^9/L.
+-	HEMOSTÀSIA GENERAL: TP 100%, TTPa 24 seg, INR 0.90.
+-	
+
+
+*	ANALÍTICA INGRESO AVI (17/04/2017):
+GSA con FiO2 70%: pH 7.44 pO2 63.8 pCO2 34 HCO3 23.
+-	BIOQUÍMICA GENERAL: PCR 29.11 mg/dL, Creatinina 1.19 mg/dL, FG [CKD- EPI] 53.41 ml/min/, Sodi 129 mEq/L, Potasi 5.8 mEq/L, Calci 7.30 mg/dL, Magnesi 1.8 mg/dL.
+-	HEMATIMETRIA: Leucòcits 9.14 10^9/L, Recompte d´hematies 4.14 10^12/L, Concentració d´hemoglobina 125 g/L, Hematòcrit 0.400 L/L, VCM 96.8 fl, HCM 30.3 pg, plaquetes 170 10^9/L, Neutròfils 8.7 10^9/L,
+Limfòcits 0.2 10^9/L, Monòcits 0.2 10^9/L.
+
+*	MICROBIOLOGÍA:
+-	Hemocultivo (16/04/2017): en curso
+-	Cultivo de esputo (16/04/2017): muestra no representativa
+-	Urinocultivo (16/04/2017): negativo
+- Frotis nasal (16/04/2017 y 19/04/2017): negativo
+
+Radiología / Radiologia
+*	RX TORAX: ICT conservado con infiltraddos bilaterales.
+* TC CRANEAL (14/04/2017):
+TC CEREBRAL BASAL: No se observan imágenes de sangrado agudo intra ni extraxial. Diferenciación corticomedular conservada (ASPECTS 10). Hipodensidad de la sustancia blanca periventricular, subcortical y en centros semiovales e imágenes lacunares en ganglios de la base bilaterales en relación a microangiopatía crónica. Disminución global del volumen cerebral con dilatación secundaria del sistema ventricular por cambios involutivos. Estructuras de la línea media centradas. Cisternas basales libres. Espacios extraxiales conservados.
+TC PERFUSIÓN: No se observan alteraciones ni discordancias significativas entre los mapas de perfusión. ANGIO-TC INTRA Y EXTRACRANEAL: Arco aórtico y segmentos proximales de troncos supraórticos con placas de ateromatosis calcificada sin estenosis significativa. Origen de la ICA D con placa ateromatosa calcificada que condiciona estenosis 20-30%. Origen de ICA I con placa ateromatosa calcificada que condiciona estenosis del 50-70%. Segmentos intracavernoso y supraclinoideo de ambas carótidas internas con placas ateromatosas calcificadas,  con  estenosis  en  lado  derecho  <30%  y  en  lado  izquierdo  30-50%.  Origen  de  las  arterias vertebrales  sin  ateromatosis  ni  signos  de  estenosis.  Arteria  vertebral  izquierda  dominante.  La  arteria vertebral derecha  muestra un afilamiento progresivo  en sus segmentos V3  y V4, terminando en PICA. Presenta en estos segmento algunas placas ateromatosas con una pequeña calcificación, lo que podría estar en relación a estenosis crónica severa (>70%), sin poder descartar componente agudo (disección) dado el contexto. A valorar clínicamente la necesida de ampliación de estudio mediante RM. Resto de las principales arterias cerebrales intracraneales (ACAs, ACMs y ACPs) permeables. Arteria basilar permeable.
+
+Exploraciones complementarias / Exploracions complementàries
+
+*ECG: mala calidad, vibrado, ritmo sinusal a 90 lpm, correcta progresión RS en precordiales, eje QRS a 30º, PR y QT correctos, no bloqueos de rama o alteraciones de la repolarización.
+
+Evolución / Evolució
+1.	ICTUS ISQUÉMICO VERTEBROBASILAR
+2.	DISFAGIA SECUNDARIA A 1.
+3.	ÍLEO PARALÍTICO
+4.	NEUMONÍA BILATERAL BRONCOASPIRATIVA EN CONTEXTO DE 3. Y 4.
+5.	INSUFICIENCIA RESPIRATORIA HIPOXÉMICA EN CONTEXTO DE 4.
+6.	EXITUS LETALIS
+1-6. A su llegada destaca esfuerzo respiratorio con uso de músculos accesorios se reinicia LNAF con FiO2 70%. Se mantiene antibioticoterapia iniciada (piperacilina-tazobactam), se aumentan nebulizaciones. Se coloca vía arterial sin incidencias, GSA al ingreso pH 7.44 con pO2 63 y pCO2 34.
+
+
+
+Se mantiene en famis y con tratamiento antihemético y no vuelve a presentar náusea o vómitos. No hay aislamiento microbiológico y se amplia la cobertura antibiótica a piperacilina-tazobactam + ciprofloxacino.
+El paciente se mantiene afebril y hemodinamicamente estable pero presenta deterioro respiratorio progresivo. Se decide, conjuntamente con la familia, que, dado el estado basal y la afectación secundaria al AVC, el paciente no es tributario a maniobras invasivas como IOT y VMI.
+A pesar del tratamiento instaurado con optimización de la oxigenoterapia no invasiva el paciente presenta mala evolución clínica siendo EXITUS LETALIS el día 22 de Abril de 2017 a las 02:00H.
+
+Plan terapéutico / Pla terapèutic
+.
+
+Otras recomendaciones / Altres recomanacions
+.
+
+
+
+Firma/Signatura1: _NAME_	Firma/Signatura2: _NAME_ Categoría: Espec. Senior	Categoría: Consultor/a 1
+Nº Matrícula HCP: _ID_	Nº Matrícula HCP: _ID_
+
+Fecha/Data Informe: 22.04.2017
+Hora Informe: 02:06:11
+
+Docum.: _ID_
+Hist. Clínica: _ID_
+El _SS_ ha incorporado sus datos al Fichero de Pacientes, para tratarlos con fines sanitarios.
+Puede ejercer sus derechos de acceso, rectificación, cancelación y oposición, así como obtener mas información en la Unidad de Atención al Cliente.
+Vers. 00
+Pag. 2 de
+4
+Episod.: _ID_
+_SS_ ha incorporat les seves dades al Fitxer de Pacients, per a tractar-los amb finalitats sanitàries. Pot exercir els seus drets d'accés, rectificació, cancel·lació i oposició, i obtenir més informació a la Unitat d'Atenció al Client.
+_SS_
+_LOCATION_) _LOCATION_) Tel. _CONTACT_ Fax _CONTACT_
+http://_CONTACT_/

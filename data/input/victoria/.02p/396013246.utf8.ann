@@ -1,0 +1,104 @@
+T0	FECHA 258 268	30.07.2017
+#0	AnnotatorNotes T0	2017-07-30
+T1	HORA 269 274	11:53
+#1	AnnotatorNotes T1	11:53
+T2	FECHA 338 348	27.07.2017
+#2	AnnotatorNotes T2	2017-07-27
+T3	SECCION_MOTIVO_DE_INGRESO 413 427	MOTIU D'INGRÉS
+T4	SECCION_ANTECEDENTES 467 478	ANTECEDENTS
+T5	SECCION_ANTECEDENTES 629 653	ANTECEDENTES PATOLÓGICOS
+T6	FECHA 742 755	enero de 2017
+#6	AnnotatorNotes T6	2017-01-UNDEF-day
+T7	_SUG_Tratamiento_anticoagulante_alta 842 849	Sintron
+T8	_SUG_Tratamiento_anticoagulante_hab 842 849	Sintron
+T9	FECHA 861 873	pasado lunes
+#9	AnnotatorNotes T9	2017-07-24
+T10	SECCION_ANTECEDENTES_PERSONALES 479 502	ANTECEDENTES PERSONALES
+T11	_SUG_mRankin_alta 593 598	mRS 0
+T12	_SUG_mRankin_previa 593 598	mRS 0
+T13	SECCION_TRATAMIENTO_HABITUAL 1213 1231	MEDICACIÓ HABITUAL
+T14	_SUG_Tratamiento_antiagregante_alta 1232 1237	Adiro
+T15	_SUG_Tratamiento_antiagregante_hab 1232 1237	Adiro
+T16	SECCION_PROCESO_ACTUAL 1414 1427	PROCÉS ACTUAL
+T17	FECHA 1433 1443	27.06.2017
+#17	AnnotatorNotes T17	2017-06-27
+T18	HORA 1455 1460	09:00
+#18	AnnotatorNotes T18	09:00
+T19	_SUG_Ictus_isquemico 1946 1951	ictus
+T20	HORA 1958 1963	13:27
+#20	AnnotatorNotes T20	13:27
+T21	HORA 1995 2000	13:57
+#21	AnnotatorNotes T21	13:57
+T22	SECCION_EXPLORACION_FISICA 2004 2021	EXPLORACIÓ FÍSICA
+T23	SECCION_EXPLORACION_FISICA_EN_URGENCIAS 2111 2142	Exploración física en Urgencias
+T24	_SUG_NIHSS_alta 2596 2641	NIHSS: (0.0.0)0.0/0.(0.0)(0.0)/0.0.1.0 .0 = 1
+T25	_SUG_NIHSS_previa 2596 2641	NIHSS: (0.0.0)0.0/0.(0.0)(0.0)/0.0.1.0 .0 = 1
+T26	SECCION_EXPLORACION_FISICA_DURANTE_HOSPITALIZACION 2643 2691	Exploración física al alta de la unidad de ictus
+T27	_SUG_Ictus_isquemico 2686 2691	ictus
+T28	_SUG_NIHSS_alta 2921 2929	NIHSS= 0
+T29	_SUG_NIHSS_previa 2921 2929	NIHSS= 0
+T30	SECCION_EXPLORACIONES_COMPLEMENTARIAS 2932 2957	EXPLORACIÓ COMPLEMENTÀRIA
+T31	SECCION_EXPLORACIONES_COMPLEMENTARIAS_EN_URGENCIAS 2958 3000	EXPLORACIONES COMPLEMENTARIAS EN URGENCIAS
+T32	FECHA 3025 3033	27/07/17
+#32	AnnotatorNotes T32	2017-07-27
+T33	FECHA 3282 3290	27/07/17
+#33	AnnotatorNotes T33	2017-07-27
+T34	FECHA 3393 3401	27/07/17
+#34	AnnotatorNotes T34	2017-07-27
+T35	_SUG_TAC_craneal 3405 3407	TC
+T36	_SUG_TAC_craneal 3426 3428	TC
+T37	FECHA 3440 3450	27.07.2017
+#37	AnnotatorNotes T37	2017-07-27
+T38	HORA 3451 3456	14:31
+#38	AnnotatorNotes T38	14:31
+T39	_SUG_TAC_craneal 3458 3460	TC
+T40	_SUG_TAC_craneal 3610 3612	TC
+T41	_SUG_Localizacion 3647 3655	cortical
+T42	_SUG_Localizacion 3656 3663	frontal
+T43	_SUG_Lateralizacion 3664 3673	izquierdo
+T44	_SUG_Arteria_afectada 3746 3749	ACM
+T45	_SUG_Lateralizacion 3750 3759	izquierda
+T46	_SUG_Ictus_isquemico 3902 3907	ICTUS
+T47	FECHA 3989 3999	28/07/2017
+#47	AnnotatorNotes T47	2017-07-28
+T48	_SUG_Lateralizacion 4013 4022	izquierdo
+T49	_SUG_Lateralizacion 4107 4116	izquierdo
+T50	_SUG_Lateralizacion 4227 4228	I
+T51	SECCION_EVOLUCION 4231 4247	EVOLUCIÓ CLÍNICA
+T52	_SUG_mRankin_alta 4269 4277	mRS de 0
+T53	_SUG_mRankin_previa 4269 4277	mRS de 0
+T54	_SUG_Tratamiento_anticoagulante_alta 4389 4396	sintrom
+T55	_SUG_Tratamiento_anticoagulante_hab 4389 4396	sintrom
+T56	_SUG_TAC_craneal 4655 4665	TC cranial
+T57	_SUG_TAC_craneal 4753 4755	TC
+T58	_SUG_Localizacion 4786 4794	cortical
+T59	_SUG_Arteria_afectada 4819 4822	ACM
+T60	_SUG_Lateralizacion 4823 4832	izquierda
+T61	_SUG_Trombolisis_intravenosa 4937 4961	tratamiento trombolítico
+T62	_SUG_Ictus_isquemico 4997 5002	ictus
+T63	_SUG_Ictus_isquemico 5040 5045	ictus
+T64	_SUG_Ictus_isquemico 5287 5292	ictus
+T65	_SUG_Etiologia 5293 5307	cardioembólico
+T66	_SUG_Tratamiento_anticoagulante_alta 5402 5409	sintrom
+T67	_SUG_Tratamiento_anticoagulante_hab 5402 5409	sintrom
+T68	_SUG_Tratamiento_anticoagulante_alta 5531 5538	clexane
+T69	_SUG_Tratamiento_anticoagulante_hab 5531 5538	clexane
+T70	_SUG_NIHSS_alta 5683 5690	NIHSS 0
+T71	_SUG_NIHSS_previa 5683 5690	NIHSS 0
+T72	_SUG_mRankin_alta 5691 5696	mRS 0
+T73	_SUG_mRankin_previa 5691 5696	mRS 0
+T74	SECCION_DIAGNOSTICOS 5699 5710	DIAGNÒSTICS
+T75	_SUG_Ictus_isquemico 5714 5729	Ictus isquémico
+T76	_SUG_Arteria_afectada 5741 5744	ACM
+T77	_SUG_Lateralizacion 5745 5754	izquierda
+T78	_SUG_Etiologia 5784 5798	cardioembólica
+T79	SECCION_TRATAMIENTO_Y_RECOMENDACIONES_AL_ALTA 5840 5875	TRACTAMENT I RECOMANACIONS A L'ALTA
+T80	_SUG_Tratamiento_anticoagulante_alta 5910 5917	Clexane
+T81	_SUG_Tratamiento_anticoagulante_hab 5910 5917	Clexane
+T82	_SUG_Tratamiento_antiagregante_alta 5967 5972	Adiro
+T83	_SUG_Tratamiento_antiagregante_hab 5967 5972	Adiro
+T84	_SUG_Etiologia 5994 6002	habitual
+T85	SECCION_CONTROL 6153 6160	CONTROL
+T86	SECCION_DESTINO_AL_ALTA 6193 6212	DESTINACIÓ A L'ALTA
+T87	FECHA 6266 6276	30.07.2017
+#87	AnnotatorNotes T87	2017-07-30

@@ -1,0 +1,116 @@
+_LOCATION_
+email: _CONTACT_ Telèfon _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 87 Anys
+NIF/DNI: _ID__NAME_; _NAME_;
+ _NAME_; _NAME_
+Informe de Trasllat a Sociosanitari
+13:43:07
+07.04.2017
+_LOCATION_
+_SS_ NEUROLOGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_; _CONTACT_
+DOMICIL/RES.SOC 01.04.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Mujer de 87 años que ingresa por ictus (TACI) ACM D.
+
+ANTECEDENTS
+Antecedentes personales
+-Sin alergias medicamentosas concoidas.
+
+Antecedentes médico-quirúrgicos
+-HTA
+-Fibrilación auricular. Se suspendió tratamiento anticoagulante tras hematuria en contexto de litiasis renal. #
+-Cardiopatía hipertensiva
+-Osteoporosis
+-Hipotiroidismo en tratamiento.
+-Litiasis renal recidivante, litotricia en dos ocasiones en _SS_.
+-Posible síndrome mielodisplásico que rechazó estudio mediante aspirado de médula osea.
+
+Situación sociofuncional: vive sola, supervisión por una hija. Independiente para las actividades básicas e instrumentales de la vida diaria. Limitación leve por artropatía. mRS 1.
+
+MEDICACIÓ HABITUAL
+Eutirox 100cmg 1cp/día, nolotil 575mg/día, Paracetamol 1g/8h, Trankimazin 0.5 1.5cp/día
+
+PROCÉS ACTUAL
+Habiéndose despertadado asintomática, presenta caída al suelo 12h, con imposibilidad de levantarse por debilidad de extremidades izquierdas. Su hija intenta contactar en diversas ocasiones vía telefónica sin éxito, por lo que decide acudir al domicilio ytras hallar a su madre contacta con SEM. Se activa código ictus.
+Els símptomes s'inicien el dia01/04/2017 a les  12:00:00.
+
+EXPLORACIÓ FÍSICA
+
+Exploración física en Urgencias: PAS91 , PAD 67 mmHg // FC de85  // NIHSS a sala de11  // NIHSS total de18
+,  (Vigil,  orientada, disartria moderada (1),  DOC  D  (2),  HHI  (2),  PFSN  I  (2),  hemiplejia BC  izquierda  (4+4) Hemianestesia izquierda (2), anosognosia (1) )
+Vigil,  orientada,  disartria  moderada  (1),  DOC  D  (2),  HHI  (2),  PFSN  I  (2),  hemiplejia  BC  izquierda  (4+4) Hemianestesia izquierda (2), anosognosia, asomatognosia (1)
+
+Exploración física en Unidad de Ictus: PAS132, PAD 76 mmHg // FC64  // Temperatura36 ºC
+Disartria  leve  (1),  paresia  facial  pseudoperiférica  (2),  hemiparesia  izquierda  braquial  0/5  (4)  C  2/5  (3), Hemihipoestesia I (1) NIHSS 11
+
+Informe de Trasllat a Sociosanitari
+
+
+
+
+Exploración física en Planta de Neurología: Constantes: TA 104/47 mmHg, FC 70 lpm, Tª 35.9ºC, SatO2 97% (aa).
+Vígil, alerta, orientada en las tres esferas. Disartria moderada pero inteligible (1). No déficit campimétrico por confrontación. Paresia facial pseudoperiférica izquierda (3). No hipoestesia facial. Hemiparesia braquio 0/5 (4) crural 1/5 (3). Sensibilidad sin déficits objetivables. No extinciones ni anosognosias. No dismetrías desproporcionadas. NIHSS 11.
+
+EXPLORACIÓ COMPLEMENTÀRIA
+Exploraciones complementarias en Urgencias
+-Analítica general: hemograma coagulado. Hemostasia y bioquímica básica sin alteraciones destacables.
+-ECG: ACxFA.
+-TC multimodal urgente: Estudi cranial multifàsic que mostra zona d'infart establert a nivell ganglibasal dret. Suboclusió llarga del segment M1 de l'artèria cerebral mitja dreta. En l'estudi de perfusió s'observa mismatch del seu territori.
+-Trombectomía: Punción femoral derecha, introductor 6F 90 cm La serie de aCi derecha muestra oclusión ACI terminal post A com Posterior Se realizan 2 pases de Solitaire 4x30 + aspiración por navien 0.072 logrando TICI 2c. Mynx grip + compresivo Ingresa en la unidad de ictus.
+
+Exploraciones complementarias en Unidad de Ictus
+-TC control 24 horas: Estudio que muestra obliteración de la cisura de Silvio derecha por material denso o que plantea el diagnostico diferencial entre componente de hemorragia subaracnoidea o presencia de  contraste post-trombectomía.
+-Analítica completa de ingreso: Htes 5.19 x10E12/L, Hb 13.9 g/dL, Hto 44.7%, VCM 86.1 fL, HCM 26.8 pg, ADE 18.5%, Leucocitos 5.41 x10E9/L (N 78.2%, L 10.5%, M 10.9%, E 0%, B 0.4%), Plaquetas 154 x10E9/L, T
+Protrombina 86%, INR 1.09, TTPA 1.13 ratio, Glucosa 105 mg/dL, HbA1c 5.3%, Fructosamina 235 micromol/L, Urea 35 mg/dL, Cr 0.85 mg/dL, FG 62 ml/min/1,73 m2, Urato 1.7 mg/dL, Bi 1.24 mg/dL, Bi esterificada 0.47 mg/dL, Na 139.8 mmol/L, K 3.64 mmol/L, Ca 8.3 mg/dL, AST 43 UI/L, ALT 11 UI/L, FA 69 UI/L, GGT 26 UI/L, Colesterol
+total 121 mg/dL, HDL 48 mg/dL, LDL 56 mg/dL, Triglicéridos 84 mg/dL. Proteínas totales 6.8 g/dL, Albúmina 3.8 g/dL, PCR 6.19 mg/dL, TSH 3.976 mU/L, T4 1.08 ng/dL.
+*Lipoproteína A pendiente.
+-Sedimento urinario: Leucocitos 7992.6 cel/microL, Eritrocitos 160.7 micromol/L, Células epiteliales 43.9 cél/microL, bacterias 426 bact/microL.
+*Urocultivo positivo para E. Coli, pendiente de tipificación y antibiograma.
+
+Informe de Trasllat a Sociosanitari
+EVOLUCIÓ CLÍNICA
+Paciente mujer de 867 años, mRS 1, vivía sola, con antecedentes a destacar de FA antiagregada desde septiembre aproximadamente que habian retirado Rivaroxaban por hematuria, Hipotiroidea en tratamiento sustitutivo y artrosis de rodillas. Encontrandose previamente asintomática sufre caída alrededor de las 12:00. A las 17:55 la encuentra la familia con hemiparesia I. Se activa codigo ictus y a su llegada a _SS_ se objetiva NIHSS 18 clinica compatible con ictus completo ACM D. Se realiza TC multimodal que muestra posible lesion a nivel lenticular y de capsula interna (ASPECTS 8), oclusión M1 D proximal y mistmach en todo el territorio superficial ACM D. Por tiempo de evolución y hallazgos en TC se decide tratamiento intraarterial primario. Se informa a la familia que firma consentimiento informado. Hora de llegada a sala a las 19:41. TA 162/102, 74 lpm. Hora de punción 19:49. En la primera serie realizada a las 19:57 se objetiva oclusión M1 proximal (TICI 0). Se realiza un primer pase con Solitaire a las 20:05 no se consigue recanalización. Tras un segundo pase a las 20:14 se consigue recanalización completa TICI 3. Sin incidencias durante el procedimiento, presenta NIHSS 15 a expensas de POC D (1), HHI (2), PFSN I (2), Hemiparesia B 0/5 (4) C 2/5 (3), Hemihipoestesia I (1), Heminegligencia, Anosognosia y Asomatognosia (2). Ingresa en la Unidad de Ictus para control evolutivo.
+Durante su estancia en la Unidad de Ictus se mantiene hemodinámicamente estable, con mejoría clínica progresiva precisando RHB precoz. Se realiza TC de control  a las 24 horas que muestra pequeña lesión hipodensa por infarto ACM derecha profundo con posible TH vs retención de contraste. La paciente pasa a planta, manteniéndose estable clínica y hemodinámicamente. Finalmente y en situación de estabilidad clínica, se decide traslado a CSS (_SS_) para continuar rehabilitación y convalescencia.
+En cuanto al tratamiento profiláctico secundario, se considera que la paciente es tributaria de reiniciar tratamiento anticoagulante. Se solicita por tanto TC craneal de control a realizar de forma programada para valorar evolución de la imagen hiperdensa. El mismo día del TC acudirán familiares a la Unidad de Ictus para ver resultados de dicha prueba e iniciar tratamiento anticoagulante en función de resultados.
+
+DIAGNÒSTICS
+-Ictus isquémico de ACM D de etiología cardioembólica.
+-Posible transformación hemorrágica vs retención de contraste yodado.
+-Fibrilación auricular.
+
+PROCEDIMENTS
+TC craneal multimodal Trombectomíamecánica TC craneal de control Analítica
+Sedimento urinario Telemetría EcoScan
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Se adjunta medicación hospitalaria.
+
+CONTROL
+-Acudirá a realización de TC control al día y hora que le serán citados (se le avisará telefónicamente o por correo ordinario). El mismo día tras la realización de TC craneal, acudirán sus familiares a la Unidad de Ictus (2ª Planta) para revisión de resultados y valorar reinicio de tratamiento anticoagulante.
+
+Informe de Trasllat a Sociosanitari
+
+-Acudirá a visita en CEX Neurovascular (3ª Planta anexos) el día 25 de Octubre de 2017 a las 09:30h.
+
+DESTINACIÓ A L'ALTA:	SOCI SANITARI
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+07.04.2017
+Pàgina 1 de 4

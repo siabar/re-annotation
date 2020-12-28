@@ -1,0 +1,102 @@
+_LOCATION_
+_LOCATION_) Anul·lació/Reprogramació visites:_CONTACT_
+Telèfon Centraleta: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 81 Anys
+NIF/DNI: _ID_Adreça	_LOCATION_	CP	_LOCATION_
+Telèfon	_CONTACT_; _CONTACT_ PACIENT; _CONTACT_ ABS	_SS_
+Procedència	DOMICIL/RES.SOC	Servei	NEUROLOGIA
+Data d'ingrés  06.03.2017	Data d'alta  13.03.2017	14:30:43
+Atès per	_NAME_; _NAME_; _NAME_
+Informe d'alta d'hospitalització
+
+
+MOTIU D'INGRÉS
+Ictus de ACM derecha de etiología cardioembólica por FA de debut.
+
+ANTECEDENTS
+-No alergias medicamentosas conocidas.
+-No hábitos tóxicos.
+-FRCV: HTA en tratamiento médico. No DLP ni DM conocidas.
+-Carcinoma de endometrio (subtipos 1-endometrioide), extensión II, G1, tratado con IQ (HTS+AB+linfa pélvica bilateral 22/12/2011)+ RDT adyuvante (19-3-12) + BTP (3-4-12). En seguimiento por ONC, última visita 2/03/17 IK: 90%. Citologia 29-09-16: negativo para células malignas. ID: NER. Pendiente de repetir citologia, TC de pelvis de control y visita 29/04/17.
+-Insuficiencia venosa crónica. Sospecha de tromboflebitis valorada en _SS_ 31/01/17, por lo que recibió clexane durante 10 días y está pendiente de Eco Doppler de MMII (3/06/17).
+-	Hepatitis vírica en 1956.
+-	Coxartrosis
+-Intervenciones quirúrgicas: HTS+AB+linfa pélvica bilateral (22/12/2011).
+-Situación basal: Independiente para ABVD. mR 0.
+
+MEDICACIÓ HABITUAL
+Dolocatil 1g /8h, Enalapril 10mg/12h, Gabapentina 100mg/24h, (Enoxaparina  sc dosis profilacticas 10 dias a finales de enero)
+
+PROCÉS ACTUAL
+Vista asintomática por última vez por los hijos a las 22h. La paciente refiere que se va a dormir asintomática a las 23h. EL 06/03 sobre las 05h00 familiares escuchan un ruido (son vecinos), entran en domicilio y la encuentra con desviación oculocefálica, desviación de comisura bucal y debilidad de extremidades izquierdas por lo que avisan al SEM. Activan código ictus desde domicilio a las 05:47h. Llega a urgencias de _SS_ a las 06:04h. TC craneal a las 06:20h.
+
+En urgencias HDME con TA 123/76 mmHg, coaguchek 1, FA de debut. Neurológicamente se encuentra consciente, dice mes y edad. disartria severa (2), DOC a la derecha (2), HHI por amenaza (2), PFSN izq (2), paresia braquial izquierda 1/5 (4), paresia crural izquierda 3/5 (2), hemianestesia izquierda (2), no agnosias. NIHSS 16. Se realiza Tc craneal que objetiva ASPECTS 10, TC de perfusión con área de missmatch y AngioTC con oclusión en segmento M1 de ACM derecha, con repermeabilización distal. La Rx de tórax muestra cardiomegalia, aumento de redistribución broncovascular bilateral, no condensaciones. ECG en fibrilación auricular con rvm en torno a 140 lpm, QRS estrecho, no alt de la repolarización, por este motivo se administra digoxina ev.
+
+Se orienta el caso como Ictus de ACM derecha de etiología cardioembólica por FA de debut con oclusión de segmento M1 de ACM derecha, o candidata a rTPA por ictus del despertar, si candidata a terapia endovascular.
+
+Se realiza Trombectomía mecánica obteniendose recanalización completa tras un pase de Solitaire. Finaliza el
+
+Informe d'alta d'hospitalització
+
+
+
+
+procedimiento a las 8:14, se retira el introductor. Se traslada a UCI 2.1.
+
+EXPLORACIÓ FÍSICA
+
+TA 112/64 Fc 86 SatO2 96% Afebril
+Buen estado general, tensión arterial conservada.
+NRL: vigil, alerta, consciente y orientada (responde mes y edad), cumple órdenes, MOEs conservados, no déficits visuales, PFSN izquierda (1), no déficits motores ni sensitivos, no disartria, no alteraciones del lenguaje,  no extinsión visual ni sensitiva. NIHSS 1.
+AC: Tonos cardíacos arrítmicos, taquicárdicos. AR: MVC.
+ABD: Peristaltismo conservado. EEII: no edema ni signos de TVP.
+
+
+EXPLORACIÓ COMPLEMENTÀRIA
+Urgencias
+Analítica: EAB venós: pH 7.391; CO2 37mmHg; HCO3- 21.9mmol/L; EB -2.0mmol/L. Bioquímica: Glucosa mmol/L; Urea mmol/L; Cr umol/L; Na+ mmol/L; K+ mmol/L; Coagulació: TTPA 0.99; TP 1.00. Hemograma: Hb 136g/L; Hto 41%; VCM 88fL; Plaquetes 259x10E9/L; Leucòcits 8.06x10E9/L (Neutròfils 6.35x10E9/L, Limfòcits 153x10E9/L; N 73.8%, L 17.7%).
+Rx de tórax: cardiomegalia, aumento de redistribución broncovascular bilateral, no condensaciones.
+ECG: Fibrilación auricular con rvm en torno a 140 lpm, QRS estrecho, no alt de la repolarización. Presenta FA rápida con rvm hasta 150 lpm por lo que se administra 1 amp de digoxina.
+TC Craneal: ASPECTS 10. TC de perfusión: área de missmatch. AngioTC: oclusión en segmento M1 de ACM derecha, con repermeabilización distal. Pendiente de informe.
+
+Neurología
+Tc craneal control: No sufusión hemorrágica, posible foco de isquemia aguda frontal opercular y lenticulo-capsular externa derecha.
+Analítica ingreso: función renal (urea, creatinina, FG) normal. Equilibrio hidroelectrolítico (Na, K) normal. Glucosa normal. Bioquímica hepática (AST, ALT, GGT, FA) normal. Proteina 58 g/L. Ca normal. Perfil hemoglobina (A1c, glucosa media) normal. Immunoproteinas: albúmina 54.8%, alfa1 glob 5.4%, alfa 2 glob 14.1%, beta glob 10.9%, gamma glob 14.8%. Hemograma: serie roja normal, plaquetas normales, serie blanca con 1.160 linfocitos (19.7%) y resto normal. VSG 37mm. Coagulación (TP, TTPA, fibrinógeno) normal.
+Serología: negativa para treponema pallidum.
+RMN y angio RMN cerebral: Infarto agudo establecido cápsulolenticular derecho, territorio profundo de ACM. Secuencia angioRM sin alteraciones valorables. Signos de hipoperfusión crónica de la sustancia blanca. Patrón de pérdida de volumen de parénquima encefálico que se puede incluir dentro de los cambios involutivos normales con la edad.
+ETT: Ventrículo izquierdo no dilatado, ligeramente hipertrófico. Función sistólica normal. Ventrículo derecho no dilatado, contractilidad en el límite de la normalidad. Dilatación AI moderada. Raiz aórtica y aorta ascendente no
+
+Informe d'alta d'hospitalització
+
+
+
+
+dilatadas. Válvula aórtica trivalva, insuficiencia central de grado ligero. Válvula mitral de aspecto normal, insuficiencia moderada compuesta por dos jets centrales. Insuficiencia tricuspidea ligera-moderada que permite estimar PAPs de 53mmHg. Flujo pulmonar acortado. Vena cava inferior dilatada y poco móvil. Ausencia de derrame pericárdico.
+Eco dopler venoso de EEII: pendiente de informe.
+
+
+EVOLUCIÓ CLÍNICA
+Paciente de 81 años y mR 0 que presenta ictus de territorio de ACM D del despertar de etiología cardioembólica en contexto de fibrilación auricular de debut. No candidata a rtPA por ser un despertar, se realiza trombectomia mecánica con recanalización completa y buena evolución posterior durante su ingreso en UCI y Unidad de Ictus. Por monitor se mantiene en FA con respuesta ventricular mantenida con tratamiento frenador con dosis bajas de b-bloqueante. Desde el punto de vista neurológico presenta mejoría clara con NIHSS de 1 por mínima PFSN izquierda, iniciando sedestación y deambulación con fisioterapeuta con buena evolución. Se realiza TC de control que descarta complicación hemorrágica por lo que se inicia prevención secundaria con Warfarina según pauta de Hemostasia.
+En analítica de ingreso destaca proteina de 58g/L, leucopenia de 1.160 (19,7%) y VSG 37mm con resto de parámetros dentro de la normalidad. La serología de lues es negativa. Se realiza RMN y Angio RMN que muestra infarto agudo establecido cápsulolenticular derecho, territorio profundo de ACM, sin complicaciones. En Eco TT destaca ventrículo izquierdo ligeramente hipertrófico, dilatación AI moderada, válvula aórtica trivalva, insuficiencia central de grado ligero, válvula mitral con insuficiencia moderada compuesta por dos jets centrales, insuficiencia tricuspidea ligera-moderada que permite estimar PAPs de 53mmHg, flujo pulmonar acortado y vena cava inferior dilatada y poco móvil.
+Como inicidencias la paciente en enero presentó episodio orientado como tromboflebitis en pierna derecha por lo que recibió tratamiento con Clexane durante 10 días y tenía programado ECO venoso de extremidades inferiores  el día 03/03 en hospital de zona que no se puede realizar por ingreso, por lo que la solicitamos en nuestro hospital. No podemos acceder al informe por problemas informáticos. Contactamos con laboratorio de C Vascular que informan de trombosis gemelar y tromboflebitis de vena safena en MID. Contactamos con ACV de guardia que explica que el manejo es anticoagulación durante 3 meses. Por nuestra parte la paciente ya ha empezado anticoagulación y tiene indicación de tratamiento indefinido. A parte, recomienda seguimiento por ACV de _SS_.
+La paciente es alta a domicilio (recomendamos supervisión inicialmente y según evolución). Realizará seguimiento por _SS_ y C Vascular y Cardiología de zona.
+
+DIAGNÒSTICS
+Ictus ACM derecha. Fibrilación auricular. Trombosis vena gemelar MID.
+
+CONTROL
+Control por médico de familia. Derivar a Cirugía Vascular y Cardiología de zona. Control en CEX de Neurología (Dr _NAME_) en la fecha indicada.
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+13.03.2017
+Pàgina 1 de 3

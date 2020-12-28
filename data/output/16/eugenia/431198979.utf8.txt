@@ -1,0 +1,141 @@
+_LOCATION_
+Telèfon: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 71 anys
+NIF/DNI: _ID__NAME_; _NAME_
+Informe d'alta d'hospitalització
+CP	_LOCATION_
+ABS	_SS_
+Servei	NEUROLOGIA
+Data d'alta  16.10.2017	12:24:07
+_LOCATION_
+_CONTACT_
+DOMICIL/RES.SOC 07.10.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Debilidad de hemicuerpo izquierdo.
+
+ANTECEDENTS
+Fumador de de 30 cigarrillos diarios. Toma 5 licores al día. HTA. Dislipemia. Infarto en territorio de ACM derecha en 2005, sin secuelas, se antiagregó con Adiro 300mg al alta. Infarto capsulotalámico izquierdo en 2008, se cambió antiagregación por Plavix 75mg. Pólipos colónicos.
+Tratamiento habitual: Enalapril 5mg, Simvastatina 20mg; Clopidogrel 75mg.
+Situación basal: vive solo, en planta baja (familiares viven en el mismo edificio). Autónomo para las ABVD, vida activa, se ocupa de la huerta y conduce.
+
+PROCÉS ACTUAL
+Varón de 71 años. Estando solo en la huerta, presenta caída al suelo por debilidad de hemicuerpo izquirdo, llegó conduciendo a su domicilio y se trasladó a este centro, con mejoría parcial de los síntomas.
+
+EXPLORACIÓ FÍSICA
+
+En planta de Neurología: TA 112/69, FC 51 lpm, Sat 94%, afebril.
+NRL: Paralisis facial periférica izquierda (previa, refieren que ahora es más marcada), lenguaje y habla normales, hemiparesia izda 4/5, claudican respecto a contralaterales, no alteración sensitiva. Mantiene bipedestación, marcha dificultosa con apoyo.
+AC: rítmico, sin soplos. AP: MVC. abd y EEII: anodino.
+
+
+EXPLORACIÓ COMPLEMENTÀRIA
+Laboratorio:
+-	Analítica Urgencias (7/10): Leucocitosis 17.800 con neutrofilia, resto de hemograma y coagulación normales. Bioquímica con función renal e ionograma sin alteraciones.
+-	Analítica planta (10/10): Hemograma y coagulación normales. Bioquímica con función renal e ionograma normales. Perfil lipídico y hepático normales. Colesterol sèrum 161 mg/dL 150 - 220, HDL colesterol sèrum 40.0 mg/dL 35.0 - 85.0, LDL colesterol sèrum (Friedewald) 103.4 mg/dL 80.0 - 160.0, Triglicèrid sèrum 88 mg/dL 50 -
+200.
+
+Pruebas radiológicas:
+-	Rx tórax: sin hallazgos patológicos.
+
+Pruebas de neurimagen:
+-	TAC craneal urgencias: Infarts lacunars crònics talàmic dret i ganglio-capsular esquerre. Atròfia difusa. AntioTAC: Artèries caròtides, vertebrals, polígon de Willis i les seves branques permeables i sense estenosis. Origen fetal de la artèria comunicant posterior dreta. Hipoplàsia del segment P1 de la artèria cerebral posterior dreta. Hipoplàsia
+-	
+Informe d'alta d'hospitalització
+
+
+
+
+del segment A1 de la artèria cerebral anterior dreta. Hipoplàsia de l'artèria comunicant posterior esquerra. Artèria vertebral esquerra amb origen independent des la crossa aòrtica. Ateromatosi calcificada a crossa aòrtica i bifurcacions carotídies.
+-	 RMN craneal: Infarto subagudo de 18 mm en n lenticular D. Múltiples lesiones de afectación hipóxico/isquémica en ambos hemisferios. Signos de atrofia cerebral global. Infartos lacunaes crónicos en GGBB. Pequeño infarto crónico en tálamo D.
+-	Dúplex TSA: S'han explorat tots dos eixos carotidis i el trajecte extracranial de totes dues arèries vertebrals. Descata la presència de petites múltiples plaques en totes dues bifurcacions sense repercusió hemodinàmica. Fluxes en artèria vertebral esquerra inferiors respecte a artèria vertebral dreta. Dúplex TC: S'obtenen fluxes ortodròmmics amb velocitats dins el marge de la normalitat a través de totes dues finestres acústiques temporals. Mala visualització de l'artèria basilar.
+
+Pruebas cardiológicas:
+-	Telemetría en planta (72h): en ritmo sinusal, sin alarmas.
+-	Ecocardiograma: VI no dilatado, ni hipertrofiado, con función sistólica normal. Disfunción diastólica (patrón de mala relajación). Ausencia de alteraciones valvulares funcionalmente significativas. Ausencia de datos indirectos de hipertensión pulmonar.
+
+EVOLUCIÓ CLÍNICA
+Paciente con múltiples factores de riesgo y tabaquismo importante y antecedentes de 2 ictus lacunares presvios, que ingresa por sdre hemimotor puro izquierdo. En RMN se confirma lesión isquémica aguda en nucleo lenticular derecho. El estudio cardiovascular descarta arrítmias embolígenas, estenosis significativas así como cardiopatía estructural.
+Se inicia rehabiltiación durante el ingreso, con mejoría del déficit neurológico. Al alta presenta paresia facial central izda moderada, disartria moderada, leve dishabiliad en mano y fuerza 5-/5 en EI izda, realiza pasos sin apoyo con cierta dificutlad, puede caminar con andador (NIHSS 4, Rankin 3).
+Se mantiene mismo tratamiento antiagregante, y se insiste en abandono de hábitos tóxicos.
+
+DIAGNÒSTICS
+Infarto en núcleo lenticular derecho por enfermedad de pequeño vaso HTA
+Dislipemia Tabaquismo
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+-	ABANDONO DEL HÁBITO TABÁQUICO y ENÓLICO
+-	Dieta hiposódica sin grasas
+
+Resto igual: Enalapril 5mg 1/24h, Simvastatina 20mg 1/24h; Clopidogrel 75mg 1/24h. No puede conducir
+CONTROL
+Control de factores de riesgo por parte de su médico de cabecera
+
+Informe d'alta d'hospitalització
+
+
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+16.10.2017
+Pàgina 1 de 3

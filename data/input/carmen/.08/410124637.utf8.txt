@@ -1,0 +1,71 @@
+1/ 2
+
+Cognoms:  _NAME_	Adreça: _LOCATION_
+Nom:	_NAME_		_LOCATION_ Edat: 79	Sexe: H	CIP:	_ID_	NIF:	_ID_ Data naixement:  _DATE_	NHC:	_ID_	NASS:  _ID_
+Telèfon / Mòbil:	_CONTACT_
+
+INFORME D'ASSISTÈNCIA
+
+
+Metge/essa:	_NAME_	Servei:	Neurologia
+Data ingrés:	01/09/2017	Data Alta: 06-09-2017
+S'informa a:	Metge de família	Núm. llit: _ID_
+
+
+DIAGNÒSTICS:
+1.	Ictus isquèmic llacunar talàmic dret
+2.	Sd sensitiu E secundari a 1
+3.	Cardiopatia isquèmica crònica, portador de 3 stents a CD.
+4.	Hipotiroïdisme primari.
+5.	HTA.
+6.	Hipercolesterolèmia
+PROCEDIMENTS:
+1.	RMN cerebral, Ecocardiograma
+
+
+
+Home de 79 anys amb al·lèrgia a les sulfamides i exfumador de 2 paquets al dia dels 20 als 40 anys, no etilisme.
+
+ANTECEDENTS PATOLÒGICS:
+-HTA en tractament farmacològic.
+-Hipercolesterolèmia
+-Cardiopatia isquèmica i valvular crònica que debuta el 1995 amb clínica anginosa, diagnosticant-se de malaltia d'un vas (OM 80%). El 2000 presenta nou episodi d'IAM amb coronariografia que mostra CDm oclosa al 95%, implantant-se stent. Ingressa novament del 25/10/2014 a 07/11/2014 per angor inestable realitzant-se SPECT miocàrdic que va ser positiu per isquèmia septoapical i posteriorment coronariografia que va mostrar CD amb stent a nivell mig amb proliferació significativa intentant-se revascularització sense èxit. Torna a ingressar el desembre de 2014 de forma programada a _SS_ per realització de nova coronariografia, implantant stents farmacoactius a CD i un altre proximal, solapat al primer, amb resultat angiogràfic adequat. L'ecocardiograma va mostrar lleugera HVE septal, bona contractilitat global i segmentària, AE no dilatada, lleugera dilatació de l'arrel aòrtica i aorta toràcica ascendent, IAo moderada secundaria a dilatació de l'arrel. Segueix controls a CCEE de Cardiologia (Dr. _NAME_).
+-Litiasis renals amb episodis de còlics nefrítics.
+-Tumor vesical tractat mitjançant RTU el 07/2003 presentant com complicació prostatitis aguda 2 setmanes després. Segueix controls a CCEE d'urologia, actualment lliure de malaltia. Al 2010 es va realitzar uretroscopia per estenosis uretral.
+-Infeccions urinàries de repetició: 12/2013 aïllament de Kluivera ascorbata resistent a ampicil·lina, ciprofloxacino, fosfomicina i septrin. 12/2009, 03 i 05/2010, 05 i 08/2013 Escherichia coli. Pren antibiòtic de forma crònica (Furantoïna) pautat per urologia.
+Ingrés per ITU el 27/06/2015. Darrer ingrés al novembre de 2016 per infecció urinària per Escherichia coli.
+-	Hipotiroïdisme primari autoimmunitari diagnosticat al 08/2014 en tractament substitutiu.
+-	Possible reacció a la vacuna de la grip, amb síndrome confusional secundària que va requeriringrés al nostre centre el novembre de 2015.
+-	IQ: Herniorrafia inguinal esquerra.
+Valoració Geriàtrica Integral: viu amb la seva dona a _LOCATION_, és independent per a totes les ABVD, no disfàgia, no deteriorament cognitiu. Rankin 0.
+
+TRACTAMENT HABITUAL: Paracetamol 1g si precisa, Cafinitrina 0.4 mg si precisa, Absorcol 10 mg 1-0-0, Eutirox 50 mg 1-0-0, Furantoïna 50 mg 1-0-1 (crònic), Corlentor 7.5 mg 1c/24h, Emconcor 2.5 mg ½-0-0,
+Ranexa 500 mg 1-0-1, Tromalyt 150 mg 1-0-0, Uniket retard 50 mg 1-0-0, Omeprazol 20 mg 1-0-0.
+
+MALALTIA ACTUAL:
+El pacient es desperta divendres 01/09/2017 a les 6 am (va anar-se'n a dormir assimptomàtic) i constata formigueig a tot l'hemicòs esquerre (explica que va des de coll i orella fins als dits del peu, però respectant la cara). Progressivament va desapareixent fins a les 11h, quan la clínica torna a empitjorar, motiu pel qual decideix consultar a les 13:07h, activant-se Codi ictus a les 13:25h. Nega sensació distèrmica, nàusees, vòmits. Valorat per Neurologia (Dr. _NAME_), NIHSS 1 a l'exploració física. Donada la lleu simptomatologia es va considerar no tributari de fibrinòlisi, tampoc de tractament endovascular per l'absència d'oclusió a les proves complementàries. A l'ingrés, s'augmenta l'antiagregació i el tractament hipolipemiant.
+
+EXPLORACIÓ FÍSICA:
+PA 152/74 mmHg, T.ax35ºC, FC 52 bpm, SatO2 95% basal.
+Aparell cardiovascular: tons rítmics, buf sistòlic II/VI sense irradiacions, no edemes d'EEII. Aparell respiratori: murmuri vesicular normal, sense sorolls sobreafegits. Abdomen: tou, no dolorós, no masses ni visceromegàlies, peristaltisme disminuït. Neurològic: conscient i orientat en les 3 esferes, no alteracions del llenguatge, pupil·les isocòriques i normoreactives, campimetria per confrontació normal, PPCC sense alteracions força normal, hipoestèsia des de colze esquerre fins a genoll esquerre (respectant cara, avantbraç i cama i peu esquerres), no dismetries, RMT presents i simètrics, RCP flexor bilateral, marxa normal, tàndem amb lleu lateralització a l'esquerra, Romberg esquerre lleu. NIHSS: 00000//00000//01000=1
+
+EXPLORACIONS   COMPLEMENTÀRIES:
+ECG: RS a 55 bpm no alteració de repolarització.
+Analítica: bioquímica, hemograma i coagulació sense alteracions.
+TAC cranial + AngioTAC (13:45h): leucoaraiosi, no altres lesions parenquimatoses. Angio amb ateromatosi, plaques calcificades a bifurcacions carotídies i sifons, però sense estenosis significatives ni oclusions de gran vas.
+Rx tòrax: normal.
+Analítica planta: colest 217, HDL 31.1, LDL 151, VLDL 36, triglic 180, resta hemograma i bioquímica sense alteracions, incloent TSH, T4 i Hb glic.
+Ecocardiograma: pendent de realització.
+RMN cerebral: Atrofia corticosubcortical global. Lesiones de la sustancia blanca en ambos centros semiovales y en el tronco cerebral, probablemente isquémico crónico. Pequeña lesión casi puntiforme en el tálamo derecho, hiperintensa en T2, FLAIR y Difusión, compatible con infarto isquémico subagudo a nivel de la arteria posterior derecha.
+
+EVOLUCIÓ:
+Pacient 79 anys, amb antecedents de HTA, DLP i cardiopatia isquèmica que ha presentat ictus isquèmic lacunar talàmic dret. Clínicament ha cursat com a síndrome sensitiu E, que ha anat millorant durant l'ingrés, sense presentar cap altre complicació. S'ha augmentat el seu tractament antiagregant i es dona d'alta a domicili per a seguiment ambulatori a CCEE Neurologia. Al alta NIHSS 0, Rankin 1.
+
+
+TRACTAMENT:
+Tromalyt 300mg 1 comp. al dia
+Retirar tromalyt 150mg
+Resta del seu tractament habitual Paracetamol 1g si precisa, Cafinitrina 0.4 mg si precisa, Absorcol 10 mg 1- 0-0, Eutirox 50 mg 1-0-0, Furantoïna 50 mg 1-0-1 (crònic), Corlentor 7.5 mg 1c/24h, Emconcor 2.5 mg ½-0-0,
+Ranexa 500 mg 1-0-1, Uniket retard 50 mg 1-0-0, Omeprazol 20 mg 1-0-0.
+
+Signat per _NAME_ núm.col: _ID_ Data/Hora:06-09-2017 13:44

@@ -1,0 +1,97 @@
+T1	Fecha_de_alta 15 25	02-09-2018
+#1	AnnotatorNotes T1	2018-09-02
+T2	FECHA 88 98	02/09/2018
+#2	AnnotatorNotes T2	2018-09-02
+T3	_SUG_Ictus_isquemico 99 113	ECVA ISQUÉMICA
+T4	Ictus_isquemico 115 120	ICTUS
+T5	Arteria_afectada 124 148	TERRITORIO INDETERMINADO
+T6	Etiologia 162 175	INDETERMINADA
+T7	_SUG_Ictus_isquemico 298 303	ICTUS
+T8	mRankin_previa 531 536	mRS 0
+T12	HORA 808 813	23.00
+#12	AnnotatorNotes T12	23:00
+T13	Hora_inicio_sintomas 822 827	02.00
+#13	AnnotatorNotes T13	02:00
+T14	HORA 906 911	06.00
+#14	AnnotatorNotes T14	06:00
+T15	_SUG_Lateralizacion 966 973	derecha
+T16	HORA 985 990	07.00
+#16	AnnotatorNotes T16	07:00
+T17	_SUG_Lateralizacion 1047 1052	ambas
+T18	_SUG_Lateralizacion 1066 1074	derechas
+T19	_SUG_Lateralizacion 1550 1554	dcha
+T20	_SUG_Lateralizacion 1587 1594	derecha
+T21	_SUG_Lateralizacion 1667 1671	dcha
+T22	_SUG_Lateralizacion 1682 1689	derecho
+T23	_SUG_Lateralizacion 1716 1721	izdas
+T26	_SUG_TAC_craneal 2271 2273	TC
+T28	_SUG_Hemorragia_cerebral 2312 2335	hemorragia intracraneal
+T29	_SUG_Localizacion 2376 2384	profunda
+T30	_SUG_Ictus_isquemico 2446 2453	Infarto
+T31	_SUG_Localizacion 2446 2461	Infarto lacunar
+T32	_SUG_Localizacion 2516 2523	caudado
+T33	_SUG_Lateralizacion 2524 2532	derechos
+T34	_SUG_Lateralizacion 2613 2622	izquierdo
+T35	ASPECTS 2669 2679	ASPECTS 10
+T36	_SUG_Localizacion 2700 2708	cortical
+T37	_SUG_Lateralizacion 2715 2716	e
+T38	_SUG_Localizacion 2844 2855	ventricular
+T39	_SUG_Lateralizacion 2908 2909	e
+T40	_SUG_Lateralizacion 2971 2976	ambas
+T41	_SUG_Arteria_afectada 2977 2980	ACM
+T42	_SUG_Etiologia 3114 3126	ateromatosis
+T43	_SUG_Lateralizacion 3228 3235	derecho
+T44	_SUG_Etiologia 3244 3256	ateromatosas
+T45	_SUG_Arteria_afectada 3286 3289	ACC
+T46	_SUG_Etiologia 3298 3310	ateromatosis
+T47	_SUG_Arteria_afectada 3370 3373	ACI
+T48	_SUG_Lateralizacion 3374 3378	dcha
+T49	_SUG_Arteria_afectada 3431 3434	ACI
+T50	_SUG_Arteria_afectada 3474 3477	ACA
+T51	_SUG_Arteria_afectada 3480 3483	ACM
+T52	_SUG_Lateralizacion 3538 3549	colaterales
+T53	_SUG_Lateralizacion 3556 3561	ambas
+T54	_SUG_Lateralizacion 3614 3623	izquierdo
+T55	_SUG_Arteria_afectada 3625 3628	ACC
+T56	_SUG_Arteria_afectada 3715 3718	ACI
+T57	_SUG_Etiologia 3777 3789	Ateromatosis
+T58	_SUG_Arteria_afectada 3805 3808	ACI
+T59	_SUG_Arteria_afectada 3825 3828	ACA
+T60	_SUG_Arteria_afectada 3831 3834	ACM
+T61	_SUG_Arteria_afectada 3852 3867	vértebrobasilar
+T62	_SUG_Lateralizacion 3891 3896	ambas
+T63	_SUG_Arteria_afectada 3897 3917	arterias vertebrales
+T64	_SUG_Arteria_afectada 3960 3977	arteria vertebral
+T65	_SUG_Lateralizacion 3978 3985	derecha
+T66	_SUG_Arteria_afectada 4000 4020	Arterias vertebrales
+T67	_SUG_Arteria_afectada 4022 4037	arteria basilar
+T68	_SUG_Arteria_afectada 4040 4043	ACP
+T69	_SUG_Arteria_afectada 4185 4188	ACI
+T70	_SUG_Lateralizacion 4189 4196	derecha
+T71	_SUG_Lateralizacion 4315 4316	e
+T72	_SUG_Ictus_isquemico 4317 4324	infarto
+T73	_SUG_Localizacion 4317 4332	infarto lacunar
+T74	_SUG_Localizacion 4391 4398	caudado
+T75	_SUG_Lateralizacion 4399 4407	derechos
+T76	_SUG_Ictus_isquemico 4427 4441	ECVA ISQUÉMICA
+T77	_SUG_Ictus_isquemico 4443 4448	ICTUS
+T78	_SUG_Arteria_afectada 4452 4476	TERRITORIO INDETERMINADO
+T79	_SUG_Etiologia 4490 4503	INDETERMINADA
+T80	_SUG_Ictus_isquemico 4567 4572	Ictus
+T81	_SUG_Lateralizacion 4599 4604	Dieta
+T82	_SUG_Lateralizacion 4736 4741	ambos
+T83	_SUG_Ictus_isquemico 5118 5123	Ictus
+T84	SECCION_DIAGNOSTICOS 75 87	Diagnosticos
+T85	SECCION_ANTECEDENTES_PERSONALES 313 336	ANTECEDENTES PERSONALES
+T88	SECCION_ANTECEDENTES_PATOLOGICOS 658 682	ANTECEDENTES PATOLÓGICOS
+T89	SECCION_PROCESO_ACTUAL 730 747	ENFERMEDAD ACTUAL
+T90	SECCION_EXPLORACION_FISICA 1253 1264	Exploración
+T91	SECCION_EXPLORACIONES_COMPLEMENTARIAS 1974 2008	Resultados pruebas complementarias
+T9	Localizacion 124 148	TERRITORIO INDETERMINADO
+T10	SECCION_SITUACION_FUNCIONAL 507 522	Situación basal
+#3	AnnotatorNotes T8	0
+T11	NIHSS_previa 1723 1774	NIHSS total: 10 puntos [4-1, 5b-4, 6b-4, 8-1, 10-1]
+#4	AnnotatorNotes T11	10
+T24	TAC_craneal 2258 2269	TC cerebral
+#5	AnnotatorNotes T35	10
+T25	SECCION_TRATAMIENTO_HABITUAL 626 646	Tratamiento habitual

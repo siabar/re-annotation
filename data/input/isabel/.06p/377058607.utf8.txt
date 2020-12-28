@@ -1,0 +1,67 @@
+1/ 2
+
+Cognoms:	_NAME_	Adreça:	_LOCATION_	
+Nom:
+Edat: 88	_NAME_
+Sexe:M	
+CIP:	_ID_ _NAME_
+_ID_	NIF:	
+_ID_
+Data naixement:   _DATE_	NHC:	_ID_	NASS:    _ID_
+Telèfon / Mòbil:	_CONTACT_
+
+
+INFORME  D'ASSISTÈNCIA
+
+Metge/essa:	_NAME_	Servei:	Neurologia
+Data ingrés: S'informa a:	24/05/ 2017
+Metge de família	Data Alta: 02-06-2017
+Núm.  llit: _ID_
+
+DIAGNÒSTICS:
+1.	Hematoma lobar frontal D, en relació a 3
+2.	Epilepsia focal simptomàtica en relació a 1
+3.	Angiopatia amiloide probable
+4.	F A crònica
+5.	Leucoaraiosi
+6.	Infarts i hemorràgies cerebrals cròniques (per neuroimatge), en context de 3 i 4.
+
+
+
+Pacient de 88 anys d'edat sense AMc ni hàbits tòxics que ingressa per ictus.
+
+ANTECEDENTS  PATOLÒGICS
+-	No HTA, diabetis mellitus ni dislipèmia.
+-	FA crònica i insuficiència cardíaca de llarga evolució (aporten ecocardiograma recent, F Ejecció: 40%).
+-	Fractura traumàtica espatlla dreta, discreta limitació funcional residual. Tractame nt habit ual: AAS 100mg/ dia, Calcio
+Situació fu ncion al: independent per les ABVD, vi u a _LOCATION_ amb una filla i desde fa uns mesos prèviament amb
+una altra filla i fa aproximadament 1 any sola al seu domicili a _LOCATION_. Sense deteriorament cognitiu.
+
+MOTIU CONSULTA
+La pacient és portada a urgències pels seus familiars el 23/05/17 per presentar de forma sobtada alteració del llenguatge i debilitat a ESE, detectat a les 20:45 (no resp on quan li pregunten) havent sigut vista l'última vegada asimptomàtica a les 19:00h. A la seva arribada a urgències a les 21:20h es constata hemiparèsia esquerre facio-braquial i desviació oculo-cefàlica a l'esquerra. Durant l'exploració presenta disminució del nivell de consciència i crisis tonico-clònics generalitzades (2  en  interval  d' una  hora  aproximadament),  pel  que s'administra levetiracetam i rivotril, amb bona resposta. Es practica TAC cranial urgent que mosta hematoma frontal dret, i ECG que mostra fibril·lo-flutter .
+Al matí següent la pacient esta somnolenta, post-crítica, persistint dèficit motor braquiocrural esquerre a la exploració. Es decideix el seu ingrés a Neurologia, amb el tractament antiepilèptic i  retirant tractamet antiagregant. La freqüència cardíaca ha tornat a valors normals, sense tractament específic.
+
+EXPLORACIÓ  FÍSICA
+A urgències TA: 153/86, FC 90'x, A planta 110/66, 62 'x. Afebril, AC: arítmica, no bufs, no bufs a TSA, AR: eupnèica , murmuri vesicul ar conservat. Abdo: tou i depressible, no megàlies, no edemes a EE. Signes de insuficiència venosa crònica i fragilitat cutània a EEII
+NRL: Conscient, col·laboradora, orientada en espai i temps, llenguatge normal sense elements afàsics  ni disàrtrics, parells cranials normals,  campimetria  sense  alteracions,  no  parèsies,  no  extinció  sensiti va, hipoalgèsia i hipoestèsia braquiocrural esquerra,  no  hipoparestèsia,  reflexes  miopàtics  presents  i  simètrics, reflex cutani-plantar flexor dret indiferent esquerre, no dismetries, marxa no explorada. Escala NIHSS: 0-0-0-0- 0/0-0-0-0-0/0-0-0-1-0=  1.
+
+EXPLORACIO   COMPLEMENTÀRIES
+Analítica a u rg ències: hemograma, bioquímica o coagulació sense alteracions  val orables.
+Analítica a plant a: bilirubina total 1.2, bilirubina directa 0.43, resta d'hemograma i bioquímica sense alteracions valorables incloent perfil lipídic i funció hepàtica.
+Rx tòrax a urgè ncies: sense condensacions, índex cardio-toràcic conservat. ECG a Urg: flutter auricular amb conducció alternant, FVM de 130 'x
+ECG pla nta: FA 60x'
+TA C crani al:  hematoma parenquimatós del frontal dret de 35 mm amb focus d' HSA adjacents i lleu edema perilesional. Condiciona efecta de massa a nivell de compressió de l' asta frontal del ventricle lateral dret  i mínima des vi ació de la l ínia mitja cap a l'esquerra a nivell frontal de 3 mm. Àrea de hipodensitat corticosucortical frontal esquerre suggesti va de lesió isquèmia probablement  crònica.  Leucareiosis  i  atròfia global. Cisternes basals i preitronculars lliures.
+RNM cranial: Hematoma frontal dret de 31 x 29 x 24 mm (AP x T x CC). S'observa borrament de solcs, marcat edema adjacent i compressió sobre banya frontal del ventricle lateral dret, sense
+desplaçament de la línia mitja.
+Àrea d'alteració de senyal corticosubcortical frontal esquerre, hiperintens en FLAIR,
+observant-se algun focus de susceptibilitat ferromagnètica en GRE, amb retracció d' alguns solcs adjacents, suggestiu de lesió isquèmica crònica vs seqüela d'hematoma previ a correlacionar amb antecedents.
+Atròfia  córtico-subcortical  global.  Leucoencefalopatia  hipòxico-isquèmica  de  petit  vas.  S'observen  múltiples focus d'alteració de senyal a substància blanca subcortical fronto-parietal bilateral d'aspecte hipòxic-isquèmic. Atròfia  cerebel·losa.  Cisternes  basals  i  perimesencefàliques  lliures.   Unió  cranio-cervical  sense  anomalies valorables.
+
+EVOLUCIÓ I COMENTARIS
+Pacient de 88 anys d'edat, independent per les seves ABVD, amb antecedent  d'insuficiència cardíaca  i FA crònica que ha presentat una hemorràgia cerebral intraperenquimatosa frontal dreta, que considerem en relació amb una possible angiopatia amiloïde atès l'evolució i els resultats de la neuroimatge. No ha presentat recurrència de crisis epilèptiques amb el tractament instaurat, ben  tolerat,  ni  tampoc  cap  altre complicació durant l'ingrés. Les xifres TA han estat correctes en tot moment, sense tractament específic . Ha iniciat rehabilitació física i a l'alta es capaç de caminar amb mínima ajuda. NIHSS 0, Rankin 2. Valorat benefici/risc, es decideix aturar l' antiagregació. Es dona d'alta a domicili i seguirà controls ambulatoris a CCEE Neurologia.
+
+TRACTAMENT:
+Levetiracetam 500mg 1-0-1. Stop AAS 100mg.
+Resta del seu tractament habitual (calcio).
+
+Signat per _NAME_ núm.col: _ID_ Data/Hora:02-06-2017 09:47

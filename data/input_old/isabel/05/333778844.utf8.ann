@@ -1,0 +1,105 @@
+T0	Hora_de_alta 248 253	17:44
+#0	AnnotatorNotes T0	17:44
+T1	Fecha_de_alta 257 267	07.02.2017
+#1	AnnotatorNotes T1	2017-02-07
+T2	Fecha_de_ingreso 366 376	04.02.2017
+#2	AnnotatorNotes T2	2017-02-04
+T3	SECCION_MOTIVO_DE_INGRESO 441 455	MOTIU D'INGRÉS
+T4	_SUG_Hemorragia_cerebral 456 464	Hematoma
+T5	_SUG_Localizacion 465 472	frontal
+T6	_SUG_Localizacion 473 481	cortical
+T7	_SUG_Lateralizacion 482 486	dret
+T8	SECCION_ANTECEDENTES 489 500	ANTECEDENTS
+T9	SECCION_SITUACION_FUNCIONAL 615 640	Situació funcional prèvia
+T10	mRankin_previa 668 673	mRS 0
+T11	SECCION_ANTECEDENTES_PATOLOGICOS 696 718	ANTECEDENTS PATOLÒGICS
+T12	_SUG_Ataque_isquemico_transitorio 764 767	AIT
+T13	_SUG_Arteria_afectada 771 793	territori indeterminat
+T14	_SUG_Lateralizacion 794 798	dret
+T15	_SUG_Etiologia 811 824	indeterminada
+T16	_SUG_Lateralizacion 872 880	esquerra
+T17	_SUG_TAC_craneal 920 930	TC cranial
+T18	_SUG_Tratamiento_antiagregante 1051 1054	AAS
+T19	_SUG_Localizacion 1076 1086	posteriors
+T20	_SUG_Etiologia 1195 1204	aneurisma
+T21	_SUG_Tratamiento_anticoagulante 1270 1277	Sintrom
+T22	_SUG_Lateralizacion 1429 1437	esquerra
+T23	_SUG_Localizacion 1593 1603	posteriors
+T24	_SUG_Localizacion 1680 1690	posteriors
+T25	_SUG_Lateralizacion 1784 1792	esquerra
+T26	SECCION_ANTECEDENTES_FAMILIARES 1870 1891	ANTECEDENTS FAMILIARS
+T27	_SUG_Ictus_isquemico 1947 1952	ictus
+T28	SECCION_TRATAMIENTO_HABITUAL 2132 2150	MEDICACIÓ HABITUAL
+T29	Tratamiento_anticoagulante_hab 2151 2158	Sintrom
+T30	SECCION_PROCESO_ACTUAL 2174 2187	PROCÉS ACTUAL
+T31	_SUG_Lateralizacion 2228 2236	esquerre
+T32	_SUG_Lateralizacion 2275 2280	dreta
+T33	Fecha_inicio_sintomas 2313 2321	04/02/17
+#33	AnnotatorNotes T33	2017-02-04
+T34	Hora_inicio_sintomas 2328 2333	10:00
+#34	AnnotatorNotes T34	10:00
+T35	_SUG_Ictus_isquemico 2350 2355	ictus
+T36	HORA 2362 2367	11:50
+#36	AnnotatorNotes T36	11:50
+T37	Hora_llegada_hospital 2401 2406	12.10
+#37	AnnotatorNotes T37	12:10
+T38	_SUG_Lateralizacion 2736 2744	esquerre
+T39	_SUG_Lateralizacion 2786 2794	esquerre
+T40	_SUG_Lateralizacion 2833 2842	bilateral
+T41	NIHSS_previa 2844 2887	NIHSS = 0.0.0.0.0/1(0.0)(0.0)/0.0.0.0.0 = 1
+T42	_SUG_Lateralizacion 3214 3222	esquerre
+T43	_SUG_Lateralizacion 3264 3272	esquerre
+T44	SECCION_EXPLORACIONES_COMPLEMENTARIAS 3332 3357	EXPLORACIÓ COMPLEMENTÀRIA
+T45	TAC_craneal 3752 3762	TC cranial
+T46	_SUG_Hemorragia_cerebral 3778 3789	hemorrágica
+T47	_SUG_Localizacion 3811 3818	frontal
+T48	_SUG_Lateralizacion 3819 3826	derecha
+T49	_SUG_Localizacion 3828 3836	cortical
+T50	_SUG_Localizacion 4009 4020	ventricular
+T51	_SUG_Lateralizacion 4170 4177	derecho
+T52	_SUG_Lateralizacion 5319 5327	derechas
+T53	_SUG_Ataque_isquemico_transitorio 5459 5462	TIA
+T54	_SUG_Etiologia 5493 5502	aneurisma
+T55	_SUG_Lateralizacion 5531 5532	I
+T56	SECCION_EVOLUCION 5724 5740	EVOLUCIÓ CLÍNICA
+T57	_SUG_mRankin 5758 5763	mRS 0
+T58	_SUG_Etiologia 5824 5833	aneurisma
+T59	_SUG_Tratamiento_anticoagulante 5891 5898	Sintrom
+T60	_SUG_Lateralizacion 5924 5932	esquerra
+T61	_SUG_Lateralizacion 5951 5959	esquerra
+T62	_SUG_Lateralizacion 6122 6130	esquerre
+T63	_SUG_Lateralizacion 6157 6165	esquerra
+T64	_SUG_NIHSS 6167 6174	NIHSS 1
+T65	_SUG_TAC_craneal 6266 6276	TC craneal
+T66	_SUG_Hemorragia_cerebral 6294 6302	hematoma
+T67	_SUG_Localizacion 6303 6311	cortical
+T68	_SUG_Localizacion 6312 6319	frontal
+T69	_SUG_Lateralizacion 6320 6324	dret
+T70	_SUG_Lateralizacion 6683 6691	esquerra
+T71	_SUG_Lateralizacion 6702 6707	dieta
+T72	NIHSS_alta 7631 7640	NIHSS = 0
+T73	mRankin_alta 7641 7648	mRS = 1
+T74	SECCION_DIAGNOSTICOS 7664 7675	DIAGNÒSTICS
+T75	Hemorragia_cerebral 7678 7688	Hemorràgia
+T76	Localizacion 7709 7716	frontal
+T77	Localizacion 7717 7725	cortical
+T78	Lateralizacion 7726 7731	dreta
+T79	SECCION_TRATAMIENTO_Y_RECOMENDACIONES_AL_ALTA 7788 7823	TRACTAMENT I RECOMANACIONS A L'ALTA
+T80	_SUG_Tratamiento_anticoagulante 7831 7838	Sintrom
+T81	_SUG_Lateralizacion 7842 7847	Dieta
+T82	Tratamiento_antiagregante_alta 7890 7893	AAS
+T83	SECCION_CONTROL 7980 7987	CONTROL
+T84	SECCION_DESTINO_AL_ALTA 8188 8207	DESTINACIÓ A L'ALTA
+T85	FECHA 8306 8316	07.02.2017
+#85	AnnotatorNotes T85	2017-02-07
+#3	AnnotatorNotes T10	0
+T86	Fecha_llegada_hospital 2313 2321	04/02/17
+T87	SECCION_EXPLORACIONES_COMPLEMENTARIAS_EN_URGENCIAS 3358 3369	A Urgències
+#4	AnnotatorNotes T72	0
+#5	AnnotatorNotes T73	1
+T88	SECCION_EXPLORACION_FISICA 2409 2426	EXPLORACIÓ FÍSICA
+T89	SECCION_EXPLORACION_FISICA_EN_URGENCIAS 2564 2575	A Urgències
+#6	AnnotatorNotes T41	1
+T90	SECCION_EXPLORACION_FISICA_DURANTE_HOSPITALIZACION 3037 3053	A Unitat d'Ictus
+T91	SECCION_EXPLORACIONES_COMPLEMENTARIAS_EN_PLANTA_DE_NEUROLOGIA 4180 4196	A Unitat d'Ictus
+T92	Etiologia 7745 7772	secundària a anticoagulació

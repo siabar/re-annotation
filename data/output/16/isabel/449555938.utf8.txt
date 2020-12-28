@@ -1,0 +1,185 @@
+_LOCATION_
+_LOCATION_) Anul·lació/Reprogramació visites:_CONTACT_
+Telèfon Centraleta: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 68 Anys
+NIF/DNI: _ID__NAME_; _NAME_; _NAME_
+Informe d'alta d'hospitalització
+16:50:00
+05.12.2017
+_LOCATION_
+_SS_ NEUROLOGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_; _CONTACT_
+DOMICIL/RES.SOC 26.11.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Varón de 68 años que ingresa por ictus ACM izquierda tratado mediante fibrinolisis.
+
+ANTECEDENTS
+-No alergias medicamentosas conocidas.
+-Exfumador de 2 paq/día. Exenol desde hace 19 años.
+-DLP en tratamiento médico. No HTA ni DM conocidas.
+-Cardiopatía isquémica que debutó en 1989 con IAM inferior en 1989 tratado mediante ACTP y revascularización con bypass safena a CD (_SS_). Ingreso en 2002 por angina de pecho y en 2013 por cuadros de dolor torácico atípico.
+*ETT: (26/09/2013): VI de tamaño al límite mx. normal (dtdvi: 56) con ligera hipertrofia septal (13).  Acinesia posterobasal e inferomediobasal. Hipocinesia lateromedioapical. FE global ligeramente reducida, estimada alrededor del 45-50%. Tamaño normal de AI, raíz aórtica y Ao. ascendente. Cavidades dchas de aspecto/tamaño normales con motilidad longitudinal del VD reducida. Morfología valvular normal. IM ligera.
+*Ergometría (26/09/2013) negativa.
+*Prueba de esfuerzo 2015 (_SS_):   Prueba de esfuerzo clínicamente y eléctricamente negativa para isquemia miocárdica.
+
+-IQ: bypass safena-CD.
+
+-Situación basal: independiente para ABVD, mRS de 0.
+
+
+
+MEDICACIÓ HABITUAL
+Adiro 100 mg 1 comp/dia,   alopurinol 100 mg 1 comp/dia, bisoprolol 2.5 mg 1 comp/12h,  enalapril 5 mg 1
+comp/12h, pantoprazol 40 mg 1 comp/dia, rosuvastatina 20 mg 1 comp/dia.
+
+
+
+PROCÉS ACTUAL
+Varón de 68 años que el 25/11 presenta cuadro de inicio brusco sobre las 18:15 de debildiad en extremidades derechas (se le cae el paraguas, lo intenta coger y no puede, camina inestable por lo que tiene que sentarse) y alteración del lenguaje, mientras se encuentra paseando con su mujer. Se avisa a SEM que activa código icuts y deriva a nuestro hospital.
+
+A su llegada hemodinámicamente estable (138/64), afebril. Neurológicamente consicnete, afasia mixta severa (emisión de pocas palabras sueltas, no obedece órdenes, no nomina evoca o repite, no mes ni edad) (6), HHD 2, no limitación de MOEs, PFSN d 2, hemiapresia B 2 C 4+ (3+1), sensibilidad no valorable 1. NIHSS de 15.
+Analíticamente sin alteraciones destacables. ECG en RS con Q de necrosis en cara inferior.   Rx de tórax con cerclaje esternal, cardiomegalia, sin condensaciones ni masas en campos pulmonares, ángulos costofrénicos
+
+Informe d'alta d'hospitalització
+
+
+
+
+libres. Se realiza Tc craneal simple y Angio TC cerebral y de TSA que objetiva estudio sin evidencia de cambios de isquemia parenquimatosa aguda (ASPECTS 10), con defecto de repleción en segmento M2 distal de una rama de la ACM izquierda.
+
+A la revaloración tras TC craneal mejoría espontánea persistiente afasia moderada (obedece 2 órdenes, no mes ni edad, nomina 4/5, no evoca, no repite, abundantes bloqueos y parafasias fonémicas y semánticas) (4), PFSN d (2), no déficits campimétricos, ni limitaciones MOEs, no déficits motores en EE; no alteraciones de sens. NIHSS 6. Ante persistencia parcial de sintomatología se decide trombolisis (7 mg en bolus +65mg en PVC en 1h).
+
+Se orienta el caso como Ictus ACM izquierda de probable etiología cardioembólica por alteraciones significativas de la contractilidad cardíaca, tratado mediante fibrinolisis.
+
+Se decide ingreso en neurología (Unidad de Ictus).
+
+
+
+EXPLORACIÓ FÍSICA
+
+Hemodinámicamente estable, afebril.
+NRL: consciente y orientado en las 3 esferas. Disartria (1). Afasia leve por ligera disminución de la fluencia (nomina 5/5, evoca 5/5, repite) (1). PICNR, MOEs sin alteraciones, no déficits visuales, no PFSN. Fuerza y sensibilidad conservadas. No dismetrías. RCP flexor bilateral. NIHSS 2.
+AC: TCR sin ruidos sobreañadidos ni soplos audibles. AR: MVC sin ruidos sobreañadidos.
+ABD: peristaltismo conservado, blando y depresible no doloroso a la palpación superficial ni profunda. EEII: no edemas ni signos de TVP.
+
+
+EXPLORACIÓ COMPLEMENTÀRIA
+URGENCIAS:
+-Analitica:
+Equilibro AB venoso: pH 7.40 ; pCO2 47 mmHg; pO2 58 mmHg; HCO3 29.1 mmol/L, EB 3.3 mmol/L. Bioquímica: glucosa 6.3 mmol/L; urea 6.9 umol/L; creatinina 75 mmol/L; Na 139 umol/L; K 3.99 umol/L. Coagulación: TTPA 0.90 ; TP 1.09 .
+Hemograma:  Hb  161  g/L;  Hto  47  %;  plaquetas 194	x10E9/L;  leucocitos  8.7  x10E9/L  (N  4.15  x10E9/L; L 3.19x10E9/L)
+-ECG:  RS a 70lpm, Eje a 0º. PR 0.2, QRS 0.12 con morfología de bloqueo de rama derecha. Q de necrosis en cara inferior ya conocidas. T- en v1, v3 y v4. ST nivelado.
+-Rx de tòrax: cerclaje esternal, cardiomegalia, sin condensaciones ni masas en campos pulmonares, ángulos costofrénicos libres.
+-AgioTAC: Estudio sin evidencia de cambios de isquemia parenquimatosa aguda (ASPECTS 10), con defecto de repleción en segmento M2 distal de una rama de la ACM izquierda.
+
+NEUROLOGÍA:
+-Tc control 24 post-fibrinolisis: Se procede estudio comparativo con TC previo del 25.11.2017 en el cual no se observan  sufusiones  hemáticas  intra  ni  extraaxiales  que  podrían  traducir  transformación  hemorrágica  del
+
+Informe d'alta d'hospitalització
+
+
+
+
+tratamiento en el momento actual. Resto de los hallazgos sin cambios.
+
+-Analítica completa:
+-TnT (29/11) 9->6 (a las 3 horas del dolor). (05/12):8ng/L.
+-Serologías: VHB positivas (HsAg+ IgG+anti E+), VHC, treponema pallidum y VIH 1-2 negativas.
+-PCR VHB 40 IU / ml.
+
+-RMN y AngioRMN cerebral: Varias áreas de infarto esablecido a nivel biparietal de predominio izquierdo, una de ellas a nivel paraventricular izquierdo, en diferente estadio evolutivo, a considerar posibilidad de etiología embólica. El área mayor infarto a nivel parietal izquierdo, muestra singos sugestivos de mínimo sangrado petequial. Infarto lacunar en cabeza de caudado izquierdo. La secuencia angioRM no muestra alteraciones a destacar.
+
+-Ecocardiografía transtorácica: - Ventricle esquerre no dilatat i amb hipertròfia septal lleugera. Contractil.litat moderadament deprimida (44%) a expenses d'aquinèsia ínfero-postero-lateral medio-basal. - Ventricle dret no dilatat però hipocontràctil. - Aurícules no dilatades. - Arrel aòrtica i aorta ascendent no dilatades. - Vàlvula mitral normal sense estenosi i amb regurgitació lleugera. - Vàlvula aòrtica trivalva, esclerocalcificada, sense estenosi ni regurgitació. - Insuficiència tricuspídia lleugera que permet calcular PAP normal. Flux pulmonar normal. - Vena cava inferior no dilatada i mòbil. - Absència de vessament pericàrdic. - Funció diastòlica normal.
+
+
+
+
+
+
+EVOLUCIÓ CLÍNICA
+Se trata de varón de 68años con alteraciones de la contractilidad cardíaca por patología isquémica (acinesia posterobasal e inferomediobasal, y hipocinesia lateromedioapical con FE global ligeramente reducida 45-50%) que ingresa por ictus ACM izquierda con oclusión a nivel de M2 distal tratado mediante fibrinolisis. Se realiza TC craneal simple de control a las 24h del tratamiento sin objetivar complicaciones. Se inicia tratamiento de prevención secundaria con antiagregación (Clopidogrel).
+
+Durante su estancia en neurología se mantiene estable. TA mantenidas reintroduciendo su medicación habitual sin cambios. Presenta mejoría a nivel neurológico hasta encontrarse asintomático. En los días de monitorización en la unidad de ictus no se detectan arrítmias ni otras alteraciones.
+
+Se realiza RMN y Angio RMN cerebral sin contraste que objetiva varias áreas de infarto esablecido a nivel biparietal de predominio izquierdo, una de ellas a nivel paraventricular izquierdo, en diferente estadio evolutivo; e infarto lacunar en cabeza de caudado izquierdo. Se realiza Ecocardiografía transtoracica que destaca contractilidad  de VI moderadamente deprimida (44%) a expensas de aquinesia infero-postero-lateral medio-basal
+, sin cambios conocidos respecto ETT previo. Ante lesiones en diferentes territorios y en diferente estado evolutivo y alteraciones significativas de la contractilidad cardíaca se optimiza tratamiento de prevención secundaria con anticoagulación (AVK).
+
+Para completar estudio se realiza analítica completa en la que destaca ligera hiprK que normaliza en analíticas de control, perfil lipídico, tiroidal, cobalaminas, folatos y HbA1c dentro de la normalidad.
+
+Informe d'alta d'hospitalització
+
+
+
+
+
+Como incidencias:
+-Serología VHB positiva (HsAg+ IgG+anti E+ y PCR 40 IU/ml.) con bioquímica hepática y plaquetas dentro de la normalidad. Paciente conocedor de la enfermedad por la que nunca ha hecho seguimiento ni ha recibido tratamiento. Solicitamos primera visita con servicio de digestivo de _SS_.
+-Durante el ingreso presenta cuadros de dolor torácico con ECG sin cambios y marcadores de daño miocárdico negativos. Refiere episodios similares desde 2013, prueba de esfuerzo del 2015 negativa para isquemia miocárdica. Se solicita valoración por cardiología que orienta como episodios de dolor torácico atípico, no obstante opitimiza tratamiento antianginoso añadiendo parche de nitroglicerina de 5mg/24h y recomienda control por cardiólogo habitual.
+
+En el momento del alta el paciente se encuentra astinomático neurológicamente. Tolera dieta oral. Deambula de manera autónoma.
+
+Se orienta el caso como Ictus en territorio de ambas ACMs (con clínica únicamente de ACM izquierda) tratado mediante trombolisis, de etiología cardioembólica por alteración significativa de la contractilidad cardíaca ya conocida. Se ha iniciado tratamiento anticoagulante (AVK) que deberá mantener al alta.
+
+Dada la estabilidad clínica se decide alta a domicilio. Seguirá controles por Neurología, Digestología de _SS_, Hemostasia de _SS_ y cardiólogo habitual.
+
+
+
+
+
+
+
+
+DIAGNÒSTICS
+434.01/1 Avc trombosi arteries cerebrals amb infart cerebral
+
+PROCEDIMENTS
+93.14 Entrenament de moviments articulars
+93.75 Altre entrenament i terapèutica de la parla
+89.08 Altra consulta
+89.08 Altra consulta
+88.91 Imatge per ressonància magnètica de cervell i tronc cerebral
+88.91 Imatge per ressonància magnètica de cervell i tronc cerebral
+89.08 Altra consulta
+89.08 Altra consulta
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+-Aldocumar 10mg según pauta.
+-Nitroglicerina en parche 5mg 1/24h.
+
+-Resto de medicación habitual sin cambios.
+
+Informe d'alta d'hospitalització
+
+
+
+
+
+CONTROL
+-Neurología RESALA.
+-Servicio de digestivo de _SS_.
+-Hemostasia de _SS_ según programación.
+-Cardiólogo habitual (recomendamos adelantar visita).
+-Médico atención primaria habitual para control FRCV.
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+05.12.2017
+Pàgina 1 de 5

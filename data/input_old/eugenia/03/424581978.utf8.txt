@@ -1,0 +1,108 @@
+I.CLINIC DE NEUROCIÈNCIES NEUROLOGIA
+_NAME_	NHC: _ID_
+
+
+Sexo/Sexe: Masc.	Fecha nac./Data naix.: _DATE_	Edad/Edat: 86 años Dirección/Adreça: _LOCATION_		CP: _LOCATION_
+Municip. (Prov.): _LOCATION_  ABS:_SS_	Tel.:_CONTACT_
+As.: SERVEI CATALA DE LA SALUT	CIP: _ID_	NASS: _ID_
+Nº epis.: _ID_	Tipo/Tipus: HOSPIT.	Inici.: 01.10.2017
+Serv: NEUROLOGIA	UO Enf.: G6B4 SALA G NEUROL. CURT. E Hora: 05:37:37
+Facult. de ref.: _NAME_
+
+
+
+
+Tipo ingreso/Tipus ingrés: Urgent	Motivo/Motiu alta: Hospital Ag.
+Diag.:
+Síndrome hemimotor izquierdo ()
+Proc.:
+
+
+
+
+INFORME CLÍNICO ALTA / INFORME CLÍNIC ALTA
+
+Motivo de consulta / Motiu de consulta
+Alteración del habla y debilidad de extremidades izquierdas.
+
+Antecedentes e historia previa / Antecedents i història prèvia
+Varon de 86 años. No alergias medicamentosas conocidas. Ex-fumador desde 1975 sin otros hábitos tóxicos. Deambula con bastón, autónomo para la vestimenta, la comida y el aseo, mRS: 3.
+
+*	ANTECEDENTES PATOLÓGICOS:
+1.	HIPERTENSIÓN ARTERIAL en tratamiento farmacológico.
+2.	DIABETES MELLITUS en tratamiento con hipoglucemiantesgulantes orales.
+3.	INSUFICIENCIA RENAL CRÓNICA con Cr 1.4, FG 40.
+4.	POLIMIALGIA REUMÁTICA en tratamiento corticoideo, refiere único brote hace años.
+5.	INCONTINENCIA URINARIA de urgencia.
+
+*	INTERVENCIONES QUIRÚRGICAS: Colecistectomía hace 5 años, Resección transuretral de próstata hace 4 años.
+
+*	MEDICACIÓN ACTUAL (1/10/2017): Adiro 100, Valsartan 80mg cada 24hs, tamsulosina 0,4mg cada 24hs, sitagliptina 100mg cada 24, bimatoprost (colirio), omeprazol 20 cada 24, deflazacort (corticoide) 6mg cada 24, metformina 850, pravastatina + fenofibrato 40/160mg
+
+Proceso actual / Procés actual
+Presenta, en torno a las 4 de la madrugada del día 1 de octubre de 2017, disartria y paresia de extremidades izquierdas, tras haberse acostado asintomático en torno a las 12 de la noche.
+
+Exploración física / Exploració física
+01/10/2017-06:00:00: Frecuencia respiratoria (rpm) 20, PAS (mm Hg) 170, PAD (mm Hg) 58, Pulsioximetría (%) 96. 01/10/2017-07:30:00 : Glicemia ca pilar (mg/dl) 140. 01/10/2017-12:00:00 : Tª axilar (ºC) 35.7.
+NRL: Consciente y orientado, lenguaje leve-moderadamente disártrico sin rasgos afásicos. Campimetría y motilidad extraocular sin limitaciones. Paresia facial moderada y plejia de extremidades izquierdas. No
+refiere alteraciones de la sensibilidad. Reflejo cutáneo-plantar izquierdo extensor. NIHSS de 11.
+
+Laboratorio / Laboratori
+*	ANALÍTICA SANGUÍNEA DE URGENCIAS: Destaca creatinina de 1,6. Ionograma, hemograma y hemostasia sin alteraciones a destacar (INR de 1).
+*	ANALÍTICA EN NEUROLOGÍA: PCR 0.42, Cr. 1.32, FG 49, Na/K 142/4.6, A. úrico 3, TGD 279, perfil hepático
+conservado, hematimetría y coagulación sin alteraciones, Hb glicada 7.9, eje toroidal conservado.
+
+Radiología / Radiologia
+*	TC CRANEAL BASAL: Hipodensidad en cápsula interna derecha, sugestiva de isquemia aguda Microangiopatía crónica.
+*	TC PERFUSIÓN: No se observan alteraciones valorables en los mapas de perfusión. Sin discordancia significativa.
+*	ANGIO-TC EXTRA E INTRACRANEAL: Las calcificaciones puntiformes en surcos frontales derechos en TC basal corresponden a ramas M4 de la ACM derecha, y probablemente tengan un origen crónico. Ateromatosis calcificada en el segmento intracavernosos de ICA I que no condiciona estenosis >50%. Arteria vertebral izquierda dominante.
+*	RADIOGRAFÍA DE TÓRAX: Patrón intesrticial bilateral sin condensaciones ni pinzamento de senos costofrénicos ni otras alteraciones.
+
+Exploraciones complementarias / Exploracions complementàries
+*EKG: Ritmo sinusal.
+
+Evolución / Evolució
+1.	SÍNDROME HEMIMOTOR IZQUIERDO. ICTUS CAPSULAR DERECHO.
+A su llegada el paciente se encuentra hipertenso (TAS de 170) y afebril. A la exploración física presenta disartria y un síndrome hemimotor izquierdo con NIHSS de 11. Analítica sanguínea que muestra insuficiencia renal (creatinina 1,6 mg/dl) sin otras alteraciones. EKG en ritmo sinusal. En la neuroimagen (TC multimodal y RM craneal) se identifica hipodensidad en cápsula interna derecha, sugestiva de isquemia aguda, sin retrasos en los mapas perfusión ni otras lesiones agudas. El estudio vascular (angio-TC y angio-RM) muestra ateromatosis difusa sin estenosis ni oclusiones.
+Se orienta como un síndrome hemimotor izquierdo en contexto de ictus isquémico lacunar del despertar en paciente con factores de riesgo cardiovascular. Dado el inicio incierto de los síntomas y la presencia de una lesión establecida en la neuroimagen, se desestima tratamiento fibrinolítico. Se modifica tratamiento antiagregante de aspirina a clopidogrel.
+Durante su estancia en la unidad de ictus el paciente permanece estable, con tendencia a la hipertensión (PAS 160mmHg) que se controla posteriormente con fármacos vía oral. Se traslada al _SS_ por sectorización.
+Al Alta:
+- NIH:11.
+-	TOAST: lacunar.
+-	mRS: 5.
+
+2.	DIABETES MELLITUS
+En analítica presenta HbA1c de 7.9% (previa de febrero 2017 de 8.3) en paciente insulinizado. Se recomiendan medidas higiénico dietéticas y monitorización de glicemias.
+
+3.	INSUFICIENCIA RENAL CRÓNICA AGUDIZADA PRERENAL.
+Analítica a su llegada con Cr. 1.62 y FG 37 que tras iniciar sueroterapia mejora a su función renal basal Cr.
+1.32 y FG 49.
+
+
+
+Plan terapéutico / Pla terapèutic
+- Insulina glargina 40UI a la noche - Insulina rápida según glicemia capilar DE-CO-CE-A - Magnesio hidróxido - Pantoprazol 400mg DE-0-0 - Deflazacort 6mg/24h DE-0-0 - Enoxaparina 40mg/24h 0-0-CE - Clopidogrel 75mg/24h DE-0-0 - Pravastatina 40mg/24h 0-0-CE - Bimatoprost 0.1mg/mL/24h oftálmico - Amlodipino 5mg/12h - Captopril 25mg/8h - Valsartan 80mg DE-0-0 - Tamsulosina 0,4mg DE-0-0
+
+Otras recomendaciones / Altres recomanacions
+.
+
+
+
+Firma/Signatura1: _NAME_	Firma/Signatura2: _NAME_ Categoría: Resident 2	Categoría: Especialista
+Nº Matrícula _SS_: _ID_	Nº Matrícula _SS_: _ID_
+
+Fecha/Data Informe: 04.10.2017
+Hora Informe: 06:03:01
+
+Docum.: _ID_
+Hist. Clínica: _ID_
+El _SS_ ha incorporado sus datos al Fichero de Pacientes, para tratarlos con fines sanitarios.
+Puede ejercer sus derechos de acceso, rectificación, cancelación y oposición, así como obtener mas información en la Unidad de Atención al Cliente.
+Vers. 00
+Pag. 2 de
+3
+Episod.: _ID_
+_SS_ ha incorporat les seves dades al Fitxer de Pacients, per a tractar-los amb finalitats sanitàries. Pot exercir els seus drets d'accés, rectificació, cancel·lació i oposició, i obtenir més informació a la Unitat d'Atenció al Client.
+_SS_
+_LOCATION_) _LOCATION_) Tel. _CONTACT_ Fax _CONTACT_
+http://_CONTACT_/

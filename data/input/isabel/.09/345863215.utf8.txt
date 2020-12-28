@@ -1,0 +1,136 @@
+_LOCATION_ Tel. _CONTACT_
+e-mail: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 82 Anys
+NIF/DNI: _ID__NAME_; _NAME_;
+ _NAME_; _NAME_; _NAME_
+Informe d'alta d'hospitalització
+_LOCATION_
+_SS_ NEUROLOGIA 08.03.2017	10:12:22
+ABS
+Servei Data d'alta
+_CONTACT_
+DOMICIL/RES.SOC 03.03.2017
+_LOCATION_ CP
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Debilidad de extremidades izquierdas.
+
+ANTECEDENTS
+Paciente varón de 82 años, no alérgia medicamentosa conocida, no hábitos tóxicos. Totalmente independiente para actividades básicas vida diaria, escala Rankin 0.
+
+Niega antecedentes de factores de riesgo cardiovascular. Niega antecedentes patológicos ni quirúrgicos de interés.
+
+MEDICACIÓ HABITUAL
+Duodart 0,5/0,4mg de forma ocasional.
+
+PROCÉS ACTUAL
+El día 03.03.2017 se levanta a las 09:00h asintomático, a las 10:00h presenta una caída y la familia lo encuentra con desviación comisura bucal y hemiparesia izquierda por lo que activa código ictus a las 10:45h, llegando a urgencias del nuestro centro a las 11:00h.
+Niega palpitaciones.
+
+EXPLORACIÓ FÍSICA
+
+FC	60 bpm
+Tªaxi 36.0 ºC
+FR	rpm Tªrec  ºC
+TA s	148 mmHg SAT O2 94 %
+TA d   63 mmHg Pes Kg
+
+En Urgencias:
+Glicemia llegada 108mg/dL.
+Exploración neurológica: Paciente consciente y orientado, no elementos afásicos, disartria moderada-grave, no alteración campimétrica por reflejos de amenaza, mirada centrada, no alteración oculomotora, paresia facial izquierda con leve componente superior, no alteración de PPCC bajos, leve claudicación ESI, no déficit sensitivo, dudosa anosognosia, no asomatognosia ni extinción sensitiva o motora, RCP flexor bilateral.
+NIHSS (0.0.0)0.0//2(0.1)(0.0)//0.0.0. 2.1 = 6.
+
+AC con TCR sin soplo ni roce, AR con MVC sin ruidos sobreañadidos, abdomen blando y depresible, no se palpa masa ni visceromegalia, peristaltismo conservado, no edema ni signos de TVP en EEII.
+
+En Unidad de Ictus Agudo:
+Glicemia 105 mg/dL.
+Consciente, orientado, colaborador. Lenguaje normal. Isocoria normorreactiva. Campimetría por confrontación normal. MOE sin paresias, no nistagmos. Pares craneales sin alteraciones. Fuerza y sensibilidad táctil conservadas, no extinción. No dismetría. NIHSS 0.
+
+Informe d'alta d'hospitalització
+
+
+
+
+En Planta de Hospitalización de Neurología:
+Vigil, orientado en los tres ejes. No trastorno del lenguaje ni de la articulación del lenguaje. No trastorno campimétrico ni de la oculomotricidad. No asimetría facial. Resto de pares craneales. Fuerza y sensibilidad conservada. Tono normal. No dismetrías.
+NIHSS 0.
+
+AC: rítmico, sin soplos. AP: MV conservado. Hemorragia corneal en OD en resolución.
+
+EXPLORACIÓ COMPLEMENTÀRIA
+En Urgencias:
+ECG: ritmo sinusal a 70lpm, PR 140ms, eje QRS -60º, QRS 90ms, no alteración de repolarización aguda.
+
+Analítica urgente: Hemograma: leucocitos 6300 (N 76%, L 14,4%, M 8%), Hb 14,1g/dL, Hto 43,1%, plaquetas
+113.000. Hemostasia: TP 76%, fibrinógeno 303mg/dL, TTPA 30,2seg. Bioquímica: glucosa 120mg/dL, urea 59mg/dL, creatinina 0,78mg/dL, PCR 0,80mg/L.
+
+TC craneal (03.06.2017 11:15h): no se observan lesiones isquémicas ni hemorrágicas agudas. ASPECTS=10. Hiperdensidad focal de la ACM derecha en su porción M2 distal compatible con obstrucción arterial. Prominencia de surcos de la convexidad infra y supratentoriales de forma proporcionada al tamaño del sistema ventricular compatible con atrofia cerebral difusa. Hipodensidad focal temporal izquierda , en probable relación con espaio de V-R dilatados. Cisternas basales y perimesencefálicas libres. Línea media centrada. No se aprecian alteraciones óseas TC valorables. Sin otras alteraciones parenquimatosas ni extraaxiales TC valorables.
+
+AngioTC craneal (03.06.2017 11:15h): amputacíon de ACM izquierda en su porcíon M2 distal , sin colateralidad. Vasos arteriales extracraneales permeables, sin defectos de repleción y de calibre normal. Resto de estructuras vasculares intracraneales permeables y sin defectos de repleción.
+
+En Unidad de Ictus Agudo:
+Analítica:
+Hemograma: Leucocitos 5100 (54.1% neutrófilos, 30% linfocitos), Hemoglobina 14 g/dL, VCM 88 fL, 29.3 pg,
+Plaquetas 102000.
+Bioquímica: Glucosa 82 mg/dL, Hemoglobina glicosilada  5.8%, Proteína 56.2 g/L, Albúmina 34.4 g/L, Urea 45
+mg/dL, Creatinina 0.86 mg/dL (FG 81), Urato 5.2 mg/dL, Calcio 8.3 mg/dL, Fosfato 3.2 mg/dL, Magnesio 1.68 mg/dL, Sodio 138.3 mmol/L, Potasio 4.24 mmol/L, Cloruro 106.2 mmol/L, Bilirrubina 1.53 mg/dL, Fosfatasa alcalina 44 U/L, ALT 15 U/L, GGT 20 U/L, LDH 178 U/L, CK 131 U/L, PCR 2.1 mg/L.
+Perfil lipídico: Triglicéridos89 mg/dL, Colesterol 161 mg/dL, HDL51.4 mg/dL, LDL 92 mg/dL. Proteinograma: Pendiente.
+TSH: 4.65
+
+TC craneal de control (04.03.2017 13:05h): aparición de área de bajo coeficiente de atenuación corticosubcortical frontotemporal derecha que se extiende hasta cabeza del caudado derecho, asociada a pequeño foco hiperdenso en el giro precentral derecho , hallazgos compatible con lesión isquémica establecida de aspecto TC agudo/subagudo en territorio superficial y profundo de la ACM derecha con probable minimo foco de transformacíon hemorrágica. Resto sin cambios: Prominencia de surcos de la convexidad infra y supratentoriales de forma proporcionada al tamaño del sistema ventricular compatible con atrofia cerebral difusa. Hipodensidad focal   temporal   izquierda   ,   en   probable   relacion   con   espaio   de   V-R   dilatados.  Cisternas   basales   y
+
+Informe d'alta d'hospitalització
+
+
+
+
+perimesencefálicas libres. Línea media centrada. No se aprecian alteraciones óseas TC valorables. Sin otras alteraciones parenquimatosas ni extraaxiales TC valorables.
+
+Ecocardiograma transtorácico: ventrículo izquierdo no dilatado y ligeramente hipertrófico. Sin alteraciones en la contractilidad segmentaria y con función global conservada. Aurícula izquierda ligeramente dilatada. Raíz aórtica moderadamente dilatada, aorta ascendente y cayado aórtico ligeramente dilatadas. esclerosis aórtica sin estenosis con Insuficiencia aórtica ligera ++. Alteración diastólica tipo I.
+
+Radiografía de tórax: Presencia de infiltrados algodonosos en base pulmonar derecha de aspecto indeterminado.
+
+EVOLUCIÓ CLÍNICA
+Se trata de un paciente varón de 82 años sin factores de riesgo cardiovascular conocidos que consulta vía código ictus por hemiparesia izquierda de 1h de evolución. A su llegada a urgencias el paciente se encuentra hemodinámicamente estable, la exploración neurológica objetiva hemiparesia facio-braquial izquierda con disartria moderada puntuando un NIHSS de 6, el ECG está en ritmo sinusal y la analítica urgente destaca leve plaquetopenia. Se realiza TC craneal urgente donde no se observa lesión isquémica ni hemorrágica aguda y el angioTC muestra amputación de una rama de ACM derecha (M2).
+
+Se orienta el caso como ictus isquémico agudo territorio ACM derecha de mecanismo embólico y etiología en estudio, dada la presencia de oclusión distal y el paciente se encuentra dentro de ventana de tratamiento, se reexplora al paciente que permanece con la misma clínica, se comenta con la familia y se consensúa administración de rTPA (dosis total 76,5mg), iniciando el bolus a las 11:45h, TA previa bolus 136/71mmHg. A los pocos minutos de iniciada la trombolisis endovenosa el paciente mejora progresivamente hasta encontrarse asintomático, con exploración neurológica normal. Se decide ingreso en Unidad de Ictus Agudo para control hemodinámico, clínico y metabólico.
+
+Durante su estancia en la unidad las constantes han permanecido dentro de la normalidad sin precisar tratamiento farmacológico. Durante la monitorización se detectan rachas de escasos segundos de duración de fibrilación auricular por lo que se inicia tratamiento con Dabigatran 110mg/12h al 5º día del episodio, sin incidencias.
+
+La analítica de ingreso muestra una trombopenia leve de 102000, sin otras alteraciones significativas. Se realiza radiografía de tórax en la que se observa infiltrado algodonoso basal derecho, sin correlación clínica por lo que se mantiene actitud expectante. Se realiza ecocardiograma transtorácico en el que se observa aurícula izquierda ligeramente dilatada además de raíz aórtica moderadamente dilatada, aorta ascendente y cayado aórtico ligeramente dilatadas, esclerosis aórtica sin estenosis con insuficiencia aórtica ligera.
+
+Neurológicamente se encuentra asintomático con exploración neurológica normal, sin incidencias durante su estancia.
+
+DIAGNÒSTICS
+436/5 Ictus.
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Dieta cardiosaludable.
+Dabigatran 110mg cada 12 horas vía oral. Resto de su tratamiento sin cambios.
+
+Informe d'alta d'hospitalització
+
+
+
+
+CONTROL
+Control en Consultas Externas de Neurología (Dra. _NAME_) el día 2.06.2017a las 9:30h Control por su médico de familia y especialistas habituales.
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+08.03.2017
+Pàgina 1 de 4

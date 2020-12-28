@@ -1,0 +1,140 @@
+_LOCATION_ Tel. _CONTACT_
+e-mail: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 64 Anys
+NIF/DNI: _ID__NAME_; _NAME_;
+ _NAME_; _NAME_; _NAME_; _NAME_,
+Informe d'alta d'hospitalització
+CP	_LOCATION_
+ABS	_SS_
+Servei	NEUROLOGIA
+Data d'alta  09.03.2017	16:15:52
+_LOCATION_
+_CONTACT_
+DOMICIL/RES.SOC 07.03.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Alteración del habla y confusión
+
+ANTECEDENTS
+Paciente varón de 64 años, no AMC, exfumador de 30 cigarrillos/día hasta hace más de 2 años, no enol. Jubilado, independiente para ABVD, escala Rankin 0.
+
+-	Hipertensión arterial en tratamiento farmacológico con buen control tensional, en seguimiento por su médico de família.
+-	Cardiopatía isquémica que debutó en 2014 en forma de angor inestable:
+·	Ecocardiograma 07.2014: función ventricular conservado (FE 61%), no valvulopatía.
+·	Coronariografía (07.2014): enfermedad coronaria de un vaso con lesión crítica en Descendente Anterior (DA)  proximal.	Vasoconstricción generalizada  que  mejora con  NTG,  con  resto  de  vasos  con  lesiones  no significativas.  Se  realiza  angioplastia con  implante  de  stent  farmacoactivo  (Resolute  Integrity  3,5x18  mm), post-dilatando a nivel del ostium de la primera Diagonal, con buen resultado final y sin complicaciones.
+·	Coronariografía de control en 2015 por nuevos episodios: sin alteraciones, stent correcto.
+-	Antecedentes de amaurosis bilateral hace 15 años que se acabaron diagnosticando de cuadros funcionales. No disponemos de informes. Explica que le ocurrían de manera brusca, cada unos 15 días, de minutos de duración, y le ocurrieron durante un año. explica que cree que fue estudiado con TC y EEG que fueron normales, pero que no está seguro. NO ha vuelto a tener estos episodios.
+
+MEDICACIÓ HABITUAL
+Ivabradina 5mg 2comp/24h, Ronalazina 500mg 1comp/24h, Cafinitrina si precisa, Adiro 100mg 1comp/24h, amlodipina 5mg 1comp/24h, Bisoprolol 5mg 1comp/24h, Nitroglicerina parche 1 unidad/24h, Simvastatina 20mg 1comp/24h, Zaldiar si precisa.
+
+PROCÉS ACTUAL
+Paciente que está en _SS_ para estudio de fiebre alta desde hace 24h, hoy 06.03.2017 a las 08:45h presenta trastorno de emisión de lenguaje de despertar (última hora visto asintomático ayer 21:30h) por lo que activa código ictus y nos lo deriva para valoración. A parte explica un episodio de fiebre de 38ºC esta mañana y cuadro compatible con catarro de vía aérea superior, con febrícula, desde hace unos días.
+
+EXPLORACIÓ FÍSICA
+
+FC	79 bpm
+Tªaxi 36.9 ºC
+FR	rpm Tªrec  ºC
+TA s	127 mmHg SAT O2 93 %
+TA d   68 mmHg Pes Kg
+
+En urgencias a su llegada:
+Paciente vígil, inatento, inquieto, quejoso y agitado, afasia global, no desviación oculocefálica, no alteración oculomotora, no déficit campimétrico por reflejos de amenaza, no paresia facial, no alteración de PPCC bajos, no déficit motor, no déficit sensitivo claro, RCP flexor bilateral. No meningismo.
+
+Informe d'alta d'hospitalització
+
+
+
+
+
+AC con TCR, soplo eyectivo pansistólico (consta leve soplo eyectivo en 2014), AR con MVC sin ruido sobreañadido, abdomen blando y depresivo, no doloroso a la palpación, no se palpa masa ni megalia, peristaltismo conservado, no edema ni signos de TVP en EEII. Pequeña lesión vesiculosa espacio intercostal izquierdo.
+
+En planta de neurología:
+Consciente y orientado en 3 esferas. Lenguaje sin elementos afásicos: nomina, obedece, evoca y repite correctamente. Sin inatención ni extinción sensitiva. Oculomotricidad y campimetría por confrontación normales. Pupilas isocóricas y normorreactivas. Sin paresia ni alteración sensitiva facial. Sin disartria. Lengua protruída y retraída y úvula, centradas; elevación del velo del paladar simétrica, reflejo nauseoso conservado bilteral. Sin alteración de la fuerza en extremidades, tanto a nivel distal como proximal. Sin alteración de la sensibilidad al tacto fino ni al picnhazo en extremidades. Sin dismetrías en extremidades. Marcha conservada sin aumento de base de sustentación, Romberg negativo. RCP flexor bilateral.
+
+
+EXPLORACIÓ COMPLEMENTÀRIA
+- Hemograma: leucocitos 12300 (N 78,9%, L 11,8%, M 8,7%), Hb 15,2g/dL, Hto 45,5%, plaquetas 152.000.
+-	Hemostasia: TP 75%, fibrinógeno 704mg/dL, TTPA 28,4seg.
+-  Bioquímica: glucosa  109mg/dL, urea  23mg/dL, creatinina  0,79mg/dL, Na  137mmol/L, K  3,8mmol/L, PCR 14,1mg/L.
+-	Sedimento de orina: negativo.
+-	Cribaje de tóxicos en orina: negativo.
+-	Antigenuria en orina para Legionella pneumoniae y Streptococcus pneumoniae: negativos.
+
+-	Hemograma de control: GB 6600 (N4300, L 1100, M 700), Hb 14.8g/dL volumetría normal, plaquetas 16000/mL.
+-	Bioquímica: HbA1c 5.3%, FG >90mL/min, calcio8.1mg/dL, fosfato 2mg/dL, magnesio 2.29mg/dL, bilirrubina 0.67mg/dL, FA 69U/L, ALT 11U/L, GGT 27U/L, LDH 145U/L, PCR 14.7mg/L, TAG 87mg/dL, colesterol 103mg/dL, LDL 61mg/dL, HDL 28mg/dL, proteinograma sin alteraciones patológicas. TSH 0.96uUI/mL, T4 libre 0.88ng/dL. Marcadores tumorales: CEA, aFP, PSA, CA 19.9 sin alteraciones. Ag asociado a carcinoma escamoso PENDIENTE. Autoinmunidad PENDIENTE, FR indetectable.
+
+-	Hemocultivo: PENDIENTE.
+
+-	Estudio LCR: aspecto cristalino, 32cél/mL, 30 eritrocitos/mL, leucocitos 2leuc/mL, no xantocromía, proteína 0,83g/L, ADA 2,9U/L, LDH 19U/L, lactato 1,9mmol/L, albúmina 52,88mg/dL, glucosa 69mg/dL.
+·	PCR: VHS 1, VHS 2, VVZ, CMV, VEB, VHS6 negativos. Bacterias: tinción de Gram negativo, cultivo bacteriológico	negativo. Micológico: cultivo PENDIENTE. Anatomía patológica solo con hematíes, sin otro tipo de células.
+
+-	ECG: ritmo sinusal a 75lpm, PR 140ms, eje QRS 0º, QRS 90ms, no alteración de repolarización aguda.
+
+-	Rx de tórax: no condensación ni derrame pleural.
+
+-	TC craneal con angioTC: No se observan signos compatible con ictus isquémico o hemorrágico TC valorables. Cisternas basales y perimesencefálicas libres. Línea media centrada. Sistema ventricular simétrico de tamaño y morfología conservados. Sin alteraciones óseas TC valorables. No se aprecian alteraciones intra ni extraaxiales
+-	
+Informe d'alta d'hospitalització
+
+
+
+
+TC valorables. Leve ateromatosis carotídea sin evidencia de  estenosis signicativas. Vasos arteriales intra y extracraneales permeables y sin defectos de repleción. Vasos venosos intracraneales permeables.
+
+-	VEEG: Se realiza registro videoelectroencefalográfico con equipo Deltamed de 40 canales y colocación de electrodos según SI 10-20 durante 40 minutos. Se observa un ritmo de base que alterna frecuecnais en rango alfa a 8 Hz con frecuencias más lentas en rango theta a 5 Hz de predominio bifrontal. De forma frecuente se observan paroxismos epileptiformes intercríticos en forma de punta onda de mediano voltaje en región  frontotemporal izquierda (FP1-F3-F7-T5). No hay signos de status. No se registran crisis. Impresión: Registro patológico por la presencia de freucentes paroxismos epileptiformes intercríticos en región frontotemporal izquierda.
+
+-	Ecocardiograma transtorácico: VI de dimensiones normales con funcion sistolica conservada Sin imagenes de vegetación en planos valvulares ni alteraciones valvulares significativas.
+
+-	RMN cerebral con contraste: Se han practicado secuencias en los tres planos del espacio potenciadas en T1 y T2, incluyendo secuencias de difusión, así como secuencias T1 con contraste endovenoso. Hallazgos: Estructuras de la línea media centradas. Sistema ventricular de morfología y tamaño normal. Parénquima cerebral, cerebeloso y del tronco cerebral sin alteraciones morfológicas ni de señal de resonancia significativas. Las secuencias de difusión no ponen de manifiesto lesiones isquémicas agudas o subagudas. Tras la administración de contraste nose ponen de manifiesto realces patológicos parenquimatosos o meníngeos. Cisternas basales y peritronculares libres. Charnela occipitocervical sin anomalías valorables. Tronco vértebrobasilar y segmento intracraneal proximal de ambas carótidas internas permeables. Conclusión: Examen craneal dentro de la normalidad.
+
+
+EVOLUCIÓ CLÍNICA
+Se trata de paciente varón de 64 años con antecedente de hipertensión arterial y cardiopatía isquémica con enfermedad de un vaso tratada con stent que el 06.03.17 presenta dificultad de emisión de lenguaje de despertar asociada a fiebre de 38ºC y cuadro febricular y catarral de unos días de evolución, por lo que se dirige al _SS_, desde donde nos derivan al paciente vía código ictus.
+
+El paciente llega a Urgencias del nuestro centro a las con unas 3 horas de evolución desde el despertar, se encuentra hemodinámicamente estable, afebril. A la exploración neurológica destaca afasia global así como destaca inatención, paciente quejoso y agitado, sin meningismo. Un ECG está en ritmo sinusal. Analítica urgente muestra leve leucocitosis con aumento de reactante fase aguda, Rx de tórax no muestra condensación. Se realiza TC craneal con angioTC que no muestra lesión isquémica ni hemorrágica aguda así como oclusión de gran vasos. Se orienta en ese momento como posible encefalitis, por lo que se inicia tratamiento con aciclovir, ampicilina y cefotaxima sin corticoides, clonazepam 1mg, levetiracetam 500mg/12h y se realiza punción lumbar asistida por servicio de Anestesiología de guardia, que únicamente muestra proteinorráquia leve (0.8g/L) Se decide ingreso en planta de neurología, aunque el paciente queda evolucionando en urgencias con monitorización electrcardiográfica y acompañado, debido a la falta de camas en planta.
+
+Durante los tres días de ingreso, queda con constantes vitales normales con su tratamiento habitual y sin necesidad de insulinoterapia. Se retira el tratamiento antibiótico y antiviral al segundo día de evolución, tras evidenciarse normales los pruebas de enfermedades infecciosas en el líquido cefalorraquídeo; el paciente no vuelve a presentar fiebre.
+
+Informe d'alta d'hospitalització
+
+
+
+
+
+Como prueba complementaria patológicas, destaca un video-electroencefalograma realizado a las 24 horas de eovlución, que muestra actividad epileptiformes en región frontotemporal izquierda; tras la realización del mismo, se decide aumentar levetiracetam a 1000mg cada 12 horas (persistía con leve afasia durante su realización). El resto de las pruebas muestran resultados normales o quedan pendientes al moemnto del alta.
+
+A nivel neurológico, el paciente queda completamente asintomático sin presentar complicaciones médicas ni neurológicas. Se termina orientando como crisis comicial parcial simple con afasia en contenxto de infección de  vía aérea alta con fiebre, quedando como muy improbable la posibilidad de encefalitis. Se decide alta a domicilio y seguieminto por neurólogo de zona.
+
+DIAGNÒSTICS
+780.39/2 Crisi comicial
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+-	Iniciar levetiracetam 1000mg cada 12 horas vía oral.
+-	Dieta cardiosaludable.
+-	Ejercicio físico aeróbico al menos 30minutos por día.
+-	Se recomienda no conducir transportes al menos hasta la próxima visita con neurología. Resto de su medicación habitual sin cambios.
+CONTROL
+-	Control con especialistas habituales.
+-	Control con neurólogo de zona (Hospital Municipal de _LOCATION_).
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+09.03.2017
+Pàgina 1 de 4

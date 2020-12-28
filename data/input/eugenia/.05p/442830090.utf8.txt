@@ -1,0 +1,177 @@
+_LOCATION_ Tel. _CONTACT_
+e-mail: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 69 Anys
+NIF/DNI: _ID__NAME_;; _NAME_; _NAME_;;
+_NAME_
+Informe d'alta d'hospitalització
+13:00:00
+14.11.2017
+_LOCATION_
+_SS_ NEUROLOGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_; _CONTACT_; _CONTACT_; DOMICIL/RES.SOC
+02.11.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Ictus isquémico multiterritorial.
+
+ANTECEDENTS
+Mujer de 69 años sin alergias conocidas, exfumadora desde hace 3 años (carga tabáquica de 15 cigarrillos/año), sin otros hábitos tóxicos.  Es ambidiestra.
+
+Situación funcional: Vive con su marido en _LOCATION_. Independiente para las actividades básicas de la vida diaria. Escala Rankin 0. Antecedentes laborales: ama de casa.
+
+Antecedentes familiares: 2 primos maternos presentaron ictus a edad temprana (30-40 años), la madre presentó ictus a los 70 años, hijo con epilepsia controlada por Neurología de nuestro centro (Dr. _NAME_).
+
+ANTECEDENTES PATOLÓGICOS:
+-Hipertensión arterial en tratamiento farmacológico.
+-Dislipemia en tratamiento con Ezetimibe (tratamiento previo con estatinas a las que refiere intolerancia en forma de plaquetopenia).
+-Púrpura trombopénica autoinmune diagnosticada en el año 2003 resistente a corticoides y a rituximab por lo que en 2004 fue tratada mediante esplenectomía manteníendose en remisión completa hasta marzo/16, cuando tuvo un nuevo brote que respondió con metilprednisolonaen bolus.
+-Limfocitosis y eosinofília en estudio de más de 10 años de evolución. En 2005, se halló en TC realizado a raíz de tromboembolia pulmonar unas adenopaties mediastínicas que se biopsiaron y mostraron hiperplàsia folicular reactiva i fenotipo limfocitario normal. Por ahora sin evidencia de síndrome limfoproliferativo.
+-Episodios trombóticos multiorgánicos:
+-Tombosis venosa profunda de pierna derecha con tromboembolia de repetición.
+-Tromboembolia pulmonar: 2 episodios, uno en 2005 durante postoperatorio de la esplenectomia realizando tratamiento  con HBPM durante 6 meses y otro en 2014.
+-Trombosis retiniana izquierda en 2012.
+-Hallazgo mediante TC craneal en 2009 y 2012 a raíz de cefalea de 2 pequeñas areas encefalomalácicas compatibles con lesiones isquémicas o hemorrágicas crónicas en zona parietal izquierda posterior sin haber referido clínica	neurológica.
+-Ictus de territorio de territorio indeterminado izquierdo en 2014 de mecanismo probable embólico y etiología indeterminada en contexto de retirada de sintrom para biopsia de adenoaptias que presentó clínica de alteración de la  emisión del lenguaje y paresia facial derecha) y recuperó con leve déficit de lenguaje residual. Se realizó estudio de	trombofilias en el que se detectó un anticoagulnate lúpico positivo débil (AT y mutaciones FV Leiden y G20210A del gen  de la protrombina fueron normales). También se detectó una dismiminución de la proteína C y  la proteína S, aunque poco	valorable dado que ambas son vitamina K dependientes y en ese momento estaba antiocagulada con Sintrom. Para	completar el estudio quedaría por repetir al anticoagulante lúpico y ampliar  el resto de ac antifosfolípidos.
+-Antecedente de avorto precoz.
+-Enfermedad renal crònica estadio 3b estable, de etiologia no filiada. Última ecografia renal amb signes de nefropatia crònica, amb doppler normal, però no es pot descartar causa isquèmica.
+
+Informe d'alta d'hospitalització
+
+
+
+
+- Migraña. Sigue controles en NRL de _SS_ (Dr. _NAME_).
+-Insuficiencia venosa crónica, que ha estado tratando con Daflon. Intervenida de EII (CHIVA) y controlada por cirugía vascular de nuestro centro (Dr _NAME_).
+-Síncope neurocardiogénico-ortostáticoen 2009 acentuado por tto vasodilatador
+-Traumatismo  craneoencefálico  leve  en  mayo  de  2015.  Se  realizó  TC  craneal  que  no  mostró  lesiones hemorrágicas intracraneales ni extraaxiales. Se observa lesión isquémica crónica parietal izquierda.
+-	Bronquitis crónica no estudiada.
+-	Psoriasis en gotas.
+-	Espondilolistesis.
+
+MEDICACIÓ HABITUAL
+Sintrom 3 mg cada día excepto dos domingos al mes, que toma 4 mg Paracetamol, Metamizol, Lisinopril, Ezetrol, Acfol, Valium a demanda
+
+PROCÉS ACTUAL
+El 02/11/17 acude por clínica fluctuante de alteración en la emisión del lenguage desde hace una semana con algún episodio de confusión y apraxia. Refiere hormigueo en ambas manos y mejillas. Asimismo ha presentado cefalea leve sin signos de alarma. Niega pérdida de fuerza o alteración de la visión. No pérdida de consciencia ni movimientos involuntarios. No traumatismo craneal. Se activa código ictus el 02/11/17 a las 08:33h a nivel de _SS_) y llega a nuestro centro a las 09:20h.
+
+EXPLORACIÓ FÍSICA
+
+FC	99 bpm
+Tªaxi 37.8 ºC
+FR	rpm Tªrec  ºC
+TA s	169 mmHg SAT O2 96 %
+TA d   84 mmHg Pes Kg
+
+Exploración en urgencias: Estat anímic ansiós. Conscient, orientada. Elements afàsics lleus, amb parafàsies fonèmiques i semàntiques. Comprensió conservada. No alteració oculomotra ni campimètrica. No alteració motora a extremitats. Possible extinció sensitiva dreta, sense hipoestèsia. RCP flexor bilateral. No rigidesa de nuca.
+No signes de TVP
+Auscultació cardiaca sense alteracions. NIHSS:2   (00000/0(00)(00)/00101=2)
+
+Exploración en Unidad de ictus: Consciente y orientada en los 3 ejes. Lenguaje sin elementos afásicos, discreta disartria. Pupilas isocoricas normoreactivas. Oculomotricidad sin restricciones, diplopia ni nistagmo. Campimetría por confrontación normal. No paresia ni hipoestesia facial. Úvula centrada, pilares simétricos. No debilidad cervical, trapecial ni de hipogloso. Fuerza y tono normal, reflejo cutáneo plantar flexor bilateral. Sensibilidad superficial conservada. No dismetrías. Marcha normal.
+NIHSS: 0.0.0.0.0/0.0.0.0.0/0.0.0.1.0 = 1.
+AC: ruídos cardíacos regulares, no se auscultan soplos. No edemas. AR: MVC; sin ruídos añadidos. Eupneica. Abdomen blando y depresible no doloroso.
+
+EXPLORACIÓ COMPLEMENTÀRIA
+URGENCIAS:
+
+Analítica (02/11/17): Hematologia (02/11/17): Leucocitos 13500 /µL, (N 46 % / L 32,1 / M 10,1 / E 10,4 / B 1,4),
+
+Informe d'alta d'hospitalització
+
+
+
+
+Htíes 4,13 mill/µL, Hb 13,1 g/dL, Hcto 40 %, VCM 96,8 fL, Plaquetes 237000 /µL, TP 54 %, INR 1,59 sg, TP ratio
+1,6, TTPA 28,6 sg, TTPA ratio 0,92, Fibrinógeno 488 mg/dL. Bioquimica (02/11/17): Glucosa 101 mg/dL, Urea 49,
+Creatinina 1,4, Na 131 mmol/L, K 5,1, Prot-C reactiva 4,2 mg/L.
+
+Rx tórax: índice cardiotorácico < 0.5, senos costofrénicos libres, sin condensaciones parenquimatosas.
+
+ECG: ritmo sinusal a 60 lpm, PR 160 ms, aQRS 30º, sin signos de alteración aguda de la repolarización.
+
+TC y angioTC craneal (02.11.2017): Lesíones hipodensas de aspecto tardias-crónicas en los territorios frontera de la ACA-ACM y ACM-ACP derechas y de la ACM-ACP izquierda. No se aprecian alteraciones intra ni extraaxiales TC valorables. Vasos arteriales intra y extracraneales permeables, sin defectos de repleción y de calibre normal. Se aprecia una asimetria de la opacidad del seno sigmoide izquierdo respecto al derecho, sin cambios comparado con la TC de 2014.
+
+Estudio neurosonológico:
+-	TSA: Se aprecia alguna placa ateromatosa en bulbo carotídeo izquierdo isohiperecogénica y aplanada que no ocasiona estenosis significativas. Vertebrales insonadas desde ostium vertebral sin estenosis focales. Carótida interna derecha normal.
+-	TC: Se insona ACM izquierda hasta 32mm sin alteraciones segmentarias de flujo, ACP izq permeable sin estenosis focales. A nivel derecho ACM y ACP simétricas a lado izquierdo. Territorio vertebrobasilar sin estenosis focales.
+
+UNIDAD DE ICTUS:
+
+Analítica de ingreso (07/11/17): Hematologia (07/11/17): Leucocitos 13700 /µL, (N 51,1 % / L 33,7 / M 9,3 / E 5,5
+/ B 0,4), Htíes 4,14 mill/µL, Hb 13,2 g/dL, Hcto 40,2 %, VCM 97 fL, Plaquetes 213000 /µL, TP 100 %, INR 1 sg, TP ratio 1, TTPA 33,1 sg, TTPA ratio 1,07, Fibrinógeno 556 mg/dL. Bioquimica (07/11/17): Glucosa 87 mg/dL, HbA1c 5,5 %, Urea 60 mg/dL, Creatinina 1,43, Filtrado glomerular estimado 37 mL/min/1.73 m2, Ca 9,5 mg/dL, Na 137,8
+mmol/L, K 5,1, ALT 28 U/L, GGT 55, FA 106, Bilirrubina 0,52 mg/dL, Prot-C reactiva 6,1 mg/L, Proteína 74,2 g/L.
+Lípidos.Triglicéridos 184 mg/dL, Colesterol 306, (HDL 78,8 / LDL 190). Hormonas (07/11/17): TSH 3,57 µUI/mL.
+
+Proteinograma: sin alteraciones
+
+RM y angioRM craneal (07/11/17): En la secuencia de difusión se observa un foco de restricción cortical temporal opercular posterior derecho, y pequeños focos puntiformes de restricción de difusión cortical frontal y parietal lateral derecho, que muestran una hiperintensidad en la secuencia potenciada en T2, compatible con focos de isquemia aguda establecida en territorio vascular superficial de la ACM derecha. Existe también una sutil hiperintensidad subcortical en la secuencia Flair precentral derecha, que se observa hiperintensa en el mapa b1000 de la difusión pero no hipointensa en el mapa de ADC y foco de hiperintensidad en la secuencia potenciada en T1 cortical temporal lateral derecha, en relación a necrosis laminar, ambos compatibles con foco de isquemia subaguda en territorio vascular superficial de la ACM derecha. Existen dos focos de atrofia cortical con gliosis marginal y áreas de mielomalacia a nivel cortical parietal lateral derecho, también en el izquierdo y en menor extensión a nivel cortical frontal lateral derecho, compatible con lesiones isquémicas crónicas en territorio vascular de ambas ACMs. Sistema ventricular simétrico, de tamaño normal. Línea media centrada. #Cisternas de la base y perimesencefálicas libres. La secuencia angiográfica intracraneal, muestra una ACP izquierda de origen fetal, discreta irregularidad  mural de el segmento intracraneal  de ambas arterias carótidas internas,  en relación  a
+
+Informe d'alta d'hospitalització
+
+
+
+
+ateromatosis, sin evidencia de estenosis críticas. Polígono de Willis permeable. Sistema vertebrobasilar conservado. Unión cráneo-cervical de características normales. CONCLUSION: Estudio que muestra múltiples infartos multiterritoriales,en distintos estadios cronológicos, a valorar cardioembólismo.
+
+Ecocardiograma transtorácico: Ventrículo izquierdo no hipertrófico ni dilatado, con función sistólica global y segmentaria conservadas. Aurícula izquierda ligeramente dilatada (40.5 ml/m2 en apical 4C). Válvula aórtica trivalva con velos finos, apertura conservada. Válvula mitral con velos finos, de morfología normal. Ventrículo derecho no dilatado con función sistólica conservada (TAPSE de 24 mm). Vena cava inferior no dilatada. Sin derrame pericárdico. Aorta ascendente no dilatada; aterosclerosis no complicada en cayado  aórtico. Patrón diastólico mitral de alteración de la relajación. Insuficiencia mitral mínima. Insuficiencia aórtica ligera; sin elevación del gradiente transvalvular aórtico. Sin signos indirectos de hipertensión pulmonar.
+
+Ecocardiograma transesofágico (09/11/2017): Ventrículo izquierdo no hipertrófico ni dilatado, con función sistólica global y segmentaria conservadas. Aurícula izquierda ligeramente dilatada. Sin alteraciones valvulares significativas. Ateromatosis no complicada en cayado aórtico.
+
+Estudio neurosonológico con shunt: negativo en basal y Valsalva
+
+EVOLUCIÓ CLÍNICA
+A su llegada a urgencias presenta TA 169/84 y fiebre de 37,8ºC. A la exploración destaca alguna parafasia fonética y semántica y dudosa extinción sensitiva, puntuando NIHSS de 2. Exploración sistémica normal, no se auscultan soplos cardíacos ni carotídeos. ECG en ritmo sinusal y sin signos de alteración de la repolarización. Se realiza analítica que muestra leucocitosis (13.500) con limfocitosis (L30%) sin elevación de reactantes de fase aguda, hiponatremia (Na 131) y función renal estable (creat 1.4) con hiperpotasemia (K 5.1). INR infrarrango (1.59). Se realiza TC con angioTC craneal que muestra lesiones hipodensas de aspecto tardías-crónicas en los territorios frontera de a. cerebral anterior (ACA) - a. cerebral media (ACM) derechas, de ACM y a. cerebral posterior (ACP) derechas y de ACM y ACP zquierdas. Se orienta como ictus isquémicos multiterritorialesen varios estadíos (subagudos-crónicos) de mecanismo y etiología a estudio. Se reinicia la anticoagulación con heparina no fraccionada. Se cursan hemocultivos. Ingresa en la Unidad de ictus para estudio y control evolutivo.
+
+Durante su ingreso en la Unidad de ictus se mantiene hemodinámicamente estable, eupneica y afebril (ha presentado únicamente fiebre en la primera determinación en urgencias). Analítica completa muestra leucocitosis con limfocitosis sin elevación de reactantes de fase aguda e hipercolesterolemia (CT 306 mg/dl, HDL 78.8mg/dl, LDL190mg/dl) con hipertrigliceridemia (184 mg/dl). Perfil tiroidal normal. Proteinograma sin alteraciones.
+Marcadores tumorales negativos. Se amplía estudio de trombofilias dado que en 2014 se detectó un anticoagulante lúpico positivo débil, así como disminución de las proteínas C y S (aunque este último hallazgo no resulta valorable dado que ambas son vitamina K dependientes y en ese momento estaba anticoagulada con sintrom) y se solicita Ac anticardiolipina y, de nuevo, proteínas C y S (aunque poco valorable dado el episodio trombótico agudo); no se solicita segunda determinación del Ac anticoagulante lúpico porque en el momento agudo no sería valorable.
+
+Informe d'alta d'hospitalització
+
+
+
+
+
+Se realiza RM con angioRM craneal que muestra múltiples infartos multiterritorialesen distintos estadios cronológicos (agudo/subagudo) en territorio vascular superficial de la ACM, así como lesiones isquémicas crónicas en territorio vascular de ambas ACMs). Dentro del estudio etiológico neurovascular se realiza ecocardiograma que muestra aurícula izquierda ligeramente dilatada y ateromatosis no complicada en cayado aórtico, sin otras alteraciones significativas. Se realiza estudio de shunt derecha-izquierda en el que no se observa paso de burbujas en estado basal ni tras maniobra de Valsalva correcta. No se objetivan eventos arítmicos en la monitorización ECG.
+
+A nivel neurológico se ha mantenido prácticamente asintomática des del momento del ingreso, únicamente presenta muy discreta afasia (leve agramaticalidad y alguna parafasia semántica y fonética) que ella misma refiere que es residual del último ictus. Ha tolerado dieta oral y deambulación.
+
+Se orienta como ictus isquémico multiterritorialde mecanismo embólico y etiología indeterminada criptogénica (en relación a estado procoagulante de la paciente). Se comenta con Hematología el tratamiento de prevención al alta, que creen conveniente un aumento de rango de Sintrom a 2,5-3,5 y se plantearán el inicio de aspirina concomitante en función de resultados de anticoagulante lúpico. EN VISITA DE CONTROL CONTACTAR TELEFÓNICAMENTECON LA DRA. _NAME_ O DR. _NAME_ PARA COMPROBAR CAMBIO.
+
+NIHSS al alta 0 mRS al alta 0
+
+DIAGNÒSTICS
+436/5 Ictus isquémico multiterritorialde mecanismo embólico en contexto de estado procoagulante
+
+PROCEDIMENTS
+88.91 Imatge per ressonància magnètica de cervell i tronc cerebral
+88.91 Imatge per ressonància magnètica de cervell i tronc cerebral
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+SINTROM SEGÚN PAUTA PARA INR DE 2.5-3,5
+Enoxaparina subcutánea 100 mg/día durante 3 días y STOP. RESTO DE SU MEDICACIÓN HABITUAL.
+CONTROL
+Control de INR en CAP Dr. _NAME_ de _LOCATION_.
+Se solicita primera visita en CEX NEurología para control (se contactará telefónicamente).
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+14.11.2017
+Pàgina 1 de 5

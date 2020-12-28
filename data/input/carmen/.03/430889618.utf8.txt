@@ -1,0 +1,109 @@
+SERVEI DE NEUROLOGIA
+INFORME DE ALTA
+Unitat d`IctusNº Historia clínica	_ID_
+Fecha de nacimiento
+_DATE_
+
+C.I.P.	_ID_	Código Centro	_ID_
+Teléfono	_CONTACT_	Dirección	_LOCATION_
+Fecha ingreso	17/10/17		_LOCATION_
+Fecha de alta	18/10/17	Teléfono	_CONTACT_
+Nº Asistencia	_ID_		
+UH	_ID_		
+
+DIAGNÓSTICOS:
+1.	AIT TERRITORIO ACM DERECHA (TACI) DE ETIOLOGIA CARDIOEMBÓLICA
+2.	ACXFA CRÓNICA
+3.	HIPODESCOAGULACIÓN POR DICUMARÍNICOS (INR 1.6)4. HTA
+5.	DM TIPO 2
+6.	DISLIPEMIA
+7.	ICTUS PREVIO TERRITORIO VB (POCI) CARDIOEMBÓLICO (enero 2017).
+
+Paciente de 74 años de edad. Fumador. No otros hábitos tóxicos ni alergias medicamentosas conocidas. Rankin histórico 1. Independiente para las ABVD.
+
+PROCEDIMIENTOS:
+-	Monitorización en unidad de ictus.
+-	TC craneal y angio TC.
+-	Doppler transcranial.
+
+MOTIVO CONSULTA:
+CODIGO ICTUS
+
+ANTECEDENTES:
+-	DM tipo 2 en tratamiento con Metformina.
+-	HTA en tratamiento con 3 fármacos.
+-	Dislipemia en tratamiento con estatinas.
+-	Fibrilación auricular de debut en septiembre 2016 valorado por Cardiología a nivel ambulatorio, en tratamiento anticoagulante con acenocumarol.
+-	Ictus POCI de territorio vertebrobasilar de etiología cardioembólica en enero de 2017 con clínica de hemiparesia izquierda. Alta NIHSS de 3, mRS 1.
+-	Cirugía de cataratas hace 1 semana (9/10), en pauta de reinicio de sintrom+HBPM
+
+MEDICACIÓN HABITUAL: metformina 850mg 1 comp/d + sintrom 12mg/setmana + atenolol 100mg/d + lisinopril/hidroclorotiazida 20/12,5mg/d + simvastatina 20mg/d + amlodipino 10mg/d.
+
+ENFERMEDAD ACTUAL:
+Acude a URG el día 17/10/2017 (tras haberse acostado a las 24:00 h) por haberse despertado a las 04:30 h con clínica de hemiparesia izquierda. Llega a nuestro centro a las 05:00 h como código ictus extrahospitalario. A su llegada a nuestro centro se objetiva clínica de TACI de ACM derecha con NIHSS de 15. ECG en ACxFA, Coagucheck de 1.6. TAC craneal sin lesiones agudas, ASPECTS de 10, ausencia de oclusión de gran vaso objetivable. Tras TC craneal presenta recuperación de clínica progresiva.
+
+EXPLORACIÓN FÍSICA:
+-	Exploración física en UCIAS:
+- CV: PA: 148/80 mmHg, SpO2: 98% aa.
+-	NRL: GCS 15, disartria moderada que no impide la comunicación, pupilas isocóricas y normoreactivas, HHI, desviación de la mirada que no cruza linea media, parálisis facial supranuclear izquierda, restantes pares cranealres correctos. Hemiplegía izquierda. Anosognosia con extinción que recupera durante la exploración.
+
+Nombre	_NAME_
+-	AC: arrítmica, no se auscultan roce ni soplos.
+-	AR: murmullo vesicular conservado bilateral y simétrico, sin ruidos sobreañadidos.
+-	ABD: blando y depresible, sin dolor a la palpación, peristaltismo conservado.
+
+-	Exploración física en Unidad de Ictus:
+-	CV: PA 110/70 mmHg, FC 55 lpm, afebril, glucemia 142 mg/dL, SpO2 99% aa. Test de disfagia (-).
+FA en monitor.
+-	NRL: consciente y orientado en las tres esferas, pupilas isocóricas y normoreactivas, no alteraciones campimétricas, MOEs conservados, pares craneales correctos excepto leve disartria (1) y parálisis facial derecha (1) ya conocidas por ictus previo. No alteraciones en la sensibilidad ni motoras. No dismetrías. NIHSS 2 (previo).
+-	AC: ACxFA a 60 lpm, sin soplos ni roces.
+-	AR: murmullo vesicular conservado sin ruidos sobreañadidos.
+
+EXPLORACIONES COMPLEMENTARIAS:
+-	Analítica UCIAS (17/10/17, 5:00 h): glucosa 142 mg/dL, Cr 0`74 mg/dL, FG 91 ml/min, CK 90 UI/L, PCR 0`7 mg/dL, Hb 18 g/dL, hto 52%, VCM 79 fL, HCM 27 pg, leucocitos 9000/uL, neutrófilos 4300/uL, plaquetas 261000/uL, TP 40.9%.
+-	Doppler transcranial: Presenta flujo correcto en ACM/ACA derechas. Se visualiza ACM distal hasta 35mm.
+-	ECG: ACXFA. BRIHH ya observado en ECG previos
+-	TC craneal basal + Angio TC (17/10/2017; 05.19h): No se observan hipodensidades compatibles con isquemia aguda/subaguda (ASPECTS 10 puntos). Infarto antiguo subcortical frontal derecho. Estudio angiográfico sin defectos de repleción.
+-	Analítica de ingreso (18/10/17 8:00h): urea 24 mg/dL, Cr 0.95 mg/dL, FG 79 ml/min, ác. úrico 5.9 mg/dL, Na 142 mmol/L, K 3 mmol/L, Cl 101 mmol/L, LDH 297 UI/L, CK 35, Br total 0.9, GOT/GPT 22/31 UI/L, GGT 29, FA 82, albumina 3.9, colesterol total 111, LDL 58, HDL 35, TG 155, Hb glicosilada 6.5, PCR 0.43, TSH 2.2, Hb 17 g/dL, leucocitos 9870/uL, N 6290/uL, plaquetas 221000/uL, TP 61%, INR 1.26
+
+EVOLUCIÓN:
+Se trata de un paciente de 74 años, con factores de riesgo vascular, hipodescoagulado, que presenta cuadro compatible con ictus TACI de ACM derecha.
+Se desestima tratamiento recanalizador por tiempo de evolución, ausencia de oclusión en neuroimagen y recuperación de la clínica.
+
+El  paciente  ingresa  en  Unidad  de  Ictus  para  monitorización  y  estudio  neurovascular.  Se  inicia enoxaparina 70mg cada 12 h y atorvastatina 40 mg cada 24 horas.
+Se valoran al ingreso el estado de ánimo, las necesidades de rehabilitación y se inician fisioterapia y movilización precoces.
+Durante el ingreso evoluciona de forma favorable, presentando al alta leve disartria que no impide entendimiento y parálisis facial izquierda, ambas ya conocidas por ictus previo.
+Durante el ingreso se realiza educación sanitaria acerca del ictus.
+No presenta complicaciones, y dada la estabilidad clínica se decide alta a domicilio.
+
+No  precisa  rehabilitación  al  alta,  por  lo  que  es  alta  a  domicilio.  Al  alta  se  cambia  tratamiento anticoagulante a Rivaroxaban
+Etiología TOAST cardioembólico, Oxford TACI. Al alta NIHSS 2 Rankin 1. Debe seguir controles en CCEE de Neurología en fecha programada.
+
+TRATAMIENTO:
+XARELTO 20 MG 1-0-0
+
+Suspender Sintrom
+Resto misma medicación habitual.
+
+Se recomienda control de función renal cada 6 meses por su médico de cabecera.
+
+INDICACIONES:
+-	Se recomienda control estricto de enfermedades que aumentan el riesgo de ictus: hipertensión arterial, diabetes, colesterol elevado (dislipemia) y enfermedades del corazón. Realizar el tratamiento de forma adecuada según las recomendaciones de su médico.
+-	Abstención de tabaco y alcohol
+-	Seguir una dieta adecuada,  con poca  sal, evitando grasas, especialmente  las saturadas (grasas animales, aceites y grasas para cocinar).
+-	Evitar la obesidad y el sobrepeso y realizar ejercicio físico moderado de forma regular.
+
+Dr/a.	_NAME_
+Dr/a.	_NAME_
+Dr/a.	_NAME_
+Cap Secció	(Nº Colegiado : _ID_)
+Metge/essa Resident
+(Nº Colegiado _ID_Metge/essa Resident
+(Nº Colegiado _ID_
+
+
+Les seves dades personals s'incorporen en un fitxer d´usuaris a fi del seu tractament sanitari. Pot exercir el seu dret d´oposició, accés i rectificació de les dades inexactes dirigint-se al Servei de Documentació Clínica.
+Sus datos personales se incorporan en un fichero de usuarios para su tratamiento sanitario. Puede ejercer su derecho de oposición, acceso y rectificación de los datos inexactos dirigiéndose al Servicio de Documentación Clínica
+
+_SS_ | NIF _ID_ |_LOCATION_ | Telèfon _CONTACT_ | Fax _CONTACT_ | _CONTACT_
+Pàgina 1 de 3

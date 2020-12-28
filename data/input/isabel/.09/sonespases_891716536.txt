@@ -1,0 +1,156 @@
+Fecha de Alta 
+18-05-2018
+
+Diagnosticos 
+- ECVA ISQUÉMICA: INFARTO ACMI DE ETIOLOGIA INDETERMINADA. NIHSS basal 24.
+  .OCLUSIÓN ACMI (M1) RECANALIZADA (TICI 2b) MEDIANTE TROMBECTOMÍA MECÁNICA 05/05/2018
+  .TRANSFORMACION HEMORRÁGICA (IH-2)
+- CAVERNOMA FRONTO-PARIETAL DERECHO, PROBABLE (hallazgo casual en TC craneal).
+- ITU AFEBRIL
+- DISFAGIA.
+
+Procedimientos 
+
+CODIGO ICTUS. TRASLADO INTERHOSPITALARIO URGENTE: H. CAN MISSES IBIZA-H. SON ESPASES MALLORCA
+TROMBECTOMIA MECANICA PRIMARIA
+INGRESO U. REANIMACION
+INGRESO UNIDAD ICTUS
+NEUROIMAGEN
+SONDAJE URINARIO. SONJE NASOGÁSTRICO
+NEUROREHABILITACION
+PRUEBAS LABORATORIO
+
+Alergias
+
+Sin Alergias Conocidas
+
+
+Anamnesis
+
+
+
+Motivo de consulta: Mujer de 70 años trasladada como CODIGO ICTUS EXTERNO DEL DESPERTAR desde Ibiza el día 05/05/18
+
+Antecedentes Personales:
+- No alergias medicamentosas
+- Habitos tóxicos: niega.
+- Situación basal: IABVD. mRS 0 . Natural de Irlanda. De vacaciones en Ibiza.
+- Mediación habitual:
+* atorvastatina 20 mg /24h
+* levotiroxina 50 mcg /24h
+* amlodipino 5 mg /24h
+
+Antecedentes Patológicos:
+- HTA, DL. Niega DM.
+- Hipotiroidismo post tiroidectomía.
+- I. Qx: Histerectomía
+
+Enfermedad Actual:
+Mujer de 70 años, última vez vista asintomática a las 21:30 del 04/05/2018, que es vista a la mañana siguiente sobre las 8:30 con mutismo, desviación de comisura bucal y hemiplejia izquierda. Es llevada a la Policlínica del Rosario (Ibiza), donde realizan TC informando de lesión de calcificada a nivel parietal derecho que no justifica la sintomatología. Se ponen en contacto con nosotros que activamos código ictus y se activa el traslado a HUSE a través del 061.
+
+Exploración Física a su llegada a urgencias:
+- Constantes:  Temp 35.3  Afebril,  FC 98 lpm,  TA 143/ 78mmHg,  SatO2 98 %, (GN 2lpm) Glucemia 145
+- Estado general: Eupneica, regular estado general.
+- Neurológico: Consciente orientación no valorabre por mutismo completo. No obedece órdenes sencillas. Pupilas isocóricas normorreactivas. Tendencia oculocefálica a la izquierda, sin desviación forzada de la misma. Hemianopsia homónina derecha por amenza. Parálisis facial supranuclear derecha.  Eleva contra gravedad EEII, hemiplejía completa de EEDD.  No retira miembros al dolor. Reflejo cutáneo plantar flexor izquierdo, extensor derecho.  ROTs presentes y simétricos
+ESCALA NIH:
+1a. Nivel de conciencia:0. Alerta, responde
+1b. Preguntas LOC:2. Ninguna correcta
+1c. Ordenes LOC:2. Ninguna correcta
+2. Mirada conjugada:1. Paresia/limitación de la mirada
+3. Campos visuales:2. Hemianopsia completa
+4. Parálisis facial:2. Paresia parcial
+5a. Brazo derecho:4. Ningún movimiento
+5b. Brazo izquierdo: 0. No claudica
+6a: Pierna derecha: 4. Ningún movimiento
+6b: Pierna izquierda: 0. No claudica
+7. Ataxia:0. No ataxia (o en caso de hemiplejia o afasia severa)
+8. Sensibilidad:2. Hipoestesia severa, anestesia, afectación bilateral (paciente en coma)
+9. Lenguaje:3. Mutismo, afasia global (coma)
+10. Disartria:2. Disartria severa, ininteligible, mutismo
+11. Extinción:0. Sin alteración
+PUNTUACION TOTAL NIH:24
+
+- AR: MVC en ambos campos pulmonares sin ruidos sobreañadidos
+- AC: tonos rítmicos, sin soplos ni extratonos.
+- ABD: blando y depresible. Persitaltismo conservado. No doloroso a la palpación. No palpo masas ni megalias. No signos de irritación peritoneal.
+- MMII: pulsos periféricos presentes y simétricos. No edemas. No signos de TVP.
+ 
+
+
+
+
+Resultados pruebas complementarias 
+
+
+
+- Analítica Sanguínea urgente: Hemograma (Hb 14,10 / Leucocitos 10,10/ Plaquetas 244000), coagulación básica (INR 1,17), bioquímica  (Glucemia 158/ Creatinina 0,76/ Urea 28/ Na 139 / K 3.5 )
+
+- ECG: RS a la 90 lpm, línea de base vibrada aunque se aprecian ondas P,  PR < 200 msg, QRS estrecho, no alt. agudas en la repolarización.
+
+- TC cerebro sin contraste del 05-05-2018: Pérdida de diferenciación sustancia blanca-gris a nivel insular, lenticular, cuerpo del caudado y frontal izquierdo. (ASPECTS 6-7) Hiperdensidad en el trayecto de M1 distal. Sistema ventricular de tamaño y morfología normal. Línea media centrada. Cisternas de la base bien definidas. A nivel parietal derecho se identifica una lesión nodular hiperdensa de 13mm, en probable relación con cavernoma parcialmente calcificado como primera posibilidad, sin poder descartar componente hemorrágico, mucho menos probable. Angio-TC TSA y arterias cerebrales del 05-05-2018: Se identifica un defecto de repleción en la porción distal de M1 izquierda. Resto de arterias cerebrales principales y TSA permeables. Senos venosos permeables. TC Perfusión cerebral del 05-05-2018: En los mapas de perfusión se observa una aumento del MTT a nivel del territorio superficial y profundo de la ACM izquierda, así como una disminución del CBV a nivel frontal, insular y caudado izquierdos, en relación con lesión isquémica aguda. Mismatch >50%. CONCLUSIÓN: Lesión isquémica aguda en el territorio de la ACM izquierda con área de penumbra >50%. Stop en M1 de la ACM izquierda.
+
+- Trombectomía intra y extracraneal mecanica del 05-05-2018: Paciente de 72 años con oclusión de ACM izquierda. TROMBECCTOMÍA MECÁNICA INTRACRANEAL. Punción femoral derecha. Se comprueba una oclusión M1 izquierda que se recanalizada con aspiración proximal del trombo. TICI 2b Sin incidencias. Crono patología NIHSS :24 Inicio: desconocido (21:30) Sintomas:08:30 Activacion 12:18 HUSE: 14:40 TC : 15:10 ACM izda densa penumbra 75%. ASPECT 7 Sala 15:31 Femoral:15:55 Reperfusión :16:10 TICI 2b
+
+- TC cerebro sin contraste ev urgente del 06-05-2018: Hallazgos: Hipodensidad en córtex frontal, insular, temporal, núcleo caudado y cápsula interna izquierdas en relación con lesión isquémica subaguda en evolución. Condiciona leve efecto masa con colapso de surcos y cisuras de la convexidad ipsilateral, compresión parcial del asta frontal y atrio del VLI así como desviación de la línea media hacia la derecha de unos 3mm (a nivel del septum pellucidum). Hiperdensidad en el cuerpo del núcleo caudado y en el núcleo lenticular izquierdos, a considerar extravasación de contraste como primera posibilidad sin poder descartar transformación hemorrágica aunque menos probable, a valorar evolutivamente. Lesión nodular hiperdensa de 13 mm fronto-parietal derecha de localización córtico-subcortical, en probable relación con cavernoma. 
+Cisternas de la base conservadas. Conclusión: Lesión isquémica subaguda en territorio de la ACMI, con leve efecto masa. Hiperdensidad en ganglios de la base izquierda en relación con extravasación de contraste y menos probable transformación hemorrágica.  
+
+- TC CEREBRO SIN/CON CONTRASTE control 07/05/2018: TC cerebro sin contraste del 07-05-2018:  control ictus ACM izquierdo  Se compara con TC previo del 06/05/2018.  Hallazgos: Área hipodensa frontal, insular, temporal, núcleo caudado y capsula interna izquierda en relación con lesión isquémica subaguda en evolución. Condiciona efecto masa sobre el asta frontal del VLI y desviación de la línea media (3mm) sin cambios significativos respecto al estudio previo. A nivel de núcleo lenticular izquierdo se observa una hiperdensidad, ya descrita en estudio previo, sin cambios significativos, en probable relación con extravasación de contraste, sin poder descartar transformación hemorrágica. Lesión nodular hiperdensa fronto-parietal derecha de 13mm de localización cortico-subcortical, probablemente cavernoma. Cisternas de la base permeables.  Conclusión: Lesión isquémica subaguda en territorio de la ACM izquierda, en evolución. Hiperdensidad en ganglios basales izquierdos, probablemente en relación con extravasación de contraste, siendo menos probable transformación hemorrágica. 
+
+- ANALITICA 07/05/18: Neutrofilos 75,50 % 07/05/2018 07:12 CEST (Alto). Resto hemograma, coagulacion y bioquimica sin alteraciones. 
+Treponema Pallidum, AC IgG (Elisa) Negativo 07/05/2018 09:34 CEST
+
+- TC cerebro urgente sin contraste del 09-05-2018:  Se compara con TC del 7/5/18  Hallazgos:   Área hipodensa a nivel frontotemporal y en ganglios de la base izquierdos en relación con lesión isquémica subaguda en evolución.  Condiciona efecto masa sobre el asta frontal del VLI y leve desviación de la línea media hacia la derecha, sin cambios significativos. Persiste hiperdensidad a nivel de núcleo lenticular izquierdo, sin cambios significativos, sugestiva de transformación hemorrágica.  Hiperdensidad nodular fronto-parietal derecha, probable cavernoma.  Cisternas de la base permeables.    Conclusión:  Lesión isquémica subaguda en territorio de la ACM izquierda, en evolución, con signos de transformación hemorrágica. 
+
+- ETT: CONCLUSIONES EN CUESTIÓN POR LA MALA CALIDAD DEL ESTUDIO, FUNCIÓN SISTÓLICA GLOBAL NORMAL, PROLAPSO MITRAL DEL VELO POSTERIOR, INSUFICIENCIA MITRAL MODERADA, PRESIONES PULMONARES NO ELEVADAS, DILATACIÓN LIGERA DE RAIZ AÓRTICA
+Ventrículo izquierdo de tamaño normal. Función sistólica global de VI normal (EF 54%). Sin anormalidades de la contracción segmentaria. Disfunción diastólica leve (Grado 1). No existe hipertrofia del VI. Aurícula izquierda ligeramente dilatada. Ventrículo derecho de tamaño normal. Presiones pulmonares no elevadas. Tamaño normal de aurícula derecha. Válvula aórtica:No se observa estenosis aórtica. Dilatación ligera de la raiz de aorta ( senos 37mm, UST preservada, anillo 22mm) Válvula mitral: redundante con prolapso del velo posterior. Moderada regurgitación mitral (grado 2 sobre 4) telesistólica. Válvula tricúspide: Mínima regurgitación tricúspide (grado 0-1 sobre 3) con gradiente VA derecho de 26 mmHg
+ 
+- CEREBRO Y ANGIO RM
+Cerebro y angio RM del 10-05-2018:  Control ictus isquémico  Hallazgos:  Se observa una lesión a nivel del lóbulo temporoparietal derecho supra insular con marcado artefacto paramagnético, hiposeñal en sustancia blanca adyacente en relación con probable hemosiderosis focal. Moderado aumento del espacio subaracnoideo con surcos y cisuras prominentes a nivel de la región frontoinsular. Imágenes hiperintensas en T2 y FLAIR  de localización yuxtacortical, en sustancia blanca profunda asi como periventriculares  en ambos hemisferios. algunas de la cuales presenctan coalescencia.  Se observa también una extensa hiperseñal en FLAIR que afecta la porción profunda del territorio de la ACM izquierda y parte del territorio superficial de la ínsula y del lóbulo temporal que presenta una marcada restricción de la difusión. También se observa una artefacto de susceptibilidad magnética a nivel de los nucleos basales en relación con probable sangrado. Dicha área de hiperseñal en FLAIR muestra una marcada restricción de la difusión con cierta disminución del ADC. En el estudio angio RM 3D TOF muestra la presencia de una obliteración parcial del segmento M2 de la ACM izquierda identificándose menos ramas insulares que la arteria contralateral. Se observa también una hipoplasia del segmento A1 izquierdo.  Conclusión: Lesión a nivel de sustancia blanca temporoparietal derecha con artefacto de susceptibilidad magnética que en el TC presenta algún foco de calcificación y que es sugestiva de cavernoma con hemosiderosis focal con restos de sangrado. Marcada restricción de la difusión en territorio profundo de la ACM izquierda con afectación de partes del territorio superficial en relación con lesión isquémica subaguda. Se observa la presencia de un área de sangrado a nivel de los nucleos basales izquierdos en la porción central del área isquémica. 
+
+- Neurosonología:
+DTSA: pequeña placa hiperecoica y redondeada en bulbo carotídeo D que no condiciona alteraciones hemodinámicas. AVs permebles y simétricas.
+DTC: VTT subóptima, sólo se insona P2 derecha con curva normal. No se puede estudiar VSO por situación clínica del paciente.
+Conclusión: ateromatosis carotídea leveen eje D, estudio incompleto
+
+- Sedimento orina urgente 16/05/2018: pH 8, nitirtos POSITIVO, 50-100 leucos/campo
+
+- Resultados de laboratorio 18/05/2018: Neutrofilos 76,60 % 18/05/2018 07:01 CEST (Alto)
+Resto hemograma normal. GGT 132. PCR 0.23 
+
+
+
+
+Evolución Hospitalaria 
+
+
+
+Mujer de 70 años, de vacaciones en Ibiza, natural de Irlanda, con AP de HTA, DL e hipotiroidismo postquirúrgico, que es hallada a las 8:30 con una alteración del lenguaje y un hemiplejía derecha, por lo que es trasladada a centro privado en Ibiza. Se realiza TC, objetivándose lesión redondeada de aspecto calcificado en zona parietal derecha que no justifica los síntomas. Se ponen en contacto con nosotros activándose código ictus. La paciente llega a HUSE a las 14:40 pm objetivándose una NIHSS de 24. El estudio de neuroimagen multimodal muestra un ASPECTS 6-7 con un área de penumbra en territorio ACM Izquierda del 50-75% con stop a nivel M1. Por el tiempo de evolución y la lesión cerebral parietal derecha de etiología no filiada se desestima tto. con fibrinolisis IV procediéndose a trombectomía mecánica primaria (TICI 2b). Posteriormente la lesión descrita es diagnosticada de probable cavernoma.
+
+La evolución neurológica ha sido lenta pero con tendencia a la mejoría. Se ha realizado tratamiento rehabilitador. Como incidencias durante el ingreso, presentó edema cerebral las primeras horas tratado con manitol con buena respuesta. Tendencia a la HTA con necesidad de ajuste de fármacos antihipertensivos. ITU tratada con antibiótico coincidiendo con sondaje vesical. Disfagia que precisa colocación de SNG para nutrición, que posteriormente mejora y tolera de forma segura una dieta adaptada.
+
+En el momento del alta, presenta la siguiente exploración: buen nivel de consciencia. Afasia transcortical de predominio motor con bloqueos en el lenguaje y probables neologismos (barrera idiomática), nomina objetos sencillos con algunos fallos, repite sin fallos y obedece órdenes semicomplejas. Disartria leve-moderada. PPICNR, sin alteraciones en CV por confrontación, MOEs conservados sin nistagmo, paresia facial derecha, hemiparesia braquio-crural derecha significativa con plejia MSD y paresia 2/5 MID, aunque intenta realizar esfuerzo contra gravedad con región proximal. Niega alteración de la sensibilidad. Babinski derecho, RCP flexor izdo. No exploro marcha. NIHSS al alta 11 puntos [4-2, 5b-4, 6b-3, 9-1, 10-1].
+
+Los últimos días de ingreso, inicia dieta oral con consistencia modificada por presentar disfagia a líquidos. Buena tolerancia a la sedestacion.
+Dada la estabilidad clínica, la paciente puede volar a su país para seguir allí el estudio etiológico y realizar una neurorehabilitación integral.
+
+
+
+
+Recomendaciones y tratamiento al alta 
+
+FIT TO FLY
+
+   Active Medications
+           Ácido acetilsalicílico: 100 mg, 1 comp, SNG, Co.
+           Amlodipino: 5 mg, 1 comp, Oral, Ce.
+           Amoxicilina-Clavulánico: 500 mg, 1 sobre, Oral, C/8h (finaliza el 21/05/2018)
+           Atorvastatina: 20 mg, 1 comp, Oral, Ce.
+           Bemiparina: 3.500 UI, 1 jeringa, SC, C/24h (20:00h).
+           Dexketoprofeno: 50 mg, 2 ml, 4 mL/h, IV Perfusión Interm, C/8h, A demanda: Si dolor.
+           Insulina soluble: 1 UI, 0,01 ml, SC, DeCoCe23h, A demanda: Según BMTEST.
+           Levotiroxina: 50 mcg, 2 comp, A60'-De.
+           Omeprazol: 20 mg, A20'-De.
+           Paracetamol: 1 g, 1 comp, Oral, C/8h.
+           Valsartán: 80 mg, 1 comp, Oral, De.
+
+Dieta consistencia pudding con agua gelificada.

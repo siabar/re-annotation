@@ -1,0 +1,123 @@
+_LOCATION_ Tel. _CONTACT_
+_CONTACT_
+Informe Alta Hospitalització
+_NAME_
+HC: _ID_
+
+>
+
+Informe de Cuidados Intensivos
+
+
+Adreça: _LOCATION_	Data naix.: _DATE_
+Població: _LOCATION_	Sexe: FEMENI
+Provincia: _LOCATION_	CIP: _ID_
+País: _LOCATION_	NASS: _ID_
+Telèfon: _CONTACT_	DNI o Tarja Residència: _ID_
+
+
+Servei: Medicina Intensiva	Data ingrés a URG: 02/07/2017 19:16
+Unitat clínica: Medicina Intensiva	Data hospitalització: 02/07/2017 20:03
+Tipus d'ingrés: Urgències	Data alta: 04/07/2017 19:00
+Proveïdor de Serveis: Servei Català de la Salut	Destí: 11 - Defunció
+
+
+
+Diagnòstic principal:
+
+431 HEMATOMA CEREBRAL
+
+Procediments:
+
+90.59 ANALITICA SANG
+87.44 RADIOGRAFIA DE TORAX
+89.52 ELECTROCARDIOGRAMA ECG
+87.03 TAC CRANIAL
+
+
+
+
+
+Pacient de 75 anys d'edat que ingressa per HEMORRAGIA CEREBRAL
+
+Antecedents:
+
+Malalties prèvies:
+
+HIPERTRANSAMINASEMIA (hallazgo analítico en 2011. Controles ambulatorios. ) GOLL MULTINODULAR (no estudiado.
+
+Antecedents neonatals, obstètrics i quirúrgics:
+
+FRACTURA INTRAARTICULAR EXTREM DISTAL RADI EDR (izquierdo, intervenida de manera diferida el 07/16. Se realiza reducción abierta de la fractura del estremo distal del radio izquierdo y osteosíntesis con placa sin incidencias. .
+
+Medicació prèvia:
+
+RECEPTA: Hidroferol 0.266mg 1/2setmanes, Acelndronat 70mg/setmana.
+
+Situació funcional:
+
+Situació mental: FFSS conservadas
+Situació física: Autónoma para las ABVD
+
+Antecedents socials i professionals:
+
+
+Situació social: Vive sola. Madre de 3 hijos.
+
+Història Actual:
+
+Paciente de 75 años, que ingresa en la UCI por HEMATOMA INTRAPARENQUIMATOSO parietal derecho.
+
+Es traida a urgencias por código ictus el 02/07/16 por clínica de 1h de evolución de somnolencia, cefalea, mareo y vómitos.
+A la llegada a urgencias tendencia a la HTA. Se objetiva heminegligencia izquierda, hemianopsia homó nima izquierda, desviación oculocefálica derecha, PFSN izquierda y probable hipoestesia izquierda.
+Se realiza TC de cráneo que muestra hematoma intraparenquimatoso parietal subcortical derecho, de unos 6.5 cm, abierto a sistema ventricular.
+
+Se decide ingreso en UCI.
+
+Exploració física:
+
+-	A la seva arribada a urgències:
+NRL: C i O, somnolenta, nominació i comprensió correctes, PICNR, hemineglicència E i HHE (2), amb desviació oculo-cefàlica a la D (2), PFSN E (1), no claudicacions motores, RCPs flexors, possible hipoest èsia E. NIHSS=5.
+
+-A su llegada a la UCI:
+TA 162/85 mmHg FC 85 lpm. Afebril
+NRL: C y O. Somnolienta. GCS 14 (O 3 V5 M6). PICNR. Desviación oculocefálica derecha. Hemianopsia izquierda. Paresia y hipoestesia F-B-C izquierda. RCP derecho flexor, izquierdo indiferente.
+AC: RCR, no ausculto soplos. No signos de IC derecha ni de TVP. AP: MVC, sin ruidos sobreañadidos.
+ABD: anodino
+
+Resum proves complementàries:
+
+Laboratori:
+
+-AS (02/07/17): Leucòcits 8.3 x 10^9/L, Hematies 4.78 x 10^12/L, Hemoglobina 138 g/L, Hematòcrit 0.39 L/L, Volum corpuscular mig 81.2 fL, Hemoglobina corpuscular mitja 28.9 pg, Conc. Hb. corpuscular mitja 356 g/L, Índex dispersió hematies 12.6 %, Plaquetes 225 x 10^9/L, Neutròfils (%) 58.6 %, Limfòcits (%)
+33.3 %, Eosinòfils (%) 1.7 %, Basòfils (%) 0.7 %, Monòcits (%) 5.7 %, Temps protrombina 0.97 ratio, T.Tromboplastina parcial activ 1.02 ratio, Glucosa 107 mg/dL, Urea 38 mg/dL, Creatinina 0.68 mg/dL, Sodi 141 mEq/L, Potassi 4.5 mEq/L
+
+Imatge:
+
+-	TC crani (02/07/17): Hematoma intraparenquimatós parietal subcortical dret (6.5cm), obert al sistema ventricular.
+
+-	TC crani (03/07/17; 03;30h):Augment de l'hematoma intraparenquimatos parietal dret obert al sistema ventricular amb un volum de 87cc (estudi previ 46cc) amb empitjorament radiològic del efecte de massa, actualment significatiu, i aparició de hidrocefalia supratentorial
+-	
+
+-	TC crani (03/07/17; 10:30h):Pràctica estabilitat de l'hematoma lobar agut parietal dret obert al sistema ventricular i sense evidència de signes que siguin suggestius de la presència d'una anomalia vascular subjacent a l'estudi AngioTC.
+Discreta disminució del grau de dilatació hidrocefàlica del VL dret amb persistència de la dilatació a la resta del sistema ventricular, amb extrem del catèter de DVE a la paret lateral sde la banya frontal dreta. Voluminós goll tiroïdal esquerre.
+
+-	Angiografia cerebral (03/07/17): sense alteracions significatives.
+
+Altres proves:
+
+-	ECG: RS a 84 lpm. PR 160 ms. QRS estrecho. No alteraciones de la repolarización.
+
+Evolució i comentaris:
+
+1) Hematoma intraparenquimatoso. Hemorragia intraventricular: La paciente ingresó con el diagnóstico de hemorragia cerebral abierta al sistema ventricular. Durante las primeras horas la paciente presentó un empeoramiento clínico. Un nuevo TC craneal mostró crecimiento del hematoma y dilatación del sistema ventricular. Se optó por colocar un drenaje ventricular externo que dio escasa salida de un líquido hemá tico. Sin mejoría clínica, la paciente se quedó en situación de coma con Glasgow 5.
+
+Posteriormente, se realizó un estudio de neuroimagen avanzada que descartó la presencia de aneurisma o malformación arteriovenosa, por lo que se decidió otro drenaje ventricular e iniciar tratamiento intratecal con rTPA. A pesar de todas estas medidas, la paciente presentó empeoramiento con Glasgow 3, con PIC por encima de 50, sin mejoría con las medidas terapéuticas. En esta situación la paciente presentó un episodio de poliuria, hipertensión y taquicardia y posterior hipotensión, que requirió el inicio de tratamiento vasopresor.
+Se comentó a la familia la situación de empeoramiento clínico hacia una situación irreversible.Se realiza exploración clínica compatible con muerte cerebral que se complementa con Angio-TC de cráneo con hallazgos por imagen de dicho diagnóstico.
+
+Certificamos el éxitus a las 19:00 h. Se informa a la familia de la posibilidad de donación que aceptan.
+
+_LOCATION_, 04/07/2017
+_NAME_	_NAME_
+(Nº col _ID_)	(Nº col _ID_
+Nom i cognoms metge: _NAME_ (Nº col: _ID_Pàg.: 1/3

@@ -1,0 +1,30 @@
+T1	Fecha_de_ingreso 269 280	10/03/ 2017
+#1	AnnotatorNotes T1	2017-03-10
+T2	Fecha_de_alta 292 303	16/03/ 2017
+#2	AnnotatorNotes T2	2017-03-16
+T3	SECCION_DIAGNOSTICOS 352 363	DIAGNÒSTICS
+T4	_SUG_Ictus_isquemico 368 382	Ictus isquèmic
+T5	Ataque_isquemico_transitorio 368 413	Ictus isquèmic amb simptomatologia reversible
+T6	Arteria_afectada 415 437	territori indeterminat
+T7	Localizacion 415 437	territori indeterminat
+T8	_SUG_Etiologia 439 463	etiologia cardioembòlica
+T9	Etiologia 449 463	cardioembòlica
+T10	_SUG_Lateralizacion 623 630	Dretana
+T11	SECCION_ANTECEDENTES_PATOLOGICOS 651 674	ANTECEDENTS  PATOLÒGICS
+T12	SECCION_SITUACION_FUNCIONAL 1162 1189	Situació social i funcional
+T13	SECCION_TRATAMIENTO_HABITUAL 1294 1314	Tractament  habitual
+T14	SECCION_MOTIVO_DE_INGRESO 1461 1475	MOTIU D'INGRÉS
+T15	Fecha_inicio_sintomas 1484 1492	10.03.17
+#15	AnnotatorNotes T15	2017-03-10
+T16	Fecha_llegada_hospital 1484 1492	10.03.17
+#16	AnnotatorNotes T16	2017-03-10
+T17	Hora_inicio_sintomas 1532 1534	09
+#17	AnnotatorNotes T17	09:00
+T18	Hora_llegada_hospital 1821 1823	13
+#18	AnnotatorNotes T18	13:00
+T19	SECCION_EXPLORACION_FISICA 2219 2237	EXPLORACIÓ  FÍSICA
+T20	SECCION_EXPLORACIONES_COMPLEMENTARIAS 2801 2831	EXPLORACIONS   COMPLEMENTÀRIES
+T21	SECCION_EVOLUCION 4098 4106	EVOLUCIÓ
+T22	SECCION_TRATAMIENTO_AL_ALTA 5192 5202	TRACTAMENT
+T23	Hora_de_alta 5455 5460	12:34
+#23	AnnotatorNotes T23	12:34

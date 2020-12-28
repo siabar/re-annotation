@@ -1,0 +1,21 @@
+T1	Fecha_de_ingreso 100 110	28/07/2017
+#1	AnnotatorNotes T1	2017-07-28
+T2	Fecha_de_alta 124 132	02/08/17
+#2	AnnotatorNotes T2	2017-08-02
+T3	SECCION_ANTECEDENTES 356 367	Antecedents
+T4	SECCION_TRATAMIENTO_HABITUAL 556 575	Tractament habitual
+T5	SECCION_PROCESO_ACTUAL 889 904	Malaltia actual
+T6	Hora_inicio_sintomas 1070 1075	16:00
+#6	AnnotatorNotes T6	16:00
+T7	SECCION_EXPLORACIONES_COMPLEMENTARIAS 3194 3222	Exploracions complementàries
+T8	SECCION_EXPLORACIONES_COMPLEMENTARIAS_EN_PLANTA_DE_NEUROLOGIA 4169 4187	Analítica d'ingrés
+T9	SECCION_EVOLUCION 5037 5045	Evolució
+T10	SECCION_DIAGNOSTICOS 5416 5427	Diagnòstics
+T11	Ictus_isquemico 5429 5444	Infart isquèmic
+T12	Localizacion 5458 5465	parcial
+T13	Arteria_afectada 5468 5471	ACM
+T14	Lateralizacion 5472 5475	esq
+T15	_SUG_Etiologia 5478 5502	etiologia cardioembòlica
+T16	Etiologia 5488 5502	cardioembòlica
+T17	SECCION_TRATAMIENTO_AL_ALTA 5574 5584	Tractament
+T18	SECCION_CONTROL 5771 5778	Control

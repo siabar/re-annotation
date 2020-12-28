@@ -1,0 +1,147 @@
+_LOCATION_
+_LOCATION_) Anul·lació/Reprogramació visites:_CONTACT_
+Telèfon Centraleta: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 78 Anys
+NIF/DNI: _ID_Informe d'alta d'hospitalització
+11:51:00
+07.09.2017
+_LOCATION_
+_SS_ NEUROLOGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_; _CONTACT_
+DOMICIL/RES.SOC 25.08.2017
+_NAME_
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Ictus veretebrobasilar.
+
+ANTECEDENTS
+Alergia a las Sulfamidas y AAS.
+Hipertensión arterial en tratamiento médico. Dislipemia en tratamiento médico. Diabetes mellitus II en tratamiento con antidiabéticos orales.
+-Tuberculosis a los 20 años. Ingreso prolongado en _LOCATION_ realizando varios neumotórax terapéuticos y finalmente toracoplastia.
+-Insuficiencia repiratoria crónica secundaria a secuelas de tuberculosis pulmonar. En tratamiento con VMNI por la noche y dos horas por la tarde. Úlitmo ingreso hospitalário en abril 2013 en contexto de infección respiratoria tratada con A/C con correcta evolución clínica posterior. Controles por NML (Dr. _NAME_). Espirometría febrero 2015: disminución severa de la capacidad ventilatoria (FVC 53.1, FEV1/FVC 60.3, FEV1 39.3).
+-Ingresada en NRL en julio de 2015 por AIT vertebrobasilar. Se realizó estudio vascular con angioTC de TSA con calcificaciones ateromatosas en ambas bifucaciones carotídeas sin estenosis significativas y craneal sin alteraciones; RMN cerebral con afectación isquémica crónica de la sustancia blanca, sin lesiones isquémicas agudas y angioRMN cerebral sin alteraciones. ETT sin alteraciones. Holter ECG en ritmo sinusal. En tratamiento antiagregante con clopidogrel (alergia a la AAS).
+-Trastorno depresivo en tratamiento farmacológico.
+
+- Intervenciones quirúrgicas: toracotomía, colecistectomia, apendicectomizada y faquectomía.
+
+Situación basal: Independiente para AVBD. mRankin 0.
+
+MEDICACIÓ HABITUAL
+Clopidogrel 75mg/24h, Enalapril 5mg/24h, Levotiroxina 25mcg/24h, Aledronato semanal,  metformina 850/12h, Caclio + colecalciferol, omeparazol 20mg/24h, Repaglininda 0,5mg/8h, Formoterol + budesonida, simvastatina 10mg/24h, Lorazepam, Mirtazapina 30mg/24h, Desvenlafaxina 100mg/24h.
+
+
+PROCÉS ACTUAL
+Mujer de 78 años de edad con los antecedentes mencionados que el día 25/08 es traída por SEM. La familiar explica que la paciente se fue a acostar el día anterior a las 23 horas asintomática y, al despertarse a las 9h de la mañana, al ir al baño tuvo que avisar a su esposo por presentar dificultad para movilización de extremidades derechas y para el habla. El esposo la ayudó a sentarse, avisa al SEM quienes objetivan disartria, hemiparesia derecha y anisocoria, con TA 110/70 mmHg y DXT 290 mg/dL.
+Activan código ictus vía SEM a las 10:02h. Llega a urgencias de HUB a las 10:13h.
+A su llegada a urgencias, la paciente estaba HDME con TA 152/37 mmHg, FC 102 lpm, satO2 99%, afebril. DXT 289 mg/dL. INR 0.9.
+A la exploración neurológica: somnolienta (2), apertura ocular a estímulo verbal tras insistir, dice su edad con disartria severa (2), no dice el mes (1), obedece dos órdenes simples, anisocoria I>D, levemente fotorreactivas,
+
+Informe d'alta d'hospitalització
+
+
+
+
+mirada desconjugada, no impresiona hemianopsia por amenaza. No asimetría facial por Foix. Moviliza extremidades de forma simétrica. Sensibilidad no valorable (1). RCP flexor bilateral. NIHSS  6
+Durante el traslado al TC (a las 10:34h), presenta empeoramiento consistente en aumento somnolencia y anartria. Se realiza TC craneal que muestra hiperdensidad a nivel del TOP de la basilar y P1, sin alteraciones a nivel del parénquima, y angioTC craneal que muestra defecto de repleción a nivel del top de la basilar y segmento P1 de ACP izquierda. Se activa guardia de Neurovascular a las 10:40h, siendo candidata a trombectomía.
+A la revaloración por parte de neuróloga de guardia la paciente se encuentra estuporosa, anisocoria con mirada desconjugada, no emite lenguaje, tetraparesia con BBK bilateral.
+Se orienta el caso como ictus vertebrobasilar con oclusión de top de basilar y segmento P1 de ACP izq con repermeabilización distal, no siendo candidata a tratamiento con rTPA por hora de inicio incierto. Se decide realización de trombectomía mecánica, consiguiéndose repermeabilización total (TICI 3) y decidiéndose ingreso a UCI para seguir evolución.
+A su ingreso a UCI el 26/08, la paciente se encuentra hemodinámicamente TAmedia > 75mmHg, a ritmo sinusal 90lpm sin alteraciones eléctricas, sin signos de IC, bien perfundida, pulsos periféricos presentes en 4 extremidades. Requiere Intubación OroTraqueal y Ventilación Mecánica Invasiva, con buena tolerancia a la PS con FiO2 40%,PEEP +5. Se realiza una Rx de tórax que no muestra infiltrados ni condensaciones. Durante las primeras horas de ingreso la paciente realiza auto extubación, sin presentar alteraciones posteriores, con pCO2 52mmH, afebril, leucocitos 12000xmm3, sin otros signos de respuesta  inflamatoria sistémica. Hb estable, sin signos sangrado activo, tiempos de coagulación correctos.
+A la exploración neurológica tras extubación, paciente consciente, orientada en TEP, obedece órdenes simples y complejas, nomina, evoca, repite, discreta disartria (1), discreta anisocoria I>D, MOEs conservados, no impresiona deficit de pares bajos, moviliza las 4 extremidades de forma simétrica 5/5. NIHSS 1.
+A la revaloración por UCI, paciente hemodinamicamente estable sin requerimiento de drogas vasoactivas, manteniendo TAM >75mmgh, con registros tensionales adecuados sin requerir urapidilo, con ventilación espontánea con gafas nasales saturando al 98%.
+Se realiza TAC craneal de control sin evidenciarse área de isquemia ni de hemorragia. Dada la buena evolución se decide ingreso a NRL-Unidad de Ictus para estudio etiológico y control evolutivo.
+
+EXPLORACIÓ FÍSICA
+
+HDME con TA 110/90mmHg, FC 96lpm, afebril, SpO 95% con GN. Sin alarmas por monitor en RS. AC:tonos cardíacos rítmicos, sin soplos ni roces. Pulsos periféricos presentes y simétricos.
+AR: Hipofenesis pulmón izquierdo con predominio apical y crepitantes bilaterales.
+ABD: blando y depresible, peristaltismo conservado, no doloroso a la palpación superficial ni profunda, no se palpan masas ni visceromegalias.
+MMII: No edemas ni signos sugestivos de TVP.
+NRL: consciente y orientada en TEP, obedece órdenes simples y complejas, nomina evoca y repite 5/5, no asimetría facial, balance muscular y sensibilidad conservados, MOEs normales, PICNR, no disartria. -NIHSS 0.
+
+
+EXPLORACIÓ COMPLEMENTÀRIA
+PRUEBAS EN URGENCIAS:
+Analítica: EAB venoso: pH 7.35; CO2 52 mmHg; O2 60 mmHg; HCO3- 28.7 mmol/L; EB 2.0 mmol/L; Sat.O2
+90%.  Bioquímica:  Glucosa  18.0  mmol/L;  Urea  6.8  mmol/L;  Cr  58  umol/L;  Na+  139  mmol/L;  K+  mmol/L;
+Coagulación: TTPA 0.90; TP 0.97. INR: 0.97 Hemograma: Hb 136 g/L; Hto 41%; VCM 90 fL; Plaquetas 351x10E9/L; Leucocitos 10.7x10E9/L
+
+Informe d'alta d'hospitalització
+
+
+
+
+TAC Craneal:
+-	TC de cráneo sin contraste: Estudio artefactado por movimientos, con dificultad para valoración de la fosa posterior. No se observa desdiferenciación del parénquima cerebral sugestivo isquemia aguda/subaguda. Hiperdensidad del segmento P1 de ACP izquierdo (dot sign). Hipodensidad de la sustancia blanca periventricular compatible con enfermedad crónica de pequeño vaso hipóxico-isquémica. Infartos lacunares antiguos en ganglios basales, bilaterales (caudado derecho, lenticular bilateral). Cambios involutivos y aumento compensador del sistema ventricular. Cisternas basales no colapsadas. Estructuras de la línea media no desplazadas. No se observan signos de sangrado intra o extraaxial.
+-	AngioTC Escasos signos de ateromatosis de cayado aórtico. Elongación de TSA. Carótidasprimitivas permeables. Arterias carótidas interna y externa permeables con leves placas de ateroma calcificadas en bulbos carotideos, sin condicionar una estenosis significativa de las arterias carótidas internas. Arterias vertebrales permeables. Arteria basilar permeable, hasta top de la basilar donde se identifica un defecto de repleción que se extiende hasta segmeto P1 de ACP izquierda. Segmento P2 distal permeable, parcialmente compensado por arteria comunicante posterior izquierda. No se observan formaciones aneurismáticas. ACAs, ACMs y ACP derecha permeables, sin formaciones aneurismáticas.
+CONCLUSION: Defecto de repleción de top de la basilar y segmento P1 de la ACP izquierda, con segmento P2 distal peremable parcialmente compensado por arteria comunicante posterior izquierda. No se identifican claros signos de isquemia aguda/subaguda en TC sin contraste, pese a que el estudio es subóptimo por artefactos de movimientos.
+
+PRUEBAS EN PLANTA DE NEUROLOGÍA:
+Analítica de ingreso: Analítica: Bioquímica: Creatinina 61umol/L, FG 84ml/min, Na+ 141mmol/L, K+ 4.37mmol/L, Glucosa 16.2mmol/L, ALT 0.27 ukat/L, Albúmina 37g/L, GGT 0.64ukat/L, Colesterol 3.30mmol/L, HDL 0.84mmol/L, LDL 1.81mmol/L, triglicéridos 1.41mmol/L. Coagulación: TP 1,04, INR 1,04, TTPA 0,86. Tiroides conservada, Hb1Ac 8.6%
+Folatos y cobalaminas: oendientes
+ETT 30/08: Ventrículo izquierdo no dilatado ni hipertrófico con buena contractilidad global y sin segmentarismos. Ventrículo derecho normal. Dinámica ventricular derecha normal. Válvula mitral normal. Insuficiencia mitral ligera. Aurícula izquierda no dilatada. Válvula aórtica esclerosada. Flujo aórtico normal. Insuficiencia aórtica ligera. Ausencia de insuficiencia tricuspidea. Flujo pulmonar normal. Presión venosa central no elevada. Ausencia de derrame pericárdico.
+Holter30/08:No ha marcado síntomas. Registro en ritmo sinusal, con tendencia a la taquicardia sinusal (FC media de 106lpm). Extrasistolia supraventricular aislada poco frecuente. Extrasistolia ventricular aislada poco frecuente. No ha presentado otros eventos arrítmicos. No ha presentado pausas.
+RMN crebral 01/09: Infartos de aspecto relativamente antiguo en territorio posterior que afectan al hemisferio cerebeloso izquierdo, pedúnculo mesencefálico izquierdo y tálamo derecho. Pequeño infarto subcortical de semiología aguda en territorio de arteria cerebral anterior izquierda, en situación frontal parasagital. Imágenes hiperintensas múltiples en la sustancia blanca supra e infratentorial que son compatibles con enfermedad microvascular hipóxico-isquémica moderada.
+Sedimento de orina: Eritrocits 7 /L , Leucocits 588 /L , Bacterias 312 /L
+
+EVOLUCIÓ CLÍNICA
+Mujer de 78 años que ingresa por ictus isquémico vertebrobasilar tratado en fase aguda con TEV con recanalización completa (TICI3). TAC craneal de control a las 24h sin alteraciones destacables. En tratamiento con Clopidogrel.
+
+Informe d'alta d'hospitalització
+
+
+
+
+
+Esrtancia en UCI: extubación sin incidencias, estabilidad hemodinámica, analitica dentro de los límites de la normalidad. A la exploración neurológica tras extubación, alerta, orientada en TEP, obedece órdenes simples y complejas, nomina, evoca, respite, discreta disartria, discreta anisocoria I>D, MOEs conservados, no impresiona deficit de pares bajos, moviliza las 4 extremidades de forma simétrica 5/5. Se realiza TC de craneo de control, donde no presenta area de sangrado ni isquemia y dada su buena evolucion clinica, se decide su alta a Unidad de Ictus, para continuar evolución.
+
+Estancia en Planta de Neurología
+Paciente hemodinámciamente estable, con buen estado general, neurológicamente asintomática, NIHSS 0. Inicia dieta con buena tolerancia, así como sedestación y rehabilitación con buena respuesta.
+
+En la analítica de ingreso destaca hemoglobina glciosilada de 8,6% a pesar del tratamiento con metformina por lo que se procede a iniciar insulinización. Funcion renal , funcion hepatica, perfil lipidico y iones normales.Hemograma sin hallazgos a destacar.TP 1,04, INR 1,04,
+
+Como parte del estudio vascular se realiza una RMN cerebal que muestra infartos de aspecto relativamente antiguo en territorio posterior que afectan al hemisferio cerebeloso izquierdo, pedúnculo mesencefálico izquierdo y tálamo derecho. Pequeño infarto subcortical de semiología aguda en territorio de arteria cerebral anterior izquierda, en situación frontal parasagital. Imágenes hiperintensas múltiples en la sustancia blanca supra e infratentorial que son compatibles con enfermedad microvascular hipóxico-isquémica moderada
+El ecocardiograma transtoracico muestra ventriculos derecho e izquierdo con contractibilidad conservada, no dilataciones. Auriculas normasles.No valvulopatias. El Holter muestra registro en ritmo sinusal, con tendencia a la taquicardia sinusal (FC media de 106lpm).
+En el Holter no se identifica alteraciones sugestivas de causante de ictus vertebrobasilar.
+
+Como incidencias, el 05/09 paciente presenta sindrome miccional sin fiebre  junto con sedimento de orina patológico, por lo que se inicia antibioticoterapia con Aumentine .Urocultivo pendiente.
+
+Se orienta como ictus isquémico vertebrobasilar de etiología indeterminada . Dada la buena evolución, es dada de alta a centro sociosanitario.
+
+DIAGNÒSTICS
+436/5 Ictus vertebrobasilar de etiología indeterminada. Trombectomía
+
+PROCEDIMENTS
+87.44 Radiografia rutinària de tòrax, descrita com a tal. Radiografia de tòrax NOS
+87.44 Radiografia rutinària de tòrax, descrita com a tal. Radiografia de tòrax NOS
+93.14 Entrenament de moviments articulars
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Se adjunta.
+En caso de duda llamar a Unidad 9.1 (_CONTACT_)
+
+Informe d'alta d'hospitalització
+
+
+
+CONTROL
+Acudir a centro de atención primaria para continuar educación sobre diabetes y control de glicemias (insulinización durante el ingreso)
+
+DESTINACIÓ A L'ALTA:	HOSP. AGUTS/PSQ
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+07.09.2017
+Pàgina 1 de 5

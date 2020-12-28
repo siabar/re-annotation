@@ -1,0 +1,50 @@
+T0	FECHA 364 374	15/10/2017
+#0	AnnotatorNotes T0	2017-10-15
+T1	HORA 375 380	21:36
+#1	AnnotatorNotes T1	21:36
+T2	FECHA 438 448	15/10/2017
+#2	AnnotatorNotes T2	2017-10-15
+T3	HORA 449 454	22:09
+#3	AnnotatorNotes T3	22:09
+T4	SECCION_TIPO_DE_INGRESO 455 469	Tipus d'ingrés
+T5	SECCION_DIAGNOSTICO_PRINCIPAL 532 552	Diagnòstic principal
+T6	_SUG_Ictus_isquemico 561 564	AVC
+T7	SECCION_DIAGNOSTICO_PRINCIPAL 532 552	Diagnòstic principal
+T8	SECCION_DIAGNOSTICOS_SECUNDARIOS 577 599	Diagnòstics Secundaris
+T9	_SUG_Hemorragia_cerebral 606 623	HEMATOMA CEREBRAL
+T10	SECCION_DIAGNOSTICOS_SECUNDARIOS 577 599	Diagnòstics Secundaris
+T11	SECCION_PROCEDIMIENTOS 679 691	Procediments
+T12	_SUG_TAC_craneal 700 711	TAC CRANIAL
+T13	SECCION_PROCEDIMIENTOS 679 691	Procediments
+T14	SECCION_ANTECEDENTES 894 905	Antecedents
+T15	_SUG_Etiologia 928 939	HIPERTENSIO
+T16	FECHA 1177 1187	abril 2017
+#16	AnnotatorNotes T16	2017-04-UNDEF-day
+T17	FECHA 1301 1305	2015
+#17	AnnotatorNotes T17	2015-UNDEF-month-UNDEF-day
+T18	_SUG_Tratamiento_antiagregante_alta 1636 1641	Adiro
+T19	_SUG_Tratamiento_antiagregante_hab 1636 1641	Adiro
+T20	SECCION_PROCESO_ACTUAL 1685 1700	Història Actual
+T21	FECHA 1846 1851	15/10
+#21	AnnotatorNotes T21	2015-10-15
+T22	HORA 1858 1863	21.20
+#22	AnnotatorNotes T22	21:20
+T23	_SUG_Ictus_isquemico 1887 1892	ictus
+T24	HORA 1997 2002	20.30
+#24	AnnotatorNotes T24	20:30
+T25	_SUG_Arteria_afectada 2422 2425	ACM
+T26	_SUG_TAC_craneal 2453 2461	TC crani
+T27	_SUG_Localizacion 2590 2606	Infarts lacunars
+T28	_SUG_Localizacion 2630 2639	posterior
+T29	SECCION_EXPLORACION_FISICA 2846 2863	Exploració física
+T30	_SUG_TAC_craneal 4079 4087	TC crani
+T31	_SUG_Localizacion 4561 4572	ventricular
+T32	_SUG_Localizacion 4597 4606	corticals
+T33	_SUG_Localizacion 4704 4713	posterior
+T34	_SUG_Localizacion 5205 5221	Infarts lacunars
+T35	_SUG_Localizacion 5245 5254	posterior
+T36	_SUG_Ictus_isquemico 5593 5596	AVC
+T37	_SUG_Test_de_disfagia 5799 5815	test de disfàgia
+T38	SECCION_TRATAMIENTO_HABITUAL 6122 6132	Tractament
+T39	FECHA 6166 6176	17/10/2017
+#39	AnnotatorNotes T39	2017-10-17

@@ -1,0 +1,116 @@
+T1	FECHA 294 304	05.09.2017
+#1	AnnotatorNotes T1	2017-09-05
+T2	HORA 305 310	13:28
+#2	AnnotatorNotes T2	13:28
+T3	FECHA 351 361	02.09.2017
+#3	AnnotatorNotes T3	2017-09-02
+T4	_SUG_Lateralizacion 456 464	derechas
+T9	FECHA 1035 1043	02/09/17
+#9	AnnotatorNotes T9	2017-09-02
+T10	HORA 1050 1052	18
+#10	AnnotatorNotes T10	18:00
+T11	HORA 1118 1120	17
+#11	AnnotatorNotes T11	17:00
+T12	_SUG_Lateralizacion 1156 1164	derechas
+T13	_SUG_Ictus_isquemico 1183 1188	ictus
+T14	HORA 1207 1212	18:45
+#14	AnnotatorNotes T14	18:45
+T15	HORA 1258 1263	19:10
+#15	AnnotatorNotes T15	19:10
+T16	_SUG_Etiologia 1298 1310	hipertensión
+T17	_SUG_Lateralizacion 1379 1386	derecha
+T18	_SUG_Lateralizacion 1397 1398	e
+T19	_SUG_Lateralizacion 1434 1441	derecha
+T20	_SUG_NIHSS 1456 1496	NIHSS: 0.0.0/0.0/1(0.0)(3.0)0.1.0.0.0= 5
+T21	_SUG_TAC_craneal 1568 1570	TC
+T22	_SUG_ASPECTS 1626 1636	ASPECTS 10
+T24	_SUG_Ictus_isquemico 1711 1726	ictus isquémico
+T25	_SUG_Lateralizacion 1751 1760	izquierdo
+T26	_SUG_Etiologia 1764 1771	lacunar
+T27	_SUG_Localizacion 1764 1771	lacunar
+T28	_SUG_Trombolisis_intravenosa 1841 1866	tratamiento fibrinolítico
+T29	HORA 1873 1878	19:30
+#29	AnnotatorNotes T29	19:30
+T30	_SUG_Trombectomia_mecanica 2002 2026	tratamiento endovascular
+T31	_SUG_Trombolisis_intravenosa 2111 2115	rtpa
+T32	_SUG_Lateralizacion 2163 2172	izquierda
+T33	_SUG_NIHSS 2244 2251	NIHSS 2
+T34	_SUG_Trombolisis_intravenosa 2705 2714	trombosis
+T35	_SUG_Localizacion 2722 2730	profunda
+T36	_SUG_Lateralizacion 2867 2874	derecha
+T37	_SUG_Lateralizacion 2938 2945	derecha
+T38	_SUG_Lateralizacion 3011 3018	derecha
+T39	_SUG_Lateralizacion 3066 3075	bilateral
+T40	_SUG_NIHSS 3077 3121	NIHSS: (0.0.0)0.0/1(0.0)(3.0)/0.1.0.0. 0 = 5
+T41	_SUG_Lateralizacion 3630 3639	bilateral
+T42	_SUG_NIHSS 3662 3686	NIHSS (actual): 0 puntos
+T43	FECHA 3726 3734	02/09/17
+#43	AnnotatorNotes T43	2017-09-02
+T44	_SUG_Lateralizacion 3800 3801	E
+T45	FECHA 3998 4006	02/09/17
+#45	AnnotatorNotes T45	2017-09-02
+T47	_SUG_TAC_craneal 4307 4317	TC cranial
+T48	FECHA 4334 4344	02.09.2017
+#48	AnnotatorNotes T48	2017-09-02
+T49	_SUG_Localizacion 4424 4435	ventricular
+T50	_SUG_TAC_craneal 4532 4534	TC
+T51	_SUG_Lateralizacion 4567 4576	izquierda
+T53	_SUG_TAC_craneal 4586 4596	TC craneal
+T54	_SUG_ASPECTS 4629 4642	ASPECTS 10/10
+T56	_SUG_TAC_craneal 4651 4661	TC cranial
+T57	FECHA 4663 4673	02.09.2017
+#57	AnnotatorNotes T57	2017-09-02
+T58	_SUG_Arteria_afectada 4704 4722	vertebro-basilares
+T59	FECHA 4920 4930	05.09.2017
+#59	AnnotatorNotes T59	2017-09-05
+T60	FECHA 5004 5012	5.9.2017
+#60	AnnotatorNotes T60	2017-09-05
+T61	_SUG_Lateralizacion 5025 5033	esquerre
+T62	_SUG_Etiologia 5073 5082	Aneurisme
+T64	FECHA 5362 5370	02/09/17
+#64	AnnotatorNotes T64	2017-09-02
+T65	HORA 5377 5379	18
+#65	AnnotatorNotes T65	18:00
+T66	_SUG_Lateralizacion 5441 5449	derechas
+T67	_SUG_NIHSS 5454 5464	NIHSS de 5
+T69	_SUG_Ictus_isquemico 5482 5497	ictus isquémico
+T70	_SUG_Lateralizacion 5522 5531	izquierdo
+T71	_SUG_Etiologia 5535 5542	lacunar
+T72	_SUG_Localizacion 5535 5542	lacunar
+T73	_SUG_Trombolisis_intravenosa 5611 5636	tratamiento fibrinolítico
+T74	_SUG_Trombectomia_mecanica 5651 5675	tratamiento endovascular
+T75	_SUG_Trombolisis_intravenosa 5761 5765	rtpa
+T76	_SUG_Lateralizacion 5813 5822	izquierda
+T77	_SUG_NIHSS 5833 5840	NIHSS 2
+T78	_SUG_Ictus_isquemico 5877 5882	ictus
+T79	_SUG_Etiologia 6161 6170	aneurisma
+T80	_SUG_Ataque_isquemico_transitorio 6305 6308	AIT
+T81	_SUG_Arteria_afectada 6312 6336	territorio indeterminado
+T82	_SUG_Lateralizacion 6337 6346	izquierdo
+T83	_SUG_Etiologia 6350 6368	mecanismo embólico
+T84	_SUG_Etiologia 6381 6394	indeterminada
+T85	_SUG_Tratamiento_antiagregante 6462 6484	acido acetilsalicilico
+T86	_SUG_NIHSS 6586 6594	NIHSS: 0
+T87	_SUG_mRankin 6595 6601	mRS: 0
+T88	_SUG_Ataque_isquemico_transitorio 6619 6622	AIT
+T89	_SUG_Arteria_afectada 6630 6655	TERRITORIO  INDETERMINADO
+T90	_SUG_Lateralizacion 6657 6666	IZQUIERDO
+T91	_SUG_Etiologia 6667 6680	INDETERMINADA
+T92	_SUG_Etiologia 6717 6735	MECANISMO	EMBÓLICO
+T94	_SUG_Lateralizacion 6787 6792	Dieta
+T95	_SUG_Tratamiento_antiagregante 6872 6877	Adiro
+T96	FECHA 6966 6976	05.09.2017
+#96	AnnotatorNotes T96	2017-09-05
+T97	SECCION_MOTIVO_DE_INGRESO 415 429	MOTIU D'INGRÉS
+T98	SECCION_ANTECEDENTES 466 477	ANTECEDENTS
+T99	SECCION_ANTECEDENTES_PATOLOGICOS 582 606	ANTECEDENTES PATOLÓGICOS
+T100	SECCION_TRATAMIENTO_HABITUAL 857 875	MEDICACIÓ HABITUAL
+T101	SECCION_PROCESO_ACTUAL 961 974	PROCÉS ACTUAL
+T102	SECCION_EXPLORACION_FISICA 2283 2300	EXPLORACIÓ FÍSICA
+T103	SECCION_EXPLORACION_FISICA_EN_URGENCIAS 2435 2459	Exploracion en urgencias
+T104	SECCION_EXPLORACION_FISICA_DURANTE_HOSPITALIZACION 3122 3143	Exploracion en Planta
+T105	SECCION_EXPLORACIONES_COMPLEMENTARIAS 3689 3714	EXPLORACIÓ COMPLEMENTÀRIA
+T106	SECCION_EVOLUCION 5265 5281	EVOLUCIÓ CLÍNICA
+T107	SECCION_DIAGNOSTICOS 6603 6614	DIAGNÒSTICS
+T108	SECCION_TRATAMIENTO_Y_RECOMENDACIONES_AL_ALTA 6748 6783	TRACTAMENT I RECOMANACIONS A L'ALTA
+T109	SECCION_DESTINO_AL_ALTA 6894 6913	DESTINACIÓ A L'ALTA

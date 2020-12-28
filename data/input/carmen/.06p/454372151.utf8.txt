@@ -1,0 +1,156 @@
+_LOCATION_
+Telèfon: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 34 anys
+NIF/DNI: _ID__NAME_; _NAME_
+Informe d'alta d'hospitalització
+15:43:21
+30.12.2017
+_LOCATION_
+_SS_ NEUROLOGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_; _CONTACT_
+DOMICIL/RES.SOC 26.12.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Trastorno del lenguaje
+
+ANTECEDENTS
+NAMC. Reside con su mujer. IABVD. Deambulación sin ayuda. mRS 1. Exfumador desde hace 8 meses. HTA. Ingreso en 05/2017 en el _SS_  por Ictus isquémicos  bilaterales en relación  a Disección carotídea bilateral, con resultado de leve secela motora en mano derecha. Ha realizado seguimiento posterior en sus consultas de Neurología. Resumen de los estudios peracticados:
+1.	Eco-TSA:  Hematoma  intramural  bilateral posiblemente secundario  a  disección de  la  pared  que  produce: Estenosis leve de ACI Dcha y Estenosis moderada de ACI Izda.
+2.	A-TC de TSA: Disección carotídea bilateral segmentaria con estenosis de la luz verdadera del 8% en el lado Dcho y 30% en el Izdo. Arteria vertebral D hipopplásica.
+3.	TC abdominal: Eje aortoilíaco permeable. Aorta abdominal de calibre normal. Arterias renales permeables sin zonas de estenosis.
+4.	A-RM intracraneal: Examen con agenesia del segmento A1 de la ACA. Ausencia completa de vertebral Dcha que aparace aplasia de la misma, dado que la contralateral da luagr a la PICA D de forma retrógrada.
+5.	A-RM de TSA: Agenesia de la arteria vertebral dcha con el resto de exámenes normales.
+6.	RM cerebral: Parénquima cerebral con múltiples focos isquémicos corticales agudos con restricción a la difusión, bihemisféricos, anteriores, medios y posteriores, frontales dchos, parietales bilaterales y occipitales bilaterales, correspondiente a todos los territorios vasculares y compatible con diseminación embolígena.
+7.	ETT: Situs solitus. Levocardia. Levoapex. Normoconcordancia AV-VA. VI no hipertrófico, no dilatado, sinalteraciones de la contractilidad con función sistólica y diastólica normal. AI Normal. Raíz aórtica y aorta ascendente no dilatadas. Va´lvula mkitral, aórtica, pulmonar y tricúspide de morfologçía y funcional normal. Ausencia de signos indirectos sugerentes de HTP. Ausencia de derrame pericárdico.
+8.	Consta la petición de estudios inmunológicos, pdte de resultado.
+9.	RM TSA de control (07/2017): Repermeabilización de la ACI Dcha. Repermeabilización de ACI Izda, apreciando un pequeño defecto de repleción de 6.5 mm de longitud.
+10.	RM de cráneo de control (07/2017): Encefalomalacia residual a región frontal Izda subcortical y otro parasagital y una pequeña lesión frontal Dcha y otra residual occipital Dcha.
+11.	A-RM de TSA de control (10/2017): Agenèsia de l#artèria vertebral dreta. Repermeabilització de l#ACI D. Repermeabilització de l#ACI Esq, s#aprecia estenosi concéntrica juta a nivel de bifurcació de 7 mm de llargada i aprox. un 25% de la llum amb dilatació fusiforme per damunt de l#estenosi. Vertebral Esq normal.
+
+** Estuvo a tto con Sintrom, que se sustituyó por Clopidogel en 10/2017 en los controles en la Consulta de NRL del
+_SS_ tras valorar el control evolutivo de los estudios carotideos.
+
+
+MEDICACIÓ HABITUAL
+Atorvastatina 40 mg, Clopidorel 75 mg.
+
+Informe d'alta d'hospitalització
+
+
+
+PROCÉS ACTUAL
+Varón de 34 años que a las 20:00 h del pasado 26/12/2017 inicia de modo brusco con trastorno para la emisión del lenguaje, motivo por el que consultan con el S. de Urgencias del _SS_. En los días previas había sufrido diarrea. Niegan cefalea. Habida cuenta de la sintomatología se procedió a la activación del protocolo Código Ictus. Se realizó una TC de cráneo y, tras descartar congtraindicaciones, se indicó tratamiento fibrinolítico endovenoso. El procedimiento se desarrollo sin incidencias.
+
+
+EXPLORACIÓ FÍSICA
+
+Afebril. TA: 107/80 mmHg BEG. Consciente. NRL: Disfasia expresiva. Comprende órdenes sencillas. Campimetría por confrontación normal. Simetría facial. Fuerza normal en las 4 extremidades. Hipoestesia en la EID (de nueva instauración). No dismetrías. No signos de irritación meníngea. Reflejo cutáneo flexor bilateral.
+NIHSS: 0-2-0-0-0-0-0-0-0-1-2-0-0 = 5 AC: RsCsRs.
+
+
+EXPLORACIÓ COMPLEMENTÀRIA
+1. AS (26/12/2017):
+-	BQ: Gluc 134. U, Cr, Na Normales. K 3.47.
+-	Hemograma: Leucos, Hb, VCM, Plaq Normales.
+-	Hemostasia básica: Normal.
+
+2.	AS general:
+-	BQ: gluc, U, Cr, Urat, Ca total Normales. Col 103. HDL 31. LDL 54.2. TAG 89. PCR, Prots, Prealb, FA, GOT, GPT, GGT, Bb, CK, Na, K, Mg, Fe, FR, Cobalamiuna Normales. Folat 6.35 (7-45.19. TSH, T4 Normales.
+-	Hemostasia báscia normal: Normal
+-	Serología: Negativo para Treponema pallidum.
+
+3.	Estudio de autoinmunidad: Pendiente
+
+4.	ECG: RS.
+
+5.	Telemetría (24 h): Sin arritmias embolígenas.
+
+6.	Ecocardiografía transtorácica: Ventrículo izquierdo de dimensiones, grosor y función sistólica normales. Signos incipientes de disfunción diastólica. Ausencia de datos indirectos indicativos de HTPs significativa. Presencia de paso de algunas de microburbujas de AD a cavidades izquierdas compatible con FOP no masivo
+
+7.	Ecocardiografía transesofágica: Pésima tolerancia al examen a pesar de sedación farmacológica con Midazolam. Estudio muy limitado. TIA: se observa tabique íntegro. No se visualiza paso de flujo por doppler color a nivel del FOP. Ausencia de
+aneurisma del TIA. Raíz aórtica, porción tubular de aorta ascendente y arco de calibre normal sin imágenes patológicas.
+
+Informe d'alta d'hospitalització
+
+
+
+
+8.	Estudio neurosonológico:
+-	Dúplex TSA: S'han explorat tots dos eixos carotidis i el trajecte extracranial de totes dues arèries vertebrals. Destaca la presència de lesió excèntrica en1/3 proximal artèria caròtida interna esquerra sense repercusió hemodinàmica que podria correspondre a disecció ja coneguda.
+-	Dúplex TC: S'obtenen fluxes ortodròmmics amb velocitats dins el marge de la normalitat tant en territori anterior com posterior.
+
+9.	TC de cráneo con angio-TC (26/12/2017): Estructuras de la línea media centradas.No se observan signos de sangrado intra ni extraparenquimatoso. Lesión hipodensa temporal izquierda y otra frontal izquierda superior, de aspecto isquémico antiguo. Sistema ventricular de morfología y tamaño normal , simétrico. Surcos corticales, cisternas peritronculares y de la base craneal sin alteraciones. El estudio vascular muestra marcada irregularidad de la luz de la ACI izquierda con placas hipodensas en la pared, en el origen , con estenosis significativa de la luz (>70%). Carótida interna derecha permeable. Poligono de Willis sin lesiones.
+CONCLUSION: Estenosis significativa de la carótida interna izquierda en su origen. ASPECTS 10. Estructuras vasculares del poligono de willis sin anomalias. No evidencia de lesiones isquémicas agudas.
+
+10.	TC de cráneo postfibrinolisis: TC de control post-fibrinolisi que no mostra signes de sagnat agut. Persisteixen lesions isquèmiques antigues frontal i temporal esquerres. Augment de la hipodensitat còrtico-subcortical temporal esquerra respecte TC prèvia, per infart establert en territori ACM E.
+
+11.	RM de cráneo con angio-RM sobre polígono de Willis y TSA: Lesion residual a nivel subcortical de circunvolucion precentral izq. compatible con lesion isquémica cronica. Infarto isquémico agudo en circunvolucion del lóbulo de la insula izq. y circunvolucion basal frontal izq. asi como focos subcentimetricos parietales izq. Sistema ventricular simétrico, de morfología y tamaño normales. Estructuras de la línea media centradas. No evidencia de procesos expansivos intra ni extra-axiales. Charnela occípito-cervical normal. Hipoplasia de segmento A1 de la art. cerebral anterior derecha.
+No se identifica la art. vertebral derecha. No se aprecian otras alteraciones vasculares significativas en las secuencias de angio-RM sobre los TSA y polígono de Willis.
+CONCLUSION: Lesion residual a nivel subcortical de circunvolucion precentral izq. compatible con lesion isquémica cronica. Infarto isquémico agudo en parte del territorio vascular de la art. cerebral media izq. No se identifica la art. vertebral derecha.
+
+
+EVOLUCIÓ CLÍNICA
+Paciente con los antecedentes mencionados que ingresa como Código Ictus con clínica de trastorno del lenguaje de rasgos afásicos. Ante la sospecha de ictus isquémico en el territorio de la ACM izquierda se infundió tratamiento fibrinolítico. En el estudio mediante angio-TC realizado en Urgencias se visualizó una estenosis mayor del 70% en el inicio de la arteria carótida interna izquierda. Dicha estenosis, fue mejorando tal y como demuestran los estudios sucesivos mediante dúplex de TSA y angio-RM. En el ingreso previo de mayo de 2017 se orientó a disección carotídea bilateral (en base a los estudios de imagen) y la RM de cráneo practicada entonces constató lesiones isquémicas en múltiples territorios vasculares (tanto de la circulación anterior como posterior). A tenor de la evolución, en el ingreso actual, de los estudios de los TSA se consideró descartar una fuente cardioembólica por lo que se solicitaron estudios ecocardiográficos (transtorácico y transesofágico) que no mostraron alteraciones reseñables, salvo paso de microburbujas de AD a cavidades izquierdas compatible con FOP NO masivo. Sin embrago, el estudio tranesofágico  no visualizó paso de flujo por doppler color a nivel del FOP y constató la integridad del tabique. La RM de cráneo confirmó el diagnóstico de ictus isquémico en el territorio de la ACM izquierda.
+
+Informe d'alta d'hospitalització
+
+
+
+
+Finalmente, se orienta el caso como ictus isquémico en forma de PACI de mecanismo embólico y de causa indeterminada. Está pendiente de completar estudios de inmunidad. Desde el punto de vista terapéutico, se decide instaurar tratamiento anticoagulante oral con sintrom.
+Como incidencia cabe destacar que el pacientye experimentó una retención aguda de la orina a las 24 horas del ingreso que precisó de la colocación de sondaje vesical.
+Clínicamente, paciente ha experimentado una mejoría aunque persiste una dificultad nominativa (NIHSS 1, mRS2).
+Está previsto que siga controles en la consulta de Neurología y valoración por Hemostasia.
+
+
+ORIENTACIÓ DIAGNÒSTICA
+1.	Ictus isquémico (PACI) en el territorio de la arteria cerebral media izquierda de mecanismo embólico y de etiología criptogénica.
+2.	Ictus isquémicos bilaterales en relación a disección carotídea bilateral (05/2017).
+3.	Retención aguda de la orina.
+4.	HTA.
+
+
+PROCEDIMENTS
+88.91	Imatge per ressonància magnètica de cervell i tronc cerebral
+88.92	Imatge p/ressonància magnètica tòrax/miocardi per a avaluació de limfoadenopaties hilar/mediastínica
+87.03 Tomografia axial computada de cap. TAC de cap
+89.08 Altra consulta
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+1.	Dieta sin sal.
+2.	Suspender Clopidogrel 75 mg y Atorvastatina 40 mg.
+3.	Anticoagulación, según la pauta adjunta.
+4.	Atorvastatina 20 mg: 1 comprimido diario con la cena.
+
+CONTROL
+Será citado para acudir a revisión a la consulta de Neurología (Dr. _NAME_) tras estudio neurosonológico de control. Será citado para acudir a revisión a la consulta de Hemostasia.
+Se ruega el control estricto de los factores de riesgo vascular a través de su Médico especialista en Medicina Familiar y Comunitaria.
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+
+
+
+
+
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+30.12.2017
+Pàgina 1 de 4

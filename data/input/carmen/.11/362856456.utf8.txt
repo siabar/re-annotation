@@ -1,0 +1,106 @@
+I.CLINIC DE NEUROCIÈNCIES NEUROLOGIA
+_NAME_	NHC: _ID_
+
+
+Sexo/Sexe: Masc.	Fecha nac./Data naix.: _DATE_	Edad/Edat: 78 años Dirección/Adreça: _LOCATION_	CP: _LOCATION_
+Municip. (Prov.): _LOCATION_  ABS:_SS_	Tel.:_CONTACT_
+As.: SERVEI CATALA DE LA SALUT	CIP: _ID_	NASS: _ID_
+Nº epis.: _ID_	Tipo/Tipus: HOSPIT.	Inici.: 19.04.2017
+Serv: NEUROLOGIA	UO Enf.: I064 SALA G DE NEUROL. INTE   Hora: 02:29:29
+Facult. de ref.: _NAME_
+
+
+
+
+Tipo ingreso/Tipus ingrés: Urgent	Motivo/Motiu alta: Dom. Familiar
+Diag.:
+MIGRAÑA CON AURA ()
+Proc.:
+TC CRANEAL () RMN ()
+ANALÍTICA SANGUÍNEA ()
+
+
+
+
+INFORME CLÍNICO ALTA / INFORME CLÍNIC ALTA
+
+Motivo de consulta / Motiu de consulta
+Alteración del lenguaje.
+
+Antecedentes e historia previa / Antecedents i història prèvia
+Hombre de 78 años. Sin alergias a medicamentos conocidas. Ex fumador desde los 50 años. Independiente para actividades básicas e instrumentales de la vida diaria. Deambula con Bastón por artrosis importante (mRs:2).
+
+** ANTECEDENTES FAMILAIRES: Migraña un hermano y una hija.
+
+** ANTECEDENTES PATOLOGICOS:
+1.	HIPERTENSIÓN ARTERIAL en tratamiento médico.
+2.	DIABETES MELLITUS TIPO 2, en tratamiento con insulina. Afectación renal.
+3.	MUTACIÓN DEL FACTOR V DE LEYDEN, en tratamiento anticoagulante.
+4.	ICTUS ISQUÉMICO hace 25 años en el estudio se diagnóstico de la mutación (no disponemos de informes).
+5.	TROMBOSIS VENOSA PROFUNDA EID hace unos 15 años (no disponemos de informes)
+6.	MIGRAÑA CRÓNICA. Presenta desde la juventud episodios de cefalea bifrontal asociado a sonofobia y fotofobia. Refiere que presenta unos 3- 4 episodiso/semana.
+6.	NEUMOPATÍA NO FILIADA, pendiente de nuevo estudio mediante PFR.
+7.	SÍNDROME ANSIOSO-DEPRESIVO, sin tratamiento por rechazarlo el paciente.
+
+** MEDICACIÓN ACTUAL: Omeprazol 20mg/24h - Amlodipino 5mgc/12h - Humalog mix (insulina Lispro) 16 IU/am 14UI/pm - Pravastatina 40mg /24h - Sintrom s/pauta - Ramipril 2,5mg/24h - Furosemida 20mg/día - Glicopirronio bromuro (TOVANOR BREEZHALER) 1 inhalación cada 24 horasras
+
+Proceso actual / Procés actual
+El 18/04 sobre las 20h empiezan a notar dificultad para encontrar las palabras. El cuadro empeora de forma
+
+
+progresiva presentando a las 00h mutismo por lo que avisan al SEM.
+
+Exploración física / Exploració física
+19/04/2017-02:30:00: FiO2 (%) 21, Glicemia capilar (mg/dl) 174, Tª axila r (ºC) 37. 19/04/2017-03:00:00 : Frecuencia respiratoria (rpm) 19, PAS ( mm Hg) 158, PAD (mm Hg) 64, Pulsioximetría (%) 100.
+NRL: Consciente, mutista, no comprende ordenes. Reflejo de amenaza asimétrico (derecho < izquierdo). Paresia 4/5 de la extremidad superior derecha. Resto del balance muscular conservado. Sensibilidad y dismetrias no valorables.
+EC: Tonos rítmicos, sin soplos audibles. AP: MVC. No sobreañadidos.
+
+Laboratorio / Laboratori
+*	ANALÍTICA SANGUÍNEA: Creatinina 1,15 (FG 60 ml/min), Glucosa 176 mg/dL, Hemoglobina glicada 6,9%. Ácido úrico 8,2 mg/dl, Hemograma sin alteraciones. LDL 137 mg/dL, HDL 44 mg/dL. Perfil tiroideo normal. Se adjunta.
+
+Radiología / Radiologia
+*	RX TÓRAX: No infiltrados ni condensaciones.
+*	TC MULTIMODAL -TC CRANEAL BASAL: No hay signos de sangrado agudo intracraneal. Signos de atrofia con ensanchamiento del del sistema ventricular y de los surcos cerebrales  por cambios involutivos. Áreas hipodensas en sustancia blanca periventricular y centros semiovales por patología crónica de pequeño vaso. Infartos lacunares bilaterales capsuloganglionares de aspecto crónico. Sin signos evidentes valorables por TC de isquemia guda -TC PERFUSIÓN: Retraso en el TTP a nivel parietal izquierdo en territorio superficfial posterior de ACMI y frontera posterior. No se observan alteraciones en el CBV. -ANGIO-TC EXTRA E INTRACRANEAL: Arco aórtico y segmentos proximales de troncos supraórticos sin ateromatosis ni signos de estenosis. Origen, bifurcación y segmentos cervicales de la arteria carótida interna permeables, con pequeñas placas calcificadas en bifurcaciones sin estenosis signifcativa. Segmentos intracavernoso y supraclinoideo de la arteria carótida interna peremables. Origen de las arterias vertebrales sin ateromatosis ni signos de estenosis. Sigmentos priximales de las principales arterias cerebrales intracraneales permeables (ACAs, ACMs y ACPs). Sistema vertebrobasilar permeable.
+*	RMN Y ANGIO-RMN: Dolicoectasia del tronco basilar. Moderada atrofia cerebral. Dilatación de espacios perivasculares a nivel de ganglios basales. Infarto lacunar talámico crónico izquierdo. Antiguo infarto lacunar de núcleo lenticular izquierdo. Signos de isquemia cerebral crónica, severa con lesiones lacunares crónicas periventriculares cavitadas, bilaterales de predominio frontoparietal derecho. No se detectan signos de lesión isquémica aguda en secuencias en difusión. Pequeños focos de hemosiderina parenquimatosa cerebral. No se excluye pequeñas lesiones isquémicas crónicas protuberanciales.
+
+Evolución / Evolució
+1. MIGRAÑA CON AURA.
+Paciente que acude con déficit del lenguaje de instauración paulatina junto con cefalea intensa bifrontal con sono y fotofobia. A su llegada está hipertenso con TA 196/65 mmHg y afebril. En la exploración destaca un síndrome hemisférico izquierdo parcial a expensas de afasia global y leve debilidad braquial derecha 4/5. Analítica general con Hb glicada cde 6.9%, TP 30%, ácido úrico 8.2.; resto sin alteraciones destacables. La neuroimagen (TC craneal multimodal y RM cerebral) muestra lesiones lacunares crónicas sin lesiones agudas. El estudio vascular (angioTC y angioRM) con ateromatosis carótidea bialteral sin oclusiones ni irregularidades de grandes los grandes vaso sintra ni extracraneales.
+Durante su estancia en la unidad de ictus, el paciente presenta regresión de los síntomas hasta estar asintomático en menos de 48h y remitiendo la cefalea.
+Dado el antecedente de migraña crónica y la cefalea intensa al inicio y durante los síntomas, la normalidad de la neuroimagen y la regresión de la sintomatología se orienta como migraña con aura en forma de afasia. Dado que refiere presentar  2-4 episodiso de cefalea por semana se inicia  tratamiento  preventivo  con
+
+
+
+ampitriptilina 10 mg/noche.
+Durante el ingreso ha estado estable, sin presentar nuevos episodios. Ante la estabilidad clínica se concede el alta hospitalaria, con control de sintrom el día 22/4 y recomendando control por su médico de familia habitual.
+
+Plan terapéutico / Pla terapèutic
+MISMO TRATAMIENTO HABITUAL MÁS:
+
+-AMITRIPTILINA 10 MG EN LA NOCHE 0-0-1 DURANTE 1 SEMANA. SI BUENA TOLERANCIA 25 MG EN LA NOCHE.
+
+- HOY (DÍAS 21/4/2017) UN COMPRIMIDO COMPLETO DE SINTROM. MAÑANA DÍA 22/4 ACUDIRÁ A _SS_ PARA NUEVA PAUTA DE TRATAMIENTO.
+
+Otras recomendaciones / Altres recomanacions
+Control por su médico de familia habitual.
+
+
+
+Firma/Signatura1: _NAME_	Firma/Signatura2: _NAME_ Categoría: Resident 2	Categoría: Espec. Senior
+Nº Matrícula _SS_: _ID_	Nº Matrícula _SS_: _ID_
+
+Fecha/Data Informe: 21.04.2017
+Hora Informe: 15:57:14
+
+Docum.: _ID_
+Hist. Clínica: _ID_
+El _SS_ ha incorporado sus datos al Fichero de Pacientes, para tratarlos con fines sanitarios.
+Puede ejercer sus derechos de acceso, rectificación, cancelación y oposición, así como obtener mas información en la Unidad de Atención al Cliente.
+Vers. 00
+Pag. 2 de
+3
+Episod.: _ID_
+_SS_ ha incorporat les seves dades al Fitxer de Pacients, per a tractar-los amb finalitats sanitàries. Pot exercir els seus drets d'accés, rectificació, cancel·lació i oposició, i obtenir més informació a la Unitat d'Atenció al Client.
+_SS_
+_LOCATION_) _LOCATION_) Tel. _CONTACT_ Fax _CONTACT_
+http://_CONTACT_/

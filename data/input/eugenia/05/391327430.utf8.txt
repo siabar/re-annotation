@@ -1,0 +1,129 @@
+
+
+
+
+
+Informe d'Alta Hospitalària	Cognoms i nom:
+_NAME_	NHC:
+_ID_
+	ABS:
+_SS_	CIP:
+_ID_	DNI:
+_ID_
+	Data de naixement:
+_DATE_	Sexe:
+Dona	Edat:
+58a	Telèfon:
+_CONTACT_
+	Finançament:
+CatSalut - _LOCATION_	Procedència:
+URGÈNCIES
+	Admissió:
+14.07.2017 - 18:13	Servei:
+NEURO - UNITAT ICTUS HOSP	Data entrada urg.:
+14.07.2017 - 17:30
+Adreça:
+_LOCATION_	Població:
+_LOCATION_	Codi Postal:
+_LOCATION_
+
+Motivo de ingreso
+Paciente de 57 años, que ingresa por ictus isquémico
+
+
+ANTECEDENTES
+-	No AMC
+-	No hábitos tóxicos
+-	No HTA ni DLP ni DM.
+-	Obesidad
+-	Neurológico: Ingresada en julio de 2014 con los siguientes diagnósticos: AIT en forma de paresia braquial izquierda. foramen oval permeable con aneurisma del septo. Estudio completo incluyendo analítica, ECG, neurosonología, ecocardiografia transesofágica, Doppler de extremidades inferiores, RM cerebral. No recurrencias. En visita de control de NRL NIHSS = 0, mRS = 0. Refiere episodio de plejia completa de brazo izquierdo transitoria (de una hora) hace unos 17 años con resonancia sin lesiones y estudio normal. No se realizó estudio etiológico de trombosis. La paciente suspendió el tratamiento antiagregante y estatinas y flunaricina que se le había recomendado.
+-	Migraña sin aura desde la juventud, en forma cefalea hemicránea derecha o izquierda, a veces holocraneal, no pulsátil, sin sono y fotofobia, sin aura, calma con ibuprofeno y/o café. Media de 2 episodios a la semana. Hereditaria (por vía paterna). Desencadenantes: Clima, estrés, molestias abdominales. Nunca ha consultado ni ha recibido tratamiento preventivo. Habituada a tomar 4-5 cafés al día.
+-	Artrosis poliarticular, espolón calcáneo.
+-	Catarata senil
+-	Antecedentes quirúrgicos: IQ de miopia, varices, Túnel carpiano
+-	Medicación habitual : ninguna
+
+-	Antecedentes familiares. Madre: Neoplasia de mama. "Embolia" a los 52 años. Padre: Portador de MCP (no especifica patología). 2 hijos sanos. Vive con su marido. Laborales: trabaja de cartera. Zurda.
+
+ENFERMEDAD ACTUAL
+A las 16:45h aproximadamente del 14/07/2017 mientras estaba en la sala de espera del CAP por gonalgia, ha iniciado dificultad para la articulación del lenguaje y debilidad de extremidades izquierdas. A la llegada del SEM PA 130/95 mmHg, SatO2 96% al aire.
+A su llegada a urgencias 17:30h. Disartria y síndrome motor izquierdo que puntúa una NIHSS = 5. No sintomatología que sugiera trombosis venosa profunda.
+TC craneal sin lesiones agudas. ASPECTS =10. AngioTC sin oclusión vascular de gran vaso tributaria de tratamiento endovascular. Se orienta como ictus isquémico en territorio ACM D
+Ante ausencia de contraindicadiones se administra rTPA con bolus a las 18:03 tiempo puerta aguja de 33min. Ingresa en unidad de ictus. Tras rtpa se objetiva mejoría motora, persistiendo únicamente facial leve y disartria (1 de facial y 2 de disartria)
+EXPLORACIÓN FÍSICA
+Exploración Neurológica a las 24h:
+consciente, orientada, obedece órdenes sencillas y complejas, repite, nomina y evoca, no confusión derecha-izq, no agnosia del déficit, no asomatognosia, praxias preservadas, hiposacadicación a la motilidad ocular vertical, resto preservado, no déficit campimétrico, paresia facial central izq, disartria, no déficit motor en extremidades, dismetria ESI, no déficit sensitivo.
+NIHSS: 0.0.0.0.0/2(0.0)(0.0)/1.0.1.0.0=4
+
+Exploración física al alta:
+Conciente y orientada, sin rasgos afásicos, disartria moderada lenta tipo espástica, MOEs conservados, campimetría por confrontación normal, resto de los PPCC sin alteración, sin focalidad motora ni sensitiva, tono muscular normal, sin disartria, RMP normales simétricos, RCP flexores., Romberg negativo, sin alteración de la marcha. NIHSS 0.0.0.0.0/0(0.0)(0.0)/0.0.01.0.0 = 1
+
+EXPLORACIONES COMPLEMENTARIAS
+-	Analítica urgencias: leve hipokalemia resto sin alteraciones
+-	Analítica control: HbA1c, función renal, ionograma, hemograma y perfil lipídicos normales.
+-	Inmunologia, serologías: FR, ANAs y ANCAs negativos
+-	Factors de maduración: Vit B12 y ácido fólico normales
+-	Estudio de trombofilia: en proceso
+-	Sífilis y HIV negativos
+-	Lipoproteína A  en proceso; Homocisteína normal
+-	Estudio de enfermedad de Fabry pendiente
+-	Rx de tórax: sin condensación, sin derrame, ICT <0.5
+-	ECG: Ritmo sinusal
+-	Telemetría: mantiene ritmo sinusal
+-	Estudio neurosológico. sin estenosis ni ateromatosis
+-	TC craneal de ingreso:  Pequeño lacunar talamico izdo. No lesiones isquémicas agudas.
+-	AngioTC TSA e intracraneal: Sin alteraciones extra ni intracraneales. Hipoplasia de AV Izda.
+-	TC craneal 24 horas: Se observa una zona de hipodensidad cortico-subcortical prefrontal D, congruente con isquemia establecida en terrtorio superficial de ACM D, que no se identificaba en el TC previo. No hay hemorragias intracraneales, efectos de masa, desviacion de la linea media, ni otros cambios relevantes comparativamente con el TC previo.
+-	Ecocardio TT: Disfunción diastólica sin signos de aumento en las presiones de llenado ventricular. Aurícula izquierda de tamaño normal. V. Mitral morfológica y funcionalmente normal. Raíz aórtica no dilatada. Válvula aórtica morfológica y funcionalmente normal. Cavidades derechas sin hallazgos significativo. IT ligera que permite estimar unas PAPs en reposo dentro de la normalidad. VCI no dilatada Ausencia de derrame pericárdico.
+
+
+EVOLUCIÓN
+Mujer de 58 años ingresada en planta con diagnóstico de ictus isquémico prefrontal derecho de etiología no filiada con antecedente de foramen oval permeable diagnósticado en 2014 en un episodio de AIT. Ingresa en neurología punteando un NIHSS de 1 por la disartria moderada, sin focalidad motora ni sensitiva, ni alteración de la marcha. Se mantuvo clínicamente estable, afebril, eupneica sin requerimientos de oxígeno.
+Dada  evolución favorable se decide el alta a domicilio con  tratamiento médico, control en neurología (algunos resultados pendientes) y rehabilitación logopédica.
+
+PROCEDIMIENTOS
+-	Analítica sanguínea turinaria, estudio de tormbofilia, serología HIV y sífilis, factores de maduración, perfil lipídico, Hb glicosilada,  estudio inmunológico, estudio de enfermedad de Fabry
+-	ECG, ecocardioTT y telemetría
+-	Rx de tórax
+-	TC de cerebro ingreso y control
+-	AngioTC TSA e intracraneal
+-	Estudio neurosonológico
+
+
+DIAGNÓSTICO
+Infarto frontal derecho (precentral) en territorio de ACM derecha de etiología indeterminada con FOP y aneurisma del septo, ya conocidos
+Migraña
+
+
+RECOMENDACIONES AL ALTA
+1.	Tratamiento de la hipertensión arterial si precisa, manteniendo cifras por debajo de 140/90; en caso de ser diabético, cifras por debajo de 130/85.
+2.	Abandono completo del hábito tabáquico.
+3.	Control y tratamiento de las enfermedades cardiacas si precisa (cardiopatía isquémica, insuficiencia cardiaca, arritmias y valvulopatías).
+4.	Evitar consumo excesivo de alcohol (se permite una o dos bebidas al día).
+5.	Vigilancia y tratamiento del perfil lipídico:
+Dieta pobre en grasas, actividad física apropiada.
+Tratamiento farmacológico si precisa para mantener niveles de LDL<100mg/dl.
+6.	Control de la glucemia, que debe ser <126mg/dl en ayunas, con dieta, antidiabéticos orales o insulina si precisa.
+7.	Realizar actividad física, 30 a 60 minutos, de tres a cuatro veces a la semana.
+8.	Continuar el tratamiento antiagregante o anticoagulante a las dosis recomendadas, siguiendo los controles necesarios.
+9.	Control en Neurología según hoja adjunta
+10.	Control con Logopeda según hoja adjunta
+
+Tratamiento
+
+1.	AAS 300 mg/día	8:00 horas	
+2.	Atorvastatina 80 mg/noche		20.00 horas
+3.	Omeprazol 20 mg/día	8:00 horas	
+4.	Flurpax (flunarizina) 5 mg/ noche	20:00 horas	
+
+Responsable clínic: Dr. _NAME_ (NºCol. _ID_)
+Equip mèdic: _NAME_ (NºCol. _ID_), Dr. _NAME_ (NºCol. _ID_)
+
+Servei que ha donat d'alta:
+NEUROLOGIA HOSP	Data d'alta:
+20.07.2017	Nom del metge que informa de l'alta:
+Dr. _NAME_ (NºCol. _ID_)
+
+
+_LOCATION_, 20.07.2017
+Pàg. 1 de   4

@@ -1,0 +1,21 @@
+T1	SECCION_TIPO_DE_INGRESO 389 403	Tipus d'ingrés
+T2	SECCION_DIAGNOSTICO_PRINCIPAL 544 564	Diagnòstic principal
+T3	SECCION_ANTECEDENTES 687 698	Antecedents
+T4	SECCION_ANTECEDENTES_PATOLOGICOS 701 718	Malalties prèvies
+T5	SECCION_PROCESO_ACTUAL 1142 1157	Història Actual
+T6	_SUG_Trombolisis_intravenosa 1357 1370	rTPA       ev
+T7	Trombolisis_intravenosa 1357 1361	rTPA
+T8	Fecha_trombolisis_rtPA 1378 1385	11/4/17
+#8	AnnotatorNotes T8	2017-04-11
+T9	_SUG_TAC_craneal 1430 1440	TC cranial
+T10	_SUG_Trombolisis_intravenosa 1450 1469	Tractament amb rtPA
+T11	Hora_primer_bolus_trombolisis_rtPA 1471 1476	23:58
+#11	AnnotatorNotes T11	23:58
+T12	SECCION_EXPLORACION_FISICA 1507 1524	Exploració física
+T13	SECCION_EXPLORACIONES_COMPLEMENTARIAS 2528 2556	Resum proves complementàries
+T14	TAC_craneal 3209 3219	TC cranial
+T15	_SUG_TAC_craneal 3416 3426	TC cranial
+T16	_SUG_TAC_craneal 3691 3696	crani
+T17	SECCION_EVOLUCION 4245 4266	Evolució i comentaris
+T18	_SUG_TAC_craneal 4399 4404	crani
+T19	SECCION_TRATAMIENTO_AL_ALTA 4676 4686	Tractament

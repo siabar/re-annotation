@@ -1,0 +1,36 @@
+T0	FECHA 15 25	27-09-2018
+#0	AnnotatorNotes T0	2018-09-27
+T1	SECCION_DIAGNOSTICOS 27 39	Diagnosticos
+T2	FECHA 41 51	23/09/2018
+#2	AnnotatorNotes T2	2018-09-23
+T3	_SUG_Ictus_isquemico 52 75	ECVA ISQUÉMICA: Infarto
+T4	_SUG_Localizacion 68 83	Infarto lacunar
+T5	_SUG_Etiologia 76 83	lacunar
+T6	_SUG_Localizacion 84 100	capsulo-talamico
+T7	_SUG_Lateralizacion 101 110	izquierdo
+T8	FECHA 113 123	25/09/2018
+#8	AnnotatorNotes T8	2018-09-25
+T9	_SUG_Arteria_afectada 139 148	carotídea
+T10	FECHA 174 184	27/09/2018
+#10	AnnotatorNotes T10	2018-09-27
+T11	SECCION_PROCEDIMIENTOS 209 223	Procedimientos
+T12	SECCION_MOTIVO_DE_INGRESO 288 305	Motivo de ingreso
+T13	SECCION_MOTIVO_DE_INGRESO 2642 2659	Motivo de estudio
+T14	HORA 2814 2819	10:20
+#14	AnnotatorNotes T14	10:20
+T15	SECCION_ANTECEDENTES_PATOLOGICOS 377 397	Antecedentes Médicos
+T16	SECCION_TRATAMIENTO_HABITUAL 519 543	Tratamiento domiciliario
+T17	SECCION_PROCESO_ACTUAL 612 621	Anamnesis
+T18	FECHA 701 706	23/09
+#18	AnnotatorNotes T18	2018-09-23
+T19	SECCION_EXPLORACION_FISICA 855 866	Exploración
+T20	SECCION_EXPLORACIONES_COMPLEMENTARIAS 1361 1395	Resultados pruebas complementarias
+T21	_SUG_Recanalizacion 1435 1449	repolarización
+T22	SECCION_EXPLORACIONES_COMPLEMENTARIAS_EN_PLANTA_DE_NEUROLOGIA 1555 1572	Analítica ingreso
+T23	_SUG_TAC_craneal 1656 1666	TC craneal
+T24	_SUG_Recanalizacion 2590 2601	realización
+T25	FECHA 2603 2613	29/09/2018
+#25	AnnotatorNotes T25	2018-09-29
+T26	SECCION_EVOLUCION 4216 4238	Evolución Hospitalaria
+T27	SECCION_TRATAMIENTO_Y_RECOMENDACIONES_AL_ALTA 5116 5153	Recomendaciones y tratamiento al alta
+T28	_SUG_Tratamiento_antiagregante 5786 5808	Ácido acetilsalicílico

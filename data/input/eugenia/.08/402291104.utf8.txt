@@ -1,0 +1,118 @@
+_LOCATION_
+email: _CONTACT_ Telèfon _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 66 Anys
+NIF/DNI:_NAME_; _NAME_; _NAME_; _NAME_
+Informe d'alta d'hospitalització
+11:39:39
+23.08.2017
+_LOCATION_
+_SS_ NEUROCIRURGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_; _CONTACT_; _CONTACT_
+DOMICIL/RES.SOC 02.08.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Hemorragia subaracnoidea Fisher III
+
+ANTECEDENTS
+-	Sin alergias conocidas
+-	Hipertensión arterial esencial
+-Trombosis venosa profunda en extremidad inferior derecha diagnosticado en octubre/2016 en _LOCATION_. Realizó tratamiento
+con enoxaparina (60mg/12h), actualmente suspendido.
+-Neoplasia  de mama estadio IV  con  múltiples metástasis óseas (diagnóstico  inicial  de  mieloma múltiple en _LOCATION_,
+posteriormente nuevo estudio en nuestro centro diagnostica carcinoma ductal infiltrante de mama con metástasis óseas, RE
+80%++, RP negativos, HER 2 negativo, ki 67 15%). Actualmente bajo tratamiento en _SS_, ensayo clínico Flipper
+(fulvestrant im 500mcg + palbociclib/placebo 125 mg vo) (contacto de Ensayo: Dr. _NAME_, _CONTACT_)
+-Episodios de angina a los 43 años, sin volver a repetir y sin tratamiento específico.
+-Colecistectomía abierta hace 20 años por colelitiasis
+SITUACIÓN SOCIOFUNCIONAL: natural de _LOCATION_. Actualmente vive desde hace 10 meses en _LOCATION_ con sus hijas.
+Vida activa. Independiente para las actividades básicas e instrumentales de la vida diaria.
+
+MEDICACIÓ HABITUAL
+Diazepam 5 mg/día, Escitalopram 10mg/d, Furosemida 40mg/d, Paracetamol /8h, Tramadol solo si dolor
+
+PROCÉS ACTUAL
+La paciente es traída por el SEM a urgencias el 01/08 por disminución del nivel de consciencia. Familiar refiere que hacia
+las 16:25h presenta episodio de disminución del nivel de consciencia súbito, posteriormente vómitos y hemiparesia derecha.
+A la llegada del SEM activan código ictus y trasladan a nuestro centro (llegada 17:15h). A su llegada, paciente somnolienta
+sin focalidad neurológica. GCS 14-15 puntos. Se realiza  TC y angioTC craneal que informa de Hemorragia subaracnoidea
+grado  III  de  predominio en  cisterna  peritroncular, crural  y ambiens izquierdas  así como  en  cisura  de  silvio izquierda, con tres
+aneurismas intracraneales, el mayor en la unión de ACM y comunicante posterior izquierdas de 6x5mm con un cuello de
+3mm.  Otro  aneurisma  en  ACM  derecha  supraclinoidea  y  una  en  bifurcación  de  ACM  izquierda.  Múltiples metástasis óseas
+en calota ya conocidas. Sistema ventricular de tamaño y morfología conservado.
+
+Informe d'alta d'hospitalització
+
+
+
+
+Tras entrevista con la familia y obtener informes de Oncología (paciente con neoplasia en fase avanzada pero buena
+respuesta  a tratamiento y buen pronóstico) la paciente ingresa  en UCI, de acuerdo con  Neurocirugía,  para monitorización y
+realización de arteriografía el 02/08.
+
+EXPLORACIÓ FÍSICA
+
+Talla: 150cm Masa: 62.5 kg
+Aspecto general conservado. Mucosas hidratadas. Conjuntivas normocoloreadas.
+Neurológicamente consciente y orientada. GCS 15 puntos. Pupilas medias isocóricas normorreactivas a estímulo luminoso.
+No focalidad neurológica en la exploración.
+A nivel respiratorio eupneica en reposo a aire ambiente. Auscultación con murmullo vesicular conservado sin ruidos
+sobreañadidos.
+A nivel cardiovascular, hemodinámicamente estable. Tonos cardiacos rítmicos. No soplos. Buena perfusión distal.
+Pulsos
+distales bilaterales simétricos.
+Abdomen blando, depresible, sin signos de irritación peritoneal. Ruidos hidroaéreos escasos
+
+EXPLORACIÓ COMPLEMENTÀRIA
+EMBOLITZACIÓ   ANEURISMA   INTRACRANEAL   (DUES   LESIONS)   (02.08.2017):   Previo   consentimiento
+informado bajo anestesia general, a través de punción femoral derecha.Se cateteriza de forma selectiva la ACII, la cual muestra dos aneurismas: uno en bifurcación de ACM y otro en AcomP, que por su morfologia probablemente sea etiología de HSA. Se procede a embolización mediante coils con balón asistido, obteniendose adecuada compactación intrasacular. n series angiográficas se comprueba adecuada permeabilidad de los vasos intracraneales durante y despues del procedimiento.
+Pequeño  cuello  residual.Cierre  percutáneo  mediante  mynxgrip  y  vendaje  compresivo  (24H).  Procedimiento sincomplicaciones inmediatas.
+
+TC cranial sense contrast (04.08.2017): Cambios postquirúrgicos en relación a embolización de aneurisma de arteria comunicante posterior izquierda, con práctica resolución radiológica de HSA, sin observar lesiones en parénquima cerebral supra e infratentorial de nueva aparición.
+
+TC cranial sense contrast (10.08.2017): Cambios postquirúrgicos en relación a embolización de aneurisma de arteria comunicante posterior izquierda, observándose en el estudio comparativo aparición de pequeños infartos lacunares en núcleo lenticular , brazo posterior de cápsula interna y y corona radiada posterior del lado izquierdo. Resto del estudio sin cambios valorables a destacar.
+
+TC cranial sense contrast (23.08.2017):  Cambios postquirúrgicos en relación a embolización de aneurisma de arteria comunicante posterior izquierda. Resto del estudio sin cambios valorables a destacar.
+
+Informe d'alta d'hospitalització
+
+
+
+EVOLUCIÓ CLÍNICA
+Durante la estancia en la planta de hospitalización de neurocirugía, no se producen incidencias. En condiciones de estabilidad clínica, se concede alta hospitalaria y control ambulatorio.
+
+DIAGNÒSTICS
+430/1 Hemorragia subaracnoidal no traumatica 430/1 Hemorragia subaracnoidal no traumatica
+
+PROCEDIMENTS
+39.72 Embolització o oclusió intravasculars (total) de vasos del cap i el coll
+87.03 Tomografia axial computada de cap. TAC de cap
+87.03 Tomografia axial computada de cap. TAC de cap
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Continuar con su medicación habitual.
+
+CONTROL
+Control en consultas externas de Neurocirugía (Dra._NAME_). Se notificará fecha y hora.
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+23.08.2017
+Pàgina 1 de 3

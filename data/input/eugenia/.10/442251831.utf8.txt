@@ -1,0 +1,169 @@
+_LOCATION_) Telèfon _SS_  972 _CONTACT_
+Telèfon IDI (Ressonància i TAC) _CONTACT_
+Telèfon ICO _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 77 Anys
+NIF/DNI: _ID__NAME_; _NAME_
+Informe d'alta d'hospitalització
+CP	_LOCATION_
+ABS	_SS_
+Servei	NEUROLOGIA
+Data d'alta  13.11.2017	14:00:48
+_LOCATION_
+_CONTACT_; _CONTACT_
+AGUTS 09.11.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Ictus isquémico ACM izquierda
+
+ANTECEDENTS
+ANTECEDENTES PERSONALES
+-No alergias medicamentosas conocidas.
+-No habitos tóxicos conocidos.
+-mRs: 0
+
+ANTECEDENTES PATOLOGICOS
+-Hipertensión arterial en tratamiento farmacológico.
+-No diabetes mellitus, no dislipemia, no cartdiopatía isquémica.
+-No patologia vascular cerebral previa
+
+MEDICACIÓ HABITUAL
+Enalapril + hidrolcorotiazida 20 + 12,5mg c/24hs Brinzolamida colirio 4 c/24hs
+
+PROCÉS ACTUAL
+El 08.11.2017 sobre las 10:15-10:30, según el marido, comienza cuadro de dificultad para la comprensión y emisión del lenguaje por que lo avisa al SEM que activa código ictus a las 11:37h con un RACE 4. Se derivada a nuestro centro, con llegada a las 12:00h.
+
+A su llegada se objetiva afasia global y hemianopsia homónima derecha, puntuando NIHSS de 11. Se realiza TC con angioTC craneal que ponen en evidencia oclusión de rama inferior de arteria cerebral media izquierda sin lesiones isquémicas establecidas (ASPECTS 10) en el TC basal. Se decide, por tanto, tratamiento con rtPA iv a las 12:45h (bolus de 5 mg y perfusión de 45 mg, peso 55kg; previa TA 169/63 y glicemia 114) y se deriva a _SS_ para tratamiento endovascular de rescate, donde llega a las 14:52h.
+
+A la llegada de la paciente al _SS_ empeora de su afasia quedando mutista, puntua un NIHSS de 13. Se realiza RM multiparamétrica protocolo FURIAS donde se ve persistencia de la oclusión en división inferior de a.cerebral media izquierda con ASPECTS 7 y región hipoperfundida extensa. Se decide  tratamiento endovascular, la angiografia basal (15:57h) confirma oclusión de rama posteroinferior de a.cerebral media izquierda y mediante dispositivo CATCH se recanaliza a las 16:10h (TICI 2b).
+
+Durante su ingreso en la Unidad de _SS_ no se registran arritmias embolígenas. Se ha hecho RM post-trombectomía dentro del estudio FURIAS en la que no se observa crecimiento de la lesión basal y donde se confirma ausencia de oclusión arterial.
+Desde el punto de vista neurológico presenta mejoría progresiva de su afasia afasia. Dada estabilidad clínica y neurológica se decide traslado a nuestro centro para estudio y control evolutivo.
+
+Informe d'alta d'hospitalització
+
+
+
+EXPLORACIÓ FÍSICA
+
+FC	69 bpm
+Tªaxi 36.2 ºC
+FR	rpm Tªrec  ºC
+TA s	107 mmHg SAT O2 96 %
+TA d   52 mmHg Pes Kg
+
+EXPLORACION A LA LLEGADA A URGENCIAS 08/11
+Alerta. Lenguaje: emite lenguaje espontáneo a las preguntas, no adecuado al contexto, con palabras simples tipo bien", y parafasias, sin comprensión ni por imitación. No repite. No disartria. Preferencia ocular hacia la izq, con leve limitación hacia la derecha. HHD por amenaza. Paresia facial derecha leve-moderada. No objetivo déficit motor. Hemihipoestesia drecha.
+NIHSS 02212/10000/01200 = 11.
+
+EXPLORACIÓ COMPLEMENTÀRIA
+ECG: en ritmo sinusal.
+Monitorización en la Unidad de Ictus: ritmo sinusal durante todo el registro.
+
+Pruebas en Urgencias:
+ANALÍTICA:
+Hemograma:  Hemoglobina  12.8  g/dL,  Plaquetes  199  K/mcL,  Leucòcits  11.64  K/mcL,  Neutròfils  7.1  K/mcL,
+Limfocits 3.6 K/mcL
+Coagulación:  (INR) 1.04, (TTPA) 29.7 segons, Fibrinogen (deduit) 512 mg/dL
+Bioquímica:  Glucosa 79 mg/dL, Urat 5.6 mg/dL,m Creatincinasa (CK) 100 U/, Amilasa 36 U/, Calci (II) 9.6 mg/dL, Ió sodi 143 mEqu/, Ió potasi 4.2 mEqu/, Troponina T hs  15.1 ng
+Perfil renal: Urea 54 mg/dL, Creatinina 0.83 mg/dL
+Perfil hepático: Proteïna 7.1 g/dL, Albúmina   4.6 g/dL, Bilirubina total 0.38 mg/dL, (GOT Mostra hemolitzada., Atenció:, Prova refusada per hemolisis, (GPT) 15 U/, Gamma-glutamiltransferasa 14 U/, Fosfatasa alcalina 71 U/. Perfil lipídico: Colesterol 215 mg/dL, HDL 59 mg/dL, LDL (calcul) 117 mg/dL, Triglicèrid 196 mg/dL,
+
+Rx de torax: ICTde 0.46. Parenquima pulmonar bilateral sin alteracioens relevantes.
+
+TC multimodal 08/11: Estudio TC sin lesiones hemorrágicas, ni signos de infarto hiperagudo. Trombo oclusivo a nivel de M1 (rama anterior) de la ACM izquierda y estenosis/ repermeabilización parcial de segmentos distales de M2-M3 izquierdos que condicionan área de penumbra isquémica parieto-occipito-temporal izquierda.
+
+Estudio Doppler (Dra. _NAME_): Estudio neurosonológico tras finalizar perfusión. DTSA: mínimo engrosamiento de íntima media a nivel de ambos bulbos, sin objetivarse placas. Asimetría en cuanto a la velocidad de ambas ACIs: ACI dcha VPS 110 cm/seg y ACI izq VPs 86 cvm/seg. Morfología de curva muy pulsátil. AAVV ortodrómicas.
+DTC: TIBI 2 en M1 (VPs 23 cm/seg), con repermeabilización distal.
+
+Pruebas complementarias en HGTP:
+RM cerebral multiparamètrica (08.11.2017; 15:19h): lesión isquémica aguda afectando a región posterior de ínsula y córtex temporal izquierdo (ASPECTS 7) que no se visualiza en FLAIR. En secuencias T2* se identifica trombo en valle silviano izquierdo. No se observan focos de sangrado agudo ni crónico. Oclusión proximal de la división anterior silviana de la ACM izquierda. Resto del polígono de Willis sin alteraciones. Como variante se aprecia una aplasa/hipoplasia del segmento A1 de la ACA derecha.Alteración de la perfusión en forma de retraso del tiempo circulatorio en el territorio superficial de la ACM izquierda. Existe mismatch significativo.
+
+Informe d'alta d'hospitalització
+
+
+
+
+Arteriografía: La exploración pone de manifiesto: 1. Bifurcación precoz de la ACM izquierda. 2. Oclusión de la división inferior de la ACM izquierda (TICI: 0). Se sube un catéter balón Flow Gate 8F con balón, que se coloca en la ACI izquierda. Con un microcatéter Excelsior SL10 y una microguía Synchro 14 se hace un microcateterismode la división inferior de la ACM izquierda, hasta el segmento M2 distal. Se sube y despliega un stent Catch Mini 3x15 mm, con el que se repermeabiliza de forma completa la ACM izquierda y sus ramas. Bajo oclusión de la ACI izquierda con el balón y con aspiración continua, se retira el stent de forma lenta y cuidadosa, con el que se extrae un importante trombo, lográndose una repermeabilización completa de la ACM izquierda y sus ramas. Se hacen estudios angiográficos que demuestran una repermeabilización prácticamente completa de la ACM izquierda, persistiendo una oclusión distal en la rama parietooccipital izquierda (TICI: 2b). Se cierra el punto de punción arterial femoral derecho con una sutura mecánica (Perclose-ProGlide). No se presentan complicaciones.
+
+RM cerebral multiparamètrica (08.11.2017; 18:13h): lesión isquémica aguda que afecta a región posterior de ínsula y córtex temporal anterior izquierdo (ASPECTS 8). Rotura de barrera hematoencefálica con presencia de contraste subaracnoideo en secuncia FLAIR. No transformación hemorrágica. Ausencia de oclusión arterial.
+
+Pruebas en _SS_:
+TC de control:
+Estudio TC sin lesiones hemorrágicas, ni signos de infarto hiperagudo. Trombo oclusivo a nivel de M1 (rama anterior) de la ACM izquierda y estenosis/ repermeabilización parcial de segmentos distales de M2-M3 izquierdos que condicionan área de penumbra isquémica parieto-occipito-temporal izquierda.
+
+RM control FURIAS 13/11/17: Infarto agudo/subagudo del territorio superficial de la ACM izquierda con pequeño foco de transformación hemorrágica ( HI-1) temporobasal y con repermeabilización de la rama anterior proximal M1 de ACM izquierda.
+
+ETT 13/11/2017:
+-Ventricle esquerre no dilatat ni hipertròfic amb funció contràctil global i segmentària normals .
+-Vàlvula mitral d#aspecte normal sent lleugerament insuficient
+-Vàlvula aòrtica trivalva, sent mínimament insuficient
+-Vàlvula pulmonar normofuncionant.
+-Vàlvula tricúspide amb lleu insuficiència snese HTP
+-Arrel aòrtica i aorta ascedent de dimensions normals.
+-Aurícula esquerra normal.
+-Cavitats dretes normals.
+-No embassament pericàrdic
+
+EVOLUCIÓ CLÍNICA
+La paciente es trasladada a nuestro centro el 09/11/2017. A su llegada se objetiva leve alteración del lenguaje (le cuesta nominar algun objeto) con NIHSS de 1. Se decide ingreso a la unidad de ictus bajo vigilancia semi intensiva con la orientación diagnóstica de ictus isquémico ACM izquierda, de mecanismo embólico y etiologia en estudio.
+Durante su ingreso la paciente mejora progresivamente hasta encontrarse asintomática, puntua un NIHSS de 0. No se han reportado complicaciones.
+No se han regitrado arrtmias embolígenas en la telemetria.
+El estudio con ecocardiografía pone en evidencia leve insuficiencia mitral, aórtica y tricuspidea. Sin fuentes cardioembólicas.
+
+Informe d'alta d'hospitalització
+
+
+
+
+La RM de control del 13/11 pone en evidencia lesión isquemica temporal izquierda con transformacion hemorrágica petequial única. Se inicia rehabilitacion y logopeda.
+
+Se trata por tanto de un ictus en territorio de ACM izquierda de perfil embólico y etiología indeterminada (ESUS). La paciente cumple todos los criterios de inclusion y ninguno de exclusion del estudio RESPECT ESUS, por lo que se le propone su inclusión  en el mismo, la paciente lo entiende, acepta y firma consentimientos.
+Dada su estabilidad clínica y hemodinámica se decide alta a domicilio. ESCALAS AL ALTA:
+NIHSS: 0
+mRs: 0
+Barthel :100
+
+DIAGNÒSTICS
+436/5 Ictus isquémico ACM izquierda de mecanismo embólico y etiologia en estudio. 401.9/2 HTA
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Medicacion ESUS Atorvastatina 40mg c/24hs Resto sin cambios.
+
+CONTROL
+Control de factores de riesgo vascular por MAP.
+Control por consultas externas de neurovascular en tres meses. Recibirá cita en domicilio.
+
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+13.11.2017
+Pàgina 1 de 4

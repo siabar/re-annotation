@@ -1,0 +1,111 @@
+_LOCATION_
+email: _CONTACT_ Telèfon _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 84 Anys
+NIF/DNI: _ID__NAME_; _NAME_; _NAME_
+Informe d'alta d'hospitalització
+11:00:00
+22.09.2017
+_LOCATION_
+_SS_ UNITAT D'ICTUS
+ABS
+Servei Data d'alta
+_CONTACT_ BOTIG
+DOMICIL/RES.SOC 19.09.2017
+_LOCATION_
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Varón de 84 años que ingresa por hemorragia cerebral
+
+ANTECEDENTS
+-Sin alergias medicamentosas conocidas.
+-Sin hábitos tóxicos.
+
+ANTECEDENTES PATOLOGICOS
+-Leucemia linfática crónica estadio Ia en seguimiento en _SS_ hasta 2013.
+-Infarto en territorio de ACM izquierda en mayo 2017, inicialmente orientado como etiología indeterminada por estudio incompleto (no se realizó monitorización cardiaca). Presentó recuperación ad integrum. En estudio Holter posterior se detectó FA, por lo que se inició NACO (Eliquis), orientandose finalmente la etiología del ictus como cardioembolica
+*RM cerebral: Lesiones focales insular izquierda y en corona radiata izquierda hiperintensas en T2 y FLAIR, hipointensa en T1 coon restricción en difusión en relación con lesiones isquémicas subagudas.
+*Ecocardiografía: Dilatación severa de aurícula izquierda con ventrículo izquierdo ligeramente dilatado con FEVI del 50%, IM moderada mixta. IAo ligera.
+*Holter: RS CON ESV frecuente y episodios de ACxFA con RVM de 145x'. EEVV polimòrfica con bigemismo, trigeminismo
+-Fibrilación auricular paroxistica. En tratamiento con Eliquis.
+-Hipoacusia.
+
+Situación sociofuncional: Independiente para las actividades de la vida diaria. mRs 1
+
+MEDICACIÓ HABITUAL
+Eliquis 5mg/12h, Omeprazol 20mg/24h
+
+PROCÉS ACTUAL
+Presenta, estando previamente asintomático, a las 16.30 del día 19/09/2017 cuadro de paresia de extremidades izquierdas y dificultad para la emisión del lenguaje por lo que es traído a nuestro centro según protocolo RACECat. Se activa codigo ictus a las 18h. Hora de llegada 20:28h.
+
+EXPLORACIÓ FÍSICA
+
+EXPL FÍSICA EN URGENCIAS
+TA 139/69mmHg, FC 65lpm
+Estado general conservado, normocoloreado, normohidratado y normoperfundido.
+Auscultación cardiaca con tonos rítmicos y sin soplos, no presenta edemas en miembros inferiores. Auscultación pulmonar con murmullo vesicular conservado sin ruidos sobreañadidos.
+Neurológicamente  somnoliento (1), desviación oculocefálica derecha (2), disartria ininteligible (2), hemianopsia
+
+Informe d'alta d'hospitalització
+
+
+
+
+homónima izquierda (2), PFSN izquierda (2), paresia 1/5 braquiocrural (4+4), sensibilidad no valorable (1). NIHSS 18.
+
+UI
+TA 121/57mmHg, FC 74lpm, T: 36.6ºC
+TCR sin soplos. Roncus dispersos en ambos pulmones
+NRL: somnoliento (1), LOC C 1/2 (1), LOC Q 0/2 (2), disartria ininteligible (2). POC D (1). HHI por amenaza (2), PFSN I (2), Motor: hemiparesia izquierda B-C 2/5 (3+3). Sensibilidad no valorable (1). NIHSS  18
+
+EXPLORACIÓ COMPLEMENTÀRIA
+URGENCIAS
+-ECG: Arrítmico por FA con FC media de 96lpm, QRS 120ms, posible patrón de BRDHH (mala calidad por movimiento del paciente)
+-Analítica general: Hb 13.0g/dl, Hto 43.7%, Leucocitos 22430 (N 5100, L 15400, M 1800, E 0), TQuick 63%, INR 1.35, TTPAr 1.29, Fibrinógeno 2.42g/l, Glucosa 105mg/dl, Urea 38mg/dl, Cr 0.95mg/dl, FG estimado 73, Na 139.8mmol/l, K 4.54mmol/l, Ca 9.1mg/dl, AST 19UI/L, ALT 6UI/L, Proteinas 7.1g/dl
+-TC craneal + AngioTC: Hematoma agudo talámico derecho con efecto masa sobre el asta occipital, ventrículo lateral derecho y apertura hacia sistema ventricular ipsilateral. Línea media desplazada a la izquierda de 4 mm. Hematoma talámico izquierdo de 5mm y otro a nivel pontino de 7mm. No se objetivan signos de extravasación de contraste que sean sugestivos de sangrado activo.
+
+UI
+-Analitica General: se adjunta (destaca leucocitosis con neutrofilia)
+-	TC craneal control 24 horas: lleu augment de mida de l'hematoma talàmic dret, actualment d'uns 31 x 31 x 42 mm (APxTxCC), amb estabilitat del hematoma talàmic esquerre i del centroprotuberencial. Augment del component hemàtic intraventricular a banya occipital esquerra.
+-	Rx torax (rotada): sin condensaciones en pulmón derecho, no valorable izquierdo. Cardiomegalia
+
+EVOLUCIÓ CLÍNICA
+A su llegada a nuestro centro paciente con hemiparesia derecha, somnolencia y disartria ininteligible que le condiciona NIHSS de 18. Se realiza TC craneal (20:39h) en el que presenta hematomas sincrónicos talámico bilateral y protuberancial con posible signo de sangrado activo en angio-TC. Se pautan medidas de ictus agudo y, estando bajo anticoagulación con Apixabán, se revierte con Protromplex ajustado a peso (20UI/Kg), según recomendaciones de Hematología.
+El paciente ingresa en UI para control evolutivo, dónde persiste con NIHSS 18 al alta (mRS=5). Se realiza TC control a las 24h que muestra ligero aumento del hematoma talámico derecho, con resto sin cambios. Presenta además a la exploración física roncus difusos y aumento de secreciones, que podrian ser compatibles con broncoaspiración (sin evidencia de neumonía radiológica, aunque con una Rx torax poco valorable), por lo que se ha iniciado antibioterapia empirica con amoxicilina/clavulanico.
+El paciente ha iniciado RHB y sedestación sin incidencias. Se realiza test de disfagia por el que tolera dieta triturada sin líquidos. Familia informada de gravedad del cuadro actual.
+Ante la estabilidad, se decide traslado a su hospital de referencia para continuidad de cuidados y tratamiento rehabilitador.
+
+DIAGNÒSTICS
+HIC talámico bilateral y centro protuberancial probablemente secundario a anticoagulación
+
+Informe d'alta d'hospitalització
+
+
+
+
+PROCEDIMENTS
+TC craneal + AngioTC protocolo TC craneal control 24 horas
+AG
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Se adjunta tratamiento en la Unidad de Ictus (por el momento, queda contraindicada la anticoagulación; revalorar en aproximadamente 1 mes, tras desaparición de la HIC en el TC, y en función del estado funcional del paciente, el reinicio de nuevos anticoagulantes a dosis bajas).
+Recomendamos un control estricto de TA
+
+CONTROL
+Control por Neurólogo de zona y especialistas habituales
+
+DESTINACIÓ A L'ALTA:	HOSP. AGUTS/PSQ
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+22.09.2017
+Pàgina 1 de 3

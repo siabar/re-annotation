@@ -1,0 +1,166 @@
+_LOCATION_
+_LOCATION_) Anul·lació/Reprogramació visites:_CONTACT_
+Telèfon Centraleta: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 23 Anys
+NIF/DNI: _ID__NAME_; _NAME_;
+ _NAME_; _NAME_
+Informe d'alta d'hospitalització
+CP	_LOCATION_
+ABS	_SS_
+Servei	NEUROLOGIA
+Data d'alta  25.10.2017	14:38:42
+_LOCATION_
+_CONTACT_; _CONTACT_
+AGUTS 18.10.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Varón de 23 años que ingresa por alteración en la motilidad ocular y alteración del lenguaje.
+
+ANTECEDENTS
+Sin alergias medicamentosas conocidas Niega hábitos tóxicos (tabaco, OH).
+No HTA, DLP ni DM conocidas. No cardioneumopatias conocidas.
+No antecedentes de enfermedades sistémicas. IQ: no refiere.
+
+
+MEDICACIÓ HABITUAL
+No refiere.
+
+PROCÉS ACTUAL
+Varón de 23 años, que acude a urgencias de _SS_ derivado de _SS_ porque, estando previamente asintomático, presenta el día 17/10 a las 22:30h, después de un probable episodio de valsalva (la madre lo encuentra sentado en el baño) cuadro de alteración del lenguaje y desviación ocular. Familiar y paciente refieren que se encontraba perfecto los días previos. En _LOCATION_ objetivan OIN izquierda por lo que nos contactan para activar codigo ictus. Se activa código ictus a las 00:50h, llega a _SS_ a las 1:45h, TAC craneal a las 2:00h. I
+
+A la valoración por Neurología de guardia, el paciente se encuentra normotenso y afebril. INR 0,9. DXT 126. NRL: consciente y orientado, dice mes y edad. Obedece dos órdenes simples. Lenguaje incoherente con abundantes parafasias aunque nomina 5/5, evoca 5/5 y repite (1), OIN izquierda (1). No asimetrías faciales. PPCC bajos conservados. Desaferentización de brazo derecho con balance conservado en 4 extremidades. Sensibilidad sin alteraciones. Dismetría en DN derecho (1). RCP flexor bilateral. NIHSS  3.
+
+Se realiza analitica urgente sin alteraciones. ECG en RS a 65lpm sin alteraciones agudas de la repolarización. TAC craneal sin signos de isquemia aguda ASPECT 10. Hiperdensidad en ACP izquierda. AngioTC: oclusión en P2 izquierda. Resta pendiente la Rx tórax.
+
+Se orienta como ictus isquémico en terriotrio VB + oclusión de P2 izquierda de etiología a estudio. Dado que no presenta contraindiación y se encuentra en periodo ventana se decide rTPA (Bolus de 6,5 mg y perfusión de 56,5 mg a las 2:21 TA 134/87 mmHg). Finaliza sin incidencias.
+Se contacta con equipo de Neurovascular (Dra _NAME_) desestimándose tratamiento endovascular, dado que se trata de NHSS bajo y trombo distal.
+
+Se decide ingreso en Neurología (Unidad de Ictus) para estudio etiológico y control evolutivo.
+
+Informe d'alta d'hospitalització
+
+
+
+EXPLORACIÓ FÍSICA
+TA 115/71mmHg, FC 57lpm, afebril, SpO 100%.
+NRL: Nistagmus vertical a la infraversión de la mirada, resto exploración neurológica normal. NIHSS 0. AC: rítmica, no ausculto soplos.
+AP: murmulo vesicular conservado, sin ruidos sobreañadidos.
+Abdomen: blando, depresible, no doloroso a la palpación, no palpo masas ni megalias, no signos de irritación peritoneal, peristaltismo conservado. Puño percusión renal negativa. No dolor a la palpación de apófisis espinosas. EEII: no edemas ni signos de TVP. Pulsos periféricos presentes y simétricos.
+
+EXPLORACIÓ COMPLEMENTÀRIA
+Exploraciones Complementarias en Urgencias: Analítica :
+-	EAB venós: pH 7.40, PaO2 46mmHg, PaCO2 41mmHg, HCO3 25.4mmol/L, EB 0.5
+-	Bioquímica: Glucosa 5.9mmol/L, Urea 8.6mmol/L, Cr 80umol/L, Na+ 143mmol/L, K+ 3.57mmol/L
+-	Coagulació: TTPA 0.81, TP 1.17
+-Hemograma: Hb 136g/L, Hto 40%, VCM 83fL, Plaquetes 170x10E9/L, Leucòcits 14.500/L (N 11.990/L, L 1.670/L).
+ECG: RS a 65lpm sin alteraciones agudas de la repolarización
+Rx Tòrax: marc ossi conservat, ICT <50, camps pulmonars sense condensacions ni infiltrats, sins sense piçament ni signes de vessament pleural, hilis no prominents
+TC craneal (18/10): Accidente isquémico agudo en relación a trombosis del segmento P2 de la ACP izquierda. No se identifican alteración densitométricas del parénquima encefálico en el momento actual. Resto de estudio sin alteraciones destacables.
+
+Exploraciones Complementarias en Planta de NRL:
+Analítica ingreso: urea 2.9mmol/L, Cr 87umol/L, FG >90mL/min. Na+ 140mmol/L, K+ 4.89mmol/L, Glucosa 5.8mmol/L, AST 0.24ukat/L, ALT 0.39ukat/L, Albúmina 44g/L, Proteina 58g/L, Br 31umol/L, Br directe 9umol/L, GGT 0.24, FA 1.08ukat/L, PCR 0.6mg/L, Colesterol 3.60mmol/L, HDL 0.96mmol/L, LDL 2.30mmol/L, quocient HDL/Colesterol 0.27, Triglicerids 0.74mmol/L. TSH 1.30mu.int/L, T4 lliure 14.9pmol/L. HbA1c 5.4%, Cobalamines 464pmol/L, Folats 19.5nmol/L. Hb 140g/L, Hto 41.40%, VCM 85fL, Plaquetes 167.000, Leucòcits 5.900 (N 3.250, L 1.750). TTPA 0.91, TP 1.20.
+Autoinmunidad: ANA negativo. anticoagulante lúpico negativo.  Ac anticardiolipina y anti-B2 glicoproteina IgG negativos, pte IgM. Pte ANCAs.
+Tóxicos en orina: NEGATIVOS.
+Serologias: Hepatitis A anticossos IgM (CLIA) Negatiu, Hepatitis B anticossos IgG (CLIA) (anti core IgG) Negatiu, Hepatitis B antigen de superfície (HbsAg) (CLIA) Negatiu, Hepatitis C anticossos IgG (CLIA) Negatiu, Treponema pallidum anticossos especif. (CLIA) Negatiu, VIH1 i VIH2 anticossos i antigen p24 (CLIA) Negatiu
+TC craneal control (19/10): Examen craneal sin alteraciones radiológicas valorables.
+RMN cerebral: Múltiples lesiones focales isquémicas en fase aguda-subaguda localizadas en distintos territorios vasculares bilaterales que sugieren una causa embolígena. Estudio angioRM de polígono de Willis sin evidencia de estenosis.
+ETT: VI no dilatado ni hipertrófico, con función contráctil conservada. VD no dilatado, con contractilidad conservada. Aurícula izquierda no dilatada. Aorta ascendente no dilatada. Válvula mitral de morfología normal, con ligera insuficiencia. Insuficiencia tricuspídea ligera. PAPs estimada de 25 mm Hg. Flujo pulmonar no sugestivo de HT
+
+Informe d'alta d'hospitalització
+
+
+
+
+pulmonar. PVC normal. Sin derrame pericárdico significativo.
+ETE: Orejuela izquierda libre de trombos. SIA móvil (13 mm), con presencia de pequeño canal a nivel de fosa oval, con orificio muy estrecho (2 mm) y flujo I-> D. Tras administrar SS agitado, y tras Valsalva, se observa paso de burbujas precoz grado I, sugestivo de FOP. Sin ateromatosis aórtica.
+Holter 24h: PENDIENTE de informe.
+
+EVOLUCIÓ CLÍNICA
+Ingresa en la Unidad de Ictus por ictus isquémico en territorio vértebro-basilar con oclusión de P2 tratado en fase aguda mediante trombolisis pasando de NIHSS 3 -->0, solo destacar a la exploración neurológica nistagmus vertical a la infraversión, de la mirada, resto exploración normal.
+
+En el TC de control a las 24h post-trombolisis no se observan signos de transformación hemorrágica. Se inicia antiagregación con AAS 300mg. Se mantinene monitorizado en la Unidad sin detectarse ningún evento arrítmico.
+
+Como parte del estudio vascular se realiza analítica ingreso en la que destaca perfil hepático compatible con sd. de Gilbert, leve disminución de HDL, VSG normal con autoinmunidad negativa (queda pendiente Ac antiB2 glicoproteina IgM y ANCA). La RMN cerebral muestra múltiples lesiones isquémicas bilaterales
+agudas-subagudas. Se completa estudio con angioRMN que no muestra hallazgos patológicos (recanalización P2).
+Se realiza estudio ecocardiográfico transesofágico dónde se detecta FOP, resto normal. Se decide cambio de antiagregación a clopidogrel.
+Se orienta el caso como ictus isquémico vértebro-basilar con oclusión de P2 tratado en fase aguda mediante trombolisis (POCI) en contexto de FOP, pendiente de valoración por Cardiología de cierre percutaneo de forma ambulatoria.
+Resta pendiente resultado Holter 24horas, aunque después de > 7 días de monitorización en la Unidad no se ha registrado ningún evento arrítmico. Antiagregado con Clopidrogel 75mg.
+A dia de hoy 25/10 neurológicamente el paciente no presenta ninguna focalidad neurológica. Dada la estabilidad clínica, se decide alta a domicilio pendiente de cierre ambulatorio del FOP. DIAGNÒSTICS
+436/5 Ictus
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+-	Clopidogrel 75mg/24h
+-	Pantoprazol 20mg/24h
+
+CONTROL
+Control por NRL _SS_ (Dr._NAME_)
+Solicitamos 1era visita con Cardiología para valorar cierre percutaneo de FOP.
+
+Informe d'alta d'hospitalització
+
+
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+25.10.2017
+Pàgina 1 de 4

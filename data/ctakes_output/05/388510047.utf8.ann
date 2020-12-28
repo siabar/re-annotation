@@ -1,0 +1,82 @@
+T0	FECHA 330 340	07.07.2017
+#0	AnnotatorNotes T0	2017-07-07
+T1	HORA 399 404	16:08
+#1	AnnotatorNotes T1	16:08
+T2	SECCION_TIPO_DE_INGRESO 436 461	Tipo ingreso/Tipus ingrés
+T3	SECCION_DIAGNOSTICOS 503 508	Diag.
+T4	_SUG_Ictus_isquemico 510 525	ICTUS ISQUÉMICO
+T5	_SUG_Arteria_afectada 537 540	ACP
+T6	_SUG_Lateralizacion 541 548	DERECHA
+T7	SECCION_PROCEDIMIENTOS 552 557	Proc.
+T8	_SUG_TAC_craneal 630 632	TC
+T9	_SUG_Trombolisis_intravenosa 645 666	FIBRINOLISIS CON RTPA
+T10	SECCION_MOTIVO_DE_INGRESO 801 839	Motivo de consulta / Motiu de consulta
+T11	SECCION_ANTECEDENTES 870 932	Antecedentes e historia previa / Antecedents i història prèvia
+T12	SECCION_ANTECEDENTES_PERSONALES 934 957	ANTECEDENTES PERSONALES
+T13	_SUG_mRankin 1031 1037	mRS: 0
+T14	SECCION_ANTECEDENTES_PATOLOGICOS 1118 1142	ANTECEDENTES PATOLÓGICOS
+T15	_SUG_Trombolisis_intravenosa 1408 1422	fibrinolitzado
+T16	FECHA 1461 1465	1999
+#16	AnnotatorNotes T16	1999-UNDEF-month-UNDEF-day
+T17	FECHA 1690 1694	2011
+#17	AnnotatorNotes T17	2011-UNDEF-month-UNDEF-day
+T18	FECHA 1896 1900	4/08
+#18	AnnotatorNotes T18	2008-04-UNDEF-day
+T19	FECHA 2177 2181	2004
+#19	AnnotatorNotes T19	2004-UNDEF-month-UNDEF-day
+T20	FECHA 2184 2188	2007
+#20	AnnotatorNotes T20	2007-UNDEF-month-UNDEF-day
+T21	FECHA 2270 2274	1940
+#21	AnnotatorNotes T21	1940-UNDEF-month-UNDEF-day
+T22	SECCION_TRATAMIENTO_HABITUAL 2662 2682	TRATAMIENTO HABITUAL
+T23	_SUG_Tratamiento_antiagregante 2727 2749	ácido acetilsalicílico
+T24	SECCION_TRATAMIENTO_HABITUAL 8216 8235	Medicación habitual
+T25	_SUG_Trombectomia_mecanica 8335 8339	teva
+T26	_SUG_Tratamiento_antiagregante 8646 8653	SPIRIVA
+T27	_SUG_Tratamiento_antiagregante 9170 9192	ÁCIDO ACETILSALICÍLICO
+T28	_SUG_Tratamiento_antiagregante 9194 9199	ADIRO
+T29	_SUG_Tratamiento_antiagregante 9202 9210	ASPIRINA
+T30	SECCION_PROCESO_ACTUAL 2924 2954	Proceso actual / Procés actual
+T31	HORA 2978 2983	13:15
+#31	AnnotatorNotes T31	13:15
+T32	FECHA 2989 2997	07/07/17
+#32	AnnotatorNotes T32	2017-07-07
+T33	SECCION_PROCESO_ACTUAL 10308 10314	Episod
+T34	SECCION_EXPLORACION_FISICA 3115 3153	Exploración física / Exploració física
+T35	FECHA 3154 3164	07/07/2017
+#35	AnnotatorNotes T35	2017-07-07
+T36	HORA 3165 3170	16:20
+#36	AnnotatorNotes T36	16:20
+T37	_SUG_NIHSS 3575 3582	NIHSS 3
+T38	_SUG_TAC_craneal 4003 4005	TC
+T39	_SUG_Tratamiento_antiagregante 4165 4172	pleural
+T40	_SUG_Tratamiento_antiagregante 4263 4270	pleural
+T41	_SUG_TAC_craneal 4525 4536	TC CEREBRAL
+T42	SECCION_EXPLORACIONES_COMPLEMENTARIAS 5445 5505	Exploraciones complementarias / Exploracions complementàries
+T43	SECCION_EVOLUCION 5551 5571	Evolución / Evolució
+T44	_SUG_NIHSS 5900 5908	NIHSS: 3
+T45	_SUG_Recanalizacion 5993 6007	repolarización
+T46	_SUG_TAC_craneal 6025 6035	TC craneal
+T47	_SUG_Trombolisis_intravenosa 6518 6552	tratamiento fibrinolítico con rtPA
+T48	_SUG_TAC_craneal 6662 6664	TC
+T49	_SUG_Tratamiento_anticoagulante 6747 6759	acenocumarol
+T50	_SUG_Tratamiento_anticoagulante 6761 6768	sintrom
+T51	_SUG_Tratamiento_antiagregante 6814 6822	aspirina
+T52	SECCION_EXPLORACION_FISICA_AL_ALTA 7114 7121	Al alta
+T53	_SUG_NIHSS 7123 7131	NIHSS: 0
+T54	_SUG_mRankin 7156 7162	mRS: 0
+T55	FECHA 7251 7255	1940
+#55	AnnotatorNotes T55	1940-UNDEF-month-UNDEF-day
+T56	_SUG_TAC_craneal 7343 7345	TC
+T57	SECCION_TRATAMIENTO_AL_ALTA 7802 7835	Plan terapéutico / Pla terapèutic
+T58	_SUG_Tratamiento_anticoagulante 7856 7863	CLEXANE
+T59	_SUG_Tratamiento_anticoagulante 8049 8056	SINTROM
+T60	_SUG_Tratamiento_anticoagulante 8092 8104	ACENOCUMAROL
+T61	SECCION_RECOMENDACIONES 9213 9234	Otras recomendaciones
+T62	_SUG_Tratamiento_anticoagulante 9351 9358	SINTROM
+T63	_SUG_Tratamiento_anticoagulante 9395 9402	SINTROM
+T64	_SUG_Tratamiento_anticoagulante 9580 9587	SINTROM
+T65	FECHA 9977 9987	12.07.2017
+#65	AnnotatorNotes T65	2017-07-12
+T66	HORA 10001 10006	09:31
+#66	AnnotatorNotes T66	09:31

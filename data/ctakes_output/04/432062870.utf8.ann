@@ -1,0 +1,55 @@
+T0	FECHA 323 333	21/10/2017
+#0	AnnotatorNotes T0	2017-10-21
+T1	FECHA 358 368	23/10/2017
+#1	AnnotatorNotes T1	2017-10-23
+T2	FECHA 402 412	21/10/2017
+#2	AnnotatorNotes T2	2017-10-21
+T3	FECHA 441 451	23/10/2017
+#3	AnnotatorNotes T3	2017-10-23
+T4	SECCION_ANTECEDENTES_PATOLOGICOS 565 581	Historial médico
+T5	SECCION_PROCESO_ACTUAL 1129 1146	Enfermedad actual
+T6	HORA 1206 1211	20:00
+#6	AnnotatorNotes T6	20:00
+T7	HORA 1497 1502	22:34
+#7	AnnotatorNotes T7	22:34
+T8	_SUG_TAC_craneal 1591 1601	TC craneal
+T9	HORA 1608 1613	22:57
+#9	AnnotatorNotes T9	22:57
+T10	_SUG_Trombolisis_intravenosa 1690 1720	tratamientos revascularización
+T11	_SUG_Trombectomia_mecanica 1690 1720	tratamientos revascularización
+T12	SECCION_EXPLORACION_FISICA 1775 1793	Exploración física
+T13	FECHA 2347 2357	23/10/2017
+#13	AnnotatorNotes T13	2017-10-23
+T14	_SUG_NIHSS 2369 2394	NIHSS (23/10/2017):     0
+T15	FECHA 2376 2386	23/10/2017
+#15	AnnotatorNotes T15	2017-10-23
+T16	SECCION_EXPLORACIONES_COMPLEMENTARIAS 2397 2431	Pruebas complementarias realizadas
+T17	FECHA 2447 2457	20/10/2017
+#17	AnnotatorNotes T17	2017-10-20
+T18	HORA 2562 2566	1.20
+#18	AnnotatorNotes T18	01:20
+T19	FECHA 3404 3414	23/10/2017
+#19	AnnotatorNotes T19	2017-10-23
+T20	_SUG_TAC_craneal 3534 3548	TC  -  craneal
+T21	FECHA 3551 3561	20/10/2017
+#21	AnnotatorNotes T21	2017-10-20
+T22	_SUG_TAC_craneal 3673 3675	TC
+T23	FECHA 3678 3688	23/10/2017
+#23	AnnotatorNotes T23	2017-10-23
+T24	_SUG_Trombectomia_mecanica 3957 3978	tratamiento realizado
+T25	_SUG_Trombolisis_intravenosa 3957 3978	tratamiento realizado
+T26	_SUG_TAC_craneal 4210 4220	TC craneal
+T27	_SUG_TAC_craneal 4313 4315	TC
+T28	_SUG_TAC_craneal 4709 4716	craneal
+T29	SECCION_DESTINO_AL_ALTA 4763 4778	Destino al alta
+T30	_SUG_mRankin 4790 4806	Rankin (alta): 0
+T31	_SUG_NIHSS 4859 4874	NIHSS (alta):	0
+T32	SECCION_DIAGNOSTICOS_SECUNDARIOS 4970 4994	Diagnósticos secundarios
+T33	SECCION_PROCEDIMIENTOS 5048 5062	Procedimientos
+T34	_SUG_TAC_craneal 5066 5076	TC CRANEAL
+T35	_SUG_TAC_craneal 5097 5109	TRANSCRANEAL
+T36	SECCION_TRATAMIENTO_AL_ALTA 5149 5168	Tratamiento al alta
+T37	_SUG_Tratamiento_antiagregante 5171 5176	Adiro
+T38	SECCION_RECOMENDACIONES 5266 5306	Recomendaciones de prevención secundaria
+T39	_SUG_TAC_craneal 5856 5863	craneal
+T40	_SUG_Trombolisis_intravenosa 5885 5896	trombofilia

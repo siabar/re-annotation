@@ -1,0 +1,71 @@
+Pàgina 1/2INFORME D'ASSISTÈNCIA/ALTA
+
+Núm. HC	CIP o pòlissa
+_ID_	_ID_
+Nom i cognoms	Data ingrés
+02/03/2017 23:14	Data alta
+07/03/2017
+Edat	
+
+Sexe
+_NAME_		83	Dona
+Adreça		Telèfon	
+_LOCATION_		_CONTACT_	
+Metge/essa responsable	_NAME_	Habitació	
+_NAME_	Medicina Interna	_ID_	
+Destinació a l'alta
+Domicili
+
+
+
+
+Pacient de 83 anys que és portada per trastorn del llenguatge.
+
+ANTECEDENTS
+-	Sense al·lèrgies medicamentoses conegudes ni hàbits tòxics.
+-	HTA essencial.
+-	Diabetis mellitus tipus 2 en tractament amb insulina lenta, amb bons controls metabòlics.
+-	Fractura humeral esquerre el 2014. Fractura de branques isquiopubianes el 2015.
+-	Colecistectomia laparoscòpica el març de 2015. Intervinguda d'eventració umbilical el 2016.
+-	Infart lacunar (síndrome motor esquerre) el 2014, quedant com a seqüela una hemiparèsia braquio-crural esquerra lleu.
+* Ecocardiograma: Ventricle esquerre no dilatat, amb hipertròfia concèntrica i funció sistòlica global i segmentària preservades. Calcificació valvular important amb IM lleu i doble lesió aòrtica lleu-moderada. Aurícula esquerra dilatada (45 mm).
+-	Cognitivament bé i autònoma per a les tasques quotidianes. Viu amb el seu marit.
+-	Tractament habitual: Insulina Lantus, Tromalyt, omeprazol, lorazepam, paracetamol, Dilutol.
+
+MALALTIA ACTUAL
+Es portada per trastorn del llenguatge compatible amb afàsia d'expressió, sense símptomes motors ni sensitius associats.
+
+EXPLORACIO FISICA
+TA 200/103, FC 110x', sO2 96%, 36ºC. Conscient, orientada. Estat general conservat. AR: MV conservat. AC: Rítmic, buf sistòlic plurifocal, sense signes d'insuficiència cardíaca. Abdomen tou i depressible, no dolorós ni visceromegàlies. No edemes. NRL: Afàsia d'expressió lleu, oculomotricitat extrínseca conservada, isocòria amb fotoreactivitat conservada, parèsia 5-/5 braquiocrural esquerra de predomini proximal.
+
+PROVES COMPLEMENTARIES
+Analítica: Glucèmia 211; ions, funció renal i bioquímica hepàtica dintre la normalitat excepte per GGT de 130; Hb 13, leucòcits 8.700 (54S, 35L), plaquetes 243.000, Quick 100%.
+ECG: Taquicàrdia sinusal, eix a 0º, sense signes d'isquèmia ni alteracions en la conducció.
+RX tòrax: Augment de la silueta cardíaca (decúbit), sense infiltrats.
+TC cranial: Atròfia cerebral difusa. Infart lacunar antic a càpsula interna dreta.
+EcoTSA + TC: Ateromatosi moderada. Plaques calcificades a ambdues bifurcacions carotídies. Artèries caròtides comuns sense estenosis significatives. Estenosi bilateral de l'origen de les artèries caròtides internes del 16-50% amb flux distal normal. Artèries caròtides externes normals. Artèries vertebrals permeables ortodròmiques. Doppler de subclàvies normal. Doppler trasncranial sense estenosis valorables a artèries vertebrals i basilar (finestra suboccipital).
+
+EVOLUCIO
+La pacient millora espontàniaament fins a quedar asimptomàtica en la primera hora. A partir d'aleshores s'ha mantingut estable i en la seva situació basal. Valorada per Neurologia, se la dona d'alta per seguir controls a la seva CE, prèvia realització de Holter cardíac.
+Com a incidència, ha presentat un pic de febre sense focalitat aparent. Un sediment ha mostrat leucocitúria, mentre que l'urocultiu ha mostrat flora de contaminació. Donat que no ha tornat a presentar febre ni símptomes urinaris, no s'ha indicat tractament antibiòtic.
+Per tendència a la taquicàrdia sinusal, s'ha canviat el Dilutol per bisoprolol.
+
+DIAGNOSTICS
+-	AIT (afàsia d'expressió) d'origen indeterminat.
+-	HTA essencial.
+-	Diabetis mellitus tipus 2.
+
+TRACTAMENT
+-	Clopidogrel 75mg: 1 comprimit al dia (per la nit).
+-	Bisoprolol 5mg: 1 comprimit al dia.
+-	Simvastatina 20mg: 1 comprimit al dia.
+-	Insulina Lantus: 16 unitats al dia.
+-	Omeprazol 20mg: 1 comprimit al dia (pel matí).
+-	Lorazepam 5mg: 1 comprimit al dia.
+-	Suspendre: Tromalyt, Dilutol. Atentament,
+
+
+Metge/essa: _NAME_ Núm. col·legiat/da: _ID_
+Signatura
+
+D'acord amb la Llei Orgànica de Protecció de Dades, les vostres dades personals seran incorporades a un fitxer informatitzat, el titular del qual és el _SS_ i que té com a finalitat exclusiva disposar de les dades personals dels pacients per a usos medicosanitaris. El ciutadà té dret a exercitar l'accés, la rectificació, l'oposició i la cancel·lació d'aquestes dades personals.

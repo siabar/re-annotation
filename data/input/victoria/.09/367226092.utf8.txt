@@ -1,0 +1,66 @@
+INFORME ALTA HOSPITALARIA
+_NAME_
+Núm. Episodi: _ID_ Núm. HC: _ID_
+_SS_ _LOCATION_
+_LOCATION_
+Tel. _CONTACT_Adreça: _LOCATION_	C.A.P.: _SS_
+Població: _LOCATION_	Sexe: HOME  Data naixement: _DATE_  Edat: 68a
+Telèfon: _CONTACT_  C.P.: _LOCATION_	T.I.S.: _ID_  DNI/NIF: _ID_
+
+Procedència:	Data Ingrés Hospital: 28/04/2017
+Servei assistencial: MEDICINA INTERNA HOSP	Data Ingrés Servei: 29/04/2017
+Metge Responsable:METGES D'URGENCIES	Data Alta: 30/04/2017
+
+
+INFORME REDACTADO EN BASE A LOS DATOS DE LA HISTÓRIA CLÍNICA
+
+Paciente de 68 años que es traido por disnea + y fiebre
+
+ANTECEDENTES PATOLÓGICOS:
+-	Dudosa alergia al AAS.
+-	Hipertensión arterial en tratamiento farmacológico.
+-	Hiperuricemia.
+-	Intervenido de hiperplasia prostática por RTU en 2005.
+-	AVC isquemico en el territorio de la carotida izquierdo de etiología aterombótica: oclusión de ACM M2 izquierda. Tratado con fibrinolisis. Secuelas: hemiparesia derecha y afasia de expresión. Dado de alta el 27/4/2017, actualmente ingresado en el _SS_ para rehabilitación.
+
+Tratamiento: Clopidrogrel 75mg cada 24 horas, Pantoprazol 20mg cada 24 horas, Atorvastatina 40mg cada 24 horas, Paracetamol 1g cada 8 horas si dolor
+
+ENFERMEDAD ACTUAL:
+Es traido desde el _SS_ por clínica de fiebre + disnea tras ser dado de alta esta mañana de Neurologia. Refiere una molestia abdominal ya estudiada durante ingreso. No consta expectoración, ni tiritona ni sd miccional ni nueva focalidad neurológica.
+
+EXPLORACIÓN FÍSICA:
+CyO, NH, NC, afebril, TA: 112/84; Sat: 90-91%; FC: 76
+AR: Eupneico, MVC, leves crepitantes bibasales. ACV. TCR, no soplos, no IY, no RHY
+ABD: Blando y depresible, no masas, no megalias, molestia difusa a la palpación, Murphy negativo, no ascitis, no peritonismo.
+NRL: GCS 15, afasia de expresión, comprensión conservada, hemiparesia derecha, no meningismo,no nuevas focalidades.
+
+EXPLORACIONES COMPLEMENTÀRIAS:
+Analítica: Hb 14.8 g/dl ; Plaquetes 168	x1E9/L ;Leucòcits 19 x1E9/L ( 88 N, 2 L, 10 Mo, 0 Bandes); PCR
+242 .Glucosa 124 mg/dl; Urea 33 mg/dl ;Creatinina 0.79 mg/dl ; Na 137 mmol/L; K 4.42 mmol/L AST: 40Ui/L; 64 Ui/L; GGT: 174 Ui/L; FA: 90 Ui/L; Amilasa: 53.4 Ui/L; Procalcitonina negativa; TP: 70%
+Sedimento de orina: normal.
+Gasometria arterial: pH 7,46, pCO2 35, pO2 85, CO3H 25, EB 1,1, SO2 99 %
+Rx de tòrax: Corazón de aspecto normal. Sin infiltrados pulmonares ni alteracions remarcables.  Rx de abdomen: heces abundantes en marco cólico, no niveles, no dilatación
+Ecografia abdominal: Fetge parcialment estudiat , de mida normal, globalment hiperecogènic per esteatosi. Vesícula poc distesa de parets fines, sense imatges de litiasi ni signes inflamatoris. Via biliar intrahepàtica i colèdoc no dilatats No veiem líquid a pelvis. Porta permeable
+
+EVOLUCIÓN:
+Se valora como una sepsis de origen desconocido. Después de realizar los estudios diagnosticos no se detecta ningún foco evidente. Por la existencia de disnea y en el contexto del enfermo se sospecha una infección respiratoria por broncoaspiración. Se deja en dieta famis, se inicia sueroterapia y se trata empiricamente con piperacilina-tazobactam por considerarse de riesgo para infección nosocomial.
+Se traslada a la planta de Medicina interna el dia 29/04 a las 19h. Queda afebril y con constantes normales, sin incidencias. El dia 30/04 por la mañana, después de desayunar sin problemas sentado en el sillon, refiere encontrarse mal. Se avisa al medico de Guardia (Dra. _NAME_). En el interim el paciente presenta bruscamente desconexión del medio con rigidez y cianosis acra. Por pulsioximetria se detecta desaturación del 60%. Se inicia oxigenoterapia por MAF y se activa el código de paros e interviene el Equipo de UCI. (ver nota en curso de HCIS). Se realizan maniobras básicas y avanzadas de reanimación cardiopulmonar que no son efectivas.
+Se confirma el exitus letalis a las 10h30'.
+
+DIAGNÒSTICOS:
+·	Infección respiratoria por broncoaspiración
+·	Insuficiencia respiratoria aguda
+·	Estado residual a AVC reciente con secuelas
+·	Paro cardiorespiratorio
+·	Exitus letalis
+
+
+Atentamente,
+
+
+Dr/a.: _NAME_
+Cap clínic - Medicina Interna Número col·legiat: _ID_
+
+Hospitalització
+Imprès: 04/05/2017 14:27
+Pàg.: 1 de  2

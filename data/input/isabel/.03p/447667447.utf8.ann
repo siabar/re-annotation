@@ -1,0 +1,57 @@
+T0	FECHA 359 369	19/11/2017
+#0	AnnotatorNotes T0	2017-11-19
+T1	HORA 370 375	21:25
+#1	AnnotatorNotes T1	21:25
+T2	FECHA 433 443	19/11/2017
+#2	AnnotatorNotes T2	2017-11-19
+T3	HORA 444 449	22:30
+#3	AnnotatorNotes T3	22:30
+T4	SECCION_TIPO_DE_INGRESO 450 464	Tipus d'ingrés
+T5	SECCION_DIAGNOSTICO_PRINCIPAL 527 547	Diagnòstic principal
+T6	_SUG_Hemorragia_cerebral 554 571	HEMATOMA CEREBRAL
+T7	SECCION_PROCEDIMIENTOS 573 585	Procediments
+T8	_SUG_TAC_craneal 671 682	TAC CRANIAL
+T9	SECCION_ANTECEDENTES 689 700	Antecedents
+T10	SECCION_ANTECEDENTES_PATOLOGICOS 703 720	Malalties prèvies
+T11	_SUG_Etiologia 723 734	HIPERTENSIÓ
+T12	FECHA 852 856	2009
+#12	AnnotatorNotes T12	2009-UNDEF-month-UNDEF-day
+T13	_SUG_Trombolisis_intravenosa 907 927	tratamiento con ADOs
+T14	FECHA 971 976	10/17
+#14	AnnotatorNotes T14	2017-10-UNDEF-day
+T15	_SUG_Lateralizacion 995 1000	DRETA
+T16	SECCION_TRATAMIENTO_HABITUAL 1232 1248	Medicació prèvia
+T17	SECCION_SITUACION_FUNCIONAL 1532 1550	Situació funcional
+T18	SECCION_PROCESO_ACTUAL 1614 1629	Història Actual
+T19	_SUG_Hemorragia_cerebral 1694 1702	HEMATOMA
+T20	_SUG_Lateralizacion 1722 1729	derecho
+T21	FECHA 1735 1743	19/11/17
+#21	AnnotatorNotes T21	2017-11-19
+T22	HORA 1781 1783	16
+#22	AnnotatorNotes T22	16:00
+T23	_SUG_Lateralizacion 1891 1900	izquierdo
+T24	_SUG_Ictus_isquemico 1990 1995	ictus
+T25	_SUG_TAC_craneal 2070 2082	TC de cráneo
+T26	_SUG_Hemorragia_cerebral 2096 2104	hematoma
+T27	_SUG_Lateralizacion 2124 2131	derecho
+T28	SECCION_EXPLORACION_FISICA 2227 2244	Exploració física
+T29	_SUG_Lateralizacion 2503 2511	esquerre
+T30	_SUG_Lateralizacion 2790 2797	derecha
+T31	_SUG_Lateralizacion 2978 2987	izquierda
+T32	_SUG_Lateralizacion 3079 3088	bilateral
+T33	SECCION_EXPLORACIONES_COMPLEMENTARIAS 3119 3147	Resum proves complementàries
+T34	_SUG_Localizacion 3583 3590	parcial
+T35	_SUG_TAC_craneal 3714 3722	TC crani
+T36	FECHA 3724 3732	19/11/17
+#36	AnnotatorNotes T36	2017-11-19
+T37	_SUG_Hemorragia_cerebral 3735 3743	Hematoma
+T38	_SUG_Lateralizacion 3761 3765	dret
+T39	SECCION_EVOLUCION 4008 4029	Evolució i comentaris
+T40	_SUG_Hemorragia_cerebral 4153 4163	HEMORRAGIA
+T41	_SUG_Localizacion 4164 4179	GANGLIOCAPSULAR
+T42	_SUG_Lateralizacion 4180 4187	DERECHA
+T43	_SUG_Etiologia 4208 4220	hipertensivo
+T44	_SUG_Lateralizacion 4341 4350	izquierda
+T45	SECCION_TRATAMIENTO_AL_ALTA 4374 4384	Tractament
+T46	FECHA 4418 4428	19/11/2017
+#46	AnnotatorNotes T46	2017-11-19

@@ -1,0 +1,119 @@
+I.CLINIC DE NEUROCIÈNCIES NEUROLOGIA
+_NAME_	NHC: _ID_
+
+
+Sexo/Sexe: Fem.	Fecha nac./Data naix.: _DATE_	Edad/Edat: 88 años Dirección/Adreça: _LOCATION_		CP: _LOCATION_
+Municip. (Prov.): _LOCATION_  ABS:_SS_		Tel.:_CONTACT_ As.: SERVEI CATALA DE LA SALUT	CIP: _ID_	NASS: _ID_
+Nº epis.: _ID_	Tipo/Tipus: HOSPIT.	Inici.: 22.03.2017
+Serv: NEUROLOGIA	UO Enf.: I064 SALA G DE NEUROL. INTE   Hora: 15:57:12
+Facult. de ref.: _NAME_
+
+
+
+
+Tipo ingreso/Tipus ingrés: Urgent	Motivo/Motiu alta: Dom. Familiar
+Diag.:
+OCLUSION DE ART. CEREBRAL NO ESPECIF. CON INFARTO CEREBRAL (434.91)
+Proc.:
+TC CEREBRAL MULTIMODAL () TC CRANEAL DUAL () ARTERIOGRAFÍA TERAPÉUTICA ()
+
+
+
+
+INFORME CLÍNICO ALTA / INFORME CLÍNIC ALTA
+
+Motivo de consulta / Motiu de consulta
+Debilidad de extremidades izquierdas y alteración del habla de inicio súbito.
+
+Antecedentes e historia previa / Antecedents i història prèvia
+Mujer de 88 años, sin alergias medicamentosas conocidas. Sin hábitos tóxicos activos. Vive sola, con buen soporte familiar (sus hijas viven cerca) y ayuda de cuidadora. Independiente para ABVD (mRankin 2).
+
+ANTECEDENTE PATOLÓGICOS:
+1.	HIPERTENSIÓN ARTERIAL ESENCIAL, en tratamiento farmacológico.
+2.	FIBRILACIÓN AURICULAR, en tratamiento anticoagulante con sintrom.
+3.	DISLIPEMIA.
+4.	VALVULOPATIA. No disponemos de informes.
+5.	ADENOCARCINOMA DE COLON pT2N0M0. Se realizó Ileostomía lateral, portadora de colostomía. Ingreso reciente en marzo por colitis.
+
+MEDICACIÓN HABITUAL (marzo/17):
+Losartan 25mg/12h, Nebivolol 5mg/día, acido alendrónico semanal, loracepam 1 mg noche, ranitidina 50 mg/día, salidur 60 mg/día, Acenocumarol según pauta (lo inició nuevamente el viernes 17/3).
+
+Proceso actual / Procés actual
+El día 22/3 a las 2am es vista asintomática; posteriormente a las 5am, al despertar, presenta debilidad de extremidades izquierdas y alteración del lenguaje. Acude a urgencias a las 10h.
+
+Exploración física / Exploració física
+22/03/2017-16:30:00: FiO2 (%) 21, Frecuencia respiratoria (rpm) 19, Glic emia capilar (mg/dl) 83, PAS (mm Hg) 131, PAD (mm Hg) 66, Pulsioximetría  (%) 96, Tª axilar (ºC) 36.1.
+Hemodinámicamente estable, FA lenta a 56 lpm. Afebril.
+
+NRL: Conscinete y orinetada en las 3 esferas. Lenguaje nomofluente sin afasia (nomina, repite y obedece). Disartria leve. Mirada centrada sin limitaciones en la excursión visual, sin alteraciones campimétricas. Dismetrías proporcional al grado de paresia en extremidades izquierdas. Extinción visual, no tactil. No asomatognosia ni anosognosia. NIHSS 5.
+
+Laboratorio / Laboratori
+*	ANALÍTICA SANGUÍNEA: Función renal, hepática y tiroidea sin alteraciones relevantes. Ionograma y hemograma sin alteraciones. Colesterol LDL 135 mg/dL, Colesterol HDL 33/B mg/dL, Hemoglobina glicada 5.4%.
+
+Radiología / Radiologia
+*	TC CRANEAL MULTIMODAL (22/03/17):
+-	TC CRANEAL BASAL: No se observa hemorragia intra ni extraaxial. Hipodensidad de la sustancia blanca periventricular, insular y en ambos centros semiovales en relación con microangiopatía crónica. Imagen lacunar hipodensa capsuloganglionar derecha que podría corresponder a una lesión isquémica crónica. Pérdida de diferenciación cortico- subcortical insular derecha. ASPECTS 9. Estructuras de la línea media centradas. Disminución global del volumen cerebral y cerebeloso en relación con cambios involutivos secundarios a la edad de la paciente, que condiciona una leve prominencia del sistema ventricular. Cisternas basales libres.
+-	TC PERFUSIÓN: Alteración del mapa TTP con retraso en la perfusión del territorio superficial frontal y parietal de la arteria cerebral media derecha, con discordancia significativa respecto a los mapas de CBV y CBF. No se observan alteraciones valorables en los mapas de flujo y volumen.
+-	ANGIO-TC EXTRA E INTRACRANEAL: Elongación y tortuosidad de los troncos supraóticos. Ateromatosis calcificada del arco aórtico y segmentos proximales de troncos supraórticos sin signos de estenosis significativa (<15%). Ateromatosis  calcificada en el origen de la arteria carótida interna derecha que condiciona una estenosis no significativa (35%). Origen, bifurcación y segmentos cervicales de la arteria carótida interna izquierda sin ateromatosis ni signos de estenosis. Ateromatosis calcificada en los segmentos intracavernoso y supraclinoideo de las arterias carótidas internas sin estenosis significativa (<15%). Origen de las arterias vertebrales sin ateromatosis ni signos de estenosis. Oclusión de la ACM derecha a nivel de la bifurcación (que se corresponde con la zona afectada en el mapa de TTP), con presencia de colaterales de ACA y ACP. Rama temporal y perforantes resspetadas. Resto de las principales arterias cerebrales intracraneales permeables (ACAs, ACM izquierda  y  ACPs). Sistema vertebrobasilar permeable. Ganglios mediastínicos calcificados de localización subcarinal e hiliar derecha. Cambios fibrocicatriciales en el segmento anterior del lóbulo superior derecho. Atelectasias laminares subsegmentarias en ambos lóbulos superiores.
+
+*	NEUROANGIORRADIOLOGÍA INTERVENCIONISTA (22/03/17): Se realiza punción femoral derecha a las 11 horas y 01 minutos. Primera serie angiográfica a las 11:05 horas confirmándose la presencia de una oclusión (TICI grado 0) de la bifurcación de la ACM derecha con buen relleno colateral retrógrado. Se procede al microcateterismo selectivo de la arteria ocluida, logrando atravesar el trombo a las 11:23 horas, realizándose 1 pases con dispositivo Aperio sin exito. Posteriormente se relaiza un pase con dispositivo Trevo evidenciándose en la serie de comprobación final a las 11:36 horas recanalización TICI 3. No se detectan incidencias durante ni inmediatamente tras el procedimiento.
+
+*	TC CRANEAL DUAL (22/03/17): No se observan signos de sangrado intracraneal.
+
+Evolución / Evolució
+**UNIDAD DE ICTUS**
+
+1.	ICTUS EN TERRITORIO DE LA ARTERIA CEREBRAL MEDIA DERECHA (ACMD). OCLUSIÓN SEGMENTO M2 PROXIMAL - Trombectomía mecánica 2. FIBRILACIÓN AURICULAR INFRADESCOAGULADA.
+1.	
+
+
+
+A su llegada a urgencias se encuentra hipertensa (180/70 mmHg), fibrilación auricular lenta en monitorización, afebril. A la exploración neurológica se evidencia hemiparesia facio (leve)- braquiocrural (4/5) izquierda, con disartria leve y negligencia  visual izquierda (NIHSS 5). La analítica sanguínea sin alteraciones relevantes, INR de 1.26 (infradescoagulada en tratamiento con sintrom). El TC craneal multimodal muestra lesión  isquémica crónica en ganglios basales derechos, sin lesiones isquémicas ni hemorrágicas agudas (ASPECTS 10), con oclusión de segmento M2 proximal en angioTC y retraso del TTP en territorio de la ACMD. Dada la clínica y la evidencia de oclusión de gran vaso, se procede a tratamiento mediante trombectomía mecánica, obteniéndose recanalización completa (TICI 3).
+Tras el procedimiento presenta mejoría clínica, persistiendo únicamente paresia facial izquierda leve y titubeo de la pierna izquierda (NIHSS 1). El TC craneal dual de control descarta complicaciones hemorrágicas, por lo que se inicia tratamiento anticoagulante con heparina sódica.
+Se trata de un ictus isquémico en territorio de la arteria cerebral media derecha de causa cardioembólica en contexto de infradescoagulación tras reciente paso de tratamiento anticoagulante con enoxaparina a sintrom. Sin embargo, la paciente presenta controles  crónicos de sintrom estables en correcto rango terapéutico (INR en torno a 2), por lo que se decide reiniciar el sintrom como tratamiento anticoagulante.
+Durante su estancia en la Unidad de ictus la paciente presenta evolución clínica favorable, permaneciendo hemodinámicamente estable y asintomática desde el punto de vista neurológico, por lo que es dada de alta a domicilio. Deberá de mantener tratamiento con sintrom. Deberá acudir a visita en CCEE Neurología del _SS_ (Dr. _NAME_) el 27 Junio 2017 a las 13:15h (según cita adjunta).
+Se remite para seguimiento por su médico de atención primaria. Se recomienda estricto control de la presión arterial.
+
+Plan terapéutico / Pla terapèutic
+-	Pantoprazol 40 MG. Vía oral. Una vez al día, en el desayuno.
+
+-	Enalapril 5 MG. Vía oral. Una vez al día, en el desayuno.
+
+-	Atorvastatina 40 MG. Vía oral. Una vez al día, en la cena.
+
+-	Sintrom Vía oral. Cada 24 horas. SEGÚN PAUTA INDICADA EN SU CAP
+
+-	Lobivon 5 MG. Vía oral. Una vez al día, en la cena.
+
+-	Lorazepam 1 MG. Vía oral. Cada 24 horas, a la noche
+
+-	Efferalgan 1000 MG. Vía oral. Cada 24 horas. Si precisa
+
+-	Salidur 77,6 mg / 25 mg comprimidos, 60 comprimidos. 1 UND. Vía oral. Una vez al día, en la comida.
+
+Otras recomendaciones / Altres recomanacions
+Acudir a visita de seguimiento en CCEE Neurología del _SS_ (Dr. _NAME_) el 27 Junio 2017 a las 13:15h (según cita adjunta).
+
+
+
+Firma/Signatura1: _NAME_	Firma/Signatura2: _NAME_ Categoría: Resident 2	Categoría: Espec. Senior
+Nº Matrícula HCP: _ID_	Nº Matrícula HCP: _ID_
+
+Fecha/Data Informe: 26.03.2017
+
+
+
+Hora Informe: 16:23:38
+
+Docum.: _ID_
+Hist. Clínica: _ID_
+El _SS_ ha incorporado sus datos al Fichero de Pacientes, para tratarlos con fines sanitarios.
+Puede ejercer sus derechos de acceso, rectificación, cancelación y oposición, así como obtener mas información en la Unidad de Atención al Cliente.
+Vers. 00
+Pag. 2 de
+4
+Episod.: _ID_
+_SS_ ha incorporat les seves dades al Fitxer de Pacients, per a tractar-los amb finalitats sanitàries. Pot exercir els seus drets d'accés, rectificació, cancel·lació i oposició, i obtenir més informació a la Unitat d'Atenció al Client.
+_SS_
+_LOCATION_) _LOCATION_) Tel. _CONTACT_ Fax _CONTACT_
+http://_CONTACT_/

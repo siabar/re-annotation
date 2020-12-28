@@ -1,0 +1,117 @@
+_LOCATION_
+Tel. _CONTACT_
+_LOCATION_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 38 Anys
+NIF/DNI: _ID_Informe d'alta d'hospitalització
+12:10:18
+10.11.2017
+_LOCATION_
+_SS_
+UNITAT FUNCIONAL D'ICTUS
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_
+AGUTS 08.11.2017
+_NAME_
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Paciente que ingresa para evolucion y diagnóstico   por cuadro de cefalea intensa, con sintomas deficitarios previos.
+
+ANTECEDENTS
+No alergias medicamentosas conocidas No FRCV
+Cefaleas ocasionales
+No antecedentes patológicos de importancia No hábitos tóxicos.
+No antecedentes familiares de importancia
+
+MEDICACIÓ HABITUAL
+Ninguna
+
+PROCÉS ACTUAL
+La paciente trabaja de cajera en un supermercado, de forma repentina hacia las 09:15h comienza con alteración visual en el lado derecho, según ella borroso, luego de unos minutos refiere un trastorno del lenguaje con incapacidad para comunicarse bien y paresia del brazo derecho, inicia de forma progresiva cefalea de intensidad moderada-Sevares y nauseas, sin vómitos. Niega dolor torácico ni palpitaciones.
+Es llevada a CTE, desde donde se activa Código Ictus a las 11:05 h, llega a _SS_ a las 11:11 h. Evaluación NRL a las 11:15, peticion TC 11:20 h, realización a las 11:31 h.
+
+EXPLORACIÓ FÍSICA
+
+FC	72 bpm
+Tªaxi 36.9 ºC
+FR	16 rpm Tªrec  ºC
+TA s	140 mmHg SAT O2 96 %
+TA d   80 mmHg Pes Kg
+
+-	En urgencias:
+Pacient cosncient i orientada, afectada per dolor i nerviosisme, al moment de l'explroaico bona agudesa visual sense alteraicons campimètriques, picinr, NO hi ha signes d'irritaico meningia, no alt facial ni d'altres ppcc, força i tacte normal, dit-nas normal, BABINSKI DRET. NIHSS de 0.
+Auscultació cardiorespiratòria i abdomen normal.
+-	Al alta
+Paciente conciente y orientada en las 3 esferas, auscultación cardiopulmonar normal, Exploración neurológica normal.
+
+EXPLORACIÓ COMPLEMENTÀRIA
+EN URGENCIAS
+-	Anàlisi de sang INR de 1.06, resta hemograma i BQ bàsica normals.
+-	
+Informe d'alta d'hospitalització
+
+
+
+
+-	ECG: ritme sinusal sense alteraicons a la repolarització.
+-Estudi toxics en orina negativo
+-TC de crani multiparamètric: - Estudio sin evidencia de sangrado intracraneal ni infarto isquémico instaurado.- Troncos supraórticos y árbol vascular intracraneal sin anomalías
+
+EN PLANTA DE NRL
+-	RM cerebral (09/11/17): Sin hallazgos significativos.
+-	Ecocardiograma TT (10/11/17): Ventricle esquerre no dilatat, sense hipertròfia i amb funció sistòlica normal. Vàlvula aòrtica trivalva competent. No calcificacions. Vàlvula mitral competent. urícula esquerra no dilatada. No septe aneurismàtic.
+Ventricle dret no dilatat i amb funció contràctil normal. o embassament pericàrdic. No embassament pleural. Pròtesis mamaria.
+>Sense alteracions morfològiques evidents.
+
+EVOLUCIÓ CLÍNICA
+Paciente jóven sin sntecedentes de importancia, cefaleas de características migrañosas de intensidad leve.
+En urgencias cefalea intensa, acompañada de nauseas, alteración visual, del habla y paresia de MSD; exploración neurológica normal a excepción de babinsky derecho dudoso. TAC mutiparamétriconormal. Ingresa a planta de Ictus para observación y pruebas complementarias.
+Cefalea intensa que no cede con AINEs, se agrega al tratamiento corticoterapia y clorpromazina con mejoría progresiva de la cefalea y de la clínica acompañante (alteración visual y paresia de MDS).
+Pruebas complementarias donde se descarta proceso isquémico agudo, Ecocardiograma normal. Ante la ausencia de focalidad y la normaldad de las explroaicones complementarias se orienta como crisis migranyosa severa con aura multiforme.
+
+Ante la estabilidad clínica e decide dar de alta a domiclio. Seguirá controles ambulatorios.
+
+DIAGNÒSTICS
+346.00 Migranya  amb aura, sense menció de migranya no tractable sense menció d'estat migranyós. Crisis migrañosa severa
+784.3 Afàsia transitoria com a simptoma de aura
+368.46/1 Hemianopsia transitoria com a simptoma de aura.
+
+PROCEDIMENTS
+-	RM cerebral
+-	Ecocardiograma TT
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+1.	REPOSO RELATIVO UNA SEMANA
+2.	TRYPTIZOL 10 MG 1 CP POR LA NOCHE
+3.	ANTALGIN SOLO SI CEFALEA (NO TOMAR TDOS LOS DIAS).
+
+CONTROL
+Segun el dia que se indica en la cita adjunta. (CExt de Neurologia).
+
+Informe d'alta d'hospitalització
+
+
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+
+
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+10.11.2017
+Pàgina 1 de 3

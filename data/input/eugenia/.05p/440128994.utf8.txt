@@ -1,0 +1,178 @@
+
+
+
+
+
+Informe d'Alta Hospitalària	Cognoms i nom:
+_NAME_	NHC:
+_ID_
+	ABS:
+_SS_	CIP:
+_ID_	DNI:
+_ID_
+	Data de naixement:
+_DATE_	Sexe:
+Dona	Edat:
+74a	Telèfon:
+_CONTACT_
+	Finançament:
+CatSalut - _LOCATION_	Procedència:
+URGÈNCIES
+	Admissió:
+01.11.2017 - 14:15	Servei:
+NEURO - UNITAT ICTUS HOSP	Data entrada urg.:
+01.11.2017 - 13:10
+Adreça:
+_LOCATION_	Població:
+_LOCATION_	Codi Postal:
+_LOCATION_
+
+
+
+Motivo ingreso:
+Mujer de 74 años ingresa por ictus isquémico.
+
+
+ANTECEDENTES
+-	Sin alergias medicamentosas conocidas.
+-	Hábitos tóxicos: fumadora de 30-40 cigarrillos al día desde hace más de 30 años. Enol de unas 2 UBE/día.
+-	Hipertensión en tratamiento médico. Cifras habituales en torno a 140/70-160/90mmHg.
+-	Niega dislipemia. Refiere tratamiento con simvastatina indicado por su cardiólogo como profilaxis primaria.
+-	Niega diabetes.
+-	Obesidad. Peso 118kg.
+-	Fibrilación auricular desde Junio 2016. En seguimiento por cardiología de _SS_. Último ETT de Febrero 2017 (ventana subóptima): VI no dilatado sin segmentarismos. FEVI 60%. AI y raíz aórtica dilatadas. No valvulopatías significativas.
+-	Probable broncopatía. Refiere disnea a medianos esfuerzos. Uso de broncodilatadores eventualmente.
+Pendiente de estudio. Refiere haber realizado PFR que fueron normales. No disponemos de informes.
+-	Fístula anal, pendiente de cirugía según refiere.
+-	Migraña en la juventud. Actualmente sin episodios de cefalea.
+-	Gonartrosis.
+-	Sin antecedentes familiares de patología neurovascular precoz.
+
+-	Situación sociofuncional: Natural de _LOCATION_. Manidextra. Vive con su marido. Funciones superiores aparentemente conservadas. Independiente para las ABVD e instrumentales. Deambula sin ayuda. mRS de 1 por gonartrosis y disnea.
+-	Tratamiento habitual: Bisoprolol 5mg al día, micardis plus 80/12.5mg al día, omeprazol 20mg al día, paracetamol 1gr si precisa, simvastatina 10mg al día, xarelto 20mg al día (suspendido hace unos dos meses por iniciativa de la paciente)
+
+ENFERMEDAD ACTUAL
+Mujer de 74 años con antecedentes de FA no anticoagulada desde hace dos meses por voluntad propia, que habiéndose levantado asintomática el 01-11-2017, presenta sobre las 12:45h mientras se encontraba en sedestación, y de forma brusca debilidad en el izquierdo con caída sin TCE.
+
+Recibimos llamada de activación de código ictus: 13.00, llega a urgencias a las 13:10h.
+
+
+EXPLORACIÓN FÍSICA
+Neurológica
+
+Urgencias
+TA 174/83 mmHg, FC 95 lpm; Afebril; Eupneica;
+Alerta, orientada. Disartria leve que no impide la comunicación. No afasia. PFC izquierda. No alteraciones en campimetría por amenaza.
+Hemiparesia izquierda. Hemihipoestesia izquierda. Dismetría proporcional a la paresia.
+Marcha no evaluable.
+NIHSS 0+0+0+2+2+2+0+2+0+3+0+2+0+1+0= 14 puntos
+
+24h tras el procedimiento
+Exploración neurológica:
+-Vigil, orientada en las tres esferas.
+-Sin rasgos afásicos ni disartria.
+-Campimetría por confrontación normal.
+-PICNR, MOEs correctos.
+-Trigémino sensitivo-motor normal.
+-Mínima paresia facial central izquierda.
+-Pares craneales bajos sin alteraciones.
+-Balance motor correcto en EESS. EID no valorada por compresión femoral. EII fuerza 4/5 algo limitada por dolor abdominal en contexto de probable RAO.
+-Sensibilidad táctil y vibratoria conservada en las cuatro extremidades. Hipoestesia algésida en ESI.
+-Sin dismetrías. Miller-Fisher normal
+-Sin negligencia o extinción.
+-RCP flexor bilateral.
+NIHSS: 0.0.0.0.0 / 1.(0.0).(0.1) / 0.1.0.0.0 = 3
+
+A su ingreso en Unidad de Ictus
+-Vigil, orientada en las tres esferas.
+-Sin rasgos afásicos ni disartria.
+-Campimetría por confrontación normal.
+-PICNR, MOEs correctos.
+-Trigémino sensitivo-motor normal.
+-Sin asimetría facial
+-Pares craneales bajos sin alteraciones.
+-Balance motor correcto y simétrico.
+-Sensibilidad táctil y vibratoria conservada en las cuatro extremidades. Hipoestesia algésida en ESI.
+-Sin dismetrías. Miller-Fisher normal
+-Sin negligencia o extinción. Test del reloj normal
+-RCP flexor bilateral.
+-Romberg negativo.
+-Marcha autónoma. NIHSS: 1
+
+
+Al alta: Sin cambios respecto previa. NIHSS = 1 (por hipoestesia ESI)
+
+
+EXPLORACIONES COMPLEMENTARIAS
+-	Analítica al ingreso: Hemograma, bioquímica y hemostasia básica sin alteraciones relevantes. INR de 1.
+-	ECG: FA normofrecuente. Eje QRS 0º. No otras alteraciones de la repolarización.
+-	Telemetría-ECG (Unidad de Ictus) en FA
+-	TC craneal y angioTC al ingreso: Lesión malácica occipital derecha sugestiva de lesión isquémica crónica en el territorio de ACP derecha. Isquemia Aguda cortical en territorio de ACM derecha (ASPECTS de 9). Hiperdensidad de la ACM derecha. Oclusión proximal de segmento M2 de la ACM derecha.
+-	Trombectomía mecánica: Se realiza punción femoral derecha. Se realiza cateterización selectiva y la primera serie angiográfica confirma la presencia de una oclusión a nivel de m2 DERECHA . Se procede al microcateterismoselectivo de arteria ocluida logrando una adecuada posición para realizar trombectomía se realizando2 pases. En la serie de comprobación final se confirma recanalización TICI 2B , persistiendo trombosada una rama poscentral. No se detectan incidencias durante ni inmediatamente tras el procedimiento. Se realiza cierre del punto de punción femoral  derecho mediante cierre mecánico tipo Proglide y vendaje compresivo el cual deberá permanecer por 24 horas, debiendo el paciente mantener inmóvil el miembro inferior derecho por 12 horas siguientes al procedimiento.
+-	TC craneal de control 02/11: Posible foco de desdiferenciación cortico-subcortical fronto-parietal inferior D y en corona radiada parietal D sugestivos de afectación isquémica reciente. Material de alta densidad en cisura de Silvio y en surcos de la convexidad frontal D que podría corresponder a material extravasado vs sangrado, a valorar en controles evolutivos. No se observa efecto de masa. Línea media centrada. Sin otros cambios.
+-	TC de control 03/11: Persistencia de una hiperdensidad temporal perisilviana derecha que sugiere hemorragia, sin poder precisar si es únicamente extraparenquimatosa o también cortical.En relación al área infartada, se aprecia con dificultad focos de hipodensidad en la convexidad parietal derecha.
+-	TC craneal de control 06/11: Estudio casi superponible al previo del día 3 con las características propias de la fase subagudadel infarto con transformación hemorrágica en territorio temporoinsular de ACM derecha, sin compromiso de espacio ni signos de resangrado.
+-	TC de control 10/11: En valoración comparativa con estudio TC previo se observa práctica resolución del componente hemático de la lesión isquémica témporo-insular D persistiendo mínimos restos de localización cortical. Sin otros cambios.
+-	Analítica de control: hemograma: Hb 119 g/l, resto normal. Bioquimica: sin alteraciones destacables.
+HbA1c 5,4%. LDL 72 mg/dl.
+
+
+EVOLUCIÓN
+A su llegada a urgencias se encuentra HD estable y afebril. A la exploración física presenta una disartria leve con hemiparesia y hemihipoestesia izquierdas, puntuando un NIHSS de 14 puntos. El INR por coagucheck resulta de 1. e realiza TC craneal y angio TC en el que se observa una oclusión proximal a nivel de M2 de arteria cerebral media derecha con signos de isquemia aguda cortical, puntuando un ASPECTS de 9.
+
+
+Se orienta como un ICTUS territorio de la arteria cerebral media derecha de etiología cardioembólica por FA sin anticoagulación. Tras obtención de consentimiento informado y tras descartar contraindicaciones se decide iniciar rTPA (bolus a las 13:42h). Además, se realiza trombectomía mecánica de rescate (punción femoral 14:30); la primera serie angiográfica confirma la presencia de una oclusión a nivel de M2 derecha por lo que tras dos pases con stent retriever se confirma recanalización TICI 2B , persistiendo trombosada una rama poscentral. No presenta incidencias durante ni inmediatamente tras el procedimiento.
+
+Tras el procedimiento ingresa en Unidad de Ictus (las 24h iniciales las pasa en REA por falta de disponibilidad). Presenta una mejoría clínica progresiva con NIHSS de 3 a las 24h por paresia mínima crural y facial derecha e hipoestesia algésica braquial derecha y NIHSS  1 a las 48h. La TC craneal de control evidencia una lesión instaurada fronto-parietal, con algunos focos de hiperdensidad sugestivos de extravasación de contraste vs sufusión hemorrágica, por lo que se postpone el inicio de anticoagulación.
+
+Se realiza test de tolerancia oral a las 24h que supera, por lo que inicia ingesta oral sin incidencias. s valorada por medicina rehabilitadora iniciando fisioterapia.
+
+Durante su estancia en la Unidad de Ictus permanece estable, persistiendo una ligera torpeza para la manipulación de la mano izuqierda, sin focalidad en la exploración. Se realiza control por TC, persistiendo la sufusión hemorrágica, por lo que se difiere el inico de la anticoagulación. Se solicita traslado a la sala d Neurología.
+
+En sala de neurología, la paciente se mantiene clínica y neurológicamente estable. Se solicita nuevo TC de control después de 7 días del ictus, en el que se observa práctica resolución de la sufusión hemorrágica. Con esto, se decide paso a anticoagulación oral y alta a su domicilio con las visitas indicadas.
+NIHSS = 1, mRS = 1.
+
+
+PROCEDIMIENTOS
+ECG, analítica, TC craneal y angioTC, telemetría, trombectomía mecánica, fibrinolisis, RM craneal.
+
+
+DIAGNÓSTICOS
+-	Infarto cerebral en territorio de la ACM derecha de mecanismo embólicoy etiología cardioembólica por FA no anticoagulada.
+-	Fibrilación auricular.
+-	Hipertensión.
+-	Obesidad.
+
+
+TRATAMIENTO Y RECOMENDACIONES AL ALTA
+Tratamiento al alta:
+Bisoprolol 5mg al día
+
+Micardis plus 80/12.5mg al día. Omeprazol 20mg al día Paracetamol 1gr si precisa Simvastatina 10mg al día Apixaban 5 mg/12 horas.
+
+*Acudir a visita de control en CEx Neurología según programación adjunta.
+*Acudir a visita de control con Hemostasia según programación adjunta.
+*Mantener resto de visitas por sus médicos habituales.
+
+Recomendaciones generales
+-	Tratamiento de la hipertensión arterial, manteniendo cifras por debajo de 140/90; en caso de ser diabético, cifras por debajo de 130/85.
+-	Abandono completo del hábito tabáquico.
+-	Control  y  tratamiento  de  las  enfermedades  cardiacas  (cardiopatía  isquémica,  insuficiencia  cardiaca, arritmias y valvulopatías).
+-	Evitar consumo excesivo de alcohol (se permite una o dos bebidas al día).
+-	Vigilancia y tratamiento del perfil lipídico: Dieta pobre en grasas, actividad física apropiada. Tratamiento farmacológico si precisa para mantener niveles de LDL<100mg/dl.
+-	Control de la glucemia, que debe ser <126mg/dl en ayunas, con dieta, antidiabéticos orales o insulina si precisa.
+-	Realizar actividad física, 30 a 60 minutos, de tres a cuatro veces a la semana.
+-	Continuar el tratamiento anticoagulante a las dosis recomendadas, siguiendo los controles necesarios.
+
+
+Responsable clínic: Dr. _NAME_ (NºCol. _ID_)
+Equip mèdic: _NAME_ (NºCol. _ID_)
+
+Servei que ha donat d'alta:
+NEURO - UNITAT ICTUS HOSP	Data d'alta:
+10.11.2017	Nom del metge que informa de l'alta:
+_NAME_ (NºCol. _ID_)
+
+
+_LOCATION_, 10.11.2017
+Pàg. 1 de   5

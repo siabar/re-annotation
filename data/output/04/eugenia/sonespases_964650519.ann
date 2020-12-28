@@ -1,0 +1,29 @@
+T1	Fecha_de_alta 15 25	18-10-2018
+#1	AnnotatorNotes T1	2018-10-18
+T2	SECCION_DIAGNOSTICOS 27 39	Diagnosticos
+T3	Ataque_isquemico_transitorio 69 73	AITs
+T4	Arteria_afectada 88 91	ACM
+T5	Lateralizacion 92 93	I
+T6	Etiologia 107 120	indeterminada
+T7	SECCION_PROCEDIMIENTOS 234 248	Procedimientos
+T8	SECCION_MOTIVO_DE_INGRESO 364 381	Motivo de ingreso
+T9	SECCION_ANTECEDENTES_PERSONALES 473 493	Antecedentes Médicos
+T10	SECCION_SITUACION_FUNCIONAL 629 644	Situación basal
+T11	SECCION_ANTECEDENTES_PATOLOGICOS 711 735	Antecedentes Patológicos
+T12	SECCION_ANTECEDENTES_QUIRURGICOS 1057 1081	Antecedentes Quirúrgicos
+T13	SECCION_TRATAMIENTO_HABITUAL 1118 1142	Tratamiento domiciliario
+T14	SECCION_PROCESO_ACTUAL 1603 1612	Anamnesis
+T15	Fecha_inicio_sintomas 1671 1681	07/octubre
+#15	AnnotatorNotes T15	2018-10-07
+T16	Fecha_llegada_hospital 1671 1681	07/octubre
+#16	AnnotatorNotes T16	2018-10-07
+T17	Hora_inicio_sintomas 1692 1697	21:00
+#17	AnnotatorNotes T17	21:00
+T18	Hora_llegada_hospital 2921 2926	22:25
+#18	AnnotatorNotes T18	22:25
+T19	SECCION_EXPLORACION_FISICA 2973 2984	Exploración
+T20	SECCION_EXPLORACION_FISICA_EN_URGENCIAS 2988 3019	Exploración Física en urgencias
+T21	SECCION_EXPLORACION_FISICA_DURANTE_HOSPITALIZACION 4532 4582	Exploración Física en la Unidad de Ictus a las 24h
+T22	SECCION_EXPLORACIONES_COMPLEMENTARIAS 5078 5112	Resultados pruebas complementarias
+T23	SECCION_EVOLUCION 8328 8350	Evolución Hospitalaria
+T24	SECCION_TRATAMIENTO_Y_RECOMENDACIONES_AL_ALTA 10188 10225	Recomendaciones y tratamiento al alta

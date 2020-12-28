@@ -1,0 +1,86 @@
+INFORME ALTA HOSPITALARIA
+_NAME_
+Núm. Episodi: _ID_ Núm. HC: _ID_
+_SS_ _LOCATION_
+_LOCATION_
+Tel. _CONTACT_Adreça: _LOCATION_	C.A.P.: _SS_
+Població: _LOCATION_	Sexe: DONA  Data naixement: _DATE_  Edat: 82a
+Telèfon: _CONTACT_  C.P.: _LOCATION_	T.I.S.: _ID_  DNI/NIF: _ID_
+
+Procedència:	Data Ingrés Hospital: 01/03/2017
+Servei assistencial: NEUROLOGIA HOSP	Data Ingrés Servei:
+Metge Responsable: _NAME_	Data Alta: 10/3/2017
+
+
+MOTIVO DE CONSULTA: Agitación y afasia.
+
+ANTECDENTES  PATOLÓGICOS
+Sin alergias medicamentosas conocidas. - Intolerancia alimentaria a la lactosa y fructosa.
+
+-	Hipotiroidismo en tratamiento hormonal sustitutivo. Control ambulatorio.
+-	Insuficiencia renal crónica moderada creatinina habitual entre 1.1-1.3 en el último año con FG de 35-40ml/h
+-	Síndrome depresivo en tratamiento, seguimiento por Dr. _NAME_. El 20 de febrero se hace cambio de tratamiento con sustitución de citalopram por desvenlafaxina 50 mg.
+-	Deterioro cognitivo leve en estudio de características subcorticales, en el contexto de sd. depresivo de larga data, e hipotiroidismo (pero con buen control y seguimiento). Estudio Neuropsicológico test cognitivos septiembre de 2016 : Cognitivamente estable. Prácticamente no hace actividades en su casa. no sale sola. MMSE:  24/30  orientación  7,  recuerdo  inmediato  3,  deletreo  4,  recuerdo  diferido  2,  lenguaje  8
+Blessed: 4.0.1: 5.
+
+Tratamiento habitual: desvenlaxafina 50 mg/24h, Osviscal D 4500/400 ui mg/d, levotiroxina 50 mcg/24h, Betoptic 0.5 mg colirio
+
+
+ENFERMEDAD  ACTUAL
+Mujer de 82 años que es traída por SEM por agitación, desorientación y afasia sobre las 24h, llegada a urgencias a las 1.30h, Rankin de la paciente previo al episodio según familiares es de 0.
+La família refiere que después de cenar ha realizado deposiciones diarreicas, tras las cuales ha iniciado debilidad y respiración agitada. Al cabo de unos minutos a presentado desconexión del medio objetivándose afasia global, sin otra focalidad neurológica.
+Refieren en seguimiento ambulatorio reciente por sus pecha de iTU, a su llegada paciente febricular.
+
+EXPLORACIÓN FÍSICA UCIA'S:
+TA: 136/82, FC: 80 lpm
+AC: TCR sin soplos ni roces, sin signos de IC derecha. Pulsos periféricos presentes y simétricos. AR: MVC sin ruidos sobreañadidos
+ADB: blando no doloroso a la palpación. Sin masas ni megálias.
+NRL: agitada, consciente no orientada. Afasia. Desconexión del medio. Díficil exploración. No aparente pérdida de fuerza o sensibilidad. NIHSS 7.
+
+EXPLORACIÓN FÍSICA NRL:
+PAS/PAD: 140/70 mmHg FC 60x' FR 16x' Afebril
+AC: RCR sin soplos ni roces, sin signos de IC derecha. Pulsos periféricos presentes y simétricos. No edemas en EEII ni signos de TVP
+AR: MVC sin ruidos sobreañadidos
+ADB: blando no doloroso a la palpación. Sin masas ni megálias. No masas ni megalias
+NRL: Tranquila tendencia a somnolencia, afasia global. Desconexión del medio. Díficil exploración. Tendencia a lateralización ESD contragravedad, babinsky derecho, RCP flexor izdo. Moviliza  cuatro extremidades, marcha no explorada. Pupilas isocóricas normorreactivas a la luz, no nistagmus. NIHSS 7
+
+
+EXPLORACIONES    COMPLEMENTARIAS
+-	ECG: ritmo sinusal a 76 lpm, PR constante a 0.12s, QRS estrecho, sin alteraciones en la repolarización.
+-	Rx Tx;: sin infiltrados ni condensaciones, ni alteraciones pleuroparenquimatosas.
+-	Rx Abdomen: sin alteraciones
+-	Analítica general: Hto  42 ; Hb 13  g/dl ; Plaquetes  217   x1E9/L ;Leucòcits   6.18  x1E9/L, PCR   . Glucosa  83 mg/dl; Urea 47  mg/dl ;Creatinina 1.3  mg/dl, FG 36 ; Na 137  mmol/L; K	4.5 mmol/L.
+-	Sedimento orina: no patológico
+-TAC Cranial: Artefactos de movimiento. Aumento del tamaño de los surcos cerebrales y cerebelosos como signos de atrofia. Dilatación ventricular supratentorial algo mayor de lo que correspondería por tamaño de los surcos frontales y parietales altos. Banda hipodensa en sustancia blanca profunda periventricular como signos de leucoencefalopatía isquémica crónica.
+No se identifica sangrado ni patología neoplásica intracraneal. Cisternas basales y perimesencefálicas libres. Densidad normal para la edad de estructuras óseas del cráneo.
+Ecocardiografia: Insuficiencia mitral ligera.
+Gradiente transvalvular aórtico dentro de la normalidad. Sin insuficiencia aórtica.
+Sin señal de IT que permita estimar  la PAP. Sin signos indirectos de hipertensión  pulmonar.Alteración diastólica tipo I.Holter ECG
+Ecodoppler TSA: ARTÈRIES VERTEBRALS: Flux de direcció cranial amb pics de velocitat sistòlica
+asimètrics, 106 cm/s la dreta i no veig l'esquerre.EIXOS CAROTIDIS:DRET: Elongació CPD. No s'identifiquen plaques productores d'estenosisignificatives de la llum vascular, mínim ngruiximent de l'íntima arterial. IMT mm.Al bulb carotidi dret, no s'observa estenosi significativa, engruiximent de l' íntimaarterial amb alguna petita calcificació.Els registres espectrals no mostren signes d'alteració hemodinàmica, amb un picsistòlic de velocitat màxima, concordant ( PSV) CID de 66 cm/s i un quocient tambéconcordant de CPD-CID 1.Lleugera elongació trajecte cervical CID.
+ESQUERRE: Elongació CPE. No s'identifiquen plaques productores d'estenosisignificatives de la llum vascular, no hi ha engruiximent de l'íntima arterial. IMT 0.9mm.Al  bulb carotidi esquerre, no s'observa estenosi significativa, engruiximent de l'íntimaarterial amb alguna placa amb calcificació posterior.Els registres espectrals no mostren signes d'alteració hemodinàmica, amb un picsistòlic de velocitat màxima, concordant ( PSV) CIE de 75 cm/s, i un quocient també concordant de CPE-CIE 1.08.
+
+
+
+EVOLUCIÓN
+Mujer de 82 años con antecedentes y clínica descrita que a su llegada a URG presenta mal estado general, agitación y taquipnea. Se trata de una paciente con desconexión del medio y afasia por lo que se sospecha inicialmente de un ACV por lo que se activa código ICTUS, descativandose posteriormente. En urgencias presenta inquietud rascado activo por lo que pautamos polaramine siendo efectivo
+El estudio complementario realizado en urgencias (ECG, AG , Rx TX y de ABD) no evidencia alteraciones destacables, y el  TAC craneal  urgente no evidencia signos de sangrado activo ni LOE's ni otras alteraciones. Se decide ingreso en Neurologia con OD de ictus isquémico en territorio ACM I de mecanismo incierto. No se puede realizar RM porque la paciente no lo tolera. Paciente muy desanimada, no colabora en la RHBV, no quiere caminar. A alta aumentamos Pristiq a 100mg/dia. Recomendamos control ambulatorio de deglución y RHB. NIHSS 2, mRS4.
+
+
+ORINETACIÓN DIAGNÓSTICA
+-  AVC ISQUÉMICO de origen indetermindao con estudio incompleto (PACI) 434.11
+
+
+
+TRACTAMENT:
+Pristiq 100mg/dia Adiro 100mg/dia
+Atorvastatina  40mg/noche Omeprazol 20mg/dia
+Resto ttm habitual: Osviscal D 4500/400 ui mg/d, levotiroxina 50 mcg/24h, Betoptic 0.5 mg colirio
+Control en CAP, RHB ambulatoria Atentament,
+Signat:
+Dr/a.: _NAME_	Dra. _NAME_
+Metge adjunt - Neurologia	Metge resident	col _ID_ Número col·legiat: _ID_
+
+Hospitalització
+Imprès: 10/03/2017 09:17
+Pàg.: 1 de  3

@@ -1,0 +1,87 @@
+I.CLINIC DE NEUROCIÈNCIES NEUROLOGIA
+_NAME_	NHC: _ID_
+
+
+Sexo/Sexe: Masc.	Fecha nac./Data naix.: _DATE_	Edad/Edat: 90 años Dirección/Adreça: _LOCATION_		CP: _LOCATION_
+Municip. (Prov.): _LOCATION_  ABS:_SS_	Tel.:_CONTACT_
+
+As.: SERVEI CATALA DE LA SALUT	CIP: _ID_	
+Nº epis.: _ID_	Tipo/Tipus: HOSPIT.	Inici.: 20.12.2017
+Serv: NEUROLOGIA	UO Enf.: G064 SALA G DE NEUROLOGIA	Hora: 12:05:36
+Facult. de ref.: _NAME_		
+
+
+Tipo ingreso/Tipus ingrés: Urgent	Motivo/Motiu alta: Defunc.
+Diag.:
+Ictus isquémico ()
+Proc.:
+
+
+
+
+INFORME EXITUS
+
+Motivo de consulta / Motiu de consulta
+Disminución del nivel de conciencia.
+
+Antecedentes e historia previa / Antecedents i història prèvia
+Antecedentes personales: Varón de 90 años, sin alergias medicamentosas conocidas. Fumador de más de un paquete al día. Parcialmente dependiente para actividades básicas de la vida diaria (mRS 3).
+*ANTECEDENTES PATOLÓGICOS:
+1.	HIPERTENSIÓN ARTERIAL
+2.	FIBRILACIÓN AURICULAR no anticoagulada
+3.	DISLIPEMIA
+4.	CARDIOPATÍA ISQUEMICA
+
+*MEDICACIÓN HABITUAL: - AAS 100mg cada 24h - Simvastatina 20mg cada 24h - Nebivolol 5mg cada 24h - Lisinopril 10mg cada 24h - Tolterodina 4MG cada 24h.
+
+Proceso actual / Procés actual
+El 19/12 a las 15h presenta de forma súbita disminución del nivel de conciencia y posterior agitación. Avisan al SEM quienes a su llegada evidencian hemiparesia izquierda y trasladan a nuestro centro como código ictus.
+
+Exploración física / Exploració física
+20/12/2017-13:30:00: Glicemia capilar (mg/dl) 100. 21/12/2017-23:00:00 : Tª axilar (ºC) 35.6. 22/12/2017-00:00:00 : Frecuencia respiratoria (rpm ) 19, PAS (mm Hg) 131, PAD (mm Hg) 70, Pulsioximetría (%) 88.
+A SU LLEGADA AL BPARO: Consciente, orientación no valorable. Realiza 1 orden simple. Lenguaje hipofluente sin aparentes rasgos afásicos. Muy repetitivo. Ceguera. Paresia facial izquierda. Moviliza las 4 extremidades. RCP flexor bilateral. NIHSS 6.
+TRAS EL TC: Consciente, responde a preguntas simples. Realiza órdenes sencillas. Lenguaje sin rasgos afásicos. No disartria. Hemianopsia homónima izquierda. Paresia facial izquierda. Fuerza y sensibilidad conservada en las 4 extremidades. NIHSS 3.
+
+
+Evolución / Evolució
+1.	ICTUS ISQUÉMICO DEL TOP DE LA ARTERIA BASILAR.
+2.	FIBRILACIÓN AURICULAR.
+3.	INSUFICIENCIA CARDÍACA. EDEMA AGUDO DE PULMÓN.
+4.	HIPOPOTASEMIA.
+5.	BRONCOASPIRACIÓN. PARADA CARDIORESPIRATORIA.
+Acude el 21/12 traído por el SEM desde domicilio tras presentar de forma súbita disminución del nivel de conciencia con aparente hemiparesia de extremidades izquierdas posterior.
+A su llegada a nuestro centro, a la exploración neurológica se encuantra consciente, presenta ceguera bilateral y paresia facial izquierda. La analítica sanguínea que muestra hipopotasemia de 2.6 mEq/L. La neuroimagen (TC craneal multimodal) muestra microangiopatía crónica en la secuencia basal, sin otras alteraciones. Mapas de perfusión que muestran un retraso a nivel de ambas arterias cerebrales posteriores, con missmatch significativo. AngioTC donde se observa defecto de repleción a nivel de la ACPD.
+Bajo diagnóstico de ictus de top de la basilar con recanalización parcial en paciente con FA no anticoagulada se realiza tratamiento fibrinolítico, con lo que mejora clínicamente hasta quedar asintomático (NIHSS0).
+Tras 24h del  ingreso (21/12) presentó disnea por  edema agudo de pulmón por  descompensación de insuficiencia cardíaca  secundaria a FA rápida que requirió de traslado a BPAROS, donde se inició tratamiento deplectivo, frenador y corticoideo y requirió desoporte respiratorio (VM60%). El paciente mejoró clínicamente los días posteriores, por lo que se procedió a  la disminución del tratamiento diurético, presentando buena tolerancia. Se restituyó también el potasio mejorando los valores de éste en las analíticas de control.
+El día 25/12 el paciente presenta mal estar general. A la exploración buen control tensional y SatO2, se observa distensión abdominal con cierta dificultad respiratoria por restricción abdominal. Durante dicha exploración el paciente presenta disminución del nivel de consciencia con vómito y parada cardiorespiratoria. Se avisa al equipo de PAROS y se realizan maniobras de reanimación durante 20 minutos que no son efectivas. Finalmente, se certifica el fallecimiento del paciente el día 25/12 a las 2.05h. Se informa a la família, se ofrece posibilidad de necropsia pero se desestima.
+
+Plan terapéutico / Pla terapèutic
+.
+
+Otras recomendaciones / Altres recomanacions
+.
+
+
+
+Firma/Signatura1: _NAME_	Firma/Signatura2: _NAME_ Categoría: Resident 2	Categoría: Especialista
+Nº Matrícula _SS_: _ID_	Nº Matrícula _SS_: _ID_
+
+Fecha/Data Informe: 25.12.2017
+Hora Informe: 03:08:41
+
+
+
+
+
+
+
+
+
+Docum.: _ID_
+Hist. Clínica: _ID_	Vers. 00	Pag. 2 de	2
+Episod.: _ID_
+El _SS_ ha incorporado sus datos al Fichero de	_SS_	_SS_ ha incorporat les seves dades al
+Pacientes, para tratarlos con fines sanitarios.	_LOCATION_)	Fitxer de Pacients, per a tractar-los amb finalitats
+Puede ejercer sus derechos de acceso, rectificación,	_LOCATION_ (España)	sanitàries. Pot exercir els seus drets d'accés,
+cancelación y oposición, así como obtener mas información	Tel. _CONTACT_ Fax _CONTACT_	rectificació, cancel·lació i oposició, i obtenir més
+en la Unidad de Atención al Cliente.	<_CONTACT_/>	informació a la Unitat d'Atenció al Client.

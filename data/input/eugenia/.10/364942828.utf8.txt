@@ -1,0 +1,110 @@
+_LOCATION_
+Telf:
+_CONTACT_
+_CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 34 Anys
+NIF/DNI: _ID__NAME_; _NAME_
+Informe d'alta d'hospitalització
+10:03:50
+28.04.2017
+_LOCATION_
+_SS_ NEUROLOGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_
+DOMICIL/RES.SOC 24.04.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Varón de 34 años que ingresa en Neurología por focalidad neurológica transitoria
+
+ANTECEDENTS
+No alergaias medicamentosas conocidas Ex fumador de 2 cigarrillos al día.
+Asma
+Detección de ona Q en preoperatorio. Estudio en clínica privada _LOCATION_ sin hallar-se causas. Asintomático. No antacedentes familiares de cardiopatia isquémica precoz ni otras enfermedades vasculares.
+MEDICACIÓ HABITUAL
+antihistamínico y salbutamol a demanda .
+
+PROCÉS ACTUAL
+El paciente refiere que durante el día sufre episodio súbito de visión borrosa con restricción del campo visual bilateral. No cefalea. Posteriormente nota dificultad para la denominación durante segundos. Mejora el trastorno del lenguaje y alas pocas horas nota parestesias en la mano derecha. Al llamar a emergencias nota dificultad para la fluencia y la denominación. Mejoría espontánea de los síntomas.
+
+EXPLORACIÓ FÍSICA
+
+Buen estado general, normocoloreado, eupneico en reposo
+Neurológica: Consciente y orientado, funciones superiores conservadas. Fuerza y sensibilidad conservadas, pares craneales preservados. No alteraciones del lenguaje.
+AC tonos ritrmicos sin soplos
+AR sibilantes espiratorios aislados No lesones cutaneas.
+
+EXPLORACIÓ COMPLEMENTÀRIA
+AS hemograma sin alteraciones creatinina e ionograma dentro de la normalidad, PCR indetectable.
+
+ECG ritmo sinusal con onda Q en cara lateral
+
+TAC craneal : Alteració morfològica fronto temporal dreta probablement congènita. Probable antiga lesió parieto occipital dreta.
+Sense evidència de lesions agudes.
+
+Holter 24h: Ritmo sinusal durante todo el registro a una FC media de 47lpm; máxima de 102lpm y mínima de
+
+Informe d'alta d'hospitalització
+
+
+
+
+35lpm. ECG basal en bradicardia sinusal, PR normal, QRS estrecho sin alteraciones. Racha única de 3 latidos de ritmo idioventricular acelerado. Extrasistoles supraventriculares aislados poco frecuentes. Extrasistoles ventriculares aislados de poca densidad con morfología de BRI y eje superior. Sin pausas significativas, máximo RR 1.75segundos
+
+Ecocardiograma transtorácico:  Cardiopatía  isquémica  con  función  sistólica  conservada.  Insuficiencia  mitral leve-moderada. Aurícula izquierda dilatada.
+
+Analítica de ingreso:
+-	Bioquímica: Función renal e ionograma normal. Bilirrubina 2.2mg/dl, resto de perfil hepático normal. Triglicéridos 196mg/dl, resto de perfil lipídico normal.
+-	Función tiroidea, ácido fólico, Vit B12 normales.
+-	Serologías negativas para VIH y sífilis
+-	Proteinograma normal
+-	Hemograma: Hb 14.5g/dl, Hto 44.5%; VCM 90.6fl, Leucocitos 6160 (N 38.3% L 44.3%) Plaquetas 200000
+-	Autoimmunidad con anticardiolipina IgG y Ig M negativos, resto pendiente. VSG 6mm
+-	Homocisteína pendiente
+
+RMN cerebral amb angioRM: Dubtoses microlesions (dues) en còrtex frontal esquerre que no descartarien petits events isquèmics subaguts. Lesions isquèmiques cròniques frontals i parieto-temporo-occipital dretes. Petites lesions malàciques isquèmiques cròniques en hemisferi cerebel·lós dret. Leucoaraiosi lleu. Resta d'estudi cranial i vascular arterial intracranial i de TSA sense troballes patològiques significatives.
+
+EVOLUCIÓ CLÍNICA
+Ingresa en Neurología por focalidad neurológica transitoria, asintomático al ingreso. Se solicitan analítica de ingreso, ecocardiograma y Holter 24h.
+El paciente se mantiene estable y asintomático. Las exploraciones complementarias evidencian pequñas imagenes sugestivas de lesiones isquémicas agudas en territorio de la ACM izquierda de aspecto embólico a nivel de cortex frontal junto con las lesiones cicatriciales antiguas sugestivas de isquémia en territorio de la ACM derecha, sin lesones en la angioRM y con evidencia de area acinètica en el ecocardio.
+Los hallasgos sugieren un ictus isquémico recuperado de origen cardioembólico. Se recomienda anicoagulación como prevención secundaria.
+Se citará aen CEX de Neurologia y Cardiologia para control evolutivo y completar estudio.
+
+DIAGNÒSTICS
+435.9/1 ICTUS isquémico en territorio de la ACM izquierda de mecanismo cardioembólico.
+-	Area acinesia cardiaca.
+
+PROCEDIMENTS
+Mèdics / TAC crani / Ecocardio / RM cerebral / angioRM
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+-	Sintrom 1mg, 2 comp hoy, 2 comp sabado, 3 comp domingo y el lunes acudir a CEX de SINTROM Edif A, a las 8h para control.
+-	Tomar Adiro 100mg 1comp/dia hasta control de sintrom.
+-	
+Informe d'alta d'hospitalització
+
+
+
+
+
+CONTROL
+Acudirá a CEX de Neurologia, Cardiologia y Hematologia para control evolutivo
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+28.04.2017
+Pàgina 1 de 3

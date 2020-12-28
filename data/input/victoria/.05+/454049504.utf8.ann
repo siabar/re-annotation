@@ -1,0 +1,67 @@
+T0	_SUG_Lateralizacion 0 1	I
+T1	FECHA 315 325	24.12.2017
+#1	AnnotatorNotes T1	2017-12-24
+T2	HORA 384 389	15:55
+#2	AnnotatorNotes T2	15:55
+T3	SECCION_TIPO_DE_INGRESO 421 446	Tipo ingreso/Tipus ingrés
+T4	SECCION_DIAGNOSTICOS 488 493	Diag.
+T5	_SUG_Etiologia 523 535	HIPERTENSIVA
+T6	SECCION_PROCEDIMIENTOS 558 563	Proc.
+T7	SECCION_MOTIVO_DE_INGRESO 636 674	Motivo de consulta / Motiu de consulta
+T8	SECCION_ANTECEDENTES 718 780	Antecedentes e historia previa / Antecedents i història prèvia
+T9	_SUG_mRankin 947 953	mRS: 0
+T10	SECCION_ANTECEDENTES_PATOLOGICOS 959 983	ANTECEDENTES PATOLÓGICOS
+T11	_SUG_Etiologia 988 1000	HIPERTENSIÓN
+T12	FECHA 1278 1282	2005
+#12	AnnotatorNotes T12	2005-UNDEF-month-UNDEF-day
+T13	FECHA 1356 1362	agosto
+#13	AnnotatorNotes T13	2014-08-UNDEF-day
+T14	FECHA 1365 1383	septiembre de 2014
+#14	AnnotatorNotes T14	2014-09-UNDEF-day
+T15	SECCION_TRATAMIENTO_HABITUAL 1388 1408	TRATAMIENTO HABITUAL
+T16	SECCION_PROCESO_ACTUAL 1423 1453	Proceso actual / Procés actual
+T17	FECHA 1457 1465	24/12/17
+#17	AnnotatorNotes T17	2017-12-24
+T18	HORA 1472 1477	14:00
+#18	AnnotatorNotes T18	14:00
+T19	_SUG_Ictus_isquemico 1631 1636	ictus
+T20	SECCION_EXPLORACION_FISICA 1709 1747	Exploración física / Exploració física
+T21	_SUG_NIHSS 2081 2089	NIHSS: 8
+T22	_SUG_TAC_craneal 2158 2169	TAC CRANEAL
+T23	_SUG_TAC_craneal 2191 2201	TC CRANEAL
+T24	_SUG_Hemorragia_cerebral 2234 2257	hemorragia intracraneal
+T25	_SUG_ASPECTS 2328 2339	ASPECTS (10
+T26	_SUG_Lateralizacion 2390 2395	ambos
+T27	_SUG_Lateralizacion 2550 2561	bilaterales
+T28	_SUG_Lateralizacion 2577 2586	izquierdo
+T29	_SUG_Localizacion 2698 2709	ventricular
+T30	_SUG_Lateralizacion 2826 2827	E
+T31	_SUG_Localizacion 2874 2881	troncos
+T32	_SUG_Etiologia 2910 2922	ateromatosis
+T33	_SUG_Arteria_afectada 3002 3029	arterias carótidas internas
+T34	_SUG_Arteria_afectada 3039 3059	arterias vertebrales
+T35	_SUG_Etiologia 3080 3092	ateromatosis
+T36	_SUG_Arteria_afectada 3198 3225	arterias carotidas internas
+T37	_SUG_Etiologia 3246 3258	ateromatosis
+T38	_SUG_Etiologia 3390 3402	ateromatosis
+T39	_SUG_Arteria_afectada 3466 3469	ACA
+T40	_SUG_Lateralizacion 3470 3479	izquierda
+T41	_SUG_Arteria_afectada 3512 3528	vertebro-basilar
+T42	SECCION_EXPLORACIONES_COMPLEMENTARIAS 3541 3601	Exploraciones complementarias / Exploracions complementàries
+T43	SECCION_EVOLUCION 3843 3863	Evolución / Evolució
+T44	FECHA 4124 4132	24/12/17
+#44	AnnotatorNotes T44	2017-12-24
+T45	_SUG_NIHSS 4415 4423	NIHSS: 8
+T46	_SUG_TAC_craneal 4699 4709	TC craneal
+T47	_SUG_Hemorragia_cerebral 4743 4753	hemorragia
+T48	_SUG_Ictus_isquemico 4925 4930	ictus
+T49	_SUG_Etiologia 5061 5073	hipertensiva
+T50	_SUG_Ictus_isquemico 5147 5152	ictus
+T51	_SUG_Etiologia 5534 5546	HIPERTENSIVA
+T52	_SUG_Etiologia 5618 5626	habitual
+T53	SECCION_TRATAMIENTO_AL_ALTA 6888 6921	Plan terapéutico / Pla terapèutic
+T54	SECCION_RECOMENDACIONES 7047 7068	Otras recomendaciones
+T55	FECHA 7313 7323	28.12.2017
+#55	AnnotatorNotes T55	2017-12-28
+T56	HORA 7338 7343	15:43
+#56	AnnotatorNotes T56	15:43

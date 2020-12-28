@@ -1,0 +1,88 @@
+T1	Fecha_de_ingreso 223 233	19.02.2017
+#1	AnnotatorNotes T1	2017-02-19
+T2	HORA 236 241	16:13
+#2	AnnotatorNotes T2	16:13
+T3	Fecha_llegada_hospital 285 295	18.02.2017
+#3	AnnotatorNotes T3	2017-02-18
+T4	HORA 298 303	09:59
+#4	AnnotatorNotes T4	09:59
+T6	_SUG_Hemorragia_cerebral 421 429	hematoma
+T7	_SUG_Lateralizacion 450 457	derecho
+T8	mRankin_previa 922 927	mRS 2
+T10	_SUG_Ataque_isquemico_transitorio 1001 1006	ictus
+T11	Fecha_inicio_sintomas 1052 1059	17/2/17
+#11	AnnotatorNotes T11	2017-02-17
+T12	_SUG_Lateralizacion 1214 1223	izquierdo
+T13	_SUG_Ataque_isquemico_transitorio 1257 1262	ictus
+T14	Hora_llegada_hospital 1302 1304	10
+#14	AnnotatorNotes T14	10:00
+T15	_SUG_Lateralizacion 1462 1469	derecha
+T16	_SUG_Lateralizacion 1499 1508	izquierda
+T17	_SUG_Lateralizacion 1521 1530	izquierda
+T18	_SUG_Lateralizacion 1555 1564	izquierda
+T19	_SUG_NIHSS 1578 1589	NIHSS de 18
+T20	_SUG_TAC_craneal 1607 1609	TC
+T21	_SUG_Hemorragia_cerebral 1657 1665	hematoma
+T22	_SUG_Lateralizacion 1693 1700	derecho
+T23	_SUG_Lateralizacion 2040 2047	derecha
+T24	_SUG_Lateralizacion 2089 2098	izquierda
+T25	_SUG_Lateralizacion 2136 2145	izquierda
+T26	_SUG_Lateralizacion 2180 2189	izquierda
+T27	_SUG_Lateralizacion 2200 2209	izquierdo
+T28	NIHSS_previa 2213 2258	NIHSS: 0+0+0+2+2//2+(0+4)+(0+4)//0+2+0+2+0=18
+T29	_SUG_Lateralizacion 2568 2577	izquierda
+T30	_SUG_Lateralizacion 2604 2613	izquierda
+T31	_SUG_Lateralizacion 2660 2669	izquierda
+T32	_SUG_Lateralizacion 2680 2689	izquierdo
+T33	_SUG_NIHSS 2693 2738	NIHSS: 0+0+0+0+0//2+(0+4)+(0+4)//0+2+0+2+0=14
+T34	_SUG_Lateralizacion 2842 2851	izquierda
+T35	_SUG_Lateralizacion 2873 2882	izquierda
+T36	_SUG_NIHSS 2884 2929	NIHSS: 0+0+0+0+0//2+(0+3)+(0+2)//0+1+0+2+0=10
+T37	TAC_craneal 2964 2966	TC
+T38	_SUG_Hemorragia_cerebral 2977 2985	Hematoma
+T39	_SUG_Lateralizacion 3013 3020	derecho
+T40	_SUG_Lateralizacion 3218 3227	izquierdo
+T41	_SUG_TAC_craneal 3357 3359	TC
+T42	_SUG_TAC_craneal 3405 3407	TC
+T43	FECHA 3429 3439	18/02/2017
+#43	AnnotatorNotes T43	2017-02-18
+T44	_SUG_Hemorragia_cerebral 3444 3452	hematoma
+T45	_SUG_Lateralizacion 3462 3463	D
+T46	_SUG_ASPECTS 3484 3491	aspecto
+T47	_SUG_Localizacion 3653 3663	ventriculo
+T48	_SUG_Lateralizacion 3672 3673	D
+T49	_SUG_Lateralizacion 3935 3944	izquierda
+T50	_SUG_Hemorragia_cerebral 4236 4244	hematoma
+T51	_SUG_Lateralizacion 4276 4283	derecho
+T52	NIHSS_alta 4487 4499	NIHSS de  10
+T53	_SUG_TAC_craneal 4536 4538	TC
+T54	Hemorragia_cerebral 4587 4595	Hematoma
+T55	Lateralizacion 4623 4630	derecho
+T56	_SUG_Ataque_isquemico_transitorio 5210 5215	ICTUS
+T57	Fecha_de_alta 5234 5244	02.03.2017
+#57	AnnotatorNotes T57	2017-03-02
+T58	FECHA 5322 5332	02.03.2017
+#58	AnnotatorNotes T58	2017-03-02
+T59	SECCION_MOTIVO_DE_INGRESO 371 385	Motivo Ingreso
+T60	SECCION_ANTECEDENTES 470 482	ANTECEDENTES
+T61	SECCION_TRATAMIENTO_HABITUAL 607 629	-	Tratamiento habitual
+T62	SECCION_SITUACION_FUNCIONAL 725 751	-	Situación sociofuncional
+T63	SECCION_PROCESO_ACTUAL 930 947	ENFERMEDAD ACTUAL
+T64	SECCION_EXPLORACION_FISICA_EN_URGENCIAS 1812 1840	Exploración Físico Urgencias
+T65	SECCION_EXPLORACIONES_COMPLEMENTARIAS 2932 2961	EXPLORACIONES COMPLEMENTARIAS
+T66	SECCION_EVOLUCION 3770 3779	EVOLUCIÓN
+T67	SECCION_PROCEDIMIENTOS 4514 4528	PROCEDIMIENTOS
+T68	SECCION_DIAGNOSTICOS 4561 4584	ORIENTACIÓN DIAGNÓSTICA
+T69	SECCION_RECOMENDACIONES 4715 4738	RECOMENDACIONES AL ALTA
+T70	SECCION_TRATAMIENTO_AL_ALTA 4739 4750	Tratamiento
+T71	SECCION_CONTROL 4985 4992	Control
+#5	AnnotatorNotes T8	2
+T5	Hora_inicio_sintomas 1066 1070	3 am
+#6	AnnotatorNotes T28	18
+T9	SECCION_EXPLORACION_FISICA_DURANTE_HOSPITALIZACION 2262 2280	EF ingreso en Sala
+#7	AnnotatorNotes T52	10
+T72	mRankin_alta 4504 4509	mRs 4
+#8	AnnotatorNotes T72	4
+T73	Localizacion 4596 4622	profundo lenticulocapsular
+T74	Etiologia 4653 4665	hipertensiva
+T75	Tratamiento_anticoagulante_hab 4753 4758	Hibor

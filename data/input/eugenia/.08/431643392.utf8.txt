@@ -1,0 +1,197 @@
+_LOCATION_
+email: _CONTACT_ Telèfon _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 38 Anys
+NIF/DNI: _ID_Equipo Dr. _NAME_ (Dres _NAME_, _NAME_, _NAME_)
+Informe d'alta d'hospitalització
+10:20:00
+21.10.2017
+_LOCATION_
+_SS_ CARDIOLOGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_ _CONTACT_; _CONTACT_; _CONTACT_
+DOMICIL/RES.SOC 15.10.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Hombre de 38 años ingresa por IAM inferoposterior Killip I.
+
+ANTECEDENTS
+-	Sin alergias medicamentosas conocidas.
+-	Fumador activo. Refiere consumo habitual de hachís y ocasional de cocaína (refiere último consumo hace aproximadamente una semana).
+
+ANTECEDENTES PERSONALES:
+-	Niega diabetes, hipertensión arterial o dislipemia conocidas.
+-	Episodios de dolor en epigastrio e hipocondrio derecho desde principios de 2016 orientados como cólicos biliares. Se indicó cirugía, pero el paciente declinó por motivos personales. En mayo de 2017 consultó por cuadro sugestivo de cólico biliar, destacando analítica con 19000 leucocitos. Fue alta  voluntaria. Refiere presentar episodios esporádicos de dolor urente en epigastrio e hipocondrio derecho, de días de duración y asociando vómitos biliosos.
+*Ecografía abdominal: vesícula biliar completamente ocupada por litiasis, no valorable. Vía biliar intra y extrahepática no dilatada. Páncreas sin hallazgos significativos. Bazo homogéneo de tamaño normal. Riñones sin alteraciones. No hay dilatación de vías urinarias.
+*Ecografía abdominal: colelitiasis sin signos de colecistitis aguda. No se identifica el apéndice cecal ni se observan signos indirectos de cambios inflamatorios en FID. Esteatosis hepática difusa.
+-	Leucocitosis de 15000-20000/uL con predominio de neutrófilos, documentada ya en 2011, sin otras alteraciones analíticas.
+
+-	Sin historia cardiológica previa. Refiere padre con cardiopatía a los 60 años, sin poder especificar.
+
+Situación sociofuncional: independiente para las ABVD. Sin deterioro cognitivo.
+
+MEDICACIÓ HABITUAL
+No refiere.
+
+PROCÉS ACTUAL
+Estando previamente asintomático, el 14/10/2017 se despierta a las 09:00 con un dolor epigástrico y en hipocondrio derecho de moderada intensidad (5/10), similar a previos, de características urentes, asociando náuseas y vómitos biliosos. El dolor se mantiene durante toda la mañana. Aproximadamente a las 16:00 se acuesta y a las 19:00 despierta con persistencia del dolor e incapacidad para mover las extremidades izquierdas. Llega a urgencias a las 21:10h con PA 133/89mmHg, FC 77lpm, SpO2  97%. Es valorado por neurología, objetivando hemiparesia e hemihipoestesia izquierdas con disartria. Se activa código ictus, se confirma ictus isquémico en territorio ACM derecha y se adminsitra tPA ev a las 21:45h con tiempo puerta-aguja 35 min.
+
+Estando aún con dolor epigástrico, a las 21:56h se realiza ECG que muestra ritmo sinusal a 90lpm, PR 160ms, Q inferior con elevación del ST de hasta 5mm en DIII, cambios especulares en DI-aVL, descenso del ST de V1 a V4.
+
+Informe d'alta d'hospitalització
+
+
+
+
+Se contacta con Cardiología y se activa código IAM a las 22:14h. Se suspende la perfusión de rTPA (se había administrado bolus) y se administra AAS 300mg, clopidogrel 600mg y HNF 5000 UI. Se traslada a hemodinámica a las 22:45h, realizándose coronariografía por acceso radial izquierdo 6F que muestra enfermedad coronaria de un vaso (CD). TC, DA y CX sin lesiones. CD con oclusion trombótica (100%) a nivel de la cruz. TIMI 0, rentrop 1. Dominancia derecha. Se realiza ACTP primaria + trombectomía productiva con extracción de trombo rojo con buen resultado, se obtiene flujo TIMI 3, blush 3 sin observarse placa subyacente, sugestivo de embolia coronaria.
+
+Se objetiva deterioro neurológico progresivo, por lo que a las 23:50h se inicia rescate intraarterial, observándose oclusión M2 derecha. Se realiza un primer pase a las 00:19 con Solitaire consiguiéndose recanalización parcial TICI 2B. Como incidencias ha presentado vasoespasmo que ha precisado verapamilo y probable disección carótida cervical. Se decide realizar serie control en ACI I objetivándose correcta repermeabilización intracraneal. Se decide por ello finalizar el procedimiento a las 00:45. Hemodinámicamente estable durante el mismo, presenta al finalizar NIHSS 2 a expensas de hemianestesia I.
+
+El paciente ingresa en UCC a la 1:00h con PA 148/96mmHg, FC 96lpm, Tª 37.6ºC, SpO2 98%.
+
+EXPLORACIÓ FÍSICA
+
+Buen estado general, consciente y orientado, normocoloreado y normohidratado, bien perfundido. Pulsos distales presentes. Tonos cardíacos rítmicos, sin soplos. Campos pulmonares bien ventilados, sin agregados. Sin semiología de IC derecha. Abdomen anodino. Pupilas isocóricas normoreactivas. Correcta movilidad y fuerza de las 4 extremidades y musculatura facial. Sensibilidad conservada. Sin alteraciones en el contenido o la articulación del habla.
+
+EXPLORACIÓ COMPLEMENTÀRIA
+-Analítica general en Urgencias: Hb 16.2g/dL, Hto 46.7%, VCM 88.7fL, leucocitos 21100/mcL (N 93%, L 5%), plaquetas 224000/mcL, INR 1.06, TQ 91%, fibrinógeno 4.43g/L, glucosa 174mg/dL, urea 48mg/dL, creatinina 0.85mg/dL, FG >90ml/min, bilirrubina 0.53/0.20mg/dL, sodio 137mmol/L, potasio 3.51mmol/L, AST/ALT 18/18UI/L, proteína 7.5g/dL.
+*Marcadores de lesión miocárdica: TnI 0,299 --1062 -- 525 -- 345 -- 231 ng/mL, CKmb 5.0 -- 658 -- 537,2 --
+374 -- 210ng/mL
+
+-ECG: ritmo sinusal a 80lpm, PR 180ms, QRS estrecho, QS inferior con elevación de 1mm del ST, R alta en V2-V3 con descenso inframilimétrico del ST en estas derivaciones y en DI-aVL.
+
+-EAB (urgencias): pH 7.35, pCO2 40, lactatos 2.2, EB -3.5, HCO3 22.
+
+-Rx tórax: marco óseo conservado, índice cardiotorácico dentro de los límites de la normalidad, se observan signos de redistribución vascular, senos costofrénicos libres.
+
+-Ecocardiograma transtorácico: ventrículo izquierdo no dilatado ni hipertrófico (55/35/10/9mm), con función sistólica global moderadamente deprimida (FEVI 39 % biplano). Se observa acinesia septoinferior, inferior e inferolateral. Válvula aórtica trivalva con velos finos y apertura conservada. Aurícula izquierda ligeramente dilatada. Raíz de aorta y aorta ascendente de tamaño normal. Cavidades derechas de tamaño normal. Ventrículo derecho con función sistólica global conservada (TAPSE de 27mm). Vena cava inferior dilatada con colapso inspiratorio mayor del 50%. Ausencia de derrame pericárdico. Se administra suero agitado y no se observa paso de burbujas a
+
+Informe d'alta d'hospitalització
+
+
+
+
+cavidades izquierdas. Patrón de flujo transmitral y venas pulmonares de tipo normal. Insuficiencia mitral ligera (I/IV). Ausencia de insuficiencia aórtica. Sin gradiente transvalvular aórtico patológico. Ausencia de insuficiencia tricuspídea que permita estimar PAPS. Tiempo de aceleración pulmonar normal. No se observa flujo por doppler color entre AD y AI en plano subcostal.
+
+-AngioTC craneal: TC craneal que no muestra lesiones isquémicas agudas cerebrales valorables (ASPECTS 10/10). TC perfusión con área de penumbra en el territorio de división posterior de ACM derecha. AngioTC craneal que muestra defecto de repleción en el segmento M1 distal-origen de división posterior de ACM derecha visualizado en fase inicial con reperfusión en fases posteriores de pase de contraste.
+
+- Analítica general de ingreso: Hb 13.9g/dl, Hc 41%, VCM 92fl, leucos19650	(N 76%, L 13%), plaquetas
+170.000. TQ 92%, INR 1.05, Glucosa 134mg/dl, hbA1c 5.3%, urea 25mg/dl, creatinina 0.74mg/dl, FG >90ml/min, bilirubina total 0.80mg/dl, bilirubina directa 0.26mg/dl, sodio 137mmol/L, potasio 3.4mmol/L, calcio 8.8mg/dl, AST 201UI/L, ALT 105UI/L, FA 94UI/L, GGT 25UI/L, proteina 6.4g/dl, albumina 3.9g/dl, PCR 2.75mg/dl.
+*Estudi anemia: ferritina 214ng/ml, transferrina 236mg/dl, hierro 92ug/dl, Sat transferrina 39%, receptor soluble transferrina 0.9mg/dl.
+*Perfil lipídico: colesterol 187mg/dl, HDL 44mg/dl, LDL 121mg/dl, TG 111mg/dl.
+*Perfil tiroideo: TSH 0.588mU/L.
+
+- RM cardíaca : pendiente de informe.
+
+EVOLUCIÓ CLÍNICA
+Durante su estancia en la UCC, el paciente presenta recuperación completa de déficit neurológico, sin dolor epigástrico. Para estudio de fuente embolígena, se realiza ecocardograma de gabinete que Se solicita valoración por Hemostasia para estudio de tormbofílias que recomiendan posponer estudio pasada la fase aguda. Se ha iniciado heparina no fraccionada, cambiando a sintrom. Neurologia apunta que la causa más probable seria consumo de cocaína.
+
+Desde el punto de vista Cardiológico, se inicia titulación de betabloqueantes y IECAs para disfunción ventricular moderada. Solicitamos RM cardíaca para completar estudio pendiente de informe.
+
+Desde el punto de vista neurológico, el TC craneal de control muestra desaparición de la tenue hiperdensidad sulcal parietal derecha, siendo más evidente la hipodensidad cortico-subcortical parietal e insular derecha en relación a infarto agudo en territorio superficial de la ACM derecha, sin cambios respecto al previo reciente de hace 12 horas. Valorado por Neurología, recomiendan mantener anticoagulación. La posible disección carotídea descrita seria secundaria al procedimiento de rescate intraarterial, aunque aparentemente se ha autolimitado y según refieren no hay que realizar ningún seguimiento, ecoTSA ni condiciona cambios en el enfoque terapéutico.
+
+Por otro lado, el dolor abdominal se ha autolimitado desde hace 24h, el cual le recordaba a los episodios previos etiquetados de cólicos biliares. Analíticamente sin signos de colestasis, con elevación de AST atribuible a IAM reciente, con leucocitosis de 19.000, aunque el paciente siempre presenta leucocitosis en todas sus analítica previas. Persiste con náuseas, de dificil control con antieméticos, por lo que habría que plantear hiperemesis canabinoide, pues parece que mejoran con baños calientes. Ha sido valorado por Cirugia General que no aprecian indicaciones de cirugia durante ingreso.
+
+El paciente no ha presentado nueva sintomatología de dolor torácico ni tampoco clínica neurológica por lo que dada estabilidad clínica se entrega alta a domiclio y control ambulatorio con cardiología y hematología.
+
+Informe d'alta d'hospitalització
+
+
+
+
+
+IMPRESIÓN DIAGNÓSTICA
+En resumen, se trata de un paciente de 38 años fumador activo y con historia de consumo de hachís y cocaína, antecedente de cuadros de dolor abdominal catalogados como cólicos biliares, con colelitiasis documentada. Sin historia cardiológica previa. Consulta por dolor epigástrico y focalidad neurológica con hemiparesia e hemihipoestesia izquierdas. Se realiza inicialmente tratamiento con rTPA, parándose al objetivar IAM inferoposterior, con coronariografía que muestra oclusión posiblemente embólica de CD distal, revascularizada con éxito mediante trombectomía. Posteriormente presenta empeoramiento neurológico y se realiza rescate intraarterial, con buen resultado. Con FEVI moderadamente deprimida (39 %). Valorado por hemostasia, anticoagulado con heparina no fraccionada, se decide realizar estudio de trombofilia ambulatorio tres meses después de fase aguda y mantener anticoagulación por Sintom.
+
+
+DIAGNÒSTICS
+IAMCEST inferoposterior killip I
+Ictus de la ACM-derecha recanalizado Embolia múltiple de etiologia no aclarada Función sistólica moderadamente deprimida Dolor abdominal
+Dependencia a cannabis Tabaquismo
+Cólicos biliares
+
+PROCEDIMENTS
+Coronariografia, arteriografia cerebral, ecocardiograma,
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Recomendaciones
+Dieta sin sal y baja en grasas
+Reposo relativo durante al menos un mes
+Abstención o suspensión inmediata de hábitos tóxicos (tabaco, alcohol u otras drogas)
+Cafinitrina sublingual según normas de uso (si tiene opresión torácica, debe sentarse y ponerse debajo de la lengua un comprimido masticado. Si persisten los síntomas, puede repetirse la administración cada 10 minutos durante 3 veces, y debe avisar al 112 o acudir urgencias si no desaparecen los síntomas con la tercera pastilla).
+
+
+Tratamiento
+Sintrom segun pauta
+Bisoprolol 5 mg un comprimido vía oral al día 1-0-0 Enalapril 5 mg un comprimido vía oral cada 12 horas 1-0-0 Esplerenona 25 mg medio comprimido vía oral al dia 1-0-0
+Metoclorpramida 10 mg un comprimido cada 8 horas si násueas o vómitos. Omeprazol 20 mg un comprimido al dia en ayunas 1-0-0
+Diazepam 5 mg un comprimido al dia Parche de nicotina de 52.5 mg cada 24 horas
+
+Informe d'alta d'hospitalització
+
+
+
+CONTROL
+Contro con cardiología, Dra _NAME_. Se le avisará con fecha y hora Control en CEX de hamtología para estudio de trombofilias.
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+21.10.2017
+Pàgina 1 de 5

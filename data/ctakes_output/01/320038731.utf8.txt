@@ -1,0 +1,167 @@
+_LOCATION_ Tel. _CONTACT_
+e-mail: visitescex._CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 90 Anys
+NIF/DNI: _ID__NAME_; _NAME_; 
+_NAME_; _NAME_; _NAME_
+Informe d'epicrisi
+CP	_LOCATION_
+ABS	_SS_
+Servei	NEUROLOGIA
+Data d'alta  07.01.2017	10:00:00
+_LOCATION_
+_CONTACT_; _CONTACT_; _CONTACT_
+DOMICIL/RES.SOC 04.01.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Hemorragia profunda hemisférica izquierda
+
+ANTECEDENTS
+ANTECEDENTES PERSONALES:
+-	Hombre de 90 años, sin alergias medicamentosas conocidas.
+-	Ex-fumador.
+-	Independiente para las activades básicas de la vida diaria.
+-	Escala Rankin 2: desde hace un año ha dejado de conducir su coche por olvidos frecuentes, dependencia de terceros para manejar la medicación.
+
+ANTECEDENTES PATOLÓGICOS:
+-	Hipertensión arterial, en tratamiento con Valsartan/hidroclorotiazida.
+-	DMII (retinopatía no proliferante leve) sin tratamiento farmacológico.
+-	Dislipemia sin tratamiento farmacológico.
+-	Deterioro cognitivo leve-moderado, MMSE 23; Barthel 100; Lawton 3; Blessed 2.5-0-4 (6/2016).
+-	MPOC, SAHS severo sin tratamiento farmacológico. Tiene indicada CPAP pero no la usa por reticencia.
+-	Posible cardiopatía isquémica asintomática (T negativas en V5-V6).
+-	Neoplasia vesical diagnosticada en 2015, no ha querido RTU (2015).
+-	Glaucoma.
+-	Carcinoma basocelular en concha auricular izquierda (2007).
+-	Melanoma tipo léntigo maligno in situ + Carcinoma basocelular supralabial (2010).
+-	Varices EEII con lesiones vasculares.
+-	Absceso molar 1º cuadrante (2006).
+-	Múltiples consultas por problemas dentarios e infección de vías respiratorias altas en los últimos años.
+-	Gonartrosis bilateral.
+-	Ateromatosis calcificada de aorta.
+-	Ecocardiograma 5/2012: Hipertrofia septal leve, IAo moderada, Ve global conservada, DD de VE, no alteraciones segmentarias de la motilidad.
+-	Ingreso en Neumología  12/2014: Episodio de insuficiencia respiratoria  crónica hipercápnica reagudizada  en contexto de infección respiratoria de vias bajas asociando IC derecha leve.
+
+MEDICACIÓ HABITUAL
+Adiro 300mg c/24h Omeprazol 20mg c/24h Travatan 40mcg/mL 2/24h
+Valsartan/hidroclorotiazida 80/12.5mg c/24h
+
+PROCÉS ACTUAL
+Paciente con los antecedentes descritos que tras haberse acostado la noche previa en su estado basal, el 4/1/2016 al despertar presenta disminución de fuerza en hemicuerpo derecho con caída con traumatismo a nivel
+
+Informe d'epicrisi
+
+
+
+
+supraciliar derecho y codo y muñeca derechos. La mujer al escuchar la caída y encontrar al paciente en el suelo avisa a SEM y se activa código ictus a las 9:33h. El paciente llega a nuestro centro a las 9:53h. Útlimo visto asintomático a las 20.30 horas del día previo. Su mujer explica que se despertó por un grito de su marido a las
+09.00 horas de hoy, eocntrándolo en el suelo y llamando al SEM.
+
+EXPLORACIÓ FÍSICA
+
+FC	62 bpm
+Tªaxi 35.7 ºC
+FR	20 rpm Tªrec  ºC
+TA s	179 mmHg SAT O2 95 %
+TA d   88 mmHg Pes 75.000 Kg
+
+A su llegada a Urgencias:
+-Neurológica: Alerta, colaborador. Disartria severa, cierto componente de afasia mixta, nominación y repetición conservadas. Pupila izquierda normorreactiva, derecha no valorable por hematoma periocular. No hemianopsia por amenaza en OI. Paresia facial supranuclear derecha, resto de pares craneales cconservados. Hemiparesia derecha con BM 2/5 en ESD y 3/5 en EID. Hemihipoestesia  táctil derecha, no extinción táctil aparente. RCP extensor derecho.
+NIHSS: 0+2+0+0+0+2+3+0+2+0+0+1+1+2:13.
+-Sistémica:  Auscultación cardíaca rítmica, Auscultación pulmonar con crepitantes bibasales, Abdomen blando, depresible, no doloroso, EEII sin edema ni signos de TVP.
+
+En la unidad de ictus:
+A la llegada: somnoliento, localiza dolor, abre ojos a la voz, orientación no valorable por afasia. Emite sonidos incompresibles como respuesta a preguntas. Sin extición sensitiva. Disartria ininteligible. Pupilas mióticas puntiformes simétricas, reactiva sólo la izquierda. Hemianopsia derecha por reflejo de amenaza. Mirada centrada, ROV al girar la cabeza a la izquierda anulado. Hemiplegia derecha faciobraquiocrural. Fuerza conservada lado izquierdo.
+NIHSS= 1.1.1.2.2/2(0.4)(0.4)/0.0.2.2.0= 21
+AR: MVC, con escasos roncus en ambos campos pulmonares. AC: TCR, apagados, no ausculto soplos, roces ni extratonos. ABD: globuloso, blando y depresible. Fascies de dolor a la palpación en hemiabdomen izquierdo, con leve reacción de defensa. Peristaltismo conservado.
+
+Al alta:
+
+EXPLORACIÓ COMPLEMENTÀRIA
+En urgencias.
+-	ECG: Ritmo sinusal a 65 lpm.
+-	Analítica:
+Hemograma: Hemoglobina 16.3 g/dL, Leucocitos 6200 (67.4% N, 20.3% L), Plaquetas 126000.
+Coagulación: Tiempo de protrombina 70%, 14.1 s, 1.3 INR, ratio 1.31. Fibrinógeno 280 mg/dL. TTPA 32.9
+s, ratio 1.06.
+Bioquímica: Glucosa 145 mg/dL, Creatinina 0.8 mg/dL, Urea 29 mg/dL, Sodio 136 mmol/L, Potasio 4.2 mmol/L, PCR 3 mg/L.
+
+- Neuroimagen:
+RM: Se aprecia un hematoma parenquimatoso de aspecto agudo (apenas muestra edema circundante y el efecto de masa es discreto) en tálamo  zquierdo, con extensión a la corona radiada y que se halla abierta a VL izquierdo a nivel del cuerpo. Aunque el VL muestra ocupación hemática, no se aprecian una dilatación llamativa o
+
+Informe d'epicrisi
+
+
+
+
+edema transependimario que haga sugerir hidrocefalia con actividad en la actualidad. No se aprecian otras hemorragias recientes, ni tampoco se aprecian lesiones isquémicas recientes.No se aprecian hemorragias o microhemorragias crónicas. Foco de aspecto gliótico sustancia blanca supratentorial que  sugieren afectación hipóxico isquémica crónica en grado moderado. No se aprecian lesiones isquémicas crónicas territoriales.Parénquima cerebral que no muestra otras alteraciones relevantes de señal.No se aprecian signos de hipertensión endocraneal las cisternas de la base se hallan libres. El VL derecho muestra calibre normal.No se aprecian otros efectos de masa. A nivel morfológico se observa cierta pérdida de volumen en las regiones temporales mediales, sin cambios involutivos relevantes parala edad en el resto de regiones. Pequeño quiste aracnoideo en la convexidad izquierda.Hematoma de partes blandas epicraneales frontal y periorbitario derecho.
+Conclusión: Hematoma agudo parenquimatoso profundo izquierdo, abierto al VL  zquierdo En unidad de ictus:
+-	Analítica 05.01.17:
+-	Hemograma: Leucòcits 6.90 x10^9/L; Hematies 4.72 x10^12/L; Hemoglobina 14.9 g/dL; hematòcrit 44.6 %; Plaquetes 141 x10^9/L.
+-	Coagulación: Temps de Protrombina 68 %; Temps de Protrombina (INR) 1.33; Fibrinogen 331 mg/dL; TTPA. 32.2 seg.
+-	Bioquímica: Glucosa 117 mg/dL; Glicohemoglobina 7.1 %;  Proteïna 53.2 g/L; Urea 26 mg/dL; Filtrat glomerular 75 mL/min/1.73 m2; Creatinini 0.89 mg/dL; Urat 5.5 mg/dL; Calci(II) 8.50 mg/dL; Fosfat; 3.1 mg/dL; Magnesi(II) 1.68 mg/dL; Io Sodi 135.3 mmol/L; Io Potassi 4.40 mmol/L; Clorur 95.9 mmol/L; Bilirubina 1.18 mg/dL; Fosfatasa	Alcalina	48	U/L;	Alanina-aminotransferasa	8	U/L;	Gamma-glutamiltransferasa	11	U/L; Lactat-deshidrogenasa 155 U/L; Creatina-cinasa 225 U/L; Proteïna C reactiva 10.10 mg/L.
+Bioquímica lípidos: Triglicèrid 44 mg/dL;  Colesterol 135 mg/dL;  Colesterol HDL 55.7 mg/dL; Colesterol LDL 70 mg/dL; Colesterol no HDL 79 mg/dL.
+Proteinograma: PEND
+
+-	Rx tórax portatil 04.01.17: Exploración decúbito. Cardiomegalia, redistribución vascular, infiltrados algodonosos parcheados.
+
+EVOLUCIÓ CLÍNICA
+Varón de 90 años hipertenso, dislipémico, diabético, EPOC, SAHS, tumoración vesical diagnosticada en 2015 con antecedente de deterioro cognitivo leve, mRS 2, que acude por debilidad de extremidades derechas de inicio al despertar el 04.01.17 vía código ictus. Útlima vez visto asintomático 14 horas antes de su llegada.
+
+A su llegada a nuestro centro presenta hipertensión arterial (179/88mmHg) con resto de constantes conservadas. A la exploración neurológica destaca clínica de infarto total de la circulación anterior izquierdo (NIHSS 13) y mútiples contusiones en costado derecho del cuerpo, con postura aparentement patológica de miembro inferior derecho. Electrocardiograma en ritmo sinusal. Dado que presenta clínica del despertar en un paciente previamente independiente, se realiza RM multiparamétrica que muestra lesión hemorrágica talámica y en centro semioval izquierdo con invasión ventricular y ausencia de microsangradoscorticales o siderosis superficial. En la angioRM no se observan alteraciones. La analítica urgente no muestra alteraciones relevantes. Se orienta como una hemorragia profunda de etiología hipertensiva y se inicia tratamiento antihipertensivo intravenoso. Se decide ingreso en la unidad de ictus agudo y se informa a la familia de situación de gravedad.
+
+Informe d'epicrisi
+
+
+
+
+
+Durante su estancia en la undiad de ictus tendencia a la hipertensión arterial en las primera horas de la unidad que requiere 3 bolus de 10mg de urapidilo, con resto de constantes vitales correctas sin requerimiento de fármacos.
+Presenta retención aguda de orina, por lo que se coloca sondaje vesical evacuador a su llegada; posteriormente presenta hematuria autolimitada por la que Urología indica forzar diuresis ya que no parece en relación con su tumoración vesical y probablemente sí con el sondaje previo.
+
+En las siguiente horas presenta empeoramiento neurológico encontrándose somnoliento, siendo capaz de localizar dolor, abriendo ojos a la voz y emitiendo sonidos incompresibles como respuesta a preguntas. Las pupilas eran mióticas puntiformes simétricas, reactiva sólo la izquierda y los reflejos oculovestibulares a la izquierda anulados, resultando un empeoramiento de NIHSS a 22 puntos.
+
+Como a complicación el paciente presenta insuficiencia respiratoria aguda, se realiza Rx de tórax de control que muestra condensación base pulmonar izquierda, analítica muestra leucocitosis con aumento de reactante de fase aguda, diselectrolemia y gasometría que muestra una acidosis metabótica respiratoria severa, se inicia medicación broncodilatadora, corticoterapia, oxigenoterapia y antibiótico sin conseguir corregir la desaturación. Ante mal pronóstico a corto plazo por clínica respiratoria se avisa a la familia y se consensua priorizar medidas de confort, finalmente el paciente ha sido exitus el día 07/01/2016 a las 09:17h.
+
+DIAGNÒSTICS
+-Hemorragia profunda de etiología hipertensiva hemiférica izquierda abierta a ventrículos.
+-FRCV: Hipertensión arterial en tratamiento farmacológico, DM 2 y dislipemia sin tratamiento farmacológico.
+-EPOC y SHAS sin tratamiento domiciliario (rechazo de CPAP).
+-Melanoma tipo léntigo maligno facial derecho sin evidencia de recidiva.
+- Insuficiencia respiratoria aguda en contexto de infección respiratoria.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+07.01.2017
+Pàgina 1 de 4

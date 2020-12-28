@@ -1,0 +1,105 @@
+_SS_
+_LOCATION_)  Tlf. _CONTACT_
+INFORME ALTA HOSPITALITZACIÓNHC	_ID_	Pacient	_NAME_	
+CIP	_ID_	Data Naix.	_DATE_	Edat 77	Sexe Home	NASS	_ID_
+Adreça   _LOCATION_			CP	_LOCATION_
+Població_LOCATION_) España			Tel.	_CONTACT_
+Episodi  _ID_	Admissió	08.08.2017 21:55		Alta	14.08.2017 13:24
+Servei	NEUUOHMB Neurologia			Unitat	U04UHHBL
+
+DIAGNÒSTIC ALTA
+
+Codi ICD-9	Descripció Diagnòstic
+434.01/3	AVC ISQUEMIC ARTERIES CEREBRALS
+
+DADES INFORME
+
+MOTIVO DE INGRESO
+Varón de 77 años ingresa por disartria y desviación de comisura bucal
+
+ANTECEDENTES PATOLÓGICOS No AMC
+Exfumador
+HTA sin tt, no DM ni DLP
+No cardiopatías conocidas, no AVC/AIT previos Temblor esencial en tt.betabloq
+HBP
+*	TT.habitual: Betmiga 50mg, Duodart 0.5/0.4mg, propranolol 40mg
+*	Basal: vive con familiares, cognitivamente preservado, autónomo para ABVD, deambula sin soporte. mRS 0
+
+ENFERMEDAD ACTUAL
+El 08/08 se va a dormir la siesta sobre las 14.30h, y al despertar sobre las 17h, presenta cuadro de alteración del habla y desviación de comisura bucal.
+Acuden al CAP, donde se activa Código Ictus a las 18.53h.
+A su llegada a nuestro centro (19.10h) se objetiva NIHSS 5 y se comenta con NRL _SS_: no candidato a trombolisis EV por horas de evolución/lesión establecida ni a trombectomía por NIHSS bajo.
+No cefalea, dolor torácico ni palpitaciones. No fiebre ni procesos intercurrentes Ingresa en UCI para monitorización
+
+EXPLORACIÓN FÍSICA
+09/08; TA 153/91, 60x', afebril. BEG, NC y NH
+ACV: tonos rítmicos, no soplos carotídeos AR: eupneico, MVC; ABD: anodino
+MMII: no edemas, pulsos correctos
+NRL: vigil, orientado T-E-P, disartria moderada, lenguaje conservado, PICNR, MOE y campimetría por confrontación N, PFSN izq evidente, no déficit motor ni sensitivo, no dismetrías, temblor postural/reposo ESD 2/4, no rigidez ni bradicinesia, no agnosias ni extinciones, RCPs flexores
+NIHSS 3 = (0-0-0-0-0/2-0-0-0-0/0-0-0-1-0)
+
+EXPLORACIONES COMPLEMENTARIAS
+Urgencias
+*	Analítica: dentro de la normalidad
+*	Rx tórax: no alter. parenquimatosas pulmonares, senos costofrénicos libres
+*	ECG: bradicardia sinusal 55x', PR 0.16s, QRS estrecho eje 60º, no alter. agudas de repolarización
+*	
+*	TC craneal: destaca hipodensidad cortico-subcortical fronto-opercular D sugestiva de infarto agudo
+*	Ecodoppler TSA: sin evidencia de placas ni alteraciones hemodinámicas en vasos estudiados
+
+Hospitalización
+*	Analítica (09/08): plaq 136000, series blanca y roja N, coag N, perfil lipídico N, CKs neg, resto de BQ todo N
+
+*	RM craneal:
+-	Infarto subagudo con signos de transformación hemorrágica frontoopercular derecho, en territorio superficial anterior de la ACM homolateral.
+-	Moderada atrofia cortico-subcortical.
+-	Lesiones hipóxicas crónicas / involutivas en la substancia blanca periventricular y en ambos centros semiovales.
+-	Lesion isquémica crónica cerebelosa izquierda en territorio de la PICA
+-	Infarto lacunar crónico hemiprotuberancial parasagital derecho en territorio de la ramas perforantes del tronco basilar
+-	Secuencia angioRM intracraneal sin alteraciones significativas
+
+*	ECG (10/08): RS 60x', PR 0.16s, QRS estrecho eje 20º, no alter. agudas de repolarización
+*	Ecocardiograma TT:
+Finestra ecocardiogràfica subòptima
+-	Ventricle esquerre no dilatat, severa hipertròfia septe-basal-mig amb funció ventricular conservada (FE subjetiva 60 %), sense alteracions en la contractilitat segmentària
+-	Aurícula esquerre no dilatada
+-	IM lleugera
+-	Alteració diastòlica tipus I
+
+*	Holter-ECG: pendiente informe
+
+
+EVOLUCIÓN Y COMENTARIOS
+El paciente permanece en UCI monitorizado 24h, sin presentar incidencias destacables. Se inicia ingesta oral y sedestación sin problemas, por lo que se traslada a planta convencional
+Durante su estancia en planta, el paciente no presenta complicaciones ni nueva focalidad neurológica Tolera bien deambulación sin soporte. Asimismo, consigue recuperación ad integrum
+
+El estudio de neuroimagen muestra infarto en territorio ACM D superficial con transformación hemorrágica
+En cuanto al estudio etiológico, ecodoppler TSA, angioRM intracraneal y ecocardiograma sin hallazgos significativos.
+Queda pendiente resultado de holter-ECG
+La sospecha es que sea un ictus de etiología cardioembólica, pero no se ha podido objetivar aún, por lo que dejamos con antiagregación
+
+Dada buena evolución, se da alta a domicilio. No precisa rehabilitación ni logopedia
+Se le citará de forma ambulatoria para dar resultado de holter-ECG y plantear tratamiento/pruebas según lo que salga
+DIAGNÓSTICOS
+1.	Ictus isquémico agudo en territorio ACM D superficial de etiología por determinar. NIHSS 0, mRS 0
+2.	FRCV (HTA)
+3.	Temblor esencial
+
+TRATAMIENTO AL ALTA
+Adiro 100mg c/24h. Resto de tratamiento habitual sin cambios Control en consultas de Neurología el día que se le cite Control de factores de riesgo cardiovascular por MFIC
+Si nueva focalidad, acudir a Urgencias
+
+
+Tipus d'ingrés: Motiu d'alta:	Urgent Alt.Mèd.Domicil	
+Metge Adjunt:
+_ID_
+Servei:	_NAME_
+
+NEUUOHMB Neurologia	Nº Col·legiat Adjunt:
+
+Data informe:  14.08.2017
+
+
+Pàgina 1 de	3
+Data i hora d'impressió:
+14.08.2017 13:49:08

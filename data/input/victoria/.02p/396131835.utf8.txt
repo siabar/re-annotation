@@ -1,0 +1,163 @@
+_LOCATION_) Telèfon _SS_  972 _CONTACT_
+Telèfon IDI (Ressonància i TAC) _CONTACT_
+Telèfon ICO _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 87 Anys
+NIF/DNI: _ID_Informe d'alta d'hospitalització
+_NAME_; _NAME_;; _NAME_
+CP	_LOCATION_
+ABS	_SS_
+Servei	NEUROLOGIA
+Data d'alta  31.07.2017	13:58:49
+_LOCATION_
+_CONTACT_; _CONTACT_
+DOMICIL/RES.SOC 22.07.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Código ictus
+
+ANTECEDENTS
+PERSONALES:
+-No alergias medicamentosas conocidas
+-No refiere hábitos tóxicos
+-Independiente para Actividades básicas de la vida diaria. mRs previo: 0
+
+PATOLÓGICOS
+-Hipertensión arterial en tratamiento farmacológico con buen control tensional
+-Diabetes Mellitus tipo 2, había recibido tratamiento con ADO, actualmente sin tratamiento, última HbA1c 7.8% (Marzo/2017)
+-Ictus isquémico hace 20-25 años, actualmente en tratamiento con adiro 100mg
+-Insuficiencia renal crónica, Filtrado habitual 50mL/min
+-No dislipemia.
+-No antecedentes de cardiopatía isquémica
+-Válvula aórtica calcificada con doble lesión moderada (Ecocardiografía Julio/2015)
+-Pleuropericarditis Julio/2016, en tratamiento con colchicina actualmente
+
+
+MEDICACIÓ HABITUAL
+Adiro 100mg cada 24h, Enalapril 5mg cada 24h, Omeprazol 20mg cada 24h, Colchicina 0.5mg cada 48h
+
+PROCÉS ACTUAL
+Paciente de 87 años, con los antecedentes descritos, que el 22/07/2017 se va a dormir la siesta asintomático a las
+14.30 horas, y posteriormente se despierta a las 15 horas con alteración de la expresión del lenguaje, siendo encontrado por familia que lleva al paciente por medios propios a urgencias de nuestro centro (llegada a las 16.03 horas), desde donde se decide activación de Código Ictus en triaje a las 16.05 horas, siendo atendido inmediatamente.
+
+EXPLORACIÓ FÍSICA
+
+EXPLORACIÓN AL INGRESO:
+-	Tensió arterial: 186 /83 mmHg.
+-	AC: tons ritmics. Buf sistòlic panfocal, no esborra segon to.
+-	Exploración Neurológica:
+vigil, orientació no valorable per afàsia. Afàsia motora (obeeix ordres simples i complexes, no nomina ni repeteix, fluència disminuida). Campimetria per confrontació normal. PFC dreta. Hemihipoestèsia dreta. No dèficit motor. Limb shacking EESS. Disàrtria lleu. NIHSS: 7 (01200/10000/01110)
+
+Informe d'alta d'hospitalització
+
+
+
+
+
+EXPLORACIÓN AL ALTA:
+-	TA 163/69mmHg, FC 92bpm, Sat basal 97%, Tª 36.4
+-	NRL: Paciente vigil, orientado, obedece órdenes sencillas y complejas, cierta bradipsiquia. No alteraciones campimétricas. Se objetiva aparente ptosis de ojo izquierdo, sin alteraciones pupilares ni de MOE, sí alteración de hipogloso izquierdo (en contexto de IQx TEA). No otras alteraciones de PPCC. No deficit motor ni sensitivo. No dismetrías. No otras alteraciones. Deambulación autónoma y normal.
+NIHSS: 0
+
+
+
+EXPLORACIÓ COMPLEMENTÀRIA
+ECG:
+- URG: Ritmo sinusal sin alteraciones de la repolarización. QRS estrecho.
+-Monitorización: Se ha mantenido en RS durante todo el ingreso.
+
+ANALÍTICAS:
+-	AS (ingreso): Hb 15 g/dL, Plaqu 212 K/mcL, Leuc 10.33 K/mcL(N: 46.6 %, L: 39.9 %), Tasa protrombina 96 %, INR 1, , Glucosa 148 mg/dL, Urea 39 mg/dL, Creatinina 1.06 mg/dL, Urat 5.2 mg/dL, Colesterol 203 mg/dL, Colesterol HDL 30 mg/dL, Colesterol LDL (calcul) 118 mg/dL, Triglicèrid 276 mg/dL, Calci (II) 9.4 mg/dL, Ió sodi 140 mEqu/L, Ió potasi 4.9 mEqu/L, TnT: 11 ng/L
+
+-	AS control (27/07): Hb 12.2, Ht 36%, Plaquetas 181.000, Leucocitos 11.160, TQuick 77%, INR 1.18, Urea 38mg/dL, Creatinina 096 mg/dl, Sodiio 134 mEq/L, Potasio 4mEq/L
+
+PRUEBAS DE IMAGEN:
+-	Rx de tórax: Rx AP de tórax poco inspirada, poco pentrada, parcialmente rotada. No se observan aumentos de densidad compatibles con condensación ni pinzamiento de senos costofrénicos. ICT dentro de normalidad.
+
+-	Estudio ultrasonológico:
+DTSA: ateromatosis severa bilateral. Estenosis ACI esquerra preoclusiva (VSM 150cm/s amb patró deflecat i flux venós a nivell proximal). ACI dreta: estenosis > 80% amb VSM de 260cm/seg. Vertebral dreta hipoplàsica. DTC: ACA dreta invertida. ACA esquerra amb flow diversion. ACM simètriques amb VSM de 60. ACoA amb buf.
+ACP simètriques. V4 basilar normal.
+
+-	Doppler de control: DTSA: Eje derecho: Ateromatosis carotídea grave. Presencia de flujo con patrón preoclusivo en origen de ACI derecha, observándose oclusión distal. AV sin alteraciones. Eje izquierdo: Ateromatosis carotída con placas heterogéneas, que condicionan estenosis en torno al 60% (VSM de 180 cm/seg). AV sin alteraciones.
+DTC: Derecho: ACA invertida, ACoA abierta. ACM con flujo discretamente amortiguado pero manteniendo buena velocidad. ACP sin alteraciones. Izquierdo: Flow diversion desde ACA. ACM sin alteraciones, ACP sin alteraciones. Basilar sin alteraciones. Oftálmicas: Derecha antidrómica. Izquierda ortodrómica.
+Conclusión:
+-	Oclusión ACI derecha con buena compensación intracraneal desde ACoA y oftálmica.
+-	Estenosis ACI izquierda en torno al 60%.
+
+-TC multimodal (22/07):  No s'observen signes TC d'infart hiperagut.  Oclusió d'ACI dreta amb flux retrògrad vs
+
+Informe d'alta d'hospitalització
+
+
+
+
+near-oclussion, que condiciona una alteració de la perfusió. Placa d'ateromatosi calcificada en l'origen de l'ACI esquerra, que s'associa a un discret flap intimal - pseudoaneurisma.
+
+-TC cranial control (23/07): Absència de signes d'hemorràgia aguda intra ni extraaxial. Hipodensitat de la substància blanca periventricular, centres semiovals, corones radiates i càpsules externes en relació a desmielinització per hipoperfusió crònica (leucoaraiosi), així com augment de dimensions dels ventricles proporcional a la profunditat dels solcs corticals en relació a atròfia cortico-subcortical cerebral global. Estructures de la línia mitja centrades. Cisternes de la base i perimesencefàliques lliures.
+
+-RMN+angio-RMN (26/07/2017): Lesions isquèmiques subagudes al territori profund de l'ACM E. Infart crònics al territori superficial i frontera de l'ACM D. Estenosis crítica de l'ACI dreta i estenosi focal del 80% aproximadament de l'ACI E amb petit pseudoaneurisma associat. Estenosisignificativa a l'origen de l'ACE esquerra.
+
+EVOLUCIÓ CLÍNICA
+En urgencias se objetiva paciente vigil, presentando afasia motora, PFC derecha y hemihipoestesia derecha (NIHSS: 7), se decide realizar TC multimodal que muestra estenosis ACI bilateral, sin imagen de infarto establecido, mismatch territorio ACM derecha, por lo que se decide iniciar tratamiento fibrinolítico (dosis total 64.3mL, bolus inicial a las 17.15 horas, con tiempo puerta-aguja de 01.11.28). Retraso en inicio de tratamiento fibrinolítico por no disponilidad de TC (Se encontraban realizando estudio de otro Código Ictus)
+Tras tratamiento fibrinolítico, mejoría clínica progresiva hasta alcanzar NIHSS: 0. Se orienta por tanto caso como ictus isquémico ACM izquierda, de etiología ateromatosa y estenosis ACI preoclusiva ipsilateral, con recuperación ad integrum tras tratamiento fibrinolítico. Se decide ingreso en Unidad de ictus para monitorización, vigilancia neurológica y valoración de tratamiento quirúrgico sobre estenosis ACI.
+
+
+El paciente ingresa en la Unidad de Ictus donde se ha mantenido estable hemodinamicamente sin incidencias. Ha mantenido ritmo sinusal y no ha presentado arritmias en al monitorización.
+
+Se realiza Eco Doppler de control que muestra estenosis de ACI izquierda significativa que se confirma en
+angio-RMN. Por tanto, se orienta caso como ictus isquémico ACM izquierda, etiología aterotrombótica, secundario a estenosis crítica de ACI ipsilateral. El paciente es candidato a TEA izquierda que, tras firmar consentimiento informado y confirmar la ausencia de contraindicaciones, se realiza el 27/07 sin incidencias. Se retira redon de drenaje a las 48horas sin incidencias. Paciente con tendencia a la somnolencia durante su estada en la REA pero con buena evolución posterior y mejoría progresiva.
+
+A nivel neurológico, el paciente se mantiene con estabilidad clínica con un NIHSS de 0.
+
+Buena evolución en postoperatorio, sedestación progresiva, buena tolerancia a dieta oral y deambula por la unidad. Tendnencia a la hipertensión arterial controlada al reintroducir su tratamiento habitual.
+Ante estabilidad clínica, se decide alta a domicilio que se realiza el 31/07. Escalas al alta:
+-NIHSS: 0
+-mRs: 0
+
+Informe d'alta d'hospitalització
+
+
+
+
+-Barthel: 100
+
+DIAGNÒSTICS
+436/5	Ictus isquémico ACM izquierda, etiología aterotrombótica, secundario a estenosis ACI ipsilateral.
+Tratamiento con rTPA Endarterectomía
+401.9/4	Hipertensió arterial inespecificada 250.00/2	Diabetis mellitus II, controlada 423.8/3	Pleuropericarditis cronica
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+-	Tratamiento farmacológico
+-	Clopidogrel 75mg: 1 comprimido dspués de la comida.
+-	Atorvastatina 80mg en la cena
+-	STOP Adiro
+-	Resto de medicación sin cambios.
+
+-	Dieta baja en sal y grasas.
+-	Abandono del consumo de tabaco y reducción del consumo de alcohol.
+-	Control de los factores de riesgo cardiovascular
+-	Colesterol (LDL) <100 mg / dl
+-	Tensión arterial sistólica <140mmHg / Diastólica <90mmHg
+
+
+CONTROL
+-	Visita de control en Neurología de nuestro centro con doppler (Edificio de Consultas Externas primera planta) pendiente de cita, le avisarán por teléfono del día y la hora de visita.
+-	Control de los factores de riesgo cardiovascular por su equipo de atención primaria.
+
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+31.07.2017
+Pàgina 1 de 4

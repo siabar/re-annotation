@@ -1,0 +1,113 @@
+_LOCATION_
+email: _CONTACT_ Telèfon _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 83 Anys
+NIF/DNI: _ID__NAME_; _NAME_; _NAME_
+Informe d'epicrisi
+03:00:00
+01.03.2017
+_LOCATION_
+_SS_ NEUROLOGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_
+DOMICIL/RES.SOC 18.02.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Mujer de 83 años que ingresa por infarto de ACM I de probable etiología cardioembólica.
+
+ANTECEDENTS
+Antecedentes personales
+-Sin alergias medicamentosas conocidas.
+-Niega hábitos tóxicos
+
+Antecedentes médico-quirúrgicos
+-Fibrilación auricular en tratamiento antiagregante por malos controles de INR con sintrom.
+-Hipertensión arterial esencial en tratamiento farmacológico con buenos controles tensionales habituales.
+-Insuficiencia cardíaca crónica en tratamiento depletivo habitual.
+-EPOC en tratamiento con broncodilatadores inhalados.
+-Diabetes Mellitus tipo 2. Último control metabólico (Julio 2017) HbA1c 6.2%.
+
+Situación sociofuncional: institucionalizada en residencia aunque independiente para las actividades básicas de la vida diaria. Deambulación autónoma. mRs:3.
+
+MEDICACIÓ HABITUAL
+Adiro 100mg/día, Atenolol 50mg 1.5 comprimidos al día, Furosemida 40mg 1.5 comprimidos al día, Jalra 50mg/día, Repaglinida 1mg/8h, Spiriva 18mcg/día.
+
+PROCÉS ACTUAL
+Habiéndose levantado asintomática la mañana del 18.02.2017 comienza a las 9:30h con malestar general y ella misma se dirige a la habitación, donde vuelve a acostarse. A las 10h acude personal de su residencia a revalorarla y la encuentran mutista, con debilidad de extremidades derechas, relajación de esfínteres y vómito. Se contacta con SEM quienes activan código ictus.
+
+EXPLORACIÓ FÍSICA
+
+EXPORACIÓN FÍSICA EN URGENCIAS: Paciente somnolienta, despierta a la voz (1). Preferencia oculecefálica a la izquierda (1). HHD por amenaza (2). Afasia global (2+2+3). Hemiplejia FBC derecha (2+4+4). Sensitivo no valorable (1). NIHSS 22.
+
+EXPLORACIÓN FÍSICA EN UNIDAD DE ICTUS:
+Constantes: TA 161/79 mmHg, FC 91 lpm, SatO2 98% (aa), BMT 134 mg/dL.
+Regular estado general. Normohidratada, normocoloreada, bien perfundida. ACV: tonos cardíacos arrítmicos, no ausculto soplos. No signos de IC. AR: eupneica en reposo. Auscultación anterior con murmullo vesicular conservado sin estertores sobreañadidos. Abdomen blando y depresible, no doloroso a la palpación, sin signos de peritonismo.
+
+Informe d'epicrisi
+
+
+
+
+Paciente somnolienta, despierta a la voz (1). Preferencia oculecefálica a la izquierda (1). HHD por amenaza (2). Afasia global (2+2+3). Hemiplejia FBC derecha (2+4+4). Sensitivo no valorable (1). NIHSS 22.
+
+EXPLORACIÓN FÍSICA A PLANTA DE NEUROLOGÍA
+Somolienta (1). LOC Q 0/2 (2). LOC C 0/2 (2). Mutista (3). DOC a la I (2). HHD por amenaza (2). PFSN D (2). Plegia braquial D 0/5 (4), crural D 1/5 (4). Sensibilidad no valorable (1). NIHSS: 23.
+No se constatan movimientos involuntarios. DOC a la izquierda sin movimientos espontáneos.
+Tonos cardíacos arrítmicos, no signos de ICC descomensada. Murmullo vesicular conservado, sin ruidos sobreañadidos.
+
+EXPLORACIÓ COMPLEMENTÀRIA
+Exploraciones complementarias en Urgencias
+-TC Multimodal: Lesión isquémica aguda en insula, núcleo lenticular, cuerpo del núcleo caudado, región corticosubcortical frontal (M5) y temporal anterior (M2) izquierdas (ASPECTS 5). Lesión isquémica subaguda parietal derecha. Missmatch mayor del 20%. En el angioTC se observa un stop a nivel de M1 izquierda con flujo filiforme a nivel distal.
+-AG: Glucemia:285 mg/dL, Na+ 130mg/dL.
+-ECG: ritmo de ACxFA a 80lpm, eje 0º, BRDHH.
+
+Exploraciones complementarias en Unidad de Ictus
+-Analítica de ingreso: Hb 16.6g/dL, Hto 51.1%, VCM 94.5fL, HCM 30.7pg, eritroblastos 0, leucocitos 11780 (N 9200, L 1500, M 900), plaquetas 226000, INR 1.14, TTPA 33.4s, fibrinógeno 3.53g/L, Hb 6.8%, urea 46mg/dL, creatinina 0.82mg/dL, FG 66, urato 5.6mg/dL, Na 137.8mmol/L, K 4.05 mmol/L, Ca 9.1mg/dL, GOT 55 UI/L, GPT 29 UI/L, fosfatasa alcalina 109 UI/L, GGT 54 UI/L, colesterol 169mg/dL, HDL 39mg/dL, LDL 103mg/dL, triglicéridos 135mg/dL, proteína 6.9g/dL, albúmina 3.5g/dL, PCR 1.31mg/dL, TSH 3.432mU/L, T4 1.57ng/dL.
+
+-ECG: fibrilación auricular con frecuencia ventricular media de 60 lpm, QRS ancho a 120ms con morfología de bloqueo completo de rama derecha, ondas T negativas en DIII, V3-V4.
+
+-EEG (21.02.2017): Registro patológico, asimétrico. Signos de afección neuronal de expresión bilateral, pero con distribución asimétrica, más acentuados en hemisferio izquierdo. Se asocia intensa irritabilidad neuronal (de carácter crítico e intercrítico), compatible con situación de estado epiléptico focal (NCSE) de origen en regiones centro-parietales de hemisferio izquierdo.
+
+EEG control (22.02.2017): Anomalías en la sincronización de la actividad bioeléctrica cerebral en ambos hemisferios, pero con expresión electromorfológica diferente en uno y otro hemisferio: Signos de afección neuronal con carácter irritativo y lesional en hemisferio izquierdo; Signos de disfunción neuronal en hemisferio derecho, especialmente en regiones anteriores, que aconsejan descartar trastorno metabólico subyacente, entre otras patologías. Signos de irritabilidad neuronal (de carácter crítico e intercrítico) en regiones centro-parietales de hemisferio izquierdo, aunque actualmente ha disminuido la frecuencia y duración de las crisis y están más focalizadas en región central (C3).
+
+Informe d'epicrisi
+
+
+
+EVOLUCIÓ CLÍNICA
+Paciente con infarto isquémico en territorio de ACM I. A su llegada, NIHSS 22 por clínica completa de ACM
+I. Se realiza TC craneal que muestra infarto establecido en territorio ACM I, ASPECTS 5 oclusión de M1-ACM I y missmatch, junto con infarto subagudo parieta D. Dada extensión de la lesión,  ya establecida, y situación previa se desestima tratamiento de reperfusión ev/ia. Por otra parte, ante sospecha de probable crisis epiléptica sintomática aguda por el antecedente de relajación biesfinteriana, se inicia levetiracetam 500mg /12h. Ingresa en la UI para manejo estrecho y control evolutivo.
+A su llegada a la Unidad de Ictus la paciente permanece estable hemodinámicamente, con clínica de síndrome completo ACM I con NIHSS 22, sin realizar nuevas crisis. Se solicitan analítica completa de ingreso y EEG que muestra situación compatible con estado epiléptico no convulsivo, por lo que se pauta bolus de levetiracetam 3500mg seguido de 1000mg/12h.
+A su ingreso a planta de Neurología, clínicamente sin cambios , NIHSS: 23. No se objetivan síntomas motores. Se realiza EEG de control que muestra mejoría respecto al previo, aunque persiste en situación de estado epiléptico no convulsivo por lo que se añade tratamiento de bolus de 2g con VPA seguido de perfusión contínua de 1600mg/24h, que se reduce posteriormente a 800mg/12h tras constatarse en EEG de control desaparición de la actividad crítica y evidencia de signos encefalopáticos. Por otra parte, presenta nula ingesta oral, requiriendo colocación de SNG.
+Durante su ingreso en planta de Neurología, permanece neurológicamente estacionaria. No obstante el día
+27.02 presenta empeoramiento a nivel respiratorio, probablemente en contexto de broncoaspiración, que empeora progresivamente con marcada dificultad respiratoria, priorizándose confort, de acuerdo con la familia.
+La paciente es exitus el día 01.03 a las 1.20h. Se entrega certificado de defunción a la fammilia.
+Causa fundamental: infarto ACM I de probable etiología cardioembólica Causa intermedia: broncoaspiración
+Causa immediata: insuficiencia respiratoria aguda.
+
+
+
+DIAGNÒSTICS
+1.-Infarto ACM I de probable etiología cardioembólica.
+2.-Infarto ACM D subagudo de probable etiología cardioembólica.
+3.-Estado epiléptico focal no convulsivo de etiología sintomática aguda. 4-Hipernatremia
+5.-Broncoaspiració. Insuficiencia respiratòria
+
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+01.03.2017
+Pàgina 1 de 3

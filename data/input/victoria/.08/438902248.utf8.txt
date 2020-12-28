@@ -1,0 +1,112 @@
+_LOCATION_ Tel. _CONTACT_
+e-mail: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 75 Anys
+NIF/DNI: _ID__NAME_; _NAME_; _NAME_
+Informe d'alta d'hospitalització
+CP	_LOCATION_
+ABS	_SS_
+Servei	NEUROLOGIA
+Data d'alta  08.11.2017	14:00:00
+_LOCATION_
+_CONTACT_; _CONTACT_; _CONTACT_
+AGUTS 25.10.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Disminución del nivel de conciencia.
+
+ANTECEDENTS
+Varón de 75 años, sin alergias medicamentosas conocidas. Exfumador, no enol.
+-	Enfermedad de Parkinson de unos 8 años de evolución de inicio izquierdo. En tratamiento con rasagilina, pramiprexol y levodopa.
+-	Adenocarcinoma de próstata tratado con radioterapia y Bicalutamida en 2010. Libre de enfermedad.
+-	Neurinoma del estatoacústico izquierdo intervenido en 2015, con paresia facial izquierda residual.
+-	EPOC leve en tratamiento broncodilatador ocasional
+
+Independiente para las actividades básicas de la vida diaria. Deterioro  cognitivo en los últimos meses, que requiere supervisión.  Escala de Rankin de 3.
+
+
+MEDICACIÓ HABITUAL
+Stalevo 200 mg 1-1-1 (7-13-17 h), Sinemet Plus Retard a las 21 h, Azilect 1 mg por la mañana, Pramiprexol 0,7 mg por la noche.
+
+PROCÉS ACTUAL
+El 25/10/2017 se despierta a las 07:45h y posteriormente sufre una caída con disminución del nivel de conciencia. Es traído vía SEM llegando a nuestro centro a las 08:20h.
+
+EXPLORACIÓ FÍSICA
+
+Urgencias: GCS 4. No obedece órdenes. Desviación oculocefálica hacia la derecha, pupila izquierda midriática. No reflejo de amenaza. Paresia facial izquierda. Posición de descerebración con las 4 extremidades. Reflejo cutáneo-plantar flexor izquierdo, extensor derecho.
+Planta: Consciente y desorientado. Obedece órdenes. Lenguaje sin elementos afásicos. No trastorno oculomotor ni campimétrico. Paresia facial izquierda con componente superior. No déficit motor ni sensitivo. Bradicinesia bilateral de predominio izquierdo con temblor de acción bilateral asimétrico. No dismetrías. Reflejo cutáneoplantar flexor bilateral.
+
+EXPLORACIÓ COMPLEMENTÀRIA
+Analítica de ingreso:  leucòctis 6100 (FN),Hb 12,9 gr/dl,Htc 38,4%, plaquetes 176000. TP 91%, fibrinogen 454
+mg/dl, TTPA 21 seg. Glucosa 108 mg/dl, urea 40 mg/dl, creatinina 0,9 mg/dl,Sodi 141 mmol/l,potassi 3,8 mmol/l,
+
+Informe d'alta d'hospitalització
+
+
+
+
+prot 61,5 gr/L, calci 8,3 mg/dl, ALT 6U/L, PCR 7 mg/L.
+
+TC craneal/angioTC: Pesario en párpado izquierdo que artefacta de forma importante la exploración. Cambios postmastoidectomía izquierda con interposición de grasa en cisterna del ángulo pontocerebeloso izquierdo secundario a exéresis de meningioma. En la exploración de angio TC no se aprecian estenosis significativas, defectos de repleción, aneurismas o malformaciones valorables.
+
+Resonancia magnética cerebral: No se aprecian evidentes lesiones isquémicas visibles en difusión en parénquima cerebral, especialmente en el tronco encefálico. Tampoco se aprecian evidentes lesiones isquémicas crónicas. Mínimo foco que parece gliótico aunque no permite  descartar edemavasogénico temporal inferior izquierdo, que ya se apreciaba en el estudio previo aunque podría haber aumentado ligeramente. No se aprecian otras imágenes que sugieran edema vasogénico. El sistema ventricular supratentorial que muestra un mínimo aumento de su calibrerespecto al previo, no obstante no se aprecia edema transependimario relevante. Hiperseñal en T2 FLAIR en un surco frontal alto derecho, sin otras ocupaciones de los espacios aracnoideos. No obstante, no se aprecian captaciones anómalas en parénquima, Respecto al estudio previo, las venas oftálmicas superiores parecen haber aumentado ligeramente de calibre, que no permite descartar un componente de aumento de la presión endocraneal. No se aprecian captaciones anómalas parenquimatosas o meníngeas. Cambios quirúrgicos, secundarios a abordaje translaberíntico en fosa posterior izquierda que se hallan estables respecto al previo. Los vasos intracraneales muestran vacío de señal en T2, sugiriendo permeabilidad. Conclusión: No se observan evidentes lesiones isquémicas recientes en tronco, ni  otros hallazgos  que hagan sugerir isquemia aguda o reciente. No se aprecian hallazgos definitivos que hagan sugerir cambios secundarios a crisis repetidas. Mínima ocupación del espacio aracnoideo en un surco frontal derecho de aspecto dudoso, aunque no permitiría descartar ser secundario a meningitis, a valorar en el contexto clínico.
+
+EEG: Se observa un ritmo de base en ritmo alfa a 8 Hz de predominio posteiror, que se alteran con perídoso levemente lentificados en rango theta a 5 Hz generalizado. No se observan paroxismos epileptiformes intercríticos. No se registran crisis subclíncas. No hay signos de status. Conclusión: Registro de base normal sin grafoelementos epielptiformes intercríticos.
+
+EVOLUCIÓ CLÍNICA
+Varón de 75 años que ingresa por disminución brusca del nivel de conciencia. A su llegada a urgencias está hipertenso y afebril. En la exploración neurológica se objetiva una desviación oculocefálica hacia la derecha,  rowing ocular con pupila midriática izquierda paresia facial izquierda y posición de descerebración. Bajo la sospecha inicial de ictus de fosa posterior se realiza TC con angioTC craneal que no muestra lesiones isquémicas ni hemorrágicas agudas, con permeabilidad de grandes vasos. Dado que el inicio de la clínica ocurrió en menos de 4,5 horas, se decide administrar fibrinolisis sistémica (tiempo puerta-aguja de 1 hora y 7 minutos; bolus de 7 mg con perfusión de 60 mg), sin incidencias.
+
+Durante las primeras horas realiza clínica de dificultad respiratoria con desaturación, orientado como probable broncoaspiración, junto con mioclonías proximales con ambas extremidades, por lo que se inicia cobertura antibiótica y levetiracetam. Ingresa en la UCI por inestabilidad hemodinámica, requiriendo intubación orotraqueal. Se realiza RM cerebral que descarta lesiones vasculares, objetivándose captación de contraste meníngea biparietal, por lo que se inicia antibioterapia de amplio espectro y aciclovir; el EEG descarta estatus comicial.
+
+Informe d'alta d'hospitalització
+
+
+
+
+
+Durante la primera noche en UCI, se retira analgesia para realizar evaluación neurológica, objetivando ausencia de focalidad neurológica, por lo que se desintuba. Tras resultados de cultivos y ante la buena evolución neurológica del paciente y la normalidad de la neuroimagen se retira antibioterapia. El paciente presenta una buena mejoría con recuperación ad integrum.  Se orienta el cuadro como posible crisis comicial de etiología indeterminada.
+
+Durante su ingreso en planta, el paciente presenta inicialmente estado confusional que mejora con tratamiento con quetiapina.  Tolera dieta oral y deambulación con supervisión. No ha presentado otras complicaciones médicas.
+
+DIAGNÒSTICS
+-	Crisis comicial. 780.39/2 Crisi comicial
+PROCEDIMENTS
+89.08 Altra consulta
+93.14 Entrenament de moviments articulars
+89.08 Altra consulta
+93.83 Terapèutica ocupacional. Terapèutica d'activitats de la vida quotidiana
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+-	Vimpat 100 mg 1 comprimido por la mañana y otro por la noche
+-	Keppra 500 mg 1 comprimido por la mañana durante 15 días y luego suspender.
+
+Resto de su medicación habitual: Stalevo 200 mg 1-1-1 (7-13-17 h) Sinemet Plus Retard a las 21 h Azilect 1 mg por la mañana Pramiprexol 0,7 mg por la noche.
+
+CONTROL
+Por su médico de cabecera y especialistas habituales.
+
+Se le avisará por carta o por teléfono para acudir a consultas externas de Neurología (Unidad de Epilepsia).
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+
+
+
+
+
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+08.11.2017
+Pàgina 1 de 3

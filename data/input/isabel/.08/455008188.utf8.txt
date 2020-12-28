@@ -1,0 +1,189 @@
+_LOCATION_) Telèfon _SS_  972 _CONTACT_
+Telèfon IDI (Ressonància i TAC) _CONTACT_
+Telèfon ICO _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 81 Anys
+NIF/DNI: _ID__NAME_; _NAME_; _NAME_
+Informe d'alta d'hospitalització
+14:00:00
+03.01.2018
+_LOCATION_
+_SS_ NEUROLOGIA
+ABS
+Servei Data d'alta
+_CONTACT_; _CONTACT_; _CONTACT_
+AGUTS 31.12.2017
+_LOCATION_
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Ictus ACM dreta
+
+ANTECEDENTS
+ANTECEDENTS PERSONALS
+Al·lergia a pegat de Fentanil No hàbits tòxics
+Independent per les ABD, Rankin 0
+
+ANTECEDENTS PATOLÒGICS
+-	FA amb Sintrom
+-	HTA en tractament
+-	Hipotiroidisme en tractament
+-	Hiperuricemia en tractament
+-	En tractament amb Prednisona 10mg/24h per polimialgia reumàtica
+-	Hernia de hiat, diverticulosis
+-	Glaucoma
+-	Anèmia ferropènia en tractament
+-	Depressió en tractament
+-	Bronquitis crònica amb episodis de reagudització segons informe urgències d'_SS_ el 2016
+
+MEDICACIÓ HABITUAL
+Al·lopurinol 100mg/24h,  Atenolol 50mg/24h,  Ebastel forte 20mg/24h,  Espironolactona 25mg/24,  Eutirox 25mcg/24h, Furosemida 40mg/24h, Lactoferrina 40mg/24h, Lorazepam 1mg/24h, Neupro 2mg/24h, Omeprazol 20mg/24h, Paracetamo 1mg/24h, Prednisona 10mg/24h, Sintrom segons pauta. Tradonal retard 150mg/24h
+
+PROCÉS ACTUAL
+Pacient vista per ultim cop asimptomàtic a les 17h del 30/12/2017 i a les 19:30h la familia la troba amb dificultat per vestir-se i desordre al domicili. Activen Codi Ictus des de domicili a _LOCATION_ a les 20:10h, arrivant al nostre centre a les 20:43 hs.
+
+A la seva arribada es objectiva NIHSS de 10. Es realitza TC cerebral que mostra ASPECTS 9, possible trombo vs estenosis M1 dreta, i trombo M2 dreta. En l'analítica destaca INR de 2.4, per lo que no és candidata a tractament fibrinolític. Es contacta amb _SS_ per valorar TEV primari, que accepten.
+
+A la seva arribada, es repeteix el TC cerebral que mostra ASPECTS de 8 amb oclusió M2 dreta. Donada la persitència de la clínica i l'oclusió amb missmatch es decideix TEV primari, explicant a la família el procediment que firmen el consentiment informat.
+En l'imatge basal d'arteriografia s'objectiva una estenosi crítica M1 distal per la que pasa una mica de fluxe com un TICI 1 cap a une de les branques i l'altra està totalment tapada. Es fan tres pases extreient trombo però després del tercer persisteix una oclusió a nivell M1. Es fa quart pase amb el dispositiu CATH, que torna a obrir-se M1 i M2
+
+Informe d'alta d'hospitalització
+
+
+
+
+però hi una mica de trombus a l'altra branca M2, pel que es fa un cinqué i sisé pases persistint finalment oclusió M1 distal. Es posa Nimodipi pel vasoespasme. Però en no aconseguir recanalitzar després de sis pases decidim finalitzar el procediment.
+
+Es trasllada al nostre centre per a ingrés en la unitat d'ictus.
+
+EXPLORACIÓ FÍSICA
+
+TA 147/98, Glicema 103mg/dl AC: arritmica, no bufs
+AR: hipofonesis generatlizada
+Exploració NRL: vigil, orientada. No disartria. Desviacio no forçada a la  dreta, amb hemianopsia homonima esquerre. Hemiparesia esquerre lleu. Anestesia braquial esquerre, extinsio sensitiva hemicos esquerre. Anosognosia sense asomatognosia.
+NIHSS = 00012/11010/02002 = 10
+
+EXPLORACIÓ COMPLEMENTÀRIA
+INR coagu-check 2.4
+Analitica a l'ingrés:
+-	Hemoglobina 12 g/dL, Hematòcrit 38 %, Volum corpuscular mitjà * 104.1 fL, Hemoglobina corpuscular mitja 33 pg, Plaquetes 201 K/mcL, Volum plaquetari mig 10.1 fL, Leucòcits 10.23 K/mcL
+-	INR 2.3
+
+TC de crani inicial: No se observan lesiones hemorrágicas intra o extraaxiales. Signos de infarto hiperagudo en el territorio de la ACM D (ASPECTS 9), con presencia de estenosis significativa/ oclusión focal en segmento M1 prebifurcación y trombo en el segmento M2 proximal.
+TC multimodal _SS_ 23:25h, s'objectiva aspects de 8 a expenses de regions M2 i parcialment M3, estenosi crítica a nivell M1 distal amb oclusió M2. RAPID informa de mismatch significatiu i els mapes fets amb el nostre software també.
+
+TC control 01/01/2017:
+-	Extens infart establert del territori superficial i profund de l'ACM D amb signes de probable evolució maligne.
+-	Milloria respecte estudi previ del component hiperdens de les localitzacions descrites, suggestiu d'HSA
+
+Rx de tórax: elevació hemidiafragma esquerre ja present en radiografies prèvies, no pinçament si costofrènic. Augment de densitat perihiliar dreta.
+Rx de tórax de control: no fractures costals, augment de densitat perihiliar dreta estable respecte prèvies
+
+EVOLUCIÓ CLÍNICA
+Pacient que retorna _SS_ presenta clíncia d'ictus d'ACM dreta establert, amb desviació oculocefálica a la dreta, hemiplegia i hemihipoestesia esquerres.
+Presenta disfagia a líquids pel que precissa espessant. Tolera sedestació.
+
+Informe d'alta d'hospitalització
+
+
+
+
+A nivell neurològic es manté estable. No presenta descompensacions glicèmiques ni de control tensional. Al TC de crani de control s'observa component d'HSA bilateral, pel que s'inicia tractament antiagregant i Enoxaparina profilàctica. Es recomana retardar inici anticoagulació fins el dia 10/01/2017, recomanant-se si estabilitat de clínica neurològica inici d'anticoagulació amb nou anticoagulant degut a ictus amb correcte tractament amb Sintrom.
+Es recomana valorar inici amb Apixaban 5mg/12h.
+
+Com a complicacions durant l'ingrés:
+-	Presenta signes d'insuficiència cardíaca, per lo que s'inicia tractament amb diürètics i broncodilatadors, amb bona resposta
+-	Sospita de broncoaspiració per febricula i lleu desaturació, sense evidència de condensació a la Rx de tòrax. S'inicia Amoxicil·lina/Ac clavulànci 2g/8h el dia 31/12/2017 de manera empírica. A dia 03/01 persisteix lleu febricula de 37.6ºC timpànica, sense haver tingut febricula els dies previs, pendent d'evolució.
+-	Portadora de sonda vesical des del 31/12/2017 per un únic episodi de RAO. Valorar retirada si continua tolerant sedestació.
+-	A més presenta dolor generalitzat sense alteracions hemodinàmiques ni crepitació costal a la palpació, amb radiografia de tòrax de control sense evidència de fractura.
+
+Donada l'estabilitat clínica i hemodinamica, se sol·licita trasllat al seu hospital de referència per continuar tractament mèdic i rehabilitació.
+
+Escales a l'alta:
+- NIHSS = 00022/24030/01012 = 17
+-	Rankin 4
+-	Barthel 0%
+
+ORIENTACIÓ DIAGNÒSTICA
+434.91/5 Ictus ACM dreta de  probable mecanisme embolic i  etiologia cardioembòlica  amb  INR correcte  en tractament amb Sintrom, amb estenosis M1 residual i trombo en M2 dreta
+434.11/2 Infart cerebral amb transformació a hemorràgic
+427.31 Fibril·lació auricular 788.20/1 Retencio aguda orina
+507.0/3 Sobreinfeccio resp per broncoaspiracio
+438.82 Disfàgia
+
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+S'adjunta SILICON.
+
+Valorar reintroduir  anticoagulació amb Apixaban 5mg/12h a partir del 10/01/2018  si pacient estable a  nivell neurològic.
+
+CONTROL
+Trasllat a hospital de referència (_SS_).
+Visita de control a Consultes Externes de Neurovascular el dia 04/04/2018 amb eco-doppler de control (pendent de confirmar cita el mateix dia d'eco-doppler de control)
+
+Informe d'alta d'hospitalització
+
+
+
+
+DESTINACIÓ A L'ALTA:	HOSP. AGUTS/PSQ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+03.01.2018
+Pàgina 1 de 4

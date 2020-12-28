@@ -1,0 +1,98 @@
+_LOCATION_
+email: _CONTACT_ Telèfon _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 58 Anys
+NIF/DNI: _ID_Informe d'alta d'hospitalització
+14:00:00
+08.03.2017
+_LOCATION_
+_SS_ NEUROLOGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_ID_
+DOMICIL/RES.SOC 02.03.2017
+Equipo Dr. _NAME_ (_NAME_, _NAME_, _NAME_)
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Hombre de 58 años que ingresa por TACI ACM izquierda.
+
+ANTECEDENTS
+Sin alergias medicamentosas conocidas Sin hábitos tóxicos
+Sin antecedentes médicoquirúrgicosde interés
+
+MEDICACIÓ HABITUAL
+No refiere
+
+PROCÉS ACTUAL
+El paciente es visto por última vez asintomático a las 05:00 horas del día 02/03/2017. A las 07:00 horas se despierta con debilidad de extremidades derechas, por lo que se avisa a SEM que activa Código Ictus y es trasladado a nuestro centro. Hora de llegada: 07:52 horas.
+
+EXPLORACIÓ FÍSICA
+
+
+PLANTA DE NEUROLOGÍA
+TA 115/73 mmHg, FC 78 lpm, T 36.4ºC
+Buen estado general, hemodinámicamente estable, normohidratado, normocoloreado, bien perfundido Cardiocirculatorio:  TCR, sin soplos ni roces, no IY ni RHY, sin signos de ICC, pulsos periféricos palpables y simétricos.
+Respiratorio: MVC, sin roncus ni sibilancias ni ruidos sobreañadidos.
+Abdomen: blando, depresible, no doloroso a la palpación, no se palpan masas ni megalias, persitaltismo presente, sin signos de peritonismo.
+NRL: Nominación conservada, comprensión con intoxicacion de ordenes complejas (1), Afasia motora leve con bloqueos y parafasias frecuentes (1), PFSN D leve (1), Leve paresia distal ESD (mano) con componente sensitivo, hipoestesia ESD (1). NIHSS: 4
+
+EXPLORACIÓ COMPLEMENTÀRIA
+-Analítica general: Hties 5.32 x10E12/L, Hb 16.2 g/dL, Htc 47.9 %, VCM 90.0 fL, HCM 30.5 pg, CHCM 33.80
+g/dL, ADE 12.7 %, leucocitos 12.02 x10E9/L (CAN 9500, CAL 1700, CAM 800), plaquetas 193 x10E9/L, TQ 89%,
+glucosa 158 mg/dL, urea 36 mg/dL, creatinina 0.88 mg/dL, FG >90 ml/min/1,73 m2, Na 137.4 mmol/L, K 3.23
+mmol/L, Ca 9.4 mg/dL, AST 21 UI/L, ALT 31 UI/L, proteína 7.4 g/dL.
+-TC multimodal (02.03.2017): En el TAC simple realizado no se observan lesiones hemorragicas. Se identifica unicamente nipodensidad cortical en segmento M6 izquierda (region temporo parietal e hiperdensidad tubular en segmento M2 distal de ACM izquierda. En el TAC perfusion realizado se observa lesion en CBV localizada en el
+
+Informe d'alta d'hospitalització
+
+
+
+
+segmento descrito en TC simple con area de alteracion en mapas CBF, MTT y TTP mas amplia en segmentos M2,M3, M4 M5 del terirtorio superficial de ACM izquierda por lo que se observaria mistmach en estos niveles. En el angio tac realizado se observa a nivel intracraneal oclison distal en rama M2, rama inferior de division posterior y otro defecto menos evidente porque la rama es mas fina, en la rama superior de dicha division posterior. Se observa ademas a nivel de carotida interna cervical bucle con disminucion focal de la luz de morfologia concentrica y posteriormente ya hacia segmento extracraneal mas distal disminucion de calibre y de densidad de contraste con luz permeable muy estrecha hasta inicio de segmento petroso; la lesion proximal se identifica bien en plano coronal sobre el bucle y la estenosis mas distal en plano sagital. Estos hallazgos sugieren por tanto diseccion de carotida interna extracraneal que parece finalizar en segmento petroso, con permeabilidad distal y con defectos de permeabilidad distales al menos en dos ramas de division posterior.
+-Trombectomía mecánica (02.03.2017): Signos de disección del segmento cervical de ACI I, suboclusivo y con importante carga de trombo. El segmento cervical afectado por la disección es tortuso. A nivel intracraneal se identifican varias embolias distales, principalmente en la división posterio, una de ellas se encuentra en rama angular a nivel M2 distal, sobre la cual se intenta realizar trombectomía sin éxito (1 pase). Intentamos realizar stenting de segmento afecto de la ACI I cervical; no obstante por la toruosidad de la misma no es posible. Suspendemos procedimiento. No hay complicaciones. Conclusión: Disección ACI I cervical. Embolias distales a ACM izquierda, principalmente división posterior. Trombectomíaen rama angular izquierda sin éxito.
+-TC craneal (02.03.2017): Ocupación hiperdensa de los espacios subaracnoideos en la convexidad izquierda en región fronto-temporal y en particular en cisura silviana, en relación a minima HSA. Se observa mayor extensión de la hipodensidad corticosubcortical en region temporo parietal, en relación a infarto establecido que afecta parcialmente el territorio de vascularización superficial de la rama posterior de la ACM izquierda, con minima tenue hiperdensidad cortical adyacente sugestivo de estar en relación a contraste retenido de estudio angiográfico previo. Parénquima cerebral y fosa posterior sin alteraciones valorables. No se observan desplazamientos de las estructuras de línea media supra e infratentoriales. Sistema ventricular  de situación, morfología y tamaño normales. Cisternas basales y peritronculares libres. Charnela occípito-cervical sin alteraciones valorables. Conclusión: Ocupación hiperdensa de los espacios subaracnoideos en la convexidad de predominio fronto-temporal izquierdo y en particular en cisura silviana en relación a minima HSA. Lesión isquémica subaguda en territorio de vascularización superficial de rama posterior de ACM izquierda, con minima tenue hiperdensidad cortical adyacente sugestivo de estar en relación a contraste retenido de estudio angiográfico previo.
+-TC de control (03.03.2017): Persiste hiperdensidad hemorragica ocupando limite posterior y superior del valle silviano, hemorragia subaracnoidea focal. No se visualiza hiperdensidad en los margenes de la lesion isquemica temporo parietal izquierda por lo que no hay signos de transformacion hemorragica de dicha lesión.
+-TC de control (08.03.2017): Pendiente de informe definitivo. Persiste foco de HSA.
+-Ecografía Doppler-dúplex color de arterias carótidas, vertebrales y transcraneal (02.03.2017): Se visualiza imagen a nivel de bulbo carotideo izquierdo que en contexto de paciente podría corresponder a inicio de falsa luz objetivada en arteriografía, si bien no se ve continuidad a lo largo de ACI I extracraneal, la cual es permeable y con flujo de características normales. ACMs simétricas (a 55 mm: ACM I VPS 81.1 cm/s, IP 0.64; ACM D VPS 73.5 cm/s, IP 0.90). Resto del estudio transtemporal y suboccipital sin detectarse alteraciones).
+-Ecografía Doppler-dúplex color de arterias carótidas, vertebrales y transcraneal (03.03.2017): Se visualiza imagen a nivel de bulbo carotideo izquierdo que en contexto de paciente podría corresponder a inicio de falsa luz objetivada en arteriografía, si bien no se ve continuidad a lo largo de ACI I extracraneal, la cual es permeable y con flujo de características normales. ACMs simétricas (a 55 mm: ACM I VPS 81.1 cm/s, IP 0.64; ACM D VPS 73.5 cm/s, IP 0.90). Resto del estudio transtemporal y suboccipital sin detectarse alteraciones.
+
+Informe d'alta d'hospitalització
+
+
+
+EVOLUCIÓ CLÍNICA
+Paciente varón de 58 años que ingresa en la Unidad de ictus por clínica de TACI ACM izquierda (NIHSS 16) indeterminado con ASPECTS 10/10, oclusión en tandem ACI Izq y M2. Se admistra rtpa y se procede a rescate intraarterial que muestra signos de disección del segmento cervical de ACI I, suboclusivo y con importante carga de trombo, con trayecto cervical muy tortuoso que impide finalmente la colocación de stent, a nivel intracraneal se identifican varias embolias distales, principalmente en la división posterior, una de ellas se encuentra en rama angular a nivel M2 distal, sobre la cual se intenta realizar trombectomía con TICI 2a. Tras procedimiento mejoría clínica de NIHSS 16 a 8 y se incluye en estudio ACTION 2.
+Se realiza un TC craneal a las 6 horas aproximadamente para valoración de lesión y descartar complicaciones agudas de cara a inicio de anticoagulación por la presencia de trombo fresco carotídeo post rtpa. En el TC se observa lesión isquémica subaguda en territorio de vascularización superficial de rama posterior de ACM  izquierda, con mínima ténue hiperdensidad cortical adyacente sugestivo de estar en relación a contraste junto con hiperdensidad de los espacios subaracnoideos en la convexidad de predominio fronto-temporal izquierdo y en particular en cisura silviana en relación a minima HSA. Asi mismo, se realiza ECO doppler TSA/TC que muestra imagen a nivel de bulbo carotideo izquierdo que en contexto de paciente podría corresponder a inicio de falsa luz objetivada en arteriografía, si bien no se ve continuidad a lo largo de ACI I extracraneal, la cual es permeable y con flujo de características normales y asimetría de ACMs que sugiere oclusión distal de ACM I. A las 24 horas nuevo TC craneal sin cambios significativos si bien el Doppler de control muestra permeabilidad de ACI I así como simetría de ambas ACMs en contexto de probable recanalización, por todo ello se decide no anticoagular. Dada la importante mejoría clínica y lasituación de estabilidad se decide traslado a planta de neurología para continuidad de cuidados.
+A su llegada a planta hemodinámicamente estable, afebril y con correctas saturaciones a aire ambiente. NIHSS 4+1, tolerando dieta oral y deambulación. Durante su estancia en planta el paciente ha permanecido estable clínicamente con NIHSS 3+1 a expensas de afasia motora leve, paresia e hipoestesia leve de extremidad superior derecha. Se han realizado TC seriados de control en los que persiste foco de HSA por lo que se mantiene si antiagregación pendiente de realizar nueva exploración de manera abulatoria. mRS 2.
+
+DIAGNÒSTICS
+Infarto en territorio de ACM izquierda por disección ACI cervical y oclusión M2. Hemorragia subaracnoidea.
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Enalapril 5mg cada 24 horas. Atorvastatina 80mg cada 24 horas.
+
+Paciente incluido dentro del estudo ACTION 2
+
+CONTROL
+Será citado por vía postal para acudir a realizar TC de control, cuando se realice acudir a Unidad de Ictus (2ª planta).
+Acudir el día 26 de octubre de 2017 a las 09:30 horas a consultas externas de Ictus (3ª planta edificio anexo).
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+08.03.2017
+Pàgina 1 de 3

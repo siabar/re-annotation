@@ -1,0 +1,121 @@
+T1	FECHA 233 243	06.11.2017
+#1	AnnotatorNotes T1	2017-11-06
+T2	HORA 246 251	17:15
+#2	AnnotatorNotes T2	17:15
+T3	FECHA 295 305	05.11.2017
+#3	AnnotatorNotes T3	2017-11-05
+T4	HORA 308 313	03:07
+#4	AnnotatorNotes T4	03:07
+T6	_SUG_Ictus_isquemico 397 412	Ictus isquémico
+T7	_SUG_Arteria_afectada 413 416	ACM
+T8	_SUG_Lateralizacion 417 418	D
+T9	FECHA 690 694	2003
+#9	AnnotatorNotes T9	2003-UNDEF-month-UNDEF-day
+T10	FECHA 824 828	2008
+#10	AnnotatorNotes T10	2008-UNDEF-month-UNDEF-day
+T11	_SUG_Lateralizacion 913 914	e
+T12	FECHA 948 952	2013
+#12	AnnotatorNotes T12	2013-UNDEF-month-UNDEF-day
+T14	FECHA 1818 1833	octubre de 2017
+#14	AnnotatorNotes T14	2017-10-UNDEF-day
+T16	_SUG_Tratamiento_antiagregante 1917 1922	ADIRO
+T17	FECHA 2572 2582	13.02.2013
+#17	AnnotatorNotes T17	2013-02-13
+T18	_SUG_Lateralizacion 2614 2622	ESQUERRE
+T19	FECHA 2743 2753	20/10/2017
+#19	AnnotatorNotes T19	2017-10-20
+T20	_SUG_Ictus_isquemico 2774 2779	ictus
+T21	FECHA 2783 2788	06.11
+#21	AnnotatorNotes T21	2017-11-06
+T22	HORA 2927 2932	00.30
+#22	AnnotatorNotes T22	00:30
+T23	HORA 2999 3003	3.00
+#23	AnnotatorNotes T23	03:00
+T24	_SUG_Ictus_isquemico 3160 3165	ictus
+T25	HORA 3183 3187	3.10
+#25	AnnotatorNotes T25	03:10
+T26	_SUG_Lateralizacion 3444 3448	izda
+T27	_SUG_Lateralizacion 3502 3511	izquierda
+T28	_SUG_Lateralizacion 3604 3613	bilateral
+T29	_SUG_NIHSS 3615 3622	NIHSS 4
+T30	_SUG_TAC_craneal 3659 3661	TC
+T31	HORA 3663 3667	3.25
+#31	AnnotatorNotes T31	03:25
+T33	_SUG_TAC_craneal 3671 3681	TC craneal
+T34	_SUG_Ictus_isquemico 3772 3780	infartos
+T35	_SUG_Localizacion 3805 3813	profundo
+T36	_SUG_Lateralizacion 3817 3822	ambas
+T37	_SUG_Trombolisis_intravenosa 3908 3933	tratamiento fibrinolítico
+T38	_SUG_NIHSS 3944 3949	NIHSS
+T39	_SUG_Lateralizacion 3950 3951	e
+T40	_SUG_Ictus_isquemico 4015 4020	ictus
+T41	_SUG_Lateralizacion 4306 4315	izquierda
+T42	_SUG_Lateralizacion 4373 4376	Izq
+T43	_SUG_Lateralizacion 4524 4529	ambos
+T44	_SUG_Lateralizacion 4553 4562	bilateral
+T46	_SUG_TAC_craneal 4637 4647	TC craneal
+T47	FECHA 4648 4655	6/11/17
+#47	AnnotatorNotes T47	2017-11-06
+T48	_SUG_Localizacion 4736 4745	profundos
+T49	_SUG_Localizacion 4848 4862	corona radiada
+T50	_SUG_Lateralizacion 4879 4880	D
+T52	_SUG_TAC_craneal 4884 4894	TC craneal
+T53	FECHA 4895 4900	07/11
+#53	AnnotatorNotes T53	2017-11-07
+T54	_SUG_TAC_craneal 4940 4942	TC
+T55	FECHA 4947 4957	05/11/2017
+#55	AnnotatorNotes T55	2017-11-05
+T56	_SUG_Localizacion 5092 5101	posterior
+T57	_SUG_Lateralizacion 5124 5125	D
+T58	FECHA 5196 5203	5/11/17
+#58	AnnotatorNotes T58	2017-11-05
+T59	FECHA 5335 5342	7/11/17
+#59	AnnotatorNotes T59	2017-11-07
+T60	_SUG_Lateralizacion 5665 5670	ambos
+T61	_SUG_Lateralizacion 5732 5737	Ambas
+T62	_SUG_TAC_craneal 5791 5793	TC
+T63	_SUG_Lateralizacion 5806 5811	ambas
+T64	_SUG_Arteria_afectada 5812 5815	ACA
+T65	_SUG_Arteria_afectada 5817 5820	ACM
+T66	_SUG_Arteria_afectada 5823 5826	ACP
+T67	_SUG_Arteria_afectada 5878 5895	Arteria vertebral
+T68	_SUG_Localizacion 5942 5952	Ventrículo
+T69	_SUG_Lateralizacion 5953 5962	izquierdo
+T70	_SUG_Lateralizacion 6211 6220	izquierda
+T71	_SUG_Lateralizacion 6421 6429	derechas
+T72	_SUG_Lateralizacion 6467 6468	e
+T73	_SUG_Lateralizacion 6818 6823	dieta
+T74	_SUG_TAC_craneal 6935 6937	TC
+T75	_SUG_Ictus_isquemico 6952 6959	infarto
+T76	_SUG_Lateralizacion 6979 6986	derecha
+T77	_SUG_Etiologia 7000 7007	lacunar
+T78	_SUG_Localizacion 7000 7007	lacunar
+T79	_SUG_Etiologia 7087 7099	ateromatosis
+T80	_SUG_Arteria_afectada 7101 7110	carotídea
+T81	_SUG_Ictus_isquemico 7324 7329	ictus
+T82	_SUG_Etiologia 7330 7337	lacunar
+T83	_SUG_Localizacion 7330 7337	lacunar
+T84	_SUG_mRankin 7498 7505	mRS = 4
+T85	_SUG_NIHSS 7508 7517	NIHSS = 5
+T87	_SUG_Ictus_isquemico 7535 7551	Infarto cerebral
+T88	_SUG_Lateralizacion 7571 7578	derecha
+T89	_SUG_Etiologia 7601 7608	lacunar
+T90	_SUG_Localizacion 7601 7608	lacunar
+T92	_SUG_Ictus_isquemico 7652 7666	icts isuqémico
+T93	_SUG_Tratamiento_anticoagulante 7816 7826	Bemiparina
+T94	FECHA 8414 8424	14.11.2017
+#94	AnnotatorNotes T94	2017-11-14
+T95	FECHA 8501 8511	14.11.2017
+#95	AnnotatorNotes T95	2017-11-14
+T96	SECCION_MOTIVO_DE_INGRESO 381 395	Motivo Ingreso
+T97	SECCION_ANTECEDENTES 421 433	ANTECEDENTES
+T98	SECCION_TRATAMIENTO_HABITUAL 1896 1916	Tratamiento habitual
+T99	SECCION_SITUACION_FUNCIONAL 2341 2355	Sociofuncional
+T100	SECCION_ANTECEDENTES_QUIRURGICOS 2548 2571	Antecedents quirúrgicos
+T101	SECCION_PROCESO_ACTUAL 2625 2642	ENFERMEDAD ACTUAL
+T102	SECCION_EXPLORACION_FISICA 4103 4121	EXPLORACIÓN FÍSICA
+T103	SECCION_EXPLORACIONES_COMPLEMENTARIAS 4605 4634	EXPLORACIONES COMPLEMENTARIAS
+T104	SECCION_EVOLUCION 6645 6654	EVOLUCIÓN
+T105	SECCION_DIAGNOSTICOS 7521 7532	DIAGNÓTICOS
+T106	SECCION_RECOMENDACIONES 7712 7727	RECOMENDACIONES
+T107	SECCION_CONTROL 8147 8156	Controles

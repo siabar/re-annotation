@@ -1,0 +1,194 @@
+
+
+
+
+
+Informe d'Alta Hospitalària	Cognoms i nom:
+_NAME_	NHC:
+_ID_
+	ABS:
+_SS_	CIP:
+_ID_	DNI:
+_ID_
+	Data de naixement:
+_DATE_	Sexe:
+Home	Edat:
+72a	Telèfon:
+_CONTACT_
+	Finançament:
+CatSalut - _LOCATION_	Procedència:
+URGÈNCIES
+	Admissió:
+17.07.2017 - 15:02	Servei:
+NEURO - UNITAT ICTUS HOSP	Data entrada urg.:
+17.07.2017 - 10:02
+Adreça:
+_LOCATION_	Població:
+_LOCATION_	Codi Postal:
+_LOCATION_
+
+
+
+MOTIVO DE INGRESO
+Varón de 72 años que ingresa por ictus isquémico.
+
+
+ANTECEDENTES
+-	Sin alergias medicamentosas conocidas.
+-	Hábitos tóxicos: Fumador de 1 paquete al día desde los 18 años. No enol ni otras drogas.
+-	FRCV: Hipertensión  en tratamiento médico hasta hace 1 año. Mal control tensional. Niega diabetes o dislipemia.
+-	Hernioplastia inguinal.
+-	Situación sociofuncional: Vive con su esposa. Independiente para las actividades básicas e instrumentales de la vida diaria. Deambula sin ayuda. Quejas subjetivas de memoria no estudiadas. mRS: 0
+-	Tratamiento habitual: No refiere.
+
+
+ENFEREMEDAD ACTUAL
+Hombre de 72 años, fumador e hipertenso, mRS: 0.
+La madrugada del 17/07 se despierta a las 5h para orinar y detecta debilidad braquio-crural derecha y parestesias en ESD. Niega cefaleas u otras clínica acompañante.
+Su esposa refiere que sobre las 2h se despertó para ir al lavabo estando asintomático.
+Por persistencia de la clínica consultan al _SS_ a las 7:55h desde donde derivan a nuestro centro como código ictus extrahospitalario.
+Llega a urgencias el 17/07 a las 10h.
+
+
+EXPLORACIÓN FÍSICA
+- En Urgencias:
+-Constantes en Urgencias: TA 194/104mmHg, FC 55 lpm, FR 16 rpm, SatO2 97%, T 35,7 º, INR 1.1 por coagucheck , glicemia 101mg/dl.
+Global: ACV: Tonos cardíacos apagados rítmicos normofrecuentes. EEII sin edemas ni signos de TVP. Exploración neurológica:
+-Vigil, desorientado en espacio y tiempo. Falla la edad.
+-Disartria leve.
+-Nomina 4/6, repite, obedece órdenes complejas.
+-Campimetría por confrontación normal.
+-PICNR, MOEs correctos.
+-Trigémino sensitivo-motor normal.
+-Paresia facial central derecha leve.
+
+-Pares craneales bajos sin alteraciones.
+-Hemiparesia braquio-crural 4+/5. Miller-Fisher derecha
+-Sensibilidad táctil conservada.
+-Sin dismetrías.
+-Sin negligencia o extinción.
+-RCP flexor bilateral.
+NIHSS: 0.2.0.0.0 / 1.(0.0).(0.0) / 0.0.1.1.0 = 5
+
+
+- Al ingreso en la Unidad de Ictus (18/07/17)
+El paciente no refiere quejas. Diüresis correctas.
+Hemodinámicamente estable con tendencia a la hipertensión y afebril. Constantes: TA 189/87, FC 56x, Sat 98% al aire, Tª 35,5.
+-	Telemetría: RS sin eventos arrítmicos.
+-	Exp neurológica:
+-Vigil, desorientado en espacio.
+-Disartria leve.
+-Nomina, repite, obedece órdenes complejas. Algunos fallos mnésicos.
+-Campimetría por confrontación normal.
+-PICNR, MOEs correctos.
+-Trigémino sensitivo-motor normal.
+-Paresia facial central derecha leve.
+-Pares craneales bajos sin alteraciones.
+-Hemiparesia ESD proximal(3/5) y distal (4+/5). Miller-Fisher derecho.
+- Sesibilidad conservada
+-Sin dismetrías.
+-Sin negligencia o extinción.
+-RCP flexor bilateral.
+NIHSS: 0.0.0.0.0 / 1.(1.0).(0.0) / 0.0.0.1.0 = 3
+
+Al alta: conciente, orientado, focalidad motora recuperada salvo minima paresia facial derecha. NIHSS=1.
+
+
+
+EXPLORACIONES COMPLEMENTARIAS
+-	ECG: RS, FC normal, QRS estrecho con hipertrofia ventricular izquierda.
+-	Rx   tórax:   no  se   obervan   condensaciones   parenquimatosas  ni   ensanchamientos  hiliares.  Senos costofrénicos libres. ICT <0,5.
+-	Analítica de urgencias: sin alteraciones significativas.
+-	Analítica de estudio etiológico: Ionograma y función renal normales, Bilirubina total de 24 (conjugada de 9), sin alteraciones destacables en hemograma o coagulación. TSH en rango. HbA1C de 5,6%.
+Analítica con marcadores tumorales: CEA 1,4 µg/L, CA 19.9 6,7 kUI/L, CA 125 5,3 kUI/L, PSA 0,87 µg/L,
+CYFRA 21.1 4,6 µg/L, Dímer D 400 µg/L.
+
+-	TAC/ angio-TC/ TAC perfusión: extensa leucoaraiosis. Lacunares crónicos en ganglios basales. Probable lacunar subagudo/crónico cápsulo-talámico izquierdo. En el angio-TC no se aprecia oclusión de grandes vasos intra/extracraneales Se realiza estudio de perfusión/permeabilidad sin observarse zonas de isquemia establecida o penumbra. Impresión diagnóstica global:  No se observan lesiones isquémicas agudas u oclusiones vasculares.
+-	TC cerebral sin control: Contusión en las partes blandas perirobitarias izquierdas sin imagen de fractura y sin lesiones hemorrágicas intracraneales. Signos de microangiopatíacon avanzada leucoaraiosis e infartos lacunares crónicos múltiples.
+-	RMN cerebral: Pequeña lesión isquémica reciente fronto-parietal izquierda, sin clara afectación cortical, en el territorio profundo de la ACM izquierda. No se observa efecto de masa o signos de transformación hemorrágica. Focos de microsangrado parenquimatosos supratentoriales bilaterales. Sistema ventricular de tamaño y morfología normal. Pequeño hematoma de partes blandas periorbitario izquierdo, ya descrito en TC realizado en la misma fecha. Extensa hipodensidad de la sustancia blanca periventricular y subcortical indicando cambios hipóxicos-isquémicos crónicos en relación a microangiopatía. Lacunares crónicos bilaterales en tálamos ganglios basales, además de aumento de los espacios perivasculares. Ausencia de vacío de señal T2 en el seno sigmoideo izquierdo, que comparativamente con el angioTC del 17/07/2017 sugiere trombosis parcial del seno. En el estudio angiográfico no se observan alteraciones arteriales.
+-	Conclusión: Pequeña lesión isquémica reciente sin clara afectación cortical en el territorio de la ACM izquierda. Signos sugestivas de trombosis parcial del seno sigmoides izquierdo.
+-	Estudio neuropsicológico:
+Estado mental mínimo de Folstein (MMSE): 17 Deterioro (-1 pto. orientación temporal, -2 pto. orientación espacial, -3 pto. memoria inmediata, -4 pto. atención cálculo, -1 pto. memoria diferida, -1 pto. escritura, -1 pto. dibujo).
+Memoria
+Memoria remota: 1/5 alterado para fechas y nombres Memoria verbal de fijación (AVLT): 0,3,0,0,1 muy alterado Memoria de retención a largo plazo: 0 muy alterado Lenguaje y funciones instrumentales
+Denominación (BNT): 26/60 Normal Praxis
+Praxis constructivas (Reloj): 0/4 Muy alterado Gnosis visuales
+Reloj:  0/4 Alterado
+Poppelreuter: 8/10 Ligera alteración Funciones frontales
+Fluencia fonética con consigna: 1 Muy alterado Fluencia semántica con consigna: 7 Límite
+CONCLUSIÓN: La exploración neuropsicológica realizada muestra:
+.-déficit atencional caracterizado por dificultades en mantener la actividad cognitiva e inatención.
+.-alteración de las funciones mnésicas de forma generalizada.
+.-manifestaciones afásicas caracterizadas por dificultades de comprensión verbal.
+.-alteraciones visuoespaciales-visuococnstructivas-visuoperceptivas.
+
+
+.-alteración de las funciones frontales caracterizadas por enlentecmiento cognitivo y reducción de la fluencia.
+Alteraciones córtico-subcorticales compatible con deterioro cognitivo moderado-grave.
+-	Telemetría: ritmo sinusal sin eventos arrítmicos.
+
+
+EVOLUCIÓN
+Se realiza TC craneal que no muestra lesiones agudas, el angioTC no evidencia oclusiones de gran vaso.
+El TC de perfusión es normal.
+Por presentar TAS >190mmHg se administra labetalol 10mg con TA posterior 171/96mmHg.
+Se decide ingreso en Unidad de Ictus, donde el paciente se mantiene hemodinámicamente estable con tendencia a la hipertensión y afebril. Neurológicamente mejora, pasando de un NIHSS 5 a 3, persistiendo una leve disartria, una asimetría facial derecha y hemiparesia de ESD. Se realiza test de disfagia a las 24horas que el paciente supera sin problemas, retirando sueros e iniciando dieta oral que tolera correctamente.
+Durante el ingreso presenta sindrome confusional con irritabilidad y agresividad que ha requerido quetiapina por las noches.
+Por retención aguda de orina precisó sondaje vesical durante los primeros días de ingreso. Ha recibido tratamiento sustitutivo con parches de nicotina.
+Dados los antecedentes de trastornos mnésicos y las  alteraciones detectadas durante su ingreso, se solicita estudio neuropsicológico que es compatible con deterioro cognitivo moderado/importante córtico-subcortical.
+Se solicita analítica completa de estudio, RMN cerebral e interconsulta a rehabilitación. En conjunto, los resultados confirman la sospecha de ictus y se orienta de mecanismo y etiología lacunar por enfermedad de pequeño vaso hipertensiva. El paciente realiza rehabilitación, mejorando hasta una NIHSS de 0 y pudiendo andar de forma autónoma. Como hallazgo incidental, en la RM  cerebral se observa trombosis del seno sigmoideo izquierdo, por lo que se solicita PET-TC ambulatorio dado que existe la posibilidad de un estado procoagulante en relación a neoplasia. No se observan alteraciones en placa de tórax, ni en tacto rectal ni en marcadores tumorales.
+Dada la estabilidad clínica del paciente, se decide dar el alta con las recomendaciones y visitas especificadas.
+Al alta NIHSS de 1, mRS de 2.
+
+
+PROCEDIMIENTOS
+-	ECG
+-	Analítica
+-	Rx tórax
+-	TAC/ angio-TC/ TC-perfusión.
+-	RMN cerebral
+-	Telemetría
+
+
+DIAGNÓSTICOS
+-Infarto lacunar en cápsula interna izquierda por enfermedad de pequeño vaso hipertensivo.
+- Trombosis venosa cerebral del seno sigmoideo izquierdo de cronología incierta.
+-HTA mal controlada.
+-Deterioro cognitivo moderado-grave.
+-Probable HBP. Retención aguda de orina
+-Síndrome confusional
+
+
+RECOMENDACIONES AL ALTA
+-	AAS 300 mg/día a las 8 horas de la mañana.
+-	Atorvastatina 80 mg/día a las 20 horas de la noche.
+-Tamsulosina 0.4mg cada 24 horas.
+-Enalapril 5mg cada 12 horas
+
+Recomendaciones generales
+1.	Tratamiento de la hipertensión arterial, manteniendo cifras por debajo de 140/90; en caso de ser diabético, cifras por debajo de 130/85.
+2.	Abandono completo del hábito tabáquico.
+3.	Control y tratamiento de las enfermedades cardiacas (cardiopatía isquémica, insuficiencia cardiaca, arritmias y valvulopatías).
+4.	Evitar consumo excesivo de alcohol (se permite una o dos bebidas al día).
+5.	Vigilancia y tratamiento del perfil lipídico:
+Dieta pobre en grasas, actividad física apropiada.
+Tratamiento farmacológico si precisa para mantener niveles de LDL<100mg/dl.
+6.	Control de la glucemia, que debe ser <126mg/dl en ayunas, con dieta, antidiabéticos orales o insulina si precisa.
+7.	Realizar actividad física, 30 a 60 minutos, de tres a cuatro veces a la semana.
+8.	Continuar el tratamiento antiagregante o anticoagulante a las dosis recomendadas, siguiendo los controles necesarios.
+
+Acudir para realización de PET-TC ambulatorio y visita posterior con Dr. _NAME_ (neurología). Acudir a primera visita con Neurología (Unidad de memoria).
+
+
+
+Responsable clínic: Dr. _NAME_ (NºCol. _ID_)
+Equip mèdic: _NAME_ (NºCol. _ID_), Dr. _NAME_ (NºCol. _ID_)
+
+Servei que ha donat d'alta:
+NEURO - UNITAT ICTUS HOSP	Data d'alta:
+25.07.2017	Nom del metge que informa de l'alta:
+Dr. _NAME_ (NºCol. _ID_)
+
+
+_LOCATION_, 25.07.2017
+Pàg. 1 de   6

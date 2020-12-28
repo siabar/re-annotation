@@ -1,0 +1,148 @@
+_LOCATION_) Telèfon _SS_  972 _CONTACT_
+Telèfon IDI (Ressonància i TAC) _CONTACT_
+Telèfon ICO _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 74 Anys
+NIF/DNI: _ID__NAME_; _NAME_
+Informe d'alta d'hospitalització
+09:00:00
+06.09.2017
+_LOCATION_
+_SS_ NEUROLOGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_; _CONTACT_; _CONTACT_
+AGUTS 31.08.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Ictus isquémico vertebro basilar.
+
+ANTECEDENTS
+ANTECEDENTES PERSONALES
+-No alergias medicamentosas conocidas
+-No hábitos tóxicos
+-Independiente para Actividades básica de la vida diaria. mRs 0
+
+ANTECEDENTES PATOLÓGICOS:
+-Hipertensión arterial en tratamiento farmacológico
+-No diabetes Mellitus, No dislipemia
+-No antecedentes personales de cardiopatía isquémica ni de patología cerebrovascular
+-Hipotiroidismo subclínico, no recibe tratamiento sustitutivo
+-Bloqueo de rama derecha del Haz de His.
+-Hiperplasia  benigna de prostata: Ha tenido PSA de 8,4, se ha practicado biopsias, no tenemos resultados. Actualmente sin tratamiento farmacológico
+-No otros antecedentes personales ni IQx
+
+MEDICACIÓ HABITUAL
+-Bisoprolol 2.5 mg/24hrs
+-Omeprazol 20mg/24hrs
+
+
+PROCÉS ACTUAL
+Paciente de 74 años, que 28/08/2017 por la mañana se encontraba desorientado (según refiere familia), realizando posteriormente actividades habituales de vida diaria (ha salido a calle solo, ha preparado la comida), posteriormente comienza a las 20.00 horas aproximadamente con cuadro de afasia, deficit motor hemicuerpo derecho, motivo por el que acuden a _SS_, donde se objetiva crisis hipertensiva y clínica descrita, por lo que se comenta caso con Neurología de guardia y se decide traslado a nuestro centro. Paciente presenta disminución progresiva de nivel de consciencia hasta GSC de 10, por lo que se contacta con SEM avanzado, y se procede a IOT y se traslada a nuestro centro. Llegada a nuestro centro a las 23.29 horas, es atendido inmediatamente por Neurología de Guardia y doctores de Urgencias.
+
+Se objetiva paciente bajo sedación (midazolam+mórfico), pupilas isóricas, puntiformes, escasamente reactivas, ROT abolidos, corneal y tusígeno preservado. RCP extensor derecho, flexor izquierdo. Se realiza TC multimodal, que muestra trombo distal de 1 cm en arteria basilar, con repermeabilización de top de basilar por ACP.
+
+Se orienta caso como ictus isquémico de territorio vertebro-basilar, ante paciente dentro de ventana temporal (inicio a las 20.00 horas) se realiza tratamiento fibrinolítico (Dosis total 54mg, bolus de 5.4 mg administrado a las
+00.28 horas), perfusión cursa sin incidencias. Se contacta con centro de referencia (_SS_), que acepta a
+
+Informe d'alta d'hospitalització
+
+
+
+
+paciente y se procede a traslado.
+
+En dicho centro, se realiza RMN que muestra lesión isquémica establecida en territorio de ambas ACPs, arterias cerebelosas superiores bilaterales y PICA izquierda, con estenosis preoculusiba tercio medio arteria basilar. Se descarta realización de trombectomía mecánica por reperfusión e infarto establecido y se decide traslado a nuestro centro para comenzar rehabilitación y gestión sociosanitaria.
+
+EXPLORACIÓ FÍSICA
+
+FC	65 bpm
+Tªaxi 35.4 ºC
+FR	rpm Tªrec  ºC
+TA s	160 mmHg SAT O2 99 %
+TA d   95 mmHg Pes Kg
+
+EXPLORACIÓN AL INGRESO:
+NRL: somnolent. Desorientat en 3 esferes. Disartria moderada/severa. Obeeix ordres simples, nomina parts del cos i de l'habitació. Probable amaurosis bilateral per absència de reflexe d'amenaça bilateral. Moviltiza les 4 extremitats, no dèficit motor per maniobra de Mingazzini ni Barré. Nega dèficit sensitiu. RCP extensor esquerra. RMPS 3/4 a EII, 2/4 EESS, amb clonus aquili inesgotable. No Hoffmann. Sd Anton.
+NIHSS 12003/00000/00020: 8
+
+
+
+EXPLORACIÓ COMPLEMENTÀRIA
+-AS (ingreso): sin alteraciones relevantes.
+
+-ECG: Ritmo sinusal, sin alteraciones de ritmo ni de repolarización.
+
+-Telemetria: Sin arritmias embolígenas
+
+-Estudio Doppler: Hago estudio Doppler:
+DTSA: Se objetivan placas ateromatosas hiperdensas difusas en el recorrido de ambas ACCs. No objetivo alteraciones en flujo de ACIs ni ACEs. AVs muestra menor flujo a nivel de AVD (VSM mayor I que D)
+DTC : Destaca flujo con retraso del pico sistólico e ambas ACPs(VSM de 40cm/seg). Observo top de la basilar antes de llegar a este punto observo flujo turbulenteo , VSM de 40CM seg. A la ventana suboccpital muestra AB con flujo turbulento a nivel de AB VSM DE 120.
+
+PRUEBAS DE IMAGEN:
+
+-TC multimodal (ingreso): Troballes en relació amb infarts isquèmics aguts/subaguts a nivell occipital parasagital bilateral i del hemisferi cerebel·lós esquerre, corresponent als territoris vasculars de les ACP i PICA respectivament. Presència de trombe d'un cm a nivell del terçmig de l'artèria basilar amb correcte permeabilitat posterior de les ACP. Infarts llacunars crònics càpsulo-ganglionars bilaterals i talàmic esquerre.
+
+
+-RMN (_SS_): Estudio craneal que muestra lesiones isquémicas agudas establecidas afectando territorio vascular superficial de ambas ACPs, territorio vascular de las arterias cerebelosas superiores bilaterales y Pica izquierda. Con estenosis preoclusiva del tercio medio de la arteria basilar.
+
+Informe d'alta d'hospitalització
+
+
+
+
+
+
+
+EVOLUCIÓ CLÍNICA
+Paciente ingresa en Unidad de Ictus bajo cuidados semi-intensivos con laorientacion diagnóstica de ictus isquémico vertebro basilar de etiologia en estudio.
+
+A su llegada el paciente se encuentra hemodinámicamente estable y afebril. En ECG inicial se objetiva ritmo sinusal, posteriormente durante registro ECG se objetiva arritmia sinusal multifocal (se confirma orientación Dx con servicio de Cardiología), no se objetivan arritmias potencialmente cardioembolígenas.
+
+A nivel neurológico, paciente se encuentra vigil, con ceguera cortical bilateral. Estimulando con linterna vemos que el paciente puede distinguir entre luz y sombra con ambos ojos. No observamos otros deficits aparentes.
+Ante estabilidad clínica, se contacta con _SS_, para traslado. Escalas al alta:
+-NIHSS: 7
+-mRs: 5
+-Barthel : 0
+
+
+DIAGNÒSTICS
+436/5	Infarto vertebrobasilar (oclusión art. basilar), criptogénico.
+Tratamiento trombolítico con rtPA. 401.9/4 Hipertensió arterial inespecificada
+TRACTAMENT I RECOMANACIONS A L'ALTA
+-	Tratamiento farmacológico
+-	Adiro 100mg cada 24h después del desayuno
+-	Atorvastatina 40mg cada 24h por la noche
+-	Resto de medicación sin cambios.
+
+-	Dieta baja en sal y grasas.
+-	Control de los factores de riesgo cardiovascular
+-	Colesterol (LDL) <100 mg / dl
+-	Tensión arterial sistólica <140mmHg / Diastólica <90mmHg
+
+
+CONTROL
+-Visita de control en Neurología de nuestro centro (Edificio de Consultas Externas primera planta), será avisado telefonicamente o por correo.
+-Control de los factores de riesgo cardiovascular por su equipo de atención primaria.
+
+Informe d'alta d'hospitalització
+
+
+
+
+DESTINACIÓ A L'ALTA:	HOSP. AGUTS/PSQ
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+06.09.2017
+Pàgina 1 de 4

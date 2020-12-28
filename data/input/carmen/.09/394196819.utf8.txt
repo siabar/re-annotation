@@ -1,0 +1,204 @@
+_LOCATION_) Telèfon _SS_  972 _CONTACT_
+Telèfon IDI (Ressonància i TAC) _CONTACT_
+Telèfon ICO _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 88 Anys
+NIF/DNI: _ID__NAME_; _NAME_;
+ _NAME_; _NAME_.
+Informe de Trasllat a Sociosanitari
+09:26:58
+27.07.2017
+_LOCATION_
+_SS_ NEUROLOGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_; _CONTACT_
+AGUTS 16.07.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Código ictus
+
+ANTECEDENTS
+PERSONALES:
+-No Alergias medicamentosas conocidas.
+-No refiere hábitos tóxicos
+-Dependencia parcial para ABVD. mRs: 3 (tienen cuidadora en domicilo)
+
+PATOLÓGICOS:
+-Diabetes mellitus en tratamiento con ADO e insulinoterapia
+-Dislipemia en tratamiento farmacológico
+-AIT en 2007, TC y Eco-doppler sin alteraciones (no constan informes)
+-No Hipertensión arterial, No antecedentes de cardiopatía isquémica ni de patología cerebrovascular.
+-EPOC obstructivo, seguimiento por CCEE de Neumología.
+-TBC a los 50 años con paquipleuritis residual derecha extensa
+-Hiperostosis anquilosante en seguimiento por reumatología
+-Hiperplasia prostática benigna
+-IQx:  apendicectomía
+-IQx herniorrafia derecha, IQx 2 veces posteriormente.
+
+MEDICACIÓ HABITUAL
+(Refiere muy mal cumplimiento terapéutico)
+-AAS 100mg/24hrs (explica que la toma de forma irregular)
+-Insulina detemir 24UI/24hrs
+-Metformina 850mg/12hrs
+-Omeprazol 20mg/24hrs
+-Paracetamol 1g/12hrs
+-Simvastatina 20mg/24hrs
+-Tamsulosina
+-Trazodona 1/12hrs
+-Solifenacina 5mg/24hrs
+
+
+PROCÉS ACTUAL
+Paciente de 88 años, refiere inicio 15/07/2017 a la tarde de cuadro deficit motor de predominio de extremidades inferiores, motivo por el que acude a _SS_, donde se objetiva paciente asintomático, se orienta caso como posible AIT, y se realiza TC simple que resulta normal.
+
+Sin embargo, posteriormente a TC se objetiva a las 00.15 horas empeoramiento clínico, con PFC derecha y deficit motor de miembro superior derecho, junto con disartria, se orienta el caso como reagudización clínica, y se activa
+
+Informe de Trasllat a Sociosanitari
+
+
+
+
+código ictus, contactamos vía teleictus, objetivando paciente con disartria como unica clínica (cursa de forma fluctuante) NIHSS: 1, por lo que decidimos derivación a nuestro centro para valoración y completar estudio con eco-doppler.
+
+A su llegada a nuestro centro, inicialmente se objetiva muy leve disartria, prácticamente en resolución (NIHSS: 1), por lo que se decide desactivación de Código Ictus por mejoría clínica significativa, sin embargo, a la revaloración a la hora de realizar el eco-doppler se objetiva nuevo empeoramiento clínico, presentando paresia hemicuerpo derecho, por lo que se decide activación intrahospitalaria de Código Ictus a las 03.10 horas.
+
+Por tanto, se orienta caso como síndrome motor puro derecho (CWS), y se decide realización de tratamiento fibrinolítico rtPA, bolus 7.4 a las 03.55 horas, perfusión de 67.3 a las 04.04 horas, se retrasa inicio de tratamiento fibrinolítico por hipertensión arterial (195/91 mmHg) que requiere administración de urapidil 12.5 mg, consiguiendo buen control tensional (TA: 117/81 mmHg). El tratamiento cursa sin incidencias, posteriormente se decide ingreso en Unidad de Ictus, para vigilancia neurológica y monitorización.
+
+EXPLORACIÓ FÍSICA
+
+
+EXPLORACIÓN AL INGRESO:
+-	TA: 147/77, T: 35.3ºC, Glicemia capilar 175
+-	Inicialmente se objetiva paciente vigil, con muy leve disartria. NIHSS: 1
+-	A la hora de realizar eco-doppler, se objetiva nuevo empeoramiento clínico, con disartria, PFC derecha y deficit motor de miembro superior derecho (NIHSS: 3)
+
+EXPLORACIÓN AL ALTA:
+ENRL: Paciente vigil, consciente pero desorientado. Hemiparesia facio-braquio-crural derecha. No consigue vencer contra gravedad y con mucha dificultad en el plano. Persiste disartria. No déficit sensitivo. Sin otros cambios.
+NIHSS: 9 (00000/10303/00020)
+
+
+
+EXPLORACIÓ COMPLEMENTÀRIA
+ECG:
+-Ritmo sinusal, a 60 lpm, eje cardíaco a 0º. No alteraciones de la repolarización ni morfología de bloqueo.
+-Monitorización: Ritmo sinusal durante el ingreso en la Unidad.
+
+ANALÍTICAS;
+-AS (ingreso): Hb 14.2 g/dL, Plaquetes 133 K/mcL, Leucòcits 5.58 K/mcL (N: 70.2 %, L: 20.1 %), Tasa protrombina 87 %, INR 1.08, Glucosa 199 mg/dL, Urea 38 mg/dL, Creatinina 0.60 mg/dL, Colesterol 161 mg/dL, Colesterol HDL 40 mg/dL, Colesterol LDL 109 mg/dL, Triglicèrid 62 mg/dL, Calci (II) 8.9 mg/dL, Ió sodi 139 mEqu/, Ió potasi 4.5 mEqu/, TnT 16.9 ng/L
+-AS: Filtrat glomerular (CKD-EPI) 83.3 mL/min, Hemoglobina A1c (DCCT/NGSP) 7.4
+
+PRUEBAS DE IMAGEN:
+-Rx de tórax: Rx AP de tórax AP, poco inspirada, poco penetrada, rotada, difícil de valorar por características de proyección. Se objetiva posible dextrocardia y aumento de densidad a nivel de hemitórax derecho, con desviación
+
+Informe de Trasllat a Sociosanitari
+
+
+
+
+de tráquea ipsilateral, posible atelectasia. Pinzamiento de seno costofrénico ipsilateral. Sin otras alteraciones.
+
+-Ecodoppler TSA: Se objetiva placa ateromatosa en arteria carótida interna derecha, que no condiciona estenosis significativa. No alteraciones de velocidad ni de morfología de curva a este nivel. no otras alteraciones significativas. Arterias vertebrales presentes y simétricas.
+
+-Estudio ecodoppler de control (18/07/2017): DTSA: Ateromatosis carotídea bilateral moderada-severa, que no condiciona estenosis significativa (VSM de 110 cm/seg en ACI derecha,  y 120 cm/seg en ACI izquierda). Vertebrales sin alteraciones, hipoplasia de AV izquierda.
+DTC: ACMs sin alteraciones. Probable hipoplasia de ACA izquierda. ACP derecha sin alteraciones. Estenosis focal en P1 izquierda, con VSM de 140 cm/seg, manteniendo flujo laminar, sin caída de flujo posterior. Basilar sin alterciones.
+Conclusón: Ateromatosis carotídea bilateral, sin estenosis significativa. Estenosis focal ACP izquierda.
+
+-TC multimodal (16/07/2017). Estudi TC cranial sense signes d'isquèmia hiperaguda TC valorables (ASPECTS=10). Estudi angiogràfic no mostra trombe oclusiu.Tampoc es visualitzen signes hemorràgics aguts intra ni extraxials. Dilatació del sistema ventricular que podria correspondre a signes d'hidrocefàlia incipient. A valorar clínicament
+
+-TC multimodal (17/07/2017): No se identifican lesiones hemorrágicas intracraneales. No se observan signos precoces de isquemia (ASPECTS de 10). Estructuras de línea media centradas. Sistema ventricular de tamaño proporcional al grado severo de atrofia de predominio frontal. Cisternas de la fosa posterior libres.
+PerfusiónTC: No valorable por artefacto de movimiento.
+AngioTC: Estabilidad de la estenosis del 50% de ACI derecha y del 30% de ACI izquierda. Persiste también la moderada estenosis del segmento P2 de ACP izquierda. Correcta permeabilidad de arterias carótidas comunes, vertebrales, resto de cerebrales y basilar.
+Conclusión: Sin evidencia de lesiones hemorrágicas intracraneales. AngioTC sin oclusión/trombo en arterias cerebrales ni basilar.
+
+-Tc control 24 horas tras rtPA (18/07/2017): No se identifican lesiones hemorrágicas intracraneales. No se observan claros signos de infarto cerebral a nivel supratentorial. En región protuberancial paramedial izquierda se identifica una hipodensidad lineal que podría corresponder a un infarto establecido a dicho nivel aunque los artefactos de fosa posterior hacen difícil su valoración, a valorar mediante RM. Resto sin cambios.
+
+- Ecocardiograma (21/07): Ventrículo izquierdo moderadamente hipertrófico con función sistólica global conservada (FE: 61%).. Gradiente dinámico a nivel del tracto de salida del VI no significativo. Ligera dilatación biauricular.
+
+EVOLUCIÓ CLÍNICA
+Paciente ingresa en Unidad de Ictus, hemodinámicamente estable y afebril a su llegada. En ECG de ingreso se objetiva ritmo sinusal, sin alteraciones significativas, mantiene ritmo sinusal durante resto de registro en ingreso en Unidad.
+
+Informe de Trasllat a Sociosanitari
+
+
+
+
+
+Día 17/07/2017 a las 06.30 presenta nueva fluctación clínica, presentando hemiplejia derecha (NIHSS: 11) por lo que se decide activar nuevamente código ictus a las 07.30 horas, realizando TC multimodal, que no muestra alteraciones significativas. Tras consensuar con el equipo de Neurología vascular, se decide finalmente realización nuevamente de tratamiento fibrinolítico (rtPA dosis total 67.5 mL, bolus se inicia a las 09.16 horas), que cursa sin incidencias. Posteriormente al tratamiento, se reevalúa al paciente que presenta un déficit motor severo de hemicuerpo derecho, de predominio a nivel braquial (NIHSS: 8) con estabilidad clínica durante el resto de ingreso con leve mejoría de la clínica.
+
+Se realiza TC de control 24 horas rtPA que muestra una hipodensidad a nivel de protuberancia paramedial izquierd de etiología aterotrombótica.
+
+Para completar el estudio, se realiza una ecocardiografía transtorácica que muestra VI hipertófico pero con FE conservada y ligera dilatación biauricular.
+
+Desde el punto de vista sistémico, ha presentado tendencia inicial a la HTA, que ha mejorado con control farmacológico con un fármaco, incluso con hipotensión posterior asintomática. Ha necesitado, además de insulina para el control glucémico.
+Por otro lado, ha mantenido tendencia al llanto y ha sido valorado por psiclogía clínica, con aglún episodio de agitación-desorientación, por lo que se ha pautado quetiapina con buena respuesta. Además, hemos añadido a su tratamiento Venlafaxina por la mañana.
+
+El paciente ha iniciado tratamiento rehabilitador y logopédico qyue deberá continuar en el centro de rehabilitación. Ha tolerado dieta normal.
+
+Por tanto, se orienta el caso como ictus isquémico de territorio vertebrobasilar, mecanismo patología de pequeño vaso, etiología aterotrombótica, que ha condicionado un Capsular Worning Syndrom (síndrome lacunar motor puro derecho). Ante estabilidad clínica, se decide alta a _SS_, que se realiza día 27/07.
+
+Escalas al alta:
+-NIHSS: 9
+-mRs: 4
+-Barthel: 25
+
+
+DIAGNÒSTICS
+436/5   Ictus   isqémico   de   territorio   vertebrobasilar,   mecanismo   patología   de   pequeño   vaso,   etiología aterotrombótica, que condiciona síndroma lacunar motor puro derecho.
+250.00/2 Diabetis mellitus II, controlada 272.4/1 Dislipemia
+435.9/1 Ait isquemia cerebral transitoria
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+-	Tratamiento al ingreso: Adjuntamos SILICON
+
+-	Tratamiento farmacológico en domicilio
+-	
+Informe de Trasllat a Sociosanitari
+
+
+
+
+-	Clopidogrel 75mg cada 24h después del desayuno
+-	Atorvastatina 40mg cada 24h por la noche
+-	Enalapril 5 mg cada 12 horas ---> Valorar según cifras de TA su ajuste.
+
+-	Venlafaxina 75 mg: 1 -0-0
+-	Trazodona 100 mg. 0-0-1.
+-	Quetiapina 25 mg: cada 12 horas.
+
+-STOP Adiro y simvastatina
+-	Resto de medicación sin cambios. Insulina detemir 24UI/24hrs. Metformina 850mg/12hrs Omeprazol 20mg/24hrs.	Paracetamol 1g/12hrs. Tamsulosina. Trazodona 1/12hrs. Solifenacina 5mg/24hrs
+
+-	Insistimos en importancia de realizar de forma correcta el tratamiento
+
+-	Dieta baja en sal y grasas.
+-	Abandono del consumo de tabaco y reducción del consumo de alcohol.
+-	Control de los factores de riesgo cardiovascular
+-	Colesterol (LDL) <100 mg / dl
+-	Tensión arterial sistólica <140mmHg / Diastólica <90mmHg
+
+
+
+CONTROL
+-	Visita de control en Neurología de nuestro centro (Edificio de Consultas Externas primera planta). Fecha de cita: 09/11/2017 a las 13.00 horas
+-	Control de los factores de riesgo cardiovascular por su equipo de atención primaria.
+
+
+DESTINACIÓ A L'ALTA:	SOCI SANITARI
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+27.07.2017
+Pàgina 1 de 5

@@ -1,0 +1,159 @@
+_LOCATION_ Tel. _CONTACT_
+e-mail: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 69 Anys
+NIF/DNI: _ID__NAME_; _NAME_; _NAME_;;
+_NAME_
+Informe d'alta d'hospitalització
+12:10:38
+19.07.2017
+_LOCATION_
+_SS_ NEUROLOGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_; _CONTACT_; _CONTACT_
+DOMICIL/RES.SOC 08.07.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Debilitat hemicos dret.
+
+ANTECEDENTS
+ANTECEDENTS PERSONALS:
+Pacient de 69 anys. Sense al·lèrgies conegudes. Independent per a les activitats bàsiques de la vida diaria (Rankin previ: 1). Viu amb la germana.
+
+ANTECEDENTS PATOLÒGICS:
+-	Dislipèmia en tractament amb estatines. Colesterol 133 mg/dl en analítica de juliol de 2017.
+-	Fibril·lació auricular persistent en tractament Anticoagulant oral (Sintrom).
+-	Miocardiopatía Dilatada d'etiologia no isquèmica en seguiment a _SS_. Ecocardiograma transoràcic que mostra ventricle esquerre dilatat, disfunció ventricular severa amb FE 28%, IM moderda, IAo lleugera. Tractament mèdic optimitzat. TC coronari sense lesions significatives. RM cardíca amb ventricle esquerrre dilatat i FE 20-25%. Classe funcional II. Portador de DAI per prevenció primària, intervingut el dia 04/07/2017 a _SS_ pel que es va retirar tractament amb sintrom durant 2 dies, allargament de l'estança hospitalaria per descompensació insuficiencia cardiaca esquerra.
+-Gastritis crònica. FGS (juliol 2014): antre eritematós. Biopsia amb gastritis crònica lleu sense signes d'activitat. Atrofia glandular moderada. No s'observa H. pylori.
+
+IQ: Intervingut d'hernia inguinal dreta fa 15 anys, pednent de intervenció d'hernia inguinal esquerre. Intervingut a la infància de maluc dret amb un empelt de tibia esquerra, actualment limitació de la mobilitat d'aquesta articulació.
+
+MEDICACIÓ HABITUAL
+Furosemida 40mg (1-1-0), aldactone 25mg/24h, bisoprolol 10mg/24h, enalapril 5mg/12h, omeprazol 20mg/24h, simvastatina 20mg/24h, sintrom según pauta, xalatan colitio 2 gotas al día
+
+PROCÉS ACTUAL
+Pacient que estant a casa presenta caiguda al terra amb debilitat a hemicos dret. Inici dels símptomes el dia 08/07/2017 a les 19:30h. S'activa codi ictus el dia 08/07/2017 a les 20:30h, a nivell SEM. Arriba al nostre centre a les 20:47:57 del 08/07/2017.
+
+Ha sigut intervingut de DAI el dia 04/07/2017 a _SS_, pel que va suspendre tractament amb sintrom durant un dia.
+
+EXPLORACIÓ FÍSICA
+
+FC   99 bpm	FR     rpm	TA s    106 mmHg	TA d   74 mmHg
+
+Informe d'alta d'hospitalització
+
+
+
+
+Tªaxi 36.7 ºC	Tªrec  ºC	SAT O2 99 %	Pes Kg Glicèmia capil·lar: 122 mg/dl
+Exploració física a Urgències:
+NRL: Conscient i orientat en les 3 esferes. Llenguatge sense elements afàsics. Disàrtria lleu. Oculomotricitat i campimetria per confrontació sense alteracions. Hemiparesia dreta lleu amb flapping de la mà dreta. Sense alteracions de la sensibilitat. Reflex cutani plantar flexor bilateral.
+NIHSS=(0.0.0)0.0/0(1.0)(1.0)/0. 0.0.1.0=3
+
+Exploració física a la planta de Neurologia:
+NRL: Conscient i orientat en les 3 esferes. Llenguatge normal, sense disàrtria. Oculomotricitat i campimetria normal. No parèsia facial. Parells cranials baixos normals. No debilitat d'extremitats, reflex cutani plantar flexor bilateral. No alteracions de la sensibilitat superficial. No dismetries ni disdiadococinesia. Reflexes musculars profunds presents de característiques normals. Marxa normal.
+NIHSS 0
+
+Sistèmica: AC: tons cardíacs arrítmics sense bufs ni frecs. AR: Murmuri vesicular conservat bilateral sense sorolls sobreafegits. Abdomen tou i depressible no dolorós a la palpació. Cicatriu a tòrax esquerrre amb lleu hematoma periincisió. Extremitats inferiors sense edemes ni signes de trombosi venosa profunda.
+
+EXPLORACIÓ COMPLEMENTÀRIA
+EXPLORACIONS COMPLEMENTARIES A URGÈNCIES:
+
+Analítica d'urgències: Hematologia (08/07/17): Leucòcits 8700 /µL, (N 56,7 % / L 30,6 / M 9,6 / E 1,9 / B 1,2), Hties 5,35 mill/µL, Hb 15,6 g/dL, Hct 47,2 %, VCM 88,2 fL, Plaquetes 222000 /µL, TP 52 %, INR 1,66 sg, TP
+ratio 1,67, TTPA 29,4 sg, TTPA ratio 0,95, Fibrinogen 688 mg/dL.
+Bioquimica (08/07/17): Glucosa 118 mg/dL, Urea 51,4, Creatinini 0,94, Na 136,6 mmol/L, K 4,1, Prot-C reactiva 38 mg/L.
+
+ECG: fibril·lació auricular a 100bpm, sense alteracions agudes de la repolarització.
+
+TC simple/AngioTC (08/07/2017 a les 20:58):
+TC SIMPLE: No se observan lesiones hemorrágicas ni isquémicas agudas. ASPECTS 10. Espacio de Virchow Robin/ Infarto lacunar crónico sublenticular derecho Cisternas basales y perimesencefálicas libres. Línea media centrada. No se aprecian alteraciones óseas TC valorables Sin otras alteraciones parenquimatosas ni extraaxiales TC valorables.
+ANGIO-TC TSA E INTRACRANEAL: Se observa un defecto de repleción brusco, acompañado de un cambio de calibre en el segmento P2 izquierdo de la ACP, sugestivo de oclusión con recanalización distal, a correlacionar hallazgos con exploración Ambas arterias vertebrales, arteria basilar y arteria cerebral derecha permeable. Ambas arterias carótidas comunes, carótidas internas,
+
+EXPLORACIONS COMPLEMENTARIES A L'UNITAT D'ICTUS:
+
+Analítica de ingreso: Hematologia (10/07/17): Leucòcits 6700 /µL, (N 63 % / L 25,1 / M 8,2 / E 2,2 / B 1,5), Hties 4,96 mill/µL, Hb 14,8 g/dL, Hct 44,3 %, VCM 89,2 fL, Plaquetes 182000 /µL, TP 71 %, INR 1,28 sg, TP ratio
+1,29, TTPA 25,2 sg, TTPA ratio 0,81, Fibrinogen 400 mg/dL. Bioquimica (10/07/17): Glucosa 64 mg/dL, HbA1c 6,3
+
+Informe d'alta d'hospitalització
+
+
+
+
+%, Urea 37 mg/dL, Ca 8,1, Na 142,3 mmol/L, K 4,7, ALT 17 U/L, GGT 49, FA 65, CK 43, Prot-C reactiva 39 mg/L,
+Proteïna 52,5 g/L. Proteinograma.- Alb 27,9 g/L, a1·Glob 4,3 g/L, a2·Glob 7,8 g/L, ß·Glob 7,4 g/L, gamma·Glob 5,2 g/L. Lípids.- Triglicèrid 169 mg/dL, Colesterol 161, (HDL 35,2 / LDL 92). Hormonas (10/07/17): TSH 1,65 µUI/mL.
+
+TC craneal control a las 24 horas de tratamineto fibrinolítico: Respecto a exploración previa disponible del 08.07.2017 no se aprecian cambios TC valorables, sin evidencia de lesiones isquémicas ni hemorrágicas TC valorables. Sin otros cambios TC valorables respecto a exploración previa.
+
+Ecografía transtoràcica (11.07.17): Ventricle esquerre moderadament dilatat no hipertròfic, Fe30%. Sense imatge  de  trombus  intracavitari.  Aurícula  esquerra  lleugerament  dilatada.  Sense  valvulopaties  significatives. Cavitats dretes no dilatades, normocontràctils TAPSE 17mm Dilatació  auricular dreta. Cable de DAI dins de cavitats dretes. No es detecta IT per a estimar la PAP, encara que sense signes indirectes  de HTP.Funció diastòlica: ona diastòlica única.
+
+EXPLORACIONS COMPLEMENTARIES A PLANTA NEUROLOGÍA:
+TC cranial de control (18/07/2017): Control evolutiu de pacient amb infart isquèmic d'ACP esquerra tractat amb fibrinolisis e.v. respecte a exploració prèvia disponible del 10/07/2017 no s'aprecien canvis TC valorables, sense  evidència  de  lesions  isquèmiques  ni  hemorràgiques. Sense  Altres  Canvis  TC  valorables  respecte  a exploració prèvia.
+
+Analítica de control (19/07/2017): INR 2.62, TTPA 107.seg, TTPA 3.47 ratio.
+
+EVOLUCIÓ CLÍNICA
+Pacient de 69 anys, amb antecedents de fibril·lació auricular en tractament amb sintrom, insuficiència cardíaca amb FE 28% i portador de DAI per prevenció primària, implantat el dia 04/07/2017, que acut a Urgències el dia 08/07/2017 per clínica de debilitat en hemicòs dret d'una hora d'evolució.
+A la seva arribada a Urgències, hemodinàmicament estable i afebril. A l'exploració neurològica presenta disàrtria lleu i hemiparesia dreta lleu, puntuant una NIHS de 3. ECG en fibril·lació auricular. Es realitza analítica que mostra INR 1.67 amb plaquetes normals. Es realitza TC cranial que no mostra lesions isquèmiques ni hemorràgiques agudes i un angioTC que mostra oclusió de P2 esquerre. Es comenta amb Cardiologia que comenta que la intervenció del DAI no és contraindicació per l'administració de fibirnolític, pel que es decideix tractament de reperfusió amb fibrinòlisi (TA prebolus de 100/73mmHg, glicemia 122, dosi total de 60, 6 en bolus i 54 en perfusió), inici a les 21:32h. S'orienta com a ictus isquèmic de territori ACP esquerre de mecanisme embòlic i etiologia cardioembòlica. Ingressa a Unitat de Ictus pera estudi i control. En finalitzar la perfusió de rtPA ha presentat una hipotensió simptomàtica de 66/45, amb nàusees i diaforesi, aparició d'hemianòpsia homònima dreta, pel que ha precisat antitrendelemburg i una carrega de 250 cc de SF. ECG sense canvis (fibriloflutter ràpid [130 de FVM]) sense signes de isquèmica aguda. També s'ha administrat una dosi de 0,25 mg de digoxina controlant parcialment les xifres de FC (105x').  Amb aquestes mesures la clinica cedeix. Es reforça vendatge compresiu DAI després d'administració de rTPA ev, després de comentar amb Cardiologia.
+
+Informe d'alta d'hospitalització
+
+
+
+
+Durant el seu ingrés a la unitat d'ictus, el pacient es manté hemodinamicament estable amb tendencia a l'hipotensió, monitorització cardíaca en fibril·lació auricular. Tolera correctament dieta oral sense presentar disfagia i inicia sedestació. A les 12 hores de l'ingrés, presenta episodi autolimitat d'alteració visual en hemicamp dret en forma de visió borrosa que remet espontàniament. El TC cranial de control a les 24 hores després de l'administració de tractament fibrinolític no mostra lesions establertes ni transformacions hemorràgiques. S'inicia tractament anticoagulant amb BIC d'Heparina. Es retira vendatge compresiu de la zona del DAI a les 48 hores de l'administració del tractament trombolític, observant-se hematoma a cara interior del braç en resolució i bossa subcutània del DAI distesa per probable hematoma ja organitzat, pel que és valorat per Cardiologia. Donada les dosis elevades d'anticoagulació i la consistència de l'hematoma es decideix tractament conservador recolocant vendatge compresiu durant tot l'ingrés.
+
+Per a completar l'estudi etiològic es realitza analítica amb perfil glicèmic i lipídic que no mostra alteracions significatives. Es realitza una ecografia transtorácica que no mostra trombus intracavitari amb una FE del 30%. De la mateixa manera es revisa AngioTC realitzat durant l'ingrés a _SS_ on s'observen multiples trombes intraauriculars, malgrat que els controls d'INR previs eren correctes (INR >2) i que el tractament amb Sintrom havia estat retirat tan sols 48h previament a l'angioTC, pel que valorat conjuntament amb cardiologia, i donat el baix risc hemorràgic, es decideix augmentar l'objectiu terapèutic d'INR a 3-4 i reiniciem sintrom. Es realitza TC cranial de control que no mostra lesions isquèmiques ni hemorràgiques de recent aparició respecte a TC previ.
+
+Finalment s'orienta com un ictus isquèmic de territori ACP esquerre (P2) de mecanisme embòlic i etiologia cardioembòlica per fibril·lació auricular i miocardiopatia dilatada (FE<30%). A l'alta es manté tractament de prevenció secundària amb sintrom amb objectiu terapèutic de INR 3-4.
+Donada l'estabilitat clínica es decideix alta a domicili. A l'alta:
+NIHSS 0
+mRS 1
+
+DIAGNÒSTICS
+1.- Ictus isquèmic de territori de ACP esquerra de mecanisme embòlic i de etiologia cardioembòlica per fibril·lació auricular i miocardiopatia dilatada amb FE<30%
+2.- Fibril·lació auricular
+3.- Miocardiopatia dilatada no isquèmica amb FE 28% 4.- Insuficiència cardíaca secundaria a 3
+5.- Trombes auriculars
+6.- Dislipemia.
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Dieta cardiosaludable.
+Sintrom segons nova pauta: nou objectiu INR 3-4.
+
+Mantenir la resta de la seva medicació sense canvis:
+-	Furosemida 40mg 1 comprimit i mig durant 1 setmana i posteriorment mantenir 1 comprimit diari de manera crónica
+-	Aldactone 25mg/24h
+-	
+Informe d'alta d'hospitalització
+
+
+
+
+-	Bisoprolol 10mg/24h
+-	Enalapril 5mg/12h
+-	Omeprazol 20mg/24h
+-	Simvastatina 20mg/24h
+-	Xalatan colitio 2 gotas al día
+
+CONTROL
+Control de factors de risc cardiovascular per metge de capçalera. Control INR a Dr. _NAME_ el dia 21/07/2017.
+Control de MCP a Consultes Externes de _SS_.
+Primera visita a Consultes Externes de Neurologia el dia 19/09/2017 a les 9.30h amb la Dra. _NAME_.
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+19.07.2017
+Pàgina 1 de 5

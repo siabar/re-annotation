@@ -1,0 +1,133 @@
+_LOCATION_
+_LOCATION_) Anul·lació/Reprogramació visites:_CONTACT_
+Telèfon Centraleta: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 53 Anys
+NIF/DNI: _ID__NAME_; _NAME_; 
+_NAME_; _NAME_
+Informe d'alta d'hospitalització
+17:45:28
+07.04.2017
+_LOCATION_
+_SS_ NEUROLOGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_; _CONTACT_
+ATEN.PRIMÀRIA 29.03.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Paciente de 53 años que ingresa en Neurología por ictus vertebrobasilar.
+
+ANTECEDENTS
+Testigo de Jehová.
+Sin alergias medicamentosas conocidas. Hábitos tóxicos: exfumador.
+Factores de riesgo cardiovascular: HTA en tratamiento con amlodipino 10mg 1c/24h, metoprolol 100mg 1c/24h, lisinopril/hidroclorotiazida 20/12.5mg 1c/24h, DLP en tratamiento con rosuvastatina 20mg 1c/24h, ezetrol 10mg 1c/24h, DM I en tratamiento con insulina, con mal control metabólico, complicada con retinopatía diabética y pie diabético.
+Antecedents neurológicos: AVC isquémico frontal derecho en 2008. Eco doppler de TSA: Sin patología estenótica hemodinámicamente significativa). AVC isquemica con pequeño foco de transformación hemorrágica en 2010. POCI 2014 (ACPD). Crisis parciales complejas secundarias a AVC isquémico que condicionan ingreso hospitalario en marzo de 2014. No consta si son remotas o agudas, pero se retira levetiracetam en 2014. Consta un estudio de trombofilia negativo. AIT en 08/03/2017, valorado en _SS_ y trasladado a _SS_; aumentaron medicación hipotensora.
+FA paroxística en tratamiento anticoagulante con warfarina y frenador.
+IAM inferior Killip I en enero de 2016. Cateterismo cardiaco que muestra oclusión trombótica de coronaria derecha proximal tratada con ICP primaria con implantación de stent farmacoactivo. Pico de Troponina I > 50 ng/ml.
+Refieren IQ oftalmológica reciente; en tto con clexane 80/12. Estado basal: mRankin 0..
+
+MEDICACIÓ HABITUAL
+Aldocumar 10mg según pauta, beloken (metoprolol) 100mg 1c/24h, corlentor (ivabradina) 7.5mg 1c/12h, cretor (rosuvastatina) 20mg 1c/24h, ezetrol 10mg 1c/24h, fluoxetina 20mg 1c/24h, insulina levemir 40UI/24h, insulina novorapid 30UI/24h, levetiracetam 500mg 1c/12h, lisinopril/hidroclorotiazida 20/12.5 1c/24h, orfidal 1mg 1c/24h, zuandol (sildenafilo) 100mg.
+
+PROCÉS ACTUAL
+Traido por SEM al _SS_ el día 29/03 activado como código ictus a las 11:18h (randomizado para estudio RACECAT) por presentar, desde el despertar a las 8:00h, debilidad generalizada y malestar general sin clara focalidad neurológica, e iniciando franca paresia aproximadamente a las 9:10h (según familiar que se encontraba con él). Desde entonces ha presentado curso clínico oscilante, llegando a quedar asintomático en algún momento. A la valoración por parte del SEM paciente hemipléjico derecho. Durante el traslado en ambulancia presenta náuseas con vómitos. Niegan movimientos tónico-cónicos, automatismos, incontinencia de esfínteres, mordedura de lengua o desconexión del medio.
+
+A su llegada a _SS_ a las 11:40h, TA 159/80mmHg, SatO2 96%. Neurológicamente somnoliento (1) y orientado en tiemop, espacio y persona, no presenta alteración del lenguaje (nomina, evoca y repite), obedece órdenes, disartria severa (2), MOEs conservados, pupilas isocóricas normoreactivas, parálisis facial supranuclear derecha
+
+Informe d'alta d'hospitalització
+
+
+(2), tendencia ocluocefálica derecha (2), resto de pares craneales conservados, hemiplejia braquiocrural derecha (8), hemianestesia derecha (2), reflejo cutáneo plantar flexor bilateral. No signos cerebelosos. NIHSS 17.
+El TC craneal simple y angioTC de TSA (12:20), comparativo con TC previo del 07/03/2017, de otro centro, muestra importante disminución focal de la opacificación de los vasos en relación a estenosis milimétricas en circulación posterior a nivel en arteria basilar y arteria vertebral derecha intradural (estenosis ya presentes en estudio anterior). La analítica sanguínea no muestra alteracione significativas.
+
+Se orienta como ictus vertebrobasilar de etiología aterotrombótica con clínica fluctuante. Se comenta con neurología vascular que decide arterografía diagnóstica. Se realiza punción a las 14:40h, se objetiva estenosis severa de ostium de arteria vertebral izquierda, se coloca stent en dicha arteria por vía femoral con buen flujo a vertebral, objetivando asimismo estenosis basilar que dada la situación del paciente se opta por tratar de forma conservadora. Se administra heparina sódica. Se traslada el paciente a la UCI, donde presenta buena evolución clínca. Se realiza TC de control sin signos de sangrado, por lo que se suspende la heparina sódica y se incia doble antiagregación. El paciente ingresa en Neurología en la unidad de ictus.
+
+EXPLORACIÓ FÍSICA
+
+FC	66 bpm
+Tªaxi 36.3 ºC
+FR	rpm Tªrec  ºC
+TA s	154 mmHg SAT O2 99 %
+TA d   71 mmHg Pes Kg
+
+A nivel hemodinámico con TA 154/71mmHg, FC 66lpm, afebril, SpO 99%.
+Neurológicamente consciente, orientado en tiempo, espacio y persona, obedece órdenes simples y complejas, PICNR, MOEs conservados, campimetría por confrontación normal, disartria (2), lenguaje conservado (nomina 5/5, evoca 5/5, repite), paresia braquiocrural drecha 2/5 (3+3), parálisis facial supranuclear derecha (1). NIHSS 10.
+AC: Tonos cardiacos rítmicos, sin soplos. AR: MVC sin ruidos sobreañadidos.
+Abdomen: anodino.
+Extremidades sin edemas ni signos de TPV, pulsos periféricos presentes.
+
+
+
+EXPLORACIÓ COMPLEMENTÀRIA
+EXPLORACIONES COMPLEMENTARIAS EN URGENCIAS:
+Analítica:
+EAB venós: pH 7.31; CO2 55mmHg; O2 32mmHg; HCO3- 27mmol/L; EB 0.6mmol/L; Sat.O2 57%.
+Bioquímica: Glucosa 3.5mmol/L; Urea 5.9mmol/L; Cr 73umol/L; Na+ 139mmol/L; K+ 3.6mmol/L; Br 8umol/L; ALT 0.2ukat/L.
+Coagulació: TTPA 1.1; TP 1.
+Hemograma: Hb 145g/L; Hto 44%; VCM 86fL; Plaquetes 344x10E9/L; Leucòcits 7x10E9/L (Neutròfils 5.2x10E9/L, Limfòcits 1.4x10E9/L).
+Radiografía de tórax: marco óseo y partes blandas sin alteraciones, tráquea desviada a la derecha. Índice cardiotorácico no valorable por radiografía en decúbito, aunque impresiona de cardiomegalia. Elevación hemidiafragma derecho. Hileos congestivos. No se observan infiltrados no condensaciones pulmonares, senos costofrénicos libres.
+ECG: ritmo sinusal a 90lpm eje a -30º, PR 0.12s, QRS 0.08s, sin alteraciones del segmento ST, ondas T negativas
+
+Informe d'alta d'hospitalització
+
+en III, aplanadas en avF, ondas T picudas V2-V5.
+TC cranial simple y angioTC: TC craneal sin contraste, sin cambios respecto a estudio anterior. Importante disminución focal de la opacificación de los vasos en relación a estenosis milimétricas en circulación posterior a nivel en arteria basilar y arteria vertebral derecha intradural (estenosis ya presentes en estudio anterior), hallazgos que podría secundario al estado de hipoperfusión conocido.
+
+EXPLORACIONES COMPLEMENTARIAS EN PLANTA DE NEUROLOGÍA:
+
+TC craneal control (30/03): Se realiza estudio comparativo con TC previo del dia 29/03/2017. Persisten sin cambios los infartos a nivel frontal derecho y en hemisfesio cerebeloso derecho. No se observan transformaciones hemorragicas asociadas. No se observan otras complicaciones asociadas. Sin cambios respecto al previo.
+
+RMN cerebral: Infartos antiguos frontoparietal derecho (territorio superficial de ACM), parietal posterior, hemisferio cerebeloso derecho, hemisferio cerebeloso izquierdo e infartos lacunares múltiples en los núcleos grises de la base. Signos de afectación isquémica crónica de la sustancia blanca con bandas de alteración yuxtaventricular y múltiples imágenes nodulares distribuidas por los hemisferios cerebelosos. Infartos de semiología aguda, con hiperintensidad en secuencias de difusión y restricción del coeficiente difusión aparente, en hemiprotuberancia izquierda, hemisferio cerebeloso derecho y hemisferio cerebeloso izquierdo.La secuencia angio-RM muestra una arteria vertebral derecha filiforme, estenosissevera del tercio distal del tronco basilar y aspecto irregular de los segmentos proximales de arterias cerebrales posteriores. Arterias cerebelosas superiores, AICA derechay PICA izquierda presentes. No se identifican AICA izquierda ni PICA derecha. Estenosis severa del segmento M1 de ACM derecha.
+
+Analítica de ingreso: función renal (urea, creatina, FG) conservada, destaca urea disminuïda 3.0mmol/L, iones normales, perifl heptico (ALT, AST, GGT, FA) normal, perfil lipídico alterado  a expensas de LDL elevado 4.15mmol/L, HbA1c 9.1%, folatos y cobalaminas normales, proteinograma sin bandas hemograma con leve anemia Hb 12.6g/dL, htco 38.5%, lleu trombocitosis 309000, sin leucocitosis, VSG 22mm, coagulación (TP, TTPA) normal.
+Autoinmunidad: FR negativo y anticoagulante lúpico negativo. Anticuerpos anticardiolipina y anti-beta2-glicoproteïnanormales, Anticuerpos antimieloperoxidasa y antiproteïnasa 3 pendientes.
+Serologies: VIH, VHB y lues negativos.
+
+EVOLUCIÓ CLÍNICA
+Ingresa en Neurología por ictus vertebrobasilar oscilante, de probable etiología aterotrombótica por estenosis severa a nivel ostium de arteria vertebral izquierda tratado en fase aguda con colocación de stent en dicha arteria con buen flujo a vertebral, y estenosis arteria basilar que dada la situación del paciente se opta por tratar de forma conservadora. El TC de control post procedimiento no muestra signos de sangrado agudo, se inicia tratamiento con doble antiagregación y de forma diferida se añade tratamiento con anticoagulantes orales (I: 07/04) con aldocumar 10mg ya que el paciente presenta antecedentes de FA paroxística.
+
+La RMN cerebral muestra infartos recientes en territorio posterior, así como infartos antiguos múltiples en territorio frontoparietal derecho (territorio superficial de ACM), parietal posterior, hemisferio cerebeloso derecho, hemisferio cerebeloso izquierdo e infartos lacunares múltiples en los núcleos grises de la base. En la secuencia de angioRMN focos de estenosis arterial en múltiples niveles de la circulación posterior. En la analítica de ingreso destaca alteración del perfil lipídico a expensas de LDL elevado 4.15mmol/L, mal control glucémico con HbA1c 9.1%, leve anemia Hb 12.6g/dL, hematocrito 38.5% y trombocitosis 309000/L, resto sin alteraciones.
+
+Informe d'alta d'hospitalització
+
+
+Tolera dieta oral y sedestación, ha iniciado deambulación asistida. Como incidencias durante el ingreso presenta ánimo bajo; el paciente había tomado anteriormente antidepresivos y había sido seguido por psiquiatría en atención primaria, se reintroduce fluoxetina 20mg 1c/24h. Se realiza rehabilitación desde el inicio.
+
+Neurológicamente en el momento actual presenta NIHSS 6 a expensas de disartria (2), paresia braquial 4/5 (1),crural 4/5 (1) derchas y parálisis facial supranuclear derecha (2).
+
+Se orienta como ictus en territorio vertebrobasilar de etiología aterotrombótica por estenosis de arteria vertebral izquierda y estenosis basilar, tratado en fase aguda con colocación de stent en arteria vertebral izquierda, en tratamiento con doble antiagregación y anticoagulación con aldocumar. NIHSS 6, mRankin 4.
+
+El paciente es aceptado para derivación en su Hospital de referencia (_SS_) a día 7 abril. Se ha enviado el informe a la _SS_ para solicitar rehabilitación, pendientes de respuesta en el momento actual.
+
+
+
+DIAGNÒSTICS
+433.21/2 Avc isquemic vertebro-basilar
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Se adjunta.
+Aldocumar (seguir misma pauta que en domicilio): 1c 1c 1c 1c 3/4 (66mg semanales).
+
+
+
+CONTROL
+Solicitamos 1era visita de control por NRL _SS_ (Dr.R_NAME_).
+
+
+DESTINACIÓ A L'ALTA:	HOSP. AGUTS/PSQ
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+07.04.2017
+Pàgina 1 de 4

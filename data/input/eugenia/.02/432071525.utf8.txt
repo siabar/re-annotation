@@ -1,0 +1,105 @@
+SERVEI DE NEUROLOGIA
+INFORME DE ALTANº Historia clínica	_ID_
+Fecha de nacimiento
+_DATE_
+
+C.I.P.	_ID_	Código Centro	_ID_
+Teléfono	_CONTACT_	Dirección	_LOCATION_
+Fecha ingreso	19/10/17		_LOCATION_
+Fecha de alta	23/10/17	Teléfono	_CONTACT_
+Nº Asistencia	_ID_		
+UH	_ID_		
+
+DIAGNÓSTICOS:
+1.	ICTUS ISQUÉMICO ACM IZQUIERDA CARDIOEMBÓLICO
+2.	FIBRILACIÓN AURICULAR DE DEBUT
+3.	CARDIOPATÍA ISQUÉMICA ESTABLE
+
+Paciente de 81 años, sin AMC, que vive con su esposa independiente para AVBD, camina sin precisar de ayuda, sale cada dia a la calle y según su mujer no presenta deterioro cognitivo. mRS 1
+Alegia al huevo. Niega hábitos tóxicos
+
+ANTECEDENTES:
+-	DM tipo II
+-	HTA
+-	Dislipemia
+-	IAM con elevación del ST de cara anterior. ECO cardio con FEVi 35% aquinesia anteropaical. ACTO primaria con implantación 2 stents farmacoactivos en DAp
+-	Hiperuricemia
+-	Anemia megaloblástica
+-	Varices en EEII
+
+TRTAMIENTO HABITUAL:
+-	Adiro 100mg cada 24h
+-	Atorvastatina 20mg cada 24h
+-	Bisoprolol 2.5mg cada 24h
+-	Metformina 850 mg cada 24h
+-	Omeprazol 20mg cada 24h
+
+ENFERMEDAD ACTUAL:
+Paciente de 81 años con FRCV y IAM en 2011 que es traido como código extrahospitalario el día 19/10 a las 10.40h por presentar alteración del habla desde el despertar. Su esposa explica que ayer se acostaron a las 22.30h asintomático, sobre las 3.00h se ha despertado y le ha escuchado `balbucear` pensando que estaba en sueños. A las 8.30h se despiertan y el paciente presenta alteración del habla y hemiparesia EI derecha según refiere su mujer.
+
+
+EXPLORACIÓN FÍSICA:
+- Exploración física en UCIAS:
+TA 152/72mmHg FC 69lpm SatO99% Tª 35.9ºC
+NRL:  Consciente,  preguntas  0  (2),  obedece  a  ordenes,  MOE`s  sin  restricciones,  campimetría  por confrontación con aparente hemianopsia homónima derecha (2), PPCC normales, afasia de expresión (2) (no nomina, no repite, no fluencia, comprende adecuadamente), fuerza conservada y sensibilidad poco valorable. NIHSS 6.
+Monitorización ECG Se detecta FA EXPLORACIONES COMPLEMENTARIAS:
+- Analítica de urgencias: Glucosa: 137mg/dl; Creatinina: 0,99mg/dl; Na: 141mmol/L; K: 4,2mmol/L; Cl:
+
+Nombre	_NAME_
+
+104mmol/L; CK: 49UI/l; PCR: 0,2mg/dl; Hb: 13,9g/dl; Leucocitos: 4770; Neutrofilos: 2780; Plaquetas: 153000; TP: 73,7%; D-dimer: 1830
+-	ECG: Ritmo sinusal 70lpm, PR normal, QRS estrecho y sin alteraciones en la repolarización
+-	Radiografía de tórax: Marco oseo conservado, hemidiafragma derecho elevado (no placas previas aqui), no infiltrados en parenquima y senos costofrénicos libres de líquido.
+-	TC craneal + Angio TC craneal: ASPECTS 10. No oclusión de grandes vasos. Zona de mismatch CBV/Tmax en región parietal posterior izquierda (región ASPECTS M6)
+-	Analítica de ingreso: Urea: 35mg/dl; Creatinina: 1,06mg/dl; A.uric: 5,6mg/dl; Na: 142mmol/L; K: 3,8mmol/L; Cl: 102mmol/L; LDH: 361; CK: 235; Bil total: 1,3mg/dl; Bil directa: 0,47mg/dl; AST: 37; ALT: 19; GGT: 55; FA: 74; Proteinas totales: 6,9g/dl; Albumina: 4,1g/dl; Col. 117mg/dl; LDL: 68mg/dl; HDL: 39mg/dl; TAG: 107mg/dl; TSH: 1,48mcui/ml; HbA1c: 6,3%; Hb: 14g/dl;  Leucocitos: 5050; Neutrofilos: 2710; Plaquetas: 150000; VSG: 12mm/hora; TP: 74%
+-	TC craneal control: Infarto isquémico establecido reciente (agudo/subagudo) parietal izquierdo,  en territorio de ACM, sin transformación hemorrágica ni datos de efecto masa. Posible infarto  antiguo ipsilateral en confluente parieto-temporal.  Ventriculomegalia  que  sugiere  atrofia   subcortical  + hidrocefalia.
+
+EVOLUCIÓN:
+Se trata de un paciente de 81 años, con factores de riesgo vascular que presenta cuadro compatible con ictus de ACM izquierda.
+
+Se desestima tratamiento recanalizador al desconocer el tiempo de evolución.
+
+El paciente ingresa en Unidad de Ictus para monitorización y estudio neurovascular. En el momento del ingreso el paciente presenta taquicardia con patrón electrocardiográfico de fibrilación auricular motivo por el cual se inicia tratamiento con enoxaparina cada 12h a dosis anticoagulante.
+
+Se valoran al ingreso el estado de ánimo, las necesidades de rehabilitación y se inician fisioterapia y movilización precoces.
+
+Durante el ingreso evoluciona de forma favorable, presentando al alta una afasia sin afectacíón motora en extremidades. Durante el ingreso se realiza educación sanitaria acerca del ictus.
+
+Como complicaciones presenta: No presenta complicaciones, y dada la estabilidad clínica se decide alta a domicilio.
+
+Precisa logopedia de forma ambulatoria.
+Al alta se mantiene tratamiento anticoagulante como prevención secundaria. Etiología TOAST Cardioembólico, Oxford PACI Al alta NIHSS 4. Rankin 2.
+Debe seguir controles en CCEE de Neurología en fecha programada. Mantener control por médico CAP.
+
+
+TRATAMIENTO:
+-	ELIQUIS 5 MG cada 12 horas
+-	Atorvastatina 20mg cada 24h
+-	Bisoprolol 5mg cada 24h
+-	Metformina 850 mg cada 24h
+-	Omeprazol 20mg cada 24h SUSPENDER ADIRO
+
+INDICACIONES:
+-	Se recomienda control estricto de enfermedades que aumentan el riesgo de ictus: hipertensión arterial, diabetes, colesterol elevado (dislipemia) y enfermedades del corazón. Realizar el tratamiento de forma adecuada según las recomendaciones de su médico.
+-	Abstención de tabaco y alcohol
+-	Seguir una dieta adecuada, con poca sal, evitando grasas, especialmente las saturadas (grasas animales, aceites y grasas para cocinar).
+-	Evitar la obesidad y el sobrepeso y realizar ejercicio físico moderado de forma regular.
+
+Dr/a.	_NAME_
+Dr/a.	_NAME_
+Dr/a.	_NAME_
+Cap Secció	(Nº Colegiado : _ID_)
+Metge/essa
+Resident
+(Nº Colegiado : _ID_)
+Metge/essa
+Adjunt
+(Nº Colegiado : _ID_)
+
+
+
+Les seves dades personals s'incorporen en un fitxer d´usuaris a fi del seu tractament sanitari. Pot exercir el seu dret d´oposició, accés i rectificació de les dades inexactes dirigint-se al Servei de Documentació Clínica.
+Sus datos personales se incorporan en un fichero de usuarios para su tratamiento sanitario. Puede ejercer su derecho de oposición, acceso y rectificación de los datos inexactos dirigiéndose al Servicio de Documentación Clínica
+
+_SS_ | NIF _ID_ |_LOCATION_ | Telèfon _CONTACT_ | Fax _CONTACT_ | _CONTACT_
+Pàgina 1 de 3

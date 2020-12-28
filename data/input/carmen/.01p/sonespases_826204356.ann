@@ -1,0 +1,62 @@
+T2	_SUG_Arteria_afectada 92 118	ARTERIA CEREBRAL POSTERIOR
+T3	_SUG_Lateralizacion 119 128	IZQUIERDA
+T5	FECHA 217 227	28/12/2017
+#5	AnnotatorNotes T5	2017-12-28
+T7	_SUG_Etiologia 515 523	habitual
+T8	_SUG_Tratamiento_antiagregante_alta 580 585	Adiro
+T9	_SUG_Tratamiento_antiagregante_hab 580 585	Adiro
+T12	FECHA 757 762	28/12
+#12	AnnotatorNotes T12	2017-12-28
+T13	HORA 774 779	12:30
+#13	AnnotatorNotes T13	12:30
+T14	_SUG_Lateralizacion 1218 1225	derecha
+T15	_SUG_Lateralizacion 1423 1430	derecha
+T16	_SUG_TAC_craneal 2041 2043	TC
+T17	FECHA 2078 2088	28-12-2017
+#17	AnnotatorNotes T17	2017-12-28
+T18	_SUG_Localizacion 2230 2241	ventricular
+T19	FECHA 2622 2632	29/12/2017
+#19	AnnotatorNotes T19	2017-12-29
+T20	_SUG_Localizacion 2751 2759	PARIETAL
+T21	_SUG_Lateralizacion 2822 2823	I
+T22	_SUG_Lateralizacion 2836 2845	izquierdo
+T23	_SUG_Lateralizacion 3125 3134	izquierda
+T24	_SUG_Lateralizacion 3164 3171	derecho
+T25	_SUG_Lateralizacion 3249 3256	derecha
+T26	_SUG_Arteria_afectada 3862 3865	ACP
+T27	_SUG_Arteria_afectada 3892 3895	ACP
+T28	_SUG_Lateralizacion 3896 3897	D
+T29	_SUG_Arteria_afectada 3915 3918	ACP
+T30	_SUG_Lateralizacion 3919 3920	I
+T31	_SUG_Lateralizacion 3988 3989	D
+T32	_SUG_Etiologia 4132 4146	Aterosclerosis
+T33	_SUG_Arteria_afectada 4223 4226	ACP
+T34	_SUG_Lateralizacion 4263 4264	D
+T35	FECHA 4291 4301	04-01-2018
+#35	AnnotatorNotes T35	2018-01-04
+T36	_SUG_Ictus_isquemico 4316 4321	ictus
+T37	_SUG_Lateralizacion 4350 4357	derecha
+T38	_SUG_Localizacion 4535 4543	cortical
+T39	_SUG_Localizacion 4663 4671	profunda
+T40	_SUG_Localizacion 4785 4794	posterior
+T41	_SUG_Lateralizacion 4818 4823	Dicha
+T42	_SUG_Localizacion 4967 4978	ventricular
+T43	_SUG_Arteria_afectada 5468 5471	ACP
+T44	_SUG_Etiologia 5538 5545	lacunar
+T45	_SUG_Localizacion 5584 5593	posterior
+T46	_SUG_Localizacion 5792 5801	posterior
+T47	_SUG_Localizacion 5812 5821	posterior
+T48	_SUG_Arteria_afectada 5825 5828	ACP
+T49	_SUG_Tratamiento_antiagregante_alta 6118 6123	Adiro
+T50	_SUG_Tratamiento_antiagregante_hab 6118 6123	Adiro
+T51	_SUG_Tratamiento_antiagregante_alta 6148 6153	adiro
+T52	_SUG_Tratamiento_antiagregante_hab 6148 6153	adiro
+T53	_SUG_Tratamiento_antiagregante_alta 6160 6171	Clopidogrel
+T54	_SUG_Tratamiento_antiagregante_hab 6160 6171	Clopidogrel
+T55	SECCION_DIAGNOSTICO_PRINCIPAL 48 59	DIAGNÓSTICO
+T56	SECCION_MOTIVO_DE_INGRESO 156 174	MOTIVO DE CONSULTA
+T57	SECCION_ANTECEDENTES_PERSONALES 243 266	ANTECEDENTES PERSONALES
+T58	SECCION_ANTECEDENTES 614 638	ANTECEDENTES PATOLÓGICOS
+T59	SECCION_PROCESO_ACTUAL 695 712	ENFERMEDAD ACTUAL
+T60	SECCION_EXPLORACION_FISICA 1229 1247	EXPLORACIÓN FÍSICA
+T61	SECCION_EXPLORACIONES_COMPLEMENTARIAS 1796 1825	EXPLORACIONES COMPLEMENTARIAS

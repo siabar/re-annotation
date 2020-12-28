@@ -1,0 +1,91 @@
+I.CLINIC DE NEUROCIÈNCIES NEUROLOGIA
+_NAME_	NHC: _ID_
+
+
+Sexo/Sexe: Fem.	Fecha nac./Data naix.: _DATE_	Edad/Edat: 83 años Dirección/Adreça: _LOCATION_	CP: _LOCATION_
+Municip. (Prov.): _LOCATION_  ABS:_SS_	Tel.:_CONTACT_
+As.: SERVEI CATALA DE LA SALUT	CIP: _ID_	NASS: _ID_
+Nº epis.: _ID_	Tipo/Tipus: HOSPIT.	Inici.: 13.10.2017
+Serv: NEUROLOGIA	UO Enf.: G064 SALA G DE NEUROLOGIA	Hora: 17:22:41
+Facult. de ref.: _NAME_
+
+
+
+
+Tipo ingreso/Tipus ingrés: Urgent	Motivo/Motiu alta: Dom. Familiar
+Diag.:
+CRISIS EPILÉPTICAS FOCALES ()
+Proc.:
+TC CEREBAL () ANALÍTICA SANGUÍNEA () RX DE TÓRAX ()
+RMN CEREBRAL () ELECTROENCEFALOGRAMA ()
+
+
+
+
+INFORME CLÍNICO ALTA / INFORME CLÍNIC ALTA
+
+Motivo de consulta / Motiu de consulta
+Alteración del lenguaje de inicio súbito.
+
+Antecedentes e historia previa / Antecedents i història prèvia
+Antecedentes personales: Mujer de 83 años sin alergias ni hábitos tóxicos, independiente para las actividades básicas de la vida diria. mRS 0.
+*ANTECEDENTES PATOLÓGICOS
+1.	HIPERTENSIÓN ARTERIAL en tratamiento farmacológico.
+2.	DISLIPEMIA en tratamiento farmacológico.
+3.	TVP-TEP, hace unos 5 años, en tto con acenocumarol
+4.	SINDROME ANSIOSO en tratamiento farmacológico.
+5.	CATARATAS (pendiente 2ª intervención).
+
+*MEDICACIÓN HABITUAL: Amlodipino/Valsartan 10/160 mg/día Simvastatina 20 mg/día Trazodona.
+
+Proceso actual / Procés actual
+El 13/10/2017 es encontrada a las 8am en el lavabo incapaz para comunicarse. Última vez vista asintomática la noche del día previo. Es trasladada a nuestro centro por el SEM como código ictus extramuros.
+
+Exploración física / Exploració física
+13/10/2017-19:00:00: PAS (mm Hg) 157, PAD (mm Hg) 72, Tª axilar (ºC) 36. 4. EXPLORACIÓN NEUROLÓGICA AL INGRESO:
+NRL: Consciente, no contesta a preguntas sencillas. Realiza una órden. Lenguaje espontáneo muy hipofluente, no nomina ni repite. Disartria leve. mirada centrada sin limitaciones. Reflejo de amenaza simétrico. No déficit motor ni sensitivo. No dismetrías. NIHSS 6.
+
+
+Exploraciones complementarias / Exploracions complementàries
+** TC CEREBRAL MULTIMODAL: ASPECTS 10 sin lesiones isquémicas agudas con retraso parcheado de la perfusión en territorio distal M3 de ACMI.
+** RMN CEREBRAL: Imagen hiperintensa a nivel cortical frontal derecho en secuencia de difusión, sin lesiones isquémicas agudas apreciables.
+** EEG: Enlentecimiento intermitente theta irregular con ondas agudas ocasionales y periódicas focales derechas, sugestivas de disfunción con una tendencia epileptógena incrementada en esa zona.
+
+Evolución / Evolució
+1. CRISIS EPILÉPTICAS FOCALES A NIVEL FRONTAL DERECHO.
+A su llegada paciente hemodinámciamente estable y afebril, afasia mixta (NIHSS 6). Analítica sin alteraciones, INR (coagucheck) 4. La neuroimagen (TC craneal multimodal) no muestra alteraciones en la secuencia basal (ASPECTS 10). Los mapas de perfusión muestran un retraso parcheado en el territorio distal M3 de la ACMI. Dada la descoagulación se desestima tratamiento agudo del ictus y por oclusión distal se desestima trombectomía mecánica. Se inicia perfusión de heparina sódica tras bolus.
+En sala la paciente presenta episodios fluctuantes de agitación, que se resuelven, por lo que ante la sospecha de crisis convulsivas se inicia tratamiento con levetiracetam.
+Se solicita RMN cerebral, que muestra imagen hipercaptante  a nivel frontal derecho,  con afectación exclusivamente cortical, sin signos sugestivos de isquemia aguda.
+EEG anormal con tendencia epileptógena aumentada a nivel focal frontal derecho.
+Ante estos hallazgos, se orienta el cuadro como síndromes confusionales en contexto de crisis epilépticas de origen frontal derecho, por lo que ante la resolución de la sintomatología bajo tratamiento antiepiléptico se decide alta a domicilio, recomendando seguimiento por neurólogo de zona.
+Por otra parte, se retira tratamiento con heparina sódica y se suspende sintrom al considerar que no es tributaria de terapia anticoagulante por un único  episodio de trombosis profunda y tromboembolismo pulmonar.
+
+Plan terapéutico / Pla terapèutic
+Paracetamol apotex 1000  mg comprimidos efg,  40 comprimidos. 1000 MG. Ví a oral. Cada 8  horas. Levetiracetam alter 500 mg comprimidos recubiertos con pelicula efg, 60 comprimidos. 500 MG. Vía oral. Dos veces al día: desayuno y cena. Liplat 20 mg comprimidos , 28 comprimidos. 20 MG. Vía oral. Cada 24 hora s. Paracetamol apotex 1000  mg comprimidos efg,  40 comprimidos. 1000 MG. Ví a oral. Cada 8  horas. Paracetamol apotex 1000 mg comprimidos efg, 40 comprimidos. 1000 MG. Ví a oral. Cada 8 horas. Exforge 5 mg/160 mg comprimidos recubiertos con pelicula, 28 comprimidos . 1 UND. Vía oral. Cada 24 horas. Quetiapina pensa 25 mg comprimidos recubiertos con pelicula efg, 60 comp rimidos. 25 MG. Vía oral. Una vez al día, en la cena. Salbutamol aldo-union 100 microgramos/dosis suspension para inhalacion e n envase a presion efg , 1 inhalador de 200 dosis. 1 MCG. Vía inhalatori a. Cada 24 horas. Omeprazol mylan 20 mg capsulas duras gastrorresistentes efg , 28 cápsula s. 20 MG. Vía oral. Cada 24 horas. Citalopram pensa 20 mg comprimidos recubiertos con pelicula efg, 56 comp rimidos. 20 MG. Vía oral. Cada 24 horas.
+
+Otras recomendaciones / Altres recomanacions
+RMN de control en 3 meses (pendiente de programar) con visita posterior con Dr. _NAME_ en Consultas Externas.
+
+
+
+Firma/Signatura1: _NAME_	Firma/Signatura2: _NAME_ Categoría: Resident 2	Categoría: Consultor/a 1
+Nº Matrícula _SS_: _ID_	Nº Matrícula _SS_: _ID_
+
+Fecha/Data Informe: 17.10.2017
+
+
+
+Hora Informe: 15:35:51
+
+Docum.: _ID_
+Hist. Clínica: _ID_
+El _SS_ ha incorporado sus datos al Fichero de Pacientes, para tratarlos con fines sanitarios.
+Puede ejercer sus derechos de acceso, rectificación, cancelación y oposición, así como obtener mas información en la Unidad de Atención al Cliente.
+Vers. 00
+Pag. 2 de
+3
+Episod.: _ID_
+_SS_ ha incorporat les seves dades al Fitxer de Pacients, per a tractar-los amb finalitats sanitàries. Pot exercir els seus drets d'accés, rectificació, cancel·lació i oposició, i obtenir més informació a la Unitat d'Atenció al Client.
+_SS_
+_LOCATION_) _LOCATION_) Tel. _CONTACT_ Fax _CONTACT_
+http://_CONTACT_/

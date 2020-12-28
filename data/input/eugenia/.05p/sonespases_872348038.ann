@@ -1,0 +1,82 @@
+T0	FECHA 15 25	10-04-2018
+#0	AnnotatorNotes T0	2018-04-10
+T1	SECCION_DIAGNOSTICOS 27 39	Diagnosticos
+T2	_SUG_Ictus_isquemico 49 64	ICTUS ISQUÉMICO
+T3	_SUG_Ictus_isquemico 66 82	INFARTO CEREBRAL
+T4	_SUG_Arteria_afectada 86 110	TERRITORIO INDETERMINADO
+T5	_SUG_Etiologia 124 137	INDETERMINADA
+T6	SECCION_MOTIVO_DE_INGRESO 182 199	Motivo de ingreso
+T7	SECCION_ANTECEDENTES_PATOLOGICOS 340 360	Antecedentes Médicos
+T8	SECCION_SITUACION_FUNCIONAL 441 456	Situación basal
+T9	FECHA 1446 1454	Enero/17
+#9	AnnotatorNotes T9	2017-01-UNDEF-day
+T10	SECCION_ANTECEDENTES_QUIRURGICOS 1857 1881	ANTECEDENTES QUIRÚRGICOS
+T11	SECCION_TRATAMIENTO_HABITUAL 1913 1937	Tratamiento domiciliario
+T12	FECHA 2329 2337	25/03/18
+#12	AnnotatorNotes T12	2018-03-25
+T13	FECHA 2377 2385	24/03/18
+#13	AnnotatorNotes T13	2018-03-24
+T14	HORA 2397 2402	12.00
+#14	AnnotatorNotes T14	12:00
+T15	FECHA 2604 2615	26 de marzo
+#15	AnnotatorNotes T15	2018-03-26
+T16	FECHA 2898 2906	enero/17
+#16	AnnotatorNotes T16	2017-01-UNDEF-day
+T17	SECCION_EXPLORACION_FISICA 3117 3128	Exploración
+T18	SECCION_EXPLORACION_FISICA 8763 8781	Exploración física
+T19	FECHA 8851 8859	marzo 18
+#19	AnnotatorNotes T19	2018-03-UNDEF-day
+T20	FECHA 8879 8890	julio de 17
+#20	AnnotatorNotes T20	2017-07-UNDEF-day
+T21	SECCION_EXPLORACIONES_COMPLEMENTARIAS_EN_PLANTA_DE_NEUROLOGIA 4519 4536	analitica ingreso
+T22	HORA 4718 4722	1.49
+#22	AnnotatorNotes T22	01:49
+T23	SECCION_EXPLORACIONES_COMPLEMENTARIAS 5049 5083	Resultados pruebas complementarias
+T24	_SUG_TAC_craneal 5126 5137	TAC craneal
+T25	_SUG_Localizacion 5203 5212	occipital
+T26	_SUG_Lateralizacion 5213 5220	derecha
+T27	_SUG_Localizacion 5394 5405	ventricular
+T28	_SUG_Lateralizacion 5579 5584	ambos
+T29	_SUG_Lateralizacion 5594 5599	ambas
+T30	_SUG_Lateralizacion 5719 5723	dcha
+T31	_SUG_Arteria_afectada 5819 5822	ACM
+T32	_SUG_Lateralizacion 5823 5827	dcha
+T33	_SUG_Arteria_afectada 5936 5939	ACM
+T34	_SUG_Lateralizacion 5940 5945	izqda
+T35	_SUG_Arteria_afectada 5957 5960	ACP
+T36	_SUG_Lateralizacion 5961 5965	dcha
+T37	_SUG_Arteria_afectada 5972 5975	ACA
+T38	_SUG_Arteria_afectada 5986 5989	ACP
+T39	_SUG_Lateralizacion 5993 5998	izqda
+T40	_SUG_Arteria_afectada 6108 6110	AB
+T41	_SUG_Arteria_afectada 6162 6171	carotídea
+T42	_SUG_Arteria_afectada 6207 6210	ACM
+T43	_SUG_Lateralizacion 6211 6215	dcha
+T44	_SUG_Lateralizacion 6313 6317	dcha
+T45	_SUG_Arteria_afectada 6413 6416	ACM
+T46	_SUG_Lateralizacion 6417 6418	D
+T47	_SUG_TAC_craneal 6518 6528	TC CRANEAL
+T48	_SUG_Localizacion 6582 6591	occipital
+T49	_SUG_Lateralizacion 6592 6599	derecha
+T50	_SUG_Lateralizacion 6669 6677	derechas
+T51	_SUG_Localizacion 6843 6854	ventricular
+T52	_SUG_Localizacion 6931 6940	posterior
+T53	_SUG_TAC_craneal 6982 6984	TC
+T54	_SUG_TAC_craneal 7286 7296	TC craneal
+T55	_SUG_TAC_craneal 7407 7409	TC
+T56	SECCION_EVOLUCION 7544 7566	Evolución Hospitalaria
+T57	_SUG_Etiologia 7701 7714	indeterminada
+T58	_SUG_Etiologia 7724 7731	lacunar
+T59	_SUG_Localizacion 7724 7731	lacunar
+T60	_SUG_Arteria_afectada 7749 7752	ACM
+T61	_SUG_Lateralizacion 7906 7910	izda
+T62	_SUG_Lateralizacion 8425 8426	I
+T63	_SUG_Lateralizacion 8594 8595	I
+T64	_SUG_Lateralizacion 8607 8608	I
+T65	_SUG_Lateralizacion 8707 8708	e
+T66	_SUG_Lateralizacion 8732 8733	I
+T67	_SUG_Lateralizacion 8761 8762	I
+T68	SECCION_TRATAMIENTO_AL_ALTA 8961 8972	Tratamiento
+T69	SECCION_TRATAMIENTO_Y_RECOMENDACIONES_AL_ALTA 9473 9502	TRATAMIENtO y recomendaciones
+T70	_SUG_Tratamiento_antiagregante 9672 9677	ADIRO
+T71	_SUG_Tratamiento_antiagregante 9706 9717	CLOPIDOGREL

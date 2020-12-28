@@ -1,0 +1,162 @@
+_LOCATION_ Tel. _CONTACT_
+e-mail: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 60 Anys
+NIF/DNI: _ID__NAME_; _NAME_; 
+_NAME_
+Informe d'alta d'hospitalització
+14:32:10
+15.12.2017
+_LOCATION_
+_SS_ NEUROLOGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_; _CONTACT_
+DOMICIL/RES.SOC 12.12.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Dificultad para la emisión del lenguaje y para la movilización de extremidades derechas.
+
+ANTECEDENTS
+Varón de 60 años, zurdo, exfumador de 2 paquetes al día desde hace unos 5 años. No enol.
+
+·	Diabetes mellitus en tratamiento con insulina y metformina. Última glicada 7,2%. Neuropatia diabética.
+·	Dislipemia en tratamiento con estatinas
+·	Esteatosis hepática leve-moderada
+·	Claudicación intermitente dx hace 7 años
+·	Hiperplasia prostática benigna
+. Ex fumador desde hace 7 años
+
+Situación funcional previa: independiente para las actividades de la vida diaria. Trabajador activo de gestor. mRS 0.
+
+MEDICACIÓ HABITUAL
+Triflusal  300mg/día,  Insulina  Lantus,  Pregabalina  75mg/día,  Metformina  850mg/8h,  Omeptrazol  20mg/día, Cilostazol 100mg/12h, Simvastatina 40mg/día, Tamsulosina 0.4mg/día.
+
+PROCÉS ACTUAL
+El 12.12.2017 sobre las 9.30h de la mañana presenta de forma brusca dificultad para los movimientos finos de la mano derecha. Se intenta levantar pero nota debilidad de la pierna derecha. All llamar a su esposa presenta dificultad para la emisión y articulación del lenguaje. Por todo ello acude al _SS_ desde donde nos activan código ictus a las 11.14h. Llega a nuestro centro a las 11.28h.
+
+Además, el paciente refiere cuadro de náuseas, vómitos y diarrea durante los últimos tres días.
+
+EXPLORACIÓ FÍSICA
+
+FC	86 bpm
+Tªaxi 37.0 ºC
+FR	rpm Tªrec  ºC
+TA s	165 mmHg SAT O2 97 %
+TA d   88 mmHg Pes Kg
+
+Exploración neurológica en Urgencias: consciente y orientado en los tres ejes. Lenguaje: comprensión y repetición sin alteraciones, fluencia normal, nomina 5/5, evocación categorial 3/5. Disartria leve. Oculomotricidad y campimetría por confrontación sin alteraciones; no paresia facial, resto de pares craneales normales. No presenta décifit motor ni sensitivo.
+
+NIHSS: (0.0.0)0.0/0(0.0)(0.0)/0.0.1.1. 0= 2//
+
+Buen estado general, normocoloreado y normohidratado. Ruidos cardiacos rítmicos sin soplos, ni roces. Murmullo
+
+Informe d'alta d'hospitalització
+
+
+
+
+vesicular conservado bilateral sin ruidos sobreañadidos. Abdomen blando y depresible, no doloroso a la palpación. Pulso carotídeo izqueirdo no es posible de palpar, no se auscultan soplos, derecho presente. Pulsos en extremidades inferiores débiles.
+
+EXPLORACIÓ COMPLEMENTÀRIA
+URGENCIAS:
+
+Analítica urgente: Hematologia (12/12/17): Leucocitos 10400 /µL, (N 66,5 % / L 26,1 / M 6,7 / E 0,4 / B 0,3), Htíes 5,06 mill/µL, Hb 14,1 g/dL, Hcto 43,4 %, VCM 85,7 fL, Plaquetes 280000 /µL, TP 100 %, INR 1 sg, TP ratio
+1, TTPA 27,6 sg, TTPA ratio 0,89, Fibrinógeno 516 mg/dL. Bioquimica (12/12/17): Glucosa 142 mg/dL, Urea 51,
+Creatinina 0,58, Na 138 mmol/L, K 4,4, Prot-C reactiva 5,7 mg/L.
+
+TC craneal con angioTC: No se observan lesiones isquémicas ni hemorrágicas agudas. ASPECTS=10.
+Cisternas basales y perimesencefálicas libres. Línea media centrada. Sistema ventricular simétrico de tamaño y morfología conservados. Sin alteraciones óseas TC valorables. No se aprecian alteraciones intra ni extraaxiales TC valorables. ANGIOTC: Estenosis crítica de la arteria carotida interna izquierda con falta de opacificación a su salidad en bulbo con flujo muy filiforme en segmento cervical distal y falta de opacificación hasta su porcíon intracraneal, con correcta permeabilidad del poligono de Willis. Resto de estructuras vasculares intracraneales permeables y sin defectos de repleción
+
+Estudio neurosonológico:
+Dúplex de troncos supraaórticos: grosor íntima media ligeramente aumentado en carótida común derecha; francamente aumentado en carótida común izquierda con presencia de  placa isoecoicas que no  ocasionan estenosis hemodinámicamente significativas. Placa heterogénea en bifurcación carotídea derecha que penetra en bulbo carotídeo ocasionando una estenosis<30%. Placa heterogénea larga en bulbo carotídeo izquierdo de predominio anecoico que condiciona una estenosis crítica Vs oclusión arterial. Aa.vertebrales ortodrómicas y sin alteraciones.
+Dúplex transcraneal: no se observan oclusiones ni estenosis intracraneales. Buena compensación de a.cerebral media izquierda que tiene un flujo algo amortiguado; a.oftálmica izquierda invertida, a.comunicante anterior con musical murmurs y flujo turbulento; a.cerebral anterior izquierda invertida; a.comunicante posterior izquierda con flujo turbulento compensatorio; flow diversion a través de a.cerebral posterior izquierda. Aa.vertebrales de forma intracraneal sin alteraciones; basilar no insonada por mala ventana transoccipital.
+
+UNIDAD DE ICTUS:
+
+Analítica de ingreso:
+- Hematologia (13/12/17): Leucocitos 8300 /µL, (N 54,7 % / L 36,3 / M 8 / E 0,8 / B 0,2), Htíes 5,06 mill/µL, Hb 14,2 g/dL, Hcto 43,4 %, VCM 85,8 fL, Plaquetes 248000 /µL.
+- Bioquimica (13/12/17): Glucosa 136 mg/dL, HbA1c 7,1 %, Urea 28 mg/dL, Creatinina 0,61, Filtrado glomerular estimado >90 mL/min/1.73 m2, Osmolalidad 290 mOsm/Kg, Uratos 4,9 mg/dL, Ca 8,9, Na 141,8 mmol/L, K 3,77,
+Cl 105,8, ALT 17 U/L, GGT 14, FA 71, Bilirrubina 0,64 mg/dL, CK 142 U/L, Prot-C reactiva 6,6 mg/L, Proteína 65,9
+g/L, Albúmina 38. Lípidos.- Triglicéridos181 mg/dL, Colesterol 163, (HDL 35,7 / LDL 91).
+- Hormonas (13/12/17): TSH 0,51 µUI/mL.
+
+RMN cerebral: Estructuras de la línea media centradas. Sistema ventricular de morfología y tamaño normal. Restricción de la difusión focal con hiperseñal T2 / FLAIR de localización cortical en la ínsula izquierda compatible con lesión isquémica territorial reciente. Existen otras lesiones de semejantes características pero de tamaño
+
+Informe d'alta d'hospitalització
+
+
+
+
+puntiforme en giro frontal inferior, giro precentral y giro postcentral homolaterales. De modo muy aislado se aprecia algún foco puntiforme de alteración de señal T2/FLAIR en la sustancia blanca bihemisférica, inespecífico aunque de probable origen hipóxico crónico y de escasa entidad para la edad del paciente. Imagen puntiforme en el aspecto posterior del putamen derecho hipointensa en T1 y con fino halo hiperintenso en FLAIR que plantea diagnostico diferencial entre espacio perivascular dilatado y pequeño infarto lacunar en fase crónica. Resto de parénquima cerebral, cerebeloso y del tronco cerebral sin alteraciones morfológicas ni de señal de resonancia significativas. Cisternas basales y peritronculares libres. Charnela occipitocervical sin anomalías valorables. Alteración de señal intravascular en el segmento intracraneal de la ACI izquierda que sugiere oclusión / estenosis crítica extracraneal.
+CONCLUSIÓN Pequeñas lesiones isquémicas agudas establecidas en territorio superficial de ACM izquierda con signos que sugieren oclusión / estenosis crítica extracraneal de la ACI homolateral, hallazgos que sugieren considerar como mecanismo el embolismo arteria-arteria.
+
+Monitorización cardiaca: sin alteraciones del ritmo cardiaco.
+
+Test de agregabilidad: agregacio al ADP :  38 UA (antiagregacio optima 19-46). agregacio al AAS : 18 (antiagregacio optima <40)
+
+EVOLUCIÓ CLÍNICA
+A su llegada a Urgencias presenta constantes vitales preservadas y electrocardiograma en ritmo sinusal. A la exploración neurológica destaca leve disartria y afasia de expresión muy leve (NIHSS 2) con clara mejoría según  el paciente tras colocación en decúbito. Se realiza analítica general que muestra hiperglicemia sin otras alteraciones destacables y TC con angioTC en la que se observa ausencia de signos de isquemia incipiente y presencia de estenosis crítica de la a.carótida interna izquierda con ausencia de oclusión intracraneal. Ante la ausencia de oclusión intracraneal y la clínica minor se decide no administrar tratamiento de reperfusión arterial. Realizamos estudio neurosonológico que confirma los hallazgos del angioTC; se observa buena compensación del flujo intracraneal a través de a.oftálmica izquierda, a.comunicante anterior, comunicante posterior izquierda y cerebral posterior izquierda (flow diversion).
+
+Se orienta como un ictus isquémico de territorio carotídeo izquierdo de mecanismo embólico arterioarterial vs hemodinámico y etiología aterotrombótica. Iniciamos doble antiagregación y estatinas a dosis altas y el paciente ingresa en la Unidad de ictus para completar estudio y decidir tratamiento de revascularización.
+
+Durante su ingreso en la unidad de ictus, el paciente se mantiene hemodinámicamente estable, asintomático desde el punto neurológico. Monitorización cardiaca sin eventos arrítmicos. La analítica muestra perfil lípidico con hipertrigliceridémia y hemoglobina glicada de 7.1%. RMN cerebral que muestra pequeñas lesiones isquémicas agudas establecidas en territorio superficial de ACM izquierda con signos que sugieren oclusión/estenosis crítica extracraneal de la ACI homolateral. Se considera candidato a tratamiento de revascularitzación carotidea urgente (en <15 dias) por via endovascular para confirmar que se trata de una estenosis severa o si una oclusió arterial, y tratar con angioplastia y stent en caso de estenosis.
+
+Dia 14/12/2017
+Parlo extensament amb pacient i dona i explico el risc de recurrència d'ictus degut a l'estenosi severa de ACI esquerre amb tractament mèdic optim (del 10-15% anual) en comparació amb el risc de la inervenció de revascularització (risc de complicacions embòliques o dany per reperfusió greus <5%).
+Tot i així, després de comentar-ho extensament amb el propi pacient i amb la familia, decideixen postposar la intervenció 2 mesos (fer-ho al febrer) per motius personals
+
+Informe d'alta d'hospitalització
+
+
+
+
+
+Mantindrem el millor tractament mèdic (doble antiagregaciuó i estatines dosis altes), alerto dels símptomes d'alarma i de la necessitat de avisar al 061 en cas de qualsevol símptoma neurològic o amaurosi fugax.
+Cito a CCEE NRL (Dra. _NAME_) el dia 19/01/2018 a les 11:00h Ha tolerat sedestació, deambulació i dieta oral.
+Al alta: mRS: 0
+NIHSS: 1
+
+DIAGNÒSTICS
+1.- Ictus isquémico minor de territorio de arteria cerebral media izquierda por mecanismo embólico y etiologia aterotrombótica en paciente con estenosis crítica de la arteria carotida interna izquierda
+2.- Diabetis mellitus tipo 2  con neuropatia diabética 3.- Dislipemia
+4.- Claudicación intermitente
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Adiro 300mg/dia, via oral Clopidogrel 75mg/dia, via oral Atorvastatina 80mg/dia, via oral Ranitidina 300mg/día
+Insulina Lantus (dosis similar a la prèvia), via subcutània Pregabalina 75mg/día,
+Metformina 850mg/8h Tamsulosina 0.4mg/día.
+
+CONTROL
+CCEE NRL (Dra. _NAME_) el dia 19/01/2018 a les 11:00h
+Alerto dels símptomes d'alarma i de la necessitat de avisar al 061 en cas de qualsevol símptoma neurològic o amaurosi fugax.
+
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+
+
+
+
+
+
+
+
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+15.12.2017
+Pàgina 1 de 4

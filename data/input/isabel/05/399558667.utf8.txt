@@ -1,0 +1,101 @@
+_LOCATION_ Telf Consultes: _CONTACT_ / _CONTACT_
+Telf Centraleta Hospital: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 87 Anys
+NIF/DNI: _ID__NAME_; _NAME_
+Informe d'epicrisi
+_LOCATION_
+_SS_ NEUROLOGIA 16.08.2017	12:07:10
+ABS
+Servei Data d'alta
+_CONTACT_; _CONTACT_; _CONTACT_
+DOMICIL/RES.SOC 08.08.2017
+_LOCATION_
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Ictus isquèmic d'ACI esquerra.
+
+ANTECEDENTS
+-	Al·lèrgia a la Penicil·lina
+-	No hàbits tòxics.
+
+-	Hipertensió arterial.
+-	Diabetis Mellitus tipus II.
+-	ACxFA anticoagulada des de fa  un any per ictus  minor. Afàsia  que  es va recuperar.  Des d'aleshores en tractament amb Sintrom.
+-	Glaucoma.
+-	Hipoacúsia.
+
+-	Situació basal: Viu sola, amb ajuda per a les tasques de la casa. Rankin previ 0.
+
+MEDICACIÓ HABITUAL
+Bisoprolol 5 mg/24h; Valsartan + Amlodipino + HCTZ ; Ganfort (Timolol + Bimatoprost); Levemir 30 ui; Metformina , Sintrom
+
+PROCÉS ACTUAL
+Dona de 87 anys ingressada a Neurologia per ictus isquèmic d'ACI esquerra.
+
+Vista per darrera vegada el dia 7/08/2017 a les 21 hores; el matí del dia 8/08/17 no s'ha aixecat a obrir la porta al personal d'ajut domèstic. Trobada al llit amb hemiplègia dreta i amb impossibilitat per a la comunicació verbal. Motiu pel qual s'activa codi ictus. A l'arribada a Urgències, presenta obertura ocular espontània, afàsia global, desviació oculocefàlica esquerra, hemiplègia dreta amb Babinski ipsilateral. Es realitza TAC cranial que mostra signes d'infart isquèmic extens i establert al territori de l'ACI esquerra. Es contrainidica tractament trombolític per infart establert.
+
+EXPLORACIÓ FÍSICA
+
+FC	bpm Tªaxi 37.0 ºC
+FR	rpm Tªrec  ºC
+TA s	150 mmHg SAT O2  %
+TA d   90 mmHg Pes Kg
+
+Regular estat general, normohidratada, pal·lidesa cutània. Eupneica en repòs. Afebril.
+
+-	AC: tons arrítmics, no ausculto bufs ni frecs.
+-	AR: bona entrada d'aire bilateral, sense sorolls patològics sobreafegits.
+-	ABD: tou i depressible. No dolorós a la palpació. No es palpen masses ni megàlies. Peristaltisme conservat.
+-	NRL: Alerta. Desviació oculocefàlica a l'esquerra. Parèsia facial SN dreta. Hemianòpsia homònima dreta per
+-	
+Informe d'epicrisi
+
+
+
+
+amenaça. Mutisme. No compren ordres senzilles. Hemiplègia dreta. Babinski dret. Marxa no valorable.
+
+EXPLORACIÓ COMPLEMENTÀRIA
+A/S Urgències (08/08/2017):
+-	BQ: Creatinina 0.78 mg/dL, Glucosa 302 mg/dL, K 3.6 mEq/L, Na 135 mEq/L, Urea 27 mg/dL.
+-	Hemostàsia:  INR 3.78, T.protrombina 42.5 seg, Raó T.protrombina 3.83, TTPA 33.1 seg, Raó TTPA 1.07,
+Fibrinogen 509 mg/dL.
+-	Hemograma: Hemoglobina 15.4 g/dL, Hematòcrit 45.3 %, Leucòcits 14560m/L (N 84.1 %, L 13.1 %), Plaquetes 222000/mL.
+A/S Neurologia (10/08/2017):
+-	BQ: Glucosa 257 mg/dL, Urea 29 mg/dL, Creatinina 0.72 mg/dL, Colesterol 187 mg/dL, Colesterol HDL 60 mg/dL, AST 26 U/L, ALT 16 U/L, GGT 75 U/L, LDH 593 U/L, Bilirubina 1.28 mg/dL, FA 91 U/L, Bilirubina esterificada 0.47 mg/dL, Albumina 3.90 g/dL, Proteïna 7.04 g/dL, PCR 7.90 mg/dL.
+-	Hemostàsia: INR 2.38, T.protrombina 26.6 seg, Raó T.protrombina 2.40, Fibrinogen 642 mg/dL.
+-	Hemograma: Hemoglobina 15.3 g/dL, Hematòcrit 44.7 %, VCM 87.1 fL, ADE 13.5 %, CCMH 34.2 g/dL, HCM 29.8 pg, Leucòcits 13770/mL (N 73.7 %, L 15.5 %), Plaquetes 169000/mL.
+
+ECG (08/08/2017): FA a 90 bpm, sense alteracions agudes de la repolarització.
+
+TAC cranial (08/08/2017): Extensa àrea hipodensa corticosubcortical frontoparietotermporal, insular i gangliocapsular esquerra amb discret efecte massa no significatius  associat sobre les estructures adjacents, compatible amb extens infart isquèmic establert en fase aguda en territori de l'ACA i ACM superficial i profona esquerres. Discreta atròfia cerebral difusa. Lacunar crònic talàmic dret. Resta sense altres troballes significatives.
+
+ECG (16/08/2017): Asistòlia.
+
+
+EVOLUCIÓ CLÍNICA
+Dona de 87 anys ingressada a Neurologia per Ictus isquèmic establert del territori de l'artèria caròtida interna esquerra.
+
+Durant l'hospitalització, la pacient s'ha mantingut hemodinàmicament estable. A les 24h d'ingrés, inicia sindrom febril amb elevació de paràmetres inflamatoris a l'analítica, s'orienta com a sobreinfecció respiratòria i, donat mal pronòstic vital, es decideix conjuntament amb la família no iniciar antibioteràpia i mantenir tractament de suport.  El dia 12/08/2017, la pacient presenta disminució del nivell de consciència amb coma arreactiu, respiració rítmica, estrabisme divergent de l'ull dret, midriasi arreactiva de l'esquerre. Desviació oculocefàlica esquerra. Tetraplegia. Babinski bilateral. Finalment, la pacient és exitus el dia 16/08/2017 a les 10:35h.
+
+DIAGNÒSTICS
+Ictus isquèmic de territori de l'ACI esquerra.. Origen cardioembòlic. ACXFA Probable broncoaspiració.
+Exitus
+
+
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+16.08.2017
+Pàgina 1 de 2

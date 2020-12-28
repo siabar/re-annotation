@@ -1,0 +1,74 @@
+T0	FECHA 223 233	11.04.2017
+#0	AnnotatorNotes T0	2017-04-11
+T1	HORA 236 241	16:54
+#1	AnnotatorNotes T1	16:54
+T2	FECHA 285 295	09.04.2017
+#2	AnnotatorNotes T2	2017-04-09
+T3	HORA 298 303	06:26
+#3	AnnotatorNotes T3	06:26
+T4	SECCION_MOTIVO_DE_INGRESO 371 388	Motivo de Ingreso
+T5	SECCION_ANTECEDENTES 485 497	ANTECEDENTES
+T6	_SUG_Trombolisis_intravenosa 648 668	tratamiento con  HGO
+T7	_SUG_Tratamiento_anticoagulante 809 816	sintrom
+T8	SECCION_ANTECEDENTES_QUIRURGICOS 917 941	Antecedentes quirúrgicos
+T9	FECHA 969 973	2002
+#9	AnnotatorNotes T9	2002-UNDEF-month-UNDEF-day
+T10	FECHA 1014 1018	1984
+#10	AnnotatorNotes T10	1984-UNDEF-month-UNDEF-day
+T11	_SUG_Tratamiento_anticoagulante 1235 1242	Sintrom
+T12	_SUG_mRankin 1460 1465	mRS 2
+T13	SECCION_PROCESO_ACTUAL 1511 1528	ENFERMEDAD ACTUAL
+T14	_SUG_Tratamiento_anticoagulante 1610 1622	acenocumarol
+T15	_SUG_mRankin 1642 1647	mRS 2
+T16	HORA 1769 1787	las 3 de la mañana
+#16	AnnotatorNotes T16	03:00
+T17	SECCION_EXPLORACION_FISICA 1974 1992	EXPLORACIÓN FÍSICA
+T18	FECHA 2018 2024	9/4/17
+#18	AnnotatorNotes T18	2017-04-09
+T19	_SUG_NIHSS 2486 2537	NIHSS: 0+1+0+1+2 // 1+(3+0)+(3+0) // 0+1+2+0+0 = 14
+T20	FECHA 2559 2566	12/4/17
+#20	AnnotatorNotes T20	2017-04-12
+T21	_SUG_NIHSS 3008 3059	NIHSS: 0+1+0+0+2 // 1+(4+0)+(4+0) // 0+1+2+0+0 = 15
+T22	SECCION_EXPLORACION_FISICA_AL_ALTA 3062 3069	Al alta
+T23	_SUG_NIHSS 3432 3482	NIHSS: 0+1+0+0+2 // +(4+0)+(3+0) // 0+1+1+1+0 = 13
+T24	SECCION_EXPLORACIONES_COMPLEMENTARIAS 3485 3514	EXPLORACIONES COMPLEMENTARIAS
+T25	_SUG_TAC_craneal 3596 3598	TC
+T26	_SUG_Trombolisis_intravenosa 3939 3948	Trombosis
+T27	_SUG_Trombolisis_intravenosa 4018 4027	Trombosis
+T28	_SUG_Trombolisis_intravenosa 4056 4065	Trombosis
+T29	_SUG_Trombolisis_intravenosa 4137 4146	Trombosis
+T30	_SUG_TAC_craneal 4294 4296	TC
+T31	_SUG_ASPECTS 4412 4419	aspecto
+T32	_SUG_TAC_craneal 4473 4483	TC craneal
+T33	_SUG_TAC_craneal 4781 4791	TC craneal
+T34	FECHA 5023 5033	marzo 2017
+#34	AnnotatorNotes T34	2017-03-UNDEF-day
+T35	FECHA 5735 5742	21/4/17
+#35	AnnotatorNotes T35	2017-04-21
+T36	SECCION_EVOLUCION 5755 5764	EVOLUCIÓN
+T37	_SUG_Trombolisis_intravenosa 5928 5941	fibrinolítico
+T38	_SUG_TAC_craneal 5960 5962	TC
+T39	_SUG_Test_de_disfagia 6134 6150	test de disfagia
+T40	_SUG_Tratamiento_anticoagulante 6420 6427	sintrom
+T41	_SUG_Tratamiento_anticoagulante 6496 6506	dabigatran
+T42	_SUG_TAC_craneal 6665 6675	TC craneal
+T43	FECHA 7407 7414	21/4/17
+#43	AnnotatorNotes T43	2017-04-21
+T44	_SUG_NIHSS 7760 7769	NIHSS= 13
+T45	_SUG_mRankin 7771 7776	mRs=4
+T46	SECCION_DIAGNOSTICOS 7778 7790	DIAGNÓSTICOS
+T47	_SUG_Ictus_isquemico 7791 7809	Infarto  isquémico
+T48	_SUG_Localizacion 7811 7827	capsulo-talámico
+T49	_SUG_Lateralizacion 7829 7838	izquierda
+T50	_SUG_Localizacion 7843 7851	temporal
+T51	_SUG_Lateralizacion 7867 7876	izquierdo
+T52	_SUG_Etiologia 7901 7915	cardioembólica
+T53	_SUG_Tratamiento_anticoagulante 7947 7954	sintrom
+T54	_SUG_Etiologia 7995 8007	Hipertensión
+T55	SECCION_RECOMENDACIONES 8036 8059	RECOMENDACIONES AL ALTA
+T56	SECCION_TRATAMIENTO_AL_ALTA 8060 8079	Tratamiento al alta
+T57	_SUG_Tratamiento_anticoagulante 8081 8091	Dabigatran
+T58	FECHA 8555 8565	21.04.2017
+#58	AnnotatorNotes T58	2017-04-21
+T59	FECHA 8643 8653	21.04.2017
+#59	AnnotatorNotes T59	2017-04-21

@@ -1,0 +1,90 @@
+T1	Fecha_de_ingreso 234 244	20.12.2017
+#1	AnnotatorNotes T1	2017-12-20
+T2	HORA 245 250	10:44
+#2	AnnotatorNotes T2	10:44
+T3	Fecha_de_alta 256 266	22.12.2017
+#3	AnnotatorNotes T3	2017-12-22
+T4	Hora_de_alta 267 272	15:50
+#4	AnnotatorNotes T4	15:50
+T6	mRankin_previa 512 517	mRs 0
+T7	FECHA 612 624	febrero 2016
+#7	AnnotatorNotes T7	2016-02-UNDEF-day
+T8	_SUG_Etiologia 694 706	HIPERTENSION
+T9	Tratamiento_antiagregante_hab 778 781	AAS
+T10	Fecha_inicio_sintomas 948 953	20/12
+#10	AnnotatorNotes T10	2017-12-20
+T11	Hora_inicio_sintomas 971 975	8:45
+#11	AnnotatorNotes T11	8:45
+T12	_SUG_Ictus_isquemico 1111 1116	ictus
+T14	_SUG_NIHSS 1188 1195	NIHSS 3
+T15	_SUG_Lateralizacion 1266 1273	derecho
+T17	_SUG_TAC_craneal 1286 1296	TC craneal
+T18	Hora_TAC_inicial 1298 1303	10:15
+#18	AnnotatorNotes T18	10:15
+T19	_SUG_Trombolisis_intravenosa 1399 1403	rtPA
+T20	Hora_primer_bolus_trombolisis_rtPA 1410 1415	10:17
+#20	AnnotatorNotes T20	10:17
+T21	HORA 1453 1454	1
+#21	AnnotatorNotes T21	1:00
+T22	_SUG_Lateralizacion 1796 1803	derecho
+T23	_SUG_Lateralizacion 1986 1995	bilateral
+T24	NIHSS_previa 1997 2036	NIHSS (0-0-0-0-0-1-0-0-0-0-0-0-0-2-0) 3
+T25	_SUG_NIHSS 2465 2472	NIHSS 0
+T27	TAC_craneal 2630 2640	TC craneal
+T28	_SUG_Lateralizacion 2751 2758	derecha
+T29	_SUG_Etiologia 2835 2847	ateromatosis
+T30	_SUG_Arteria_afectada 2848 2857	carotídea
+T32	_SUG_TAC_craneal 2956 2966	TC craneal
+T33	FECHA 2968 2973	21/12
+#33	AnnotatorNotes T33	2016-12-21
+T34	_SUG_ASPECTS 3047 3054	aspecto
+T35	_SUG_Lateralizacion 3090 3097	derecha
+T36	_SUG_ASPECTS 3114 3121	aspecto
+T37	_SUG_Lateralizacion 3146 3155	izquierda
+T38	_SUG_Lateralizacion 3177 3184	derecho
+T40	Ictus_isquemico 3215 3230	ICTUS ISQUEMICO
+T42	Localizacion 3241 3248	LACUNAR
+T44	FECHA 3317 3322	20/12
+#44	AnnotatorNotes T44	2016-12-20
+T45	_SUG_Lateralizacion 3349 3356	derecho
+T46	_SUG_NIHSS 3358 3365	NIHSS 3
+T47	_SUG_Trombolisis_intravenosa 3387 3412	tratamiento fibrinolítico
+T48	_SUG_Ictus_isquemico 3447 3452	ictus
+T50	_SUG_TAC_craneal 3502 3512	TC craneal
+T51	_SUG_Localizacion 3569 3576	troncos
+T52	_SUG_Lateralizacion 3591 3592	e
+T53	_SUG_Tratamiento_antiagregante 3704 3715	clopidogrel
+T55	Etiologia 3867 3874	lacunar
+T58	Localizacion 3914 3918	LACI
+T59	Tratamiento_antiagregante_alta 3943 3949	Plavix
+T60	_SUG_Tratamiento_antiagregante 3990 3993	AAS
+T61	FECHA 4238 4248	22.12.2017
+#61	AnnotatorNotes T61	2017-12-22
+T62	FECHA 4290 4300	22.12.2017
+#62	AnnotatorNotes T62	2017-12-22
+T63	HORA 4301 4306	16:49
+#63	AnnotatorNotes T63	16:49
+T64	SECCION_DIAGNOSTICOS 326 341	DIAGNÒSTIC ALTA
+T65	SECCION_MOTIVO_DE_INGRESO 358 376	MOTIVO DE CONSULTA
+T66	SECCION_ANTECEDENTES_PATOLOGICOS 520 544	ANTECEDENTES PATOLOGICOS
+T67	SECCION_PROCESO_ACTUAL 928 943	EPISODIO ACTUAL
+T68	SECCION_EXPLORACION_FISICA 1514 1532	EXPLORACION FISICA
+T69	SECCION_EXPLORACIONES_COMPLEMENTARIAS 2475 2504	EXPLORACIONES COMPLEMENTARIAS
+T70	SECCION_DIAGNOSTICOS 3187 3210	ORIENTACION DIAGNOSTICA
+T71	SECCION_CONTROL 4025 4036	SEGUIMIENTO
+T72	SECCION_TIPO_DE_INGRESO 4082 4096	Tipus d'ingrés
+#5	AnnotatorNotes T6	0
+T5	SECCION_TRATAMIENTO_HABITUAL 765 776	TRATAMIENTO
+T16	Fecha_llegada_hospital 948 953	20/12
+#6	AnnotatorNotes T16	2017-12-20
+#8	AnnotatorNotes T24	3
+T13	Fecha_TAC_inicial 948 953	20/12
+#9	AnnotatorNotes T13	2017-12-20
+T26	Fecha_trombolisis_rtPA 948 953	20/12
+#12	AnnotatorNotes T26	2017-12-20
+T31	NIHSS_alta 3842 3858	NIHSS al alta: 0
+#13	AnnotatorNotes T31	0
+T39	mRankin_alta 3876 3890	mRs al alta: 0
+#14	AnnotatorNotes T39	0
+T41	SECCION_TRATAMIENTO_AL_ALTA 3920 3939	TRATAMIENTO AL ALTA
+T43	SECCION_MOTIVO_DEL_ALTA 4098 4110	Motiu d'alta

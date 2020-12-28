@@ -1,0 +1,103 @@
+INFORME ALTA HOSPITALARIA
+_NAME_
+Núm. Episodi: _ID_ Núm. HC: _ID_
+_SS_ _LOCATION_
+_LOCATION_
+Tel. _CONTACT_Adreça: _LOCATION_	C.A.P.: _SS_
+Població: _LOCATION_	Sexe: DONA  Data naixement: _DATE_  Edat: 89a
+Telèfon: _CONTACT_  C.P.: _LOCATION_	T.I.S.: _ID_  DNI/NIF: _ID_
+
+Procedència: URGÈNCIES	Data Ingrés Hospital: 25/11/2017
+Servei assistencial: UNITAT DE SUPORT A URGÈNCIES	Data Ingrés Servei: 25/11/2017
+Metge Responsable: _NAME_
+
+
+MOTIVO DE INGRESO: código ictus.
+
+ANTECEDENTES PERSONALES:
+-	Niega alergias conocidas.
+-	Niega hábitos tóxicos.
+-	ACxFA diagnosticada en 1994 a raíz de AVC, en tratamiento con Sintrom y Enconcor. Visitado por ultima vez con Dr. _NAME_ en Abril de 2015 dándole el alta y controles por su MAP. Último ecocardiograma 2016: insuficiencia tricuspidea masiva, hipertensión pulmonar probablemente severa con severa dilatación de las cavidades derechas, vena cava inferior y venas suprahepáticas, con función sistólica conservada. Insuficiencia mitral ligera-moderada e insuficiencia aórtica ligera.
+-	AVC cardioembólico de arteria cerebral media en 1994 sin secuelas y nuevo AVC en 2009 con hemiparesia derecha.
+-	Cardiopatía de etiología no filiada . Presentó descompensación en forma de IC derecha hace 3 años.
+Actualmente en tratamiento con betabloqueantes.
+-	Artrosis generalizada en tratamiento analgésico.
+-	Osteoporosis en seguimiento y tratamiento por Reumatología.
+-	El  16/01/16  sufrió  TCE  sin  perdida  de  conocimiento  por  caída  desde  la  silla  por  debilidad  en  EEII, permaneciendo estirada en el suelo varias horas.
+-	Ingreso en 2016 por neumonía en LII FINE IV e insuficiencia respiratoria
+-	Intervenciones quirúrgicas: faquectomia bilateral.
+
+Medicación habitual: Prolia (denosumab) 60 mg cada 6 meses, Emconcor 5 mg cada 12h, Sintrom 4 mg según pauta, paracetamol 500 mg cada 8h.
+
+Situación sociofuncional: vive sola con una cuidadora que viene unas horas al día. Dependiente parcial para las ABVD. Deambula con bastón. mRS 3
+
+
+ENFERMEDAD ACTUAL:
+Paciente que es traída por el SEM tras presentar de forma súbita alteración de lenguaje y dificultad para la marcha el día 25/11 sobre las 10h, activando código ictus y siendo trasladada a urgencias de nuestro centro.
+
+En urgencias, se realiza TC de cráneo descartando foco hemorrágico y angio-TC dónde se evidencia de ACM derecha hiperdensa en M1 distal. Se desestima rTPa iv por presentar INR 2.1 y se comenta el caso con guardia de Neurovascular que desestima terapia de rescate por mala calidad funcional previa.
+
+
+EXPLORACIÓN FÍSICA:
+Urgencias:
+consciente y orientada. Habla disártrica (moderada), no alteraciones del lenguaje, no déficits de fuerza en extremidades superiores. Extremidad inferior derecha 3-4/5 con hipoestesia leve. Resto sin alteraciones. AC: arrítmico, sin soplos, no edemas, pulsos presentes y simétricos. AR: murmullo vesicular conservado. ABD: anodino.
+
+NRL guardia:
+Destaca buen nivel de vigilancia. Disartria severa con disfagia. Hemiparesia izquierda 3+/5. Babinski izquierdo.
+Planta de Neurología:
+EO.
+Buen estado general. Bien hidratada y prefundida. Eupneica en reposo.
+ACR. Tonos cardiacos arritmicos con soplo pansistólico. Hipoventilación generalizada.
+
+E. NRL:
+Buen nivel de vigilancia. Disartria moderada. Motilidad ocular normal, campimetria por confrontación normal. No asimetria facial. Fuerza conservada en las 4 extremidades. No alteración de la sensibilidad. Nodismetria dedo- nariz. Marcha no explorada.
+
+E. NRL (empeoramiento):
+Somnolienta. No responde a estímulso verbales ni táctiles. Mirada centrada con pupilas medias arreactivas a la luz. Reflejo de amenaza izquierdo abolido. Al dolor presenta retirada del miembro estimulado no patético. Hemiplejia braquio-crural izq. Babinski bilateral.
+
+
+EXPLORACIONES COMPLEMENTARIAS:
+Urgencias:
+Analítica general: Hb 12'1 g/dL, Htc 37%, VCM 93'7fL, plaquetas 109x10E9/L, leucocitos 5'49x10E9/L (70 N, 16 L, 10 Mo). Glucosa 98 mg7dL, urea 38'8 mg/dL, creatinina 0'6 mg/dL, FG-CKD 80 mL/min, Na 143 mmol/L, K
+4'5 mmol/L. PCR 6'28 mg/L, TP 38%, INR 2'1, TTP 34'6s.
+
+TC cráneo: Estructures de la línia mitja centrades. Cisternes de la base i perimesencefàliques lliures. Signes d'atròfia cortico-subcortical cerebral global. Atròfia cerebel·losa associada. Leucoencefalopatia hipòxico- isquèmica periventricular de petit vas. Hiperdensitat del segment M1 de l'artèria cerebral mitja dreta, compatible amb trombosi. Hipodensitat a nucli lenticular esquerre en relació a lesió isquèmica antiga, s'acompanya de retracció parcial del VL ipsilateral. Infarts llacunars crònics a ribet insular i braç anterior de la càpsula interna drets. No hi ha imatges de sagnat intra ni extraparenquimatoses. Lesió nodular de parts  toves d'aproximadament 11x9 mm anterior a si maxil·lar dret, ja conegut. Ocupació parcial del si maxil·lar esquerre. Calcificació dels sifons carotidis i del segment intracranial de les artèries vertebrals.
+
+AngioTC: estudi vascular des de la crossa de l'aorta fins a la convexitat cerebral. Correcta permeabilitat dels troncs supraaòrtics amb una sortida conjunta de l'artèria caròtida primitiva amb el tronc innominat dret. Hi ha una correcta permeabilitat de les caròtides primitives i d'ambdues artèries vertebrals. Elongació d'artèries vertebrals i caròtides. Correcta permeabilitat de les artèries caròtides internes intracranials. Hi ha una obstrucció segmentària de M1 distal dreta i disminució de les col·laterals de la ACM dreta respecte l'esquerra. Artèria comunicant posterior dreta hipoplàsica. Artèria comunicant posterior esquerra present. La resta de les artèries del polígon de Willis són permeables i no mostren altres obstruccions.
+
+Planta:
+Analítica: pendiente.
+
+TC cráneo de urgencias: Hematoma frontal derecho de 70x53x48 mm (APxTxCC), con áreas hiperdensas y edema perilesional, que desplaza la línea media 10 mm, borra los surcos de la convexidad y comprime el asta frontal del VL ipsilateral, con incipientes signos de herniacion subfalcina. Mínima obliteración de la cisterna perimesencefálica derecha. Los hallazgos son compatibles con transformación hemorrágica de infarto de la ACM derecha. Hemoventriculo del III ventriculo y de las astas occipitales de los VL. HSA en valle silviano derecho y surcos parietales.
+EVOLUCIÓN:
+Paciente de 89 años que ingresa en neurología por clínica de PACI derecho de probable origen cardioembólico para iniciar RHB y evolución.
+En urgencias se desestimó rTPa por INR elevado y terapia de rescate por rankin previo y edad avanzada, decidiendo realizar evolución y RHB.
+En planta de neurología, se observa una mejoría de la focalidad neurológica a primera hora de la mañana aunque mantenía una disartria moderada y una disfagia siendo pendiente la valoración de logopedia.
+Al acudir la logopedia, se encuentra a la paciente con bajo nivel de consciencia sin responder a estímulos, avisando a enfermería quién avisa a Neuróloga de guardia quién observa notable cambio de la situación neurológica con respecto a la mañana. La paciente presenta bajo nivel de vigilancia, no responde a estímulos verbales o táctiles y sólo al dolor con retirada, mirada centrada con pupilas medias no reactivas a la luz, hemiplejia braquio-crural izquierda y babinski bilateral. Ante la sospecha de transformación  hemorrágica masiva, se solicita nuevo TC cráneo urgente, dónde se confirma hemorragia en todo el territorio de la ACM derecha con desplazamiento de la línea media. Durante su traslado al TC de urgencias, la paciente presenta desaturación importante requiriendo VK y remontando saturación para la realización de prueba.
+Una vez observado el TC de cráneo y al llegar a planta, la paciente presenta anisocoria y arreactividad pupilar con lo que se informa a los familiares del mal pronóstico de la paciente, se decide medidas para la confortabilidad de la paciente con bomba de sedación.
+La paciente es éxitus letales el día 28/11/17 a las 20.30h
+
+
+JUICIO CLÍNICO:
+-	Ictus de la ACM derecha de probable etiología cardioembólica con transformación hemorrágica (PH2).
+PACI derecho.
+-	Fibrilación auricular crónica.
+-	Exitus letales.
+
+
+
+Firmado:
+
+Dr/a.: _NAME_
+Metge adjunt - Neurologia Número col·legiat: _ID_
+
+Dr/a.: _NAME_
+Metge resident - MfiC Número col·legiat: _ID_
+
+
+Dr/a.: _NAME_
+Metge resident - Medicina Interna Número col·legiat: _ID_
+
+Hospitalització
+Imprès: 04/12/2017 11:21
+Pàg.: 1 de  3

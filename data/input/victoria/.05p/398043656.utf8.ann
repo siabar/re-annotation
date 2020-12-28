@@ -1,0 +1,29 @@
+T0	FECHA 96 106	27/07/2017
+#0	AnnotatorNotes T0	2017-07-27
+T1	HORA 107 112	23:35
+#1	AnnotatorNotes T1	23:35
+T2	FECHA 123 133	04/08/2017
+#2	AnnotatorNotes T2	2017-08-04
+T3	SECCION_DESTINO_AL_ALTA 273 292	Destinació a l'alta
+T4	SECCION_ANTECEDENTES_PERSONALES 497 518	Antecedents personals
+T5	_SUG_mRankin 724 732	Rankin 0
+T6	SECCION_PROCESO_ACTUAL 734 749	Malaltia actual
+T7	HORA 799 803	6:45
+#7	AnnotatorNotes T7	06:45
+T8	SECCION_EXPLORACION_FISICA 872 889	Exploració física
+T9	_SUG_NIHSS 1933 1940	NIHSS 6
+T10	SECCION_EXPLORACION_FISICA_DURANTE_HOSPITALIZACION 2220 2249	Exploració física a planta MI
+T11	SECCION_EXPLORACIONES_COMPLEMENTARIAS 2465 2493	Exploracions complementàries
+T12	_SUG_Lateralizacion 3110 3114	dret
+T13	_SUG_Lateralizacion 3311 3319	esquerre
+T14	_SUG_Lateralizacion 3746 3749	esq
+T15	_SUG_Localizacion 3896 3900	POCI
+T16	_SUG_Localizacion 4058 4065	lacunar
+T17	_SUG_Lateralizacion 4420 4428	esquerra
+T18	SECCION_DIAGNOSTICOS 4996 5007	Diagnóstics
+T19	_SUG_Ictus_isquemico 5011 5025	Ictus isquèmic
+T20	_SUG_Lateralizacion 5045 5053	esquerra
+T21	_SUG_Localizacion 5055 5059	POCI
+T22	_SUG_Etiologia 5073 5086	indeterminada
+T23	SECCION_TRATAMIENTO_AL_ALTA 5110 5120	Tractament
+T24	_SUG_Tratamiento_antiagregante 5190 5195	Adiro

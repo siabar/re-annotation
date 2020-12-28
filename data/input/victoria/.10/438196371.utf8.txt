@@ -1,0 +1,74 @@
+_SS_
+_LOCATION_)  Tlf. _CONTACT_
+INFORME ALTA HOSPITALITZACIÓCIP	_ID_	Data Naix.   _DATE_	Edat 77	Sexe Home   NASS	_ID_
+Adreça   _LOCATION_	CP	_LOCATION_
+Població_LOCATION_	Tel.	_CONTACT_
+Episodi  _ID_	Admissió	05.11.2017 23:42	Alta	07.11.2017 00:29
+Servei	UCIUOHMB Medicina intensiva	Unitat	UCIHCHBL
+
+
+
+DIAGNÒSTIC ALTA
+
+Codi ICD-9	Descripció Diagnòstic
+434.91/5	AVC ISQUEMIC
+
+DADES INFORME
+
+MOTIVO DE CONSULTA
+Afasia de expresión
+
+ANTECEDENTES PATOLÓGICOS
+Paciente de 77 años sin alergias medicamentosas conocidas. Ex fumador hace 30 años de un paquete/día. Hª de consumo de alcohol con patrón de abuso y probablemente de dependencia
+-	HTA y dislipemia de larga evolución
+-	Cardiopatía hipertensiva leve documentada en ecocardiograma de mayo de 2013 (disfunción diastólica grado I, sin otras alteraciones)
+-	Obesidad abdominal
+-	Broncoespasmo sin insuficiencia respiratoria durante fiebre con infección respiratoria de vías bajas, en febrero de 2015. Alta desde Urgencias en tratamiento con amoxiclavulànico. Espirometría ambulatoria en Atención Primaria probablemente positiva para limitación obstructiva al flujo aéreo. Tratamiento broncodilatador inhalado
+-	Psoriasis
+-	Trastorno depresivo no especificado de posible base caracterial, que debuta clínicamente hace más de 30 años. Desde entonces en tratamiento farmacológico
+-	Historia de acúfenos y de hipoacusia de larga evolución, en seguimiento en ORL en el _SS_
+-	Diagnóstico endoscópico en junio de 2014, de pequeña hernia de hiato y de antritis eritematosa, con estudio histológico no sugestivo de infección por H pylori y que descartaba metaplasia intestinal
+-	ITU: 12/14: recibio tratamiento con levofloxacino
+-	Varias consultas en Urgencias por sensación de inestabilidad cefálica y disminución del tono muscular, por los que fue remitido a CCEE de Neurología en junio de 2015. Estudiado por Neurología. Dispone de eco-doppler de troncos supraaórticos que documenta, en eje derecho, la presencia de una placa irregular calcificada hemodinamicamente poco significativa, irregular, en tercio distal de arteria cerebral posterior; en eje izquierdo, una placa irregular en tercio medio de arteria cerebral posterior, oculyendo un 30% de la luz, ateromatosis en el inicio de arteria carótida interna y la presencia de arteria vertebral dominante anterógrada. Dispone además de TC de cráneo en enero de 2015 que documenta signos involutivos leves y de EEG en Enero de 2016 que no documenta signos indicativos de comicialidad, aunque detecta signos de disfunción global inespecífica de leve intensidad en región fronto-temporal izquierda
+-	Hiperplasia Beninga de Prostata
+-	Lumbociatalgia derecha crónica estudiada hace años mediante RMN. Diagnosticos de artropatía degenerativa y de canal lumbar estrecho en ECAP. Ha recibido infiltraciones locales en alguna ocasión
+-	Puntoplastia de estenosis de punto lacrimal en febrero de 2013
+
+Tratamiento activo: Dilban 75/650 1 inh d, simvastatina 20 mg d, paroxetina 20 mg d, lorazepam 5 mg noche, bisoprolol 5 mg d, amlodipino 5 mg d, metformina 0,5 comprimidios desayuno y cena, gliclazida 30 mg 2 c mañana, losartan 50 mg 1 cd, omeprazol 20 mg 1 cd, Ciclochem champú, fexomenadina clorhidrato según evolución.
+NHC	_ID_	Pacient	_NAME_
+
+ENFERMEDAD ACTUAL
+Paciente traído a UCIAS a las 23h del dia 05/11 por presentar clínica de alteración del habla desde las 20h. A nuestra valoración (23.02h), paciente consciente, Glasgow 15, no alteración ppcc, afasia de expresión moderada, no alteración campos visuales, motilidad ni sensibilidad, no dismetrías (NIHSS 3). Realizamos TC craneal urgente que descarta lesiones agudas por lo que, ante focalidad invalidante (e imposibilidad para realizar angioTC según indica la radióloga), iniciamos rTPA (bolus 7mg a las 23.29h+ perfusión 61mg) sin mejoría de la clínica y contactamos con _SS_ que aceptan paciente para valorar rescate.
+
+EXPLORACIÓN FISICA
+TA 153/73mmHg, FC 71lpm RS, sat.O2 basal >95%, afebril AR: MVC, no ruidos sobreañadidos
+AC: rítmico, no ausculto soplos Abdomen anodino
+NRL: Glasgow 15. NIHSS 4 (0-1-0-0-0-0-0-0-0-0-0-0-2-1-0)
+No edemas EEII, pulsos periféricos presentes y simétricos EXPLORACIONES COMPLEMENTARIAS
+-TC craneal: Estructuras de la línea media centradas. Moderada dilatación del sistema ventricular, simétrico y proporcional a la dilatación de los surcos aracnoideos. Hipodensidad difusa de la sustancia blanca periventricular y subcortical en relación a cambios por hipoxia isquemia crónica. No se observan otras alteraciones morfológicas ni tomodensitométricas en parénquima cerebral, cerebeloso ni tronco del encéfalo. Ausencia de líneas de
+fractura. CONCLUSIÓN: Estudio sin alteraciones agudas.
+-AG: Leu 5290, Neu 2880 (54%), Ert 4130, Hb 134, Hto 40%, Plaq 137000, TTPA 1.00 (29s), TP 1.00 (100%), INR
+1.00, Cr 73, FG 84, urea 6.1, Na 143, K 4.1.
+-ECG: RS 72lpm, PR 0.20, minima infradesnivelación ST V4.
+
+ORIENTACIÓN DIAGNÓSTICA ICTUS ISQUÉMICO
+
+EVOLUCIÓN
+Paciente ingresa en UCI tras realización de TC craneal y bolus de rTPA con administración de perfusión de la misma. Ante la persistencia de oscilaciones en severidad de la afasia de expresión, comentamos con NRL de _SS_ (Dra.
+_NAME_) considerándose tributario de traslado para realizar angioTC y necesidad de rescate. Informamos al paciente y a la familia.
+
+
+
+Tipus d'ingrés: Motiu d'alta:	Urgent Trasll.Cent.Ag	
+Metge Adjunt:
+_ID_
+Servei:	_NAME_
+
+UCIUO_SS_ Medicina intensiva	Nº Col·legiat Adjunt:
+
+Data informe:  06.11.2017
+
+
+Pàgina 1 de	2
+Data i hora d'impressió:
+07.11.2017 08:48:40

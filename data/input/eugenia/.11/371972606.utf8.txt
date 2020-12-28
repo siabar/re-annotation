@@ -1,0 +1,120 @@
+I.CLINIC DE NEUROCIÈNCIES NEUROLOGIA
+_NAME_	NHC: _ID_
+
+
+Sexo/Sexe: Fem.	Fecha nac./Data naix.: _DATE_	Edad/Edat: 57 años Dirección/Adreça: _LOCATION_	CP: _LOCATION_
+Municip. (Prov.): _LOCATION_  ABS:_SS_	Tel.:_CONTACT_
+As.: SERVEI CATALA DE LA SALUT	CIP: _ID_	NASS: _ID_
+Nº epis.: _ID_	Tipo/Tipus: HOSPIT.	Inici.: 25.04.2017
+Serv: NEUROLOGIA	UO Enf.: G064 SALA G DE NEUROLOGIA	Hora: 20:34:04 Facult. de ref.: _NAME_
+
+
+
+
+Tipo ingreso/Tipus ingrés: Urgent	Motivo/Motiu alta: Dom. Familiar
+Diag.:
+ICTUS VERTEBROBASILAR () ANEMIA FERROPÉNICA a estudio ()
+Proc.:
+ANALÍTICA SANGUÍNEA () TC MULTIMODAL ()
+RM CEREBRAL Y ANGIO-RM INTRACRANEAL () RX TÓRAX. ECG. ()
+ECO-DTC SHUNT. ECOCARDIOGRAMA TRANSESOFÁGICO. () FIBROCOLONOSCOPIA. ()
+
+
+
+
+INFORME CLÍNICO ALTA / INFORME CLÍNIC ALTA
+
+Motivo de consulta / Motiu de consulta
+Alteración del habla
+
+Antecedentes e historia previa / Antecedents i història prèvia
+Mujer de 57 años, sin alergias medicamentosas conocidas. Fumadora de 1/2 paquete/día. No otros tóxicos. Independiente para las ABVD, mRS 0.
+
+*ANTECEDENTES PATOLÓGICOS:
+1.	DISLIPEMIA.
+2.	PSORIASIS en tratamiento con metotrexato
+3.	VÉRTIGO PERIFÉRICO PAROXÍSTICO BENIGNO.
+4.	SÍNDROME DEPRESIVO en tratamiento médico.
+5.	HERNIA DE HIATO Y ESOFAGITIS GRADO B.
+6.	ANEMIA. LLEVÓ TRATAMIENTO SUSTITUTIVO CON HIERRO. Presentó melenas y se realizó estudio con fibrogastroscopia en el que se diagnosticó la hernia de hiato junto con esofagitis.
+
+*INTERVENCIONES QUIRÚRGICAS: Ligadura tubárica.
+
+*MEDICACIÓN ACTUAL: Metroject 20mg/0.40 ml 1 cada 7 días, acfol 5 mg cada 7 días, cetirizina 10 mg cada 12h, lorazepam 5 mg sp, venlafaxina 150 mg cada 24h, nasonex 50 mcg cada 12h, omeprazol 20 mg/d, simvastatina 20 mg/d.
+
+Proceso actual / Procés actual
+A las 16:30h aproximadamente, mientras estaba con la hija, presenta de forma súbita audición de un ruido súbito, seguido de disartria y disminución del nivel de conciencia. Es traida por el SEM, orientado como vértigo periférico se valora en urgencias y nos avisan por la sospecha de código ictus.
+
+Exploración física / Exploració física
+25/04/2017-21:00:00: Frecuencia respiratoria (rpm) 20, Glicemia capilar (mg/dl) 157, PAS (mm Hg) 129, PAD (mm Hg) 102, Pulsioximetría (%) 97. 25 /04/2017-23:00:00 : Tª axilar (ºC) 36.
+NRL: Tendencia a somnolencia pero reactiva a preguntas. Orientada en persona, no en mes. Lenguaje normofluente sin rasgos afásicos (nomina 5/5, repite frases largas correctamente, realiza órdenes 2-3 ítems) pero tiene aumento de latencia de respuesta. Disartria moderada. No negligencias ni extinciones. Campimetría por confrontación sin déficits. Mirada centrada sin limitaciones en la excursión visual. Balance muscular conservado. Leve hemihipoestesia izqueierda. No dismetrías. NIHSS 4.
+
+Laboratorio / Laboratori
+*ANALÍTICA SANGUÍNEA: se adjunta.
+
+*MARCADORES ONCOLÓGICOS: negativos.
+
+Radiología / Radiologia
+*RX TÓRAX: sin focos de consolidación ni otros hallazgos sugestivos de patología aguda.
+
+*TC MULTIMODAL: - TC BASAL: Estructuras de la línea media centradas. Cisternas de la base libres. Sistema ventricular de tamaño, morfología y situación normales. Área hipodensa subcortical occipital izquierda con diferenciación córtico subcortical conservada, sugestivo de lesión isquémica aguda. Ténue hipodensidad focal periférica en hemisferio cerebeloso izquierdo, sugestivo de lesión isquémica aguda. No se observan imágenes de sangrado agudo intra ni extra-axial. - ANGIO-TC TSA: Defecto de replección en segmento P2 de la ACPI. Arterias carótidas comunes y ACIs permeables.. Arteria basilar permeable. Arterias vertebrales permeables, con dominancia izquierda. Resto de arterias intracraneales proximales (ACAs, ACMs y ACPs) visualizadas, sin observar defectos de replección. Trayecto proximal de las arterias cerebelosas superiores, AICAs y PICA izquierda permeables. No se identifica claramente la PICA derecha. - TC PERFUSIÓN: Retraso del TTP occipitotemporal posterior y focalmente a nivel del tálamo izquierdo con alteración focal subcortical del CBV occipital izquierda, territorio de la ACPI. Mismatch significativo. Restraso del TTP focal periférico en hemisferio cerebeloso izquierdo con alteración del mapa de CBV. Mismatch no significativo. - Conclusiones: Obstrucción completa del segmento P2 de la ACPI. Hipodensidad subcortical occipital izquierda y córticosubcortical focal en hemicerebelo izquierdo, sugestivo de lesión isquémica aguda.
+
+*TC CEREBRAL DE CONTROL: cisternas basales libres. Sistema ventricular de tamaño, morfología y situación normal. Lesiones isquémicas agudas establecidas a nivel occipital izquierdo y en localización cerebelosa bilateral de predominio izquierdo sin efecto de masa significativo ni componente hemorragico en la actualidad. No se aprecian otras alteraciones parenquimatosas significativas en el estudio actual.
+
+*RM CEREBRAL: infartos isquémicos agudos cerebelosos bilaterales corticosubcorticales, sin signos de transformación hemorrágica, evidentes en las secuencias de difusión. Infarto isquémico agudo corticosubcortical temporooccipital parasagital izquierdo, en el territorio de  arteria cerebral  posterior izquierda, con lesión isquémica aguda asociada talámica homolateral izquierda, sin signos de transformación hemorrágica de las lesiones isquémicas agudas supratentoriales. Estructuras de línea media, centradas. Cisternas basales no ocupadas. Sistema ventricular de tamaño, morfología y situación; normales. Probables calcificaciones de globos pálidos. No se detectan signos de ateromatosis del tronco basilar ni asimetrías de flujo de ambas arterias cerebrales posteriores.
+
+Exploraciones complementarias / Exploracions complementàries
+
+
+
+
+*ECG: ritmo sinusal sin alteraciones en la repolarización.
+
+*ECOCARDIOGRAMA TRANSESOFÁGICO: FEVI 60%. Ventrículo izquierdo de dimensiones normales con motilidad global y segmentaria conservadas. patrón diastólico normal. Aurícula izquierda ligeramente dilatada. Orejuela de dimensiones normales sin trombos en su interior. Velocidades Dopple normales. Septo interauricular íntegro, sin paso de burbujas a través del foramen oval. Válvula aórtiva trivalva normofuncionante. Raíz aórtica y aorta torácica descendente normales sin ateromatosis significativas. Insuficiencia mitral leve. Cavidades derechas de dimensiones y motilidad normales. Insuficiencia tricuspídea ligera que permite estimar una baja probabilidad de hipertensión pulmonar. Vena cava inferior no dilatada y con colapso inspiratorio >50%. No se detecta derrame pericárdico.
+
+*FIBROCOLONOSCOPIA: Extensión exploración: Se explora todo el colon hasta el ciego visualizando orificio apendicular. Exploración: Se examina el colon sin hallar lesiones, quedando algunas áreas de la mucosa sin examinar por una preparación  inadecuada (restos no aspirables). Orificios diverticulares localizados en sigma, sin signos de inflamación ni hemorragia. No hay fijación de asas. Hemorroides en conducto anal. Procedimientos: Ninguno. Orientación diagnóstica: Preparación regular. Sin lesiones mucosas en los tramos visualizados. Diverticulosis. Hemorroides. No se observan complicaciones inmediatas después del procedimiento.
+
+*ECO-DOPPLER SHUNT: basal sin Valsalva: 0; Valsalva a los 4 segundos: 5 burbujas; Valsalva a los 6 segundos: 2; Valsalva a los 8 segundos: 1. Mínimo paso de burbujas sugestivo de shunt derecha-izquierda leve.
+
+Evolución / Evolució
+1.	ICTUS ISQUÉMICO EN TERRITORIO VERTEBROBASILAR.
+
+A su llegada a nuestro cento hipertensa con TAS 177 mmHg, afebril. En la exploración disartria moderada, tendencia a somnolencia, leve hemihipoestesia izquierda y desorientación en el mes (NIHSS 4). Se activa circuito código ictus y se realiza TC multimodal, en la secuencia basal se aprecia área hipodensa subcortical occipital izquierda con diferenciación córtico-subcortical conservada y tenue hipodensidad focal periférica en hemisferio cerebeloso izquierdo, sugestivos de lesión isquémica aguda. El angioTC muestra un defecto de replección en segmento P2 de la ACPI. No se identifica claramente la PICA derecha, resto sin alteraciones destacables. En los mapas de perfusión se observa un restraso del TTP occipito-temporal posterior y focalmente a nivel del tálamo izquierdo con leve alteración del volumen y restraso del TTP focal periférico en hemisferio cerebeloso izquierdo con alteración del mapa de volumen. Analítica con glucemia 156, Hto 32%, Hb 9.6, VCM 70, HCM 21. 421000 trombocitosis. Resto sin alteraciones destacables. Se realiza fibrinolisis de inicio a las 18:39, completándose la perfusión sin incidencias destacables.
+Se completa el estudio con neuroimagen (RM cerebral) en la que destaca lesiones parcheadas en ambos cerebelos, lesión en territorio de la ACPI y talámica izquierda anterior, sin transofrmación hemorrágica. Estudio vascular intra y extracraneal sin estenosis significativas. Ecocardiograma transesofágico sin patología cardioembólica y monitorización >24h sin arritmias.
+Se trata de un ictus isquémico en territorio vértebro-basilar. Se inicia tratamiento con heparina, pasando posteriormente a clopidogrel y de nuevo a heparina por sospecha de estado protrombótico asociado.
+Durante su estancia en neurología la paciente evoluciona de forma favorable, presentado un episodio puntual de desorientación nocturna y ligeros déficits mnésicos. Se propone inclusión en el estudio ESUS NAVIGATE, que la paciente acepta. Dada la estabilidad clínica se decide alta domiciliaria.
+Al alta: NIHSS: 0;   TOAST: indeterminado (estudio completo);   mRS: 1 (déficit mnésico leve).
+
+2.	ANEMIA MICROCÍTICA FERROPÉNICA A ESTUDIO.
+En analítica de ingreso, destaca Hb de 9 g/L con ferritina de 9 mg/dL. Se inicia tratamiento de reposición de Fe de manera endovenosa y oral.  Dados los antecedentes familiares de cáncer de colon se realiza
+
+
+
+fibrocolonoscopia sin hallazgos patológicos y oncomarcadores, negativos. Al alta se solicita realización de PET de forma ambulatoria.
+
+Plan terapéutico / Pla terapèutic
+-	Atorvastatina 40 mg/24h. - Sulfato de hierro 80 mg/24h por la mañana en ayunas. - Enalapril 5 mg712h. - Mometasona 50 mcg/12h. - Omeprazol 20 mg/24h. - Cetirizina 10 mg/24h. - Venlafaxina 150 mg724h. - Lorazepam 5 mg/24h PRN. - Metotrexato 1 ud/semana. - Ácido fólico 6 mg/24h.
+
+Otras recomendaciones / Altres recomanacions
+-	Participará en estudio ESUS NAVIGATE. Acudirá a consultas con el Dr. _NAME_ el 09/05/17 a las 13:30h (se adjuntan citaciones). - Se contactará para realizar PET de forma ambulatoria. - Control estricto de los factores de riesgo cardiovascular por parte de su CAP. - Se recomienda encarecidamente cese de hábito tabáquico.
+
+
+
+Firma/Signatura1: _NAME_	Firma/Signatura2: _NAME_ Categoría: Resident 1	Categoría: Consultor/a 1
+Nº Matrícula HCP: _ID_	Nº Matrícula HCP: _ID_
+
+Fecha/Data Informe: 09.05.2017
+Hora Informe: 12:08:25
+
+Docum.: _ID_
+Hist. Clínica: _ID_
+El _SS_ ha incorporado sus datos al Fichero de Pacientes, para tratarlos con fines sanitarios.
+Puede ejercer sus derechos de acceso, rectificación, cancelación y oposición, así como obtener mas información en la Unidad de Atención al Cliente.
+Vers. 00
+Pag. 2 de
+4
+Episod.: _ID_
+_SS_ ha incorporat les seves dades al Fitxer de Pacients, per a tractar-los amb finalitats sanitàries. Pot exercir els seus drets d'accés, rectificació, cancel·lació i oposició, i obtenir més informació a la Unitat d'Atenció al Client.
+_SS_
+_LOCATION_) _LOCATION_) Tel. _CONTACT_ Fax _CONTACT_
+http://_CONTACT_/

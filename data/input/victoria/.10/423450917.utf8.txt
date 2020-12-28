@@ -1,0 +1,128 @@
+SERVEI DE NEUROLOGIA
+INFORME DE ALTANº Historia clínica	_ID_
+Fecha de nacimiento
+_DATE_
+C.I.P.	_ID_	Código Centro	_ID_
+Teléfono	_CONTACT_	Dirección	_LOCATION_ Fecha ingreso	19/09/17		_LOCATION_ Fecha de alta	28/09/17	Teléfono	_CONTACT_
+Nº Asistencia	_ID_
+UH	_ID_
+
+
+
+DIAGNÓSTICOS:
+1.	ICTUS ISQUÉMICO (PACI) EN TERRITORIO DE ACM IZQUIERDA. TOAST CARDIOEMBÓLICO
+2.	FIBRINOLISIS EV CON rtPA
+3.	FA PAROXÍSTICA ANTICOAGULADA con rivaroxaban.
+4.	IRA de etiología prerrenal
+5.	IC ESTABLE
+6.	ANEMIA EN ESTUDIO
+7.	DEMENCIA TIPO ALZHEIMER
+
+Paciente mujer de 87 años. Deterioro cognitivo tipo Alzheimer pero vive sola, con ayuda de una cuidadora por las mañanas (1h cada día). Regular soporte social por parte de sus sobrinos (trabajan y no tienen tiempo). No tiene hijos. Deambula sin soportes. mRs 3.
+
+
+
+PROCEDIMIENTOS:
+-	Ingreso y monitorización en Unidad de Ictus
+-	Fibrinolisis ev
+-	TC craneal (x2) y angioTC
+
+ANTECEDENTES:
+-	Hipertensión arterial en tratamiento médico.
+-	Cardiopatía hipertensiva.
+-	ICC
+*	Ecocardiograma  Nov/16:  VE  no  dilatado  ni  hipertrófico,  FEVI  conservada  (63%),  sin  claros segmentarismos. Sin valvulopatías significativas. Patrón diastólico de alteración de la repolarización.
+*Última descompensación en setiembre del 2017, visitada en urgencias e ingresada posteriormente en _SS_.
+-	Deterioro cognitivo tipo Alzheimer en grado moderado. En seguimiento en CCEE de NRL hasta 2015.
+-	Trombo intraluminal en aorta torácica descendente como hallazgo casual en 2015.
+*	TAC TÓRAX Julio/17: se observó desaparición del trombo casi flotante en aorta descendente.
+-	Ileitis con suboclusión (2015).
+-	Tromboembolia cubital en MSI en 27/7/16 que remitió con tratamiento médico (no anticoagulación posteriormente por hallarse en ritmo sinusal).
+-	Abril/17: Isquemia aguda en MS que requirió embolectomia transhumeral izquierda + perfusión de
+200.000 UI de UK.
+-	Acudió a urgencias el 11/09 en contexto de IRespiratoria aguda por IC descompensada secundaria a anemia  grave  5.9g/dl  no  filiada  (valorada  por  Digestivo  se  recomendó  estudio  ambulatorio).  En urgencias se detecta FA en ECG del 11/09 no transferido. Es dada de alta posteriormente a _SS_ retirando Xarelto y con enoxaparina 40mg/d.
+
+TRATAMIENTO HABITUAL (dudoso cumplimiento).
+-	Atrovent 20mcg 2inh/8h
+-	BoiK, 50 1comp/24h
+-	Enalapril 5mg/24h
+-	Formodual (formoterol/beclametasona) 100/6mcg 1inh/12h
+
+Nombre	_NAME_	
+-	Furosemida 40mg 2 comp/24h
+-	Hydrapress 50mg 1/2 comp/8h
+-	Lobivon 5mg 1/2 comp/24h
+-	Minitran 5mg/24h
+-	Osvical D/24h
+
+ENFERMEDAD ACTUAL:
+Paciente traida a urgencias desde _SS_ tras haber objetivado el dia 19/972017 a las 14:30h disminución brusca del nivel de consciencia con mutismo y hemiparesia derecha. A su llegada a urgencias llaman de triaje a Neurología y se decide activar CIIH.
+
+A su llegada a box 1, P.Arterial: 165/76 , T.Axilar: 36.9 , SatO2: 97% , BMTEST: 125. Coagu-check 1.1. NRL: consciente, mutista, no obedece órdenes (3+2+2), preferencia ocular izquierda que cruza linea media (1), HHD por amenaza. No focalidad motora. Sensibilidad no valorable. NIHSS: 10.
+
+EXPLORACIÓN FÍSICA:
+-	Exploración física en UCIAS:
+A su llegada a box 1, P.Arterial: 165/76 , T.Axilar: 36.9 , SatO2: 97% , BMTEST: 125. Coagu-check 1.1. NRL: consciente, mutista , no obedece órdenes (3+2+2), preferencia ocular izquierda que cruza linea media (1), HHD por amenaza. No focalidad motora. Sensibilidad no valorable. NIHSS 10.
+
+-	Exploración física en Unidad de Ictus: TA 127/60 mmHg, FC 78 lpm, Tª36.3ºC
+Se muestra colaboradora, consciente y orientada en las 3 esferas. No obstante, está angustiada por su mutismo.
+NRL: alerta, pero sigue con afasia mutista (3). Sin embargo, comprende, responde preguntas verbales gesticulando  (está  orientada)  y  órdenes  motoras  sencillas.  Los  campos  visuales  se  encuentran preservados. Se objetiva una paresia facial pseudoperiférica derecha leve (3). A nivel motor y sensitivo no hay alteraciones en EESS ni EEII. NIHSS de 6.
+
+EXPLORACIONES COMPLEMENTARIAS:
+-	Analítica urgencias (19/09/2017): - Analítica urgencias (19/09/2017): glucosa 128mg/dl, creatinina 1.11mg/dl, Na 135.5mmol/l, K 4.90mmol7l, Cl 95.2mmol/l, FGe 44ml/min, CKs 135U/l, PCR 8g/dl, fibrinógeno 487.7mg/dl, dímero D pendiente.
+*Hemograma: Hb 12.7g/dl, VCM 81fl, HCM 25.4pg, leucocitos 15.640/mm3 (N 10.440/mm3, L 8.6%, M 24.1%), plaquetas 320.000/mm3.
+*Coagulación: TP 84.74%, TP ratio 1.11, TTPa 24.4seg.
+-	ECG: RS a 100lpm, falta de progresión de ondas R en cara anterior.
+-	TC craneal y angioTC (19/09/2017; 16:30h): No signos de isquemia hiperaguda en territorio anterior (ASPECTS 10), ni signos de sangrado agudo intracraneal. Enfermedad microvascular crónica. En estudio angiográfico se observa ateromatosis calcificada en bulbos carotídeos y elongación carotídea común, con trayecto proximal retrotraqueal. Sistema vertebrovasilar y arterias permeables.
+-	Analítica de ingreso (20/09/2017): Analítica: Urea: 48mg/dl; Creatinina: 0,86mg/dl, A. uric: 9,7mg/dl, Na: 139mmol/l; K: 3,9mmol/L; Cl: 99mmol/l; LDH: 595UI/l; Bil: 0,4; AST: 34; ALT: 22; GGT: 39; FA:
+71; Proteinas totales: 7,1g/dl; Albumina: 3,9; Col: 136; LDL: 86mg/dl; HDL: 28mg/dl; TAG: 130mg/dl; TSH: 10mcui/ml; T4: 1,33ng/dl; Hb1ac: 5,5%; PCR: 5,22; Hb: 11,8; Leucocitos: 12300; Neutrofilos:
+6860; Plaquetas: 289000; TP: 89%
+-	TC  craneal  control  (20/09/2017):  No  signos  de  sangrado  ni  de  isquemia establecida/evolutiva dependiente de vaso de gran calibre. Resto sin
+cambios respecto día 19/09/2017.
+-	Analítica de control (28/09): urea 152mg/dl, creatinina 1.45ml/min, FGe 36ml/min, Na 150mmol/l, K
+3.9mmol/l, Cl 104mmol/l.
+*Hemograma: Hb 13.4g/dl, VCM 81fl, HCM 25.2pg, leucocitos 12.600/mm3 (N 9.070/mm3, L 17.8%, M 9.6%), plaquetas 361.000/mm3.
+
+EVOLUCIÓN:
+Se trata de una paciente de 88 años, con factores de riesgo vascular que presenta cuadro compatible con ictus TACI en territorio de ACM izquierda.
+Se realiza TC craneal en el que no se aprecia sangrado intra o extracraneal ni lesiones isquémicas establecidas. Se confirma que la paciente no ha recibido xarelto durante el ingreso y que desde el 14/09 no lleva enoxaparina.
+Ante ausencia de contraindicaciones mayores y estando en periodo ventana, peso de la paciente 65kg, se administra bolus de rtPA ev de 5mg a las 16:32h (tiempo puerta-aguja de 30min), posteriormente se realiza angioTC en el que no se aprecian oclusiones de grandes vasos.
+Se sube a la paciente a planta para continuar perfusión de rTPA ev de 52mg, PA antes de inicio de infusión (17:00h) de 148/63mmHg.
+En control postinfusión la paciente presenta NIHSS de 4 secundaria a afasia motora.
+Se realiza TC craneal de control a las 24h informado como normal pero en el que tras revisión de las imágenes se observa lesión hipodensa cortical temporal izquierda compatible con ictus agudo sin signos de sangrado intra o extraaxial.
+Se valoran al ingreso el estado de ánimo, las necesidades de rehabilitación y se inician fisioterapia y movilización precoces.
+Durante el ingreso evoluciona de forma favorable, presentando al alta mutismo y posible apraxia ocular. Durante el ingreso se realiza educación sanitaria acerca del ictus.
+Como complicaciones presenta disminución de la ingesta sobre todo hídrica con insuficiencia renal prerrenal hipernatrémica por lo que se añaden aportes de s. glucosado al 5% cada 8 horas, se recomienda realizar análíticas de control así como revalorar la actitud de la paciente y la disfagia.
+
+No presenta otras complicaciones por lo que puede ser alta. Precisa logopedia al alta, por lo que se traslada a centro sociosanitario donde estaba ingresada.
+Al alta se mantiene tratamiento anticoagulante coin rivaroxaban 15 mg (dosis ajustada por función renal). Se realizará RM craneal de forma ambulatoria para completar el estudio.
+Etiología TOAST Cardioembólico, Oxford PACI. Al alta NIHSS 4. Rankin 3. Debe seguir controles en CCEE de Neurología en fecha programada.
+
+
+TRATAMIENTO:
+-	RIVAROXABAN 15 MG A las 20
+-	FUROSEMIDA 40 MG A las 8
+-	NEBIVOLOL 2.5 MG A las 8
+-	CITALOPRAM 20 MG A las 20
+-	LACTITOL 10 G A les 8,16,24 Si estreñimiento
+-	FORMOTEROL 1 inh cada 12 HORAS
+-	ATROVENT si precisa
+-	PARACETAMOL 1 G A les 8,16,24 Si Dolor
+-	Suero glucosado 5% 500ML CADA 8 HORAS
+
+INDICACIONES:
+-	Se recomienda control estricto de enfermedades que aumentan el riesgo de ictus: hipertensión arterial, diabetes, colesterol elevado (dislipemia) y enfermedades del corazón. Realizar el tratamiento de forma adecuada según las recomendaciones de su médico.
+-	Abstención de tabaco y alcohol
+-	Seguir una dieta adecuada, con poca sal, evitando grasas, especialmente las saturadas  (grasas animales, aceites y grasas para cocinar).
+-	Evitar la obesidad y el sobrepeso y realizar ejercicio físico moderado de forma regular.
+
+Dr/a.	_NAME_	Dr/a.	_NAME_
+Metge/essa Adjunt
+(Nº Colegiado _ID_)	Metge/essa Resident
+(Nº Colegiado _ID_
+
+Les seves dades personals s'incorporen en un fitxer d´usuaris a fi del seu tractament sanitari. Pot exercir el seu dret d´oposició, accés i rectificació de les dades inexactes dirigint-se al Servei de Documentació Clínica.
+Sus datos personales se incorporan en un fichero de usuarios para su tratamiento sanitario. Puede ejercer su derecho de oposición, acceso y rectificación de los datos inexactos dirigiéndose al Servicio de Documentación Clínica
+
+_SS_ | NIF _ID_ |_LOCATION_ | Telèfon _CONTACT_ | Fax _CONTACT_ | _CONTACT_
+Pàgina 1 de 4

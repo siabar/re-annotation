@@ -1,0 +1,160 @@
+_LOCATION_ Tel. _CONTACT_
+e-mail: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 72 Anys
+NIF/DNI: _ID__NAME_; _NAME_;
+ _NAME_
+Informe d'alta d'hospitalització
+CP	_LOCATION_
+ABS	_SS_
+Servei	NEUROLOGIA
+Data d'alta  14.02.2017	11:38:47
+_LOCATION_
+_CONTACT_; _CONTACT_
+DOMICIL/RES.SOC 09.02.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Posible ictus isquémico.
+
+ANTECEDENTS
+Hombre de 72 años, independiente para todo. mRS 0.
+Vive con su mujer. Sale a caminar a diario. Fumador de 2 paquetes cada 2 semanas.
+
+ANTECEDENTES PATOLÓGICOS:
+-	Hipertensión arterial sin tratamiento médico con buenos controles.
+-	Arteritis de Horton. Debut en 2010 con cefalea hemicraneal izquierda y claudicación mandibular; biopsia de arteria temporal positiva. tratado con prednisona 60mg por día, con buena respuesta. Luego mantenimiento con 2 mg de metilprednisonolona diario (desde remisión, nunca ventana sin tratamiento). En seguimiento por Reumatología de nuestro centro.
+-	Acúfeno en oído izquierdo. Inicio en diciembre de 2016. Visitado por ORL en enero de 2017: exposición a mucho ruido laboral; otoscopia normal, audiometría con caída en agudos bilateral y simétrica; inicio tratamiento con "Tinnitan" (5-HTP, citrato de magnesio, extracto de Ginkgo biloba, melatonina, zinc y vitamina B).
+-	Hiperplasia benigna de próstata sin tratamiento médico.
+
+MEDICACIÓ HABITUAL
+Urbason 4mg 1/2-0-0.
+
+PROCÉS ACTUAL
+Consulta por medios propios el 09/02/17 por diplopia y mareos del despertar. Se fue a dormir asintomático la noche anterior.
+
+EXPLORACIÓ FÍSICA
+
+FC	58 bpm
+Tªaxi 35.8 ºC
+FR	rpm Tªrec  ºC
+TA s	156 mmHg SAT O2 97 %
+TA d   79 mmHg Pes Kg
+
+En Urgencias:
+Consciente, orientado, colaborador. Lenguaje normal, sin disartria ni elementos afásicos. Isocoria normorreactiva. MOE sin paresias, no nistagmos, diplopia con la mirada a la derecha. Paresia facial supranuclear derecha leve. Resto de pares craneales sin alteraciones. Fuerza conservada. Hemihipoestesia en ESI, resto conservada, no extinción. No dismetría.
+NIHSS: 0,0,0,0,0//1,0,0,0,0//0,1,0,0,0=2.
+
+En Unidad de Ictus Agudo:
+Consciente, orientado, colaborador. Lenguaje normal, sin disartria ni elementos afásicos. Isocoria normorreactiva. MOE sin paresias, no refiere diplopia. Mínimo borramiento de surco nasogeniano derecho. Fuerza conservada. Sensibilidad táctil conservada, no extinción. No dismetría.
+
+Informe d'alta d'hospitalització
+
+
+
+
+
+NIHSS = 1 (paresia facial).
+
+EXPLORACIÓ COMPLEMENTÀRIA
+Analíticas:
+Urgencias: Hemograma: Leucocitos 16300 (92.9% neutrófilos, 3.5% linfocitos), Hemoglobina 15.1 g/dL, Plaquetas
+150000. Coagulación: TP 11.9s, 87%, ratio 1.1, INR 1.1; TP 29.5s, ratio 0.95; Fibrinógeno 412 mg/dL. Bioquímica:
+Glucosa 148 mg/dL, Urea 53 mg/dL, Creatinina 0.71 mg/dL, Sodio 141 mmol/L, Potasio 3.9 mmol/L, Bilirrubina
+0.55 mg/dL, ALT 11 U/L, PCR 2.9 mg/L, CK 54 U/L, TnI 1.4 pg/mL. Gasometría venosa: pH 7.32, pCO2 50.8 mmHg, pO2 26.6 mmHg, Bicarbonato 25.4 mmol/L, Exceso de bases -1.1 mmol/L, SatO2 44.6%.
+
+Ingreso: Hemograma: leucocitos 10700/mcL (N 70%, L 18%), Hb 14,9 g/dL, Hto 44,3%, plaquetas 143000/mcL, VSG 8 mm. Coagulación: TP 79%, fibrinógeno 403 mg/dL, TTPA 32,3 s. Bioquímica: glucosa 76 mg/dL, proteína 59,5 g/L, albúmina 35,6 g/L, urea 46 mg/dL, FG 83 mL/min, Cr 0,92 mg/dL, urato 5,3 mg/dL, Na 139,6 mmol/L, K
+4,03 mmol/L, Brb 0,85 mg/dL, FA 87 U/l, ALT 11 U/L, GGT 22 U/L, CK 112 U/L, PCR 4,9 mg/L. Perfil lipídico: triglicérido 102 mg/dl, colesterol 156 mg/dL, HDL 36,8 mg/dL, LDL 99 mg/dL. Proteinograma: banda de dudosa movilidad en zona gamma. Inmunoquímica: pendiente de resultado al alta. Hormonas: HbA1c 5,4%, TSH 1,26 mcUI/mL.
+
+ECG: ritmo sinsual a 70 x' con algunas pausas sinusales.
+
+Radiografía de tórax: cardiomegalia. Esclerosis aórtica. Redistribución vascular.
+
+RM cerebral urgente con angio-RM: en la secuencia difusión se aprecia una área de restricción en el margen lateral derecho de la protuberancia que se traduce de una hiperintensidad de la secuencia Flair, compatible con una lesión isquémica aguda en territorio de arteria circunferencial corta dependiente de la arteria basilar. En la secuencia de gradiente de eco no se aprecian lesiones hemorrágicas. Se aprecian varias lesiones de aspecto necrótico lineal en ambas coronas radiatas y ganglios basales bilaterales compatibles con lesiones isquémicas crónicas en territorio lenticuloestriado perforante bilateral. Se aprecia también lesion isquémica crónica en tálamo derecho coincidiendo con territorio vascular perforante posterior derecho. En la secuencia Flair se aprecian varios focos de hiperintensidad confluentes localizadas en sustancia blanca de los centros semiovales y coronas radiatas y a modo de bandas periventriculares en relación a áreas de gliosis/desmielinizaciónpor hipoperfusión crónica. Línea media centrada, cisternas de la base y peritronculares libres. Sistema ventricular simétrico de tamaño dentro de la normalidad. En la secuencia angiográfica intracraneal se observa polígono de Willis permeable, con segmento intracraneal de ambas arterias carótidas internas conservado, de abril mesial tras permeables sin estenosis significativas. Arterias vertebrales simétricas decalibre y sin estenosis. Irregularidad severa mural de toda la arteria basilar con estenosis de más de 50% a nivel del tercio medio secundario a placas de arteriosclerosis. Existe irregularidad mural del segmento P1 de ambas arterias cerebrales posteriores sin estenosis significativas. CONCLUSIÓN: estudio que muestra una lesión focal  isquémica aguda en territorio de arteria circunferencial corta derecha, con severa ateroesclerosis basilar que condicionaestenosis significativa en el tercio medio. Múltiples lesiones isquémicas necróticas lacunares en territorios perforantes dependientes de ambas arterias cerebrales medias y de la arteria cerebral posterior derecha.
+
+RM cerebral con angio-RM con protocolo CRYPTICAS (13/02/17): respecto al estudio previo se aprecia una mejor delimitación del área de restricción de difusión y del área hiperintensa en FLAIR que afecta el margen lateral derecho de la protuberancia en relación a lesión isquémica aguda en territorio de arteria circunferencial corta dependientes de la arteria basilar. En la secuencia SWI no se aprecian lesiones hemorrágicas. Varias lesiones de
+
+Informe d'alta d'hospitalització
+
+
+
+
+aspecto necrótico glial en ambas coronas radiatas y ganglios basales bilaterales compatibles con lesiones isquémicas crónicas lacunares en territorio lenticuloestriado perforante bilateral. Se aprecia también lesion isquémica crónica en tálamo derecho coincidiendo con territorio vascular perforante posterior derecho. En la secuencia Flair se aprecian varios focos de hiperintensidad que nodulares confluentes localizadas en sustancia blanca de los centros semiovales y coronas radiatas y a modo de bandas periventriculares en relación a áreas de gliosis/ desmielinizaciónpor hipoperfusión crónica. Línea media centrada, cisternas de la base y peritronculares libres. Sistema ventricular simétrico de tamaño dentro de la normalidad. En la secuencia angiográfica intracraneal se observa polígono de Willis permeable, con segmento intracraneal de ambas arterias carótidas internas conservado,con estenosis de aproximadamente el 50% del segmento petroso de  la ACI  derecha, sin  otras estenosis significativas. Arterias vertebrales simétricas de calibre y sin estenosis. Irregularidad severa mural de toda la arteria basilar con estenosis de más de 50% a nivel del tercio medio secundario a placas de arteriosclerosis que captan contraste. Existe irregularidad mural del segmento P1 de ambas arterias cerebrales posteriores sin estenosis significativas. CONCLUSIÓN: estudio que muestra una lesión focal isquémica aguda en territorio de arteria circunferencial corta derecha, con severa ateromatosis basilar con placas ateromatosas captantes de contraste que condiciona estenosis significativa en el tercio medio basilar. Múltiples lesiones isquémicas necróticas lacunares en territorios perforantes dependientes de ambas arterias cerebrales medias y de la arteria cerebral posterior derecha.
+
+Neurosonología:   estudio   con   limitaciones   por   ventana   transcraneal   posterior,   no   se   visualiza   unión vertebro-basilar. A nivel extracraneal vertebrales sin alteraciones, derecha dominante.
+
+Monitorización cardíaca 24 h: abundantes extrasístoles supraventriculares sin otros eventos de interés.
+
+EVOLUCIÓ CLÍNICA
+Hombre de 72 años de edad, mRS 0, fumador, con antecedentes de hipertensión y arteritis de Horton diagnosticada en el 2010 confirmada por biopsia, actualmente en tratamiento con corticoterapia a dosis bajas. Acude por presentar diplopia y mareo al despertar.
+
+A su llegada está hemodinámicamente estable, con exploración neurológica que evidencia diplopia a la mirada lateral hacia la derecha y hemihipoestesia izquierda (NIHSS 2). El ECG está en ritmo sinusal y la analítica urgente no muestra alteraciones. Se realiza RM muliparamétrica que pone de manifiesto lesión lesión focal isquémica aguda en territorio de arteria circunferencial corta derecha, con severa ateroesclerosis basilar que condiciona estenosis significativa en el tercio medio. Se orienta como ictus isquémico de territorio de a. circunferencial corta de mecanismo embólico y etiología aterotrombótica (estenosis significativa de a. basilar) y se inicia tratamiento de prevención secundaria con doble antiagregación y estatina a dosis altas.
+
+Durante su estancia en la Unidad de Ictus se mantiene normoglucémico con leve tendencia a la hipertensión sin requerir medicación. Neurológicamente presenta mejoría progresiva hasta resolución completa del cuadro. Se inicia dieta oral y deambulación con buena tolerancia.
+
+Dentro del estudio etiológico se cursa analítica de ingreso con correctos perfiles glucémico y lipídico, sin elevación de reactantes de fase aguda. Es valorado por Reumatología que no evidencia signos activos de vasculitis, recomendando no aumentar dosis de corticoterapia. Se realiza estudio neurosonológico sin poder insonar correctamente segmento estenótico de a. basilar, siendo normal el flujo distal. Se solicita nueva RM cerebral con angio-RM con protocolo CRYPTICAS que confirma los hallazgos de la neuroimagen previa.
+
+Ante estabilidad clínica, se decide alta a domicilio con seguimiento por Neurología de nuestro centro.
+
+Informe d'alta d'hospitalització
+
+
+
+
+
+Al alta: NIHSS = 0
+mRS = 0
+Barthel = 100
+
+DIAGNÒSTICS
+-	Ictus isquémico  de territorio de a. circunferencial  corta de mecanismo embólico y etiología aterotrombótica (estenosis de a. basilar)
+-	Estenosis aterosclerótica significativa de tercio medio de a. basilar
+-	Hipertensión arterial
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+-	Dieta baja en sal
+-	Ejercicio físico moderado diario
+
+- AAS 300 mg 0-1-0
+-	Clopidogrel 75 mg 1-0-0
+-	Atorvastatina 80 mg 0-0-1
+
+-	Urbason 4mg 1/2-0-0
+
+CONTROL
+-	Primera visita en consultas externas de Neurología (Dra. _NAME_) el día y hora que se adjuntan.
+
+-	Control de factores de riesgo cardiovascular por Medicina de Familia (especialmente hipertensión arterial).
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+14.02.2017
+Pàgina 1 de 4

@@ -1,0 +1,121 @@
+_LOCATION_ Tel. _CONTACT_
+_CONTACT_
+Informe Alta Hospitalització
+_NAME_
+HC: _ID_
+
+>
+
+
+Adreça: _LOCATION_	Data naix.: _DATE_
+Població: _LOCATION_	Sexe: MASCULI
+Provincia: _LOCATION_	CIP: _ID_
+País: _LOCATION_	NASS: _ID_
+Telèfon: _CONTACT_ / _CONTACT_	DNI o Tarja Residència: _ID_
+
+
+Servei: Neurologia	Data ingrés a URG: 23/10/2017 15:51
+Unitat clínica: Neurologia	Data hospitalització: 23/10/2017 16:36
+Tipus d'ingrés: Urgències	Data alta: 03/11/2017 13:18
+Proveïdor de Serveis: Servei Català de la Salut	Destí: 04 - Derivació Centre Intern Sociosanitari
+
+
+
+Diagnòstic principal:
+
+432.9 AVC HEMORRAGIC
+PROTUBERANCIAL D'ETIOLOGIA INDETERMINADA
+
+
+
+
+
+Pacient de 44 anys d'edat que ingressa per Ictus hemorràgic
+
+Antecedents:
+
+Malalties prèvies:
+
+HIPERTENSIÓ ARTERIAL (Refiere cifras tensionales elevadas en las revisiones anuales laborales. No realizaba tratamiento dietético ni farmacológico ni controles habituales.) HIPERGLUCEMIA (Refiere hiperglucemias detectadas en las revisiones anuales laborales. No realizaba tratamiento dietético ni farmacológico ni seguía controles habituales.)
+DISLIPÈMIA (Refiere hipercolesterolemia detectada en las revisiones anuales laborales. No realizaba tratamiento dietético ni farmacológico ni seguía controles habituales.)
+CEFALEA (El paciente refiere cefalea posterior post-coital, por lo que había sido estudiado con RMN craneal en 2015, que no mostró alteraciones..
+
+Al·lèrgies:
+
+El pacient no presenta al·lèrgies conegudes.
+
+Hàbits tòxics:
+
+Hábito tabáquico (Refiere consumo de 10cig/d). Consumidor de alcohol (Refiere consumo importante los fines de semana. Resto de días 30-40gr/d.). Consumidor de cocaína ; año de inicio: 1988 (Refiere consumo esporádico 2-3 veces/año.). Consumidor de cannabis ; año de inicio: 1988 (Refiere consumo diario.).
+
+Història Actual:
+
+Home de 44 anys d'edat sense al·lèrgies medicamentoses conegudes. Fumador de 4-5cig/dia. Consum de cocaïna esporàdic (2-3 vegades a l'any). Probable SAHS. No càrdio-gastropatia conegudes. Història pr èvia d'episodis de cefalea coital amb RM cranial de l'octubre 2015 normal.
+Treballa en la construcció.
+
+
+Portat a urgències com a Codi Ictus el dia 23/10/17.
+Estant prèviament bé, a les 14.45h durant l'orgasme inicia cefalea intensa a nivell occipital d'igual caracter ístiques que les prèvies (cefalea coital), i posteriorment inicia disàrtria i hemiparèsia dreta.
+A la seva arribada a urgències amb tendència a la HTA i NIHSS 11. Es realitza TC cranial que mostra lesi ó hemorràgica protuberencial. Ingressa a UCI.
+
+Exploració física:
+
+Urgències:
+TA 177/84 mm Hg, FC 73 ppm, Saturació 99%, Glicèmia capil.lar 125 mg/dL.
+Nominació i comprensió conservades. Disàrtria moderada (1). No desviació oculocefàlica. Parèsia recte extern bilateral de predomini dret (1). No dèficit campimètric. No parèsia facial. Parèsia braquial 3-/5 dreta (3), Plèjia crural dreta (4). RCP indiferent bilateral. Hemianestèsia dreta (2).
+- NIHSS: 11
+
+Planta:
+TA: 139/90, FC: 75X', Tº: 36.6ºC
+AC: TC rítmics sens ebufs ni frecs. Polsos perifèrics presents i simètrics. No edemes EEII ni signes de TVP.
+AR: MVC sense sorolls sobreafegits. Eupneic.
+NRL: conscient i orientat. Disàrtria moderada (1). Parèsia recte extern dret (1). Nistagmus en la mirada horitzontal esq i vertical. No dèficit campimètric. No claudicació d'extremitats. Miller-Fisher dret. RMTS simètrics 2/4. Babinski dret. Hemihipoestèsia B-C dreta (1). Dismetria dit-nas dret i taló-genoll bilateral (2). Impossibilitat per a la marxa.
+-	NIHSS: 5
+
+Resum proves complementàries:
+
+Laboratori:
+
+-	Analítica: Leucòcits *13.63 x 10^9/L, Hematies 5.33 x 10^12/L, Hemoglobina 171 g/L, Hematòcrit 0.49 L/L, Volum corpuscular mig 91.4 fL, Hemoglobina corpuscular mitja 32.1 pg, Conc. Hb. corpuscular mitja 351 g/L, Índex dispersió hematies 12.2 %, Plaquetes 236 x 10^9/L, Volum plaquetar mig 12 fL, Índex dispersió de plaquetes 15.5 fL, Plaquetòcrit 0.028 L/L, Neutròfils (%) 70.2 %, Neutròfils *9.56 x 10^9/L, Limfòcits (%) 20.5 %, Limfòcits 2.8 x 10^9/L, Eosinòfils (%) 1.3 %, Eosinòfils 0.18 x 10^9/L, Basòfils (%)
+0.5 %, Basòfils 0.07 x 10^9/L, Monòcits (%) 7.5 %, Monòcits *1.02 x 10^9/L, Temps protrombina 1.05  ratio, Urea 35 mg/dL, Creatinina 0.88 mg/dL, Sodi 139 mEq/L, Potassi 4.6 mEq/L, Aspartat aminotransferasa(AST) 30 U/L, Alaninaminotransferasa (ALT) *44 U/L, Fosfatasa alcalina 55 U/L, Gammaglutamiltranspeptidasa *84 U/L, Bilirubina total 0.5 mg/dL, Proteïnes totals 70 g/L, Albúmina sérica
+46.2 g/L, Colesterol total *211 mg/dL, Magnesi 2.1 mg/dL
+-	Amfetamines. Negatiu , Cocaïna. Negatiu , Cannabis. Positiu , Benzodiazepines. Negatiu , Antidepresius tricíclics. Negatiu , Barbitúrics. Negatiu , Metanfetamines. Negatiu , Opiacis. Negatiu , Metadona. Negatiu
+, Èxtasi (MDMA). Negatiu .
+
+-	Urea 23.5 mg/dL, Sodi *134 mEq/L, Potassi Interferència tècnica per hemòlisi mEq/L, Fosfor 3.3 mg/dL, Aspartat aminotransferasa(AST) 19 U/L, Alaninaminotransferasa (ALT) 25 U/L, Fosfatasa alcalina *37 U/L, Gammaglutamiltranspeptidasa 37 U/L, Bilirubina total 0.6 mg/dL, Proteïnes totals *57 g/L, Colesterol total 196 mg/dL, Triglicèrids *236 mg/dL, Colesterol-HDL *32 mg/dL, Colesterol-LDL 117 C mg/dL, Magnesi 1.7 mg/dL, Tirotropina (TSH) 0.96 µU/mL
+
+Imatge:
+
+
+
+-	Rx tòrax: hilios vasculares prominentes.
+-	TC crani: Hematoma intraparenquimatoso protuberancial de 2 cc de volumen y sin efecto de masa significativo.
+-	RM crani: Hematoma protuberencial, sense canvis respecte TC previ, i sense poder detectar causes subjacents en el moment actual. Sense altres troballes.
+
+Altres proves:
+
+-	ECG:
+
+Evolució i comentaris:
+
+Varón de 44 años fumador (cannabis diario) con cifras ocasionales de hipertensión que ingresa por hematoma espontáneo protuberancial con clínica de disartria, hemihipoestesia-hemiparesia y ataxia. Inicialmente ingresa en UCI sin incidencias y posteriormente en planta donde presenta una mejoría parcial. Tolera dieta oral. La RM craneal no muestra lesiones subyacentes y no presenta una clara hipertensión de base como etiología del proceso.
+A la exploración NRL al alta destaca disartria moderada, paresia VI der, nistagmo multidireccional, muy leve dismetría dedo-nariz bilateral, no claras paresias, hemihipoestesia derecha y severa ataxia de la marcha. Refiere alucinaciones musicales que mejoran con gabapentina, a expensas de una mayor inestabilidad. Si persiste en las prox 72 h recomiendo retirar gabapentina.
+Se traslada a Albada para Rehabilitación NIH al alta: 6
+Rankin: 4 Plan:
+-	Queda pendiente de angio RM craneal el lunes dia 6
+-	Se programa nueva RM craneal de control para mediados de diciembre con posterior visita a CCEE (Dr _NAME_). petición realizada !
+-	Se valorará realización de angiografía en función de los resultados
+
+Tractament:
+
+Fàrmacs:
+
+Gabapentina 300 mg 0-0-1 Paracetamol 500 mg cada 8 h si dolor Omeprazol 20 mg 1 comp al día
+
+Altres recomanacions:
+
+Se traslada a _SS_ para Rehabilitación
+
+_LOCATION_, 03/11/2017
+_NAME_ (Nº col _ID_
+Nom i cognoms metge: _NAME_ (Nº col: _ID_Pàg.: 1/3

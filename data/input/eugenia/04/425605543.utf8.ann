@@ -1,0 +1,114 @@
+T1	Hora_de_alta 299 304	16:29
+#1	AnnotatorNotes T1	16:29
+T2	Fecha_de_alta 308 318	05.10.2017
+#2	AnnotatorNotes T2	2017-10-05
+T3	Fecha_de_ingreso 421 431	25.09.2017
+#3	AnnotatorNotes T3	2017-09-25
+T5	_SUG_Lateralizacion 549 558	izquierdo
+T6	mRankin_previa 859 864	mRs 1
+T11	_SUG_TAC_craneal 1620 1631	TAC craneal
+T12	HORA 1742 1747	20:15
+#12	AnnotatorNotes T12	20:15
+T13	HORA 1856 1861	22:00
+#13	AnnotatorNotes T13	22:00
+T14	_SUG_Lateralizacion 2268 2277	izquierda
+T15	_SUG_Lateralizacion 2328 2337	izquierda
+T16	_SUG_NIHSS 2422 2429	NIHSS 4
+T18	_SUG_TAC_craneal 2766 2777	TAC craneal
+T19	_SUG_ASPECTS 2851 2861	ASPECTS 10
+T20	_SUG_Ictus_isquemico 2863 2870	Infarto
+T21	_SUG_Localizacion 2863 2878	Infarto lacunar
+T22	_SUG_Localizacion 2882 2898	ganglios basales
+T23	_SUG_Lateralizacion 2899 2907	derechos
+T24	_SUG_ASPECTS 2911 2918	aspecto
+T25	_SUG_Etiologia 2960 2971	ateromatosa
+T26	_SUG_Arteria_afectada 3014 3031	arteria vertebral
+T27	_SUG_Lateralizacion 3032 3041	izquierda
+T29	_SUG_Ictus_isquemico 3280 3295	ictus isquémico
+T30	_SUG_Arteria_afectada 3310 3312	VB
+T31	_SUG_Lateralizacion 3347 3356	izquierdo
+T32	_SUG_Tratamiento_anticoagulante 3541 3549	heparina
+T33	_SUG_Lateralizacion 3557 3558	e
+T34	_SUG_Ictus_isquemico 3580 3585	ictus
+T35	NIHSS_previa 3906 3913	NIHSS 6
+T36	_SUG_Lateralizacion 4415 4424	izquierda
+T37	TAC_craneal 4446 4456	Tc craneal
+T38	ASPECTS 4523 4533	ASPECTS 10
+T39	_SUG_Ictus_isquemico 4535 4542	Infarto
+T40	_SUG_Localizacion 4535 4550	Infarto lacunar
+T41	_SUG_Localizacion 4554 4570	ganglios basales
+T42	_SUG_Lateralizacion 4571 4579	derechos
+T43	_SUG_ASPECTS 4583 4590	aspecto
+T44	_SUG_Etiologia 4632 4643	ateromatosa
+T45	_SUG_Arteria_afectada 4686 4703	arteria vertebral
+T46	_SUG_Lateralizacion 4704 4713	izquierda
+T47	_SUG_Tratamiento_anticoagulante 5491 5499	heparina
+T48	_SUG_Ictus_isquemico 5530 5537	infarto
+T49	_SUG_Localizacion 5571 5585	corona radiata
+T50	_SUG_Lateralizacion 5586 5593	derecha
+T51	_SUG_Arteria_afectada 5674 5689	arteria basilar
+T52	_SUG_Arteria_afectada 5744 5759	arteria basilar
+T53	_SUG_Arteria_afectada 5784 5798	art. vertebral
+T54	_SUG_Lateralizacion 5799 5806	derecha
+T55	_SUG_Localizacion 5827 5837	Ventriculo
+T56	_SUG_Lateralizacion 5838 5847	izquierdo
+T57	_SUG_Localizacion 6099 6109	Ventriculo
+T58	_SUG_Lateralizacion 6110 6117	derecho
+T59	_SUG_Lateralizacion 6221 6230	izquierda
+T60	_SUG_Ictus_isquemico 6750 6755	ictus
+T61	_SUG_Tratamiento_anticoagulante 6864 6872	heparina
+T63	_SUG_TAC_craneal 6940 6951	TAC craneal
+T64	_SUG_Localizacion 6976 6986	lenticular
+T65	_SUG_Localizacion 7003 7012	posterior
+T66	_SUG_Lateralizacion 7013 7020	derecha
+T69	_SUG_Ictus_isquemico 7045 7071	infarto isquémico subagudo
+T70	_SUG_Ictus_isquemico 7189 7194	ictus
+T71	_SUG_Localizacion 7326 7333	parcial
+T72	_SUG_Lateralizacion 7738 7747	izquierda
+T73	_SUG_Ictus_isquemico 7884 7891	infarto
+T74	_SUG_Lateralizacion 7939 7946	derecha
+T75	_SUG_Localizacion 7971 7980	posterior
+T76	_SUG_Lateralizacion 7997 8004	derecha
+T77	_SUG_Lateralizacion 8051 8058	derecha
+T78	_SUG_Lateralizacion 8260 8265	dieta
+T79	_SUG_Ictus_isquemico 8396 8401	ictus
+T80	_SUG_Etiologia 8402 8409	lacunar
+T81	_SUG_Localizacion 8402 8409	lacunar
+T82	_SUG_Lateralizacion 8410 8417	derecho
+T83	_SUG_Tratamiento_anticoagulante 8462 8470	heparina
+T84	_SUG_Tratamiento_anticoagulante 8494 8503	warfarina
+T85	FECHA 8516 8524	03.10.17
+#85	AnnotatorNotes T85	2017-10-03
+T86	_SUG_Tratamiento_anticoagulante 8703 8711	heparina
+T87	_SUG_Lateralizacion 8879 8888	izquierda
+T88	FECHA 9727 9732	05/10
+#88	AnnotatorNotes T88	2017-10-05
+T89	NIHSS_alta 10028 10035	NIHSS 3
+T90	Ictus_isquemico 10225 10230	Ictus
+T91	Etiologia 10231 10238	lacunar
+T92	Localizacion 10231 10238	lacunar
+T93	Lateralizacion 10239 10246	derecho
+T95	FECHA 10471 10481	05.10.2017
+#95	AnnotatorNotes T95	2017-10-05
+T96	SECCION_MOTIVO_DE_INGRESO 485 499	MOTIU D'INGRÉS
+T97	SECCION_ANTECEDENTES 572 583	ANTECEDENTS
+T98	SECCION_SITUACION_FUNCIONAL 812 827	Situación basal
+T99	SECCION_TRATAMIENTO_HABITUAL 868 886	MEDICACIÓ HABITUAL
+T100	SECCION_PROCESO_ACTUAL 973 986	PROCÉS ACTUAL
+T101	SECCION_EXPLORACION_FISICA 3588 3605	EXPLORACIÓ FÍSICA
+T102	SECCION_EXPLORACIONES_COMPLEMENTARIAS 4061 4086	EXPLORACIÓ COMPLEMENTÀRIA
+T103	SECCION_EXPLORACIONES_COMPLEMENTARIAS_EN_URGENCIAS 4087 4118	Pruebas realizadas en urgencias
+T104	SECCION_EVOLUCION 6697 6713	EVOLUCIÓ CLÍNICA
+T105	SECCION_DIAGNOSTICOS 10207 10218	DIAGNÒSTICS
+T106	SECCION_TRATAMIENTO_Y_RECOMENDACIONES_AL_ALTA 10249 10284	TRACTAMENT I RECOMANACIONS A L'ALTA
+T107	SECCION_CONTROL 10298 10305	CONTROL
+T108	SECCION_DESTINO_AL_ALTA 10394 10413	DESTINACIÓ A L'ALTA
+#4	AnnotatorNotes T6	1
+#5	AnnotatorNotes T35	6
+#6	AnnotatorNotes T38	10
+#7	AnnotatorNotes T89	3
+T4	Fecha_inicio_sintomas 998 1003	23.09
+#8	AnnotatorNotes T4	207-09-23
+T7	Fecha_llegada_hospital 1309 1314	25.09
+#10	AnnotatorNotes T7	2017-09-25
+T8	SECCION_EXPLORACIONES_COMPLEMENTARIAS_EN_PLANTA_DE_NEUROLOGIA 4890 4925	Pruebas realizadas en planta de NRL

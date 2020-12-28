@@ -1,0 +1,101 @@
+_LOCATION_
+email: _CONTACT_ Telèfon _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 85 Anys
+NIF/DNI: _ID_Informe d'alta d'hospitalització
+16:00:00
+21.03.2017
+_LOCATION_
+_SS_ NEUROLOGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_
+AGUTS 16.03.2017
+Equipo Dr. _NAME_ (_NAME_, _NAME_, _NAME_)
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Mujer de 85 años que ingresa por hematoma lobar parietal derecho.
+
+ANTECEDENTS
+Antecedentes personales
+-Sin alergias medicamentosas conocidas.
+-Niega hábitos tóxicos.
+
+Antecedentes médico-quirúrgicos
+-Enfermedad de Alzheimer (GDS 4-5).
+-Trastorno asnioso-depresivo en tratamiento farmacológico.
+
+Situación  sociofuncional:  vive  con  su  hija.  Parcialmente  dependiente  para  las  actividades  básicas  e instrumentales de la vida diaria. Deterioro cognitivo moderado. mRS 3.
+
+MEDICACIÓ HABITUAL
+Lormetazepam 1mg/día, Seroquel 100 mg 0.5/comida, Mirtazapina  15mg/día, Reminyl	24mg/día, Ranitidina 300mg/día, Sertralina 100mg/día.
+
+PROCÉS ACTUAL
+La familiar refiere que la acuesta sobre las 20h asintomática y a las 20:30h la encuentra con dificultad para hablar y para mover brazo izquierdo. Acude a _SS_, donde se activa el código itus a las 22:50h. Hora de llegada a urgencias 23:33h.
+
+EXPLORACIÓ FÍSICA
+
+Exploración física en Urgencias
+ACP: rítmica. MVC.
+Vigil. Alerta. LOQ 1/2, LOC 2/2. NO DOC ni POC. No déficit campimétrico. Disartria intelegible (1). Hemiparesia FBC izquierda (2+1+1). Hipoestesia izquierda(1). NIHSS:7
+
+Exploración física en Unidad de Ictus
+Constantes: TA 123/72 mmHg, FC 79 lpm, Tª 37.1ºC, BMT 106 mg/dL.
+EN: vígil, alerta, parcialmente orientada en tiempo y espacio, orientada en persona. Disartria inteligible (1). DOC D (2), HHI (2), PFSN I (2), hemiparesia braquio (4) crural (3) izquierda. Hemianestesia izquierda (2). Heminegligencia
+y anosognosia (2). NIHSS 18.
+
+EXPLORACIÓ COMPLEMENTÀRIA
+Exploraciones complementarias en Urgencias
+
+Informe d'alta d'hospitalització
+
+
+
+
+-Analítica general: Htes 4.43 x10E12/L, Hb 13.4 g/dL, Hto 41.8%, VCM 94.4 fL, Leucocitos 9.24 x10E9/L (N 88.1%,
+L 6.8%, M 4.9%, E 0%, B 0.2%), Plaquetas 201 x10E9/L, T Protrombina 104%, INR 0.97, TTPA 1.03 ratio,
+Fibrinógeno 3.9 g/L, Glucosa 127 mg/dL, Urea 32 mg/dL, Cr 0.62 mg/dL, FG 82 ml/min/1,73 m2, Na 135.6 mmol/L,
+K 3.63 mmol/L, AST 24 UI/L, ALT 16 UI/L.
+-ECG: Rs a 60lpm, BRDHH.
+-TC cráneo (15.3.17): Hematoma intraparenquimatoso agudo parietal derecho asociado  a hemorragia subaracnoidea en surcos de la convexidad parietal derecha con componente edematoso, sin condicionar efecto masa sobre el parenquima encefálico adyacente. En el estudio AngioTC se observa correcta permeabilidad vascular de estructuras que conforman el polígono de Willis. No se observan formaciones aneurismáticas valorables, ni otras alteraciones en la vascularización intracraneal. No se observan signos de extravasación de contraste que sean sugestivos de sangrado activo.
+
+Exploraciones complementarias en Unidad de Ictus
+-TC craneal de control (16.3.17): Incremento del hematoma intraparenquimatoso parietal derecho, con unos diámetros máximos de 52x52x47mm (APxTxCC), de un volumen aproximado de 63cc, previa de18x30x27 (APxTxCC) con unos 25cc de volumen. Persiste el edema perilesional del hematoma, observando borramiento de los surcos corticales adyacentes y mínimo efecto compresivo a nivel del VL derecho, sin desplazamiento significativo de las estructuras de línea media. Actualmente persiste su apertura hacia espacio subaracnoideo con incremento de los restos hemáticos en surcos de la convexidad parietal y frontal derecha, observando tambén apertura intraventricular con restos hemáticos en astas occipitales. No se observan  desplazamientos de las estructuras de línea media supra e infratentoriales. Hipodensidades periventriculares en relación a leucoaraiosis. Cisternas basales y peritronculares libres. Fosa posterior sin alteraciones valorables. ORIENTACIÓN DIAGNÓSTICA: Estudio urgente que muestra un marcado incremento del hematoma parenquimatoso parietal derecho con minima extensión a nivel del espacio subaracnoideo e intraventricular.
+-Analítica general de ingreso (20.3.17): Hb: 13.7 g/dl,  Hto: 41.7 %, VCM: 94.7 fl,  Leucocitos: 8.81 (N. 7, L:0.1),
+
+EVOLUCIÓ CLÍNICA
+Mujer de 85 años de edad, con antecedentes a destacar de enfermedad de Alzheimer (GDS 4-5), parcialmente dependiente para aABVD, mRS 3. Ingresa en nuestro centro el día 15.03.2017 derivada desde _SS_ por HIC parietal derecho spot sign (-). A su llegada a Urgencias NIHSS 7. El ECG muestra ritmo sinusal con BRDHH. Se inician medidas de ictus agudo y permanece en urgencias bajo observación clínica. 12h después presenta empeoramiento clínica con NIHSS 18 por lo que se solicita TC craneal de control que muestra crecimiento de dicho hematoma (de 25cc a 63cc) aunque sin desplazamiento de línea media. Ingresa en Unidad de Ictus para control evolutivo.
+A su llegada a la Unidad de Ictus, permanece estable tanto clínica como hemodinámicamente, destacando a la exploración física NIHSS 18 a expensas de disartria, hemianopsia y hemiplejía-hemihipoestsia  faciobraquiocrural izquierda, así como heminegligencia y anosognosia. Se inicia sedestación y test de disfagia. Se solicita valoración por el servicio de rehabilitación. Ante estabilidad clíncia en el momento actual se decide traslado a la Planta de Neurología.
+A su llegada  a Planta de Neurología la paciente permanece hemodinámicamente estable, ha presentado único pico febril que se interpreta como de origen respiratorio por lo que se pauta tratamiento con
+Amoxicilina-Ác.Clavulánico 1g/8h con buena tolerancia y sin necesidad de oxígenoterapia. Se solicita traslado a su hospital de referencia (_SS_) para continuar cuidados. En el momento de la solicitud, NIHSS 18, mRS 4.
+
+DIAGNÒSTICS
+Hematoma intracraneal parietal derecho.
+
+Informe d'alta d'hospitalització
+
+
+
+
+Infección respiratoria de probable origen broncoaspirativo.
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Se adjunta.
+
+DESTINACIÓ A L'ALTA:	HOSP. AGUTS/PSQ
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+21.03.2017
+Pàgina 1 de 3

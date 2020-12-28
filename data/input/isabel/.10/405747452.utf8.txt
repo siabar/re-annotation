@@ -1,0 +1,109 @@
+I.CLINIC DE NEUROCIÈNCIES NEUROLOGIA
+_NAME_	NHC: _ID_
+
+
+Sexo/Sexe: Fem.	Fecha nac./Data naix.: _DATE_	Edad/Edat: 80 años Dirección/Adreça: _LOCATION_	CP: _LOCATION_
+Municip. (Prov.): _LOCATION_  ABS:_SS_	Tel.:_CONTACT_
+As.: SERVEI CATALA DE LA SALUT	CIP: _ID_	NASS: _ID_
+Nº epis.: _ID_	Tipo/Tipus: HOSPIT.	Inici.: 21.08.2017
+Serv: NEUROLOGIA	UO Enf.: G064 SALA G DE NEUROLOGIA	Hora: 13:51:44
+
+
+
+
+
+Tipo ingreso/Tipus ingrés: Urgent	Motivo/Motiu alta: Hospital Ag.
+Diag.:
+ICTUS ISQUÉMICO EN TERRITORIO ACMD Y ACA DERECHAS (434.91) OCLUSIÓN ACMD M1 DISTAL Y ARTERIA PERICALLOSA DER. () INFECCIÓN DEL TRACTO URINARIO ()
+Proc.:
+ANALÍTICA SANGUÍNEA () ECG. MONITORIZACIÓN. () RADIOGRAFÍA DE TÓRAX () TC MULTIMODAL ()
+
+
+
+
+INFORME CLÍNICO ALTA / INFORME CLÍNIC ALTA
+
+Motivo de consulta / Motiu de consulta
+Debilidad de extremidades izquierdas y alteración del habla de inicio indeterminado.
+
+Antecedentes e historia previa / Antecedents i història prèvia Mujer de 80 años sin alergias medicamentosas conocidas. No hábitos tóxicos. Independiente para las actividades de la vida diaria (mRS: 2) vive en domicilio con marido y una hija, precisando de cierta supervisión.
+
+*ANTECEDENTES PATOLÓGICOS:
+
+1.	HIPERTENSIÓN ARTERIAL en tratamiento.
+
+2.	DIABETES MELLITUS TIPO 2 en tratamiento con hipoglucemiantes orales.
+
+3.	DISLIPEMIA en tratamiento farmacológico.
+
+4.	SÍNDROME DEPRESIVO en tratamiento farmacológico.
+
+5.	OSTEOPOROSIS en tratamiento farmacológico.
+
+6.	INFECCIÓN DEL TRACTO URINARIO CON RETENCIÓN AGUDA DE ORINA en julio de 2017.
+
+
+*MEDICACIÓN HABITUAL: Omeprazol m20mg/24h, metformina 850mg/12h, glicazida 30mg/24h, simvastatina 40mg/24h, lormetazepam 2mg/24h, paroxetina 20mg/24h, paracetamol 1g/8h, calcio+vitD/24h, atenolol 100mg/24h, manidipino 20mg/24h, losartán 100mg/24h.
+
+Proceso actual / Procés actual
+El 21/08/17 a las 12:00h es encontrada con debilidad de extremidades izquierdas y alteración del habla. Última vez vista asintomática el día previo.
+
+Exploración física / Exploració física
+21/08/2017-14:00:00: Glicemia capilar (mg/dl) 220, PAS (mm Hg) 149, PAD (mm Hg) 60, Pulsioximetría (%) 100, Tª axilar (ºC) 36.6. 21/08/2017-16:0 0:00 : FiO2 (%) 24.
+NRL: Consciente y orientada. Lenguaje hipofluente sin afasia. Disartria moderada. Desviación oculocefálica a la derecha, sin sobrepasar línea media. Reflejo de amenaza izquierdo abolido. Paresia facio (mod) con plejia de extremidades izquierdas. Anestesia de extremidades izquierdas. Anosognosia y asomatognosia. NIHSS 19.
+
+Laboratorio / Laboratori
+*ANALÍTICA SANGUÍNEA: PCR 2.97 mg/dL. Glucosa 121 mg/dL. Creatinina 0.84 mg/dL; filtrado 66 mL/min. Úrico 5.4 mg/dL. Colesterol total 215 mg/dL; TG 98 mg/dL; LDL 148 mg/dL; HDL 47 mg/dL. Hemograma sin alteradiones. VSG mm/h. HbA1c 6.9%. TSH 1.032 mUI/L; FT4 1.03 ng/dL.
+
+*UROCULTIVO: 125 leucocitos/µL; 25 eritrocitos/µL. >100000 UFC de Klebsiella pneumoniae multi-sensible.
+
+*COPROCULTIVO: negativo. Toxina de Clostridium difficile negativa.
+
+Radiología / Radiologia
+*RX  TÓRAX:  silueta  cardíaca  conservada,  elongación  aórtica,  refuerzo  hiliar,  sin  derrame  pleural  ni condensaciones visibles en parénquima pulmonar.
+
+*TC MULTIMODAL: - TC CRANEAL BASAL: Lesion isquemica de caracteristicas crónicas en el territorio superficial posterior de la ACM derecha. Extensa hipodensidad en el territorio superficial de la ACM derecha, asi como a nivel de la insula y el nucleo lenticular derecho. ASPECTS 2 Asimismo se observa la hipodensidad del territorio superficial de la ACA derecha. - TC PERFUSION CEREBRAL: etraso en los mapas de tiempo en el hemisferio cerebral derecho con importante disminucion del CBV, sin discordancia entre ambos mapas. - ANGIO-TC EXTRA E INTRACRANEAL: aorta y segmentos proximales de troncos supraaórticos con signos de ateromatosis, permeables y sin estenosis secundarias. Segmentos intracavernoso y supraclinoideo de ambas arterias carotidas internas con leves signos de ateromatosis calcificada, permeables con estenosis menores del 20%. A nivel intracraneal se observa la oclusion de la ACM derecha en su segmento distal asi como la oclusion de la arteria pericallosa derecha.
+
+Exploraciones complementarias / Exploracions complementàries
+*ECG: ritmo sinusal sin alteraciones en la repolarización.
+
+Evolución / Evolució
+1.	ICTUS ISQUÉMICO EN TERRITORIO DE LA ARTERIA CEREBRAL MEDIA (ACMD) Y ANTERIOR DERECHAS (ACAD).
+2.	OCLUSIÓN DE SEGMENTO M1 DISTAL DE LA ACMD Y DE LA ARTERIA PERICALLOSA DERECHA.
+A su llegada hipertensa (TA 186/71 mmHg) y afebril. En la exploración se aprecia síndrome hemisférico derecho extenso (NIHSS: 19). Analítica sanguínea sin alteraciones. ECG en ritmo sinusal sin alteraciones en la repolarización.  La  neuroimagen  (TC  craneal)  muestra  hipodensidad  compatible  con  ictus  isquémico
+
+
+
+establecido en territorio de la ACMD y la ACAD. El estudio vascular (angio-TC) evidencia oclusión el el segmento M1 distal de la ACMD y en la arteria pericallosa derecha, así como signos de ateromatosis difusa sin estenosis superiores al 20%. Monitorización >48h en unidad de ictus sin arritmias. Ecocardiograma pendiente al momento del alta.
+Se trata de un ictus isquémico agudo en territorio de la ACMD y la ACAD de etiología indeterminada con estudio incompleto a falta de realización de ecocardiograma. Por ictus establecido se desestima fibrinolisis y se inicia antiagregación con ácido acetilsalicílico.
+Durante el ingreso la paciente permanece con estado neurológico deteriorado, persistiendo en la exploración un síndrome hemisférico derecho extenso. Por sectorización se decide traslado a su hospital de referencia (_SS_).
+Al alta: NIHSS: 18;   TOAST: indeterminado (estudio incompleto);   mRS: 5.
+3.	INFECCIÓN DEL TRACTO URINARIO POR KLEBSIELLA PNEUMONIAE MULTI- SENSIBLE.
+Durante el ingreso la paciente realiza picos febriculares sin otra clínica acompañante. Analíticamente se evidencia elevación de reactantes de fase aguda con analítica de orina patológica y urocultivo positivo para Klebsiella pneumoniae multi-sensible. Se inicia antibioterapia con ceftriaxona, que se mantiene al alta.
+
+Plan terapéutico / Pla terapèutic
+-	Atorvastatina 40 mg/24h. - Esomeprazol 20 mg/24h. - Enoxaparina 40 mg/24h. - Amlodipino 5 mg/24h. - Enalapril 20 mg/12h. - Paroxetina 20 mg/24h. - Lormetazepam 2 mg/24h. - Ideos 1250 mg/400 UI/24h. - Metformina 850 mg/24h. - Diamicron 30 mg/24h. - Paracetamol 1 g/8h.
+
+Otras recomendaciones / Altres recomanacions
+-	Traslado a _SS_. - Control por su CAP y especialistas de referencia.
+
+
+
+Firma/Signatura1: _NAME_	Firma/Signatura2: _NAME_ Categoría: Resident 2	Categoría: Espec. Senior
+Nº Matrícula HCP: _ID_	Nº Matrícula HCP: _ID_
+
+Fecha/Data Informe: 29.08.2017
+Hora Informe: 10:14:12
+
+Docum.: _ID_
+Hist. Clínica: _ID_
+El _SS_ ha incorporado sus datos al Fichero de Pacientes, para tratarlos con fines sanitarios.
+Puede ejercer sus derechos de acceso, rectificación, cancelación y oposición, así como obtener mas información en la Unidad de Atención al Cliente.
+Vers. 00
+Pag. 2 de
+3
+Episod.: _ID_
+_SS_ ha incorporat les seves dades al Fitxer de Pacients, per a tractar-los amb finalitats sanitàries. Pot exercir els seus drets d'accés, rectificació, cancel·lació i oposició, i obtenir més informació a la Unitat d'Atenció al Client.
+_SS_
+_LOCATION_) _LOCATION_) Tel. _CONTACT_ Fax _CONTACT_
+http://_CONTACT_/

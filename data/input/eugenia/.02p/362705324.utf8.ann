@@ -1,0 +1,120 @@
+T0	FECHA 223 233	11.04.2017
+#0	AnnotatorNotes T0	2017-04-11
+T1	HORA 236 241	16:54
+#1	AnnotatorNotes T1	16:54
+T2	FECHA 285 295	09.04.2017
+#2	AnnotatorNotes T2	2017-04-09
+T3	HORA 298 303	06:26
+#3	AnnotatorNotes T3	06:26
+T4	SECCION_MOTIVO_DE_INGRESO 371 388	Motivo de Ingreso
+T5	_SUG_Lateralizacion 474 481	derecho
+T6	SECCION_ANTECEDENTES 485 497	ANTECEDENTES
+T7	_SUG_Tratamiento_anticoagulante_alta 809 816	sintrom
+T8	_SUG_Tratamiento_anticoagulante_hab 809 816	sintrom
+T9	SECCION_ANTECEDENTES_QUIRURGICOS 917 941	Antecedentes quirúrgicos
+T10	FECHA 969 973	2002
+#10	AnnotatorNotes T10	2002-UNDEF-month-UNDEF-day
+T11	FECHA 1014 1018	1984
+#11	AnnotatorNotes T11	1984-UNDEF-month-UNDEF-day
+T12	_SUG_Etiologia 1083 1091	habitual
+T13	_SUG_Tratamiento_anticoagulante_alta 1235 1242	Sintrom
+T14	_SUG_Tratamiento_anticoagulante_hab 1235 1242	Sintrom
+T15	_SUG_mRankin_alta 1460 1465	mRS 2
+T16	_SUG_mRankin_previa 1460 1465	mRS 2
+T17	SECCION_PROCESO_ACTUAL 1511 1528	ENFERMEDAD ACTUAL
+T18	_SUG_Tratamiento_anticoagulante_alta 1610 1622	acenocumarol
+T19	_SUG_Tratamiento_anticoagulante_hab 1610 1622	acenocumarol
+T20	_SUG_mRankin_alta 1642 1647	mRS 2
+T21	_SUG_mRankin_previa 1642 1647	mRS 2
+T22	HORA 1769 1787	las 3 de la mañana
+#22	AnnotatorNotes T22	03:00
+T23	_SUG_Lateralizacion 1939 1947	derechas
+T24	SECCION_EXPLORACION_FISICA 1974 1992	EXPLORACIÓN FÍSICA
+T25	FECHA 2018 2024	9/4/17
+#25	AnnotatorNotes T25	2017-04-09
+T26	_SUG_Lateralizacion 2295 2304	izquierda
+T27	_SUG_Lateralizacion 2327 2334	derecha
+T28	_SUG_Lateralizacion 2361 2368	derecha
+T29	_SUG_Lateralizacion 2396 2403	derecha
+T30	_SUG_Lateralizacion 2475 2482	derecho
+T31	_SUG_NIHSS_alta 2486 2537	NIHSS: 0+1+0+1+2 // 1+(3+0)+(3+0) // 0+1+2+0+0 = 14
+T32	_SUG_NIHSS_previa 2486 2537	NIHSS: 0+1+0+1+2 // 1+(3+0)+(3+0) // 0+1+2+0+0 = 14
+T33	FECHA 2559 2566	12/4/17
+#33	AnnotatorNotes T33	2017-04-12
+T34	_SUG_Lateralizacion 2682 2689	derecho
+T35	_SUG_Lateralizacion 2879 2886	derecha
+T36	_SUG_Lateralizacion 2950 2957	derecha
+T37	_SUG_NIHSS_alta 3008 3059	NIHSS: 0+1+0+0+2 // 1+(4+0)+(4+0) // 0+1+2+0+0 = 15
+T38	_SUG_NIHSS_previa 3008 3059	NIHSS: 0+1+0+0+2 // 1+(4+0)+(4+0) // 0+1+2+0+0 = 15
+T39	_SUG_Lateralizacion 3346 3353	derecha
+T40	_SUG_Lateralizacion 3371 3378	derecha
+T41	_SUG_Lateralizacion 3403 3410	derecha
+T42	_SUG_NIHSS_alta 3432 3482	NIHSS: 0+1+0+0+2 // +(4+0)+(3+0) // 0+1+1+1+0 = 13
+T43	_SUG_NIHSS_previa 3432 3482	NIHSS: 0+1+0+0+2 // +(4+0)+(3+0) // 0+1+1+1+0 = 13
+T44	SECCION_EXPLORACIONES_COMPLEMENTARIAS 3485 3514	EXPLORACIONES COMPLEMENTARIAS
+T45	_SUG_TAC_craneal 3596 3598	TC
+T46	_SUG_Arteria_afectada 3648 3674	arteria cerebral posterior
+T47	_SUG_Lateralizacion 3675 3684	izquierda
+T48	_SUG_Lateralizacion 3710 3717	derecha
+T49	_SUG_Arteria_afectada 3863 3866	ACP
+T50	_SUG_Lateralizacion 3867 3876	izquierda
+T51	_SUG_Arteria_afectada 3925 3928	ACP
+T52	_SUG_Lateralizacion 3929 3938	izquierda
+T53	_SUG_Arteria_afectada 3960 3963	ACI
+T54	_SUG_Arteria_afectada 4048 4050	M1
+T55	_SUG_Arteria_afectada 4121 4124	ACA
+T56	_SUG_Arteria_afectada 4170 4173	ACM
+T57	_SUG_Arteria_afectada 4195 4197	M1
+T58	_SUG_Arteria_afectada 4226 4229	ACI
+T59	_SUG_Lateralizacion 4230 4231	D
+T60	_SUG_Arteria_afectada 4233 4236	ACI
+T61	_SUG_Lateralizacion 4252 4253	D
+T62	_SUG_TAC_craneal 4294 4296	TC
+T63	_SUG_Lateralizacion 4363 4372	izquierda
+T64	_SUG_Localizacion 4375 4383	temporal
+T65	_SUG_Lateralizacion 4398 4407	izquierda
+T66	_SUG_ASPECTS 4412 4419	aspecto
+T67	_SUG_TAC_craneal 4473 4483	TC craneal
+T68	_SUG_Localizacion 4568 4577	posterior
+T69	_SUG_Arteria_afectada 4614 4617	ACP
+T70	_SUG_Lateralizacion 4618 4627	izquierda
+T71	_SUG_TAC_craneal 4781 4791	TC craneal
+T72	_SUG_Lateralizacion 4907 4908	I
+T73	FECHA 5023 5033	marzo 2017
+#73	AnnotatorNotes T73	2017-03-UNDEF-day
+T74	FECHA 5735 5742	21/4/17
+#74	AnnotatorNotes T74	2017-04-21
+T75	SECCION_EVOLUCION 5755 5764	EVOLUCIÓN
+T76	_SUG_Ictus_isquemico 5790 5805	ictus isquémico
+T77	_SUG_Arteria_afectada 5820 5823	ACP
+T78	_SUG_Lateralizacion 5824 5833	izquierda
+T79	_SUG_TAC_craneal 5960 5962	TC
+T80	_SUG_Lateralizacion 6028 6037	izquierda
+T81	_SUG_Localizacion 6040 6048	temporal
+T82	_SUG_Lateralizacion 6062 6071	izquierda
+T83	_SUG_Test_de_disfagia 6134 6150	test de disfagia
+T84	_SUG_Arteria_afectada 6339 6342	ACP
+T85	_SUG_Lateralizacion 6343 6344	I
+T86	_SUG_Etiologia 6358 6372	cardioembólica
+T87	_SUG_Tratamiento_anticoagulante_alta 6420 6427	sintrom
+T88	_SUG_Tratamiento_anticoagulante_hab 6420 6427	sintrom
+T89	_SUG_TAC_craneal 6665 6675	TC craneal
+T90	_SUG_Lateralizacion 6845 6853	derechas
+T91	FECHA 7407 7414	21/4/17
+#91	AnnotatorNotes T91	2017-04-21
+T92	_SUG_NIHSS_alta 7760 7769	NIHSS= 13
+T93	_SUG_NIHSS_previa 7760 7769	NIHSS= 13
+T94	SECCION_DIAGNOSTICOS 7778 7790	DIAGNÓSTICOS
+T95	_SUG_Lateralizacion 7829 7838	izquierda
+T96	_SUG_Localizacion 7843 7851	temporal
+T97	_SUG_Lateralizacion 7867 7876	izquierdo
+T98	_SUG_Etiologia 7901 7915	cardioembólica
+T99	_SUG_Tratamiento_anticoagulante_alta 7947 7954	sintrom
+T100	_SUG_Tratamiento_anticoagulante_hab 7947 7954	sintrom
+T101	_SUG_Etiologia 7995 8007	Hipertensión
+T102	SECCION_RECOMENDACIONES 8036 8059	RECOMENDACIONES AL ALTA
+T103	SECCION_TRATAMIENTO_AL_ALTA 8060 8079	Tratamiento al alta
+T104	FECHA 8555 8565	21.04.2017
+#104	AnnotatorNotes T104	2017-04-21
+T105	FECHA 8643 8653	21.04.2017
+#105	AnnotatorNotes T105	2017-04-21

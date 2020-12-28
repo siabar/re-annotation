@@ -1,0 +1,112 @@
+_LOCATION_ Tel. _CONTACT_
+_CONTACT_
+Informe Alta Hospitalització
+_NAME_
+HC: _ID_
+
+>
+
+
+Adreça: _LOCATION_  Data naix.: _DATE_ Població: _LOCATION_	Sexe: MASCULI
+Provincia: _LOCATION_	CIP: _ID_
+País: _LOCATION_	NASS: _ID_
+Telèfon: _CONTACT_	DNI o Tarja Residència: _ID_
+
+
+Servei: Neurologia	Data ingrés a URG: 09/02/2017 14:38
+Unitat clínica: Neurologia	Data hospitalització: 10/02/2017 18:42
+Tipus d'ingrés: Urgències	Data alta: 20/02/2017 13:52
+Proveïdor de Serveis: Servei Català de la Salut	Destí: 01 - Alta Domicili
+
+
+
+Diagnòstic principal:
+
+434.91 AVC ISQUEMIC
+ACA esquerre probablement aterotrombotic
+
+Diagnòstics Secundaris:
+
+799.4 SINDROME TOXICA 496 MPOC
+
+
+
+
+
+Pacient de 78 anys d'edat que ingressa per AVC
+
+Història Actual:
+
+Pacient de 77 anys amb FFSS conservades, autònom per a les ABVD. No AMC conegudes. Fumador de 1 puret al dia (anteriorment 2paq/dia) i bebedor de dos gots de cervesa. No FRCV ni cardio-peumopaties conegudes (poc control mèdic, probable MPOC). No ttmt habitual. No IQ.
+
+Pacient trobat a les 13:00 per la seva dona, a terra, amb impossibilitat per a mobilitzar la cama i el braç dret i alteració de la fluència verbal.
+Aparentment el pacient s'ha llevat bé, cap a les 10h estava arreglant el terrat quan inicia amb sensació de mareig i caiguda secundària a debilitat crural dreta amb TCE lleu. No pèrdua de coneixement aparentment. El pacient roman a terra fins les 13h quan el troba la seva dona.
+
+Exploració física:
+
+AC: TCR sense bufs ni frec, NO edemes en EEII. Sense signes de TVP. Polsos perifèrics presents i simè trics.
+AR: MVC, NO roncus, crepitants ni sibilants
+ABD: Tou i depressible, no dolor a la palpació, sense masses ni megalies. Peristaltisme conservat, sense signes de peritonisme. Punyopercussió lumbar negativa.
+NRL: CiO en temps, espai i persona, no alteracions del llenguatge.
+Pupil·les isocòriques i normoreactives, no defectes campimetrics, no oftalmoparesies, no nistagmus. PPCC conservats.
+Parèsia braquial dreta 4+/5 distal , 4-/5 distal. Plègia crural dreta 4/5.
+
+Resum proves complementàries:
+
+
+Laboratori:
+
+-AS: Leucòcits 6.46 x 10^9/L, Hematies *3.04 x 10^12/L, Hemoglobina *96 g/L, Hematòcrit *0.28 L/L, Volum corpuscular mig 91.8 fL, Hemoglobina corpuscular mitja 31.6 pg, Conc. Hb. corpuscular mitja 344 g/L, Índex dispersió hematies *14.7 %, Plaquetes 311 x 10^9/L, Volum plaquetar mig 10.5 fL, Índex dispersió de plaquetes 11.2 fL, Plaquetòcrit 0.033 L/L, Neutròfils (%) 70.2 %, Neutròfils 4.54 x 10^9/L, Limfòcits (%) *18.6 %, Limfòcits 1.2 x 10^9/L, Eosinòfils (%) 0.3 %, Eosinòfils 0.02 x 10^9/L, Basòfils (%)
+0.5 %, Basòfils 0.03 x 10^9/L, Monòcits (%) *10.4 %, Monòcits 0.67 x 10^9/L, Temps protrombina 1.12 ratio, T.Tromboplastina parcial activ 0.85 ratio, Fibrinògen 2.8 g/L, Ferro *48 µg/dL, Ferritina 323.9 ng/mL, Glucosa 81 mg/dL, Urea 17 mg/dL, Creatinina *0.6 mg/dL, Sodi 141 mEq/L, Potassi 3.5 mEq/L, Calci *7.7 mg/dL, Fosfor 3.2 mg/dL, Aspartat aminotransferasa(AST) *48 U/L, Alaninaminotransferasa (ALT) 15 U/L, Fosfatasa alcalina 125 U/L, Gammaglutamiltranspeptidasa 31 U/L, Bilirubina total 0.5 mg/dL, Proteïnes totals *42 g/L, Albúmina sérica *22.8 g/L, Colesterol total *71 mg/dL, Triglicèrids 58 mg/dL,
+Colesterol-HDL 37.6 mg/dL, Colesterol-LDL 22 mg/dL, Proteïna C reactiva *3.35 mg/dL
+-EKG: RS a 120bpm, molt arterfactat
+-Rx torax: IC<0,5, no pinçament dels sins costofrènics, s'observa trama vascular, dubtosa condensació suprahiliar esquerre.
+-TC crani: No's'observen signes d'isquèmia hiperaguda al TC simple (ASPECTS 10/10). Infart isquèmic hiperagut al territori vascular de l'ACA esquerra. Oclusió d'una branca distal de l'ACA
+esquerra (segment A3). Oclusió proximal de l'ACI dreta d'aspecte crònic. Infarts isquèmics no recents al territori de les lenticuloestriades dretes.
+-HOLTER 24h: RS amb tendència a la taquicàrdia, sense que es registrin arítmies significatives, excepte extrasístole supraventricular aïllada poc freqüent amb 4 salves auriculars, la màxima de 6 batecs a 165x'.
+-Ecocardiografia: VE no dilatat ni hipertròfic, FEV 65% sense alteracions segmentaries de la contractilitat. disfunció diastòlica tipus I. Àrea AE 14cm2. Estudi dins la normalitat per l'edat del pacient.
+- TC toràcic: Signes de patologia bronquial, de predomini basal. Petit vessament pleural associat. Imatge suggestiva de trombe dins el tronc de l'art. pulmonar. Es recomana control estricte en 1 mes per valorar evolució (és poc freqüent aquesta manifestació).
+
+Evolució i comentaris:
+
+1.-AVC ACA ESQUERRA
+Pacient que ingressa per ictus ACA esquerra amb clínica de plegia crural dreta, paresia braquial dreta i alteració de la parla d'inici incert. Es va contraindicar tractament intraarterial donada la permeabilitat proximal i oclusió distal, també es va desestimar tractament endovenós per inici incert.
+El TC simple mostra infart isquèmic hiperagut al territori vascular de l'ACA esquerra i oclusió d'una branca distal de l'ACA esquerra (segment A3) amb oclusió proximal de l'ACI dreta d'aspecte crònic. ASPECTS 10/10
+Es realitza estudi cardiològic amb Holter i ecocardiograma sense alteracions.
+Al llarg de la seva estada a planta s'ha mantingut estable sense nova focalitat neurològica persistint parè sia braquial prox 4/5; dist 4/5, i crural 0/5.
+NIHSS 4
+Rankin 4
+
+2.-BRONCOASPIRACIÓ
+Pacient amb probable disfàgia que en el context de l'ingrés presenta febrícula (37.8ºC) amb Rx de torax que no mostra infiltrats, s'inicia amox-clav i nebulitzacions quedant afebril i amb millora asucultatoria. Des de llavors, bon compliment de l'ús d'espessant. S'ha cursat esput que mostra >25 leucòcits, <10 cèl.lules, amb Cultiu negatiu. Després de 7 dies de tractament parem antibioticoterapia per resolució de l'episodi.
+
+
+3.-MPOC
+Pacient fumador d'anys d'evolució, probable MPOC no estudiat. Rx de torax amb dubtosa condensació suprahiliar esquerre.
+Es realitza TC de tòrax que és normal; i PFR que mostren patró mixte (FVC 48, FEV1 41, FEV1/FVC 82, PBD-)
+Es realitza IC amb pneumologia que està pendent
+
+4.-TROMBO ARTERIA PULMONAR
+Pacient que en Tc de tòrax per descartar LOE en pulmó s'observen signes de patologia bronquial de predomini basal amb petit vessament pleural associat i imatge suggestiva de trombe dins el tronc de l'art. pulmonar. S'inicia enoxaparina segons pes, caldrà realitzar el pas a Sintrom i control en un mes del trombo en l'arteria pulmonar
+
+5.-SÍNDROME TÒXIC
+Interrogant el pacient refereixen els seus familiars pèrdua de 10kg els últims 4 mesos amb anorèxia. En analítica destaca anèmia normo normo amb Hb de 10,8 (es desconeixen prèvies) sense signes de sagnat aparent.
+Marcadors: PSA 1.54 ng/mL, PSA lliure 32.5 %, CEA *10 ng/mL, CA19.9 *55.7 U/mL CA125 21.4 U/mL, AFP 1.4 UI/mL.
+Es sol·licita estudi d'anèmia i TSH, TC de abdomen i fecatest.
+
+Donada l'estabilitat clínica del pacient es decideix trasllat a convalescència per continuar seguiment i rehabilitació.
+
+Tractament:
+
+Fàrmacs:
+
+Ver monodosi
+
+Altres recomanacions:
+
+Citar a CCEE de neurologia per control (Dra _NAME_) Control per metge capçalera
+Control per metge especialista de zona
+
+_LOCATION_, 20/02/2017
+_NAME_ (Nº col _ID_
+Nom i cognoms metge: _NAME_ (Nº col: _ID_Pàg.: 1/3

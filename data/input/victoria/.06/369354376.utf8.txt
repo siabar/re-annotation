@@ -1,0 +1,138 @@
+_LOCATION_ Tel. _CONTACT_
+e-mail: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 63 Anys
+NIF/DNI: _ID__NAME_;, _NAME_,  _NAME_;
+_NAME_
+Informe d'alta d'hospitalització
+11:50:00
+10.05.2017
+_LOCATION_
+_SS_ NEUROLOGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_; _CONTACT_; _CONTACT_
+DOMICIL/RES.SOC 05.05.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Ictus
+
+ANTECEDENTS
+Varón de 63 años, sin alergias médicas conocidas. Ex-fumador. Enol moderado. Situación funcional previa Rankin 0
+
+ANTECEDENTES PATOLÓGICOS
+-	Hipertensión Arterial en tratamiento médico, seguimiento por médico de cabecera.
+-	Dislipemia en tratamiento médico, seguimiento por médico de cabecera.
+-	Obesidad grado 1 con IMC: 30.93 kg/mts2.
+-	Hiperuricemia en tratamiento médico con alopurinol, seguimiento por médico de cabecera.
+-	Póliposis de colón estudiados en atención primaria, colonoscopia evidencia lipoma, polipos colon (3 pólipos y dos micropólipos.). Diverticulosis sigmoidea e incipiente diverticulitis. AP . Adenomas y microadenomas tubulares
+-	Déficit de Vit B12 realizó tratamiento con Optovite. Controles previos por hematologia, actualmente por médico ce cabecera.
+-	Esclerosis valvular aórtica objetivada en ecocardio de 2011 que informaron de: HVI ligera septal, no dilatado y normal motilidad global y segmentaria; esclerosis valvular aórtica sin disfunción significativa, FE 70%. No constan seguimientos posteriores.
+
+MEDICACIÓ HABITUAL
+Emconcor, Alopurinol, Enalapril, Gemfibrozilo
+
+PROCÉS ACTUAL
+Clínica de inicio repentino de hemiparesia derecha y trastorno del habla. Avisan al SEM. Se activa código ictus. Inicio de los síntomas o última vez visto sin síntomas el día 05/04/2017 a las 18:30
+Se activa código ictus el día 05/04/2017 a las 19:50 horas, a nivel SEM Llega a nuestro centro a las 19: 50 del 05/04/2017
+
+EXPLORACIÓ FÍSICA
+
+Exploración neurológica en urgencias: consciente, afasia global, obedece alguna órden simple, sin desviación oculocefálica, hemianopsia derecha, paresia braquio-crural derecha moderada (levanta y mantiene contra gravedad <10seg), hemihipoestesia derecha.
+NIHSS 14  (01102/2(20)(20)/01210)
+
+Exploración sistémica en urgencias: regular estado general, MVC sin ruidos sobreañadidos, Tonos cardiacos regulares no ausculto soplos, abdomen blando depresible, no doloroso a la palpación sin megalias.
+
+Exploración a los 40 minutos de infusión de tPA: sudoroso, inquieto, taquipenico, taquicardico a 120 lpm e
+
+Informe d'alta d'hospitalització
+
+
+
+
+hipotensión 106/50 mmHg. Obnubilado no obedece órdenes, desbiación oculocefálica a la izquierda, hemiplejía izquierda.
+NIHSS: 1.2.2.2.2/2(4.0)(4.0)/0.2.3.2.0=26
+
+
+EXPLORACIÓ COMPLEMENTÀRIA
+Analíticas
+Urgencias: Hematologia (04/05/17): Leucòcits 8800 /µL, (N 47,3 % / L 42,2 / M 7,8 / E 1,4 / B 1,3), Hties 4,17 mill/µL, Hb 13,7 g/dL, Hct 40,5 %, VCM 97,2 fL, Plaquetes 250000 /µL, TP 94 %, INR 1,05 sg, TP ratio 1,05,
+TTPA 42,5 sg, TTPA ratio 1,37, Fibrinogen 503 mg/dL. Bioquimica (04/05/17): Glucosa 116 mg/dL, Urea 33,9,
+Creatinini 0,77, Na 136,5 mmol/L, K 4,3, Prot-C reactiva 6,6 mg/L. Equilibrio Venoso (04/05/17): pH 7,35, pCO2 37
+mmHg, pO2 84, HCO3 20,4 mmol/L, Exc Base -4,7, Sat O2 98,8 %.
+Ingreso: Glucosa 113 mg/dl HbA1c 6.3% Proteina 62.3 g/L Albúmina 35.1 g/L Urea 23 mg/dl FG >90 ml/min
+Creat 0.76 mg/dl Urato 7.1 mg/dl Calcio corregido 9.29 mg/dl Fosfato 2.8 mg/dl Magnesio 1.75 mg/dl Sodio 136.3
+mmol/L Potasio 4.19 mmol/L Bilirrubina 0.85 mg/dl FA 68 U/L ALT 16 U/L GGT 48 U/L LDH 233 U/L PCR 22.80 mg/L Osmoralidad 279 mOsm/kg Triglicéridos179 mg/dl Colesterol 208 mg/dl (HDL31) TSH 3.910
+
+ECG en urgencias: RS a 55x', sin signos de isquemia.
+
+ECG (post rTPA): Fibrilación auricular/Flutter a 150x', con leve infradesnivel de ST en cara lateral (valorado por cardiologi quienes consideran poco sigestivo de SCA y probablemente en relación con taquicardia).
+
+TC craneal:
+Angio TC craneal (04/05/17): No evidencia de lesiones isquémicas ni hemorrágicas agudas TC valorables. ASPECTS=10 Discreta  atrofia córtico-subcortical difusa. Cisternas  basales y perimesencefálicas libres.  Línea media centrada. Sistema ventricular simétrico de tamaño y morfología conservados. Sin alteraciones óseas TC valorables. No se aprecian alteraciones intra ni extraaxiales TC valorables. En la exploración de angio TC se aprecia falta de opacificación a partir del segmento lacerum de la carótida interna izquierda en todo su trayecto incluyendo la ACM izquierda con nulas colaterales hemisféricas.
+TC craneal control (04/05/17 post rTPA): Paciente con infarto carotídeo izquierdo tratado con rtpa.
+Respecto a exploración previa disponible del 4.05.2017 20.07 se aprecia: Restos de contraste endovascular secundario a estudio de angio Tc previo. Aparición de  lesión hemorrágica parenquimatosa frontal izquierda subcortical aguda de 7mm de calibre máximo aproximado. Aparición de pérdida de la diferenciación sustancia gris-blanca en insula, cabeza y cuerpo de nucleo caudado y dudoso lenticular, compatible con lesión isquémica aguda de ramas de la ACM izquierda, A pesar de no ser un estudio angiográfico, la presencia de contraste e.v. pone de manifiesto la opacificación de la arteria carótida interna hasta la TICA. Sin otros cambios significativos respecto a exploración previa disponible.
+TC craneal control (05/05/17): Respecto a exploración previa disponible del 4.05.2017 se aprecia: Estabilidad de la lesión  hemorrágica parenquimatosa frontal  izquierda  subcortical  aguda de 7mm de calibre máximo aproximado. Discreto aumento de la pérdida de la diferenciación sustancia gris-blanca en insula, cabeza y cuerpo de nucleo caudado y lenticular, compatible con lesión isquémica aguda de ramas de la ACM izquierda, Sin otros cambios significativos respecto a exploración previa disponible
+
+Ecocardiograma (09/05/17): Ventrículo izquierdo no dilatado moderada-severamente hipertrófico normocontràctil. Ligera gradiente dinámico a nivel del TSVE que incrementa hasta 88 mmHg. Aurícula izquierda severamente  dilatada.  Insuficiencia  mitral  ligera-moderada  por  SAM.  Cavidades  derechas  no  dilatadas  y normocontràctils
+
+Informe d'alta d'hospitalització
+
+
+
+
+
+Ecodoppler EID: imagen sugestiva de hematoma encapsulado sin flujo en su interior y sin relación con estructuras vasculares.
+
+
+EVOLUCIÓ CLÍNICA
+Paciente de 63 años de edad con antecedentes de HTA, dislipemia, hiperuricemia. mRS 0, que acude el 05/05/17 por clínica hemisférica izquierda completa (NIHSS=14). Se realiza TC craneal con angioTC donde se evidencia ASPECTS 10 y oclusión TICA izquierda. ECG fibrilación/flutter auricular. Se orienta como un Ictus isquémico de TICA izquierda de mecanismo embólico y etiología cardioembólica por FA de debut. Dado que no presenta ninguna contraindicación se inicia tPAev (81mg dosis total), durante la infusión presenta empeoramiento hemodinámico con cuadro de vegetatismo, inquietud, hipotensión (106/50), taquicardia a 120x ', ECG con posible Flutter con infradesnivelación del ST que se comenta con cardiología y consideran poco sugestivo de SCA y probablemente en relación a taquicardia. Presenta también empeoramiento neurológico con obnubilación y estableciéndose TACI izquierdo (NIHSS 26). Se repite TAC cráneo que no muestra transformación hemorrágica y presenta leves signos de isquemia aguda con ASPECTS de 8 (borramiento de lenticular y ínsula) únicamente lesión puntiforme hemorragia frontal izquierdo que no se observaba a TAC previo. Dada la ausencia de  hemorragia significativa ni de infarto establecido, se considera candidato a tratamiento endovascular, consiguiendo recanalización  con 2 pases (TICI2b) y gran mejoría clínica (NIHSS = 0.0.0.0.0/0(0.0)(0.0)/0.0.2.1.0=3).
+
+Durante el ingreso en Unidad de Ictus y planta de hospitalización se ha mantenido estable clínicamente, persistiendo únicamente leve disminución de la fluencia verbal y paresia facial central derecha leve (NIHSS=2). Ha realizado rehabilitación y logopedia. Ha tolerado dieta y deambulación sin ayuda. Correcto control tensional con su medicación hipotensora habitual y correcto control de frecuencias cardíacas con betabloqueantes a dosis bajas.
+
+La TC craneal 24h mostró leve borramiento de la diferenciación sustancia gris-blanca en ínsula, caudado y lenticular izquierdo y estabilidad de la lesión hemorrágica frontal izquierda (7mm). El ecocardiograma no ha revelado la presencia de trombo intracavitario ni de alteraciones estructurales a parte de auricula izquierda severmanete dilatada, la FE es normal. Dado el pequeño tamaño de la lesión isquémica y la estabilidad de la lesión hemorrágica se inició anticoagulación con sintrom a los 3 días de ingreso, sin complicaciones.
+
+Como complicaciones médicas ha presentado hematoma inguinal derecho (en zona de punción) valorado por Cirugía Vascular orientandose como hematoma encapsulado y que se ha mantenido estable. Como otras complicaciones brote de artritis gotosa en rodilla derecha por lo que se inicia tratamiento con colchicina e indometacina con buena evolución clínica. A nivel ambulatorio se aconseja cambio de colchicina por alopurinol en los proximos días.
+
+Por lo tanto, bajo la orientación de ictus isquémico de territorio ACM izquierda de mecanismo embólico y etiología cardioembólica por FA de debut.
+Dada la estabilidad clínica se decide alta a domicilio con logopedia ambulatoria. NIHSS= 2 (afasia motora leve y paresia facial derecha)
+mRs= 2
+Barthel= 100
+
+Informe d'alta d'hospitalització
+
+
+
+DIAGNÒSTICS
+Ictus isquémico de territorio ACM izquierda de mecanismo embólico y etiología cardioembólica por FA de debut. Fibrilación auricular
+Artritis gotosa rodilla derecha
+Hematoma encapsulado inguinal derecho Hipertensión arterial
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Dieta cardiosaludable
+
+SINTROM segun pauta
+Colchicina 0.5mg 1 pastilla al diapor la noche Enalapril 5mg 1 pastilla al día por la mañana Gemfibrozilo 1 pastilla al día al mediodía Emconcor 5mg 1 pastilla por la mañana
+
+CONTROL
+Acudir a CAP Dr _NAME_ (_LOCATION_) el día 12.05 a las 10h para control de sintrom. Control en Consultas Externas el dia 28/07/17 a las =9:30h (Primera Planta)
+
+Acudir al ambulatorio en 2-3 días para control de gota y cambiar colchicina por alopurinol si continua estable
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+10.05.2017
+Pàgina 1 de 4

@@ -1,0 +1,102 @@
+INFORME ALTA HOSPITALARIA
+_NAME_
+Núm. Episodi: _ID_ Núm. HC: _ID_
+_SS_ _LOCATION_
+_LOCATION_
+Tel. _CONTACT_Adreça: VG._NAME_ 21	C.A.P.: _SS_
+Població: _LOCATION_	Sexe: DONA  Data naixement: _DATE_  Edat: 82a
+Telèfon: _CONTACT_  C.P.: _LOCATION_	T.I.S.: _ID_  :
+Procedència: URG	Data Ingrés Hospital: 14/06/2017
+Servei assistencial: NEUROLOGIA HOSP	Data Ingrés Servei: 14/06/2017
+Metge Responsable: _NAME_	Data Alta: 22/6/2017
+
+
+MOTIVO INGRESO: código ictus.
+
+ANTECEDENTES PERSONALES:
+No alergias medicamentosas conocidas.
+Hipertensión arterial en tratamiento farmacológico. No DM ni DLP. Fibrilación auricular paroxística.
+Insuficiencia mitral leve.  Hipoacusia de transmisión bilateral.
+Coxalgia izquierda por probable trocanteritis.
+Insuficiencia venosa con varices en extremidades inferiores. Linfedema secundario. Intervenciones quirúrgicas: faquectomía bilateral en 2013.
+
+Situación basal: Vive con su marido, independiente para las ABVD. No deterioro cognitivo. mRS 1 (por polialgias). Barthel 90.
+
+Tratamiento habitual: torasemida, bisoprolol 2.5mg, aterina, menaven, paracetamol, omeprazol
+
+ENFERMEDAD ACTUAL:
+Paciente de 82 años que el día 13 de Junio, tras despertarse sobre las 23h, presenta dificultad para emitir el lenguaje, comprendiendo algunas órdenes según el hijo y pérdida de fuerza del brazo y pierna derecha que se acude a urgencias sobre las 23.50h y se activa código ictus a las 23.58h, presentando un NIHSS de 15. Se realiza TC cráneo dónde se descartar focos hemorrágicos o lesión isquémica establecida y dado que no presentaba  contraindicación  para  la  fibrinolisis,  se  administra  a las  0:12  rTPa  (bolus + perfusión,  TPA 22min, OTT, 72 min).  Se reexplora a la paciente y al no observarse mejoría se contacta con guardia de neurovascular del _SS_, dónde se traslada para posible rescate endovascular. Se le realizan TC perfusión y angioTC dónde se descarta oclusión arterial descartando la trombectomía, siendo derivada a _SS_ para continuar estudio y evolución.
+
+
+EXPLORACIÓN FÍSICA:
+E. NRL (_SS_): consciente, orientación no valorable, No limitación de la mirada horizontal. Hemianopsia homónima derecha. No paresia facial. Paresia braquio-crural derecha (3+/5). Afasia de predominio de comprensión (fluente con abundantes parafasias, no repite, no nomina, realiza alguna orden de 1 ítem). Retira al dolor de forma simétrica. RCP flexor bilateral NIHSS 6
+
+Planta de Neurología _SS_ EO:
+Buen estado general. Bien hidratada y perfundida. Normocoloreada en piel y mucosas. Eupneica en reposo. ACR. Tonos cardíacos arritmicos a buena frecuencia con soplo pansistólico de predominio aórtico con irradiación a ambas carótidas. Buen murmullo vesicular sin ruidos patológicos sobreañadidos.
+
+E. NRL:
+Buen nivel de vigilancia. Orientada en las 3 esferas. Lenguaje normal. Motilidad ocular normal. Campimetria por confrontación normal. No asimetria facial. Resto de pares craneales normales. Fuerza conservada en las 4 extremidades. No alteraciones sensitivas. No dismetria dedo-nariz. NIHSS 1
+
+
+EXPLORACIONES COMPLEMENTARIAS:
+
+En urgencias:
+Analítica: Temps de Protrombina (%) *103 , Temps de protrombina (rati) *0.98 , Temps de Protrombina (INR) *1.0 , Glucosa basal *131.9 mg/dL, Urea *56.9 mg/dL, Creatinina *1.0 mg/dL, Sodi *141.0 (mEq/L) mmol/L, Clorur *103.3 (mEq/L) mmol/L, Gas Ven Dioxid de carboni parcial *X , Gas Ven Oxigen parcial *X , Neutròfils % *68.9 %, Limfòcits % *18.9 %, Basòfils % *0.9 %, Limfòcits *2.56 x1E9/L, Basòfils *0.12 x1E9/L, Volum plaquetari mitja (VPM) *10.2 fL, FG Dona Crea alta *53.01 , Temps de Tromboplastina parcial
+(s) *28.2 , Temps de Tromboplastina parcial (rati) *0.91 , Potassi *4.2 (mEq/L) mmol/L, Plaquetes *278 x1E9/L, Gas Ven pH *Es precisa gasometria venosa , Gas Ven Hidrogencarbonat *X , Gas Ven Dioxid de carboni  *X , Gas Ven Base exces  *X , Gas Ven Hidrogencarbonat estandar  *X , Gas Ven Oxigen saturacio
+*X , Hematies  *4.05 x1E12/L, Hemoglobina  *12.2 g/dL, Hematocrit  *37.8 %, Volum eritrocitari mitja (VCM)
+*93.3 fL, Hemoglobina eritrocitari mitja (HCM) *30.1 pg/cel, Conc. hemoglobina eritrocitaria mitja *32.3 g/dL, C.V. Volum eritrocitari (RDW) *14.5 %, Leucocits *13.51 x1E9/L, Monòcits % *9.7 %, Eosinòfils % *1.6
+%, Neutròfils  *9.31 x1E9/L, Monòcits  *1.31 x1E9/L, Eosinòfils  *0.21 x1E9/
+
+TC cráneo (13/06/17): Sobre-expresión de surcos de la convexidad de predominio supratentorial fronto- temporal, se asocia a leve dilatación de los ventrículos laterales que mantienen una morfología conservada. Hipodensidad de la sustancia blanca subcortical hallazgo compatible con enfermedad de pequeño vaso (leucoaraiosis). Infarto lacunar antiguo en talamo izquierdo y nucleo lenticular derecho. No se observan alteraciones de aspecto agudo en el momento de la exploración en el parénquima cerebral. No signos de sangrado extra-intraxial. Cisternas basales libres. Estructuras de la línea media centradas.Calcificaciones en sifones carotideos.
+
+En _SS_:
+TC cráneo simple (14/06/17): se informa de discreto sangrado cortical frontal derecho sin signos de isquemia subaguda.
+
+TC perfusión (14/06/17): se informa con un TTP sin caía de volumen en territorio frontera de ACM/ACP izquierda.
+
+Angio-TC TSA-cerebral (14/06/17): informada con la presencia de placas calcificadas en arco aórtico, arterial carotídeas sin ateromatosis significativas y sin observarse oclusiones a nivel intracraneal. Origen fetal de ACP derecha.
+
+En _SS_:
+Analítica de estudio:
+
+Ecodoppler TSA: ARTÈRIES VERTEBRALS: Flux de direcció cranial amb pics de velocitat sistòlica
+simètrics, 35 vs 40 cm/s. EIX CAROTIDI DRET: Elongació CPD. No s'identifiquen plaques productores d'estenosi significatives de la llum vascular, mínim engruiximent de l'íntima arterial. IMT 1.011mm. Al bulb carotidi dret, no s'observa estenosi significativa, engruiximent de  l'íntima arterial amb alguna petita calcificació. Els registres espectrals no mostren signes d'alteració hemodinàmica, amb un pic sistòlic de velocitat màxima, concordant ( PSV) CID de 69 cm/s i un quocient també concordant de CPD-CID 1.7. Lleugera elongació trajecte cervical CID. EIX CAROTIDI ESQUERRE: Elongació CPE. No s'identifiquen plaques productores d'estenosi significatives de la llum vascular, ni engruiximent de l'íntima arterial. IMT 0.7 mm. Al bulb carotidi esquerre, no s'observa estenosi significativa, engruiximent de l'íntima arterial amb alguna petita calcificació. Els registres espectrals no mostren signes d'alteració hemodinàmica, amb un pic sistòlic de velocitat màxima, concordant ( PSV) CIE de 59 cm/s, i un quocient també concordant de CPE-CIE 1.1
+
+Ecocardiografía: Ventrículo izquierdo no dilatado, moderadamente hipertrófico, sin alteraciones segmentarias de la contractilidad, con función ventricular conservada (FE estimada por Simpson 69%). Aurícula izquierda severamente dilatada. Válvula mitral con velos ligeramente engrosados con dilatación del anillo mitral. Calcificación del anillo mitral. Raíz aórtica y aorta ascendente no dilatadas. Válvula aórtica trivalva con velos con puntos de calcificación con apertura conservada. Ventrículo derecho no dilatado con
+función conservada (TAPSE 29 mm). Vena cava inferior no dilatada con colapso inspiratorio normal. Sin derrame pericárdico.
+Insuficiencia mitral ligera, con jet central, protosistólico de ligera intensidad doppler. Gradiente transvalvular aórtico dentro de la normalidad. Insuficiencia aórtica moderada (II) con jet central que sobrepasa discretamente el TSVI, de ligera intensidad doppler, THP 500msg, sin inversión en aorta torácica descendente.
+IT ligera que permite estimar una PAP de 44mmHg. Alteración diastólica tipo I.
+
+TC cráneo post-rTPa (24h): Estructures de línia mitja no desplaçades. Marcada prominència d'espais aracnoïdals dels solcs de la convexitat i dels valls silvians-insulars, per atròfia cerebral global de predomini cortical. Sistema ventricular de mida i configuració normal per l'edat del pacient. Hipodensitat de substància blanca periventricular compatible amb leucoencefalopatia hipòxico-isquèmica. Cisternes perimesencefàliques i de la base lliures. Focus de sagnat intraparenquimatós de 6 mm a substància blanca subcortical frontal dreta. Lacunar antic a càpsula interna- lenticular dret i tàlem esquerre. Calcificació de 8 mm frontal esquerra que podria estar a meninges i ser un meningioma.
+
+RMN cerebral: pte informe: sin lesiones agudas en DWI, HIC remoto frontal Dcon leve componente HSA
+
+
+EVOLUCIÓN:
+
+Paciente de 82 años con FA paroxística no anticoagulada que es traída a urgencias por cuadro de afasia mixta de predominio motor con hemiparesia facio-braquial derecha activando código ictus. Se le realiza rtpa tras descartar contraindicación y dada la no mejoría de la paciente se deriva a _SS_ para rescate endovascular que no se realiza al descartarse oclusión arterial mediante angio-TC. La paciente presenta una clara mejoría tras salir de la sala de TC, observando únicamente una disfasia leve nominativa (NIHSS 1), con lo que se traslada a _SS_ para continuar seguimiento y estudio.
+Durante su estancia en UCI, la paciente se ha mantenido estable, se le realiza TC cerebral post-rTPa que se observa pequeño foco hemorrágico frontal derecho, ya observado en TC cráneo simple del HCB, secundario a fibrinolítico, con lo que se decide realizar anticoagulación diferida.
+
+En planta de Neurología la paciente asintomatica, NIHSS 1 (fluencia), mRS1. Se  inicia tratamiento con bisoprolol, amiodarona y anticoagulación con dabigatran el dia 19/6 con buena tolerancia CHA2DS2-Vasc 5, Has-Bled 4. EN la DWI RM no se objetiva lesión aguda. Pequeño HIC remoto.
+
+ORIENTACIÓN  DIAGNÓSTICA:
+Ictus isquémico del territorio de la ACM izquierda de etiología cardioembólica. PACI izquierdo. (434.11)
+Fibrilación  auricular  paroxística. HIC remoto post rt-PA
+
+TRATAMIENTO:
+Pradaxa 110mg/12h, control f.renal en 6 meses Trangorex 200mg/dia
+Resto tratamineto habitual: bisoprolol 2.5mg, aterina, menaven, paracetamol, omeprazol Stop torasemida
+Control FRCV en CAP
+Citar Dr _NAME_ en 3 meses
+
+Atentamente, Firmado
+Dra.: _NAME_
+Metge adjunt - Neurologia
+Número col·legiat: _ID_
+
+Dra.: _NAME_
+Metge adjunt - Neurologia Número col·legiat: _ID_
+
+Hospitalització
+Imprès: 22/06/2017 16:14
+Pàg.: 1 de  4

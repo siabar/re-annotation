@@ -1,0 +1,102 @@
+_LOCATION_
+email: _CONTACT_ Telèfon _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 81 Anys
+NIF/DNI: _ID__NAME_; _NAME_
+Informe d'epicrisi
+23:50:00
+16.09.2017
+_LOCATION_
+_SS_ UNITAT D'ICTUS
+CP
+ABS
+Servei Data d'alta
+DOMICIL/RES.SOC
+15.09.2017
+_LOCATION_
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Ingresa por infarto isquémico cerebral.
+
+ANTECEDENTS
+No alergias medicamentosas conocidas No hábitos tóxicos
+ANTECEDENTES PATOLÓGICOS
+-	Diabetes mellitus tipo 2 en tratamiento con hipoglicemiantes orales
+-	Hipertensión arterial esencial en tratamiento farmacológico y seguimiento por médico de cabecera
+-	Dislipemia sin tratamiento farmacológico
+-	Fibrilación auricular permanente en tratamiento anticoagulante con sintrom y frenador con digoxina
+-	Fractura radio izquierdo [junio 2017]
+-	Hipotiroidismo en tratamiento sustitutivo
+-	Infección de vías respiratoras por lo que había sido atendida por médico en residencia, en tratmiento con levofloxacino, broncodilatadores.
+
+Situación sociofuncional: precisa ayuda para todas las actividades básicas de la vida diaria, deambula con soporte (andador). Institucionalizada en residencia desde hace un mes por deterioro funcional, previamente vivía con un nieto. Buen soporte familiar. mRS 4
+
+MEDICACIÓ HABITUAL
+Según se administra en residencia habitual: Levotiroxina 50mcg 1c/d (1-0-0)
+Citalopram 10mg 1c/d (0-0-1) Acenocumarol 1mg según pauta (0-0-sp) Vitaminas B12+B6+B1 1c/d (1-0-0) Betahistina 8mg 1c/8h (1-1-1) Metformina 850mg 1c/d (1-0-0) Paracetamol 1c/8h (1-1-1)
+Digoxina 0.25mg 1c/d (L,Mx,V) Ranitidina 150mg 1c/d (1-0-0) Enalapril 5mg 1c/d (1-0-0) Pregabalina 75mg 1c/12h (1-0-1) Hierro 100mg 1c/d (1-0-0) Espironolactona 25mg 1c/d (0-1-0) Salbutamol 2.5mg nebulizado/8h Bromuro Ipratropio 500mcg Magnesia 1c/48h (1-0-0)
+
+PROCÉS ACTUAL
+Paciente que estando previamente en su estado basal presenta esta mañana sobre las 11:30 de forma súbita un
+
+Informe d'epicrisi
+
+
+
+
+episodio de disminución del nivel de consciencia con tendencia a la hipotensión (TA 84/54mmHg; BMT 198mg/dl), que recupera inmediatamente presentando posteriormente desviación de oculocefálica a la dercha junto con hemiparesia derecha y disatria. No se ha activado cógido ictus debido a su situación funcional basal. No fiebre, ni otra clínica añadida.
+Los días previos había sido atendida por infección respiratoria, inciando tratamiento con levofloxacino.
+
+EXPLORACIÓ FÍSICA
+
+URGENCIES
+Constantes: TA 145/85mmHg, FC 70lpm, Tª 35.6ºC, SatO2 95%aa
+Tonos cardiacos rítmicos no soplos, no edemas en miembros inferiores, pulsos periféricos presentes y simétricos MVC sin ruidos sobreañadidos, eupneica en reposo
+Vigil, orientada en espacio y persona, comprende órdenes simples. Desviación oculocefálica a la derecha (2), hemianopsia homónima izquierda por amenaza (2). Disatria inteligible (1). Parálisis facial supranuclear izquierda (2), plegia ESI (4), paresia EII 1/5 (3). Probable hemihipoestesia (1). Anosognosia. NIHSS 17
+
+UNIDAD DE ICTUS
+151/84. FC 64. Sat 97 %
+Somnolienta (1), orientación no valorable (1), comprende órdenes simples. Disartria ligera (1). Lenguaje normal. Desviación oculocefálica a la derecha (2), Hemianopsia homónima izquierda por amenaza (2). Parálisis facial supranuclear izquierda (1), plegia ESI (4), paresia EII 1/5 (3). Probable hemihipoestesia (1). Anosognosia (2).
+NIHSS 18
+
+
+EXPLORACIÓ COMPLEMENTÀRIA
+URGENCIAS
+-	TC craneal: Hipodensidad cortico subcortical afectando insula y segmentos M2 y M3 , parcialmente segmentos M5 y M6 , ASPECTS 6, compatible con infarto agudo territorio superficial ACM derecha, sin transformacion hemorragica. Hiperdensidad en trayecto M1 derecha. Sin otras alteraciones
+-	Analítica urgencias: hemoglobina 10.4g/dl, hemaotcrito 32.9%, leucocitos 7710 (N78.4%, L12.2%, M7.8%), Plaquetas 182000. INR 1.22, TTPA 30.9s, fibrinogeno 4.44g/L. Glucosa 103mg/dl, creatinina 0.71mg/dl. Na 138.7mmol/l, K 4.33mmol/l
+-	Rx tórax:: marco óseo conservado, índice cardiotorácico > 0.5, senos costofrénicos libres. Aumento de densidad bibasal de predominio el LII, probable condensación parenquimatosa
+-	ECG: fibrilación auricular con rvm de 60lpm, QRS estrecho, eje -10, morfología BRD. Sin alteraciones agudas de la repolarización
+-	Doppler: oclusión distal ACI D. Solo se visualizan segmentos V2 de ambas AV con dominancia I e hipoplasia D No se visualiza ACM D. Resto sin alteraciones significativas. No se explora ventana suboccipital
+
+UNIDAD DE ICTUS
+-TC craneal de control: Infarto establecido de la ACM en territorio superficial y profundo y de la ACA superficial derechas con transformación hemorrágica a nivel gangliobasal e importante efecto de masa que desplaza la línea media, oblitera parcialmente el VL derecho y los surcos aracnoideos. Signos de herniación transtentorial uncal derecha y subfalcial derecha.
+
+Informe d'epicrisi
+
+
+
+EVOLUCIÓ CLÍNICA
+A su llegada a urgencias paciente hemodinámicamente estable y afebril, presenta clínica compatible con síndrome TACI ACM derecha. Paciente no tributaria a tratamiento intraarterial por su estado basal. Se realiza TC simple que muestra signo de ACM derehca hiperdensa y signos de infarto establecido en dicho territorio, por lo que se desestima tratamiento fibrinolítico. Analíticamente destaca infradescoagulación con INR 1.22 (posible error en la dosificación de sintrom, pauta habitual a partir de comprimido 4mg pero hoja de enfermería de la residencia 1mg, sin poderlo corroborar) y anemia nomormocítica, normocrómica sin otras alteraciones. El doppler muestra oclusión distal ACI derecha. El ECG muestra FA ya conocida y Rx de tórax unaimagen de condensación parenquimatosa. Se inician medias de ictus agudo y mantenemos tratamiento por infección previa. La paciente ingresa en Unidad de ictus con la orientación diagnóstica de ictus en terriotorio de ACM derecha de etiología desconocida por doble mecanismo para control evolutivo.
+Al ser revalorada al día siguiente persiste clínica de síndrome completo de ACM derecha junto con somnolencia importante y taquipnea. Por empeoramiento clínico se realiza TC craneal de control que muestra infarto establecido en territorio superficial y profundo de ACM y ACA derechas así como transformación hemorrágica a nivel gangliobasal e importante efecto de masa que desplaza la línea media, oblitera parcialmente el VL derecho y los surcos aracnoideos, y signos de herniación transtentorial uncal derecha y subfalcial derecha. Posteriormente presenta progresivo empeoramiento clínico, por lo que se informa a familiares del mal pronóstico a corto plazo.
+Finalmente la paciente es éxitus el día 16 de septiembre de 2017 a las 23:50h.
+
+Causa inmediata: Parada cardio-respiratoria
+Causa fundamental: Extenso infarto isquémico cerebral en territorio de ACM derecha de probable etiología caridoembólica por FA infradescoagulada.
+
+DIAGNÒSTICS
+Extenso  infarto  isquémico  cerebral  en  territorio  de  ACM  D  de  probable  etiología  caridoembólica  por  FA infradescoagulada.
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+17.09.2017
+Pàgina 1 de 3

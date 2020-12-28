@@ -1,0 +1,147 @@
+T1	Hora_de_alta 250 255	13:33
+#1	AnnotatorNotes T1	13:33
+T2	Fecha_de_alta 259 269	23.07.2017
+#2	AnnotatorNotes T2	2017-07-23
+T3	Fecha_de_ingreso 376 386	20.07.2017
+#3	AnnotatorNotes T3	2017-07-20
+T5	_SUG_Ictus_isquemico 494 499	ictus
+T6	_SUG_Arteria_afectada 514 517	ACM
+T7	_SUG_Lateralizacion 518 527	izquierda
+T8	_SUG_Etiologia 626 638	Hipertensión
+T9	_SUG_Tratamiento_anticoagulante_alta 757 764	sintrom
+T10	_SUG_Tratamiento_anticoagulante_hab 757 764	sintrom
+T11	FECHA 827 831	2009
+#11	AnnotatorNotes T11	2009-UNDEF-month-UNDEF-day
+T12	FECHA 886 899	enero de 2017
+#12	AnnotatorNotes T12	2017-01-UNDEF-day
+T13	_SUG_mRankin_alta 1104 1109	mRS 1
+T14	mRankin_previa 1104 1109	mRS 1
+T16	_SUG_Tratamiento_anticoagulante_alta 1235 1242	Sintrom
+T17	Tratamiento_anticoagulante_hab 1235 1242	Sintrom
+T18	Hora_inicio_sintomas 1368 1373	00:00
+#18	AnnotatorNotes T18	00:00
+T19	Fecha_inicio_sintomas 1388 1398	20/07/2017
+#19	AnnotatorNotes T19	2017-07-20
+T20	HORA 1419 1424	07:00
+#20	AnnotatorNotes T20	07:00
+T21	_SUG_Ictus_isquemico 1612 1617	Ictus
+T22	_SUG_Ictus_isquemico 1647 1652	Ictus
+T23	HORA 1653 1657	7:52
+#23	AnnotatorNotes T23	7:52
+T24	_SUG_Lateralizacion 1892 1901	izquierda
+T25	_SUG_Lateralizacion 1912 1913	D
+T26	_SUG_Lateralizacion 1963 1970	derecha
+T27	_SUG_NIHSS_alta 2056 2066	NIHSS 16+1
+T28	NIHSS_previa 2056 2066	NIHSS 16+1
+T29	_SUG_Ictus_isquemico 2076 2081	ICTUS
+T30	_SUG_NIHSS_alta 2353 2361	NIHSS 10
+T31	_SUG_NIHSS_previa 2353 2361	NIHSS 10
+T32	TAC_craneal 2426 2428	TC
+T33	_SUG_Lateralizacion 2513 2522	izquierdo
+T34	ASPECTS 2524 2536	ASPECTS 9/10
+T35	Arteria_afectada 2565 2567	M2
+T36	_SUG_Lateralizacion 2577 2586	izquierdo
+T37	_SUG_Arteria_afectada 2666 2669	ACM
+T38	_SUG_Lateralizacion 2670 2679	izquierda
+T39	_SUG_TAC_craneal 2684 2686	TC
+T40	_SUG_ASPECTS 2794 2806	ASPECTS 9/10
+T41	_SUG_Localizacion 2825 2832	frontal
+T42	_SUG_Lateralizacion 2833 2842	izquierda
+T43	_SUG_Localizacion 2927 2938	ventricular
+T44	_SUG_Arteria_afectada 3224 3227	ACM
+T45	_SUG_Lateralizacion 3228 3237	izquierda
+T46	_SUG_Arteria_afectada 3239 3241	M2
+T47	_SUG_Arteria_afectada 3461 3464	ACP
+T48	_SUG_Lateralizacion 3465 3474	izquierda
+T49	_SUG_TAC_craneal 3521 3523	TC
+T50	_SUG_Arteria_afectada 3638 3641	ACM
+T51	_SUG_Lateralizacion 3642 3651	izquierda
+T52	_SUG_Arteria_afectada 3792 3795	ACM
+T53	_SUG_Lateralizacion 3796 3804	izquiera
+T54	Trombectomia_mecanica 4210 4222	Trombectomía
+T55	Hora_primera_serie_trombectomia 4256 4261	09:10
+#55	AnnotatorNotes T55	09:10
+T56	HORA 4354 4359	09:29
+#56	AnnotatorNotes T56	09:29
+T57	HORA 4397 4402	09:30
+#57	AnnotatorNotes T57	09:30
+T58	HORA 4458 4463	09:47
+#58	AnnotatorNotes T58	09:47
+T59	Hora_recanalizacion 4557 4562	09:58
+#59	AnnotatorNotes T59	09:58
+T60	Hora_fin_trombectomia 4650 4655	10:00
+#60	AnnotatorNotes T60	10:00
+T61	_SUG_Ictus_isquemico 4699 4704	ICTUS
+T62	_SUG_TAC_craneal 4707 4709	TC
+T63	Localizacion 5370 5374	TACI
+T64	_SUG_Lateralizacion 5375 5382	derecho
+T65	_SUG_NIHSS_alta 5387 5392	NIHSS
+T66	_SUG_NIHSS_previa 5387 5392	NIHSS
+T68	_SUG_TAC_craneal 5410 5420	TC craneal
+T69	_SUG_ASPECTS 5440 5449	ASPECTS 9
+T70	_SUG_Ictus_isquemico 5820 5825	ictus
+T71	_SUG_TAC_craneal 6086 6088	TC
+T72	_SUG_Tratamiento_anticoagulante_alta 6249 6260	enoxaparina
+T73	_SUG_Tratamiento_anticoagulante_hab 6249 6260	enoxaparina
+T74	_SUG_Ictus_isquemico 6366 6371	ictus
+T75	_SUG_Etiologia 6385 6399	cardioembólica
+T76	_SUG_Tratamiento_anticoagulante_alta 6417 6424	sintrom
+T77	_SUG_Tratamiento_anticoagulante_hab 6417 6424	sintrom
+T78	_SUG_Tratamiento_anticoagulante_alta 6489 6496	Pradaxa
+T79	_SUG_Tratamiento_anticoagulante_hab 6489 6496	Pradaxa
+T80	HORA 6509 6511	12
+#80	AnnotatorNotes T80	12:00
+T81	FECHA 6527 6538	22 de julio
+#81	AnnotatorNotes T81	2017-07-22
+T83	_SUG_NIHSS_alta 7183 7188	NIHSS
+T84	_SUG_NIHSS_previa 7183 7188	NIHSS
+T85	_SUG_mRankin_alta 7199 7202	mRS
+T86	_SUG_mRankin_previa 7199 7202	mRS
+T87	Arteria_afectada 7235 7238	ACM
+T88	Lateralizacion 7239 7248	izquierda
+T89	Etiologia 7262 7276	cardioembólica
+T91	Tratamiento_anticoagulante_alta 7410 7417	Clexane
+T92	_SUG_Tratamiento_anticoagulante_hab 7410 7417	Clexane
+T93	Tratamiento_anticoagulante_alta 7457 7464	Pradaxa
+T94	_SUG_Tratamiento_anticoagulante_hab 7457 7464	Pradaxa
+T95	_SUG_Tratamiento_anticoagulante_alta 7598 7605	Pradaxa
+T96	_SUG_Tratamiento_anticoagulante_hab 7598 7605	Pradaxa
+T97	_SUG_Tratamiento_anticoagulante_alta 7663 7670	Sintrom
+T98	_SUG_Tratamiento_anticoagulante_hab 7663 7670	Sintrom
+T100	_SUG_Ictus_isquemico 8143 8148	ictus
+T101	FECHA 8157 8166	22/8/2017
+#101	AnnotatorNotes T101	2017-08-22
+T102	HORA 8173 8178	15:15
+#102	AnnotatorNotes T102	15:15
+T103	FECHA 8223 8233	17/10/2017
+#103	AnnotatorNotes T103	2017-10-17
+T104	FECHA 8323 8333	23.07.2017
+#104	AnnotatorNotes T104	2017-07-23
+T105	SECCION_MOTIVO_DE_INGRESO 440 454	MOTIU D'INGRÉS
+T106	SECCION_ANTECEDENTES 530 541	ANTECEDENTS
+T107	SECCION_SITUACION_FUNCIONAL 1013 1037	Situación sociofuncional
+T108	SECCION_TRATAMIENTO_HABITUAL 1111 1129	MEDICACIÓ HABITUAL
+T109	SECCION_PROCESO_ACTUAL 1308 1321	PROCÉS ACTUAL
+T110	SECCION_EXPLORACION_FISICA 1659 1676	EXPLORACIÓ FÍSICA
+T111	SECCION_EXPLORACIONES_COMPLEMENTARIAS 2388 2413	EXPLORACIÓ COMPLEMENTÀRIA
+T112	SECCION_EVOLUCION 5241 5257	EVOLUCIÓ CLÍNICA
+T113	SECCION_DIAGNOSTICOS 7215 7226	DIAGNÒSTICS
+T114	SECCION_TRATAMIENTO_Y_RECOMENDACIONES_AL_ALTA 7301 7336	TRACTAMENT I RECOMANACIONS A L'ALTA
+T115	SECCION_CONTROL 7936 7943	CONTROL
+T4	SECCION_ANTECEDENTES_PATOLOGICOS 599 623	ANTECEDENTES PATOLÓGICOS
+#4	AnnotatorNotes T14	1
+#5	AnnotatorNotes T28	16 + 1
+#6	AnnotatorNotes T34	9/10
+T15	Ictus_isquemico 7227 7234	Infarto
+T67	NIHSS_alta 7183 7198	NIHSS al alta 1
+#7	AnnotatorNotes T67	1
+T82	mRankin_alta 7199 7212	mRS al alta 2
+#8	AnnotatorNotes T82	2
+T90	Fecha_inicio_trombectomia 376 386	20.07.2017
+T99	Fecha_primera_serie_trombectomia 376 386	20.07.2017
+T116	Fecha_fin_trombectomia 376 386	20.07.2017
+T117	Fecha_recanalizacion 376 386	20.07.2017
+T118	SECCION_EXPLORACIONES_COMPLEMENTARIAS_EN_URGENCIAS 2414 2423	URGENCIAS
+T119	SECCION_EXPLORACIONES_COMPLEMENTARIAS_EN_PLANTA_DE_NEUROLOGIA 4692 4704	UNIDAD ICTUS
+T120	SECCION_DESTINO_AL_ALTA 8249 8268	DESTINACIÓ A L'ALTA
+T121	SECCION_EXPLORACION_FISICA_EN_URGENCIAS 1678 1687	URGENCIAS

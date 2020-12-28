@@ -1,0 +1,127 @@
+_LOCATION_
+Telèfon: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 72 anys
+NIF/DNI: _ID_Informe d'alta d'hospitalització
+CP	_LOCATION_
+ABS	_SS_
+Servei	NEUROLOGIA
+Data d'alta  15.11.2017	13:00:07
+_LOCATION_
+_CONTACT_
+ATEN.PRIMÀRIA 09.11.2017
+_NAME_
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+ICTUS
+
+ANTECEDENTS
+Sin alergias medicamentosas ANTECEDENTES:
+-	Cardiopatía isquémica hace 20 años. Intevenido con Triple Bypass. En tto con Adiro
+-	Adenocarcinoma de próstata organoconfinada
+*	Prostatectomia radical laparoscópica en julio de  2012 --> AP: ADC prostata bilateral, gleason 9 (4+5), bordes negativos
+*	TAC abdomino pélvico 2012: adenopatias interaortocava de 2cm. Inicia entonces bloqueo androgenico completo
+*	Junio de 2015 PSA de 7,16, TR: nodulito inespecífico en celda, inicia BAC nuevamente hasta la actualidad.
+*	TAC abdomino pélvico 2015 (siendo normal) y gamma grafia osea ( negativa para M1), no realiza RMN por stent  cardíaco
+-	TVP en julio de 2012
+
+MEDICACIÓ HABITUAL
+Adiro 100 mg 0-1-0
+Atorvastatina 10 mg 0-0-1
+Bicalutamida (probic) 50 mg 0-0-1
+Alopurinol 100 mg 0-1-0 Decapeptyl 22,5 mg semestral
+
+PROCÉS ACTUAL
+Varón de 72 años, con antecedentes de cardiopatía isquémica, en tto con Adiro, que hoy a las 17:30 presenta falta de control y disminución de fuerza de extremidad inferior derecha de manera brusca, y discreta desviación de comisura bucal derecha según informa el SEM.
+A su llegada a urgencias recuperación de la clínica, tras una hora y media del inicio del cuadro.
+
+EXPLORACIÓ FÍSICA
+
+Buen estado general, vigil, orientado en las tres esferas, glasgow 15, normocoloreado, normohidratado C: t ritmicos, sin soplos, bien perfundido  R: MVC
+Neurológico:  PINR,  campimetría  no  alterada,  PPCC  simétricos,  no  alterados, fuerza,  sensibilidad  de  las  4 extremidades conservadas. No dismetría dedo nariz, ni talón rodilla. Marcha conservada. Romberg negativo.
+
+Expl NRLinicial a Unitat Ictus: Lleu monoparesia cama D 4/5. NIHSS : 1.
+
+Informe d'alta d'hospitalització
+
+
+
+
+EXPLORACIÓ COMPLEMENTÀRIA
+-	ECG: sinusal, ritmico, eje 0º, PR 0,12 msg, onda q en aVR. QRS 0,12 msg, con imagen de BRD.   Onda T negativa de V1 a V5
+
+-Rx torax: no condesanciones.
+
+-	Analítica: Sin alteraciones relevantes en hemograma, bioquimica ni coagulación. Colesterol sèrum * 148 mg/dL 150 - 220
+HDL colesterol sèrum 48.0 mg/dL 35.0 - 85.0
+LDL colesterol sèrum (Friedewald) * 75.4 mg/dL 80.0 - 160.0 Triglicèridsèrum 123 mg/dL 50 - 200
+
+-	TC craneal: Estructuras de la línea media centradas. Sistema ventricular simétrico de tamaño y morfología normal. Surcos corticales, cisternas peritronculares y de la base craneal sin alteraciones. Hipodensidades en centros semiovales posteriores sugestivos de lesiones hipóxico isquémicas crónicas. No se observan signos de sangrado intra ni extra-axial.
+CONCLUSIÓN: Exploración sin hallazgos de patología intracraneal aguda.
+
+-	Dúplex TSA: S'han explorat tots dos eixos carotidis i el trajecte extracranial de totes dues arèries vertebrals. Només descata la presència de petites plaques en totes dues bifurcacions sense repercusió hemodinàmica.
+-	Dúplex TC: S'obtenen fluxes ortodròmmics amb velocitats dins el marge de la normalitat tant en territori anterior com posterior.
+
+-	ECOC TT:
+VI no dilatado, ni hipertrofiado, con función sistólica normal. Hipocinesia inferior e inferolateral basal y media
+Disfunción diastólica (patrón de mala relajación). AI ligeramente dilatada.
+Insuficiencia mitral grado II/IV funcional. Hipertensión pulmonar ligera.
+Dilatación de raíz aórtica (41mm), porción tubular de aorta ascendente (48mm) y arco aórtico (37mm).
+
+MONITOR  CARDIACA  (>72h):  No  alarmas  se  han  detectado  arritmias  potencialmente  embolígenas  en  la monitorización ECG.
+
+RMN CRANIAL-ANGIO RM CEREBRAL: PEND informe definitiu en el moment d el'alta.
+
+Informe d'alta d'hospitalització
+
+
+
+EVOLUCIÓ CLÍNICA
+Recuperació complerta de la monoparesia C D a las 24h, assimptomàtic a l'alta, NIHSS alta 0, mRS alta 0. L'estudii diagnòstic posa de manifest ictus isquèmics aguts en territori carotidi esq amb patró embòlic. Es valora finalment com a ictus isquemics puntiformes aguts d'etiologia indeterminada (ESUS) amb sospita de cardiopatia embolígena no demostrada, donada l'absència de patologia arterial de TSA extra ni intracranial tant per Doppler com per angioRM, junt al patró embòlic dels ictus aguts i els antecedents de cardiopatia isquèmica amb dilatació AE a l'ECOCARDIO TT. Es recomana continuar l'estudi cardiològic de possible AcxFA paroxística no demostrada pel moment, mitjançant el seu cardiòleg habitual. Es decideix canvi de tractament antiagregant com a tractament antitrombòtic fins a completar estudi diagnòstic.
+
+DIAGNÒSTICS
+ICTUS ISQUÈMICS PUNTIFORMES AGUTS EMBÒLICS DE CAUSA INDETERMINADA (ESUS)
+
+
+PROCEDIMENTS
+88.71 Ultrasò diagnòstic de cap i coll. Determinació desviació de la línia mediana cerebral,ecoencefalografia
+88.91 Imatge per ressonància magnètica de cervell i tronc cerebral
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+CLOPIDOGREL 75 mg comp ESMORZAR ORAL RANITIDINA 150 MG/ 12 HORES, ORAL RETIRARA ADIRO
+RESTA MEDICAICÓ DOMICILIARIA SENSE CANVIS
+
+CONTROL
+CCEE NEUROLOGIA CARDIOLEG HABITUAL
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+15.11.2017
+Pàgina 1 de 3

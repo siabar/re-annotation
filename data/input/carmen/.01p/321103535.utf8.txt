@@ -1,0 +1,120 @@
+IC DE MEDICINA I DERMATOLOGIA MEDICINA INTERNA
+_NAME_	NHC: _ID_
+
+
+Sexo/Sexe: Fem.	Fecha nac./Data naix.: _DATE_	Edad/Edat: 91 años Dirección/Adreça: _LOCATION_	CP: _LOCATION_
+Municip. (Prov.): _LOCATION_  ABS:_SS_		Tel.:_CONTACT_ As.: _NAME_	CIP: _ID_
+Nº epis.: _ID_	Tipo/Tipus: HOSPIT.	Ingres.: 02.01.2017 Serv: MEDICINA INTERNA	UO Enf.: G111 SALA G DE MED. INT.	Hora: 18:58:40 Facult. de ref.: _NAME_
+
+
+
+
+Tipo ingreso/Tipus ingrés: Urgent	Motivo/Motiu alta: Dom. Familiar
+Diag.:
+ACCIDENTE ISQUEMICO TRANSITORIO. () INFECCION RESPIRATORIA. ()
+INSUFICIENCIA RENAL CRONICA REAGUDIZADA. () LINFANGIOLEIOMIOMATOSIS PULMONAR ()
+Proc.:
+RX DE TORAX () ANALITICA SANGUINEA ()
+
+
+
+
+INFORME CLÍNICO ALTA / INFORME CLÍNIC ALTA
+
+Motivo de consulta / Motiu de consulta
+Afasia
+
+Antecedentes e historia previa / Antecedents i història prèvia
+Antecedentes personales: No alergias medicamentosas conocidas (alérgica al excipiente presente enel Bronsal). Independiente para las ABVD hasta Diciembre/2015 por dorsalgia secundaria a aplastamiento vertebral. Desd e entonces, parcialmente dependiente para ABVD. Vive con su hermana.
+*	ANTECEDENTES PERSONALES:
+1.- HTA de larga evolución con buen control tens ional en tto. médico conun fármaco. 2.- Hipercolesterolemia en tto. diet ético.
+3.- Hiperuricemia asintomática.
+4.- Extrasistolia supraventricular estudiada por cardiólogo habitual. Holter 24h (abril/2015): ritmo sinusal, BAV 1º GRADO alterno con TAQUICARDIA AURICULAR. Tratamiento con Flecainida si palpitaciones o TQSV muy frecuente (no la ha tomado nunca).
+5 .- 2 episodios de AIT, consistentes en Parestesias  en miembros  superiore s y afasia. En tto.  con Clopidogrel.
+6.-  Linfangioleiomiomatosis  diagnosticada  como  hallazgo  incidental  en  TAC.  Asintomática,  sin  tto. Seguimien to en nuestro centro.
+7.- Aplastamiento vertebral D12 desde diciembre/20 16. Difícil control analgésico. 8.- Insuficiencia venosa MMII. Safenectomía parcial MID, safenectomía total MII.
+*	TRATAMIENTO HABITUAL (actualizado 02/01/2017): - Hidroclortiazida + amiloride 1 comp/día - Clopidogrel 75 mg/día - Diazepam 5 mg/día - Condrosan 400 mg/día.
+
+Proceso actual / Procés actual
+Mujer de 91 años que acude a Urgencias por episodio de afasia motora y paresia faciobraquial derecha de
+
+
+
+
+
+inicio brusco a las 16h, de 30 minutos de duración aproximadamente. Se acompaña de episodio presincopal y palpitaciones. El episodio se ha resuelto espontáneamente, con ligera disartria residual que en Urgencias la paciente ya no presenta.
+Además, a su llegada a Urgencias la paciente presenta febrícula de hasta 37.9ºC, sin sintomatología infecciosa asociada.
+
+Exploración física / Exploració física
+02/01/2017-19:00:00: FiO2 (%) 28, PAS (mm Hg) 94, PAD (mm Hg) 55, Pulsio ximetría (%) 95, Tª axilar (ºC) 36.1.
+Paciente con buen estado general. Normocoloreada y normohidratada.
+-	CARD: tonos cardiacos rítmicos, taquicárdicos, sin soplos audibles. No edemas en MMII. No signos de TVP. Pulsos periféricos presentes y simétricos.
+-	RESP: hipofonesis generalizada, con crepitantes bibasales.
+-	ABD: peristaltismo presente. Abdomen blando y depresible, no doloroso a la palpación. No signos de peritonismo.
+-	NRL: consciente y orientada en las tres esferas. A su llegada a Urgencias, no focalidad neurológica. PPCC sin alteraciones. Fuerza y sensibilidad conservadas en los cuatro miembros.
+
+
+EXPLORACIÓN EN SALA DE MEDICINA:
+
+Regular estado general, colaboradora, normocoloreada y normohidratada. Consciente y desorientada. Habla difícil de comprender pero responde a órdenes simples.
+** Cardiocirculatorio: Tonos cardiacos rítmicos, sin presencia de soplos o roce. Pulsos presentes y simétricos. No ingurgitación yugular ni reflujo hepatoyugular.
+** Respiratorio: Crepitantes bibasales y signos de broncoespasmo.
+** Digestivo: Abdomen blando y depresible, sin defensa ni signos de irritación peritoneal, sin masas ni organomegalias palpables, ruidos peristálticos presentes, no signos exploratorios de líquido libre abdominal.
+** Neurológico: sin signos de focalidad neurológica ni meningismo, sin asterixis. Fuerza y sensibilidad conservadas y simétricas 5/5. Pares craneales conservados. No signos cerebelosos. No nistagmo patológico. Pupilas isocóricas normorreactivas.
+** Extremidades: sin signos de edema, sin signos flogóticos. Signos de insuficiencia venosa crónica.
+
+Laboratorio / Laboratori
+ANALITICA SANGUINEA:
+Temps de protrombina (seg) : 14.4 seg Temps de protrombina (%) : 67.4 % Recompte de leucòcits : 10.54 10^9/L Recompte plaquetes : 205 10^9/L Concentració d´hemoglobina : 114 g/L Hematòcrit : 0.340 L/L Albúmina : 28 g/L Aspartat aminotransferasa (ASA : 48 U/L Alanin aminotransferasa (ALAT) : 19 U/L Gamma glutamil transpeptidasa : 13 U/L Glucosa : 81 mg/dL BUN : 28 mg/dL Creatinina : 0.99 mg/dL Acid úric :
+12.1	mg/dL Sodi : 147 mEq/L Potasi : 3.1 mEq/L Calci : 8.3 mg/dL Magnesi : 1.5 mg/dL Proteïna C reactiva (PCR) : 4.14 mg/dL pH arterial : 7.566 pCO2 arterial : 45.3 mmHg pO2 arterial : 48.4 mmHg Bicarbonat actual arterial : 40.2 mmol/L Excés de base arterial : 16.20 mmol/L % sat. per Oxígen Hb arterial : 85.8 %
+
+Radiología / Radiologia
+Rx de tórax: Sin infiltrados ni condensaciones. Silueta cardiaca de proporciones conservadas. ECG en RS a 122 lpm, con bloqueo trifascicular.
+
+Evolución / Evolució
+EVOLUCION SALA MDI:
+
+1.	ACCIDENTE ISQUEMICO TRANSITORIO.
+1.	
+
+
+2.	INFECCION RESPIRATORIA.
+3.	INSUFICIENCIA RENAL CRONICA REAGUDIZADA/DISELECTROLITEMIA.
+4.	LINFANGIOLEIOMIOMATOSIS PULMONAR CON INSUFICIENCIA RESPIRATORIA CRONICA SECUNDARIA.
+
+Paciente con los antecedentes descritos que consulta en urgencias por cuadro de inicio agudo caracterizado por afasia motora y paresia facio- braquial derecha que ha durado 30 minutos y se ha autolimitado. Asociado a este cuadro se ha objetivado fiebre de 37.9º C sin un claro foco infeccioso, aunque parece que días previos había presentado tos sin expectoración que ha empeorado durante su estancia en nuestro centro.
+A su ingreso a urgencias hemodinamicamente estable, afebril, somnolienta, pero responde a estímulos cuando se le habla. C/P: isn agregados, ruidos cardiacos ritmicos. Abd: no doloroso. No signos de fallo cardiaco.
+Analítica muestra elevación de PCR 10.52 mg/dL. Creatinina 1.14 mg/dL, FG 42.16 ml/min/, Sodio 150 mEq/L, Potasio 3.4 mEq/L, Osmolalitat 305 mOsm/kg. Perfil hepático sin alteraciones. Leucocitos 9.76 10^9/L, Hemoglobina 128 g/L, Hto 0.380 L/L, Plaquetas 253 10^9/L. Temps de protrombina (%) 86.2%. INR 1.07.
+Sedimento de orina no patológico. Rx de tórax: Sin infiltrados ni condensaciones. Silueta cardiaca de proporciones conservadas. Electrocardiograma en ritmo a 122 lpm, con bloqueo trifascicular.
+Se orienta el cuadro como AIT en contexto de infección respiratoria. Actualmente se encuentra sin focalidad neurológica. Se modifica tratamiento antibiótico a levofloxacino. Se mantiene suero glucosado para el tratamiento de la hipernatremia e ingresa en Medicina para control.
+A su ingreso a sala paciente hemodinámicamente estable, afebril. con adecuada evolucion clinica dada por mejoria de sintomas motores y de lenguaje, afebril, adecuada tolerancia a las ingestas. Analitica con mejoria de filtrado glomerular sin aumento de reactantes.POr persistencia de saturaciones bajas sin oxigenoterapia, se realizxa gasometria con PO2: 48 sin hipercapnia ni acidosis. Se solicita oxigeno domiciliario.
+Por adecuada evolucion clinica y analitica, se decide dar de alta con tratamiento medico y seguimiento ambulatorio habitual.
+
+Plan terapéutico / Pla terapèutic
+Fentanilo matrix sandoz 50mcg/hora 8,4 mg 5 parches transdermicos efg. 8 ,4 MG. Vía transdermica. Cada 72 horas.
+Omeprazol cinfa 20 mg capsulas duras gastrorresistentes efg , 28 cápsul as. 20 MG. Vía oral. Cada 24 horas. Plavix 75 mg comprimidos recubiertos con pelicula, 28 comprimidos. 75 MG . Vía oral. Cada 24 horas.
+Amlodipino qualigen 5 mg comprimidos efg, 30 comprimidos. 5 MG. Vía oral . Una vez al día, en el desayuno.
+Prednisona pensa 10 mg comprimidos, 30 comprimidos. 10 MG. Vía oral. Una vez al día, en el desayuno. Pauta descendente.
+Efferalgan 1000 mg, 40 comprimidos efervescentes. 1000 MG. Vía oral. Ca da 8 horas.
+
+Otras recomendaciones / Altres recomanacions
+Recomendaciones generales signos de alarma. Seguimiento habitual.
+
+
+
+Firma/Signatura1: _NAME_		Firma/Signatura2: _NAME_ Categoría: Resident 5	Categoría: Consult. Senior
+Nº Matrícula HCP: _ID_	Nº Matrícula HCP: _ID_ Fecha/Data: 10.01.2017
+Hora: 15:49:56
+
+Docum.: _ID_
+Hist. Clínica: _ID_
+El _SS_ ha incorporado sus datos al Fichero de Pacientes, para tratarlos con fines sanitarios.
+Puede ejercer sus derechos de acceso, rectificación, cancelación y oposición, así como obtener mas información en la Unidad de Atención al Cliente.
+Vers. 00
+Pag. 2 de
+3
+Episod.: _ID_
+_SS_ ha incorporat les seves dades al Fitxer de Pacients, per a tractar-los amb finalitats sanitàries. Pot exercir els seus drets d'accés, rectificació, cancel·lació i oposició, i obtenir més informació a la Unitat d'Atenció al Client.
+_SS_
+_LOCATION_) _LOCATION_) Tel. _CONTACT_ Fax _CONTACT_
+_CONTACT_/

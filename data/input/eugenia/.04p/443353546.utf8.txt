@@ -1,0 +1,58 @@
+1/ 2
+
+Cognoms:  _NAME_	Adreça: _LOCATION_
+Nom:	_NAME_	_LOCATION_
+Edat: 63	Sexe: H	CIP:	_ID_	NIF:	_ID_
+Data naixement:  _DATE_	NHC:	_ID_	NASS:  _ID_
+Telèfon / Mòbil:	_CONTACT_ / -
+
+INFORME D'ASSISTÈNCIA
+
+Metge/essa:	_NAME_	Servei:	Neurologia
+Data ingrés:	10/11/2017	Data Alta: 15/11/2017
+S'informa a:	Metge de família	Núm. llit: _ID_
+
+DIAGNÒSTICS:
+1.	AIT d'etiologia pendent de filiació i localització indeterminada esquerra
+2.	HTA
+
+
+
+Pacient de 63 anys sense hàbits tòxics ni al·lèrgies medicamentoses conegudes.
+
+ANTECEDENTS PATOLÒGICS
+-	HTA de més de 10 anys d'evolució en tractament amb Enalapril.
+-	Intervenció quirúrgica de menisc esquerre al 2009.
+-	En el postoperatori de la intervenció de menisc (2009), presenta TVP i TEP secundari. Va rebre tractament amb Sintrom durant 6 mesos, sense més incidències.
+-	Herniorràfia inguinal.
+
+Tractament habitual: Enalapril 10mg 1/12h.
+Situació social i funcional: casat, amb 3 fills. Viu amb la seva esposa. Laboralment actiu, treballa d'enginyer.
+
+MALALTIA ACTUAL
+El dia 9/11/2017 va a dormir asimptomàtic a les 21:30h. El matí del 10/11/2017 es desperta a les 5:30 amb inestabilitat i lateralització cap a la dreta. Poc després nota que no veu bé en el seu camp visual dret així com parestèsies a braç dret i dificultat per mobilitzar les extremitats dretes. Aquesta simptomatologia s'instaura de forma subaguda, arriba a urgències a les 6.28. Inicialment a urgències presenta milloria, s'activa codi ictus intrahospitalari a les 7.50, sent valorat per Neurologia.
+
+EXPLORACIÓ FÍSICA:
+Conscient i orientat, normohidratat, normocolorit.
+TA a urgències 140/76, afebril. AC: tons rítmics, no bufs. AR: MVC. ABD: tou, depressible, no dolorós a la palpació. NRL: llenguatge normal, parells cranials normals, no dèficits campimètrics per confrontació, no claudicació a extremitats, no s'objectiva hipoestèsia però si que es constata extinció sensitiva dreta i dismetria al dit-nas dret amb ulls tancats. Rots simètrics, RCP flexors. NIHSS 1.
+
+EXPLORACIONS   COMPLEMENTÀRIES:
+ Ana lít ica d 'urgè ncies: hemograma, bioquímica i coagulació sense alteracions significatives.
+ Ana lít ica d 'ingrés : glucosa 118mg/dl, resta d'hemograma i bioquímica sense alteracions significatives. ECG: ritme sinusal a 58x', eix QRS a -30º.
+RX torax: sense alteracions.
+ T AC crania l + ang ioT AC d'urgències (07. 55h): no s'observen lesions hemorràgiques ni isquèmiques agudes, a parènquima. Estudi angiogràfic sense alteracions significatives.
+Ecodoppler TSA: petites plaques llises a bifurcacions carotídies, sense estenosis significatives. DTC: sense alteracions significatives.
+RMN cranial: mínima leucoaraiosi. No s'observen lesions agudes. 2 focus puntiformes de hemosiderina, un frontal subcortical dret i l'altre talàmic dret.
+Ecocardiograma: sense alteracions significatives. ECG-Holter 24h: es realitzarà ambulatòriament.
+
+
+EVOLUCIÓ:
+El pacient ha presentat una evolució favorable, quedant-se asimptomàtic en aproximadament 12 hores, i sense presentar incidències durant l'ingrés (NIHSS 0, Rankin 0). Per tant, s'orienta com un AIT, restant pendent la realització de Holter per completar l'estudi etiològic. Es decideix tractament antiagregant, a més del seu antihipertensiu, i seguiment per part del seu MF.
+Es cita a CCEE de neurologia pel resultat de la prova pendent.
+
+TRACTAMENT:
+-	Tromalyt 300mg 1c/d
+-	Omeprazol 20mg/24h
+-	Enalapril 10mg 1c/12h
+-	
+Signat per _NAME_ núm.col: _ID_ Data/Hora:15-11-2017 11:12

@@ -1,0 +1,31 @@
+T1	SECCION_DIAGNOSTICOS 66 78	Diagnosticos
+T2	SECCION_PROCEDIMIENTOS 183 197	Procedimientos
+T3	SECCION_MOTIVO_DE_INGRESO 315 332	Motivo de ingreso
+T4	SECCION_ANTECEDENTES 491 511	Antecedentes Médicos
+T5	SECCION_TRATAMIENTO_HABITUAL 774 798	Tratamiento domiciliario
+T6	Tratamiento_antiagregante_hab 803 808	Adiro
+T7	SECCION_PROCESO_ACTUAL 828 837	Anamnesis
+T8	SECCION_EXPLORACION_FISICA 1652 1663	Exploración
+T9	NIHSS_previa 2404 2413	NIHSS 4-1
+#9	AnnotatorNotes T9	5
+T10	SECCION_EXPLORACION_FISICA_EN_URGENCIAS 2485 2511	Exploración física en HUSE
+T11	SECCION_EXPLORACIONES_COMPLEMENTARIAS 3284 3318	Resultados pruebas complementarias
+T12	SECCION_EVOLUCION 3860 3882	Evolución Hospitalaria
+T13	SECCION_TRATAMIENTO_Y_RECOMENDACIONES_AL_ALTA 4593 4630	Recomendaciones y tratamiento al alta
+T14	Tratamiento_antiagregante_alta 4671 4682	Clopidogrel
+T15	Tratamiento_antiagregante_alta 4698 4720	Ácido acetilsalicílico
+T16	Fecha_de_alta 15 25	19-11-2018
+#16	AnnotatorNotes T16	2018-11-19
+T17	Ictus_isquemico 124 140	infarto cerebral
+T18	Arteria_afectada 155 157	VB
+T19	Etiologia 167 180	indeterminada
+T20	Fecha_de_ingreso 389 394	16/11
+#20	AnnotatorNotes T20	2018-11-16
+T21	Fecha_inicio_sintomas 841 851	16.11.2018
+#21	AnnotatorNotes T21	2018-11-16
+T22	Fecha_llegada_hospital 841 851	16.11.2018
+#22	AnnotatorNotes T22	2018-11-16
+T23	Hora_inicio_sintomas 924 933	7:30-8:00
+#23	AnnotatorNotes T23	07:30
+T24	Hora_llegada_hospital 2521 2526	14:30
+#24	AnnotatorNotes T24	14:30

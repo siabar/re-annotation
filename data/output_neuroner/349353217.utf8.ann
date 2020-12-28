@@ -1,0 +1,38 @@
+T1	SECCION_DIAGNOSTICOS 352 363	DIAGNÒSTICS
+T2	SECCION_ANTECEDENTES_PATOLOGICOS 651 674	ANTECEDENTS  PATOLÒGICS
+T3	SECCION_SITUACION_FUNCIONAL 1162 1189	Situació social i funcional
+T4	mRankin_previa 1239 1246	m RS= 0
+#4	AnnotatorNotes T4	0
+T5	SECCION_TRATAMIENTO_HABITUAL 1294 1314	Tractament  habitual
+T6	Tratamiento_anticoagulante_hab 1438 1445	sintrom
+T7	SECCION_MOTIVO_DE_INGRESO 1461 1475	MOTIU D'INGRÉS
+T8	SECCION_EXPLORACION_FISICA 2219 2237	EXPLORACIÓ  FÍSICA
+T9	NIHSS_previa 2625 2632	NIHSS 0
+#9	AnnotatorNotes T9	0
+T10	SECCION_EXPLORACIONES_COMPLEMENTARIAS 2801 2831	EXPLORACIONS   COMPLEMENTÀRIES
+T11	SECCION_EVOLUCION 4098 4106	EVOLUCIÓ
+T12	NIHSS_alta 4656 4663	NIHSS 0
+#12	AnnotatorNotes T12	0
+T13	mRankin_alta 4665 4673	rànkin 0
+#13	AnnotatorNotes T13	0
+T14	SECCION_TRATAMIENTO_AL_ALTA 5192 5202	TRACTAMENT
+T15	Tratamiento_antiagregante_alta 5206 5211	Adiro
+T16	Tratamiento_anticoagulante_alta 5377 5384	Sintrom
+T17	Fecha_de_ingreso 269 280	10/03/ 2017
+#17	AnnotatorNotes T17	2017-03-10
+T18	Fecha_de_alta 292 303	16/03/ 2017
+#18	AnnotatorNotes T18	2017-03-16
+T19	Ataque_isquemico_transitorio 368 413	Ictus isquèmic amb simptomatologia reversible
+T20	Arteria_afectada 415 437	territori indeterminat
+T21	Localizacion 415 437	territori indeterminat
+T22	Etiologia 449 463	cardioembòlica
+T23	Fecha_inicio_sintomas 1484 1492	10.03.17
+#23	AnnotatorNotes T23	2017-03-10
+T24	Fecha_llegada_hospital 1484 1492	10.03.17
+#24	AnnotatorNotes T24	2017-03-10
+T25	Hora_inicio_sintomas 1532 1534	09
+#25	AnnotatorNotes T25	09:00
+T26	Hora_llegada_hospital 1821 1823	13
+#26	AnnotatorNotes T26	13:00
+T27	Hora_de_alta 5455 5460	12:34
+#27	AnnotatorNotes T27	12:34

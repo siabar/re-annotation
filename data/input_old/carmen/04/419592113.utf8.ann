@@ -1,0 +1,31 @@
+T1	Fecha_de_ingreso 96 106	17/09/2017
+#1	AnnotatorNotes T1	2017-09-17
+T2	HORA 107 112	20:09
+#2	AnnotatorNotes T2	20:09
+T3	Fecha_de_alta 123 133	20/09/2017
+#3	AnnotatorNotes T3	2017-09-20
+T4	_SUG_Lateralizacion 379 384	dreta
+T5	_SUG_Etiologia 603 611	habitual
+T6	_SUG_Lateralizacion 724 729	dreta
+T7	_SUG_Lateralizacion 1034 1042	esquerre
+T8	_SUG_Lateralizacion 1218 1222	dret
+T9	_SUG_Lateralizacion 1319 1328	bilateral
+T11	TAC_craneal 1633 1643	TC cranial
+T12	_SUG_Localizacion 1791 1796	l'ACI
+T13	Lateralizacion 1797 1805	esquerra
+T14	_SUG_Localizacion 1807 1812	Tronc
+T15	_SUG_Lateralizacion 1853 1861	esquerra
+T16	_SUG_Tratamiento_antiagregante 1947 1955	aspirina
+T17	_SUG_Lateralizacion 2038 2046	esquerre
+T19	Etiologia 2285 2297	indeterminat
+T20	_SUG_Lateralizacion 2866 2870	dret
+T21	SECCION_DESTINO_AL_ALTA 284 303	Destinació a l'alta
+T22	SECCION_ANTECEDENTES 387 398	ANTECEDENTS
+T23	SECCION_PROCESO_ACTUAL 614 629	MALALTIA ACTUAL
+T24	SECCION_EXPLORACION_FISICA 843 860	EXPLORACIO FISICA
+T25	SECCION_EXPLORACIONES_COMPLEMENTARIAS 1331 1353	PROVES COMPLEMENTARIES
+T26	SECCION_EVOLUCION 1864 1872	EVOLUCIO
+T27	SECCION_DIAGNOSTICOS 2249 2260	DIAGNOSTICS
+T10	Ictus_isquemico 2263 2275	AVC isquèmic
+T18	SECCION_TRATAMIENTO_AL_ALTA 2319 2329	TRACTAMENT
+T28	Tratamiento_antiagregante_alta 2332 2340	Tromalyt

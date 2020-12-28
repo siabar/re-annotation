@@ -1,0 +1,73 @@
+HOSPITALIZACIÓN DOMICILIARIA HDOM SALA HOSP. DOMICILIARIA
+_NAME_	NHC: _ID_
+
+
+Sexo/Sexe: Masc.	Fecha nac./Data naix.: _DATE_	Edad/Edat: 64 años Dirección/Adreça: _LOCATION_	CP: _LOCATION_
+Municip. (Prov.): _LOCATION_  ABS:_SS_	Tel.:_CONTACT_
+As.: SERVEI CATALA DE LA SALUT	CIP: _ID_	NASS: _ID_
+Nº epis.: _ID_	Tipo/Tipus: HOSPIT.	Inici.: 21.06.2017 Serv: ATENCIÓ INTEGRADA	UO Enf.: HDOM SALA HOSP. DOMICILIARI Hora: 19:09:09
+Facult. de ref.: _NAME_
+
+
+Proced.: Desconegut	Dest.: Dom. Familiar Fecha/Data: 21.06.2017
+Diag.:
+Proc.:
+
+INFORME ALTA ENFERMERÍA / INFORME ALTA INFERMERIA
+
+Respiración/Respiració: Normal	Vestirse/Vestir-se: Autónomo Alimentación/Alimentació: Come sólo	Elim. Fecal: Continente Movilidad/Mobilitat: Autónomo	Elim. orina: Continente
+Higiene: Autónomo	Nivel cognitivo/Nivell cognitiu: Orientado Piel/Pell: Normal
+
+
+Conclusiones / Conclusions
+Paciente ingresado en sala de cardiovascular el día 11/06 procedente de urgencias por ictus   y derrame pericárdico  La  Unidad  de  Atención  Integrada  evalúa  al  paciente  y  se  incluye  en  el  programa  de Hospitalización a Domicilio el día 21/06/17 con el diagnóstico de control post tapomaniento cardiaco Diagnósticos secundarios: 1. HIPERTENSIÓN ARTERIAL. 2. DISLIPEMIA. 3. ENFERMEDAD CORONARIA GRAVE de
+tronco común y de 3 vasos (DA y Cx proximal y distal) revascularizada el 30/05/17 por triple derivación coronaria a descendente anterior media con arteria mamaria izquierda, a primera marginal y a ramas posterolaterales, ambas con vena safena. 4. REPARACIÓN DE ANILLO MITRAL Y COMISUROPLASTIA POSTERIOR Y ANULOPLASTIA CON BANDA DE COSGROVE (28 mm), realizado en la misma cirugía que (3). 5. ICTUS ISQUÉMICO EN TERRITORIO VÉRTEBRO-BASILAR. Derrame pericardico
+Tratamiento habitual: AAS 100 mg/día, pantoprazol 40 mg/día, carvedilol 6,25 mg /día, metamizol 575 mg sp, paracetamol 1 g sp, atorvastatina 20 mg/día.
+No tiene dificultades para tomar el tratamiento pautado de 4 pastillas. Se identifica al paciente como buen cumplidor según el test de Morisky- Green
+Evaluación del paciente al ingreso en HDOM:
+Se trata de un hombre de 64 años de edad. Sin alergias medicamentosas conocidas. Exfumador de hace 7 años con una dosis acumulada de 35 (paq/año). Ingesta de líquidos de 6 vasos diarios, no sigue ninguna dieta en especial IMC (Índice de masa corporal): 29 (sobrepeso grado II). El paciente no ha caminado desde el último ingreso. Presenta una independencia total para la realización de las actividades básicas de la vida diaria con un índice de Barthel de 100. Vive con su hijo y su nuera, no precisa de soporte externo. El paciente conoce el nombre de su patología crónica y los signos y síntomas de alarma que aparecen cuando ésta empeora y como actuar. En los últimos 12 meses el paciente no ha realizado visitas al Servicio de Urgencias y 2 ingresos hospitalarios y el ultimo 07/06/17 por causa no relacionada El paciente acude a su
+centro  de  Atención  Primaria  cuando  requiere  ser  visitado.  Calidad  de  vida:  no  procede  por  barrera idiomática.
+Intervención durante la HDOM Ha mantenido constantes vitales estables. Afebril durante el ingreso. Al ingreso se observa murmullo vesicular conservado a la auscultación pulmonar. En la auscultación cardíaca se aprecian tonos arrítmicos. Presenta herida  quirúrgica: -Esternotomía con grapas que se retiran el dia 25/06/2017 sin incidencias. No se observan signos de infección, no presenta exudado ni sangrado por ningún punto. (no tumefacción, no enrojecimiento). Se realiza cura diaria con lavado de la zona con agua y jabón (o suero fisiológico), secado de la misma y aplicación de dilución de yodopovidona. Se ha enseñado al paciente y la familia la realización de la cura diaria. La ingesta alimenticia ha sido bien tolerada y cantidad correcta. Realiza dieta según apetencia . Ingesta de líquidos de 1,5-2 litros al día que se mantiene durante el ingreso. Diuresis correcta, orina clara. Ritmo deposicional diario sin ayuda de laxantes. El paciente ha deambulado por el domicilio de forma correcta. Ha presentado dolor durante el ingreso ( EVA al inicio de 2 ) en esternotomía al toser. Ha precisado analgesia ( Paracetamol y Nolotil alternos). Se ha realizado educación terapéutica mediante entrega de material educativo sobre : - Postoperatorio de CCV. - Recomendaciones dietéticas.
+
+Observaciones / Observacions
+Tratamiento Farmacológico:
+-	No olvide tomarse la medicación en las dosis y horarios que le hemos recomendado, aunque se encuentre mejor. No dude en pedir ayuda si tiene dificultades para poder realizar el tratamiento de forma adecuada.
+Tratamiento no farmacológico:
+-No olvide revisar periódicamente el material educativo, especialmente aquellos apartados que hemos trabajado con usted, le pueden ser de gran ayuda.
+-	Usted debe realizar la cura de la herida quirúrgica tal como le hemos enseñado. Es importante mantener la zona limpia y seca, para evitar infecciones. Recomendamos:
+Herida, a partir de la retirada de grapas se recomienda la aplicación de crema hidratante para una correcta cicatrización. Si usted detecta cambios en la herida quirúrgica, como enrojecimiento, hinchazón, supuración, dolor, etc, contacte con el equipo que lo atiende
+
+-	No fume ni beba alcohol ni café. Siga las pautas que le hemos recomendado/no deje el tratamiento (parches). Acuda a su centro de Atención Primaria para el control y seguimiento del tratamiento para dejar de fumar
+-	Aconsejamos una dieta  baja en sal y pobre  en grasas. Debe evitar latas de conserva, embutidos, pastelería, etc.
+-Tome abundantes líquidos. Se recomienda 1.5 litros de agua al día si no está contraindicado.
+-	Camine cada día y vaya aumentando la distancia recorrida según tolerancia.
+-	Debe dormir boca arriba durante los 2 meses después de la intervención.
+-	Debe evitar movimiento bruscos con los brazos.
+-	Recuerde que no puede conducir hasta que su cirujano se lo autorice.
+-Si usted presenta ahogo , palpitaciones, disminución del nivel de conciencia, fiebre y/o empeoramiento de su estado general, acuda al Servicio de Urgencias
+
+
+Seguimiento al alta:
+-	En el momento del alta, recomendamos que usted sea controlado por el equipo de Atención primaria.
+
+-Recuerde que tiene una visita de un SCANNER el dia 05/07/2017 y el 14/07/2017 cita con Cirugía Cardiovascular.
+-Si a pesar del tratamiento pautado y las medidas que le recomendamos, usted no mejora, contacte con el equipo que lo atiende.
+
+Firma/Signatura: _NAME_	Firma/Signatura: _NAME_ Infermer/a	Infermer/a
+Nº Matrícula HCP: _ID_	Nº Matrícula HCP: _ID_
+
+Fecha/Data Informe: 26.06.2017
+Hora Informe: 00:00:00
+
+Docum.: _ID_
+Hist. Clínica: _ID_
+El _SS_ ha incorporado sus datos al Fichero de Pacientes, para tratarlos con fines sanitarios.
+Puede ejercer sus derechos de acceso, rectificación, cancelación y oposición, así como obtener mas información en la Unidad de Atención al Cliente.
+Vers. 00
+Pag. 2 de
+3
+Episod.: _ID_
+_SS_ ha incorporat les seves dades al Fitxer de Pacients, per a tractar-los amb finalitats sanitàries. Pot exercir els seus drets d'accés, rectificació, cancel·lació i oposició, i obtenir més informació a la Unitat d'Atenció al Client.
+_SS_
+_LOCATION_) _LOCATION_) Tel. _CONTACT_ Fax _CONTACT_
+http://_CONTACT_/

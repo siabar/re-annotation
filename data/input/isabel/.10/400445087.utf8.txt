@@ -1,0 +1,174 @@
+_LOCATION_ Tel. _CONTACT_
+_CONTACT_
+Informe Alta Hospitalització
+_NAME_
+HC: _ID_
+
+>
+
+
+Adreça: _LOCATION_	Data naix.: _DATE_ Pob_LOCATION_	Sexe: MASCULI
+Provincia: _LOCATION_	CIP: _ID_
+País: _LOCATION_	NASS: _ID_
+Telèfon: _CONTACT_ / _CONTACT_	DNI o Tarja Residència: _ID_
+
+
+Servei: Neurologia	Data ingrés a URG: 03/08/2017 04:09
+Unitat clínica: Neurologia	Data hospitalització: 04/08/2017 17:17
+Tipus d'ingrés: Urgències	Data alta: 18/08/2017 13:13
+Proveïdor de Serveis: Servei Català de la Salut	Destí: 01 - Alta Domicili
+
+
+
+Diagnòstic principal:
+
+434.91 AVC
+etiologia cardioembòlica
+
+Diagnòstics Secundaris:
+
+427.31 ACXFA
+401.9 HTA
+250.00 DIABETIS MELLITUS II
+272.4 DISLIPEMIA
+
+Procediments:
+
+90.59 ANALITICA SANG
+89.50 HOLTER
+88.72 ECOCARDIOGRAMA
+88.91	RMN CEREBRAL
+
+
+
+
+
+Pacient de 83 anys d'edat que ingressa per parèsia mà dreta
+
+Antecedents:
+
+Malalties prèvies:
+
+HIPERTENSIÓ ARTERIAL
+DISLIPÈMIA (Controls ambulatoris. Última analítica 03/2017: TG 232mg/dl, Colesterol total 141mg/dl, HDL 29 i LDL 65. )
+DIABETIS MELLITUS (en tractament amb ADOs. Control 06/2017 amb Hb glicada de 6.6 %. ) CARDIOPATIA ISQUÈMICA (Cardiopatía isquémica en forma d'angor d'esforç
+-	2009: SPECT con ligera-moderada isquemia ántero-apical, no presente en nuevo estudio de 2011. FEVE 55%.
+-	2011: consta ritme ACxFA mentre es realitza SPECT i retorna a RS al finalitzar la prova. Mai descoagulat.
+-	2014: Ingreso 21/02/14 en _SS_ por Angina inestable con realizacio de KT y ACTP sobre CX (OM1) e implantación de stent farmacoactivo.
+*	ECH _SS_: Eje - 10 QRS estrecho T (-) DIII. ST rectificado V6.
+*	KT(feb/2014): TC sin lesiones. DA: Vaso de buen calibre y calcificado. no lesiones significativas. D1, vaso de muy escaso calibre. Presenta lesió proximal de 80%. D2 vaso de poco calibre ocluído
+*	
+
+a nivel ostial. CX, Vaso de aceptable calibre. Placa ostial de 30%. En tercio medio en bifurcación con OM1 presenta lesión severa del 80%. OM1 de poco calibre, ocluida/subocluida entercio proximal. CD domiante, de gran calibre y severamete calcificada. En tercio medio placa no significativa del 40%. Se practica ACTP sobre la CX y se implannta stent farmaco activo Endeavor Resolute 3.0 x 12. Buen resultado y sin complicaciones.
+*	Ecocardio feb/2014: DDVI: 55 mm, GS: 13 mm GPP: 12 mm. AI: 56 mm FE: 56%
+TAPSE: 19 mm. VI con dimensiones en el límite superior de la normalidad, con hipertrófia concé ntrica de grado moderado, sin generar obstrucción en el TSVI. Cotractibilidad global ligeramente redudica (FEVI por Simpsom 4C 45 - 50%) a expensas de hipocinesia inferior medio y septo basal, con resto de segmentos de dinámica aparentemente conservada. Patrón diastólico compatible con alteración de la relajación del VI. AI dilatada (59 x 39 mm). Mi mitral nonrmal, con insuficiencia ligera prorosistólica. Raíz aórtica y Ao ascendente ligeramente dilatadas (41 y 38mm). V. Aórtica trivalva, fxn normal. VD no dilatado. Insuf tricuspídea liegra que permite no estimar PAPs, sin embargo el TA. Pulmonar se encuetra dentr de los límites de la normalidad lo que permite descartar un incremento de las RVP. VCI no dilatada. Ausencia de derrame pericardico.
+)
+EPOC (Silicosis)
+HBP SENSE OBSTRUCCIO HIPOTIROIDISME
+ANEMIA (Consta anèmia d'anys d'evolució. Ha realitzat tractament amb ferro vo. SOF +
+Es va realitzar Colonoscòpia 7/2017: es realitza polipectomia. Pendent realitzar nova colonoscò pia en 3-6 mesos. .
+
+Al·lèrgies:
+
+PENICILINA.
+
+Hàbits tòxics:
+
+Hábito tabáquico inactivo .
+
+Medicació prèvia:
+
+glimepirida 2 mg /8h, Alopurinol 300mg/24h, Tamsulosina 0,4 mg/24h, Tesavel 100mg/24h, Plusvent inhalador, Metformina 850 mg 1-1-10, AAS 100 mg/24h, Eutirox 50 mcg/24h, Omeprazol 20 mg/24h,
+Acovil 10 mg/24h, Singulair 10 mg/24h, Atorvastatina 40 mg/24h, Bisoprolol 5 mg 1,5 cp/24h, Ferogradumet /24h
+
+Situació funcional:
+
+Situació mental: IABVD, funciones superiores conservadas
+Situació física: Dependencia leve
+
+Història Actual:
+
+Pacient de 83 anys amb FFSS conservades i autònom per a les ABVD. Deambulació limitada per coxalgia. Viu amb la seva dona i dos fills. Ha treballat en una mina de carbó. Al·lèrgia a la penicil·lina.
+Ex-fumador, deixant de fumar als 25 anys. No consumidor habitual d'enol. Hipertens, dislipèmic i diabètic no insulinodepenent com a FdRCV. Antecedents de cardiopatia isquèmica amb AEC de dos vasos portador d'un stent farmacoactiu, ritme auricular multifocal, silicosis pulmonar, hipotiroïdisme en
+
+
+tractament substitutiu i hiperplàsia benigna de pròstata. IQ: hèrnia inguinal esquerra, pròtesi maluc esquerra.
+
+El dia 3/8 acut a urgències per clínica del despertar de confusió i desorientació, dificultat per a la coordinació del moviment impossibilitant la deambulació i mà dreta maldestre. No febre, no transgressió medicamentosa, no episodis previs similars. Refereix anar a dormir asimptomàtic a les 22.30 h hi aixecar-se a les 04.00 h amb la clínica descrita prèviament. A la seva arribada a UCIES no s'activa codi ictus per clínica del despertar.
+
+Exploració física:
+
+AR: Murmuri vesicular conservat. MVC.
+AC: Tons rítmics, sense bufs ni frecs. No edemes en EEII. Polsos perifèrics presents i simètrics. ABD: tou i depresible, no dolorós a la palpació. No signes d'irritació ni peritonisme. No masses ni visceromegàlies.
+NRL: Conscient i orientat en temps, espai i persona. Llenguatge sense afàsia ni disàrtria. No anosognòsia ni asomatognòsia. Quadrantanòpsia inferior esquerra amb extinció visual en la campimetria per confrontació. Motilitat ocular externa normal, resta de parells cranials conservats. Parèsia de la mà dreta (4-/5) amb Miller-Fisher. RMTS simètrics (2/4). RCP en flexió bilateral. No dèficits sensitius. No dismetries. Marxa no explorada.
+
+Resum proves complementàries:
+
+Laboratori:
+
+-	Analítica 8/8/17: Leucòcits *13.26 x 10^9/L (N 61 %, L 24.9 %), Hematies *3.76 x 10^12/L, Hemoglobina
+*97 g/L, Hematòcrit *0.3 L/L, VCM *78.7 fL, HbCM *25.8 pg, CHCM 328 g/L, Índex dispersió hematies *17
+%, Plaquetes 350 x 10^9/L, Volum plaquetar mig *13.2 fL, Índex dispersió de plaquetes *17.8 fL, Plaquetò crit *0.046 L/L, Reticulòcits (%) 1.4 %, Reticulòcits 52.6 x 10^9/L, Conc. Hb reticulocitària 33.1 pg, Àcid fò lic sèric 11.5 ng/mL, Vitamina B12 582 pg/mL, Ferro *15 µg/dL, Ferritina 101 ng/mL, Transferrina 220 mg/dL, IST *4.9 %, Glucosa *210 mg/dL, Urea 43.3 mg/dL, Creatinina 1.18 mg/dL, Sodi 136 mEq/L, Potassi 4.9 mEq/L, Àcid úric 3.6 mg/dL, AST 13 U/L, ALT 11 U/L, FA 84 U/L, GGT 34 U/L, Bilirubina total 1 mg/dL, Proteïnes totals 69 g/L, Albúmina sérica 37.3 g/L, Colesterol total *115 mg/dL (HDL 37.4 mg/dL, LDL 52 mg/dL), Triglicèrids 126 mg/dL, PCR *9.65 mg/dL, TSH 2.72 µU/mL, Hemoglobina glicada *6.5 %
+-	EAB (3/8/17): pH 7.38 pH, Pressió parcial CO2 43 mm Hg, Bicarbonat actual 24.8 mmol/L, CO2 total
+26.1 mmol/L, Exces de base 0.2 mmol/L,
+-	Orina: concentració sodi orina 119 mEq/L, Concentració potassi orina 34 mEq/L
+
+Imatge:
+
+-	Rx tòrax: poc inspirada, cardiomegàlica, mediastí eixamplat, canvis crònics en parènquima.
+-TAC cranial + angioTAC + TAC perfusió: Sin lesiones hemorrágicas intracraneales. No se observan signos de lesiones isquémicas agudas/hiperagudas en TC simple (ASPECTS 10). Infartos lacunares cró nicos ganglio-capsulares y en el centro semioval derechos.
+Arterias carótidas, ACMs, ACAs, ACPs, vertebrales y la basilar permeables, sin imágenes de oclusión. Dudosa y pequeña área de infarto isquémico establecido, de topografía postcentral izquierda; sin imá genes de mismatch. Signos difusos de atrofia cerebral y leucoencefalopatía hipóxica.
+-	RM Cerebral: Petits infarts isquèmics aguts occipital paramedial dret i frontals posteriors esquerres. Infarts isquèmics focals crònics cerebel·losos bilaterals i a centre semioval-corona radiata drets.Signes d'atròfia cerebral i marcada leucoencefalopatia hipòxica.
+-	TC tòrax: Aorta de mida i morfologia normal per la edat del pacient.Dilatació i elongació del tronc supaaò
+-	
+
+rtic innominat de 16 mm No s'aprecien adenopaties mediastíniques de mida significativa, adenopaties hilars bilaterals i periesofàgiques calcificades. Diltació del tronc de la pulmonar de 40 mm, augment de mida d'aurícula esquerre. Extenses calcificacions coronàries. Discretes calcificacions valvulars aòrtiques. Parènquima pulmonar, discrets canvis crònics a les bases i al LSD. Espais pleurals normals. Hernia de hiatus. Als talls abdominals realitzats, granulomes calcificats hepàtics, petita melsa accesòria. Mesures aò rtiques: Aorta ascendent 41 mm; Crossa 30 mm; Aorta descendent 30 mm; Unió sinotubular 32 mm; Àrea sinusal: 42 mm. Conclusió: Aorta de mida i morfologia normal per la edat del pacient. Diltació del tronc de la pulmonar de 40 mm, augment de mida d'aurícula esquerre.
+
+Altres proves:
+
+-	ECG ingrés: arítmia sinusal a 85 bpm amb Extrasístoles SV. Eix 0º. PR 0.20 msg. QRS estret. No alteracions en la repolarització.
+-	ECG 9/8: ACxFA 72x'
+-	Ecocardiograma: Hipertensió pulmonar important sense repercussió funcional sobre el ventricle dret. Aur ícula esquerre moderadament dilatada amb signes indirectes d'augment de pressió de ompliment.
+Aterosclerosis aòrtica. Absència de CIA o foramen oval permeable. Insuficiència mitral grau II. Insuficiè ncia tricuspidia grau II.
+-	Holter: ritme sinusal normofreqüent a l'inici del registre amb aparició d'ACxFA des de les 4 del matí fins a la retirada de Holter. L'acxfa no presenta pauses significatives, amb fvm 80-90 bpm.
+
+Evolució i comentaris:
+
+Pacient de 83 anys amb FRCV (HTA, DL, DM) i FFSS conservades, que ingressa per clínica de parèsia de la mà dreta i quadrantanòpsia inferior esquerra. Es realitza RM de crani que confirma petits infarts isqu èmics aguts occipital paramedial dret i frontals posteriors esquerres.
+Es completa estudi cardiològic amb ecocardiograma que mostra aurícula esquerra moderadament dilatada i Holter que registre ACxFA normofreqüent. L'estudi vascular normal.
+A nivell analític té un perfil lipídic correcte i una Hb glicada de 6.5%.
+
+Com a altres problemes durant l'ingrés s'ha realitzat estudi analític d'anèmia, que mostra una ferropènia severa pel que s'ha administrat 3 dosis de ferro endovenós. Es troba pendent d'una segona colonoscòpia de control en 3-6 mesos. Caldria fent controls pel seu metge d'atenció primària.
+També s'ha completat estudi aòrtic amb TC tòrax ja que en ecocardiograma es mostrava una dilatació suggestiva d'aneurisma que no s'ha confirmat finalment en el TC, sí una dilatació de l'artèria pulmonar i aurícula esquerra sense transcendència actual.
+
+En resum, presenta ictus territori ACM esquerra i ACP dret d'etiologia cardioembòlica en context d'ACxFA. Es decideix iniciar anticoagulació amb Eliquis (apixaban) 5mg/12h vo.
+
+Seguir controls pel seu metge d'atenció primària.
+
+Tractament:
+
+Fàrmacs:
+
+Iniciar tractament amb:
+-	Eliquis 5mg/12h
+
+Mantenir tractament amb:
+-	Omeprazol 20 mg/24h
+-	
+
+-	Acovil 10 mg/24h,
+-	Bisoprolol 5 mg 1,5 cp/24h
+-	Atorvastatina 40 mg/24h,
+-	Glimepirida 2 mg /8h,
+-	Tesavel 100mg/24h,
+-	Metformina 850 mg 1-0-1
+-	Alopurinol 300mg/24h,
+-	Tamsulosina 0,4 mg/24h,
+-	Plusvent inhalador,
+-	Singulair 10 mg/24h
+-	Eutirox 50 mcg/24h,
+-	Ferogradumet /24h STOP: AAS 100mg/24h.
+_LOCATION_, 18/08/2017
+_NAME_	_NAME_
+(Nº col _ID_)	(Nº col _ID_
+Nom i cognoms metge: _NAME_ (Nº col: _ID_Pàg.: 1/5

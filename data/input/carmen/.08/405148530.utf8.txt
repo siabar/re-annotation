@@ -1,0 +1,62 @@
+1/ 2
+
+Cognoms:  _NAME_	Adreça: _LOCATION_
+Nom:	_NAME_	_LOCATION_
+Edat: 62	Sexe: M	CIP:	_ID_	NIF:	_ID_
+Data naixement:  _DATE_	NHC:	_ID_	NASS:  _ID_
+Telèfon / Mòbil:	_CONTACT_ / _CONTACT_
+
+INFORME D'ASSISTÈNCIA
+
+Metge/essa:	_NAME_	Servei:	Neurologia
+Data ingrés:	23/08/2017	Data Alta: 28/08/2017
+S'informa a:	Metge de família	Núm. llit:   _ID_
+
+DIAGNÒSTICS:
+1.   Ictus isquèmic de territori ACM esquerre, d'etiologia no demostrada, mecanisme embòlic (ESUS).
+
+PROCEDIMENTS:
+1. Fibrinolisi sistèmica amb rtPA ev.
+
+
+
+
+Pacient de 62 anys, sense hàbits tòxics, ni al·lèrgies medicamentoses conegudes.
+
+ANTECEDENTS:
+-	Extirpació de quist ovàric fa anys.
+-	En una revisió laboral, colesterol 214mg/dl, sense necessitat de tractament.
+
+TRACTAMENT ACTUAL: no en realitza
+
+SITUACIÓ SOCIAL I FUNCIONAL:
+Casada, viu amb el seu marit, te dos fills que viuen fora del domicili. Laboralment activa, treballa a la confecció.
+
+MALALTIA ACTUAL:
+El dia 22/08/2017 a les 23:20 hores, presenta al seu domicili de forma sobtada dificultat per parlar, d'aspecte disàrtric, amb asimetria facial. Es portada a urgències amb vehicle particular, arriba a les 20:50, s'activa Codi Ictus i és valorat per neuròleg a traves del sistema Teleictus.
+
+EXPLORACIÓ FÍSICA:
+TA 169/94, FC 109x', afebril, BMT 120 mg/dl. Conscient i orientada, NH, NC. AC: tons rítmics, no bufs, AR: MVC. Neurològic: mirada centrada, pupiles isocòniques i reactives, parèsia facial central dreta, resta de parells cranials normals. Disàrtria moderada-severa, sense afàsia. No dèficits campimètrics per confrontació. Força a extremitats i sensibilitat normals, no dismetries, Marxa normal. RCP flexors.
+NIHSS 0-0-0-0-0/ 2-0-0-0-0/ 0-0-0-2-0 = 4.
+
+EXPLORACIONS   COMPLEMENTARIES:
+Analítica de urgències: glucosa 144 mg/dl, resta de hemograma,bioquímica i coagulació sense alteracions significatives.
+ Ana lít ica d 'ingrés: triglicèrids 206mg/dl, resta sense alteracions significatives. ECG ritme sinusal 100x',
+TAC cranial d'urgè ncies (00:16h) no s'observen signes d'hemorràgies ni isquèmia agudes,
+AngioT AC d'urgènc ies (00:23h): eixos carotidis permeables, sense estenosi. Polígon de Willis de distribució normal, sense observar-se oclusió de gran vas.
+TAC cranial 24 post-rtPA: no s'observen imatges de sagnat ni isquèmia aguda.
+RNM  cranial:  mínima  leucoaraiosi.  S'observen  dos  focus  puntiformes  d'isquèmia  aguda,  de  localització temporal esquerre, territori cortical d'ACM.
+
+Ecodoppler TSA: bucle a l'inici de caròtide interna dreta, sense repercussió hemodinàmica. No s'observen plaques ni alteracions significatives.
+DTC: sense alteracions significatives Ecocardiograma: sense alteracions significatives.
+ECG holter 24h: ritme sinusal a FC 47-102 x'. ESV molt ocasional.
+
+EVOLUCIÓ:
+La pacient arriba a urgències amb semiologia d'ictus isquèmic agut, pel que s'activa Codi Ictus intrahospitalari, contactant amb el neuròleg teleictus. No reunint cap contraindicació, s'indica tractament fibrinolític ev, bolus a les 00:56h. Al final de la perfusió la pacient presenta una NIHSS de 2, a expenses d'una lleu asimetria facial i disàrtria molt millorada. A les 12h la parla és normal (NIHSS 1), i es queda asimptomàtica i amb exploració normal poc després de 24 hores. A la resta de l'ingrés s'ha mantingut asimptomàtica, sense presentar incidències, mantenint una exploració normal a l'alta (NIHSS 0 Rankin 0).
+Des de el punt de vista etiològic, es tracta d'un ictus isquèmic de localització cortical, sense que s'hagi pogut demostrar-ne la causa.  Per aquest motiu es decideix aprofundir a l'estudi etiològic, sol·licitant-se ecocardiograma transesofàgic i analítica amb estudi de trombofília. S'inicia tractament antiagregant. Es dóna d'alta a domicili i es cita a CCEE de Neurologia.
+
+TRACTAMENT:
+-	Tromalyt 300 mg, 1 al dia.
+-	Omeprazol 20 mg, 1 al dia.
+-	
+Signat per _NAME_ núm.col: _ID_ Data/Hora:28-08-2017 11:48

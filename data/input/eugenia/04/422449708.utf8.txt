@@ -1,0 +1,144 @@
+Pàgina 1 de 3
+
+Pàgina 2 de 3
+Informe d'Alta de Área de Crítics (UCIM)Atès per :
+Dr /Dra:	_NAME_
+Atès per (Metge Resident):
+Dr /Dra:	_NAME_
+Destinació: _SS_
+Estada UCIM: 1 dies
+Data d'alta UCIM: 22.09.2017 16:13
+Tipo d'admissió: Urgent
+Data d'ingrés UCIM: 21.09.2017 12:25
+Data d'ingrés hospital: 21.09.2017 11:10
+Procedència: _SS_
+Adreça: _LOCATION_
+Telèfon: _CONTACT_
+Informe d'Alta de Área de Crítics (UCIM)
+
+_NAME_
+Llit: _ID_	
+Data de naixement: _DATE_ Nº Episodi: _ID_	Edat: 81 anys
+Nº Història Clínica: _ID_	Sexe: M
+DNI: _ID_
+
+
+
+
+
+Pes	70,0 kg
+actual
+PAs NI   179 mmHg
+PAd NI   108 mmHg
+72 /min
+97 %
+Freqüència Cardíaca
+SpO2
+CONSTANTS A L´INGRÉS	21.09.2017
+
+
+MOTIU D'INGRÉS I EVOLUCIÓ CLÍNICA
+APACHE II:29	SAPS 2:39
+
+
+MOTIU D'INGRÉS:
+Pacient home de 81 anys que ingressa a UCIm per AVC hemorràgic ICH: 3
+
+
+ANTECEDENTS:
+-	No al·lèrgies medicamentoses conegudes.
+-	Hipertensió arterial
+-	Fibrilació auricaular paroxística antiagregada
+-	En estudi de demència possiblement d'orígen vascular.
+-	Antecedent de neoplasia de colon.
+
+
+MEDICACIÓ HABITUAL:
+AAS 100mg/dia, Carvedilol 6.25mg/dia, Enalapril 20mg/dia, Omeprazol 20mg/dia, Simvastatina 10mg/dia, Omeprazol 1g/8h, Dutasterida 0.5mg/dia, Tamsolusina 0.4mg/dia.
+
+MALALTIA ACTUAL:
+Pacient que estant prèviament assimptomàtic presenta mentres esmorazava aproximadament a les 7:15h quadre sobtat d'hemiparèsia esquerre pel que s'avisa al SEM i es trasllada al _SS_ com a codi ICTUS, a l'hospital per falta de disponobilitat de TC es deriva al nostre centre. A l'arribada en GCS 14, hipertens requerint de bolus d'urapidil, persistint al focalitat neurològica es realitza TC craneal on s'observa extensa hemorràgia aguda intraparenrquimatosa talàmica dreta amb drenatge a ventricles. Comentat amb neurocirurgià de guàrdia no es tributari de cirurgia pel que ingressa a UCIm per a control de tensió arterial i possibles complicacions.
+MOTIU D'INGRÉS I EVOLUCIÓ CLÍNICA
+
+
+EXPLORACIÓ FÍSICA:
+-	NRL: GCS14 amb opertura ocular a la veu, obeeix a ordres i nomina el seu nom tot i la disàrtria. Presenta tendència a la mirada a dreta amb limitació de la mirada a la esquerre, hemianòspia per amenaça, disatria severa, hemiplegia esquerre 0/5.
+-	HDCA: hipertensió arterial, tons rítmics.
+-	RESP: eupneic respirant aire ambient, bona mecànica respiratòria, asucultació amb entrada d'aire simètrica sense sorolls patològics.
+-	ABD: tou i depresible indolor a la palpació,
+
+
+EXPLORACIONS COMPLEMENTÀRIES:
+-	ANALÍTICA INGRÉS:
+GSA: pH 7.38; PCO2 47mmHg; Bicarbonat 27mmol/l; EB 1.5; Glucosa 141mg/dL; creatinina 1.07mg/dL; urea 39mg/dL; Na 140mE/L; K 4.5mEq/L; Leucocitos 5390/mL; Hemoglobina 14.9g/dL; Hematocrito 43.5%; Plaquetes 211.000/mcL;
+INR 1.18 ; TTPAr 1.05. ALT 16 U/L; AST 11U/L;
+
+
+-	Rx TÒRAX: cardiomegàlia, ilis prominents amb trama vascular augmentada, sins costofrènics lliures.
+-	ECG: bradicardia sinusal a 43bpm, PR límit 200ms, QRS estret sense alteracions de la repolarització EVOLUCIÓ INICIAL:
+El pacient ingressa amb l'exploració descrita en GCS fluctuant entre 13-14, hipertensió de 200mmHg de sistòlica sense respota a bolus de urapidil ni labetalol pel que s'inicia perfusió de nitroprusiat aconseguint controlar la hipertensió arterial. Es comenta amb neurocirurgià de guàrdia considerant no ser tributari a cirurgia evaquadora ni de drenatge ventricular en cas  de desenvolupar hidrocefàlia, Es comunica la situació a la família que ho comprenen.
+Durant les posteriors 24 hores es manté amb GCS fluctuant entre 13-15 a expenses de ocular de 3 i verbal de 4 amb l'hemiplegia esquerre amb disàrtria severa que dificulta la comunicació. Hipertensió amb necessitat de nitroprusiat tot i haver iniciat la medicació oral amb enalapril, carvedilol i amlodipí. Sense compromís respiratori eupneic amb canules nassals.
+
+Donada la situació clínica sense indicació quirúrgica en cas d'apareixer resagnat o hidrocefàlia es decideix traslladar al seu hospital de referència.
+
+Diagnòstics/tractaments	
+Diagnòstics
+Motiu d'ingrès (APACHE II) (APACHEII)
+Hemorràgia cerebral (HSA/HSD/HIC) no intervinguda a l'ingrés	
+
+
+402	
+
+
+21.09.2017 17:55 -
+Diagnóstic Principal (DCIE9) Hematoma cerebral	
+431/3	
+21.09.2017 17:55 -
+Diagnòstics Secundaris CIE9 (DCIE9) HTA	
+401.9/2	
+21.09.2017 17:56 -
+Fibril.lacio auricular
+Historia personal neoplasi gastro intestinal	427.31/2
+V10.00/2	21.09.2017 17:56 -
+22.09.2017 14:30 -
+Diagnòstics/tractaments
+Tractaments		
+Procediments _SS_ UCI_UCO (Procediments)		
+Tomografia axial computeritzada de cap	RA00203	22.09.2017 14:31 -
+Monitoratge de pressió arterial sistèmica	PD00131	22.09.2017 14:31 -
+sondatge vesical	IQ57.94-1	22.09.2017 14:31 -
+Motiu d'ingrés_SEMICYUC		
+01- Depressió del nivell de consciència i altres trastorns neurològics	1	21.09.2017 17:55 -
+
+
+
+Fàrmacs en curs	
+AMLODIPINA 10 mg comp:	10 mg	OR	/24 hores	Darrera pren:22.09.2017 15:30
+CARVEDILOL 6,25 mg comp:	6,25 mg	OR	/24 hores	Darrera pren:22.09.2017 12:00
+ENALAPRIL 20 mg comp:	20 mg	OR	/12 hores	Darrera pren:22.09.2017 10:00
+PARACETAMOL 1 g/100 ml bossa:	1 g	PERF IV	/8 hores	Darrera pren:22.09.2017 10:00
+OMEPRAZOL 40 mg vial:	40 mg	PERF IV	/24 hores	Darrera pren:22.09.2017 07:00
+Diluir en: 50 ml
+FISIOLOGIC 50 ml vial plastic
+Per a profilaxis, administeu a les 7:00 AM.
+NITROPRUSSIAT 50 mg vial + amp:	50 mg	PERF IV
+CONT
+
+0,50 .. 10,00 µg/kg/min (70 kg)
+
+Darrera pren:22.09.2017 16:06
+Diluir en: 250 ml
+GLUCOSA 5% 250 ml vial vidre	Taxa: 10,5 .. 210 ml/h
+Resposta:
+Infusió
+Canviar la perfusió c/4h PERD EFECTIVITAT!!!! PROTEGIR DE LA LLUM.
+
+Alta Signat Per: Col·legiat Nº:
+
+_NAME_
+
+
+
+
+
+Imprès: 25.09.2017 11:20

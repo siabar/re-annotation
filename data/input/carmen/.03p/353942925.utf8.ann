@@ -1,0 +1,147 @@
+T0	_SUG_Lateralizacion 0 1	I
+T1	FECHA 328 338	19.03.2017
+#1	AnnotatorNotes T1	2017-03-19
+T2	HORA 397 402	00:33
+#2	AnnotatorNotes T2	00:33
+T3	SECCION_TIPO_DE_INGRESO 434 459	Tipo ingreso/Tipus ingrés
+T4	SECCION_DIAGNOSTICOS 501 505	Diag
+T5	_SUG_Ictus_isquemico 508 513	ICTUS
+T6	_SUG_Lateralizacion 535 542	derecha
+T7	SECCION_PROCEDIMIENTOS 546 550	Proc
+T8	_SUG_TAC_craneal 553 555	TC
+T9	_SUG_TAC_craneal 579 589	TC CRANEAL
+T10	_SUG_Trombectomia_mecanica 598 619	TROMBECTOMÍA MECÁNICA
+T11	SECCION_MOTIVO_DE_INGRESO 671 709	Motivo de consulta / Motiu de consulta
+T12	_SUG_Lateralizacion 736 746	izquierdas
+T13	SECCION_ANTECEDENTES 748 810	Antecedentes e historia previa / Antecedents i història prèvia
+T14	_SUG_mRankin 980 984	mRs1
+T15	SECCION_ANTECEDENTES_PATOLOGICOS 988 1008	ANTECEDENTES MÉDICOS
+T16	_SUG_Etiologia 1013 1025	HIPERTENSIÓN
+T17	FECHA 1111 1115	2011
+#17	AnnotatorNotes T17	2011-UNDEF-month-UNDEF-day
+T18	FECHA 1247 1251	2011
+#18	AnnotatorNotes T18	2011-UNDEF-month-UNDEF-day
+T19	_SUG_Localizacion 1309 1320	posteriores
+T20	FECHA 1573 1585	febrero 2017
+#20	AnnotatorNotes T20	2017-02-UNDEF-day
+T21	FECHA 1825 1829	2016
+#21	AnnotatorNotes T21	2016-UNDEF-month-UNDEF-day
+T22	_SUG_Trombolisis_intravenosa 1990 2010	tratamiento con CPAP
+T23	SECCION_TRATAMIENTO_HABITUAL 2084 2103	MEDICACIÓN HABITUAL
+T24	FECHA 2105 2113	Marzo/17
+#24	AnnotatorNotes T24	2017-03-UNDEF-day
+T25	_SUG_Tratamiento_antiagregante 2167 2172	Adiro
+T26	_SUG_Lateralizacion 2260 2261	D
+T27	SECCION_PROCESO_ACTUAL 2265 2295	Proceso actual / Procés actual
+T28	FECHA 2325 2330	18/03
+#28	AnnotatorNotes T28	2017-03-18
+T29	HORA 2341 2343	22
+#29	AnnotatorNotes T29	22:00
+T30	_SUG_Lateralizacion 2385 2395	izquierdas
+T31	_SUG_Ictus_isquemico 2554 2559	ictus
+T32	_SUG_Lateralizacion 2622 2632	izquierdas
+T33	SECCION_PROCESO_ACTUAL 11052 11058	Episod
+T34	_SUG_Lateralizacion 11190 11195	drets
+T35	SECCION_EXPLORACION_FISICA 2661 2699	Exploración física / Exploració física
+T36	FECHA 2700 2710	19/03/2017
+#36	AnnotatorNotes T36	2017-03-19
+T37	HORA 2711 2716	01:00
+#37	AnnotatorNotes T37	01:00
+T38	HORA 2853 2858	06:00
+#38	AnnotatorNotes T38	06:00
+T39	FECHA 2885 2895	20/03/2017
+#39	AnnotatorNotes T39	2017-03-20
+T40	HORA 2896 2901	17:00
+#40	AnnotatorNotes T40	17:00
+T41	_SUG_Lateralizacion 3117 3126	izquierda
+T42	_SUG_Lateralizacion 3169 3179	izquierdas
+T43	_SUG_NIHSS 3198 3206	NIHSS 12
+T44	_SUG_Ictus_isquemico 3220 3225	ICTUS
+T45	_SUG_Lateralizacion 3447 3456	izquierda
+T46	_SUG_NIHSS 3568 3575	NIHSS 1
+T47	_SUG_Hemorragia_cerebral 3679 3688	hematomas
+T48	_SUG_Lateralizacion 3737 3744	derecho
+T49	_SUG_TAC_craneal 4762 4764	TC
+T50	_SUG_TAC_craneal 4779 4781	TC
+T51	_SUG_Localizacion 4945 4955	cerebeloso
+T52	_SUG_ASPECTS 4957 4967	ASPECTS 10
+T53	_SUG_TAC_craneal 4972 4974	TC
+T54	_SUG_Lateralizacion 5053 5060	derecho
+T55	_SUG_Localizacion 5131 5139	temporal
+T56	_SUG_Lateralizacion 5140 5147	derecho
+T57	_SUG_Ictus_isquemico 5178 5194	infarto cerebral
+T58	_SUG_Arteria_afectada 5234 5237	ACM
+T59	_SUG_Lateralizacion 5238 5245	derecha
+T60	_SUG_Arteria_afectada 5337 5339	M1
+T61	_SUG_Arteria_afectada 5353 5356	ACM
+T62	_SUG_Lateralizacion 5357 5358	D
+T63	_SUG_Localizacion 5524 5531	Troncos
+T64	_SUG_Arteria_afectada 5569 5597	Arterias  carótidas  comunes
+T65	_SUG_Lateralizacion 5682 5693	bilaterales
+T66	_SUG_Lateralizacion 5759 5766	derecho
+T67	_SUG_TAC_craneal 5769 5771	TC
+T68	FECHA 5781 5791	21/03/2017
+#68	AnnotatorNotes T68	2017-03-21
+T69	_SUG_Hemorragia_cerebral 5813 5823	hemorragia
+T70	_SUG_Lateralizacion 5857 5864	derecha
+T71	_SUG_Lateralizacion 5894 5901	derecha
+T72	SECCION_EVOLUCION 6049 6069	Evolución / Evolució
+T73	_SUG_Ictus_isquemico 6073 6088	ICTUS ISQUÉMICO
+T74	_SUG_Arteria_afectada 6106 6128	ARTERIA CEREBRAL MEDIA
+T75	_SUG_Lateralizacion 6129 6136	DERECHA
+T76	_SUG_Etiologia 6163 6177	CARDIOEMBÓLICO
+T77	_SUG_Trombolisis_intravenosa 6180 6194	Fibrinolisis y
+T78	_SUG_Trombectomia_mecanica 6195 6216	Trombectomía mecánica
+T79	_SUG_Hemorragia_cerebral 6220 6230	HEMORRAGIA
+T80	_SUG_Lateralizacion 6254 6261	DERECHA
+T81	_SUG_Hemorragia_cerebral 6400 6409	HEMATOMAS
+T82	_SUG_Ictus_isquemico 6539 6544	ictus
+T83	_SUG_Lateralizacion 6570 6577	derecho
+T84	_SUG_Localizacion 6578 6585	parcial
+T85	_SUG_NIHSS 6587 6595	NIHSS 12
+T86	_SUG_TAC_craneal 6788 6798	TC craneal
+T87	_SUG_Ictus_isquemico 6842 6857	ictus isquémico
+T88	_SUG_Arteria_afectada 6908 6910	M1
+T89	_SUG_Trombolisis_intravenosa 7056 7068	fibrinolisis
+T90	_SUG_Trombolisis_intravenosa 7056 7068	fibrinolisis
+T91	_SUG_Localizacion 7079 7088	posterior
+T92	_SUG_Trombectomia_mecanica 7089 7110	trombectomía mecánica
+T93	_SUG_TAC_craneal 7247 7257	TC craneal
+T94	_SUG_Hemorragia_cerebral 7295 7305	hemorragia
+T95	_SUG_Tratamiento_anticoagulante 7359 7367	heparina
+T96	_SUG_Ictus_isquemico 7436 7441	Ictus
+T97	_SUG_Hemorragia_cerebral 7582 7591	hematomas
+T98	_SUG_Lateralizacion 7601 7610	izquierdo
+T99	_SUG_Lateralizacion 7618 7625	derecho
+T100	_SUG_Lateralizacion 7669 7676	derecha
+T101	_SUG_TAC_craneal 7828 7838	TC craneal
+T102	_SUG_Hemorragia_cerebral 7859 7869	hemorragia
+T103	_SUG_Lateralizacion 7893 7900	derecha
+T104	_SUG_Ictus_isquemico 7986 8001	ictus isquémico
+T105	_SUG_Etiologia 8037 8051	cardioembólica
+T106	_SUG_Ictus_isquemico 8057 8083	transformación hemorrágica
+T107	_SUG_Hemorragia_cerebral 8114 8124	hemorragia
+T108	_SUG_Lateralizacion 8148 8155	derecha
+T109	_SUG_Localizacion 8157 8166	posterior
+T110	_SUG_Ictus_isquemico 8233 8238	Ictus
+T111	_SUG_Hemorragia_cerebral 8769 8778	hematomas
+T112	_SUG_Hemorragia_cerebral 8991 9002	hemorrágica
+T113	_SUG_TAC_craneal 9081 9083	TC
+T114	SECCION_EXPLORACION_FISICA_AL_ALTA 9420 9427	Al alta
+T115	_SUG_NIHSS 9429 9437	NIHSS: 0
+T116	_SUG_mRankin 9440 9450	mRankin: 2
+T117	_SUG_Etiologia 9460 9474	cardioembólico
+T118	SECCION_TRATAMIENTO_AL_ALTA 9476 9509	Plan terapéutico / Pla terapèutic
+T119	SECCION_RECOMENDACIONES 10131 10152	Otras recomendaciones
+T120	_SUG_TAC_craneal 10376 10386	TC craneal
+T121	FECHA 10390 10402	5 Abril 2017
+#121	AnnotatorNotes T121	2017-04-05
+T122	HORA 10409 10414	13:20
+#122	AnnotatorNotes T122	13:20
+T123	FECHA 10532 10539	6 Abril
+#123	AnnotatorNotes T123	2017-04-06
+T124	FECHA 10720 10730	27.03.2017
+#124	AnnotatorNotes T124	2017-03-27
+T125	HORA 10745 10750	13:30
+#125	AnnotatorNotes T125	13:30
+T126	_SUG_Lateralizacion 10901 10909	derechos

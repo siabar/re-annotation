@@ -1,0 +1,169 @@
+Fecha de Alta 
+23-08-2018
+
+Diagnosticos 
+17/08/2018 ECVA isquémica: ictus en territorio ACM I de etiología probablemente aterotrombótica.
+17/08/2018 Estenosis severa de ambas ACI en segmento C1.
+Estenosis severa de ACII sintomática revascularizada mediante angioplastia con stent.
+Posible aneurisma de aorta abdominal (detectado durante cateterización de aorta para angioplastia carotídea).
+
+
+Procedimientos 
+
+- Código Ictus.
+- Ingreso en Unidad de Ictus.
+- Angioplastia carotídea izquierda con stent.
+
+Motivo de ingreso
+
+Varón de 72 años que acude por episodio de alteración del lenguaje y debilidad de extremidades derechas (CÓDIGO ICTUS EXTERNO)
+
+
+Alergias
+
+Sin Alergias Conocidas
+
+
+Antecedentes Médicos 
+
+-Ex-fumador (DTA: 40paq/año). 
+-Obesidad.
+-Diabetes mellitus (en tratamiento con metformina).  
+
+Tratamiento domiciliario 
+
+
+
+Metformina.
+
+
+
+
+Anamnesis
+
+
+
+Paciente varón de 65 años traído el 16/08/2018 tras presentar de manera brusca sobre las 11.30h, un cuadro fluctuante de alteración del lenguaje consistente en disminución de fluencia verbal, parafasias y neologismos, disartria moderada y alteración de la comprensión, así como paresia crural derecha leve-moderada.
+
+Inicio de síntomas. 11.30
+Activación Código Ictus: 14.20
+Llegada a Urgencias: 15.00
+Neuroimagen: 15.20
+Ingreso en Unidad de Ictus: 15.40 [1]
+
+
+
+
+Exploración
+
+
+
+Exploración en Urgencias (16/08):
+Exploración sistémica:
+BEG, Normoperfundido
+Obesidad
+Eupneico, no edemas distales, no IY, AC TCR sin soplos, pulsos presentes
+AP MVC sin ruidos patológicos
+ABD Globuloso B Y D no doloroso
+
+Exploración neurológica:
+- Urgencias: Consciente, orientación en las tres esferas, adecuada colaboración. Afasia sensitiva, con comprensión de una única orden sencilla e intoxicación con semicomplejas. Nomina 2/2 objetos. Repetición no alterada. Disartria leve. Pupilas isocóricas normorreactivas. Mirada centrada y conjugada. Oculomotricidad normal. Sin déficits en campimetría por confrontación. No diplopia ni nistagmus. Sin asimetría facial. Leve paresia crural derecha, con leve claudicación pero sin contactar con cama (balance 4/5). Sin déficits en sensibilidad táctil o algésica. No dismetría ni ataxia.
+ESCALA NIH:
+1c. Ordenes LOC:1. Una solo correcta
+6b: Pierna derecha: 1. Claudica pero no toca la cama
+9. Lenguaje:1. Afasia leve o moderada
+10. Disartria:1. Disartria leve-moderada
+PUNTUACION TOTAL NIH:4
+
+Exploración en Unidad de Ictus (16/08):
+- Unidad de Ictus: Consciente, orientación en las tres esferas, adecuada colaboración. Obedece ambas órdenes, mantiene repetición y nominación y comprende dos órdenes, pero se intoxica posteriormente. Pupilas isocóricas normorreactivas. Mirada centrada y conjugada. Oculomotricidad normal. Sin déficits en campimetría por confrontación. No diplopia ni nistagmus. Sin asimetría facial. Balance muscular 5/5 global y simétrico en las cuatro extremidades, sin claudicación en maniobras de Barré y Mingazzini. Sin déficits en sensibilidad táctil o algésica. No dismetría ni ataxia.
+ESCALA NIH: 9. Lenguaje:1. Afasia leve o moderada 
+PUNTUACION TOTAL NIH:1 [2]
+
+
+
+
+Resultados pruebas complementarias 
+
+
+
+- ECG en RS sin alts de la repolarización agudas.
+
+- Laboratorio: hemograma, coagulación y bioquímica dentro de la normalidad.
+
+- Neuroimagen: Hallazgos:  No se observa hemorragia intracraneal.  No se identifican alteraciones significativas en la densidad del parénquima cerebral. Sistema ventricular de tamaño y morfología normal. Línea media centrada. Cisternas supra e infratentoriales conservadas.    En el estudio de perfusión no se identifican alteraciones del MTT, CBF, CBV ni en el T0.  
+En el estudio de AngioTC de TSA se observa:  -TSA permeables con ateromatosis calcificada en cayado.  
+-Eje carotídeo derecho: ACC elongada sin placas ateromatosas ni estenosis. Placas ateromatosas parcialmente calcificadas en bulbo carotídeo con estenosis severa (aprox 90%) en ACI postbifurcación.  Ateromatosis calcificada en segmento C4 de ACI. ACA y ACM permeables.  
+- Eje carotídeo izquierdo: ACC elongada sin placas ateromatosas ni estenosis. Placas ateromatosas parcialmente calcificadas en bulbo carotídeo con estenosis severa (aprox 90%) en ACI postbifurcación.  Ateromatosis calcificada en segmento C4 de ACI. ACA y ACM permeables.  
+- Eje vértebrobasilar: A. vertebrales, basilar y ACP permeables. Ateromatosis calcificada en el origen de la arteria vertebral derecha. Dominancia vertebral izquierda.  
+-Senos venosos durales y venas cerebrales profundas permeables.    
+Conclusión:  No se observan signos de lesión isquémica aguda. Estenosis severa en ambas ACI cervicales postbifuración (segmento C1 proximal). 
+
+- TC cerebro sin contraste urgente del 18-08-2018: *Se compara con TC previo del 16/08/2018. Hallazgos: No se identifican alteraciones significativas en la densidad del parénquima cerebral. No se ve sangrado agudo intracraneal. Sistema ventricular de tamaño y morfología normal. Línea media centrada. Cisternas supra e infratentoriales conservadas. Conclusión: Sin cambios significativos con respecto a TC previo.
+
+- Cerebro y angio RM del 20-08-2018: Campo magnético estático de 1.5 T. Se realizan secuencias SE, FSE, FLAIR y GE-T2*. Estudio de difusión con b value máx de 1.000 s/ mm2. AngioRM 3D TOF sin contraste. Hallazgos: En la cabeza del núcleo caudado izquierdo se observa una lesión milimétrica hiperintensa en T2 y FLAIR y que en el estudio de DWI presenta hiperseñal en b-1000 con hiposeñal en ADC, compatible con restricción de la difusión. Se observan hasta 3 lesiones puntiformes en SB subcortical del hemisferio izquierdo, una frontal y las otras dos en región parietooccipital, que son hiperintensas en T2 con hiperseñal en el estudio de difusión con factor b 1000. Hiperintensidades en T2 con hiposeñal en T1 en región de ganglios basales bilaterales sin astrogliosis asociada, compatible con aumento de tamaño de espacios perivasculares de Virchow-Robin. Se observan lesiones no confluentes en sustancia blanca periventricular y profunda, y alguna aislada en SB subcortical, que son hiperintensas en T2 y FLAIR, inespecíficas, en probable relación con lesiones isquémicas crónicas por microangiopatía. En la secuencia eco de gradiente multieco (MERGE) no se identifican artefactos de susceptibilidad magnéticas que sugiera depósito de sustancias paramagnéticas. En angioRM 3D TOF sin contraste no se identifican oclusiones en arterias principales ni anomalías vasculares asociadas. Dominancia vertebral izquierda (variante de la normalidad). Sistema ventricular de tamaño y morfología normal. Línea media centrada. Cisternas supra e infratentoriales conservadas. Cuerpo calloso y cerebelo de tamaño, morfología y señal normal. Amígdalas cerebelosas por encima de la línea de McRae. Hiperseñal fisiológica de la neurohipófisis en T1. Conclusión: Hallazgos compatibles con lesiones isquémicas de evolución aguda-subaguda en cabeza del caudado izquierdo y en SB subcortical frontal y parieto-occipitales izquierdas sin signos de transformación hemorrágica.
+ 
+- Informe Cirugía Vascular (23/08/2018):  
+Paciente varón de 72 a. que ingresa por alteración del lenguaje y paresia crural D, fluctuante
+Antecedentes Personales
+Ex-fumador 
+Diabetes mellitus
+
+Exploración Física:
+Buen estado general, consciente y orientado. Obesidad
+Neurológico: mímica facial simétrica, no déficit evidente de fuerza o sensibilidad en extremidades.
+TSA: pulsos presentes a todos los niveles, soplo carotídeo bilateral.
+Abdomen: globuloso, B/D, no dolor a la palpación.
+MID: pulso femoral con poplíteo sin distales.   Pie caliente con buen llenado venocapilar.
+MII: pulso femoral con poplíteo y distales pie caliente, con buen llenado venocapilar.
+
+Curvas femorales:
+MID: curvas bifásicas con VPS 70 cm/seg
+MII: curvas bifásicas con VPS 100 cm/seg
+
+Hemodinámica Arterial:
+MID: ITB: 1, PPG: fásica 2 mV
+MII: ITB: 1.2, PPG: fásica 2 mV
+
+Eco-Doppler TSA / AngioTC TSA - bicarotideo
+No se observa hemorragia intracraneal ni alteraciones significativas en la densidad del parénquima cerebral.  Ateromatosis difusa TSA con calcificación asociada; estenosis severa a. carótida interna ambos lados (>90%) con irregularidad de la placa de ateroma
+
+Evolución clínica
+Con el diagnóstico de ictus aCM izqda 2º a estenosis preoclusiva aCII se realiza angioplastia - stent a. carótida I por via femoral D, sin incidencias ni complicaciones de ninguna clase. Durante la navegación - cateterización de la aorta abdominal se observa "comportamiento" anómalo de la guía que sugiere la existencia de aneurisma de aorta abdominal, a determinar mediante estudio apropiado en su hospital de referencia
+
+Tratamiento
+A. plaquetaria según pauta que se adjunta
+Seguimiento MFyC / ACV en su hospital de referencia
+Dr. Carles Corominas Roura
+Angiologia & C. Vascular
+23-08-2018 [3] 
+
+
+
+
+Evolución Hospitalaria 
+
+
+
+El paciente es traído a Urgencias como Código Ictus externo el día 16/08/2018 por la clínica descrita, presentando mejoría sintomática hasta presentar una NIHSS de 1 punto, por lo que se descartó tratamiento de reperfusión y se ingresó en Unidad de Ictus.
+El estudio de TSA mostró enfermedad aterosclerótica grave de ambas carótidas, por lo que se inició antiagregación precoz, atorvastatina a dosis plenas y se realizó IC a ACV para valorar tratamiento de estenosis carotídea sintomática (izquierda). Durante el ingreso ha presentado fluctuaciones de origen presumiblemente hemodinámico, que han mejorado tras la angioplastia carotídea, llevada a cabo el día 22/08/2018, sin incidencias. Tras la intervención ha podido reanudarse la sedestación y la bipedestación con buena tolerancia. Desde el punto de vista clínico ha presentado mejoría, persistiendo una afasia mixta con disminución de la fluencia verbal, bloqueos del lenguaje y alguna parafasia asilada, siendo capaz de nominar, repetir y obedecer de forma correcta órdenes sencillas y semicomplejas, así como una mínima asimetría facial (NIHSS 4/1, 9/1, Total: 2).
+Cabe destacar que durante la cateterización de la aorta se informa de un comportamiento anómalo de la guía a nivel de la aorta abdominal, lo que podría sugerir la presencia de un aneurisma, que deberá estudiarse por ACV en su hospital de referencia (ver IC adjunta de ACV).
+
+
+
+
+Recomendaciones y tratamiento al alta 
+
+-Se recomienda dieta POBRE EN SAL rica en fruta, verdura, pescado azul, condimentada con aceite de oliva. Se desaconseja la ingesta de grasas animales y azúcares refinados.
+-Se recomienda el abandono del hábito tabáquico, NO PERMANECER EN AMBIENTES CARGADOS DE HUMO DE TABACO ASÍ COMO EVITAR LA INGESTA EXCESIVA DE ALCOHOL.
+-Se recomienda realizar ejercicio moderado que tolere.
+-Se aconseja control estricto de factores de riesgo vascular por médico de atención primaria.
+-Se recomienda valoración por Cirugía Vascular y Neurología en su hospital de referencia.
+
+Medicación habitual: 
+           Ácido acetilsalicílico: 100 mg, 1 comp, Oral, Comida.
+           Atorvastatina: 80 mg, Oral, Cena.
+           Clopidogrel: 75 mg, 1 comp, Oral, Comida.
+           Enalapril: 5 mg, Oral, Desayuno y cena.
+           Omeprazol: 20 mg, Oral, A20'-Desayuno.
+           Metformina según pauta previa.

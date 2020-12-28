@@ -1,0 +1,61 @@
+1/ 2
+
+Cognoms:   _NAME_	Adreça:  _LOCATION_
+Nom:	_NAME_	_LOCATION_
+Edat: 75	Sexe:H	CIP:	_ID_	NIF:	_ID_
+Data naixement:   _DATE_	NHC:	_ID_	NASS:    _ID_
+Telèfon / Mòbil:	_CONTACT_
+
+
+INFORME  D'ASSISTÈNCIA
+
+
+Metge/essa:	_NAME_	Servei:	Neurologia
+Data ingrés:	15/11/ 2017	Data Alta: 29/11/ 2017
+S'informa a:	Metge de família	Núm.  llit: _ID_
+DIAGNÒSTICS:
+1.	Ictus isquèmic territori ACM esquerre d'etiologia aterotrombòtica.
+2.	Afàsia + hemiplègia dreta secundària a 1.
+3.	Estenosi intracranial d'ACM esquerra.
+4.	Epidedimitis.
+5.	HTA
+6.	DM 2
+7.	Dislipèmia.
+ 8.   Exitus. 	
+
+Pacient de 75 anys, sense al.lèrgies medicamentoses conegudes ni hàbits tòxics.
+
+ANTECEDENTS  PATOLÒGICS:
+-	HTA d'anys d'evolució, en tractament mèdic.
+-	Diabetis mellitus tipus 2, en tractament amb ADO.
+-	Dislipèmia en tractament amb estatines.
+-	IQ de menisc fa anys.
+
+Tractament habitual (segons recepta electrònica, però compliment molt irregular): Omeprazol 1 comp. al dia. Simvastatina 20 mg, 1 comp. al dia. Metformina 850, 1 comp. cada 12 hores. Januvia 100 mg, 1 comp. al dia. Gliclazida 30 mg, 2 comp. al dia. Inhibace plus 5/12'5, 1 comp. al dia.
+
+Situació social i funcional: viu amb la seva esposa, afecta de Parkinson i parcialment depenent per AVD. Ell és el cuidador de la seva esposa i és autònom per les seves AVD.
+
+MALALTIA ACTUAL:
+El dia 13.11.17 consulta a Urgències per quadre de desorientació de dies  d'evolució,  sobretot nocturna i amb agitació, arribant a Urgències hiperglicèmic i amb crisi hipertensiva. Donat d'alta a domicili, persisteix amb agitació, sense voler prendre's la medicació. El 15.11.17 a les 11 h. acudeix al seu CAP, on s'observa conducta anormal amb asimetria facial i alteració de la parla, pel que s'avisa SEM, qui activa codi ictus amb preavís a les 11:55 h., arribant a Urgències a les 12.03 h. i essent valorat per Neurologia.
+
+EXPLORACIÓ FÍSICA:
+TA 200/90. Glicèmia capil·lar 400 mg/dl, resta de constants normals.
+Conscient, orientació no valorable per trastorn afàsic. Obeeix algunes ordres senzilles però d'altres no les entén, dificultat a l'expressió, que és  poc  fluent o en alguna ocasió inintel·ligible, essent impossible una mínima conversa amb el pacient. Parèsia facial central dreta, no claudicació d'extremitats. Discreta hipoestèsia dreta amb resposta asimètrica a estímul, hemianòpsia dreta. RCP dret amb tendència a la flexió, esq. flexor.
+AC: tons rítmics, no bufs. AR: MVC. Abdomen: anodí. NIHSS: 0-2-0-0-2 / 2-0-0-0-0 / 0-1-2-0-0 = 9.
+
+EXPLORACIONS  COMPLEMENTÀRIES:
+ Anal ític a d'Urgènc ies : glucosa 395 mg/dl, resta de bioquímica, hemograma i coagulació sense alteracions significatives.
+ Anal ític a d'i ngrés : glucosa 200.4 mg/dl, colest. 253.9 mg /dl,  LDL 182,  Hb. glicosilada 11%, resta
+d'hemograma i bioquímica sense alteracions significatives.  ECG: RS a 75x'. BBDFH.
+ TAC c ranial + angioTAC d'Urgènc ies (12.30 h): diverses lesions isquèmiques, alguna d'elles amb aspecte de crònic, però probablement alguna subaguda, distribuïdes pel territori subcortical (una d'elles, la que té més aspecte d'agut, córtico-subcortical) a territori ACM esq. i frontera ACA-ACM. L'estudi angiogràfic mostra signes d'ateromatosi, tant a nivell extracranial com intracranial, a bifurcacions carotídies plaques calcificades que provoquen estenosi aproximada del 30 al 50%. Probable estenosi severa a sifó carotidi dret i aproximada del 50%  a  caròtide  intracranial  esq. Possible defecte de replecció a la unió M1-M2 d'ACM esq., a valorar estenosi a aquest nivell.
+Ecodoppler TSA: plaques d'ateroma predominantment hiperecogèniques, d'aspecte heterogeni i parcialment calcificades a bifurcacions carotídies, sense estenosis significatives.
+DTC: acceleració suggestiva d'estenosi severa (VPS > 400cm/s) a ACM esq, a profunditat 37-40mm, segment M2 (probablement a branca).
+RNM cranial: atròfia global, moderada leucoaraiosi a lesions isquèmiques clíniques de petit vas bilaterals. Extensa lesió isquèmica corticosubcortical a territori d'ACM esquerre, afectant principalment la branca posterior i respectant territori de branques anteriors.
+Ecocardiograma: moderada hipertròfia VE amb FE normal. VD amb contractibilitat lleugerament reduïda.
+Rx de tòrax (29.11.17): no s'observen condensacions, exploració sense alteracions significatives. Ecografia testicular: hidrocele bilateral de predomini esquerre. Engruiximent de l'epidídim esquerre, que s'associa a augment de senyal doppler, troballes en relació a epididimitis esquerre.
+
+EVOLUCIO
+Durant els primers dies, el pacient presenta un empitjorament progressiu  del  dèficit  neurològic malgrat el tractament mèdic i el control hemodinàmic, adquirint semiologia de TACI esquerre, amb afàsia global, hemiplègia, hemihipoestèsia, hemianòpsia dretes, que s'instauren definitivament. S'ha considerat com a opció etiològica més probable l'existència d'una estenosi intracranial, ja present prèviament però aparentment compensada i que, finalment, aquests mecanismes compensatoris han claudicat, instaurant-se el dèficit complet (amb posterioritat un familiar ha comentat que probablement els dies previs havia patit algun dèficit transitori, pel que no havia consultat),.
+Amb posterioritat, el pacient s'ha mantingut estable, amb ingestes escasses i un grau de reactivitat variable amb nul·la col·laboració als intents de logopèdia i rehabilitació. Els dies següents, ha seguit una evolució desfavorable, amb abundants secrecions i empitjorament clínic, adoptant mesures de confort i essent exitus a les 23:10 hores del dia 29.11.17.
+
+Signat per _NAME_ núm.col: _ID_ Data/ Hora:02-03-2018 11:45

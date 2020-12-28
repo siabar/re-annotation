@@ -1,0 +1,108 @@
+I.CLINIC DE NEUROCIÈNCIES NEUROLOGIA
+_NAME_	NHC: _ID_
+
+
+Sexo/Sexe: Fem.	Fecha nac./Data naix.: _DATE_	Edad/Edat: 81 años Dirección/Adreça: _LOCATION_		CP: _LOCATION_
+Municip. (Prov.): _LOCATION_  ABS:_SS_	Tel.:_CONTACT_
+As.: SERVEI CATALA DE LA SALUT	CIP: _ID_	NASS: _ID_
+Nº epis.: _ID_	Tipo/Tipus: HOSPIT.	Inici.: 22.05.2017
+Serv: NEUROLOGIA	UO Enf.: G6B4 SALA G NEUROL. CURT. E Hora: 20:07:45
+Facult. de ref.: _NAME_
+
+
+
+
+Tipo ingreso/Tipus ingrés: Urgent	Motivo/Motiu alta: Defunc.
+Diag.:
+OCLUSION DE ART. CEREBRAL NO ESPECIF. CON INFARTO CEREBRAL (434.91) HIPERTENSIÓN ARTERIAL. ()
+INSUFICIENCIA RANAL CRÓNICA REAGUDIZADA. ()
+Proc.:
+TC CRANEAL MULTIMODAL. () ANALÍTICA SANGUÍNEA ()
+RX TÓRAX () MONITORIZACIÓN () UROCULTIVO ()
+
+
+
+
+INFORME EXITUS
+
+Motivo de consulta / Motiu de consulta
+Alteración del lenguaje de inicio súbito.
+
+Antecedentes e historia previa / Antecedents i història prèvia
+Mujer de 81 años. Sin alergias medicamentosas conocidas. Parcialmente dependiente (mRs 2, no sale de casa por estado anímico, y requiere supervisión, pero es capaz de asearse, comer, limpiar, hacer comida y demabular de manera autónoma).
+
+*ANTECEDENTES PEROSNALES:
+1.	DIABETES MELLITUS TIPUS 2 en tratamiento con ADOs.
+2.	HIPERTENSIÓN ESENCIAL en tratamiento farmacológico.
+3.	DISLIPEMIA en tratamiento farmacológico.
+4.	NEOPLASIA DE COLON. Cirugía el 23/05. Libre de enfermedad.
+5.	INSUFICIENCIA RENAL CRÓNICA con creatininas habituales en torno a 1.4 mg/dL.
+6.	NEUROPATIA PERIFÉRICA estudiada con EMG.
+7.	TRASTORNO DEPRESIVO. INSOMINIO.
+8.	TROMBOEMBOLISMO PULMONAR BILATERAL el 2005 y el 2009. En estudios del 2006 y 2009 presentaba anticuerpos igG anticardiolipina positivos. Inicialmente anticoagulada con sintorm que se cambió a xarelto por efectos secundarios (alopecia).
+
+*MEDICACIÓN HABITUAL: Omeprazol 20mg/24h, Xarelto 20mg/24h, paracetamol 1g/24h, gabapentina 600mg/8h, hidroferol 266mcg/mes, januvia 50mg/24h, metformina 850mg/12h, lisinopril/hidroclorotiazida 20/12,5mg/24h, sertralina 100mg/24h, zolpidem 20mg/24h.
+
+Proceso actual / Procés actual
+En el día de hoy (22/5) acude al CUAP por encontrarse mal, sin saber especificar el por qué. Se evidencia hiperpresión arterial (PAS 200 mmHg) y nerviosismo, pautándose diazepam y captoprilo con mejoría. A las 16h se la encuantran en la cama con somnolencia, precisando de ayuda para la deambulación, sin clara focalidad neurológica. Posteriormente a las 17.15h el hijo la encuentra tirada en el suelo con alteración del lenguaje, desviación de la comisura bucal y debilidad de brazo derecho.
+
+Exploración física / Exploració física
+22/05/2017-23:00:00: PAS (mm Hg) 179, PAD (mm Hg) 68, Pulsioximetría (%) 96, Tª axilar (ºC) 37. 23/05/2017-00:00:00 : Frecuencia respiratoria (r pm) 16. 23/05/2017-01:00:00 : Glicemia capilar (mg/dl) 275.
+NRL: Consciente. Orientación no valorable por mutismo/anartria (obedece órdenes, pero no nomina ni repite). Mirada centrada sin limitaciones en la excursión visual. Paresia facio (central moderada), braquial (3/5) derecha, sin claras alteraciones a nivel crural. Sensibilidad y dismetrías no valorables.
+
+Laboratorio / Laboratori
+*ANALÍTICA SANGUÍNEA: creatinina: 1.1 mg/dL, FG: 44 ml/min. Col: 297, triglicéridos: 234, HDL: 46. HbA1c: 8.5%, Vitamina B12: 179 pg/mL. resto analítica normal.
+
+Radiología / Radiologia
+*TC CEREBRAL BASAL (22/05/2017): Signos de atrofia parenquimatosa de predominio subcortical. Estructuras de la línea media centradas. No se observan signos de hemorragia aguda intracraneal. Sistema ventricular simétrico, de morfología y situación conservados. Cisternas basales libres. Áreas hipodensas en sustancia blanca periventricular e insular y centros semiovales por patología crónica de pequeño vaso. Aisladas imágenes lacunares de aspecto crónico capsuloganglionares bilaterales. Sin pérdida de diferenciación cortico-subcortical que sugieran isquemia aguda (ASPECT 10). Línea media conservada. Cisternas de la base libres. - ANGIO-TC: Defecto de repleción en segmento M2 distal izquierdo. Resto de principales vasos del polígno de Willis permeales. Sistema vertebrobasilar permeable. Ateromatosis calcifcada puntiforme en origen de arteria verterbal izquierda, sin estenosis significativa. Focos puntiformes de ateromatosis calcificada en porción supraclinoidea de ambas carótidas, sin condicionar estenosis significativa. Aislado foco puntiforme de ateromatosis calcificadas en bifurcación carotídea derecha sin estenosis significativa. Bifurcación izquierda sin ateraomatosis evidente. Aórta y segmentos de troncos supra aórticos incluidos en el estudio permeables. Ateromatosis parcialmente calcificada en cayado aórtico. - TC PERFUSIÓN: Se aprecia una zona triangular de retraso en el TTP a nivel frontoparietal izquierdo en territorio superficial de ACMI, sin apreciarse alteraciones significativas en el CBV.
+
+*TC CEREBRAL (23/05/2017): Hipodensidad focal con pérdida de diferenciación corticosubcortical temporal izquierda, en relación a infarto establecido agudo/subagudo del territorio superficial de la ACM izquierda, que se corresponde con el área de retraso del TTP visualizada en el estudio previo. No se observan signos de transformación hemorrágica.
+
+*TC CEREBRAL (25/05/17): hipodensidad en territorio de la arteria  cerebral media izquierda, frontera media/posterior izquierda y frontera media/posterio derecha correspondiente a ictus isquémico consolidado.
+
+*RX DE TÓRAX: sin focos de consolidación evidentes.
+
+Evolución / Evolució
+1.	ICTUS ISQUÉMICOS MÚLTIPLES EN TERRITORIO DE ARTERIA CEREBRAL MEDIA IZQUIERDA,  FRONTERA ARTERIA CEREBRAL MEDIA/POSTERIOR IZQUIERDA Y FRONTERA ARTERIA CEREBRAL MEDIA/POSTERIOR DERECHA.
+1.	
+
+
+2.	CRISIS HIPERTENSIVA.
+A su llegada a urgencias presenta crisis hipertensiva (PAS 214 mmHg), afebril. Precisa en box de paros 20 mg de labetalol. A la exploración neurológica destaca mutismo/anartria (sólo obedece órdenes simples y emite sonidos incomprensibles), reflejo de amenaza derecho abolido, paresia facio (mod central), braquial derecha. Analítica con glicemia 278 mg/dL, creatinina de 1.47 mg/dL. TC craneal que no muestra alteraciones en secuencia basal (ASPECTS 10), con defecto de repleción en segmento M2 distal izquierdo, con retraso en cuña en el TTP a nivel frontoparietal izquierdo en territorio superficial de ACMI, sin apreciarse alteraciones significativas en el CBV.
+Se trata de una lesión isquémica en territorio de la ACMI, de probable etiología cardioembólica (pendiente de estudio), por la clínica y neuroimagen. Durante su estancia en la Unidad de ictus ha precisado labetalol 10mg y captoprilo 25 mg, llegando a controlar las tensiones, por lo que se inicia anticoagulación con heparina sódica.
+El día 23/05 presenta empeoramiento clínico con mutismo, obedeciendo alguna órden simple, mirada centrada sin limitación en la excursión visual con preferencia a la izquierda, reflejo por amenaza ausente a la derecha, paresia facial derecha, paresia e hipoestesia de extremidades derechas. NIHSS: 22. Se solicita TC craneal de control que descarta complicaciones hemorrágicas.
+El día 25/05 presenta nuevo empeoramiento clínico, apreciándose paresia de miembro inferior izquierdo y roving ocular. Se realiza nuevo TC de control en el que se aprecia hipodensidad correspondiente a ictus isquémico establecido en territorio de la ACMI (ya conocido), frontera ACMI/ACPI y frontera ACMD/ACPD. Teniendo en cuenta la situación clínica y la envergadura de las lesiones presentes en el TC que indican afectación cerebral irreversible se decide retirar el tratamiento con heparina e iniciar medidas de confort, siendo exitus vitae el 26/05/17 a las 8:10h.
+Al exitus: TOAST: indeterminado (estudio incompleto);   mRS: 6.
+
+3.	Posible SÍNDROME ANTIFOSFOLÍPIDO.
+Por antecedente de TEP bilateral el 2005 y 2009 (con anticuerpos anticardiolipina positivos), se solicita estudio de trombofilias y marcadores tumorales (en curso).
+
+4.	FEBRÍCULA.
+Durante su estancia en la unidad paciente evoluciona con febrícula hatsa 37.6ºC. Al examen físico sólo destaca leve eritema en relación a vía venosa periférica izquierda, por lo que se retira. Resto examen físico sin hallazgos patológicos. Radiografía de tórax sin imágenes de condensación.
+
+Plan terapéutico / Pla terapèutic
+- Exitus vitae.
+
+Otras recomendaciones / Altres recomanacions
+.
+
+
+
+Firma/Signatura1: _NAME_	Firma/Signatura2: _NAME_ Categoría: Resident 1	Categoría: Consultor/a 1
+Nº Matrícula HCP: _ID_	Nº Matrícula HCP: _ID_
+
+Fecha/Data Informe: 26.05.2017
+Hora Informe: 09:54:53
+
+Docum.: _ID_
+Hist. Clínica: _ID_
+El _SS_ ha incorporado sus datos al Fichero de Pacientes, para tratarlos con fines sanitarios.
+Puede ejercer sus derechos de acceso, rectificación, cancelación y oposición, así como obtener mas información en la Unidad de Atención al Cliente.
+Vers. 00
+Pag. 2 de
+3
+Episod.: _ID_
+_SS_ ha incorporat les seves dades al Fitxer de Pacients, per a tractar-los amb finalitats sanitàries. Pot exercir els seus drets d'accés, rectificació, cancel·lació i oposició, i obtenir més informació a la Unitat d'Atenció al Client.
+_SS_
+_LOCATION_) _LOCATION_) Tel. _CONTACT_ Fax _CONTACT_
+http://_CONTACT_/

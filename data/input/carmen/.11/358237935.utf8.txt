@@ -1,0 +1,124 @@
+_LOCATION_ Tel. _CONTACT_
+_CONTACT_
+Informe Alta Hospitalització
+_NAME_
+HC: _ID_
+
+>
+
+Informe de Cuidados Intensivos
+
+
+Adreça: _LOCATION_	Data naix.: _DATE_
+Població: _LOCATION_	Sexe: FEMENI
+Provincia: _LOCATION_	CIP: _ID_
+País: _LOCATION_	NASS: _ID_
+Telèfon: _CONTACT_ / _CONTACT_	DNI o Tarja Residència: _ID_
+
+
+Servei: Medicina Intensiva	Data ingrés a URG: 09/04/2017 01:34
+Unitat clínica: Unitat Semicrítics	Data hospitalització: 09/04/2017 02:31
+Tipus d'ingrés: Urgències	Data alta: 09/04/2017 03:30
+Proveïdor de Serveis: Servei Català de la Salut	Destí: 03 - Derivació Centre Extern Aguts
+
+
+
+Diagnòstic principal:
+
+434.91 AVC ISQUEMIC
+
+Procediments:
+
+99.10 FIBRINOLISI
+87.03 TAC CRANIAL
+
+
+
+
+
+Pacient de 83 anys d'edat que ingressa per AVC ISQUÈMIC
+
+Antecedents:
+
+Malalties prèvies:
+
+HIPERTENSIÓ ARTERIAL (-HTA de 20 años de evolución. Refiere buen control TA con BB.
+-Cardiopatía isquémica: clinica angor de esfuerzo hace 20 a. Estable y asintonmática con tratº nitratos / BB + AAS. No refiere clinica en su vida habitual. (control cada 3 meses).
+-	Diabetes Mellitus dx hace 6 años, inicialmente tratº con ADOS. Insulinodependiente desde hace 2 años + Metformina. Refiere buen control de las cifras de glicemia. No afectación 2ª de la DM.
+-Dislipemia en tratº con estatinas.
+-	Síndrome depresivo hace 20a en tratamiento con una fórmula magistral que se retiró recientemente. Actualmente Diacepan 5 mlgs/ noche. Claustrofobia.
+-	IQ de cataratas OD hace 1 mes. ECG se detectó RS con BRIHH + BRD+ HBA y ocasionalmente BAV 2º grado. No se retiró en ttº con BB.
+-	IQ: Adenoides, amigdalectomía, colecistectomía, higroma rotuliano.
+)
+DIABETIS MELLITUS (Aporta informe del Dr. _NAME_ amb retinopatia diabètica bilateral moderada amb edema macular difús a l'ull E en progressió.
+Li han fet una Intravitria Eylea UE el 17.11.15. A l'exploració del control que va realitzar l'altre dia
+24.05.16 li van trobar múltiples
+hemorràgies a pol post amb afectació foveal a UE. I l'OCT macular mostra a ull E edema macular espongiforme. Ha de realitzar
+dosi d'atac (intravitries AntiVEGF 1 al mes durant 3 mesos i nova valoració als dos mesos després d'última injecció.
+La pacient desitja que se li valori l'afectació i la possibbilitat de tractament a oft de CSPT)
+
+
+DISLIPÈMIA MARCAPASSOS CARDIA.
+
+Medicació prèvia:
+
+adiro 100 mg c/24h, simvastatina 40 mg c/24h , nitroderm 10 mg c/24h , trazodona 100 mg c/24h, diazepan 5 mg c/24h, risperidona 0.5 mg c/24h, valsartan 160 mg c/24h, metformina 850 mg 1.5 c/12h, novomix 30, bisoprolol 5 mg /24h
+
+Situació funcional:
+
+Situació mental: FFSS conservadas
+Situació física: Autonoma para las abvd.
+
+Història Actual:
+
+Paciente que ingresa en Unidad de Semicríticos procedente de urgencias por activación de código ictus. Explica clínica brusca de inicio aproximadamente a las 00.30h de disartria y hemiplegia faciobraquiocrural derecha.
+Se realiza TC de cráneo que descarta lesiones hemorrágicas, ASPECTS de 10. Tras administración de hipotensores para control tensional ( labetalol ev 10mg x3 y urapidilo 25mg), se administra perfusión de rt-PA. Informe de angio-TAC que objetiva oclusión próximal de la ACA izquierda. Se contacta con _SS_ para tratamiento endovascular, que aceptan.
+
+Exploració física:
+
+- A su llegada a urgencias:
+TA: 237/77 Fc: 59 lpm Sat o2 (aa): 90 Glicemia 200 mg/dL
+
+AC: TCR, no soplos no ruidos sobreañadidos AR: MVC, no ruidos sobreañadidos
+Neurol: consciente y orientada, disartria moderada, PICNR, hemianopsia homonima derecha, PFSN D, hemiplegia faciobraquiocrural derecha, anosognosia, deficit sensitivo derehco
+
+Resum proves complementàries:
+
+Laboratori:
+
+- A/S: Leucòcits *12.23 x 10^9/L (N 67.4 %, L 20 %), Hematies 4.99 x 10^12/L, Hb 142 g/L, Ht 0.43 L/L, VCM 86 fL, HCM 28.5 pg, Plaquetes 249 x 10^9/L, TP 0.94 ratio, TTPa 0.96 ratio, Glucosa *207 mg/dL, Urea *72 mg/dL, Creatinina *1.14 mg/dL, Sodi 133
+
+Imatge:
+
+- Examen TC intracranial simple.
+Absència de desplaçaments d'estructures de línia mitja supra i infratentorials. No s'observen lesions hemorràgiques intra ni extraparenquimatoses.
+Dilatació global i simètrica del sistema ventricular més que dels valls silvians i solcs corticals de la convexitat.
+Cisternes basals i peritronculars lliures.
+Lesió hipodensa cortico subcortical frontal paramedial esquerra.
+
+
+Fossa posterior i parènquima cerebral sense altres alteracions morfològiques ni densitomètriques valorables.
+Defecte de fusió de l'arc posterior de C1. ASPECTS: 10
+- Angio TC carotidi:
+Normal disposició dels TSA.
+Ambdues artèries caròtides comú, caròtides interna i externa sense alteracions.
+Ambdues arteries vertebrals permeables amb flux ascendent. Artèria vertebral dreta hipoplàsica. Oclusió proximal de l'ACA esquerra (segment A1).
+Póligon de Willis normoconfigurat, sense alteracions, amb cerebral anterior dreta i ambdues mitges permeables.
+Talls toràcics: engruiximents septals bilaterals amb àrees en vidre desllustrat suggestives de IC. Conclusió
+Infart isquèmic establert frontal superior paramedial esquerra. Oclusió proximal de l'ACA esquerra.
+Als talls toràcics signes d'IC.
+
+Evolució i comentaris:
+
+NOTA DE ALTA UNIDAD DE SEMICRÍTICOS (Dra. _NAME_, Dra. _NAME_, Dra. _NAME_, Dr. _NAME_) Por problemas:
+1) ICTUS ISQUÉMICO AGUDO DE LA ACA IZQUIERDA.
+
+En paciente con buen estado basal, NIHSS 23 (0+0+0+0+2+3+9+9+0+2+0+0+0). Se inicia fibrinólisis ev según protocolo según peso tras control tensional. Angio-TAC que muestra oclusión proximal ACA izquierda. 2h30 min desde inicio de la clínica. Se considera candidata a tratamiento endovascular, se contacta con _SS_ que aceptan. Se contacta con SEM para traslado.
+
+Tractament:
+
+Fàrmacs: Monodosis
+_LOCATION_, 09/04/2017
+_NAME_	_NAME_
+(Nº col _ID_)	(Nº col _ID_
+Nom i cognoms metge: _NAME_ (Nº col: _ID_Pàg.: 1/3

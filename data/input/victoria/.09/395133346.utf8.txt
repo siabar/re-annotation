@@ -1,0 +1,140 @@
+_LOCATION_
+email: _CONTACT_ Telèfon _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 92 Anys
+NIF/DNI: _ID__NAME_; _NAME_; _NAME_;
+_NAME_; _NAME_
+Informe d'alta d'hospitalització
+16:00:00
+28.07.2017
+_LOCATION_
+_SS_ NEUROLOGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_; _CONTACT_
+DOMICIL/RES.SOC 23.07.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Mujer de 92 años que acude a urgencias por desorientación, disartria y hemiparesia izquierda.
+
+ANTECEDENTS
+-No alergias medicamentosas conocidas
+-Sin hábitos tóxicos
+
+ANTECEDENTES PATOLÓGICOS:
+-Hipertensión arterial en tratamiento, con cifras de PAS habituales en torno a 120-130 mmHg.
+-Dislipemia en tratamiento.
+-Diabetes Mellitus tipo 2 de años de evolución en tratamiento con insulina e hipoglucemiantes orales hasta mayo de 2013 cuando se retiró tratamiento con glimepirida por hipoglucemia. Última HbA1c 6.6% marzo 2017.
+-Hiperreactividad  bronquial  en  el  contexto  de  infección  respiratoria  por  lo  que  realiza  tratamiento  con broncodilatadores.
+-Tuberculosis pulmonar en la juventud.
+-Anemia microcítica no filiada, tratada con ferroterapia oral.
+-Cardiopatía isquémica que debutó hace más de 30 años en forma de infarto agudo de miocardio, que fue manejado de forma conservadora. Presenta angina habitual con los esfuerzos moderados.
+-Estenosis  aórtica leve detectada en enero de 2009. Presenta disnea habitual en CF III de la NYHA, con ortopnea de 2 almohadas.
+Ecocardiograma 2010 función sistólica biventricular conservada (FE 55-60%), VI moderadamente hipertrófico, ausencia de alteraciones de la contractilidad segmentaria, AI ligeramente dilatada. Estenosis aórtica ligera con gradiente medio de 19 mmHg, sin IAo. IM leve. Disfunción diastólica grado I.
+-Fibrilación auricular paroxística diagnosticada en estudio Holter realizado por síncopes. Se indicó amiodarona y posteriormente digoxina, desestimándose anticoagulación por elevado riesgo de caídas en ese momento. Controles en CEX Cardiología, en los que se mantenía en ritmo sinusal. Bradicardias por ritmo nodal bajo tratamiento. Alta ante estabilidad en 2011.
+-IQ: colecistectomía. Litotrícia.
+
+SITUACIÓN SOCIOFUNCIONAL: Vive sola, con cuidadora durante el día, camina con caminador y supervisión. Come sola, ayuda/supervisión para el resto de actividades básicas. Buen soporte sociofamiliar. Sin diagnóstico de deterioro cognitivo. mRS 4.
+
+MEDICACIÓ HABITUAL
+AAS 100mg/día, Atrovent, Budesonida, Cafinitrina 1cp sp, Citalopram 20mg /día, Furosemida 40mg/día, Levemir 30UI, Lorazepam 1mg/día, Minitran 15mg/día, Omeprazol 20mg/día, Paracetamol 650mg sp, simvastatina 40mg/día
+
+PROCÉS ACTUAL
+Es traída por presentar cuadro de inicio brusco, alrededor de las 18h el día 23/07/17, de alteración del habla y debilidad de extremidades izquierdas.
+
+Informe d'alta d'hospitalització
+
+
+
+
+EXPLORACIÓ FÍSICA
+
+Exploración física en Urgencias medicina
+TA: 109/67mmHg, FC 82lpm, FR 14rpm, Tª 36.3ºC, Sat O2 95%(aa)
+Mal estado general. Normohidratada, normocoloreada y con buena perfusión periférica.
+-Cardiovascular: tonos cardíacos rítmicos, no ausculto soplos. No ingurgitación venosa yugular ni reflujo hepatoyugular. No edemas periféricos. Pulsos periféricos presentes y simétricos. No signos de trombosis venosa profunda.
+-Respiratorio: murmullo vesicular conservado sin ruidos sobreañadidos. Eupneica en reposo.
+-Abdomen: distendido a expensas de paniculo adiposo, blando y depresible, no doloroso a la palpación. Peristaltismo conservado. No se palpan masas ni visceromegalias . No signos de peritonismo. Puñopercusión lumbar negativa.
+Neurológico: Consciente y orientada en lugar y persona, desorientada en tiempo. Comprende, nómina y repite. Pupilas isocóricas y normorreactivas. Pares craneales conservados. Se observa desviación de la comisura bucal hacia la derecha Tono, fuerza y sensibilidad de hemicuerpo izquierdo disminuida. Hemicuerpo derecho conservado. RCP indiferente.
+
+Exploración neurológica en urgencias de NRL
+A su llegada:
+Vigil, POC D (1), HHI (2), Disartria (1), PFSN I (1), no claro déficit motor a pesar de negligencia y alteraicón sensitiva, negligencia con extinción sensitiva (1) NIHSS 8
+
+Revaloración:
+Vigil, POC D (1), HHI (2), Disartria más marcada (1), PFSN I (2), paresia ESI 3-/5 (2), EII 2/5 (3), negligencia con extinción sensitiva (1), asomatognosia (1) NIHSS 13
+
+Exploración en planta de Neurología:
+Ctes; TA 128/79mmHg, FC 65lpm, Tº 36.3ºC, satO2 95%aa
+Vigil, orientada en espacio y parcialmente en tiempo, sin alteración del habla ni lenguaje. POC D (1). Campimetría por confrontación normal. PFSN I (1). Balance motor preservado. Hipoestesia/Parestesias BC I (1). NIHSS 3
+
+EXPLORACIÓ COMPLEMENTÀRIA
+Exploraciones complementarias realizadas en Urgencias:
+-ECG (21:h sin dolor): Ritmo sinusal a 80lpm, eje a -60º, PR de 0,18s, QRS de 0,9s. No alteraciones de la repolarización.
+-EAB (21h): pH 7.43, PCO2 46mmHg, HCO3 28.3mmol/L, EB 6.2mmol/L, Hto 41%, Hb 13.8g/dL, Na 140mmol/L, K 3.9mmol/L, Ca iónico 4.71mmol/L, glucosa 97mg/dL, Lactato 1.1
+-Analítica: Hb 13.2g/dL, Hto 42.3%, VCM 87fL, HCM 27.2pg, leucocitos 8.09x10E9/L (Neutrofilos 62.7%, linfocitos 24.5%), plaquetas 168x10E9/L, TP 107%, TTPAr 29.5seg , fibrinogeno 5.49g/L, glucosa 96mg/dL, Urea 46mg/dL, Cr 0.95mg/dL, FG 52ml/min, Na 141mmol/L, K 3.89mmol/L, Ca 9.1mg/dL, Aspartato-aminotrasferasa 14UI/L, Alanina-aminotransferasa 10UI/L, proteinas 6.5g/dL
+-TC cranial: Estudio urgente de cráneo que muestra hipodenidad focal en el hemitegmento derecho de mesencéfalo sugestiva de lesión lacunar aguda/subaguda. Lesión isquémica crónica gangliobasal y nuclear derecha.
+-EcoDoppler TSA/TC: cuello corto, difícil anatomia, se insonan ambas ACIs simétricas, se consigue insonar AV
+
+Informe d'alta d'hospitalització
+
+
+
+
+dcha con flujo normal, AV izq no se insona. TC: sin ventana.
+
+Exploraciones complementarias realizadas en planta de NRL:
+ -Analítica de ingreso: Hb 13.5 g/dL; VCM 86.9 fL; HCM 27.6 pg; Leucòcits 5.710 (Neutròfils 3200, Limfòcits 1400);
+Plaquetas 152.000; TQ 100%; INR 1; Glu 84; HbA1c: 6.7%; Urea 38; Creatinina 0.98 mg/dL; FG 50 ml/min/1,73
+m2; BT 0.89; BD 0.33; Na 142.9; Ca 9.2; AST 19; ALT 11; FA 87; GGT 11; Proteïna 5.9; albumina 3.3; Estudio de
+anemia: Reticulocitos 58.300; ferritina 32; transferrina 248; ferro 97; index saturación transferrina 39%; vitB12 523;
+acido folico 11.8 Perfil lipidico: colesterol 164; HDL 38; LDL 97; trigliceridos 143. Tiroides: TSH 2.028; fT4 1.26
+
+EVOLUCIÓ CLÍNICA
+Paciente de 92 años con factores de riesgo vascular y FA paroxística no anticoagulada que es traída por cuadro de afectación de territorio de ACM D. No se activa código ictus por mejoría clínica a su llegada a urgencias, edad y situación funcional previa. Se realiza TC craneal que informa de posible lesión isquémica en hemitegmento mesencefálico derecho. Posteriormente la paciente presenta empeoramiento del déficit motor y de la disartria. Se completa estudio con EcoDoppler TSA/TC, sin patología a nivel de eje carotideo, con dificultad para insonar AV izquierda y sin ventana transcraneal. Con orientación diagnóstica de infarto isquémico mesencefálico derecho se inician medidas de ictus agudo. Ante persistencia de déficit motor tras 24 horas se decide ingreso en planta de neurología para continuidad de cuidados y rehabilitación.
+
+A su ingreso en planta, se encuentra hemodinámicamente estable, afebril. Se constata mejoría de los déficits neurológicos con NIHSS de 3 a expensas de leve paresia facial, preferencia oculocefálica y alteración sensitiva. Comienza dieta oral y es valorada por RHB, iniciando la paciente fisioterapia en gimnasio con buena tolerancia. Se explica a familiar (hijo) riesgos y beneficios de anticoagulación, decidiéndose de forma conjunta, considerado el estado basal de la paciente y la edad, no iniciar anticoagulación. Por otro lado, el hijo nos comenta en el último  año aparición de alteración del contenido del pensamiento (ideas de perjuicio por los vecinos) y perceptivas  (ilusión de pasaje o presencia, piernas ajenas en la cama etc..) que le generan cierto grado de angustia, por lo que se decide en un primer momento iniciar tratamiento antipsicótico con Quetiapina que finalmente se suspende por mala tolerancia de la paciente (debilidad y decaimiento generalizado), dada la escasa repercusión de su cuadro psiquiátrico a nivel funcional y emotivo.
+
+Dada la buena evolución durante su estancia sin nuevos episodios sugestivos de focalidad neurológica u otra clínica se decide alta a su domicilio, donde continuará con tratamiento fisioterápico a nivel domiciliario. Ante los resultados de las pruebas complementarias se orienta el cuadro como diagnóstico de ictus isquémico mesencefálico derecho de etiología cardioembólica por FA no anticoagulada. Al alta NIHSS 0, mRs 4-5.
+
+DIAGNÒSTICS
+Ictus isquémico mesencefálico derecho de etiología cardioembólica por FA no anticoagulada.
+
+PROCEDIMENTS
+TC craneal
+Doppler de carotidas, vertebrales y transcraneal urgente EKG
+AG
+
+Informe d'alta d'hospitalització
+
+
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Dieta sin sal diabética que tolere
+Suspender Adiro 100 (AAS 100mg), Omeprazol 20mg y Simvastatina 40mg Añadir a su medicación habitual:
+-	Clopidogrel 75mg, 1 comprimido despues de comer
+-	Ranitidina 300mg, 1 comprimido con el desayuno
+-	Atorvastatina 80mg, 1 comprimido después de cenar Resto de medicación habitual sin cambios
+CONTROL
+Se solicita RHB Domiciliaria, le informaran telefónicamente para acordar día y hora de inicio Control estrecho de factores de riesgo vascular por CAP
+Control por especialistas habituales como tenga previsto
+
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+28.07.2017
+Pàgina 1 de 4

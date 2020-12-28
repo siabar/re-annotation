@@ -1,0 +1,144 @@
+_LOCATION_) Telèfon _SS_  972 _CONTACT_
+Telèfon IDI (Ressonància i TAC) _CONTACT_
+Telèfon ICO _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 71 Anys
+NIF/DNI: _ID_Informe d'alta d'hospitalització
+11:31:25
+13.04.2017
+_LOCATION_
+_SS_ GASTROENTEROLOGIA- AP
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_; _CONTACT_
+DOMICIL/RES.SOC 29.03.2017
+_NAME_
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Sepsis de origen biliar
+
+ANTECEDENTS
+ANTECEDENTS PERSONALS
+-	Al·lèrgia a AAS
+-	No hàbits tòxics
+-	Independent per ABVD
+
+ANTECEDENTS PATOLÒGICS
+-	Sospita de polimiàlgia reumàtica. Per història de dolors musculars iniciats el 2015 va ser derivat a Hematologia amb sospita de Mieloma Múltiple que es va descartar per biópsia de medul·la òssia (encara que de mala qualitat). Finalment va ser valorat per Reumatologia a _LOCATION_ (Dr _NAME_) i catalogat de Polimiàlgia Reumàtica segons el pacient. No consta VSG elevada en cap moment. Se li va iniciar Metilprednisolona, amb ràpida remissió dels símptomes. Va estar en tractament fins al desembre de 2015, actualment en seguiment.
+-	Gota hiperuricèmica des dels 355 anys, actualment sens tractament. Pren Al·lopurinol en context d'atacs segons refereix.
+-	Insuficiència renal crònica ja present i estable almenys des del 2009 amb Crea al voltant de 1.3-1.4 mg/dl i FG al voltant de 50 ml/min.
+-	Un episodi de dolor a hipocondri dret l'any 2007 sense més estudis i autollimitat. El 03/2014 va ingressar a _LOCATION_ per un quadre abdominal agut orientat com a suboclusiu però en el que es va diagnosticar una Cavernomatosi Portal (trombosi portal crònica) i també es descriuen ja canvis pleuropulmonars crònics per TBC antiga.
+-	Ictus isquèmic minor hemisfèric dret amb recuperació quasi completa de la clínica a l'arribada a urgències. PACI dret amb recuperació completa vs crisis focals simples braquial esquerres.
+-	Arteritis de Horton dx abril 2017 de l'artèria temporal (VSG 95) en tto amb prednisona.
+-	Primera visita amb Pneumologia del dia 15/06/2017 a les 09:45h per valorar Polisomnografia per estudi de possible apnea del son.
+
+MEDICACIÓ HABITUAL
+Atorvastatina 20 mg
+Clopidogrel 75 mg
+Levetiracetam 500 mg
+Ranitidina 150 mg
+Zyloric 300 mg Mastical D 500 mg Prednisona 50 mg
+Prednisona 30 mg
+
+PROCÉS ACTUAL
+Pacient de 71 anys que és derivat a Urgències per malestar general. A l'arribada a Urgències, s'objectiva febre
+
+Informe d'alta d'hospitalització
+
+amb T38'0º. El pacient explica tremolors intensos durant la  matinada compatibles amb clínica bacterièmica. Refereix bon estat general en dies previs. No ha presentat tos ni expectoració. No dispnea ni dolor toràcic. No alteracions de l'hàbit deposicional ni vòmits/nàusees. No síndrome miccional. No altra simptomatologia acompanyant.
+
+EXPLORACIÓ FÍSICA
+
+Bon estat general, NH i NC, TA 96/51 mmHg sense repercusió clínica amb T 38'0º. AR Murmuri vesicular conservat sense sorolls patològics.
+AC Tons rítmics sense bufs. No edema a les extremitats inferiors. Polsos perifèrics presents i simètrics.
+Abdomen tou i depressible, no dolorós a la palpació. No signes d'irritació peritoneal. PPL negativa bilateral. Peristaltisme conservat.
+NRL Conscient i orientat amb GCS 15. Pupiles isocòriques i reactives. No signes meningis. Mobilització de les quatre extremitats. No alteracions de sensibilitat. No signes de focalitat neurològica aguda aparent.
+
+EXPLORACIÓ COMPLEMENTÀRIA
+A/S (29/03)
+-	Hemograma: Eritròcits 5.17 M/mcL, Hemoglobina 14.1 g/dL, Hematòcrit 46 %, Volum corpuscular mitjà 88.2 fL, Hemoglobina corpuscular mitja 27 pg, C.H.C.M. * 31 g/dL, A.D.E. * 16.5  %, Plaquetes 374 K/mcL,  Volum plaquetari mig 9.6 fL, Leucòcits * 12.45 K/mcL
+-	Fórmula: Neutròfils * 95.4 %, Limfòcits * 3.7 %, Monòcits * 0.6 %, Eosinòfils 0.1 %, Basòfils 0.2 %, Neutròfils 11.9 K/mcL, Limfocits 0.5 K/mcL, Monocits 0.1 K/mcL, Eosinofils 0.0 K/mcL, Basofils 0.0 K/mcL, Eritroblasts-Sang 0.4 %
+-	Coagulació: Tasa protrombina 88 %, Tasa protrombina (INR) 1.07, Temps de cefalina (TTPA) 25 segons, Temps de cefalina (ratio) 0.8, Fibrinogen (deduit) 327 mg/dL
+-	Gasometria venosa: pHv 7.27, Pressio parcial de CO2 55 mmHg, Pressio parcial d´oxigen 9 mmHg, Bicarbonat actual 25.3 mmol/L, Contigut de CO2 27 mmol/L, Exces de base -2.6 mmol/L, Exces de base (ecf) -1.6 mmol/L, Bicarbonat estandar 20.1 mmol/L, Saturacio oxigen (mesurada) 6 %
+-	Bioquímica: Glucosa * 177 mg/dL, Urea * 72 mg/dL, Creatinina * 1.46 mg/dL, Bilirubina total * 1.53 mg/dL, Aspartat aminotransferasa (GOT * 554 U/L, Alanina aminotransferasa (GPT) * 416 U/L, Gamma-glutamiltransferasa * 500 U/L, Fosfatasa alcalina * 132 U/L, Ió sodi 137 mEqu/L, Ió potasi 4.2 mEqu/L, Lactat en sang (PD) 61 mg/dL
+-	Proteïna C reactiva 0.21 mg/dL, Procalcitonina (quantitativa) * 8.71 ng/mL Tira orina: Negativa.
+Rx tórax: No s'observen imatges de condensació en el parènquima pulmonar. Sins costo frènics lliures. No disposem de Rx lateral.
+
+Hemocultius x2 cursats: Enterobacter Kobei .
+
+Colangio RM sense contrast (31.03.2017 /09:14:04)
+TROBALLES:
+Lleu dilatació de la via biliar intrahepàtica i extrahepàtica, amb colèdoc de fins a 9mm, sense evidenciar defectes de repleció que suggereixin la presència de coledocolitiasis. Cavernomatosis portal que sembla comprImir extrínsecament el terç mig del colèdoc.
+Vesícula biliar distesa, no hidròpica, de parets llises, sense evidència de colelitiasis.
+
+Informe d'alta d'hospitalització
+
+
+Esplenomegàlia homogènia de 14.5cm.
+Conducte pancreàtic principal no dilatat. Calcificacions al procés uncinat (intracanaliculars?). Resta de pàncrees sense altereracions rellevants.
+Discreta quantitat de líquid lliure peri i subhepàtic. CONCLUSIÓ:
+Estudi de  colangioRM  que  destaca la  presència una  lleu  dilatació de  la  via  biliar per  probable compressió extrínseca del colèdoc.
+
+CPRE 06/04/2017: INFORME:
+S'introdueix el duodenoscop fins a segona porció de duodè on es troba la papil·la d3e petit tamany. canulo al primer intent el coledoc, passo una guia i injecto contrast, veient el coledoc lleument dilatat d'uns 9 mm , sense estenosis fins la papail·la. Per aquest motiu faig una papil·lotomia petita i passo un baló sortint net. al acaber de treure el baló presenta sagnat acitu continu intracoledocal que fa pernsar en la rubtura d'alguna variç intracoledocal. Posem somatostatina cedint el sagnat, per aquest motiu decideixo no fer mes maniobres.
+Procediments: Esfinterotomia.
+Pase de baló per coledoc.
+Complicaciones inmediatas: Sagnat intracoledocal que ha cedit amb somatostatina ev.
+
+TC d'artèria mesentèrica (06.04.2017 /13:15:02) MOTIU DE CONSULTA: Hemorragia intracoledocal TÈCNICA:Es realitza estudi angioTC abdominal.
+TROBALLES:
+Destaca la presència d'abundant gas portal que afecta tot el parènquima hepàtic. També hi ha signes d'aerobilia. Presència de contrast a la via biliar amb bombolles aèries sense evidència de signes suggestius de sagnat intracoledocal.
+Signes de cavernomatosi portal. Fetge sense evidència de clares lesions nodulars. Melsa homogènia de mida normal.
+Diverticulosi colònica.
+No hi ha líquid lliure intraperitoneal ni pneumoperitoni.
+
+CONCLUSIÓ
+Estudi TC sense evidència de signes suggestius de sagnat actiu. Presència d'abundant gas portal.
+
+Arteriografia visceral digestiva (11.04.2017 /13:57:15)
+
+S'obté accés arterial a femoral comú dreta (5F).
+Es realitza estudi selectiu des de tronc comú i mesentèrica superior.
+Es visualitzen absència de porta principal amb dilatacions vasculars de gran diàmetre. Flux hepatopetal. Correcte permeabilitat de branques portals a regió intrahepàtica.
+
+Informe d'alta d'hospitalització
+EVOLUCIÓ CLÍNICA
+Pacient que ingressa per sepsi d'origen biliar per colangiopatia per hipertensió portal secundaria a cavernomatosi portal amb múltiples colaterals peri-coledocals, ha rebut tractament antibiòtic durant 15 dies que haurà de completar ambulatoriament fins a 21 dies. Durant l'ingrés es va realitzar CPRE per empitjorament de la colestasi presentant el pacient hemorragia intraprocediment que ha requerit tractament amb somatostatina amb control del sagnat. No evidència de recidiva hemorràgica 8 dies post procediment, comentat amb cirurgia i radiologia intervencionista es decideix fer una portografia indirecta per fer mapa anatòmic, ens comenten la possibilitat terapèutica derivativa però no exempta de alts riscos en pacient actualment assimptomàtic pel que ho acabarem de valorar conjuntament. Explico al pacient i familiar les opcions i de moment farem seguiment a consultes.
+
+DIAGNÒSTICS
+995.91 Sèpsia 576.1/1 Colangitis
+228.09/23 Cavernoma d'altres llocs 572.3/1 Hipertensio portal
+578.9/1 Hda hemorragia digestiva alta 446.5/2 Arteritis de horton
+
+PROCEDIMENTS
+88.97 Imatge per ressonància magnètica d'altres parts del cos. Abdomen, cara, coll, òrbita ocular
+99.29 Injecció o infusió d'altra substància terapèutica o profilàctica
+51.82 Esfinterotomia pancreàtica. Incisió d'esfínter pancreàtic, esfinterotomia ampul·lar transduodenal
+89.08 Altra consulta
+88.47 Arteriografia d'altres artèries intraabdominals
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+PREDNISONA 80 mgr al dia i disminuir a 70 mgr al dia a partir 15 abril. MASTICAL D un comprimit al dia
+URSOBILANE 300 mgr cada 8 hores.
+CIPROFLOXACINO 500 mgr cada 12 hores durant 7 dies. Resta de tractament habitual igual.
+
+CONTROL
+Control CCEE de digestiu el proper dia 26 abril
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+13.04.2017
+Pàgina 1 de 4

@@ -1,0 +1,170 @@
+_LOCATION_ Tel. _CONTACT_
+e-mail: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 64 Anys
+NIF/DNI: _ID_Dra. _NAME_, Dra. _NAME_, Dra. _NAME_, Dra. _NAME_
+Informe d'alta d'hospitalització
+14:00:00
+20.12.2017
+_LOCATION_
+_SS_ NEUROLOGIA
+ABS
+Servei Data d'alta
+_CONTACT_; _CONTACT_
+AGUTS 14.12.2017
+_LOCATION_
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Debilitat de mà esquerra i desviació de la comissura labial
+
+ANTECEDENTS
+Dona de 61 anys, alèrgica a les sulfamides. No refereix hàbits tòxics.
+
+Antecedents patològics:
+-	Hipertensió arterial en tractament mèdic
+-	Dislipemia
+-	Tumoració renal bilateral estudiada i donada de alta (no aporta informe)
+-	Ictus isquèmic al 2004. Ictus isquèmic ACM dreta i Amaurosis fugax ull esq, es detecta estenosi severa ACI esquerre, es considera simptomàtica i es realitza TEA. Control periòdics a _SS_ amb estabilitat segons la pacient.
+
+Situación sociolaboral: Viu amb el seu marit, independent per a les activitats de la vida diaria, mRS 0.
+
+MEDICACIÓ HABITUAL
+disgren 300mg dia, omeprazol 20mg dia, simvastatina 40mg dia, tarka 180/2mg dia, enalapril
+
+PROCÉS ACTUAL
+Dona de 64 anys, desde fa 7-10 dies presenta cefalea occipital opressiva sense nàusees, vòmits, ni  altra simptomatologia acompanyant, acut en vàries ocasions al CAP on detecten HTA important TAS >200, fins aleshores amb TA ben controlada. A més a més, des d'aleshores presenta debilitat progressiva de mà esquerre, el dia 05/12/2017 consulta a _SS_ per aquest quadre, es realitza TC cranial que es normal i s'orienta com a debilitat secundària a etiologia osteotendinosa. La debiltitat de la mà ha anat progressant al llarg de la setmana sense afegir-se altres símptomes. Ahir el marit nota que està més cansada del normal, es queda adormida al sofà però reactiva i sense altra focalitat, se'n va al llit. Aquest matí al despertar-se el marit detecta desviació de la comisura bucal i disartria important, pel que acudeixen de nou a _SS_, des d'on s'activa el Codi Ictua a les 11:21. La pacient arriba a les 12:40.
+
+EXPLORACIÓ FÍSICA
+
+FC	60 bpm Tªaxi  ºC
+FR	rpm Tªrec  ºC
+TA s	188 mmHg SAT O2 99 %
+TA d   82 mmHg Pes Kg
+
+Conscient, orientada, vigil, no disartria. Llenguatge conservat. Pupil·les isocòriques i normoreactives. Motilitat ocular externa normal. Campimetria per confrontació normal. Paresia facial inferior esquerre lleu. Claudicació de mà esquerre que no puntúa NIHSS. Força mà 0/5. No claudicació MMII. No defícit sensitiu. ROTS simètrics. RCP flexor bilateral
+
+NIHSS: (0.0.0)0.0/1.(0.0)(0.0)/0.0.0.0 .0 = 1
+
+Informe d'alta d'hospitalització
+
+
+
+
+Bon estat general, normocolorejat, normohidratat. Sorolls cardíacs rítmics, sense bufs ni frecs. Murmull vesicular conservat bilateral sense sorolls sobreafegits. Abdomen tou i depresible, no dolorós a la palpació, peristaltisme present. No palpo masses ni megàlies. Polsos perièrics presents sense bufs. No edemes ni signes de trombosis venosa profunda.
+
+EXPLORACIÓ COMPLEMENTÀRIA
+URGÈNCIES:
+ECG: RS a 70 lpm, Eje a 60º. PR constante de 160 ms. QRS 80 ms sin desnivelaciones del ST. T positivas Analítica d'urgències:
+Hematologia: Leucocitos 6100 /µL, (N 70,8 % / L 20,2 / M 5,8 / E 2 / B 1,2), Htíes 4,34 mill/µL, Hb 12,9 g/dL, Hcto
+38,8 %, VCM 89,3 fL, Plaquetes 272000 /µL, TP 100 %, INR 0,98 sg, TP ratio 0,98, TTPA 22,9 sg, TTPA ratio
+0,74, Fibrinógeno 326 mg/dL.
+Bioquimica: Glucosa 95 mg/dL, Urea 29, Creatinina 0,72, Na 140 mmol/L, K 4,4, Prot-C reactiva 3,9 mg/L.
+
+Doppler TSA i TC: Ateromatosis importante carotidea derecha con patron de oclusión vs suboclusión de arteria carótida interna derecha. Estenosis <50% en arteria carotida interna izquierda. A nivel transcraneal no se insona flujo de sifón carotideo derecho con ACM derecha con flujo atenuado. Compensación por arteria comunicante anterior y oftálmica homolateral.
+
+TC cerebral: No se evidencian lesiones isquémicas ni hemorrágicas agudas. Lesión de bajo coeficiente de atenuación, córtico-subcortical parietal derecha, compatible con lesión isquémica crónica en el territorio frontera ACP/ACM.
+Lesión de bajo coeficiente de atenuación, córtico-subcotical que afecta a corona radiata derecha y córtex frontal derecho, compatible con lesión isquémica crónica en territorio de ACM derecha.
+AngioTC: Ateromatosis de arco aórtico y troncos supraórticos. Ateromatosis de la bifurcación carotídea derecha con defecto de replección total de la ACI en todas sus porciones hasta el segmento cavernoso. Defecto de replección de segmento M2 derecha (rama anterior) con presencia de buena circulación colateral. Ateromatosis de arteria carótida común izquierda, sin estenosis significativa de la misma. Arteria vertebral derecha hipoplásica Resto de vasos arteriales cerebrales sin estenosis ni defectos de replección.
+
+UNIDAD DE ICTUS:
+Monitorización cardiaca: sin alteraciones del ritmo Analítca de ingreso (18/12/2017):
+- Hematologia: Leucocitos 5900 /µL, (N 69,4 % / L 16,1 / M 7,5 / E 6,3 / B 0,7), Htíes 4,61 mill/µL, Hb 13,9 g/dL,
+Hcto 40,9 %, VCM 88,8 fL, Plaquetes 289000 /µL,
+-	Hemostasia: TP 92 %, INR 1,05 sg, TP ratio 1,06, TTPA 25,8 sg, TTPA ratio 0,83, Fibrinógeno 428 mg/dL.
+-	Bioquimica: Glucosa 100 mg/dL, HbA1c 5,3 %, Urea 25 mg/dL, Creatinina 0,66, Filtrado glomerular estimado >90 mL/min/1.73 m2, Osmolalidad 284 mOsm/Kg, Uratos 4,9 mg/dL, Ca 9,8, Fosfato 3,8, Mg 2,07, Na 138,8 mmol/L, K
+4,55, Cl 103,5, ALT 20 U/L, GGT 92, FA 130, LDH 190, Bilirrubina 0,52 mg/dL, Amilasa 28 U/L, CK 50, Prot-C
+reactiva 12,3 mg/L, Proteína 70,6 g/L, Albúmina 41,5.
+-	Proteinograma: sin alteraciones patológicas.
+-	Lípidos: Triglicéridos226 mg/dL, Colesterol 218, (HDL 51,5 / LDL 121).
+-	Hormonas: TSH 5,011 µUI/mL, T4-Libre 0,95 ng/dL.
+-	
+Informe d'alta d'hospitalització
+
+
+
+
+
+RMN cerebral (20/12/17): Estudio craneal que muestra múltiples pequeños focos isquémicos uniterritoriales, en distintos estadios evolutivos, afectando territorio vascular de la ACM derecha, a valorar causa embólica arterio arterial.
+
+Estudio neurosonológico de control (20/12/2017): Estabilidad de la oclusión de la ateria carotida interna derecha en su emmergencia con placa irregular heterogénea, iso, hipo e hiperecoica. Resto del estudio sin cambios respecto a previos.
+
+EVOLUCIÓ CLÍNICA
+Dona de 64 anys amb quadre de cefalea i debilitat progressiva de la mà d'una setmana d'evolució que avui s'afegeix desviació de comisura i disartria. A la seva arribada, hemodinamicament estable, eupneica i afebril, a la exploració física, NIHSS de 1 per facial ja que la plejia de la má es distal i no puntua.
+Es realitza analítica que no mostra altearcions rellevants.  ECG en ritme sinusal. Estudi neurosonològic amb ateromatosis important carotidia dreta amb patron d'oclusió vs suboclusió d'arteria carótida interna dreta. Estenosis
+<50% en arteria carotida interna esquerra. A nivell transcranial no s'insona flux al sifó carotidi dret amb ACM dreta amb flux atenuat. Compensació per arteria comunicant anterior i oftàlmica homolateral.
+Es realitza TC cranial urgent que no mostra lesions isquèmiques agudes peró lesió cortico-subcortical parietal dreta compatible amb lesió isquèmica crònica de territori frontera i lesió a corona radiata dreta i cortex frontal dret. AngioTC que mostra defecte de repleció total en ACI dreta en totes les seves porcions fins el segment cavernós i de M2 dreta amb bona colateralitat.
+Es deixa monitoritzada i en observació a Urgències. S'inicia doble antiagregació y estatines a dosis altes. Es decideix ingrès a la unitat d'ictus per a continuar monitorització i completar estudi.
+
+Durant el seu ingrés a la unitat d'ictus, la pacient es manté estable, monitoritzada sense objectivarse alteracions del ritme cardíac. Test de diafgia que no resulta patològic pel que s'inicia dieta oral cardiosaludable. Inicia sedestació a cadira que es correctament tolerada així com deambulació controlada per la unitat. No presenta cap complicació médica ni neurològica durant el seu ingrès. Valorada per Rehabilitació que inicia tractament pero queda pendent de continuar el tractament rehabilitador ambulatori.
+
+Per a completar l'estudi es solicita analítica completa d'ingrés amb perfil lipidic que mostra hipertrigliceridèmia i dislipemia (LDL 121 mg/dL). També s'objectiva hipotiroïdisme subclínic. La RMN cerebral objectiva múltiples petits focus isquèmics uniterritorials, en diferents estadis evolutius. Estudi neurosonològic de control amb estabilitat de l'oclusió de l'arteria carótida interna dreta amb placa heterogènea i irregular a la seva emergéncia.
+
+S'orienta com a ictus isquèmic de territori d'arteria cerebral mitja dreta de mecanisme mixte (embòlic i hemodinàmic) i d'etiologia aterotrombòtica, amb oclusió de arteria carotida interna dreta. Donada la estabilitat clínica de la pacient, es decideix alta a domicili. Es recomana control i estudi de la funció tiroïdal de manera ambulatòria per part del seu metge de capçalera així com iniciar tractamente rehabilitador.
+
+A l'alta: NIHSS: 0
+mRS: 2
+
+ORIENTACIÓ DIAGNÒSTICA
+1- Ictus isquèmic de territori d'arteria cerebral mitja dreta de mecanisme mixte (embòlic i hemodinàmic) i d'etiologia
+
+Informe d'alta d'hospitalització
+
+
+
+
+aterotrombòtica, amb oclusió de arteria carotida interna dreta estable. 2.- Hipertensió arterial
+3.- Dislipemia
+4.- Ictus isquèmic de arteria cerebral mitja dreta crònic de mecanisme embòlic i d'etiologia aterotrombòtica al 2004. Estudi que va mostrar estenosis crítica de arteria carotida interna esquerra pel que es va realitzar endarterectomia. 5.- Hipotiroïdisme subclínic.
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+-	Dieta cardiosaludable sense sal
+-	Control de factors de risc cardiovascular: LDL < 100 mg/dL i Tensions < 140/90 mmHg.
+-	Activitat física, deambulació
+
+Medicació complerta:
+-	Ranitidina 150 mg 1-0-1 via oral
+-	Adiro 100 mg 0-1-0 via oral fins el 04/01/2018 i després iniciar Tromalyt 300 mg 0-1-0 via oral i mantenir
+-	Clopidogrel 75 mg 1-0-0 via oral fins el 04/01/2018
+-	Enalapril 5 mg 1-0-0 via oral
+-	Atorvastatina 80 mg 0-0-1 via oral
+
+CONTROL
+Control amb el seu metge de caçalera i espacialistes habituales. Es recomana control i maneig de la funció tiroïdal de manera ambulatòria. Iniciar rehabilitació ambulatòria.
+Visita el 15/03/2018  a les 9h30 a CEX de Neurologia (Dra. _NAME_) al _SS_ amb control ecogràfic a les 13h00 el mateix dia.
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+20.12.2017
+Pàgina 1 de 4

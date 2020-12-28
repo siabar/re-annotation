@@ -1,0 +1,118 @@
+_LOCATION_
+email: _CONTACT_ Telèfon _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 57 Anys
+NIF/DNI: _ID__NAME_; _NAME_; 
+_NAME_;_NAME_; _NAME_
+Informe de Trasllat a Sociosanitari
+14:48:08
+27.07.2017
+_LOCATION_
+_SS_ NEUROLOGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_; _CONTACT_; _CONTACT_
+DOMICIL/RES.SOC 17.07.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Paciente que ingresa el día 17.07.17 por ictus isquémico de territorio carotideo derecha
+
+ANTECEDENTS
+Sin alergias medicamentosas conocidas. Sin hábitos enólicos o tabáquicos.
+
+Antecedentes médico-quirúrgicos:
+-Dislipemia
+-Endarterectomía carotidea ACI Izquierda en marzo de 2017; no disponemos de informes.
+-Ictus isquémico hemisférico derecho en marzo de 2017. Acudió a _SS_ por hemiparesia izquierda de 48 horas de evolución con RM cerebral que mostró lesiones isquémicas agudas en centro semioval derecho así como región cortico-subcortical parietal y precentral derecha, afectando también a territorio frontera y descarta lesiones metastásicas. Se completó estudio con EcoDoppler TSA/TC que mostró estenosis moderada en ACI D y aceleración de flujo que sugiere estenosis > 50% aa en ACI I a nivel de sifon (según informe). Se realizó también Holter que mostró ritmo sinusal con EEVV y ESV aisladas y angioRM cerebral que informa de estenosis severa de ACI D en sifón carotideo, con ACP derecha fetal. Se decidió tratamiento médico con doble antiagregación y atorvastatina a dosis altas. Recuperación ad integrum al alta.
+-Adenocarcinoma de pulmon IV EGFR wild type, ALk nt, progresión a 3 lineas de tratamiento. Diagnóstico en 2015 metástasis hepáticas y óseas. Se ha realizado RT antiálgica en L2-L5, húmero derecho, iliaca derecha. Pendiente de iniciar nuevo Ensayo Clínico.
+-Bronquitis asmática
+-Cuadros de disminución de agudeza visual en 2014 orientados como neuropatía óptica isquémica anterior no arterítica en OI vs episodios repetidos de amaurosis fugax. EcoDoppler TSA que según informes mostró signos de ateromatosis sin repercusión hemodinámica y RM cerebral con lesión lacunar isquémica crónica; se constató en fondo de ojo edema de papila con borramiento de bordes, tortuosidad venosa y hemorragias periféricas.
+****Nueva consulta en 11/2015 por disminución progresiva de AV en OI, con edema de papila bilateral y PL con presión de salida normal. Fue trasladada a _SS_ para completar estudio, aparentemente la etiología no fue filiada.
+
+Rankin previo:1 , autónoma para ABVID, sin deterioro cognitivo.
+
+MEDICACIÓ HABITUAL
+Tromalyt 150mg/día, Clopidogrel 75mg/día, Atorvastatina 80 mg/día, Cymbalta 60.mg/día, Natecal 600mg/dia, Nolotil, paracetamol, Anoro 55/22mcg 1inh, alopurinol 300mg/día, ranitidina 300 mg/día.
+
+PROCÉS ACTUAL
+Última vez vista asintomática alrededor de las 9h del dia 17/07/17. Es encontrada por familiar a las 10:30h, mientras desayunaba, con desviación ocular forzada a la derecha, de la que la paciente no es consciente. La propia familiar le explora las extremidades, constatando una debilidad de brazo izquierdo, por lo que contacta con SEM y se activa código ictus.
+
+Informe de Trasllat a Sociosanitari
+
+
+
+
+
+En anamnesis dirigida explican retirada de doble antiagregación el día 17/04/17 para realización de biopsia hepática, programada para el día 18/07/17.
+
+EXPLORACIÓ FÍSICA
+
+EXPLORACION URGENCIAS:
+Constantes: TA 127/71mmHg, FC 99lpm, Afebril, satO2 95%aa , BMT 193mg/dL
+Exploracion neurológica: Vigil, HHI (2), disartria inteligible (1) DOC D (2), PF SN I (1), plejia BC I (4+4), probable hipoestesia (1). NIHSS 15
+
+EXPLORACION UNIDAD DE ICTUS
+Constantes:  TA 131/64 mmHg, FC 68 lpm, Afebril, BMT 144 mg/dL
+Exploracion neurológica: Vigil, Comprende, nomina y repite, con fluencia conservada (LOC Q 2/2), cumple órdenes simples y complejas (LOC C 2/2). Sin anosognosía, pero con inatención izquierda y extinción visual y sensitiva (2). Campimetría por confrontación sin alteraciones. Preferencia oculocefálica izq pero puede superar la línea media (1); Paresia facial supranuclear izquierda (1); leve disartria (1); paresia ESI 2/5 (3) y EII 4/5. NIHSS 8
+
+EXPLORACION EN PLANTA DE NEUROLOGÍA
+Ctes:TA 116/72mmHg, FC 87 lpm, Tª 36.1ºC, satO2 99%aa, BMT 123-121-140mg/dL.
+Vigil, LOCq 2/2, LOCc 2/2, nomina y repite; no alteración de la articulación del habla; no déficit visual por campimetría por confrontación, POC D (1), PFSN I leve (1), paresia ESI (bíceps 5-/5, tríceps 4/5, distal 2/5) (3), paresia EII 4/5 (1). Hipoestesia en ESI (1), extinción sensitiva (1). Marcha posible con tercera persona. NIHSS  8
+
+EXPLORACIÓ COMPLEMENTÀRIA
+Exploración complementaria Urgencias:
+Analítica general: Hematies 3.30, Hb 9.8 g/dL, Htc 31.0 %, VCM 93.9 fL, HCM . 29.7 pg, CHGBCM . 31.60 g/dL, Leuc 10.89 x10E9/L, Neut 76.1%, Limf 12%, Mon 10.6%, Eo 0.7%, Bas 0.6%, Plaq 423x10E9/L. gluc 117 mg/dL, Ur 25 mg/dL, Cr 0.61 mg/dL, Filt glomerular (CKD-EPI). >90 ml/min/1,73 m2, Na 137.3 mmol/L, K+ 4.43 mmol/L, Ca . 9.6 mg/dL, AST 19 UI/L, ALT 11 UI/L, Prot 7.6 g/dL
+-E. coagulacion: Temps de Protrombina 12.1 seg, TTPA. 29.3 seg, Fibrinogen. 5.43 g/L
+-TC cranial MM: Infartos cronicos en ambos centros semiovales y en territorio frontera derecho. ASPECTS 10/10. Alteración de los parámetros de la perfusión cerebral que afecta en hemisferio derecho territorios frontera (origen fetal de la ACP derecha) sugestivo de estar en relación a una estenosis carotídea con repercusión hemodinámica, observándose en el estudio angiográfico una estenosis moderada/severa de origen de ACI derecha y una ateromatosis severa calcificada difusa de ACI intracavernosa con un defecto de repleción en ACI supraclinoidea con repermeabilización completa posterior sugestiva de ateromatosis con estenosis severa secundaria y permeabilidad distal preservada.
+
+Exploración complementaria Unidad Ictus:
+-Analítica de ingreso:Hematies 3.19,  Hb 9.4 g/dL, Htc 29.3%, VCM 91.8 fL, HCM 29.5 pg, CHGBCM 32.10 g/dL,
+Leuc 10.52 x10E9/L, Neut 75.4%, Limf 12%, Mon 10.6%, Eo 1.57%, Bas 0.5%, Plaq 379x10E9/L. Ferritina 11, Transf 322, Ferro 18. Vitamina B12 396 pg/mL, Ácid fòlico 4.5 ng/mL. Gluc 107 mg/dL, Ur 26 mg/dL, Cr 0.63 mg/dL, Filt glomerular (CKD-EPI). >90 ml/min/1,73 m2, Urat 4.8 mg/dl. Bilirubina 0.25 mg/dL. Bilirubina esterificada
+0.16 mg/dL. Na 140.9 mmol/L, K+ 4.22 mmol/L, Ca 9.4 mg/dL, AST 21 UI/L, ALT 17 UI/L, FA 156 UI/L, GGT 39U/L. Prot 6.7 g/dL. Albumina 3.8 g/dL. Tirotropina 2.463 mU/L, Triiodotironina(lliure) 2.69 pg/mL, Tiroxina (lliure)
+
+Informe de Trasllat a Sociosanitari
+
+
+
+
+1.23 ng/dL.
+Perfil lipidico: Colesterol total 144 mg/dL, LDL 75 mg/dL, HDL 41 mg/dL, TG 139 mg/dL.
+
+
+EVOLUCIÓ CLÍNICA
+Mujer de 57 años con los antecedentes descritos que acude por cuadro de desviación ocular forzada a la derecha y plegía de extremidades izquierdas (NIHSS 17), se realiza en urgencias TC craneal multimodal en que se observa aumento de tiempos en hemisferio derecho (ACP derecha fetal) con afectación de territorios frontera en volumen y AngioTC con estenosis moderada/severa de origen de ACI derecha y ateromatosis severa de ACI intracavernosa pero con permeabilidad distal preservada. Se desestima tratamiento de reperfusión en ausencia de oclusión y dado antecedente reciente de ictus. Se orienta como Ictus (TACI) ACM D por probable mecanismo hemodinamico en contexto de estenosis ACI D, se mantiene doble antiagregación (ya previamente pautada por ictus reciente en marzo 2017) y se decide ingreso en Unidad de Ictus para vigilancia.
+
+Durante su estancia en la Unidad la paciente se ha mantenido estable clínicamente. Ha sido valorada por Oncología que ha recomendado por el momento diferir inclusión en nuevo ensayo clínico. Ingresa posteriormente en planta convencional de hospitalización para iniciar rehabilitación en gimnasio, que realiza con buena tolerancia. Como incidencia presenta episodios de desorientación. Ante buena evolución clínica con mejoría del deficit neurologico (NIHSS 7 a expensa de paresia 2/5 en ESI y POC D), ausencia de complicaciones ni otras incidencias, se decide traslado a _SS_ para convalescencia y rehabilitación.
+
+mRs al alta: 3 NIHSS al alta: 7
+
+
+DIAGNÒSTICS
+-TACI ACM D por probable mecanismo hemodinamico en contexto de estenosis ACI D
+-Estenosis moderada/severa de origen de ACI derecha y ateromatosis severa de ACI intracavernosa
+
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+-Se adjunta
+
+
+CONTROL
+-Control por Oncología según programación privada (seguimiento en _SS_)
+-Control por facultativos habituales (Neurología)
+
+DESTINACIÓ A L'ALTA:	SOCI SANITARI
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+27.07.2017
+Pàgina 1 de 3

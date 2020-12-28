@@ -1,0 +1,37 @@
+T1	Fecha_de_alta 15 25	08-02-2018
+#1	AnnotatorNotes T1	2018-02-08
+T5	Arteria_afectada 117 132	vertebrobasilar
+T6	Etiologia 146 159	indeterminada
+T7	_SUG_Ictus_isquemico 238 243	Ictus
+T8	mRankin_alta 464 469	mRS 0
+T10	Fecha_inicio_sintomas 610 622	3 de febrero
+#10	AnnotatorNotes T10	2018-02-03
+T11	Hora_inicio_sintomas 662 667	01:00
+#11	AnnotatorNotes T11	01:00
+T12	_SUG_Lateralizacion 905 914	izquierdo
+T13	_SUG_Lateralizacion 1316 1323	derecha
+T14	NIHSS_previa 1717 1724	NIHSS 1
+T15	_SUG_Arteria_afectada 1725 1728	ACP
+T16	FECHA 1918 1926	5-2-2018
+#16	AnnotatorNotes T16	2018-02-05
+T18	TAC_craneal 2175 2186	TAC craneal
+T19	_SUG_Lateralizacion 2302 2311	izquierda
+T20	_SUG_Ictus_isquemico 2337 2344	infarto
+T22	_SUG_Localizacion 2441 2452	ventricular
+T23	_SUG_Arteria_afectada 2649 2669	arterias vertebrales
+T25	_SUG_Lateralizacion 3148 3153	Dieta
+T26	Tratamiento_antiagregante_alta 3273 3295	Ácido acetilsalicílico
+T27	_SUG_Ictus_isquemico 3737 3742	ictus
+T28	SECCION_DIAGNOSTICOS 27 39	Diagnosticos
+T29	SECCION_PROCEDIMIENTOS 163 177	Procedimientos
+T30	SECCION_MOTIVO_DE_INGRESO 273 290	Motivo de ingreso
+T31	SECCION_ANTECEDENTES_PATOLOGICOS 402 422	Antecedentes Médicos
+T32	SECCION_EXPLORACION_FISICA 1008 1019	Exploración
+T33	SECCION_EXPLORACIONES_COMPLEMENTARIAS 2092 2126	Resultados pruebas complementarias
+T34	SECCION_EVOLUCION 2807 2829	Evolución Hospitalaria
+T35	SECCION_TRATAMIENTO_Y_RECOMENDACIONES_AL_ALTA 3108 3145	Recomendaciones y tratamiento al alta
+#3	AnnotatorNotes T8	0
+T4	SECCION_PROCESO_ACTUAL 594 603	Anamnesis
+#4	AnnotatorNotes T14	1
+T2	SECCION_ANTECEDENTES_QUIRURGICOS 522 524	IQ
+T3	Ictus_isquemico 77 93	infarto cerebral

@@ -1,0 +1,83 @@
+T0	_SUG_Lateralizacion 0 1	I
+T1	FECHA 315 325	14.07.2017
+#1	AnnotatorNotes T1	2017-07-14
+T2	HORA 388 393	06:47
+#2	AnnotatorNotes T2	06:47
+T3	SECCION_TIPO_DE_INGRESO 402 427	Tipo ingreso/Tipus ingrés
+T4	SECCION_DIAGNOSTICOS 469 473	Diag
+T5	_SUG_Lateralizacion 501 504	IZQ
+T6	_SUG_Etiologia 515 522	LACUNAR
+T7	_SUG_Localizacion 515 522	LACUNAR
+T8	SECCION_PROCEDIMIENTOS 569 573	Proc
+T9	_SUG_TAC_craneal 647 649	TC
+T10	_SUG_Trombolisis_intravenosa 662 678	FIBRINOLISIS CON
+T11	_SUG_Trombolisis_intravenosa 679 683	RTPA
+T12	SECCION_MOTIVO_DE_INGRESO 786 824	Motivo de consulta / Motiu de consulta
+T13	_SUG_Lateralizacion 851 861	izquierdas
+T14	SECCION_ANTECEDENTES 864 926	Antecedentes e historia previa / Antecedents i història prèvia
+T15	_SUG_mRankin 1062 1067	mRS 0
+T16	SECCION_ANTECEDENTES_PATOLOGICOS 1072 1096	ANTECEDENTES PATOLÓGICOS
+T17	FECHA 1182 1192	enero 2016
+#17	AnnotatorNotes T17	2016-01-UNDEF-day
+T18	SECCION_TRATAMIENTO_HABITUAL 1220 1239	MEDICACIÓN HABITUAL
+T19	SECCION_PROCESO_ACTUAL 1263 1293	Proceso actual / Procés actual
+T20	HORA 1341 1346	01.00
+#20	AnnotatorNotes T20	01:00
+T21	FECHA 1352 1357	14/07
+#21	AnnotatorNotes T21	2016-07-14
+T22	HORA 1365 1370	04.00
+#22	AnnotatorNotes T22	04:00
+T23	_SUG_Lateralizacion 1399 1400	e
+T24	_SUG_Lateralizacion 1429 1439	izquierdas
+T25	SECCION_PROCESO_ACTUAL 5772 5778	Episod
+T26	_SUG_Lateralizacion 5910 5915	drets
+T27	SECCION_EXPLORACION_FISICA 1558 1596	Exploración física / Exploració física
+T28	FECHA 1597 1607	14/07/2017
+#28	AnnotatorNotes T28	2017-07-14
+T29	HORA 1608 1613	07:00
+#29	AnnotatorNotes T29	07:00
+T30	FECHA 1948 1951	3/5
+#30	AnnotatorNotes T30	2017-05-03
+T31	_SUG_NIHSS 1990 1997	NIHSS 3
+T32	_SUG_TAC_craneal 2382 2384	TC
+T33	_SUG_TAC_craneal 2399 2409	TC CRANEAL
+T34	_SUG_ASPECTS 2464 2474	ASPECTS 10
+T35	_SUG_TAC_craneal 2478 2480	TC
+T36	_SUG_Lateralizacion 2602 2603	E
+T37	_SUG_Etiologia 2642 2654	ateromatosis
+T38	_SUG_Arteria_afectada 2670 2687	Arteria vertebral
+T39	_SUG_Lateralizacion 2688 2697	izquierda
+T40	_SUG_Ictus_isquemico 2773 2792	infartos isquemicos
+T41	_SUG_Localizacion 2858 2869	subcortical
+T42	SECCION_EXPLORACIONES_COMPLEMENTARIAS 2936 2996	Exploraciones complementarias / Exploracions complementàries
+T43	_SUG_Etiologia 3081 3095	cardioembólica
+T44	SECCION_EVOLUCION 3098 3118	Evolución / Evolució
+T45	_SUG_Lateralizacion 3155 3164	IZQUIERDO
+T46	_SUG_Etiologia 3191 3201	hipertensa
+T47	_SUG_Lateralizacion 3291 3300	izquierdo
+T48	_SUG_NIHSS 3307 3315	NIHSS: 3
+T49	_SUG_TAC_craneal 3432 3434	TC
+T50	_SUG_Hemorragia_cerebral 3483 3494	hemorrágica
+T51	_SUG_Ictus_isquemico 3608 3613	ictus
+T52	_SUG_Etiologia 3683 3697	cardioembólica
+T53	_SUG_Lateralizacion 3747 3756	izquierdo
+T54	_SUG_Ictus_isquemico 3766 3771	ictus
+T55	_SUG_Etiologia 3772 3779	lacunar
+T56	_SUG_Localizacion 3772 3779	lacunar
+T57	_SUG_Trombolisis_intravenosa 3935 3951	fibrinolisis con
+T58	_SUG_Trombolisis_intravenosa 3973 3977	rtPA
+T59	_SUG_Tratamiento_antiagregante 4142 4164	ácido acetilsalicílico
+T60	_SUG_Ictus_isquemico 4202 4207	ictus
+T61	SECCION_EXPLORACION_FISICA_AL_ALTA 4412 4419	Al alta
+T62	_SUG_NIHSS 4421 4429	NIHSS: 0
+T63	_SUG_Etiologia 4440 4447	lacunar
+T64	_SUG_Localizacion 4440 4447	lacunar
+T65	_SUG_mRankin 4466 4472	mRS: 0
+T66	SECCION_TRATAMIENTO_AL_ALTA 4828 4861	Plan terapéutico / Pla terapèutic
+T67	_SUG_Tratamiento_antiagregante 4864 4886	Ácido acetilsalicílico
+T68	SECCION_RECOMENDACIONES 4980 5001	Otras recomendaciones
+T69	FECHA 5440 5450	15.07.2017
+#69	AnnotatorNotes T69	2017-07-15
+T70	HORA 5465 5470	12:57
+#70	AnnotatorNotes T70	12:57
+T71	_SUG_Lateralizacion 5621 5629	derechos

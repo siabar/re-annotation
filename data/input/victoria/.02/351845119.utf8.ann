@@ -1,0 +1,104 @@
+T1	Hora_de_alta 315 320	14:21
+#1	AnnotatorNotes T1	14:21
+T2	Fecha_de_alta 324 334	22.03.2017
+#2	AnnotatorNotes T2	2017-03-22
+T3	Fecha_de_ingreso 426 436	19.03.2017
+#3	AnnotatorNotes T3	2017-03-19
+T4	_SUG_Ictus_isquemico 505 510	Ictus
+T6	mRankin_previa 714 722	Rankin 0
+T7	_SUG_Etiologia 749 760	Hipertensió
+T9	Fecha_inicio_sintomas 1473 1483	18/03/2017
+#9	AnnotatorNotes T9	2017-03-18
+T11	_SUG_TAC_craneal 1805 1815	TC cranial
+T12	_SUG_Ataque_isquemico_transitorio 1871 1874	AIT
+T13	_SUG_Ictus_isquemico 1947 1952	ictus
+T15	NIHSS_previa 2277 2284	NIHSS 0
+T17	TAC_craneal 2772 2782	TC cranial
+T18	Fecha_TAC_inicial 2784 2794	18/03/2017
+#18	AnnotatorNotes T18	2017-03-18
+T19	_SUG_TAC_craneal 2810 2812	TC
+T20	_SUG_Localizacion 3101 3112	ventricular
+T21	_SUG_Localizacion 3137 3146	corticals
+T22	_SUG_Arteria_afectada 3568 3571	ACC
+T23	_SUG_Localizacion 3625 3634	posterior
+T24	_SUG_Localizacion 3722 3731	posterior
+T25	_SUG_Arteria_afectada 3733 3736	ACI
+T26	_SUG_TAC_craneal 3822 3824	TC
+T27	_SUG_Arteria_afectada 3873 3876	ACM
+T28	_SUG_Arteria_afectada 3880 3883	ACA
+T29	_SUG_Arteria_afectada 3887 3890	ACP
+T30	_SUG_Arteria_afectada 4328 4331	ACC
+T31	_SUG_Arteria_afectada 4651 4654	ACP
+T32	_SUG_Lateralizacion 4655 4662	derecha
+T33	_SUG_Arteria_afectada 4727 4729	AB
+T34	_SUG_Localizacion 4964 4972	cortical
+T35	_SUG_Localizacion 4981 4988	frontal
+T36	_SUG_Localizacion 4991 4999	temporal
+T37	_SUG_Lateralizacion 5019 5026	derecho
+T38	_SUG_Localizacion 5123 5131	parietal
+T39	_SUG_Lateralizacion 5132 5141	izquierdo
+T40	_SUG_Localizacion 5152 5160	cortical
+T41	_SUG_Localizacion 5161 5170	posterior
+T42	_SUG_Lateralizacion 5171 5180	izquierda
+T43	_SUG_Localizacion 5183 5198	Infarto lacunar
+T44	_SUG_Localizacion 5239 5245	tálamo
+T45	_SUG_Lateralizacion 5246 5255	izquierdo
+T46	_SUG_Localizacion 5489 5500	ventricular
+T47	_SUG_Localizacion 5540 5549	posterior
+T48	_SUG_Arteria_afectada 5633 5659	arterias carótidas comunes
+T49	_SUG_Arteria_afectada 5689 5704	arteria basilar
+T50	_SUG_Arteria_afectada 5863 5866	ACM
+T51	_SUG_Lateralizacion 5867 5874	derecha
+T52	_SUG_Localizacion 5897 5905	cortical
+T53	_SUG_Localizacion 5906 5915	posterior
+T54	_SUG_Etiologia 5947 5961	cardioembólica
+T55	_SUG_Localizacion 6063 6080	Infarto lacunares
+T56	_SUG_Localizacion 6122 6128	tálamo
+T57	_SUG_Lateralizacion 6129 6138	izquierdo
+T59	_SUG_Ictus_isquemico 6188 6202	ictus isquèmic
+T60	_SUG_Arteria_afectada 6235 6238	ACI
+T61	_SUG_Localizacion 6843 6849	troncs
+T62	_SUG_Localizacion 7062 7070	cortical
+T63	_SUG_Localizacion 7071 7080	posterior
+T65	_SUG_Ictus_isquemico 7170 7184	ictus isquèmic
+T66	_SUG_Etiologia 7228 7241	indeterminada
+T67	NIHSS_alta 7561 7569	NIHSS: 1
+T69	mRankin_alta 7570 7579	Rankin: 0
+T72	Ictus_isquemico 7613 7627	Ictus isquèmic
+T73	Arteria_afectada 7628 7631	ACM
+T74	Etiologia 7675 7688	indeterminada
+T75	_SUG_Etiologia 7696 7707	Hipertensió
+T76	_SUG_TAC_craneal 7801 7803	TC
+T78	Tratamiento_antiagregante_alta 8166 8171	Adiro
+T80	_SUG_Localizacion 8632 8638	troncs
+T81	FECHA 8667 8675	22/06/17
+#81	AnnotatorNotes T81	2017-06-22
+T82	HORA 8682 8687	13:30
+#82	AnnotatorNotes T82	13:30
+T83	FECHA 8767 8777	22.03.2017
+#83	AnnotatorNotes T83	2017-03-22
+T84	SECCION_MOTIVO_DE_INGRESO 490 504	MOTIU D'INGRÉS
+T85	SECCION_ANTECEDENTES 572 583	ANTECEDENTS
+T87	SECCION_ANTECEDENTES_PATOLOGICOS 724 746	ANTECEDENTS PATOLÒGICS
+T88	SECCION_ANTECEDENTES_QUIRURGICOS 1168 1190	ANTECEDENTS QUIRÚRGICS
+T89	SECCION_TRATAMIENTO_HABITUAL 1281 1299	MEDICACIÓ HABITUAL
+T90	SECCION_PROCESO_ACTUAL 1392 1405	PROCÉS ACTUAL
+T91	SECCION_EXPLORACION_FISICA 1979 1996	EXPLORACIÓ FÍSICA
+T92	SECCION_EXPLORACIONES_COMPLEMENTARIAS 2323 2348	EXPLORACIÓ COMPLEMENTÀRIA
+T93	SECCION_EVOLUCION 6141 6157	EVOLUCIÓ CLÍNICA
+T94	SECCION_DIAGNOSTICOS 7595 7606	DIAGNÒSTICS
+T95	SECCION_PROCEDIMIENTOS 7788 7800	PROCEDIMENTS
+T96	SECCION_TRATAMIENTO_Y_RECOMENDACIONES_AL_ALTA 7839 7874	TRACTAMENT I RECOMANACIONS A L'ALTA
+T97	SECCION_CONTROL 8360 8367	CONTROL
+T8	SECCION_ANTECEDENTES_PERSONALES 584 605	ANTECEDENTS PERSONALS
+#4	AnnotatorNotes T6	0
+T5	SECCION_TRATAMIENTO_AL_ALTA 8104 8127	Tractament farmacològic
+T10	SECCION_DESTINO_AL_ALTA 8694 8713	DESTINACIÓ A L'ALTA
+T16	Hora_inicio_sintomas 1494 1496	17
+T58	SECCION_EXPLORACION_FISICA_EN_URGENCIAS 1998 2009	A urgències
+#5	AnnotatorNotes T15	0
+T14	Fecha_llegada_hospital 1473 1483	18/03/2017
+T64	Lateralizacion 7632 7641	bilateral
+#6	AnnotatorNotes T67	1
+#7	AnnotatorNotes T69	0
+T68	Etiologia 7655 7662	embòlic

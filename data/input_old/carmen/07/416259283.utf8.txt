@@ -1,0 +1,135 @@
+_LOCATION_
+email: _CONTACT_ Telèfon _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 64 Anys
+NIF/DNI: _ID__NAME_; _NAME_; _NAME_;; 
+_NAME_
+Informe d'alta d'hospitalització
+16:00:00
+15.09.2017
+_LOCATION_
+_SS_ NEUROLOGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_; _CONTACT_
+DOMICIL/RES.SOC 13.09.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Mujer de 64 años derivada como Código ictus
+
+ANTECEDENTS
+Sin alergias medicamentosas conocidas Sin hábitos toxicos
+
+Antecedentes Patologicos
+-HTA en tratamiento farmacolofico
+-Fibromialgia
+-Insuficiencia Mitral ligera evidencia en ETT de control, sin seguimiento por cardiología.
+-Desprendimiento de retina
+-Varices en EEII. Refiere multiples intervenciones. Niega TVP
+-Diverticulosis
+
+IQ: Colecistectomía; Histerectomía+anexectomia unilateral. Situación sociofuncional: mRs 0
+MEDICACIÓ HABITUAL
+Levosulpirida  25mg  2cp/24h;  Omeprazol  20mg  1cp/24h;  Ramipril/Hidrocloritiazida  5/25mg  1cp/24h;  Zaldiar 37.5/325mg c/8h, Rifaximina 200mg SP
+
+
+PROCÉS ACTUAL
+Comenta que el día 12/09 a los pocos minutos de haberse despertado, estando aún en la cama, intentando incorporarse ha presentado paresia de hemicuerpo derecho asociada a hemihipoestesia derecha. Refiere que los sintomas motores han remitido en 15-20 minutos. Acude a CAP, donde ya no se objetiva déficit motor, pero sí refiere persistencia de hipoestsia derecha. Niega otra focalidad neurologica, fiebre. Refiere desde hace tiempo palpitaciones frecuentes. No dolor toracico. Niega otras intercurrencias. Se activa codigo ictus el día 12/09 a las
+10.25 desde CAP. Llegada a nuestro centro a las 10.55
+
+EXPLORACIÓ FÍSICA
+
+EXP. FÍSICA EN URG
+TA: 104/71 mmHg; FC de 74 lpm
+NRL: Vigil, LOC Q 2/2, LOC C 2/2, no POC/DOC, no HH, no alteraciones del lenguaje ni del habla. No PFSN. Miller-Fisher D (+1), resto de balance motor conservado. Refiere hemihipoestesia D (1). No dismetrias D-N. NIHSS 1+1
+
+Informe d'alta d'hospitalització
+
+
+
+
+EXPL FÍSICA EN UI
+TA: 121/78 mmHg; FC de  82 lpm, T: 36.7ºC
+NRL: Vigil, LOC Q 2/2, LOC C 2/2, no POC/DOC, no HH, no alteraciones del lenguaje ni del habla. No PFSN. Balance motor conservado en cuatro extremidades. No déficit en sensibilidad tactil superficial. No dismetrias D-N. NIHSS 0
+
+EXPL FÍSICA EN PLANTA DE NEUROLOGÍA
+TA: 101/71 mmHg. FC: 101 lpm. Tª: 36.5 Cº . SatO2: 98%.
+Hemodinamicamente estable, eupneica sin signos de disnea, normohidratada. Cardiologíco: No se observan edemas periféricos, ni injurgitación yugular. A la auscultación tonos cardiacos regulares, taquicardicos, se ausculta soplo sistólico de intensidad 3/6 de predominio en foco mitral, que se irradia a otros focos. Auscultación pulmonar: Murmullo vesicular conservado en ambas bases. Abdomen: RHA normoactivos, blando, depresible e indoloro a la palpación profunda y superficial. Neurológico: Vigil, orientada en las tres esferas, obedece órdenes simples y complejas. Campos visuales conservados a la campimetría por confrontación, oculomotricidad conservada, pares craneales del V al XII sin cambios. Balance motor: 5/5 en las 4 extremidades. Sensibilidad sin alteraciones, no ataxia. Marcha conservada. NIHSS: 0
+
+EXPLORACIÓ COMPLEMENTÀRIA
+URGENCIAS
+-Analitica de urgencias: Hb 13.9 g/dL; VCM 89.9 fL; HCM 29.2 pg; Leucòcits 6120 (Neutròfils 4300, Limfòcits 1400); Plaquetas 222.000; TQ 113%; INR 0.93; Glu 83; Urea 40; Creatinina 0.77 mg/dL; FG 82 ml/min/1,73 m2;
+Na 138.2; K 4.23; Ca 9.8; AST 36; ALT 19; Proteina 7.9;
+-ECG: RS a 75 lpm. QRS estrecho. Sin alteraciones agudas de la repolarización
+-TC simple: Estudio urgente sin lesiones agudas valorables. Múltiples pequeños focos de desmielinización afectan la sustancia blanca subcortical y periventricular de ambos hemisferios cerebrales, sugestivos de tener un origen hipoxicoisquémico crónico.
+-Doppler TSA/TC: DTSA: sin placas ni estenosis en carotidas ni vertebrales. DTC: mala ventana transtemporal que mejora levemente tras administración de contraste. No s detectan estenosis intracraneales. Flujo conservado sin estenosis AV y AB.
+
+UI
+-Analitica de ingreso: Hb 15.3 g/dl, resto del hemograma normal. VSG: 43 mm/h. Resto de bioquímica sanguínea dentro de parámetros normales. TSH discretamente baja 0.434 mU/L., T4 normal. Autoinmunidad pendiente. Adjuntamos resultados.
+-RM cerebral: Infarto subagudo precoz que afecta el territorio perforante de la circulación anterior izquierda. Resto del paréquima cerebral con múltiples focos de desmilinización que afectan en grado moderado la sustancia blanca, de probable origen hipoxico crónico.
+-Ecoscan: Ventriculo izquierdo de aspecto no hipetrófico. Fracción de eyección aparentemente conservada por valoración visual. No alteraciones segmentarias de la contractilidad. Auricula izquierda de aspecto no dilatado. Insuf mitral significativas. No se observan imagenes sugestivas de trombo intrauricular ni ventricular. No se detectan placas de ateroma significativas en arco aórtico.
+-Estudio shunt: Se realiza estudio de foramen oval permeable con suero salino agitado que muestra paso de más de 10 burbujas en valsalva y ninguna en reposo.
+-Telemetria 48h: Ritmo de base entre 80-100. Taquicardia sinusal interminte, entre 100-110 lpm, alguna extrasístole ventricular.
+
+Informe d'alta d'hospitalització
+
+
+
+EVOLUCIÓ CLÍNICA
+A su llegada paciente hemodinamicamente estable con hemihipoestesia derecha residual (NIHSS 1) y la remisión de la clinica motora. Se orienta como probable sindrome hemimotor/hemisensitivo y se realiza TC craneal simple a las 12.16, que no evidencia lesiones agudas. Se realiza Doppler TSA/TC que no objetiva estenosis significativas. Se pauta profilaxis secundaria con AAS + Atorvastatina a altas dosis. Reinterrogando la paciente que refiere  clinica en domicilio de plejía de hemicuerpo derecho, no pudiendose descartar PACI hemisferico izquierdo, se decide ingreso para completar estudio y control evolutivo.
+
+En la unidad de ictus la paciente se mantiene asintomatica (NIHSS 0), se solicita RM encefalica, se mantiene con telemetría cardiaca y considerando la edad de la paciente y únicamente de HTA, como FdR CV, se se decide realiza estudio shunt que resulta positivo trás Valsalva y realizar analitica completa con autoinmunidad. Se realiza Ecoscan que muestra insuficiencia mitral significativa y RM cerebral que muestra infarto subagudo precoz que afecta el territorio perforante de la circulación anterior izquierda. Resto del paréquima cerebral con múltiples focos de desmilinización que afectan en grado moderado la sustancia blanca, de probable origen hipoxico crónico. En la telemetría 48 horas durante el ingreso no se detectan arritmias potencialmente embolígenas, si episodios de taquicardia sinual asintomática, por ello se deriva a Cardiología para valoración.
+
+Tras estabilidad clínica y hemodinámica, se  decide alta hospitalaria con antiagregación y estatinas a dosis plenas, con control estricto de FRCV.
+-NIHSS al alta 0
+-mRs al alta 1
+
+
+
+DIAGNÒSTICS
+Infarto territorio perforante de la circulación anterior izquierda (LACI) de etiología microangiopática. Taquicardiasinual
+
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+-	Dieta sin sal. Ejercicio físico que tolere.
+
+-	Adiro 100 mg cada 24 horas
+-	Atorvastatina 80 mg cada 24 horas
+
+-	Resto	de	tratamiento	sin	cambios:	Levosulpirida	25mg	2cp/24h;	Omeprazol	20mg	1cp/24h; Ramipril/Hidrocloritiazida 5/25mg 1cp/24h; Zaldiar 37.5/325mg c/8h, Rifaximina 200mg SP
+
+
+
+CONTROL
+-	Control estricto de FRCV por MAP
+
+-	Visita control en las consultas externas de Neurovascular  el día 7/3/2018 a las 10:00h en la 3ªplanta anexos del _SS_.
+-	
+Informe d'alta d'hospitalització
+
+
+
+
+
+-	Será avisada por correo y/o telefónicamente para visita de valoración en consultas de Cardiología del _SS_.
+
+
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+15.09.2017
+Pàgina 1 de 4

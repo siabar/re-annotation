@@ -1,0 +1,56 @@
+T0	FECHA 323 333	10.12.2017
+#0	AnnotatorNotes T0	2017-12-10
+T1	HORA 334 339	00:50
+#1	AnnotatorNotes T1	00:50
+T2	FECHA 391 401	07.12.2017
+#2	AnnotatorNotes T2	2017-12-07
+T3	SECCION_ANTECEDENTES 457 468	ANTECEDENTS
+T4	SECCION_ANTECEDENTES_PERSONALES 507 529	Antecedenes personales
+T5	SECCION_TRATAMIENTO_HABITUAL 621 639	MEDICACIÓ HABITUAL
+T6	SECCION_EXPLORACIONES_COMPLEMENTARIAS 839 864	EXPLORACIÓ COMPLEMENTÀRIA
+T7	_SUG_Lateralizacion 936 937	E
+T8	_SUG_TAC_craneal 1184 1194	TC craneal
+T9	_SUG_Localizacion 1205 1210	lobar
+T10	_SUG_Localizacion 1211 1218	frontal
+T11	_SUG_Lateralizacion 1219 1228	izquierdo
+T12	_SUG_Localizacion 1239 1249	ventriculo
+T13	SECCION_EVOLUCION 1274 1290	EVOLUCIÓ CLÍNICA
+T14	_SUG_Lateralizacion 1559 1568	bilateral
+T15	_SUG_Lateralizacion 1641 1648	derecha
+T16	_SUG_mRankin 1770 1779	mRankin 2
+T17	FECHA 1785 1789	7/12
+#17	AnnotatorNotes T17	2017-12-07
+T18	HORA 1796 1801	05.30
+#18	AnnotatorNotes T18	05:30
+T19	HORA 1934 1939	11.10
+#19	AnnotatorNotes T19	11:10
+T20	_SUG_Lateralizacion 2055 2062	derecha
+T21	HORA 2103 2108	11.49
+#21	AnnotatorNotes T21	11:49
+T22	HORA 2179 2184	12.05
+#22	AnnotatorNotes T22	12:05
+T23	_SUG_Lateralizacion 2382 2389	derecha
+T24	_SUG_Lateralizacion 2455 2462	derecho
+T25	_SUG_Lateralizacion 2471 2480	izquierdo
+T26	_SUG_NIHSS 2482 2490	NIHSS 18
+T27	_SUG_TAC_craneal 2492 2502	TC craneal
+T28	HORA 2503 2508	12.30
+#28	AnnotatorNotes T28	12:30
+T29	_SUG_TAC_craneal 2543 2553	TC craneal
+T30	_SUG_Localizacion 2564 2569	lobar
+T31	_SUG_Localizacion 2570 2577	frontal
+T32	_SUG_Lateralizacion 2578 2587	izquierdo
+T33	_SUG_Localizacion 2598 2608	ventriculo
+T34	_SUG_TAC_craneal 2849 2851	TC
+T35	_SUG_Localizacion 2944 2949	lobar
+T36	_SUG_Localizacion 2950 2957	frontal
+T37	_SUG_Lateralizacion 2958 2967	izquierdo
+T38	_SUG_TAC_craneal 3407 3417	TC craneal
+T39	_SUG_Lateralizacion 3846 3847	D
+T40	_SUG_Lateralizacion 3859 3868	izquierdo
+T41	FECHA 4210 4225	10 de diciembre
+#41	AnnotatorNotes T41	2017-12-10
+T42	SECCION_DIAGNOSTICOS 4240 4262	ORIENTACIÓ DIAGNÒSTICA
+T43	_SUG_Hemorragia_cerebral 4263 4273	Hemorragia
+T44	FECHA 4415 4425	27.12.2017
+#44	AnnotatorNotes T44	2017-12-27

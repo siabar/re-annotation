@@ -1,0 +1,83 @@
+T1	_SUG_Lateralizacion 0 1	I
+T3	Fecha_de_ingreso 315 325	20.03.2017
+#3	AnnotatorNotes T3	2017-03-20
+T4	HORA 384 389	19:34
+#4	AnnotatorNotes T4	19:34
+T6	_SUG_Ictus_isquemico 493 508	ICTUS ISQUÉMICO
+T8	_SUG_TAC_craneal 577 587	TC CRANEAL
+T13	Fecha_llegada_hospital 1803 1813	20.03.2017
+#13	AnnotatorNotes T13	2017-03-20
+T14	_SUG_Ictus_isquemico 1904 1909	ictus
+T15	FECHA 1962 1972	20/03/2017
+#15	AnnotatorNotes T15	2017-03-20
+T16	HORA 1973 1978	20:00
+#16	AnnotatorNotes T16	20:00
+T17	FECHA 2073 2083	20/03/2017
+#17	AnnotatorNotes T17	2017-03-20
+T18	HORA 2084 2089	22:00
+#18	AnnotatorNotes T18	22:00
+T19	FECHA 2117 2127	21/03/2017
+#19	AnnotatorNotes T19	2017-03-21
+T20	HORA 2128 2133	13:30
+#20	AnnotatorNotes T20	13:30
+T21	_SUG_Lateralizacion 2540 2547	derecha
+T23	NIHSS_previa 2685 2693	NIHSS: 8
+T24	_SUG_Arteria_afectada 2940 2943	ACM
+T25	_SUG_Lateralizacion 2944 2953	izquierda
+T26	_SUG_Localizacion 3011 3019	temporal
+T27	_SUG_Localizacion 3020 3029	posterior
+T28	_SUG_Localizacion 3145 3155	lenticular
+T29	_SUG_Localizacion 3171 3178	caudado
+T30	_SUG_Lateralizacion 3179 3189	izquierdos
+T31	_SUG_Localizacion 3191 3206	Infarto lacunar
+T32	_SUG_Lateralizacion 3239 3246	derecha
+T33	_SUG_Lateralizacion 3290 3299	izquierdo
+T34	_SUG_Arteria_afectada 3424 3427	ACP
+T35	_SUG_Lateralizacion 3428 3435	derecha
+T36	_SUG_Lateralizacion 3469 3476	derecho
+T37	_SUG_Arteria_afectada 3554 3556	M1
+T38	_SUG_Etiologia 3943 3954	Hipertensió
+T40	Ictus_isquemico 4048 4063	ICTUS ISQUÉMICO
+T42	Arteria_afectada 4084 4106	ARTERIA CEREBRAL MEDIA
+T43	Lateralizacion 4107 4116	IZQUIERDA
+T44	_SUG_Localizacion 4184 4199	INTRAVENTRICUAR
+T45	_SUG_Ictus_isquemico 4230 4235	ictus
+T46	_SUG_NIHSS_alta 4431 4439	NIHSS: 9
+T47	_SUG_NIHSS_previa 4431 4439	NIHSS: 9
+T48	TAC_craneal 4524 4526	TC
+T49	ASPECTS 4631 4640	ASPECTS 6
+T51	_SUG_Ictus_isquemico 4746 4761	ictus isquémcio
+T53	_SUG_Tratamiento_antiagregante_alta 4828 4831	AAS
+T54	_SUG_Tratamiento_antiagregante_hab 4828 4831	AAS
+T55	_SUG_Tratamiento_anticoagulante_alta 5120 5128	heparina
+T56	_SUG_Tratamiento_anticoagulante_hab 5120 5128	heparina
+T57	_SUG_Localizacion 5143 5152	posterior
+T58	_SUG_Tratamiento_anticoagulante_alta 5158 5165	sintrom
+T59	_SUG_Tratamiento_anticoagulante_hab 5158 5165	sintrom
+T60	Etiologia 5711 5725	cardioembólico
+T61	mRankin_alta 5728 5734	mRS: 3
+T63	Tratamiento_anticoagulante_alta 7015 7022	Sintrom
+T67	Fecha_de_alta 7811 7821	31.03.2017
+#67	AnnotatorNotes T67	2017-03-31
+T68	Hora_de_alta 7836 7841	16:33
+#68	AnnotatorNotes T68	16:33
+T69	SECCION_TIPO_DE_INGRESO 421 446	Tipo ingreso/Tipus ingrés
+T70	SECCION_MOTIVO_DE_INGRESO 727 765	Motivo de consulta / Motiu de consulta
+T71	SECCION_ANTECEDENTES 806 868	Antecedentes e historia previa / Antecedents i història prèvia
+T74	SECCION_PROCESO_ACTUAL 1748 1778	Proceso actual / Procés actual
+T75	SECCION_EXPLORACION_FISICA 1923 1961	Exploración física / Exploració física
+T76	SECCION_EXPLORACIONES_COMPLEMENTARIAS 3559 3619	Exploraciones complementarias / Exploracions complementàries
+T77	SECCION_EVOLUCION 4023 4043	Evolución / Evolució
+T2	SECCION_DIAGNOSTICOS 486 490	Diag
+T5	SECCION_PROCEDIMIENTOS 547 551	Proc
+T7	SECCION_ANTECEDENTES_PERSONALES 872 895	ANTECEDENTES PERSONALES
+T9	SECCION_TRATAMIENTO_HABITUAL 1442 1469	TRATAMIENTO MÉDICO HABITUAL
+T10	SECCION_RECOMENDACIONES 7360 7404	Otras recomendaciones / Altres recomanacions
+T11	Fecha_inicio_sintomas 1803 1813	20.03.2017
+#1	AnnotatorNotes T23	8
+#2	AnnotatorNotes T49	6
+T12	NIHSS_alta 5695 5701	NIH: 7
+#5	AnnotatorNotes T12	7
+#6	AnnotatorNotes T61	3
+T22	SECCION_TRATAMIENTO_AL_ALTA 5736 5769	Plan terapéutico / Pla terapèutic
+T39	SECCION_MOTIVO_DEL_ALTA 455 472	Motivo/Motiu alta

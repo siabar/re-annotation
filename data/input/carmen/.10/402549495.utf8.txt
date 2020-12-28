@@ -1,0 +1,138 @@
+_LOCATION_
+email: _CONTACT_ Telèfon _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 87 Anys
+NIF/DNI: _ID__NAME_; _NAME_, _NAME_;
+_NAME_
+Informe d'alta d'hospitalització
+15:42:43
+23.08.2017
+_LOCATION_
+_SS_ UNITAT D'ICTUS
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_; _CONTACT_; _CONTACT_; DOMICIL/RES.SOC
+19.08.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Varón de 87 años que ingresa por sospecha de Ictus
+
+ANTECEDENTS
+-Sin alergias medicamentosas conocidas
+-Exfumador
+
+ANTECEDENTES PATOLÓGICOS
+-Hipertensión arterial actualmente sin tratamiento farmacológico.
+-Disfibrinogenemia congénita, detectada por estudio familiar, no ha presentado eventos trombóticos.
+-Glucemia basal alterada en ayunas con una determinación de HbA1c 6.5% (no confirmada), ha realizado tratamiento con metformina, actualmente sin tratamiento.
+-Cardiopatía isquémica que debutó en 2004 en forma de IAM inferolateral Killip I. Se realizó fibrinolisis que no fue efectiva y posteriormente ACTP de rescate, con evidencia de lesiones en OM 100% y CDp 80%; se implantó un stent en la OM. En 2005 presentó un nuevo IAM inferior; una coronariografía mostró enfermedad en DA distal y CD proximal, y se implantó un stent en la CDp. En septiembre de 2012 presentó ágnor inestable sin cambios eléctricos ni movilización de enzimas de lesión micocárdica, con isquemia lateral y dudosa isquemia inferior en ecocardiografía de estrés, por lo que se realizó caronariografía que mostró enfermedad coronaria de dos vasos (DA distal 75%, 1aDx 75%, Cx ostial 90%) procediéndose a ACTP e implantación de stents convencionales en DA distal y 1aDx y ACTP simple sobre Cx ostial. Ecocardiograma en abril de 2015 mostró VI 56/35//17/9 mm, acinesia inferoposteromedial y basal. FEVI 50%. En seguimiento por Cardiología de zona, en última visita se aumentó nitroglicerina transdérmica a 15mg/día por angina CF III-IV con regular tolerancia (cefalea) y también se indicó bisoprolol a dosis bajas (1,125 mg/día) que el paciente refiere no tolerar.
+-Arteriopatía periférica, con isquemia crónica de EID. El día 12/01/2012 se realizó un bypass desde femoral superficial hasta troco arterial perimaleolar con vena safena izquierda de EID (tunelización subcutanea) con recuperación de pulso pedio y en cuerpo de bypass. Actualmente presenta un aneurisma poplíteo trombosado en EII, habiéndose decidido conducta expectante, ya que el paciente está asintomático. Seguimiento en CCEE Cirugia Vascular.
+-LLC A0 ( 6400/L linfos en último control 08/17). Diagnosticado desde 08/2014. No criterios de tratamiento en el momento actual. Sigue controles con Dr _NAME_
+-Enfermedad de Graves de más de 7 años de evolución, actualmente no realiza tratamiento.
+-Hernia abdominal epigástrica intervenida.
+-Síndrome de Lynch detectado a raíz de estudio familiar.
+-Posible toxicidad muscular por estatinas.
+-Déficit de vit B12 sin anemia
+
+Situación sociofuncional: vive con su esposa, independiente para las actividades básicas de la vida diaria, sin deterioro cognitivo, limitado por disnea. Escasa deambulación. Se ha comprado silla de rueda electrica para salir a la calle. mRs previo 3
+
+Informe d'alta d'hospitalització
+
+
+
+MEDICACIÓ HABITUAL
+Adiro 100mg c/24h; Atorvastatina 20mg c/24h; Hidroferol, Nitroderm 1/24h; Cafinitrina SP; Paracetamol 1g SP, Lorazepam 1mg 1cp/24h
+
+PROCÉS ACTUAL
+La mujer refiere que la tarde del 19/8 después de volver de pasear alrededor de las 20h ha presentado de forma súbita dificultad para la emisión del lenguaje y desviación de la comisura bucal, por lo que ha avisado a SEM que ha activado código ictus.
+*Hora de activación 20:38
+* Hora de llegada a nuestro centro: 20:19
+
+EXPLORACIÓ FÍSICA
+
+EXPL FÍSICA EN URGENCIAS
+Constantes: 165/65mmHg, 63lpm, BMT 126mg/dl, afebril
+Vigil, afasia motora severa, orientación no valorable, comprende órdenes simples (2+1+3), leve paresia facial derecha (1). Campimetría por confrontación sin déficits. Moes sin restricciones. Balance motor conservado de forma global. No dismetrías, marcha sin alteraciones. NIHSS 7
+
+EXPL FÍSICA EN UI
+TA 146/85mmHg; FC 60 lpm
+NRL: vigil, LOC Q 0/2 (2), LOC 1/2 (1), Afasia moderada mixta de predominio motor (2). No POC/DOC. HH D por amenaza (2). PFSN D (1). Tendencia a pronación de ESD (+1), resto de balance motor conservado. No aparente déficit de sensibilidad tactil superficial. No dismetrías. No extinciones ni agnosias. NIHSS 8+1
+
+
+EXPLORACIÓ COMPLEMENTÀRIA
+Analítica d'urgències: hemoglobina 13.5g/dl, hematocrito 41.8%, leucocitos 15900 (45.6%N, 47.7%L) 119000 plaquetas. TP 53%, TTPA 32s, fibrinogeno 2.68g/L. Glcuosa 166mg/dl, creatinina 0.94 mg/dl, Na 138mmol/l, K
+4.39 mmol/l
+Analítica d'ingrés (se adjunta): Destala leve trastorno de coagulación e hiperhomocisteínemia
+Electrocardiograma: ritmo sinsual a 70lpm. eje -30º, QRS0.08, PR 0.16, morfología de bloqueo de rama derecha. Múltiples extrasístoles ventriculares
+TC craneal multimodal: TC craneal que no muestra lesiones isquémicas agudas cerebrales valorables (ASPECTS 10/10) TC perfusión con área de penumbra en la región superficial del territorio vascular de la ACM izquierda. AngioTC craneal con defecto de repleción en el segmento M2 de división anterior de ACM izquierda.
+TC craneal control 24h: TC craneal que muestra lesión isquémica subaguda en territorio superficial anterior e insular de la ACM izquierda. Resto del estudio sin cambios significativos.
+Duplex TSA/TC: ACCI izquierda sin elementos móviles y que estrecha la luz del vaso un 50% aproximadamente si bien no acelera flujo a su paso. Placas calcificadas en ambas bifurcaciones con estenosis <50% y ACI izquierda tortuosa. Flujo conservado sin asimetrias en ambas ACM.
+Ecoscan: Regular ventana torácica. Ventriculo izquierdo no dilatado. Fracción de eyección deprimida subjetiva 50%. Auricula izquierda dilatada. No valvulopatias significativas. No se detectan placas de ateroma significativas en arco aórtico.
+Telemetria 72h: sin evidencia de arritmias potencialmente embolígenas tras 72h de monitorización
+
+Informe d'alta d'hospitalització
+
+
+
+
+EVOLUCIÓ CLÍNICA
+A su llegada a urgencias el paciente presenta clínica compatible con ictus PACI ACM izquierda con NIHSS 8 a expensas de afasia motora. Se realiza TC mulitmodal (21:30) que muestra una oclusión M2 distal, sin alteraciones en TC simple y una área de mismatch en la perfusión. Se administra bolus de rTPA (21:42).
+Posteriormente al incio de la perfusión de rTPA se constata TA 205/96, por lo que se administra bolus de urapidil. Se comenta con guardia de neurointervencionismo, quienes teniendo en cuenta la clínica, el estado basal y la oclusión que presenta, desestiman tratamiento intraarterial. Se cursan medidas de ictus agudo e ingresa en la unidad pendiente de completar estudio etiológico.
+
+En la Unidad de Ictus se mantiene hemodinamicamente y clinicamente estable, con persistencia de importante afasia de predominio motor. El TC craneal de control a las 24h evidencia lesión isquemica en territorio de ACM I, sin transformación hemorragica. Se revisa la neuroimagen objetivandose ateromatosis en el origen de carótida primitiva izquierda que condiciona disminución de su calibre menor 70%, por lo que se realiza ecoDoppler TSA/TC de gabinete que confirma presencia de placa heterogenea en ACC izquierda sin elementos moviles con estenosis entorno a un 50%, por lo que se decide inicio de doble antiagregación transitoria para prevención secundaria.
+Durante su estancia en la UI se realiza Ecoscan que no muestra cardiopatías embolígenas mayores y una telemetria que no detecta arritmias potencialmente embolígenas.
+Ante la estabilidad, se decide el alta hospitalaria con control en nuestras CCEE.
+
+-mRs al alta=3
+-NIHSS al alta=8
+
+DIAGNÒSTICS
+Infarto isquémico (PACI ) ACM izquierda de etiología indeterminada
+
+
+PROCEDIMENTS
+TC craneal multimodal Fibrinolisis endovenosa TC craneal
+EcoDoppler TSA/TC Telemetría cardiaca Ecoscan cardiaco
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Dieta sin sal pobre en grasas. Actividad física diaria suave
+1.	AAS 100mg 1 comp/día vo durante 3 meses
+2.	Clopidogrel 75mg 1 comp/día vo
+3.	Ranitidina 300mg 1 comp/día vo
+4.	Atorvastatina 80mg 1 comp/noche vo
+5.	Citalopram 10 mg 1 comp/día vo
+6.	Quetiapina 25mg 1 comp/noche si agitación Resto de su medicación habitual sin cambios
+1.	
+Informe d'alta d'hospitalització
+
+
+
+
+Control estricto de factores de riesgo vascular por su médico de A. Primaria y especialistas habituales
+
+
+
+CONTROL
+Se avisará telefónicamente o por carta para valoración en CCEE de Logopedia
+
+Control ecoDoppler TSA/TC en gabinete de Neurosonología (2ª planta centro)  el día 11/12/2017 a las 11:20h Control en CCEE de U. Ictus el día 13/12/2017 a las 9:00h.
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+23.08.2017
+Pàgina 1 de 4

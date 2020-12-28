@@ -1,0 +1,131 @@
+_LOCATION_
+email: _CONTACT_ Telèfon _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 46 Anys
+NIF/DNI: _ID__NAME_; _NAME_
+Informe d'alta d'hospitalització
+15:50:00
+30.12.2017
+_LOCATION_
+_SS_ NEUROLOGIA
+ABS
+Servei Data d'alta
+_CONTACT_
+DOMICIL/RES.SOC 26.12.2017
+_LOCATION_
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Mujer de 46 años que ingresa por ictus ACM izquierda
+
+ANTECEDENTS
+No alergias medicamentosas conocidas Fumadora 5cig/día
+Sobrepeso
+
+No otros antecedentes medicoquirúrgicosde interés
+
+MEDICACIÓ HABITUAL
+Niega
+
+PROCÉS ACTUAL
+Los días previos había presentado un cuadro febril orientado como bronquitis por lo que había iniciado antibioterapia, corticoides y tratamiento inhalador. El día 26/12 tras acostarse asintomática a las 15:00 horas es encontrada a las 18:30 en el suelo. Avisan a SEM que activa código ictus a las 19:11.
+* Hora de llegada 19:37
+
+EXPLORACIÓ FÍSICA
+
+URGENCIAS
+Constantes: TA: 130 / 70 mmHg; glicèmia capil·lar: 121 mg/dl
+EN:  DOC  I  (2),  HHD  (2),  Afasia  de  predominio motor, nominación  0/2,  obedece  1  orden  simple  (3+2+1), Hemiparesia F (2) B 2/5 (3) C 2/5 (3), posible hipoestesia (1)
+NIHSS total: 19
+
+UNIDAD ICTUS
+Constantes: TA: 126/65mmHg, FC 67bpm; Tª 35.4ºC
+Buen estado general. Vigi y orientada, sin alteraciones del lenguaje ni del habla. Campimetría sin déificts,MOEs sin restricciones. Leve asimetría facial, borramiento surco nasogeniano (1). Resto ppcc conservados. Balance motor conservado de forma global, sin alteraciones objetivables de la sensibilidad. No dismetrías. No extinciones ni agnosias.
+NIHSS: 1
+
+PLANTA NEUROVASCULAR:
+EN: Sin focalidad, NIHSS 0
+
+Informe d'alta d'hospitalització
+
+
+
+EXPLORACIÓ COMPLEMENTÀRIA
+URGENCIAS
+-	TC craneal multimodal urgente: Estudi urgent que no mostra alteracions intracranials agudes significatives a hemisferi esquerre (ASPECTS 10/10). A AngioTC s'objectiva un defecte de repleció a l'artèria caròtida interna esquerra extracranial, amb pas filiforme de contrast cap al segment intracranial. El segmente de pas filiforme correspon a un segment arterial hiperedens a TC simple, que plantejael D.D una dissecció carotídia probablement trombosada vs hematoma mural carotidi en el contexte clínic de la pacient. A TC perfusió s'observen allargament dels temps a tot l'hemisferi esquerre amb mismatch a tot l'hemisferi esquerre. Àpex pulmonar dret amb algunes àrees en vidre esmerilat i engruiximents bronquials, a valorar sobreinfecció/quadre actual de bronquitis conegut
+-	ECG: ritmo sinsual a 70lpm, PR 0.16, QRS 0.08, sin alteraciones agudas de la repolarización
+-	Rx tórax: marco óseo conservado, índice  cardiotorácico < 0.5, senos costofrénicos  libres,  no se observan imágenes de condensación parenquimatosa
+
+
+UNIDAD ICTUS
+-	Doppler control: Stent ACC-ACI I permeable con estenosis <50% (VPS ACC I 43.9 cm/s, ACI I 169.1 cm/s) auqnue nos e visualiza extremo distal. ACC D de características normales (VPS ACC D 63.2 cm/s, ACI D 73.1 cm/s). ACMs simétricas (ACM I VPS 88.4 cm/s, IP 0.87; ACM D VPS 76.8 cm/s, IP 0.88). Resto de estudio sin objetivarse alteraciones (no se visualiza ACP-1 I ni basilar distal).
+-	TC control + AngioTC control: TC craneal que no muestra lesiones isquémicas agudas cerebrales valorables. Permeabilidad endoluminal y distal de stents carotideos.
+-	Analítica ingreso: hemoglobina 12.5g/dl, hematocrito 38.5%, leucocitos 7600 (N68.6%, L20.7%), plaquetas 169000. TP 91%, TTPA 26.4s. VitB12 492pg/ml, ácido ´folcio 10.8ng/ml. VSG 67mm/h. Cr 0.50mg/dl. aST/ALT 15/11UI/L, GGT/FA 64/22UI/L. Coelsterol total 136mg/dl, HDLc 34mg/dl, LDLc 82mg/dl, TG 101mg/dl, homocisteina 9.8umol/l. PCR 4.93 mg/dl. TSH 1.771mU/L. Serologías negativas
+
+EVOLUCIÓ CLÍNICA
+Paciente con ictus isquémico agudo en territorio carotideo izquierdo (ACA-ACM-ACP) con estenosis preoclusiva vs oclusión carotidea. Dada la clínica de TACI (NIHSS 19) sin trendelemburg (quedando totalmente asintomática en Trendelemburg,NIHSS ) y la lesión de alto grado extracraneal, valorando riesgos/beneficios con paciente y hermano se decide tratamiento de revascularización carotideo agudo tras firmar la propia paciente consentimiento informado.
+
+Llega a sala a las 20:34h clínicamente sin cambios (NIHSS 0) y hemodinámicamente estable. TA 171/66, 71 lpm, Sat O2 100% GN. Tras punción femoral derecha a las 20:45h, en primera serie se objetiva estenosis preoclusiva de ACI D por disección (20:54h). Se realiza stenting y angioplastia sobre disección carotidea izquierda consiguiéndose recanalización de ACI I con buen relleno intracraneal sin evidencia de oclusión intracraneal. La paciente ingresa en la unidad de ictus para control evolutivo.
+
+El doppler control muestra estenosis residual < 50%, el TC control muestra permeabilidad de ambos stents caortideos, sin lesiones intracraneales. Analíticamente destaca descenso colesterol HDL, por lo que recomendamos control de factores de riesgo vascular desde atención primaria. Se solicita de cara a completar estudio 1º visita en CCEE Dermatología, así como control en CCEE Neurovascular y en situación de estabilidad clínica y hemodinámica se decide alta. En el momento del alta NIHSS 0, mRS 0
+
+Informe d'alta d'hospitalització
+
+
+
+ORIENTACIÓ DIAGNÒSTICA
+Ictus ACM I en contexto de disección carotidea izquierda
+
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Dieta baja en grasas
+Ejercicio físico moderado que tolere Abstinencia habito tabáquico
+
+Añadir a su medicación habitual:
+-	Pantoprazol 20mg, 1-0-0
+- Adiro 100mg, 0-1-0
+-	Clopidogrel 75mg, 0-1-0
+-	Atorvastatina 80mg, 0-0-1
+
+CONTROL
+Se solicita control en CCEE Neurovascular con Doppler. Le informaran telefónicamente y/o por carta con los datos de la cita
+Se solicita 1º visita en CCEE Dermatología. Le informaran con los datos de la cita. Control estrecho de factores de riesgo vascular por CAP
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+30.12.2017
+Pàgina 1 de 3

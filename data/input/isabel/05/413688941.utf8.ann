@@ -1,0 +1,103 @@
+T0	_SUG_Lateralizacion 15 16	I
+T1	_SUG_Lateralizacion 40 41	E
+T2	Fecha_de_ingreso 324 334	06.09.2017
+#2	AnnotatorNotes T2	2017-09-06
+T3	_SUG_Lateralizacion 371 372	E
+T4	HORA 393 398	23:31
+#4	AnnotatorNotes T4	23:31
+T5	SECCION_TIPO_DE_INGRESO 407 432	Tipo ingreso/Tipus ingrés
+T6	SECCION_DIAGNOSTICOS 468 473	Diag.
+T7	Hemorragia_cerebral 475 483	HEMATOMA
+T8	_SUG_Etiologia 527 539	HIPERTENSIVA
+T9	SECCION_PROCEDIMIENTOS 571 576	Proc.
+T11	SECCION_MOTIVO_DE_INGRESO 724 762	Motivo de consulta / Motiu de consulta
+T12	_SUG_Hemorragia_cerebral 763 771	HEMATOMA
+T13	_SUG_Localizacion 819 835	TETRAVENTRICULAR
+T14	SECCION_ANTECEDENTES 837 899	Antecedentes e historia previa / Antecedents i història prèvia
+T15	SECCION_ANTECEDENTES_PATOLOGICOS 1048 1072	ANTECEDENTES PATOLÓGICOS
+T16	_SUG_Etiologia 1077 1089	HIPERTENSIÓN
+T17	_SUG_Trombolisis_intravenosa 1102 1123	tratamiento con ARA-2
+T18	_SUG_Localizacion 1178 1189	ventricular
+T19	_SUG_Trombolisis_intravenosa 1222 1241	tratamiento con ADO
+T20	_SUG_TAC_craneal 1314 1316	TC
+T21	FECHA 1335 1339	2014
+#21	AnnotatorNotes T21	2014-UNDEF-month-UNDEF-day
+T22	FECHA 1399 1403	2011
+#22	AnnotatorNotes T22	2011-UNDEF-month-UNDEF-day
+T23	_SUG_Trombolisis_intravenosa 1409 1429	tratamiento con CPAP
+T24	SECCION_TRATAMIENTO_HABITUAL 1496 1515	MEDICACIÓN HABITUAL
+T25	SECCION_PROCESO_ACTUAL 1614 1644	Proceso actual / Procés actual
+T26	Fecha_inicio_sintomas 1662 1677	6 de Septiembre
+#26	AnnotatorNotes T26	2017/09/06
+T27	Hora_inicio_sintomas 1688 1689	7
+#27	AnnotatorNotes T27	07:00
+T28	_SUG_Lateralizacion 1745 1753	derechas
+T29	_SUG_Etiologia 1841 1853	hipertensión
+T30	_SUG_Lateralizacion 1994 2003	bilateral
+T31	_SUG_Lateralizacion 2038 2046	derechas
+T32	_SUG_Lateralizacion 2062 2071	izquierda
+T33	_SUG_TAC_craneal 2300 2311	TC creaneal
+T34	_SUG_Hemorragia_cerebral 2324 2332	hematoma
+T35	_SUG_Localizacion 2353 2361	profundo
+T36	_SUG_Localizacion 2365 2371	talamo
+T37	_SUG_Lateralizacion 2372 2381	izquierdo
+T38	_SUG_Localizacion 2430 2446	tetraventricular
+T39	_SUG_Localizacion 2468 2478	ventrículo
+T40	_SUG_Hemorragia_cerebral 2670 2678	hematoma
+T41	_SUG_Localizacion 2679 2687	profundo
+T42	Etiologia 2701 2713	hipertensiva
+T44	_SUG_Lateralizacion 7820 7825	drets
+T45	SECCION_EXPLORACION_FISICA 2899 2937	Exploración física / Exploració física
+T46	_SUG_Etiologia 3144 3156	hipertension
+T47	_SUG_Lateralizacion 3388 3389	I
+T48	_SUG_Lateralizacion 3390 3391	D
+T49	SECCION_EXPLORACIONES_COMPLEMENTARIAS_EN_PLANTA_DE_NEUROLOGIA 3632 3652	ANALÍTICA AL INGRESO
+T51	Fecha_TAC_inicial 4286 4296	06/09/2017
+#51	AnnotatorNotes T51	2017-09-06
+T52	_SUG_Hemorragia_cerebral 4299 4307	Hematoma
+T53	Localizacion 4308 4316	profundo
+T54	Localizacion 4419 4427	talámica
+T55	Lateralizacion 4428 4437	izquierda
+T56	_SUG_Localizacion 4491 4502	ventrículos
+T57	_SUG_Localizacion 4521 4537	tetraventricular
+T58	_SUG_Localizacion 4589 4600	ventricular
+T59	_SUG_Lateralizacion 4621 4622	e
+T60	_SUG_Localizacion 4649 4659	temporales
+T61	_SUG_Hemorragia_cerebral 4739 4747	hematoma
+T62	_SUG_Lateralizacion 4899 4906	derecha
+T63	_SUG_Lateralizacion 4963 4964	E
+T64	FECHA 4979 4989	06/09/2017
+#64	AnnotatorNotes T64	2017-09-06
+T65	_SUG_Localizacion 5031 5038	troncos
+T66	_SUG_Etiologia 5056 5068	ateromatosis
+T67	_SUG_Arteria_afectada 5142 5166	arteria carótida interna
+T68	_SUG_Etiologia 5171 5183	ateromatosis
+T69	_SUG_Arteria_afectada 5256 5280	arteria carótida interna
+T70	_SUG_Etiologia 5285 5297	ateromatosis
+T71	_SUG_Arteria_afectada 5336 5356	arterias vertebrales
+T72	_SUG_Etiologia 5361 5373	ateromatosis
+T73	_SUG_Arteria_afectada 5485 5500	vertebrobasilar
+T74	_SUG_Lateralizacion 5565 5572	derecho
+T75	_SUG_Etiologia 5574 5584	a estudiar
+T76	SECCION_EVOLUCION 5770 5790	Evolución / Evolució
+T77	_SUG_Hemorragia_cerebral 5840 5848	HEMATOMA
+T78	_SUG_Etiologia 5890 5902	HIPERTENSIVA
+T79	_SUG_Lateralizacion 6124 6133	bilateral
+T80	_SUG_Lateralizacion 6489 6498	bilateral
+T81	_SUG_Localizacion 6581 6587	tronco
+T82	Fecha_de_alta 7031 7054	8 de septiembre de 2017
+#82	AnnotatorNotes T82	2017-09-08
+T83	Hora_de_alta 7061 7066	19:00
+#83	AnnotatorNotes T83	19:00
+T84	SECCION_TRATAMIENTO_AL_ALTA 7075 7108	Plan terapéutico / Pla terapèutic
+T86	FECHA 7350 7360	08.09.2017
+#86	AnnotatorNotes T86	2017-09-08
+T87	HORA 7375 7380	19:07
+#87	AnnotatorNotes T87	19:07
+T88	_SUG_Lateralizacion 7531 7539	derechos
+T89	SECCION_MOTIVO_DEL_ALTA 441 458	Motivo/Motiu alta
+T90	Fecha_llegada_hospital 1662 1677	6 de Septiembre
+#1	AnnotatorNotes T90	2017/09/06
+T92	SECCION_RECOMENDACIONES 7122 7166	Otras recomendaciones / Altres recomanacions
+T93	Localizacion 4399 4416	capsulolenticular
+T10	TAC_craneal 591 601	TC CRANEAL

@@ -1,0 +1,47 @@
+T0	SECCION_DIAGNOSTICOS 41 53	Diagnosticos
+T1	FECHA 54 64	23/04/2018
+#1	AnnotatorNotes T1	2018-04-23
+T2	_SUG_Ictus_isquemico 73 87	ECVA ISQUÉMICO
+T3	_SUG_Arteria_afectada 102 104	VB
+T4	_SUG_Etiologia 118 131	INDETERMINADA
+T5	_SUG_Ictus_isquemico 227 232	Ictus
+T6	FECHA 236 246	23/04/2018
+#6	AnnotatorNotes T6	2018-04-23
+T7	SECCION_ANTECEDENTES_PERSONALES 248 271	ANTECEDENTES PERSONALES
+T8	SECCION_SITUACION_FUNCIONAL 391 406	Situación basal
+T9	SECCION_TRATAMIENTO_HABITUAL 425 445	Tratamiento habitual
+T10	_SUG_Tratamiento_antiagregante 449 452	AAS
+T11	SECCION_ANTECEDENTES_PATOLOGICOS 549 573	ANTECEDENTES PATOLÓGICOS
+T12	FECHA 679 688	agosto/06
+#12	AnnotatorNotes T12	2006-08-UNDEF-day
+T13	FECHA 867 871	2002
+#13	AnnotatorNotes T13	2002-UNDEF-month-UNDEF-day
+T14	SECCION_PROCESO_ACTUAL 993 1010	ENFERMEDAD ACTUAL
+T15	SECCION_EXPLORACION_FISICA 1534 1552	Exploración física
+T16	_SUG_NIHSS 2178 2199	NIHSS total: 0 puntos
+T17	SECCION_EXPLORACIONES_COMPLEMENTARIAS 2382 2416	Resultados pruebas complementarias
+T18	_SUG_Localizacion 3037 3044	Parcial
+T19	_SUG_Localizacion 3084 3091	Parcial
+T20	_SUG_TAC_craneal 4455 4457	TC
+T21	_SUG_TAC_craneal 4468 4470	TC
+T22	_SUG_Localizacion 4634 4645	ventricular
+T23	_SUG_Arteria_afectada 4817 4832	vertebrobasilar
+T24	_SUG_Arteria_afectada 5011 5026	vertebrobasilar
+T25	_SUG_Arteria_afectada 5032 5041	carotídeo
+T26	_SUG_Arteria_afectada 5153 5162	carotídeo
+T27	_SUG_Lateralizacion 5163 5170	derecho
+T28	_SUG_Arteria_afectada 5226 5235	carotídeo
+T29	_SUG_Localizacion 5344 5353	posterior
+T30	_SUG_Arteria_afectada 5363 5372	carotídeo
+T31	_SUG_Lateralizacion 5505 5514	bilateral
+T32	_SUG_Arteria_afectada 5612 5614	AB
+T33	_SUG_Arteria_afectada 5687 5696	carotídea
+T34	SECCION_EVOLUCION 5730 5752	Evolución Hospitalaria
+T35	_SUG_Localizacion 5824 5830	bulbar
+T36	_SUG_Trombolisis_intravenosa 5852 5861	trombosis
+T37	FECHA 5875 5879	2006
+#37	AnnotatorNotes T37	2006-UNDEF-month-UNDEF-day
+T38	_SUG_TAC_craneal 6155 6167	TAC cerebral
+T39	_SUG_Lateralizacion 6538 6543	ambas
+T40	_SUG_Lateralizacion 6585 6592	derecho
+T41	_SUG_Etiologia 6743 6751	habitual

@@ -1,0 +1,39 @@
+T0	FECHA 15 25	30-05-2018
+#0	AnnotatorNotes T0	2018-05-30
+T1	SECCION_DIAGNOSTICOS 27 39	Diagnosticos
+T2	FECHA 41 51	26/05/2018
+#2	AnnotatorNotes T2	2018-05-26
+T3	SECCION_PROCEDIMIENTOS 160 174	Procedimientos
+T4	SECCION_MOTIVO_DE_INGRESO 212 229	Motivo de ingreso
+T5	HORA 302 303	1
+#5	AnnotatorNotes T5	1:00
+T6	SECCION_ANTECEDENTES_PATOLOGICOS 347 367	Antecedentes Médicos
+T7	SECCION_SITUACION_FUNCIONAL 566 581	Situación basal
+T8	SECCION_ANTECEDENTES_QUIRURGICOS 597 621	Antecedentes Quirúrgicos
+T9	SECCION_TRATAMIENTO_HABITUAL 625 649	Tratamiento domiciliario
+T10	HORA 877 879	21
+#10	AnnotatorNotes T10	21:00
+T11	FECHA 885 893	25/05/18
+#11	AnnotatorNotes T11	2018-05-25
+T12	HORA 1068 1073	21.10
+#12	AnnotatorNotes T12	21:10
+T13	SECCION_EXPLORACION_FISICA 1103 1114	Exploración
+T14	_SUG_NIHSS 1880 1891	NIHSS: 0 [3
+T15	SECCION_EXPLORACIONES_COMPLEMENTARIAS 2172 2206	Resultados pruebas complementarias
+T16	_SUG_TAC_craneal 2235 2247	TAC cerebral
+T17	_SUG_Localizacion 2331 2342	subcortical
+T18	_SUG_Localizacion 2362 2370	profunda
+T19	_SUG_Localizacion 2455 2463	cortical
+T20	_SUG_Lateralizacion 2755 2756	e
+T21	_SUG_Lateralizacion 2771 2776	ambas
+T22	_SUG_Arteria_afectada 2777 2780	ACC
+T23	_SUG_Lateralizacion 2801 2802	e
+T24	_SUG_Lateralizacion 2827 2832	ambos
+T25	_SUG_Lateralizacion 2840 2841	e
+T26	_SUG_Lateralizacion 2852 2857	ambas
+T27	_SUG_Arteria_afectada 2858 2861	ACI
+T28	_SUG_Arteria_afectada 2985 2987	AB
+T29	_SUG_Arteria_afectada 3043 3052	carotídea
+T30	SECCION_EVOLUCION 3066 3088	Evolución Hospitalaria
+T31	SECCION_TRATAMIENTO_Y_RECOMENDACIONES_AL_ALTA 3404 3441	Recomendaciones y tratamiento al alta
+T32	_SUG_Tratamiento_antiagregante 3580 3602	Ácido acetilsalicílico

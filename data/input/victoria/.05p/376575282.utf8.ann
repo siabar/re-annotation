@@ -1,0 +1,105 @@
+T0	FECHA 293 303	31.05.2017
+#0	AnnotatorNotes T0	2017-05-31
+T1	HORA 304 309	13:30
+#1	AnnotatorNotes T1	13:30
+T2	FECHA 374 384	29.05.2017
+#2	AnnotatorNotes T2	2017-05-29
+T3	SECCION_MOTIVO_DE_INGRESO 438 452	MOTIU D'INGRÉS
+T4	SECCION_ANTECEDENTES 478 489	ANTECEDENTS
+T5	_SUG_mRankin 589 593	mRS2
+T6	SECCION_ANTECEDENTES_PATOLOGICOS 659 683	ANTECEDENTES PATOLÓGICOS
+T7	FECHA 915 919	2015
+#7	AnnotatorNotes T7	2015-UNDEF-month-UNDEF-day
+T8	FECHA 1110 1120	28/01/2015
+#8	AnnotatorNotes T8	2015-01-28
+T9	FECHA 1290 1294	2012
+#9	AnnotatorNotes T9	2012-UNDEF-month-UNDEF-day
+T10	SECCION_TRATAMIENTO_HABITUAL 1651 1669	MEDICACIÓ HABITUAL
+T11	_SUG_Tratamiento_anticoagulante 1868 1875	Sintrom
+T12	SECCION_PROCESO_ACTUAL 1917 1930	PROCÉS ACTUAL
+T13	FECHA 1972 1981	29/5/2017
+#13	AnnotatorNotes T13	2017-05-29
+T14	HORA 1992 1997	14:00
+#14	AnnotatorNotes T14	14:00
+T15	HORA 2263 2268	15:05
+#15	AnnotatorNotes T15	15:05
+T16	SECCION_EXPLORACION_FISICA 2271 2288	EXPLORACIÓ FÍSICA
+T17	_SUG_NIHSS 2731 2739	NIHSS: 0
+T18	SECCION_EXPLORACIONES_COMPLEMENTARIAS 2959 2984	EXPLORACIÓ COMPLEMENTÀRIA
+T19	FECHA 3007 3015	29/05/17
+#19	AnnotatorNotes T19	2017-05-29
+T20	FECHA 3311 3319	30/05/17
+#20	AnnotatorNotes T20	2017-05-30
+T21	_SUG_Lateralizacion 3897 3904	derecho
+T22	_SUG_TAC_craneal 3980 3990	TC craneal
+T23	FECHA 4016 4024	29/05/17
+#23	AnnotatorNotes T23	2017-05-29
+T24	_SUG_Localizacion 4069 4085	ganglios basales
+T25	_SUG_Lateralizacion 4086 4097	bilaterales
+T26	_SUG_TAC_craneal 4158 4160	TC
+T27	_SUG_Localizacion 4292 4303	ventricular
+T28	_SUG_TAC_craneal 4447 4449	TC
+T29	_SUG_TAC_craneal 4516 4518	TC
+T30	_SUG_TAC_craneal 4543 4545	TC
+T31	_SUG_Arteria_afectada 4611 4620	carotídeo
+T32	_SUG_Lateralizacion 4621 4631	izquierdon
+T33	_SUG_Arteria_afectada 4795 4805	carotídeos
+T34	_SUG_TAC_craneal 4857 4859	TC
+T35	FECHA 5005 5013	30/05/17
+#35	AnnotatorNotes T35	2017-05-30
+T36	_SUG_Lateralizacion 5027 5032	ambos
+T37	_SUG_Arteria_afectada 5038 5048	carotídeos
+T38	_SUG_Arteria_afectada 5138 5147	carotídeo
+T39	_SUG_Lateralizacion 5148 5157	izquierdo
+T40	_SUG_Arteria_afectada 5192 5195	ACI
+T41	_SUG_Lateralizacion 5196 5205	izquierda
+T42	_SUG_Arteria_afectada 5232 5241	carotídeo
+T43	_SUG_Lateralizacion 5242 5249	derecho
+T44	_SUG_Lateralizacion 5340 5345	ambas
+T45	_SUG_Arteria_afectada 5408 5411	ACM
+T46	FECHA 5443 5451	30/05/17
+#46	AnnotatorNotes T46	2017-05-30
+T47	_SUG_Localizacion 5454 5464	Ventrículo
+T48	_SUG_Lateralizacion 5465 5474	izquierdo
+T49	_SUG_Localizacion 5554 5570	interventricular
+T50	_SUG_Lateralizacion 5581 5590	izquierda
+T51	SECCION_EVOLUCION 5760 5776	EVOLUCIÓ CLÍNICA
+T52	_SUG_Lateralizacion 5869 5878	izquierdo
+T53	_SUG_Lateralizacion 5964 5973	izquierdo
+T54	_SUG_TAC_craneal 6075 6085	TC craneal
+T55	_SUG_Arteria_afectada 6202 6211	carotídeo
+T56	_SUG_Arteria_afectada 6237 6240	ACI
+T57	_SUG_Lateralizacion 6241 6250	izquierda
+T58	_SUG_Arteria_afectada 6304 6307	ACM
+T59	_SUG_Lateralizacion 6308 6315	derecha
+T60	_SUG_Localizacion 6330 6334	PACI
+T61	_SUG_Lateralizacion 6335 6342	derecho
+T62	_SUG_Etiologia 6347 6365	mecanismo embólico
+T63	_SUG_Etiologia 6378 6392	cardioembólica
+T64	HORA 6488 6490	12
+#64	AnnotatorNotes T64	12:00
+T65	_SUG_NIHSS 6706 6713	NIHSS=0
+T66	_SUG_Lateralizacion 6725 6730	dieta
+T67	_SUG_Lateralizacion 6949 6950	e
+T68	_SUG_Lateralizacion 7100 7109	izquierda
+T69	HORA 7176 7178	12
+#69	AnnotatorNotes T69	12:00
+T70	_SUG_Trombolisis_intravenosa 7459 7479	tratamiento con ACOD
+T71	_SUG_NIHSS 7497 7502	NIHSS
+T72	_SUG_mRankin 7513 7516	mRS
+T73	SECCION_DIAGNOSTICOS 7528 7539	DIAGNÒSTICS
+T74	_SUG_Ictus_isquemico 7546 7551	Ictus
+T75	_SUG_Etiologia 7558 7569	Hipertensió
+T76	_SUG_Etiologia 7773 7786	aterosclerosi
+T77	_SUG_Ataque_isquemico_transitorio 7856 7859	AIT
+T78	_SUG_Arteria_afectada 7874 7883	carotídeo
+T79	_SUG_Lateralizacion 7884 7891	derecho
+T80	_SUG_Etiologia 7895 7913	mecanismo embólico
+T81	_SUG_Arteria_afectada 7949 7958	carotídea
+T82	_SUG_Lateralizacion 7959 7968	izquierda
+T83	SECCION_TRATAMIENTO_Y_RECOMENDACIONES_AL_ALTA 8033 8068	TRACTAMENT I RECOMANACIONS A L'ALTA
+T84	_SUG_Tratamiento_anticoagulante 8106 8114	Apixabán
+T85	SECCION_CONTROL 8257 8264	CONTROL
+T86	SECCION_DESTINO_AL_ALTA 8487 8506	DESTINACIÓ A L'ALTA
+T87	FECHA 8559 8569	31.05.2017
+#87	AnnotatorNotes T87	2017-05-31

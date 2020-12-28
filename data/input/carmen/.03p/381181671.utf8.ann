@@ -1,0 +1,78 @@
+T0	_SUG_Lateralizacion 0 1	I
+T1	FECHA 315 325	13.06.2017
+#1	AnnotatorNotes T1	2017-06-13
+T2	HORA 388 393	10:29
+#2	AnnotatorNotes T2	10:29
+T3	SECCION_TIPO_DE_INGRESO 425 450	Tipo ingreso/Tipus ingrés
+T4	SECCION_DIAGNOSTICOS 492 496	Diag
+T5	_SUG_Ataque_isquemico_transitorio 526 529	AIT
+T6	SECCION_PROCEDIMIENTOS 595 599	Proc
+T7	_SUG_TAC_craneal 684 694	TC CRANEAL
+T8	SECCION_MOTIVO_DE_INGRESO 803 841	Motivo de consulta / Motiu de consulta
+T9	SECCION_ANTECEDENTES 875 937	Antecedentes e historia previa / Antecedents i història prèvia
+T10	_SUG_mRankin 1079 1084	mRS 3
+T11	SECCION_ANTECEDENTES_PATOLOGICOS 1088 1112	ANTECEDENTES PATOLÓGICOS
+T12	_SUG_Etiologia 1117 1129	HIPERTENSIÓN
+T13	_SUG_Trombolisis_intravenosa 1193 1214	tratamiento con litio
+T14	SECCION_TRATAMIENTO_HABITUAL 1358 1378	MEDICACIÓN  HABITUAL
+T15	SECCION_PROCESO_ACTUAL 1568 1598	Proceso actual / Procés actual
+T16	FECHA 1639 1644	13/06
+#16	AnnotatorNotes T16	2017-06-13
+T17	HORA 1686 1691	09.30
+#17	AnnotatorNotes T17	09:30
+T18	_SUG_Localizacion 1751 1760	posterior
+T19	SECCION_PROCESO_ACTUAL 8107 8113	Episod
+T20	_SUG_Lateralizacion 8245 8250	drets
+T21	SECCION_EXPLORACION_FISICA 1798 1836	Exploración física / Exploració física
+T22	FECHA 1839 1849	13/06/2017
+#22	AnnotatorNotes T22	2017-06-13
+T23	HORA 1850 1855	10:55
+#23	AnnotatorNotes T23	10:55
+T24	_SUG_TAC_craneal 2892 2902	TC CRANEAL
+T25	_SUG_TAC_craneal 2906 2916	TC CRANEAL
+T26	_SUG_Hemorragia_cerebral 2949 2972	hemorragia intracraneal
+T27	_SUG_Localizacion 3031 3042	subcortical
+T28	_SUG_ASPECTS 3044 3054	ASPECTS 10
+T29	_SUG_Arteria_afectada 3082 3104	arteria cerebral media
+T30	_SUG_Localizacion 3216 3227	ventricular
+T31	_SUG_TAC_craneal 3305 3307	TC
+T32	_SUG_Lateralizacion 3550 3551	E
+T33	_SUG_Localizacion 3598 3605	troncos
+T34	_SUG_Etiologia 3640 3652	ateromatosis
+T35	_SUG_Arteria_afectada 3740 3767	arterias carótidas internas
+T36	_SUG_Arteria_afectada 3777 3797	arterias vertebrales
+T37	_SUG_Etiologia 3812 3824	ateromatosis
+T38	_SUG_Arteria_afectada 3911 3938	arterias carotidas internas
+T39	_SUG_Etiologia 3959 3971	ateromatosis
+T40	_SUG_Etiologia 4088 4100	ateromatosis
+T41	_SUG_Localizacion 4333 4344	ventricular
+T42	_SUG_Lateralizacion 4465 4474	bilateral
+T43	_SUG_Lateralizacion 4475 4476	e
+T44	_SUG_Lateralizacion 4651 4660	izquierda
+T45	_SUG_ASPECTS 4692 4699	aspecto
+T46	_SUG_Lateralizacion 4978 4985	derecho
+T47	_SUG_Etiologia 5019 5028	aneurisma
+T48	SECCION_EXPLORACIONES_COMPLEMENTARIAS 5177 5237	Exploraciones complementarias / Exploracions complementàries
+T49	_SUG_Lateralizacion 5391 5400	izquierdo
+T50	_SUG_Lateralizacion 5544 5553	izquierdo
+T51	SECCION_EVOLUCION 5558 5578	Evolución / Evolució
+T52	_SUG_Ataque_isquemico_transitorio 5642 5645	AIT
+T53	_SUG_NIHSS 5786 5794	NIHSS: 0
+T54	_SUG_Ictus_isquemico 5816 5821	ictus
+T55	_SUG_TAC_craneal 5981 5983	TC
+T56	_SUG_Hemorragia_cerebral 6042 6052	hemorragia
+T57	_SUG_Ictus_isquemico 6152 6157	ictus
+T58	_SUG_Lateralizacion 6230 6239	izquierdo
+T59	_SUG_Ataque_isquemico_transitorio 6346 6349	AIT
+T60	_SUG_Tratamiento_antiagregante 6381 6403	ácido acetilsalicílico
+T61	_SUG_Localizacion 6456 6464	temporal
+T62	_SUG_Lateralizacion 6465 6474	izquierda
+T63	_SUG_Ictus_isquemico 6644 6649	ictus
+T64	SECCION_TRATAMIENTO_AL_ALTA 7235 7268	Plan terapéutico / Pla terapèutic
+T65	_SUG_Tratamiento_antiagregante 7301 7323	Ácido acetilsalicílico
+T66	SECCION_RECOMENDACIONES 7509 7530	Otras recomendaciones
+T67	FECHA 7775 7785	15.06.2017
+#67	AnnotatorNotes T67	2017-06-15
+T68	HORA 7800 7805	16:04
+#68	AnnotatorNotes T68	16:04
+T69	_SUG_Lateralizacion 7956 7964	derechos

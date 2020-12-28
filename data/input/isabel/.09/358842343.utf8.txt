@@ -1,0 +1,105 @@
+_LOCATION_
+email: _CONTACT_ Telèfon _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 50 Anys
+NIF/DNI: _ID__NAME_; _NAME_; _NAME_
+Informe d'alta d'hospitalització
+14:30:00
+11.04.2017
+_LOCATION_
+_SS_ UNITAT D'ICTUS
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_; _CONTACT_
+DOMICIL/RES.SOC 09.04.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Mujer de 50 años que ingresa por ictus en territorio de ACM derecha.
+
+ANTECEDENTS
+-Sin alergias medicamentosas conocidas.
+-Sin hábitos tóxicos.
+
+-Hipertensión arterial esencial en tratamiento con Amlodipino.
+-Hipotiroidismo en tratamiento sustitutivo.
+-Migraña con aura en tratamiento preventivo con Amlodipino.
+-Infección tracto respiratorio superior en tratamiento con augmentine en la última semana.
+
+Situación sociofuncional: Independiente para actividades básicas de la vida diaria. mRS 0.
+
+MEDICACIÓ HABITUAL
+Atenolol 50mg/24h, Eutirox 125mcg/24h, Loratadina 10mg/24h.
+
+PROCÉS ACTUAL
+Mujer de 50 años que presenta de forma brusca a las 11:15h en vigilia y reposo dificultad para la emisión del lenguaje y debilidad de extremidades izquierdas. Sin otra clínica acompañante.
+
+EXPLORACIÓ FÍSICA
+
+URGENCIAS
+TA 109/86mmHg, FC 74lpm, BMTest 106mg/dl.
+Somnolienta (1) LOC q 2/2, LOC c 2/2, DOC D (2) HHI (2) PFSN I (2) Hemiplejia BC (4+4) Hemihipoestesia ipsilateral (1)Disartria inteligible (1) Anosognosia e inatención izquierda (2). NIHSS 19.
+
+UNIDAD DE ICTUS
+TA 113/78mmHg, FC 82lpm, Tª 36.4ºC, SaO2 97% aa, BMTest 101mg/dl.
+Paciente con estado general conservado, normocoloreada, normohidratada y normoperfundida.
+Auscultación cardiaca con tonos rítmicos y sin soplos, no presenta edemas en miembros inferioresni ingurgitación yugular. Pulsos periféricos presentes y simétricos.
+Auscultación pulmonar con murmullo vesicular conservado sin ruidos sobreañadidos. Eupneica en reposo. Neurológicamente  vigil, atenta y orientada en las 3 esferas, sin alteraciones delhabla ni del lenguaje, pupilas isocóricas  y  normorreactivas,  no  presenta  restricciones  en  los  MOEs,  campimetría  por  confrontación  sin alteraciones, no paresia facial ni alteraciones de la sensibilidad, resto de PPCC conservados. Balance motor y sensitivoconservados.  No  dismetrías.  No  extinción  ni  negligencia.  Marcha  no  explorada.  No  asterixis  ni meningismo. NIHSS 0
+
+Informe d'alta d'hospitalització
+
+
+
+EXPLORACIÓ COMPLEMENTÀRIA
+ECG:  Ritmo  sinusal  75lpm,  PR  160ms,  QRS  80ms,  eje  60º,  buena  progresión de  R  en  precordiales, sin alteraciones agudas de la repolarización.
+Analítica general: Hb 11.2g/dl, Hto 34.7%, Leucocitos 7700, Plaquetas 389000, TQuick 90%, INR 1.07, TTPAr 1.10, Fibrinógeno 3.62g/l, Glucosa 99mg/dl, Urea 37mg/dl, Cr 0.73mg/dl, FG estimado >90, Na 138.5mmol/l, K 3.74mmol/l, Ca 9.8mg/dl, AST 19UI/L, ALT 17UI/L, Proteinas 7.9g/dl.
+TC craneal multimodal: Hallazgos Tc compatibles con lesión isquémica aguda establecido en territorio superficial y profundo de la ACM derecha (ASPECTS 10 / 10), con alteración de la perfusión expresado principalmente en MTT y TTP, hallazgos podrían estar en relación al corto tiempo de evolución 1h. Oclusión del segmento proximal de la ACM derecha.
+Trombectomía intra y extracraneal: Oclusión M1 D. Se realizan dos pases de solitaire 6 x 20 + Navien 6F. Recanalización TICI 2B. Sin incidencias.
+Rxtorax: ICT normal. senos libres no infiltrados pulmonares.
+TC  craneal de  control: CONCLUSIÓN:  TC  craneal  de  control  que  muestra aparición de  lesión  isquémica establecida en
+territorio profundo de la ACM derecha, sin signos de transformación hemorrágica.
+Ecoscan cardiaco ictus: Regular ventana torácica. Ventriculo izquierdo no dilatado ni hipetrófico. Fracción de eyección conservada. No alteraciones segmentarias de la contractilidad. Auricula izquierda no dilatada. No valvulopatias significativas. Patrón transmitral normal. No se observan imagenes sugestivas de trombo intrauricular ni ventricular. Mala ventana aórtica que no permite evaluar la presencia de placas aórticas. Conclusión: No se detecta fuente embólica.
+Estudio shunt DI:  DTC con microburbujas negativo en reposo,  positivo débil tras maniobra de Valsalva (3 señales).
+Hemocultivos: pendientes
+Telemetría 48 horas: sin detectarse arritmias potencialmente emboligenas.
+Analítica de ingreso: se adjunta
+
+EVOLUCIÓ CLÍNICA
+A su llegada a Urgencias, paciente con clínica completa en territorio de ACM derecha por lo que se realiza TC multimodal en el que presenta oclusión de segmento M1 de ACM D y ASPECTS 10. Se administra taratamiento trombolítico endovenoso a las 12:23h y se activa Guardia Neurovascular a las 12:30h para valoración de trombectomía intrarterial. Tras punción femoral D sin complicaciones (13:52h) se confirma en primera serie oclusión de segmento 1 de ACM D (TICI 0, 14:01h). Tras dos pases de Solitaire se consigue recanalización TICI 2b (14:25h), sin incidencias salvo vasospasmo de ACI que se trata con nimodipino. Al finalizar procedimiento mejoría neurológcia con NIHSS 0. Se cursa ingreso en Unidad de Ictus.
+
+Informe d'alta d'hospitalització
+
+A nuestra valoración, paciente con estado general conservado sin evindenciarse déficits a la exploración. Se realiza TC craneal de control que muestra lesión isquémica establecida en territorio profundo de la ACM derecha, sin signos de transformación hemorrágica. A nivel analítico, destaca leve anemia microcítica por déficit de hierro, por lo que se inician suplementos de hierro oral, se recomienda control analítico por MAP. Días previos la paciente refiere cuadro respiratorio con febricula por lo que ha estado con ATB durante unos 5 dias, por ello, se han solicitado hemocultivos que permanecen pendiente de resultado al alta. Durante la monitorización en Unidad de Ictus se ha realizado telemetría en la que no se han detectado arritmias embolígenas, ecoscan cardiaco sin alteraciones. El estudio shunt es débilmente positivo, a pesar de ello, considerándose la edad de la paciente y la ausencia de otras etiologías, habiéndo presentado ictus isquémico con oclusión de gran vaso (TACI), se decide iniciar anticoagulación con sintrom hasta control en consultas externas tras la realización de ETE ambulatorio y estudio de trombofilias por Hematología. Asi mismo, la paciente se incluye en el  registro Itacat , se coloca holter wearable_ 227_ debe de acudir el 19 de abril a las 11:30 a control gabinete ECOSCAN .
+Al alta NIHSS 0 y rankin 0.
+
+DIAGNÒSTICS
+Infarto ACM derecha por embolismo paradójico. Presencia de FOP.
+
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+-	Dieta normal. Ejercicio físico leve que tolere.
+
+-	Anticoagulación según pauta adjunta.
+-	Ferrogradumet una pastilla al dia por la mañana en ayunas o con zumo de naranja Resto de tratamiento sin cambios.
+CONTROL
+-	Deberá acudir a la visita control en las consultas externas de Neurovascular en la 3ª planta anexos del _SS_ el día 14/11/2017 a las 10:30h.
+
+-	Paciente dentro de registro Itacat, se coloca holter wearable_ 227_ debe de acudir el 19 de abril a las 11:30h a control gabinete ECOSCAN ( 2a planta del _SS_)
+
+-	Será avisada por correo y /o por teléfono para realización de estudio de trombofilias por Hematología y para realización de ETE ambulatorio, por lo que deberá acudir acompañada y en ayunas.
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+11.04.2017
+Pàgina 1 de 3

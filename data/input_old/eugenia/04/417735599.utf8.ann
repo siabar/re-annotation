@@ -1,0 +1,97 @@
+T1	_SUG_Lateralizacion 133 134	I
+T2	Fecha_de_ingreso 216 224	14/09/17
+#2	AnnotatorNotes T2	2017-09-14
+T3	Fecha_de_alta 251 259	18/09/17
+#3	AnnotatorNotes T3	2017-09-18
+T5	Ictus_isquemico 328 343	ICTUS ISQUÉMICO
+T6	Arteria_afectada 358 373	VERTEBROBASILAR
+T7	Localizacion 375 379	POCI
+T8	Lateralizacion 409 416	DERECHA
+T10	mRankin_previa 559 564	mRS 2
+T11	_SUG_Ictus_isquemico 812 817	ICTUS
+T14	_SUG_Lateralizacion 931 932	I
+T15	_SUG_Lateralizacion 1226 1233	derecha
+T16	FECHA 1259 1263	2001
+#16	AnnotatorNotes T16	2001-UNDEF-month-UNDEF-day
+T17	_SUG_Lateralizacion 1321 1322	D
+T18	FECHA 1434 1444	julio/2017
+#18	AnnotatorNotes T18	2017-07-UNDEF-day
+T19	FECHA 1501 1505	1991
+#19	AnnotatorNotes T19	1991-UNDEF-month-UNDEF-day
+T21	_SUG_Lateralizacion 1708 1717	izquierda
+T22	Hora_inicio_sintomas 1754 1756	22
+#22	AnnotatorNotes T22	22:00
+T23	Hora_llegada_hospital 1783 1788	10:49
+#23	AnnotatorNotes T23	10:49
+T24	_SUG_Lateralizacion 2009 2016	derecha
+T25	_SUG_Lateralizacion 2092 2101	izquierda
+T28	_SUG_TAC_craneal 2190 2200	TC craneal
+T29	_SUG_Arteria_afectada 2317 2334	arteria vertebral
+T30	_SUG_Lateralizacion 2335 2342	derecha
+T31	_SUG_Lateralizacion 2578 2585	derecha
+T32	_SUG_Lateralizacion 2669 2678	izquierda
+T33	NIHSS_previa 2746 2754	NIHSS: 3
+T34	_SUG_Ictus_isquemico 2841 2846	Ictus
+T35	_SUG_NIHSS 2959 2969	NIHSS de 4
+T36	_SUG_Lateralizacion 2991 2998	derecho
+T37	_SUG_Lateralizacion 3036 3045	izquierda
+T38	_SUG_Lateralizacion 3085 3092	derecha
+T39	FECHA 3336 3346	14/09/2017
+#39	AnnotatorNotes T39	2017-09-14
+T40	_SUG_Lateralizacion 3506 3507	D
+T42	TAC_craneal 3830 3840	TC craneal
+T43	Fecha_TAC_inicial 3858 3868	14/09/2017
+#43	AnnotatorNotes T43	2017-09-14
+T44	Hora_TAC_inicial 3870 3875	11:01
+#44	AnnotatorNotes T44	11:01
+T45	ASPECTS 3919 3929	ASPECTS 10
+T46	_SUG_Arteria_afectada 4019 4028	carotídea
+T47	_SUG_Lateralizacion 4029 4038	bilateral
+T48	_SUG_Etiologia 4106 4118	Ateromatosis
+T49	_SUG_Lateralizacion 4157 4164	derecha
+T50	FECHA 4321 4331	15/09/2017
+#50	AnnotatorNotes T50	2017-09-15
+T52	_SUG_Ictus_isquemico 4949 4954	ictus
+T53	Etiologia 4955 4962	lacunar
+T54	Localizacion 4955 4962	lacunar
+T55	_SUG_Arteria_afectada 4977 4992	vertebrobasilar
+T56	_SUG_Ictus_isquemico 5110 5115	Ictus
+T57	_SUG_Tratamiento_antiagregante 5197 5200	AAS
+T58	_SUG_Tratamiento_antiagregante 5208 5219	clopidogrel
+T59	_SUG_Lateralizacion 5498 5508	izquierdas
+T60	_SUG_Lateralizacion 5537 5544	derecha
+T61	_SUG_Ictus_isquemico 5629 5634	ictus
+T62	_SUG_Tratamiento_antiagregante 5956 5959	AAS
+T63	_SUG_Tratamiento_antiagregante 5962 5973	clopidogrel
+T64	Etiologia 5991 6006	aterotrombótico
+T65	_SUG_Localizacion 6015 6019	POCI
+T66	NIHSS_alta 6029 6036	NIHSS 3
+T67	mRankin_alta 6038 6046	Rankin 2
+T68	Tratamiento_antiagregante_alta 6140 6145	ADIRO
+T69	Tratamiento_antiagregante_alta 6161 6172	CLOPIDOGREL
+T71	_SUG_Ictus_isquemico 6382 6387	ictus
+T72	_SUG_Etiologia 6389 6401	hipertensión
+T73	_SUG_Lateralizacion 6610 6615	dieta
+T74	_SUG_Lateralizacion 7103 7107	dret
+T75	_SUG_Lateralizacion 7320 7327	derecho
+T76	SECCION_DIAGNOSTICOS 311 323	DIAGNÓSTICOS
+T77	SECCION_PROCEDIMIENTOS 756 770	PROCEDIMIENTOS
+T78	SECCION_ANTECEDENTES 842 854	ANTECEDENTES
+T79	SECCION_TRATAMIENTO_HABITUAL 1519 1539	Tratamiento habitual
+T80	SECCION_PROCESO_ACTUAL 1580 1597	ENFERMEDAD ACTUAL
+T81	SECCION_EXPLORACION_FISICA 2345 2363	EXPLORACIÓN FÍSICA
+T82	SECCION_EXPLORACION_FISICA_EN_URGENCIAS 2367 2398	Exploración física en urgencias
+T83	SECCION_EXPLORACION_FISICA_DURANTE_HOSPITALIZACION 2809 2846	Exploración física en Unidad de Ictus
+T84	SECCION_EXPLORACIONES_COMPLEMENTARIAS 3279 3308	EXPLORACIONES COMPLEMENTARIAS
+T85	SECCION_EXPLORACIONES_COMPLEMENTARIAS_EN_URGENCIAS 3312 3334	Analítica de urgencias
+T86	SECCION_EXPLORACIONES_COMPLEMENTARIAS_EN_PLANTA_DE_NEUROLOGIA 4302 4319	Analítica ingreso
+T87	SECCION_EVOLUCION 4834 4843	EVOLUCIÓN
+T88	SECCION_RECOMENDACIONES 6293 6305	INDICACIONES
+T4	Arteria_afectada 406 408	V4
+#1	AnnotatorNotes T10	2
+T9	SECCION_ANTECEDENTES_QUIRURGICOS 1480 1482	IQ
+#5	AnnotatorNotes T45	10
+#6	AnnotatorNotes T67	2
+T12	SECCION_TRATAMIENTO_AL_ALTA 6116 6127	TRATAMIENTO
+#4	AnnotatorNotes T33	3
+#7	AnnotatorNotes T66	3

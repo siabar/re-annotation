@@ -1,0 +1,86 @@
+T1	Fecha_de_ingreso 96 106	13/12/2017
+#1	AnnotatorNotes T1	2017-12-13
+T2	HORA 107 112	04:52
+#2	AnnotatorNotes T2	04:52
+T3	Fecha_de_alta 123 133	22/12/2017
+#3	AnnotatorNotes T3	2017-12-22
+T4	Hora_inicio_sintomas 363 368	13:30
+#4	AnnotatorNotes T4	13:30
+T5	_SUG_Lateralizacion 496 504	esquerre
+T6	_SUG_Localizacion 647 655	temporal
+T7	_SUG_Lateralizacion 656 661	dreta
+T8	_SUG_Localizacion 751 758	parcial
+T9	HORA 798 803	16:30
+#9	AnnotatorNotes T9	16:30
+T10	_SUG_Lateralizacion 911 912	E
+T11	_SUG_Lateralizacion 931 932	E
+T12	FECHA 1098 1102	2005
+#12	AnnotatorNotes T12	2005-UNDEF-month-UNDEF-day
+T13	FECHA 1269 1275	4/2016
+#13	AnnotatorNotes T13	2016-04-UNDEF-day
+T14	Tratamiento_anticoagulante_hab 2170 2177	Xarelto
+T15	_SUG_Lateralizacion 2653 2661	esquerre
+T16	_SUG_Lateralizacion 2682 2690	esquerre
+T17	_SUG_Lateralizacion 2802 2811	bilateral
+T18	NIHSS_previa 2813 2820	NIHSS 4
+T19	_SUG_Ictus_isquemico 2837 2842	ictus
+T20	_SUG_TAC_craneal 2905 2907	TC
+T21	TAC_craneal 3235 3245	Tc cranial
+T22	_SUG_Arteria_afectada 3312 3314	M2
+T23	_SUG_Arteria_afectada 3316 3318	M3
+T24	_SUG_Lateralizacion 3324 3329	drets
+T26	_SUG_TAC_craneal 3373 3384	TAC cranial
+T27	_SUG_Etiologia 3386 3397	ateromatosi
+T28	_SUG_Arteria_afectada 3594 3609	Arts vertebrals
+T29	_SUG_Trombectomia_mecanica 3840 3843	TEV
+T30	_SUG_Ictus_isquemico 3900 3905	Ictus
+T31	_SUG_Etiologia 3932 3944	cardiembòlic
+T32	_SUG_Localizacion 4048 4055	frontal
+T33	_SUG_Localizacion 4058 4066	parietal
+T34	_SUG_Lateralizacion 4067 4071	dret
+T35	_SUG_Lateralizacion 4206 4215	izquierda
+T36	_SUG_Lateralizacion 4222 4223	E
+T37	_SUG_Lateralizacion 4308 4311	esq
+T38	_SUG_Lateralizacion 4339 4348	izquierda
+T39	_SUG_NIHSS 4368 4372	NIH:
+T41	_SUG_TAC_craneal 4730 4741	TAC cranial
+T42	FECHA 4754 4762	15/12/17
+#42	AnnotatorNotes T42	2017-12-15
+T43	_SUG_Ictus_isquemico 4765 4771	infart
+T44	_SUG_Arteria_afectada 4801 4804	ACM
+T45	_SUG_Lateralizacion 4805 4806	D
+T46	_SUG_Localizacion 4808 4812	PACI
+T47	_SUG_Ictus_isquemico 4829 4853	tranformació hemorràgica
+T49	_SUG_TAC_craneal 4854 4865	TAC cranial
+T50	FECHA 4879 4887	21/12/17
+#50	AnnotatorNotes T50	2017-12-21
+T51	_SUG_Localizacion 4909 4917	cortical
+T52	_SUG_Lateralizacion 4950 4954	dret
+T53	_SUG_Localizacion 5489 5498	posterior
+T54	_SUG_Lateralizacion 5601 5604	esq
+T56	_SUG_TAC_craneal 5705 5717	TAC cranials
+T57	Ictus_isquemico 5740 5765	transformació hemorràgica
+T59	_SUG_TAC_craneal 5887 5898	TAC cranial
+T60	Ictus_isquemico 5941 5944	AVC
+T61	Etiologia 5954 5967	cardioembòlic
+T62	_SUG_Localizacion 6027 6038	ventricular
+T63	_SUG_Lateralizacion 6133 6138	Dieta
+T64	Tratamiento_antiagregante_alta 6163 6166	AAS
+T65	_SUG_Tratamiento_anticoagulante 6450 6457	Xarelto
+T66	_SUG_Etiologia 6478 6486	habitual
+T68	_SUG_TAC_craneal 6624 6635	TAC cranial
+T69	_SUG_Lateralizacion 7088 7092	dret
+T70	SECCION_DESTINO_AL_ALTA 277 296	Destinació a l'alta
+T71	SECCION_MOTIVO_DE_INGRESO 323 340	Motiu de consulta
+T72	SECCION_ANTECEDENTES_PERSONALES 934 955	Antecedents personals
+T73	SECCION_EXPLORACION_FISICA 2406 2423	Exploració física
+T74	SECCION_EXPLORACIONES_COMPLEMENTARIAS 3026 3048	Proves complementàries
+T75	SECCION_EVOLUCION 5284 5292	Evolució
+T76	SECCION_DIAGNOSTICOS 5915 5937	Orientació diagnòstica
+T77	SECCION_DIAGNOSTICOS_SECUNDARIOS 5968 5990	Diagnòstics secundaris
+T25	SECCION_TRATAMIENTO_HABITUAL 2131 2141	Tractament
+#5	AnnotatorNotes T18	4
+T40	SECCION_TRATAMIENTO_AL_ALTA 6119 6129	Tractament
+T48	Arteria_afectada 3906 3909	ACM
+T55	Arteria_afectada 3910 3913	ACP
+T58	Lateralizacion 3914 3917	der

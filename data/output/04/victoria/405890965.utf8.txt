@@ -1,0 +1,146 @@
+_LOCATION_ Tel. _CONTACT_
+e-mail: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 65 Anys
+NIF/DNI: _ID__NAME_; _NAME_; _NAME_,;_NAME_; _NAME_
+Informe d'alta d'hospitalització
+CP	_LOCATION_
+ABS	_SS_
+Servei	NEUROLOGIA
+Data d'alta  29.08.2017	14:00:00
+_LOCATION_
+_CONTACT_; _CONTACT_
+ATEN.PRIMÀRIA 24.08.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Mujer  diestra  de  65  años  que  ingresa  para  estudio  por  trastorno  sensitivo  motor  de  mano  izquierda  de aproximadamente 5 horas de evolución.
+
+ANTECEDENTS
+Alérgica a penicilina.
+Hábitos tóxicos: Fumadora desde los 15 años (desde los 40 años de 1 paquete/día). Enol esporádico. Situación funcional previa: mRS 0. Trabajadora de la limpieza
+
+ANTECEDENTES PATOLÓGICOS
+-	Hipertensión arterial en tratamiento farmacológico.
+-	Dislipemia sin tratamiento.
+-	Síndrome de colon irritable.
+-	Transaminasaselevadas. No consta estudio etiológico
+Niega/desconoce  antecedentes  de  cardiopatía  ni  de  trastornos  del  ritmo  cardíaco.  No  cumple  criterios  de bronquitis crónica
+
+Intervenida el 16.12.11 de histerectomía abdominal total simple con anexectomía bilateral, sin complicaciones intraoperatorias .
+En  el  mismo  acto  quirúrgico  se  remitió  para  estudio  anatomopatológico  tumoración  ovárica  para  estudio peroperatorio que se informó como de teratoma quistico.
+
+MEDICACIÓ HABITUAL
+Enalapril 10mg/24h; Hidrosaluretil 25mg/24h; Omeprazol 20mg/24h.
+
+PROCÉS ACTUAL
+Consulta el 24.08, estando previamente asintomática (se había ido a dormir sobre las 16-16:30) al despertar de la siesta sobre las 17-17:30 objetiva dificultad para mover y acorchamiento de toda la mano izquierda, por lo que avisa al SEM quien objetiva paresia de la mano así comoTAS de 202 mmHg. Activan código ictus a las 20:27h, llegando a nuestro centro a las 21:00h.
+
+EXPLORACIÓ FÍSICA
+
+FC	129 bpm Tªaxi  ºC
+FR	rpm Tªrec  ºC
+TA s	184 mmHg SAT O2 95 %
+TA d   97 mmHg Pes Kg
+
+Glicemia capilar: 105 mg/dL.
+
+Exploración neurológica en Urgencias: Consciente y orientada. Obedece órdenes. Lenguaje fluente sin elementos afásicos ni disartria. Campimetría por confrontación y oculomotricidad sin alteraciones. Resto de pares craneales normales. Paresia de la mano izquierda sin claudicación proximal (flexoextensión del carpo preservada,
+
+Informe d'alta d'hospitalització
+
+
+
+
+paresia de predominio en flexor  de los  dedos) con  sensación  de  acorchamiento en esa mano. RCP  flexor bilateral.#
+NIHSS = 0.0.0.0.0/0.(0.0)(0.0)/0.1.0.0.0.0=1
+
+EXPLORACIÓ COMPLEMENTÀRIA
+ECG: ritmo sinusal a 130 lpm; eje a 50º; PR 0,14 seg, constante; QRS estrecho sin desniveles del ST.
+
+Analíticas:
+Urgencias (24.08.2017): Hematologia (24/08/17): Leucòcits 8100 /µL, (N 45,8 % / L 42,8 / M 7,6 / E 2,9 / B 0,9),
+Hties 4,23 mill/µL, Hb 14,2 g/dL, Hct 40,8 %, VCM 96,4 fL, Plaquetes 293000 /µL, TP 95 %, INR 1,04 sg, TP ratio
+1,04, TTPA 31,2 sg, TTPA ratio 1,01, Fibrinogen 338 mg/dL.
+Bioquimica (24/08/17): Glucosa 102 mg/dL, Urea 20,7, Creatinini 0,69, Na 136,2 mmol/L, K 4,1, Ca 9,3 mg/dL, Prot-C reactiva 0,7 mg/L.
+Analítica Ingreso (25.08.2017): Hematologia (25/08/17): Leucòcits7600 /µL, (N 60,7 % / L 27,8 / M 8 / E 2,5 / B 1), Hties 4,25 mill/µL, Hb 14,1 g/dL, Hct 41,5 %, VCM 97,7 fL, Plaquetes 265000 /µL, TP 92 %, INR 1,06 sg, TP ratio
+1,06, TTPA 31,2 sg, TTPA ratio 1,01, Fibrinogen 333 mg/dL. Bioquimica (25/08/17): Glucosa 87 mg/dL, HbA1c 5,3
+%, Urea 18 mg/dL, Creatinini 0,72, Filtrat glomerular estimat 88 mL/min/1.73 m2, Urat 3,9 mg/dL, Ca 9,2, Fosfat 3,9, Mg 1,68, Na 137,6 mmol/L, K 4,35, Cl 101,9, ALT 30 U/L, GGT 79, FA 104, Bilirubina 0,48 mg/dL, Prot-C
+reactiva 0,6 mg/L, Proteïna 69,8 g/L. Proteinograma.- Pediente.....
+. Lípids.- Triglicèrid 297 mg/dL, Colesterol 258, (HDL 60 / LDL 139). Hormonas (25/08/17): TSH 2,989 µUI/mL. Analítica ingreso (29/8/2017): 6700 leucocitos (fórmula normal), Hb 13,5 g/dl, Hto 39,4%, VCM 97,7 fl, plaquetas 241000. Hemostasia: TP 93%, INR 1,05, TTPA ratio 33,2 seg, firinógeno 458 mg/dl. Bioquímica: creatinina 0,67
+mg/dl, LDH 181. Marcadores tumorales: CEA 4,6 ng/ml, AFP 2,55 mg/ml, CA 15-3 156,5 U/ml, CA-125 11.7 U/ml, CA-19-9 2,1 U/ml, Carcinoma escamoso y S100 pendientes
+
+TC craneal (24.08.2017): No lesiones isquémicas ni hemorrágicas agudas. ASPECTS 10. Cisternas basales y perimesencefálicas libres. Línea media centrada. Sistema ventricular simétrico de tamaño y morfología conservados. Sin alteraciones óseas TC valorables. No se aprecian alteraciones intra ni extraaxiales TC valorables..
+
+Estudio neurosonológico urgente (24.08.2017):
+Estudio de TSA:
+Eje carotídeo izquierdo: Placa ateromatosa de bordes lisos y contenido hiperisoecoico en nacimiento de ACI izquierda que condiciona estenosis del 30.50% (velocidad 140cm/seg).
+Eje carotídeo derecho: Placa ateromatosa de borde irregular y contenido hiperisoecoico en nacimiento de ACI derecha que condiciona estenosis del 50-70% (velocidad en torno a 220cm/seg, aunque estudio artefactuado por cruce con vena, objetivándose vel >300cm/seg en algún punto).
+Se insonan ambas arterias vertebrales hasta ostiums sin alteraciones del flujo.
+Estudio transcraneal: Se insonan ambas ACA, ACM y ACP sin alteraciones del flujo, velocidades simétricas. Se insonan ambos segmentos V4 y arteria basilar hasta 9,4cm sin alteraciones.
+Conclusión: ateromatosis carotídea bilateral que condiciona estenosis <50% en ACI izquierda y del 50-70% en ACI derecha. Estudio transcraneal normal.
+
+Ecocardiograma transtorácico (25.08.2017): Ventrículo izquierdo ligeramente hipertrófico (12/11mm), no dilatado (53/36mm), con función sistólica global y segmentaria conservada (FE57%). Ligera dilatación auricular izquierda (41mm). Sin valvulopatías significativas.
+
+Informe d'alta d'hospitalització
+
+
+
+
+Angio RM de troncs supraaòrtics (TSA) , RM cerebral sense contrast, Angio RM de crani sense contrast. (28.08.2017)
+RM CRANEAL, ANGIO IC Y ANGIO TSA: secuencias SE , TSE y FLAIR potenciadas en T1 y T2 en los tres planos del espacio, una secuencia de difusión SE-EPI y una secuencia angiográfica 3D TOF para estudio craneal. Posteriormente se ha realizado un estudio angiográfico de troncos supra-aórticos con contraste.
+HALLAZGOS. # En el estudio actual se aprecia algunos focos de restricción de difusión aislados a nivel de la cortical precentral derecha y parietal posterior derecho, que se aprecian con una hiperintensidad en la secuencia Flair, compatible con pequeños focos isquémicos agudos en el territorio vascular superficial de la ACM derecha de probable origen embólico arteria arterial.
+Sistema ventricular simétrico, de tamaño normal. Línea media centrada. Cisternas de la base y perimesencefálicas libres. No se observan otras lesiones en parénquima cerebral, cerebeloso ni en tronco encefálico. En la secuencia de difusión no apreciamos alteraciones. El estudio angiográfico intracraneal no muestra alteraciones significativas dentro de los límites de resolución de la técnica.El estudio angiográfico extracraneal muestra un origen común del tronco braquiocefálico arterial derecho con AC común derecha, considerándose una variante de la normalidad. Sistema vertebrobasilar conservado. Arterias carótidas comunes permeables. Estenosis de la ACI proximal de aproximadamente el 57 % según método NASCET. Estenosis no significativa del bulbo carotídeo izquierdo, con ligera irregularidad de modo muesca secundaria a una placa ateromatosis. Unión cráneo-cervical de características normales.
+CONCLUSION: Pequeños focos isquémicos aislados corticales agudos en el territorio vascular superficial de la ACM derecha de probable origen embólico arterio arterial por estenosis focal del 57 % según método NASCET de la ACI derecha extracraneal proximal. Estenosis no significativa del bulbo carotídeo izquierdo
+
+
+EVOLUCIÓ CLÍNICA
+Mujer diestra de 65 años, mRS 0, con factores de riesgo cardiovascular que consulta el 24.08 por déficit sensitivo motor de mano izquierda de aproximadamente 5 horas de evolución. A su llegada, hipertensión arterial de 184/97 mmHg, siendo el resto de constantes vitales correctas, ECG que muestra taquicardia sinusal, objetivándose a la exploración neurológica debilidad distal (mano) y trastorno sensitivo de mano izquierda, con RMP bicipitales y tricipitales presentes y simétricos, puntuando en la escala NIHSS 1. Se realiza TC craneal urgente que no muestra lesiones isquémicas ni hemorrágicas agudas. Se realiza estudio neurosonológico urgente que muestra ateromatosis carotídea bilateral condicionando una estenosis del 30-50% en la arteria carótida interna izquierda y del 50-70% en la arteria carótida interna derecha, con estudio intracraneal sin estenosis hemodinámicamente significativas ni anomalías de flujo. Se orienta como ictus isquémico de territorio indeterminado derecho y de etiología a estudio. No tributaria de rTPA ni de trombectomía mecánica por cronología incierta, clínica minor sin repercusión funional significativa y ausencia de oclusión arterial. y clínica minor. Se inicia doble antiagregación y estatinas a dosis altas y se decide ingreso en la Unidad de Ictus Agudos (UIA) para completar estudio etiológico y control evolutivo.
+
+Durante su estancia en UIA la paciente se mantiene hemodinamicamente estable, afebril. A nivel neurológico persiste leve alteración sensitiva en mano izquierda. Se traslada a planta convencional de Neurología
+
+Informe d'alta d'hospitalització
+
+
+
+
+Como parte del estudio etiològico, la monitorización cardiaca no evidencia eventos arrítmicos. Se realiza analítica de ingreso que muestra perfil glucèmico sin alteraciones (HbA1c 5.3%) con perfil lipídico alterado con LDL de 138mg/dl y triglicéridos de 297mg/dl. Se realiza ecocardiograma que no muestra alteraciones significativas. En la RM cerebral, se aprecian pequeños focos isquémicos aislados corticales agudos en el territorio vascular superficial de la ACM derecha de probable origen embólico arterio arterial por estenosis focal del 57 % según método NASCET de la ACI derecha extracraneal proximal.
+Se orienta, pues, como un ictus isquémico de territorio carotídeo derecho de probable etiología aterotrombótica y mecanismo embólico.
+Durante su estancia, en planta convencional de Neurología, ha presentado episodios de sangrado vaginal y prurito vulvar moderado (antecedente de doble anexectomía e histerectomía). La paciente ya presentaba un eczema vulvar de larga evolución que trataba de manera tópica. Se realiza sedimento de orina que no muestra hematuria, bacteriuria ni signos de infección. Es valorada por Ginecología. A la exploración, labios mayores y menores eritematosos, descamación superficial y lesiones de escoriación en labios mayores e introito vaginal levemente sangrantes a la manipulación. En la especuloscopia la vagina y cúpula son macroscópicamentenormales. A menos de 1 cm del introito vaginal, pequeñas laceraciones no sangrantes con la manipulación. Se orienta como un eczema vulvar y se pauta tratamiento tópico junto con óvulos.
+
+Al alta:
+NIHSS =1 (trastorno sensitivo mano izquierda y Miller-Fisher izquierdo) mRS =1
+
+DIAGNÒSTICS
+1. Ictus isquémico de territorio carotídeo derecho de probable etiología aterotrombótica y mecanismo embólico 2.Estenosis 57% arteria carótida interna (ACI) derecha
+3.Hipertensión arterial 4.Dislipemia 5.Eczema vulvar
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Dieta cardiosaludable
+Adiro 300 mg 1 comprimido cada 24 horas vo
+Clopidogrel 75 mg 1 comprimido cada 24 horas vo
+Atorvastatina 80 mg 1 comprimido cada 24 horas vo
+Ranitidina 150 mg 1 cada 12 horas vo
+Lexxema  crema  1  aplicación  c/12h  durant  2  semanas,  a  valorar  ambulatoriamente  necesidad  de  alargar tratamiento
+Cicatridina óvulos 1 aplicación c/24h nocturna durante dos semanas
+
+CONTROL
+Acudir a CCEE Neuroradiología intervencionista el 1 de septiembre de 2017 a las 8:30 horas de la mañana
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+29.08.2017
+Pàgina 1 de 4

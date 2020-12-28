@@ -1,0 +1,129 @@
+_LOCATION_ Tel. _CONTACT_
+_CONTACT_
+Informe Seguiment Hospitalització
+_NAME_
+HC: _ID_
+
+>
+
+Informe de Cuidados Intensivos
+
+
+Adreça: _LOCATION_	Data naix.: _DATE_ Població: _LOCATION_	Sexe: FEMENI
+Provincia: _LOCATION_	CIP: _ID_
+País: _LOCATION_	NASS: _ID_
+Telèfon: _CONTACT_ / _CONTACT_	DNI o Tarja Residència: _ID_
+
+
+Servei: Medicina Intensiva	Data ingrés a URG: 04/03/2017 22:08
+Unitat clínica: Unitat Semicrítics	Data hospitalització: 04/03/2017 23:21
+Tipus d'ingrés: Urgències
+Proveïdor de Serveis: Servei Català de la Salut
+
+
+
+Diagnòstic principal:
+
+431 HEMATOMA CEREBRAL
+
+Diagnòstics Secundaris:
+
+401.9 HTA
+
+Procediments:
+
+87.03 TAC CRANIAL
+90.59 ANALITICA SANG
+87.44 RADIOGRAFIA DE TORAX
+
+
+
+
+
+Pacient de 76 anys d'edat que ingressa per Hematoma cerebral
+
+Antecedents:
+
+Malalties prèvies:
+
+HIPERTENSIÓ ARTERIAL (en tratamiento. Desconoce tensiones habituales. ) HIPOTIROIDISME (en tratamiento .
+
+Al·lèrgies:
+
+El pacient no presenta al·lèrgies conegudes.
+
+Medicació prèvia:
+
+Esidrex 25mg/d; Eutirox 100mcg/d; Ramipril 10mg/d.
+
+Situació funcional:
+
+Situació mental: FFSS conservadas
+Situació física: Autonoma para las ABVD
+
+Antecedents socials i professionals:
+
+
+
+Situació social: Vive sola, autonoma para las ABVD
+
+Història Actual:
+
+Paciente de 76 años, el dia 04/03/2017 a las h: 21.10 inicio de forma brusca con afasia y hemiparesia B-C izquierda.
+Llega en urgencias a las 22.10 y se activa código ictus. En el TAC craneal evidencia de hematoma intraparenquimal derecho. Se contacta neurocirurgia que desestima indicación quirúrgica debido a la profundidad del hematoma, si empeoramiento del GCS indicación a repetir TAC y revaloración para posible indicación a drenaje.
+Durante la estancias en urgencias la paciente se mantiene con GCS 15. Se ingresa en la unidad de semicriticos para monitorización del GCS.
+
+Exploració física:
+
+A la llegada en urgencias: AC: TCR no ausculto soplos.
+NRL Consciente y orientada, disartria leve (1), no afasia. PPCC con PFSN izquierda (1), paresia izquierda braquial y crural (4-3 ) leve hemihipostesia fascio-braqui crural (1), con extensión sensitiva (1). NIHSS 11.
+
+Ingreso en semicriticos:
+-	NRL: paciente vigil, orientada, poco colaboradora por agitación y por dolor que refiere a nivel EII. Disartria leve (1), déficit VII n.c. D (2), plegia braquial I (4), paresia pierna I 3-4/5 (2), aparentemente sin alteracion de la sensibilidad, desviación de la mirada a D (1), hemianopsia parcial (1), desviación lengua a
+I. NIHSS 11.
+-	Hemodinamica: TA 180/70 FC 80 r. AC: ritmico
+-	Respiración: eupneica en aa, SpO2 96%. AT: MV reducido, algunos runcus aislados
+-	Abdomen: blando, depresible, sin dolor
+
+Resum proves complementàries:
+
+Laboratori:
+
+-	A/S: Leucòcits 10.76 x 10^9/L, Hematies 4.95 x 10^12/L, Hemoglobina 150 g/L, Hematòcrit 0.45 L/L, Volum corpuscular mig 89.9 fL, Hemoglobina corpuscular mitja 30.3 pg, Conc. Hb. corpuscular mitja 337 g/L, Índex dispersió hematies 12.4 %, Plaquetes 267 x 10^9/L, Volum plaquetar mig 10.4 fL, Índex dispersió de plaquetes 12.4 fL, Plaquetòcrit 0.028 L/L, Neutròfils (%) 54.2 %, Neutròfils 5.84 x 10^9/L, Limfòcits (%) 38.6 %, Limfòcits 4.15 x 10^9/L, Eosinòfils (%) 2.3 %, Eosinòfils 0.25 x 10^9/L, Basòfils (%)
+0.4 %, Basòfils 0.04 x 10^9/L, Monòcits (%) 4.5 %, Monòcits 0.48 x 10^9/L, Temps protrombina 1 ratio, T.Tromboplastina parcial activ 0.98 ratio, Glucosa *141 mg/dL, Urea 33 mg/dL, Creatinina 0.6 mg/dL, Sodi 142 mEq/L, Potassi 4.3 mEq/L
+
+Imatge:
+
+-	RX torax: cardiomegalia
+
+-TC craneal: Se visualiza una colección hemática intraparenquimatosa gangliocapsular derecha de 2.4 x2.3x2.3cm (TxAPxCC) y un volumen aproximado de 7cc, que se abre a el ventrículo lateral derecho y produce discreto edema perilesional. Sin efecto de masa significativo. Ausencia de desplazamientos significativos de las estructuras de línea media supra e infratentoriales. Sistema ventricular de tamaño, configuración y posición normales. Cisternas basales y peritronculares libres. Fosa posterior y resto de
+
+
+parénquima cerebral sin alteraciones morfológicas ni densitométricas valorables. Conclusió: Hematoma agudo intraparenquimatoso gangliocapsular derecho (7cc) abierto a sistema ventricular homolateral, sin efecto de masa significativo.
+
+-	TC cranial control: Examen de control que demostra un significatiu augment de volum de l'hematoma gangliobasalcapsularcentre semioval dret obert a sistema ventricular. HSA focal parietal inferior esquerra.
+
+Altres proves:
+
+-	ECG:artefacto de movimientos, RS, FC 80, onda T neg en DIII
+
+Evolució i comentaris:
+
+Nota d'alta de semicrítics (M. _NAME_/T. _NAME_)
+
+Pacient de 76 anys amb antecedents d'HTA (no pren tractament antihipertensiu) i hipotiroïdisme.
+
+Ingressa a semicrítics el dia 4/03/17 per hematoma gangliocapsular dret obert al sistema ventricular. Per augment de la focalitat es realitza nou TC cranial el dia 6/03 que mostra creixement de l'hematoma. Es manté en observació a semicrítics sense presentar empitjorament del nivell de consciència ni signes d'hipertensió endocranial, mantenint-se neurològicament estable.
+
+Donada l'estabilitat clínica es decideix alta a planta de Neurologia.
+
+Tractament:
+
+Fàrmacs:
+
+Veure monodosi.
+
+_LOCATION_, 07/03/2017
+_NAME_	_NAME_
+(Nº col _ID_)	(Nº col _ID_
+Nom i cognoms metge: _NAME_ (Nº col: _ID_Pàg.: 1/3

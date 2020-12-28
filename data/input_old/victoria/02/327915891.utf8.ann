@@ -1,0 +1,57 @@
+T1	_SUG_Ictus_isquemico 67 72	Ictus
+T2	Fecha_llegada_hospital 322 332	19/01/2017
+#2	AnnotatorNotes T2	2017-01-19
+T3	Fecha_de_ingreso 404 413	20/1/2017
+#3	AnnotatorNotes T3	2017-01-20
+T4	Fecha_de_alta 442 451	25/1/2017
+#4	AnnotatorNotes T4	2017-01-25
+T6	_SUG_Ictus_isquemico 640 645	ictus
+T7	_SUG_Lateralizacion 719 728	izquierda
+T9	NIHSS_previa 733 740	NIHSS 7
+T10	_SUG_Trombolisis_intraarterial 769 783	trombolisis ev
+T11	_SUG_NIHSS_alta 923 930	NIHSS 1
+T12	_SUG_NIHSS_previa 923 930	NIHSS 1
+T14	FECHA 1235 1239	2010
+#14	AnnotatorNotes T14	2010-UNDEF-month-UNDEF-day
+T17	Tratamiento_anticoagulante_hab 1382 1389	sintrom
+T19	_SUG_Lateralizacion 1601 1608	derecha
+T20	FECHA 3012 3015	1/2
+#20	AnnotatorNotes T20	2010-02-01
+T21	_SUG_Lateralizacion 4048 4049	I
+T22	_SUG_ASPECTS 4089 4096	Aspecte
+T23	_SUG_ASPECTS 4105 4112	Aspecte
+T24	_SUG_Lateralizacion 4142 4143	I
+T25	TAC_craneal 4232 4243	TAC cranial
+T26	_SUG_Lateralizacion 4515 4524	izquierdo
+T27	_SUG_TAC_craneal 4675 4677	TC
+T28	_SUG_Localizacion 4697 4705	temporal
+T29	_SUG_Lateralizacion 4706 4713	derecho
+T30	_SUG_Arteria_afectada 5011 5014	ACM
+T31	_SUG_Lateralizacion 5015 5022	derecha
+T32	_SUG_Etiologia 5032 5046	cardioembolica
+T33	_SUG_Tratamiento_anticoagulante_alta 5069 5076	sintrom
+T34	_SUG_Tratamiento_anticoagulante_hab 5069 5076	sintrom
+T41	Arteria_afectada 5262 5265	ACM
+T42	Lateralizacion 5266 5273	derecha
+T43	Etiologia 5283 5297	cardioembolica
+T44	_SUG_Etiologia 5328 5340	Hipertension
+T46	_SUG_TAC_craneal 5483 5493	TC craneal
+T47	Tratamiento_anticoagulante_alta 5598 5605	Eliquis
+T49	_SUG_Etiologia 5640 5648	habitual
+T50	SECCION_TRATAMIENTO_HABITUAL 1241 1261	Tratamiento habitual
+T51	SECCION_EXPLORACION_FISICA_DURANTE_HOSPITALIZACION 1421 1460	EXPLORACIÓ FÍSICA en la UNidad de Ictis
+T52	SECCION_EXPLORACIONES_COMPLEMENTARIAS 1714 1742	EXPLORACIONS COMPLEMENTARIES
+T54	SECCION_DIAGNOSTICOS_SECUNDARIOS 5300 5324	Diagnósticos secundarios
+T55	SECCION_PROCEDIMIENTOS 5465 5479	Procedimientos
+T56	SECCION_TRATAMIENTO_AL_ALTA 5545 5564	Tratamiento al alta
+T5	SECCION_ANTECEDENTES 1020 1035	HISTORIAL MÈDIC
+T18	SECCION_EVOLUCION 4379 4388	Evolución
+#1	AnnotatorNotes T9	7
+T16	Ataque_isquemico_transitorio 5228 5258	Infarto clínicamente regresivo
+T36	mRankin_alta 5154 5170	Rankin (alta): 0
+#5	AnnotatorNotes T36	0
+T37	NIHSS_alta 5171 5186	NIHSS (alta):	0
+#6	AnnotatorNotes T37	0
+T8	SECCION_DIAGNOSTICO_PRINCIPAL 5204 5225	Diagnóstico principal
+T13	SECCION_DIAGNOSTICOS 5188 5200	Diagnósticos
+T15	SECCION_RECOMENDACIONES 5794 5834	Recomendaciones de prevención secundaria

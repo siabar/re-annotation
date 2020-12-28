@@ -1,0 +1,88 @@
+T1	Hora_de_alta 241 246	11:25
+#1	AnnotatorNotes T1	11:25
+T2	Fecha_de_alta 250 260	19.12.2017
+#2	AnnotatorNotes T2	2017-12-19
+T3	Fecha_de_ingreso 362 372	08.12.2017
+#3	AnnotatorNotes T3	2017-12-08
+T5	_SUG_Ictus_isquemico 486 498	Avc isquemic
+T6	_SUG_Ataque_isquemico_transitorio 504 509	Ictus
+T7	_SUG_Trombolisis_intravenosa 524 536	fibrinolític
+T8	Fecha_llegada_hospital 810 815	08/12
+#8	AnnotatorNotes T8	2017-12-08
+T9	Hora_llegada_hospital 822 827	11:20
+#9	AnnotatorNotes T9	11:20
+T10	_SUG_Ataque_isquemico_transitorio 847 852	ictus
+T11	_SUG_Lateralizacion 885 892	derecho
+T12	Hora_primer_bolus_trombolisis_rtPA 960 965	12:10
+#12	AnnotatorNotes T12	12:10
+T13	_SUG_Ataque_isquemico_transitorio 988 993	Ictus
+T14	_SUG_Localizacion 994 1000	arcial
+T15	_SUG_Arteria_afectada 1004 1007	ACM
+T16	_SUG_Lateralizacion 1008 1017	izquierda
+T17	_SUG_Localizacion 1035 1042	parcial
+T18	_SUG_Lateralizacion 1671 1678	derecha
+T19	_SUG_Lateralizacion 1701 1708	derecha
+T20	NIHSS_previa 1758 1817	NIHSS 11 (0 + 2 + 0 + 0 + 1 + 2 + 1 + 1 + 0 + 0 + 2 + 0 + 2
+T22	_SUG_Lateralizacion 1849 1856	derecho
+T24	FECHA 2626 2631	09/12
+#24	AnnotatorNotes T24	2017-12-09
+T25	_SUG_TAC_craneal 2666 2669	TAC
+T26	FECHA 2678 2683	12/12
+#26	AnnotatorNotes T26	2017-12-12
+T27	FECHA 2749 2754	12/12
+#27	AnnotatorNotes T27	2017-12-12
+T28	_SUG_Ictus_isquemico 2768 2788	sufusión hemorrágica
+T29	_SUG_Hemorragia_cerebral 2841 2850	hematomas
+T30	_SUG_Localizacion 2851 2860	profundos
+T31	_SUG_Lateralizacion 2907 2914	derecha
+T32	_SUG_Ataque_isquemico_transitorio 2926 2931	Ictus
+T33	FECHA 3231 3236	14/12
+#33	AnnotatorNotes T33	2017-12-14
+T34	FECHA 3309 3314	13/12
+#34	AnnotatorNotes T34	2017-12-13
+T35	_SUG_Lateralizacion 3423 3431	esquerra
+T36	_SUG_Lateralizacion 3839 3847	esquerra
+T37	_SUG_Lateralizacion 3859 3863	dret
+T38	_SUG_Lateralizacion 4036 4044	esquerra
+T39	_SUG_Ataque_isquemico_transitorio 4082 4088	lìctus
+T40	NIHSS_alta 4306 4316	NIHSS de 2
+T41	_SUG_Lateralizacion 4335 4342	derecho
+T42	_SUG_Trombolisis_intravenosa 4407 4432	tratamiento fibrinolítico
+T43	_SUG_Hemorragia_cerebral 4457 4465	hematoma
+T44	_SUG_Lateralizacion 4494 4501	derecha
+T45	_SUG_Ataque_isquemico_transitorio 4801 4806	ictus
+T46	_SUG_Ataque_isquemico_transitorio 4825 4830	Ictus
+T47	Arteria_afectada 4834 4837	ACM
+T48	Localizacion 4838 4845	parcial
+T49	Lateralizacion 4846 4855	izquierda
+T50	_SUG_Lateralizacion 5126 5127	e
+T52	Ictus_isquemico 5307 5319	Avc isquemic
+T54	Tratamiento_antiagregante_alta 5647 5652	Adiro
+T55	FECHA 5769 5774	18/12
+#55	AnnotatorNotes T55	2017-12-18
+T56	_SUG_Ataque_isquemico_transitorio 5989 5994	Ictus
+T57	FECHA 6079 6089	19.12.2017
+#57	AnnotatorNotes T57	2017-12-19
+T58	SECCION_MOTIVO_DE_INGRESO 426 440	MOTIU D'INGRÉS
+T59	SECCION_ANTECEDENTES 539 550	ANTECEDENTS
+T60	SECCION_TRATAMIENTO_HABITUAL 725 743	MEDICACIÓ HABITUAL
+T61	SECCION_PROCESO_ACTUAL 758 771	PROCÉS ACTUAL
+T62	SECCION_EXPLORACION_FISICA 1267 1284	EXPLORACIÓ FÍSICA
+T63	SECCION_EXPLORACION_FISICA_AL_ALTA 1820 1827	Al alta
+T64	SECCION_EXPLORACIONES_COMPLEMENTARIAS 1872 1897	EXPLORACIÓ COMPLEMENTÀRIA
+T65	SECCION_EXPLORACIONES_COMPLEMENTARIAS_EN_PLANTA_DE_NEUROLOGIA 2580 2603	EN PLANTA DE NEUROLOGÍA
+T66	SECCION_EVOLUCION 4134 4150	EVOLUCIÓ CLÍNICA
+T67	SECCION_DIAGNOSTICOS 5275 5297	ORIENTACIÓ DIAGNÒSTICA
+T68	SECCION_PROCEDIMIENTOS 5504 5516	PROCEDIMENTS
+T69	SECCION_TRATAMIENTO_Y_RECOMENDACIONES_AL_ALTA 5584 5619	TRACTAMENT I RECOMANACIONS A L'ALTA
+T70	SECCION_CONTROL 5927 5934	CONTROL
+T71	SECCION_DESTINO_AL_ALTA 5997 6016	DESTINACIÓ A L'ALTA
+#4	AnnotatorNotes T20	11
+T4	SECCION_EXPLORACIONES_COMPLEMENTARIAS_EN_URGENCIAS 1898 1910	EN URGENCIAS
+T51	SECCION_EXPLORACION_FISICA_EN_URGENCIAS 1377 1389	En urgencias
+T53	Etiologia 4869 4883	cardioembólica
+T72	Trombolisis_intravenosa 941 953	fibrinolisis
+T73	Fecha_trombolisis_rtPA 810 815	08/12
+#6	AnnotatorNotes T73	2017-12-08
+T74	TAC_craneal 2166 2177	TAC Craneal
+#5	AnnotatorNotes T40	2

@@ -1,0 +1,69 @@
+T0	Fecha_de_alta 314 324	21.06.2017
+#0	AnnotatorNotes T0	2017-06-21
+T1	Hora_de_alta 325 330	12:38
+#1	AnnotatorNotes T1	12:38
+T2	Fecha_de_ingreso 371 381	01.06.2017
+#2	AnnotatorNotes T2	2017-06-01
+T3	SECCION_MOTIVO_DE_INGRESO 442 456	MOTIU D'INGRÉS
+T4	_SUG_Ictus_isquemico 462 467	Ictus
+T5	SECCION_ANTECEDENTES 469 480	ANTECEDENTS
+T6	SECCION_TRATAMIENTO_HABITUAL 635 653	MEDICACIÓ HABITUAL
+T7	Tratamiento_antiagregante_hab 766 769	AAS
+T8	_SUG_Lateralizacion 818 819	D
+T9	SECCION_PROCESO_ACTUAL 869 882	PROCÉS ACTUAL
+T10	Fecha_inicio_sintomas 915 918	1/6
+#10	AnnotatorNotes T10	2017-06-01
+T11	_SUG_Lateralizacion 962 963	E
+T12	_SUG_Ictus_isquemico 992 997	ictus
+T13	SECCION_EXPLORACION_FISICA 1001 1018	EXPLORACIÓ FÍSICA
+T14	_SUG_Lateralizacion 1168 1169	E
+T15	_SUG_Lateralizacion 1224 1225	E
+T16	_SUG_Localizacion 1257 1261	LACI
+T17	NIHSS_previa 1263 1270	NIHSS 6
+T18	_SUG_Lateralizacion 1356 1357	E
+T19	Localizacion 1376 1380	TACI
+T20	_SUG_NIHSS 1382 1390	NIHSS 15
+T21	SECCION_EXPLORACIONES_COMPLEMENTARIAS 1431 1456	EXPLORACIÓ COMPLEMENTÀRIA
+T22	TAC_craneal 1500 1511	TAC cranial
+T23	_SUG_TAC_craneal 1658 1661	TAC
+T24	_SUG_Localizacion 1726 1736	lenticular
+T25	_SUG_Lateralizacion 1737 1741	dret
+T26	_SUG_Localizacion 1792 1799	profund
+T27	_SUG_Lateralizacion 1809 1814	dreta
+T28	_SUG_Ictus_isquemico 1822 1847	transformació hemorràgica
+T29	SECCION_EVOLUCION 1965 1981	EVOLUCIÓ CLÍNICA
+T30	_SUG_NIHSS 2282 2289	NIHSS 6
+T31	_SUG_NIHSS 2320 2329	NIHSS 6-9
+T32	Hora_primer_bolus_trombolisis_rtPA 2421 2426	16:35
+#32	AnnotatorNotes T32	16:35
+T33	_SUG_Lateralizacion 2514 2515	E
+T35	_SUG_TAC_craneal 2529 2532	TAC
+T36	_SUG_Lateralizacion 2827 2832	dieta
+T37	_SUG_Lateralizacion 2964 2972	esquerra
+T38	_SUG_Tratamiento_anticoagulante 3217 3225	edoxaban
+T39	_SUG_Localizacion 3356 3365	posterior
+T40	SECCION_DIAGNOSTICOS 3368 3379	DIAGNÒSTICS
+T41	Ictus_isquemico 3386 3400	Ictus isquèmic
+T42	Arteria_afectada 3413 3416	ACM
+T43	Lateralizacion 3417 3418	D
+T44	SECCION_PROCEDIMIENTOS 3492 3504	PROCEDIMENTS
+T45	SECCION_TRATAMIENTO_Y_RECOMENDACIONES_AL_ALTA 3731 3766	TRACTAMENT I RECOMANACIONS A L'ALTA
+T46	Tratamiento_anticoagulante_alta 3769 3776	Lixiana
+T47	SECCION_CONTROL 3961 3968	CONTROL
+T48	_SUG_Localizacion 4034 4043	posterior
+T49	SECCION_DESTINO_AL_ALTA 4061 4080	DESTINACIÓ A L'ALTA
+T50	FECHA 4136 4146	21.06.2017
+#50	AnnotatorNotes T50	2017-06-21
+T51	mRankin_previa 629 631	R1
+#3	AnnotatorNotes T51	1
+#4	AnnotatorNotes T17	6
+T52	Trombolisis_intravenosa 2346 2370	tractament finbrinoíitic
+T53	Etiologia 3440 3454	cardiomebòlica
+T54	Hora_inicio_sintomas 970 975	14'15
+#6	AnnotatorNotes T54	14:15
+T55	Fecha_llegada_hospital 915 918	1/6
+#7	AnnotatorNotes T55	2017-06-01
+T56	Fecha_trombolisis_rtPA 915 918	1/6
+#8	AnnotatorNotes T56	2017-06-01
+T57	Fecha_TAC_inicial 915 918	1/6
+#9	AnnotatorNotes T57	2017-06-01

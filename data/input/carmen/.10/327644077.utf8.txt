@@ -1,0 +1,171 @@
+_LOCATION_
+email: _CONTACT_ Telèfon _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 46 Anys
+NIF/DNI: _ID__NAME_; _NAME_; 
+_NAME_; _NAME_; _NAME_
+Informe d'alta d'hospitalització
+16:00:00
+24.01.2017
+_LOCATION_
+_SS_ UNITAT D'ICTUS
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_; _CONTACT_
+DOMICIL/RES.SOC 19.01.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Codigo ictus
+
+ANTECEDENTS
+Fumador 20cig/d
+Niega consumo enolico
+
+-	Hipertensión arterial en tratamiento farmacológico, refiere mal cumplimiento y malos controles habituales.
+-	Episodio de diplopia y oftalmoparesia autolimitada en 2014. Por este motivo se realizo:
+*	Tc craneal: Ausencia de alteraciones intracraneales agudas valorables
+*Doppler carótidas, vertebrales y transcraneal sin objetivarse alteraciones (no se viusaliza ostium vertebral izquierda ni basilar distal)
+*RM craneal: Estudio que puede ser considerado dentro de los límites normales. Como variante de la normalidad a	destacar una agenesia/hipoplasia del segmento A1 de la arteria cerebral anterior izquierda.
+*	EMG/ENG: sin alteraciones Situacion sociofuncional: IABVD, mRS 0
+MEDICACIÓ HABITUAL
+Atenolol 50mg/ 24 h, Enalapril 20mg/12 h, Hidroclorotiazida 50mg/24 h
+
+PROCÉS ACTUAL
+Paciente de 47 años con los antecedentes referidos que, encontrándose previamente asintomático, comienza sobre las 18:15h del 19/01/2017 mientras paseaba con cuadro de hemiparesia D, disartria y paralisis facial. Avisa a SEM que activa codigo ictus a las 18:46. Se activa codigo TC. Hora de llegada a _SS_: 19:03.
+
+EXPLORACIÓ FÍSICA
+
+EXPLORACION URGENCIAS:
+Constantes: 203/111
+EN: Disartria inteligible moderada (2), PFSN D (2). NIHSS 4
+
+EXPLORACION TRAS TC
+NIHSS 0
+
+EXPLORACION UNIDAD DE ICTUS al ingreso:
+Constantes: 211/123--> 122/72 tras urapidilo
+EN: NIHSS 4+1 (disartria, PFSN D, Miller-fisher D).
+
+Exploración Unidad de Ictus el día 20/1/17 a las 20:00h:
+
+Informe d'alta d'hospitalització
+
+
+
+
+Exploración física normal
+Diisartria inteligible moderada (2), PFSN D (2) y mínima claudicación de ESD (1)  con M-F (+), NIHSS 5+1.
+
+EXPLORACIÓ COMPLEMENTÀRIA
+URGENCIAS
+-TC multimodal: Estudio urgente que no evidencia signos de lesión isquémica aguda ni oclusión vascular intracraneal. Aparición de hipodensidades focales en cuerpo calloso (márgen izquierdo de rodilla y cuerpo), asi como sustancia blanca periventricular izquierda y centrosemioval derecho, que por sus características sugieren lesiones crónicas de etiología inflamatoria desmielinizante vs isquémica?. Se recomienda completar estudio con RM.
+-AG urgente: Glucemia 127, Potasio 3.37, muestra para coagulacion insuficiente, resto normal.
+-EKG: ritmo sinual sin otras alteraciones significativas.
+
+UNIDAD DE ICTUS
+-AG de ingreso: se adjunta
+-TC craneal de control a las 24h: Aparición de pequeño foco hemático en núcleo lenticular izquierdo. Resto sin cambios significativos respecto TC previo.
+-Telemetría de 72h: sin detectarse arritmias potencialmente embolígenas
+-EcoScan cardiaco: negativo
+-Estduio Shunt: negativo en reposo y tras maniobra de Valsalva.
+-RM encefálica: El estudio angiográfico de la circulación intracraneal  con secuencia TOF muestra adecuado calibre y morfología del segmento intracraneal de las arterias carótidas internas y arterias vertebrales, del tronco basilar, ni de los segmentos proximales de las arterias cerebrales medias y posteriores. No se visualiza el segmento A1 de la arteria cerebral anterior izquierda y ambas ramas orbitofrontal y frontopolar se originan de la arteria cerebral anterior contralateral. CONCLUSIÓN: Infarto agudo en la corona radiata izquierda en territorio de arterias lenticuloestriadas, sin importante efecto de masa intracraneal. Pequeña hemorrágia focal en el globo pálido izquierdo en fase subaguda temprana. Pequeños infartos crónicos afectando centros semiovales y el cuerpo calloso. Todas las lesiones descritas no se apreciaban en el estudio previo de Noviembre 2011.
+
+
+EVOLUCIÓ CLÍNICA
+Paciente HTA, obeso y fumador que consulta por cuadro de menos de una hora de evolución de hemiparesia D, PFSN D y disartria. A su llegada NIHSS 4 a expensas de disartria y paresia facial. Se realiza TC multimodal donde no se objetivan lesiones isquémicas agudas, no oclusión de grandes vasos y estudio perfusión no valorable. Posteriormente al TC el paciente queda asintomático. Tras reinterrogar al paciente éste explica que dicha clínica ya había fluctuado previamente a la llegada a urgencias. Durante su estancia en urgencias, a las 19:40h, presenta nueva fluctuación clínica. Se decide, encontrándose aun en ventana terapéutica, ingreso en Unidad de Ictus y administración de rtPA. A su llegada a la Unidad de Ictus TA 211/123mmHg por lo que se adminsitra bolus de urapidilo sin conseguirse respuesta correcta, por lo que se decide iniciar perfusión de urapidilo consiguiéndose control a las 20:15h. Encontrandose en ese momento con NIHSS 4+1 y TA 122/72mmHg, se administra bolus de rtPA (9mg) y posterior perfusión (81mg) que se inicia a las 20:20h. Por otro lado, cumpliendo criterios de inclusión y  ninguno de exclusión, tras firma de CI se incluye paciente en estudio 101SK202- ACTION2 (Natalizumab vs placebo en pacientes con ictus isquémico)
+
+Informe d'alta d'hospitalització
+
+
+
+
+Durante su ingreso en Unidad de Ictus, se ha mantenido inicialmente con hipertensión arterial elevada precisando control farmacológico en perfusión continua en las primera 24-48 horas. Clínicamente estable sin nuevas fluctuaciones clínicas, ha realizado Rehabilitación con leve mejoría clínica (NIHSS 4+1 a expensas de disartria moderada inteligible, PFSN D y Miller-Fisher D). El Tc craneal control a las 24 horas muestra la aparición de pequeño foco hemático en núcleo lenticular izquierdo sin otros cambios significativos respecto TC previo. Se ha completa estudio etiológico con telemetría cardiaca durante el ingreso sin detectarse arritmias potencialmente embolígenas, se ha realizado ecoscan que no muestra alteraciones y shunt cardiaco que es negativo. Se ha realizado RM encefálica que muestra un infarto agudo (megalaguna) en la corona radiata izquierda en territorio de arterias lenticuloestriadas y pequeña hemorrágia focal en el globo pálido izquierdo en fase subaguda temprana en relación a enfermedad de pequeño vaso. Ademas cumpliendo criterios clínicos se incluye al paciente en el registro SRA (monitorización para detectar factores predictores de FA) por lo que se ha realizado monitorización del día 20 a las 14:20 al día 23 de Enero a las 16:00.
+Tras estabilidad clínica, control hipertensivo y tras completar estudio etiológico, se decide alta hospitalaria y control en consultas externas de Neurovascular según protocolo estudio ACTION 2. Se solicita ETE ambulatorio y primera visita en Hematología para estudio de trombofilias para completar estudio etiológico, a pesar de que las lesiones orientan a etiología microangiopática. Al alta NIHSS 3+1 y rankin 2.
+
+DIAGNÒSTICS
+Infarto centro semioval izquierdo de probable etiología microangiopática. HTA mal controlada
+
+PROCEDIMENTS
+TC multimodal TC craneal Ecoscan Cardiaco Telemetría
+RMN
+Registro SRA
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Dieta sin sal y baja en grasas. Ejercicio físico moderado.
+
+-	Abandono de hábito tabáquico
+-	Control estricto de FRCV por MAP.
+
+-	Añadir a su tratamiento habitual: ADIRO 100 mg cada 24 horas
+ATORVASTATINA 80 mg cada 24 horas
+OMEPRAZOL 20 mg cada 24 horas NIFEDIPINO OROS 30mg cada 24 horas
+
+-	Suspender Atenolol 50mg
+
+-	Resto del tratamiento sin cambios: Enalapril 20mg/12 h, Hidroclorotiazida 50mg/24 h
+-	
+Informe d'alta d'hospitalització
+
+
+
+CONTROL
+-	Deberá acudir a visita 30 dias del estudio ACTION 2 el próximo día dia 14/2 a las 10h en la 2ª planta del _SS_ ( Unidad de Ictus)
+
+-	Visita control en las consultas de Neurovascular en la 3ª planta anexos del _SS_ el día 19/4/17 a las ....
+
+-	Visita para valoración y seguimiento en las consultas de Neurorehablitación. Le informaran telefonicamente y/o por carta con los datos de la cita.
+
+-	Será avisado por correo y/o telefónicamente para valoración en las consultas de Foniatria y logopedia
+
+-	Se solicita ademas 1º visita en CCEE Hematología y ETE para completar estudio. Le informaran telefonicamente y/o por carta con los datos de la cita.
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+24.01.2017
+Pàgina 1 de 4

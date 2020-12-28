@@ -1,0 +1,173 @@
+T1	Hora_de_alta 249 254	15:00
+#1	AnnotatorNotes T1	15:00
+T2	Fecha_de_alta 258 268	19.12.2017
+#2	AnnotatorNotes T2	2017-12-19
+T3	Fecha_de_ingreso 370 380	09.12.2017
+#3	AnnotatorNotes T3	2017-12-09
+T4	_SUG_mRankin_alta 911 916	mRS 0
+T5	mRankin_previa 911 916	mRS 0
+T7	Hora_inicio_sintomas 1011 1016	10:45
+#7	AnnotatorNotes T7	10:45
+T8	HORA 1182 1187	11:03
+#8	AnnotatorNotes T8	11:03
+T9	_SUG_Ictus_isquemico 1240 1245	ictus
+T10	HORA 1252 1257	11:10
+#10	AnnotatorNotes T10	11:10
+T11	Hora_llegada_hospital 1320 1325	12:09
+#11	AnnotatorNotes T11	12:09
+T12	_SUG_NIHSS_alta 2020 2025	NIHSS
+T13	_SUG_NIHSS_previa 2020 2025	NIHSS
+T15	TAC_craneal 2466 2476	TC cranial
+T16	Hora_TAC_inicial 2478 2483	12:35
+#16	AnnotatorNotes T16	12:35
+T17	_SUG_TAC_craneal 2487 2489	TC
+T18	ASPECTS 2529 2539	ASPECTS 10
+T19	_SUG_Arteria_afectada 2572 2575	ACM
+T20	_SUG_Arteria_afectada 2599 2601	M1
+T21	_SUG_Arteria_afectada 2604 2607	ACA
+T22	FECHA 2756 2764	11.12.17
+#22	AnnotatorNotes T22	2017-12-11
+T23	FECHA 3396 3404	13/12/17
+#23	AnnotatorNotes T23	2017-12-13
+T25	_SUG_TAC_craneal 3460 3470	TC cranial
+T27	_SUG_Trombectomia_mecanica 3480 3501	trombectomía mecánica
+T28	FECHA 3503 3511	10.12.17
+#28	AnnotatorNotes T28	2017-12-10
+T29	_SUG_Localizacion 3583 3593	lenticular
+T30	_SUG_Localizacion 3628 3635	caudado
+T31	_SUG_Lateralizacion 3683 3690	derecho
+T32	_SUG_Lateralizacion 3748 3755	derecho
+T33	_SUG_Arteria_afectada 3851 3854	ACM
+T34	_SUG_Lateralizacion 3856 3863	derecha
+T35	_SUG_TAC_craneal 3920 3922	TC
+T36	_SUG_Localizacion 3962 3968	palido
+T37	_SUG_Localizacion 4018 4025	caudado
+T38	FECHA 4093 4101	11.12.17
+#38	AnnotatorNotes T38	2017-12-11
+T40	_SUG_TAC_craneal 4357 4367	TC cranial
+T41	FECHA 4392 4400	11.12.17
+#41	AnnotatorNotes T41	2017-12-11
+T42	_SUG_Localizacion 4530 4540	lenticular
+T43	_SUG_Localizacion 4572 4579	caudado
+T44	_SUG_Lateralizacion 4580 4587	derecho
+T45	_SUG_Lateralizacion 4653 4660	derecho
+T46	_SUG_Lateralizacion 4746 4754	derechas
+T47	_SUG_Localizacion 4820 4831	ventricular
+T48	_SUG_Lateralizacion 4881 4888	derecho
+T49	_SUG_Localizacion 4957 4965	parietal
+T50	_SUG_Lateralizacion 4966 4973	derecha
+T51	_SUG_Arteria_afectada 5045 5048	ACM
+T52	_SUG_Lateralizacion 5049 5056	derecha
+T53	FECHA 5107 5115	12.12.17
+#53	AnnotatorNotes T53	2017-12-12
+T55	_SUG_TAC_craneal 5193 5203	TC cranial
+T56	FECHA 5213 5223	15.12.2017
+#56	AnnotatorNotes T56	2017-12-15
+T57	_SUG_Lateralizacion 5491 5498	derecho
+T58	_SUG_Lateralizacion 5583 5592	izquierda
+T59	_SUG_Localizacion 5664 5675	ventricular
+T60	_SUG_Lateralizacion 5725 5732	derecho
+T61	_SUG_Localizacion 5807 5815	parietal
+T62	_SUG_Lateralizacion 5816 5823	derecha
+T63	_SUG_Arteria_afectada 5898 5901	ACM
+T64	_SUG_Lateralizacion 5902 5909	derecha
+T65	FECHA 5946 5956	15.12.2017
+#65	AnnotatorNotes T65	2017-12-15
+T66	FECHA 5972 5980	15/12/17
+#66	AnnotatorNotes T66	2017-12-15
+T67	FECHA 6232 6240	15/12/17
+#67	AnnotatorNotes T67	2017-12-15
+T68	FECHA 6344 6352	15/12/17
+#68	AnnotatorNotes T68	2017-12-15
+T69	FECHA 6608 6618	16.12.2017
+#69	AnnotatorNotes T69	2017-12-16
+T71	_SUG_TAC_craneal 6659 6669	TC cranial
+T72	FECHA 6679 6689	18.12.2017
+#72	AnnotatorNotes T72	2017-12-18
+T73	_SUG_Lateralizacion 6940 6947	derecho
+T74	_SUG_Lateralizacion 7031 7040	izquierda
+T75	_SUG_Localizacion 7119 7130	occipitales
+T76	_SUG_Lateralizacion 7174 7181	derecho
+T77	_SUG_Ictus_isquemico 7284 7289	ictus
+T78	_SUG_NIHSS_alta 7470 7482	NIHSS  de 19
+T79	_SUG_NIHSS_previa 7470 7482	NIHSS  de 19
+T81	_SUG_TAC_craneal 7487 7497	TC cranial
+T82	_SUG_Arteria_afectada 7565 7568	ACM
+T83	Trombectomia_mecanica 7696 7719	tractament endovascular
+T84	HORA 7750 7755	12:45
+#84	AnnotatorNotes T84	12:45
+T85	Hora_inicio_trombectomia 7779 7784	13:06
+#85	AnnotatorNotes T85	13:06
+T86	Hora_primera_serie_trombectomia 7812 7817	13:16
+#86	AnnotatorNotes T86	13:16
+T87	_SUG_Arteria_afectada 7840 7842	M1
+T88	Hora_recanalizacion 7895 7900	13:34
+#88	AnnotatorNotes T88	13:34
+T89	_SUG_Arteria_afectada 7998 8001	ACA
+T90	_SUG_TAC_craneal 8033 8035	TC
+T91	Hora_recanalizacion 8101 8106	13:41
+#91	AnnotatorNotes T91	13:41
+T92	Hora_fin_trombectomia 8143 8148	13:50
+#92	AnnotatorNotes T92	13:50
+T93	_SUG_NIHSS_alta 8232 8237	NIHSS
+T94	_SUG_NIHSS_previa 8232 8237	NIHSS
+T95	_SUG_NIHSS_alta 8496 8503	NIHSS 6
+T96	_SUG_NIHSS_previa 8496 8503	NIHSS 6
+T98	_SUG_TAC_craneal 8505 8515	TC cranial
+T99	_SUG_Localizacion 8629 8639	lenticular
+T100	_SUG_Arteria_afectada 8789 8792	ACM
+T102	_SUG_TAC_craneal 9031 9041	TC cranial
+T103	_SUG_Localizacion 9156 9167	ventricular
+T104	_SUG_TAC_craneal 9291 9293	TC
+T105	_SUG_TAC_craneal 9471 9473	TC
+T106	FECHA 9721 9726	15.12
+#106	AnnotatorNotes T106	2017-12-15
+T108	_SUG_Ictus_isquemico 10511 10525	ictus isquèmic
+T109	_SUG_Etiologia 10642 10655	indeterminada
+T110	mRankin_alta 10808 10814	mRS: 4
+T111	_SUG_mRankin_previa 10808 10814	mRS: 4
+T112	NIHSS_alta 10815 10824	NIHSS: 11
+T113	_SUG_NIHSS_previa 10815 10824	NIHSS: 11
+T115	Ictus_isquemico 10853 10867	Ictus isquèmic
+T116	Arteria_afectada 10884 10887	ACM
+T117	Etiologia 10929 10942	indeterminada
+T119	Tratamiento_anticoagulante_alta 11364 11375	Enoxaparina
+T120	_SUG_Tratamiento_anticoagulante_hab 11364 11375	Enoxaparina
+T121	Tratamiento_antiagregante_alta 11395 11400	Adiro
+T122	_SUG_Tratamiento_antiagregante_hab 11395 11400	Adiro
+T123	FECHA 11589 11599	19.12.2017
+#123	AnnotatorNotes T123	2017-12-19
+T124	HORA 11606 11611	18:00
+#124	AnnotatorNotes T124	18:00
+T125	FECHA 11730 11740	19.12.2017
+#125	AnnotatorNotes T125	2017-12-19
+T126	SECCION_MOTIVO_DE_INGRESO 434 448	MOTIU D'INGRÉS
+T127	SECCION_ANTECEDENTES 496 507	ANTECEDENTS
+T128	SECCION_TRATAMIENTO_HABITUAL 919 937	MEDICACIÓ HABITUAL
+T129	SECCION_PROCESO_ACTUAL 969 982	PROCÉS ACTUAL
+T130	SECCION_EXPLORACION_FISICA 1328 1345	EXPLORACIÓ FÍSICA
+T131	SECCION_EXPLORACIONES_COMPLEMENTARIAS 2095 2120	EXPLORACIÓ COMPLEMENTÀRIA
+T132	SECCION_EVOLUCION 7184 7200	EVOLUCIÓ CLÍNICA
+T133	SECCION_DIAGNOSTICOS 10826 10848	ORIENTACIÓ DIAGNÒSTICA
+T134	SECCION_TRATAMIENTO_Y_RECOMENDACIONES_AL_ALTA 11116 11151	TRACTAMENT I RECOMANACIONS A L'ALTA
+T135	SECCION_CONTROL 11534 11541	CONTROL
+T6	SECCION_SITUACION_FUNCIONAL 832 857	Situació funcional prèvia
+T14	SECCION_EXPLORACIONES_COMPLEMENTARIAS_EN_URGENCIAS 2121 2130	URGÈNCIES
+T24	SECCION_EXPLORACIONES_COMPLEMENTARIAS_EN_PLANTA_DE_NEUROLOGIA 2665 2679	UNITAT D'ICTUS
+T26	SECCION_EXPLORACIONES_COMPLEMENTARIAS_EN_PLANTA_DE_NEUROLOGIA 5171 5191	PLANTA DE NEUROLOGIA
+#4	AnnotatorNotes T5	0
+T39	NIHSS_previa 2020 2036	NIHSS total de19
+#5	AnnotatorNotes T39	19
+#6	AnnotatorNotes T110	4
+#9	AnnotatorNotes T112	11
+T54	Lateralizacion 10888 10893	dreta
+T70	Ictus_isquemico 10986 11011	transformació hemorrágica
+#12	AnnotatorNotes T18	10
+T80	Fecha_inicio_trombectomia 370 380	09.12.2017
+#13	AnnotatorNotes T80	2017-12-09
+T97	Fecha_primera_serie_trombectomia 370 380	09.12.2017
+T101	Fecha_recanalizacion 370 380	09.12.2017
+T107	Fecha_fin_trombectomia 370 380	09.12.2017
+T114	Fecha_llegada_hospital 370 380	09.12.2017
+T118	Fecha_inicio_sintomas 370 380	09.12.2017
+T136	Fecha_TAC_inicial 370 380	09.12.2017

@@ -1,0 +1,150 @@
+T1	FECHA 238 248	06.12.2017
+#1	AnnotatorNotes T1	2017-12-06
+T2	HORA 251 256	10:48
+#2	AnnotatorNotes T2	10:48
+T3	_SUG_Ictus_isquemico 280 285	ICTUS
+T4	FECHA 310 320	06.12.2017
+#4	AnnotatorNotes T4	2017-12-06
+T5	HORA 323 328	10:10
+#5	AnnotatorNotes T5	10:10
+T6	_SUG_Lateralizacion 598 599	e
+T7	_SUG_Ataque_isquemico_transitorio 746 749	AIT
+T8	_SUG_Arteria_afectada 802 805	ACI
+T9	_SUG_Lateralizacion 806 813	derecha
+T10	_SUG_Tratamiento_antiagregante 858 861	AAS
+T11	_SUG_Arteria_afectada 1035 1040	ACI-D
+T12	_SUG_Arteria_afectada 1048 1051	ACI
+T13	_SUG_Lateralizacion 1052 1053	I
+T14	_SUG_Lateralizacion 1165 1172	derecha
+T15	FECHA 1211 1215	1997
+#15	AnnotatorNotes T15	1997-UNDEF-month-UNDEF-day
+T16	FECHA 1253 1257	2000
+#16	AnnotatorNotes T16	2000-UNDEF-month-UNDEF-day
+T17	FECHA 1368 1372	2003
+#17	AnnotatorNotes T17	2003-UNDEF-month-UNDEF-day
+T18	FECHA 1402 1406	2006
+#18	AnnotatorNotes T18	2006-UNDEF-month-UNDEF-day
+T19	FECHA 1445 1452	26-9-06
+#19	AnnotatorNotes T19	2006-09-26
+T20	_SUG_TAC_craneal 1455 1457	TC
+T21	_SUG_ASPECTS 1663 1668	SPECT
+T22	FECHA 1672 1685	enero de 2007
+#22	AnnotatorNotes T22	2007-01-UNDEF-day
+T23	FECHA 1768 1778	marzo 2016
+#23	AnnotatorNotes T23	2016-03-UNDEF-day
+T24	FECHA 1988 1997	MAYO 2016
+#24	AnnotatorNotes T24	2016-05-UNDEF-day
+T25	FECHA 2009 2018	mayo 2016
+#25	AnnotatorNotes T25	2016-05-UNDEF-day
+T26	_SUG_Localizacion 2098 2108	Ventrículo
+T27	_SUG_Lateralizacion 2109 2118	izquierdo
+T28	_SUG_Localizacion 2156 2164	parietal
+T29	_SUG_Lateralizacion 2300 2309	izquierda
+T30	_SUG_Localizacion 2449 2458	posterior
+T31	_SUG_Lateralizacion 2547 2548	e
+T32	_SUG_Localizacion 2580 2590	Ventrículo
+T33	_SUG_Lateralizacion 2591 2598	derecho
+T34	_SUG_Etiologia 2755 2767	hipertensión
+T36	FECHA 2955 2970	septiembre 2017
+#36	AnnotatorNotes T36	2017-09-UNDEF-day
+T37	_SUG_Tratamiento_antiagregante 2972 2977	Adiro
+T38	_SUG_Tratamiento_anticoagulante 3103 3110	Sintrom
+T39	HORA 3784 3786	16
+#39	AnnotatorNotes T39	16:00
+T40	FECHA 3891 3896	12/12
+#40	AnnotatorNotes T40	2012-12-UNDEF-day
+T41	FECHA 3924 3934	29.06.2016
+#41	AnnotatorNotes T41	2016-06-29
+T42	FECHA 4016 4026	23.05.2016
+#42	AnnotatorNotes T42	2016-05-23
+T43	_SUG_Lateralizacion 4059 4067	ESQUERRE
+T44	FECHA 4070 4080	27.04.2016
+#44	AnnotatorNotes T44	2016-04-27
+T45	FECHA 4161 4171	10.05.2011
+#45	AnnotatorNotes T45	2011-05-10
+T46	_SUG_Lateralizacion 4190 4199	BILATERAL
+T47	FECHA 4258 4268	26.09.2006
+#47	AnnotatorNotes T47	2006-09-26
+T48	_SUG_Lateralizacion 4301 4309	ESQUERRE
+T49	FECHA 4312 4322	23.07.2003
+#49	AnnotatorNotes T49	2003-07-23
+T50	_SUG_Localizacion 4424 4431	PARCIAL
+T51	FECHA 4453 4463	22.07.2003
+#51	AnnotatorNotes T51	2003-07-22
+T52	_SUG_Lateralizacion 4496 4504	ESQUERRE
+T54	_SUG_mRankin 4692 4697	mRs=2
+T55	FECHA 4769 4777	06.12.17
+#55	AnnotatorNotes T55	2017-12-06
+T56	HORA 4820 4825	09:00
+#56	AnnotatorNotes T56	09:00
+T57	_SUG_Lateralizacion 4882 4891	izquierda
+T58	_SUG_Tratamiento_anticoagulante 4968 4975	sintrom
+T59	FECHA 5005 5009	1.12
+#59	AnnotatorNotes T59	2017-12-01
+T60	_SUG_Tratamiento_anticoagulante 5113 5121	heparina
+T61	_SUG_Tratamiento_anticoagulante 5266 5274	heparina
+T62	_SUG_Ictus_isquemico 5294 5299	ictus
+T63	_SUG_Lateralizacion 5451 5458	derecha
+T64	_SUG_Lateralizacion 5459 5460	I
+T65	_SUG_Lateralizacion 5478 5487	izquierda
+T66	_SUG_Lateralizacion 5500 5509	izquierda
+T68	_SUG_TAC_craneal 5565 5575	TC craneal
+T69	_SUG_Arteria_afectada 5659 5662	ACM
+T70	_SUG_Lateralizacion 5663 5664	D
+T71	_SUG_Arteria_afectada 5710 5712	M3
+T72	_SUG_Trombolisis_intravenosa 5753 5757	rtpa
+T73	_SUG_Tratamiento_anticoagulante 5787 5795	heparina
+T74	_SUG_Trombectomia_mecanica 5885 5909	tratamietno endovascular
+T75	_SUG_Ictus_isquemico 5935 5940	ictus
+T77	_SUG_TAC_craneal 5973 5983	TC craneal
+T78	FECHA 6017 6022	06/12
+#78	AnnotatorNotes T78	2012-06-UNDEF-day
+T79	_SUG_Localizacion 6064 6071	frontal
+T80	_SUG_Localizacion 6083 6091	parietal
+T81	_SUG_Lateralizacion 6092 6093	D
+T82	_SUG_Trombolisis_intravenosa 6106 6115	trombosis
+T83	_SUG_Arteria_afectada 6124 6126	M3
+T84	_SUG_Arteria_afectada 6133 6136	ACM
+T85	_SUG_Lateralizacion 6137 6138	D
+T86	_SUG_Arteria_afectada 6203 6206	ACI
+T87	_SUG_Lateralizacion 6207 6208	D
+T88	_SUG_Etiologia 6230 6242	ateromatosis
+T90	_SUG_TAC_craneal 6322 6332	TC craneal
+T91	FECHA 6346 6351	07/12
+#91	AnnotatorNotes T91	2012-07-UNDEF-day
+T92	_SUG_Ictus_isquemico 6357 6383	transformación hemorrágica
+T93	_SUG_Ictus_isquemico 6466 6471	ictus
+T94	_SUG_Tratamiento_anticoagulante 6615 6623	heparina
+T95	_SUG_Test_de_disfagia 6651 6667	test de disfagia
+T96	_SUG_Lateralizacion 6821 6826	ambos
+T98	_SUG_TAC_craneal 6849 6859	TC craneal
+T99	_SUG_Ictus_isquemico 6884 6910	transformación hemorrágica
+T101	FECHA 7196 7201	07/12
+#101	AnnotatorNotes T101	2012-07-UNDEF-day
+T102	HORA 7208 7213	11:15
+#102	AnnotatorNotes T102	11:15
+T103	_SUG_Tratamiento_anticoagulante 7348 7356	heparina
+T104	_SUG_NIHSS 7453 7462	NIHSs = 8
+T105	_SUG_mRankin 7463 7470	mRs = 4
+T107	_SUG_Ictus_isquemico 7488 7505	Infarto isquémico
+T108	_SUG_Arteria_afectada 7523 7526	ACM
+T109	_SUG_Lateralizacion 7527 7534	derecha
+T110	_SUG_Etiologia 7548 7562	cardioembólica
+T111	_SUG_Tratamiento_anticoagulante 7865 7872	Sintrom
+T112	_SUG_Test_de_disfagia 7986 8002	test de disfagia
+T114	_SUG_Ictus_isquemico 8287 8292	ICTUS
+T115	FECHA 8311 8321	07.12.2017
+#115	AnnotatorNotes T115	2017-12-07
+T116	FECHA 8398 8408	07.12.2017
+#116	AnnotatorNotes T116	2017-12-07
+T117	SECCION_MOTIVO_DE_INGRESO 396 413	Motivo de inrgeso
+T118	SECCION_ANTECEDENTES 465 477	ANTECEDENTES
+T119	SECCION_ANTECEDENTES_QUIRURGICOS 478 480	IQ
+T120	SECCION_ANTECEDENTES_PATOLOGICOS 539 562	Antecedents Patológicos
+T121	SECCION_TRATAMIENTO_HABITUAL 2931 2953	-	Tratamiento habitual
+T122	SECCION_ANTECEDENTES_QUIRURGICOS 3897 3921	-	Antecedents quirúrgics
+T123	SECCION_PROCESO_ACTUAL 4507 4524	ENFERMEDAD ACTUAL
+T124	SECCION_EXPLORACIONES_COMPLEMENTARIAS 5943 5972	EXPLORACIONES COMPLEMENTARIAS
+T125	SECCION_EVOLUCION 6420 6429	EVOLUCIÓN
+T126	SECCION_RECOMENDACIONES 7726 7749	RECOMENDACIONES AL ALTA
+T127	SECCION_DIAGNOSTICO_PRINCIPAL 8026 8037	Diagnóstico

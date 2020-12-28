@@ -1,0 +1,78 @@
+T1	_SUG_Lateralizacion 91 92	I
+T2	Fecha_de_ingreso 174 182	19/10/17
+#2	AnnotatorNotes T2	2017-10-19
+T3	Fecha_de_alta 209 217	23/10/17
+#3	AnnotatorNotes T3	2017-10-23
+T5	Ictus_isquemico 286 301	ICTUS ISQUÉMICO
+T6	Arteria_afectada 302 305	ACM
+T7	Lateralizacion 306 315	IZQUIERDA
+T8	Etiologia 316 330	CARDIOEMBÓLICO
+T10	_SUG_mRankin_alta 582 587	mRS 1
+T11	mRankin_previa 582 587	mRS 1
+T13	_SUG_Tratamiento_antiagregante_alta 911 916	Adiro
+T14	Tratamiento_antiagregante_hab 911 916	Adiro
+T16	FECHA 1103 1107	2011
+#16	AnnotatorNotes T16	2011-UNDEF-month-UNDEF-day
+T17	Fecha_inicio_sintomas 1159 1164	19/10
+#17	AnnotatorNotes T17	2017-10-19
+T18	Hora_llegada_hospital 1171 1176	10.40
+#18	AnnotatorNotes T18	10:40
+T19	HORA 1279 1284	22.30
+#19	AnnotatorNotes T19	22:30
+T20	HORA 1310 1314	3.00
+#20	AnnotatorNotes T20	03:00
+T21	Hora_inicio_sintomas 1400 1404	8.30
+#21	AnnotatorNotes T21	08:30
+T22	_SUG_Lateralizacion 1481 1488	derecha
+T23	_SUG_Lateralizacion 1761 1768	derecha
+T24	_SUG_NIHSS_alta 1924 1931	NIHSS 6
+T25	NIHSS_previa 1924 1931	NIHSS 6
+T26	_SUG_Lateralizacion 2400 2407	derecho
+T28	TAC_craneal 2514 2524	TC craneal
+T30	_SUG_TAC_craneal 2533 2543	TC craneal
+T31	ASPECTS 2545 2555	ASPECTS 10
+T32	_SUG_Localizacion 2623 2631	parietal
+T33	_SUG_Localizacion 2632 2641	posterior
+T34	_SUG_Lateralizacion 2642 2651	izquierda
+T35	_SUG_ASPECTS 2660 2667	ASPECTS
+T37	_SUG_TAC_craneal 3126 3136	TC craneal
+T38	_SUG_Localizacion 3202 3210	parietal
+T39	_SUG_Lateralizacion 3211 3220	izquierdo
+T40	_SUG_Arteria_afectada 3240 3243	ACM
+T42	_SUG_Ictus_isquemico 3558 3563	ictus
+T43	_SUG_Arteria_afectada 3567 3570	ACM
+T44	_SUG_Lateralizacion 3571 3580	izquierda
+T45	_SUG_Ictus_isquemico 3694 3699	Ictus
+T46	_SUG_Tratamiento_anticoagulante_alta 3906 3917	enoxaparina
+T47	_SUG_Tratamiento_anticoagulante_hab 3906 3917	enoxaparina
+T48	_SUG_Ictus_isquemico 4261 4266	ictus
+T49	_SUG_Etiologia 4517 4531	Cardioembólico
+T50	_SUG_Localizacion 4540 4544	PACI
+T51	NIHSS_alta 4553 4560	NIHSS 4
+T52	_SUG_NIHSS_previa 4553 4560	NIHSS 4
+T53	mRankin_alta 4562 4570	Rankin 2
+T54	_SUG_mRankin_previa 4562 4570	Rankin 2
+T55	Tratamiento_anticoagulante_alta 4687 4694	ELIQUIS
+T56	_SUG_Tratamiento_anticoagulante_hab 4687 4694	ELIQUIS
+T57	Tratamiento_antiagregante_alta 4835 4840	ADIRO
+T58	_SUG_Tratamiento_antiagregante_hab 4835 4840	ADIRO
+T59	_SUG_Ictus_isquemico 4931 4936	ictus
+T60	_SUG_Etiologia 4938 4950	hipertensión
+T61	_SUG_Lateralizacion 5865 5872	derecho
+T62	SECCION_DIAGNOSTICOS 269 281	DIAGNÓSTICOS
+T63	SECCION_ANTECEDENTES 628 640	ANTECEDENTES
+T64	SECCION_TRATAMIENTO_HABITUAL 888 907	TRTAMIENTO HABITUAL
+T65	SECCION_PROCESO_ACTUAL 1046 1063	ENFERMEDAD ACTUAL
+T66	SECCION_EXPLORACION_FISICA 1515 1533	EXPLORACIÓN FÍSICA
+T67	SECCION_EVOLUCION 3444 3453	EVOLUCIÓN
+T68	SECCION_TRATAMIENTO_AL_ALTA 4672 4683	TRATAMIENTO
+T69	SECCION_RECOMENDACIONES 4842 4854	INDICACIONES
+#1	AnnotatorNotes T11	1
+T4	Fecha_llegada_hospital 1159 1164	19/10
+#4	AnnotatorNotes T4	2017-10-19
+#5	AnnotatorNotes T25	6
+#6	AnnotatorNotes T31	10
+#7	AnnotatorNotes T51	4
+#8	AnnotatorNotes T53	2
+T9	SECCION_EXPLORACION_FISICA_EN_URGENCIAS 1537 1564	Exploración física en UCIAS
+T12	SECCION_EXPLORACIONES_COMPLEMENTARIAS 1966 1995	EXPLORACIONES COMPLEMENTARIAS

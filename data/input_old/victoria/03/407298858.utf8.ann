@@ -1,0 +1,199 @@
+T1	Hora_de_alta 258 263	17:00
+#1	AnnotatorNotes T1	17:00
+T2	Fecha_de_alta 267 277	31.08.2017
+#2	AnnotatorNotes T2	2017-08-31
+T3	Fecha_de_ingreso 379 389	16.08.2017
+#3	AnnotatorNotes T3	2017-08-16
+T4	_SUG_Ataque_isquemico_transitorio 458 463	Ictus
+T5	_SUG_Arteria_afectada 464 479	vertebrobasilar
+T7	mRankin_previa 628 633	mRS 0
+T8	FECHA 1021 1025	2015
+#8	AnnotatorNotes T8	2015-UNDEF-month-UNDEF-day
+T9	_SUG_Lateralizacion 1138 1147	izquierdo
+T10	FECHA 1161 1166	29.07
+#10	AnnotatorNotes T10	2015-07-29
+T11	FECHA 1286 1296	29.07.2017
+#11	AnnotatorNotes T11	2017-07-29
+T12	_SUG_Lateralizacion 1340 1349	bilateral
+T13	Tratamiento_antiagregante_hab 1382 1387	Adiro
+T14	Fecha_llegada_hospital 1504 1509	16.08
+#14	AnnotatorNotes T14	2017-08-16
+T15	_SUG_Ataque_isquemico_transitorio 1662 1667	ictus
+T16	Hora_llegada_hospital 1707 1712	19.45
+#16	AnnotatorNotes T16	19:45
+T17	_SUG_Lateralizacion 1930 1937	derecha
+T18	_SUG_Lateralizacion 2069 2076	derecha
+T19	_SUG_Lateralizacion 2159 2169	izquierdas
+T20	_SUG_Lateralizacion 2194 2203	bilateral
+T21	NIHSS_previa 2206 2250	NIIHSS (1.0.0)/2.0/2.(0.0)(0.0)/2.0.0. 2.0=9
+T22	FECHA 2626 2636	16.08.2017
+#22	AnnotatorNotes T22	2017-08-16
+T23	FECHA 2652 2660	16/08/17
+#23	AnnotatorNotes T23	2017-08-16
+T24	_SUG_Lateralizacion 2711 2712	E
+T25	FECHA 2909 2917	16/08/17
+#25	AnnotatorNotes T25	2017-08-16
+T26	FECHA 3025 3035	17.08.2017
+#26	AnnotatorNotes T26	2017-08-17
+T27	FECHA 3050 3058	17/08/17
+#27	AnnotatorNotes T27	2017-08-17
+T28	FECHA 3213 3223	21.08.2017
+#28	AnnotatorNotes T28	2017-08-21
+T29	FECHA 3239 3247	21/08/17
+#29	AnnotatorNotes T29	2017-08-21
+T30	_SUG_Lateralizacion 3299 3300	E
+T31	FECHA 3407 3415	21/08/17
+#31	AnnotatorNotes T31	2017-08-21
+T32	FECHA 3619 3629	23.08.2017
+#32	AnnotatorNotes T32	2017-08-23
+T33	FECHA 3645 3653	23/08/17
+#33	AnnotatorNotes T33	2017-08-23
+T34	_SUG_Lateralizacion 3706 3707	E
+T35	FECHA 3815 3823	23/08/17
+#35	AnnotatorNotes T35	2017-08-23
+T36	FECHA 4018 4028	24.08.2017
+#36	AnnotatorNotes T36	2017-08-24
+T37	FECHA 4044 4052	24/08/17
+#37	AnnotatorNotes T37	2017-08-24
+T38	_SUG_Lateralizacion 4105 4106	E
+T39	FECHA 4213 4221	24/08/17
+#39	AnnotatorNotes T39	2017-08-24
+T40	FECHA 4441 4451	25.08.2017
+#40	AnnotatorNotes T40	2017-08-25
+T41	FECHA 4467 4475	25/08/17
+#41	AnnotatorNotes T41	2017-08-25
+T42	_SUG_Lateralizacion 4514 4515	E
+T43	FECHA 4619 4627	25/08/17
+#43	AnnotatorNotes T43	2017-08-25
+T44	FECHA 4832 4841	30/8/2017
+#44	AnnotatorNotes T44	2017-08-30
+T45	FECHA 4874 4884	23.08.2017
+#45	AnnotatorNotes T45	2017-08-23
+T46	FECHA 4894 4902	23/08/17
+#46	AnnotatorNotes T46	2017-08-23
+T47	FECHA 5162 5172	17.08.2017
+#47	AnnotatorNotes T47	2017-08-17
+T48	_SUG_Lateralizacion 5255 5264	izquierda
+T49	_SUG_Lateralizacion 5302 5311	izquierda
+T50	_SUG_ASPECTS 5322 5329	aspecto
+T51	_SUG_Lateralizacion 5388 5397	izquierda
+T52	FECHA 5499 5509	17.08.2017
+#52	AnnotatorNotes T52	2017-08-17
+T55	_SUG_Lateralizacion 5726 5735	izquierda
+T56	_SUG_Ictus_isquemico 5774 5794	sufusión hemorrágica
+T57	_SUG_Ataque_isquemico_transitorio 5820 5825	ictus
+T58	_SUG_Ictus_isquemico 5820 5835	ictus isquémico
+T59	_SUG_Lateralizacion 5862 5871	izquierda
+T60	_SUG_Ictus_isquemico 5883 5903	sufisión hemorrágica
+T61	_SUG_Lateralizacion 6086 6093	derecha
+T62	_SUG_Localizacion 6110 6117	parcial
+T63	_SUG_Localizacion 6124 6134	ventriculo
+T64	_SUG_Lateralizacion 6153 6162	izquierda
+T65	_SUG_Lateralizacion 6192 6201	izquierdo
+T66	_SUG_Ictus_isquemico 6211 6219	infartos
+T67	_SUG_Localizacion 6233 6249	ganglios basales
+T68	_SUG_Lateralizacion 6250 6261	bilaterales
+T69	_SUG_TAC_craneal 6264 6266	TC
+T70	FECHA 6279 6289	18.08.2017
+#70	AnnotatorNotes T70	2017-08-18
+T71	_SUG_Lateralizacion 6387 6396	izquierda
+T72	_SUG_Ataque_isquemico_transitorio 6416 6421	ictus
+T73	_SUG_Ictus_isquemico 6416 6431	ictus isquémico
+T74	_SUG_Lateralizacion 6458 6467	izquierda
+T75	_SUG_TAC_craneal 6503 6505	TC
+T76	FECHA 6525 6535	23.08.2017
+#76	AnnotatorNotes T76	2017-08-23
+T77	_SUG_Lateralizacion 6779 6788	izquierdo
+T78	FECHA 6803 6813	24.08.2017
+#78	AnnotatorNotes T78	2017-08-24
+T79	FECHA 7011 7021	29.08.2017
+#79	AnnotatorNotes T79	2017-08-29
+T80	FECHA 7043 7053	29.08.2017
+#80	AnnotatorNotes T80	2017-08-29
+T81	HORA 7055 7060	13:27
+#81	AnnotatorNotes T81	13:27
+T83	FECHA 7933 7938	16.08
+#83	AnnotatorNotes T83	2017-08-16
+T84	_SUG_Lateralizacion 8144 8153	izquierda
+T85	_SUG_NIHSS 8193 8203	NIHSS de 9
+T86	_SUG_Lateralizacion 8320 8330	izquierdas
+T87	_SUG_Arteria_afectada 8376 8392	vertebro-basilar
+T88	_SUG_Tratamiento_antiagregante 8422 8427	adiro
+T89	_SUG_Ataque_isquemico_transitorio 8480 8485	ictus
+T90	_SUG_Ictus_isquemico 8480 8495	ictus isquémico
+T91	_SUG_Arteria_afectada 8510 8525	vertebrobasilar
+T92	_SUG_Etiologia 8529 8547	mecanismo embólico
+T93	_SUG_Etiologia 8560 8569	a estudio
+T94	_SUG_Ataque_isquemico_transitorio 8605 8610	Ictus
+T95	_SUG_Lateralizacion 8808 8809	e
+T96	_SUG_Lateralizacion 9038 9045	derecha
+T97	_SUG_Lateralizacion 9070 9077	derecha
+T98	_SUG_Lateralizacion 9116 9126	izquierdas
+T99	_SUG_NIHSS 9159 9169	NIHSS de 9
+T100	_SUG_Lateralizacion 9197 9202	dieta
+T101	_SUG_TAC_craneal 10057 10059	TC
+T102	_SUG_Ataque_isquemico_transitorio 10098 10103	ictus
+T103	_SUG_Lateralizacion 10161 10170	izquierda
+T104	_SUG_Ictus_isquemico 10208 10234	transformación hemorrágica
+T105	FECHA 10550 10555	18.08
+#105	AnnotatorNotes T105	2017-08-18
+T106	_SUG_TAC_craneal 10577 10579	TC
+T107	FECHA 10691 10696	22.08
+#107	AnnotatorNotes T107	2017-08-22
+T108	_SUG_TAC_craneal 10739 10741	TC
+T109	FECHA 10958 10963	22.08
+#109	AnnotatorNotes T109	2017-08-22
+T110	_SUG_Lateralizacion 11662 11669	derecha
+T111	_SUG_Lateralizacion 11725 11732	derecha
+T112	_SUG_Lateralizacion 11759 11760	e
+T113	_SUG_Lateralizacion 11787 11797	izquierdas
+T114	FECHA 11873 11878	26.08
+#114	AnnotatorNotes T114	2017-08-26
+T115	_SUG_TAC_craneal 11905 11907	TC
+T116	FECHA 11922 11927	28.08
+#116	AnnotatorNotes T116	2017-08-28
+T117	_SUG_Ictus_isquemico 11951 11977	transformación hemorrágica
+T119	_SUG_Ataque_isquemico_transitorio 12229 12234	ictus
+T120	_SUG_Ictus_isquemico 12229 12244	ictus isquémico
+T121	_SUG_Lateralizacion 12276 12285	izquierda
+T122	_SUG_Etiologia 12289 12307	mecanismo embólico
+T123	_SUG_Ictus_isquemico 12411 12437	transformación hemorrágica
+T124	FECHA 12485 12490	28.08
+#124	AnnotatorNotes T124	2017-08-28
+T125	NIHSS_alta 12623 12665	NIHSS =  0.0.0.1.0/1(0.0)(0.0)2.0.0.2.0= 6
+T126	mRankin_alta 12666 12673	mRS = 4
+T128	Ictus_isquemico 12689 12704	Ictus isquémico
+T129	Lateralizacion 12762 12771	izquierda
+T130	_SUG_Ictus_isquemico 12786 12812	transformación hemorrágica
+T131	_SUG_Etiologia 12817 12835	mecanismo embólico
+T133	HORA 13142 13147	17:00
+#133	AnnotatorNotes T133	17:00
+T134	FECHA 13251 13261	31.08.2017
+#134	AnnotatorNotes T134	2017-08-31
+T135	SECCION_MOTIVO_DE_INGRESO 443 457	MOTIU D'INGRÉS
+T136	SECCION_ANTECEDENTES 482 493	ANTECEDENTS
+T137	SECCION_TRATAMIENTO_HABITUAL 1363 1381	MEDICACIÓ HABITUAL
+T138	SECCION_PROCESO_ACTUAL 1486 1499	PROCÉS ACTUAL
+T139	SECCION_EXPLORACION_FISICA 1716 1733	EXPLORACIÓ FÍSICA
+T140	SECCION_EXPLORACION_FISICA_EN_URGENCIAS 1825 1861	Exploración neurológica en Urgencias
+T141	SECCION_EXPLORACIONES_COMPLEMENTARIAS 2360 2385	EXPLORACIÓ COMPLEMENTÀRIA
+T143	SECCION_EVOLUCION 7781 7797	EVOLUCIÓ CLÍNICA
+T145	SECCION_DIAGNOSTICOS 12675 12686	DIAGNÒSTICS
+T146	SECCION_TRATAMIENTO_Y_RECOMENDACIONES_AL_ALTA 12902 12937	TRACTAMENT I RECOMANACIONS A L'ALTA
+T147	SECCION_CONTROL 13086 13093	CONTROL
+T148	SECCION_DESTINO_AL_ALTA 13174 13193	DESTINACIÓ A L'ALTA
+T6	SECCION_ANTECEDENTES_PATOLOGICOS 635 659	ANTECEDENTES PATOLÓGICOS
+T82	Localizacion 12725 12729	POCI
+T118	Arteria_afectada 12734 12761	arteria cerebelosa superior
+T127	Etiologia 12848 12862	cardioembólica
+#4	AnnotatorNotes T7	0
+T132	Fecha_inicio_sintomas 1504 1509	16.08
+#5	AnnotatorNotes T132	2017/08/16
+T144	Hora_inicio_sintomas 1547 1548	9
+#6	AnnotatorNotes T144	9:00
+#7	AnnotatorNotes T21	9
+#9	AnnotatorNotes T125	6
+#12	AnnotatorNotes T126	4
+T142	SECCION_SITUACION_FUNCIONAL 571 597	Situación funcional previa
+T53	Arteria_afectada 6449 6453	AICA
+T54	Arteria_afectada 6454 6457	ACS

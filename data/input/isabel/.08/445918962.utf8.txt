@@ -1,0 +1,98 @@
+I.CLINIC DE NEUROCIÈNCIES NEUROLOGIA
+_NAME_	NHC: _ID_
+
+
+Sexo/Sexe: Fem.	Fecha nac./Data naix.: _DATE_	Edad/Edat: 53 años Dirección/Adreça: _LOCATION_	CP: _LOCATION_
+Municip. (Prov.): _LOCATION_  ABS:_SS_		Tel.:_CONTACT_ As.: SERVEI CATALA DE LA SALUT	CIP: _ID_	NASS: _ID_
+Nº epis.: _ID_	Tipo/Tipus: HOSPIT.	Inici.: 19.11.2017
+Serv: NEUROLOGIA	UO Enf.: G6B4 SALA G NEUROL. CURT. E Hora: 18:54:15
+Facult. de ref.: _NAME_
+
+
+
+
+Tipo ingreso/Tipus ingrés: Urgent	Motivo/Motiu alta: Dom. Familiar
+Diag.:
+CTUS LACUNAR MESENCEFÁLICO ()
+Proc.:
+ANALÍTICA SANGUÍNEA () ECG. MONITORIZACIÓN. () TC MULTIMODAL ()
+FIBRINOLISIS. TC CEREBRAL DE CONTROL. ()
+
+
+
+
+INFORME CLÍNICO ALTA / INFORME CLÍNIC ALTA
+
+Motivo de consulta / Motiu de consulta
+Alteración del habla, visual y torpeza de extremidades izquierdas
+
+Antecedentes e historia previa / Antecedents i història prèvia
+Mujer  de  53  años  alérgica  al  marisco  sin  otras  alergias  medicamentosas  ni  alimentarias  conocidas. Independiente para las actividades de la vida diaria (mRS: 0).
+*ANTECEDENTES PATOLÓGICOS:
+1.	PALPITACIONES no estudiadas y sin tratamiento.
+2.	QUERATITIS HERPÉTICA DE OJO IZQUIERDO en sucesivos brotes, el último en 2013.
+3.	HIPERTRANSAMINASEMIA desde la infancia, no filiada.
+4.	HEMANGIOMA HEPÁTICO.
+*TRATAMIENTO HABITUAL: no realiza.
+
+Proceso actual / Procés actual
+El 19/11/17 a las 16:30h presenta de forma  súbita disartria, alteración visual  en forma de diplopia, hipoestesia facial izquierda y torpeza de extremidades izquierdas; motivo por el cual avisan al SEM y acude a nuestro centro como código ictus extramuros.
+
+Exploración física / Exploració física
+19/11/2017-19:00:00: Glicemia capilar (mg/dl) 125. 19/11/2017-20:00:00 :   Frecuencia respiratoria (rpm) 20, PAS (mm Hg) 104, PAD (mm Hg) 66, Puls ioximetría (%) 98, Tª axilar (ºC) 36.7.
+NRL: consciente y orientada en las 3 esferas. Lenguaje normofluente sin rasgos de afasia. Disartria leve. Campimetría sin déficits. Exotropia fluctuante de ojo izquierdo. Nistagmo de ojo izquierdo a la mirada a la izquierda con paresia para la aducción del ojo derecho que sobrepasa línea media sin completar excursión visual. Paresia facial izquierda leve. Balance muscular conservado. Hipoestesia facial izquierda. Resto de sensibilidad  conservada.  No  dismetrías  aunque  refiere  torpeza  de  mano  izquierda.  No  extinción  ni
+
+negligencia. NIHSS: 3.
+
+Laboratorio / Laboratori
+*	ANALÍTICA SANGUÍNEA: PCR 0.15, Glu 112, Cr 0.53, FG>90, úrico 4.2, Col 209, TGD 132, LDL 117, HDL 66,
+ASAT/ALAT 34/61, GGT/FA 110/66, Bil 0.4, homocisteína 8.8, fólico 537, VitB12 440, leucos 7.26, hematies
+4.21, Hb 13.4, Hto 0.400,  VCM 94, HCM 31, plaquetas  329, Hb1Ac 5.6%, Quick 100%, eje tiroidal sin alteraciones. Estudio de autoimmunidad y trombofilias en curso.
+
+Radiología / Radiologia
+*	RM  CRANEAL  +  ANGIO-RM  INTRACRANEAL:  En  el  aspecto  posteromedial  derecho  del  mesencefalo  se aobserva un foco milimetrico de alteracion en la secuencia de difusion, sugestivo de infarto isquemico.
+En el estudio angio-RM intracraneal arterial se aprecia variante fetal de la ACP izquierda, sin otras alteraciones destacables.
+
+Exploraciones complementarias / Exploracions complementàries
+*	ECOSCAN: Estudi subòptim per regular finestra transtoràcica. No es visualitzen imatges sugestives de fonts cardioembòliques majors.
+
+Evolución / Evolució
+1. ICTUS LACUNAR TEGMENTO MESENCEFÁLICO DERECHO.
+A su llegada normotensa y afebril. En la exploración neurológica se aprecia disartria leve, oftalmoplejía internuclear derecha (INO), hipoestesia facial izquierda y paresia facial izquierda leve junto con torpeza subjetiva de mano izquierda sin objetivarse dismetrías (NIHSS:3). Analítica sanguínea sin alteraciones. ECG en ritmo sinusal sin alteraciones en la repolarización. La neuroimagen (TC multimodal) muestra un posible retraso en la perfusión a nivel protuberancial con caída de flujo y volumen aunque sin francas alteraciones en la secuencia basal. El estudio vascular (angio-TC) no muestra estenosis significativas de grandes vasos intra ni extracraneales.
+Dada la ausencia de contraindicaciones se inicia fibrinolisis con bolus de rtPA de 7 mg a las 17:45h seguida de perfusión que finaliza a las 18:50. Al inicio de la perfusión se revalora a la paciente, persistiendo únicamente disartria leve y mínima hemihipoestesia térmica izquierda que no se evidencia tras 20 min de perfusión. Persiste leve oftalmoplejía internuclear.
+El TC de control no muestra indicios de sangrado por lo que se inicia antiagregación con ácido acetilsalicílico. Completamos estudio de neuroimagen con RM craneal + angio-RM intracraneal que muestra pequeña lesión isquémica aguda (si bien no es claramente visible en mapas de ADC) mesencefálica caudal derecha en territorio del fascículo longitudinal medial derecho que justifica la INO. Durante su estancia en la unidad de ictus permanece en ritmo sinusal y se realiza un ecocardiograma EcoScan sin evidencias de fuentes cardioembólicas.
+Se orienta como ictus lacunar mesencefálico caudal derecho. A pesar de que no tiene factores de riesgo vascular, la instauración súbita del déficit, la mejoría inicial con tPA y la visualización de la lesión en secuencias de difusión hacen de la etiología isquémica la primera posiblidad diagnóstica. Además, tampoco presenta otras lesiones de aspecto inflamatorio/desmielinizante ni otras alteraciones. Se cursa estudio analítico con autoimmunidad y trombofilias y se realizará un nuevo ecocardiograma de forma ambulatoria. Ante estabilidad clínica la  paciente es dada de alta a domicilio con visita posterior en dispensario de neurología vascular.
+
+Plan terapéutico / Pla terapèutic
+-	Acido acetilsalicílico 100mg/24h - Atorvastatina 20mg/24h
+
+Otras recomendaciones / Altres recomanacions
+-	Ecocardiograma transtorácico el día 14 de febrero a las 10:00 en la escalera 4 planta 4 del _SS_ (C/_LOCATION_)
+-	
+
+
+
+-	Visita en consultas externas de neurología del _SS_ con el Dr. _NAME_ el 20 de febrero a las 9:45 en consultas externas del _SS_, planta 2, ala _LOCATION_).
+
+-	Control de los factores de riesgo por su médico de cabecera.
+
+
+
+Firma/Signatura1: _NAME_	Firma/Signatura2: _NAME_ Categoría: Resident 2	Categoría: Espec. Senior
+Nº Matrícula _SS_: _ID_	Nº Matrícula _SS_: _ID_
+
+Fecha/Data Informe: 22.11.2017
+Hora Informe: 14:33:31
+
+Docum.: _ID_
+Hist. Clínica: _ID_
+El _SS_ ha incorporado sus datos al Fichero de Pacientes, para tratarlos con fines sanitarios.
+Puede ejercer sus derechos de acceso, rectificación, cancelación y oposición, así como obtener mas información en la Unidad de Atención al Cliente.
+Vers. 00
+Pag. 2 de
+3
+Episod.: _ID_
+_SS_ ha incorporat les seves dades al Fitxer de Pacients, per a tractar-los amb finalitats sanitàries. Pot exercir els seus drets d'accés, rectificació, cancel·lació i oposició, i obtenir més informació a la Unitat d'Atenció al Client.
+_SS_
+_LOCATION_) _LOCATION_) Tel. _CONTACT_ Fax _CONTACT_
+http://_CONTACT_/

@@ -1,0 +1,69 @@
+T1	FECHA 15 25	27-09-2018
+#1	AnnotatorNotes T1	2018-09-27
+T2	FECHA 41 51	23/09/2018
+#2	AnnotatorNotes T2	2018-09-23
+T4	_SUG_Ictus_isquemico 52 75	ECVA ISQUÉMICA: Infarto
+T5	_SUG_Localizacion 84 100	capsulo-talamico
+T6	_SUG_Lateralizacion 101 110	izquierdo
+T7	FECHA 113 123	25/09/2018
+#7	AnnotatorNotes T7	2018-09-25
+T8	_SUG_Etiologia 124 138	Aterosclerosis
+T9	_SUG_Arteria_afectada 139 148	carotídea
+T10	FECHA 174 184	27/09/2018
+#10	AnnotatorNotes T10	2018-09-27
+T11	_SUG_Etiologia 185 197	Hipertensión
+T12	_SUG_Ictus_isquemico 249 254	Ictus
+T13	_SUG_Lateralizacion 332 339	derecho
+T15	FECHA 701 706	23/09
+#15	AnnotatorNotes T15	2018-09-23
+T16	_SUG_Lateralizacion 779 786	derecho
+T17	_SUG_Ataque_isquemico_transitorio 845 848	AIT
+T18	_SUG_Arteria_afectada 1249 1252	ACP
+T19	_SUG_Lateralizacion 1307 1308	D
+T21	_SUG_TAC_craneal 1656 1666	TC craneal
+T22	_SUG_Localizacion 1791 1802	ventricular
+T23	_SUG_Arteria_afectada 2035 2038	ACI
+T24	_SUG_Lateralizacion 2039 2040	D
+T25	_SUG_Arteria_afectada 2188 2208	Arterias vertebrales
+T26	_SUG_Arteria_afectada 2251 2253	M1
+T27	_SUG_Arteria_afectada 2260 2263	ACM
+T28	_SUG_Lateralizacion 2264 2265	I
+T29	_SUG_Etiologia 2402 2416	Aterosclerosis
+T30	_SUG_Arteria_afectada 2423 2426	ACI
+T31	_SUG_Lateralizacion 2427 2428	D
+T32	FECHA 2603 2613	29/09/2018
+#32	AnnotatorNotes T32	2018-09-29
+T33	_SUG_Lateralizacion 2701 2702	D
+T34	HORA 2814 2819	10:20
+#34	AnnotatorNotes T34	10:20
+T35	_SUG_Localizacion 2919 2928	posterior
+T36	_SUG_Lateralizacion 3293 3302	izquierda
+T37	_SUG_Localizacion 3336 3346	Ventrículo
+T38	_SUG_Lateralizacion 3347 3356	izquierdo
+T39	_SUG_Localizacion 3604 3614	ventrículo
+T40	_SUG_Lateralizacion 3615 3624	izquierdo
+T41	_SUG_Lateralizacion 3718 3725	derecha
+T42	_SUG_Localizacion 3727 3737	Ventrículo
+T43	_SUG_Lateralizacion 3738 3745	derecho
+T44	_SUG_Localizacion 4083 4098	tálamo-capsular
+T45	_SUG_Lateralizacion 4099 4108	izquierda
+T46	_SUG_Ictus_isquemico 4155 4162	infarto
+T47	_SUG_Localizacion 4155 4170	infarto lacunar
+T48	_SUG_Ictus_isquemico 4310 4315	Ictus
+T49	_SUG_Ictus_isquemico 4749 4754	ictus
+T50	_SUG_Etiologia 4772 4779	lacunar
+T51	_SUG_Localizacion 4772 4779	lacunar
+T52	_SUG_Lateralizacion 5265 5270	dieta
+T53	_SUG_Etiologia 5763 5771	habitual
+T54	_SUG_Tratamiento_antiagregante 5786 5808	Ácido acetilsalicílico
+T56	SECCION_DIAGNOSTICOS 27 39	Diagnosticos
+T57	SECCION_PROCEDIMIENTOS 209 223	Procedimientos
+T58	SECCION_MOTIVO_DE_INGRESO 288 305	Motivo de ingreso
+T59	SECCION_ANTECEDENTES_PATOLOGICOS 377 397	Antecedentes Médicos
+T60	SECCION_TRATAMIENTO_HABITUAL 519 543	Tratamiento domiciliario
+T61	SECCION_EXPLORACION_FISICA 855 866	Exploración
+T62	SECCION_EXPLORACIONES_COMPLEMENTARIAS 1361 1395	Resultados pruebas complementarias
+T63	SECCION_EXPLORACIONES_COMPLEMENTARIAS_EN_PLANTA_DE_NEUROLOGIA 1553 1572	- Analítica ingreso
+T64	SECCION_MOTIVO_DE_INGRESO 2642 2659	Motivo de estudio
+T65	SECCION_EVOLUCION 4216 4238	Evolución Hospitalaria
+T66	SECCION_TRATAMIENTO_Y_RECOMENDACIONES_AL_ALTA 5116 5153	Recomendaciones y tratamiento al alta

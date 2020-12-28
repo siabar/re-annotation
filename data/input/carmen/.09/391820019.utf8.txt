@@ -1,0 +1,102 @@
+_LOCATION_
+email: _CONTACT_ Telèfon _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 77 Anys
+NIF/DNI: _ID_Informe d'epicrisi
+_NAME_; _NAME_; _NAME_;
+_NAME_
+14:50:00
+21.07.2017
+_LOCATION_
+_SS_ UNITAT D'ICTUS
+ABS
+Servei Data d'alta
+_CONTACT_; _CONTACT_; _CONTACT_;
+DOMICIL/RES.SOC 18.07.2017
+_LOCATION_
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Paciente que ingresa en el día 18/7/17 por hemorragia intracerebral en ganglios basales derechos.
+
+ANTECEDENTS
+Antecedentes patológicos:
+1.	Hipertensión arterial.
+2.	Diabetes mellitus tipo 2. Control en Endocrino de HSR.Último control ayer indicando controles erráticos por lipodistrofia abdominal.
+3.	Insuficiencia cardiaca. Ecocardio junio 2017: VI severamente hipertrófico FEVI 76%. Disfunción diastólica grado
+1. AI 43 mm.
+4.	Anemia ferropénica multifactorial. FGS 2014: antritis crónica.E studio de anemias: IST 19% Ferritina 82 VitB12 287 Acido fólico 4 . Ha recibido tratamiento con hierro sacarosa (5 dosis, última el 08.06.2017)
+5.	Ictus lacunar (2015)
+6.	Insuficiencia renal crónica (creat 2.2)
+7.	Enfermedad pulmonar obstructiva crónica tipo bronquiectasias Tac torac 03.17: Area de franca condensación pulmonar de predomnio pulmón izquierdo y afectación mal definida en LSD. En mayo acudió a _SS_ para tratamiento con ertapem ante aislamiento en cultivo de esputo de E coli BLEE. Ingresó en junio 2017 en _SS_ por insuficiencia respiratoria aguda en contexto de descompensación de EPOC que dado colonización crónica por E. coli BLEE se trató con meropenem. No constan cultivos.
+8.	Poliposis colónica diagnosticada por FCS. Pte de colonoscopia-Tac 17.07 Control Dr _NAME_.
+9.	Neumonia LSD en ingreso de 18.05.2017 con Cultivo de esputo: Escherichia coli BLEE. Rankin previo: 2
+MEDICACIÓ HABITUAL
+Clopidogrel 75mg/24h; Enalapril 5 mg/12 horas. Bisoprolol 2.5mg/12h; atorvastatina80mg/24h, humalog insulina 30UI sc/24h, furosemida 40 mg 2-1-0, adenuric (febuxostat) 80mg/24h, anasma 25/250mcg: 2inh/12h, Spiriva 2 inh/24 horas, azitromicina 500mg/d: L-Mx-V; doxazosina neo 4mg/24h, fentanilo parches 50mcg/72h, orfidal 1mg/24h, pantoprazol 20mg/24h, tamsulosina 0.4mg/24h, toujeo 48UI sc/24h.
+
+PROCÉS ACTUAL
+Paciente que estando previamente en su estado basal presenta el día 18/7/17 a las 14:15 cuadro de debilidad en hemicuerpo izquierdo por lo que se activa código ictus
+
+EXPLORACIÓ FÍSICA
+
+EXPLORACION URGENCIAS:
+Constantes: TA 170/80mmHg, FC 70lpm, afebril, BMT 160mg/dl
+Vigil, orientado en tiempo y persona. Comprende órdenes simples. Sin alteraciones del lenguaje ni del habla Preferencia oculocefálica derecha (1), hemianopsia homónima izquierda (2). PFSN izquierda (1), paresia ESI (3) y
+
+Informe d'epicrisi
+
+
+
+
+plegia EII (4), anestesia (2). NIHSS 13.
+
+EXPLORACION UNIDAD ICTUS:
+Constantes: TA mmHg, FC lpm, afebril, BMT mg/dl
+Somnoliento pero fácilmente despertable (1), intenta comunicar, emite sonidos incomprensibles - disartria severa (2+2+2). Comprende órdenes simples. Preferencia oculocefálica derecha (1), hemianopsia homónima izquierda (2). PFSN izquierda (1), paresia ESI (3) y plegia EII (4), anestesia (2). NIHSS 20.
+
+EXPLORACIÓ COMPLEMENTÀRIA
+URGENCIAS:
+-Analítica Urgencias: Hb 13.4 g/dL, VCM 86.0 fL, HCM 28.3 pg, CHGBCM 32.90 g/dL, Leuc 124 x10E9/L, Neut 71.3%, Limf 15.4% (0.7 x10E9/L), Mon 12.7%, Eo 0.4%, Bas 0.2%. Plaq 124 x10E9/L. Gluc  145 mg/dL, Ur 135
+mg/dL, Cr 2.10 mg/dL, Filt glomerular (CKD-EPI)  29 ml/min/1,73 m2, Na 139.4 mmol/L, K 3.20 mmol/L, Ca 8.6 mg/dL, AST 16 UI/L, ALT 18 UI/L, Prot 5.8 g/dL  T. Protrombina 12.9 seg, TTPA 29.2 seg, Fibrin 4.84 g/L.
+-Electrocardiograma: ritmo sinusal
+-TC craneal + ANGIOTC: Estudio urgente que muestra hematoma en núcleo talámico/brazo posterior de cápsula interna derechos con punto de sangrado activo intrahematoma y contenido hemático en III ventrículo. No ejerce efecto masa significativo.
+
+UNIDAD ICTUS:
+-Analítica de ingreso:
+-TC cranial control: Comparando con tac previo,18-7-2017 15 hrs, se observa estabilidad en los diametros del hematoma sin mayor efecto compresivo respecto a III ventriculo ni mayor contenido
+hemorragico ventricular .Sin otras variaciones respecto a tac previo
+
+EVOLUCIÓ CLÍNICA
+A su llegada a urgencias paciente con clínica compatible con síndrome completo ACM derecha, tendencia a la hipertensión. Se realiza TC craneal que muestra hematoma GGBB derechos. Se administra bolus de urapidil. Se inician medidas de ictus agudo e ingresa en la unidad de ictus para control evolutivo. Por persistencia de TA elevada precisa perfusión continua de urapidil.
+Por deterioro de la función renal se ha iniciado protocolo de protección renal. Durante las primeras horas de ingreso el paciente se mantiene estable a nivel neurológico, excepto por empeoramiento de disartria pero el TC control muestra estabilidad del hematoma.
+
+Informe d'epicrisi
+
+
+
+
+El día 21/07/17 de madrugada precisa asistencia urgente de la guardia por disnea y desaturación con GSA que muestra insuficienica respiratoria no hipercapnica, en el contexto de infección respiratoria por probable broncoaspiración. A la exploración física paciente taquipneico a 42rpm, febril a 38.5ºC, precisando FiO2 1 para mantener SatO2 alrededor 90-92%, agitación psicomotriz, mal perfundido y diaforético con abundantes roncus respiratorios sin signos de insuficiencia cardiaca descompensada. Gasométricamente descata insuficiencia respiratoria no hipercápnica, sin cambios en el ECG, analíticamente elevación de reactantes de fase aguda. Se ha ajustado tratamiento broncodilatador y corticoideo, ampliando antibioterapia empirica a meropenem teniendo presente comorbilidad y aislamientos recientes. A pesar de estas medidas, el paciente presenta un aumento de la disnea, por lo que se solicita valoración por Medicina Intensiva quienes, después de valorar estado funcional y comorbilidades del paciente, descartan iniciar medidas agresivas. Se explica a la familia el mal pronóstico a corto plazo del paciente, que entienden y aceptan iniciar medias de confort en final de vida siendo éxitus el 21/7/17 a las 14:32h.
+
+Causa inmediata: insuficiencia respiratoria aguda Causa intremedia: infección respiratoria
+Causa fundamental: hemorragia intracerebral
+
+
+DIAGNÒSTICS
+Hematoma GGBB derechos
+
+PROCEDIMENTS
+TC craneal
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+22.07.2017
+Pàgina 1 de 3

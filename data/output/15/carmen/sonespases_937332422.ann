@@ -1,0 +1,26 @@
+T1	SECCION_DIAGNOSTICOS 27 39	Diagnosticos
+T2	SECCION_PROCEDIMIENTOS 230 244	Procedimientos
+T3	SECCION_MOTIVO_DE_INGRESO 343 360	Motivo de ingreso
+T4	SECCION_ANTECEDENTES_PATOLOGICOS 674 694	Antecedentes Médicos
+T5	_SUG_TAC_craneal 1383 1386	TAC
+T6	_SUG_TAC_craneal 1791 1794	TAC
+T7	SECCION_TRATAMIENTO_HABITUAL 2709 2733	Tratamiento domiciliario
+T8	SECCION_PROCESO_ACTUAL 3199 3208	Anamnesis
+T9	_SUG_TAC_craneal 4099 4109	TC craneal
+T10	SECCION_EXPLORACION_FISICA 4179 4190	Exploración
+T11	SECCION_EXPLORACIONES_COMPLEMENTARIAS 6760 6794	Resultados pruebas complementarias
+T12	SECCION_EXPLORACIONES_COMPLEMENTARIAS_EN_URGENCIAS 6801 6828	Analítica Sanguínea urgente
+T13	_SUG_TAC_craneal 7298 7308	TC cerebro
+T14	TAC_craneal 7298 7300	TC
+T15	_SUG_TAC_craneal 7339 7361	TC Arterias cerebrales
+T16	_SUG_TAC_craneal 7378 7399	TC Perfusión cerebral
+T17	_SUG_TAC_craneal 9842 9849	Cerebro
+T18	_SUG_Trombolisis_intravenosa 11646 11658	trombosis de
+T19	_SUG_Trombolisis_intravenosa 11862 11874	trombosis de
+T20	SECCION_CONTROL 13711 13715	PLAN
+T21	SECCION_EVOLUCION 14017 14039	Evolución Hospitalaria
+T22	_SUG_TAC_craneal 14423 14426	TAC
+T23	_SUG_Trombolisis_intravenosa 16493 16519	tratamiento de reperfusión
+T24	_SUG_Trombectomia_mecanica 16493 16519	tratamiento de reperfusión
+T25	SECCION_TRATAMIENTO_Y_RECOMENDACIONES_AL_ALTA 17346 17383	Recomendaciones y tratamiento al alta
+T26	SECCION_TRATAMIENTO_AL_ALTA 17918 17944	Tratamiento médico al alta

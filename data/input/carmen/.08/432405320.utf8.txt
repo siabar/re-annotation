@@ -1,0 +1,155 @@
+_LOCATION_
+_LOCATION_) Anul·lació/Reprogramació visites:_CONTACT_
+Telèfon Centraleta: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 71 Anys
+NIF/DNI: _ID_Informe d'alta d'hospitalització
+15:15:19
+24.10.2017
+_LOCATION_
+_SS_ NEUROLOGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_; _CONTACT_
+DOMICIL/RES.SOC 14.10.2017
+_NAME_
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Pacient de 71 anys que ingresa per crisis secundàries a LOE.
+
+ANTECEDENTS
+-No al·lèrgies medicamentoses conegudes.
+-Ex-fumador >20anys. Enol 4UBEs/día.
+-DLP en tractament amb fibrats. No HTA ni DM conegudes.
+-Neoplàsia de bufeta T1 G2b al 2013 tractat mitjançant RTU amb BCG posteiror 6s + 6m. Recidiva tumoral Ta G3 diagnosticada per cistoscòpia el 2016, tractat de nou mitjançant RTU amb BCG posterior. Actualment en seguimient per CEX Urologia, última visita juny 2017 en que consta cistoscòpia negativa i ECO-PAP sense signes de recidia.
+-Hiperuricèmia sense tractament actualment.
+-Sinovitis d'espatlle esquerre de dos mesos d'evolució.
+-IQ: hernia inguinal bilateral septembre/2017.
+-Situació basal: independent per a ABVD. mRankin 0.
+
+MEDICACIÓ HABITUAL
+Fenofibrat 160mg cada 24, metamizol 575mg cada 24h, omeprazol 20mg cada 24h, diclofenac si dolor.
+*En la recepta consta Alopurinol que refereix no prendre.
+
+PROCÉS ACTUAL
+Pacient de 71 anys que el 14/10 a les 11 a.m presenta quadre brusc de disminució de força a extremitat superior dreta seguit, en unes hores, d'episodi d'alteració del llenguatge (comprèn però no es pot expressar) amb clònies abdominals dretes. La familía no sap referir si hi havia DOC. No cefalea, náusees ni vòmits. Astenia sense síndrom tòxic d'uns mesos d'evolució. Així mateix refereix episodi puntual la setamana anterior de rectorràgia, 2 mesos d'evolució de dolor d'espatlla esquerre que impedeix descans nocturn i aparició d'edema escrotal esquerre fa 3 setmanes.
+
+A la seva arribada TA 201/106, FC 80x', Sat 92%. INR 1.4. DXT 110. Neurològicament conscient, orientació no valorable per afàsia completa, no obeeix ordres. TOC dreta, no impressiona HH, no PFSN. Plègia braç dret i cama 2/5, sensibilitat no valorable, RCP flexor bilateral. S'objectiven clònies hemicòs dret i DOC a la dreta. S'inicia impregnació amb LEV 1000mg+dosis de manteniment 1000/12h. Al TAC presenta de nou clònies abdominals pel que s'administra Rivotril. A la revaloració presenta milloria de la clínica nomina 3/5, evoca 2/5, repeteix, obeeix alguna ordre simple tot i que es contamina. Parèsia hemicós dret 4/5.
+Analíticament destaca Hb 108, trombocitosi 310000, Urea 2.1, Cr normal. La Rx de tòrax objectiva marc ossi conservat, ICT<0.5, hilis lleugerament engrossats, no condensacions, sins no pinçats. ECG en RS sense alteracions. Es realitza TC cranial que objectiva lesió ocupant d'espai de localització frontoparietal esquerre de 11mm de diàmetre que s'acompanya d'edema perilesional en la substància blanca adjacent.
+
+S'orienta el cas com a crisis parcials complexes secundàries a LOE cerebral a estudi. Ingressa a NRL.
+
+Informe d'alta d'hospitalització
+
+
+
+EXPLORACIÓ FÍSICA
+
+TA 142/83 Fc 83bpm Afasia SatO2 98%
+NRL: conscient, orientat en persona i espai, desorientat en temps. Parla conservada, llenguatge amb augment de la latència, nomina 5/5, evoca 5/5 amb insistència, repetició correcte. PICNR, MOEs sense altreacions, no dèficits visuals, no PFSN. Lleugera pronació de mà dreta al Barré, resta de motor conservat. Sensibilitat sense alteracions. RCP flexor bilateral.
+AC: Tons rítmics sense sorolls sobreafegits. AR: MVC sense sorolls sobreafegits.
+ABD: anodí.
+EEII: no edema ni signes de TVP.
+
+EXPLORACIÓ COMPLEMENTÀRIA
+URGÈNCIES:
+-Analítica: Hb 108, trombocitosi 310000. Urea 2.1, Cr normal. Resta normal.
+-Rx tòrax: marc ossi conservat. ICT<0.5. Hilis engrossats. No condensacions. Sins no pinçats.
+-ECG: Ritme sinusal a 100 bpm, eix a 0º, PR<0.020s, QRS estret, sense canvis en ST, adequada progressió ones R y S, sense alteracions de la repolarització.
+-TAC crani: Lesión ocupante de espacio de localización fontoparietal izquierda de 11mm de iámetro que se acompaña de edema perilesional en la sustancia blanca adyacente. En contexto clínico del paciente se sugiere M1 como primera posibilidad diagnóstica. e recomienda completar estudio mediante RMN.
+
+NEUROLOGIA:
+-Analítica:
+Bioquímica: Urea 2.6mmol/l, Creatinina 77umol/L, FG 87ml/min, Na+ 139mmol/L, K+ 4.59mmol/L, Glucosa 4.5mmol/L, LDH 2.4ukat/L, AST 0.28ukat/L, ALT 0.22ukat/L, Albúmina 39g/L, Proteina 66g/L, Bilirubina 6umol/L, GGT 3.05ukat/L, Fosfatasa alcalina 1.87ukat/L, Calcio (II) 2.26mmol/L, Colesterol 4.61mmol/L, HDL 1.08mmol/L, LDL 2.57mmol/L, triglicéridos 2.10mmol/L, tirotropina 1.05mu.int./L, tiroxina 15.9pmol/L, Hb A1c 4.9%, cobalaminas 364pmol/L, folatos 10.6nmol/L.
+Hemograma: Eritrocitos 3.23x10^12/L, Hb 100g/L, Hto 28.60%, VCM 89fL, HCM 31pg, CHCM 350g/L, Plaquetas 276x10^9/L, Leucocitos 4.7x10^9/L, Neutrófilos 3.26x10^9/L, Linfocitos 0.85x10^9/L, Monocitos 0.44x10^9/L, Eosinófilos 0.13x10^9/L, Basófilos 0.06x10^9/L.
+Coagulación: TP 1.04, TTPA 1.07, INR 1.04
+-Proteinograma: component monoclonal <3.5g/L, immunofixació pendent.
+-Marcadores tumorales: Antigeno CA 19.9 2059kint.u./L, Antigeno CA 15-3 17kint.u./L, Antigeno CA-125 21kint.u/L, Antigeno carcinoembriogénico 72.2 ug/L, Alfa-fetoproteina 4.4 ug/L, PSA 2.23ug/L, B2-Microglobulina 2.1mg/L.
+-Perfil de anemia: Índex Saturación transferrina 14%, Haptoglobina 3.08g/L, Transferrina 26.4umol/L, Ferritina 832.3ug/L, Hierro (II+III) 7umol/L. Hemograma con ligera mejoría de anemia (Hematocrito 28.60-->32.10%, Hb 100-->107, Eritrocitos 3.23-->3.50x10^12/L).
+-Serología para VIH 1 y 2, Treponema pallidum, VHB, VHC negativa.
+-Rx Húmero, Escápula, Hombro: Dudosa lesión osteolítica a nivel de húmero distal izquierdo. No se observan fracturas óseas.
+
+-EEG (16/10) ANORMAL. per presencia de focalitat lenta temporo- parietal esquerra.
+-RM cerebral con contraste: Lesions focals de distribució aleatòria difusa i bilateral, predomini supratentorial i al
+
+Informe d'alta d'hospitalització
+
+
+
+
+menys una infratentorial. Oscil·len entre 16mm (post-central esquerra) i puntiformes. S'en contabilitzen al menys unes 12-13. Les de major mida post-central esquerra, protuberancial posterior dreta, cingular frontal esuqerra, parietal posterior en convexitat esuqerra, post-central dreta, temporal i frontal basals dretes. Se n'observen altres varies de puntiformes. Halus d'edema perilesional i efecte de massa local correlatiu a les diferents mides; notables en relació a la protuberancial posterior dreta i parietals esquerra. No altres alteracions morfològiques ni de senyal encefàliques. No hidrocefalia. Linia mitja centrada. Xarnera crani cervical normal. Ventricles solcs i cisternes no ocupats. Concluisió: M1 cerebrals múltiples (n aprox 12-13) bilaterals supra i infratentorials segons descrit
+
+-PET-TC 18F-FDG: Lesión frontoparietal izquierda con leve hipercaptación en anillo y edema perilesional sugestiva de lesión metastásica. Engrosamiento hipermetabólico en la pared de recto sugestivo de proceso neoformativo. Infiltración tumoral adenopática abdominal M1 pulmonares y hepáticas. Infiltración de la glándula adrenal derecha. Probables implantes tumorales en hemidiafragma derecho y grasa isquioanal. Numerosos implantes en el plano muscular. Irregularidad en la pared posterior de la vejiga no valorable por las limitaciones de nuestro estudio. Hidrocele izquierdo.
+-Colonoscopia: fins a cec. Vàlvula ileocecal normal. Còlon ascendent, transvers, descendent i sigma amb mucosa d'aspecte normal. A recte, de 8 a 10 cm de marge anal, s'observa lesió mamelonada, d'aspecte infiltratiu, amb superficie parcialment ulcerada, vores irregulars i mucosa congestiva, friable al tacte amb el tub, que ocupa els 4 quadrants de la circumferència i estenosa la llum, tot i que és franquejable amb el colonoscop, compatible amb neoformació. Es prenen múltiples biòpsies de la lesió (pot 1). No s'observen altres lesions mucoses.
+-AP Bx lesió rectal:  pendent al alta.
+
+
+
+EVOLUCIÓ CLÍNICA
+Pacient de 71 anys que ingresa per crisis secundàries a lesió ocupant d'espai de localització frontoparietal esquerre de 11mm de diàmetre que s'acompanya d'edema perilesional en la substància blanca adjacent. Mantenim LEV 1000/12h.
+
+Es realitza EEG que informa de presencia de focalitat lenta temporo- parietal esquerra. Se soliciten marcadors tumorals destacant CA19.9 de 2059 y CEA de 72.2. Es realitza PET-TC 18F-FDG que infroma de lesió frontoparietal esquerre amb lleu hipercaptació en anell i edema perilesional suggestiva de lesió metastàsica, engrossametn hipermetabòlic a l apared del recte suggestiu de procés neoformatiu, infiltració tumoral adenopàtica abdominal, M1 pulmonars i hepàtiques, infiltració de la glàndula adrenal dreta, probables implants tumorals en hemidiafragma dret i grassa isquioanal, numorosos implants en el pla muscular i irregularitat en la paret posterior de la bufeta no valorable per les limitacions de l'estudi. La RMN cerebral amb contrast informa de M1 cerebrals múltiples (n aprox 12-13) bilaterals supra i infratentorials segons descritEs realizta colonoscòpia fins a cec, objectivant lesió compatible amb neoformació de 8 a 10cm de marge anal de la que s'extreuen múltiples biòspies, sense observar-se altres lesions mucoses. AP pendent al alta.
+
+Per a completar estudi es realitza analítica completa en la que destaca lleugera elevació de la GGT, hipertrigliceridemia coneguda en tractament amb fibrats. Anemia normo-normo amb perfil compatible amb anèmia per procés crònic, lleugera linfopènia 1000, plaquetes 331000 VPM 9.1fL, amb anocitosi plaquetar i policromàssia. Banda monoclonal <3.5g/L pendent d'immunofixació.
+
+Durant l'estada a neurologia el pacient es manté estable, mantenint-se assimptomàtic des del punt de vista neurològic, no presneta noves crisis. Tolera dieta oral. Deambula de manera autònoma.
+
+Informe d'alta d'hospitalització
+
+
+
+
+
+Com a incidències:
+-Dolor a nivell d'ombro esquerre que impedeix descans nocturn i no cedeix amb analgèsia segon escaló. Al PET TC coincideix amb área d'hipermetabolisme. Iniciem tractmant amb fentanil pegat de 12mcg/h cada 72h i rescats de 50mcg amb bon control.
+-Valorat per urologia per engrossament testicular esquerre que orienta com a hidrocele esquerre no tributari a tractament en el moment actual i recomana seguir amb els controls periòdics amb urologia per al tm vesical.
+
+S'orienta el cas com a probable neoplasia de recte (pendent AP) amb M1 pulmonars, hepàtiques i a SNC múltiples que han condicionat crisis parcials complexes, menys probable recidiva de bufeta per les troballes en PET-TC. En tractament amb LEV 1000/12h que haurà de mantenir al alta. Es contacta amb oncologia i donat el bon estat general es decideix alta a domicili i estudi de manera ambulatòria preferent. Se solicita primera visita amb oncologia mèdica, amb oncologia radioteràpica per a valorar radioteràpia holocraneal i amb neurooncologia.
+
+
+
+
+
+DIAGNÒSTICS
+198.3/5 Metàstasi cervell
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+-Stop Diclofenaco.
+
+-Fentanilo pegat 12mcg/h/72 h
+-Levetiracetam 1000mg/12h.
+-Paracetamol 1/8h si dolor
+-Nolotil 1/8h altern amb paracetmol si dolor.
+-Fentanil 50mcg vo si dolor irruptiu o mal control del dolor.
+
+-Resta medicació habitual sense canvis.
+
+CONTROL
+-CEX oncologia mèdica.
+-CEX radio-oncologia.
+-CEX neuro-oncologia (UNO).
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+
+
+
+
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+24.10.2017
+Pàgina 1 de 4

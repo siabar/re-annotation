@@ -1,0 +1,101 @@
+_LOCATION_
+Telèfon: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 66 anys
+NIF/DNI: _ID__NAME_; _NAME_
+Informe d'alta d'hospitalització
+CP	_LOCATION_
+ABS	_SS_ 6
+Servei	NEUROLOGIA
+Data d'alta  16.02.2017	10:17:22
+_LOCATION_
+_CONTACT_; _CONTACT_; _CONTACT_ GERMANA DOMICIL/RES.SOC
+01.02.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Codi ictus.
+
+ANTECEDENTS
+No al·lèrgies conegudes.
+
+Hipertensió arterial.
+Dislipèmia en tractament (03.16 Colesterol 177, HDL 56, LDL 105.2, Triglicèrids79).
+DM tipus 2 sense tractament, anteriorment habia tractat amb metformina pero l'ha avandonat (HbA1c 03.16 de 6%).
+Epilepsia focal criptogénica con buen control con biterapia. Persisten auras abdominales.
+
+MEDICACIÓ HABITUAL
+Enalapril/hidroclorotiazida, Lorazepam, Metformina, Paracetamol, Simvastatina, Tryptizol, Vimpat, Zebinix.
+
+PROCÉS ACTUAL
+Pacient de 66 anys que inicia el dia 01.02.2017 sobre les 18h de la tarda amb clinica de hemiplèjia facio-braquio-crural esquerre amb disartria. S'activa CODI Ictus i es trasllada al hospital, arribada quan portava 1h de clinica.
+
+EXPLORACIÓ FÍSICA
+
+TA 155/75. Hemiplegia FBC D severa (2+4+4) + disartria lleu (1). NIHSS 11.
+
+EXPLORACIÓ COMPLEMENTÀRIA
+Analítica de sang: Glucosa 142, Urea 19, Creatinina 0.84, Sodi 133.8, Potassi 3.62, Urat 4.5, Calci total 8.68,
+Colesterol 180, HDL 51, LDL (Friedewald) 103, Triglicerid 130, Proteina total 6.64, Albumina 3.9, GOT/AST 22,
+GPT/ALT 25, Ferro 55, PCR 9.3, TSH 2.85, HbA1c 6.1%, Leucocits 8.560, Hemoglobina 14.7, Plaquetes 225000.
+
+TC craneal i d'arteries cerebrals: Estructuras de la línea media centradas. Hematoma intraparenquimatos a nivel de los ganglios de la base izquierdos de 16x15mm. Calcificación bilateral a nivel de la bifurcación carotidia. Sistema ventricular de morfología y tamaño normal , simétrico. Surcos corticales, cisternas peritronculares y de la base craneal sin alteraciones. Se realiza angioTC no evidenciandose alteración a nivel del poligono de willis, ni imagen de aneurisma causante de la hemorragia. Falta de repleccion de la V. yugular izquierda, probablemente por ser estudio arterial. CONCLUSION: Hematoma intraparenquimatos a nivel de los ganglios de la base izquierdos.
+
+RM Cerebral amb AngioRMN Willis 03.02.2017: Hematoma subagudo cápsulo-talámico izdo. de 18 mm. de diámetro  máximo  que  se  asocia  a  discreto  edema  periférico  sin  efecto  de  masa  significativo.  Escasas
+
+Informe d'alta d'hospitalització
+
+
+
+
+hiperintensidades de señal en FLAIR y T2 en la sustancia blanca supratentorial en relación con leucoaraiosis. Sistema ventricular simétrico, de morfología y tamaño normales. Estructuras de la línea media centradas. No evidencia de procesos expansivos intra ni extra-axiales. Charnela occípito-cervical normal. Polígono de Willis sin hallazgos. CONCLUSIÓN: Hematoma subagudo cápsulo-talámico izdo.
+
+EVOLUCIÓ CLÍNICA
+Pacient de 66 anys que ingressa per ictus hemorràgic de causa hipertensiva. Al ingrés amb un NIHSS de 11 punts i ingressa a l'Unitat d'Ictus amb bon control tensional i sense incidències. Durant l'estada a la planta d'hospitalització s'inicia rehabilitació amb milloria de la simptomatologia i al alta deambulant amb caminador, amb un NIHSS al alta de 6 punts a expenses de disartria lleu i hemiparèsia atàxica d'hemicos esquerre.
+
+DIAGNÒSTICS
+Ictus hemorràgic profund dret. Hipertensió arterial.
+Diabetis Mellitus tipus 2. Epilèpisa focal criptogènica.
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Tractament habitual sense modificacions.
+
+CONTROL
+Visita el 21 de Març a les consultes de Neurologia segons programat.
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+16.02.2017
+Pàgina 1 de 2

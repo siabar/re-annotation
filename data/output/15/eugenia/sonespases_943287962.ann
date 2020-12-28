@@ -1,0 +1,26 @@
+T1	Fecha_de_alta 15 25	04-09-2018
+#1	AnnotatorNotes T1	2018-09-04
+T2	SECCION_DIAGNOSTICOS 27 39	Diagnosticos
+T3	Ictus_isquemico 88 95	INFARTO
+T4	Arteria_afectada 113 116	ACM
+T5	Lateralizacion 116 117	D
+T6	_SUG_Etiologia 121 145	etiología cardioembólica
+T7	Etiologia 131 145	cardioembólica
+T8	SECCION_PROCEDIMIENTOS 230 244	Procedimientos
+T9	SECCION_PROCESO_ACTUAL 380 389	Anamnesis
+T10	SECCION_PROCESO_ACTUAL 4008 4025	Enfermedad Actual
+T11	Hora_inicio_sintomas 4164 4169	19:30
+#11	AnnotatorNotes T11	19:30
+T12	Fecha_inicio_sintomas 4179 4187	31/08/18
+#12	AnnotatorNotes T12	2018-08-31
+T13	Fecha_llegada_hospital 4179 4187	31/08/18
+T14	Hora_llegada_hospital 4458 4463	20:29
+#14	AnnotatorNotes T14	20:29
+T15	SECCION_MOTIVO_DE_INGRESO 393 411	Motivo de consulta
+T16	SECCION_ANTECEDENTES_PERSONALES 483 506	Antecedentes Personales
+T17	SECCION_TRATAMIENTO_HABITUAL 3946 3964	Mediación habitual
+T18	SECCION_EXPLORACION_FISICA 4604 4622	Exploración Física
+T19	SECCION_EXPLORACIONES_COMPLEMENTARIAS 7253 7287	Resultados pruebas complementarias
+T20	SECCION_EXPLORACIONES_COMPLEMENTARIAS_EN_URGENCIAS 7294 7321	Analítica Sanguínea urgente
+T21	SECCION_EVOLUCION 10279 10301	Evolución Hospitalaria
+T22	SECCION_TRATAMIENTO_Y_RECOMENDACIONES_AL_ALTA 12188 12225	Recomendaciones y tratamiento al alta

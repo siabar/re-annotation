@@ -1,0 +1,102 @@
+
+Cognoms:	_NAME_	Adreça:	_LOCATION_	
+Nom:	_NAME_		_LOCATION_		
+Edat: 80	Sexe:H	CIP:	_ID_	NIF:	_ID_
+Data naixement:   _DATE_	NHC:	_ID_	NASS:    _ID_
+Telèfon / Mòbil:	_CONTACT_ / _CONTACT_
+
+INFORME  D'ASSISTÈNCIA
+Metge/essa:	_NAME_
+_NAME_
+
+Servei:	Medicina interna
+Data ingrés:	02/02/ 2017	Data Alta: 10/02/ 2017
+S'informa a:	Metge de Família	Núm.  llit: _ID_
+
+
+
+DIAGNÒSTICS:
+1.	Neoplasia de pulmón IZQ pendiente de tipificar IV (M1 cerebrales)
+2.	Focalidad neurològica secundaria a 1
+3.	Crisis comicial secundaria a 1
+4.	LLC
+5.	HTA
+
+PROCEDIMENTS:
+1.	Analítica
+2.	Rx torax
+3.	FBC
+4.	TAC  torácico+PAAF
+
+
+
+Paciente de 80 años y sin alergias.
+
+ANTECEDENTES  PERSONALES:
+
+-Antecedentes familiares: hermano Ca de pulmón
+-Hábitos tóxicos: ex fumador hasta hace 30 años con índice acumulado de 40 paq/año.
+-Antecedentes laborales: Pintor, mecánico, drogueria.
+-Situación sociobasal:  vi ve en _LOCATION_ con su mujer, apoyo de una hija.  Independiente para las ABVD. Camina sin ayuda. No incontinencias ni disfagia. No deterioro cognitivo.
+
+ANTECEDENTS  PATOLÒGICS:
+
+-	LLC  B  EA  (0)  ZAP  70  negativa  y  citogenética  normal,  diagnosticada  en  Julio  de  2007  por  linfocitosis. Controlado a CCEE de oncología, sin Tratamiento.
+-	HTA
+-	Infecciones de orina de repetición por E. Coli en tto con monurol profilàcitc cada 15 días.
+-	Hernia hiatal diagnosticada por TEGD
+-	Acude a urgencias en 10/2016 por lumbalgia y sensación distérmica,  objeti vándose en la exploración física una esplenomegalia. Se decide complentar estudio con TA C (25/10/16):
+o Dos nódulos pulmonares confluentes de 37 x 26 mm a LSE. Parénquima pulmonar sin otras alteraciones valorables que podrían estar en relación con infiltración de enfermedad de base mucho menos probable neoplasia primaria de pulmón.
+Adenopatías en mediastino, algunas con centro necrótico, peritraqueals (derecha de 14 mm), ventana aorto-pulmonar y subcarinales. Adenopatías hiliares derechas múltiples, la más grande de 18 mm. Una adenopatía hiliar izquierda de 13 mm.
+Adenopatía retrocrural izquierda de 15 mm.
+Adenopatías en hilio hepático (11 mm), esplénico (16 mm) y retroperitoneales, la mayor inferior a la bifurcación il íaca de 28 mm. Adenopatía a raíz mesentérica de 12 mm. Adenopatías a ambas cadenas
+ilíacas internas y externas.
+Esplenomegalia leve (125 mm), tenue nódulo de 10 mm.
+Ambos riñones de tamaño y morfología normal, captan correctamente el contraste EV sin dilatación de vías excretores. Nódulos hipodensos corticales bilaterales, la mayoría subcentimètrics, que no se ven en ecografía de 2013 ni TC de 2007, podrían corresponder a nódulos sólidos. Ganglios axilares bilaterales, de tamaño aumentado pero centro graso conservado.
+Diverticulosis colónica. Próstata de tamaño  aumentada. Cambios óseos degenerativos. El paciente decidió no realizar más pruebas complementarias.
+-	Intervenciones: ulcus duodenal. PiIoroplastia +  vagotom ía.
+-	Tratamiento habitual: ameride 5/50 mg, ferrosanaol, ibuprofeno 600 mg. Monurol cada 15 días. Omeprazol 20 mg / día.
+
+MOTIU D'INGRÉS:
+Consulta por presentar debilidad de extremidades derechas y al llega a urgencias presenta leve afasia  de expresión, preferencia oculocefàlica hacia la derecha que se corrige, y hemiparesia rígida leve de extremidades derechas. En algún momento hace algún movimiento clónico con el brazo. No hemianopsia. Trastorno sensitivo hemicuerpo derecho. No presenta clínica respiratoria ni sind tóxico.
+Ingresa el 02/ 02/17 en planta de Medicina Interna. En planta se inicia tratamiento anticomicial con Keppra y corticoides (dexametasona) presentando el paciente mejoría  de  la  Clinc  neurológica.  Refiere  que  ha presentación algún episodio más de crisis tónico-clónica parcial a nivel de EID.
+Se realiza FBS el 06/02 con citología positiva para células malignas (Muestra insuficiente para tipificación).
+Valorado en comité de tumores el 07/02/2017 se decide realización de TA C-toracoabdominal y valorar PAAF para acabar de obtener muestra histológica y traslado al Servicio de Oncología.
+
+EXPLORACIÓ  FÍSICA:
+TA 144/73, FC 88, sat 94%b, afebril. Normohidratado y normocoloreado.  No se palpan adenopatías periféricas. AC: rítmico, sin soplos. AP: MVC. Abd: blando y depresible, no doloroso, peristaltismo conservado. MMII sin edemas ni signos de TVP.
+NRL: consciente y orietnado, pupilas isocóricas y normorreactivas. No signos meníngeos. No alteraciones del lenguaje. PPCC normales. Fuerza 4+/5 EID. Ligera hipoestesia EID. Extinsión sensiti va.  RCP flexor bilateral.
+
+EXPLORACIONS   COMPLEMENTÀRIES:
+
+Analítica: Glucosa 122.9 mg/ dL, Urea 39.9 mg/dL, Creatinina 0.91 mg/dL, FG 79, Alanina aminotransferasa (ALT) 13, Hb 12.1 g/dL, Ht 39.1%, Leucòcits 99540 (N 6.3% Limfòcits 92%) Plaquetes 166000,  TProtrombina:
+11.2	s Rati 1.04 TTPA 27.2 Rati: 0.95 Fibrinogen 429. 6 ECG: RS a 100 bpm no alteració de repolarització
+Rx de tòrax: nódulo pulmonar a nivel LS izquierda.
+TC Cran eal 01/0 1/17: Se observan varias lesiones nodulares que captan contraste situadas 1 en lóbulo frontal izquierdo, 2 frontales derechas, 1 parietal derecha, 1 occipital derecha, y 1 en hemicerebel derecho. La lesión de mayor tamaño se encuentra situada en el lóbulo parietal izquierdo y mide 10x14 mm (APx T), provoca efecto masa con compresión del cuerno occipital del ventrículo lateral izquierdo y marcado edema adyacente con el borrado de surcos. En el contexto clínico del paciente los hallazgos son sugestivas de M1. Estructuras de la línea media no desplazadas. Cisternas perimesencefàliques y de la base no obliterado. Sistema ventricular no dilatado. No hay imágenes de sangrado. Quiste de retención mucosa vs pólipo en seno maxilar izquierdo. Se observan varias lesiones nodulares en parótida derecha, podrían cor responder a ganglios intraparotídeos sin poder descartar otras etiologías. Valorar en el contexto del paciente correlación con ecografía.
+FBS 09/02: tumoración endobronquial segmento apical LII (friable, que sangra al contacto con FBS). Citolo gía BAS: positivo para células tumorales malignas, compatible con carcinoma no especificado.
+Citolo gía cepilla do b ron qui al: positi vo para células tumorales  malignas,  compatible  con  carcinoma  no especificado
+Biopsia bronq uial (muestra insuficiente).
+TA C Tòrax + PAAF 09/02: "Masa en LII. No podemos realizar PAAF, después de múltiples intentos de localización de la lesión, en paciente poco col·laborador".
+
+EVOLUCIÓ:
+Paciente de 80 años con antec de HTA, ITUs de repetición y LLC. Hallazgo en TA C TA realizado en 10/16 de 2 nódulos pulmonares en LSI, adenopatías mediastínicas y abdominales y leve esplenomegàlia. El paciente no quiso realizar más pruebas diagnósticas.
+Ingreso actual por:
+
+1.	Focalidad neurológica: consulta el 01/02 por debilidad  en  EEDD,  objeti vándose  en  urgencies  leve afasia de expresión y hemihipoestesia D. En urgències presenta adenás crisis tonic oclónica. Se realiza TA C creneal que informa de lesiones compatibles con M1. Se inicia tratamiento con dexametasona y Keppra ingresando en Medicina Interna para estudio.
+El paciente presente presenta clara mejoría de la clíncia neurológica. A nuestra valo ración persiste leve debilidad e hipoestesia en EID. El paciente refiere que ha presentado algún otro episodio de crisis focal EID. Se mantiene tratamiento con Dexametasona 4mg/ 8 hs y Levetiracetam.
+2.	Probable carcinoma de pulmón EIV, pendiente de tipific ar. En TA C TA realizado en 10/16 se informa de presencia de 2 nódulos en LSI, con múltiples adenopatías a ni vel mediastínico y abdominal. Se realizó FBC el 06/02 visualizando lesión endobronquial en segmento apical de LII. La  citología  del  BAS  y cepillado fueron positi vas para células tumorales malignas (carcinoma, no especificado). La muestra de la biopsia bronquial fue insuficiencia.
+Presentado en comité de tumores de torax el 07/02 se decide realización de nuevo TAC  toraco- abdominal (programado inicialmente para el 09/02/17) + PAAF.
+Se intenta realización de biopsia por punción transtorácica guiada por TA C que finalmente no se puede realizar por difícil acceso y deficiente colaboración del paciente. Se solicita nuevo TA C toraco- abdominal para completar estadiaje (se realizará el 13 o 14/02/17).
+Se plantea al paciente posibilidad de realización de RTD craneal que el paciente acepta. Se solicita primera valoración que se programa para el dia 15/02/17 a las 12h.
+Se solicita primera  valoración por Oncología.  El paciente  refiere que  aceptaría tratamiento oncológico
+solo si fuera por vía oral.
+Solicitadas mutaciones EGFR en sangre periférica, pendiente resultado.
+
+TRACTAMENT:
+Ameride 5/50mg: 1 / 24 hs Dexametasona 4mg cada 8h. Keppra 500mg: 1 cada 12 hs
+Omeprazol 20 mg / 24 hs Paracetamol 1 gr / 8 hs
+
+CONTROL:
+CCEE Oncologia _SS_ (se confirmarà dia de primera visita vía telefónica). ) Primera visita Oncologia radioteràpica HGTiP el dia 15/2/ 2017 a las 12h (Dra. _NAME_).
+
+Signat per _NAME_ núm.col: _ID_ Data/Hora:10-02-2017 13:22

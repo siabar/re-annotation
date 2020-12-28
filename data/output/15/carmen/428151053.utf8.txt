@@ -1,0 +1,68 @@
+INFORME ALTA HOSPITALARIA
+_NAME_
+Núm. Episodi: _ID_ Núm. HC: _ID_
+_SS_ _LOCATION_
+_LOCATION_
+Tel. _CONTACT_Adreça: _LOCATION_	C.A.P.: CAP _SS_
+Població: _LOCATION_	Sexe: HOME   Data naixement: _DATE_  Edat: 58a
+Telèfon: _CONTACT_  C.P.:	T.I.S.: _ID_   :
+
+Procedència: URGÈNCIES	Data Ingrés Hospital: 02/10/2017
+Servei assistencial: HOSPITALITZACIÓ	Data Ingrés Servei: 02/10/2017
+Metge Responsable: _NAME_	Data Alta:09/10/2017
+
+
+ANTECEDENTS PERSONALS:
+-	Nega al·lèrgies medicamentoses conegudes.
+-	Hàbits tòxics: fumador actiu.
+-	Nega FRCV i altres antecedents importants.
+
+MALALTIA ACTUAL:
+Pacient de 58 anys que el dia 01/10 a les 16h inicia quadre sobtat consistent en disàrtria i desviació de la comissura bucal associat a pèrdua de força de predomini en extremitat superior esquerra. El quadre s'autolimita 5 minuts, recuperant-se ad integrum per després reaparèixer als 20 minuts i mantenir-se establert.
+Després d'activar-se el codi ictus, el pacient presenta millora de la disàrtria i la parèsia de l'extremitat superior esquerra, pel que és desactiva el codi.
+
+EXPLORACIÓ FÍSICA:
+Urgències: TA 134/78 mmHg, FC 100x', SatO2 95% basal. Conscient, alerta i orientat. AC: tons cardíacs rítmics sense signes d'IC. AR: murmuri vesicular conservat sense sorolls sobreafegits. NRL: pupil·les isocòriques normoreactives, sensibilitat conservada, ROTs conservats. Força d'ESE i EIE 4/5, no afàsia però sí disàrtria amb NIHSS de 4.
+
+Planta: TA 144/73 mmHg, FC 60x', Tª 36'5ºC. Hemodinàmicament estable i amb bon estat general. AC: tons cardíacs rítmics ni bufs, no edemes a EI. AR: murmuri vesicular conservat sense sorolls sobreafegits. NRL: conscient i orientat, llenguatge conservat amb lleu disàrtria, marxa normal. Paràlisi facial esquerra central. Lleu lleu dèficit manual esquerre amb dificultat per a la motricitat fina amb resta de balanç muscular 5/5. RCP flexor bilateral, ROTs 2/4. Resta d'exploració neurològica dins de la normalitat.
+
+EXPLORACIONS COMPLEMENTÀRIES:
+Analítica general: Creatinina *0.8 mg/dL, Colesterol *210.3 mg/dL, Colesterol HDL *48.3 mg/dL, Colesterol LDL *135.3 mg/dL, Alanina aminotransferasa (ALT) *39.6 U/L, Albumina *4.5 g/dL, Potassi *4.6 (mEq/L) mmol/L, Hemoglobina *18.7 g/dL, Leucocits *8.23 x1E9/L, Plaquetes *175 x1E9/L, FG Home Crea baixa *>90 mL/min/1.73m2 , Glucosa basal *116.8 mg/dL, Glicohemoglobina S-A1C *5.8 %, Triglicerid *142.6 mg/dL, Aspartat aminotransferasa (AST) *33.6 (UI/L) U/L, Gamma-glutamiltransferasa (GGT) *81.0 U/L, Fosfatasa alcalina *61.8 U/L, Calci total *9.7 mg/dL, Proteina *6.8 g/dL, Sodi *140.0 (mEq/L) mmol/L, Clorur *100.0 (mEq/L) mmol/L, Hematies *5.78 x1E12/L, Hematocrit *53.7 %,
+TC crani: no se observan alteraciones en el aspecto ni en la densidad del parénquima cerebral, tronco ncefálico ni cerebelo. No signos de sangrado extra-intraxial. Sistema ventricular de tamaño y morfología normal. Cisternas basales libres. Estructuras de la línea media centradas. OD: Sin alteraciones intracraneales de carácter agudo.
+Ecocardiograma: Ventrículo izquierdo no dilatado ni hipertrófico, con función sistólica global conservada. Sin alteraciones segmentarias de la regurgitación. Aurícula izquierda 1egurgitaci dilatada. Raíz aórtica y aorta ascendente no dilatadas.
+Cavidades derechas no dilatadas y con 1egurgitación1 del VD conservada. VCI no dilatada. Válvulas cardiacas normales.  Doppler: Patrón de llenado mitral normal. No se detecta 1egurgitación. Sin gradiente ni 1egurgitación aórticos. Insuficiencia tricuspídea mínima que no  permite estimar la PAPs.  Sin signos  indirectos de http significativa. Conclusión: Estudio ecocardiograma-Doppler sin alteraciones significativas.
+Holter: informe pendent a l'alta.
+RMN: Estructures de la línia mitja centrades. Cisternes basals i perimesencèfaliques lliures. Sistema ventricular simètric de mida i configuració normals. Alteració de senyal focal de la substància blanca periventricular dreta amb extensió caudal cap al braç posterior de la càpsula interna, que presenta restricció de la difusió compatible amb lesió isquèmica aguda territori de l'artèria coroidea anterior, en seqüències GE s'observen zones hipointenses al seu interior
+per sufusió hemorràgica. No s'objectiven altres alteracions morfo-estructurals, ni canvis de senyal valorables a parènquima cerebral, cerebel.lós, ni tronc encefàlic. Unió crànio-cervical sense anomalies valorables. Estudi de troncs supraaortics després de l'administració de contrast endovenós. Estudi d'artèries intracranials empleant seqüències TOF_3D. Correcta permeabilitat d'artèries vertebrals, d'artèries caròtides comuns, artèries caròtides internes, artèries cerebrals mitges, cerebrals anteriors, tronc basilar i arteries cerebrals posteriors. Artèries comunicants posteriors no visibles per hipoplàsia. Tronc basilar centrat, no dilatat. Artèries cervelletoses superiors normals. No s'observa dilatació aneurismàtica capaç de ser valorada mitjançant aquesta tècinca.
+Eco-doppler de troncs supraaòrtics:
+-	ARTÈRIES VERTEBRALS:  flux de direcció cranial amb pics de velocitat sistòlica asimètrics, 29 cm/s al costat dret vs 36,9 cm/s al costat esquerre.
+-	EIX CAROTIDI DRET: Artèria caròtida comú: engruiximent de l'íntima arterial sense estenosi significativa de la
+-	llum vascular. Gruix íntima-mitja a paret posterior de 0,610 mm. Artèria caròtida interna: al bulb carotidi s'observa engruiximent de l'íntima arterial sense estenosi significativa. Els registres espectrals no mostren signes d'alteració hemodinàmica, amb un pic sistòlic de velocitat màxima, concordant ( PSV) ICA de 62,1 cm/s i un quocient també concordant ICA/CCA de 0,86.
+-	EIX CAROTIDI ESQUERRE: Artèria caròtida comú: engruiximent de l'íntima arterial sense estenosi significativa de la llum vascular. Gruix íntima-mitja a paret posterior de 0,868 mm. Artèria caròtida interna: al bulb carotidi s'observa engruiximent de l'íntima arterial sense estenosi significativa. Els registres espectrals no mostren signes d'alteració hemodinàmica, amb un pic sistòlic de velocitat màxima, concordant ( PSV) ICA de 73,9 cm/s i un quocient també concordant ICA/CCA de 0,88.
+
+EVOLUCIÓ:
+Pacient ingressat per ictus que s'ha manifestat en forma de disàrtria, paràlisi facial esquerra central i dèficit de la motricitat fina manual esquerra. L'estudi de neroimatge confirma infart cerebral a territori de arteria coroidea esquerre que justifica la clínica del pacient. L'estudi etiològic ha descartat causa embòlica sugerint el mecanisme sigui lacunar. A l'alta queda pendent el resultat de Holter cardías.
+
+A nivell funcional ha presentat una milloria immediata de l'afectació motora de la mà esquerre però persistint paràlisi facial esquerre. Ha realitzat tractament logopèdic que haurà de continuar al seu domicili segons les indicacions per part de logopèdia.
+
+No ha presentat cap complicació mèdica. Es procedeix a l'alta hospitalària amb mRankin 2.
+
+JUDICI CLÍNIC:
+-	Ictus càpsula interna dreta de mecanisme lacunar (LACI).
+-	Dislipèmia
+
+TRACTAMENT:
+-	Iniciem: Adiro 300 mg, atorvastatina 40 mg 0-0-1.
+-	Dieta pobre en sal, cardiosaludable. Exercici físic diari de moderada intensitat. Abandonar tabac.
+-	Control Dra _NAME_ als 3 mesos posthospitalització.
+
+Atentament, Signat:
+Dr/a.: _NAME_
+Metge adjunt - Neurologia Número col·legiat: _ID_
+
+Dr/a.: _NAME_
+Metge resident - Medicina interna Número col·legiat: _ID_
+
+Hospitalització
+Imprès: 09/10/2017 15:17
+Pàg.: 1 de  2

@@ -1,0 +1,174 @@
+_LOCATION_ Tel. _CONTACT_
+e-mail: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 37 Anys
+NIF/DNI: _ID__NAME_; _NAME_; 
+_NAME_; _NAME_; _NAME_
+Informe d'alta d'hospitalització
+CP	_LOCATION_
+ABS	_SS_
+Servei	NEUROLOGIA
+Data d'alta  24.05.2017	13:14:08
+_LOCATION_
+_CONTACT_; _CONTACT_
+DOMICIL/RES.SOC 29.04.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Ictus isquémico de territorio de ACM bilateral
+
+ANTECEDENTS
+Hombre de 37 años, sin alergias medicamentosas conocidas, fumador importante. Independiente para actividades básicas vida diaria, zurdo. mRS 0.
+
+ANTECEDENTES PATOLÓGICOS:
+-	Depresión en tratamiento farmacológico.
+-	Constan cifras de colesterol total de 227 mg/dL y triglicérido de 287 mg/dL en analítica de 2010. No realizó seguimiento.
+
+MEDICACIÓ HABITUAL
+Citalopram 20 mg/24 h, topiramato 25 mg/24 h
+
+PROCÉS ACTUAL
+El 28.04.17 se acuesta asintomático a las 21:00. A la mañana siguiente es encontrado a las 10.30 por su madre con debilidad de extremidades derechas por lo que avisa al SEM. Es atendido por ambulancia medicalizada que activa código ictus a las 11:45. Llega a nuestro centro a las 12:00.
+
+EXPLORACIÓ FÍSICA
+
+FC	80 bpm
+Tªaxi 36.0 ºC
+FR	rpm Tªrec  ºC
+TA s	131 mmHg SAT O2 98 %
+TA d   97 mmHg Pes Kg
+
+Glicamia capilar llegada: 220 mg/dL
+
+Exploración neurológica: vigil, anartria, obedece órdenes simples y algunas complejas, responde sí o no con la cabeza, impresiona anosognosa/heminegligencia derecha aunque difícil de evaluar por afasia y anartria, hemianopsia derecha por reflejo de amenaza, desviación oculocefálica forzada a la izquierda, hemiplegia derecha, con con moviemitnos sobre el plano de pierna derecha, hemianestesia izquierda. Babinski derech, RCP indiferente izquierdo.
+
+NIHSS = (0.0.2)2.2//2(4.0)(3.0)/0.2.2.3 .0 = 20
+
+Exploración sistémica: auscultación cardíaca con tonos regulares sin soplo auscultables. Auscultación respiratoria con ruidos respiratorios de vías aérea alta irradiados a ambos campos pulmonares. Sin signos de insuficiencia cardíaca derecha. tensión arterial ismilar en ambos miembros superiores. Abdomen blando y depresible, no doloroso a la palpación, no se palpa masa ni megalia, peristaltismo conservado. No edema ni signos de trombosis venosa profunda en extremidades inferiores. Sin manchas llamativas en la piel. No se palpa masas testiculares, no se palpa adenopatías (terriotorios inguinales, axilares, laterocervicales, subclavias).
+
+Informe d'alta d'hospitalització
+EXPLORACIÓ COMPLEMENTÀRIA
+Analíticas:
+Urgencias (29.04.2017): Hematologia: Leucocitos 15500 /µL, (N 89,9 % / L 7 / M 2,8 / E 0,1 / B 0,2), Htíes
+5,35 mill/µL, Hb 15,8 g/dL, Hcto 47,4 %, VCM 88,5 fL, Plaquetas 203000 /µL, Coagulación: TP 81 %, INR 1,16 sg, TP ratio 1,17, TTPA 29,2 sg, TTPA ratio 0,94, Fibrinógeno 636 mg/dL. Bioq uimica: Glucosa 254 mg/dL, Urea 44,5, Creatinina 0,7, Na 138,1 mmol/L, K 4,4, Bilirrubina 0,32 mg/dL, CK 53 U/L, Prot-C reactiva 12 mg/L. Toxicos: Sangre: Etanol <10 mg/dL. Orina.- Amfetaminas [-], Cocaína [-], Cannabinoides [-], Benzodiazepinas [-], Antidepresivos tricíclicos [-], Barbitúricos [-], Metamfetaminas [-], Opiaceos [-], MDMA [-], Metadona [-].
+Orina (29.04.2017): Densidad 1,026, pH 6,5, Proteína 10 mg/dL, Glucosa [-], C Cetonicos 10 mg/dL, Bilirrubina [-], Hb [-], Urobilinogeno 0,2 mg/dL, Nitritos [-], Esterasa leucocitica 0 leucos/µL, Bacterias Escasas, Eritrocitos -- /cmp, Leucocitos 1.
+Ingreso (02.05.2017): Hemograma: leucocitos 11200 (N 74,9%, L 12,8%, M 11%), Hb 16g/dL, Hto 47,2%, plaquetas 194.000. Equilibrio venoso: pH 7,45, pCO2 40mmHg, pO2 55mmHg, HCO3 27,8mmol/L, EB 3,5mmol/L, SatO2 93,9%. Bioquímica: glucosa 152mgdL, HbA1c 7,1%, proteína 72,8g/L, urea 35mg/dL, FG >90 mL/min/1.73 m2,  creatinina  0,68mg7dL,  urato  5,8mg/dL,  Ca  9,8mg/dL,  P  3,5mg/dL,  Mg  2.03mg/dL,  Na  144mmol/L,  K 3,71mmol/L, Bil 0,72mg7dL, FA 97U/L, ALT 15U/L, GGT 42U/L, LDH 242U/L, CK 27U/L, amilasa 27U/L, PCR
+61.6mg/L. TG 228mg/dL, colesterol 225mg/dL, HDL 33,1mg/dL, LDL 146mg/dL, THS 0,654mcUI/mL. Serologías: Hep B, Hep C, VIH y Treponema pallidum negativas. Eritropatología: ácido fólico serum 4,5ng/mL, cobalamina 672pg/mL, ácido fólico eritrocitos 161ng/mL. Proteinograma sin alteraciones. Marcadores tumorales: CEA, AF, PSA, antígeno CA 19.9, beta coriogonatropina, Beta 2 microglobulina, antígeno asociado a carcinoma escamoso normales,  fosfopiruvato-hidratasa  21,6ng/mL,  Cromogranina  A  89,4ng/mL.  Estudio  autoinmune:  ANA  -,  FR
+<10UI/mL. anti-GAD y anti-IA2 negativos. Anticuerpos antifosfolípidos: Ac Anti-cardiolipina IgG, Ac anti-beta 2 Glicoproteina (IgG), Ac anti-beta 2 Glicoproteina (IgM) negativos. Anticoagulante lúpico negativo (dRVVT y SCT screen). Estudio de trombofilias: AT-III, proteína C y S con valores normales. Mutaciones factor V G1691A y protrombina G20210A negativas. PENDIENTE DE RESULTADO DE ACTIVIDAD ANTI-Xa
+Control (09.05.2017): leucocitos 14300 (N 69%) Hb 13.9 g/dl Hcto 42.1% Plaquetas 213000, Proteina 62.2 g/L Urea 58 mg/dl Sodio 146.7 mmol/L Potasio 4.45 mmol/L Bilirrubina 0.28 mg/dl AST 89 U/L ALT 100 U/L GGT 47 U/L PCR 64.40 mg/L ECA 11,1U/L (VN 13.3-63.9), Haptoglobina 590mg/dL (VN 30-270).
+Sedimento de orina (15.05.2017): nitrato, esterasa leucocítica 500leuc/uL, bacterias 884U/mcL, eritrocitos 60-100hemat/camp, leucocitos 60-100leuc/camp. Urocultivo: se aisla colonias de E. Coli solamente resistente a ampicilina.
+Hemocultivo (15.05.2017): negativo.
+Toxina C. dificile (15.05.2017): negativo. Coprocultivo: Campylobacter jejuni sensible a eritromicina.
+Electrocardiograma: ritmo sinu sal con PR 180ms, QRS estrecho, ST sin alteraciones. Radiografía de tórax: sin condensaciones parenquimatosas ni alteraciones de la silueta cardíaca. Resonancias magnéticas:
+RM cerebral con angio-RM (29.04.2017): lesión isquémica aguda en ganglios de la base izquierda, con sufusión hemorrágica en putamen y caudado. Discreto efecto de masa sobre el asta frontal izquierda aunque no de edema vasogénico circundante. Pequeña lesión isquémica cortical en ínsula derecha sin sufusión hemorrágica. Zonas de restricción de la difusión afectando a la ínsula  el polo temporal y de la pequeña zona del parietal izquierdos, además de alguno mínimo en corona radiada derecha. Se aprecia oclusión en el origen de ACM izquierda, sin repermeabilización de su porción proximal. También se aprecia oclusión de una rama silviana M3 derecha de la división anterior en su origen. En la secuencia dinámica se aprecia un retraso circulatorio en el
+
+Informe d'alta d'hospitalització
+hemisferio izquierdo, con repleción de algunas ramas de ACM a través de colaterales piales. La secuencia de perfusión muestra zonas extensas de retraso circulatorio a nivel frontal, parietal y temporal, que son congruentes con penumbra y otras zonas de disminución del volumen que son  coincidentes con afectación en difusión. También hay una pequeña zona de retraso circulatorio en el hemisferio derecho, a nivel frontal. Conclusión: oclusión de ACM izquierda en su origen que sugiere estar establecida en su territorio profundo, mostrando sufusión hemorrágica en los ganglios de la base. En el territorio superficial se aprecian zonas de isquemia establecida junto a otras más extensas que sugieren penumbra. Oclusión de una rama silviana de ACM derecha, con una lesión isquémica establecida insular y una zona de penumbra de pequeño tamaño en el hemisferio derecho.
+RM cerebral con angio-RM (15.05.2017): evolución hacia estadio subagudo de las lesiones isquémicas  con mayor sufusión hemorrágica que afectan territorio vascular superficial y profundo de la ACM izquierda y superficial de la ACM derecha; ambas arterias repermeabilizadas completamente.
+
+TC craneales:
+TC craneal simple de control (29.04.2017): lesiones isquémicas establecidas en ganglios de la base izquierda, región anterior temporal y opercular y frontal precentral del lado izquierdo e insular posterior derecho con extensión a corona radiata. Discreta hiperdensidad en el lecho isquémico de cabeza del caudado izquierdo en relación con transformación hemorrágica petequial visible en RM previa, con edema perilesional que desplaza mínimamente (2 mm) la línea media hacia la derecha. Sistema ventricular con leve ectasia del cuerno anterior izquierdo, el resto de tamaño conservado. Cisternas de la base y perimesencefálicas libres.
+TC craneal simple de control (30.04.2017): infarto isquémico establecido de la ACM izquierda. Discreto aumento del componente hemorrágico. Discreto aumento del efecto masa con compresión del asta frontal del ventrículo lateral izquierdo y mayor desviación de la línea media hacia la derecha 6 mm (previo 3 mm). Infarto subagudo en cápsula externa-ínsula derecha. Leve colapso de cisternas perimesencefálicas.
+TC craneal simple de control (01.05.2017): infarto isquémico establecido de la ACM izquierda en evolución, que no ha aumentado significativo su extensión. Discreto aumento del componente hemorrágico en el interior del área isquémica en territorio de la ACM izquierda. Efecto masa sobre el sistema ventricular izquierdo sin cambios significativos. Leve aumento de la desviación de la línea media hacia la derecha (actual de 8 mm y previo de 5 mm). Infarto subagudo en cápsula externa-ínsula derecha, así como presencia de otros pequeños focos hipodensos córtico-subcorticales frontales derechos en relación a lesiones isquémicas subagudas de probable origen embólico.
+TC craneal simple de control (02.05.2017): sin cambios respecto a estudio previo.
+TC craneal simple de control (05.05.2017): estabilidad del área hipodensa en lóbulo temporal, frontal y parietal izquierdos con zonas de hiperdensidad por transformación hemorrágica, con compresión de ventrículo lateral izquierdo y mínima disminución de la desviación de líneamedia respecto a estudio previo. Hipoatenuación de lóbulo frontal derecho y temporal derecha, por lesión isquémica subaguda de territorio de ACM derecha, sin cambios respecto a estudio previo. Cisternas basales y perimesencefálicas libres. No se observan lesiones óseas TC valorables. No se observan otras lesiones intra ni extraaxiales TC valorables.
+TC craneal simple de control (10.05.2017): disminución del coeficiente de atenuación de la  hipoatenuación frontotemporal  y de ganglios basales izquierdos, con resolución casi completa de los cambios hemorrágicos agudos sobreañadidos y con menor efecto masa sobre sistema ventricular con menor obliteración del  VL  izquierdo.  Línea  media  centrada.  Disminución  del  tamaño  y  del  coeficiente  de  atenuación  de  la hipoatenuación insular y cortical prerrolándica derecha. Sin otros cambios TC valorables.
+TC craneal simple de control (16.05.2017): no se observan nuevas lesiones isquémicas o hemorrágicas TC valorables. Disminución de la extensión de la hipoatenuación frontotemporal y de ganglios basales izquierdos en relación con lesión isquémica subaguda de ramas de ACM izquierda con aparición designos de sufusión hemorrágica subaguda en región de ganglios basales y temporobasal izquierda que no se observaban en estudio
+
+Informe d'alta d'hospitalització
+
+
+TC del 10.05.1017 pero si se observan en RMN del 15.05.2017. Disminución de la compresión del ventrículo lateral izquierdo con recuperación de su tamaño y morfología. Línea media centrada. Hipoatenuación insular derecha sin cambios en relación a lesión isquémica subaguda de ramas de ACM derecha. Resto del estudio sin cambios.
+
+Estudio neurosonológico (03.05.2017): se insonan ACC, ACE y ACI a nivel de ambos ejes carotídeos derecho e izquierdo: no se objetivan placas y el flujo muestra velocidades dentro de la normalidad y es simétrico de forma bilateral. Únicamente destaca un aumento del IP como expresión de un aumento de resistencia vascular.
+
+Ecocardiograma transtorácico (02.04.2017): estudio limitado por mala ventana ecocardiográfica. Ventrículo izquierdo no dilatado ni hipertrófico, con función sistólica global y segmentaria conservada (FE Simpson 60%). Aurícula izquierda no dilatada y sin trombos. Aorta ascendente, arco aórtico y aorta descendente no dilatados sin imagen de aterosclerosis. Sin valvulopatías significativas. No se detecta flujo de CIA
+
+Ecocardiograma transesofágico (08.05.2017): aurícula izquierda no dilatada sin imágenes de trombos. Orejuela izquierda de pequeño tamaño, estructuralmente normal; sin imagen de trombos. Tabique interauricular estructuralmente normal. Foramen oval no permeable o minimamente. Sin valvulopatías significativas. Raíz aórtica y aorta torácica no dilatadas. Sin imágenes de placas de ateroma. Imagen hiperecogénica con doble contorno a nivel de aorta descendente que tras valoracion global nos parece una reverberacion /falsa imagen posiblemente en relacion a SNG.
+
+Angio-TC torácico (03.05.2017): algunos ganglios paratraqueales derechos  de pequeño tamaño, TC indeterminados. Hilios pulmonares de tamaño normal, de morfología vascular. En el estudio vascular no se observan defectos de replección de las arterias pulmonares principales o segmemtarias. Condensación de espacio aéreo bibasales de predominio lobar inferior derecho con broncograma aéreo, asi como focos de condesaciones alveolares en regiones posteriores de LM y LSD, también se asocian imágenes de "tree-in-bud" por afectación de vía aérea pequeña. Todo ello sugestivo de proceso neumónico en las localizaciones descritas de predominio en hemitórax derecha, a valorar broncoaspiración. No hay evidencia de nódulos pulmonares ni derrame pleural. No se observan signos TC sugestivos de TEP. Signos TC de neumonía con afectacion de LSD, LM LID y LII.
+
+TC abdominal (10.05.2017): SNG, con extremo distal en estómago. Discreta afectación pulmonar en segmento posterior de LSD y LID por afectación de espacio aéreo, compatible con neumonía. El hígado es de tamaño y morfología normal, sin evidencia de lesiones focales ni dilatación de la vía biliar intra ni extrahepática. La vesícula biliar es normal, sin cálculos en su interior. El páncreas y el bazo son de tamaño, morfología y características normales. Llama la atención una extensa área de hipocaptación de morfología más o menos triangular en el parénquima del tercio superior y tercio medio del riñón izquierdo, con presencia de captación de la cápsula renal, todo ello compatible con infarto renal segmentario. No hay ganglios mesentéricos, retroperitoneales ni pélvicos de tamaño significativo. No se observan alteraciones significativas en los órganos pélvicos. Aorta de calibre normal, con mínima trombosis mural en pared lateral derecha a la altura del polo inferior de los riñones. Conclusión: estudio de embolias que arteriales múltiples en diferentes territorios. Hallazgos TC compatibles con infarto renal derecho segmentario. Signos TC compatibles con neumonía en evolución en base del pulmón derecho.
+
+Informe d'alta d'hospitalització
+EVOLUCIÓ CLÍNICA
+Hombre de 37 años, con antecedentes de depresión y posible dislipemia que es traído a nuestro centro vía código ictus por hemiplejia derecha del despertar. A su llegada a nuestro centro presenta hipertensión leve. En el examen neurológico destaca clínica hemisférica izquierda completa en paciente zurdo, que obedece órdenes, pero se añade anosognosia y negligencia (NIHSS 20). La analítica inicial muestra una leucocitosis con neutrofilia, el sedimento de orina y radiografía de tórax no muesran hallazgos a destacar. El ECG está en ritmo sinusal. La resonancia magnética urgente muestra ictus agudo de territorio de ACM izquierda (ASPECTS 5) a expesas de territorio profundo con hipoperfusión en todo el territorio ACM y con lesión cortical pequeña en difusión, asociado a ictus cortical insular derecho; se observa también transformación hemorrágica en zona profunda deterritorio izquierdo; en angio-RM se evidencia oclusión de segmento M1 izquierdo y M3 derecho (división anterior). A pesar de objetivarse mismatch DWI-PWI, ante elevado riesgo de sangrado, se desestima realización de trombectomía mecánica e ingresa en Unidad de Ictus sin antiagregación ni enoxaparina profiláctica.
+
+Durante las primeras horas del ingreso el paciente se mantiene hemodinámicamente estable pero con tendencia a la somnolencia; se realiza TC craneal de control que evidencia edema con efecto masa que desplaza línea media. Es valorado por Neurocirugía y se inicia manitol endovenoso. Se observa mejoría progresiva del nivel consciencia por lo que se retira progresivamente manitol, permaneciendo estable. En neuroimágenes de control se observan cambios evolutivos de lesiones isquémicas con discreta sufusión hemorrágica sin progresión de edema. Es valorado por Rehabilitación, que inicia tratamiento específico. Neurológicamente presenta lenta mejoría: emite frases cortas coherentes, nomina con errores y obecede órdenes simples y algunas complejas; persiste hemianopsia homónima derecha, paresia facial central derecha con componente superior, hemiplejia derecha (flácida en brazo, espástica en pierna) con probable hemihipoestesia derecha y hemiparesia izquierda leve de predominio crural. Inicialmente requiere sonda nasogástrica para nutrición (valorado por Dietética) que se puede retirar tras tolerar dieta túrmix. Tolera sedestación en silla sin incidencias.
+
+Como complicaciones presenta desaturación que no corrige satisfactoriamente con oxígeno por lo que se realiza angio-TC torácica que descarta tromboembolismo pulmonar, pero revela neumonía bilateral de predominio derecho por lo que se inicia Augmentine con buena respuesta. Posteriormente presenta embolismo arterial de extremidad inferior izquierda que es valorado Cirugía Vascular; se realiza embolectomía urgente sin incidencias; se objetiva también probable embolismo arterial distal en extremidad superior izquierda (asimetría de pulsos radiales) sin comprimso hemodinámica por lo que se decide tratamiento conservador. Se consensua con Cirugía Vascular, tras realizar neuroimagen de control (sin cambios), iniciar anticoagulación con heparina sódica. No presenta complicaciones hemorrágicas por lo que se rota a Sintrom; no precisa seguimiento ambulatorio por parte de Cirugía Vascular. Ante nuevo síndrom febril se diagnostica infección de orina por E. coli multisensible que se trata con Augmentine con buena respuesta y gastroenteritis aguda con coprocultivo positivo para Campylobacter
+jejuni, que se autolimita. En analíticas seriadas presenta transaminitis leve sin patrón colestásico, de posible origen farmacológico (a pesar de no elevarse GGT), por lo que se realizará seguimiento ambulatorio con ecografía abdominal y visita con Hepatología.
+
+Informe d'alta d'hospitalització
+
+Dentro del estudio etiológico se cursa analítica de ingreso que muestra HbA1c de 7,1% y alteración de perfil lipídico. Valorado por Endocrinología, se solicita estudio de autoinmunidad dirigdo que resulta negativo, se orienta como debut de diabetes mellitus tipo 2. Ante mal control glucémico se inicia insulinoterapia basal-bolus,  requiriendo varias modificaciones por presentar hipoglucemias repetidas (mayoritariamente en contexto de cambios dietéticos). Se inicia atorvastatina ante dislipemia. El estudio ampliado con proteinograma, marcadores tumorales, serologías, ECA, autoinmunidad con anticuerpos antifosfolípidos, estudio de trombofilias resulta negativo, quedando pendiente de resultado al alta actividad anti-Xa. El estudio ecocardiográfico transtorácico y transesofágico no muestra alteraciones destacables y la monitorización cardíaca no registra eventos de interés. Se solicita TC abdominal (exploración torácica no muestra otras alteraciones a parte de neumonía) que evidencia infarto renal derecho segmentario subagudo y mínimos restos de trombo en a. aorta abdominal. Es valorado por Nefrología que ante estabilidad de función renal decide seguimiento ambulatorio. Para completar estudio se solicita PET-TC de cuerpo entero (se realizará en _SS_) que queda pendiente de programación al alta. No se realiza punción lumbar ante necesidad de anticoagulación estricta y baja rentabilidad diagnóstica, a valorar de forma ambulatoria según evolución clínica.
+
+Ante estabilidad clínica se decide traslado a _SS_ para continuar rehabilitación.
+
+Al alta: NIHSS = 18
+mRS = 5
+
+Nota Rehabilitación:
+
+Paciente de 37 años, ingresado el 29/4/2017 por TACI izquierdo NIHSS 20. RM infarto isquémico GB, insular, frontal y frontal izquierdocon leve transformación hemorrágica y oculisón M1 proximal y lesión insular y a corona radiada derecha con posible oclusión mas distal.
+OD:
+-	Ictus territorio ACM izquierda y derecha (insula y corona radiata) de mecanismo embólico y etiología a estudio. Tto anticoagulante con hep sodica
+-	Embolia arterial EII tratada con embolectomia.
+
+AP: no alergia medicamentosa conocida, fumador importante. Depresión en tratamiento farmacológico.
+Consta en una analítica de 2010 dislipemia con cifras de colesterol total de 227 y triglicérido de 287, no siguió control.
+
+SF: Independiente para actividades básicas vida diaria, zurdo. Escala de Rankin previo 0. Buen soporte familiar
+
+EF:Vigil, obedece alguna orden simple pero se intoxica con facilidad, alguna palabra inteligible. Mirada centrada. HHD por reflejo de amenaza. Paresia facial central D: Plejia BC flácida derecha. Paresia crural izquierda (levanta contra gravedad con menor amplitud de movimiento ymayor dificultad). Sensibilidad no valorable.
+NIHSS= 0.1.2.0.2 / 2 (4.0) (4.2) / 0.2..2.2.0 = 23
+
+Informe d'alta d'hospitalització
+
+
+
+
+Plan:Solicito valorar ingreso en _SS_.
+DIAGNÒSTICS
+-	Ictus isquémico de terrritorio de ACM bilateral de probable mecanismo embólico y etiología indeterminada. Estudio etiológico negativo, pendiente de PET-TC.
+-	Probable  diabetes  mellitus  tipo  2  que  requiere  insulinoterapia.  Varias  modificaciones de  la  pauta  ante hipoglucemias repetidas (mayoritariamente tras cambios dietéticos).
+-	Dislipemia. Se inicia atorvastatina.
+-	Neumonía basal bilateral, se descarta TEP con angio-TC torácica, tratada con Augmentine, clínicamente estable.
+-	Embolismo arterial en EII, valorado por Cirugía Vascular y tratado con embolectomía urgente el 05/05. Se inicia anticoagulación con heparina sódica el mismo día, actualmente con Sintrom. Probable embolismo arterial distal en ESI (asimetría de pulsos radiales). Se decide manejo conservador. No requiere seguimiento ambulatorio.
+-	Infarto renal derecho segmentario subagudo. Realizará seguimiento ambulatorio por parte de Nefrología.
+-	Infección de orina en tratamiento con Augmentine (inicio 15/05).
+-	Gastroenteritis aguda con coprocultivo positivo para C. jejuni autolimitada sin tratamiento específico.
+-	Transaminitisposiblemente secundaria a múltiples fármacos.
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Dieta controlada en hidratos de carbono, sin sal y de textura pastosa. Líquidos con espesantes Suplementación nutricional con Resource crema 125 g/12 h
+Sedestación en sillón
+Glucemia capilar De-Co-Ce y a las 00h Hidróxido de magnesio 1 sobre/24 h SP Ranitidina 150 mg/12 h
+Metoclopramida 10 mg/8 h
+Lantus 30 UI a las 23 h + pauta correctora Novorapid 10-10-10 UI + pauta correctora Sintrom según pauta (se adjunta) Atorvastatina 40 mg/24 h
+Augmentine 2 g/8 h IV hasta 26/05/2017 Paracetamol 1 g/8 h SP
+
+CONTROL
+Traslado a _SS_ para continuar rehabilitación.
+
+Se contactará para comunicar día y hora de:
+-	PET-TC de cuerpo entero
+-	Ecografía abdominal
+-	Primera visita en consultas externas de Neurología (Dra. _NAME_), Nefrología y Hepatología Control de factores de riesgo cardiovascular.
+DESTINACIÓ A L'ALTA:	HOSP. AGUTS/PSQ
+
+
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+24.05.2017
+Pàgina 1 de 7

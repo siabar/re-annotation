@@ -1,0 +1,70 @@
+_LOCATION_
+_LOCATION_) Tlf. _CONTACT_
+INFORME ALTA HOSPITALITZACIÓCIP	_ID_	Data Naix.   _DATE_	Edat 75	Sexe Dona	NASS	_ID_
+Adreça   _LOCATION_	CP	_LOCATION_
+Població_LOCATION_	Tel.	_CONTACT_
+Episodi  _ID_	Admissió	10.02.2017 19:59	Alta	11.02.2017 14:02
+Servei	UCIUOHMB Medicina intensiva	Unitat	UCIHCHBL
+
+
+
+DIAGNÒSTIC ALTA
+
+Codi ICD-9	Descripció Diagnòstic
+431/1	HEMORRAGIA INTRACEREBRAL
+V43.3/2	PORTADOR PROTESI VALVULA AORTICA
+V43.3/1	PORTADOR PROTESI VALVULA MITRAL
+
+DADES INFORME
+
+Pacient de 75 anys, sense al.lèrgies medicamentoses conegudes, que ingressa en UCI per Ictus hemorràgic amb hematoma talàmic esquerre.
+
+Antecedents patològics
+--Dislipemia en tractament hipolipemiant fa uns 5 anys
+--No HTA (TAS habituals de 100-110), no diabetes
+--Portadora de protesi aòrtica des de 1977 i pròtesi mitral des de 2003. Seguiment per cardiòleg de zona, consta a la historia clínica clase funcional III però el marit refereix dispnea únicament a grans esforços. Darrera ecocardiografía a l#abril de 2016: #Ventrículo izquierdo ligeramemte dilatado e hipertrofiado . Función sistólica ligeramente reducida de forma global. Aurícula izquierda severamente dilatada. Raíz aórtica de tamaño normal.
+Prótesis mecanica en posicion aórtica con velocidad y gradientes aumentados ( similar a ETTS previos) Prótesis mecánica en posición mitral con gradientes transprotesicos ligeramente aumentados y regurgitación periprotesisen la union mitro-aórticade grado ligero ( ya descrita en ETTs previos) Cavidades derechas no dilatadas con VD ligeramente hipocontractil. IT moderada que permite estimar HTAp ligeran en reposo. No derrame pericárdico. No dilatación de VCI.
+--ACxFA crónica
+--Asma greu persistent en forma de OCFA estudiada a CCEE de Pneumologia, amb PFR al maig del 2016 amb VEMS 42%, CVF 55%, Tiffeneau 76 i PBD positiva significativa (12%).
+--Herpes zoster al cuir pilós al desembre del 2016, amb aparició concomitant de quadre vertiginós tractat de forma simptomàtica.
+
+Tractament actual: Atrovent 4/8h, Rosuvastatina 10 mg/24h, eplerenona 25 mg/24h, formoterol/fluticasona 2inh/12h, furosemida 1c/12h
+
+Malaltia actual
+Pacient vista assimptomàtica la darrera vegada el 10.02.17 a  les 15h45 sense cap incident, al tornar el marit a casa al cap de 30 minuts ( a les 16h15) la troben asseguda a terra sense articular paraula, pel que avisen al 061 que activa codi ictus telefònicament a les 18h56,
+Arribant a Urgències de HMB a les  17h08. A la valoració inicial NIHSS 22 (0-2-1-2-2-1-0-4-0-4-NV-1-3-0-2), es realitza
+coagu-check a urgències que és de 2,3 i TAC cranial a les 17h18 que mostra hematoma agut talàmic esquerre obert a IIIventricle. Es desactiva codi ictus i ingressa a UCI per monitorizació.
+Destaca a exploració física afasia mixta amb persistencia de l'hemiplègia dreta, hemianopsia i negligencia, amb NIHS de 24,  AR amb MV conservat bilateral, estable hemodinàmicament. Es reverteix coagulació amb 2 vials de protromplex. S'informa a la familia de situació i riscos de revertir anticoagulació.
+NHC	_ID_	Pacient	_NAME_
+CIP	_ID_	Data Naix.   _DATE_	Edat 75	Sexe Dona	NASS	_ID_
+Adreça   _LOCATION_	CP	_LOCATION_
+Població_LOCATION_	Tel.	_CONTACT_
+Episodi  _ID_	Admissió	10.02.2017 19:59	Alta	11.02.2017 14:02
+Servei	UCIUOHMB Medicina intensiva	Unitat	UCIHCHBL
+
+
+
+Presenta evolutivament empitjorament de GCS a 8 ( apertura d'ulls només al dolor, localitza a dolor amb extremitat esquerra i emissió de sorolls incomprenssibles) motiu pel qual es realitza TC urgent que mstra augment d'hematoma, aparció d'edema perilesional invasió intraventricular amb sang a hastes occipitals i 4rt ventricle i augment d'hidrocefàlia. Es contacta amb guàrdia de NRC de Bellvitge que considera a la pacient tributaria de DVE però sense disponibilitat de llits, pel que s'avisa a SEM i es trasllada finalment a UCI de _SS_ ( acceptada per NRC i UCI) Presenta GCS fluctuant  8-11 pel que no es procedeix a IOT. ES coloca SNG comprovada per RX normoposicionada i cateter venos central d'accès perifèric a plexe dret ( RX no central) per inici de NAD per TAM 50mmhg i de cara a optimització perfussió cerebral.
+
+Exploracions complementaries
+TC cranial: # Hematoma agudo talámico izquierdo, 27 x 15 mm, con cierto efecto expansivo sobre línea media y VL izquierdo y abierto al III ventrículo.#
+Analítica: 5110L, Hb 143g/L, 179000 plaquetes. INR 2,19, funció renal normal, na 141, K 3,5 ECG: ACxFA a 70x#, AQRS a 0º, T aplanades de forma difusa
+
+TAC craneal 11.02.17 pendent informe definitiu: Augment hematoma talàmic equerre, edema perilesional, sang intraventricular 3i 4rt ventricle amb hidrocefalia associada.
+
+Es deriva a UCI  _SS_ de cara a control i monitorització.
+
+
+Tipus d'ingrés: Motiu d'alta:	Urgent Trasll.Cent.Ag	
+Metge Adjunt:
+_ID_
+Servei:	_NAME_
+
+UCIUOHMB Medicina intensiva	Nº Col·legiat Adjunt:
+
+Data informe:  11.02.2017
+
+
+Pàgina 1 de	2
+Data i hora d'impressió:
+11.02.2017 14:49:07

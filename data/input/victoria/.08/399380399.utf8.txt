@@ -1,0 +1,111 @@
+_LOCATION_
+_LOCATION_) Anul·lació/Reprogramació visites:_CONTACT_
+Telèfon Centraleta: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 44 Anys
+NIF/DNI: _ID__NAME_; _NAME_; _NAME_;
+_NAME_
+Informe d'alta d'hospitalització
+09:01:58
+14.08.2017
+_LOCATION_
+_SS_ NEUROLOGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_
+DOMICIL/RES.SOC 11.08.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Ictus parcial de ACM I tratado con  rTPA en paciente joven
+
+ANTECEDENTS
+No AMC
+Hábitos tóxicos: fumador marihuana ocasional. Ex-consumo ocasional cocaína. NIega consumo actual de tóxicos. No FRCV. No cardioneumopatías conocidas.
+Trastorno de ansiedad en tto ocasional con diazepam. cefaleas en la infancia, sinusitis.
+mRS 0
+
+MEDICACIÓ HABITUAL
+No consta
+
+PROCÉS ACTUAL
+Homvre de 44 años que el 11/08 estando en la _SS_ acompañando a su mujer mientras realizaba esta rehabilitaciión, inicia a las 11:15h cuadro brusco de parestesia braquiales y peribucales derechas. Avisan a los médicos del centro que avisan al SEM que contacta con nosotros a las 11:43, refiriendo PFSN derecha, disartria y debilidad en extremidades derechas. Activan código ictus. Llega a _SS_ a las 12:00. TAC craneal (demorado por otro ictus y box de emergencias). A su llegada 153/54, FC 71, INR 1 Sat 100%. NRL: consciente, nerviso, ligeramente agitado. Orientación no valorable por mutismo (5), no obecede órdenes simples (2). MOEs ok, no HH, no PFSN. No alteraciones de la fuerza, sensibilidad no valorable (1). RCP flexor bilateral. NIHSS 8. EECC:
+-Analítica: hipopotasemia 3.49. Hb 169, leucocitosis de 12900 de predominio neutrofílico. -Rx tórax: marco óseo conservado. ICT<0.5. No condensaciones, senos no pinzados. -TAC+angioTAC: ASPECTS 10. Configuración habitual de los troncos supraaórticos. No se observan estenosis significativas ni defectos de repleción endoluminales, con correcta permeabilidad de ambos ejes carotídeos y vértebrobasilar. Estudio vascular intracraneal sin defectos de repleción proximales. Es díficil valorar vasos distales por falta de opacificación en relación con la adquisición de la serie que ha resultado algo venosa a nivel intracraneal. Ausencia de formaciones aneurismáticas o malformaciones vasculares valorables. -ECG: RS a 80lpm. Eje +30. PR no alargado, QRS no ensanchado, no alteraciones agudas de la repolarización. -EEG: EEG ANORMAL. Por lentificción e irregularidad hemisférica izquierda. Durante la realización del EEG se administra Rivotril con mejoría del lenguaje, obedece órdenes simples, abundantes parafasias. OD: afasia a estudio. Estando en periodo ventana se inicia trombolisis a las 15h. No trombectomía por ausencia de oclusión. PLAN: ingresa para estudio y control evolutivo.
+
+EXPLORACIÓ FÍSICA
+
+Hemodinámicamente estable, hipertenso, afebril, Normocoloreado. AC: tonos cardíacos regulares, sin soplos ni ruidos patológicos.
+AR: MVC, sin ruidos sobreañadidos.
+Abdomen: blando y depresible, no doloroso a la palpación, sin masas ni megalias, peristaltismo conservado.
+
+Informe d'alta d'hospitalització
+
+
+
+
+EEII: sin edemas ni signos de TVP.
+Exploración neurológica normal excepto mínima asimetría facial D NIHSS 1
+
+EXPLORACIÓ COMPLEMENTÀRIA
+EXPLORACIÓNES REALIZADAS EN URGENCIAS:
+Analítica:
+EAB venoso: pH 7,56, PCO2 29mmHg, Bicarbonato 26mmol/L, EB 4,9mmol/L.
+Bioquímica:   Urea 3,6mmol/L, Creatinina  80umol/L, Na+ 141mmol/L, K+ 3,49mmol/L, Glucosa 6mmol/L, ALT 0,35ukat/L, Bilirrubina 8umol/L, PCR 3,1mg/L.
+Coagulación: TP 0,90, TTPA 0,99.
+Hemograma: Hb 169g/L, Htc 49%, VCM 88fL, plaquetas 233.000/mcL, leucocitos 12.900/mcL(7.160 neutrofilos, 4.670 linfocitos).
+ECG: RS a 84lpm, eje 60º, PR 0,12s, QRS 0,08s. No alteraciones de la repolaritzación.
+Rx de tórax:  Marco  óseo conservado, ICT<0,5, senos costofrénicos  libres,  silueta mediastínica conservada, campos pulmonares sin infiltrados ni signos de condensaciones.
+TC craneal: Se realiza estudio encefálico mediante cortes axiales sin la administración de contraste endovenoso. Estructuras de la línea media no desplazadas. Sistema ventricular de tamaño y configuración normales. No se identifican alteraciones significativas de la densidad del parénquima. ASPECTS 10. Cisternas de la base libres. Conclusión: Estudio craneal sin alteraciones valorables.
+EEG: 44 años. Sin antecedentes. A las 11:15 inicia episodio de mutismo, sin alteración motora. Persiste afásico. TAC y angioTAC normales. Nos solicitan EEG para descartar comicialidad. Exploración en el momento del registro EEG: afasia fluente. Video-EEG de 60 minutos de duración, realizado con gorro de electrodos de superficie, colocados según el sistema internacional 10/20, con registro ECG y de la frecuencia respiratoria. EEG que muestra ritmo de base asimétrico:
+Hemisferio derecho: compuesto por ritmo Alfa posterior sobre los 10Hz, con correcta diferenciación topográfica, que se bloquea con la apertura ocular.
+Hemisferio izquierdo: más lentificado e irregular que el contralateral, compuwesto por ondas delta irregulares (entre 30-40 µV de amplitud) a las que se superponen ritmos más rápidos de forma ocasional presencia de brotes de ondas delta frontales hipervoltadas ( 120µV)
+Ausencia de episodios críticos y de fenómenos epileptiformes.
+Se ha administrado  1mg de clonazepam, sin cambios significativos ni en el registro EEG ni en la exploración clínica.
+CONCLUSIÓN: EEG ANORMAL. Por lentificción e irregularidad hemisférica izquierda.
+EXPLORACIONES REALIZADAS EN NEUROLOGÍA:
+TAC CRANEAL POSTROMBOLISIS: Sin evidencia de lesiones agudas. ASPECTS 10.
+ETT: Ventrículo izquierdo  no  dilatado ni hipertrófico, función sistólica  conservada, FE  biplanar del 61%, sin alteraciones de la
+contractilidad.
+Ventrículo derecho no dilatado, normocontractil.
+Aurícula izquierda no dilatada. raíz aórtica no dilatada. Movimiento septo interauricular normal. Válvula aórtica trivalva, sin lesiones.
+Válvula mitral móvil, sin estenosis ni insufieciencia.,
+Válvula tricuspídea no presenta insuficiencia, imposibilitando medir PAPs. Flujo pulmonar no sugestivo de HTP. Vena cava inferior no dilatada, móvil. Sin signos de derrame pericárdico.
+
+Informe d'alta d'hospitalització
+
+
+
+EVOLUCIÓ CLÍNICA
+Paciente de 44 años sin antecedentes de interés que ingresa por clínica súbita sensitiva de hemicuerpo derecho seguida  de  afasia mixta, incialmente mutista y progresivamente  fluente co parafasias y contaminación.  En urgencias con TAC craneal normal y angioTAC sin oclusión de gran vaso. EEG  lentificación hemisférica izquierda sin  fenómenos epileptiformes. Estando en periodo de ventana se decide tratamiento con  rTPA:
+
+El TAC postrombolisis es normal. ASPECTS 10. La exploración muestra recuperación completa de la focalidad excepto sutil asimetría facial derecha. NIHSS 1.
+
+Durante monitorización e unidad de ictus  no se detectan alteraciones del ritmo cardíaco.
+
+Se incia antiagregación con tromalyt 300 mg. Se solicita AngioRMN craneal, ecocardiograma transtorácico sin alteraciones destacables, ECG holter y analítica con perfil de ictus joven.  pasa a planta de neurología.
+
+A petición del paciente y familia se emite también informe provisional para valorar traslado via mutua a centro privado (_SS_) y completar estudio .
+Se traslada el 14/08.
+
+DIAGNÒSTICS
+436/5 Ictus
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Se adjunta
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+14.08.2017
+Pàgina 1 de 3

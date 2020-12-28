@@ -1,0 +1,114 @@
+I.CLINIC DE NEUROCIÈNCIES NEUROLOGIA
+_NAME_	NHC: _ID_
+
+
+Sexo/Sexe: Masc.	Fecha nac./Data naix.: _DATE_	Edad/Edat: 41 años Dirección/Adreça: _LOCATION_	CP: _LOCATION_
+Municip. (Prov.): _LOCATION_  ABS:_SS_	Tel.:_CONTACT_
+As.: SERVEI CATALA DE LA SALUT	CIP: _ID_	NASS: _ID_
+Nº epis.: _ID_	Tipo/Tipus: HOSPIT.	Inici.: 09.09.2017
+Serv: NEUROLOGIA	UO Enf.: G6B4 SALA G NEUROL. CURT. E Hora: 13:36:28 Facult. de ref.: _NAME_
+
+
+
+
+Tipo ingreso/Tipus ingrés: Urgent	Motivo/Motiu alta: CSS Conval.
+Diag.:
+ICTUS ISQUÉMICO ACMI ()
+TRANSFORMACIÓN HEMORRÁGICA ICTUS ISQUÉMICO ACMI () TVP ()
+Proc.:
+ANALÍTICA SANGUÍNEA ()
+TC MULTIMODAL, TC CONTROL () TROMBECTOMÍA MECÁNICA DEL ICTUS () RMN Y ANGIO-RMN CRANEAL ()
+ECO-DUPPLEX SHUNT TRANSCRANEAL () ECOCARDIOGRAMA ()
+
+
+
+
+INFORME CLÍNICO ALTA / INFORME CLÍNIC ALTA
+
+Motivo de consulta / Motiu de consulta
+Alteración del habla y debilidad de extremidades derechas.
+
+Antecedentes e historia previa / Antecedents i història prèvia
+Antecedentes personales: Hombre de 41 años, sin alergias medicamentosas conocidas ni hábitos tóxicos. Independiente para ABVD. Vive con su esposa.
+ANTECEDENTES PERSONALES
+1.  Síndrome  ansioso,  sin  seguimiento  ni  tratamiento  médico  específico.  2.  Hipercolesterolemia  sin tratamiento farmacológico.
+MEDICACIÓN HABITUAL (act 09/09/17)
+- Benzodiazepina puntual a demanda.
+
+Proceso actual / Procés actual
+Inició de forma súbita, el día 09/09/17, sobre las 10 am, estando en domicilio con su mujer, un cuadro de mutismo y hemiplejia derecha. Fue randomizado para el estudio RACECAT por el SEM y remitido a nuestro centro para estudio y tratamiento.
+
+Exploración física / Exploració física
+09/09/2017-13:38:00: Frecuencia respiratoria (rpm) 17, Glicemia capilar (mg/dl) 103, PAS (mm Hg) 104, PAD (mm Hg) 78, Pulsioximetría (%) 100, Tª  axilar (ºC) 36.6.
+Hemodinámicamente estable, normotenso, afebril.
+CCV: tonos rítmicos sin soplos ni roces audibles. Pulsos periféricos presentes.
+AR: MVC sin agregados
+NRL: somnoliento, apertura ocular espontánea errática y ante estímulos vigorosos. Mutista (no emite sonidos ni comprende órdenes simples). Mirada conjugada desviada hacia la izquierda, sin sobrepasar línea media a la excursión visual horizontal derecha. Reflejo de amenaza izquierdo presente, derecho ausente. Hemiplejia facio (grave, inferior)- braquio (0/5)- crural (0/5) derecha. Sensibilidades no valorables (no realiza ningún gesto al estímulo doloroso en brazo derecho). Dismetrías y negligencias no valorables. Signo de Babinski derecho, RCP flexor izquierdo. NIHSS 23.
+
+Radiología / Radiologia
+*	TC CRANEAL MULTIMODAL (09/09/17):
+-	TC CRANEAL BASAL: No se objetivan imágenes de hemorragia intracraneal. Parénquima cerebral con leve disiminución de la diferenciación cortico- subcortical en región insular izquierda, junto con borramiento parcial del núcleo lenticular izquierdo. ASPECTS 8. No se observan otras imágenes sugestivas de lesiones isquémicas parenquimatosas subagudas / crónicas. Estructuras de línea media centradas. Cisternas basales libres. Cambios de aspecto inflamatorio en ambos senos maxilares.
+-	TC PERFUSION CEREBRAL: TTP: Retraso del TTP que afecta prácticamente a la totalidad del territorio de la ACMI. CBV: Caída de volumen de predominio  frontal y en menor grado temporal. CBF: Prácticamente superponible a la afectación del CBV pero con mayor afectación temporal. Mismatch aprox. del 60-70%.
+-	ANGIO-TC EXTRA E INTRACRANEAL: Aorta y segmentos proximales de troncos supraaórticos sin signos de ateromatosis, permeables, sin estenosis visibles. Origen de la carótida interna izquierda con mínimos signo de ateromatosis calcificada, permeable y sin estenosis secundaria. Origen y segmentos cervicales de las arterias vertebrales sin signos de ateromatosis, permeables, sin estenosis visibles. Oclusión total de la ACM izquierda en su segmento M1.
+
+*	TRATAMIENTO MECÁNICO DEL ICTUS: Se realiza punción femoral derecha. Se realiza cateterización selectiva y la primera serie angiográfica confirma la presencia de una oclusión a nivel de M1 proximal izquierda. Se procede al microcateterismo selectivo de arteria ocluida logrando una adecuada posición para realizar trombectomía realizándose 2 pases. En la serie de comprobación final se confirma recanalización TICI 3. No se detectan incidencias durante ni inmediatamente tras el procedimiento.
+
+*	RM CRANEAL (13/09): Signos de infarto isquémico cortical fronto- temporo-insular izquierdo, con algunos focos milimétricos de infarto isquémico a nivel del cortex occipital y en cortex de circunvolucion postcentral. Hematoma en ganglios basales izquierdos con edema citotoxico y vasogenico asociado que ejercen efecto masa sobre el VLI y el III ventriculo y que desvia las estructuras medioencefalicas hacia la derecha.
+*	RX TÓRAX: sin alteraciones en el marco óseo ni infiltrados parenquimatosos. Senos costofrénicos libres.
+
+Exploraciones complementarias / Exploracions complementàries
+*	ANALÍTICA SANGUÍNEA: Leucocitosis 12.500 (77%neutrófilos). Resto de hemograma, función renal, ionograma, hemostasia y niveles de ácido fólico y vit. b12 y perfil tiroidal sin alteraciones. Hemoglobina glicada de 5,5% Pefil lipídico: LDL 149 HDL 38. Ac IgG e IgM anticardiolipina negativos, Ac IgG e IgM antibeta-2-glicoproteína I negativos. Pendiente resultados estudios trombofilia en fase aguda y repetir estudio de manera ambulatoria.
+
+*	HEMOCULTIVOS (15/09, 17/09 y 27/09): negativos.
+
+*	SEDIMENTO DE ORINA Y URINOCULTIVO (16/09 y 20/09): sedimento sin alteraciones. Urinocultivo negativo.
+
+*	SEROLOGÍAS: VHA -, Anti-HBAgS -, HBAgS -, DNA VHB no detectad, IgG VHC -, Ac heterófilos VEB -, IgG VEB
++, IgG/IgM CMV -, Anticuerpos VIH 1-2 y Ag P-24 negativos.
+
+
+
+Evolución / Evolució
+1.	ICTUS ISQUÉMICO AGUDO EN TERRITORIO DE LA ARTERIA CEREBRAL MEDIA IZQUIERDA (ACMI)
+2.	TRANSFORMACIÓN HEMORRÁGICA DE ICTUS EN ESTRUCTURAS PROFUNDAS CON CONTAMINACIÓN INTRAVENTRICULAR
+
+A la exploración neurológica se evidencia síndrome hemisférico izquierdo completo (NIHSS 23). Analítica sin alteraciones relevantes. ECG en ritmo sinusal. Rx de tórax sin alteraciones. La neuroimagen inicial (TC craneal multimodal) evidencia oclusión a nivel de ACMI M1 proximal, sin signos de ateromatosis de gran vaso intra ni extracraneal ni otras estenosis relevantes.
+Se inicia tratamiento fibrinolítico con bolus y se procede a trombectomía mecánica, consiguiendo revascularización completa (TICI 3) y extracción de trombo. Durante su estancia el pacienta mejoría parcial motora que se sigue de un empeoramiento bruco, motivo por el que se solicita TC craneal que evidencia un hematoma intraparenquimatoso de 4 x 2,7 cm con contaminación intraventricular y desplazamiento de la línea media.
+La monitorización cardíaca > 72 horas no muestra arritmias. Se realizan ecocardiograma transesofágico y ecografía doppler transcraneal que no muestran alteraciones ni signos de shunt derecha-izquierda.
+En definitiva, se trata de un ictus isquémico agudo en territorio de la ACMI de causa indeterminada con estudio completo, que presnta una transformación hemorrágica profunda PH2.
+Durante su estancia presenta una mejoría clínica. Dada la estabilidad, se decide alta a centro Guttman para continuar rehabilitación motora y logopedia. Al alta persiste afasia global de predominio de expresión, hemiparesia facio(moderada)braquio (0/5)crural(1/5) y hemianestesia derecha.
+NIHSS: 15;  mRS: 5;  TOAST: indeterminado (estudio completo).
+
+3.	SÍNDROME FEBRIL PROBABLEMENTE SECUNDARIO A TROMBOSIS VENOSA PROFUNDA.
+Durante el ingreso el paciente presenta varios picos febriles acompañados de elevación de reactantes de fase aguda, sin un claro foco infeccioso. Inicialmente se orienta como de foco vascular y se inicia tratamiento antibiótico con meropenem y daptomicina, que ante la persistencia de la fiebre, se sustituye por cefatazidima y linezolid. Se realiza Rx de tórax, Rx de abdomen, sedimento y urinocultivos, hemocultivos (x6) y ecocardiograma que resultan negativos para identificación del foco de infección. Durante su ingreso se indentifica una trombosis venosa profunda que afecta al miembro inferior derecho. Dada la negatividad del cribaje de focalidad infecciosa se considera la trombosis como la responsable del síndrome febril. Ante estos hallazgos se realiza un PET-TC que descarta definitivamente el foco infeccioso vascular y se supende la antibioterapia (habiendo el paciente recibido tratamiento antibiótico durante unos 14 días).
+4.	TROMBOSIS VENOSA PROFUNDA VENA FEMORAL DERECHA  Durante su ingrso presenta aumento de tamaño y dolor en tobillo, pierna y zona poplítea derechos. Se realiza ecografía-doppler que muestra hallazgos compatibles con TVP de vena femoral proximal que se extiende hasta vena poplítea. Se aumenta la dosis de heparina de profilácticas a terapéuticas, con remisión del edema y de la clínica.
+
+Plan terapéutico / Pla terapèutic
+Enoxaparina 90mg cada 12horas. Enalapril 5mg cada 24hs.
+
+Otras recomendaciones / Altres recomanacions
+Debera acudir al _SS_ el día 8 de enero para extracción sanguínea y ecografía de miembros inferiores de control y posterior visita en consutlas externas de neurología el día 20 de febrero (Dr. _NAME_) según citas adjuntas.
+
+
+
+Firma/Signatura1: _NAME_	Firma/Signatura2: _NAME_ Categoría: Resident 2	Categoría: Consultor/a 1
+Nº Matrícula _SS_: _ID_	Nº Matrícula _SS_: _ID_
+
+
+
+
+Fecha/Data Informe: 03.10.2017
+Hora Informe: 15:30:01
+
+Docum.: _ID_
+Hist. Clínica: _ID_
+El _SS_ ha incorporado sus datos al Fichero de Pacientes, para tratarlos con fines sanitarios.
+Puede ejercer sus derechos de acceso, rectificación, cancelación y oposición, así como obtener mas información en la Unidad de Atención al Cliente.
+Vers. 00
+Pag. 2 de
+4
+Episod.: _ID_
+_SS_ ha incorporat les seves dades al Fitxer de Pacients, per a tractar-los amb finalitats sanitàries. Pot exercir els seus drets d'accés, rectificació, cancel·lació i oposició, i obtenir més informació a la Unitat d'Atenció al Client.
+_SS_
+_LOCATION_) _LOCATION_) Tel. _CONTACT_ Fax _CONTACT_
+http://_CONTACT_/

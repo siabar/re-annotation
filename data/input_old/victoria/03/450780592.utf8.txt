@@ -1,0 +1,91 @@
+_SS_
+Informe d'alta Mèdica Servei de Medicina Intensiva
+Full 1 de 3_NAME_
+Llit: _ID_	
+Data de naixement: _DATE_	Edat: 77 anys	Sexe: Home
+Nº Episodi: _ID_	Nº Història Clínica: _ID_	
+Adreça:		
+Telèfon: _CONTACT_;_CONTACT_		
+Al·lèrgies/ Intoleràncies
+No allergies		
+Grup sanguini:		
+Data d'ingrés SEMI: 08.12.2017 14:27	Data d'alta SEMI: 10.12.2017 10:08	Estada SEMI: 2 dies
+Procedència:  ALTRE CENTRE O	Destinació:  Altres U	Data Intervenció:
+INSTITUCIÓ		
+Tipo d'admissió: Urgent		
+Resultat SEMI: TRASLADO A PLANTA		
+
+Telèfons contacte famílies: (hija) _NAME_	_CONTACT_
+
+
+08.12.2017 14:27
+08.12.2017 14:27
+60
+165
+Pes actual
+Talla actual
+
+
+
+FC	86 /min	PNIs	158 mmHg	Pes	60,000 kg
+SpO2	96 %	PNId	62 mmHg		
+
+EVOLUCIÓ CLÍNICA
+verbaliza que quiere ir al W.C (7:00 AM), al poco, disminución del nivel de consciencia, desviación de mirada a la izquierda y hemiparesia derecha a las 7 a.m.
+A su llegada a URG el paciente presenta TA 185/122 mmHg, SatO2 99% basal, FC 70x', T 35.1ºC, glicemia 220 mg/dL A la EF estuporoso, afásico, deviación conjugada de la mirada a la D, cabeza hacia la I y paresia hemicuerpo D.
+Se activa código ICTUS, se administra Labetalol 10mg ev, Zofram y Nolotil. El ranking resulta entre 2-3 con NIHSS de 25. ECG con FA no conocida a 65x'. En la TAC área de encéfalomalacia occipital izquierda sugestiva de infarto antiguo, lacunares crónicos profundos bilaterales y ausencia de signos de sangrado. Hemograma, bioquimica y coagulación sin alteraciones.
+Se contacta con _SS_ y se decide administrar rt-PA, segun peso, seguido perfusión. Se activa el SEM y se deriva al
+_SS_ para valorar rescate intraarterial.
+
+
+Evolutivo _SS_:
+A su llegada a urgencias de _SS_ requiere nuevos bolus de Labetalol por HTA. Se realiza TC multimodal donde se aprecia TC basal con ASPECTS de oclusión de carótida terminal izquierda. Mapas de perfusión sin tienen missmatch significativo. A la salida del TC craneal se mantiene normotenso. Persiste con síndrome hemisférico izquierdo NIHSS 24 y se decide retorno a Nuestro centro sin otras intervenciones.
+
+EXPLORACIÓN FISICA:
+TA 199/100, FC 85x', FR 16x' Afebril BMTest 269 mg/dl
+CARDIO: RC sin soplos ni roce, no edemas en EEII, buena perfusión periférica, petequias por compresión de manguito de PA en ESI distal pero con buenos pulsos distales.
+RESPI: MVC sin ruidos sobreañadidos.
+ABD . blando, depresible, no doloroso, peristaltismo presente.
+NRL: Consciente, mutista. Mirada fija hacia la izquierda. Abolido reflejo de amenaza derecho. Hemiplejia facio-braquio-crural derecha. Hemianestesia. Dismetrías no valoradas. NIHSS 24. Babinsky bilateral.
+
+ANALÍTICA I EXPLORACIONS
+AG UCIA's: FG 83.39 , Creatinina *0.9 mg/dL, Gluc 254.6 mg/dL,Leucocits *7.99 Hematocrit *38.3 %, Plaquetes *107 x1E9/L, , Hemoglobina  *13.3 g/dL, Sodi  *141.0 (mEq/L) mmol/L, Potassi  *4.6 (mEq/L) mmol/L, Clorur  *109.1 (mEq/L) mmol/L, Proteina C reactiva  *0.1 mg/dL, Temps de Tromboplastina parcial (s)  *27.3 , Temps de Tromboplastina parcial (rati) *0.88 , Temps de Protrombina (INR) *1.1 , Temps de Protrombina (%)  *81 , Temps de protrombina (rati)  *1.14 , Urea
+*48.0 mg/d RxTx se solicita
+ECG: RS con FCV de 70'x, extraistolia auricular frecuente, sin alteraciones de la repolairzación
+
+
+EVOLUCIÓ INICIAL
+Paciente con grado de dependencia alto para las ABVD de base, con ictus en territorio de la ACM izda, gran déficit secular y sin mejora tras infusión de rTPA. Tampoco opción a terapia endovascular.
+Se informa a la familai de mal pronóstico vital a corto plazo, que comprende la situación.
+Se ajusta tratamietno, e ingresa a SEMIS para control neurológico y TC SNC a las 24h tras la administración de la FL
+
+EVOLUCIÓ CLÍNICA
+sistémica.
+El TC de control muestra.....................
+
+
+ORIENTACIÓ DIAGNÓSTICA
+1.	ICTUS DE CARÓTIDA TERMINAL IZQUIERDA.
+2.	SD. HEMISFÉRICO IZQUIERDO
+
+Diagnòstics
+DIAGNOSTIC PRINCIPAL (N.U.)
+OCLUSIO ARTERIA CEREBRAL INESPECIFICADA, AMB INFART CEREBRAL
+Antecedents/Diagnòstics/Procediments
+
+
+
+	
+Mitja	
+Primera	
+Máx	
+Min	
+La mès nova
+SAPS II	41,00	41	41	41	41
+Mort(SAPS)	0,27	0	0	0	0
+
+Puntuació (SCORES)
+Atès per:	_NAME_
+Autorizat per:
+
+Impreso: 10.12.2017 10:09

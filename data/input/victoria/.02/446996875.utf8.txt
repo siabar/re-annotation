@@ -1,0 +1,94 @@
+I.CLINIC DE NEUROCIÈNCIES NEUROCIRURGIA
+_NAME_	NHC: _ID_
+
+
+Sexo/Sexe: Masc.	Fecha nac./Data naix.: _DATE_	Edad/Edat: 52 años Dirección/Adreça: _LOCATION_	CP: _LOCATION_
+Municip. (Prov.): _LOCATION_  ABS:_SS_	Tel.:_CONTACT_
+As.: SERVEI CATALA DE LA SALUT	CIP: _ID_	NASS: _ID_
+Nº epis.: _ID_	Tipo/Tipus: HOSPIT.	Inici.: 06.11.2017 Serv: NEUROCIRURGIA	UO Enf.: G045 SALA G DE NEUROCIRURGI Hora: 16:54:02
+
+
+
+
+
+Tipo ingreso/Tipus ingrés: Urgent	Motivo/Motiu alta: Defunc.
+Diag.:
+CODI ICTUS ()
+Proc.:
+MONITORIZACION ELECTROCARDIOGRAFICA (89.54) TOMOGRAFIA AXIAL COMPUTERIZADA DE CABEZA (87.03) MONITORIZACION DE PRESION ARTERIAL SISTEMICA (89.61)
+
+
+
+
+INFORME EXITUS
+
+Motivo de consulta / Motiu de consulta
+Hemiparesia izquierda
+
+Antecedentes e historia previa / Antecedents i història prèvia
+Antecedentes personales: NAMC. No hábitos tóxicos. ANTECEDENTES PATOLÓGICOS
+1. DISLIPEMIA.
+Medicación habitual: no refiere.
+
+Proceso actual / Procés actual
+Paciente que mientras se encontraba en casa ha sido encontrado en el suelo con debilidad de extremidades izquierdas en torno a las 15:00h. Ultima vez visto asintomático a las 14:30h. Valorado por SEM acude como código ictus.
+En TC craneal se aprecia extenso hematoma de ganglios basales derecho por lo que se decide intervención quirúrgica urgente para evacuación.
+
+Exploración física / Exploració física
+06/11/2017-17:00:00: Frecuencia respiratoria (rpm) 26, Glicemia capilar (mg/dl) 99, PAS (mm Hg) 178, PAD (mm Hg) 105, Pulsioximetría (%) 100, T obedece órdenes. Mirada tónica hacia la derecha sin rebasar linea media. Reflejo de amenaza izquierdo abolido. Hemiparesia facio grave - braquio 1/5 - crural 2/5 izquierda. Babinski izquierdo, indiferente derecho. He mianestesia izquierda. Impresione anosognosia y heminegligencia izquierd a. Dismetrías no valoradas. NIHSS 18. INDICADORES DE ESTANCIA EN UCIIndi cador de gravedad: APACHE II : 13;Indicadores de procedimiento: Ventilac ión mecánica invasiva (*); -> Nº días de VMI : 11; -> Nº días sin VMI : 3; Ventilación mecánica no invasiva (*); -> Nº días de VMNI : 3; Traqueo tomía (*); Nutrición artificial : NE;Indicadores de calidad intra-UCI: T raqueotobronquitis asociada a ventilación mecánica; -> Nº días catéter x  Nº catéteres venosos centrales : 12;
+
+Intervenciones quirúrgicas / Intervencions quirúrgiques
+08/11/2017 : Craneotomía para evacuación hematoma. 12/11/2017 : Craneotomía para evacuación hematoma. 14/11/2017 : Traqueostomía.
+
+Evolución / Evolució
+1.	POST-OP DE CRANEOTOMIA EVACUADORA DE HEMATOMA FRONTOPARIETAL DERECHA
+Tras la cirugía ingresa a la UCI-Q bajo intubación orotraqueal, PIC, PtiO2 y microdiálisis. Valores de neuromonitorizacion correctos durante su estancia.
+El día 11/11/17 cuando se realiza TAC de Craneo control en donde se evidencia aumento de tamaño de hematoma intraparenquimatoso fronto- parietal derecho con edema perilesional más evidente que  en estudio previo y mayor efecto de masa por lo que se reinterviene de forma urgente el 12/11/17.
+Paciente evoluciona satisfactoriamente, controles radiologicos muestran mejoria con respecto a estudios previos.
+La exploracion neurologica presenta ciertas dificultades debido a barrera idiomatica (Paciente hindú). Al alta el paciente se encuentra vigil, obedece ordenes sencillas. FM 4/5 brazo derecho y 3/5 pierna derecha. Presenta hemineglicencia izquierda. moviliza al dolor y de forma espontanea brazo izquierdo, plejia pierna izquierda.
+Dada su buena evolución es trasladado a sala de hospitalización convencional (24/11/17).
+
+2.	MIOCARDIOPATIA POR STRESS (TAKOTSUBO):
+Paciente ingresa desde quirofano con perfusion de NA. El dia 07/11 presenta tendencia a HTA, en el ECG se evidencia ondas T invertidas y asimetricas en cara inferior y en derivaciones precordiales con Troponinas negativas. Se realiza Ecocardiografia a su ingreso donde se evidencia disfuncion ventricular generalizada de predomino septal, ITV 12, GC aproximado 2,1 L. Se aumenta velocidad de perfusion de NA y se evidencia mejoria de ITV. Paciente se mantiene sin signos de mala perfusion, con buen llenado capilar y periferico y diuresis conservada, tampoco hay signos de congestion pulmonar, no requiere uso de Inotropicos
+Paciente evoluciona satisfactoriamente con mejoria electrocardiografica y ecocardiografica. Al alta ECG solo persiste onda T asmetrica en V6 y DIII. Ecocardiografia con mejoria de contractibilidad global, discreta discinesia en 1/3 superior septal ITV 20 con buen gastop cardiaco.
+3.	SX FEBRIL SIN FOCO; PROBABLE TRAQUEOBRONQUITIS. PORTADOR DE TRAQUEOSTOMIA
+Debido a su estado neurológico y dias de IOT de decide realizar traqueostomia el dia 14/11. Se realizó traqueostomia el dia 14/11, dos dias despues de dicho procedimeinto evidenciamos salida de secreciones fetidas a traves de tubo endotraquel. Tomamos muestras para cultivo y BAS (resultados negativos) e inicamos de forma Empirica ATB con Clindamicina, actualmente secreciones peritraqueales escasas y no fetidas Desde el dia 16/11 presenta picos febriles, el dia 18/11 se realiza cambio de ATB a tazocel, cumple tratamiento por 5 dias. Al alta afebril, pero persiste con abundantes secreciones bronquiales, por lo que se hace enfasis en Fisioterapia Respiratoria incentiva.
+
+4.	HTA
+Paciente que ser mantiene con cifras tensionales adecuadas peor con tendencia a hipertensión de predominio nocturno, recibiendo tratamiento antihipertensivo con 4 fármacos distintos.
+
+
+Durante su estancia en la sala, el paciente se mantiene neurológicamente estable, poco atento y colaborador, con hemiparesia braquio(4)-crural (3/5) derecha. Precisa aspiraciones por abundantes secreciones. El 26/11/17 realiza parada cardiorespiratoria, se inician maniobras iniciales sin éxito, por lo que es éxitus el día 26/11/17 a las 7:18h.
+
+Datos Transfusionales / Dades Transfusionals
+Grupo del paciente: AB; Unidades Transfundidas: Hematies: 1
+
+
+
+
+Plan terapéutico / Pla terapèutic
+No procede.
+
+Otras recomendaciones / Altres recomanacions
+No procede.
+
+
+
+Firma/Signatura1: _NAME_		Firma/Signatura2: _NAME_ Categoría: Resident 2	Categoría: Especialista
+Nº Matrícula _SS_: _ID_	Nº Matrícula _SS_: _ID_
+
+Fecha/Data Informe: 26.11.2017
+Hora Informe: 11:16:26
+
+Docum.: _ID_
+Hist. Clínica: _ID_
+El _SS_ ha incorporado sus datos al Fichero de Pacientes, para tratarlos con fines sanitarios.
+Puede ejercer sus derechos de acceso, rectificación, cancelación y oposición, así como obtener mas información en la Unidad de Atención al Cliente.
+Vers. 00
+Pag. 2 de
+3
+Episod.: _ID_
+_SS_ ha incorporat les seves dades al Fitxer de Pacients, per a tractar-los amb finalitats sanitàries. Pot exercir els seus drets d'accés, rectificació, cancel·lació i oposició, i obtenir més informació a la Unitat d'Atenció al Client.
+_SS_
+_LOCATION_) _LOCATION_) Tel. _CONTACT_ Fax _CONTACT_
+http://_CONTACT_/

@@ -1,0 +1,123 @@
+_LOCATION_) Telèfon _SS_  972 _CONTACT_
+Telèfon IDI (Ressonància i TAC) _CONTACT_
+Telèfon ICO _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 76 Anys
+NIF/DNI: _ID_Informe d'alta d'hospitalització
+11:41:23
+31.10.2017
+_LOCATION_
+_SS_ NEUROCIRURGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_; _CONTACT_
+AGUTS 29.10.2017
+Servicio de Neurocirugía
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Hematoma subdural subagut hemisfèric E
+
+ANTECEDENTS
+ANTECEDENTS PERSONALS:
+-No al·lèrgies medicamentoses conegudes
+-No hàbits tòxics
+-Autònoma per ABVD
+
+ANTECEDENTS PATOLÒGICS:
+-	Fibril·lació auricular
+-	Síndrome depressiva
+-	Carcinoma escamós de corda bucal dreta 1993. Va rebre tractament amb RT. Afonia residual
+-	Ingressada a l'abril 2007 a la _SS_ per Histerectomia amb doble anexectomia, amb posterior complicació d'ili paralític que es va resoldre espontàniament. A l'agost 2007 va presentar una trombosi mesentèrica que va requerir ressecció intestinal de budell prim. Des d'aleshores tendència a la diarrea amb hàbit deposicional de 2-3 vegades/dia.
+-	Trocanteritis
+
+MEDICACIÓ HABITUAL
+Sintrom s/p, Sertralina, Deprax, Diazepan, Emconcor, Natecal D, Tramadol/Paracetamol,Enantyum, Paracetamol, Omeprazol, Lyrica
+
+PROCÉS ACTUAL
+Paciente con trastorno de lenguaje, se realiza anamnesis a través de familiares, explican que lleva unos días con cuadro de malestar general inespecífico y dolor generalizado. Posteriormente hoy 28/10 por la mañana es vista asintomática, pero posteriormente sobre las 19.00 horas aproximadamente es encontrada por familiares con cuadro de confusión y posible trastorno de lenguaje. Por este motivo acuden a _SS_, donde se realiza AS y de orina que no muestra alteraciones significativas. Por tanto se decide contactar con NRL de guardia a las 23.00 horas, decidiéndose activación de Código ictus y traslado a nuestro centro
+Llegada a las 23.55 horas, es atendida inmediatamente.
+
+EXPLORACIÓ FÍSICA
+
+FC	bpm
+Tªaxi  ºC
+FR	rpm Tªrec  ºC
+TA s	179 mmHg SAT O2  %
+TA d   81 mmHg Pes Kg
+
+NRL: Paciente vigil, desorientada en tiempo, espacio y persona, obedece órdenes sencillas pero se intoxica con facilidad al aumentar la dificultad. Presenta trastorno de lenguaje mixto, de predominio motor, consigue nominar un objeto pero se intoxica rápidamente. Pupilas isocóricas y normorreactivas, no alteraciones campimétricas ni de MOE ni de otros PPCC. Asimetría facial, que corrige con la movilización, no clara paresia a este nivel. No déficit
+
+Informe d'alta d'hospitalització
+
+
+
+
+motor ni sensitivo a nivel de extremidades. No dismetrías valorables por poca colaboración.
+
+EXPLORACIÓ COMPLEMENTÀRIA
+-TC craneal urgent (29/10/2017): HSD frontoparietotemporal  esquerre subagut-crònic de 13 mm de gruix màxim que condiciona desplaçament de la línia mitja cap a la dreta de 12 mm, així com signes d'herniació uncal esquerra i signes d'hidrocefàlia amb incipient trasudació transependimària associada.
+
+-TC craneal POSTIQ 29-10-17: Canvis post-IQ de drenatge d'HSD fronto-temporo-parietal esquerre. Mínima col·lecció residual subdural frontal esquerra de 5-6 mm. Important millora del efecte massa sobre les estructures adjacentes amb desviació de les estructures de la línia mitja de 3 mm cap a la dreta.
+
+-AG a urgències i posterior a la reversió del Sintrom: S'adjunten.
+
+EVOLUCIÓ CLÍNICA
+Paciente que ingresa por HSD subagudo izquierdo panhemisférico, se decide IQ urgente: el día 29-10-17 bajo sedación y A-Local, se interviene quirúrgicamente realizándose 2 trépanos + drenaje de HSD, no incidencias intraoperatorias.
+
+Durante el ingreso, el paciente no presenta complicaciones quirúrgicas, deambula con ayuda. Herida de buen aspecto sin signos de infección, retirándose el drenaje subdural sin incidencias previo TC cráneo que muestra evacuación prácticamente completa del hematoma y ausencia de complicaciones.
+
+Dada la estabilidad clínica del paciente, se decide alta a domicilio con posterior control en Consultas Externas de Neurocirugía.
+
+DIAGNÒSTICS
+432.9 Hemorràgia intracranial inespecificada. Hemorràgia intracranial NOS
+
+PROCEDIMENTS
+01.24 "Altres craniotomies. Cranial: descompressió,exploració,trepanació; craniotomia: NOS,extracció abscés"
+99.29 Injecció o infusió d'altra substància terapèutica o profilàctica
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+-Su tratamiento de base, EXCEPTO EL SINTROM QUE NO DEBE SER INTRODUCIDO HASTA INDICACIÓN EN CCEE DE NEUROCIRUGÍA. HASTA ENTONCES, ENOXAPARINA 60MCG 1PINCHAZO AL DÍA.
+-Tratamiento específico al alta:
+-Paciente con tratamiento analgésico de base, seguir según dolor, así como protector gástrico.
+-Dexametasona (Fortecortín) en pauta descendente:
+-1mg cada 12horas 3días, después
+-1mg cada  24horas 3días, después
+-1mg cada 48horas 3DOSIS, i STOP
+-Levetiracetam (Keppra) 500mg cada 12horas vía oral 1SEMANA TRAS LA OPERACIÓN Y STOP (ÚLTIMO DÍA	5/11/2017).
+-Lormetazepam 1mg 30min antes de dormir si insomnio.
+
+Informe d'alta d'hospitalització
+
+
+
+
+-Curas de las heridas quirúrgicas:
+-Lavado con jabón neutro, secado.
+-Cura tópica con yodo, retirada de grapas de sutura a los 10-15días de la cirugía en su ambulatorio.
+
+-Reposo relativo, deambulación recomendada pero no esfuerzos.
+
+-Se explican signos de alarma por los que reconsultar.
+
+CONTROL
+-Acudirá a control en Consultas Externas de Neurocirugía (Dra. _NAME_) previo TC craneal en fecha y hora adjuntadas.
+-Control MZona y retirada de grapas según indicaciones al alta por su CAP.
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+31.10.2017
+Pàgina 1 de 3

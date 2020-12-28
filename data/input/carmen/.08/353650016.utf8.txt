@@ -1,0 +1,86 @@
+I.CLINIC DE NEUROCIÈNCIES NEUROLOGIA
+_NAME_	NHC: _ID_
+
+
+Sexo/Sexe: Fem.	Fecha nac./Data naix.: _DATE_	Edad/Edat: 81 años Dirección/Adreça: _LOCATION_	CP: _LOCATION_
+Municip. (Prov.): _LOCATION_  ABS:_SS_	Tel.:_CONTACT_
+As.: SERVEI CATALA DE LA SALUT	CIP: _ID_	NASS: _ID_
+Nº epis.: _ID_	Tipo/Tipus: HOSPIT.	Inici.: 23.03.2017
+Serv: NEUROLOGIA	UO Enf.: G6B4 SALA G NEUROL. CURT. E Hora: 18:59:51
+
+
+
+
+
+Tipo ingreso/Tipus ingrés: Urgent	Motivo/Motiu alta: Dom. Familiar
+Diag.:
+AFASIA REFGRESIVA ()
+Proc.:
+
+
+
+
+INFORME CLÍNICO ALTA / INFORME CLÍNIC ALTA
+
+Motivo de consulta / Motiu de consulta
+Cefalea, vómitos, desorientación y alteración del lenguaje de inicio indeterminado.
+
+Antecedentes e historia previa / Antecedents i història prèvia
+Antecedentes  personales:	Mujer de  81  años,  sin  alergias,  enolismo  cróni  co. Independiente para  las actividades de la vida diaria.
+ANTECEDENTES PERSONALES:
+1.	HIPERTENSIÓN ARTE RIAL en tratamienot farmacológico.
+2.	DISLIPEMIA sin tratamiento farmaco lógico.
+3.	HEPATITIS ALCOHÓLICA.
+4.	GONARTROSIS.
+
+
+MEDICACIÓN HABITUAL: En alapril 20mg/24h, omeprazol 20mg/24h.
+
+Proceso actual / Procés actual
+Cuadro que debuta con cefalea y alteración del lenguaje, posteriormente emesis por lo que acude al CAP que derivan a Urgencias de nuestro centro para valoración.
+
+Exploración física / Exploració física
+23/03/2017-19:30:00: Glicemia capilar (mg/dl) 67. 23/03/2017-20:00:00 : PAS (mm Hg) 143, PAD (mm Hg) 90, Tª axilar (ºC) 37.
+NRL: Consciente, desorientada en tiempo y espacio, orientada en persona. Lenguaje hipofluente con rasgos afásicos (nomina 6/8, repite con parafasias, obedece sólo órdenes simples). Mirada centrada sin limitaciones en la excursión visual. Reflejo de amenaza asimétrico (menor en lado derecho). No paresia facial, con balance muscular conservado. No alteraciones en sensibilidad. No dismetrías ni disartria. Extinción no valorable.
+
+Laboratorio / Laboratori
+se adjunta
+
+Radiología / Radiologia
+TC CRANEAL BASAL: No se observa sangrado agudo intracraneal. Diferenciación cortico-subcortical conservada. ASPECTS 10. Marcada hipodensidad de la sustancia blanca periventricular y en ambos centros semiovales, en probable relación con microangiopatía crónica. Imagen lacunar crónica lenticular derecha. Estructuras de la línea media centradas. Sistema ventricular de tamaño y morfología normal. Cisternas basales libres. TC PERFUSIÓN (limitado ya que se ha realizado en el TC 64): No se observan alteraciones valorables en el TTP, CBV y CBF. Sin discordancia significativa. ANGIO-TC EXTRA E INTRACRANEAL: Arco aórtico y segmentos proximales de troncos supraórticos con leve ateromatosis, sin estenosis. Origen, bifurcación y segmentos cervicales de ambas carótidas internas de trayecto tortuoso, con ateromatosis, sin estenosis.Segmentos supraclinoideos de ambas carótidas internas con ateromatosis, sin estenosis. Origen de las arterias vertebrales sin ateromatosis ni signos de estenosis. Principales arterias cerebrales intracraneales permeables (ACAs, ACMs y ACPs). Segmento P1 de la ACP izquierda hipoplásico. Sistema vertebrobasilar permeable.
+
+RM cerebral: no se observan lesiones isquemicas agudas. Microangiopatia isquemica cronica difusa (Fazekas
+3  periventricular  y  centros  simiovales). Espacio  perivacular  dilatado  en  ganglios  basales  derechos.  No microsangrado. Estudio angio RM sin estonosis significativas.
+
+Evolución / Evolució
+AFASIA REGRESIVA
+Paciente que ingresa por cuadro de afasia y cefalea. El estudio de neuroimagen (TC multimodal y RM cerebral) descarta lesiones agudas isquemicas así como alteraciones en el estudio vascular relevantes (angio TC y angio RM). En la analítica destaca .... Sedimento de orina patológico. Radiografía de tórax con ICT aumentado. Se realiza punción lumbar que muestra muy leve proteinorraquia sin celularidad. Se realiza EEG que no muestra actividad epileptiforme.
+Se trata de un cuadro de afasia regresivo sin clara causa. Se han descartado causas vasculares o infecciosas. Tampoco las pruebas complementarias apoyan un origen elipeleptico. Se podría tratar de un cuadro confusional en contexto de infección urinaria en paciente con enolismo.
+Dada la normalidad de las pruebas complementarias realizadas y la buena evolución estando asintomática se da alta a domicilio.
+
+Plan terapéutico / Pla terapèutic
+Naprilene 20 mg comprimidos , 30 comprimidos. 20 MG. Vía oral. Una vez a l día, en el desayuno. Cefixima normon 200 mg capsulas efg, 14 cápsulas. 200 MG. Vía oral. Cada  12 horas.
+
+Otras recomendaciones / Altres recomanacions
+.
+
+
+
+Firma/Signatura1: _NAME_ Categoría: Esp.Assist.Urg.
+Nº matrícula HCP: _ID_
+
+Fecha/Data Informe: 26.03.2017
+Hora Informe: 17:41:23
+
+
+
+
+
+Docum.: _ID_
+Hist. Clínica: _ID_	Vers. 00	Pag. 2 de	2
+Episod.: _ID_
+El _SS_ ha incorporado sus datos al Fichero de	_SS_	_SS_ ha incorporat les seves dades al
+Pacientes, para tratarlos con fines sanitarios.	_LOCATION_)	Fitxer de Pacients, per a tractar-los amb finalitats
+Puede ejercer sus derechos de acceso, rectificación,	_LOCATION_)	sanitàries. Pot exercir els seus drets d'accés,
+cancelación y oposición, así como obtener mas información	Tel. _CONTACT_ Fax _CONTACT_	rectificació, cancel·lació i oposició, i obtenir més
+en la Unidad de Atención al Cliente.	<_CONTACT_/>	informació a la Unitat d'Atenció al Client.

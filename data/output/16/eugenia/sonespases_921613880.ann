@@ -1,0 +1,20 @@
+T1	Fecha_de_alta 15 25	17-07-2018
+#1	AnnotatorNotes T1	2018-07-17
+T2	SECCION_DIAGNOSTICOS 27 39	Diagnosticos
+T3	Ictus_isquemico 52 75	ECVA ISQUÉMICA: Infarto
+T4	Arteria_afectada 90 93	ACM
+T5	Lateralizacion 94 95	D
+T6	_SUG_Etiologia 99 122	etiología indeterminada
+T7	Etiologia 109 122	indeterminada
+T8	SECCION_PROCEDIMIENTOS 125 139	Procedimientos
+T9	SECCION_MOTIVO_DE_INGRESO 219 236	Motivo de ingreso
+T10	SECCION_ANTECEDENTES 332 352	Antecedentes Médicos
+T11	SECCION_TRATAMIENTO_HABITUAL 506 530	Tratamiento domiciliario
+T12	SECCION_PROCESO_ACTUAL 630 639	Anamnesis
+T13	Fecha_inicio_sintomas 728 738	10/07/2018
+#13	AnnotatorNotes T13	2018-07-10
+T14	SECCION_EXPLORACION_FISICA 1283 1294	Exploración
+T15	SECCION_EXPLORACION_FISICA_DURANTE_HOSPITALIZACION 1298 1351	Exploración Física a su llegada en la Unidad de Ictus
+T16	SECCION_EXPLORACIONES_COMPLEMENTARIAS 4798 4832	Resultados pruebas complementarias
+T17	SECCION_EVOLUCION 8739 8761	Evolución Hospitalaria
+T18	SECCION_TRATAMIENTO_Y_RECOMENDACIONES_AL_ALTA 9691 9728	Recomendaciones y tratamiento al alta

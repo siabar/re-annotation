@@ -1,0 +1,122 @@
+_LOCATION_ Telf Consultes: _CONTACT_ / _CONTACT_
+Telf Centraleta Hospital: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 73 Anys
+NIF/DNI: _ID_Informe d'alta d'hospitalització
+CP	_LOCATION_
+ABS	_SS_
+Servei	NEUROLOGIA
+Data d'alta  23.06.2017	11:57:16
+_LOCATION_
+_CONTACT_
+DOMICIL/RES.SOC 17.06.2017
+_NAME_
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Ictus
+
+ANTECEDENTS
+ANTECEDENTS PATOLÒGIC
+-	Al.lèrgia penicilines, sulfamides.
+-	Exfumador des de fa 18a. No hàbit enòlic.
+
+-	Hipertensió arterial en tractament farmacològic.
+-	Dislipeàmia en tractament
+-	Hipertrigliceridèmia en tractament farmacològic
+-	Hiperuricèmia amb antecedents de gota en tractament crònic.
+-	FA paroxísitca en 2003, des de llavors en ritme sinusal, amb CHAD2VASc 1 inicial, sense anticoagulació. En tractament amb
+Bbloq. Ecocardiografia 2013 patró de relaxació alterada, VAo trivalva, normofuncionant. VM amb vels fins correcta cinètica,
+competent. IT lleu que permet estimar PAPs normal. VP de ecoestructura i flux normal.
+-	Detrusor hiperactiu em tractament amb mirabegron i hiperplàsia benigne de pròstata (PSA normal) en seguiment per
+Urologia. Ecografia 2014 Hiperplàsia prostàtica moderada, Quist renal esquerre.
+-	Esteatosis hepàtica objectivada en TAC abdominal maig'16
+-	Diverticulitis aguda que va requerir ingrés el maig'16 amb colonoscopia que evidencia 10 pòlips, el de major tamany a
+14cm de marge anl i 25mm de diàmetre. IQ: amigdalectomia. Faquectomia.
+
+No AP de IQ o sagnat recent
+
+Autònom independent per AVD, Rankin 0.
+
+MEDICACIÓ HABITUAL
+ACIDO ACETILSALICILICO CINFA 100MG 30 COMPRIMIDOS GASTRORRESIST EFG  ACID ACETILSALICILIC
+1 x 24 h.
+ALOPURINOL RATIOPHARM 300MG 30 COMPRIMIDOS EFG ALOPURINOL 1 x 24 h. Indefinida  1  30  RE-97
+AMLODIPINO NORMON 10MG 30 COMPRIMIDOS EFG  AMLODIPINA, BESILAT D'  1 x 24 h.  Indefinida  1  30 RE-290
+BETMIGA 50MG 30 COMPRIMIDOS DE LIBERACION PROLONGADA MIRABEGRON  1 x 24 h. BISOPROLOL NORMON 5MG 30 COMPRIMIDOS RECUB EFG BISOPROLOL, FUMARAT  1 x 24 h.
+CARDURAN NEO 4MG 28 COMPRIMIDOS LIBERACION MODIFICADA  DOXAZOSINA, MESILAT DE  1 x 24 h.
+Informe d'alta d'hospitalització
+
+GEMFIBROZILO STADA 600MG 60 COMPRIM RECUB PEL EFG  GEMFIBROZIL  1 x 12 h.  Indefinida  1  30 RE-290
+OMEPRAZOL MYLAN 20MG 56 CAPS DURAS GASTRORRESISTENT(FRASCO) EFG OMEPRAZOL 1 x 48 h. VALSARTAN/HIDROCLOROTIAZIDA	APOTEX	160/12,5MG	28	COMPR	RECU	PEL	EFG VALSARTAN+DIURETIC 1 x 24 h.
+NASONEX 50MCG 1 ENVASE 140 DOSIS SUSPENSION PULVERIZACION NASAL  MOMETASONA, FUROATO
+2 x 24 h. Si cal
+
+
+PROCÉS ACTUAL
+Sobtadament mentres preparaven l'esmorçar presenta trastorn de la parla i desviació comisura, a les 7'10-30h aproximadament.
+
+Codi Ictus
+Hora inci 7'10h (es desperta bé) HJ23 8:21h
+
+EXPLORACIÓ FÍSICA
+Consciente y orientado. Normohidratado. Normocoloreado. AC: ruidos cardiacos rítmicos, sin soplos ni extratonos.
+AR: murmullo vesicular conservado de forma bilateral, sin ruidos sobreañadidos.
+ABD: depresible, peristaltismo presente. No doloroso a la palpación, sin masas ni visceromegalias. Puñopercusión lumbar bilateral negativa.
+
+Exploració Neurológica:
+Afasia global amb PFSN D i pref ocular a la D NIHSS 0+2+2+0+1 / 2+0+0+0+0 / 0+0+3+0+0= 10 PACI
+
+EXPLORACIÓ COMPLEMENTÀRIA
+TAC cranial urgent: sense lesiosn hemorràgiques. ASPECTS 10  AngioTC crani i TSA: sense oclsuions proximals de gran vas ni estenosis.
+
+TAC crani de control: infart a territori ACM E, subdivisió anterior, sense transformació hemorràgica. ECG: FA a urgències, posteriorment RS.
+AS: sense alteracions de la cogualació.
+
+Ecocardio TT: Función sistólica conservada. Ligera dilatación de AI. IM leve degenerativa.
+
+Informe d'alta d'hospitalització
+
+
+Holter 24h: ritme sinusal
+
+EVOLUCIÓ CLÍNICA
+El pacient arriba com a codi ictus, NIHSS 8 PACI amb afasia motora. Es realitza TCcrani amb angioTc que no mostra lesions patològiques n oclusions proximals de gran vas. El pacient compleix criteris per rebre tractament fibrinolític que s'administra sense indiències.
+Resta en observació 24h a UCIm sense incidències. Es realitza TC crani de control que mostra lesió isquèmica aguda a territori superficial de la ACM E subdivisió anterior.
+Pasa a planta convencional de Neurologia on resta estable sense complicacions. Inicia logopèdia i comença a repetir llenguatge i a emtre algun monosíllab.
+Es decideix alta hospiatlària. Es considera l'ictus de causa cardioembòlica recomanant antiacoagulació amb edoxaban 60mg 1comp/dia, per CHADSVASc 2 5 amb risc sagnat acceptable (HAS BLED 2) i sense contraindicacions i amb bona funció renal.
+
+DIAGNÒSTICS
+434.11/4 ICTUS isquèmic a territori ACM E cardioembòlic tracta amb trombolisis cerebral 427.31/3 Fibril.lacio auricular rapida paroxistica
+
+401.9/2 HTA
+272.4/1 Dislipemia
+272.1/1 Hipertrigliceridemia
+
+PROCEDIMENTS
+Codi ICtus / Trombolisis cerebral / 87.03 Tomografia axial computada de cap. TAC de cap
+89.52 Electrocardiograma. ECG NOS, ECG (amb 12 o més derivacions)
+89.39 Altres mesuraments i exàmens no operatoris. Metabolisme basal [RMB],gàstrics,prova alè d'urea 14C
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+-	LIXIANA 60mg 1comp/Dia Suspenre Acid Acetil Salicilic 100
+
+Resta de la seva medicació sense canvis
+
+CONTROL
+Control i seguimnet dels FRV pel seu metge de familia amb objectius de TA <135/85 i coelsterol LDL<100 Acudirà a CEX NEUROLOGIA per control evolutiu segons citació
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+23.06.2017
+Pàgina 1 de 3

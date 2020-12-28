@@ -1,0 +1,54 @@
+T0	FECHA 237 247	20.06.2017
+#0	AnnotatorNotes T0	2017-06-20
+T1	HORA 248 253	12:29
+#1	AnnotatorNotes T1	12:29
+T2	FECHA 259 269	29.06.2017
+#2	AnnotatorNotes T2	2017-06-29
+T3	HORA 270 275	09:08
+#3	AnnotatorNotes T3	09:08
+T4	FECHA 604 620	febrero del 2016
+#4	AnnotatorNotes T4	2016-02-UNDEF-day
+T5	_SUG_Tratamiento_anticoagulante_alta 835 842	Sintrom
+T6	_SUG_Tratamiento_anticoagulante_hab 835 842	Sintrom
+T7	_SUG_Lateralizacion 966 975	izquierdo
+T8	_SUG_Lateralizacion 1228 1237	izquierda
+T9	_SUG_Lateralizacion 1404 1412	derechas
+T10	FECHA 1740 1744	2016
+#10	AnnotatorNotes T10	2016-UNDEF-month-UNDEF-day
+T11	_SUG_Etiologia 1917 1925	habitual
+T12	_SUG_Lateralizacion 1952 1953	I
+T13	_SUG_Lateralizacion 1994 1995	I
+T14	_SUG_Lateralizacion 2632 2633	I
+T15	_SUG_Lateralizacion 2681 2682	I
+T16	_SUG_Ictus_isquemico 2816 2819	AVC
+T17	_SUG_NIHSS_alta 2840 2850	NIHSS de 5
+T18	_SUG_NIHSS_previa 2840 2850	NIHSS de 5
+T19	_SUG_Lateralizacion 3749 3750	I
+T20	_SUG_Ictus_isquemico 3794 3797	AVC
+T21	_SUG_Localizacion 3798 3803	tronc
+T22	_SUG_Lateralizacion 4531 4532	I
+T23	SECCION_EXPLORACIONES_COMPLEMENTARIAS 4653 4681	Exploracions complementaries
+T24	_SUG_Lateralizacion 4789 4790	I
+T25	_SUG_Localizacion 5011 5018	troncos
+T26	_SUG_Lateralizacion 5059 5068	izquierda
+T27	_SUG_TAC_craneal 5095 5097	TC
+T28	_SUG_Arteria_afectada 5168 5183	arteria basilar
+T29	_SUG_Arteria_afectada 5299 5325	Arterias carótidas comunes
+T30	_SUG_Arteria_afectada 5469 5496	arterias carótidas internas
+T31	_SUG_Arteria_afectada 5545 5575	arterias cerebrales anteriores
+T32	_SUG_Lateralizacion 5753 5762	izquierdo
+T33	_SUG_Arteria_afectada 5780 5811	arterias cerebrales posteriores
+T34	_SUG_Localizacion 5814 5825	cerebelosas
+T35	_SUG_TAC_craneal 5873 5875	TC
+T36	_SUG_Lateralizacion 6131 6138	derecho
+T37	_SUG_Lateralizacion 6156 6165	izquierda
+T38	_SUG_Ictus_isquemico 6472 6475	AVC
+T39	_SUG_Localizacion 6476 6481	tronc
+T40	_SUG_Localizacion 6702 6707	tronc
+T41	SECCION_TIPO_DE_INGRESO 6727 6741	Tipus d'ingrés
+T42	FECHA 6874 6884	28.06.2017
+#42	AnnotatorNotes T42	2017-06-28
+T43	FECHA 6926 6936	29.06.2017
+#43	AnnotatorNotes T43	2017-06-29
+T44	HORA 6937 6942	10:48
+#44	AnnotatorNotes T44	10:48

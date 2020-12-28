@@ -1,0 +1,124 @@
+_LOCATION_
+_LOCATION_) Anul·lació/Reprogramació visites:_CONTACT_
+Telèfon Centraleta: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 80 Anys
+NIF/DNI: _ID_ _NAME_
+Informe d'alta d'hospitalització
+10:16:04
+28.12.2017
+_LOCATION_
+_SS_ NEUROLOGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_; _CONTACT_
+ATEN.PRIMÀRIA 16.12.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Afasia
+
+ANTECEDENTS
+Sin AMC
+No hábitos tóxicos.
+No HTA, no DLP ni DM conocidas. Obesidad. No cardioneumopatías conocidas.
+IQ: protesis en rodilla derecha, colecistectomizada, cesárea. Situación basal: independiente para ABVD. mRankin 0
+
+MEDICACIÓ HABITUAL
+Betmiga, Omeprazol, Paracetamol, Paroxetina.
+
+PROCÉS ACTUAL
+Mujer de 80 años que el dia 15/12 es vista asintomática por última vez a las 10:30h. Sobre las 12:30h vuelve a casa y el marido la encuentra con alteración del habla por lo que acuden al CUAP desde donde se activa código ictus a las 14:30h.
+
+Llega a urgencas de _SS_ a las 14:34h. TC craneal a las 15:07h. A la valoración inicial hipertensa con TA 198/89 mmHg, satO2 97%, afebril. INR 1.2, DXT 87 mg/dL. A la explroación está consciente, dice edad pero no mes (1), obedece dos órdenes simples, Nomina 4/5 con parafasia, no evoca, no repite (2). MOEs normales. Impresiona HHD por amenaza (2). PFSN D (1). No déficit motor. Sensibilildad no valorable por afasia (1). RCP flexor bilateral. NIHSS 7.
+
+Su esposo refiere un episodio previo de alteración del lenguaje autolimitado en pocas horas, hace unos dos años, que no fue estudiado. Al interrogatorio dirigido explica pérdida de memopria reciente en los últimos meses pero sin aparente repercusión funcional.
+
+Como pruebas compelemntarias se realiza analítiac en la que destaca BQ y coagulación normales, Hb 15.8 g/dL, hematocrito 49 %, VCM 79 fL, plaquetas 379000, neutrofilia 5840. Resto normal. El TAC craneal no muestra signos de patología aguda. La radiografía de tórax y el EEG están dentro de la normalidad.
+
+Se orienta el caso como PACI de ACM izq, no candidata a rTPA por tiempo de evolución ni a trombectomía mecánica por ausencia de oclusión intracraneal. Se decide ingreso en NRL para estudio y control evolutivo
+
+EXPLORACIÓ FÍSICA
+
+Informe d'alta d'hospitalització
+
+
+
+
+
+TA 166/85mmHg FC 77lpm SatO2 basal 94% 18rpm
+NRL: vigil, consciente, orientada en TEP, responde a órdenes simples y complejas, lenguaje nomina evoca y repita 5/5 aunque presenta bloqueos (1), habla no disártrica, PICNR, no HH por confrontación, ppcc normales, no alteración de la fuerza ni sensibilidad en extremidades, no dismetría, RCP flexor bilateral. NIH 1
+AC: rítmica, no ausculto soplos
+AP: murmulo vesicular conservado, sin ruidos sobreañadidos
+Abdomen: blando, depresible, no doloroso a la palpación, no palpo masas ni megalias, no signos de irritación peritoneal, peristaltismo conservado.
+EEII: no edemas ni signos de TVP
+
+EXPLORACIÓ COMPLEMENTÀRIA
+Pruebas complementarias en Urgencias:
+-Analítica: BQ normal, coagulación ok. Hb 15.8 g/dL, hematocrito 49 %, VCM 79 fL, plaquetas 379000, neutrofilia 5840. Resto normal.
+-TC craneal y angioTC: Cambios de atrofia cerebral e isquemia crónica de pequeño vaso. Ausencia de signos de patología aguda intracraneal en el momento actual.
+-Rx de tórax: ICT < 0.5, senos costofrénicos libres, no condensaciones ni infiltrados.
+-ECG:  ritmo  sinusal  a  70  lpm,  onda  P  picuda,  PR  0.16s,  QRS  estrecho,  sin  alteraciones  agudas  de  la repolarización.
+
+Pruebas en Neurología:  
+EEG: sin alteraciones significativas
+ETT (27/12): VI no dilatado, SIV basal algo hipertrófico, con función contráctil conservada. VD no dilatado, con contractilidad conservada. Aurícula izquierda no dilatada. Aorta ascendente no dilatada. Válvula mitral con aniullo calcificado, con insuficiencia ligera. Válvula aórtica trivalva, escleorsada, insuficiencia ligera. Insuficiencia tricuspídea ligera. PAPs estimada de 27 mm Hg. Flujo pulmonar no sugestivo de HT pulmonar. PVC normal. Sin derrame pericárdico significativo
+Analítica: función renal normal, ionograma normal, función hepática normals, leve hipoproteinemia 63g/L sin hipoalbuminemia, perfil lipídico normal, función tiroidea normal, perfil glicémico, folatos y cobalaminas normales, proteinograma normal, poliglobulia Hb 163g/L Hto 50%, plaquetas, serie blanca y coagulación normales.
+Holter: pendiente
+Ecocardiograma TT: 1. VI no dilatado, SIV basal algo hipertrófico, con función contráctil conservada. VD no dilatado, con contractilidad conservada. 2. Aurícula izquierda no dilatada. Aorta ascendente no dilatada. 3. Válvula mitral con aniullo calcificado, con insuficiencia ligera. Válvula aórtica trivalva, escleorsada, insuficiencia ligera. 4. Insuficiencia tricuspídea ligera. PAPs estimada de 27 mm Hg. Flujo pulmonar no sugestivo de HT pulmonar. 5. PVC normal. 6. Sin derrame pericárdico significativo.
+RMN craneal: Patrón de pérdida de volumen de parénquima encefálico, superior al esperado para la edad del/de la paciente, compatible con atrofia cerebral global. Signos de afectación isquémica crónica de la sustancia blanca. Imágenes puntiformes en núcleos grises de la base que plantean diagnóstico diferencial entre dilatación de espacios vasculares e infartos lacunares.
+
+Informe d'alta d'hospitalització
+
+
+
+EVOLUCIÓ CLÍNICA
+Ingresa en NRL para estudio de afasia con sospecha de ictus de ACM izquierda. A su llegada la paciente está vigil, consciente, orientada en TEP, responde a órdenes simples y complejas, lenguaje nomina evoca y repita 5/5 aunque presenta bloqueos (1), habla no disártrica, PICNR, no HH por confrontación, ppcc normales, no alteración de la fuerza ni sensibilidad en extremidades, no dismetría, RCP flexor bilateral. NIH 1.
+
+Durante su estancia en urgencias presenta episodio de desorientación y agitación que es tratado desde módulo D con quetiapina puntual. A la revaloración se encuentra asintomática y sin focalidad.
+
+Se mantiene monitorizada durante 3 dias sin detectarse ningún evento arrítmico.
+
+Como parte del estudio se realiza EEG que resulta normal. En la analítica de ingreso destaca leve hipoproteinemia y poliglobulia Hb 163 y Hto 50% sin otros hallazgos relevantes. El ETT se encuentra dentro de la normalidad. En la RMN cerebral se observa atrofia global superior a la esperada para la edad de la paciente, sin observarse lesiones agudas. Queda pendiente realizar el registro Holter
+
+Se orienta el caso como afasia autolimitada. Con presunta etiología vascular se inicia antiagregación con AAS 300.
+
+Por evolución favorable se decide alta, con primera visita por neurólogo de zona, acudirá con resultado de Holter, recomendamos valoración de  posible deterioro cognitivo.
+
+ORIENTACIÓ DIAGNÒSTICA
+Afasia autolimitada. posible deterioro cognitivo.
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+- AAS 300mg/24h.
+
+CONTROL
+- Por MFiC y NRL de zona.
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+28.12.2017
+Pàgina 1 de 3

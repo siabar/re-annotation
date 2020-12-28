@@ -1,0 +1,153 @@
+_LOCATION_) Telèfon _SS_  972 _CONTACT_
+Telèfon IDI (Ressonància i TAC) _CONTACT_
+Telèfon ICO _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 76 Anys
+NIF/DNI: _ID__NAME_; _NAME_
+Informe d'alta d'hospitalització
+09:44:31
+28.12.2017
+_LOCATION_
+_SS_ NEUROLOGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_; _CONTACT_; _CONTACT_
+AGUTS 15.12.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Ictus isquémico lacunar capsular derecho.
+
+ANTECEDENTS
+ANTECEDENTES PERSONALES
+-No alergias medicamentosas conocidas
+-Exfumador desde hace 20 años, previamente consumo de 10 cigarrillos/día. No otros hábitos tóxicos
+-Independiente para Actividades básicas de la vida diaria. mRs 0
+
+ANTECEDENTES PATOLÓGICOS
+-Hipertensión arterial sin tratamiento farmacologico actualmente por voluntad del paciente.
+-No Diabetes/dislipemia. Pero refiere que no realiza control desde al menos 5 años.
+-No antecedentes personales de cardiopatía isquémica ni de patología cerebrovascular.
+
+MEDICACIÓ HABITUAL
+Sin medicación habitual.
+
+PROCÉS ACTUAL
+Paciente de 76 años, con los antecedentes descritos, refiere que día 15/Diciembre/2017, a las 17.30 horas aproxiamdamente, comienza de forma súbita con deficit motor de hemicuerpo izquierdo, decide no consultar hasta que famliar (hija) se lo encuentra a las 21.00 horas, decidiendo contactar con  SEM que decide traslado a urgencias de _SS_ (explican orientación diagnóstica inicial como hiperglucemia sintomática). Desde dicho centro deciden contactar con nuestro centro a su llegada, decidiéndose activación de código ictus a las 22.00 horas y traslado a nuestro centro. Llegada a las 22.17 horas, es atendido inmediatamente por NRL de guardia.
+
+
+
+
+EXPLORACIÓ FÍSICA
+
+FC	103 bpm
+Tªaxi 37.3 ºC
+FR	rpm Tªrec  ºC
+TA s	165 mmHg SAT O2 94 %
+TA d   72 mmHg Pes Kg
+
+EXPLORACIÓN FÍSICA AL INGRESO:
+FC 90 bpm Tªaxi 35.5 ºC  TAs: 244/134 -- 240/138 -- 196/103 --175/100 -- 167/97 --165/115 -- 188/109 -- 23:45h:
+153/82 mmHg
+Requereix administració de 3 bolus de labetalol 10mg i 25mg d'urapidil.
+Expl NRL: PFCE moderada, parèsia braquio-crural esquerra lleu que no puntua a NIHSS, disàrtria lleu, resta normal.
+NIHSS= 00000/20000/00010= 3
+
+Informe d'alta d'hospitalització
+
+
+
+
+
+EXPLORACIÓN FÍSICA AL ALTA:
+NRL: Deficit facial izquierdo. Las extremidades izquierdas claudican contra gravedad. Deficit sensitivo tactial en extremidades izquierdas. Disartria muy leve. resto normal.
+NIHSS : 00000/20101/01010: 6
+
+
+EXPLORACIÓ COMPLEMENTÀRIA
+ANALÍTICAS
+-AS (ingreso): plaq i coag normal. Colesterol 220 mg/dL;  Colesterol HDL 57 mg/dL; Colesterol LDL (calcul) 141 mg/dL; Triglicèrid 111 mg/dL.
+
+-ECG: RS amb extrasístoles ventriculars.
+
+-RX tòrax: Rx AP de tórax en decúbito, poco inspirada, poco penetrada, parcialmente rotada. No se observan aumentos de densidad compatibles con condensación ni pinzamiento de senos costofrénicos. ICT dentro de normalidad.
+
+-Eco-Doppler  TSA:  lleus  signes  d'ateromatosi,  sense  evidenciar  punts  d'estenosi.  Eco-Dopler  TC:  sense alteracions significatives. S'insona basilar fins 83mm, amb flux normal.
+
+-TC- angioTC- TC perfusió:  Infart llacunar agut/subagut talàmic dret. Infarts llacunars crònics al nucli caudat dret. No s'observen signes de trombosi arterial.
+
+EVOLUCIÓ CLÍNICA
+A su llegada a urgencias, se objetiva deficit motor en hemicuerpo izquierdo (NIHSS 3). Se realiza TC multimodal, que pone en evidencia infarto lacunar agudo/subagudo, estudio angio-TC muestra irregularidad de arteria basilar y ACPs, probable ateromatosis a este nivel. Estudio eco-doppler sin alteraciones significativas.
+
+Se orienta como ictus lacunar talámico derecho, en contexto de crisis hipertensiva que requiere administración de hasta 3 bolus de urapidil IV para control. Se descarta tratamiento fibrinolítico en fase aguda por encontrarse fuera de ventana temporal, se descarta tratamiento endovascular por ausencia de trombo en gran vaso, bajo NIHSS y lesión establecida.
+
+Se decide ingreso en Unidad de ictus, bajo cuidados semi-intensivos.
+
+Durante sus primeros días de ingreso el paciente empeora su déficit motor sobretodo de predominio en brazo izquierdo. Posteriomente el paciente ha tenido fluctuaciones de la debilidad de dicha region corporal. Finalmente mejora de forma progresiva. Al momento del alta tiene déficit motor facial izquierdo, sus extremidades se elevan contra gravedad , claudican sin tocar el suelo. Al alta el paciente puede ponerse de pie y caminar con un andador.
+
+Como complicación se ha registrado dos episodios de glicemia mayores a 200. Se ha hecho estudio de hemoglobina A1c que pone en evidencia valor de 11,6% con lo que se diagnostica de DM al paciente. Se incia tratamiento con metformina, al no conseguirse adecuados controles se añade glimepirida con lo que se obtiene medidas de glicemia dentro de lo deseado en un paciente con patologia vascular cerebral.
+
+Informe d'alta d'hospitalització
+
+
+
+
+
+No se han registrado otras coimplicaciones
+
+El registro de telemetria cardiaca no ha registrado arrtimias embolígenas. Se ha inciado tratamiento de profilaxis secundaria con AAS y atorvastatina.
+Se inicia rehabilitación física durante ingreso, con buena evolución clínica posterior.
+
+Dada su estabilidad clínica y hemodinámica se  decide alta domicliaria el 28/12/2017 para continuar rehabilitación en domicilio. Anda con caminador y supervisión.
+Exploración al alta: Paresia faciobraquiocrural izquierda y hemihipoestesia con disartria leve.
+
+Escalas al alta:
+-NIHSS:  00000/20101/01010: 6
+-mRs:3
+-Barthel: 50
+
+ORIENTACIÓ DIAGNÒSTICA
+436/5 Ictus lacunar capsular derecho, etiología probablemente secundaria a enfermedad de pequeño vaso. 250.00/3 DM II diagnosticada en el ingreso , iniciamos tratamiento oral.
+401.9 Hipertensión esencial ya diagnosticada pero sin tratamiento
+272.4/1 Dislipemia diagnosticada durante el ingreso, iniciemos atorvastatina
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+-	Tratamiento farmacológico
+-	Adiro 100mg cada 24h después del desayuno 1-0-1
+-	Atorvastatina 40mg cada 24h en la cena  0-0-1
+-Glimepirida 2mg c/mañana 1-0-0
+-Metformina 850mg c/12hs 1-0-1
+-	Resto de medicación sin cambios.
+
+-	Dieta baja en sal y grasas.
+-	Reducción del consumo de alcohol.
+-	Control de los factores de riesgo cardiovascular
+-	Colesterol (LDL) < 70 mg / dl
+-	Tensión arterial sistólica <140mmHg / Diastólica <90mmHg
+
+
+CONTROL
+-Visita de control en Neurología de nuestro centro (Edificio de Consultas Externas primera planta)
+-Control de los factores de riesgo cardiovascular por su equipo de atención primaria.
+
+Informe d'alta d'hospitalització
+
+
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+28.12.2017
+Pàgina 1 de 4

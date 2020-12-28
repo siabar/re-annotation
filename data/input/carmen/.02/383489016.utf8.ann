@@ -1,0 +1,122 @@
+T1	_SUG_Lateralizacion 90 91	I
+T2	Fecha_de_ingreso 173 181	07/06/17
+#2	AnnotatorNotes T2	2017-06-07
+T3	Fecha_de_alta 208 216	23/06/17
+#3	AnnotatorNotes T3	2017-06-23
+T5	Ictus_isquemico 283 298	ICTUS ISQUÉMICO
+T6	Localizacion 309 313	TACI
+T7	Arteria_afectada 326 329	ACM
+T8	Lateralizacion 330 339	IZQUIERDA
+T9	Etiologia 347 362	ATEROTROMBÓTICO
+T10	Arteria_afectada 391 394	ACI
+T12	_SUG_Lateralizacion 401 411	IZQUIERDAS
+T13	_SUG_Lateralizacion 450 457	DERECHA
+T16	mRankin_previa 545 550	mRs 0
+T17	_SUG_Ictus_isquemico 731 736	Ictus
+T19	_SUG_TAC_craneal 739 749	TC craneal
+T20	_SUG_Ictus_isquemico 816 821	Ictus
+T21	_SUG_Etiologia 889 897	habitual
+T23	Fecha_llegada_hospital 998 1003	07/06
+#23	AnnotatorNotes T23	2017-06-07
+T24	HORA 1130 1135	14.30
+#24	AnnotatorNotes T24	14:30
+T25	_SUG_Lateralizacion 1254 1261	derecho
+T26	Fecha_inicio_sintomas 1300 1308	06/06/17
+#26	AnnotatorNotes T26	2017-06-06
+T27	Hora_inicio_sintomas 1319 1324	14.00
+#27	AnnotatorNotes T27	14:00
+T28	_SUG_Lateralizacion 1530 1539	izquierda
+T29	_SUG_Lateralizacion 1606 1613	derecha
+T30	_SUG_Lateralizacion 1666 1673	derecha
+T31	_SUG_Lateralizacion 1738 1745	derecho
+T32	_SUG_Lateralizacion 1747 1756	izquierdo
+T34	NIHSS_previa 1764 1772	NIHSS 19
+T36	_SUG_Lateralizacion 2371 2378	derecha
+T37	_SUG_Lateralizacion 2439 2446	derecho
+T38	_SUG_Lateralizacion 2458 2467	izquierdo
+T39	_SUG_NIHSS_alta 2489 2498	NIHSS: 21
+T40	_SUG_NIHSS_previa 2489 2498	NIHSS: 21
+T41	FECHA 2702 2710	07/06/17
+#41	AnnotatorNotes T41	2017-06-07
+T42	HORA 2712 2717	16:57
+#42	AnnotatorNotes T42	16:57
+T43	_SUG_Lateralizacion 3057 3058	D
+T45	TAC_craneal 3133 3143	TC craneal
+T46	Fecha_TAC_inicial 3151 3159	07/06/17
+#46	AnnotatorNotes T46	2017-06-07
+T47	Hora_TAC_inicial 3160 3165	15:43
+#47	AnnotatorNotes T47	15:43
+T48	_SUG_Arteria_afectada 3210 3213	ACM
+T49	_SUG_Lateralizacion 3214 3223	izquierda
+T50	_SUG_Arteria_afectada 3327 3330	ACI
+T51	_SUG_Lateralizacion 3331 3340	izquierda
+T52	FECHA 3458 3468	13/06/2017
+#52	AnnotatorNotes T52	2017-06-13
+T54	_SUG_Arteria_afectada 3570 3573	ACM
+T55	_SUG_Lateralizacion 3574 3583	izquierdo
+T56	_SUG_Lateralizacion 3652 3661	izquierdo
+T57	_SUG_TAC_craneal 3720 3722	TC
+T58	_SUG_Lateralizacion 3775 3784	izquierda
+T59	_SUG_Arteria_afectada 3823 3826	ACM
+T60	_SUG_Lateralizacion 3827 3836	izquierda
+T61	_SUG_Arteria_afectada 3844 3847	ACA
+T62	_SUG_Lateralizacion 3848 3857	izquierda
+T63	FECHA 3915 3923	08/06/17
+#63	AnnotatorNotes T63	2017-06-08
+T64	HORA 3924 3929	08:35
+#64	AnnotatorNotes T64	08:35
+T66	_SUG_Ictus_isquemico 4564 4569	ictus
+T67	_SUG_Localizacion 4570 4574	TACI
+T68	_SUG_Lateralizacion 4575 4584	izquierda
+T70	_SUG_TAC_craneal 4597 4607	TC craneal
+T71	_SUG_Arteria_afectada 4641 4644	ACM
+T72	_SUG_Lateralizacion 4645 4654	izquierda
+T73	_SUG_Etiologia 4684 4697	indeterminado
+T74	_SUG_Ictus_isquemico 5104 5109	Ictus
+T75	_SUG_Tratamiento_antiagregante_alta 5191 5194	AAS
+T76	_SUG_Tratamiento_antiagregante_hab 5191 5194	AAS
+T77	_SUG_Tratamiento_anticoagulante_alta 5208 5216	heparina
+T78	_SUG_Tratamiento_anticoagulante_hab 5208 5216	heparina
+T80	_SUG_Lateralizacion 5438 5447	izquierda
+T81	_SUG_Arteria_afectada 5536 5539	ACI
+T82	_SUG_Lateralizacion 5540 5549	izquierda
+T83	_SUG_Arteria_afectada 5561 5564	ACM
+T84	_SUG_Lateralizacion 5565 5574	izquierda
+T85	Test_de_disfagia 5587 5603	test de disfagia
+T86	_SUG_Test_de_disfagia 5729 5745	test de disfagia
+T87	_SUG_Lateralizacion 6211 6218	derecho
+T88	FECHA 6352 6356	24/6
+#88	AnnotatorNotes T88	2017-06-24
+T89	_SUG_Lateralizacion 6631 6638	derecha
+T90	_SUG_Ictus_isquemico 6701 6706	ictus
+T93	_SUG_Etiologia 6935 6950	aterotrombótico
+T94	_SUG_Localizacion 6959 6963	TACI
+T95	NIHSS_alta 6973 6981	NIHSS 21
+T97	mRankin_alta 6983 6991	Rankin 5
+T99	FECHA 7143 7148	24/06
+#99	AnnotatorNotes T99	2017-06-24
+T100	FECHA 7197 7202	24/06
+#100	AnnotatorNotes T100	2017-06-24
+T101	Tratamiento_anticoagulante_alta 7389 7400	ENOXAPARINA
+T103	HORA 7439 7441	20
+#103	AnnotatorNotes T103	20:00
+T104	_SUG_Ictus_isquemico 7728 7733	ictus
+T105	_SUG_Etiologia 7735 7747	hipertensión
+T106	_SUG_Lateralizacion 8655 8662	derecho
+T107	SECCION_DIAGNOSTICOS 266 278	DIAGNÓSTICOS
+T108	SECCION_PROCEDIMIENTOS 692 706	PROCEDIMIENTOS
+T109	SECCION_MOTIVO_DE_INGRESO 799 814	MOTIVO CONSULTA
+T110	SECCION_ANTECEDENTES 823 835	ANTECEDENTES
+T111	SECCION_PROCESO_ACTUAL 914 931	ENFERMEDAD ACTUAL
+T112	SECCION_EXPLORACION_FISICA 1344 1362	EXPLORACIÓN FÍSICA
+T113	SECCION_EXPLORACIONES_COMPLEMENTARIAS 2648 2677	EXPLORACIONES COMPLEMENTARIAS
+T114	SECCION_EVOLUCION 4433 4442	EVOLUCIÓN
+T115	SECCION_TRATAMIENTO_AL_ALTA 7085 7096	TRATAMIENTO
+T116	SECCION_RECOMENDACIONES 7639 7651	INDICACIONES
+T4	SECCION_EXPLORACION_FISICA_EN_URGENCIAS 1366 1394	Exploración física en UCIAS:
+#1	AnnotatorNotes T34	NHSS=19
+T14	SECCION_EXPLORACION_FISICA_DURANTE_HOSPITALIZACION 2048 2086	Exploración física en Unidad de Ictus:
+#4	AnnotatorNotes T95	NIHSS=21
+#5	AnnotatorNotes T97	Rankin=5
+#6	AnnotatorNotes T16	Rankin=0
+T11	Tratamiento_antiagregante_alta 7206 7225	AC ACETILSALICILICO

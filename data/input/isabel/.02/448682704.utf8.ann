@@ -1,0 +1,30 @@
+T1	_SUG_Lateralizacion 224 225	I
+T2	_SUG_Lateralizacion 317 318	I
+T3	Fecha_de_ingreso 378 388	21/11/2017
+#3	AnnotatorNotes T3	2017-11-21
+T4	FECHA 411 421	29/11/2017
+#4	AnnotatorNotes T4	2017-11-29
+T6	Ictus_isquemico 523 537	ICTUS isquèmic
+T7	Lateralizacion 575 576	D
+T9	Trombolisis_intravenosa 625 638	fibrinolisi i
+T10	_SUG_Ictus_isquemico 1375 1380	ictus
+T11	Etiologia 1391 1405	cardioembólico
+T12	FECHA 2864 2872	21/11/17
+#12	AnnotatorNotes T12	2017-11-21
+T13	FECHA 3035 3043	22/11/17
+#13	AnnotatorNotes T13	2017-11-22
+T14	_SUG_Lateralizacion 3226 3227	D
+T15	FECHA 3502 3510	24/11/17
+#15	AnnotatorNotes T15	2017-11-24
+T16	FECHA 3875 3883	27/11/17
+#16	AnnotatorNotes T16	2017-11-27
+T17	FECHA 4810 4820	29/11/2017
+#17	AnnotatorNotes T17	2017-11-29
+T18	Fecha_de_alta 5093 5103	04/12/2017
+#18	AnnotatorNotes T18	2017-12-04
+T19	Hora_de_alta 5104 5109	11:15
+#19	AnnotatorNotes T19	11:15
+T20	SECCION_MOTIVO_DE_INGRESO 460 477	MOTIU DE CONSULTA
+T5	SECCION_SITUACION_FUNCIONAL 1869 1884	SITUACIÓ SOCIAL
+T8	SECCION_DESTINO_AL_ALTA 426 438	Destí d'alta
+T21	Arteria_afectada 543 546	ACM

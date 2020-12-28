@@ -1,0 +1,102 @@
+I.CLINIC DE NEUROCIÈNCIES NEUROLOGIA
+_NAME_	NHC: _ID_
+
+
+Sexo/Sexe: Fem.	Fecha nac./Data naix.: _DATE_	Edad/Edat: 79 años Dirección/Adreça: _LOCATION_	CP: _LOCATION_
+Municip. (Prov.): _LOCATION_  ABS:_SS_	Tel.:_CONTACT_
+As.: _NAME_	CIP: _ID_	NASS: _ID_
+Nº epis.: _ID_	Tipo/Tipus: HOSPIT.	Ingres.: 07.01.2017 Serv: NEUROLOGIA	UO Enf.: I064 SALA G DE NEUROL. INTE   Hora: 08:19:08
+Facult. de ref.: _NAME_
+
+
+
+
+Tipo ingreso/Tipus ingrés: Urgent	Motivo/Motiu alta: Dom. Familiar
+Diag.:
+ICTUS ACMI (434.91)
+FIBRILACION AURICULAR (427.31)
+DIABETES M. SIN MENCION COMPL. TIPO II O NO ESP. NO DESCOM (250.00)
+Proc.:
+
+
+
+
+INFORME CLÍNICO ALTA / INFORME CLÍNIC ALTA
+
+Motivo de consulta / Motiu de consulta
+Alteración del lenguaje.
+
+Antecedentes e historia previa / Antecedents i història prèvia
+Mujer de 79 años sin alergias medicamentosas conocidas. Independiente para las ABVD, mRS 0. Sin hábitos tóxicos.
+
+** ANTECEDENTES PATOLÓGICOS:
+1.	HIPERTENSIÓN ARTERIAL en tratamiento médico.
+2.	DISLIPEMIA sin tratamiento médico actualmente.
+3.	OBESIDAD.
+
+** MEDICACIÓN HABITUAL: Valsartan/hidroclortiazida 80/12.5 mg/día.
+
+Proceso actual / Procés actual
+Presenta al despertar de madrugada del 7/1/2017 sobre las 3 am balbuceo y lenguaje ininteligible. El esposo avisa al SEM y es traída a urgencias para valoración. Nos avisan desde triaje.
+La última vez vista asintomática fue a las 22h del 6/1/2017 al irse a dormir.
+
+Exploración física / Exploració física
+Frecuencia respiratoria (rpm)  20, Glicemia  capilar (mg/dl)  357, PAS  (mm  Hg) 158, PAD  (mm  Hg) 73, Pulsioximetría (%) 95. Tª axilar (ºC) 36.4.
+NRL: Vigil, consciente. Lenguaje normofluente sin rasgos afásicos (no nomina, no repite, realiza 2/4 órdenes simples). Disartria leve. No negligencias ni extinciones. Reflejo de amenaza presente bilateral. Mirada centrada sin limitaciones en la excursión visual. Balance motor conservado. Sensibilidad y dismetrías no valorables. NIHSS 5.
+
+Laboratorio / Laboratori
+
+
+**ANALÍTICA SANGUINEA (se adjunta): Colesterol total 229 mg/dL; Triglicèrids 117 mg/dL; Colesterol LDL 159 mg/dL; Colesterol HDL 47 mg/dL; Hemoglobina glicada 11.2%. Resto bioqímica, hemostasia y perfil tiroidal sin alteraciones.
+
+Radiología / Radiologia
+**TAC MULTIMODAL (07/01): - TC CRANEAL BASAL: No hay hemorragia intracraneal. Parénquima cerebral con correcta diferenciación cortico-subcortical (ASPECTS 10). Dudoso aumento de atenuación de la ACMI. Estructuras de línea media centradas. Cisternas basales libres. Leve atrofia cerebral global. - TC PERFUSION CEREBRAL: Mapas paramétricos: Territorio afectado: territorio superficial y parte el profundo de la ACMI. CBF: Disminución a nivel temporal y centro semioval izquierdos. CBV: Simetría. TTP: Disminución en territorio superficial y parte el profundo de la ACMI. Porcentaje del área penumbra: >200%. - ANGIO-TC EXTRA E INTRACRANEAL: Aorta y segmentos proximales de troncos supraaórticos: ateromatosis sin estenosis. Origen y segmentos cervicales de las arterias carótidas internas y de las arterias vertebrales: ateromatosis sin estenosis.
+**ANGIORADIOLOGÍA (07/01): Tras puncion femoral derecha a las 7:18 horas se cateteriza la arteria carotida interna izquierda realizandose la primera serie angiografica a las 7:27 que demuestra la oclusion TICI 0 de la ACM izquierda. Se realiza 1 pase con el sistema Trevo 6x25 con recanalizacion completa TICI 3 a las 7:43.
+
+**TAC CRANEAL (07/01): Se realiza TC de cráneo dual para descartar presencia de hSA posterior a al realización de trombectomía mecánica. Estructuras de la línea media centradas. Sistema ventricular de tamaño conservado, simétrico.
+
+**RM CEREBRAL (10/01): En la secuencia de difusion se aprecian multiples focos de alteracion de la señal supratentoriales izquierdos que anque sin clara restriccion de su ADC son sugestivos de infartos isquemicos subagudos localizados a nivel capsulolenticular y en cabeza del nucleo caudado, varios cortico- subcorticales en convexidad temporal y frontal izquierdas y otro a nivel parietal mediosagital izquierdo y varios en la amigdala y cabeza del hipocampo izquierdo. En el estudio angio-RM intracraneal arterial se aprecia una fenestracion del segmento V4 izquierdo. No se aprecian otras alteraciones destacables.
+
+Evolución / Evolució
+1.	ICTUS ISQUÉMICO EN TERRITORIO DE LA ARTERIA CEREBRAL MEDIA IZQUIERDA (ACMI). 2. FIBRILACIÓN AURICULAR DE NOVO.
+Paciente que consulta por alteración del lenguaje de inicio súbito. En la exploración destaca afasia global (NIHSS 5). El TC multimodal muestra oclusión de rama M1 de la ACMI con hipoperfusión extensa. Se procede a trombectomía mecánica consiguiéndose recanalizacion completa (TICI 3) a pesar de lo cual la paciente presenta empeoramiento clínico transitorio con síndrome hemisférico izquierdo extenso (NIHSS 19) que posteriormente mejora.
+La neuroimagen de control (RM cerebral) muestra lesiones isquémicas parcheada en territorio de ACMI. El estudio vascular (AngioRM) muestra permeabilidad de los vasos intracraneales. Una ecocardiospia no muestra la presencia de fuentes cardioembólicas mayores. Durante su monitorización en Unidad de Ictus se evidencia en ECG ritmo de fibrilación auricular con respuesta ventricular rápida.
+Se orienta como ictus isquémico de origen cardioembólico secundario a fibrilación auricular. Durante el ingreso se inicia pauta frenadora con bisoprolol y tratamiento anticoagulante con heparina y posterior paso a sintrom. Tras el inicio de la medicación, la paciente se mantiene con frecuencias cardíacas correctas (<100 lpm). En todo momento estable hemodinámicamente.
+Durante su estancia en Unidad de Ictus la paciente presenta una mejoría progresiva de la focalidad neurológica hasta quedar asíntomatica (NIHSS:0) iniciando sedestación y deambulación. Al alta se recomienda tratamiento con sintrom, control de FRCV y cifras de glucemia por su médico de atención primaria. Se hará control en Consultas Externas de Neurología.
+NIHSS:0; TOAST: Cardioembólico; mRs:1.
+
+
+
+3.	INFECCIÓN URINARIA.
+Durante su estancia en la Unidad de Ictus presenta síndrome miccional refiriendo dolor suprapúbico. Afebril. Urinocultivo positivo para Proteus mirabilis multisensible. Se inicia tratamiento antibiótico con Amoxicilina-Clavulánico pendiente de completar tratamiento el día 17/01/2016.
+
+4.	DIABETES MELLITUS TIPO 2
+A su llegada a urgencias la paciente presenta cifras de glicemia elevadas de 326 mg/dl; en la analítica de ingreso muestra una HbA1c de 11,2% diagnóstica de diabetes mellitus tipo 2. Se inicia tratamiento con insulina con buen control. Al alta se inicia tratamiento con Metfomina y deberá continuar controles por Médico de Atención Primaria.
+
+Plan terapéutico / Pla terapèutic Bisoprolol 2.5 mg en el desayuno. Atorvastatina 20 mg en la cena.
+Enalapril 10 mg en el desayuno y 5 mg en la cena.
+Amoxicilina/acido  clavulanico  cinfa  875  mg/125  mg  cada  8  horas  hasta  completar  tratamiento  el 17/01/2016
+Metformina 850 mg 1/2-1/2-1/2 Pantoprazol 40mg en el desayuno. Sintrom segun pauta.
+
+Otras recomendaciones / Altres recomanacions
+Visita de control en Consulta Externa de Neurología (Dr. _NAME_) el martes 18 de Abril de 2017 a las 11.45 (_LOCATION_).
+Control de cifras de glicemia, FRCV y sintrom por su médico de atención primaria.
+
+
+
+Firma/Signatura1: _NAME_	Firma/Signatura2: _NAME_ Categoría: Resident 4	Categoría: Especialista
+Nº Matrícula HCP: _ID_	Nº Matrícula HCP: _ID_ Fecha/Data: 13.01.2017
+Hora: 15:35:50
+
+Docum.: _ID_
+Hist. Clínica: _ID_
+El _SS_ ha incorporado sus datos al Fichero de Pacientes, para tratarlos con fines sanitarios.
+Puede ejercer sus derechos de acceso, rectificación, cancelación y oposición, así como obtener mas información en la Unidad de Atención al Cliente.
+Vers. 00
+Pag. 2 de
+3
+Episod.: _ID_
+_SS_ ha incorporat les seves dades al Fitxer de Pacients, per a tractar-los amb finalitats sanitàries. Pot exercir els seus drets d'accés, rectificació, cancel·lació i oposició, i obtenir més informació a la Unitat d'Atenció al Client.
+_SS_
+_LOCATION_) _LOCATION_) Tel. _CONTACT_ Fax _CONTACT_
+_CONTACT_/

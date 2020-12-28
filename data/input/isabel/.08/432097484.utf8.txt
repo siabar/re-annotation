@@ -1,0 +1,137 @@
+_LOCATION_
+email: _CONTACT_ Telèfon _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 82 Anys
+NIF/DNI: _ID_Equipo Dra. _NAME_ / Dr. _NAME_ (Dra. _NAME_ / Dr. _NAME_ / Dr. _NAME_)
+Informe d'alta d'hospitalització
+15:00:00
+23.10.2017
+_LOCATION_
+_SS_ NEUROLOGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_; _CONTACT_; _CONTACT_
+DOMICIL/RES.SOC 18.10.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Paciente de 82 años de edad que ingresa por episodio de debilidad de brazo izquierdo.
+
+ANTECEDENTS
+Sin otras alergias conocidas. No habitos toxicos
+
+1.	Sindrome ansioso en tratamiento con citalopram.
+2.	Osteoporosis
+3.	Disfunción temporo-mandibular.
+
+Situación Sociofuncional: independiente para las ABVD. mRS 0.
+
+MEDICACIÓ HABITUAL
+Paracetamol sp, Citalopram 20mg c/24h
+
+PROCÉS ACTUAL
+Mujer de 82 años, sin antecedentes relevantes, mRs 1 que presenta a las 14:00 del día 18.10.17 cuadro de paresia brusca de ESI, sin otra focalidad. Avisan a SEM y se activa codigo ictus a las 15.00. Durante el trayecto se realiza ECG en el que se objetivan extrasistoles auriculares y no clara FA. Llega a nuestro centro a las 15.13.
+
+EXPLORACIÓ FÍSICA
+
+EXPLORACION URGENCIAS:
+136/68, 68lpm
+NIHSS 2: Paresia de ESI 4/5, Hipoestesia I.
+
+EXPLORACION UNIDAD DE ICTUS:
+169/81, 73lpm, 97%, 36º
+EN: Sin focalidad. NIHSS 0
+
+EXPLORACIÓN EN PLANTA DE NEUROLOGÍA:
+Ctes TA 143/51 mmHg FC 62 lpm Tª35.6ºC BMT 139-109.
+Vigil, atenta, orientada. Lenguaje y habla normales. PICNR. Campimetria por confrontación normal. Oculomotricidad sin restricicones. No paresia/hipoestesia facial. Motilidad lingual conservada.  Balance motor globalmente conservado. Sensibilidad táctil superficial. No dismetrías. Marcha normal. NIHSS 0.
+
+EXPLORACIÓ COMPLEMENTÀRIA
+-	Electrocardiograma: RS a 70lpm alguna extrasistole auricular. QRS estrecho. No alteraciones agudas d ela
+-	
+Informe d'alta d'hospitalització
+
+
+
+
+repolarización
+
+-	Analítica general urgente: Hb 12.2, Hto 36.2, VCM 93.3, leucocitos 7620 (N 67.5, L 22.4, M 7.6), plaquetas
+254000, coagulación sin alteraciones, glucosa 110, urea 48, creatinina 0.87, FG 62, Na 143.8, K 3.94, Ca 8.7, AST
+17, ALT 15, proteina 6.1
+
+- Sedimento urinario: leucocitos 9.7, eritrocitos 109.6, eritrocitos dismórficos 21, células epiteliales 1.8, cilindros hialinos 0, bacterias 30
+
+-TC craneal: Estudio urgente de cráneo que no muestra alteraciones.
+
+-	Ecografía Doppler-dúplex color de arterias carótidas, vertebrales y transcraneal (sin y con ecocontraste): Pequeñas placas de ateroma en ambos bulbos carotideos sin repercusión hemodinámica. Resto de estudio sin objetivarse alteraciones (no se visualizan ostiums).
+
+-	VSCAN: Ventriculo izquierdo de aspecto no hipetrófico. Fracción de eyección aparentemente conservada por valoración visual. No alteraciones segmentarias de la contractilidad. Auricula izquierda de aspecto dilatado. No valvulopatia mitral significativas. No se observan imagenes sugestivas de trombo intrauricular ni ventricular. No se detectan placas de ateroma significativas en arco aórtico.
+
+-	Telemetría 24 horas: sin detectar Fibrilación auricular.
+
+-	RM craneal: Pequeño infarto subagudo puntiforme de localización pre y postcentral derecho que podría tener un origen embólico en territorio distal irrigado por la arteria cerebral media derecha. Resto del parénquima encefálico con pequeños focos de desmielinización que afectan en grado leve la sustancia blanca, de probable origen hipóxico isquémico crónico y/o involutivo. Pequeño infarto crónico en el territorio irrigado por la PICA izquierda que podría tener un origen embólico. Leves cambios involutivos cerebrales de acuerdo a la edad de la paciente. Dilatación infundibular/pequeño aneurisma del origen de la arteria comunicante posterior izquierda.
+
+-	Analítica Unidad de Ictus: Hematies 4.08 x10E12/L Hemoglobina . 13.0 g/dL  Hematòcrit  . 38.9 % Volum corpuscular mig (VCM) . 95.3 fL Hemoglobina corpuscular mitja (HCM) . 31.9 pg Concentració HGB Corpuscular mitja . 33.40 g/dL Ample Distribució Eritrocits (ADE) . 12.4 % Eritroblastes, f . 0.0 % Eritroblastes, c . 0.00 10E9/L Leucòcits . 7.38 x10E9/L Neutròfils % . 54.2 % Limfòcits % . 33.2 % Monòcits % . 7.6 % Eosinòfils % . 3.9 % Basòfils % . 1.1 % Neutròfils . 4.0 x10E9/L Limfòcits . 2.5 x10E9/L Monòcits . 0.6 x10E9/L Eosinòfils . 0.3 x10E9/L Basòfils . 0.1 x10E9/L Plaquetes . 261 x10E9/L Volum plaquetari mig . 8.9 fL Temps de Protrombina (ràtio) 1.01 ràtio Temps de Protrombina (%) . 99 % TTPA (s) 29 seg Fibrinogen derivat . 3.75 g/L Temps de Protrombina (INR)
+. 1.01 Temps de Protrombina (s) . 11.8 seg TTPA (ràtio) . 0.96 ràtio Glucosa 86 mg/dL Glicohemoglobina (A1c) . PEND Glicohemoglobina (A1c) IFCC . PEND Urea . 35 mg/dL Creatinini . 0.73 mg/dL Filtrat glomerular (estimació segons CKD-EPI) . 77 ml/min/1,73 m2 Urat . 4.7 mg/dL Bilirubina . 0.74 mg/dL Bilirubina esterificada . 0.25 mg/dL Ió sodi 141.8 mmol/L Ió potassi . 4.22 mmol/L Calci . 8.9 mg/dL Aspartat-aminotransferasa 14 UI/L Alanina-aminotransferasa 14 UI/L Fosfatasa alcalina . 63 UI/L Gamma-glutamiltransferasa . 21 UI/L Proteïna 5.6 g/dL Albúmina 3.6 g/dL
+*Perfil tiroideo: Colesterol 208 mg/dL Colesterol d'HDL . 52 mg/dL Colesterol d'LDL (càlcul Friedewald) . 128 mg/dL Triglicèrid. 142 mg/dL
+*Estudio Tiroides:Tirotropina0.941 mU/L Triiodotironina(lliure) . 2.97 pg/mL Tiroxina (lliure) . 0.96 ng/dL
+*Electroforesis: pendiente
+*Microbiología: Treponema pallidum. Ac específics (CLIA) PEND HIV-1/-2. Ac. totals i Ag p24 (CLIA) PEND
+
+Informe d'alta d'hospitalització
+
+
+
+
+
+- Holter prolongado >72 horas: no se detecta FA
+
+EVOLUCIÓ CLÍNICA
+Se trata por tanto de paciente de 82 años de edad, con los antecedentes previamente descritos, que ingresa por episodio de paresia braquial izquierda. A su llegada paciente hemodinamicamente estable y afebril con NIHSS 2 a expensa de paresia de ESI 4/5 e hipoestesia en dicha extremidad (NIHSS 2). Considerado el NIHSS bajo, se realiza TC simple que no muestra alteraciones agudas, desestimandose tratamiento agudo. Se repite electrocardiograma que evidencia extrasistoles auriculares. Bajo orientación de ictus isquémico (PACI) derecho de etiología indeterminada, ingresa en Unidad de Ictus para completar estudio etiológico. Se cursan medidas de ictus agudoy se inicia prevención secundaria con estatinas y antiagregación.
+
+Durante su ingreso en la Unidad de Ictus ha presentado mejoría neurologica hasta quedar asintomática.
+Tendencia a la hipertensión arterial, por lo que se ha iniciado tratamiento con Enalapril bien tolerado. Se completa estudio con Doppler que no muestra alteraciones significativas, Vscan que no muestra cardiopatía embolígena y telemetría durante 24 horas sin detectar fibrilación auricular, y se coloca Holter wereable para monitorización prolongada que se retira previa al alta sin que haya detectado FA. Además se realiza RM pequeño infarto subagudo puntiforme de localización pre y postcentral derecho que podría tener un origen embólico en territorio distal irrigado por la arteria cerebral media derecha así como crónico en territorio de la PICA izquierda. Con la orientación de Ictus ACM D de etiología indeterminada tras estudio completo, en situación de estabilidad clínica y hemodinámica se decide alta. En el momento del alta NIHSS 0, mRS 0.
+
+DIAGNÒSTICS
+Ictus en territorio de ACM D, de etiología indeterminada
+
+PROCEDIMENTS
+TC craneal urgente
+Doppler de carotidas, vertebrales y transcraneal Vscan
+Telemetría RM cerebral
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Dieta sin sal baja en grasas Ejercicio físico que tolere
+
+Añadir a su medicación habitual:
+1.	Omeprazol 20mg, 1 comprimido cada 24 horas en el desayuno
+2.	Enalapril 5mg, 1 comprimido cada 24 horas depués de desayunar
+3.	AAS 100mg, 1 comprimido cada 24 horas después de comer
+4.	Atorvastatina 80mg, 1 comprimido cada 24 horas después de la cena Resto de medicacion habitual sin cambios.
+1.	
+Informe d'alta d'hospitalització
+
+
+
+CONTROL
+Acudir el día 3 de Nov a las 10:00 para screening estudio ESUS Control estrecho de factores de riesgo vascular por CAP
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+23.10.2017
+Pàgina 1 de 4

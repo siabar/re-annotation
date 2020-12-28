@@ -1,0 +1,107 @@
+I.C. NEFROLOGIA I	UROLOGIA TRASPLANTAMENT RENAL
+
+_NAME_		NHC: _ID_
+Sexo/Sexe: Masc.	Fecha nac./Data naix.: _DATE_	Edad/Edat: 63 años
+Dirección/Adreça: _LOCATION_		CP: _LOCATION_
+Municip. (Prov.): _LOCATION_  ABS:_SS_		Tel.:_CONTACT_
+As.: SERVEI CATALA DE LA SALUT	CIP: _ID_	NASS: _ID_
+Nº epis.: _ID_	Tipo/Tipus: HOSPIT.	Inici.: 06.04.2017
+Serv: TRASPLANTAMENT RENAL	UO Enf.: G085 SALA G. NEFRO. I TRASP	Hora: 19:24:46
+Facult. de ref.: _NAME_
+
+
+
+
+Tipo ingreso/Tipus ingrés: Urgent	Motivo/Motiu alta: Dom. Familiar
+Diag.:
+Sdme febril. Probable ITU ()
+Proc.:
+Ecografia abdominal ()
+
+
+
+
+INFORME CLÍNICO ALTA / INFORME CLÍNIC ALTA
+
+Motivo de consulta / Motiu de consulta
+FIEBRE
+
+Antecedentes e historia previa / Antecedents i història prèvia
+Hombre de 63 años, sin AMC ni hábitos tóxicos. Vive con su esposa. Autónomo para las ABVD (mRankin 0). ANTECEDENTES PATOLÓGICOS:
+1.	Insuficiencia renal crónica secundaria a poliquistosis hepatorrenal, por la que recibió trasplante renal en mayo de 2007. En agosto de 2008 presentó como complicación una infección por citomegalovirus, por la que recibió tratamiento con ganciclovir., Se realizó biopsia renal de control en agosto de 2008 sin alteraciones significativas (controles UTR _SS_ Dr. _NAME_).
+2.	HIPERTENSIÓN ARTERIAL con reciente ingreso en Neurología (hasta el dia 31 de marzo 2017) por emergencia hipertensiva con clínica de inestabilidad cefálica y un vómito de inicio súbito orientado inicialmente como posible ictus de territorio vertebrobasilar, que se descartó durante el ingreso.
+*	TC craneal no muestra lesiones isquémicas agudas ni hemorrágicas.
+*	An gio-TC y angio-RM muestra hipoplasia de la arteria vertebral derecha, siendo el segmento V4 derecho filiforme, lo que podría estar enrelación con placas de ateroma, sin poderse visualizar la PICA ipsilateral.
+*	RM cerebral que no muestra lesiones isquémicas agudas ni hemorrágicas crónicas.
+3.	Hiperparatiroidismo secundario a IRC
+4.	Oclusión de la vena centra l de la retina del ojo derecho en el 93.
+5.	Cierre de fístula arterovenosa braquial el 05/06/15.
+6.	SÍNDROME VERTIGINOSO PERIFÉRICO debutó en co ntexto de emergencia hipertensiva, con valoración por ORL por nistagmus horizontal a la mirada lateral izquierda y superior, que se resuelve a l as 72h, si otrosdéficits focales, pendiente de control en CCEE.
+TRATAMIENTO HABITUAL (marzo/17): ADVAGRAF 0,5MG/24h, ADVAGRAF 1MG MYFORTIC 360MG /24h CITALOPRAM 20MG/24h LOSARTAN 50MG/24h STILNOX 10MG/24h DOXAZOSINA 4 MG/24h.
+
+Proceso actual / Procés actual
+Acude tras sido dado de alta el 31/03 de Neurología por emergencia hipertensiva, por escozor en el glande al orinar que ha mejorado progresivamente, pero hace 24 horas se añade fiebre de 38ºC y desde esta mañana
+
+tiritonas.
+
+Exploración física / Exploració física
+Ingreso en sala de UTR 06/04/2017-20:00:00: PAS (mm Hg) 128, PAD (mm Hg) 71. 06/04/2017-23:00:0 0 : Tª
+axilar (ºC) 36.4. 07/04/2017-11:00:00 : Pulsioximetría (%) 98. 08 /04/2017-09:00:00 : Peso (Kg) 75.3. Consciente, orientado, normocoloreado, euhidratado, febril.
+CV: tendencia a hipertensión, FC 100x' R1 y R2 normofonéticos silencios libres. Pulsos radiales presentes simétricos rítmicos. No edemas en MMII. No IY.
+Resp: Eupneico, SatO2 98% basal con MV conservado sin ruidos agregados. ABD: Blando, depresible, no doloroso. No organomegalias. RHA+ PPB neg.
+NRL: Lenguaje normofluente sin afasia. Mirada en posición primaria centrada. Pupilas isocóricas reactivas.
+
+Laboratorio / Laboratori
+EAB con pH 7.35, HCO3 21.6 mmol/L. Aumento de reactantes de fase aguda con PCR 11.71 mg/dL, Leucos 8770 con neutrofilia 85%, deterioro de función renal con Creatinina 2.70 mg/dL (habituales 1.5-1.6), FG
+23.98 ml/min/ con Sodi 135 mEq/L, Potasi 5.4 mEq/L, plaquetes 117000. TP 73%. HC y UC NEGATIVOS
+Toxina clostridium diff Negativa
+
+Radiología / Radiologia
+ECO 7 de abril: Poliquistosis hepatorrenal sin quistes sugestivos de complicación por infección aguda (aunque dada la gran cantidad de quistes es imposible asegurarlo). Vesícula biliar de paredes finas. Riñón trasplantado de tamaño y ecoestructura normal sin dilatación de ña vía excretora. Los IR intrarrenales muestran IRs dentro de la normalidad. Destaca muy leve cantidad de líquido entre asas y en Douglas.
+
+Exploraciones complementarias / Exploracions complementàries
+
+Rx Torax: no condensaciones evidentes
+
+Evolución / Evolució
+Alta UTR
+1- SINDROME FEBRIL DE POSIBLE FOCO URINARIO 2- IRA 3- TRASPLANTADO RENAL
+
+Paciente de 63 años, sin AMC, AP: ERC secundaria a poliquistosis hepatorrenal, por la que recibió trasplante renal en mayo de 2007, HTA con mal control y con reciente ingreso en Neurología por emergencia hipertensiva acompañada de clínica de inestabilidad cefálica y un vómito de inicio súbito orientado inicialmente como posible ictus de territorio vertebrobasilar, que se descartó durante el ingreso
+Acude tres dias post alta de Neurologia por disuria y escozor en glande que ya se inició durante el ingreso en Neurologia y que en las últimas 24 horas se añade fiebre de 38ºC y tiritonas.
+Se orienta el cuadro con probable ITU iniciándose meropenem de manerea empírica que se cambia a las 24 horas por TAZOCEL por persistencia de la fiuebre y elev de reactantes de fase aguda. Con Tazocel desde el dia 5 de abril la evoluciópn es correcta con desparación de la fiebre y desceno de la PCR.
+Asimismo a su ingreso se detecta deterioro función renal con creat de 2,7 que tras cobertura antibiótica y sueroterapia vuelve a sus cifras basales alrededor de 1,5 mg/dl.
+
+Los HC y UC han sido negativos y en eco abdominal solo se aprecián múltitud de quistes hepáto renales pero sin evidenciar quistes complicados.
+
+Dado el excelente estado general y ante la posibilidad de poderse encontrar colonización bacteriana de un quiste o a nivel prostático se decide cambio a ciprofloxaciono oral manteniendo el paciente ingresado durante 24 horas sin nuevo pico febril. Dada la buena evolución se decide alta a domicilio con control en
+
+
+
+CCEE. Se explican normas de reconsulta.
+
+Plan terapéutico / Pla terapèutic
+Ciprofloxacino 500 mg cada 12 horas, mantener 10 dias al alta. Resto de tratamiento el suyo habitual
+Otras recomendaciones / Altres recomanacions
+CCEE UTR
+
+
+
+Firma/Signatura1: _NAME_	Firma/Signatura2: _NAME_ Categoría: Resident 2	Categoría: Espec. Senior
+Nº Matrícula HCP: _ID_	Nº Matrícula HCP: _ID_
+
+Fecha/Data Informe: 11.04.2017
+Hora Informe: 11:36:12
+
+Docum.: _ID_
+Hist. Clínica: _ID_
+El _SS_ ha incorporado sus datos al Fichero de Pacientes, para tratarlos con fines sanitarios.
+Puede ejercer sus derechos de acceso, rectificación, cancelación y oposición, así como obtener mas información en la Unidad de Atención al Cliente.
+Vers. 00
+Pag. 2 de
+3
+Episod.: _ID_
+_SS_ ha incorporat les seves dades al Fitxer de Pacients, per a tractar-los amb finalitats sanitàries. Pot exercir els seus drets d'accés, rectificació, cancel·lació i oposició, i obtenir més informació a la Unitat d'Atenció al Client.
+_SS_
+_LOCATION_) _LOCATION_) Tel. _CONTACT_ Fax _CONTACT_
+http://_CONTACT_/

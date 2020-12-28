@@ -1,0 +1,140 @@
+T0	FECHA 233 243	11.10.2017
+#0	AnnotatorNotes T0	2017-10-11
+T1	HORA 246 251	13:16
+#1	AnnotatorNotes T1	13:16
+T2	_SUG_Ictus_isquemico 275 280	ICTUS
+T3	FECHA 305 315	11.10.2017
+#3	AnnotatorNotes T3	2017-10-11
+T4	HORA 318 323	07:06
+#4	AnnotatorNotes T4	07:06
+T5	SECCION_MOTIVO_DE_INGRESO 391 408	MOTIVO DE INGRESO
+T6	_SUG_Ictus_isquemico 443 458	ictus isquémico
+T7	SECCION_ANTECEDENTES 462 474	ANTECEDENTES
+T8	_SUG_Etiologia 540 552	Hipertensión
+T9	FECHA 809 813	2010
+#9	AnnotatorNotes T9	2010-UNDEF-month-UNDEF-day
+T10	_SUG_Etiologia 818 827	aneurisma
+T11	FECHA 850 856	2/2017
+#11	AnnotatorNotes T11	2017-02-UNDEF-day
+T12	_SUG_Lateralizacion 1043 1050	derecho
+T13	SECCION_TRATAMIENTO_HABITUAL 1086 1106	Tratamiento habitual
+T14	_SUG_Tratamiento_antiagregante 1108 1113	ADIRO
+T15	SECCION_ANTECEDENTES_FAMILIARES 1305 1333	Antecedentes sociofamiliares
+T16	_SUG_mRankin 1669 1677	Rankin 2
+T17	SECCION_PROCESO_ACTUAL 1680 1697	ENFERMEDAD ACTUAL
+T18	FECHA 1707 1715	11/10/17
+#18	AnnotatorNotes T18	2017-10-11
+T19	_SUG_Lateralizacion 1767 1774	derecho
+T20	_SUG_Lateralizacion 1862 1869	derecha
+T21	HORA 1939 1943	1:00
+#21	AnnotatorNotes T21	1:00
+T22	HORA 1971 1975	7:05
+#22	AnnotatorNotes T22	07:05
+T23	_SUG_Ictus_isquemico 1996 2001	ictus
+T24	SECCION_EXPLORACION_FISICA 2014 2032	EXPLORACIÓN FÍSICA
+T25	_SUG_Lateralizacion 2368 2375	derecha
+T26	_SUG_Lateralizacion 2439 2446	derecho
+T27	_SUG_Lateralizacion 2477 2484	derecho
+T28	_SUG_Lateralizacion 2506 2513	derecha
+T29	_SUG_Lateralizacion 2531 2538	derecho
+T30	_SUG_Lateralizacion 2547 2556	izquierdo
+T31	_SUG_NIHSS 2596 2635	NIHSS= 0.0.0.0.0/0.0.1.0.1./0.1.0.0.0=3
+T32	_SUG_Ictus_isquemico 2665 2670	ictus
+T33	_SUG_Etiologia 2945 2953	habitual
+T34	_SUG_Lateralizacion 3253 3260	derecho
+T35	_SUG_NIHSS 3412 3453	NIHSS = 0.0.0.0.0/0.0.0.0.0/1.1.0.0.0 = 2
+T36	SECCION_EXPLORACION_FISICA_AL_ALTA 3458 3465	Al alta
+T37	_SUG_Lateralizacion 3698 3705	derecho
+T38	_SUG_NIHSS 3797 3804	NIHSS=0
+T39	SECCION_EXPLORACIONES_COMPLEMENTARIAS 3806 3835	EXPLORACIONES COMPLEMENTARIAS
+T40	SECCION_EXPLORACIONES_COMPLEMENTARIAS_EN_URGENCIAS 3838 3857	Analítica urgencias
+T41	_SUG_Lateralizacion 3957 3958	D
+T42	_SUG_Ictus_isquemico 4402 4407	Ictus
+T43	_SUG_TAC_craneal 4435 4445	TC craneal
+T44	_SUG_ASPECTS 4487 4497	ASPECTS 10
+T45	_SUG_Ictus_isquemico 4499 4506	Infarto
+T46	_SUG_Localizacion 4499 4514	Infarto lacunar
+T47	_SUG_Localizacion 4515 4525	cerebeloso
+T48	_SUG_Lateralizacion 4526 4533	derecho
+T49	_SUG_Localizacion 4539 4555	ganglios basales
+T50	_SUG_Lateralizacion 4556 4564	derechos
+T51	_SUG_Lateralizacion 4633 4638	ambos
+T52	_SUG_Arteria_afectada 4644 4654	carotídeos
+T53	_SUG_Lateralizacion 4737 4742	Ambas
+T54	_SUG_Lateralizacion 4900 4905	ambas
+T55	_SUG_Arteria_afectada 4906 4909	ACM
+T56	_SUG_Arteria_afectada 4911 4914	ACA
+T57	_SUG_Arteria_afectada 4925 4928	ACP
+T58	_SUG_Arteria_afectada 4935 4937	AB
+T59	_SUG_Localizacion 4973 4983	Ventrículo
+T60	_SUG_Lateralizacion 4984 4993	izquierdo
+T61	_SUG_Lateralizacion 5147 5156	izquierda
+T62	_SUG_Lateralizacion 5538 5548	izquierdos
+T63	_SUG_Localizacion 5579 5587	cortical
+T64	_SUG_Arteria_afectada 5684 5687	ACM
+T65	_SUG_Lateralizacion 5688 5697	izquierda
+T66	_SUG_Arteria_afectada 5709 5712	ACA
+T67	_SUG_Arteria_afectada 5713 5716	ACM
+T68	_SUG_Lateralizacion 5725 5734	izquierdo
+T69	_SUG_Ictus_isquemico 5753 5779	transformación hemorrágica
+T70	_SUG_Lateralizacion 5814 5822	derechos
+T71	_SUG_Localizacion 5878 5889	subcortical
+T72	_SUG_Localizacion 6079 6089	cerebelosa
+T73	_SUG_Lateralizacion 6090 6097	derecha
+T74	_SUG_Localizacion 6131 6142	ventricular
+T75	_SUG_ASPECTS 6146 6153	aspecto
+T76	_SUG_Lateralizacion 6245 6255	izquierdas
+T77	_SUG_Arteria_afectada 6328 6331	ACM
+T78	_SUG_Lateralizacion 6332 6341	izquierda
+T79	_SUG_Lateralizacion 6353 6362	izquierda
+T80	_SUG_Arteria_afectada 6363 6366	ACA
+T81	_SUG_Arteria_afectada 6367 6370	ACM
+T82	_SUG_Localizacion 6452 6462	cerebelosa
+T83	_SUG_Lateralizacion 6463 6470	derecha
+T84	SECCION_EVOLUCION 6473 6482	EVOLUCIÓN
+T85	_SUG_Lateralizacion 6636 6643	derecha
+T86	_SUG_NIHSS 6686 6696	NIHSS de 3
+T87	_SUG_TAC_craneal 6709 6711	TC
+T88	_SUG_Ictus_isquemico 6831 6836	ictus
+T89	_SUG_Etiologia 6853 6866	indeterminada
+T90	_SUG_NIHSS 6916 6921	NIHSS
+T91	_SUG_Tratamiento_antiagregante 7025 7036	clopidogrel
+T92	_SUG_Tratamiento_antiagregante 7080 7088	aspirina
+T93	_SUG_Ictus_isquemico 7141 7146	Ictus
+T94	_SUG_Lateralizacion 7288 7293	dieta
+T95	_SUG_Test_de_disfagia 7311 7327	test de disfagia
+T96	_SUG_Lateralizacion 7350 7355	dieta
+T97	_SUG_Arteria_afectada 7516 7519	ACM
+T98	_SUG_Lateralizacion 7520 7529	izquierda
+T99	_SUG_Localizacion 7531 7541	corticales
+T100	_SUG_Etiologia 7582 7600	mecanismo embólico
+T101	_SUG_Ictus_isquemico 7781 7786	ictus
+T102	_SUG_Ictus_isquemico 7933 7948	ictus isquémico
+T103	_SUG_Etiologia 7952 7970	mecanismo embólico
+T104	_SUG_Etiologia 7983 7996	indeterminada
+T105	_SUG_Etiologia 8427 8435	habitual
+T106	_SUG_mRankin 8465 8468	mRS
+T107	_SUG_NIHSS 8481 8486	NIHSS
+T108	SECCION_PROCEDIMIENTOS 8500 8514	PROCEDIMIENTOS
+T109	_SUG_TAC_craneal 8574 8576	TC
+T110	SECCION_DIAGNOSTICO_PRINCIPAL 8600 8611	DIAGNÓSTICO
+T111	_SUG_Ictus_isquemico 8614 8632	Infartos isquémico
+T112	_SUG_Arteria_afectada 8653 8656	ACM
+T113	_SUG_Lateralizacion 8657 8666	izquierda
+T114	_SUG_Etiologia 8679 8697	mecanismo embólico
+T115	_SUG_Etiologia 8710 8723	indeterminada
+T116	_SUG_Etiologia 8769 8781	Hipertensión
+T117	SECCION_TRATAMIENTO_Y_RECOMENDACIONES_AL_ALTA 8799 8836	RECOMENDACIONES Y TRATAMIENTO AL ALTA
+T118	SECCION_TRATAMIENTO_AL_ALTA 8837 8856	Tratamiento al alta
+T119	_SUG_Tratamiento_antiagregante 8905 8916	Clopidogrel
+T120	HORA 9233 9238	10:00
+#120	AnnotatorNotes T120	10:00
+T121	SECCION_RECOMENDACIONES 9357 9382	Recomendaciones generales
+T122	_SUG_Etiologia 9403 9415	hipertensión
+T123	_SUG_Lateralizacion 9786 9791	Dieta
+T124	_SUG_Lateralizacion 9977 9982	dieta
+T125	_SUG_Ictus_isquemico 10338 10343	ICTUS
+T126	FECHA 10362 10372	18.10.2017
+#126	AnnotatorNotes T126	2017-10-18
+T127	FECHA 10450 10460	18.10.2017
+#127	AnnotatorNotes T127	2017-10-18

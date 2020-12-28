@@ -1,0 +1,259 @@
+_LOCATION_ Tel. _CONTACT_
+e-mail: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 73 Anys
+NIF/DNI: _ID__NAME_; _NAME_;; _NAME_; _NAME_
+Informe d'alta d'hospitalització
+16:23:48
+04.01.2018
+_LOCATION_
+_SS_ NEUROLOGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_; _CONTACT_
+DOMICIL/RES.SOC 14.12.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Ictus isquémico de territorio de arteria cerebral media izquierda y de territorio de arteria cerebral media derecha
+
+ANTECEDENTS
+Mujer de 73 años, sin alérgias medicamentosas conocidas. No refiere hábitos tóxicos.
+Situación funcional previa: independiente para las actividades de la vida diaria, mRS 0. Vive con su marido, de quien ella es cuidadora principal.
+
+Antecedentes patológicos:
+-	Hipertensión arterial en tratamiento farmacológico
+-	Dislipemia en tratamiento con estatinas
+-	Fibrilación auricular en tratamiento con Sintrom (buenos controles) y bisoprolol. Sigue controles por cardiológo de zona.
+-	Glomerulonefritis mesangial IgG-IgM diagnosticada a los 45 años, con insuficiencia renal crónica secundaria. Transplante de donante cadaver en 1998. En tratamiento con Cellcept y Prednisolona. En controles por Nefrologia. (FG habitual 33-40mL/min.Creat 1,56-1,8)
+-	Infecciones de orina de repetición.
+-	Carcinoma lobulillar infiltrante de mama izquierda. Tratada con tumorectomia en julio  2016 + radioterapia. Actulamente en tartamiento hormonal y seguimineto por Oncología médica.
+-	Anemia ferropénica en tratamiento con ferroterapia.
+-	Osteoporosis
+
+Historia neurológica:
+-	Ictus isquémico parietal derecho en 2003 de mecanismo embólico y de mecanismo aterotrombótico que cursó en forma de hemiparesia e hemihipoestesia izquierda de predominio braquial. Fue dada de alta en tratamiento con clopidogrel. Parestesia en mano izquierda residual.
+-	Consultó el pasado Julio de 2017 al _SS_ por episodio de cuadro de inestabilidad de inicio brusco con dificultad para hablar (dudosa afasia motora), objetivándose taquicardia por lo que se administró bisoprolol 5 mg con recuperación espontánea de la clínica por lo que se orientó como cuadro sincopal.
+
+MEDICACIÓ HABITUAL
+Adalat 30 mg cada 24 horas, Alopurinol 100 mg cada 24 horas, Bisoprolol 10 mg cada 24 horas, Cellcept 500 mg
+cada 12 horas, Clopidogrel 75 mg cada 24 horas, Evista 60 mg cada 24 horas, Galdar 2.5 mg cada 24 horas, Hidroferol 0.266 mg mensual, Osvical D cada 24 horas, Paracetamol 1 g si precisa, Ranitidina 150 mg cada 24 horas, Simvastatina 20 mg cada 24 horas, Sintrom 1 mg segun pauta.
+
+PROCÉS ACTUAL
+Paciente derivada de _SS_ el 13.12.17 vía código ictus activado a las 20h por debilidad de extremidades izquierdas. Llega a nuestro centro a als 20:56h.
+
+Consultó el 12.12.2017 por la mañana en nuestro centro por ictus isquémico de territorio de arteria cerebral media
+
+Informe d'alta d'hospitalització
+
+
+
+
+izquierda con afasia motora (NIHSS de 3) de cronología incierta - con TC craneal que mostró lesiones isquémicas parietal derecha y temporal izquierda crónicas (ASPECTS 10) y angio-TC que evidenció oclusión de rama M3 izquierda - y de etiología cardioembólica por fibrilación auricular ya conocida e INR de 1.6. Por cronología incierta se desestimó tratamiento fibrinolítico y por oclusión distal y NIHSS de desestimó trombectomía mecánica. Dada la estabilidad clínica y neurológica se contactó con su centro de referencia (_SS_) para traslado el dia 13/12/17.
+
+Al llegar a su destino, presenta de forma brusca clínica hemisférica derecha completa, por lo que es trasladada nuevamente a nuestro centro para valoración.
+
+EXPLORACIÓ FÍSICA
+
+FC	90 bpm
+Tªaxi 36.0 ºC
+FR	rpm Tªrec  ºC
+TA s	153 mmHg SAT O2 98 %
+TA d   100 mmHg Pes Kg
+
+Exploración neurológica: paciente vigil, desviación oculocefálica hacia derecha que no cruza línea media, afasia mixta, hemianopsia homónima izquierda por reflejos de amenaza, paresia facial izquierda central, hemiplejia izquierda, hemihipoestesia izquierda, agnosia no valorable por afasia, reflejo cutáneo plantar extensor izquierdo.
+NIHSS (0.2.2)2.2//1(0.4)(0.4)//0.1.3. 2.0 = 23
+
+Exploración sistémica: tonos cardíacos irregulares sin soplos audibles. Murmullo vesicular conservado bilateral sin ruidos sobreañadidos. No signos de trombosis venosa profunda en extremidades inferiores.
+
+Al día del traslado: Vigil, apertura ocular espontánea, emite lenguaje incomprensible, no obedece órdenes. Sin preferencia oculocefálica. Hemianopsia homónima izquierda por reflejo de amenaza. Paresia facial central izquierda y hemiplejia izquierda. Probable hemihipoestesia.Agnosias  no valorables. NIHSS = 0.2.2.0.2/2(0.4)(0.4)/0.1.2.2.0 = 21
+Eupneica. AR: MVC sin ruidos sobreañadidos. AC: TC irregulares  sin soplos. ABD: blando y depresible, no doloroso a la palpación, NET bien tolerada sin retenciones. EII: herida de mal aspecto con bordes necróticos, sin supuraciones.
+
+
+EXPLORACIÓ COMPLEMENTÀRIA
+ANALÍTICAS:  
+
+Analítica urgente (13.12.17)
+- Hemograma: leucocitos 8100 (N 71,9%, L 16%, M 10,4%), Hb 12,4g/dL, Hto 38,4%, plaquetas 192.000.
+-	Hemostasia: TP 1,45, INR 1,45, fibrinógeno 471mg/dL, TTPA 27seg.
+-	Bioquímica: glucosa 92mg7dL, urea 52mg7dL, creatinina 1,53mg/dL, Na 140,9mmol/L, K 4,6mmol/L, PCR 15,1mg/L.
+
+Analítica de ingreso (14/12/17):
+- Hematologia: Leucocitos 8000 /µL, (N 76,6 % / L 10,5 / M 11,8 / E 0,4 / B 0,7), Htíes 3,97 mill/µL, Hb 12,4 g/dL,
+Hcto 39,5 %, VCM 99,5 fL, Plaquetes 193000 /µL.
+-	Bioquimica: Glucosa 108 mg/dL, HbA1c 5,6 %, Urea 48 mg/dL, Creatinina 1,51, Filtrado glomerular estimado 34 mL/min/1.73 m2, Na 144,6 mmol/L, K 4,52, ALT 30 U/L, FA 70, Bilirrubina 1,08 mg/dL, Prot-C reactiva 40,9 mg/L,
+Proteína 69,8 g/L.
+
+Informe d'alta d'hospitalització
+
+
+
+
+-	Lípidos: Triglicéridos114 mg/dL, Colesterol 226, (HDL 73,2 / LDL 130).
+-	Hormonas: TSH 0,758 µUI/mL.
+
+Analítica de control (02.01.18): Hematologia (02/01/18): Leucocitos 7400 /µL, (N 72,7 % / L 16,5 / M 7,6 / E 2,3 / B 0,9), Htíes 2,92 mill/µL, Hb 9,2 g/dL, Hcto 28,4 %, VCM 97 fL, Plaquetas 383000 /µL, TP 75 %, INR 1,22 sg, TP
+ratio 1,22, TTPA 28,5 sg, TTPA ratio 0,92, Fibrinógeno 1000 mg/dL.
+Bioquimica (02/01/18): Glucosa 125 mg/dL, Urea 70,6, Creatinina 1,04, Na 132,1 mmol/L, K 4, Lactato 1,51, Prot-C
+reactiva 70,4 mg/L.
+
+
+Perfil hepático (0301/18): FA 149 U/L, AST 68 U/L ALT100 U/L, GGT 250 U/L
+
+Analítica de control (04.01.18): Hematologia (04/01/18): Leucocitos 6000 /µL, (N 58,8 % / L 27,7 / M 9,8 / E 2,5 / B 1,2), Htíes 2,59 mill/µL, Hb 8,1 g/dL, Hcto 25,2 %, VCM 97,1 fL, Plaquetas 362000 /µL, TP 75 %, INR 1,21 sg,
+TP ratio 1,21, TTPA 21,2 sg, TTPA ratio 0,68, Fibrinógeno 806 mg/dL.
+Bioquimica (04/01/18): Glucosa 124 mg/dL, Urea 60, Creatinina 1,02, Filtrado glomerular estimado 54 mL/min/1.73 m2, Na 134 mmol/L, K 4,29, ALT 78 U/L, AST 45, GGT 225, FA 142, Bilirrubina 0,29 mg/dL, Proteína 49,9 g/L.
+
+
+Electrocardiograma: fibrilación auricular a 90 lpm.
+
+Radiografía	de	tórax	(15/12/17):	sonda	nasogástrica	correctamente	posicionada.	Sin	alteraciones parenquimatosas o intersticiales.
+
+Ecocardiograma (15/12/17): ventrículo izquierdo no dilatado, ligera hipertrofia en sus paredes. La función sistólica del ventriculo izquierdo está conservada (F eyeccion del 64%). No se detectan alteraciones de la contractilidad segmentaria. Leve insuificiencia mitral.
+
+PRUEBAS DE NEUROIMAGEN:  
+
+TC craneal simple con angioTC troncos supraaórticos e intracraneal urgente (13.12.2017): Lesión isquémica subaguda de ramas posteriores y superficiales de arteria cerebral media izquierda con transformación hemorrágica subaguda. Lesión isquémica crónica frontal izquierda y frontoparietal derecha. No se observa lesión isquémica aguda en territorio de arteria cerebral media derecha. Leve ateromatosis en bifurcación carotídea bilateral y de forma importante en ambas carotidas cavernosas; dudosa oclusión distal arteria cerebral anterior derecha en segmento A2, sin otras alteraciones ni defectos de repleción.
+
+TC craneal de control (20.12.17): Infarto agudo-subagudo en territorio de cerebral anterior derecha con transformación hemorrágica, que comprime el asta frontal del ventrículo lateral y la rodilla del cuerpo calloso. Infarto cortico-subcortical parietal izquierdo en territorio de ramas posteriores de cerebral media izquierda, con transformación hemorrágica en fase subaguda, que produce efecto masa sobre el asta occipital del ventriculo lateral. Lesiones crónicas frontal izquierda y rolándica derecha
+
+Informe d'alta d'hospitalització
+
+
+
+EVOLUCIÓ CLÍNICA
+Se trata de una mujer de 73 años con antecedentes de fibrilación auricular e ictus parietal derecho, que fue derivada a nuestro centro de _SS_ con activación de código ictus por afasia de cronología incierta, por lo que se realizó TC craneal con angio-TC que mostró lesiones crónicas sin lesiones agudas, con oclusión de M3 izquierda, y ECG que estaba en fibrilación auricular, con INR 1,6, orientándose como ictus isquémico de ACM izquierda cardioembólico. Por tiempo de evolución se desestimó fibrinólisis y por oclusión distal paucisintomática se desestimó tratamiento endovascular. Se trasladó a _SS_ para continuar evolución y al llegar a su destino presentó de forma brusca clínica hemisférica derecha, por lo que se derivó nuevamente a nuestro centro.
+
+A su llegada a Urgencias la paciente se encuentra hemodinámicamente estable y afebril. A la exploración neurológica destaca clínica hemisférica derecha completa y afasia mixta (NIHSS 23). La analítica muestra leve aumento de reactantes de fase aguda, INR 1,45. Se repite TC craneal que muestra lesión isquémica establecida en territorio de arteria cerebral media izquierda con transformación hemorrágica, sin signos incipientes de isquemia aguda en hemisferio derecho. La angio-TC no evidencia defectos de repleción arteriales. Se orienta como ictus isquémico territorio de arteria cerebral media derecha de mecanismo embólico y etiología cardioembólica, y transformación hemorrágica (PH 1) de ictus subagudo de arteria cerebral media izquierda. Dada la transformación hemorrágica de ictus agudo se desestima tratamiento fibrinolítico y dado que no se observa oclusión proximal de gran vaso, se desestima trombectomía mecánica. Se decide ingreso en la Unidad de Ictus para control clínico.
+
+Durante el ingresose ha mantenido estable neurológicamente (con afasia mixta y clínica hemisférica completa derecha). Se coloca sonda nasogástrica sin incidencias, iniciándose nutrición enteral.
+
+Como complicaciones presenta el 16.12.17 herida en zona lateral de la pierna izquierda con desgarro muscular y pérdida de sustancia cutánea en contexto de traumatismo con la barandilla de la cama. Es valorada por guardia de Traumatologíaque realiza lavado, sutura y vendaje compresivo; se inicia antibioticoterapia con ciprofloxacino y clindamicina, tras la cual se objetiva discreta elevación de transaminasas y GGT que se mantiene durante el resto del ingreso. También presenta diarreas (coprocultivo y toxinas de C. difficile negativos) e hipopotasemia que resuelven con cambio de nutrición y aportes de potasio y rectorragia secundaria a hemorroide interna, sin caída significativa del hematocrito. Presentó un pico febricular (37.5ºC el 01.01.17), no se detectó foco infeccioso claro y la analítica mostró una PCR de 70mg/L; los días siguientes no tuvo fiebre, pero el día del traslado (04.01.18) presentó pico de 37.7ºC no teniendo otro foco infeccioso salvo la herida en miebro inferior izquierdo para la que ya lleva tratamietno antibiótico y quedando pendiente de resultados de hemocultivo y sedimento urinario.
+
+Dentro del estudio etiológico del ictus se realiza analítica de ingreso que no muestra alteraciones. Se realiza ecocardiograma transtorácico que no objetiva trombo intracardíaco ni otras alteraciones. Se repite TC craneal de control a los 7 días de ingreso que muestra infarto agudo-subagudo de territorio de arteria cerebral anterior derecha con transformación hemorrágica e infarto parietal izquierdo en ramas posteriores de cerebral media izquierda con transformación hemorrágica en fase subaguda.
+
+Se solicita traslado a centro de referencia (_SS_), que se realiza el 04.01.18, donde tiene asignada la habitaicón _ID_.
+
+Según evolución clínica, valorar reinicio de tratamiento anticoagulante tras nueva neuroimagen de control.
+
+Al alta:
+
+Informe d'alta d'hospitalització
+
+
+
+
+NIHSS: 0.2.2.0.2/2(0.4)(0.4)/0.1.2.2.0 = 21
+Rankin: 5
+
+ORIENTACIÓ DIAGNÒSTICA
+-	Ictus  isquémico   territorio  arteria  cerebral  media  derecha  agudo  de  mecanismo  embólico  y  etiología cardioembólica
+-	Transformaciónhemorrágica de ictus isquémico subagudo de arteria cerebral media izquierda
+-	Fibrilación auricular crónica
+-	Hipertensión arterial
+-	Herida con laceración muscular en extremidad inferior izquierda tras traumatismo con barandilla de la cama
+-	Diarreas autolimitadas con coprocultivo y toxinas de C. difficile negativos
+-	Rectorragia secundaria a hemorroide interna, sin caída significativa de hematocrito
+-	Alteración de perfil hepático probablemente secundaria a ciprofloxacina y clindamicina.
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+-	Cura con linitul + furacin en heridas suturadas y purilon en zona desepitelizada de zona medial; cada 48 horas.
+-	Fórmula magistral (Linimento Oleocalcáreo csp 200g + Óxido de Zinc 10% + Clotrimazol 2% + Hidrocortisona 0.5%)
+-	Aplicar pasta lassar cada 24 horas si precisa.
+-	Sedestación en sillón
+-	NET sin fibra por SNG: "Isosource standar neutro"
+-	Suplementar 1L agua/24h por SNG
+-	Colocar cojín en barandilla o protector.
+-	Control de constantes
+-	BMTest cada 6 h
+-	Oxigenoterapia si precisa
+-	Actime / 12 h x SNG
+-	Omeprazol 20mg cada 24 horas vía oral
+-	Enoxaparina 40mg cada 24 horas subcutánea
+-	Adiro 300mg cada 24 horas vía oral
+-	Suero fisiológico 500mL cada 24 horas endovenoso
+-	Digoxina 0.125mg si FC > 110lpm
+-	Bisoprolol 5mg cada 24horas vía oral
+-	Enalapril 5mg cada 12 horas vía oral
+-	Simvastatina 20mg cada 24 horas vía oral
+-	Prednisona 5mg cada 24 horas vía oral
+-	Clindamicina 500mg cada 6 horas endocenosa (inicio el 24.12.17)
+-	Ciprofloxacina 200mg cada 12 horas endovenosa (inicio el 24.12.17)
+-	Micofenolato mofetilo 500mg a las 07 y a las 19 horas vía oral
+-	Alopurinol 100mg cada 24 horas vía oral
+-	Poliestireno sulfonato calcico 15g sobre cada 8 horas vía oral
+-	"Galdar" 2.5mg cada 24 horas vía oral (lo trae la familia)-
+
+CONTROL
+-	Seguimiento analítico ambulatorio de perfil hepático
+-	Control con sus especialistas habituales
+-	
+Informe d'alta d'hospitalització
+
+
+
+
+-	Control con neurólogo de zona.
+
+DESTINACIÓ A L'ALTA:	HOSP. AGUTS/PSQ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+05.01.2018
+Pàgina 1 de 6

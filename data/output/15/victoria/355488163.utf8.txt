@@ -1,0 +1,165 @@
+1/ 4
+
+Cognoms:	_NAME_	Adreça:	_LOCATION_ C/_LOCATION_	
+Nom:	_NAME_		_LOCATION_		
+Edat: 76	Sexe:M	CIP:	_ID_	NIF:	_ID_
+Data naixement:   _DATE_	NHC:	_ID_	NASS:    _ID_
+Telèfon / Mòbil:	_CONTACT_
+
+
+INFORME  D'ASSISTÈNCIA
+
+Metge/essa:	_NAME_	Servei:	Neurologia
+Data ingrés:	22/03/ 2017	Data Alta: 31/0317
+S'informa a:	Metge de família	Núm.  llit: _ID_
+
+DIAGNÒSTIC:
+1.	Ictus isquèmic de territori d'ACM esquerre de probable etiologia cardioembòlica
+2.	Fibril·lació auricular paroxística
+3.	Hipertensió arterial
+4.	Dislipèmia
+5.	Estenosis aòrtica severa
+6.	Insuficiència renal crònica
+
+PROCEDIMENTS:
+1.	Analítica sanguínia
+2.	Electrocardiograma
+3.	Monitorització
+4.	Ecocardiograma
+5.	TAC Cranial
+6.	RM Cranial
+
+
+Pacient de 76 anys sense al·lèrgies medicamentoses (intolerància a la lyrica) ni hàbits tòxics.
+
+ANTECEDENTS PATOLÒGICS:
+·	Hipertensió arterial amb tractament farmacològic
+·	Dislipèmia en tractament amb estatines, amb analítica al Juliol del 2016 amb Colesterol total de 190mg/dL i LDL 120mg/dL.
+·	Insuficiència renal crònica amb Cr habitual d'1.2mg/dL i FG 46mL/min/1.7m2
+·	Artritis psoriàsica en tractament amb metotrexate i en seguiment per Reumatologia
+·	Estenosis Aòrtica severa, en valoració per intervenció quirúrgica
+
+SITUACIÓ SOCIAL I FUNCIONAL:
+·	Funcional: Índex de Barthel 100/100. Autònoma per ABVD. Continent doble. Deambula sense ajudes tècniques. Transferències i p/b escales sense ajuda.
+·	Social: Casada, amb dues filles. Viu amb marit. Mestra de professió. No teleassistènc ia.
+·	Cognitiu: Sense signes de deterior previ.
+·	Emocional: Eutímica.
+·	Sensorial: Disminució de l'agudesa visual, portadora de lents. No hipoacúsia.
+·	Nutricional: Orèxia conservada.
+
+TRACTAMENT:
+Metotrexat 2.5mg 3c/7d; Hidroferol ampolles; Artedil 20mg 1c/24h; Lederfolin 15mg 1c/7d; Fero-Gradumet 105mg 1c/24h; Ixia Plus 40/25mg 1c/24h; Prednisona 5 5mg 2c/24h; Simvastatina 40mg 1c/24h; Omeprazol 20mg 1c/24h; Arava 20mg 1c/24h;
+
+MALALTIA ACTUAL:
+
+Acut a urgències el 22/3/2017 per clínica aguda a les 11h de debilitat a nivell d'extremitat inferior esquerre. Truquen al SEM que preactiva codi ictus a les 11:45h i es portada al nostre centre. A la seva arribada a les 12:00h està conscient i orientada amb TA 140/110 i Glicèmia 144mg/dL. No presenta elements afàsics, mínima disàrtria, lleu parèsia fac ial esquerre. Oculomotrictat normal. Extinció visual a doble estímul esquerre. Anestesia extremitats esquerres, lleu claudicació braç esquerre. No agnòsies. NIHSS: 0-0-0-0-0//2(0-1)(0-0)//0-2-0-1-2=8. Es realitza ECG en ritme sinusal i analítica, amb
+
+insuficiència renal amb Cr d'1.2 (coneguda prèviament). Es realitza TC cranial a les 12:15h que mostra lesió a territori profund ACM esquerre (ASPECTS 8) i angioTC TSA i cranial que mostra oclusió de M1 distal després d e bifurcació i també de segment M2 de ACM dreta. Torna al box d'urgències i es realitza una TA pre-bolus de 165/77mmHg i per absència de contraindicacions i estar dins de finestra horària s'inicia bolus de rTPA 6.5mg i perfusió de 60mg a les 12:26h. Davant de l'oclusió proximal comentem amb Neurologia d'HUGTiP que després de revisar les imatges desestimen tractament revascularitzador de rescat (M2 + NIHSS>10). Clínicament presenta milloria clínica de l'anestèsia i de la claudicació de la extremitat superior durant la perfusió. Es decideix ingrés a UCI i TAC cranial de control a les 24h sense lesions hemorràgics ni canvis respecte imatge prèvia.
+
+Durant la seva estada a UCI milloria progressiva, amb hipertensió que requereix tractament antihipertensiu. Es monitoritza detectant -se salva de 9 complexes de fibril·lació auricular. Donada la milloria c lín ica i l'estabilitat hemodinàmica es decideix alta a UCI i ingrés a unitat de Neurologia.
+
+EXPLORACIÓ FÍSICA:
+Urgències: TA 163/84; FC 92x'; FR 14x'; T 36.2; SatO2 B 99%%; Glicèmia 144mg/dL
+Conscient i orientada. S'objetiva disàrtria sense afàsia y lleu paràlisis facial esquerre, anestesia d'extremitats esquerres. Amb NIHSS: 0-0-0-0-0//2(0-1)(0-0)//0-2-0-1-2= 8.
+
+Exploració física planta:
+TA 143/77; FC 90; SatO2 B 93%; BMT 102
+PELL I MUCOSES: Normohidratada i normocolorejada. Sense edemes a EEII. Sense signes de TVP. No UPP. RESP: MVC sense sorolls sobreafegits. COR: Tons cardíacs rítmics, amb buf sistòlic. ABDOMEN: Abdomen tou i depressible, peristaltisme present, no dolorós a la palpació.
+NRL: Conscient i orientada, obeeix ordres simples, sense disàrtria ni elements afàsics. Oculomotricitat normal i sense alteració campimètrica. Lleu claudicació d'extremitat superior esquerre distal. Mínima hipoestèsia d'extremitat inferior esquerre. Lleu parèsia facial. No presenta dismetries. A la marxa inestabilitat per probable trastorn sensitiu lleu.
+NIHSS 0-0-0-0-0 // 1(0-0)(0-0) // 0-0-0-0-0 = 1.
+
+Exploració al alta: Paresia facial esquerre amb component supe rior, mínima disartria, hemiparesia lleu extremitats esquerres. No trastorn sensitiu, no  alteracions  ca mpimètric es,  no  agnosies. Marxa parètica autònoma amb ajuda.  NIHSS: 0-0-0-0-0//3(0-0)(0-0)//0-0-0-1-0= 4
+
+EXPLORACIONS COMPLEMENTÀRIES:
+·	A nalít ica Urgències: G 154.3mg/dL; Cr 1.26mg/dL; Na 143mmol/L; K 4.8mmol/L; Cl 107mmol/L; FG 41mL/min/1.73m2; Hb 10.6g/dL; Htc 34%; VCM 100.9fL; HCM 31.5pg; Leu 13.230/uL (N 78.8%; L 11.2%); Plaq 239.000/uL; T Prot Rati 0.95; APTT Rati 0.84
+·	A nalít ica Ingrés: G 83.9mg/dL; U 59.8mg/dL; Cr 1.08mg/dL; Na 141mmol/L; K 5.1mmol/L; Cl 89mL/min/1.73m2; Bi T 0.45mg/dL; Bi D 0.11mg/dL; GPT 16UI/L; Ca 10.1mg/dL; Prot T 6.7g/dL; PCR 0.56mg/dL; Hb 10.8g/dL; Htc 33.7%; VCM 100fL; HCM 32pg; Leu 7.900/uL; Plaq 220.000/uL; T Prot Rati 1.03; APTT Rat i 0.73
+·	Sediment Orina: pH 6.5; G Neg; CC Neg; Bi Neg; Leu 0-5cel/camp; Hematies Neg; Microoganismes Escassos; Tinció Gram BGN
+·	ECG: Ritme sinusal 100x'; Eix 60º; PR 0.12; QRS 0.04; No alteracions de la repolarització.
+·	TA C Cranial 22/3/17: Àrea d'hipodensitat de braç anterior de càpsula interna dreta i nucli lenticular dret, suggestiu de lesió isquèmica aguda/subaguda. ASPECTS 8. No s'aprecien lesions hemorràgiques ni signes suggestives de procés expansiu intracranial. Sistema ventricular simètric, de morfologia i mida normals a l'edat del pacient. Estructures de la lín ia mitja centrades. Cisternes basals lliures. Defecte de repleció a M1/M2 DRETA amb flux filiforme distal suggestiu d'oclusió. Artèries cerebrals anteriors, artèries cerebral mitja esquerra i artèries cerebrals posteriors permeables. Artèries comunicants posteriors presents i permeables. Plaques calcificades a bifurcacions carotídies que condiciona estenosis lleu. Artèries vertebrals i basilar permeables. Ateromatosis càlcica de la crossa aòrtica. Nòduls tiroïdals a valorar per ecografia
+·	TA C Cranial 23/3/17: Persisteix lesió hipodensa a càpsula interna i lenticular drets, lleument més hipodensa, sense canvis de mida ni aparició de noves lesions. Estructures de la lin ia mitja centrades. El sistema ventricular supratentorial es de morfologia i de mida normal per a la seva edat. Cisternes basals i perimesencefàliques lliures. No s'observen altres alteracions del parènquima cerebral ni cerebel·lós. Fosa posterior sense anomalies.
+·	RM C ranial: Àrees d'isquèmia subaguda a territori de l'artèria cerebral mitja dreta, a corona radiata, càpsules externa i lòbul temporal. Leucaraiosi. Sistema ventricular centrat a la línia mitja i normodistès. Parènquima cerebral i cerebel·lós homogeni sense altres alteracions. Senyal de flux conservat a les estructures vasculars.
+·	Ecocardiograma: Ventricle esquerre moderadament hipertròfic. Fracció d'ejecció de ventricle esquerre conservada. Doble lesió aòrtica amb estenosi severa i regurgitació lleugera. Insuficiència mitral lleugera per calcificació de l'anell. Cavitats dretes sense troballes patològiques.
+·	Doppler TSA i t ranscranial: Estudi extracranial amb mínims signes d'ateromatosi, sense estenosis significatives. De l'estudi intracranial, destaca una asimetria del segments M1, essent menor el de l'ACM dreta, suggestiu de
+
+patologia a nivell distal. El flux de l'ACM dreta s'observa fins a 35 mm sense variacions, però sense observar -se les dues branques, pel que no es pot descartar estenosi crítica o oclusió de branca. La resta de l'estudi intracranial no mostra alteracions significatives.
+
+EVOLUCIÓ:
+
+Pacient de 76 anys amb antecedents d'HTA i dislipèmia en tractament farmacològic. Amb estenosi aòrtica severa pendent de cirurgia. En tractament amb metotrexat per artritis psoriàsica. El 22/3 va presentar clínica d'ictus isquèmic de territori de
+l'artèria cerebral mitja, es realitza TAC i angioTAC cranial d'urgència on es visualitza defecte de repleció a M1/M2 dreta am b flux filiforme distal suggestiu d'oclusió, pel que es realitza fibrinòlisi amb rtPA, presentant recuperació gradual del dèficit motor i sensitiu. No tributària de teràpia de la lesió distal i escàs dèficit.. Es deriva a la UCI per control evolutiu, on és monitoritzada i s'objectiva salva de 9 complexes de fibril·lació auricular i presenta
+hipertensió controlada farmacològica me nt. Al TC de control a les 24h no presenta transformac ió he morràgic a i no hi ha canvis isquèmics, pel que és ingressada a unitat de neurologia i s'inicia tractame nt anticoagulant. Durant els següents dies presenta empitjorament de nou amb dèficit motor a extremitats esquerres. Es completa estudi a mb Ecodoppler que presenta patró TIBI 3 (oclusió de branca??) a ACM dreta i RM cerebral que mostra lesions isquèmiques en territori ACM dreta (profund i també parxejat cortic al). Parlem amb Cardiologia que enredereix el cateteris me prequirúrgic per a la estenosis aòrtica que tenia programat i cita a consultes externes. Tolera dieta oral, sedestació progressiva i deambulació amb ajuda. És valorada per Rehabilitació i realitza tractament de fisioterapia amb milloria general de la paresia. Es decideix ingrés per a
+convalescència a Centre sosi-sanitari.
+
+En el moment de l'alta NIHSS: 4
+mRS: 3
+
+
+TRACTAMENT:
+
+Medicament	Dosi	Freq.	Via	Hores	Data I.	Data F.
+ACENOCUMAROL (SINTROM COMP. 4 MG)	0 - COMP	C/24H	ORAL	16	24/03/2017	
+
+IPRATROPI BROMUR (BROMUR IPRATROPI 250 MCG/ 1 ML)	
+1 - SOL.	
+C/8H	
+NEBULITZACIO	
+8,16,24	
+29/03/2017	
+
+LEFLUNOMIDA (ARAVA 20 MG. COMP.)	
+1 -	
+C/24H	
+ORAL	
+10	
+22/03/2017	
+
+N-ACETIL CISTEINA (FLUMIL FORTE 600 MG COMP)	
+1 - COMP	
+C/24H	
+ORAL	
+16	
+27/03/2017	
+
+OMEPRAZOL (OMEPRAZOL 20 MG CAPS)	
+1 - CAPS	
+C/24H	
+ORAL	
+8	
+22/03/2017	
+
+PARACETAMOL (GELOCATIL 1G SOBRES)
+Comentari Prescriptor: Si dolor	
+
+1 - SOB.	
+
+C/8H	
+
+ORAL	
+
+8,16,24	
+
+30/03/2017	
+
+PREDNISONA (PREDNISONA 5 MG COMP)	
+1 - COMP	
+C/24H	
+ORAL	
+8	
+22/03/2017	
+
+SIMVASTATINA (SIMVASTATINA COMP. 20 MG )	
+1 - COMP	
+C/24H	
+ORAL	
+20	
+22/03/2017	
+
+
+CONTROL:
+
+Trasllat a _SS_ per a convalescència
+Primera visita a CEX de Neurologia amb Dr. _NAME_ el dia 30/06/17 a les 12:00h
+
+Visita amb Dra. _NAME_ de Cardiologia el dia 17/05/17 a les 8:40h
+
+Signat per _NAME_ núm.col: _ID_ Data/Hora:31-03-2017 11:36

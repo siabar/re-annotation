@@ -1,0 +1,103 @@
+SERVEI DE NEUROLOGIA
+INFORME DE ALTA
+Unitat d`IctusNº Historia clínica	_ID_
+Fecha de nacimiento
+_DATE_
+C.I.P.	_ID_	Código Centro	_ID_
+Teléfono	_CONTACT_	Dirección	_LOCATION_
+Fecha ingreso	28/04/17		_LOCATION_
+Fecha de alta	01/05/17	Teléfono	_CONTACT_
+Nº Asistencia	_ID_		
+UH	_ID_		
+
+DIAGNÓSTICOS:
+1.	HEMORRAGIA LOBAR PARIETAL IZQUIERDA.
+2.	DETERIORO COGNITIVO.
+3.	SOSPECHA DE ANGIOPATÍA AMILOIDE
+4.	CARDIOPATÍA ISQUEMICA estable. Último ecocardio 2016 FEVI 33%
+5.	FRV: HTA, DLP, DM2
+6.	EXITUS
+
+
+Paciente de 72 años, dudosa alérgica a la penicilina. Sin hábitos tóxicos. Exfumadora de hace 35 años. Diestra. Vive con el marido y tiene dos hijos. mRs 4 (come sola pero precisa ayuda para control de medicación, ayuda para vestido y ducha y sale a la calle en silla de ruedas y en casa distancias cortas apoyándose).
+
+PROCEDIMIENTOS:
+-	Monitorización en Unidad de Ictus
+-	TC craneal.
+
+MOTIVO CONSULTA:
+Ictus
+
+ANTECEDENTES:
+-	Cardiopatía isquémica, infarto agudo de miocardio anteroseptal en el 2006, coronariopatía de un vaso (oclusión en DA y lesión del 60% en 2D). Ecocardio 2016: CARDIOPATIA ISQUEMICA CON DISFUNCION SISTOLICA DEL VENTRICULO IZQUIERDO POR NECROSIS ANTERIOR EXTENSA CON SIGNOS DE FIBROSIS (FEVI 33%).
+-	Diabetes Mellitus tipo II en tratamiento con antidiabéticos orales.
+-	Hipertensión arterial esencial en tratamiento farmacológico.
+-	Síndrome depresivo en tratamiento farmacológico.
+-	Deterioro cognitivo en seguimiento en CCEE de NRL orientado como de probable causa vascular. Ha presentado un episodio de alucinaciones que requirió ingreso en Med Interna. TC craneal en resumen lesión vascular antigua a nivel temporal derecho (territorio superficial ACM), leucoaraiosis leve- moderada, lacunar ggbb derecho y canvios involutivos asocaidos a la edad (no lesiones agudas/subagudas, ni otras alteraciones).
+-	Trombosis  venosa  profunda  en  femoral  izquierda  a  nivel  de  ingle  hace  1  año  en  tratamiento conacenocumarol. Refiere que sucedio en contexto de un viaje en coche de muchas horas.
+-	Lumbalgia crónica con tratamiento para el dolor.
+
+Tratamiento actual:
+- AAS 100mg/24h.
+-	Carvedilol 3.25mg/d.
+-	Paracetamol 1g/12h.
+-	Gabapentina 600mg/12h.
+-	Metformina + Vidagliptina 850/50mg/12h.
+-	Lansoprazol 15mg/24h.
+-	Sertralina 100mg/24h.
+
+Nombre	_NAME_	
+-	Risperdal 0.5mg /8h
+-	LOSARTAN COMPRIMIDOS 50 mg. 1 comprimido por la mañana.
+-	ATORVASTATINA 40 mg 1 comprimido al día por la mañana
+
+ENFERMEDAD ACTUAL:
+Paciente traida a urgencias como CIEH porque estando previamete bien a las 20h inicia cuadro de hemiparesia izquierda con alteración del lenguaje. Llega a urgencias a las 23:33h.
+
+EXPLORACIÓN FÍSICA:
+-	Exploración física en UCIAS:
+A su llegada a urgencias a las 23:33h, constantes PA 165/92mmHg, FC 105lpm, glicemi capilar 159mg/dl, Sat O2 95% basal.
+
+Neurológicamente: somnolienta (1), preguntas (2), obedece órdenes simples pero no complejas (1), afasia mixta de predominio motor grave (2). Desviación ocular forzada hacia la izquierda(2), HH derecha (2), hemiparesia FBC derecha (2+4+2), anestesia derecha (2). NIHSS: 20.
+AC: tonos cardíacos rítmicos sin soplos audibles AP: hipofonesis global.
+
+-	Exploración física en Unidad de Ictus:
+TA 149/69 FC 122x` T 38,2ºC SatO2 basal 96
+Neurológico: Alerta, con apertura ocular espontánea, emite gemidos, moviliza espontáneamente extermidades izquierdas. PICNR; desviación oculocefálica forzada a la izquierda (2), con HHD por amenaza (2). Hemiplejia faciobraquiocrural (2+4+4). No responde a estímulos dolorosos en hemicuerpo derecho (2). No rsponde pregutnas ni obedece órdenes en contexto de afasia global (3+2+2). NIHSS 23
+
+EXPLORACIONES COMPLEMENTARIAS:
+-	Analítica urgencias (29/04/2017): glucosa 181mg/dl, creatinina 0.51mg/dl, Na 139.5mmol/l, K 5.22mmol/l, Cl 102.7mmol/l, FGe 96ml/min, PCR 0.1mg/dl, fibrinógeno 253.3mg/dl, díemro D 2140mcg/l
+*Hemograma: Hb 13.9g/dl, VCM 90.3fl, HCM 29.8pg, leucocitos 11.260/mm3 (N 7.780/mm3, L 21.9%, M 7%), plaquetas 204.000/mm3.
+*Coagulación: TP 113.7%, TP ratio 0.97, TTPa 26.1seg.
+-	ECG: ritmo sinusal a 100lpm, eje a -30º, falta de progresión de ondas R en cara anterior, no otras alteraciones en la repolarización.
+-	Rx de tórax: ICT<0.5, sin infiltrados ni condensaciones evidentes.
+-	TC craneal urgente (28/04/2017;23:50h): Hematoma lobar parietal izquierdo de las características descritas. Signos de vasculopatía crónica.
+
+
+EVOLUCIÓN:
+Se trata de una paciente de 73 años, con factores de riesgo vascular que presenta cuadro compatible con ictus TACI izquierdo. Se realiza TC craneal urgente donde se evidencia hemorragia lobar parietal izquierda.
+
+La paciente ingresa en Unidad de Ictus para monitorización y estudio neurovascular.
+
+Durante el ingreso la paciente presenta respiracion dificultosa con fiebre termometrada, probable consecuencia de infeccion respiratoria por broncoaspiracio. Se inicia tratamiento amtibiotico con mala respuesta. Se informa a la familia del mal pronostico, acordandose evitar encarnizamiento terapeutico.
+El dia 30/04/2017 presenta empeoramiento clinico, con TA: 80/60 FC: 138 Tª: 38.5ºC, con importante
+
+disnea, Hipofonesis global con roncus y broncoespasmo, con espiracion alargada. Se pautaron nebulizaciones con budesonida y metilprednisolona ev. Ante la ausencia de respuesta en las horas posteriores, se acuerda asegurar confort, pautando escopolamina y morfina para la disnea, mejorando sintomatologicamente y quedando más tranquila.
+A las 1:55h de la madrugada del 1/05/2017 nos avisan porque la paciente ha sido éxitus.
+
+
+Etiología TOAST HIC, Oxford TACI. Rankin alta: 6
+
+TRATAMIENTO:
+
+Dr/a.	Dr/a.	_NAME_	Dr/a.	_NAME_
+(Nº Colegiado : )	Metge/essa Resident
+(Nº Colegiado _ID_Metge/essa Adjunt
+(Nº Colegiado _ID_
+
+
+Les seves dades personals s'incorporen en un fitxer d´usuaris a fi del seu tractament sanitari. Pot exercir el seu dret d´oposició, accés i rectificació de les dades inexactes dirigint-se al Servei de Documentació Clínica.
+Sus datos personales se incorporan en un fichero de usuarios para su tratamiento sanitario. Puede ejercer su derecho de oposición, acceso y rectificación de los datos inexactos dirigiéndose al Servicio de Documentación Clínica
+
+_SS_ | NIF _ID_ |_LOCATION_ | Telèfon _CONTACT_ | Fax _CONTACT_ | _CONTACT_
+Pàgina 1 de 3

@@ -1,0 +1,163 @@
+IC CARDIOVASCULAR CARDIOLOGIA
+_NAME_	NHC: _ID_
+
+
+Sexo/Sexe: Masc.	Fecha nac./Data naix.: _DATE_	Edad/Edat: 85 años Dirección/Adreça: _LOCATION_	CP: _LOCATION_
+Municip. (Prov.): _LOCATION_  ABS:_SS_	Tel.:_CONTACT_ _NAME_ As.: _NAME_
+Nº epis.: _ID_	Tipo/Tipus: HOSPIT.	Inici.: 05.07.2017
+Serv: CARDIOLOGIA	UO Enf.: G026 SALA G DE CARDIOLOGIA  Hora: 12:27:36 Facult. de ref.: _NAME_
+
+
+
+
+Tipo ingreso/Tipus ingrés: Urgent	Motivo/Motiu alta: Hosp. domiciliaria
+Diag.:
+ICTUS ISQUÉMICO ACMD. OCLUSIÓN SEGMENTO M1. () REVASCULARIZACIÓN CORONARIA RECIENTE ()
+RECAMBIO VALVULAR AÓRTICO POR BIOPRÓTESIS RECIENTE () BAV 3er GRADO. PORTADOR DE MARCAPASOS DDD. () ENDOCARDITIS INFECCIOSA PROTÉSICA PRECOZ ()
+Proc.:
+ANALÍTICA SANGUÍNEA. HEMOCULTIVOS. () ECG. MONITORIZACIÓN. ()
+RADIOGRAFÍA DE TÓRAX ()
+TC MULTIMODAL. TROMBECTOMÍA MECÁNICA. () ECOCARDIOGRAMA TRANSTORÁCICO ()
+ECO-DOPPLER TSA Y DTC. ()
+
+
+
+
+INFORME CLÍNICO ALTA / INFORME CLÍNIC ALTA
+
+Motivo de consulta / Motiu de consulta
+Debilidad súbita de extremidades derechas
+
+Antecedentes e historia previa / Antecedents i història prèvia
+No alergias medicamentosas conocidas. No hábitos tóxicos. Independiente para las actividades básicas de la vida diaria. Vive con su esposa.
+Médico digestólogo de profesión, jubilado.
+
+
+*ANTECEDENTES PATOLÓGICOS:
+
+1.	HIPERTENSIÓN ARTERIAL en tratamiento farmacológico.
+
+2.	DISLIPEMIA.
+
+3.	CARDIOPATÍA ISQUÉMICA revascularizada el 04/04/17 mediante doble by- pass coronario con vena safena sobre arterias descendente anterior y diagonal.
+
+4.	ESTENOSIS VALVULAR AÓRTICA GRAVE intervenida de recambio valvular por
+bioprótesis el 04/04/17 en el _SS_ (Dr. _NAME_).
+
+5.	BLOQUEO AURÍCULO-VENTRICULAR DE 3er GRADO. Portador de MARCAPASOS DDD desde el 30/06/17 por tras síncopes.
+
+6.	PROSTATECTOMÍA RADICAL
+
+
+*MEDICACIÓN HABITUAL (05/07/17): furosemida 40 mg/24h; losartán 50 mg/24h; ácido acetilsalicílico 100 mg/24h; pantoprazol 20 mg/24h; lorazepam 1 mg/noche si precisa.
+
+Proceso actual / Procés actual
+Paciente ingresado desde el 30/06/17 a raiz de síncopes de repetición en _SS_, donde ha sido intervenido para colocación de marcapasos tras detectar un BAV completo. Postoperatorio inmediato sin incidencias. El 05/07/17 sobre las 8:30h el paciente presenta de manera súbita disminución del nivel de consciencia, plejia de extremidades izquierdas, hemihipoestesia izquierda y disartria.
+
+Realizan TC craneal basal que descarta signos de hemorragia; tras el TC el paciente presenta mejoría de la hemiparesia izquierda a 3/5. La intervención quirúrgica cardíaca reciente contraindica el tratamiento fibrinolítico. Ante la sospecha de un ictus hemisférico derecho, remiten a nuestro centro como "Código Ictus" para valorar tratamiento mecánico del AVC.
+
+Exploración física / Exploració física
+05/07/2017-13:00:00: Frecuencia respiratoria (rpm) 27, PAS (mm Hg) 116, PAD (mm Hg) 34, Pulsioximetría (%) 95. 05/07/2017-15:00:00 : Tª axilar ( ºC)  36. 05/07/2017-20:00:00 : Glicemia capilar (mg/dl) 99. 10/07/2017- 23 :00:00 : FiO2 (%) 21.
+
+Hemodinámicamente estable, normotenso, eupneico en reposo y afebril.
+
+NRL: consciente y orientado globalmente. Lenguaje discretamente hipofluente pero sin rasgos de afasia (predomina inatención, nomina 6/6, repite, realiza órdenes simples). Disartria leve. Mirada conjugada con tendencia a la mirada derecha, excursión visual horizontal pasa línea media pero no completa a la izquierda. Campimetría por confrontación impresiona de negligencia visuoespacial izquierda sin clara hemianopsia, reflejo de amenaza presente bilateral. Hemiparesia facio (central, leve)- braquio (5/5 proximal, 3/5 distal a la apertura de mano)- crural (3/5) izquierda.  Hipoestesia táctil izquierda.  Dismetría de extremidades izquierdas proporcional a paresia. Negligencia visuoespacial izquierda, asomatognosia izquierda. NIHSS 8.
+
+* EXPLORACIÓN FÍSICA SALA DE CARDIOLOGÍA
+Paciente normohidratado, normocoloreado, consciente, vigil y orientado en las 3 esferas. Respiratoriamente: MVC sin ruidos sobreañadidos Cardíaca: tonos rítmicos junto a soplo sisto-diastólico de predominio          en foco aórtico. Abdomen: Blando, depresible, sin visceromegalias. Peristaltismo conservado. No       doloroso a  la palpación superficial ni profunda. No edemas en extremidades inferiores, pulsos periféricos conservados.
+
+Laboratorio / Laboratori
+***LABORATORIO:
+
+*ANALÍTICA SANGUÍNEA: PCR 5.12 mg/dL. Glucosa 115 mg/dL. Creatinina 0.80 mg/dL; filtrado 80 mL/min. Úrico 5.9 mg/dL. Colesterol total 147 mg/dL; TG 172 mg/dL, LDL 86 mg/dL; HDL 27 mg/dL. LDH 468 U/L. Leucocitosis (15.84x10^9/L) a expensas de neutrofilia. Anemia (Hb 111 g/L; hcto 36%) normocítica/normocrómica. VSG 54 mm/h. HbA1c 5.9%. TSH 3.853 mUI/L; FT4 1.31 ng/dL.
+
+*HEMOCULTIVOS 7.07.2017 (x4): positivos para Staphylococcus epidermidis.
+*HEMOCULTIVOS DE CONTROL 10-7 (Bajo tratamiento): negativos
+
+Radiología / Radiologia
+ECOCARDIOGRAMA TRANSESOFÁGICO 12.07.2017:
+Endocarditis infecciosa:
+- Prótesis biológica en posición aórtica (Dokimos plus nº 21) deshicente en cerca de dos tercios de su perímetro, con fugas peri-prótesicas muy importantes. Velos engrosados , con imagen compatible de masa-vegetación adherida en uno de ellos al menos. A la vez imagen móvil en el tracto de salida compatible con pequeña vegetación. Engrosamiento de la pared periaórtica. Presencia de flujo sistólico de alta velocidad que parece comunicar TSVI y aurícula derecha. - Insuficiencia mitral ligera, velo anterior difusamente engrosado (especialmente en el margen externo). Sin imágenes de vegetaciones clara adheridas al mismo. - Ventrículo izquierdo no dilatado, hipertrófico leve, motilidad global normal. - Ventrículo derecho de dimensiones y motilidad global normales. - Aurícula izquierda con dilatación severa. Orejuela izquierda unilobulada, sin trombos visibles en su interior. Septum interauricular engrosado por Infiltracion lipomatosa.
+-	Ligera insuficiencia tricuspidea. - Cables de MCP DDD en cavidades derechas. Sin imágenes de vegetaciones en el trayecto visualizado. - Se explora aorta toracica descendente hasta 25 cm arcada dentaria con lesiones ateroescleróticas no complicadas
+
+*RX TÓRAX: marcapasos en posición correcta. No se observan focos de consolidación ni otros hallazgos sugestivos de patología aguda.
+
+*TC CRANEAL:
+-	TC CRANEAL BASAL: no se observan signos de hemorragia intracraneal. Parénquima cerebral con correcta diferenciación cortico-subcortical. ASPECTS (10) Signos de angiopatia microvascular.
+-	TC PERFUSION: retraso en el territorio superficial y profundo de la ACM derecha sin observarse disminucion de flujo ni volumen en los mapas de CBV/CBF.
+-	ANGIO-TC EXTRA E INTRACRANEAL: se observa trombo suboclusivo en el segmento M1 de la ACM derecha sin otras alteraciones asociadas. Anomalía del desarrollo venoso en hemicerebelo derecho sin otras alteraciones asociadas.
+
+* ANGIORADIOLOGÍA INTERVENCIONISTA:Se realiza punción femoral  a las 11.08  am. La primera serie angiográfica de ACID (11.16am) pone de manifiesto la presencia de un trombo suboclusivo (TICI1) en la ACM derecha en su segmento M1 con retraso de la circulación cerebral de su territorio. Se utiliza sistema de trombectomía Trevo y tras realizar 1 pase se aprecia una apertura del vaso con recuperación de los tiempos de tránsito cerebral. Serie de comprobación abierta (TICI3) 11.31 am.
+
+*TC DUAL DE CONTROL:No se observan signos de hemorragia intracraneal. Parénquima cerebral con correcta diferenciación cortico-subcortical.
+
+*ECG: ritmo sinusal sin alteraciones en la repolarización.
+
+*MONITORIZACIÓN ECG: hasta el viernes 07/07/17 en ritmo sinusal. Posteriormente ritmo de marcapasos DDD.
+
+*ECOCARDIOGRAMA TRANSTORÁCICO: FEVI 60%. Prótesis biológica en posición aórtica con evidencia de 2
+
+
+
+fugas peri-prótesicas, una desde las 7, importante-severa, y otra más difícil de identificar y cuantificar probablemente desde las 12. Díficil de descartar abceso, engrosamiento de la pared aórtica periprotésica. Ventrículo izquierdo no dilatado, hipertrófico leve, motilidad global y segmetaria conservada. Ventrículo derecho de dimensiones y motilidad global normales. Insuficiencia mitral ligera. Valvas normales con ligera calcificación del anillo Insuficiencia tricuspídea leve-moderada que permite estimar la presión sistólica de la arteria pulmonar en 54mmHg, hipertensión pulmonar moderada. No se detecta derrame pericárdico. Se evidencia cable de MCP solo en proyección sub-costal.
+
+*ECO-DOPPLER TSA Y DTC: estenosis >50% en el segmento M1 de la arteria cerebral media derecha. Estenosis <50% en el segmento M2 de la arteria cerebral media izquierda. Estenosis <50% en el segmento P2 de la arteria cerebral posterior derecha. Estenosis <50% de ambas arterias cerebrales anteriores. Todos estos hallazgos son sugestivos de ateromatosis difusa intracraneal.
+
+Intervenciones quirúrgicas / Intervencions quirúrgiques
+*TROMBECTOMÍA MECÁNICA: se realiza punción femoral a las 11.08 am. La primera serie angiográfica de ACID (11.16am) pone de manifiesto la presencia de un trombo suboclusivo (TICI1) en la ACM derecha en su segmento M1 con retraso de la circulación cerebral de su territorio. Se utiliza sistema de trombectomía Trevo y tras realizar 1 pase se aprecia una apertura del vaso con recuperación de los tiempos de tránsito cerebral. Serie de comprobación abierta (TICI3) 11.31am.
+
+Evolución / Evolució
+1.	ICTUS ISQUÉMICO EN TERRITORIO DE ARTERIA CEREBRAL MEDIA DERECHA (ACMD). OCLUSIÓN SEGMENTO M1.
+2.	ENDOCARDITIS AORTICA PROTÉSICA PRECOZ POR S.EPIDERMIDIS
+3.	INSUFICIENCIA AÓRTICA GRAVE POR FUGA PERIVALVULAR
+
+A su llegada a nuestro centro se encuentra normotenso y afebril. A la exploración neurológica presenta disartria leve, limitación a la mirada conjugada izquierda, hemiparesia facio (leve) braquio (5/5 proximal, 3/5 distal) crural (3/5) izquierda, hemihipoestesia ipsilateral y negligencia  visuoespacial izquierda con asomatognosia (NIHSS 8). ECG en ritmo de marcapasos. Analítica sanguínea sin alteraciones relevantes. Se realiza TC craneal multimodal que en secuencias basales no muestra signos de isquemia reciente o hemorragia (ASPECTS 10); angio-TC muestra oclusión a nivel proximal de M1 de ACMD.
+Se trata de un ictus isquémico en territorio de arteria cerebral media derecha. El antecedente de cirugía cardíaca reciente contraindica el tratamiento fibrinolítico. Ante la oclusión de gran vaso proximal, se decide tratamiento mecánico del ictus. La arteriografía confirma la presencia de un trombo suboclusivo (TICI 1) en la ACM derecha en su segmento M1 con retraso de la circulación cerebral de su territorio. Se realiza trombectomía con un pase de Trevo con reapertura TICI 3, tras lo cual el paciente mejora clínicamente persistiendo tan solo disartria (NIHSS: 1). Se realiza TC dual que no muestra sangrado, por lo que se inicia anticoagulación con heparina, que se retira posteriormente al consultar con infecciosas por presencia de endocartisis protésica precoz, manteniendo antiagregación con ácido acetilsalicílico.
+El estudio vascular (eco-doppler) muestra estenosis >50% en el segmento M1 de la ACMD, compatible con el territorio del ictus. El estudio cardiológico (ecocardiograma, ver punto siguiente) muestra hallazgos compatibles con absceso cardíaco. Monitorización >48h sin arritmias.
+Se realiza ecocardiograma transtorácico que muestra bioprótesis aórtica con dos fugas, una de ellas severa, y engrosamiento de la pared aórtica, que podría corresponder a absceso o cambios postquirúrgicos. Fracción de eyección del ventrículo izquierdo conservada y HTP moderada.
+Por sospecha de endocarditis, se realizan hemocultivos en dos ocasiones durante el día 7.07.2017 positivos todos ellos para S. epidermidis.
+Durante su estancia en la unidad de ictus el paciente permanece estable neurológicamente, estando asintomático al traslado el 11 de julio al servicio de Cardiologia.
+Se discute el caso en sesión multidisciplinar de endocarditis. Se programa ecocardiograma transesofágico
+
+
+
+que muestra dehiscencia de los  dos tercios de la prótesis aórtica así como imágenes compatibles con endocarditis a nivel de la misma.
+El paciente es evaluado por equipo de Cirugía Cardiovascular (Dr. _NAME_ / Dra. _NAME_). Se ofrece la opción de reintervención quirúrgica, tratándose de una intervención compleja con elevado riesgo de complicaciones (edad, patología de base -endocarditis protésica precoz-, reintervención, AVC reciente...). Se discute ampliamente las opciones de tratamiento con el paciente y família. Tras reflexionar sobre las opciones, el paciente decide no someterse a reintervención quirúrgica y seguir tratamiento médico-conservador y medidas paliativas, asumiento un pronóstico desfavorable a corto o medio plazo y manifestando de forma clara el deseo de priorizar las medidas paliativas y de confort. El paciente dispone, además, de un documento de voluntades anticipadas en este mismo sentido.
+Durante su estancia el paciente permanece estable bajo tratamiento antibiótico (Daptomicina + cloxacilina ev la primera semana y posteriormente Daptomicina ev + rifampicina oral) y tratamiento diurético inicialmente iv y posteriormente oral.
+De acuerdo con el paciente y la familia, siguiendo la voluntad de continuar el ratamiento y cuidados en el propio domicilio, el paciente se traslada para seguir tratamiento a través de la Hospitalización Domiciliaria del servicio de Infecciones.
+Al traslado, se pauta tratamiento médico y se indica también Solución oral de Morfina (Oramorph), 2,5 mg cada 8h via oral para mejor control de la disnea.
+Se se mantiene estable en el seguimiento, al finalizar el tratamiento en _SS_ deberá valorarse seguir controles por PADES para manejo paliativo.
+
+Plan terapéutico / Pla terapèutic
+Omeprazol 20 MG. Vía oral. Una vez al día, en el desayuno.
+Acido acetilsalicilico 100 MG. Vía oral. Una vez al día, en la comida.
+Rimactan 600 MG. Vía oral. Cada 12 horas (Hasta completar tratamiento antibiótico, según indique Hospitalización Domiciliaria de Infecciones)
+Boi-k Vía oral. Una vez al día, en el desayuno.
+Oramorph: 2,5 mg (1,25cc) Vía oral. Cada 8 horas. La dosis podrá aumentarse en función de los síntomas Furosemida 40 MG. Vía oral. Antes del desayuno y la comida.
+Lorazepam  1 MG. Vía oral. Cada 24 horas al acostarse, si precisa por insomnio o ansiedad. Daptomicina: Administración endovenosa a cargo de _SS_ de Infecciones.
+Oxígeno en gafas nasales a 2-3 lpm (que ya se ha instalado en el domicilio).
+
+Otras recomendaciones / Altres recomanacions
+Traslado a Hospitalización Domiciliaria.
+Priorizar las medidas de control de síntomas t confort del paciente.
+
+
+
+Firma/Signatura1: _NAME_		Firma/Signatura2: _NAME_ Categoría: Resident 2	Categoría: Consultor/a 1
+Nº Matrícula HCP: _ID_	Nº Matrícula HCP: _ID_
+
+Fecha/Data Informe: 21.07.2017
+Hora Informe: 13:38:49
+
+Docum.: _ID_
+Hist. Clínica: _ID_
+El _SS_ ha incorporado sus datos al Fichero de Pacientes, para tratarlos con fines sanitarios.
+Puede ejercer sus derechos de acceso, rectificación, cancelación y oposición, así como obtener mas información en la Unidad de Atención al Cliente.
+Vers. 00
+Pag. 2 de
+5
+Episod.: _ID_
+_SS_ ha incorporat les seves dades al Fitxer de Pacients, per a tractar-los amb finalitats sanitàries. Pot exercir els seus drets d'accés, rectificació, cancel·lació i oposició, i obtenir més informació a la Unitat d'Atenció al Client.
+_SS_
+_LOCATION_) _LOCATION_) Tel. _CONTACT_ Fax _CONTACT_
+http://_CONTACT_/

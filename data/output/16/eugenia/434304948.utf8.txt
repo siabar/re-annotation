@@ -1,0 +1,139 @@
+_LOCATION_
+email: _CONTACT_ Telèfon _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 58 Anys
+NIF/DNI: _ID__NAME_; _NAME_; _NAME_; 
+_NAME_
+Informe d'alta d'hospitalització
+15:00:00
+30.10.2017
+_LOCATION_
+_SS_ UNITAT D'ICTUS
+ABS
+Servei Data d'alta
+_CONTACT_
+AGUTS 27.10.2017
+_LOCATION_
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Hombre de 58 años que es derivado como código ictus.
+
+ANTECEDENTS
+No alergias medicamentosas conocidas.
+Hábitos tóxicos: Fumador de 1paq/día desde hace dos meses (lo intenta dejar). Anteriormente 50cig/día desde los 18 años (IPA en torno a 100). Consumidor de 3 UBE/día (anteriormente refiere 6UBE).
+
+-Sobrepeso. IMC 28 (85kg, 174cm).
+-Dislipemia. Sin tratamiento.
+-Esteatosis hepática.
+-Trombosis venosa profunda extremidad inferior izquierda en agosto de 2015, por lo que estuvo anticoagulado con sintrom durante 6 meses. Se realizo estudio de trombofilias desde atención primaria en el que únicamente describen elevación de la proteina S y posteriormente fue derivado a CEX Hematología, con resultados dentro de la normalidad según refiere. Pendiente de realización de Eco-Doppler de EEII en Noviembre de 2017 por dolor y edema en dicha extremidad (previament edemas bilaterales pero en EII persistió).
+-Tromboflebitis  superficial vena safena interna  EII (Noviembre  2016). Recibió tratamiento con Enoxaparina 120mg/día sc durante 1 mes.
+-Anemia macrocítica en tratamiento con ácido fólico. Realizó tratamiento también con vitB12.
+
+Intervenciones quirúrgicas:
+-FACO+ LIO bilateral.
+-Rotura manguito rotador derecho (2011). RMN: quiste AC y rotura re del manguito separado sin atrofia.
+-Amigdalectomía en la juventud.
+
+Situación sociofuncional: vive con su mujer y su hija, independiente para las ABVD. Cuidador principal de su mujer (que presenta demencia). mRS 1.
+
+MEDICACIÓ HABITUAL
+Acfol 5mg 1/24h, Adiro 100mg 1/24h, Omeprazol 20mg 1/24h, Paracetamol 1g si precisa.
+
+PROCÉS ACTUAL
+Varón de 58 años que, tras irse a dormir asintomático a las 00:30 horas presenta al despertar (05:00h) disartria y dificultad para la movilización de hemicuerpo izquierdo por lo que avisan al SEM que lo deriva a _SS_ desde donde tras ser valorado a las 05:50h se contacta con Teleictus y se realiza TC craneal simple descartándose tratamiento fibrinolítico al ser del despertar y se deriva a nuestro centro para valorar tratamiento endovascular. Hora de llegada _SS_:  7:26 h.
+
+EXPLORACIÓ FÍSICA
+
+Informe d'alta d'hospitalització
+
+
+
+
+En Urgencias:
+TA 123/83mmHg, FC 81lpm, BMTest 98mg/dl
+Estado general conservado, normocoloreado, normohidratado y normoperfundido. Auscultación cardiaca con tonos rítmicos y sin soplos, no edemas en miembros inferiores. Auscultación pulmonar con murmullo vesicular conservado sin ruidos sobreañadidos.
+Neurológicamente vigil, atento, sin alteraciones del lenguaje, disartria inteligible (1), no alteraciones campimétricas, anisocoria D>I, no restricción en los MOEs, paresia facial pseudoperiférica izquierda (3), paresia braquial 4/5 de predominio distal izquierda (1), extinción sensitiva izquierda (1), anosognosia (1). NIHSS 7.
+
+A su llegada a la Unidad de Ictus:
+TA 115/73mmHg FC 78lpm Tª 36.9ºCSpO2 97%
+Estado general conservado, MVC sin ruidos sobreañadidos, TCR sin soplos. No edemas en EEII ni signos de TVP. NRL: vigil, alerta, LOC Q 2/2, LOC C 2/2, disartria inteligible (1), no alteraciones en la comprensiónni evocación del lenguaje, no alteraciones campimétricas por confrontación, PFSN izquierda (2), Miller-Fisher izquierdo (+1) con resto de balance motor conservado. No alteraciones en la sensibilidad superficial. No extinciones ni agnosias. No dismetría dedo-nariz. NIHSS 3+1
+
+
+
+EXPLORACIÓ COMPLEMENTÀRIA
+-ECG: ritmo sinusal a 80lpm, eje 30º, PR 0.12s, QRS estrecho, T negativas en III, V1-4. QT 360ms, Buena progresión de la R en precordiales.
+-Analítica urgencias: Hties 4.40 x10E12/L; Hb 15.9 g/dL; Hto 46.4 %; VCM 105.5 fL; Leucocitos 9.35 x10E9/L; Neutrófilos 5.3 x10E9/L; Linfocitos 3.0 x10E9/L; Plaquetas 140 x10E9/L. TP 106 %; INR 0.97; TTPA 28.8 seg; Fibrinógeno derivado 2.05g/L (Von Claus 1.88g/L). Glucosa 80 mg/dL; urea 13 mg/dL; Creatinina 0.61 mg/dL; FG
+>90 ml/min; sodio 135.2 mmol/L; CALCIO 7.6mg/dL; ALT 22 UI/L; Proteína 5.4 g/dL. Troponina I <0.006 (T) ng/mL.
+-Rx tórax: ICT normal, senos libres, no infiltrados pulmonares.
+-TC craneal multimodal: Ausencia de signos de sangrado agudo intra o extraaxial. Hipodensidad de la parte posterior del córtex de la ínsula y parcialmente de M4. ASPECTS 8/10. Hipodensidad de la sustancia blanca del centro semioval derecho, en relación a zona de isquémia.  Estructuras de la línea media centradas. Sistema ventricular de tamaño y morfología conservada. Cisternas de la base y perimesencefálicas libres. Marco óseo sin alteraciones. AngioTC Se observa oclusión distal de la división anterior de ACM derecha, que no se rellena de contraste en fases posteriores. En el sistema vertebrobasilar se observa permeabilidad de todos los vasos. Senos venosos permeables. TC perfusión A nivel de M4 se observa alargamiento de los tiempos (MTT), con reducción del flujo (CBF) y con volumen conservado (CVB), en relación a mismach a este nivel. CONCLUSIÓN: Estudio craneal multifásico que muestra oclusión distal de la rama anterior de ACM derecha, se observa hipodensidad en ínsula y M4 (ASPECTS 8/10) y missmatch en la perfusión a nivel de M4.
+-Ecoscan: Ventriculo izquierdo no dilatado ni hipetrófico. Fracción de eyección conservada. No alteraciones segmentarias de la contractilidad. Auricula izquierda no dilatada No valvulopatias significativas. Patrón transmitral compatible con alteración de la relajación. No se observan imagenes sugestivas de trombo intrauricular ni ventricular. No se detectan placas de ateroma significativas en arco aórtico. Aneurisma del septo interauricular.
+- Ag general: se adjunta. pendiente al alta de serologías y proteinograma.
+-Estudio de Shunt D-I:  por DTC negativo basal y tras Valsalva
+-ECG-Holter 72h: sin detección de arritmias potencialmente embolígenas.
+-TC craneal de control 12h: Conclusión: Hiperdensidad en surco post-central parietal derecho, sugestivo de foco de transformación hemorrágica con discreto efecto de masa sobre estructuras adyacentes. Sin nuevos focos de infarto.
+
+Informe d'alta d'hospitalització
+
+
+
+
+-TC craneal de control 24h: CONCLUSION: Estudio TC craneal de control que muestra mejoria de la hiperdensidad parietotemporal e insular derecha, probablemente relacionada con acúmulo de contraste post-procedimiento intervencionista, sin poder descartar algunos focos detransformación hemorrágica, en cualquier caso con disminución respecto a estudio previo.
+Hipodensida corticosubcortical de circonvolución postcentral derecha, en relación a lesión isquémica subaguda.
+
+EVOLUCIÓ CLÍNICA
+Paciente con los antecedentes referidos derivado desde el _SS_ (Divas _SS_ estropeado) por signo M2 hiperdensa. A su llegada hemodinámicamente estable con NIHSS 7. Se realiza TC multimodal con ASPECTS 8, oclusión M2 y mistmach radiológico por lo que se decide tratamiento intraarterial primario.
+Llega a sala a las 8:14. Punción 8.25. 1º serie 8.32 que confirma oclusión M2. Se realiza 1º pase a las 8:45 consiguiéndose recanalización parcial, persistiendo trombo a nivel de M2. Se decide por ello realizar un 2º pase a las 8:52 consiguiéndose recanalización completa TICI 2C. Hemodinámicamente estable durante el mismo, NIHSS 5 al finalizar el procedimiento a expensas de disartria (1), PFSN I (2), anestesia EII (1), extinción I (1), claudicación sensitiva ESI. Se realiza Xpert CTque muestra HSA ligera. Ingresa en la Unidad de Ictus para control evolutivo.
+A su llegada a la Unidad de Ictus hemodinámicamente estable y afebril, con un NIHSS de 3+1 a expensas de paresia facial, disartria y Miller-Fisher izquierdo. El ECG de entrada muestra ritmo sinusal con T negativas en III y cara anterolateral (no disponemos de pevios para comparar), siendo negativos los marcadores de daño miocárdico. Al poco de su llegada refiere diplopia vertical binocular a la infra-levoversión compatible con paresia del IV pc derecho, sin otra nueva focalidad, por lo que realizamos TC craneal de control para descartar complicaciones, que muestra hiperdensidad en surco post-central parietal derecho, sugestivo de foco de transformación hemorrágica con discreto efecto de masa sobre estructuras adyacentes. El paciente se mantiene estable con resolución del cuadro de diplopia a las horas. Posteriormente, se realiza tac de control de las 24 horas que muestra mejoria de la hiperdensidad parietotemporal e insular derecha, probablemente relacionada con acúmulo de contraste post-procedimiento intervencionista, sin poder descartar algunos focos de transformación hemorrágica, en cualquier caso con disminución respecto a estudio previo e hipodensida corticosubcortical de circonvolución postcentral derecha, en relación a lesión isquémica subaguda.
+Se solicita analítica de ingreso y para completar estudio etiológico se realiza ECG-Holter de 72h sin detección de arritmias potencialmente embolígenas; Ecoscopia cardíaca sin fuentes embolígenas; y estudio de Shunt D-I negativos.
+Durante su estancia el paciente presenta mejoría clínic importante y estabilidad hemodinámica, por lo que se decide alta hospitalaria y control en consultas externas de Neurovascular. Se mantiene con antiagregación y estatinas a dosis altas. Se solicita de manera ambulatoria ETE y estudio de trombofilias para completar estudio en ictus indeterminado.
+Al alta NIHSS 1 y rankin 1.
+
+
+
+DIAGNÒSTICS
+Infarto ACM derecha de etiología indeterminada
+
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Dieta sin grasas. Ejercicio físico que tolere. Abandono de hábito tabáquico.
+
+Informe d'alta d'hospitalització
+
+
+
+
+-	SUSPENDER Adiro y omeprazol
+
+-	Clopidogrel 75 mg al dia
+-	Pantoprazol 40 mg al dia
+-	Atorvastatina 80 mg al dia
+
+-	Resto de tratamiento sin cambios: Acfol 5mg 1/24h, Paracetamol 1g si precisa.
+
+CONTROL
+-	Control estricto de FRCVpor MAP
+
+-	Visita control en las consultas externas en la 3ª planta anexos del _SS_ el día 4 abril del 2018 a las 10:30h.
+
+-	Será avisado para realización de estudio de trombofilias (CEX de Hematología) y para realización de ecografia transesofágica (ETE) en gabinete de Cardiología en la 2ª planta anexos del _SS_, por lo que deberá acudir en ayunas y acompañado.
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+
+
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+30.10.2017
+Pàgina 1 de 4

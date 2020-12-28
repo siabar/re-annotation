@@ -1,0 +1,175 @@
+
+
+
+
+
+Informe d'Alta Hospitalària	Cognoms i nom:
+_NAME_	NHC:
+_ID_
+	ABS:
+_SS_	CIP:
+_ID_	DNI:
+_ID_
+	Data de naixement:
+_DATE_	Sexe:
+Dona	Edat:
+60a	Telèfon:
+_CONTACT_
+	Finançament:
+CatSalut - _LOCATION_	Procedència:
+URGÈNCIES
+	Admissió:
+26.02.2017 - 12:47	Servei:
+NEURO - UNITAT ICTUS HOSP	Data entrada urg.:
+26.02.2017 - 08:31
+Adreça:
+_LOCATION_	Població:
+_LOCATION_	Codi Postal:
+_LOCATION_
+
+
+
+Motivo de Ingreso
+Mujer de 60 años que ingresa por hematoma intraparenquimatoso.
+
+
+ANTECEDENTES
+-	Alérgica  a  furantoïna,  sulfamidas,  claritromicina,  esparadrapo  y  marisco. Reacción  adversa  a  AINEs (sensación de opresión torácica y aumento de volumen de miembros inferiores unos días después ).
+-	Hábitos tóxicos: Fumadora activa de 10 cig/día desde los 27 años. Enol ocasional.
+-	Factores  de  riesgo  cardiovascular:  no  hipertensión  arterial  conocida;  refiere  controles  esporádicos correctos. No DM ni DLP conocidas.
+-	No patología cardio-neumo-hepato-renal conocidas.
+-	Obesidad con realización de cirugía bariátrica (By pass gástrico) en 2012 en _SS_.
+-	Déficit de vitamina B12 en tratamiento con B12 intramuscular mensual.
+-	Hipotiroidismo secundario a tiroidectomìa total en 2004 por bocio.
+-	Carcinoma in situ de mama diagnosticado hace 3 años, tratado con cirugía y radioterapia posterior. En remisión completa.
+-	Carcinoma de cérvix uterino CIN I a los 28 años tratado con criocoagulación.
+-	Miomas uterinos.
+-	Artropatía. Lumbago, con protusión discal L5-S1
+-	Episodios de vértigos tratados con serc puntual.
+-	Tratorno psiquiátrico (seguimiento  en CSMA, informa de brote psicótico paranoide) en tratamiento con aripiprazol, trazodona y citalopram.
+-	Antecedentes  quirúrgicos:   Tiroidectomía  en   2004;   By   pass   gástrico   en   2012   cirugía   obesidad.; Apendicectomía a lo 18 años. Quiste ovárico a los 18 años. Amigdalectomía en la infancia.
+-	Antecedentes familiares: madre con hidrocefalia. Padre fallecido de neoplasia gástrica a los 82 años. Tía paterna fallecida de neoplasia de mama a los 65 años. Niega antecedentes de enfermedad cerebrovascular.
+-	Sociofuncional: Administrativa. Vive con su marido. autónoma para actividades básicas e instrumentales de la vida diaria. mRS=0
+-	Tratamiento actual: Eutirox 150 microgr/día, hidroferol 1 ampolla/2 semanas, Optovite 1 ampolla/mensual, Abilify 5 mg 1 comp/día, akineton 1 comp/día,  deprax 100 mg/día, prisdal 20 mg 1 comp/día
+
+ENFERMEDAD ACTUAL
+Mujer de 60 años que es traída a urgencias de nuestro centro como código ictus extrahospitalario el día 26.02.
+
+
+Según cuenta el marido de la paciente, el día 25.02 por la noche salieron a cenar a un restaurante y al llegar a casa la paciente se encontraba muy mareada y empezó a vomitar. Aproximadamente a la 01:30 se empezó a quejar que no podía mover bien el hemicuerpo izquierdo y se lateralizaba al caminar. No obstante decidió acostarse. Por la mañana del 26.02 a las 08:00 cuando su  marido ha ido a  despertarla se ha encontrado a la paciente con alteración de la articulación del habla e incapacidad para movilizar el hemicuerpo izquierdo motivo por el cual avisa al SEM. Se activa código ictus extrahospitalario.
+
+EXPLORACIÓN FÍSICA
+En Urgencias
+-	148/85 mmHg, 45 lpm,  INR <1.
+-	AC: TCR, bradicardia. No ausculto soplos.
+-	AR: MVC, no roncus ni sibilantes.
+-	Somnolienta. Disartria. Desviación de la mirada primaria a la derecha, paresia facial central izquierda y hemiplejia izquierda.
+-	NIHSS de 1+0+0+1+2+1+(0+4)+(0+4)+0+1+0+1+1=16.
+
+En Unidad de Ictus
+-	Somnolienta. Ojos cerrados pero apertura a la orden. Orientada en ETP. Disartria leve, no afasia. Anosognosia. Desviacion ocular a la derecha. Paresia facial central izquierda. Hemiparesia 1/5 BC izquierda. RCP extensor izquierdo. Hipoestesia hemicuerpo izquierdo.
+-	NIHSS: 1.0.0.1.0/1.(0+3)(0+3)/0.1.0.1.2 = 13
+
+En sala de Neurología y al alta
+-	Vigil,  orientada  en  espacio  y  persona,  parcialmente  en  tiempo  (falla  día),  atención  algo  fluctuante, colaboradora.
+-	Lenguaje fluido sin rasgos disfásicos, disartria leve.
+-	PICNR. MOEs no limitados. Campimetría sin alteraciones. Sin nistagmos. No skew.
+-	Paresia facial central izquierda. Trigémino s-m sin alteraciones. Pares craneales bajos sin alteraciones.
+-	Paresia braquio (3/5) crural (4/5) izquierda. Hofman negativo. RCP extensor bilateral.
+-	Sin dismetrías desproporcionadas a la paresia.
+-	Sin asimetrías en la sensibilidad táctil y algésica.
+-	Sin extinciones.
+-	NIHSS: 0.0.0.0.0/1.(0.1).(0.1)/0.1.0.1.0 = 5.
+
+
+EXPLORACIONES COMPLEMENTARIAS
+-	Analítica urgente: Sodi 139 mmol/L ( 136 - 145 ) Potassi 3,46 mmol/L ( 3,50 - 5,10 ) Glucosa 9,5 mmol/L (
+3,0 - 6,0 ) 171,00 mg/100mL Urea 4,6 mmol/L ( 2,9 - 8,2 ) 28 mg/100mL Creatinina 62 µmol/L ( 0 - 80 ) 0,69
+mg/100mL AST (GOT) 28 U/L ( 0 - 31 ) ALT (GPT) 32 U/L ( 0 - 31 ) Hemoglobina 128 g/L ( 120 - 150 )
+Hematòcrit 0,39 L/L ( 0,35 - 0,45 ) Hematies 4,73 x10E12/L ( 3,90 - 5,00 ) VCM 82,7 fL ( 80,0 - 98,0 ) CCMH
+
+327 g/L ( 320 - 360 ) HCM 27,1 pg ( 27,0 - 32,0 ) RDW 12,0 % ( 12,0 - 15,0 ) Plaquetes 197 x10E9/L ( 140 -
+350 ) VPM 7,2 fL ( 7,0 - 10,5 ) Plaquetòcrit 0,20 % Leucòcits 13,44 x10E9/L ( 3,80 - 11,00 ) Neutròfils 93,4
+% Neutròfils absoluts 12,54 x10E9/L ( 1,80 - 7,00 ) Eosinòfils 0,0 % Eosinòfils absoluts 0,00 x10E9/L ( 0,05 - 0,50 ) Basòfils 0,1 % Basòfils absoluts 0,02 x10E9/L ( 0,00 - 0,10 ) Monòcits 2,8 % Monòcits absoluts 0,38 x10E9/L ( 0,30 - 1,00 ) Limfòcits 3,7 % Limfòcits absoluts 0,50 x10E9/L ( 1,00 - 4,00 ) Temps de tromboplastina 0,91 RATIO ( 0,75 - 1,30 ) Temps de protrombina 1,08 INR ( 0,75 - 1,20 ) Temps de trombina 20,60 s ( 17,00 - 24,00)
+-	Analítica control: Sodi 140 mmol/L ( 136 - 145 ) Potassi 3,50 mmol/L ( 3,50 - 5,10 ) Calci 2,23 mmol/L (
+2,15 - 2,55 ) 8,92 mg/100mL Fosfat 0,97 mmol/L ( 0,87 - 1,45 ) 3,00 mg/100mL Glucosa 6,9 mmol/L ( 3,0 -
+6,0 ) 124,20 mg/100mL Urea 3,6 mmol/L ( 2,9 - 8,2 ) 22 mg/100mL Creatinina 54 µmol/L ( 0 - 80 ) 0,61
+mg/100mL Bilirubina total  11  µmol/L  (<  17)  0,64  mg/100mL Triglicèrids 0,59  mmol/L (<  1.65)  52,22
+mg/100mL Colesterol 4,20 mmol/L (< 6.2) 162,54 mg/100mL AST (GOT) 22 U/L ( 0 - 31 ) ALT (GPT) 22 U/L
+( 0 - 31 ) Fosfatasa alcalina 89 U/L ( 35 - 110 ) GGT 11 U/L ( 0 - 43 ) Proteïna total 56,0 g/L ( 64,0 - 83,0 )
+Albúmina 39,3 g/L ( 34,0 - 48,0 ) Hemoglobina 115 g/L ( 120 - 150 ) Hematòcrit 0,35 L/L ( 0,35 - 0,45 )
+Hematies 4,16 x10E12/L ( 3,90 - 5,00 ) VCM 82,9 fL ( 80,0 - 98,0 ) CCMH 333 g/L ( 320 - 360 ) HCM 27,6
+pg ( 27,0 - 32,0 ) RDW 12,2 % ( 12,0 - 15,0 ) Plaquetes 170 x10E9/L ( 140 - 350 ) VPM 7,4 fL ( 7,0 - 10,5 )
+Plaquetòcrit 0,20 % Leucòcits 11,35 x10E9/L ( 3,80 - 11,00 ) Neutròfils 85,3 % Neutròfils absoluts 9,68
+x10E9/L ( 1,80 - 7,00 ) Eosinòfils 0,1 % Eosinòfils absoluts 0,01 x10E9/L ( 0,05 - 0,50 ) Basòfils 0,1 %
+Basòfils absoluts 0,01 x10E9/L ( 0,00 - 0,10 ) Monòcits 5,2 % Monòcits absoluts 0,59 x10E9/L ( 0,30 - 1,00 )
+Limfòcits 9,3 % Limfòcits absoluts 1,06 x10E9/L ( 1,00 - 4,00 ) Hb glicosilada (HbA1c) 5,4 % ( 4,6 - 5,8 ) Temps de tromboplastina 0,89 RATIO ( 0,75 - 1,30 ) Temps de protrombina 1,09 INR ( 0,75 - 1,20 ) Temps de trombina 20,10 s ( 17,00 - 24,00 )
+-	ECG: bradicardia sinusal (44 lpm) sin alteraciones agudas de la repolarización.
+-	TC cerebral urgente: hematoma putaminal derecho, con extensión a pálido y cabeza de caudado, abierto al sistema ventricular (hasta el cuarto ventrículo). Ligero edema perilesional y efecto de masa sobre el ventrículo lateral derecho, con una desviación de la línea media de 6 mm a la izquierda.
+-	Angio-TC intracerebral: el estudio angio-TC intracraneal no muestra alteraciones en las principales arterias intracraneales, ni se aprecian vasos anómalos en relación con el hematoma previamente descrito. Conclusión: Hematoma de ganglios basales derechos abierto a ventrículos, sin evidencia de alteraciones en el estudio angio-TC intracraneal.
+-	TC craneal de control: el estudio comparativo no muestra cambios significativos en las dimensiones del hematoma profundo derecho abierto a sistema ventricular ni en el grado de herniación subfalcial hacia la izquierda (6 mm), con mínimo edema perilesional y con pequeños focos de HSA en la convexidad cerebral frontoparietal izquierda. Conclusión: TC de control que no muestra cambios significativos respecto a la TC previa.
+-	Sedimento de orina: leucocituria y Gram con flora variada. Urino cultivo positivo para múltiples microorganismos.
+-	RM cerebral: Algunas de las secuencias han quedado subóptimas por el movimiento de la paciente. En relación al hematoma profundo capsuloganglionar derecho no se aprecian signos de resangrado ni aumento de su efecto masa sobre estructuras de linea media, persistiendo un discreto edema perilesional y una herniación subfalcial hacia la izquierda de 6-7 mm aprox. con obliteración parcial del asta frontal derecha y del tercer ventrículo y mínima dilatación del asta temporal izquierda sin cambios. El hematoma
+
+tiene extensión capsular hacia corona radiata y distalmente hacia unión mesencefálica. En relación al componente hemorrágico intraventricular no se aprecian nuevos hallazgos ni signos de complicación. No se aprecian microsangrados crónicos en otras localizaciones. La secuencia angiográfica resulta subóptima por el movimiento con una irregularidad mural de Willis anterior que no se corresponde con el angioTC previo.
+CONCLUSION: RM craneal que no muestra nuevos hallazgos respecto a los estudios previos en relación al hematoma profundo derecho, persistiendo una herniación subfalcial hacia la izquierda de 6-7 mm, sin otros focos de sangrado agudo ni crónico ni otras alteraciones significativas.
+- Ecocardiograma TT: Ventrículo izquierdo no dilatado con ligera hipertrofia limitada al septo basal. Función sistólica global y segmentaría conservadas. Raíz aórtica y porción proximal de aorta ascendente no dilatadas. Válvula aórtica tricúspide morfológicamente y  funcionalmente normal.Válvula mitral morfológicamente normal con ligera regurgitación. Aurícula izquierda no dilatada. Membrana de la fosa oval móvil hacia aurícula izquierda, sin cumplir criterios de aneurisma. Ventrículo derecho no dilatado, con contractilidad global conservada. Insuficiencia tricuspídea ligera que permite descartar hipertensión pulmonar en reposo. Vena cava inferior no dilatada.Ausencia de derrame pericárdico.
+
+EVOLUCIÓN
+En Urgencias
+A su llegada a urgencias la paciente se encuentra hemodinámicamente estable (normotensa), afebril y normoglicémica. A la exploración neurológica destaca un síndrome hemisférico derecho puntuando un NIHSS de 16. Se realiza TC cerebral urgente en el que se evidencia una hemorragia lenticular derecha con invasión intraventricular y desplazamiento de la linea media. Se realiza angioTC intracraneal en el que no se aprecian signos de MAV. En el ECG se aprecia bradicardia sinusal.
+El cuadro se orienta como una hemorragia intracerebral profunda lenticular derecha de causa indeterminada (posible hipertensiva por localización, pero la paciente no era hipertensa conocida) abierta al sistema ventricular. Se comenta el caso con Neurocirugía que descarta la necesidad de DVE.
+Ingresa en la Unidad de Ictus para manejo diagnóstico y control evolutivo.
+
+En Unidad de Ictus
+En la unidad de ictus permanece hemodinámicamente estable, aunque requirió algún bolus putual de urapidilo (2 en total por TAS en torno a 160), se inicia tratamiento hipotensor oral. No supera el test de disfagia por lo que se coloca sonda nasogástrica que pudo ser retirada posteriormente. Realizó fisioterapia con buena tolerancia.
+La TC craneal de control realizado a las 10h del ingreso aprox. muestra estabilidad del hematoma y del efecto de masa.
+Clínicamente presentó una mejoría progresiva desde el punto de vista de la focalidad neurológica; presentó además una cefalea intensa que requirió tratamiento con polterapia endovenosa de primer y segundo escalón. Como incidencias presentó una infección de orina por múltiples microorganismos (posible contaminación) por la que se inició tratamiento con augmentine.
+Dada la estabilidad mostrada se decidió traslado a sala de Neurología.
+
+
+En sala de Neurología
+La paciente permaneció hemodinámicamente estable con niveles de tensión en rango objetivo. Clínicamente presentó a su traslado paresia facial central izquierda, disartria leve y paresia braquio-crural izquierda, puntuando un 5 en la NIHSS.
+Permanece normotensa, por lo que se retira tratamiento antihipertensivo, persistiendo cifras de TA normales más de 5 días.
+De cara a completar el estudio diagnóstico se decidió solicitar RM cerebral, que no evidencia microsangrados ni patología subyacente y ecografía transtorácica que descarta la presencia de hipertrofia significativa sugestivas de hipertensión crónica.
+Se mantiene con adecuados controles de la TA sin necesidad de fármacos y, a nivel neurológico, evoluciona favorablemenete.
+
+En resumen, se trata de una mujer de 60 años con dudoso diagnóstico de HTA (sin fármacos antihipertensivos desde hace años) que presenta un hematoma espontáneo profundo, sin encontrarse signos directos ni indirectos de HTA. (requirió las primeras 48 horas fármacos antihipertensivos por algún pico aislado de HTA, pero el resto del ingreso se mantuvo normotensa sin necesidad de medicación). El estudio RM cerebral y angio-TC descarta causas secundarias. Por tanto, se orienta como hematoma profundo de posible origen hiperetensivo. Ante la duda sobre el diagnóstico etiológico, se decide programas neuroimagen (RM cerebral) a los 3 meses.
+
+Se decide alta a _SS_ para continuar rehabilitación. Al alta, mRs=3, NISHSS=5
+
+
+PROCEDIMIENTOS
+-	Electrocardiograma.
+-	Analítica sanguínea.
+-	TC craneal.
+-	AngioTC craneal.
+-	RM cerebral.
+-	Ecocardiograma transtorácica.
+
+
+DIAGNÓSTICOS
+-	Hemoragia	cerebral intraparenquimatosa  profunda putaminal derecha con extensión intraventricular  de posible etiología hipetensiva
+-	Infección del tracto urinario no complicada
+-	Hipotiroidismo
+-	Sd. depresivo
+-	Carcinoma de mama en remisión completa
+
+
+RECOMANACIONES AL ALTA
+Tratamiento al alta (sin cambios)
+-	Eutirox 150 microgr/día,   hidroferol 1 ampolla/2 semanas, Optovite 1 ampolla/mensual, Abilify 5 mg 1
+comp/día, akineton 1 comp/día,  deprax 100 mg/día, prisdal 20 mg 1 comp/d Estricto control de la TA, mantiendo cifras de TA<140/90
+Acudir de realización de RM cerebral programada Acudir a visita de control según cita adjunta
+
+Responsable clínic: Dr. _NAME_ (NºCol. _ID_)
+Equip mèdic: Dra. _NAME_ (NºCol.  _ID_), Dr. _NAME_  (NºCol.  _ID_), _NAME_ (NºCol. _ID_)
+
+Servei que ha donat d'alta:
+NEURO - UNITAT ICTUS HOSP	Data d'alta:
+15.03.2017	Nom del metge que informa de l'alta:
+Dra. _NAME_ (NºCol. _ID_)
+
+
+_LOCATION_, 15.03.2017
+Pàg. 1 de   6

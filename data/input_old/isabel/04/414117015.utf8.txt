@@ -1,0 +1,63 @@
+Pàgina 1/2INFORME D'ASSISTÈNCIA/ALTA
+
+
+Núm. HC	CIP o pòlissa	Data ingrés	Data alta
+_ID_	_ID_	05/09/2017 01:49	08/09/2017
+Nom i cognoms	Edat	Sexe
+_NAME_	81	Dona
+Adreça	Telèfon
+_LOCATION_	_CONTACT_
+Metge/essa responsable	Servei	Habitació
+_NAME_	Medicina Interna	_ID_
+Destinació a l'alta
+Domicili
+
+
+
+
+Pacient de 81 anys que és portada per trastorn del llenguatge i desviació de la comissura bucal.
+
+ANTECEDENTS
+-	Sense al·lèrgies medicamentoses conegudes ni hàbits tòxics.
+-	Intervinguda de cataractes. Glaucoma crònic.
+-	HTA essencial.
+-	Ingressada el 2015 per AVC isquèmic (sdme sensitivo-motora esquerra + disàrtria), amb recuperació ad integrum. Antiagregada amb aspirina.
+*	AngioRMN: Infart lacunar crònic talàmic esquerre. Malaltia de petit vas.
+*	EcoTSA: Sense estenosis vasculars significatives.
+* Ecocardiograma: Ventricle esquerre no dilatat, lleument hipertrofiat i amb funció sistòlica global i segmentària preservades. Ventricle dret no dilatat i normocontràctil. Aurícula esquerra lleument dilatada. Sense alteracions valvulars significatives.
+-	Cognitivament bé i autònoma per a les tasques quotidianes.
+-	Tractament habitual: Tromalyt 300, ramipril/HCTZ, omeprazol, citalopram.
+
+MALALTIA ACTUAL
+Consulta per quadre d'1 hora d'evolució caracteritzat per trastorn del llenguatge compatible amb disàrtria i desviació de la comissura bucal.
+
+EXPLORACIO FISICA
+TA 180/90, FC 110x', 36ºC. Conscient, orientada. Estat general conservat. AR: MV conservat. AC: Arítmic, sense bufs ni signes d'insuficiència cardíaca. Abdomen tou i depressible, no dolorós ni visceromegàlies. No edemes. NRL: Disàrtria, paràl·lisi facial supranuclear esquerra, sense altres dèficits motors ni sensitius, oculomotricitat extrínseca conservada, RCP en flexió bilateral (NIHSS 2).
+
+PROVES COMPLEMENTARIES
+Analítica: Glucèmia, ions, funció renal i bioquímica hepàtica dintre la normalitat, Hb 12, leucòcits 6.000 (45S, 44L9, plaquetes 225.000, Quick 93%.
+ECG: Fibril·lació auricular a 110x', eix a 30º, sense signes d'isquèmia ni alteracions en la conducció.
+RX tòrax: Sense infiltrats.
+TC cranial: Atròfia. Infart lacunar crònic talàmic dret.
+AngioRMN: Infarts lacunars antics a nuclis talàmics posteriors drets, capsulolenticular esquerre i periatrial esquerre. Atròfia global. Estudi angiogràfic intra i extracranial sense estenosis significatives.
+
+EVOLUCIO
+La pacient es queda queda asimptomàtica en els primers 60 minuts, orientant-se doncs com a AIT de probable origen cardioembòlic. S'inicia tractament anticoagulant oral amb Sintrom, sense incidències. Es donada d'alta per seguir controls a la Consulta Externa de Neurologia.
+
+DIAGNOSTICS
+-	AIT de probable origen cardioembòlic.
+-	Fibril·lació auricular.
+-	HTA.
+
+TRACTAMENT
+-	Sintrom 4mg segons pauta.
+-	Ramipril/HCTZ 5/25mg: 1 comprimit al dia.
+-	Omeprazol 20mg: 1 comprimit al dia.
+-	Citalopram 20mg: 1 comprimit al dia.
+-	Lumigan: 2 gotes al dia.
+-	Retirar Tromalyt. Atentament,
+
+Metge/essa: _NAME_ Núm. col·legiat/da: _ID_
+Signatura
+
+D'acord amb la Llei Orgànica de Protecció de Dades, les vostres dades personals seran incorporades a un fitxer informatitzat, el titular del qual és el _SS_ i que té com a finalitat exclusiva disposar de les dades personals dels pacients per a usos medicosanitaris. El ciutadà té dret a exercitar l'accés, la rectificació, l'oposició i la cancel·lació d'aquestes dades personals.

@@ -1,0 +1,25 @@
+T1	Fecha_de_alta 15 25	09-11-2018
+#1	AnnotatorNotes T1	2018-11-09
+T2	SECCION_DIAGNOSTICOS 27 39	Diagnosticos
+T3	Ictus_isquemico 52 66	ECVA isquémica
+T4	Arteria_afectada 70 94	territorio indeterminado
+T5	Localizacion 70 94	territorio indeterminado
+T6	_SUG_Etiologia 98 121	etiología indeterminada
+T7	Etiologia 108 121	indeterminada
+T8	_SUG_Localizacion 170 177	lacunar
+T9	SECCION_PROCEDIMIENTOS 256 270	Procedimientos
+T10	SECCION_MOTIVO_DE_INGRESO 331 348	Motivo de ingreso
+T11	SECCION_ANTECEDENTES_PATOLOGICOS 498 518	Antecedentes Médicos
+T12	SECCION_SITUACION_FUNCIONAL 548 563	Situación basal
+T13	SECCION_ANTECEDENTES_QUIRURGICOS 1404 1407	IQx
+T14	SECCION_TRATAMIENTO_HABITUAL 1581 1605	Tratamiento domiciliario
+T15	SECCION_PROCESO_ACTUAL 2126 2135	Anamnesis
+T16	Fecha_llegada_hospital 2185 2195	01/11/2018
+#16	AnnotatorNotes T16	2018-11-01
+T17	Hora_inicio_sintomas 2991 2996	22.30
+#17	AnnotatorNotes T17	22:30
+T18	SECCION_EXPLORACION_FISICA 3183 3194	Exploración
+T19	SECCION_EXPLORACIONES_COMPLEMENTARIAS 4487 4521	Resultados pruebas complementarias
+T20	SECCION_ANTECEDENTES_PERSONALES 7345 7368	ANTECEDENTES PERSONALES
+T21	SECCION_EVOLUCION 8405 8427	Evolución Hospitalaria
+T22	SECCION_TRATAMIENTO_Y_RECOMENDACIONES_AL_ALTA 10026 10063	Recomendaciones y tratamiento al alta

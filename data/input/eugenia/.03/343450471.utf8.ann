@@ -1,0 +1,96 @@
+T1	Fecha_llegada_hospital 329 339	13/02/2017
+#1	AnnotatorNotes T1	2017-02-13
+T2	Hora_llegada_hospital 340 345	11:33
+#2	AnnotatorNotes T2	11:33
+T3	FECHA 396 406	14/02/2017
+#3	AnnotatorNotes T3	2017-02-14
+T4	HORA 407 412	03:04
+#4	AnnotatorNotes T4	03:04
+T5	Fecha_de_alta 450 460	01/03/2017
+#5	AnnotatorNotes T5	2017-03-01
+T6	Hora_de_alta 461 466	10:58
+#6	AnnotatorNotes T6	10:58
+T7	_SUG_Lateralizacion 607 608	I
+T9	Fecha_inicio_sintomas 1803 1808	13.02
+#9	AnnotatorNotes T9	2017-02-13
+T10	_SUG_Lateralizacion 1894 1901	derecho
+T11	_SUG_Lateralizacion 2048 2055	derecha
+T12	_SUG_Ataque_isquemico_transitorio 2096 2101	ICTUS
+T13	_SUG_Lateralizacion 2408 2415	derecha
+T14	HORA 2834 2838	0.35
+#14	AnnotatorNotes T14	00:35
+T15	HORA 3091 3096	01:12
+#15	AnnotatorNotes T15	01:12
+T16	HORA 3130 3135	01:13
+#16	AnnotatorNotes T16	01:13
+T17	_SUG_Localizacion 3160 3167	parcial
+T18	HORA 3174 3179	01:07
+#18	AnnotatorNotes T18	01:07
+T19	HORA 3239 3244	12:48
+#19	AnnotatorNotes T19	12:48
+T20	HORA 3685 3690	01:48
+#20	AnnotatorNotes T20	01:48
+T21	HORA 3753 3758	07:46
+#21	AnnotatorNotes T21	07:46
+T22	_SUG_Lateralizacion 4472 4473	D
+T23	_SUG_Lateralizacion 4474 4475	E
+T24	_SUG_Lateralizacion 4553 4556	esq
+T25	_SUG_Etiologia 4569 4581	ateromatosis
+T26	_SUG_Lateralizacion 4590 4593	esq
+T27	_SUG_Lateralizacion 4840 4849	izquierda
+T30	FECHA 6276 6281	13.02
+#30	AnnotatorNotes T30	2017-02-13
+T31	_SUG_Ataque_isquemico_transitorio 6299 6304	ICTUS
+T32	Hora_inicio_sintomas 6353 6354	8
+#32	AnnotatorNotes T32	8:00
+T33	HORA 6385 6390	13:17
+#33	AnnotatorNotes T33	13:17
+T34	_SUG_NIHSS 6391 6398	NIHSS 8
+T35	_SUG_TAC_craneal 6411 6414	TAC
+T36	_SUG_TAC_craneal 6470 6478	angiotac
+T37	_SUG_Arteria_afectada 6509 6525	arteria carótida
+T38	_SUG_Lateralizacion 6534 6543	izquierda
+T39	_SUG_Arteria_afectada 6596 6605	carotidea
+T40	TAC_craneal 6632 6634	TC
+T41	_SUG_Lateralizacion 6706 6715	izquierdo
+T42	_SUG_Trombolisis_intravenosa 6758 6778	tratamiento con RPTA
+T43	_SUG_Arteria_afectada 6904 6913	carotídea
+T44	_SUG_Lateralizacion 6914 6923	izquierda
+T45	FECHA 7808 7813	14.02
+#45	AnnotatorNotes T45	2017-02-14
+T46	HORA 7961 7966	12:35
+#46	AnnotatorNotes T46	12:35
+T47	_SUG_Lateralizacion 8017 8024	derecho
+T48	HORA 8090 8095	07:27
+#48	AnnotatorNotes T48	07:27
+T49	FECHA 8180 8185	21.02
+#49	AnnotatorNotes T49	2017-02-21
+T50	_SUG_Lateralizacion 8750 8751	e
+T52	Arteria_afectada 9174 9177	ACM
+T53	Lateralizacion 9178 9187	Izquierda
+T55	_SUG_NIHSS 9234 9241	NIHSS 8
+T56	_SUG_Lateralizacion 9281 9288	derecha
+T57	_SUG_Lateralizacion 9314 9321	derecho
+T58	NIHSS_alta 9342 9349	NIHSS 1
+T59	_SUG_Arteria_afectada 9689 9698	carotídea
+T61	FECHA 10214 10224	01/03/2017
+#61	AnnotatorNotes T61	2017-03-01
+T62	SECCION_TIPO_DE_INGRESO 413 427	Tipus d'ingrés
+T63	SECCION_DIAGNOSTICO_PRINCIPAL 544 564	Diagnòstic principal
+T64	SECCION_DIAGNOSTICOS_SECUNDARIOS 623 645	Diagnòstics Secundaris
+T65	SECCION_PROCEDIMIENTOS 812 824	Procediments
+T66	SECCION_ANTECEDENTES 963 974	Antecedents
+T67	SECCION_ANTECEDENTES_PATOLOGICOS 977 994	Malalties prèvies
+T68	SECCION_SITUACION_FUNCIONAL 1449 1467	Situació funcional
+T69	SECCION_PROCESO_ACTUAL 1630 1645	Història Actual
+T70	SECCION_EXPLORACION_FISICA 2104 2121	Exploració física
+T71	SECCION_EXPLORACIONES_COMPLEMENTARIAS 2418 2446	Resum proves complementàries
+T72	SECCION_EVOLUCION 5825 5846	Evolució i comentaris
+T73	SECCION_TRATAMIENTO_AL_ALTA 9887 9897	Tractament
+T8	NIHSS_previa 6391 6398	NIHSS 8
+#7	AnnotatorNotes T8	8
+T28	Fecha_de_ingreso 329 339	13/02/2017
+#8	AnnotatorNotes T58	1
+T29	Ictus_isquemico 655 667	AVC ISQUEMIC
+T51	Arteria_afectada 9189 9210	Estenosis critica ACI
+T60	Tratamiento_antiagregante_alta 9910 9913	AAS

@@ -1,0 +1,173 @@
+_LOCATION_ Tel. _CONTACT_
+e-mail: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 68 Anys
+NIF/DNI: _ID__NAME_; _NAME_;
+ _NAME_; _NAME_; _NAME_;
+Informe d'alta d'hospitalització
+CP	_LOCATION_
+ABS	_SS_
+Servei	NEUROLOGIA
+Data d'alta  03.03.2017	15:32:47
+_LOCATION_
+_CONTACT_; _CONTACT_
+DOMICIL/RES.SOC 27.02.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Ictus isquémico ACM izquierda.
+
+ANTECEDENTS
+No alergias medicamentosas conocidas. Hábito tabáquico y enólico grave activo.
+Independiente para actividades básicas de la vida diaria, mRS 0. Médico, jubilado, especialista en anatomía patológica.
+
+Patológicos:
+-	Hipertensión arterial sin seguimiento.
+-	Bronquitis crónica, sin estudio espirométrico.
+-	TCE con  fractura  temporal  derecha, neumoencéfalo y hematoma subdural  con  ingreso  en Neurocirugía  y tratamiento conservador en 2012.
+-	TCE con fractura de huesos propios de la nariz en Octubre 2012.
+-	Otosclerosis derecha.
+-	No intervenciones quirúrgicas.
+-	Proceso infeccioso de vías respiratorias hace 1 semana con toma de antibiótico (no se sabe cual, autorecetado), con buena evolución.
+
+MEDICACIÓ HABITUAL
+No refiere.
+
+PROCÉS ACTUAL
+Varón de 67 años, visto bien por úlrima vez el 27.02.2017 a la 1:00h de la mañana, es encontrado por la mañana del 27.02.2017 sobre las 10:00h con hemiplejia derecha y ausencia de emisión de lenguaje. Se avisa a SEM que activa código ictus a las 10:35h, llega a nuestro centro a las 10:57h.
+
+EXPLORACIÓ FÍSICA
+
+FC	130 bpm
+Tªaxi 36.7 ºC
+FR	24 rpm Tªrec  ºC
+TA s	172 mmHg SAT O2 98 %
+TA d   72 mmHg Pes Kg
+
+En Urgencias:
+Glucemia 137 mg/dL.
+AC: Taquiarrítmico. AP: Hipofonesis bibasal, sin ruidos sobreañadidos. Abdomen: Globuloso, blando, depresible, no doloroso. EEII: Mínimo edema maleolar sin fóvea, no signos de TVP.
+NRL: Vigil. Afasia global. Isocoria normorreactiva. Hemianopsia homónima derecha por amenaza. Preferencia oculocefálica a la izquierda, cruza la línea media. Hemiparesia derecha, plejia de ESD, 1/5 en EID,con tono. Aparente hemihipoestesia táctil derecha.
+NIHSS: 0,2,2,1,2//2,4,0,4,0//0,1,3,2,0=23.
+
+Informe d'alta d'hospitalització
+
+
+
+
+
+En Unidad de Ictus Agudo:
+Pacient vigil, afàsia global, obeeix 1 ordre senzilla, no emet llenguatge, desviació oculocefàlica a la esquerre que creua linea mitja, hemianopsia homònima dreta per reflexes d'amenaça, hemiparèsia dreta greu, lleu contracció musculatura dista de la ma dreta i proximal de la cama dreta. Hemihipoestesia greu dreta. RCP  indiferent esquerre, Babinski dret.
+NIHSS 0.2.2.1.2//2.4.0.4.0//0.1.3.2.0=23.
+
+EXPLORACIÓ COMPLEMENTÀRIA
+En Urgencias:
+
+- Analítica:
+Hemograma: Leucocitos 14700 (83% neutrófilos, 10% linfocitos), Hemoglobina 15.5 g/L, VCM 101 fL, Plaquetas
+418000.
+Coagulación: TP 13.1s, 77%, ratio 1.21, INR 1.21; TTPA 30.9s, ratio 1; fibrinógeno 1027 mg/dL.
+Bioquímica: Glucosa 137 mg/dL, Urea 37 mg/dL, Creatinina 0.95 mg/dL, Sodio 128 mmol/L, PCR 163.7 mg/L.
+Etanol: <0.10 mg/dL.
+
+-	ECG: Fibrilación auricular a 130 lpm.
+
+-	Rx tórax: Poco penetrada. Leves infiltrados algodonosos bilaterales con pinzamiento de seno costo-frénico izquierdo.
+
+-	RM multiparamétrica (27.02.2017): Difusión: restricción de la difusión cortical que afecta a casi la totalidad del territorio superficial de la ACM izquierda, afectando cortical fronto basal, frontal insular y temporo parietal. Volumen difusión: 175 ml, ASPECTS: 3. La secuencia de susceptibilidad magnética muetra pequeño foco hemorrágico crónico en área córtico subcortical temporal derecha. Estudios angiográficos: se aprecia un stop en segmento M1 distal preservandose el origen de las arterias perforante. Se aprecia contraste intraluminal distal a la oclusión en probable relación a vascularización colateral. Perfusión: se evidencia un retraso del TTP que afecta la totalidad del territorio afectado por la restricción de la difusión. Conclusión: Estudio craneal que muestra lesion isquémica aguda que afecta casi la totalidad del territorio vascular superficial de la ACM izquierda por oclusión distal del segmento M1 de la ACM izquierda sin mismatch difusión-perfusión TTP.
+
+En Unidad de Ictus Agudo:
+
+-Analítica:
+·	Hemograma: Leucocitos 12900 (79.7% neutrófilos, 7.4% linfocitos), Hemoglobina 13.8 g/dL, VCM 99.5 fL, Plaquetas 384000.
+·	Bioquímica: Glucosa 119 mg/dL, Hemoglobina glicosilada 5%, Proteína 56.5 g/L, Albúmina 30.6 g/L, Urea 36 mg/dL, Creatinina 1.03 mg/dL (FG 74), Urato 6.4 mg/dL, Calcio 9 mg/dL, Fosfato 3.3 mg/dL, Magnesio 2.05 mg/dL, Sodio 130.3 mmol/L, Potasio 4.5 mmol/L, Cloruro 95.7 mmol/L, Bilirrubina 0.99 mg/dL, Fosfatasa alcalina 58 U/L, ALT 36 U/L, GGT 31 U/L, LDH 609 U/L, CK 166 U/L, PCR 135.2 mg/L.
+·	Perfil lipídico: Triglicéridos79 mg/dL, Coelsterol 164 mg/dL, HDL 23.8 mg/dL, LDL 124 mg/dL.
+·	Proteinograma: Discreta hipoalbuminemia.
+· TSH: 2.13.
+
+-	Orina:
+-	
+Informe d'alta d'hospitalització
+
+
+
+
+·	Bioquímica: Urea 1905 mg/dL, Creatinina 188.6 mg/dL, Osmolalidad 860 mOsm/Kg, Sodio 69 mmol/L, Potasio 70 mmol/L.
+·	Urianálisis: Desndiad 1.031, pH 6, Proteína 30 mg/dL, Glucosa 0, Acetoacetato 30 mg/dL, Bilirrubina 0, Hemoglobina 0.5 mg/dL, Urobilinógeno 4 mg/dL, Nitritos negativos, Esterasa leucocítica 25. Escasas bacterias,
+>100 hematíes/campo, 10-20 leucocitos/campo.
+·	Urocultivo: Pendiente.
+
+-	Ecocardiograma transtorácico: Ventricle esquerre lleugerament dilatat i no hipertròfic .Amb hipocinesia global i Funció sistòlica moderada-severament deprimida. FE Simpson estimat de 35%. Aurícula esquerra lleugerament dilatada. Insuficiencia mitral lleugera. Insuficiència aòrtica lleugera ++.
+
+- TC craneal de control (01.03.2017): Extensa hipoatenuación frontotemporoparietal e insular izquierda, compatible con infarto isquémico agudo establecido de ramas superficiales de ACM izquierda, con leve efecto masa sobre sistema ventricular con obliteración parcial del VL izquierdo. Obliteración completa de surcos subaracnoideos hemisféricos izquierdos.
+
+EVOLUCIÓ CLÍNICA
+Varón de 68 años con antecedentes de hipertensión arterial, bronquitis crónica y tabaquismo y enolismo activos, sin ningún tratamiento farmacológico, que es traída vía código ictus a nuestro centro el 27.02.17 por hemiparesia derecha, con nueve horas de evolución tras ser visto asintomático por última vez.
+
+A su llegada a nuestro centro se encuentra hipertenso (172/112mmHg), un electrocardiograma muestra fibrilación auricular rápida de cronología incierta y una analítica presenta elevación de reactantes de fase aguda e hiponatremia leve. Se realiza RM multiparamétricaen la que se observa importante lesión isquémica hemisférica izquierda de predominio cortical (ASPECTS 3) con oclusión M1 (arteria carótida interna extracraneal izquierda sin estenosis) y sin mismatch, por lo que (teniendo en cuenta horas de evolución y criterios de tratamiento actuales) se descartan el tramiento fibrinolítico y endovascular. Se orienta como un ictus isquémico de territorio arteria cerebral media izquierda de etiología probablemente cardioembólica y se decide ingreso en Unidad de Ictus Agudo        para estudio etiológico y control hemodinámico, neurológico y metabólico.
+
+Durante su estancia en la unidad presenta hipertensión arterial moderada por la que se inicia losartan 50mg cada 24 horas. Ha requerido una dosis puntual de digoxina para control de frecuencia cardíaca, con resto de constantes dentro de la normalidad sin requerir insulina. En la monitorización de observa ritmo de fibrilación auricular permanente, sin otras alteraciones significativas.
+
+Como parte del estudio etiológico se realizó analítica completa en la que se observa leve hipoalbuminemia, discreta hiponatremia y elevación de LDH (609 U/L), con un LDL colesterol de 124 mg/dL, por lo que se inicia atorvastatina 20mg. Se solicitó ecocardiograma transtorácico en el que se muestra una hipocinesia difusa con FE de 35% (podría estar en relación a posible miocardiopatíadilatada). Se ha continuado tratamietno con amoxicilina/clavulánico 2g cada 8 horas por proceso respiratorio, que se disminuye a 1g cada 8 hroas al alta; y se ha iniciado tratamiento con tiamina 200mg cada 8 horas endovenosa.
+
+El TC craneal de control realizado a las 24 horas muestra un infarto cerebral isquémico de territorio superficial de ACM I con leve sufusión hemorrágica sin evidencia de edema cerebral.
+
+Informe d'alta d'hospitalització
+
+
+
+
+
+Desde el punto de vista neurológico, presenta persistencia de la clínica con afasia mixta grave, hemianopsia derecha, plegia braquial derecha y paresia grave crural derecha, con paresia leve central facial derecha; puntuando un NIHSS de 022.02/1(40)(20)/00320 = 18. Tolera dieta oral y sedestación en sillón. Ha iniciado logopedia y fisioterapia.
+
+Dada la estabilidad clínica actual se solicita traslado a hospital de referencia para completar estudio, iniciar anticoagulación diferida (7-10 día) tras realización de neuroimagen de control y suspender aspirina 300mg; y proseguir rehabilitación.
+
+Al alta: NIHSS 18, mRS 5, Barthel 20.
+
+DIAGNÒSTICS
+-	Ictus isquémico de ACM izquierda de etiología cardioembólica probable (TACI).
+-	Fibrilación auricular permanente de cronología incierta.
+-	Miocardiopatía dilatada con fracción de eyección del 35% de eitología probablemente multifactorial.
+-	Abuso de alcohol.
+-	Infección respiratoria de vías bajas en resolución con tratamiento antibiótico.
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+-	Dieta cardiosaludable
+-	Sedestación en sillón
+-	Rehabilitación motora y logopedia.
+-	Atorvastatina 20mg cada 24 horas VO
+-	Tiamina 200mg cada 8 hroas EV o VO
+-	Aspirina 300mg cada 24 horas VO hasta inicio de anticoagulación (entonces suspender).
+-	Amoxicilina/clavulánico 1g cada 8 horas EV o VO
+-	Omeprazol 20mg cada 24 horas VO
+-	Losartan 50mg cada 24 horas VO
+-	Enoxaparina 40mg cada 24 horas SC
+
+CONTROL
+-	Control en neurólogo de zona
+-	Control de facotres de riesgo cardiovascular en médico de cabecera.
+
+DESTINACIÓ A L'ALTA:	HOSP. AGUTS/PSQ
+
+
+
+
+
+
+
+
+
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+03.03.2017
+Pàgina 1 de 4

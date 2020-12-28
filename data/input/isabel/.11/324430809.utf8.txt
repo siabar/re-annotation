@@ -1,0 +1,124 @@
+_LOCATION_
+_LOCATION_) Anul·lació/Reprogramació visites:_CONTACT_
+Telèfon Centraleta: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 36 Anys
+NIF/DNI: _ID__NAME_;; _NAME_;
+ _NAME_
+Informe d'alta d'hospitalització
+17:34:41
+17.01.2017
+_LOCATION_
+_SS_
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_; _CONTACT_; _CONTACT_
+DOMICIL/RES.SOC 09.01.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+ictus
+
+ANTECEDENTS
+No alergias medicamentosas conocidas
+No fumador ni enol. Ex-consumidor cocaína y marihuana. Niega consumo actual.
+FRCV: DM2 desde 2010, debut con cetoacidosis. Desde entonces insulinodependiente.  Ingreso en 2011 por abandono de tto, actualmente en tto con Insulina Glargina (34UI) + ADOs. HTA y DLP.
+- Ictus isquémico en 2015 (clínica de hemiparesia D). Se inició AAS, abandono de la medicación.
+-No cardineumopatias conocidas IQ: Herniorrafia derecha 2004
+Antecedentes familiares:  Padre y abuelo con IAM a los 60 años. Situación basal: mRankin 0.
+
+MEDICACIÓ HABITUAL
+Enalapril 10mg 1/24h, Simvastatina 20mg 1/24h. Gliclazida 60 mg/24h, Metformina 850 mg/8h, Glargina 34 UI/24h.
+
+PROCÉS ACTUAL
+Paciente varón de 36 años que ayer (08 de Enero) se va a dormir a las 20:00h, se despierta a las 22:00h, en ese momento se encuentra mareado y con pérdida de fuerza en hemicuerpo izquierdo pero no avisa. A las 04:00h se levanta para ir al WC con persistencia del déficit motor. Acudir al CAP a las 09:00h. Niega dolor torácico, disnea ni palpitaciones. A la valoración por el SEM presenta TA 198/115 mmHg, DTX:132, a nivel NRL se objetiva déficit senstivo-motor izquierdo. Se activa código ictus vía SEM a las 09:30h. Llega UCIEs de nuestro centro.
+
+A su llegada paciente con TA 190/105mmHg, FC 74lpm, afebril, SpO 100%, DXT 106. Por monitor en RS. A nivel NRL se encuentra consciente, orientado en TEP (dice mes y edad), PICNR, MOEs y campimetría por confrontación sin alteraciones, no alteración del habla ni del lenguaje (nomina 5/5, evoca 5/5, repite correctamente), obedece 2 órdenes simples, PFSN D (1+ residual?), hemiparesia B 5-/5 con Milton Alter y MF I, C 4/5 I (1), hipoestesia FBC izq (1) con desaferentización, sin agnosias. RCP flexor bilateral. NIHSS 2 (+1 residual?).
+
+Se realiza analítica sin alteraciones. ECG en RS a 72lpm, Eje 0º PR 0.08s QRS 0.12s , sin alteraciones agudas en la repolarización. Se realiza TC craneal, perfusión y angioTc sin oclusiones de gran vaso, sin infarto establecido y sin alteraciones en estudio de perfusión. Se orienta como Sd sensitivo motor izquierdo (LACI D) en paciente con FRCV. Se decide ingreso en NRL (Unidad Ictus) para completar estudio y control evolutivo.
+
+EXPLORACIÓ FÍSICA
+
+TA 157/98 mmHg, Fc 74 lpm, SatO2 100%, Afebril
+NRL:  consciente,  orientado en  TEP (dice  mes y edad), PICNR, MOEs  y campimetría  por confrontación  sin alteraciones, no alteración del habla ni del lenguaje (nomina 5/5, evoca 5/5, repite correctamente), obedece 2
+
+Informe d'alta d'hospitalització
+
+
+
+
+órdenes simples, PFSN D (residual?), hemiparesia B 5-/5 con Milton Alter y MF I, C 5-/5 I, hipoestesia FBC izq (1) con desaferentización, sin agnosias. RCP flexor bilateral. NIHSS 1 (+1 residual).
+AR: murmullo vesicular conservado. AC: tonos rítmicos, no soplos. No IY
+ABD: blando y depresible, no masas ni visceromegalias. EEII: no edemas, no signos de TVP
+
+EXPLORACIÓ COMPLEMENTÀRIA
+PRUEBAS REALIZADAS EN URGENCIAS:
+Analitica:
+Equilibri acid bàsic (venós): pH 7.332, pCO2 55mmHg, pO2 27.5mmHg, HCO3 28.3mmol/L, EB 1.7mmol/L, fr. satO2 48%
+Bioquímica: urea 5.4mmol/l, creatinina 61umol/L, glucosa 6.3mmol/L, Na 140mmol/L, K 4.26mmol/l Coagulació: TTPA 1.18 , TP 1.06
+Hemograma:  Hb 153g/L, Htc 44%, VCM 82fL, plaquetas 255x10E9/L, leucocitos 7.1x10E9/L(PMN 63.5%, Limfos 24.8%)
+TC craneal, perfusión craneal, AngioTC craneal y angioTC TSA: El estudio sin contraste muestra una imagen sublenticular izquierda hipodensa sugestiva de corresponder a dilatación de espacio perivascular. Se observa otra área de hipodensidad de morfología algo más irregular en cuerpo del núcleo caudado izquierdo compatible con infarto lacunar antiguo. A nivel del brazo posterior de la cápsula interna derecha y, en menor medida, del centro semioval derecho se observa una área de tenue hipodensidad parenquimatosa que no muestra una clara traducción en el estudio de perfusión, el cual no muestra asimetrías valorables. En el estudio vascular se observan lesves lesiones ateromatosas en el origen de ambas arterias vertebrales y en la arteria carótida primitiva izquierda. A nivel de las bifurcaciones carotídeas no se observan estenosis valorables. El estudio intracraneal muestra correcta permeabilidad de las arterias intracraneales sin imágenes sopechosas de defectos de repleción o de formaciones aneurismásticas. Senos venosos también permeables.
+ECG:   RS a 72bpm Eje 0º   PR 0.08s   QRS 0.12s   Buena progresión de la R, no Q's, no alteraciones de la repolarización
+Rx  tórax:  marco  óseo  conservado,  inspirada,  penetrada,  centrada.  Senos  costofrénicos  no  pinzados.  No condenaciones parenquimatosas. ICT<0'5.
+
+Pruebas en NRL:
+-Analítica: Función hepática con GGT x3, tiroidea y renal conservada, Hipercolesterolemia con LDL elevado, HDL disminuido (colesterol totl 5.93 mmol/L, LDL 4.23 mmol/; TG normal. HbA1c 6.7%. Tiempos de coagulación, hemograma y iones normales. Proteinograma normal. ANAs y ANCAs negativos. Perfil antifosfolípidos Negativo.
+Serologías Negativas.
+-EcocardiogramaTT: Ventrículo izquierdo no dilatado ni hipertrófico, con función sistólica conservada y sin alteraciones segmentarias de la contractilidad. Ventrículo derecho no dilatado, normocontráctil. Aurícula izquierda y raíz aórtica no dilatadas. Válvula aórtica trivalva, sin estenosis ni regurgitación. Válvula mitral normal. No se detecta regurgitación tricuspídea. Flujo pulmonar normal, que sugiere la presencia de presión pulmonar no elevada. Vena cava inferior no dilatada y móvil. Sin derrame pericárdico. **No se encuentra evidencia de foramen oval permeable tras administrar suero salino agitado y no observarse paso de burbujas a cavidades izquierdas, ni de forma basal ni con maniobra de Valsalva.
+-	RMN Cerebral: Infarto lacunar agudo en brazo posterior de cápsula interna derecha. Infartos lacunares antiguos en corona radiata y lenticulo-capsular externo izquierdos.
+-	
+Informe d'alta d'hospitalització
+
+
+
+EVOLUCIÓ CLÍNICA
+Paciente de 36 años ingresado por Sd sensitivo-motor I. NIHSS 2(+1 residual). En la monitorización en urgencias no se detectan arritmias. Tensiones bien controladas con medicación. En planta evoluciona correctamente, con mejoría a nivel NRL.
+Se realiza analítica en la que destaca mal control lipídico y glucémico. Durante el ignreso se logra adecuado control de glicemias con dieta diabética e hipoglicemiantes orales. Se realiza ecoardiograma que es normal. Se realiza RMN cerebral con Infarto lacunar agudo en brazo posterior de cápsula interna derecha.
+
+A nivel NRL consciente, orientado en TEP (dice mes y edad), PICNR, MOEs y campimetría por confrontación sin alteraciones, no alteración del habla ni del lenguaje (nomina 5/5, evoca 5/5, repite correctamente), obedece 2 órdenes simples y complejas, PFSN D (residual), hemiparesia B 5-/5 con Milton Alter y MF I, C 5-/5 I, sin alteraciones en la sensibilidad, sin agnosias. RCP flexor bilateral. NIHSS 1 residual.
+
+Se orienta como ictus minor LACI de etiología lacunar, en paciente con FRCV conocidos (HTA, DM, DL). Se antiagrega con aspirina (no estaba tomando por voluntad propia). NIHSS 1 residual a expensas de sutil asimetría facial que impresiona de PFSN D. Pendiente Holter 24h. Recomendamos control por NRL de zona.
+
+DIAGNÒSTICS
+436/5 Ictus
+
+PROCEDIMENTS
+93.14 Entrenament de moviments articulars
+89.09 Consulta, no especificada de cap altra manera
+88.72 "Ultrasó diagnòstic de cor; Ecocardiografia transesofàgica"
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+-	TROMALYT 300mg. 1 comprimido cada día.
+-	AMLODIPINO 10mg. 1 comprimido cada día.
+-	ENALAPRIL 20 mg. 1 comprimido cada día.
+-	METFORMINA 850mg. 1 comprimido cada 12 horas.
+-	SIMVASTATINA 80mg. 1 comprimido cada noche.
+
+CONTROL
+Por Neurólogo de zona.
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+
+
+
+
+
+
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+17.01.2017
+Pàgina 1 de 3

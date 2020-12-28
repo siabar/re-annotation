@@ -1,0 +1,113 @@
+I.CLINIC DE NEUROCIÈNCIES NEUROLOGIA
+_NAME_	NHC: _ID_
+
+
+Sexo/Sexe: Fem.	Fecha nac./Data naix.: _DATE_	Edad/Edat: 76 años Dirección/Adreça: _LOCATION_	CP: _LOCATION_
+Municip. (Prov.): _LOCATION_  ABS:_SS_	Tel.:_CONTACT_
+As.: SERVEI CATALA DE LA SALUT	CIP: _ID_	NASS: _ID_
+Nº epis.: _ID_	Tipo/Tipus: HOSPIT.	Inici.: 07.07.2017
+Serv: NEUROLOGIA	UO Enf.: I064 SALA G DE NEUROL. INTE   Hora: 19:25:55 Facult. de ref.: _NAME_
+
+
+
+
+Tipo ingreso/Tipus ingrés: Urgent	Motivo/Motiu alta: Dom. Familiar
+Diag.:
+ICTUS ISQUÉMICO CÁPSULO-TALÁMICO DERECHO () ANOMALÍA DEL DESARROLLO VENOSO FRONTAL IZQUIERDA () INFECCIÓN DEL TRACTO URINARIO POR C. KOSERI MULTIS ()
+Proc.:
+ANALÍTICA SANGUÍNEA. UROCULTIVO. () ECG. MONITORIZACIÓN. ()
+RADIOGRAFÍA DE TÓRAX ()
+TC MULTIMODAL. TC CEREBRAL DE CONTROL. () RM CEREBRAL Y ANGIO-RM INTRACRANEAL () ECOSCAN ()
+
+
+
+
+INFORME CLÍNICO ALTA / INFORME CLÍNIC ALTA
+
+Motivo de consulta / Motiu de consulta
+Mujer de 76 traída por el SEM como código ictus por hemiplejia izquierda.
+
+Antecedentes e historia previa / Antecedents i història prèvia Mujer de 76 años independiente para las actividades de la vida diaria (mRS: 1). Cuidadora principal de su marido con discapacidad física severa. Alérgia al ácido acetilsalicílico. No otras alergias medicamentosas conocidas. No hábitos tóxicos.
+
+*ANTECEDENTES PATOLÓGICOS:
+
+1.	HIPERTENSIÓN ARTERIAL en tratamiento farmacológico.
+
+2.	DISLIPEMIA en tratamiento farmacológico.
+
+3.	OSTEOPOROSIS.
+
+4.	ACCIDENTE ISQUÉMICO TRANSITORIO en septiembre de 2016 en forma de síndrome hemimotor derecho.
+
+*TRATAMIENTO HABITUAL: omeprazol 20 mg/24h; clopidogrel 75 mg/24h; dipiridamol 100 mg/24h; hidroclorotiazida 25 mg/24h; simvastatina 40
+
+
+mg/24h; diazepam 2,5 mg PRN; sertralina 50 mg/24h; paracetamol 1 g/12h; calcio + colecalciferol 500 mg/400 UI/24h; losartan 12,5 mg/24h.
+
+Proceso actual / Procés actual
+Esstando previamente bien, después de comer, de forma súbita, el marido nota que no le puede responder adecuadamente y pierde la fuerza en el hemicuerpo izquierdo. El marido no ha podido acompañarle, pero al parecer él ha avisado a otro familiar que la ha encontrado con ese
+déficit neurológico y ha avisado al SEM.
+
+Exploración física / Exploració física
+07/07/2017-19:57:00: Frecuencia respiratoria (rpm) 17, PAS (mm Hg) 145, PAD (mm Hg) 105, Pulsioximetría (%) 100. 07/07/2017-23:00:00 : Tª axilar (ºC) 36.4. 08/07/2017-01:00:00 : Glicemia capilar (mg/dl) 113. 10/07/20 17-15:00:00 : FiO2 (%) 21.
+Somnolienta, ojos cerrados que abre a la orden, parcialmente orientada (falla el día). Preferencia visual a la derecha, aunque completa la excursión a la izquierda. No hay claros déficits campimétricos por confrontación. El lenguaje es muy disártrico con algún rasgo afásico. Hemiparesia facio(moderada)-braquio(0/5)-crural(1/5) izquierda, anestesia hemicorporal izquierda. NIHSS 17.
+
+Laboratorio / Laboratori
+*ANALÍTICA SANGUÍNEA: PCR 0.53 mg/dL. Glucosa 95 mg/dL. Creatinina 0.72 mg/dL; filtrado 82 mL/min. Úrico 6.1 mg/dL. Colesterol total 165 mg/dL; TG 129 mg/dL; LDL 84 mg/dL; HDL 55 mg/dL. Hemograma y hemostasia sin alteraciones. HbA1c 5.8%.
+
+*UROCULTIVO: positivo para Citrobacter koseri multi-sensible.
+
+Radiología / Radiologia
+*RX TÓRAX: sin focos de consolidación ni otros hallazgos sugestivos de patología aguda.
+
+*TC MULTIMODAL:  - TC CRANEAL BASAL: ASPECTS 10. Imagen lacunar de aspecto crónico en caudado izquierdo. Hipodensidad sugestiva de infarto crónico en la zona mas caudal del hemisferio cerebeloso derecho. - TC PERFUSIÓN: se observa una pequeña zona de retraso en el TTP y aumento en el CBV y del CBF a nivel frontal izquierdo inespecífica. - ANGIO-TC EXTRA E INTRACRANEAL: Aislados focos de ateromatosis calcificada en arco aórtico. Pequeños focos de ateromatosis calcificada en bifurcaciones, que no condicionan estenosis significativa.
+
+*TC CRANEAL DE CONTROL: hipodensidad sugestiva de infarto crónico en la zona mas caudal del hemisferio cerebeloso derecho. Hipodensidad corticosubcortical parasagital frontal izquierda de aspecto crónico en probable relación con infarto crónico. Signos de leucoaraiosis periventricular en probable relación con microangiopatía crónica.
+
+*RM CEREBRAL Y ANGIO-RM INTRACRANEAL: infarto lacunar agudo-subagudo capsulotalamico derecho con transformacion hemorragica y minimo edema vasogenico asociado. Cambios residuales paravermianos derechos y a nivel cortico-subcortical frontal mediosagital izquierdo, en probable relacion  con infartos antiguos. Imagenes sugestiva de infartos lacunares antiguos infratentoriales izquierdos. Focos de hiperseñal en la sustancia blanca subcortical, en probable relacion con cambios secundarios a microangiopatia. Anomalia del desarrollo venoso frontal izquierda. En el estudio angio-RM intracraneal arterial se aprecia una variante fetal de la ACP derecha.
+
+Exploraciones complementarias / Exploracions complementàries
+*ECG: ritmo sinusal sin alteraciones en la repolarización.
+
+
+
+
+*ECOSCAN: sin patología cardioembolígena.
+
+Evolución / Evolució
+1.	ICTUS ISQUÉMICO CÁPSULO-TALÁMICO DERECHO CON TRANSFORMACIÓN HEMORRÁGICA PH1.
+2.	ANOMALÍA DEL DESARROLLO VENOSO FRONTAL IZQUIERDO.
+A su llegada al hospital hemodinámicamente estable y afebril. En la exploración neurológica se aprecia síndrome hemisférico derecho extenso (NIHSS: 17). Analítica sanguínea sin alteraciones. ECG en ritmo sinusal sin alteraciones en la repolarización. La neuroimagen (TC y RM cerebral) evidencia ictus isquémico agudo cápsulo-talámico derecho con transformación hemorrágica PH1 y una anomalía del desarrollo venoso frontal izquierda. El estudio vascular (angio-RM) no muestra estenosis significativas. Estudio cardíaco (ecoscan) sin evidencia de patología cardioembólica. Monitorización >48h en unidad de ictus sin trastornos del ritmo cardíaco.
+Se trata de un ictus isquémico cápsulo-talámico derecho en una paciente con factores de riesgo cardiovascular. Al no haber contraindicaciones se realiza fibrinólisis con bolus y perfusión de rtPA con mejoría clínica hasta quedar asintomática. El TC de control no muestra sangrado, por lo que se mantiene antiagregación con clopidogrel (alergia a AAS).
+Durante su estancia en la unidad de ictus la paciente evoluciona de forma favorable, sin apreciarse focalidad neurológica en la exploración. Dada la estabilidad se decide alta domiciliaria con controles por parte de neurología y realización de un ecocardiograma transtorácico y un holter-ECG ambulatorios.
+Al alta: NIHSS: 0;   TOAST: indeterminado (estudio completo);   mRS: 1.
+
+3.	INFECCIÓN DEL TRACTO URINARIO POR CITROBACTER KOSERI MULTISENSIBLE.
+Durante su ingreso en la unidad de ictus se realiza urocultivo positivo para Citrobacter koseri multisensible. Se inicia antibioterapia con ceftriaxona y se indica tratamiento domiciliario con cefixima.
+
+Plan terapéutico / Pla terapèutic
+-	Cefixima 100 mg/12h 6 días. - Pantoprazol 40 mg/24h. - Clopidogrel 75 mg/24h. - Hidroclorotiazida 25mg/24h. - Simvastatina 40 mg/24h. - Diazepam 2,5 mg/24h si precisa. - Sertralina 50 mg/24h. - Paracetamol 1 g/12h. - Calcio + colecalciferol 600 mg/400 UI/24h: - Losartan 12,5 mg/24h. - Retirar dipiridamol.
+
+Otras recomendaciones / Altres recomanacions
+-	Acudirá a consultas con la Dra. _NAME_ del servicio de Neurología. Se adjuntan citaciones. - Realizará ecocardiograma y holter-ECG ambulatorios. Se adjuntan citaciones. - Se recomienda control estricto de los factores de riesgo cardiovascular por parte de su CAP de referencia.
+
+
+
+Firma/Signatura1: _NAME_	Firma/Signatura2: _NAME_ Categoría: Resident 2	Categoría: Especialista
+Nº Matrícula HCP: _ID_	Nº Matrícula HCP: _ID_
+
+Fecha/Data Informe: 11.07.2017
+Hora Informe: 15:33:29
+
+Docum.: _ID_
+Hist. Clínica: _ID_
+El _SS_ ha incorporado sus datos al Fichero de Pacientes, para tratarlos con fines sanitarios.
+Puede ejercer sus derechos de acceso, rectificación, cancelación y oposición, así como obtener mas información en la Unidad de Atención al Cliente.
+Vers. 00
+Pag. 2 de
+3
+Episod.: _ID_
+_SS_ ha incorporat les seves dades al Fitxer de Pacients, per a tractar-los amb finalitats sanitàries. Pot exercir els seus drets d'accés, rectificació, cancel·lació i oposició, i obtenir més informació a la Unitat d'Atenció al Client.
+_SS_
+_LOCATION_) _LOCATION_) Tel. _CONTACT_ Fax _CONTACT_
+http://_CONTACT_/

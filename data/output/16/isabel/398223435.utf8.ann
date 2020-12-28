@@ -1,0 +1,29 @@
+T1	_SUG_Trombolisis_intravenosa 340 347	rtPA el
+T2	Fecha_trombolisis_rtPA 348 353	26/07
+#2	AnnotatorNotes T2	2017-07-26
+T3	SECCION_ANTECEDENTES 356 367	Antecedents
+T4	SECCION_TRATAMIENTO_HABITUAL 556 575	Tractament habitual
+T5	SECCION_PROCESO_ACTUAL 889 904	Malaltia actual
+T6	_SUG_TAC_craneal 1391 1394	TAC
+T7	_SUG_TAC_craneal 1549 1560	TAC craneal
+T8	_SUG_Trombolisis_intravenosa 1766 1773	rTPA ev
+T9	Hora_primer_bolus_trombolisis_rtPA 1780 1785	17:55
+#9	AnnotatorNotes T9	17:55
+T10	_SUG_TAC_craneal 1951 1962	TAC craneal
+T11	_SUG_TAC_craneal 2430 2441	TAC craneal
+T12	_SUG_TAC_craneal 2539 2546	craneal
+T13	_SUG_Trombolisis_intravenosa 2760 2764	rTPA
+T14	_SUG_Trombectomia_mecanica 2769 2781	trombectomía
+T15	_SUG_TAC_craneal 2835 2846	TAC craneal
+T16	_SUG_Trombolisis_intravenosa 2860 2864	rTPA
+T17	SECCION_EXPLORACIONES_COMPLEMENTARIAS 3194 3222	Exploracions complementàries
+T18	TAC_craneal 3231 3243	TC de cráneo
+T19	_SUG_TAC_craneal 4043 4045	TC
+T20	_SUG_TAC_craneal 4089 4091	TC
+T21	SECCION_EXPLORACIONES_COMPLEMENTARIAS_EN_PLANTA_DE_NEUROLOGIA 4169 4187	Analítica d'ingrés
+T22	SECCION_EVOLUCION 5037 5045	Evolució
+T23	SECCION_DIAGNOSTICOS 5416 5427	Diagnòstics
+T24	_SUG_Trombolisis_intravenosa 5504 5520	Fibrinolisi rtPA
+T25	Trombolisis_intravenosa 5504 5515	Fibrinolisi
+T26	SECCION_TRATAMIENTO_AL_ALTA 5574 5584	Tractament
+T27	SECCION_CONTROL 5771 5778	Control

@@ -1,0 +1,21 @@
+T1	SECCION_DIAGNOSTICO_PRINCIPAL 27 39	Diagnosticos
+T2	SECCION_PROCEDIMIENTOS 157 171	Procedimientos
+T3	SECCION_MOTIVO_DE_INGRESO 209 226	Motivo de ingreso
+T4	SECCION_ANTECEDENTES_PATOLOGICOS 361 381	Antecedentes Médicos
+T5	SECCION_SITUACION_FUNCIONAL 463 478	Situación basal
+T6	mRankin_previa 487 495	mRS 0 [2
+T7	mRankin_previa 487 492	mRS 0
+#7	AnnotatorNotes T7	0
+T8	mRankin_previa 487 496	mRS 0 [2]
+T9	NIHSS_previa 487 495	mRS 0 [2
+T10	SECCION_TRATAMIENTO_HABITUAL 611 635	Tratamiento domiciliario
+T11	SECCION_PROCESO_ACTUAL 700 709	Anamnesis
+T12	SECCION_EXPLORACION_FISICA 2163 2174	Exploración
+T13	SECCION_EXPLORACIONES_COMPLEMENTARIAS_EN_URGENCIAS 3468 3495	Analítica Sanguínea urgente
+T14	SECCION_EXPLORACIONES_COMPLEMENTARIAS 3681 3715	Resultados pruebas complementarias
+T15	SECCION_EVOLUCION 4620 4642	Evolución Hospitalaria
+T16	SECCION_TRATAMIENTO_AL_ALTA 5330 5367	Recomendaciones y tratamiento al alta
+T17	Tratamiento_anticoagulante_alta 5551 5562	Enoxaparina
+T18	Fecha_de_alta 15 25	11-01-2018
+#18	AnnotatorNotes T18	2018-01-11
+T19	Ataque_isquemico_transitorio 130 138	isquemia

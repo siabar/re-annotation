@@ -1,0 +1,152 @@
+IC DE MEDICINA I DERMATOLOGIA G044 SALA G DE MALALT. INFECC.
+_NAME_	NHC: _ID_
+
+
+Sexo/Sexe: Fem.	Fecha nac./Data naix.: _DATE_	Edad/Edat: 84 años Dirección/Adreça: _LOCATION_		CP: _LOCATION_
+Municip. (Prov.): _LOCATION_  ABS:_SS_		Tel.:_CONTACT_ FILLA As.: SERVEI CATALA DE LA SALUT	CIP: _ID_	NASS: _ID_
+Nº epis.: _ID_	Tipo/Tipus: HOSPIT.	Inici.: 11.05.2017 Serv: MALALTIES INFECCIOSES	UO Enf.: G044 SALA G DE MALALT. INFE  Hora: 10:13:12 Facult. de ref.: _NAME_
+
+
+
+
+Tipo ingreso/Tipus ingrés: Urgent	Motivo/Motiu alta: Dom. Familiar
+Diag.:
+SINDROME FEBRIL AUTOLIMITADO () AIT ()
+HIPERTIROIDISMO ()
+Proc.:
+ANALÍTICA SANGUÍNEA () PUNCIÓN LUMBAR ()
+TAC CRANEAL Y ANGIOTAC ()
+
+
+
+
+INFORME CLÍNICO ALTA / INFORME CLÍNIC ALTA
+
+Motivo de consulta / Motiu de consulta
+Alteración del lenguaje.
+
+Antecedentes e historia previa / Antecedents i història prèvia
+Mujer de 84 años, sin alergias medicamentosas ni hábitos tóxicos. Independiente para la vida diaria, mRS 2.
+*ANTECEDENTES PATOLÓGICOS:
+-	HIPERTENSIÓN ARTERIAL en tratamiento farmacológico.
+-	DISLIPEMIA en tratamiento hipolipemiante oral.
+-	CARDIOPATÍA ISQUÉMICA portadora de triple by-pass.
+-	ICTUS ISQUÉMICO EN TERRITORIO DE ART. CEREBRAL MEDIA IZQ en 2015, con buena recuperación.
+*MEDICACIÓN HABITUAL: Clopidogrel 75 mg/24h; atorvastatina 40 mg/24h; bisoprolol 5 mg/24h; valsartan/hidroclorotiazida 320/12.5 mg 1 c/24h.
+
+Proceso actual / Procés actual
+Paciente última vez vista asintomática a las 19h del 10/05. A las 2- 2.30h de la mañana siguiente llama a su família por encontrarse mal. Éstos no la oyen hablar bien y la llevan a _SS_. Al llegar allí observan afasia con hemiparesia derecha, por lo que la trasladan como código ictus.
+
+Exploración física / Exploració física
+11/05/2017-19:28:00: PAS (mm Hg) 119, PAD (mm Hg) 52, Pulsioximetría (%)	100, Tª axilar (ºC) 36.7. 11/05/2017-20:13:58 : Peso (Kg) 80, Talla (cm ) 160. 15/05/2017-06:33:00 : Glicemia capilar (mg/dl) 130.
+*EXPLORACIÓN FÍSICA A SU LLEGADA A URGENCIAS
+-	NRL: Alerta, afasia: no nomina, no sigue órdenes, no repite. Reflejo por amenaza presente bilateral. Mirada conjugada sin limitaciones. Pares craneales conservados. Hemiparesia facio (leve)- braquiocrural (4/5). Sensibilidad sin alteraciones. No dismetrías.
+
+*EXPLORACIÓN FÍSICA A SU INGRESO EN SALA DE INFECCIOSAS 12.5.2017
+Consciene y orientada, Glagow 15/15. Hemodinámicamente estable, normotensa y afebril. AC: tonos rítmicos con soplo panfocal. No edemas en EII. AP: murmullo vesicular conservado sin ruidos patológicos sobreañadidos. NRL: lenguaje normofluente, discurso incoherente en ocasiones. Pares craneales conservados, sin alteraciones. Fuerza y sensibilidad conservada en 4 extremidades, sin deficitis. No signos de focalidad neurológica. No meningismo.
+
+Laboratorio / Laboratori
+*ANALÍTICA EN URGENCIAS 12/05/2017
+BIOQUÍMICA GENERAL: Proteïna C reactiva (PCR) 0.26 mg/dL, Glucosa 173/A mg/dL, Creatinina 1.50/A mg/dL, Filtrat glomerular calculat [CKD-EPI] 31.75 ml/min/, Sodi 136 mEq/, Potasi 4.3 mEq/
+-	HEMATIMETRIA: Recompte de leucòcits 7.80 10^9/, Recompte d´hematies  3.94 10^12/, Concentració d´hemoglobina 120 g/L, Hematòcrit 0.370 L/L, VCM 93.2 fl, HCM 30.5 pg, CCMH 327 g/L, RDW 13.6%, Recompte plaquetes 189 10^9/, VPM 9.3 fl, Neutròfils 87.2/A%, Limfòcits 8.3/B%, Monòcits 2.6%, Eosinòfils 0.6%, Basòfils 0.3%, LUC 0.9%, Neutròfils 6.8 10^9/, Limfòcits abs. 0.6/B 10^9/, Monòcits 0.2 10^9/, Eosinòfils abs. 0.0 10 ^9/, Basòfils 0.0 10^9/, LUC abs.0.1 10^9/
+-	HEMOSTÀSIA GENERAL: Temps de protrombina (%) 99.2%, Temps de protrombina (seg) 12.0 seg, Temps de protrombina, rati 1.01, Temps de tromboplastina parcial 22.0/B seg, INR 1.01
+*ANALÍTICA A SU INGRESO EN SALA DE INFECCIOSAS 14/5/2017
+BIOQUÍMICA GENERAL: Proteïna C reactiva (PCR) 0.40 mg/dL, Glucosa 160/A mg/dL, BUN 37/A mg/dL, Creatinina 1.16 mg/dL, FG 43 ml/min/, Colesterol total 149 mg/dL, Triglicèrids 95 mg/dL, Aspartat aminotransferasa (ASAT) 22 U/L, Alanin aminotransferasa (ALAT) 11 U/L, Gamma glutamil transpeptidasa (GGT) 18 U/L, Bilirrubina total 0.7 mg/dL, Bilirrubina directa 0.3 mg/dL, Bilirrubina indirecta 0.4 mg/dL, Fosfatasa alcalina 105 U/L, Proteïnes totals 61/B g/L, Sodi 138 mEq/L, Potasi 4.2 mEq/L
+HEMATIMETRIA: Recompte de leucòcits 6.06 10^9/L, Recompte d´hematies 3.46/B 10^12/L, Concentració d´hemoglobina 100/B g/L, Hematòcrit 0.320/B L/L, VCM 91.8 fl, HCM 28.9 pg, CCMH 315 g/L, RDW 13.3%, HDW 25.9 g/L, Hematies hipocromes 2.4%, Recompte plaquetes 194 10^9/L, VPM 8.7 fl, PDW 54.4%, Neutròfils %  87.1/A%, Limfòcits  10.2/B%, Monòcits % (analit.) 2.0%, Eosinòfils %  0.2%, Basòfils %  0.0%, LUC
+% 0.4%, Neutròfils abs. 5.3 10^9/L, Limfòcits abs. 0.6/B 10^ 9/L, Monòcits abs. 0.1 10^9/L, Eosinòfils abs.(analit.) 0.0 10 ^9/L, Basòfils abs. (analit.) 0.0 10^ 9/L, LUC abs. (analit.) 0.0 10^9/L
+*ANALÍTICA AL ALTA 19/05/2017
+-	BIOQUÍMICA GENERAL, Glucosa 129/A mg/dL, BUN 54/A mg/dL, Creatinina 1.24 mg/dL, Filtrat glomerular calculat [CKD-EPI] 40 ml/min/, Aspartat aminotransferasa (ASAT) 19 U/L, Alanin aminotransferasa (ALAT) 13 U/L, Bilirrubina total 0.5 mg/dL, Bilirrubina directa 0.2 mg/dL, Bilirrubina indirecta 0.3 mg/dL, Proteïnes totals 54/B g/L, Albúmina 31/B g/L, Sodi 140 mEq/L, Potasi 4.2 mEq/L, Clor 109/A mEq/L, Calci 8.9 mg/dL, Fósfor 3.8 mg/dL, Magnesi 1.8 mg/dL, Ferro 93 µg/dL
+-	PROTEÏNES: Prealbúmina sèrum 0.190/B g/L, Transferrina 2.2/B g/L, Capacitat total de lligar ferro 3.10 mg/L, Saturació de transferrina; sèrum 30.0
+-	AMINOÀCIDS, VITAMINES I NUCLEÒTIDS: Vitamina B12 351 pg/mL, Acid fòlic sèric 4.15 ng/mL
+- EJE TIROIDAL: Tirotropina (TSH),sèrum 0.074/B mUI/L, Tiroxina lliure (FT4),sèrum 1.51 ng/dL, Triiodetironina (T3),sèrum 0.52/B ng/mL, Anticossos anti-peroxidasa (TPOAb),sèrum <28 UI/mL, Anticosos anti- tiroglobulina (TGAb),sèru 26 UI/mL
+*SEDIMENTO DE ORINA: leucocitos +
+
+Radiología / Radiologia
+PRUEBAS DE IMAGEN 11/5/2017
+*TC CEREBRAL BASAL: No se observan imágenes de sangrado agudo intra ni extra-axial. Hipodensidad de la sustancia blanca supratentorial, de predominio periventricular, en relación a leucopatía isquémica crónica por patología de pequeño vaso. No se observan imágenes que sugieran lesión isquémica aguda evidente por TC en el estudio actual (ASPECTS 10). Ensanchamiento de los surcos cerebrales con dilatación secundaria del sistema ventricular por cambios involutivos. Estructuras de la línea media centradas. Cisternas de la base
+
+
+
+libres.
+*TC PERFUSIÓN: No se aprecian zonas de asimetría ni descenso significativo en los mapas de CBV, CBF ni TTP.
+*ANGIO-TC ARTERIAL INTRA Y EXTRA-CRANEAL: Aorta y segmentos proximales de troncos supraaórticos permeables. Origen y segmentos cervicales de las arterias carótidas internas y de las arterias vertebrales permeables. Segmentos intracavernosos y supraclinoideos de ambas ACI con placas de ateromatosis calcificada, con estenosis secundarias <30%. Principales arterias cerebrales intracraneales (ACAs, ACMs, ACPs, Basilar, V4s) permeables. Origen fetal de ACP izquierda.
+*RMN CEREBRAL 16.05.2017: Multiples focos de hiperseñal en sustancia blanca supratentorial, tanto periventricular como subcortical, en relacion con angiopatia microvascular. Signos de atrofia cerebral global. Resto de las estructuras parenquimatosas supra e infratentoriales sin otras alteraciones significativas. No se observan captaciones patologicas tras la administracion de contraste. Cisternas de la base libres. Estructuras de linea media centradas. Resto del estudio sin otras alteraciones significativas
+*ECOCARDIOGRAMA 19/5/2017: FE estimada 60%. VALVULA AORTICA: Válvula aórtica con tres velos. Ventrículo derecho de tamaño y función normal. VÁLVULA TRICÚSPIDE. Insuficiencia tricuspídea mínima. PERICARDIO-PLEURA: No existe derrame pericárdico sinusal Conclusion: Ventriculo izquierdo ligeramente hipertrófico, no dilatado y con movilidad global y segmentaria preservada. Aurícula izquierda moderadamente dilatada. Alteración de la relajación. Insuficiencia mitral ligera, váluvla ligeramente engrosada. Mínima insuficiencia aórtica, válvula trivalva con apertura normal. Mínima insuficiencia tricupídea que no permite en cálculo de la PAP. Ventrículo derecho de dimensiones y movilidad normales. Sin derrame pericárdico. VCI no dilatada.
+
+Exploraciones complementarias / Exploracions complementàries
+
+*MICROBIOLOGÍA.
+- Hemocultivo 11/5/2017: negativo  - Urinocultivo 11/5/2017: Escherichia Coli multisensible  - LÍQUIDO
+
+LÍQUIDOCEFALORAQUÍDEO:	- Cultivo LCR negativo	- VSH en LCR: indetectable	- Enterovirus
+en LCR: indetectable	- VVZ en LCR: indetectable	- VEB en LCR: indetectable	
+
+*INTERCONSULTA ENDOCRIOLOGÍA 19/05/2017: Mujer de 84 años, sin alergias medicamentosas ni hábitos tóxicos, independiente para las ABVD, con antecedentes de hipertensión arterial, dislipemia, y cardiopatía isquémica portadora de triple bypass, ictus de ACMI en 2015 con recuperación completa y demencia senil incipiente leve. Medicación habitual en domicilio: Clopidogrel 75 mg/24h, atorvastatina 40 mg/24h, bisoprolol 5 mg/24h, valsartan/hidroclorotiazida 320/12.5 mg 1 c/24h. Actualmente ingresa en Infecciones por cuadro febril y disminución del nivel de conciencia acompañado de afasia y hemiparesia de hemicuerpo derecho, con sospecha de meningoencefalitis. Interconsultan por hipertiroidismo subclínico. Se trata de una paciente sin antecedentes familiares ni patológicos de tiroidopatía, está con dexametasona 4 mg/8h, no ha tomado amiodorana ni otros fármacos que interfieran con la función tiroidea. Se realizó TC con contraste iodado el 11/05/17. A la anamensis dirigida, no clínica de hipertiroidismo (pérdida de pes o, temblores, diarreas...), clínica compresiva u ocular. A la exploración física, no se palpa bocio ni adenopatías cervicales, destaca obesidad (peso 80 kg, talla 1.60 m, IMC 31.25 kg/m2), no otros hallazgos relevantes. Tiene analítica en diciembre 2016 con perfil tiroideo normal (TSH 3.34 y FT4 1.06). La analítica actual (15/05) muestra TSH
+0.089 y FT4 1.35. Se repite analítica el 18/05/17 que muestra TSH 0.074, FT4 1.51 y T3 0.52, anticuerpos anti-TPO y anti-TG negativos, anti-TRAB en curso. OD Y PLAN: HIPERTIROIDISMO SUBCLÍNICO desencadenado por contraste iodado en paciente anciana y con cardiopatía isquémica. Recomendamos iniciar tratamiento con Tirodril 5 mg 1-0-0, analítica en 3 setmanas con función tiroidea de forma ambulatoria y derivar a Endocrino zona.
+
+Evolución / Evolució
+(ORIENTACIÓN DIAGNÓSTICA) 1.- AIT 2.- SÍNDROME FEBRIL DE PROBABLE FOCO URINARIO
+Mujer de 84 años independiente para las actividades de la vida diaria, (no sale a la calle sola por limitación
+
+
+
+funcional por artrosis de rodilla), con antecedentes de hipertensión arterial, dislipemia, y cardiopatía isquemica portadora de triple bypass. Presentó ictus de ACMI en 2015 con recuperación completa. Demencia senil incipiente leve según refiere su hija.
+Consultaron en _SS_ por afasia y disminución de fuerza del hemicuerpo derecho a predominio de brazo. La paciente fue última vez vista asintomática a las 19:00 horas del 10/05. Cuando acude su hija a domicilio se encuentra a la paciente con tiritona y escalofríos. Inicialmente fue traslada al _SS_ donde observan afasia con hemiparesia derecha por lo que la trasladan como código ictus.
+A su llegada a urgencias se encuentra hipertensa TAS 205 mmHg y febril con temperatura de 38.5ºC. En la exploración destaca anomia, sigue órdenes, no repite. Reflejo por amenaza presente bilateral. Mirada conjugada sin limitaciones. Pares craneales conservados. Hemiparesia facio (leve)- braquiocrural (4/5). Sensibilidad sin alteraciones. No dismetrías.
+Se realiza TC multimodal donde no se observan lesiones agudas en el estudio basal, angioTC sin oclusiones de gran vaso y perfusión sin alteraciones.
+En la analitica se observan reactantes de fase aguda negativo, ionograma normal, no leucitosis, hemoglobina 12 g/L, hematocrito 37%. Se realizó punción lumbar donde se obtiene líquido cefalorraquídeo con glucosa normal (hiperglicemia en analitica de 200 mg/dl), 20 celulas mm3 con 100% neutrofilos, gram negativo. No se aislan microorganismos en cultivo de LCR.
+Durante su estancia en urgencias la paciente presenta mal estado general, sudorosa, esta somnolienta con GCS 13 puntos y confusa. No rigidez de nuca. Afasia de expresión. Comprende ordenes simples. Fuerza disminuida en hemicuerpo derecho a predominio de brazo derecho. Soplo cardiaco en foco panfocal.
+A la valoración por equipo de Infecciosas la paciente se encuentra hemodinámicamente, normotensa y afebril. GCS 15, responde ordenes simples. Habla conservado con alguna falta de nominacion. Leve paralisis facial derecha (no podemos comprobar si ya presente porque no podemos hablar con familiares).
+Se inicia tratamiento antibiótico y antiviral e ingresa en sala convencional de Infecciosas con sospecha de probable meningoencefalitis. A su llegada a sala se encuentra consciente y orientada, hemodinámicamente estable, con excelente estado general. No impresiona ninguna focalidad neurológica. A la auscultación cardíaca se objetiva soplo cardíaco por lo que se realiza ecocardiograma donde se muestra FE conservada y leve insuficiencia mitral. En controles analíticos posteriores se confirma la negatividad de reactantes de fase aguda (PCR 0) y resto de parámetros analíticos normalizados.
+Dada mejoría clínica, analítica y hemodinámica de la paciente, y la recuperación completa en periodo autolimitado, así como la negatividad de las pruebas complementarias se orienta como posible AIT en paciente con antecedentes para el mismo y síndrome febril secundario a punto número 3.
+3.- INFECCIÓN DE TRACTO URINARIO (E. Coli multisensible)
+En urinocultivo realizado a su ingreso se aisla E.Coli multisensible. La paciente no ha presentado síndrome miccional ni otra sintomatología.
+3.- HIPERTIROIDISMO
+En analítica de control se objetiva alteración de eje tiroidal por lo que se solicita  interconsulta a Endocrinología, que orienta el cuadro como hipertiroidismo subclínico y recomiendan iniciar tratamiento con Tirodril 5 mg 1-0-0, analítica en 3 semanas con función tiroidea de forma ambulatoria y derivar a Endocrino zona.
+4. DÉFICIT ÁCIDO FÓLICO Y VITAMINA B12
+En analítica completa al ingreso se objetiva cantidades insuficientes de ácido fólico y vitamina B12 por lo que se inicia suplementación durante el ingreso. Al alta continuar con este tratamiento, y se recomienda control por médico de cabecera.
+
+Plan terapéutico / Pla terapèutic
+-	Optovite® b12 1.000 gammas (=1 mg), 5 ampollas de 2 ml. 1 MG. PAUTA A SEGUIR: Una vez al día durante 5 días (hasta 24 de Mayo), una vez a la semana durante el mes de JUNIO, una vez al mes a partir de Julio y control posterior en el CAP.
+-	
+
+
+-	Omeprazol pensa 20 mg capsulas duras gastrorresistentes efg , 56 cápsula s. 20 MG. Vía oral. Una vez al día, en el desayuno.
+
+-	Bisoprolol cor sandoz 5 mg comprimidos recubiertos con pelicula efg, 30 comprimidos. 5 MG. Vía oral. Cada 24 horas.
+
+-	Acfol 5 mg comprimidos , 28 comprimidos. 5 MG. Vía oral. Una vez al día, en el desayuno.
+
+-	Valsartan/hidroclorotiazida kern pharma 320 mg/12.5 mg comprimidos recub iertos con pelicula efg , 28 comprimidos. 1 UND. Vía oral. Cada 24 horas .
+
+-	Clopidogrel zentiva 75mg 28 comprimidos recubiertos pelicula efg.. Vía topica. Cada 24 horas.
+
+-	Atorvastatina normon 40 mg comprimidos recubiertos con pelicula efg , 28 comprimidos. 40 MG. Vía oral. Cada 24 horas.
+
+-	Prednisona cinfa 10 mg comprimidos, 30 comprimidos. 40 MG. Vía oral. . PAUTA A SEGUIR: 40 mg durante 3 dias (hasta 23 de Mayo). 20 mg durante 3 dias (hasta 26 mayo). 10 mg durante 3 dias (hasta 29 de Mayo) y parar.
+
+-	Tirodril 5mg comprimidos , 40 comprimidos. 5 MG. Vía oral. Una vez al día, en el desayuno.
+
+Otras recomendaciones / Altres recomanacions
+-	Control en el CAP. A las dos semanas realizar analítica de control y valorar tratamiento
+
+
+
+Firma/Signatura1: _NAME_	Firma/Signatura2: _NAME_ Categoría: Resident 2	Categoría: Consult. Senior
+Nº Matrícula HCP: _ID_	Nº Matrícula HCP: _ID_
+
+Fecha/Data Informe: 20.05.2017
+Hora Informe: 09:32:28
+
+Docum.: _ID_
+Hist. Clínica: _ID_
+El _SS_ ha incorporado sus datos al Fichero de Pacientes, para tratarlos con fines sanitarios.
+Puede ejercer sus derechos de acceso, rectificación, cancelación y oposición, así como obtener mas información en la Unidad de Atención al Cliente.
+Vers. 00
+Pag. 2 de
+5
+Episod.: _ID_
+_SS_ ha incorporat les seves dades al Fitxer de Pacients, per a tractar-los amb finalitats sanitàries. Pot exercir els seus drets d'accés, rectificació, cancel·lació i oposició, i obtenir més informació a la Unitat d'Atenció al Client.
+_SS_
+_LOCATION_) _LOCATION_) Tel. _CONTACT_ Fax _CONTACT_
+http://_CONTACT_/

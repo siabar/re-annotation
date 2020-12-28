@@ -1,0 +1,184 @@
+
+
+
+
+
+Informe d'Alta Hospitalària	Cognoms i nom:
+_NAME_	NHC:
+_ID_
+	ABS:
+_SS_	CIP:
+_ID_	DNI:
+_ID_
+	Data de naixement:
+_DATE_	Sexe:
+Home	Edat:
+89a	Telèfon:
+_CONTACT_
+	Finançament:
+CatSalut - _LOCATION_	Procedència:
+URGÈNCIES
+	Admissió:
+25.12.2017 - 15:56	Servei:
+NEURO - UNITAT ICTUS HOSP	Data entrada urg.:
+24.12.2017 - 20:49
+Adreça:
+_LOCATION_	Població:
+_LOCATION_	Codi Postal:
+_LOCATION_
+
+
+
+Motivo de ingreso:
+Ictus isquemic a territori ACM-dreta amb possible oclusio M2.
+
+
+ANTECEDENTES:
+Hipertensión arterial Dislipemia
+Insuficiencia renal crònica. Control en _SS_. FG de 33. Hiperuriciemia
+Insuficiencia cardíaca. Tratamiento deplectivo.
+Fibrilación auricular crònica. ECO: Hipertrofia severa de septo con función sistólica disminuida no consta FE; acinesia infero-basal y media; mov asincron del VI por ACxFA AI severamente dilatada y PRes pulm ok.
+Cardiopatia isquèmica. Múltiples ingresos por angina. No consta revascularización. Síndrome depresivo
+Hiperplasia benigna de pròstata
+
+Medicación:
+ADIRO 100MG  1 x 24 h.
+ALDACTONE 25MG  1 x 24 h.
+ALOPURINOL 100MG 1 x 24 h.
+COROPRES 6,25MG  2 x 12 h.
+DUODART 0,5/0,4MG 1 x 24 h.
+HIDROFEROL 0,266MG  1 x 1 m.
+MIRTAZAPINA  15MG 1 x 24 h.
+OMEPRAZOL 40MG 1 x 24 h.
+ROCALTROL 0.25MCG  1 x 48 h
+SEGURIL 40MG  1 x 24 h.
+SIMVASTATINA 20MG  1 x 24 h.
+XARELTO 15MG 1 x 24 h.
+
+Situación sociofuncional: Vive solo en domicilio, ayuda durant eel día, Deambula con bastón. Sale solo por la calle. mRS de 3.
+
+ENFERMEDAD ACTUAL
+Home de 89 anys amb antecedents de HTA, malaltia renal crònica estadi 3, deteriorament cognitiu, cardiopatia isquèmica, acxfa en tto xarelto (cumpliment irregular). Estat funcional: viu a domicili sol, amb ajuda durant el dia, camina amb bastó per seguretat, autònom per ABVD però detriorament cognitiu moderat per deficit memòria recent (desorientat habitualment i ahir es va perdre pel carrer). mRs 3.
+Habitualment realitza tractament amb Xarelto però la família creu que no l'ha pres des del dijous.
+
+
+Avui 24/12/17 , l'han vist assimptomàtic últim cop a les 15h, i el pacient a les 19.45h avisa al SEM. A l'arribada del sem el pacient està al terra i presenta hemiplejia esquerra i disàrtria.
+
+Arriben a Urgencies a les 20.45h,
+Constants: TA 165/83, FC 94 (acxfa), afebril, sat. O2 96%, glicemia 147. INR 1.
+
+Presenta un vòmit alimterai.
+NRL: consicnet, desorientat parcialment, disartria important,  heminaopsia esquerra, parèsia braquio 3/5 crural 4/5 esquerra. Hipoestesia esquerra. NIHSS: 0.2.0.0.2/1(0.2)(0.2)/0.1.0.1.0 = 11.
+A nivell respiratori abundants roncus i sibilàncies.
+
+Es realitza ECG que mostra acxfa ràpida.
+TC cerebral que mostra desdiferenciacio cortical territori superficial ACM dreta i un punt hiperdens suggestiu de trombosis en ACM dreta segment M2, puntuant un ASPECT de 9.
+
+S'orienta com a ictus isquemic en territori de ACM dreta. Donada l'edat (> 85 anys), última hora vist assimptomàtic (>4'5 hores) i que no sabem amb exactitud si s'ha pres o no l'anticoagulació (ningú li controla i el pacient presenta deterior cognitiu), es contraindica el ttm amb fibrinolisis.
+
+S'inicia tractament betabloquejant i broncodilatador. Ingressa per a control evolutiu i monitorització.
+EXPLORACIÓN FÍSICA
+UCIAS
+consicnet, desorientat parcialment, disartria important, heminaopsia esquerra, parèsia braquio 3/5 crural 4/5 esquerra. Hipoestesia esquerra. NIHSS: 0.2.0.0.2/1(0.2)(0.2)/0.1.0.1.0 = 11.
+A nivell respiratori abundants roncus i sibilàncies.
+
+En sala de Neurología
+Vigil,  desorientado  parcialmente,  disartria  importante,  hemianopsia  homónica  izqueirda,  paresia  facio braquio 4-/5, crural4/5 izq, hipoestesia izquierda con extincion sensitiva izquierda, anosognosia parcial.
+A la auscultacion algunas secreciones respiratorias y crepitantes
+
+Al alta
+vigil, colaborador, desorientado en tiempo y persona, orientado en espacio. Anosognosia. No extinción visual. No déficit campimétrico. Disartria leve-moderada. Paresia facial central leve izquierda. Paresia braquio 4/5 (más distal) crural 4/5 izquierda. Hipoestesia izquierda con extincion sensitiva izquierda.
+NIHSS: 0.2.0.0.0/1(0.1)(0.1)/0.1.0.1.2 = 9.
+
+
+EXPLORACIONES COMPLEMENTARIAS
+AS ucias BIOQUÍMICA SANG
+Sodi 141 mmol/L ( 136 - 145 ) Potassi 4,89 mmol/L ( 3,50 - 5,10 ) Glucosa 9,4 mmol/L ( 3,0 - 6,0 ) 169,20
+mg/100mL Urea 9,8 mmol/L ( 2,9 - 8,2 ) 59 mg/100mL Creatinina 153 µmol/L ( 0 - 106 ) 1,73 mg/100mL AST
+(GOT) 19 U/L ( 0 - 37 ) ALT (GPT) 10 U/L ( 0 - 41 ) Fosfatasa alcalina 61 U/L ( 40 - 130 ) Amilasa 126 U/L (<
+100) Lipasa 70 U/L (< 60) Proteïna total 69,9 g/L ( 64,0 - 83,0 ) HEMATOLOGIA-HEMATIMETRIA
+Hemograma Hemoglobina 135 g/L ( 130 - 170 ) Hematòcrit 0,44 L/L ( 0,40 - 0,50 ) Hematies 5,28 x10E12/L
+( 4,50 - 5,70 ) VCM 82,6 fL ( 80,0 - 98,0 ) CCMH 310 g/L ( 320 - 360 ) HCM 25,6 pg ( 27,0 - 32,0 ) RDW 17,1 %
+( 12,0 - 15,0 ) Plaquetes 189 x10E9/L ( 140 - 350 ) VPM 6,6 fL ( 7,0 - 10,5 ) Plaquetòcrit 0,20 % Leucòcits 6,98 x10E9/L ( 3,80 - 11,00 ) Fórmula leucocitària Neutròfils 55,0 % Neutròfils absoluts 3,84 x10E9/L ( 1,80 - 7,00 ) Eosinòfils 3,7 % Eosinòfils absoluts 0,26 x10E9/L ( 0,05 - 0,50 ) Basòfils 0,9 % Basòfils absoluts 0,06 x10E9/L ( 0,00 - 0,10 ) Monòcits 9,6 % Monòcits absoluts 0,67 x10E9/L ( 0,30 - 1,00 ) Limfòcits 30,8 % Limfòcits absoluts
+2,15 x10E9/L ( 1,00 - 4,00 ) HEMOSTÀSIA
+Temps de tromboplastina 1,04 RATIO ( 0,75 - 1,30 ) Temps de protrombina 1,07 INR ( 0,75 - 1,20 ) Temps de trombina 22,40 s ( 17,00 - 24,00
+
+As control
+BIOQUÍMICA SANG Sodi 142 mmol/L ( 136 - 145 ) Potassi 4,00 mmol/L ( 3,50 - 5,10 ) Calci 2,38 mmol/L (
+2,15 - 2,55 ) 9,52 mg/100mL Fosfat 0,91 mmol/L ( 0,87 - 1,45 ) 2,82 mg/100mL Glucosa 5,5 mmol/L ( 3,0 - 6,0 )
+99,00 mg/100mL Urea 14,6 mmol/L ( 2,9 - 8,2 ) 88 mg/100mL Creatinina 131 µmol/L ( 0 - 106 ) 1,48 mg/100mL
+Filtrat glomerular estimat 41,33 mL/min/1.73m2 Urat 469 µmol/L ( 210 - 420 ) 7,88 mg/100mL Bilirubina total 16
+µmol/L (< 17) 0,95 mg/100mL Triglicèrids 1,58 mmol/L (< 1.65) 139,83 mg/100mL Colesterol 4,43 mmol/L (<
+6.2) 171,44 mg/100mL AST (GOT) 17 U/L ( 0 - 37 ) ALT (GPT) 10 U/L ( 0 - 41 ) Fosfatasa alcalina 41 U/L ( 40 -
+130 ) GGT 11 U/L ( 0 - 54 ) Proteïna total 61,8 g/L ( 64,0 - 83,0 ) Albúmina 36,1 g/L ( 34,0 - 48,0 ) Proteïna C
+reactiva 2,4 mg/L ( 0,0 - 5,0 ) LÍPIDS Colesterol HDL 0,85 mmol/L ( 1,00 - 1,70 ) 32,90 mg/100mL Colesterol
+LDL 2,85 mmol/L ( 1,81 - 4,13 ) 110,37 mg/100mL Colesterol  VLDL 0,73 mmol/L ( 0,00 - 0,63 ) 28,18
+mg/100mL Colesterol quilomicrons 0,00 mmol/L 0,00 mg/100mL HEMATOLOGIA-HEMATIMETRIA Hemograma Hemoglobina 143 g/L ( 130 - 170 ) Hematòcrit 0,47 L/L ( 0,40 - 0,50 ) Hematies 5,68 x10E12/L (
+4,50 - 5,70 ) VCM 82,2 fL ( 80,0 - 98,0 ) CCMH 306 g/L ( 320 - 360 ) HCM 25,2 pg ( 27,0 - 32,0 ) RDW 18,1 % (
+12,0 - 15,0 ) Plaquetes 198 x10E9/L ( 140 - 350 ) VPM 7,3 fL ( 7,0 - 10,5 ) Plaquetòcrit 0,20 % Leucòcits 7,03 x10E9/L ( 3,80 - 11,00 ) Fórmula leucocitària Neutròfils 69,0 % Neutròfils absoluts 4,85 x10E9/L ( 1,80 - 7,00 ) Eosinòfils 0,9 % Eosinòfils absoluts 0,06 x10E9/L ( 0,05 - 0,50 ) Basòfils 0,1 % Basòfils absoluts 0,01 x10E9/L ( 0,00 - 0,10 ) Monòcits 11,7 % Monòcits absoluts 0,82 x10E9/L ( 0,30 - 1,00 ) Limfòcits 18,3 % Limfòcits absoluts 1,29 x10E9/L ( 1,00 - 4,00 ) Velocitat de sedimentació globular (VSG) 3 mm/hora ( 1 - 10 ) HEMATOLOGIA-ERITROPATOLOGIA Vitamina B12 189 pmol/L ( 150 - 650 ) Folat sèric 9,7 nmol/L ( 7,0 - 45,0
+) Hb glicosilada (HbA1c) 6,8 % ( 4,6 - 5,8 ) HEMOSTÀSIA Temps de tromboplastina 0,92 RATIO ( 0,75 - 1,30 ) Temps de protrombina 1,10 INR ( 0,75 - 1,20 ) Temps de trombina 21,40 s ( 17,00 - 24,00 ) Plaquetes 198
+x10E9/L ( 140 - 350
+
+
+Rx torax: rotada, cardiomegalia, aumento de trama bilateral compatible con ICC ECG: FA con extrasistolia ventricular ocasional
+TC cerebral:
+Hiperdensidad en el segmento M2 de la ACM derecha sugestiva en el contexto del paciente de trombo/oclusión #dot sign#. Zona de desdiferenciación cortico-subcortical parietal derecha sugestiva de isquemia aguda.
+Impresión diagnóstica global:
+Imagen compatible con trombo/oclusión en M2 de ACM derecha con ASPECTS de 9.
+
+TC control:
+Respecto a la TC previa del día 24-12-2017:
+Signos de transformación hemorrágica (HP-2) del infarto parietal derecho con afectación posterocentral que no condiciona compromiso ventricular ni de linea media y que se correlaciona con el área de borramiento de la diferenciación cortical descrita en el estudio inicial (<1/3 del territorio vascular de ACM).
+Aparición de una lesión isquémica también insular posterior derecha, sin transformación hemorrágica a este nivel.
+No  se  aprecian otras  áreas  de  infarto  ni  otros  cambios  respecto  al  estudio  anterior, con  signos  de microangiopatíaen la sustancia blanca cerebral y alguna pequeña lesión isquémica antigua subcortical.
+CONCLUSION :
+Signos de transformación hemorrágica HP-2 de la lesión isquémica parietal derecha; afectación isquémica también insular posterior derecha
+
+EVOLUCIÓN
+Varón de 89 años ingresado por ictus isquémico en territorio de ACM derecha de etiología cardioembólica por FA no descoagulada. Como complicaciones presenta reagudización de ICC crónica por sueroterapia por lo que se inicia tratamiento depletivo con mejoría clínica. En sala de neurología tolera correctamente dieta oral, realiza rehabilitación correctamente. Se realiza TC de control donde se observan Signos de transformación hemorrágica HP-2 de la lesión isquémica parietal derecha; afectación isquémica también insular posterior derecha. Estable desde el punto de vista neurológico. Dado que  se trata de un fallo de xarelto por mal cumplimiento terapeutico se decide reiniciar medicación habitual sin cambios con supervisión.
+Se solicita traslado a _SS_ para continuar la RHB vía Pla Director. Al alta NIHSS: = 9. mRS 4
+
+
+
+PROCEDIMIENTOS
+AS
+RX TORAX
+TC CEREBRAL
+ECG
+
+
+DIAGNÓSTICOS
+Ictus isquémico en territorio de ACM derecha de etiología cardioembólica por FA no descoagulada (mal cumplimiento de xarelto)
+
+TRATAMIENTO ACTUAL
+Continuar tto habitual: ADIRO 100MG  1 x 24 h.
+ALDACTONE 25MG  1 x 24 h.
+ALOPURINOL 100MG 1 x 24 h.
+COROPRES 6,25MG  2 x 12 h.
+DUODART 0,5/0,4MG 1 x 24 h.
+HIDROFEROL 0,266MG  1 x 1 m.
+MIRTAZAPINA  15MG 1 x 24 h.
+OMEPRAZOL 40MG 1 x 24 h.
+ROCALTROL 0.25MCG  1 x 48 h
+SEGURIL 40MG  1 x 24 h.
+SIMVASTATINA 20MG  1 x 24 h.
+
+
+
+XARELTO 15MG 1 x 24 h.: Reiniciar xarelto 15mg cada 24h a partir del día 6/1/17
+
+
+VISITA DE CONTROL EN NEUROLOGÍA EN 3 MESES
+
+
+Responsable clínic: Dra. _NAME_ (NºCol. _ID_)
+Equip mèdic: Dr. _NAME_ (NºCol. _ID_)
+
+Servei que ha donat d'alta:
+MEDICINA - SEMICRITICS HOSP	Data d'alta:
+29.12.2017	Nom del metge que informa de l'alta:
+Dr. _NAME_ (NºCol. _ID_)
+
+
+_LOCATION_, 29.12.2017
+Pàg. 1 de   5

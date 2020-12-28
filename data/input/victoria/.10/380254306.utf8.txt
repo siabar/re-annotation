@@ -1,0 +1,159 @@
+
+
+
+
+
+Informe d'Alta d'Urgències	Cognoms i nom:
+_NAME_	NHC:
+_ID_
+	ABS:
+_SS_	CIP:
+_ID_	DNI:
+_ID_
+	Data de naixement:
+_DATE_	Sexe:
+Dona	Edat:
+89a	Telèfon:
+_CONTACT_	_CONTACT_
+	Adreça:
+_LOCATION_
+	Finançament:
+CatSalut - _LOCATION_	Procedència:
+URGÈNCIES
+Episodi:
+304232892	Admissió:
+11.06.2017 - 15:25	Assistència:
+11.06.2017 - 15:36	Servei:
+URGENCIES MEDICINA
+
+
+
+Motiu Consulta:
+Alteración del lenguaje. Código ictus activado desde triaje.
+
+
+MALALTIA ACTUAL
+Mujer de 89 años con antecedentes de infartos lacunares isquémicos en tratamiento con Clopidogrel y atorvastatina, sin otros antecedentes relevantes. A nivel funcional camina con bastón por seguridad, FFSS aparentamente conservadas, IABVD, mRs 2.
+
+Hoy 11/06/17 a las 14:30h presenta de forma súbita alteración del lengauje con dificultad para la expresión, con bloqueos y realización de alguna parafasia. No alteración en la comprensión. Además ha notado leve dificultad para la deambulación.
+
+No palpitaciones. No dolor torácico ni clínica infecciosa. A su llegada a HSCSP se activa código ictus desde triaje.
+A nuestra valoración la paciente se encuentra hemodinámicamente estable (TA 187/87mmHg, FR 16, sat.
+O2 97%, Glicemia 90, afebril).
+
+En la exploración neurológica: vigil, orientada en TEP, no disartia, no rasgos afásicos, PPCC normales, no alteración de la sensibilidad ni motor, no dismetrías, CV normales. NIHSS 0.
+
+Realizamos TC cerbebral que es normal. ECG en RS
+AS pendiente de realización.
+
+Orientamos como AIT en territorio de ACM-izquierda de etiología indeterminada por estudio incompleto.
+Dada la ausencia de clínica en el momento actual, no es tributaria a tratamiento en fase aguda.
+
+Se decide monitorización durante 24 horas y valoración mañana por equipo de neurovascular para CRI.
+
+
+
+ANTECEDENTS
+Al·lèrgies
+Medicamentoses - ALTRES ANTIBIOTICS TERRAMICINA
+
+
+
+Antecedents patològics Antecedentes patologicos No HTA, no DLP, no DM
+
+Infartos lacunares isquemicos por lo que se inicia tratamiento plavix i simvastatina. Seguimiento por MAP y Neurólogo de CAP.
+Exploración neuropsicológica normal por edad y nivel cultural 09/06/2017 MEDICACIÓN HABITUAL 24/06/13:
+Citalopram 10 mg c/día 0-0-1
+Atorvastatina 40mg c/día 0-0-1 Clopidogrel 75mg c/dia Quetiapina 25mg c/noche Omeprazol 20 mg día
+Ibercal (Calcio pidolato, Colecalciferol) 1 diaria Lorazepam 0.5 mg noche
+
+SOCIAL:
+Vive en domicilio con un hijo. FFSS conservadas. Autónoma para AVD. Camina con bastón para más seguridad.
+
+ALERGIA A TERRAMICINA
+
+
+EXPLORACIÓ FÍSICA
+Global
+(TA 187/87mmHg, FR 16, sat. O2 97%, Glicemia 90, afebril).
+
+En la exploración neurológica: vigil, orientada en TEP, no disartia, no rasgos afásicos, PPCC normales, no alteración de la sensibilidad ni motor, no dismetrías, CV normales. NIHSS 0.
+
+EXPLORACIONS COMPLEMENTÀRIES
+analítica : Sodi 135 ? mmol/L ( 136 - 145 ) Potassi 4,27 mmol/L ( 3,50 - 5,10 )
+Urea 7,1 mmol/L ( 2,9 - 8,2 )
+43 mg/100mL
+Creatinina 111 ? µmol/L ( 0 - 80 )
+1,26 mg/100mL HEMATOLOGIA-HEMATIMETRIA
+
+Hemograma
+Hemoglobina 134 g/L ( 120 - 150 )
+Hematòcrit 0,35 L/L ( 0,35 - 0,45 )
+Hematies 4,20 x10E12/L ( 3,90 - 5,00 )
+VCM 84,3 fL ( 80,0 - 98,0 )
+CCMH 379 ? g/L ( 320 - 360 )
+HCM 31,9 pg ( 27,0 - 32,0 )
+RDW 12,7 % ( 12,0 - 15,0 )
+Plaquetes 290 x10E9/L ( 140 - 350 )
+VPM 7,2 fL ( 7,0 - 10,5 )
+Plaquetòcrit 0,30 %
+Leucòcits 7,72 x10E9/L ( 3,80 - 11,00 ) Fórmula leucocitària
+Neutròfils 56,5 %
+Neutròfils absoluts 4,36 x10E9/L ( 1,80 - 7,00 )
+Eosinòfils 2,3 %
+Eosinòfils absoluts 0,18 x10E9/L ( 0,05 - 0,50 )
+Basòfils 1,0 %
+Basòfils absoluts 0,08 x10E9/L ( 0,00 - 0,10 )
+Monòcits 8,2 %
+Monòcits absoluts 0,63 x10E9/L ( 0,30 - 1,00 )
+Limfòcits 32,0 %
+Limfòcits absoluts 2,47 x10E9/L ( 1,00 - 4,00 )
+COMENTARIS HEMOGRAMA: Malgrat la incubació a 37C persisteix aglutinació; aquest fet invalida la majoria dels paràmetres de serie roja
+Codi de validació AJP HEMOSTÀSIA
+Temps de tromboplastina 1,14 RATIO ( 0,75 - 1,30 ) Temps de protrombina 1,21 ? INR ( 0,75 - 1,20 ) Temps de trombina 22,60 s ( 17,00 - 24,00 )
+Rx de tòrax : normal
+TAC de crani :Parece apreciarse una discreta hiperdensidad en M2 y M3 de la ACM izquierda.
+No se observan hemorragias intracraneales, lesiones isquémicas agudas evidentes, efectos de masa ni desplazamientos valorables a nivel de estructuras de línea media supra e infratentoriales.
+Moderada dilatación del sistema ventricular.
+Focos de hipodensidad en la sustancia blanca periventricular de aspecto hipóxico-isquémico crónico. Resto del parénquima cerebral con aumento de valles silvianos, cisternas basales y surcos corticales de la convexidad, traduciendo cambios involutivos cerebrales.
+CONCLUSIÓN:
+Discreta hiperdensidad en M2 y M3 de la ACM izq, sin evidencia de lesiones agudas intracraneales.
+
+ECG , RITMO SINUSAL sin alteraciones repolarización
+TC: se insonan ambas ACMs con flujo ortodrómico, simétrico y sin evidencia de estenosis focales.
+
+EVOLUCIÓ
+Mujer de 89 años con dos episodios de alteración del lenguaje de inicio brusco y autolimitados que soin comaptibvles como primera opción con ictus isquémico transitorio (AIT) de territorio supercifial de ACM izuqierda, como segunjda opción dentro del diagnóstico diferencial considerarís la angiopatía amiloide (amyloid spell). En este momento no hay datos clínicos que apoyen la etiología comicial pero sería la tercera opción.
+Ante estabilidad de la paciente damos alta a domicilio en CRI
+
+PLAN:
+- Tratamiento. Cambio de plavix (clopidogrel) por AAS 100mg/día y aumento a atorvastatina 80mg/día.
+
+
+
+RECOMANACIONS A L'ALTA
+añadidmos a medicación habitual :
+cambio de simvastatina por atorvastatina 80mg7 D STOP CLOPIDOGREL
+AFEGIM AAS 10mg / d
+
+
+DIAGNÒSTICS
+-	AIT regresivo
+
+
+CONTROLS
+CRI neurologia:
+-	Dx: Acudir a realizar según citación adjunta RM cerebral y ecocardiogramaTT vía circuito rápido de ictus.
+-	Logístico: Altable con parte de neurología con control por su CAP y con control en CEX de neurología vascular - CRI según citación adjunta
+
+Responsable clínic: Dra. _NAME_ (NºCol. _ID_)
+Equip mèdic: Dra. _NAME_ (NºCol. _ID_)
+
+Servei que ha donat d'alta:
+URGENCIES MEDICINA	Data d'alta:
+12.06.2017 - 14:00	Nom del metge que informa de l'alta:
+Dra. _NAME_ (NºCol. _ID_)
+
+
+_LOCATION_, 12.06.2017
+Pàg. 1 de   4

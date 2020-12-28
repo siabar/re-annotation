@@ -1,0 +1,136 @@
+Informe Seguiment Hospitalització
+_LOCATION_ Tel. _CONTACT_
+_CONTACT_
+_NAME_
+HC: _ID_
+
+>
+
+Informe de Cuidados Intensivos
+
+
+Adreça: _LOCATION_	Data naix.: _DATE_ Població: _LOCATION_	Sexe: MASCULI
+Provincia: _LOCATION_	CIP: _ID_
+País: _LOCATION_	NASS: _ID_
+Telèfon: _CONTACT_ / _CONTACT_	DNI o Tarja Residència: _ID_
+
+
+Servei: Medicina Intensiva	Data ingrés a URG: 15/10/2017 21:36
+Unitat clínica: Medicina Intensiva	Data hospitalització: 15/10/2017 22:09
+Tipus d'ingrés: Urgències
+Proveïdor de Serveis: Servei Català de la Salut
+
+
+
+Diagnòstic principal:
+
+432.9 AVC HEMORRAGIC
+
+Diagnòstics Secundaris:
+
+431 HEMATOMA CEREBRAL
+342.00 HEMIPLEGIA FLACCIDA
+784.51 DISARTRIA
+401.9 HTA
+
+Procediments:
+
+87.03 TAC CRANIAL
+90.59 ANALITICA SANG
+87.44 RADIOGRAFIA DE TORAX
+96.6 SONDA NASO-GASTRICA PER ALIMENTACIO ENTERAL
+
+
+
+
+
+Pacient de 60 anys d'edat que ingressa per avc hemorràgic gangliocapsular dret
+
+Antecedents:
+
+Malalties prèvies:
+
+HIPERTENSIO ARTERIAL INESPECIFICADA (Tractament amb Ramipril/Hidroclorotiazida. ) DISLIPEMIA (En tractament farmacològic.
+Analítica març 2017: CT 245, HDL 42, LDL 162, TG 210, MICROALBUMINURIA 40.) FUMADOR
+MPOC (En tractament broncodilatador. PFR a abril 2017: FEV1/FVC 67; FEV1 46%.)
+RAO RETENCIO AGUDA ORINA (Múltiples episodis de RAO previs a la cirurgia de pròstata el 2015..
+
+Antecedents neonatals, obstètrics i quirúrgics:
+
+HIPERPLASIA LOCALITZADA BENIGNA PROSTATA AMB OBSTRUCCIO (IQ a setembre 2015.
+Diversos episodis de RAO..
+
+
+Al·lèrgies:
+
+El pacient no presenta al·lèrgies conegudes.
+
+Hàbits tòxics:
+
+Hábito tabáquico . No hábito alcohólico .
+
+Medicació prèvia:
+
+Cardyl 80mg/24h; Seebri 44mcg/24h; Adiro 100mg/24h; Ramipril/HCTZ 5/25mg cada 24h.
+
+Història Actual:
+
+Pacient de 60 anys, que ingressa a l'Unitat de Semicritics per HEMATOMA INTRAPARENQUIMATÓS GANGLIOCAPSULAR DRET.
+
+Es portat a urgències el dia 15/10 a les 21.20h per activació de codi ictus extrahospitalari. La família refereix clínica de hemiparèsia facio-braqui-crural esquerre d'inici a les 20.30h de forma sobtada. A l'arribada del SEM TA 145/104mmHg, FC 96bpm, FR 16, Sat 96% a l'aire.
+
+Es trasllada al nostre centre on s'objectiva: GCS 14 (O4 V4 M6), despert, obeeix a ordres. Disàrtria sense alteració de la comprensió. Desviació forçada de la mirada a la dreta, hemianòpsia dreta. Plègia ESE amb parèsia 1/5 EIE. Hemianestèsia dreta. Asomatognòsia sense anosognòsia. No flapping amb ESD. Clínica compatible amb ACM dreta, pel que es realitza TC crani urgent que informa d'Hematoma intraparenquimatós agut ganglicapsular / corona radiata dret, sense efecte de massa significatiu. Infarts lacunars crònics ganglicapsular posterior i talàmic esquerres. Focus de leucoencefalopatia hipòxica a la substància blanca subcortical superficial i profona d'ambdós hemisferis cerebrals.
+
+El pacient ingressa a Semicrítics per a control evolutiu.
+
+Exploració física:
+
+- A la seva arribada a l'unitat de semicritics:
+TA 138/95mmHg, FC 90bpm, FR 15rpm, Sat 100% a l'aire.
+MVC sense sorolls sobreafegits. No broncospasme audible. Eupneic a l'aire. TCR, no ausculto bufs. Bona perfusió distal. TA controlada.
+Abdomen sense alteracions, tou i depressible, no dolorós a la palpació, sense signes d'irritació peritonial. NRL: GCS 14 (O4 V4 M6), despert, obeeix a ordres. Disàrtria sense alteració de la comprensió. Desviació forçada de la mirada a la dreta, hemianòpsia dreta. Plègia ESE amb parèsia 1/5 EIE. Hemianestèsia  dreta. Asomatognòsia sense anosognòsia. No flapping amb ESD.
+Afebril.
+Diüresi a bolquer.
+
+- Al alta de l'unitat de semicritics:
+GCS 14 (O4 V4 M6), despert, obeeix a ordres. Lleu disàrtria probablement per PFSN, sense alteració de la comprensió. Hemianòpsia esquerra. Hemiplègia esquerra. Hipoestesia esquerra. RCP flexor dret, extensor esquerra.
+
+Resum proves complementàries:
+
+
+Laboratori:
+
+-	Analítica: Leucòcits 10.36 x 10^9/L, Hemoglobina 166 g/L, Plaquetes 203 x 10^9/L, Temps protrombina
+0.94 ratio, T.Tromboplastina parcial activ 1.09 ratio, Glucosa 96 mg/dL, Urea 19 mg/dL, Creatinina 0.85 mg/dL, Sodi 143 mEq/L, Potassi 4.3 mEq/L
+
+Imatge:
+
+-	Rx tòrax:
+
+-	TC crani: Col·lecció hemàtica intraparenquimatosa ganglicapsular dreta amb extensió a la corona radiata de 38x26x35 mm en els eixos APxCCxLL (volum de 18 cc), que condiciona discret efecte de massa amb esborrament dels solcs de la convexitat cerebral dreta i col·lapse parcial del ventricle lateral dret, sense desplaçament significatiu de la línia mitja supatentorial.
+Absència de desplaçaments d'estructures de línia mitja infratentorial. Dilatació global i simètrica del sistema ventricular, valls silvians i solcs corticals de la convexitat. Cisternes basals i peritronculars lliures. Hipodensitats focals ganglicapsular posterior i talàmica esquerres. fectació focal i parxejada de la substà ncia blanca subcortical superficial i profona d'ambdós hemisferis cerebrals, que tradueix procés de reblandiment parcial/desmielinització de característiques senils i/o secundàries a hipòxia-hipoperfusió subcortical crònica. Ocupació del si maxil·lar dret amb esclerosi ossia associada, en relació a sinusopatia. Conclusió: Hematoma intraparenquimatós agut ganglicapsular/corona radiata dret, sense efecte de massa significatiu. Infarts lacunars crònics ganglicapsular posterior i talàmic esquerres. Focus de leucoencefalopatia hipòxica a la substància blanca subcortical superficial i profona d'ambdós hemisferis cerebrals.
+
+Altres proves:
+
+-	ECG: RS a 73bpm, PR 160ms, QRS estret amb eix -30º, no alteracions de la repolarització.
+
+Evolució i comentaris:
+
+NOTA D'ALTA DE L'UNITAT DE SEMICRITICS
+
+Per problemes:
+
+1) AVC HEMORRÀGIC GANGLIO-CAPSULAR DRET.
+
+Es comenta amb equip de neurocirurgia que no considera tributari d'evacuació quirúrgica. Durant la seva estada a l'unitat , s'ha mantingut HMD estable. S'ha realitzat test de disfàgia amb bona tolerància a l'ingesta oral. Sense milloria neurològica desde l'ingrés. El pacient presenta cefalea que requereix d'us continu d'analgesia. S'ha iniciat rehabilitació funcional.
+Donada l'estabilitat clínica i l'absència de complicacions, es alta a planta de neurologia per a control i seguiment.
+
+Tractament:
+
+Fàrmacs: Monodosis
+_LOCATION_, 17/10/2017
+
+
+_NAME_	_NAME_
+(Nº col _ID_)	(Nº col _ID_
+Nom i cognoms metge: _NAME_ (Nº col: _ID_Pàg.: 1/4

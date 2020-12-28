@@ -1,0 +1,130 @@
+_LOCATION_
+email: _CONTACT_ Telèfon _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 76 Anys
+NIF/DNI: _ID__NAME_; _NAME_; _NAME_
+Informe de Trasllat a Sociosanitari
+12:30:00
+29.12.2017
+_LOCATION_
+_SS_ NEUROLOGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_ FILLA; _CONTACT_; _CONTACT_; DOMICIL/RES.SOC
+11.12.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Mujer de 76 años que ingresa por hemorragia intracraneal
+
+ANTECEDENTS
+-Sin alergias medicamentosas conocidas
+-No hábitos tóxicos.
+
+ANTECEDENTES PATOLOGICOS
+-Dislipemia en tratamiento médico
+-Enfermedad de Alzheimer GDS 4-5 en tratamiento con Rivastigmina y antiagregación en control por la _SS_
+-Sindrome ansioso-depresivo en tratamiento con sertralina
+-Poliartrosis con dolor crónico parcialmente controlado con fentanilo a dosis bajas. Sigue controles en Clínica del dolor del _SS_
+-Dolor crónico en columna en tratamiento con Fentanilo y oxicodona (en retirada). Ha seguido controles en la _SS_, con realización de infiltraciones, la última hace menos de un año.
+-Osteoporosis
+-Incontinencia de urgencia en tratamiento con Urotrol
+
+INTERVENCIONES:
+-PTR D .2009. explican dolor y valoración de reintervención
+-Prótesis invertida de hombro izquierdo
+-PTR izquierda
+-Cirugía de columna por estenosis de canal medular. No disponemos de informes
+-Cirugía de pies (dedos en martillo)
+-Fractura del fémur intervenida que presentó en julio 2017 infección por S. haemolyticus (también consta un Propinebacterium acnes), por lo que recibió tratamiento con teicoplanina y rifampicina y posteriormente septrin y rifampicina durante unas 8 semanas con buena evolución.
+
+
+Situación sociofuncional: Vive con su marido, supervisión por hijos y una vecina. Buen soporte familiar. Deterioro cognitivo moderado. Sale sola a la calle con una muleta. Autónoma para las actividades básicas de la vida diaria, desde la cirugía de cadera necesitaba ayuda para la ducha. mRS 3.
+
+MEDICACIÓ HABITUAL
+Adiro 100mg 1-0-0, Lovastatina 20mg 0-0-1, Memantina 20mg 1-0-0, Omeprazol 20mg 1-0-0, Sertralina 100mg 1-0-0, Hidroferol mensual, RIvastigmina 9.5mg 1 parche/24h, Fentanilo 25mcg 1 parche/72h.
+
+PROCÉS ACTUAL
+Estando previamente bien, la encuentran el pasado 4/12/17 por la mañana caída en el suelo de domicilio con vómito alimentario. Es valorada inicialmente por MAP, quien ante la presencia de fiebre orienta el cuadro como
+
+Informe de Trasllat a Sociosanitari
+
+
+
+
+GEA prescribiendo tratamiento domiciliario. Al no notar mejoría avisan el día 10/12 al SEM quienes la trasladan a nuestro centro.
+
+EXPLORACIÓ FÍSICA
+
+EXP. FÍSICA EN URG
+
+Constantes:TA 113/56 mmHg, FC 83lpm, Tª 38ºC, SatO2 98% (aa).
+Regular estado general. Normohidratada, normocoloreada, bien perfundida. ACV: tonos cardíacos rítmicos, no ausculto soplos. No signos de IC. AR: eupneica en reposo, murmullo vescicular conservado con algunos roncus dispersos.
+NRL: Vígil, somnolienta (1). Afasia global (2+2+3). DOC I (2). HHD por amenaza (2). PFSN D (2). Hemiplejía baquiocrural D (4+4). Sensibilidad no valorable (1). NIHSS 23.
+
+EXPLORACIÓ COMPLEMENTÀRIA
+URGENCIAS
+-TC craneal: Hematoma intraparenquimatoso agudo, fronto-parieto-temporal izquierdo asociado a componente de edema vasogénico, con unos diámetros máximos de 41x56,4x 51 mm, volumen aproximado de 58cc, que efecto masa sobre sistema ventricular izquierdo y desviando estructuras de la linea media hacia la derecha 9,2mm. En el estudio AngioTC se observa correcta permeabilidad de estructuras vasculares que conforman el polígono de Willis. No se observan formaciones aneurismáticas valorables, ni otras alteraciones en la vascularización intracraneal. En las fases retardadas de el estudio AngioTC no se objetivan signos de extravasación de contraste que sean sugestivos de sangrado activo.
+-ECG: ritmo sinusal a 75lpm, PR 120mseg, QRS 80mseg con eje aprox a -15º. Sin alteraciones agudas de la repolarización.
+-EAB: pH 7.52, pCO2 32, HCO3 26.1, EB 3.6. Lact 0.9. Hb 12.3.
+-RX tórax: sin claros cambios respecto a previas.
+-Analitica General: Hb 11.4 g/dL; VCM 81.9 fL; HCM 27.9 pg; Leucòcits 14.440 (Neutròfils   11200, Limfòcits
+2000); Plaquetes 294.000; INR 1.17; TQ 77%; Glucosa 128; Urea 68; Creatinini 0.51 mg/dL; FG >90 ml/min/1,73
+m2; Na 134.4; K 4.57; Ca 9.3; AST 29; ALT 17; Proteina 7.5
+-HC 11/12: positivos 3/4 para Staphylococcus coagulasa negativo. Sensible a vancomicina, linezolid y teicoplanina. Resistente al resto.
+
+PLANTA NEUROLOGÍA
+-Analitica general: Hties 4.05 x10E12/L; Hb 11.3 g/dL; Hto 34.1 %; VCM 84.2 fL; CHCM 33.10 g/dL, ADE 14.2 %; Leucocitos 15.86 x10E9/L; Neutrófilos 12.3 x10E9/L; Linfocitos 2.2 x10E9/L; Monocitos 1.1 x10E9/L, Eosinófilos
+0.2 x10E9/L, Basófilos 0.1x10E9/L; Plaquetas 380 x10E9/L, VPM 11.3 fL. Hemostasia: TP 80 %; INR 1.15; TTPA
+24.9 seg; Fibrinógeno derivado 24.9 seg. Bioquímica: glucosa 117 mg/dL; urea 35 mg/dL, creatinina 0.42 mg/dL, FG >90 ml/min; urato 2.5 mg/dL; bilirrubina 0.56 mg/dL (esterificada 0.22 mg/dL); sodio 136.7 mmol/L; potasio 3.76 mmol/L; calcio 9.5 mg/dL; AST 23 UI/L; ALT 18 UI/L; FA 72 UI/L; GGT 26 UI/L; Proteínas 6.9 g/dL; albúmina 3.6 g/dL, PCR 7.02 mg/dL.
+*Estudio de anemias: Ferritina 194 ng/mL; transferrina 205 mg/dL, sideremia 19 mcg/dL; IST 9 %; vitamina B12 370 pg/mL; ácido fólico 14.5 ng/mL.
+*Colesterol total 173 mg/dL; HDL 39 mg/dL; LDL 115 mg/dL; Triglicéridos94 mg/dL.
+*Tiroides: TSH 0.879 mU/L; T3L 2.20 pg/mL; T4L 1.51 ng/dL.
+-HC 12/12: negativos.
+
+Informe de Trasllat a Sociosanitari
+
+
+
+
+-Sedimento de orina: Leucos 2.2 cel/mcL; Eritrocitos 0 cel/mcL; Bacterias 1651 bact/mcL.
+-Cultivo CVP técnica de Maki 14/12: Positivo >500 UFC. Staphylococcus epidermidis y Staphylococcus hominis.
+-IC Foniatría: Puede iniciar dieta oral en textura pudin, en volumenes de 100-125cc en cada toma, y en cucharadas moderadas, max 10cc. Puede ingerir liquidos en textura nectar en bolos de 10cc max. La ingesta debe realizarse con buen nivel de alerta, en sedestacion de 90º si es posible. En funcion de la evolucion la UNitat de Suport Nutricional pautara aumento de ingesta oral y reduccion de NE.
+
+
+EVOLUCIÓ CLÍNICA
+A su llegada paciente estable hemodinamicamente, febril a 38ºC. Respiratoriamente con roncus dispersos pero con saturaciones conservadas a aire ambiente. A nivel neurologico, NIHSS de 23. El TC craneal evidencia HIC lobar fronto-parieto-temporal izquierdo por lo que es valorada por neurocirugía, quienes descartan tratamiento quirúrgico urgente. Se mantiene bajo observación en urgencias con medidas de neuroprotección, control tensional estricto y ante sospecha de fibre de origen respiratorio por probable broncoaspiración se inicia cobertura antibiótica empírica con amoxicilina-clavulánico. Se cursa ingreso para control evolutivo.
+
+En planta convencional de neurología la paciente se mantiene estable hemodinámicamente y clinicamente. Las cifras tensionales no requieren hipotensores. Se inicia dieta por SNG con buena tolerancia. Por otro lado la paciente persiste con fiebre por lo que se realizan HC el día 11/12 con evidencia de Staphylococcus coagulasa negativo en 3/4 resistente a penicilinas y no presente en hemocultivos posteriores (negativos), por lo que se  orienta como posible contaminación (valorado por equipo de Infecciosas). Se solicita sedimento de orina que evidencia bacteriuria sin leucocituria con urocultivo negativo y se retira vía periferica con evidencia Staphylococcus epidermidis y Staphylococcus hominis en cultivo de punta. Sin evidencia de nuevo foco infeccioso y considerada la estabilidad hemodinamica y la buena evolución clínica, se orienta la persistencia de febricula como de probable origen central. Se intenta progresar dieta a vía oral, por lo que es Valorada por Logopedia que recomiendan inicio de dieta disfagia y liquidos textura nectar de manera progresiva y una vez que realice una dieta que cubra los requerimientos nutricionales retirar sonda nasogastrica. Es valorada tambien por Rehabilitación, iniciándose rehabilitación pasiva. En situación de estabilidad clínica y hemodinámica se decide traslado a CSS para continuar convalescencia y rehabilitación. En el momento del alta NIHSS 16, POC izquierda (1), LOC Q 0/2 (2) aunque es capaz de decir su nombre, LOC C 1/2 (1), afasia mixta moderada (2) (no nomina, repite, se intoxica con órdenes simples; consigue expresar alguna frase con discurso que varía de coherente a incoherente), HHD por confrontación (2), PFSN derecha leve (1), hemiparesia derecha braquio 2+/5 (3) crural 2/5 (3) con espasticidad.
+Hipoestesia no valorable (1), mRS 5
+
+
+ORIENTACIÓ DIAGNÒSTICA
+Hemorragia lobar parieto-temporal izquierdo en probable contexto de angiopatía amiloide.
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Se adjunta
+
+CONTROL
+Control estrecho de factores de riesgo vascular, especialmente TA Control por especialistas habituales como tenga previsto
+
+Informe de Trasllat a Sociosanitari
+
+
+
+DESTINACIÓ A L'ALTA:	SOCI SANITARI
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+29.12.2017
+Pàgina 1 de 4

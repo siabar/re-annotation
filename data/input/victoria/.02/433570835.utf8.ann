@@ -1,0 +1,77 @@
+T1	_SUG_Lateralizacion 250 251	I
+T2	Fecha_llegada_hospital 322 332	16/10/2017
+#2	AnnotatorNotes T2	2017-10-16
+T3	Fecha_de_ingreso 390 400	17/10/2017
+#3	AnnotatorNotes T3	2017-10-17
+T4	FECHA 438 448	27/10/2017
+#4	AnnotatorNotes T4	2017-10-27
+T5	_SUG_Etiologia 611 622	Hipertensió
+T6	_SUG_Trombolisis_intravenosa 842 864	tractament trombolític
+T9	Tratamiento_antiagregante_hab 940 945	Adiro
+T10	Fecha_inicio_sintomas 1265 1270	16/10
+#10	AnnotatorNotes T10	2017-10-16
+T11	Hora_inicio_sintomas 1318 1323	18:40
+#11	AnnotatorNotes T11	18:40
+T12	_SUG_Ictus_isquemico 1359 1364	ictus
+T13	Trombolisis_intravenosa 1608 1613	rt-PA
+T14	_SUG_NIHSS_alta 3114 3121	NIHSS 5
+T15	_SUG_NIHSS_previa 3114 3121	NIHSS 5
+T17	TAC_craneal 3569 3577	TC crani
+T18	_SUG_Localizacion 3662 3670	parietal
+T19	_SUG_Lateralizacion 3671 3680	izquierda
+T20	_SUG_Localizacion 3948 3956	cortical
+T21	_SUG_Localizacion 3966 3977	ventricular
+T22	_SUG_Lateralizacion 4112 4121	izquierdo
+T23	_SUG_TAC_craneal 4165 4167	TC
+T24	HORA 4194 4196	24
+#24	AnnotatorNotes T24	24:00
+T25	_SUG_Localizacion 4313 4324	ventricular
+T26	_SUG_TAC_craneal 4548 4550	TC
+T27	FECHA 4561 4571	15.03.2015
+#27	AnnotatorNotes T27	2015-03-15
+T28	_SUG_Arteria_afectada 5065 5084	ARTÈRIES VERTEBRALS
+T29	_SUG_Arteria_afectada 5229 5250	Artèria caròtida comú
+T30	_SUG_Localizacion 5363 5372	posterior
+T31	_SUG_Arteria_afectada 5386 5410	Artèria caròtida interna
+T32	_SUG_Localizacion 5505 5514	posterior
+T33	_SUG_Arteria_afectada 5775 5796	Artèria caròtida comú
+T34	_SUG_Localizacion 5871 5880	posterior
+T35	_SUG_Localizacion 5983 5992	posterior
+T36	_SUG_Arteria_afectada 6006 6030	Artèria caròtida interna
+T37	_SUG_Arteria_afectada 7469 7472	ACM
+T38	_SUG_Ictus_isquemico 7753 7758	ictus
+T39	_SUG_Etiologia 7980 7988	habitual
+T40	_SUG_Etiologia 8835 8850	cardioembolisme
+T41	_SUG_Localizacion 8961 8968	frontal
+T42	_SUG_Arteria_afectada 9017 9020	ACM
+T43	NIHSS_alta 9449 9456	NIHSS 3
+T45	mRankin_alta 9458 9463	mRS 2
+T48	Ictus_isquemico 9483 9497	Ictus isquèmic
+T49	Etiologia 9544 9558	cardioembòlica
+T50	Localizacion 9560 9564	PACI
+T51	_SUG_Etiologia 9705 9716	Hipertensió
+T52	Tratamiento_anticoagulante_alta 9803 9810	Sintrom
+T54	Fecha_de_alta 10490 10500	27/10/2017
+#54	AnnotatorNotes T54	2017-10-27
+T55	Hora_de_alta 10501 10506	15:12
+#55	AnnotatorNotes T55	15:12
+T56	SECCION_ANTECEDENTES_PERSONALES 496 517	ANTECEDENTS PERSONALS
+T57	SECCION_TRATAMIENTO_HABITUAL 899 918	Tractament habitual
+T58	SECCION_PROCESO_ACTUAL 1222 1237	MALALTIA ACTUAL
+T59	SECCION_EXPLORACION_FISICA 1875 1892	EXPLORACIÓ FÍSICA
+T60	SECCION_EXPLORACIONES_COMPLEMENTARIAS 3124 3152	EXPLORACIONS COMPLEMENTÀRIES
+T61	SECCION_EVOLUCION 7716 7724	EVOLUCIÓ
+T62	SECCION_DIAGNOSTICOS 9466 9479	JUDICI CLÍNIC
+T63	SECCION_TRATAMIENTO_AL_ALTA 9728 9738	TRACTAMENT
+T7	SECCION_EXPLORACION_FISICA_EN_URGENCIAS 1894 1903	Urgències
+T16	SECCION_EXPLORACION_FISICA_DURANTE_HOSPITALIZACION 2334 2340	Planta
+T47	SECCION_EXPLORACIONES_COMPLEMENTARIAS_EN_URGENCIAS 3154 3163	Urgències
+T64	SECCION_EXPLORACIONES_COMPLEMENTARIAS_EN_PLANTA_DE_NEUROLOGIA 4751 4757	Planta
+T65	Arteria_afectada 9500 9522	artèria cerebral mitja
+T66	Lateralizacion 9523 9531	esquerra
+T8	Fecha_trombolisis_rtPA 1265 1270	16/10
+#1	AnnotatorNotes T8	207-10-16
+T67	NIHSS_previa 2325 2332	NHISS 7
+#5	AnnotatorNotes T67	7
+#6	AnnotatorNotes T43	3
+#7	AnnotatorNotes T45	2

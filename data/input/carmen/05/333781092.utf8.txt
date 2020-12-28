@@ -1,0 +1,102 @@
+_LOCATION_
+Telèfon: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 78 anys
+NIF/DNI: _ID_Informe d'epicrisi
+17:16:36
+30.01.2017
+_LOCATION_
+_SS_
+MEDICINA INTENSIVA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_
+DOMICIL/RES.SOC 29.01.2017
+_NAME_
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Hemorragia cerebral aguda. Anticoagulación oral. Coma secundario.
+
+ANTECEDENTS
+No alergias medicamentosas conocidas
+
+ANTECEDENTES PATOLÓGICOS
+-	HTA, no diabetes ni dislipemia
+-	Fibrilacion paroxistica desde 2011 bajo tratamiento anticoagulante oral
+-	Portador de marcapasos por bloqueo AV completo.
+
+Buena calidad de vida, independiente para las actividades básicas de la vida diaria.
+
+MEDICACIÓ HABITUAL
+Sintrom, Losartan
+
+PROCÉS ACTUAL
+Paciente de 78 años de edad que es traído a urgencias vía SEM intubado por haber presentado esta mañana tras despertarse cuadro de inestabilidad con dificultad en el habla y hemiplejia izquierda. A la llegada del SEM a domicilio se valora como un GCS inicial de  12 puntos, pero durante el traslado se deprime neurológicamente, por lo que se procede a intubación orotraqueal. En urgencias sele realiza un TC craneal urgente que informa de "gran hemorragia intraparenquimatosa que condiciona desplazamiento de línia media y compresión del ventrículo lateral homolateral y el III ventrículo, junto a edema cerebral." Se contacta con neurocirugía que desestima manejo quirúrgico y se contacta con Medicina Intensiva para soporte asistencial.
+
+EXPLORACIÓ FÍSICA
+
+Neurológico: pupilas midriáticas arreactivas, ausencia de reflejo corneal aunque persiste reflejo tusígeno, GCS 1+T+1. No se ha administrado sedoanalgesia desde su llegada a urgencias.
+Hemodinámica: al ingreso HTA de 170/100mmHg pese a haberse administrado labetalol en urgencias. Recambiamos por Urapidil por FC de 50lpm. Auscultación con  tonos cardíacos rítmicos sin soplos, pulsos periféricos palpables y simétricos, sin edemas en EEII.
+Respiratorio: en ventilación mecánica,  modo IPPV, con FiO2 0.8 y PEEP 5 saturando 99%. AR con murmullo vesicular preparado sin ruidos sobreañadidos. Presenta secreciones mucopurulentas por tubo que se cultivan.
+Abdomen: blando y depresible, sin masas ni megalias, peristaltismo presente.
+
+
+EXPLORACIÓ COMPLEMENTÀRIA
+TAC CRANEAL: Gran hemorragia de todo el hemisferio dcho que comprime ventriculos y desplaza la linea media
+
+Informe d'epicrisi
+
+
+
+
+
+RX TORAX: Tubo correcto, marcapasos, parece haber atelectasia en LII
+
+ANALITICA: glucosa 166mg/dl, urea 42mg/dl, Cr 0.86mg/dl, GOT/GPT 28/18U/l, Na 136mmol/l, K 3.62mmol/l, Cl 106mmol/l, PCR 2.6mg/l, leucocitos 3.550, plaquetas 96mil, INR 4.81, PTTAr 1.71, fibrinógeno 3.3g/l.
+
+EVOLUCIÓ CLÍNICA
+Administradas 3000 U de complejo protrombínico para reversión de la anticoagulación. Al poco tiempo de llegar pasa de estar hipertenso a requerir inicio de aminas vasoactivas por hipotensión severa y a requerir manta térmica por hipotermia de 33.7ºC. Durante las primeras horas de ingreso va perdiendo reflejos de tronco, con una exploración clínico compatible con M. encefálica. Se le realiza un ecodoppler transcraneal que todavía evidencia presencia de flujos. Precisa inicio de desmopresina por poliuria en el contexto de diabetes insípida. A lo largo de la mañana del 30/01/2017 se realiza prueba de atropina y test de apnea, confirmando la exploración de muerte encefálica. Se confirma tras un nuevo doppler transcraneal la ausencia de flujo cerebral y se propone a la familia la posibilidad de donación, pero ésta la rechaza porque el paciente había expresado su negativa en vida.  Hora de diagnóstico de muerte encefálica 14.30 h. Extubación terminal a las 16.45. Paro circulatorio a las 16.55 horas.
+
+
+DIAGNÒSTICS
+
+
+431/1 Hemorragia intracerebral Coma secundario
+427.9/2 Aritmia supraventricular: Fibrilación auricular crónica
+348.82 Mort cerebral
+
+PROCEDIMENTS
+89.08 Altra consulta
+89.08 Altra consulta
+-	Reversión de la anticoagulación (Complejo Protrombínico)
+-	Ventilación mecánica < 96h
+-	Cateter venoso central
+-	Cateter arterial
+-	Aminas vasoactivas
+-	TC craneal
+-	Doppler transcraneal (3)
+-	Estudio de donante
+-	Limitación de las terapias de soporte vital
+-	Extubación terminal
+
+
+
+
+
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+07.02.2017
+Pàgina 1 de 2

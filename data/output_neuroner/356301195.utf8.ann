@@ -1,0 +1,38 @@
+T1	SECCION_ANTECEDENTES 312 324	Antecedentes
+T2	SECCION_ANTECEDENTES_QUIRURGICOS 1133 1135	IQ
+T3	SECCION_TRATAMIENTO_HABITUAL 1182 1194	Tto habitual
+T4	Tratamiento_anticoagulante_hab 1243 1250	sintrom
+T5	SECCION_SITUACION_FUNCIONAL 1288 1302	Situacion bsal
+T6	mRankin_previa 1304 1309	mRS 3
+#6	AnnotatorNotes T6	3
+T7	SECCION_PROCESO_ACTUAL 1416 1433	Enfermedad Actual
+T8	NIHSS_previa 1822 1828	NIH:19
+#8	AnnotatorNotes T8	19
+T9	ASPECTS 2793 2806	ASPECTS de 10
+#9	AnnotatorNotes T9	10
+T10	SECCION_EXPLORACIONES_COMPLEMENTARIAS 3853 3882	Exploraciones Complementarias
+T11	SECCION_EXPLORACIONES_COMPLEMENTARIAS_EN_URGENCIAS 3907 3925	Analític urgencias
+T12	SECCION_EXPLORACIONES_COMPLEMENTARIAS_EN_PLANTA_DE_NEUROLOGIA 4986 5006	Analítica de ingreso
+T13	SECCION_EVOLUCION 6983 6992	Evolución
+T14	NIHSS_alta 7483 7488	NIH 3
+#14	AnnotatorNotes T14	3
+T15	mRankin_alta 7490 7498	Rankin 4
+#15	AnnotatorNotes T15	4
+T16	Fecha_de_ingreso 100 110	28/03/2017
+#16	AnnotatorNotes T16	2017-03-28
+T17	Fecha_de_alta 124 134	03/04/2017
+#17	AnnotatorNotes T17	2017-04-03
+T18	Hora_inicio_sintomas 1479 1484	15.10
+#18	AnnotatorNotes T18	15:10
+T19	Fecha_inicio_sintomas 1490 1495	21/03
+#19	AnnotatorNotes T19	2017-03-21
+T20	Arteria_afectada 2847 2849	M2
+T21	Localizacion 2902 2906	TACI
+T22	SECCION_DIAGNOSTICOS 7606 7618	Diagnósticos
+T23	Ictus_isquemico 7619 7636	Infarto isquémico
+T24	Arteria_afectada 7651 7654	ACM
+T25	Lateralizacion 7655 7662	derecha
+T26	Etiologia 7676 7690	cardioembólica
+T27	TAC_craneal 3989 4000	TAC craneal
+T28	Trombolisis_intravenosa 7718 7735	Fibrinolisis rtPA
+T29	SECCION_TRATAMIENTO_AL_ALTA 7777 7788	Tratamiento

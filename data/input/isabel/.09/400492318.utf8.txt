@@ -1,0 +1,107 @@
+Nº Història Clínica: _ID_
+Episodi:  _ID_
+Nom i Cognoms: _NAME_
+CIP: _ID_
+Servei: REUMATOLOGIA
+Professional Responsable: Data ingrés:  17/08/2017
+Data Naixement: _DATE_ _NAME_
+Data sortida:  19/08/2017
+- Hospitalitzacio. HOSP -
+RPLC
+
+Data :  17/08/2017 Hora: 11:09:00Motiu de l'assistència :HOSP|| Procedència :CONSULTES EXTERNESÍtem :REUMATOLOGIA
+
+Pacient ingressada a planta d'hospitalització per control i tractament de Artritis Reumatoide, a càrrec de Reumatologia
+
+Malaltia Actual
+Avisa enfermería perque la pacient no pot comunicarse i està repetitiva, s'inicia a las 9:20 horas després de tornar del WC caminant amb caminador i estàn bé previament.
+
+Antecedents medics NAMC
+Paciente amb pluripatología: Obesitat mórbida. HTA. AR erosiva. Fa paroxística diagnosticada al 2015 en tractament antiagregant.
+A l'arrivada de MI de guardia la pacient està afàsica, incapaç de comunicar-se, i quan ho intenta està disártrica.
+-	FA paroxística.
+-	HTA.
+-	EPOC.
+-	Sdr ansiós-depressiva.
+-	PT genolls bilateral.
+-	Colelitiasis i LOE hepatica en estudi a _SS_
+-	Artritis   Reumatoide   FR   positiu   erosiva.   Va   fer   Enbrel   del   2008   al   2011, després Rituximab octubre-2014 i octubre-2015. Tractament amb Rituximab al setembre i Octubre de 2016. Ingrés a Reumatologia per brot AR 2015 y 2017 con RM caderas: trocanteritis bilateral y edema adductor menor y obturador externo D, dada de alta hace 24h
+Tractament actual
+Inacid 100mg 12 supositorios (1 supositori 24 hores)
+Urbason 4mg 30 comprimidos (2 comprimit 24 hores)
+Calcio/vitamina d3 rovi 1000mg/ 880 ui 30 comprim masticables (frasco) (1 comprimit 24 hores) Omeprazol davur 20mg 28 capsulas duras efg (1 càpsula 24 hores)
+Lederfolin 15mg 10 comprimidos (1 comprimit 7 dies)
+Metoject 15mg/0,30ml solucion inyectable en 1 jeringa precargada (1 injectable 7 dies) Paracetamol teva 1g 40 comprimidos efg (1 comprimit 12 hores)
+Diazepan prodes 5 mg 30 comprimidos (1 comprimit segons pauta)
+Adiro 300mg 30 comprimidos gastrorresistentes efg (1 comprimit 24 hores) Alprazolam pensa 0,5mg 30 comprimidos efg (1 comprimit 12 hores)
+Bisoprolol mylan pharmaceuticals 5mg 60 comprim recub pelic efg (1 comprimit 12 hores) Atrovent 20mcg/dos 200 dosis 10ml solucion inhalacion env a presion (3 inhalació 6 hores)
+
+
+Seguril 40mg 30 comprimidos (1 comprimit 12 hores)
+Diclofenaco alter 50mg 40 comprimidos gastrorresistentes efg (1 comprimit 24 hores) CLEXANE 40 ( 20H D'AHIR DARRERA DOSI)
+
+EF a urgències
+
+19/08/2017 10:40	Tensió art. Sist. : 157 mmHg; Tensió art. Diast. : 85 mmHg; Freq. cardiaca : 73 bat/ min; SatO2 amb oxigen : 98 %; Glucèmia capilar : 98 mg/dl;
+
+Obesitat mórbida.
+RC arritmicos, no bufs. TA:158/106 FC:78´ Eupneica. Hipofonesis global, no estertores. FR:16´ Sat basal 99%
+Abdomen globuloso, depresible, no doloroso a la exploración, sin signos de IP Edemes a ambdues EEII fins 1/3 mig ambh fóvea,canvis trofics cronics.
+Consciente, alerta, afàsica. Hemiplejia dreta.Babinski D. Desviació comissuta bucal a l'esquerra. Desviació de la mirada a l'esquerra
+
+
+OD: Ictus cardioembòlic en pacient amb FA paroxística no anticoagulada.
+
+TC Craneal
+Es realitzen talls axials 3/5 mm a nivell de fossa posterior i 10/10 mm. fins arribar al vèrtex cranial.
+
+A nivell del parènquima cerebral s'observa una bona diferenciació de la substància blanca i la substància grisa , sense apreciar signes d'atrofia cerebral.
+
+El sistema ventricular presenta una correcta morfologia , sense dilatació de les seves cavitats . Les diferents estructures de la línia mitja estan correctament centrades.
+
+No s'observen lesions focals hemisfèriques , ni a nivell de la fossa posterior. O.D.- Estudi TC dins de la normalitat.
+
+
+Firmat per:
+_NAME_
+
+
+Número de col·legiat: _ID_ Data i hora : 19/08/2017 10:38
+
+Analitica
+19/08/2017 10:40	Glucosa : Pendent ; Creatinina : 0.78 mg/dl; Filtrat Glomerular Estimat(MDRD-4) :
+79.28 mL/min/1.73m2; Sodi-sèrum : Pendent ; Potassi-sèrum : 3.90 mmol/l; Calci-sèrum : Pendent II; Colesterol -sèrum : Pendent ; Colesterol de HDL-sèrum : Pendent ; Colesterol de LDL -sèrum :
+Pendent càlcul; Triglicèrids-sèrum : Pendent ; Aspartat-aminotransferassa, ASAT/GOT-sèrum : 10.00 U/ l; Alanina-aminotransferasa,ALAT/GPT - sèrum : Pendent ; Gamma-glutamiltransferasa,GGT-sèrum : Pendent ; Fosfatasa alcalina-sèrum : Pendent ; Proteïna-sèrum : Pendent ; Albúmina-sèrum : Pendent ; Albúmina : Pendent ; Alfa-1-Globulina : Pendent ; Alfa-2-Globulina : Pendent ; Beta-globulina : Pendent ; Gamma-globulina : Pendent ; Velocitat de sedimentació,VSG-sang : Pendent 1h; Hematòcrit : Pendent ; Hematíes : Pendent ; Hemoglobina : 10.40 g/dL; VCM : 98.30 fL; HCM : 31.05 pg; CHCM : 31.58 g/dL; RDW : 15.02 %; Plaquetes : 258.90 10e9/L; VPM : 6.20 fL; Leucòcits : 10.73 10e9/L; Neutròfils : 68.12 %; Limfòcits : 23.07 %; Monòcits : 4.90 %; Eosinòfils : 2.57 %; Basòfils : 1.33
+%; NEU_ABS : 7.31 10e9/L; LINFOS_ABS : 2.47 10e9/L; MONO_ABS : 0.52 10e9/L; Eosinòfils :
+0.27 10e9/L; Basòfils : 0.14 10e9/L; Temps de protrombina : Pendent TP; INR : Pendent ; Temps de tromboplastina parcial : Pendent TTPA; Temps de tromboplastina parcial, TTPA-[ratio]-plas : Pendent ; Tirotropina : Pendent TSH;
+
+
+ECG Rs 70x' amb canvis a FA paroxistica.
+
+PLAN
+
+S'activa CODI Ictus, ens posem en contacte amb neurologia _SS_ i es decideix Fibrinolisi amb actilyse 10,53h
+
+9mg bolus + 81mg en BPC en 1h
+
+TRasllat _SS_, neurologia amb helicopter SEM
+
+*** La pacient té familia amb la que no es relaciona.
+Arriba amiga a Ucias que diu que té la seva representació legal i portarà els papers. Sra _NAME_ Telèfon _CONTACT_
+
+
+
+
+
+DIAGNÒSTICS
+
+
+719.40   DOLOR ARTICULAR, LLOC INESPECIFICAT
+434.91   OCLUSIO ARTERIA CEREBRAL INESPECIFICADA, AMB INFART CEREBRAL
+
+Firmat per:
+_NAME_
+Número de col·legiat: _ID_ Data i hora : 19/08/2017 11:50
+
+LLEI ORGÀNICA 15/1999, DE 13 DE DESEMBRE, DE PROTECCIÓ DE DADES DE CARÀCTER PERSONAL
+Us informem que les vostres dades de caràcter personal s'incorporen al fitxer anomenat "Fitxer de Pacients" titularitat de _SS_, així com al fitxer anomenat "Registre d'Informació Sanitària de Pacients" titularitat del Departament de Salut. Per a qualsevol informació addicional, o per exercir els drets reconeguts a l'esmentada llei us podeu adreçar a la Unitat d'Atenció al Ciutadà del centre on us han atès.

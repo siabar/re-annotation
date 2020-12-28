@@ -1,0 +1,16 @@
+T1	SECCION_DIAGNOSTICOS 27 39	Diagnosticos
+T2	SECCION_PROCEDIMIENTOS 125 139	Procedimientos
+T3	SECCION_MOTIVO_DE_INGRESO 219 236	Motivo de ingreso
+T4	SECCION_ANTECEDENTES 332 352	Antecedentes Médicos
+T5	SECCION_TRATAMIENTO_HABITUAL 506 530	Tratamiento domiciliario
+T6	SECCION_PROCESO_ACTUAL 630 639	Anamnesis
+T7	_SUG_TAC_craneal 977 989	TAC cerebral
+T8	SECCION_EXPLORACION_FISICA 1283 1294	Exploración
+T9	SECCION_EXPLORACION_FISICA_DURANTE_HOSPITALIZACION 1298 1351	Exploración Física a su llegada en la Unidad de Ictus
+T10	SECCION_EXPLORACIONES_COMPLEMENTARIAS 4798 4832	Resultados pruebas complementarias
+T11	TAC_craneal 4899 4910	TC cerebral
+T12	SECCION_EVOLUCION 8739 8761	Evolución Hospitalaria
+T13	_SUG_Trombolisis_intravenosa 8860 8892	tratamiento de reperfusión agudo
+T14	_SUG_Trombectomia_mecanica 8860 8886	tratamiento de reperfusión
+T15	_SUG_TAC_craneal 8908 8910	TC
+T16	SECCION_TRATAMIENTO_Y_RECOMENDACIONES_AL_ALTA 9691 9728	Recomendaciones y tratamiento al alta

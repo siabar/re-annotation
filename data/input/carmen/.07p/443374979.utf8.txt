@@ -1,0 +1,185 @@
+_LOCATION_) Telèfon _SS_  972 _CONTACT_
+Telèfon IDI (Ressonància i TAC) _CONTACT_
+Telèfon ICO _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 78 Anys
+NIF/DNI: _ID__NAME_; _NAME_;
+ _NAME_,;_NAME_
+Informe d'alta d'hospitalització
+CP	_LOCATION_
+ABS	_SS_
+Servei	NEUROLOGIA
+Data d'alta  15.11.2017	13:00:00
+_LOCATION_
+_CONTACT_
+AGUTS 14.11.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Ictus isquémico ACM izquierda de mecanismo cardioembólico.
+
+ANTECEDENTS
+Antecedentes personales:
+-	Refiere alergia a penicilina
+-	Exfumadora de 1 paquete dia durante 3-4 años. No recuerda exactamente cuando lo dejó.
+-	mRs 2.
+
+Antecedentes patológicos:
+-	Hipertension arterial.
+-	Diabetes mellitus en tto con ADO. Hemoglobina A1c de 5.2%
+-	Bronquitis crónica en tratamiento con broncodilatadores. Patrón obstructivo leve.
+-	IQ: prótesis de rodilla izquierda.
+
+MEDICACIÓ HABITUAL
+Metformina 850mg 1/2-0-1/2 Hidrosaluretil 50mg 1-0-0 Salbutamol 100mcg a demanda.
+Aceclofenac (Airtal) 100mg cada 12 horas. Paracetamol 1g si precisa
+
+
+PROCÉS ACTUAL
+Paciente que inicia cuadro clínico de forma súbita el 13/11/2017 aproximadamente a las 15.00h caracterizado por pérdida de fuerza de extremidades derechas con caída en el mismo lado sin TCE, e imposibilidad para la emisión del lenguaje. Avisan a SEM, activan código ictus a las 15.18h objetivando clinica de afasia global y plejia FBC derecha. A su llegada a nuestro hospital sobre las 16.30h es atendida de inmediato por neurologia de guardia.
+
+A su llegada se objetiva leve asimetria facial derecha y afasia leve detectando en ECG de urgencias fibrilacion auricular no conocida. Se realiza TC multimodal. No se evidencian signos de isquemia ni hemorragia aguda en estudio simple. El estudio de perfusión muestra hipoperfusión en todo el territorio de ACM izquierda. El Angio TC pone de manifiesto trombo en segmento M1 izquierda distal .
+
+Cumpliendo criterios de inclusión y ninguno de exclusión para tratamiento fibrinolítico endovenoso, se inicia tratamiento con rtPA, bolus de 6,7 mg a las 17:20 horas. Posteriormente, tras iniciar perfusión de rTPA, presenta deterioro neurológico con afasia global y hemiplejia derecha por lo que se para el tratamiento fibrinolitico y se realiza nueva TC craneal urgente que no muestra sangrado. Se reinicia perfusión de rTPa. Se contacta con neurólogo vascular de guardia de _SS_ para TEV de rescate, y acepta el traslado. Se revalora a la paciente que presenta nuevamente mejoría clínica persistiendo afasia motora y paresia facial central derecha (NIHSS=2).
+
+Informe d'alta d'hospitalització
+
+
+
+
+Llega al _SS_ a las 20:06. Se objetiva NIHSS 1 a expensas de paresia facial central derecha. Se realiza RM multimodal con dudosa lesión en DWI insular izquierda, oclusión distal M3-4 de ACM izquierda, sin defecto claro de perfusión, por lo que no reune criterios de tratramiento endovascular. Se contacta para retorno de nuevo a nuestro centro.
+
+
+EXPLORACIÓ FÍSICA
+
+FC	65 bpm Tªaxi  ºC
+FR	rpm Tªrec  ºC
+TA s	126 mmHg SAT O2 97 %
+TA d   59 mmHg Pes Kg
+
+-	Exploración inicial:
+Leve asimetria facial derecha y afasia leve. NIHSS 00000/10000/00100: 2.
+
+-	Exploración al alta:
+Consciente y alerta. Orientada en tres esferas. Lenguaje sin alteraciones. No dismetría. No hemianopsia. No PFC. Fuerza y sensibilidad conservadas. NIHSS: 0
+
+EXPLORACIÓ COMPLEMENTÀRIA
+-	A/S: Hemograma, bioquímica, perfil renal sin lateraciones patológicas. Coagulación normal. Perfil lipídico: Colesterol 184 mg/dL, HDL 65 mg/dL, LDL 84 mg/dL, Triglicèrid 174 mg/dL, Troponina T hs* 19 ng/L.
+
+-	ECG urgencias: FA con respuesta ventricular conservada.
+-	monitorización en unidad de Ictus: Ritmo sinusal.
+
+-	Rx tórax: Radiografia en decúbito rotada, mal penetrada y mal inspirada. Marco óseo sin fracturas costales evidentes, pleuras normales con senos no pinzados, sin condensaciones aparentes. Ensanchamiento mediastínico no valorable.
+
+-Estudio Dúplex TSA: Signos de ateromatosisis en ambas ACC y bifurcación carotídeo sin evidenciar signos de estenosis en segmento bulbar ni post- bulbar de ninguna ACI.
+-	Estudio dúplex transcraneal con contraste por MVOT: Flujo amortiguado en segmento proximal de M1 izquierda sin registrar flujo sanguineo distal a la bifurcación. Probable oclusión distal ACM izquierda.
+
+-TAC multimodal: sin objetivar lesiones isquémicas ni hemorrágicas agudas en parénquima cerebral. Estudio angiográfico muestra trombo oclusivo en segmento M1 distal. En el estudio de perfusión se observa prolongación de los mapas MTT- TTP en el territorio superficial de la ACM izquierda.
+
+-RM (_SS_): Hallazgos congruentes con isquemia aguda en parte del territorio superficial de ACM izquierda en relación a oclusión de una rama de la división anterior (no obstante el retraso circulatorio es ligero). Un mínimo foco insular anterior podría corresponder a isquemia establecida. M1 izquierda es patente.
+
+-TC de control (24hs post rtPA): No se observan signos de transformación hemorrágica valorables. Estudio TC sin cambios significativos respecto al estudio TC previo.
+
+Informe d'alta d'hospitalització
+
+
+
+EVOLUCIÓ CLÍNICA
+A su llegada de nuevo a _SS_, ingresa en nuestra unidad de ictus bajo vigilancia semintensiva. Se mantiene hemodinámicamente estable y sin haber presentado complicaciones infecciosas secundarias asociadas.
+
+Se realiza TAC craneal control (24h post-rTPA) que no muestra signos de transformación hemorrágica, ni lesiones isquémicas agudas. Se inicia tratamiento anticoagulante con HBPM y posterior paso a Sintrom por registro de FA en ECG inicial (telemetría en unidad en ritmo sinusal).
+
+Clínicamente asintomática, con NIHSS de 0. Inicia deambulación con caminador.
+
+En resumen, se  trata de una paciente con FRV que presenta un ictus isquémico en territorio vascular de ACM izquierda de mecanismo embólico y causa cardioembólica por FA paroxística (registro de un episodio de FA en ECG inicial y resto de telemetría en ritmo sinusal) por lo que precisa tratramiento anticoagulante oral como prevención secundaria además de control de resto de factores de riesgo. Al alta, paso de HBPM a Sintrom según pauta adjunta y controles posteriores por su MAP para correcto control de cifras INR.
+Dada la estabilidad clínica y de acuerdo con su familia, se decide alta a domicilio. ESCALAS AL ALTA:
+NIHSS : 0
+Barthel :100
+mRs: 2
+
+
+DIAGNÒSTICS
+436/5 Ictus isquémico ACM izquierda de mecanismo embólico y causa cardioembólica por FA paroxístca.
+427.31 Fibril·lació auricular
+401.9 Hipertensió essencial inespecificada 250.00/2 Diabetis mellitus II, controlada
+
+
+
+PROCEDIMENTS
+A/S; TAC craneal; Duplex TSA t transcraneal; Rm cerebral.
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+-Dieta sana mediterránea, baja en grasa y controlada en sal.
+
+-	Enoxaparina 70mg c/12hs
+-	Paso a Sintrom segun pauta.
+-	Metformina 850mg 1/2-0-1/2
+-	Hidrosaluretil 50mg 1-0-0
+-	Salbutamol 100mcg a demanda.
+-	Paracetamol 1g si precisa.
+-	
+Informe d'alta d'hospitalització
+
+
+
+CONTROL
+-	Control de SINTROM y resto de factores de riesgo vascular por MAP, siendo valores objetivo cifras de TA
+<140/80 mmHg y LDL < 70mg/dL.
+-	Revisión en consulta d eNeurología en 3 meses. Recibirá cita en domicilio.
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+15.11.2017
+Pàgina 1 de 4

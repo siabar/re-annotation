@@ -1,0 +1,98 @@
+_LOCATION_ Tel. _CONTACT_
+_CONTACT_
+Informe Alta Hospitalització
+_NAME_
+HC: _ID_
+
+>
+
+
+Adreça: _LOCATION_	Data naix.: _DATE_ Població: _LOCATION_	Sexe: MASCULI
+Provincia: _LOCATION_	CIP: _ID_
+País: _LOCATION_	NASS: _ID_
+Telèfon: _CONTACT_	DNI o Tarja Residència: _ID_
+
+
+Servei: Neurologia	Data ingrés a URG: 14/09/2017 21:38
+Unitat clínica: Neurologia	Data hospitalització: 14/09/2017 22:24
+Tipus d'ingrés: Urgències	Data alta: 22/09/2017 17:33
+Proveïdor de Serveis: Servei Català de la Salut	Destí: 01 - Alta Domicili
+
+
+
+Diagnòstic principal:
+
+434.91 AVC ISQUEMIC
+carotidi esquerre PACI DÈTIOLOGIA INDETERMINADA
+
+
+
+
+
+Pacient de 64 anys d'edat que ingressa per codi ictus
+
+Situació funcional:
+
+Situació mental: Funcionamiento intelectual normal
+Situació física: Independiente
+
+Història Actual:
+
+Home de 64 anys sense al·lèrgies medicamentoses conegudes. No hàbits tòxics. Sense factors de risc cardiovascular. No càrdio-pneumo-gastropatia conegudes.
+
+Portat a urgències el 14/09/17 com a codi ictus extrahospitalari activat a les 21:00h, per alteració del llenguatge en forma d'afàsia de 45 minuts d'evolució. Arriba al nostre centre a les 21:38h sense altra focalitat afegida. Es realitza TC de crani a les 21:52h amb ASPECTS 10/10 amb angio-TC que descarta oclusió de gran vas i TC de perfusió amb àrea d'isquèmia establerta a territori temporal esquerre amb una área superior de missmatch, iniciant-se rTPA a les 22:00h sense milloria clínica posterior amb TC crani de control a les 24h que evidencia infart isquèmic agut temporal esquerre a territori d'ACM superficial.
+
+Exploració física:
+
+TA: 138/68, FC: 53X', Tº: 34.8ºC
+AC: TC rítmics sense bufs ni frecs. Polsos perifèrics presents i simètrics. No edemes EEII ni signes de TVP.
+AR: MVC sense sorolls sobreafegits. Eupneic.
+NRL: conscient. Afàsia mixta moderada amb parafàsies. No oftalmoparèsies i campimetria conservada. PICNR. No nistagmus. No PFSN. No dèficit motor ni sensitiu. Marxa sense alteracions.
+
+Resum proves complementàries:
+
+Laboratori:
+
+
+-	Analítica: Leucòcits 5.89 x 10^9/L, Hematies *3.99 x 10^12/L, Hemoglobina 137 g/L, Hematòcrit *0.39 L/L, Volum corpuscular mig 98.7 fL, Hemoglobina corpuscular mitja *34.3 pg, Conc. Hb. corpuscular mitja 348 g/L, Índex dispersió hematies 12.4 %, Plaquetes 170 x 10^9/L, Volum plaquetar mig 12.8 fL, Índex dispersió de plaquetes 16.2 fL, Plaquetòcrit 0.022 L/L, Neutròfils (%) 56.9 %, Neutròfils 3.35 x 10^9/L, Limfòcits (%) 35.8 %, Limfòcits 2.11 x 10^9/L, Eosinòfils (%) 0.7 %, Eosinòfils 0.04 x 10^9/L, Basòfils (%)
+0.5 %, Basòfils 0.03 x 10^9/L, Monòcits (%) 6.1 %, Monòcits 0.36 x 10^9/L, Temps protrombina 0.97 ratio, T.Tromboplastina parcial activ 0.82 ratio, Glucosa 106 mg/dL, Urea *56 mg/dL, Creatinina *1.43 mg/dL, Sodi 142 mEq/L, Potassi 4.6 mEq/L, Aspartat aminotransferasa(AST) 22 U/L, Bilirubina total 0.9 mg/dL, Creatinquinasa (CK) 150 U/L, Proteïnes totals *61 g/L, Magnesi 2 mg/dL, Colesterol total 188 mg/dL, Triglicèrids 70 mg/dL, Colesterol-HDL 66.6 mg/dL, Colesterol-LDL 107 mg/dL.
+
+Imatge:
+
+-	Rx tòrax: No cardiomegàlia. No lesions parenquimatoses i sins costofrènics lliures.
+-	TC crani (14/09/17): sense lesions intracranials agudes ASPECTS 10/10
+-	TC perfusió: Àrea temporal esquerra amb augment del temps i disminució tant del fluxe com del volum, suggestiu d'àrea isquèmia establerta i unes altres temporal posterior i temporo-parietal amb augment del temps, disminució del flux amb volum preservat, corresponent a petites àrees de mismatch.
+-	Angio-TC carotidi: no evidencia de oclusió de gran vas
+-	TC crani (15/09/17): Infart isquèmic agut temporal esquerre a territori d'ACM superficial. No hi ha evidè ncia de lesions hemorràgiques intracranials.
+-	Ecocardiograma TT: normal
+-	Ecocardiograma TE: sense alteracions
+
+Altres proves:
+
+-	ECG: ritme sinusal normofreqüent
+
+Evolució i comentaris:
+
+Home de 64 anys sense factors de risc cardiovascular, que ingressa per ictus isquèmic ACM esquerra, que va debutar en forma d'afàsia global amb TC de crani inicial sense lesions agudes i angio-TC carotidi que descarta oclusió de gran vas, que donat l'absència de contraindicacions s'inicia rTPA ev, amb TC cranial de control que evidencia lesió isquèmica temporal aguda d'ACM esquerra superficial. S'ha realitzat estudi cardíac amb ecocardiograma (transtoràcic i transesofàgic) sense alteracions. Ha estat monitoritzat  a UCI durant 4 dies sense detectar aritmies.
+Analíticament sense alteracions significatives.
+
+Posteriorment ha presentat millora clínica progressiva, persistint actualment afàsia mixta moderada amb més afectació de la comprensió i sense incidències durant l'ingrés.
+
+Es decideix alta a domicili amb antiagregació, control dels FRCV i control a CEX de Logopèdia i Neurologia.
+
+Tractament:
+
+Fàrmacs:
+
+-	Adiro 100mg/dia
+-	Omeprazol 20mg/dia
+-	
+
+Altres recomanacions:
+
+-	Seguiment per CEX de Logopèdia i Neurologia. Control per metge especialista de zona
+
+_LOCATION_, 22/09/2017
+_NAME_	_NAME_
+(Nº col _ID_)	(Nº col _ID_
+Nom i cognoms metge: _NAME_ (Nº col: _ID_Pàg.: 1/3

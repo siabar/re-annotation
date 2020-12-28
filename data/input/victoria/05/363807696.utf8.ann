@@ -1,0 +1,108 @@
+T0	Fecha_de_alta 263 273	24.04.2017
+#0	AnnotatorNotes T0	2017-04-24
+T1	Hora_de_alta 274 279	11:08
+#1	AnnotatorNotes T1	11:08
+T2	Fecha_de_ingreso 348 358	17.04.2017
+#2	AnnotatorNotes T2	2017-04-17
+T3	SECCION_MOTIVO_DE_INGRESO 419 433	MOTIU D'INGRÉS
+T4	_SUG_Ictus_isquemico 448 453	Ictus
+T5	_SUG_Lateralizacion 488 497	esquerres
+T6	SECCION_ANTECEDENTES 519 530	ANTECEDENTS
+T7	SECCION_ANTECEDENTES_PATOLOGICOS 531 553	Antecedents patològics
+T8	_SUG_Lateralizacion 646 655	bilateral
+T9	_SUG_Lateralizacion 764 773	bilateral
+T10	FECHA 991 999	enero-17
+#10	AnnotatorNotes T10	2017-01-UNDEF-day
+T11	_SUG_Lateralizacion 1172 1179	derecho
+T12	FECHA 1181 1189	marzo-17
+#12	AnnotatorNotes T12	2017-03-UNDEF-day
+T14	SECCION_TRATAMIENTO_HABITUAL 1289 1307	MEDICACIÓ HABITUAL
+T15	Tratamiento_antiagregante_hab 1351 1356	Adiro
+T16	SECCION_PROCESO_ACTUAL 1453 1466	PROCÉS ACTUAL
+T17	HORA 1501 1506	04:30
+#17	AnnotatorNotes T17	04:30
+T18	_SUG_Lateralizacion 1555 1564	esquerres
+T19	_SUG_Ictus_isquemico 1621 1626	Ictus
+T20	_SUG_Lateralizacion 1728 1736	esquerra
+T21	_SUG_Lateralizacion 1785 1793	esquerre
+T22	_SUG_NIHSS 1798 1808	NIHSS de 6
+T23	_SUG_TAC_craneal 1816 1827	TC de crani
+T24	_SUG_Localizacion 1854 1859	lobar
+T25	_SUG_Localizacion 1860 1868	parietal
+T26	_SUG_Lateralizacion 1869 1873	dret
+T27	SECCION_EXPLORACION_FISICA 1989 2006	EXPLORACIÓ FÍSICA
+T28	_SUG_Lateralizacion 2325 2333	esquerre
+T29	_SUG_Lateralizacion 2352 2360	esquerra
+T30	NIHSS_previa 2485 2526	NIHSS (0-0-0)0-2/0(0-2)(0-0)/0-0-0-0- 0=4
+T31	SECCION_EXPLORACIONES_COMPLEMENTARIAS 2565 2590	EXPLORACIÓ COMPLEMENTÀRIA
+T32	TAC_craneal 2803 2814	TAC craneal
+T33	_SUG_Hemorragia_cerebral 2824 2832	Hematoma
+T34	_SUG_Localizacion 2868 2875	profund
+T35	_SUG_Localizacion 2876 2884	parietal
+T36	_SUG_Lateralizacion 2885 2889	dret
+T37	_SUG_Localizacion 2947 2957	ventricles
+T38	_SUG_Lateralizacion 2958 2966	laterals
+T39	_SUG_Localizacion 2990 3000	occipitals
+T40	_SUG_Localizacion 3019 3030	subcortical
+T41	_SUG_Localizacion 3144 3153	posterior
+T42	_SUG_Localizacion 3155 3160	tronc
+T43	_SUG_Hemorragia_cerebral 3231 3239	hematoma
+T44	_SUG_Localizacion 3254 3262	parietal
+T45	_SUG_Lateralizacion 3263 3264	D
+T46	_SUG_Localizacion 3294 3305	ventricular
+T47	_SUG_TAC_craneal 3308 3319	TC de crani
+T48	FECHA 3321 3326	18/04
+#48	AnnotatorNotes T48	2017-04-18
+T49	_SUG_Hemorragia_cerebral 3335 3343	hematoma
+T50	_SUG_Localizacion 3358 3366	parietal
+T51	_SUG_Lateralizacion 3367 3371	dret
+T52	_SUG_Localizacion 3398 3408	ventricles
+T53	_SUG_Lateralizacion 3409 3417	laterals
+T54	_SUG_Localizacion 3437 3448	subcortical
+T55	_SUG_Hemorragia_cerebral 3477 3485	Hematoma
+T56	_SUG_Localizacion 3486 3494	parietal
+T57	_SUG_Lateralizacion 3495 3496	D
+T58	FECHA 3719 3724	21/04
+#58	AnnotatorNotes T58	2017-04-21
+T59	_SUG_Hemorragia_cerebral 3727 3735	Hematoma
+T60	_SUG_Lateralizacion 3767 3774	derecho
+T61	_SUG_Etiologia 3834 3853	angiopatía amiloide
+T62	SECCION_EVOLUCION 3893 3909	EVOLUCIÓ CLÍNICA
+T63	_SUG_mRankin 3989 3997	Rankin 3
+T64	_SUG_Lateralizacion 4060 4069	esquerres
+T65	_SUG_Hemorragia_cerebral 4095 4114	hemorragia cerebral
+T66	_SUG_Localizacion 4115 4120	lobar
+T67	_SUG_Localizacion 4121 4129	parietal
+T68	_SUG_Lateralizacion 4130 4135	dreta
+T69	_SUG_TAC_craneal 4208 4219	TC de crani
+T70	_SUG_Hemorragia_cerebral 4254 4266	l'hemorragia
+T71	_SUG_Etiologia 4339 4361	d'angiopatia amiloidal
+T72	_SUG_Hemorragia_cerebral 4411 4423	l'hemorragia
+T73	_SUG_Lateralizacion 4508 4516	esquerra
+T74	_SUG_Etiologia 4721 4729	habitual
+T75	mRankin_alta 4771 4779	Rankin 4
+T76	NIHSS_alta 4781 4791	NIHSS de 1
+T77	SECCION_DIAGNOSTICOS 4794 4805	DIAGNÒSTICS
+T78	Hemorragia_cerebral 4814 4833	Hemorragia cerebral
+T79	Localizacion 4834 4839	lobar
+T80	Localizacion 4840 4848	parietal
+T81	Lateralizacion 4849 4854	dreta
+T82	_SUG_Etiologia 4889 4900	Hipertensió
+T83	_SUG_Lateralizacion 4983 4986	esq
+T84	SECCION_TRATAMIENTO_Y_RECOMENDACIONES_AL_ALTA 5040 5075	TRACTAMENT I RECOMANACIONS A L'ALTA
+T85	SECCION_CONTROL 5110 5117	CONTROL
+T86	SECCION_DESTINO_AL_ALTA 5164 5183	DESTINACIÓ A L'ALTA
+T87	FECHA 5280 5290	24.04.2017
+#87	AnnotatorNotes T87	2017-04-24
+T88	Fecha_llegada_hospital 455 460	17/04
+#3	AnnotatorNotes T88	2017-04-17
+T89	Fecha_inicio_sintomas 455 460	17/04
+#4	AnnotatorNotes T89	2017-04-17
+T13	mRankin_previa 1269 1287	Rankin previo de 3
+#5	AnnotatorNotes T13	3
+#6	AnnotatorNotes T30	4
+T90	Fecha_TAC_inicial 2815 2821	17/024
+#7	AnnotatorNotes T90	2017-04-17
+T91	Etiologia 4867 4879	amiloidòtica
+#8	AnnotatorNotes T75	4
+#9	AnnotatorNotes T76	1

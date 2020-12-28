@@ -1,0 +1,52 @@
+T0	FECHA 324 334	29/04/2017
+#0	AnnotatorNotes T0	2017-04-29
+T1	FECHA 406 414	1/5/2017
+#1	AnnotatorNotes T1	2017-05-01
+T2	FECHA 443 451	4/5/2017
+#2	AnnotatorNotes T2	2017-05-04
+T3	FECHA 489 493	29/4
+#3	AnnotatorNotes T3	2017-04-29
+T4	HORA 500 505	11:00
+#4	AnnotatorNotes T4	11:00
+T5	HORA 632 637	12:20
+#5	AnnotatorNotes T5	12:20
+T6	_SUG_Trombolisis_intravenosa 741 753	trombolsisis
+T7	_SUG_NIHSS 773 780	NIHSS 1
+T8	_SUG_TAC_craneal 846 856	TC craneal
+T9	HORA 858 863	12:35
+#9	AnnotatorNotes T9	12:35
+T10	FECHA 1049 1057	5/4/2017
+#10	AnnotatorNotes T10	2017-04-05
+T11	FECHA 1242 1250	5/4/2017
+#11	AnnotatorNotes T11	2017-04-05
+T12	SECCION_TRATAMIENTO_HABITUAL 1587 1606	Medicación habitual
+T13	_SUG_NIHSS 2071 2078	NIHSS 0
+T14	_SUG_Test_de_disfagia 2080 2094	Test deglución
+T15	SECCION_EXPLORACIONES_COMPLEMENTARIAS 2107 2141	Proves complementàries realitzades
+T16	_SUG_Trombolisis_intravenosa 2330 2334	TTpa
+T17	_SUG_TAC_craneal 2399 2410	TAC craneal
+T18	FECHA 2478 2486	4/5/2017
+#18	AnnotatorNotes T18	2017-05-04
+T19	_SUG_Trombolisis_intravenosa 3709 3730	tratamiento realizado
+T20	_SUG_Trombectomia_mecanica 3709 3730	tratamiento realizado
+T21	FECHA 4196 4199	8/5
+#21	AnnotatorNotes T21	2017-05-08
+T22	HORA 4206 4211	09:00
+#22	AnnotatorNotes T22	09:00
+T23	SECCION_DESTINO_AL_ALTA 4367 4382	Destino al alta
+T24	_SUG_mRankin 4395 4411	Rankin (alta): 0
+T25	_SUG_NIHSS 4412 4427	NIHSS (alta):	0
+T26	SECCION_DIAGNOSTICOS 4431 4443	Diagnósticos
+T27	SECCION_DIAGNOSTICO_PRINCIPAL 4447 4468	Diagnóstico principal
+T28	_SUG_Ictus_isquemico 4481 4500	infartos cerebrales
+T29	_SUG_Arteria_afectada 4518 4521	ACM
+T30	_SUG_Lateralizacion 4522 4531	izquierda
+T31	_SUG_Etiologia 4535 4556	causa aterotrombotica
+T32	SECCION_DIAGNOSTICOS_SECUNDARIOS 4558 4582	Diagnósticos secundarios
+T33	SECCION_PROCEDIMIENTOS 4738 4752	Procedimientos
+T34	_SUG_TAC_craneal 4756 4766	TC craneal
+T35	_SUG_TAC_craneal 4796 4803	craneal
+T36	SECCION_TRATAMIENTO_AL_ALTA 4805 4824	Tratamiento al alta
+T37	_SUG_Tratamiento_antiagregante 4859 4862	AAS
+T38	_SUG_Tratamiento_antiagregante 4877 4888	Clopidogrel
+T39	SECCION_RECOMENDACIONES 4952 4992	Recomendaciones de prevención secundaria

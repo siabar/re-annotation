@@ -1,0 +1,166 @@
+T0	FECHA 236 246	01.11.2017
+#0	AnnotatorNotes T0	2017-11-01
+T1	HORA 247 252	12:22
+#1	AnnotatorNotes T1	12:22
+T2	FECHA 259 269	08.11.2017
+#2	AnnotatorNotes T2	2017-11-08
+T3	HORA 270 275	12:47
+#3	AnnotatorNotes T3	12:47
+T4	_SUG_Ictus_isquemico 381 384	AVC
+T5	_SUG_Ictus_isquemico 422 425	AVC
+T6	SECCION_MOTIVO_DE_INGRESO 527 545	MOTIVO DE CONSULTA
+T7	_SUG_Lateralizacion 573 583	izquierdas
+T8	_SUG_mRankin_alta 706 711	mRs 0
+T9	_SUG_mRankin_previa 706 711	mRs 0
+T10	SECCION_ANTECEDENTES_PATOLOGICOS 714 738	ANTECEDENTES PATOLOGICOS
+T11	FECHA 930 945	septiembre/2017
+#11	AnnotatorNotes T11	2017-09-UNDEF-day
+T12	_SUG_TAC_craneal 1075 1077	TC
+T13	_SUG_Lateralizacion 1150 1159	izquierda
+T14	FECHA 1161 1168	10/2016
+#14	AnnotatorNotes T14	2016-10-UNDEF-day
+T15	_SUG_Etiologia 1225 1237	HIPERTENSION
+T16	SECCION_TRATAMIENTO_HABITUAL 1319 1339	TRATAMIENTO HABITUAL
+T17	_SUG_Tratamiento_antiagregante_alta 1341 1344	AAS
+T18	_SUG_Tratamiento_antiagregante_hab 1341 1344	AAS
+T19	SECCION_PROCESO_ACTUAL 1498 1513	EPISODIO ACTUAL
+T20	FECHA 1518 1523	01/11
+#20	AnnotatorNotes T20	2011-01-UNDEF-day
+T21	HORA 1541 1546	10:15
+#21	AnnotatorNotes T21	10:15
+T22	_SUG_Lateralizacion 1623 1633	izquierdas
+T23	HORA 1671 1676	10:50
+#23	AnnotatorNotes T23	10:50
+T24	HORA 1832 1837	11:37
+#24	AnnotatorNotes T24	11:37
+T25	_SUG_Lateralizacion 1877 1884	derecho
+T26	_SUG_NIHSS_alta 1894 1902	NIHSS 16
+T27	_SUG_NIHSS_previa 1894 1902	NIHSS 16
+T28	_SUG_TAC_craneal 1908 1918	TC craneal
+T29	HORA 1926 1931	11:41
+#29	AnnotatorNotes T29	11:41
+T30	_SUG_Trombolisis_intravenosa 2020 2024	rtPA
+T31	HORA 2032 2037	11:53
+#31	AnnotatorNotes T31	11:53
+T32	_SUG_Arteria_afectada 2145 2147	M2
+T33	_SUG_Arteria_afectada 2161 2164	ACM
+T34	_SUG_Lateralizacion 2165 2172	derecha
+T35	_SUG_Ictus_isquemico 2203 2208	ictus
+T36	SECCION_EXPLORACION_FISICA 2302 2320	EXPLORACION FISICA
+T37	_SUG_Lateralizacion 2484 2491	derecha
+T38	_SUG_Lateralizacion 2545 2554	izquierda
+T39	_SUG_Lateralizacion 2600 2609	izquierda
+T40	_SUG_Lateralizacion 2647 2656	izquierdo
+T41	_SUG_Lateralizacion 2665 2672	derecho
+T42	_SUG_NIHSS_alta 2674 2713	NIHSS 15 (0-0-0-2-2-2-0-2-0-2-0-1-0-1-1
+T43	_SUG_NIHSS_previa 2674 2713	NIHSS 15 (0-0-0-2-2-2-0-2-0-2-0-1-0-1-1
+T44	FECHA 2948 2953	02/11
+#44	AnnotatorNotes T44	2011-02-UNDEF-day
+T45	_SUG_Lateralizacion 3148 3157	izquierda
+T46	_SUG_Lateralizacion 3179 3188	izquierda
+T47	_SUG_Lateralizacion 3226 3235	izquierdo
+T48	_SUG_Lateralizacion 3245 3252	derecho
+T49	_SUG_NIHSS_alta 3290 3328	NIHSS (0-0-0-0-0-0-0-0-0-1-0-0-0-0-1)2
+T50	_SUG_NIHSS_previa 3290 3328	NIHSS (0-0-0-0-0-0-0-0-0-1-0-0-0-0-1)2
+T51	_SUG_NIHSS_alta 3637 3644	NIHSS 0
+T52	_SUG_NIHSS_previa 3637 3644	NIHSS 0
+T53	SECCION_EXPLORACIONES_COMPLEMENTARIAS 3647 3676	EXPLORACIONES COMPLEMENTARIAS
+T54	FECHA 3736 3741	06/11
+#54	AnnotatorNotes T54	2011-06-UNDEF-day
+T55	_SUG_TAC_craneal 3835 3845	TC craneal
+T56	_SUG_Localizacion 3885 3903	infartos lacunares
+T57	_SUG_Localizacion 3932 3939	caudado
+T58	_SUG_Lateralizacion 3940 3947	derecho
+T59	_SUG_Lateralizacion 3966 3973	derecha
+T60	_SUG_Localizacion 4015 4022	frontal
+T61	_SUG_Lateralizacion 4023 4030	derecha
+T62	_SUG_Arteria_afectada 4194 4197	ACC
+T63	_SUG_Lateralizacion 4198 4205	derecha
+T64	_SUG_Arteria_afectada 4495 4497	M1
+T65	_SUG_Arteria_afectada 4501 4504	ACM
+T66	_SUG_Arteria_afectada 4522 4524	M2
+T67	_SUG_Arteria_afectada 4528 4531	ACM
+T68	_SUG_Lateralizacion 4532 4541	izquierda
+T69	_SUG_Arteria_afectada 4573 4575	M2
+T70	_SUG_Lateralizacion 4585 4592	derecha
+T71	_SUG_Arteria_afectada 4643 4645	M2
+T72	_SUG_TAC_craneal 4774 4784	TC craneal
+T73	_SUG_Arteria_afectada 4878 4881	ACI
+T74	_SUG_Lateralizacion 4948 4955	derecha
+T75	_SUG_Lateralizacion 4981 4990	izquierda
+T76	_SUG_Lateralizacion 5093 5094	D
+T77	_SUG_Arteria_afectada 5115 5118	ACP
+T78	_SUG_Lateralizacion 5119 5126	derecha
+T79	_SUG_Arteria_afectada 5150 5153	ACA
+T80	_SUG_Lateralizacion 5154 5163	izquierda
+T81	_SUG_TAC_craneal 5198 5208	TC craneal
+T82	FECHA 5210 5215	02/11
+#82	AnnotatorNotes T82	2011-02-UNDEF-day
+T83	_SUG_Localizacion 5318 5327	posterior
+T84	_SUG_Lateralizacion 5328 5335	derecha
+T85	_SUG_Lateralizacion 5381 5390	izquierda
+T86	_SUG_Arteria_afectada 5664 5667	ACM
+T87	_SUG_Lateralizacion 5668 5675	derecha
+T88	_SUG_Localizacion 5723 5741	Infartos lacunares
+T89	_SUG_Localizacion 5745 5764	ganglios de la base
+T90	_SUG_Arteria_afectada 5851 5853	M2
+T91	_SUG_Lateralizacion 5854 5861	derecha
+T92	_SUG_Lateralizacion 5881 5890	izquierda
+T93	_SUG_Lateralizacion 5899 5908	izquierda
+T94	_SUG_Arteria_afectada 5926 5929	ACP
+T95	_SUG_Lateralizacion 5930 5937	derecha
+T96	_SUG_Lateralizacion 6106 6107	I
+T97	_SUG_Etiologia 6164 6174	aneurismas
+T98	_SUG_Localizacion 6261 6270	posterior
+T99	_SUG_Lateralizacion 6671 6678	derecho
+T100	_SUG_Arteria_afectada 6919 6936	Arteria vertebral
+T101	_SUG_Lateralizacion 6967 6976	izquierdo
+T102	_SUG_Arteria_afectada 7217 7234	Arteria vertebral
+T103	SECCION_DIAGNOSTICOS 7296 7319	ORIENTACION DIAGNOSTICA
+T104	_SUG_Ictus_isquemico 7324 7339	ICTUS ISQUEMICO
+T105	_SUG_Arteria_afectada 7360 7363	ACM
+T106	_SUG_Lateralizacion 7364 7371	DERECHA
+T107	_SUG_Arteria_afectada 7382 7384	M2
+T108	_SUG_Trombolisis_intravenosa 7386 7390	rtPA
+T109	_SUG_Lateralizacion 7497 7504	derecho
+T110	_SUG_NIHSS_alta 7506 7514	NIHSS 15
+T111	_SUG_NIHSS_previa 7506 7514	NIHSS 15
+T112	FECHA 7523 7527	1/11
+#112	AnnotatorNotes T112	2011-11-01
+T113	HORA 7534 7539	10:15
+#113	AnnotatorNotes T113	10:15
+T114	_SUG_TAC_craneal 7649 7659	TC craneal
+T115	_SUG_Arteria_afectada 7730 7732	M2
+T116	_SUG_Arteria_afectada 7739 7742	ACM
+T117	_SUG_Lateralizacion 7743 7750	derecha
+T118	_SUG_Trombolisis_intravenosa 7803 7807	rtPA
+T119	_SUG_Ictus_isquemico 7842 7847	ictus
+T120	_SUG_Arteria_afectada 8063 8066	ACM
+T121	_SUG_Lateralizacion 8067 8074	derecha
+T122	_SUG_Localizacion 8085 8093	temporal
+T123	_SUG_Lateralizacion 8094 8101	derecho
+T124	_SUG_Tratamiento_antiagregante_alta 8424 8434	cloidogrel
+T125	_SUG_Tratamiento_antiagregante_hab 8424 8434	cloidogrel
+T126	_SUG_NIHSS_alta 8462 8467	NIHSS
+T127	_SUG_NIHSS_previa 8462 8467	NIHSS
+T128	_SUG_Etiologia 8487 8518	indeterminado (estudio completo
+T129	_SUG_mRankin_alta 8521 8524	mRs
+T130	_SUG_mRankin_previa 8521 8524	mRs
+T131	_SUG_Localizacion 8559 8563	PACI
+T132	FECHA 8734 8739	13/11
+#132	AnnotatorNotes T132	2011-11-13
+T133	SECCION_TRATAMIENTO_AL_ALTA 8791 8810	TRATAMIENTO AL ALTA
+T134	_SUG_Tratamiento_antiagregante_alta 8815 8821	Plavix
+T135	_SUG_Tratamiento_antiagregante_hab 8815 8821	Plavix
+T136	HORA 8853 8855	20
+#136	AnnotatorNotes T136	20:00
+T137	FECHA 8918 8923	13/11
+#137	AnnotatorNotes T137	2011-11-13
+T138	_SUG_Etiologia 8951 8959	habitual
+T139	SECCION_TIPO_DE_INGRESO 9031 9045	Tipus d'ingrés
+T140	FECHA 9179 9189	08.11.2017
+#140	AnnotatorNotes T140	2017-11-08
+T141	FECHA 9231 9241	08.11.2017
+#141	AnnotatorNotes T141	2017-11-08
+T142	HORA 9242 9247	12:48
+#142	AnnotatorNotes T142	12:48

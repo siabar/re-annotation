@@ -1,0 +1,89 @@
+_LOCATION_
+_LOCATION_) Anul·lació/Reprogramació visites:_CONTACT_
+Telèfon Centraleta: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 82 Anys
+NIF/DNI: _ID__NAME_; _NAME_
+Informe d'epicrisi
+15:09:10
+16.01.2017
+_LOCATION_
+_SS_
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_; _CONTACT_
+DOMICIL/RES.SOC 12.01.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Paciente que ingresa por ictus ACM izq y ACA izq cardioembólicas.
+
+ANTECEDENTS
+No alergias conocidas No hábitos tóxicos FRCV:
+-No HTA, no DLP, no DM
+-Cardiopatías:  FA anticoagulada con Sintrom (control en privada Dr. _NAME_ centro.), valvulopatía mitral no tributaria a cirugía según refiere familiar.
+-Niega otros antecedentes de interés.
+
+IQ:
+osteosíntesis húmero proximal izq. apendice y colecistectomía. mrankin 0. Vive sola.   Deamulación autónoma. Independiente para las ABVD.
+
+MEDICACIÓ HABITUAL
+CO-VALS FORTE 160MG/25MG VALSARTAN+DIURETIC 1 x 24 h.  Indefinida EMCONCOR COR 2,5MG  BISOPROLOL, FUMARAT  1 x 24 h.  Indefinida SINTROM 4MG  ACENOCUMAROL 1 x 24 h. Indefinida
+
+
+PROCÉS ACTUAL
+Paciente de 82 años que el día 11/01 es encontrada por familiares a las 19.40h en domicilio acostada en la cama con disminución nivel consciencia y debilidad hemicuerpo derecho por lo que se avisa al SEM quien objetiva RACE 8 y activa código ictus desde domicilio a las 20.15h. La paciente estaba vestida con ropa de cama (ella siempre va a la cafetería a desayunar y hoy no la han visto, por lo que suponemos que es ictus del despertar). La última vez vista asintomática el 10/01 al mediodía.
+
+A su llegada al HUB a las 21.02h, TA 144/121mmHg, Coagulchek 1.5. A nivel NRL se encuentra estuporosa (mueca y localiza al dolor) (2), orientación no valorable por mutismo (2+3), no cumpel órdenes (2), miosis bilateral hiporreactiva, r. oculocefálicos horizontales presentes, r.corneal derecho debil, HH D(2), PFSN D (2), hemiplejia derecha B 0/5con espasticidad (4), C 2/5 (3), sensibilidad no valorable (1), RCP extensor derecho, flexor izquierdo. NIHSS 21. Frialdad 1-2-mitad 3er dedo mano derecha parética que recupera en unas horas.
+
+Se realiza TC craneal en el que se objetiva infarto de todo el territorio de la ACM izqueirda con transformación hemorrágica asociada a nivel de GGBB izquierdos abierto a ventriculos, e infarto de pequeño territorio de ACA izquierda. Sin desplazamiento linea media. IV ventriculo libre. Rx tórax con cardiomegalia, senos costofrénicos libres, hiperdensidad hilair derecha. Analítica con glucosa 9.3mmol/l, urea 9.8umol7l, Na 132 mmol/l, K 3.59 mmol/l, CK elevadas (7.9ukat/L), Hb 162g/l,. Hto 47%, leuocitosi s(15.300) neutrofilica (13.290). Coagulación coagulada. ECG en FA ya conocida.
+
+Informe d'epicrisi
+
+
+
+
+
+Se orienta como ictus en 2 territorios (ACM izquierda y ACA) extenso con transformación hemorrágica. Probable etiología cardioembólica en paciente con FA infraciagulada (Coagulchek 1.5). Se comenta el mal pronóstico con familiares y se acuerda limitar el esfuerzo terapéutico en caso de empeoramiento clínico, priorizando las medidas de confort.
+
+Se decide ingreso en NRL.
+
+EXPLORACIÓ FÍSICA
+
+TA 135/80 mmHg, SatO2 97%  basal, Afebril, Fc 98 lpm (Ritmo de FA en monitor)
+
+NRL: se encuentra estuporosa (mueca y localiza al dolor) (2), orientación no valorable por mutismo (2+3), no cumpel órdenes (2), miosis bilateral hiporreactiva, r. oculocefálicos horizontales presentes, r.corneal derecho debil, HH D(2), PFSN D (2), hemiplejia derecha B 0/5 con espasticidad (4), C 2/5 (3), sensibilidad no valorable (1), RCP extensor derecho, flexor izquierdo. NIHSS 21.
+AC: Tonos arrítmicos, sin soplos. Pulsos periféricos presentes y simétricos. Ingurgitación yugular negativa, RHJ (-). AR: murmullo vesicular conservado.
+EEII: no signos de TVP. No edemas.
+ABD: blando, depresible, no masas ni visceromegalias.
+
+EXPLORACIÓ COMPLEMENTÀRIA
+-	TC craneal: infarto de todo el territorio de la ACM izqueirda con transformación hemorrágica asociada a nivel de GGBB izquierdos abierto a ventriculos, e infarto de pequeño territorio de ACA izquierda. Sin desplazamiento linea media. IV ventriculo libre.
+-Rx tórax: cardiomegalia, senos costofrénicos libres, hiperdensidad hilair derecha.
+-	Analítica: Glucosa 9.3mmol/l, urea 9.8umol7l, Na 132 mmol/l, K 3.59 mmol/l, CK elevadas (7.9ukat/L), Hb 162g/l, Hto 47%, leuocitosi s(15.300) neutrofilica (13.290). Coagulación coagulada.
+-	ECG: FA.
+
+EVOLUCIÓ CLÍNICA
+Paciente de 82 años con FA y valvulopatía no intervenida que presenta ictus de inicio incierto de ACM y ACA izquierdas en contexto de INR infraterapeútico, no tributaria a tratamiento de fase aguda por infarto establecido con trasformación hemorrágica.
+La paciente presenta evolución tórpida con aumento de secreciones y depresión del nivel de conciencia. El día 16/01 ante empeoramiento se explica situación clínica a familiares y de forma conjunta se decide iniciar pauta de confort. La paciente es exitus el día 16/01/17 a las 14:40.
+Causa inmediata: Insuficiencia respiratoria. Causa intermedia: Broncoaspiración.
+Causa fundamental: Ictus de ACM y ACA izdas cardioembólico.
+
+DIAGNÒSTICS
+436/5 Ictus
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+16.01.2017
+Pàgina 1 de 2

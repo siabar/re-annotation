@@ -1,0 +1,140 @@
+_LOCATION_
+Tel. _CONTACT_
+_LOCATION_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 87 Anys
+NIF/DNI: _ID__NAME_; _NAME_
+Informe d'alta d'hospitalització
+11:00:42
+11.07.2017
+_LOCATION_
+_SS_ MEDICINA INTERNA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_; _CONTACT_; _CONTACT_
+DOMICIL/RES.SOC 02.07.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Posible ACV en territorio de la ACM izquierda (en contexto de crisis hipertensiva).
+
+ANTECEDENTS
+Posible alergia a la PENICILINA.
+
+ANTECEDENTES PERSONALES
+-	FRCV: HTA. Alteración de glucemia basal.
+-	Cardiovascular: Insuficiencia cardíaca. Insuficiencia venosa periférica.
+-	Neumología: EPOC.
+-	Urología: Litiasis renal.
+-	Digestivo: Hernia de hiato. Diverticulosis colónica.  Déficit de vitamina B12.
+
+IQ: Colecistectomía por colelitiasis + colecistitis aguda (2015). Portadora de prótesis de cadera.
+
+Valoración geriátrica: Deterioro cognitivo. Incontinencia urinaria (portadora de pañal). Hipoacusia (portadora de audífono en el oído derecho). Osteoporosis. Artrosis. Situación basal (confirmado por los familiares): institucionalizada, _SS_, dependiente para el aseo y el vestido, marcha con andador/silla de ruedas. Según informe que aporta de la residencia se trata de una paciente con alta dependencia.
+
+MEDICACIÓ HABITUAL
+Levofloxacino 500 mg/24 (por infección respiratoria);  Azitromicina 500 mg/24 h (?); Prednisona 30 mg: 1-0-0; Movicol: 1-0-0; Sertralina 50 mg: 1-0-0; Optovite B12/3 m; Deprax 100 mg: 1/2-0-1/2; Furosemida 40 mg: 1-1-0;
+Omeprazol 20 mg: 1-0-1; Atroaldo 20 mcg inh: 2-2-2; Seretide 25/125 mg inh: 1-0-1; Risperidona 100 mg sol:
+0-0-0'25; Paracetamol 1g: 1-1-1.
+
+PROCÉS ACTUAL
+Mujer de 87 años, institucionalizada en la _SS_, que el día 02/07/2017 a las 12:30h mientras estaba tomando un zumo con sus familiares presenta ataque de tos, y posteriormente imposibilidad para el habla y pérdida de fuerza de las extremidades derechas. Fue trasladada a Urgencias del _SS_ vía SEM (Puntuación RACE 5), con activación del Código ICTUS a las 13:31h.
+En _SS_ se realiza un TC craneal a las 14:08h, en el que no se aprecian lesiones focales, sangrado intracraneal, procesos expansivos, colecciones ni otros hallazgos patológicos. Dado el mRankin 3-4 se desactiva código ICTUS, y se decide Ingreso en Servicio de Medicina Interna.
+
+EXPLORACIÓ FÍSICA
+
+FC    bpm	FR     rpm	TA s    205 mmHg	TA d   89 mmHg
+
+Informe d'alta d'hospitalització
+
+
+
+
+Tªaxi  ºC	Tªrec  ºC	SAT O2  %	Pes Kg
+
+Exploración NRL al ingreso:
+Caoguchek: 1.1 (14:00 h). PA: 205/89 mmHg. DX 187.
+mRankin: 4-5
+NIHSS: 4
+Consciente (0). Responde bien a una pregunta (1). Realiza órdenes correctamente (0). MOE normal (0). Reflejo por amenaza dudosamente ausente derecho (1). No asimetrías faciales (0). Leve claudicación de EEDD (1/1). No ataxia despreoporcionada (0). No disartria (0). No aparente trastorno sensitivo. Nomina bien, fluencia verbal mantenida (0). No inatención (0).
+
+EF: Tª 37ºC, PA 133/52 mmHg, FC 79 lpm, SpO2: 97% basal, diuresis: 2000 cc/24h, Glicemias 244-301-187. Eupneica, en sedestación, BEG, ACR: Rítmica, MVC. No edema periférico. Vigil, nada colaboradora, tranquila, afasia motora y hemiparesia derecha 1-/5. Hipoacusia.
+
+Exploración RHB: Desperta, però amb dificultat per coll·laborar amb l'epxlroaicó. afàsia motora, enten ordre simple.
+Parells cranials dificilment valorables avui. Probable disfàgia . Hemiplègia dret
+Sensiblitat no valorables.
+Mal control de tronc en sedtació
+
+Exploración logopeda:
+Valoració de la deglució (no peces dentàries): hipoacússia. No respòn per imitació tampoc. Al moment de l'exploració està endormiscada. Passaré en un altre moment. Al matí, engollia amb lentitud. No considero oportú passar el MECV-V però provo tolerància a culledaretes a viscositat mel sense que s'apreciin dessaturacions ni tos. Provem gelatines, que li agrada més que l'espessant, pot menjar-ne però amb precaució.
+Impressió diagnòstica: disfàgia orofaríngia moderada
+Respòn al nom. Comprèn algunes ordres simples. No li trec llenguatge.
+Recomano: aigua a viscositat mel de moment i dieta pastosa, fase 1 (canvio al Gacela). Parlo amb la filla i la neta i explico mesures higiènico-posturals. Veure evolució.
+Boca seca, aprofito i li dono aigua a viscositat mel i ho va tolerant, lentament. Lentitud i retard en activar el reflex de deglució. Provem gelatines, que li costa més. Recomano no donar més de mitja gelatina per risc de broncoaspiració (ja que hi ha lentitud).  Pacient amb risc de broncoaspiracions.
+
+
+
+EXPLORACIÓ COMPLEMENTÀRIA
+Analítica (04/07/2017): Gluc 378. Urea 66. Creat 1,28. Colesterol 214 (HDL: 47,1 LDL: 139,7). Triglicéridos 136.
+AST 18. ALT 11. GGT 39. LDH 204. Bil 0,2. FA 90. Albumina 4,1. Ca2+ 9. Na+ 136. K+ 4,5.  Hb 11,3. HTO 36,4%.
+VCM 88,8. Leucocitos 10,39 x109 (N: 80,4% L: 11%). Plaquetas 269000.
+
+Ecografia de troncos supraaórticos (05/05/2017): No se ha podido realizar puesto que la cama no ha entrado y a que nuestra paciente no aguanta todavía en sedestación autónoma. El Dr. _NAME_ (Servicio de Neurología) nos aconseja que reconsideremos la utilidad de la prueba debido al mRankin previo y a que el resultado no modificará nuestra actitud terapéutica.
+
+Informe d'alta d'hospitalització
+
+
+
+
+Ecocardiografia transtorácica (05/07/2017): AI: 41mm; Raiz aórtica: 32mm. VI no dilatado, con leve hipertrofia concéntrica y función sistólica normal. Disfunción diastólica leve. Válvula aórtica con regurgitación (que impresiona de levedad). Valvula mitral con calcificación de valvas y regurgitación leve. AI con dilatación leve. No trombos evidentes. VD no dilatado, con función contractil normal. No derrame pericárdico.
+
+TC craneal (06/07/2017): Aparicion de area hipodensa en vertiente mas superior del lobulo frontal izdo en relación con area de infarto establecida. Sistema ventricular globalmente aumentado de tamaño en proporción con la dilatación de surcos corticales , en relación con atrofia cortico-subcortical. Linea media normoposicionada. Cisternas de la base y peritronculares libres. CONCLUSIÓN: Area de infarto frontal izdo en territorio de ACA.
+
+Orina (06/07/2017): Tira de orina pH 6, proteinas ++. Urocultivo negativo.
+
+Rx tórax  (06/07/2017):  Partes blandas y óseas integras.  Dudosa  condensación  basal derecha, con  mejoría parenquimatoso pulmonar respecto a Rx previa. ICT agrandado.
+
+EVOLUCIÓ CLÍNICA
+Mujer, 87 años
+ICTUS ISQUÉMICO EN TERRITORIO de la ACA izquierda. (TAC craneal de control). CRISIS HIPERTENSIVA.
+REAGUDIZACIÓN DE EPOC por SOBREINFECCIÓN RESPIRATORIA. BRONCOESPASMO. POSIBLE BRONCOASPIRACIÓN posterior.
+Previos: HTA, Hipoacusia, deterioro cognitivo, incontinencia urinaria. obesidad, osteoporosis, portadora de prótesis de cadera. Institucionalizada (Residencia L'Onada), DAVD.
+
+Ingresa en planta de M.Interna, en ttº atb con levofloxacino, y, posteriormente clindamicina (6/7/17) por sospecha de infección respiratoria por broncoaspiración (dudosa neumonía derecha). Urocultivo negativo. Mejoría evolutiva progresiva, afebril y hemodinámmicamente estable.
+Valorada por NRL al ingreso, posteriormente, inicia RHB precoz incluída logopedia.
+Se solicita UFISS, pero finalmente, por preferencia familiar,  se decide alta a su _SS_, previo contacto telefónico, para valorar posibilidad de continuar RHB. Continuará también RHB por Logopedia.
+
+DIAGNÒSTICS
+434.91/5 Avc isquemic 519.1/5 Broncoespasmo
+507.0/3 Sobreinfeccio resp per broncoaspiracio
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Adiro 100 mg, 1 comp/24h. Medicación habitual:
+Movicol: 1-0-0; Sertralina 50 mg: 1-0-0; Optovite B12/3 m; Deprax 100 mg: 1/2-0-1/2; Furosemida 40 mg: 1-1-0;
+Omeprazol 20 mg: 1-0-1; Atroaldo 20 mcg inh: 2-2-2; Seretide 25/125 mg inh: 1-0-1; Risperidona 100 mg sol:
+0-0-0'25; Paracetamol 1g: 1-1-1.
+
+
+Entregadas idicaciones de logopeda por escrito a familiares. LÍQUIDOS CON ESPESANTE.
+
+Informe d'alta d'hospitalització
+
+
+
+CONTROL
+MAP.  Logopedia.
+
+DESTINACIÓ A L'ALTA:	RESID. SOCIAL
+Validat per: _NAME_	Col·legiat: _ID_
+
+11.07.2017
+Pàgina 1 de 4

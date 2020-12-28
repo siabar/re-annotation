@@ -1,0 +1,168 @@
+_LOCATION_) Telèfon _SS_  972 _CONTACT_
+Telèfon IDI (Ressonància i TAC) _CONTACT_
+Telèfon ICO _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 65 Anys
+NIF/DNI: _ID__NAME_; _NAME_
+Informe d'alta d'hospitalització
+CP	_LOCATION_
+ABS	_SS_
+Servei	NEUROLOGIA
+Data d'alta  23.08.2017	15:00:00
+_LOCATION_
+_CONTACT_; _CONTACT_; _CONTACT_
+ATEN.PRIMÀRIA 15.08.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Código ictus
+
+ANTECEDENTS
+ANTECEDENTES PERSONALES:
+-	Posible alergia a aspirina (reacción urticariforme en manos y boca hace años).
+-	Fumadora de 10 cig/día
+-	IABVD. mRS 0
+
+ANTECEDENTES PATOLÓGICOS:
+-	HTA.
+-	Ca de colon intervenido
+-	Fístula en mama izquierda intervenida.
+-	Síndrome ansioso depresivo.
+
+MEDICACIÓ HABITUAL
+Fluoxetina 20mg/24h, Deprax 100mg/24h, Diliban 75/650mg/24h, Valsartan/HDCL 320/25mg/24h
+
+
+PROCÉS ACTUAL
+Paciente de 65 años que presenta episodio el 15/08 sobre las 14:30hs de malestar general, con sensación de mareo, seguido de movimientos involuntarios en MSI (tipo temblor) y alteración sensitiva en hemicuerpo izquierdo de unos diez minutos de duración. Posteriormente presenta hemiparesia izquierda, por lo que acuden a Urgencias, desde donde se activa código ictus a las 15:30hs.
+A la exploración se objetiva claudicación leve de miembro superior izquierdo e hipoestesia izquierda, con NIHSS de 2. Se realiza TC cerebral que no muestra alteraciones, y doppler que muestra estenosis del 50-60% de ACI derecha.
+Dada la mejoría clínica progresiva, no es tributaria de tratamiento de revascularización. Se decide ingreso en la unidad de ictus para vigilancia neurológica y monitorización.
+EXPLORACIÓ FÍSICA
+
+EXPLORACIÓ NEUROLÒGICA
+AC: Rítmico sin soplos.
+AP: MVC. No ruidos sobreañadidos.
+NRL: consicente y orientada. Lenguaje sin alteraciones. No disartria. PICNR. Claudicación  leve de miembro superior izquierdo, fuerza 4/5 miembro inferior izquierdo, Hipoestesia leve izquierda. Resto sin alteraciones.
+NIHSS: 00000/01000/01000: 2
+
+Informe d'alta d'hospitalització
+
+
+
+
+EXPLORACIÓN NEUROLÓGICA AL ALTA:
+Sin alteraciones. NIHSS: 0.
+
+EXPLORACIÓ COMPLEMENTÀRIA
+Analítica:
+Hemoglobina 12.3 g/dL, Plaquetes 284 K/mc, Leucòcits 8.13 K/mcL. Glucosa 89 mg/dL, Urea * 57 mg/dL, Creatinina 0.60 mg/dL, Triglicèrid * 204 mg/dL, Ió sodi 141 mEqu/L, Ió potasi 4.2 mEqu/L, Hemoglobina A1c (DCCT/NGSP) 5.9 %.
+
+PRUEBAS DE IMAGEN:
+-	Rx de tòrax: Senos costofrénicos libres. No infiltrados.
+
+-	TC cerebral de urgencias:
+No se observan signos de sangrado intraparenquimatoso agudo ni colecciones extraaxiales.Parenquima cerebral, cerebeloso y troncoencefálico sin alteraciones densitométricas significativas.  Sistema ventricular simétrico de tamaño y morfología normal para la edad de la paciente. Línea media centrada. Cisternas basales no obliteradas. Huesos de la calota sin alteraciones
+CONCLUSIÓN: Estudio sin hallazgos patológicos agudos significativos
+
+-	Estudio Neurosonológico Urgencias:
+Ecodoppler TSA: ateromatosi a eix carotidi dret amb placa heterogènia, llisa, a origen d#ACI dreta que condiciona augment de VPS/VTD fins 135/30 cm/s, eix carotidi esquerre sense alteracions. AV permeables i ortodròmiques.
+Ecodopplr TC: ACA, ACM i ACP sense alteracions.
+
+-	Estudio Neurosonológico de control: DTSA:
+Lado derecho: placa concéntrica, isoecoica, de bordes bien definidos, a nivel de 1/3 medio de ACC derecha, condicionando un aumento de velocidad de hasta VPS 239 cm/seg con morfología de curva pulsátil y deflecada pero con flujos preservados postestenosis. Presencia de placas heterogéneas a nivel de bulbo con extensión a ACI derecha condicionando un aumento de VPS de hasta 131 cm/seg. ACExt normal.
+AV derecha: estenosis a lo largo de todo su recorrido con VPS entre de 125 y 131 cm/seg, siendo la Arteria subclavia normal.
+Lado izquierdo: presencia de placa grande (48 mm de grosor), excéntrica, lisa, isoecoica, a nivel de 1/3 medio de ACC izquierda, condicionando estenosis sin poder detectar un punto de máxima velocidad. VPS máxima detectada a su paso 123 cm/seg, manteniendo flujo posterior. ACI izq con VPS normal 88 cm/seg. ACExt con leve estenosis no significativa.
+AV izquierda ortodrómica y normal VPS 23 cm/seg.
+DTC: Se insonan ambos ejes simétricos y con morfología de cuva normal. Buenos flujos a nivel de ambas ACMs. ACP izquierda fetal. IP global entorno a 1,5.
+Ventana suboccipital: V3 y V4 proximal derchas con velocidades normales. Estenosis significativa a nivel de V4 distal-unión VB con aumento de VPs de hasta 182 cm/seg con soplo rugoso a su través. No detecto justo el punto de U VB pero la AB insonada desde 75 mm hasta 89 mm de profundidad con velocidad (VPS 67 cm/seg) y morfología de curva normal. AV izquierda normal.
+Conclusión:
+1.	Ateromatosis carotídea bilateral moderada.
+2.	Estenosis entorno al 70% de Arteria Carótida Común derecha.
+1.	
+Informe d'alta d'hospitalització
+
+
+
+
+3.	EStenosis entorno al 60-65% de ACI derecha.
+4.	Estenosis entorno a 60% de Arteria Carótida Común izquierda.
+5.	EStenosis significativa parcheada de AV izquierda (punto de máxima estenosis a nivel de V4 distal).
+
+-	RMN cerebral 18/08:
+Pequeño infarto subagudo en el territorio de la PICA izquierda.
+Oclusión	proximal	de	la	arteria	vertebral	izquierda	con	flujo	distal	ateromatoso	con	estenosis significativas/oclusiones en el segmento V4 distal.
+Oclusión focal en el segmento V4 de la arteria vertebral derecha.
+Estenosis significativa en el origen de la arteria carótida común derecha con una estenosis leve en el tercio medio de la arteria. Estenosis significativa en el origen de la arteria carótida externa derecha. Correcta permeabilidad de la ACI derecha.
+Estenosis del 30-40% del tercio proximal de la arteria carótida común izquierda con buen flujo distal.
+
+- Angio TC de TSA:
+Dilatación de aorta ascendente de 42x38 mm.
+El estudio angiográfico de troncos supraaórticos muestra estenosis significativa del 70% en el origen de la carótida común derecha, así como estenosis del 53% del tercio medio de la carótida común derecha . Estenosis del 50% de ACE derecha. Correcta permeabilidad de la ACI derecha.
+Estenosis del 30% en el tercio proximal de la carótida común izquierda, con correcta permeabilidad de la ACI y ACE izquierdas.
+Oclusión proximal de la arteria vertebral izquierda, en segmento V1 y V2, así como focos de estenosis significativa en segmento V4 ipsilateral asociado a áreas de ateromatosis calcificada. Buena permeabilidad vertebral distal.
+Leve oclusión del segmento V4 de la arteria vertebral derecha, con mantenimiento de una permeabildad correcta ipsilateral.
+Arteria basilar y arterias del polígono de Willis permeables. Aneurisma de 3x3 mm en segmento terminal de ACI izquierda.
+CONCLUSIÓN
+Estenosis significativa del 70% en el origen de la carótida común derecha y estenosis del 53% del tercio medio de la carótida común derecha. Resto de hallazgos sin cambios
+
+ESTUDIO CARDIOLÓGICO:
+ECG: Rítmo sinusal. Sin alteraciones en la repolarización.
+Monitorización en la Unidad de Ictus: Ritmo sinusal durante todo el registro.
+ETT: -Ventricle esquerre no dilatat, lleugerament hipertròfic amb funció contràctil global (FEVE biplà 62%) i segmentària normals. -Vàlvula mitral amb vels lleugerament engrosats, amb  bona obertura. -Vàlvula aòrtica trivalva, d'aspecte possiblement reumàtic amb engruiximent dels vels i apertura amb cúpula. -Vàlvula tricúspide d'aspecte normal. -Arrel aòrtica i aorta ascedent dilatades ajustat  per SC. -Aurícula esquerra lleugerament dilatada. -Cavitats dretes normals. -No embassament pericàrdic.
+CONCLUSIONS: -Insuficiència aòrtica severa (IV). -Ventricle esquerre lleugerament hipertròfic amb funció contràctil global i segmentària normals . -Arrel aòrtica i aorta ascedent dilatades ajustat per SC. -Aurícula esquerra lleugerament dilatada.
+
+EVOLUCIÓ CLÍNICA
+Durante el ingreso en la Unidad de Ictus la paciente permanece hemodinámicamente estable y afebril. En ritmo sinusal durante todo el registro.
+
+Informe d'alta d'hospitalització
+
+
+
+
+
+Presenta mejoría progresiva de los síntomas hasta la resolución completa de paresia e hipoestesia, manteniendo marcha estable autónoma, persistiendo únicamente episodios de mareo ocasionales.
+
+Se realiza ETT como parte de estudio etiológico que muestra insuficiencia aórtica severa, por lo que se solicita valoración por cardiología de manera ambulatoria. En el doppler realizado en urgencias se objetiva estenosis del 50% de ACI derecha, que podría ser sintomática dados los síntomas de la paciente, por lo que se realiza doppler de control y angio RMN, para valorar la presencia de estenosis significativa de cara a plantear tratamiento quirúrgico.
+En la RMN se objetiva infarto subagudo en cerebelo izquierdo (territorio de PICA izquierda), con oclusión de AV izquierda en angio RMN. Presenta también estenosis significativa en origen de ACC derecha, con ACI derecha permeable. Se solicita Angio TC de troncos supra aóticos para valorar mejor la ACC, confirmándose estenosis del 70% en origen de ACC, sin alteraciones en ACI.
+
+Se trata por tanto de un infarto en territorio vertebrobasilar (PICA izquierda) de etiología ateromatosa por oclusión de AV izquierda. Dado que la estenosis en el origen de arteria carótida común es asintomática, por el momento se decide tratamiento médico con antiagregación y estatinas, y se informa a la paciente de la necesidad de dejar de fumar.
+Se solicitará prueba de imagen de control en 6 meses para ver evolución (doppler no puede valorar la estenosis proximal de ACC).
+Dada la estabilidad clínica y hemodinámica, se decide alta a domicilio. Escalas al alta:
+NIHSS: 0
+mRS: 1 (mareo)
+Barthel 100
+
+DIAGNÒSTICS
+436/5 Infarto en territorio de PICA izquierda de etiología ateromatosa por oclusión de arteria vertebral izquierda.
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+-	Clopidogrel 75 mg cada 24 horas (en la comida).
+-	atorvastatina 40 mg cada 24 horas (en la cena).
+-	Resto de tratamiento sin cambios.
+
+
+CONTROL
+-	Cese de hábito tabáquico.
+-	Ejercicio físico de manera regular.
+-	Control de factores de riesgo vascular por su médico de atención primaria. Objetivo LDL< 70 mg/dL, TA< 140/90 mmHg.
+-	Revisión en consulta de Neurología en 3 meses. Recibirá cita en domicilio.
+-	Solicito valoración en consulta de Cardiología por IAo severa.
+-	
+Informe d'alta d'hospitalització
+
+
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+23.08.2017
+Pàgina 1 de 5

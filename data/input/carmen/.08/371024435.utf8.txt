@@ -1,0 +1,179 @@
+_LOCATION_) Telèfon _SS_  972 _CONTACT_
+Telèfon IDI (Ressonància i TAC) _CONTACT_
+Telèfon ICO _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 73 Anys
+NIF/DNI: _ID__NAME_; _NAME_
+Informe de Trasllat a Sociosanitari
+CP	_LOCATION_
+ABS	_SS_
+Servei	NEUROLOGIA
+Data d'alta  15.05.2017	10:00:00
+_LOCATION_
+_CONTACT_; _CONTACT_; _CONTACT_; AGUTS
+07.05.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Ictus ACA esquerre
+
+ANTECEDENTS
+ANTECEDENTS PERSONALS No AMC
+No hàbits tòxics.
+Viu sol, ell es controla la medicació segons refereix. Rankin 2, camina amb bastó.
+
+ANTECEDENTS PATOLÒGICS
+-	HTA en tractament. Pel que refereix la familia, mals controls (ocasionals TAS de 200).
+-	Dislipèmia sense tractament.
+-	Juny 2016 consulta a Urgències per inestabilitat detectant-se ictus PICA esquerre crònic de possible causa cardioembòlica (veure troballes en ecocardiograma 2016) sense ser tributari a anticoagulació per troballes, amb eco-doppler sense troballes significatives i ECG en ritme sinusal. S'inicia Adiro 100mg i estatines.
+Persisteix clínica de inestabilitat de la marxa residual per ataxia i caigudes freqüents.
+-	Hiperplasia benigne de pròstata. IQ pròstata el 5.5.14. En tractament amb Tamsulosina.
+-	Dispèpsia
+-	Miocardiopatia hipertròfica, RMN 2015: Troballes compatibles amb miocardiopatia hipertròfica sense observar signes de fibrosi intramiocàrdica. Contractilitat global disminuida.No refereix dolors anginosos ni ortopnea ni edemes a extremitats . Bona classe funcional ( pot pujar tres prisos ).
+Últim ecocardio 2016: V. Aórtica trivalva ligeramente esclerótica, no estenosis, ligera-minima insuficiencia. V. mitral normal, esclerosis del anillo, buena movilidad, minima insuficiencia. Imagenes filamentosas móviles subvalvulares compatibles con elongación de cuerdas, sin SAM. V tricuspídea normal. sin insuficiencia. Cavidades derechas normales. Dilatación moderada-severa de aurícula izquierda (Vol 56ml/m2) SIA con aneurisma bamboleante. Ventrículo izquierdo no dilatado con moderada hipertrofai concéntrica, ligera depresión de la contractilidad global sin claras alteraciones segmentarias. Sin obstrucción dinámica. Flujo de llenado mitral y DTI con patrón de disfunción idastólico tipo I. No derrame pericárdico
+-	El 2001 refereix accident laboral amb ferida al cap que va requerir punts , no va perdre coneixement ni refereix IQ, però explica que va estar ingressat 4 dies per a control evolutiu a la _SS_ durant el qual li van fer un TC. No disposem d'informes. El paciente refereix que té un quist residual al cap.
+-	Glaucoma
+-	Excema a la cara. Refereix cremada ull esquerre.
+
+ANTECEDENTS QUIRÚRGICS
+-	Prostatectomia
+-	Herniorrafia inguinal esquerre
+
+MEDICACIÓ HABITUAL
+Adiro 100mg/24h, Capenon 40/10/25mg 1comp/24h
+
+Informe de Trasllat a Sociosanitari
+
+
+
+PROCÉS ACTUAL
+Pacient de 73 anys que el 07/05/2017 presenta a les 14h una caiguda al bany, podent-se aixecar posteriorment. Presenta dues caigudes més sense traumatisme craneoencefàlic, referint impossibilitat per aixecar-se desprès de la última caiguda. El pacient avisa als veïns que contacten amb el SEM i traslladen el pacient a _SS_, on s'objectiva hemiparèsia dreta i s'activa Codi Ictus.
+El pacient arriba al nostre centre a les 19:09h, sent valorat al moment per Neuròleg de guàrdia.
+
+EXPLORACIÓ FÍSICA
+
+
+A l'arribada a urgències: TA 180/80mmHg
+Exploració NRL: plegia cama dreta. NIHSS = 4
+
+Durant l'ingres a planta AC: ritmic, no bufs
+AR: crepitants bibasals, no sibilants ni roncus
+Exploració NRL: vigil, orientat. Repetitiu, no clara afasia, possible lleu component d'afasia de comprensió. Nomina i repeteix correctament, obeeix ordres. Moviments oculomotors correctes, no dèficit campimètric. Hemiplegia faciobraquiocrural, anestesia braquial dreta segons refereix.
+NIHSS: 00000/20404/02100: 13
+
+
+EXPLORACIÓ COMPLEMENTÀRIA
+Analítica sanguinia:
+-	Hemograma:  Hemoglobina  * 11.1 g/dL,  Hematòcrit  * 42 %, Volum corpuscular mitjà 87.5 fL, Hemoglobina corpuscular mitja * 23 pg. Plaquetes 242 K/mcL, Leucòcits * 13.14 K/mcL
+-	Tasa protrombina 90 %, Tasa protrombina (INR) 1.05, Temps de cefalina (TTPA)  32.2 segons, Temps de cefalina (ratio) 1.1, Fibrinogen (deduit) * 507 mg/dL
+-	Resta pendent ECG: ritme sinusal
+Rx de tòrax 08 i 10/05: IICT augmentat. Patró aleveikar bibasals de predomoni esquerre. Sins costofrènics lliures.
+
+TC de crani multimodal, 19:30h del 07/05/2017: Estudio TC que muestra trombo en el segmento A2 de ACA izquierda Como variante de la normalidad se ausencia de A1 izquierda ,arteria fetal derecha, hipoplasia de arteria vertebral derecha. Los mapas de perfusión son poco valorables.
+Eco-doppler:
+-	DTSA: Carótidas sin alteraciones hemodinámicas. AV sin alteraciones.
+-	DTC:  Eje izquierdo: Oclusión de ACA izquierda, aumento de velocidades en sifón carotídeo y ACM izquierda (VSM de 160 cm/seg y 140 cm/seg respectivamente), con soplo rugoso, y flujo laminar. ACP sin alteraciones.
+Eje derecho: ACM derecha sin alteraciones. ACA izquierda con aumento de velocidades (VSM de 110 cm/seg) y flujo laminar, soplo a nivel de ACoA. ACP sin alteraciones.
+
+TC de crani de control, 22.38h del 07/05/2017(coincidint amb empitjorament de la clínica post-rTPa): Se realiza estudio comparativo sin evidencia de signos de transformación hemorragica. Resto de estudio sin cambios en comparación con el estudio previo.
+
+Informe de Trasllat a Sociosanitari
+
+
+
+
+
+Monitorització a la Unitat d'Ictus: episodi de FA ràpida
+TC de crani de control 24h post-rTPa: Aparició d'hipodensitat cortico-subcortical parasagital frontal esquerra, en relació amb evolucio d'infart agut-subagut isquèmic, sense signes de transformació hemorràgica. Resta sense canvis.
+EEG: Afecció neuronal a regions temporals i parieto rolàndiques de l#hemisferi esquerre, amb signes de disfunció neuronal, sobreafegits, de característiques irritatives a regions frontals de l#hemisferi esquerre.
+Analitica de control 10/05/2017:
+-	Hemoglobina * 7.7 g/dL, Hematòcrit * 31 %, Volum corpuscular mitjà 91.6 fL, Hemoglobina corpuscular mitja * 23 pg. Plaquetes 176 K/mcL, Leucòcits * 11.86 K/mcL
+-	Tasa protrombina 98 %, Tasa protrombina (INR) 1.07, Temps de cefalina (TTPA)  32.9 segons, Temps de cefalina (ratio) 1.1, Fibrinogen (deduit) * 638 mg/dL
+-	Urea 40 mg/dL, Creatinina 0.85 mg/dL, Ió sodi 143 mEqu/L, Ió potasi 5 mEqu/L, Filtrat glomerular (CKD-EPI) 86.4 mL/min
+- PCR 7.28
+Analitica de control 11/05/2017:
+- Hemoglobina * 7.8 g/dL, Hematòcrit * 31 %, Volum corpuscular mitjà 89.2 fL, Hemoglobina corpuscular mitja * 22 pg. Plaquetes 196 K/mcL, Leucòcits 9.92 K/mcL
+-	Urea 46 mg/dL, Creatinina * 1.23 mg/dL, Ió sodi 142 mEqu/L, Ió potasi 4.4 mEqu/L, Filtrat glomerular (CKD-EPI) *
+57.9 mL/min
+Proteïna C reactiva * 9.81 mg/dL
+Analitica de control 12/05/2017:
+-	Hemograma:  Hemoglobina  *  7.9  g/dL,  Hematòcrit  *  31  %,  Volum  corpuscular  mitjà 90.6 fL,  Hemoglobina corpuscular mitja * 23 pg. Plaquetes 195 K/mcL, Volum plaquetari mig 11.2 fL, Leucòcits 9.41 K/mcL
+-	Urea * 61 mg/dL, Creatinina * 1.22 mg/dL, Ió sodi 142 mEqu/L, Ió potasi 4.8 mEqu/L, Filtrat glomerular (CKD-EPI)
+* 58.4 mL/min
+Proteïna C reactiva * 6.76 mg/dL
+Tc abdominal: NO s'observen imatges d'hematoma retroperitonial. NO s'observen imatges de sagnat actiu.
+Analitica de control 14/05/2017:
+- Hemoglobina * 8.2 g/dL, Hematòcrit * 32 %, Volum corpuscular mitjà 89.2 fL, Hemoglobina corpuscular mitja * 23 pg. Plaquetes 314 K/mcL, Leucòcits 9.07 K/mcL
+- Glucosa 104 mg/dL, Urea * 103 mg/dL, Creatinina * 1.55 mg/dL, Ió sodi 141 mEqu/L, Ió potasi 4.6 mEqu/L
+
+EVOLUCIÓ CLÍNICA
+Pacient amb ictus isquèmic hesmifèric esquerre amb trombo a A1 esquerre, sense alteracions en TC basal ni perfussió. Donada la clínica de plegia de membre inferior dret amb presència trombo, tot i presentar unes 5 hores de clínica, es decideix tractament amb rtPA iv previa informació a la familia dels riscos i beneficis.
+S'inicia tractament amb rtPA per un pes de 70 kg. Dosi total 56 mg:
+-	Bolus de 5mg a les 20:30h
+-	Perfussió de 51mg
+El tractament transcorre sense incidències, presenta posterior empitjorament clinic amb hemiplegia dreta i possible afasia de comprensió lleu.
+
+Ingressa a la Unitat d'ictus sota monitorització semi-intensiva. Presenta bon control glicèmic i es reinicia progressivament hipotensors via oral per tendència a la hipertensió.
+
+Informe de Trasllat a Sociosanitari
+
+
+
+
+Com a complicacions presenta:
+-	Durant les primeres hores presenta 2 episodis d'empitjorament en forma d'afasia, amb TC de crani de control sense evidència de sagnat. Per sospita de crisis comicials s'inicia tractament amb Levetiracetam, amb EEG amb focus irritatiu esquerre pel que es manté tractament sense canvis
+-	Presenta anèmia aguda probablement secundaria a hematoma a l'esquena extens en context de rTPa desprès de caigudes a domicili. Es realitzen analítiques de control estables i TC abdominal sense evidència d'hematoma retroperitoneal ni sagnat actiu, amb fempta sense melenes ni rectorragies. Analítica de control amb anèmia estable.
+-	Es detecta FA durant la monitorització, requerint Amiodarona per control de taquicardia. Un cop evidenciant absència de sagnat actiu i estabilitat analítiques sanguinies, s'inicia anticoagulació amb Enoxaparina 80mg/12h el dia 12/05/2017. Pendent ecocardioTT ambulatòri.
+-	Desaturació en context de decubit amb edemes maleolars i ingurjitació jugular, amb Rx de tòrax amb lleus signes d'insuficiència cardíaca i possible condensació basal esquerre peró sense febre en cap moment.
+S'inicia tractament deplectiu amb desaparició edemes i ingurjitació jugular, persistint crepitants basals drets i necessitat d'oxigen. Per aquest motiu es manté tractament amb Furosemida 1/2 comp/dia.
+Empitjorament de funció renal secundària, amb control amb augment de Crea i Urea pel que s'orienta de probable component pre-renal afegit. Es recomana estimular hidratació via oral.
+-	Espasticitat hemicos dret pel que es dona tractament amb Baclofeno 5mg/12h
+-	Restrenyiment que precissa laxants, amb bona resposta.
+-	Retenció aguda d'orina pel que precissa sonda vesical.
+-	Hiperemia conjuntival sense secrecions a ull dret, havent-se mantingut tractament amb coliris pel glaucoma. Amb absencia de secrecions, no s'inicia tractament per conjuntivitis, pendent d'evolució.
+
+El pacient es manté estable a nivell neurològic, restant repetitiu (refereix que "se li ha d'activar el cervell") sense clars dèficits del llenguatge que s'atribueix a personalitat de base del pacient (pacient amb antecedent de verborrea amb anamnesis dificil previa a l'ictus). Es troba pendent d'inici Sintrom un cop recuperat de l'anèmia.
+A nivell neurològic presenta estabilitat clínica i hemodinàmica, amb lleu disfasia per dèficit de comprensió, paresia facial central dreta, hemiplegia dreta, amb dubtos dèficit sensitiu crural dreta i dubtosa afasia de comprensió (que igualment puntuem a l'NIHSS)
+Es trasllada a CSS per convalescència i continuar rehabilitació.
+
+Escales a l'alta:
+- NIHSS: 00000/20404/02100:13
+-	Rankin 5
+-	Barthel 0%
+
+DIAGNÒSTICS
+436/5 Ictus isquemic  de territori ACA esquerre de mecanisme embòlic i etiologia cardioembolica  per FA no coneguda.
+401.9 Hipertensió essencial inespecificada
+427.31 Fibril·lació auricular 280.9/2 Anemia microcitica
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+S'adjunta SILICON
+Pendent inici de Sintrom un cop recuperació d'anèmia
+
+Informe de Trasllat a Sociosanitari
+
+
+
+
+
+Es recomana continuar rehabilitació física
+
+CONTROL
+Es recomana analítica de control d'hemograma i funció renal.
+Visita de control a Consultes Externes de Neurovascular el dia 14/09/2017 a les 2h amb Dra. _NAME_ (Edifici de Consultes Externes de _SS_, 1a planta)
+
+Es recomana control de factors de risc cardiovascular per equip d'atenció primària.
+
+DESTINACIÓ A L'ALTA:	SOCI SANITARI
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+15.05.2017
+Pàgina 1 de 5

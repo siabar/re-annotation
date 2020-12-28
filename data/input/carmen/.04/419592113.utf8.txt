@@ -1,0 +1,62 @@
+Pàgina 1/2INFORME D'ASSISTÈNCIA/ALTA
+
+Núm. HC
+_ID_
+Nom i cognoms	CIP o pòlissa	Data ingrés
+_ID_	17/09/2017 20:09	Data alta
+20/09/2017
+Edat	
+
+Sexe
+_NAME_		84	Dona
+Adreça		Telèfon	
+_LOCATION_,	_LOCATION_	_CONTACT_	
+Metge/essa responsable	Servei	Habitació	
+_NAME_	Medicina Interna	_ID_	
+Destinació a l'alta
+Domicili
+
+
+
+
+Pacient de 84 anys que consulta per pèrdua de força a la cama dreta.
+
+ANTECEDENTS
+-	Sense al·lèrgies medicamentoses conegudes ni hàbits tòxics.
+-	HTA sense tractament.
+-	Intervinguda de cataractes.
+-	Cognitivament bé i autònoma per a les tasques quotidianes. Viu sola. Sense tractament habitual.
+
+MALALTIA ACTUAL
+Consulta per presentar des de fa un parell d'hores debilitat, hipoestèsia i torpesa a la cama dreta sense cap altre símptoma associat. El dia anterior havia presentat un quadre similar d'uns 90 minuts de durada.
+
+EXPLORACIO FISICA
+TA 164/82, FC 78x', 36ºC, so2 100%. Conscient, orientada. Estat general conservat. AR: MV conservat. AC: Rítmic, sense bufs ni signes d'insuficiència cardíaca. Buf carotidi esquerre. Abdomen tou i depressible, no dolorós ni visceromegàlies. No edemes. NRL: Llenguatge conservat, oculomotricitat extrínseca normal, no dèficit facial, dismetria geoll-turmell dret, inestabilitat a la marxa amb augment de la base de sustentació, parèsia EIE 4/5, RCP en flexió bilateral.
+
+PROVES COMPLEMENTARIES
+Analítica: Glucèmia, ions, funció renal i bioquímica hepàtica dintre la normalitat; Hb 11, leucòcits 4.500 (60S, 30L), plaquetes 381.000, Quick 91%.
+ECG: Ritme sinusal, eix a 0º, sense signes d'isquèmia ni alteracions en la conducció.
+RX tòrax: Sense alteracions significatives.
+TC cranial: Sense alteracions significatives.
+AngioRMN cerebral: Atròfia global. Sense lesions isquèmiques agudes. Malaltia de petit vas. Estenosi del 25% de l'ACI esquerra. Tronc basilar estenòtic. Hipoplàsia de l'ACoP esquerra.
+
+EVOLUCIO
+Amb el diagnòstic d'AVC isquèmic, s'instaura tractament antiagreganbt amb aspirina. Ha evolucionat favorablement, amb franca millora de la clínica motora de la cama esquerre. Valorada conjuntament amb UFISS, se la dona d'alta a domicili sota programa PreAlt per seguir controls a la Consulta Externa de Neurologia (Dra. _NAME_), prèvia realització d'ecocardiograma i Holter.
+
+DIAGNOSTICS
+-	AVC isquèmic d'origen indeterminat.
+-	HTA essencial.
+-	
+TRACTAMENT
+-	Tromalyt 300mg: 1 comprimit al dia.
+-	Simvastatina 20mg: 1 comprimit al dia.
+-	Omeprazol 20mg: 1 comprimit al dia.
+-	Controls ambulatoris de la TA, i plantejar tractament si s'escau. Atentament,
+
+
+
+
+Metge/essa: _NAME_ Núm. col·legiat/da: _ID_
+Signatura
+
+D'acord amb la Llei Orgànica de Protecció de Dades, les vostres dades personals seran incorporades a un fitxer informatitzat, el titular del qual és el _SS_ i que té com a finalitat exclusiva disposar de les dades personals dels pacients per a usos medicosanitaris. El ciutadà té dret a exercitar l'accés, la rectificació, l'oposició i la cancel·lació d'aquestes dades personals.

@@ -1,0 +1,102 @@
+1/ 3
+
+Cognoms:    _NAME_	Adreça:  _LOCATION_
+_LOCATION_
+Nom:	_NAME_	_LOCATION_
+Edat: 80	Sexe:M	CIP:	_ID_	NIF:	_ID_
+Data naixement:   _DATE_	NHC:	_ID_	NASS:    _ID_
+Telèfon / Mòbil:	_CONTACT_ / _CONTACT_
+
+
+INFORME  D'ASSISTÈNCIA
+
+Metge/essa:	_NAME_	Servei:	NEUROLOGIA
+Data ingrés: S'informa a:	07/03/ 2017
+Metge de família	Data Alta: 09/03/ 17
+Núm.  llit: _ID_
+
+DIAGNÒSTIC:
+1.	Possible AIT de territori indeterminat esquerre vrs VS dèficit neurològic d'origen comicial
+2.	HTA
+3.	DM II
+4.	Asmàtica
+
+PROCEDIMENTS:
+1.	Analítica sanguínia
+2.	Electrocardiograma
+3.	TAC Cranial
+4.	Electroencefalograma
+5.	Doppler Troncs supraaòrtics i Transcranial
+
+
+Pacient de 80 anys amb intolerància a AAS i sense hàbits tòxics actualment
+
+ANTECEDENTS PATOLÒGICS:
+·	HTA en tractament farmacològic amb Enalapril
+·	DM II en tractament amb ADO's (Metformina i Sitagliptina)
+·	Dislipèmia sense tractament, analítica el 9/2016 Col 212mg/dL (LDL 124mg/dL; HDL 70mg/dL)
+·	Asma bronquial en tractament amb inhaladors i en seguiment per Servei de Pneumologia, no va acudir a la seva visita programada, han de reprogramar-la. Última visita a l'Octubre de 2015, amb espirometria FVC 1,90 90% +8,5, FEV1 0,99% +2, FEV1/FVC 52. Manté valors normals amb disminució significativa de FEV1/FVC, índex d'obstrucció
+·	Empiema pulmonar dret al 1992 drenat i sense complicacions posteriors
+·	2011 estudi de Diarrea crònica amb FCS (normal)
+·	2011 i 2014 AIT amb clínica de alteració del llenguatge autolimitada i aïllada.
+o	2011 TA C Cranial: Probable leucoaraiosis amb hipodensitat de la subtància blanca periventricular. Parènquima ecefàlica sense altres alteracions
+o	2011 Ecografia de t roncs supraaòrt ics i T ranscranial: Ateromatosi extracranial sense condicionar estenosi significativa. Mala f inestra temporal bilateral que ha permès visualitzar ambdues ACM però sense poder-les seguir en la seva totalitat, així com el segment P2 de les ACP. Vertebrals i basilar normals
+o	2014 EEG: Normal
+o	·	IQ
+
+o	2005 FACO+LIO  bilateral
+
+TRACTAMENT:
+Cusicrom Fuerte Oftalmic 4% 1gota/dia; Dolocatil 1g 1 -1-1; Natecal D Flas 0-1-0; Velmetia 50/1000mg 1-0-1; Clopidogrel 75mg 1-0-0; Ventolin 100mcg/inh si requereix; Pulmicort Turbuhaler 400mcg/dos 0 -0-2; Ranitidina 300mg 1-0-0; Oxis Turbuhaler 4.5mvh 0-0-1; Enalapril 10mg 1-0-0
+
+SITUACIÓ SOCIAL I FUNCIONAL: Natural de _LOCATION_, resident a _LOCATION_. Casada i amb 1 fill (fill èxitus per Neoplàsia de Pulmó). Viu a un 3r pis amb ascensor. Autònoma per les ABVD, mRS0, no puja/baixa escales. Incontinència miccional accidental. No signes de deterior cognitiu. Edèntula parcial amb pròtesi dental. No teleassistència.
+
+MALALTIA ACTUAL:
+Pacient que acut a urgències el 7/3 a les 8:38h per clínica de trastorn del llenguatge (no present el dia previ a les 23:00h quan va anar a dormir i d'aparició a les 7:00h). S'activa CODI ICTUS intrahospitalari, sent valorada per Neurologia (Dra _NAME_) a les 8:55h.
+_NAME_
+
+
+EXPLORACIÓ FÍSICA:
+Planta: TA 160/60mmHg, Tªax 36ºC, FC 76x', FR 20x', SO2 B 96%, BMT 128
+PELL I MUCOSES: Normohidratada i Normocolorejada. Sense edemes a EEII. Sense signes de TVP. No UPP. RESP: MVC, sense sorolls sobreafegits. COR: Tons cardíacs rítmics. Sense bufs. Polsos perifèrics presents i simètrics. Caròtides sense bufs. ABDOMEN: Tou i depressible. Es palpa hèrnia abdominal (coneguda prèviament). S'ausculta peristaltisme. No dolorós a la palpació. Sense megàlies. No signes de peritonisme.
+NRL Urgències: Conscient, afàsia d'expressió amb parafàsies, reiterativa, compren alguna ordre simple. Hemianòspia dreta per amenaça. Paralisis facial supranuclear dreta, no dèficit motor, hipoalgèsia i probable heminegligència amb extinció sensitiva d'extremitats dretes. RCP extensor dret.  NIHSS: (0-2-1-0-1)-(1(0-0)(0-0)-(0-1-1-1-1)=9
+NRL Planta: Conscient i orientada a les tres esferes. Sense disàrtria ni afàsia. Compren i nomina amb lleu dificultat. Oculomotricitat i campimetria per confrontació sense alteracions. Parells cranials sense alteració. Pupil·les isocòriques i normoreactives. Obeeix ordres simples. Força i sensibilitat conservada. No signes meningis. Reflexes a EESS dèbils. RCP Flexor. No dismetria. Marxa estable. NIHSS 0 -0-0-0-0 // 0(0-0)(0-0) // 0-0-0-0-0=0
+
+EXPLORACIONS COMPLEMENTÀRIES:
+
+·	A nalít ica Urgències: G 183.3mg/dL; U 21.9mg/dL; Cr 0.54mg/dL; Na 140mmol/L; K 4.3mmol/L; Cl 102mmol/L; FG 89mL/min/1.73m2; Hb 13.1g/dL; Htc 41.1%M VCM 86.2fL; HCM 27.5pg; Leu 4.910/uL (Neu 55.1%; Lim 30.8%); Plaq 242.000/uL; T Prot Rati 0.95; APTT Rati 0.90; Fibrinògen 423.1mg/dL
+·	ECG  Urgències:  Ritme  sinusal,  FC  75x'.  PR 0.12;  QRS  0.12  (Bloqueig  de  branca  dreta  conegut  previament). Repolarització no valorable pel bloqueig.
+·	TA C Cranial i A ngiografia: No hi ha imatges de sagnat. ASPECTS 10. Estenosis moderada de les bifurcacions carotídies
+·	EEG: no es registren alteracions epileptiformes. Registre normal.
+·	Estudi neuros nolò gic : TSA: ateromatosis bicarotidia sense estenosis signifcatives  de  ACIs  i ACEs. Arteries vertebrals extracranials amb fluxe ortodròmic sense alteracions . Transcranial: mala finestra transte mpora l. Finestra suboccipital amb arteries vertebrals intracranials, unió i tot el trajecte de A. basilar f ins a 92mm de profunditat normal. Conclusió: ateromatosis extracranial sense oclusions ni estenosis intra ni extracranials.
+
+
+EVOLUCIÓ:
+
+Pacient de 80anys HTA i Diabètica en tractament farmacològic i dislipèmica sense tractament. Amb antecedents d'asma en tractament i seguiment per pneumologia. Al 2011 i 2014 va presentar clín ica neurològica amb alteració del llenguatge autolimitat, amb proves d'imatge sense alteracions i electroencefalograma normal. Autònoma per les Activitats bàsiques de la vida diària i sense deterior cognitiu.
+
+A la seva arribada a urgències s'activa CODI ICTUS i es valorada per Neurologia, realitzant exploració física inic ial en la q ue s'observa afasia, possible hemianopsia i extinció sensitiva dreta. El TC cranial i AngioTAC no s'observen lesions isquèmiques agudes i tampoc olcusions ni estenosis significatives. Conjuntament amb _SS_ es consensua no tributària de tractament de reperfusió a fase aguda i ingressa a planta de  neurologia amb milloria clín ica a les primers hores fins a quedar assimptomàtica. A la nit del 7/3 presenta de nou trastorn del llenguatge autolimitat en relació a hipotensió arterial que es corregeix amb sèrumterapia. A l'exploració fís ica a planta el 8/3 presenta resolució completa de la clínica, amb estabilitat de la marxa (NIHSS 0). Durant l'ingrés es manté estable sense nous episodis, amb tendencia a la hipertensió arterial control tensional i analítica amb perfil lip ídic lleument alterat i glicèmic normal. Se li realitza un estudi doppler en la que s'observa lleu ateromatosis extracranial sense oclusions ni estenosis significatives. També realitzem un EEG que és estrictament normal. Degut a estabilitat clínica i hemodinàmica es  decideix alta a domicili i es completarà l'estudi amb Holter, Ecocardiograma i RM Cranial ambulatori.
+
+Al alta NIHSS 0, mRS 0
+
+TRACTAMENT:
+
+-	Enalapril 20mg 1 comprimit al matí.
+-	Atorvastatina 40mg 1 comprimit al vespre
+-	Cusicrom Fuerte Oftalmic 4% 1gota/dia;
+-	Dolocatil 1g 1-1-1;
+-	Natecal D Flas 0-1-0;
+-	Velmetia 50/1000mg 1-0-1;
+-	Clopidogrel 75mg 1-0-0;
+-	Ventolin 100mcg/inh si requereix;
+
+-	Pulmicort Turbuhaler 400mcg/dos 0-0-2;
+-	Ranitidina 300mg 1-0-0;
+-	Oxis Turbuhaler 4.5mvh 0-0-1;
+
+CONTROL:
+
+Acudir a visita a CEX de Neurologia (DRa _NAME_) el dia 19/ 06/17 a les 08:20h Control de FRCV per metge de capçalera i especialistes habituals
+L'avis aràn per a realitzar Ecocardiograma , Holter i RM cranial
+
+Signat per _NAME_ núm.col: _ID_ Data/Hora:09-03-2017 13:02

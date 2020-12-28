@@ -1,0 +1,20 @@
+T1	_SUG_NIHSS 773 780	NIHSS 1
+T2	SECCION_TRATAMIENTO_HABITUAL 1587 1606	Medicación habitual
+T3	SECCION_EXPLORACION_FISICA_DURANTE_HOSPITALIZACION 1778 1828	Exploració física al ingreso en la unidad de ictus
+T4	NIHSS_previa 2071 2078	NIHSS 0
+#4	AnnotatorNotes T4	0
+T5	SECCION_EXPLORACIONES_COMPLEMENTARIAS 2107 2141	Proves complementàries realitzades
+T6	SECCION_EVOLUCION 3697 3706	Evolución
+T7	SECCION_DESTINO_AL_ALTA 4367 4382	Destino al alta
+T8	mRankin_alta 4395 4411	Rankin (alta): 0
+#8	AnnotatorNotes T8	0
+T9	NIHSS_alta 4412 4427	NIHSS (alta):	0
+#9	AnnotatorNotes T9	0
+T10	SECCION_DIAGNOSTICOS 4431 4443	Diagnósticos
+T11	SECCION_DIAGNOSTICO_PRINCIPAL 4447 4468	Diagnóstico principal
+T12	SECCION_DIAGNOSTICOS_SECUNDARIOS 4558 4582	Diagnósticos secundarios
+T13	SECCION_PROCEDIMIENTOS 4738 4752	Procedimientos
+T14	SECCION_TRATAMIENTO_AL_ALTA 4805 4824	Tratamiento al alta
+T15	Tratamiento_antiagregante_alta 4859 4862	AAS
+T16	Tratamiento_antiagregante_alta 4877 4888	Clopidogrel
+T17	SECCION_RECOMENDACIONES 4952 4992	Recomendaciones de prevención secundaria

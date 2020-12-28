@@ -1,0 +1,120 @@
+T1	Fecha_de_alta 15 25	18-10-2018
+#1	AnnotatorNotes T1	2018-10-18
+T2	_SUG_Ictus_isquemico 53 67	ECVA isquémica
+T3	Arteria_afectada 88 91	ACM
+T4	Lateralizacion 92 93	I
+T5	Etiologia 107 120	indeterminada
+T6	_SUG_Etiologia 122 136	cardioembólico
+T7	HORA 180 184	1.26
+#7	AnnotatorNotes T7	01:26
+T8	_SUG_Ictus_isquemico 260 265	Ictus
+T9	_SUG_Ictus_isquemico 300 305	Ictus
+T11	_SUG_Ictus_isquemico 422 427	ICTUS
+T12	mRankin_previa 664 669	mRS 0
+T13	FECHA 806 810	2017
+#13	AnnotatorNotes T13	2017-UNDEF-month-UNDEF-day
+T14	_SUG_Tratamiento_anticoagulante 829 836	Sintrom
+T15	_SUG_Lateralizacion 916 925	bilateral
+T16	FECHA 929 933	2010
+#16	AnnotatorNotes T16	2010-UNDEF-month-UNDEF-day
+T17	_SUG_Tratamiento_anticoagulante 953 960	sintrom
+T18	Tratamiento_anticoagulante_hab 1147 1159	ACENOCUMAROL
+T20	Fecha_inicio_sintomas 1671 1681	07/octubre
+#20	AnnotatorNotes T20	2018-10-07
+T21	HORA 1692 1697	21:00
+#21	AnnotatorNotes T21	21:00
+T22	_SUG_Lateralizacion 1749 1757	derechas
+T23	FECHA 2544 2554	04/octubre
+#23	AnnotatorNotes T23	2010-10-04
+T24	FECHA 2625 2635	30/octubre
+#24	AnnotatorNotes T24	2010-10-30
+T25	_SUG_Tratamiento_anticoagulante 2654 2661	sintrom
+T26	FECHA 2744 2754	06/octubre
+#26	AnnotatorNotes T26	2010-10-06
+T27	_SUG_Tratamiento_anticoagulante 2812 2819	sintrom
+T28	Hora_inicio_sintomas 2860 2865	21:00
+#28	AnnotatorNotes T28	21:00
+T29	_SUG_Ictus_isquemico 2889 2894	ictus
+T30	HORA 2896 2901	21:30
+#30	AnnotatorNotes T30	21:30
+T31	Hora_llegada_hospital 2921 2926	22:25
+#31	AnnotatorNotes T31	22:25
+T33	_SUG_TAC_craneal 2932 2942	TC craneal
+T34	Hora_TAC_inicial 2944 2949	22:40
+#34	AnnotatorNotes T34	22:40
+T35	HORA 2960 2965	22:59
+#35	AnnotatorNotes T35	22:59
+T36	FECHA 3020 3029	7/10/2018
+#36	AnnotatorNotes T36	2018-10-07
+T37	_SUG_Lateralizacion 3831 3840	bilateral
+T38	NIHSS_previa 3865 3873	NIHSS: 0
+T39	_SUG_Lateralizacion 3888 3893	ambos
+T40	FECHA 4086 4091	08/10
+#40	AnnotatorNotes T40	2010-08-UNDEF-day
+T42	_SUG_Lateralizacion 4992 5001	bilateral
+T43	_SUG_NIHSS 5063 5071	NIHSS: 0
+T45	Fecha_TAC_inicial 5535 5545	07-10-2018
+#45	AnnotatorNotes T45	2018-10-07
+T46	_SUG_Localizacion 5880 5891	ventricular
+T47	FECHA 6086 6096	08/10/2018
+#47	AnnotatorNotes T47	2018-10-08
+T48	FECHA 6349 6359	08/10/2018
+#48	AnnotatorNotes T48	2018-10-08
+T49	FECHA 6391 6401	08/10/2018
+#49	AnnotatorNotes T49	2018-10-08
+T50	_SUG_TAC_craneal 6423 6425	TC
+T51	FECHA 6452 6462	08-10-2018
+#51	AnnotatorNotes T51	2018-10-08
+T52	_SUG_Localizacion 6577 6585	profunda
+T53	_SUG_Localizacion 6660 6671	ventricular
+T54	FECHA 6823 6832	8/10/2018
+#54	AnnotatorNotes T54	2018-10-08
+T55	FECHA 6949 6958	9/10/2018
+#55	AnnotatorNotes T55	2018-10-09
+T56	HORA 7152 7157	10:20
+#56	AnnotatorNotes T56	10:20
+T57	_SUG_Localizacion 7257 7266	posterior
+T58	FECHA 7660 7670	15/10/2018
+#58	AnnotatorNotes T58	2018-10-15
+T59	_SUG_Localizacion 8105 8114	posterior
+T60	_SUG_Ictus_isquemico 8403 8408	Ictus
+T61	_SUG_Ictus_isquemico 8561 8566	Ictus
+T63	_SUG_TAC_craneal 9074 9085	TAC craneal
+T64	_SUG_Tratamiento_anticoagulante 9170 9181	Enoxaparina
+T65	_SUG_Tratamiento_anticoagulante 9357 9367	Dabigatrán
+T67	_SUG_Lateralizacion 9785 9786	I
+T68	_SUG_Etiologia 9800 9813	indeterminada
+T69	_SUG_Etiologia 9815 9829	cardioembólico
+T70	HORA 9873 9877	1.26
+#70	AnnotatorNotes T70	01:26
+T71	FECHA 9992 10008	el próximo lunes
+#71	AnnotatorNotes T71	2018-10-22
+T72	_SUG_Lateralizacion 10243 10248	dieta
+T73	Tratamiento_anticoagulante_alta 10888 10895	Sintrom
+T74	Tratamiento_anticoagulante_alta 10898 10909	enoxaparina
+T75	Tratamiento_anticoagulante_alta 10960 10970	Dabigatrán
+T76	SECCION_DIAGNOSTICOS 27 39	Diagnosticos
+T77	SECCION_PROCEDIMIENTOS 234 248	Procedimientos
+T78	SECCION_MOTIVO_DE_INGRESO 364 381	Motivo de ingreso
+T79	SECCION_ANTECEDENTES_PERSONALES 473 493	Antecedentes Médicos
+T81	SECCION_ANTECEDENTES_PATOLOGICOS 711 735	Antecedentes Patológicos
+T82	SECCION_ANTECEDENTES_QUIRURGICOS 1057 1081	Antecedentes Quirúrgicos
+T83	SECCION_TRATAMIENTO_HABITUAL 1118 1142	Tratamiento domiciliario
+T84	SECCION_EXPLORACION_FISICA 2973 2984	Exploración
+T85	SECCION_EXPLORACION_FISICA_EN_URGENCIAS 2988 3019	Exploración Física en urgencias
+T86	SECCION_EXPLORACION_FISICA_DURANTE_HOSPITALIZACION 4532 4582	Exploración Física en la Unidad de Ictus a las 24h
+T87	SECCION_EXPLORACIONES_COMPLEMENTARIAS 5078 5112	Resultados pruebas complementarias
+T91	SECCION_EVOLUCION 8328 8350	Evolución Hospitalaria
+T92	SECCION_TRATAMIENTO_Y_RECOMENDACIONES_AL_ALTA 10188 10225	Recomendaciones y tratamiento al alta
+T10	Ataque_isquemico_transitorio 69 73	AITs
+T19	SECCION_SITUACION_FUNCIONAL 629 644	Situación basal
+#2	AnnotatorNotes T12	0
+T32	SECCION_PROCESO_ACTUAL 1603 1612	Anamnesis
+T62	Fecha_llegada_hospital 1671 1681	07/octubre
+#3	AnnotatorNotes T62	2018-10-07
+#4	AnnotatorNotes T38	0
+T41	SECCION_EXPLORACIONES_COMPLEMENTARIAS_EN_URGENCIAS 5119 5146	Analítica Sanguínea urgente
+T44	TAC_craneal 5498 5508	TC cerebro
+T80	SECCION_EXPLORACIONES_COMPLEMENTARIAS_EN_PLANTA_DE_NEUROLOGIA 6065 6085	Analítica de ingreso
+T88	NIHSS_alta 9615 9642	escala NIHSS es de 0 puntos
+#5	AnnotatorNotes T88	0

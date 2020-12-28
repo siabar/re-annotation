@@ -1,0 +1,108 @@
+_LOCATION_
+Telèfon: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 80 anys
+NIF/DNI: _ID__NAME_; _NAME_;
+ _NAME_; _NAME_
+Informe d'alta d'hospitalització
+CP	_LOCATION_
+ABS	_SS_
+Servei	NEUROLOGIA
+Data d'alta  28.12.2017	12:07:05
+_LOCATION_
+_CONTACT_; _CONTACT_
+ATEN.PRIMÀRIA 19.12.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Paresia facial
+
+ANTECEDENTS
+No alergias medicamentosas conocidas. Exfumador desde hace años. FRCV: DM2, No DLP ni HTA.
+
+Antecedentes Patológicos:
+-	En seguimiento por Oftalmología por hipertensión ocular.
+-	En seguimiento por Urología por Neo de próstata intervenida mediante protatectomía radical (2006).
+-	Colelitiasis.
+-	Lumbalgia.
+
+IQ: Herniorrafia inguinal bilateral.
+
+SOCIAL: Reside con su pareja. Deambulación sin ayuda. IABVD. Doble continente.
+
+MEDICACIÓ HABITUAL
+CAVERJECT 20MCG 8 x 1 m. METFORMINA STADA 850MG 1 x 24 h. MONOPROST 50MCG/ML  1 x 24 h.
+
+PROCÉS ACTUAL
+Varón 80 años con buena situación basal que el día , tras la comida, experimentó una hipofluencia para el lenguaje asociado a desviación comisural y cefalea.
+
+EXPLORACIÓ FÍSICA
+
+URGENCIAS
+Somnoliento.  Bradipsíquico.  Desorientado  en  tiempo.  Paresia  facial  derecha.  Resto  pares  craneales  sin alteraciones. no alteraciones campimétricas por confrontación. No focalidad de vías largas.
+
+NEUROLOGÍA:
+Afebril. TA 141/62 mmHg. BEG: NRL: Hipofluencia del lenguaje que impresiona de rasgos disfásicos. Comprende órdenes. Campimetría por confrontación normal normal. Paresia facial central D. Paresia ESD leve (4+/5) con pronación. Impresiona de fuerza normal en las EEII. Sensibilidad normal. No claras dismetrías. Babinski D. Reflejo cutáneo plantar flexor I. No signos de irritación menñingea. Temporales laten simétricas.
+
+Informe d'alta d'hospitalització
+
+
+
+EXPLORACIÓ COMPLEMENTÀRIA
+URGENCIAS
+-	TC cráneo: Signos de atrofia cerebral global. Disminución de la antenuación ganglio-basal izquierda, región lentículo estriada, probablemente en relación con zona de isquemia subaguda. Correlaciónar con clínica y antecedentes del paciente.
+-	Electrocardiograma: bradicardia sinusal a 44lpm.
+-	Analítica sanguínea. bioquímica/hemograma y hemostasia sin alteraciones destacables.
+
+NEUROLOGÍA:
+1.	AS: BQ: Glucosa * 128 mg/dL, Urea 36 mg/dL, Creatinina 0.60 mg/dL , FG >60, Urat 4.1 mg/dL, Calci total 8.93 mg/dL , Colesterol 205 mg/dL, HDL colesterol 44.0 mg/dL , LDL colesterol 119.2 mg/dL , Triglicèrid * 209 mg/dL , Proteïna total * 6.03 g/dL, Prealbúmina 0.26 g/L, Fosfatasa alcalina 83 U/L , GOT/AST 19 U/L , GPT/ALT 20 U/L, GGT 39 U/L , Bilirrubina total 1.21 mg/dL, Cobalamina 218 pmol/L, Folat 34.91 nmol/L , TSH 2.09 mU/L, T4 lliure
+13.3	pmol/L. HEMOGRAMA: Hematies 4.70 x10x12/L , Hemoglobina 14.5 gr/dl , Hematòcrit 44.0 % , Volum Corpuscular Mig 93.6 fl. HbA1c (NGSP/DCCT) * 7.2 %
+
+2.	Estudio neurosonológico
+-	Dúplex TSA: S'han explorat tots dos eixos carotidis i el trajecte extracranial de totes dues arèries vertebrals. Només descata la presència de petites plaques en totes dues bifurcacions sense repercusióhemodinàmica.
+-	Dúplex TC: Destaca la presència de patró d'estenosi moderada-greu en totes dues artèries cerebrals mitges. ACM M2 dreta 252 cm/s a a 4,5 cm i ACM M1 esquerra 251,7 cm/s a 5,1 cm
+
+3.	RM cerebral +Willis: Prominencia de surcos, cisuras y sistema ventricular, en relación a atrofia cerebral global cortico-subcortical en grado moderado. Estructuras de la línea media centradas. Aumento de señal en Flair que presenta restricción de la difusión en el núcleo lenticular izquierdo en relación con infarto en evolución en el territorio de la ACM izquierda.
+En secuencias T2 y FLAIR se aprecia, hiperintensidad de señal en la protuberancia, sustancia blanca adyacente a los ventrículos laterales, coronas radiatas y centros semiovales. Estas alteraciones de señal son sugestivas de lesiones hipóxico-isquémicas. No evidencia de procesos expansivos intra ni extra-axiales. Charnela occípito-cervical normal. ACM izquierda de calibre regular, visualizándose al menos dos estenosis significativas pre y post-bifurcación. ACM derecha filiforme en su tramo distal pre-bifurcación. Ocupación parcial del seno maxilar derecho compatible con cambios inflamatorios/ infecciosos.
+CONCLUSIÓN: Signos de atrofia cerebral global. Infarto en evolución lenticular izquierdo. Sugestivo de alteraciones hipóxico-isquémicas en sustancia blanca supratentorial. Arterias cerebrales medias de calibre irregular sugestivo de ateromatosis con estenosis significativas.
+
+4.	Monitorización ECG durante 4 dias (que se mantuvo en UI) sin arritmias potencialmente embolígenas
+
+EVOLUCIÓ CLÍNICA
+El paciente ha presentado evolución favorable y sin complicaciones.
+En el momento del alta presenta mRS 2, NIHSS 2. Exploración NRL al alta: minima paresia distal en ESD que dificulta algunas tareas manipulativas y no puntua en NIHSS y paralisis facial central derecha.
+
+ORIENTACIÓ DIAGNÒSTICA
+Ictus isquémico en territorio profundo de ACM derecha Ateromatosis intracraneal
+
+Informe d'alta d'hospitalització
+
+
+
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+-omeprazol 20 en desayuno
+-metformina como la tomaba en domicilio
+-AAS 100 mg/24 horas
+-Clopidogrel 75/24 horas
+-Atorvastatina 80 mgr en cena
+-Citalopram 10 mg en desayuno
+
+CONTROL
+Revisión en 3 meses en consultas de NRL con nuevo estudio neurosonológico(Dra. _NAME_)
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+28.12.2017
+Pàgina 1 de 3

@@ -1,0 +1,103 @@
+T0	HORA 241 246	19:00
+#0	AnnotatorNotes T0	19:00
+T1	FECHA 250 260	10.11.2017
+#1	AnnotatorNotes T1	2017-11-10
+T2	FECHA 355 365	06.11.2017
+#2	AnnotatorNotes T2	2017-11-06
+T3	SECCION_MOTIVO_DE_INGRESO 419 433	MOTIU D'INGRÉS
+T4	_SUG_Lateralizacion 477 486	izquierda
+T5	SECCION_ANTECEDENTES 489 500	ANTECEDENTS
+T6	SECCION_SITUACION_FUNCIONAL 749 773	Situación sociofuncional
+T7	_SUG_mRankin_alta 839 844	mRS 2
+T8	_SUG_mRankin_previa 839 844	mRS 2
+T9	SECCION_TRATAMIENTO_HABITUAL 847 865	MEDICACIÓ HABITUAL
+T10	SECCION_PROCESO_ACTUAL 1015 1028	PROCÉS ACTUAL
+T11	FECHA 1243 1253	06/11/2017
+#11	AnnotatorNotes T11	2017-11-06
+T12	HORA 1260 1264	8:25
+#12	AnnotatorNotes T12	8:25
+T13	_SUG_Lateralizacion 1326 1335	izquierdo
+T14	_SUG_Ictus_isquemico 1410 1415	Ictus
+T15	HORA 1422 1426	8:44
+#15	AnnotatorNotes T15	08:44
+T16	_SUG_Lateralizacion 1537 1547	izquierdas
+T17	SECCION_EXPLORACION_FISICA 1550 1567	EXPLORACIÓ FÍSICA
+T18	_SUG_Lateralizacion 2000 2007	derecha
+T19	_SUG_Lateralizacion 2030 2039	izquierda
+T20	_SUG_Lateralizacion 2098 2107	izquierda
+T21	_SUG_Lateralizacion 2134 2143	izquierda
+T22	_SUG_Lateralizacion 2208 2217	izquierda
+T23	_SUG_NIHSS_alta 2240 2248	NIHSS 10
+T24	_SUG_NIHSS_previa 2240 2248	NIHSS 10
+T25	_SUG_Ictus_isquemico 2274 2279	ictus
+T26	_SUG_Lateralizacion 2444 2445	I
+T27	FECHA 2456 2459	4/5
+#27	AnnotatorNotes T27	2017-05-04
+T28	_SUG_Lateralizacion 2493 2494	I
+T29	_SUG_NIHSS_alta 2528 2536	NIHSS  5
+T30	_SUG_NIHSS_previa 2528 2536	NIHSS  5
+T31	SECCION_EXPLORACIONES_COMPLEMENTARIAS 2574 2599	EXPLORACIÓ COMPLEMENTÀRIA
+T32	_SUG_TAC_craneal 3122 3132	TC craneal
+T33	_SUG_Localizacion 3255 3263	parietal
+T34	_SUG_Lateralizacion 3264 3271	derecha
+T35	_SUG_Localizacion 3296 3304	cortical
+T36	_SUG_Lateralizacion 3471 3478	derecha
+T37	_SUG_Localizacion 3565 3573	parietal
+T38	_SUG_Arteria_afectada 3584 3586	M2
+T39	_SUG_Lateralizacion 3587 3594	derecho
+T40	_SUG_Ictus_isquemico 3863 3868	ictus
+T41	_SUG_Lateralizacion 4115 4124	izquierdo
+T42	_SUG_Lateralizacion 4262 4271	izquierda
+T43	_SUG_Localizacion 4313 4322	posterior
+T44	_SUG_Localizacion 4456 4467	ventricular
+T45	_SUG_Localizacion 4732 4741	posterior
+T46	_SUG_Arteria_afectada 4748 4770	arteria cerebral media
+T47	_SUG_Lateralizacion 4771 4778	derecha
+T48	_SUG_Localizacion 4844 4852	temporal
+T49	_SUG_Localizacion 4853 4862	posterior
+T50	_SUG_Localizacion 4962 4969	caudado
+T51	_SUG_Lateralizacion 4987 4997	izquierdos
+T52	_SUG_Lateralizacion 5027 5034	derecho
+T53	_SUG_Arteria_afectada 5056 5060	PICA
+T54	_SUG_Lateralizacion 5100 5107	derecha
+T55	_SUG_Localizacion 5189 5198	posterior
+T56	_SUG_Arteria_afectada 5205 5227	arteria cerebral media
+T57	_SUG_Lateralizacion 5228 5235	derecha
+T58	_SUG_Lateralizacion 5462 5471	izquierdo
+T59	_SUG_Etiologia 5594 5606	hipertensión
+T60	_SUG_Localizacion 5650 5659	posterior
+T61	SECCION_EVOLUCION 5712 5728	EVOLUCIÓ CLÍNICA
+T62	_SUG_Ictus_isquemico 5835 5840	ictus
+T63	_SUG_Arteria_afectada 5861 5864	ACM
+T64	_SUG_Lateralizacion 5865 5872	derecha
+T65	_SUG_NIHSS_alta 5874 5882	NIHSS 10
+T66	_SUG_NIHSS_previa 5874 5882	NIHSS 10
+T67	_SUG_TAC_craneal 5907 5917	TC craneal
+T68	_SUG_Localizacion 6003 6011	cortical
+T69	_SUG_Lateralizacion 6045 6052	derecha
+T70	_SUG_Arteria_afectada 6080 6082	M2
+T71	_SUG_TAC_craneal 6262 6264	TC
+T72	_SUG_TAC_craneal 6334 6336	TC
+T73	_SUG_Lateralizacion 6370 6375	dicha
+T74	_SUG_Ictus_isquemico 6520 6525	Ictus
+T75	_SUG_Ictus_isquemico 6617 6622	Ictus
+T76	_SUG_Lateralizacion 6712 6721	izquierda
+T77	_SUG_Lateralizacion 7053 7062	izquierda
+T78	_SUG_Localizacion 7120 7129	posterior
+T79	_SUG_Lateralizacion 7355 7360	dicha
+T80	_SUG_Tratamiento_anticoagulante_alta 7484 7491	Clexane
+T81	_SUG_Tratamiento_anticoagulante_hab 7484 7491	Clexane
+T82	_SUG_Arteria_afectada 7678 7681	ACM
+T83	_SUG_Localizacion 7738 7745	caudado
+T84	_SUG_Lateralizacion 7763 7773	izquierdos
+T85	_SUG_NIHSS_alta 7917 7922	NIHSS
+T86	_SUG_NIHSS_previa 7917 7922	NIHSS
+T87	_SUG_mRankin_alta 7935 7943	rankin 3
+T88	_SUG_mRankin_previa 7935 7943	rankin 3
+T89	SECCION_DIAGNOSTICOS 7949 7960	DIAGNÒSTICS
+T90	_SUG_Etiologia 7995 8009	cardioembólica
+T91	SECCION_TRATAMIENTO_Y_RECOMENDACIONES_AL_ALTA 8066 8101	TRACTAMENT I RECOMANACIONS A L'ALTA
+T92	SECCION_CONTROL 8114 8121	CONTROL
+T93	SECCION_DESTINO_AL_ALTA 8203 8222	DESTINACIÓ A L'ALTA
+T94	FECHA 8293 8303	10.11.2017
+#94	AnnotatorNotes T94	2017-11-10

@@ -1,0 +1,164 @@
+_LOCATION_ Tel. _CONTACT_
+e-mail: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 69 Anys
+NIF/DNI: _ID__NAME_; _NAME_; _NAME_; _NAME_;_NAME_
+Informe d'alta d'hospitalització
+CP	_LOCATION_
+ABS	_SS_
+Servei	NEUROLOGIA
+Data d'alta  14.11.2017	15:38:19
+_LOCATION_
+_CONTACT_; _CONTACT_
+DOMICIL/RES.SOC 10.11.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Alteración de la emisión del lenguaje
+
+ANTECEDENTS
+Hombre de 69 años sin alergias medicamentosas, exfumador desde hace 1 año y medio (1,5 paq/d), sin otros hábitos tóxicos.
+
+ANTECEDENTES PATOLÓGICOS:
+-Enfermedad pulmonar obstructiva crónica grave en tratamiento broncodilatador.
+-Carcinoma pulmonar de célula pequeña T4N0M1a (metástasis pleural), estadio IVa diagnosticado en Agosto/2016, candidato a QT exclusiva de 1L con cisplatino/etopósido + GCSF.Tras C2 RP, por toxicidad hemotológica previa GCSF pfx secundaria y reducción de dosis.
+
+Situación funcional: independiente para actividades básicas e instrumentales de la vida diaria. Escala Rankin 0.
+
+MEDICACIÓ HABITUAL
+Budesonida, Fortecortin, Omeprazol, Ondansetron, Ultibro, Ventolin.
+
+PROCÉS ACTUAL
+El 10/11/17 a las 21:30h estando en domicilio presenta de forma brusca alteración en la emisión y articulación del lenguaje por lo que lo traen a Urgencias de _SS_ i es valorado inicialmente por medicina, quien nos avisa a las 23:25h sin activar código ictus.
+
+EXPLORACIÓ FÍSICA
+
+FC	60 bpm
+Tªaxi 35.5 ºC
+FR	rpm Tªrec  ºC
+TA s	122 mmHg SAT O2 97 %
+TA d   70 mmHg Pes Kg
+
+Exploración en Urgencias:
+Consciente, orientación no valorable por afasia mixta de predominio motor. Nomina 5/5 con alguna parafasia fonética, gran dificultad para la repetición, incapacidad para la evocación 0/5. Leve disartria. Obedece órdenes sencillas y complejas. Pupilas isocóricas normoreactivas. Oculomotricidad sin restricciones. No déficit campimétrico por confrontación. No paresia ni hipoestesia facial. Pares craneales bajos normales. Fuerza y tono conservados. Reflejo cutáneo plantar flexor bilateral. Hemihipoestesia derecha. No dismetrías. NIHSS: 0.1.0.0.0/0.0.0.0.0/0.2.2.1.0 = 6.
+AC: ruídos cardíacos regulares, sin soplos. No IY/RHY ni edemas. AR: MVC, sin ruídos añadidos. Eupneico. Abdomen blando no doloroso.
+
+Exploración en Unidad de ictus:
+Consciente y orientado en persona, espacio y tiempo. Lenguaje con disminución de la fluencia, nomina y repite con   abundantes   parafasias   fonéticas   y   semánticas,   evoca   3-5/5.   Pupilas   isocóricas   normoreactivas.
+
+Informe d'alta d'hospitalització
+
+
+
+
+Oculomotricidad sin restricción, diplopia ni nistagmo. No déficit campimétrico. No paresia ni hipoestesia facial. Úvula centrada, pilares simétricos. No debilidad cervical, trapecial ni de hipogloso. Fuerza y tono conservados. Reflejo cutáneo plantar flexor bilateral. Hipoestesia braquiocrural derecha. No dismetrías. NIHSS: 0.1.0.0.0/0.0.0.0.0/0.1.1.1.0 = 4.
+AC: ruídos cardíacos regulares, sin soplos. No IY/RHY ni edemas. AR: MVC, sin ruídos añadidos. Eupneico. Abdomen blando no doloroso.
+
+EXPLORACIÓ COMPLEMENTÀRIA
+URGENCIAS:
+
+Analitica: Hematologia (09/11/17): Leucocitos 5500 /#ÊL, (N 77,5 % / L 13,4 / M 6,6 / E 2 / B 0,5), Hties 5,03
+mill/#ÊL, Hb 15,6 g/dL, Hcto 46,5 %, VCM 92,4 fL, Plaquetes 240000 /#ÊL, TP 96 %, INR 1,03 sg, TP ratio 1,03,
+TTPA 27,8 sg, TTPA ratio 0,9, Fibrinogeno 433 mg/dL. Bioquimica (09/11/17): Glucosa 100 mg/dL, Urea 24,7,
+Creatinina 0,7, Na 138,8 mmol/L, K 4,1, Prot-C reactiva 6,2 mg/L.
+
+ECG: ritmo sinusal a 60 lpm, PR 120 ms, aQRS 45o, lenta progresion de ondas R en precordiales sin signos agudos de alteracion de la repolarizacion.
+
+TC con angioTC craneal (09.11.2017): Hiperatenuacion del segmento M1 y ramas M2 de la ACM izquierda con perdida de la diferenciacion suStancia gris-blanca insulary parietal izquierda. ASPECTS =8 compatible con lesion isquemica aguda de ramas de ACM izquierda. No se aprecian alteraciones intra ni extraaxiales TC valorables. En la exploracion de angio TC se aprecia falta de opacificacion del segmento M1 distal de la ACM izquierda con colaterales buenas-intermedias; no se aprecian otras estenosis significativas, defectos de replecion, aneurismas o malformaciones valorables. A pesar de no ser un estudio en fase parenquimatosa no se aprecian captaciones patologicas de contraste e.v. parenquimatosas sugestivas de metastasis. Areas de enfisema panlobular en apex pulmonares.
+
+UNIDAD DE ICTUS:
+
+Analitica (10/11/17): Leucocitos 4400 /#ÊL, (N 77,4 % / L 12,3 / M 7,1 / E 2,5 / B 0,7), Hties 4,96 mill/#ÊL, Hb 15,5
+g/dL, Hcto 45,6 %, VCM 91,8 fL, Plaquetes 225000 /#ÊL, TP 97 %, INR 1,02 sg, TP ratio 1,02, TTPA 25,1 sg,
+TTPA ratio 0,81, Fibrinogeno 418 mg/dL. Bioquimica (10/11/17): Glucosa 81 mg/dL, HbA1c 5,1 %, Urea 20 mg/dL, Creatinina 0,72, Filtrado glomerular estimado >90 mL/min/1.73 m2, Uratos 5,1 mg/dL, Ca 9,2, Fosfato 2,7, Mg
+2,01, Na 140,8 mmol/L, K 4,02, Cl 107,3, ALT 7 U/L, GGT 25, FA 61, Bilirrubina 0,61 mg/dL, Prot-C reactiva 5,2
+mg/L, Proteina 60,9 g/L, Albumina 33,4.
+Lipidos.- Trigliceridos 49  mg/dL, Colesterol  18  5,  (HDL  57,3  /  LDL  118). Hormonas  (10/11/17):  TSH 1,285
+#ÊUI/mL.
+Proteinograma.- Alb 35,4, a1#EGlob 2,7, a2#EGlob 6,3, s#EGlob 7,1, ?#EGlob 9,4, Comp Monoclonal 9 %, Area Comp Monoclonal 5,5 g/L.
+Inmunologia (10/11/17): Paraproteinas PENDIENTE. Inmunoglobulinas.- IgG 964 mg/dL, IgM 93, IgA 212 mg/dl.
+
+TC cranial sense contrast (10.11.2017): TC de control 24 h post r-TPA.. Disminucion del coeficiente de atenuacion en cortex insular y parietal izquierdo compatible con infarto isquemico establecido de la ACM izquierda. No se observan signos de complicacion hemorragica TC valorables. No se aprecian otras alteraciones intra ni extraaxiales TC valorables.
+
+RM craneal (14.11.2017):  En la secuencia  difusión se observa una área de leve  restricción  cortical insular
+
+Informe d'alta d'hospitalització
+
+
+
+
+posterior y parietal opercular del lado izquierdo, con focos aislados puntiformes corticales a nivel temporal, parietal posterior y precentral izquierdo, que se aprecian con una hiperintensidad en la secuencia Flair y potenciada en T2, con ligero realce de contraste, en relación a focos de isquemia aguda-subaguda precoz, en territorio vascular superficial de la ACM izquierda. Que se observa un pequeño foco de alteración de señal cortical con realce contraste laminar a nivel temporal anterior y lateral izquierdo, de un pequeño tamaño para visualizarse en la difusión, que en el contexto del paciente parece otro foco de isquemia subaguda en el territorio vascular de la ACM izquierda Sistema ventricular simétrico, de tamaño normal. Línea media centrada.Cisternas de la base y perimesencefálicas libres. No se observan otras lesiones en parénquima cerebral, cerebeloso ni en tronco encefálico. Tras la administración endovenosa de contraste no se observan otros realces patológicos. Secuencia gradiente de eco no se aprecian lesiones hemorrágicas.
+
+Ecocardiograma transtorácico (13/11/17): ventrículo izquierdo discretamente  hipertrófico, no dilatado, con función sistólica global y segmentaria conservadas. Aurícula izquierda no dilatada. Sin alteraciones valvulares significativas. Aorta ascendente no dilatada; aterosclerosis no complicada en cayado aórtico.
+
+EVOLUCIÓ CLÍNICA
+Se trata de un paciente varón de 69 años con antecedentes de EPOC y carcinoma de pulmón de célula pequeña (T4N0M1a), que es valorado por clínica de trastorno del lenguaje de inicio brusco y dos horas de evolución. A su llegada a urgencias normotenso, afebril y eupneico con glicemia 91 mg/dl. A la exploración destaca afasia mixta de predominio motor, disartria y hemihipoestesia derecha, puntuando NIHSS de 6. ECG en ritmo sinusal. Analítica sin alteraciones significativas. Se realiza TC con angioTC craneal muestran oclusión de a. cerebral media (ACM) izquierda segmento M2 con hipoatenuación del segmento M1 y ramas M2 de la ACM izquierda con pérdida de la diferenciación sustancia gris-blanca insulary parietal izquierda (ASPECTS =8). Se orienta como ictus isquémico de territorio de ACM izquierda y, ante la ausencia de contraindicaciones, se inicia tratamiento fibrinolítico con alteplasa, a las 23:59h (bolus 4,5 mg + perfusión 40 mg; TA 101/66mmHg y glicemia 91 mg/dl previas). Se desestima tratamiento endovascular de rescate por NIHSS <8 y oclusión del segmento M2 de ACM. En urgencias se mantiene estable, con tensiones correctas y presentando mejoría de la clínica. Se decide ingreso en la unidad de ictus para completar estudio y control evolutivo.
+
+Durante su ingreso en la unidad de ictus se mantiene hemodinámicamente estable, eupneico y afebril. No se detectan arritmias en la monitorización cardíaca. Dentro del estudio etiológico se realiza analítica completa que no muestra hallazgos significativos, con perfil glicémico, lipídico y tiroideo normal. Proteinograma muestra una banda de movilidad restringida gamma, por lo que se deriva muestra a laboratorio de inmunología para descartar componente monoclonal. Queda pendiente en el momento del alta, estudio de paraproteïnas. La TC craneal de control 24h post-rtpa muestra infarto isquémico establecido de la ACM izquierda que se confirma en la RM cerebral. El Ecocardiograma transtorácico descarta la presencia de cardiopatía estructural embolígena.
+
+Finalmente, se orienta como ictus isquémico de territorio de ACM izquierda de probable mecanismo embólico y etiología indeterminada. Clínicamente presenta mejoría de la afasia (mejora la fluidez y la capacidad de nominar y evocar, aunque persisten abundantes parafasias), buena tolerancia a dieta oral y a la deambulación. Valorado durante el ingreso por servicio de rehabilitación, se decide logopedia ambulatoria en centro concertado. Se solicita también revaloración ambulatoria. Ante la estabilidad clínica y hemodinámica del paciente se decide alta a domicilio bajo tratamiento antiagregante con control en consultas externas de Neurología.
+
+NIHSS al alta 2 (NIHSS:  0.0.0.0.0/0.0.0.0.0/0.1.1.0.0 =2)
+
+Informe d'alta d'hospitalització
+
+
+
+
+
+mRS al alta 2.
+DIAGNÒSTICS
+436/5 Ictus isquémico de territorio de ACM izquierda de probable mecanismo embólico y etiología indeterminada. Tratamiento con rTPA endovenoso.
+Carcinoma pulmonar celula pequeña estadio T4N0M1a.
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+-Adiro 300 mg/24h.
+-Atorvastatina 40 mg/24h.
+
+Resto de su tratamiento sin cambios.
+
+CONTROL
+Visita con Rehabilitzación el 05/12 a las 09:45h con Dra. _NAME_. Visita con Neurología el 29/12 a las 10:00h con Dra. _NAME_.
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+14.11.2017
+Pàgina 1 de 4

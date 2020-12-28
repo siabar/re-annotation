@@ -1,0 +1,105 @@
+_LOCATION_
+Telèfon: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 88 anys
+NIF/DNI: _ID__NAME_; _NAME_; _NAME_;
+_NAME_
+Informe d'alta d'hospitalització
+12:00:00
+05.10.2017
+_LOCATION_
+_SS_ NEUROLOGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_; _CONTACT_
+DOMICIL/RES.SOC 19.09.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Hemiparesia izda
+
+ANTECEDENTS
+Allergia a las Sulfamides Antecedentes médicos:
+-	Hipertensión arterial
+-	Fibrilación auricular anticoagulada.
+-	EPOC
+-	Neoplasia de mama intervenida el 13 de gener de 2012. CDI de mama izda (UCInternos) pT2-pN1a tratada con Q conservadora y HT. RT a dosis de 4005 cGy en 15 sesiones desde el 25 de abril hasta el 21 de mayo de 2012.
+-	Ceguera en ojo derecho con estrabismo por traumatismo en la infancia IQ: prótesis rodilla izq, mama izquierda.
+Situación basal: vive con su marido en domicilio. Independiente para las ABVD. Camina sin ayuda.
+
+MEDICACIÓ HABITUAL
+Bisoprolol 5 mg por la mañana Pantoprazol 40mg por la mañana Paracetamol 1 gramo si precisa Sintrom 4mg
+Torasemida 10mg (Sutril) Valsartan 160mg 1-0-0
+
+PROCÉS ACTUAL
+Mujer de 88 años derivada a urgencias tras comenzar a las 17-17:30 de esta tarde con debilidad en extremidades inferiores que le impedían la deambulación junto con disartria según los familiares. En ese momento TAS 250mmHg que desciende hasta 190mmHg en la ambulancia tras administrar captopril y diazepam en domicilio. No dolor torácico, cefalea ni otra sintomatología asociada.
+
+EXPLORACIÓ FÍSICA
+
+Consciente. Orientada. NH. NC. GLG15 AC: tonos arrítmicos, no soplos ni roces AP: MVC
+Abd normal
+Signos de insuficiencia venosa crónica.
+
+Val. NRL: expl. nrl: CORP, preferència de la mirada a la dreta que passa línea mitja (1), HHE (2), Hemiparèsia esquerra facial (2), braquial 4+/5, crural 4+/5, hemidismetria esquerra (1), extinció sensitiva MIE (1), disàrtria lleu (1)= 8
+
+Informe d'alta d'hospitalització
+
+
+
+
+EXPLORACIÓ COMPLEMENTÀRIA
+INGRESO:
+Analítica 26-9-2017:
+gluc 82, creat 0.82, calcio 9.09,
+Colesterol 160, HDL 50, LDL 90.8, TGL 96,
+5.140 leucos, Hb 14, INR 1.06,
+HbA1c 6.0%
+
+TC CRANEAL (UCIAS):
+Hipodensidad occipital D con borramiento de surcos en relación con isquemia aguda ; sin signos de hemorrágia No veo hidrocefalia
+Oclusión de ACPo D
+
+TC craneal 22-9-2017: Se visuliza extensa hipodensidad occipital derecha con borramiento de surcos y edema con efecto masa colapsando el asta occiptal homolateral, hallazgos que no se apreciaba en estudio previo de 19.09.2017, en relacion con lesion isquemica de caracteristicas subagudas del territorio de la ACP derecha.
+Areas  hiodensas  maldefinidas  contendencia  ala  coalescencia  de  predominio  ventricular  en  relacion  con leucoaraosis. No se visulizan areas de sangrado intra ni extraaxial. No se aprecia desviacion de lines media.
+Conclusión:  Lesion isquemica occipital  derecha del territorio  de la ACP homolateral de caracteristicas subaguda con colapso de asta occipital adyacente.
+
+
+
+EVOLUCIÓ CLÍNICA
+Mujer de 88años con FA permanente anticoagulada con sintrom que ingresa por ictus en territorio de ACP dcha de origen cardioembólico en contexro de INR infraterapéutico (1.25).
+
+Durante el ingreso presenta meoria de la clínica neurológica. Al alta: Vigil, orientada, colaboradora. Habla/lenguaje normales, amaurosis OI (previa). Hemianopsia homónima izda. No paresia facial. Hemihipoestesia izda. Leve paresia de EE izdas. Consigue deambular hasta el WC con ayuda de su hijo.
+
+Desde el punto de vista preventivo se decide cambiar el tto anticoagulante, iniciando Apixaban 5mg/12h.
+
+Ante la situación de discapacidad actual y en previsión de posible mejroia en las próximas semanas, se decide traslado a unidad de convalescencia.
+
+DIAGNÒSTICS
+Ictus isquémico extenso en territorio de ACP dcha de etiologia cardioembólica Fibrilación auricular permanente
+HTA EPOC
+
+Informe d'alta d'hospitalització
+
+
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Se adjunta
+
+CONTROL
+Se citará para control en CEX de NRL
+
+DESTINACIÓ A L'ALTA:	AGUTS/PSIQUIÀTR
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+05.10.2017
+Pàgina 1 de 3

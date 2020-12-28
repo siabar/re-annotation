@@ -1,0 +1,84 @@
+INFORME ALTA HOSPITALARIA
+_NAME_
+Núm. Episodi: _ID_ Núm. HC: _ID_
+_SS_ _LOCATION_
+_LOCATION_
+Tel. _CONTACT_Adreça: _LOCATION_	C.A.P.: _SS_
+Població: _LOCATION_	Sexe: DONA  Data naixement: _DATE_  Edat: 66a
+Telèfon: _CONTACT_  C.P.: _LOCATION_	T.I.S.: _ID_  DNI/NIF: _ID_
+
+Procedència:	Data Ingrés Hospital: 02/08/2017
+Servei assistencial: NEUROLOGIA HOSP	Data Ingrés Servei: 03/08/2017
+Metge Responsable: _NAME_	Data Alta:  23/08/2017
+
+
+MOTIU DE INGRESO: ACV hemorrágico izq
+
+ANTECEDENTS PERSONALS:
+1.	No AMC
+2.	Obesidad.   3.     Transaminitis 4.     Poliglobulia
+5.	Síndrome ansioso
+6.	HTA ahora sin tratamiento 7.     DL
+
+Situación Sociofuncional: Vive con hijos. Autònoma. Barthel previo 100 (independiente para las ABVD).
+
+Tratamiento habitual: LORAZEPAM PENSA 1MG 50 COMPRIMIDOS EFG 1 mg 1-0-1
+
+MALALTIA ACTUAL:
+Familiar explica que sobre las 00:00hrs la paciente presenta mano derecha torpe y balbuceo al habla, inicialmente pensaban que era cuadro ansioso y al ver que la clínica empeora avisan al SEM a las 01:11h quienes constatan hemiplejia derecha e HTA trayéndola a Urgencias a las 02.09 hs. Se activa código Ictus.
+
+EXPLORACIÓ FÍSICA:
+En urgencias
+TA 179/138mmhg, FC 123lpm, SatO2 basal 92%, BMT 584mmHg. TCR. MVC.
+NRL: hemiparesia faciobraquiocrural derecha, afasia global, hipoestesia de hemicuerpo derecho. Hemianopsia derecha. NIHSS 27 ( 1+1+1+1+2+1+0+4+2+4+1+2+3+2+2).
+
+En planta de Hospitalización
+Constantes: TA 147/80, gluc 236, Diuresis 200, FC
+NRL: Sindrome hemisferico izquierdo completo. Hemianopsia homonima derecha, plejia completa de hemicuerpo derecho, desviación oculo-cefalica hacia la izquierda. Mutismo. Portadora de SNG. NIHSS 25.
+
+EXPLORACIONS COMPLEMENTÀRIES:
+
+En urgencias
+
+1.	TAC craneo + Angio-TAC: Hiperdensidad espontanea en relacion con hematoma parenquimatoso en región cortico-subcortical temporoparietal izquierda de 5x2,5 cm que podría ser de origen hipertensivo. Sobre expresión de surcos de la convexidad de predominio supratentorial fronto-temporal, se asocia a leve dilatación de los ventrículos laterales que mantienen una morfología conservada. Hipodensidad de la sustancia blanca subcortical hallazgo compatible con enfermedad de pequeño vaso (leucoaraiosis). Cisternas basales libres. Estructuras de la línea media centradas. Calcificaciones en sifones carotideos. Permeabilidad del polígono de Willis y ACMs. Sistema vertebrobasilar permeable. Dominancia vertebral derecha. Sin evidencia de MAVs ni formaciones aneurismáticas. OD: Hallazgos en relacion con hematoma parenquimatoso en región temporoparietal izquierda que podría ser de origen hipertensivo. A valorar con clínica. Signos de leucoaraiosis y atrofia cerebral. Angio TC dentro de la normalidad.
+
+2.	Analítica general: Urea *24.3 mg/dL, Creatinina *0.9 mg/dL, Sodi *139.0 (mEq/L) mmol/L, Potassi *4.6
+(mEq/L) mmol/L, Clorur *94.2 (mEq/L) mmol/L, Hematies *5.22 x1E12/L, Hemoglobina *16.5 g/dL, Volum eritrocitari mitja (VCM) *88.3 fL, Neutròfils % *84.1 %, Monòcits % *5.0 %, Eosinòfils % *0.3 %, Plaquetes *278 x1E9/L, FG Dona Crea alta *63.66 , Temps de
+Protrombina (%) *83 , Temps de Tromboplastina parcial (s) *30.2 Glucosa basal *579.5 mg/dL, Proteïna C reactiva *0.3 mg/dL, Hematocrit *46.1 %, Leucocits *11.57 x1E9/L.
+
+3.	Radiografia de torax: RxT poco inspirada, no condensaciones, ensanchamiento mediastino ICT > 0.5
+
+4.	ECG: RS 92lpm, PR 0.22 Q en DIII y aVR no trastornos de la repolarización ni signos de hipertrofia ventricular.
+
+En UCI:
+1.	BQ y sedimento Orina: hemoglobina en orina ++++, proteínas en orina +, glucosa en orina 1000, resto negativo. 5-10 leucocitos por campo, 50-100 eritrocitos por campo, celulas epiteliales escasas 1-5 por campo. Se observa escasa proliferación bacteriana.
+2.	Urocultivo: Positiu per Escherichia coli. En tratamiento antimicrobiano.
+
+
+EVOLUCIÓ:
+
+Paciente de 66 años de edad con FRCV mal cumplimineto de los tratamientos que es traida a UCIAs por el SEM por referir un familiar que sobre las 00:00hrs del dia 02/08/2017 la paciente presenta mano derecha torpe y balbuceo al habla que inicialmente pensaban que era debido a cuadro ansioso, al ver que la clínica empeora avisan al SEM a las 01:11h quienes constatan hemiplegia derecha e HTA trayéndola a Urgencias a las 02.09 hs. Se activa código Ictus.
+
+A su llegada presenta HTA severa (TA de 220/130 mmHg),hiperglicemia >500, NIHSS de 27. GCS O4, V1 M 6 con hemiplegía FBC derecha, desviación de la mirada hacia arriba y a la izquierda, hemianopsia homónima, extinción y afasia global que en ocasiones responde parcialmente. Se realiza TAC craneal que muestra hematoma intraparenquimatoso parietotemporal izquierdo además de AngioTAC que descarta malformación AV, por lo que se desactiva código y es ingresada en UCI. Se inicia RHB funcional y logopedia.
+
+Dado el correcto estado clínico y hemodinámico que adquiere la paciente durante el ingreso se decide traslado en planta de Neurología donde se procede a reajustar la medicación y se realiza interconsulta con UFISS. Paciente presenta importante disfagia que no mejora, se decide colocación de PEG sin incidencias.
+En planta realiza RHB funcional logopedia, actualmente comprende oredenes, afasia motora severa, anartria, disfagia, hemiplegia FBC D, NIHSS 16, mRS5, Barthel 0. Mal pronostico funcional. Se decide traslado a _SS_.
+
+JUDICI CLÍNIC:
+ACV hemorragico en ACM izquierda / Hematoma lobar hemisferio izquierdo de origen hipertensivo 431.
+
+
+TRACTAMENT:
+Tratamientos via PEG
+Ciprofloxacino 750mg/12h hasta el dia 25/8 Crema Mg si precisa
+Paracetamol 1g si precisa Amlodipino 10mg/noche Clexane 40mg/d/sc Keppra 500mg/12h
+NE Glucerna 500mg + 300 cc H2O 3vc Insulina NPH 24-0-18
+Insulina Actrapid s/p habitual si precisa
+
+Atentament, Signat:
+Dr/a.: _NAME_
+Metge adjunt - Neurologia Número col·legiat: _ID_
+
+Hospitalització
+Imprès: 23/08/2017 12:16
+Pàg.: 1 de  2

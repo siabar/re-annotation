@@ -1,0 +1,144 @@
+T0	Hora_de_alta 248 253	16:23
+#0	AnnotatorNotes T0	16:23
+T1	Fecha_de_alta 257 267	04.01.2018
+#1	AnnotatorNotes T1	2018-01-04
+T2	Fecha_de_ingreso 369 379	14.12.2017
+#2	AnnotatorNotes T2	2017-12-14
+T3	SECCION_MOTIVO_DE_INGRESO 433 447	MOTIU D'INGRÉS
+T4	SECCION_ANTECEDENTES 565 576	ANTECEDENTS
+T5	SECCION_SITUACION_FUNCIONAL 662 688	Situación funcional previa
+T6	SECCION_ANTECEDENTES_PATOLOGICOS 810 834	Antecedentes patológicos
+T7	FECHA 1200 1204	1998
+#7	AnnotatorNotes T7	1998-UNDEF-month-UNDEF-day
+T8	FECHA 1440 1451	julio  2016
+#8	AnnotatorNotes T8	2016-07-UNDEF-day
+T9	FECHA 1670 1674	2003
+#9	AnnotatorNotes T9	2003-UNDEF-month-UNDEF-day
+T10	FECHA 1913 1936	el pasado Julio de 2017
+#10	AnnotatorNotes T10	2017-07-UNDEF-day
+T11	SECCION_TRATAMIENTO_HABITUAL 2207 2225	MEDICACIÓ HABITUAL
+T12	Tratamiento_antiagregante_hab 2350 2361	Clopidogrel
+T13	Tratamiento_anticoagulante_hab 2589 2596	Sintrom
+T14	SECCION_PROCESO_ACTUAL 2616 2629	PROCÉS ACTUAL
+T15	Fecha_llegada_hospital 2659 2667	13.12.17
+#15	AnnotatorNotes T15	2017-12-13
+T16	HORA 2700 2702	20
+#16	AnnotatorNotes T16	20:00
+T17	Hora_llegada_hospital 2775 2780	20:56
+#17	AnnotatorNotes T17	20:56
+T18	FECHA 2796 2806	12.12.2017
+#18	AnnotatorNotes T18	2017-12-12
+T19	_SUG_TAC_craneal 3007 3017	TC craneal
+T20	_SUG_Trombolisis_intravenosa 3285 3310	tratamiento fibrinolítico
+T21	_SUG_Trombectomia_mecanica 3354 3375	trombectomía mecánica
+T22	FECHA 3487 3495	13/12/17
+#22	AnnotatorNotes T22	2017-12-13
+T23	SECCION_EXPLORACION_FISICA 3656 3673	EXPLORACIÓ FÍSICA
+T24	NIHSS_previa 4102 4148	NIHSS (0.2.2)2.2//1(0.4)(0.4)//0.1.3. 2.0 = 23
+T25	_SUG_NIHSS 4656 4700	NIHSS = 0.2.2.0.2/2(0.4)(0.4)/0.1.2.2.0 = 21
+T26	SECCION_EXPLORACIONES_COMPLEMENTARIAS 4936 4961	EXPLORACIÓ COMPLEMENTÀRIA
+T27	FECHA 4996 5004	13.12.17
+#27	AnnotatorNotes T27	2017-12-13
+T28	SECCION_EXPLORACIONES_COMPLEMENTARIAS_EN_PLANTA_DE_NEUROLOGIA 5283 5303	Analítica de ingreso
+T29	FECHA 5305 5313	14/12/17
+#29	AnnotatorNotes T29	2017-12-14
+T30	FECHA 5884 5892	02.01.18
+#30	AnnotatorNotes T30	2018-01-02
+T31	FECHA 5908 5916	02/01/18
+#31	AnnotatorNotes T31	2018-01-02
+T32	FECHA 6168 6176	02/01/18
+#32	AnnotatorNotes T32	2018-01-02
+T33	FECHA 6388 6396	04.01.18
+#33	AnnotatorNotes T33	2018-01-04
+T34	FECHA 6412 6420	04/01/18
+#34	AnnotatorNotes T34	2018-01-04
+T35	FECHA 6673 6681	04/01/18
+#35	AnnotatorNotes T35	2018-01-04
+T36	FECHA 6957 6965	15/12/17
+#36	AnnotatorNotes T36	2017-12-15
+T37	FECHA 7082 7090	15/12/17
+#37	AnnotatorNotes T37	2017-12-15
+T38	Fecha_TAC_inicial 7440 7450	13.12.2017
+#38	AnnotatorNotes T38	2017-12-13
+T39	FECHA 8000 8008	20.12.17
+#39	AnnotatorNotes T39	2017-12-20
+T40	SECCION_EVOLUCION 8519 8535	EVOLUCIÓ CLÍNICA
+T41	_SUG_Lateralizacion 8611 8612	e
+T42	_SUG_Localizacion 8619 8627	parietal
+T43	_SUG_Lateralizacion 8628 8635	derecho
+T44	_SUG_TAC_craneal 8767 8777	TC craneal
+T46	_SUG_Lateralizacion 8860 8869	izquierda
+T47	_SUG_Arteria_afectada 8964 8967	ACM
+T48	_SUG_Lateralizacion 8968 8977	izquierda
+T49	_SUG_Etiologia 8978 8992	cardioembólico
+T50	_SUG_Trombolisis_intravenosa 9031 9045	fibrinólisis y
+T51	_SUG_Trombectomia_mecanica 9096 9120	tratamiento endovascular
+T52	_SUG_Lateralizacion 9236 9243	derecha
+T53	_SUG_Lateralizacion 9440 9447	derecha
+T54	_SUG_NIHSS 9473 9481	NIHSS 23
+T55	_SUG_TAC_craneal 9567 9577	TC craneal
+T56	_SUG_Arteria_afectada 9636 9658	arteria cerebral media
+T57	_SUG_Lateralizacion 9659 9668	izquierda
+T58	_SUG_Lateralizacion 9756 9763	derecho
+T59	_SUG_Arteria_afectada 9870 9892	arteria cerebral media
+T60	_SUG_Lateralizacion 9893 9900	derecha
+T61	_SUG_Etiologia 9904 9922	mecanismo embólico
+T62	_SUG_Etiologia 9935 9949	cardioembólica
+T63	_SUG_Arteria_afectada 10008 10030	arteria cerebral media
+T64	_SUG_Lateralizacion 10031 10040	izquierda
+T65	_SUG_Trombolisis_intravenosa 10105 10130	tratamiento fibrinolítico
+T66	_SUG_Trombectomia_mecanica 10201 10222	trombectomía mecánica
+T67	_SUG_Lateralizacion 10395 10402	derecha
+T68	FECHA 10515 10523	16.12.17
+#68	AnnotatorNotes T68	2017-12-16
+T69	_SUG_Lateralizacion 10560 10569	izquierda
+T70	_SUG_Lateralizacion 11023 11024	e
+T71	FECHA 11225 11233	01.01.17
+#71	AnnotatorNotes T71	2017-01-01
+T72	FECHA 11375 11383	04.01.18
+#72	AnnotatorNotes T72	2018-01-04
+T73	_SUG_Lateralizacion 11477 11486	izquierdo
+T74	_SUG_TAC_craneal 11816 11826	TC craneal
+T75	_SUG_Arteria_afectada 11914 11939	arteria cerebral anterior
+T76	_SUG_Lateralizacion 11940 11947	derecha
+T77	_SUG_Lateralizacion 11979 11980	e
+T78	_SUG_Localizacion 11989 11997	parietal
+T79	_SUG_Lateralizacion 11998 12007	izquierdo
+T80	_SUG_Localizacion 12017 12028	posteriores
+T81	_SUG_Lateralizacion 12047 12056	izquierda
+T82	FECHA 12177 12185	04.01.18
+#82	AnnotatorNotes T82	2018-01-04
+T84	SECCION_DIAGNOSTICOS 12439 12461	ORIENTACIÓ DIAGNÒSTICA
+T85	Ictus_isquemico 12464 12480	Ictus  isquémico
+T86	Arteria_afectada 12495 12519	arteria  cerebral  media
+T87	Lateralizacion 12521 12528	derecha
+T88	_SUG_Etiologia 12541 12560	mecanismo  embólico
+T89	Etiologia 12575 12589	cardioembólica
+T90	_SUG_Ictus_isquemico 12621 12636	ictus isquémico
+T91	_SUG_Arteria_afectada 12649 12671	arteria cerebral media
+T92	Lateralizacion 12672 12681	izquierda
+T93	_SUG_Etiologia 12716 12728	Hipertensión
+T94	_SUG_Lateralizacion 12794 12803	izquierda
+T95	SECCION_TRATAMIENTO_Y_RECOMENDACIONES_AL_ALTA 13102 13137	TRACTAMENT I RECOMANACIONS A L'ALTA
+T96	Tratamiento_anticoagulante_alta 13701 13712	Enoxaparina
+T97	Tratamiento_antiagregante_alta 13745 13750	Adiro
+T98	FECHA 14082 14090	24.12.17
+#98	AnnotatorNotes T98	2017-12-24
+T99	FECHA 14151 14159	24.12.17
+#99	AnnotatorNotes T99	2017-12-24
+T100	HORA 14208 14210	19
+#100	AnnotatorNotes T100	19:00
+T101	SECCION_CONTROL 14396 14403	CONTROL
+T102	SECCION_DESTINO_AL_ALTA 14576 14595	DESTINACIÓ A L'ALTA
+T103	FECHA 14699 14709	05.01.2018
+#103	AnnotatorNotes T103	2018-01-05
+T104	mRankin_alta 12428 12437	Rankin: 5
+#3	AnnotatorNotes T104	5
+T83	NIHSS_alta 12384 12427	NIHSS: 0.2.2.0.2/2(0.4)(0.4)/0.1.2.2.0 = 21
+#4	AnnotatorNotes T83	21
+T105	mRankin_previa 744 749	mRS 0
+#5	AnnotatorNotes T105	0
+#6	AnnotatorNotes T24	23
+T106	TAC_craneal 7364 7374	TC craneal
+T108	Arteria_afectada 7923 7925	A2
+T45	Arteria_afectada 7877 7902	arteria cerebral anterior

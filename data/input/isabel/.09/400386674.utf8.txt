@@ -1,0 +1,140 @@
+I.CLINIC DE NEUROCIÈNCIES NEUROLOGIA
+_NAME_	NHC: _ID_
+
+
+Sexo/Sexe: Fem.	Fecha nac./Data naix.: _DATE_	Edad/Edat: 79 años Dirección/Adreça: _LOCATION_	CP: _LOCATION_
+Municip. (Prov.): _LOCATION_  ABS:_SS_		Tel.:_CONTACT_ As.: SERVEI CATALA DE LA SALUT	CIP: _ID_	NASS: _ID_
+Nº epis.: _ID_	Tipo/Tipus: HOSPIT.	Inici.: 05.08.2017
+Serv: NEUROLOGIA	UO Enf.: I064 SALA G DE NEUROL. INTE   Hora: 23:49:25 Facult. de ref.: _NAME_
+
+
+
+
+Tipo ingreso/Tipus ingrés: Urgent	Motivo/Motiu alta: Dom. Familiar
+Diag.:
+Ictus isquémico. ()
+Proc.:
+Resonancia magnética cerebral () Analítica sanguínea. () Endarterectomía carotídea. ()
+
+
+
+
+INFORME CLÍNICO ALTA / INFORME CLÍNIC ALTA
+
+Motivo de consulta / Motiu de consulta
+Alteración del lenguaje y debilidad de extremidades derechas.
+
+Antecedentes e historia previa / Antecedents i història prèvia
+Antecedentes personales:
+Mujer de 78 años sin alergias medicamentosas conocidas. No habitos tóxicos. Refiere ser autónoma, vive sola en domicilio (mRS:2, movilidad con 1 apoyo autónoma para distancias cortas tras ictus en enero 2017).
+
+
+** ANTECEDENTES PATOLÓGICOS:
+
+
+1.	HIPERTENSIÓN ARTERIAL en tratamiento médico.
+
+
+2.	HIPOTIROIDISMO en tratamiento sustitutivo.
+
+
+3.	CARDIOPATÍA ISQUÉMICA. ANGINA hace unos 10-15 años, en tratamiento antiagregante con mala adherencia terapéutica.
+
+
+4.	ACCIDENTE ISQUÉMICO TRANSITORIO el 24/01/2017. Alteración del lenguaje asociado a debilidad de la mano derecha. Se realizó TC craneal con mucha carga vascular, mucha leucoaraisosis y lacunares crónicos. Fue valorada por NRL y se realizó dúpplex de troncos supraaórticos (TSA) con
+ateromatosis en carótida común izquierda sin estenosis. Se concedió el alta reiniciando la AAS.
+
+
+5.	INFARTO ISQUÉMICO AGUDO EN TERRITORIO DE LA ARTERIA CEREBRAL MEDIA IZQUIERDA (ACMI) DE CAUSA INDETERMINADA el 30/01/2017, diagnosticado tras cuadro de disartria y debilidad de extremidades derechas parecido
+al AIT 5 días antes. En el estudio etiológico se realiza monitorización cardíaca >48h y ecoscan sin fuentes cardioembológenas y estudio vascular que muestra estenosis por criterios doppler del 50% en bulbo carotídeo izquierdo y en el ostium de la arteria vertebral derecha. Al alta
+persiste hipoestesia táctil derecha leve y claudicación distal de ESD, mRS:1.
+
+
+* MEDICACIÓN HABITUAL (05/08/2017):
+
+-	Randomizada Rivaroxabán versus Aspirina (estudio NAVIGATE-ESUS)
+-	Omeprazol 20 mg/24h
+-	Bisoprolol 2,5 mg/24h
+-	Amlodipino 5 mg/24h
+-	Enalapril 20 mg/24h
+-	Levotiroxina 75 mcg/24h
+-	Ácdio Alendrónico 70 mg/7 dias
+-	Mastical D: Carbonato de calcio + colecalciferol 500mg/400 UI/ 24h.
+
+Proceso actual / Procés actual
+Acude por cuadro de 2 horas de evolución, de inicio súbito a las 11:00am, presenciado por la família, consistente en alteración del
+lenguaje y debilidad de extremidades derechas. Refieren que a su llegada la sintomatología ya había remitido.
+
+Exploración física / Exploració física
+06/08/2017-01:00:00: PAS (mm Hg) 137, PAD (mm Hg) 47, Pulsioximetría (%)  93. 06/08/2017-09:00:00 : Tª
+axilar (ºC) 36. 16/08/2017-16:00:00 : Glic emia capilar (mg/dl) 105.
+NRL: Consciente, atenta, orientada en persona y espacio pero parcialmente en tiempo. Lenguaje afásico mixto (normofluente pero con agramatismo, parafasias, contaminación del lenguaje, nomina 5/8, repite mal
+>5 palabras, comprende órdenes simples pero no complejas). No disartria. Mirada primaria centrada sin limitación de la excursión visual. Campimetría por confrontación sin alteraciones. Paresia facial derecha central(leve)-braquio(4/5)-crural(4/5). Hipoestesia táctil de extremidades derechas. No dismetrías. Reflejo cutáne plantar flexor bilateral. Discalculia. Agnosia de los dedos. Gnosia derecha/izquierda conservado. NIH:4.
+
+AC: tonos cardiacos ritmicos con soplo sistólico panfocal. Soplo carotídeo izquierdo. AR: MVC sin ruidos sobreañadidos.
+Abdomen blando y depresible. No doloroso a la palpación. Peristaltismo conservado.
+
+Laboratorio / Laboratori
+*	ANALÍTICA: Ionograma, función renal, hematimetría y hemostasia sin alteraciones relevantes. Destaca la presencia de un volumen corpuscular aumentado (106fl) asociado a un aumento de la homocisteinemia 32 y una deficiencia de vit. B12.
+*	
+
+
+*	UROCULTIVO: S'aïllen més de 100.000 UFC/mL de: Escherichia coli (Antibiograma:Amikacina S; Amox./àc. clavulànic S; Ampicil.lina R Cefotaxima S; Ceftazidima S; Cefuroxima S; Ciprofloxacina S; Cotrimoxazol S; Ertapenem S; Fosfomicina S; Gentamicina S; Imipenem S Meropenem S; Nitrofurantoina S; Pipera/tazobactam S; Tobramicina S)
+*	SEDIMENTO DE ORINA: Leucòcits 125 cel/µL; Nitrits NEGATIVO; Eritròcits 80 eri/µL
+*	HEMOCULTIVOS (X2, MUESTRAS DEL 7/08/2017): Negativos.
+
+Radiología / Radiologia
+*	RM CEREBRAL CON ANGIO-RM: Parénquima: Varios focos de isquemia aguda-subaguda de ACM izquierda en situacion cortical y subcortical temporal posterior izquierda y parietal izquierdo. Cambios glioticos corticales y subcorticales frontales izquierdos, en probable relacion con isquemia evolucionada. Extensos cambios secundarios a microangiopatia con focos de hemosiderina subcorticales temporales posteriores izquierdos y otro occipital izquierdo. . Vascular: La arteria vertebral izquierda finaliza en la PICA. Doble variante fetal de las ACPs. Reduccion de calibre y señal de flujo del segmento P2 derecho. En M1 derecha se aprecia un pequeño aneurisma, de aproximadamente 2,5 mm, adyacente al ostium de la arteria temporal anterior.
+*	TC CRANEAL + ANGIO-TC EXTRA E INTRACRANEAL: Infartos temporoparietal y frontal en territorio de cerebral media izquierda. Placas de ateroma calcificadas en el origen de carótida interna derecha sin estenosis significativa. Placas de ateroma calcificadas en el origen de carótida interna izquierda que condicionan una estenosis del 70%. Placa calcificada en origen de arteria vertebral derecha sin estenosis significativa Aneurisma de 4mm en segmento M1 de arteria cerebral media derecha.
+*	RADIOGRAFÍA DE TÓRAX: Índice cardiotorácico aumentado. No se observan consolidaciones ni infiltrados.
+
+Exploraciones complementarias / Exploracions complementàries
+*	ECOCARDIOGRAMA TRANTORÁCICO: --Ventrículo izquierdo de dimensiones normales. Motilidad globlal y segmentaria conservada. --Se evidencia septum interaricular aneurismático, sin evidencia clara de shunt por estudio transtorácico. -- Válvula aórtica trivalva calcificada, mínimamente estenótica. --  Válvula mitral degenerativa, con importante calcificación del anillo, sin estenosis ni insuficiencia. --Restos de válvulas normofuncionantes. --Ligero derrame pericárdico retroauricular derecho. --Vena cava no dilatada.
+
+Intervenciones quirúrgicas / Intervencions quirúrgiques
+** ENDARTERECTOMIA ARTERIA CAROTIDA INTERNA IZQUIERDA:
+Paciente bajo anestesia general. Preparación del campo según técnica habitual. Incisión longitudinal láterocervical izquierda Disección de carótida primitiva, interna y externa. Se constata lesión extensa calcificada en origen de carótida interna, con bifurcación  alta y extensión alta de la lesión. Carótida primitiva muy calcificada, con ventana en carótida primitiva distal prebifurcación. Identificación de nervio hipogloso. Heparinización sistémica. Control de CP y CI con clamps, y CE con vessel-loops. Arteriotomía longitudinal, y tromboendarterectomía extensa. Lavado abundante con suero fisiológico. Cierre de la arteriotomía con parche de Dacron, Prolene 6-0 y 5-0. Hemosatsia cuidadosa. Se deja sellante GlueBar. Colcoación de drenaje tipo Redon. Cierre de fascia lata con Vicril 2-0, y piel con intradérmica de Biosyn.
+
+Evolución / Evolució
+1.	ICTUS ISQUÉMICO EN TERRITORIO DE LA ARTERIA CEREBRAL MEDIA IZQUIERDA (ACMI).
+2.	ESTENOSIS INTRACRANEAL: 70% EN LA ARTERIA CARÓTIDA INTERNA IZQUIERDA (ICAI), 20% EN LA ARTERIA CARÓTIDA INTERNA DERECHA (ICAD) Y 50% EN LA ARTERIA VERTEBRAL DERECHA (AVD).
+A su llegada hipertensa (TAS 165 mmHg) y afebril. En la exploración se aprecia afasia mixta con agramatismo, agrafia, discalculia y confusión derecha izquierda y paresia facio (leve) braquiocrural (4/5) derecha e hipoestesia ipsilateral (NIHSS: 4). Analítica sanguínea sin alteraciones. ECG en ritmo sinusal sin alteraciones significativas. La neuroimagen (TC y RM cerebral) muestra lesiones isquémicas agudas y crónicas en territorio de la ACMI. El estudio vascular (angio-TC, angio- RM y eco-doppler) evidencia estenosis del 70% de la ICAI y del 50% de la AVD. Durante su monitorización (>48h) en la unidad de ictus no se registran alteraciones del ritmo cardiaco.
+
+
+
+Se trata de un ictus isquémico agudo en territorio de la ACMI por ateromatosis de gran vaso (estenosis del 70% de la ICAI), por lo que se realiza endarterectomia carotidea sin incidencias.
+Durante el ingreso la paciente evoluciona de forma favorable, permaneciendo clínicamente estable y con persistencia en la exploración de lenguaje con rasgos leves rasgos afásicos, discalculia, agrafia y agnosia digital. Dada la estabilidad y la ausencia de complicaciones post- quirúrgicas se da el alta domiciliaria con control posterior por parte de neurología. Por aumento de la estenosis carotídea se retira a la paciente del estudio ESUS NAVIGATE.
+
+Al alta: NIHSS: 1;   TOAST: aterotrombótico;   mRS: 1.
+
+2.	INFECCIÓN DEL TRACTO URINARIO.
+Durante el ingreso la paciente realiza un cuadro febricular acompañado de una retención aguda de orina. Se toma urocultivo positivo para Escherichia coli multi-sensible y se inicia antibioterapia con ceftriaxona con posterior paso a amoxicilina con correcta evolución.
+3.	HIPERHOMOCISTEINEMIA E HIPOCIANOCOBALAMINEMIA.
+En la analítica de ingreso se observa hiperhomocisteinemia (36.9 µmol/L) con hipocianocobalaminemia (142 pg/mL) y macrocitosis sin hipovitaminosis B9 ni anemia. Se inicia tratamiento replectivo y se recomienda control por su CAP de referencia al alta.
+
+Plan terapéutico / Pla terapèutic
+Atorvastatina 80mg Enalapril 10mg cada 12hs Adiro 100mg cada 24hs Resto sin cambios.
+
+Otras recomendaciones / Altres recomanacions
+Control  de  los  factores  de  riesgo  cardiovascular.  Ajuste  del  tratamiento  hipertensivo  a  las  nuevas necesidades post-endarterectomía.
+
+
+
+Firma/Signatura1: _NAME_	Firma/Signatura2: _NAME_ Categoría: Resident 2	Categoría: Especialista
+Nº Matrícula _SS_: _ID_	Nº Matrícula _SS_: _ID_
+
+Fecha/Data Informe: 18.08.2017
+Hora Informe: 16:17:57
+
+Docum.: _ID_
+Hist. Clínica: _ID_
+El _SS_ ha incorporado sus datos al Fichero de Pacientes, para tratarlos con fines sanitarios.
+Puede ejercer sus derechos de acceso, rectificación, cancelación y oposición, así como obtener mas información en la Unidad de Atención al Cliente.
+Vers. 00
+Pag. 2 de
+4
+Episod.: _ID_
+_SS_ ha incorporat les seves dades al Fitxer de Pacients, per a tractar-los amb finalitats sanitàries. Pot exercir els seus drets d'accés, rectificació, cancel·lació i oposició, i obtenir més informació a la Unitat d'Atenció al Client.
+_SS_
+_LOCATION_) _LOCATION_) Tel. _CONTACT_ Fax _CONTACT_
+http://_CONTACT_/

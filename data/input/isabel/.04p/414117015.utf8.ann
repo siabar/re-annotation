@@ -1,0 +1,51 @@
+T1	FECHA 93 103	05/09/2017
+#1	AnnotatorNotes T1	2017-09-05
+T2	HORA 104 109	01:49
+#2	AnnotatorNotes T2	01:49
+T3	FECHA 110 120	08/09/2017
+#3	AnnotatorNotes T3	2017-09-08
+T4	FECHA 550 554	2015
+#4	AnnotatorNotes T4	2015-UNDEF-month-UNDEF-day
+T5	_SUG_Ictus_isquemico 559 562	AVC
+T6	_SUG_Lateralizacion 595 603	esquerra
+T7	_SUG_Tratamiento_antiagregante 664 672	aspirina
+T8	_SUG_Ictus_isquemico 686 692	Infart
+T9	_SUG_Etiologia 693 700	lacunar
+T10	_SUG_Localizacion 693 700	lacunar
+T11	_SUG_Localizacion 708 715	talàmic
+T12	_SUG_Lateralizacion 716 724	esquerre
+T13	_SUG_Lateralizacion 829 837	esquerre
+T14	_SUG_Lateralizacion 939 943	dret
+T15	_SUG_Lateralizacion 983 991	esquerra
+T17	_SUG_Lateralizacion 1637 1645	esquerra
+T18	_SUG_Lateralizacion 1743 1752	bilateral
+T19	_SUG_NIHSS 1754 1761	NIHSS 2
+T21	_SUG_TAC_craneal 2069 2079	TC cranial
+T22	_SUG_Ictus_isquemico 2090 2096	Infart
+T23	_SUG_Etiologia 2097 2104	lacunar
+T24	_SUG_Localizacion 2097 2104	lacunar
+T25	_SUG_Localizacion 2112 2119	talàmic
+T26	_SUG_Lateralizacion 2120 2124	dret
+T27	_SUG_Ictus_isquemico 2136 2143	Infarts
+T28	_SUG_Etiologia 2144 2152	lacunars
+T29	_SUG_Localizacion 2144 2152	lacunars
+T30	_SUG_Localizacion 2169 2177	talàmics
+T31	_SUG_Localizacion 2178 2188	posteriors
+T32	_SUG_Lateralizacion 2189 2194	drets
+T33	_SUG_Lateralizacion 2214 2222	esquerre
+T34	_SUG_Lateralizacion 2236 2244	esquerre
+T35	_SUG_Ataque_isquemico_transitorio 2435 2438	AIT
+T36	_SUG_Etiologia 2458 2471	cardioembòlic
+T37	_SUG_Tratamiento_anticoagulante 2516 2523	Sintrom
+T38	_SUG_Ataque_isquemico_transitorio 2633 2636	AIT
+T39	_SUG_Etiologia 2656 2669	cardioembòlic
+T40	_SUG_Tratamiento_anticoagulante 2718 2725	Sintrom
+T41	_SUG_Lateralizacion 3260 3264	dret
+T42	SECCION_DESTINO_AL_ALTA 265 284	Destinació a l'alta
+T43	SECCION_ANTECEDENTES 396 407	ANTECEDENTS
+T44	SECCION_TRATAMIENTO_HABITUAL 1116 1137	-	Tractament habitual
+T45	SECCION_PROCESO_ACTUAL 1192 1207	MALALTIA ACTUAL
+T46	SECCION_EXPLORACION_FISICA 1351 1368	EXPLORACIO FISICA
+T47	SECCION_EXPLORACIONES_COMPLEMENTARIAS 1765 1787	PROVES COMPLEMENTARIES
+T48	SECCION_EVOLUCION 2335 2343	EVOLUCIO
+T49	SECCION_DIAGNOSTICOS 2619 2630	DIAGNOSTICS

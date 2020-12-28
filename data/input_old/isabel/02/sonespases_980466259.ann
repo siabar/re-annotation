@@ -1,0 +1,76 @@
+T1	Fecha_de_alta 15 25	19-11-2018
+#1	AnnotatorNotes T1	2018-11-19
+T2	FECHA 80 90	17/11/2018
+#2	AnnotatorNotes T2	2018-11-17
+T3	Ictus_isquemico 124 140	infarto cerebral
+T4	Etiologia 167 180	indeterminada
+T5	_SUG_Ictus_isquemico 253 258	ICTUS
+T7	_SUG_Ictus_isquemico 373 378	ictus
+T8	_SUG_Ictus_isquemico 408 413	ictus
+T9	FECHA 599 603	2013
+#9	AnnotatorNotes T9	2013-UNDEF-month-UNDEF-day
+T10	_SUG_Tratamiento_antiagregante_alta 714 719	Adiro
+T11	_SUG_Tratamiento_antiagregante_hab 714 719	Adiro
+T13	Tratamiento_antiagregante_hab 803 808	Adiro
+T14	Fecha_inicio_sintomas 841 851	16.11.2018
+#14	AnnotatorNotes T14	2018-11-16
+T15	Hora_inicio_sintomas 924 928	7:30
+#15	AnnotatorNotes T15	7:30
+T16	HORA 929 933	8:00
+#16	AnnotatorNotes T16	08:00
+T17	_SUG_Ictus_isquemico 1640 1645	ictus
+T18	_SUG_Lateralizacion 2035 2044	izquierdo
+T19	_SUG_Lateralizacion 2102 2111	izquierda
+T20	_SUG_Lateralizacion 2188 2197	izquierdo
+T22	NIHSS_previa 2404 2413	NIHSS 4-1
+T23	HORA 2521 2526	14:30
+#23	AnnotatorNotes T23	14:30
+T24	FECHA 2562 2570	16/11/18
+#24	AnnotatorNotes T24	2018-11-16
+T25	HORA 2571 2576	15:40
+#25	AnnotatorNotes T25	15:40
+T26	FECHA 2605 2613	16/11/18
+#26	AnnotatorNotes T26	2018-11-16
+T27	HORA 2614 2619	15:40
+#27	AnnotatorNotes T27	15:40
+T28	FECHA 2648 2656	16/11/18
+#28	AnnotatorNotes T28	2018-11-16
+T29	HORA 2657 2662	15:00
+#29	AnnotatorNotes T29	15:00
+T30	FECHA 2691 2699	16/11/18
+#30	AnnotatorNotes T30	2018-11-16
+T31	HORA 2700 2705	15:00
+#31	AnnotatorNotes T31	15:00
+T32	FECHA 2723 2731	16/11/18
+#32	AnnotatorNotes T32	2018-11-16
+T33	HORA 2732 2737	15:40
+#33	AnnotatorNotes T33	15:40
+T34	FECHA 2763 2771	16/11/18
+#34	AnnotatorNotes T34	2018-11-16
+T35	HORA 2772 2777	15:00
+#35	AnnotatorNotes T35	15:00
+T36	_SUG_Lateralizacion 2973 2982	izquierda
+T38	TAC_craneal 3394 3404	TC craneal
+T39	Fecha_TAC_inicial 3423 3433	16-11-2018
+#39	AnnotatorNotes T39	2018-11-16
+T40	_SUG_Arteria_afectada 3707 3727	arterias vertebrales
+T42	_SUG_Ictus_isquemico 3970 3975	Ictus
+T43	FECHA 4345 4355	19/11/2018
+#43	AnnotatorNotes T43	2018-11-19
+T44	Tratamiento_antiagregante_alta 4671 4682	Clopidogrel
+T46	FECHA 4760 4770	20/11/2018
+#46	AnnotatorNotes T46	2018-11-20
+T47	_SUG_Tratamiento_antiagregante_alta 4782 4793	Clopidogrel
+T48	_SUG_Tratamiento_antiagregante_hab 4782 4793	Clopidogrel
+T49	SECCION_DIAGNOSTICO_PRINCIPAL 66 78	Diagnosticos
+T50	SECCION_PROCEDIMIENTOS 183 197	Procedimientos
+T51	SECCION_MOTIVO_DE_INGRESO 315 332	Motivo de ingreso
+T52	SECCION_EXPLORACION_FISICA 1652 1663	Exploración
+T53	SECCION_EXPLORACION_FISICA_EN_URGENCIAS 2485 2511	Exploración física en HUSE
+T54	SECCION_EVOLUCION 3860 3882	Evolución Hospitalaria
+T55	SECCION_TRATAMIENTO_Y_RECOMENDACIONES_AL_ALTA 4593 4630	Recomendaciones y tratamiento al alta
+T6	Arteria_afectada 155 157	VB
+T37	SECCION_ANTECEDENTES_PERSONALES 491 511	Antecedentes Médicos
+T41	SECCION_TRATAMIENTO_HABITUAL 774 798	Tratamiento domiciliario
+#3	AnnotatorNotes T22	4
+T12	Tratamiento_antiagregante_alta 4698 4720	Ácido acetilsalicílico

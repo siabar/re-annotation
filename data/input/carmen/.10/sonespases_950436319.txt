@@ -1,0 +1,164 @@
+Fecha de Alta 
+19-09-2018
+
+Alergias
+
+Sin Alergias Conocidas
+
+
+Anamnesis
+
+
+
+Diagnosticos
+· ECVA ISQUÉMICA: INFARTO  EN TERRITORIO VERTEBROBASILAR DE ETIOLOGÍA CARDIOEMBÓLICA.
+· FIBRILACIÓN AURICULAR VALVULAR
+. ESTENOSIS MITRAL REUMÁTICA
+· NEUMONÍA POR BRONCOASPIRACIÓN. 
+· COLECISTITIS AGUDA LITIÁSICA.
+
+Procedimientos
+· CÓDIGO ICTUS INTERNO
+· TC CRANEAL Y ANGIOTC URGENTE
+· TROMBECTOMÍA MECÁNICA PRIMARIA
+· INGRESO EN UCI
+. INTUBACIÓN Y VENTILACIÓN MECÁNICA
+· INGRESO EN UNIDAD DE ICTUS
+· ESTUIOS ANALÍTICOS
+· ESTUDIO NEUROSONOLÓGICO
+· ECOCARDIOGRAFÍA TRANSTORÁCICA
+· RESONANCIA MAGNÉTICA CEREBRAL Y ANGIORM
+· ESTUDIO ELECTROENCEFALOGRÁFICO
+· ECOGRAFÍA ABDOMINAL COMPLETA
+· RADIOGRAFÍA DE ABDOMEN
+· TC ABDOMINOPELVICO URGENTE
+· COLECISTOSTOMÍA PERCUTÁNEA
+. Radiografía de rodilla
+
+- INTERCONSULTAS: REHABILITACIÓN, HEMATOLOGÍA, CARDIOLOGÍA Y CIRUGÍA GENERAL
+
+Motivo de ingreso
+Varón 60 años que presenta cuadro brusco de deterioro del nivel de consciencia.
+
+Antecedentes Médicos
+- Ex-fumador. Hábito enólico leve.
+- No HTA, DLP ni DM.
+- Fiebre reumática en la infancia. Diagnóstico de valvulopatía reumática en 2012, y estuvo en seguimiento en HUSD (Dr Gómez). Ecocardiograma (2002): FVI normal; mitral de aspecto reumático sin gradientes significativos, IM 1; AI mínimamente dilatada; No HTP, cavidades derechas normales. Abandonó seguimiento en 2005, hasta 2013 que reanuda. *Última ETT febrero/2018:función sistólica global normal (EF 60%), estenosis mitral ligera, insuficiencia mitral ligera, presiones pulmonares ligeramente elevadas. Planeada revisión mediante nueva ETT en 2-3 años.
+- Situación basal: Asintomático. Buena calidad de vida, independiente para ABVD. No deterioro cognitivo.
+
+Tratamiento domiciliario
+Ninguno.
+
+Anamnesis
+Paciente de 60 años sin factores de riesgo vascular y con patología valvular reumática sin tratamiento médico que estando previamente bien (independiente para ABVD con rankin 0 y barthel 100) sobre las 21 horas del 7/8/2018 presenta cuadro brusco de pérdida de conciencia con movimientos de descerebración siendo trasladado por el 061, comentándose desde el servicio de urgencias para valoración de posible código ictus.
+ 
+CRONOLOGIA ICTUS
+Ictus crono inicio: 07/08/18 21:00:00 Ictus fecha y hora activacion codigo: 07/08/18 22:30:00 Ictus fecha y hora llegada HUSE: 07/08/18 21:46:00 Ictus fecha y hora TC inicial: 07/08/18 22:25:00 Ictus hora trombectomia introductor: 07/08/18 23:39:00 Ictus hora recanalizacion: 07/08/18 23:54:00  Ictus hora llegada DIVAS: 07/08/18 23:25:00  Ictus NIH basal: 36
+
+Exploración
+· Exploración en urgencias 7/8/2018
+A su llegada Glasgow de 6 puntos con respuestas de descerebración al estímulo doloroso. Desviación de la mirada a la izquierda y midriasis bilateral con RCP extensor bilateral. Cuando le exploramos Glasgow 3 puntos, sin respuesta al dolor pupilas midriáticas arreactivas sin reflejos oculocefálicos.  NIHSS 34 puntos
+
+· Exploración en UCI 24 horas tras procedimiento 8/8/18:
+El paciente ha podido ser extubado con éxito durante la mañana. Se encuentra reactivo, consciente y orientado, leve disartria sin alteraciones del lenguaje desconjugación de la mirada pirmaria con limitación de la mirada vertical y horizontal, ptosis palpebral bilateral completa vs apraxia ocular, leve borramiento de SNG derecho. Sin claudicación en Barré ni Mingazzini, balance motor 5/5 de forma global y simétrica. No trastorno de sensibilidad asociada. RCP flexor bilateral.
+
+· Exploración en Unidad de Ictus 9/8/18
+Consciente, orientado en espacio y persona, parcialmente en tiempo. Obedece órdenes sencillas, disartria moderada. Anisocoria con midriasis >izquierda arreactivas. Ptosis bilateral (>derecha con oclusón ocular completa). Realiza únicamente movimiento en abducción en ambos ojos (afectación IIIpar bilateral). Asimetría facial leve. No claudica en Barré ni Mingazzini. Fuerza 5/5 conservada. No trastorno sensitivo. RCP flexor bilateral.
+ACP: rítmico, no ausculto soplos. MVC, sin ruidos patológicos sobreañadidos.
+ABD: blando y depresible,no doloroso a la palpación. No masas ni megalias.
+Resultados pruebas complementarias
+· Analítica de urgencias 7/8/18: Lecuos 6680; Hb 14.5 g/dL; PLaquetas 196000; INR 1.03 Bioquímica: anodina; etanol suero 0.33 g/L
+
+· Sedimento de orina: anodino
+
+· Analítica de ingreso en UCI: Leucos 5940; Hb 13.1; Plaq 174000; INR 1.10; Bioquímica anodina, salvo Calcio 8.1 mg/dL; Proteínas totales 60.2 g/L
+
+· Hemocultivos (x2) negativos
+
+· Urocultivo negativo
+
+· Serologías T. pallidum negativo.
+
+· Coprocultivos, Clostridium antígeno y cultivo: negativo
+
+· Analítica coagulación control INR 20/8: INR 4.00
+
+· TAC cerebro sin contraste 07/08/18 23:04:08
+TC cerebro sin contraste del 07-08-2018: Información clínica: Paciente de 60 años con ant de E AO reumática, acude por disminución nivel de conciencia. Hallazgos: No se observan alteraciones significativas de la densidad a nivel del parénquima cerebral. No se observan signos de sangrado agudo intra ni extraaxial. Sistema ventricular de tamaño y morfología normal. Estructuras de la línea media centradas. Cisternas de la base de tamaño normal. En el angio-TC se observa trombosis del top de la arteria basilar. Imagen de stop a nivel del origen, en p1 y p2-p3 de la arteria cerebral posterior izquierda con repermeabilizacion distal. Arteria cerebral posterior derecha permeable. Ambos ejes carotídeos permeables. Senos venosos permeables. Conclusión: Trombosis de top de la arteria basilar.
+
+· TAC cerebro sin/con contraste 08/08/18 21:27:41
+TC cerebro sin contraste ev urgente del 08-08-2018: Hallazgos: Hipodensidad en ambos núcleos ventromediales talámicos. No se observa hemorragia intracraneal. Sistema ventricular de tamaño y morfología normal. Línea media centrada. Cisternas supra e infratentoriales conservadas. Conclusión: Lesión isquémica aguda-subaguda en territorio vértebrobasilar (talámica bilateral) sin signos de transformación hemorrágica.
+
+· TAC cerebro sin/con contraste 10/08/18 15:13:33
+TC cerebro sin contraste ev urgente del 10-08-2018: Hallazgos: Hipodensidad en ambos núcleos ventromediales talámicos y porción paramediana bilateral del mesencéfalo (parece existir una arteria de Percheron izquierda que irriga el territorio afectado). Sin otras alteraciones significativas en la densidad del parénquima supra ni infratentorial. No signos de hemorragia aguda intracraneal. Sistema ventricular de tamaño y morfología normal. Línea media centrada. Cisternas supra e infratentoriales conservadas. Conclusión: Lesión isquémica subaguda en territorio vértebrobasilar (bilaterales talámica y paramediana mesencefálica) sin signos de transformación hemorrágica.
+
+· TAC cerebro sin contraste 15/08/18 14:51:35
+TC cerebro sin contraste del 15-08-2018: TC Perfusión cerebral del 15-08-2018: TC Arterias cerebrales del 15-08-2018: Información clínica: Código ictus. Hallazgos: No se observan signos de sangrado agudo intracraneal. Hipodensidad en ambos núcleos ventromediales talámicos y porción paramediana bilateral del mesencéfalo en relación con lesiones isquémicas subagudas. Sistema ventricular de tamaño y morfología normal. Estructuras de la línea media centradas. Cisternas de la base permeables. TSA permeables. Arterias cerebrales principales permeables. Sistema vertebrobasilar permeable. Senos venosos intracraneales permeables.
+Conclusión: No hay signos de sangrado agudo intracraneal. TSA y arterias cerebrales permeables.
+
+· TAC cerebro sin contraste17/08/18 19:51:51
+TC cerebro urgente sin contraste del 17-08-2018: Hallazgos: No se observan signos de sangrado agudo intracraneal. Resto del estudio sin cambios significativos.
+
+· Electroencefalografía adultos 16/08/18 11:35:00
+EEG realizado mediante sistema internacional a paciente en vigilia con buena colaboración.
+Ritmo de fondo simétrico con alfa a 8Hz en regiones posteriores.
+No se observan anomalías epileptiformes ni en registro basal ni como consecuencia de maniobras de activación (HV, ELI).
+Conclusión:
+Sin hallazgos patológicos.
+
+· Ecocardiografía transtorácica 14/8/2018
+DISFUNCIÓN SISTÓLICA LIGERA DEL VI, FUNCIÓN DIASTÓLICA NO VALORABLE POR AUMENTO DEFLUJO / VELOCIDAD MITRAL, ESTENOSIS AÓRTICA LIGERA, VALVULOPATÍA MITRAL REUMÁTICA CONESTENOSIS MITRAL LIGERA, NO SE OBSERVAN TROMBOS INTRACAVITARIOS
+Aurícula izquierda moderadamente dilatada (VoL 44.8 ml/m2). Ventrículo izquierdo de tamaño normal (VTD/VTS41/15 mL/m2). No existe hipertrofia del VI (SIV 9mm). Difícil valoración de función sistólica por FA taquicárdica,aparenta disfunción sistólica ligera global del VI (EF 45% subjetiva). Sin anormalidades de la contracciónsegmentaria. Función diastólica no valorable por lesiones asociadas (aceleración del flujo transmitral) y alteraciónen el ritmo (fibrilación auricular). Tamaño normal de aurícula derecha. Ventrículo derecho de tamaño normal ynormofuncionante (TAPSE 17mm). Válvula aórtica trivalva, con calcificación del velo coronario derecho, conestenosis aórtica ligera (gradiente máximo 11 mmHg y gradiente medio 6 mmHg, Area por EC 1,7 cm² y TSVI 22mm, ratio VTI TSVI/VA 0.45). Válvula mitral con apertura típica de afectación valvular reumática, con estenosismitral ligera (gradiente máximo de 9.4 mmHg y medio de 3.8 mmHg a una FC media de 90lpm, área por THP de1.8 cm2), mínima regurgitación mitral (grado 0-1 sobre 4). Ligera regurgitación tricúspide (grado 1 sobre 3) congradiente VA medio de 20 mmhg, por lo que las presiones pulmonares se estiman no elevadas. Válvula pulmonarnormofuncionante. Se administra ecocontraste Sonovue, que descarta la presencia de trombos intracavitarios. Nose aprecia derrame pericárdico. VCI no dilatada (16mm) con correcto colapso inspiratorio. Aorta ascendente nodilatada (27mm), arco aórtico mal visualizado por mala ventana supraesternal.
+
+· Cerebro y angio RMN 14/08/18 13:18:12
+Cerebro y angio RM del 14-08-2018: IC: Control ictus isquémico. Top de la basilar. TM primaria. Técnica: Campo magnético estático de 1.5 T. Se realizan secuencias SE, FSE, FLAIR, GE multieco (MERGE). Estudio de difusión con b value máx de 1000 mm2/seg. AngioRM 3D TOF sin contraste. Estudio de sensibilidad limitada por artefactos provocados por los movimientos del paciente. Hallazgos: Lesión hiperintensa en T2 y FLAIR en ambos núcleos ventromediales talámicos y porción paramediana bilateral del mesencéfalo, así como en ambas circunvoluciones parahipocampales que en el estudio de difusión presenta hiperseñal en DWI con hiposeñal en mapas de ADC (restricción de la difusión). No se identifican otras alteraciones de la intensidad de señal en el parénquima supra ni infratentorial. En la secuencia eco de gradiente (MERGE) no se identifican artefactos de susceptibilidad magnéticas que sugieran depósito de sustancias paramagnéticas. En angioRM 3D TOF sin contraste no se identifican oclusiones en arterias principales ni anomalías vasculares asociadas. Hipoplasia de ambas ACoP. Sistema ventricular de tamaño y morfología normal. Línea media centrada. Cisternas supraselares, perimesencefálicas y de la base conservadas. Cuerpo calloso, tronco del encéfalo y cerebelo de tamaño, morfología y señal normal. Amígdalas cerebelosas por encima de la línea de McRae. Conclusión: Hallazgos compatibles lesión isquémica subaguda en territorio posterior bilateral (ambos núcleos ventromediales talámicos, región paramediana mesencefálica y ambas circunvoluciones parahipocampales), sin signos de transformación hemorrágica.
+
+· Analítica 24/08/18: 21000 leucocitos/uL, 93'20% neutrófilos, PCR 1'28mg/dL. Hb 15'40gr/dL, Quick 26%, INR 2'74. Creat 0'93mg/dL. Bi T 0'6mg/dL, GPT 102U/L
+
+· Rx abdomen: dilatación de cámara gástrica y algún asa de ID. Aire y heces en colon.
+
+· Ecografía de abdomen urgente del 24-08-2018: 
+*Exploración de valoración limitada por la escasa colaboración del paciente 
+Hallazgos:  Parénquima hepático parcialmente visualizado, sin alteraciones valorables.  Vesícula biliar de paredes finas con abundante barro en su interior. Vía biliar de calibre normal.  Bazo homogéneo de tamaño normal.  Riñones de tamaño, y morfología normal. No hay hidronefrosis.  Vejiga poco replecionada, no valorable.  Conclusión: Barro biliar
+
+· Tc abdómino-pélvico con contraste urgente del 25-08-2018: Hallazgos: Vesícula biliar dilatada, con litiasis en su interior. Asocia cambios inflamatorios en la grasa adyacente, líquido perivesicular, perihepático, en gotiera parietocólica derecha, en fascia pararrenal anterior y mínimo en pelvis. Vía biliar de calibre normal. No se ven colecciones definidas. No neumoperitoneo. Hígado, bazo, páncreas, riñones y suprarrenales sin alteraciones. C
+onclusión: Hallazgos compatibles con colecistitis aguda litiásica
+
+- Urocultivo (24/08): negativo
+- Hemocultivos (24/08): negativos a las 72 horas [1]
+
+- Oftalmo:  Paciene visto en planta ( en cama y  contenido) Ptosis completa ao Nistagmus de alta frecuencia y baja amplitud no costante ao. Anisocoria OI > OD Exotropia OI , parece ser que ya la tenía antes de ACV( posttrauma) FO no dilatado : no signos de papiledema ao
+Actitud recomendada :   Solicitar visita ordinaria con NEUROOFTALMOLOGIA para seguimiento [2]  RXVI (Dr. Martínez, Dra. Borrás)
+
+- DIVAS: Se realiza colecisto-colangiografía a través de catéter de drenaje observándose paso de contraste hacia colédoco y duodeno sin imágenes de coledocolitiasis. Se retira catéter sin complicaciones [3]
+
+
+Evolución Hospitalaria
+Varón de 60 años con único antecedente médico de patología valvular reumática sin tratamiento médico que presenta disminución del nivel de conciencia súbito y movimientos de descerebración el 7/8/2018. Es trasladado a urgencias donde presenta GCS 6 puntos con posterior empeoramiento a 3 puntos. Se realiza TAC y angioTC que demuestra trombosis de la Arteria Basilar por lo que se realiza trombectomía mecánica sin incidencias y resultado TICI 3.
+Ingresa en UCI, posterior ingreso en Unidad de Ictus. Como principal incidencia el día 9/8/18 el paciente presenta fibrilación auricular con FVR 180-190lpm que precisa de ajuste farmacológico con Bbloqueantes con mejoría posterior.
+El paciente como complicación infecciosa ha presentado neumonía por posible broncoaspiración completando tratamiento antibiótico con Amoxi/Cla el día 19/8/18 (cultivos negativos). Episodio de deposiciones pastosas con coprocultivos negativo, posible relación a tratamiento antibiótico.
+Se ha realizado Resonancia Magnética mostrando lesión isquémica subaguda en territorio posterior bilateral (ambos núcleos ventromediales talámicos, región paramediana mesencefálica y ambas circunvoluciones parahipocampales), sin signos de transformación hemorrágica.
+Se decide inicio de anticoagulación el pasado 16/8/2018, inicialmente con Enoxaparina con posterior cambio a acenocumarol. Presentó fluctuación del nivel de consciencia  descartándose aumento del edema o transformación hemorrágica. Posteriormente mejoría del nivel de conciencia, desapareciendo los periodos de somnolencia y desorientación. Persiste al alta trastorno cognitivo conductual fluctuante,  leve disartria, anisocoria pupilar con midriasis izquierda arreactivas y ptosis palpebral bilateral de mayor intensidad en la derecha, pudiendo realizar únicamente abducción bilateral (III par bilateral).  Rankin 3.
+El día 24/8 presentó dolor difuso, centro torácico y epigástrico junto sudoración, palidez y descenso del ST por lo que inicialmente se consultó con Cardiología. Posteriormente localiza el dolor en hipocondrio derecho, y tras pruebas de imagen (ECO abdominal y TAC abdominopélvico), valores analíticos y valoración por Cirugía General se llega al diagnóstico de colecistitis aguda litiásica que requiere antibioterapia con Pipercilina/ Tazobactan iniciada el 25/8/18 y drenaje percutáneo (colecistostomía), retirado el 11 de septiembre sin incidencias. Se ha reanudado la anticoagulación.
+Cardiología ha considerado oportuno adelantar la revisión prevista, no precisa modificar el tratamiento.
+Se ha solicitado traslado a Hospital para rehabilitación. Se ha solicitado valoración ambulatoria a Neuroftalmología para posterior planteamiento terapéutico para mejorar la visión. Se cita a CCEE de Cirugía  hepatobiliar.
+
+ 
+
+
+
+
+Recomendaciones y tratamiento al alta 
+
+Dieta pobre en grasas, hiposódica.
+ 
+           acenocumarol según pauta adjunta
+           bifosfato de sodio-fosfato de sodio: 1 Und, Rectal, C/24h (18:00h), A demanda: Si estreñimiento.
+           bisoprolol: 2,5 mg, 1 comprimido en desayuno y cena
+           Ipratropio: 500 mcg, 4 ml, NEB, C/6h.
+           Lactulosa: 1 sobre, Oral, en desayuno y cena
+           Omeprazol: 20 mg, 1 capsula antes del desayuno
+           Paracetamol: 1 g, 1 comp, Oral, C/8h, A demanda: Si dolor o fiebre.
+  
+
+Se traslada a Hospital para rehabilitación. Se cita a Neurología, CG Hepatobiliar, Cardiología y le llamarán de Neuroftalmología.

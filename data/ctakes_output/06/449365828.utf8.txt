@@ -1,0 +1,110 @@
+_LOCATION_
+email: _CONTACT_ Telèfon _CONTACT_
+Nº Història Clínica: _ID_
+NºEpisodi: _ID_
+CIP: _ID_
+Cognoms, Nom: _NAME_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 43 Anys
+NIF/DNI: _ID__NAME_; _NAME_
+Informe d'alta d'hospitalització
+14:44:40
+05.12.2017
+_LOCATION_
+_SS_ UNITAT D'ICTUS
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_
+DOMICIL/RES.SOC 03.12.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Home de 43 anys que ingressa per infart ACM dreta.
+
+ANTECEDENTS
+No al·lèrgies medicamentoses conegudes. No hàbits tòxics
+
+ANTECEDENTS PATOLÒGICS
+-	Hipertiroidisme
+-	Fibril·lació auricular en tractament frenador amb bisoprolol, sense tractament anticoagulant per baix risc trombòtic
+-	Apendicitis aguda
+
+Situació sociofuncional: independent per a les activitats bàsiques de la vida diària. Sense deteriorament cognitiu ni funcional. mRS 0
+
+MEDICACIÓ HABITUAL
+Carbimazol 5mg 1c/d, Bisoprolol 5mg 1c/d
+
+PROCÉS ACTUAL
+Estant prèviament asimptomàtic presenta de forma brusca el 3/12 a les 14h, debilitat del braç esquerre i alteració de la parla. Contacta amb el SEM que activa codi ictus.  Arriba al nostre centre a les 14:40:44 del 03/12/2017
+
+
+
+EXPLORACIÓ FÍSICA
+
+URGÈNCIES
+CONSTANTS TA: 230 / 89 mmHg;
+EXPLORACIÓ FÍSICA Vigil, orientado, POC D(1) campimetría por confrontanción normal, disartria ininteligible (2), no alteración del lenguaje, paresia facial SN I (2). Paresia ESI 0/5 (4), EII 4-/5 (1).  Niega alteración de la sensibilidad táctil superificial. no anosognosiani asomatognosia. NIHSS 10
+
+UNITAT ICTUS
+Constants: TA 89/67mmHg, FC al voltant de 100x', Tª 36ºC
+Vigil i orientat, sense  alteracions del llenguatge. Disàrtria intell·igible (1). Campimetria per confrntació sense alteracions. Lleu PFSN esquerra (1), resta ppcc conservatst. Balaç motor conservat excepte lleu dèficit distal (signe pronador + Miller-Fisher esquerres +1). Sense alteracions objectivables de la sensiblitat. NIHSS 2+1
+
+Informe d'alta d'hospitalització
+
+
+
+EXPLORACIÓ COMPLEMENTÀRIA
+URGÈNCIES
+-	ECG: ACxFA a 130lpm, eje 0º, QRS estrecho, sin alteraciones agudas de la repolarización.
+-	Analítica: Hemoglobina 16.4 g/dL, Hematòcrit . 47.1 %, VCM. 85.6 fL, HCM. 29.8 pg, ADE 12.9 %, Leucòcits .
+4.80 x10E9/L, Neutròfils % . 68.0 %, Limfòcits % . 20.6 %, Neutròfils 3.3 x10E9/L, Limfòcits 1.0 x10E9/L, Plaquetes
+. 186 x10E9/L, INR 1.05, Glucosa 81 mg/dL, Urea . 38 mg/dL, Creatinini . 0.96 mg/dL, Filtrat glomerular (estimació segons CKD-EPI) . >90 ml/min/1,73 m2, Ió sodi . 139.7 mmol/L, Potassi . 3.98 mmol/L, Calci . 9.6 mg/dL, Aspartat-aminotransferasa . 16 UI/L, Alanina-aminotransferasa . 41 UI/L, Proteïna . 7.6 g/dL
+-TC craneal mm: Estudio urgente que no muestra alteraciones parenquimatosas valorables (ASPECTS 10/10) sugestivas de ictus isquémico agudo. Infarto crónico frontal superior izquierdo. Correcta permeabilidad de los principales troncos arteriales y venosos intra y extracraneales. Pequeña área de missmatch >20% a nivel frontal superior derecho, en territorio superficial de ACM derecha.
+
+UNITAT ICTUS
+-	TC control 24h: Estudi urgent que mostra aparició d'hipodensitat cortico-subcortical frontal dreta de nova aparició corresponent amb la zona d'alteració de la perfusió visualitzada a TC prèvia, compatible amb ictus isquèmic establert a regió M4/M5. No s'observen signes de sagnat agut.
+-	Analítica ingrés: hemoglobina 17.6g/dl, hematocrit 49.5%, leucòcits 4850 (N65.2%, L20.2%), plaquetes 207000. TP 87%, TTPA 38.5s, VSG 6mm/h. Glucosa 80mg/dl, HbA1c 4.9%, Creatinina 0.99mg/dl. Na 141.9mmol/l, K 4.39mmol/l. Colesterol 247mg/dl, HDLc 50mg/dl,LDLc 171mg/dl, triglicèrdids 130mg/dl.
+*	VitB12 i àcid fòlic pendents.
+*	Funció tiroïdal pendent
+*	Serologies pendents
+
+EVOLUCIÓ CLÍNICA
+A l'arribada a urgències pacient hipertens, a l'exploració física presenta focalitat en forma d'hemiparèsia i afàsia. Es realitza TC multimodal que no mostra signes d'infart, angioTC que mostra permeabiltat de vasos i petita àrea de mismatch al territori superficial de ACM dreta. En absència de contraindicació, i mantenint TAs <185mmHg s'administra tractament fibrinolític amb rtPA  (8mg --15:21h; 71mg-- 15:22h). Al ECG es mostra FA ja coneguda. S'inicien mesures d'ictus agut i el pacient ingressa a la unitat per a control evolutiu.
+
+A l'ingrés a la unitat d'ictus, presenta una clara milloria clínica, persistint lleu parèsia facial i distal d'extremitat superior esquerra i disàrtria. Es realitza TC control que mostra petita àrea d'infart en territori corresponent d'alteració de la perfusió. S'orienta con infart ACM dreta d'etiologia cardioembòlica, i s'inicia anticoagulació amb HBPM. Pendent d'introduir anticoagulació oral. Analíticament sense alteracions destacables, tot i que al moment de l'alta queden algunes determinacions pendents..
+
+S'ha sol·licitat valoració per Rehabilitació, exercicis d'activació per la mà.
+
+NIHSS a l'alta 2+1 mRS a l'alta 1
+
+DIAGNÒSTICS
+Infart ACM dreta Fibril·lació auricular Hipertiroidisme
+
+Informe d'alta d'hospitalització
+
+
+
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+-	Enoxaparina (Clexane) 80mg 1injecció sc/12h
+-	Substituir per Dabigatran  (Pradaxa) 150mg 1c/12h quan disposi del fàrmac Resta del tractament sense canvis
+CONTROL
+-	Visita CEX Rehabilitació 13/12/2017 a les 10:20h
+-	Sol·licitem primera visita a CEX Neurovascular (pendent de programar)
+
+-	Recomanem derivació a Cardiologia per completar estudi cardiològic i seguiment en pacient amb FA
+-	Control  per metge d'atenció primària i  especialistes habituals. Recomanem  consulta  amb  metge d'atenció primària els pròxims dies per valorar resultats pendents d'analítica
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+05.12.2017
+Pàgina 1 de 3

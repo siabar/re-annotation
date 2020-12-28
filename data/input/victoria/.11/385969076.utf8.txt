@@ -1,0 +1,111 @@
+_SS_
+Informe d'alta Mèdica Servei de Medicina Intensiva
+Full 1 de 3_NAME_
+Llit: _ID_
+Data de naixement: _DATE_	Edat: 46 anys	Sexe: Home
+Nº Episodi: _ID_	Nº Història Clínica: _ID_	
+Adreça:		
+Telèfon: _CONTACT_		
+Al·lèrgies/ Intoleràncies
+No allergies		
+Grup sanguini:		
+Data d'ingrés SEMI: 25.06.2017 12:31	Data d'alta SEMI: 26.06.2017 17:39	Estada SEMI: 1 dies
+Procedència:  URGENCIES	Destinació:  ALTRE CENTRE O	Data Intervenció:
+	INSTITUCIÓ	
+Tipo d'admissió: Urgent		
+Resultat SEMI: TRASLADO A PLANTA		
+
+Telèfons contacte famílies: _NAME_ Amiga		_CONTACT_ Telèfons contacte famílies: _NAME_ Hermana	_CONTACT_
+
+
+25.06.2017 12:31
+25.06.2017 12:31
+80
+180
+Pes actual
+Talla actual
+
+
+
+FC	70 /min	PNIs	133 mmHg	Pes	80,000 kg
+SpO2	98 %	PNId	95 mmHg		
+
+M0 NOTA D'INGRES
+25/06/2017 12:55 _ID_ Ingrés - CODI ICTUS MOTIU D'INGRÉS
+Pacient de 46 anys que ingressa per CODI ICTUS
+
+
+ANTECEDENTS
+Nega al·lèrgies medicamentoses
+Fumador actiu
+Nega antecedents d'interés
+No realitza tractament de forma actual
+
+
+MALALTIA ACTUAL
+Pacient de 46 anys que a les 10:30h, mentre conduia, presenta hipostèsia dreta i pèrdua de força de predomini a ESD, però tb a EID. Nega cefalea o MEG dies preevis. No pren antiagregants ni anticoagulants.
+A la seva arribada a Urgències del nostre centre es manté HMD estable: Afebril TA 145/92mmHg, FC 70x', Sat O2 97%, FR 16x'. A l'exploració física destaca progressió clínica, PICNR. Parèsia facial dret lleu, hemihipoestèsia més acusada a braç i cara drets tot i que també afecta a cada BM 4/5 a hemicòs dret, té afàsia lleu i disàrtria. Es realiza TC craneal que descarta sagnat agut o infart establert pel que es decideix fibrinolisi (bolus rt-PA 7.20 a les 12:27h + posterior perfusió 64.80mL7h).
+EVOLUCIÓ CLÍNICA
+EXPLORACIÓ
+C i O. NH i NC. Afebril TA 145/92mmHg, FC 70x', Sat O2 97%, FR 16x'. BMT 372mg/dl -->81mg/dl als 15min!. AC: TCRs ense bufs, fredcs ni sigens ICD.
+AR: MVC sense estertors.
+NRL: PICNR. parèsia facial dret lleu, hemihipoestèsia més acusada a braç i cara drets tot iq ue també afecta a cadam BM 4/5 a hemicòs dret. Té afàsia lleu i disàrtria.
+
+ANALÍTICA I EXPLORACIONS
+Analítica general: Temps de Protrombina (INR)  *1.0 , Glucosa basal *397.3 mg/dL, Creatinina  *0.8 mg/dL, Potassi  *4.6 (mEq/L) mmol/L, Volum eritrocitari mitja (VCM) *82.9 fL, Leucocits  *10.14 x1E9/L, Temps de Protrombina (%)  *97 , Urea
+*26.7 mg/dL, Sodi  *131.0 (mEq/L) mmol/L, Clorur  *96.0 (mEq/L) mmol/L, Hemoglobina *16.3 g/dL, Hematocrit  *49.8 %, Plaquetes *330 x1E9/L,
+
+ECG: s'adjunta
+
+
+EVOLUCIÓ INICIAL
+Ingressa a UCI.
+Als 30min, tot i milloria a nivell motor, persisteix alteració sensibiltiat, paràl·lisi facial dreta i afàsia d'expressió pel que es contacta amb _SS_ (Dra. _NAME_) per a valorar rescat intraarterial, que accepten.
+Contacto amb SEM.
+
+
+ORIENTACIÓ DIAGNÓSTICA CODI ICTUS
+
+PLA TERAPÈUTIC
+Trasllat a _SS_
+
+
+M1 EVOLUCIÓ CLINICA
+25/06/2017 19:04 CCC5248 Retorn _SS_ - _NAME_
+Pacient retorna a les 17h de _SS_ on s'ha realitzat TCmultimodal que mostra oclusió completa a nivell molt distal de M3 de l'ACMesq amb imatge suggestiva d'infart ja establert pel que no ha estat tributari a rescat intraarterial. Així mateix les proves d'imatge descarten la presència d'ateroesclerosi a nivell carotidi.
+
+A la seva arribada el pacient es manté HMD estable però persisteix amb la mateixa clínica. Mantinc tractament sense canvis.
+26/06/2017 09:42 _ID_ UCI
+Paciente estable, correcto control de cifras tensionales. BEG. Afebril sin signos septicos.
+NRL: consciente y orientado. No comicialidad. Persistencia de faresia facial derecha. Recuperación de la fuerza en ESD e EID. Afasia de expresión. Comprension conservada. No dismetrias ni otras focaildades. No otras disfunciones orgánicas. Se mantiene en RS, sin alterqaciones del ritmo cardíaco.
+
+Plan: Solicito TC  control de 24 horas porst-fibrinolisis. Solicito analítica completa estudio de factores de riesgo. Solicito
+EVOLUCIÓ CLÍNICA
+traslado a UFI.
+
+Diagnòstics
+ANTECEDENTS
+HISTORIA PERSONAL DE USO DE TABACO
+
+DIAGNOSTIC PRINCIPAL (N.U.)
+EMBOLISME CEREBRAL, AMB INFART CEREBRAL
+Antecedents/Diagnòstics/Procediments
+
+
+
+	
+Mitja	
+Primera	
+Máx	
+Min	
+La mès nova
+SAPS II	15,00	15	15	15	15
+NEMS	15,00	15	15	15	15
+NEMS(e)/d	15,00	15	15	15	15
+
+Puntuació (SCORES)
+Atès per:	_NAME_
+Autorizat per:
+_NAME_
+
+Impreso: 26.06.2017 17:40

@@ -1,0 +1,93 @@
+_LOCATION_
+email: _CONTACT_ Telèfon _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 50 Anys
+NIF/DNI: _ID_Informe d'alta d'hospitalització
+CP	_LOCATION_
+ABS	_SS_
+Servei	NEUROLOGIA
+Data d'alta  22.10.2017	11:00:00
+Plaça _NAME_
+_CONTACT_-_CONTACT_; _CONTACT_-_CONTACT_; DOMICIL/RES.SOC
+19.10.2017
+_NAME_
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Pacient que ingressa per sospita d'Ictus.
+
+ANTECEDENTS
+Al·lèrgies:Sense al·lèrgies conegudes Fumador 25cig/dia. Niega otros toxicos
+No refiere antecedentes personales ni familiares significativos. Rankin previ:0
+MEDICACIÓ HABITUAL
+Ninguno
+
+PROCÉS ACTUAL
+Paciente varón de 50 años, fumador que es derivado desde el centro donde trabaja como código ictus via SEM. Presenta hemiparesia izquierda y trastorno del habla del despertar, se acostó a las 23:00h asintomático. Se levanta y se nota más torpe, dificultad para ingesta de cafe a las 6:00h y finalmente sobre las 10.00h compañeros del trabajo notan torperza y debilidad de MSI. Se realiza Codigo TC.
+
+EXPLORACIÓ FÍSICA
+
+EXP. FÍSICA A URG: PAS163 , PAD 89 mmHg
+Alerta, orientado en las 3 esferas. No DOC, Campimetría  normal. Disartria leve moderada (1), Paresia facial izquierda (1), leve hemiparesia izquierda (MSI 4+/5, MII 4/5). No alteraciones de la sensibilidad, no extinciones. Marcha no explorada, no dismetrias. NIHSS 4
+
+EXP. FÍSICA UNIDAD DE ICTUS: 132/63, 54 lpm, 36º, 108mg/dl
+EN: PFSN I leve (1), disartria inteligible (1). NIHSS: 2
+
+
+EXPLORACIÓ COMPLEMENTÀRIA
+-	Ag leve leucocitosis
+-	ECG: RS sin alteraciones en la repolarización
+-TC craneal: Lesión vascular isquémica fronto-insular derecha en territorio de la arteria cerebral media derecha, de cronología subaguda. Resto del estudio sin alteraciones valorables.
+-VSCAN: Ventriculo izquierdo de aspecto no hipetrófico. Fracción de eyección aparentemente conservada por valoración visual. No alteraciones segmentarias de la contractilidad. Auricula izquierda de aspecto no dilatado. No valvulopatia mitral significativas. No se observan imagenes sugestivas de trombo intrauricular ni ventricular. No se detectan placas de ateroma significativas en arco aórtico.
+
+Informe d'alta d'hospitalització
+
+
+
+
+-	Telemetria 72 horas: sin detectar arritmias embolígenas.
+-	Ecografía Doppler-dúplex color de arterias carótidas, vertebrales y transcraneal sin objetivarse alteraciones (no se visualiza ostium vertebral izquierda, ACIs extracraneales insonadas sólo porción inicial)
+-	AG Unidad de Ictus: Leucòcits 11.99, VSG 20, HDL 39, serología pendiente, resto normal. SE ADJUNTA.
+- Estudio shunt en basal y en maniobra de valsalva correctamente realizada: negativo
+
+EVOLUCIÓ CLÍNICA
+Hemodinámicamente estable a la llegada con NIHSS 4 se realiza TC craneal que muestra infarto isquémico fronto-insular derecha en territorio de la arteria cerebral media derecha, de cronología subaguda. Se completa estudio doppler que no muestra alteraciones por lo que con la orientación de Ictus ACM D de etiología indeterminada por estudio incompleto se decide ingreso en la Unidad de Ictus para control evolutivo y completar estudio.
+
+Durante su estancia en la Unidad de Ictus hemodinámicamente estable. Ha presentado mejoría clínica progresiva hasta NIHSS 2. Se ha realizado Telemetría que no muestra arritmias embolígenas, Vscan sin alteraciones relevantes y Estudio shunt que no muestra hallazgos. La analítica general no muestra alteraciones significativas. Con la orientación de Ictus ACM D de etiologia indeterminada tras estudio completo se decide alta a domicilio. Se solicita ETE y estudio de trombofilias ambulatorio, así como control en CCEE Neurovascular. En el momento del alta NIHSS 2, mRS 1.
+
+DIAGNÒSTICS
+Ictus ACM D de etiología indeterminada tras estudio completo.
+
+PROCEDIMENTS
+TC craneal
+Doppler de carotidas, vertebrales y transcraneal Vscan
+Telemetría Estudio shunt DI AG
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Abandonar habito tabáquico Dieta baja en grasas
+Ejercicio fisico progresivo que tolere
+
+Adiro 100mg, 1 comprimido cada 24 horas después de comer Atorvastatina 80mg, 1 comprimido cada 24 horas después de cenar Omeprazol 20mg, 1 comprimido cada 24 horas en el desayuno
+
+CONTROL
+Control en CCEE Neurovascular el proximo día 3/4/2018 a las 10:30horas
+Se solicita ETE y estudio de trombofilias, le informaran telefónicamente y/o por carta con los datos de la cita Control estrecho de factores de riesgo por CAP
+
+Informe d'alta d'hospitalització
+
+
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+22.10.2017
+Pàgina 1 de 3

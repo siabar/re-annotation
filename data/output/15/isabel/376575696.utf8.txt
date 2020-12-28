@@ -1,0 +1,122 @@
+_LOCATION_) Telèfon _SS_  972 _CONTACT_
+Telèfon IDI (Ressonància i TAC) _CONTACT_
+Telèfon ICO _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 72 Anys
+NIF/DNI: _ID__NAME_; _NAME_
+Informe d'alta d'hospitalització
+CP	_LOCATION_
+ABS	_SS_
+Servei	NEUROLOGIA
+Data d'alta  31.05.2017	16:00:00
+_LOCATION_
+_CONTACT_; _CONTACT_
+DOMICIL/RES.SOC 29.05.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Codigo ictus
+
+ANTECEDENTS
+PERSONALES:
+-No AMC
+-Fuma un puro al día. No explica otros hábitos tóxicos
+-Independiente para ABVD. mRs: 0
+
+PATOLÓGICOS:
+-DM tipo 2
+-Obesidad
+-Hiperuricemia.
+-Insuficiencia renal crónica.
+-Hepatopatía crónica conocida desde 1997, en seguimiento por digestivo del _SS_. Según el paciente, en tratamiento con sumial por varices esofágicas secundarias a hepatopatía (no veo informes que describan varices esofágicas).
+-Espondilodiscitis L4-5 en 1997 tratada en _SS_.
+-HBP
+
+MEDICACIÓ HABITUAL
+-Lactulosa 30/24hrs
+-Omeprazol 20mghrs
+-Propanolol 40mg/12hrs
+-Alopurinol 100mg/24hrs
+
+PROCÉS ACTUAL
+Paciente de 72 años que presenta cuadro de inicio al despertar sobre las 06:00hs de paresia en hemicuerpo izquierdo. Última vez asintomático el 28/05 a las 23:00hs. Avisan al SEM quien contacta con nuestro centro para activación de código ictus a las 06:15 hs.
+El paciente llega a nuestro centro a las 07:02 hs y es valorado por neurología en el momento. A la exploración destaca hemiparesia izquierda, con NIHSS de 6. Dado que se trata de un ictus de inicio al despertar, y en ausencia de criterios de exclusión, se incluye al paciente en el estudio Wake-Up, previa firma de consentimiento informado por la familia. Se realiza RMN cerebral a las 07:18 hs, que muetsra lesión en núcleo caudado derecho con restricción en la secuencia de difusión, sin hiperintensidad en la secuencia FLAIR, por lo que se procede a randomización del paciente para tratamiento con rtPA vs placebo, con dosis ajustada al peso (9 mg en bolo, 81 mg en perfusión).
+
+El tratamiento cursa sin incidencias y el paciente ingresa en la Unidad de Ictus para vigilancia neurológica y monitorización.
+
+Informe d'alta d'hospitalització
+
+
+
+EXPLORACIÓ FÍSICA
+
+Explroación en urgencias: AC: Rítmico sin soplos.
+AP: MVC. Sin ruidos sobreañadidos.
+NRL Consciente y orientado. Lenguaje sin alteraciones. Disartria. PFC izquierda. No hemianopsia. Paresia de MSI, paresia leve de MII que no puntúa en NIHSS. No hipoestesia.
+NIHSS: 00000/14000/00010: 6
+
+EXPLORACIÓ COMPLEMENTÀRIA
+- ECG: Ritmo sinusal.
+-	Monitorización en la unidad de ictus: Ritmo sinusal durante todo el registro.
+-	Rx de torax portatil: Senos costofrénicos libres. No signos de infiltrado.
+
+-	Analítica 29/05:
+Hemoglobina 14.5 g/dL, Hematòcrit 43 %, Volum corpuscular mitjà 97.5 fL, Plaquetes * 100 K/mcL, Leucòcits *
+3.43 K/mcL.
+Glucosa * 140 mg/dL, Urea 34 mg/dL , Creatinina * 1.21 mg/dL, Urat * 7.1 mg/dL, Proteïna * 6.4 g/dL, Albúmina (sèrum) 3.8 g/dL , Colesterol * 133 mg/dL , Colesterol HDL * 26 mg/dL, Colesterol LDL (calcul) 83 mg/dL , Triglicèrid 122 mg/dL , Bilirubina total 0.41 mg/dL, Alanina aminotransferasa  (GPT) 15 U/L, Gamma-glutamiltransferasa * 84 U/L , Fosfatasa alcalina * 222 U/L, Lactat deshidrogenasa 196 U/L. Creatincinasa (CK) 42 U/L, Amilasa 78 U/L , Calci (II) 8.9 mg/dL , Ió sodi 143 mEqu/L , Ió potasi 4.7 mEqu/L , Filtrat glomerular (CKD-EPI) * 59.5 mL/min
+
+-	RMN cerebral urgencias: Lesión localizada en el núcleo caudado derecho que presenta restricción en la secuencia de difusión, no evidenciando hiperintensidad en la secuencia FLAIR, lo que sugiere infarto isquémico hiperagudo en el territorio profundo de la ACM D. Se observan lesiones en de la sustancia blanca periventricular y subcortical bilateral, en probable relación a desmielinización/gliosis por hipoperfusión crónica. Sistema ventricular simétrico de tamaño y morfología normal.
+Línea media centrada.  Cisternas  de  la  base  libres.  Los  mapas de  perfusión no  son  valorables.  El  estudio angiográfico no muestra oclusiones significtivas en las arterias intracraneales.
+CONCLUSIÓN: Estudio RM de cráneo que muestra un infarto hiperagudo en caudado derecho.
+-	TC cerebral control 24 horas post rtPA: Infarto establecido en el territorio profundo de la ACM derecha. Infartos lacunares crónicos en cuerpo del núcleo caudado izquierdo y núcleo talámico izquierdo.
+
+-	Estudio neurosonológico:
+DUPLEX TSA: Signos de ateromatosis prácticamente ausentes, mostrando alguna pequeña placa fibrosa, 1,5 mm, sin relevancia clínica, en ambas bifurcaciones. AVs normales.
+DUPLEX TRANSCRANEAL: Estudio normal, tanto territorio anterior como vertebrobasilar. Ambas V4 permeables. Basilar normal
+CONCLUSIÓN: estudio normal
+
+- ETT:
+-Ventricle esquerre no dilatat ni hipertròfic amb funció contràctil global i segmentària normals . -Vàlvula mitral a,mb lleugera fibrosi de l,anell sent lleugerament insuficient. -Vàlvula aòrtica trivalva, esclerosa sent lleugerament insuficient. -Vàlvula tricúspide normofuncionant. -Arrel aòrtica de 42 mm i aorta ascedent de 45 mm. -Aurícula
+
+Informe d'alta d'hospitalització
+
+
+
+
+esquerra moderadament dilatada. -Cavitats dretes normals. -No embassament pericàrdic.
+
+EVOLUCIÓ CLÍNICA
+Durante el ingreso en la unidad de ictus el paciente ha permanecido hemodinámicamente estable, en ritmo sinusal durante todo el registro.
+Se realiza TC de control post tratamiento que muestra infrato establecido en territorio de arteria coroidea anterior derecha. El estudio cardiológico no muestra alteraciones.
+
+Clínicamente presenta plejia de miembro superior izquierdo, paresia facial central izquierda, disartria y disfagia para líquidos por lo que precisa espesantes. Inicia sedestación y rehabilitación sin incidencias.
+Dada la estabilidad clínica y hemodinámica, se solicita traslado a su centro de referencia.
+
+Escalas al alta:
+- NIHSS: 00000/14000/00020: 7
+- mRS: 4
+
+DIAGNÒSTICS
+436/5 Ictus isquémico en territorio de arteria coroidea anterior derecha de etiología indeterminada por estudio negativo.
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+-	Adjunto SILICON
+
+CONTROL
+-	control de factores de riesgo vascular por su médico de atención primaria.
+-	Revisión en consulta de Neurología en tres meses, recibirá cita en domicilio.
+
+DESTINACIÓ A L'ALTA:	HOSP. AGUTS/PSQ
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+31.05.2017
+Pàgina 1 de 3

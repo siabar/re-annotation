@@ -1,0 +1,83 @@
+_LOCATION_) Telèfon _SS_  972 _CONTACT_
+Telèfon IDI (Ressonància i TAC) _CONTACT_
+Telèfon ICO _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 88 Anys
+NIF/DNI:_NAME_; _NAME_
+Informe d'epicrisi
+CP	_LOCATION_
+ABS	_SS_
+Servei	NEUROLOGIA
+Data d'alta  26.08.2017	04:10:32
+_LOCATION_
+_CONTACT_
+DOMICIL/RES.SOC 23.08.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Código ictus
+
+ANTECEDENTS
+ANTECEDENTS PERSONALS No AMC
+No hàbits tòxics
+Independent per les ABD, camina amb basto, rankin 3: ajuda per organitzar la medicació.
+
+ANTECEDENTS PATOLÒGICS
+-HTA en tractament farmacològic.
+-Diabtetes en tto amb ADO
+-AVC fa 4 anys i 2 anys. En tractament amb Clopidogrel. Pren Epnanutin segons la filla per els ictus, crisis comicials fa 10 anys pel que el segueix prenent.
+-	Disminucio AV visual secundaria a DM2.
+-	Hipotiroidisme en tto amb Eutirox de 100mcg
+-Apendicectomia
+-	Intervingutr de catarates
+
+
+
+
+MEDICACIÓ HABITUAL
+Finasteride, Clopidogrel 75mg/24h, Epanutin (Fenitoina) 100mg/24h, Eutirox 100mcg/24h, Simvastatina, Lisinopril 20mg/24h.
+
+PROCÉS ACTUAL
+Paciente de 88 años que presenta cuadro de inicio brusco el 23/08 a las 13:00 hs de afasia y hemiparesia derecha leve. Avisan a SEM quien activa código ictus.
+A su llegad a nuestro centro a las 14:25 hs es atendido por Neurología. Se objetiva la clínica descrita, con NIHSS de 10. Se realiza TC multimodal que no muestra signos de izquemia aguda ni oclusión en el Angio TC. Dada la clínica presentada, en ausencia de contraindicaciones, se decide tratamiento con rtPA con dosis ajustada al peso. Se decide ingreso en la Unidad de ictus para vigilancia neurológica y monitorización.
+
+EXPLORACIÓ FÍSICA
+
+Consciente. Afasia de predominio mixta, no nomina, no obedece órdenes. PFC derecha. Hemiparesia derecha leve.
+NIHSS: 02200/10101/00210:10
+
+Informe d'epicrisi
+
+
+
+EXPLORACIÓ COMPLEMENTÀRIA
+TC cerebral multimodal: Estudio TC que no muestra hemorragia intracraneal ni alteraciones patológicas valorables (ASPECTS 10). Estudio de perfusión y angiográfico intracraneal y troncos supraaórticos sin alteraciones patológicas valorables.
+
+TC cerebral: Aparició d'una extensa hemorràgia aguda profunda, centrada  a regió  capsulotalàmica-peduncle cerebral dret amb obertura a sistema ventricular (i hidrocefàlia supratentorial acompanyant).
+
+EVOLUCIÓ CLÍNICA
+Inicialmente, el paciente permanece hemodinámicamente estable y afebril, con tendencia a mejoría clínica. Pasadas unas horas de ingreso, el paciente presenta deterioro de nivel de consciencia, hemiplejia izquierda e hipertensión arterial que se trata con bolo de labetalol iv.
+
+A la exploración: Bajo nivel de consciencia. No apertura ocular al estímulo doloroso. No emisión de lenguaje. NLocaliza al dolor con MSD. Anisocoria con midriasis derecha. Amenaza ausente bilateral. Hemiplejia izquierda. RCP extensor.
+NIHSS: 32203/24040/02300: 25.
+Ante la sospecha de transformación hemorrágica se realiza TC cerebral que muestra extensa hemorragia aguda profunda derecha abierta a sistema ventricular. Dada la edad del paciente y la presencia de hemorragia profunda, no es candidato a tratamiento quirúrgico del hematoma.
+
+Se informa a la hija del pronóstico vital infausto que le confiere al paciente la presencia de una hemorragia extensa abierta a ventrículos. Se decide de acuerdo con la familia, adecuación de esfuerzo terapéutico, garantizando el confort del paciente.
+
+El 26/08/17 a les 4.10h am el paciente fallece.
+
+DIAGNÒSTICS
+436/5 Ictus isquémico en territorio de ACM izquierda tratado con rtPA. Hemorragia profunda en ganglios de la base derechos abierta a ventrículos.
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+26.08.2017
+Pàgina 1 de 2

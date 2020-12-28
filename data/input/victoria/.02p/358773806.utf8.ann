@@ -1,0 +1,71 @@
+T0	_SUG_Lateralizacion 0 1	I
+T1	_SUG_Lateralizacion 16 17	I
+T2	FECHA 328 338	06.04.2017
+#2	AnnotatorNotes T2	2017-04-06
+T3	_SUG_Lateralizacion 395 396	I
+T4	HORA 409 414	19:24
+#4	AnnotatorNotes T4	19:24
+T5	SECCION_TIPO_DE_INGRESO 446 471	Tipo ingreso/Tipus ingrés
+T6	SECCION_MOTIVO_DE_INGRESO 627 665	Motivo de consulta / Motiu de consulta
+T7	SECCION_ANTECEDENTES 674 736	Antecedentes e historia previa / Antecedents i història prèvia
+T8	_SUG_mRankin_alta 828 837	mRankin 0
+T9	_SUG_mRankin_previa 828 837	mRankin 0
+T10	FECHA 977 989	mayo de 2007
+#10	AnnotatorNotes T10	2007-05-UNDEF-day
+T11	FECHA 994 1008	agosto de 2008
+#11	AnnotatorNotes T11	2008-08-UNDEF-day
+T12	FECHA 1159 1173	agosto de 2008
+#12	AnnotatorNotes T12	2008-08-UNDEF-day
+T13	_SUG_Etiologia 1242 1254	HIPERTENSIÓN
+T14	FECHA 1313 1324	31 de marzo
+#14	AnnotatorNotes T14	2008-03-31
+T15	_SUG_Etiologia 1346 1358	hipertensiva
+T16	_SUG_Ictus_isquemico 1462 1467	ictus
+T17	_SUG_TAC_craneal 1537 1547	TC craneal
+T18	_SUG_Arteria_afectada 1651 1668	arteria vertebral
+T19	_SUG_Lateralizacion 1669 1676	derecha
+T20	_SUG_Lateralizacion 1700 1707	derecho
+T21	_SUG_Arteria_afectada 1799 1803	PICA
+T22	_SUG_Lateralizacion 1992 1999	derecho
+T23	FECHA 2056 2064	05/06/15
+#23	AnnotatorNotes T23	2015-06-05
+T24	_SUG_Etiologia 2135 2147	hipertensiva
+T25	_SUG_Lateralizacion 2217 2226	izquierda
+T26	SECCION_TRATAMIENTO_HABITUAL 2323 2343	TRATAMIENTO HABITUAL
+T27	FECHA 2345 2353	marzo/17
+#27	AnnotatorNotes T27	2017-03-UNDEF-day
+T28	SECCION_PROCESO_ACTUAL 2486 2516	Proceso actual / Procés actual
+T29	FECHA 2549 2554	31/03
+#29	AnnotatorNotes T29	2017-03-31
+T30	_SUG_Etiologia 2584 2596	hipertensiva
+T31	SECCION_PROCESO_ACTUAL 6704 6710	Episod
+T32	SECCION_EXPLORACION_FISICA 2742 2780	Exploración física / Exploració física
+T33	FECHA 2804 2814	06/04/2017
+#33	AnnotatorNotes T33	2017-04-06
+T34	HORA 2815 2820	20:00
+#34	AnnotatorNotes T34	20:00
+T35	FECHA 2858 2868	06/04/2017
+#35	AnnotatorNotes T35	2017-04-06
+T36	FECHA 2902 2912	07/04/2017
+#36	AnnotatorNotes T36	2017-04-07
+T37	HORA 2913 2918	11:00
+#37	AnnotatorNotes T37	11:00
+T38	HORA 2959 2964	09:00
+#38	AnnotatorNotes T38	09:00
+T39	_SUG_Etiologia 3062 3074	hipertensión
+T40	FECHA 3836 3846	7 de abril
+#40	AnnotatorNotes T40	2017-04-07
+T41	SECCION_EXPLORACIONES_COMPLEMENTARIAS 4245 4305	Exploraciones complementarias / Exploracions complementàries
+T42	SECCION_EVOLUCION 4346 4366	Evolución / Evolució
+T43	FECHA 4568 4580	mayo de 2007
+#43	AnnotatorNotes T43	2007-05-UNDEF-day
+T44	_SUG_Etiologia 4654 4666	hipertensiva
+T45	_SUG_Ictus_isquemico 4780 4785	ictus
+T46	FECHA 5254 5264	5 de abril
+#46	AnnotatorNotes T46	2007-04-05
+T47	_SUG_Etiologia 6142 6150	habitual
+T48	SECCION_RECOMENDACIONES 6151 6172	Otras recomendaciones
+T49	FECHA 6372 6382	11.04.2017
+#49	AnnotatorNotes T49	2017-04-11
+T50	HORA 6397 6402	11:36
+#50	AnnotatorNotes T50	11:36

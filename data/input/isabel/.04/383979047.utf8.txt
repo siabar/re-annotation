@@ -1,0 +1,74 @@
+_LOCATION_
+Tel. _CONTACT_
+_LOCATION_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 74 Anys
+NIF/DNI:_NAME_; _NAME_
+Informe d'alta d'hospitalització
+16:21:14
+24.06.2017
+_LOCATION_
+_SS_
+MEDICINA D'URGÈNCIES
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_
+DOMICIL/RES.SOC 23.06.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Crisi comicial
+
+PROCÉS ACTUAL
+CODI ICTUS
+74 anys, activa el SEM per debilitat d'extremitats esquerres. AP: No alergias medicamentosas conocidas
+HTA,Infarto cerebral temporooccipital derecho   probablemente cardioembólico hace 1 año en _LOCATION_. ACXFA paroxística en tratamiento con eliquis. Portador de colostomía, según refiere por tumoración no maligna extirpada Rankin 1.
+MA: Explica la seua senyora que avuie stava com sempre, negant toxics ni febra, s'ha despertta de la siesta aquesta tarda marejat cap a les 19:00 h nota com a "temblor en la pierna izquierda", que després progressa al braç. Es truca una ambulancia. SEM activa Codi Ictus a les 20:55 h, arriba _SS_ a les 21:15 h. Avaluacio NRL a les 21:20, neuroimatge a les 21:45
+Exploracio NRL:
+Pacient cosncient pero disartric i algo confos, amb clars moviments clonics de braç i cama esquerra, que en dos miunuts generalitzen a la reata del cos amb versio cefalica i eprdua de cosnciència.
+S'administra levetiracetam 500 mg i midazolam 3 mg, decint i recuperant conscieència als 15 minuts.
+- TC de crani: lesio encefalomalacica coneguda antiga parietooccipital dreta, sense lesions agudes. Impressio dx:
+CRISIS COMICIAL PARCIAL SECUNDARIAMENT GENERALITZADA. EPILEPSIA VASCULAR.
+Pla:
+Desactivo Codi Ictus
+Recomano levetiracetam 500 mg més ABANS DE LES 00:00 H. DEMÀ AL MATÍ SOBRE LES 10:00 H, 500 MG MES DE KEPPRA.
+Demà revaloraico al matí, segons evolució clínica alta a domicili vs ingres a NRL (dependrà de si recuper ala apresia de Tod i/o recurreixen crisis).
+
+
+Control Dr _NAME_
+
+
+EXPLORACIÓ COMPLEMENTÀRIA
+analítica TAC craneal rx tòrax.
+
+EVOLUCIÓ CLÍNICA
+Control de pacient de 74 anys
+
+Informe d'alta d'hospitalització
+
+Crsis comicial parcial secundariamwent generalitzada. Etiologia simptomatica. Epilepsia vascular remota. No recurrencia de crisis.
+Exploraico nRL: Recupera deficit neuologic hemicos esquerre. Conscient i orientat, camina sol, amb lleu mareig (probablement pels farmacs)
+pla:
+Si va tot com ara, alta a migdia després de dinar Tractamnt a l'alta: Keppra 500 mg cada 12 h v.o. Solicito V1 NRL-EPIL. (cita 06/10/2017 a les 09:30 h)
+
+DIAGNÒSTICS
+780.39/2 Crisi comicial
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Keppra 500 mg cada 12 h v.o.
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+24.06.2017
+Pàgina 1 de 2

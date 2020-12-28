@@ -1,0 +1,180 @@
+_LOCATION_
+email: _CONTACT_ Telèfon _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 61 Anys
+NIF/DNI: _ID__NAME_; _NAME_; _NAME_; 
+_NAME_
+Informe d'alta d'hospitalització
+15:00:00
+26.10.2017
+_LOCATION_
+_SS_ UNITAT D'ICTUS
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_; _CONTACT_; _CONTACT_
+DOMICIL/RES.SOC 24.10.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Hombre de 61 años que acude por inestabilidad y diplopia.
+
+ANTECEDENTS
+No alergias medicamentosas conocidas.
+Hábitos tóxicos: ex-fumador hace 18 años. Fumaba 1-2 paq/día aprox desde los 15a (IPA  42). Consumo enólico de unas 12 UBE/día.
+
+-Obesidad mórbida. IMC 40,45kg/m2 (134kg,  182cm). Siguió controles  hasta 2013 por Endocrino de zona (prefirió tratamiento dietético), no acudió a última visita.
+-Hiperuricemia sintomática (artritis gotosa).
+-Sindrome del túnel carpiano izquierdo de ntensidad severa (ausencia de potencial sensitivo orotodrómico de N mediano en EMG 2016). Pendiente de cirugía.
+-SAHS en tratamiento con CPAP nocturna.
+-Insuficiencia venosa crónica en extremidades inferiores con cambios dérmicos y edema crónico por éstasis en EID. Como complicaciones ha presentado celulitis en julio 2013. Se realizó Eco-Doppler Venoso por sospecha de TVP: Insuficiencia Poplitea. Sistema Venoso Superficial Vicariante (paraná negativo). En 2013 fue valorado en CEX Cirugía Vascular y dado que el sistema venosos superficial es vicariante y obesidad del paciente, no se consideró candidato a cirugía.
+-Lipomatosis. Lipomas superiores a 8 cm que han requerido excéresis.
+-Cervicoartrosis. RMN (dic 2015): acusados cambos degenerativos uncodiscartrósicos C5-C6 y  C6-C7 con protrusiones discales centrales en estos dos niveles que contactan con el margen anterior del cordón medular sin focos de mielomalacia. Estenosis moderada degenerativa foraminal C4-C5 derecha, grave C5-C6 derecha y moderada izquierda, moderada C6-C7 bilateral de predominio derecho, con probable compromidso de las raíces emergentes C6 y C7 derechas.
+-Hemangiomas múltiples. Intervenido por hemaniomas en rodilla derecha, bucales y faciales. También presentes en Ecografía de carpo izquierdo y en la piel de forma diseminada.
+-Cólico nefrítico.
+
+Antecedentes quirúrgicos: Varicectomía de EID hace 10 años, Hemangioma en rodilla derecha. Colecistectomía (colecistitis aguda) en 2014.
+
+Situación sociofuncional: independiente para las ABIVD. Autónomo, tiene un restaurante. mRS 0.
+
+MEDICACIÓ HABITUAL
+No refiere.
+
+PROCÉS ACTUAL
+Habiéndose acostado asintomático, despierta la mañana del 23/10 alrededor de las 9h con sensación nauseosa e inestabilidad de la marcha con tendencia a la lateralización izquierda. Progresivamente se añaden diplopía horizontal binocular y paresia facial derecha. Alertan al SEM, quienes  trasladan al paciente sin activación de
+
+Informe d'alta d'hospitalització
+
+
+
+
+código ictus. Valorado inicialmente por oftalmología, quienes avisan a guardia de NRL, activándose código ictus a las 14:05h. Hora de TC 14:20h.
+
+EXPLORACIÓ FÍSICA
+
+En urgencias:
+Constantes: TA 196/106 mmHg, FC 47 lpm.
+Estado general conservado. Normohidratado, normocoloreado, bien perfundido. ACV: tonos cardíacos rítmicos, no ausculto soplos. No signos de IC. AR: eupneico en reposo. Murmullo vesicular conservado sin estertores sobreañadidos. EN: Vígil, alerta, PINR, orientado en las tres esferas, sin alteración del lenguaje. Disartria leve inteligible (1). No POC ni DOC. No déficit campimétrico por confrontación. Paresia incompleta de III pc derecho. PFSN D (2). Hipoestesia peribucalderecga (1). Balance motor conservado de forma global en las cuatro extremidades. Sensibilidad sin déficits objetivables. No extinciones ni anosognosias. No dismetrías. Ataxia de la marcha con lateralización a la izquierda. NIHSS 4.
+
+A su ingreso en la Unidad de Ictus:
+TA 144/86mmHg FC 59lpm Tª 36.5ºC SpO2 97% aa
+Estado general conservado, obeso, MVC sin ruidos sobreañadidos.TCR sin soplos audibles. Signos de insuficiencia venosa en EEII. NRL: vigil, alerta, no POC/DOC, LOC Q 2/2, LOC C 2/2, no afasia, disartria inteligible (1), no alteraciones campimétricas por confrontación, oftalmoplejía internuclear derecha + paresia IIIpc izquierdo (discreta ptosis y diplopia vertical en casi todas las posiciones de la mirada). PFSN derecha (2). Balance motor conservado globalmente, sin alteraciones en la sensibilidad superficial, no extinciones ni negligencias. No dismetría dedo-nariz ni talón-rodilla. NIHSS 3
+
+EXPLORACIÓ COMPLEMENTÀRIA
+-Analítica general: Htes 4.39 x10E12/L, Hb 13.6 g/dL, Hto 41.9%, VCM 95.4 fL, ADE 12.9%, Leucocitos 6.87
+x10E9/L (N 73.2%, L 20.8%, M 4.5%, E 1.2%, B 0.3%), Plaquetas 180 x10E9/L. Glucosa 108 mg/dL, Urea 40 mg/dL, Cr 0.77 mg/dL, FG >90 ml/min/1,73 m2, Na 142.6 mmol/L, K 4.07 mmol/L, Ca 9.3 mg/dL, AST 17 UI/L, ALT 17 UI/L, Proteínas 6.5 g/dL. T Protrombina 97%, INR 1.07.
+-ECG: RS a 50lpm. aQRS 0º. PR 0.12s. QRS estrecho, adecuada progresión de onda R en precordiales con ondas T aplanadas enV1 y V6, sin otras alteraciones agudas de la repolarización.
+-TC craneal simple y angioTC: Estructuras de la línea media centradas. No se observan lesiones hemorrágicas intra o extraaxiales. Calcificaciones groseras gangliobasales bilaterales. Múltiples hipodensidades que afectan al caudado y centro semioval izquierdo, al brazo anterior de cápsula interna derecha, al tálamo izquierdo  que parecen tratarse de lesiones lacunares crónicas. Discreta leucoaraiosis periventricular en astas anteriores. Presencia de artefactos de dureza en fosa posteiror que dificulta la valoración de la zona. Resto del parénquima sin alteraciones significativas. Sistema ventricular simétrico y no dilatado. Cisternas basales y peritronculares libres. Discreta ectopia de amígdalas cerebelosas. Ambas arterias carótidas son permeables, de calibre correcto y sin lesiones estenosantes. Calcificaciones de los sifones carotídeos. Polígono de willis permeable, sin alteraciones. Arteria vertebral izquierda dominante, con una arteria vertebral derecha que termina en PICA ipsilateral. Origen fetal de la ACP derecha. Ambas ACPs proximales permeables. Permeabilidad de los principales senos venosos intracraneales. CONCLUSIÓN: No se observan oclusiones de la circulación cerebral psoterior valorables por angioTC. No se observan lesiones isquémicas ni hemorrágicas agudas intra o extraaxiales.
+-Rx tórax: marco óseo conservado, ICT >0.5, no se visualizan senos costofrénicos, no se visualizan condensaciones parenquimatosas.
+-Analítica de ingreso 25/10: Hties 4.48 x10E12/L;Hb 14.2 g/dL; Hto 42.5 %; VCM 94.9 fL; CHCM 33.40 g/dL; ADE
+
+Informe d'alta d'hospitalització
+
+
+
+
+13.0 %; Leucocitos 7.99 x10E9/L; Neutrófilos 5.3 x10E9/L; Linfocitos 2.1 x10E9/L; Monocitos 0.5x10E9/L; Eosinófilos 0.1 x10E9/L; Basófilos 0.0 x10E9/L; Plaquetas 182 x10E9/L; VPM 10.5 fL. VSG 20 mm/h. Hemostasia: TP 82 %; INR 1.13; TTPA 29.2 seg; Fibrinógeno derivado 3.01 g/L. Bioquímica: glucosa 98 mg/dL; HbA1c 5.4 %; urea 36 mg/dL; creatinina 1.01 mg/dL; FG 80 ml/min; urato 8.4 mg/dL; bilirrubina 0.83 mg/dL (esterificada 0.26 mg/dL); sodio 144.2 mmol/L; potasio 4.06 mmol/L; calcio 9.5 mg/dL; AST 20 UI/L; ALT 19 UI/L; FA 61 UI/L; GGT 31 UI/L; proteína 6.4 g/dL; albúmina 3.9 g/dL; PCR 0.62 mg/dL.
+*Lípidos: Colesterol total: 231 mg/dL;HDL 43 mg/dL; LDL 148 mg/dL; Triglicéridos201 mg/dL.
+*Vit B12 328 pg/mL; Ácido fólico 6.6 ng/mL.
+*Tiroides: TSH 2.789 mU/L; T4L 1.18 ng/dL.
+*Proteinograma: fracciones alfa1-2, beta 1-2 y gamma normales, sin componente monoclonal.
+*Serologías: VIH y Lues negativas.
+-Telemetría cardiaca 72 horas: No se detectan alteraciones potencialmente embolígenas.
+-Ecoscopia cardíaca: Regular ventana torácica Ventriculo izquierdo no dilatado, hipertrófico. Fracción de eyección conservada. No alteraciones segmentarias de la contractilidad. Auricula izquierda no dilatada. Insuf mitral significativa. Patrón transmitral seudonormal. No se observan imagenes sugestivas de trombo intrauricular ni ventricular. Ateromatosis aórtica sin placas complicadas.
+-Sedimento de orina 24/10: leucocitos 318.6 cel/µL; Hties 29.7 cel/µL; células epiteliales 0 cel/µL; cilindros hialinos 0 cil/µL; bacterias 1698 bact/µL.
+-Urocultivo: positivo >100.000UFC/ml para BGN. Pendiente identificación y antibiograma.
+-RMN craneal + angioRMN 25/10: Milimétrico foco de hiperseñal en difusión con restricción en el mapa ADC y leve hiperintensidad en FALIR, de localización protuberancial paracentral derecha en el suelo del cuarto ventrículo. Lesiones subcentimétricas con centro necrótico en centro semioval y cadeza del núcleo caudado izquierdo y mas dudoso lenticular derecho. Focos de hiperintensidad parcheados no confluentes en sustancia blanca subcortical fronto-parietal y periventricular, en relación con cambios hipóxico-isquémicos. Moderada dilatación de los espacios perivasculares gangliobasales bilaterales. Pequeño foco de microhemorragia crónica subcortical frontal derecho Microhemorragia crònica aqueductal-periaqueductal derecha, inespecífica. Resto del estudio con adecuada configuración de los hemisferios cerebrales y buena diferenciación sustancia blanca-sustancia gris. Sistema ventricular de tamaño y configuaración normal. En el estudio angiográfico se  visualiza dominancia vertebral izquierda con una arteria vertebral derecha que acaba su recrrido en la PICA derecha, como variante de la normalidad. Resto de vasos del polígono de Willis de calibre y configuración normal. Dilatación de la vena basal de Rosenthal derecha. Engrosamiento y edema muscular del espacio maticador derecho, así como ingurgitación de la vena oftálmica superior homolateral, hallazgos que sugieren pueda tratasse de una malformación vascular venolimfática de bajo flujo ( estudio no dirigido) CONCLUSIÓN: Micronfarto subagudo protuberancial paracentral derecho en el suelo del quarto ventriculo, en territorio perforante de la arteria basilar. Infartos lacunares crónicos en territorio de arterias medulares de la ACM izquierda  y de perforantes de la circulación anterior bilateral. Hallazgos que asociados a una desmielinizacion isquémica grado II de Fazekas, a dilataciones perivasculares profundas y a alguna aislada microhemoragia crónica sugieren una enfermedad cerebrovascular de pequeño vaso Microhemorragia en el aqueducto de Silvio/ región periaquductal, inespecífica. Engrosamiento y edema muscular del espacio maticador derecho, así como ingurgitación de la vena oftálmica superior homolateral, hallazgos que sugieren pueda tratarse de una malformación vascular venolimfática de bajo flujo ( estudio no dirigido).
+
+Informe d'alta d'hospitalització
+
+
+
+EVOLUCIÓ CLÍNICA
+A su llegada hemodinámicamente estable y afebril, con un NIHSS de 4 a expensas de paresia facial, disartria e hipoestesia peribucal. Se realiza TC craneal simple que no muestra lesiones hemorrágicas ni isquémicas establecidas, y angioTC craneal + TSA en el que únicamente destaca la presencia de arteria vertebral izquierda dominante con A. vertebral derecha que termina en PICA ipsilateral. También se realiza ECG que muestra ritmo sinusal, y analítica (sin alteraciones relevantes). Se orienta como ictus isquémico de territorio vertebrobasilar. Se inician medidas de ictus agudo y se cursa ingreso en Unidad de Ictus para completar estudio y control evolutivo.
+A su ingreso a la Unidad de Ictus hemodinámicamente estable y afebril, destacando a la exploración física  la presencia de oftalmoplejía internuclear derecha, paresia del IIIpc izquierdo (sin afectación pupilar), paresia facial supranuclear derecha y disartria leve, con un NIHSS de 3. Se solicita Rx de tórax que muestra cardiomegalia, sin imágenes sugestivas de condensación parenquimatosa; y analítica de ingreso que no muestra alteraciones. Se mantiene con telemetría cardiaca durante 72 horas en el que no se detectan alteraciones potencialmente embolígenas y se realiza Ecoscopia cardíaca, sin alteraciones. También solicitamos RMN craneal, en la que destaca la presencia de un infarto protuberancial paracentral derecho de etiología microangipática, además de engrosamiento y edema muscular del espacio masticador derecho e ingurgitación de la V. oftálmica ipsilateral que sugieren una malformación vascular venolinfática de bajo flujo (paciente con antecedentes de hemangiomas múltiples) por lo que solicitamos visita de seguimiento en Cirugía Vascular.
+Dado que refiere clínica de hematuria ocasional ya en domicilio se solicita sedimento de orina que muestra leucocituria y bacteriuria, por lo que se inicia tratamiento empírico con ciprofloxacino, con urocultivo positivo para bacilo gramnegativo, pendiente de identificación y antibiograma (deberán revisarse los resultados desde atención primaria para ajustar antibioterapia). Ante estabilidad clínica y hemodinámica se decide alta a domicilio con control en CEX Neurovascular.
+NIHSS al alta = 3 (disartria (1), PFSN derecha (2), MOEs conservados sin diplopia; únicamente refiere discreta diplopia de forma puntual).
+Rankin al alta = 2
+
+
+
+DIAGNÒSTICS
+Infarto lacunar protuberancial paracentral derecho de probable etiología microangiopática.
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Dieta baja en grasas.  Ejercicio físico que tolere.
+
+-Omeprazol 20mg 1-0-0
+-Atorvastatina 80mg 0-0-1
+-Adiro 100mg 0-1-0
+
+-Ciprofloxacino 500mg cada 12 horas hasta el día 15 de Noviembre de 2017 (incluído).
+-Clometiazol 192mg en pauta descendente:
+1 comprimido cada 12 horas durante 3 días.
+1 comprimido cada 24 horas durante 3 días y SUSPENDER. EVITAR consumo de alcohol.
+
+Informe d'alta d'hospitalització
+
+
+
+
+CONTROL
+-Control por su Neurólogo de zona según hoja adjunta.
+
+-Control por su médico de atención primaria, recomendando  revisar los resultados del urocultivo para valorar ajustar antibioterapia. Y control estricto de factores de riesgo cardiovascular.
+
+-Acudir a visita en Consultas Externas de Cirugía Vascular para valoración de actitud sobre nuevos hemangiomas.
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+26.10.2017
+Pàgina 1 de 5

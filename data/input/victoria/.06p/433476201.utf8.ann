@@ -1,0 +1,51 @@
+T0	FECHA 100 110	19/10/2017
+#0	AnnotatorNotes T0	2017-10-19
+T1	FECHA 124 132	26/10/17
+#1	AnnotatorNotes T1	2017-10-26
+T2	SECCION_ANTECEDENTES 326 338	Antecedentes
+T3	SECCION_SITUACION_FUNCIONAL 405 420	Situación basal
+T4	SECCION_PROCESO_ACTUAL 599 616	Enfermedad actual
+T5	FECHA 621 626	18/10
+#5	AnnotatorNotes T5	2017-10-18
+T6	HORA 637 642	20:00
+#6	AnnotatorNotes T6	20:00
+T7	_SUG_TAC_craneal 756 766	TC craneal
+T8	_SUG_Trombolisis_intravenosa 797 801	rtpa
+T9	HORA 824 829	21:20
+#9	AnnotatorNotes T9	21:20
+T10	HORA 1189 1194	20:00
+#10	AnnotatorNotes T10	20:00
+T11	HORA 1328 1333	20:45
+#11	AnnotatorNotes T11	20:45
+T12	_SUG_TAC_craneal 1549 1559	TC craneal
+T13	HORA 1668 1673	21:20
+#13	AnnotatorNotes T13	21:20
+T14	_SUG_TAC_craneal 1798 1808	TC craneal
+T15	_SUG_TAC_craneal 2424 2434	Tc craneal
+T16	_SUG_TAC_craneal 2558 2560	TC
+T17	SECCION_CONTROL 2708 2711	PLA
+T18	SECCION_CONTROL 5964 5971	Control
+T19	SECCION_EXPLORACION_FISICA 2904 2922	Exploración física
+T20	FECHA 2929 2934	19/10
+#20	AnnotatorNotes T20	2017-10-19
+T21	SECCION_EXPLORACIONES_COMPLEMENTARIAS 3192 3221	Exploraciones complementarias
+T22	_SUG_TAC_craneal 3879 3889	TC craneal
+T23	HORA 3899 3901	24
+#23	AnnotatorNotes T23	24:00
+T24	FECHA 4500 4510	24/10/2017
+#24	AnnotatorNotes T24	2017-10-24
+T25	_SUG_TAC_craneal 4794 4796	TC
+T26	_SUG_TAC_craneal 4967 4969	TC
+T27	SECCION_EVOLUCION 5126 5135	Evolución
+T28	_SUG_TAC_craneal 5481 5483	TC
+T29	SECCION_DIAGNOSTICOS 5522 5534	Diagnósticos
+T30	_SUG_Ictus_isquemico 5536 5553	Infarto isquémico
+T31	_SUG_Arteria_afectada 5580 5583	ACM
+T32	_SUG_Lateralizacion 5584 5588	izda
+T33	_SUG_Trombolisis_intravenosa 5601 5605	rtPA
+T34	_SUG_Etiologia 5619 5632	indeterminada
+T35	_SUG_Localizacion 5619 5632	indeterminada
+T36	_SUG_Etiologia 5736 5745	a estudio
+T37	_SUG_Etiologia 5747 5759	Hipertensión
+T38	SECCION_TRATAMIENTO_AL_ALTA 5771 5782	Tratamiento
+T39	_SUG_Tratamiento_antiagregante 5841 5846	Adiro

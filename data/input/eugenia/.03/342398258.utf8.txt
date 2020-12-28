@@ -1,0 +1,180 @@
+_LOCATION_
+email: _CONTACT_ Telèfon _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 30 Anys
+NIF/DNI: _ID__NAME_; _NAME_
+Informe d'alta d'hospitalització
+CP	_LOCATION_
+ABS	_SS_
+Servei	NEUROCIRURGIA
+Data d'alta  28.02.2017	09:03:14
+_LOCATION_
+_CONTACT_
+DOMICIL/RES.SOC 05.02.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Afasia, hemiparesia y disminución progresiva del nivel de conciencia.
+
+ANTECEDENTS
+ANTECEDENTES PERSONALES:
+-Sin alergias medicamentosas conocidas.
+-No hábitos tóxicos.
+
+ANTECEDENTES PATOLÓGICOS:
+-No antecedentes médico-quirúrgicosde interés.
+
+MEDICACIÓ HABITUAL
+Niega medicación habitual
+
+PROCÉS ACTUAL
+Paciente sin antecdentes previos conocidos que la mañana del 5/2/2017, tras realizar ejercicio físico,   presenta cefalea, alteración del lenguaje y disminución progresiva del nivel de conciencia.
+Llega a urgencias de nuestro centro como código ictus. A la exploración el paciente se encuentra en GCS 11 (O3V3M5) e impresiona de afasia mixta y hemiparesia derecha. Se realiza TC  craneal que objetiva gran hematoma temporo-parietal izdo que colapsa parcialmente el sistema ventricular y desplaza 5mm linea media. El angioTC muestra imagen compatible con MAV subyacente al hematoma. Se realiza arteriografía que confirma la presencia de la MAV silviana izda Spetzler-Martin 3 (S2E1V0), Lawton-Supplementary 2 (A2B0C0).
+
+
+EXPLORACIÓ FÍSICA
+
+Al ingreso en UCI:
+
+TA: 160/83 FC: 83 FR: 17 SPO2: 96% (FIO2: 0.1) Tº:
+-Neurológico:RASS -5 bajo efectos de sedación remifentanil+propofol, pupilas mióticas reactivas, drenaje tipo JP contenido hematico fresco aprox 30 ml
+-Respiratorio: VMI con TOT a 20cms de comisura labial, ruidos respiratorios bien transmitidos si agregados
+-Hemodinamia: ritmo sinusal, sin soplos audibles, relleno capilar 2 segundos, no edemas
+-Abdomen: peristalisis presente, abdomen blando, no masas palpables Al alta de planta:
+Consciente y orientado, sin focalidad motora.
+Lenguaje fluente con alguna parafasia y cierta dificultad para seguir órdenes complejas Hemodinamicamente estable y afebril
+
+Informe d'alta d'hospitalització
+
+
+
+
+Herida quirúrgica con buen aspecto. Bordes correcta,mente afrontados. Sin signos de infección
+
+
+
+EXPLORACIÓ COMPLEMENTÀRIA
+-TC y AngioTC craneal de Urgencias (5/02/2017): El examen muestra un voluminoso hematoma en  fase evolutiva aguda centrada en región insular izquierda con extensión caudal témporo-basal, el cual presenta unas medidas de 86 x 52 x 53 mm en sentido ántero-posterior, lateral y cráneo-caudal respectivamente, con un volumen total de aproximadamente de 124 cm3. La lesión se rodea de una discreta reacción edematosa de tipo vasogénico, produciendo globalmente un efecto de masa que distorsiona y colapsa el sistema ventricular izquierdo con dilatación del sistema ventricular contralateral, produciendo una desviación de las estructuras de la línea media de 5 mm hacia la derecha.Hiperdensidad lineal en los surcos de la convexidad izquierda sugestivo decontaminación hemática de los espacios subaracnoideos. Cisternas basales y peritronculares libres. Amigdalas cerebelosas de disposición normal. Contenido mucoide en ambos  senos maxilares. En el estudio AngioTC intracraneal se objetiva una malformación vascular arteriovenosa, localizada en el valle silviano izquierdo, a nivel del segmento M1 de la arteria cerebral media homolateral. Los vasos arteriales aferentes parecen tener origen en la arteria cerebral media izquierda con circulación venosa eferente dilatada ue  parece drenar en las  venas cerebrales superficiales homolaterales (anterior y posterolateral).  CONCLUSIÓN: 1. Voluminoso hematoma témporo-insular izquierdo. 2. Malformación vascular arteriovenosa localizada en el valle silviano izquierdo con arteriaS aferente dependiente de la arteria cerebral media izquierda y drenaje venoso superficial
+
+-Arteriografía Urgencias (5/02/17): Se realiza angiografia diagnostica previa a intervencion quirurgica Se cateteriza carotida interna, externa y vertebral izquierdas. Se identifica malformacion arteriovenosa con nidus compacto de unos 3cm, situado posterior a ramas de arteria cerebral media de las que depende sin que puedan identificarse aferencias definidas por la relacion de proximidad del nidus a dichas ramas. La repleccion del mismo es muy precoz sin que consigamos definir aneurismas en arterias aferentes con venas de drenaje superficiales de direccion postero superior y anterior. El hematoma condiciona desplazamiento de ramas de arteria cerebral media en sentido anterior y superior. No se observan anomalias en las inyecciones de carotida externa y sistema vertebro basilar.
+
+INGRESO EN UCI:
+-Analítica general: Hb 13.4g/dL, Hto 38% , leucocitos 11.960u/dL ( N 93% , L 5% ) , plaquetas 197.000u/dL, TQ 77% , TTPA 0.8rátio , Fibrignógeno 3.1g/L, glucosa mg/dL, urea 25mg/dL, creatinina 0.6mg/ dLAST 44UI/L, ALT 37UI/L.
+
+-GSA FiO2 0.5: PH :7.39 PCO2: 37 PO2: 189 NA: 136 K: 3.9 Cl: 107 Ca:  4.7 glucosa: 132mg/dl lact: 1.1 Hb :13.5
+be -2.6 AG 11 HCO3: 22.4.
+
+-Radiografía de tórax: no cardiomegalia, no condensaciones, angulos costofrenicos libre, PICC a nivel sublcavio derecho, TOT a 4cms de carina aproximadamente.
+
+-ECG: ritmo sinusal FC 100lpm eje: +70 no bloqueos, no trastornos de repolarización
+
+-	RM cerebral: Canvis post-quirúrgics de craniotomia frontoparietal i temporal esquerra amb corticotomia a pol anterior temporal esquerre secundari a drenatge de voluminós hematoma amb petita làmina hemàtica extraxial subjacent. S'observa un petit hematoma residual a pol anterior temporal esquerre de 18x15x6mm (APxTxCC) en estadi evolutiu subagut precoç. Presència d'abundants restes d'hemosdierina a vall silvià esquerre. Hiperintensitat
+-	
+Informe d'alta d'hospitalització
+
+
+
+
+T2 (edama i/o gliosi) al voltant del llit quirúrgic. S'estén cap al lòbul temporal (lateral a la ventricular i fins a l'amígdala), a la substància blanca subinsular posterior, i cap a la substància blanca parietal esquerra. S'identifiquen múltiples estructures vasculars anòmales aglomerades al vall silvià esquerre/pol anterior temporal, que corresponen a la malformació arteriovenosa mencionada a la informació clínica. El nidus vascular mesura uns 3 cm de diàmetre màxim. No s'individualitzen les aferències arterials, probablement de branques proximals de l'artèria cerebral mitjana. El drenatge venós és cap a venes corticals que drenen en direcció superior, i una altra que drena cap al si esfenoparietal esquerre. En el marge lateral del nidus s'identifica una estructura de morfologia sacular d'uns 4mm, sense poder determinar el seu origen arterial o venós (no es pot excloure que es tracti d'un aneurisma arterial). A l'estudi angiogràfic s'observa permeabilitat de les principals estructures del polígon de Willis i sistema vertebro-basilar. Principal drenatges venosos intracranials permeables. Sistema ventricular simètric i de mida proporcional a la profunditat dels solcs subaracnoidals amb lleu obliteració de la banya temporal esquerre. Estructures de la línia mitja centrades. Cisternes basals i perimesencefàliques lliures.
+
+-	Arteriografía 16/02/2017: Por punción femoral derecha se logra cateterizar de forma selectiva la ACII, la cual es permeable en todo su recorrido. Se identifica nido compacto de MAV en region silviana izquierda, con aparentes ramas arteriales aferentes de la bifurcación de ACM, con unas venas de drenaje dilatadas en dirección póstero-superior hacia seno longitudinal superior y también en dirección anterior  y luego posterior a seno transverso izquierdo. También se observa una pequeña vena que drena a seno cavernoso contralateral. También se identifica aneurisma intranidal localizado en la porción más lateral del nidus. No se visualizan otras MAV, FAV u otros aneurismas. CID y AVD muestran trayecto y morfología usual. Se practica un cierre percutáneo Mynxgrip 5F. Sin complicaciones inmediatas.
+
+-	Arteriografía intraoperatoria 21/02/2017: tras cateterizar la ACII se observa la exéresis completa del nidus malformativo y la ausencia de drenaje venoso precoz.
+
+-	TC craneal 22/02/2017: Cambios en relacion a intervencion sobre MAV temporal izuierda con clips situados en margen posterior al trayecto silviano apreciandose unicamente pequeña lesion hipodensa temporal que corresponde con el limite posterior y superior del voluminosos hematoma evacuado, que en TC previo postquirurgico inmediato (5-2-2017) mostraba aire y restos hematicos , sin aparicion de otras imagenes hipodensas que indiquen lesiones isquemicas en relacion a la intervencion realizada sobre MAV. Minimo neumoencefalo. Estructuras de linea media centradas.Sistema ventricular discretamente asimetrico, menor el ventriculo lateral izquierdo, sin dilatacion ,con linea  media centrada
+
+
+EVOLUCIÓ CLÍNICA
+El mismo 5/2/17 se decide realizar IQ urgente para evacuación del hematoma. Se informa a la pareja del paciente de los riesgos, beneficios y alternativas a la intervención y da su consentimiento para proceder. Bajo anestesia general se craneotomía fornto-tempo-parietal izda. Al abrir dura se observa parénquima cerebral a tensión con ingurgitación de venas silvianas y corticales. El cortex aparece íntegro. Bajo microsocopio, se realiza corticotomía temporal anterior a través de T2 y se evacua gran hematoma organizado, con lo que el cerebro queda relajado y comienza a latir. Hemostasia minuciosa y cierre por planos segun protocolo habitual. Se recoloca hueso. Se deja drenaje subcutaneo Jackson-Pratt. El procedimiento transcurre sin incidencias.
+Se realiza TC craneal de control postop inmediato que muestra correcta evacuación del hematoma, linea media centrada y simetria del sistema ventricular. El paciente pasa intubado a UCI.
+
+Informe d'alta d'hospitalització
+
+
+
+
+Durante su ingreso en UCI se mantiene hemodinámicamente estable. Se procede a retirada de sedoanalgesia de corta duración, además de extubación el 06/02 con correcta adaptación, obteniendo saturaciones correctas a aire ambiente. Neurológicamente presenta Glasgow 15 con mejoría de hemiparesia derecha pero persistencia de afasia mixta. Se realiza profilaxis antibiótica con cotrimoxazol y anticomicial con levetiracetam. Se retira drenaje subcutaneao y dada la correcta evolución clínica y neurológica, se traslada a planta de Neurocirugía.
+
+Durante su ingreso en planta se completa estudio de la malformacion con resonancia cerebral y nueva arteriografía. Tras explicar detenidamente los hallazgos de dichas pruebas al paciente y su familia, se propone cirugía para resección microquirúrgicade la malformación. Se explican riesgos, beneficios y alternativas y dan su consentimiento oral y escrito para proceder.
+
+El 21/02/2017, bajo anestesia general, se reabre craneotomía realizada el 5/2. Al elevar la plastia de dura se observa fibrosis/adhesion de la misma al cortex temporo-frontal anterior, requiriendo disección microquirúrgica. Una vez elevado el colgajo dural, se inicia disección silviana de proximal a distal. Se identifica gran rama temporo-polar con origen en M1 que se sigue distalmente hasta identificar el nidus malformativo en la superficie
+opercular temporal posterior de la cisura silviana. Parcialmente enrollada con dicha rama arterial, se observa gran vena arterializada que drena hacia seno esfeno-parietal. Se identifica también y se protege la trifurcación de la ACM en la porción más frontal de la cisura. Se clipan dos grandes aferencias de la rama temporo-polar al nidus y se coagulan numerosas aferencias de menor calibre que se originan en la cara inferior de dicha rama. Una vez disecada la superficie opercular de la MAV, se realiza disección circunferencial del nidus mediante corticotomía en T1. En la parte postero-inferior del nidus se observan aferencias profundas que se coagulan, gran vena de drenaje arterializada y formación de tipo aneurismatico de unos 0..5cm intranidal. Se clipan y coagulan ambos drenajes venosos (superficial y anterior hacia seno esfeno-parietal/polo temporal y posterior y profundo hacia silvio). Se realiza arteriografia intraoperatoria que demuestra exeresis completa del nidus malformativo. Cierre segun protocolo habitual. Procedimiento sin incidencias de interes. Se envia nidus malformativo a anatomía patológica.
+Se realiza arteriografía cerebral intraoperatoria que demuestra la exéresis completa del nidus malformativo. El paciente despierta correctamente en quirofano. Pasa a REA para control postop.
+
+Se realiza nuevo TC craneal de control postoperatorio que descarta complicaciones postoperatorias, por lo que el paciente pasa de nuevo a planta de Neurocirugía.
+
+Tras el alta de REA, el paciente ha permanecido afebril y hemodinamicamente estable. No ha presentado deficits motores y la afasia mixta que presentaba ha ido mejorando tras la segunda cirugía. La herida quirúrgica presenta buen aspecto. El paciente tolera via oral y pasea por planta acompañado de la familia. El informe de anatomía patológica confirma la sospecha de malformación arteriovenosa.
+
+Dada la buena evolución, se decide el alta a su domicilio para continuar rehabilitación/logopedia ambulatoria y seguimiento en CCEE.
+
+DIAGNÒSTICS
+Hemorragia intracerebral
+Malformación arteriovenosa silviana izquierda
+
+PROCEDIMENTS
+38.81 Altres oclusions quirúrgiques vasos intracranials. Cerebral, polígon de Willis, artèria comunicant post.
+38.81 Altres oclusions quirúrgiques vasos intracranials. Cerebral, polígon de Willis, artèria comunicant post.
+
+Informe d'alta d'hospitalització
+
+
+
+
+88.91 Imatge per ressonància magnètica de cervell i tronc cerebral
+89.08 Altra consulta
+88.41 Arteriografia d'artèries cerebrals. Artèries: basilar, caròtide (interna), vertebral, cerebral post.
+99.29 Injecció o infusió d'altra substància terapèutica o profilàctica
+38.81 Altres oclusions quirúrgiques vasos intracranials. Cerebral, polígon de Willis, artèria comunicant post.
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+-	Keppra 500mg/vo/8h
+-	Pauta descendente de corticoides:
+-	Fortecortin 2mg/vo/8h durante 3 días
+-	Fortecortin 2mg/vo/12h durante 3 días
+-	Fortecortín 2mg/vo/24h durante 3 días
+-	Fortecortín 1mg/vo/24h durante 3 días y suspender
+-	Omeprazol 20mg/vo/24h mientras dure la pauta descendente de fortecortin
+-	Paracetamol 1gr/vo/8h si precisa por dolor
+-	Si más dolor: alternar con nolotil 2 cap/vo/8h
+-	Curas diarias herida quirúrgica
+
+
+CONTROL
+-	Control en CCEE de Logopedia
+-	Control en CCEE de Neurocirugía (Dra _NAME_) el 6/04/2017 a las 9:30h y previa realización de TC craneal de control segun fecha que se le comunicará debidamente
+-	Control en CCEE de Oftalmología segun fecha y hora que se le comunicará debidamente
+-	Control por su médico de familia
+-	Retirada de puntos de herida quirúrgica en su centro de salud el 7/3/17 (salvo mejor criterio)
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+28.02.2017
+Pàgina 1 de 5

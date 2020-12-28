@@ -1,0 +1,114 @@
+_LOCATION_
+Telèfon: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 50 anys
+NIF/DNI: _ID_Informe d'alta d'hospitalització
+CP	_LOCATION_
+ABS	_SS_
+Servei	NEUROLOGIA
+Data d'alta  05.05.2017	14:29:50
+_LOCATION_
+_CONTACT_; _CONTACT_; _CONTACT_
+DOMICIL/RES.SOC 02.05.2017
+Dr. _NAME_/Dr. _NAME_
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Desviación de comisura bucal
+
+ANTECEDENTS
+Mujer de 50 años, SAMC, ex-fumadora, no otro tóxicos
+Vive con su marido. Natural de _LOCATION_. Independiente, rankin 0.
+
+ANTECEDENTES MÉDICOS
+-	Hipertensión arterial
+-	Obesidad mórbida
+-	Probable migraña en la juventud Cirugías previas: no
+
+MEDICACIÓ HABITUAL
+Enalapril/HCT
+
+PROCÉS ACTUAL
+Hace 5 días refiere clínica de cefalea intensa similar a sus cefaleas previas. Hace 2 días refiere sensación de hipoestesia a nivel de la mejilla izquierda y posteriormente desviación de comisura bucal con alteración del gusto. No clínica neurológica previa ni otra acompañante. No vesículas cutáneas ni dolor en oído.
+No infección previa ni vacunación.
+
+EXPLORACIÓ FÍSICA
+
+Buen estado general. Normocoloreada y normohidratada. AC: Tonos rítmicos sin soplos ni ruidos patológicos.
+AR: Eupneica en reposo. Buena entrada de aire bilateral. MVC sin ruidos sobreañadidos ni trabajo respiratorio. No edemas en EEII. No signos de hipoperfusión distal.
+
+Exploración neurológica: consciente y orientada en los 3 ejes. No afasia ni disartria. No alteraciones oculomotoras ni campimétricas. Paresia facial periférica derecha. Trigémino normal. Resto de pares craneales sin alteraciones. Fuerza, sensiblidad, tono y cooridianción normales. Marcha y estática normal.
+
+EXPLORACIÓ COMPLEMENTÀRIA
+EXPLORACIONES EN URGENCIAS
+
+AS:
+
+Bioquímica: Glucosa: 128 mg/dl; Urea/ Creatinina: 19/ 0,6 mg/dl; Sodio: 134,8 mmol7L; Resto iones
+normales.
+
+Informe d'alta d'hospitalització
+
+
+
+
+Hemograma: Hemoglobina: 14,4 gr/dl; V.C.M normal; Plaquetas normales; Leucocitos normales. Hemostasia sin alteraciones: INR: 1,08
+
+TC Cerebral: exploración sin hallazgos valorables. EXPLORACIONES EN PLANTA DE NEUROLOGÍA
+Analítica de ingreso: VIH negativo. Pte lyme y HTLV RM cerebral: sin alteraciones significativas.
+Estudio neurofisiológico:
+ENG: No existe asimetría significativa en las amplitudes de los potenciales de acción entre nervio facial derecho e izquierdo.
+EMG: No se ha recogido actividad espontánea patológica. Potenciales de unidad motora normales.
+
+EVOLUCIÓ CLÍNICA
+Se trata de una mujer de 50 años con los antecedentes descritos que ingresa para estudio de paresia facial periférica.
+Analítica y TC Craneal en urgencias sin alteraciones significativas.
+
+Durante su ingreso en planta de neurología se mantiene hemodinámicamente estable.
+A la exploración neurológica no focalidades salvo la paresia facial. Presenta cefalea que responde a analgesia convencional.
+Para estudio etiológico se realiza analítica con serologías que está pendiente. La RM cerebral no muestra alteraciones y el EMG realizado de forma temprana no muestra alteraciones.
+No presenta complicaciones durante el ingreso.
+
+Se orienta el caso como paresia facial periférica probablemente idiopática y, debido a estabilidad clíníca y hemodinámica se decide alta y tratamiento con corticoides en dosis descendentes.
+Control en Consultas externas de neurología.
+Pte de lyme y HTLV y nuevo control EMG en 3 semanas.
+
+DIAGNÒSTICS
+-	Paresia facial perfiférica derecha
+-	Hipertensión Arterial
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+-	Dacortin 30mg
+2 comprimidos cada 24h durante 1 semana 1 comprido cada 24h durante 1 semana
+2/3 comprimido cada 24h durante 1 semana 1/3 comprimido cada 24h durante 1 semana STOP
+-	Hidroxil 1 comp/24h
+-	Cierro ocular nocturno
+-	
+Informe d'alta d'hospitalització
+
+
+
+
+-	Lágrimas artificiales
+-	Proteger frente a úlceras corneales
+-	Nolotil 1 comp si dolor
+
+-	Resto de su medicación sin cambios
+
+CONTROL
+Control en consultas externas de neurología Control de EMG en 3 semanas
+Pte de Lyme y HTLV
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+05.05.2017
+Pàgina 1 de 3

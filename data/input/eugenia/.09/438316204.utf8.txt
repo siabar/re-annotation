@@ -1,0 +1,104 @@
+_LOCATION_
+_LOCATION_) Anul·lació/Reprogramació visites:_CONTACT_
+Telèfon Centraleta: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 76 Anys
+NIF/DNI: _ID__NAME_; _NAME_;
+_NAME_.
+Informe d'alta d'hospitalització
+09:00:52
+07.11.2017
+_LOCATION_
+_SS_ - NEUROLOGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_; _CONTACT_
+DOMICIL/RES.SOC 04.11.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Ictus vertebrobasilar.
+
+ANTECEDENTS
+No AMC.
+No hábitos tóxicos. HTA en tto.
+ACxFA permanente,  portadora de doble protesis mecánica aórtica y mitral (1997), en tratamiento con Sintrom. Bloqueo rama derecha.
+IQx: plastias vaginales por enterocele (2012), IQx valvular 1997. mRankin 0. Vive con esposo.
+
+MEDICACIÓ HABITUAL
+Carvedilol 25 mg/12 horas,  Digoxina  0.25 mg cada 48 horas,  Enalapril 5 mg cada  día,  furosemida 40 mg cada día, paracetamol 1 gr cada dia, Sintrom según pauta
+
+PROCÉS ACTUAL
+El 04/11 a las 13h presenciado por familiar y estando previmente asintomática presenta en domicilio cuadro de vértigo con alteración del lenguaje compatible con disartria por lo que los familiares cogen a la paciente para evitar caída y la colocan en el sofá. Se avisa al SEM a las 13:24h. A la llegada del SEM en domicilio TA 173/65, DTC112. RACE 8. Se activa código ictus contactando con neurovascular de guardia, siendo randomizada  en estudio RACECAT (nº300) y derivada al _SS_ para valoración. Se contacta con NRL _SS_ a las 13.57h. A su llegada al _SS_ a las 15.33h, TA 130/117mmHg, FC 93 lpm, DTX 179, SatO2 98%, Coagulchek 1.1.Paciente vómita. Presenta relajación de esfínteres. NRL: consciente, orientada en TEP, disartria moderada (1), lenguaje conservado, cumple órdenes simples, difícil valoración campimtería pero impresiona de HHD (2) por amenaza, dificultad para dirigir la mirada con limitación ABD OD, dificultad para la fijación-convergencia (1), con nistagmus vertical, asimetría facial izquierda (1), resto ppcc conservados, hemipresia leve izquierda BC 5-/5, hiposensibilidad ESI (1), desaferentización ESI con dismtería dedo-nariz izquierda (1), RCP extensor izquierdo. NIHSS 7. TC craneal 16.03h. EECC/ TC craneal/angioTC: infarto esteblecido en hemisferio cerebeloso izquierdo y mesencéfalo. Dudosa estenosis/oclusión P2 derecha aunque hay repermeabilización distal. No se identifica ACS izquierda. (pendiente informe radiología).
+A la revaloración tras realización Tc craneal, la paciente presenta empeoramiento del nivel de consciencia con tendencia a la somnolencia, disartria severa, mayo desaferentización ESI con postura en flexión ambos brazos y manos.
+
+Se orienta como Ictus vertebrobasilar (mesencéfalo-hemisferio cerebeloso superior izquierdo) con posible oclusión ACS izquierda, y dudosa estenosis-oclusión P2 ACP derecha. Probable etiología cardioembólica (INR 1.2). No se realiza trombolisis por infarto extenso establecido en cerebelo y mesencéfalo. No se realiza trombectomía por ausencia de oclusión de gran vaso.
+
+Se inicia anticoagulación con heparina sódica. Ingresa en unidad ictus.
+
+Informe d'alta d'hospitalització
+
+
+
+
+EXPLORACIÓ FÍSICA
+
+FC	72 bpm
+Tªaxi 36.2 ºC
+FR	16 rpm Tªrec  ºC
+TA s	130 mmHg SAT O2  %
+TA d   80 mmHg Pes Kg
+
+TA 130/80mmHg, FC 72lpm, afebril.
+Consciente, orientada en  TEP, disartria moderada (1), lenguaje conservado, cumple órdenes simples, difícil valoración campimtería pero impresiona de HHD (2) por amenaza, dificultad para dirigir la mirada con limitación ABD OD, dificultad para la fijación-convergencia (1), con nistagmus vertical, asimetría facial izquierda (1), resto ppcc conservados, hemiparesia leve izquierda BC 5-/5, hiposensibilidad ESI (1), desaferentización ESI con dismetría dedo-nariz izquierda (1), RCP extensor izquierdo. NIHSS 7.
+
+EXPLORACIÓ COMPLEMENTÀRIA
+Exploraciones Complementarias en Urgencias:
+-Analítica: hiperglucemia 9.3 mmol/l, urea 9.0 mmol/ol, creatinian normal, Na 134 mmol/l, K normal,9.3 mmol/l, urea 9.0 mmol/ol, creatinian normal, Na 134 mmol/l, K normal, TP 1.22, leucocitosis 12.200 neutrofilica, resto normal.
+-ECG: Ac x FA permanente, bloqueo de rama derecha conocido.
+-Rx tórax: ICT < 0,5 sin condensaciones.
+-TAC craneal y angioTAC: Probable infarto agudo-subagudo centrado en mesencéfalo y en  la porción más superior del hemisferio cerebeloso izquierdo en territorio de arteria cerebelosa superior.No se identifica correctamente la arteria cerebelosa superior izquierda tras su inicio donde se encuentra permeable (lo que sugiere oclusión) ni una parte media del segmento P2 de la ACP derecha, aunque es visible distalmente
+
+EVOLUCIÓ CLÍNICA
+Mujer de 73 años, HTA,  ACxFA  permanente y portadora de doble válcula mecánica que ingresa en unidad de ictus por infarto mesencefálico y en territorio de arteria cerebelosa superior izquierda, con NIHSS inicial de 7 y sin tratamiento en fase aguda por  lesión establecida y  ausencia de oclusión de gran vaso en angioTAC.
+
+Etiología cardioembólica en contexto de INR infraterapéutico,  ahora en tratamiento con heparina sódica.
+
+Durante su estancia en unidad de ictus ha mostrado tendencia a la mejoría, a la exploración actual se encuentra despierta, orientada, con  limitación superior de la mirada (1) y nistagmus vertical leve,  sin HH, pupilas normoreactivas, disartria leve-moderada (2),  PFSN I  leve (1)  y dismetría 1 al dedo nariz (1)  con sensibilidad conservada, sin signos de corticalidad  NIHSS 5.
+
+Tolera via oral y se ha iniciado sedestación. Se realiza  IC a hemostasia para paso a anticoagulación oral y rehabilitación.  No RMN por  ser portadora de válvula mecánica.
+
+Se envía informe a _SS_ por sectorización aceptándose traslado a día 06.11.17 .
+
+
+DIAGNÒSTICS
+436/5 Ictus
+
+Informe d'alta d'hospitalització
+
+
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Se adjunta.
+
+CONTROL
+Control por NRL de zona.
+
+DESTINACIÓ A L'ALTA:	HOSP. AGUTS/PSQ
+
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+07.11.2017
+Pàgina 1 de 3

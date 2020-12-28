@@ -1,0 +1,172 @@
+_LOCATION_ Tel. _CONTACT_
+e-mail: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 47 Anys
+NIF/DNI: _ID__NAME_; _NAME_;
+ _NAME_; _NAME_
+Informe d'alta d'hospitalització
+12:24:37
+03.06.2017
+_LOCATION_
+_SS_ NEUROCIRURGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_; _CONTACT_; _CONTACT_
+DOMICIL/RES.SOC 04.05.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Paciente que ingresa el 22.05.17 para optimizacion funcional de sus deficits secundarios a  hemorragia cerebelosa izquierda del 04.05.17 que se intervino quirurgicamente de urgencia ese mismo dia con colocación de sensor de presión intracranial intraventricular Twist Drill frontal, Craneotomia descompresiva, Lobotomia y tractotomia. División tejido cerebral, tractes cerebrales; cingulotomia percutània, via suboccipital sin incidencias.
+
+ANTECEDENTS
+Alergias: Sin alergias conocidas Hipertensión esencial inespecificada.
+
+Funcionalidad Previa : Vive en _LOCATION_ con esposo e hijo en piso con BBAA. 2º sin ascensor.Independiente para ABVD. Barthel 100 Rankin  0 . Laboralmente activa trabaja en gasolinera.
+
+MEDICACIÓ HABITUAL
+Enalapril 10 mg / 24 h
+
+PROCÉS ACTUAL
+Estando asintomatica el dia 04.05.17 a las 9.30 H presenta de forma subita cefalea de gran intensidad y sensación de mareo. Via SEM es derivada a _SS_ donde se realiza TAC craneal que muestra hematoma cerebeloso izquierdo de 3.8cm de diàmetro màximo, con invasión de territori posterior y compresión de IV ventriculo, se administra dexametasona + nolotil y se deriva a nuestro centro.
+
+A su llegada se repite TAC craneal que muestra hematoma cerebeloso izquierdo de 4x3cm de diàmetro con efecto de masa. Dado que presenta leve empeoramiento neurològico con somnolencia y dado el tamaño del hematoma, se decide conjuntamente con neurocirugia proceder a la evacuación del hematoma con craniectomia descompresiva, se informa a la familia. El dia 04.05.17 se hace drenaje quirurgico mas colocación de sensor de presión intracranial intraventricular Twist Drill frontal, Craneotomia descompresiva, Lobotomia y tractotomia. División tejido cerebral, tractes cerebrales; cingulotomia percutània, via suboccipital.
+
+Por tendencia a hipertensión arterial se administra 3 bolus de labetalol 10mg y  posteriormente perfusión continua. Pasa a cargo del servicio de Rehabilitacion tras buena evolucion clinica post quirurgica.
+
+EXPLORACIÓ FÍSICA
+
+EXP: FÍSICA A URG: PAS160 , PAD 88 mmHg // Temperatura:36 ºC // NIHSS total de 4   (10010/00000/10010 ) Regular estat general.
+Somnolento, Glasgow 14, orientada, pupil.les isocòriques, nistagmus horizonto-rotatori en totes les direccions de la mirada, sense paresia oculomotra, sense dèfcit campimètric, sense parèsia facial, debilitat distal de ma esquerre i lleu dismetria braç i cama esquerres.
+
+Informe d'alta d'hospitalització
+
+
+
+
+EXPLORACIÓ FÍSICA AL INGRESO EN REHABILITACION 22.05.17 :
+
+Paciente consciente y orientada en las tres esferas , no elementos afásicos, no disartria, memoria conservada, facies inexpresiva, no trastorno campimétrico por confrontación, oculomotricidad sin alteración, muy leve paresia facial central izquierda, no alteración de pares craneales bajos , no disfagia , no trastorno de sensibilidad superficial ni profunda . BM MMSS 4+/5 global.MID 5/5 . MII : Paresia (3/5). MiIller Fisher mano izquierda. RCP extensor izquierdo. No dismetría dedo nariz ni talon rodilla. Sedesta con buen control de tronco. No intento bipedestación ni marcha.
+
+
+EXPLORACIÓ COMPLEMENTÀRIA
+TC cranial sin contraste 04.05.17: URGENTE: TC craneal realizado después de angio-TC de troncos supraaórticos e intracraneal. Restos de contraste endovenoso. Lesión parenquimatosa cerebelosa izquierda, hiperdensa, de 43 x 41 mm de diámetros anteroposterior y latero-lateral, de márgenes bien definidos, lobulados, que puede corresponder a lesión hemorrágica aguda. Leve edema vasogénico perilesional y efecto masa sobre cuarto ventrículo completamente obliterado y sobre cisternas basales y perimesencefálicas completamente obliteradas. Muy leve aumento del tamaño del sistema ventricular, tetraventricular, a expensas de ventrículos laterales y tercer ventrículo, compatible con hidrocefalia obstructiva inicial. Sin otros hallazgos TC valorables. Angio-TC TSA y craneal. Correcta permeabilidad de los vasos arteriales cervicales y de los vasos arteriales y venosos craneales. No se observan imágenes sospechosas de aneurisma ni malformación arteriovenosa.
+
+TAC Craneal 05.05.17 : Se compara con TC previo del dia 04/05/2017 : Se observan cambios post-cirugia de evacuacíon practicamente completa del hematoma cerebeloso izquierdo mediante craniectomia suboccipital y colocacíon de sensor PIC ventricular via craneostomia frontal derecha , con neumoéncefalo en el lecho quirúrgico y alguna burbuja en el asta frontal del VLD. Persitencia del efecto masa sobre cuarto ventrículo completamente obliterado y sobre cisternas basales y perimesencefálicas , que siguen completamente obliteradas. Disminucíon del tamaño del sistema ventricular respecto a TC previa. Disminucíon del hematoma subdural tentorial , con predominio izquierdo. Sin otros hallazgos TC valorables.
+
+Angio RMN 09.05.17: La exploración pone de manifiesto: Como variante anatómica d ela normalidad s eobserva una AICA-PICA izquierda. Cambios postquirúrgicos con craniectomía suboccipital y resección del arco posterior de la primera vértebra cervical. Aneurisma sacular paraoftálmico derecho con un cuello de 1.1mm y un diámetro máximo del saco de 1.1 mm. Aneurisma sacular paraoftálmico izquierdo con un cuello de 3.13 mm y unos diámetros del saco de 3.22 x 2.37mm. Aneurisma sacular paraoftálmico izquierdo, en la cara ínfero-medial, con un cuello de 1.84 mm y unos diámetros del saco de 1.61 x 1.64 mm. La exploración no muestra signos o imágenes que sugieran la presencia de otros neurismas, malformaciones, u otras lesiones vasculares.
+
+CONCLUSIÓN:
+1.	Aneurisma sacular paraoftálmico derecho.
+2.	Aneurisma sacular paraoftálmico izquierdo.
+3.	Aneurisma sacular paraoftálmico izquierdo, en la cara ínfero-medial. 4. No se objetivan lesiones vasculares que puedan explicar el hematoma cerebelosos.
+
+TAC Craneal 10.05.17 : Control evolutivo en paciente con antecedentes de hematoma cerebeloso izquierdo, intervenida quirúrgicamente. Craniectomía occipital. Seudo meningocele en el lecho quirúrgico de la craniectomía. Mínimo neumoencéfalo. Hipoatenuación cerebelosa izquierda compatible con hematoma en resolución. Mínima hemorragia subdural aguda tentorial. Mínima HSA en fosa posterior. Mínimos  cambios hemorrágicos agudos
+
+Informe d'alta d'hospitalització
+
+
+
+
+parenquimatosos cerebelosos izquierdos. No se observa hidrocefalia. Cambios postquirúrgicos en calota craneal frontal derecha y en localización.
+
+Analiticas 20.05.17 : Hemograma: Leucocitos: 10300 (N: 67 %, L: 21%, M: 8 %)  Hto: 35.7% . Hb  11,7 g/dl,
+plaquetas: 513.000
+Coagulación:  INR 1,22. Bioquímica:  Glucosa; 91 mg/dl , Urea: 28,7 mg/dl,  Cr: 0.64 mg/dl,  Na: 132.3 mmol/L, K:
+4.2 mmol/L, PCR: 4.90 mg/L
+
+Urocultivo 20.05.17 :  Se aislan  de 10000 a 50000 UFC de Pseudomona putida sensible a amikacina y colistina. Resistente a otros antibioticos.
+
+Analiticas 23.05.17 : Hemograma: Leucocitos: 11000 (N: 77 %, L: 13%, M: 7 %)  Hto: 34.9% . Hb  11,6 g/dl,
+Plaquetas: 391000
+Coagulación:  INR 1,27. Bioquímica: Glucosa 129 mg/dl , Urea: 23 mg/dl, Cr: 0.61 mg/dl, Na: 130 mmol/L, K: 3,8 mmol/L, PCR: 26.60 mg/L. Granulaciones toxicas + . Anisotrombia + . Troponinas 3,1 (negativas).
+
+TAC craneal simple 23.05.17 : No se observan lesiones isquémicas  ni hemorrágicas agudas. Craniectomía occipital bilateral. Pseudomeningocele occipital en la linea media. Área de encefalomalacia en zona interhemisfércia cerebelosa secundaria a hematoma intraparenquimatoso en hemisferio cerebeloso izquierdo intervenido según historia clínica. Cisternas basales y perimesencefálicas libres. Sistema ventricular simétrico de tamaño y morfología preservados. Línea media centrada. No otras lesiones óseas TC valorables. Sin otras alteraciones intra ni extraxiales TC valorables.
+
+Analiticas 25.05.17 : Hemograma: Leucocitos: 9000 (N: 51 %, L: 27%, M: 10 %)  Hto: 34.5% . Hb  11,6 g/dl,
+plaquetas: 319.000
+Bioquímica:  Glucosa; 80 mg/dl , Urea: 21 mg/dl,  Cr: 0.57 mg/dl,  Na: 133.7 mmol/L, K: 4,33 mmol/L, PCR: 46,8 mg/L
+
+Analiticas 29.05.17 : Hemograma: Leucocitos: 8900 (N: 44 %, L: 34%, M: 8 %, Eos 12%)  Hto: 34,8 % . Hb
+11,2 g/dl, plaquetas: 278 .000 . Bioquímica:  Glucosa 90 mg/dl , Urea: 25 mg/dl,  Cr: 0.57 mg/dl,  Na: 135.8 mmol/L, K: 4,88 mmol/L, PCR: 24,4 mg/L
+
+LCR del 29.05.17 : Celularidad : 218. Eritrocitos 80. Leucocitos 138 cel / mm3 (72 % mononuclears, 28% polimorfos). Proteinas 1.16 g/L. Glucosa 33 mg/dL. GRAM: No se observan microorganisms en el Gram, pendiente cultivo.
+
+EVOLUCIÓ CLÍNICA
+Paciente de 47 años que el dia 04.05.17 presenta hematoma cerebeloso izquierdo de 4x3cm con efecto de masa , dado que presenta somnolencia se decide proceder a la evacuación del hematoma el mismo dia. Precisa bolos de Labetalol para contrl de cifras  tensionales.
+
+Presenta evolucion favorable de la clinica con mejoria de paresia braquial derecha y de la clinica de mareo e inestabilidad.
+
+Se realiza TAC de control con resolucion del hematoma y RMN con aneurismas saculares.
+
+Informe d'alta d'hospitalització
+
+
+
+
+
+Durante su estada presenta infeccion urinaria que se trata con antibioterapia empirica con  amoxicilina acidso clavulanico EV desde el dia 20.5.17 y manifiesta picores vaginales por lo que se interconsulta a Ginecologia.
+
+El dia 23.05.17 presenta mareo con traumatismo en la cabeza , segun refiere familiar que la estaba duchando. Se realiza TAC urgente en el que no se observan sangrado ni  lesion aguda .
+
+Valorada por Ginecologia el dia 24.05.17 por prurito vaginal con orientacion diagnostica de candidiasis , pautado Laurimic ovulo y crema por 7 dias.
+
+Valorada por Endocrinologia el dia 25.05.17 por SIADH , de momento no requiere sellos de sal por analiticas en parametros aceptables.
+
+Valorada por UMI por urocultivo positivo para Pseudomona putida tratada con amoxicilina acido clavulanico EV hasta el dia 26.05.17 .
+
+Por persistencia de la clinica de astenia y temperatura persistentemente elevada con febricula , se hace Puncion lumbar el 29.05.17 de la que se obtiene celularidad con predominio mononucleares (72%) .  Se inicia vancomicina mas ceftazidima ese mismo dia presentando reaccion de hombre rojo atribuible a vancomicina por lo que se suspende durante la primera dosis. El dia 30.05.17 se inicia linezolid asociado a ceftazidima y se comenta con servicio de Neurocirugia para cambio de servicio que se acepta , por sospecha de meningitis post IQ.
+
+EF al alta del servicio de Rehabilitacion 30.05.17 :
+
+TA 102 / 68  mmHg . FC 73   x´.  Tº 37,1 ºC .  Sat O2:  99  %.	Glicemia 101 mg/dl.
+NRL: Despierta, importante astenia, no alteraciones del habla ni del lenguaje,  presenta voz escandida, no disfagia, no paresia facial.  No alteraciones campimetrícas. Mirada centrada, convergente. No nistagmus. No dismetrias.
+BM MMSS : EESS 4+/5 global . EESS 4+/5 global.
+Equilibrio : tolera sedestación con buen equilibrio del tronco . Control de esfínter vesical y anal.
+
+Reingresa en planta de NCR descartándose origen bacteriana de la meningitis, de causa aséptica post-quirúrgica. Dada la no necesidad de antibioterapia y la buena evolución clínica, es dada de alta con normas específicas de reconsulta y con seguimiento en CCEE de NCR.
+
+DIAGNÒSTICS
+1. Hematoma cerebeloso  izquierdo.	
+2.	Hipertensión arterial
+3.	Fumadora
+4.	Infeccion urinaria
+5.	Candidiasis vaginal.
+Sospecha de meningitis aseptica post IQ		
+PROCEDIMENTS		
+04.05.17  Colocación  de  sensor  de  presión  intracranial	intraventricular  Twist  Drill  frontal,	Craneotomia
+
+Informe d'alta d'hospitalització
+
+
+
+
+descompresiva, Lobotomia y tractotomia. División tejido cerebral, tractes cerebrales; cingulotomia percutània, via suboccipital.
+
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Enalapril 10 mg cada 24 horas.
+Omeprazol 20 mg cada 24 horas Laurimic crema 3 v al dia durante 7 dias. Paracetamol 650 mg c/ 8 h segun dolor. Nolotil  caps c/8 h segun dolor.
+Dexametasona
+2-0-2 mg druante 3 dias
+2-0-0 mg durante 3 dias STOP
+
+CONTROL
+Control  CEXT RHB  Dra _NAME_.
+Control CEXT NeuroCx  por el Dr _NAME_ el dia 16.06 a las 8:50. Control con su Médico de Cabecera.
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+03.06.2017
+Pàgina 1 de 5

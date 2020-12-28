@@ -1,0 +1,149 @@
+T0	HORA 219 224	19:45
+#0	AnnotatorNotes T0	19:45
+T1	FECHA 228 238	12.11.2017
+#1	AnnotatorNotes T1	2017-11-12
+T2	FECHA 346 356	30.10.2017
+#2	AnnotatorNotes T2	2017-10-30
+T3	SECCION_MOTIVO_DE_INGRESO 410 424	MOTIU D'INGRÉS
+T4	_SUG_Lateralizacion 482 491	izquierda
+T5	SECCION_ANTECEDENTES 494 505	ANTECEDENTS
+T6	_SUG_Etiologia 626 638	Hipertensión
+T7	_SUG_Etiologia 719 728	Aneurisma
+T8	FECHA 758 770	octubre 2016
+#8	AnnotatorNotes T8	2016-10-UNDEF-day
+T9	_SUG_Etiologia 811 820	aneurisma
+T10	_SUG_Lateralizacion 1019 1026	derecho
+T11	FECHA 1412 1429	diciembre de 2014
+#11	AnnotatorNotes T11	2014-12-UNDEF-day
+T12	_SUG_TAC_craneal 1431 1433	TC
+T13	FECHA 1440 1449	mayo 2014
+#13	AnnotatorNotes T13	2014-05-UNDEF-day
+T14	FECHA 1711 1719	02.12.16
+#14	AnnotatorNotes T14	2016-12-02
+T15	FECHA 1846 1858	Octubre 2016
+#15	AnnotatorNotes T15	2016-10-UNDEF-day
+T16	_SUG_Etiologia 2152 2165	indeterminado
+T17	SECCION_TRATAMIENTO_HABITUAL 2753 2771	MEDICACIÓ HABITUAL
+T18	_SUG_Tratamiento_antiagregante_alta 2772 2777	Adiro
+T19	_SUG_Tratamiento_antiagregante_hab 2772 2777	Adiro
+T20	SECCION_PROCESO_ACTUAL 2915 2928	PROCÉS ACTUAL
+T21	_SUG_Etiologia 2987 2996	aneurisma
+T22	FECHA 3168 3180	octubre 2016
+#22	AnnotatorNotes T22	2016-10-UNDEF-day
+T23	_SUG_TAC_craneal 3200 3202	TC
+T24	_SUG_mRankin_alta 3217 3222	mRS 2
+T25	_SUG_mRankin_previa 3217 3222	mRS 2
+T26	HORA 3243 3247	8.30
+#26	AnnotatorNotes T26	08:30
+T27	FECHA 3258 3266	30.10.17
+#27	AnnotatorNotes T27	2017-10-30
+T28	_SUG_Lateralizacion 3315 3324	izquierda
+T29	_SUG_Ictus_isquemico 3534 3539	ictus
+T30	_SUG_TAC_craneal 3762 3764	TC
+T31	_SUG_Ictus_isquemico 3793 3798	ictus
+T32	_SUG_TAC_craneal 3837 3847	TC craneal
+T33	_SUG_ASPECTS 3871 3881	ASPECTS 10
+T34	_SUG_Etiologia 3985 3994	aneurisma
+T35	_SUG_Trombolisis_intravenosa 4090 4094	rTPA
+T36	HORA 4106 4111	10.24
+#36	AnnotatorNotes T36	10:24
+T37	_SUG_Localizacion 4126 4135	posterior
+T38	_SUG_Arteria_afectada 4216 4218	M1
+T39	SECCION_EXPLORACION_FISICA 4313 4330	EXPLORACIÓ FÍSICA
+T40	_SUG_Lateralizacion 4923 4930	derecha
+T41	_SUG_Lateralizacion 4956 4963	derecha
+T42	_SUG_Lateralizacion 5027 5036	izquierda
+T43	_SUG_Lateralizacion 5075 5084	izquierda
+T44	SECCION_EXPLORACION_FISICA_EN_URGENCIAS 5141 5159	Exploración en UCI
+T45	_SUG_Etiologia 5244 5256	hipertensión
+T46	_SUG_Lateralizacion 5646 5653	derecho
+T47	_SUG_Ictus_isquemico 5720 5725	Ictus
+T48	FECHA 5737 5741	6/11
+#48	AnnotatorNotes T48	2017-11-06
+T49	_SUG_Lateralizacion 6020 6023	Izq
+T50	_SUG_Lateralizacion 6024 6025	D
+T51	_SUG_Lateralizacion 6087 6096	izquierda
+T52	_SUG_Lateralizacion 6261 6270	izquierda
+T53	_SUG_Lateralizacion 6310 6319	izquierda
+T54	_SUG_Lateralizacion 6347 6356	izquierda
+T55	_SUG_Lateralizacion 6398 6407	izquierda
+T56	_SUG_NIHSS_alta 6409 6417	NIHSS 14
+T57	_SUG_NIHSS_previa 6409 6417	NIHSS 14
+T58	SECCION_EXPLORACION_FISICA_DURANTE_HOSPITALIZACION 6419 6454	Exploración planta de Neurovascular
+T59	SECCION_EXPLORACIONES_COMPLEMENTARIAS 6479 6504	EXPLORACIÓ COMPLEMENTÀRIA
+T60	FECHA 6518 6523	30/10
+#60	AnnotatorNotes T60	2017-10-30
+T61	_SUG_TAC_craneal 6926 6928	TC
+T62	_SUG_TAC_craneal 6953 6963	TC craneal
+T63	_SUG_ASPECTS 7029 7042	ASPECTS 10/10
+T64	_SUG_TAC_craneal 7045 7047	TC
+T65	_SUG_Localizacion 7118 7126	profundo
+T66	_SUG_Arteria_afectada 7130 7133	ACM
+T67	_SUG_Lateralizacion 7134 7141	derecha
+T68	_SUG_Arteria_afectada 7205 7207	M1
+T69	_SUG_Lateralizacion 7227 7234	derecha
+T70	_SUG_TAC_craneal 7291 7301	TC Craneal
+T71	_SUG_TAC_craneal 7557 7559	TC
+T72	FECHA 7560 7565	07/11
+#72	AnnotatorNotes T72	2017-11-07
+T73	_SUG_Localizacion 7734 7745	ventricular
+T74	_SUG_Localizacion 7895 7905	corticales
+T75	_SUG_Localizacion 7971 7979	cortical
+T76	_SUG_Lateralizacion 8058 8065	derecho
+T77	_SUG_Localizacion 8156 8166	cerebeloso
+T78	_SUG_Lateralizacion 8173 8192	tronco cerebral sin
+T79	_SUG_Localizacion 8173 8179	tronco
+T80	_SUG_TAC_craneal 8301 8311	TC cranial
+T81	FECHA 8328 8338	07.11.2017
+#81	AnnotatorNotes T81	2017-11-07
+T82	HORA 8340 8345	12:13
+#82	AnnotatorNotes T82	12:13
+T83	_SUG_TAC_craneal 8358 8360	TC
+T84	_SUG_Lateralizacion 8424 8431	derecha
+T85	_SUG_Etiologia 8648 8657	aneurisma
+T86	FECHA 8780 8785	08/11
+#86	AnnotatorNotes T86	2017-11-08
+T87	_SUG_TAC_craneal 9327 9329	TC
+T88	FECHA 9345 9355	08.11.2017
+#88	AnnotatorNotes T88	2017-11-08
+T89	_SUG_Lateralizacion 9395 9402	derecho
+T90	_SUG_Lateralizacion 9545 9552	derecho
+T91	SECCION_EVOLUCION 9577 9593	EVOLUCIÓ CLÍNICA
+T92	_SUG_Lateralizacion 9835 9844	izquierda
+T93	_SUG_TAC_craneal 10344 10354	TC craneal
+T94	_SUG_TAC_craneal 10576 10586	TC craneal
+T95	_SUG_ASPECTS 10610 10620	ASPECTS 10
+T96	_SUG_Etiologia 10724 10733	aneurisma
+T97	_SUG_Trombolisis_intravenosa 10829 10833	rTPA
+T98	HORA 10845 10850	10.24
+#98	AnnotatorNotes T98	10:24
+T99	_SUG_Localizacion 10865 10874	posterior
+T100	_SUG_Arteria_afectada 10955 10957	M1
+T101	HORA 11214 11219	11:05
+#101	AnnotatorNotes T101	11:05
+T102	_SUG_Localizacion 11356 11365	posterior
+T103	HORA 11443 11448	12:30
+#103	AnnotatorNotes T103	12:30
+T104	_SUG_NIHSS_alta 11524 11532	NIHSS 18
+T105	_SUG_NIHSS_previa 11524 11532	NIHSS 18
+T106	_SUG_TAC_craneal 12428 12430	TC
+T107	_SUG_Etiologia 12614 12623	aneurisma
+T108	_SUG_Etiologia 12893 12902	aneurisma
+T109	_SUG_Lateralizacion 13088 13097	izquierda
+T110	_SUG_Etiologia 13442 13451	aneurisma
+T111	_SUG_NIHSS_alta 13863 13873	NIHSS 11+1
+T112	_SUG_NIHSS_previa 13863 13873	NIHSS 11+1
+T113	FECHA 14027 14032	12.11
+#113	AnnotatorNotes T113	2017-11-12
+T114	_SUG_Localizacion 14638 14649	posteriores
+T115	SECCION_DIAGNOSTICOS 14888 14899	DIAGNÒSTICS
+T116	_SUG_Ictus_isquemico 14901 14906	Ictus
+T117	_SUG_Arteria_afectada 14908 14911	ACM
+T118	_SUG_Lateralizacion 14913 14920	derecha
+T119	_SUG_Etiologia 14937 14951	cardioembólica
+T120	_SUG_Trombolisis_intravenosa 14974 14986	Fibrinolisis
+T121	_SUG_Trombolisis_intravenosa 15009 15013	rtpa
+T122	_SUG_Trombectomia_mecanica 15017 15029	Trombectomía
+T123	SECCION_TRATAMIENTO_Y_RECOMENDACIONES_AL_ALTA 15338 15373	TRACTAMENT I RECOMANACIONS A L'ALTA
+T124	FECHA 15453 15463	12.11.2017
+#124	AnnotatorNotes T124	2017-11-12

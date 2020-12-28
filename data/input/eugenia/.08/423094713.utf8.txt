@@ -1,0 +1,147 @@
+
+INFORME DE ALTA
+Medicina Interna. Unidad de neurología. Unidad de Ictus.
+
+
+
+Paciente: _NAME_
+
+
+Número de historia clínica: _ID_
+
+
+Fecha de nacimiento y sexo: _DATE_ HOME	Edad: 72 Régimen económico:  CatSalut-Propi CIP: _ID_	ABS/CAP:		Médico de cabecera: Dirección: _LOCATION_  Teléfono: _CONTACT_
+Fecha ingreso servicio: 25/09/2017	Fecha alta servicio: Data alta servei
+
+
+Fecha ingreso hospitalización: 25/9/2017	Fecha alta hospitalización: 27/9/2017
+
+
+
+Paciente varón de 72 a que el día 24/9 a las 17:00 h presenta déficit motor crural derecho con paresia facial derecha. Acude a UCIAS vis SEM ( 171164525) sin preaviso. Se activa el código ictus al demostrarse NIHSS 4 (déficit sensitivo motor derecho).
+Tras comentar el caso vía Teleictus, se desestima trombolisis por mejoría parcial de los síntomas (NIHSS 2) TA 108/62, fc 70, afebril.
+Vigil, orientado, lenguaje normal, no disartria. Paresia facial central derecha, resto de PPCC y campimetría normal. Fuerza paresia braquial derecha distal 4+/5
+Sensibilidad normal RMP 2/5
+RCP flexor bilateral
+
+NIHSS 2
+
+Se completa el estudio arterial extra e intracraneal que descarta estenosis significativa. Durante el estudio se objetiva ritmo cardiaco bigeminado, por lo que se decide ingreso para completar estudio con ecocardiografia y Holter-ECG
+
+ANTECEDENTES
+
+
+No AMC
+NO hábitos tóxicos HTA
+DM tipo 2 insulinizada. Retinopatia. No claudicación intermitente, no nefropatía ni clínica de PNP DLP
+NO crisis gotosa ni antecedente de hiperuricemia SAOS con CPAP
+Prostatismo no estudiado (nicturia 1-2 epi)
+EVC hace 20 a, en forma de déficit sensitivo motor derecho, de varios días de duración. Hace unos 10 a nuevo episodio de las mismas características, pero de 30 min de duración. Nunca seguimiento en Neurología.
+IQ: fractura de la mano derecha. Hernia abdominal.
+Temblor postural desde la juventud. Catalogado como temblor esencial y tratameinto con sumial.
+TTO. Indapamida 1,5 mg/dia , secalip 145, lantus 12 unidades /dia, dafiro 10/160 1 comp /dia, sumial 10 mg/12h, Janumet 1/12, atorvasstaina 40, Tromalyt 300, glucobay 100/8h
+
+ANTECEDENTES FAMILARES
+No antecedentes familiares de EVC, TVP o cardiopatia isquémica Hijo con temblor
+
+Exploración física
+
+
+
+
+Constantes. T.arterial:  118/60	. Pulso: 80	x'. Tªax:  36  ºC
+Exploración neurológica:  pupilas discoricas por faquectomia, MOE normal, campimetria normal. Paresia facial central derecha, resto de PPCC normales.
+Fuerza y sensibilidad normal. Habla y lenguaje normal.
+
+Test de disfagia: superado Rankin 1	NIHSS (ingreso):	2
+
+
+Pruebas complementarias realizadas
+
+
+o	Analítica (ingreso): UREA: 38 mg/dL.
+CREATININI: 1,2 mg/dL.
+COLESTEROL: 119 mg/dL.
+TRIGLICÈRID: 88 mg/dL.
+ASPARTAT AMINOTRANSFERASA(AST): 22 UI/L 37C. ALANINA AMINOTRANSFERASA (ALT): 18 UI/L 37C. FOSFATASA ALCALINA: 32 UI/L 37C.
+G-GLUTAMILTRANSFERASA (GGT): 13 UI/L 37C. BILIRRUBINA TOTAL: ,3 mg/dL.
+HDL-COLESTEROL: 37 mg/dL; COLESTEROL LDL: 64 mg/dL. PROTEÏNA: 6,5 g/dL.
+ALBÚMINA: 4,3 g/dL.
+TIROTROPINA (TSH): 1,49 mcUI/mL. AG.PROSTÀTIC ESPECÍFIC (PSA): 0,38 ng/mL. T.PROTROMBINA-RAÒ: 0,97.
+T.TROMBOPLASTINA -RAÒ: 0,97.
+IONOGRAMA/sèrum:
+SODI Sèrum: 143 mmol/L; POTASSI Sèrum: 4,2 mmol/L; CLOR Sèrum: 105 mmol/L.
+F. GLOMER. ESTIMAT (CKD-EPI): 60 mL/min/1.73 m2.
+
+
+o	TC craneal:  Leucoaraiosis periventricular. Infartos lacunares crónicos en capsula externa derecha y corona radiata izquierda.
+o	Dúplex TSA ()Dopler TSA/TC normal en todos los territorios explorados (ACC, ACI, ACA; ACM; ACP, vertebrales, basilar sifones), Destaca ritmo bigeminado durante la exploracion
+o	Ecocardiografia TT:   AI 45 mm, TIV 11 mm, IM moderada con jet central holosistolico poco intenso. IT ligera. No hipertension pulmonar. No defectos segmentarios. FE 69%
+o	Holter-ECG: pendiente informe definitivo
+
+Evolución y tratamiento realizado
+
+
+Paciente varón de 72 a que ingresa por síndrome lacunar sensitivo motor derecho. Se completa el estudio vascular que descarta afectación arterial extra o intracraneal de gran vaso .
+Se completa el estudio con ecocardiografía que descarta fuente cardioembólica. Dado que durante el doppler TSA se objetiva un ritmo bigeminado se completa el estudio de Holter-ECG.
+
+Durante el ingreso en planta el paciente evoluciona favorablemente, quedando con paresia facial central derecha al alta.
+
+
+Destino al alta:   domicilio
+Rankin (alta): 1	NIHSS (alta):	2
+
+
+Diagnósticos
+
+
+
+Diagnóstico principal
+Sindrome lacunar sensitivo motor derecho por patologia de pequeño vaso.
+
+
+Diagnósticos secundarios:
+HTA
+DM tipo 2 SAOS
+Prostatismo
+
+Procedimientos:
+o	Analitica
+o	ECG
+o	Doppler TSA/TC
+o	Ecocardiografia TT
+o	Holter-ECG
+
+
+Tratamiento al alta
+
+
+Dieta diabética baja en sal y en grasas. Clopidogrel 75 mg, 0-1-0
+Atorvastatina 80 mg, 0-0-1
+Suspender AAS
+Suspender Atorvastatina 40 Suspender Secalip
+
+Capenon 20/5, 1-0-0 Suspender Indapamida Suspender Dafiro
+
+Resto de medicación habitual sin cambios
+Lantus 16 unidades /dia, sumial 10 mg/12h, Janumet 1/12,  glucobay 100/8h
+
+Recomendaciones de prevención secundaria
+
+
+o	Caminar cada día, mínimo 1/2 hora
+o	Perder peso, hasta conseguir perímetro abdominal en hombres por debajo de 108 cm. y 88 cm. en mujeres.
+o	Dieta rica en verduras, frutas y legumbres.
+o	Mantener tensión arterial por debajo de 130 /80 mm. Hg. En diabéticos por debajo de 120/75
+o	Mantener cifras de colesterol total por debajo de 150, y LDL por debajo de 100. En diabéticos LDL por debajo de 70.
+o	Evitar el tabaco y el alcohol.
+
+
+
+Control por el médico de cabecera de la TA
+
+
+Atentamente,
+
+Médico/s responsable/s: Dra _NAME_	Nº de colegiado: _ID_
+Firma

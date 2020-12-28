@@ -1,0 +1,68 @@
+T0	SECCION_DIAGNOSTICOS 352 363	DIAGNÒSTICS
+T2	Arteria_afectada 415 437	territori indeterminat
+T3	Etiologia 449 463	cardioembòlica
+T4	SECCION_ANTECEDENTES_PATOLOGICOS 651 674	ANTECEDENTS  PATOLÒGICS
+T5	FECHA 771 775	2015
+#5	AnnotatorNotes T5	2015-UNDEF-month-UNDEF-day
+T6	_SUG_Lateralizacion 1104 1112	esquerra
+T7	SECCION_SITUACION_FUNCIONAL 1162 1189	Situació social i funcional
+T8	SECCION_TRATAMIENTO_HABITUAL 1294 1314	Tractament  habitual
+T9	Tratamiento_anticoagulante_hab 1438 1445	sintrom
+T10	SECCION_MOTIVO_DE_INGRESO 1461 1475	MOTIU D'INGRÉS
+T11	Fecha_inicio_sintomas 1484 1492	10.03.17
+#11	AnnotatorNotes T11	2017-03-10
+T12	_SUG_Lateralizacion 1688 1693	dreta
+T13	HORA 1736 1741	12.50
+#13	AnnotatorNotes T13	12:50
+T14	_SUG_Ictus_isquemico 1772 1777	Ictus
+T15	_SUG_Lateralizacion 2171 2172	e
+T16	SECCION_EXPLORACION_FISICA 2219 2237	EXPLORACIÓ  FÍSICA
+T17	NIHSS_previa 2625 2632	NIHSS 0
+T18	_SUG_Arteria_afectada 2778 2787	carotídea
+T19	SECCION_EXPLORACIONES_COMPLEMENTARIAS 2801 2831	EXPLORACIONS   COMPLEMENTÀRIES
+T20	TAC_craneal 3030 3038	TC crani
+T21	_SUG_Etiologia 3172 3184	ateromatoses
+T22	_SUG_Arteria_afectada 3214 3223	carotides
+T23	_SUG_Localizacion 3321 3330	posterior
+T24	_SUG_Lateralizacion 3462 3470	esquerra
+T25	_SUG_Arteria_afectada 3669 3684	vertebrobasilar
+T26	_SUG_Arteria_afectada 3687 3703	artèria  basilar
+T27	_SUG_TAC_craneal 3759 3772	TA C crani al
+T28	FECHA 3815 3825	17/03/2017
+#28	AnnotatorNotes T28	2017-03-17
+T29	SECCION_EVOLUCION 4098 4106	EVOLUCIÓ
+T30	_SUG_NIHSS 4225 4232	NIHSS 1
+T31	_SUG_TAC_craneal 4238 4248	TC cranial
+T32	_SUG_Ictus_isquemico 4439 4453	ictus isquèmic
+T33	_SUG_Arteria_afectada 4463 4485	territori indeterminat
+T34	_SUG_Tratamiento_anticoagulante 4548 4555	sintrom
+T35	NIHSS_alta 4656 4663	NIHSS 0
+T36	mRankin_alta 4665 4673	rànkin 0
+T37	_SUG_Etiologia 4751 4762	ateromatosi
+T38	_SUG_Etiologia 4799 4813	cardioembòlica
+T39	_SUG_Tratamiento_anticoagulante 4904 4911	Sintrom
+T40	_SUG_Tratamiento_antiagregante 5005 5008	AAS
+T41	SECCION_TRATAMIENTO_AL_ALTA 5192 5202	TRACTAMENT
+T42	Tratamiento_antiagregante_alta 5206 5211	Adiro
+T43	Tratamiento_anticoagulante_alta 5377 5384	Sintrom
+T44	Hora_de_alta 5455 5460	12:34
+#44	AnnotatorNotes T44	12:34
+T45	Fecha_de_ingreso 269 280	10/03/ 2017
+#1	AnnotatorNotes T45	2017-03-10
+T46	Fecha_de_alta 292 303	16/03/ 2017
+#2	AnnotatorNotes T46	2017-03-16
+T47	Ataque_isquemico_transitorio 368 413	Ictus isquèmic amb simptomatologia reversible
+T1	Localizacion 415 437	territori indeterminat
+T48	mRankin_previa 1239 1246	m RS= 0
+#3	AnnotatorNotes T48	0
+T49	Hora_inicio_sintomas 1532 1534	09
+#4	AnnotatorNotes T49	09:00
+T50	Fecha_llegada_hospital 1484 1492	10.03.17
+#6	AnnotatorNotes T50	2017-03-10
+T51	Hora_llegada_hospital 1821 1823	13
+#7	AnnotatorNotes T51	13:00
+#8	AnnotatorNotes T17	0
+T52	Hora_TAC_inicial 4250 4290	4: 30h després de l'inici dels símptomes
+#9	AnnotatorNotes T52	13:30
+#12	AnnotatorNotes T35	0
+#14	AnnotatorNotes T36	0

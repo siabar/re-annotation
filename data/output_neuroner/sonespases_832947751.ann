@@ -1,0 +1,55 @@
+T1	SECCION_DIAGNOSTICOS 27 39	Diagnosticos
+T2	SECCION_PROCEDIMIENTOS 251 265	Procedimientos
+T3	SECCION_MOTIVO_DE_INGRESO 352 369	Motivo de ingreso
+T4	SECCION_ANTECEDENTES_PERSONALES 754 774	Antecedentes Médicos
+T5	SECCION_SITUACION_FUNCIONAL 841 856	Situación basal
+T6	mRankin_previa 865 870	mRS 0
+#6	AnnotatorNotes T6	0
+T7	SECCION_ANTECEDENTES_PATOLOGICOS 908 932	Antecedentes Patológicos
+T8	SECCION_ANTECEDENTES_QUIRURGICOS 1203 1227	Antecedentes Quirúrgicos
+T9	SECCION_TRATAMIENTO_HABITUAL 1647 1671	Tratamiento domiciliario
+T10	SECCION_PROCESO_ACTUAL 1947 1956	Anamnesis
+T11	SECCION_EXPLORACION_FISICA 2759 2770	Exploración
+T12	SECCION_EXPLORACION_FISICA_EN_URGENCIAS 2774 2805	Exploración Física en Urgencias
+T13	NIHSS_previa 4320 4343	PUNTUACION TOTAL NIH:17
+#13	AnnotatorNotes T13	17
+T14	SECCION_EXPLORACION_FISICA_DURANTE_HOSPITALIZACION 4666 4703	Exploración física en Unidad de Ictus
+T15	SECCION_EXPLORACIONES_COMPLEMENTARIAS 10441 10475	Resultados pruebas complementarias
+T16	SECCION_EXPLORACIONES_COMPLEMENTARIAS_EN_URGENCIAS 10482 10509	Analítica Sanguínea urgente
+T17	ASPECTS 11261 11273	ASPECTS de 8
+#17	AnnotatorNotes T17	8
+T18	SECCION_EVOLUCION 13466 13488	Evolución Hospitalaria
+T19	NIHSS_alta 15068 15078	NIHSS de 2
+#19	AnnotatorNotes T19	2
+T20	SECCION_TRATAMIENTO_Y_RECOMENDACIONES_AL_ALTA 15446 15483	Recomendaciones y tratamiento al alta
+T21	SECCION_TRATAMIENTO_AL_ALTA 15637 15655	Active Medications
+T22	Tratamiento_antiagregante_alta 15656 15678	Ácido acetilsalicílico
+T23	Tratamiento_anticoagulante_alta 15708 15718	Bemiparina
+T24	Fecha_de_alta 15 25	18-01-2018
+#24	AnnotatorNotes T24	2018-01-18
+T25	Ictus_isquemico 42 65	ECVA ISQUÉMICA: Infarto
+T26	Arteria_afectada 80 83	ACM
+T27	Lateralizacion 83 84	D
+T28	Etiologia 98 112	cardioembólica
+T29	Fecha_inicio_sintomas 2002 2012	15/01/2018
+#29	AnnotatorNotes T29	2018-01-15
+T30	Fecha_llegada_hospital 2002 2012	15/01/2018
+#30	AnnotatorNotes T30	2018-01-15
+T31	Hora_inicio_sintomas 2089 2093	4:30
+#31	AnnotatorNotes T31	04:30
+T32	Hora_llegada_hospital 2535 2540	12:05
+#32	AnnotatorNotes T32	12:05
+T33	Arteria_afectada 11058 11060	M1
+T34	Localizacion 13818 13822	TACI
+T35	Trombectomia_mecanica 269 290	Trombectomía mecánica
+T36	Fecha_inicio_trombectomia 2002 2012	15/01/2018
+#36	AnnotatorNotes T36	2018-01-15
+T37	Fecha_primera_serie_trombectomia 2002 2012	15/01/2018
+#37	AnnotatorNotes T37	2018-01-15
+T38	Fecha_recanalizacion 2002 2013	15/01/2018
+#38	AnnotatorNotes T38	2018-01-15
+T39	Fecha_fin_trombectomia 2002 2012	15/01/2018
+#39	AnnotatorNotes T39	2018-01-15
+T40	Hora_inicio_trombectomia 2687 2692	12:55
+T41	Hora_recanalizacion 2718 2723	13:22
+#41	AnnotatorNotes T41	13:22

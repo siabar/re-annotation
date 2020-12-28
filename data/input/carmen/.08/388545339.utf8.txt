@@ -1,0 +1,115 @@
+Tel. _CONTACT_
+_CONTACT_ _LOCATION_
+_LOCATION_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 78 anys
+NIF/DNI: _ID_Informe d'alta d'hospitalització
+11:00:00
+12.07.2017
+_LOCATION_
+_SS_ MEDICINA INTERNA
+ABS
+Servei Data d'alta
+_CONTACT_; _CONTACT_
+DOMICIL/RES.SOC 11.07.2017
+_NAME_
+_LOCATION_
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Paciente de 78 años que ingresa procedente del Servicio de Urgencia por accidente isquemico transitorio
+
+Estado basal:
+Actualmente de vacaciones en _LOCATION_ reside en _LOCATION_. Independiente para todas las actividades de la vida diaria. Continente doble. No restreñimiento. Jubilada. Trabajó de dependienta. Casada. Vive con su esposo. Niega alergia a medicamento, alimentos o sustancias.
+
+ANTECEDENTS
+-	Sindrome depresivo en seguimiento por el Medico de Familia con indicación de tratamiento ocasional
+-	Niega HTA, Diabetes y dislipidemia
+-	Niega tabaquismo y enolismo.
+-	IQ catarates
+-	IQ Fx tibia-perone esq
+-Hipoacúsia
+
+MEDICACIÓ HABITUAL
+Citalopram 10mg 1-0-0
+
+PROCÉS ACTUAL
+Según refieren el paciente y el familiar presenta a las 00h00 11.07.2017 incapacidad para articular las palabras acompañado de enlentecimiento del pensamiento y sensación de inestabilidad cefálica. No perdida de consciencia. Duración total hasta la recuperación total 60min. En la valoración inicial en el Servicio de Urgencias presenta disartria residual. Niega alteraciones en la comisura labial. Niega alteración en la fuerza o la sensibilidad. Niega sintomas prodomicos. Niega fiebre. No focalidad infecciosa.
+
+EXPLORACIÓ FÍSICA
+
+FC	82 bpm Tªaxi  ºC
+FR	rpm Tªrec  ºC
+TA s	168 mmHg SAT O2 94 %
+TA d   75 mmHg Pes Kg
+
+General: Buen estado general Normohidratada y normocoloreada. Afebril. Sin adenopatias palpables AR: Mecánica ventilatoria normal. Murmullo vesicular conservado sin ruidos agregados
+AC: S1-S2 normales, rítmicos regulares. No soplos. No signos de IC
+Abdomen: blando y depresible, no distendido. No doloroso, sin signos de irritación peritoneal.
+Neurológico: consciente, orientada y colaboradora; no déficits sensitivo o motor. Pupilas isocoricas normoreactivas. Pares craneales normales. No disartria. ROT presentes y simétricos. No alteración en la coordinación.
+Locomotor: No edemas. No signos de TVP. Pulso presente y simétrico
+
+Informe d'alta d'hospitalització
+
+
+
+EXPLORACIÓ COMPLEMENTÀRIA
+Analitica: Hb: 14,0; hto: 42,6%; Plaquetes: 196 000; Leucos: 11 200 (neutro: 62%); Quick: 95%; INR: 1,02; TTpa
+ratio: 1,0; Urea: 67,4; Creatinina: 1,22; FG: 42,81; GOT: 20; Na: 140,51; K: 4,36.
+
+ECG: RS a 75 bpm, eix=0-30º aprox, PR=0,16s, QRS estret, ona T neg DIII i V1, aplanament ona T V2-V3
+
+TAC craneal codi ictus: No se observan desplazamientos de las estructuras de línea media supra e infratentoriales.Sistema ventricular levemente dilatado, proporcional a la prominencia de los surcos, en relación a signos de atrofia cerebral difusa. Correcta diferenciación cortico-subcortical. Parénquima cerebral y fosa posterior sin alteraciones significativas. Cisternas basales y peritronculares libres. Charnela occípito-cervical sin alteraciones valorables. CONCLUSIÓN: Estudio TC craneal sin evidencia de patología aguda intracraneal
+
+Rx torax: ICT normal; senos costos frénico libres; sin hipodensidades.
+
+Angio TC TSA y Cerebral: No se preservan alteraciones en el calibre y morfología del segmento intracraneal de las arterias carótidas internas y arterias vertebrales, del tronco basilar, ni de los segmentos proximales de las arterias cerebrales anteriores, medias y posteriores. Tampoco se aprecian alteraciones de las arterias carótidas comunes, siendo sus bifurcaciones de características normales. En presencia pequeñas placas calcificadas sin áreas de estenosis significativas. Discreta irregularidad de las arterias carotidas internas, la carotida interna derecha muestra un pequeño bucle. No se observan estenosis significativas. Ambas arterias vertebrales tienen un calibre y configuración normal, identificándose correctamente sus orígenes. Conclusión: angio TC cerebral y de troncos supra-aórticos sin áreas de estenosis significativas
+
+
+EVOLUCIÓ CLÍNICA
+Paciente de 78 años AP de depresión sin FRCV que presenta:
+
+1.- Accidente isquémico transitorio (AIT): presenta a las 00h00 11.07.2017 diasartria acompañado de bradipsiquia y sensación de inestabilidad cefálica. No perdida de consciencia. Duración total hasta la recuperación total 60min. En la valoración inicial en el Servicio de Urgencias presenta disartria residual. Niega alteraciones en la comisura labial. Niega alteración en la fuerza o la sensibilidad. Niega sintomas prodomicos. Niega fiebre. No focalidad infecciosa. Hemodinamicamente estable. Sin alteraciones a la auscultación cardiaca o pulmonar.
+Neurológico: consciente, orientada y colaboradora; no déficits sensitivo o motor. Pupilas isocoricas  normoreactivas. Pares craneales normales. No disartria. ROT presentes y simétricos. No alteración en la coordinación. Analítica evidencia insuficiencia renal leve. ECG normal. Rx de tórax normal. TC craneal: sin evidencia de patología aguda intracraneal. El Angio TC cerebral y de troncos supra-aórticos no evidencia áreas de estenosis significativas craneales. Se inicia tratamiento con antiagregante y estatinas. En el contexto clínico de no presentar factores de riesgo cardiovascular se sugiere completar estudio para otras etiologias.
+
+2.- Insuficiencia renal aguda: en la analítica se evidencia Urea: 67,4; Creatinina: 1,22; FG: 42,81; Se inicia hidratación y protección renal con acetilcisteina. Deberá realizar seguimiento por el Medico de Familia
+
+
+DIAGNÒSTICS
+435.9 Isquèmia cerebral transitòria inespecificada.Amenaça accident cerebrovasc.,atac isquèmic transitori [AIT] 586/1 Insuficiencia renal
+
+Informe d'alta d'hospitalització
+
+
+
+
+300.4/10 Sindrome ansios depresiu
+
+PROCEDIMENTS
+TC craneal
+Angio TC cerebral - TSA
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Mantener medicación habitual
+
+Nueva mediación Adiro 100mg 0-1-0
+Atorvastatina 40mg 0-0-1
+Omeprazol 20mg 1-0-0
+
+CONTROL
+Valoración por el Medico de Familia
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+12.07.2017
+Pàgina 1 de 3

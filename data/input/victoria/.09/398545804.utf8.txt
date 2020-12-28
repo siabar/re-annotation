@@ -1,0 +1,92 @@
+Nom Pacient: _NAME_
+_NAME_
+No. Assist.: _ID_
+N.H.C.
+CIP:
+_LOCATION_
+_ID_
+Data Naixement: _DATE_
+Sexe: DONA
+_LOCATION_
+Tel. _CONTACT_ - Fax _CONTACT_Ad37reça:  _LOCATION_
+_LOCATION_ 
+_CONTACT_
+Població:  _LOCATION_
+
+Informe d'Assistència
+
+
+Data Ingrés:	
+26/07/2017	
+Servei: Medicina
+Data Alta:	10/08/2017	Metge:  _NAME_
+
+MALALTIA ACTUAL / MOTIU D'INGRÉS:
+La pacient refereix omàlgia dreta de característiques mecàniques d'uns 10-14 dies d'evolució, motiu pel que a nivell ambulatori s'ha anat optimitzant tractament analgèsic amb resposta clínica parcial. Aquest matí, després d'haver-se dutxat, presenta una disminució de força a hemicòs dret, motiu pel que consulta a Urgències. No pèrdua de coneixement, SI relaxació d'esfínter urinari i anal.
+
+ANTECEDENTS PATOLÒGICS:
+-No hàbits tòxics.
+-HTA en tractament mèdic.
+-Dislipèmia en tractament mèdic.
+-No DM coneguda.
+-Exèresi mioma uterí.
+-Hipotiroidisme en tractament substitutiu.
+-Bradicàrdia rítimica d'anys d'evolució.
+-No pneumopatia coneguda.
+-Situació bassal: FFSS conservades, independent para las ABVD.
+-Tractament  habitual: Eutirox  125mcg  1-0-0,  Enalapril/HCT  20/12.5mg  1.0.0m  Simvastatina  20mg  0-0-1, Naproxè 500mg 1-0-1, Paracetamol/Tramadol 325/37.5mg 1-0-0, Omeprazol 20mg 0-0-1.
+
+AL.LÈRGIES:
+-No AMC.
+
+EXPLORACIÓ FÍSICA:
+-TA 184/60mmHg, 40bpm, afebril, SpO2(21%) 94%, glicèmia capil·lar 116mg/dL.
+-Ap.Cardiocirculatori: TCR, bradicàrdica, no bufs ni edemes a EEII.
+-Ap.Respiratori: MVC.
+-Abdomen: Anodí.
+-NRL: CiO. PICNR. No dèficits campimètrics per confrontació. Hemiparèssia braquiocrural 2/5. No dèficits sensitius. RCP dret extensor.
+
+EXPLORACIONS  COMPLEMENTÀRIES:
+-ECG: Bradicàrdia rítmica a 36bpm. QRS0.08 a 0º. No alteracions agudes de la repolarització.
+- Analítica:
+o Hemograma: leucos 6.29 (N 59.9%, L 25.9%), Hb 116, Hto 35%, VCM 88.5, HCM 29.7, plaquetes
+268.000.
+o Coagulació: INR 1.08, Quick 88%.
+o Bioquímica: glucosa 199, creatinina 1.3, FG 35.88, Na 140, K 4.4, Ca 8.6, proteïna 6.3, albúmina 3.2.
+o Perfil hepàtic: ALT 19.2, FA 48, GGT 26.4.
+o Perfil lipídic: TG 199, colesterol total 196.
+
+
+
+-Rx.tórax (decúbit): ICT augmentat, no condensacions, no vessament pleural.
+-TAC cranial: Signes d'atròfia córtico-subcortical cerebral.
+- Holter 24h: RS amb FC mitja de 45bpm T(3e2n.d1è1n4cbiapm)a. la bradicàrdia sinusal sense .5psa.uses                                           EV aillades ocasionals. ESV aillades poc freNcuoentesp.isodis de FA.
+- TAC cranial de control: Signes d'atròsfuiabcocróticrtaiclo-cerebral.
+
+EVOLUCIÓ:
+1.	AVC isquèmic: a territori de ACM esquerra amb hemiparèsia BC dreta sense dèficit sensitiu. TAC cranial inicial normal, TAC de control sense alteracions, Holter 24h descarta etiologia arritmogenica. Bona evolució clínica amb recuperació parcial del dèficit motor, a l'alta amb parèsia crural 4+/5 i braquial 3/5. Consensuem amb UFISS trasllat a Unitat Convalescència per intensificació de rehabilitació.
+2.	Bradicàrdia sinusal ja coneguda prèviament amb QRS estrect, crònica y asimptomàtica; Holter 24h sense arritmies o pauses > 2.5seg.
+3.	Tendinitis de manegot del's rotadors en espatlla dreta: valorada per COT, resolució parcial amb analgèsia i rehabilitació.
+
+DIAGNÒSTICS:
+AVC ISQUEMIC ACM ESQUERRA BRADICARDIA ASINPTOMATICA TENDITIS MANEGOT ROTADORS
+
+RECOMANACIONS TERAPÈUTIQUES:
+-AAS 300mg 1c/24h.
+-STOP simvastatina, iniciar atorvastatina 40mg 1c/24h.
+-Resta de tractament sense canvis.
+
+DESTINACIÓ I POSTERIOR CONTROL:
+Unitat Convalescència Atentament,
+
+_NAME_	_NAME_
+Servei:	Medicina	Medicina
+Nº Col.:	_ID_	_ID_
+
+
+Els informem que el CSA facilitarà, si és necessari, les dades de caràcter personal a tots els estaments oficials que legalment hi hagin d'accedir per a la correcta prestació de l'assistència sanitària i social, així com també a altres entitats d'assegurança privada amb les quals els usuaris tinguin una relació contractual.
+CONSULTES EXTERNES
+Atenció a la dona, _NAME_
+_CONTACT_
+_CONTACT_
+1 / 2

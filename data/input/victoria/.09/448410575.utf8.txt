@@ -1,0 +1,134 @@
+_LOCATION_ Tel. _CONTACT_
+e-mail: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 86 Anys
+NIF/DNI: _ID__NAME_; _NAME_
+Informe d'alta d'hospitalització
+CP	_LOCATION_
+ABS	_SS_
+Servei	NEUROLOGIA
+Data d'alta  01.12.2017	15:00:00
+_LOCATION_
+_CONTACT_
+DOMICIL/RES.SOC 01.12.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Pacient que ingressa per sospita d'Ictus.
+
+ANTECEDENTS
+Al·lèrgies: Sense al·lèrgies conegudes
+
+-	Hipertensió essencial inespecificada
+-	Dislipemia
+-	Fibril·lació auricular
+-	Portador de vàlvula aòrtica biològica, IQ fa 10 anys
+-	Algun episodis de insuficiència cardiaca dreta Rankin previ:0
+MEDICACIÓ HABITUAL
+Sintrom, Acovil, Bisoprolol, Unibenestan, Simvastatina 10, Condrosan
+
+PROCÉS ACTUAL
+Inici dels símptomes o última vegada vist asimptomàtic el dia 30/11/2017 a les 20:02:00. S'activa codi ictus el dia 30/11/2017 a les 22:30:00 hores, a nivell SEM
+A les 20:00h la familia ha parlat amb el pacient per telèfon, estant en aquell moment assimptomàtic. Entre les 21h i les 22h, els veins han sentit sorolls i el troben a terra amb debilitat d'extremitats esquerres i 1 vòmit. Avisen al SEM, que valora el pacient. s'activa codi ictus a les 22:30h amb RACE 7 i s'inclou en estudi RACECAT (numero _ID_). Sense complicacions durant el trasllat. Arribada al _SS_ 23:55h. A la seva arribada la familia signa el consentiment informat RACECAT.
+
+EXPLORACIÓ FÍSICA
+
+EXP. FÍSICA A URG: PAS134 , PAD 92 mmHg // Temperatura:36.2ºC // FC de90 bpm // Glicèmia capil·lar:127 NIHSS total de17  (00022/2(04)(03)/01021 )
+Conscient, orientat. Desviació oculocefàlica a la dreta. HH esquerre. Parèsia facial dreta, hemiparesia braquial (no aixeca contra gravetat però manté to muscular) i crural (aixeca contra gravetat però no manté) dretes. Hemihipoestèsia dreta. Anosognòsia, no asomatognòsia.
+Eupneic. Tons arrítmics. Sense signes d'insuficiència cardiaca.
+
+EXP. FÍSICA A L'INGRÉS:  PAS115, PAD 72 mmHg // FC75  // Temperatura35.5ºC NIHSS 00010//3(10)(10)//01011 = 9.
+
+Informe d'alta d'hospitalització
+
+
+
+EXPLORACIÓ COMPLEMENTÀRIA
+Analítica d'urgències: Hematologia (01/12/17): Leucocitos 9000 /µL, (N 85 % / L 7 / M 7,1 / E 0,4 / B 0,5), Htíes 3,86 mill/µL, Hb 11,5 g/dL, Hcto 34,9 %, VCM 90,4 fL, Plaquetes 145000 /µL, TP 54 %, INR 1,6 sg, TP ratio 1,61,
+TTPA 26,9 sg, TTPA ratio 0,87, Fibrinógeno 394 mg/dL.
+Bioquimica (01/12/17): Glucosa 155 mg/dL, Urea 68,8, Creatinina 0,78, Na 139,9 mmol/L, K 4,1, Prot-C reactiva 3 mg/L.
+
+Electrocardiograma: Fibril.lació auricular a 90x', T negatives a cara lateral, hemibloqueig de branca.
+
+RM cranial inicial:  
+DWI: ASPECTS 9. Se identifica lesión isquémica aguda DERECHA que afecta al lenticular (aspecto posterior) y más dudosamente (ADC no claramente hipointenso) a parte de la ínsula.
+FLAIR: La lesión isquémica en difusión es: sutilmente positiva en FLAIR. Vasos hiperintensos en cisura GE: Trombo en valle silviano derecho. No se observan focos de sangrado agudo ni crónico.
+TOF: Oclusión del segmento M1 de la ACM derecha. Resto del polígono de Willis sin alteraciones. Ambas ACP son permeables.
+PWI: Alteración de la perfusión en forma de retraso del tiempo circulatorio en territorio superficial de ACM derecha. Mismatch D-P superior a 100%.
+Dinámico: Secuencia dinámica artefactada por movimiento. Se confirma oclusión de M1 derecha. Colaterales rápidas en territorio superficial posterior de ACM derecha y más enlentecidas en el territorio superficial anterior.
+Otros hallazgo: Resto del parénquima sin alteraciones en las secuencias practicadas, salvo leve leucoaraiosis. Estructuras de la línea media centradas. Sistema ventricular de  tamaño normal para la edad del paciente. Cisternas basales y peritronculares libres.
+CONCLUSIÓN
+Lesión isquémica  aguda establecida en  lenticular  derecho sin  transformación  hemorrágica, con  oclusión del segmento M1 de la ACM homolateral y mismatch significativo.
+
+Trombectomía mecánica:  
+ARTERIOGRAFÍA:
+Bajo anestesia local, previa asepsia y antisepsia, por punción femoral derecha, con la técnica de Seldinger, se hacen cateterismo selectivo de la ACI derecha, y se hacen estudios angiográficos en todas las proyecciones necesarias.
+La exploración pone de manifiesto:
+1. Oclusión de la ACM derecha (TICI: 0). TROMBECTOMÍA MECÁNICA:
+Se sube un catéter balón Flow Gate 8F con balón, que se coloca en la ACI derecha. Con un microcatéter Rebar 18 y una microguía Synchro 14, se hace un microcateterismo de la ACM derecha, hasta el segmento M2. Se sube y despliega un stent Solitaire-2 6x30 mm, con el que se repermeabiliza de forma parcial la ACM derecha y sus ramas.
+Bajo aspiración continua, se retira el stent de forma lenta y cuidadosa, sin conseguir extraer trombo, ni lograr repermeabilización de la ACM derecha.
+Se repite el mismo procedimiento con el mismo sistema, con el que se extrae un importante trombo, lográndose una repermeabilización completa de la ACM derecha y todas sus ramas. Se hacen estudios angiográficos que demuestran una repermeabilización completa de la ACM derecha, y una reperfusión completa del hemisferio cerebral derecho (TICI: 3). Se cierra el punto de punción arterial femoral derecho con una sutura mecánica (Perclose-ProGlide). No se presentan complicaciones.
+CONCLUSIÓN:
+
+Informe d'alta d'hospitalització
+
+
+
+
+1.	Oclusión de la ACM derecha (TICI: 0).
+2.	Repermeabilización  completa (TICI: 3) de la ACM derecha, y reperfusión completa del hemisferio cerebral derecho mediante trombectomía mecánica.
+No se ha administrado heparina durante el procedimiento.
+
+RM cerebral post-TEV
+DWI: ASPECTS 8. Se identifica lesión isquémica aguda DERECHA que afecta a lenticular y parcialmente al cuerpo del caudado.
+FLAIR: La lesión isquémica en difusión es positiva en FLAIR.
+GE: Desaparición de la imagen de trombo presente previamente en valle silviano derecho. No se observan signos de sangrado de nueva aparición.
+TOF: Repermeabilización del segmento M1 de ACM derecha ocluido previamente.
+PWI: Alteración de la perfusión en forma de aumento del TTP en territorio frontera superficial posterior del lado derecho.
+Dinámico: Se confirma repermeabilización del segmento M1 de ACM derecha. Resto sin cambios. CONCLUSIÓN
+Repermeabilización del segmento M1 de la ACM derecha. Lesión isquémica aguda establecida sin transformación hemorrágica que afecta al aspecto posterior del lenticular y al cuerpo del caudado derechos.
+
+Analítica d'ingrés:  Hematologia (01/12/17): Leucocitos 6300 /µL, (N 88,9 % / L 5,6 / M 5,2 / E 0 / B 0,3), Htíes 3,64
+mill/µL, Hb 10,8 g/dL, Hcto 32,9 %, VCM 90,4 fL, Plaquetes 130000 /µL, TP 47 %, INR 1,8 sg, TP ratio 1,81, TTPA
+29,3 sg, TTPA ratio 0,95, Fibrinógeno 369 mg/dL.
+Bioquimica (01/12/17): Glucosa 156 mg/dL, HbA1c 5,3 %, Urea 65 mg/dL, Creatinina 0,78, Filtrado glomerular estimado 82 mL/min/1.73 m2, Na 141,8 mmol/L, K 4,01, ALT 14 U/L, GGT 39, FA 71, Prot-C reactiva 3,6 mg/L,
+Proteína 57,8 g/L. Lípidos.- Triglicéridos85 mg/dL, Colesterol 135, (HDL 35,5 / LDL 82). Hormonas (01/12/17): TSH 1,277 µUI/mL.
+
+
+EVOLUCIÓ CLÍNICA
+Pacient que ingressa amb ictus agut de 4h d'evolució. A la seva arribada (23:55h) està hemodinàmicament estable, INR 1.6, i presenta clínica d'afectació hemisfèrica dreta complerta (NIHSS 17). S'inclou a l'estudi IMAGECAT (RM vs. TC per indicar tractament de reperfusió), i és assignat a fer RM multimodal (PROTOCOL FURIAS), que mostra lesió isquèmica aguda a lenticular (ASPECTS 9) amb oclusió de ACM M1 dreta, amb gran àrea de mismatch. Donada l'edat i el temps d'evolució de gairábé 4h i mitja el el moment de fer la RM, es considera que existeix risc hemorràgic alt amb tractament trombolític endovenós, i s'indica tractament endovascular primari. S'informa a la familia (filla) que signen el consentiment informat per realitzar el tractament endovascular i dels estudis IMAGECAT i RACECAT.
+
+Informe d'alta d'hospitalització
+
+
+
+
+Entra a la sala d'angiografia a les 01:20h, punció femoral 01:41, primera sèrie diagnòstica 01:47h. Es realitzen 2 intents de trombectomia amb dispositiu solitaire (01:55, 02:03), aconseguint-se recanalització complerta (TICI 3) a les 02:10h. Es finalitza elprocediment a les 02:12h.
+NIHSS post TEV 12, amb milloria de la desviació oculocefàlica i de la paresia esquerre (aixeca i manté contra gravetat braç i cama). Sense complicacions durant la intervenció.
+Després del procediment al pacient se li realitza RM post-TEV dins del PROTOCOL FURIAS que mostra ASPECTS 8 i recanalització d'ACM dreta.
+Durant l'ingrés a UIA el pacient roman estable hemodinàmicant, afebril, amb milloria progressiva de la clínica neurològica. NIHSS a les 10am: 00010//3(10)(10)//01011 = 9. Durant la monitorització presenta FA amb RV adequada. Donat l'estabilitat clínica contactem amb _SS_ per trasllat per sectorització a la seva unitat d'ictus.
+
+DIAGNÒSTICS
+Ictus isquèmica a territori ACM dreta per oclusió M1 de probable mecanime embòlic i origen cardioembòlic FA amb protèsi valvular biològica
+Infradosificació de Sintrom HTA
+Dislipèmia
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+ADJUNTO TRACTAMENT ACTUAL
+
+CONTROL
+TRASLLAT A UNITAT D'ICTUS _SS_
+
+DESTINACIÓ A L'ALTA:	HOSP. AGUTS/PSQ
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+01.12.2017
+Pàgina 1 de 4

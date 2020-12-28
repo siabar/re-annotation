@@ -1,0 +1,107 @@
+IC DE MEDICINA I DERMATOLOGIA MEDICINA INTERNA
+_NAME_	NHC: _ID_
+
+
+Sexo/Sexe: Fem.	Fecha nac./Data naix.: _DATE_	Edad/Edat: 75 años Dirección/Adreça: _LOCATION_	CP: _LOCATION_
+Municip. (Prov.): _LOCATION_  ABS:_SS_	Tel.:_CONTACT_
+As.: SERVEI CATALA DE LA SALUT	CIP: _ID_	NASS: _ID_
+Nº epis.: _ID_	Tipo/Tipus: HOSPIT.	Ingres.: 20.01.2017 Serv: MEDICINA INTERNA	UO Enf.: G022 SALA G UGA MDI	Hora: 20:31:42 Facult. de ref.: _NAME_
+
+
+
+
+Tipo ingreso/Tipus ingrés: Urgent	Motivo/Motiu alta: Hosp. domiciliaria
+Diag.:
+PROBABLE INTOXICACIÓN ALIMENTARIA () SÍNDROME CONFUSIONAL SECUNDARIO ()
+Proc.:
+ANALITICA () TC CEREBRAL ()
+HEMOCULTIVOS () URINOCULTIVO ()
+RADIOGRAFÍA DE TÓRAX Y DE ABDOMEN ()
+
+
+
+
+INFORME CLÍNICO ALTA / INFORME CLÍNIC ALTA
+
+Motivo de consulta / Motiu de consulta
+Alteración del lenguaje. Remitido desde _SS_ como código ictus.
+
+Antecedentes e historia previa / Antecedents i història prèvia
+Paciente de 75 años. No alergias medicamentosas conocidas. Alergia a las nueces. Ex-fumadora hasta hace 8 años (dosis acumulada de 45 paquetes- año). No otros hábitos tóxicos. Es independiente para las actividades básicas e instrumentales de la vida diaria. Reside en domicilio familiar con dos hijos.
+
+ANTECEDENTES PATOLÓGICOS
+1.	HIPERTENSIÓN ARTERIAL. Ecocardiograma de Diciembre'16: Hipertrofia miocárdica leve con alteración de la relajación. Fracción de eyección del 60%.
+2.	DISLIPEMIA en tratamiento con estatinas.
+3.	EPOC GOLD B. Espirometría de Octubre de 2016: FEV1 1,27L (68%), FVC 2,87L (108%), índice 44. Varios ingresos por descompensación. Última descompensación en diciembre  de 2016 que requirió ingreso en régimen de hospitalización a domicilio. Al alta presentaba mMRC de 1-2 y saturación basal de 94%. Fue dada de alta y se mantuvo oxigenoterapia durante 1 mes. Controles por el servicio de NMO del HCB.
+4.	FIBRILACIÓN AURICULAR PERMANENTE en tratamiento anticoagulante con acenocumarol y frenador con bisoprolol. Mal control de INR.
+
+* MEDICACIÓN HABITUAL: Adiro 100 mg/24 hrs, Amlodipino 5 mg/24 hrs, Bisoprolol 5mg mg/24 hr, Eutirox 75 mcg/24 hrs, Pantoprazol 20 mg/24 hrs, Simvastatina 40 mg/24 hrs, Tiotropio 18 mcg cada 24 hrs, Budesonia+formoterol 160/4.5 mcg cada 12 hrs, Sintrom, Potasio 10 meq+vit. c vía oral, Furosemida 40mg/24hs.
+
+
+Proceso actual / Procés actual
+La paciente refiere que el día 18/01/2017, aproximadamente una hora y media después de comer comezó de forma brusca con un cuadro de tiritona, sensación distérmica, alguna deposición blanda y vómitos abundantes de contenido oscuro-verdoso, sin coágulos. Refiere que una salsa tipo all- i-oli que había consumido durante la comida tenía un sabor extraño, si bien no hubo otros comensales afectados. Por esta sintomatología consultan en Urgencias del _SS_. Según informes, la paciente en ese momento se encuentra consciente, orientada, hemodinámicamente estable, abdomen blando, depresible y no doloroso y afebril. La analítica sanguínea mostró leucocitois de 19.000 con un 90% de neutrófilos y PCR elevada. Función renal e ionograma conservados. Ante la estabilidad de la paciente se decide alta con azitromicina 500mg/24 horas y tratamiento sintomático.
+Según refiere la familia, desde el momento del alta, la paciente ya presentaba dificultades de coordinación ("no podía abrir la puerta del taxi"), y se fue deteriorando, presentando un comportamiento extraño e incoherente (por ejemplo, le dice a su hijo que le traiga "ese gato", siendo que no hay ningún gato en la casa) ante lo cual la trasladan al _SS_.
+Según figura en los informes, la paciente llegó consciente y orientada, con disartria sin otra focalidad neurológica clara. Realizan un TAC cerebral sin contraste donde aprecian un signo de la arteria cerebral media izquierda hiperdensa, por lo que derivan al _SS_ como Código Ictus.
+A su llegada a nuestro centro se encuentra febril, con un lenguaje disártrico e incoherente, hemodinámicamente estable, con saturación capilar de oxígeno superior al 92%. Se realiza un TAC multimodal que no objetiva oclusión de ningún gran vaso ni defectos en los mapas de perfusión y se orienta el cuadro como un síndrome confusional secundario a una gastroenteritis infecciosa y se inicia tratamiento empírico con ceftriaxona y metronizazol.
+
+Exploración física / Exploració física
+NRL: consciente. Lenguaje incoherente, en ocasiones completa frases con sentido pero el discurso en global es incoherente. No repite. Obedece órdenes simples, pero se equivoca en ordenes complejas. No déficits campimétricos. MOE sin alteraciones. No paresia facial. Balance motor consrevado en las cuatro extremidades. Sensibilidad no valorable por alteración del lenguaje. Dismetrias no valorables. Disartria moderada. NIHSS 4.
+Tonos Cardiacos ritmicos este momento, sincronicos con el pulso. No soplos. Pulmones leve disminución del MV en bases pulmonares, algun estertor aislado basal. Abdomen: Blando , no doloroso a la palpación, RHA conservados.
+Extremidades inferiores sin signos de TVP, sin edema
+
+Laboratorio / Laboratori
+*	ANALÍTICA URGENCIAS: PCR 16.77mg/dL, Glucosa 162mg/dL, Creatinina 0.76mg/dL, Filtrat glomerular calculat [CKD-EPI] 76.92 ml/min, Sodi 140mEq/L, Potasi 3.4mEq/L, 20.77 10^9/L Leucocitos (93%N), Hties
+4.64	10 ^12/L, hemoglobina 117g/L, Hematòcrit 0.360 L/L, VCM 77.9fl, HCM 25.3pg, plaquetes 208 10^9/L.
+*	URINOCULTIVO: S'aïllen entre 10.000 i 100.000 UFC/mL. Flora mixta. Orina contaminada o mal recollida.
+*	URINOCULTIVO Negativo.
+*	HEMOCULTIVOS: x4 Negativos.
+*	ANALÍTICA AL ALTA: PCR 1.58mg/dL, Glucosa 104 mg/dL, Creatinina 0.54mg/dL, Filtrat glomerular calculat [CKD-EPI] >90 ml/min, Colesterol total 123 mg/dL, Triglicèrids 143 mg/dL, ASAT 13 U/L, ALAT 11 U/L, Bilirrubina total 0.4 mg/dL, Bilirrubina directa 0.2 mg/dL, Bilirrubina indirecta 0.2 mg/dL, Proteïnes totals 46g/L, Albúmina 26g/L, Sodi 131mEq/L, Potasi 3.7 mEq/L, 8.65 10^9/L Leucocitos (80%N), Hties 4.51 10 ^12/L, hemoglobina 111g/L, Hematòcrit 0.360 L/L, VCM 79.7fl, HCM 24.5pg, plaquetes 145 10^9/L.
+*	RX TÓRAX: ICT conservado. Hilio izquierdo aumentado de tamaño (ya presente en previas).
+
+Radiología / Radiologia
+*	TAC  MULTIMODAL  (CODIGO  ICTUS): TC  CEREBRAL +  TC  PERFUSIÓN  CEREBRAL +  ANGIO  TC  INTRA  Y
+EXTRACRANEAL:  Extensa  leucoaraisosis  por  patología  crónica  de  pequeño  vaso.  Imagenes  lacunares
+
+
+
+capsuloganglionares bilaterales. No alteraciones en los mapas de perfusión. Principales  arterias extra e intracraneales permeables sin estenosis significativas.
+*	Rx. de tórax sin consolidaciones ni infiltrados pulmonares.
+*	Rx. de abdomen con gas distal, no niveles hidroaéreos ni signos de neumoperitoneo.
+
+Evolución / Evolució
+1.	PROBABLE TOXIINFECCIÓN ALIMENTARIA
+2.	SÍNDROME CONFUSIONAL SECUNDARIO A 1.
+3.	FIBRILACIÓN AURICULAR PERMANENTE en tto con ACENOCUMAROL.
+4.	MAL CONTROL DE INR.
+1-2. En paciente de 85 años con los antecedentes previamente descritos que consulta por un cuadro abigarrado que inicia el 18/01 tras la ingesta de alimentos con sospecha de encontrarse en mal estado de conservación. Presenta sensación distérmica, vómitos y cambio en la consistencia de las deposiciones. Tras valoración por facultativo se inicia azitromicina sin clara mejoría. En las horas siguientes desarrolla un síndrome confusional que es interpretado como posible ictus que finalmente tras TC multimodal termina por descartarse.
+En la exploración física destacó la presencia de fiebre, un lenguaje disártrico e incoherente, hemodinámicamente estable y con saturación capilar del 92% al aire ambiente.
+En la analítica se evidenció elevación de reactantes de fase aguda (PCR 17.48 mg/dL y leucocitosis de hasta 20 770 cel/mm3). La función renal y iones se encontraron dentro de la normalidad. El perfil hepático no mostró alteraciones. El sedimento de orina resultó normal. La radiografía de tórax y abdomen no mostraron alteraciones. En un hemocultivo se aisló Staphylococcus hominis hominis que se interpretó como contaminante, unos hemocultivos posteriores resultaron negativos. En el urinocultivo no hubo aislamientos. No se pudo realizar coprocultivos en la fase aguda por no presentar deposiciones.
+Inicialmente se orientó el cuadro como gastroenteritis infeccioso y se inició tratamiento antibiótico empírico con ceftriaxona y metronidazol.
+Bajo este tratamiento la evolución ha sido favorable. Se ha quedado afebril, los síntomas gastrointestinales se ha resuelto y analíticamente ha presentado disminución de reactantes de fase aguda.
+Finalmente, dado las características, resultados de las pruebas complementarias y evolución, hemos interpretado el cuadro clínico como intoxicación alimentaria, no obstante, no puede descartarse una gastroenteritis infecciosa. Asociado a esto ha presentado un síndrome confusional que se ha contenido con dosis bajas de neurolépticos y al momento del alta se mantiene orientada. Dada la adecuada evolución se decide alta hospitalaria y se decide continuar control y tratamiento en régimen de hospitalización a domicilio.
+3-4. Paciente con FA permanente en tratamiento con acenocumarol. Refieren mal control de INR habitualmente (sobretodo sobrdescoagulación) por lo que se decide iniciar tratamiento con Rivaroxaban. Control médico de zona.
+
+Plan terapéutico / Pla terapèutic
+*	TRATAMIENTO AL ALTA: VER IPA HDOM.
+
+Otras recomendaciones / Altres recomanacions
+*	Control Médicos habituales.
+
+
+
+Firma/Signatura1: TELLEZ _NAME_	Firma/Signatura2: _NAME_ Categoría: Resident 4	Categoría: Espec. Senior
+Nº Matrícula HCP: _ID_	Nº Matrícula HCP: _ID_ Fecha/Data: 27.01.2017
+Hora: 14:26:05
+
+Docum.: _ID_
+Hist. Clínica: _ID_
+El _SS_ ha incorporado sus datos al Fichero de Pacientes, para tratarlos con fines sanitarios.
+Puede ejercer sus derechos de acceso, rectificación, cancelación y oposición, así como obtener mas información en la Unidad de Atención al Cliente.
+Vers. 00
+Pag. 2 de
+3
+Episod.: _ID_
+_SS_ ha incorporat les seves dades al Fitxer de Pacients, per a tractar-los amb finalitats sanitàries. Pot exercir els seus drets d'accés, rectificació, cancel·lació i oposició, i obtenir més informació a la Unitat d'Atenció al Client.
+_SS_
+_LOCATION_) _LOCATION_) Tel. _CONTACT_ Fax _CONTACT_
+_CONTACT_/

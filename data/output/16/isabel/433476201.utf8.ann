@@ -1,0 +1,32 @@
+T1	SECCION_ANTECEDENTES 326 338	Antecedentes
+T2	SECCION_SITUACION_FUNCIONAL 405 420	Situación basal
+T3	SECCION_TRATAMIENTO_HABITUAL 451 469	MEDICACIÓ HABITUAL
+T4	SECCION_PROCESO_ACTUAL 599 616	Enfermedad actual
+T5	Fecha_trombolisis_rtPA 621 626	18/10
+#5	AnnotatorNotes T5	2017-10-18
+T6	TAC_craneal 756 766	TC craneal
+T7	_SUG_Trombolisis_intravenosa 797 801	rtpa
+T8	Hora_primer_bolus_trombolisis_rtPA 824 829	21:20
+#8	AnnotatorNotes T8	21:20
+T9	_SUG_Trombectomia_mecanica 873 889	tto endovascular
+T10	_SUG_TAC_craneal 1549 1559	TC craneal
+T11	_SUG_Trombolisis_intravenosa 1655 1661	rTPAev
+T12	_SUG_Trombectomia_mecanica 1751 1770	rescat endovascular
+T13	_SUG_TAC_craneal 1798 1808	TC craneal
+T14	_SUG_TAC_craneal 2424 2434	Tc craneal
+T15	_SUG_TAC_craneal 2558 2560	TC
+T16	_SUG_Trombolisis_intravenosa 2614 2620	rTPAev
+T17	_SUG_Trombectomia_mecanica 2637 2656	rescat endovascular
+T18	SECCION_CONTROL 2708 2711	PLA
+T19	_SUG_TAC_craneal 2873 2883	Tc craneal
+T20	SECCION_CONTROL 5964 5971	Control
+T21	SECCION_EXPLORACION_FISICA 2904 2922	Exploración física
+T22	SECCION_EXPLORACIONES_COMPLEMENTARIAS 3192 3221	Exploraciones complementarias
+T23	_SUG_TAC_craneal 3879 3889	TC craneal
+T24	_SUG_TAC_craneal 4794 4796	TC
+T25	_SUG_TAC_craneal 4967 4969	TC
+T26	SECCION_EVOLUCION 5126 5135	Evolución
+T27	_SUG_TAC_craneal 5481 5483	TC
+T28	SECCION_DIAGNOSTICOS 5522 5534	Diagnósticos
+T29	Trombolisis_intravenosa 5601 5605	rtPA
+T30	SECCION_TRATAMIENTO_AL_ALTA 5771 5782	Tratamiento

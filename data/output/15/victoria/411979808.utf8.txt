@@ -1,0 +1,121 @@
+_LOCATION_ Tel. _CONTACT_
+_CONTACT_
+Informe Alta Hospitalització
+_NAME_
+HC: _ID_
+
+>
+
+
+Adreça: _LOCATION_	Data naix.: _DATE_ Població: _LOCATION_	Sexe: FEMENI
+Provincia: _LOCATION_	CIP: _ID_
+País: _LOCATION_	NASS: _ID_
+Telèfon: _CONTACT_ / _CONTACT_	DNI o Tarja Residència: _ID_
+
+
+Servei: Neurologia	Data ingrés a URG: 27/08/2017 12:17
+Unitat clínica: Neurologia	Data hospitalització: 27/08/2017 13:04
+Tipus d'ingrés: Urgències	Data alta: 08/09/2017 10:45
+Proveïdor de Serveis: Servei Català de la Salut	Destí: 01 - Alta Domicili
+
+
+
+Diagnòstic principal:
+
+431 HEMATOMA CAPSULO-TALAMIC
+Dret
+
+Diagnòstics Secundaris:
+
+401.9 HIPERTENSIO ARTERIAL INESPECIFICADA
+
+Procediments:
+
+90.59 ANALITICA SANG
+87.03 TAC CRANIAL
+
+
+
+
+
+Pacient de 56 anys d'edat que ingressa per debilitat hemicòs esquerra
+
+Al·lèrgies:
+
+El pacient no presenta al·lèrgies conegudes.
+
+Hàbits tòxics:
+
+No hábitos tóxicos de interés
+
+Medicació prèvia: Hidroclortiazida 50mg/dia
+Situació funcional:
+
+Situació mental: Funcionamiento intelectual normal
+Situació física: Independiente
+
+Història Actual:
+
+Pacient de 56 anys, sense AMC, independent per ABVD i FFSS conservades. No tabaquisme, enolisme ni altres tòxics. Antecedents de HTA en ttm amb un fàrmac amb mal control tensional ( PAS habituals de 140-150mmHg). Nega DLP o DM. No càrdio-pneumopatia. No gastropatia. Història de litiasis renals de repetició amb TC abdominal i ecografies normals. 2 Hernies discals.
+
+
+
+Consulta el dia 27/08 per clínica de disàrtria d'instauració aguda que s'inicia aproximadament a les 10h mentre netejava a casa. Posteriorment s'hi afegeix desviació de la comissura bucal amb pèrdua de força a hemicòs esquerra. Consulta a urgències a les 11h amb NIH de 8 a expenses de disàrtria, hemiparèsia de predomini braquial i hemihipoestèsia esquerre. S'activa codi ictus a la seva arribada que es desactiva al realizar TC cranial per hematoma de ganglis basals drets.
+
+Ingressa a Semicrítics durant 48h per control evolutiu i neurològic amb bona evolució pel que posteriorment es trasllada al servei de Neurologia.
+
+Exploració física:
+
+A l'arribada a urgències: TAS 180mmHg.
+NRL: CiO en TPE. No alteració del llenguatge. Disàrtria (2). Campimetria normal. PFSN (2). Resta ppcc normals. Hemiparèsia esquerre, braquial 3/5, crural 4+/5 (2+1). Hemihipoestèsia esquerre (1). NIHSS: 8
+
+Al ingrés a Neurologia:
+PA: 137/84mmHg. Normofreqüent. BEG, NH i NC.
+AC: TCR sense bufs ni frecs. No edemes en EEII. No signes de TVP. PPPiS. No bufs carotidis ni abdominals.
+AR: MVC sense sorolls sobreafegits. Eupnèica. ABD: TiD, no dolorós a la palpació.
+NRL: Conscient i orientada en les tres esferes. No alteració de la nominació ni de la comprensió. Disàrtria lleu (1). Campimetria normal. PFSN esquerre (1). Hemiparèsia esquerre, braquial 4-/5 (2), crural 5-/5 (0). HemiHipoestèsia esquerre (1). NIHSS: 5.
+
+Resum proves complementàries:
+
+Laboratori:
+
+-	Analítica: Leucòcits *3.77 x 10^9/L, Hematies 4.29 x 10^12/L, Hemoglobina 130 g/L, Hematòcrit 0.37 L/L, Volum corpuscular mig 86.7 fL, Hemoglobina corpuscular mitja 30.3 pg, Conc. Hb. corpuscular mitja 349 g/L, Índex dispersió hematies 12.1 %, Plaquetes 188 x 10^9/L, Volum plaquetar mig 11 fL, Índex dispersió de plaquetes 13.3 fL, Plaquetòcrit 0.021 L/L, Neutròfils (%) *48.3 %, Neutròfils *1.82 x 10^9/L, Limfòcits (%) 39.5 %, Limfòcits 1.49 x 10^9/L, Eosinòfils (%) 3.7 %, Eosinòfils 0.14 x 10^9/L, Basòfils (%)
+0.8 %, Basòfils 0.03 x 10^9/L, Monòcits (%) 7.7 %, Monòcits 0.29 x 10^9/L, TP 1.02 ratio, Glucosa 100 mg/dL, Urea *52.1 mg/dL, Creatinina 0.69 mg/dL, Sodi 143 mEq/L, Potassi 4.5 mEq/L, Àcid úric 3.6 mg/dL, AST 21 U/L, ALT 23 U/L, FA 79 U/L, GGT 24 U/L, Bilirubina total 0.7 mg/dL, Proteïnes totals 66 g/L, Albúmina sérica 45.4 g/L, Colesterol total *232 mg/dL (HDL 69.2 mg/dL, LDL 149 mg/dL), Triglicèrids 69 mg/dL, PCR 0.19 mg/dL, TSH 1.94 µU/mL, Hemoglobina glicada 5 %
+
+Imatge:
+
+-	Rx tòrax: Hilis de mida i localització normal. ICT <0,5. SCF lliures. No condensacions.
+-	TC cranial: Petit hematoma intraparenquimatòs ganglicapsular dret, sense efecte de massa significatiu.
+
+Altres proves:
+
+-	ECG:RS, QRS estret, sense alteracions de la repolarització
+-	
+
+Evolució i comentaris:
+
+Pacient de 56 anys amb antecedents de HTA mal controlada que ingressa per disàrtria i hemiparèsia esquerra secundari a hematoma ganglio-capsular dret d'etiologia hipertensiva.
+S'ha ajustat tractament hipotensor però recomanem seguir augmentant tractament pel seu MAP amb objectius de TAS <130. S'inicia tractament amb estatines a dosis baixes per hipercolesterolèmia.
+Durant l'estada a la nostra unitat ha realitzat rehabilitació amb milloria important dels dèficits. A l'alta mant é lleu disàrtria (1), PFSN E (1), hemiparèsia esquerra braquial 4+/5 (1) i crural 5-/5, així com lleu hemihipoestèsia esquerre (1). NIHSS 4. mRS 3
+
+Es deriva a CCEE de NRL per control.
+
+Acudir el dia 12/9 a les 13:30h a UDIAT per a realitzar RM de crani.
+
+Tractament:
+
+Fàrmacs:
+
+-	Simvastatina 10mg 0-0-1
+-	Hidroclortiazida 25mg 1-0-0 (disminuir a la meitat si disminució de TA)
+-	Enalapril 10mg 1-0-0
+
+Altres recomanacions:
+
+Pendent RM de crani (12/9 a les 13:30) Control TA per MAP
+Seguiment a CCEE de NRL Seguiment per Logopèdia i RHB Control per metge capçalera
+
+_LOCATION_, 08/09/2017
+_NAME_	_NAME_
+(Nº col _ID_)	(Nº col _ID_
+Nom i cognoms metge: _NAME_ (Nº col: _ID_Pàg.: 1/3

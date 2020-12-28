@@ -1,0 +1,104 @@
+I.CLINIC DE NEUROCIÈNCIES NEUROLOGIA
+_NAME_	NHC: _ID_
+
+
+Sexo/Sexe: Fem.	Fecha nac./Data naix.: _DATE_	Edad/Edat: 73 años Dirección/Adreça: _LOCATION_	CP: _LOCATION_
+Municip. (Prov.): _LOCATION_  ABS:_SS_	Tel.:_CONTACT_
+As.: SERVEI CATALA DE LA SALUT	CIP: _ID_	NASS: _ID_
+Nº epis.: _ID_	Tipo/Tipus: HOSPIT.	Ingres.: 05.03.2017 Serv: NEUROLOGIA	UO Enf.: G6B4 SALA G NEUROL. CURT. E Hora: 20:46:26
+Facult. de ref.: _NAME_
+
+
+
+
+Tipo ingreso/Tipus ingrés: Urgent	Motivo/Motiu alta: Dom. Familiar
+Diag.:
+ICTUS ISQUÉMICO ACMD. OCLUSIÓN M1 ()
+Proc.:
+TC PERFUSIÓN CEREBRAL () TROMBECTOMÍA MECÁNICA DEL ICTUS. ()
+
+
+
+
+INFORME CLÍNICO ALTA / INFORME CLÍNIC ALTA
+
+Motivo de consulta / Motiu de consulta
+Debilidad de extremidades izquierdas de inicio súbito.
+
+Antecedentes e historia previa / Antecedents i història prèvia
+** ANTECEDENTES PERSONALES: Mujer de 73 años, sin alergias medicamentosas conocidas ni hábitos tóxicos. Independiente para las actividades básicas de la vida diaria. Vive sola. mRS 1.
+
+** ANTECEDENTES PATOLÓGICOS: 1. HIPERTENSIÓN ARTERIAL en tratamiento farmacológico.
+2.	DISLIPEMIA en tratamiento farmacológico.
+3.	ICTUS ISQUÉMICO LACUNAR TALÁMICO durante un viaje en _LOCATION_ en agosto de 2016. - RMN Cerebral que confirmó ictus isquémico talámico izquierdo. - Ecocardiografía y Eco-doppler de troncos supraaórticos sin hallazgos importantes.
+4.	EPISODIO DE PALPITACIONES el 03.03.2017 por el que acudió a _SS_. Allí se realizó ECG que mostró taquicardia sinusal.
+5.	SÍNDROME DEPRESIVO
+6.	ARTROSIS GENERALIZADA
+7.	SINDROME DE APNEA-HIPOPNEA DEL SUEÑO
+8.	DIVERTICULOSIS
+9.	SÍNDROME DE MÉNIÈRE
+
+** MEDICACIÓN HABITUAL (Actualizado 05.03.2017): - AAS 100mg cada 24h - Lisinopril 5mg cada 24h - Atorvastatina 40mg cada 24h
+
+Proceso actual / Procés actual
+El 05.03.2017 a las 18:10h presenta de forma súbita debilidad de extremidades izquierdas de inicio súbito con caída desde su propia altura presenciada por su hija. Contactan con el SEM, quien remite a nuestro centro como código ictus.
+
+
+Exploración física / Exploració física
+05/03/2017-21:00:00: Frecuencia respiratoria (rpm) 17, Glicemia capilar (mg/dl) 72, PAS (mm Hg) 125, PAD (mm Hg) 62, Pulsioximetría (%) 95. 05/0 3/2017-23:00:00 : Tª axilar (ºC) 36.6. 06/03/2017-22:00:00 : FiO2 (%) 21 .
+NRL: Consciente. Orientación no valorable. Mutista (realiza una orden simple, cerrar los ojos). Mirada desviada a la derecha de forma tónica. Reflejo de amenaza izquierdo abolido. Hemiparesia facial izquierda moderada. Hemiplejia de extremidades izquierdas. Sensibilidad y dismetrías no valorables. NIHSS 24.
+
+Laboratorio / Laboratori
+*ANALITICA SANGUINEA DE URGENCIAS: Sin alteraciones relevantes.
+*ANALITICA SANGUINEA DE INGRESO: Colesterol total 118 mg/dL, LDL 55, HDL 55. Hemograma sin alteraciones. VSG 36. Hb glicada 5.4%. Se adjunta analítica completa.
+
+Radiología / Radiologia
+*	TC CRANEAL MULTIMODAL (05/03/17):
+-	TC CRANEAL BASAL: No se observa hemorragia intra ni extraaxial. Imagen lacunar capsulotalámica izquierda, de probable naturaleza isquémica crónica. Parénquima cerebral sin otras alteraciones densitométricas. Diferenciación cortico-subcortical conservada. ASPECTS 10. Estructuras de la línea media centradas. Sistema ventricular de tamaño y morfología normal. Cisternas basales libres.
+-	TC PERFUSIÓN: Retraso de gran parte del territorio del ACMD en mapa de TTP conservando el área frontal, sin alteración significativa de mapa de CBV, condicionando discordancia significativa entre mapas (>200%).
+-	ANGIO-TC EXTRA E INTRACRANEAL: Estudio artefactado por movimientos de la paciente que dificulta su valoración extracraneal. Ausencia de opacificación del segmento M1 de la ACMD de aprox 9 mm de longitud con repermeabilización de las ramas distales por buena colateralidad. Arco aórtico y segmentos proximales de troncos supraórticos sin ateromatosis ni signos de estenosis. Origen, bifurcación y segmentos cervicales de la arteria carótida interna sin ateromatosis ni signos de estenosis. Discreta elongación de ambas carótidas internas. Segmentos intracavernoso y supraclinoideo de la arteria carótida interna sin ateromatosis ni signos de estenosis. Origen de las arterias vertebrales sin ateromatosis ni signos de estenosis. Resto de principales arterias cerebrales intracraneales permeables (ACAs, ACMI y ACPs). Sistema vertebrobasilar permeable, de pequeño calibre.
+
+* TC CRANEAL DUAL (05/03/17, control post-TEV): Se compara con TC previa de hace 6-7 horas: No se observan signos de sangrado agudo intracraneal. Estructuras de la línea media centradas. Cisternas basales permeables. Leve colapso de surcos en convexidad derecha. Sistema ventricular de tamaño y posición dentro de la normalidad. Discreta compresión del VLD. Imagen lacunar capsulo-talámica izquierda, probablemente isquémca crónica.
+
+Exploraciones complementarias / Exploracions complementàries
+
+*	HOLTER: Ritmo de fibrilación auricular durante todo el registro con FC máxima 161 lpm, mínima 60 lpm, en promedio 102 lpm (58% del tiempo FC > 100 lpm). RR máximo 1.8 seg a  las 2:03 seg. No presentó extrasístoles ventriculares.
+
+Intervenciones quirúrgicas / Intervencions quirúrgiques
+*TRATAMIENTO AGUDO MECANICO DEL ICTUS: Se realiza punción femoral derecha. Se realiza cateterización selectiva y la primera serie angiográfica confirma la presencia de una oclusión a nivel de m1 derecha. Se procede al microcateterismo selectivo de arteria ocluida logrando una adecuada posición para realizar aspiración mediamt sistema penumbra (1 aspiración). En la serie de comprobación final se confirma recanalización TICI 3 .
+
+Evolución / Evolució
+
+
+
+1. ICTUS ISQUÉMICO AGUDO EN EL TERRITORIO DE LA ARTERIA CEREBRAL MEDIA DERECHA (ACMD). OCLUSIÓN M1. r-tPA + TROMBECTOMIA MECÁNICA. 2. FIBRILACIÓN AURICULAR no conocida previamente
+A su llegada a nuestro centro hemodinámicamente estable, afebril. A la exploración inicial destaca mutismo y síndrome hemisférico derecho completo (NIHSS 24). En la monitorización, ritmo sinusal. Analítica sanguínea sin alteraciones. La neuroimagen (TC multimodal) muestra dudosa hipodensidad insular derecha, sin otras alteraciones (ASPECTS 10). AngioTC objetiva oclusión del segmento M1 de la ACMD con retraso de la perfusión sin caída de volumen (missmatch significativo). Ante la ausencia de contraindicaciones, se inicia perfusión de rtPA con bolus y se procede a tratamiento endovascular, consiguiendo una recanalización completa TICI 3. Tras el procedimiento, la paciente presenta mejoría neurológica importante hasta NIHSS 3 a expensas de negligencia visual, extinción táctil y disartria. El TC craneal dual de control descarta lesiones hemorrágicas, por lo que se inicia tratamiento con heparina sódica. Se completa estudio con RM cerebral que confirma ictus isquémico agudo en territorio profundo.
+Durante su estancia en la Unidad de Ictus se objetiva fibrilación auricular por lo que se inicia tratamiento con heparina sódica con posterior paso a acenocumarol.
+Se trata de un ictus isquémico en el territorio de la ACMD de etiología cardioembólica. La paciente presenta evolución favorable hasta resolución de la sintomatología. Dada la correcta evolución se decide alta a domicilio. Se recomienda completar estudio de forma ambulatoria con ecocardiograma.
+Al alta: - NIHSS (National Institute of Healh Stroke Scale): 0 - TOAST: Cardioembólico. - Esacala Rankin modificada: 1
+
+Plan terapéutico / Pla terapèutic
+Tratamiento para la arrítmia: - Sintrom 4 mg Vía oral cada 24 horas segun pauta - Bisoprolol 2,5 mg una vez al día, en el desayuno.
+Tratamiento para el colesterol: - Atorvastatina 40 mg vía oral una vez al día, en la cena.
+
+Otras recomendaciones / Altres recomanacions
+- Se revomienda control estricto de los factores de riesgo cardiovascular. - Se recomienda completar estudio con ecocardiograma ambulatorio. - Control por sus médicos habituales. - Acudirá a CCEE de Neurología según cita adjunta.
+
+
+
+Firma/Signatura1: _NAME_		Firma/Signatura2: _NAME_ Categoría: Resident 2	Categoría: Consultor/a 1
+Nº Matrícula HCP: _ID_	Nº Matrícula HCP: _ID_ Fecha/Data Informe: 10.03.2017
+Hora Informe: 12:53:18
+
+Docum.: _ID_
+Hist. Clínica: _ID_
+El _SS_ ha incorporado sus datos al Fichero de Pacientes, para tratarlos con fines sanitarios.
+Puede ejercer sus derechos de acceso, rectificación, cancelación y oposición, así como obtener mas información en la Unidad de Atención al Cliente.
+Vers. 00
+Pag. 2 de
+3
+Episod.: _ID_
+_SS_ ha incorporat les seves dades al Fitxer de Pacients, per a tractar-los amb finalitats sanitàries. Pot exercir els seus drets d'accés, rectificació, cancel·lació i oposició, i obtenir més informació a la Unitat d'Atenció al Client.
+_SS_
+_LOCATION_) _LOCATION_) Tel. _CONTACT_ Fax _CONTACT_
+http://_CONTACT_/

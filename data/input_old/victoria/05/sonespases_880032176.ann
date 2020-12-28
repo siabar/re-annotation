@@ -1,0 +1,64 @@
+T0	SECCION_DIAGNOSTICOS 41 53	Diagnosticos
+T1	FECHA 54 64	23/04/2018
+#1	AnnotatorNotes T1	2018-04-23
+T2	Ictus_isquemico 73 87	ECVA ISQUÉMICO
+T3	Arteria_afectada 102 104	VB
+T4	Etiologia 118 131	INDETERMINADA
+T5	_SUG_Ictus_isquemico 227 232	Ictus
+T6	Fecha_llegada_hospital 236 246	23/04/2018
+#6	AnnotatorNotes T6	2018-04-23
+T7	SECCION_ANTECEDENTES_PERSONALES 248 271	ANTECEDENTES PERSONALES
+T8	SECCION_SITUACION_FUNCIONAL 391 406	Situación basal
+T9	mRankin_previa 415 420	mRS 0
+T10	SECCION_TRATAMIENTO_HABITUAL 425 445	Tratamiento habitual
+T11	Tratamiento_antiagregante_hab 449 452	AAS
+T12	SECCION_ANTECEDENTES_PATOLOGICOS 549 573	ANTECEDENTES PATOLÓGICOS
+T13	_SUG_Ictus_isquemico 576 599	ECVC: infarto isquémico
+T14	_SUG_Localizacion 600 606	bulbar
+T15	_SUG_Trombolisis_intravenosa 637 646	trombosis
+T16	_SUG_Arteria_afectada 653 670	arteria vertebral
+T17	_SUG_Lateralizacion 671 675	izda
+T18	FECHA 679 688	agosto/06
+#18	AnnotatorNotes T18	2006-08-UNDEF-day
+T19	_SUG_NIHSS 718 731	NIHSS total 0
+T20	FECHA 867 871	2002
+#20	AnnotatorNotes T20	2002-UNDEF-month-UNDEF-day
+T21	_SUG_Lateralizacion 894 901	derecho
+T22	SECCION_PROCESO_ACTUAL 993 1010	ENFERMEDAD ACTUAL
+T23	_SUG_Ictus_isquemico 1469 1474	Ictus
+T24	SECCION_EXPLORACION_FISICA 1534 1552	Exploración física
+T25	_SUG_Lateralizacion 2112 2121	bilateral
+T26	_SUG_Lateralizacion 2148 2157	bilateral
+T27	NIHSS_previa 2178 2199	NIHSS total: 0 puntos
+T28	SECCION_EXPLORACIONES_COMPLEMENTARIAS 2382 2416	Resultados pruebas complementarias
+T29	_SUG_Localizacion 3037 3044	Parcial
+T30	_SUG_Localizacion 3084 3091	Parcial
+T32	_SUG_TAC_craneal 4468 4470	TC
+T33	_SUG_Localizacion 4634 4645	ventricular
+T34	_SUG_Arteria_afectada 4817 4832	vertebrobasilar
+T35	_SUG_Arteria_afectada 5011 5026	vertebrobasilar
+T36	_SUG_Arteria_afectada 5032 5041	carotídeo
+T37	_SUG_Arteria_afectada 5153 5162	carotídeo
+T38	_SUG_Lateralizacion 5163 5170	derecho
+T39	_SUG_Arteria_afectada 5226 5235	carotídeo
+T40	_SUG_Localizacion 5344 5353	posterior
+T41	_SUG_Arteria_afectada 5363 5372	carotídeo
+T42	_SUG_Lateralizacion 5505 5514	bilateral
+T43	_SUG_Arteria_afectada 5612 5614	AB
+T44	_SUG_Etiologia 5674 5686	Ateromatosis
+T45	_SUG_Arteria_afectada 5687 5696	carotídea
+T46	SECCION_EVOLUCION 5730 5752	Evolución Hospitalaria
+T47	_SUG_Ictus_isquemico 5816 5823	infarto
+T48	_SUG_Localizacion 5824 5830	bulbar
+T49	_SUG_Trombolisis_intravenosa 5852 5861	trombosis
+T50	FECHA 5875 5879	2006
+#50	AnnotatorNotes T50	2006-UNDEF-month-UNDEF-day
+T51	_SUG_TAC_craneal 6155 6167	TAC cerebral
+T52	_SUG_Lateralizacion 6538 6543	ambas
+T53	_SUG_Lateralizacion 6585 6592	derecho
+T55	_SUG_Etiologia 6743 6751	habitual
+T56	Fecha_de_ingreso 236 246	23/04/2018
+#2	AnnotatorNotes T56	2018-04-23
+#3	AnnotatorNotes T9	0
+#5	AnnotatorNotes T27	0
+T58	TAC_craneal 4455 4466	TC cerebral

@@ -1,0 +1,74 @@
+T1	Hora_de_alta 257 262	15:43
+#1	AnnotatorNotes T1	15:43
+T2	Fecha_de_alta 277 287	08.06.2017
+#2	AnnotatorNotes T2	2017-06-08
+T3	Fecha_de_ingreso 362 372	04.06.2017
+#3	AnnotatorNotes T3	2017-06-04
+T4	_SUG_Ictus_isquemico 453 458	Ictus
+T5	FECHA 782 792	junio-2014
+#5	AnnotatorNotes T5	2014-06-UNDEF-day
+T7	mRankin_previa 922 930	Rankin 0
+T8	Hora_inicio_sintomas 1014 1018	9:45
+#8	AnnotatorNotes T8	9:45
+T9	Hora_llegada_hospital 1093 1098	10:49
+#9	AnnotatorNotes T9	10:49
+T10	_SUG_Lateralizacion 1200 1201	D
+T11	Localizacion 1356 1360	TACI
+T13	NIHSS_previa 1363 1371	NIHSS 18
+T15	Fecha_TAC_inicial 1783 1791	TC crani
+T16	FECHA 1800 1806	4/5/17
+#16	AnnotatorNotes T16	2017-05-04
+T17	ASPECTS 1857 1867	ASPECTS 10
+T19	_SUG_TAC_craneal 1930 1940	TC craneal
+T20	FECHA 1950 1955	05/06
+#20	AnnotatorNotes T20	2006-05-UNDEF-day
+T21	_SUG_Localizacion 1997 2005	temporal
+T22	_SUG_Lateralizacion 2006 2013	derecha
+T23	_SUG_Arteria_afectada 2118 2121	ACM
+T24	_SUG_Lateralizacion 2122 2129	derecha
+T25	_SUG_Arteria_afectada 2382 2385	ACM
+T26	_SUG_Lateralizacion 2386 2387	D
+T27	_SUG_Localizacion 2389 2393	TACI
+T28	_SUG_NIHSS_alta 2398 2409	NIHSS de 18
+T29	_SUG_NIHSS_previa 2398 2409	NIHSS de 18
+T31	_SUG_TAC_craneal 2412 2420	TC crani
+T33	_SUG_Ictus_isquemico 2489 2503	ictus isquèmic
+T34	_SUG_Lateralizacion 2526 2527	D
+T38	_SUG_TAC_craneal 2760 2768	TC crani
+T39	_SUG_Arteria_afectada 2870 2873	ACM
+T40	_SUG_Lateralizacion 2874 2875	D
+T41	_SUG_Tratamiento_antiagregante_alta 3325 3328	AAS
+T42	_SUG_Tratamiento_antiagregante_hab 3325 3328	AAS
+T43	_SUG_Tratamiento_antiagregante_alta 3428 3439	clopidogrel
+T44	_SUG_Tratamiento_antiagregante_hab 3428 3439	clopidogrel
+T45	_SUG_Localizacion 3632 3641	posterior
+T47	Ictus_isquemico 3680 3694	ICTUS isquèmic
+T48	Arteria_afectada 3707 3710	ACM
+T49	Lateralizacion 3711 3712	D
+T50	Etiologia 3742 3755	indeterminada
+T51	_SUG_Ictus_isquemico 3790 3795	ICtus
+T52	Trombolisis_intravenosa 3798 3810	Fibrinolisis
+T53	Test_de_disfagia 3885 3901	Test de disfagia
+T55	Tratamiento_anticoagulante_alta 3943 3953	Bemiparina
+T57	Tratamiento_antiagregante_alta 4040 4052	clopidogrell
+T59	FECHA 4271 4281	08.06.2017
+#59	AnnotatorNotes T59	2017-06-08
+T60	SECCION_MOTIVO_DE_INGRESO 433 447	MOTIU D'INGRÉS
+T61	SECCION_ANTECEDENTES 460 471	ANTECEDENTS
+T62	SECCION_PROCESO_ACTUAL 933 946	PROCÉS ACTUAL
+T63	SECCION_EXPLORACION_FISICA 1104 1121	EXPLORACIÓ FÍSICA
+T64	SECCION_EXPLORACIONES_COMPLEMENTARIAS 1465 1490	EXPLORACIÓ COMPLEMENTÀRIA
+T65	SECCION_EVOLUCION 2218 2234	EVOLUCIÓ CLÍNICA
+T66	SECCION_DIAGNOSTICO_PRINCIPAL 3659 3670	DIAGNÒSTICS
+T67	SECCION_PROCEDIMIENTOS 3772 3784	PROCEDIMENTS
+T68	SECCION_TRATAMIENTO_Y_RECOMENDACIONES_AL_ALTA 3905 3940	TRACTAMENT I RECOMANACIONS A L'ALTA
+T69	SECCION_CONTROL 4147 4154	CONTROL
+#4	AnnotatorNotes T7	0
+T6	Fecha_inicio_sintomas 362 372	04.06.2017
+T14	Fecha_llegada_hospital 362 372	04.06.2017
+#6	AnnotatorNotes T13	18
+#7	AnnotatorNotes T17	10
+T18	Hora_primer_bolus_trombolisis_rtPA 2625 2630	11'37
+#10	AnnotatorNotes T18	11:37
+T30	Etiologia 3726 3733	embòlic
+T32	SECCION_DESTINO_AL_ALTA 4194 4213	DESTINACIÓ A L'ALTA

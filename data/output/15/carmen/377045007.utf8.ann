@@ -1,0 +1,35 @@
+T1	SECCION_TIPO_DE_INGRESO 433 458	Tipo ingreso/Tipus ingrés
+T2	SECCION_MOTIVO_DEL_ALTA 467 484	Motivo/Motiu alta
+T3	SECCION_DIAGNOSTICOS 500 505	Diag.
+T4	_SUG_Trombolisis_intravenosa 601 610	TROMBOSIS
+T5	SECCION_PROCEDIMIENTOS 645 650	Proc.
+T6	_SUG_TAC_craneal 652 654	TC
+T7	_SUG_TAC_craneal 726 733	CRANEAL
+T8	SECCION_MOTIVO_DE_INGRESO 827 865	Motivo de consulta / Motiu de consulta
+T9	SECCION_ANTECEDENTES 945 1007	Antecedentes e historia previa / Antecedents i història prèvia
+T10	SECCION_ANTECEDENTES_PERSONALES 1118 1141	ANTECEDENTES PERSONALES
+T11	SECCION_TRATAMIENTO_HABITUAL 1254 1274	TRATAMIENTO HABITUAL
+T12	SECCION_PROCESO_ACTUAL 1312 1342	Proceso actual / Procés actual
+T13	SECCION_EXPLORACION_FISICA 1459 1497	Exploración física / Exploració física
+T14	TAC_craneal 2243 2253	TC CRANEAL
+T15	_SUG_TAC_craneal 2334 2344	TC CRANEAL
+T16	_SUG_TAC_craneal 2708 2720	TRANSCRANEAL
+T17	_SUG_Trombolisis_intravenosa 2818 2830	Trombosis de
+T18	_SUG_Trombolisis_intravenosa 3024 3033	trombosis
+T19	SECCION_EXPLORACIONES_COMPLEMENTARIAS 3036 3096	Exploraciones complementarias / Exploracions complementàries
+T20	SECCION_EVOLUCION 3223 3243	Evolución / Evolució
+T21	Trombolisis_intravenosa 3319 3342	Fibrinolisis. con r-tPA
+T22	_SUG_Trombolisis_intravenosa 3374 3383	TROMBOSIS
+T23	_SUG_TAC_craneal 3827 3837	TC craneal
+T24	_SUG_Trombolisis_intravenosa 4122 4147	tratamiento fibrinolítico
+T25	_SUG_TAC_craneal 4313 4323	TC craneal
+T26	_SUG_TAC_craneal 4551 4563	transcraneal
+T27	_SUG_Trombolisis_intravenosa 4713 4725	trombosis de
+T28	_SUG_Trombolisis_intravenosa 4921 4930	trombosis
+T29	_SUG_Trombolisis_intravenosa 5527 5536	trombosis
+T30	_SUG_Trombolisis_intravenosa 5591 5605	trombofilias y
+T31	_SUG_Trombolisis_intravenosa 6012 6026	trombofílias y
+T32	SECCION_EXPLORACION_FISICA_AL_ALTA 6098 6105	Al alta
+T33	SECCION_TRATAMIENTO_AL_ALTA 6166 6199	Plan terapéutico / Pla terapèutic
+T34	SECCION_RECOMENDACIONES 6340 6361	Otras recomendaciones
+T35	_SUG_Trombolisis_intravenosa 6531 6546	trombofílias en

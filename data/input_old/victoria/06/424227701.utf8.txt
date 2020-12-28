@@ -1,0 +1,168 @@
+_LOCATION_ Tel. _CONTACT_
+e-mail: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 71 Anys
+NIF/DNI: _ID_Informe d'alta d'hospitalització
+CP	_LOCATION_
+ABS	_SS_
+Servei	NEUROLOGIA
+Data d'alta  02.10.2017	14:00:00
+_LOCATION_
+_CONTACT_; _CONTACT_
+DOMICIL/RES.SOC 26.09.2017
+Dr. _NAME_, Dra. _NAME_, Dr. _NAME_, Dra. _NAME_
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Alteración articulación del lenguaje
+
+ANTECEDENTS
+ANTECEDENTES PERSONALES
+Hombre de 71 años. No alérgias medicamentosas conocidas. Ex- Fumador.
+
+ANTECEDENTES PATOLÓGICOS
+-	Adenocarcinoma de primario no conocido con alta pobabilidad de corresponder a origen pulmonar: masa LC derecha y afectación mediastinal a nivel subcarinal e hiliar bilateral.(10.07) . Fue tratado con Quimioterapia (Cis/Gem ) + RT 3 linias de tratamiento en nuestro centro.
+Considerado libre de enfermedad desde el 2010, realiza seguiminetos anuales con Oncologia.
+-	Claudicación intermitente de corta distancia (oblit FP eid; oblit distal izq)
+-	Hipertensión arterial
+-	Dislipemia
+-	Insuficiencia venosa
+-	Artosis en manos. Artritis gotosa
+-	Ictus isquémico cerebeloso izquierdo crónico silente hallado en contexto de ictus isquémico agudo de territorio de ACM izquierda el pasado enero del 2017 que fue atendido en Almeria, por episodio de alteración del lenguaje, debilidad de extremidades derechas. Se realizó estudio con TC y RMN craneal que mostró lesiones embólicas en territorio de ACM izquierda. Estudio neurosonológico que informa unicamente de ateromatosis carotidea bilateral superior izquierda. El paciente fue dado de alta con tratamineto antiagregante con Adiro de 300 mg y estatinas a dosis altas. Unicamente disartria residual.
+
+MEDICACIÓ HABITUAL
+Adiro 300mg cada 24 horas, Alopurinol 100 mg cada 24 horas, Amlodipino 10 mg cada 24 horas, Atorvastatina 80 mg cada 24 horas, Candesartan/Hidroclorotiazida 32/12.5 mg cada 24 horas, Lormetazepam 1mg cada 24 horas, Omeprazol 20mg cada 24 horas, Paracetamol 1g si precisa.
+
+
+PROCÉS ACTUAL
+Anamnesis completada con el paciente y sus familiares (esposa e hijo). Refieren desde hace dos días dificultad para la articulación del lenguaje, lenguaje incoherente. Refieren además caída de objetos con las manos de predominio en mano derecha. Niega otra sintomatología asociada.
+El paciente refiere que en enero presentó algun episodio de perdida de visión en forma de tela negra en ojo izquierda que recuperó a los pocos minutos. Niega clínica de claudicación retiniana.
+
+EXPLORACIÓ FÍSICA
+
+Informe d'alta d'hospitalització
+
+
+
+
+Exploración física en Urgencias:
+Buen estado general. Consciente y orientado. Normocloreado y normohidratado. AC: Ruidos cardiacos regulares, sin soplos, ni extratonos. IY-, RHJ-.
+AR: MVC sin ruidos sobreañadidos.
+Abdomen:  blando  y  depresible,  no  doloroso  a  la  palpación,  sin  masas  ni  visceromegalias.  Peristaltismo conservado.
+EEII sin edemas ni signos de TVP. Pulsos pedios, tibiales y popliteos ausentes.
+
+NRL: discreta disartria. Comprensíón adecuada. Lenguaje coherente. Nomina adecuadamente. Pupilas simétricas normorreactivas. PPCC sin alteraciones, no presenta nistagmo. Tono y fuerza muscular 5/5, 4/5 en ambas manos I>D. sensibilidad superficial conservada. ROT y RCP (flexor bilateral) sin alteraciones. Coordinación correcta. Marcha sin alteraciones aparentes, Romberg -. No ataxia. No presenta signos meníngeos.
+
+Exploración física en planta de neurologia:
+Consciente y orientado en los 3 ejes. No elementos afásico, disartria leve. No alteraciones campimétricas por confrontación ni de la oculomotricidad. No paresia facial, pares craneales bajos normales. Sin deficit motor ni sensitivo, no dismetrias. Marcha estable.
+NIHSS: (0.0.0)0.0/0(0.0)(0.0)/0.0.0.1. 0 =1
+
+ACV: RCR sin soplos ni roces
+AR: mvc bilateral sin ruidos sobreañadidos. soplo carotídeo izquierdo.
+ABD: blando y depresible, no doloroso a la palpación. Peristaltismo presentes EEII: no signos de TVP. Pulsos pedios, tibiales, popliteos ausentes.
+
+EXPLORACIÓ COMPLEMENTÀRIA
+EXPLORACIONES COMPLEMENTARIAS EN URGENCIAS:
+
+Analítica urgencia:
+Hemograma: leucocitos: 8.400, fórmula normal, Hb: 12,2g/dl, VCM: 88,3fl, plaquetas: 197.000. Coagulación: TP: 88%, INR: 1.09, Fibrinógeno: 756mg/dl, TTPA: 31,1seg.
+Equilibrio: PH: 7,38, PCO2: 42, PO2: 38, HCO3-: 24,8, EB: -0,4, SATO2: 80,2%.
+Bioquímica: glucosa: 232mg/dl, urea: 81,4mg/dl, Na: 133,5mmol/l, K: 4,2, bilirrubina: 0,64, ALT: 16, PCR: 29,80, Cr: 2,10.
+
+Urinoanálisis: nitritos positivos, esterasa lecucocitaria negativa. Sedimenteo: no patológico.
+
+ECG: ritmo sinusal a 70lpm, PR constante a 160ms, QRS 80ms, ondas T negativas en V1-V3. No alteraciones agudas de la repolarización ni signos de sobrecarga.
+
+TC craneal con y sin contraste: (pendiente de informe definitivo): Lesion isquémica hemisférica cerebelosa  izquierda con lesiones de territorio profundo y frontera de ACM izquierda. No se observan lesiones isquémicas ni hemorrágicas agudas. No lesiones ocupantes de espacio.
+
+Estudio neurosonológico:
+Estudi Trans-Craneal:Asimetria de ACMs con amortiguación de flujo en ACM derecha. Compensación a través de ACoP y oftálmica. Se registran ambas ACAs y ACPS con características y flujos dentro  de  la normalidad. Oftálmica derecha antidrómica, izquierda ortodrómica.
+
+Informe d'alta d'hospitalització
+
+
+
+
+Estudi de TSA
+-	eje carotideo derecho: placa iso/anecoica en emergencia de ACI derecha que impide ver flujo a través de la luz sugestiva de oclusión.
+-	Eje carotideo izquierdo: placa heterogenea hiper/isoecoica en bulbo y emergencia de ACI de superficie irregular con ulceración que condiciona estenosis crítica de ACI izquierda.
+-	Vertebrales ortodrómicas, izquierda dominante. No se observa óstium derecho. Óstium izquierdo sin estenosis. Conclusió: Placa iso/anecoica en emergencia de ACI derecha que impide ver flujo a través de la luz sugestiva de oclusión. Placa heterogenea hiper/isoecoica en bulbo y emergencia de ACI de superficie irregular con ulceración que condiciona estenosis crítica de ACI izquierda. Asimetria de ACMs con amortiguación de flujo en ACM derecha. Compensación a través de ACoP y oftálmica.
+
+EXPLORACIONES COMPLEMENTARIAS EN PLANTA DE NEUROLOGIA:
+
+Analítica de ingreso (28.09.2017): Hematologia (28/09/17): Leucòcits 7200 /µL, (N 59,4 % / L 28,1 / M 8,4 / E 3,3 / B 0,8), Hties 4 mill/µL, Hb 12,2 g/dL, Hct 35,6 %, VCM 89,2 fL, Plaquetes 218000 /µL, TP 93 %, INR 1,05
+sg, TP ratio 1,06, TTPA 32,8 sg, TTPA ratio 1,06, Fibrinogen 713 mg/dL.
+Bioquimica (28/09/17): Glucosa 160 mg/dL, HbA1c 6,5 %, Urea 84 mg/dL, Creatinini 2,1, Filtrat glomerular estimat 31 mL/min/1.73 m2, Urat 8,7 mg/dL, Ca 9,1, Fosfat 3,2, Mg 1,56, Na 137,8 mmol/L, K 4,56, Cl 100,6, ALT 15 U/L,
+GGT 53, FA 77, LDH 126, Bilirubina 0,59 mg/dL, Amilasa 91 U/L, Prot-C reactiva 24,4 mg/L, Proteïna 63,9 g/L,
+Albumina 38,8. Proteinograma.- Alb 38,1, a1·Glob 3,5, a2·Glob 8,9, ß·Glob 7, ?·Glob 6,4. Lípids.- Triglicèrid 312
+mg/dL, Colesterol 199, (HDL 30,8 / LDL 106). Hormonas (28/09/17): TSH 2,597 µUI/mL.
+
+RMN y AngioRMN cerebral (28.09.2017): Estudio craneal que muestra oclusión proximal de la ACI derecha. Estenosis de aproximadamente 70% proximal de la ACI izquierda. Estenosis crítica del segmento P1 de la ACP izquierda. Signos de ateromatosis intra y extracraneal. A nivel intracraneal se observan múltiples lesiones isquémicas  crónicas  en  territorio vasculares perforantes y frontera  bilaterales de claro  predominio izquierdo. Dudoso foco de isquemia aguda puntiforme cortical temporal derecha.
+
+Rx torax (28.09.2017): Sin alteraciones RX significativas.
+
+Ecografia transtorácica (2.10.2017):
+-	Ventricles de dimensions i motilitat normal amb FEVE del 60%.
+-	Vàlvula aòrtica discretament esclerosada. Mínima insuficiència aòrtica
+
+EVOLUCIÓ CLÍNICA
+Varon de 71 años, con antecedentes de ictus isquémico crónico cerebeloso izquierdo y de territorio frontera de ACM izquierda que requirió ingreso el pasado enero del 2017 en Almeria, orientandose como ictus de mecanismo embólico y de etiologia aterotrombótica y que se objetivó ateromatosis carotidea bilateral de predominio izquierda.
+
+Informe d'alta d'hospitalització
+
+
+
+
+Consula el pasado 25.09.2017 por nuevo episodio de aletarción de la emisión del lenguaje de minutos de duración, por lo que consulta por sus propios medios sin activación de codigo ictus.
+A su llegada a nuestro centro hemodinamicamente estable, eupneico y afebril. A la exploración física pulsos periféricos ausentes por vasculopatia importante y disartria, puntuando NIHSS de 1. ECG en ritmo sinusal. Analítica y sedimento de orina sin alteraciones relevantes. Se realiza TC craneal con y sin contraste que muestra lesion isquémica cerebelosa izquierda y en territorio frontera de ACM izquierda sin nuevas lesiones agudas ni LOEs. Estudio neurosonológico con placa iso/anecoica en emergencia de ACI derecha que impide ver flujo a través de la luz sugestiva de oclusión. Placa heterogenea hiper/isoecoica en bulbo y emergencia de ACI de superficie irregular con ulceración que condiciona estenosis crítica de ACI izquierda. Asimetria de ACMs con amortiguación de flujo en ACM derecha. Compensación a través de ACoP y oftálmica. Se decide ingreso en Neurologia para completar estudio y valorar manejo medico.
+
+Durante su ingreso en planta de Neurologia, el paciente se mantiene estable hemodinamicamente, eupneico y afebril. Presenta dos nuevos episodios de afasia que remiten colocando al paciente a 0º. En los dias posteriores, sedestación progresiva bien tolerada, pudiendo sedestar y deambular por la planta sin nuevos episodios. El paciente ha tolerado dieta oral sin disfagia. Se realiza analítica de ingreso con perfil lipidico alterado, asi como función renal alterada con creatininas de 2 mg/dL, previamente conocidas. Durante el ingreso, el paciente ha requerido 30 UI diarias de insulina con glicada en la analítica de ingreso de 6.5%, diagnosticandose de Diabetes mellitus tipo II.
+
+Para completar estudio, se solicita RMN y AngioRMN cerebral con estudio craneal que muestra oclusión proximal de la ACI derecha. Estenosis de aproximadamente 70% proximal de la ACI izquierda. Estenosis crítica del segmento P1 de la ACP izquierda. Signos de ateromatosis intra y extracraneal. A nivel intracraneal se observan múltiples lesiones isquémicas crónicas en territorio vasculares perforantes y frontera bilaterales de claro predominio izquierdo. Dudoso foco de isquemia aguda puntiforme cortical temporal derecha. Ecocardiograma con fracción de eyección conservada sin alteraciones de la motilidad ni valvulopatias.
+
+Se comenta el caso con comité de carotidas, siendo tributario a tratamiento de reperfusión, por lo que se contactará con el paciente telfonicamente para citación. Dada la estabilidad clínica, el paciente es dado de alta.
+
+Al alta: NIHSS: 1
+mRS: 2
+
+
+
+
+DIAGNÒSTICS
+1.- Ictus isquémico de territorio de ACM izquierdo de mecanismo embólico y de etiologia aterotrombótica 2.- Oclusión de ACI derecha y estenosis crítica de ACI izquierda.
+3.- Hipertensión arterial
+4.- Dislipemia
+5.- Ictus isquémico cerebeloso izquierdo crónico silente 6.- Insuficiencia renal crónica
+7.- Diabetes mellitus tipo II.
+
+Informe d'alta d'hospitalització
+
+
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+-	Ranitidina 150 mg 1-0-1
+-	Clopidogrel 75 mg 0-1-0
+-	Atorvastatina 80 mg 0-0-1
+-	Alopurinol 100 mg cada 24 horas
+-	Trajenta (linagliptina) 5mg 1-0-0
+-	Amlodipino 10 mg cada 24 horas
+-	candesartan/Hidroclorotiazida 32/12.5 mg cada 24 horas
+
+
+CONTROL
+Control por especialistas habituales.
+Se contactará telefonicamente con el paciente para citar para tratamiento de estenosis carotidea izquierda.
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+02.10.2017
+Pàgina 1 de 5

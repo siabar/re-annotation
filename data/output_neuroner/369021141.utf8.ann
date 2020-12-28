@@ -1,0 +1,41 @@
+T1	SECCION_DIAGNOSTICOS 319 334	DIAGNÒSTIC ALTA
+T2	SECCION_ANTECEDENTES 555 567	Antecedentes
+T3	SECCION_ANTECEDENTES_QUIRURGICOS 719 721	IQ
+T4	mRankin_previa 826 834	Rankin 1
+#4	AnnotatorNotes T4	1
+T5	SECCION_TRATAMIENTO_HABITUAL 836 848	Tto habitual
+T6	SECCION_PROCESO_ACTUAL 930 947	Enfermedad actual
+T7	SECCION_EXPLORACION_FISICA 1138 1156	Exploración física
+T8	NIHSS_previa 1413 1420	NIHSS 0
+#8	AnnotatorNotes T8	0
+T9	SECCION_EXPLORACIONES_COMPLEMENTARIAS 1423 1452	Exploraciones complementarias
+T10	ASPECTS 3622 3632	ASPECTS 10
+#10	AnnotatorNotes T10	10
+T11	SECCION_EVOLUCION 4559 4568	Evolución
+T12	NIHSS_alta 5522 5537	NIHSS al alta 0
+#12	AnnotatorNotes T12	0
+T13	mRankin_alta 5539 5544	mRS 1
+#13	AnnotatorNotes T13	1
+T14	Tratamiento_antiagregante_alta 5950 5955	Adiro
+T15	Fecha_de_ingreso 235 245	29.04.2017
+#15	AnnotatorNotes T15	2017-04-29
+T16	Fecha_de_alta 257 267	09.05.2017
+#16	AnnotatorNotes T16	2017-05-09
+T17	Hora_de_alta 268 273	13:50
+#17	AnnotatorNotes T17	13:50
+T18	Ictus_isquemico 444 456	AVC ISQUEMIC
+T19	Fecha_llegada_hospital 953 963	28.04.2017
+#19	AnnotatorNotes T19	2017-04-28
+T20	Fecha_inicio_sintomas 953 963	28.04.2017
+T21	Hora_inicio_sintomas 970 972	17
+#21	AnnotatorNotes T21	17:00
+T22	Hora_llegada_hospital 4733 4738	17:25
+#22	AnnotatorNotes T22	17:25
+T23	Etiologia 5468 5481	indeterminada
+T24	Fecha_trombolisis_rtPA 953 963	28.04.2017
+T25	TAC_craneal 1680 1690	TC Cranial
+T26	Trombolisis_intravenosa 4829 4840	trombolisis
+T27	Hora_primer_bolus_trombolisis_rtPA 4854 4859	18:03
+#27	AnnotatorNotes T27	18:03
+T28	SECCION_TIPO_DE_INGRESO 6000 6014	Tipus d'ingrés
+T29	SECCION_MOTIVO_DEL_ALTA 6016 6028	Motiu d'alta

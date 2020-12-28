@@ -1,0 +1,126 @@
+_LOCATION_
+email: _CONTACT_ Telèfon _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 83 Anys
+NIF/DNI: _ID__NAME_; _NAME_
+Informe de Trasllat a Sociosanitari
+15:00:00
+09.11.2017
+_LOCATION_
+_SS_ NEUROLOGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_; _CONTACT_
+DOMICIL/RES.SOC 28.10.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Mujer de 83 años que es derivada como código ictus.
+
+ANTECEDENTS
+No alergias medicamentosas conocidas. No hábitos tóxicos.
+
+ANTECEDENTES PATOLÓGICOS
+-Hipertensión arterial esencial en tratamiento farmacológico.
+-Trastorno ventilatorio restrictivo en tratamiento broncodilatador habitual. SpO2 basal en torno a 97% (aire ambiente).
+*Últimas PFRs (junio 2017): FVC 1.82 L (71%); FEV11.33l (77%), FEV1/FVC 72,69. Prueba
+broncodilatadora negativa.
+*PFRs completas 2009: FVC 2120 60% FEV1 1740 71% I 82 MEF 66% RV 73% TLC 72% RV/TLC 45
+TLCO 60% KCO 85% T 157 P 68.
+*TC tórax 2009: voluminosa hernia hiatal. Atelectasias subsegmentarias en língula y base derecha de aspecto  cicatricial,  discretas  dilataciones bronquiales  bilaterales  y  difusas  con  presencia  de  algún  impacto bronquial, granulomas calcificados de aspecto cicatricial en ápex.
+-Fibrilación auricular diagnosticada el 27.10.17 a nivel de atención primaria. Se inició sintrom ese mismo día y tratamiento frenador con bisoprolol.
+- Posible insufiencia cardíaca con FEVI conservada. Marido refiere incremento de disnea habitual desde hace 15 días, niega que la paciente haya referido dolor torácico, palpitaciones, edemas en miembros inferiores u otra clínica. Tratamiento diurético con furosemida 40 mg/día desde hace 1 mes.
+**Ecocardiografía junio 2017: VI de tamaño y grosor normal con FE conservada (68%). No alteraciones segmentarias.  Patrón mitral de disfunción diastólica G Ix déficit relajación  Moderada  dilatación de AI en su diámetro  AP  -  Tamaño  normal  de  raíz  aórtica  y  Ao.  Ascendente  Cavidades  dchas  normales  con  VD normocontractil ( TAPSE: 21mm ) - Morfología valvular normal. IM ligera. - IT ligera no HTP en reposo ( PAPs al límite mx normal de 35mmHg. ) - PVC no elevada - No derrame pericárdico.
+
+Situación sociofuncional: Autónoma para ABIVD. Deambula  sin apoyos. Vive con su marido. No deterioro cognitivo. mRS 1.
+
+MEDICACIÓ HABITUAL
+Bisoprolol 2.5mg 1/24h, Furosemida 40mg 2/24h, Losartan 50mg 1/24h, Omeprazol 20mg 1/24h, Salbutamol a demanda, Spiriva (tiotropio) 2.5mcg 2inh/24h.
+
+PROCÉS ACTUAL
+Paciente  que  encontrándose  previamente  asintomática,  inicia  hoy  día  28.10.17  a  las  16h  debilidad  de extremidades izquierdas. Familiar que presencia los hechos contacta con SEM.
+
+Informe de Trasllat a Sociosanitari
+
+
+
+EXPLORACIÓ FÍSICA
+En Urgencias:
+Vigil, disartria moderada (1), DOC D(2), HHI (2), PFSN I (2), paresia braquio-crural 2/5 (3+3), hemianestesia izq (2). Anosognosia y asomatognosia (2) NIHSS 17
+
+A su llegada a la Unidad de Ictus:
+TA 111/60mmHg FC 81lpm Tª 37.1ºC SpO2 97% aa BMT 141-131-X
+MVC con crepitantes bibasales de predominio izquierdo. TCR sin soplos, no edemas en EEII. Hematoma subcutáneo con pequeña induración a nivel inguinal derecho, no masa pulsátil sugestiva de pseudoaneurisma. NRL: Vigil, somnolencia (1) aunque difícil de valorar por apraxia ocular, no POC/DOC, LOC Q 1/2 (1), LOC C 2/2, probable HHI (2), no afasia, disartria moderadainteligible (1), PFSN izquierda (2), hemiparesia izquierda (2+2), hemihipoestesia izquierda moderada-severa (2), anosognosia (1). NIHSS 14
+
+A su llegada a planta de Neurología:
+TA 105/61 mmHg, 80lpm, Temperatura 37ºC, Glicemia capilar 131 mg/dl Buen estado general, normocoloreada, buena hidratación piel y mucosas.
+Respiratorio: Murmullo vesicular conservado, no ausculto ruidos sobreañadidos. Eupneica.
+Cardiovascular: Tonos cardíacos rítmicos, no ausculto soplos. No ingurgitación yugular, no edemas miembros periféricos. Buena perfusión tisular distal.
+Abdomen: Depresible, no doloroso a la palpación .
+Neurológico: Atenta, orientada en las 3 esferas, nomina 3/3, obedece órdenes simples y complejas 2/2, repite correctamente, sin alteraciones del habla, preferencia oculomotora derecha (2), hemianopsia homónimima izquierda (2), parálisis facial supranuclear izquierda (2), parálisis braquio (3) crural (1) izquierda, hemianestesia izquierda (2), no dismetria dedo-nariz, anosognosia (1), no asomatognosia. NIHSS 13.
+
+EXPLORACIÓ COMPLEMENTÀRIA
+-Analítica urgencias: INR 1.10. Hb 12.5 g/dL. Resto sin alteraciones relevantes.
+-TC craneal: No se observan signos de sangrado agudo intra o extra axial. Estructuras de la línea media centradas. Sistema ventricular simétricamente aumentado de tamaño proporcional al grosor y profundidad de los surcos de la convexidad en relación a atrofia cortical. Cisternas de la base y peritronculares libres. Se observa el signo de la arteria cerebral media derecha. Hipodensidades de la sustancia blanca periventricular en relación a cambios de desmielinización por proceso hipóxico/ isquémico crónico. Hipodensidad de insula y núcleo lenticular derechos (ASPECT 8), no se observan otras alteraciones motrfológicas o densitométricas de aspecto agudo/subagudo en el resto del parénquima cerebral. El Angio-TC muestra oclusión de la ACM derecha a nivel de M1 proximal. El resto de estructuras vasculares del polígono de Willis, sistema vertebrobasilar y troncos supraaórticos, se encuentran permeables. ACP izquierda de origen fetal como variante de la normalidad. En el TC-perfusión se observa una alteración de los parámetros de flujo y volumen en el territorio vascular superficial y profundo de la ACM derecha, con zonas de disminución tanto del flujo como del volumen a nivel parietal parieto-temporal en relacióncon zonas de isquemia establecidas, la región frontal derecha presenta disminución del flujo pero conserva el volumen en relación a zona de missmatch. Escala de colateralidad intermedia (2). CONCLUSIÓN. TC sin contraste muestra el signo de la ACM hiperdensa e hipodensidad de insula y núcleo lenticular derechos (ASPECTS 8/10), en relación a oclusión de ACM derecha a nivel de M1 proximal objetivada en estudio Angio-TC. El estudio de TC perfusión muestra alteración alteración de los parámetros de flujo y volumen en el territorio vascular superficial y profundo de la ACM derecha, con zonas de disminución tanto del flujo como
+
+Informe de Trasllat a Sociosanitari
+
+
+
+
+del volumen a nivel parietal parieto-temporal en relación con zonas de isquemia probablemente establecidas, observando en la región frontal derecha disminución del flujo con conservación del volumen en relación a zona de missmatch.
+-ECG : RS 70lpm , eje 60º, PR corto, QRS <120ms. Sin alteraciones de la repolarización.
+-Rx tórax: mala técnica, signos leves de redistribución vascular, hiperdensidad bibasal.
+-Analítica de ingreso 30/10: Hties 3.56 x10E12/L; Hb 10.3 g/dL; Hto 32.8 %; VCM 92.1 fL; CHCM 31.40 g/dL; ADE 13.5 %; Leucocitos 11.11 x10E9/L; Neutrófilos 8.9 x10E9/L;Linfocitos 1.1 x10E9/L; Monocitos 1.0x10E9/L; Eosinófilos 0.0 x10E9/L; Basófilos 0.0 x10E9/L; Plaquetas 226 x10E9/L; VPM 11.4 fL. Hemostasia: TP 66 %; INR 1.30; TTPA 26 seg; Fibrinógeno derivado 3.6 g/L. Bioquímica: glucosa 144 mg/dL; HbA1c 5.8 %; urea 23 mg/dL;
+creatinina 0.71 mg/dL; FG 79 ml/min; Urato 6.9 mg/dL; bilirrubina 0.67 mg/dL (esterificada 0.28 mg/dL); sodio
+141.3 mmol/L; potasio 3.70 mmol/L; calcio 8.4 mg/dL; AST 32 UI/L; ALT 26 UI/L; FA 91 UI/L; GGT 36 UI/L; Proteína 5.5 g/dL; albúmina 3.1 g/dL; PCR 2.11 mg/dL.
+*Lípidos: colesterol total 145 mg/dL; HDL 49 mg/dL; LDL 76 mg/dL; Triglicéridos98 mg/dL.
+*Tiroides: TSH 1.206 mU/L; T3L 2.68 pg/mL; T4L 1.11 ng/dL.
+*Serologías (VIH, Lues): negativos.
+-TC craneal control: Estudio craneal de control que muestra hipodensidad fronto-parieto-occipital derecha con pérdida de diferenciación cortico-subcortical y borramiento de surcos corticales del territorio irrigado por la arteria cerebral media derecha compatible con isquemia establecida.
+-AG control: Hemoglobina 9.6, Hematòcrit 29.8, Leucòcits 13.82, Protrombina (ràtio) 1.37, Protrombina (%) 62,
+Protrombina (INR) 1.36, Glucosa 123, Urea 63, Urat 10, potassi 3.31, Ca 8.4, Aspartat-aminotransferasa 51,
+Alanina-aminotransferasa 65, GGT 69, Proteïna 6.0, Albúmina 3.2, Proteïna C reactiva 10.20
+-TC y angioTC abdominal: TC sin contraste que muestra cambios post-punción femoral derecha reciente sin signos de hematoma. Diverticulosis pancolónica sin signos de diverticulitis en el momento actual.
+-Hemocultivos:negativos
+
+EVOLUCIÓ CLÍNICA
+A su llegada hemodinámicamente estable con clínica compatible con síndrome completo de la ACM derecha y un NIHSS de 17. El ECG muestra ritmo sinusal. Se realiza TC craneal multimodal, evidenciándose en el simple el signo de la ACM hiperdensa y ASPECTS de 8/10, por lo que, siendo el INR de 1.1 se administra rtPA (bolus 18:17h); el angioTC muestra oclusión de M1 proximal, con missmatch, y dado que no se evidencia mejoría clínica se decide realizar tratamiento endovascular de rescate. A las 18:58 se realiza punción femoral derecha que no permite canalizar la femoral, decidiéndose parar la perfusión de rtpa por riesgo de disección femoral. A las 19:05 se consigue ascender cateter via femoral hasta iliaca. Se realizan multiples pases con varios dispositivos hasta que se consigue recanalización completa. Ingresa en la Unidad de Ictus para control evolutivo. Se detecta hematoma femoral derecho que se comprime.
+
+Informe de Trasllat a Sociosanitari
+
+
+
+
+A su ingreso en la Unidad de Ictus hemodinámicamente estable y afebril, con NIHSS de 14, sin signos sugestivos de pseudoaneurisma en la zona de punción femoral. El TC craneal de control muestra un infarto establecido en territorio de la ACM derecha. Dada su extensión, se decide postponer por el momento inicio tratamiento anticoagulante. Se solicita analítica de ingreso, que no muestra alteraciones relevantes salvo cierta anemización (Hb 10, previa de 12g/dl); radiografía de tórax que muestra derrame pleural de predominio izquierdo, por lo que se reinstaura tratamiento habitual con furosemida. Se realiza test de disfagia, que objetiva tos con mínimo volumen de líquido.
+A su llegada a planta de Neurología hemodinámicamente estable, afebril, sin aumento del trabajo respiratorio y manteniendo buenas saturaciones aire ambiente, con un NIHSS de 13. Pendiente de iniciar rehabilitación, realizar interconsulta a hemostasia de cara a iniciar anticoagulación a largo plazo y a UFISS de cara a grestionar convalescencia.	Desde el 31 por la tarde y durante el dia siguiente la paciente ha presentado hipotensión, bradicardia y síndrome febril. Se orientó como sepsis de origen urinario además de una IC descompensada. Se cubrió con meropenem, requirió soporte vasoactivo con noradrenalina y se ajustó tratamiento diurético. Se realizó TC abdominal que descartó complicaciones de punción femoral. Durante los siguientes días posteriores presenta mejoría clínica, con un estado neurológico que también mejora progresivamente realizando rehabilitación. En condiciones de estabilidad clínica es trasladada a centrosociosanitario para continuidad de cuidados. Dada la extensión de la lesión y la clínica de la paciente se postpone inicio de anticoagulación. Si continua buena evolución clínica, valorar en el plazo de 10-15 solicitar TC craneal de cara a inicio de anticoagulación si no existen contraindicaciones en el mismo. En el momento del alta NIHSS 9 a expensas de disartria inteligible (1), Hemiparesia F (2) B 4-/5 (1) C 3/5 I (2), extinción sensitiva y visual I (2), hipoestesia braquial I (1), mRS 5
+
+
+
+DIAGNÒSTICS
+Infarto en territorio de la ACM derecha de probable etiología cardioembólica.
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Se adjunta
+
+CONTROL
+Control estrecho de factores de riesgo vascular por CAP así como de tratamiento anticoagulante. Control por especialistas habituales como tenga previsto.
+
+DESTINACIÓ A L'ALTA:	SOCI SANITARI
+
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+09.11.2017
+Pàgina 1 de 4

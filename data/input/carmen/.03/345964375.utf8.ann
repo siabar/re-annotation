@@ -1,0 +1,47 @@
+T1	Fecha_de_ingreso 96 106	02/03/2017
+#1	AnnotatorNotes T1	2017-03-02
+T2	HORA 107 112	23:14
+#2	AnnotatorNotes T2	23:14
+T3	Fecha_de_alta 123 133	07/03/2017
+#3	AnnotatorNotes T3	2017-03-07
+T4	_SUG_Lateralizacion 572 580	esquerre
+T5	FECHA 584 588	2014
+#5	AnnotatorNotes T5	2014-UNDEF-month-UNDEF-day
+T6	FECHA 629 633	2015
+#6	AnnotatorNotes T6	2015-UNDEF-month-UNDEF-day
+T7	FECHA 678 682	2015
+#7	AnnotatorNotes T7	2015-UNDEF-month-UNDEF-day
+T8	FECHA 723 727	2016
+#8	AnnotatorNotes T8	2016-UNDEF-month-UNDEF-day
+T9	_SUG_Ictus_isquemico 731 737	Infart
+T10	_SUG_Etiologia 738 745	lacunar
+T11	_SUG_Localizacion 738 745	lacunar
+T12	_SUG_Lateralizacion 762 770	esquerre
+T13	FECHA 775 779	2014
+#13	AnnotatorNotes T13	2014-UNDEF-month-UNDEF-day
+T14	_SUG_Lateralizacion 834 842	esquerra
+T15	_SUG_Lateralizacion 877 885	esquerre
+T16	_SUG_Lateralizacion 1069 1077	esquerra
+T17	_SUG_Lateralizacion 1814 1822	esquerra
+T18	TAC_craneal 2209 2211	TC
+T19	_SUG_Ictus_isquemico 2246 2252	Infart
+T20	_SUG_Etiologia 2253 2260	lacunar
+T21	_SUG_Localizacion 2253 2260	lacunar
+T22	_SUG_Lateralizacion 2285 2290	dreta
+T23	_SUG_TAC_craneal 2301 2303	TC
+T24	_SUG_Etiologia 2305 2316	Ateromatosi
+T25	_SUG_Lateralizacion 2450 2459	bilateral
+T26	Etiologia 3439 3451	indeterminat
+T27	_SUG_Lateralizacion 4148 4152	dret
+T28	SECCION_DESTINO_AL_ALTA 273 292	Destinació a l'alta
+T29	SECCION_ANTECEDENTES 370 381	ANTECEDENTS
+T30	SECCION_TRATAMIENTO_HABITUAL 1179 1200	-	Tractament habitual
+T31	SECCION_PROCESO_ACTUAL 1274 1289	MALALTIA ACTUAL
+T32	SECCION_EXPLORACION_FISICA 1412 1429	EXPLORACIO FISICA
+T33	SECCION_EXPLORACIONES_COMPLEMENTARIAS 1847 1869	PROVES COMPLEMENTARIES
+T34	SECCION_EVOLUCION 2761 2769	EVOLUCIO
+T35	SECCION_DIAGNOSTICOS 3391 3402	DIAGNOSTICS
+T36	SECCION_TRATAMIENTO_AL_ALTA 3500 3510	TRACTAMENT
+T37	Ataque_isquemico_transitorio 3405 3408	AIT
+T38	Tratamiento_antiagregante_hab 1219 1227	Tromalyt
+T39	Tratamiento_antiagregante_alta 3513 3524	Clopidogrel

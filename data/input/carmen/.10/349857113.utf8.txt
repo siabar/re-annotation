@@ -1,0 +1,106 @@
+_LOCATION_
+email: _CONTACT_ Telèfon _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 75 Anys
+NIF/DNI: _ID_Informe de Trasllat a Sociosanitari
+16:00:00
+17.03.2017
+_LOCATION_
+_SS_ NEUROLOGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_; _CONTACT_
+DOMICIL/RES.SOC 08.03.2017
+Equipo Dr. _NAME_ (_NAME_, _NAME_, _NAME_)
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Varón de 75 años que ingresa por ictus en territorio de ACM izquierda.
+
+ANTECEDENTS
+Al·lèrgies:Sense al·lèrgies conegudes
+-Trastorn per ús de tabac. Dependència de tabac
+-Diabetis mellitus II sense complicació,controlada
+-Hipertensió essencial inespecificada
+-Dislipemia
+-Cardiopatia isquemica, 21/11/2003 ingresa per un IAM anterior tractat amb ACTP primaria. FE 46% Pic MB 514, Curs ulterior sense problemes cardiològics. Nou cateterisme el 14/2/2005 va mostra reestenosi lleu de la DA que no precisa revascularització. SPECT 17/6/2009: FC 82% 6 METSv No angina ni canvis ECG No isquèmia. Necrosi anterior TM FE 42% Vol 92/53.
+
+Situación sociofuncional: Rankin previ:1 - Sense discapacitat significativa. Pot dur a terme les activitats que feia prèviament.
+
+MEDICACIÓ HABITUAL
+Bisoprolol, Clopidogrel, Hidroferol, Minitran, Omeprazol, Peitel, Ramipril, Repaglinida, Simvastatina, Tamsulosina
+
+PROCÉS ACTUAL
+Se trata pues de un paciente de 75a, con FR vascular, que presenta de forma brusca mientras está abriendo su negocio impotencia funcional en hemicuerpo D y trastorno del lenguaje. Por problemas técnicos, no se puede activar el código ictus desde el SEM, y se activa a Urgencias, que avisa al neurólogo, decidiéndo realizarse código TC. A su llegada, destaca TACI ACM I (NIHSS=21).
+Els símptomes s'inicien el dia 08/03/2017 a les 09:45:00.
+
+EXPLORACIÓ FÍSICA
+
+Exploración en Urgencias:
+PAS 170/84mmHg, BMTest 230mg/dl,  // NIHSS total de22: DOC I (2), HHD (2), afasia global (2+2+3), hemiplejía facio-braquio-crural D (2+4+4). Sensibilidad no valorable por afasia (1).
+
+Exploración en Unidad de Ictus:
+TA 140/75, FC 78 lpm, afebril.
+NRL: Alerta, desorientado en tiempo y espacio. LOC C 2/2, LOC Q 2/2. Disartria moderada (1). Nomina, repite y comprende órdenes, se intoxica con complejas (1), paresai facial derecha (1). MSD: debilidad distal con mano caida (+1) y Miller fisher derecho. MID 5/5- No alteraciones sensitivas. NIHSS 3+1
+
+Exploración física en Planta de Neurología
+
+Informe de Trasllat a Sociosanitari
+
+
+
+
+TA 108/71mmHg, FC 77lpm, Tª 35.8ºC, SaO2 97%, BMTest 107-110-103mg/dl.
+Paciente con estado general conservado, nromocoloreado, normohidratado y normoperfundido.
+Auscultación cardiaca con tonos arrítmicos y sin soplos, no presenta edemas en miembros inferiores ni ingurgitación yugular.
+Auscultación pulmonar con murmullo vesicular conservado sin ruidos sobreañadidos.
+Neurológicamente vigil, atento, orientado en las 3 esferas, no presenta alteraciones del habla, afasia leve con bloqueos puntuales del lenguaje (1), campimetría por confrontación sin alteraciones, MOEs sin restricción, paresia facial supranuclear derecha leve (1), resto de PPCC conservados. Balance motor y sensitivo conservados. No dismetría. Marcha sin alteraciones. NIHSS 2.
+
+EXPLORACIÓ COMPLEMENTÀRIA
+-TC multimodal de urgencias: Hallazgos Tc compatibles con lesión isquémica aguda establecido en territorio superficial y profundo de la ACM izquierda (ASPECTS 10/10), con perfusión que muestra "miss-match" (penumbra), secundario oclusión del extremo más distal de laACI izquierda, que se extiende hacia los segmentos proximales de la ACA y ACM ipsilateral.
+-Trombectomía intra y extra craneal mecánica (08.03.2017): Punción femoral derecha introductor 6F 90m cm Se realiza serie de aCI izqueirda q2ue muestra oclusión ACM M1 proximal SE realiza 1er pase con aspiración por AC·E 68 logrando trombo y TICI 2a Se realiza 2º pase logrando TICI 2b SE intenta cateterizar la rama ACM división anterior que persiste ocluida, mediante esta manipulación del trombo este desaparece y en una nueva serie de control se observa TICI 3. Mynx gtrip + compresivo. Ingresa en unidad de ictus.
+-ECG: FA de debut.
+-TC craneal de control 24 horas: Infarto agudo que afecta predominantemente el territorio profundo de la ACM izquierda sin signos de transformación hemorrágica.
+-Analítica general urgencias: Hb 14.8g/dl, Hto 46.3%, Leucocitos 9960, Plaquetas 155000, TQuick 82%, INR 1.13, TTPAr 1.07, Fibrinógeno 3.65g/l, Glucosa 146mg/dl, Urea 38mg/dl, Cr 0.96mg/dl, FG estimado 77, Na 139.5mmol/l, K 3.88mmol/l, Ca 8.7mg/dl, AST 22UI/L, ALT 25UI/L, Proteinas 6.9g/dl.
+-Radiografía de torax: Marco óseo conservado, ICT<0.5, senos costofrénicos libres, no presenta imágenes sugestivas de condensación.
+-Analítica general de ingreso: Hb 14.7g/dl, Hto 46.2%, Leucocitos 8230, Plaquetas 167000, TQuick 76%, INR 1.20, TTPAr 0.98, Fibrinógeno 4.2g/l, Glucosa 153mg/dl, HbA1c 6.8%, Fructosamina 230mcmol/l, Urea 24mg/dl, Cr 0.91mg/dl, FG estimado 82, Urato 5.1mg/dl, BT 1.89mg/dl, BD 0.58mg/dl, Na 143.5mmol/l, K 4.17mmol/l, Ca 8.9mg/dl, AST 17UI/L, ALT 21UI/L, FA 74UI/L, GGT 39UI/L, Colesterol 129mg/dl, HDL 37mg/dl, LDL 71mg/dl, Triglicéridos103mg/dl, Homocisteina 8.8mcmol/l, Proteinas 6.7g/dl, Albúmina 3.9g/dl, PCR 6.02mg/dl.
+*Estudio de tiroides: TSH 0.628mU/l, Tiroxina 1.05ng/dl.
+*Proteinograma: Albúmina 3.9g/dl, Alfa1 0.37, Alfa2 0.9, Beta1 0.43, Beta2 0.41, Gamma 0.99.
+
+EVOLUCIÓ CLÍNICA
+Paciente varón de 75 años con FRCV que es traido por clínica de TACI Izq NIHSS 21. A su llegada a urgencias se realiza un TC craneal simple, que muestra un ASPECTS 9 y un signo de la ACM I hiperdensa. Se administra tPA ev y se decide traslado a sala de Neurointervencionismo para rescate endovascular. Tras comprobar que el paciente cumple todos los criterios de inclusión y ningúno de exclusión, y firma del consentimiento informado, se decide inclusión en el registro clínico PROMISE (trombectomía con dispositivo Penumbra). La primera serie confirma la oclusión completa de M1 proximal ACM I(TICI 0).
+
+Informe de Trasllat a Sociosanitari
+
+
+
+
+Se realiza una primera aspiración a las 11:44h, que la renazalización parcial de M1, con apertura de la rama temporal de la ACM I, persistiendo una oclusión de M1 distal. Tras un segundo pase, se consigue la recanalización casi completa (TICI 2b). Sin embargo, a las 11:54 una nueva arteriografía muestra una reoclusión de la subdivisión anterior de la ACM I. Se intenta hacer una nueva arteriografía, y sólo con la manipulación del microcatéter se consigue la recanalización completa (TICI 3) a las 12:00h. Se decide finalizar el procedimiento. Se ingresa en Unidad de ictus. Como incidencia se detecta en ECG a su llegada y durante la monitorización en sala de neurointervencionismo una fibrilación auricular de debut.
+Durante su estancia en la Unidad, se mantiene hemodinámicamente estable, con mejoría clínica importante. Se realiza TAC craneal de control que muestra Infarto agudo que afecta predominantemente el territorio profundo de la ACM izquierda sin signos de transformación hemorrágica, por lo que se inicia tratamiento anticoagulante con clexane y posterior pauta de sintrom.
+En analítica de control en el ingreso no se observan alteraciones destacables. Dado que el paciente se encuentra paucisintomático se decide alta domiciliaria y rehabilitación en consultas externas a lo que la familia se niega por no poder hacerse cargo del paciente en el momento actual. En estas circunstacias se decide junto con Trabajo Social traslado a _SS_ por claudicación familiar.
+Al alta NIHSS 2 y rankin 1.
+
+DIAGNÒSTICS
+Infarto ACM izquierda de etiología cardioembólica por FA de debut.
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Se adjunta.
+
+CONTROL
+Visita control en las consutlas externas de Neurovascular el día 10/10/2017 a las 11:00h en la 3ª planta anexos del _SS_.
+
+DESTINACIÓ A L'ALTA:	SOCI SANITARI
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+17.03.2017
+Pàgina 1 de 3

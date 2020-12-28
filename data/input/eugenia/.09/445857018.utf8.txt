@@ -1,0 +1,142 @@
+
+
+
+
+
+Informe d'Alta Hospitalària	Cognoms i nom:
+_NAME_	NHC:
+_ID_
+	ABS:
+_SS_	CIP:
+_ID_	DNI:
+_ID_
+	Data de naixement:
+_DATE_	Sexe:
+Home	Edat:
+86a	Telèfon:
+_CONTACT_
+	Finançament:
+CatSalut - _LOCATION_	Procedència:
+URGÈNCIES
+	Admissió:
+16.11.2017 - 22:51	Servei:
+NEUROLOGIA HOSP	Data entrada urg.:
+16.11.2017 - 16:36
+Adreça:
+_LOCATION_	Població:
+_LOCATION_	Codi Postal:
+_LOCATION_
+
+
+
+MOTIVO DE INGRESO:
+Paciente de 86 años que ingresa por pérdida transitoria del nivel de conciencia.
+
+
+ANTECEDENTES
+Antecedentes patológicos
+No AMC conocidas
+Hábitos tóxicos: No fumador, enol ocasional.
+FRCV: no HTA, había estado en tto con Hidrosaluretil por HTA. Actualmente sin seguimiento ni tratamiento.
+No DM ni DLP
+PSP Parkinsonismo en seguimiento por Neurología _SS_ ((STEEL-RICHARDSON-OL)
+Antecedente de cancer de pulmón intervenido hace 6 años, neumonectomía derecha incompleta. En seguimiento en _SS_ de Ba_LOCATION_.
+Intervenido de _SS_.
+
+Medicación habitual (Noviembre 2017): Madopar 200/50mg 2 comp cada 8h, selegelina 5mg 2 comp cada 24h, ropinirol 1,5 (4mg) cada 24h, rivastigmina 9.5mg cada 24h, paracetamol si precisa.
+
+Sociofuncional: Vive con su mujer. Es autónomo para ABVD y puede andar sin ayudas. Sin embargo, presenta inestabilidad importante de la marcha y ha tenido caídas frecuentes. Funciones superiores conservadas. mRS = 3
+
+ENFERMEDAD ACTUAL
+Hombre de 86 años con antecedentes descritos que es traído a urgencias como código ictus por presentar el 16/11 entre las 15:00-16:00 caída al suelo y pérdida de conocimiento cuando ha acudido su mujer. Refiere que el episodio ha durado más de 15 minutos y posteriormente se encontraba desorientado.
+Niega movimientos involuntarios de extremidades, mordedura lingual, desviación ocular u otra  clínica acompañante. Tampoco dolor torácico o palpitaciones antes del episodio, aunque el paciente refiere que no se acuerda del episodio.
+Refieren que hace tiempo que presenta episodios de presíncope, que generalmente son después de comer y al incorporarse.
+Llega a urgencias a las 16:36.
+
+
+EXPLORACIÓN FÍSICA
+-Constantes a su llegada: TA 224/90mmHg, 65FC lpm, FR 20rpm, SatO2 100%, 33.1ºC, INR <1 por coagucheck, glicemia 108 mg/dl.
+
+Neurológica:
+A su llegada (16/11):
+-Somnoliento, desorientado
+-Sin rasgos afásicos ni disártricos.
+-Ceguera bilateral
+-MOEs correctos.
+-Trigémino sensitivo-motor normal.
+-Paresia facial central izda.
+-Pares craneales bajos sin alteraciones.
+-Balance motor simétrico en las 4 extremidades, signmo de MF izdo
+-Sensibilidad táctil conservada.
+-Sin dismetrías.
+-No impresiona negligencia o extinción.
+-RCP flexor bilateral.
+NIHSS: 1.1.0.0.2 / 1.(0.0).(0.0) / 0.0.0.0.0 = 5
+
+En sala de neurología (17/11/17):
+-	Vigíl y orientado en las 3 esferas
+-	No alteración del lenguaje ni del habla
+-	Campimetría por confrontación normal
+-	MOEs sin limitaciones aparentes
+-	No asimetría facial
+-	Resto de PPCC correctos
+-	No alteración de la fuerza
+-	Sensibilidad táctil conservada y simétrica
+-	No dismetrías a la prueba dedo-nariz.
+-	Aumento del tono leve bilateral, de predominio izquierdo con maniobra de Froment positiva.
+-	Marcha a pequeños pasos con giro fragmentado.
+-	Inestabilidad postural al pull test. NIHSS = 0
+
+PRUEBAS COMPLEMENTARIAS
+-	Analítica de sangre: Bioquímica, hemograma y coagulación sin alteraciones destacables. Destaca Dímero D de 3758.
+-	ECG: Ritmo sinusal, PR<0.2, QRS estrecho, sin alteraciones de la repolarización.
+-	TC cerebral: Ateromatosis en ambas bifurcaciones y segmentos proximales de ACIs, con ligera irregularidad mural de forma bilateral, con una fina placa excéntrica a modo de flap en la ACI derecha. No condicionan estenosis significativas ni cuantificables. Hipoplasia del segmento P1 de ACP derecha con permeabilidad de ACoP. # Infartos lacunares capsuloganglionares bilaterales con afectación de ambas cápsulas internas que revisando informe de RM previa (no conseguimos acceder a las imágenes) podrían estar exagerados por la presencia de dilataciones perivasculares. En relación a la PSP, por TC se aprecia
+
+
+
+cierta pérdida de volumen mesencefálico, siendo menos aparente a nivel protuberancial.
+-	Impresión diagnóstica global: No hay criterios radiologicos de indicación de TEV; no se identifican lesiones isquémicas agudas ni imágenes de tromboembolia destacando ateromatosis en ambas ACIs con irregularidad mural y una fina placa excéntrica, laminar, en ACI proximal derecha.
+-	RM Cerebral:
+Se ha realizado el estudio RM craneal mediante diferentes secuencias y cortes en los 3 planos, completado con angioRM intracraneal con secuencias de flujo (3D TOF).
+Se dispone de una RM craneal previa del 18-3-2016 para comparación.
+No se observan lesiones isquémica recientes ni crónicas con afectación cortical.
+Algunos focos de hiperseñal T2 en la sustancia blanca periventricular y subcortical, inespecíficos.
+Ganglios basales de aspecto criboso atribuible a dilatación de espacios perivasculares, además de algún pequeño lacunar lenticular bilateral. Resto del parénquima cerebral con aumento de surcos cerebrales y valles silvianos, en relación a cambios involutivos por la edad. No se observan lesiones isquémicas agudas, microsangradoscrónicos ni otros cambios relevantes con respecto a la RM previa.
+Sistema ventricular centrado, de tamaño y morfología conservados.
+Los vasos intracraneales muestran vacío de señal en T2, indicando permeabilidad de los mismos.
+El estudio angio-RM intracraneal muestra un origen fetal de la arteria cerebral posterior derecha y un segmento A1 de la cerebral anterior derecha hipoplásico. Resto de las principales arterias intracraneales son de señal y aspecto normal.
+
+EEG: sin paroxismos de aspecto epileptiforme.
+
+
+EVOLUCIÓN
+Se realiza TC craneal que no muestra lesiones agudas. Tras realizar Tc craneal presenta vómito copisoso. A la exploración presenta hemianopsia homónima derecha sin otra focalidad. Minutos después se encuentra completamente asintomático y con amnesia de lo ocurrido. Dado que el paciente presenta caídas frecuentes (una vez a la semana) y tiene un mRS 4, no sería tributario a anticoagulación en caso de que la etiología fuese un ictus. Se decide ingreso en neurología.
+
+Durante el ingreso se mantiene clínicamente estable y no presenta complicaciones relevantes. Destaca que la RM cerebral realizada resulta normal. El EEG también descarta paroxismos epileptiformes. Respecto a la posible causa de la sintomatología que motivó el ingreso, hemos observado gran labilidad tensional, presentando episodios sintomáticos de hipotensión en contexto de ortostatismo.
+
+En global, se orienta el cuadro como probablemente secundario a disautonomia en contexto de parálisis supranuclear progresiva. Se inicia mestinon 60mg cada 8h como tratamiento sintomático. Sigue existiendo la duda si hubo ictus vertebrobasilar al objetivar una hemianopsia homónima derecha, no obstante el paciente no recuerda el episodio y tiene tendencia a presentar traumatismos por lo que el  riesgo/beneficio de usar antitrombóticos es desfavorable.
+
+PROCEDIMIENTOS
+-	Analítica de sangre, ECG, TC cerebral, EEG, RM cerebral.
+
+
+DIAGNÓSTICOS
+-	Disautonomia en contexto de parálisis supranuclear progresiva
+
+
+MEDICACIÓN
+-	Mestinon 60mg/8h, si buena tolerancia informo a familia que mañana alta.
+-	Resto de su medicación habitual sin cambios (Madopar 200/50mg  2 comp cada 8h, selegelina  5mg 2 comp cada 24h, ropinirol 1,5 (4mg) cada 24h, rivastigmina 9.5mg cada 24h, paracetamol si precisa).
+
+
+Responsable clínic: Dr. _NAME_ (NºCol. _ID_)
+Equip mèdic: Dr. _NAME_ (NºCol. _ID_)
+
+Servei que ha donat d'alta:
+NEURO - UNITAT ICTUS HOSP	Data d'alta:
+22.11.2017	Nom del metge que informa de l'alta:
+Dr. _NAME_ (NºCol. _ID_)
+
+
+_LOCATION_, 22.11.2017
+Pàg. 1 de   4

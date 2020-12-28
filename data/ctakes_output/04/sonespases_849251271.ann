@@ -1,0 +1,113 @@
+T0	FECHA 15 25	19-02-2018
+#0	AnnotatorNotes T0	2018-02-19
+T1	SECCION_DIAGNOSTICOS 27 39	Diagnosticos
+T2	_SUG_Ictus_isquemico 41 64	ECVA isquémica: infarto
+T3	_SUG_Arteria_afectada 83 86	ACM
+T4	_SUG_Lateralizacion 87 96	izquierda
+T5	_SUG_Etiologia 100 123	etiología indeterminada
+T6	_SUG_Arteria_afectada 228 244	carotida interna
+T7	SECCION_PROCEDIMIENTOS 251 265	Procedimientos
+T8	_SUG_Trombolisis_intravenosa 268 292	Fibrinolisis intravenosa
+T9	_SUG_Trombectomia_mecanica 293 314	Trombectomía mecánica
+T10	_SUG_Recanalizacion 337 348	reanimación
+T11	SECCION_MOTIVO_DE_INGRESO 406 423	Motivo de ingreso
+T12	SECCION_ANTECEDENTES_PATOLOGICOS 496 516	Antecedentes Médicos
+T13	SECCION_SITUACION_FUNCIONAL 576 591	Situación basal
+T14	FECHA 781 785	2014
+#14	AnnotatorNotes T14	2014-UNDEF-month-UNDEF-day
+T15	FECHA 1111 1117	2/2013
+#15	AnnotatorNotes T15	2013-02-UNDEF-day
+T16	SECCION_ANTECEDENTES_QUIRURGICOS 1120 1122	Qx
+T17	SECCION_TRATAMIENTO_HABITUAL 1171 1195	Tratamiento domiciliario
+T18	_SUG_Tratamiento_antiagregante 1200 1203	AAS
+T19	SECCION_PROCESO_ACTUAL 1440 1449	Anamnesis
+T20	FECHA 1516 1521	13/02
+#20	AnnotatorNotes T20	2013-02-13
+T21	HORA 1685 1690	10:30
+#21	AnnotatorNotes T21	10:30
+T22	HORA 1871 1876	10.30
+#22	AnnotatorNotes T22	10:30
+T23	HORA 1885 1890	11.20
+#23	AnnotatorNotes T23	11:20
+T24	HORA 1974 1979	11.30
+#24	AnnotatorNotes T24	11:30
+T25	HORA 2003 2008	12.35
+#25	AnnotatorNotes T25	12:35
+T26	HORA 2034 2039	13.05
+#26	AnnotatorNotes T26	13:05
+T27	HORA 2069 2074	13.20
+#27	AnnotatorNotes T27	13:20
+T28	_SUG_Trombolisis_intravenosa 2081 2094	·Fibrinolisis
+T29	HORA 2101 2106	13.26
+#29	AnnotatorNotes T29	13:26
+T30	HORA 2124 2129	13.30
+#30	AnnotatorNotes T30	13:30
+T31	HORA 2156 2161	13.28
+#31	AnnotatorNotes T31	13:28
+T32	HORA 2184 2189	13.40
+#32	AnnotatorNotes T32	13:40
+T33	HORA 2214 2219	14.10
+#33	AnnotatorNotes T33	14:10
+T34	_SUG_Recanalizacion 2226 2241	·Recanalización
+T35	HORA 2243 2248	14.30
+#35	AnnotatorNotes T35	14:30
+T36	HORA 2283 2288	14.40
+#36	AnnotatorNotes T36	14:40
+T37	SECCION_EXPLORACION_FISICA 2299 2310	Exploración
+T38	FECHA 2314 2319	13/02
+#38	AnnotatorNotes T38	2013-02-13
+T39	_SUG_NIHSS 2681 2740	NIHSS: 20 (1b/2, 1c/2, 2/1, 3/2, 4/2, 5a/3, 6a/3, 9/3, 10/2
+T40	FECHA 2736 2740	10/2
+#40	AnnotatorNotes T40	2013-02-10
+T41	SECCION_EXPLORACIONES_COMPLEMENTARIAS 2810 2844	Resultados pruebas complementarias
+T42	SECCION_EXPLORACIONES_COMPLEMENTARIAS_EN_PLANTA_DE_NEUROLOGIA 3114 3134	Analítica de ingreso
+T43	_SUG_TAC_craneal 3415 3418	TAC
+T44	FECHA 3439 3447	13/02/18
+#44	AnnotatorNotes T44	2018-02-13
+T45	_SUG_TAC_craneal 3466 3468	TC
+T46	_SUG_ASPECTS 3894 3902	ASPECS 8
+T47	_SUG_ASPECTS 4407 4414	ASPECS8
+T48	_SUG_TAC_craneal 4568 4579	TAC cerebro
+T49	FECHA 4599 4607	14/02/18
+#49	AnnotatorNotes T49	2018-02-14
+T50	FECHA 4913 4921	15/02/18
+#50	AnnotatorNotes T50	2018-02-15
+T51	FECHA 5484 5489	15/02
+#51	AnnotatorNotes T51	2018-02-15
+T52	_SUG_Recanalizacion 5581 5595	repolarización
+T53	FECHA 5609 5619	15/02/2018
+#53	AnnotatorNotes T53	2018-02-15
+T54	_SUG_Trombectomia_mecanica 5737 5776	Trombectomía intraextracraneal mecánica
+T55	FECHA 5778 5786	13/02/18
+#55	AnnotatorNotes T55	2018-02-13
+T56	_SUG_Trombectomia_mecanica 5816 5837	TROMBECTOMÍA MECÁNICA
+T57	_SUG_Recanalizacion 5998 6012	recanalización
+T58	HORA 6118 6123	10.30
+#58	AnnotatorNotes T58	10:30
+T59	HORA 6163 6168	13.05
+#59	AnnotatorNotes T59	13:05
+T60	_SUG_ASPECTS 6175 6183	ASPECT 9
+T61	_SUG_Trombolisis_intravenosa 6204 6217	·Fibrinolisis
+T62	_SUG_Recanalizacion 6281 6301	horas·Recanalización
+T63	HORA 6303 6308	14.30
+#63	AnnotatorNotes T63	14:30
+T64	HORA 6342 6347	14.40
+#64	AnnotatorNotes T64	14:40
+T65	SECCION_EVOLUCION 6377 6399	Evolución Hospitalaria
+T66	_SUG_Recanalizacion 6444 6455	realización
+T67	_SUG_Trombolisis_intravenosa 6565 6613	tratamiento de reperfusión mediante fibrinolisis
+T68	_SUG_Trombectomia_mecanica 6565 6591	tratamiento de reperfusión
+T69	_SUG_Trombectomia_mecanica 6614 6638	ev+trombectomía mecánica
+T70	_SUG_Recanalizacion 6761 6772	realización
+T71	_SUG_NIHSS 7043 7048	NIH 1
+T72	_SUG_Recanalizacion 7064 7075	realización
+T73	_SUG_TAC_craneal 7079 7081	TC
+T74	_SUG_Tratamiento_anticoagulante 7165 7172	clexane
+T75	_SUG_Trombectomia_mecanica 7442 7467	tratamiento rehabilitador
+T76	_SUG_Trombolisis_intravenosa 7442 7467	tratamiento rehabilitador
+T77	_SUG_NIHSS 7981 7996	NIHSS a las 24h
+T78	_SUG_Recanalizacion 8004 8015	realización
+T79	_SUG_Recanalizacion 8750 8761	realización
+T80	SECCION_TRATAMIENTO_Y_RECOMENDACIONES_AL_ALTA 8789 8826	Recomendaciones y tratamiento al alta
+T81	_SUG_Tratamiento_antiagregante 8853 8875	Ácido acetilsalicílico
+T82	_SUG_Tratamiento_anticoagulante 8996 9007	Enoxaparina

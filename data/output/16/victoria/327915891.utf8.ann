@@ -1,0 +1,31 @@
+T1	_SUG_NIHSS 733 740	NIHSS 7
+T2	_SUG_NIHSS 923 930	NIHSS 1
+T3	SECCION_ANTECEDENTES 1020 1035	HISTORIAL MÈDIC
+T4	SECCION_TRATAMIENTO_HABITUAL 1241 1261	Tratamiento habitual
+T5	Tratamiento_anticoagulante_hab 1382 1389	sintrom
+T6	SECCION_EXPLORACION_FISICA_DURANTE_HOSPITALIZACION 1421 1460	EXPLORACIÓ FÍSICA en la UNidad de Ictis
+T7	NIHSS_previa 1623 1630	NHISS 1
+#7	AnnotatorNotes T7	1
+T8	SECCION_EXPLORACIONES_COMPLEMENTARIAS 1714 1742	EXPLORACIONS COMPLEMENTARIES
+T9	_SUG_Tratamiento_anticoagulante 3975 3981	liquid
+T10	_SUG_Tratamiento_anticoagulante 4058 4065	LÍQUIDS
+T11	_SUG_Tratamiento_anticoagulante 4075 4082	líquids
+T12	_SUG_ASPECTS 4089 4096	Aspecte
+T13	_SUG_ASPECTS 4105 4112	Aspecte
+T14	_SUG_Tratamiento_anticoagulante 4154 4160	líquid
+T15	_SUG_Tratamiento_anticoagulante 4189 4195	liquid
+T16	SECCION_EVOLUCION 4379 4412	Evolución y tratamiento realizado
+T17	_SUG_Tratamiento_anticoagulante 5069 5076	sintrom
+T18	_SUG_Tratamiento_anticoagulante 5081 5088	Eliquis
+T19	SECCION_DESTINO_AL_ALTA 5126 5141	Destino al alta
+T20	mRankin_alta 5154 5170	Rankin (alta): 0
+#20	AnnotatorNotes T20	0
+T21	NIHSS_alta 5171 5186	NIHSS (alta):	0
+#21	AnnotatorNotes T21	0
+T22	SECCION_DIAGNOSTICOS 5188 5200	Diagnósticos
+T23	SECCION_DIAGNOSTICO_PRINCIPAL 5204 5225	Diagnóstico principal
+T24	SECCION_DIAGNOSTICOS_SECUNDARIOS 5300 5324	Diagnósticos secundarios
+T25	SECCION_PROCEDIMIENTOS 5465 5479	Procedimientos
+T26	SECCION_TRATAMIENTO_AL_ALTA 5545 5564	Tratamiento al alta
+T27	Tratamiento_anticoagulante_alta 5598 5605	Eliquis
+T28	SECCION_RECOMENDACIONES 5794 5834	Recomendaciones de prevención secundaria

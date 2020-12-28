@@ -1,0 +1,88 @@
+Nom Pacient: _NAME_
+_NAME_
+N.H.C.
+CIP:
+_ID_
+No. Assist.: _ID_
+_ID_
+Data Naixement: _DATE_
+Sexe: HOME
+_LOCATION_
+Tel. _CONTACT_ - Fax _ID_Ad37reça:  _LOCATION_
+_LOCATION_ 
+_CONTACT_
+Població: _LOCATION_
+
+
+Informe d'Assistència
+
+
+Data Ingrés:	
+30/07/2017	
+Servei: Medicina
+Data Alta:	21/08/2017	Metge: _NAME_
+
+MALALTIA ACTUAL / MOTIU D'INGRÉS:
+Paciente de 82 años que es traido a urgencias por aparición brusca de dificultad para articular palabras y debilidad en hemicuerpo derecho; se realiza TAC craneal ( sin signos de isquemia aguda) y EKG con ac x fa y se realiza fibrinólisis con arteplasa remitiendo posteriormente al paciente a _SS_.
+ANTECEDENTS PATOLÒGICS:
+-NO AMC
+-HTA en tto fco. No DM. NO dislipemias conocidas.
+-FUMADOR de unos 60 paq/año. Ingesta enólica moderada.
+-HIPERPLASIA BENIGNA de próstata en tto.
+-IQ: ulcus gástrico perforado hace mas de 20 años.
+
+-TTO HABITUAL. Bisoprolol 5 mg/24 horas, doxazoxina 0.4 mg/24 horas, potasion 1 cp/24 horas.
+
+EXPLORACIÓ FÍSICA:
+TA 154/87 fc 85 lpm Saturacion de O2 98% ( basal) Afebril
+NR ( _SS_): consciente, y orientado en TP. No alteración del lenguaje ( nomina 5/5, evoca 5/5, y repite). Disartria leve ( 1). Obedece órdenes simples y complejas. Cambpimetría por confrontación sin alteacones. MOES conservados. Isocoria normorreactiva. Posible PFSN derecha ( 1): Balance muscular y sensibildad normales. NO dismetrías. RCP flexor bilateral.
+Bien perfundido e hidratado. AP: eupneico con algunos crepitanes en bases. AC: arrítmico a 60 lpm. ABDOMEN: rha +, blando, no dolor a la palpación.
+
+EXPLORACIONS  COMPLEMENTÀRIES:
+Hemograma: L 10230/24140/9070 (nt 76%, L 10%, M 10%) hg 127 htco 0.37 vcm 88 plaquetas 216.000 Coagulacion: INr 1.38 actividad de protrombina 61%
+BQ: G 111.7 tg 77 colesterol total 138 ( hdl 28 ldl 94) cr 1.4/3.1/1.3 urea 63.1 na 154/147 k  3.1/3.7 GOT 24.6
+gpt 26.4 ggt 76.2 proteinas 6.3 albumina 2.6
+Rx de torax: aumento de densidad en tercio inferior de hemitorax izquierdo EKG: ac x fa a 60 lpm sin alteraciones de la repolarización.
+TAC CRANEAL ( CODIGO ICTUS 29/07/2017): signos difusos de atrofia cerebral y leucoencefalopatía hipóxica. ANGIOTAC _SS_: mínima placa de ateroma calcificada en el origen de arteria vertebral derecha
+TAC POST RTPA: sin sangrado ni cambios significativos respecto a previo.
+RNM cerebral: Infarts lacunars antics protuberancials bilaterals. Lesió isquèmica antiga parietal posterior E. Signes d'atròfia cerebral i leucoencefalopatia hipòxica.
+ECOCARDIOGRAMA
+VI no dilatado con ligera hipertrofia de predominio septal basal 13 mm . Función sistólica normal 62%. Sin alteraciones de la contractilidad segmentaria. Ligera dilatación auricular 44 mm. VD no dilatado con contractilidad conservada.Válvula mitral con apertura normal. Válvula aórtica trivalva, con engrosamiento parcial, con apertura
+
+
+
+normal. Insuficiencia mitral mínima-ligera. Insuficiencia aortica ligera.
+IT mínima sin HAP. Sin dilatación VCI. NO derrame pericardico. CONCLUSION: Cardiopatia hipertensiva con función sistólica normal. Insuficiencia aortica ligera.
+ECO UROLOGICA/ ABDOMINAL: globo vesical con divertículo en costado izuqirdo. TRU de próstata. Ureterohidronefrosis bilateal atribuible a la retención urinaria. Imágenes de hiperecogenicidad de la cortical secundarias a nefropatía probablemente por la obstrucción. Quistes hepáticos múltiples. Sin otras alteracioes.
+UROCULTIVO( ya con atb): se aíslan 40.000 colonias de e.coli ( polisensible) HEMOCULTIVOS: se aisla e.coli ( polisensible).
+EVOLUCIÓ:
+Paciente de 82 años que ingresa con los siguientes problemas:
+·  ICTUS ISQUEMICO hemisférico izquierdo de etiología cardioembólica ( ac x fa no conocida), realizándose fibrinólisis con recuperación prácticamente ad integrum. Se ha realizado angiotac en _SS_ con presencia de minima placa de ateroma calcificada en el origen de la arteria vertebral derecha y ecocardiograma sin cardiopatía estructural. Se inicia tratamietno anticoagulante con dabigatran con buena tolerancia y sin incidencias.
+·  INFECCION DEL TRACTO URINARIO por ecoli con BACTERIEMIA asociad y RETENCION AGUDA DE
+ORINA que ha condicionado ureterohidronefrosis bilateral e INSUFICIENCIA RENAL AGUDA que se ha resuelto con sondaje urinario. SE ha inciado tratamietno con amoxicilina-clavulanico, que posteriormente se cambia a ciprofloxacino (por diarrea y que hay que mantener hasta completar 15 días) con buena evolución en el sentido infeccioso y desaparición de la fiebre.
+·  SINDROME CONFUSIONAL AGUDO de origen multifactorial ( ictus + ITU + RAO + probable componente de deprivación alcohólica) en paciente con signos de atrofia cerebral difusa y leucoencefalopatia hipóxica ya presentes en rmn. SE ha iniciado tto con risperdal con buen control
+·  AC X FA de cronología incierta diagnosticada al ingreso, actualmente en tto cn bisoprolol con buen control de frecuencia cardiaca.
+DIAGNÒSTICS:
+·  ICTUS ISQUEMICO en territorio de ACM izquieda fibrinolisado de origen cardioembolico
+·  AC X FA de cronología incierta
+· ITU POR ECOLI CON BACTERIEMIA ASOCIADA
+·   RETENCION AGUDA DE ORINA con URETEROHIDRONEFROSIS BILATERAL
+·  INSUFICIENCIA RENAL AGUDA en relación a lo previo
+·   SINDROME CONFUSIONAL AGUDO de origen multifactorial
+·   HIPERTENSION ARTERIAL
+·  LOS PREVIOS.
+
+DESTINACIÓ I POSTERIOR CONTROL:
+
+Ingresa en convalescencia para recuperación funcional. Atentament,
+
+Dr.:	_NAME_
+Servei:	Medicina
+Nº Col.:	_ID_
+
+Els informem que el CSA facilitarà, si és necessari, les dades de caràcter personal a tots els estaments oficials que legalment hi hagin d'accedir per a la correcta prestació de l'assistència sanitària i social, així com també a altres entitats d'assegurança privada amb les quals els usuaris tinguin una relació contractual.
+CONSULTES EXTERNES
+Atenció a la dona, _NAME_
+_CONTACT_
+_CONTACT_
+1 / 2

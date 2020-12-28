@@ -1,0 +1,108 @@
+I.CLINIC DE NEUROCIÈNCIES NEUROLOGIA
+
+_NAME_		NHC: _ID_
+Sexo/Sexe: Fem.	Fecha nac./Data naix.: _DATE_	Edad/Edat: 77 años
+Dirección/Adreça: _LOCATION_		CP: _LOCATION_
+Municip. (Prov.): _LOCATION_  ABS:_SS_		Tel.:_CONTACT_ HERMAN
+As.: SERVEI CATALA DE LA SALUT	CIP: _ID_	NASS: _ID_
+Nº epis.: _ID_	Tipo/Tipus: HOSPIT.	Ingres.: 14.02.2017
+Serv: NEUROLOGIA	UO Enf.: G064 SALA G DE NEUROLOGIA	Hora: 11:29:37
+Facult. de ref.: _NAME_
+
+
+
+
+Tipo ingreso/Tipus ingrés: Urgent	Motivo/Motiu alta: CSS Conval.
+Diag.:
+ICTUS DE ACMI ()
+TRANSFORMACIÓN HEMORRÁGICA PH1 () FIBRILACIÓN AURICULAR ()
+Proc.:
+RM CRANEAL ()
+TC CRANEAL MULTIMODAL. () RX TÓRAX ()
+ANALÍTICA SANGUÍNEA () EKG ()
+
+
+
+
+INFORME CLÍNICO ALTA / INFORME CLÍNIC ALTA
+
+Motivo de consulta / Motiu de consulta
+Alteración del lenguaje y debilidad de extremidades derechas del despertar
+
+Antecedentes e historia previa / Antecedents i història prèvia
+Mujer  de  77  años  sin  alergias  medicamentosas  conocidas  ni  hábitos  tóxicos.  Independiente  para  las actividades básicas de la vida diaria. mRs:0.
+
+*ANTECEDENTES PATOLÓGICOS:
+1.	HIPERTENSIÓN ARTERIAL en tratamiento médico.
+2.	HIPOTIROIDISMO en tratamiento médico.
+3.	FIBRILACIÓN AURICULAR anticoagulada con acenocumarol. *Ecocardiografía realizada en Junio 2015: FE 64%. Insuficiencia aortica leve. Dilatación de auricular derecha moderada y dilatación auricula izquierda leve. Insuficiencia tricuspidea moderada a severa.
+4.	ICTUS ISQUÉMICO EN TERRITORIO DE LA ARTERIA CEREBRAL MEDIA DERECHA (2015) de etiología cardioembólica por arritmica completa por fibrilación auricular sin tratamiento anticoagulante. Se inició tratamiento con acenocumarol. Al Alta NIHSS: 2, mRs: 1
+
+*MEDICACIÓN HABITUAL (14/02/2017): pantoprazol 40 mg/24h; bisoprolol 2,5 mg/24h; levotiroxina 75 mcg/24h y 50 mcg/24h alternos; enalapril 10 mg/24h; acenocumarol según pauta.
+
+Proceso actual / Procés actual
+El 14.02.2017 al despertarse a las 9:30 am es encontrada por la hermana en la habitación con alteración del lenguaje y debilidad  de extremidades  derechas,  por  lo que  se avisa  el SEM  y se  activa código ictus
+
+
+extramuros Útlima ves vista asintomática la noche anterior a las 23h.
+
+Exploración física / Exploració física
+Frecuencia respiratoria (rpm)  25, Glicemia  capilar (mg/dl)  112, PAS  (mm  Hg) 165, PAD  (mm  Hg) 91, Pulsioximetría (%) 98, Tª axilar (ºC) 36.6.
+Hipertensa TAS 185/TAd 111 mmHg. FC 95 lpm. SatO2 96%.
+NRL: Consicente. Mutista (no obedece órdenes, no repite, no nomina). MIrada con tendencia hacia la izquierda sin sobrepasar la línea media en  la mirada horizontal hacia la derecha. Reflejo de amenaza derecho abolido. Paresia facio (mod)-braquio (0/5)-crural (0/5) derecha. Hemihipoestesia derecha. NIHSS: 24
+AC: Arritmica, sin soplos AR: MVC; sin roncus ni sibilancias
+
+Laboratorio / Laboratori
+*ANALÍTICA SANGUÍNEA DE URGENCIAS: Creatinina 1.02 mg/dL. Hemograma sin alteraciones. INR 2.28.
+*ANALÍTICA DE INGRESO: elevación de GGT (124 U/L) y de la bilirrubina total (1.5 mg/dL) a expensas de la indirecta (1 mg/dL). Elevación de LDH (714 U/L) y CK (348 U/L). VSG 24 mm/h. TSH 7.787 mUI/L. LDL 108 mg/dL y HDL 59 mg/dL. Resto sin alteraciones.
+
+Radiología / Radiologia
+*RX DE TÓRAX: aumento de la trama broncovascular sin focos de consolidación ni otros hallazgos sugestivos de patología aguda.
+*TC CRANEAL MULTIMODAL:
+- TC CEREBRAL BASAL: Alteracion de la densidad cortico-subcortical insular, temporal y frontal derecha con obliteracion asociada de surcos, en relacion a cambios por infarto isquemico agudo-subagudo establecido en territorio superficial de la ACMI. Cisternas basales libres. Estructuras de la linea media centradas. Discretos cambios secundarios a microangiopatia. - TC PERFUSIÓN: Disminucion del CBV en el area con alteracion de la densidad que se asocia a un retraso en el TTP cortico-subcortical de vecindad que es mas extenso en el territorio superficial posterior de la ACMI. - ANGIO-TC: Arteria vertebral izquierda dominante. La arteria vertebral izquierda parece finalizar en la PICA. En la cisura de Silvio izquierda se aprecia una perdida abrupta de la opacificacion de division superior de la ACM izquierda. Plcas calcificadas en ambas bifurcaciones carotideas y origen de las carotidas internas, sin condicionar estenosis significativas.
+*RM CEREBRAL: lesiones isquémicas crónicas de pequeño tamaño en el hemisferio cerebeloso derecho. Infarto isquémico agudo con transformación hemorrágica y edema perilesional que afecta a la porción más anterior de la ínsula y valle silviano izdo, y región frontal izda.Los hallazgos descritos condicionan un colapso parcial del VLI y mínima desviación de las estructuras de la línea media hacia la derecha. No signos de hidrocefalia. Lesiones de aspecto cicatricial con depósitos de hemosiderina a nivel temporal posterior derecho y frontal derecho. Signos de leucoaraiosis. Se realiza estudio de angio-RM intracraneal. Disminución del calibre y señal de flujo en el segmento M2 izdo y alguna de sus ramas hemisféricas.
+
+Exploraciones complementarias / Exploracions complementàries
+
+*EKG:  fibrilación  auricular  ya  conocida  con  respuesta  ventricular  adecuada,  sin  alteraciones  en  la repolarización.
+
+Evolución / Evolució
+1.	ICTUS ISQUÉMICO EN TERRITORIO DE LA ARTERIA CEREBRAL MEDIA IZQUIERDA (ACMI).
+2.	TRANSFORMACIÓN HEMORRÁGICA PH1.
+3.	FIBRILACIÓN AURICULAR.
+A su llegada hipertensa con control adecuado con tratamiento antihipertensivo. En la exploración neurológica destaca síndrome hemisférico izquierdo completo (NIHSS 24). ECG en fibrilación auricular con respuesta ventricular controlada. La analítica sanguínea muestra INR 2.28 sin otras alteraciones relevantes.
+
+
+
+La neuroimagen (TC Multimodal) muestra en la secuencia basal infarto establecido en territorio de la ACMI (ASPECTS 5), con oclusión en segmento M1 distal. Se realiza RMN cerebral de control que muestra transformación hemorrágica PH1 del infarto (no asociada a deterioro clínico).
+Se trata de un ictus isquémico en el territorio de la ACMI en paciente con una fibrilación auricular con buenos niveles de anticoagulación. Inicialmente se inicia tratamiento anticoagulante con Heparina sódica con posterior paso a acenocumarol. Dados los hallazgos de la RM se para la anticoagulación, sin reintroducirla al momento del alta.
+Durante su ingreso se mantiene clínicamente estable persistiendo mutista, sin comprender órdenes y con una hemiparesia facio(moderada) - braquio(4-/5)-crural(3+/5) derecha. Durante el ingreso se ha iniciado fisioterapia y tolera la dieta oral. Dada la situación clínica se considera candidata a continuar rehabilitación en centro de convalescencia _SS_. Al alta se programa control en consultas externas de neurología previa realización de TC cerebral con el objetivo de valorar la reintroducción del tratamiento anticoagulante.
+Al traslado: NIHSS 14; TOAST: cardioembólico; mRs:5.
+
+Plan terapéutico / Pla terapèutic
+-	Hidroclorotiazida 12,5 mg/24h. - Atorvastatina 40 mg/24h. - Levotiroxina 50 mcg LU-MI-VI-DO; 75 mg MA-JU-SA. - Enalapril 10 mg/12h. - Bisoprolol 2,5 mg/24h.
+
+Otras recomendaciones / Altres recomanacions
+-	Se recomienda control estricto de los factores de riesgo cardiovascular.
+-	Control por sus CAP y especialistas de referencia.
+-	Acudirá a consultas con el Dr. _NAME_ del servicio de neurología de _SS_, previa realización de TC cerebral de control. Se adjuntan citaciones.
+
+
+
+Firma/Signatura1: _NAME_	Firma/Signatura2: 
+_NAME_ Categoría: Resident 1	Categoría: Consultor/a 1
+Nº Matrícula HCP: _ID_	Nº Matrícula HCP: _ID_ Fecha/Data: 20.02.2017
+Hora: 15:08:37
+
+Docum.: _ID_
+Hist. Clínica: _ID_
+El _SS_ ha incorporado sus datos al Fichero de Pacientes, para tratarlos con fines sanitarios.
+Puede ejercer sus derechos de acceso, rectificación, cancelación y oposición, así como obtener mas información en la Unidad de Atención al Cliente.
+Vers. 00
+Pag. 2 de
+3
+Episod.: _ID_
+_SS_ ha incorporat les seves dades al Fitxer de Pacients, per a tractar-los amb finalitats sanitàries. Pot exercir els seus drets d'accés, rectificació, cancel·lació i oposició, i obtenir més informació a la Unitat d'Atenció al Client.
+_SS_
+_LOCATION_) _LOCATION_) Tel. _CONTACT_ Fax _CONTACT_
+http://_CONTACT_/

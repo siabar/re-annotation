@@ -1,0 +1,126 @@
+_SS_
+_LOCATION_)
+Tlf. _CONTACT_
+INFORME ALTA HOSPITALITZACIÓCIP	_ID_	Data Naix.   _DATE_	Edat 77	Sexe Home   NASS	_ID_
+Adreça   _LOCATION_	CP	_LOCATION_
+Població_LOCATION_	Tel.	_CONTACT_
+Episodi  _ID_	Admissió	12.03.2017 00:57	Alta	23.03.2017 17:34
+Servei	NEUUOHMB Neurologia	Unitat	U04UHHBL
+
+
+
+DIAGNÒSTIC ALTA
+
+Codi ICD-9	Descripció Diagnòstic
+434.91/5	AVC ISQUEMIC
+434.91/5	AVC ISQUEMIC
+401.9/2	HTA
+272.4/1	DISLIPEMIA
+250.00/2	DIABETIS MELLITUS II
+
+DADES INFORME
+
+Motiu de consulta: paciente diestro de 77 años,ALERGIA A TETRACICLINA, ESTERPTOMICINA y ERITROMICINA, ex-fumador, niega hábito enólico que ingresa procedente de UCI donde ingresa como código ictus por ictus isquémico ACM derecha al que se realiza tratamiento con  rTPA ev.
+
+Antecedents:
+-HTA en tratamietno con Acuprel 20 mg/día e Hidroclorotiazida, refiere buenos controles.
+-Dislipemia en tratamiento con pravastatina.
+- DM tipo II en tratamiento dietético no toleró metformina según curso de cardiología de zona.
+-Episodio de disnea y palpitaciones por lo que sigue controles por cardiologia de zona en ECG bigeminismo y trigeminismo, desde 2002 se realizó ecocardio con hipocinesia inferior medio-basal y gamma en 2003 sin alteraciones, se orienta como posible hipocinesia por BRIHH, sigue tratamiento con b-bloqueante.
+-Trastorno de la marcha con temblor postural por lo que ha sido valorado por Neurologia de zona (Dra _NAME_) con RM craneal en 2015 con infartos lacunares en ganglios basales y coronas radiatas sigue tratamiento antiagregante con AAS. Se realizó  ecodoppler de TSA con ateromatosis carotidea bilateral alrededor del 30-50%, ecocardio con ligera hipertrofia septal, función sistólica ligeramente deprimida, motilidad septal y apical anómalas en relación a BRIHH, hipocinesia inferior, AI ligeramente dilatada, esclerosis mitral con IM ligera e IT ligera con HTP ligera en reposo, Holter cardíaco con extrasistolia supraventricular asilada con 9 salvas cortas rápidas irregulares ??( No puedo ver el informe adjunto??).
+-HBP en tratamiento con Omnic.
+- IQ: Apendicectomia, Hernioplastia inguinal izq.
+
+Tratamiento habitual: ACUPREL 20MG, BISOPROLOL COR MYLAN 2,5MG, FLUTIFORM 125/5MCG/INHAL, HIDROCLOROTIAZIDA 50MG,OMNIS 0.4mg, ORFIDAL 1MG, PRAVASTATINA APOTEX 40MG, TROMALYT 300.
+
+Malaltia actual: El día 11/03 a las 22:30h presenta desviación de la mirada a la derecha, con alteración del habla y paresia braquiocrural izquierda.A la llegada del SEM recuperación de la focalidad motora pero persiste disartria y desorientación. Se activa código ictus a las 23:51.
+Llega a ucias a 23:58. A la exploración NRL NIH 5. No oftalmoparesias, hemianopsia izquierda, paresia braquial izquierda. PPCC conservados. Hemihipoestesia braquiocrural izquierda. No dismetrias. Extinción izquierda y disartria leve. Inicialmente con TA de 185/79 que mejora a los pocos minutos.
+Se realiza TC craneal a las 00:11h que no muestra sangrado intracraneal.
+Ante la ausencia de contraindicaciones se inicia bolus+perfusión de rTPA a las 00:22h. Ingresa en UCI para 
+
+Exploración Física :
+Consciente y desorientado en lugar. AR: MVC sin otros ruidos añadidos
+ACV/ TCartimicossi ausculto soplos. No edemas en EEII ni signos de TVP. ABD: anodino.
+NRL: a los 20min de iniciar perfusión rTPA: NIH 2. Recuperación de la paresia de brazo izq, la disartria y la extinción. Resto de la exploración sin cambios.
+Evolució en UCI:
+Posteriormente inicia cuadro de vómitos en poso de café y malestar general con cefalea presentando por lo que se solicita TC craneal urgente a las 8 h aprox de trombolisis ev donde se confirma lesión isquemica territorio ACM derecha sin transformación hemorrágica. El dia 12/03/17 por la mañana se describe a la exploración: NRL
+1-0-0-0-2-1- 2-0-1-1-0-1-0 paciente bastante dormido, refiere haber pasado mala noche. Ictus oscilante pero con imagen RX ya establecido, revaloraré NRl en breve.Por la tarde describen NIHSS 0-0-0-0-2-0-1-0-1-0-0-0-0-0-0=4
+
+Exploració física:
+A mi valoración :
+E NRL: Consciente y orientado en persona, espacio y tiempo, hemianopsia homónima izquierda por confrontación, lenguaje (nomina 5/5, repite sin parafasias, comprende órdenes sencillas, fluencia conservada),no clara disartria, pares craneales conservados, paresia crural 4-/5, hipoestesia faciobraquial izquierda, extinción sensitiva en pierna izquierda, RCPB flexor (NIHSS 0-0-0-0-2/0-(0-0)-(0-1)/0-1-0-0-1=5
+Aus card: tonos arrítmicos, sin soplos Aus resp: eupneico, MVC
+Abdomen: anodino No signos de TVP
+
+Exploracions complementàries:
+-Analítica ucias. Leuc 7070. Hb 15.6. Hto 44%. Plaq 160000. TP 100%. Crea 0.8. urea 42. Na 140 K 4.
+-Analítica de ingreso: se adjunta.
+-Rx tórax: no condensaciones, ni signos de ICI.
+-Rx de abdomen: ampolla rectal llena de heces, dilatación de asas de colon.
+-ECG: RS a 77x PR 0.18. BRIHH ya conocido con alguna extrasistolia ventricular
+-TC craneal:  No  sangrado agudo intracraneal. Colecciónes higromatosas crónicas bifrontales.
+Imagen lacunar crónica lenticular izquierda. Leves cambios involutivos y aumento compensador del sistema ventricular. No otros hallazgos parenquimatosos significativos (ASPECTS 10).
+Línea media centrada. Cisternas basales no colapsadas.
+-Ecodoppler de TSA: Cambios arterioscleróticos moderados de la pared vascular en bifurcaciones con placas ecogénicas que no producen estenosis significativa. El grosor íntima-media (IMT) medido en la pared contralateral a la fuente de ultrasonido de la ACC es de 0.62 mm en la izquierda y de 0.62 mm en la derecha. El diámetro de la AV en su porción V2 es de 4.06 mm en la izquierda y de 2.31mm en la derecha. En ambas AV el perfil de flujo no indica ningún signos de estenosis hemodinamicamente significativa, siendo la derecha hipoplásica.
+VPS ACC/ACE/ACI izquierdas: 67/97/67 cm/seg VPS ACC/ACE/ACI derechas: 52/113/72 cm/seg
+-Duplex transcraneal: Mala ventana transtemporal derecha. En el lado izquierdo se registra ACM, M1 y M2, ACA sin objservarse aumento de velocidad. Por via transnucal se registran ambas vertebrales y basilar a 98mm de
+NHC	_ID_	Pacient	_NAME_
+CIP	_ID_	Data Naix.   _DATE_	Edat 77	Sexe Home   NASS	_ID_
+
+profundidad.
+Conclusión: ateromatosis carotídea sin estenosis hemodinámicas significativas. Vertebral derecha hipoplásica. Mala ventana transtemporal derecha.
+-RM craneal +angioRM: Infarto isquemico en fase evolutiva subaguda en territorio superficial de la ACM derecha con signos de transformacion hemorragica.Infarto isquemico cronico cerebeloso izquierdo en territori ode la PICA.Signos involutivos globales de predominio cortical bifrontal.Lesiones hipóxicas crónicas / involutivas en la sustancia blanca periventricular y en ambos centros semiovales.Permeabilidad de las estructuras vasculares de poligono de Willis con origen fetal de las ACPosteriores, y A. basilar filiforme secundaria.
+-Ecocardiograma transesofágico:-Válvula aórtica trivalva con sigmoideas ligeramente esclerosadas, buena apertura sin insuficiencia. Sin imagenes de placas de ateroma en aorta toracica ascendente. Válvula mitral estructuralmente normal con buena apertura. Se observa señal de insuficiencia central de gradoligero. Aurícula izquierda ligeramente dilatada sin imagenes de trombo en su interior ni a nivel de la orejuela izquierdaTabique interauricular con hipertrofia lipomatosa de septo . Foramen oval no permeable. Se administra contraste.EV sin observarse paso de contraste de la auricula derecha a la izquierda basalmente ni tras maniobra de Valsalva .Válvula de Eustaquio prominente ( variante de la nornalidad). VI no dilatado con depresión de la FEVI. VD normocontractil. Aorta torácica descendente sin imágenes de placas de ateroma. A nivel del cayado aortico se observa imagen de placa de ateroma no complicada.
+-Holter cardíaco:Ritmo sinusal con TCIV importante. ESV aisladas poco frecuentes y parekjas ocasionales. Breves salvas de taquicarida irregular con mismo QRS basal con actividad auricular visible sugestivas de taquicardia auricular. EV aislada frecuentes, 265 parejas y breves salvas de TVMNS maximo 150lpm. ( 8 episodios, el mas largo de 5 latidos). Sin pausas signifcativas, RR máximo 1.73s.No se detecta FA.No refiere clínica en el diario de síntomas del paciente.
+-Estudio neuropsicológico: Paciente orientado en TEP. Función cognitiva básica deficitaria.
+Lenguaje espontáneo fluente, sin componentes afásicos. Denominación por confrontación visual preservada. Se observa heminegligencia espacial izquierda. Atención focalizada preservada. Memoria de trabajo límite.
+Renidmientos mnèsicos verbales preservados en todos los procesos explorados. Memoria no verbal preservada a pesar de realizar una codificación muy pobre.
+Leve disfunción ejecutiva. Déficit severo en el reconocimiento de emociones complejas.
+Praxia ideomotora e ideatoria unilateral preservadas. Praxia ideatoria bilateral deficitaria. Visoconstrucción deficitaria por heminegligencia espacial.
+Gnosis preservadas. Déficit visoperceptivos de predominio derecho. Conclusiones:
+Deterioro cognitivo de grado leve-moderado con semología fronto-subcortical y temporo-parietal derecho, que asociamos a secuelas de ictus en ACM D
+
+Evolució: Se orienta el cuadro como infarto isquémico territorio ACM derecha con transformación hemorrágica de etiologia indeterminada  al que se le ha realizado tratamiento trombolítico ev. Se ha realizado  estudio vascular extra o intracraneal sin ateromatosis hemodinámica significativa y  estudio cardíaco con ETE y Holter cardíaco sin objetivarse causa embolígena mayor. Se ha comentado el paciente con Cardiologia que no objeitva ACxFA y con ETE sin causa embolígena mayor por lo que se decide mantener antiagregación. Se cambia AAS por clopidogrel.
+Se solicita a Cardiologia que revise Holter previo de 2016 en principio no sugestivo de ACXFA. Se ha retirado bisoprolol tras comentar con cardiologia por bradicardia con FCM 40-45x
+
+Durante el ingreso el paciente ha presentado buena evolución clínica desde el punto de vista motor con práctica
+recuperación ad integrum, persisitiendo al alta desorientación parcial en tiempo, hemianopsia homónima izquerda y hemihipoestesia faciobraquiocrural izquerda (NIHSS 5, Rankin 3) recomendándose traslado a CSS para educación marcha siendo desestimado por la familia y siendo valorado por Rehabilitación que recomienda fisioterapia domiciliaria. Al alta el paciente deambula sin punto de apoyo pero supervisado recomendándose caminador haciéndose PAO del mismo.
+
+En planta de neurologia el paciente se ha mantenido hemodinámicamente estable con glicemias correctas a pesar de lo cual se ha solicitado valoración por Endocrinologia que recomienda revalorar metformina a dosis bajas o DPP4 según evolución clínica.
+En analitica destaca dislipemia mixta por lo que se aumentan estatinas e hiperbilirrubinemia leve recomendándose control por médico de familia.
+El paciente presentaba ingesta escasa al ingreso por lo que ha sido valorado por la unidad de Nutrición, recomendando suplementos hiperproteicos, retirados posteriormente tras mejoría.
+Ha sido valorado por Cirugía General por estreñimiento con mejoría progresiva tras laxantes y descartando patologia aguda.
+
+Se ha realizado estudio neuropsicológico durante el ingreso oriendao como deterioro cognitivo de grado-leve-moderado secundario a lesión vascular.
+
+Se solicita TC craneal de control por transformación hemorrágica y previo a plantera estudio NAVIGATE-ESUS que se valorará al alta en un mes. Informo a la hija y esposa.
+
+Orientació diagnóstica:
+-Infarto isquémico territorio ACM derecha con trasnformación hemorrágica ( se ha realizado rTPA ev) de etiologia indeterminada.(TOAST: Indeterminado, Oxford: PACI; NIHSS 5, Rankin 3)
+-HTA
+-Dislipemia
+-DM tipo II
+-BRIHH
+-Trastorno de la marcha y deterioro cognitivo vascular.
+
+Tractament mèdic al alta:
+STOP BISOPROLOL Y PRAVASTATINA CLOPIDOGREL 75 MG/DÍA VO ATORVASTATINA 40 MG/DÍA VO RESTO SU TRATAMIENTO HABITUAL
+Se adjunta Guia de ictus.
+Se ha cursado fisioterapia domiciliaria y PAO de caminador.
+El paciente acudirá a control en CCEE de neurovascular con TC craneal previo.
+
+
+
+Tipus d'ingrés: Motiu d'alta:	Urgent Alt.Mèd.Domicil	
+Metge Adjunt:
+_ID_
+Servei:	_NAME_
+
+NEUUOHMB Neurologia	Nº Col·legiat Adjunt:
+
+Data informe:  23.03.2017
+
+
+Pàgina 1 de	5
+Data i hora d'impressió:
+23.03.2017 17:48:49

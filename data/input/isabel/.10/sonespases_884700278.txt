@@ -1,0 +1,84 @@
+INFORME DE ALTA HOSPITALARIA
+
+Orientación diagnóstica: paresia facial izquierda de probable origen central.
+Menos probable parálisis facial izquierda de origen periférico.
+
+Motivo de consulta: solicitan valoración de mujer de 78 años por parálisis facial.
+
+Antecedentes Personales:
+- No alergias medicamentosas conocidas
+- habitos tóxicos: niega
+- DL e HTA. No DM.
+- I. Qx: apendicectomía, hombro derecho, histerectomía, hernia discal
+- Natural de Gupuzcua. De vacaciones a la isla. Tiene prevista la vuelta para domingo 6/05.
+- Situación basal: IABVD. mRS 0.
+- Mediación habitual: atorvastatina 10mg Ce, lisinopril 10mg De, zaldiar De.
+
+Enfermedad Actual:
+Mujer de 78 años con los antecedentes descritos que acude a Urgencias el día 04/05/2018 derivada de MAP por cefalea bifrontal y retroocular bilateral, opresiva, sin náuseas ni vómitos, de 4 días de evolución, que mejora con zaldiar. Explica mejoría en los últimos días. Además, asocia desde hace 2 días, alteración de la sensibilidad y de la movilidad en la hemicara izq.
+La paciente también explica alteración de la visión sin clara diplopia a la dextroversión ("al mirar a la izq veo más limpio y al mirar a la derecha más borroso") y sensación al deambular "como si el suelo subiera". Sí ha presentado diplopia vertical de corta duración estando en la sala de espera. Niega sensación de mareo/inestabilidd
+Según paciente y acompañante, la clínica ha permanecido estable desde hace 2 días.
+
+Cronopatología:
+Tiempo inicio-atención NRL: 48h
+
+Exploración Física:
+- Constantes:  Tª 36 ºC  Afebril,  FC 94 lpm,  TA 200/95 mmHg,  SatO2 (aa) 98%.
+
+- Neurológico:
+Consciente y orientado en tres esferas. Colaborador. Nomina, repite, obedece ordens sencillas y semicomplejas. No disartria. Pupilas isocóricas normorreactivas. Mirada centrada y conjugada. No nistagmo ni sacadas. Oculomotricidad normal. Niega diplopia. No ptosis palpebral. Sin déficits en la campimetría por confrontación.  No extinción visual. Leve asimetría facial que la paciente y familia refieren como basal, sin clara paresia. Úvula centrada. No alteración en movilidad lingual. No alteración en resto de PPCC. No claudica en Barré ni en Migazzini con BM 5/5 global y simétrico. Hipoestesia táctil en hemicara izq. No extinción sensitiva.  No dismetrías en maniobra DN ni TR. Reflejo cutáneo plantar flexor bilateral. Marcha estable, sin alteraciones en sus variantes (talón, puntillas). Tándem levemente inestable. Romberg negativo.
+
+ESCALA NIH:
+1a. Nivel de conciencia:0. Alerta, responde
+1b. Preguntas LOC:0. Ambas son correctas
+1c. Ordenes LOC:0. Ambas son correctas
+2. Mirada conjugada:0. Normal
+3. Campos visuales:0. No alteración
+4. Parálisis facial:0. Normal
+5a. Brazo derecho:0. No claudica
+5b. Brazo izquierdo: 0. No claudica
+6a: Pierna derecha: 0. No claudica
+6b: Pierna izquierda: 0. No claudica
+7. Ataxia:0. No ataxia (o en caso de hemiplejia o afasia severa)
+8. Sensibilidad:1. Hipoestesia ligera o moderada (afásico o estuporoso)
+9. Lenguaje:0. Normal
+10. Disartria:0. Normal
+11. Extinción:0. Sin alteración
+PUNTUACION TOTAL NIH:1
+
+- AR: MVC en ambos campos pulmonares sin ruidos sobreañadidos
+- AC: tonos rítmicos, sin soplos ni extratonos.
+- ABD: blando y depresible. Persitaltismo conservado. No doloroso a la palpación.
+- MMII: pulsos periféricos presentes y simétricos.
+
+Pruebas complementarias:
+- Analítica Sanguínea: Hemograma, coagulación básica, bioquímica normal exc glu 144.
+- ECG: RS a 78lpm, sin alteraciones agudas de la repolarización
+- TAC cerebral urgente: Focos hipodensos en región de los ganglios de la base bilaterales en probable relación con espacios perivasculares dilatados. Sin otras alteraciones significativas de la densidad del parénquima cerebral. Sin evidencia de sangrado intracraneal agudo. Sistema ventricular de tamaño y morfología normal. Estructuras de la línea media centradas. Cisternas de la base conservadas. Conclusión: Sin evidencia de patología intracraneal aguda.
+- Neurosonología:
+EDTSA: mínima placa hiperecoica en bifurcación carotídea derecha y engrosamiento intimal carotídeo izdo. Sin alteraciones hemodinámicas asociadas. A vertebrales normales.
+DTC: todas las arterias intracraneales son normales.
+Conclusión:
+Aterosclerosis carotídea derecha leve.
+Engrosamiento intimal carotídeo izdo.
+
+ODx:
+Posible ECVA isquémico en territorio indeterminado (posible V-B) de etiología indeterminada.
+
+PLAN:
+Se decide ingreso en unidad de ictus para monitorización y control de TA. Mantenemos en reposo. Pauto dieta diabética sin sal dado que la focalidad es de 48h de evolución, sin ST por TA elevada y FR noormal. Solciito estudio neurosonológico y analítica de ingreso, así como RMN.
+La paciente tiene viaje de vuelta el próximo domingo, según evolución se podría plantear alta en lso próximos días para plantear estudio en su centro de referencia.
+
+Evolución hospitalaria: 
+La paciente ingresa en Unidad de Ictus para monitorización, sin hallarse arritmias significativas en la telemetría cardiológica. Se ha iniciado tratamiento antiagregante con AAS. A las 24 horas de ingreso presenta discreta mejoría de la sensación de hormigueo, presentando únicamente una leve asimetría facial en hemicara derecha con los movimientos (NIHSS 4.1, TOTAL: 1 punto).  Dada la levedad de los síntomas y la estabilidad clínica en el momento actual, se decide alta a domicilio tras monitorización durante 48 h, con la recomendación de consultar en su centro médico de referencia para completar el estudio tan pronto llegue a su ciudad de origen.
+
+ Medication List
+   Active Medications
+       Prescrito
+           -Ácido acetilsalicílico: 100 mg, 0,5 comp, Oral, Co.
+           -Atorvastatina: 10 mg, 1 comp, Oral, Ce.
+           -Lisinopril 10 mg De, Oral De.
+           -Omeprazol: 20 mg, 1 cap, Oral, A20'-De.
+
+
+   Fecha: 04-05-2018

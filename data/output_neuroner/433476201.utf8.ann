@@ -1,0 +1,36 @@
+T1	SECCION_ANTECEDENTES 326 338	Antecedentes
+T2	SECCION_SITUACION_FUNCIONAL 405 420	Situación basal
+T3	SECCION_TRATAMIENTO_HABITUAL 451 469	MEDICACIÓ HABITUAL
+T4	SECCION_PROCESO_ACTUAL 599 616	Enfermedad actual
+T5	mRankin_previa 1127 1132	mRs 0
+#5	AnnotatorNotes T5	0
+T6	NIHSS_previa 1390 1397	NIHSS 8
+#6	AnnotatorNotes T6	8
+T7	SECCION_CONTROL 2708 2711	PLA
+T8	SECCION_EXPLORACION_FISICA 2904 2922	Exploración física
+T9	SECCION_EXPLORACIONES_COMPLEMENTARIAS 3192 3221	Exploraciones complementarias
+T10	SECCION_EVOLUCION 5126 5135	Evolución
+T11	SECCION_DIAGNOSTICOS 5522 5534	Diagnósticos
+T12	SECCION_TRATAMIENTO_AL_ALTA 5771 5782	Tratamiento
+T13	Tratamiento_antiagregante_alta 5841 5846	Adiro
+T14	Fecha_de_ingreso 100 110	19/10/2017
+#14	AnnotatorNotes T14	2017-10-19
+T15	Fecha_de_alta 124 132	26/10/17
+#15	AnnotatorNotes T15	2017-10-26
+T16	Fecha_inicio_sintomas 621 626	18/10
+#16	AnnotatorNotes T16	2017-10-18
+T17	Fecha_llegada_hospital 621 626	18/10
+#17	AnnotatorNotes T17	2017-10-18
+T18	Hora_inicio_sintomas 637 642	20:00
+#18	AnnotatorNotes T18	20:00
+T19	Hora_llegada_hospital 1328 1333	20:45
+#19	AnnotatorNotes T19	20:45
+T20	Ictus_isquemico 5536 5553	Infarto isquémico
+T21	Arteria_afectada 5580 5583	ACM
+T22	Lateralizacion 5584 5588	izda
+T23	Etiologia 5619 5632	indeterminada
+T24	Fecha_trombolisis_rtPA 621 626	18/10
+#24	AnnotatorNotes T24	2017-10-18
+T25	TAC_craneal 756 766	TC craneal
+T26	Hora_primer_bolus_trombolisis_rtPA 824 829	21:20
+#26	AnnotatorNotes T26	21:20

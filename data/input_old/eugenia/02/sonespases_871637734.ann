@@ -1,0 +1,81 @@
+T1	Fecha_de_alta 15 25	09-04-2018
+#1	AnnotatorNotes T1	2018-04-09
+T2	Ataque_isquemico_transitorio 83 86	AIT
+T3	Etiologia 137 150	INDETERMINADA
+T4	_SUG_Ictus_isquemico 237 242	Ictus
+T6	_SUG_Ictus_isquemico 333 338	ictus
+T7	_SUG_mRankin_alta 493 502	mRs 0  [2
+T9	_SUG_Lateralizacion 553 563	izquierdos
+T10	FECHA 722 734	octubre 2016
+#10	AnnotatorNotes T10	2016-10-UNDEF-day
+T11	_SUG_Tratamiento_antiagregante_alta 881 903	ACETILSALICILICO ACIDO
+T12	Tratamiento_antiagregante_hab 881 903	ACETILSALICILICO ACIDO
+T13	_SUG_Tratamiento_antiagregante_alta 1152 1163	CLOPIDOGREL
+T14	Tratamiento_antiagregante_hab 1152 1163	CLOPIDOGREL
+T16	_SUG_Ictus_isquemico 1588 1593	ictus
+T17	Hora_inicio_sintomas 1640 1645	10:30
+#17	AnnotatorNotes T17	10:30
+T18	Fecha_inicio_sintomas 1650 1658	07/abril
+#18	AnnotatorNotes T18	2018-04-07
+T19	_SUG_Ictus_isquemico 1941 1946	Ictus
+T20	FECHA 2026 2034	31/marzo
+#20	AnnotatorNotes T20	2016-03-31
+T21	_SUG_Ataque_isquemico_transitorio 2143 2146	AIT
+T22	_SUG_Etiologia 2161 2174	indeterminado
+T23	_SUG_Tratamiento_antiagregante_alta 2423 2426	AAS
+T24	_SUG_Tratamiento_antiagregante_hab 2423 2426	AAS
+T25	_SUG_Tratamiento_antiagregante_alta 2429 2440	clopidogrel
+T26	_SUG_Tratamiento_antiagregante_hab 2429 2440	clopidogrel
+T27	HORA 2527 2532	10:30
+#27	AnnotatorNotes T27	10:30
+T28	_SUG_Ictus_isquemico 2556 2561	ictus
+T31	HORA 2632 2637	16:37
+#31	AnnotatorNotes T31	16:37
+T32	HORA 2661 2666	17:27
+#32	AnnotatorNotes T32	17:27
+T33	_SUG_Lateralizacion 3361 3368	derecha
+T34	TAC_craneal 4178 4180	TC
+T35	Fecha_TAC_inicial 4207 4217	07-04-2018
+#35	AnnotatorNotes T35	2018-04-07
+T36	_SUG_Localizacion 4348 4359	ventricular
+T37	_SUG_TAC_craneal 4465 4467	TC
+T38	FECHA 4491 4501	07-04-2018
+#38	AnnotatorNotes T38	2018-04-07
+T39	_SUG_TAC_craneal 4553 4555	TC
+T40	FECHA 4580 4590	07-04-2018
+#40	AnnotatorNotes T40	2018-04-07
+T41	_SUG_Arteria_afectada 4592 4612	Arterias vertebrales
+T42	FECHA 4786 4796	05-04-2018
+#42	AnnotatorNotes T42	2018-04-05
+T43	_SUG_Arteria_afectada 5077 5097	arterias vertebrales
+T44	_SUG_Ataque_isquemico_transitorio 5206 5209	AIT
+T45	FECHA 5217 5225	31/marzo
+#45	AnnotatorNotes T45	2018-03-31
+T46	_SUG_Ictus_isquemico 5419 5424	ictus
+T47	_SUG_Ictus_isquemico 5494 5499	Ictus
+T48	_SUG_Ictus_isquemico 5668 5673	Ictus
+T49	_SUG_Tratamiento_antiagregante_alta 5722 5725	AAS
+T50	_SUG_Tratamiento_antiagregante_hab 5722 5725	AAS
+T51	_SUG_Tratamiento_antiagregante_alta 5729 5740	clopidogrel
+T52	_SUG_Tratamiento_antiagregante_hab 5729 5740	clopidogrel
+T53	Tratamiento_antiagregante_alta 6234 6245	Clopidogrel
+T54	_SUG_Tratamiento_antiagregante_hab 6234 6245	Clopidogrel
+T55	SECCION_DIAGNOSTICOS 27 39	Diagnosticos
+T56	SECCION_PROCEDIMIENTOS 192 206	Procedimientos
+T57	SECCION_MOTIVO_DE_INGRESO 273 290	Motivo de ingreso
+T58	SECCION_SITUACION_FUNCIONAL 476 491	Situación Basal
+T59	SECCION_ANTECEDENTES_QUIRURGICOS 764 788	Antecedentes Quirúrgicos
+T60	SECCION_EXPLORACION_FISICA 2676 2687	Exploración
+T61	SECCION_EVOLUCION 5130 5152	Evolución Hospitalaria
+T62	SECCION_TRATAMIENTO_Y_RECOMENDACIONES_AL_ALTA 6041 6078	Recomendaciones y tratamiento al alta
+T5	SECCION_ANTECEDENTES 425 445	Antecedentes Médicos
+T15	SECCION_TRATAMIENTO_HABITUAL 852 876	Tratamiento domiciliario
+T63	SECCION_EXPLORACIONES_COMPLEMENTARIAS 4054 4077	pruebas complementarias
+T64	Arteria_afectada 115 118	ACM
+T65	Lateralizacion 118 119	I
+T8	mRankin_previa 493 498	mRs 0
+#2	AnnotatorNotes T8	0
+T66	SECCION_PROCESO_ACTUAL 1536 1545	Anamnesis
+T29	Hora_llegada_hospital 2587 2592	16:00
+T30	Hora_TAC_inicial 2609 2614	16:23
+T67	Fecha_llegada_hospital 1650 1658	07/abril

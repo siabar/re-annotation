@@ -1,0 +1,100 @@
+
+
+
+
+
+
+
+Informe d'Alta Hospitalària	Cognoms i nom:
+_NAME_	NHC:
+_ID_
+	ABS:
+_SS_	CIP:
+_ID_	DNI:
+_ID_
+	Data de naixement:
+_DATE_	Sexe:
+Dona	Edat:
+80a	Telèfon:
+_CONTACT_
+	Finançament:
+CatSalut - _LOCATION_	Procedència:
+URGÈNCIES
+	Admissió:
+07.04.2017 - 23:16		Data entrada urg.:
+07.04.2017 - 19:40
+	Ingrès UCI:
+09.04.2017 - 12:34:13	Servei UCI:
+MEDICINA INTENSIVA HOSP
+Adreça:
+_LOCATION_	Població:
+_LOCATION_	Codi Postal:
+_LOCATION_
+
+SAPS II: 000	APACHE II: 000
+
+
+
+Motivo ingreso
+Ictus hemorrágico en paciente descoagulada.
+
+
+ANTECEDENTES
+-No alergias medicamentosas conocidas.
+-No Hábitos tóxicos
+-AC x FA anticoagulada
+-Artrosis
+-Difteriosis a los 6m
+-Tiffus a los 7 años
+Antecedentes quirúrgicos: diciembre 2016 cirugía de cataratas
+-Tratamiento habitual: sintrom, bisoprolol
+-Situación  Social: Totalmente independiente  para ABVD. FFSS conservadas. mRS 0. Convive con una mujer de 87 años con la que no comparte parentesco.
+
+ENFERMEDAD ACTUAL
+El 7/4/17 mientras caminaba por la calle, sobre las 19 horas ha presentado hemiparesia izquierda de inicio brusco, por lo que cae al suelo. Acude el SEM que activa código ictus. A su llegada al _SS_:
+CTS TA 202/98, FC 156, afebril, sat 97%AA, INR 3, glicemia 122.
+En examen físico vigil, orientada, colaboradora, lenguaje sin alteraciones. Heminegligencia izquierda, disartria. HHI por amenaza. Desviación forzada de la mirada a la derecha. Facial central izquierdo. Hemiplejia izquierda. Hemianestesia izquierda. Babinski izquierdo.
+NIHSS 0.0.0.2.2/2(4.0)(4.0)/0.2.0.1.2:19
+Durante realización de TC presenta vómito y probable broncoasiración. Se evidencia en el mismo hematoma agudo lenticular derecho, con extensión a corona radiada derecha, de 30x36x35mm de diámetro, que produce efecto de masa sobre ventrículo lateral derecho e incipiente desviación de la línea media a izquierda (3 mm).
+A la vuelta del TC paciente más somnolienta, reactiva a estímulos verbales intensos, TA 140/110, saturación de 92%. Se inicia amoxicilina/clavulánico y broncodilatadores. Se pauta complejo protrombínico y vitamina K según recomendación de hematología para reversión de anticoagulación. Ingresa en semicríticos. En la mañana del día 8/4/17 avisa enfermería por disminución del Glasgow: paciente no reactiva a estímulos verbales ni doloroso, no apertura ocular, no emisión de lenguaje, midriasis arreactiva derecha. Se solicita TC urgente donde se aprecia un marcado aumento de tamaño del hematoma que produce mucho más efecto de masa, con herniación uncal y subfalciana, y desviación de la línea media a la izquierda de 14 mm, con apertura al sistema ventricular. Es valorado por neurocirugía, por la edad, localización y dimensiones, no es tributario de tratamiento neuroquirúrgico. Se explica a la familia (hija y sobrina) la evolución, los hallazgos del TC y el mal pronóstico a corto plazo, quienes lo comprenden y están de acuerdo en priorizar medidas de confort.
+Durante el día 8/4/17 permanece en semicríticos, hemodinamicamente estable. Se ha decidido que la paciente es tributaria a ser donante. Familia informada. Dada la evolución neurológica y la necesidad de ventilación mecánica la paciente ingresa en el Servicio de Medicina Intensiva el 09/04/2017.
+
+EXPLORACIONES COMPLEMENTARIAS
+-AS ingreso UCI: Na 142, K 3.18, urea 4 mmol, creatinina 58 umol, bilirrubina T 27 umol, amilasas 165, CK 172, Hb 104 g/L, leucos 10.35, INR 1.31.
+-Rx tórax (8/4): no condensaciones, infiltrados hiliares y perihiliares derechos.
+-TC cerebral 7/4/17: Hematoma agudo lenticular derecho, con extensión a corona radiada derecha, de 30x36x35mm de diámetro, que produce efecto de masa sobre el ventrículo lateral derecho y una incipiente desviación de la línea media a la izquierda (unos 3 mm). Resto del paréquima cerebral y del sistema ventricular sin otras alteraciones relevantes.
+-TC cerebral control 9/4/17: Se compara con el TC craneal previo, apreciando un marcado aumento de tamaño del hematoma lenticular D (57,6 x 47 x mm), que produce mucho más efecto de masa, con herniación uncal y subfalciana, y desviación de la línea media a la izquierda de 14 mm. Existe apertura del hematoma al sistema ventricular, apreciando además una dilatación del ventrículo lateral izquierdo, probablemente por exclusión y dificultad en su drenaje por el efecto de masa hemisférico derecho. Resto sin otros cambios.
+
+EVOLUCIÓN
+En UCI se conetca al ventilador en modo controlado por volumen presenta la siguiente gasometría: PH 7.49/PCO2 29/PO2 392/HCO3- 24/lácticos 1.4. Tras el ingreso en el Servicio de Medicna Intensiva durante la tarde hemos revalorado el estado neurológico de la paciente; ausencia de la totalidad de los reflejos de tronco encefálico estándo hemodinamicamente estable, normotérmica  y en ausencia de sedación (EEG plano depresión 5/5) a las 23.00h del 09.04.2017completamos test de apnea y atropina confirmándose el diagnóstico de muerte encefálica. Aviso al coordinador de transplantes de guardia. Se mantiene cobertura de la broncoaspiración con ceftriaxona y clindamicina.
+PROCEDIMIENTOS
+-	Intubación orotraqueal
+-	Ventilación mecánica invasiva
+-	Vía arterial radial
+-	Dúplex transcraneal
+-	Electroencefalograma
+-	Traslado a quirófano para donación.
+
+
+DIAGNÓSTICOS
+-	Hemorragia capsulo-talámica derecha abierta a ventrículo.
+-	Fibrilación auricular crónica descoagulada.
+-	Broncoaspiración.
+-	Insuficiencia respiratoria aguda.
+-	Hidrocefalia.
+-	Herniación subfalcial.
+-	Hipertensión intracraneal.
+-	Muerte encefálica.
+-	Donante de órganos.
+
+Responsable clínic: Dr. _NAME_ (NºCol. _ID_)
+Equip mèdic: Dr. _NAME_ (NºCol. _ID_)
+
+Servei que ha donat d'alta:
+MEDICINA INTENSIVA HOSP	Data d'alta:
+10.04.2017 - 00:12	Nom del metge que informa de l'alta:
+Dr. _NAME_ (NºCol. _ID_)
+
+
+_LOCATION_, 10.04.2017
+Pàg. 1 de   3

@@ -1,0 +1,106 @@
+I.CLINIC DE NEUROCIÈNCIES NEUROLOGIA
+_NAME_	NHC: _ID_
+
+
+Sexo/Sexe: Masc.	Fecha nac./Data naix.: _DATE_	Edad/Edat: 75 años Dirección/Adreça: _LOCATION_	CP: _LOCATION_
+Municip. (Prov.): _LOCATION_  ABS:_SS_		Tel.:_CONTACT_ As.: SERVEI CATALA DE LA SALUT	CIP: _ID_	NASS: _ID_
+Nº epis.: _ID_	Tipo/Tipus: HOSPIT.	Inici.: 15.11.2017
+Serv: NEUROLOGIA	UO Enf.: G6B4 SALA G NEUROL. CURT. E Hora: 18:09:51
+Facult. de ref.: _NAME_
+
+
+
+
+Tipo ingreso/Tipus ingrés: Urgent	Motivo/Motiu alta: Defunc.
+Diag.:
+ICTUS ISQUÉMICO ACMI + ACPI (434.91) TROMBOSIS RADIAL DRCHA (444.22)
+Proc.:
+RMN CEREBRAL ()
+
+
+
+
+INFORME EXITUS
+
+Motivo de consulta / Motiu de consulta
+Alteración del lenguaje de incio súbito.
+
+Antecedentes e historia previa / Antecedents i història prèvia
+Varón  de  75  años,  sin  alergias  medicamentosas  conocidas.  Exfumador  durante  20  años,  DA  15p/a. Independiente para las actividades básicas de la vida diaria.
+
+*ANTECEDENTES PATOLÓGICOS:
+1.- HIPERTENSIÓN ARTERIAL en tratamiento farmacológico. 2.- DISLIPEMIA en tratamiento con hipolipemiante oral.
+3.- NEOPLASIA RENAL: Nefrectomía radical izquierda por laparoscopia el 27/10/2017. En el estudio se observaron múltiples nódulos pulmonares, dos de ellos de mayor tamaño, que planteaban el diagnóstico diferencial de M1 versus proceso neoformativo primario pulmonar.
+4.- HIPERPLASIA BENIGNA DE PROSTATA
+5.- QUISTE SINOVIAL DE BAKER derecho
+*IQ: Meniscopatía izquierda
+
+*ANTECEDENTES FAMILIARES: Hermano con neolasia de pulmón a los 79a y hermana con neoplasia sin precisar a los 50a.
+
+*TRATAMIENTO HABITUAL: - VALSARTAN 320MG - AMLODIPINO 5MG - SIMVASTATINA 20MG - OMEPRAZOL 10MG - TAMSULOSINA 0,4MG - BISOPROLOL 2,5MG
+
+Proceso actual / Procés actual
+El 15/11 presenta alteración del lenguaje ("decía cosas sin sentido") por lo que avisan al SEM y es trasladado como código ictus extramuros.
+
+Exploración física / Exploració física
+
+15/11/2017-18:20:00: Frecuencia respiratoria (rpm) 15, Glicemia capilar (mg/dl) 110, PAS (mm Hg) 134, PAD (mm Hg) 60, Pulsioximetría (%) 97. 15/ 11/2017-19:00:00 : Tª axilar (ºC) 37.5. 16/11/2017-16:00:00 : FiO2 (%) 2 1.
+NRL: Consciente, orientación no valorable. Afasia mixta de predominio sensitivo (no nomina, no repite y no realiza órdenes, jergafasia). No disartria. Mirada centrada con dificultad en la mirada a la derecha. Reflejo de amenaza derecha abolido. Asimetría facial derecha. Fuerza conservada. Sensibildiad y dismetrías sin alteraciones. NIHSS 13.
+
+Laboratorio / Laboratori
+*	ANALÍTICA SANGUÍNEA: PCR 15 con leve leucocitosis; Ca 7.5; VSG 100. Sin otras alteraciones a destacar.
+
+Radiología / Radiologia
+*	Rx TÓRAX: Imagen de mala calidad. Rotada y poco penetrada. Se observan hilios  prominentes. ICT aumentado.
+
+* TC MULTIMODAL: No se observa sangrado agudo intra ni extraaxial. Pérdida de la diferenciación cortico-subcortical con hipodensidad y borramiento de surcos compatible con infarto isquémico establecido, que afecta a región frontal posterior, temporo-occipital y occipital parasagital (esta última con mayor hipodensidad), lo cual parece corresponder a territorio de la ACPI y superficial posterior de la ACMI. Imagen lacunar de aspecto crónico en n.lenticular derecho.
+-	TC PERFUSIÓN: Se observa retraso a nivel frontotemporal posterior y occipital del lado izquierdo. CBV: Extensas áreas de caída a nivel frontotemporal posterior y occipital (aunque menos extenso que el retraso del TTP) del lado izquierdo. CBF: Afectación prácticamente superponible al mapa de CBV. Sin discordancia significativa (< 30-50%).
+-	ANGIO-TC EXTRA E INTRACRANEAL: Arco aórtico con ateromatosis, sin signos de estenosis. Origen y bifurcación de ambas carótidas internas sin ateromatosis ni signos de estenosis. Origen de las arterias vertebrales sin ateromatosis ni signos de estenosis. Se aprecian dos STOPs en el paso de contraste compatibles con oclusión del vaso: en segmento P2 distal de la ACPI y otro en segmento M2 distal de la ACMI. Resto de principales arterias cerebrales intracraneales permeables (ACAs, ACMD y ACPD). Sistema vertebrobasilar permeable. Dudoso defecto de repleción parcial central en aorta ascendente, no valorable en el estudio actual. Lóbulo tiroideo derecho con nódulo hipodenso de 14 mm.
+
+*RM CEREBRAL: Exploración parcialmente artefactada por los movimientos del paciente. Lesión isquémica aguda temporal posterior, occipital y parietal izda. Áreas de transfomación hemorrágica petequial
+
+Evolución / Evolució
+1.	ICTUS ISQUÉMICO EN MÚLTIPLES TERRITORIOS (ARTERIA CEREBAL MEDIA IZQUIERDA Y ARTERIA CEREBRAL POSTERIOR IZQUIERDA). OCLUSIÓN CARÓTIDA INTERNA IZQ.
+
+A su llegada a nuestro centro hemodinámicamente estable, afebril. A la exploración neurológica destaca afasia mixta de predominio sensitivo y hemianopsia homónima derecha (NIHSS 13). Analítica sanguínea que muestra insuficiencia renal aguda con creat 1.63. La neuroimagen (TC craneal multimodal) muestra en la secuencia basal lesión establecida en el territorio de la ACPI y signos de desdiferenciación cortico-subcortical a nivel parietal izquierdo. Mapas de perfusión que muestran un retraso en dicho territorio sin mismatch significativo y angioTC en el que se aprecia oclusión M2 de la ACMI y P2 de la ACPI. Ante la presencia de lesión establecida y ausencia de oclusión de gran vaso se desestima tratamiento revascularizador.
+
+Se trata de un paciente con ictus en múltiples territorios y embolia arterial radial en el que se sospecha un origen cardioembólico de los mismos por lo que se inicia tratamiento con HepNa+. Ingresa en la Unidad de Ictus para monitorización y completar estudio. Durante su estancia se realiza RM cerebral que muestra las lesiones  ya  observadas  en  el  TC  sin  otras  alteraciones  evidentes.  Ecocardio  transtorácico  sin  fuentes
+
+
+
+cardioembólicas.
+
+El paciente presenta evolución tórpida. El 18/11 se observa empeoramiento clínico a expensas de sdr hemisférico izq completo, NIHSS 24. Se activa código ictus y se realiza nuevo TC multimodal que muestra oclusión de carótida interna izq. Se intenta realizar trombectomía pero no se consigue recanalización.
+
+Ante el mal pronóstico vital a corto plazo, se le explica a la familia y se acuerda la no realización de medidas agresivas, así como el inicio de medidas de confort. El paciente evoluciona desfavorablemente, siendo éxitus vitae el día 21 de Noviembre del 2017 a la 1:30 am. Se le ofrece a la familia la posibilidad de realizar una autopsia clínica, que desestiman.
+
+2.	EMBOLIA ARTERIAL RADIAL DERECHA.
+
+A su llegada, en la exploración destacaba frialdad y palidez de la mano derecha con ausencia de pulso radial por lo que se contacta con cirugía vascular quienes confirman el diagnóstico de embolia radial. Éstos realizan embolectomía consiguiendo buena recanalización.
+
+Plan terapéutico / Pla terapèutic
+.
+
+Otras recomendaciones / Altres recomanacions
+.
+
+
+
+Firma/Signatura1: _NAME_	Firma/Signatura2: _NAME_ Categoría: Resident 3	Categoría: Especialista
+Nº Matrícula _SS_: _ID_	Nº Matrícula _SS_: _ID_
+
+Fecha/Data Informe: 21.11.2017
+Hora Informe: 02:33:54
+
+Docum.: _ID_
+Hist. Clínica: _ID_
+El _SS_ ha incorporado sus datos al Fichero de Pacientes, para tratarlos con fines sanitarios.
+Puede ejercer sus derechos de acceso, rectificación, cancelación y oposición, así como obtener mas información en la Unidad de Atención al Cliente.
+Vers. 00
+Pag. 2 de
+3
+Episod.: _ID_
+_SS_ ha incorporat les seves dades al Fitxer de Pacients, per a tractar-los amb finalitats sanitàries. Pot exercir els seus drets d'accés, rectificació, cancel·lació i oposició, i obtenir més informació a la Unitat d'Atenció al Client.
+_SS_
+_LOCATION_) _LOCATION_) Tel. _CONTACT_ Fax _CONTACT_
+http://_CONTACT_/

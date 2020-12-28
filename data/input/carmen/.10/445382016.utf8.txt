@@ -1,0 +1,121 @@
+_LOCATION_
+_LOCATION_) Anul·lació/Reprogramació visites:_CONTACT_
+Telèfon Centraleta: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 84 Anys
+NIF/DNI: _ID__NAME_; _NAME_;
+ _NAME_
+Informe d'alta d'hospitalització
+16:30:51
+20.11.2017
+_LOCATION_
+_SS_ NEUROLOGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_; _CONTACT_
+DOMICIL/RES.SOC 15.11.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Mujer de 84 años que ingresa por ictus ACM izquierda.
+
+ANTECEDENTS
+No AMC
+HTA en tto, no DM ni DLP conocidas No cardiopatías conocidas,
+Migraña
+IRC con riñón poliquístico, Síndrome depresivo
+Fx cadera derecha hace aprox 2 años, mínima secuela de la marcha. IQ: cadera dcha.
+Situación basal: mRS 1. Camina  con muleta, vive sola, independiente  para las ABVD e instrumentales.  No deterioro cognitivo.
+
+
+MEDICACIÓ HABITUAL
+Enalapril 20, lyrica 75, paracetamol, paroxetina 20.
+
+PROCÉS ACTUAL
+El día 15/11 a las 11:00am mientras estaba con su familia presenta alteración del habla con debilidad del hemicuerpo derecho. Se activa código ictus a las 12:26 h, llega a _SS_ a las 12:41 h y se realiza el TACcraneal a las 13:03h.
+
+A la valoración por Neurología de guardia la paciente se encuentra hipertensa con TA 158/105 mmHg, FC 99 lpm. A la exploración está consciente, orientación no valorable por afasia (2+3), no obedee órdenes (2), TOC I que sobrepasa LM, HHD por amenaza (2), PFSN D (1), plejia BC dcha 0/5 (4+4), sensibilidad no valorable. RCP flexor izq (1), BBK D. NIHSS 19.
+
+Como pruebas complementarias se realiza analítica en la que destaca glucosa 7.8mmol/L, urea 9.9mmol/L, Cr 102umol/L, neutrofilia sin leucocitosis. Por monitor se detecta una FA <100lpm no conocida previamente. En el TAC cranea se observa sutil hipodensidat insular predominio anterior y lenticular; ASPECTS 8 , oclusión ACM I M1 media.
+
+Ante la ausencia de contrainidicación y al encontrarse en periodo ventana se decide trombolisis que se inicia a las 13:40h. Se comenta el caso con Neurovascular decidiéndose rescate intraarterial mediante trombectomía. Durante el procedimiento la paciente está muy hipertensa hasta 200/88mmHg siendo necesario administrar labetalol. Se consigue recanalización TICI2b.
+
+Posteriormente, se ingresa en la Unidad de ictus para estudio y control evolutivo.
+
+Informe d'alta d'hospitalització
+
+
+
+EXPLORACIÓ FÍSICA
+
+TA 150/54mmHg FC 65lpm Tª 37.5ºC SatO2 basal 98% 23rpm
+NRL: vigil, consciente, no dice mes ni edad (2), responde 2 órdenes simples, lenguaje nomina 4/5 evoca 0/5 repite 0/5 (2), PICR, no HH por amenaza, no TOC, PFSN d (1), paresia BC derecha 4/5 (1+1), sensibilidad no valorable (1). NIHSS 8.
+AC: rítmica, no ausculto soplos ni roces
+AP: murmulo vesicular conservado, sin ruidos sobreañadidos
+Abdomen: blando, depresible, no doloroso a la palpación, no palpo masas ni megalias, no signos de irritación peritoneal, peristaltismo conservado.
+EEII: no edemas ni signos de TVP.
+
+EXPLORACIÓ COMPLEMENTÀRIA
+Pruebas en Urgencias: Analítica:
+EAB venoso: pH 7.33 ; CO2 48mmHg; O2 42mmHg; HCO3- 25.3mmol/L; EB -1.1mmol/L; Sat.O2 78%. Bioquímica: Glucosa 7.8mmol/L; Urea 9.9mmol/L; Cr 102umol/L; Na+ 143mmol/L; K+ 4.67mmol/L. Coagulación: TTPA 0.88; TP 1.01.
+Hemograma: Hb 126g/L; Hto 39%; VCM 88fL; Plaquetes 153x10E9/L; Leucocitos 6.4x10E9/L
+TAC de craneal: Sutil hipodensitat insular predominio anterior y lenticular; Aspectos 8. Oclusión ACM E M1 media. Repermeabilización distal y buena colateralitat. CTAS 6-7 expensas insular, lenticular y fronto-temporal. No otras oclusiones o estenosis significativas. Bocio tiroideo Extensa penumbra isquémica en el resto de la totalidad del territorio ACM E. Infarto establecido expensas insular, lenticular y fronto-temporal.
+ECG: FA a 70lpm.
+Rx de tórax:  Silueta cardiomediastínica conservada, sin infiltrados pulmonares.
+
+Pruebas en Neurología:
+Analítica  ingreso: Creatinina  121, urea normal, FG 36; Na+ normal	K+ 5.26, perfil lipídico  y hepático sin alteraciones, funicón tiroidea normal, Hb glicada 5,3%, folatos y cobalaminas normales. Hemograma con Hbmassa
+*91 g/L, Htco	29 %, VCM 90 fL. Leucopenia 2.700/L y plaquetopenia 123.000/L. Coagulación con tiempos alargados (paciente en tto anticoagulante). Pdte proteinograma.
+TAC de control post-trombectomía: pequeña lesión isquémica en la región ganglionarbasal izquierda con áreas de leve sufusión hemática o extravasación de contraste ténue que afecta a la cabeza del núcleo caudado y núcleo lenticular izquierdos. Área de hipodensidad corticosubcortical que sugiere lesión isquémica en región temporal posterior izquierda.
+
+EVOLUCIÓ CLÍNICA
+Ingresa en la Unidad de ictus por TACI ACM izquierda por FA paroxística de debut tratada en fase aguda mediante rtPA+TEV (TICI 2b).
+
+A su llegada  la paciente se encuentra vigil, consciente, no dice mes ni edad (2), responde 2 órdenes simples, lenguaje nomina 4/5 evoca 0/5 repite 0/5 (2), PICR, no HH por amenaza, no TOC, PFSN d (1), paresia BC derecha 4/5 (1+1), sensibilidad no valorable (1). NIHSS 8.
+
+Informe d'alta d'hospitalització
+
+
+
+
+
+En el TAC de control a las 24h post-trombectomía se observa pequeña lesión isquémica en la región ganglionar basal izquierda con áreas de leve sufusión hemática o extravasación de contraste ténue que afecta a la cabeza del núcleo caudado y núcleo lenticular izquierdos. Área de hipodensidad corticosubcortical que sugiere lesión isquémica en región temporal posterior izquierda.
+
+Se inicia anticoagulación oral con warfarina el 16/1.
+
+Como incidencias   durante su estancia en unidad de ictus  ha presentando:
+1.	febrícula aislada y sedimento urinario patológico, retirándose  sonda vesical e iniciando cefuroxima 500 mg/12 horas el 17/11.
+2.	Hematoma en zona de punción de trombectomía tras retirada compresivo en paciente anticoagulada con Hep Na los días previos, actualmente con warfarina. Desde trombectomía anemización progresiva: Hb inicial en URG 126 g/L, Hb postrombectomía 91 --> 89 g/L).  Hemodinámicamente estable, sin cambios a nivel NRL.
+Se coloca compresivo y se solicitan analíticas seriadas de control con estabilización del Htco (última determinación Hb 91). Recomedamos analítica de control.
+
+La telemetría registra ocasionales salvas de fibrilación auricular, bien toleradas y que alternan con  ritmo sinusal  la mayor parte del día.
+
+A día 20/11 presenta la siguiente exploración NRL: dice su nombre, la edad, obedece órdenes, nomina 4/5, evoca 5/5 repite sin dificultad, afasia leve por bloqueo ocasional del lenguaje.  Persiste PFSN D leve y  paresia BC 4/5 sin hipoestesia. NIHSS 4.   Se retiran medias de compresión,  vendaje compresivo y se inicia  dieta oral y sedestación en cama bien tolerada.
+
+Se orienta como  TACI ACM izq por FA paroxística de debut tratada en fase aguda mediante rtPA+TEV con recanalización TICI2b. En tto anticoagulante. NIHSS 4.
+
+Queda  pendiente de completar estudio con RMN craneal y ecocardiograma. Se solicita traslado a _SS_ para continuar  etsudio y tratamiento siendo aceptada a día 20.11.
+
+DIAGNÒSTICS
+Ictus isquémico de ACM I,  etiología cardioembólica por FA paroxística de debut.  Tratamiento en fase aguda con rTPA + trombectomía TICI 2b.
+NIHSS 4
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Se adjunta.
+
+DESTINACIÓ A L'ALTA:	HOSP. AGUTS/PSQ
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+20.11.2017
+Pàgina 1 de 3

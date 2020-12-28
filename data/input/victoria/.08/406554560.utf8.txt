@@ -1,0 +1,140 @@
+_LOCATION_
+Telèfon: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_.
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 57 anys
+NIF/DNI: _ID_Informe d'alta d'hospitalització
+CP	_LOCATION_
+ABS	_SS_
+Servei	NEUROLOGIA
+Data d'alta  30.08.2017	10:42:21
+_LOCATION_
+_CONTACT_; _CONTACT_
+DOMICIL/RES.SOC 24.08.2017
+Dr. _NAME_
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Debilidad, alteración sensitiva y movimientos anormales de brazo izquierdo
+
+ANTECEDENTS
+Varón de 57 años, SAMC, ex-fumador. No otros hábitos tóxicos.
+Situación funcional: independiente  para las actividades básicas e instrumentales  de la vida diaria. Trabajador activo. Rankin 0.
+
+ANTECEDENTES MÉDICOS
+-	Hipertensión Arterial en tratamiento con ARA-II
+-	Glaucoma en tratamiento tópico.
+-	Asma estable
+-	Reflujo gastroesofágico
+-	Hernia discal lumbar
+-	Pólipo compatible con adenoma tubular con displasia de bajo grado (descubierto por SOH +).,
+-	Perforación colon yatrógena post-colonoscopia
+
+MEDICACIÓ HABITUAL
+Losartan 25mg/24h, timogel 1/día
+
+PROCÉS ACTUAL
+El 24/08/2017 refiere que se siente más cansado de lo habitual con molestia en el ojo izquierdo (no pérdida visual). Va al baño y mientras está miccionando (sentado como siempre) presenta de forma brusca adormecimiento de todo el brazo izquierdo con torpeza y movimientos involuntarios de <1 minuto de duración con recuperación completa.
+Nunca clínica previa neurológica.
+No palpitaciones ni episodios de amaurosis fúgax.
+No desconexión del medio durante el episodio ni clínica comicial previa sugerente.
+
+EXPLORACIÓ FÍSICA
+
+FC	80 bpm
+Tªaxi 36.0 ºC
+FR	rpm Tªrec  ºC
+TA s	165 mmHg SAT O2 98 %
+TA d   78 mmHg Pes Kg
+
+Buen estado general. Normohidratado y normoperfundido. Auscultació cadio pulmonar normal. No soplos carotídeos.
+
+Exploración neurológica: sin focalidades. NIHSS 0
+
+Informe d'alta d'hospitalització
+
+
+
+EXPLORACIÓ COMPLEMENTÀRIA
+EXPLORACIONES EN URGENCIAS
+
+-	Analítica de urgencias: sin alteracioens significativas
+
+-	ECG: ritme sinusal sense altracions de la repolarització
+
+-	Rx de tòrax: normal
+
+-	TC craneal y Angio-TC: foco hipodenso subcentimetrico en tercio posterior de centro semioval izq. compatible con infarto lacunar cronico. Disceta hiodensidad mal definida entre asta temporal del ventriculo lateral derecho y cisura silviana derecha; dudosa lesion de hipoxia-isquémia. No lesiones hemorragicas. No hidrocefalia.
+Estructuras vasculares de PW y TSA dentro de la normalidad, sin signos de trombosis ni estenosis relevantes EXPLORACIONES EN SERVICIO DE NEUROLOGÍA
+-	Analítica de ingreso: perfil lipídico y glicémico sin alteraciones
+
+-	Monitorización cardíaca: sin arritmias embolígenas
+
+-	RM cerebral + Angio-RM intracraneal: mínimas lesiones de hipoxia-isquémia crónica en la sustancia blanca periventricular supratentorial bihemisférica.
+No se aprecian alteraciones vasculares significativas en las secuencias de angio-RM sobre el polígono de Willis.
+
+-	Dúplex TSA/TC:
+Dúplex TSA: dentro de la normalidad. Dúplex TC: dentro de la normalidad. Shunt D/I: mínimo después de Valsalva
+
+-	Ecocardiograma transtorácico: ritmo sinusal. VI no dilatado, ligeramente hipertrofiado a nivel septal, con función sistólica normal y patrón diastólico de mala relajación. TIA hipermóvil. FOP. Ausencia de datos indirectos sugestivos de hipertensión pulmonar significativa.
+
+-	Eco-doppler venoso:
+EEII: Sistema venós profund i superficial sense signes ecogràfics de trombosi en el moment de l'exploració.
+EESS: eix venós jugular interna, subclàvia, axilar, humerals, vena cefàlica i basílica permeable i sense signes de trombosi
+
+-	EEG:
+Actividad de base: baja amplitud y poco sincronizada con poca reactividad posterior a la apertura y cierre de los ojos. Somnolencia con lenificación global del registro.
+Actividades anormales: no asimetrías, focalidades ni fenómenos paroxísticos. No hay cambios con la hiperpnea.
+Conclusión:  trazado poco sincronizado sin anomalías valorables como patológicas en la actualidad.
+
+Informe d'alta d'hospitalització
+
+
+
+EVOLUCIÓ CLÍNICA
+Varón de 51 años, hipertenso. Acude a urgencias por episodio de alteración sensitiva, motora y movimientos anormales de brazo izquierdo de <1 minuto de duración tras maniobra de valsalva. A su llegada a urgencias hemodinámicamente estable, ECG en ritmo sinusal y asintomático. La analíltica no muestra alteraciones y el TC Craneal + angio-TC willis y carótidas no muestra lesiones agudas. Se orienta como episodio paroxístico de focalidad neurológica desproporcionada (AIT/ictus minor VS crisis parcial simple motora). Ingreso en neurología bajo tratamiento antiagregante.
+
+Durante su estancia en neurología constantes correctas sin necesidad de antihipertensivos habituales con PA < 130/09 en todo momento.
+Desde el punto de vista neurológico asintomático en todo momento. No recurrencias.
+Para estudio etiológico se realiza analítica que no muestra alteraciones signficativas con perfil glicémico y lipídico normal. La RM cerebral no muestra lesiones agudas ni lesiones estructurales de importancia. El estudio vascular y cardiológico (estructural y electrofisiológico) no muestra alteraciones salvo shung D/I en relación a foramen oval permeable. El dúplex venoso de EESS y EEII no muestra signos de trombosis. Por movimientos anormales se realiza EEG que no muestra alteraciones.
+El paciente no ha presentado complicaciones durante el ingreso.
+
+Se orienta el caso como AIT de territorio indeterminado derecho de posible etiiología cardioembólica por foramen oval permeable (fue tras valsalva) sin ser posible descartar (aunque menos probable) crisis parcial. Se decide tratamiento antiagregante. Seguirá controles en consultas externas de neurología. Se solicita estudio de ictus en paciente joven y holter-ECG + VEEG. Se aconseja utlizar heparina subcutánea para los viajes en avión. Seguirá controles de PA en su CAP
+
+Al alta, asintomático. NIHSS 0, rankin 0.
+
+DIAGNÒSTICS
+-	AIT de territorio indeterminado derecho de posible etiiología cardioembólica por foramen oval permeable sin ser posible descartar (aunque menos probable) crisis parcial.
+-	Glaucoma
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+-	Dieta baja en sal
+-	Adiro 100mg/24h
+-	Omeprazol 20mg/24h
+-	Timogel 1 gota/24h
+
+-	STOP losartán (pendiente de evolución de PA)
+
+CONTROL
+Control en consultas externas de neurología.
+Se solicita estudio de ictus en paciente joven y holter-ECG, VEEG con privación de sueño Se aconseja utlizar heparina subcutánea para los viajes en avión.
+Seguirá controles de PA en su CAP
+
+Informe d'alta d'hospitalització
+
+
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+30.08.2017
+Pàgina 1 de 4

@@ -1,0 +1,186 @@
+_LOCATION_) Telèfon _SS_  972 _CONTACT_
+Telèfon IDI (Ressonància i TAC) _CONTACT_
+Telèfon ICO _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 52 Anys
+NIF/DNI:_NAME_; _NAME_
+Informe d'alta d'hospitalització
+CP	_LOCATION_
+ABS	_SS_
+Servei	NEUROLOGIA
+Data d'alta  10.03.2017	14:45:30
+_LOCATION_
+_CONTACT_; _CONTACT_
+AGUTS 01.03.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Hematoma occipital izquierdo
+
+ANTECEDENTS
+PERSONALES
+-	No alergias medicamentosas
+-	No hábitos tòxicos
+-	Rankin 0. Natural de Ecuador, desde hace 8 años aqui. Ha trabajado en limpieza y cuidando personas mayores. Hace 1 mes estuvo 3 meses en _LOCATION_, nunca en zonas rurales.
+FAMILIARES: Padre con cirrosis alcohólica, fallecido. Madre sana. Seis hermanos sanos, hermano mayor con DM. PATOLÓGICOS
+-	DM en tratamiento con ADO.
+-	DLP en tratamiento previo, retirado hace 5 meses.
+-	Cefalea tensional des de hace 2 años: cefalea holocraneal, opresiva. Frecuencia de una vez al mes, con duración de un día. Tomaba analgesia que no recuerda, y mejoraba el dolor. No nauseas ni vómitos. No fotofobia ni sonofobia. Mejoraba al descansar. No recuerda desencadenantes ni agravantes.
+-	Artrosis en rodilla izquierda con dolor desde hace años.
+-	Cirurgia ocular hace 6 años en _LOCATION_, no recuerda el motivo ni el tipo de cirurgia. Niega cataratas o glaucoma.
+
+MEDICACIÓ HABITUAL
+Metformina 850mg/24h, consta Tryptizol 25mg/24h en la receta electrónica
+
+PROCÉS ACTUAL
+Refiere cefalea holocraneal desde hace 15 días, que empeora progresivamente hasta hace dos días, momento en que aumenta bruscamente el dolor, asocia vómitos y debilidad en hemicuerpo izquierdo (no congruente con el hematoma). Tomó Paracetamol sin mejoría clínica. Le despertaba el dolor por la noche. No diplopia, no disfagia, no disartria.
+Ademas refiere dificultad para la visión a nivel hemicampo derecho.
+
+Se deriva para TC de craneo, visualizandose hematoma occipital derecho. Ingresa en la unidad de Ictus para monitorización y estudio.
+
+EXPLORACIÓ FÍSICA
+
+Normotensa, afebril, eupneica.
+AC: soplo sistólico de predominio aórtico, rítmica.
+Consciente  y  alerta.  Orientada.  Lenguaje  sin  alteraciones.  No  rigidez  meningea.  PICNR.  PFC  derecha. Hemianopsia derecha. Hipoestesia derecha. Fuerza conservada en hemicuerpo derecho. Claudica con MII, refiere
+
+Informe d'alta d'hospitalització
+
+
+
+
+dolor. RCP indiferente izquierdo, flexor derecho. . NIHSS: 00002/10010/01000: 5
+
+
+EXPLORACIÓ COMPLEMENTÀRIA
+Analítica sanguinia 28/02/2017 (_SS_)
+-	Hemograma: Hb 12.3mg/dl. Leucocitos 11,61 x10E3/ìL, Plaquetas 203000
+-	Coagulación: INR 0.93, TP 111%
+- Crea 0.89, Na 139, K 4.17
+Rx de tórax: cardiomegalia, senos costofrénicos libres, no condensaciones.
+
+TC de craneo: Hematoma intraparenquimatoso occipital izquierdo con moderado efecto masa con desviación de las estructuras de la línea media de 5 mm. Estudio angio TC de arterias cerebrales sin alteraciones significativas.
+
+Arteriografia cerebral:
+Arteriografia:
+1.	Múltiples  estenosis  intracraneales  (ver  informe)  que  dentro  de  un  contexto  clínico  adecuado  podrían corresponder a un proceso vasculítico o a un síndrome de vasoconstricción reversible.
+2.	Microaneurisma sacular en el segmento paraoftálmico de la ACI izquierda.
+3.	Microaneurisma en la trifurcación de la ACM izquierda
+4.	Variantes anatómicas de la normalidad (ver informe).
+
+Eco-doppler 07/03/2017: Estudio carotídeo normal. Flujos hiperdinámicos de forma homogénea sin signos de patología a nivel de vascularización intracraneal.
+
+Analítica para completar estudio:
+-	Hemograma:  Hemoglobina  12.7  g/dL,  Hematòcrit  39  %,  Volum  corpuscular  mitjà  86.6  fL,  Hemoglobina corpuscular mitja 28 pg
+Plaquetes 230 K/mcL, Leucòcits 10.54 K/mcL
+-	Urea 23 mg/dL, Albúmina (sèrum) 4.1 g/dL, Bilirubina total 0.37 mg/dL, Aspartat aminotransferasa (GOT * 46 U/L, Alanina aminotransferasa (GPT) * 45 U/L, Quocient GOT/GPT 1.02, Creatincinasa (CK) 28 U/L, Amilasa 66 U/L, Calci (II) 9.1 mg/dL, Ió sodi 141 mEqu/L, Ió potasi 4.2 mEqu/L, Magnesi 1.93 mg/dL
+-	Factor C3 del complement 127.4 mg/dL, Factor C4 del complement 27.9 mg/dL, Factors reumatoidals 4.9 UI/mL, Immunoglobulina A 207.9 mg/dL, Immunoglobulina G 1277 mg/dL, Immunoglobulina M 122.7 mg/dL, Proteïna C reactiva 0.12 mg/dL
+-	Anti-nuclears (cribratge-IFI) Pendent, Anticòs cardiolipina (IgG) <2.6 UC, Anticòs cardiolipina (IgM) 19.3 UC Anti-beta2-glicoproteïna (IgG) <6.4 UC, Anti-beta2-glicoproteïna (IgM) 3.1 UC, Anti-peptids citrulinats-Serum 0.39 U/mL
+-	Serologies negativas: Cribratge Treponema pallidum Negatiu, Ac. superfície Hepatitis B 0.1 U/L (no immune), Ac. Virus Hepatitis C Negatiu, Ac. IgM Citomegalovirus serum Negatiu, ,Antigen  superfície Hepatitis B Negatiu. Anticossos VIH Negatiu
+Virus varicela-zoster (IgM) 0.133 (negativo), Ac. IgG Rickettsia conori <1/40, Ac. IgM Rickettsia conori Negatiu, Borrelia burdorferi IgG-sèrum <5, Borrelia burgdorferi IgM-sèrum Negatiu
+Serologias positivas: Ac. IgG Citomegalovirus 190.5 AU/mL. Virus varicela-zoster (IgG) * 564.9 mUI/mL
+
+RM cerebral i  angioRM: RM  que  muestra lesión  heterogénea intraparenquimatosa  parieto-temporo-occipital izquierda (ver hallazgos), con restos hemáticoss en diferentes fases evolutivas. La lesión condiciona un moderado
+
+Informe d'alta d'hospitalització
+
+
+
+
+efecto de masa sobre las estructuras adyacentes, con obliteración de los surcos corticales, desplazando linea media 9 mm, y con compresión del atrio occipital del ventrículo lateral izquierdo en sentido anterior y discretamente el asta frontal.
+El estudio angigráfico dinámico no muestra anomalías malformaciones vasculares.(resto de variantes y de hallazgos ver informe de angiografía). De forma incidental  se observan marcada restricción a la difusión del esplenio del cuerpo calloso (hallazgos que se han descrito en secundario a crisis). Se observan además otros tres focos aislados de restricción en la difusión de localización central en el cuepo calloso y otros dos cortico-subcorticales uno frontal derecho y otro izquierdo que podrian tener un origen isquémico.
+Con  todos  los  hallazgos  descritos  en  momento  actual  no  se  puede  descartar  una  lesión  subyacente.  Se recomienda control RM en 2-3 meses para ver evolución.
+
+Ecocardio 09/03/2017:
+-Ventricle esquerre no dilatat ni hipertròfic amb funció contràctil global i segmentària normals .
+-Vàlvula mitral d#aspecte normal normofuncionant.
+-Vàlvula aòrtica bicúspide , lleugerament calcificada, amb estenosi severa (Velocitat 5.05m/s, Gradient mig 60 mmHg) i lleu insuficiència.
+-Vàlvula pulmonar normofuncionant.
+-Vàlvula tricúspide normofuncionant.
+-Arrel aòrtica i aorta ascedent de dimensions normals.
+-Aurícula esquerra normal.
+-Cavitats dretes normals.
+-No embassament pericàrdic.
+Conclusions: Troballa de vàlvula bicúspide (díficl visualitzacio) amb estenosi de grau sever i insuficiència lleugera. FEVE preservada.
+
+TC toracoabdominal 09/03/2017: Estudio dentro de los límites de la normalidad.
+
+
+EVOLUCIÓ CLÍNICA
+Paciente de 52 años que ingresa por hematoma occipital izquierdo con leve componente de HSA sin signos de malformacion vascular, trombosis venosa u otras alteraciones en angioTC.
+Presenta a la exploración hemianopsia homónima derecha y cefalea intensa, que precisa tratamiento con mórfico. Refiere pérdida de fuerza extremidad inferior izquierda que se atribuye a dolor de rodilla por artrosis, y hemihipoestésia izquierda que inicialmente no concuerda con localización de la lesión.
+Se mantiene normotensa, tolerando dieta via oral y sedestación.
+
+Como parte de estudio etiológico del hematoma, se realiza arteriografia cerebral, que muestra estenosis intracraneales en territorio posterior, que dentro de un contexto clínico adecuado podrían corresponder a un proceso vasculítico o a un síndrome de vasoconstricción reversible. Recomiendan realizar nuevo estudio en tres meses.
+Se rehistoria a la paciente en busca de datos que sugieran proceso sistémico que pudiera justificar una vasculitis: no explica clínica de aftas bucales o genitales, no fotosensibilidad, no artritis, ni lesiones cutáneas, analíticamente sin anemia ni leucocitosis ni elevación de reactantes de fase aguda. Únicamente presenta xerooftalmos sin otra xerostomía. Hace 1 mes estuvo en _LOCATION_ pero en la ciudad, no en ninguna zona rural. No se palpan adenopatías en cuello ni axilares.
+Se solicita analítica para completar estudio con resultados negativos excepto IgG para Citomegalovirus y Varicela Zooster, restando solo pendiente de anticuerpos ANA.
+
+Informe d'alta d'hospitalització
+
+
+
+
+
+En la RM cerebral se detecta alteración de la señal a nivel de cuerpo calloso y varias lesiones isquémicas corticales que podrían explicar hemihipoestesia izquierda. Persiste hematoma occipital izquierdo con leve efecto masa, sin poder descartar lesión subyacente a dicho nivel. Recomiendan repetir la RMN cerebral en dos meses para filiar mejor las lesiones.
+Se completa estudio con ecocardiograma TT, que muestra estenosis aórtica severa y leve insuficiencia con buena fracción de eyección, y TC toracoabdominal que no presenta alteraciones. Se recomienda estudio de estenosis aórtica de manera ambulatòria en hospital de zona.
+Se realiza PPD para completar estudio el 10/03/2017
+Se plantea realizar PL, pero debido al efecto de masa que presenta actualmente, por el momento se descarta, reevaluaremos la posibilidad de realizarlo más adelante, en función de evolución.
+
+Dada la ausencia de datos de vasculitis sistémica en la exploración, anamnesis, analítica y pruebas de imagen, y puesto que es poco probable que se trate de una vasculitis aislada del sistema nervioso central que afecte únicamente a territorio posterior, se decide no iniciar tratamiento con corticoides por el momento. En función de evolución y del resultado de RMN y arteriografía en 2 y 3 meses respectivamente, se ajustará tratamiento.
+
+Se solicita estudio NPS que descarta síndrome de desconexión derecha-izquierda por afectacion de cuerpo callosos, evidenciando anomia y alexia.
+Presenta mejoria de la cefalea que se controla correctamente con analgesia convencional y mórfico ocasional.
+
+Con estabilidad clínica y hemodinámica, ante la etiologia no concluyente del hematoma, se decide alta a domicilio pendiente de RM cerebral y vista de control en 2 meses.
+
+Escalas al alta.
+- NIHSS 00002/00000/01100: 4
+-	Rankin 3
+-	Barthel 40%
+
+DIAGNÒSTICS
+431/1 Hemorragia intracerebral occipital izquierda 424.1/3 Estenosi valvula aortica
+
+PROCEDIMENTS
+88.71 Ultrasò diagnòstic de cap i coll. Determinació desviació de la línia mediana cerebral,ecoencefalografia
+88.71 Ultrasò diagnòstic de cap i coll. Determinació desviació de la línia mediana cerebral,ecoencefalografia
+88.91 Imatge per ressonància magnètica de cervell i tronc cerebral
+88.72 "Ultrasó diagnòstic de cor; Ecocardiografia transesofàgica"
+89.08 Altra consulta
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Tratamiento al alta:
+-	Paracetamol 1g/8h si cefalea,
+-	Ibuprofeno 600mg/8h alternado con Paracetamol si persiste cefalea.
+-	Tramadol 50mg/8h si persiste cefalea todo y Paracetamol y Ibuprofeno
+-	Tryptizol 10mg/24h por la noche
+-	
+Informe d'alta d'hospitalització
+
+
+
+
+-	Continuar tratamient con Metformina 850mg/24h Se explican sintomas de alarma para reconsulta.
+
+CONTROL
+Acudir al CAP el lunes 13/03/2017 para lectura del PPD.
+Recomendamos derivacion a Cardiologa de zona para estudio de estenosis aórtica asintomática
+
+Pendiente de cita para RM cerebral de control antes de la visita de control con Neurovascular. Pendiente de cita para arteriografia de control en aproximadamente 3 mesos (petición realizada)
+
+Visita de control en Consultas Externas de Neurovascular el dia 24/05/2017 a las 13:30h con el Dr. _NAME_ (Edificio de Consultas Externas del _SS_, 1a planta)
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+10.03.2017
+Pàgina 1 de 5

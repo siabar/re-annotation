@@ -1,0 +1,56 @@
+T0	_SUG_Lateralizacion 0 1	I
+T1	FECHA 316 326	23.05.2017
+#1	AnnotatorNotes T1	2017-05-23
+T2	HORA 385 390	16:33
+#2	AnnotatorNotes T2	16:33
+T3	SECCION_TIPO_DE_INGRESO 422 447	Tipo ingreso/Tipus ingrés
+T4	SECCION_DIAGNOSTICOS 487 492	Diag.
+T5	_SUG_Ictus_isquemico 494 509	ICTUS ISQUÉMICO
+T6	SECCION_PROCEDIMIENTOS 524 529	Proc.
+T7	_SUG_TAC_craneal 531 541	TC CRANEAL
+T8	SECCION_MOTIVO_DE_INGRESO 680 718	Motivo de consulta / Motiu de consulta
+T9	SECCION_ANTECEDENTES 751 813	Antecedentes e historia previa / Antecedents i història prèvia
+T10	_SUG_mRankin 915 920	mRS 0
+T11	SECCION_ANTECEDENTES_PATOLOGICOS 924 948	ANTECEDENTES PATOLÓGICOS
+T12	SECCION_TRATAMIENTO_HABITUAL 1088 1107	MEDICACIÓN HABITUAL
+T13	_SUG_Tratamiento_antiagregante 1230 1233	AAS
+T14	SECCION_PROCESO_ACTUAL 1247 1277	Proceso actual / Procés actual
+T15	HORA 1301 1306	09.30
+#15	AnnotatorNotes T15	09:30
+T16	FECHA 1312 1317	23/05
+#16	AnnotatorNotes T16	2017-05-23
+T17	SECCION_PROCESO_ACTUAL 6212 6218	Episod
+T18	SECCION_EXPLORACION_FISICA 1497 1535	Exploración física / Exploració física
+T19	FECHA 1536 1546	23/05/2017
+#19	AnnotatorNotes T19	2017-05-23
+T20	HORA 1547 1552	17:00
+#20	AnnotatorNotes T20	17:00
+T21	FECHA 1647 1657	23/05/2017
+#21	AnnotatorNotes T21	2017-05-23
+T22	HORA 1658 1663	19:30
+#22	AnnotatorNotes T22	19:30
+T23	FECHA 1699 1709	23/05/2017
+#23	AnnotatorNotes T23	2017-05-23
+T24	HORA 1710 1715	23:00
+#24	AnnotatorNotes T24	23:00
+T25	_SUG_NIHSS 1979 1986	NIHSS 7
+T26	SECCION_EXPLORACIONES_COMPLEMENTARIAS 2526 2586	Exploraciones complementarias / Exploracions complementàries
+T27	SECCION_EVOLUCION 2647 2667	Evolución / Evolució
+T28	_SUG_Lateralizacion 2724 2733	IZQUIERDA
+T29	_SUG_NIHSS 2887 2894	NIHSS 9
+T30	_SUG_TAC_craneal 2910 2912	TC
+T31	_SUG_Arteria_afectada 3018 3020	M2
+T32	_SUG_Etiologia 3257 3270	indeterminada
+T33	_SUG_Trombolisis_intravenosa 3313 3338	tratamiento fibrinolítico
+T34	_SUG_Trombolisis_intravenosa 3384 3409	tratamiento fibrinolítico
+T35	_SUG_Localizacion 3534 3543	posterior
+T36	_SUG_Lateralizacion 3768 3775	derecha
+T37	SECCION_EXPLORACION_FISICA_AL_ALTA 3904 3911	Al alta
+T38	SECCION_TRATAMIENTO_AL_ALTA 4277 4310	Plan terapéutico / Pla terapèutic
+T39	_SUG_Tratamiento_antiagregante 4801 4823	Acido acetilsalicilico
+T40	_SUG_Tratamiento_antiagregante 4940 4962	Acido acetilsalicilico
+T41	SECCION_RECOMENDACIONES 5535 5556	Otras recomendaciones
+T42	FECHA 5880 5890	01.06.2017
+#42	AnnotatorNotes T42	2017-06-01
+T43	HORA 5905 5910	16:35
+#43	AnnotatorNotes T43	16:35

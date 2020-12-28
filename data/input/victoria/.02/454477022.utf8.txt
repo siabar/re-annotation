@@ -1,0 +1,108 @@
+I.CLINIC DE NEUROCIÈNCIES I064 SALA G DE NEUROL. INTERM.
+_NAME_	NHC: _ID_
+
+
+Sexo/Sexe: Masc.	Fecha nac./Data naix.: _DATE_	Edad/Edat: 74 años Dirección/Adreça: _LOCATION_ , 15 2º/4ªUrb. Santel	CP: _LOCATION_
+Municip. (Prov.): _LOCATION_  ABS:_SS_	Tel.:_CONTACT_ As.: SERVEI CATALA DE LA SALUT	CIP: _ID_	NASS: _ID_
+Nº epis.: _ID_	Tipo/Tipus: HOSPIT.	Inici.: 30.12.2017
+Serv: NEUROLOGIA	UO Enf.: G064 SALA G DE NEUROLOGIA	Hora: 12:20:30
+
+
+
+
+
+Tipo ingreso/Tipus ingrés: Urgent	Motivo/Motiu alta: Dom. Familiar
+Diag.:
+PROBABLE INTOXICACIÓN POR CICLOBENZAPRINA ()
+Proc.:
+ANALÍTICA SANGUÍNEA ()
+TC CRANEAL MULTIMODAL ()
+
+
+
+
+INFORME CLÍNICO ALTA / INFORME CLÍNIC ALTA
+
+Motivo de consulta / Motiu de consulta
+Disminución del nivel de consciencia.
+
+Antecedentes e historia previa / Antecedents i història prèvia
+Varón de 74 años, independiente para las actividades básicas de la vida diaria, sin alergias medicamentosas conocidas (mRS 1). Vive con esposa en domicilio particular. Niega hábitos tóxicos.
+
+ANTECEDENTES PATOLÓGICOS:
+1.	LARINGECTOMÍA  hace  18  años  por  neoplasia  de  laringe.  Traqueostomia.  Refiere  estar  libre  de enfermedad.
+2.	EPOC: PFR Marzo 2011. Espirometría forzada: alteración ventilatoria obstructiva de severa intensidad (Indice 54%, FEV1: 42%). Prueba broncodilatadora significativa. Estudio compatible con EPOC. * Último ingreso en enero 2013 por NAC FINE IV. El cultivo y la baciloscopia de esputo fueron negativas. * Sigue controles por pneumología del HCP.
+3.	DIABETES MELLITUS TIPO 2 en tratamiento con Metformina.
+4.	HIPOTOROIDISMO. En tratamiento con levotiroxina.
+5.	HIPERCOLESTEROLEMIA en tratamiento farmacológico.
+6.	HIPERURICEMIA en tratamiento con Alopurinol
+7.	Probable pleuresía tuberculosa izquierda. QUIRÚRGICOS: - Apendicectomía. - Faquectomía.
+MEDICACIÓN HABITUAL (30/12/17):
+-Omeprazol 20mg 1-0-0 -Salbutamol 100mg C/8h (rescate) -Foster 2 ihn/12h -Metformina 850mg 0-1-0
+-Simvastatina 40mg 0-0-1 -Levotiroxina 100 mcg 1-0-0 -Midazolam 7.5mg C/24h -Trazodona 100mg C/24h
+-Metamizol 525mg C/8h (rescate) -Alopurinol 300 mg 1-0-0
+
+Proceso actual / Procés actual
+
+
+Anamnesis realizada a familiares. Es traído a Urgencias porque hoy 30/12 por la mañana al despertarse presenta un cuadro de disminución del nivel de consciencia con somnolencia marcada, desorientación, confusión y dificultad para mantenerse en pie. No TCE. No fiebre ni clínica infecciosa durante los días previos. Se activa el código ictus intrahospitalario.
+Posteriormente, la esposa refiere que la noche anterior había iniciado tratamiento con Yurelax (ciclobenzaprina).
+
+Exploración física / Exploració física
+** Al ingreso:
+Constantes: PA 150/67 mmHg, FC 52 lpm, T axilar 36,3ºC, Sat O2 94% basal, GC 123 mg/dl.
+NRL: somnoliento, abre ojos a estímulos verbales vigorosos, desorientado en espacio, orientado en tiempo y persona, parcialmente colaborador. Lenguaje hipofluente, difícil de valorar por laringectomía. Nomina 5/5, repite bien frases cortas, obedece órdenes simples, pero tiene dificultad para seguir órdenes complejas y cruzadas (difícil valorar si existe disfasia de comprensión o es interferencia de la somnolencia). PINR, mirada centrada sin limitaciones aparentes a la excursión visual, el reflejo de amenaza derecho impresiona abolido. Leve asimetría facial por borramiento sutil del surco nasogeniano derecho. No objetivo paresia de extremidades superiores, pero sí impresiona paresia 3+/5 de la EID. Sensibilidad no valorable por falta de colaboración, no impresiona déficit. No dismetrías (difíciles de valorar también por colaboración). NIHSS 7.
+ACCR: tonos cardíacos rítmicos, no ausculto soplos. Pulsos periféricos presentes y simétricos. No IVY, RHY ni edemas en MMII.
+AR: MVC sin ruidos agregados.
+Abdomen: blando, depresible, no doloroso a la palpación. No palpo masas ni visceromegalias.
+
+** Revaloración en Unidad de Ictus a las 17:30 h:
+NRL: consciente, orientado, colaborador. Mejoría evidente del nivel de conciencia. Lenguaje fluente sin rasgos afásicos. No disartria. PINR, mirada centrada sin limitaciones a la excursión visual, campimetría por confrontación sin déficits. Pares craneales conservados. No déficit motor ni sensitivo. No dismetrías. NIHSS 0.
+
+Exploraciones complementarias / Exploracions complementàries
+- ANALÍTICA SANGUÍNEA (30/12/17): bioquímica, hematimetría y hemostasia sin alteraciones.
+- TC CRANEAL MULTIMODAL (30/12/17):
+a)	TC CRANEAL BASAL: No se observa hemorragia intra ni extraaxial. Parénquima cerebral sin alteraciones densitométricas de aspecto agudo, con diferenciación cortico-subcortical conservada (ASPECTS 10). Leve hipodensidad en la sustancia blanca subcortical supratentorial, en probable relación con microangiopatía crónica. Cambios involutivos globales que condicionan una leve prominencia del sistema ventricular. Estructuras de la línea media centradas. Cisternas basales no colapsadas.
+b)	TC PERFUSIÓN: Estudio de perfusión no valorable por artefacto de movimiento.
+c)	ANGIO-TC EXTRA E INTRACRANEAL: Ateromatosis calcificada del arco aórtico y de los troncos supraórticos. Placa calcificada a nivel de la arteria carótida común derecha que condiciona una estenosis no significativa (aprox. 15%). Resto de segmentos proximales de troncos supraórticos sin signos de estenosis. Ateromatosis calcificada del origen, bifurcación y segmentos cervicales de la arteria carótida interna sin signos de estenosis. Segmento intracavernoso de la arteria carótida interna sin ateromatosis ni signos de estenosis. Ateromatosis calcificada del segmento supraclinoideo de la arteria carótida interna sin signos de estenosis. Origen de las arterias vertebrales sin ateromatosis ni signos de estenosis. Principales arterias cerebrales intracraneales permeables (ACAs, ACMs y ACPs). Sistema vertebrobasilar permeable.
+
+Evolución / Evolució
+1.	PROBABLE INTOXICACIÓN POR CICLOBENZAPRINA.
+
+A su llegada a urgencias, en la exploración neurológica llama la atención una somnolencia marcada, con
+
+
+
+apertura ocular únicamente ante estímulos dolorosos. Se encuentra desorientado en espacio. Resulta difícil valorar el lenguaje por falta de colaboración (le cuesta seguir órdenes complejas por la somnolencia). Impresiona paresia leve de la EID (3+/5). Se activa el código ictus intrahospitalario. La analítica sanguínea no muestra alteraciones, ECG en ritmo sinusal. Se realiza TC craneal multimodal urgente, en cuyas secuencias basales no se objetivan lesiones isquémicas ni hemorrágicas agudas (ASPECTS 10), pero sí signos de microangiopatía crónica. La TC perfusión no es valorable por artefacto de movimiento. La angio-TC no objetiva oclusiones en arterias carótidas ni en arterias cerebrales (ACAs, ACMs y ACPs), tampoco en árbol vértebro-basilar. Sí se observa ateromatosis carotídea + placa calcificada en carótida común derecha con estenosis del 15% (no significativa). Se traslada al paciente a la Unidad de Ictus para vigilancia y se inicia tratamiento con heparina sódica iv.
+Posteriormente, en anamnesis dirigida, la esposa del paciente comunica que justo anoche inició una nueva medicación: Yurelax (ciclobenzaprina) 10 mg. También explica que la semana pasada hubo dos días en que presentó sangrado autolimitado por el orificio de traqueostomía. En revaloración clínica a las 17:30 h, se objetiva mejoría evidente del nivel de conciencia, y en la exploración neurológica no se observa ningún déficit focal (NIHSS 0).
+Se orienta como probable intoxicación por ciclobenzaprina en paciente que además toma tratamiento con Dormicum (midazolam) 7,5 mg/noche y trazodona 100 mg/noche. Todo ello puede potenciar el efecto depresor sobre el sistema nervioso central. Se decide suspender heparina sódica ev y vigilancia durante 24h. El paciente presenta correcta evolución clínica, sin presentar nueva focalidad. De acuerdo con la familia, se decide alta a domicilio. Se recomienda no volver a tomar ciclobenzaprina.
+
+2.	ATEROMATOSIS CAROTÍDEA.
+Dado que en el estudio vascular realizado se objetiva ateromatosis  carotídea, estaría indicado iniciar antiagregación con ácido acetilsalicílico 100 mg/día al alta.
+
+Plan terapéutico / Pla terapèutic
+Se recomienda mantener mismo tratamiento habitual. No reiniciar ciclobenzaprina.
+
+Otras recomendaciones / Altres recomanacions
+Control por su médico de atención primaria.
+
+
+
+Firma/Signatura1: _NAME_	Firma/Signatura2: _NAME_ Categoría: Resident 4	Categoría: Especialista
+Nº Matrícula _SS_: _ID_	Nº Matrícula _SS_: _ID_
+
+Fecha/Data Informe: 31.12.2017
+Hora Informe: 12:40:41
+
+Docum.: _ID_
+Hist. Clínica: _ID_
+El _SS_ ha incorporado sus datos al Fichero de Pacientes, para tratarlos con fines sanitarios.
+Puede ejercer sus derechos de acceso, rectificación, cancelación y oposición, así como obtener mas información en la Unidad de Atención al Cliente.
+Vers. 00
+Pag. 2 de
+3
+Episod.: _ID_
+_SS_ ha incorporat les seves dades al Fitxer de Pacients, per a tractar-los amb finalitats sanitàries. Pot exercir els seus drets d'accés, rectificació, cancel·lació i oposició, i obtenir més informació a la Unitat d'Atenció al Client.
+_SS_
+_LOCATION_) _LOCATION_) Tel. _CONTACT_ Fax _CONTACT_
+http://_CONTACT_/

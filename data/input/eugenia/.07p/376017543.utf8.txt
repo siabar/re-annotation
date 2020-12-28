@@ -1,0 +1,145 @@
+_LOCATION_) Telèfon _SS_  972 _CONTACT_
+Telèfon IDI (Ressonància i TAC) _CONTACT_
+Telèfon ICO _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 79 Anys
+NIF/DNI: _ID__NAME_; _NAME_; _NAME_
+Informe d'alta d'hospitalització
+CP	_LOCATION_
+ABS	_SS_
+Servei	NEUROLOGIA
+Data d'alta  29.05.2017	17:00:00
+_LOCATION_
+_CONTACT_; _CONTACT_; _CONTACT_; AGUTS
+26.05.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Sospecha de AIT hemisférico izquierdo.
+
+ANTECEDENTS
+Antecedentes Personales:
+-	No reacciones alérgicas medicamentosas conocidas.
+-	Ex-enolismo moderado (sólo en las comidas). Hace 3 meses que no bebe nada. Ex-fumador desde los 30 años de edad.
+-	Situación basal: indpendiente para ABVD. Vive en domicilio con su mujer, de la que es cuidador principal (su mujer tiene ceguera). Deambulacioón autónoma. mRS 0.
+
+Antecedentes Patológicos:
+-	HTA diagnosticada en el 2004, mal controlada (MAPA reciente con mal control).
+-	Diabetes Mellitus tipo II, mal controlada (ha abandonado por su cuenta el tto). Microangiopatía diabética: Nefropatia y PNP diabètica,
+-	Dislipemia.
+-	Insuficiencia renal estadío V. Valorado en marzo por Nefrologia (FG 15 mL/ min, se le ha propuesto inicio de diálisis y se menciona que el paciente lo rechaza. Se solicita control en 3 meses con analítica para retomar las opcions terapéuticas).
+-	Hiperuricemia.
+
+MEDICACIÓ HABITUAL
+Aprovel 300 mg, Novomix, Omeprazol, Atenolol 100 mg, Furosemida 40 mg, Pregabalina 25 mg cada 12 horas, Simvastatina 10 mg, Tardyferon 80 mg, Vitamina D3.
+
+PROCÉS ACTUAL
+Varón de 79 años que presenta cuadro de inicio brusco el 26/05/2017 a las 14:00 hs de alteración en la emisión del lenguaje y desviación de la comisura labial. Acude al _SS_, desde donde se activa Código Ictus a las 16:36 hs. Durante el traslado en ambulancia el paciente mejora hasta la resolución completa de los síntomas.
+Llega a nuestro centro a las 17:37 hs, asintomático.
+Se realiza TC basal y Doppler de TSA que no muestra alteraciones agudas. Se decide ingreso en la unidad de ictus para vigilancia neurológica y monitorización.
+
+EXPLORACIÓ FÍSICA
+
+A su llegada a nuestro hospital:
+- TA: 158/ 83 mmHg, FC: 68 lpm, FR: 22 rpm, Sat O2: 96%
+-	CV: RC rítmicos, no soplos ni roces. No IJ ni RHJ.
+-	Edemas en EEII, sin signos de flebitis.
+-	
+Informe d'alta d'hospitalització
+
+
+
+
+-	Exploración NRL: Alerta y colaborador. Orientado en las 3 esferas. No alteración del lenguaje. No disartria. MOE y MOI normlaes, sin restricciones, sin diplopia, sin déficit campimétrico por confrontación. No asimetría facial (muy leve asimetría izq pero me impresiona claramente constitucional). No déficit motor ni sensitivo. No hoffman. RCP flexor bialteral. No alteración sensitiva. No dismetrías.
+NIHSS 0
+
+
+EXPLORACIÓ COMPLEMENTÀRIA
+-	ECG: RS 70 lpm, PR 120 ms, sin alteraciones de la repolarización.
+-	Monitorización cardíaca en Unidad de Ictus (72 horas): no se detectan arritmias cardíacas.
+-Rx de tórax:: No cardiomegalia, signos de redistribución. Senos costofrénicos y cardiofrénicos libres. No objetivo lesiones parenquimatosas pulmonares.
+
+Estudio analítico:
+Analítica de urgencias (26/05/20107):
+-	Hemograma: Eritròcits * 3.64. Hemoglobina * 11.3. Hematòcrit * 34%. Plaquetes 214. Leucòcits 9.11 (Neutròfils
+62.6%. Limfòcits * 23.4%).
+-	Coagulación: Tasa protrombina 94. Tasa protrombina (INR) 1.02. Temps de cefalina (TTPA) 30.3. Temps de cefalina (ratio) 1. Fibrinogen (deduit) * 502
+-	Bioquímica: Glucosa * 117. Urea * 54. Creatinina * 3.10. Urat * 8.2. Proteïna * 5.7. Albúmina (sèrum) * 3.3. Colesterol 204. Colesterol HDL 62. Colesterol LDL (calcul) 109. Triglicèrid 164. Bilirubina total 0.34. Aspartat aminotransferasa (GOT 18. Alanina aminotransferasa (GPT) 8. Gamma-glutamiltransferasa 7. Fosfatasa alcalina
+66. Lactat deshidrogenasa 193. Creatincinasa  (CK) 90. Amilasa 42. Calci (II) 9.2. Ió sodi 140. Ió potasi 4.7. Troponina T hs (alta sensibili * 63.2.
+
+Analítica de orina:
+-	Densitat 1015. PH orina 6.5. Leucòcits tira Negatiu. Nitrits Negatiu. Proteïna * 500. Glucosa * 50. Cossos cetònics
+* 15. Urobilinogen Negatiu. Bilirubina Negatiu. Eritròcits Negatiu.
+-	Sedimento orina: Leucòcits-Sediment urinari 3-4. Eritròcits-Sediment urinari 2-3. Cèl.lules de descamació-Sed. u 3-5. Altres-Sediment urinari -
+
+Estudio neuroimagen:
+-	TC de cráneo urgente (26/05/2017):  "Estudio TC craneal sin evidencia de patología aguda". Se objetiva atrofia moderada.
+
+Estudio neurosonología:
+-	Estudio neurosonológico urgente:
+DTSA: Placa isoecoica (tipo 2) en el origen d la ACI D (1.17 x 0.28 cm de longitud y extensión respectivamente), q condiciona incremento d las VPS e/ 150-170 cm x seg q sugiere una estenosis aproximada de un 55- 60% En el eje carotideo izq se observa un engrosamiento concéntrico del complejo IM de la ACC en todo su tercio distal y en el bulbo y q en la porción inicial de la ACI izq muestra aspecto más hiperecoico con aumento del grosor (hasta de
+2.9 mm), q condiciona una estenosis aproximada de un 35- 40 % en su segmento inicial.
+Los flujos vertebrales son ortodrómicos. En la porción V2 izq (hacia su tercio medio) se observa un incremento focal de las VPS 110 cm x seg sugestivo de estenosis focal.
+DTC: Flujos ortodrómicos, presentes y simétricos. No alt por vía transforaminal.
+
+- Estudio neurosonológico de control:
+
+Informe d'alta d'hospitalització
+
+
+
+
+DUPLEX TSA:
+-	Ateromatosis muy importante en todos los territorios explorados, con placas fibrosas y aumentop muy importante de GIM, pero sin estenosis hemodinamicamente relevantes (VSM 80 cm/s)
+-	AVs sin alteraciones hemodinámicas DUPLEX TRANSCRANEAL
+-	Discreta estenosis sifón bilateral (<50%),  D>I, con soplo rugoso sistólico y discreto aumento de velocidades en ambas ACMs (VSM 120 cm/s; VM 60 cm/s)
+-	Resto de estudio sin alteraciones.
+-	OFT ortodrómicas bilateralmente.
+
+
+
+EVOLUCIÓ CLÍNICA
+Durante el ingreso en la Unidad de Ictus el paciente permanece en ritmo sinusal. Presenta tendencia a hipertensión arterial por lo que precisa tratamiento antihipertensivo intravenoso y se reintroduce su medicación habitual.
+
+En las primeras horas de ingreso presenta pico aislado de 37.9ºC, sin foco, por lo que se recogen hemocultivos. Se realiza doppler de troncos supra aórticos durante el ingreso que muestra ateromatosis carotídea sin estenosis significativas. Se inicia tratamiento con antiagregante (clopidogrel dado el AP de insuficiencia renal crónica grave) y estatina como prevención secundaria de ictus.
+
+Clínicamente asintomático. Inicia deambulación y tolerancia oral sin incidencias. Dada la estabilidad clínica y hemodinámica se decide alta a domicilio.
+
+Escalas al alta: NIHSS 0.
+mRS 0.
+Barthel 100.
+
+DIAGNÒSTICS
+435.9/1	AIT(isquemia cerebral transitoria) hemisférica izquierda, aterotrombótica. 401.9/4	Hipertensión arterial de difícil control.
+249.40	Diabetes mellitus secundaria con nefropatía asociada.
+249.60	Diabetes mellitus secundaria con afectación perfiérica neurológica (PNP diabética). 272.4/1	Dislipemia
+433.10/2	Ateromatosis carotídea bilateral no significativa. 585.9/1	IRC insuficiència renal crònica
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+-Clopidogrel 75 mg cada 24 horas (con la comida).
+-	Resto de tratamiento sin cambios.
+
+CONTROL
+-	Control de factores de riesgo vascular por su médico de atención primaria.
+-	
+Informe d'alta d'hospitalització
+
+
+
+
+-	Revisión en consulta de Neurología de zona en tres meses.Petición a cursar por su médico de atención primaria.
+-	Se recomienda realización de ecocardiograma transtorácico como parte de estudio etiológico de AIT. Petición a cursar por su médico de atención primaria.
+-	Revisión con Nefrología según cita prevista.
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+Validat per: _NAME_	Col·legiat: _ID_
+
+29.05.2017
+Pàgina 1 de 4

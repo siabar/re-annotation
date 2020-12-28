@@ -1,0 +1,126 @@
+_LOCATION_) Telèfon _SS_  972 _CONTACT_
+Telèfon IDI (Ressonància i TAC) _CONTACT_
+Telèfon ICO _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 82 Anys
+NIF/DNI: _ID__NAME_; _NAME_
+Informe d'alta d'hospitalització
+CP	_LOCATION_
+ABS	_SS_
+Servei	NEUROLOGIA
+Data d'alta  01.10.2017	11:00:00
+_LOCATION_
+_CONTACT_; _CONTACT_; _CONTACT_
+ATEN.PRIMÀRIA 28.09.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Sindrome lacunar motor puro derecho
+
+ANTECEDENTS
+ANTECEDENTES PERSONALES
+-No AMC
+-No hábitos tóxicos.
+-IABVD. mRs: 0
+
+ANTECEDENTES PATOLOGICOS
+-HTA
+-Diabetes mellitus
+-Dislipemia
+-Hipotiroidismo en tratamiento sustitutivo
+
+
+MEDICACIÓ HABITUAL
+Enalapril/HCTZ  20/12.5,  eutirox  88  mcgr,  fenofibrato  200  mg,  gatica,  glimepirida  4  mg,  hidroferol,  acido alendrónico semanal. metformina 850 mg, lorazepam, tramadol, metamizol.
+
+PROCÉS ACTUAL
+Paciente de 82 años que presenta cuadro de inicio desconocido de alteración en la articulación del lenguaje y paresia facial derecha, evidenciado al tratar de hablar con su hijo el 28/09 a las 11:00hs. Última vez asintomática el 27/09 a las 23:00hs.
+Acuden al CAP desde donde contactan con Neurología de nuestro centro para activación de código ictus a las 12:40 hs.
+A su llegada a Urgencias a las 12:56 hs se objetiva disartria, paresia facial central derecha y paresia leve de miembro superior derecho (NIHSS de 4). Se realiza TC cerebral multimodal que no muestra alteraciones agudas. Dado el inicio desconocido del cuadro y ante NIHSS < 5, se descarta tratamiento con rtPA iv. No es candidata a tratamiento endovascular por ausencia de oclusión de gran vaso.
+Se orienta el cuadro como ictus minor, que condiciona síndrome lacunar motor puro derecho. Se decide ingreso en Unidad de Ictus de nuestro centro, bajo cuidados semi-intensivos, para vigilancia neurológica y monitorización
+
+EXPLORACIÓ FÍSICA
+
+EXPLORACION EN URGENCIAS:
+TA 170/80 mmHg
+CV: tonos rítmicos, sin soplos.
+PULM: Paciente eupneica, buenas saturaciones basales de O2. MVC sin ruidos añadidos
+NRL: Paciente vigil, orientada en tiempo, persona y lugar, no alteraciones de lenguaje, sí disartria severa. Pupilas
+
+Informe d'alta d'hospitalització
+
+
+
+
+isocóricas y normorreactivas, no alteraciones campimétricas ni de MOE. Sí PFC derecha. Deficit motor ligero de extremidad superior derecha, de predominio distal y de musculatura supinadora, con escasa claudicación. No deficit motor de resto de extremidades. No deficit sensitivo. No dismetrías.
+NIHSS: 00000/10100/00020 : 4
+
+EXPLORACIÓN AL ALTA:
+NRL: Vigil, responde adecuadamente su edad y el mes del año, obedece oredenes simples y complejas, noina dos objetos sin problemas, repite palabras y frases con leve disartria (nos podemos entender sin problemas). Observo asimetria facial con debilidad derecha, empeora cuando la paciente sonrie. No deficit motor contra gravedad de EESS, no deficit motor contra gravedad en EEII. No deficit sensitivo tactil. No dismetrias.
+NIHSS: .00000/20000/00010: 3
+
+
+EXPLORACIÓ COMPLEMENTÀRIA
+-ECG: Ritmo sinusal, no alterciones de repolarización ni morfología de bloqueo
+- Monitorización en la Unidad de Ictus: Ritmo sinusal durante todo el registro.
+
+-Analítica: Eritròcits 4.44 M/mcL, Hemoglobina 13.2 g/dL, Hematòcrit  40 %, Volum corpuscular mitjà 90.8 fL, Hemoglobina corpuscular mitja 30 pg, C.H.C.M. 33 g/dL, A.D.E. 13.2 %, Plaquetes 270 K/mcL, Volum plaquetari mig 10.7 fL, Leucòcits 5.82 K/mcL, CITOLOGIA GENERAL: FORMULA, Neutròfils * 71.1 %, Limfòcits * 21.1 %, Monòcits 5.2 %, Eosinòfils 1.9 %, Basòfils 0.7 %, Neutròfils 4.1 K/mcL, Limfocits 1.2 K/mcL, Monocits 0.3 K/mcL, Eosinofils 0.1 K/mcL, Basofils 0.0 K/mcL, Eritroblasts-Sang 0 %, COAGULACIO GENERAL, Tasa protrombina 100
+%, Tasa protrombina (INR) 1, Temps de cefalina (TTPA) 29.6 segons, Temps de cefalina (ratio) 1, Fibrinogen (deduit) 369 mg/dL, BIOQUIMICA, BIOQUIMICA BASICA, Glucosa * 185 mg/dL, Urea 43 mg/dL, Creatinina 0.80 mg/dL, Urat 3.7 mg/dL, Proteïna 7.5 g/dL, Albúmina (sèrum) 4.8 g/dL, Colesterol 231 mg/dL, Colesterol HDL * 44 mg/dL, Colesterol LDL (calcul) 144 mg/dL, Triglicèrid * 214 mg/dL, Bilirubina total 0.34 mg/dL, Aspartat aminotransferasa (GOT 16 U/L, Alanina aminotransferasa (GPT) 11 U/L, Gamma-glutamiltransferasa 24 U/L, Fosfatasa alcalina * 28 U/L, Lactat deshidrogenasa 182 U/L, Creatincinasa (CK) 54 U/L, Amilasa 36 U/L, Calci (II)
+10.2 mg/dL, Ió sodi 139 mEqu/L, Ió potasi 4.3 mEqu/L, IMMUNOLOGIA, PROTEINES, Troponina T hs (alta sensibili * 16.9 ng/L,
+
+-Rx de tórax: Rx AP de tórax, poco inspirada, poco penetrada, parcialmente rotada. No aumentos de densidad compatibles con condensación ni pinzamiento de senos costofrénicos. Difícil de valorar ICT por características de proyección.
+
+-TC multimodal: Estudio sin evidencia de lesiones hemorrágicas intracraneales. PerfusiónTC y angioTC sin evidencia de lesión isquémica aguda ni oclusión/trombo agudo en arterias cerebrales.
+
+-Estudio neurosonológico urgencias:
+DTSA: Se insona ACC+ACI+ACE bilaterales, con signos de ateromatosis que no condiciona estenosis significativa.
+TC: Estudio transcraneal subóptimo por mala ventana. Tras administración de contraste, se consigue insonar ACA+ACM+ACP izquierdas, ortodrómicas, sin alteraciones de velocidad objetivables. Mayor dificultad para estudio de lado derecho, ACM+ACP ortodrómica sin alteraciones, no consigo insonar ACA.
+Territorio vertebrobasilar: Se insonan AV (V3-4) sin alteraciones significativas, se insona arteria basilar a 8.0 cm de profundidad.
+
+Informe d'alta d'hospitalització
+
+
+
+
+- Doppler de control:
+DTSA: Ateromatosis carotídea bilateral de predominio izquierdo que no condiciona estenosis. Arterias vertebrales sin alteraciones.
+Suboccipital: Segmento V4 de arterias vertebrales sin alteraciones. Basilar sin alteraciones. Se insona hasta 84 mm de profundidad.
+
+EVOLUCIÓ CLÍNICA
+Durante el ingreso en la Unidad de Ictus la paciente permanece hemodinámicamente estable y afebril. En el ECG de ingreso se observa ritmo sinusal que mantiene durante toda la monitorización.
+
+En las primeras 24 horas se inicia tolerancia oral y sedestación sin incidencias. Inicia deambulación autónoma sin alteraciones. Presenta cefalea leve que cede con analgesia convencional.
+
+Neurológicamente presenta tendencia a la mejoría, persistiendo al alta disartria y paresia facial central (NIHSS de 3). Dada la estabilidad clínica y hemodinámica, se decide alta a domicilio.
+
+Escalas al alta:
+-	mRS: 1
+- NIHSS: 00000/20000/00010: 3
+-	Barthel: 100
+
+DIAGNÒSTICS
+436/5 Ictus isquémico en territorio vertebrobasilar de perfil lacunar.
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+-	Adiro 100 mg cada 24 horas (después de la comida)
+-	Atorvastatina 40 mg cada 24 horas (por la noche).
+-	Resto sin cambios.
+
+CONTROL
+-	Control de factores de riesgo vascular por su médico de atención primaria. Objetivo LDL< 70 mg/dL.
+-	Revisión en consulta de Neurología, recibirá cita en domicilio.
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+01.10.2017
+Pàgina 1 de 3

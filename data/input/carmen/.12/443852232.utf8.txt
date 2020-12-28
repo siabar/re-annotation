@@ -1,0 +1,210 @@
+_LOCATION_) Telèfon _SS_  972 _CONTACT_
+Telèfon IDI (Ressonància i TAC) _CONTACT_
+Telèfon ICO _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 82 Anys
+NIF/DNI: _ID__NAME_; _NAME_.
+ _NAME_, _NAME_, _NAME_
+Informe de Trasllat a Sociosanitari
+CP	_LOCATION_
+ABS	_SS_
+Servei	NEUROLOGIA
+Data d'alta  17.11.2017	08:00:00
+_LOCATION_
+_CONTACT_; _CONTACT_
+AGUTS 11.11.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Ictus
+
+ANTECEDENTS
+ANTECEDENTS PRSONALES
+-Hombre de 82 años sin alergias medicamentosas ni hábitos tóxicos.
+-Situación funcional: independiente para actividades básicas e instrumentales de la vida visual. Vive sólo. Escala de Rankin 1 por déficit visual debido a degeneración macular.
+
+ANTECEDENTS PATOLÒGICOS
+-Hipertensión arterial en tratamiento farmacológico.
+-Diabetes mellitus tipo 2 en tratamiento con insulina y antidiabéticos orales.
+-Dislipemia en tratamiento con estatinas y fibratos.
+-Cardiopatía isquémica IQx
+-Fibrilación auricular anticoagulada con sintrom.
+-Insuficiencia cardíaca en tratamiento con betabloqueantes y IECAs, valvulopatia (no disponemos de informes)
+-Insuficiencia renal crónica con creatininas habituales de 1.4-1.6 mg/dl.
+-Enfermedad obstructiva crónica pulmonar.
+-Enfermedad de Paget.
+-Degeneración  macular tipo RAP muy agresiva con déficit visual importante.  En tratamiento con inyecciones intravitreas con aflibercept mensual.
+-	Anemia macrocítica por déficit de vitB12, en tratamiento con optovite.
+
+MEDICACIÓ HABITUAL
+Atenolol 50mg cada 24h, Metformina 850mg cada 8h insulina segons pauta, omeprazol 20mg cada 24h, ramipril 2.5mg cada 24h, Alopurinol 300mg cada 24h, formoterol i bromur de tiotropi, furosemida 20mg cada 24h, gemfibrozilo 900mg cada 24h, pegat de nitroglicerina. Sintrom segons pauta.
+
+PROCÉS ACTUAL
+El 09/11/2017 estando en la sala de espera de su CAP, a las 11:25h presenta clínica brusca de debilidad de extremidades izquierdas con caída posterior al suelo. Después de ser valorado por el personal sanitario del CAP se activa código ictus a las 11:35h con una RACE inicial de 6 que mejora hasta 3, por lo que se desestima su inclusión en estudio RACECAT, y se deriva via código ictus al _SS_ de Gi_LOCATION_, donde llega a las 12:16h.
+
+A su llegada a _SS_ está normotenso, afebril y con clínica hemisférica derecha (hemiparesia e hipoestesia izquierdas, disartria, hemianopsia homónima izquierda, preferencia oculocefálica a la derecha y anosognosia), puntuando NIHSS de 11. ECG en FA. Se realiza TC craneal con angioTC y perfusión que muestra oclusión de a. cerebral media derecha a nivel M1 distal con hipoatenuación en lenticular y caudado derechos (ASPECTS 8) y mismatch significativo. Se orienta como ictus isquémico de a. cerebral media derecha no tributario de tratamiento con alteplasa por presentar INR de 3.2 por lo que contactan con Guardia de Neurovascular a las
+
+Informe de Trasllat a Sociosanitari
+
+
+
+
+12:50h y se decide traslado a _SS_ para realizar tratamiento endovascular primario. Llega a _SS_ a las 13:55h y se realiza primer intento con Solitaire a las 14:43h. Tras 5 pases, se consigue recanalización completa (TICI 3) a las 15:27h, ingresando posteriormente en la Unidad de ictus.
+
+Tras el tratamiento endovascular (trombectomia) el paciente se mantiene estable, con leve mejoria del déficit motor braquial, puntuando NIHSS 10 (00002/2(01)(01)/01021). Durante las siguientes horas mejoría de la clínica cortical manteniendo leve déficit motor, inatención y extinción sensitiva. 0.0.0.0.0 /2 (0.1) (0.1) / 0.1.0.1.1 = 7. Durante su ingreso en la unidad de ictus se han administrado nebulizaciones debido a abundantes roncus y se colocado sondaje por RAO. TAC de control post-trombectomia de rescate en el que se muestra imagen hiperintensa en GGBB derechos, sin clara imagen de transformación hemorrágica (podria tratarse del contraste utilizado en el procedimiento endovascular). Dada la estabilidad clínica en _SS_ se decide traslado a nustro centro de nuevo bajo vigilancia semiintensiva en unidad de ictus, con la orientación diagnóstica de ictus cardioembólico ACM derecha con dudosa transformación hemorrágica.
+
+EXPLORACIÓ FÍSICA
+
+FC	93 bpm
+Tªaxi 36.0 ºC
+FR	rpm Tªrec  ºC
+TA s	156 mmHg SAT O2 96 %
+TA d   92 mmHg Pes Kg
+
+EXPLORACIÓN AL INGRESO
+Estado general aparentemente conservado, eupneico en aire ambiente. CV: tonos arrítmicos, pero sin soplos ni extratonos
+PULM: Paciente eupneico, buenas saturaciones basales de O2. MVC con roncus inspiratorios  generalizados, aparentemente de vía aérea superior, pero en mayor medida en hemitórax derecho
+NRL:Paciente alerta y colaborador, orientado en tres esferas, responde preguntas y obedece órdenes sencillas. Una órden compleja. Sin alteraciones del lenguaje. No HH por confrontación. PFC izquierda. No claudicación de extremidades superriores contragravedad, leve claudiación de EII. No refiere déficit sensitivo. No anosognosia ni asomatognosia. Tolera sedestación en butaca y realiza bipedestación con  ayuda de 2º persona. No refiere disfagia.
+
+EXPLORACIÓN AL ALTA:
+TA: 156/92 mmHg, FC: 93 lpm, Sat basal 96%, T (timpánica): 36ºC
+Paciente  presente  pico  febricular.   Se  orienta  como  probable  foco  respiratorio   en  ausencia  de  clínica miccional/digestiva ni signos de flebitis.
+CV: tonos rítmicos, sin soplos ni extratonos.
+PULM: Paciente eupneico, buenas saturaciones basales de O2. A la auscultación MVC, roncus de preodminio en hemitórax izquierdo, sobre todo a nivel basal, sin otros ruidos añadidos.
+ABD: abdomen distendido, pero blando y depresible. No masa ni megalias, no signos de peritonismo. Peristaltismo presente.
+NRL: Paciente vigil, estable a nivel neurológico, persiste disartria, así como PFC izquierda y deficit motor de extremidades izquierdas, en mayor medida en extremidad inferior, con claudicación escasa contra gravedad. RCP flexor bilateral. Sin cambios respecto a exploraciones previas
+NIHSS: 00000/10010/00010: 4
+
+
+EXPLORACIÓ COMPLEMENTÀRIA
+ECG:
+
+Informe de Trasllat a Sociosanitari
+
+
+
+-FA con FVM conservada. ANALÍTICAS:
+-Analítica sanguinea a la llegada
+Hemograma: leucocitos 6.1300 (N58%, L 32%), Hb 11.6 g/dl, VCM 99 fL, plaquetas 203000. Hemostasia: TP 23%,
+INR 3.2, fibrinogen 393 mg/dl, TTPA 38.6 seg. Bioquímica: glucosa 285 mg/dl, urea 60 mg/dl, creatinina 1.34 mg/dl, Na 141 mmol/L, K 4 mmol/L, troponina 30 ng/L.
+
+-AS (16/11): Hb 10.1 g/dL, Htco 32 %, VCM 99.4 fL, Plaquetes 283 K/mcL, Leucòcits  15.84 K/mcL (N: 88.5 %, L:
+3.9 %), Tasa protrombina 66 %, INR 1.31, TTPA 29.2 segons, Glucosa  148 mg/dL, Urea  56 mg/dL, Creatinina
+1.29 mg/dL, Ió sodi 138 mEqu/L, Ió potasi 4.3 mEqu/L, PCR 4.64 mg/dL
+Tira orina: Densitat 1010, PH orina 7, Leucòcits tira +, Nitrits Negatiu, Proteïna Negatiu, Glucosa Negatiu, Cossos cetònics Negatiu, Urobilinogen Negatiu, Bilirubina Negatiu, Eritròcits Negatiu
+
+PRUEBAS DE IMAGEN:
+-TC craneal con angio y perfusión Oclusión a nivel de segmento M1 de arteria cerebral media derecha con mismatch significativo.
+
+
+_SS_
+-Trombectomia mecánica
+1.	Oclusión de la ACM derecha (TICI: 0).
+2.	Repermeabilización  completa (TICI: 3) de la ACM derecha, y reperfusión completa del hemisferio cerebral derecho mediante trombectomía mecánica después de 5 pases.
+
+-TC craneal control (10.11 a las 18h de trombectomia)
+Se evidencian dos lesiones de elevado coeficiente de atenuación en ganglios basales,  afectando a núcleo lenticular derecho (30 x 19 x 23 mm de diámetros máximos aproximados AP x LL x CC ) y nucleo caudado derecho (27 x 13 x 8 mm de diámetros máximos aproximados AP x LL x CC ), compatibles con hemorragias de ganglios basales / síndrome de reperfusión, a valorar clínica y evolutivamente.
+Dichas lesiones provocan leve efecto masa sobre parénquima adyacente, con obliteración parcial de la asta frontal del ventrículo lateral derecho. No se observa edema vasogénico perilesional. Línea media centrada. Aumento del tamaño del sistema ventricular, tetraventricular, de forma proporcionada al aumento del tamaño de los surcos, compatible con atrofia cerebral difusa severa. Cisternas basales y perimesencefálicas libres. Alteración difusa de la densidad ósea de calota craneal con áreas de hiperdensidad que alternan con áres hipodensas, sugestivo de enfermedad de Paget ósea. Sin otras alteraciones intra ni extraaxiales TC valorables.
+
+EVOLUCIÓ CLÍNICA
+Paciente ingresa en Unidad de Ictus, hemodinámicamente estable y afebril en momento de llegada a Unidad de ictus de nuestro centro.
+
+A nivel neurológico, mejoría clínica progresiva, persistiendo sin embargo leve deficit motor facio-braquio-crual izquierdo, de predominio en miembro inferior, así como disartria. Se inicia rehabilitación física durante ingreso con buena evolución posterior.
+
+Informe de Trasllat a Sociosanitari
+
+
+
+
+
+Como incidencias durante ingreso, destaca día 16/Noviembre pico febricular (T timpánica de 38ºC), a la exploración destacan roncus hemitórax izquierdo, sin otra clínica sugestiva de otro foco infeccioso. Se realiza analítica que muestra leucocitosis escasa, con neutrofilia, sin alteraciones significativas, tira de orina anodina, Rx de tórax sin alteraciones. Por tanto, se orienta caso como probable infección respiratoria en contexto de ictus isquémico y disfagia inicial, motivo por el que decidimos iniciar amoxi-clavulánico 1g/8hrs, pendiente de control evlutivo.
+
+Por tanto, se orienta caso como ictus isquémico de ACM derecha, etiología cardioembólica probable, en relación con fibrilación auricular ya conocida previamente y anticoagualada con sintrom en niveles óptimos de INR, lo cual ha contraindicado tratamiento fibrinolítico en fase aguda pèro sí ha sido posible trombectomía mecánica, con buena evolución clínica posterior. Ante transformación hemorrágica, se decide demorar 10 días tras ictus el inicio de anticoagulación, así como cambio de sintrom por NACO eliquis 5mg/12hrs (a iniciar día 19/Noviembre).
+
+Ante buena evolución clínica, se decide alta a centro de convalescencia _SS_-Rehabilitación intensiva, para continuar rehabilitación y gestión sociosaitaria posterior. Posteriormente seguimiento por Consultas Externas de Neurología vascular
+Se realiza traslado día 17/Noviembre
+
+Escalas al alta:
+-NIHSS: 4
+-mRs: 4
+-Barthel:  45
+
+DIAGNÒSTICS
+436/5 Ictus isquémico de ACM derecha, etiología cardioembólica probable, en relación con fibrilación auricular ya conocida previamente y anticoagualda con sintrom en niveles óptimos de INR, lo cual ha contraindicado tratamiento fibrinolítico en fase aguda pèro sí ha sido posible trombectomía mecánica
+401.9/4 Hipertensió arterial inespecificada 272.4/1 Dislipemia
+250.00/2 Diabetis mellitus II, controlada 414.8/3 Miocardiopatia isquemica 427.31/2 Fibril.lacio auricular
+428.9/1 Insuficiència cardíaca inespecificada
+585.3 Insuficiència renal crònica, estadi III (moderada)
+
+PROCEDIMENTS
+89.09 Consulta, no especificada de cap altra manera
+89.09 Consulta, no especificada de cap altra manera
+89.05 Entrevista i avaluació diagnòstiques, no especificades de cap altra manera
+89.08 Altra consulta
+89.04 Altra entrevista i avaluació
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+-	Tratamiento farmacológico (Adjuntamos SILICON)
+-Eliquis 5mg/12hrs 1-0-1, a comenzar día 19/Noviembre
+
+Informe de Trasllat a Sociosanitari
+
+
+
+
+-Atorvastatina 40mg/24hrs
+-Amoxi-clavulánico 1g/8horas
+-Enoxaparina profiláctica 40mg/24hrs (a retirar tras inicio de anticoagulación con eliquis)
+-STOP ramipril 2.5mg/24hrs por buen control tensional durante ingreso, a valorar reintroducción en función de controles	tensionales.
+-STOP SINTROM
+-Resto de medicación sin cambios. atenolol 50mg/24hrs Metformina 850mg cada 8h insulina segons pauta, omeprazol 20mg cada 24h, Alopuronol 300mg cada 24h, formoterol i bromur de tiotropi, furosemida 20mg cada 24h, gemfibrozilo 900mg cada 24h, pegat de nitroglicerina. Sintrom segons pauta.
+
+-	Dieta baja en sal y grasas.
+-	Abandono del consumo de tabaco y reducción del consumo de alcohol.
+-	Control de los factores de riesgo cardiovascular
+
+CONTROL
+-Visita de control en Neurología (Dr. _NAME_) de nuestro centro (Edificio de Consultas Externas primera planta) el día 28/feb/2018 a las 14:00 horas.
+-Control de los factores de riesgo cardiovascular por su equipo de atención primaria. Objetivos recomendados:
+-	Colesterol (LDL) <100 mg / dl
+-	Tensión arterial sistólica <140mmHg / Diastólica <90mmHg
+
+
+DESTINACIÓ A L'ALTA:	SOCI SANITARI
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+16.11.2017
+Pàgina 1 de 5

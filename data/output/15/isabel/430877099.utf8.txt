@@ -1,0 +1,117 @@
+I.CLINIC DE NEUROCIÈNCIES NEUROLOGIA
+_NAME_	NHC: _ID_
+
+
+Sexo/Sexe: Masc.	Fecha nac./Data naix.: _DATE_	Edad/Edat: 62 años Dirección/Adreça: _LOCATION_		CP: _LOCATION_
+Municip. (Prov.): _LOCATION_  ABS:_SS_	Tel.:_CONTACT_
+As.: SERVEI CATALA DE LA SALUT	CIP: _ID_	NASS: _ID_
+Nº epis.: _ID_	Tipo/Tipus: HOSPIT.	Inici.: 12.10.2017
+Serv: NEUROLOGIA	UO Enf.: G6B4 SALA G NEUROL. CURT. E Hora: 13:28:20
+Facult. de ref.: _NAME_
+
+
+
+
+Tipo ingreso/Tipus ingrés: Urgent	Motivo/Motiu alta: Dom. Familiar
+Diag.:
+ICTUS EN TÁNDEM de ACMD () HIPERTRIGLICERIDEMA ()
+Proc.:
+TC MULTIMODAL () ANALÍTICA SANGUÍNEA () TC DUAL ()
+TROMBECTOMÍA MECÁNICA. COLOCACIÓN STENT CAROTÍDEO. ()
+
+
+
+
+INFORME CLÍNICO ALTA / INFORME CLÍNIC ALTA
+
+Motivo de consulta / Motiu de consulta
+Debilidad de extremidades izquierdas.
+
+Antecedentes e historia previa / Antecedents i història prèvia
+Antecedentes personales: Paciente de 62 años, no alergias medicamentosas conocidas. Fumador, no otros hábitos tóxicos. Diestro. mRS: 0.
+ANTECEDENTES PATOLÓGICOS:
+1.	HIPERTENSIÓN ARTERIAL
+2.	HIPERURICEMIA
+
+*	TRATAMIENTO HABITUAL: No según HC3.
+
+Proceso actual / Procés actual
+Hemiplejia izquierda de inicio subito mientras estaba sentado desayunando. Asintomatico al despertar.
+
+Exploración física / Exploració física
+12/10/2017-13:56:00: Frecuencia respiratoria (rpm) 18, Glicemia capilar (mg/dl) 112, PAS (mm Hg) 114, PAD (mm Hg) 55, Pulsioximetría (%) 99. 12/ 10/2017-14:00:00 : FiO2 (%) 31, Tª axilar (ºC) 35.9.
+Tendencia a la somnolencia, contesta a estimulo verbal. orientado en persona, no en tiempo. Cumple ordenes simples. no rasgos afásicos. negligente y anosognosico. Mirada desviada a la izquierda pero cruza linea media. hemianopsia h izquierda. Paresia facio (mod) braquio-crural 0/5. Hipoestesia. Disartria severa. RCP extensor izquierdo.
+NIHSS: 1+1+0+1+2+2+4+4+0+1+0+2+2= 20
+
+Exploraciones complementarias / Exploracions complementàries
+
+16/10/2017.
+
+*	TC MULTIMODAL: - TC basal. Area de hipodensidad con borramiento de surcos y pérdidade la interfase sustancia gris blanca a nivel lenticular e ínsula ( Aspects 8 ). Hiperdensidad de la ACM derecha en su tramo proximal (M1) sugestivo de trombo agudo a dicho nivel.
+-	TC perfusión. Se aprecia una alteración de los mapas con aumento del tiempo y enlentecimiento del flujo en un amlia zona del teritorio de la ACM derecha con disminución de volumen a nivel del nucleo caudado, lenticular e ínsula , apreciando un área de penumbra significativa a nivel hemosférico temporal, parietal y frontal.
+-	Angio TC: Oclusión de la arteria carótida interna derecha, inmediatamente distal a la bifurcación carotídea. Repermeablilización del segmento a1, probablemente desde el lado contarlateral por flujo retrogrado a través de las cominicante anterior. con reoclusión anivel de M1, compatible con lesión en tandem. Eje carotídeo izuqierdo con ateromatosis calcificada, permable. Disminución del grado de colateralidad en el lado derecho ( grado II).
+
+16/10/2017.
+
+*	ANALÍTICA SANGUÍNEA: PCR 1.52, Cr 1.75, FG 41, úrico 7.9, col 248, HDL 31, LDL no valorable, TGD 1018,
+prot 55, Ca2+ 8, Homocisteína 15.2, fólico 694, VitB12 391, hematimetría sin alteraciones relevantes, Hb1Ac 5%, coagulación y perfil tiroideo sin alteraciones.
+
+16/10/2017.
+
+*	ECO-DOPPLER DE CONTROL: 1. Stent carotidi dret permeable amb velocitats normals en tot el seu trajecte. 2. Doppler transcranial normal.
+
+16/10/2017.
+
+*	TC DUAL DE CONTROL: Se observa una tenue hiperdensidad de ganglios basales derechos y en algún surco frontal derecho, que tras el posprocesado sugieren corresponder a contraste.
+
+*	RADIOGRAFÍA DE TÓRAX: Hilios prominentes sin otras alteraciones.
+
+Evolución / Evolució
+1.	ICTUS EN TÁNDEM: ARTERIA CARÓTIDA INTERNA (ICA) TERMINAL + ARTERIA CEREBRAL MEDIA (ACM) DERECHAS.
+Hora de llegada a urgencias 10:28. HD estable con tendencia a HTA. A la exploracion presenta un síndrome hemisferico derecho completo, NIHSS 20.
+Se realiza TC multimodal. TC simple (10:45) ASPECTS 8 (caudado e insula), media proximal hiperdensa. Se administra bolus rTPA a las 10:47. Se completa estudio con TC perfusion que muestra caida CBV en GGBB y retraso TTP en todo territorio ACMD. Angio TC muestra defecto de replección a partir de ICA hasta TICA. En analítica destaca insuficiencia renal previamente desconocida (creat 1.22, FG 30). TP 100. resto normal.
+Se traslada a  sala de angiografia, punción femoral a las  11:45, justo al terminarse la perfusión de fibrinolitico (66mg). Durante el procedimiento el paciente está agitando, necesitando apoyo de anestesistas que proceden a sedación con remi-fentanilo. Durante el procedimiento presenta vomito por lo que se administra ondasetron. Se logra recanalizar ACM (migración del trombo con respecto a angio TC) y posteriormente se coloca stent en ICA postbifurcación tras inyesprin.
+Se trata de un ictus de causa aterosclerótica. El TC dual muestra hiperintensidad en GGBB derechos que corresponde a contraste por lo que se inicia tratamiento con doble antiagregación con dosis de carga de clopidogrel.
+Durante su estancia en la unidad de ictus presenta mejoría clínica persistiendo paresia facio-braquio-crural
+
+
+
+derechas leves, pudiendo deambular sin apoyos con facilidad y anosognosia.
+Se traslada a sala con mejoría de la clínica motora, persistiendo mínima paresia braquiocrural (4+/5). Se solicita eco-doppler de TSA en un mes, con doble antiagregación durante este periodo, con control posterior en Consultas Externas.
+Al alta:
+-	NIH: 0
+-	TOAST: ateroembólico
+-	mRS: 1
+
+2.	DISLIPEMIA. HIPERCOLESTEROLEMIA E HIPERTRIGLICERIDEMIA.
+En analítica sanguínea destaca colesterol 248, HDL 31, LDL no valorable, TGD 1018. Se solicita IC a Endocrinología, que recomiendan tratamiento con atorvastatina 80 mg y omega 3, con visita de control en Consultas Externas.
+
+3.	INSUFICIENCIA RENAL NO CONOCIDA CON COMPONENTE PRERENAL
+A su llegada función renal alterada con Cr 2.26 y FG de 30 que tras sueroterapia mejora a Cr 1.75 y FG 41.
+
+Plan terapéutico / Pla terapèutic
+Atorvastatina alter 80 mg Pantoprazol tarbis 40 mg Omacor 1000 mg 2-0-2 Acido acetilsalicilico aristo 100 mg Enalapril davur 5 mg/12h Vatoud 75 mg/24h durante un mes.
+
+Otras recomendaciones / Altres recomanacions
+Eco-doppler de troncos supraaórticos en un mes, pendiente de programar. Visita de Control en Consultas Externas con Dr. _NAME_. Visita con Endocrinología el 14/11 el 10:00.
+
+
+
+Firma/Signatura1: _NAME_	Firma/Signatura2: _NAME_ Categoría: Resident 2	Categoría: Consultor/a 1
+Nº Matrícula _SS_: _ID_	Nº Matrícula _SS_: _ID_
+
+Fecha/Data Informe: 18.10.2017
+Hora Informe: 15:50:26
+
+Docum.: _ID_
+Hist. Clínica: _ID_
+El _SS_ ha incorporado sus datos al Fichero de Pacientes, para tratarlos con fines sanitarios.
+Puede ejercer sus derechos de acceso, rectificación, cancelación y oposición, así como obtener mas información en la Unidad de Atención al Cliente.
+Vers. 00
+Pag. 2 de
+3
+Episod.: _ID_
+_SS_ ha incorporat les seves dades al Fitxer de Pacients, per a tractar-los amb finalitats sanitàries. Pot exercir els seus drets d'accés, rectificació, cancel·lació i oposició, i obtenir més informació a la Unitat d'Atenció al Client.
+_SS_
+_LOCATION_) _LOCATION_) Tel. _CONTACT_ Fax _CONTACT_
+http://_CONTACT_/

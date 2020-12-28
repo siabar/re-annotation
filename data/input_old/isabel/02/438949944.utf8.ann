@@ -1,0 +1,122 @@
+T1	Hora_de_alta 236 241	15:00
+#1	AnnotatorNotes T1	15:00
+T2	Fecha_de_alta 245 255	08.11.2017
+#2	AnnotatorNotes T2	2017-11-08
+T3	Fecha_de_ingreso 368 378	30.10.2017
+#3	AnnotatorNotes T3	2017-10-30
+T5	_SUG_Hemorragia_cerebral 501 520	hemorragia cerebral
+T6	_SUG_Etiologia 622 634	Hipertensión
+T7	FECHA 886 896	marzo 2017
+#7	AnnotatorNotes T7	2017-03-UNDEF-day
+T8	FECHA 921 925	2003
+#8	AnnotatorNotes T8	2003-UNDEF-month-UNDEF-day
+T9	FECHA 1380 1384	2008
+#9	AnnotatorNotes T9	2008-UNDEF-month-UNDEF-day
+T10	FECHA 1389 1398	mayo 2010
+#10	AnnotatorNotes T10	2010-05-UNDEF-day
+T11	_SUG_ASPECTS 1413 1418	SPECT
+T12	_SUG_Lateralizacion 1468 1477	izquierdo
+T13	FECHA 1690 1700	enero 2011
+#13	AnnotatorNotes T13	2011-01-UNDEF-day
+T14	FECHA 1878 1882	2011
+#14	AnnotatorNotes T14	2011-UNDEF-month-UNDEF-day
+T15	FECHA 2201 2213	febrero 2017
+#15	AnnotatorNotes T15	2017-02-UNDEF-day
+T16	FECHA 2227 2236	mayo 2015
+#16	AnnotatorNotes T16	2015-05-UNDEF-day
+T17	_SUG_Lateralizacion 2250 2259	izquierdo
+T18	_SUG_Localizacion 2442 2458	interventricular
+T19	_SUG_Lateralizacion 2527 2528	I
+T20	_SUG_Lateralizacion 2559 2560	I
+T21	_SUG_Etiologia 2579 2591	hipertensión
+T25	mRankin_previa 2897 2903	mRS: 2
+T28	Tratamiento_anticoagulante_hab 3354 3361	Sintrom
+T29	_SUG_Lateralizacion 3434 3443	izquierda
+T30	Fecha_inicio_sintomas 3465 3473	30.10.19
+#30	AnnotatorNotes T30	2017-10-30
+T31	Hora_llegada_hospital 3503 3505	12
+#31	AnnotatorNotes T31	12:00
+T32	_SUG_Ictus_isquemico 3540 3545	ictus
+T34	_SUG_TAC_craneal 3629 3639	TC craneal
+T35	_SUG_Lateralizacion 3791 3800	izquierda
+T36	_SUG_Lateralizacion 3839 3848	izquierda
+T38	NIHSS_previa 3900 3907	NIHSS 5
+T39	_SUG_Lateralizacion 4153 4162	izquierda
+T40	_SUG_Lateralizacion 4218 4227	izquierda
+T41	_SUG_NIHSS_alta 4228 4236	NIHSS: 4
+T42	_SUG_NIHSS_previa 4228 4236	NIHSS: 4
+T43	_SUG_Lateralizacion 5438 5447	izquierdo
+T44	TAC_craneal 5517 5519	TC
+T45	_SUG_Lateralizacion 5582 5589	derecho
+T46	Localizacion 5760 5768	parietal
+T47	_SUG_Lateralizacion 5769 5776	derecha
+T48	_SUG_Arteria_afectada 5854 5857	ACM
+T49	_SUG_Lateralizacion 5858 5865	derecha
+T50	Localizacion 5922 5929	caudado
+T51	Lateralizacion 5930 5939	izquierdo
+T52	Localizacion 5941 5948	putamen
+T53	_SUG_Lateralizacion 5949 5958	izquierdo
+T54	_SUG_Localizacion 5960 5966	tálamo
+T55	_SUG_Lateralizacion 5967 5976	izquierdo
+T56	_SUG_Lateralizacion 5997 6004	derecha
+T57	_SUG_Localizacion 6019 6037	infartos lacunares
+T58	_SUG_Localizacion 6202 6213	ventricular
+T59	_SUG_TAC_craneal 6376 6378	TC
+T60	_SUG_Lateralizacion 6471 6478	derecho
+T61	_SUG_Lateralizacion 6552 6559	derecho
+T62	_SUG_Lateralizacion 6626 6633	derecho
+T63	_SUG_Lateralizacion 6719 6726	derecho
+T64	_SUG_Localizacion 6728 6746	Infartos lacunares
+T65	_SUG_Localizacion 6829 6838	posterior
+T66	_SUG_Arteria_afectada 6904 6907	ACM
+T67	_SUG_Lateralizacion 6908 6915	derecha
+T69	_SUG_TAC_craneal 6932 6942	TC craneal
+T70	_SUG_Lateralizacion 7017 7024	derecho
+T71	_SUG_Localizacion 7049 7060	ventricular
+T73	_SUG_Lateralizacion 8746 8755	izquierda
+T75	_SUG_TAC_craneal 8799 8809	TC craneal
+T76	_SUG_Lateralizacion 8863 8870	derecho
+T77	_SUG_Tratamiento_anticoagulante_alta 8935 8942	sintrom
+T78	_SUG_Tratamiento_anticoagulante_hab 8935 8942	sintrom
+T79	_SUG_Localizacion 9023 9033	posteriori
+T80	_SUG_Ictus_isquemico 9160 9165	Ictus
+T81	_SUG_Lateralizacion 9232 9241	izquierda
+T82	_SUG_TAC_craneal 9315 9317	TC
+T83	_SUG_Etiologia 9520 9532	hipertensión
+T85	_SUG_TAC_craneal 10202 10212	TC craneal
+T86	NIHSS_alta 10467 10474	NIHSS 3
+T88	_SUG_Lateralizacion 10520 10529	izquierda
+T89	mRankin_alta 10606 10611	mRS 5
+T91	Lateralizacion 10644 10651	derecho
+T92	Etiologia 10662 10674	hipertensivo
+T94	FECHA 10808 10816	11.04.18
+#94	AnnotatorNotes T94	2018-04-11
+T95	HORA 10817 10822	10:30
+#95	AnnotatorNotes T95	10:30
+T97	_SUG_TAC_craneal 10855 10865	TC craneal
+T98	FECHA 11114 11124	08.11.2017
+#98	AnnotatorNotes T98	2017-11-08
+T99	SECCION_MOTIVO_DE_INGRESO 432 446	MOTIU D'INGRÉS
+T101	SECCION_SITUACION_FUNCIONAL 2750 2774	SITUACIÓN SOCIOFUNCIONAL
+T102	SECCION_TRATAMIENTO_HABITUAL 2906 2924	MEDICACIÓ HABITUAL
+T103	SECCION_PROCESO_ACTUAL 3376 3389	PROCÉS ACTUAL
+T104	SECCION_EXPLORACION_FISICA 3680 3697	EXPLORACIÓ FÍSICA
+T105	SECCION_EXPLORACIONES_COMPLEMENTARIAS 4238 4263	EXPLORACIÓ COMPLEMENTÀRIA
+T106	SECCION_EVOLUCION 8624 8640	EVOLUCIÓ CLÍNICA
+T107	SECCION_DIAGNOSTICO_PRINCIPAL 10614 10625	DIAGNÒSTICS
+T108	SECCION_TRATAMIENTO_AL_ALTA 10702 10737	TRACTAMENT I RECOMANACIONS A L'ALTA
+T109	SECCION_CONTROL 10750 10757	CONTROL
+T4	SECCION_ANTECEDENTES_PERSONALES 523 534	ANTECEDENTS
+T26	SECCION_ANTECEDENTES_PATOLOGICOS 595 619	ANTECEDENTES PATOLÓGICOS
+#4	AnnotatorNotes T25	2
+T22	Fecha_llegada_hospital 3465 3473	30.10.19
+#5	AnnotatorNotes T22	30/10/2017
+#6	AnnotatorNotes T38	5
+T23	SECCION_EXPLORACION_FISICA_DURANTE_HOSPITALIZACION 3941 3950	En planta
+#11	AnnotatorNotes T86	3
+#12	AnnotatorNotes T89	5
+T24	Hemorragia_cerebral 10626 10634	Hematoma
+T27	Localizacion 10635 10643	talámico
+T33	SECCION_DESTINO_AL_ALTA 11031 11050	DESTINACIÓ A L'ALTA
+T37	SECCION_EXPLORACIONES_COMPLEMENTARIAS_EN_URGENCIAS 4264 4285	Analítica d'urgències
+T68	SECCION_EXPLORACIONES_COMPLEMENTARIAS_EN_PLANTA_DE_NEUROLOGIA 7127 7147	Analítica de ingreso

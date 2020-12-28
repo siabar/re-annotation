@@ -1,0 +1,164 @@
+_LOCATION_ Tel. _CONTACT_
+_CONTACT_
+Informe Alta Hospitalització
+_NAME_
+HC: _ID_
+
+>
+
+Informe de Cuidados Intensivos
+
+
+Adreça: _LOCATION_
+Puerta 1	Data naix.: _DATE_
+Població: _LOCATION_	Sexe: MASCULI
+Provincia: _LOCATION_	CIP: _ID_
+País: _LOCATION_	NASS: _ID_
+Telèfon: _CONTACT_	DNI o Tarja Residència:
+
+
+Servei: Medicina Intensiva	Data ingrés a URG: 05/01/2017 20:27
+Unitat clínica: Medicina Intensiva	Data hospitalització: 05/01/2017 21:17
+Tipus d'ingrés: Urgències	Data alta: 06/01/2017 14:49
+Proveïdor de Serveis: Servei Català de la Salut	Destí: 11 - Defunció
+
+
+
+Diagnòstic principal:
+
+431 HEMATOMA CEREBRAL
+
+Diagnòstics Secundaris:
+
+401.9 HIPERTENSIO ARTERIAL INESPECIFICADA
+
+Procediments:
+
+96.04 INTUBACIO OROTRAQUEAL IOT
+96.70 VENTILACIO MECANICA
+87.03 TAC CRANIAL
+90.59 ANALITICA SANG
+89.65 GASOMETRIA
+87.44 RADIOGRAFIA DE TORAX
+
+
+
+
+
+Pacient de 54 anys d'edat que ingressa per Hematoma parenquimatós D espòntani
+
+Antecedents:
+
+Malalties prèvies:
+
+HEPATOPATIA CRONICA ALCOHOLICA - HC ALC (Pacient amb consum excessiu d'alcohol crò nic.
+ECO abdominal 2009 amb esteatosi hepàtica.
+Darrera analítica abril 2016 sense signes d'insuficiència hepàtica, amb TP normal i transaminases en rang.)
+HIPERTENSIÓ ARTERIAL (No controlada ni en ttm farmacològic. Refereixen TAS 180mmHg com habitual.)
+FUMADOR
+ARTERIOPATIA PERIFERICA (En seguiment ambulatori. Estudi TSA 2015 normal.
+AgTAC EEII Oclusión de AFS bilateral i de la poplitia izquierda.) DISLIPÈMIA
+FIBROMATOSI FASCIA PLANTAR; CONTRACTURA FASCIA PLANTAR (Talaàgia per entesopat
+
+
+ía calcificant que ha precisat d'infiltracions.
+RX entesopatía calcificante a nivell de fascia plantar i de tendó d'Aquiles.
+)
+DIVERTICULOSI INTESTI GROS (Se realiza estudio por hallazgo casual de engrosamiento pared sigma en AgTAC EEII.
+FCS 12.16: Clasificación de Boston : 2-2-2. Se explora la totalidad del colon hasta fondo de saco cecal objetivándose válvula ileocecal y foramen apendicular.
+Se realiza retirada detallada por segmentos apreciándose:
+- En sigma, entre 24 y 33cm de ma, se observan dos áreas de aspecto claramente inflamatorio con mucosa edematosa y eritematosa, una de ellas plana y otras de aspecto seudopolipoidea de unos 5cm cada una. Se realizan biopsias que no evidencia malignidad.
+Conclusión:Sugestivo de cambios inflamatorios secundarios a diverticulitis. .
+
+Al·lèrgies:
+
+El pacient no presenta al·lèrgies conegudes.
+
+Hàbits tòxics:
+
+Hábito tabáquico ; nº de cigarrillos/día: 20. Consumidor de alcohol ; consumo de: 140 gr/día.
+
+Medicació prèvia:
+
+Simvastatina 20mg/24h AAS 100mg/24h
+
+Antiagregants: AAS
+
+Antecedents socials i professionals:
+
+Situació social: FFSS conservades, autonom. Ha obtingut invalidesa per entesopatia plantar.
+
+Història Actual:
+
+Pacient portat a urgències pel SEM a les 20:27h del dia 5.1.17 per clínica hemisfèrica dreta iniciada a les 18h aproximadament. S'activa codi ictus extrahospitalari. A l'arribada a urgències s'objectiva Glasgow 14 amb desviació forçada de la mirada a la dreta, hemianòpsia esquerra, disàrtria, hemiplègia
+facio-braquio-crural esquerra, hemianestèsia esquerra, Babinski esquerre, heminegligència esquerra. NIHSS 18.
+Explica la família que aquell matí havia acudit a UDIAT per a realització d'analítica de control on presentava HTA amb TAS 200mmHg sense algies o altra sintomatología referida, i li havien recomanat acudir a urgències.
+
+Es realitza TC cranial a les 20:57h que mostra extens hematoma intraparenquimatós dret. Es valora conjuntament amb medicina intensiva e ingresa a UCI.
+
+Exploració física:
+
+*Ingrés a SEC:
+TA 190/100 FC 60bpm FR 30 SPO2 95% FIO2 50%
+- NRL: Vigil, GCS 14 (O4, M6, V4), PICNR, desviació forçada de la mirada a la dreta, no oftalmoparèsies,
+
+
+hemianòpsia esquerra, disàrtria, hemiplègia facio-braquio-crural esquerra, hemianestèsia esquerra, Babinski esquerre, heminegligència esquerra. Durant l'exploració realitza episodi comicial amb moviments clònics braç dret, sons guturals, mossegada de llengua i desconnexió amb el medi.
+-HD: Hipertens, normofreqüent. TCR rítmics, no ausculto bufs ni frecs, no IVJ ni RHJ. No palpo polsos distals, femorals presents. Sense edemes decliu.
+-RESP: Taquipneic, precisa FIO2 elevades.
+-ABD: tou i depresible, indolor, peristaltisme present, sense irritació peritoneal. Orina clara.
+
+Ingrés UCI:
+-	NRL: midriasi bilateral arreactiva conservant reflex tusígen. S'inicia propofol a dosis baixes.
+-	RESP: VM+IOT, VC, PEEP 8, VMe 13L. Millora progressiva de l'oxigenació incorporant el pacient i augmentat peep a 8, podent disminuir FIO2 fins al 35%.
+*GSA: pH 7.3, pCO2 39, Bic 21, Lac 19.
+-	HD: Hipertensió que s'intenta controlar amb urapidil. Normofrecuent.
+-	RENAL: Poliuria pendent evolució.
+
+Resum proves complementàries:
+
+Laboratori:
+
+-	AS 05/1/17: Leucòcits 8.28 x 10^9/L, Hemoglobina 169 g/L, Hematòcrit 0.48 L/L, Plaquetes 157 x 10^9/L, Neutròfils (%) 55.9 %, Limfòcits (%) 33.9 %, Temps protrombina 1.02 ratio, T.Tromboplastina parcial activ 1.13 ratio, Glucosa 110 mg/dL, Urea *9 mg/dL, Creatinina *0.66 mg/dL, Sodi 136 mEq/L, Potassi 4.2 mEq/L, Etanol en sang 33.9 mg/dL, Osmolalitat 285 mOsm/Kg
+-	AS 06/1/17: Leucòcits *11.42 x 10^9/L, Hemoglobina 161 g/L, Plaquetes 139 x 10^9/L, Temps protrombina 1.05 ratio, T.Tromboplastina parcial activ 0.96 ratio, Calci iònic *4.03 mg/dL, Urea 11 mg/dL, Creatinina 0.83 mg/dL, Sodi 141 mEq/L, Potassi Mostra hemolitzada. Preguem nova mostra. mEq/L, Fosfor *2.4 mg/dL, Aspartat aminotransferasa(AST) Mostra hemolitzada. Preguem nova mostra. U/L, Alaninaminotransferasa (ALT) Mostra hemolitzada. Preguem nova mostra. U/L, Bilirubina total Mostra hemolitzada. Preguem nova mostra. mg/dL, Magnesi 2.5 mg/dL, Proteïna C reactiva *0.77 mg/dL, Osmolalitat 298 mOsm/Kg
+
+Imatge:
+
+-	Rx tòrax 05/1/17: Ben inspirada, centrada, TOT a 4cm carina, SNG abdomen, CVC d'inserció perifèrica axilar esquerre, sense condensacions agudes. Canvis crònics.
+-	TAC cranial 05/1/17: Hematoma agudo intraparenquimatoso frontoparietal y temporal derecho con efecto de masa significativo y desplazamiento de las estructuras de la línea media supratentoriales.
+-	TC Cranial + AngioTc Aorto-Carotidi-Crania 06/1/17:
+
+Augment de volum de la col·lecció hemàtica intraparenquimatosa hemisferica D, oberta al sistema ventricular, aparició de focus hemorràgics circumdants a l'hematoma i pontins bilaterals, i augment de l'efecte de massa amb desplaçament significatiu de les estructures de la línia mitja, herniació cap a inferior de les amígdales cerebel·loses, col·lapse del ventricle lateral dret i dilació hidrocefàlica de l'esquerre. Absència de flux bilateral dels segments corticals d'artèries cerebrals mitges i absencia de retorn sanguini a venes cerebrals internes. CONCLUSIÓ: Signes radiològics per TC i angio-TC cranial compatibles amb mort encefàlica.
+
+Altres proves:
+
+-	ECG: Rs a 72bpm, PR 0.16, Eix 90º, QRs estret, ST concau a cara inferior, T negatives aVL.
+-	
+
+
+Evolució i comentaris:
+
+HEMATOMA PARENQUIMATÓS DRET FRONTOPARIETAL I TEMPORAL ESPONTANI EVOLUCIÓ A MORT ENCEFÀLICA
+
+Pacient que presenta molt voluminós hematoma en probable context hipertensiu en pacient amb HTA no tratada ni controlada. Com a altres FxRxCV fumador. Ingressa el 05/1/17 a Centre de Crítics CSUPT per control NRL amb monitorització de GCS.
+
+Inicialment en GCS 14 presenta com a focalitat hemiplegia i hemianestesia esquerres F-B-C, desviació de la mirada a la dreta, heminegligència esquerre. Durant l'exploració realitza crisi comicial parcial amb moviments clònics a braç dret, sons guturals, mossegada de llengua i desconnexió amb el medi; que e¡ cedeux amb l'administració de clonazepam (1amp.) EV. Persistència en baix nivell de consciència en el postcrític, sense recuperació, per el que es decideix IOT per protecció de via aèrea. Previ a IOT realitza episodi de bradicardia extrema <40bpm i pupil¿les que evolucionen a midriasi bilateral. S'inicien mesures antiedema i es contacta amb neurocirurjà de guardia (Dr. _NAME_). Intubació reglada (Cormack I) e hipotnesió en context d'inducció que respon a STP en descàrrega (1L SF).
+Valorat per NQx, davant cuadre d'hematoma gangliobasal e insular D de gran volumen >120cc hiperagut amb signes de hemorragia activa i/o molt recent, donades les condicions clíniques del pacient i localitzaci ó per troballes radiológiques es desestima tractament quirúrgic per ésser considerat no abordable i en tot cas fútil. S'informa a la familia de la gravetat del cuadre i molt probable ràpdia evolució ràpida a mort cerebral.
+
+En l'evolució posterior, el pacient es manté amb requeriments de NAD a dosis baixes per mantenir TAM, presentant poliúria en molt probable context de diabetes insipida central. Normoventil¿lat en modalitat VC amb PEEP i FiO2 baixes. Hipotermic per el que es col¿loca escalfador extern (manta térmica).
+Es deixa sense sedació/analgesia per evaluació conjuntament amb NRL (Dr, _NAME_), presentant signes progressius d'enclavament complint criteris de mort encefàlica per exploració física a les hores d'evolució: GCS 3, absència de reflexos pupilar, conreal, oculocefàlic, vestibular, nauseos/tusigen, nula resposta al tes d'atropina i amb test d'apnea en que no presenta moviments respiratoris de cap mena i pCO2 >60mmHg. Es completa estudi amb angioTC cranial (14:49 06/01/2017) que mostra augment de l'hematoma cerebral amb major efectre massa i nous focus hemorragics perilesió junt amb absència de flux bilateral dels segments corticals d'artèries cerebrals mitges ni retorn sanguini a venes cerebrals internes compatibles amb mort encefàlica.
+
+Es certifica éxitus (Dres. _NAME_) e informa a familia, que acompanya al pacient. Es contacta amb equip de coordinació (Dra. _NAME_) de transplants que interroga a familia sobre no-voluntat   del pacient d'ésser, negant-se familia a la possibilitat alegant motius propis i expressant la inambolitat i rotunditat de la seva decisió. S'ofereix realitzar autopsia clínica que rebutjen. Visiten el cadàver i posteriorment es retiren mesures de suport, prefereixen no estar presents. Expressen voluntat d'incineraci ó del cos. S'entrega documentació pertinent.
+
+Tractament:
+
+Fàrmacs:
+
+Veure gràfica d'enfermería
+
+_LOCATION_, 10/01/2017
+
+
+_NAME_	_NAME_
+(Nº col _ID_)	(Nº col _ID_
+Nom i cognoms metge: _NAME_ (Nº col: _ID_Pàg.: 1/5

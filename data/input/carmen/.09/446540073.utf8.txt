@@ -1,0 +1,113 @@
+_LOCATION_ Tel. _CONTACT_
+e-mail: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 73 Anys
+NIF/DNI: _ID_Informe d'alta d'hospitalització
+11:20:00
+24.11.2017
+_LOCATION_
+_SS_
+MEDICINA D'URGENCIES
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_; _CONTACT_; _CONTACT_
+CEX MATEIX HOSP 23.11.2017
+_NAME_
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+diarrea hipotensió
+
+ANTECEDENTS
+Varón de 73 años, sin alergias medicamentosas conocidas. Exfumador desde mayo 2017. Situación funcional: vive con su esposa, autónomo.
+
+ANTECEDENTES PATOLÓGICOS
+-	Hipertensión arterial
+-	Dislipemia
+-	Diabetes mellitus tipo 2
+-	Cardiopatía isquémica. IAM en 1993 y en 1996 tratado con fibrinolisis. IAM no Q en 1998, se realizo cateterismo que mostró enfermedad de 3 vasos y se decidió tratamiento farmacológico. En Angina inestable (2004). Doble bypass. ETT (agosto 16): Ventrículo izquierdo ligera-moderadamente dilatado con FE 44% por acinesia apical extensa. Ecocardiograma de estrés con DBT: ausencia de viabilidad anterior e inducción de isquemia inferior basal-media. Último ETT 22/11/17: Ventrículo izquierdo ligeramente dilatado, no hipertrófico, con acinesia apical extensa (región de Restore). Función sistólica global moderadamente deprimida (FE Simpson 41%). Aurícula izquierda moderadamente dilatada. Insuficiencia mitral ligera. Disfunción diastólica tipo I. (mala ventana). En seguimiento por la UIC.
+-	Portador de DAI por taquicardia ventricular en 2008.
+-	Fibrilación auricular paroxística (revertida en 2 ocasiones con cardioversión eléctrica) en tratamiento con Sintrom.
+-	Pólipos colónicos.
+
+MEDICACIÓ HABITUAL
+Enalapril 2.5 x 1, Carvedilol 25 x 2, Crestor 20 mgx1, CFN PRN, Omeprazol 2 0, Ranexa 375x2, eplerenona 25 mg/d, Sintrom, Digoxina 0,5 Lu,Mi, Vi, Minitran 10, Furosemida 40x1, Metformina 850 x 2, Omacor 2 cápsula cada 12h,  ferogradumet. Tamsulosina ??, Procoralan 7.5 mg/12h.
+
+PROCÉS ACTUAL
+Paciente derivado de la UIC por cuadro sugestivo de gastroenteritis aguda con malestar general e hipotensión. El paciente refiere presentar desde hace unos 10 días deposiciones diarreicas líquidas (2-3 al día) sin productos patológicos ni fiebre, además de vómitos mucosos (2 al día) con tolerancia oral regular. Refiere malestar general asociado con sensación de mareo. Refiere haber presentado una caída esta noche sin pérdida de conocimiento. Refiere dolor actual en zona lumbar baja y cadera derecha en relación a la caída. Presenta lesiones papuploeritematosas en cara de unos días de evolución.
+
+EXPLORACIÓ FÍSICA
+
+Informe d'alta d'hospitalització
+
+
+
+
+FC	75 bpm
+Tªaxi 36.0 ºC
+
+FR	16 rpm Tªrec  ºC
+
+TA s	115 mmHg SAT O2 94 %
+
+TA d   75 mmHg Pes Kg
+
+BMTest  110  mg/dL.  Regular  estado  general.   Consciente   y  orientado.  Normocoloreado,   con  signos  de deshidratación.
+AC: ruidos cardíacos regulares, soplo sistólico eyectivo. No IY ni RHY. AR: MVC con algún roncus dispersos, sin sibilancias espiratorias.
+Abdomen:  blando  y  depresible,  dolor  a  la   palpación  profunda  de  forma   generalizada,   sin  masas  ni visceromegalias, sin signos de peritonismo actualmente.
+EEII: sin edemas ni signos de TVP.
+Piel: lesiones papuloeritematosas en cara con descamación fina, no presentes en resto del cuerpo.
+
+EXPLORACIÓ COMPLEMENTÀRIA
+-	Analítica: hemograma: leucocitos  9400  (N  73.1%,  L  15.3%,  M  10.2%), Hb  12.7  g/dl,  plaquetas 169.000.
+Coagulación: INR 2.3, TTPA 34.6 seg. Bioquímica: glucosa 112 mg/dL, urea 117 mg/dL, creatinina 2.75 mg/dL, sodio 138 mmol/L, potasio 4.9 mmol/L, bilirubina 0.55 mg/dL, PCR 2.60 mg/L, CK 58 U/L. Equilibrio venoso: pH 7.39, pCO2 46 mmHg, HCO3 27.8 mmol/L.
+
+-	Analítica de control (6am): Equilibrio venoso: pH 7.44, pCO2 43 mmHg, HCO3 29.2 mmol/L. Bioquímica: glucosa 97 mg/dL, urea 109.3 mg/dL, creatinina 2.45 mg/L, sodio 137 mmol/l, potasio 4.2 mmol/L.
+
+-Analitica de control 24/11/17:
+HEMOGRAMA:  7300 leucocitos (63.5%N); Hb 11.4, Hto 34.0, Plaquetas 130000
+TP 51% INR 1.68
+EAB: pH 7.39, pCO2 44.0, HCO3 26.6, EB 1.3
+BIOQUÍMICA: glucosa 102, urea 63.0, creatinina 1.68, Na 139.0, K 4.2, Cl 107.0, Prot T  62.0, Ca 2+ 8.9, Bil 0.45,
+ALT 10, Amilasa 67, Lipasa 21, PCR 2.20, CK 42, Digoxinemia 1.20
+
+
+-	Sedimento de orina: no patológico.
+
+-	Rx de tórax: no se observan condensaciones parenquimatosas ni derrame pleural. Sin cambios respecto a Rx previas.
+-	Rx de abdomen: se observa aire y heces en marco cólico sin otras alteraciones.
+
+EVOLUCIÓ CLÍNICA
+Se orienta como gastroenteritis aguda con deshidratación y probable insuficiencia renal prerrenal secundaria, por lo que se inicia tratamiento con sueroterapia, analgesia y antiemético. Durante su estancia en urgencias se ha mantenido con cifras tensionales correctas y afebril, presentando ligera mejoría clínica. Se realiza una analítica de control que muestra una leve mejoría de la creatinina de 2.45 mg/dL (previa 2.75 mg/dL), por lo que se propone para traslado a la Unidad de Observación para continuación del tratamiento y evolución. Durante su estancia en UNIDAD DE OBSERVACIÓN presenta una evolución clínica favorable, sin más deposiciones diarreicas. Se realiza analítica de control con mejoria de los parámetros. Dada la estabilidad clínica y hemodinámica de acuerdo con el paciente y la familia damos de ALTA recomendando proseguir tratamiento en domicilio aconsejando control por Médico de Familia y resto de Médicos Especialistas Habituales.
+
+Informe d'alta d'hospitalització
+
+
+
+DIAGNÒSTICS
+558.9/1 Gea gastro-enteritis aguda
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+ABUNDANTE INGESTA HÍDRICA DIETA ASTRINGENTE
+RESTO DE TRATAMIENTO HABITUAL SIN CAMBIOS.
+
+CONTROL
+ACUDIR A CONTROL DE SINTROM HOY POR LA TARDE YA PROGRAMADO.
+CONTROL POR MÉDICO DE FAMILIA Y RESTO DE MÉDICOS ESPECIALISTAS HABITUALES ACUDIR DE NUEVO SI INCIDENCIAS.
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+24.11.2017
+Pàgina 1 de 3

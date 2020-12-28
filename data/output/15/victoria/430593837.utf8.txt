@@ -1,0 +1,125 @@
+SERVEI DE NEUROLOGIA
+INFORME DE ALTA
+Unitat d`IctusNº Historia clínica	_ID_
+Fecha de nacimiento
+_DATE_
+C.I.P.	_ID_	Código Centro	_ID_
+Teléfono	_CONTACT_	Dirección	_LOCATION_
+Fecha ingreso	15/10/17		_LOCATION_
+Fecha de alta	17/10/17	Teléfono	_CONTACT_
+Nº Asistencia	_ID_		
+UH	_ID_		
+
+DIAGNÓSTICOS:
+1.	ICTUS ISQUÉMICO (PACI) DE ACM IZQUIERDA
+2.	FIBRINOLISIS EV CON rtPA
+3.	ACXFA DE DEBUT
+4.	HTA
+5.	DISLIPEMIA
+6.	VALVULOPATÍA MITRAL
+
+Paciente 73 años. Independiente, mRS 0. Vive con su esposa. No alérgias medicamentosas conocidas. No hábitos tóxicos.
+
+
+PROCEDIMIENTOS:
+-	Fibrinolisis ev con tPA
+-	TC craneal (x2) + angioTC
+-	Ingreso en Unidad de Ictus
+
+ANTECEDENTES:
+-	HTA en tratamiento con amlodipino y enalapril
+-	Dislipemia en tratamiento con simvastatina
+-	Insuficiencia mitral moderada. Ecocardiograma junio/16:VI no dilatado con hipertrofia septal ligera.
+FEVI conservada sin alteraciones de la contractilidad
+segmentaria. AI dilatada. Raíz aórtica y aorta ascendente normales.Vávlula aórtica trivalva con esclerosis. Funcionalmente normal. Válvula mitral de aspecto degenerativo con fibrosis y calcificaciones focales a nivel de los velos. Se objetiva prolapso del velo anterior mitral que condiciona una insuficiencia mitral moderada con jet de regurgitación excéntrico dirigido hacía la pared posterolateral de la aurícula izquierda. Insuficiencia tricuspídea ligera que permite estimar una PAPs dentro de límites normales. VCI no dilatada con variaciones repirofásicas conservadas. Ausencia de derrame pericárdico.
+-	Hipertrofia benigna de próstata, en tratamiento con mirabegron (betmiga)
+
+Tratamiento habitual: paracetamol 1g/8h, plantago ovata 1c/24h, simvastatina 20mg/24h,  betmiga (mirabegron) 50mg/24h, AAS 100mg/24h, amlodipino 1c/24h, enalapril 5mg/24h, omeprazol 20mg/24h
+
+ENFERMEDAD ACTUAL:
+Traído a Urgencias como código ictus extrahospitalario el día 15/10/2017, por presentar a las 15:20 horas cuadro súbito de desviación de la comisura bucal importante, imposibilidad para emitir lenguaje y pérdida de fuerza en hemicuerpo derecho.
+Llega a UCIAS a las 15:55 horas y se activa código ictus intrahospitalario.
+
+EXPLORACIÓN FÍSICA:
+- Exploración física en UCIAS:
+TA 141/82, FC 60lpm, Tª 35ºC, Glicemia basal 70. SatO2 97% basal. AR: murmullo vesicular conservado, sin ruidos añadidos
+AC: tonos cardíacos arrítmicos a unos 60 lpm
+Abdomen: blando y depresible, no doloroso a la palpación
+Neurológico: paciente consciente, desorientado (no dice mes ni edad (2), obedece órdenes simples pero
+
+
+Nombre	_NAME_
+
+no complejas (1). No disartria. Nomina 0/5, evoca 0/3 y repite 3/3 (2). Cuandrantanopsia  inferior derecha (1), MOEs conservados. Paresia facial derecha (1), resto PPCC conservados.  Paresia ESD claudicando sin llegar a la horizontal (1). Miller-fisher asimétrico. Mingazzini sin alteraciones. Anestesia hemicuerpo derecho (2) RCPFB. NIHSS 10.
+
+- Exploración física en Unidad de Ictus: TA 147/71, FC 70, Tª 35.5, SatO2 98%.
+Test de disfagia: negativo Monitorización ECG: fibrilación auricular.
+Neurológico: consciente y orientado en las tres esferas, obedece órdenes sencillas y complejas. Nomina 3/5 con alguna parafasia, repite sin problemas (1), sin disartria. No hay alteraciones pupilares ni desviación de la mirada, no restricciones de MOEs. Campimetría por confrontación sin alteraciones. No paresia facial, resto de PPCC también normales. Fuerza conservada en todas las extremidades, ligera hipoestesia hemicuerpo derecho (1). No hay dismetrías. NIHSS 2
+
+EXPLORACIONES COMPLEMENTARIAS:
+-	Analítica UCIAS (15/10/17): glucosa 72, creatinina 0.79, FG 89, sodio 140.1, potasio 4.12, cloro 106.7,
+CK 197, PCR 0.1. Hemoglobina 13.3, hematocrito 38.7%, VCM 91.7, leucocitos 5.34, neutrófilos 2.91
+(54.5%), plaquetas 171. TP ratio 1.05, TTPa ratio 0.97, fibrinógeno 284.3.
+-	ECG: fibrilación auricular a 68lpm, eje cardíaco a -30º (HBAS), QRS estrecho, sin supra ni infradesnivelaciones en segmento ST, ondas T negativas en DIII y aVF
+-	TC craneal basal (15/10/17; 16:04h): sin focos hemorrágicos agudos intra o extraparenquimatosos.  Sin evidencia TC valorable de signos de infarto hiperagudo en territorio anterior (ASPECTS 10). No se observan alteraciones en el aspecto ni en la densidad del parénquima cerebral y cerebeloso que orienten sobre la localización de una posible focalidad isquémica aguda/subaguda en el momento actual. Surcos de la convexidad, sistema ventricular y cisternal de tamaño y morfología normales.
+Estructuras de la línea media centradas. Cisternas basales libres.
+-	TC craneal perfusión: se identifica asimetría en los mapas de tiempo, con área de  hipoperfusión parietal izquierda, correspondiente a región M5 de clasificación ASPECTS (en menor grado también M2), observándose tiempo máximo y tiempo
+de tránsito medio alargados. Existe asimismo leve asimetría en los mapas de volumen (CBV), con flujo levemente disminuído en área mencionda (región M5 ASPECTS) respecto al resto de parénquima y mínima
+disminución de volumen. La diferencia entre el tamaño del área hipoperfundida y el CBV sugieren presencia de área en penumbra, de difícil valoración en mapas de clasificación de tejido.
+-	AngioTC basal: no se observan oclusiones vasculares ni defectos de repleción que sugieran procesos tromboembólicos en territorio proximal en principales arterias cerebrales (hasta nivel M2 de  arterias cerebrales medias). Vascularización intracerebral sin asimetrías significativas
+Arterias carótidas y sistema vertebrobasilar permeable y de calibre conservado.
+-	Analítica de ingreso: Urea 35mg/dl, Creatinina 0.97mg/dl, Á Úrico 6.5mg/dl, Na 139 mmol/l, K 4.2mmol/l, C l 101 mmol/l, FG 77ml/min/1.73m2, LDH 268 U/l, CK 64 U/l, Bi total 0.6, AST 22U/l, ALT 27U/l, GGT 30U/l, FA 55U/l, Proteines 6.2g/dl, Albúmina 4.1g/dl, Colesterol 155mg/dl, Colesterol LDL 93mg/dl, Colesterol HDL 48 mg/dl, Trigliceridos 177mg/dl, TSH 1.70 mcUl/ml, Hb 5.3%, PCR 0.10mg/dl, Hb 13.6g/dl, Leucocitos 5440/ul, Neutrofilos 3340/ul, Plaquetas 172000/ul, TP 86%, INR 1.07
+
+-	TC craneal control (16/10/2017, 11:42h):): Infarto isquémico agudo establecido fronto-opercular izquierdo, en territorio de división anterior de ACM izquierda. No se observa transformación hemorrágica.
+
+EVOLUCIÓN:
+Se trata de un paciente de 73 años, con antecedentes de dislipemia, hipertensión arterial e insuficiencia
+mitral con prolapso valvular que presenta cuadro compatible con ictus de ACM izquierda de probable causa cardioembólica (debido a FA de novo).
+Sin que existan contraindicaciones para fibrinólisis EV se inicia bolus calculado para 75kg a las 16:05 horas, con tiempo puerta-aguja de 10 minutos.
+Al finalizar la infusión muestra mejoría clínica persistiendo dificultad para nominar y evocar, afasia (1) e hipoestesia derecha (1). NIHSS 2.
+
+El paciente ingresa en Unidad de Ictus para monitorización clínica. Se realiza TC craneal de control que muestra lesión hipodensa insular izquierda sin transformación hemorrágica.
+Se valoran al ingreso el estado de ánimo, las necesidades de rehabilitación y se inician fisioterapia y movilización precoces.
+Durante el ingreso evoluciona de forma favorable, manteniéndose asintomático al alta. Durante  el ingreso se realiza educación sanitaria acerca del ictus.
+No presenta complicaciones, y dada la estabilidad clínica se decide alta a domicilio. No precisa rehabilitación al alta.
+
+Al alta se inicia tratamiento anticoagulante con acenocumarol (Sintrom). Se ajusta la pauta por el servicio de Hematología (2mg/d alternando con 1mg/d) para ajustar pauta a INR 2-3.
+Debe realizarse valoración por su cardiólogo para evaluar la indicación de ACODs, dada la valvulopatía de base.
+Etiología TOAST cardioembólico, Oxford PACI. Al alta NIHSS 0, Rankin 0.
+Debe seguir controles en CCEE de Neurología y Hematología en fecha programada.
+
+
+
+
+ÍNDEX BARTHEL ALTA : 84.
+
+TRATAMIENTO:
+-	SINTROM 4 MG
+1/4 comp al día martes 17/10 1/2 comp al día miércoles 18/10 control jueves 19/10
+
+-	Retirar AAS 100 mg
+-	Resto de tratamiento habitual sin cambios.
+
+INDICACIONES:
+-	Se recomienda control estricto de enfermedades que aumentan el riesgo de ictus: hipertensión arterial, diabetes, colesterol elevado (dislipemia) y enfermedades del corazón. Realizar el tratamiento de forma adecuada según las recomendaciones de su médico.
+-	Abstención de tabaco y alcohol
+-	Seguir una dieta adecuada, con poca sal, evitando grasas, especialmente las saturadas  (grasas animales, aceites y grasas para cocinar).
+-	Evitar la obesidad y el sobrepeso y realizar ejercicio físico moderado de forma regular.
+
+Dr/a.	_NAME_
+Dr/a.	_NAME_
+Dr/a.	_NAME_
+Cap Secció	(Nº Colegiado : _ID_)
+Metge/essa
+Resident
+(Nº Colegiado : _ID_)
+Metge/essa
+Resident
+(Nº Colegiado : _ID_)
+
+
+Les seves dades personals s'incorporen en un fitxer d´usuaris a fi del seu tractament sanitari. Pot exercir el seu dret d´oposició, accés i rectificació de les dades inexactes dirigint-se al Servei de Documentació Clínica.
+Sus datos personales se incorporan en un fichero de usuarios para su tratamiento sanitario. Puede ejercer su derecho de oposición, acceso y rectificación de los datos inexactos dirigiéndose al Servicio de Documentación Clínica
+
+_SS_ | NIF _ID_ |_LOCATION_ | Telèfon _CONTACT_ | Fax _CONTACT_ | _CONTACT_
+Pàgina 1 de 4

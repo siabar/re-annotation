@@ -1,0 +1,122 @@
+_LOCATION_
+Telèfon: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 84 anys
+NIF/DNI: _ID_Adreça	_LOCATION_	CP	_LOCATION_
+Telèfon	_CONTACT_; _CONTACT_ GENDRE; _CONTACT_ ABS	_SS_
+Procedència	DOMICIL/RES.SOC	Servei	NEUROLOGIA
+Data d'ingrés  07.03.2017	Data d'alta  16.03.2017	10:00:00
+Atès per	Dra. _NAME_/Dr. _NAME_
+Informe d'alta d'hospitalització
+
+
+MOTIU D'INGRÉS
+Alteración de la articulación del lenguaje
+
+ANTECEDENTS
+Varón de 84 años, No AMC.
+Situación basal: independiente para las actividades básicas de la vida diaria. Rankin 0.
+
+ANTECEDENTES MÉDICOS
+-	Hipetensión Arterial
+-	Hipertrofia benigna de próstata
+
+MEDICACIÓ HABITUAL
+Dogmatil 50 1/24h. Duodart. Omeprazol 20mg/24h.
+
+PROCÉS ACTUAL
+El día 07/03/2017 sobre las 3am y presenta alteración de la marcha por debilidad de pierna izquierda y esta mañana, al despertarse presenta la misma debilidad acompañado de alteración de la articulación del lenguaje y desviación de la comisura bucal.
+
+EXPLORACIÓ FÍSICA
+
+FC	70 bpm
+Tªaxi 36.0 ºC
+FR	rpm Tªrec  ºC
+TA s	119 mmHg SAT O2 98 %
+TA d   74 mmHg Pes Kg
+
+Normohidratado y normoperfundido. AC: tonos rítmicos, no soplos
+AR: buena entrada de aire bilateral.
+Abd  blando,  depresible,  no  doloroso  a  la  palpación.  Peristaltismo  conservado  sin  signos  de  irritación peritoneal.PPL bilateral negativo. No IY, No RHY.
+Pulsos periféricos presentes y simétricos. No edemas
+
+Exploración neurológica: consciente orientado. Disartria (1). No hemianopsia. Paresia facial izquierda (1). Resto pares craneales normales. Fuerza 4/5 en hemicuerpo izquierdo.
+NIHSS total 3
+
+EXPLORACIÓ COMPLEMENTÀRIA
+EXPLORACIONES EN URGENCIAS
+
+Analítica: sin alteraciones significativas
+
+Informe d'alta d'hospitalització
+
+
+
+
+ECG: ritmo sinusal, PR normal. QRS estrecho. No alteraciones agudas de la repolarización.
+
+Rx tórax: sin alteraciones significativas
+
+TC craneal: Atròfia difusa i leucoencefalopatia. Ocupació mucosa de cel·les etmoïdals i engruiximent mucós de si maxi·lar dret.
+
+
+EXPLORACIONES EN PLANTA DE NEUROLOGÍA
+
+-	Analítica de ingreso: sin alteraciones significativas. Perfil lipídico y HbA1C normales.
+
+-	Cultivo de esputo: pendiente
+
+-	Rx tórax de control: sin alteraciones parenquimatosas.
+
+-	RM cerebral + angio-RM: Infarto en evolución en la protuberancia. Signos de atrofia cerebral global. Alteraciones hipóxico-isquémicas en sustancia blanca supratentorial;
+
+-	Dúplex TSA: en el rango de la normalidad.
+
+EVOLUCIÓ CLÍNICA
+Varón de 84 años, rankin 0, HTA. Acude a urgencias por clínica de alteración de la marcha en conetxto de hemiparesia izquierda + disartria (NIHSS 3). ECG ritmo sinusal. Analítica y TC Craneal sin alteraciones. Con la sospecha de ictus isquémico ingresa en neurología para estudio etiológico bajo tratamiento antiagregante.
+
+Durante su evolución en planta de neurología tendencia a la hipertensión que mejora tras añadir antihipertensivos. Desde el punto de vista neurológico mejoría franca. Tolera deambulación y dieta oral. Inicia tratamiento rehabilitador neurospecífico.
+Desde el punto de vista neurológico la analítica no muestra altearciones en perfil lipídico ni glicémico. La RM cerebral objetiva infarto isquémico pontino paramediano con estudio vascular de grandes vasos intra y extracraneal normal.
+Como complicaciones presenta esputo hemoptoico. Rx tórax sin cambios respecto a previas. Pte de cultivo de esputo (no clínica infecciosa por lo que no se inicia antibiótico).
+
+Se orienta el caso como ictus isquémico vertebro-basilar (pontino-paramediano) y debido a evolución favorable se decide alta y control en consultas externas de neurología. Seguirá tratamiento antiagregante.
+
+Al alta
+Exploración neurológica: disartria, paresia facial central izquierda, ataxia de la marcha. NIHSS 2
+Rankin 3
+
+DIAGNÒSTICS
+-Ictus isquémico vertebro-basilar (pontino-paramediano)
+-	Esputo hemoptoico autolimitado
+-	
+Informe d'alta d'hospitalització
+
+
+-	Hipertensión Arterial
+-	Hpertrofia benigna de próstata
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+-	Dieta baja en sal
+-	Ejercicio moderado
+-	Adiro 100mg 1 comp/24h
+-	Atorvastatina 40mg/24h
+-	Enalapril 5mg/24h
+-	Omeprazol 20mg/24h
+-	Duodart 1 comp/24h
+
+CONTROL
+Control en consultas externas de neurología. Se le avisará en domicilio Continuará rehabiltiación domiciliaria
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+16.03.2017
+Pàgina 1 de 3

@@ -1,0 +1,98 @@
+T1	_SUG_Lateralizacion 251 252	I
+T3	Fecha_de_ingreso 382 392	07/04/2017
+#3	AnnotatorNotes T3	2017-04-07
+T4	Fecha_de_alta 430 438	21/04/17
+#4	AnnotatorNotes T4	2017-04-21
+T6	_SUG_Lateralizacion 856 863	derecho
+T7	FECHA 865 873	28/03/17
+#7	AnnotatorNotes T7	2017-03-28
+T8	mRankin_previa 984 989	mRS 3
+T10	_SUG_Lateralizacion 1246 1247	e
+T12	Fecha_llegada_hospital 1341 1351	7 de Abril
+#12	AnnotatorNotes T12	2017-04-07
+T13	Hora_llegada_hospital 1363 1368	12.30
+#13	AnnotatorNotes T13	12:30
+T14	_SUG_Lateralizacion 1437 1446	izquierda
+T15	_SUG_mRankin 1568 1573	mRS 3
+T16	_SUG_Lateralizacion 1841 1842	E
+T17	_SUG_Lateralizacion 1898 1907	izquierda
+T18	_SUG_Lateralizacion 1928 1937	izquierdo
+T19	_SUG_Ataque_isquemico_transitorio 1969 1974	ictus
+T20	_SUG_Lateralizacion 2001 2010	izquierda
+T21	_SUG_Lateralizacion 2033 2042	izquierda
+T22	_SUG_Lateralizacion 2077 2086	bilateral
+T23	_SUG_Lateralizacion 2104 2113	izquierda
+T24	NIHSS_previa 2129 2137	NIHSS 13
+T26	Fecha_TAC_inicial 2615 2623	3.4.2017
+#26	AnnotatorNotes T26	2017-04-03
+T27	_SUG_TAC_craneal 2640 2642	TC
+T28	FECHA 2643 2652	28.3.2017
+#28	AnnotatorNotes T28	2017-03-28
+T29	_SUG_Lateralizacion 2793 2800	derecho
+T30	_SUG_Lateralizacion 3034 3041	derecha
+T31	_SUG_Etiologia 3085 3092	lacunar
+T32	_SUG_Localizacion 3085 3092	lacunar
+T33	_SUG_Lateralizacion 3096 3101	ambos
+T34	_SUG_Localizacion 3141 3152	subcortical
+T35	_SUG_TAC_craneal 3363 3365	TC
+T36	FECHA 3375 3383	6.4.2017
+#36	AnnotatorNotes T36	2017-04-06
+T37	_SUG_TAC_craneal 3401 3403	TC
+T38	FECHA 3415 3423	03/04/17
+#38	AnnotatorNotes T38	2017-04-03
+T39	_SUG_Lateralizacion 3458 3467	izquierdo
+T40	_SUG_TAC_craneal 3503 3505	TC
+T41	_SUG_Ictus_isquemico 4052 4059	infarto
+T42	_SUG_Localizacion 4068 4085	parieto-occipital
+T43	_SUG_Lateralizacion 4086 4093	derecho
+T44	_SUG_Lateralizacion 4128 4133	ambos
+T45	_SUG_Lateralizacion 4245 4252	derecha
+T46	_SUG_Ictus_isquemico 4306 4313	infarto
+T47	_SUG_Lateralizacion 4382 4387	ambos
+T48	_SUG_Ictus_isquemico 4430 4437	infarto
+T49	_SUG_Lateralizacion 4507 4514	derecha
+T50	_SUG_Lateralizacion 4581 4590	izquierdo
+T51	_SUG_Lateralizacion 4618 4623	ambas
+T52	_SUG_Hemorragia_cerebral 4698 4708	hemorragia
+T53	_SUG_Lateralizacion 4723 4724	e
+T54	_SUG_Ictus_isquemico 4822 4830	infartos
+T55	_SUG_Localizacion 4991 5001	ventrículo
+T56	_SUG_Lateralizacion 5176 5181	ambas
+T57	_SUG_Lateralizacion 5309 5316	derecha
+T58	_SUG_Lateralizacion 5593 5600	derecha
+T60	_SUG_mRankin 5682 5687	mRS 3
+T61	_SUG_Ataque_isquemico_transitorio 5705 5710	ictus
+T62	_SUG_Ictus_isquemico 5705 5720	ictus isquémico
+T63	_SUG_Arteria_afectada 5742 5745	ACM
+T64	_SUG_Lateralizacion 5746 5753	derecha
+T65	_SUG_Trombolisis_intravenosa 6142 6161	tratamiento con ADO
+T66	_SUG_Lateralizacion 6350 6359	izquierda
+T67	_SUG_Lateralizacion 6385 6394	izquierda
+T68	_SUG_Lateralizacion 6408 6417	izquierda
+T69	NIHSS_alta 6579 6586	NIHSS 9
+T70	mRankin_alta 6587 6592	mRS 4
+T72	Ictus_isquemico 6620 6635	Ictus isquémico
+T73	Arteria_afectada 6656 6659	ACM
+T74	Lateralizacion 6660 6667	derecha
+T75	Etiologia 6688 6701	indeterminada
+T76	_SUG_Lateralizacion 6747 6752	Dieta
+T77	FECHA 7250 7260	21/04/2017
+#77	AnnotatorNotes T77	2017-04-21
+T79	SECCION_MOTIVO_DE_INGRESO 441 459	MOTIVO DE CONSULTA
+T80	SECCION_ANTECEDENTES_PERSONALES 527 550	ANTECEDENTES PERSONALES
+T81	SECCION_SITUACION_FUNCIONAL 876 900	Situación sociofuncional
+T82	SECCION_TRATAMIENTO_HABITUAL 991 1009	Tratamiento actual
+T83	SECCION_PROCESO_ACTUAL 1272 1289	ENFERMEDAD ACTUAL
+T84	SECCION_EXPLORACION_FISICA 1576 1598	EXPLORACIÓN FÍSICA. EO
+T85	SECCION_EXPLORACIONES_COMPLEMENTARIAS 2141 2170	EXPLORACIONES COMPLEMENTARIAS
+T86	SECCION_EVOLUCION 5603 5612	EVOLUCIÓN
+T87	SECCION_DIAGNOSTICOS 6595 6618	ORIENTACIÓN DIAGNÓSTICA
+T88	SECCION_TRATAMIENTO_AL_ALTA 6734 6745	TRATAMIENTO
+T2	Localizacion 6669 6673	PACI
+T5	TAC_craneal 2603 2613	TC craneal
+#1	AnnotatorNotes T8	3
+#2	AnnotatorNotes T24	13
+#5	AnnotatorNotes T69	9
+#6	AnnotatorNotes T70	4
+T9	Tratamiento_antiagregante_hab 1139 1150	Clopidogrel
+T11	Tratamiento_antiagregante_alta 6813 6825	Clopidrogrel

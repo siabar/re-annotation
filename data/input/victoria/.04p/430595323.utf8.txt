@@ -1,0 +1,99 @@
+I.CLINIC DE NEUROCIÈNCIES NEUROLOGIA
+
+_NAME_		NHC: _ID_
+Sexo/Sexe: Masc.	Fecha nac./Data naix.: _DATE_	Edad/Edat: 70 años
+Dirección/Adreça: _LOCATION_		CP: _LOCATION_
+Municip. (Prov.): _LOCATION_  ABS:_SS_		Tel.:_CONTACT_
+As.: SERVEI CATALA DE LA SALUT	CIP: _ID_	NASS: _ID_
+Nº epis.: _ID_	Tipo/Tipus: HOSPIT.	Inici.: 05.10.2017
+Serv: NEUROLOGIA	UO Enf.: G064 SALA G DE NEUROLOGIA	Hora: 04:05:46
+Facult. de ref.: _NAME_		
+
+
+Tipo ingreso/Tipus ingrés: Urgent	Motivo/Motiu alta: Hospital Ag.
+Diag.:
+ICTUS ACMI () BRONCOASPIRACIÓN () ITU E.COLI BLEA ()
+Proc.:
+RMN CRANEAL () ECO-DOPPLER TSA () TC CEREBRAL ()
+ANALÍTICA SANGUÍNEA () RX DE TÓRAX () ECOCARDIOGRAMA ()
+
+
+
+
+INFORME CLÍNICO ALTA / INFORME CLÍNIC ALTA
+
+Motivo de consulta / Motiu de consulta
+Alteración del lenguaje y paresia braquial de inicio súbito.
+
+Antecedentes e historia previa / Antecedents i història prèvia
+Antecedentes personales: Hombre de 70 años, sin alergias medicamentosas conocidas ni hábitos tóxicos. Deambula con silla de ruedas debido a lesión medular. Parcialmente dependiente para la vida diaria (mRs 3). Extrabajador de la ONCE.
+
+*ANTECEDENTES PATOLÓGICOS:
+1-	SÍNDROME DEPRESIVO hace años, actualmente persiste tratamiento con alprazolam.
+2-	LESIÓN MEDULAR tras acccidente a los 14 años, desde entonces deambula con una muleta o en silla de ruedas en grandes distancias.
+3-	VEJIGA NEURÓGENA secundaria a (2), por lo que requiere sondajes de descarga. Ha presentado múltiples episodios de sepsis urinaria.
+4-	EPISODIO DE AFASIA TRANSITORIA (febrero 2016), con estudio dentro de la normalidad. Fue dado de alta sin tratamiento antitrombótico, orientado como secundario a fiebre por infección urinaria.
+5-	LITIASIS  URETERAL IZQUIERDA, requiriendo LEOC  (litotricia  extracorpórea)  en varias  ocasiones.  En seguimiento en otro centro.
+
+*MEDICACIÓN HABITUAL: Alprazolam 0,25 mg/12h.
+
+Proceso actual / Procés actual
+Paciente última vez visto asintomático a las 23.30h del 04/10. A las 02.30h es encontrada afásico y con paresia de brazo derecho. Recogido por SEM, es llevado a _SS_ como código ictus.
+
+Exploración física / Exploració física
+05/10/2017-05:00:00: Frecuencia respiratoria (rpm) 19, PAS (mm Hg) 177, PAD (mm Hg) 84, Pulsioximetría (%) 97. 05/10/2017-06:00:00 : Tª axilar ( ºC) 36.9. 05/10/2017-07:30:00 : Glicemia capilar (mg/dl) 137. 06/10/2017 -08:00:00 : FiO2 (%) 35. 06/10/2017-17:25:46 : Peso (Kg) 60, Talla (cm) 162.
+NRL: Alerta, afasia global (no nomina, no repite, no sigue órdenes). Disartria moderada. Reflejo por amenaza drcho ausente. Mirada conjugada sin limitaciones. Hemiparesia facio (leve)- braquial (0/5) drcha. Paraparesia crural 2/5 bilateral. Sensibilidad sin alteraciones. No dismetrías. NIHSS 14.
+
+Exploraciones complementarias / Exploracions complementàries
+05/10/2017.
+
+*	ANALÍTICA SANGUÍNEA: Sin alteraciones a destacar.
+*	TC CEREBRAL MULTIMODAL: No se observa hemorragia intra ni extraaxial. No se observan lesiones isquémicas parenquimatosas subagudas ni otras lesiones isquemicas crónicas. TC PERFUSIÓN: Retraso parcheado del territorio de la ACMI con extensión occipital sin alteración de los mapas CBV y CBF. ANGIO-TC EXTRA E INTRACRANEAL: Ateromatosis de la aorta torácica y troncos supraaórticos. Estenosis de aprox 50-60% del bulbo carotídeo izquierda  por placas blandas. Distalmente la ACI ACMI y  sus ramas estan permeables. ACMD, ACA y sistema vertebrobasilar permeable.
+*	Urocultivo: Se aísla E. coli BLEA y K. oxytocica multisensible.
+*	ECO-DOPPLER DE TSA y de VASOS INTRACRANEALES:
+1. Asimetria del 50% la arteria cerebral media distal (I<D). 2. No se visualiza ACA derecha. 3. No se visualiza el segmento extracraneal más proximal de las dos arterias vertebrales, ni segmento dretintracraneal ni la arteria basilar, possiblemente por dificultad técnica. 4. Aumento difuso de la pulsatibilidad.
+*	RX DE TÓRAX: Condensación en LII sugestivo de neumonía.
+
+*	RMN CEREBRAL Y ANGIO-RMN: Lesión isquémica aguda cortical en la convexidad frontal y parietal izda. Lesión lacunar aguda en el núcleo caudado izquierdo. Pequeño foco de hiposeñal en T2 a nivel parietal izdo que podría traducir depósito de hemosiderina versus transformación hemorrágica petequial del infarto. Pequeño hematoma crónico en los ganglios basales derechos. Ausencia de señal de flujo en el segmento M2 izdo y sus ramas hemisféricas.
+*	ANALÍTICA SANGUÍNEA EN SALA: Elevación de los reactantes de fase aguda con leucocitosis.
+
+Evolución / Evolució
+1. ICTUS EN TERRITORIO DE LA ARTERIA CEREBRAL MEDIA IZQUIERDA (ACMI) SUPERFICIAL. 2. NEUMONÍA BRONCOASPIRATIVA. 3. PARAPARESIA. LESIÓN MEDULAR a los 14 años. 4. ITU POR E.COLI BLEA Y K. OXYTOCICA
+A su llegada se encuentra hipertenso (TA 190/105 mmHg) y afebril. Exploración con afasia global, así como hemianopsia drcha y plejía braquial drcha, aparte de su paraparesia ya conocida, NIHSS 14. Se decide activar código ictus y se realiza TC multimodal, que no muestra alteraciones en secuencia basal, angioTC con estenosis 50-60% de carótida interna (ACI) y perfusión con retraso del TTP en gran parte del territorio carotídeo, sin caída de volumen. Analítica sanguínea sin alteraciones a destacar. Monitorización cardíaca en ritmo sinusal.
+Ante ausencia de contraindicaciones, se decide administrar fibrinólisis. Debido a cifras tensionales elevadas que requieren administración de bolus de labetalol se decide para la perfusión poco antes de que finalice, sin cambios clínicos posteriormente.
+Durante el ingreso en la Unidad de Ictus, el día 5/10 presenta empeoramiento del síndrome hemisférico izquierdo con NIH de 21 puntos y se completa la misma mañana estudio con RM craneal y angio-RM arterial que confirman ictus en territorio superficial de ACMI con oclusión de rama parietal, sin otras alteraciones
+
+
+
+relevantes. Después de realizar la RM presenta un vómito alimentario con posterior pico febril de hasta 39ºC, roncus y crepitantes en base izquierda, analítica con elevación de reactantes de fase aguda y radiografía de tórax con neumonía basal izquierda. Se pauta antibioterapia con ceftriaxona y clindamicina, que se cambia posteriormente a piperacilina-tazobactam al hallarse en urocultivo E.coli BLEA y K.oxytocica.
+El paciente es trasladado a sala, donde se mantiene hemodinámicamente estable y afebril. Se cambia antibioterapia por meropenem por E. coli BLEA en orina, con buena respuesta analítica. A nivel neurológico, el paciente presenta notable mejoría de la clínica, con desaparición de la afasia y hemianopsia, junto con mejoría de la clínica motora, quedando fuerza en ESD de 1/5 y de 4/5 en ambas extremidades inferiores.
+Se solicita ecocardiograma, sin alteraciones estructurales ni en la motilidad.
+De esta manera, ante estabilidad de cuadro neurológico, se decide traslado a _SS_ para recuperación funcional.
+NIHSS al alta: 4 puntos TOAST: Indeterminado. Rankin al alta: 4 puntos.
+
+Plan terapéutico / Pla terapèutic
+Atorvastatina krka 40 mg Nobritol, 60 cápsulas. Alopurinol normon 300 Acido acetilsalicilico aristo 100 mg Clexane 4000 u.i. (40 mg) Enalapril ratiopharm 10 mg . Cada 12 horas. Alprazolam mylan 0,5 mg Amlodipino ratiopharm 5 mg comprimidos efg , 30 comprimidos. 5 MG. Vía oral. Cada 12 horas. Atrovent 20 microgramos solucion para inhalacion en envase a presion, 1 inhalador de 200 dosis. 1 MCG. Vía inhalatoria. Cada 8 horas.
+
+Otras recomendaciones / Altres recomanacions
+Traslado a _SS_ para recuperación funcional.
+
+
+
+Firma/Signatura1: _NAME_	Firma/Signatura2: _NAME_ Categoría: Resident 2	Categoría: Consultor/a 1
+Nº Matrícula _SS_: _ID_	Nº Matrícula _SS_: _ID_
+
+Fecha/Data Informe: 17.10.2017
+Hora Informe: 14:53:56
+
+Docum.: _ID_
+Hist. Clínica: _ID_
+El _SS_ ha incorporado sus datos al Fichero de Pacientes, para tratarlos con fines sanitarios.
+Puede ejercer sus derechos de acceso, rectificación, cancelación y oposición, así como obtener mas información en la Unidad de Atención al Cliente.
+Vers. 00
+Pag. 2 de
+3
+Episod.: _ID_
+_SS_ ha incorporat les seves dades al Fitxer de Pacients, per a tractar-los amb finalitats sanitàries. Pot exercir els seus drets d'accés, rectificació, cancel·lació i oposició, i obtenir més informació a la Unitat d'Atenció al Client.
+_SS_
+_LOCATION_) _LOCATION_) Tel. _CONTACT_ Fax _CONTACT_
+http://_CONTACT_/

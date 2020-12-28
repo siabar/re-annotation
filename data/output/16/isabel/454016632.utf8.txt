@@ -1,0 +1,156 @@
+_LOCATION_
+email: _CONTACT_ Telèfon _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 77 Anys
+NIF/DNI: _ID__NAME_; _NAME_; _NAME_
+Informe de Trasllat a Sociosanitari
+15:37:02
+27.12.2017
+_LOCATION_
+_SS_ NEUROLOGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_
+DOMICIL/RES.SOC 28.11.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Mujer de 77 años que es derivada como código ictus.
+
+ANTECEDENTS
+Sin alergias medicamentosas conocidas.
+
+-Hipertensión arterial esencial en tratamiento farmacológico.
+-Osteoporosis en tratamiento con calcio y vitamina D. Última DMO (2012): osteopenia columna lumbar y fémur: T score -2.4 y -1.2 respectivamente.
+-Cefalea primaria episódica de joven, posteriormente disminuyó de frecuencia.
+
+Intervenciones quirúrgicas: 	
+-Histerectomía y doble anexectomía por mioma.
+-Cáncer de mama (2009). Intervenida mediante tumorectomía y exéresis de ganglio centinela, y quimioterapia + radioterapia adyuvante.
+
+Antecedentes familiares: su hermana con 60 años murió de un ictus, y su madre a los 70 y pico también tuvo uno (posteriormente tuvo otro).
+
+Situación sociofuncional: independiente para las ABIVD. No deterioro cognitivo. mRS 0.
+
+MEDICACIÓ HABITUAL
+Calcium Snadoz D (Calcio-Vitamina D) 1000mg/880UI 1/24h, Enalapril 20 mg 1/24h, hidrosaluretil 50 mg 1/24h.
+
+PROCÉS ACTUAL
+Tras ser vista normal por últuima vez por esposo hacia las 8:30h, es encontrada sobre las 14:00h con imposibilidad para la emisión del lenguaje y debilidad de extremidades derechas. Se activa código ictus extrahospitalario por SEM a las 15:03h.
+Los familiares refieren que la última semana había vuelto a presentar cefalea como la suya de antes.
+
+EXPLORACIÓ FÍSICA
+
+En Urgencias:
+Hemodinámicamente estable. TA 157/88, 67 lpm, Sat O2 100% GN.
+NIHSS total de 21  (Vigil, afasia global (2+2+3) DOC I (2) HHD por amenaza (2) Hemiplejía FBC derecha (2+4+4) ) A su llegada afasia global, mutista, con ausencia de comprensión de órdenes (2+2+3), hemianopsia homónima derecha (2) con desviación óculo-cefálica hacia la izquierda (2), paresia  facial supranmuclear derecha (2), hemiplejia derecha (4+4).
+
+A su ingreso en la Unidad de Ictus:
+
+Informe de Trasllat a Sociosanitari
+
+
+
+
+ultimas horas: TAS 119-148mmHg, TAD 57-86mmHg, FC 54-66lpm, T max 37.4C, Sp 99%, Glic 120mg/dL
+AR (anterior): MVC con sibilantes aislados en hemitórax derecho, transmisión de ruidos de vía aérea superior. AC: Vigil, afasia global (7), DOC izquierda (2), probable HHD por amenaza (2), PFC derecha (2) , hemiparesia derecha la ES (4) y EI ( 3) en menor grado. Hipostesia derecha (1).
+NHISS 21
+
+
+EXPLORACIÓ COMPLEMENTÀRIA
+-Analítica urgencias: hipopotasemia 3.09mmol/l. Resto de bioquímica, HGM y coagulación sin alteraciones relevantes.
+-Rx tórax: cardiomegalia, sin signos sugestivos de condensacion
+-ECG: ritmo sinusal a 60lpm, eje -30º, PR 0.20s, QRS estrecho, T negativas asimétricas en V4-5-6. Buena progresión de la R en precordiales.
+-TC craneal multimodal: TC cráneo: No hay lesiones hemorrágicas, aunque se observa borramiento de los surcos con hipointensidad parenquimatosa del ribete insular izquierdo y borramiento de los bordes del núcleo lenticular y el brazo anterior de la cápsula interna (ASPECTS 7/10), con aspecto edematoso del parénquima. Adicionalmente, se observa hiperintensidad de la ACM izquierda en su porción M1, que traduciría un trombo a este nivel (signo de la cuerda). Estructuras de línea media no desplazadas. Cisternas de la base y peritronculares libres. Sistema ventricular conserva un tamaño proporcional a la profundidad de los surcos de la cortical. Cavum vergae como variante de la normalidad. AngioTC: Repleción dificultosa de la arteria carótida común izquierda, marcadamente asimétrico con respecto a la colateral, con defecto de repleción completo a nivel del bulbo, repleción parcial de la ACI a partir de su origen y luego un trombo en T en la bifurcación de la ACI. Se observa relleno de AC izquierda a través de la AComA. La zona de la ACM izquierda presenta buena colateralidad (Calgary 4). Permeabilidad del eje vértebro-basilar. Dominancia del seno transverso y de la vena yugular derecha. TC Perfusión: Área cortico-subcortical temporal y frontal izquierda de aumento del TTP/TTM, con disminución del CBF y preservación de los valores de CBV en la mayoría del territorio afectado, compatible con una área de isquemia con mis-match >20%, restando un área correspondiente a ganglios basales que muestra disminución del CBV. CONCLUSIÓN: TC simple con borramiento e hipodensidad de ribete insular, cápsula interna y núcleo lenticular (ASPECTS 7/10). TC perfusión con extensa área de isquemia en el territorio de la ACM izquierda con missmatch
+>20%, restando un área en núcleos basales izquierdos de teórica isquemia irreversible. Angio-TC con poco relleno de contraste de arteria carótida común izquierda, y trombos a nivel de bulbo carotídeo y de la bifurcación de ACI, (trombo en T).
+-Trombectomía mecánica: Punción femoral derecha introductor 8F lña serie de ACi izquierda muestra oclusión ACM y ACA izquierdas Se realiza 1 pase de solitaire 6x40 en ACm + aspiracion por navien 6F, y dos pases de solitaire 4x20 en Aca LOGRANDO tici 3. mYNX GRIP + COPMRESIVO.
+-Analítica de ingreso: Hematies 4.21 x10E12/L Hemoglobina 13.1 g/dL Hematòcrit 39.0 % Leucòcits 12.20 x10E9/L Neutròfils 86.2%Limfòcits 8.4% Monòcits 5.0% Eosinòfils 0.2% Basòfils 0.2% Plaquetes 258 x10E9/L Glucosa ??121 mg/dL Glicohemoglobina (A1c) 5.6 % Urea 22 mg/dL Creatinini 0.69 mg/dL Filtrat glomerular (estimació segons CKD-EPI) . 84 ml/min/ Urat 4.0 mg/dL Bilirubina 0.91 mg/dL Bilirubina esterificada 0.30 mg/dL sodi 135.9 mmol/L Potassi 3.13 mmol/L Calci  8.7 mg/dL Aspartat-aminotransferasa 22UI/L Alanina-aminotransferasa 12UI/L Fosfatasa alcalina 66UI/L Gamma-glutamiltransferasa 21 UI/L Proteïna 6.1 g/dL Albúmina 3.3 g/dL
+*Colesterol 190 mg/dL Colesterol d'HDL . 59 mg/dL Colesterol d'LDL (càlcul Friedewald). 113 mg/dL Triglicèrid 88 mg/dL
+*Tirotropina 0.575 mU/L Triiodotironina(lliure) 2.16 pg/mL Tiroxina (lliure) 1.22 ng/dL.
+-Telemetría cardíaca 72 horas: se detecta fibrilación auricular.
+-Ecoscopia  cardíaca:  Ventriculo  izquierdo  no  hipertrófico  ni  dilatado.No  alteraciones  en  la  contractilidad
+
+Informe de Trasllat a Sociosanitari
+
+
+
+
+segmentaria ,Fracción de eyección conservada Aurícula Izquierda severamente dilatada.Insuficiencia mitral significativa sin estenosis asociada. Patrón restrictivo transmitral .No se visualiza ateromatosis aórtica.Ausencia de aneurisma de septo interauricular. CONCLUSION:Aurícula Izquierda severamente dilatada.Insuficiencia mitral significativa.
+-ETT: Ventriculo Izquierdo con aumento moderado de grosor miocardico con función sistolica conservada. Insuficiencia mitral moderada (III/IV). Dilatación biauricular moderada. Disfunción diastolica tipo III. Se recomienda solicitar CRM para descarta miocardiopatía restrictiva en paciente con moderado aumento del grosor miocárdico, patrón de llenado restrictivo y moderada dilatación biauricular
+-TC craneal de control 24h: Hematomas en cabeza caudado izquierdo y nucleo lenticular izquierdos, que en conjunto miden 4,5, 1,8 y 4,2 cms (AP, T y CC, respectivamente), con un volumen aproximado de 17 cc. en contexto de transformación hemorrágica de infarto en territorio de ACM izquierda, tratado con trombectomia mecánica 28/11/17. Este hematoma presenta discreto edema perilesional, que condiciona efecto de masa con borramiento de surcos cerebrales adyacentes, compresión de asta frontal de ventriculo lateral izquierdo y discreto desplazamiento de la linea media hacia derecha de 2 mm a nivel de III ventrículo. Persiste borramiento de ribete insular izquierdo, sin cambios respecto a previo. Sistema ventricular con contaminación hemática leve, a nivel de ambas astas occipitales de ventrículos laterales. Tambien contaminación hematica en surco interhemisferico anterior y valle de silvio. Cisternas de la base y peritronculares libres. Amígdalas cerebelosas de disposición normal. Estructuras óseas sin alteraciones significativas.
+-Doppler TC de control: ACM simétricas, ACA izquierda sin alteraciones.
+-Hemocultivos 29/11: negativos
+-Sedimento de orina: Leucocitos 66.9 cel/mcL; eritrocitos 29.7 cel/mcL; Bacterias 360 bact/mcL. > 100.000 UFC/mL E coli R a ampicilina, sensible al resto de los antibióticos testados.
+-TC craneal de control 4/12: Estudio TC craneal de control que muestra estabilidad del tamaño con disminución de la densidad de los hematomas de ganglios de la base izquierdos con mejoría del edema perilesional, persistiendo el efecto de masa. No se observan lesiones de nueva aparición. Sin signos de hidrocefalia aguda ni de nuevos infartos. Práctica resolución de la contaminación hemática de sistema ventricular y resolución de la HSA.
+-Analitica de control 7/12: Hb 13.5 g/dL; VCM 92.9 fL; HCM 30.8 pg; Leucòcits 11.700 (Neutròfils 9200, Limfòcits 1500); Plaquetes 377.000; INR 0.99; TQ 102%; Glucosa 92; Urea 47; Creatinini 0.76 mg/dL; FG 76 ml/min/1,73 m2
+Bilirubina tot 0.65; BD 0.26; Na 137.2; K 4.48; Ca 10; AST 32; ALT 37; FA 90; GGT 49; Proteïna 6.4; Albúmina 3.3
+-RM cardiaca: Ventrículo izquierdo ligeramente hipertrófico (TIV 11 mm), no dilatado. Función sistólica conservada, siendo la FE del 67% (VTD 107ml - 61 ml/m² y VTS 35 ml - 20 ml/m²), sin apreciarse alteraciones de la contractilidad segmentaria. Ventrículo derecho de dimensiones y contractilidad normales. Auricula izquierda severamente dilatada (area 39 cm²). Aurícula derecha ligeramente dilatada (área de 24.5 cm²). No se aprecian focos de captación patológicos en el estudio de relace tardío. Aorta ascendente de 3.3 x 3.4 cm de diámetro. No se observa derrame pericárdico. Lesión hepática hiperintensa en secuencia T2, de 1 cm de diámetro, en segmento VIII, sugestiva de pequeño quiste. Extenso lipoma en el vientre muscular el pectoral izquierdo de 12 x 4,5 cm Conclusión: Ventriculo izquierdo de dimensiones normales, sin alteraciones de la contractilidad global ni segmentarias (FEVI 67%). Ausencia de hallazgos sugestivos de miocardiopatía por depósito. Dilatación biauricular, de predominio izquierdo. Extenso lipoma pectoral izquierdo.
+-Sedimento orina: Leucocits 105.1 cel/mcL; Eritrocits 10.6 cel/mcL; Celules  epitelials 5.7 cel//mcL; Cilindres hialins 0 cil/mcL; Bacteris 1047 bact/mcL. Urocultivo: Enterobacter cloacae R a amoxicilina-calvulanico y cefuroxima; E. Coli sensible a todos los ATB testados.
+-TC craneal 22/12: No se observan signos de hemorragia aguda intra o extra-axial. Sin desplazamientos significativos de estructuras de la linea media. Resolución de componente hemorrágico ganglio basal izquierdo con persistencia de discreto edema que condiciona compresión de asta frontal y cuerpo de VL izquierdo, con reexplasión de ventrículos laterales, en relación a estudio previo. Resto de sistema ventricular de tamaño normal.
+
+Informe de Trasllat a Sociosanitari
+
+
+
+
+Hipodensidades frontal izquierdo y de ganglios basales ipsilaterales, en relación a infarto establecido de territorio superficial y profundo de ACM izquierda. Resto de parénquima cerebral supra e infratentorial sin alteraciones densitométricas valorables. Cisternas de la bae y peritronculares libres. Amígdalas cerebelosas de disposición normal. Estructuras óseas sin hallagos significativos. Conclusión: Resolución de componente hemorrágico ganglio basal izquierdo con persistencia de discreto edema que condiciona compresión de asta frontal y cuerpo de VL izquierdo, con reexplasión de ventrículos laterales, en relación a estudio previo. Sin nuevos focos de sangrado. Hipodensidades frontal izquierdo y de ganglios basales ipsilaterales, en relación a infarto establecido de territorio superficial y profundo de ACM izquierda.
+-Analítica de control 22/11: sin alteraciones relevantes.
+
+EVOLUCIÓ CLÍNICA
+A su llegada (15:11h) hemodinámicamente estable, con clínica de ictus compatible con síndrome completo de la circulación anterior izquierda, con NIHSS de 21. Se realiza TC craneal multimodal que muestra un ASPECTS de 7/10, visualizándose en angioTC trombo en la carótida interna terminal izquierda y mismatch significativo en dicho territorio, por lo que se decide tratamiento endovascular primario (fibrinolítico desestimado por inicio indeterminado de >4.5h). Llaga a sala a las 15:32h clínciamente sin cambios y hemodinámciamente estable. Tras punción femoral derecha a las 15:40h, en primera serie extracraneal se objetiva permeabilidad de ACI I extracraneal. En 1ª serie intracraneal se objetiva oclusión proximal de segmento 1 proximal de ACM I (TICI 0, 16:01h) y de ACA-2 I. Se realiza un pase sobre ACM I consiguiendo recanalización compelta de ACM (TICI 3, 16:08h) y dos pases sobre ACA I consigueindo recanalziación completa (16:30h). Se finaliza procedimiento a las 16:45h e ingresa en la Unidad de Ictus.
+A su ingreso en la Unidad de Ictus sin cambios clínicos. El ECG muestra un bloqueo auriculoventricular de primer grado, y T negativas asimétricas en V4-6. Se realiza TC craneal de control a las 24h en el que se evidencia transformación hemorrágica a nivel de ganglios basales izquierdos con discreto edema perilesional y efecto masa  y compresión del asta frontal del VL ipsilateral, con desviación 2mm línea media y discreta contaminación intraventricular. Se solicita analítica de ingreso en la que destaca hipopotasemia de 3.1mmol/l, que se normaliza con tratamiento de reposición vía oral. Para completar estudio se realiza Telemetría de 72 horas en el que se detecta Fibrilación auricular; y Ecoscopia cardíaca en la que destaca una aurícula izquierda severamente dilatada con insuficiencia mitral significativa, por lo que solicitamos Ecocardiografía transtorácica que muestra moderado aumento del grosor miocárdico con patrón de llenado restrictivo. Se solicita RM cardiaca que evidencia FEVI 67% sin objetivarse hallazgos sugestivos de miocardiopatíapor depósito. Durante su estancia presenta varios episodios de RAO por lo que necisita sondaje vesical y presenta febrícula 37.9ºC por lo que se cursan hemocultivos que resultan negativos; Rx de tórax en la que no se visualizan claras condensaciones, y sedimento de orina, que muestra leucocituria y moderada bacteriuria, por lo que realiza tratamiento con amoxicilina-clavulanico.
+Ingresa posteriormente en planta convencional de Neurología para control evolutivo, iniciándose fisioterapia y tratamiento logopédico. Presenta nuevamente febricula realizandose sedimento que resulta patologico con aislamiento de Enterobacter cloacae y E. Coli por lo que realiza tratamiento con ciprofloxacino durante una semana, con buena evolución, manteniéndose por el momento el sondaje vesical (segunda retención aguda de orina 13/12/17; último cambio de sonda 27/12/17). También presenta muguet oral, por lo que se realiza tratamiento antifúngico que deberá mantenerse hasta una semana tras la resolución.
+
+A nivel neurológico, considerada la mejoría sobre todo a nivel de lenguaje, se decide realizar TC de control que muestra resolución del componente hemorrágico gangliobasal izquierdo, por lo que se inicia pauta de anticoagulación (que se adjunta).
+
+Bajo consentimiento informado, la paciente ha entrado en registro ITACAT y registro CryptoFA.
+
+Informe de Trasllat a Sociosanitari
+
+
+
+
+
+Ante estabilidad clínica y hemodinámica se decide derivación de _SS_ para continuar rehabilitación y control evolutivo.
+
+-NIHSS al alta = 12 [Vigil, alerta, no POC/DOC, LOC Q 0/2 ((2), desorientada en tiempo y espacio, parcialmente en persona aunque difícil valoracion por afasia), LOC C 2/2, afasia moderada-severa (2) (hipofluente, nomina 2/3, parafasias, cumple órdenes simples y alguna compleja pero se intoxica, repite), disartria inteligible (1). No déficits campimétricos por confrontación, MOE conservada, PFSN derecha (1), hemiparesia derecha (braquial proximal 2/5 y distal 0/5 (4); crural 4/5 (1)), hemihipoestesia FBC derecha (1)]
+-mRs al alta = 5
+
+
+ORIENTACIÓ DIAGNÒSTICA
+-Ictus isquémico (TACI) de ACM-ACA I de probable etiología cardioembolica en paciente con FA de debut
+-Fibrilación auricular de debut.
+-Infecciones de vías urinarias bajas.
+-Retenciones agudas de orina.
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+PRESCRIPCIÖ A L'ALTA: se adjunta.
+
+CONTROL
+-Realizar el próximo viernes 29 de diciembre CONTROL DEL SINTROM.
+
+-Acudir a visita en CEX Ictus (se la avisará telefónicamente o por carta).
+-Acudir a visita en Consultas Externas de Logopedia (se les avisará telefónicamente o por carta).
+
+DERIVACIÓN A _SS_. Recomendamos intentar retirada de sondaje vesical durante su estancia según evolución y completar tratamiento de muguet oral (mantener hasta una semana tras su resolución).
+
+
+
+DESTINACIÓ A L'ALTA:	SOCI SANITARI
+
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+28.12.2017
+Pàgina 1 de 5

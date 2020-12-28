@@ -1,0 +1,149 @@
+_LOCATION_
+email: _CONTACT_ Telèfon _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 88 Anys
+NIF/DNI: _ID__NAME_; _NAME_; 
+_NAME_
+Informe d'alta d'hospitalització
+15:00:00
+18.10.2017
+_LOCATION_
+_SS_ UNITAT D'ICTUS
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_; _CONTACT_; _CONTACT_; _CONTACT_
+DOMICIL/RES.SOC 17.10.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Mujer de 88 años que es traída como código ictus.
+
+ANTECEDENTS
+Consta en historia clínica dudosa alergia a heparina (reacción urticariforme en 2006 en contexto de fractura tibial que se resolvió con corticoides tópicos; las familiares refieren reacciones urticariformes de contacto con esparadrapo).
+No hábitos tóxicos.
+
+-Dislipemia en tratamiento con estatinas.
+-Flutter auricular atípico. En 2011 recibió tratamiento con amiodarona, sin respuesta. Actualmente anticoagulada con sintrom.
+*ETT 2012: HTVI con función sistólica conservada. Dilatación ligera de la AI. Insuficiencia mitral ligera-moderada.
+-Asma bronquial con episodios de hiperreactividad bronquial en contexto de sobreinfecciones respiratorias. con PFR (julio/2016): FVC 1.56L (73%), FEV1/FVC 72,38, FEV1 1.13L (81%) con prueba brondodilatadora negativa. TC tórax (2007): No masas ni adenomegalias mediastinicas significativas. En tratamiento corticoideo inhalado crónico y broncodilatador a demanda.
+-Neumonía basal derecha con broncoespasmo secundario en 2012 que  requirió ingreso hospitalario. Gram esputo: estreptococo, aunque cultivo negativo. Antigenurias negativas. Buena evolución tras tratamiento antibiótico convencional.
+-Quiste tiroideo complicado resuelto con tratamiento médico en la adolescencia.
+-Quistes renales y nefrolitiasis en seguimiento por Urólogo de zona, presentando algún cólico nefrítico no complicado. Ecografia renal (junio/2009): ECO renal: riñones compatibles con nefropatia medica. Litiasis intrarrenal izqu. sin repercusión sobre la via excretora.Quiste cortical renal izquierdo. Higado y vias biliares normales.
+-Deterioro cognitivo (trastorno mnésico) a estudio por Neurólogo de zona (Dr _NAME_, _SS_). Estaba pendiente de realización de TC craneal.
+-Osteoporosis diagnosticada por densitometria en julio de 2011. Cadera con osteopenia y columna lumbar con osteoporosis.
+-Fractura bimaleolar no desplazada de tobillo en febrero de 2006.
+-Fractura 6º arco costal izquierdo hallada de forma incidental en Rx de tórax por sospecha de neumonía.
+-Fibromialgia.
+-Síndrome depresivo en tratamiento con paroxetina
+-Meralgia parestésica.
+
+Antecedentes quirúrgicos:
+-Histerectomía radical por prolapso uterino hace 8 años.
+-Prolapso rectal intervenido quirúrgicamente por estreñimiento.
+
+Situación sociofuncional: independiente  para ABVD aunque supervisada. Vive sola. Cuidadora durante el día. Tiene dos hijas. Deambula sin ayuda en domicilio, por la calle apoyo en tercera persona por mareos/inseguridad.
+
+Informe d'alta d'hospitalització
+
+
+
+
+Deterioro cognitivo. mRS 2-3.
+
+MEDICACIÓ HABITUAL
+Sintrom según pauta, Budesonida 200mcg 1inhalación/12h, Atrovent a demanda, Furosemida 40mg 1/24h, Carvedilol 6.25mg 1/24h, Mirtazapina 30mg 1/24h, Lorazepam 1mg 0.5/mañana a días alternos, Paracetamol 1g/8h si precisa, Valdispert (valeriana) 0-2-2, Meladispert forte 0-0-0-1
+
+
+PROCÉS ACTUAL
+Habiéndose ido a dormir asintomática, se despierta presentando imposibilidad para la emisión del lenguaje sin otra sintomatología asociada. Niegan TCE, fiebre o movimientos involuntarios.
+
+EXPLORACIÓ FÍSICA
+
+En Urgencias:
+TA 169/69mmHg, FC 68lpm, BMTest 94mg/dl, SaO2 99% aa
+Estado general conservado, normocoloreada, normohidratada y normoperfundida. Auscultación cardiaca con tonos rítmicos y sin soplos, no edemas en miembros.
+Neurológicamente vigil, atenta, afasia motora grave (3), LOC Q 0/2 (2), LOC C 2/2, no defectos campimétricos, no paresia facial, resto de PPCC conservados. Balance motor y sensitivo conservados. No presenta extinción ni negligencia. NIHSS 5.
+
+Al ingreso en la Unidad de Ictus:
+TA 130/58mmHg FC 61lpm Tª 36.7ºC SpO2 97% aa
+Vigil, alerta, no POC/DOC, LOC Q 1/2 (1), LOC C 2/2, campimetría por confrontación sin alteraciones, afasia leve ((1), bloqueos ocasionales, pero nomina 6/6, comprende órdenes simples y complejas), no disartria, no paresia ni hipoestesia facial, balance motor conservado, RCP flexor bilateral, sin alteraciones de la sensibilidad superficial, no extinciones ni negligencias. No dismetría dedo-nariz. NIHSS 2
+
+EXPLORACIÓ COMPLEMENTÀRIA
+-Analítica general: Hties 4.38 x10E12/L; Hb 12.9 g/dL; Hto 38.6 %; VCM 88.1 fL; Leucocitos 6.88 x10E9/L; Neutrófilos 2.5 x10E9/L; Linfocitos 3.6 x10E9/L; Monocitos 0.5 x10E9/L; Eosinófilos 0.2 x10E9/L; Basófilos 0.0
+x10E9/L; Plaquetas 376 x10E9/L; VPM 10.3 fL. TP 40 %; INR 1.96; TTPA 38.4 seg; Fibrinógeno derivado 4.74 g/L.
+Glucosa 101 mg/dL; urea 38 mg/dL, Creatinina 0.88 mg/dL; FG 59 ml/min; sodio 140.6 mmol/L; potasio 3.59
+mmol/L; calcio 9.0 mg/dL, AST 27 UI/L; ALT 23 UI/L; Proteínas 6.8 g/dL.
+-ECG: ritmo sinusal a 60lpm, eje 0º, PR 0.16s, QRS estrecho, QT320ms, T negativas en III, aplanadas en aVF sin otras alteraciones de la repolarización. Buena progresión de la R en precordiales.
+-TC craneal multimodal (simple, angioTC craneal + TSA, perfusión): No se observan lesiones hemorragicas ni hipodensas que sugieran lesion isquemica aguda. Sistema ventricular,espacios cisternales y aracnoideos normales, en relacion a la edad. No se observan alteraciones en parenquima cerebral cerebeloso ni tronco El estudio TC perfusion no muestra alteraciones que sugieran lesion isquemica o areas de penumbra. En el angiotac realizado se observa permeabilidad de TSA sin estenosis hemodinamicamente significativas. Tambien se observa permeabilidad preservada en vascularizacion intracraneal tanto en territorio carotideo como vertebro basilar. Estructuras venosaspermeables.
+
+Informe d'alta d'hospitalització
+
+
+
+
+EVOLUCIÓ CLÍNICA
+A su llegada a nuestro centro (08:55h) paciente con estado general conservado, clínica de PACI izquierdo con afasia motora y NIHSS 5 por lo que se realiza TC craneal (09:05h) multimodal sin signos de sangrado intracraneal ni oclusión proximal por lo que dado que no se conoce la hora de inicio, que la paciente está anticoagulada y que no presenta oclusión proximal se decide no realizar tratamiento fibrinolítico ni endovascular. El ECG muestra ritmo sinusal. Se pautan medidas de ictus agudo e ingresa en la Unidad de Ictus para control evolutivo.
+A su llegada a la Unidad de Ictus hemodinámicamente estable y afebril, presentando mejoría clínica significativa con un NIHSS de 2 a expensas de desorientación parcial y bloqueos ocasionales del lenguaje. Analiticamente, a su llegada presentaba un INR infraterapéutico (1.96, previos correctos), sin otras alteraciones, por lo que se mantiene a la paciente anticoagulada con HBPM sc y se decide cambio a anticoagulante oral de acción directa (Eliquis). Ante estabilidad clínica se decide alta a domicilio con control por su Neurólogo de zona (tiene visita programada el 28 de febrero de 2018 a las 11:08h) y por su médico de atención primaria. Se solicita 1º visita en CCEE Logopedia para valoracion y tratamiento si precisa segun la evolución. Rankin al alta = 2-3.
+
+DIAGNÒSTICS
+Ictus isquémico en territorio de la ACM izquierda de probable etiología cardioembólica.
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Dieta baja en grasas Actividad fisica que tolere
+
+SUSPENDER SINTROM
+
+AÑADIMOS A SU TRATAMIENTO:
+-Enoxaparina 60mg inyección subcutánea cada 12 horas. ÚLTIMA DOSIS 12 HORAS ANTES DE INICIO DE LIXIANA
+-Eliquis 5mg 1cada 12 horas.
+
+Resto de medicación sin cambios:
+-Furosemida 40 mg 1 comprimido cada 24 horas.
+-Carvedilol 6.25mg 1 comprimido cada 24 horas.
+-	Budesonida 200mcg 1 inhalación cada 12 horas.
+-	Atrovent a demanda.
+-Mirtazapina 30mg 1 comprimido cada 24 horas.
+-Lorazepam 1mg medio comprimido cada mañana a días alternos (intentar retirada progresiva).
+-Valdispert (valeriana) 2-2-0/2
+-Meladispert forte 0-0-0-1
+
+
+
+
+CONTROL
+-Acudir a visita de control por Neurólogo de zona (tiene visita programada el 28 de febrero de 2018 a las 11:08h).
+
+Informe d'alta d'hospitalització
+
+
+
+
+-Control por su médico de atención primaria.
+-Control por especialistas habituales como tenga previsto.
+- Solicito control en CCEE Logopedia. Para valoración de evolución y necesidad de tratamiento
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+
+
+
+
+
+
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+18.10.2017
+Pàgina 1 de 4

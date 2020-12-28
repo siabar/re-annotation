@@ -1,0 +1,78 @@
+INFORME ALTA HOSPITALARIA
+_NAME_
+Núm. Episodi: _ID_ Núm. HC: _ID_
+_SS_ _LOCATION_
+_LOCATION_
+Tel. _CONTACT_Adreça: _LOCATION_	C.A.P.:
+Població: _LOCATION_	Sexe: HOME   Data naixement: _DATE_  Edat: 84a
+Telèfon:    C.P.: _LOCATION_	T.I.S.: _ID_  DNI/NIF: _ID_
+
+Procedència:	Data Ingrés Hospital: 23/11/2017
+Servei assistencial: NEUROLOGIA HOSP	Data Ingrés Servei: 24/11/2017
+Metge Responsable: _NAME_	Data éXITUS: 26/11/2017
+
+
+Paciente de 84 años que ingresa por ictus.
+
+ANTECEDENTES PERSONALES:
+-	Alergia a la penicilina.
+-	Exfumador de 40 año/paq. Vino en las comidas
+-	Hipertensión arterial
+-	Vasculopatía  cerebral  de  pequeño  vaso,  con  leve  atrofia  corticosubcortical  y  leves  signos  de leucoencefalopatía de pequeño vaso.
+-	Enfermedad pulmonar obstructiva crónica
+-	Bradicardia sinusal, portador de marcapasos VVI con útimo control en junio 2017.
+-	Hiperplasia benigna de próstata en seguimiento por urología por PSA elevado 9.67 en noviembre 17, con realización de biopsia sin presentar hallazgo significativos.
+-	Ulcus gástrico en tratamiento médico.
+
+-	Situación basal: Autónomo para las ABVD y AIVD. Doble continente. Marcha sin ayudas. Vive con su esposa.
+-	Tratamiento habitual: Omeprazol 40 mg 1cap/24h, Serc 8 mg 1 comp/8h, Enalapril+HCTZ 20/12.5 mg 1comp/24h, Sereprostat 80 mg 2comp/12h, Amlodipino 5 mg 1comp/24h, Ventolin 100 mcg 2puf/8h, Symbicort turbuhaler 160/4.5 mcg 2puf/12h, Dolocatil 1g 2comp/24h, Spiriva 18 mcg 1puf/24h.
+
+
+ENFERMEDAD ACTUAL:
+Paciente de 84 años previamente autónomo, que es traído por el SEM a urgencias por ictus del despertar. A su llegada presenta hemiplejia derecha y afasia completa con NIH de 19 puntos. Se realiza TAC craneal y AngioTAC que demuestran trombo en la arteria basilar por lo que se contacta con el _SS_ procediéndose a realizar traslado para tratamiento endovascular. Se solicita SEM medicalizado y al recoger al paciente, se inician apneas y actitudes de descerebración, por lo que se consensua con la familia no realizar traslado. Se informa a la familia del mal pronóstico a corto plazo y se decide priorizar medidas de confort por lo que se ingresa en nuestro servicio.
+
+EXPLORACIÓN FÍSICA:
+Urgencias:
+Pacient afàsic. Parèsia facio-braquial dreta.Tons cardíacs rítmics. Sense bufs. Camps pulmonars lliures.
+Planta:
+Normocoloreado, normohidratado.
+Neurológico: Glasgow 3/15. Comatoso, pupilas midriáticas arreactivas. Extremidades flácidas sin movilizarlas ante estímulos dolorosos. Ausencia de reflejo oculocefálico. Reflejo corneal conservado bilateral. Babinski presente bilateral.
+AC: arrítmico a 80 lpm, sin soplos ni roce, no edemas en EEII ni signos de TVP. Pulsos periféricos presentes y simétricos.
+AR: MVC crepitantes dispersos y roncus. Importante esfuerzo inspiratorio.
+ABD: Peristaltismo conservado, blando y depresible no doloroso a la palpación, no masas ni mealias ni ascitis.
+
+EXPLORACIONES COMPLEMENTÀRIAS:
+Urgencias:
+Telemetría: Fibrilación auricular.
+Analítica: 12.3 g/dL, Htc 38.1%, plaq 176 x10^9/L, leucos 7.15 x10^9/L (N 61.7%, L 25.9%, Mo 10.3%). Gluc
+91.7 mg/dL, Urea 73.6 mg/dL, Creatinina 1.7 mg/dL, FG 37 mL/min/1.73m2, Na 139 mmol/L, K 4.4 mmol/L, Cl
+103.2 mmol/L. TP 101%, INR 1.0.
+TAC craneal y AngioTAC: Estructures de la línia mitja centrades. Asimetria de solcs entre hemisferis, estant menys pronunciats els de l'hemisferi esquerre.Mínima hipodensitat cortico-subcortical temporo-parital esquerre, que calculoASPECTS 7. Hiperdensitat de l'artèria basilar compatible amb trombosis. No hi ha imatges de sagnat intra ni extraparenquimatoses. Es descarta lesió expansiva intracranial en aquest estudi. PERFUSIÓ: s'administra contrast endovenós per estudi de perfusió cerebral.Mapes de colors NO vàlida per moviment. Estudi vascular des de la crossa de l'aorta fins a la convexitat cerebral. Correcta permeabilitat dels troncs supraaòrtics amb una sortida conjunta de l'artèria caròtida primitiva amb el tronc innominat dret. Hi ha una correcta permeabilitat de les caròtides primitives i d'ambdues artèries vertebrals. Correcta permeabilitat de les artèries caròtides internes intracranials. Trombosis del top de la basilar. Correcta permeabilitat de P1 dreta i també de la Comunicant posterior dreta.No veig clarament permeabilitat de la cerebral posterior esquerre i hipoplàsia de la comunicant posterior esquerre.A valorar amb angiografía terapèutica.  Circulació  anterior normal. Asimetria de colaterals leptomeníngeees a la convexitat cerebral.N'hi ha menys al territori esquerre. Però no veig trombo de circulació anterior.
+Planta:
+No se solicitan pruebas complementarias
+
+EVOLUCIÓN:
+Presenta empeoramiento severo progresivo con clínica de descerebración.   Se informa a la familia del mal pronóstico inminente. Es éxitus el día 26/11/2017 a las 12.40h
+
+JUICIO CLÍNICO:
+Causa inmediata: Herniación cerebral.
+Causa fundamental: Ictus isquémico de origen cardioembólico  arteria basilar. TOP de la basilar.
+
+
+
+Atentamente,
+
+
+
+Signat:
+Dr/a.: _NAME_
+Metge adjunt - Neurologia Número col·legiat: _ID_
+
+
+Signat:
+Dr/a.: _NAME_
+Metge resident - Medicina física i rehabilitació Número col·legiat: _ID_
+
+Hospitalització
+Imprès: 10/01/2018 07:20
+Pàg.: 1 de  2

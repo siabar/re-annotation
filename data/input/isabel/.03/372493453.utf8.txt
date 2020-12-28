@@ -1,0 +1,122 @@
+I.CLINIC DE NEUROCIÈNCIES NEUROLOGIA
+_NAME_	NHC: _ID_
+
+
+Sexo/Sexe: Masc.	Fecha nac./Data naix.: _DATE_	Edad/Edat: 25 años Dirección/Adreça: _LOCATION_		CP: _LOCATION_
+Municip. (Prov.): _LOCATION_  ABS:_SS_	Tel.:_CONTACT_
+As.: SERVEI CATALA DE LA SALUT	CIP: _ID_	NASS: _ID_
+Nº epis.: _ID_	Tipo/Tipus: HOSPIT.	Inici.: 06.05.2017
+Serv: NEUROLOGIA	UO Enf.: G6B4 SALA G NEUROL. CURT. E Hora: 18:30:19
+Facult. de ref.: _NAME_
+
+
+
+
+Tipo ingreso/Tipus ingrés: Urgent	Motivo/Motiu alta: Hospital Ag.
+Diag.:
+ICTUS ISQUÉMICO ACMD. OCLUSIÓN TICA D ()
+Proc.:
+TC MULTIMODAL () TC CRANEAL ()
+ANALÍTICA SANGUÍNEA () ECOCARDIOGRAMA TRANSESOFÁGICO ()
+
+
+
+
+INFORME CLÍNICO ALTA / INFORME CLÍNIC ALTA
+
+Motivo de consulta / Motiu de consulta
+Paresia de extremidades izquierdas
+
+Antecedentes e historia previa / Antecedents i història prèvia
+Hombre de 25 años, sin alergias medicamentosas conocidas. No hábitos tóxicos. Paciente funcionalmente limitado por Sd Down, pero con pareja e inserción laboral satisfactoria. Vive con sus padres. Independiente para ABVD (mRankin 2).
+
+ANTECEDENTES PATOLÓGICOS
+1.	SÍNDROME DE DOWN, trisomia 21.
+-	CANAL ATRIOVENTRICULAR COMPLETO: intervenido en período neonatal mediante banding a la pulmonar, vía esternotomía media. Reparación a los 3 años y posterior resección del rodete subaórtico y estenosis subpulmonar (anillo fibroso, prolapso IT valva anterior tricuspídea debido a mala inserción, obstruyendo el TSVD: ventriculostomia-TSVD y plastia valva anterior tricuspidea). Pectum excavatum.
+En agosto/2016, debido a obstrucción recidivada del TSVI y obstrucción muscular del TSVD, además de insuficiencia mitral moderada-severa con calcificación valvular anterior, se interviene mediante sustitución de válvula mitral por prótesis mecánica ON-X, tamaño 29mm. Anuloplastia tricúspide con anillo COSGROVE, tamaño 30mm. Miectomía septal transmitral. Ventriculotomía derecha infundibular y miectomía ventricular con parche de ampliación de pericardio bovino.
+En tratamiento con sintrom, controles de INR habituales en rango.
+2.	ENFERMEDAD CELÍACA
+3.	HIPOTIROIDISMO en tratamiento sustitutivo
+4.	ESCOLIOSIS
+
+MEDICACIÓN HABITUAL (06/05/17)
+-	Acenocumarol según pauta - Levotiroxina: 112 mcg 5 días a la semana y 125 mcg 2 días a la semana -
+
+
+Bisoprolol 2,5 mg/24h
+
+Proceso actual / Procés actual
+Paciente que acude por presentar de forma súbita sobre las 16:45h mientras estaba en el supermercado con su familia, cuadro de disminución del nivel de consciencia con disminución de fuerza en extremidades izquierdas y alteración del lenguaje. En tratamiento con sintrom.
+
+Exploración física / Exploració física
+06/05/2017-19:30:00: Glicemia capilar (mg/dl) 137. 06/05/2017-21:00:00 : PAS (mm Hg) 85, PAD (mm Hg) 44, Pulsioximetría (%) 17, Tª axilar (ºC) 3 6.4. 06/05/2017-22:00:00 : Frecuencia respiratoria (rpm) 17.
+09/05/2017- 17:31:21 : Peso (Kg) 57, Talla (cm) 153.
+Paciente hemodinámicamente estable, normotenso (125/70 mmHg), eupneico y afebril.
+CCV: tonos rítmicos, no ausculto soplos ni roces. Pulsos periféricos presentes. Sin edemas en EEII AR: MVC sin agregados
+NRL: consciente, orientación no valorable. Lenguaje muy hipofluente y disártrico, emite sonidos incomprensibles. No comprende órdenes simples, ni por imitación. No repite. PICNR, mirada conjugada desviada de forma tónica hacia la derecha, reflejo de amenaza izquierdo asimétrico (impresiona de abolido). Hemiparesia facio (mod)- braquio (0/5)-crural (1/5) izquierda. Retira con postura flexora al dolor, resto de sensibilidades no valorables. Extinciones y negligencias no valorables. Signo de Babinski izquierdo, RCP flexor derecho. NIHSS: 24
+
+Laboratorio / Laboratori
+*	ANALÍTICA SANGUÍNEA: Glucosa 77mg/dL, Creatinina 0,7 mg/dL, LDL colesterol 94 mg/dL, HDL colesterol 29 mg/dL, Ionograma sin alteraciones. Hemograma sin alteraciones. Hemostasia INR 1,7. TSH 9,66 mUI/L, FT4 1,2 ng/dL.
+
+Radiología / Radiologia
+*	TC CRANEAL MULTIMODAL: Signos de isquemia incipiente en territorio superficial y profundo de ACMD. Oclusión de ACMD a nivel M1. Mapas de perfusión poco valorables.
+
+* TC CRANEAL CONTROL (09/05/17): Infarto establecido subagudo que no muestra signos de transformación hemorrágica, pero que en comparación al estudio previo muestra mayor efecto de masa con desplazamiento de la línea media de 7 mm hacia la izquierda y signos de herniación transtentorial descendente derecha incipiente.
+
+Exploraciones complementarias / Exploracions complementàries
+
+*	ECOCARDIOGRAFÍA TRANSTORÁCICA: Canal AV Rastelli A intervingut amb bandig a la pulmonar neonatal, reparació als 3 anys, i posterior ressecció de rodet subàortic i estenosi subpulmonar ( anell fibrós, prolapse IT valva anterior tricuspidea degut a mala inserció, obstruint TSVD: Ventriculotomia-TSVD i plàstia valva anterior tricupidea). Pectum excavatum. Prótesi mecánica (ON-X 29 mm), en posició mitral normofuncionant. No es detecten trombus per transtoràcic. Miectomia septal transmitral: aprimament septal basal, però a la zona inmediata subvalvular, presenta un TSVE tunelitzat més estret, amb gradient de fins mmHg (vel 3.77m/s, gradient màxim 56, mig de 26 mm Hg) sense tancament protosistòlic aòrtic, milloria respecte estudi previ. Ventricle esquerre severament hipertròfic, excepte septum basal (miectomitzat) , no dilatat amb bona motilitat global i segmentària. Aurícula esquerra moderadament dilatada. Patró diastòlic normal Vàlvula aòrtica trivalva amb insuficiència lleugera. Ventricle dret  hipertròfic, no dilatat, hiperdinàmic. Estenosi suprapulmonar lleugera (banding previ). Gradient  AD- VD de 32 mm Hg. Sense vessament pericàrdic. Sense coartació d'aorta.
+
+Evolución / Evolució
+
+
+
+1.	ICTUS  ISQUÉMICO  AGUDO  EN  TERRITORIO  DE  ARTERIA  CEREBRAL  MEDIA  DERECHA.  OCLUSIÓN  TICA DERECHA.
+2.	VALVULA MECÁNICA EN POSICIÓN MITRAL. CARDIOPATÍA CONGÉNITA SECUNDARIA A SD. DOWN.
+3.	DISFAGIA SEVERA --> PORTADOR DE SNG
+Paciente con antecedentes mencionados que acude por debilidad de extremidades izquierdas con alteración del la articularción de la palabra.
+A su llegada a nuestro centro, con 1h 30 min de evolución, el paciente se encuentra normotenso y afebril. A la exploración inicial presenta síndrome hemisférico derecho extenso (NIHSS 20), leve inquietud psicomotriz. Analítica sanguínea sin alteraciones relevantes, coagu- check con INR 2,2. ECG en ritmo sinusal. Se realiza TC craneal multimodal que muestra en secuencias basales signos de isquemia incipiente en territorio superficial y profundo de ACMD (ASPECTS 5 valorado con angioradiólogo presencial en las secuencias de la adquisición angioTC, pues se ha movido mucho en el basal), angio-TC objetiva oclusión en T a nivel de carótida distal, con replección distal tanto de ACM y ACA), mapas de perfusión no valorables.
+Se trata de un ictus de rama anterior de ACMD con oclusión de la TICA D de probable etiología cardioembólica en paciente con cardiopatía congénita y prótesis valvular mitral mecánica. Debido a INR de 2,2 se contraindica la fibrinolisis. Se valora conjuntamente con angioneurorradiología y dada la extensión de la lesión ya establecida se desestima el tratamiento mecánico del ictus. Se inicia tratamiento con heparina sódica, con posterior paso a Sintrom el día 11/5 tras controles de INR estables entre 2,5-3,5.
+Durante su estancia en la unidad de Ictus, el paciente presenta una mejoría inicial de su hemiparesia izquierda y del trastorno tónico de la mirada hasta un NIHSS de 12. La madrugada del día 9/5 el paciente presenta vómitos sin nausea así como somnolencia generalizada, por lo que se repite TC de control que muestra herniación subfalciana < 1cm.
+Posteriormente, el paciente presenta mejoría hasta quedar con un NIHSS de 5 a expensas de lenguaje discretamente hipofluente con disartria leve, hemiparesia facial izquierda grave, paresia leve de miembro superior izquierdo de predominio distal (4/5) y extinción táctil izquierda. Además, presenta disfagia moderada que requiere colocación de SNG para nutrición. Monitorización electrocardiográfica (<72h) sin evidencia de alteraciones paroxísticas del ritmo cardíaco.
+Dada la buena evolución del paciente se considera candidato para traslado a _SS_ para completar con la rehabilitación física y logopedia. Se contactará para indicarle día de citación para realización de ecocardiografía transesofágica a nivel ambulatorio.
+
+4.	HIPOTIROIDISMO
+En analítica de ingreso destaca TSH de 9. Se realiza IC con Endocrino que recomienda administrar 125 mg de Levotiroxina al día y al alta realizar una visita con su endocrino habitual en 1 mes y medio.
+
+5.	UÑA INCARNATA
+Presenta uña incarcerada en primer dedo de pie izquierdo, pendiente de tratamiento quirúrgico. Es valorado por Podología, quienes realizan pequeña intervención sobre la uña de forma provisional para poder aguantar durante el próximo mes y hacer la rehabilitación. Se realiza cobertura antibiótica con amoxicilina-clavulánico durante 1 semana. Deberá acudir a visita de seguimiento ambulatoria en CCEE Podología dentro de 6 semanas para decidir actitud terapéutica definitiva (se contactará para indicarle día de citación).
+
+AL ALTA: NIHSS: 5
+TOAST: CARDIOEMBÓLICO mRANKIN: 3.
+
+Plan terapéutico / Pla terapèutic
+- Pantoprazol 40 mg/24h - Acenocumarol según pauta de INR - Levotiroxina 125 mcg/24h - Bisoprolol 2,5 mg/24h - Captopril 25 mg de rescate si PA > 140/90 mmHg - Paracetamol 1g/8h - Metamizol 2 g/8h -
+
+
+
+Tramadol 50 mg/8h si precisa NUTRICIÓN POR SONDA NASOGÁSTRICA
+Otras recomendaciones / Altres recomanacions
+Traslado a _SS_ para continuar con la rehabilitación física. Se remite para seguimiento por sus médicos habituales.
+Se contactará para indicarle día para realización de ecocardiografía transesofágica.
+
+
+
+Firma/Signatura1: _NAME_	Firma/Signatura2: _NAME_ Categoría: Resident 2	Categoría: Consultor/a 1
+Nº Matrícula HCP: _ID_	Nº Matrícula HCP: _ID_
+
+Fecha/Data Informe: 19.05.2017
+Hora Informe: 09:45:59
+
+Docum.: _ID_
+Hist. Clínica: _ID_
+El _SS_ ha incorporado sus datos al Fichero de Pacientes, para tratarlos con fines sanitarios.
+Puede ejercer sus derechos de acceso, rectificación, cancelación y oposición, así como obtener mas información en la Unidad de Atención al Cliente.
+Vers. 00
+Pag. 2 de
+4
+Episod.: _ID_
+_SS_ ha incorporat les seves dades al Fitxer de Pacients, per a tractar-los amb finalitats sanitàries. Pot exercir els seus drets d'accés, rectificació, cancel·lació i oposició, i obtenir més informació a la Unitat d'Atenció al Client.
+_SS_
+_LOCATION_) _LOCATION_) Tel. _CONTACT_ Fax _CONTACT_
+http://_CONTACT_/

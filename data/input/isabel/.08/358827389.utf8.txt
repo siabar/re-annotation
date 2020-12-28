@@ -1,0 +1,112 @@
+_LOCATION_
+email: _CONTACT_ Telèfon _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 78 Anys
+NIF/DNI: _ID_Informe de Trasllat a Sociosanitari
+CP	_LOCATION_
+ABS	_SS_
+Servei	NEUROLOGIA
+Data d'alta  11.04.2017	13:00:00
+_LOCATION_
+_CONTACT_
+DOMICIL/RES.SOC 18.03.2017
+Equipo Dra _NAME_ (_NAME_, _NAME_)
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Varón de 78 años que es traído como codigo ictus
+
+ANTECEDENTS
+Sin alergias medicamentosas conocidas Sin hábitos tóxicos
+
+Antecedentes Patologicos
+-Hipertensión arterial esencial con buenos controles tensionales.
+-Fibrilación auricular en tratamiento con betabloqueantes y anticoagulación con sintrom.
+-Sd. ansioso-depresivo en tratamiento farmacológico.
+-Artrosis
+
+SITUACIÓN SOCIOFUNCIONAL: Independiente para las ABVD. Vive con su marido. Apenas sale de casa por el Sd. depresivo. mRs 2
+
+MEDICACIÓ HABITUAL
+Bisoprolol 5mg c/12h, Furosemida 40mg c/24h, Sintrom 4mg según pauta, Tramadol 50mg 1cp/24h, Risperdal 1mg/ml 3 adm/24h, Diazepam 5mg 2cp/día, Duloxetina 60mg 1cp/día, Paracetamol 1g 1cp/8h SP
+
+PROCÉS ACTUAL
+La paciente es traída por el SEM con activación de código ictus. Vista asintomática por última vez el día 18.03.2017 a las 13:20h, a las 13:30h la encuentra su hija con cuadro sincopal y debilidad de las cuatro extremidades así como con dificultad para la articulación del lenguaje. Alertan al SEM, quienes activan el código ictus a las 14:13h. Llega a nuestro centro a las 14:41h, hora de TC 14:56h.
+
+
+EXPLORACIÓ FÍSICA
+
+FC	80 bpm Tªaxi  ºC
+FR	rpm Tªrec  ºC
+TA s	120 mmHg SAT O2 98 %
+TA d   60 mmHg Pes Kg
+
+Exploración física a su llegada
+Vígil, alerta, orientada en las tres esferas, disartria inteligible (1), lenguaje conservado, campimetría por confrontación sin déficits, hipertropía OD y diplopía a la posición primaria de la mirada, con paresia incompleta de IIIpc I. PFSN I (1), no hipoestesia facial, balance motor conservado en las cuatro extremidades, sensibilidad sin déficits objetivables, no extinciones ni dismetrías, marcha no explorada, NIHSS 2.
+
+Informe de Trasllat a Sociosanitari
+
+Exploración física en Planta de Neurología
+TA: 95/60 mmHg, Fc 60 lpm, T: 36.1ºC, SatO2: 98% AA
+-AC: TC arritmicos con frecuencia controlada. AR: roncus dispersos en ambos pulmones.
+-EN: tendencia a la somnolencia (1), LOC Q (2), LOC C (0), Lenguaje sin alteraciones, disartria severa (2), MOEs con restricción de III par I (1), HH por amenza (0), PFSN I (2), Moviliza las catros extremidades. No déficit sensitivo objetivable. No extinciones. Marcha no explorada. NIHSS 8
+
+EXPLORACIÓ COMPLEMENTÀRIA
+Exploraciones complementarias en Urgencias
+-TC multimodal: No se identifican lesiones isquémicas agudas (ASPECTS 10/10). Defecto de replección en el top de la basilar, con preservación de la permeabilidad de ambas arterias cerebrales posteriores a través del polígono de Willis. TC-perfusión presenta prolongación de los mapas de tiempos TTM y TTP, a nivel hemicerebeloso superior y talámico bilateral.
+-Trombectomia (18/03/2017): Punción femoral derecha, introductor 6F. La serie de Arteria vertebral izquierda muestra oclusión tercio distal A Basil. se progresa con dificultad por tortuosidad de a vertebral izquierda, se realizan 3 pasos de solitario 6x30 + aspiración por Navia 0.072 consiguiendo TICI 3, recanalización completa. Myunx gripe + compresivo. Requiere intubación durante el procedimento.
+-Analitica de urgencias: Hb 13.7 g/dL; VCM 94.1 fL; HCM 29.1 pg; Leucòcits 8.870 (Neutròfils 5.800, Limfòcits 2000); Plaquetas 259.000; TQ 58%; INR 1.43; Glu 117; Urea 34; Creatinina 0.79  mg/dL; FG 72 ml/min/1,73 m2;
+Na 136.7; K 4.47; Ca 9.6; AST 20; ALT 11; Proteïna 7.5;
+
+Exploraciones complementaria en UCI
+-TC craneal de control a las 24h (19/03/2017): Ténue hipodensidad tálamo izquierdo y más dudosa en el derecho, en probable relación a lesión isquémica subaguda.
+-TC craneal (24/03/2017): No se observan desplazamientos valorables de las estructuras de línea media, ni lesiones hemorrágicas intracraneales. Leve dilatación simétrica del sistema ventricular, asociada a un ensanchamiento proporcional de espacios subaracnoideos y surcos de la convexidad. Ténue hipodensidad tálamo izquierdo con probable extension hacia pedunculo cerebral izquierdo, en relación a lesión isquémica establecida, sinedo mas dificil valorar si hay lesion en mesencefalo o protuberancia aunque no se observa hipodensidad definida. Resto del parénquima cerebral, cerebeloso y del tronco cerebral sin otras alteraciones morfológicas ni densitométricas. Cisternas basales y peritronculares libres.
+-GSV: pH 7.29, pCO2 53, sodio 136, potasio 5.6, lactatos 1.2, Hb 12, HCO3 25.5, EB -1.1.
+-ECG: ritmo de fibrilación auricular a95lpm, QRS estrecho, eje a 30º, T aplanadas en precordiales derechas.
+-Analítica general: Hb 11.9g/dL, Hto 39%, Leucocitos 9630 (89%N, 7.3%L), Plaquetas 221.000, TQ 50%, Fibrinogeno 3.57g/L, Glucosa 176mg/dL, urea 31mg/dL, creatinina 0.68mg/dL, sodio 138mmol/lL, potasio 4.31mmol/L, AST/ALT 19/12UI/L.
+-Radiografía Tórax: TOT a 2cm de la carina, placa rotada, aparente ICT>0.5, aumento de densidad difuso en hemitórax izquierdo.
+
+Exploraciones Complementarias en Planta de Neurología
+-RM: Infarto en fase aguda del mesencéfalo y pedúnculo cerebral izquierdos, territorio irrigado por la arteria basilar, que se asocia a restricción a la difusión en relación en fase aguda. Infarto subagudo que afecta al tálamo izquierdo asociado a microsangrado. Múltiples focos de desmielinización isquémica que afectan de forma difusa la sustancia blanca de ambos hemisferios cerebrales. (leucoaraiosis grado 2/4 en la escala de Fazekas). Atrofia cerebral difusa.
+-Analitica general: hematies 3.980, Hb 11.8g/dl, Hto 37.1%, VCM 93.2, HCM 29.6, leucocitos 9.830 (neutrofilos
+7.000, limfocitos 1.900), plaquetas 366.000, glucosa 111, urea 38, crea 0.67, FG 84, urato 6.4, Bi total 0.49, Bi
+
+Informe de Trasllat a Sociosanitari
+
+directa 0.21, Na 143.1, K 4.27, Ca 9.1, AST 33, ALT 35, FA 101, GGT 58, colesterol total 216, trigliceridos 165,
+proteina 6.6, albúmina 3.3
+
+EVOLUCIÓ CLÍNICA
+Paciente con FA anticoagulada con sintrom que es traída como código ictus. A su llegada paciente hemodinámicamente estable, afebril, con saturaciones conservadas a aire ambiente. A la exploración física NIHSS de 2 a expensas de disartria inteligible y parálisis facial supranuclear izquierda leve. Analíticamente destaca infradescoagulación con INR de 1.43. Se realiza TC craneal simple, TC perfusión y angioTC que muestran oclusión del top de la Arteria Basilar, sin evidenciarse lesiones isquémicas agudas. Dado que la paciente presentó en domicilio clínica de tetraparesia y anartria se decide realización de trombectomía primaria. Se realiza Arteriografía donde en la primera serie se evidencia una oclusión completa de la AB distal (TICI 0), con una gran tortuosidad en el ostium de la AV I que dificulta el acceso. Finalmente se consigue una recanalización completa (TICI 3). Como incidencia durante el procedimiento la paciente presenta un deterioro del nivel de consciencia por lo que se decide IOT+VM, presentando así mismo broncoaspiración de vómito bilioso. Por ello, tras el procedimiento, ingresa en UCI (día 19.03). Se empieza antibioterapia empírica con amoxicilina-clavulánico por dicha broncoaspiración que condiciona una posible infección respiratoria secundaria. Se realiza TC craneal de control a las 24h que objetiva ténue hipodensidad talámica izquierda y más dudosa en tálamo derecho, en probable relación a lesión isquémica subaguda. Considerada la ausencia de sangrado, se reintroduce anticoagulación con HBPM. Durante su estancia en la UCI presenta mejoría clínica por lo que se realiza  extubación el día 21/03 y se traslada a Planta de Neurología para control evolutivo.
+A su llegada a planta paciente hemodinámicamente estable, afebril, con tendencia a la somnolencia. A la exploración física NIHSS de 8 a expensas de disartria casi ininteligible y PFSN I, preservando movilización de las 4 extremidades sin claras asimetrías. Se realiza RM cerebral que pone de manifiesto la presencia de un infarto en fase aguda a nivel del mesencéfalo y pedúnculo cerebral izquierdos (territorio irrigado por la arteria basilar) así como infarto subagudo que afecta al tálamo izquierdo asociado a foco de microsangrado. Analíticamente sin hallazgos destacables. La paciente presenta estabilidad clínica con emisión del lenguaje a expensas de severa disatria, movilizando las 4 extremidades y realizando RHB sin incidencias (ha llegado a ser capaz de deambular unos pasos con andador). Se reintroduce anticoagulación con Xarelto (ribaroxaban) 20mg. La paciente permanece estable sin presentar nueva focalidad, por lo que se procede a gestionar derivación de CSS según sectorización (_LOCATION_) para completar convalescencia, pudiendo ser trasladada según disponibilidad el día 11 de abril. Al momento del alta paciente presenta disfagia a líquidos, por lo que rogamos ir testando probable mejoría. Al momento del traslado NIHSS de 7 a expensas de disartria severa, leve disfasia mixta y PFSN izquierda, así como la presencia de una infraversión y endotropia de ambos ojos (por lo que aconsejamos parche ocular alterno), mRS 4.
+
+DIAGNÒSTICS
+-Infarto agudo en mesencéfalo y pedúnculo cerebral izquierdos (territorio irrigado por la arteria basilar) de etiología cardioembólica
+-Infarto subagudo a nivel de tálamo izquierdo asociado a microsangrado
+-Fibrilación auricular infradescogulada
+-Probable infección respiratoria en contexto de broncoaspiración-
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Se adjunta
+
+Informe de Trasllat a Sociosanitari
+
+CONTROL
+-Control por MAP y especialistas según programación.
+-Acudir a visita de control en C. Externas de Neurología-Unidad de Ictus el próximo 14 de noviembre de 2017 a las 09:30h (3ª planta Annexos Edificio General).
+
+DESTINACIÓ A L'ALTA:	SOCI SANITARI
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+11.04.2017
+Pàgina 1 de 4

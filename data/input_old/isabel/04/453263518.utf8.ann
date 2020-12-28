@@ -1,0 +1,160 @@
+T1	Hora_de_alta 268 273	13:59
+#1	AnnotatorNotes T1	13:59
+T2	Fecha_de_alta 277 287	22.12.2017
+#2	AnnotatorNotes T2	2017-12-22
+T3	Fecha_de_ingreso 391 401	04.12.2017
+#3	AnnotatorNotes T3	2017-12-04
+T5	_SUG_Hemorragia_cerebral 510 518	hematoma
+T6	_SUG_Localizacion 519 523	GGBB
+T7	_SUG_Lateralizacion 524 534	izquierdos
+T8	_SUG_Trombolisis_intravenosa 636 656	tratamiento con ADOs
+T9	_SUG_Lateralizacion 657 658	e
+T10	FECHA 753 766	Octubre  2016
+#10	AnnotatorNotes T10	2016-10-UNDEF-day
+T11	mRankin_previa 1002 1007	mRS 0
+T14	Fecha_inicio_sintomas 1146 1154	04.12.17
+#14	AnnotatorNotes T14	2017-12-04
+T15	Hora_inicio_sintomas 1210 1212	16
+#15	AnnotatorNotes T15	16:00
+T16	_SUG_Lateralizacion 1247 1257	izquierdas
+T17	_SUG_Ictus_isquemico 1303 1308	ictus
+T18	HORA 1315 1320	17:31
+#18	AnnotatorNotes T18	17:31
+T19	Hora_llegada_hospital 1355 1360	18:13
+#19	AnnotatorNotes T19	18:13
+T20	_SUG_Lateralizacion 1565 1566	D
+T21	_SUG_Lateralizacion 1653 1662	izquierda
+T22	_SUG_Lateralizacion 1699 1708	izquierdo
+T23	_SUG_Lateralizacion 1714 1721	derecho
+T24	_SUG_NIHSS 1743 1751	NIHSS 16
+T25	_SUG_Localizacion 2060 2070	ventrículo
+T26	_SUG_Lateralizacion 2071 2080	izquierdo
+T27	_SUG_TAC_craneal 2219 2230	Tc  craneal
+T28	_SUG_Hemorragia_cerebral 2248 2256	hematoma
+T29	_SUG_Localizacion 2284 2302	ganglios   basales
+T30	_SUG_Lateralizacion 2304 2312	derechos
+T31	_SUG_Hemorragia_cerebral 2416 2424	hematoma
+T32	_SUG_Localizacion 2428 2432	GGBB
+T33	_SUG_Lateralizacion 2433 2441	derechos
+T34	_SUG_Ictus_isquemico 2499 2504	ictus
+T35	_SUG_Lateralizacion 2774 2783	izquierdo
+T36	_SUG_Lateralizacion 2834 2843	izquierdo
+T37	_SUG_Lateralizacion 2853 2862	izquierdo
+T38	_SUG_Lateralizacion 2876 2883	derecho
+T39	NIHSS_previa 2898 2905	NIHSS 9
+T41	TAC_craneal 3598 3608	TC craneal
+T42	_SUG_Hemorragia_cerebral 3610 3618	Hematoma
+T43	Localizacion 3642 3658	ganglios basales
+T44	Lateralizacion 3659 3667	derechos
+T45	_SUG_Lateralizacion 4056 4057	e
+T46	_SUG_Lateralizacion 4616 4617	D
+T47	FECHA 4654 4659	11/12
+#47	AnnotatorNotes T47	2017-12-11
+T48	FECHA 4818 4823	11/12
+#48	AnnotatorNotes T48	2017-12-11
+T49	_SUG_TAC_craneal 4926 4928	TC
+T50	FECHA 4929 4939	06.12.2017
+#50	AnnotatorNotes T50	2017-12-06
+T51	_SUG_Hemorragia_cerebral 4985 4995	l'hematoma
+T52	_SUG_Lateralizacion 5012 5016	dret
+T53	FECHA 5068 5076	14/12/17
+#53	AnnotatorNotes T53	2017-12-14
+T54	_SUG_Hemorragia_cerebral 5078 5086	Hematoma
+T56	_SUG_Lateralizacion 5125 5132	derecho
+T57	_SUG_ASPECTS 5189 5196	aspecto
+T58	_SUG_Etiologia 5217 5229	hipertensivo
+T59	FECHA 5471 5476	13/12
+#59	AnnotatorNotes T59	2017-12-13
+T60	_SUG_Localizacion 5478 5488	Ventrículo
+T61	_SUG_Lateralizacion 5489 5498	izquierdo
+T62	_SUG_Localizacion 5595 5605	Ventrículo
+T63	_SUG_Lateralizacion 5606 5613	derecho
+T64	_SUG_Lateralizacion 5640 5649	izquierda
+T65	_SUG_Etiologia 6351 6363	hipertensiva
+T66	FECHA 7079 7089	12.12.2017
+#66	AnnotatorNotes T66	2017-12-12
+T67	_SUG_Localizacion 7155 7163	cortical
+T68	_SUG_Localizacion 7254 7262	cortical
+T69	_SUG_Lateralizacion 7691 7692	e
+T70	_SUG_Lateralizacion 7724 7733	bilateral
+T71	_SUG_ASPECTS 7942 7949	aspecto
+T72	_SUG_Lateralizacion 7967 7976	bilateral
+T73	_SUG_Lateralizacion 8010 8011	e
+T74	_SUG_Lateralizacion 8058 8067	bilateral
+T75	_SUG_Lateralizacion 8266 8267	e
+T76	_SUG_Ictus_isquemico 8348 8353	ictus
+T77	_SUG_Etiologia 8391 8403	hipertensión
+T78	_SUG_Lateralizacion 8621 8630	izquierdo
+T79	_SUG_Lateralizacion 8683 8692	izquierdo
+T80	_SUG_Lateralizacion 8702 8711	izquierdo
+T81	_SUG_Lateralizacion 8725 8732	derecho
+T82	_SUG_NIHSS 8747 8754	NIHSS 9
+T83	_SUG_Hemorragia_cerebral 8791 8799	hematoma
+T84	_SUG_Localizacion 8800 8804	GGBB
+T85	_SUG_Lateralizacion 8805 8813	derechos
+T86	Etiologia 8814 8826	hipertensivo
+T87	_SUG_Lateralizacion 8907 8908	e
+T88	_SUG_Lateralizacion 8968 8969	e
+T89	_SUG_TAC_craneal 9304 9306	TC
+T90	FECHA 9314 9319	11/12
+#90	AnnotatorNotes T90	2017-12-11
+T91	_SUG_Hemorragia_cerebral 9380 9390	l'hematoma
+T92	_SUG_Lateralizacion 9407 9411	dret
+T93	FECHA 9477 9482	14/12
+#93	AnnotatorNotes T93	2017-12-14
+T94	_SUG_Hemorragia_cerebral 9496 9504	hematoma
+T95	_SUG_Localizacion 9532 9540	temporal
+T96	_SUG_Lateralizacion 9541 9548	derecho
+T97	_SUG_ASPECTS 9605 9612	aspecto
+T98	_SUG_Etiologia 9633 9645	hipertensivo
+T99	_SUG_Etiologia 9885 9897	hipertensión
+T100	_SUG_Localizacion 9996 10006	ventrículo
+T101	_SUG_Lateralizacion 10007 10016	izquierdo
+T102	_SUG_Lateralizacion 10198 10203	ambos
+T103	_SUG_Etiologia 10223 10235	hipertensiva
+T104	_SUG_Lateralizacion 10241 10246	ambos
+T105	_SUG_Lateralizacion 10926 10927	e
+T106	_SUG_Lateralizacion 11106 11111	dieta
+T107	_SUG_Lateralizacion 11446 11455	izquierdo
+T108	FECHA 11489 11492	4/5
+#108	AnnotatorNotes T108	2017-05-04
+T109	_SUG_Lateralizacion 11530 11539	izquierdo
+T110	_SUG_Lateralizacion 11573 11580	derecho
+T111	_SUG_NIHSS 11595 11602	NIHSS 7
+T112	_SUG_Etiologia 11652 11664	Hipertensión
+T113	_SUG_Etiologia 11833 11845	hipertensiva
+T114	_SUG_Etiologia 11875 11887	hipertensiva
+T115	_SUG_Localizacion 11940 11956	supraventricular
+T116	_SUG_Localizacion 11989 11999	ventrículo
+T117	_SUG_Lateralizacion 12000 12009	izquierdo
+T118	_SUG_Etiologia 12260 12272	hipertensiva
+T119	FECHA 12784 12795	11/12-15/12
+#119	AnnotatorNotes T119	2015-12-11
+T120	FECHA 12850 12855	15/12
+#120	AnnotatorNotes T120	2015-12-15
+T121	FECHA 13184 13196	28-Diciembre
+#121	AnnotatorNotes T121	2015-12-28
+T122	_SUG_Hemorragia_cerebral 13516 13524	hematoma
+T123	_SUG_Localizacion 13528 13544	ganglios basales
+T124	Hemorragia_cerebral 13723 13731	Hematoma
+T125	Localizacion 13732 13747	capsulo-talamic
+T126	FECHA 14082 14092	22.12.2017
+#126	AnnotatorNotes T126	2017-12-22
+T127	SECCION_MOTIVO_DE_INGRESO 462 476	MOTIU D'INGRÉS
+T128	SECCION_ANTECEDENTES 537 548	ANTECEDENTS
+T129	SECCION_SITUACION_FUNCIONAL 960 975	Situación basal
+T130	SECCION_TRATAMIENTO_HABITUAL 1010 1028	MEDICACIÓ HABITUAL
+T131	SECCION_PROCESO_ACTUAL 1108 1121	PROCÉS ACTUAL
+T132	SECCION_EXPLORACION_FISICA 2545 2562	EXPLORACIÓ FÍSICA
+T133	SECCION_EXPLORACIONES_COMPLEMENTARIAS 3049 3074	EXPLORACIÓ COMPLEMENTÀRIA
+T134	SECCION_EXPLORACIONES_COMPLEMENTARIAS_EN_PLANTA_DE_NEUROLOGIA 3760 3777	Analítica ingreso
+T135	SECCION_EVOLUCION 8303 8319	EVOLUCIÓ CLÍNICA
+T136	SECCION_DIAGNOSTICOS 13694 13716	ORIENTACIÓ DIAGNÒSTICA
+T137	SECCION_CONTROL 13749 13756	CONTROL
+T138	SECCION_DESTINO_AL_ALTA 13979 13998	DESTINACIÓ A L'ALTA
+#4	AnnotatorNotes T11	0
+T4	Fecha_llegada_hospital 1146 1154	04.12.17
+#5	AnnotatorNotes T39	9
+T12	SECCION_EXPLORACIONES_COMPLEMENTARIAS_EN_URGENCIAS 3075 3084	URGENCIAS
+T13	Fecha_TAC_inicial 1146 1154	04.12.17
+T40	Localizacion 4996 5011	temporo-insular

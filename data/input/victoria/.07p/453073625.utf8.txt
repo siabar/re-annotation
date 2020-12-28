@@ -1,0 +1,122 @@
+SERVEI DE NEUROLOGIA
+INFORME D´ALTANº Història clínica	_ID_
+Data de naixement	_DATE_
+
+C.I.P.	_ID_	Codi Centre	_ID_
+Telèfon	_CONTACT_	Adreça	_LOCATION_
+Data d'ingrés	16/12/17		_LOCATION_
+Data d'alta	21/12/17	Telèfon	_CONTACT_
+Nº Assistència	_ID_		
+UH	_ID_		
+
+DIAGNÒSTICS:
+1.	ICTUS ISQUÉMICO AGUDO EN TERRITORIO DISTAL DE ACM IZQUIERDA. PROBABLE  ETIOLOGÍA CARDIOEMBÓLICA.
+2.	ICTUS ISQUÉMICO SUBAGUDO/CRÓNICO CORTICAL EN TERRITORIO FRONTERA ACM/ACP IZQUIERDA
+3.	MIOCARDIOPATÍA DILATADA CON FUNCIÓN SISTÓLICA MUY DEPRIMIDA (FEVI 17%). INSUFICIENCIA CARDÍACA
+4.	CIA TIPO OSTIUM SECUNDUM
+5.	HIPERTENSIÓN ARTERIAL
+6.	HIPERCOLESTEROLEMIA
+
+PAciente de 40 años. Natural de _LOCATION_, lleva 9 años en _LOCATION_. Diestro. Barrera idiomática parcial. Alergias medicamentosas: no conocidas. Hábitos tóxicos: hábito enólico de 6 a 12 latas de cerveza diarias desde los 18 hasta los 35 años. Exfumador hasta hace 5 años. Consumidor esporádico de shabú, pero niega consumo en los últimos 5 años. Rankin histórico 0.
+
+PROCEDIMENTS:
+-	TC CRANEAL
+-	MonitorIzación unidad ictus
+
+
+MOTIU CONSULTA:
+Alteración del lenguaje, alteración sensitiva en hemicuerpo derecho.
+Avisan desde emergencias a las 15.21h, activación de código ictus exrahospitalario.
+
+ANTECEDENTS:
+-	Hipertensión arterial. Hipercolesterolemia.
+-	Asma en tratamiento con inhaladores.
+-	Hermano con ictus isquémico a los 35 años, abuelo y padre con eventos cardíacos.
+-	Valorado en UCIAS hace 24 horas por dolor torácico, fue estudiado por Cardiología. Se diagnosticó insuficiencia cardíaca descompensada de novo con FEVI deteriorada y miocardiopatía  dilatada. Se realizaron los siguientes estudios:
+-	ECG: taquicardia sinusal a 120 lpm, eje 60º, PR 0,12s, QRS estrecho, discreta elevación de ST en V3, signos de HVI. Segundo ECG de control similar a primero.
+-	Telemetría: 3 episodios de TVM no sostenida.
+-	Ecocardiograma transtorácico: miocardiopatía dilatada biventricular. Ventrículo izqueirdo severamente dilatado, no hipertrófico con función sistólica severamente deprimida (FEVI 17%) por hipocinesia difusa. Ventículo derecho no dilatado, contractilidad deprimida. Defecto del septo interauricular  (fosa oval, compatible con pequeño CIA OS) con shunt izda.-derecha. Qp/Qs aprox. 0,9.
+-	Cateterismo cardíaco: sin lesiones coronarias.
+-	Rx  tórax:  marco  óseo  conservado,  senos  costofrénicos  libres,  sin  aparentes  condensaciones parenquimatosas, aumento de densidad base derecha, ICT>0,5
+-	Análisis de sangre: Determinación de troponinas: 1ª: 48.39--->2ª: 41.97 Dado de alta ayer el día 15/12 por la noche. Pendiente de cita el Lunes (CAR19).
+Tratamiento domiciliario: Salbutamol 100mg 3inh 5 veces al día si precisa, Salmeterol+fluticasona 50/250mg 1 inh/12h.
+
+Nom del malalt	_NAME_	
+
+* Desde ayer: Carvedilol 6.25 mg (1/2-0-1/2), Enalapril 5 mg (1/2-0-1/2), Eplerenona 25 mg (1-0-0), Furosemida 40 mg (1-0-0), Ivabradina 7.5 mg (1-0-1).
+
+MALALTIA ACTUAL:
+En la tarde del día 16/12/2017 sobre las 15 horas inició alteración sensitiva en hemicara y brazo derecho (hormigueos y adormecimiento) y dificultad para articular lenguaje. No refiere dolor torácico. Llega a las 15:39h a UCIAS.
+
+EXPLORACIÓ FÍSICA:
+EXPLORACIÓN NEUROLÓGICA:
+Consciente, orientado. Lenguaje poco fluente (barrera idiomática parcial), disártrico. Comprende y obedece órdenes. No alteración campimétrica. Paresia facial inferior derecha. Hipoestesia faciobraquial derecha. No asimetría en fuerza en extremidades. Reflejo cutaneoplantar flexor bilateral.
+NIHSS: 0+0+0+0+0 / 1+0+0+0+0 / 0+1+0+1+0 / Total: 3 puntos.
+
+- Exploración física en Unidad de Ictus: TA 110/75mmHg FC 80lpm Tª 36.7ºC
+A nivel neurológico consicente y orientado, MOE`s sin restricciones, PPCC sin alteraciones, miller-fisher asimétrico derecho, dismetría dedo-nariz derecha (1), hipoestesia F-B derecha (1). NIHSS 2
+Test de disfagia negativo. Monitorización ECG ritmo sinusal.
+
+EXPLORACIONES COMPLEMENTARIAS:
+-	ECG: ritmo sinusal a 100 lpm.
+-	Análisis de sangre: Troponina 132 (previa 48, hace 3 días). D-dimero 13340.
+-	TC cerebral con angioTC (15.56h): Focos de isquemia en distintos territorios y de distinta evolución temporal (en surco precentral izquierdo de evolución aguda/hiperaguda y territorio ACM izquierda; otro parietal izquierdo en territorio frontera ACM y ACP izquierda), lo que sugiere mecanismo embolígeno. Se recomienda ampliación de estudio con ecocardiografía.
+-	AngioTC: Estudio angiográfico, sin evidencia de trombos en principales arterias cerebrales. Foco en vidrio deslustrado en LSD, parcialmente incluído en el estudio. Se recomienda ampliación de estudio TC torácico.
+-	Analítica Ingreso 18/12: Urea 46mg/dl, Creaatinina 0.84 mg/dl, A.Úrico 7.9mg/dl, Na 137mmol/l, K 4.9mmol/l, Cl 101 mmol/l, FG 110 ml/min/1.73m2, LDH 421U/l, CK 56U/l, Bi 0.5mg/dl, AST 27U/l, ALT 38U/l,  GGT  43U/l,  FA  70U/l,  Proteinas  totales  6.8g/dl,  Albúmina  3.9  g/dl,  Colesterol  205  mg/dl, Colesterol LDL151 mg/dl, Colesterol HDL 42 mg/dl, Trigliceridos 157 mg/dl, TSH 3.09 mcUl/ml, HbA1c 5.5%, PCR 0.22mg/dl,Hb 16.1g/dl, Leucocitos 6260/ul, Neutrofilos 3560/ul, Plaquetas 279000/ul, VSG 19mm/h, TP 87%, INR 1.05
+-	Estudio trombofilia pendiente al alta.
+-	TC torácico: Pendiente al alta
+
+EVOLUCIÓ:
+Paciente con los antecedentes descritos que acude a urgencias por cuadro compatible con ictus agudo cursando como síndrome sensitivo-motor faciobraquial derecho. Se realiza una TC cerebral urgente en la que se observan lesiones isquémicas en distintos territorios. En el estudio de angioTC no se observa oclusión de gran vaso. Por la escasa afectación clínica (NIHSS 3 puntos) y dado que se visualiza lesión reciente en neuroimagen que justificaría los síntomas actuales, se desestima tratamiento fibrinolítico. Ingresa en  la  Unidad  de  Ictus  para  monitorización  y  vigilancia  clínica.  Por su antecedente de miocardiopatía dilatada con FE deprimida, lo cual constituye una fuente  embolígena mayor, se inicia anticoagulación con enoxaparina en prevención secundaria.
+Se  realiza  IC  con  Cardiología,  decidiéndose  mantener  el  tratamiento  de  base  y  se  solicita
+ecocardiograma TE por el hallazgo de CIA tipo ostium secundum en ecocardiograma realizado 24h antes. Cabe destacar que en el angioTC se observa imagen en vidrio deslustrado a nivel pulmonar motivo por el cual se solicita un TC torácico que queda resultado pendiente y se dará visita control con Neumología.
+
+Se valoran al ingreso el estado de ánimo, las necesidades de rehabilitación y se inician fisioterapia y movilización precoces. Durante el ingreso evoluciona de forma favorable, presentando muy leve déficit motor con dismetría en ESD. Durante el ingreso se realiza educación sanitaria acerca del ictus.
+No presenta complicaciones, y dada la estabilidad clínica se decide alta a domicilio. Precisa rehabilitación al alta, por lo que se gestiona fisioterapia de forma ambulatoria.
+
+Al alta se mantiene tratamiento anticoagulante con acenocumarol según pauta de hamtología. Etiología TOAST cardioembólico, Oxford PACI. Al alta NIHSS 1. Rankin 2.
+Debe seguir controles en CCEE de Neurología en fecha programada.
+Se  cita  además  para  controles  en  Hematología  y  Cardiología.  Se  le  avisará  para  realización de ecocardiograma Transesofágico.
+
+
+
+
+
+TRACTAMENT:
+-	CARVEDILOL ORAL COMPRIMIDOS 3.125 MG A les 8,20
+-	IVABRADINA ORAL COMPRIMIDOS 7.5 MG A les 8,20
+-	EPLERENONA ORAL COMPRIMIDOS 25 MG A les 8
+-	FUROSEMIDA ORAL COMPRIMIDOS 40 MG A les 8
+-	LORAZEPAM ORAL COMPRIMIDOS 1 MG A les 22
+
+
+INR 1.5; plan:
+Sintrom 2mg/dia excepto el domingo que tomará 1mg/d. Control para ajustar pauta el proximo 27/12
+
+INDICACIONS:
+Adjunto visitas
+
+Dr/a.	_NAME_
+Dr/a.	_NAME_	Dr/a.	_NAME_-
+_NAME_
+Cap Secció	(Nº Col.legiat : _ID_)
+(Nº Col.legiat _ID_)	Metge/essa
+Resident
+(Nº Col.legiat _ID_
+
+
+
+
+
+
+
+
+
+
+
+
+Les seves dades personals s'incorporen en un fitxer d´usuaris a fi del seu tractament sanitari. Pot exercir el seu dret d´oposició, accés i rectificació de les dades inexactes dirigint-se al Servei de Documentació Clínica.
+Sus datos personales se incorporan en un fichero de usuarios para su tratamiento sanitario. Puede ejercer su derecho de oposición, acceso y rectificación de los datos inexactos dirigiéndose al Servicio de Documentación Clínica
+
+_SS_ | NIF _ID_ |_LOCATION_ | Telèfon _CONTACT_ | Fax _CONTACT_ | _CONTACT_
+Pàgina 1 de 3

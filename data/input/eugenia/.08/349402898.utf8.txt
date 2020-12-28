@@ -1,0 +1,94 @@
+_LOCATION_ Tel. _CONTACT_
+e-mail: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 69 Anys
+NIF/DNI: _ID_Informe d'alta d'hospitalització
+10:00:00
+16.03.2017
+_LOCATION_
+_SS_ NEUROCIRURGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_
+CEX MATEIX HOSP 14.03.2017
+_NAME_
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Paciente varón de 69 años de edad que ingresa  para realización de biopsia cerebral
+
+ANTECEDENTS
+Ex-tabaquismo y enolismo leve.
+Independiente para actividad básica vida diaria, escala de Rankin 0.
+
+ANTECEDENTES PATOLÓGICOS:
+-	Hipertensión arterial que no requiere tratamiento médico.
+-	Dislipemia en tratamiento con estatinas.
+-	Alteración de cifras de glicemia que no precisa tratamiento médico.
+-	Angor estable diagnosticado en 2009 en tratamiento con Clopidogrel y en seguimiento por Cardiología de zona.
+-	En Enero 2017 presenta varios episodios autolimitados de parestesias en mano derecha y disartria que se orientan como probable infarto lacunar (disartria-mano torpe), sin focalidad a la exploración neurológica, con un TC craneal, una monitorización electrocardiográfica durante 48 horas y un estudio neurosonológico sin alteraciones relevantes. Se modificó tratamiento antiagregante (cambio de aspirina a clopidogrel) y se aumento dosis de estatinas. Pendiente actualmente de RM cerebral en _SS_.
+-	Epilepsia en tratamiento con levetiracetam. Debut en febrero de 2017, presentando 3 crisis epilépticas tónico-clónicas generalizadas, con gran agitación post-ictal; en tratamiento con levetiracetam 1g/12h. RM cerebral con lesiones parieto-temporales derechas compatibles con cambios postcríticos o encefalíticos. EEG con paroxismos frontales bilaterales de predominio derecho. Estudio de LCR normal.
+
+No antecedentes familiares ni personales de enfermedades neurodegenerativas o epilepsia.
+
+PROCÉS ACTUAL
+El 23.02.17 acude al _SS_ por presentar imposibilidad para hacer algunas tareas habituales como ducharse y vestirse ("no sabía como desenroscar el champú, o como atarse los botones de la camisa, o cómo ponerse los zapatos"). La clínica inicia a las 16.15h y acude al _SS_, donde objetivan dudosa clínica izquierda (nistagmus horizontal agotable evocado por la mirada hacia la izquierda, leve paresia faciocrural -no braquial-, dismetría -maniobra dedo/nariz-) y activan código ictus a las 17:45h. El paciente llega a nuestro centro a las 18.45h. A su llegada a Urgencias, hemodinámicamente estable y afebril. A la exploración neurológica presenta una hemianopsia homónima izquierda y una anestesia izquierda. El ECG está en ritmo sinusal. Se realiza una analítica que no muestra alteraciones. Ante una focalidad neurológica aguda, se decide realización de imagen multimodal para descartar lesión isquémica. Se realiza una RM cerebral que no muestra signos de isquemia aguda y que muestra cambios posiblemente secundarios a crisis comiciales. Se deja en Urgencias bajo tratamiento antiepiléptico con  dosis de  levetiracetam  1500mg/12h ev,  presentando mejoría clínica  (extinción  sensitiva  y extinción visual a la revaloración por la noche). Se orientan como crisi epiléptica de etiología a estudio y se deja en evolución en Urgencias. Debido a la persistencia de la afectación corticosubcortical y la captación de contraste en la imagen inicial, se decide ingreso hospitalario para descartar una causa encefalítica o neoplásica. Durante su estancia en la planta de neurología, presenta constantes vitales normales con su tratamiento de base, salvo bradicardia asintomática, por lo que se reduce ivabradrina a 2.5mg cada 24 horas. A nivel neurológico, presenta
+
+Informe d'alta d'hospitalització
+
+
+
+
+recurrencia de crisis autolimitadas, por lo que se modifica tratamiento tratamietno antiepiléptico a lacosamida 100mg cada 12 horas y levetiracetam 500mg cada 12 horas. Finalmente queda  completamente asintomático (salvo hipoestesia en dedos de la mano derecha, presentes desde hace años en relación con traumatismo). Como pruebas complementarias, tiene una analítica de febrero 2016 con analítica básica, perfil metabólico y hormonal, proteinograma, estudio de líquido cefalorraquideo y hemocultivo que no muestran alteraciones. En el ingreso actual se realizan analítica general con marcadores tumorales que resultan normales, un TC toracoabdominal muestra múltiples nódulos pulmonares bilaterales de predominio en lóbulo superior izquierdo, con estudio anatomp-patológico negativo para célulsas malignas. Valorado en sessión clinica de Neurocirurgia, se decide biopsia de las lesiones cerebrales guiada con Neuronavegación.
+
+EXPLORACIÓ FÍSICA
+
+Normotenso, bradicárdico, afebril, saturaciones correctas, glicemias entre 100 y 150mg/dL. No ha vuelto a presentar crisis. Sin trastorno sensitivo (solo dedo meñique derecho -crónico-).
+Exploración neurológica sin cambios: paciente consciente y orientado, no elementos afásicos, no disartria, no alteración de pares craneales, no déficit motor ni sensitivo, refiere persistencia de parestesias en el borde cubital de la mano izquierda, marcha sin alteración. Hemianopsia homónima izquierda
+
+EXPLORACIÓ COMPLEMENTÀRIA
+Rm cerebral ( 02.03.2017) Afectación cortical y subcortical centrada en la región parietal del hemisferio derecho, que es ligeramente más extensa que el previo. Los valores de perfusión se  ha aumentados, hallazgo  que nuevamente debe valorarse en el contexto de la ausencia o presencia de crisis, pero que es decir cierto orientaría hacia una lesión infiltrativa como linfoma primario o secundario o neoplasia glial de alto grado. Los hallazgos no sugieren corresponder a metástasis Obviando los valores de perfusión, no podría descartarse otras causas como sarcoidosis o LES. Aunque los hallazgos no son típicos la TBC tampoco podría descartarse totalmente, siendo menos probables otras causas infecciosas
+
+Tc cranial ( 15.03.2017) Control post-biopsia cerebraln Sense complicacions derivades del procediment
+
+EVOLUCIÓ CLÍNICA
+Con fecha del 15.03.2017 y tras un estudio post-quirúrgico correcto, se decide realitzar biopsia cerebral guiada con neuronavegación. El procedimiento quirúrgico transcurre sin incidencias. Se realitza Tc cranial de control
+post-operatorio que no muestra complicaciones derivadas del procedimiento. Dada la estabilidad clinica y neurológica, se decide dar de alta a domicilio y se cita para control en Consultas Externas de Neurocirurgia, pendiente del informe definitivo de anatomia patológica
+
+El paciente deberá someterse a controles periódicos en Consultas Externas de Neurocirugia en espera del resultado de anatomia patológico y muy probablemente a un seguimiento y tractamiento complementario. Se contraindica en éstos momentos la realización de viajes que requieran un vuelo
+
+DIAGNÒSTICS
+253.9/1 Lesio ocupant espai cerebral
+
+Informe d'alta d'hospitalització
+
+
+
+PROCEDIMENTS
+15.02.2017 Biopsia cerebral guiada con Neuronavegación y sistema Varioguide
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+1.	Reposo relativo. Cura tópica de la herida quirúrgica con Betadine
+2.	Paracetamol 1 gr cada 8 horas via oral
+3.	Resto de la medicación habitual, excepto el Clopidogrel
+
+CONTROL
+Acudir a Control en Consultas Externas de Neurocirurgia ( Consulta de Enfermeria ) el dia 28.03.2017 a partir de las 10:00 horas
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+16.03.2017
+Pàgina 1 de 3

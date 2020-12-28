@@ -1,0 +1,100 @@
+I.CLINIC DE NEUROCIÈNCIES NEUROLOGIA
+_NAME_	NHC: _ID_
+
+
+Sexo/Sexe: Masc.	Fecha nac./Data naix.: _DATE_	Edad/Edat: 83 años Dirección/Adreça: _LOCATION_	CP: _LOCATION_
+Municip. (Prov.): _LOCATION_  ABS:_SS_		Tel.:_CONTACT_ FILLA As.: SERVEI CATALA DE LA SALUT	CIP: _ID_	NASS: _ID_
+Nº epis.: _ID_	Tipo/Tipus: HOSPIT.	Inici.: 08.10.2017
+Serv: NEUROLOGIA	UO Enf.: G064 SALA G DE NEUROLOGIA	Hora: 19:39:06
+Facult. de ref.: _NAME_
+
+
+
+
+Tipo ingreso/Tipus ingrés: Urgent	Motivo/Motiu alta: CSS Conval.
+Diag.:
+ICTUS ISQUÉMICO ()
+Proc.:
+
+
+
+
+INFORME CLÍNICO ALTA / INFORME CLÍNIC ALTA
+
+Motivo de consulta / Motiu de consulta
+Hemiparesia izquierda.
+
+Antecedentes e historia previa / Antecedents i història prèvia
+Antecedentes  personales:  Varón  de  83  años,  sin  alergias  medicamentosas  conocidas.  Parcialmente dependiente para ABVD (mRs 3)
+ANTECEDENTES PATOLÓGICOS:
+1-	DIABETES MELLITUS TIPO 2 en tratamiento médico
+2-	HIPERTENSIÓN ARTERIAL en tratamiento farmacológico.
+3-	NEOPLASIA DE COLON; intervenida  quirurgicamente hace catorce años . Aparentemente, libre de enfermedad
+4-	CONTUSIÓN  CEREBRAL  y  HEMATOMA  SUBDURAL  BILATERAL  en  enero  2010  tras  TRAUMATISMO
+CRANEOENCEFÁLICO sin secuelas evidentes. Ingreso hasta 9  Marzo (coma inducido en UCI) y posterior traslado a centro de convalecencia hasta el 3 de abril.
+5.- PARKINSONISMO en tratamiento con sinemet, sin evidente respuesta, orientado como Parkinsonismo Vascular. En seguimiento por neurólogo de zona (Dr _NAME_).
+6.- IAMCEST KILLIP IV en diciembre de 2013, que precisó de balón de contrapulsación aórtico. Se llevó a cabo triple bypass por enfermedad de tronco coronario del 70% y DA del 90%. Ecocardiograma de marzo de 2014 con FE del 44% con dilatación ligera-moderada de AI.
+MEDICACIÓN HABITUAL:
+Levetiracetam 500 mg c/12. Acido acetilsalicilico 100 mg c/24h. Metformina 1 c/8h Cardyl 20mg 1 día Enalapril /Hidroclorotiazida 1 día Diamicron 80mg 1/2 c/8h Omeprazol 20 mg c/12h Bisoprolol 2.5 mg C/24h Sinemet plus 25/100 mg c/8h.
+
+Proceso actual / Procés actual
+Presenta, el 08.10.17 por la mañana, cuando iba al baño, torpeza y debilidad de extremidades inferiores, con dificultad para mantenerse de pie, por lo que acude el SEM. A su llegada, objetiva TAS 92/TAD 60 mmHg. Posteriormente el paciente es trasladado a Urgencias del _SS_ para completar la valoración.
+
+Exploración física / Exploració física
+08/10/2017-21:00:00: Glicemia capilar (mg/dl) 166, PAS (mm Hg) 123, PAD (mm Hg) 68, Tª axilar (ºC) 35.5. 10/10/2017-06:00:00 : Pulsioximetría (% ) 94.
+A SU LLEGADA A URGENCIAS:
+TAS 115/TAD 65 mmHg. FC 72 lpm. SatO2 98%
+NRL: Cosnciente y orientadao en todas las esferas. Lenguaje fluente sin rasgos afásicos. Mirada centrada sin limitación en la mirada conjugada horizontal bilateral. Campimetría por confrontación sin alteraciones. Sin disartria. REsto de PC conservados. Balance muscular conservado en las 4 extremidades. Sensibilidad sin alteraciones. sin dismetrías.
+AC: Ritmica, sin soplos.
+aR: MVC, sin roncus ni sibilantes ABD: Anodino.
+REVALORADO EN URGENCIAS
+NRL: Cosnciente y orientadao en todas las esferas. Lenguaje fluente sin rasgos afásicos. Mirada centrada sin limitación en la mirada conjugada horizontal bilateral. Campimetría por confrontación sin alteraciones. Sin disartria. Hemiparesia facial (leve) - braquial 3/5 - crural 4/5 izquierda. Sensibilidad sin alteraciones. Sin dismetrías. NIHSS 2.
+
+Laboratorio / Laboratori
+*	ANALÍTICA SANGUÍNEA: Hemograma, ionograma, función renal y hemostasia sin alteraciones. LDL de 103 HDL 39.
+
+Radiología / Radiologia
+*	TC CEREBRAL BASAL: Se compara con TC del 11/10/2016. No se observan imágenes de sangrado agudo intra ni extraxial. Extensas áreas encefalomalácicas bifrontales presentes en estudios previosque condicionan leve retracción de astas frontales de los ventrículos laterales. Hipodensidad de la sustancia blanca periventricular y subcortical por microangiopatía crónica e infartos lacunares crónicos en ganglios de la base bilaterales.
+
+Exploraciones complementarias / Exploracions complementàries
+*	ECOGRAFÍA DE TRONCOS SUPRAAÓRTICOS: Placas de ateroma en ambas  bifurcaciones  carotídeas, sin estenosis significativa.
+
+Evolución / Evolució
+1.- PROBABLE ICTUS LACUNAR DERECHO 2.- INSUFICIENCIA RENAL AGUDA AKIN I
+A su llegada a urgencias, el paciente se encuentra hemodinámicamente estable, afebril, en la exploración neurológica presenta una disartria moderada y hemiparesia facio (leve), braquio (3/5) crural (4/5).
+La analítica sanguínea no mostraba alteraciones de interés y el ECG se encontraba en ritmo sinusal. Se realizó un TC cerebral que mostró unas lesiones porencefálicas bilaterales frontales (correspondientes al antecedente de traumatismo craneoencefálico grave con contusiones hemorrágicas) y múltiples lesiones lacunares.
+Se trata de un ictus isquémico, debido a la clínica y los antecedentes podría tratarse de un ictus lacunar. Ingresa en neurología para completar estudio con resonsancia magnética.
+En sala, paciente hemodinámicamente estable y afebril, con regular estado general. Durante el ingreso presenta episodio de hipotensión puntual en contexto de deshidratación, que se resuelve con sueroterapia. Analíticamente destaca empeoramiento de la función renal con creatinina de 1,4 mg/dl, siendo la previa normal.
+A nivel neurológico, el paciente presenta empeoramiento de la disartria y de la función motora, con hemiparesia facial izquierda leve, braquio (2/5), crural (2/5), sin otros hallazgos relevantes.
+La ecografía de troncos supraaórticos ha identificado placas de ateroma en ambas bifurcaciones carotídeas, sin estenosis significativa.
+Pendiente de RMN cerebral, se decide alta a centro sociosanitario para recuperación funcional.
+
+
+
+Plan terapéutico / Pla terapèutic
+Atorvastatina pensa 40 mg Sitagliptina 100 mg Omeprazol pensa 20 mg Levetiracetam aurobindo 500 mg/12h Clexane 4000 u.i. (40 mg)/24h A.a.s. 100 mg  Emconcor cor	1,25 mg  Metformina combix 850 mg/12h
+Sinemet plus 25 mg/100 mg 2-2-2
+
+Otras recomendaciones / Altres recomanacions
+Traslado a _SS_
+
+
+
+Firma/Signatura1: _NAME_	Firma/Signatura2: _NAME_ Categoría: Resident 2	Categoría: Consultor/a 1
+Nº Matrícula _SS_: _ID_	Nº Matrícula _SS_: _ID_
+
+Fecha/Data Informe: 13.10.2017
+Hora Informe: 14:41:03
+
+Docum.: _ID_
+Hist. Clínica: _ID_
+El _SS_ ha incorporado sus datos al Fichero de Pacientes, para tratarlos con fines sanitarios.
+Puede ejercer sus derechos de acceso, rectificación, cancelación y oposición, así como obtener mas información en la Unidad de Atención al Cliente.
+Vers. 00
+Pag. 2 de
+3
+Episod.: _ID_
+_SS_ ha incorporat les seves dades al Fitxer de Pacients, per a tractar-los amb finalitats sanitàries. Pot exercir els seus drets d'accés, rectificació, cancel·lació i oposició, i obtenir més informació a la Unitat d'Atenció al Client.
+_SS_
+_LOCATION_) _LOCATION_) Tel. _CONTACT_ Fax _CONTACT_
+http://_CONTACT_/

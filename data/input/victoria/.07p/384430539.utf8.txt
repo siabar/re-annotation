@@ -1,0 +1,159 @@
+_LOCATION_) Telèfon _SS_  972 _CONTACT_
+Telèfon IDI (Ressonància i TAC) _CONTACT_
+Telèfon ICO _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 81 Anys
+NIF/DNI: _ID__NAME_; _NAME_
+Informe d'alta d'hospitalització
+CP	_LOCATION_
+ABS	_SS_
+Servei	NEUROLOGIA
+Data d'alta  26.06.2017	14:20:06
+_LOCATION_
+_CONTACT_; 740713
+DOMICIL/RES.SOC 20.06.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Código Ictus
+
+ANTECEDENTS
+PERSONALES
+-No alergias medicamentosas conocidas
+-No refiere habitos tóxicos
+-Independiente para actividades básicas de la vida diaria. mRs : 0
+
+PATOLÓGICOS:
+-Hipertension arterial: En tratamiento con olmesartan y diurético
+-No Diabetes/No dislipemia
+-No patología cardiovascular ni cerebrovascular
+-Hiperuriemia asintomática: En tratamiento con alopurinl
+-Hipertiroidismo secundario a odulo toxico inhibidor: En tratamiento con tirodril.
+-IQ: HBP: Tratado mediante miomectomia en 2007.
+
+MEDICACIÓ HABITUAL
+-Olmesartan 20mg + diuretic 25mg c/24hs
+-Tiamazol 5mg c/24hs
+-Alopurinol 300mg c/24hs
+-Doxazosina 0,4mg c/24hs
+-Omeprazol 20mg c/24hs
+
+
+PROCÉS ACTUAL
+Paciente de 81 años, con los antecedentes descritos, explica inicio de clínica a las 12.00 horas, con instauración progresiva posteriormente, explica que finalmente a las 12.30 horas comienza con sensación de mareo  y desviación de la comisura bucal. Contacta con SEM, que contactan con Neurología de Guardia y proceden a activación de Código ictus a las 17.46 horas, después de activación de RACECAT, y es trasladado a nuestro centro. Llega a nuestro centro a las 19.13 horas, es atendido inmediatamente.
+En urgencias se objetiva acente con paresia facial izquierda, leve deficit motor extremidad superior izquierda, y disartria, así como extinción sensitiva (NIHSS 4), paciente hipertenso a su llegada, con buen control tensional con bolus de urapidil. Se orienta caso como TACI derecho. Dadas las horas de evolución, paciente elegible para ECAS IV, por lo que se realiza RMN cerebral que muestra ictus isquémico establecido ACM derecha, con oclusión de ACI derecha y presencia de trombo en M1. Se comenta el caso con servicio de neurovascular de _SS_, que desestima tratamiento endovascular por NIHSS bajo. Por tanto, se randomiza paciente como ECAS IV, se explica diagnóstico a la familia, así como características de estudio ECAS IV, que entienden y aceptan, firmando consentimiento informado.
+Se sufre demora durante randomización por problemas con códigos de password que no funcionan y deben ser renovados. Una vez randomizado se inicia tratamiento con fármaco ECAS IV (Hora de inicio de bolus a las 21.24
+
+Informe d'alta d'hospitalització
+
+
+
+
+horas), la infusión de fármaco cursa sin incidencias, por lo que se decide posteriormente ingreso en Unidad de Ictus de nuestro centro, pendiente de realizar RMN de control a las 24 horas.
+
+EXPLORACIÓ FÍSICA
+
+FC	77 bpm
+Tªaxi 36.5 ºC
+FR	rpm Tªrec  ºC
+TA s	148 mmHg SAT O2 95 %
+TA d   71 mmHg Pes Kg
+
+EXPLORACIÓN INGRESO: HTA: 142/66 mmHg
+Gral: edema a braç esquerre bicicpital amb insecte al seu interior: diu des de fa dos dies ... Ritmic. Neurol: disartria lleu, paresia facial esquerra, no hemianopsia, sembla extincio sensitiva unicament a EEII esquerra, no a braços ni cara, no extincio sensitiva.
+NIHSS: 0-0-0-0-0 / 1-0-1-0-0 / 0-0-0-1-1: 4 EXPLORACIÓN AL ALTA:
+TA: 148/71 mmHg, FC: 77 lpm, Sat basal: 95%, T:36.5ºC
+Paciente vigil, orientado en tiempo, persona y lugar. Asintomático a nivel neurológico, no se aprecia paresia facial central izquierda que se objetivaba en días previos. Sin otros cambios.
+
+NIHSS. 0
+
+EXPLORACIÓ COMPLEMENTÀRIA
+ECG
+-Ritmo sinusal, a 70 lpm.
+
+ANALÍTICAS
+-AS: Hb 14.1 g/dL, Plaqu 170 K/mcL, Leucòcits 9.63 K/mcL (N: 84.1 %, L: 8.8 %), Tasa protrombina 99 %, INR 1, Gluc
+213 mg/dL, Urea 39 mg/dL, Creatinina 1.08 mg/dL, Colesterol 203 mg/dL, Colesterol HDL 53 mg/dL, Colesterol LDL 114 mg/dL, Triglicèrid 179 mg/dL, Ió sodi 143 mEqu/L, Ió potasi 3.8 mEqu/L, TnT 17.3 ng/L,
+
+PRUEBAS DE IMAGEN
+-Rx de tórax: Rx AP de tórax, poco inspirada, poco penetrada, parcialmente rotada, difícil de valorar por escasa calidad de la imagen, no se observan aumentos de densidad, sí pinzamiento de ambos senos costofrénicos, así como hilio derecho aumentado, ICT no valorable por características de la proyección
+
+Estudio eco-Doppler.
+-	Troncos supraaórticos: patrón de oclusion distal de ACI D, con incremento de VSM de hasta 180-200 cm/s, con flujo distal conservado con aumento de IP (estudio con contraste).
+ACC y ACI I sin alteraciones.
+
+-	Transcraneal: recanalización de ACM D, oclusida en fase aguda, amortiguada, que se perfunde tanto por ACoP cpomo por ACoA-ACA derecha. ACM I normal con hiperaflujo en ACA I (flow-diversion ACM-ACA izda). Veretbrobasilar, sin alteraciones.
+-	
+Informe d'alta d'hospitalització
+
+
+
+
+-	Estudio de Oftámicas: OFT derecha flujo 0, no antidrómica. OFT Izda ortododrómica.
+
+CONCLUSIÓN:   oclusión a nivel de sifón derecho, con estenosis moderada ICA derecha y flujo ACM derecha aceptable que se nutre por colaterales, especialmete ACoP, sin signos de fracaso de circulación colateral..
+
+
+-RM crani (20/06/2017) ECASS-IV: Se objetiva lesion isquemica en Flair, DWI a nivel insular y fontal derechos, en la PWI se encuentra deficit claro de perfusion a nivel de las lesiones que estan en el DWI, se opbserva tambien deficit de la perfusion (relacion con la coloracion de hipoperfusion de menor intensidad que en relacion co el core del infarto) El estudio con angio RM muestra oclusion de ACI D y trombo en M1 derecha.
+
+-RMN control 24 horas (21/06/2017): Aumento de tamaño del infarto agudo/subagudo del territorio superficial y profundo de la ACM derecha con aparición de signos de transformación hemorrágica en núcleo lenticular derecho, persistencia de la alteración de perfusión y recanalización importante del flujo carotídeo y en ACM persistiendo una pequeña estenosis en M1 distal.
+
+-Angio-RMN  (22/06/2017)  : Estenosis crítica del segmento  proximal de ACI derecha con  reducción  del flujo distalmente.
+Leve aumento en extensión de la lesión isquémica subaguda del territorio de la ACM derecha y estabilidad de los signos de transformación hemorrágica.
+
+EVOLUCIÓ CLÍNICA
+Paciente estable hemodinámicamente y afebril a su llegada a Unidad de Ictus de nuestro centro. Se realiza RMN de control tras tratamiento (estudio ECASS IV) donde se objetiva aumento de tamaño de infarto ACM derecha, así como signos de transformación hemorrágica, por lo que se demora el inicio de tratamiento antiagregante, que se comienza posteriormente sin incidencias. Se realiza angio-RMN que muestra estenosis crítica a nivel proximal de carótida interna derecha, con reducción de flujo distal. Se plantean dudas de que se trate de estenosis crítica u oclusión a este nivel, por lo que se decide repetir estudio ultrasonológico, donde se objetiva esta estenosis crítica a nivel proximal ACI derecha, con oclusión a nivel de sifón ipsilateral, por tanto, se descarta en el momento actual posibilidad de tratamiento quirúrgico.
+Por tanto, se orienta finalmente el caso como infarto ACM derecha, secundario a oclusión de sifón derecho, no candidato a tratamiento quirúrgico. Paciente presenta mejoría clínica progresiva, asintomático durante últimos días de ingreso.
+Ante buena evolución y estabilidad clínica, se decide alta a domicilio el día 26/06/2017, pendiente de control por Consultas Externas de Neurología Vascular con estudio eco-doppler y realización ambulatoria de
+RMN+angio-RMN.
+
+Escalas a alta:
+-	NIHSS: 0
+-	Rankin: 1
+
+
+DIAGNÒSTICS
+436/5	Infarto ACM derecha aterotrombotico
+Oclusión de sifón carotídeo derecho + estenosis critica de ACI derecha. Incluido en estudio ECASS IV.
+
+Informe d'alta d'hospitalització
+
+
+
+
+No candidato a TEA en el momento actual.
+401.9/4 Hipertensió arterial inespecificada
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+-	Tratamiento farmacológico
+-	Adiro 100mg cada 24h después del desayuno
+-	Atorvastatina 80mg cada 24h por la noche
+-	Resto de medicación sin cambios: Olmesartan 20mg + diuretic 25mg c/24hs, Tiamazol 5mg c/24hs, Alopurinol 300mg  c/24hs, Doxazosina 0,4mg c/24hs, Omeprazol 20mg c/24hs
+
+-	Dieta baja en sal y grasas.
+-	Abandono del consumo de tabaco y reducción del consumo de alcohol.
+-	Control de los factores de riesgo cardiovascular
+-	Colesterol (LDL) <100 mg / dl (objetivo <70 por perfil aterotrombótico de alto riesgo)
+-	Tensión arterial sistólica <140mmHg / Diastólica <90mmHg
+
+CONTROL
+-Visita de control en Neurología de nuestro centro (Edificio de Consultas Externas primera planta) con estudio eco-doppler (control de estenosis crítica proximal ACI derecha y oclusión de sifón ipsilateral). Hora de visita 21/09/2017
+
+-Pendiente de realización de RMN+angio-RMN de forma ambulatoria. Recibirá citación en domicilio.
+-Control de los factores de riesgo cardiovascular por su equipo de atención primaria.
+
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+26.06.2017
+Pàgina 1 de 4

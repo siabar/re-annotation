@@ -1,0 +1,125 @@
+_LOCATION_) Telèfon _SS_  972 _CONTACT_
+Telèfon IDI (Ressonància i TAC) _CONTACT_
+Telèfon ICO _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 75 Anys
+NIF/DNI: _ID__NAME_; _NAME_
+Informe d'alta d'hospitalització
+14:00:00
+22.03.2017
+_LOCATION_
+_SS_ NEUROLOGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_; _CONTACT_
+ATEN.PRIMÀRIA 17.03.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Hematoma cerebral
+
+ANTECEDENTS
+ANTECEDENTS PERSONALS:
+-No al.lergies medicamentoses conegudes.
+-No hàbits tòxics.
+-Rankin previ de 0.
+
+ANTECEDENTS PATOLÒGICS:
+-Antecedent de HTA segons  eCAP. La pacient i els seus familiars ho neguen. Control tensional correcte al CAP: setembre 2016 136/68, novembre 2014 120/62.
+-Dislipèmia en tractament dietètic.
+-Hipotiroidisme subclínic sense tractament.
+-Síndrome ansiós depressiu.
+-Osteoporosi.
+-No deteriorament cognitiu conegut.
+
+MEDICACIÓ HABITUAL
+Avamys (Fluticasona) 1inh cada 12 hores, Dolocatil 650 mg cada 24 hroes, ibis (Bilastina)20 mg cada 24 hores, Lormetazepam 1 mg cada 24 hores, zaditen cada 24 hroes.
+
+PROCÉS ACTUAL
+Pacient que acudeix a urgències derivada del metge de familia, per quadre iniciat a la tarda del 16/03/2016 per desorientació amb lleu dificultat per la parla atribuida a ansietat degut a la mort del marit. A les 3am del 17/03/2017 es desperta desorientada, amb inestabilitat de la marxa, donant-se cops contra les portes. Torna a dormir, i el fill, al detectar apràxia del vestir, acudeix al CAP, que la deriva al nostre centre.
+Explica cefalea acompanyant ahir a la tarda. No nàusees ni vómits. No febre.
+
+EXPLORACIÓ FÍSICA
+
+FC	89 bpm
+Tªaxi 36.0 ºC
+FR	rpm Tªrec  ºC
+TA s	161 mmHg SAT O2 98 %
+TA d   76 mmHg Pes Kg
+
+TA: 161/76mmHg.
+AC: ritmic, no bufs.
+AR: murmuri vesicular conservat
+Exploració NRL a urgències: vigil, respon inadequadament la seva edat (fa parafàsies amb l'any 1900), respon adequadament el mes de l'any, obeeix una ordre simple (tancar els ulls), però quan ha de fer un puny solament aixeca la mà, se li mostra el puny i tampoc ho fa per imitació, no pot nominar adequadament fa parafàsies, repeteix frases de manera incorrecta (diu parafàsies), fluència conservada. HHD a la confrontació, moviments
+
+Informe d'alta d'hospitalització
+
+
+
+
+oculars conjugats normals, no dèficit de PPCC, lleu parèsia de EID, no dèficit sensitiu. NIHSS = 02002/00000/00200 = 6
+
+EXPLORACIÓ COMPLEMENTÀRIA
+Analítica sanguinia:
+-Hemograma:  Hemoglobina  14.1  g/dL,  Hematòcrit  41  %,  Volum  corpuscular  mitjà  89.4  fL,  Hemoglobina corpuscular mitja 31 pg, Plaquetes 318 K/mcL, Leucòcits 10.48 K/mcL.
+-Coagulació:  Tasa protrombina 91 %, Tasa protrombina (INR) 1.04, Temps de cefalina (TTPA)  30.8 segons, Temps de cefalina (ratio) 1, Fibrinogen (deduit) 427 mg/dL.
+-Glucosa * 123 mg/dL, Urea 27 mg/dL, Creatinina * 0.36 mg/dL, Ió sodi 140 mEqu/L, Ió potasi 4 mEqu/L.
+-Proteïna C reactiva * 1.26 mg/dL.
+
+ECG: ritme sinusal, sense alteracions de la repolartizació.
+Rx tòrax: no condensacions ni vessament pleural, no cardiomegalia.
+
+TAC craneal i angioTC: Hematoma intraparenquimatós occipito-temporal esquerra amb edema perilesional. Les troballes condicionen un efecte massa amb obliteració dels solcs corticals esquerres sense desviació de la línia mitja. L'estudi angiogràfic no mostra signes de sagnat actiu ni altres alteracions significatives.
+
+EVOLUCIÓ CLÍNICA
+A l'arribada al nostre centre es detecta afàsia i hemianòpsia homònima dreta. Es realitza una TC cranial simple que mostra hematoma temporooccipital esquerra.
+S'ingressa a Neurología a l'Unitat d'Ictus sota monitorització semiintensiva. Es mante hipertensa durant l'ingrés precisant inici de IECAs a dosis baixes. Es sol·licita RM cerebral que es farà de manera ambulatòria.
+
+Es realitza logopèdia  durant l'ingrés i la pacient presenta milloria de l'afàsia, persistint la hemianòpsia homònima dreta a l'alta.
+Donada l'estabilitat clínica i hemodinàmica es decideix alta a domicili amb seguiment de manera ambulatòria. Escales a l'alta:
+- Rankin 4 - grau de dependència modera. En el moment actual precisa cuidadora 24h.
+- NIHSS: 00102/00000/00100: 4
+
+DIAGNÒSTICS
+436/5 Hematoma temporoccipital esquerra
+Sospita d'angiopatia amiloide, pendent de RM cerebral.
+401.9 Hipertensió essencial inespecificada
+
+PROCEDIMENTS
+TC, analítica, radiografia toràcica.
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Enalapril 5mg cada 12h
+Resta de tractaments sense canvis.
+
+Avamys (Fluticasona) 1inh cada 12 hores, Dolocatil 650 mg cada 24 hroes, ibis (Bilastina)20 mg cada 24 hores,
+
+Informe d'alta d'hospitalització
+
+
+
+
+Lormetazepam 1 mg cada 24 hores, zaditen cada 24 hores.
+
+CONTROL
+Control a consultes externes de Neurologia el dia 26 de Juny a les 12h. Primera planta d'edifici de consultes externes.
+Se l'avisarà per realitzar una RM cerebral al nostre centre. Continuar amb logopèdia.
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+22.03.2017
+Pàgina 1 de 3

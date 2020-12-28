@@ -1,0 +1,142 @@
+_LOCATION_
+_LOCATION_) Anul·lació/Reprogramació visites:_CONTACT_
+Telèfon Centraleta: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 82 Anys
+NIF/DNI: _ID__NAME_; _NAME_; _NAME_
+Informe d'alta d'hospitalització
+19:07:34
+08.05.2017
+_LOCATION_
+_SS_ NEUROLOGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_
+DOMICIL/RES.SOC 24.04.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Sospecha estatus parcial complejo.
+
+ANTECEDENTS
+-No alergias medicamentosas conocidas.
+-Fumador (difícil cuantificar DA), enol 2 UBEs/día, no otros tóxicos.
+-DLP sin tratamiento farmacológico, no HTA ni DM.
+
+Antecedentes personales
+-	No cardioneumopatías conocidas.
+-	Episodio de TVP femoropoplítea en 2015, desconocemos si realizó tratamiento anticoagulante ni seguimiento al alta.
+
+-Situación sociofuncional: vive con esposa de la que es el cuidador principal, hijo fallecido, no otros hijos ni nietos. Independiente para las ABVD, sale a la calle y trabaja en el huerto habitualmente. FFSS conservadas.
+
+MEDICACIÓ HABITUAL
+No consta.
+
+PROCÉS ACTUAL
+El paciente es encontrado al mediodía por la policía en su coche, inicio de los síntomas 14.45h (no conduciendo, iba a arrancarlo, según refiere la esposa se dirigía a pasar la ITV), presenta desorientación, mutismo y debilidad de extremidades izquierdas, se avisa al SEM activándose código ictus siendo derivado a _SS_ para valoración. En ese momento normotenso, FC 70lpm, DXT 146.
+
+A su llegada a Urgencias, TA 220/110 mmHg, FC 110-150 lpms (FA rápida de debut),  afebril, DXT 130. Clínicamente con desviación oculo-cefalica a la derecha y plejia de extremidades derechas además de mutista, posteriormente inicia versión forzada a la derecha con clonias faciales derechas y de la mano derecha. Las clonias ceden con rivotril (1/4 de ampolla), pero persiste tendencia oculo-cefálica a la derecha y nistagmus que finalmente desaparece.
+
+El paciente cae en FA rápida hasta 160 lpms, inicialmente mal tolerada, con hipotensión y desaturación. Se inicia tratamiento frenador con digoxina 0.5 mg ev a la vez que se administra labetalol 50 mg ev por hipertensión arterial mantenida. Precisa colocación de VMK con FiO2 altas y posteriormente Monagan. Con el tratamiento frenador la FA revierte espontaneámente a RS.
+
+Tras estabilizar al paciente se traslada al TC craneal. Se realiza TC craneal, perfusión, angioTC sin signos sugestivos isquemia aguda/subaguda (ASPECTS 10), como tampoco defectos de repleción de grandes vasos intracraneales. Discreto aumento del TTM, sin repercusión sobre el FSC ni VSC.
+
+Se orienta como primera opción diagnóstica como status epiléptico. A valorar otras alternativas diagnósticas como
+
+Informe d'alta d'hospitalització
+
+
+
+
+crisis focal motora con postcrítico vs evento isquémico agudo con crisis sintomáticas. Se inicia impregnación con VPA 1600 mg ev y posterior perfusión en 24h. Se practica además punción lumbar (consta afebril) con bioquímica prot 0.48 g/L, glu 5.7 mmol/L, no pleocitosis, tinción gram, cultivo y PCR para virus (CMV, herpes,adenovirus,VHZ) negativas.
+
+Estando en Box- Urgencias el paciente persiste sin recuperar nivel de conciencia, con SatO2 correctas. Se realiza gasometría venosa que muestra pCO2 80, pH 7.10 , HCO 3 29, lactato normal y leucocitosis 17000. Se traslada a UCI 2.1.
+
+Presenta nuevamente mioclonias faciales con importante agitación psicomotriz, decidiendo intubación electiva y e inicio de sedación con midazolam y morfina. Se repite TAC craneal a las 24h, descartando probables eventos isquémicos/hemorrágicos subagudos no visualizados en el inicial. También se practica EEG, que se informa como inespecífico, aunque si describen área de disfunción neuronal frontal izquierda con ocasional actividad irritativa. Por dicho motivo mantenemos tratamiento antiepiléptico con valproato (niveles en rango 66 mg/L)
+
+La madrugada del 26/04 el paciente se autoextuba, manteniéndose posteriormente eupneico, sin trabajo respiratorio y saturaciones del 100% (VMK al 50%). Se encuentra consciente y reactivo, con discurso algo incoherente y repetitivo, responde parcialmente a algunas órdenes , sin aparente focalidad neurológica, moviliza las 4 extremidades de forma simétrica.
+
+Como incidencias, destacar nueva caída en AcxFa a 160 lpms, que requiere de perfusión de amiodarona para recuperación de ritmo sinusal (50-60 lpms). Además de inicio de cobertura  empírica con augmentine, dada presencia de febrícula y secreciones respiratorias (BAS 25/04: escasa flora mixta).
+
+Se manitene el paciente en vigilancia neurológica durante 24h más, sin incidencias, por lo que dada estabilidad solicitamos traslado a planta de Neurología para continuar estudio.
+
+EXPLORACIÓ FÍSICA
+
+Buen estado general, HDME con TA 151/63mmHg, FC 50lpm, afebril, eupneico tolerando decúbito sin trabajo respiratorio con SpO2 basales mantenidas, afebril. Normocoloreado y normoperfundido.
+NRL: CyO en tiempo, espacio y persona, no DOC, MOEs sin restricciones, no  HH  por amenaza.  Disartria moderada. Lenguaje (evoca, nomina y repite correctamente), dificultad para compresión de órdenes simples y complejas. No PFSN, resto de PPCC conservados. Moviliza de forma simétrica 4 EE.Sensibilidad conservada. RMTs ok. RCP flexor bilateral.
+AC: TCR sin soplos ni extratonos. No IY ni RHY. AP: MVC sin ruidos sobreañadidos
+Abdomen: anodino.
+EEII: no edemas ni signos de TVP.
+
+
+
+EXPLORACIÓ COMPLEMENTÀRIA
+Exploraciones Complementarias  en Urgencias-UCI:
+Analítica: Equilibrio venoso: pH 7.17, PCO2 82mmHg, HCO3 29.2mmol/L Bioquímica: Glucosa 9.2mmol/L, Urea 6.1mmol/L, Creatinina 82umol/L, Na+ 141mmol/L, K+ 5.09mmol/L Cloro 101mmol/L Coagulación: TTPA 0.74,TP
+
+Informe d'alta d'hospitalització
+
+
+
+
+0.99 Hemograma: Hb 147g/dL; Htc 44%, VCM 100fL, Plaquetas 180x10E9/L, Leucocitos 15.9x10E9/L(N 92.6%; L 5%). lactato 3.02mmol/L, Función hepática bilirrubina 5umol/L, alfa amilasa 0.94mmol/L.
+TAC craneal, perfusión y angioTC: No se observa hipodensidad ni desdiferenciación del parénquima cerebral, sugestivos isquemia aguda/subaguda (ASPECTS 10), como tampoco defectos de repleción de grandes vasos intracraneales. Discreto aumento del TTM, sin repercusión sobre el FSC ni VSC.
+Radiografía de tórax (decúbito): ICT 0,5 , hilios pulmonares prominentes, sin condensaciones ni de derrame pleural.
+EEG: Anormal por encefalopatía difusa y disfunción neuronal focal frontal izquierda con ocasional componente irritativo sobreañadido.
+Analítica ingreso: Función renal e ionograma sin alteraciones a excepción de hipokalemia de 3.24 mmol/L. Función hepática con gGT 1.47 Ukat/L, resto sin alteraciones. Hemograma destacar discreta plaquetopenia de 136.000/L con coagulación normal. Resto sin alteraciones destacables.
+
+Exploraciones Complementarias realizadas en Planta de NRL:
+RMN cerebral: Lesión encefalomalácico-gliótica subcortical parietal izquierda de probable origen isquémico antiguo. Cambios involutivos en parénquima encefálico con atrofia global y lesiones en sustancia blanca probablemente secundarias a enfermedad de pequeño vaso.
+ECG: Ritmo sinusal a 75lpm, eje 60º, PR 0,12, QRS estrecho, T picudas en V3-V4 sin otras alteraciones agudas en la repolarización.
+ETT: Ventrículo izquierdo no dilatado ni hipertrófico, con función sistólica global conservada y sin alteraciones segmentarias de la contractilidad. Disfunción diastólica tipo I. Ventrículo derecho no dilatado, normocontráctil. SIA íntegro desplazado hacia cavidades derechas. Aurícula izquierda moderamente dilatada. Raiz aórtica y aorta ascendente no dilatadas. Válvula aórtica trivalva, esclerosada con predominio del velo no coronário sin estenosis ni insuficiencia. Válvula mitral con anillo posterior calcificado, ligera insuficiencia. Insuficiencia tricuspídea ligera que permite estimar una PAPs de 21 mmHg. Flujo pulmonar no sugestivo de HTP. Vena cava inferior no dilatada. No se observa derrame pericárdico.
+
+
+EVOLUCIÓ CLÍNICA
+Ingresa en Neurologia procedente de la UCI por sospecha de status parcial complejo. En tratamiento con ácido valproico (1600mg en perfusión contínua) no evidencia de nuevos episodios de crisis comiciales desde su ingreso. Se procede a cambio de medicación vía oral ( 500mg cada 8horas) sin incidencias.
+
+Para completar estudio realizamos RMN cerebral en la que se observa lesión encefalomalácico-gliótica subcortical parietal izquierda de probable origen isquémico antiguo, resto estudio sin alteraciones valorables.
+Se realiza adicionalmente un ecocardiograma transtorácico que se encuentra dentro de los límites de la normalidad. La analítica inicial no muestra alteraciones destacables.
+
+Durante su estancia en la planta el paciente se ha mantenido hemodinámicamente estable, a nivel cadiológico sin nuevos episodios de FA rápida, mateniéndose en RS desde inicio de tratamiento con amiodarona. Iniciamos anticoagulación con Aldocumar sin incidencias. A nivel neurológico sin nuevos episodios de crisis comiciales. Ha tolerado dieta oral y deambulación autónoma desde el inicio.
+
+A dia de hoy neurlógicamente no presenta focalidad neurológica, únicamente ligero aumento de la base de sustentación durante la deambulación, resto exploración neurológica sin alteraciones.
+
+Informe d'alta d'hospitalització
+
+
+
+
+Se orienta el caso como status parcial complejo posiblemente sindrómico remoto por lesión isquémica antigua (parietal izquierda).
+
+Dada la estabilidad clínica se decide alta a domicilio a dia 8 de mayo del 2017. Seguirá controles con NRL de zona.
+
+DIAGNÒSTICS
+345.90/2 Status epileptic
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Aldocumar 10mg según pauta.
+TRANGOREX (Amiodarona) 200mg cada 24horas. DEPAKINE (Valproato) 500mg cada 8horas.
+Omeprazol 20mg cada 24horas.
+
+
+CONTROL
+Control por NRL de zona. Control por Cardiólogo de zona.
+Acudir a CEX Hematología _SS_ para control de INR según programación.
+
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+08.05.2017
+Pàgina 1 de 4

@@ -1,0 +1,126 @@
+I.CLINIC DE NEUROCIÈNCIES NEUROLOGIA
+_NAME_	NHC: _ID_
+
+
+Sexo/Sexe: Fem.	Fecha nac./Data naix.: _DATE_	Edad/Edat: 77 años Dirección/Adreça: _LOCATION_		CP: _LOCATION_
+Municip. (Prov.): _LOCATION_  ABS:_SS_	Tel.:_CONTACT_
+As.: SERVEI CATALA DE LA SALUT	CIP: _ID_	NASS: _ID_
+Nº epis.: _ID_	Tipo/Tipus: HOSPIT.	Inici.: 24.04.2017
+Serv: NEUROLOGIA	UO Enf.: G064 SALA G DE NEUROLOGIA	Hora: 01:06:12 Facult. de ref.: _NAME_
+
+
+
+
+Tipo ingreso/Tipus ingrés: Urgent	Motivo/Motiu alta: Dom. Familiar
+Diag.:
+ICTUS ARTERIA CEREBRAL MEDIA DERECHA. ()
+Proc.:
+MONITORIZACIÓN HEMODINÁMICA () ANGIOTAC ()
+
+
+
+
+INFORME CLÍNICO ALTA / INFORME CLÍNIC ALTA
+
+Motivo de consulta / Motiu de consulta
+Debilidad súbita de extremidades izquierdas.
+
+Antecedentes e historia previa / Antecedents i història prèvia
+Mujer de 77 años, sin alergias medicamentosas ni hábitos tóxicos. Independiente para la vida diaria, mRS 0.
+
+ANTECEDENTES PATOLÓGICOS:
+1.	HIPERTENSIÓN ARTERIAL en tratamiento con varios fármacos.
+2.	ASMA BRONQUIAL en tratamiento inhalador.
+3.	VÉRTIGO PAROXÍSTICO BENIGNO
+
+MEDICACIÓN HABITUAL:
+Omeprazol 20 mg/24h; budesonida+formoterol 320 mcg 1 inh/12h; doxazosina 4 mg/24h; paracetamol 1000 mg/8h; bisoprolol 2.5 mg/24h; eporsartan 600 mg/24h.
+
+Proceso actual / Procés actual
+Paciente que sobre las 19.25h del 23/04 presenta debilidad súbita de extremidades izquierdas, por lo que avisan a SEM, quienes la traen como código ictus.
+
+Exploración física / Exploració física
+Glicemia capilar 60 mg/dl. Frecuencia respiratoria 14 rpm, PAS 147 mmHg, PAD 52 mmHg, Pulsioximetría 94%, Tª axilar 36.8ºC.
+NRL: Alerta y orientada. Lenguaje hipofluente sin alteraciones. Disartria moderada. Hemianopsia homónima izq. Mirada conjugada con tendencia a mirar a la drcha. Extinción visual izq. Hemiparesia facio (mod)- braquio (0/5)- crural (1/5) izq. Sensibilidad sin alteraciones. Dismetrías no valorables. Anosognosia. NIHSS 16.
+
+Laboratorio / Laboratori
+
+
+*	ANALÍTICA SANGUÍNEA: Sin alteraciones a destacar (Se adjunta).
+
+Radiología / Radiologia
+*	RX TÓRAX: Se aprecia aumento de hilio derecho (ya presente en Rx de tórax del 2015). No infiltrados ni condensaciones.
+
+* TC MULTIMODAL:
+-	TC CRANEAL BASAL: No se observa hemorragia intra ni extraaxial. Imagen hiperdensa a nivel de la arteria cerebral media derecha, compatible con trombo en su interior. Cambios involutivos parenquimatosos corticosubcorticales globales. Signos de leucoaraiosis periventricular. (ASPECTS 10).
+-	TC PERFUSIÓN: Alteración en los mapas de flujo y volumen con ausencia de perfusión del territorio profundo de la ACM derecha y retraso en la perfusión del territorio superficial de la ACM derecha, con discordancia significativa.
+-	ANGIO-TC:
+Oclusión completa del segmento M1 de la arteria cerebral media derecha. Leve ateromatosis calcificada del arco aórtico. Arterias carótidas comunes y ACIs permeables. Resto de las principales arterias cerebrales intracraneales permeables (ACAs, ACM izquierda y ACPs). Origen fetal de ambas ACPs por hipoplasia /aplasia de ambos segmentos P1. Ápex pulmonares sin hallazgos radiológicos valorables.
+
+*	TRATAMIENTO MECÁNICO DEL ICTUS: Se realiza serie desde ACID confirmándose la presencia de una oclusión (TICI grado 0) de ACMD M1 proximal. Se procede al microcateterismo selectivo de la arteria ocluida, logrando atravesar el trombo y realizándose 03 pases con sistema de aspiración TICI 3 (discreto vasoespasmo de rama inferior). No se detectan incidencias durante ni inmediatamente tras el procedimiento.
+
+*	TC CRANEAL CONTROL POST-TRATAMIENTO:
+No se aprecian sangrados intracraneales. Hipedensidad basal en el trayecto de la ACMD. Lesiones desmielinizantes a nivel de la sustancia blanca periventricular y subcortical cerebral. Mínima hiperdesidad basal del nucleo lenticular derecho, posiblemente en relación al cev previo. Estructuras de la línea media centradas. Sistema ventricular de tamaño, morfología y localización conservada.
+*	RM CEREBRAL: infarto en territorio lenticuloestriadas derecha y caudado derecho con pequeños infartos corticales en territorio de ACMD.
+
+Exploraciones complementarias / Exploracions complementàries
+
+*	EMG: El estudio de la respuesta sudomotora simpática cutánea muestra potenciales de acción de latencia y amplitud simétricas en ambos lados a la inspiración, amenaza o estimulación eléctrica de ambos lados.
+*	Ecoscan: sin evidencia de fuentes cardioembólicas.
+*	Holter: Ritmo sinusal durante todo el estudio.Fc mínima de 59 lpm, promedio de 69 lpm y máxima de 91 lpm. Sin arritmias ventricualres.ESV aisladas con densidad menor al 1%.4 rachas de TSVNS ,la mas larga de 7 latidos.No otras arritmias supraventricualres. No bloqueos ni pausas significativas.R-R máximo de 1.0 seg.
+
+Evolución / Evolució
+EVOLUCIÓN EN NRL:
+1.	ICTUS ISQUÉMICO EN TERRITORIO DE ART. CEREBRAL MEDIA DERECHA (ACMD): trombectomía mecánica 23/3/2017
+Paciente con los antecedentes descritos que presenta el día 23/4 debilidad súbita de extremidades izquierdas. A su llegada a nuestro centro se encuentra levemente hipertensa (TAS 150 mmHg) y afebril. En la exploración se observa síndrome hemisférico derecho extenso. Analítica sanguínea sin alteraciones relevantes. ECG en ritmo sinusal. Se realiza TC craneal multimodal que muestra signo de arteria cerebral media hiperdensa en ACMD sin lesiones agudas en secuencias basales; retraso de perfusión en territorio de ACMD  y  caída  de  volumen  en  territorio  insular  derecho  con  missmatch  significativo.  Estudio  vascular
+
+
+
+(angioTC) con oclusión de ACMD segmento M1. Se administra tratamiento fibrinolótico y se realiza trombectomía mecánica logrando recanalización completa (TICI 3) de la ACMD, a pesar de observar discreto vasoespasmo de rama inferior de ACMD.
+Tras el tratamiento la paciente presenta mejoría clínica con gran recuperación de la paresia y de la alteración visual, persistiendo tanto negligencia visual como táctil así como anosognosia y leve hemiparesia faciobraquiocrural (NIHSS 5). El TC craneal de control descarta complicaciones hemorrágicas. Ecoscan sin evidencia de fuentes embólicas. Se completa estudio mediante holter que no muestra arritmias. RM craneal control muestra infarto en territorio lenticuloestriadas derecha y caudado derecho con pequeños infartos corticales en territorio de ACMD.
+Se  trata  de  un  ictus  isquémico  agudo  en  territorio  de  arteria  cerebral  media  derecha  de  etiología indeterminada. Se inicia tratamiento antiagregante con AAS 100 mg/24h.
+Durante su estancia hospitalaria la paciente presenta mejoría clínica, con persistencia de paresia braquial y crural derecha leve (5-/5). Se mantiene tratamiento antiagregante con AAS y se decide alta.
+
+NIHSS: 0, mRs 1, TOAST: Indeterminado (estudio completo).
+
+Plan terapéutico / Pla terapèutic
+-	Losartan 100 mg. Vía oral. Una vez al día, en el desayuno.
+
+-	Bisoprolol 2,5 mg. Vía oral. Una vez al día, en el desayuno.
+
+-	Rilast forte turbuhaler 1 DOS. Vía inhalatoria. Dos veces al día: desayuno y cena.
+
+-	Atorvastatina 40 mg. Vía oral. Una vez al día, en la cena.
+
+-	Amlodipino 5 mg. Vía oral. Cada 12 horas.
+
+-	Omeprazol 20 mg. Vía oral. Una vez al día, en el desayuno.
+
+-	Acido acetilsalicilico 100 mg. Vía oral. Una vez al día, en el desayuno.
+
+-	Paracetamol 1000 mg. Vía oral. Cada 8 horas, si precisa.
+
+Otras recomendaciones / Altres recomanacions
+-	Se remite a médico de familia para control de factores de riesgo cardiovascular.
+-	Control en hospital de día de neurología (se adjunta cita).
+
+
+
+Firma/Signatura1: _NAME_		Firma/Signatura2: _NAME_ Categoría: Resident 2	Categoría: Consultor/a 1
+Nº Matrícula HCP: _ID_	Nº Matrícula HCP: _ID_
+
+Fecha/Data Informe: 28.04.2017
+Hora Informe: 16:06:39
+
+Docum.: _ID_
+Hist. Clínica: _ID_
+El _SS_ ha incorporado sus datos al Fichero de Pacientes, para tratarlos con fines sanitarios.
+Puede ejercer sus derechos de acceso, rectificación, cancelación y oposición, así como obtener mas información en la Unidad de Atención al Cliente.
+Vers. 00
+Pag. 2 de
+3
+Episod.: _ID_
+_SS_ ha incorporat les seves dades al Fitxer de Pacients, per a tractar-los amb finalitats sanitàries. Pot exercir els seus drets d'accés, rectificació, cancel·lació i oposició, i obtenir més informació a la Unitat d'Atenció al Client.
+_SS_
+_LOCATION_) _LOCATION_) Tel. _CONTACT_ Fax _CONTACT_
+http://_CONTACT_/

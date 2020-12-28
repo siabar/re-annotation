@@ -1,0 +1,130 @@
+_LOCATION_ Telf Consultes: _CONTACT_ / _CONTACT_
+Telf Centraleta Hospital: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 56 Anys
+NIF/DNI: _ID__NAME_; _NAME_;
+Informe d'alta d'hospitalització
+15:18:25
+03.08.2017
+_LOCATION_
+_SS_ NEUROLOGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_
+DOMICIL/RES.SOC 29.07.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Ictus isquèmic a territori ACM esquerra.
+
+ANTECEDENTS
+-	Al·lèrgia al contrast iodat, metamizol, làtex , fruits secs i sulfits.
+-	Fumadora d'uns 20 cigarrets a la setmana.
+
+-	HTA, sense tractament mèdic.
+-	Psoriasis.
+-	Leucèmia fa 20 anys, donada d'alta per Hematologia. Va ser tractada amb quimioteràpia.
+-	Abdominoplàstia (1989).
+-	Pendent IQ hèrnia abdmominal.
+
+
+-	Situació basal prèvia: Independent per a les activitats de la vida diària. Rankin 0.
+
+MEDICACIÓ HABITUAL
+Ocasionalment hipnòtic per conciliar el son.
+
+PROCÉS ACTUAL
+Dona de 56 anys que és portada a Urgències pel SEM la nit del dia 28/07/2017 per presentar de manera sobtada alteració de la parla i debilitat en extremitats dretes (00:30h), pel que s'activa Codi Ictus. A les 01:35 hores la pacient presenta millora respecte la prèvia: motilitat ocular normal, camps visuals normals; disàrtria (1); persisteix afàsia amb important problema de fluència amb afectació de la denominació, emissió de parafàsies i ocassionals neologismes; obeeix ordres (2); parèsia mínima facial inferior dreta (1), força a extremitat superior dreta normal, parèsia lleu de cama dreta que no arriba a tocar llit als 5 segons però poca força contra resistència (1), sensibilitat normal, no signes d'heminegligència. NIHSS total 5. S'inicia tractament amb trombolisi ev a les 2:08 hores.
+
+EXPLORACIÓ FÍSICA
+
+FC	bpm Tªaxi 37.0 ºC
+FR	rpm Tªrec  ºC
+TA s	140 mmHg SAT O2  %
+TA d   70 mmHg Pes Kg
+
+Bon estat general, normocolorejada i normohidratada. Afebril. Eupneica a la parla.
+
+-	NRL: Alerta. Col·laboradora. Orientada en les tres esferes. Parells cranials conservats. No dèficit campimètric per confrontació. Comprèn ordres complexes. Dificultat per la denominació amb bloqueig del llenguatge i parafàsies semàntiques. No dèficit motor ni sensitiu. RTM presents i simètrics. RCP flexor  bilateral.
+-	AC: tons rítmics, no ausculto bufs ni frecs.
+-	AR: Murmuri vesicular conservat, sense sorolls sobreafegits.
+-	ABD:  tou  i  depressible,  no  dolorós  a  la  palpació,  no  masses  ni  megàlies. Cicatrius  d'abdominoplàstia.
+-	
+Informe d'alta d'hospitalització
+
+
+
+
+Peristaltisme conservat.
+-	Lesions a cara anterior d'ambdues cames suggestives de psoriasis.
+
+EXPLORACIÓ COMPLEMENTÀRIA
+A/S urgències (28/07/2017):
+-	BQ: Creatinina 0.76 mg/dL, Urea 26 mg/dL, Na 141 mE/L, K 3.9 mEq/L.
+-	Hemograma: Leucocits 7710/mL amb fòrmula normal, Hemoglobina 13.1 g/dL, Hematocrit 37.8 %, Plaquetes 259/mcL.
+-	Hemostàsia: Fibrinogen 498 mg/dL, INR 1.00, TTPAr 0.80.
+A/S UCIm (/07/2017):
+-	BQ: Creatinina 0.68 mg/dL, Glucosa 132 mg/dL, K 3.8 mEq/L, Na 140 mEq/L, Urea 28 mg/dL.
+-	Hemoastàsia: INR 0.99, T.protrombina 10.7 seg, Raó T.protrombina 0.99, TTPA 23.5 seg, Raó TTPA 0.75,
+Fibrinogen 391 mg/dL.
+-	Hemograma: Hemoglobina 12.8 mg/dL, Hematòcrit 38.3 %, Leucòcits 8700/mL amb fòrmula normal, Plaquetes 249000/mL.
+-	GSV: pCO2 40.8 mmHg, pH 7.336, Bicarbonato efectiu 21.3 mmol/L, EB -4.5 mmol/L, Ió calci (II) 1.16 mmol/L, Clorur 108 mEq/L, Lactat 1.82 mmol/L, Glucosa 135 mg/dL, Bilirubina <2 mg/dL.
+A/S Neurologia (/08/2017):
+-	BQ: Glucosa 82 mg/dL, Urat 5.50 mg/dL, Urea 30 mg/dL, Creatinina 0.73  mg/dL, Colesterol 218 mg/dL, Colesterol dHDL 46 mg/dL, Colesterol LDL 143.23 mg/dL, Triglicèrid 143 mg/dL, AST 26 U/L, ALT 29 U/L, GGT 65 U/L, FA 54 U/L, Na 143.0 mEq/L, K 3.6 mEq/L.
+-	Hormones: Tirotropina (TSH) 2.98 uUI/mL, Tiroxina (FT4) 1.05 ng/dL.
+-	Serologia: Treponema pallidum, anticossos (IgG+IgM) No reactiu, Treponema pallidum (index) <0.10.
+-	Hemograma: Hemoglobina 12.1 g/dL, Hematòcrit 36.3 %, VCM 88.1 fL, ADE 12.5 %, CCMH 33.3 g/dL, HCM 29.4 pg, Leucòcits 6410/mL (N 40.7%, L 49.1 %), Plaquetes 244000/mL.
+
+TAC cranial (29/07/2017): No s'observen lesions isquèmiques ni hemorràgiques.
+TAC cranial de control (30/07/2017): Lesió isquèmica en evolució a territori d'ACM esquerre. No s'observen lesions hemorràgiques agudes.
+RMN i angioRMN intracranial i de TSA (02/08/2017): Infart isquèmic agut-subagut del territori vascular de l'ACM esquerra de probable origen cardioembòlic. Lleu leucoaraiosis periventricular. Resta sense troballes significatives. Rx tòrax (02/08/2017): ICT < 0.5, sins costofrènics i cardiofrènics lliures, sense infiltrats ni condensacions agudes. Marc ossi sense alteracions.
+
+ECG Holter-24h (/08/2017): Ritme sinusal, sense pauses ni arrítmies significatives.
+Ecocardiografia transtoràcica (01/08/2017): Dins de la normalitat.
+Ecocardiografia transesofàgica (03/08/2017): Dins de la normalitat.
+
+EVOLUCIÓ CLÍNICA
+Dona de 56 anys que ingressa a Neurologia per ictus isquèmic d'arteria cerebral mitja esquerra tractada amb fibrinolisis ev amb rtPA amb recuperació gairebé completa de la simptomatologia.
+
+Informe d'alta d'hospitalització
+
+
+
+
+
+Durant l'estància a UCI, la pacient ha presentat bona evolució clínica restant lleu afàsia motora NIHSS 2. S'ha realitzat TAC crani que mostra lesió isquèmica a territori cortical ACM esquerra. Durant l'ingrés a planta de Neurologia, s'ha realitzat estudi etiològic sense troballes patològiques. Donada la bona evolució clínica, es decideix alta a domicili.
+DIAGNÒSTICS
+Ictus isquèmic d'artèria cerebral mitja esquerra. Criptogènic amb estudi complert. NIHSS 0. Rankin 1 Hipercolesterolèmia
+
+PROCEDIMENTS
+87.03 Tomografia axial computada de cap. TAC de cap
+88.91	Imatge per ressonància magnètica de cervell i tronc cerebral
+88.92	Imatge p/ressonància magnètica tòrax/miocardi per a avaluació de limfoadenopaties hilar/mediastínica
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+- AAS 100mg/24h.
+-	Atorvastatina 40mg/24h.
+-	Deixar de fumar.
+-	Dieta mediterrània.
+
+CONTROL
+Pel seu metge de capçalera i especialistes habituals.
+Objectius Colesterol LDL < 100 mg/dl i TA aprox 130/90
+cotnrol a CCDEE de NRL en tres mesos. Aportarà analítica ambulatòria.
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+03.08.2017
+Pàgina 1 de 3

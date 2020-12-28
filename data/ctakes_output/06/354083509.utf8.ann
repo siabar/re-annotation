@@ -1,0 +1,106 @@
+T0	HORA 218 223	22:37
+#0	AnnotatorNotes T0	22:37
+T1	FECHA 227 237	27.03.2017
+#1	AnnotatorNotes T1	2017-03-27
+T2	FECHA 334 344	26.03.2017
+#2	AnnotatorNotes T2	2017-03-26
+T3	SECCION_MOTIVO_DE_INGRESO 433 447	MOTIU D'INGRÉS
+T4	SECCION_ANTECEDENTES 520 531	ANTECEDENTS
+T5	SECCION_ANTECEDENTES_PERSONALES 532 555	ANTECEDENTES PERSONALES
+T6	FECHA 860 873	junio de 2013
+#6	AnnotatorNotes T6	2013-06-UNDEF-day
+T7	_SUG_Trombolisis_intravenosa 888 894	tPA EV
+T8	_SUG_Tratamiento_anticoagulante 921 928	Sintrom
+T9	_SUG_Trombectomia_mecanica 932 952	rescate intrarterial
+T10	_SUG_Trombectomia_mecanica 999 1020	trombectomía mecánica
+T11	_SUG_Recanalizacion 1085 1099	recanalización
+T12	_SUG_Recanalizacion 1174 1188	rehabilitación
+T13	_SUG_Recanalizacion 1290 1304	recanalización
+T14	FECHA 1339 1343	2013
+#14	AnnotatorNotes T14	2013-UNDEF-month-UNDEF-day
+T15	SECCION_SITUACION_FUNCIONAL 1797 1821	Situación sociofuncional
+T16	_SUG_Trombectomia_mecanica 2142 2150	mecànica
+T17	FECHA 2162 2172	enero 2012
+#17	AnnotatorNotes T17	2012-01-UNDEF-day
+T18	FECHA 2202 2206	2013
+#18	AnnotatorNotes T18	2013-UNDEF-month-UNDEF-day
+T19	_SUG_Trombolisis_intravenosa 2289 2298	trombosis
+T20	SECCION_TRATAMIENTO_HABITUAL 2753 2771	MEDICACIÓ HABITUAL
+T21	_SUG_Tratamiento_anticoagulante 2974 2981	Sintrom
+T22	SECCION_PROCESO_ACTUAL 3092 3105	PROCÉS ACTUAL
+T23	HORA 3327 3332	23:54
+#23	AnnotatorNotes T23	23:54
+T24	SECCION_EXPLORACION_FISICA 3341 3358	EXPLORACIÓ FÍSICA
+T25	HORA 3409 3413	0.24
+#25	AnnotatorNotes T25	00:24
+T26	_SUG_NIHSS 3982 3990	NIHSS 17
+T27	SECCION_EXPLORACIONES_COMPLEMENTARIAS 3992 4017	EXPLORACIÓ COMPLEMENTÀRIA
+T28	_SUG_TAC_craneal 4164 4166	TC
+T29	_SUG_ASPECTS 4266 4279	ASPECTS 10/10
+T30	FECHA 4274 4279	10/10
+#30	AnnotatorNotes T30	2013-10-10
+T31	_SUG_Trombectomia_mecanica 5093 5101	mecànica
+T32	FECHA 5750 5754	27/3
+#32	AnnotatorNotes T32	2013-03-27
+T33	_SUG_Trombolisis_intravenosa 6023 6027	TTPA
+T34	_SUG_Trombolisis_intravenosa 6037 6042	rTTPA
+T35	_SUG_TAC_craneal 6049 6059	TC Cranial
+T36	FECHA 6072 6076	27/3
+#36	AnnotatorNotes T36	2013-03-27
+T37	_SUG_TAC_craneal 6110 6113	tac
+T38	FECHA 6124 6133	26-3-2017
+#38	AnnotatorNotes T38	2017-03-26
+T39	HORA 6136 6138	10
+#39	AnnotatorNotes T39	10:00
+T40	_SUG_TAC_craneal 6314 6317	tac
+T41	_SUG_Trombectomia_mecanica 6634 6646	trombectomia
+T42	SECCION_EVOLUCION 6648 6664	EVOLUCIÓ CLÍNICA
+T43	_SUG_NIHSS 6757 6768	NIHSS de 17
+T44	_SUG_TAC_craneal 6791 6793	TC
+T45	_SUG_Tratamiento_anticoagulante 7055 7067	acenocumarol
+T46	_SUG_Trombectomia_mecanica 7146 7174	tratamiento revascularizador
+T47	_SUG_Trombolisis_intravenosa 7146 7174	tratamiento revascularizador
+T48	_SUG_Trombolisis_intravenosa 7370 7398	tratamiento fibrinolítico en
+T49	_SUG_Trombectomia_mecanica 7451 7476	tratamiento intraarterial
+T50	HORA 7523 7528	01:45
+#50	AnnotatorNotes T50	01:45
+T51	_SUG_Recanalizacion 7534 7548	recanalización
+T52	_SUG_NIHSS 7609 7616	NIHSS 4
+T53	_SUG_Trombolisis_intravenosa 8280 8289	trombosis
+T54	_SUG_Trombectomia_mecanica 8417 8425	mecànica
+T55	FECHA 9079 9086	26/3/17
+#55	AnnotatorNotes T55	2017-03-26
+T56	_SUG_Tratamiento_anticoagulante 9211 9219	heparina
+T57	_SUG_Trombolisis_intravenosa 9458 9467	trombosis
+T58	FECHA 9727 9734	27/3/17
+#58	AnnotatorNotes T58	2017-03-27
+T59	_SUG_TAC_craneal 9758 9768	TC craneal
+T60	_SUG_TAC_craneal 9801 9804	tac
+T61	FECHA 9815 9824	26-3-2017
+#61	AnnotatorNotes T61	2017-03-26
+T62	HORA 9827 9829	10
+#62	AnnotatorNotes T62	10:00
+T63	_SUG_TAC_craneal 10007 10010	tac
+T64	_SUG_Trombectomia_mecanica 10289 10301	trombectomia
+T65	HORA 10656 10658	18
+#65	AnnotatorNotes T65	18:00
+T66	FECHA 11060 11064	2013
+#66	AnnotatorNotes T66	2013-UNDEF-month-UNDEF-day
+T67	_SUG_Trombectomia_mecanica 11163 11171	mecànica
+T68	FECHA 11189 11193	2012
+#68	AnnotatorNotes T68	2012-UNDEF-month-UNDEF-day
+T69	_SUG_Trombectomia_mecanica 11278 11299	trombectomía mecànica
+T70	_SUG_Recanalizacion 11305 11319	recanalización
+T71	_SUG_Trombolisis_intravenosa 11444 11453	trombosis
+T72	_SUG_Trombolisis_intravenosa 11542 11551	trombosis
+T73	SECCION_DIAGNOSTICOS 11679 11690	DIAGNÒSTICS
+T74	_SUG_Ictus_isquemico 11697 11702	Ictus
+T75	_SUG_Trombolisis_intravenosa 11705 11714	Trombosis
+T76	_SUG_Localizacion 11755 11762	aórtica
+T77	SECCION_PROCEDIMIENTOS 11796 11808	PROCEDIMENTS
+T78	_SUG_Trombectomia_mecanica 11859 11871	Trombectomía
+T79	SECCION_TRATAMIENTO_Y_RECOMENDACIONES_AL_ALTA 11887 11922	TRACTAMENT I RECOMANACIONS A L'ALTA
+T80	SECCION_CONTROL 11972 11979	CONTROL
+T81	SECCION_DESTINO_AL_ALTA 11997 12016	DESTINACIÓ A L'ALTA
+T82	FECHA 12076 12086	27.03.2017
+#82	AnnotatorNotes T82	2017-03-27

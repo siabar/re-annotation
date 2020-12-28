@@ -1,0 +1,31 @@
+T1	SECCION_DIAGNOSTICOS 27 39	Diagnosticos
+T2	SECCION_PROCEDIMIENTOS 471 485	Procedimientos
+T3	SECCION_MOTIVO_DE_INGRESO 551 568	Motivo de ingreso
+T4	SECCION_ANTECEDENTES 690 710	Antecedentes Médicos
+T5	SECCION_ANTECEDENTES_PERSONALES 690 710	Antecedentes Médicos
+T6	SECCION_SITUACION_FUNCIONAL 809 824	Situación basal
+T7	mRankin_previa 826 831	mRs 3
+#7	AnnotatorNotes T7	3
+T8	SECCION_TRATAMIENTO_HABITUAL 2193 2217	Tratamiento domiciliario
+T9	Tratamiento_antiagregante_hab 2222 2244	ACETILSALICILICO ACIDO
+T10	Fecha_de_alta 15 25	22-01-2018
+#10	AnnotatorNotes T10	2018-01-22
+T11	Hemorragia_cerebral 59 76	HEMATOMA CEREBRAL
+T12	Localizacion 97 106	OCCIPITAL
+T13	Lateralizacion 107 116	IZQUIERDO
+T14	Etiologia 139 151	HIPERTENSIVA
+T15	SECCION_PROCESO_ACTUAL 2942 2951	Anamnesis
+T16	Hora_inicio_sintomas 3108 3109	2
+#16	AnnotatorNotes T16	2:00
+T17	Fecha_inicio_sintomas 3122 3132	6 de enero
+#17	AnnotatorNotes T17	2018-01-06
+T18	Fecha_llegada_hospital 3122 3132	6 de enero
+#18	AnnotatorNotes T18	2018-01-06
+T19	SECCION_EXPLORACION_FISICA 4778 4789	Exploración
+T20	SECCION_EXPLORACIONES_COMPLEMENTARIAS_EN_URGENCIAS 5578 5605	Analítica Sanguínea urgente
+T21	SECCION_EXPLORACIONES_COMPLEMENTARIAS 7577 7611	Resultados pruebas complementarias
+T22	Localizacion 9563 9568	lobar
+T23	TAC_craneal 7780 7782	TC
+T24	SECCION_EVOLUCION 11519 11541	Evolución Hospitalaria
+T25	Test_de_disfagia 12669 12685	test de disfagia
+T26	SECCION_TRATAMIENTO_Y_RECOMENDACIONES_AL_ALTA 13532 13569	Recomendaciones y tratamiento al alta

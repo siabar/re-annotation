@@ -1,0 +1,115 @@
+T0	_SUG_Lateralizacion 0 1	I
+T1	FECHA 316 326	12.06.2017
+#1	AnnotatorNotes T1	2017-06-12
+T2	HORA 385 390	12:23
+#2	AnnotatorNotes T2	12:23
+T3	SECCION_TIPO_DE_INGRESO 422 447	Tipo ingreso/Tipus ingrés
+T4	_SUG_Lateralizacion 519 528	IZQUIERDO
+T5	_SUG_TAC_craneal 614 616	TC
+T6	_SUG_TAC_craneal 631 641	TC CRANEAL
+T7	SECCION_MOTIVO_DE_INGRESO 704 742	Motivo de consulta / Motiu de consulta
+T8	_SUG_Lateralizacion 781 789	derechas
+T9	SECCION_ANTECEDENTES 806 868	Antecedentes e historia previa / Antecedents i història prèvia
+T10	_SUG_mRankin_alta 1002 1007	mRS 0
+T11	_SUG_mRankin_previa 1002 1007	mRS 0
+T12	_SUG_Etiologia 1112 1124	HIPERTENSIÓN
+T13	FECHA 1280 1284	1997
+#13	AnnotatorNotes T13	1997-UNDEF-month-UNDEF-day
+T14	FECHA 1349 1353	2010
+#14	AnnotatorNotes T14	2010-UNDEF-month-UNDEF-day
+T15	SECCION_TRATAMIENTO_HABITUAL 1447 1468	*MEDICACIÓN  HABITUAL
+T16	SECCION_PROCESO_ACTUAL 1666 1696	Proceso actual / Procés actual
+T17	FECHA 1723 1728	12/06
+#17	AnnotatorNotes T17	2006-12-UNDEF-day
+T18	_SUG_Lateralizacion 1759 1766	derecho
+T19	_SUG_Ictus_isquemico 1891 1896	ictus
+T20	SECCION_PROCESO_ACTUAL 9060 9066	Episod
+T21	SECCION_EXPLORACION_FISICA 1898 1936	Exploración física / Exploració física
+T22	FECHA 1937 1947	12/06/2017
+#22	AnnotatorNotes T22	2017-06-12
+T23	HORA 1948 1953	13:00
+#23	AnnotatorNotes T23	13:00
+T24	FECHA 2048 2058	12/06/2017
+#24	AnnotatorNotes T24	2017-06-12
+T25	HORA 2059 2064	13:29
+#25	AnnotatorNotes T25	13:29
+T26	FECHA 2101 2111	12/06/2017
+#26	AnnotatorNotes T26	2017-06-12
+T27	HORA 2112 2117	22:00
+#27	AnnotatorNotes T27	22:00
+T28	_SUG_Lateralizacion 2353 2358	drcha
+T29	_SUG_Lateralizacion 2374 2379	drcha
+T30	_SUG_Localizacion 2389 2395	tronco
+T31	_SUG_NIHSS_alta 2424 2431	NIHSS 9
+T32	_SUG_NIHSS_previa 2424 2431	NIHSS 9
+T33	_SUG_TAC_craneal 2871 2873	TC
+T34	_SUG_TAC_craneal 2888 2898	TC CRANEAL
+T35	_SUG_Lateralizacion 3057 3066	izquierda
+T36	_SUG_Localizacion 3253 3264	ventricular
+T37	_SUG_TAC_craneal 3343 3345	TC
+T38	_SUG_Localizacion 3516 3523	troncos
+T39	_SUG_Arteria_afectada 3638 3665	arterias carótidas internas
+T40	_SUG_Arteria_afectada 3675 3695	arterias vertebrales
+T41	_SUG_Arteria_afectada 3786 3813	arterias carótidas internas
+T42	_SUG_Etiologia 3910 3920	aneurismas
+T43	_SUG_TAC_craneal 4098 4108	TC CRANEAL
+T44	_SUG_TAC_craneal 4186 4196	TC craneal
+T45	FECHA 4218 4228	12/06/2017
+#45	AnnotatorNotes T45	2017-06-12
+T46	_SUG_Lateralizacion 4255 4264	izquierdo
+T47	_SUG_Localizacion 4392 4401	posterior
+T48	_SUG_Lateralizacion 4421 4430	izquierda
+T49	_SUG_Localizacion 4558 4566	cortical
+T50	_SUG_Localizacion 4625 4631	tronco
+T51	_SUG_Localizacion 4725 4735	lenticular
+T52	_SUG_Lateralizacion 4736 4745	izquierdo
+T53	_SUG_Localizacion 4765 4780	infarto lacunar
+T54	_SUG_Lateralizacion 4897 4906	izquierdo
+T55	_SUG_Localizacion 5023 5032	posterior
+T56	_SUG_Lateralizacion 5052 5061	izquierda
+T57	_SUG_Localizacion 5073 5088	infarto lacunar
+T58	_SUG_Localizacion 5134 5144	lenticular
+T59	_SUG_Lateralizacion 5145 5154	izquierdo
+T60	_SUG_Localizacion 5285 5295	lenticular
+T61	_SUG_Lateralizacion 5314 5321	derecha
+T62	_SUG_Lateralizacion 5362 5369	derecho
+T63	_SUG_Localizacion 5418 5426	cortical
+T64	_SUG_Localizacion 5593 5599	tronco
+T65	_SUG_Arteria_afectada 5610 5637	arterias carótidas internas
+T66	_SUG_Etiologia 5796 5808	hipertensiva
+T67	_SUG_Localizacion 5838 5848	cerebelosa
+T68	SECCION_EXPLORACIONES_COMPLEMENTARIAS 5874 5934	Exploraciones complementarias / Exploracions complementàries
+T69	FECHA 6005 6015	18/06/2017
+#69	AnnotatorNotes T69	2017-06-18
+T70	SECCION_EVOLUCION 6018 6038	Evolución / Evolució
+T71	_SUG_Lateralizacion 6067 6076	IZQUIERDO
+T72	_SUG_Lateralizacion 6204 6211	derecha
+T73	_SUG_Localizacion 6233 6239	tronco
+T74	_SUG_NIHSS_alta 6242 6249	NIHSS 9
+T75	_SUG_NIHSS_previa 6242 6249	NIHSS 9
+T76	_SUG_TAC_craneal 6446 6448	TC
+T77	_SUG_Lateralizacion 6502 6511	izquierdo
+T78	_SUG_Etiologia 6601 6613	hipertensiva
+T79	_SUG_TAC_craneal 6695 6697	TC
+T80	_SUG_Lateralizacion 6851 6858	derecha
+T81	_SUG_Lateralizacion 6891 6898	derecho
+T82	_SUG_NIHSS_alta 6999 7007	NIHSS: 3
+T83	_SUG_NIHSS_previa 6999 7007	NIHSS: 3
+T84	_SUG_mRankin_alta 7011 7017	mRS: 3
+T85	_SUG_mRankin_previa 7011 7017	mRS: 3
+T86	FECHA 7280 7284	22/5
+#86	AnnotatorNotes T86	2017-05-22
+T87	FECHA 7385 7393	13/06/17
+#87	AnnotatorNotes T87	2017-06-13
+T88	FECHA 7556 7560	15/6
+#88	AnnotatorNotes T88	2017-06-15
+T89	_SUG_Lateralizacion 7609 7618	izquierda
+T90	SECCION_RECOMENDACIONES 8362 8383	Otras recomendaciones
+T91	FECHA 8519 8526	21/9/17
+#91	AnnotatorNotes T91	2017-09-21
+T92	HORA 8533 8537	9:30
+#92	AnnotatorNotes T92	9:30
+T93	FECHA 8728 8738	19.06.2017
+#93	AnnotatorNotes T93	2017-06-19
+T94	HORA 8753 8758	10:18
+#94	AnnotatorNotes T94	10:18

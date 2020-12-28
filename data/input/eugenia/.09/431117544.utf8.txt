@@ -1,0 +1,113 @@
+_SS_
+Informe d'alta Mèdica Servei de Medicina Intensiva
+Full 1 de 3_NAME_
+Llit: _ID_
+Data de naixement: _DATE_	Edat: 86 anys	Sexe: Home
+Nº Episodi: _ID_	Nº Història Clínica: _ID_	
+Adreça: _LOCATION_	
+Telèfon: _CONTACT_;_CONTACT_	
+Al·lèrgies/ Intoleràncies
+No allergies	
+Grup sanguini:	
+Data d'ingrés SEMI: 12.10.2017 16:05	Data d'alta SEMI: 17.10.2017 17:09	Estada SEMI: 5 dies
+Procedència:  DOMICILI	Destinació: NEUROLOGIA	Data Intervenció:
+Tipo d'admissió: Urgent	
+Resultat SEMI: TRASLADO A PLANTA	
+
+Telèfons contacte famílies: _NAME_ CASA	_CONTACT_ Telèfons contacte famílies: _NAME_ dona	_CONTACT_ Telèfons contacte famílies: Mª _NAME_ filla	_CONTACT_
+
+
+12.10.2017 16:05
+12.10.2017 16:05
+67
+175
+Pes actual
+Talla actual
+
+
+
+FC	64 /min	PNIs	104 mmHg	Pes	67,000 kg
+SpO2	97 %	PNId	75 mmHg		
+
+17.10.2017
+CONSTANTS A L´ALTA
+EVOLUCIÓ CLÍNICA
+MOTIVO DE INGRESO
+Paciente de 86 años que ingresa por codigo ICTUS
+
+
+ANTECEDENTES
+-	No alergias medicamentosas conocidas.
+-	Autónomo para las ABVD Barthel previo de 100.
+-	HTA
+-	ACxFA revertida a RS con amiodarona.
+-	Sustitucion valvular aórtica por estenosis aórtica severa (Prótesis Aórtica biológica el 22/02/ 2017 en el _SS_). Estudio funcional en mayo de 2017: ECG: RS a 67 bpm. HBA. Espiro: FVC 92% FEv1 94% IT 101%. Ergometria amb analisi de gasos:"cicloergometro 15w/2min duració exercici 4 minuts i 15 segons s'atura la prova a petició del pacient per fatiga VAs 9/10 i per ser concluent, clinica i electricament negativa  -Bona resposta de la TA amb el exercici amb TA maxima 120/70. Recuperació de 5,15 minuts sense incidències FC 1er 95 TA 3er minuto 100/65. VO2 pi 13.6 ml/Kg/min RQ 1.19. Vtid 1.97 VE 31 FR 17. El UA s'assoleix al minut 2.59 del exercici amb Fc fde 97 VO2 12.3 ml/Kg7min VE 28 RQ 1.06 PETO" 15.12
+PETCO2 4.26 VEO2 41 VECO2 33.9."
+
+
+Tratamiento habitual: omeprazol 40 mg, plantago ovata, furosemida 40 mg, paracetamo, 1g sp, duodart 0.5/0.4 mg, lyrica 150 mg, nobritol 25 mg.
+EVOLUCIÓ CLÍNICA
+ENFERMEDAD ACTUAL
+Paciente que se objetiva afasia de expresión y discreta disartria con disminucion de fuerza en ESD  y mano torpe derecha a las 14:00 hrs  (visto por testimonio) motivo por el cual se avisa al SEM y es traido a este centro. No palpitaciones, no alteración del nivel de consciencia, no fiebre ni otra clínica añadida.
+
+A la llegada al BOX de emergencias a las 15.15 H donde destaca a la EF disartria con afasia de expresión con leve paresia facial central derecha sin otras focalidades neurológicas. Se relaiza TC SNC sin hallazgos, se valora telefónicamente con neurologia de _SS_ y se aconseja inicio de fibrinólisis. Se inicia bolus de rTPA ajustado para peso de 65 kg (dosis 10% de
+5.85 mg) a las 15.50h y se traslada a UCI.
+
+
+EXPLORACIÓN FÍSICA
+TA: 118/70 mmHg ; BMtest 89 mg/dl ; FC: SatO2 99%  AC: tonos rítmicos, no soplos, no signos de insuf. caridaca AR: MVC, no crepitantes, sibilantes ni roncus
+Abdomen: blando, depresible, no doloroso.
+Neurologico: orientado en tiempo, persona y espacio. PICNR. No defectos campimetricos. Afasia de expresion leve. Minima disartria. Paralisis facial derecha ligera. Fuerza muscular y sensibilidad ocnservada.
+
+EXPLORACIONES COMPLEMENTARIAS
+- AG pre rTPA : FG 60.30 ,Creatinina 1.1 mg/dL, Glucosa 87.2 mg/dL, Hemoglobina 12.0 g/dL, Ht 36.1 %, Leucocits 5.92 x1E9/L, Plaquetes 168 x1E9/L, Potassi 4.7 mmol/L, Clorur 103.7 mol/L, Sodi  141.0 mmol/L, Proteina C reactiva 3.2 mg/dL,
+T. Protrombina 79% , (INR)1.2 , Urea 55.4 mg/d
+-	ECG : RS con FC de 60 sin alteraciones en la repoalirzación
+-	TC SNC simple pre RTPA : El sistema ventricular, los surcos y cisuras de la convexidad y las cisternas basales, axiales y silvianas son de morfología acorde a la edad del paciente. Línea media centrada; no hay signos de sangrado reciente. No se advierten lesiones focales supra ni infratentoriales; ref. DWI. Correcta visualización de la interfase sustancia blanca - gris. La ventana ósea no muestra trazos fracturarios en base ni calota craneanos.
+
+EVOLUCIÓN
+Presenta recuperación lenta pero completa, sin persistir la disartria ni otros déficids neurológicos aparentes. TAC control no muestra signos de sangrado. Dado que presenta antecedentes de fibrilación auricular paroxística y durante su ingreso se aprecia por telemetria alguna racha de taquicardia auricular breve, autolímitada, sugestiva de fibrilación auricular, se inicia anticoagulación con HBPM.
+
+Durante su ingreso en UCI, a destacar cuadro de Sd. confusional/delirio importante, que requiere varios neurolépticos, con poca eficacia inicialmente. Finalmente se controla con Quetiapina. Tolera dieta oral.
+
+
+
+Dada su estabilidad es alta a planta convencional
+
+Diagnòstics
+ANTECEDENTS
+Antecedents/Diagnòstics/Procediments
+Antecedents/Diagnòstics/Procediments
+Diagnòstics
+ANTECEDENTS
+OTRA SUSTITUCION DE VALVULA AORTICA HIPERTENSION
+DIAGNOSTIC PRINCIPAL (N.U.)
+OCLUSIO ARTERIA CEREBRAL INESPECIFICADA, AMB INFART CEREBRAL
+
+
+Tractaments
+PROCEDIMENTS
+INJECCIO O INFUSIO D'AGENT TROMBOLITIC TOMOGRAFIA AXIAL COMPUTADA DE CAP; TAC DE CAP MONITORATGE ELECTROGRAFIC; TELEMETRIA
+
+
+
+
+
+APACHE II	
+Mitja 13,00	
+Primera 13	
+Máx 13	
+Min 13	
+La mès nova 13
+Mort(APACHE)	0,17	0	0	0	0
+SAPS II	35,00	35	35	35	35
+Mort(SAPS)	0,17	0	0	0	0
+NEMS	17,00	21	21	15	15
+NEMS(e)/d	17,00	21	21	15	15
+
+Puntuació (SCORES)
+Atès per:	_NAME_
+Autorizat per:
+_NAME_
+
+Impreso: 17.10.2017 17:10

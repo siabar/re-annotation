@@ -1,0 +1,32 @@
+T1	Fecha_de_ingreso 324 334	06.09.2017
+#1	AnnotatorNotes T1	2017-09-06
+T2	SECCION_TIPO_DE_INGRESO 407 432	Tipo ingreso/Tipus ingrés
+T3	SECCION_MOTIVO_DEL_ALTA 441 458	Motivo/Motiu alta
+T4	SECCION_DIAGNOSTICOS 468 473	Diag.
+T5	Hemorragia_cerebral 475 483	HEMATOMA
+T6	SECCION_PROCEDIMIENTOS 571 576	Proc.
+T7	SECCION_MOTIVO_DE_INGRESO 724 762	Motivo de consulta / Motiu de consulta
+T8	SECCION_ANTECEDENTES 837 899	Antecedentes e historia previa / Antecedents i història prèvia
+T9	SECCION_ANTECEDENTES_PATOLOGICOS 1048 1072	ANTECEDENTES PATOLÓGICOS
+T10	SECCION_TRATAMIENTO_HABITUAL 1496 1515	MEDICACIÓN HABITUAL
+T11	SECCION_PROCESO_ACTUAL 1614 1644	Proceso actual / Procés actual
+T12	Fecha_inicio_sintomas 1662 1677	6 de Septiembre
+#12	AnnotatorNotes T12	2017/09/06
+T13	Fecha_llegada_hospital 1662 1677	6 de Septiembre
+#13	AnnotatorNotes T13	2017/09/06
+T14	Hora_inicio_sintomas 1688 1689	7
+#14	AnnotatorNotes T14	07:00
+T15	Etiologia 2701 2713	hipertensiva
+T16	SECCION_EXPLORACION_FISICA 2899 2937	Exploración física / Exploració física
+T17	SECCION_EXPLORACIONES_COMPLEMENTARIAS_EN_PLANTA_DE_NEUROLOGIA 3632 3652	ANALÍTICA AL INGRESO
+T18	Localizacion 4308 4316	profundo
+T19	Localizacion 4399 4416	capsulolenticular
+T20	Localizacion 4419 4427	talámica
+T21	Lateralizacion 4428 4437	izquierda
+T22	SECCION_EVOLUCION 5770 5790	Evolución / Evolució
+T23	Fecha_de_alta 7031 7054	8 de septiembre de 2017
+#23	AnnotatorNotes T23	2017-09-08
+T24	Hora_de_alta 7061 7066	19:00
+#24	AnnotatorNotes T24	19:00
+T25	SECCION_TRATAMIENTO_AL_ALTA 7075 7108	Plan terapéutico / Pla terapèutic
+T26	SECCION_RECOMENDACIONES 7122 7143	Otras recomendaciones

@@ -1,0 +1,134 @@
+_LOCATION_ Telf Consultes: _CONTACT_ / _CONTACT_
+Telf Centraleta Hospital: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 75 Anys
+NIF/DNI: _ID__NAME_; _NAME_;
+ _NAME_
+Informe de Trasllat a Sociosanitari
+14:35:58
+12.07.2017
+_LOCATION_
+_SS_ NEUROLOGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_
+DOMICIL/RES.SOC 02.07.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Codi Ictus
+
+ANTECEDENTS
+-	No al·lèrgies medicamentoses conegudes.
+
+-	Hipertensió arterial.
+-	Diabetis Mellitus,  insulinodependent.
+-	Dislipemia.
+-	Neoplàsia de pròstata (2005), tractada amb QT+RT.
+-	Ulcus gàstric (1999).
+-	IQ: laminectomia L4 L5, faquectomia bilateral.
+
+Autònom i independent per a les activitats bàsiques de la vida diària, Rankin 0.
+
+MEDICACIÓ HABITUAL
+Enalapril 10mg/24h, Insulina Lantus 38UI/24h, Prandin (Repaglinida) 40mg/24h, Simvastatina 40mg/24h, Urotrol Neo (Tolterodina tartrato) 4mg/24h.
+
+PROCÉS ACTUAL
+Home de 75 anys que el dia 2/07/2017 a les 21:20h, mentre estava ballant amb la muller, de sobte presenta debilitat hemicòs esquerre.
+S'activa codi ictus via SEM i es randomitzat assaig clínic  RACECat (trasllat a _SS_ vs trasllat a _SS_) essent derivat a _SS_.
+
+EXPLORACIÓ FÍSICA
+
+FC	76 bpm
+Tªaxi 35.7 ºC
+FR	rpm Tªrec  ºC
+TA s	130 mmHg SAT O2  %
+TA d   72 mmHg Pes Kg
+
+Valoració incial Urgències:
+TA SEM 166/73, FC 62ppm. TA URG 123/96, FC 56ppm. Afebril. Glicèmia 203. AC: tons rítmics.
+NRL: conscient, orientat en persona, disàrtria, certa anosognòsia, desviació òculo-cefàlica a la dreta, hemianòpsia homònima esquerra, hemiplègia esquerra facial-braquio-crural. Probable hipoestèsia  esquerra, movilitza extremitats dretes voluntàriament amb to normal, RCP D flexor, signe de Babinski esquerre.
+NIHSS: 21 (0-1-1-2-2/3-0-4-0-4/0-1-0-1-2)
+
+Valoració a planta Neurologia:
+Bon estat general, alerta, normohidratat. Afebril. Eupneic en repòs. AC: tons rítmics, no ausculto bufs ni frecs.
+
+Informe de Trasllat a Sociosanitari
+
+
+
+
+AR: bona entra d'aire bilateral, sense sorolls patològics sobreafegits.
+NRL: Conscient i orientat, PICNR, disàrtria, parèsia facial esqeurra, resta de parells cranials conservats. Mirada centrada. hemianòpsia homònima E. Hemiplègia esquerra (lleu moviment crural esquerre 2/5), RCP extensor esquerre (Babinski). Sensibilitat conservada.
+NIHSS 9; Rankin 4
+
+EXPLORACIÓ COMPLEMENTÀRIA
+A/S urgències (02/07/2017):
+-	BQ: Creatinina 1.23 mg/dL, Glucosa 257 mg/dL, K 4.5 mEq/L, Na 139 mEq/L, Urea 27 mg/dL.
+-	Hemostàsia:  INR 0.96, T.protrombina 10.4 seg, Raó T.protrombina 0.96, TTPA 26.2 seg, Raó TTPA 0.84,
+Fibrinogen 289 mg/dL.
+-	Hemograma: Hb 14.6 g/dL, Hematòcrit 43.0 %, Leucòcits 4580/mL amb fòrmula normal, Plaquetes 129000/mL.
+A/S ingrés planta Neurologia (11/07/2017):
+-	BQ: Glucosa 143 mg/dL, Urat 5.72 mg/dL, Urea 62 mg/dL, Creatinina 0.92 mg/dL, Colesterol 163 mg/dL, Colesterol HDL 27 mg/dL, Colesterol LDL 107.21 mg/dL, Triglicèrid 143 mg/dL, AST 16 U/L, ALT 15 U/L, LDH 347
+U/L, Bilirubina 0.75 mg/dL, Proteïna 6.99 g/dL, PCR 1.50 mg/dL, Na 137 mEq/L, K 4 mEq/L.
+-	Hemostàsia:  INR 1.04, T.protrombina 11.5 seg, Raó T.protrombina 1.04, TTPA 33.4 seg, Raó TTPA 1.08,
+Fibrinogen 613 mg/dL.
+-	Hemograma: Hemoglobina glicada A1c 9.1 %, Hemoglobina glicada A1c IFCC 76 mmol/mol, Hb 16.3 g/dL, Hematòcrit 48.2 %, VCM 92.0 fL, ADE 13.3 %, CCMH 33.8 g/dL, HCM 31.1 pg, Leucòcits 5110/mL amb fòrmula normal, Plaquetes 179000/mL.
+
+ECG (03/07/2017): ritme sinusal a 55bpm, PR 200ms, QRS estret eix 30º, sense alteracions agudes de la repolarització.
+
+Rx tòrax (03/07/2017): IC < 0.5, sins costofrènics lliures, no infiltrats ni condensacions agudes.
+TAC Craneal (02/07/2017): Hematoma intraparenquimatoso agudo que afecta a los ganglios de la base derechos, observando dos focos de sangrado independientes, el del mayor tamaño a nivel del núcleo lenticular y cápsula interna con extensión a la corona radiata y el del menor tamañoa nivel del núcleo caudado, éste último con evidencia de apertura al sistema ventricular. Contenido hemático en declive en la asta occipital derecha. Línea media centrada. Hematomas subdurales bilaterales crónicos, de las características descritas con efecto masa sobre el parénquima subjacente.
+TAC Craneal control (05/07/2017): Evolución esperada del hematoma intraparenquimatoso agudo con afectación lenticular y del cuerpo del caudado derechos, con aumento del edema peri-hematoma que condiciona un aumento de la compresión del VL derecho y del III ventrículo con un VL izquierdo dilatado discretamente pero sin signos de hidrocefalia activa. Aparición de hemorragia intraventricular en el asta occipital izquierda. Estabilidad de la hemorragia intraventricular en el seno del atrio y del asta occipital derechos. Estabilidad de los hematomas subdurales bilaterales crónicos (colecciones hipodensas extraaxiales).
+
+EVOLUCIÓ CLÍNICA
+A l'arribada a Urgències el pacient presenta NIHSS 21 amb hemiplègia esquerra. Es realitza TC crani urgent que mostra hematoma capsulo-talàmic dret, motiu pel qual es desactiva codi ictus.
+
+Informe de Trasllat a Sociosanitari
+
+
+
+
+
+Per hematoma agut i risc d'obertura a ventricles i posterior hidrocefàlia ingressa incialment a Cures Intermitjes. No tributari de tractament neuroquirúrgic. El pacient resta estable amb tendència a la hipertensió que es controla amb fàrmacs. Inicia sedestació progressiva sense incidències. Resta neurològicament estable amb millora del nivell de consciència. Es realitza TAC crani de control que no mostra complicacions i després de 5 dies en observació pasa a planta convencional.
+
+Ingressa aquest cap de setmana a planta, vigil i orientat amb hemiplègia esquerra, tolera sedestació i dieta triturada pastosa oral. Incia programa de rehabilitació. Es va retirar sonda vesical el cap de setmana havent-se de reintroduir, s'ha reinciiat tractament prostàtic (Urotrol neo 4mg) pendent de retirar novament en els propers dies.
+
+Passada la fase de monioritzacioó aguda es sol·licita trasllat al seu centre hospitalari per continuar control a planta i posterior convalescència i rehabilitació.
+
+DIAGNÒSTICS
+- Hematoma càpsulo-talàmic dret hipertensiu
+
+PROCEDIMENTS
+Codi Ictus / Mèdics / TAC crani / IC Rehabilitació / Test de disfagia
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+-	Profilaxis TVP.
+-	Enalapril 5mg/d.
+-	Amlodipino 10mg/d.
+-	Insulina
+-	Urotrol Neu 4mg
+
+-	Dieta triturada pastosa i gelatines.
+-	Rehabilitació.
+
+CONTROL
+Es trasllada _SS_ per continuar convalescència, control evoluti i rehabilitació.
+
+DESTINACIÓ A L'ALTA:	SOCI SANITARI
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+12.07.2017
+Pàgina 1 de 3

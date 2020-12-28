@@ -1,0 +1,153 @@
+_LOCATION_) Telèfon _SS_  972 _CONTACT_
+Telèfon IDI (Ressonància i TAC) _CONTACT_
+Telèfon ICO _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 67 Anys
+NIF/DNI: _ID__NAME_; _NAME_;
+ _NAME_
+Informe de Trasllat a Sociosanitari
+09:00:00
+20.10.2017
+_LOCATION_
+_SS_ NEUROLOGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_; _CONTACT_
+DOMICIL/RES.SOC 17.10.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Sindrome lacunar motor pur esquerre.
+
+ANTECEDENTS
+ANTECEDENTS PERSONALS
+-Sense al·lèrgies medicamentoses conegudes
+-Exfumador. Exenol lleu.
+-Independent per ABVD. mRs = 0. Bartel 100.
+
+ANTECEDENTS PATOLÒGICS
+-Hipertensió arterial: En tractament farmacologic.
+-Dislipèmia en tractament farmacologic.
+-Diabetes Mellitus 2. Tractament amb insulina i ADOs. Mal control metabòlic. HB1Ac 9.5% (desembre 2016).
+-Obesitat
+-Vasculopatia perifèrica en tractament mèdic.
+-Malaltia pulmonar obstructiva crònica. Espirometria 2009: FEV1/FVC 59%, VEM1 59%. No tractament actualment.
+-Trastorn d'ansietat
+
+MEDICACIÓ HABITUAL
+-AAS 100mg 1/24h
+-Enalapril 20mg 1/24h
+-Insulina 48Ul / 24h
+-Bimatorprost coliri 0.1mg/ml 1/24h
+-Metformina 850mg 1/12h
+-Omeprazol 20mg 1/24h
+-Pentoxifilina 400mg 2/24h
+-Sinvastatina 20mg 1/24h
+
+PROCÉS ACTUAL
+Pacient que consulta a les 14 hores per quadre d'inici incert però s'adona a les 12:30 en mirar-se al mirall que té una paresia a hemicara esquerra i acudeix al nsotre centre derivat pel SEM. A l'exploració s'objectiva paresia facail central esquerra i disartria, es realitza estudi neurovascular bàsic amb TC crani, angioTC crani, ECG, analíitca, RX tòrax i eco-doppler TSA/TC que no mostra alteracions significatives i es amnté en observació unes hores a urgències decidint-se alta a domicili per esatbilitat clínica, amb paresia facial central esquerra i disartria i amb tractament preventiu. A les 2:00 am ha anat al lavabo, ha fet deposicions i ja han objectivat paresia ESE, ha tornat a anar al lavabo i llavors coincidint amb sudoració profusa ha presentat hemiparesia esquerra.
+La familia avisa al SEM que el porten sense activar codi ictus. Arriba al nostre centre a les 3:15 i es visitat per MAU que es posa en contacte amb neurologia d' urgencies, es decideix activar codi ictus. Es valora per neurologia de urgencies que objectiva pal.lidesa, sudoració i hemiparesia esquerra que va recuperant coincidint amb decúbit.
+
+Informe de Trasllat a Sociosanitari
+
+
+
+
+
+EXPLORACIÓ FÍSICA
+
+FC	90 bpm
+Tªaxi 36.2 ºC
+FR	rpm Tªrec  ºC
+TA s	148 mmHg SAT O2 97 %
+TA d   80 mmHg Pes Kg
+
+EXPLORACIO AL INGRES:
+TA 197/95, FC 90bpm, Tª 36.2ºC.
+
+Expl. Neurològica: Pal.lidesa, sudoració i hemiparesia esquerra que va recuperant coincidint amb decúbit. NIHSS=00000/20101/00010=5
+
+EXPLORACIÓ COMPLEMENTÀRIA
+ANALÍTIQUES :
+-Analítica  del matí: hemograma sense alteracions significatives. Bioquimica: glicèmia  178 colesterol, LDL 79, Troponines 12.4
+
+-ECG ritme sinusal
+
+Telemetria UNITAT D'ICTUS: No enregistrem arritmies embolígenes.
+
+-RX torax: cardiomegàlia .
+
+-Eco-doppler TSA: ateromatosi carotidea sense estenosis. Hipoplasia AV D
+-Eco-doppler TC: sense alteracions
+
+EcocardioTT(19/10/17): Ventricle esquerre lleugerament dilatat amb funció contràctil global lleugerament deprimida (FEVE biplà 45%).Alteracions segmentaries suggestives de cardiopatia isquèmica. Insuficiència mitral lleugera (I). Aurícula esquerra lleugerament dilatada.
+
+-TC crani : infart llacunar subagut hemsiferic dret. No alteracions en la perfusiio ni a l'angio-TC.
+
+
+
+EVOLUCIÓ CLÍNICA
+Donat que presenta a la TC cranial infart establert no és tributari a tractaemnt fibrinolíitc. Es decidiex ingrés a Unitat d'Ictus sota vigilancia semi intensiva.
+
+-Durant les priemres 24hs el pacient presenta deteriorament neurològic a expenses del seu deficit motor, Posteriorment es manté estable amb un NIHSS = 8, a expenses de PFC esquerre i plejia d'extremitat superior esquerra i parèsia crural esquerra 4/5. El pacient es troba conscient i orientat, obeeix ordres senzilles i complexes, no presenta alteracions de sensibilitat ni tampoc altres alteracions.
+
+Informe de Trasllat a Sociosanitari
+
+
+
+
+
+-La telemetria no objectiva arritmies embolígenes
+
+-Ha iniciat la rehabilitació física i no presenta disfàgia.
+
+-Com complicacions durant l' ingrés el pacient ha presentat, un episodi de sudoració i  pallidesa que atribueix a tenir molta calor a l'habitació.  La TA i la frecuencia cardiaca s'han mantigut dins dels límits de la normalitat.
+El pacient ha presentat descompensació hiperglicèmica simple pel que s'ha ahgut d'ajustar la aputa d'insulina i s'ha afegit tractament amb metfromina que ja duia a domicili.
+
+Donada l'estabilitat clínica i hemodinàmica, el pacient es trasllada a _SS_ per a continuar amb el tractament rehabilitador intensiu.
+
+ESCALES A L'ALTA:
+NIHSS: 00000/24010/00010: 8
+Barthel :25
+mRs: 4
+
+DIAGNÒSTICS
+434.91/8 Infart llacunar de mecanisme trombòtic 401.9/4 Hipertensió arterial
+249.00 Diabetis mellitus II
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+-Insulina NPH 30 c/12hs
+-Metformia 850mg c/12hs
+-Atorvastatina 80mg c/24s
+-Omeprazol 20mg c/24hs
+-Enoxaparina 40mg c/24hs
+-AAS 100mg c/24hs
+-Enalapril 20mg c/12hs
+-Espesante con los liquidos.
+-	Dieta asòdica i diabètica
+-	Continuar la rehabilitació
+
+CONTROL
+-Control per consultes externes de neurovascular el dia 7 de febrer de 2018 a les 14 hores (Edifici de Consultes Externes)
+-Rehabilitació intensiva a _SS_.
+-Controls de factors de risc cardiovascular per metge de capçalera
+
+DESTINACIÓ A L'ALTA:	SOCI SANITARI
+
+
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+20.10.2017
+Pàgina 1 de 3

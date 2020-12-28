@@ -1,0 +1,157 @@
+_LOCATION_ Tel. _CONTACT_
+_CONTACT_
+Informe Alta Hospitalització
+_NAME_
+HC: _ID_
+
+>
+
+
+Adreça: _LOCATION_	Data naix.: _DATE_ Població: _LOCATION_	Sexe: FEMENI
+Provincia: _LOCATION_	CIP: _ID_
+País: _LOCATION_	NASS: _ID_
+Telèfon: _CONTACT_ / _CONTACT_	DNI o Tarja Residència: _ID_
+
+
+Servei: Medicina Interna	Data ingrés a URG: 18/12/2017 09:54
+Unitat clínica: Pacient Crònic Complex	Data hospitalització: 19/12/2017 16:07
+Tipus d'ingrés: Urgències	Data alta: 22/12/2017 20:30
+Proveïdor de Serveis: Servei Català de la Salut	Destí: 11 - Defunció
+
+
+
+Diagnòstic principal:
+
+434.91 AVC
+ACM esquerre
+
+Diagnòstics Secundaris:
+
+342.01 HEMIPLEGIA FLACCIDA AFECTANT COSTAT DOMINANT
+784.3 AFASIA
+787.22 DISFAGIA, FASE OROFARINGIA SEVERA
+427.31 ACXFA
+425.4 MIOCARDIOPATIA DILATADA
+394.9 VALVULOPATIA MITRAL PROTESI VALVULAR
+401.9 HTA
+
+Procediments:
+
+87.03 TAC CRANIAL
+87.44 RADIOGRAFIA DE TORAX
+89.52 ELECTROCARDIOGRAMA ECG
+90.59 ANALITICA SANG
+96.6 SONDA NASO-GASTRICA PER ALIMENTACIO ENTERAL
+
+
+
+
+
+Pacient de 84 anys d'edat que ingressa per FOCALITAT NEUROLÒGICA SENSE ESPECIFICAR | -
+
+Antecedents:
+
+Malalties prèvies:
+
+HIPERTENSIÓ ARTERIAL (
+)
+DISLIPÈMIA (
+)
+CARDIOPATIA ISQUÈMICA (AEC DA (PAOC amb AMI el 2/2003)
+)
+VALVULOPATIA MITRAL ( Estenosi mitral severa amb recanvi valvular al 2003. ACXFA. Anticoagulada amb sintrom
+)
+
+
+MIOCARDIOPATIA DILATADA (origen valvular + isquèmic.
+EM severa amb recanvi valvular el 2/03 (consta FE preservada, HTP moderada i AE 67 mm).
+-Trastorn del ritme en forma de TPSV, ritmes nodals, torsades de pointes, flutter, ACxFA... Per sd WPW es va fer ablació el 1993. Posteriorment col·locació de MC.
+Episodi ICC 2013, en context també crisi HTA
+)
+DEPRESSIO AMB ANSIETAT (La pacient des.de feia temps es queixa de malestar, díspnea, ... sense que s'acostumés adetectar desaturació, o alteracions hemodinàmiques pel que s'ha catalogat d'angoixa després de ser valorada en diferents ocasions per cardio, MGuardia, EAP,.. iniciant ttm. antidepressiu. .
+
+Al·lèrgies:
+
+El pacient no presenta al·lèrgies conegudes.
+
+Medicació prèvia:
+
+enalapril 5mg/24h, sintrom 4mg sp, neblik 12mcg/12h aldactone 25mg/24h, cafinitrina sp, emconcor 2,5mg 2comp/24h, seguril 40mg/24h, pravastatina 40mg/24h, mirtazapina 30mg/24h, spiriva 2,5mch/24h, citalopram 10 mg.
+
+Anticoagulants: Sintrom
+
+Situació funcional:
+
+Situació mental: Sense deterior cognitiu previament. Ara imposible per afasia severa.
+Situació física: Pacient que caminava per casa amb bastó. Ocasional incontinència. Ajut per la dutxa.
+
+Antecedents socials i professionals:
+
+Situació social: Vídua fa 1.5 mesos (l'espós vivia a residència per deterior cognitiu i dificultat de cuidados). Dos fills que donen suport. LAPAD grau I. TF 3 cops a la setmana per dutxa i TF /15 dies per tasques de la llar.
+
+Història Actual:
+
+Portada pel SEM per hemiparèsia dreta amb afàsia, la filla que l'acompanya refereix que ahir al vespres (22:00h) quan la va visitar estaba bé, avui quan l'han anat a veure al domicili l'ha trobat al terra amb disminució del nivell de consciència.
+Possible ITUS al despertar amb constants al SEM TA 120/80mmg, Fc 65bpm i glicèmia de 167mg/dL. Escala RACE 9 punts.
+
+Exploració física:
+
+Box de paros:
+MEG. Pal·lidesa mucotània i normohidratada.
+AC. TCR sense bufs ni edemes EEII. No signes de TVP. AP: Eupneica amb MVC sense sorolls sobreafegits.
+ABD:tou i depressible. No dolorós a la palpació superficial ni profona. No es palpen masses ni megàlies. No signes d'irritació peritoneal.
+NRL:107/69 mmHg FC 67 lpm ). Consciente, somnolienta (1), desviación OC izquierda (2), HHD por
+
+
+amenaza (2), hemiplejia FBC derecha (2+4+4), hipoestesia derecha (1), afasia mutista (3). Resto no valorables. NIHSS
+
+Resum proves complementàries:
+
+Laboratori:
+
+-	Analítica: Leucòcits 8.65 x 10^9/L, Hematies *3.77 x 10^12/L, Hemoglobina *118 g/L, Hematòcrit 0.38 L/L, Volum corpuscular mig 99.7 fL, Hemoglobina corpuscular mitja 31.3 pg, Conc. Hb. corpuscular mitja 314 g/L, Índex dispersió hematies *15.3 %, Plaquetes 185 x 10^9/L, Volum plaquetar mig 12.3 fL, Índex dispersió de plaquetes 14.4 fL, Plaquetòcrit 0.023 L/L, Neutròfils (%) 70 %, Neutròfils 6.06 x 10^9/L, Limfò cits (%) 21.6 %, Limfòcits 1.87 x 10^9/L, Eosinòfils (%) 0.7 %, Eosinòfils 0.06 x 10^9/L, Basòfils (%) 0.5
+%, Basòfils 0.04 x 10^9/L, Monòcits (%) 7.2 %, Monòcits 0.62 x 10^9/L, Temps protrombina *4.78 ratio, Temps protrombina (INR) *4.71 INR, T.Tromboplastina parcial activ 1.29 ratio, Glucosa *191 mg/dL, Urea
+*139 mg/dL, Creatinina *2.01 mg/dL, Sodi 142 mEq/L, Potassi 4.9 mEq/L
+
+-	Analítica de control: Temps protrombina *2.92 ratio, Temps protrombina (INR) 2.89 INR, T.Tromboplastina parcial activ 1.15 ratio, Glucosa *165 mg/dL, Urea *99 mg/dL, Creatinina *1.38 mg/dL, Sodi 141 mEq/L, Potassi *5.5 mEq/L
+
+Imatge:
+
+-	TC cranial:Examen TC intracranial simple. No desplaçaments d'estructures de línia mitja supra i infratentorials. No s'observen lesions hemorràgiques agudes intra ni extraparenquimatoses.
+Dilatació global i simètrica del sistema ventricular, valls silvians i solcs corticals de la convexitat cerebral. Cisternes basals i peritronculars lliures. Col.leccions seroses extracarebrals-subdurals de topografia frontal interna dreta i fronto-parietal esquerra de fins aproximadament 10mm de gruix màxim. Fossa posterior i parènquima cerebral sense altres alteracions morfològiques ni densitomètriques valorables.
+Conclusió: Signes de discreta atròfia cerebral difusa. Higromes subdurals fronto-parietal esquerra i frontal interna dreta.
+
+Altres proves:
+
+- ECG: Ritme de MCP
+
+Evolució i comentaris:
+
+1.	AVC ACME.
+Dona de 84 anys, sense deterior cognitiu, amb dependència lleu que viu sola i que com a comorbilitats la principal és la cardìaca (EM severa IQ amb pròtesi normofuncionant amb darrer ecocardio que informa de HTPulmonar moderada, anticoagulada amb sintrom i en seguiment per cardiòleg de _SS_).
+Es portada per hemiparèsia D i afàsia; la filla la troba a terra a les 9 del matí vestida (pel que creu que s'havia llevat al matí), i amb el telf. a terra pel que interpreta que s'havia trobat malament i havia intentat trucar. A l'EF ( 107/69 mmHg FC 67 lpm ). Conscient, somnolenta (1), desviació OC esquerre (2), HHD per amenaça (2), hemiplejia FBC dreta (2+4+4), hipoestesia dreta (1), afasia mutista (3). Reste no valorable. NIHSS 19. Es demana TAC De crani amb OD de AVC ACM esquerre. No es considera candidata de fibrinolisi per temps d'evolució desconegut i ttm. anticoagulant. Per rankin previ i comorbilitat no es considera candidata a trombectomia. El TAC inicial mostra signes de discreta atròfia cerebral difusa. Higromes subdurals fronto-parietal esquerra i frontal interna dreta.
+La revaloració per NRL a les 24h sembla mostra lleu millora amb NIHSS de 15 i un nou TAC mostra establiment de la lesió ACME.
+
+
+S'inicia ttm. anticoagulant amb HBPM i es decideix ingrés a la UGA parlant amb la família d'incertessa evolutiva i risc de mal pronòstic funcional i vital.
+
+2.	DISFAGIA GREU
+Valorada per logopèdia. LOGOPÈDIA
+Pacient amb severa disfàgia orofaríngia. En le'xploració observem risc en la seguretat amb totes les consitències i volums, aspirant 5ml pudin i tos durant l'aspiració. Fase oral i preparatòria moderadament alterada q dificultaria formar el bol.
+
+Recomanem no inciar ingesta oral. Es donen pautes a la família per fer estimulació sensorial sense bol fins a nova valoració.
+Decidim col.locació de SNG i inici de nutrició enteral.
+
+3.	MIOCARDIOPATIA DILATADA. ACXFA. MCP
+Pacient amb cardiopatia dilatada, portadora de pròtesi mitral i MCP per arritmies vàries. Clínicament sense desaturació, ni taquiarritmia, ni edemes maleolars. Ajusto el ttm.
+
+4.	PLANIFICACIÓ
+Pacient no identificada com a PCC. Afectació greu NRL actual amb disfagia severa que imposibilita l'alimentació pel que instaurem SNG. Certa ranera pel que és probable que hagi broncoaspirat.
+Parlo amb els dos fills (filla/fill) al respecte de la sittuació i riscos. Parlem de probable mal pronòstic funcional i incertessa respecte al vital. Ho entenen i accepten. Pensen que en cas de bona evolució els cuidados hauran de ser a residència, i ja estan pensant en el tema.
+Demaneig a la planta, sense criteris d'UCI, RCP ó nou codi ictus.
+
+Epicrisi: la pacient presenta broncoaspiració amb severa broncoplègia requerint mascareta d'alt fluxe. S'informa a la família de mal pronòstic a curt termini, molt impactats per la situació, però comprenent la situació de gravetat i no desitjan veure patir ala pacient pel que s'inicien cures de final de vida. Lapacient és éxitus el dia 22 de desembre a les 20:30 acompanyada per la família.
+
+_LOCATION_, 17/01/2018
+_NAME_ (Nº col _ID_
+Nom i cognoms metge: _NAME_ (Nº col: _ID_Pàg.: 1/4

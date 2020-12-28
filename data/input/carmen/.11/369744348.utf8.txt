@@ -1,0 +1,140 @@
+_LOCATION_ Tel. _CONTACT_
+e-mail: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 55 Anys
+NIF/DNI: _ID_Informe d'alta d'hospitalització
+_NAME_; _NAME_; _NAME_; _NAME_
+CP	_LOCATION_
+ABS	_SS_
+Servei	NEUROLOGIA
+Data d'alta  11.05.2017	11:14:29
+_LOCATION_
+_CONTACT_
+DOMICIL/RES.SOC 05.05.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Ictus estenosis carotidea
+
+ANTECEDENTS
+Paciente varón de 55 años, no alérgias medicamentosas conocidas. Fumador de unos 6-7 cigarrillos/día (previo 3p/día hasta 2007), fumador de cannabis (2-3 puros/día), enol leve (1-2 cervezas/día).
+
+Independiente para actividades básicas vida diaria, escala de Rankin 0.
+
+-	Dislipemia en tratamiento dietético.
+-	Cardiopatía isquémica:
+IAM Infero-posterior Killip I en 1999 que se trató con fibrinólisis sistémica con rTPA, al alta feacción de eyección conservada.
+IAM Killip I en 2007, cateterismo cardíaco mostró enfermedad de 2 vasos (DA y CD), se procedió a implantación de stent convencional en CD media. Ecocardio: acinesia inferior, posterior y latero-basal con FE de 56%.
+
+-	Virus hepatitis B en analíticas sin tranaminasitis, no realiza controles regulares, sin complicaciones.
+-	Cumple criterios clínicos de bronquitis crónica y claudicación intermitentes.
+-	Lumbocialtalgia
+
+MEDICACIÓ HABITUAL
+Adiro 100mg 1comp/24h, Bisoprolol 10mg 0,5comp/24h, Omeprazol 20mg 2comp/24h, Uniket 20mg 2comp/24h.
+
+PROCÉS ACTUAL
+El día 04.05.2017 por la mañana se levanta asintomático. A las 12h presenta un episodio de hipotensión y desconexión del medio en contexto de toma de dos comprimidos de cafinitrina sublingual que le havian sido administrados por su familiar ante la sospecha de dolor torácico. MIentras la família avisa al SEM que  lo encuentra con palidez, sudoración y posible paresia facial derecha. Lo lleva al nuetsro centro sin activación del código ictus, que llega a urgencias a las 14:54h y se activa código ictus por evidencia de afasia y hemiparesia derecha.
+
+EXPLORACIÓ FÍSICA
+
+FC	54 bpm
+Tªaxi 36.0 ºC
+FR	rpm Tªrec  ºC
+TA s	80 mmHg SAT O2 96 %
+TA d   40 mmHg Pes Kg
+
+Exploración neurológica urgencias: Paciente consciente y orientado, afasia motora fluente  con errores de nominación y parafasias, compresión conservada. No alteración campimétrica ni oculomotora, paresia facial derecha. Hemiparesia derecha de predominio crural (braquial 4/5, crural 2/5), hemihipoestesia derecha.
+NIHSS: (0.0.0)0.0//2(2.0)(1.0)//0.1.1. 1.0 = 9.
+
+Informe d'alta d'hospitalització
+
+
+
+
+
+Exploración neurológica ingreso: Paciente consciente y orientado, no elementos afásicos, no disartria, no alteración campimétrico ni oculomotora, leve paresia derecha derecha, no alteración de pares craneales bajos, leve paresia distal (Miller Fisher) mano derecha, no déficit sensitivo, no dismetría.
+NIHSS (0.0.0)0.0//1(0.0)(0.0)//0.0.0. 0.0 = 1
+
+Exploración sistémica: Bienestar general, auscultación cardíaca con tonos regulares, auscultación respiratoria con murmullo, soplo carotídeo izquierdo. Abdomen blando y depresible, no doloroso a la palpación, no se palpa masa ni megalia, peristaltismo conservado. No edema ni signos de trombosis venosa profunda.
+
+EXPLORACIÓ COMPLEMENTÀRIA
+Analíticas:
+Urgencias (04.05.2017): Hematologia: Leucocitos 13500 /µL, (N 73,3 % / L 18,1 / M 6,6 / E 1,4 / B 0,6), Htias 5,43 mill/µL, Hb 15,3 g/dL, Hcto 46,9 %, VCM 86,5 fL, Plaquetas 205000 /µL. Coagulación: TP 85 %, INR 1,13 sg, TP ratio 1,13, TTPA 25,6 sg, TTPA ratio 0,83, Fibrinógeno 451 mg/dL. Bioquimica: Glucosa 184 mg/dL,
+Urea 30, Creatinina 0,85, Na 139 mmol/L, K 3,8, Prot-C reactiva 9,6 mg/L.
+Ingreso (08.05.2017): Hemograma: leucocitos 10400 (N 57,3%, L 26,8%, M 9,7%), Hb 18,1g/dL, Hto  52,4%, plaquetas 195.000. Bioquímica: glucosa 120mg/dL, HbA1c 6,7%, proteína 67,5g/L, albúmina 40,8g/L, urea 39mg7dL, FG  >90  mL/min/1.73 m2,  creatinina  0,85mg/dL, urato  5,7mg7dL, Ca  9,4mg7dL, P  3,8mg/dL, Mg 1,94mg/dL, Na 138,6mmol/L, K 4,29mmol/L, Bil 0,96mg/dL, Bil directa 0,20mg/dL, FA 76U/L, ALT 22U/L, GGT 25U/L, LDH 219U/L, CK 44U/L, PCR 7,7mg/L, Osm plasma 285mOsm/Kg. Bioquímica lípidos: TG 148mg7dL, colesterol 211mg/dL, HDL 29,2mg/dL, LDL 152mg/dL. TSH 2.810mcUI/mL. Proteinograma pendiente.
+
+Electrocardiograma: ritmo sinusal a 60lpm, QRS estrecho, no alteración de repolarización aguda.
+
+Radiografía de tórax (09/05/17): No se aprecian condensaciones parenquimatosas.
+
+TC craneal con angioTC (04.05.2017): No evidencia de lesiones isquémicas ni hemorrágicas agudas TC valorables. ASPECTS=10. Importante ateromatosis en bulbo carotideo derecho sin estenosis significativa e importante ateromatosis en segmento proximal de carótida interna izquierda con estenosis crítica izquierda y correcto calibre distal a las mismas. En la exploración de angio TC no se aprecian otras estenosis significativas, defectos de repleción, aneurismas o malformaciones valorables.
+
+Estudio neurosonológico (08.05.2017): Estudio Trans-Craneal: Se insonan ambas arterias cerebrales medias, anteriores y posteriores con flujos conservados sin estenosis hemodinámicamente significativa. Arteria cerebral anterior izquierda ortodrómica. Difícil visualización de la arteria cerebral anterior derecha con flujo ortodrómico, que podría ser hipoplásica. Arterias oftálmicas ortodrómicas sin alteración de flujo. Se insonan arterias vertebrales y arteria basilar hasta 97mm de profundidad sin estenosis  hemodinámicamente significativa. Arteria vertebral derecha dominante. Estudio de TSA: Grosor íntima media aumentado en ambas carótidas comunes. Ateromatosis difusa bicarotídea con placa de ateroma hipo-hiperecoica en origen arteria carótida interna izquierda que condiciona acceleración del flujo hasta 300cm/s, con buena recuperación de flujo distal. Placa de ateroma isohiperecoica en inicio ACI derecha que no ocasiona alteración de flujo. Arterias vertebrales ortodrómicas, se insonan hasta ostium sin alteración de flujo. Conclusión: Placa ateroma complicada origen ACI izquierda que condiciona estenosis crítica, buen flujo distal sin conpensación. Placa de ateroma iso-hiperecoica en inicio ACI derecha que no ocasiona alteración de flujo.
+
+RM cerebral con angioRM cerebral (08.05.2017):  Estudio craneal que muestra lesiones isquémicas agudas
+
+Informe d'alta d'hospitalització
+
+
+
+
+delimitada a la cortical frontoparietal izquierda y focalmente a la cortical precentral derecha, que por las características y localización sugiere un mecanismo hemodinámico. El estudio angiográfico muestra una estenosis crítica de la AC izquierda y una estenosis no significativa del  bulbo carotídeo derecho por probable placa ateromatosa ulcerada. Agenesia / hipoplasia segmento A1 derecho, fenestración de arteria basilar (variante de la normalidad), polígono de Willis permeable, sistema vertebrobasilar conservado.
+
+Ecocardiograma transtorácico (09.05.2017): Ventrículo izquierdo no dilatado ligeramente hipertrófico. FE Simpson biplanar 47%. Acinesia del ápex y segmento septo apical. Acinesia de los segmentos basales inferior, infero-lateral y del septum posterior. Aurícula izquierda ligeramente  dilatada. Raíz aórtica y aorta ascendente ligeramente dilatadas. Válvulas normofuncionanates. Alteración diastólica de la relajación.
+
+EVOLUCIÓ CLÍNICA
+Paciente que el 04.05.17 ingresa por focalidad neurológica hemisférica izquierda que aparece después de un cuadro de hipotensión y bajo gasto. Desde su llegada y en el contexto de recuperación de las cifras de TA presenta tendencia a la mejoría pasando de NIHSS 9 a 3, lo que orienta a un mecanismo hemodinámico por una estenosis ACI izquierda crítica, confirmada por angioTAC.
+
+Dado que el paciente tiene tendencia a la mejoría clínica quedando pràcticamente asintomático y que no tiene oclusión de gran vaso intracraneal, se considera mayor el riesgo/beneficio y se decide no adminstrar trombolisis endovenosa. Tampoco tiene criterios de tratamiento endovascular en fase aguda dada la ausencia de olcusió de gran vaso. Se inica doble antiagregación, estatinas dosis alta e ingresa en la Unidad de Ictus
+#
+Durante el ingreso el paciente ha presentado tendencia a hipertensión. La analítica de ingreso muestra hipercolesterolemia y HbA1c de 6,7%, pero las glicemias capilares se controlan con la dieta. La monitorización cardíaca no muestra evento arrítmico. Se completa el estudio con eco-doppler que muestra placa de ateroma heterogénea en la salida de arteria carótida interna (ACI) izquierda que condiciona estenosis crítica, así como placa de ateroma en ACI derecha que no condiciona alteración de flujo. Estos hallazgos se confirma en angioRM. La RM cerebral muestra lesiones isquémicas agudas delimitada a la cortical frontoparietal izquierda y focalmente a la cortical precentral derecha sugestivos de mecanismo hemodinámico. Por antecedente de cardiopatía isquémica se realiza ecocardiograma transtorácico que muestra acinesia de los segmentos basales inferior, infero-lateral y del septum posterior con fracción de eyección de 47%.
+
+Clínicamente el paciente presenta buena evolución clínica, quedandose con una mínima paresia facial y paresia distal en la mano derecha. El paciente tolera dieta oral, sedestación y deambulación sin incidencias. Es valorado por servicio de Rehabilitación que pauta logopedia y fisioterapia.
+
+En resumen se trata de paciente que presenta ictus isquémico de territorio ACM izquierda de mecanismo hemodinámico y etiologia AT con buena evolución clínica que es candidato a tratamiento de revascularización carotídea izquierda en su contexto  preferiblemente con stenting. Hay que destacar que en la RNM craneal se objetiva en la secuencia de DWI, una pequeña lesión cortical en territorio ACM derecha que a pesar que la ACA derecha depende del lado izquierdo por agenesia A1 derecha en principio no seria de ese territorio, y que podria estar en relación con la estenosi de la ACI derecha (40%). Por el momento consideramos que se debe plantear la revascularización carotídea izquierda y mantener posteriormente tratamiento médico óptimo y control clínico.
+
+Dada la buena evolución clínica se decide alta a domicilio manteniendo tratamiento con doble antigregación, estatinas a dosis altas y control de las cifras de TA intentando mantener TAs alrededor de 140 mmHg.
+
+Informe d'alta d'hospitalització
+
+
+
+Se le avisarà telefónicamente para realizar procedimiento en el plazo de unos 10 dias desde el evento isquémico. Al alta:
+NIHSS 1 (Miller Fisher mano derecha, hipoestesia facial izquierda)
+Escala de Rankin 2 Barthel 100
+
+DIAGNÒSTICS
+436/5  Ictus  isquémico  en  territorio  frontera  ACM  izquierda  de  mecanismo hemodinámico por  AT  carotidea izquierda (estenosis crítica)
+
+PROCEDIMENTS
+88.91 Imatge per ressonància magnètica de cervell i tronc cerebral
+88.91 Imatge per ressonància magnètica de cervell i tronc cerebral
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Stop Uniket 20mg 2comp/24h.
+
+Adiro 300mg 1comp al mediodía. Clopidogrel 75mg 1comp por la mañana. Atorvastatina 80mg 1comp por la noche.
+
+Resto de medicación igual:
+
+Omeprazol 20mg 1comp/24h. Bisoprolol 10mg 0,5comp/24h.
+
+CONTROL
+Rehabilitación en centro ambulatorio de zona.
+Será avisado para primera visita en consultas externas de Rehabilitación en 1 mes. Será avisado para visita en consultas externas de Neurología
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+11.05.2017
+Pàgina 1 de 4

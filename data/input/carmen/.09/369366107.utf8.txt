@@ -1,0 +1,154 @@
+_LOCATION_) Telèfon _SS_  972 _CONTACT_
+Telèfon IDI (Ressonància i TAC) _CONTACT_
+Telèfon ICO _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 81 Anys
+NIF/DNI: _ID__NAME_; _NAME_
+Informe d'epicrisi
+11:39:52
+10.05.2017
+_LOCATION_
+_SS_ NEUROLOGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_; _CONTACT_
+DOMICIL/RES.SOC 25.04.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Hematoma protuberancial dret
+
+ANTECEDENTS
+ANTECEDENTS PERSONALS
+No al·lergies medicamentoses conegudes No hàbits tòxics
+Independent per les ABD. Rankin 0
+
+ANTECEDENTS PATOLÒGICS
+-Hipetensió arterial en tractament mèdic
+-DM2 en tractament amb ADOs.
+Com a complicació: polineuropatia sensitiva > motora, de caràcter predominantment axonal, de grau lleu i de major expressió a extremitats superiors que a extremitats inferiors.
+-FA en tractament anticoagulant, sense tractament frenador.
+-Dislipèmia en tractament mèdic
+-Hernia d'hiatus
+-Neoplàsia  de  terra  de  boca  intervinguda  quirúrgicament  i  amb  RDT  posterior  al  1998.  Lliure  de  malaltia actualment.
+-HBP en tractament mèdic
+-Arteriopatia perifèrica en seguiment per cirurgia vascular. Va requerir de ingrés i tractament amb prostangladines al 2016
+-	Pseudofaquia ull dret. Pendent faquectomia ull esquerre.
+-	Obstrucció nasal  de predomini esquerre amb anosmia de llarga evolució per desviació septal. En tractament amb Avamys. Valoració per Otorrinolaringologia:
+-	Múltiples queratosi actíniques a zona de cuir pilós. Es va tractar amb 5FU5% el 2014.
+-	2011 presenta vessament sinovial mecànic recidivant a genoll dret. RM que informa de artropatia degenerativa amb lesions subcondrals al compartiment intern i degeneració meniscal. Es va proposar sinovioartesis, sense més seguiments per part de Reumatologia.
+
+MEDICACIÓ HABITUAL
+Dianben (Metformina) 850mg/12h, Enalapril 5g/12h, Simvastatina 10mg/24h Hemovas 600mg/24h, Pantoprazol 20mg/24h, Sintrom segons pauta Paracetamol 1g/24h, Avamys 27,5mcg pulveritzador nasal
+
+PROCÉS ACTUAL
+Pacient que estant a domicili asimptomàtic, el 25/04/2017 a les 11:30h presenta quadre de disminució del nivell de consciència amb desviació de la mirada a l'esquerre d'inici , després d'arribar de l'hort. Neguen TCE ni altra clínica. Es portar a urgències del nostre centre amb ambulància medicalitzada sense activació de Codi Ictus. S'activa Codi ictus intrahospitalari a les 13:30h, sent valorat al moment.
+
+Informe d'epicrisi
+
+
+
+EXPLORACIÓ FÍSICA
+
+
+A urgències
+TA 189/99 mmHg, FC 32x', afebril, eupneic
+Exploració NRL: estuporós, respon al dolor i intenta nominar amb disartria severa, mobilitza les quatre extremitats a l'ordre quan esta despert, paresia facial dreta i paresia VI dret, disartria severa, babinski bilateral.
+NIHSS = 12010/23333/00020 = 20
+
+A l'ingrés a la Unitat d'ictus:
+TA 116/56, fC 52x', afebril, Sat 91% amb UN Diuresis: 1200cc en 24h
+AR: roncus a camps pulmonars superiors
+AC: arritmic, no clar buf, tons pocs audibles per sorolls respiratòris sobreafegits
+Exploració NRL: molt estuporos, obre els ulls a l'ordre verbal, intenta obeir alguna altra ordre. Orientació no valorable, disartria severa. Preferencia oculocefalica a l'esquerre, oculocefalics presents amb oposicio. Pupil·les isocòriques i normoreactives. Movilitza ambdues cames de manera simètrica, no paresia braquial dreta, paresia braquial esquerre (movilitza lleument). RCP extensor bilateral. Anestesia braquial esquerre. No respon a estimul campimetric per amenaça bilateral, no asimetria facial
+NIHS = 12120/0322/02030 = 18
+
+
+EXPLORACIÓ COMPLEMENTÀRIA
+Analítica sangunia
+- Hemoglobina 15.8 g/dL. Hematòcrit 49 %. Volum corpuscular mitjà 93.3 fL, Hemoglobina corpuscular mitja 30 pg Plaquetes * 141 K/mcL, Leucòcits 6.18 K/mcL
+-	Tasa protrombina * 19 %, Tasa protrombina (INR) * 3.97, Temps de cefalina (TTPA) * 48.5 segons, Temps de cefalina (ratio) * 1.6, Fibrinogen (deduit) 349 mg/dL
+-	Glucosa * 178 mg/dL, Urea 39 mg/dL,Creatinina 0.75 mg/dL, Urat 6 mg/dL, Proteïna 6.9 g/dL, Albúmina (sèrum) 4 g/dL. Calci (II) 9 mg/dL, sodi 142 mEqu/L, potasi 4.1 mEqu/L
+Colesterol * 158 mg/dL, Colesterol HDL * 79 mg/dL, Colesterol LDL (calcul) 59 mg/dL. Triglicèrid 101 mg/dL Perfil hepàtic correcte.
+-	Troponina T hs (alta sensibili * 17.1 ng/L
+ECG: FA ja coneguda a 35x' Rx de tòrax: pendent
+TC de crani i angioTC: Hematoma infratentorial intraparenquimatòs centrat a vermís cerebel·lós dret que provoca una compressió del IV ventricle i extensió cisternal. L'estudi angiogràfic no mostra signes de sagnat actiu dintre del hematoma
+
+INR de control (post 1000 UI de Beriplex): INR * 1.91
+INR de control (post 500 UI de Beriplex): INR* * 1.61
+
+Analitica sanguinia de control:
+-	Hemograma: Hemoglobina 14.6 g/dL, Hematòcrit 45 %, Volum corpuscular mitjà 93 fL, Hemoglobina corpuscular mitja 30 pg
+Plaquetes * 128 K/mcL, Leucòcits 8.23 K/mcL
+-	Tasa protrombina * 48 %, Tasa protrombina (INR) * 1.73, Temps de cefalina (TTPA) 34.7 segons, Temps de
+-	
+Informe d'epicrisi
+
+
+
+
+cefalina (ratio) 1.2, Fibrinogen (deduit) 402 mg/dL
+-	Urea 36 mg/dL. Creatinina * 0.69 mg/dL, Ió sodi 138 mEqu/L, Ió potasi 3.5 mEqu/L
+TC de crani de control: Leve aumento del volumen del hematoma de fosa posterior con extensión a cuarto ventrículo y leve aumento de la ventriculomegalia supratentorial secundaria, sin signos de actividad.
+
+INR de control (post 500UI de Beriplex + 1 ampolla vitamina K): Tasa protrombina * 56 %, Tasa protrombina (INR) * 1.51
+INR de control (post 500UI de Beriplex): INR * 1.34
+INR de control (post 1 ampolla de vitamina K):  INR 1.19
+
+Hemocultius: negatius
+Urocultiu: 1.000.000 UFC/mL Enterococcus faecalis sensible a Ampicil·lina
+Rx de tòrax: mal penetrada, cardiomegalia, probable condensacio periihiliar dreta
+TC de crani de control (per empitjormanet coincidint amb febre): Hematoma localizado entre margen medial de pedúnculo cerebeloso medio-hemisferio cerebeloso-protuberancia derecho con extensión a cuarto ventrículo y cisterna ambiens derecha. Sin cambios en comparación con estudio previo HSA en territorio parietal bilateral y frontal sin cambios. Resto de estudio sin cambios en comparación con el estudio previo.
+
+TC arterias periféricas (08/05/2017): Trombosis de la arteria femoral superficial y de la arteria poplítea derecha Trombosis de tronco y de las ramas de la arteria tibio-peroneal derecha
+
+EVOLUCIÓ CLÍNICA
+A l'arribada a urgències presenta FA lenta que es controla amb Atropina i pic hipertensiu que es controla amb perfussió de Urapidil.
+Es realitza TC de crani que mostra hematoma localitzat a vermis cerebel·los dret amb extensió a peduncle cerebel·los, compressió dels IV ventricle i extensió cisternal, secundari a tractament amb Sintrom. Amb INR elevat (3,97), requereix fins a 2000 UI de Beriplex i vitamina K per reversió del Sintrom.
+
+El pacient ingressa a la Unitat d'ictus sota monitorització semi-intensiva persistint estuporós, amb disartria severa, desviació oculocefalica a l'esquerre, permetent mobilització de les 4 extremitats amb menor mobilització del braç esquerre i anestèsia braquial esquerrem, amb Babinski extensor bilateral.
+A les 24h es realitza TC de crani de control que evidència augment de l'hematoma i la ventriculomegalia sense signes d'hidrocefalia activa, sense empitjorament de la clínica
+
+Com a altres processos intercurrents durant l'ingrés:
+-	Des de l'ingrés presenta milloria del control tensional retirant-se bomba d'Urapidil. Es reinicien hipotensors via oral amb tendència a la hipertensió, pel que s'afegeix Doxazosina si precisa
+-	Bradicardia ben tolerada (sense hipotensió ni disminució del nivell de consciencia) sense betabloquejants, es realitza IC a Cardiologia que orienten de FA lenta asimptomàtica reactiva a lesió cerebral que no requereix mesures terapèutiques
+-	Secundari a disfagia apareixen abundants roncus i un episodi de vomit, posteriorfebre pel que sospitant broncoaspiració s'inicia Amoxicil·lina/Clavulànic 2g/8h. Per estupor coincidint amb la febre es realitza nou TC de control, sense canvis respecte previ. A la Rx de tòrax destaca possible condensació perihiliar dreta, amb milloria dels roncus i sense recidiva de febre durant la resta d'ingrés.
+Es detecta Enterococcus faecalis sensible a Ampicil·lina, pel que es manté igual tractament antibiòtic.
+
+Informe d'epicrisi
+
+
+
+
+A les 48h d'ingrés el pacient presenta milloria neurològica amb disartria, bradicinesia, diplopia per desconjugació amb endotropia de l'ull dret, dismetria dit nas dreta, hemihipoestesia dreta, paresia facial dreta i lleu deficit motor crural dret. Presenta disfagia, iniciant´se dieta via oral amb espessant.
+
+El dia 05/05/2017 presenta hipotensió arterial i desaturació, sospitant de sepsis secundaria a broncoaspiració. Es canvia antibiòtic a Piperacil·lina/Tazobactam i requereix perfussió de noradrenalina durant 48h, podent-se retirar posteriorment amb tensió arterial i diuresis correctes.
+El dia 07/05/2017 presenta dolor intens cama  dret amb absencia de pols, realitzant-se TC arterial amb oclusió de tronc femoral i artèria poplitea dreta en pacient amb FA actualment no anticoagulat per hematoma de vermis. Es recomana anticoagulació que no es pot realitzar immediatament per tendència a hipertensió arterial i risc d'augment de sagnat intracranial, presentant a les 24h cama dreta sense pols i signes de necrosis. Es valorat per cirurgia vascular que contraindica la possibilitat d'amputació supracondilia degut a estat basal del pacient,
+parlant-se amb la familia de l'actual mal pronòstic degut a isquemia de la cama dreta i sense possibilitat de milloria tot i inici d'anticoagulació, es decideix pauta de sedació del pacient degut a important dolor secundari a necrosis. El pacient es exitus el 10/05/2017.
+
+Escales a l'alta:
+- NIHSS 22222/24444/000320 = 43
+-	Rankin 6
+-	Barthel 0%
+
+
+DIAGNÒSTICS
+431/3 Hematoma cerebral infratentorial de vermis cerebel·losa i peduncle cerebel·los mig amb extensió a nivell IV ventricle.
+401.9 Hipertensió essencial inespecificada
+250.00 Diabetis mellitus II sense complicació,controlada
+427.31 Fibril·lació auricular 444.22/7 Isquemia aguda eeii
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+10.05.2017
+Pàgina 1 de 4

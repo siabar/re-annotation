@@ -1,0 +1,187 @@
+_LOCATION_ Tel. _CONTACT_
+e-mail: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 55 Anys
+NIF/DNI: _ID__NAME_; _NAME_; 
+_NAME_;
+_NAME_
+Informe d'alta d'hospitalització
+17:44:00
+07.02.2017
+_LOCATION_
+_SS_ NEUROLOGIA
+ABS
+Servei Data d'alta
+_CONTACT_; _CONTACT_; _CONTACT_
+DOMICIL/RES.SOC 04.02.2017
+_LOCATION_
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Hematoma frontal cortical dret.
+
+ANTECEDENTS
+Home de 55 anys, sense al·lèrgies medicamentoses conegudes, fumador de 10-20 cig/dia, sense altres hàbits tòxics.
+Situació funcional prèvia: Independent per les ABVD, mRS 0. Treballa de cuiner.
+
+ANTECEDENTS PATOLÒGICS:
+-	Dislipèmia lleu en tractament dietètic.
+-	AIT de territori indeterminat dret i etiologia indeterminada l#any 2002, que va cursar amb parèsia de la mà esquerra autolimitada en 4 hores. Es disposa de TC cranial, angio-RM cerebral, ecocardiograma transtoràcic normal i Holter normal amb ECG en ritme sinusal. Es va donar d'alta amb AAS 300 mg. Als controls posteriors a consultes externes de Neurologia es va realitzar estudi vascular que va detectar foramen oval permeable i aneurisma del septe auricular pel que es va decidir iniciar tractament amb Sintrom (bons controls). No fa controls per cardiologia ni per neurologia.
+-	Ingressat l#any 2012 a _SS_ per cel·lulitis vs. limfangitis d'extremitat inferior esquerra sense detectar microorganisme, amb hemocultius negatius. Es completa tractament antibiòtic per via oral de forma ambulatòria amb Augmentine. Bons controls posteriors.
+-	Hepatitis aguda per VHB al 2015 pel que va ingressar a _SS_. En controls posteriors s'observa curació.
+-	Hiperplàsia benigna de pròstata sense tractament mèdic.
+-	Litiasi renal esquerra i ureterocele pel que ha fet seguiment a Urologia de _SS_, ja donat d'alta.
+
+ANTECEDENTS FAMILIARS:
+-	Pare diagnosticat de càncer de còlon.
+-	Mare pateix ictus als 35 anys.
+-	Germà difunt per càncer de pulmó metastàsic.
+-	Germà diagnosticat de càncer de còlon.
+-	Germà operat als 12 anys de probable malformació cardíaca. Sense seqüeles.
+
+MEDICACIÓ HABITUAL
+Sintrom segons pauta.
+
+PROCÉS ACTUAL
+Pacient que acut per parèsia de la cama esquerre i desviació de la comisuta bucal a la dreta. Els símptomes s'inicien el dia 04/02/17 a les 10:00h. S'activa codi ictus a les 11:50h i arriba al nostre centre a les 12.10h
+
+EXPLORACIÓ FÍSICA FR     rpm	TA s    113 mmHg	TA d   77 mmHg
+
+Informe d'alta d'hospitalització
+
+
+
+FC   78 bpm
+Tªaxi 35.3 ºC	Tªrec  ºC	SAT O2 100 %	Pes Kg
+
+A Urgències:
+Conscient i orientat en les 3 esferes. Llenguatge sense elements afàsics ni disartria. Oculomotricitat i campimetria sense alteracions. Parèsia facial central esquerre lleu. Lleu parèsia d'extremitat inferior esquerre que no puntua en la NIHSS. RCP flexor bilateral.
+NIHSS = 0.0.0.0.0/1(0.0)(0.0)/0.0.0.0.0 = 1
+Tons cardíacs rítmics sense bufs ni frecs. Murmuri vesicular conservat. Polsos perifèrics presents i simètrics. EEII sense edemes ni signes de TVP.
+
+A Unitat d'Ictus:
+Conscient i orientat en les 3 esferes. Llenguatge sense elements afàsics ni disartria. Oculomotricitat i campimetria sense alteracions. Paresia facial central esquerre lleu. Lleu paresia d'extremitat inferior esquerre que no puntua.
+NIHSS:1 (0.0.0.0.0/1(0.0)(0.0)/0.0.0.0. 0)
+
+EXPLORACIÓ COMPLEMENTÀRIA
+A Urgències:
+Analítica:
+Hemograma: Leucocits 7900 (N 63%), Hemoglobina 16.5g/dl, Hematocrito 46.5%, Plaquetes 234.000. Hemostasia: TP 51%, INR 1.69, fibrinogen 378mg/dl, TTPA 35.7seg.
+Bioquímica: Glucosa 100mg/dL, Urea/Creatinina 33.1/0.72mg/dL, Na/K 137.8/3.6mmol/L, PCR 1.30mg/L.
+
+ECG: Ritme sinusal a 60 x, eix -120º, PR 0.16seg, QRS 0.08seg, sense alteracions agudes de la repolarització.
+
+TC cranial urgent: Lesión hemorrágica parenquimatosa aguda frontal derecha, cortical, de 8 x 8 x 11 mm de diámetros anteroposterior, latero-lateral y craneocaudal respectivamente. Cisternas basales y perimesencefálicas libres. Línea media centrada. Sistema ventricular simétrico de tamaño y morfología conservados.
+
+Radiografia de tòrax: Sin evidencia de alteraciones pleuropulmonares agudas. Engrosamiento parahiliar derecho.
+
+A Unitat d'Ictus:
+Analítica:
+Hemograma: Leucocitos 6400 (49.8% neutrófilos, 34.8% linfocitos), Hemoglobina 14.9 g/L, Plaquetas 226000. Coagulación: T de Protrombina 13.3s, 75%, ratio 1.23, INR 1.23; TTPA 31.1s, ratio 1; Fibrinógeno 370 mg/dL. Bioquímica: Glucosa 87 mg/dL, Hemoglobina glicosilada 5.6%, Proteína 61.5 g/L, Urea 37 mg/dL, Creatinina 0.78
+mg/dL (FG >90), Urato 5.7 mg/dL, Calcio 8.4 mg/dL, Sodio 134.9 mmol/L, Potasio 3.86 mmol/L, Cloro 103.4 mmol/L, Bilirrubina 0.87 mg/dL, Fosfatasa alcalina 55 U/L, ALT 17 U/L, GGT 16 U/L, CK 125 U/L, PCR 1.7 mg/L. Perfil lipídico: 132 mg/dL, Colesterol 213 mg/dL, HDL 39.8 mg/dL, LDL 147 mg/dL.
+Proteinograma: Hipo alfa 1. TSH: 1.42.
+Marcadores tumorales: CEA 1.07, aFP 2.14, PSA 0.69, CA 125 10.9, CA 19-9 4.7, S100 y SCA pendientes al alta. Estudio de trombofilias: pendiente al alta.
+Anticoagulante lúpico. positivo débil.
+
+
+Ecocardiograma transtorácico:	VI de dimensiones normales con funcion global  y segmentaria normal, Fe Simpson 4C del 72%. Se detecta dudosa hipertrofia localizada  a nivel lateral apical, con colapso apical VI.
+
+Informe d'alta d'hospitalització
+
+
+
+
+Cavidades derechas de calibre normal, normocontractiles. (TAPSE 21 mm). IT ligera que permite estimar una PAPs de 29mmHg. Planos valvulares normales. TIA con criterios limítrofes para aneurisma. Alteración diastólica tipo I. Se puede valorar el realizar un estudio Cardio-RM ambulatoriamente para mejor valoración de la zona apical VI, aunque probablemente sea normal, pués no muestra ninguna sospecha por el ECG.
+
+EVOLUCIÓ CLÍNICA
+Home de 55 anys, mRS 0, amb antecedents d'AIT al 2002 i foramen oval permeable amb aneurisma del septe interauricular, pel que segueix tractament amb Sintrom. Acut per parèsia facial esquerra i parèsia de cama esquerra de 2 hores d'evolució.
+
+A la seva arribada a Urgències, està hemodinàmicament estable i afebril. A l'exploració física presenta lleu asimetria del solc nasogenià esquerre i lleu parèsia de la cama esquerra (NIHSS 1). L'ECG està en ritme sinusal. Es realitza Coagu-check que mostra INR de 1.8 i es realitza TC craneal que mostra petit hematoma cortical frontal dret, que s'orienta com probablement secundari a tractament anticoagulant. L'analítica confirma INR de 1,69 sense altres troballes d'interès.
+
+Durant l'estada a la Unitat d'Ictus es manté normotens i normoglucèmic sense requerir medicació. Neurològicament presenta milloria progressiva, resolent-se parèsia facial, persistint mínima parèsia d'extremitat inferior esquerra. S'inicia dieta oral i deambulació autònoma amb bona tolerància.
+
+Dins de l'estudi etiològic es cursa analítica d'ingrés que mostra lleu alteració de perfil lipídic amb perfil glucèmic correcte, marcadors tumorals negatius (alguns pendents a l'alta) i anticoagulant lúpic dèbilment positiu (es recomana repetir als 3 mesos sense tractament anticoagulant). L'estudi de trombofílies resta pendent de resultat a l'alta. Se sol·licita ecocardiograma transtoràcic que mostra dubtosa hipertròfia apical (per la qual es recomana estudi mitjançant RM cardíaca de forma ambulatòria) amb comunicació interauricular ja coneguda, sense clara dilatació aneurismàtica. Les troballes actuals no compleixen criteris d'anticoagulació, pel que s'inicia tractament de prevenció secundària amb antiagregació simple.
+
+Davant l'estabilitat clínica se sol·licita trasllat a centre de referència (_SS_) per a completar estudi (RM cerebral) i evolució.
+
+A l'alta: NIHSS = 0
+mRS = 1
+Barthel = 100
+
+DIAGNÒSTICS
+-	Hemorràgia intraparenquimatosa frontal cortical dreta probablement secundària a anticoagulació.
+-	Dislipèmia
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+-	STOP Sintrom
+
+-	Dieta baixa en greixos
+-	Deambulació autònoma
+-	AAS 100 mg/24 h
+-	
+Informe d'alta d'hospitalització
+
+
+
+
+-	Paracetamol 1 g/8 h si precisa
+
+CONTROL
+-	Trasllat a centre de referència (_SS_) per continuar estudi (RM cerebral) i evolució.
+-	Valorar realització de RM cardíaca de forma ambulatòria per completar estudi de possible hipertròfia apical.
+
+DESTINACIÓ A L'ALTA:	HOSP. AGUTS/PSQ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+07.02.2017
+Pàgina 1 de 4

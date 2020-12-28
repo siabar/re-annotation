@@ -1,0 +1,180 @@
+_LOCATION_ Tel. _CONTACT_
+e-mail: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 56 Anys
+NIF/DNI: _ID_Dra. _NAME_/ Dra. _NAME_/Dra. _NAME_/Dra. _NAME_/ Dr. _NAME_
+Informe d'alta d'hospitalització
+16:02:04
+02.08.2017
+_LOCATION_
+_SS_ NEUROLOGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_; _CONTACT_; _CONTACT_; DOMICIL/RES.SOC
+28.07.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Debilidad hemicuerpo izquierdo
+
+ANTECEDENTS
+ANTECEDENTES PERSONALES:
+Paciente de 56 años, sin alérgias medicamentosas conocidas.
+Refiere consumo de enol severo y de cocaina, en abstinencia desde hace 8 meses y en tratamiento con antabus. Fumador activo de 1 paquete diario (refiere consumo más importante hace 8 meses).
+Situación funcional previa: Independiente para las actividades básicas de la vida diaria (mRS 0).
+
+ANTECEDENTES PATOLÓGICOS:
+-	Hipertensión arterial en tratamiento farmacológico.
+-	Dislipemia en tratamiento farmacológico.
+-	Diabetes Mellitus tipo 2 en tratamiento con metformina.
+-	Síndrome depresivo en tratamiento con paroxetina.
+-	Episodio en enero-2015 de hipoglucemia sintomática (glucemia 32mg/dl) con focalidad neurológica (hemiparesia braquio-crural izquierda y disartria) de minutos de duración (llegó a  urgencias asintomático y con glicemias correctas) en contexto de tratamiento antidiabético con glibenclamida y menor ingesta oral sin haber disminuido dosis de hipoglicemiante.
+-Cirugía de abceso perianal en 2015.
+
+MEDICACIÓ HABITUAL
+Antabus  250  mg  cada  24  horas,  Atenolol  50  mg  cada  24  horas,  Deprax  100mg  2  comp  cada  24  horas,
+Gabapentina 300 mg cada 8 horas, Metformina 850 mg cada 8 horas, Paroxetina 20 mg 2 comp cada 24 horas, Simvastatina 40 mg cada 24 horas, Valsartan/Hidroclorotiazida 320/25 mg cada 12 horas
+
+PROCÉS ACTUAL
+El paciente se depierta asintomático el día 29.07.2017 a las 08:00h, presentando de forma súbita debilidad de hemicuerpo izquierdo y caída, por lo que avisa a su hija a las 8:18h. Se avisa SEM que activa código ictus a las 09:04h. Llegada a nuestro centro a las 09:11h.
+
+EXPLORACIÓ FÍSICA
+
+FC	64 bpm
+Tªaxi 35.8 ºC
+FR	rpm Tªrec  ºC
+TA s	154 mmHg SAT O2 98 %
+TA d   99 mmHg Pes Kg
+
+Glicemia capilar:149 mg/dL.
+
+Exploración en Urgencias:
+Consciente y orientado en los 3 ejes. Obedece órdenes simples y complejas. No alteraciones de la emisión del lenguaje,  leve  disartria.  No  alteraciones  oculomotoras  con  cierta  preferencia  oculocefálica  a  la  derecha,
+
+Informe d'alta d'hospitalització
+
+
+
+
+hemianopsia homónima izquierda. Paresia facial sin componente superior. Leve paresia braquiocrural izquierda que claudica sin tocar la cama. No déficits sensitivos. Extinción visual, asomatognosia.
+
+NIHSS: (0.0.0)0.2/2(0.1)(0.1)/0.1.0.1. 2 = 10
+
+Exploración en Planta de Neurología:
+Consciente y orientado en los 3 ejes. Lenguaje normal, sin elementos afásicos (nomina, repite, evoca y obedece órdenes complejas), leve disartria. Oculomotricidad normal. Campimetría por confrontación normal. No paresia ni hipoestesia facial. Pares craneales bajos normales. Fuerza conservada, leve Miller-Fisher izquierdo. Reflejos musculares profundos simétricos. Reflejo cutáneo plantar flexor bilateral.
+
+NIHSS: 0.
+
+Sistémica: Buen estado general. Normocoloreado y normohidratado. AC: ruídos cardíacos regulares, sin soplos ni extratonos. AR: MVC, sin ruídos añadidos. Eupneico. Abdomen blando y depresible, sin masas ni megalias, ni dolor a la palpación, peristaltismo presente. EEII sin edemas ni signos de trombosis venosa profunda.
+
+EXPLORACIÓ COMPLEMENTÀRIA
+EXPLORACIONES COMPLEMENTARIAS EN URGENCIAS:
+
+ECG: RS  a 60 lpm, Eje a 60º, PR de 120 ms. QRS de 80 ms sin desnivelaciones del ST.
+
+Analítica urgente: Hematologia (28/07/17): Leucòcits 7500 /µL, (N 58,4 % / L 31,5 / M 7,1 / E 2,1 / B 0,9), Hties 4,93 mill/µL, Hb 14,2 g/dL, Hct 42,1 %, VCM 85,5 fL, Plaquetes 174000 /µL, TP 93 %, INR 1,05 sg, TP ratio
+1,06, TTPA 31 sg, TTPA ratio 1, Fibrinogen 422 mg/dL. Bioquimica (28/07/17): Glucosa 155 mg/dL, Urea 36,
+Creatinini 0,79, Na 139 mmol/L, K 3,8, Prot-C reactiva 4,7 mg/L.
+
+TC cranial y angioTC: TC simple ASPECTS 10. AngioTC estenosis critica de ACI derecha con flujo filiforme y oclusión de M2 derecha.
+
+EXPLORACIONES COMPLEMENTARIAS EN LA UNIDAD DE ICTUS:
+
+Analítica de ingreso: Hematologia (28/07/17): Leucòcits 8900 /µL, (N 78 % / L 16 / M 5 / E 0,7 / B 0,3), Hties 4,47 mill/µL, Hb 13 g/dL, Hct 38 %, VCM 85,1 fL, Plaquetes 169000 /µL.
+Bioquimica (28/07/17): Glucosa 150 mg/dL, HbA1c 7,1 %, Urea 32 mg/dL, Creatinini 0,74, Filtrat glomerular estimat >90 mL/min/1.73 m2, Na 136,1 mmol/L, K 3,82, ALT 12 U/L, FA 94, Bilirubina 0,42 mg/dL, Proteïna 57,2 g/L, Albumina 36,2. Proteinograma: se observa banda de movilidad restringida beta. Area/porcentaje de componente monoclonal no se puede valorar cuantitativamente. Lípidos.- Triglicèrid 145 mg/dL, Colesterol 135, (HDL 28,1 / LDL 78). Hormonas (28/07/17): TSH 1,287 µUI/mL.
+
+TC cranial simple de control a las 24 horas (29.07.2017): No se evidencian lesiones isquémicas o hemorrágicas agudas  TC  valorables.  Cisternas  basales  y  perimesencefálicas libres.  Línea  media  centrada. Sistema ventricular simétrico de tamaño y morfología conservados. Sin alteraciones óseas TC valorables. No se aprecian alteraciones intra ni extraaxiales TC valorables. AngioTC de control a las 24 horas (29.07.2017): Ateromatosis de arco aórtico y de la ACI derecha y izquierda a nivel de la bifurcación carotídea, con estenosis inferior al 70% en el lado derecho. ACI y ACM derechas actualmente permeables. Resto del polígono de Willis permeable. Arteria basilar de pequeño calibre y ambas ACPs con origen fetal.
+
+Informe d'alta d'hospitalització
+
+
+
+
+
+EXPLORACIONES COMPLEMENTARIAS EN LA PLANTA DE NEUROLOGÍA:
+Analítica Control (29/07/2017): Hemograma: Leucocitos 7.500/microl (N74.6% L16.9% M6.8% E1.3% B0.4%) Hb 12.9g/dl Hto 36.5% Plaquetas 159.000/microl Bioquímica: Glucosa 107mg/dl Urea 24.9mg/dl Creatinina 0.69mg/dl Sodio 139.9mmol/l Potasio 3.3mmol/l Bilirrubina 0.41mg/dl
+
+Estudio neurosonológico (31/07/2017): Estudio Trans-Craneal: Ventana transtemporal izquierda subóptima que impide la correcta visualización de estructuras vasculares; sólo se consigue insonar a.cerebral media distal y segmento P2 de forma parcheada sin apreciarse alteraciones. Se insona sifón carotídeo derecho, a.cerebral media, anterior y  posterior derechas sin  apreciarse alteraciones del  flujo;  el  segmento  A1  de  la a.cerebral  anterior  derecha  no   está  invertido,   no  insonamos   a.comunicante  posterior  derecha.  Ambas aa.cerebrales medias	mantienen  flujos  simétricos.  Aa.vertebrales  y  a.basilar  hasta  95mm  de  profundidad ortodrómicas con flujo dentro de la normalidad; ausencia de estenosis a este nivel. Estudio de TSA: Grosor íntima media aumentado en ambas aa.carótidas comunes, de predominio en a.carótida común derecha. Presencia de placas de ateroma heterogéneas, hiper-isoecoicas e irregulares en ambas bifurcaciones. Placa heterogénea de gran  tamaño  en  inicio  de  a.carótida  interna  derecha  que  ocasiona  una  estenosis  grave  (Vsist  máxima
+>300cm/seg). Se insonan arterias vertebrales y basilar con dominancia izquierda y sin estenosis ni oclusiones. Arterias oftálmicas ortodrómicas, no amortiguadas, no alteraciones del flujo. Conclusión: Se observan placas de aterosclerosis heterogéneas de superficie irregular en ambas bifurcaciones, que en caso de carótida derecha penetra en ACI ocasionando una estenosis grave. Oftálmicas ortodrómicas. Estudio transcraneal permeable y simétrico con ACAs ortodrómicas.
+
+Radiografía de tórax (31/07/2017): Silueta cardíaca de tamaño en el límite alto de la normalidad. Sin otras alteraciones significativas. Sin cambios significativos respecto a Rx del 23/04/2017.
+
+Ecocardiograma transtorácico (02.08.2017): Ventrículo izquierdo no dilatado, ligeramente hipertrófico.
+Función sistólica global y segmentaria conservada. Aurícula izquierda no dilatada. Válvula mitral de velos finos y buen plano de coaptación. Placa de aterosclerosis en cayado aórtico de aspecto no complicado. Cavidades derechas no dilatadas con ventrículo derecho normocontráctil. Sin valvulopatías significativas. Sin signos de hipertensión pulmonar
+
+EVOLUCIÓ CLÍNICA
+Paciente de 56 años con factores de riesgo cardiovascular, ex consumo de enol severo en tratamiento con antabus y ex-consumo de cocaína, que acude a Urgencias el día 28/07/17 por hemiparesia izquierda de 1h de evolución. A su llegada a nuestro centro, hemodinámicamente estable, levemente hipertenso y afebril. A la exploración física presenta leve déficit motor de hemicuerpo izquierdo, hemianopsia homónima izquierday asomatognosia con extincion sensitiva, puntuando un NIHSS de 10. ECG en ritmo sinusal. Se realiza TC cranial simple que no muestra lesiones isquémicas ni hemorrágias agudas, ASPECTS de 10. El angioTC muestra estenosis crítica con flujo filiforme de ACI derecha y oclusión de ACM derecha a nivel de M2. Dada la ausencia de contraindicaciones, se inicia tratamiento con rTPA (TA prebolus de 154/99, bolus de 9mg y perfusión de 85mg) con tiempo puerta aguja de 32 minutos. Por la presencia de oclusión de gran vaso, se decide realización de tratamiento endovascular de rescate. Entra a la sala a las 10h00 (groin-punture 10h18) con TICI basal de 1.
+Recanalización 11:05h con TICI 3, usando dispositivo CATCH en 1 pase. Se realiza posteriormente angioplastia carotidea a las 11:20h. Fin del procedimiento 11:31h quedando el paciente con leve paresia facial izquierda (NIHSS 1).
+
+Informe d'alta d'hospitalització
+
+
+
+
+
+Durante su ingreso se mantiene hemodinámicamente estable, afebril y asintomático (NIHSS 0). Se inicia dieta oral y deambulación con buena tolerancia. Dentro del estudio etiológico se realiza analítica en la que destaca perfil glicémico alterado, con perfil lipídico normal y tiroides sin altearciones. Se realiza un TC craneal a las 24h que no muestra lesiones isquémicas ni transformación hemorrágica y angio-TC que muestra ateromatosis del tronco aórtico y bifurcación de ambas arterias carótidas con estenosis <70% en arteria carótida interna derecha y permeabilidad intracraneal. Se realiza estudio neurosonológico de troncos supraórticos y transcraneal que muestra estenosis grave de arteria carótida interna derecha (con velocidades sistólicas pico de 300cm/seg), sin hallarse alteraciones a nivel transcraneal (aunque presenta mala ventana). Se realiza ecocardiograma transtorácico que descarta cardiopatía embolígena. Dada la estenosis severa de la arteria carótida interna derecha se inicia doble antiagregación y se decide presentar el caso en sesión de Carótidas el próximo día 04.08.2017 para valorar tratamiento revascularizador mediante stenting o endarterectomía en segundo tiempo.
+
+Se solicita valoración por Endocrinología para ajuste de tratamiento antidiabético. Dado que el paciente presenta buenos controles glucémicos crónicos (con HbA1c en torno a 7%) y que durante su estancia en planta sin tratamiento insulínico, ha mantenido en todo momento glucemias capilares por debajo de 200mg/dl, se decide mantener misma pauta antidiabética con Metformina 850mg 1 comprimido cada 8h y continuar controles con médico de cabecera.
+
+Finalmente, se orienta como ictus isquémico de territorio ACM derecha de mecanismo embólico arterio-arterial y etiología aterotrombótica por estenosis crítica de arteria carótida interna derecha. Tratado con fibrinolisis y tratamiento endovascular de rescate. Persiste estenosis >70% de la arteria carótida interna derecha.
+Dada estabilidad clínica y hemodinámica se decide alta a domicilio y se planteará tratamiento revascularizador de la arteria carótida interna derecha en un segundo tiempo.
+
+Al alta: NIIHSS 0
+mRS 0
+
+DIAGNÒSTICS
+-	Ictus isquémico de territorio ACM derecha de mecanismo embólico arterio-arterial y etiología aterotrombótica por estenosis crítica de arteria carótida interna derecha. Tratado con fibrinolisis y tratamiento endovascular de rescate. Estenosis >70% de la arteria carótida interna derecha.
+-	Hipertensión arterial
+-	Diabetes mellitus tipo 2
+-	Sindrome ansioso-depresivo
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Dieta cardiosaludable. Abstinencia tabáquica.
+
+-	Adiro 300mg 1 comprimido cada 24h (comida)
+-	Clopidogrel 75mg 1 comprimido cada 24h (desayuno)
+-	Atorvastatina 80mg 1 comprimido cada 24h (cena)
+-	Amlodipino 10mg 1 comprimido cada 24h (desayuno)
+-	Ranitidina 150mg 1 comprimido cada 12h
+-	
+Informe d'alta d'hospitalització
+
+
+
+
+STOP:
+-	Omeprazol
+-	Simvastatina
+
+Resto de su medicación sin cambios:
+-	Atenolol 50mg 1 comprimido cada 24h (desayuno)
+-	Distraneurine 1 comprimido cada 24h (cena)
+-	Deprax 100mg 2 comprimido cada24h (cena)
+-	Paroxetina 20mg 2 comprimido cada 24h
+-	Antabus 250mg 1 comprimido cada 24h
+-	Valsartan/Hctz 320/25mg 1 comprimido cada 12h
+-	Metformina 1 comprimido cada 8h
+-	Gabapentina 300mg 1 comprimido cada 8
+
+CONTROL
+Control de factores de riesgo cardiovascular por médico de cabecera. Será avisado para primera visita con Anestesia.
+Será avisado para realización de stenting/endarterectomía de forma diferida.
+
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+02.08.2017
+Pàgina 1 de 5

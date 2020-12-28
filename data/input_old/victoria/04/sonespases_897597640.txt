@@ -1,0 +1,219 @@
+Fecha de Alta 
+30-05-2018
+
+Diagnosticos 
+ENFERMEDAD CEREBORVASCULAR AGUDA isquémica: INFARTO VERTEBROBASILAR (protuberancia y cerebelo izquierdo) probablemente por aterosclerosis intracraneal. Enfermedad cerebral de pequeño vaso.
+Enfermedad cerebro-vascular crónica. Microangiopatía cerebral.
+Estenosis ACMI moderada
+HTA no diagnosticada
+DM tipo 2 de difícil control
+ 
+
+Procedimientos 
+
+
+Motivo de ingreso
+
+Código ictus externo 
+
+Alergias
+No hay alergias activas.
+
+Antecedentes familiares
+
+
+Antecedentes Médicos 
+
+- No alergias conocidas
+- FRV: DM tipo 2
+- No hábitos tóxicos.
+- Situación basal: mRS basal 0. IAVD.
+ 
+
+Anamnesis
+
+
+
+Varón 76 años, que presenta  el 15/05/2018 sobre las 12:15h una caída brusca, no queda claro si precedida o no de pérdida de conocimiento, con traumatismo facial secundario. A la llegada de 061 se objetiva hemiparesia derecha y desviación de comisura bucal derecha por lo que se activa el Código Ictus.
+Cronopatología:
+Inicio síntomas:12.15h
+Hora lelgada HUSE: 13.25h
+Hora TAC: 14h
+Hora fibrinolisis: 15h 
+
+
+
+
+Exploración
+
+
+
+Signos vitales
+Taxilar: 35.1 ºC (15/05/18 13:25:07)
+FC lat/min: 65 Lat/min (15/05/18 13:25:29)
+TA Sistólica: 158 mmHg High (15/05/18 13:25:29)
+TA Diastólica: 76 mmHg (15/05/18 13:25:29)
+SatO2: 100 % (15/05/18 13:25:29)
+Glucemia: 377 mg/dL High (15/05/18 13:31:13) 
+
+NRL:
+- Consciente, con tendencia al sueño. Desorientado en espacio y persona.
+- Disartria moderada. Nomina, repite, comprende órdenes semicomplejas.
+- Campiemtría por confrontación normal.
+- PPCC: PICNR. Paresia mirada hacia la izquierda leve > en OI (probable VI par izquierdo). Paresia facial derecha central.
+- Motor: hemiplejia derecha.
+- Sensibilidad tacto-algésica normal.
+- No dismetrías en prueba dedo-nariz ni talón-rodilla.
+- Reflejo cutáneo plantar flexor izquierdo, derecho extensor.
+
+AC: rítmica, soplo sistólico.
+AP: mvc, sin RSA.
+Abdomen: blando, depresible, no doloroso.
+MMII: no edemas, no signos de TVP. Pulsos pedios presentes y simétricos
+
+ESCALA NIH en URGENCIAS:
+1a. Nivel de conciencia:1. Respuesta a mínimos estímulos
+1b. Preguntas LOC:1. Una solo correcta
+1c. Ordenes LOC:0. Ambas son correctas
+2. Mirada conjugada:1. Paresia/limitación de la mirada
+3. Campos visuales:0. No alteración
+4. Parálisis facial:2. Paresia parcial
+5a. Brazo derecho:4. Ningún movimiento
+5b. Brazo izquierdo: 0. No claudica
+6a: Pierna derecha: 3. Sin esfuerzo gravitatorio pero con movimiento
+6b: Pierna izquierda: 0. No claudica
+7. Ataxia:0. No ataxia (o en caso de hemiplejia o afasia severa)
+8. Sensibilidad:0. Normal
+9. Lenguaje:0. Normal
+10. Disartria:1. Disartria leve-moderada
+11. Extinción:0. Sin alteración
+PUNTUACION TOTAL NIH:15
+ 
+ESCALA NIH EN SALA DE TC
+1a. Nivel de conciencia:1. Respuesta a mínimos estímulos
+1b. Preguntas LOC:1. Una solo correcta
+1c. Ordenes LOC:0. Ambas son correctas
+2. Mirada conjugada:1. Paresia/limitación de la mirada
+3. Campos visuales:0. No alteración
+4. Parálisis facial:2. Paresia parcial
+5a. Brazo derecho:0. No claudica
+5b. Brazo izquierdo: 0. No claudica
+6a: Pierna derecha: 1. Claudica pero no toca la cama
+6b: Pierna izquierda: 0. No claudica
+7. Ataxia:0. No ataxia (o en caso de hemiplejia o afasia severa)
+8. Sensibilidad:0. Normal
+9. Lenguaje:0. Normal
+10. Disartria:1. Disartria leve-moderada
+11. Extinción:0. Sin alteración
+PUNTUACION TOTAL NIH:7
+ 
+ESCALA NIH POSTERIOR (PREVIA A FIBRINOLISIS)
+1a. Nivel de conciencia:1. Respuesta a mínimos estímulos
+1b. Preguntas LOC:1. Una solo correcta
+1c. Ordenes LOC:0. Ambas son correctas
+2. Mirada conjugada:1. Paresia/limitación de la mirada
+3. Campos visuales:0. No alteración
+4. Parálisis facial:2. Paresia parcial
+5a. Brazo derecho:4. Ningún movimiento
+5b. Brazo izquierdo: 0. No claudica
+6a: Pierna derecha: 3. Sin esfuerzo gravitatorio pero con movimiento
+6b: Pierna izquierda: 0. No claudica
+7. Ataxia:0. No ataxia (o en caso de hemiplejia o afasia severa)
+8. Sensibilidad:0. Normal
+9. Lenguaje:0. Normal
+10. Disartria:1. Disartria leve-moderada
+11. Extinción:0. Sin alteración
+PUNTUACION TOTAL NIH:15
+
+ ESCALA NIH (A LAS 2H DE FIBRINOLISIS)
+1a. Nivel de conciencia:0. Alerta, responde
+1b. Preguntas LOC:0. Ambas son correctas
+1c. Ordenes LOC:0. Ambas son correctas
+2. Mirada conjugada:1. Paresia/limitación de la mirada
+3. Campos visuales:0. No alteración
+4. Parálisis facial:2. Paresia parcial
+5a. Brazo derecho:1. Claudica pero no toca la cama
+5b. Brazo izquierdo: 0. No claudica
+6a: Pierna derecha: 1. Claudica pero no toca la cama
+6b: Pierna izquierda: 0. No claudica
+7. Ataxia:0. No ataxia (o en caso de hemiplejia o afasia severa)
+8. Sensibilidad:0. Normal
+9. Lenguaje:0. Normal
+10. Disartria:1. Disartria leve-moderada
+11. Extinción:0. Sin alteración
+PUNTUACION TOTAL NIH:6
+ 
+
+
+
+
+Resultados de laboratorio
+
+- Analitica urgente: hemograma y coagulación normal. Bioquímica normal excepto hiperglucemia 439.
+
+- Analitica ingreso:
+· Hemograma: leucos 12.300 (N75.1%, L16.6%), HTO 40%, Hb 14 g/dL, plaq 221.000; VSG 13 mm
+· Coagulación: TP 89%, INR 1.08, fibrinógeno 428 mg/dL
+· BQ: Glu 196 mg/dL, HbA1c 9.1%, CRE 0.8 mg/dL, BLR T 0.8 mg/dL, GOT 14 U/L, GPT 11 U/L, PA 62 U/L, Na 142 mEq/L, K 4 mEq/L, Ca 8.6 mg/dL, COL T 256 mg/dL, LDL 182 mg/dL, HDL 46 mg/dL
+· Serología lúes: negativa
+
+- SO: pH 6.5, nitritos negativo, 5-10 leucos/campo, glucosuria > 1000, cetonas 60 mg/dL
+
+- Cetonemia capilar: 1.5; GSV urg: pH 7.39, pcO" 36 mmHg, pO2 73 mmHg, K 4 mmol/L
+ 
+
+Resultados pruebas complementarias 
+
+
+
+- ECG: ritmo sinusal. Sin alteraciones agudas de la repolarizacion
+
+- TC craneal + Angio-TC Arterias cerebrales del 15-05-2018: Hallazgos: Hipodensidad cortico-subcortical frontal izquierda en probable relación con lesión isquémica crónica. Pequeñas lesiones hipodensas en ganglios de la base bilaterales, lacunares crónicos vs espacios perivasculares dilatados. No hay signos de sangrado agudo. Sistema ventricular de tamaño normal. Cisternas de la base conservadas No se observan alteraciones en los mapas de perfusión. TSA permeables. Arterias del polígono de Willis permeables. Agenesia de A1 derecha. Conclusión: No se observa patología intracraneal aguda. 
+
+Ecocardiografía: FUNCIÓN SISTÓLICA GLOBAL NORMAL, AUMENTO LIGERO DEL ESPESOR PARIETAL DEL VI Ventrículo izquierdo de tamaño normal (DTD/DTS 58/34 mm). Función sistólica global de VI normal. FEVI 72%.Sin anormalidades de la contracción segmentaria. Función diastólica del Ventrículo Izquierdo normal. Déficit leve de la relajación del VI. Relación E/E´entre 9 y 14 con lo que las presiones de llenado se consideran como no
+cuantificables. Hipertrofia concéntrica ligera del VI. Aurícula izquierda de tamaño normal (30 ml/m2). Ventrículo derecho de tamaño normal. Tamaño normal de aurícula derecha.
+Válvula aórtica trivalva: Esclerosis aórtica sin obstrucción relevante (gradiente máximo 7 mmHg y gradiente medio 5 mmHg). No existe regurgitación de válvula aórtica. Válvula mitral:Mínima regurgitación mitral (grado 0-1 sobre 4). Válvula tricúspide:No hay evidencia de regurgitación tricúspide. No trombos intracavitarios. No se aprecia derrame pericárdico. 
+
+RM craneal (28/05/18): Se identifica área hiperintensa en FLAIR localizada en hemiprotuberancia izquierda que también asocia una leve restricción de la difusión, atribuible a lesión isquémica subaguda. Pequeña lesión cerebelosa izquierda con restricción a la difusión. Se observa en cerebelo derecho imagen milimétrica de las mismas características. Aumento del espacio subaracnoideo de forma difusa asociado a surcos y cisuras prominentes, todo ello en relación con atrofia cerebral. Área de encefalomalacia frontal izquierda probablemente secundaria a isquemia crónica. Pequeñas lesiones hiperintensas en la sustancia blanca subcortical en relación con patología crónica de pequeño vaso. No hidrocefalia. En las secuencias de angio RM no se observan amputaciones de los vasos cerebrales estudiados. Hipoplasia del segmento A1 de la ACA derecha. Conclusión: Lesión isquémica subaguda en protuberancia IZQUIERDA. Pequeña lesión isquémica aguda en cerebelo izquierdo. Lesión puntiforme cerebelosa derecha probablemente en relación con isquemia aguda, aunque por tamaño y localización es difícil de caracterizar. [1]
+
+TC CEREBRO SIN CONTRASTE control
+TC cerebro sin contraste del 16-05-2018:  Control ictus isquémico 24H previo inicio antiagregación, gracias  Hallazgos:  Hipodensidad cortico-subcortical frontal izquierda en probable relación con lesión isquémica crónica.  Pequeñas lesiones hipodensas en ganglios de la base bilaterales, lacunares crónicos vs espacios perivasculares dilatados. No se observan  otras alteraciones en la densidad del parénquima cerebral. No hay signos de sangrado agudo.  Sistema ventricular de tamaño normal. Cisternas de la base conservadas  Conclusión:   No hay signos de sangrado agudo intracraneal. 
+
+Neurosonología
+DTSA: no se observan anomalias morfológicas ni hemodinámicas significativas en ejes carotídeos. AV permeables y simétricas resistivas ambaas más la dcha 
+DTC: VTT subóptima Se observa aceleración del flujo con soplo en ACM izqda de 43 a 46 mm con Vs max de 205 cm/s, aun se mantiene la aceleración hasta 37 mm pero con velocidades más bajas. Insono ACM dcha que e snormal así como ACP dcha e izqda sin pdoer seguirlas, ACA izqda normal y no inosno ACA dcha. AV intarcraneales asimétricas con velocidad más baja y más resistiva la dcha 
+Conclusión:  Estenosis ACM izqda moderada Posible hipoplasia AV dcha 
+ 
+
+
+
+
+Evolución Hospitalaria 
+
+
+
+Varón de 76años con FRV que presenta clínica neurológica fluctuante a su llegada a Urgencias, con momentos de movilidad en extremidades derechas que posteriormente vuelven a empeorar hasta la hemiplejia. El estudio de TAC simple, angioTAC y TAC perfusión no muestran alteraciones agudas. Por ello se decide tratamiento reperfusor con alteplasa, con mejoría posterior. El paciente no presenta complicaciones durante su ingreso salvo mal control de su DM con tendencia a la hiperglucemia que precisa ajuste de la pauta de insulina y valoracion por S. Endocrinología.
+Desde el punto de vista neurológico, presenta una mejoria a lo largo del ingreso con la siguiente EF al alta: Disartria leve. Leve limitación VI PC izdo. Paresia facial central dcha. Balance Motor: 5/5 en extremidades izquierdas. MSD: Proximal 4/5. Extensión dedos 3/5. MID 4/5. No alteración de sensibilidad tacto-algésica. Marcha paretica leve, precisa apoyo para caminar.
+Tras valoración por la trabajadora social, el paciente es dado de alta a domicilio con su hija. Posteriormente será trasladado a Madrid donde deberá continuar con la REHABILITACION Y SEGUIMIENTO POR NEUROLOGÍA.
+
+
+
+
+Recomendaciones y tratamiento al alta 
+
+
+           Ácido acetilsalicílico: 100 mg, 1 comp, Oral, Co.
+           amlodipino: 5 mg, 1 comp, Oral, Ce.
+           atorvastatina: 80 mg, 4 comp, Oral, Ce.
+           Insulina aspártica: 5 UI, 0,05 ml, SC, A20'-De, A demanda: Según BMTEST.
+           Insulina aspártica: 1-5 Und, SC, A20'-DeCoCe, A demanda: Según BMTEST.
+           Insulina aspártica: 8 UI, 0,08 ml, SC, A20'-Co.
+           Insulina aspártica: 9 UI, 0,09 ml, SC, A20'-Ce.
+           insulina glargina: 20 UI, 0,2 ml, SC, 23h.
+           Omeprazol: 20 mg, 1 cap, Oral, A20'-De.
+           valsartán: 80 mg, 1 comp, Oral, De.
+
+Se aconseja control estricto de factores de riesgo vascular por médico de atención primaria. 
+Se recomienda dieta POBRE EN SAL rica en fruta, verdura, pescado azul, condimentada con aceite de oliva. Se desaconseja la ingesta de grasas animales y azúcares refinados. 
+Se recomienda el abandono del hábito tabáquico, NO PERMANECER EN AMBIENTES CARGADOS DE HUMO DE TABACO Y EL ABANDONO DE LA ingesta EXCESIVA DE ALCOHOL de alcohol.
+Se recomienda realizar ejercicio moderado que tolere.

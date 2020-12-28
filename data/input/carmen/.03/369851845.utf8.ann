@@ -1,0 +1,64 @@
+T1	_SUG_Lateralizacion 242 243	I
+T2	Fecha_de_ingreso 304 314	03/05/2017
+#2	AnnotatorNotes T2	2017-05-03
+T3	FECHA 372 382	04/05/2017
+#3	AnnotatorNotes T3	2017-05-04
+T4	Fecha_de_alta 420 429	11/5/2017
+#4	AnnotatorNotes T4	2017-05-11
+T5	FECHA 755 759	2014
+#5	AnnotatorNotes T5	2014-UNDEF-month-UNDEF-day
+T6	FECHA 857 868	agosto/2014
+#6	AnnotatorNotes T6	2014-08-UNDEF-day
+T7	FECHA 1022 1030	oct/2014
+#7	AnnotatorNotes T7	2014-10-UNDEF-day
+T8	Hora_inicio_sintomas 1383 1388	15:30
+#8	AnnotatorNotes T8	15:30
+T9	_SUG_Lateralizacion 1479 1488	izquierda
+T10	_SUG_Lateralizacion 1647 1656	izquierda
+T11	_SUG_Lateralizacion 1686 1695	izquierda
+T12	_SUG_Ataque_isquemico_transitorio 1761 1766	ICTUS
+T13	HORA 1773 1775	17
+#13	AnnotatorNotes T13	17:00
+T14	_SUG_TAC_craneal 1833 1835	TC
+T15	NIHSS_previa 1981 1988	NIHSS 3
+T16	TAC_craneal 2477 2480	TAC
+T17	_SUG_Arteria_afectada 2876 2885	carotídea
+T18	_SUG_Lateralizacion 2887 2894	DERECHO
+T19	_SUG_Lateralizacion 3260 3269	IZQUIERDO
+T20	_SUG_Localizacion 4292 4302	Ventrículo
+T21	_SUG_Lateralizacion 4303 4312	izquierdo
+T22	_SUG_Lateralizacion 4470 4479	izquierda
+T23	_SUG_Localizacion 4711 4721	Ventrículo
+T24	_SUG_Lateralizacion 4722 4729	derecho
+T25	_SUG_Lateralizacion 5810 5819	izquierdo
+T26	_SUG_Arteria_afectada 5998 6001	ACM
+T27	_SUG_Arteria_afectada 6003 6006	ACA
+T28	_SUG_Lateralizacion 6034 6043	izquierdo
+T29	_SUG_Lateralizacion 6167 6176	izquierdo
+T31	_SUG_Lateralizacion 6383 6392	izquierda
+T32	_SUG_Lateralizacion 6424 6433	izquierda
+T33	NIHSS_alta 6717 6724	NIHSS 0
+T34	mRankin_alta 6725 6730	mRS 0
+T35	_SUG_TAC_craneal 6828 6831	TAC
+T36	Arteria_afectada 6953 6956	ACM
+T37	Lateralizacion 6957 6958	D
+T38	Tratamiento_antiagregante_alta 6987 6992	Adiro
+T40	FECHA 7223 7233	11/05/2017
+#40	AnnotatorNotes T40	2017-05-11
+T41	HORA 7234 7239	16:49
+#41	AnnotatorNotes T41	16:49
+T42	SECCION_ANTECEDENTES_PERSONALES 432 453	ANTECEDENTS PERSONALS
+T43	SECCION_TRATAMIENTO_HABITUAL 1258 1277	Medicación habitual
+T44	SECCION_PROCESO_ACTUAL 1327 1342	MALALTIA ACTUAL
+T45	SECCION_EXPLORACION_FISICA 2154 2172	EXPLORACIÓN FÍSICA
+T46	SECCION_EXPLORACIONES_COMPLEMENTARIAS 2446 2475	EXPLORACIONES COMPLEMENTÀRIAS
+T47	SECCION_EVOLUCION 6322 6330	EVOLUCIÓ
+T48	SECCION_DIAGNOSTICOS 6868 6881	JUDICI CLÍNIC
+T49	SECCION_TRATAMIENTO_AL_ALTA 6974 6984	TRACTAMENT
+T30	Ictus_isquemico 6892 6905	AVC isquemico
+#1	AnnotatorNotes T33	NIHSS=0
+#9	AnnotatorNotes T34	0
+T51	Etiologia 6920 6938	origen desconocido
+T52	Trombolisis_intravenosa 6459 6471	fibrinolisis
+#10	AnnotatorNotes T15	NIHSS=3
+T50	Localizacion 6960 6964	PACI

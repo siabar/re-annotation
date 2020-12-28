@@ -1,0 +1,154 @@
+Fecha de Alta 
+09-01-2018 
+
+Diagnosticos 
+ECVA Isquémica: infarto cerebral en territorio de ACP izquierda de probable etiología cardioembólica 
+Fibrilación auricular.
+
+Procedimientos 
+
+Ingreso en UCI
+IOT
+Monitorización en la Unidad de Ictus
+
+Motivo de ingreso
+
+Código Ictus Externo procedente de HM Orfila
+
+Alergias
+No hay alergias activas.
+
+Antecedentes Médicos 
+
+No hábitos tóxicos
+IABVD, mRs 0
+HTA difícil control con 4 fármacos. No DM ni DSL.
+Hematuria secundaria a litiasis renal y vesical, diagnóstico por citoscopia 2006
+HBP en seguimiento por Urología
+Cirugía transuretral de vejiga día 28/12/2017 por litiasis vesical intradiverticular.
+
+Tratamiento domiciliario 
+
+
+
+Según RELE:
+ALOPURINOL 100MG COMP 100.0MG CE OR
+ATENOLOL 100MG COMP 100.0MG DE OR
+BARNIDIPINO 20MG CAPS RETARD 20.0MG CO OR
+CAPTOPRIL 25MG COMP 25.0MG CE OR
+CAPTOPRIL 50MG COMP 50.0MG A-DE OR
+FUROSEMIDA 40MG COMP 40.0MG A-DE OR
+SILODOSINA 8MG CAPS 8.0MG C/24 H OR
+
+
+
+
+Anamnesis
+
+
+
+Varón 76 años ingresado en H. M.Orfila por intervención el día 28/12: resección de pólipo vesical y litotricia. Postoperatorio inmediato sin incidencias. En la tarde del día 29/12/2017 presenta cifras tensionales elevadas, por lo que se adminitra medicación antiHTA. Posteriormente alrededor de las 20.00 horas presenta de forma brusca cuadro malestar general, junto con mareo, náuseas y vómitos. Se objetiva en ECG ACXFA con RV 120-140 lpm, con descenso de ST en cara lateral (según consta en informe de traslado). Se inició tratamiento con clopidogrel 75, AAS 300; bemiparina 2500 y amiodarona300mg. Se solicita valoración por UCI, que ante el deterioro del nivel de conciencia lo intuban y lo ingresan en la unidad de cuidados intensivos. Se realiza TC craneal simple, donde se aprecia lesión frontoinsular derecha y área de encefalomalacia occipital derecha. Tras este resultado se comenta el caso con NRL HSE quien se acepta traslado como código ictus.
+A su llegada al hospital se desestima tratamiento de reperfusión agudo mediante fibrinolisis por intervención el día ayer,  y se desestima trombectomía mecánica por posible oclusión distal de ACP izquierda, tiempo de evolución y lesión establecida
+Se comenta el paciente con UCI, donde ingresa para control evolutivo
+
+CRONOPATOLOGÍA
+Inicio síntomas: 20.00h
+Activación Código: 23.35 h
+LLegada a HUSE: 2.55 h
+TC craneal 3.15 h
+
+El día 1 es extubado y ante la buena evolución se traslada a planta 
+ 
+
+
+
+
+Exploración
+
+
+
+La exploración neurológica a su llegada a HSE no valorable, ya que llega con IOT. 
+La exploración a su llegada a la planta desde la UCI:
+NRL:
+Buen nivel de conciencia. Lenguaje y habla normales. Mirada centrada y conjugada. MOEs normales. HH derecha por confrontación. No ceguera a cuenta de dedos. No asimetrías faciales, resto de PPCC normales. No claudica en Barré ni Mingazzini. Balance motor 5/5 global y simétrico. Sensibilidad normal. No dismetrías IN. No exploro marcha ni estática.
+ESCALA NIH:
+1a. Nivel de conciencia:0. Alerta, responde
+1b. Preguntas LOC:0. Ambas son correctas
+1c. Ordenes LOC:0. Ambas son correctasAnalítica (8-1-18):
+- Hemograma: 1320 monocitos, resto normal
+- Coagulación: INR 1,21
+- Bioquímica sanguínea: ácido úrico 8,5, protéinas torales 61,8, cloro 100, colesterol HDL 30, resto normal. Urea y creatinina normales [3]
+2. Mirada conjugada:0. Normal
+3. Campos visuales:2. Hemianopsia completa
+4. Parálisis facial:0. Normal
+5a. Brazo derecho:0. No claudica
+5b. Brazo izquierdo: 0. No claudica
+6a: Pierna derecha: 0. No claudica
+6b: Pierna izquierda: 0. No claudica
+7. Ataxia:0. No ataxia (o en caso de hemiplejia o afasia severa)
+8. Sensibilidad:0. Normal
+9. Lenguaje:0. Normal
+10. Disartria:0. Normal
+11. Extinción:0. Sin alteración
+PUNTUACION TOTAL NIH:2
+General
+AC: tonos cardíacos arrítmicos, apagados, no ausculto soplos.
+AR: mvc en tcp.
+A. cervical: no soplos carotídeos audibles.
+ 
+
+
+
+
+Resultados de laboratorio
+
+- Hemograma: 1320 monocitos, resto normal
+- Coagulación: INR 1,21
+- Bioquímica sanguínea: ácido úrico 8,5, protéinas torales 61,8, cloro 100, colesterol HDL 30, resto normal. Urea y creatinina normales
+
+Resultados pruebas complementarias 
+
+
+
+- TC cerebral:  Area de encefalomalacia frontal derecho, centro semioval izquierdo y occipital derecho. Lesiones hipodensas en sustancia blanca periventricular y profunda en relación con patología isquémica crónica por microangiopatía. Pérdida de diferenciación cortico-subcortical a nivel occipital izquierdo. No hay sangrado intracraneal. Sistema ventricular de tamaño y morfología normal Estructuras de la línea media centradas. Cisternas de la base bien definidas. La arteria cerebral posterior izquierda únicamente se observa hasta el segmento P2 sin identificar realce en los segmentos distales. Ateromatosis calcificada en ambas bifurcaciones carotideas. Hipoplasia vertebral izquierda. Conclusión: Lesión isquémica aguda occipital izquierda. Estenosis / oclusión de la ACP izquierda (P2).
+
+- TAC craneal control: Área hipodensa con borrosidad de surcos a nivel occipital izquierdo y cerebeloso ipsilateral en relación con lesión isquémica subaguda. Ejerce efecto masa con colapso parcial del asta occipital del ventrículo lateral izquierdo. Área de encefalomalacia frontoinsular y occipital derechas. Lesiones hipodensas en sustancia blanca periventricular y de centros semiovales sugestivas de patología isquémica crónica por microangiopatía. Sin evidencia de sangrado intracraneal. Estructuras de la línea media centradas. Cisternas de la base conservadas. Conclusión: Lesión isquémica subaguda occipital izquierda y cerebelosa ipsilateral.
+
+- TAC craneal control: Se compara con las imágenes del TC previo de día 02/01/2018 Hallazgos: Área hipodensa, con borramiento de surcos a nivel occipital izquierdo y cerebeloso ipsilateral en relación con lesión isquémica subaguda en evolución, que ejerce efecto masa, con colapso parcial, del asta occipital del ventrículo lateral izquierdo, sin cambios significativos. Área de encefalomalacia frontoinsular y occipital derechas. Lesiones hipodensas en sustancia blanca periventricular y de centros semiovales sugestivas de patología isquémica crónica por microangiopatía. No se observan signos de sangrado agudo intracraneal. Estructuras de la línea media centradas. Cisternas de la base conservadas. Conclusión: Lesión isquémica occipital y cerebelosa izquierda subaguda, sin cambios significativos y sin signos de sangrado agudo.
+
+- TC cerebro sin contraste del 08-01-2018: Área hipodensa, con borramiento de surcos a nivel occipital izquierdo y cerebeloso ipsilateral en relación con lesión isquémica subaguda, que ejerce menos efecto masa que en el estudio previo, con colapso parcial del asta occipital del ventrículo lateral izquierdo, sin cambios significativos. Áreas de encefalomalacia frontoinsular y occipital derechas y en centro semioval izquierdo. Lesiones hipodensas en sustancia blanca periventricular y de centros semiovales sugestivas de patología isquémica crónica por microangiopatía. No se observan signos de sangrado agudo intracraneal. Estructuras de la línea media centradas. Cisternas de la base conservadas. Conclusión: Lesión isquémica occipital y cerebelosa izquierda subaguda. No se observan signos de sangrado agudo intracraneal.
+
+- Neurosonología: DTSA: Engrosamiento intimal importante en CC, se observan muchas placas en ambos ejes fundaemntalmente en ambos bulbos e inico de CIs, placas muy irregulares y heterogéneas calcificadas algunas de ellas creando sombra acústica, no condicionan alteraciones hemodinámicas significativas AV asimétricas, la izqda muestra una curva más resistiva DTC VTT dcha ausente, a traves de la izqda insono ACMD y ACM I, ACAD y ACAI y ACPD, no se insona la ACP izqda AV intracraneales levemente asimétricas, de menor flujo al izada AB normal Conclusión: Ateromatosis carotídea moderada.Posible hipoplasia AV izqda. Posible oclusión ACP izda 
+
+- Ecocardiograma: FUNCIÓN SISTÓLICA GLOBAL NORMAL Aurícula izquierda ligeramente dilatada (36 ml/m2). Ventrículo izquierdo de tamaño normal (VTD/VTS 55/25 ml/m2). Función sistólica global de VI normal (EF 56%). No se aprecian alteraciones de la contracción
+segmentaria, imagen subóptima para valoración. Función diastólica no valorable por trastorno del ritmo. Presiones de llenado del VI no elevadas (E/e' 7.3). No existe hipertrofia del VI (SIV/PP 9/9 mm). Tamaño normal de aurícula derecha. Ventrículo derecho de tamaño y función normal. No IT que permita estimar presiones pulmonares. No se aprecia derrame pericárdico. No aparentes trombos intracavitarios. Válvula aórtica aparentemente trivalva, con apertura adecuada. No se observa estenosis aórtica (gradiente máximo 8 mmHg y gradiente medio 4 mmHg). No existe regurgitación de válvula aórtica. Válvula mitral:No se aprecia regurgitación mitral. Válvula tricúspide: No hay evidencia de regurgitación tricúspide. VCI mal visualizada. Arco aórtico normal. Raíz aórtica normal. 
+ 
+
+
+
+
+Evolución Hospitalaria 
+
+
+
+La evolución ha sido favorable durante el ingreso, neurologicamente ha habido una mejoría progresiva
+La sonda vesical se retiró pero ante una RAO tuvo que reintroducirse de nuevo, tras la colocación hematuria que ha ido desapareciendo 
+Ayer presentó una deposición diarreica por lo que se solicitaron coprocultivos
+A pesar de clínica con NIHSS baja, dada la extensión del área infartada y por el riesgo de sangrado, se decidió  diferir el reinicio de la anticoagulación como mínimo 6 días tras el inicio de la clínica, según la evolución clínico-radiológica. La última TC cerebral realizada ayer dia 8 no muestra signos de transformación hemorrágica. Se ha consultado a Urología por el antecedente quirúrgico y la hematuria de los últimos días, en su opinión no hay contraindicación para iniciar la anticoagulación, indican tratamiento con tamsulosina y dentro de 4 días intentar retirar la sonda vesical  Por todo ello iniciamos hoy apixaban 5 mg cada 12 horas Dada la buena evolución, conjuntamente con la familia decidimos traslado a su hospital de referencia. Hablo con la Dra Llorens de NRL quien acepta el traslado por lo que contacto con el 061 para organizarlo.
+En la exploración de hoy:  Consciente, buen nivel de conciencia, desorientado en espacio y parcialmente en tiempo, habla normal, se emociona constantemente, nominación, repetición y comprensión de órdenes adecuada.  Pares craneales: normales  Campimetría por confrontación: hemianopsia homónima derecha Leve déficit motor en MSD (4/5), resto normal No déficit sensitivo Auscultación cardiaca: arrítmica sin  soplos Auscultación pulmonar normal
+
+
+
+
+Recomendaciones y tratamiento al alta 
+
+amlodipino: 10 mg, 1 comp, Oral, Co.
+apixaban: 5 mg, 1 comp, Oral, C/12h (8:00h y 20:00h).
+ascorbato de potasio: 25 mEq, 1 comp, Oral, DeCoCe.
+atorvastatina: 20 mg, 1 comp, Oral, Ce.
+Enalapril: 10 mg, 2 comp, Oral, DeCe.
+lorazepam: 1 mg, 1 comp, Oral, 23h, A demanda: Si insomnio.
+metoprolol: 100 mg, 1 comp, Oral, DeCe.
+Omeprazol: 20 mg, 1 cap, Oral, A20'-De.
+tamsulosina: 0,4 mg, 1 cap, Oral, Ce.
+Dieta turmix astringente

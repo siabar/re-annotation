@@ -1,0 +1,56 @@
+T0	_SUG_Lateralizacion 1 2	I
+T1	_SUG_Lateralizacion 13 14	E
+T2	_SUG_Lateralizacion 15 16	D
+T3	FECHA 100 110	28/03/2017
+#3	AnnotatorNotes T3	2017-03-28
+T4	FECHA 124 134	03/04/2017
+#4	AnnotatorNotes T4	2017-04-03
+T5	_SUG_Ictus_isquemico 293 298	ictus
+T6	_SUG_Arteria_afectada 299 302	ACM
+T7	_SUG_Lateralizacion 303 310	derecha
+T8	SECCION_ANTECEDENTES 312 324	Antecedentes
+T9	FECHA 539 543	2005
+#9	AnnotatorNotes T9	2005-UNDEF-month-UNDEF-day
+T10	FECHA 1077 1089	octubre/2010
+#10	AnnotatorNotes T10	2010-10-UNDEF-day
+T11	SECCION_ANTECEDENTES_QUIRURGICOS 1133 1135	IQ
+T12	SECCION_TRATAMIENTO_HABITUAL 1182 1194	Tto habitual
+T13	_SUG_Tratamiento_anticoagulante 1243 1250	sintrom
+T14	SECCION_SITUACION_FUNCIONAL 1288 1302	Situacion bsal
+T15	SECCION_PROCESO_ACTUAL 1416 1433	Enfermedad Actual
+T16	HORA 1479 1484	15.10
+#16	AnnotatorNotes T16	15:10
+T17	FECHA 1490 1495	21/03
+#17	AnnotatorNotes T17	2010-03-21
+T18	_SUG_TAC_craneal 2091 2101	TC craneal
+T19	_SUG_Trombolisis_intraarterial 2324 2337	trombolisis y
+T20	_SUG_Trombolisis_intravenosa 2324 2335	trombolisis
+T21	_SUG_Trombectomia_mecanica 2360 2372	trombectomia
+T22	_SUG_TAC_craneal 2754 2756	TC
+T23	HORA 2959 2963	1.32
+#23	AnnotatorNotes T23	01:32
+T24	_SUG_Trombolisis_intraarterial 2977 2991	trombolisis ev
+T25	_SUG_Trombolisis_intravenosa 2977 2988	trombolisis
+T26	_SUG_Trombectomia_mecanica 3007 3019	trombectomia
+T27	FECHA 3480 3485	22/03
+#27	AnnotatorNotes T27	2010-03-22
+T28	SECCION_EXPLORACIONES_COMPLEMENTARIAS 3853 3882	Exploraciones Complementarias
+T29	FECHA 3899 3904	21/03
+#29	AnnotatorNotes T29	2010-03-21
+T30	SECCION_EXPLORACIONES_COMPLEMENTARIAS_EN_URGENCIAS 3907 3925	Analític urgencias
+T31	SECCION_EXPLORACIONES_COMPLEMENTARIAS_EN_PLANTA_DE_NEUROLOGIA 4986 5006	Analítica de ingreso
+T32	FECHA 6552 6557	31/03
+#32	AnnotatorNotes T32	2010-03-31
+T33	SECCION_EVOLUCION 6983 6992	Evolución
+T34	_SUG_Lateralizacion 7433 7438	dieta
+T35	_SUG_NIHSS 7483 7488	NIH 3
+T36	_SUG_mRankin 7490 7498	Rankin 4
+T37	SECCION_DIAGNOSTICOS 7606 7618	Diagnósticos
+T38	_SUG_Ictus_isquemico 7619 7636	Infarto isquémico
+T39	_SUG_Arteria_afectada 7651 7654	ACM
+T40	_SUG_Lateralizacion 7655 7662	derecha
+T41	_SUG_Etiologia 7676 7690	cardioembólica
+T42	_SUG_Trombolisis_intravenosa 7718 7730	Fibrinolisis
+T43	_SUG_Trombolisis_intravenosa 7731 7735	rtPA
+T44	_SUG_Lateralizacion 7756 7757	E
+T45	SECCION_TRATAMIENTO_AL_ALTA 7777 7788	Tratamiento

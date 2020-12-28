@@ -1,0 +1,202 @@
+_LOCATION_ Tel. _CONTACT_
+e-mail: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 38 Anys
+NIF/DNI: _ID__NAME_, _NAME_, 
+_NAME_,_NAME_
+Informe d'alta d'hospitalització
+CP	_LOCATION_
+ABS	_SS_
+Servei	NEUROLOGIA
+Data d'alta  14.03.2017	17:07:28
+_LOCATION_
+_CONTACT_; _CONTACT_; _CONTACT_
+DOMICIL/RES.SOC 02.03.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Ictus isquèmic d'ACM esquerra.
+
+ANTECEDENTS
+Mujer de 38 años sin alergias medicamentosas conocidas. Fumadora sin otros hábitos tóxicos. Autónoma para las ABVD, limitación funcional por obesidad Rankin 2
+
+ANTECEDENTES PATOLÓGICOS:
+- Púrpura trombocitopénica trombótica diagnosticada en 2006 en seguimiento por Hematología de nuestro centro. Último brote (4º) en mayo de 2016 tratado con corticoterapia y plasmaféresis. Ha realizado tratamiento con Dacortin en pauta descendente suspendido en diciembre de 2016 ante buena evolución clínica. Última visita en Junio del 2016 pendiente de estudio de ADAMS 13. Pendiente de visita el 18/05/2017.
+-	Obesidad mórbida.
+-	Infección respiratoria de vías altas en Febrero del  2017 tratada con broncodilatador y mucolítico.
+-	Historia de parestesias en extremidad superior izquierda en seguimiento por neurocirugía. Se ha realizado RM abierta de columna cervical que objetiva C4-C5 protrusión discal global sin afectación del canal vertebral ni de agujeron intervertebrales.  En C5-C6 protrusión global sin afectación del canal vertebral, se asocian osteofitos marginales que condicional ocupación de ambos agujeros radiculares. EMG realizado en Abril del 2016 muestra una radiculopatía motora C7-C8 izquierda de características crónicas sin signos de lesión axonal motora aguda o subaguda. La pérdida global de axones motores es pequeña.
+
+
+MEDICACIÓ HABITUAL
+No toma. (Atrovent durante los últimos días por infección respiratoria).
+
+PROCÉS ACTUAL
+El 02/03/17 se acuesta hacia la 1:30 asintomática y a las 2:30 el marido la encuentra con dificultad respiratoria y dificultad para la emisión del lenguaje. Avisan al SEM que no activa código ictus y llega a nuestro centro a las 05:14. El equipo de guardia de Medicina Interna avisa Neurología a las 5:30.
+
+EXPLORACIÓ FÍSICA
+
+FC	95 bpm
+Tªaxi 36.9 ºC
+FR	rpm Tªrec  ºC
+TA s	109 mmHg SAT O2 94 %
+TA d   55 mmHg Pes Kg
+
+En Urgencias :
+Consciente, no emite lenguaje, comprende órdenes, hemianopsia homónima derecha por reflejo de amenaza, mirada centrada sin oftalmoparésias, paresia facial central derecha, no déficit motor ni sensitivo valorables. Reflejo cutáneo-plantar flexor bilateral.
+
+NIHSS: (0.2.0) .0.2 / 1 (0.0) (0.0) / 0.0.2.2.0 = 9
+
+Informe d'alta d'hospitalització
+
+Taquipneica, sibilantes dispersos en ambos campos pulmonares. No crepitantes ni roncus. Tonos cardíacos rítmicos.
+
+Exploración después del TC:
+Consciente, afasia motora, hemianopsia homónima derecha, paresia facial central derecha, hemiparesia grave derecha.
+
+NIHSS:  (0.2.1) .1.2 / 1 (3.0) (3.0) / 0.1.2.2.0 = 18
+
+En la Unidad de Ictus:
+Consciente, orientación no valorable. Obedece órdenes simples y alguna compleja pero no emite ningún sonido. Hemianopsia homónima por reflejo de amenaza y leve preferencia oculocefálica hacia la izquierda que cruza línea media. Paresia facial central derecha. Hemiparesia leve y probable hemihipoestèsiadretes.
+
+NIHSS = 0.2.0.1.2 / 2 (2.0) (1.0) /0.1.2.2.0 = 15
+
+Sibilantes difusos en ambos campos pulmonares. Tonos cardíacos rítmicos. Abdomen muy globuloso no doloroso a la palpación. Pulsos periféricos presentes y simétricos, leve empaste y aumento de temperatura en extremidad inferior izquierda.
+
+Planta de Neurología 14/03/2017:
+Paciente alerta, se comunica a través de lenguaje escrito, orientada en tres ejes, se objetiva apraxia oromandibular / anartria, obedece ordenes simples y complejas, no alteraciones campimétricas exploradas por confrontación, Paresia facial central derecha leve. No paresia de extremidades. No alteración de la sensibilidad. RCP: extensor derecho.
+
+NIHSS: (0-0-0)0-0//1-(0-0)-(0-0)//0-0- 0-2-0 = 3
+
+Exploración Sistémica:
+AC: Ruidos cardíacos regulares, no se objetivan soplos roces ni extratonos
+AP: MV presente no se evidnecian ruídos sonbreañadidos, abdomen: Blando depreseible, no doloroso a la palpación
+Abdomen. Blando depreseible, no doloroso a la palpación
+Extremidades : edema de ambas extremidades inferiores leve que deja fóvea
+A nivel de pliegues cutáneos se objetiva rash con signos de rascado en el contexto de intértrigo candiadiásico.
+
+EXPLORACIÓ COMPLEMENTÀRIA
+Analítiques de Urgencias 01/03/2017 :
+Urgent: Hemograma: leucos 12.100 (N 74%, L 15%, M 7%); Hb 11.8, Htc 40%, plaquetas 267.000. Coagulació: TP 82%, fibrinogeno 540mg/dl, TTPA 24s. Bioquímica: glucosa 117mg/dl, urea 23, creatinina 0.68, Na 135, K 4.6 PCR 38.
+
+Analítica de Ingrés 02/03/2017: Hemograma: leucos 9900/mcL (N 87%), Hb 10,8 g/dL, Ht 36,2%, plaquetes 224000/mcL, VSG 16 mm. Coagulació: TP 77%, fibrinogen 510 mg/dL, TTPA 28,3 s, D-dímer 1064 ng/mL. GAB: pH 7,32, pCO2 56,4 mmHg, pO2 63,5 mmHg, HCO3 28,2 mmol/L, SatO2 88,6%. HbA1c 6,7%, proteïna 60,2 g/L,
+albúmina 30,2 g/L, urea 16 mg/dL, FG >90 mL/min, Cr 0,87 mg/dL, urato 6,7 mg/dL, Ca 7,8 mg/dL, Mg 2,09 mg/dL,
+
+Informe d'alta d'hospitalització
+
+Na 140,9 mmol/L, K 5,65 mmol/L, Brb 0,94 mg/dL, FA 80 U/L, ALT 18 U/L, GGT 38 U/L, LDH 300 U/L, CK 88 U/L,
+PCR 23,3 mg/L, Osm 287 mOsm/Kg.
+
+Lipíds: triglicèrids 77 mg/dL, colesterol 87 mg/dL, HDL 16,9 mg/dL, LDL 55 mg/dL. Proteïnograma normal , Hormones: TSH 0,445 mcUI/mL.
+Marcadors tumorals: CEA, Ca-15-3, Ca-19-9, HCG, SCC, HE4 negatius, beta-2-microglobulina negativo, CA-125 58.9 (	hasta 35)
+
+Autoimmunitat: ANA y Factor reumatoide, Anti-cardiolipina IgM/IgG Negativos, Anti-beta2glicoproteína: negativos,	Complemento C3-C4 normales
+
+Homocisteína: 5.51 (normal)
+
+Anticoagulante lúpico: negativo . Factor VIII : 197.8% ( hasta 150)
+Trombofilias: Antitrombina III: 79% ( normal), Proteína C disminuido ( se deberá repetir en tres meses) GAB seriades:
+02/02 6:30 (basal): pH 7,33, pCO2 55,9 mmHg, pO2 81,5 mmHg, HCO3 28,4 mmol/L, SatO2 95,4%.
+02/02 11:30 (UN 3 L/min): pH 7,27, pCO2 64,1 mmHg, pO2 82,4 mmHg, HCO3 28,3 mmol/L, SatO2 94,4%.
+02/02 16:00 (VMK 0,24 4 L/min): pH 7,33, pCO2 64 mmHg, pO2 de 58 mmHg, SatO2 88%
+03/03 8:00 (VMNI I/E 12/6 4 L/min): pH 7,31, pCO2 66 mmHg, pO2 71 mmHg, HCO3 28.6mmol/L, EB 6.9 mmol/L, Sat O2 92%
+03/03 13:30 (VMNI I/E 14/8 5 L/min): pH 7,33, pCO2 53,6 mmHg, pO2 62,9 mmHg, HCO3 27,4 mmol/L, SatO2
+89,9%.
+
+ECG: ritmo sinusal con algunas extrasístoles, taquicardia a 100 x '.
+
+Radiografía portátil de tórax: mala calidad de la imagen. No se observan condensaciones ni pinzamiento de senos costofrénicos.
+
+TC cranial urgent amb angioTC: esborrament de la insula i pèrdua de la diferenciació substància gris-blanca temporal esquerra, signes TC inicials d'infart isquèmic agut de territori de l'ACM esquerra (ASPECTS 8). Dusbtosa imatge densa prevertebral, a valorar amb nova exploració TC de coll. Artèries caròtides primitives retrofaríngies i artèries caròtides internes tortuoses en el seu trajecte cervical. Oclusió de l'ACM esquerra en la unió M1-M2, amb bona colateralitat. Persistència de circulació fetal amb hipoplàsia de segment P1 d'ACP dreta.
+
+
+RM CEREBRAL 10/03/2017: Lesión isquémica aspecto subagudo tardío con afectación predominantemente cortical a nivel frontal inferior e insular izquierda. También se aprecia algún pequeño foco a nivel parietal izquierdo. No muestra edema vasogénico, efecto de masa ni signos de sufusión hemorrágica. No se aprecian otras lesiones isquémicas recientes. Que lesiones isquémicas crónicas a nivel previa postcentral derecho y mínimas cerebelosas. No se aprecian hemorragias relevantes. Parénquima cerebral que no muestra otras alteracionesrelevantes de la señal. Sistema ventricular de tamaño y morfología normales. Cisternas de la base patentes y libres. No se aprecian efectos de masa, ni alteraciones morfológicas relevantes. Vasos intracraneales que muestran vacío de
+
+Informe d'alta d'hospitalització
+
+señal en T2, sugiriendo permeabilidad. La angio-RM intracraneal (mediante secuencia de  flujo) no  muestra oclusiones, estenosis ni otras alteraciones morfológicas relevantes. Conclusión: Lesiones isquémicas en territorio superficial de ACM izquierda.
+
+Ecocardiograma 06/03/2017: Ventrículo izquierdo ligeramente dilatado, no hipertrófico, con función sistólica global aceptable. Aurícula izquierda ligeramente dilatada. Sin alteraciones valvulares significativas. Ventrículo derecho ligeramente dilatado, con función sistólica aceptable. Sin derrame pericárdico
+
+Eco-doppler EEII 06/03/2017: En los territorios explorados no se observan imágenes hiperecogénicas sugerentes de TVP
+
+Polisomnografía 12/03/2017: compatible con SAHS de grado severo con hipoventilación tributaria de tratamiento con CPAPn. Se inicia tto con CPAPN para ver adaptación
+
+
+EVOLUCIÓ CLÍNICA
+Mujer de 38 años, Rankin 2, fumadora,  obesidad mórbida y antecedente de purpura trombótica trombocitopénica que ingresa por ictus isquémico de ACM izquierda.
+
+A su llegada en Urgencias taquipneica con sibilantes y con clínica hemisférica izquierda parcial (NIHSS 9). La analítica urgente muestra leve leucocitosis, acidosis respiratoria con hipercapnia e hipoxemia. Se realiza TC craneal que muestra signos incipientes de isquemia (ASPECTS 8) y angio-TC que muestra oclusión cerebral media izquierda segmento M1 distal-M2. Posteriormente presenta empeoramiento clínico a expensas de déficit motor TACI izquierdo (NIHSS 18). Se desestima tratamiento fibrinolítico por tiempo de evolución y se decide realizar trombectomia mecánica primaria, siendo la groin puncture a las 7:50. Se objetiva oclusión de M2; después de 3 pases de dispositivo CATCH se consigue repermeabilización con flujo TICI 2b. En la exploración inmediatamente posterior se observa resolución completa de hemiparesia izquierda, persistiendo clínica cortical (NIHSS 10).
+
+Durante las primeras horas en la Unidad de Ictus presenta leve empeoramiento motor (NIHSS 12) y respiratorio con acidosis respiratoria hipercápnica en las gasometrías seriadas, la radiografía de tórax no muestra hallazgos significativos.  Se realiza TC de control 24 h que objetiva mayor hipoatenuación en región posterior de la corteza insular izquierda, con aparicióde pequeño foco hiperdens en esta localización que podría corresponder a pequeño foco de transformación hemorrágica.
+
+Dentro del estudio etiológico se cursa analítica de ingreso con perfil glucémico alterado, perfil lipídico correcto y marcadores tumorales negativos; el estudio de autoinmunidad y trombofilias negativo. Se solicita ecocardiograma transtorácico que objetiva  leve dilatación auricula y ventrículo izquierdas, monitorización cardiaca .durante las primeras 24 horas en Unidad de Ictus no se evidneican arritmias embolígenas. El estudio de shunt
+derecha-izquierda es negativo y el ecodoppler de extremidades inferiores no se observan imágenes hiperecogénicas sugerentes de TVP. Se realiza RM cerebral con angio-RM que Lesión isquémica aspecto subagudo tardío con afectación predominantemente cortical a nivel frontal inferior y insular izquierda. También se aprecia algún pequeño foco a nivel parietal izquierdo y lesiones isquémicas crónicas a nivel previa postcentral derecho y mínimas cerebelosas. Se realiza polisomnografía que concluye un SAHS grave e inicia tratamiento con CPAP. En cuanto a la PTT paciente en analíticas seriadas presenta plaquetas dentro de valores de la normalidad ( pendiente de visita 18/05/2017)
+
+Informe d'alta d'hospitalització
+
+
+Como complicaciones durante el ingreso :
+
+
+-	Empeoramiento respiratorio: Es valorada por Neumología que inicia tratamiento broncodilatador intensivo y antibiótico con escasa mejoría por lo que se inicia ventilación mecánica no invasiva pero dado que paciente persiste con acidosis respiratoria e hipercapnia se solicita valoración por terapia intensiva quienes trasladan a paciente a la UCI donde se optimiza tratamiento broncodilatador. A pesar de presentar cultivos negativos se ha realizado tratamiento con levofloxacino durante 5 días. Se mantuvo con VMNI hasta el 05/03/2017 con buena evolución y saturaciones correctas con cánulas nasales por lo que se decide ingreso en Planta de Neurología.
+
+
+-	Infección Urinaria se incia tratamiento con amoxiclavulánico pendiente de urocultivo
+
+-	Rash cutáneo en pliegues en el contexto de intértrigo candidiásico en tratamien to médico
+
+
+Durante el ingreso en planta de neurología paciente presenta evolución favorable, deambula por la planta y tolera adecuadamente la nutrición enteral normal, desde el punto de vista neurológico presenta anartria y facial derecho puntuando NIHSS de 3 sin otras focalidades. Dada la estabilidad clínica se decide alta a domicilio pendiente de completar estudio analítico con trombofilias y autoinmunidad y ETE de control dentro de tres meses .
+
+Al alta:
+NIHSS: 3 ( Anartria y facial derecho)
+Rankin : 3 ( obesidad previa y anartria actual) Barthel: 85
+
+
+DIAGNÒSTICS
+436/5 Ictus de territorio de ACM izquierda de etiología y mecanismo indeterminado pendiente de estudio
+-	Trombectomíamecánica
+-	Obesidad mórbida
+-	SAHS grave en tratamiento con CPAP
+-Intértrigo candidiásico
+-	PTT en remisión
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+-	Dieta cardiosaludable baja en grasas y sal
+-	Omperazol 20 mg c/ 24 horas
+-	Adiro 300 mgc/ 24 horas vía oral
+-	Budesonida 0.5 mg /ml 2 neb c/ 12 horas
+-	Bromuro de ipratropio 500 mcg / 2 ml c/ 8 horas
+-Salbutamol 2.5 mg inhalado c/ 8 horas
+-Augmentine 500 mg c/ 8 horas vía oral
+-Continuar aplicando Daktarin polvo cada 12 horas, previo aseo de la zona por unos 7-10 días
+
+Informe d'alta d'hospitalització
+
+
+
+CONTROL
+-	Visita por hematología (Dr. _NAME_ el 18/05/2017)
+-	Visita con Dra. _NAME_ ( se le avisará la cita por la carta)
+-	Visita con Rehabilitación para realizar logopedia ambulatoria se le avisará por carta
+-	Pendiente de realizar:
+-	Ecocardiograma transesofágico pendiente de realizar
+-	Analítica con autoinmunidad y trombofiias en tres meses
+-	Solicitar visita con neumología en _SS_
+- Pendiente de urocultivo ( médico de cabecera)
+
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+14.03.2017
+Pàgina 1 de 6

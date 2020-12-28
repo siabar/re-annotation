@@ -1,0 +1,98 @@
+I.CLINIC DE NEUROCIÈNCIES NEUROLOGIA
+_NAME_	NHC: _ID_
+
+
+Sexo/Sexe: Fem.	Fecha nac./Data naix.: _DATE_	Edad/Edat: 83 años Dirección/Adreça: _LOCATION_	CP: _LOCATION_
+Municip. (Prov.): _LOCATION_  ABS:_SS_		Tel.:_CONTACT_ As.: _NAME_	CIP: _ID_	NASS: _ID_
+Nº epis.: _ID_	Tipo/Tipus: HOSPIT.	Ingres.: 06.01.2017 Serv: NEUROLOGIA	UO Enf.: G064 SALA G DE NEUROLOGIA	Hora: 16:36:06
+
+
+
+
+
+Tipo ingreso/Tipus ingrés: Urgent	Motivo/Motiu alta: Defunc.
+Diag.:
+ICTUS ISQUEMICO ACMI () ACxFA ()
+Proc.:
+TC CRANEAL ()
+
+
+
+
+INFORME EXITUS
+
+Motivo de consulta / Motiu de consulta
+Debilidad de extremidades derechas y mutismo.
+
+Antecedentes e historia previa / Antecedents i història prèvia
+** ANTECEDENTES PERSONALES:
+Mujer de 83 años, dependiente para ABVD (necesita ayuda para vestirse, ducharse y necesita supervisión continuada), camina con baston o andador. mRS4.
+
+** ANTECEDENTES PATOLÓGICOS
+1.	FIBRILACIÓN AURICULAR en tratamiento con sintrom
+2.	ENFERMEDAD DE ALZHEIMER de 8 años de evolución en tratamiento con memantina. GDS 6.
+
+** MEDICACIÓN HABITUAL (Enero/2017)
+-	Sintrom
+-	Memantina
+-	Galantamina
+-	Acido alendronico
+-	Digoxina 0.125/24h
+-	Omeprazol
+
+Proceso actual / Procés actual
+Estando en su domicilio la paciente ha presentado de forma brusca a las 14:30h mutismo y debilidad de extremidades derechas por lo que la cuidadora ha avisado al SEM.
+
+Exploración física / Exploració física
+06/01/2017-17:00:00: Frecuencia respiratoria (rpm) 21, Glicemia capilar (mg/dl) 154, PAS (mm Hg) 151, PAD (mm Hg) 74, Pulsioximetría (%) 97, Tª axilar (ºC) 35.
+Ojos abiertos de forma espontanea. Mutista, no comprende ordenes. Mirada desviada a la izquierda. Reflejo
+
+
+
+
+de amenaza derecho abolido. Paresia facio (mod) braquio 0/5 crural 0/5 derecha. Hipoestesia derecha. Dismetrias no valorables. (NIHSS 24)
+AR: MVC, sin roncus ni sibilancias AC: Arritmica, soplo en foco aórtico.
+
+Laboratorio / Laboratori
+*	ANALÍTICA SANGUÍNEA (06/01/17): función renal, ionograma y hemograma  sin alteraciones. Plaquetas
+87.000. INR 2,57. Se adjunta.
+
+Radiología / Radiologia
+*	TC CRANEAL (06/01/17): No se observan signos de sangrado agudo intracraneal. Se observa una pérdida de la diferenciación cortico- subcortical a nivel insular y temporo-medial izquierdo, así como un borramiento del núcleo lenticular izquierdo y una dudosa hiperdensidad de la ACMI, sugestivo todo ello de infarto isquémico agudo en el territorio de la ACMI. ASPECTS 6-7. Estructuras de la línea media centradas. Cisternas basales permeables. Sistema ventricular de tamaño y posición dentro de la normalidad. Disminución global del volumen cerebral y cerebeloso en relación con cambios involutivos secundarios a la edad de la paciente, que condicionan una leve dilatación del sistema ventricular supratentorial. Hipodensidad de la sustancia blanca periventricular y en ambos centros semiovales en probable relación con microangiopatía crónica. No se observan otras alteraciones significativas en la densidad del parénquima cerebral ni cerebeloso.
+
+* TC CRANEAL (07/01/17): Extensa hipodensidad de gran parte del hemisferio cerebral izquierdo en relación a infarto establecido en territorio de la ACMI con voluminoso hematoma heterogéneo localizado en los ganglios de la base con niveles en su interior y contaminación ventricular de predominio en astas occipitales. Ejerce efecto masa desviando la línea media hacia la derecha de 18 mm, colapso subtotal del VLI con dilatación contralateral y herniación uncal. Cisternas de la base con colapso parcial. Lóbulo occipital y temporal izquierdos parcialmente respetados
+
+Evolución / Evolució
+1.	ICTUS EN TERRITORIO DE ARTERIA CEREBRAL MEDIA IZQUIERDA
+2.	TRANSFORMACIÓN HEMORRÁGICA DEL ICTUS
+3.	FIBRILACIÓN AURICULAR.
+La paciente es valorada en triage a 45 min de evolución clínica encontrándose hemodinámicamente estable y presentando síndrome hemisférico izquierdo completo (NIHSS 24). Analítica con INR 2.5 sin otras alteraciones. TC craneal inicial no muestra signos de sangrados. Se observan signos incipientes isquémicos en territorio de ACMI (ínsula y núcleo lenticular izquierdo). Dadas comorbilidades basales y tratamiento anticoagulante se desestiman de reperfusión.
+Se trata de un ictus agudo en territorio de arteria cerebral media izquierda de probable causa cardioembólica. Se inicia tratamiento anticoagulante con heparina sodica ev. Ingresa en Unidad de ictus para monitorización y control evolutivo. A la hora de ingreso la paciente presenta disminución del nivel de consciencia con tetraplejia, se realiza TC craneal urgente que muestra extenso infarto en todo el hemisferio izquierdo con transformación hemorrágica parenquimatosa del infarto.
+Se informa a la familia de la gravedad del cuadro y del pronóstico a corto plazo, decidiendose, de forma conjunta, iniciar tratamiento sintomático y de confort. La paciente presenta mala evolución clínica siendo exitus vitae el 9.01.2017 a las 12 am. Se informa a la familia que está presente.
+
+Plan terapéutico / Pla terapèutic
+.
+
+Otras recomendaciones / Altres recomanacions
+.
+
+
+
+
+
+Firma/Signatura1: _NAME_ Categoría: Especialista
+Nº matrícula HCP: _ID_ Fecha/Data: 09.01.2017
+Hora: 12:13:10
+
+Docum.: _ID_
+Hist. Clínica: _ID_
+El _SS_ ha incorporado sus datos al Fichero de Pacientes, para tratarlos con fines sanitarios.
+Puede ejercer sus derechos de acceso, rectificación, cancelación y oposición, así como obtener mas información en la Unidad de Atención al Cliente.
+Vers. 00
+Pag. 2 de
+3
+Episod.: _ID_
+_SS_ ha incorporat les seves dades al Fitxer de Pacients, per a tractar-los amb finalitats sanitàries. Pot exercir els seus drets d'accés, rectificació, cancel·lació i oposició, i obtenir més informació a la Unitat d'Atenció al Client.
+_SS_
+_LOCATION_) _LOCATION_) Tel. _CONTACT_ Fax _CONTACT_
+_CONTACT_/

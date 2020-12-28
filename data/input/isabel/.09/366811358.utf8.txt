@@ -1,0 +1,176 @@
+_LOCATION_) Telèfon _SS_  972 _CONTACT_
+Telèfon IDI (Ressonància i TAC) _CONTACT_
+Telèfon ICO _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 86 Anys
+NIF/DNI: _ID__NAME_; _NAME_
+Informe d'alta d'hospitalització
+CP	_LOCATION_
+ABS	_SS_
+Servei	NEUROLOGIA
+Data d'alta  03.05.2017	13:15:57
+_LOCATION_
+_CONTACT_
+AGUTS 20.04.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Meningoencefalitis nosocomial
+
+ANTECEDENTS
+Antecedents personals:
+Dona de 86 anys independent per a les ABVD, viu sola a domicili. Al·lèrgia Penicil·lina i ciprofloxacino (mareig al prendre'l)
+No hàbits tòxics
+
+Antecedents patològics:
+-	HTA de més de 10 anys d'evolució en tractament farmacològic amb Enalapril/Hidroclorotiazida  20/12,5mg amb bons controls tensionals ambulatoris.
+-	Sindrome de Sjogren de llarga evolució, sense tractament ni seguiment específic.
+-	Dispepsia en tractament amb IBP
+-	Artrosis generalitzada.
+-	Dacriocisitis crònica
+-	Nòdul tiroideo benigne diagnosticat 2008.
+
+Antecedents quirúrgics:
+Colecistecomia i carcinoma basocel·lular extripat agost 2015
+
+MEDICACIÓ HABITUAL
+AAS 100mg/dia, enalapril/Hidroclorotiazida 20/12,5mg/dia, omeprazol 20mg/dia, paracetamol 1g/8h si precisa, lorazepam 1mg/dia si precia.
+
+PROCÉS ACTUAL
+Pacient pateix fractura subcapital femur dret intervinguda quirúrgicament el 9/04/2017 al _SS_, es realitza osteosíntesis. El dia 19/04/2017 requereix reintervenció per objectivar en Rx de control desmontatge de la pròtesis, recol·locant de nou pròtesis sense complicacions. Incia a les 12:00h el dia posterior a la intervenció, estant previament assimptomàtica, desorientació i alteració del llenguatge. El servei de medicina interna del _SS_ al objectivar afàsia contacta amb _SS_ servei de neurologia a les 14:30h per activar codi ictus i es realitza trasllat.
+Inici dels símptomes o última vegada vist sense símptomes el dia 20/04/2017 a les12:00:00 (_LOCATION_)
+
+EXPLORACIÓ FÍSICA
+
+Exploració física arribada UCIES:
+NRL: Pacient conscient, mutisme, unicament respon al dolor amb soroll gutural. No compren ordres. Campimpetria normal per amenaça. Moviments oculars aparentment normals. No alteracions parells cranials  valorable. No aparent alteració sensitiva, mobilitza espontàniament els quatre extremitats amb dificultat mobilització EID (intervinguda dia previa fractura femur).
+
+Informe d'alta d'hospitalització
+
+
+
+
+NIHSS: 02200/00000/00300: 7
+
+Reexploració a les 17:00hores: Pacient repetitiva, sembla que vol entendre alguna cosa, dirigeixa la mirada al so, respon al seu nom, comprensió incorrecta, resta igual. NIHSS 6
+
+EXPLORACIÓ COMPLEMENTÀRIA
+ECG urgències: FA amb RVM conservada.
+
+RESUM D'ANALÍTIQUES:
+Analítica sanguinea (20/04)
+-	Hb 12.8 g/dL; Htc 39 %; Plaquetes 274 K/mcL; Leucòcits * 11.76 K/mcL (Neutròfils * 90.3 %; Limfòcits * 3.3 %).
+-	Coagulació: INR * 1.33, resta normal.
+-	Glucosa 109 mg/dL; Urea 23 mg/dL; Creatinina 0.68 mg/dL; Urat 3.4 mg/dL; Proteïna 7.1 g/dL; Albúmina * 2.9 g/dL; Colesterol * 100 mg/dL (HDL * 37 mg/dL; Colesterol LDL (calcul) 50 mg/dL) Triglicèrid 65 mg/dL; Brb T 1.17 mg/dL; GOT * 60 U/L; GPT * 43 U/L; GGT * 336 U/L; FA * 197 U/L; LDH 167 U/L; CK * 283 U/L; Amilasa * 25 U/L;
+Calci (II) 10 mg/dL; <NO sodi * 130 mEqu/L; potasi * 3.3 mEqu/L. Troponina T hs * 26.6 ng/L
+
+Analítica sanguinea (23/04)
+-	Hemograma sense canvis. Lleu anemitzacció amb Htc 33%.
+-	Bioquímica: GOT 14 U/L;   GPT 16 U/L; GGT * 170 U/L; FA * 129 U/L; Ió sodi * 135 mEqu/L; Ió potasi 3.5 mEqu/L; Lactat en sang (PD) 14 mg/dL. PCR * 9.66 mg/dL; Procalcitonina (quantitativa) * 1.02 ng/mL
+
+Analítica sanguinea (25/04):
+-	Hemograma sense canvis
+-	Urea 38 mg/dL, Creat 0.63 mg/dL, GPT 15 U/L, GGT * 145 U/L, FA * 117 U/L, sodi * 133 mEqu/L, potasi 3.5 mEqu/L, FG 81.5 mL/min.
+
+Hemocultius (20/04):  negatius.
+Urocultiu negatiu.
+
+
+PROVES D'IMATGE:
+TC crani perfusió i angioTC (20/04): Marcada hipodensitat de la substància blanca periventricular, dels centres semiovals, de les corones radiates i de les càpsules externes en relació a desmielinització per hipoperfusió crònica (leucoaraiosis). Resta deparènquima cerebral, cerebel·lós i del tronc de l'encèfal sense alteracions densitomètriques significatives. Augment de dimensions dels ventricles proporcional a la profunditat dels solcs corticals en relació a atròfia cortico-subcortical difusa.
+En l'estudi de perfusió no s'aprecia cap alteració dels valors de MTT ni de CBV que corresponguin a àrea de penombra o d'isquèmia.
+A l'estudi Angio-TC, s'aprecia una correcta permeabilitat dels vasos intracranials que conformen el polígon de Willis i sistema vertebrobasil·lar, sense identificar estenosis ni dilatacions aneurismàtiques.
+
+RM cerebral 26/04: Estudi RM cranial que mostra ocupació de solcs corticals i banyes occipitals dels VL per material purulent. Troballes probablement atribuïbles a signes de meningitis/ventriculitis. A correlacionar clínicament i amb la PL. Signes de vasculopatia crònica de petit vas (Fazekas 3).
+
+Ecocardio 27/04/2017: Ventricle esquerre no dilatat ni hipertròfic amb funció contràctil global  i segmentària
+
+Informe d'alta d'hospitalització
+
+
+
+
+normals. Lleugera insuficiencia mitral i aòrtica. Arrel aòrtica i aorta ascedent de dimensions normals. Aurícula esquerra normal. Cavitats dretes normals. No embassament pericàrdic. No imatges suggestives d'endocarditis bacteriana
+
+ESTUDI NEUROSONOLÒGIC:
+Doppler TSA: normal, no signes de ateromatosi, i fluxes a nivell de ACPs i territori posterior normals.
+
+ESTUDI NEUROFISIOLÒGIC:
+EEG  (24/04):  Lleus signes  d#afecció neuronal a  regions  frontals  inferiors  i  temporals mitges de  l#hemisferi esquerre. No es registren actualment paroxismes suggestius de comicialitat.
+
+EVOLUCIÓ CLÍNICA
+A l'arribada a urgències la pacient es troba amb una afàsia global, sense altra focalitat.  Es detecta una fibril·lació auricular. Es realitza estudi amb TC multimodal que no troba alteracions agudes, oclusions intraarterials ni alteracions de la perfussió. Per l'antecedent de intervenció quirúrgica recent no es realitza tractament fibrinolític. Posteriorment al TC presenta milloria de l'afàsia, fins a trobar-se asimptomàtica a les 24h.
+L'endemà es sol·licita EEG que mostra afectació neuronal de l'hemisferi esquerra.
+La pacient inicia febrícula vespertina sense focus. Es realitzen Hemocultius i uroculitu que son negatius. Es valorada per M Interna i es decideix mantenir Gentamicina per l'antecedent de E coli a urinari.
+
+Durant l'ingrés s'inicia anticoagulació amb heparina de baix pes mol·lecular sense complicacions posteriors.
+
+Davant persistencia febre s'inicia tractament amb Meropenem ev 1g cada 8 hores (inici dia 26/04). Es sol·licita RM que mostra ocupació de solcs corticals i banyes occipitals dels ventricles laterals per material purulent. Davant sospita meningitis amb ventriculitis nosocomial, es realitza una punció lumbar i posteriorment s'afegeix Vancomicina ev (27/04/2017).
+El LCR és normal. Cultiu del LCR pendent a l'alta.
+
+Sol·licitem nous hemocultius que són negatius i ecografia de maluc per descartar infecció protèsica. Avui dia 03/05 es realitza una ecografia de maluc que mostra una col·lecció que podria ser compatible amb un hematoma, pendent de revaloració per Traumatologiaper decidir si caldria fer punció de la col·lecció.
+Es sol·licita trasllat a _SS_ per continuar tractament mèdic i rehabilitació. El dia 03/05 accepten trasllat a _SS_ per continuar tractament i estudi.
+
+"IC MIR (_NAME_/_NAME_)
+Encara amb febrícula intermitent (pics de 37.9º timpànica). Es manté asimptomàtica, sense dolor de maluc i tolerant inici de deambulació. Clínica neurològica estable , sense altres molèsties.
+Exploració física
+TA 147/69, FC : 73x', Tº : 37.9º (timpànica), Sat 96%.
+Estat general conservat. NH i NC. Conscient i orientada en les 3 esferes. ACV amb tons arrítmics no bufs ni frecs. No IJ. EEII sense edemes i amb bona perfussió distal. Bon aspecte de ferida IQ maluc dret, sense signes de supuracio. No dolor a la mobilització passiva ni augment de la temperatura local.  AR : mvc amb crepis secs a les bases. ABDOMEN tou i depressible, no dolor a la palpació. Peristaltisme present sense signes de peritonisme.
+
+Informe d'alta d'hospitalització
+
+
+
+
+-	Eco pròtesi maluc : S'observa una col·lecció subcutània adjacent a la part més superior de la cicatriu, d'aproximadament 3.5 cm, i ecogenicitat molt heterogènia, el que suggereix que es tracti d'hematoma, tot i que no podem descartar completament col·lecció. A valorar clínica i evolutivament. No s'observen altres alteracions en profunditat per ecografia.
+
+Impressió :
+-	Ventriculitis d'origen nosocomial :
+*	Ha rebul cobertura amb Gentamicina + Clindamicina (del dia 20.04.2017 fins al dia 25.04.2017) que portava pautada al moment de la derivació al nostre centre (fins que es va confirmar que era dosi profilàctica post- IQ).
+*	El dia 25.04.2017 consten HC positius per KPN i s'inicia Meropenem ev empíricament.
+*	Parlem amb Microbiologia dels resultats dels Hemocultius i ens confirmen que TOTS són negatius (KPN és error informàtic).
+*	El dia 26.04.2017 es completa estudi de NRL amb RNM cerebral que mostra signes de ventriculitis. Revisant TAC crani d'ingrés sembla que ja mostrava lleu ocupació en un dels ventricles. Amb les troballes radiològiques es realitza PL que és negativa i PCR també negatives.
+* En tt amb Meropenem (inici 25.04.2017) + Vancomicina (27.04.2017)
+Com a possible focus que justificarien les troballes actuals podrien ser en el moment de la PL per anestèsia intraraquídia (realitzada a la IQ osteosíntesi el dia 9.04.2017 a _LOCATION_) o una possible infecció aguda de la pròtesi de cadera (IQ el dia 19.04.2017) amb una Eco de maluc que observa petita col.lecció suggestiva d'hematoma vs abscès.
+
+PLA/
+-	Mantenir el tt empíric amb Vancomicina i Meropenem + analítica de control demà amb reactants de fase aguda.
+-	Pendent de valorar les troballes amb Traumatologiaper si cal fer punció de la col.lecció.
+-De moment control evolutiu , sembla poc probable una mala evolució de la ventriculitis, doncs no hi ha empitjorament clínic ni tampoc analític fins al moment."
+
+El dia del trasllat presenta FA ràpida a 150bpm amb mareig, però amb estabilitat hemodinàmica pel que s'administra 0.5mg de digoxina. Es comenta amb Cardiologia i recomanen administrar 5mg de bisoprolol si persisteix FA ràpida.
+
+Recomanem mantenir antibiòtic fins a completar 14 dies i ajustar tractament segons cultiu del LCR.
+
+En l'exploració física al alta es troba neurològicament asimptomàtica, persistint febre vespertina de 37.5º. Recomanem comentar amb Traumatologiade _SS_ per decidir si cal fer punció de col·lecció.
+
+DIAGNÒSTICS
+324.0 Meningitis amb ventriculitis nosocomial. Gèrmen no filiat.
+
+PROCEDIMENTS
+RM cerebral, punció lumbar, TC cranial, hemocultius, urocultius.
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+S'adjunta tractament.
+
+Informe d'alta d'hospitalització
+
+
+
+CONTROL
+Control a consultes externes de Neurologia en 2-3 mesos a _SS_.
+
+DESTINACIÓ A L'ALTA:	HOSP. AGUTS/PSQ
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+03.05.2017
+Pàgina 1 de 5

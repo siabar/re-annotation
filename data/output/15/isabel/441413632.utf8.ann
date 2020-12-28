@@ -1,0 +1,54 @@
+T1	SECCION_TIPO_DE_INGRESO 422 447	Tipo ingreso/Tipus ingrés
+T2	SECCION_MOTIVO_DEL_ALTA 456 473	Motivo/Motiu alta
+T3	SECCION_DIAGNOSTICOS 489 494	Diag.
+T4	SECCION_PROCEDIMIENTOS 578 583	Proc.
+T5	SECCION_MOTIVO_DE_INGRESO 633 671	Motivo de consulta / Motiu de consulta
+T6	SECCION_ANTECEDENTES 751 813	Antecedentes e historia previa / Antecedents i història prèvia
+T7	SECCION_ANTECEDENTES_PATOLOGICOS 953 977	ANTECEDENTES PATOLÓGICOS
+T8	SECCION_TRATAMIENTO_HABITUAL 1895 1914	MEDICACIÓN HABITUAL
+T9	SECCION_PROCESO_ACTUAL 2121 2151	Proceso actual / Procés actual
+T10	SECCION_EXPLORACION_FISICA 2332 2370	Exploración física / Exploració física
+T11	TAC_craneal 3180 3190	TC CRANEAL
+T12	_SUG_TAC_craneal 3203 3213	TC CRANEAL
+T13	_SUG_TAC_craneal 3423 3425	TC
+T14	_SUG_TAC_craneal 4323 4333	TC CRANEAL
+T15	_SUG_Trombectomia_mecanica 4334 4360	POST-TROMBECTOMÍA MECÁNICA
+T16	SECCION_EXPLORACIONES_COMPLEMENTARIAS 4598 4658	Exploraciones complementarias / Exploracions complementàries
+T17	SECCION_ANTECEDENTES_QUIRURGICOS 4735 4761	Intervenciones quirúrgicas
+T18	_SUG_Trombectomia_mecanica 4794 4815	TROMBECTOMIA MECÁNICA
+T19	_SUG_Trombectomia_mecanica 5123 5135	trombectomía
+T20	_SUG_Trombectomia_mecanica 5580 5601	Trombectomía mecánica
+T21	_SUG_Trombectomia_mecanica 5647 5659	trombectomía
+T22	SECCION_EVOLUCION 5786 5806	Evolución / Evolució
+T23	_SUG_Trombolisis_intravenosa 5897 5919	TRATAMIENTO CON rTPA y
+T24	Trombolisis_intravenosa 5897 5917	TRATAMIENTO CON rTPA
+T25	Trombectomia_mecanica 5920 5941	TROMBECTOMÍA MECÁNICA
+T26	Fecha_trombolisis_rtPA 5943 5948	29/10
+#26	AnnotatorNotes T26	2017-10-29
+T27	Fecha_inicio_trombectomia 5943 5948	29/10
+#27	AnnotatorNotes T27	2017-10-29
+T28	Fecha_primera_serie_trombectomia 5943 5948	29/10
+#28	AnnotatorNotes T28	2017-10-29
+T29	Fecha_recanalizacion 5943 5948	29/10
+#29	AnnotatorNotes T29	2017-10-29
+T30	Fecha_fin_trombectomia 5943 5948	29/10
+#30	AnnotatorNotes T30	2017-10-29
+T31	Trombectomia_mecanica 6036 6057	TROMBECTOMÍA MECÁNICA
+T32	Fecha_inicio_trombectomia 6059 6064	03/11
+#32	AnnotatorNotes T32	2017-11-03
+T33	Fecha_primera_serie_trombectomia 6059 6064	03/11
+#33	AnnotatorNotes T33	2017-11-03
+T34	Fecha_recanalizacion 6059 6064	03/11
+#34	AnnotatorNotes T34	2017-11-03
+T35	Fecha_fin_trombectomia 6059 6064	03/11
+#35	AnnotatorNotes T35	2017-11-03
+T36	_SUG_TAC_craneal 6365 6367	TC
+T37	_SUG_Trombolisis_intravenosa 6746 6782	tratamiento fibrinolítico con rtPA y
+T38	_SUG_Trombectomia_mecanica 6809 6864	tratamiento endovascular mediante trombectomia mecánica
+T39	_SUG_TAC_craneal 7021 7023	TC
+T40	_SUG_TAC_craneal 7455 7457	TC
+T41	_SUG_Trombectomia_mecanica 7657 7678	trombectomia mecánica
+T42	_SUG_TAC_craneal 7818 7820	TC
+T43	SECCION_EXPLORACION_FISICA_AL_ALTA 8622 8629	Al alta
+T44	SECCION_TRATAMIENTO_AL_ALTA 9006 9039	Plan terapéutico / Pla terapèutic
+T45	SECCION_RECOMENDACIONES 9482 9503	Otras recomendaciones

@@ -1,0 +1,98 @@
+_LOCATION_
+_LOCATION_) Anul·lació/Reprogramació visites:_CONTACT_
+Telèfon Centraleta: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 88 Anys
+NIF/DNI: _ID__NAME_; _NAME_
+Informe d'epicrisi
+CP	_LOCATION_
+ABS	_SS_
+Servei	NEUROLOGIA
+Data d'alta  10.12.2017	00:50:00
+_LOCATION_
+_CONTACT_; _CONTACT_
+DOMICIL/RES.SOC 07.12.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+
+
+ANTECEDENTS
+No alergias medicamentosas conocidas
+
+Antecedenes personales:
+-	HTA. No DLP, No DM
+-	IRC
+-	Fibrilación auricular
+-	Osteoporosis sin fractura vertebral
+
+MEDICACIÓ HABITUAL
+Hidrosauretil  50mg  0.5x24h,  Ideos  1250mg/400U  1x12h,  Lisinopril  20mg  1x24h,  Loracepam  1mg  1x24h, Omeprazol 20mg 1x24h, Xumadol 1g 1x8h SP, Bisoprolol 2.5 1x24h, Cosopt 20mg + 5mg 1x12h
+
+
+
+EXPLORACIÓ COMPLEMENTÀRIA
+Analítica:
+EAB(v): pH: 7.34, PaO2 34mmHg, PaCO2 50mmHg, HCO3 27mmol/L, E. bases 0.5mmol/L, SaO2 61% Bioquímica pendiente: Glucosa mmol/L, Creatinina umol/L, Urea mmol/L, Na+ mmol/L, K+ mmol/L
+Hemograma: Hb 125g/L, Ht 37%, VCM 83fL, Plaquetas 221x10E9/L, Leucocitos 10.9x10E9/L (N: 85.3%, L: 9.4%) Coagulación: normal
+- TC craneal: hematoma lobar frontal izquierdo abierto a ventriculo lateral ipsilateral.
+
+
+
+EVOLUCIÓ CLÍNICA
+Mujer de 87 años. AP: no AMC. No hábitos tóxicos. HTA en tratamiento. No DLP ni DM. Fibrilación auricular no anticoagulada, en tratamiento frenador. No neumopatías conocidas. Déficits mnésicos no estudiados (alteración memoria reciente, remota conservada), Hipoacusia bilateral, portadora de protesis auditivas. IQx: apendicectomía, protesis rodilla derecha. Basal: vive con 2 hijos, deambulación con bastón tras IQx rodilla, independiente para las ABVD, algunos fallos memoria. mRankin 2.
+Hoy 7/12 a las 05.30h es vista asintomática. A las 11h es encontrado en la cama por familiar con disminución nivel de consciencia. Se avisa al SEM a las 11.10h, a su valoración TA 145/73 mmHg, DTX 176, SatO2 98%, FC 70 lpm. RACE 9 (disminución nivel consciencia, paresia BC derecha, afasia). Se avisa al NRL guardia a las 11.49h.
+Durante traslado realiza vómito bilioso.
+A su llegada al _SS_ a las 12.05h, TA 124/95 mmHg, DTX 148, Coagulchek 0.9. NRL: estuporosa (2), no responde órdenes (2), mutista (3), campimetra por confrontación sin clara HH, DOC izq (2), simetría facial conservada, paresia BC derecha B 1/5 y C 1/5 (4+4), sensibilidad no valorable (1), RCP extensor derecho, flexor izquierdo.
+NIHSS 18. TC craneal 12.30h.
+
+Informe d'epicrisi
+
+
+
+
+EECC/
+-	TC craneal: hematoma lobar frontal izquierdo abierto a ventriculo lateral ipsilateral.
+-	Analítica: leucocitosis 10.9 x10E9/L neutrofilica, coagulación y plaquetas normales. Pendiente bioquímica.
+-	Rx torax: pendiente
+-	ECG (SEM) ritmo sinusal con extrasistoles ventriculares aisladas.
+Durante realización TC la paciente realiza nuevo vómito bilioso por lo que se admisnitra antiemético.
+OD: Hematoma lobar frontal izquierdo en paciente con deterioro cognitivo no estudiado (leve). Se comenta con NCR quien desestima intervención quirúrgica en este momento.
+Se comenta con familiares la situación de gravedad. Se inicia tratamiento antibiotico por posible broncoaspiración Por la tarde la paciente presenta empeoramiento neurológico con empeoramiento nivel de consciencia, más estuporosa y empeoramiento del patrón respiratorio cheyne stokes, por lo que se repite TC craneal en el que se objetiva leve aumento del hematoma y del edema perilesional asociado a incremento de la desviación línea media.
+Se inicia manitol.
+A la valoración de la Rx de torax impresiona de patrón de ICC por lo que se suspende labetalol y se pauta urapidilo.
+Al día siguiente por la noche presenta disminución de nivel de conciencia estando estuporosa, no responde a órdenes. NRL presenta abolición de oculocefálicos, corneal D muy débil, izquierdo ausente. Pupilas midriáticas arreactivas. No respuesta al dolor. Se encuentra tranquila, con 26 rpm. No tiraje ni distres respiratorio.  Ha realizado desaturación que ha requerido Monagan (actualmente con VMK 50% 92%), hipotensión 50/30 mmHg. De acuerdo con la familia se deciden priorizar las medidas de confort. La paciente fallece el día 10 de diciembre a las 00:45
+
+
+ORIENTACIÓ DIAGNÒSTICA
+Hemorragia intraparenquimatosa. Estupor
+Broncoaspiración Insuficiencia respiratoria Coma
+Exitus
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+27.12.2017
+Pàgina 1 de 2

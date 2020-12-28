@@ -1,0 +1,98 @@
+T0	_SUG_Lateralizacion 0 1	I
+T1	FECHA 316 326	01.10.2017
+#1	AnnotatorNotes T1	2017-10-01
+T2	_SUG_Lateralizacion 379 380	E
+T3	HORA 387 392	05:37
+#3	AnnotatorNotes T3	05:37
+T4	SECCION_TIPO_DE_INGRESO 424 449	Tipo ingreso/Tipus ingrés
+T5	SECCION_DIAGNOSTICOS 490 494	Diag
+T6	_SUG_Lateralizacion 516 525	izquierdo
+T7	SECCION_PROCEDIMIENTOS 529 533	Proc
+T8	SECCION_MOTIVO_DE_INGRESO 584 622	Motivo de consulta / Motiu de consulta
+T9	_SUG_Lateralizacion 672 682	izquierdas
+T10	SECCION_ANTECEDENTES 685 747	Antecedentes e historia previa / Antecedents i història prèvia
+T11	FECHA 821 825	1975
+#11	AnnotatorNotes T11	1975-UNDEF-month-UNDEF-day
+T12	_SUG_mRankin 924 930	mRS: 3
+T13	SECCION_ANTECEDENTES_PATOLOGICOS 935 959	ANTECEDENTES PATOLÓGICOS
+T14	_SUG_Etiologia 964 976	HIPERTENSIÓN
+T15	SECCION_ANTECEDENTES_QUIRURGICOS 1265 1291	INTERVENCIONES QUIRÚRGICAS
+T16	SECCION_TRATAMIENTO_HABITUAL 1373 1390	MEDICACIÓN ACTUAL
+T17	FECHA 1392 1401	1/10/2017
+#17	AnnotatorNotes T17	2017-10-01
+T18	_SUG_Tratamiento_antiagregante 1404 1409	Adiro
+T19	SECCION_PROCESO_ACTUAL 1634 1664	Proceso actual / Procés actual
+T20	FECHA 1716 1728	1 de octubre
+#20	AnnotatorNotes T20	2017-10-01
+T21	_SUG_Lateralizacion 1774 1784	izquierdas
+T22	HORA 1832 1850	las 12 de la noche
+#22	AnnotatorNotes T22	00:00
+T23	SECCION_PROCESO_ACTUAL 6180 6186	Episod
+T24	_SUG_Lateralizacion 6318 6323	drets
+T25	SECCION_EXPLORACION_FISICA 1853 1891	Exploración física / Exploració física
+T26	FECHA 1892 1902	01/10/2017
+#26	AnnotatorNotes T26	2017-10-01
+T27	HORA 1903 1908	06:00
+#27	AnnotatorNotes T27	06:00
+T28	FECHA 2003 2013	01/10/2017
+#28	AnnotatorNotes T28	2017-10-01
+T29	HORA 2014 2019	07:30
+#29	AnnotatorNotes T29	07:30
+T30	FECHA 2056 2066	01/10/2017
+#30	AnnotatorNotes T30	2017-10-01
+T31	HORA 2067 2072	12:00
+#31	AnnotatorNotes T31	12:00
+T32	_SUG_Lateralizacion 2291 2301	izquierdas
+T33	_SUG_Lateralizacion 2371 2380	izquierdo
+T34	_SUG_NIHSS 2391 2402	NIHSS de 11
+T35	SECCION_EXPLORACIONES_COMPLEMENTARIAS_EN_URGENCIAS 2432 2464	ANALÍTICA SANGUÍNEA DE URGENCIAS
+T36	SECCION_EXPLORACIONES_COMPLEMENTARIAS_EN_PLANTA_DE_NEUROLOGIA 2569 2592	ANALÍTICA EN NEUROLOGÍA
+T37	_SUG_TAC_craneal 2797 2807	TC CRANEAL
+T38	_SUG_Lateralizacion 2847 2854	derecha
+T39	_SUG_TAC_craneal 2911 2913	TC
+T40	_SUG_Lateralizacion 3040 3041	E
+T41	_SUG_Lateralizacion 3108 3116	derechos
+T42	_SUG_TAC_craneal 3120 3122	TC
+T43	_SUG_Arteria_afectada 3150 3152	M4
+T44	_SUG_Arteria_afectada 3159 3162	ACM
+T45	_SUG_Lateralizacion 3163 3170	derecha
+T46	_SUG_Etiologia 3214 3226	Ateromatosis
+T47	_SUG_Lateralizacion 3277 3278	I
+T48	_SUG_Arteria_afectada 3313 3330	Arteria vertebral
+T49	_SUG_Lateralizacion 3331 3340	izquierda
+T50	_SUG_Lateralizacion 3396 3405	bilateral
+T51	SECCION_EXPLORACIONES_COMPLEMENTARIAS 3486 3546	Exploraciones complementarias / Exploracions complementàries
+T52	SECCION_EVOLUCION 3569 3589	Evolución / Evolució
+T53	_SUG_Lateralizacion 3612 3621	IZQUIERDO
+T54	_SUG_Ictus_isquemico 3623 3628	ICTUS
+T55	_SUG_Lateralizacion 3638 3645	DERECHO
+T56	_SUG_Lateralizacion 3787 3796	izquierdo
+T57	_SUG_NIHSS 3801 3812	NIHSS de 11
+T58	_SUG_TAC_craneal 3954 3956	TC
+T59	_SUG_Lateralizacion 4028 4035	derecha
+T60	_SUG_Etiologia 4178 4190	ateromatosis
+T61	_SUG_Lateralizacion 4265 4274	izquierdo
+T62	_SUG_Ictus_isquemico 4290 4305	ictus isquémico
+T63	_SUG_Etiologia 4306 4313	lacunar
+T64	_SUG_Localizacion 4306 4313	lacunar
+T65	_SUG_Trombolisis_intravenosa 4492 4517	tratamiento fibrinolítico
+T66	_SUG_Tratamiento_antiagregante 4560 4568	aspirina
+T67	_SUG_Tratamiento_antiagregante 4571 4582	clopidogrel
+T68	_SUG_Ictus_isquemico 4620 4625	ictus
+T69	_SUG_Etiologia 4676 4688	hipertensión
+T70	SECCION_EXPLORACION_FISICA_AL_ALTA 4796 4803	Al Alta
+T71	_SUG_NIHSS 4807 4813	NIH:11
+T72	_SUG_Etiologia 4824 4831	lacunar
+T73	_SUG_Localizacion 4824 4831	lacunar
+T74	_SUG_mRankin 4835 4841	mRS: 5
+T75	FECHA 4912 4924	febrero 2017
+#75	AnnotatorNotes T75	2017-02-UNDEF-day
+T76	SECCION_TRATAMIENTO_AL_ALTA 5213 5246	Plan terapéutico / Pla terapèutic
+T77	_SUG_Tratamiento_anticoagulante 5414 5425	Enoxaparina
+T78	_SUG_Tratamiento_antiagregante 5444 5455	Clopidogrel
+T79	SECCION_RECOMENDACIONES 5633 5654	Otras recomendaciones
+T80	FECHA 5848 5858	04.10.2017
+#80	AnnotatorNotes T80	2017-10-04
+T81	HORA 5873 5878	06:03
+#81	AnnotatorNotes T81	06:03
+T82	_SUG_Lateralizacion 6029 6037	derechos

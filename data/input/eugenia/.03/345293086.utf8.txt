@@ -1,0 +1,119 @@
+_LOCATION_
+_LOCATION_) Anul·lació/Reprogramació visites:_CONTACT_
+Telèfon Centraleta: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 52 Anys
+NIF/DNI: _ID__NAME_; _NAME_; _NAME_
+Informe d'alta d'hospitalització
+16:30:10
+06.03.2017
+_LOCATION_
+_SS_ NEUROLOGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_; _CONTACT_; _CONTACT_
+AGUTS 24.02.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Hombre de 52 años con Hematoma GGBB izquierdos
+
+ANTECEDENTS
+-	No alergias medicamentosas conocidas.
+-	Neiga hábito tabáquico. Enol ocasional
+-	HTA y DLP en tto médico. No DM. Sobrepeso.
+-	Hiperuricemia en tratamiento
+-	Lumbociatalgia
+
+Situación basal: Independiente para todas sus ABVD. Rankin:0
+
+MEDICACIÓ HABITUAL
+Enalapril/Hidroclorotiazida 20/12.5mg 1 comprimido cada 24h, Alopurinol 100mg/dia, Simvastatina 20mg/dia.
+
+PROCÉS ACTUAL
+Varón de 52 años que el 24/02 a las 12:30h de la mañana se despierta con debilidad y hormigueos en hemicuerpo derecho. Fue visto asintomático por última vez a las 09:30h de la mañana.
+El paciente acude al _SS_ desde donde se activa código Ictus a las 14:30h y se decide traslado a urgencias de _SS_ (llega a las 15:20h).
+
+A su llegada al _SS_ a las 15.20h, el paciente presenta HTA (175/106 mmHg), FC  60  lpm, SatO2 99%. Coagulchek 1. En la exploración neurológica se objetiva estado consciente, orientado, sin alteración del habla ni del lenguaje. MOEs conservados. Campimetría por confrontación normal. PFSN D leve (1). Hemiparesia BC D 4+/5 (1+1). Hipoestesia D (1). RCP flexor bilateral., siendo el NIHSS 4.
+En la analítica no presenta alteraciones. En el ECG se detecta ritmo sinusal sin alteraciones de la repolarización. En la radiografía de tórax destaca la presencia de trama vascular aumentada. Y en TC craneal a las 15.33h, pone de manifiesto la presencia de pequeño hematoma intraparenquimatoso centrado en región talámica izquierda y brazo posterior de la cápsula interna ipsilateral.
+
+Se orienta el caso como hematoma de ganglios basales izquierdos de probable etiología hipertensiva en paciente hipertenso. Se decide ingreso en Neurología para control evolutivo y tratamiento.
+
+EXPLORACIÓ FÍSICA
+
+Hemodinámicamente estable con tendencia a la hipertensión
+
+NRL: consciente, orientado en las 3 esferas, responde  a órdenes simples y complejas, PICNR, no DOC, no hemianopsia por confrontación, PFSN leve derecha(1), hemiparesia BC derecha (2), Hipoestesia derecha (1). RCP flexor bilateral. No dismetría. NIHSS 4.
+
+Informe d'alta d'hospitalització
+
+
+
+
+AC: rítmica, no ausculto soplos ni roces
+AP: murmullo vesicular conservado, sin ruidos sobreañadidos
+Abdomen: blando, depresible, no doloroso a la palpación, no palpo masas ni megalias, no signos de irritación peritoneal, peristaltismo conservado.
+EEII: no edemas ni signos de TVP
+
+EXPLORACIÓ COMPLEMENTÀRIA
+Pruebas en urgencias:
+Analítica: neutrofilia (6.81 x10E9/L) sin leucocitosis, función renal normal, ionograma normal. Resto hemograma normal.
+ECG:RS a 60lpm. PR:160mseg. QRS estrecho. No tnos de la repolarización.
+TC Craneal: Pequeño hematoma intraparenquimatoso centrado en región talámica izquierda y brazo posterior de la cápsula interna ipsilateral
+Rx de Tórax: Silueta cardiomediastínica normal. Camos pulmonares radiolúcidos. Ángulos costofrénicos libres.
+
+Pruebas en planta Neurología:
+Analítica (01/03): función renal (urea, creatinina, FG) normal. Ionograma (Na, K) normal. Función hepática: transaminasas elevada (AST 1.19ukat/L, ALT 1.45ukat/L, GGT 1.41ukat/L), FA normal. Albúmina normal. Función tiroidea (TSH, T4) normal.
+Folatos y cobalaminas normales. Hemograma:  serie roja (Hb 138g/L) normal. plaquetas normales, leucocitos normales incluyendo neutrofilos y linfocitos. Coagulación (TP, TTPA, INR) normal.
+
+
+EVOLUCIÓ CLÍNICA
+Ingresa en planta de Neurología.
+
+En analítica destaca alteración de la función hepática con transaminanas elevadas, ya conocido y estable respecto analítica previas, sin otras alteraciones.
+
+Durante su estancia en planta el paciente se mantiene hemodinámicamente estable. Inicia dieta oral y deambulación autónoma con bastón (previamente ya deambulaba con bastón por artrosis de rodilla derecha avanzada)
+
+A dia de hoy 06/03 neurológicamente el paciente se encuentra consciente, orientado en TEP, responde a órdenes simples y complejas, no DOC, no HH por confrontación, PICNR, MOEs normales, PFSN derecha leve (1), resto de ppcc conservados, paresia C derecha 5-/5, resto de extremidades 5/5, no ataxia, no disartria, hipoestesia leve facio-braquio-crual derecha (1). NIHSS 2
+
+Se orienta el cuadro como hematoma en ganglios basales izquierdos de probable etiología hipertensiva en paciente hipertenso.
+
+Ante la estabilidad clínica y hemodinámica se decide alta a domicilio con controles en Neurología en Hospital de referencia. Además se recomienda rehabiltiación domiciliaria y control de TA por MAP.
+
+DIAGNÒSTICS
+431/3 Hematoma cerebral
+
+Informe d'alta d'hospitalització
+
+
+
+
+401.9/4 Hipertensió arterial inespecificada
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Dieta baja en sal Abandonar hábito enólico Evitar sedentarismo
+Mismo tratamiento habitual
+
+CONTROL
+Control en 3 meses con Neurología _SS_ (acudir a médico de cabecera para ser derivado) Control FRCV con médico de cabecera habitual.
+
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+06.03.2017
+Pàgina 1 de 3

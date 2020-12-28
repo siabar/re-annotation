@@ -1,0 +1,68 @@
+T0	HORA 231 236	11:00
+#0	AnnotatorNotes T0	11:00
+T1	FECHA 240 250	23.12.2017
+#1	AnnotatorNotes T1	2017-12-23
+T2	FECHA 341 351	19.12.2017
+#2	AnnotatorNotes T2	2017-12-19
+T3	SECCION_MOTIVO_DE_INGRESO 405 419	MOTIU D'INGRÉS
+T4	SECCION_ANTECEDENTES 432 443	ANTECEDENTS
+T5	FECHA 774 778	2006
+#5	AnnotatorNotes T5	2006-UNDEF-month-UNDEF-day
+T6	_SUG_Tratamiento_antiagregante 911 914	AAS
+T7	FECHA 988 1005	diciembre de 2014
+#7	AnnotatorNotes T7	2014-12-UNDEF-day
+T8	_SUG_Tratamiento_antiagregante 1542 1550	aspirina
+T9	SECCION_SITUACION_FUNCIONAL 1560 1586	Situación funcional previa
+T10	_SUG_mRankin 1588 1596	rankin 0
+T11	SECCION_TRATAMIENTO_HABITUAL 1599 1617	MEDICACIÓ HABITUAL
+T12	_SUG_Tratamiento_antiagregante 1618 1621	AAS
+T13	SECCION_PROCESO_ACTUAL 1846 1859	PROCÉS ACTUAL
+T14	FECHA 1863 1871	19/12/17
+#14	AnnotatorNotes T14	2017-12-19
+T15	HORA 1878 1879	8
+#15	AnnotatorNotes T15	8:00
+T16	SECCION_EXPLORACION_FISICA 2088 2105	EXPLORACIÓ FÍSICA
+T17	_SUG_Tratamiento_anticoagulante 2113 2116	bpm
+T18	SECCION_EXPLORACION_FISICA_EN_URGENCIAS 2470 2506	Exploración neurológica en Urgencias
+T19	_SUG_NIHSS 2976 3016	NIHSS: 0.0.0.0.1/0.0.1.0.0/0.0.0.1.0 = 3
+T20	SECCION_EXPLORACION_FISICA_EN_URGENCIAS 3045 3082	Exploraciones realizadas en Urgencias
+T21	FECHA 3216 3224	19/12/17
+#21	AnnotatorNotes T21	2017-12-19
+T22	_SUG_Trombolisis_intravenosa 3412 3416	TTPA
+T23	_SUG_Trombolisis_intravenosa 3426 3430	TTPA
+T24	FECHA 3478 3486	19/12/17
+#24	AnnotatorNotes T24	2017-12-19
+T25	_SUG_TAC_craneal 3583 3593	TC craneal
+T26	SECCION_EXPLORACIONES_COMPLEMENTARIAS 3019 3044	EXPLORACIÓ COMPLEMENTÀRIA
+T27	SECCION_EXPLORACIONES_COMPLEMENTARIAS_EN_PLANTA_DE_NEUROLOGIA 4366 4412	Exploraciones realizadas en la Unidad de Ictus
+T28	_SUG_Trombolisis_intravenosa 4601 4605	TTPA
+T29	_SUG_TAC_craneal 5295 5297	TC
+T30	SECCION_EVOLUCION 5777 5793	EVOLUCIÓ CLÍNICA
+T31	_SUG_NIHSS 5983 5990	NIHSS 3
+T32	_SUG_TAC_craneal 5996 6006	TC craneal
+T33	_SUG_Trombolisis_intravenosa 6225 6253	tratamiento trombolítico por
+T34	_SUG_Trombectomia_mecanica 6289 6292	TEV
+T35	_SUG_Trombolisis_intravenosa 7234 7266	tratamiento de revascularización
+T36	_SUG_Trombectomia_mecanica 7234 7266	tratamiento de revascularización
+T37	_SUG_Recanalizacion 7567 7581	rehabilitación
+T38	_SUG_Trombolisis_intravenosa 7703 7735	tratamiento de revascularización
+T39	_SUG_Trombectomia_mecanica 7703 7735	tratamiento de revascularización
+T40	_SUG_mRankin 7865 7870	mRS 3
+T41	_SUG_NIHSS 7871 7878	NIHSS 3
+T42	SECCION_DIAGNOSTICOS 7929 7951	ORIENTACIÓ DIAGNÒSTICA
+T43	_SUG_Ictus_isquemico 7954 7975	Ictus isquémico agudo
+T44	_SUG_Localizacion 7976 7994	parietal-occipital
+T45	_SUG_Lateralizacion 7995 8003	derechos
+T46	_SUG_Etiologia 8006 8018	Ateromatosis
+T47	_SUG_Arteria_afectada 8019 8028	carotidea
+T48	_SUG_Arteria_afectada 8055 8087	arteria carótida interna derecha
+T49	_SUG_Arteria_afectada 8098 8122	arteria carótida interna
+T50	SECCION_TRATAMIENTO_Y_RECOMENDACIONES_AL_ALTA 8198 8233	TRACTAMENT I RECOMANACIONS A L'ALTA
+T51	_SUG_Tratamiento_antiagregante 8234 8237	AAS
+T52	_SUG_Tratamiento_antiagregante 8258 8269	Clopidogrel
+T53	SECCION_CONTROL 8678 8685	CONTROL
+T54	FECHA 8743 8753	22/01/2018
+#54	AnnotatorNotes T54	2018-01-22
+T55	SECCION_DESTINO_AL_ALTA 8984 9003	DESTINACIÓ A L'ALTA
+T56	FECHA 9083 9093	23.12.2017
+#56	AnnotatorNotes T56	2017-12-23

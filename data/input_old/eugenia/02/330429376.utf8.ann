@@ -1,0 +1,88 @@
+T1	Fecha_de_alta 345 355	31.01.2017
+#1	AnnotatorNotes T1	2017-01-31
+T2	Hora_de_alta 356 361	14:00
+#2	AnnotatorNotes T2	14:00
+T3	Fecha_de_ingreso 414 424	27.01.2017
+#3	AnnotatorNotes T3	2017-01-27
+T4	_SUG_mRankin_alta 697 705	Rankin 2
+T5	mRankin_previa 697 705	Rankin 2
+T6	_SUG_Etiologia 780 791	Hipertensió
+T7	FECHA 860 864	1990
+#7	AnnotatorNotes T7	1990-UNDEF-month-UNDEF-day
+T8	FECHA 905 915	abril 2014
+#8	AnnotatorNotes T8	2014-04-UNDEF-day
+T9	_SUG_Localizacion 965 976	ventricular
+T10	_SUG_Tratamiento_anticoagulante_alta 1058 1065	Sintrom
+T11	_SUG_Tratamiento_anticoagulante_hab 1058 1065	Sintrom
+T12	FECHA 1216 1228	Octubre 2016
+#12	AnnotatorNotes T12	2016-10-UNDEF-day
+T13	FECHA 1330 1334	2009
+#13	AnnotatorNotes T13	2009-UNDEF-month-UNDEF-day
+T14	FECHA 1672 1676	2006
+#14	AnnotatorNotes T14	2006-UNDEF-month-UNDEF-day
+T16	_SUG_Tratamiento_anticoagulante_alta 1760 1767	Sintrom
+T17	Tratamiento_anticoagulante_hab 1760 1767	Sintrom
+T19	Hora_inicio_sintomas 2293 2298	12:55
+#19	AnnotatorNotes T19	12:55
+T20	_SUG_Ictus_isquemico 2365 2370	ictus
+T22	_SUG_TAC_craneal 2449 2460	TC de crani
+T23	_SUG_Ictus_isquemico 2482 2487	ictus
+T24	Hora_llegada_hospital 2531 2536	14.33
+#24	AnnotatorNotes T24	14:33
+T25	_SUG_NIHSS_alta 2971 3000	NIHSS = 02200/00000/00020 = 6
+T26	_SUG_NIHSS_previa 2971 3000	NIHSS = 02200/00000/00020 = 6
+T27	FECHA 3047 3057	28/01/2017
+#27	AnnotatorNotes T27	2017-01-28
+T29	TAC_craneal 4041 4051	TC cranial
+T30	_SUG_Localizacion 4232 4247	Infarto lacunar
+T31	_SUG_Localizacion 4256 4266	lenticular
+T32	_SUG_Lateralizacion 4267 4276	izquierdo
+T33	_SUG_Localizacion 4324 4335	ventricular
+T34	_SUG_Localizacion 4401 4410	posterior
+T35	_SUG_Lateralizacion 4548 4557	izquierdo
+T38	_SUG_Tratamiento_anticoagulante_alta 4836 4843	Sintrom
+T39	_SUG_Tratamiento_anticoagulante_hab 4836 4843	Sintrom
+T40	HORA 4849 4853	1.39
+#40	AnnotatorNotes T40	01:39
+T42	_SUG_Trombolisis_intravenosa 5012 5024	fibrinolític
+T43	_SUG_Tratamiento_anticoagulante_alta 5330 5338	Apixaban
+T44	_SUG_Tratamiento_anticoagulante_hab 5330 5338	Apixaban
+T45	_SUG_Etiologia 5538 5549	hipertensió
+T46	_SUG_Etiologia 5597 5605	habitual
+T47	NIHSS_alta 5725 5734	NIHSS = 0
+T48	_SUG_NIHSS_previa 5725 5734	NIHSS = 0
+T49	mRankin_alta 5751 5759	Rankin 3
+T50	_SUG_mRankin_previa 5751 5759	Rankin 3
+T52	Ictus_isquemico 5781 5796	Ictus  isquèmic
+T53	Etiologia 5829 5843	cardioembòlica
+T55	_SUG_Tratamiento_anticoagulante_alta 5946 5953	Sintrom
+T56	_SUG_Tratamiento_anticoagulante_hab 5946 5953	Sintrom
+T57	Tratamiento_anticoagulante_alta 5977 5984	Eliquis
+T58	_SUG_Tratamiento_anticoagulante_hab 5977 5984	Eliquis
+T59	Tratamiento_anticoagulante_alta 5986 5994	Apixaban
+T60	_SUG_Tratamiento_anticoagulante_hab 5986 5994	Apixaban
+T61	FECHA 6109 6119	09/02/2017
+#61	AnnotatorNotes T61	2017-02-09
+T62	FECHA 6168 6176	9.2.2017
+#62	AnnotatorNotes T62	2017-02-09
+T63	FECHA 6772 6782	31.01.2017
+#63	AnnotatorNotes T63	2017-01-31
+T64	SECCION_MOTIVO_DE_INGRESO 478 492	MOTIU D'INGRÉS
+T65	SECCION_ANTECEDENTES 501 512	ANTECEDENTS
+T66	SECCION_ANTECEDENTES_PERSONALES 513 534	ANTECEDENTS PERSONALS
+T67	SECCION_ANTECEDENTES_PATOLOGICOS 755 777	ANTECEDENTS PATOLÒGICS
+T68	SECCION_TRATAMIENTO_HABITUAL 1721 1739	MEDICACIÓ HABITUAL
+T69	SECCION_PROCESO_ACTUAL 2099 2112	PROCÉS ACTUAL
+T70	SECCION_EXPLORACION_FISICA 2588 2605	EXPLORACIÓ FÍSICA
+T71	SECCION_EXPLORACIONES_COMPLEMENTARIAS 3002 3027	EXPLORACIÓ COMPLEMENTÀRIA
+T72	SECCION_EVOLUCION 4671 4687	EVOLUCIÓ CLÍNICA
+T73	SECCION_DIAGNOSTICOS 5762 5773	DIAGNÒSTICS
+T74	SECCION_TRATAMIENTO_Y_RECOMENDACIONES_AL_ALTA 5905 5940	TRACTAMENT I RECOMANACIONS A L'ALTA
+T75	SECCION_CONTROL 6531 6538	CONTROL
+#4	AnnotatorNotes T5	2
+#5	AnnotatorNotes T49	3
+#6	AnnotatorNotes T47	0
+T28	Arteria_afectada 5798 5801	ACM
+T36	Lateralizacion 5801 5802	e
+T15	Fecha_inicio_sintomas 2158 2168	28/01/2017
+T18	SECCION_DESTINO_AL_ALTA 6694 6713	DESTINACIÓ A L'ALTA

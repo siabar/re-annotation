@@ -1,0 +1,137 @@
+C/ _LOCATION_
+Tel. _CONTACT_
+_LOCATION_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: 13748530
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 79 Anys
+NIF/DNI: _ID_ d'alta d'hospitalització
+CP	_LOCATION_
+ABS	_SS_
+Servei	NEUROLOGIA
+Data d'alta  24.04.2017	11:08:21
+_LOCATION_
+_CONTACT_ ONADA; _CONTACT_; _CONTACT_ DOMICIL/RES.SOC
+17.04.2017
+_NAME_
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+79 anys, Codi Ictus, 17/04 per debilitat d'extemitats esquerres d'aparició brusca.
+
+
+ANTECEDENTS
+Antecedents patològics:
+HTA. Deterioro cognitivo leve disejecutivo. GDS 3 (diagnóstico 2015, Neurología Hp. _NAME_ bilateral; portador de audífonos. Trastorno delirante paranoide (diag 2016 Hp. _NAME_). Glaucoma. Infección herpética bilateral (?), con disminución de agudeza visual residual. Hipertiroidismo subclínico (?) en seguimiento previamente por Endocrino. Retención urinaria en tratamiento con sondaje vesical permanente. Ingreso por sepsis urinaria (enero-17). HBP. Litiasis renales. Ulcus duodenal. Episodios de rectorragias autolimitadas de larga evolución con polpectomía de adenoma velloso con displasia de alto grado en colon derecho (marzo-17). Herniorrafia inguinal (?). Exfumador. No alergias medicamentosas conocidas.
+
+Rankin previo de 3
+
+MEDICACIÓ HABITUAL
+TTO: Profer 40 mg; Omeprazol 20 mg: 1-0-0; Adiro 100 mg: 0-1-0; Enalapril 10 mg: 1-0-0; Monoprost 50 mcg
+colirio: 0-0-1; Combigan 5 mg: 1-0-1.
+
+
+PROCÉS ACTUAL
+Malaltia actual: Trobat sobre les 04:30 h al _SS_ Ulldecona amb debilitat d'extremitats esquerres sense cefalea ni mes focalitat associada. S'activa Codi Ictus i es decideix rtasllat al nostre Centre, on arriba Glasgow 15, pero focalitat motora pe rhemiparesia esquerra lleu, extincio sensitiva i trastorn campimetric esquerre amb NIHSS de 6. Es fa TC de crani que mostra petit hemaotma lobar parietal dret sense signes d'hipertensió endocraneana decidint-se ingres a Neurologia per estudi etiològic i evolució clínica.
+
+
+EXPLORACIÓ FÍSICA
+
+TA: 158/95-º62/94 FC 53x-79x ta: 37.1ºC  Sat O2 97%
+Pacient cosncient colaborador pero atencio dificil i discurs delirant paranoide amb certa dosi de suspicaçia pero que es pot reconduir sense irritabilitat, es orientat en temps, espai i persona, nomina be objecte si obeeix ordres, crida atencio deficit campimetric esquerre clar, hemiparesia esquerra braquial 4-/5 d epredomini distal no deficits sensitius, pero desorientació dreta-esquerra sense més focalitat  associada.  NIHSS (0-0-0)0-2/0(0-2)(0-0)/0-0-0-0- 0=4.
+
+Informe d'alta d'hospitalització
+
+
+
+EXPLORACIÓ COMPLEMENTÀRIA
+Exploracions complementaries:
+
+Analítica: coagulación y hemograma normales.
+
+ECG:  ACXFA a  75  lpm.  Rx  de  torax:  mala qualitat  per  tova,  veig  sins  costofrènics  lliures  sense  aparents condensacions.
+
+TAC craneal(17/024): Hematoma parenquimatós de 16x11 mm a nivell profund parietal dret. No hipodensitat al voltant suggestiu d'edema. Dilatació ventricles laterals sobretot de les banyes occipitals. Atròfia cortico- subcortical. Absència de desplaçaments d'estructures de la linia mitja. Cisternes de la base i peritronculars lliures. Fossa posterior, tronc encefàlic i parènquima cerebral restant sense alteracions. CONCLUSIÓ: hematoma parenquimatós parietal D. Atròfia i dilatació sistema ventricular.
+
+TC de crani (18/04): Petit hematoma parenquimatós parietal dret se anterior. Dilatació de ventricles laterals i atròfia cortico- subcortical moderada-severa.
+
+CONCLUSIÓ:Hematoma parietal D sense canvis valorables
+
+-	Anàliisi de sang: plaquetes i coagualcio normal, BQ basica normal. Destaca Hb de 12.3, amb Hto de 36%, parametres de disfuncio nutricional amb proteines de 5.6 i albumina de 3.3
+
+-	RMN cerebral (21/04): Hematoma IP ya conocido fronto-parietal derecho en evolución. -Múltiples restos de hemosiderina sugiriendo angiopatía amiloide. -Signos involutivos supratentoriales
+
+EVOLUCIÓ CLÍNICA
+Pacient de 79 anys, previament limitat per artrosi, limtiacio visual i _NAME_, Rankin 3, acut per quadre confusional, disartria i paresia extremitats esquerres.
+A urgències s'objectiva hemorragia cerebral lobar parietal dreta i ingressa a Unitat d'Ictus per estudi i evolucio clinica.
+
+Es practica TC de crani de control sense empitjorament de l'hemorragia. La RMN cerebral practicada als 6 dies demostra signes neuroradiologics d'angiopatia amiloidal congofila, molt probablement en relaico causal a l'hemorragia. Clinicament el pacient evoluciona be, millornat quasi ad integrum de l'hemiparesia esquerra, i fent RHB amb fisioterapia essent capaç de caminar en un caminador i també en ajuda d'una persona.
+
+Atesa l'estabilitat clinica i l'absència de complicaiocns destacables, es dona d'alta al seu domicili habitual de residència Onada Ulldecona. A l'alta, Rankin 4, NIHSS de 1.
+
+DIAGNÒSTICS
+432.9/1 Hemorragia cerebral lobar parietal dreta d'etiologia amiloidòtica. 401.9/2 Hipertensió arterial.
+277.30/2 Amiloïdosi cerebral angiopàtica. 342.90/2 Hemiparesia braquail esq lleu per l'AVC.
+
+Informe d'alta d'hospitalització
+
+
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Veure full de tractament adjunt.
+
+CONTROL
+A CCEE de Neurologia a la data que s'indica.
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Validat per: _NAME_	Col·legiat: 10838717
+
+24.04.2017
+Pàgina 1 de 3

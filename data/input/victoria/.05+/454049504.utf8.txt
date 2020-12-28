@@ -1,0 +1,98 @@
+I.CLINIC DE NEUROCIÈNCIES NEUROLOGIA
+_NAME_	NHC: _ID_
+
+
+Sexo/Sexe: Masc.	Fecha nac./Data naix.: _DATE_	Edad/Edat: 79 años Dirección/Adreça: _LOCATION_	CP: _LOCATION_
+Municip. (Prov.): _LOCATION_  ABS:_SS_	Tel.:_CONTACT_
+As.: SERVEI CATALA DE LA SALUT	CIP: _ID_	NASS: _ID_
+Nº epis.: _ID_	Tipo/Tipus: HOSPIT.	Inici.: 24.12.2017
+Serv: NEUROLOGIA	UO Enf.: G064 SALA G DE NEUROLOGIA	Hora: 15:55:48 Facult. de ref.: _NAME_
+
+
+
+
+Tipo ingreso/Tipus ingrés: Urgent	Motivo/Motiu alta: Dom. Familiar
+Diag.:
+AFASIA GLOBAL () EMERGENCIA HIPERTENSIVA () FIEBRE SIN FOCO ()
+Proc.:
+ANALÍTICA SANGUINEA ()
+
+
+
+
+INFORME CLÍNICO ALTA / INFORME CLÍNIC ALTA
+
+Motivo de consulta / Motiu de consulta
+Alteración del lenguaje de inicio súbito.
+
+Antecedentes e historia previa / Antecedents i història prèvia
+Varón de 79 años. Aplasia medular por linezolid sin otras alergias medicamentosas conocidas ni hábitos tóxicos. Independiente para las actividades de la vida diaria (mRS: 0).
+
+*	ANTECEDENTES PATOLÓGICOS:
+1.	HIPERTENSIÓN ARTERIAL, actualmente  sin  tratamiento  farmacológico tras  haber  sido  retirado por hipotensión hace 3 meses por registros de AMPA sobre 120 mmHg de TAS.
+2.	INFECCIÓN CRÓNICA POR VIRUS DE LA HEPATITIS C.
+3.	APLASIA MEDULAR POR LINEZOLID.
+4.	PRÓTESIS DE RODILLA IZQUEIRDA en 2005. Intervenido quirúrgicamente por infección de prótesis en 2 ocasiones en agosto y septiembre de 2014.
+
+*	TRATAMIENTO HABITUAL: no realiza.
+
+Proceso actual / Procés actual
+El 24/12/17 a las 14:00h presenta de forma súbita afasia sin otra focalidad neurológica acompañante, por lo que la familia avisa al SEN y es traído a nuestro centro como código ictus extramuros. Familiares refieren episodios de desorientación puntuales.
+
+Exploración física / Exploració física
+NRL: Consciente. Orientación no valorable. Afasia global (nomina 2/10, no repite, no obedece órdenes) con perseveración y contaminación del lenguaje. Campimetría sin déficits. Mirada centrada sin limitaciones. No paresia facial. Fuerza conservada. Sensibilidad algésica conservada. Dismetrías, extinción y negligencia no valorables. NIHSS: 8.
+
+
+Laboratorio / Laboratori
+(Se adjunta)
+
+Radiología / Radiologia
+*	TAC CRANEAL BASAL + ANGIO-TAC:
+-	TC CRANEAL BASAL: NO se observan signos de hemorragia intracraneal. Parénquima cerebral con correcta diferenciación cortico-subcortical. ASPECTS (10). Lesiones isquémicas parenquimatosas crónicas en ambos centros semiovales. Marcada leucoaraiosis periventricular en relación a patología crónica de pequeño vaso. Varias imágenes hipodensas capsuloganglionares bilaterales, de predominio izquierdo en relación a eventos isquémicos crónicos. Atrofia parenquimatosa global con dilatación secundaria del sistema ventricular en relación a cambios involutivos. Estructuras de línea media centradas. Cisternas basales libres.
+-	ANGIO-TC EXTRA E INTRACRANEAL: Aorta y segmentos proximales de troncos supraaórticos sin signos de ateromatosis significativa, permeables, sin estenosis. Origen y segmentos cervicales de las arterias carótidas internas y de las arterias vertebrales con leves signos de ateromatosis, permeables y sin estenosis significativas secundarias. Segmentos intracavernoso y supraclinoideo de las arterias carotidas internas con leves signos de ateromatosis, permeables y sin estenosis secundarias. Principales arterias cerebrales intracraneales (ACAs, ACMs, ACPs, Basilar,) sin signos de ateromatosis, permeables y sin estenosis. Hipoplasia del segmentoa A1 de la ACA izquierda como variante anatómica Sistema vertebro-basilar permeable.
+
+Exploraciones complementarias / Exploracions complementàries
+*	MICROBIOLOGÍA:
+-	Cultivo LCR: Negativo. - Urinocultivo: Negativo. - PCR Virus  de la gripe  (A, B, VRS): Negativos. - Hemocultivos: Sin crecimiento al momento del alta. - Detección molecular de virus en LCR: En curso al momento del alta.
+
+Evolución / Evolució
+1.	SINDORME CONFUSIONAL
+
+Hombre de 79 años con antecedentes de HTA, VHC crónica (sin descompensaciones de la hepatopatía) y aplasia medular  por linezolid. Consultó por cuadro de  alteración del lenguaje, confusión y  alteración conductual de inicio súbito el 24/12/17 sobre las 14h. No otra focalidad neurológica.
+
+A su llegada afebril hipertenso a TAS 220 mmHg que revierte con 10 mg de labetalol iv. En la exploración neurológica se aprecia un paciente consciente, sin obecer ordenes, con un lenguaje hipofluente con perseveración y contaminación (NIHSS: 8); muy agitado, necesitando 7.5 mg de haloperidol para poder realizar la neuroimagen inicial. Analítica sanguínea con plaquetopenia de 92000/mL (previas con valores similares) sin otras alteraciones. ECG en ritmo sinusal sin alteraciones en la repolarización. La neuroimagen (TC craneal) no muestra signos de isquemia o hemorragia agudas en su secuencia basal. El estudio vascular (angio-TC) no evidencia oclusión de grandes vasos intra o extracraneales. El cuadro se orienta inicialmente como posible ictus el cuál se descartó mediante pruebas de imagen y ante la mejoría clínica. Se trata de un síndrome confusional secundario a crisis hipertensiva y a síndrome febril como cofactores más plausibles. Ingresa en unidad de ictus para control evolutivo. Durante su ingreso el paciente muestra franca mejoría de la clínica neurológica así como correcto control tensional por lo que se decide trasladar a sala convencional de Neurología, donde persite la mejoría de la clínica estando el paciente atento, orientado, con un lenguaje fluente sin alteraciones en la compresión ni otras alteraciones.
+
+
+2.	EMERGENCIA HIPERTENSIVA
+1.	
+
+
+Semanas antes del ingreso se suspendió el tratamiento hipotensor habitual del paciente. Al ingrso presenta las cifras tensionales elevadas descritas. Al alta TA correctamente controlada  con  tratamiento farmacológico.
+
+
+3.	FIEBRE SIN FOCO
+
+En la tarde del ingreso el paciente realiza un pico febril de 39ºC con clínica bacteriémica sin apreciarse foco alguno en la exploración. La analítica sanguínea no muestra leucocitosis ni elevación de la PCR. Radiografía de tórax sin consolidaciones. Sedimento y urocultivo no patológicos. Ante la presencia de fiebre de origen desconocido y focalidad neurológica se realiza punción lumbar con extracción de LCR claro con hiperproteinorraquia de 76.9 mg/dL y glucosa 96 mg/dL, sin celularidad. Detección molecular de virus de la gripe y cultivo de LCR negativos con PCR de virus en LCR y hemocultivos negativos. Ante la presencia de fiebre sin foco en un paciente comunitario sin aparentes factores de riesgo se inicia antibioterapia empírica con ceftriaxona consiguiendo remisión del cuadro febril. Se cambia antibioterapia a pauta oral con amoxicilina-a.clavulánico que el paciente deberá seguir tomando en su domicilio.
+
+
+4.	DETERIRO COGNITIVO LEVE
+
+La familia refiere olvidos y despistes ocasionales en las semanas previas al ingreso. Se recomienda competar estudio por Neurólogo de zona.
+
+Plan terapéutico / Pla terapèutic
+- Enalapril 5 MG. Vía oral. Un a vez al día, en el desayuno.
+- Amoxicilina/acido clavulanico 1 UND. Vía oral. Cada 8 horas.
+
+Otras recomendaciones / Altres recomanacions
+Se recomienda seguimiento por su Neurólogo de zona.
+
+
+
+Firma/Signatura1: _NAME_	Firma/Signatura2: _NAME_ Categoría: Resident 1	Categoría: Espec. Senior
+Nº Matrícula _SS_: _ID_	Nº Matrícula _SS_: _ID_
+
+Fecha/Data Informe: 28.12.2017
+Hora Informe: 15:43:48
+
+3
+_SS_

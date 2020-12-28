@@ -1,0 +1,140 @@
+
+
+
+
+
+Informe d'Alta Hospitalària	Cognoms i nom:
+_NAME_	NHC:
+_ID_
+	ABS:
+_SS_	CIP:
+_ID_	DNI:
+_ID_
+	Data de naixement:
+_DATE_	Sexe:
+Home	Edat:
+46a	Telèfon:
+_CONTACT_
+	Finançament:
+CatSalut - CATALUNYA	Procedència:
+URGÈNCIES
+	Admissió:
+06.02.2017 - 18:43	Servei:
+NEUROLOGIA HOSP	Data entrada urg.:
+06.02.2017 - 16:06
+Adreça:
+_LOCATION_	Població:
+_LOCATION_	Codi Postal:
+_LOCATION_
+
+
+
+MOTIVO DE INGRESO
+Varón de 46 años que ingresa por emergencia hipertensiva y hemorragia subaracnoidea (HSA).
+
+
+ANTECEDENTES
+-	Sin alergias medicamentosas conocidas.
+-	Hábitos tóxicos: hábito enóico y tabáquico activo
+-	Factores de riesgo cardiovascular:
+-	Hipertensión arterial de larga evolución (dco. a los 28 años en control de empresa) con requerimiento de varios antihipertensivos. No cumple dieta. No refiere realización de estudio de causas secundarias.
+-	Dislipemia.
+-	Hiperuricemia con episodios de artritis gotosa asociada.
+-	Sin antecedentes de diabetes.
+-	Psoriasis.
+-	Situación social: funciones superiores conservadas. Independiente actividades básicas de la vida diaria.
+Vive con su mujer. Trabaja como electricista. mRs = 0.
+-	Tratamiento habitual (06/02/2017): amlodipino 5 mg/24 horas, atenolol 50 mg/24 horas, enalapril 20 mg/24 horas.
+
+ENFERMEDAD ACTUAL
+Hombre de 46 años traído a urgencias de nuestro centro como código ictus extrahospitalario.
+
+Según cuenta el paciente estos días previos se encontraba más cansado de lo habitual con disnea de esfuerzo y cierta ortopnea que había atribuído al tabaco. En este contexto, el 06/02 a las 13:00 aproximadamente, mientras estaba trabajando, debutó con visión doble binocular y cefalea intensa. Además refiere disestesias peribucales y en mano izquierda de varios días de evolución. Inicialmente ha consultado a su mútua privada (_SS_) desde dónde es derivado a nuestro centro por crisis hipertensiva (TAS 300mmHg) y diplopia.
+
+A su llegada a urgencias a las 16:05h se activa código ictus desde triaje. Hemodinámicamente se encuentraba estable pero con crisis hipertensiva (256/120 mmHg, 90 lpm, INR 1, normoglicémico, sat. O2 92% al aire). A la exploración neurológica destacó paresia del VI par craneal derecho y ligera paresia facial central izquierda puntuando una NIHSS de 2. Se realizó TC craneal en el que se aprecia una HSA prepontina junto a una lesión isquémica talámica lateral derecha. Se realiza angioTC-TSA en el que no se aprecian lesiones aneurismáticas evidentes. En la radiografía de tórax se apreciaban signos de distribución vascular y pinzamiento del seno costofrénico izquierdo. En la analítica sanguínea destacó una troponina de 40.
+
+En conjunto el cuadro se orienta como un infarto isquémico talámico derecho junto con HSA prepontina e insuficiencia cardíaca en contexto de emergencia hipertensiva. Se decide ingreso en semicríticos para tratamiento y control evolutivo.
+
+EXPLORACIONES COMPLEMENTARIAS
+-	Electrocardiograma al ingreso: ritmo sinusal a 100 lpm, eje 0º aprox., PR 160 ms, QRS 120 ms aprox., se observan alteraciones compatibles con hipertrofia ventricular izquierda.
+-	Radiografía de tórax: signos de redistribución vascular, índice cardiotorácico no valorable (proyección AP), derrame pleural izquierdo.
+-	Analítica sanguínea al ingreso: Sodi 141 mmol/L Potassi 4,58 mmol/L Glucosa 100,80 mg/100mL Urea 35 mg/100mL Creatinina 1,06 mg/100mL Proteïna total 63,9 g/L Hemoglobina 148 g/L Hematòcrit 0,44 L/L Hematies 5,08 x10E12/L VCM 86,8 fL CCMH 336 g/L HCM 29,1 pg RDW 13,7 % Plaquetes 130 x10E9/L
+VPM 10,7 fL Plaquetòcrit 0,20 % Leucòcits 12,48 x10E9/L Neutròfils 83,9 % 10,31 x10E9/L Eosinòfils 0,8 %
+0,10 x10E9/L Basòfils 0,4 % 0,05 x10E9/L Monòcits 6,3 % 0,78 x10E9/L Limfòcits 8,6 % 1,06 x10E9/L
+-	Marcadores de daño miocárdico al ingreso: CK 123 U/L -> 75 U/L, Troponina ultrasensible 41 ng/L -> 53 ng/L.
+-	TC craneal al ingreso: ligera HSA en cisterna prepontina y pequeño focos de hipodensidad cápsulo-talámico D con posible sangrado puntiforme. No se observan otros focos de sangrado intracraneal, colecciones extraxiales, efectos de masa ni desplazamientos valorables de la línea media. Hipodensdiad en ambas cápsulas externas en probable relación con afectación vascular crónica de pequeño vaso, no se observan otras alteraciones relevantes de densidad o de morfología en el parénquima cerebral. Sistema ventricular de morfología, tamaño y situación normales.
+-	Angio-TC TSA e inreacraneal: no identifico ningún aneurisma intracraneal en especial en territorio vertebro-basilar. Arteria basilar elongada, de calibre conservado sin oclusión vascular. Ligera irregularidad del segmento distal de la ambas A.vertebrales intracraneales y de la A.basilar, que podría estar en relación con ligero vasoesposamo secundario a la HSA, pero sin estenosis relevante. Ambas ACP de pequeño calibre pero sin estenosis. También se observa elongación de ambas ACI extracraneal e intracraneal sobre todo en la en la región cavernosa, así como de las ACM y ACA, pero de calibre conservado, sin estenosis relevantes y sin signos de oclusión vascular. Derrame pleural bilateral de predomino i. Conclusión: ligera HSA en cisterna prepontina y lesión lacunar cápsulo-talámico D con mínimo sangrado. No se observan aneurismas intracraneales. Derrame pleural bilateral de predomino I.
+-	Analítica sanguínea estándar: Sodi 139 mmol/L Potassi 3,67 mmol/L Calci 9,16 mg/100mL Fosfat 4,06 mg/100mL Urea 46 mg/100mL Creatinina 1,18 mg/100mL Bilirubina total 0,70 mg/100mL Triglicèrids 134,52 mg/100mL Colesterol 207,05 mg/100mL AST (GOT) 15 U/L ALT (GPT) 19 U/L Fosfatasa alcalina 100 U/L GGT 55 U/L Proteïna total 64,0 g/L Albúmina 42,0 g/L Hemoglobina 147 g/L Hematòcrit 0,45 L/L
+Hematies 5,05 x10E12/L VCM 88,7 fL CCMH 328 g/L HCM 29,1 pg RDW 14,2 % Plaquetes 219 x10E9/L VPM 10,3 fL Plaquetòcrit 0,30 % Leucòcits 17,73 x10E9/L Temps de tromboplastina 0,91 RATIO Temps de protrombina 1,10 INR Temps de trombina 17,50 s  TSH 2'27
+-	Arteriografía transfemoral: se realiza arteriografía cerebral que descarta aneurismas cerebrales o malformaciones arteriovenosas. Presencia de importante elongación de carótidas y vertebrales probablemente y  mínima estenosis en  segmento  pertroso de  ACI  derecha en  relación  con  patología
+
+
+hipertensiva. Durante el procedmiento se objetiva en el monitor del ECG importante descenso del ST en derivaciones de cara inferior sin sintomatología asociada, que se normaliza al acabar el procedimiento en ECG que se adjunta en historia clínica. Recomiendo valoración por cardiología. Dada la distribución del sangrado podría ser suficiente una angiograma en 15 días para descartar definitivamente patología vascular.
+-	Valoración oftalmológica: FO AO: papilas de bordes nítidos y normocoloreadas. Maculas contrastadas, no obsero fluido subretiniano. Arcadas vasculares normoconfiguradas, con leve adelgazamiento de arcadas arteriales. Hemorragias en astilla aisladas periarcada temporal-superior (TS) Ambos Ojos. 2 exudados algodonosos periarterial en raiz de arcada TS Ojo Izquierdo. No otras lesiones periféricas. Retina aplicada 360º. Valoración: retinopatía Hipertensiva moderada ambos ojos. Paralisis VI pc OD
+-	RM cerebral: Persiste la leve hemorragia subaracnoidea prepontina derecha. Pequeña lesión isquémica lacunar reciente tálamo-mesencefálica derecha. Múltiples focos de hemosiderina bilaterales en ganglios basales y en hemiprotuberancia derecha en probable relación a pequeños hematomas antiguos. Lacunares crónicos putaminales izquierdos y en hemiprotuberancia derecha. Pequeños focos de alteración de la señal en T2 de la sustancia blanca subcortical de aspecto inespecífico. Vacío de señal TC de los vasos intracraneales indicando permeabilidad. Arterias carótidas internas y basilar elongadas. Sistema ventricular de tamaño y morfología normal. Resto sin alteraciones significativas. Conclusión: Persistencia de la leve HSA prepontina derecha. Pequeña lesión isquémica lacunar reciente tálamo-mesencefálica derecha. Múltiples focos de hemosiderina y lacunares crónicos bilaterales de ganglios basales sugiriendo microangiopatíahipertensiva.
+-	Ecocardiograma transtorácico: Ventrículo izquierdo no dilatado con hipertrofia concéntrica importante sin condicionar obstrucción del TSVI ni en situación basal ni tras maniobras de Valsalva. FEVI ligeramente reducida sin defectos segmentarios de la contractilidad. Disfunción diastólica ventricular izquierda de tipo II (patrón de llenado "pseudonormal"), con probable aumento secundario de las presiones de llenado ventricular izquierdo. Raíz aórtica y porción proximal de aorta ascendente no dilatada. Válvula aórtica tricúspide morfológicamente normal con muy ligera insuficiencia. Válvula mitral de velos no engrosados con calcificación focal en el velo posterior, normofuncionante. Aurícula izquierda ligeramente dilatada. Ventrículo derecho no dilatado, con acortamiento longitudinal ligeramente reducido, estando preservado el radial. Insuficiencia tricuspídea minima que permite no permite estimar la PAPs. No existen signos indirectos de aumento de resistencias pulmonares. Vena cava inferior no dilatada. Ausencia de derrame pericárdico. Ausencia de datos sugestivos de coartación aórtica.
+-	Bioquímica en orina con det. metanefrinas: PENDIENTE.
+-	Eco-doppler arterias renales: Riñones de tamaño, morfología y grosor parenquimatoso conservados. Buena diferenciación córtico-medular. No se identifican litiasis ni ectasia de las vías urinarias.Se efectúa estudio con Doppler y se visualizan ambas arterias renales a lo largo de su trayectocon velocidades dentro de la normalidad. La morfología de la onda arterial es normal en ambos riñones, tanto en los ostiums como en los hilios renales y en la porción intrarrenal. Hígado ligeramente heterogéneo, de tamaño y morfología normal, sin identificarse lesiones focales. Vena porta permeable con flujo en dirección hacia el hígado normal y con velocidad mediamáxima de 0.25 m/s. Vesícula biliar con litiasis en su interior, distendida, de paredes finas y sin signos de complicación.Vía biliar no dilatada. Páncreas y bazo sin alteraciones valorables. Vejiga urinaria bien replecionada, de paredes lisas, sin lesiones valorables. Aorta abdominal de calibre normal. No se observa líquido peritoneal. Sin otros hallazgos ecográficos significativos. Conclusión: 1. Estudio doppler
+
+
+renal dentro de la normalidad. 2. Colelitiasis no complicada. radial.
+- Revaloración oftalmológica FO: OD papila de bordes nitidos, macula ok. algunos exudados blandos periarcadas temporales, 1 peripapilar inf y 2 periarcadas sup. hemos IR nasales. adelgazamiento arteriolar con arosariamiento. OI papila de bordes nitidos, macula ok, exudados peripapilares nasales y periarcadas superiores. adelgazamiento arteriolar, tortuosidad venosa.
+
+EVOLUCIÓN
+Evolución en Semicríticos
+Varón de 46 años que ingresa en semicríticos por hemorragia subaracnoidea periprotuberancial en contexto de emergencia hipertensiva.
+Durante su estancia se mantuvo afebril y presentó hipertensión importante (TAS en torno a 200 mmHg) por lo que requirió tratamiento con múltiples fármacos (IECAs, antagonistas del Ca++, betabloqueantes...) y aplicación transitoria de antihipertensivos endovenosos. Desde el puno de vista clínico presentaba una paresia del VI par derecho y disestesias perilabiales izquierda y en primeros dedos de la mano izquierda.
+De cara a completar el diagnóstico se realizó arteriografía que descartó la presencia de lesiones aneurismáticas o malformaciones arteriovenosas; no obstante, se recomendó completar el estudio con un estudio angiográfico en 15 días. Se decidió traslado a la sala de Neurología.
+
+Evolución en Sala de Neurología
+Al ingreso NIHHS de 2 y mRS 0. Durante su estancia permanece afebril y hemodinámicamente estable aunque con tendencia a la hipertensión que requirió rescates endovenosos con labetalol y urapidilo puntuales, por lo que se realizó una optimización del tratamiento anithipertensivo oral. Se solicitó valoración por la unidad de hipertensión de M.I. quién ajustó nuevamente tratamineto antihipertensivo. Dentro del estudio etiológico de HTA secundaria y dado que presenta calcio y potasio normales, se solicitó eco-doppler de arterias renales y determinación de TSH siendo ambas normales y bioquímica (incluyendo metanefrinas) en orina estando pendientes al alta.
+Respecto al estudio etiológico la RMN muestra persistencia de HSA cisterna prepontina, lesión isquémica mesencefalo- talámica derecha y signos de microaniopatia hipertensiva y ecocardiografia muestra miocardiopatíahipertrófica concéntrica.
+Se mantuvo clínicamente estable respecto a los déficits neurológicos referidos; refirió que las parestesias queiro-orales se presentaron varios días antes del día de ingreso.
+Valorado por oftalmología que objetiva signos de retinopatia hipertensiva moderada en ambos ojos por lo que recomienda control ambulatorio.
+Realiza ejercicios de fisioterapia con buena tolerancia. Toleró dieta oral sin incidencias. No ha presentado complicaciones médicas de interés.
+Al alta NIHHS de 1 y mRS 1.
+
+
+PROCEDIMIENTOS
+-	Electrocardiograma.
+-	Analítica sanguínea.
+-	Radiografía de tórax.
+-	TC craneal.
+-	AngioTC TSA e intracraneal.
+-	RM cerebral.
+-	Angiografía.
+
+
+DIAGNÓSTICOS
+-	Emergencia hipertensiva
+-	Infarto lacunar mesencefalo-talámicoderecho
+-	HSA prepontina no aneurismática en contexto de emergencia hipertensiva
+-	ICC probablemente por fallo diastólico
+
+
+TRATAMIENTO
+-	Ixia (olmesartan): 40 mg/ día
+-	Hidrosaluretil 25 mg/ día
+-	Doxazosina 8 mg/ 12 horas
+-	Atenolol 50 mg/24 horas
+-	Nimodipino 60 mg /8 horas.
+
+-	Evitar AINES
+-	Comer sin sal
+
+-	Estudio de HTA secundaria en CEX Unidad HTA según programación adjunta con resultado de bioquímica en orina y AS con ARP y aldosterona
+-	Visita de control en CEx de Neurología según cita adjunta.
+-	Visita para control evolutivo en CEx de Cardiología (le avisarán telefónicamente). Se solicita la realización de cardioRM de manera ambulatoria.
+-	Solicitar control por su oftalmólogo de zona.
+
+Responsable clínic: Dr. _NAME_ (NºCol. _ID_)
+Equip mèdic: Dr. _NAME_ (NºCol. _ID_), Dr. _NAME_ (NºCol. _ID_), _NAME_ (NºCol. _ID_), Dr. _NAME_ (NºCol. _ID_)
+
+Servei que ha donat d'alta:
+NEUROLOGIA HOSP	Data d'alta:
+21.02.2017	Nom del metge que informa de l'alta:
+Dr. _NAME_ (NºCol. _ID_)
+
+
+_LOCATION_, 21.02.2017
+Pàg. 1 de   5

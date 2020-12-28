@@ -1,0 +1,83 @@
+I.CLINIC DE NEUROCIÈNCIES NEUROLOGIA
+_NAME_	NHC: _ID_
+
+
+Sexo/Sexe: Fem.	Fecha nac./Data naix.: _DATE_	Edad/Edat: 80 años Dirección/Adreça: _LOCATION_	CP: _LOCATION_
+Municip. (Prov.): _LOCATION_  ABS:_SS_	Tel.:_CONTACT_
+As.: SERVEI CATALA DE LA SALUT	CIP: _ID_	NASS: _ID_
+Nº epis.: _ID_	Tipo/Tipus: HOSPIT.	Ingres.: 05.03.2017 Serv: NEUROLOGIA	UO Enf.: G064 SALA G DE NEUROLOGIA	Hora: 14:55:56
+Facult. de ref.: _NAME_
+
+
+
+
+Tipo ingreso/Tipus ingrés: Urgent	Motivo/Motiu alta: Defunc.
+Diag.:
+ICTUS ACMD () FIBRILACIÓN AURICULAR () EXITUS VITAE ()
+Proc.:
+
+
+
+
+INFORME EXITUS
+
+Motivo de consulta / Motiu de consulta
+Debilidad de extremidades izquierdas del despertar.
+
+Antecedentes e historia previa / Antecedents i història prèvia
+Mujer  de  80  años,  sin  alergias  medicamentosas  conocidas  ni  hábitos  tóxicos.  Independiente para  las actividades básicas de la vida diaria. Vive sola. mRS 1.
+*ANTECEDENTES PATOLÓGICOS:
+1.	FIBRILACIÓN AURICULAR anticoagulada con acenocumarol.
+2.	HIPERTENSIÓN ARTERIAL.
+3.	DIABETES MELLITUS TIPO 2.
+4.	DISLIPEMIA.
+
+*TRATAMIENTO MÉDICO HABITUAL: Paracetamol. Optovite B12. Bisoprolol 5 mg C/12h. Sintrom según pauta. Metformina 850 c/12h. Hidroclorotiazida 25 mg c/24h. Serc 16 mg c/8h. Simvastatina 40 mg C/24h. Atacand 16 mg C/24h. Lecarnidipino 10 c/24h.
+
+Proceso actual / Procés actual
+El 05.03.2017 por la mañana es encontrada en el suelo del domicilio por su hijo por lo que contacta con el SEM quienes remiten a nuestro centro como código ictus. La noche anterior se alertó al SEM por caída en domicilio sin TCE, al llegar el SEM la paciente estaba asintomática.
+
+Exploración física / Exploració física
+TAS 120/TAD 70 mmHg. FC 130 lpm.
+NRL: Consciente. Lenguaje hipofluente sin rasgos afásicos. Mirada desviada de forma tónica hacia la derecha. Reflejo de amenaza izquiredo abolido. Anosognosia, asomatognosia. Paresia facio (mod)-braquio (0/5)- crural (0/5) izquierda. Hemihipoestesia izquierda. NIHSS: 18.
+
+Laboratorio / Laboratori
+
+*ANALITICA SANGUINEA DE URGENCIAS: Creatinina 1.34 mg/dL, hemograma sin alteraciones. INR 1.81.
+
+Radiología / Radiologia
+*TC CRANEAL BASAL: Extensa hipodensidad con desdiferenciación corticosubcortical del hemisferio cerebral derecho asociado a obliteración parcial de los surcos de la convexidad con respecto al contralateral. Todo ello en relación a infarto establecido en territorio profundo y superficial de la ACMD. ASPECTS 0. Hiperdensidad del segmento M1 la ACMD. No se observan signos de sangrado intra ni extra axial.
+
+Exploraciones complementarias / Exploracions complementàries
+
+*ECG: fibrilación auricular con respuesta ventricular rápida.
+
+Evolución / Evolució
+1.	ICTUS ISQUÉMICO EN EL TERRITORIO DE LA ARTERIA CEREBRAL MEDIA DERECHA (ACMD).
+2.	FIBRILACIÓN AURICULAR.
+A su llegada a urgencias normotensa, taquicárdica. A la exploración neurológica destaca síndrome hemisférico derecho completo (NIHSS 18). ECG en fibrilación auricular con respuesta ventricular rápida. Analítica con creatinina 1.34 mg/dL, INR 1.81. La neuroimagen (TC craneal basal) muestra hipodensidad extensa en todo el territorio de la ACMD (ASPECTS 0) con hiperdensidad del segmento M1 la ACMD. Por lesión extensa establecida se desestima tratamiento fibrinolítico.
+Se trata de un ictus isquémico en el territorio de la ACMD en paciente con fibrilación auricular infradescoagulada. Dada la situación clínica de la paciente se decide por el momento no iniciar trtamiento antitrombótico.
+Durante su estancia en nuestro centro la paciente permanece estable, persisiendo extensa afectación a expensas de síndrome hemisférico derecho y mutismo. La paciente presenta empeoramiento respiratorio progresivo siendo Exitus Vitae el 12/03/2017 a las 6.30h.
+
+Plan terapéutico / Pla terapèutic
+.
+
+Otras recomendaciones / Altres recomanacions
+.
+
+
+
+Firma/Signatura1: _NAME_	Firma/Signatura2: _NAME_ Categoría: Resident 4	Categoría: Espec. Senior
+Nº Matrícula HCP: _ID_	Nº Matrícula HCP: _ID_ Fecha/Data Informe: 12.03.2017
+Hora Informe: 07:19:01
+
+
+
+Docum.: _ID_
+Hist. Clínica: _ID_	Vers. 00	Pag. 2 de	2
+Episod.: _ID_
+El _SS_ ha incorporado sus datos al Fichero de	_SS_	_SS_ ha incorporat les seves dades al
+Pacientes, para tratarlos con fines sanitarios.	_LOCATION_)	Fitxer de Pacients, per a tractar-los amb finalitats
+Puede ejercer sus derechos de acceso, rectificación,	_LOCATION_)	sanitàries. Pot exercir els seus drets d'accés,
+cancelación y oposición, así como obtener mas información	Tel. _CONTACT_ Fax _CONTACT_	rectificació, cancel·lació i oposició, i obtenir més
+en la Unidad de Atención al Cliente.	<http://_CONTACT_/>	informació a la Unitat d'Atenció al Client.

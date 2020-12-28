@@ -1,0 +1,59 @@
+
+Cognoms:    _NAME_	Adreça:  _LOCATION_
+Nom:	_NAME_	_LOCATION_
+Edat: 53	Sexe:H	CIP:	_ID_	NIF:	_ID_
+Data naixement:   _DATE_	NHC:	_ID_	NASS:    _ID_
+Telèfon / Mòbil:	_CONTACT_ / _CONTACT_
+
+
+INFORME  D'ASSISTÈNCIA
+
+
+Metge/essa:	_NAME_	Servei:	NEUROLOGIA
+Data ingrés:	13/02/ 2017	Data Alta: 17/02/ 2017
+S'informa a:	Metge de família	Núm.  llit: _ID_
+DIAGNÒSTICS:
+1.	Ictus isquèmic de territori ACM esquerra pendent de filiar etiològicament
+2.	Disàrtria aïllada en relació a 1.
+3.	HTA.
+
+
+Pacient  de  53  anys,  fumador  de  8-10  purets  al  dia,  enolisme  lleu  (vi  amb  els  menjars), sense al.lèrgies medicamentoses conegudes.
+
+Antecedents familiars d'ictus en el pare als 69 anys, IAM a la mare als 63 anys. Té 5 germans; una germana amb recanvi valvular, ictus en un altre germà i cardiopatia isquèmica que ha precisat de Stent en una altra germana, aquests dos darrers de 49 anys. Hi ha sospita de probable cardiopatia en un altre germà.
+
+ANTECEDENTS  PATOLÒGICS:
+- HTA en tractament actual amb Losartan/HCTZ i Bisoprolol. És controlat per metge de família i cardiòleg; ens aporta Ecocardiograma de gener de 2017 que mostra VE amb lleugera-moderada hipertròfia de predomini septal, sense altres alteracions significatives.
+
+Tractament habitual: Bisoprolol cor 10 mg, 1 comp. al dia. Losartan/ HCTZ 100/25, 1 comp. al dia.
+
+Situació social i funcional: casat amb dos fills; viu amb la seva esposa i una filla. Té dues empreses, una de transport i l'altre de muntatge. Reconeix estrès a nivell laboral.
+
+MALALTIA ACTUAL:
+El dia 12.02.17 a les 20:30 hores mentre estava sopant, presenta de sobte alteració de l'articulació de les paraules, per descripció en tot moment disàrtria no afàsia, amb dubtosa asimetria facial, sense altra simptomatologia acompanyada; per aquest motiu és portat a Urgències on arriba a les 20:54 hores.
+
+EXPLORACIÓ FÍSICA:
+Conscient i orientat. Normohidratat i normocolorit. TA a Urgències 139/90, afebril. AC: tons rítmics, no bufs. AR: MVC.
+Neurològic: llenguatge sense elements afàsics, disàrtria lleu.  No asimetria facial. Resta de parells
+cranials normals. No claudicació d'extremitats, però lleu hipocinèsia de la mà esquerr. Sensibilitat normal, ROTS simètrics, RCP flexors. Coordinació i marxa normal. NIHSS 1.
+
+EXPLORACIONS  COMPLEMENTÀRIES:
+Analítica: hemograma, bioquímica i coagulació sense alteracions significatives,. ECG: RS a 60x'.
+ TAC c ranial d' Urgènc ies : sense alteracions significatives.
+Angio-TAC d' Urgènc ies : no valorable per motius tècnics, s'observa ateromatosi amb calcificacions a bifurcacions carotídies.
+Ecodoppler TSA: signes d'ateromatosi a bifurcacions carotídies, sense estenosis significatives.  DTC: sense alteracions significatives.
+RMN cranial (informe oral): petita lesió isquèmica aguda a territori cortico-subcortical frontal esq. S'observa una altra lesió isquèmica crònica de petita mida, subcortical.
+ECG-Holter 24 hores: retirat el dia de l'alta, pendent d'informe.
+
+EVOLUCIÓ:
+El pacient ingressa amb simptomatologia de disàrtria aïllada, observant-se mínima hipocinèsia de la mà esq. Aquesta simptomatologia ha anat millorant durant l'ingrés, restant a l'alta únicament una mínima disàrtria, gairebé inapreciable (NIHSS 0, Rankin 1). Des del punt de vista etiològic, el pacient té factors de risc, però les proves realitzades no permeten determinar amb precisió la causa de l'ictus, i cal tenir en compte els  múltiple antecedents  familiars. A l'espera del Holter, s'ha iniciat antiagregant, i serà reavaluat a CCEE de Neurologia, on es considerarà l'ampliació de l'estudi.
+Pel que fa a la tensió arterial, durant l'ingrés, sense tractament, ha mantingut tensions arterials sistòliques de 130-150 i diastòliques entre 80-95 amb freqüències cardíaques al voltant de 60 bpm. De cara a l'alta es manté el seu tractament però es decideix reduir la dosi de Bisoprolol, recomanant control estricte de constants els propers dies.
+Es dóna d'alta i es cita a CCEE de Neurologia.
+
+TRACTAMENT:
+-	Bisoprolol 5 mg, 1 comp. al dia.
+-	Losartan/HCTZ 100/25, 1 comp. al dia.
+-	Tromalyt 300 mg, 1 comp. al dia.
+-	Omeprazol 1 comp. al dia.
+-	
+Signat per _NAME_ núm.col: _ID_ Data/ Hora:17-02-2017 13:53

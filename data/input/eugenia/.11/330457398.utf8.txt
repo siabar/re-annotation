@@ -1,0 +1,216 @@
+
+
+
+
+
+Informe d'Alta Hospitalària	Cognoms i nom:
+_NAME_	NHC:
+_ID_
+	ABS:
+_SS_	CIP:
+_ID_	DNI:
+_ID_
+	Data de naixement:
+_DATE_	Sexe:
+Home	Edat:
+86a	Telèfon:
+_CONTACT_
+	Finançament:
+CatSalut - CATALUNYA	Procedència:
+URGÈNCIES
+	Admissió:
+22.01.2017 - 15:28	Servei:
+NEURO - UNITAT ICTUS HOSP	Data entrada urg.:
+22.01.2017 - 13:31
+Adreça:
+_LOCATION_	Població:
+_LOCATION_	Codi Postal:
+_LOCATION_
+
+
+
+MOTIVO DE INGRESO
+Varón de 85 años que ingresa por ictus isquémico.
+
+
+ANTECEDENTES
+-	No alergias medicamentosas conocidas.
+-	Factores de riesgo vascular:
+*	Hipertensión arterial
+*	Dislipemia
+*	No diabetes mellitus
+-	Insuficiencia renal crónica. Creatininas habituales alrededor de 110-120 umol/L.
+-	Diverticulosis intestinal, nunca complicaciones.
+-	AIT en forma de disartria en 2000. Se atribuyó a una etiología cardioembólica.
+-	Hernia de hiato.
+-	SAOS en tratamiento con CPAP
+-	Historia cardiológica:
+*	FA crónica. CVE electiva. Tto con amiodarona que se retira por alteración de función tiroidea (inicialmente hiper y después hipotiroidismo). Posteriormente tratado con Manidón. Ingreso por bradiarritmia 02/2004 retirandose el Manidon.
+*	Implantación de MCP Biotronik VVIR el 23/12/04 (probable FA lenta)
+*	TVMS. Se realizó estudio EEF y se implantó MCP-DAI Guidant Vitality en 02/2005.
+*	Cardiopatia isquémica: Infarto silente inferior (dx hace más de 10 años). (Signos electrocardiográficos de necrosis inferior y SPECT: necrosis inferior). Coronariografia: normal (probable mecanismo cardioembólico). En 2008: Ventrículo izquierdo no dilatado, hipertrofia septal moderada no obstructiva. Aquinesia de los segmentos medio y basal de cara lateral y posterior, e hipoquinesia segmento basal de cara inferior, con dinámica conservada en el resto. Función sistólica global del 45-50%. Raiz aórtica ligeramente dilatada. Aurícula izquierda dilatada. Regurgitación mitral y aórtica moderada.
+*	Ingreso en junio de 2009 por defecto de captura del EKT probablemente debido a acudadura proximal a la clavívula. Se extrae de forma incompleta el EKT (queda porción distal en la unión del tronco innominado con la vena cava superior) y se implanta por vía venosa subclavia izquierda un DAI MCP Boston Teligen 100-VVIR. El paciente estuvo dependiente de marcapasos durante el procedimiento. Como complicación operatoria presenta sangrado en sabana de cuantia importante que obliga a revisión quirúrgica e IOT.
+*	Ingreso en Agosto de 2009 por nuevo episodio de TVS. Por monitor se objetivaron 2 morfologías de TV, siendo dado de alta con Procainamida oral en dosis bajas. Intento de ablación fallido en 2009, presentando disección arteria femoral y pseudoaneurisma que precisa IQ. En 12/2009 ablación de TV incesante por vía epicardica tras la cual ha estado sin TV inicalmente, pero posterior recurrencia. En marzo 2010 nuevas ablaciones en _SS_.
+*	Protesis valvulares biológicas Ao y mitral en _SS_ en 2010:
+*	Acude a urgencias _SS_ en 2011 por dolor torácico atípico. Desde entonces asintomático.
+*	Último ecocardio 2011: refiere FE 28%, y valvulas normofuncionante.
+
+
+
+*	Último cateterismo en 2010: sin lesiones significativas.
+*	CONCLUSIÓN: actualmente presenta miocardiopatía dilatada isquémico-valvular (02/12/2015) con IAM inferior silente y sustitución valvular aórtica y mitral en 2010 por insuficiencia severa de ambas. Ecocardiograma con disfunción ventricular importante (FEVI 13%). Portador de DAI-VVIRdesde 2005 por prevención secundaria, realizándose varios intentos de ablación por episodios de TVMS (último de ellos en 2010). Se detecta batería del generador agotado y se decide ingreso para cambio de generador.
+
+Sociofuncional: vive con su esposa. Independiente para ABVD. Vida limitada por disnea de esfuerzo (mRS
+= 2, disnea de pequeños-medianos esfuerzos). Deterioro cognitivo incipiente no estudiado.
+
+Tratamiento médico habitual: pantoprazol 20 mg/dia, furosemida 40 mg 1-1-0, ramipril 2.5 mg/dia, eplerenona 25 mg/dia, digoxina 0.25 mg/dia excepto domingos, minitran parches (nitroglicerina) 5 mg, aldocumar (warfarina) según pauta, pravastatina 20 mg/dia, alopurinol 100mg/dia
+
+Antecedentes quirúrgicos
+-	Herniorrafia inguinal.
+-	Colecistectomía.
+-	Prostatectomía.
+-	Meniscectomía.
+
+
+ENFERMEDAD ACTUAL
+Varón de 86 años que acude el 22/01 a las 13h por cuadro de disminución de fuerza en extremidades izquierdas de inicio brusco. Acude el SEM. Se activa código ictus extrahospitalario.
+
+EXPLORACIÓN FÍSICA
+Llegada a urgencias el (22/01)
+-	TA 117/68 mmHg, FC 76x', FR 18x', SatO2 97%, glucemia 143, INR coaguchek 2.8.
+-	AC: tonos rítmicos. AR: MVC con algún roncus disperso.
+-	Consciente, orientado, lenguaje bien.
+-	Disartria leve.
+-	Desviación oculocefálica a la derecha. Heminegligencia visual izquierda.
+-	Anosognosia, no asomatognosia.
+-	Facial central izquierdo
+-	Hemiplejia izquierda
+-	Hiopoestesia grave izquierda.
+-	Cerebelo bien.
+-	NIHSS = 0.0.0.2.2/2(0.4)(0.4)/0.2.0.1.2= 19
+
+En Unidad de Ictus
+-	Vigil, orientado en tres esferas, atención fluctuante pero colaborador. Nomina 3/3, obedece órdenes de 2
+
+
+comandos, repite frases largas.
+-	Lenguaje fluido, hipofluente, con disartria moderada sin otros rasgos disfásicos.
+-	Pupilas  isocóricas   y  normorreactivas.  Campimetría   por  confrontación   sin  alteraciones.  MOEs   sin alteraciones. Sin nistagmus.
+-	Paresia facial central izquierda. Trigémino sensitivo-motor sin alteraciones. Resto de pares sin alteraciones.
+-	Paresia braquio (3/5) crural (4/5) izquierdas. MF izquierdo. Sin Hoffman. RCP flexor bilateral.
+-	Refiere hipoestesia algésica braquial izquierda; resto de modalidades sin alteraciones.
+-	Dismetría izquierda proporcional a la paresia.
+-	Anosognósico, no otras extinciones.
+-	NIHSS: 0.0.0.0.0/2.(0.2).(0.1)/0.1.0.1.1 = 8.
+
+
+En sala
+Vigil. Orientado. Disartria leve. Campimetría  normal. Sin limitación  mirada conjugada. MOEs normales.
+Paresia facial central I. Resto de PPCC normales.
+Hemiparesia  braquiocrural izquierda  4/5 proporcionada (pierna  explorada en sedestación). Sensibilidad normal. Dismetría proporcionada a la paresia. No otras agnosias.
+NIHSS = 0.0.0.0.0/1.(0.1).(0.1)/0.0.0.1.0 = 3
+
+
+EXPLORACIONES COMPLEMENTARIAS
+-	Electrocardiograma: ritmo de marcapasos a 75 lpm, eje -60º aprox, QRS 160 ms, sin alteraciones agudas de la repolarización.
+-	Analítica de urgencias: Sodi 139 mmol/L ( 136 - 145 ) Potassi 4,72 mmol/L ( 3,50 - 5,10 ) Calci 2,41
+mmol/L ( 2,15 - 2,55 ) 9,64 mg/100mL Glucosa 8,1 mmol/L ( 3,0 - 6,0 ) 145,80 mg/100mL Urea 13,2 mmol/L
+( 2,9 - 8,2 ) 79 mg/100mL Creatinina 146 µmol/L ( 0 - 106 ) 1,65 mg/100mL AST (GOT) 16 U/L ( 0 - 37 ) ALT
+(GPT) 16 U/L ( 0 - 41 )  Hemoglobina 136 g/L ( 130 - 170 ) Hematòcrit 0,42 L/L ( 0,40 - 0,50 ) Hematies 4,22
+x10E12/L ( 4,50 - 5,70 ) VCM 99,5 fL ( 80,0 - 98,0 ) CCMH 324 g/L ( 320 - 360 ) HCM 32,2 pg ( 27,0 - 32,0 )
+RDW 14,6 % ( 12,0 - 15,0 ) Plaquetes 124 x10E9/L ( 140 - 350 ) VPM 9,0 fL ( 7,0 - 10,5 ) Plaquetòcrit 0,20
+% Leucòcits 7,39 x10E9/L ( 3,80 - 11,00 ) Fórmula leucocitària Neutròfils 71,4 % Neutròfils absoluts 5,23 x10E9/L ( 1,80 - 7,00 ) Eosinòfils 3,1 % Eosinòfils absoluts 0,23 x10E9/L ( 0,05 - 0,50 ) Basòfils 0,3 %
+Basòfils absoluts 0,02 x10E9/L ( 0,00 - 0,10 ) Monòcits 8,9 % Monòcits absoluts 0,65 x10E9/L ( 0,30 - 1,00 )
+Limfòcits 16,3 % Limfòcits absoluts 1,19 x10E9/L ( 1,00 - 4,00 ) IPF 3,90 Temps de tromboplastina 1,32
+RATIO ( 0,75 - 1,30 ) Temps de protrombina 2,88 INR ( 0,75 - 1,20).
+-	TC craneal al ingreso: sin signos de hemorragia. El estudio TC sin contraste es de difícil valoración ya que muestra notable arterfacto por el movimiento involuntario, pero se identifica incipiente hipodensidad en la cabeza del caudado, putaminal y en el ribete insular que sugiere afectación isquémica aguda en territorio de la ACM D (ASPECTS 7).
+-	AngioTC TSA/intracraneal: Se observa un defecto de repleción intraluminal en el segmento M1 de la ACM D que sugiere trombo intraarterial con reconstitución del flujo a nivel de las ramas silvianas distales por colaterales. Moderada ateromatosis calcificada en ambos bulbos carotídeos, sin estenosis relevante.
+-	TC craneal de control: Se compara con el TC craneal previo del 22-1-2017, apreciando una hipodensidad en los ganglios basales derechos, con focos de sufusión hemorrágica en el lenticular y edema/efecto de
+
+
+masa sobre el ventrículo lateral adyacente, aunque sin desviación de la línea media. Moderada dilatación del sistema ventricular. Resto del parénquima cerebral sin otros cambios relevantes. Conclusión: Hipodensidad en ganglios basales derechos con sufusión hemorrágica, atribuible a infarto de territorio profundo de ACM derecha en evolución.
+- Analítica sanguínea: Creatinina 135 µmol/L ( 0 - 106 ) 1,53 mg/100mL Filtrat glomerular estimat 40,55 mL/min/1.73m2 Bilirubina total 30 µmol/L (< 17) 1,78 mg/100mL Bilirubina conjugada 10 µmol/L (< 6) 0,56
+mg/100mL AST (GOT) 17 U/L ( 0 - 37 ) ALT (GPT) 12 U/L ( 0 - 41 ) Fosfatasa alcalina 64 U/L ( 40 - 130 )
+GGT 46 U/L ( 0 - 54 ) Albúmina 42,9 g/L ( 34,0 - 48,0 ) Proteïna C reactiva 6,6 mg/L ( 0,0 - 5,0 ) METABOLISME Homocisteïna 18,91 µmol/L ( 0,00 - 14,40 ) HEMATOLOGIA-HEMATIMETRIA Hemograma Hemoglobina 146 g/L ( 130 - 170 ) Hematòcrit 0,45 L/L ( 0,40 - 0,50 ) Hematies 4,53 x10E12/L ( 4,50 - 5,70
+) VCM 98,7 fL ( 80,0 - 98,0 ) CCMH 327 g/L ( 320 - 360 ) HCM 32,2 pg ( 27,0 - 32,0 ) RDW 14,5 % ( 12,0 -
+15,0 ) Plaquetes 128 x10E9/L ( 140 - 350 ) VPM 9,4 fL ( 7,0 - 10,5 ) Plaquetòcrit 0,20 % Leucòcits 6,57 x10E9/L ( 3,80 - 11,00 ) Fórmula leucocitària Neutròfils 69,9 % Neutròfils absoluts 4,59 x10E9/L ( 1,80 - 7,00 ) Eosinòfils 1,8 % Eosinòfils absoluts 0,12 x10E9/L ( 0,05 - 0,50 ) Basòfils 0,3 % Basòfils absoluts 0,02
+x10E9/L ( 0,00 - 0,10 ) Monòcits 9,1 % Monòcits absoluts 0,60 x10E9/L ( 0,30 - 1,00 ) Limfòcits 18,9 % Limfòcits absoluts 1,24 x10E9/L ( 1,00 - 4,00 ) Rèticulòcits Reticulòcits % 1,25 % ( 0,50 - 2,00 ) Reticulòcits absoluts 56,6 ( 20,0 - 100,0 ) Fracció de baixa intensitat 88,8 % ( 78,0 - 97,0 ) Fracció de mitja intensitat 9,3
+% ( 3,0 - 18,0 ) Fracció d'alta intensitat 1,9 % ( 0,0 - 4,0 ) IRF 11,20 ( 3,00 - 22,00 ) RET-He 34,00 ( 29,80 -
+37,70 ) Codi de validació NCG HEMATOLOGIA-ERITROPATOLOGIA Vitamina B12 204 pmol/L ( 150 - 650
+) Folat sèric 18,4 nmol/L ( 7,0 - 45,0 ) HEMOSTÀSIA Temps de tromboplastina 1,06 RATIO ( 0,75 - 1,30 ) Temps de protrombina 1,61 INR ( 0,75 - 1,20 ) Temps de trombina 20,50 s ( 17,00 - 24,00 ) Fibrinogen coagulant 3,95 g/L ( 1,50 - 4,00 ) Anticoagulant lúpic (T.de Sílica) No valorable Anticoagulant lúpic (T.de Russell) No valorable Factor V coagulant 75 Factor VII coagulant 35 % ( 60 - 170 ) Factor VIII coagulant 237
+% ( 45 - 175 ) Factor IX coagulant 82 % ( 60 - 150 ) Factor XI coagulant 122 % ( 55 - 185 ) Factor XII coagulant 103 % ( 40 - 185
+- Ecografía transtorácica: Ventricle esquerre globulós i dilatat, amb reducció severa de la FE global. No hi ha trombus intracavitaris detectables per ETT. Pròtesi biològica mitral, amb imatge pediculada interprotèsica, que ja s'observaba un eco de 2014 (revisada), d'etiologia no aclarada. Caldria fer un ETE per aclarir-la. Mínima regurgitació i gradient transvalvular normal. Pròtesi biològica aòrtica normofuncionant. Ventricle dret no dilatat amb reducció de l'escurçament longitudinal. EKT transtricuspidi. Rebgrugitació tricuspídea secundaria moderada. No hi ha congestió venosa central.
+
+EVOLUCIÓN
+A la llegada a UCIAS, hemodinámicamente estable. A la exporaciópn presenta un síndrome hemisférico derecho a la exploración física puntuando un NIHSS = 19. Destaca INR por coaguchek de 2.8.
+Se realiza TC craneal y angioTC. El TC craneal descarta sangrado, ACM derecha hiperdensa, ASPECTS de difícil valoración por artefacto de movimiento. AngioTC con oclusión de ACM M1 derecha. El ASPECTS calculado en el CTASI es de 7.
+Se orienta como un ictus isquémico en territorio de ACM derecha, con oclusión de M1 probable de etiología cardioembólica (FEVI 10% + FA, a pesar de INR en rango). El tratamiento con rTPa endovenoso está contraindicado por INR 2.8 y se desestima el tratamiento endovascular tras la valoración global, teniendo en cuenta edad > 85 años y comorbilidades cardíacas, con repercusión funcional.
+
+
+Ingresa en la unidad de ictus sin cambios clínicos. Como tratamiento, se inicia antiagregación (se desestima incialmente anticoagulación por riesgo de transformación hemorrágica)
+Durante su ingreso permanece hemodinámicamente estable. A la valoración en U. de Ictus presenta mejoría respecto al ingreso, persistiendo hemiparesia izquierda, disartria y anosognosia (NIHSS = 8).
+Se realiza test de disfagia que supera correctamente. Se solicita valoración por rehabilitación y se inicia fisoterapia con progresión adecuada consiguiendo marcha autónoma. En el TC de control se objetiva infarto en ganglios basales derecho establecido con transformación hemorrágica leve (tipo IH2).
+
+Dada la estabilidad clínica y hemodinámica, se decide ingreso en sala convencional de neurología.
+En sala se completa estudio etiológico con ecocardiograma TT, que no evidencia cambios respecto a previos: muestra ventrículo izquierdo globuloso y reducción severa de FE global, sin evidencia de trombos intraventricular. Se objetiva imagen pediculada interprotésica ya presente en ecocardiograma previa y, tras comentarlo con su cardióloga (Dra. _NAME_), no se consideran necesarias otras pruebas de imagen adicionales.
+A nivel terapéutico, dado que el componente hemorrágico del TC de control es leve, se decide reiniciar tratamiento anticoagulante con aldocumar, con buena tolerancia.
+El paciente se mantiene clínica y hemodinámicamente estable. Valorado por la trabajo social, inicialmente se gestioan alta a centro sociosanitario, pero finalmente la familia prefiere alta a domicilio. Se tramita fisioterapia a domicilio.
+Al alta, NIHSS=4, mRs=3
+
+
+PROCEDIMIENTOS
+-	Analítica sanguínea.
+-	Electrocardiograma.
+-	Radiografía de tórax.
+-	TC craneal.
+-	AngioTC craneal.
+-	Ecografía transtorácica.
+
+
+DIAGNÓSTICO
+-	Infarto   isquémico   profundo  (territorio   de   la   ACM   derecha)  de   mecanismo  embólico  y   etiología cardioembólica
+-	Tranformaciónhemorrágica leve
+-	Miocardiopatía dilatada isquémica-valvular, con disfunción sistólica grave
+-	Fibrilación auricular
+-	Prótesis biológicas mitral y aórtica
+-	Portador de marcapasos
+
+
+TRATAMIENTO  Y  RECOMENDACIONES  AL  ALTA
+Tratamiento habitual:
+
+Acenocumarol 4 mg según pauta adjunta Alopurinol 100 mg 1 compd/d
+Digoxina 0,25 mg 1 comp salvo sábados y domingos Furosemida 40 mg 1 comp/d
+Pantoprazol 20 mg1 comp/d Pravastatina 20 mg 1 comp/d
+Paracetamol 1 g/8h
+Ramipril 2.5 mg/dia
+Eplerenona 25 mg/dia,
+Minitran parches (nitroglicerina) 5 mg
+
+Se tramita fisioterapia domiciliaria
+
+Recomendaciones generales
+1.	Tratamiento de la  hipertensión arterial, manteniendo cifras  por debajo de 140/90; en caso  de ser diabético, cifras por debajo de 130/85.
+2.	Abandono completo del hábito tabáquico.
+3.	Control  y tratamiento de las enfermedades cardiacas (cardiopatía  isquémica,  insuficiencia  cardiaca, arritmias y valvulopatías).
+4.	Evitar consumo excesivo de alcohol (se permite una o dos bebidas al día).
+5.	Vigilancia y tratamiento del perfil lipídico:
+Dieta pobre en grasas, actividad física apropiada.
+Tratamiento farmacológico si precisa para mantener niveles de LDL<100mg/dl.
+6.	Control de la glucemia, que debe ser <126mg/dl en ayunas, con dieta, antidiabéticos orales o insulina si precisa.
+7.	Realizar actividad física, 30 a 60 minutos, de tres a cuatro veces a la semana.
+
+
+
+
+Responsable clínic: Dra. _NAME_ (NºCol. _ID_)
+Equip mèdic: Dra. _NAME_ (NºCol. _ID_)
+
+Servei que ha donat d'alta:
+NEURO - UNITAT ICTUS HOSP	Data d'alta:
+31.01.2017	Nom del metge que informa de l'alta:
+Dra. _NAME_ (NºCol. _ID_)
+
+
+_LOCATION_, 31.01.2017
+Pàg. 1 de   6

@@ -1,0 +1,116 @@
+T0	FECHA 212 222	31.10.2017
+#0	AnnotatorNotes T0	2017-10-31
+T1	HORA 223 228	19:20
+#1	AnnotatorNotes T1	19:20
+T2	FECHA 235 245	09.11.2017
+#2	AnnotatorNotes T2	2017-11-09
+T3	HORA 246 251	12:26
+#3	AnnotatorNotes T3	12:26
+T4	SECCION_DIAGNOSTICOS 298 313	DIAGNÒSTIC ALTA
+T5	_SUG_Hemorragia_cerebral 354 371	HEMATOMA CEREBRAL
+T6	_SUG_Hemorragia_cerebral 378 395	HEMATOMA CEREBRAL
+T7	SECCION_DIAGNOSTICOS 4226 4249	ORIENTACION DIAGNOSTICA
+T8	_SUG_Hemorragia_cerebral 4254 4262	HEMATOMA
+T9	_SUG_Localizacion 4263 4271	PROFUNDO
+T10	_SUG_Localizacion 4272 4282	LENTICULAR
+T11	_SUG_Lateralizacion 4283 4292	IZQUIERDO
+T12	_SUG_Hemorragia_cerebral 4385 4393	hematoma
+T13	_SUG_Localizacion 4394 4404	lenticular
+T14	_SUG_Lateralizacion 4405 4414	izquierdo
+T15	_SUG_Hemorragia_cerebral 4488 4496	hematoma
+T16	_SUG_Ictus_isquemico 4552 4557	ictus
+T17	_SUG_Lateralizacion 4706 4711	dieta
+T18	FECHA 4749 4754	08/11
+#18	AnnotatorNotes T18	2011-08-UNDEF-day
+T19	_SUG_Lateralizacion 4990 4991	e
+T20	_SUG_Lateralizacion 5020 5028	derechas
+T21	_SUG_Hemorragia_cerebral 5053 5061	hematoma
+T22	_SUG_Localizacion 5062 5072	lenticular
+T23	_SUG_Lateralizacion 5073 5082	izquierdo
+T24	_SUG_Hemorragia_cerebral 5156 5164	hematoma
+T25	_SUG_Localizacion 5165 5170	lobar
+T26	_SUG_Localizacion 5171 5179	profundo
+T27	_SUG_Localizacion 5180 5190	lenticular
+T28	_SUG_Lateralizacion 5191 5200	izquierdo
+T29	_SUG_Etiologia 5223 5235	hipertensiva
+T30	_SUG_Localizacion 5318 5326	temporal
+T31	_SUG_NIHSS 5454 5459	NIHSS
+T32	_SUG_mRankin 5472 5475	mRs
+T33	_SUG_Hemorragia_cerebral 5501 5509	hematoma
+T34	_SUG_Localizacion 5511 5519	profundo
+T35	_SUG_Lateralizacion 5566 5575	IZQUIERDA
+T36	_SUG_Lateralizacion 5611 5620	izquierda
+T37	SECCION_MOTIVO_DE_INGRESO 454 472	MOTIVO DE CONSULTA
+T38	_SUG_Lateralizacion 548 555	derecha
+T39	_SUG_mRankin 661 666	mRs 0
+T40	SECCION_ANTECEDENTES_PATOLOGICOS 669 693	ANTECEDENTES PATOLOGICOS
+T41	FECHA 761 765	2012
+#41	AnnotatorNotes T41	2012-UNDEF-month-UNDEF-day
+T42	_SUG_Etiologia 840 852	HIPERTENSION
+T43	_SUG_Etiologia 879 888	ANEURISMA
+T44	_SUG_Lateralizacion 899 906	DERECHO
+T45	SECCION_TRATAMIENTO_HABITUAL 972 992	TRATAMIENTO HABITUAL
+T46	_SUG_Tratamiento_antiagregante 994 997	AAS
+T47	SECCION_PROCESO_ACTUAL 1102 1117	EPISODIO ACTUAL
+T48	FECHA 1122 1127	31/10
+#48	AnnotatorNotes T48	2012-10-31
+T49	_SUG_Lateralizacion 1241 1248	derecha
+T50	HORA 1303 1308	18:45
+#50	AnnotatorNotes T50	18:45
+T51	_SUG_Ictus_isquemico 1330 1335	ictus
+T52	_SUG_NIHSS 1384 1394	NIHSS de 5
+T53	_SUG_Lateralizacion 1436 1443	derecha
+T54	_SUG_Lateralizacion 1444 1445	e
+T55	_SUG_Lateralizacion 1474 1482	derechas
+T56	_SUG_TAC_craneal 1496 1506	TC craneal
+T57	HORA 1508 1513	19:01
+#57	AnnotatorNotes T57	19:01
+T58	_SUG_Hemorragia_cerebral 1534 1542	hematoma
+T59	_SUG_Localizacion 1543 1553	lenticular
+T60	_SUG_Lateralizacion 1554 1563	izquierdo
+T61	_SUG_Ictus_isquemico 1594 1599	ictus
+T62	SECCION_EXPLORACION_FISICA 1628 1646	EXPLORACION FISICA
+T63	FECHA 1706 1711	02/11
+#63	AnnotatorNotes T63	2011-02-UNDEF-day
+T64	_SUG_Lateralizacion 1965 1972	derecha
+T65	_SUG_NIHSS 2078 2116	NIHSS (0-0-0-0-0-2-0-2-0-1-0-1-1-2-0)9
+T66	_SUG_Lateralizacion 2518 2525	derecha
+T67	_SUG_Lateralizacion 2563 2570	derecha
+T68	_SUG_Lateralizacion 2571 2572	e
+T69	_SUG_Lateralizacion 2629 2637	derechas
+T70	_SUG_Lateralizacion 2688 2695	derecho
+T71	_SUG_NIHSS 2705 2744	NIHSS (0-0-0-0-0-2-1-0-1-0-0-2-1-2-0) 9
+T72	SECCION_EXPLORACIONES_COMPLEMENTARIAS 2747 2776	EXPLORACIONES COMPLEMENTARIAS
+T73	_SUG_TAC_craneal 2901 2911	TC craneal
+T74	FECHA 2913 2918	31/10
+#74	AnnotatorNotes T74	2011-10-31
+T75	_SUG_Hemorragia_cerebral 2921 2929	hematoma
+T76	_SUG_Localizacion 2936 2946	lenticular
+T77	_SUG_Lateralizacion 2947 2956	izquierdo
+T78	_SUG_TAC_craneal 3056 3066	TC craneal
+T79	FECHA 3068 3073	01/11
+#79	AnnotatorNotes T79	2011-01-UNDEF-day
+T80	FECHA 3119 3129	31/10/2017
+#80	AnnotatorNotes T80	2017-10-31
+T81	_SUG_Hemorragia_cerebral 3164 3172	hematoma
+T82	_SUG_Localizacion 3179 3189	lenticular
+T83	_SUG_Lateralizacion 3190 3199	izquierdo
+T84	_SUG_Hemorragia_cerebral 3332 3340	hematoma
+T85	_SUG_Localizacion 3361 3371	lenticular
+T86	_SUG_Lateralizacion 3372 3381	izquierdo
+T87	_SUG_Etiologia 3404 3416	hipertensiva
+T88	_SUG_Localizacion 3521 3532	subcortical
+T89	_SUG_Localizacion 3647 3654	frontal
+T90	_SUG_Lateralizacion 3655 3664	izquierdo
+T91	_SUG_Arteria_afectada 3724 3726	M1
+T92	_SUG_Lateralizacion 3727 3736	izquierda
+T93	_SUG_Lateralizacion 4047 4048	I
+T94	SECCION_TRATAMIENTO_AL_ALTA 5764 5783	TRATAMIENTO AL ALTA
+T95	SECCION_CONTROL 6051 6062	SEGUIMIENTO
+T96	SECCION_MOTIVO_DEL_ALTA 6132 6144	Motiu d'alta
+T97	FECHA 6260 6270	09.11.2017
+#97	AnnotatorNotes T97	2017-11-09
+T98	FECHA 6312 6322	09.11.2017
+#98	AnnotatorNotes T98	2017-11-09
+T99	HORA 6323 6328	12:48
+#99	AnnotatorNotes T99	12:48

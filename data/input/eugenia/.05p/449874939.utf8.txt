@@ -1,0 +1,106 @@
+SERVEI DE NEUROLOGIA
+INFORME DE ALTA
+Unitat d`IctusNº Historia clínica	_ID_
+Fecha de nacimiento
+_DATE_
+
+C.I.P.	_ID_	Código Centro	_ID_
+Teléfono	_CONTACT_	Dirección	_LOCATION_
+Fecha ingreso	03/12/17		_LOCATION_
+Fecha de alta	06/12/17	Teléfono	_CONTACT_
+Nº Asistencia	_ID_		
+UH	_ID_		
+
+DIAGNÓSTICOS:
+1.	ICTUS ISQUÉMICO DE ACM DERECHA ETIOLOGIA INDETERMINADA
+2.	FIBRINOLISIS CON rtPA ENDOVENOSA
+3.	HIPERTENSIÓN ARTERIAL
+4.	OBESIDAD
+
+Mujer de 72 años. Diestra. mRs 0. Vive con su marido. No hábitos tóxicos. Sin alergias medicamentosas conocidas. Alergia al polvo (rinitis)
+
+PROCEDIMIENTOS:
+Fibrinolisis ev con tPA Ingreso en Unidad de Ictus TC craneal+angioTC
+
+MOTIVO CONSULTA:
+Debilidad de hemicuerpo izquierda. Activación de código ictus extrahospitalario.
+
+ANTECEDENTES:
+-	HTA conocida desde hace mas de 20 años
+-	Carcinoma ductal infiltrante mama izquierda operada en marzo 2009: tumorectomia mas linfadenectomia mas radioterapia, en seguimiento por ginecología y oncología.
+-	Hemicolectomia derecha por poliposis (1988). Colonoscopia enero 2012 : adenoma de alto grado.
+-	Osteoporosis en tratamiento con bisfosfonatos.
+-	Bocio multinodular no tóxico.
+-	Hepatitis C.
+-	Sindrome ansioso.
+-	Rinofaringitis de repetición
+-	Osteotomia humero derecho Tratamiento habitual: DOXAZOSINA 4 MG/24H CALCIFEDIOL CADA 15 DIAS LOSARTAN/HTZ 100/25 MG/24
+
+ENFERMEDAD ACTUAL:
+Mujer de 72 años que acude a urgencias como código ictus extrahospitalario el día 3/12/17 a las 11:51h. Esa mañana sobre las 11:15 mientras se estaba duchando inicio sensación de hormigueo en brazo izquierdo y dificultad para articulación del lenguaje, no explica paresia EEII. No cefalea no traumatismo ni otra clínica acompañante.
+Refiere haber tenido episodios de palpitaciones torácicas en reposo, no dolorosas ni sensación de ahogo.
+
+EXPLORACIÓN FÍSICA: EXPLORACIÓN FÍSICA EN URGENCIAS: TA 125/94 FC 74 T 36
+NRL consciente y orientada en las 3 esferas. Comprende y obédece ordenes. Disartria 2. No alteraciones campimtricas.Paresia FB izquierda 2+2 , Hipoestesia leve izquierda. No afectación EEII
+NIHSS 0+0+0+0+0 3+2+0+0+0 0+1+0+2+0 NIHSS 8
+Nombre	_NAME_
+
+- Exploración física en Unidad de Ictus:
+TA: 131/96mmHg; FC: 72ppm; T: 36,7ºC; Glicemia: 113. Test de disfagia (-). Ritmo sinusal en monitor. Paciente estable hemodinámicamente, eupneica (durante el sueño roncadora y desaturación; posibles apneas), tranquila y sin dolor.
+A nivel neurológico se encuentra consciente, orientada en las 3 esferas, no alteraciones en el lenguaje ni alteraciones en seguir órdenes simples y complejas. No alteraciones en la movilidad ocular ni alteraciones campimétricas. Presenta parálisis facial izquierda pseudoperiférica (sin signo de Bell) (2). No claudica la extremidad superior izquierda pero presenta tendencia a pronar. Presenta hipoestesia izquierda (1). Disartria leve (1). NIHSS 4.
+AC: rítmico, no soplos, no explica historia de palpitaciones.
+
+EXPLORACIONES COMPLEMENTARIAS:
+-	Analítica UCIAS: Glucosa: 116mg/dl; Creatinina: 0,69mg/dl; Na: 144mmol/l; K: 3,60mmol/L; Cl: 103mmol/L; CK: 97; PCR: 0,3mg/dl; Hb: 14g/dl; Leucocitos: 6230; neutrofilos: 3360; Plaquetas: 216000; TP: 100%; TTPA: 26,9s; D-dimer: 440
+-	ECG: ritmo sinusal a 75ppm.
+-	Rx tórax: cardiomegalia a expensas de ventrículo izquierdo. Leve ensanchamiento mediastínico en contexto de bocio endotorácico. No masas ni megálias.
+-	TC craneal basal con angioTC (03/12/17; 12.02): No se observa focalidad isquémica aguda u otro tipo de lesión progresiva en el  momento actual. Permeabilidad de ambas carótidas, circulación  cerebral anterior y vertebrobasilar.
+-	Analítica de ingreso (4/12/2017): Urea 42, Creat 0.53, Ac. úrico 7.4, Na 145, K 3.4, Cl 106, FG>90,
+LDH 296, CK 75, Bil 1.5, GOT 22, GPT 27, GGT 15, FA 33, Proteinas 5.6, Alb 3.6, Colesterol total 163,
+LDL 114, HDL 46, TG 106, TSH 2.09, HbA1c 6.2, PCR 0.72, Hb 12.6, Hcto 39.6, VCM 90.2, leucos 6520
+(FN), Plaquetas 204000, VSG 9.
+-	TC craneal control (4/12/2017): Pequeño infarto agudo frontal derecho, territorio superficial de ACM.
+
+EVOLUCIÓN:
+Se trata de una paciente de 72 años, con factores de riesgo vascular que presenta cuadro compatible con ictus LACI derecho. A su llegada a urgencias presenta una NIHSS de 7 puntos a expensas de disartria, paresia faciobraquial izquierda e hipoestesia de extremidades izquierdas. Dado que cumple todos los criterios de inclusión y ninguno de exclusión se realiza tratamiento recanalizador a las 18:08h habiendo transcurrido 53 minutos desde el inicio de los síntomas, tiempo puerta-aguja 17 minutos. Se administran 72 mg de rTPA iv (80 kg de peso).
+El paciente ingresa en Unidad de Ictus para monitorización y estudio neurovascular.
+Se valoran al ingreso el estado de ánimo, las necesidades de rehabilitación y se inician fisioterapia y movilización precoces.
+Durante el ingreso evoluciona de forma favorable presentando mejoría de la paresia braquial y de la disartria (NIHSS 4). Se realiza TC craneal de control que muestra pequeño infarto agudo frontal derecho, en territorio superficial de ACM motivo por el cual se inicia estudio de ictus indeterminado con Holter de eventos y ecocardiograma transtorácico (ya tenía angioTC sin hallazgos a destacar).
+No se observan complicaciones hemorrágicas, por lo que se mantiene a la paciente en la unidad de ictus
+24 horas más de monitorización y se inicia doble antiagregación con ácido AAS 100mg + clopidogrel 75mg cada 24h.
+Durante el ingreso se realiza educación sanitaria acerca del ictus. Precisa rehabilitación de la mano y logopedia al alta, por lo que se solicita fisioterapia de forma ambulatoria.
+
+Etiología TOAST Indeterminado. Oxford LACI. Al alta NIHSS 4, Rankin 2.
+Debe seguir controles en CCEE de Neurología en fecha programada. ÍNDEX BARTHEL ALTA : 90.
+
+TRATAMIENTO:
+- ADIRO 100 MG 1-0-0
+-	ATORVASTATINA 40 MG 0-0-1
+-	CLOPIDOGREL 75 MG 1-0-0
+
+Resto de tratamiento habitual sin cambios
+
+
+
+INDICACIONES:
+-	DEBERÁ ACUDIR A REALIZACIÓN DE ECOCARDIOGRAMA EL DIA 5.12.2017.
+-	DEBERÁ ACUDIR A COLOCACIO HOLTER SEMANAL EL 17.1.2018 A LAS 9:15H.
+-	SE CONTACTARÁ PARA PROGRAMAR VISITA EN NEUROLOGÍA POST PRUEBAS.
+-	Se recomienda control estricto de enfermedades que aumentan el riesgo de ictus: hipertensión arterial, diabetes, colesterol elevado (dislipemia) y enfermedades del corazón. Realizar el tratamiento de forma adecuada según las recomendaciones de su médico.
+-	Abstención de tabaco y alcohol
+-	Seguir una dieta adecuada, con poca sal, evitando grasas, especialmente las saturadas (grasas animales, aceites y grasas para cocinar).
+-	Evitar la obesidad y el sobrepeso y realizar ejercicio físico moderado de forma regular.
+
+Dr/a.	_NAME_
+Dr/a.	_NAME_	Dr/a.	_NAME_
+Cap Secció	(Nº Colegiado : _ID_)
+Metge/essa Adjunt
+(Nº Colegiado _ID_Metge/essa Resident
+(Nº Colegiado _ID_
+
+
+Les seves dades personals s'incorporen en un fitxer d´usuaris a fi del seu tractament sanitari. Pot exercir el seu dret d´oposició, accés i rectificació de les dades inexactes dirigint-se al Servei de Documentació Clínica.
+Sus datos personales se incorporan en un fichero de usuarios para su tratamiento sanitario. Puede ejercer su derecho de oposición, acceso y rectificación de los datos inexactos dirigiéndose al Servicio de Documentación Clínica
+
+_SS_ | NIF _ID_ |_LOCATION_ | Telèfon _CONTACT_ | Fax _CONTACT_ | _CONTACT_
+Pàgina 1 de 3

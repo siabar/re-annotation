@@ -1,0 +1,56 @@
+T1	Fecha_de_ingreso 96 106	27/07/2017
+#1	AnnotatorNotes T1	2017-07-27
+T2	HORA 107 112	23:35
+#2	AnnotatorNotes T2	23:35
+T3	Fecha_de_alta 123 133	04/08/2017
+#3	AnnotatorNotes T3	2017-08-04
+T4	_SUG_Ictus_isquemico 366 382	d'Ictus isquèmic
+T5	_SUG_Ataque_isquemico_transitorio 435 440	Ictus
+T7	Hora_inicio_sintomas 799 803	6:45
+#7	AnnotatorNotes T7	06:45
+T8	_SUG_Lateralizacion 1028 1033	dreta
+T9	TAC_craneal 1253 1256	TAC
+T10	_SUG_Ataque_isquemico_transitorio 1562 1567	Ictus
+T11	_SUG_Trombolisis_intravenosa 1619 1629	trombolisi
+T12	_SUG_Lateralizacion 1874 1879	dreta
+T13	_SUG_Lateralizacion 1893 1898	dreta
+T14	_SUG_Lateralizacion 1928 1932	dret
+T15	_SUG_TAC_craneal 1952 1955	TAC
+T16	_SUG_TAC_craneal 1957 1965	AngioTAC
+T17	_SUG_Etiologia 2037 2049	ateromatoses
+T19	_SUG_Ataque_isquemico_transitorio 2145 2156	ictus minor
+T20	_SUG_Lateralizacion 2350 2355	dreta
+T21	_SUG_Lateralizacion 2430 2434	dret
+T22	_SUG_Lateralizacion 3110 3114	dret
+T23	_SUG_Lateralizacion 3311 3319	esquerre
+T24	_SUG_Ictus_isquemico 3713 3719	infart
+T25	_SUG_Lateralizacion 3746 3749	esq
+T26	_SUG_Ataque_isquemico_transitorio 3857 3862	Ictus
+T27	_SUG_Ictus_isquemico 3857 3871	Ictus isquèmic
+T28	_SUG_Lateralizacion 3911 3924	indeterminada
+T29	_SUG_Etiologia 4058 4065	lacunar
+T30	_SUG_Localizacion 4058 4065	lacunar
+T31	_SUG_Lateralizacion 4420 4428	esquerra
+T33	Ictus_isquemico 5011 5025	Ictus isquèmic
+T34	Lateralizacion 5045 5053	esquerra
+T35	Etiologia 5073 5086	indeterminada
+T36	_SUG_Lateralizacion 5124 5129	Dieta
+T37	Tratamiento_antiagregante_alta 5190 5195	Adiro
+T38	_SUG_Lateralizacion 5763 5767	dret
+T39	SECCION_DESTINO_AL_ALTA 273 292	Destinació a l'alta
+T40	SECCION_ANTECEDENTES_PERSONALES 497 518	Antecedents personals
+T41	SECCION_PROCESO_ACTUAL 734 749	Malaltia actual
+T42	SECCION_EXPLORACION_FISICA 872 889	Exploració física
+T43	SECCION_EXPLORACION_FISICA_DURANTE_HOSPITALIZACION 2220 2249	Exploració física a planta MI
+T44	SECCION_EXPLORACIONES_COMPLEMENTARIAS_EN_PLANTA_DE_NEUROLOGIA 2465 2493	Exploracions complementàries
+T45	SECCION_DIAGNOSTICOS 4996 5007	Diagnóstics
+T46	SECCION_TRATAMIENTO_AL_ALTA 5110 5120	Tractament
+T18	mRankin_previa 724 732	Rankin 0
+#4	AnnotatorNotes T18	0
+T6	Fecha_inicio_sintomas 761 765	27/7
+#5	AnnotatorNotes T6	27/07/2017
+T47	Fecha_llegada_hospital 761 765	27/7
+#6	AnnotatorNotes T47	27/07/2017
+T48	SECCION_EXPLORACIONES_COMPLEMENTARIAS_EN_URGENCIAS 1214 1242	Proves complementàries a URG
+T32	Localizacion 5055 5059	POCI
+T49	SECCION_CONTROL 5279 5286	Control

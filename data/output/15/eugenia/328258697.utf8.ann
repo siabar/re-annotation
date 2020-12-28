@@ -1,0 +1,27 @@
+T1	Fecha_de_ingreso 406 415	23/1/2017
+#1	AnnotatorNotes T1	2017-01-23
+T2	Fecha_llegada_hospital 406 415	23/1/2017
+T3	Fecha_de_alta 444 453	26/1/2017
+#3	AnnotatorNotes T3	2017-01-26
+T4	Fecha_inicio_sintomas 550 559	22/1/2017
+#4	AnnotatorNotes T4	2017-01-22
+T5	Hora_inicio_sintomas 566 571	18:30
+#5	AnnotatorNotes T5	18:30
+T6	Hora_llegada_hospital 667 672	04:57
+#6	AnnotatorNotes T6	04:57
+T7	SECCION_ANTECEDENTES_PERSONALES 776 799	Antecedentes personales
+T8	SECCION_EXPLORACION_FISICA 916 934	EXPLORACIÓN FÍSICA
+T9	SECCION_EVOLUCION 3265 3274	Evolución
+T10	SECCION_DESTINO_AL_ALTA 3873 3888	Destino al alta
+T11	SECCION_DIAGNOSTICOS 3937 3949	Diagnósticos
+T12	SECCION_DIAGNOSTICO_PRINCIPAL 3953 3974	Diagnóstico principal
+T13	_SUG_Localizacion 3977 3992	Infarto lacunar
+T14	Ictus_isquemico 3977 3984	Infarto
+T15	Localizacion 3985 3992	lacunar
+T16	Etiologia 3985 3992	lacunar
+T17	Lateralizacion 4002 4011	izquierdo
+T18	SECCION_DIAGNOSTICOS_SECUNDARIOS 4013 4037	Diagnósticos secundarios
+T19	SECCION_PROCEDIMIENTOS 4097 4111	Procedimientos
+T20	SECCION_TRATAMIENTO_AL_ALTA 4233 4252	Tratamiento al alta
+T21	SECCION_RECOMENDACIONES 4381 4421	Recomendaciones de prevención secundaria
+T22	SECCION_CONTROL 4858 4865	Control

@@ -1,0 +1,89 @@
+_LOCATION_
+_LOCATION_
+tel. _CONTACT_
+fax. _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 98 Anys
+NIF/DNI: _ID_Informe d'epicrisi
+18:00:00
+06.11.2017
+_LOCATION_
+_SS_ CONVALESCÈNCIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_
+AGUTS 22.10.2017
+_NAME_
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Pacient que es remitida des de urgencias del _SS_ para seguimiento de ictus isquémica probablemente cardioembólico de la ACM Derecha., en paciente que previamente (24 h antes) habia sido valorada en urgencias como somnolencia secundaria a infección urinaria.
+
+ANTECEDENTS
+Mujer de 98 años, parcialmente dependiente para las ABVD, no hábitos tóxicos, o alergias medicamentosas conocidas, mRs 3.
+Tiene cuidadora 12 h al día y 1h de servicios sociales de la SS, no tiene hijos. ANTECEDENTES PATOLOGICOS:
+-	FIBRILACION AURICULAR PERMANENTE en tratamiento antiagregante.
+
+-	INSUFICIENCIA CARDIACA con FE disminuida. Ecocardiograma TT (abril/2017): función sistólica moderada a severamente deprimida por acinesia de todos los segmentos medios y apicales.
+
+-	PIELONEFRITIS e infecciones urinarias de repetición.
+
+-	DETERIORO COGNITIVO no filiado, leve según cuidadora.
+
+
+
+MEDICACIÓ HABITUAL
+-	AAS 100 mg/día.;   Nitroglicerina 5 mg/día.; Bisoprolol 5 mg: 1 comprimido al día.; Paracetamol 650 mg: 1 comprimido/8 h.; Quetiapina 25 mg: 1/2 comprimido cada 24 h (si precisa).
+
+PROCÉS ACTUAL
+Es llevada a urgencias de _SS_ por presentar somnolencia de 48 h de evolución y deterioro del estado general.
+Es valorada en urgencias, se realiza sedimento urinario que  resulta  patológico. Lo orientan el cuadro como infección del tracto urinario e inicia tratamiento con cefuroxima y la remiten a nuestro centro para convalescencia. En el ingreso inmediato se valora como ictus i es derivada de nuevo a urgencias del _SS_ que confirman el ictus isquémico probablemente cardioembólico de la ACM dercha y devuelven a la apciente el 23.10.17 sobre las 13:oo.
+
+EXPLORACIÓ FÍSICA
+
+NRL: somnoliente, lenguaje hipofluente sin afasia, disartria moderada, tendencia de la mirada conjugada a la derecha, realiza seguimiento de la mirada hasta línea media, reflejo de amenaza abolido lado izquierdo, paresia facio (moderada) braquio (0/5) crural (0/5) izquierda con hipoestesia ipsilateral, Babinski presente lado izquierdo. NIHSS (1-2-1-1-2-2-0-4-0-4-0-1-0-2-0) 20.
+
+Informe d'epicrisi
+
+
+
+
+
+ACV: no signos de fallo cardiaco, ruidos cardiacos arrítmicos. AR: MV preservado, no ruidos sobreagregados.
+GI: abdomen plano, no doloroso, peristaltismo presente.
+
+
+
+EVOLUCIÓ CLÍNICA
+Paciente que ingresa a nuestro centro que en la exploración neurológica presenta un sindrome hemisférico derecho (NIHSS 20)., que se confirma tras ser derivada a UCIAS del _SS_.
+La evolución de la paciente ha sido tórpida, con tendencia paulkatina a la hiporexeia, encamamiento i somnoencia., de forma progresiva, confirmandose el exitus el dia 6.11.17 a las 16:15 h
+
+DIAGNÒSTICS
+434.11/4 AVC cardioembòlic
+427.31 Fibril·lació auricular 428.0/2 ICC
+784.3 Afàsia
+787.60 Incontinència ( completa ) fecal
+438.12 Disfàsia
+438.21 Hemiplegia afectant costat dominant
+
+PROCEDIMENTS
+89.52 Electrocardiograma. ECG NOS, ECG (amb 12 o més derivacions)
+38.93 Altres cateteritzacions venoses
+
+
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+07.11.2017
+Pàgina 1 de 2

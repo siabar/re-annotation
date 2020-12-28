@@ -1,0 +1,115 @@
+_LOCATION_
+email: _CONTACT_ Telèfon _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 82 Anys
+NIF/DNI: _ID_Equipo Dra. _NAME_ (Dra. _NAME_ / Dra. _NAME_)
+Informe d'alta d'hospitalització
+CP	_LOCATION_
+ABS	_SS_
+Servei	NEUROLOGIA
+Data d'alta  28.08.2017	18:01:42
+_LOCATION_
+_CONTACT_
+DOMICIL/RES.SOC 23.08.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Paciente de 82 años de edad que ingresa por debilidad de extremidades izquierdas.
+
+ANTECEDENTS
+1.Hipertensión arterial en tratamiento farmacológico. Refiere buenos controles tensionales. 2.Dislipemia en tratamiento médico.
+3.	Ingreso en Neurología de nuestro centro en septiembre de 2010 para estudio de movimientos coreo-atetósicos en hemicuerpo izquierdo. Se realizó TC craneal, EEG, Duplex TSA/TC y RM cerebral que únicamente mostraron enfermedad microangiopática cerebral  crónica, por lo que se orientó el cuadro  como probables ictus isquémicos transitorios, y se inició antiagregación.
+4.	Hiperuricemia en tratamiento farmacológico.
+5.	Hiperplasia benigna de próstata. Ha presentado episodios catalogados como prostatitis crónica. 6.Espondilosis. Hernias discales
+7.Hernia umbilical intervenida quirúrgicamente.
+
+Situación Sociofuncional: vive con su esposa. Independiente para las ABVD. mRS 1.
+
+MEDICACIÓ HABITUAL
+Amlodipino 5mg 1/24h, Clopidogrel 75mg 1/24h, Hidrosaluretil 50mg /24h, Losartan 100mg 1/24h, Omeprazol 20mg 1/24h, Paracetamol 1g 1/8h, Simvasatina 40mg 1/24h, Zaldiar 37.5/325mg 1/8h, Zyloric 300mg 1/24h.
+
+PROCÉS ACTUAL
+El paciente refiere que el dia 23/08 sobre las 14.30h inicia cuadro de hemiparesia izquierda, por lo que activan SEM que deriva (15h30) y es derivado como Código Ictus a nuestro centro (RACE 6).
+Hora de llegada a este centro: 15h36.
+
+EXPLORACIÓ FÍSICA
+
+EXPLORACION FÍSICA URGENCIAS:
+Constantes: TA 148/64mmHg, FC 71lpm, SpO2 99% aa
+Exploracion Neurologica:  vigil, alerta, POC derecha (1), no HH, LOC Q 2/2, LOC C 2/2, no afasia, disartria moderada (1), no paresia facial. Hemiparesia izquierda (3+3), hemihipoestesia izquierda (1), no agnosias. NIHSS 9
+
+EXPLORACION FÍSICA UNIDAD ICTUS:
+Constantes: TA 139/64 mm Hg. FC 67 bpm. Afebril. BMT 120 mg/dl.
+Exploracion Neurologica: vigil, alerta, no HH, LOC Q 2/2, LOC C 2/2, no afasia, disartria moderada por periodos ininteligible (1). MOEs sin restricciones ni nistagmo. Paresia facial derecha (1). Hemiparesia izquierda (2+2), hemihipoestesia izquierda (1), no agnosias ni extinciones. NIHSS 7.
+
+EXPLORACIÓN FÍSICA EN PLANTA DE NEUROLOGÍA:
+
+Informe d'alta d'hospitalització
+
+
+
+
+Ctes: TA 116/45 mmHg, FC 60 lpm, T 36.5ºC, sat O2 (AA) 96%
+NRL: Vigil, orientado en las 3 esferas. Lenguaje conservado, disartria inteligible (1). Campimetría por confrontación sin déficits. Oculomotricidad conservada, no refiere diplopia ni se objetiva nistagmus. PFSN I (1). Resto de PPCC conservados. Hemiparesia braquio (3/5)-crural (4/5) izquierda (2+1). Refiere hemihipoestesia izquierda (1). NIHSS 6.
+
+EXPLORACIÓ COMPLEMENTÀRIA
+EXPLORACIONES COMPLEMENTARIAS URGENCIAS:
+-Analítica Urgencias: únicamente destaca discreta hipopotasemia.
+
+-Electrocardiograma: ritmo sinusal a 70lpm, eje 20º, PR 0.16s, QRS estrecho, QT 400ms, T negativas en V1, aplanadas en III, V2- y 3, buena progresión de la R en precordiales.
+
+-TC craneal simple + angioTC: hematoma capsulotalamico derecho, DIAMETROS 18 mmAP, 16mm LAT Y 21mm CC . No se observa extension hemorragica ventricular. Calcificaciones en ganglios basales,bilaterales El estudio angiotac multifase realizado (PREDICT) no muestra extravasacion de contraste.
+
+EXPLORACIONES COMPLEMENTARIAS UNIDAD ICTUS:
+-Analítica Ingreso: nada destacable (se adjunta)
+
+-TC craneal control: Práctica estabilidad del tamaño y efecto masa del hematoma talámico izquierdo.
+
+EVOLUCIÓ CLÍNICA
+Se trata por tanto de paciente de 82 años que es traido como Código Ictus (Código Angio), por cuadro de hemiparesia izquierda (RACE 6). A su llegada a urgencias se encuentra hipertenso y con hemiparesia
+sensitivo-motora izquierda. Llega a la sala de angiografía a las 15:46, visualizándose en neuroimagen un hematoma de ganglios basales derecho agudo. El estudio AngioTC no muestra spot sign. Por hipertensión arterial requiere de bolus de Urapidilo, tras lo que presenta un control aceptable de las cifras de TA, y no requiere perfusión endovenosa.
+
+El paciente ingresa en la Unidad de Ictus para control evolutivo. Durante su ingreso en la Unidad se ha mantenido estable clínicamente, con mejoria neurologica parcial de su déficit motor (a las 48h, presenta hemiparesia izquierda y disartria leve, NIHSS=6). Se realiza un TC craneal de control que muestra estabilidad del hematoma cerebral. Se ha iniciado ingesta oral y rehabilitación motora en gimansio sin complicaciones.
+
+El paciente ingresa en planta de Neurología, donde se ha mantenido estable en todo momento, sin incidencias a destacar. Continua rehabilitación con buena evolución. Dada la estabilidad, se contacta por criterio de sectorización con hospital de referencia (_SS_) que acepta el traslado para convalecencia y rehabilitación. En el momento del alta, el paciente se encuentra hemodinámicamente estable y afebril.
+
+DIAGNÒSTICS
+1.	Hematoma capsulotalamico derecho de probable etiología hipertensiva
+2.	Hipertension arterial
+1.	
+Informe d'alta d'hospitalització
+
+
+
+PROCEDIMENTS
+Analítica general (x2), electrocardiograma, radiografía de tórax, TC craneal (x2), angioTC craneal
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Dieta sin sal baja en grasas Control estricto de TA
+
+1.	Omeprazol 20 mg, 1 comprimido cada 24 horas por la mañana
+2.	Enoxaparina 20 mg, 1 inyección subcutánea cada 24 horas
+3.	Hidroclorotiazida 50 mg, 1 comprimido cada 24 horas con el desayuno
+4.	Amlodipino 5 mg, 1 comprimido cada 24 horas con la comida
+5.	Losartan 50 mg, 1 comprimido cada 24 horas con la comida
+6.	Alopurinol 300 mg, 1 comprimido cada 24 horas
+7.	Paracetamol 1 g, 1 comprimido cada 8 horas si precisa
+
+CONTROL
+Control por médico de Atención Primaria y Neurología de hospital de referencia.
+
+DESTINACIÓ A L'ALTA:	HOSP. AGUTS/PSQ
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+28.08.2017
+Pàgina 1 de 3

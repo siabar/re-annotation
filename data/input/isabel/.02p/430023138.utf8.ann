@@ -1,0 +1,114 @@
+T0	FECHA 233 243	28.09.2017
+#0	AnnotatorNotes T0	2017-09-28
+T1	HORA 246 251	23:58
+#1	AnnotatorNotes T1	23:58
+T2	FECHA 295 305	28.09.2017
+#2	AnnotatorNotes T2	2017-09-28
+T3	HORA 308 313	18:26
+#3	AnnotatorNotes T3	18:26
+T4	SECCION_MOTIVO_DE_INGRESO 381 395	Motivo ingreso
+T5	SECCION_ANTECEDENTES 440 452	ANTECEDENTES
+T6	_SUG_Etiologia 496 508	Hipertensión
+T7	_SUG_Tratamiento_anticoagulante_alta 619 626	Sintrom
+T8	_SUG_Tratamiento_anticoagulante_hab 619 626	Sintrom
+T9	FECHA 642 646	2012
+#9	AnnotatorNotes T9	2012-UNDEF-month-UNDEF-day
+T10	_SUG_Arteria_afectada 802 824	arteria cerebral media
+T11	_SUG_Lateralizacion 825 834	izquierda
+T12	_SUG_Etiologia 848 862	cardioembólica
+T13	FECHA 904 919	Septiembre 2012
+#13	AnnotatorNotes T13	2012-09-UNDEF-day
+T14	_SUG_Tratamiento_anticoagulante_alta 969 980	Rivaroxaban
+T15	_SUG_Tratamiento_anticoagulante_hab 969 980	Rivaroxaban
+T16	FECHA 1109 1113	2000
+#16	AnnotatorNotes T16	2000-UNDEF-month-UNDEF-day
+T17	_SUG_Lateralizacion 1315 1322	derecho
+T18	FECHA 1494 1506	Octubre 2017
+#18	AnnotatorNotes T18	2017-10-UNDEF-day
+T19	_SUG_Tratamiento_anticoagulante_alta 1607 1618	rivaroxaban
+T20	_SUG_Tratamiento_anticoagulante_hab 1607 1618	rivaroxaban
+T21	_SUG_Tratamiento_anticoagulante_alta 1676 1683	Sintrom
+T22	_SUG_Tratamiento_anticoagulante_hab 1676 1683	Sintrom
+T23	_SUG_Lateralizacion 1971 1978	derecho
+T24	_SUG_Etiologia 2224 2232	habitual
+T25	_SUG_Tratamiento_anticoagulante_alta 2268 2275	sintrom
+T26	_SUG_Tratamiento_anticoagulante_hab 2268 2275	sintrom
+T27	_SUG_mRankin_alta 2634 2642	mRS de 3
+T28	_SUG_mRankin_previa 2634 2642	mRS de 3
+T29	SECCION_PROCESO_ACTUAL 2645 2662	ENFERMEDAD ACTUAL
+T30	FECHA 2691 2696	28/09
+#30	AnnotatorNotes T30	2017-09-28
+T31	HORA 2703 2708	17.00
+#31	AnnotatorNotes T31	17:00
+T32	_SUG_Ictus_isquemico 2861 2866	ictus
+T33	HORA 2919 2924	18.34
+#33	AnnotatorNotes T33	18:34
+T34	SECCION_EXPLORACION_FISICA 2929 2947	EXPLORACIÓN FÍSICA
+T35	_SUG_NIHSS_alta 3333 3375	NIHSS: 0.1.0.0.0.0/0(0.0)(0.0)/0.0.2.0.0=3
+T36	_SUG_NIHSS_previa 3333 3375	NIHSS: 0.1.0.0.0.0/0(0.0)(0.0)/0.0.2.0.0=3
+T37	FECHA 3425 3430	29.09
+#37	AnnotatorNotes T37	2017-09-29
+T38	_SUG_Lateralizacion 3511 3518	derecha
+T39	_SUG_NIHSS_alta 3674 3716	NIHSS: 1.2.2.1.2 / 0.0+1.0+0/ 0.0.3.0.0=12
+T40	_SUG_NIHSS_previa 3674 3716	NIHSS: 1.2.2.1.2 / 0.0+1.0+0/ 0.0.3.0.0=12
+T41	_SUG_NIHSS_alta 4075 4083	NIHSS: 1
+T42	_SUG_NIHSS_previa 4075 4083	NIHSS: 1
+T43	_SUG_Lateralizacion 4100 4106	drecha
+T44	SECCION_EXPLORACIONES_COMPLEMENTARIAS 4109 4138	EXPLORACIONES COMPLEMENTARIAS
+T45	HORA 4275 4279	4.10
+#45	AnnotatorNotes T45	04:10
+T46	HORA 4867 4872	13.10
+#46	AnnotatorNotes T46	13:10
+T47	_SUG_TAC_craneal 5137 5147	TC craneal
+T48	_SUG_ASPECTS 5193 5203	ASPECTS 10
+T49	_SUG_TAC_craneal 5207 5217	TC craneal
+T50	_SUG_TAC_craneal 5271 5281	TC craneal
+T51	_SUG_Lateralizacion 5696 5705	izquierda
+T52	_SUG_TAC_craneal 5714 5716	TC
+T53	_SUG_Lateralizacion 6149 6158	izquierda
+T54	_SUG_Localizacion 6168 6179	ventricular
+T55	SECCION_EVOLUCION 6613 6622	EVOLUCIÓN
+T56	_SUG_NIHSS_alta 6815 6825	NIHSS de 3
+T57	_SUG_NIHSS_previa 6815 6825	NIHSS de 3
+T58	_SUG_TAC_craneal 6838 6848	TC craneal
+T59	_SUG_NIHSS_alta 6986 6991	NIHSS
+T60	_SUG_NIHSS_previa 6986 6991	NIHSS
+T61	_SUG_Ictus_isquemico 7055 7070	ictus isquémico
+T62	_SUG_Etiologia 7085 7099	cardioembólico
+T63	_SUG_Tratamiento_anticoagulante_alta 7184 7192	heparina
+T64	_SUG_Tratamiento_anticoagulante_hab 7184 7192	heparina
+T65	FECHA 7302 7307	29/09
+#65	AnnotatorNotes T65	2017-09-29
+T66	_SUG_Ictus_isquemico 7399 7404	ictus
+T67	_SUG_TAC_craneal 7428 7438	TC craneal
+T68	_SUG_Lateralizacion 8168 8175	derecha
+T69	_SUG_Tratamiento_anticoagulante_alta 8605 8612	Sintrom
+T70	_SUG_Tratamiento_anticoagulante_hab 8605 8612	Sintrom
+T71	_SUG_Tratamiento_anticoagulante_alta 8617 8624	Xarelto
+T72	_SUG_Tratamiento_anticoagulante_hab 8617 8624	Xarelto
+T73	_SUG_Tratamiento_anticoagulante_alta 8626 8637	Rivaroxaban
+T74	_SUG_Tratamiento_anticoagulante_hab 8626 8637	Rivaroxaban
+T75	_SUG_Tratamiento_anticoagulante_alta 8813 8820	Xarelto
+T76	_SUG_Tratamiento_anticoagulante_hab 8813 8820	Xarelto
+T77	_SUG_Etiologia 9319 9327	habitual
+T78	_SUG_mRankin_alta 9359 9362	mRS
+T79	_SUG_mRankin_previa 9359 9362	mRS
+T80	_SUG_NIHSS_alta 9375 9380	NIHSS
+T81	_SUG_NIHSS_previa 9375 9380	NIHSS
+T82	SECCION_PROCEDIMIENTOS 9415 9429	PROCEDIMIENTOS
+T83	_SUG_TAC_craneal 9436 9446	TC craneal
+T84	SECCION_DIAGNOSTICOS 9521 9533	DIAGNÓSTICOS
+T85	SECCION_TRATAMIENTO_Y_RECOMENDACIONES_AL_ALTA 9749 9786	TRATAMIENTO Y RECOMENDACIONES AL ALTA
+T86	SECCION_TRATAMIENTO_AL_ALTA 9787 9806	Tratamiento al alta
+T87	_SUG_Tratamiento_anticoagulante_alta 9858 9865	Xarelto
+T88	_SUG_Tratamiento_anticoagulante_hab 9858 9865	Xarelto
+T89	_SUG_Tratamiento_anticoagulante_alta 10084 10091	Sintrom
+T90	_SUG_Tratamiento_anticoagulante_hab 10084 10091	Sintrom
+T91	_SUG_Etiologia 10118 10126	habitual
+T92	_SUG_Tratamiento_anticoagulante_alta 10162 10169	sintrom
+T93	_SUG_Tratamiento_anticoagulante_hab 10162 10169	sintrom
+T94	_SUG_Etiologia 10394 10406	hipertensión
+T95	FECHA 11371 11381	13.10.2017
+#95	AnnotatorNotes T95	2017-10-13
+T96	FECHA 11459 11469	13.10.2017
+#96	AnnotatorNotes T96	2017-10-13

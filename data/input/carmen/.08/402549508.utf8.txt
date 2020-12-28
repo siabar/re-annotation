@@ -1,0 +1,157 @@
+_LOCATION_ Tel. _CONTACT_
+e-mail: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 87 Anys
+NIF/DNI: _ID__NAME_; _NAME_;
+ _NAME_
+Informe d'alta d'hospitalització
+15:31:00
+23.08.2017
+_LOCATION_
+_SS_ NEUROLOGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_; _CONTACT_; _CONTACT_; DOMICIL/RES.SOC
+15.08.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Hemiparesia derecha y trastorno del lenguaje
+
+ANTECEDENTS
+Mujer de 87 años, sin alergias medicamentosas conocidas, sin hábitos tóxicos.
+
+Situación funcional previa: mRS 3. Precisa supervisión para la ducha y para salir de casa, no sale sola de casa. Camina con bastón. Independiente para la higiene personal, la comida y el vestir.
+
+ANTECEDENTES PATOLÓGICOS:
+-Hipertensión arterial en tratamiento médico con ARA-II y diuréticos.
+-Diabetes mellitus 2 en tratamiento con ADOs.
+-Dislipemia en tratamiento con estatinas.
+-Insuficiencia renal crónica leve (creatininas habituales de1.2mg/dl).
+-Hiperuricemia sin tratamiento médico.
+-Adenocarcinoma de colon trasverso, intervenida el día 15.05.2017 mediante hemicolectomía derecha ampliada, anastomosis ileo-cólica mecánica y reparación con malla. Requirió transfusión sanguínea post-intervención. AP: Adenocarcinoma de bajo grado colónico ulcerado que infiltra tejido adiposo subseroso con 26 ganglios linfáticos negativos (pT3NO). Invasión tumoral perineural y focal y desdiferenciación tumoral periférica (budding tumoral).
+-	Cólico renal derecho con infección de orina, por lo que el 27.07.2017 se colocó catéter doble J.
+-	Gastritis crónica
+-	Coxartrosis
+-	Otras intervenciones: hernia hiatal, colecistectomía hace más de 30 años.
+
+MEDICACIÓ HABITUAL
+Ferro-Gradumet  105mg  1  comprimido/día,  metformina  850mg/24h,  losartan/hidroclorotiazida  50/12.5mg/24h, omeprazol 20mg/24h, simvastatina 20mg/24h
+
+PROCÉS ACTUAL
+La paciente presenta caída al suelo con hemiparesia derecha y alteración de la emisión del lenguaje el día 15/08/2017 a las 10:45h. Avisan al SEM, que activa el código ictus a las 10:54h con un valor en la escala RACE de
+8. Llega a nuestro centro a las 11:42 horas
+
+
+EXPLORACIÓ FÍSICA
+
+Glucemia: 98 mg/dl
+
+Exploración neurológica en Urgencias: Vigil. Orientación no valorable por afasia. No obedece órdenes simples. Afasia  global  con  mutismo.  Preferencia  oculocefálica  a  la  izquierda  que  cruza  linea  media.  Hemianopsia
+
+Informe d'alta d'hospitalització
+
+
+
+
+homónima derecha por reflejo de amenaza. Paresia facial central derecha. Hemiplegia derecha. Sensibilidad no valorable. Babinski derecho, flexor izquierdo.
+
+NIHSS=(0.2.2)1.2/2(4.0)(3.0)/0. 1.3.2.0=22
+
+Exploración sistémica: AC: tonos cardíacos rítmicos sin soplos ni roces. AR: MVC bilateral sin ruidos sobreñadidos. Abdomen globuloso, algo distendido, sin signos de peritonismo. EEII sin edemas ni signos de TVP. Pulsos periféricos presentes y simétricos.
+
+Exploración neurológica en ingreso en Unidad de Ictus: Consciente, vigil. Disartria. Afasia fluente con disgramatismo y neologismos, no nomina, no repite, ejecuta órdenes sencillas, no ejecuta órdenes complejas. No asimetría facial. Claudicación distal leve de extremidad superior derecha. Paresia 4/5 de extremidad superior derecha. Hipoestesia derecha sin anestesia.
+NIHSS 0.2.0.0.0//0(00)(10)//0.1.2.1.0= 7
+
+
+EXPLORACIÓ COMPLEMENTÀRIA
+ECG: ritmo sinusal a 50lpm, eje -120º pR 0.16seg, QRS estrecho, sin alteraciones agudas de la repolarización.
+
+Neuroimagen basal: TC simple y AngioTC (15/08/2017, 11:58): ASPECTS 8 (lenticular e ínsula). Oclusión de arteria cerebral media izquierda a nivel de M1.
+
+Analíticas:
+Urgencias (15.08.2017): Hematologia (15/08/17): Leucòcits 6500 /µL, (N 52,1 % / L 36,4 / M 6,2 / E 4,3 / B 1),
+Hties 4,03 mill/µL, Hb 11,6 g/dL, Hct 35,3 %, VCM 87,7 fL, Plaquetes 207000 /µL, TP 96 %, INR 1,03 sg, TP ratio
+1,03, TTPA 24,9 sg, TTPA ratio 0,8, Fibrinogen 426 mg/dL.
+Bioquimica (15/08/17): Glucosa 107 mg/dL, Urea 49,4, Creatinini 1,26, Na 142,6 mmol/L, K 3,6, Prot-C reactiva 1,9 mg/L.
+Analítica de ingreso (16.08.2017): Bioquimica (16/08/17): Glucosa 104 mg/dL, HbA1c 5,9 %,Urea 35 mg/dL, Creatinina 1,09, Filtrat glomerular estimat 46 mL/min/1.73 m2, Osmolalitat 286 mOsm/Kg, Urat 7,2 mg/dL, Ca 8,5,
+Mg  1,45,  Na  140,3  mmol/L,  K  3,51,  ALT  13  U/L,  CK  159,  Prot-C  reactiva  3,9  mg/L,  Proteïna  66,6  g/L.
+Proteinograma.- Pendiente. Lípids.- Triglicèrid 195 mg/dL, Colesterol 137, (HDL 40,6 / LDL 57).
+Control (17.08.2017): Hematologia (17/08/17): Leucòcits 8400 /µL, (N 61,2 % / L 28,3 / M 6 / E 3,8 / B 0,7), Hties
+3,85 mill/µL, Hb 11,2 g/dL, Hct 33,4 %, VCM 86,9 fL, Plaquetes 191000 /µL.
+Bioquimica (17/08/17): Glucosa 99 mg/dL, Urea 32, Creatinini 1,16, Filtrat glomerular estimat 42 mL/min/1.73 m2, Na 139,7 mmol/L, K 3,57, ALT 12 U/L, FA 188, LDH 221, Bilirubina 0,51 mg/dL, Proteïna 65,4 g/L.
+Marcadores Tumorales (17/08/17): CEA 2 ng/ml, a-FP 2,31.
+Sedimento (17.08.2017): Orina (17/08/17): Densidad 1,008, pH 5,5, Proteína 20 mg/dL, Glucosa [-], C Cetonicos 0 mg/dL, Bilirrubina [-], Hb [-], Urobilinogeno 0,2 mg/dL, Nitritos [-], Esterasa leucocitica 500 leucos/µL, Bacterias 754, Eritrocitos >100 /cmp, Leucocitos 40-60.
+
+Urocultivo 17/08/2017): Klebsiella Pneumoniae BLEE. Ampicil·lina >16 R Amoxicil·lina/àcid clavulànic >16/8 R Cefalotina >16 R Cefuroxima >16 R Cefotaxima >32 R Cefepima >16 R Meropenem <=1 S Gentamicina <=2 S Ciprofloxacina >2 R Trimetroprim/Sulfametoxazole >4/76 R Fosfomicina >64 R
+Estudio Multiresistentes (21/08/17): Frotis Rectal Acinetobacter (negativo), BLEEs positivo Klebsiella Pneumoniae Frotis nasal: MRSA (negativo)
+
+Informe d'alta d'hospitalització
+
+
+
+
+TC craneal control post-fibrinolisis (16.08.2017):Aparición de un área de baja atenuación de localización en región insular, lenticular y región subcortical parietal izquierda secundaria a lesión isquémica subaguda de ramas de ACM izquierda sin evidenciarse signos de transformación hemorrágica TC valorable. Aparición de un área de baja atenuación de localización en región insular y lenticular derecha secundaria a lesión isquémica subaguda de ramas de ACM derecha sin evidenciarse signos de transformación hemorrágica TC valorable.
+
+Ecocardiograma transtorácico (16.08.2017): Ventrículo izquierdo ligeramente hipertrófico, no dilatado, con función sistólica global y segmentaria conservadas. Aurícula izquierda moderadamente dilatada. Esclerosis de válvulas y ateromatosis aórtica no significativa.
+
+Estudio neurosonológico (17.08.2017): ACM izquierda permeable hasta bifurcación e inicio de M2 sin patrón de flujo de oclusión distal. Estudio shunt derecha-izquierda negativo.
+
+EVOLUCIÓ CLÍNICA
+Mujer de 87 años con factores de riesgo cardiovascular y neoplasia de colon intervenida el 15.05.2017 y colocación de catéter doble J el día 27.07.2017, que es traída a Urgencias el día 15.08.2017 vía código ictus por hemiparesia derecha y alteración de la emisión del lenguaje de 1 hora de evolución. A su llegada a Urgencias, hemodinámicamente estable y afebril. ECG en ritmo sinusal. En la exploración neurológica, presenta clínica hemisférica izquierda completa puntuando en la escala NIHSS de 22. Se realiza una analítica que no muestra alteraciones y un TC craneal con angioTC que muestra ASPECTS 8 (lenticular e ínsula) y oclusión de arteria cerebral media izquierda a nivel de M1 sin patología carotídea significativa concomitante. Se informa a la familia de los resultados de  las exploraciones complementarias y se comenta con Urología el riesgo de sangrado de la colocación del catéter doble J hace 2 semanas, que es bajo (leve hematuria). Se decide conjuntamente con la familia tratamiento con fibrinólisis sistémica, previa firma del consentimiento informado. Se inicia tratamiento con rTPA a las 12:19h (TA prebolus de 145/62mmHg, dosis total de 58.5mg, tiempo puerta-aguja de 37min).
+Posteriormente al bolus, la paciente presenta mejoría clínica a expensas del déficit motor, persistiendo afasia mixta (NIHSS=0.2.2.1.2/2(1.0)(1.0)/0. 1.3.2.0=17).
+Se orienta como ictus isquémico de territorio de ACM izquierda de mecanismo embólico y etiología a estudio. Se decide ingreso en Unidad de Ictus (UIA) para control y estudio.
+
+Durante su estancia, la paciente se mantiene hemodinámicamente estable, con algún episodio puntual de hipertensión, con tensión sistólica máxima de 160 mmHg. Presenta mejoría clínica durante las primeras 24 horas, a expensas sobre todo de déficit motor, puntuando al alta de la UIA un NIHSS de 19. Se ha iniciado sedestación y dieta oral con buena tolerancia. Asimismo, ha sido valorada por el servicio de Rehabilitación quien pauta tratamiento con fisioterapia, logopedia y terapia ocupacional.
+
+Como complicación, ha presentado infección del tracto urinario, inciándose ceftriaxona de forma empírica desde el 17/08 con urocultivo positivo para Klebsiella BLEE sensible a meropenen y amikacina. Se sustituye, por tanto ceftriaxona por meropenem1 g/8 h desde el 21/08 permaneciendo afebril desde entonces. También presenta un frotis rectal positivo para Klebsiella Pneumoniae. También ha presentado episodios de agitación que han requerido de administración de neurolépticos.
+
+Informe d'alta d'hospitalització
+
+
+
+
+Dentro del estudio etiológico, la monitorización ECG contínua ha mostrado bradicardia sinusal que compite con un ritmo de escape probablemente ventricular a 50x' y también se ha registrado un paroxismo que se corresponde a un flutter auricular a 55x'. La analítica de ingreso muestra perfil glucémico y lipídico sin alteraciones, con marcadores tumorales negativos. El TC de control post-tratamiento fibrinolítico muestra lesiones isquémicas hemisféricas bilaterales en territorio de ambas ACM sin signos de transformación hemorrágica, por lo que se ha iniciado antiagregación con aspirina. Se ha realizado ecocardiograma transtorácico que muestra aurícula izquierda moderadamente dilatada, sin otras alteraciones. Estudio neurosonológico que muestra ACM izquierda permeable hasta inicio de M2, con estudio de shunt derecha-izquierda negativo. Por el hallazgo de ritmo ventricular objetivado por telemetría con algún paroxismo de flutter vs fibrilación auricular, ha sido valorada por Cardiología , que lo considera como una disfunción sinusal asintomática atribuída a la edad, sin precisar más exploraciones complementarias. Al haberse producido un ictus isquémico y por la edad y antecedente de hipertensión arterial de la paciente, se decide iniciar anticogulación con dicumarínicos como prevención secundaria el lunes 21 de agosto de 2017.
+
+Se orienta como un ictus isquémico de ambas arterias cerebrales medias de mecanismo embólico y etiología cardioembólica. Previa solicitud, se traslado a centro hospitalario de referencia (_SS_)
+
+En el momento del alta hospitalaria
+NIHSS (0.2.2)/0.2/2.(0.0)(0.0)/0.1.2. 1.0=12 mRS:5
+
+
+
+DIAGNÒSTICS
+436/5 Ictus isquémico de ambas arterias cerebrales medias de mecanismo embólico y etiología cardioembólica Hipertensión arterial
+Diabetes Mellitus Dislipemia Adenocarcinoma de colon
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Se adjunta tratamiento
+
+CONTROL
+Se traslada a centro hospitalario de referencia (_SS_)
+
+DESTINACIÓ A L'ALTA:	HOSP. AGUTS/PSQ
+
+
+
+
+
+
+
+
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+23.08.2017
+Pàgina 1 de 4

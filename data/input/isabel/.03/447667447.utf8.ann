@@ -1,0 +1,57 @@
+T1	Fecha_llegada_hospital 359 369	19/11/2017
+#1	AnnotatorNotes T1	2017-11-19
+T2	Hora_llegada_hospital 370 375	21:25
+#2	AnnotatorNotes T2	21:25
+T3	Fecha_de_ingreso 433 443	19/11/2017
+#3	AnnotatorNotes T3	2017-11-19
+T4	HORA 444 449	22:30
+#4	AnnotatorNotes T4	22:30
+T6	_SUG_TAC_craneal 671 674	TAC
+T8	FECHA 852 856	2009
+#8	AnnotatorNotes T8	2009-UNDEF-month-UNDEF-day
+T9	_SUG_Trombolisis_intravenosa 907 927	tratamiento con ADOs
+T10	FECHA 971 976	10/17
+#10	AnnotatorNotes T10	2017-10-UNDEF-day
+T11	_SUG_Lateralizacion 995 1000	DRETA
+T13	_SUG_Hemorragia_cerebral 1694 1702	HEMATOMA
+T14	Lateralizacion 1722 1729	derecho
+T15	Fecha_inicio_sintomas 1735 1743	19/11/17
+#15	AnnotatorNotes T15	2017-11-19
+T17	_SUG_Lateralizacion 1891 1900	izquierdo
+T18	_SUG_Ataque_isquemico_transitorio 1990 1995	ictus
+T19	_SUG_TAC_craneal 2070 2072	TC
+T20	_SUG_Hemorragia_cerebral 2096 2104	hematoma
+T21	_SUG_Lateralizacion 2124 2131	derecho
+T22	_SUG_Lateralizacion 2503 2511	esquerre
+T23	_SUG_Lateralizacion 2790 2797	derecha
+T24	_SUG_Lateralizacion 2978 2987	izquierda
+T25	_SUG_Lateralizacion 3079 3088	bilateral
+T26	_SUG_Localizacion 3583 3590	parcial
+T27	TAC_craneal 3714 3716	TC
+T28	Fecha_TAC_inicial 3724 3732	19/11/17
+#28	AnnotatorNotes T28	2017-11-19
+T29	_SUG_Hemorragia_cerebral 3735 3743	Hematoma
+T30	_SUG_Lateralizacion 3761 3765	dret
+T31	_SUG_Hemorragia_cerebral 4153 4163	HEMORRAGIA
+T32	_SUG_Localizacion 4164 4179	GANGLIOCAPSULAR
+T33	_SUG_Lateralizacion 4180 4187	DERECHA
+T34	_SUG_Lateralizacion 4341 4350	izquierda
+T35	FECHA 4418 4428	19/11/2017
+#35	AnnotatorNotes T35	2017-11-19
+T36	SECCION_TIPO_DE_INGRESO 450 464	Tipus d'ingrés
+T37	SECCION_DIAGNOSTICO_PRINCIPAL 527 547	Diagnòstic principal
+T38	SECCION_PROCEDIMIENTOS 573 585	Procediments
+T39	SECCION_ANTECEDENTES 689 700	Antecedents
+T40	SECCION_ANTECEDENTES_PATOLOGICOS 703 720	Malalties prèvies
+T41	SECCION_TRATAMIENTO_HABITUAL 1232 1248	Medicació prèvia
+T42	SECCION_SITUACION_FUNCIONAL 1532 1550	Situació funcional
+T43	SECCION_PROCESO_ACTUAL 1614 1629	Història Actual
+T44	SECCION_EXPLORACION_FISICA 2227 2244	Exploració física
+T45	SECCION_EXPLORACIONES_COMPLEMENTARIAS 3119 3147	Resum proves complementàries
+T46	SECCION_EVOLUCION 4008 4029	Evolució i comentaris
+T47	SECCION_TRATAMIENTO_AL_ALTA 4374 4384	Tractament
+T7	Hemorragia_cerebral 554 571	HEMATOMA CEREBRAL
+T5	Hora_inicio_sintomas 1781 1783	16
+T12	SECCION_EXPLORACION_FISICA_EN_URGENCIAS 2249 2279	A la seva arribada a urgències
+T16	SECCION_EXPLORACION_FISICA_DURANTE_HOSPITALIZACION 2648 2688	A su llegada a la unidad de semicríticos
+T48	Localizacion 1709 1721	GANGLIOBASAL

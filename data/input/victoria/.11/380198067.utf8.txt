@@ -1,0 +1,146 @@
+
+INFORME DE ALTA
+Medicina Interna. Unidad de neurología. Unidad de Ictus.
+
+
+
+Paciente: _NAME_
+
+
+Número de historia clínica: _ID_
+
+
+Fecha de nacimiento y sexo: _DATE_  DONA	Edad: 57 Régimen económico:  CatSalut-Propi CIP: _ID_	ABS/CAP:		Médico de cabecera: Dirección: _LOCATION_  Teléfono: _CONTACT_
+Fecha ingreso servicio: 11/06/2017	Fecha alta servicio: Data alta servei
+
+
+Fecha ingreso hospitalización: 11/6/2017	Fecha alta hospitalización: 12/6/2017
+
+
+
+Paciente que se acostó asintomática a la 1 de la madrugada. El dia 11/6 se despierta a las 12 de la mañana con alteración del habla por lo que han llamado a la ambulancia.
+La paciente había consultado a urgencias el 28/05/17 por clínica de hipoestesia en hemicara izquierda. Se completa el estudio con TC craneal. Es dada de alta con la orientación diagnostica de neuralgia.
+
+
+HISTORIAL MEDICO:
+Alergias: No conocidas
+Hábitos tóxicos: niega
+Antecedentes personales i patológicos:
+·	Hipertensión arterial
+·	Diabetes mellitas tipo II insulinodependiente
+·	Dislipemia
+Valoración integral: autónoma para las ABVD
+Tratamiento habitual: adiro, lantus, enalapril
+
+EXPLORACIÓN FÍSICA:
+Constantes: TA 194/106  FC 98lpm Spo2 94% Glicemia 264 Tª 37.5º
+Exploración por aparatos: consciente AC tonos rítmicos sin soplos AP MVC sin ruidos Abdomen blando depresible no doloroso EEII sin edemas ni signos de TVP
+Xantelasmas
+Vigil,  orientada,  disartria,  paresia  facial  central  izquierda  (hipoestesia  peribucal  izquierda  residual),  resto  de exploracion normal.
+RMP 2/5
+RCP flexor bilateral.
+
+NIHSS 3
+
+EXPLORACIONES COMPLEMENTARIAS:
+Analítica:
+Glucosa sèrum 276 mg/dL (70 - 105)
+Urea sèrum 27 mg/dL (10 - 50)
+Creatinina sèrum 0.61 mg/dL (0.50 - 0.90)
+Filtrat glomerular estimat >90 mL/min/1.7 (>90)
+Sodi 138 mmol/L (135 - 146)
+Potassi 4.1 mmol/L (3.5 - 5.1)
+Clor 100 mmol/L (98 - 111) HEMOGRAMA
+Hematies 5.55 x10^6/ul (3.8 - 4.8)
+Hemoglobina 15.9 g/dL (12 - 15)
+Hematòcrit 45.8 % (36 - 46)
+
+VCM 82.5 fL (83 - 101)
+HCM 28.6 pg (27 - 32)
+CHCM 34.7 g/dL (31.5 - 34.5)
+RDW-CV 12.6 % (11.6 - 14)
+Leucòcits 13.34 x10^3/uL (4 - 10)
+Neutròfils % 69.0 % (40 - 80)
+Neutròfils total 9.22 x10^3 /uL (2 - 7)
+Linfòcits % 22.9 % (20 - 40)
+Linfòcits total 3.05 10^3/uL (1 - 3)
+Monòcits % 6.1 % (3.8 - 15.5)
+Monòcits total 0.81 x10^3/uL (0.2 - 1)
+Eosinòfils % 1.3 % (1 - 6)
+Eosinòfils total 0.17 x10^3/uL (0.02 - 0.5)
+Basòfils % 0.7 % (0.2 - 2)
+Basòfils total 0.09 x10^3/uL (0.02 - 0.1)
+Plaquetes 329 x10^3/uL (150 - 410)
+VPM 11.6 fL (9.4 - 12.6)
+Temps de protrombina (rati) 0.91 (0.8 - 1.2)
+T. tromboplastina parcial activada (0.8 - 1.2)(rati) plasma0.92
+TC craneal: infarto lacunar capsulo talamico derecho antiguo, no visible en la TC craneal del dia 28/5 E.C.G.: RS a 90lpm PR 120mseg   QRS 80mseg sin alteraciones en la repolarización
+Duplex TSA: normal
+Duplex TC: normal en todos los territorios insonados (ACA, ACM, ACP, y vertebrales)
+Ecocardiografia TT (12/6/2017): AI 34 mm, TIV 13 mm, No defectos segmentarios de la contractilidad. Estructuras valvulares normales. Estudio compatible con miocardiopatía hieprtensiva
+
+
+Evolución y tratamiento realizado
+
+
+Paciente mujer de 57 a que el día 28/5 acude a UCIAS por hipoestesia facial izquierda. Acude de nuevo a UCIAS por episodio de déficit motor izquierdo en forma de alteración en el habla y paresia facial central izquierda al despertar.
+Se activa código ictus y dado el tiempo de evolución se remite el _SS_ donde se completa TC multimodal que es normal por lo que se desestima tratamiento de revascularización.
+
+Se completa el estudio vascular con ecocardiografía y Duplex TSA/TC que descarta fuente cardioembólica o lesión arterial significativa.
+
+La paciente es dada de alta con la orientación diagnostica de infarto lacunar capsular por patología de pequeño vaso. Se remite a la Unidad de FRV para control de los mismos.
+
+Destino al alta:	domicilio	
+Rankin (alta): 1	NIHSS (alta):	2
+
+
+
+Diagnósticos
+
+
+
+Diagnóstico principal
+o	Infarto lacunar capular derecho por patologia de pequeño vaso
+
+Diagnósticos secundarios:
+o	HTA
+o	DM
+o	Dislipemia
+o	Miocardiopatia hipertensiva.
+
+Procedimientos:
+o	TC craneal
+o	Ecocardiografia TT
+o	
+o	Analitica
+o	Duplex TSA
+o	Duplex Transcraneal o	ECG
+
+Tratamiento al alta
+
+
+Dieta diabetica baja en sal y en grasas.:
+Atorvastatina 80 mg, 0-0-1
+Clopidogrel 75 0-1-0
+Capenon 20/5, 1-0-0 Lantus sin cambios
+Recomendaciones de prevención secundaria
+
+
+o	Caminar cada día, mínimo 1/2 hora
+o	Perder peso, hasta conseguir perímetro abdominal en hombres por debajo de 108 cm. y 88 cm. en mujeres.
+o	Dieta rica en verduras, frutas y legumbres.
+o	Mantener tensión arterial por debajo de 130 /80 mm. Hg. En diabéticos por debajo de 120/75
+o	Mantener cifras de colesterol total por debajo de 150, y LDL por debajo de 100. En diabéticos LDL por debajo de 70.
+o	Evitar el tabaco y el alcohol.
+
+
+
+Control por el médico de cabecera  Se programa visita en Unidad de FRV
+
+
+
+Atentamente,
+
+Médico/s responsable/s: Dra _NAME_	Nº de colegiado: _ID_
+
+Firma

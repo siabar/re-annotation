@@ -1,0 +1,148 @@
+
+
+
+
+
+Informe d'Alta d'Urgències	Cognoms i nom:
+_NAME_	NHC:
+_ID_
+	ABS:
+_SS_	CIP:
+_ID_	DNI:
+_ID_
+	Data de naixement:
+_DATE_	Sexe:
+Dona	Edat:
+73a	Telèfon:
+_CONTACT_
+	Adreça:
+_LOCATION_
+	Finançament:
+CatSalut - _LOCATION_	Procedència:
+URGÈNCIES
+Episodi:
+304272144	Admissió:
+22.07.2017 - 18:21	Assistència:
+22.07.2017 - 19:21	Servei:
+URGENCIES MEDICINA
+
+
+
+Motiu Consulta:
+Síndrome vertiginoso y disartira.
+
+
+MALALTIA ACTUAL
+VALORACIÓN POR NEUROLOGÍA:
+
+Mujer de 73 años derivada desde el _SS_por síndrome vertiginoso y disartria.
+
+Hoy 22.07.17, al despertar a las 7:07 am e incorporarse, ha notado mareo intenso con sensación rotatoria de objetos y práctica imposibilidad para caminar por inestabilidad.
+Ha  ido  a  avisar  a  su  hijo  por  móvil  (Whatsapp)  y  ha  escrito  algo  así  como  "aijhijagdlhlajdgh" y "nomepuedolevantarrr".
+Al llegar su hijo a casa, explica que hablaba algo incoherente, pero sobre todo que articulaba mal la palabra y que estaba muy mareada. No refieren clara asimetría facial ni otra focalidad.
+Ella no refiere visión doble, ni focalidad de vías largas, ni cefalea, ni otra clínica..
+En el _SS_han evidenciado disartria e inestabilidad y derivan como código ictus.
+
+La paciente es muy sensible emocionalmente, le afectan mucho los temas familiares. Últimamente estaba triste por un tema relacionado con uno de sus hijos y ayer estuvo especialmente agobiada debido a asuntos laborales de otro de sus hijos.
+En el pasado presentó en 3-4 ocasiones varios cuadros de vértigo intenso.
+
+En la exploración:
+-	TA 140/60 mmHg. FC 69. Resto de ctes bien.
+-	Vigil. Orientada. Habla muy despacio y el tiempo de latencia es largo, pero el lenguaje está bien y no observo disartria objetiva.
+-	Oculomotricidad sin limitaciones, aunque refiere diplopia horizontal en la izquierda, en la derecha y en la supraversión. Nistagmus horizontal inagotable con fase rápida a la izquierda en la mirada horizontal, sobre todo en la levoversión.
+-	Facial normal. Trigémino normal. Resto de PPCC ok.
+-	Fuerza normal.
+-	Sensibilidad normal.
+-	En el dedo-nariz y el talón-rodilla falla en el target y desdobla el movimiento en las cuatro extremidades, pero de forma fluctuante y mejora claramente con la distracción.
+-	RCP flexor bilateral.
+-	Incapaz de caminar sin dos apoyos, flexiona el tronco porque se siente muy mareada y dice que no coordina.
+
+PPCC:
+-	ECG: Ritmo sinusal, sin alteraciones agudas.
+-	Analítica: pendiente.
+-	TC craneal: Sin lesiones agudas.
+-	AngioTC de TSA e intracraneal: Sin oclusiones ni estenosis.
+
+VALORACIÓN:
+Síndrome vertiginoso muy probablemente periférico.
+El resto de los síntomas y signos en la exploración, junto con el contexto en el que aparecen y su personalidad, sugieren con muy alta probabilidad una causa funcional y no orgánica, aunque éste es un diagnóstico de exclusión.
+
+PLAN:
+Ahora no puede caminar y sigue muy sintomática, por lo que de momento permanecerá en urgencias y revaloraremos.
+Tratamiento del vértigo.
+
+
+ANTECEDENTS
+Antecedents patològics
+Antecedentes: No AMC.
+No hábitos tóxicos. No FRV.
+No patologías conocidas.
+Natural de _LOCATION_. Vive en _LOCATION_ desde hace 17 años con sus hijos. Vive con uno de sus hijos. Autónoma.
+
+EXPLORACIONS COMPLEMENTÀRIES
+analítica : Sodi 135 ? mmol/L ( 136 - 145 ) Potassi 3,71 mmol/L ( 3,50 - 5,10 )
+Glucosa 6,8 ? mmol/L ( 3,0 - 6,0 )
+122,40 mg/100mL
+Urea 3,1 mmol/L ( 2,9 - 8,2 )
+19 mg/100mL
+Creatinina 52 µmol/L ( 0 - 80 )
+0,59 mg/100mL
+Bilirubina total 10 µmol/L (< 17)
+0,58 mg/100mL
+AST (GOT) 20  U/L ( 0 - 31 )
+ALT (GPT) 11 U/L ( 0 - 31 )
+Fosfatasa alcalina 79  U/L ( 35 - 110 )
+GGT 11  U/L ( 0 - 43 )
+Proteïna total 65,3 g/L ( 64,0 - 83,0 ) Proteïna C reactiva 1,3 mg/L ( 0,0 - 5,0 ) HEMATOLOGIA-HEMATIMETRIA
+Hemograma
+Hemoglobina 116 ?? g/L ( 120 - 150 )
+Hematòcrit 0,34 ? L/L ( 0,35 - 0,45 )
+Hematies 3,93 x10E12/L ( 3,90 - 5,00 )
+VCM 86,8 fL ( 80,0 - 98,0 )
+CCMH 340 g/L ( 320 - 360 )
+HCM 29,5 pg ( 27,0 - 32,0 )
+RDW 13,1 % ( 12,0 - 15,0 )
+Plaquetes 211 x10E9/L ( 140 - 350 )
+VPM 8,2 fL ( 7,0 - 10,5 )
+Plaquetòcrit 0,20 %
+Leucòcits 7,51 x10E9/L ( 3,80 - 11,00 ) Fórmula leucocitària
+Neutròfils 86,7 %
+Neutròfils absoluts 6,51 x10E9/L ( 1,80 - 7,00 )
+Eosinòfils 0,0 %
+Eosinòfils absoluts 0,00 ? x10E9/L ( 0,05 - 0,50 ) Basòfils 0,1 %
+Basòfils absoluts 0,01 x10E9/L ( 0,00 - 0,10 )
+Monòcits 2,7 %
+Monòcits absoluts 0,20 ? x10E9/L ( 0,30 - 1,00 ) Limfòcits 10,5 %
+Limfòcits absoluts 0,79 ? x10E9/L ( 1,00 - 4,00 ) Codi de validació XSG
+HEMOSTÀSIA
+Temps de tromboplastina 1,02 RATIO ( 0,75 - 1,30 ) Temps de protrombina 1,15 INR ( 0,75 - 1,20 ) Temps de trombina 23,90 s ( 17,00 - 24,00 )
+
+tac CRANEAL : sense alteracions
+
+
+EVOLUCIÓ
+es tracta de una pacient de 73 anys sense antecdents de interès que ingressa en contexte de clínica de vertigen perifèric amb molta inestabilitat , la pacinet millora en el transcurs a UCIES amb lleu inestabilitat . Valorada per neurologia es decideix alta a domicili amb tractament .
+
+RECOMANACIONS A L'ALTA
+controls metge de capçalera
+
+
+DIAGNÒSTICS
+-	vertigen perifèric
+
+
+CONTROLS
+dogmatil 50mg /8h
+
+
+
+Responsable clínic: Dra. _NAME_ (NºCol. _ID_)
+
+Servei que ha donat d'alta:
+URGENCIES MEDICINA	Data d'alta:
+23.07.2017 - 12:17	Nom del metge que i_NAME_'alta:
+Dra. _NAME_ (NºCol. _ID_)
+
+
+Barcelona, 23.07.2017
+Pàg. 1 de   4

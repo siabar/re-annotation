@@ -1,0 +1,115 @@
+I.CLINIC DE NEUROCIÈNCIES NEUROLOGIA
+_NAME_	NHC: _ID_
+
+
+Sexo/Sexe: Masc.	Fecha nac./Data naix.: _DATE_	Edad/Edat: 71 años Dirección/Adreça: _LOCATION_	CP: _LOCATION_
+Municip. (Prov.): _LOCATION_,  ABS:_SS_	Tel.:_CONTACT_
+As.: SERVEI CATALA DE LA SALUT	CIP: _ID_	NASS: _ID_
+Nº epis.: _ID_	Tipo/Tipus: HOSPIT.	Inici.: 01.05.2017
+Serv: NEUROLOGIA	UO Enf.: G064 SALA G DE NEUROLOGIA	Hora: 13:19:16
+Facult. de ref.: _NAME_
+
+
+
+
+Tipo ingreso/Tipus ingrés: Urgent	Motivo/Motiu alta: Dom. Familiar
+Diag.:
+OCLUSION DE ART. CEREBRAL NO ESPECIF. CON INFARTO CEREBRAL (434.91)
+Proc.:
+TC CRANEAL () RMN CEREBRAL ()
+ANALÍTICA SANGUÍNEA () HOLTER ()
+
+
+
+
+INFORME CLÍNICO ALTA / INFORME CLÍNIC ALTA
+
+Motivo de consulta / Motiu de consulta
+Alteración del lenguaje
+
+Antecedentes e historia previa / Antecedents i història prèvia
+Hombre de 70 años, sin alergias medicamentosas conocidas. Consumo enol 6-7 UBE/dia (cerveza). Vive solo e independiente para actividades basicas, con una ayuda a tiempo parcial mRS2
+
+*ANTECEDENTES PATOLÓGICOS:
+1.	HIPERTENSIÓN ARTERIAL en tratamiento farmacológico en control por médico del CAP
+2.	DIABETES  MELLITUS  TIPO  2  en  tratamiento  con  insulina,  consta  nefropatía  diabética,  retinopatía diabética.
+3.	DISLIPEMIA en tratamiento con estatinas.
+4.	ICTUS ISQUÉMICOS DE REPETICION: TALÁMICO IZQUIERDO EN 2015 según el hijo, que cursó con alteración del lenguaje. ICTUS CAPSULO LENTICULAR DERECHO Y CENTRO SEMIOVAL IZQUIERDO en julio 2016. Causa indeterminada y estudio completo. En estudio de prevención secundaria de ictus de causa indeterminada (NAVIGATE ESUS)
+5.	Episodio de cólico nefrítico 2012
+6.	Hepatopatía en estudio
+7.	Síndrome depresivo de larga evolución
+8.	Episodios de hematuria autolimitada el último hace 1 mes, visitado en _SS_.
+
+*INTERVENCIONES QUIRÚRGICAS: Meniscectomía, accidente en brazo.
+
+*MEDICACIÓN HABITUAL:
+-	Omeprazol 20mg cada 24h - Ipratropio 20mcg 6 horas - Metformina 850 mg c/12h - Repaglinida 0,5mg c/12h - Atorvastatina 20 mg c/24h - Diazepam 5mg c/24h - Sertralina 50mg cada 24h en el desayuno -
+
+
+Tiamina 300mg c/24h - Amlodipino 10mg en el desayuno - Losartan 50mg cada 24h.
+
+Proceso actual / Procés actual
+Paciente que acude por alteración del lenguaje evidenciada al despertar (en torno a las 10:00h al intentar llamar por teléfono a su cuidadora). última vez visto asintomático la noche anterior. Ella habiendo acudido a su domicilio, persistiendo la sintomatología, avisa SEM.
+
+Exploración física / Exploració física
+01/05/2017-14:00:00: Frecuencia respiratoria (rpm) 19, PAS (mm Hg) 151, PAD (mm Hg) 83, Pulsioximetría (%) 100. 01/05/2017-15:00:00 : Tª axilar (ºC) 35.8. 01/05/2017-19:30:00 : Glicemia capilar (mg/dl) 73.
+Consciente y orientado. Lenguaje muy hipofluente, nomina y repite sin parafasias, comprensión correcta. Mirada centrada sin limitaciones en las excursiones. Disartria grave. No déficit campimetrico. Paresia facial derecha leve. Protusión lengua normal. No déficit motor ni sensitivo en las 4 extremidades. No dismetrias. NIHSS 4.
+AC: Tonos rítmicos sin soplos audibles. AP: MVC. Crepitantes bibasales.
+ABDOMEN: Anodino.
+
+Laboratorio / Laboratori
+*ANALÍTICA SANGUÍNEA: glucosa 127 mg/dL, Creatinina 0,91 mg/dL, Perfil hepático sin alteraciones. LDL 65 mg/dL, HDL 64 mg/dL. VSG 27 mm/H. Hemograma sin alteraciones. Hb Glicada 7,5 %.
+
+Radiología / Radiologia
+*TC MULTIMODAL - TC CRANEAL BASAL: No se observa hemorragia intra ni extraaxial. Múltiples infartos crónicos lacunares en corona radiata, capsuloganglionar y capsulotalamica bilateral, ya presentes en RM previoa de 20/07/2016. Áreas hipodensas en sustancia blanca periventricular, centros semiovales y esplenio del cuerpo calloso en probable relación a enfermedad de pequeño vaso. - TC PERFUSIÓN: No se observan alteraciones valorables en el TTP, CBV y CBF. Sin discordancia significativa. - ANGIO-TC EXTRA E INTRACRANEAL: Arco aórtico y segmentos proximales de troncos supraórticos sin ateromatosis ni signos de estenosis. Origen, bifurcación y segmentos cervicales de la arteria carótida interna izquierda sin ateromatosis ni signos de estenosis. Placa ateromatosa del bulbo carotideo derecho con estenosis de aprox 20%. Segmentos intracavernoso y supraclinoideo de la arteria carótida interna con calcificación pero sin estenosis.
+
+*RMN Y ANGIO-RMN: lesión lacunar aguda en los ganglios basales izdos, y otra de aspecto más subagudo a nivel de la sustancia blanca frontal izda. Múltiples lesiones lacunares crónicas y áreas de desmielinización posiblemente en relación a isquemia de pequeño vaso en el tronco cerebral, ganglios basales, tálamos y sustancia blanca cerebral. Hiperseñal en las secuencias T2 de la porción más anterior de ambos pedúnculos cerebrales, posiblemente en relación a degeneración walleriana. Angio-RMN muestra defectos de replección en ambos territorios carotideos y de ACPI.
+
+*RX CERVICAL: no se observan focos de fractura ni otros hallazgos sugestivos de patología aguda.
+
+Exploraciones complementarias / Exploracions complementàries
+
+*HOLTER: No arritmias cardioembolígenas
+*ECOSCAN (ECOCARDIOGRAFÍA): No se aprecian fuentes cardiacas sugestivas de cardioembolismo.
+
+Evolución / Evolució
+1.	ICTUS ISQUÉMICO EN TERRITORIO DE ARTERIAS LENTÍCULO-ESTRIADAS (LE) IZQUIERDAS.
+1.	
+
+
+Paciente que acude por alteración del lenguaje del despertar. A la exploración presenta anartria y paresia facial derecha leve (NIHSS 4). La neuroimagen (TC multimodal y RMN) muestra lesión isquémica aguda en territorio de lentículo-estriadas izquierdas y un ictus subagudo frontal subcortical izquierdo; junto con lesiones crónicas ya conocidas. Estudio vascular (Angio TC y Angio-RMN) muestra signos de ateromatosis difusa con defectos de replección en territorio carotídeo y ACPI. Estudio cardíaco (Holter y ECOSCAN) descarta fuente cardioembólica en el momento actual. ECG en ritmo sinusal sin alteraciones en la repolarización.
+Se trata de un ictus en territorio de arterias lentículo-estriadas izquierdas. Se descartó tratamiento fibrinolítico por tiempo de inicio indeterminado y se inició tratamiento anticoagulante con heparina sódica con posterior paso a clopidogrel.
+Durante su estancia en el servicio de neurología el paciente mejora discretamente, con persistencia de disatria grave junto con disgrafia sin alexia y parálisis del IX par derecho. Precisa de colocación de SNG y nutrición enteral por disfagia grave. Comienza a deambular, con leve inestabilidad de la marcha. Dada la estabilidad clínica, se decide alta a centro de rehabilitación _SS_.
+Al traslado:
+NIHSS: 2;   TOAST: indeterminado (estudio completo);   mRS: 3.
+
+2.	CERVICALGIA MECÁNICA.
+
+El día 07/05/17 el paciente refiere cervicalgia en músuclo trapecio izquierdo que aumenta con la palpación y con el giro ipsilateral de cabeza, cediendo con analegesia convencional y miorrelajantes. Se realiza radiografía de columna cervical que no muestra signos de fractura ni otra patología aguda.
+
+Plan terapéutico / Pla terapèutic
+-	Esomeprazol 20mg cada 24h - Ipratropio nebulizado 250 mcg c/8h - Clopidogrel 75mg cada 24h - Atorvastatina 40mg cada 24h en la cena - Clometiazol 192 mg en la cena a retirar el 10/5 - Sertralina 50mg cada 24h en el desayuno - Tiamina 300mg en el desayuno - Amlodipino 5mg c/12h - Enalapril 10mg en el desayuno, 5mg en la cena. - Nutrición enteral. - Paracetamol 1 g/8h PRN. - Diazepam 5 mg/12h durante 3 días como miorrelajante.
+
+Otras recomendaciones / Altres recomanacions
+-	Control en _SS_. Valorar a retirar SNG durante el próximo mes según evolución de trastorno de la deglución. - Acudirá a consultas con el Dr. _NAME_ el próximo 10/10/17 a las 12:00h (se adjuntan citaciones). - Control estricto de sus factores de riesgo cardiovascular por parte de su CAP de referencia.
+
+
+
+Firma/Signatura1: _NAME_	Firma/Signatura2: _NAME_ Categoría: Resident 1	Categoría: Consultor/a 1
+Nº Matrícula HCP: _ID_	Nº Matrícula HCP: _ID_
+
+Fecha/Data Informe: 08.05.2017
+Hora Informe: 13:14:32
+
+Docum.: _ID_
+Hist. Clínica: _ID_
+El _SS_ ha incorporado sus datos al Fichero de Pacientes, para tratarlos con fines sanitarios.
+Puede ejercer sus derechos de acceso, rectificación, cancelación y oposición, así como obtener mas información en la Unidad de Atención al Cliente.
+Vers. 00
+Pag. 2 de
+3
+Episod.: _ID_
+_SS_ ha incorporat les seves dades al Fitxer de Pacients, per a tractar-los amb finalitats sanitàries. Pot exercir els seus drets d'accés, rectificació, cancel·lació i oposició, i obtenir més informació a la Unitat d'Atenció al Client.
+_SS_
+_LOCATION_) _LOCATION_) Tel. _CONTACT_ Fax _CONTACT_
+http://_CONTACT_/

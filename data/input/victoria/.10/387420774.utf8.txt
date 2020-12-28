@@ -1,0 +1,112 @@
+I.CLINIC DE NEUROCIÈNCIES NEUROLOGIA
+_NAME_	NHC: _ID_
+
+
+Sexo/Sexe: Fem.	Fecha nac./Data naix.: _DATE_	Edad/Edat: 72 años Dirección/Adreça: _LOCATION_	CP: _LOCATION_
+Municip. (Prov.): _LOCATION_  ABS:_SS_	Tel.: As.: SERVEI CATALA DE LA SALUT	CIP: _ID_
+Nº epis.: _ID_	Tipo/Tipus: HOSPIT.	Inici.: 06.07.2017
+Serv: NEUROLOGIA	UO Enf.: I064 SALA G DE NEUROL. INTE   Hora: 02:33:39
+Facult. de ref.: _NAME_
+
+
+
+
+Tipo ingreso/Tipus ingrés: Urgent	Motivo/Motiu alta: Hospital Ag.
+Diag.:
+ICTUS ISQUÉMICO TERRITORIO CAROTÍDEO IZQUIERDO (434.91)
+Proc.:
+Analítica sanguínea () ECG ()
+TC craneal multimodal () Trombectomía mecánica () Angioplastia + stenting ICA izquierda ()
+
+
+
+
+INFORME CLÍNICO ALTA / INFORME CLÍNIC ALTA
+
+Motivo de consulta / Motiu de consulta
+Alteración del lenguaje y hemiplejía derecha.
+
+Antecedentes e historia previa / Antecedents i història prèvia
+** ANTECEDENTES PERSONALES:
+
+Mujer de 72 años, diestra, sin alergias medicamentosas conocidas ni hábitos tóxico. Independiente para las actividades básicas de la vida diaria (mRs previo 0). Reside en convento religioso.
+
+
+** ANTECEDENTES PATOLÓGICOS:
+
+1.	HIPERTENSIÓN ARTERIAL en tratamiento dietético.
+
+
+MEDICACIÓN HABITUAL: no toma.
+
+Proceso actual / Procés actual
+La paciente se encontraba en un retiro espiritual en la _LOCATION_. A las 21:00 h de hoy 05/07/17, después de cenar, presentó alteración del lenguaje y hemiplejía derecha súbitas, por lo que se llama al SEM y se decide traslado a hospital terciario (_SS_ - RACECAT). Llegada a nuestro centro a las 23:13 h.
+
+Exploración física / Exploració física
+06/07/2017-03:00:00: Frecuencia respiratoria (rpm) 19, PAS (mm Hg) 122, PAD (mm Hg) 37, Pulsioximetría (%) 100. 06/07/2017-07:00:00 : Tª axilar (ºC) 35.9. 06/07/2017-07:30:00 : Glicemia capilar (mg/dl) 119.
+Constantes: PA 156/72 mmHg, FC 93 lpm, T axilar 36.3ºC, Sat O2 99% con LN a 2 l/min.
+NRL: consciente, orientación no valorable, parcialmente colaboradora. Mutista, sólo emite sonidos incomprensibles. No obedece órdenes simples, no nomina ni repite. PINR, mirada desviada hacia la izquierda, hemianopsia homónima derecha por amenaza. Paresia facial supranuclear derecha moderada. Hemiparesia braquio (0/5) - crural (1/5) izquierda con hemihipoestesia ipsilateral. Dismetrías no valorables. Babinski izquierdo. NIHSS 23.
+ACCR: tonos cardíacos rítmicos, no ausculto soplos, pulsos periféricos presentes y simétricos. No IVY, RHY ni edemas en MMII.
+AR: MVC sin ruidos agregados.
+Abdomen: blando, globoso, depresible, no doloroso a la palpación.
+
+Laboratorio / Laboratori
+** ANALÍTICA SANGUINEA: Destaca Colesterol LDL 124 mg/dL. Colesterol HDL 50 mg/. VSG 600 mm/h. Sin otras alteraciones relevantes. Se adjunta analítica.
+
+Radiología / Radiologia
+** TC CEREBRAL MULTIMODAL:
+No se observa hemorragia intra ni extraaxial. Parénquima cerebral sin alteraciones densitométricas. Borramiento insular y a nivel frontal ASPECTS 8 No se observan lesiones isquémicas parenquimatosas subagudas ni otras lesiones isquemicas crónicas.
+*	TC PERFUSIÓN: Aumento del TTP frontoparietotemporal izquierdo. Importante disminución del CBV y CBF frontotemporal izquierda. Entre las medidas hay discordancia significativa.
+*	ANGIO-TC EXTRA E INTRACRANEAL: Arco aórtico y segmentos proximales de troncos supraórticos sin ateromatosis ni signos de estenosis. Origen de la arteria carótida interna derecha ateromatosico sin estenosis significativa. Origen de la arteria carótida interna izquierda con estenosis suboclusiva, y posterior paso de contraste.. Segmentos intracavernoso y supraclinoideo de la arteria carótida interna derecha sin ateromatosis ni signos de estenosis.
+Oclusión de la ACM izquierda a nivel M1 con repermeabilización distal parcial.
+Principales arterias cerebrales intracraneales derechas permeables (ACA, ACM y ACP). Origen de las arterias vertebrales ateromatosico sin signos de estenosis. Vertebral izquierda hipoplasica. Sistema vertebrobasilar permeable.
+** TC DUAL ENERGY:
+Imagen hiperdensa cortico-subcortical en surco frontal posterior izquierdo, que en estudio dual sugiere corresponder a extravasción  de contraste contraste asociado. Tambien se aprecian minimos signos de extravasación de contraste corticoo- subcorticales en convexidad temporal izquierda.
+
+Exploraciones complementarias / Exploracions complementàries
+** ECG: Ritmo sinusal. Bloqueo incompleto de rama derecha de haza de His.
+
+Intervenciones quirúrgicas / Intervencions quirúrgiques
+** TROMBECTOMÍA MECÁNICA DE ICTUS:
+PROCEDIMIENTO Se realiza punción femoral derecha. Se realiza cateterización selectiva y la primera serie angiográfica confirma la presencia de una oclusión a nivel de ACMI proximal. Se procede al microcateterismo selectivo de arteria ocluida logrando una adecuada posición para realizar 1 pase con trevo 6x25 y aspiración del sofia. En la serie de comprobación final se confirma recanalización TICI 2B. En las series de ACI cervical se identifica estenosis preoclusiva que se trata mediante stenting con wallstent 4x90 y posterior dilatación de balón de 6x20, con una recuperación de la luz del vaso, con una estenosis residual menor del 30%.
+
+
+
+Evolución / Evolució
+1. ICTUS ISQUÉMICO EN EL TERRITORIO CAROTÍDEO IZQUIERDO:
+-	ESTENOSIS SUBOCLUSIVA ARTERIA CARÓTIDA INTERNA IZQUIERDA (ICAI)+ OCLUSIÓN ARTERIA CEREBRAL MEDIA IZQUIERDA (ACMI).
+-	STENTING ICAI + TROMBECTOMIA MECÁNICA DEL ICTUS
+
+A su llegada a Urgencias a las 23:15h, la paciente se encuentra hipertensa (PAS 195/98 mmHg) y en la exploración neurológica presenta  un síndrome hemisférico  izquierdo (NIHSS  23). La analítica sanguínea muestra una leucocitosis de 13250/ul con neutrofilia de 9000/ul. ECG en ritmo sinusal a 72x' con bloqueo incompleto de rama derecha del haz de His. La neuroimagen (TC Multimodal) en la secuencia basal muestra signos de lesión isquémica aguda con desdiferenciación insular y frontal M2 izquierda (ASPECTS 8), el angio TC muestra una estenosis suboclusiva a nivel del origen de la ICA izquierda en relación a placa de ateroma calcificada y probablemente complicada con trombo + oclusión del segmento M1 de la ACMI; con extensa área de penumbra isquémica en los mapas de perfusión.
+Se orienta como un ictus isquémico en territorio carotídeo por ateromatosis de gran vaso. Ante la ausencia de contraindicaciones, se inicia tratamiento con fibrinolisis con rtPA y trombectomia mécniaca con punción femoral a las 00:05h, se coloca stent en ICA izquierda previa administración de inyesprin y posteriormente trombectomia a nivel de segmento M1 de la ACMI consiguiendo recanalización TICI 2b a las 00:56h. Tras el procedimiento se adminsitra carga de 300 mg de Clopidogrel y en la exploración neurológica se objetiva mejoría neurológica franca presentando NIHSS 5 a expensas de rasgos afásicos. En el TC DUAL ENRGY de control a las 6h post-trombectomia no presenta signos de transformación hemorrágica y en la RM cerebral se observa lesión isquémica establecida a nivel insular y núcleo caudado izquierdo con permeabilidad de los vasos intracraneales.
+Durante su ingreso en la Unidad de ictus, la paciente persite con mejoría neurológica presentando en la exploración únicamente paresia facial central derecha, disartria y hemihipoestesia derecha (NIHSS 3). Dada la estabilidad clínica se decide traslado a centro de referencia para continuar evolución clínica. Al alta bajo tratamiento con doble antiagregación (AAS + Clopidogrel) y la paciente tolera la dieta disfágica oral.
+
+Al alta:
+TOAST: Ateromatosis gran vaso. NIHSS: 3. mRs:3
+
+Plan terapéutico / Pla terapèutic
+Omeprazol 20 mg c/24h. AAS 100 mg c/24h. Clopidogrel 75 mg c/24h. Atorvastatina 40 mg c/24h.
+
+Otras recomendaciones / Altres recomanacions
+Se traslada a centro de referencia (_SS_)  para continuar tratamiento y evolución
+
+
+
+Firma/Signatura1: _NAME_	Firma/Signatura2: _NAME_ Categoría: Resident 2	Categoría: Especialista
+Nº Matrícula HCP: _ID_	Nº Matrícula HCP: _ID_
+
+Fecha/Data Informe: 07.07.2017
+Hora Informe: 15:08:44
+
+Docum.: _ID_
+Hist. Clínica: _ID_
+El _SS_ ha incorporado sus datos al Fichero de Pacientes, para tratarlos con fines sanitarios.
+Puede ejercer sus derechos de acceso, rectificación, cancelación y oposición, así como obtener mas información en la Unidad de Atención al Cliente.
+Vers. 00
+Pag. 2 de
+3
+Episod.: _ID_
+_SS_ ha incorporat les seves dades al Fitxer de Pacients, per a tractar-los amb finalitats sanitàries. Pot exercir els seus drets d'accés, rectificació, cancel·lació i oposició, i obtenir més informació a la Unitat d'Atenció al Client.
+_SS_
+_LOCATION_) _LOCATION_) Tel. _CONTACT_ Fax _CONTACT_
+http://_CONTACT_/

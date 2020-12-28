@@ -1,0 +1,122 @@
+I.CLINIC DE NEUROCIÈNCIES NEUROLOGIA
+_NAME_	NHC: _ID_
+
+
+Sexo/Sexe: Masc.	Fecha nac./Data naix.: _DATE_	Edad/Edat: 78 años Dirección/Adreça: _LOCATION_	CP: _LOCATION_
+Municip. (Prov.): _LOCATION_  ABS:_SS_	Tel.:_CONTACT_
+As.: SERVEI CATALA DE LA SALUT	CIP: _ID_	NASS: _ID_
+Nº epis.: _ID_	Tipo/Tipus: HOSPIT.	Ingres.: 10.02.2017 Serv: NEUROLOGIA	UO Enf.: I064 SALA G DE NEUROL. INTE   Hora: 19:16:06 Facult. de ref.: _NAME_
+
+
+
+
+Tipo ingreso/Tipus ingrés: Urgent	Motivo/Motiu alta: CSS Conval.
+Diag.:
+FIBRILACIÓN AURICULAR DE NOVO () ICTUS ISQUÉMICO DE ACMI. (434.91)
+Proc.:
+
+
+
+
+INFORME CLÍNICO ALTA / INFORME CLÍNIC ALTA
+
+Motivo de consulta / Motiu de consulta
+Alteración del lenguaje de inico indeterminado.
+
+Antecedentes e historia previa / Antecedents i història prèvia
+Varón de 78 años, sin alergias medicamentosas conocidas. Enolismo crónico activo, fumador (no podemos especificar cantidad). Independiente para ABVD, vive solo .
+
+ANTECEDENTES PERONALES:
+1.	HIPERTENSIÓN ARTERIAL ESSENCIAL en tratamiento farmacológico.
+2.	HIPERCOLESTEROLEMIA en tratamiento farmacológico.
+3.	CLAUDICACIÓN INTERMITENTE de la marcha, antiagregado con AAS.
+4.	INSUFICIÈNCIA RENAL CRÒNICA. SÍNDROME NEFRÍTICO CRÒNICO.
+5.	HIPERURICEMIA
+
+MEDICACIÓN HABITUAL (Según SIRE, Feb/17):
+Adiro 150mg/24h, simvastatina 40mg/24h, lorazepma 2mg/24h, calcio 500mg/24h, valsartán 160mh/24h, alopurinol 100mg/24h.
+
+Proceso actual / Procés actual
+Paciente que es encontrado el día 10/02 con alteración del lenguaje en el restaurante donde suele ir a comer todos los días. Hora de inicio indeterminado.
+
+Exploración física / Exploració física
+Frecuencia  respiratoria  (rpm)  20,  PAS  (mm  Hg)  151,  PAD  (mm  Hg)  91,   Pulsioximetría   (%)  99. 10/02/2017-23:00:00 : Tª axilar (ºC) 36.7. 14/02/2017-07:00:00 : Glicemia capilar (mg/dl) 156.
+AC: tonos rítmicos sin soplos.
+AR: MVC sin sonidos sobreañadidos.
+NRL: Consciente, orientación no valorable. Lenguaje afásico, sin nominar ni repetir, sólo obedece 1/2 órdenes sencillas, con parafasias fonémicas y semánticas. Mirada centrada sin limitaciones en la excursión
+
+
+
+
+visual. Hemianopsia homónima derecha. No paresia facial ni déficits en balance muscular. Retira al dolor de manera simétrica. No dismetrías. No extinción ni negligencias. NIHSS 11.
+
+Laboratorio / Laboratori
+*	ANALÍTCA SANGUÍNEA (10/02/17, de urgencias): glucemia 132 mg/dL, creat 3,01 mg/dL (FG 19). Ionograma conservado. Hb 11,5 g/dL (Hto 34%). Hemostasia conservada. Etanolemia 0.45 g/L.
+
+* ANALÍTICA SANGUÍNEA (14/02/17, se adjunta): PCR 5, VSG 98. Creat 4,64 mg/dL, FG 11. AST/ALT 122/46,
+GGT/FA 40/76, BT 0,7. Función tiroidea normal. Hiperuricemia de 9,9. Na 146, K 4,4. LDH 931, CK 2766.
+Colesterol LDL 69 mg/dL, Colesterol HDL 53 mg/dL, Hemoglobina glicada 5.8%. Hb 10,2 (Hto 33%). Plaquetas
+160.000. Hemostasia conservada.
+
+Radiología / Radiologia
+*	TC MULTIMODAL (14/02/17):
+-	TC CRANEAL BASAL: No se observa hemorragia intra ni extraaxial. Diferenciación cortico-subcortical conservada. ASPECTS 10. Hipodensidad de la sustancia blanca subcortical y periventricular en probable relación a patología de pequeño vaso. Imágenes lacunares capsulo- ganglionares bilaterales. Estructuras de la línea media centradas. Pérdida de volumen cerebral y aumento secundario de tamaño del sistema ventricular que presenta morfología y situación conservadas. Cisternas basales libres.
+-	TC PERFUSIÓN: Aumento del TTP en el territorio superficial posterior de la ACM izquierda, sin una caída del CBV/CBF. Mismatch significativo (> 200%).
+-	ANGIO-TC EXTRA E INTRACRANEAL: Defecto de repleción en rama distal de M3 izquierdo a nivel insular. Importantes placas de ateromatosis calcificada en arco aórtico y en origen del tronco braquiocefálico y de ambas carótidas comunes y arterias subclavias. Arteria vertebral derecha con placa de ateromatosis calcificada en su origen que condiciona estenosis del 50% aproximadamente. La AV derecha presenta placas calcificadas en segmentos V1, V2, V3 y V4 que no condicionan estenosis significativas. Arteria vertebral izquierda que se origina en arco aórtico con placa de ateromatosis calcificada en su origen, que no parece condicionar estenosis significativa. Dominancia vertebral derecha. Ateromatosis calcificada en ambas bifurcaciones carotídeas, condicionando una estenosis del 38% en el lado derecho y del 40% en el lado izquierdo, aproximadamente. Calcificación de segmentos cavernoso y supraclinoideo de ambas arterias carótidas internas, sin signos de estenosis. Resto de las principales arterias cerebrales intracraneales permeables (ACAs, ACMs derecha y ACPs). Sistema vertebrobasilar permeable.
+
+Evolución / Evolució
+1.	ICTUS EN ARTERIA CEREBRAL MEDIA IZQUIERDA. OCLUSIÓN SEGMENTO M3 IZQUIERDA.
+2.	FIBRILACIÓN AURICULAR NO CONOCIDA.
+Paciente traído por el SEM por alteración del lenguaje de inicio incierto. A la exploración inicial destaca lenguaje con rasgos afásicos y hemianopsia homónima derecha (NIHSS: 11). Analítica sanguínea muestra deterioro de la función renal con creat 4, hipertransaminasemia leve y anemia macrocítica de Hb 10,2 g/dL. El TC craneal multimodal inicial no muestra lesiones relevantes en secuencias basales; mapas de perfusión evidencian aumento del TTP en el territorio superficial posterior de la ACM izquierda,con tejido viable. El angio-TC muestra oclusión en rama distal de ACM segmento M3 izquierda, estenosis del 50% de la a. vertebral derecha y ateromatosis en ambas bifurcaciones carotídeas, sin otras estenosis significativas. Dado el tiempo de evolución incierto y la ausencia de oclusión proximal, se desestima tratamiento revascularizador agudo. Durante la monitorización cardíaca se detecta una fibrilación auricular con respuesta ventricular controlada, no conocida previamente.
+Se trata de un ictus isquémico en territorio superficial de la arteria cerebral izquierda, de etiología cardioembólica en contexto de fibrilación auricular no conocida. Se inicia tratamiento anticoagulante con heparina sódica con posterior paso a sintrom.
+Durante su estancia en la Unidad de ictus presenta mejoría clínica progresiva, permaneciendo hemodinámicamente estable y con buen control de la frecuencia cardíaca. A nivel neurológico persiste
+
+
+
+lenguaje normofluente con algunas parafasias y hemianopsia homónima derecha, por lo que se considera candidato para traslado a _SS_ para continuar con la rehabilitación. Se recomienda asimismo continuar seguimiento por su médico de atención primaria.
+
+NIH:3; TOAST: Cardioembólico;  mRs:3
+
+3.	ENOLISMO CRÓNICO. SINDROME DE ABSTINENCIA.
+Dado el antecedente de enolismo crónico, se inicia tratamiento con tiamina y clometiazol. No obstante, durante el ingreso el paciente presenta desorientación con inquietud, agitación psicomotriz y heteroagresividad, asociado a diaforesis y alucinaciones visuales con confabulación en probable contexto de síndrome de abstinencia enólica. Se ajusta tratamiento neuroléptico con posterior adecuado control del cuadro hasta quedar asintomático.
+
+4.	DESHIDRATACIÓN. INSUFICIENCIA RENAL CRÓNICA AGUDIZADA
+El paciente presenta deterioro de insuficiencia renal crónica de probable causa prerrenal en contexto de deshidratación. Se inicia sueroterapia, logrando mejoría de la función renal a sus niveles basales.
+
+5.	HEMATURIA MACROSCÓPICA. RETENCIÓN AGUDA DE ORINA.
+Presenta una retención aguda de orina requiriendo sondaje vesical y hematuria macroscópica posterior en contexto de sondaje traumatico. Valorado por urología, actualmente no presenta sangrado activo, no coágulos. Recomiendan continuar lavados vesicales y valorar retirar la SV una vez resuelto el cuadro.
+6.	FLEBITIS DEL BRAZO DERECHO.
+Presenta flogosis y enrojecimiento del brazo derecho a las 48 horas del ingreso, sin fiebre. Se palpa área entumecida, no indurada. Se recambia vía periférica. En el momento del alta, persiste área de edema y hematoma. Se recomienda aplicar agua de Burow.
+
+Plan terapéutico / Pla terapèutic
+-	Sintrom según pauta
+-	Pantoprazol 40mg en el desayuno
+-	Furosemida 40mg en el desayuno.
+-	Atorvastatina 40 mg en la cena
+-	Lorazepma 1mg por la noche si precisa.
+-	Clometiazol 1 comprimido cada 8h en pauta descendente.
+-	Tiamina 200mg en el desayuno.
+-	Dilitiazem 60m g cada 8h.
+-	Alopurinol 100mg en el desayuno.
+
+Otras recomendaciones / Altres recomanacions
+Se traslada a _SS_ para continuar rehabilitación. Control de FRCV por su médico de atención primaria.
+
+
+
+Firma/Signatura1: _NAME_	Firma/Signatura2: _NAME_ Categoría: Resident 4	Categoría: Especialista
+Nº Matrícula HCP: _ID_	Nº Matrícula HCP: _ID_ Fecha/Data: 17.02.2017
+Hora: 14:56:07
+
+Docum.: _ID_
+Hist. Clínica: _ID_
+El _SS_ ha incorporado sus datos al Fichero de Pacientes, para tratarlos con fines sanitarios.
+Puede ejercer sus derechos de acceso, rectificación, cancelación y oposición, así como obtener mas información en la Unidad de Atención al Cliente.
+Vers. 00
+Pag. 2 de
+3
+Episod.: _ID_
+_SS_ ha incorporat les seves dades al Fitxer de Pacients, per a tractar-los amb finalitats sanitàries. Pot exercir els seus drets d'accés, rectificació, cancel·lació i oposició, i obtenir més informació a la Unitat d'Atenció al Client.
+_SS_
+_LOCATION_) _LOCATION_) Tel. _CONTACT_ Fax _CONTACT_
+http://_CONTACT_/

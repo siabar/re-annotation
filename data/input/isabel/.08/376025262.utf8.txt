@@ -1,0 +1,97 @@
+
+
+
+
+
+Informe d'Alta Hospitalària	Cognoms i nom:
+_NAME_	NHC:
+_ID_
+	ABS:
+_SS_	CIP:
+_ID_	DNI:
+_ID_
+	Data de naixement:
+_DATE_	Sexe:
+Home	Edat:
+89a	Telèfon:
+_CONTACT_	_CONTACT_
+	Finançament:
+CatSalut - _LOCATION_	Procedència:
+	Admissió:
+25.05.2017 - 19:35	Servei:
+NEUROLOGIA HOSP	Data entrada urg.:
+23.05.2017 - 14:52
+Adreça:
+_LOCATION_	Població:
+_LOCATION_	Codi Postal:
+_LOCATION_
+
+
+
+Motivo de ingreso
+Infarto en territorio de ACM derecha.
+
+
+ANTECEDENTES
+FRV: hipertensión arterial, diabetes mellitus tipo 2. Insuficiencia cardíaca congestiva.
+FA anticoagulada con sintrom.
+Insuficiencia renal crónica con FG de 45 ml/min.
+Destaca también canal lumbar estrecho y fractura vertebral en enero tras la cual ha presentado importantes problemas de deambulación secundarios al dolor.
+Sociofuncional: vivía solo con la ayuda de una cuidadora. Era dependiente para la mayoría de las actividades instrumentales y algunas básicas. Tenía autonomía para hacer transiciones sofá cama con caminador y últimamente iba en silla de ruedas. Rankin 4.
+Tratamiento médico habitual: FOlidoce 1 c/d, Hidroferol, bisoprolol 2'5 mg/d, pantoprazol 20 mg/d, sintrom 4 mg sp, fentanilo parches 25 mcg/72 h, lyrica 25 mg/12 h, metamizol 575 mg/8 h, paracetamol 1 g/8 h sp, tesavel 100 mg/24 h, furosemida 40 mg/d, simvastatina 20 mg/24 h, alopurinol 100 mg/d.
+
+ENFERMEDAD ACTUAL
+Varón de 89 años que es traído a urgencias de nuestro centro como código ictus extrahospitalario. Como principales antecedentes el paciente está diagnosticado de hippertensión arterial, diabetes mellitus tipo 2, insuficiencia cardíaca congestiva, FA anticoagulada con sintrom e insuficiencia renal crónica con FG de 45 ml/min. Destaca también canal lumbar estrecho y fractura vertebral en  enerotras la cual ha presentado importantes problemas de deambulación secundarios al dolor. Actualmente a nivel sociofuncional vivía solo con la ayuda de una cuidadora. Era dependiente para la mayoría de las actividades instrumentales y algunas básicas. Tenía autonomía para hacer transiciones sofá cama con caminador y últimamente iba en silla de ruedas. Rankin 4.
+
+Según explica la cuidadora estando previamente bien este mediodía a las 13:30 aproximadamente el paciente ha empezado a estar más somnoliento y no respondía a órdenes. Además tenía menos fuerza en el hemicuerpo izquierdo motivo por el cual ha alertado al SEM. Como antecedente relevante el control de INR de ayer en el CAP era de 1.6. A la llegada del SEM se activa código ictus extrahospitalario. RACE 5.
+A su llegada a urgencias el paciente se encuentra hemodinámicamente estable y afebril. TA: 128/69 mmHg, 52 lpm, Glicemia 151 mg/dl. INR de 1.4. A la exploración neurológica destaca desviación ócula-cefálica a la derecha con cruce de línea media, hemianopsia homónima izquierda, paresia facial central izquierda, hemiparesia braquio (3/5) - crural (4/5) izquierda. Niega déficit sensitivo. Sí presenta anosognosia y asomatognosia. NIHSS 0+1+0+1+2+1+(0+2)+(0+1)+0+0+0+1+2=11. Se realiza TC craneal urgente en el que se aprecia una lesión isquémica crónica temporoparietal derecha con una posible hiperdensidad a nivel de ACM derecha y desdiferenciación córtico-subcortical postcentral derecha, que  podría corresponder a una lesión isquémica aguda. El ECG muestra una FA ya conocida previamente.
+
+Dada la clase funcional previa del paciente, la edad y la comorbilidad se desestima tratamiento de reperfusión en fase aguda y se desactiva código ictus.
+se trata de un paciente de 89 años pluripatológico con FFSS limitadas en UCIES en contexeto de ictus isquémico ACM derecha con hemiplegia izqueirda aguda . Valorado en un principio por neurologia se descarta tratamiento fibrinólitico y se le explica a la familia que es candidato a tratamiento preventivo evolutivo .
+
+Durante su estancia en UCIAS HD estable, afebril, sin incidencias. Se realiza TC de control que revela lesión isquémica extensa con transformación hemorrágica por lo que se decide no iniciar anticoagulación.
+
+A su ingreso en sala se evidencia globo vesical por lo que se procede a SV (1200 cc). Se habla con la familia y se acuerda colocación de SNG, no tributario de medidas agresivas, pero está pendiente de valoración conjunta con toda la familia.
+
+EXPLORACIONES COMPLEMENTARIAS
+- Analítica : Sodi 140  mmol/L ( 136 - 145 )  Potassi 4,35  mmol/L ( 3,50 - 5,10 )  Glucosa 8,7 ? mmol/L ( 3,0
+- 6,0 )  156,60 mg/100mL Urea 15,7 ? mmol/L ( 2,9 - 8,2 )   94  mg/100mL Creatinina 130 ? µmol/L ( 0 - 106 )
+1,46	mg/100mL	AST   (GOT)   56   ?   U/L   (   0   -   37   )	ALT   (GPT)   59   ?   U/L   (   0   -   41   )
+HEMATOLOGIA-HEMATIMETRIA  Hemograma  Hemoglobina 111 ? g/L ( 130 - 170 )  Hematòcrit 0,35 ? L/L ( 0,40 - 0,50 )  Hematies 3,71 ? x10E12/L ( 4,50 - 5,70 )  VCM 93,0 fL ( 80,0 - 98,0 )  CCMH 322  g/L ( 320 - 360
+)  HCM 29,9  pg ( 27,0 - 32,0 )  RDW 15,9 ? % ( 12,0 - 15,0 )  Plaquetes 249  x10E9/L ( 140 - 350 )  VPM 8,3
+fL ( 7,0 - 10,5 )  Plaquetòcrit 0,30  %  Leucòcits 9,51  x10E9/L ( 3,80 - 11,00 )  Fórmula leucocitària  Neutròfils 72,3  %  Neutròfils absoluts 6,88  x10E9/L ( 1,80 - 7,00 )  Eosinòfils 1,3  %  Eosinòfils absoluts 0,12  x10E9/L (
+0,05 - 0,50 )  Basòfils 0,4  %  Basòfils absoluts 0,04  x10E9/L ( 0,00 - 0,10 )  Monòcits 11,9  %  Monòcits
+absoluts 1,13 ? x10E9/L ( 0,30 - 1,00 )  Limfòcits 14,1  %   Limfòcits absoluts 1,34  x10E9/L ( 1,00 - 4,00 ) HEMOSTÀSIA  Temps de tromboplastina 1,07  RATIO ( 0,75 - 1,30 )  Temps de protrombina 1,55 ? INR ( 0,75
+- 1,20 ) Temps de trombina 22,30 s ( 17,00 - 24,00 )
+
+-	TC cerebral: Extensa lesión isquémica crónica parietal derecha. Se observa una pequeña zona de desdiferenciación córticosubcortical postcentral derecha, que podría corresponder a una lesión isquémica aguda en el territorio de la ACM derecha. Hiperdensidad distal de ACM derecha que podría corresponder a un trombo agudo.
+
+-	ECG: FA normofrecuente
+
+
+
+- TC cerebral de control: Extenso infarto establecido del territorio superficial de ACM derecha con signos de transformación hemorrágica predominantemente cortical (IH2), que condiciona un desplazamiento de linea media hacia la izquierda de 5 mm y una obliteración parcial del ventrículo lateral derecho sin herniación uncal ni compromiso del drenaje ventricular.
+
+EVOLUCIÓN
+Durante su estancia permanece somnoliento, con nula colaboración a la exploración, y con disfagia grave que imposibilita la alimentación eficaz y segura. Por ello se coloca SNG que debe ser mediante guia endoscópica por imposibilidad en intentos previos.
+Durante su estancia presenta como complicaciones desaturación por probable proceso infeccioso respiratorio y crisis comicial. En la analitica de control muestra empeoramiento de la función renal. La respuesta al tratamiento médico es mala, y tras hablar con la familia del mal pronóstico funcional por la extensa lesion neurológica, y la ausencia de respuesta se decide limitacióin del esfuerzo terapeútico.
+El paciente es exitus el 29/5/17 a las 00:05.
+
+
+DIAGNÓSTICOS
+Exitus letalis
+Ictus isquémico extenso en territorio de ACM derecha de etiología cardioembólica Fibrilación auricular
+Insuficiencia renal crónica
+
+
+Responsable clínic: Dr_NAME_O (NºCol. _ID_)
+Equip mèdic: Dr_NAME_O (NºCol. _ID_)
+
+Servei que ha donat d'alta:
+NEUROLOGIA HOSP	Data d'alta:
+29.05.2017	Nom del metge que informa de l'alta:
+Dr_NAME_O (NºCol. _ID_)
+
+
+_LOCATION_, 29.05.2017
+Pàg. 1 de   3

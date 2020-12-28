@@ -1,0 +1,107 @@
+_LOCATION_
+Telèfon: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 84 anys
+NIF/DNI: _ID__NAME_; _NAME_
+Informe de Trasllat a Sociosanitari
+CP	_LOCATION_
+ABS	_SS_
+Servei	NEUROLOGIA
+Data d'alta  28.06.2017	08:57:17
+_LOCATION_
+_CONTACT_; _CONTACT_ FILL DOMICIL/RES.SOC 14.06.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Paciente de 84 años que ingresa por Ictus hemorrágico en territorio de ganglios basales derechos.
+
+ANTECEDENTS
+Antecedentes médico-quirúrgicos:
+-No alergias medicamentosas conocidas.
+-FRCV: HTA.
+-Insuficiencia aórtica moderada en control en CEX de Cardiología.
+**Ecocardiograma (julio 16): Insuficiencia aórtica moderada secundaria a dilatación de la raíz aórtica (43 mm) y aorta ascendente (42 mm). Ventrículo izquierdo no dilatado, moderadamente hipertrofiado, con normal función sistólica y  disfunción diastólica por mala relajación. Aurícula izquierda moderadamente dilatada. PAPs en límites superiores  normales.
+-Taquicardias paroxísticas regulares rítmicas de QRS estrecho visto por Cardiología y dado de alta con Amiodarona.	Actualmente no toma tratamiento con dicho antiarritmico.
+-Deterioro cognitivo de perfil vascular con alteraciones conductuales moderadas (MMSE= 22/30). Delirio celotípico que	respondió muy bien a dosis bajas de quetiapina.
+-Maculopatía inespecífica en ambos ojos.
+-HBP con necesidad de RTU (junio12).
+-No antecedentes de patología cerbrovascular. Eco doppler marzo 17: Elongación ACC Derecha. Placas calcificadas en	bifurcación carotídea izda sin alteración hemodinámica. Vertebrales hipoplásicas. Hallazgo de registros arrítmicos y	nódulo tiroideo derecho.
+
+
+
+MEDICACIÓ HABITUAL
+Adiro 300mg (0-0-1), simvastatina 20 mg (0-0-1), amlodipino 5mg (1-0-0), emconcor 5 mg (1-0-0), enalapril 10mg
+(1-0-0), quetiapina 25mg (0-0-1).
+
+
+PROCÉS ACTUAL
+El paciente refiere a las 7.00h de la mañana al despertarse cuadro clínico de paresia de hemicuerpo izquierdo y disartria. No refiere otra sintomatología acompañante. A su llegada a urgencias RACE 5.
+
+
+EXPLORACIÓ FÍSICA
+
+FC	83 bpm
+Tªaxi 36.6 ºC
+FR	rpm Tªrec  ºC
+TA s	116 mmHg SAT O2 95 %
+TA d   64 mmHg Pes Kg
+
+Informe de Trasllat a Sociosanitari
+
+
+
+
+
+Regular estado general. Buena coloración mucocutánea. sin signos de dehidratación.
+E.NRL: Consciente y desorientado en tiempo. Disatria, no afasia. Pupilas isocóricas y normorreactivas. Paresia facial izquierda. Resto de pares craneales conservados. Campimetría por confrontación conservada. Fuerza: Claudicación de ESI y balance muscular 1/5. Claudicación <5s de EII y balance 2/5. Sensibilidad conservada.
+AC: tonos arritmicos, sin ruidos sobreañadidos.
+AR: murmullo vesicular conservado, sin ruidos sobreañadidos.
+
+
+EXPLORACIÓ COMPLEMENTÀRIA
+Pruebas complementarias realizadas en urgencias:
+-Analítica sanguínea: Glucosa 82 mg/dL, Urea 36 mg/dL, Creatinina 1.09 mg/dL, Sodi 141.3 mmol/L, Potassi  4.14 mmol/L, Leucòcits 8.02 x10x9/L, Hemoglobina 16.8 gr/dl, Plaquetes 168 x10x9/L.
+-TC  craneal:  Hematoma  agut  de  ganglis  basals  drets  de  2,3  cm.  Lesions  d'hipòxia-isquèmia  crònica supratentorials i signes d'atròfia cerebral difusa.
+-Angio TC: El·longació i ateromatosi generalitzada de vasculatura tant supraaòrtica com intracranial.
+
+Pruebas complementarias realizadas durante el ingreso:
+-Analítica sanguínea:
+*Bioquímica: Glucosa 74 mg/dL, Urea 42 mg/dL, Creatinina  0.93 mg/dL, Filtrat glomerular  (estimacio  segons CKD-EPI) 75.12 mL/min/1.73m2, Sodi 140.2 mmol/L, Potassi 4.83 mmol/L, PCR 32.8 mg/L.
+*Hemograma: Leucòcits 10.25 x10x9/L, Hemoglobina 15.6 gr/dl, Plaquetes 143 x10x9/L.
+-TC  craneal  (23/06/2017):  Imagen  hiperdensa a  nivel  de  los  nucleos de  la  base  derechos  compatible  con hemorragia que ha disminuido de tamaño respecto al TC previo del 14-6-17.
+
+EVOLUCIÓ CLÍNICA
+Paciente de 84 años que ingresa por hemorragia de ganglios basales dchos que condiciona disartria y hemiparesia izda. Evolución clínica neurológica sin complicaciones. Buen control tensional. Estabilidad del déficit neurológico: al alta, diasartria moderada, hemiparesia izda (B 1/5, C 2/5). Disfagia moderada. Precisaría líquidos con espesantes, pero el paciente se niega. Tolera sedestación.
+
+Como principales incidencias:
+-Trastorno del ritmo cardiaco complejo. En la telemetría se observa periodos donde alterna ritmo sinusal con BAV de 1er grado, fibrilación auricular con frecuencia ventricular media de 90-100 bien tolerada y taquicardia auricular bloqueada, con una frecuencia en torno a 60 lpm. Se realiza interconsulta a Cardiología y dado que el paciente esta asintomático recomiendan no iniciar tratamiento.
+-Episodios de delirium nocturnos que por el momento no se han controlado a pesar de los aumentos de dosis de quetiapina.
+-Parotiditis aguda dcha, con buena evolución con hidratación y ATB. Valorado por UFISS-Geriatría, se traslada a USS para convalecencia. DIAGNÒSTICS
+
+Informe de Trasllat a Sociosanitari
+
+
+Hemorragia de ganglios basales dcha de etiologia hipertensiva Síndrome confusional agudo
+Parotiditis aguda
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Omeprazol 20mg 1/24h Enalapril 5mg 1/24h Paraceatamol 1g 1/8h si precisa
+Haloperidol 5 mg/ml 2,5mg a la noche si precisa Quetiapina 125mg a la noche si precisa
+Dieta de facil mastcicación hiposódica Constantes por turno
+Sedestación
+
+
+DESTINACIÓ A L'ALTA:	SOCI SANITARI
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+28.06.2017
+Pàgina 1 de 3

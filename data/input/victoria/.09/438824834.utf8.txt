@@ -1,0 +1,129 @@
+_LOCATION_ Telf Consultes: _CONTACT_ / _CONTACT_
+Telf Centraleta Hospital: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 78 Anys
+NIF/DNI: _ID__NAME_; _NAME_
+Informe d'alta d'hospitalització
+CP	_LOCATION_
+ABS	_SS_
+Servei	NEUROLOGIA
+Data d'alta  08.11.2017	09:38:48
+_LOCATION_
+_CONTACT_; _CONTACT_
+DOMICIL/RES.SOC 30.10.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Paciente que ingresa por cuadro clínico de afasia compatible con  Ictus isquemico.
+
+ANTECEDENTS
+A. Familiares:
+Madre y hermanos con historia de ACV de repetición y demencia en edad precoz.
+
+A. Personals:
+Vive con marido dependiente por ceguera e hijo con epilepsia. No habitos toxicos.
+
+HTA en tratamiento farmacologico.
+Fibrosis pulmonar desde hace 3 años, en corticoterapia. Artrosis IF de las manos.
+Glaucoma.
+Insominio crónico: hipnoticos, recinte cambio hace tres meses a quetiapina.
+Perdida de memoria leve, olvido de citas medicas, olvidos de compras. No desorientación temporo-espacial. Periodo de confusión con cambio hace un año, coincidiendo con Infección Respiratoria.
+IQx-: Cirurgia timpanica y ortopedica de la espalada derecha.
+
+No alteraciones de la marcha. Niega antecedentes psiquiatricos. No AVC previos. Autonoma e independiente para AVD. Ramkin 0.
+
+MEDICACIÓ HABITUAL
+Azitromicina 250mg 3/1s, Calcium 500mg 1 x 24 h. Cosopt (Dorzolamida/timolol) colirio 3x24h, Diovan 80mg 1/24h (Valsartan), Fluconazol 200mg 1/1s, hodroferol, omeprazol  20mg/d, paracetamol 1gr/8hsp, prednisona 5mg/d, quetiapina 25mg 2/24h, xalatan (Latanoprost) colirio.
+
+PROCÉS ACTUAL
+Mujer de 78 años que el día 30.10.17 refiere familiares que se ha levantado bien, el marido la ha visto a las 9.30h, posteriormente ha ido a realizar las compras. Inica clínica a las 10h aproximadamente con afasia, sin otra focalidad o sintomas acompañantes. Familiares refieren cierta desviación de comisura labialñ, debilidad crural y alteración campimetrica. Por lo que es llevada a _SS_, donde activan codigo ICTUS y es referida a nuestro centro.
+
+EXPLORACIÓ FÍSICA
+
+TA 205/103. FC 79ppm. telemetria en ritme sinusal. Afebril. AC: tons rítmics.
+AR: mvc
+
+Informe d'alta d'hospitalització
+
+
+
+
+ABD: tou i depressible
+Exploración NRL: conscient, bon nivell alerta, orientada en persona, afasia motora amb comprensió conservada, emet algun mot comprensible però es incapaç de evocar, nominar o repetir, hemianòpsia homònima dreta, paresia facial central dreta, força 4 EE 5/5, sensibilitat aparentment conservada perque compren ordres i em respon amb signes, signe de Babinski dret, RCP E flexor. Resta normal.
+NIHSS 7 / PACI
+
+Al ingreso en sala de NRL:
+Hemodinamicamente estable. Consciente con leve desorientación, concentración discretamente alterada. Correcta compresnsión. Campos visuales normales. No asimetria facial. No claudica, RMP simetricos; dudosa asimetria en RCP derecho cn tendencia  extensora. Sensibilidad y coordinación normales.
+NIHSS 0
+
+EXPLORACIÓ COMPLEMENTÀRIA
+Analitica de URG
+-Bioquímica: Creatinina 0.71 mg/dL, Glucosa 95mg/dL, K 3.8mEq/L, Na 137mEq/L, Urea 35 mg/dL.
+-Hemograma:  Hb 13g/dl, Hto 40%, VCM 84fl, leucos 10630cel/L (N 73%), plaquetas 246000cel/L.
+-Hemostasia: INR 1.11, fibrinogeno 387mg/dl.
+
+ECG: Ritmo sinusal.
+Rx Tórax: Portatil, sin cardiomegalia, senos libres, botón aortico prominente, sin imagenes de condensación o masas.
+
+TC Cranial 30.10: Signos de atrofia cerebral cortical con surcos cerebrales prominentes. No claras lesiones isquémicas ni hemorrágicas en la actualidad. Estructuras de la línea media centradas. Sin anomalías evidentes en foas posterior.
+Angio TC TSA 30.10: El estudio angiográfico muestra permeabilidad de eje carotídeo bilateral y vertebrobasilar sin estenosis ni imágenes de adición.
+
+TC Cranial post-rtPA 31.10: Aparición de pequeño hematoma intraparenquimatoso temporal izquierdo, PH1 que se acompaña de discreto edema periferico, pero sin condicionar efectod e masa significativo. Resto de estudio sin cambios significativos.
+
+Telemetria UCIM: sin detección de arritmias.
+
+Analitica NRL:
+-Bioquímica: Glucosa 81mg/dL, Urato 3.57mg/dL, Urea 31mg/dL, Creatinina 0.48mg/dL, Colesterol 195mg/dL, HDL 86mg/dL, LDL 94.5mg/dL, TG 75mg/dL, AST 24U/L, ALT 12U/L, GGT 28U/L, BT 0.42mg/dL, FA 58U/L, Albumina 3.53g/dL, Proteina 6.33 g/dL, Ca 8.9 mg/dL, PCR <0.40 mg/dL, Na 137mEq, K 4mEq, FR 25ul, Ac folico, Vit B, TSH y Serologia sifilis pendiente.
+-	Proteinograma pendiente.
+-	Hemograma:  VSG 5mm, Hb 11.6g/dl, Hto 35%, VCM 83fl, leucos 6180cel/L, plaquetas 102000cel/L.
+
+
+Ecocardio TT: VI con hipertrofia a nivel de septo basal sigmoide, con FVI conservada. Insuficiencia aórtica leve degenerativa. Septo interauricular aneurismático, Sin evidencia de shunt I-D por esta vía de estudio. Ateromatosis no complicada del cayado aórtico.
+
+Informe d'alta d'hospitalització
+
+
+
+
+
+RMN cerebral: cita 07.11: imagen hemorrágica temporal izquierda sin complicaciones, compatible con infarto cerebral en territorio distal de la ACM izquierda con transformación hemorrágica por recanalización.
+
+
+EVOLUCIÓ CLÍNICA
+A su llegada a Urgencias se objetiva afasia motora con comprensión conservada, dificultad para evocar, nominar o repetir, hemianopsia homina derecha, paresia facial central derecha, Babinski derecho positivo. NIHSS 7, PACI. Se realiza TC craneal que no muestra sangrado. Se procede a trombolisis endovenosa, e ingresa a UCIM. La paciente permanece estable con recuperación completa del déficit neurológico, se realiza TAC craneal de control que evidencia transformación hemorràgica con pequeño hematoma lobar temporal izquierdo a las 24 horas. La paciente despues de estar en observación estable y sin complicaciones en UCIM pasa a planta convencional de Neurologia.
+En planta de Neurología permanece estable y asintomática con mejroría de afasia motora y deficit motor, y asucencia de defecto campimetrico. Durante su estadia en planta se mantiene hemodinamicamente estable, se completa estudio etiologico con analitica completa, Ecocardiograma y RMN cerebral descrita.
+
+Actualmente paciente Consciente y orientada, no afasia, comprensión de lenguaje y ordenes adecuadas, pares craneales y campimetria sin alteraciones, fuerza y sensibildad conservada, deambula por habitación acompañada de familiares. Ante estabilidad clíncia se decide alta a domiclio con tratamiento de prevención secundaria. Debe inciar antiagregación en una semana y precisa control estricto de los FRV.
+
+DIAGNÒSTICS
+ICTUS isquemico en territorio de la ACM izquierda fibrinolizado, de mecanismo embólico y causa indeterminada Transformaciónhemorrágica del infarto.
+HTA.
+Fibrosis pulmonar. Alergias ASS - AINES.
+
+
+PROCEDIMENTS
+Médicos, analiticos, ECG, TC Cranial-TSA, AngioRM cerebral, Fibrinolisis.
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Continuar con su medicación habitual
+
+Inicar: Clopidogrel 75mg 1 comp/d en una semana
+
+CONTROL
+Continuar controles con su MAP y especialistas de referencias. Acudir si presenta signos de alrma.
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+08.11.2017
+Pàgina 1 de 3

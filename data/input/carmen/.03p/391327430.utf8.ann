@@ -1,0 +1,108 @@
+T0	FECHA 233 243	14.07.2017
+#0	AnnotatorNotes T0	2017-07-14
+T1	HORA 246 251	18:13
+#1	AnnotatorNotes T1	18:13
+T2	_SUG_Ictus_isquemico 275 280	ICTUS
+T3	FECHA 305 315	14.07.2017
+#3	AnnotatorNotes T3	2017-07-14
+T4	HORA 318 323	17:30
+#4	AnnotatorNotes T4	17:30
+T5	SECCION_MOTIVO_DE_INGRESO 389 406	Motivo de ingreso
+T6	_SUG_Ictus_isquemico 444 459	ictus isquémico
+T7	SECCION_ANTECEDENTES 462 474	ANTECEDENTES
+T8	FECHA 567 580	julio de 2014
+#8	AnnotatorNotes T8	2014-07-UNDEF-day
+T9	_SUG_Ataque_isquemico_transitorio 614 617	AIT
+T10	_SUG_Lateralizacion 647 656	izquierda
+T11	_SUG_Etiologia 685 694	aneurisma
+T12	_SUG_NIHSS 892 901	NIHSS = 0
+T13	_SUG_mRankin 903 910	mRS = 0
+T14	_SUG_Lateralizacion 957 966	izquierdo
+T15	_SUG_Trombolisis_intravenosa 1093 1102	trombosis
+T16	_SUG_Lateralizacion 1276 1283	derecha
+T17	_SUG_Lateralizacion 1286 1295	izquierda
+T18	SECCION_ANTECEDENTES_QUIRURGICOS 1672 1696	Antecedentes quirúrgicos
+T19	SECCION_TRATAMIENTO_HABITUAL 1738 1757	Medicación habitual
+T20	_SUG_Etiologia 1823 1830	Embolia
+T21	SECCION_PROCESO_ACTUAL 1971 1988	ENFERMEDAD ACTUAL
+T22	HORA 1995 2000	16:45
+#22	AnnotatorNotes T22	16:45
+T23	FECHA 2022 2032	14/07/2017
+#23	AnnotatorNotes T23	2017-07-14
+T24	_SUG_Lateralizacion 2177 2187	izquierdas
+T25	HORA 2270 2275	17:30
+#25	AnnotatorNotes T25	17:30
+T26	_SUG_Lateralizacion 2305 2314	izquierdo
+T27	_SUG_NIHSS 2330 2339	NIHSS = 5
+T28	_SUG_Trombolisis_intravenosa 2371 2380	trombosis
+T29	_SUG_Localizacion 2388 2396	profunda
+T30	_SUG_TAC_craneal 2398 2408	TC craneal
+T31	_SUG_ASPECTS 2430 2441	ASPECTS =10
+T32	_SUG_Trombectomia_mecanica 2500 2524	tratamiento endovascular
+T33	_SUG_Ictus_isquemico 2542 2557	ictus isquémico
+T34	_SUG_Arteria_afectada 2572 2575	ACM
+T35	_SUG_Lateralizacion 2576 2577	D
+T36	_SUG_Trombolisis_intravenosa 2628 2632	rTPA
+T37	HORA 2649 2654	18:03
+#37	AnnotatorNotes T37	18:03
+T38	_SUG_Ictus_isquemico 2706 2711	ictus
+T39	_SUG_Trombolisis_intravenosa 2718 2722	rtpa
+T40	SECCION_EXPLORACION_FISICA 2830 2848	EXPLORACIÓN FÍSICA
+T41	_SUG_NIHSS 3261 3301	NIHSS: 0.0.0.0.0/2(0.0)(0.0)/1.0.1.0.0=4
+T42	SECCION_EXPLORACION_FISICA_AL_ALTA 3303 3329	Exploración física al alta
+T43	_SUG_NIHSS 3665 3707	NIHSS 0.0.0.0.0/0(0.0)(0.0)/0.0.01.0.0 = 1
+T44	SECCION_EXPLORACIONES_COMPLEMENTARIAS 3709 3738	EXPLORACIONES COMPLEMENTARIAS
+T45	SECCION_EXPLORACIONES_COMPLEMENTARIAS_EN_URGENCIAS 3741 3760	Analítica urgencias
+T46	_SUG_Etiologia 4317 4329	ateromatosis
+T47	_SUG_TAC_craneal 4332 4342	TC craneal
+T48	_SUG_Etiologia 4364 4371	lacunar
+T49	_SUG_Localizacion 4364 4371	lacunar
+T50	_SUG_Localizacion 4372 4380	talamico
+T51	_SUG_Lateralizacion 4432 4433	e
+T52	_SUG_Lateralizacion 4507 4511	Izda
+T53	_SUG_TAC_craneal 4515 4525	TC craneal
+T54	_SUG_Lateralizacion 4603 4604	D
+T55	_SUG_Arteria_afectada 4670 4673	ACM
+T56	_SUG_Lateralizacion 4674 4675	D
+T57	_SUG_TAC_craneal 4706 4708	TC
+T58	_SUG_Hemorragia_cerebral 4724 4735	hemorragias
+T59	_SUG_TAC_craneal 4851 4853	TC
+T60	_SUG_Localizacion 4950 4961	ventricular
+T61	_SUG_Lateralizacion 4972 4981	izquierda
+T62	_SUG_Lateralizacion 5136 5144	derechas
+T63	SECCION_EVOLUCION 5300 5309	EVOLUCIÓN
+T64	_SUG_Ictus_isquemico 5366 5381	ictus isquémico
+T65	_SUG_Lateralizacion 5393 5400	derecho
+T66	FECHA 5484 5488	2014
+#66	AnnotatorNotes T66	2014-UNDEF-month-UNDEF-day
+T67	_SUG_Ataque_isquemico_transitorio 5507 5510	AIT
+T68	_SUG_NIHSS 5547 5557	NIHSS de 1
+T69	SECCION_PROCEDIMIENTOS 5895 5909	PROCEDIMIENTOS
+T70	_SUG_TAC_craneal 6151 6153	TC
+T71	_SUG_Lateralizacion 6197 6198	e
+T72	SECCION_DIAGNOSTICO_PRINCIPAL 6240 6251	DIAGNÓSTICO
+T73	_SUG_Ictus_isquemico 6252 6259	Infarto
+T74	_SUG_Localizacion 6260 6267	frontal
+T75	_SUG_Lateralizacion 6268 6275	derecho
+T76	_SUG_Arteria_afectada 6306 6309	ACM
+T77	_SUG_Lateralizacion 6310 6317	derecha
+T78	_SUG_Etiologia 6331 6344	indeterminada
+T79	_SUG_Etiologia 6355 6364	aneurisma
+T80	SECCION_RECOMENDACIONES 6399 6422	RECOMENDACIONES AL ALTA
+T81	_SUG_Etiologia 6444 6456	hipertensión
+T82	_SUG_Lateralizacion 6885 6890	Dieta
+T83	_SUG_Lateralizacion 7077 7082	dieta
+T84	SECCION_TRATAMIENTO_AL_ALTA 7422 7433	Tratamiento
+T85	_SUG_Tratamiento_antiagregante 7438 7441	AAS
+T86	HORA 7453 7457	8:00
+#86	AnnotatorNotes T86	08:00
+T87	HORA 7495 7500	20.00
+#87	AnnotatorNotes T87	20:00
+T88	HORA 7530 7534	8:00
+#88	AnnotatorNotes T88	08:00
+T89	HORA 7579 7584	20:00
+#89	AnnotatorNotes T89	20:00
+T90	FECHA 7756 7766	20.07.2017
+#90	AnnotatorNotes T90	2017-07-20
+T91	FECHA 7843 7853	20.07.2017
+#91	AnnotatorNotes T91	2017-07-20

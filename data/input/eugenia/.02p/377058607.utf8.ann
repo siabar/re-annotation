@@ -1,0 +1,50 @@
+T0	FECHA 310 320	02-06-2017
+#0	AnnotatorNotes T0	2017-06-02
+T1	SECCION_DIAGNOSTICOS 339 350	DIAGNÒSTICS
+T2	_SUG_Localizacion 364 369	lobar
+T3	_SUG_Localizacion 370 377	frontal
+T4	_SUG_Lateralizacion 378 379	D
+T5	_SUG_Etiologia 446 465	Angiopatia amiloide
+T6	_SUG_Hemorragia_cerebral 519 540	hemorràgies cerebrals
+T7	_SUG_Ictus_isquemico 664 669	ictus
+T8	SECCION_ANTECEDENTES_PATOLOGICOS 672 695	ANTECEDENTS  PATOLÒGICS
+T9	_SUG_Tratamiento_antiagregante_alta 945 948	AAS
+T10	_SUG_Tratamiento_antiagregante_hab 945 948	AAS
+T11	SECCION_SITUACION_FUNCIONAL 968 988	Situació fu ncion al
+T12	SECCION_MOTIVO_DE_INGRESO 1192 1206	MOTIU CONSULTA
+T13	FECHA 1264 1272	23/05/17
+#13	AnnotatorNotes T13	2017-05-23
+T14	HORA 1363 1368	20:45
+#14	AnnotatorNotes T14	20:45
+T15	HORA 1455 1460	19:00
+#15	AnnotatorNotes T15	19:00
+T16	HORA 1500 1505	21:20
+#16	AnnotatorNotes T16	21:20
+T17	_SUG_TAC_craneal 1830 1841	TAC cranial
+T18	_SUG_Localizacion 1868 1875	frontal
+T19	SECCION_EXPLORACION_FISICA 2230 2248	EXPLORACIÓ  FÍSICA
+T20	_SUG_NIHSS_alta 2945 2958	Escala NIHSS:
+T21	_SUG_NIHSS_previa 2945 2958	Escala NIHSS:
+T22	SECCION_EXPLORACIONES_COMPLEMENTARIAS 2996 3024	EXPLORACIO   COMPLEMENTÀRIES
+T23	_SUG_Localizacion 3496 3503	frontal
+T24	_SUG_Localizacion 3633 3640	frontal
+T25	_SUG_Localizacion 3735 3742	frontal
+T26	_SUG_Localizacion 3791 3798	frontal
+T27	_SUG_Localizacion 3960 3967	frontal
+T28	_SUG_Localizacion 4084 4091	frontal
+T29	_SUG_Localizacion 4204 4211	frontal
+T30	_SUG_Localizacion 4691 4703	cerebel·losa
+T31	_SUG_Lateralizacion 4822 4823	I
+T32	_SUG_Hemorragia_cerebral 4970 4989	hemorràgia cerebral
+T33	_SUG_Localizacion 5010 5017	frontal
+T34	_SUG_Etiologia 5068 5087	angiopatia amiloïde
+T35	_SUG_NIHSS_alta 5445 5452	NIHSS 0
+T36	_SUG_NIHSS_previa 5445 5452	NIHSS 0
+T37	_SUG_mRankin_alta 5454 5462	Rankin 2
+T38	_SUG_mRankin_previa 5454 5462	Rankin 2
+T39	SECCION_TRATAMIENTO_HABITUAL 5601 5611	TRACTAMENT
+T40	_SUG_Tratamiento_antiagregante_alta 5645 5648	AAS
+T41	_SUG_Tratamiento_antiagregante_hab 5645 5648	AAS
+T42	_SUG_Etiologia 5681 5689	habitual
+T43	HORA 5754 5759	09:47
+#43	AnnotatorNotes T43	09:47

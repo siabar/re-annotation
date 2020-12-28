@@ -1,0 +1,120 @@
+_LOCATION_
+Tel. _CONTACT_
+_LOCATION_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 76 Anys
+NIF/DNI: _ID_Informe d'alta d'hospitalització
+11:30:00
+06.03.2017
+_LOCATION_
+_SS_ - NEUROLOGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_
+DOMICIL/RES.SOC 23.02.2017
+_NAME_
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Debilidad de extremidades derechas
+
+ANTECEDENTS
+Insuficiencia renal con creatininas alrededor de 3, no filiada pendiente de colocación de FAV. HTA. DLP.
+Hiperuricemia. Gota en pie izquierdo. Coxartrosis.
+Polipectomía.
+Trastorno hematológico posible (2011).
+No alergias medicamentosas conocidas.
+
+MEDICACIÓ HABITUAL
+Adiro 300 mg: 1-0-0; Atorvastatina 80 mg: 0-0-1; Doxazosina 2 mg: 1-0-1; Omeprazol 20 mg: 1-0-0; Orfidal 1 mg:
+0-0-1; Torasemida 10 mg: 1-0-0; Zemplar 1 mcg: 1-0-0 .
+
+PROCÉS ACTUAL
+Varón de 76 años con antecedente de ictus PACI izquierdo de etiología indeterminada con estudio vascular previo sin alteraciones relevantes. Ingresa de nuevo el 23.02.17 por reagudización del déficit previo que había recuperado. No obstante los síntomas se iniciaron con sensación de debilidad de ambos miembros inferiores y malestar general tras finalizar tratamiento RHB en _LOCATION_. Constantes iniciales con PA de 94/59 mmHg que remonta a 114/59 mmHg tras administración de 500 mL de SF.
+
+EXPLORACIÓ FÍSICA
+
+mRankin: 2
+NIHSS: 7
+Consciente (0). Responde bien a las preguntas (0). Realiza órdenes correctamente (0). No desviación ocular (0). Probable cuadrantanopsia inferior derecha (1). PFC derecha (1). Debilidad de predominio braquial distal derecha (2 con plejia mano/1). Dismetría no valorable. Hipoestesia brazo derecho (1). Nomina bien (0). Disartria leve (1). No extinción en mmii, no valorable mmss.
+
+EXPLORACIÓ COMPLEMENTÀRIA
+Urgencias
+TAC craneal (23.02.17):  Ligera hipodensidad cortico-subcortical en región frontal supero-izquierda en relación con proceso vascular instaurado, ya visible en RM del 10/02/2017. No se observan signos de patología aguda.
+
+ECG (23.02.17): RS
+
+Informe d'alta d'hospitalització
+
+
+
+
+Rx Tx: (23.02.17): sin alteraciones relevantes.
+
+Analítica (23.02.17): glucosa de 111, urea 112, creatinina 3.36, AST 53, ALT 91, anemia con Hb 10 normocítica,
+Hto 32%.
+
+Planta Neurología
+
+Analítica (24.02.17): glucosa 95, urea 121, creatinina 3.2, AST 49, ALT 81, GGT 152, FA 169, Prot 5.4, VSG 108,
+Ca 8.3, Hb 9.7, Hto 31%.
+
+RM cerebral (27.02.17): Signos de transformación hemorrágica en fase inicial del infarto subagudo en el territorio de la ACM izquierda, ya conocido.
+
+Telemetría: se observan extrasístoles aisladas. No otras arritmias.
+
+ECG: RS con alguna extrasístole.
+
+Doppler transcraneal (01.03.17): S'insonen ambdos sifons carotidis, ambdos troncs de ACMs i primeres bifurcacions de les ACMs M2, fins a 40 mm de profunditat, sense patrons Doppler que sugegreixin estenosi ni oclusió. CONCLUSIÓ: -Estudi Duplex TC d eterritori anterior sense evidència d'estenosis intracranials ni oclusions.
+
+
+EVOLUCIÓ CLÍNICA
+Dado que el paciente tiene antecedente de infarto isquémico reciente (en menos de un mes) no se considera candidato a tratamiento fibrinolítico. La clínica del paciente se atribuye a empeoramiento de una focalidad previa en contexto de cuadro de hipotensión arterial con recuperación posterior hasta recuperar estado previo y sin objetivarse nuevas lesiones isquémicas en la RM cerebral.
+Se completa el estudio con ecografía transcraneal que no muestra patrones sugestivos de estenosis a nivel intracraneal.
+En el registro de telemetría se observan rachas de extrasístoles ventriculares sin observarse otras arritmias. Destaca también hipertensión de difícil manejo con episoido presincopal en relación con hipotensión de hasta 82/45 mmHg durante el cual presenta debilidad de extremidad superior derecha que se resuelve al remontar la presión.
+Como incidencia durante el ingreso el paciente ha presentado dos crisis de podagra en el pie que se ha tratado con corticoides.
+Durante el ingreso el paciente ha sido valorado por Cardiología y Medicina Interna.
+
+Exploración al alta: mRankin: 2
+NIHSS: 0
+
+
+DIAGNÒSTICS
+434.91/5 Ictus PACI ACM izquierda de etiología indeterminada  previo con empeoramiento de la focalidad en contexto de cuadro de hipotensión arterial sin objetivarse nueva lesión isquémica en neuroimagen.
+401.9/1 Hipertensión arterial de difícil manejo.
+
+Informe d'alta d'hospitalització
+
+
+
+
+585.6 Insuficiència renal crónica. 274.9/2 Gota
+
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Dieta baja en sal y grasas AAS 300 1 cp al día,
+Atorvastatina 40 mg 1 cp cena Prednisona 15 hasta el día 8/3 Doxazosina 2 mg/12 horas Torasemida 10 mg en desayuno
+
+CONTROL
+Tiene pendiente estudio ambulatorio de MAPA de TA.
+
+Acudirá a visita con Cardiología y Neurología (Vascular) en la fecha indicada.
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+06.03.2017
+Pàgina 1 de 3

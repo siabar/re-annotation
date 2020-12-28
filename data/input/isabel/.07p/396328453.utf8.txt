@@ -1,0 +1,134 @@
+1/ 4
+
+Cognoms:  _NAME_	Adreça: _LOCATION_
+Nom:	_NAME_	_LOCATION_
+Edat: 73	Sexe: H	CIP:	_ID_	NIF:	_ID_
+Data naixement:  _DATE_	NHC:	_ID_	NASS:  _ID_
+Telèfon / Mòbil:	_CONTACT_ / _CONTACT_
+
+INFORME D'ASSISTÈNCIA
+Metge/essa:	_NAME_
+_NAME_, _NAME_ 
+_NAME_ _NAME_
+
+Servei:	Medicina interna/ Oncología Mèdica
+
+Data ingrés:	19/07/2017	Data Alta: 01/08/2017
+S'informa a:	Metge de família	Núm. llit: _ID_
+
+DIAGNÒSTICS:
+1.	ADENOCARCINOMA COLON DRET ESTADI IV.
+2.	METÀSTASI HEPÀTIQUES, PULMONARS, CARCINOMATOSI PERITONEAL I VESSAMENT PLEURAL BILATERAL.
+3.	ALTERACIÓ FUNCIÓ HEPÀTICA SECUNDÀRIA.
+4.	ICTUS ISQUÈMIC TERRITORI ARTÈRIA CEREBRAL MITJA DRETA.
+5.HIPOPROTEINÈMIA
+6.	HIPOVITAMINOSI D SEVERA. 7.HTA.
+
+PROCEDIMENTS:
+1.	Analítica
+2.	Rx tòrax
+3.	ECG.
+4.	TAC craneal.
+5.	RMN craneal.
+6.	Paracentesi evaquadora.
+7.	Col.locació PAC.
+8.	Valoració per Nutrició.
+9.	Quimioteràpia.
+
+
+
+
+Pacient de 73 anys, sense al·lèrgies medicamentoses conegudes i exfumador fins fa 2 anys de 20-30 cig/dia (índex acumulat de 50paq-any), i sense hàbit enòlic.
+
+ANTECEDENTS    PERSONALS/PATOLÒGICS:
+-Antecedents familiars: mare probable CA intestinal.
+-Situació sociobasal: vidu, viu sol, amb suport dels fills. No deteriorament cognitiu. Independent per a les ABVD. Electricista.
+-HTA en tractament amb 3 fàrmacs.
+-Hipopotasèmia de fins a 2.9 des 2016, que es va associar a tractament diürètic.
+-Probable còlic nefrític el 2008. Es va realitzar ecografia RVP: pròstata de 46x36x40 mm. Vol: 34 cc, resta normal.
+-Ingrés al Nov/16 per ictus isquèmic lacunar, que es va presentar amb alteració de la marxa. Sense seqüeles posteriors. TAC cranial: atròfia corticosubcortical. Infart lacunar a nucli caudat dret d'aspecte crònic. Leucoencefalopatia crònica hipòxico-isquèmica de petit vas. EcoTSA / DTC: ateromatosi sense alteracions valorables. No s'ha pogut visualitzar artèria vertebral dreta al seu trajecte extracranial. ECG-Holter: ritme Sinusal. ESVs molt ocasionals. 3 EVs. Ecocardiograma: Hipertròfia VE lleugera amb f. sistòlica conservada.
+-Apendicectomitzat.
+HISTORIA ONCOLÒGICA:
+Primer símptoma: Clinica d'astènia progressiva amb anorèxia i distensió abdominal d'1 mes d'evolució, per lo que ingressa per estudi.
+
+Primer diagnòstic:
+Ingrés a Medicina Interna per estudi del 7 al 13/07/17 es realitza pacentesis diagnòstica i doble toracocentesis evaquadora bilateral durant l'ingrés.
+-Citología líquid ascític (7/07/17): positiu per a adenocarcinoma. Positiu per CEA; CK 20, CDX2, i focalment per CK7. Aquest perfil és compatible amb un tumor primari de còlon.
+-TAC TA (10/07/17): Adenopaties mediastíniques pretraqueals i a l'espai prevascular, les més grans de 12 mm. Estructures mediastíniques sense anomalies valorables. Artèries pulmonars permeables.
+Lleu embassament pericàrdic. S'identifiquen petits nòduls pulmonars bilaterals el més gran al lòbul superior esquerre d'11 mm de mida aproximada Moderat embassament pleural bilateral amb col·lapse del parènquima pulmonar subjacent. Fetge homogeni i de mida conservada. S'identifiquen múltiples lesions hepàtiques bilobars suggestives de M1. Les més grans a s.II.IV de 54 mm, a s.V de 38 mm, i a s.VII de 59 mm. Presència d'adenopaties a hil hepàtic, alguna d'elles d'aspecte necròtic. Les més grans de 12 mm. Venes suprahepàtiques i eix esplenoportal permeable. Colelitiasis. Via biliar intra i extrahepàtica no dilatada. Lesions nodulars hipodenses a ambdues glàndula suprarenal de 19 mm de mida aproximada, suggestives d'adenomes. Pàncrees, melsa, i ambdós ronyons sense anomalies valorables. Quistes parapièlics esquerres. Bufeta urinaria ben replecionada i de parets llises. A còlon dret, i per sobre de la vàlvula ileocecal, s'objectiva un engruiximent mural del colon, que subestenosa la llum, amb probable relació a procés neoformatiu. Resta del marc còlic i nanses intestinals de morfologia i diàmetre conservat. No hi ha adenopaties retroperitoneals, mesentèriques ni ilíaques de mida significativa. Ganglis retroperitoneals infracentimètrics, de localització paraaòrtica.
+Abundant líquid lliure intraabdominal, amb lleu trabeculació del greix peritoneal, amb probable relació a carcinomatosis. CONCLUSIÓ: Estudi TC toracoabdominal que mostra probable procés neoformatiu primari amb còlon dret, amb múltiples metàstasis hepàtiques i amb signes de carcinomatosi peritoneal, així com petits nòduls pulmonars suggestius de la M1, i embassament pleural bilateral.
+-Citología líquid pleural dret (12/07/17): positiu per adenocarcinoma.
+-Citología líquid pleural esquerra (12/07/17): positiu per adenocarcinoma.
+-Colonoscopia (13/07/17): Preparació segons escala de Boston: bona. A sigma pòlip pediculat de 25 mm. A meitat de transvers pòlip sessil de 7 mm i a ascendent massa tumoral d'aspecte infiltratiu que estenosa parcialment la llum que es biopsia. DIAGNÓSTIC: Neoplàsia de còlon. Pòlips còlon.
+AP: Adenocarcinoma moderadament diferenciat amb àrees pobrament diferenciades.
+-Analitica (13.7.17) CEA 222
+
+Alta pendent de primera visita a CCEE Oncologia el 13/07/17.
+
+Tractament habitual: Balzak 40/10/25mg, Atorvastatina 80mg, Omeprazol 20mg, Tromalyt 300mg.
+
+MOTIU D'INGRÉS:
+El 19/07/17 cap a les 12h, la familia se n'adona que no mou bé i no coordina el braç esquerre motiu per el qual avisen  al  SEM  que  el  porten  a  urgències.  Activen  el  codi  ictus  des  de  l'hospital  a  les  12:50h. A la valoració de neurologia: No clar dèfciit motor, però mà claudica lleument probablement per trastorn sensitiu. Extinció sensitiva de hemicòs esquerre. Anosoagnòsico y asomatoagnòsia. Possible dismetria ESE. Resta normal. NIHSS: 0-0-0-0-0//0(0-1)(0-0)//0-1-0-0-2= 4.
+El pacient refereix millora clínica a les 4h de l'inici de la clínica.
+
+
+EXPLORACIÓ FÍSICA:
+TA 109/75. FC 76x'. Afebril. SatO2 93% (GN 2lpm). AC: Tons ritmics, no bufs.
+AP: hipofonesis bibasal
+ABD: globulós amb semiología ascites no a tensió.
+NRL: C i O. F i S conservades. No dismetries, Romberg negatiu.
+
+EXPLORACIONS   COMPLEMENTÀRIES:
+-Analítica urgencies (19/07/17): Glucosa 123, urea 42, creat 1.09, Na 139, K 3.3, Hb 11.4, Hto 35%, leucos
+9370, N 5910, plaquetes 581000. TP 1.3, APTT 0.94. Fibrinògen >500.
+
+-GAB (19/07/17): pH 7.52, pO2 70, pCO2 35, sat 95%.
+-ECG: RS a 90 lpm, sense alteracions del ST-T.
+-Rx tòrax (19/07/17): ICT normal. embassament pleural bilateral.
+-TC cranial (19/07/17): No s'observen lesions isquèmiques ni hemorràgiques agudes. No lesions ocupants d'espai. Alguna lesió paraventricular dreta crònica. Infart lacunar a caudat dret.
+-Analítica (24/07/17): Glucosa 129, urea 64, creat 1.08, FG>60, Na 138, K 4.9, Cl 91, LDH 688, bilirrubina 0.62,
+AST 64. ALT 50, GGT 392, FA 448, Prot t 5.6, Hb 10.9, Leucos 10450, plaquetes 622000.
+-RM crani (25/07/17): Àrea de restricció de senyal en territori d'artèria cerebral mitjana dreta (gir postcentral) compatible amb lesió isquèmica aguda. Substància blanca periventricular  amb hipersenyal en T2 i Flair (leucoaraiosi) així com lesions sequelars isquèmiques de la substància blanca de corona radiata. Calcificacions a la tenda del cerebel vs siderosis per sagnat previ ja que també s'observa solcs parietals bilaterals. Anomalia de drenatge venós frontal dreta. Contacte i desplaçament del bulb causa tortuositat de l'artèria  vertebral esquerra que és dominant. No es detecten altres lesions isquèmiques, hemorràgiques ni malformatives vasculars o neoformatives expansives. Xarnel-la craniocervical sense alteracions.
+-Analítica (26/07/17): glucosa 130.9, urea 71, creatinina 0.95, FG >60, ácido úrico 4.3, Na 140, K 4.6, Cl 94.6,
+BIl total 0.49, GOT 65.2, GPT 67.6, GGT 505.2, FA 467.1, Prot 4.9, colesterol 119.9, Hb 10.2, Leucos 9.000 (N
+81.1%), Plaquetas 498.000.
+-Estudi mutacional B-RAF i RAS: pendent en biòpsia de mostra de teixit i biòpsia líquida.
+-Analítica (31/07/17): glucosa 119.3, urea 64.6, creatinina 0.82, FG >60, ácido úrico 4.9, Na 134, K 3.9, Cl 89.2,
+BIl total 0.92, GOT 59.6, GPT 119.7, GGT 612, FA 499.7, Prot 5.1, colesterol 147.5, Hb 10.6, Leucos 7.560 (N
+83.8%), Plaquetas 412.000.
+
+EVOLUCIÓ:
+1.	ADENOCARCINOMA COLON DRET ESTADI IV (M1 hepàtiques, pulmonars, carcinomatosi peritoneal i vessament pleural bilateral).
+Pendent   resultat   mutacions   RAS   i   BRAF   sol·licitades   en   biòpsia   i   en   biòpsia   líquida   (24/07/17). El 21/07/17 es realitza paracentesi evaquadora amb sortida de 1700ml de líquid ascític, amb milloria posterior de les molèsties abdominals.
+Presenta insuficiència respiratòria lleu inicialment, amb franca millora des de la paracentesi del dia 21/07/17, mantenint SatO2 95-96% amb GF 1Lx '.
+El dia 24/07/17 col·locació de PAC sense incidències, iniciant tractament amb QT de primera línia amb esquema FOLFOX6m el 26/07/17.
+No ha presentat toxicitat aguda al tractament.
+En funció de resultat de mutacions es valorarà afegir anticòs monoclonal (no tributari de tractament angiogènic per ictus recent).
+
+2.	ICTUS ISQUÈMIC TERRITORI ARTÈRIA CEREBRAL MITJA DRETA.
+Consulta a UCIES per clínica hemisfèrica dreta, en el context del pacient podria correspondre a un ictus isquèmic cortical dret versus micrometàstasis cerebrals.
+S'ha realitzat RNM de crani (25/07/17) que mostra àrea de restricció de senyal en territori d'artèria cerebral mitjana dreta (gir postcentral) compatible amb lesió isquèmica aguda. Pendent eco-TSA per completar estudi d'ICTUS, programat el 9/08/17.
+Durant ingrés s'ha suspés tractament amb AAS 300mg pautat en ictus previ al Nov/16 i s'ha iniciat tractament amb Clopidogrel 75mg amb bon control de la clínica neurològica.
+
+3.HIPOPROTEINÈMIA.
+Valorat per Nutrició amb ajust de dieta i suplements proteics.
+
+4.HIPOVITAMINOSI D SEVERA.
+Sol·licitats	nivells	de	VitD	el	24/07/17,	amb	nivells	plasmàtics	inferiors	a	5. Es pauta tractament amb Vit D (s'inicia avui Hidroferol choque) i es sol·licita AG amb PTH per valorar a CCEE. Donada la estabilitat hemodinàmica i bona evolució clínica es decideix donar d'alta amb visita per continuar tractament QT a CCEE segons full adjunt.
+TRACTAMENT:
+
+MEDICACIÓ	ESMORZAR	DINAR	SOPAR	NIT
+Hidroferol 1 comp /semanal				
+Furosemida 40mg	1	0	0	0
+Emportal sobres	1	1	1	0
+Amlodipino 5mg	1	0	0	0
+Plavix 75mg	1	0	0	0
+Paracetamol 1g	1	1	1	0
+Omeprazol 20mg	1	0	0	0
+BoiK Aspártico	1	1	1	0
+*Suplements dietètics.
+
+CONTROL: a CCEE Oncologia segons full adjuntat.
+
+Signat per _NAME_ núm.col: _ID_ Data/Hora:01-08-2017 14:30
+

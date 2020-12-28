@@ -1,0 +1,130 @@
+_LOCATION_) Telèfon _SS_  972 _CONTACT_
+Telèfon IDI (Ressonància i TAC) _CONTACT_
+Telèfon ICO _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 82 Anys
+NIF/DNI: _ID__NAME_; _NAME_
+Informe d'epicrisi
+14:00:00
+22.02.2017
+_LOCATION_
+_SS_ NEUROLOGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_; _CONTACT_; _CONTACT_
+DOMICIL/RES.SOC 20.02.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Baix nivell de consciència
+
+ANTECEDENTS
+ANTECEDENTS PERSONALS No AMC
+No hàbits tòxics
+Rankin 2-3 segons el fill, Barthel 95%: dificultat per comprar sola al carrer degut a que deambula amb bastó, independent per la resta d'activitats a domicili. Va a H de Dia i hi ha una dona que dorm al domicili des de que va enviudar.
+
+ANTECEDENTS PATOLÒGICS
+-	Ingres  a  NRL  al  2006  per  AITs  cardioembolics.  Durant  ingrés  va  presentar empitjorament sota  heparina endovenosa per hematoma frontoparietal dret. Recuperada ad integrum.
+-	HTA de difícil control
+-	Fibril·lació auricular en tractament amb Sintrom. Per epistaxis freqüent el fill (que es metge internista) havia anat disminuint progressivament la dosis de Sintrom.
+-	Dislipèmia en tractament dietètic ben controlada.
+-	TVP fa 4 a anys i trombosis venosa extremitat superior dreta amb trombectomia mecànica.
+
+MEDICACIÓ HABITUAL
+Acenocumarol 0.5 mg/48h, amlodipino 5 mg/24h, captopril 25 mg 1.5/24h, omeprazol 20 mg/24h, lorazepam 1 mg 1.5/24h, amiodarona 200 mg 0.5/48h trazodona 100 mg/24h.
+
+PROCÉS ACTUAL
+Pacient que estant el dia 20/02/2017 al Centre de Dia, sent vista a les 17h asimptomàtica, a les 17:30h es detecta baix nivell de consciència. El SEM arriba a les 18h, s'activa Codi Ictus a les 18:30 i arrbia a les 19:19h al nostre centre.
+
+EXPLORACIÓ FÍSICA
+
+Pes 48Kg. Glicemia 95mg/dL, TA 197/72, FC 86x', Sat 96% amb VMK a 4L. Respiració profunda.
+ACV: tons arítmics
+Exploració Neurològica: Coma. Pupil·les miotiques arreactives dreta > esquerre, desviacio oculocefalica a la dreta, oculocefalics conservats. No asimetria facial. Descerebració dreta, manca de to braç esquerre. Babinski bilateral. NIHSS = 22220/04444/02300 = 29
+
+Informe d'epicrisi
+
+
+
+EXPLORACIÓ COMPLEMENTÀRIA
+Analítica de sang (ucies) Eritròcits 4.73 M/mcL, Hemoglobina 14.2 g/dL, Hematòcrit 44 %, Volum corpuscular mitjà 93.9 fL, Hemoglobina corpuscular mitja 30 pg, C.H.C.M. 32 g/dL, A.D.E. 12.7 %, Plaquetes * 115 K/mcL, Volum plaquetari mig 11.2 fL, Leucòcits 6.01 K/mcL, Neutròfils  55.5 %, Limfòcits 35.9 %, Monòcits 6.3 %, Eosinòfils 1.8 %, Basòfils 0.5 %, Neutròfils 3.3 K/mcL, Limfocits 2.2 K/mcL, Monocits 0.4 K/mcL, Eosinofils 0.1 K/mcL, Basofils 0.0 K/mcL, Eritroblasts-Sang 0%, Tasa protrombina 68 %, Tasa protrombina (INR) 1.30, Temps de cefalina (TTPA) 31.2 segons, Temps de cefalina (ratio) 1, Fibrinogen (deduit) 347 mg/dL, Glucosa 100 mg/dL, urea 38 mg/dL, Creatinina * 1.06 mg/dL, Urat 3.7 mg/dL, Proteïna 7.2 g/dL, Albúmina (sèrum) 3.8 g/dL, Colesterol * 178 mg/dL, Colesterol HDL 65 mg/dL, Colesterol LDL (calcul) 100 mg/dL, Triglicèrid 65 mg/dL, Bilirubina total 0.49 mg/dL, Aspartat aminotransferasa (GOT 28 U/L, Alanina aminotransferasa (GPT) 15 U/L, Gamma-glutamiltransferasa * 41 U/L, Fosfatasa alcalina 89 U/L, Lactat deshidrogenasa * 235 U/L, Creatincinasa (CK) * 507 U/L, Amilasa 68 U/L, Calci (II) 9 mg/dL, Ió sodi 142 mEqu/L, Ió potasi 4.8 mEqu/L, Filtrat glomerular (CKD-EPI) Pendent, Troponina T hs (alta sensibili * 14.6 ng/L.
+
+Tc cranial/ RM cerebral (ucies. 20/feb) No s'observen signes hemorràgics aguts intra o extraaxials. Es visualitzen lesions hipodenses còrtico-subcorticals, que restringeixen en l'estudi de difusió, i que no s'observen en el FLAIR, localitzades al territori superficial i profund de l'ACM i ACA bilaterals (amb major extensió a la dreta). Troballes en relació a infarts hiperaguts.
+En l'estudi angio-TC, s'observa un defecte de replecció de l'ACI dreta que s'estén des del segment C1 fins a l'ACM ipsilateral, sense observar repermeabilització distal. Així mateix, s'observa un defecte de replecció des de l'artèria caròtida comú esquerra que s'estén per l'ACI ipsilateral fins a nivell  del segment C6, a partir del qual es repermeabilitza. Correcta permeabilitat de la resta de vasos del sistema vertebrobasil·lar, sense identificar estenosis ni dilatacions aneurismàtiques. En l'estudi de perfusió s'aprecia un allargament dels valors de MTT i disminució de CBV en el territori superficial i profund d'ACM dreta, així com d'ACM esquerre superficial, en relació a àrees d'isquèmia. S'aprecia una lesió encefalomalàcica parietal dreta, que en la seqüènica T2-FEE és hipointensa i hiperintensa en FLAIR, en relació a lesió hemorràgica prèvia ja coneguda. Es visualitza hipodensitat de la substància blanca periventricular en el TC simple, així com hiperintensitat periventricular en el FLAIR, en relació a isquèmia crònica per hipoperfusió crònica (leucoaraiosis grau II de Fazekas). Resta del parènquima cerebral, cerebel·lós i del tronc de l'encèfal sense altres alteracions densitomètriques valorables. Estructures de la línia mitja centrades. Augment de dimensions dels ventricles proporcional a la profunditat dels solcs corticals en relació a atròfia cortico-subcortical cerebral global. Higromes frontals bilaterals, de gruix màxim 9 mm. Cisternes de la base i perimesencefàliques lliures. Unió crànio-cervical sense anomalies valorables.
+CONCLUSIÓ: Infarts hiperaguts del territori superficial i profund de l'ACM i ACA bilaterals (D>E). Oclusió de l'ACI dreta, des del segment C1 fins a l' ACM ipsilateral sense apreciar signes de recanalització d'aquesta. Oclusió d'ACC esquerra fins al segment C6 d'ACI esquerra, observant repermeabilització a nivell de l'ACM esquerra.
+
+EVOLUCIÓ CLÍNICA
+Pacient amb ictus isquemic carotidi bilateral amb oclusió ACC dreta, ACI esquerre i ACM dreta, amb lesió establerta a ACM dreta per TC i ACM bilateral + ACA bilateral per RM cerebral. Degut a lesió establerta bilateral no es considera tributària a tractament fibrinolitic.
+
+S'informa a la familia, que entén la situació i s'explica el mal pronòstic vital. S'acorda l'iniciar de bomba de sedació el dimarts 22/feb al matí. La pacient és exitus la matinada del 22/feb a les 03.30h
+
+DIAGNÒSTICS
+436/5 Ictus
+
+Informe d'epicrisi
+
+
+
+
+
+-	ICTUS  ISQUÈMIC  territori  superficial  i  profund  de  les  ARTERIES  CEREBRALS  MITGES  BILATERASL  I ARTERIES CEREBRALS  ANTERIORS BILATERALS
+-	OCLUSIÓ CAROTÍDEA BILATERAL.
+-	HTA
+-	FIBRIL.LACIÓ AURICULAR en tractament amb sintrom
+-	DISLIPEMIA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+22.02.2017
+Pàgina 1 de 3

@@ -1,0 +1,100 @@
+I.CLINIC DE NEUROCIÈNCIES I064 SALA G DE NEUROL. INTERM.
+_NAME_	NHC: _ID_
+
+Sexo/Sexe: Masc.	Fecha nac./Data naix.: _DATE_	Edad/Edat: 76 años
+Dirección/Adreça: _LOCATION_		CP: _LOCATION_
+Municip. (Prov.): _LOCATION_  ABS:_SS_		Tel.:_CONTACT_
+As.: SERVEI CATALA DE LA SALUT	CIP: _ID_	NASS: _ID_
+Nº epis.: _ID_	Tipo/Tipus: HOSPIT.	Inici.: 14.08.2017
+Serv: NEUROLOGIA	UO Enf.: G064 SALA G DE NEUROLOGIA	Hora: 07:15:10
+Facult. de ref.: _NAME_		
+
+
+Tipo ingreso/Tipus ingrés: Urgent	Motivo/Motiu alta: Dom. Familiar
+Diag.:
+ICTUS LACUNAR PONTINO IZQUIERDO () FIBRILACIÓN AURICULAR DE DEBUT ()
+Proc.:
+ANALÍTICA SANGUÍNEA () RADIOGRAFÍA DE TÓRAX () MONITORIZACIÓN ECG ()
+TC, RMN, ANGIO-RMN CRANEAL () ECODOPPLER TSA Y DTC ()
+
+
+
+
+INFORME CLÍNICO ALTA / INFORME CLÍNIC ALTA
+
+Motivo de consulta / Motiu de consulta
+Diplopia y ataxia
+
+Antecedentes e historia previa / Antecedents i història prèvia
+Varón de 76 años de edad sin alergias medicamentosas conocidas. Ex- fumador (dosis acumulada >30 paquetes/año) sin otros hábitos tóxicos. Independiente para las actividades de la vida diaria (mRS: 0).
+
+*ANTECEDENTES PATOLÓGICOS:
+
+1.	HIPERTENSIÓN ARTERIAL en tratamiento con medidas higiénico- dietéticas.
+
+2.	ADENOCARCINOMA DE PRÓSTARA Gleason 3 intervenido en 2009 con prostatectomía radical y radioterapia local. Controles por urologia y oncología radioterápica del _SS_.
+
+3.	GLAUCOMA DE ÁNGULO ABIERTO.
+
+*MEDICACIÓN HABITUAL: ácido acetilsalicílico 100mg, Betmiga (Mirabegrón), Cleboprida+simeticona PRN.
+
+Proceso actual / Procés actual
+El 13/08/17 al despertarse presenta un cuadro de inestabilidad postural
+
+y de la marcha con diplopia acompañado de parestesias en brazo y pierna derecha. Acude a urgencias pasadas 12h del inicio del cuadro. No cefalea ni fiebre acompañante.
+
+Exploración física / Exploració física
+14/08/2017-08:00:00: Frecuencia respiratoria (rpm) 16, PAS (mm Hg) 126, PAD (mm Hg) 68, Pulsioximetría (%) 97. 14/08/2017-10:00:00 : Tª axilar ( ºC) 36. 14/08/2017-20:00:00 : Glicemia capilar (mg/dl) 82.
+Paciente orientado, alerta. Normocoloreado, normohidratado. Respiratorio: MVc sin ruidos agregados Cardiológico: Ruidos cardíacos normales, no ausculto splos Abdomen: Blando depresible sin dolor a la palpaciónn superficial ni profunda Neurológico: consciente y orientado en P-E, parcialmente en tiempo (falla mes). Lenguaje fluente y coherente sin rasgos de afasia (nomina 8/8, repite correctamente y realiza órdenes simples y complejas) ni disartria. Mirada conjugada centrada sin limitaciones a la excursión visual, a pesar de que el paciente refiere diplopia horizontal a la mirada conjugada, de predominio en mirada lateral-inferior derecha. Campimetría por confrontación sin déficits. Pares craneales conservados. Balance motor conservado. Alteración de sensibilidades (acorchamiento táctil pero hiperestesia termoalgésica) en extremidades derechas, con preservación de la cara. No dismetrías. Marcha cautelosa pero estable sin apoyo, sin clara lateralización, Romberg negativo. NIHSS 1.
+
+Laboratorio / Laboratori
+*ANALÍTICA EN NEUROLOGÍA: ácido úrico 6.0 mg/dL, perfil lipídico (CT 196 mg/dL, TGL 80 mg/dL, LDL/HDL 145/35 mg/dL), perfil hepático sin alteraciones, no diselectrolitemias, hemoglobina glicada 5.6%,  eje tiroideo normal.
+
+Radiología / Radiologia
+*RX TÓRAX: marco óseo sin alteraciones, silueta cardíaca conservada, sin infiltrados ni condensaciones en parénquima pulmonar.
+
+*TC CEREBRAL: leucoaraiosis periventricular. Pequeñas imágenes bilaterales en ganglios basales que podrían corresponder a lesiones lacunares crónicas vs dilatación de espacios perivasculares.
+
+*RM CEREBRAL Y ANGIO-RM INTRACRANEAL: Pequeño foco de alteración de la señal en el aspecto posterior izquierdo de la protuberancia, que aunque no presenta clara restriccion de su ADC, es sugestivo de infarto isquemico agudo-subagudo lacunar.Alteracion de la señal periventricular, capsuloganglionar bilateral y focos de hiperseñal en la sustancia blanca subcortical, en probable relacion con cambios secundarios a microangiopatia. Arteria vertebral derecha dominante y variante fetal de la ACP derecha. No se aprecian otras alteraciones en la secuencia angio- RM realizada.
+
+Exploraciones complementarias / Exploracions complementàries
+*ECG: ritmo de fibrilación auricular con RVM 100-110 lpm, sin signos de isquemia aguda.
+
+Evolución / Evolució
+1.	ICTUS ISQUÉMICO AGUDO HEMIPROTUBERANCIAL IZQUIERDO.
+2.	FIBRILACIÓN AURICULAR PAROXÍSTICA DE DEBUT.
+A su llegada normotenso y afebril. En la exploración se aprecia diplopia de predominio en la mirada a la derecha con discreta limitación en la excursión visual ipsilateral junto con hipoestesia braquiocrural derecha y marcha con lateropulsión a la derecha (NIHSS: 2). Analítica sanguínea sin alteraciones significativas. La neuroimagen (TC y RM cerebral) muestra un ictus isquémico agudo en la región posterior de la hemiprotuberancia izquierda. El estudio vascular (angio-RM y eco- doppler) sin estenosis significativas. La monitorización >24h en unidad de ictus muestra rachas de fibrilación auricular paroxística con respuesta ventricular controlada.
+Se  trata  de  un  ictus  isquémico  hemiprotuberancial  izquierdo  de  etiología  indeterminada  por  causas
+
+
+
+coexistentes (ictus lacunar en paciente con fibrilación auricular). Se inicia anticoagulación con heparina con posterior paso a acenocumarol.
+Durante el ingreso el paciente evoluciona de forma favorable, persistiedo únicamente en la exploración discreta limitación en la excursión visual a la derecha sin diplopia. Dada la estabilidad se da de alta domiciliaria con control por su CAP de referencia.
+Al alta: NIHSS: 1;   TOAST: indeterminado (causas coexistentes);   mRS: 1.
+
+Plan terapéutico / Pla terapèutic
+-	Atorvastatina 80 mg/24h. - Pantoprazol 40 mg/24h. - Acenocumarol según pauta. - Taptiqom gotas. - Betmiga 50 mg/24h.
+
+Otras recomendaciones / Altres recomanacions
+-	Control de los factores de riesgo cardiovascular por su CAP de referencia.
+
+
+
+Firma/Signatura1: _NAME_	Firma/Signatura2: _NAME_ Categoría: Resident 2	Categoría: Espec. Senior
+Nº Matrícula HCP: _ID_	Nº Matrícula HCP: _ID_
+
+Fecha/Data Informe: 17.08.2017
+Hora Informe: 15:54:05
+
+Docum.: _ID_
+Hist. Clínica: _ID_
+El _SS_ ha incorporado sus datos al Fichero de Pacientes, para tratarlos con fines sanitarios.
+Puede ejercer sus derechos de acceso, rectificación, cancelación y oposición, así como obtener mas información en la Unidad de Atención al Cliente.
+Vers. 00
+Pag. 2 de
+3
+Episod.: _ID_
+_SS_ ha incorporat les seves dades al Fitxer de Pacients, per a tractar-los amb finalitats sanitàries. Pot exercir els seus drets d'accés, rectificació, cancel·lació i oposició, i obtenir més informació a la Unitat d'Atenció al Client.
+_SS_
+_LOCATION_) _LOCATION_) Tel. _CONTACT_ Fax _CONTACT_
+http://_CONTACT_/

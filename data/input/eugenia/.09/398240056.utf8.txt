@@ -1,0 +1,140 @@
+SERVEI DE NEUROLOGIA
+INFORME DE ALTA
+Unitat d`IctusNº Historia clínica	_ID_
+Fecha de nacimiento
+_DATE_
+
+C.I.P.	_ID_	Código Centro	_ID_
+Teléfono	_CONTACT_	Dirección	_LOCATION_
+Fecha ingreso	04/08/17		_LOCATION_
+Fecha de alta	08/08/17	Teléfono	_CONTACT_
+Nº Asistencia	_ID_		
+UH	_ID_		
+
+DIAGNÓSTICOS:
+1.	ICTUS ISQUÉMICO (PACI) DE ACM IZQUIERDA de etiología indeterminada
+2.	FIBRINOLISIS ENDOVENOSA CON rtPA
+3.	HIPERTENSIÓN ARTERIAL
+4.	DISLIPEMIA
+5.	HIPOTIROIDISMO
+6.	DIVERTICULOSIS
+7.	SINDROME DEPRESIVO
+8.	OSTEOPOROSIS
+9.	MASA CERVICAL POSTERIOR NO LIPOMATOSA
+10.	RETENCIÓN URINARIA RESUELTA
+11.	INFECCIÓN DEL TRACTO URINARIO
+
+Paciente de 83 años alérgica a nolotil y parcialmente dependiente para ABVD, mRS 3. Sin hábitos tóxicos.
+
+PROCEDIMIENTOS:
+-	Fibrinolisis con r-TPA
+-	TC craneal
+-	AngioTC
+-	Ingreso en Unidad de Ictus
+
+ANTECEDENTES:
+-	Hipertensión arterial en tratamiento
+-	Dislipemia
+-	Hipotiroidismo en tratamiento sustitutivo
+-	Diverticulosis diagnosticada mediante EDB.
+-	Síndrome depresivo con trastorno conductual y múltiples somatizaciones en tratamiento farmacológico.
+-	Fractura de húmero en septiembre de 2016.
+-	Osteoporosis.
+
+MEDICACIÓN HABITUAL:
+-	Hipromelosa 0,5 ml cada 24h.
+-	Enalapril 20 mg/dia.
+-	Levotiroxina 100 mcg/dia
+-	Lorazepam 1 mg 1c/24h
+-	Omeprazol 20 mg 1c/24h.
+-	Paracetamol 650 mg 1c/8h.
+-	Flatoril (cleboprida) 1c/24h.
+-	Risperidona 0,5mg 1c/24h.
+
+ENFERMEDAD ACTUAL:
+Acude a UCIAS día 04/08 a las 20:18 por clínica de alteración del habla, objetivada por la hija a las 19:30h en domicilio, última vez vista asintomática a las 18: 30h (estaba con su cuidadora). Al realizar triaje se activa CIIH. Paciente hipertensa (TA 150/110mmHg), afasia mixta (emite algún sonido incomprensible, no obedece órdenes simples), sin clara asimetría motora ni otra focalidad,  inquietud
+Nombre	_NAME_
+
+psicomotriz y náuseas. NIHSS inicial 7. ECG ritmo sinusal. Se administra 25 mg de urapidilo y 4 mg de ondansetrón. Se realiza TC, AngioTC y estudio de perfusión donde no se observan alteraciones (ASPECTS 10). Por inquietud psicomotriz se retrasa la realización TC craneal. A su llegada a UI, TA 145/50, empieza a emitir palabras ininteligibles, sin llegar a obedecer órdenes.
+
+EXPLORACIÓN FÍSICA:
+- Exploración física en UCIAS:
+TA 155/110mmHG Fc 100lpm Sat 94% basal BMT 111
+Consciente, alerta, órdenes 2, preguntas 2, emite algún sonido aislado ininteligible, lenguaje hipofluente (no comprende, no denomina, no repite ni evoca pero no mutismo) 2, no desviación  ocular, no hemianopsia por amenaza, no paresia facial, no se observa asimetría motora, no anestesia, RCP flexor bilateral. NIHSS 6.
+AC tonos rítmicos, sin soplos.
+Se observa tumoración de partes blandas a nivel nucal, enrojecida, sésil.
+
+- Exploración física en Unidad de Ictus: TA 139/56 mmHg, FC 76lpm, Tª 36.3ºC. Monitorización ECG: Ritmo sinusal
+Test disfágia: Normal.
+Neurológico: NIHSS 4 - Emisión de lenguaje espontáneo en ocasiones ininteligible y repetitivo (responde automáticamente y mantiene la respuesta), obedece órdenes simples pero no complejas (1), responde 1 pregunta correctamente (1), no desviación ocular ni restricción oculomotora, no déficit campimétrico, no focalidad motora de vías largas ni sensitiva aparentemente. Afasia mixta (en algú momento parece más sensitiva aunque lenguaje hipofluente, bloqueos, no repite correctamente) (2).
+
+EXPLORACIONES COMPLEMENTARIAS:
+-	Analítica urgencias (04/08/2017): Glucosa 90 Creat 0.57 FG 86 CK 70 PCR 0.3 Hb 13.7 Hto 37.7%
+VCM 85.9 HCM 31.2 Leucocits 9760 (N62.7% NT 6110 L 26.2% LT 2560) Plaquetes 289000 TP 76.6%
+INR 1.14 Ddimer 690 Fibrinogen 289.
+-	ECG: Ritmo sinusal.
+-	TC craneal (04/08/2017 ;20:45): Disminución del volumen encefálico con mínima dilatación secundaria del sistema ventricular. Discreta hipodensidad de la sustancia blanca periventricular.
+Infartos lacunares versus espacios perivasculares sublenticulares bilaterales. Calcificaciones vasculares en los segmentos terminales de ambas carótidas. Estructuras de la línea media no desplazadas. No se observan fenómenos hemorrágicos intracraneales. Calota craneal sin alteraciones valorables. CONCLUSIÓN: Signos de afectación isquémica crónica de la sustancia blanca en un paciente con cambios involutivos del parénquima cerebral. ASPECTS 10. Tumoración redondeada de partes blandas de localización subcutánea en la línea media, a la altura de C3. Tiene centro hipodenso y margen grueso aparentemente captante de contraste o
+hiperdenso. Mide unos 26 x 20 x 28mm. Se aprecia un vaso hipertrófico que se dirige a la lesión,
+sin penetrarla, que podría corresponder a neovascularización. Su aspecto tomográfico es inespecífico, no adiposo y sin signos de agresividad.
+-	AngioTC (04/08/2017; 20:59): Calcificaciones en el origen de la arteria carótida común izquierda, sin estenosis significativa segundaria. Origen del tronco braquiocefálico y subclavia izquierda no incluidos en el estudio. Placas de ateroma parcialmente calcificadas en ambas bifurcaciones carotídeas, sin evidencia de estenosis significativa. Circulación intracraneal globalmente simétrica, sin evidencia de oclusiones en las porciones M1, M2 o M3 proximal de las arterias cerebrales medias. No se  visualiza la arteria comunicante posterior izquierda. Arteria vertebral izquierda terminada en PICA.
+-	Analítica de ingreso (07/01/2017; 08:32): Urea 11 mg/dL, Crea 0.47 mg/dL, ácido úrico 2.3 mg/dL, Na 134 mmol/L, K 3.5 mmol/L, Cl 101 mmol/L, función hepática conservada, Colesterol 132 mg/dL (LDL 67 mg/dL, HDL 59 mg/dL), TG 45 mg/dL, HbA1c 5.1%, PCR 7.52 mg/dL, Hb12.5 g/dL, leucos 14.520, PLQ
+	
+
+255.000, coagulación normal.
+-	TC craneal control (05/08/2017; 19:20): No se aprecian cambios respecto al Tc craneal previo.
+Atrofia parenquimatosa. Leucoaraiosis periventricular. Infartos lacunares versus espacios perivasculares dilatados.
+-	Ecocardiograma TT: Programado para 01/12/17 a las 12:55h.
+-	Holter ECG 24h: Programado para 13/11/17 a las 8:20h.
+-	Sedimento urinario: 50-100 leucocitos/campo con abundantes bacterias.
+
+EVOLUCIÓN:
+Se trata de una paciente de 83 años, con factores de riesgo vascular que presenta cuadro compatible con ictus PACI en territorio de ACM izquierda.
+Dado el tiempo de evolución y la clínica compatible se inicia tratamiento fibrinolítico con rtPA endovenosa (calculo peso aproximado 50kg, bolus 5mg +40 en perfusión), a las 21:03h tiempo puerta aguja 45` (demora entre llegada y triaje, realización de TC por inquietud/agitación y necesidad comprobar nueva determinación de TA hasta llegada a la unidad de ictus).
+La paciente ingresa en Unidad de Ictus para monitorización y estudio neurovascular. Se inicia antiagregación con AAS 300mg/24hA y estatinas. Se valoran al ingreso el estado de ánimo, las necesidades de rehabilitación y se inician fisioterapia y movilización precoces.
+Durante el ingreso evoluciona de forma favorable, con recuperación completa presentando NIHSS 0 (Paciente alerta. Responde a preguntas y a órdenes simples y complejas. No alteración de mirada conjugada ni de campos visuales. No paresia facial ni de extremidades. Sin alteraciones sensitivas. Sin dismetrías. Lenguaje fluido y coherente sin disartria). En TC craneal de control se descartan lesiones agudas o complicaciones hemorrágicas. No presenta arritmias en la monitorización cardiaca.
+Durante el ingreso se realiza educación sanitaria acerca del ictus.
+Tras su llegada a la unidad de ictus presenta globo vesical que precisa sondaje urinario, que se retira sin incidencias. Se realiza sedimento urinario que muestra infección urinaria se da un sobre de fosfomicina durante el ingreso deberá tomarse otro a las 72h.
+Presenta como hallazgo a la exploración física una masa cervical posterior de años de evolución. En TC realizado se orienta como de origen no lipomatoso, y se recomienda estudio por dermatólogo de zona.
+No presenta otras complicaciones, y dada la estabilidad clínica se decide alta a domicilio.
+Al  alta  se  mantiene tratamiento antiagregante con  AAS 300  mg/24h. Se  ajusta tratamiento con levotoroxina por TSH disminuida en analítica de ingreso.
+Se completará el estudio cardiológico de forma ambulatoria, realizando ecocardiograma y holter ECG 24h.
+Etiología TOAST Indeterminado. Al alta NIHSS 0. Rankin 3.
+Debe seguir controles en CCEE de Neurología en fecha programada 23/11/2017 a las 16:15.
+
+TRATAMIENTO:
+-	Adiro 300 mg cada 24h
+-	Atorvastatina 40 mg cada 24h.
+-	Levotiroxina 75 mcg cada 24h.
+-	Sobre de fosfomicina día 11/08
+
+Resto sin cambios:
+-	Hipromelosa 0,5 ml cada 24h.
+-	Enalapril 20 mg/dia.
+-	Lorazepam 1 mg cada 24h.
+-	Omeprazol 20 mg cada 24h.
+-	Paracetamol 650 mg cada 8h.
+-	Flatoril (cleboprida) cada 4h.
+-	Risperidona 0,5mg cada 24h.
+
+
+INDICACIONES:
+-	Se recomienda control estricto de enfermedades que aumentan el riesgo de ictus: hipertensión arterial, diabetes, colesterol elevado (dislipemia) y enfermedades del corazón. Realizar el tratamiento de forma adecuada según las recomendaciones de su médico.
+-	Abstención de tabaco y alcohol
+-	Seguir una dieta adecuada, con poca sal, evitando grasas, especialmente las saturadas (grasas animales, aceites y grasas para cocinar).
+-	Evitar la obesidad y el sobrepeso y realizar ejercicio físico moderado de forma regular.
+
+Dr/a.	_NAME_	Dr/a.	_NAME_	Dr/a.	_NAME_-
+	_NAME_
+Cap Secció	(Nº Colegiado : _ID_)
+Metge/essa Resident
+(Nº Colegiado _ID_Metge/essa Resident
+(Nº Colegiado _ID_
+
+
+
+Les seves dades personals s'incorporen en un fitxer d´usuaris a fi del seu tractament sanitari. Pot exercir el seu dret d´oposició, accés i rectificació de les dades inexactes dirigint-se al Servei de Documentació Clínica.
+Sus datos personales se incorporan en un fichero de usuarios para su tratamiento sanitario. Puede ejercer su derecho de oposición, acceso y rectificación de los datos inexactos dirigiéndose al Servicio de Documentación Clínica
+
+_SS_ | NIF _ID_ |_LOCATION_ | Telèfon _CONTACT_ | Fax _CONTACT_ | _CONTACT_
+Pàgina 1 de 4

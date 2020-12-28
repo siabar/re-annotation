@@ -1,0 +1,167 @@
+_LOCATION_
+_LOCATION_) Anul·lació/Reprogramació visites:_CONTACT_
+Telèfon Centraleta: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 54 Anys
+NIF/DNI:_NAME_; _NAME_; _NAME_
+Informe d'alta d'hospitalització
+15:06:25
+17.11.2017
+_LOCATION_
+_SS_ NEUROLOGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_
+AGUTS 10.11.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Home de 54 anys que ingressa per ictus ACM dreta tractat mitjançant trombectomia.
+
+ANTECEDENTS
+-No al·lèrgies medicamentoses conegudes.
+-Fumador d'1paq/d, no enol.
+-DLP sense tractament. No HTA ni DM conegudes.
+-No cardioneumopaties conegudes.
+
+-IQ: nega.
+
+-Situació basal: natural del _LOCATION_, resideix a _LOCATION_ desde fa 30 anys. Independent per a ABVD, treballa en la construcció. mR 0.
+
+
+MEDICACIÓ HABITUAL
+Nega.
+
+PROCÉS ACTUAL
+Home de 54 anys que el 10/11és derivat com a codi ictus desde _SS_. Va consultar el 9/11 per cuadre de disàrtria i inestabilitat cefàlica. Segons refereixen feia 2 dies que presentava sensació distèrmica sense evidenciar febre termometrada ni altre sintomatologia acompanyant. Es realitza Tc craneal que mostra infarts llacunars antics en territori frontera (superficial i profund), no signes sugestius d'isquemia aguda. Inicialment s'orienta com a possible meningoencefalitis i es realitza PL (traumàtica) amb pleocitosis y proteinorraquia, gram negatiu. Pacient afebril en tot moment. Posteriorment valorat per Equip de NRL s'objectiva clínica TACI ACM dreta amb NIHSS 13 a expenses de tendència a la somnolència, disartria, DOC a la dreta, HH esq, PFSN esq, hemiapresia B 2/5 y C 4/5 esquerre, RCP ext esq. No consten TA. ECG en RS. Davant la sospita d' ictus en progressió es trasllada a _SS_.
+
+A la seva arribada hemodinàmicament estable (TA 121/80mmHg, FC 79lpm, afebril, SpO 99%). Neurològicament presenta tendència a la somnolència (1), diu mes i edat, DOC a la dreta (2), HH esq per confrontació (2), disartria (1), no afàsia, PFSN esq (2), paresia B 2/5 i C 3/5 esquerre (3+2), hipoestèsia esq (1), heminegligència esq (2). RCP ext esq. flexor d. NIHSS 16.
+Analítica, Rx de tòrax i ECG sense alteracions. Es realitza Tc craneal, perfusió i angioTC que objectiva lesions isquèmiques antigues en territori frontera superficial i profon frontal dret que suggereixen cert compromís previa a nivel de la bifuracio carotídia dreta, oclusió d'ACI dreta desde l'origen i presentació fetal de l'arteria cerebral posterior dreta, aument del temps mig de trànsit en l'hemisfèri dret en relació a teixit hipoperfós en risc dels territoris ACA, ACM i ACP dretes, que mostren volum sanguini cerebral mantingut en relació a teixit salvable.
+Es contacta amb guàrdia de neurovascualr essent tributari a tractament endovascular. Es firma consentiment infromat i es trasllada a DIVAS. La primera sèria confirma oclusió a nivell d'ACI dreta, s'aspira el trombo, la serie de control mostra canvis suggestius de dissecció anivell intrapetrós, es realitza nova serie de control objectivant
+
+Informe d'alta d'hospitalització
+
+
+
+
+progresió de l'estenosis pel que es decideix colocació de stent requerint angioplastia amb baló en 2 ocasions, serie final amb oclusió parcial a M3 distal; recanalització TICI 2b. Exploració neurològica al finalitzar el procediment no valorable per sedació.
+
+
+S'orienta el cas com a ictus en territori d'ACM dreta amb oclusió d'ACI dreta desde l'orígen amb ACP fetal. No tributari a fibrinolisis per inici incert. Tractat mitjançant trombectomia i colocació de stent a  ACI en porció intrapetrosa, aconseguint recanalització TICI 2b. S'inicia antiagregació. Ingresa a NRL (Unitat d'ictus).
+
+
+
+
+EXPLORACIÓ FÍSICA
+
+TA 118/80 Fc93lpm Afebril SatO2 100%
+NRL: conscient i orientat en les 3 esferes. PICNR, MOEs conservats, no dèficits visuals, PFSN esquerre lleu (1). Parèsia BC esquerre 4/5 (1+1). Hipoesensibilitat esquerre BC (1). BBK esquerre, flexor dret. NIHSS 4.
+AR: MVC sense sorolls sobreafegits. AC: TCR sense sorolls sobreafegits. ABD: anodí.
+EEII: no edema ni signes de TVP.
+
+
+
+
+EXPLORACIÓ COMPLEMENTÀRIA
+URGÈNCIES:
+Analítica:
+EAB venoso: pH 7.43 ; CO2 41  mmHg; O2  65 mmHg; HCO3 27.2 mmol/L; EB 2.6 mmol/L; SatO2 96  %. BQ: Glucosa 6.2 mmol/L; Urea  3 mmol/L; Cr 63  mmol/L; Na+ 136 mmol/L; K+ 3.7 mmol/L; Lactato 0.84
+Coagulacion: TP 1.21, TTPA 1.05
+Hemograma: Hb 136 g/l: Hto 39 %; VCM 86 Fl; Plaquetas 209 x10E9/L; Leucocitos 10 x10E9/L (N  77.7 %; L  12.7
+%)
+Rx  tòrax:  marc  òssi  conservat,  ICT<0.5,  sins  no  pinçats,  hilis  no  congestius,  sense  infiltrats  ni cosolidacions.
+ECG: Ritmo sinusal a 70 lpm, eje a +30º, PR<0.020s, QRS estrecho, sin cambios en ST, adecuada progresión ondas R y S, sin alteraciones de la repolarización.
+Urocultiu: negatiu.
+Hemocultiusx2: negatius.
+Tc craneal, perfusió i angioTC: Lesiones isquémicas antiguas en territorio frontera superficial y profundo frontal derecho y que sugieren un cierto compromiso previo a nivel de la bifurcación carótidea derecha. Oclusión de la arteria carótida interna derecha desde su origen y presentación fetal de La arteria cerebral posterior derecha. Aumento del tiempo medio de tránsito en el hemisferio derecho en relación con tejido hipoperfundido en riesgo en los territorios de ACA, ACM y ACP derechas, que muestran un volumen sanguíneo cerebral mantenido, en relación con tejido salvable.
+
+Informe d'alta d'hospitalització
+
+
+
+
+NEUROLOGIA:
+Analítica completa:
+Bioquímica: Urea 5.7 mmol/l, Creatinina 73 umol/L, FG >90 ml/min, Na+ 137 mmol/L, K+ 4.65 mmol/L, Glucosa 6.2 mmol/L, AST 1.22 ukat/L, ALT 1.27 ukat/L, Proteína 62 g/L,GGT 2.25 ukat/L, FA 1.69 ukat/L; Ca 2.28mmol/L; PCR mg/L, COlesterol 4.23 mmol/L; HDL 0.47mmol/L; LDL 2.88 mmol/L TG 0.11mmol/L; Tirotropina 5.95; Tiroxina 15.3pmol/L; Cobalaminas 587; Folatos 12.3nmol/L;
+Hemograma:Hb 151 g/L, Hto 43.3%, VCM 86 fL, HCM 30 pg, CHCM349  g/L, Plaquetas 239000 /L, Leucocitos 8700/L, Neutrófilos 5930/L, Linfocitos 1260/L.
+Coagulación: TP 1.21, TTPA 1.10, Fibrinogeno 4.17g/L; Anticoagulante lúpico negativo
+Inmunología: ANA y ANCA negativo; Perfil AC anticardiolipina pendiente; perfil Ac anti beta2 glicoproteína  I pendiente; perfil AC anticitoplasma de neutrofilos pendiete.
+Proteinograma;  Albúmina  55.8%;  alfa  1-globulina  6.7%;  alfa2globulina  12.9%;  betaglobulina  10.6;  gamma
+globulina 14.0%.
+Serologies: negatives per VIH 1-2, VHC, VHB, treponema pallidum.
+Anatomía patológica de trombectomía de ACD: material trombótico.
+
+TAC craneal simple control post trombectomía (11/11/17): No hay nuevas lesiones isquémicas valorables ni evidencia de hemorragia intracraneal.
+TAC craneal simple de control (14/11/17): Se compara con TCs previps. Varios infartos focales de aspecto antiguo en territorio de ACM D y limite de ACM-ACA D. No hay nuevas lesiones isquémicas valorables ni evidencia de hemorragia intracraneal.
+Eco TSA (16/11/17): Se explora eje carotideo derecho con pequeña placa en porción proximal de ACI derecha sin condicionar aceleraciones significativas, flujo de aspecto normal, no resistivo con IP normal.
+Doppler Transcraneal (16/11/17):  ACMs simetricas con VSM 90cm/s, con IR normal y simétrico. Se insona segmento más distal de ACI con flujo normal.
+
+
+EVOLUCIÓ CLÍNICA
+Home de 54 anys que ingressa per ictus en territori d'ACM dreta amb oclusió d'ACI dreta desde l'orígen amb ACP fetal. No tributari a fibrinolisis per inici incert. Tractat mitjançant trombectomia amb colocació de stent a ACI en porció intrapetrosa per dissecciò a aquest nivell, aconseguint recanalització TICI 2b. Mantenim doble antiagregació.
+
+Durant la seva estada a neurologia es manté estable amb tendència a la milloria neurologica. Hemodinàmicament estable sense necessitat d'iniciar tractament hipotensor.
+
+Es realitza TC de control  a les 24 h de la trombectomia sense objectivar-se noves lesions isquèmiques ni sagnat ingracranial. Es repeteix Tc craneal simple als 3 dies, per impossibilitat de realitzar RMN per col·locació de stent recent, que objectiva infarts focals d'aspecte antic en territori d'ACM dreta i límit d'ACM-ACA dretes, sense evidenciar noves lesions isquèmiques. Es realitza ecografía de TSA d'eix carotídi dret destacant petita placa en la porció proximal d'ACI dreta sense condicionar acceleracions significatives, amb flux normal, no resistiu i IP normal i duplex transcraneal objectivant ACMs simètriques amb VSM de 90cm/s, amb IR normal i simètric, s'insona segment més distal d'ACI amb flux normal. Per a completar estudi es realitza analítica complerta en la que destaca lleugera alteració de la bioquimica hepàtica, LDL per sobre dels valosr desitjats en prevenció secundària i hipertrigliceridèmia pel que s'inicia tractament hipolipemiant, i lleu hipotiroidisme sublcínic sense sense indicació de tractament, recomanem control per MAP amb seguiment analític. Serologies negatives. Autoimmunitat negativa,  Ac anticardiolipina, anti b2 glicoproteina i anticitoplasma dels neutròfils pendents.
+
+Informe d'alta d'hospitalització
+
+
+
+
+
+En el moment actual NIHSS de 2 a expenses de PFSN esquerre (1), paresia braquial 5- de predomini distal (Miller Fisher), hipoestèsia BC esquerres (1), BBK esquerre. Tolera dieta oral. Deambula sense incidències.
+
+S'orienta el cas com a ictus ACM dreta amb oclusió d'ACI desde l'origen tractat mitjançant trombectomía amb col·locació de stent a nivell d'ACI intrapetrosa. En tractament doble antiagregant que haurà de mantenir a l'alta. Seguirà controls amb NRL a hospital de zona. Realitzarà rehabilitació de manera ambulatoria, ha d'acudir a MAP per a gestionar-ho ja que no és de zona.
+
+Donada l'estabilitat clínica es decideix alta a domicili.
+
+DIAGNÒSTICS
+443.21 Dissecció d'artèria caròtide
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+-AAS 100mg 1 comprimido cada 24h
+-Clopidogrel 75mg 1comprimido cada 24h
+-Gemfibrocilo 600mg 1 comprimido cada 24h
+-Pantoprazol 20mg 1comprimido cada 24 horas.
+
+CONTROL
+-	Evitar ejercicios físicos extenuantes o actividades físicas intensas hasta proxima visita.
+-	Evitar conducción de vehiculos motorizados hasta próxima visita.
+-	Control de factores de riesgo cardiovascular y función hepática por médico de cabecera.
+-	Derivar desde el médico de cabecera a rehabilitación (para valorar terapia ocupacional para la mano izquierda) y Neurología de zona para seguimiento.
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+17.11.2017
+Pàgina 1 de 4

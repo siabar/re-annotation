@@ -1,0 +1,137 @@
+_LOCATION_
+Telèfon: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 77 anys
+NIF/DNI: _ID_Informe d'alta d'hospitalització
+11:44:40
+13.10.2017
+_LOCATION_
+_SS_ NEUROCIRURGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_
+DOMICIL/RES.SOC 25.09.2017
+_NAME_
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Pacietne que ingresa en neurologia por posible codigo ICTUS
+
+ANTECEDENTS
+No alergias medicamentosas conocidas
+
+-	FRCV: no hábitos tóxicos, HTA, dislipemia, DM 2, obesidad.
+
+-	IQ: protesis de rodilla izquierda
+
+MEDICACIÓ HABITUAL
+ASTUDAL 10MG AMLODIPINA, BESILAT D'  1 x 24 h. HIDROSALURETIL 50MG 1 x 24 h.
+PRAVASTATINA 20MG 1 x 24 h.
+ZOMARIST 50/850MG METFORMINA + VILDAGLIPTINA 1 x 12 h. ZYLORIC 100MGALOPURINOL 1 x 24 h.
+LOSARTAN 100MG  1 x 24 h.
+TOLTERODINA 4MG 1 x 24 h.
+
+
+
+PROCÉS ACTUAL
+Paciente quien Ingresa en el servico de neurológia con diagnístico de codigo ictus por sufrir caida y posterior déficit neurológico caracterizado por plegía del miembro inferior izquierdo 1/5 y paresia 4/5 drecho. Miembros inferiroes 5/5. Se le realiza TAC cerebral que es informado como normal para la edad de la paciente. Se realiza fibrinolisis e ingresa en unidad de ictus. Posteriormente se realiza RMN cervical que muestra estenosis del canal cervical con atrapamiento del cordon medular a nivel C3-C4 por lo que se propone para IQ.
+Se interviene de forma programada el 2.10.17 e ingresa en UCI.
+
+EXPLORACIÓ FÍSICA
+
+Consciente,  normocoloreada
+Cardiocirculatorio: Hemodinámicamente estable sin necesidad de drogas vasoactivas. Ruidos cardiacos rítmicos y sin soplos. No edemas ni signos de TVP. Pulsos periféricos presentes y simétricos.
+Respiratorio: Eupneica en reposo, presentando SpO2 de 95% con aporte de 3 Lx´de O2 a través de cánula nasal. Buena entrada de aire bilateral sin presencia de ruidos patológicos sobreañadidos. Portador de collarín blando. Portador de drenaje tipo Blake con escaso contenido hemático.
+Abdomen: Blando, depresible, no doloroso a la palpación. No se aprecian masas ni megalias.
+Neurológico:Bajo efecto de anestesia residual. Obede órdenes. Presenta paresia ESI 2-3/5. Sensibilidad poca valorabale por no colaboración
+
+Informe d'alta d'hospitalització
+
+
+
+
+EXPLORACIÓ COMPLEMENTÀRIA
+EKG: ritmo sinusal, a 80 lpm, QRS estrecho, sin alteraciones en la repolarización. AS:
+RX tórax: rotada, mal inspirada, cardiomegalia, no condensaciones parenquimatosas.
+
+Angio RMN cerebral y cervical: HALLAZGOS:
+Hematoma subgaleal grontal izquierdo Infarto crónico en hemisferio cerebeloso D
+Varias imágenes de alta señal en T2, localizadas en sustancia blanca yuxtaventricular profunda y subcortical de ambos hemisferios cerebrales El sistema ventricular se halla dilatado de forma bilateral y simétrica sin distorsiones ni desplazamientos significativos. Ensanchamiento global de surcos y cisuras cerebrales.
+Charnela occipito cervical normal. Silla turca vacía
+Megacisterna magna
+Estenosis inferiores  al  50  %  en  el  origen de  ambas carótidas  internas  ;  no  veoestenosis críticas  en  otras localizaciones
+Espondilosis cervical con discoptía múltiples ; hernia posteromedial de base amplia en C3-C4 y posterolateral izquierda en C6-C7
+Cambios de aspecto inflmatorio articulares y periarticulares en articulación interapofisaria D de C3-C4 con compromiso foramianl D Signos de mieloptía centada en C3 a C4
+Discreta listesis de C7 sobre T1
+
+EVOLUCIÓ CLÍNICA
+Control postoperatorio inmediato tras microdiscectomía cervical C3-C4 PLAN.
+Control de dolor COntrol de drenaje
+COntrol de función respiratoria.
+
+La paciente pasó a planta de trauma a cargo de neurocirugía.c
+Durante su estancia ha mostrado mejoría de la fuerza muscular en los miembros inferiores.Con respecto a la fuerza en los miembros superiroes se apreción mejoría de la fuerza muscula en el miembro superior derecho, donde se aprecia una mejoría oscilante de 3/5 a 4/5. En el miembro superior izquierdo la fuerza musclar se mantiene en 2/5, con una mejoría cualitativa para la prensión de la mano de dicho miembro.
+
+La herida quirurgica muestra buena evolución y no muestra signos de infección. Durante su estancia en hospitalización ha iniciado RHB.
+DIAGNÒSTICS
+
+Informe d'alta d'hospitalització
+
+
+
+
+436/5 Ictus
+401.9 Hipertensió essencial inespecificada
+250.00 Diabetis mellitus II sense complicació, controlada
+722.71 Trastorn disc intervertebral amb mielopatia, regió cervical
+
+PROCEDIMENTS
+88.93 Imatge per ressonància magnètica de canal raquidi. Medul·la, columna (cervical, dorsal, lumbosacra)
+88.91	Imatge per ressonància magnètica de cervell i tronc cerebral
+88.92	Imatge p/ressonància magnètica tòrax/miocardi per a avaluació de limfoadenopaties hilar/mediastínica
+89.08 Altra consulta
+89.08 Altra consulta
+89.08 Altra consulta
+81.02 Altres tipus de fusió espinal cervical de la columna anterior per tècnica anterior
+99.29 Injecció o infusió d'altra substància terapèutica o profilàctica
+89.08 Altra consulta
+89.08 Altra consulta
+89.08 Altra consulta
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+OMEPRAZOL 20 mg caps  20 mg E-AA OR 27/09/2017, 09 -- 05d   S
+150-200: 4UI 201-250: 6 UI 251-300: 8 UI >300: 10 UI	INSUL GLULISINA 100 UI/ml 3 ml pluma precargada (Apidra)  * UI EDSSG SC 25/09/2017, 22 --  05d  S
+ENOXAPARINA 20 mg/0,2 ml cada 24 horas HIDROCLOROTIAZIDA 25 mg comp cada 24 horas AMLODIPINA 5 mg comp  5 mg cada 24 horas LOSARTAN 50 mg comp  cada 24 horas PRAVASTATINA 10 mg comp  20 mg cada 24 horas
+DIPIRONA 575 mg caps  575 mg cada 8 horas si mucho dolor PARACETAMOL 1 g comp  si dolor
+
+
+CONTROL
+Cita por consulta de neurocirugía Dr. _NAME_ en un mes.
+
+DESTINACIÓ A L'ALTA:	RESID. SOCIAL
+
+
+
+
+
+
+
+
+
+
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+16.10.2017
+Pàgina 1 de 3

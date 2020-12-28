@@ -1,0 +1,118 @@
+_LOCATION_
+email: _CONTACT_ Telèfon _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 83 Anys
+NIF/DNI: _ID__NAME_; _NAME_; _NAME_
+Informe d'alta d'hospitalització
+17:00:00
+29.05.2017
+_LOCATION_
+_SS_ - CENTRE EST UNITAT D'ICTUS
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_
+DOMICIL/RES.SOC 24.05.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Mujer de 83 años que ingresa por ictus en territorio de ACM derecha.
+
+ANTECEDENTS
+-Sin alergias medicamentosas conocidas.
+-Niega hábitos tóxicos.
+
+-Hipertensión arterial esencial en tratamiento farmacológico.
+-Dislipemia en tratamiento farmacológico.
+-Glicemia basal alterada en tratamiento dietético.
+-En estudio por sangre oculta en heces +, sin anemia, habiéndose detectado en analítica reciente levación de Ca 19-9.
+
+Situación sociofuncional: vive sola, independiente para las actividades básicas e instrumentales de la vida diaria, sin deterioro cognitivo. Deambula sin apoyo. mRS 1.
+
+MEDICACIÓ HABITUAL
+Amlodipino 5mg, Bisoprolol 5mg, Hidrosaluretil 50mg, Simvastatina 40mg.
+
+PROCÉS ACTUAL
+Estando previamente bien, presenta de forma brusca el día 24.05.2017 a las 18:30h cuadro de inicio brusco consistente en dificultad para la articulación del lenguaje y debilidad de extremidades izquierdas. Lleva a Urgencias derivada por el SEM sin activación de código ictus. A su llegada es valorada por Medicina Interna quienes activan CI intrahospitalario. Hora de llegada 19:49h. Hora de aviso y valoración 20:00h. Hora de TC 20:15h.
+Inici dels símptomes o última vegada vist sense símptomes el dia 24/05/2017 a les 18:30:00 Arriba al nostre centre a les 19:49:33 del 24/05/2017
+
+EXPLORACIÓ FÍSICA
+
+URGENCIAS
+Constantes: TA 164/86 mmHg, FC 94 lpm, SatO2 97% (aa).
+Regular estado general, normohidratada, normocoloreada, bien perfundida. ACV: tonos cardíacos rítmicos, no ausculto soplos. No signos de IC. AR: eupneica en reposo. Murmullo vesicular conservado sin estertores sobreañadidos. Abdomen blando y depresible, no impresiona doloroso a la palpación superficial ni profunda, sin signos de peritonismo.
+EN: Vígil, tendencia a la somnolencia (1). DOC D (2). HHI (2). LOC Q 1/2 (1), LOC C 2/2. Disartria difícilmente inteligible (2). PFSN I (2). Paresia braquio 2/5 (3) crural 3/5 (2) izquierda. Sensibilidad aparentenemente conservada (1). NIHSS 16.
+
+Informe d'alta d'hospitalització
+
+
+
+
+UNIDAD DE ICTUS
+TA 149/54mmHg, FC 76lpm, Tª 37.2ºC, SaO2 94%, FR 19rpm
+Paciente con estado general conservado, normocoloreada, normohidratada y normoperfundida.
+Auscultación cardiaca con tonos rítmicos y soplos sistólico aórtico II/VI, sin edemas en miembros inferiores. Pulsos periféricos presentes y simétricos.
+Auscultación pulmonar con murmullo vesicular conservado sin ruidos sobreañadidos.
+Neurológicamente somnolienta (1), POC izquierda (1), disartria inteligible (1), no defectos campimétricos por confrontación, paresia facial de perfil pseudoperiférico (3), resto de PPCC conservados. Balance motor con paresia braquiocrural izquierda 4/5 (1+1). Posible hipoestesia izquierda (1). Anosognosia (1). NIHSS: 10
+
+EXPLORACIÓ COMPLEMENTÀRIA
+-ECG: RS a 80lpm. PR 200mseg. QRS 200mseg. Morfología de BRDHH ya conocido.
+-Analítica general: Hb 14.1g/dl, Hto 42.3%, Leucocitos 13390, Plaquetas 150000, TQuick 85%, INR 1.11, TTPAr 0.81, Fibrinógeno 3.69g/l, Glucosa 128mg/dl, Urea 35mg/dl, Cr 0.64mg/dl, FG estimado 83, Na 133.8mmol/l, K 3.50mmol/l, Ca 9.4mg/dl, AST 46UI/L, ALT 26UI/L, Proteinas 7.2g/dl.
+-TC craneal multimodal: TC simple sin hallazgos radiológicos sugestivos de proceso isquémico agudo/subagudo (ASPECTS 10/10). Oclusión de ACM derecha a nivel de M1 distal prebifurcación, obervando en el estudio de perfusión área de penunmbra en todo el territorio superficial de ACM derecha, sin signos de isquemia establecida.
+-Trombectomía mecánica: Colocamos catéter Neuron MAx y ACE 68 en carótida interna derecha. Primera serie con oclusión de M1 (TICI 0) a las 21:40. Se realiza pase de Solitaire 6x40 a las 21:50, con ayuda de aspiración consiguiendo n recanalización completa (TICI 3), finaliza el  procedimiento a  las 21.55. Se retira introductor vascular mediante compresión manual.
+-TC craneal de control: CONCLUSIÓN: TC de cráneo urgente que muestra probable área de infarto isquémico temporal y ennúcleo lenticular derecho, en territorio vascular de ACM derecha, sin objetivar otras áreas de isquemia ni lesiones hemorrágicas de nueva aparación. Cambios involutivos en parénquima encefálico con atrofia global y signos de hipoperfusión crónica de la sustancia blanca.
+-	TC craneal de control 27/5: Infarto cerebral establecido en el territorio profundo de ACM derecha, afectando a la región gangliobasal derecha, con un punto milimétrico que podría tratarse de un foco
+hemático petequial.
+-	Rxtorax: ICT normal, senos libres, no infiltrados pulmonares claros.
+-Analítica general 28/5: se adjunta
+-	Sedimento de orina: 57 leucos, abundantes bacterias, pte de urocultivo.
+-	Sedimento de orina: 93 bacterias, 0 leucos. pte de urocultivo.
+-	Hemocultivos: pendientes
+-Ecoscopia:   CONCLUSION:  Dilatación de Aurícula Izquierda. Ateromatosis aórtica no complicada
+-Telemetría durante todo el ingreso.  sin detectarse arritmias potencialmente embolígenas
+
+EVOLUCIÓ CLÍNICA
+Mujer con los antecedentes descritos que es derivada como código ictus. A su llegada a Urgencias, paciente hemodinámicamente estable con tendencia a la hipertensión, afebril, destacando a la exploración física clínica de TACI ACM D con NIHSS 16. Se realiza TC craneal multimodal en el que se objetiva ASPECTS 10/10 y oclusión a nivel de ACM-M1 distal con missmatch en dicho territorio. Dado el antecedente de posible sangrado digestivo de etiología incierta se desestima tratamiento fibrinolítico endovenoso. Se activa guardia de Neurovascular para tratamiento intraarterial realizándose con recanalización completa (TICI 3) en un pase de Solitaire a las 21:50 horas ingresando posteriormente en la Unidad de Ictus.
+
+Informe d'alta d'hospitalització
+
+
+A nuestra valoración en la Unidad de Ictus, paciente con NIHSS 10 a expensas de paresia de extremidades izquierdas, somnolencia y anosognosia. Se realiza TC de control que muestra probable área de infarto isquémico temporal y en núcleo lenticular derecho, en territorio vascular de ACM derecha. En estudio etiológico se realiza telemetría durante todo el ingreso no se detectan arritmias potencialmente embolígenas y ecoscopia cardiaca  que muestra dilatación de Aurícula Izquierda y Ateromatosis aórtica no complicada. Asi mismo, cumpliendo criterios clínicos se incluye al paciente en el registro SRA (HVHpend asignac, Holter 19507) por lo que permanece monitorizada 48 horas sin alteraciones y además en el registro CryptoFA (monitorización cardiaca prolongada con holter bra en detección de etiología en ictus indeterminado), por lo que se entrega cargador y gel, y deberá acudir el día 8 de junio a las 9:30h para control y lectura del holter.
+Como incidencia presenta febrícula puntual por lo que se hace despistaje con sedimento de orina, analítica, hemocultivos y rxtorax, iniciándose tratamiento con ATB ( amoxi-clavulánico) manteniéndose afebri.
+Se inicia Rehabilitación con buena evolución clínica. En este contexto y estando clínicamente estable se traslada a _LOCATION_ para continuar con RHB  y estando pendiente de realización de colonoscopia el día 2 de junio.
+Se dejan visitas de control en las consultas de neurovascular. Al traslado NIHSS 10 y rankin 4.
+
+
+DIAGNÒSTICS
+Infarto ACM derecha de etiología indeterminada
+
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Se adjunta hoja de tratamiento ingresada.
+
+Deberá mantener:
+-	Adiro 100 mg cada 24 horas.
+-	Atorvastatina 80 mg cada 24 horas
+-	Omeprazol 20 mg cada 24 horas
+
+-	Suspender simvastatina y resto de tratamiento sin cambios.
+
+CONTROL
+-	Deberá acudir el día 8 de junio a las 9:30h a la segunda planta de la Unidad de ictus (gabinete núm 1).
+
+-	Visita control en las consultas externas de Neurovascular en la 3ª planta anexos del _SS_ el día 11/1/2018 a las 10:30h.
+
+DESTINACIÓ A L'ALTA:	HOSP. AGUTS/PSQ
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+29.05.2017
+Pàgina 1 de 3

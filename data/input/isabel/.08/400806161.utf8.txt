@@ -1,0 +1,79 @@
+1/ 2
+
+Cognoms:    _NAME_	Adreça:  _LOCATION_
+Nom:	_NAME_	_LOCATION_
+Edat: 69	Sexe:H	CIP:	_ID_	NIF:	_ID_
+Data naixement:   _DATE_	NHC:	_ID_	NASS:    _ID_
+Telèfon / Mòbil:	_CONTACT_ / _CONTACT_
+INFORME  D'ASSISTÈNCIA
+
+
+Metge/essa:	_NAME_	Servei:	Neurologia
+Data ingrés:	17/08/ 2017	Data Alta: 21-8-2017
+S'informa a:	Metge de família	Núm.  llit: _ID_
+
+DIAGNÒSTICS:
+1.	Hipoestè sia facial (empitjorament de focalitat per ictus cerebel·lós subagut)
+2.	Ictus isquèmic cerebeloso D, aterotrombòtic secundari a 3
+3.	Hemiparèsia -ataxia D secundari a 1
+4.	Estenosi suboclusiva vertebral D
+5.	Oclusió carotídia D, asimptomàtica
+6.	HTA
+7.	DM
+8.	DLP
+9.	Cardiopatia isquèmica  crònica
+10.	Hiperaldosteronisme
+11.	Hiperuricemia
+
+
+
+Pacient de 69 anys, sense hàbits tòxics ni AMC, que consulta per parestèsies a hemicara dreta.
+
+ANTECEDENTS  PATOLÒGICS:
+·	HTA en tractament farmacològic amb elecor i en seguiment a CCEE de Medicina Intera (Dra. _NAME_)
+·	Diabetis Mellitus tipus II en tractament amb Metformina 850mg 1 -0-1. Darrera Hb glic.de 03/2017: 6.9%.
+·	Dislipèmia en tractament farmacològic amb Crestor.
+·	SCACEST IAM inferior Killip I (2011). Es va realitzar una coronariografia que va mostrar lesió conronària a dos vasos (DA i CD) i es va realitzar una angioplàstia amb implantació de Stent a nivell de CD. Darrer ECO Cardio del 2014: Estudi sense alteracions significatives.
+·	Adenomes suprarrenals bilaterals e hiperaldosteronisme, en tractament amb Eplerenona. Darrera RMN del 04/2017: Lesió suprarenal dreta de 143 mm i esquerre de 18 mm hipointenses en T1 fase i en T2, que es fa molt hipointensa en fase oposada i te un comportament d' adenoma. Resta exploració
+normal. Darrera analítica hormonal 2017: Aldosterona 324 Renina 0,4.
+·	Hiperuricèmia en tractament farmacològic amb adenuric 80.
+·	Ictus isquèmic cerebel·lós dret (estenosis de AV dreta i oclusió de ACI dreta) d'etiologia
+aterotrombòtica (05/08/2017) que va cursar com atàxia, dismetria extremitats dretes facial i disàrtria de instauració  subaguda.
+o	Ecocardio grama: Ventricle esquerre amb moderada hipertròfia de predomini septal. Resta normal.
+o	RNM cranial: AVC isquèmic subagut cerebel·lós dret. Moderats signes d'atròfia cerebral difusa.
+Leucoaraiosi.
+o	ECG-Holte r: senes alteracions del ritme
+o	Ecodop pler TSA i intrac rani al: ateromatosi extracranial bilateral, severa al costat dret condicionant l'oclusió de l'artèria caròtida interna dreta a nivell distal, i amb repercussió
+hemodinàmica intracranial consistent en obertura d'artèria comunicant anterior i inversió d'ACA
+D. L'artèria vertebral dreta no es visualitza a nivell intracranial, amb disminució del flux respecte artèria vertebral contra lateral a nivell extracranial.
+Presenta milloria durant l'ingrés, sense cap altre complicació i a l' alta és capaç de deambulació amb
+ajuda, paretoatàxica dreta. NIHSS 2, Rankin 3.
+
+
+Tractament habitual: Clopidogrel 75mg/24h, Elecor 50mg 2/24h, Adenuric 80mg /24h, Secalip 160mg/24h (0-0-1), AAS 100mg/24h, Bisoprolol 2.5mg/24h (1-0-0), Balzak 20/5/12.5mg/24h, Metformina 850mg/12h, Atorvastatina 80mg/24h (0-0-1), Solinitrina (si precisa).
+Situació basal: Independent fins l'anterior ingrés. Viu a _LOCATION_ amb la seva dona.
+
+MOTIU D'INGRÉS:
+El pacient consulta per parestèsies a hemicara dreta i dificultat per articular el llenguatge. Ahir (15/08/2017) va acudir a urgències perquè des del dia 12/08/17 explica aparició de hipoestesia facial dreta, dificultat per a la masticació i empitjorament de la parèsia facial dreta. A l'exploració presentava parèsia facial amb component superior dret i hipoestesia facial, amb manteniment de la clínica  que  presentava  a  l'alta.  S'orienta  com  a possible nou ictus isquèmic i es programa RM cerebral i visita en 48h, essent alta a domicili. Torna a consultar unes hores més tard referint augment de la simptomatologia de parestèsia de hemicara dreta (de predomini superior), impossibilitat per a tancament complert de l'ull dret, empitjorament de la disàrtria i des vi ació de la comissura bucal.
+
+EXPLORACIÓ  FÍSICA:
+Exploració física a urgències (16/08)
+CTES: TA 157/78mmHg, FC 50x', Tªax 35º C, SatO2 99% basal. PELL I MUCOSES: normohidratat i
+normocolorejat. RESP: MVC sense sorolls sobreafegits. COR: tons cardíacs rítmics, sense bufs. No edemes a EEII. Polsos distals presents i simètrics. ABDOMEN: tou, no dolorós a la palpació, peristaltisme present, no es palpen masses ni megàlies.
+NRL: conscient i orientat. Col·laborador a l'entrevista. Lleu disàrtria, li costa articular les paraules. Hipoestèsia a hemicara dreta, desviació de la comissura bucal a l'esquerra, impossibilitat de tancar l'ull esquerre. Força conservada. RCP flexor bilateral.
+Exploració física a planta (17/08)
+CTES: PA 121/69mmHg, FC 59x', Sat 98%b, Tª ax 36.4º. PELL I MUCOSES: lleugera pal·lidesa i normohidratat. RESP: MVC sense sorolls sobreafegits. COR: rítmic, 60x', sense bufs ni frecs. No edemes a EEII. Polsos distals presents i simètrics. No signes de TVP.  ABD: tou,  no dolorós,  peristaltisme present,  no palpació de masses ni megàlies.
+NRL: Pacient conscient i orientat a les tres esferes. Llenguatge disàrtric, sense afàsies (compren i s'expressa correctament). Oculomotricitat  conservada.  Campimetria  per  confrontació  sense  defectes  campimètrics. Parèsia facial i alteració trigèmin (branques V1, V2), amb resta de PPCC conservats. Força conservada a les 4 extremitats, sense claudicacions. RMT normal i RCP flexor bilateral. Dismetria a EEII dreta. Sensibilitat conservada a les 4 extremitats. Marxa atàxica amb Romberg negatiu.
+NIHSS: 0-0-0-0-0//3-0-0-0-0 //1-1-0-1-0= 6
+
+EXPLORACIONS   COMPLEMENTÀRIES:
+RMN (1 7/08/2 01 7): AVC isquèmic subagut cerebel·lós dret ja conegut. No s'observen lesions de nova aparició. Moderats signes d'atròfia cerebral difusa. Leucoaraiosi
+Analítica: hemograma, bioquímica i coagulació sense alteracions significatives
+
+EVOLUCIÓ:
+Home de 69 anys, amb antecedent de ictus isquèmic cerebel·lós dret recent  d' etiologia  aterotrombòtica (estenosis de AV dreta i oclusió de ACI dreta), que va cursar com atàxia, dismetria extremitats dretes facial i disàrtria de instauració subaguda, que consulta a urgències per parestèsies a hemicara dreta i dificultat per articular el llenguatge. A la seva arribada a urgències presenta parestèsia de hemicara dreta (de predomini superior), impossibilitat per a tancament complert de l'ull dret, empitjorament de la disàrtria i des vi ació de la comissura bucal. Durant el seu ingrés no presenta empitjorament de la clínica neurològica i la RMN no mostra canvis -AVC isquèmic subagut cerebel·lós dret ja conegut-. Es manté en repòs  al  llit  amb  sedestació progressi va els dies següents, amb bona evolució dels símptomes i milloria progressiva dels déficits. A l'alta persisteix paresia facial Dreta, superior e inferior, i pareto-atàxia residual EE dretes. NIHSS: 5. Es dona d'alta a domicili, amb el seu tractament médic habitual, i seguirà controls a CCEE Neurologia
+
+
+TRACTAMENT: el seu habitual
+
+Signat per _NAME_ núm.col: _ID_ Data/Hora:21-08-2017 15:56

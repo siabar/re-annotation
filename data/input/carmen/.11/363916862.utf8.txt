@@ -1,0 +1,119 @@
+_LOCATION_) Telèfon _SS_  972 _CONTACT_
+Telèfon IDI (Ressonància i TAC) _CONTACT_
+Telèfon ICO _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 83 Anys
+NIF/DNI: _ID__NAME_; _NAME_;
+ _NAME_
+Informe d'alta d'hospitalització
+16:30:27
+24.04.2017
+_LOCATION_
+_SS_ NEUROLOGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_; _CONTACT_; _CONTACT_; DOMICIL/RES.SOC
+21.04.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Sospita d'infart cerebral
+
+ANTECEDENTS
+PERSONALS
+-	No al·lèrgies medicamentoses conegudes.
+-	No hàbits tòxics
+-	Independent per les ABVD. Rankin previ de 0.
+
+PATOLÒGICS
+-	HTA en tractament mèdic.
+-	Diabetes Mellitus tipus 2 en tractamnet amb antidiabètics orals.
+-	Anèmia ferropènica en tractament amb suplements.
+-	Estudiada per Cardiologia i Pneumologia per dispnea, no va realitzar les proves complementàries per estudi. Actualment nega dispnea.
+
+MEDICACIÓ HABITUAL
+AAS 100mg c/24hs, sulfato de hierro 105mg c/48hs, lisinopril 20mg c/24hs, metformina 850mg c/8hs, omeprazol 20mg c/24hs, ac ursodesoxicolico, 300mg c/12hs, polividona 50mg c/12hs, sertralina 50mg c/24hs.
+
+PROCÉS ACTUAL
+Segun marido de la paciente incia cuadro clínico a las 16:00 caracterizado por caida al suelo, llama al SEM que acude a la casa de la paciente la encuentra asintomática al subirla a la ambulancia a las 17:36 desarrolla cvuadro de dificultad al lenguaje, y dfeficit motor de hemicuerpo izquierdo por lo que llaman a nuestro centro y se activa codigo ictus a las 18:14, la paciente llega a nuestro centro a las 18:53.
+
+EXPLORACIÓ FÍSICA
+
+EXPLORACION EN URGENCIAS: TA : 220/98mmHg.
+-	AC: tonos rítmicos, sin soplos ni roces.
+-	NRL: Vigil, responde el mes del año pero no su edad. Disartrtia leve, no otros deficits del lenguaje, mirada conjugada con preferencia a la derecha, HHI, PFCI, leve deficit motor en ESI, no deficit motor en EII, hipoestesia en ambas EE izquierdas. No dismetrias. Asomatognosia
+NIHSS: 01012/20001/01012: 11
+
+EXPLORACIÓ COMPLEMENTÀRIA
+Analítica sanguinea:
+- Hb * 11.3 g/dL, Htc 37 %, VCM 85.1 fL, HCM * 26 pg,  Plaquetes 313 K/mcL, VPM 10.8 fL, Leucòcits 5.57 K/mcL
+
+Informe d'alta d'hospitalització
+
+
+
+
+(N 3.2 K/mcL, Limfocits 1.7 K/mcL).
+-	Coagulació normal.
+-	Glucosa * 191 mg/dL, Urea 37 mg/dL, Creatinina 0.55 mg/dL, Urat 2.9 mg/dL, Proteïna * 6.5 g/dL, Albúmina (sèrum) 4 g/dL, Colesterol 208 mg/dL, HDL 48 mg/dL, LDL (calcul) 132 mg/dL, Triglicèrid 141 mg/dL, Bilirubina total 0.21 mg/dL, perfil hepático, LDH * 216 U/L, CK 70 U/L, Amilasa 41 U/L, Calci (II) 9.1 mg/dL, Ió sodi 144 mEqu/L, Ió potasi 4 mEqu/L, Troponina T hs (alta sensibili 10.9 ng/L,
+
+ECG: Ritmo sinusal, QRS estrecho. No alteracions de la repolarización. Bloqueo de primer grado.
+
+Estudio Doppler: TSA con placas a nivel de ambos bulbos sin estenosis significativas, AVs sin anormalidades. DTC sin anormalidades relevantes.
+
+TC multimodal: Estudi TC cranial que mostra marcats signes de leucoaraïosi. Correcta permeabilitat dels vasos arterials intracranials i territori carotídi.
+
+TC control 24h post rtpa: Estudi TC sense evidencia de signes de transformació hemorràgica. La resta de les troballes sense canvis significatius respecte l'estudi TC previ.
+
+EVOLUCIÓ CLÍNICA
+A su llegada presenta disartria leve, déficit motor de la extremidad superior izquierda, hemihipoestesia izquierda, parálisis facial central derecha y asomatognosia. Se realiza una TC craneal multimodal que no muestra alteraciones.
+Se retrasa el tratamiento con rtPA por TA de 210/110 que no mejoran a pesa de dos bolus de labetalol de 10mg y 2 de 25mg de urapidil, y 2gr de metamizol. Finalmente con una TA de 180/90mmHg y se inicia tratamiento con rtPA a las  19:56 a dosis de 54mg , 5,4mg en bolus y 49 de perfusion. Durante su pertusion la paciente ha requerido otro bolus de labetalol para control de TA. Durante el tratamiento presenta un pico hipertensivo, junto un vómito, sin empeoramiento del déficit neurológico que no responde a un nuevo bolus de hipotensor por lo que se decide parar el tratamiento fibrinolítico.
+Neurológicamente presenta mejoría clínica. Ingresa a la unidad de ictus bajo monitorización semiintensiva.
+
+A las 24h del tratamiento se realiza una TC simple de control que es normal por lo que se inicia tratamiento antiagregante.
+
+Durante las 24h posteriores presenta agitación psicomotriz por lo que precisa la administración de haloperidol. Los días posteriores presenta mejoría clínica hasta encontrarse asintomática.
+
+Al alta, se encuentra asintomática. NIHSS 0
+Rankin 0
+
+DIAGNÒSTICS
+Sospecha de ictus ACM derecha de mecanismo embólico i etiologia indeterminada tratado con rtpa.
+Sindrome confusional agudo durante el ingreso
+
+PROCEDIMENTS
+TC craneo.
+
+Informe d'alta d'hospitalització
+
+
+
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+DEJAR DE TOMAR ADIRO
+
+Iniciar Clopidogrel 75mg cada 24h por la mañana Iniciar atorvastatina 40mg cada 24h por la noche
+
+Resta de medicació sense canvis: Sulfato de hierro 105mg c/48hs, lisinopril 20mg c/24hs, metformina 850mg c/8hs, omeprazol 20mg c/24hs, ac ursodesoxicolico, 300mg c/12hs, polividona 50mg c/12hs, sertralina 50mg c/24hs.
+
+CONTROL
+Control a Consultes Externes de Neurologia el dia 07/09/17 (primera planta) - Dra _NAME_
+Control de los factores de riesgo cardiovascular por su equipo de atención primaria. La avisaran para realizarse una RM cerebral i un ecocardiograma ambulatoriamente
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+24.04.2017
+Pàgina 1 de 3

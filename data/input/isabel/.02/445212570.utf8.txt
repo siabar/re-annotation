@@ -1,0 +1,89 @@
+I.C.RESPIRATÒRI PNEUMOLOGIA
+_NAME_	NHC: _ID_
+
+
+Sexo/Sexe: Fem.	Fecha nac./Data naix.: _DATE_	Edad/Edat: 73 años Dirección/Adreça: _LOCATION_		CP: _LOCATION_
+Municip. (Prov.): _LOCATION_  ABS:_SS_	Tel.:_CONTACT_
+As.: SERVEI CATALA DE LA SALUT	CIP: _ID_	NASS: _ID_
+Nº epis.: _ID_	Tipo/Tipus: HOSPIT.	Inici.: 11.11.2017
+Serv: PNEUMOLOGIA	UO Enf.: G062 SALA G DE PNEUMOLOGIA Hora: 01:20:13
+
+
+
+
+
+Tipo ingreso/Tipus ingrés: Urgent	Motivo/Motiu alta: CSS Conval.
+Diag.:
+TEP BILATERAL () ITU NOSOCMIAL ()
+Proc.:
+
+
+
+
+INFORME CLÍNICO ALTA / INFORME CLÍNIC ALTA
+
+Motivo de consulta / Motiu de consulta
+Derivación de _SS_ por Disnea
+
+Antecedentes e historia previa / Antecedents i història prèvia
+Mujer de 73 años, alérgica a la indometacina, sin hábitos tóxicos. Independiente para las actividades básicas de la vida diaria (mRS 0) hasta ICTUs en octubre 2017
+ANTECEDENTES PATOLÓGICOS:
+1.	HIPERTENSIÓN ARTERIAL en tratamiento médico.
+2.	ICTUS ISQUÉMICO CAROTÍDEO DERECHO CON TRANSFORMACIÓN HEMORRÁGICA PH1, octubre 2017. Presenta hemiparesia facio (leve)- braquio (1/5)- crural (2/5) izq, hipoestesia izq así como extinción táctil izq.
+*En la neuroimagen inicial presenta oclusión de carótida interna derecha en su origen y oclusión en tándem de TICA. En la fase aguda fue tratada mediante trombectomía con colocación de doble stent en carótida derecha y reperfusión completa intracraneal (TICI 3) y doble antiagregación posterior.
+* RM con infarto en territorio de ACM derecha de predominio subcortical, con componente hemorrágico intralesional (PH1).
+Al alta: NIHSS 11; TOAST: Ateromatosis gran vaso extracraneal; mRS 3. El día 02/11 se traslada al _SS_ para continuar rehabilitación.
+Medicación  habitual:  -  Esomeprazol  20  mg  1-0-0  -  Clopidogrel 75  mg  1-0-0  -  AAS  100  mg  1-0-0  -
+Atorvastatina 40 mg 0-0-1 - Losartán 100 mg 1-0-0
+
+Proceso actual / Procés actual
+Paciente que estando en _SS_ para convalesencia de Ictus, presenta febrícula y disnea súbita, por lo que realizan D-Dímero 800000, por lo que es trasladada.
+
+Exploración física / Exploració física
+11/11/2017-11:00:00: Frecuencia respiratoria (rpm) 20, PAS (mm Hg) 128, PAD (mm Hg) 76, Pulsioximetría (%) 94, Tª axilar (ºC) 36.
+CAR: tonos cardiacos rítmicos de tono e intensidad normal RESP: campos pulmonares ventilados. ABD:
+
+blando, depresible, no doloroso a la palpación. NRL. conciente y orientada, hemiparesia izquierda como secuela de Ictus previo en Octubre.
+
+Laboratorio / Laboratori
+**ANALITICA:  GASOM  ARTERIAL  Percentatge  O:  021  pH  7.468,  pCO2  38.8  mmHg,  pO2  66.0/B  mmHg
+BIOQUÍMICA GENERAL PCR 0.68 mg/dL Glucosa 138/A mg/dL Creatinina 0.72 mg/dL, FG 83.37 ml/min/ Sodi 137 mEq/L, Potasi 4.3 mEq/L HEMATIMETRIA Recompte de leucòcits 10.02 10^9/L Recompte d´hematies
+3.93 10^12/L Concentració d´hemoglobina 121 g/L, Hematòcrit 0.360 L/L Recompte plaquetes 418/A 10^9/L Neutròfils 65.1% Limfòcits 22.2%
+
+Radiología / Radiologia
+**ANGIO TAC Se observan múltiples defectos de repleción en ambos campos pulmonares compatibles con TEP agudo bilateral, afectando a ramas lobares, segmentarias y subsegmentarias. No hay signos TC de HTP. No se observan adenopatías de tamaño patológico en los territorios ganglionares explorados en el estudio. No hay derrame pleural ni pericárdico. Se aprecian ténues opacidades reticulares de predominio basal y subpleural de forma bilateral, así como en segmento anterior del LSI. Son indeterminadas aunque a valorar ampliar su estudio con TCAR para descartar afectación intersticial incipiente.
+
+Evolución / Evolució
+1.	TEP BILATERAL 2. ITU NOSOCOMIAL . 1. Paciente con los antecedentes mencionados, estando en _SS_ para convalesencia de Ictus, presenta febrícula y disnea súbita, por lo que realizan D-Dímero 800000, por lo que es trasladada para descartar TEP. .  A su llegada a urgencias, hemodinámicamnete estable, normotensa, afebril, con saturaciones basales adecuadas. Al examen físico, campos pulmonares ventilados, sin ruidos patológicos agregados, no edemas ni IY, neurológicamente con hemiparesia izquierda (como secuela de ictus  previo). . Analítica PCR 0.68, función renal correcta  Creatinina 0.72, FG 83, Ionograma normal, sin leucositocis ni neutrofilia. Rx de tórax silueta cardiaca normal, ligero pinzamiento de seno costofrénico derecho, sin signos de condensación ni reistribución vascular. Dado la sospecha elevada de TEP, se realiza Angio TA en donde se evidencia múltiples defectos de repleción en ambos campos pulmonares compatibles con TEP agudo bilateral, afectando a ramas lobares, segmentarias y subsegmentarias. No hay signos de HTP.
+Se orienta como TEP bilateral, por lo que se inicia tratamiento anticoagulante con cleaxene a dosis plenas. Permanece estable, se cambia clexane por Tinzaparina.
+EN sala estable clínica y hemodinámicamente, afebril en todo momento, sin requerimientos de Oxígeno suplementario, por lo que se decide alta a centro, para continuar convalescencia.
+2.	Paciente con dx  de ITU nosocomial el 06/11/2017 dada de  alta desde urgencias para completar antibiotico en _SS_, durante su estancia en este centro completa tratamiento antibiótico con Pip/Tazo, por lo que se suspende tto. Sin signos infecciosos.
+
+Plan terapéutico / Pla terapèutic
+Atorvastatina 10 mg Una vez al día, en la cena. Innohep 14.000 ui  Cada 24 horas. Losartan 100 mg Cada 24 horas. Acido acetilsalicilico 100 Una vez al día, en la comida. Omeprazol 20 mg Cada 24 horas.
+
+Otras recomendaciones / Altres recomanacions
+SEGUIMIENTO POR MÉDICOS HABITUALES
+
+
+
+Firma/Signatura1: _NAME_  Firma/Signatura2: _NAME_ Categoría: Resident 2	Categoría: Espec. Senior
+Nº Matrícula _SS_: _ID_	Nº Matrícula _SS_: _ID_
+
+
+
+Fecha/Data Informe: 20.11.2017
+Hora Informe: 08:53:53
+
+Docum.: _ID_
+Hist. Clínica: _ID_
+El _SS_ ha incorporado sus datos al Fichero de Pacientes, para tratarlos con fines sanitarios.
+Puede ejercer sus derechos de acceso, rectificación, cancelación y oposición, así como obtener mas información en la Unidad de Atención al Cliente.
+Vers. 00
+Pag. 2 de
+3
+Episod.: _ID_
+_SS_ ha incorporat les seves dades al Fitxer de Pacients, per a tractar-los amb finalitats sanitàries. Pot exercir els seus drets d'accés, rectificació, cancel·lació i oposició, i obtenir més informació a la Unitat d'Atenció al Client.
+_SS_
+_LOCATION_) _LOCATION_) Tel. _CONTACT_ Fax _CONTACT_
+http://_CONTACT_/

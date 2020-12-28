@@ -1,0 +1,148 @@
+_LOCATION_
+email: _CONTACT_ Telèfon _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 48 Anys
+NIF/DNI: _ID_Informe d'alta d'hospitalització
+22:37:02
+27.03.2017
+_LOCATION_
+_SS_ UNITAT CORONARIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_
+DOMICIL/RES.SOC 26.03.2017
+Guardia UCC (Dres._NAME_ y _NAME_)
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Mujer de 48 años que ingresa por ictus en territorio de ACM izquierda.
+
+ANTECEDENTS
+ANTECEDENTES PERSONALES:
+-	Sin alergias medicamentosas conocidas.
+-	Fumadora 5 cigarrillos/día
+-	Hipertensión arterial en tratamiento farmacológico.
+-	Dislipemia en tratamiento farmacológico.
+-	Infarto cerebral en territorio de ACM D de origen indeterminado por doble causa (estenosis ACI D y valvulopatía aórtica protésica) en junio de 2013. Se trató con tPA EV (infradescoagulada pese a Sintrom) + rescate intrarterial, con angioplastia de ACI D (estenosis >80%) + trombectomía mecánica (oclusión M1), quedando finalmente con estenosis 30% de ACI D y recanalización completa de ACM D. Tras el alta de nuestro centro estuvo en _SS_, realizó rehabilitación ambulatoria y actualmente sigue tratamiento con logopedia.
+-	Vasculopatía periférica que requirió de recanalización de ACI derecha (estenosis 80%) en 2013.
+-	Trastorno de pánico con agorafobia y terrores nocturnos, en seguimiento en _SS_.
+-	Anemia ferropénica en tratamiento con ferroterapia oral.
+-	Hernia discal C6-C7 con afectación orificio conjunción. Protusión discal C5-C6 con compresión de raíz L5 izquierda.
+-	Neuropatía periférica cubital bilateral.
+
+-	Niega  diabetes  mellitus,  hiperreactividad  bronquial,  historia  de  úlcera  gástrica  o  clínica  compatible  con claudicación intermitente.
+
+Situación sociofuncional: Camina de forma independiente, aunque precisa ayuda para ABVD. Vida sofa-cama por trastorno agorafóbico.
+
+HISTORIA CARDIOLÓGICA:
+Desde el punto de vista cardiológico la paciente se halla afecta de una valvulopatía aórtica con doble lesión aórtica, en seguimiento en _SS_, realizándose sustitución valvular por prótesis mecànica aórtica en enero 2012. Sigue controles en _SS_. En 2013, en contexto de ictus se solicitó ecocardiograma en nuestro centro para descartar trombosis protésica, que mostró un VI 44/31/11/9mm, sin segmentarismos, con FEVI conservada. Prótesis normoposicionada, con gradiente dentro normalidad (grad medio 17mmHg, vel máx 2.9m/s) con fuga ligera intraprotésica (I/IV), objetivándose en ETE separación entre 2 hojas del FOP, sin observarse paso de flujo a dicho nivel y una ateromatosis aórtica severa (grado III) en aorta toràcica descendente y cayado aórtico, con una placa importante a nivel subclavia.
+
+MEDICACIÓ HABITUAL
+Atorvastatina 80mg/24h, Bisoprolol 2.5mg/24h, Doxazosina 4mg/24h, Fero-gradumet 105mg/24h, Furosemida 80mg/24h, Hidroferol/15 días, Ideoas/24h, Lormetazepam 1mg/24h, Lyrica 75mg/8h, Omeprazol 20mg/24h, Sintrom sp, Carbamazepina 200mg/12h, Valsartan 60mg/24h, Venlafaxina 150mg/24hg
+
+Informe d'alta d'hospitalització
+
+
+
+
+PROCÉS ACTUAL
+Paciente con los antecedentes mencionados que acude por presentar, estando previamente asintomática, cuadro de paresia de extremidades derechas e imposibilidad para la emisión del lenguaje. Llegada a nuestro centro a las 23:54 horas.
+
+EXPLORACIÓ FÍSICA
+
+TA 90/70mmHg, FC 95lpm, Tª 36.1ºC, SaO2 93% (VMK 0.24)
+Paciente con estado general conservado, normocoloreada, normohidratada y normoperfundida.
+Auscultación cardiaca con tonos rítmicos, click valvular, soplo aórtico, sin edemas en miembros inferiores, ingurgitación yugular no valorable.
+Auscultación pulmonar con murmullo vesicular conservado y crepitantes bilaterales. Taquipneica con uso de musculatura abdominal.
+Neurológicamente vigil, afasia motora grave (3), LOC C 1/2 (1), LOC Q 0/2 (2), HHD (2), Paresia facial supranuclear derecha (2), balance motor braquial 1/5 (4), crural 2/5 (3), sensibilidad no valorable. NIHSS 17
+
+EXPLORACIÓ COMPLEMENTÀRIA
+ECG: Ritmo sinusal a 100lpm, PR 160ms, QRS 80ms, eje 60º, ondas T negativas en precordiales y disminución de ST en V4-V6 previamente no descrito.
+TC multimodal: Estudio urgente que no evidencia signos de lesión isquémica aguda en el estudio basal (ASPECTS 10/10). Oclusión en origen de la división anterior del segmento M2 de la ACM izquierda con permeabilidad distal y buen grado de colateralidad. Estudio perfusión objetiva penumbra en región frontal izquierda sin signos de necrosis. Infarto crónico en territorio profundo de la ACM derecha.
+Analítica general: Hb 14.0g/dl, Hto 42.0%, Leucocitos 9720, Plaquetas 253000, TQuick 78%, INR 1.16, TTPAr 1.17, Fibrinógeno 4.89g/l, Glucosa 110mg/dl, Urea 26mg/dl, Cr 0.59mg/dl, FG estimado >90, Na 124.5mmol/l, K 4.00mmol/l, Ca 9.2mg/dl, AST 26UI/L, ALT 23UI/L, Proteinas 7.1g/dl.
+GSA: pH 7.38, pCO2 37, pO2 50, Na 123, K 4.1, Glucosa 123, Lactato 1.6, EB -3.2, AG 11, FiO2 50%, PaFi 100
+mmHg.
+El ecocardiograma muestra un VI no dilatado, ligeramente hipertrófico, con función sistólica conservada y sin segmentarismos. Prótesis mecànica en posición aórtica sin poderse visualizar discos. Válvula mitral de velos finos y apertura conservada. No derrame pericárdico. Función VD conservada.Vena cava inferior no dilatada con colapso inspiratorio normal. Patrón de flujo transmitral de tipo pseudonormal. Insuficiencia aórtica severa-masiva (IV/IV) de difícil visualización por respiración de la paciente pero que cuando se visualiza llega hasta ápex de VI, con un tiempo de desaceleración acortado y pendiente pronunciada. VTI aorta toràcica descedente 26cm. Flujo reverso en aorta abdominal. Gradiente transprotésico aumentado (vel máx 3.88m/s, grad máx 60mmHg, grad medio 40mmHg)
+La AG(27/3) muestra Hb 11.7, hto 34.9, 8860 leucocitos (N 77%), plaquetas 191000,    ferrtina 34, hierro 47,
+glucosa 86, urea 18, creat 0.5,  Na 129, K 4.08, GOT 23, colesterol 164, HDL 64, LDL 83, TAG 85, proteína 5.5,
+albúmiona 3.5, proteína C reactiva 7.61, tirotropina 4.09. TTPA 56.6seg, rTTPA 1.87.
+TC Cranial de control (27/3): No existen cambios respecto al tac anterior (26-3-2017 , 10hrs) , en el que ya se habiavalorado que NO existian signos de transformacion hemorragica ya que las imagenespuntiformes hiperdensas en capsula interna derecha ya aparecían en tac previos y corresponden a calcificaciones y areas de gliosis en los margenes del area de malacia isquemica cronica en ganglios basales derechos. No han aparecido lesiones hipodensas en hemisferior izquierdo ,en relacion a la oclusion ACM izquierda que se repermeabilizó
+
+Informe d'alta d'hospitalització
+
+
+
+
+mediante trombectomia
+
+EVOLUCIÓ CLÍNICA
+NEUROLOGÍA
+
+A su llegada a nuestro centro paciente con clínica de TACI de ACM izquierda con NIHSS de 17 por lo que se realiza TC multimodal en el que presenta oclusión en origen de la división anterior del segmento M2 de la ACM izquierda con permeabilidad distal y buen grado de colateralidad y zona de penumbra en región frontal izquierda sin signos de necrosis. Dado que la paciente toma acenocumarol se decide esperar a resultado de analítica general previa toma de decisión de tratamiento revascularizador, avisando a guardia de Neurovascular dada la presencia de oclusión de segmento M2. En analítica general presenta hiponatremia e INR de 1.16, estando la paciente fuera de ventana terapeútica para tratamiento fibrinolítico en el momento que se conoce este resultado. Se realiza tratamiento intraarterial consiguiéndose con un solo pase de solitaire (01:45h) la recanalización completa de la arteria y presentando a la salida de la sala NIHSS 4 por afasia leve y paresia derecha leve.
+
+Durante su estancia en la sala de intervencionismo presenta desaturación a 88% por lo que precisa oxígenoterapia hasta FiO2 50% para mantener saturación por encima de 90%, a la exploración presenta crepitantes bilaterales hasta campos medios y sibilantes que se interpretan como asma cardial por lo que se pauta tratamiento con furosemida y dado que la paciente presenta evento embólico y sintomatología de insufieciencia cardiaca estando sin tratamiento anticoagulante se decide comentar con guardia de Cardiología que tras valorar a la paciente y realizar ecocardiografia transtorácica y bajo la orientación de probable trombosis valvular asume a la paciente que se traslada a Unidad Coronaria.
+
+CARDIOLOGÍA
+
+
+Se realiza ecocardiograma que muestra prótesis mecànica con gradiente medio alrededor 35-40mmHg con presencia de insuficiencia aórtica severa-masiva, con igualación rápida de presiones entre VI y Aorta, sugestivo de insuficiencia aórtica aguda, con una paciente en situación de edema agudo de pulmón, por lo que, ante la sospecha de complicación protésica se decide ingreso en UCC.
+
+Al interrogatorio dirigido (a pesar de dificultad de comunicación) la paciente refiere que las últimas semanas había presentado empeoramiento del estado general, con disnea, aunque sin ortopnea ni disnea paroxística nocturna, y sin dolor torácico ni palpitaciones. Niega fiebre ni cuadro infeccioso previo.
+
+Ingresa en UCC el 26/3/17 a las 3:40h, con PA 134/40mmHg, FC 87lpm, FR 21rpm, afebril, saturando al 96% con FiO2 0.5 a 15lpm.
+
+Se inicia perfusión de heparina sódica, y durante su estancia en la unidad coronaria, se mantiene hemodinámicamente estable. Se extraen hemocultivos para completar estudio y descartar posible endocarditis infecciosa.
+
+A las 8h postingreso, se realiza un ETE que muestra trombosis protésica obsstructiva, con presencia de trombos móviles (pendientes de informe definitivo). Dado éste hallazgo, creemos que el mejor tratamiento es la cirugía emergente y así se le comunica a la paciente.
+
+Informe d'alta d'hospitalització
+
+
+
+
+Guardia de NRL 27/3/17 (_NAME_/_NAME_/_NAME_)
+TC craneal: No existen cambios respecto al tac anterior (26-3-2017 , 10hrs) , en el que ya se habia valorado que NO existian signos de transformacion hemorragica ya que las imagenes puntiformes hiperdensas en capsula interna derecha ya aparecían en tac previos y corresponden a calcificaciones y areas de gliosis en los margenes del area de malacia isquemica cronica en ganglios basales derechos. No han aparecido lesiones hipodensas en hemisferior izquierdo ,en relacion a la oclusion ACM izquierda que se repermeabilizó mediante trombectomia
+
+En ausencia de infarto extenso establecido o transformación hemorrágica, no hay contraindicación para anticoagulación/ heparinización.
+
+Se contacta con el servicio de cirugía cardíaca de su centro de refencia (_SS_) ante la imposibilidad de cirugía emergente en nuestro centro por estar el quirófano y personal ocupado con una urgencia en éste momento (18h); comentado con el Dr._NAME_, se decide su traslado urgente.
+
+Al alta, neurológicamente consciente y orientada, con leve hemiparesia izquierda sin otros défcitis destacables, hemodinámicamente estable y manteniendo Sat.02 98%AA, afebril y sin clínica referida.
+
+IMPRESIÓN Y JUICIO CLÍNICO
+Así pues, se trata de una paciente de 48 años, fumadora, hipertensa y dislipémica, con antecedente de ictus en 2013 y un trastorno agorafóbico, que desde el punto de vista cardiológico es portadora de una prótesis mecànica aórtica desde el 2012 en seguimiento en _SS_, que es traída por nuevo ictus de ACM izquierda realizándose trombectomía mecànica, con recanalización de la arteria. Durante el procedimiento presenta cuadro de insuficiencia cardíaca franca, objetivándose la presencia de una trombosis aórtica obstructiva con insuficiencia asociada y la exploración trasnesofágica, muestra trombosis obstructiva. Se comenta con cirugía cardíaca del _SS_ (Dr._NAME_) para traslado a su centro y tratamiento quirúrgico urgente.
+
+DIAGNÒSTICS
+436/5 Ictus
+-	Trombosis protésica obstructiva con insuficiencia aórtica severa.
+-	Edema agudo de pulmón
+
+PROCEDIMENTS
+89.08 Altra consulta
+-	Ecografía transesofágica
+-	Trombectomía intraarterial
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+-	Se adjunta tratamiento pautado en U.Coronaria
+
+CONTROL
+centro destino.
+
+DESTINACIÓ A L'ALTA:	HOSP. AGUTS/PSQ
+
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+27.03.2017
+Pàgina 1 de 4

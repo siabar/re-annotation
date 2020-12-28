@@ -1,0 +1,79 @@
+INFORME ALTA HOSPITALARIA
+_NAME_
+Núm. Episodi: _ID_ Núm. HC: _ID_
+_SS_ _LOCATION_
+_LOCATION_
+Tel. _CONTACT_Adreça: _LOCATION_	C.A.P.: _SS_
+Població: _LOCATION_	Sexe: HOME   Data naixement: _DATE_  Edat: 84a
+Telèfon: _CONTACT_  C.P.: _LOCATION_	T.I.S.: _ID_  DNI/NIF: _ID_
+
+Procedència:	Data Ingrés Hospital: 07/02/2017
+Servei assistencial: NEUROLOGIA HOSP	Data Ingrés Servei: 07/02/2017
+Metge Responsable: _NAME_	Data Alta:
+
+
+Paciente de 84 años que acude el día 07/02/2016 a urgencias de nuestro hospital por afasia que se objetiva al despertarse a las 9:00am.
+
+ANTECEDENTES PERSONALES:
+1.	Sin alergias medicamentosas conocidas.
+2.	Ex fumador DA 120 paq/año
+3.	Enolismo antes enol moderado ahora leve.
+4.	HTA en tratamiento. Control por su MAP
+5.	EPOC de años de evolución que no ha requerido ingresos hospitalarios por descompensación. Última espirometría de la que se dispone 2002 CVF: 2,57 (87%), VEMS: 1,69 (63%), IT: 55% con PBD (-). Realiza tratamiento con broncodilatadores. En seguimiento por el medico de atención primaria. Realiza episodios de reagudización frecuentes que no has requerido ingreso hospitalario.
+6.	Ulcus gástrico que ha requerido cauterización por sangrado hace aproximadamente 20 años.
+7.	Neoplasia cutánea a cara a la juventud por lo que realizó tratamiento con radioterapia.
+8.	Carcinoma de epiglotis diagnosticado en mayo-02 que se trató con láser; en junio-02 se realizó vaciamiento ganglionar (con ganglios positivos) pero dados los antecedentes de radioterapia previa no se realizaron tratamiento complementarios. Como secuela presentó cuerda vocal fija, clínica de broncoespasmo sobre todo nocturno y regurgitación nocturna Ingreso en febrero-02 por episodio de broncoaspiración. TAC cervical: no signos de malignidad y TAC torácico: imágenes de aspecto cicatricial en LID y alguna bronquiectasia al LIE con afectación de ambos lóbulos inferiores compatible con broncoaspiración. Se realizó revisión por ORL que confirmó la presencia de una cuerda vocal fija sin lesión de recidiva. Se inició alimentación inicialmente por SNG y posteriormente por gastrostomía percutánea que se retiró en 2006. En 2003 ingresó a OTR para realización de cirugía electiva de tirohiodopexia por broncoaspiraciones de repetición. Actualmente sin transtornos de deglución.
+9.	Neurinoma del acústico con vértigo periférico asociado. Se desestimó cirugía.
+10.	Hipoacusia asimétrica neurosensorial OD>OI. Acúfenos D y mareos de larga evolución..
+11.	Ingreso por sobreinfección respiratoria en mayo 2016. Se aisló E coli BLEE sensible a Augmentine.
+
+Situación socio-funcional: paciente cognitivamente preservado, independiente para las actividades básicas de la vida diaria.
+
+Tratamiento habitual: Serc 16mg 1-0-0; Omeprazol 20mg 0-0-1; Alprazolam 0.25mg 0-0-1; Foster 100/6mcg 2- 0-2; Enalapril 5 mg 1c/24h; Spiriva respimat 2.5mcg 1inhalación 0-0-1. Ibuprofeno 600 mg si precisa; Paracetamol 1c/12h si precisa.
+
+ENFERMEDA ACTUAL:
+Paciente de 84 años que acude el día 7 de Febrero, sobre las 9h, al despertarse, el paciente y la mujer objetivan alteración en el lenguaje. A su llegada a urgencias el paciente se encontraba hemodinámicamente estable (TA 185/100, FC 100x', satO2 basal 93%). A la exploración física destacaba una afasia mixta. No se activa código ICTUS al no ser tributario de tratamiento por tiempo. Se realiza una analítica que no muestra alteraciones. Se realiza un TAC de cráneo que muestra lesión ocupante de espacio a nivel del angulo ponto- cerebeloso derecho ya conocida y una hipodensidad córtico-subcortical frontal izquierda. Tras ser comentado con Neurocitugía y descartar que tuviese realización con el Neurinoma del acústico ya conocido se decide ingreso en Neurología para completar estudio.
+
+EXPLORACIÓN FÍSICA:
+Paciente consciente, orientado, normocolorado, normohidratado AR: MVC, sin ruidos sobreañadidos
+AC: TCR, no ausculto soplos, sin edemas en EEII, sin signos de sobrecarga derecha ABD: blando, no palpo masas ni megalias, no doloroso a la palpación.
+NRL: Glasgow 15. Afasia mixta. No disartria. PPCC normales, PICNR, sin alteraciones sensitivas ni motoras, sin alteración de la marcha, sin dismetría.
+
+EXPLORACIONS COMPLEMENTÀRIES:
+Analítica (urgencias):Hb 14.1 g/dL; VCM 86.2 fL; Plaquetas 188000/mm3; Leucocitos 13740/mm3; (9% N en banda; 71% N; 5% L; 15% Mo); Glucosa 96.95 mg/dL; Urea 30.65 mg/dL; Creatinina 0.96 mg/dL; FG 73 ml/min; Na 138 mmol/L; K 4.45 mmol/L; CL 100.8 mmol/L; CK 42.6 UI/L; Troponina T 17.78 ng/L; TP 77%; TP (ratio) 1.19; TTPa 32.8s; TTPa 1.06
+Gasometria arterial (urgencias): pH 7.45; pCO2 35 mmHg; pO2 54 mmHg, Bicarbonato 25.2 mmol/L; Sat O2 91.3% (No conocemos FiO2)
+Rx tòrax: No cardiomegália. Se observan cambios crónicos sin observar imágenes de condensción ni derrame pleural.
+Cultivo de esputo: Flora saprófita. No se aísla E Coli BLEE ni ningún germen resistente.
+TC cranial: Estructures de la línia mitja no desplaçades. Prominència dels espais aracnoïdals dels solcs de la convexitat i dels valls silvians-insulars, per atròfia cerebral cortical. Sistema ventricular de mida i morfologia normal per l'edat del pacient. Hipodensitat córtico-subcortical frontal esquerre, compatible amb lesió isquèmica augda (territori M1). ASPECT basal de 9. Gran lesió ocupant d'espai heterogènia amb realç de contrast, amb component intra (a l'angle ponto-cerebel·lós dret) i extracranial, que s'estén a través del foramen jugular, ampliant-lo i erosionant també la paret del conducte carotidi, suggestiva de neurinoma vs . paraganglioma, ja conegut. No hi ha signes de sagnat intra ni extraparenquimatós.
+TC-PERFUSIÓ: S'administra contrast endovenós per estudi de perfusió cerebral. S'observa un augment del temps (MTT) de tot el territori de l'artèria cerebral mitja dreta, amb disminució de flux (rCBF), però sense alteració del volum (rCBV). Les troballes són secundàries a oclusió de l'artèria caròtida interna (bé sigui pel propi tumor o per lligadura postquirúrgica). S'observa augment del temps (MTT) al territori i D3 i D5 i D6 de l'artèria cerebral mitja esquerra, que s'associa a una disminució del volum (rCBV), amb una penombra que es calcula superior al 50%.
+ANGIO-TC: Estudi vascular des de la crossa de l'aorta fins a la convexitat cerebral. Obstrucció de l'artèria caròtida interna dreta post- bulbar a nivell de la massa. Correcta permeabilitat d'ambdues artèries caròtides comuns, de les artèries vertebrals, artèria basilar, de l'artèria caròtida interna esquerra i de les artèries del polígon de Willis. L'artèria cerebral mitja dreta es vascularitza a través de l'artèria comunicant anterior del sistema carotidi esquerre. Assimetria amb disminució de les branques distals de l'ACM esquerra. Atròfia de la musculatura de la hemillengüa dreta que atribueixo en relació a afectació del XII parell cranial. Canvis post- traquiotomia. En el parènquima pulmonar s'observen petits augments de densitat parxejats a lòbul superior dret, poden estar en relació a procés inflamatori infecciós tot i que són indeterminats. Emfisema. Important disc artropatia degenerativa cervical amb retrolistesi grau I de C4 i D5. Nòduls tiroïdals.
+RMN cerebral (11/2015): Se observa una extensa masa de tejido blando intra y extracraneal, de aproximadamente 78 x 35 x 33 mm, que ocupa ángulo ponto-cerebeloso derecho y se hace extracraneal siguiendo el foramen yugular, y llegando hasta el espacio parafaríngeo. Presenta una captación heterogénea por presencia de áreas quístico-necróticas y por situación correspondería con un neurinoma de pares craneales bajos, 9, 10 o 11 para craneal. Cranealmente ocupa parcialmente el CAI derecho. No hay lesiones contralaterales. Causa un leve grado de compresión sobre el parénquima cerebeloso.
+TC toraco-abodminal: Se ha realizado estudio abdominal tras la administración de contraste endovenoso. Engrosamiento de paredes bronquiales basales predominantemente en LID asociada a pequeñas imágenes nodulares centrolobulillares secundarias a patología inflamatoria / infecciosa. Callo costal posterior en hemitórax derecho. Imágenes hipodensas quísticas en LHI. Se visualizan pequeños nódulos calcificados en segmento lateral de LHI y en la parte inferior de LHD. Vía biliar intra y extrahepática no dilatadas. Vena porta permeable. Páncreas sin anomalías significativas. Conducto de Wirsung no dilatado. Pequeño divertículo en segunda porción dodenal. Glándulas suprarrenales y bazo sin alteraciones significativas. Múltiples quistes corticales renales bilaterales de predominio en riñón derecho. No hay signos de uropatía obstructiva. No visualizo ganglios de tamaño patológico en el retroperitoneo, mesenterio ni cadenas ilíacas. Divertículos en sigma sin signos de complicaciones. No veo imágenes sospechosas de proceso neoformativo en asas de intestino delgado ni colon. No hay signos de carcinomatosis peritoneal.
+EVOLUCIÓ:
+Paciente de 84 años con antecedentes de carcinoma de epiglotis, HTA y neurinoma del acústico de tamaño considerable que ingresa por cuadro de afasia mixta de inicio del despertar con lo que ingresa para valorar evolución y completar estudio.
+Durante su estancia en planta de neurología, el paciente va mejorando progresivamente, teniendo alguna leve dificultad en la emisión o expresión de alguna palabra, según comenta familiar, entendiendo completamente el lenguaje y sin presentar afectación de vías largas ni nueva recurrencia. Presentó un empeoramiento clínico a nivel respiratorio de su EPOC de base que se mejoró con la administración de nebulizaciones, manteniendo al alta, sus inhalaciones habituales.
+Se realizó un TC toraco-abdominal para descartar posible extensión tumoral, donde se descarta procesos neoplásicos a ese nivel. En el estudio de angio-TC TSA y TC cerebral, se observa su neurinoma acústico derecho ya conocido y una obstrucción de la arteria carótida derecha (asintomática) posiblemente secundaria a la intervención o RT previa recibidas a ese nivel, pero a nivel intracraneal presenta buena comunicación, interhemisféricas y de la circulación anterior y posterior.
+Dado la buena evolución clínica y no recurrencia, se comenta con los familiares el resultado de TC abdomino- torácico y deciden no realizar mayor estudio etiológico.
+
+Se valorará en consultas de Neurología en 3 meses para ver evolución.
+
+
+JUDICI CLÍNIC:
+Ictus isquémico del territorio de ACM izquierda de etiología indeterminada (posiblemente paraneoplásico). Neurinoma del acústico derecho.
+EPOC reagudizado controlado. Carcinoma de epiglotis intervenido.
+
+TRACTAMENT:
+Continuará con su tratamiento domicilario:
+Serc 16mg 1-0-0; Omeprazol 20mg 0-0-1; Alprazolam 0.5mg 0-0-1; Foster 100/6mcg 2-0-2; Enalapril 5 mg 1c/24h; Spiriva respimat 2.5mcg 1inhalación 0-0-1. Ibuprofeno 600 mg si precisa; Paracetamol 1c/12h si precisa.
+
+Añadirá:
+-	Adiro 300mg 1 comprimido cada 24horas.
+-	Atorvastatina 20mg 1 comprimido cada 24 horas.
+Atentament, Signat:
+Dr/a.: _NAME_	Dr/a.:_NAME_
+Metge adjunt - Neurología	Metge resident- Medicina Interna
+Número col·legiat: _ID_	Número col·legiat: _ID_
+
+Hospitalització
+Imprès: 14/02/2017 14:17
+Pàg.: 1 de  3

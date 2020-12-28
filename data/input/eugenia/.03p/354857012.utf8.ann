@@ -1,0 +1,59 @@
+T0	FECHA 211 221	29.03.2017
+#0	AnnotatorNotes T0	2017-03-29
+T1	HORA 222 227	15:40
+#1	AnnotatorNotes T1	15:40
+T2	FECHA 234 244	29.03.2017
+#2	AnnotatorNotes T2	2017-03-29
+T3	HORA 245 250	19:38
+#3	AnnotatorNotes T3	19:38
+T4	SECCION_DIAGNOSTICOS 304 319	DIAGNÒSTIC ALTA
+T5	_SUG_Hemorragia_cerebral 360 368	HEMATOMA
+T6	_SUG_Localizacion 369 384	CAPSULO-TALAMIC
+T7	SECCION_DIAGNOSTICOS 2857 2879	Orientació diagnòstica
+T8	_SUG_Hemorragia_cerebral 2883 2891	Hematoma
+T9	_SUG_Localizacion 2892 2908	capsulo-talámico
+T10	_SUG_Lateralizacion 2909 2916	derecho
+T11	SECCION_MOTIVO_DE_INGRESO 401 418	Motiu de consulta
+T12	_SUG_Ictus_isquemico 427 432	ictus
+T13	SECCION_ANTECEDENTES 435 446	Antecedents
+T14	FECHA 818 822	2015
+#14	AnnotatorNotes T14	2015-UNDEF-month-UNDEF-day
+T15	SECCION_PROCESO_ACTUAL 979 994	Malaltia actual
+T16	HORA 1035 1040	12:00
+#16	AnnotatorNotes T16	12:00
+T17	_SUG_Lateralizacion 1081 1090	izquierda
+T18	HORA 1252 1257	15:00
+#18	AnnotatorNotes T18	15:00
+T19	_SUG_Ictus_isquemico 1336 1341	ictus
+T20	_SUG_Lateralizacion 1472 1481	izquierda
+T21	_SUG_Lateralizacion 1528 1537	izquierdo
+T22	_SUG_NIHSS 1616 1623	NIHSS 6
+T23	_SUG_TAC_craneal 1636 1646	TC craneal
+T24	_SUG_Hemorragia_cerebral 1670 1678	Hematoma
+T25	_SUG_Localizacion 1705 1721	capsulo-talámico
+T26	_SUG_Lateralizacion 1722 1729	derecho
+T27	_SUG_Localizacion 1755 1766	ventricular
+T28	_SUG_Localizacion 1802 1812	ventrículo
+T29	_SUG_Etiologia 1855 1867	hipertensivo
+T30	SECCION_EXPLORACION_FISICA 1928 1945	Exploració física
+T31	_SUG_Lateralizacion 2331 2340	izquierda
+T32	_SUG_Lateralizacion 2387 2396	izquierdo
+T33	_SUG_NIHSS 2475 2482	NIHSS 6
+T34	SECCION_EXPLORACIONES_COMPLEMENTARIAS 2485 2510	Exploració complementària
+T35	_SUG_TAC_craneal 2512 2522	TC Craneal
+T36	_SUG_Hemorragia_cerebral 2524 2532	Hematoma
+T37	_SUG_Localizacion 2559 2575	capsulo-talámico
+T38	_SUG_Lateralizacion 2576 2583	derecho
+T39	_SUG_Localizacion 2609 2620	ventricular
+T40	_SUG_Localizacion 2655 2665	ventriculo
+T41	_SUG_Etiologia 2708 2720	hipertensivo
+T42	_SUG_Localizacion 2750 2761	subcortical
+T43	SECCION_EVOLUCION 2919 2927	Evolució
+T44	_SUG_Lateralizacion 3349 3350	e
+T45	SECCION_TIPO_DE_INGRESO 3532 3546	Tipus d'ingrés
+T46	FECHA 3686 3696	29.03.2017
+#46	AnnotatorNotes T46	2017-03-29
+T47	FECHA 3738 3748	29.03.2017
+#47	AnnotatorNotes T47	2017-03-29
+T48	HORA 3749 3754	19:49
+#48	AnnotatorNotes T48	19:49

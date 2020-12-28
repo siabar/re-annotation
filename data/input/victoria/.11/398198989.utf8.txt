@@ -1,0 +1,150 @@
+_LOCATION_ Tel. _CONTACT_
+e-mail: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 61 Anys
+NIF/DNI: _ID_Informe d'alta d'hospitalització
+11:45:00
+08.08.2017
+_CONTACT_
+_SS_ NEUROLOGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_
+ATEN.PRIMÀRIA 04.08.2017
+Dra. _NAME_ / Dra. _NAME_ / Dra. _NAME_
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Ictus isquémico lacunar derecho
+
+ANTECEDENTS
+Hombre de 61 años, alérgico a diclofenaco y metamizol e intolerancia a ibuprofeno.
+Hábitos tóxicos: Fumador de 10-15 cigarrillos/día. Enol de 120g/día. Situación funcional previa: Independiente para las ABVD. mRS 0.
+
+ANTECEDENTES PATOLÓGICOS
+-	Hipertensión arterial en tratamiento farmacológico.
+-	Dislipemia sin tratamiento.
+-	Probables criterios de bronquitis crónica. Dísnea habitual de medianos esfuerzos. No sigue tratamiento alguno. No ingresos.
+
+Historia neurológica:
+Ingreso en _SS_ de _LOCATION_ del 23.07.17 al 04.08.17 por episodios de pérdida de fuerza de extremidades izquierdas. El cuadro había comenzado hacía un mes en forma de sensación de mareo con alteración del habla y desviación de la comisura labial izquierda, de menos de 10 minutos de duración, posteriormente la clínica durante el episodio fue progresando hatsa presentar hemiparesia izquierda. Durante su ingreso, se realizó TC craneal y angioTC sin lesiones isquémicas, doppler de troncos supraaórticos (27.07.2017) que mostró ateromatosis leve en bulbo e inicio de arteria carótida derecha, que no condicionaba estenosis significativas, resonancia magnética con angioresonancia (28.07.2017) (realizada mientras el paciente se  encontraba asintomático) sin alteraciones y ecocardiograma transtorácico (25.07.2017) normal. Fue derivado a nuestro centro en dos ocasiones (26.07 y el 30.07) como código ictus, retornando en las dos ocasiones a su centro de referencia al descartar lesiones isquémicas agudas. Inicialmente bajo la sospecha de episodios de AIT, se inició tratamiento con antiagregación y estatinas a dosis altas. Por presentar nuevos episodios (en alguno de los cuales se evidenciaron movimientos anómalos de extremidad superior izquierda), se cambió la orientación diagnóstica a crisis comiciales focales, iniciándose tratamiento con levetiracetam 500mg/12h que se aumentó posteriormente a 1000mg/12, añadiéndose eslicarbacepina 400mg/24h. Se realizó EEG pendiente de informe en el momento del alta. Fue dado de alta el 04.08.17.
+
+Antecedentes quirúrgicos: Apendicectomía, Halluz valgus izquierdo, Faquectomía de ojo izquierdo el 02.2017.
+
+MEDICACIÓ HABITUAL
+Adiro 300mg/24h; Enalapril 10mg/24h; Levetiracetam 100mg/12h; Zebinix 400mg/24h.
+
+PROCÉS ACTUAL
+Paciente traído vía SEM previa activación de código ictus por clínica de hemiplejia izquierda. El paciente había sido dado de alta el 04.08.2017 por la mañana tras ingreso en _SS_ para estudio de episodios de hemiparesia izquierda orientados como crisis comiciales focales. A las 11:45h, mientras estaba desayunando, presenta nuevo episodio de hemiplejia izquierda, por lo que es llevado a _SS_. Se activa
+
+Informe d'alta d'hospitalització
+
+
+
+
+Código Ictus a las 12:15h, llegando a nuestro centro a las 13:50h.
+El paciente refiere sensación de mareo y calor peribucal antes de cada episodio.
+
+EXPLORACIÓ FÍSICA
+
+FC	58 bpm
+Tªaxi 36.1 ºC
+FR	rpm Tªrec  ºC
+TA s	140 mmHg SAT O2 98 %
+TA d   83 mmHg Pes Kg
+
+Exploración neurológica en UCIAS: Consciente y orientado. Lenguaje fluente sin elementos afásicos, disartria leve. Campimetría por confrontación y oculomotricidad sin alteraciones. Paresia facial central izquierda con signo de la pestaña. No claudicación motora ni alteraciones sensitivas. No dismetrías. RCP flexor bilateral.
+NIHSS = 0.0.0.0.0/2.(0.0)(0.0)/0.0.0.1.0= 3
+
+Exploración neurológica a la entrada de RMN: Consciente y orientado. Lenguaje fluente sin elementos afásicos, disartria leve. Campimetría por confrontación y oculomotricidad sin alteraciones. Paresia facial central izquierda con componente superior. Hemiplegia de extremidades izquierdas. No alteraciones sensitivas.
+NIHSS = 0.0.0.0.0/3.(0.4)(0.4)/0.0.0.1.0= 12
+
+Exploración sistémica: AC: ruidos cardiacos regulares, no ausculto soplos. AR: murmullo vesicular preservado, sin ruidos sobreañadidos. ABD: blando y depresible, no doloroso a la palpación, no palpo masas ni megalias peristaltismo preservado. EEII: Sin edemas ni signos de TVP.
+
+Exploración neurológica al alta de la UIA: Consciente y orientado en las 3 esferas. Obedece órdenes. Lenguaje fluente sin elementos afásicos. Campimetría por confrontación y oculomotricidad sin alteraciones. Resto de pares craneales normales. No alteraciones motoras ni sensitivas. No dismetrías.
+NIHSS = 0
+
+EXPLORACIÓ COMPLEMENTÀRIA
+Exploraciones complementarias realizadas en Urgencias:
+
+Analítica (04.08.2017): Hematologia (04/08/17): Leucòcits 9200 /µL, (N 67,9 % / L 20,9 / M 8,8 / E 1,8 / B 0,6),
+Hties 4,08 mill/µL, Hb 14,1 g/dL, Hct 40 %, VCM 98,2 fL, Plaquetes 110000 /µL, TP 87 %, INR 1,1 sg, TP ratio 1,1,
+TTPA 30 sg, TTPA ratio 0,97, Fibrinogen 404 mg/dL.
+Bioquimica (04/08/17): Glucosa 95 mg/dL, Urea 24, Creatinini 0,86, K 1, Ca 9,6 mg/dL, Prot-C reactiva 2,3 mg/L. Eq Venoso (04/08/17): pH 7,42, pCO2 39 mmHg, pO2 58, HCO3 25,3 mmol/L, Exc Base 0,8, Sat O2 96,7 %.
+
+Resonancia magnética cerebral (04.08.2017; 14:28h): Lesión isquémica aguda en territorio  de  coroidea derecha sin alteraciones vasculares. (Ver informe completo en SAP).
+
+Exploraciones complementarias realizadas durante el ingreso:
+
+Analítica de ingreso (07.08.2017): Hematologia (07/08/17): Leucòcits 8000 /µL, (N 55,3 % / L 31,4 / M 9,1 / E 3,4
+/ B 0,8), Hties 4,02 mill/µL, Hb 13,8 g/dL, Hct 39,2 %, VCM 97,7 fL, Plaquetes 113000 /µL, TP 85 %, INR 1,13 sg,
+TP ratio 1,13, TTPA 34 sg, TTPA ratio 1,1, Fibrinogen 481 mg/dL.
+Bioquimica (07/08/17): Glucosa 87 mg/dL, HbA1c 5,1 %, Urea 29 mg/dL, Creatinini 0,86, Filtrat glomerular estimat
+>90 mL/min/1.73 m2, Urat 7,2 mg/dL, Ca 9,2, Fosfat 4,1, Mg 2,02, Na 140,1 mmol/L, K 3,62, Cl 106,5, ALT 38 U/L,
+GGT 146, FA 70, Bilirubina 0,86 mg/dL, CK 34 U/L, Prot-C reactiva 3,5 mg/L, Proteïna 68,3 g/L. Proteinograma.-
+
+Informe d'alta d'hospitalització
+
+
+
+
+Alb PENDIENTE, a1·Glob PENDIENTE, a2·Glob PENDIENTE, ß·Glob PENDIENTE, ?·Glob PENDIENTE. Lípids.-
+Triglicèrid 88 mg/dL, Colesterol 122, (HDL 33 / LDL 71). Hormonas (07/08/17): TSH 2,802 µUI/mL.
+
+TC de control (07.08.2017): Muy sutil mínima hipoatenuación en brazo posterior de cápsula interna derecha, compatible con pequeña lesión isquémica subaguda, congruente con los hallazgos descritos en R M de 04/08/2017. No se observan nuevas lesiones isquémicas ni hemorrágicas agudas. Sin otros hallazgos TC destacables.
+
+
+EVOLUCIÓ CLÍNICA
+A su llegada a Urgencias, hemodinámicamente estable y afebril. Inmediatamente antes de la valoración por Neurología, el paciente presenta remisión prácticamente completa del episodio, persistiendo leve paresia facial izquierda y leve disartria, puntuando un NIHSS de 4. Durante su estancia en Urgencias, presenta dos nuevos episodios (uno con hemiparesia y otro con hemiplejia izquierda), puntuando un NIHSS de 12. Se realiza nueva resonancia magnética que confirma pequeña lesión isquémica aguda en brazo posterior de cápsula interna derecha. Se orienta como ictus isquémico lacunar derecho con clínica fluctuante (capsular warning). Se inicia doble antiagregación y estatinas a dosis altas y se mantiene al paciente en reposo absoluto a 0º. Se decide ingreso en Unidad de Ictus Agudo (UIA) para control evolutivo.
+
+Durante su ingreso en la Unidad de ictus se ha mantenido sin alteraciones del ritmo durante la monitorización cardiaca. El paciente ha tolerado sedestación progresiva y deambulación. También se ha iniciado dieta oral tras test de disfagia no patológico. Se ha realizado una analítica en la que se aprecia aumento del volumen corpuscular, plaquetopenia leve y aumento de la GGT ya presente en analíticas previas (actualmente en disminución). Perfil glucémico y lipídico dentro de la normalidad con LDL de 70 mg/dL. No se ha solicitado un nuevo ecocardiograma ya que se realizó uno hace unas semanas sin anomalías significativas.  Se ha realizado TC de control el 07.08 que muestra mínima hipoatenuación en brazo posterior de cápsula interna derecha.
+
+Como complicaciones neurológicas; 24h después del ingreso presentó sensación de mareo autolimitada sin focalidad neurológica asociada y 24h más tarde presentó sensación de hormigueo en mano izquierda de segundos de duración. Posteriormente se ha mantenido asintomático.
+
+Finalmente, se orienta como ictus isquémico lacunar en brazo posterior de cápsula interna derecha. Dado que el paciente se ha mantenido asintomático tras iniciar tratamiento de prevención secundaria, tolerando deambulación, se decide alta a domicilio con control en Consultas Externas de Neurología.
+
+Al alta: NIHSS = 0
+mRS = 0
+Barthel = 100
+
+DIAGNÒSTICS
+434.91/5 Avc isquemic: Ictus isquémico lacunar (LACI) en brazo posterior de cápsula interna derecha.
+401.9 Hipertensió essencial inespecificada
+
+Informe d'alta d'hospitalització
+
+
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Habandonar hábito tabáquico, consumo de enol máximo 1-2 vasos vino/día. Dieta cardiosaludable
+
+-	Suspender Keppra y Zebinix
+
+-	Clopidogrel 75mg/24h
+-	Atorvastatina 80mg/24h
+-	Ranitidina 150mg/12h
+
+Resto de su medicación habitual:
+-	AAS 300mg/24h
+-	Enalapril 10mg/24
+
+CONTROL
+-	Control en consultas externas de Neurología (Dra. _NAME_) el 25 de septiembre a las 09:50h en la primera planta.
+-	Control por médico de cabecera y especialistas habituales. Control de factores de riesgo cardiovascular (realizar controles de perfil lipídico dado que se ha iniciado atorvastatina a dosis altas como prevención secundaria de ictus, pero el paciente ya tenía un buen perfil lipídico con LDL de 70. Si en analíticas de control dosminuye mucho el LDL, se puede valorar disminuir dosis de atorvastatina).
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+08.08.2017
+Pàgina 1 de 4

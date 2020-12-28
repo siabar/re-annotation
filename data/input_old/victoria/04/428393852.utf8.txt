@@ -1,0 +1,114 @@
+SERVEI DE NEUROLOGIA
+INFORME DE ALTA
+Unitat d`IctusNº Historia clínica	_ID_
+Fecha de nacimiento
+_DATE_
+C.I.P.	_ID_	Código Centro	_ID_
+Teléfono	_CONTACT_	Dirección	_LOCATION_ Fecha ingreso	06/10/17		_LOCATION_ Fecha de alta	10/10/17	Teléfono	_CONTACT_
+Nº Asistencia	_ID_
+UH	_ID_
+
+
+
+DIAGNÓSTICOS:
+1.	ICTUS TACI DE ACM DERECHA DE ETIOLOGÍA INDETERMINADA. Oclusión de porción M3 de ACM derecha.
+2.	FIBRINOLISIS ENDOVENOSA CON rtPA
+3.	HIPERTENSIÓN ARTERIAL
+4.	DISLIPEMIA
+5.	DIABETES MELLITUS TIPO 2
+6.	GLAUCOMA
+
+Paciente de 91 años sin alergias medicamentosas conocidas ni hábitos tóxicos. Independiente  para ABVD, vive sola (viuda), con buen soporte familiar. Deambula por casa y distancias cortas en calle con bastón. TF 1 día a la semana para tareas domésticas y le traen la comida a casa. mRs 2.
+
+PROCEDIMIENTOS:
+-	Fibrinolisis rtPA
+-	Ingreso en unidad de ictus
+-	TC craneal (x2)
+
+ANTECEDENTES:
+-	HTA en tto con dieta.
+-	DM tipo 2 en tto con dieta.
+-	Dislipemia en tto con dieta.
+-	No cardiopatía conocida.
+-	Sd depresivo
+-	Artrosis
+-	Glaucoma
+-	Sd vertiginoso
+-	IQ varices.
+Tratamiento habitual (refiere incorrecto cumplimiento):
+-	AAS 100mg/24h
+-	Vesicare 10mg/24h
+-	Paracetamol 1g/12h
+-	Omeprazol 20mg/24h
+-	Travatan colirio 2gotas/24h
+-	Azarga colirio 2-0-2
+-	Furosemida
+
+ENFERMEDAD ACTUAL:
+Es traída a urgencias el día 6/10/2017 por el SEM por clínica de inicio a las 20:45h de disartria por la que la misma paciente ha llamado a urgencias. A la llegada del SEM, la paciente se encontraba asintomática. A su llegada a urgencias, a las 21:20h la paciente ha presentado clínica de ictus TACI de ACM derecha por lo que se ha activado código ictus intrahospitalario.
+En Box-1, hemodinámicamente estable y afebril (TA 178/56 mmHg, FC 83 lpm, glicemia 182 mg/dl), NIHSS de 12 a expensas de desviación de la mirada 2, HHI 2, hemiparesia faciobraquiocrural 2+2+1, hemihipoestesia 1, disartria 1, anosognosia 1.
+Nombre	_NAME_EXPLORACIÓN FÍSICA:
+-	Exploración física en UCIAS:
+TA 178/56 mmHg, FC 83 lpm, glicemia 182 mg/dl
+-	NRL: Consciente y orientada en las tres esferas. Hemianopsia homónima izquierda (2), preferencia ocular derecha que no cruza linea media (2). Parálisis faciobraquiocrural izquierda (2+2+1), hemihipoestesia izquierda (1). Dismet´ria proporcional al déficit. Disartria (1) Anosognia, no asomatognosia (1). RCP flexor bilateral. NIHSS: 12.
+Disminución AV en ojo izquierdo por glaucoma.
+-	CV: Soplo plurifocal diastólico de predominio mitral. No roce pericardico. Ritmica.
+-	AR: MVC sin ruidos sobreañadidos.
+
+-	Exploración física en Unidad de Ictus:
+TA 188/104mmHg, FC 76lpm, Tª 36.1ºC, glicemia 123mg/dl. Test de disfagia (-).
+NRL. consciente, orientada, responde pregntas y obedece órdenes. No alteraciones campimétricas por confrontación ni extinción visual. Mirada centrada. Paresia faciobraquial izquierda leve 1+1. No claudicación EII. Niega hipoestesia. No extinción táctil. Disartria leve 1. No asomatognosia, ni anosognosia (desconoce la razón, pero explica que mueve menos mano izquierda). NIHSS 3.
+AC: ruidos cardíacos regulares.
+Ritmo sinusal en monitor ECG (durante 4 días)
+
+EXPLORACIONES COMPLEMENTARIAS:
+-	Analítica de urgencias (06/10/2017): Glucosa 206 mg/dl, creatinina 0,84 mg/dl, sodio 135,4 mmol/l, potasio 4,49 mmol/l, cloro 101,2 mmol/l, FGE 61, CK 55 UI/L 37C, PCR <0,1, Hb 13,5 g/dl, VCM 89 fl,
+HCM 29,1 pg, leucocitos 6390, neutrofilos 4050 (63,4), lifmocitos 1650 (25,8%), plaquetas 231000, TP
+88,3%, TP ratio 11,2, TP ratio 1,08, fibrinogeno 251,4, D-dimero 970 mcg/l
+-	TC craneal y angioTC (06/10/2017): No se identifica lesión isquémica aguda establecida ni  signos hiperagudos de isquemia: ASPECTS 10. El estudio angio-TC evidencia defecto de repleción  distal en rama insular del segmento M3 de ACM derecha.
+-	ECG: Ritmo sinusal a 78 lpm. PR>0,2 (bloqueo primer grado), posible hipertrofia auricula,  QRS estrecho sin alteraciones clara repolarización. NO signos de isquemia.
+-	Analítica de ingreso: Urea 32, Creat 0.64, A. Urico 3.6, Na 139, K 4.5 , Cl 101, FG 78. LDH 301, CK 27,
+Bil 1.5, GOT 12, GPT 8, GGT 36, FA 111, Proteinas 6.5, Alb 3.7, Colesterol total 117, LDL 60, HDL 56, TG
+61. THS 1.82, HbA1c 6.7, PCR 2.65, Hb 14,6, Hcto 43.8, VCM 91.1, HCM 30.4, Leucos 8970 (FN),
+Plaquetas 212000. TP 89, VSG 6.
+-	TC craneal control (7/10/2017; 18h): TC craneal sin evidencia de lesiones recientes isquémicas. No se identifican signos de transformación hemorragica.
+Enfermedad cronica de pequeño vaso moderada.
+-	Ecocardiograma TT: Se realizará de forma ambulatoria.
+
+EVOLUCIÓN:
+Se trata de una paciente de 91 años, con factores de riesgo vascular que presenta cuadro compatible con ictus TACI de ACM izquierda.
+Se ha realizado TC craneal y angioTC donde no se observan lesiones isquémicas ni sangrado (ASPECTS
+10) y presenta oclusión de ACM derecha (M3).
+Dado que la paciente se encuentra dentro del tiempo de tratamiento y no presenta contraindicaciones, se adminsitra tratamiento recanalizador con rtPA a las 21:43h (0,6 mg/kg, 33 mg (55 kg), bolus 4 mg y BPC de 29 mg), tiempo puerta-aguja de 23 minutos, clínica inicial-aguja 59 min. Al inicio de la perfusión, presentaba NIHSS de 10 por mejoría de la paresia braquial y la desviación ocular y TA 164/78 mmhg, FC 80 lpm. Finaliza la BPC a las 23:00h con NIHSS de 6 (paresia faciobraquial izquierda 2+1, hipoestesia izquierda 1, disartria 1, extinción visual 1).
+La paciente ingresa en Unidad de Ictus para monitorización y estudio neurovascular. Se realiza TC
+craneal de control que descarta complicaciones hemorrágicas. Se inicia antiagregación con AAS 100mg y estatinas.
+Se valoran al ingreso el estado de ánimo, las necesidades de rehabilitación y se inician fisioterapia y movilización precoces.
+Durante el ingreso evoluciona de forma favorable, presentando hemiparesia F-B-C derecha.
+Durante el ingreso se realiza educación sanitaria acerca del ictus. Se mantiene en ritmo sinusal durante el ingreso.
+Como complicaciones presenta artritis de articulación interfalangica del 5º dedo mano izquierda que mejora con Prednisona 10mg, y se mantienen dosis descendentes durante 48h más.
+Se considera tributária a centro de convalescencia al alta.
+Al alta se mantiene tratamiento antiagregante con AAS 100mg. Etiología TOAST Indeterminado, Oxford TACI. Al alta NIHSS 2 Rankin 4.
+Debe  seguir  controles  en  CCEE  de  Neurología  en  fecha  programada,  previa  realización   de acocardiograma.
+
+TRATAMIENTO:
+Ver IMASIS
+
+
+
+INDICACIONES:
+-	Se recomienda control estricto de enfermedades que aumentan el riesgo de ictus: hipertensión arterial, diabetes, colesterol elevado (dislipemia) y enfermedades del corazón. Realizar el tratamiento de forma adecuada según las recomendaciones de su médico.
+-	Abstención de tabaco y alcohol
+-	Seguir una dieta adecuada, con poca sal, evitando grasas, especialmente las saturadas  (grasas animales, aceites y grasas para cocinar).
+-	Evitar la obesidad y el sobrepeso y realizar ejercicio físico moderado de forma regular.
+
+Dr/a.	_NAME_
+Dr/a.	_NAME_
+Dr/a.	_NAME_
+Cap Secció	(Nº Colegiado : _ID_)
+Metge/essa Resident
+(Nº Colegiado _ID_Metge/essa Resident
+(Nº Colegiado _ID_Les seves dades personals s'incorporen en un fitxer d´usuaris a fi del seu tractament sanitari. Pot exercir el seu dret d´oposició, accés i rectificació de les dades inexactes dirigint-se al Servei de Documentació Clínica.
+Sus datos personales se incorporan en un fichero de usuarios para su tratamiento sanitario. Puede ejercer su derecho de oposición, acceso y rectificación de los datos inexactos dirigiéndose al Servicio de Documentación Clínica
+
+_SS_ | NIF _ID_ |_LOCATION_ | Telèfon _CONTACT_ | Fax _CONTACT_ | _CONTACT_
+Pàgina 1 de 3

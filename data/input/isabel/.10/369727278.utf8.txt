@@ -1,0 +1,174 @@
+
+
+
+
+
+Informe d'Alta Hospitalària	Cognoms i nom:
+_NAME_.	NHC:
+_ID_
+	ABS:
+_SS_	CIP:
+_ID_	DNI:
+_ID_
+	Data de naixement:
+_DATE_	Sexe:
+Home	Edat:
+79a	Telèfon:
+_CONTACT_
+	Finançament:
+CatSalut - _LOCATION_	Procedència:
+URGÈNCIES
+	Admissió:
+01.05.2017 - 19:23	Servei:
+NEURO - UNITAT ICTUS HOSP	Data entrada urg.:
+01.05.2017 - 15:12
+Adreça:
+_LOCATION_	Codi Postal:
+_LOCATION_	Població:
+_LOCATION_
+
+
+
+Motivo de Ingreso:
+Hombre de 79 años que ingresa en contexto de ictus Arteria Cerebral Posterior
+
+
+ANTECEDENTES PATOLÓGICOS
+-No alergias medicamentosas conocidas
+
+-Hábitos tóxicos:  Niega tabaquismo. Niega enol.
+
+-Factores de riesgo vascular
+-	Hipertensión arterial.
+-	Diabetes mellitus tipo 2.
+-	Dislipemia
+-	Hiperuricemia.
+
+-Cardiológicos:
+*Fibrilación auricular. Anticoagulada con sintrom.
+Ecocardio TT Abril de 2016: Estudio limitado por mala ventana ecocardiográfica. VI no dilatado con hipertrofia septal importante. FEVI conservada sin alteraciones de la contractildad segmentaria. AI dilatada. Raíz aórtica y aorta ascendente dentro de límites normales. VD no dilatado con variaciones respirofásicas conservadas. Válvula aórtica tricúspide con esclerosis y calcificación de los velos, apertura ligeramente reducida. Estenosis aórtica ligera (VMax 2.1 m/, GMed 10 mmHg, AVAo 2 cm2). Insuficiencia aórtica ligera. Válvula mitral con velos engrosados funcionalmente normal. Insuficiencia tricuspídea ligera que no permite estimar PAPs de forma fiable. Ausencia de datos indirectos de HTP significativa.VCI no visualizada. Ausencia de derrame pericárdico.
+* Consta alguna consulta a urgencias por ICC descompensada
+
+-	Úlceras  venosas  en  extremidades  inferiores  de  larga  evolución  con  historia  de  sobreinfecciones.
+Intervenidas el 24/4 por cirugía plástica: desbridamiento de ulcera geograficas pretibiales EII y Posterior
+
+-	EPOC en tratamiento con broncodilatadores. Consta visitas en UCIAS por reagudizaciones PFR 11/2012:
+FEV1/FVC 76%
+CVF 83%
+Profesional de la carpintería
+
+- Adenocarcinoma de próstata. Adenoca Gleason 4+4. Pdte de inicio de tratamiento.
+
+
+-Social: vive con esposa. Autónomo para las actividades báscias de la vida diaria, no salia a la calle solo, sí acompañado y caminaba sin necesidad de apoyo, mrS = 2.
+
+-Tratamiento habitual 1 mayo de 2017: sintrom S/P, Atorvastatina 40 mg, budesonida 2 x 12 h, diurex (xipamida) 20 mg 1 x 24 h, emconcor 5 mg/día, Fero-gradumet 105 mg 1 comp/día, hidroferol 0,266MG 1 ampolla/15 días, lorazepam 1 mg/día, losartan 50 mg/día, metformina 850 mg 1 comp/12h, optovite B12 1000MCG 1 ampolla/mes, Spiriva 1 inh/24h
+
+ENFERMEDAD ACTUAL
+Varón de 79 años con antecedentes descritos que fue dado de alta de la sala de cirugía plástica el día 28 de abril. A destacar para el caso antecedente de fibrilación auricular, se había suspendido Sintrom para la cirugía y actualmente se estaba reintroduciendo:el día 28/04 2mg de Sintrom + 3500U de bemiparina, el 29/04 2mg de Sintrom y 3500U de bemiparina y el 30/04 1mg de Sintrom + 3500U de bemiparina.
+Anteriormente a la cirugía el paciente era autónomo para las actividades báscias de la vida diaria, no salia a la calle solo, sí acompañado y caminaba sin necesidad de apoyo, mrS = 2.
+
+El paciente durante el ingreso en cirugía plástica había estado algo confuso y había presentado puntualmente alucinaciones visuales (animales en la habitación). Había sido dado de alta domicliaria con apoyo de su mujer con la que vive y un vecino que le realiza las curas. El 01/05/17 por la mañana ha ido a hacerse la cura. Sobre las 10:30h han visto un cambio brusco de su estado, más confuso, con dificultad para entender y emitir el lenguaje y con tendencia a la somnolencia.
+
+A su llegada a urgencias se activa código ictus, paciente hemodinámicamente estable. INR:1,3 A la exploración se objetiva HHD, paresia facial central derecha, hipostesia braquial derecha, puntuando NIHSS=7.
+
+Se realiza TC craneal en el que destaca hiperdensidad de ACP izquierda e hipodensidad compatible con infarto establecido en el territorio dependiente de dicha arteria. ECG a su llegada a urgencias fibrilación aurciluar a 70x', eje +30, QRS estrecho, buena progresión de las Rs en precordiales, sin alteraciones agudas de la repolarización ventricular.
+
+Se orienta como un ictus isquémico en territorio de ACP izquierda se desactiva código ictus a las 15:30h aproximandamente dado que la lesión isuqémica establecida contraindica tratamientos de reperfusión.
+
+Se orienta como un ictus de ACP izquierda de probable etiología cardioembólica (FA infradescoagulada).
+Se decide ingreso en Unidad de Ictus para monitorización y completar estudio.
+
+A su llegada a la unidad de ictus está igual que en urgencias a la exploración.
+
+
+EXPLORACIÓN FÍSICA
+A su llegada a urgencias de _SS_
+
+CTES. PA 147/78 mmHg, SatO2 94% al aire, glucemia 130, INR 1.3
+Consciente, obedece alguna orden sencilla verbal, contesta frases cortas con sentida, pero nomina0/5 y está hipofluente, reite bien frases cortas.
+Desorientado en tiempo y espacio.
+Hemianospia homónima derecha por cofrontación.
+No limitación de oculomotricidad voluntaria en el plano horizontal. Discreta paresia facial central derecha.
+Hipoestesia braquial derecha (posiblemente también crural pero no colabora, en la mano derecha sí que ha sido consistente).
+No se evidencia pàresia en extremidades en la maniobra de Mingazzini. No dismetrías.
+NIHSS = 0.0.2.0.2/1.(0.0)(0.0)/0.1.1.0.0=7
+
+
+A su llegada a Unidad de Ictus.
+Exp NRL: Vigil. Desorientado en tiempo y espacio. Afasia mixta de predominio sensitivo: lenguaje fluido, pobre en contenido, con anomia, repite correctamente, dificultad para órdenes semicomplejas. HHD. Hemiinatención derecha. No extinción sensitiva. Sin limitación mirada conjugada. PPCC: MOES normales. paresia facial central derecha leve, no refiere déficit sensitivo facial. Hemiparesia braquio-crural derecha leve (4/5, con predominio componente distal). No refiere déficit sensitivo. RCP flexores. No dismetrías.
+NIHSS=0.2.0.0.2.1.0.1.0.1.0.0.1.0.1=9
+
+
+Tras empeoramiento clínico:
+Consciente, desorientadao, obedece alguna orden simple verbal, nomina 1/5, repite frases cortas bien, con largas realiza parafasias, lenguaje muy hipofluente. HHD por  cfrontación. Paresia facial central derecha. Disartria. Hemiparesia braquio 4/5 predominio distal + crural 4+/5. Reacciona de forma simétrica al dolor en ambos hemicuerpos. NIHSS=0.2.2.0.2/1(0.1)(0.1).0.1.2.1.0=13
+
+
+En sala de neurología y al alta:
+Vigil, desorientado en tiempo, orientado en espacio y persona. Obedece alguna orden simple, movimientos oculares externos sin alteraciones, hemianopsia homónima derecha. Paresia facial central derecha leve, hemiparesia braquio-crural derecha 4/5, dismetría proporcional a la paresia, no se aprecian déficits sensitivos, afasia mixta transcortical (abundantes parafasias, hipofluente, grandes dificultades para  la nominación y evocación, con repetición correcta), disartria, hemiinatención derecha.
+NIHSS= 0.2.2.0.2/1.0.1.0.1/0.0.2.1.1=13.
+
+
+EXPLORACIONES COMPLEMENTARIAS
+-	Analítica: Análisis clínico de la sangre (), sodio 142 mmol/l, potasio 4,40 mmol/l, calcio 2,31 mmol/l, glucosa 6,6 mmol/l, urea 7,4 mmol/l, creatinina 82 µmol/l, relación Ur:Cr 90, osmolalidad plasmática (estimada) 298 mOsm/Kg, AST 16 U/l, ALT 8 U/l, hemoglobina 110 g/l, hematocrito 0,34 l/l, hematíes 3,55 T/l, VCM 96,9
+fl, CHCM 320 g/l, HCM 31,0 pg, RDW 14,6 %, leucocitos 9,38 G/l, neutrófilos 4,10 G/l, monocitos 0,67 G/l, basófilos 0,08 G/l, eosinófilos 0,55 G/l, plaquetas 200 G/l, VPM 8,1 fl, plaquetocrito 0,20 %, tiempo de trombina 20,80 s
+-	ECG: fibrilación auricular. No alteraciones agudas de la repolarización.
+-	Rx de tórax: ocupación de ambos senos costofrénicos.
+-TC craneal: Infarto agudo en territorio de ACP izquierda con afectación del parénquima occipital y temporomedial y probable talámica izquierda, sin transformación hemorrágica ni compromiso de linea media. Hiperdensidad focal en el teórico trayecto cisternal del segmento P2 de ACP izquierda.
+-	Estudio neuronológico:
+*Dúplex TSA (Fiabilidad media).: ateromatosis difusa en ambos ejes carotídeos, de predominio en eje izquierdo, pero que no condiciona aceleraciones significativas del flujo (estenosis <50%). Placa cálcica al inicio de ACI D que no permite ver el trayecto inicial de la misma, sin objetivarse alteraciones de las velocidades pre y post placa, lo que sugiere que no existe estenosis. Ambas vertebrales con flujo ortodrómico. AV derecha con flujo de alta resistencia.
+*Dúplex TC: se insonan ambas ACM, ACA izquierda (no se consigue insonar la derecha) y ACP derecha sin alteraciones en el flujo. Se insona el segmneto P1 de ACP izquierda, con flujo amortiguado, sin conseguir insonarse ACP distal, lo que sugiere oclusión distal de la misma. Ventana transoccipital: se insonan ambas AV y art basilar hasta 9 cm sin alteraciones.
+-	TC craneal control el 05/05/17: Se observa evolución de la lesión isquémica en territorio de la ACP i con afectación del aspecto medial del lóbulo occipito-temporal I y del tálamo I . Mínima sufusión hemorrágica petequial, sin hematomas. Moderado edema parenquimatoso que condiciona distorsión del asta occipitotemporal I. Línea media centrada. Resto sin cambios.
+-	TC lumbar el 05/05 (solicitado por error): correcta alineación sagital de la columna lumbar. Cuerpos vertebrales de tamaño y morfología conservados. Anomalía de la transición lumbo-sacra con lumbarización de S1 y disco rudimentario S1-S2. Cambios degenerativos disco-vertebrales mas llamativos en el nivel L5-S1 con disminución del espacio intersomático y proliferaciones osteofitarias marginales anteriores y posteriores. Moderada artrosis facetaria L3-S1 y en la neoarticulación entre las apófisis espinosas inferiores. Canal lumbar de calibre conservado, no se observan estenosis foraminales. No se observan alteraciones relevantes en las partes blandas paravertebrales. Conclusión: Cambios degenerativos discovertebrales y artrósicos facetarios de la columna lumbar inferior. No se observa estenosis del canal ni foraminal.
+
+EVOLUCIÓN
+Ingresa en la Unidad de Ictus, hemodinámicamente estable aunque con tendencia a la hipertesión que requiere de antihipertensivos endovenosos para control.
+Se realiza test de disfagia y se inicia dieta oral turmix, así como rehabilitación con buena tolerancia.
+
+
+A nivel diagnóstico, permenece monitorizado, objetivándose Fibirlación auricular normofrecuente, ya conocida, se cree que esta es la causa del ictus en el contexto de una situación de infradescoagulación perioperatoria. Se realiza estudio neurosonológico que muestra hallazgos sugestivos de oclusión de Arteria Cerebral Posterior Izquierda en segmento P2.
+A nivel terapéutico, se inicia anticoagulación con bomba de heparina y, dado el mal control de ttpa con el mismo, finalmente se pauta Heparina de Bajo Peso Molecular, con respuesta favorable. Posteriormente se realiza paso a sintrom.
+Durante su estancia se inicia rehabilitación física y terapia ocupacional, persistiendo como secuelas una hemianopsia homónima derecha que condiciona una hemiinantención ipsilateral así como una hemiparesia facio-braquio-crural derecha de carácter leve, por lo que se considera al paciente tributario de ingreso en un centro sociosanitario de cara a continuar una terapia de rehabilitación intensiva.
+Al alta el paciente presenta un NIHSS de 13 y mRS de 4.
+
+
+PROCEDIMIENTOS
+-Analítica sanguínea.
+-ECG.
+-Radiografía de tórax.
+-TC cerebral.
+-Ecografía de troncos supraaórticos y transcraneal.
+
+
+DIAGNÓSTICOS
+-	Infarto isquémico (POCI) en territorio de ACP izquierda de etiología cardioembólica.
+-	Disfagia secundaria a ictus.
+-	FA infradescoagulada.
+-	ICC
+
+
+RECOMENDACIONES AL ALTA
+Alopurinol 150 MG/24 horas. Atorvastatina 40 MG/24 horas. Hibor según pauta
+Sintrom según pauta (control el 16 de mayo) Bisoprolol 5 MG/24 horas.
+Budesonida 200 mcg/inh/12 horas Esomeprazol 20 MG/24 horas.
+Furosemida 40 MG 1-1-0
+Lorazepam 1 MG/noche Losartan 50 MG/12 horas Metformina 850 mg 1 comp/12h
+Fero-gradumet 105 mg 1 comp/24 horas
+
+Hidroferol 0,266MG 1 ampolla/15 días Optovite B12 1000MCG 1 ampolla/mes Spiriva 1 inh/24h
+
+
+Visita de control en neurología segun se adjunta Controles de sintrom en CSS y posteriormente en el CAP
+
+
+Responsable clínic: Dr. _NAME_ (NºCol. _ID_)
+Equip mèdic: Dr. _NAME_ (NºCol. _ID_), _NAME_ (NºCol. _ID_)
+
+Servei que ha donat d'alta:
+NEURO - UNITAT ICTUS HOSP	Data d'alta:
+11.05.2017	Nom del metge que informa de l'alta:
+Dr. _NAME_ (NºCol. _ID_)
+
+
+_LOCATION_, 11.05.2017
+Pàg. 1 de   6

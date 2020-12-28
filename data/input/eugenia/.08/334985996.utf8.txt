@@ -1,0 +1,128 @@
+_LOCATION_
+_LOCATION_) Tlf. _CONTACT_
+INFORME ALTA HOSPITALITZACIÓNHC	200631001	Pacient	_NAME_	
+CIP	_ID_	Data Naix.   _DATE_	Edat 69	Sexe Dona	NASS	_ID_
+Adreça   _LOCATION_	CP	_LOCATION_
+Població_LOCATION_	Tel.	_CONTACT_
+Episodi  _ID_	Admissió	25.01.2017 22:48	Alta	06.02.2017 14:04
+Servei	NEUUOHMB Neurologia	Unitat	U04UHHBL
+
+DIAGNÒSTIC ALTA
+
+Codi ICD-9	Descripció Diagnòstic
+434.01/3	AVC ISQUEMIC ARTERIES CEREBRALS
+250.00/3	DM II
+272.4/1	DISLIPEMIA
+401.9/2	HTA
+585.5	INSUFICIÈNCIA RENAL CRÒNICA, ESTADI V
+
+DADES INFORME
+
+MOTIVO DE CONSULTA: alteración del lenguaje y debilidad de extremidades derechas.
+
+Mujer de 68 años, dependiente para las ABVD, mRS 4, sin alergias medicamentosas conocidas, no hábitos tóxicos, actualmente ingresada en centro de larga estancia.
+
+ANTECEDENTES PATOLOGICOS:
+
+-	INSUFICIENCIA RENAL CRONICA (IRC) en hemodiálisis.
+
+-	DIABETES MELLITUST TIPO 2
+
+-	HIPERTENSION ARTERIAL
+
+-	DISLIPEMIA
+
+-	FRACTURA SUBTROCANTEREA DE FEMUR IZQUIERDO en octubre del 2016. Intervenida quirúrgicamente, presentando una evolución tórpida con varias complicaciones:
+
+*Fibrilación auricular paroxística, pendiente de iniciar anticoagulación.
+
+*Anemización con episodio de fallo cardiaco.
+
+*Superficialización de la FAV izquierda con sangrado secundario.
+
+Desde el alta médica en diciembre del 2016, la paciente realiza vida cama-sillón con imposibilidad de la bipedestación.
+
+-	GLAUCOMA
+
+-	HIPOTIROIDISMO
+
+-	SINDROME APNEA-HIPOPNEA DEL SUEÑO en tratamiento con CPAP.
+
+TRATAMIENTO HABITUAL: bisoprolol 2,5 mg/día, paracetamol 1g/8h, levotiroxina 50 mcg/día, omeprazol 20 mg/día, rosuvastatina 20 mg/día, ezetimiba 10 mg/día, insulina lantus 12 UI, tramadol 50 mg/8h, furosemida 40 mg/día, vitamina D3 2000 UI/día, manidipino 20 mg/día, cosopt colirios, xalatán colirios.
+
+EPISODIO ACTUAL: el 24/01 alrededor de las 9:45 h, el personal de enfermería del centro de larga estancia se percata que la paciente presenta alteración del lenguaje y desviación de la comisura bucal por lo cual se alerta al SEM que activa código ictus extramuros (11:14h. Número Afectado 170071178-RACE de 1).
+Cuando es valorada por neurología en triage, la paciente presenta un NIHSS de 8 (afasia motora, paresia facial y disartria). Se realiza TC craneal donde se constata lesión establecida en territorio de la arteria cerebral media izquierda (ACM) por lo cual se desestima cualquier tratamiento en fase aguda y orientando el ictus como del despertar.
+
+EXPLORACION FISICA:
+
+TA 110/70 mmHg. FC 68 lat/min. FR 13 rpm. Afebril.
+
+NRL: apertura de ojos espontánea, no alt campimetria por confrontación, no nistagmo, PICNR, lenguaje ( No nomina, repeite, comprende órdenes sencillas), paresia facial derecha central , eleva extremidades derechas contra gravedad ESD aguanta 10 segundos, EID aguanta 5 segundos, no moviliza EII contra gravedad, RCPB flexor, no alt sensibilidad
+superficial ni profunda, no dismetría dedo-nariz derecha. NIHSS 0-2-0-0-0/2-(0-0)-(0-3 tras fractura de femur)/0-0-2-0=8.
+
+ACV: no signos de fallo cardiaco, ruidos cardiacos rítmicos. AR: MV conservado, no crepitantes o sibilancias.
+GI: abdomen globuloso, no doloroso, peristaltismo presente. PIEL: ausencia de edemas en extremidades inferiores.
+NRL(al alta): conciente y desorientada en tiempo, lenguaje normofluente con persistencia de dificultad para la nominación, es capaz de realizar órdenes simples, complejas y cruzadas, escribe y lee, no disartria, mirada centrada sin limitaciones en el plano horizontal, campimetría por confrontación sin déficits, paresia facio (leve) crural (3/5) derecha sin alteraciones sensitivas, ausencia de extinciones o negligencias, marcha no explorada.
+NIHSS (0-1-0-0-0-1-0-0-2-0-0-0-1-0-0)5.
+
+EXPLORACIONES COMPLEMENTARIAS:
+
+*Analítica: se adjunta al alta médica.
+
+*ECG: ritmo de fibrilació auricula a 70 lat/min.
+
+*TC craneal: Lesión isquémica aguda fronto-operculo-insular izquierdo en territorio superficial anterior de la ACM
+
+homolateral.
+
+*RM craneal con angioRM intracraneal: Infarto agudo frontal posterior, silviano y núcleos basales izquierdos. Microinafrto agudo en corona radiada derecha. Angio-RM craneal sin alteraciones valorables.
+
+*Doppler de troncos supraaórticos: valoración bilateral. Sin alteraciones de imágenes o velocimétricas que sugieren lesiones hemodinámicamente significativas. Arterias vertebrales anterógradas codominantes.
+
+*TC pelvis: Material de fijación en relación a antecedente de fractura subtrocantérea que producer abundantes artefactos metálicos, dificultando la valoración.
+Se aprecia aumento de densidad irregular en la grasa subcutánea de la cara lateral de la cadera, de unos 14 cm de longitud, que sugiere cambios inflamatorio edematosos, no pudiéndose descartar la presencia de alguna colección en su interior. No se identifican imágenes que sugieran coleccfiones periarticulares ni inter o intramusculares en áreas valorables.
+
+ORIENTACION DIAGNOSITCA:
+
+-	ICTUS ISQUEMICO MULTITERRITORIAL (ACM izquierda/corona radiata derecha)
+
+-	FIBRILACION AURICULAR PAROXISTICA
+
+Mujer de 69 años con los antecedentes citados, mRS 4, traida por el SEM por código ictus  el 24/01 por un sindrome hemisférico izquierdo (NIHSS 8). El el TC craneal basal presenta infarto isquémico establecido en territorio de la ACM izquierda.  El estudio de RM craneal pone de manifiesto la lesión en ACM izquierda y otra lesión isquémica en corona radiata derecha que restringe en DWI. El ECG se encuentra en ritmo sinusal regular.
+Durante su ingreso en planta, la paciente presenta una mejoría progresiva de la focalidad neurológica, tolera ingesta oral y ha realizado rehabilitación física. Inició tratamiento con antagonistas de la vitamina K (AVK).
+Paciente estable, irá de alta a centro de larga estancia luego de 12 días ingresada en planta de neurologia.
+
+NIHSS al alta: 5. TOATS: cardioembólico. mRS al alta: 4. Clasificación Oxford: PACI.
+
+-	INSUFICIENCIA RENAL CRONICA ESTADIO V (hemodiálisis)
+
+Durante su ingreso se ha realizado sesiones de hemodiálisis sin incidencias. Ha presentado secresión purulenta por la tunelización del catéter de hemodiálisis por lo cual se inició tratamiento con amoxicilina/clavulánico de forma empírica.
+En la tinción Gram no evidenció bacterias y los hemocultivos fueron negativos.
+
+-	FRACTURA DE FEMUR IZQUIERDA
+
+Valorada por COT durante su ingreso y realizado el TC fémur, se inicia movilización y carga de la extremidad inferior izquierda. Seguirá controles según citación.
+
+-	Sintrom 4 mg: según pauta.
+
+-	Augmentine® 500 mg: 1 comprimido cada 12 h durante 5 días.
+
+-	Resto de su medicación habitual igual.
+
+
+
+
+
+Tipus d'ingrés: Motiu d'alta:	Urgent Tra.Cent.No Ag	
+Metge Adjunt:
+_ID_
+Servei:	_NAME_
+
+NEUUO_SS_ Neurologia	Nº Col·legiat Adjunt:
+
+Data informe:  10.02.2017
+
+
+Pàgina 1 de	4
+Data i hora d'impressió:
+10.02.2017 15:49:00

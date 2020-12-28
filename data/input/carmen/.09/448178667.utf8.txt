@@ -1,0 +1,109 @@
+_LOCATION_
+_LOCATION_) Anul·lació/Reprogramació visites:_CONTACT_
+Telèfon Centraleta: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 82 Anys
+NIF/DNI: _ID__NAME_; _NAME_; _NAME_
+Informe d'alta d'hospitalització
+16:14:00
+30.11.2017
+_LOCATION_
+_SS_ NEUROLOGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_; _CONTACT_; _CONTACT_
+DOMICIL/RES.SOC 25.11.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Codi ictus
+
+ANTECEDENTS
+Alergia a diclofenaco no hàbits tòxics
+no FRCV coneguts
+episodi d'angina fa anys desde llavors en tto amb Tromalyt, asimptomàtica. Neuralgia del trigèmin estable amb tto amb trileptal.
+Degeneració macular.
+Vertigen perifèric de debut fa 3 anys, desde fa 1 mes nova crisis, actualment en tto simptomàtic amb dogmatil. Linfoma no Hodgkin: Esplenectomizada en el 93', en seguiment _SS_.
+Tumor orbitari intraconal esq dx 2005 ,no IQ, estable controls anuals per OFT.
+Situació basal: Independent per AVBD. Actualment tenen una cuidadora 24hores pel seu marit que fa 1 mes ha tingut un ictus i es depenent. mRs 0.
+
+MEDICACIÓ HABITUAL
+Amlodipino 5mg/24h, sertralina 50mg/24h, paracetamol 1g/48h, omeprazol 20mg/24h, oxcarbacepina 900mg/24h, AAS 150mg/24h, amitriptilina 10mg/24h, atorvastatina 40mg/24h, serc 16mg/12h.
+
+PROCÉS ACTUAL
+Dona de 82 anys vista per última vegada asimptomàtica a les 22:00h del día 24.11. A les 3:30h avisa a cuidadora per malestar general, activant la Teleassistència.A la seva arribada, el SEM s'objectiva desviació comisura labial y hemiplejia BC esquerre, s'activa Codi ictus a les 04:00h. Arriba a UCIEs a les 04:22h i es realitza Tc craneal a les. 04:30h.
+
+A la seva arribada a UCIEs la pacient está HDME amb TA 128/66mmHg, FC 66lpm, DXT 121. Afebril. Per monitor en RS. A la valoració per Neurologia de guardia la pacient es troba conscient i orientada en TEP, MOEs i campimetria per confrontació sense alteracions, disartria lleu (1), no afàsia, PFSN esquerre lleu (1), paresia BC 5-/5 amb MF, no alteració de la sensibilitat, no agnòsies, RCP ind esq, flexor dret. NIHSS 2.
+
+Com a proves complementaries es realitza analítica on destaca glucosa 7.9 mmol/L, leucocits 10.700/L a expenses de limfocitosis 5.330/L, VCM 99 sense anèmia, K+ 3.40. La radiografia de torax presenta cardiomegalia i l'ECG es normal. En TAC i angioTC s'observa ASPECTS 9-10 per canvis d'iesquemia aguda a territori M5 i defecte de replecció a M1 dreta i permeabilitat distal del vasos.
+
+S'orienta com a ictus isquèmic en territori ACM dreta + defecte repleció segment proximal M1 (trombo parcialment oclusiu vs estenosis). No tributaria de rTPAev per > 4,5h. Es comenta amb guardia de Neurovascular essent no tributaria a rescat endovascular primari per NIHSS baix amb tendència a la millora clínica i abscència oclusió completa de gran vas.
+
+Informe d'alta d'hospitalització
+
+
+
+
+Ingressa a Neurologia per a estudi i control evolutiu.
+
+EXPLORACIÓ FÍSICA
+
+TA 146/68mmHg FC 66lpm Tª 36.6ºC SatO2 basal 99% NRL: NIH 1 per PFSN esquerra lleu (1) i MF esquerre  AC: rítmica sense buf
+AP: mvc sense amb lleus crepitants bibasals Abdomen: anodi
+EEII: sense edemes ni signes de TVP
+
+
+EXPLORACIÓ COMPLEMENTÀRIA
+Proves a Urgencies:
+Analítica: Destacar glucosa 7.9 mmol/L, leucocits 10.700/L a expenses de limfocitosis 5.330/L, VCM 99 sense anèmia, K+ 3.40, resta sense alteracions a destacar.
+ECG: RS a 75lpm, PR normal sense alteracions agudes en la repolarització.
+Rx tòrax: Cardiomegalia singes de redistribució vascular.
+Tc craneal i angioTC: Dudoso foco de hipodensidad corticosubcortical a nivel frontal alto derecho  (surco precentral), que podría corresponder a cambios de isquemia aguda en territorio M5 de la arteria cerebral media derecha (ASPECTS 9-10). Defecto de repleción parcial dependiente de la pared anterior de la arteria cerebral media derecha en su segmento M1, con paso periférico de contraste y permeabilidad distal de los vasos. Podría corresponder a estenosis vs trombo suboclusivo.
+
+Proves a planta de Neurologia:
+TAC i angioTC de control: recanalització de M1 dreta. Infart a territori prufund d'ACM dreta
+
+EVOLUCIÓ CLÍNICA
+Ingressa per ictus d'ACM dreta amb oclusió de M1 sense tractament en fase aguda. A la seva arribada presenta NIH 1 per PFSN esquerra lleu (1) i MF esquerre.
+
+Com a estudi vascular es repeteix un TAC i angioTC de control on s'objectiva recanalització de M1 dreta i infart a territori profund d'ACM dreta. Queda pendent per completar l'estudi RMN, angioRMN, ETT i Holter.
+
+Durant la seva estada a Neurologia es manté HDME. Inicia dieta oral i sedestació amb bona tolerància. En seguiment per rehabilitació. Rankin: 1
+
+S'orienta el cas com a TACI dret d'estiologia a estudi. Es canvia tromalyt per clopidogrel.
+
+Donada l'estabilitat clínica, es realitza i envia el present informe el dia 27/11 per valorar trasllat al seu Hospital de referencia sen acceptat el 29/11
+
+DIAGNÒSTICS
+436/5 Ictus profund territori ACM dreta
+
+Informe d'alta d'hospitalització
+
+
+
+PROCEDIMENTS
+87.44 Radiografia rutinària de tòrax, descrita com a tal. Radiografia de tòrax NOS
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+S´adjunten en full de tractament.
+En cas de dubte trucar al _CONTACT_ (control infermeria  unitat 9.1)
+
+DESTINACIÓ A L'ALTA:	HOSP. AGUTS/PSQ
+
+
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+30.11.2017
+Pàgina 1 de 3

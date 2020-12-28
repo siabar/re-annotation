@@ -1,0 +1,27 @@
+T1	SECCION_DIAGNOSTICOS 27 39	Diagnosticos
+T2	SECCION_PROCEDIMIENTOS 183 197	Procedimientos
+T3	SECCION_MOTIVO_DE_INGRESO 302 319	Motivo de ingreso
+T4	SECCION_ANTECEDENTES 570 590	Antecedentes Médicos
+T5	SECCION_SITUACION_FUNCIONAL 630 645	Situación basal
+T6	mRankin_previa 674 679	mRs 0
+#6	AnnotatorNotes T6	0
+T7	SECCION_TRATAMIENTO_HABITUAL 989 1013	Tratamiento domiciliario
+T8	SECCION_PROCESO_ACTUAL 1107 1116	Anamnesis
+T9	SECCION_EXPLORACION_FISICA 1757 1768	Exploración
+T10	NIHSS_previa 2065 2072	NIHSS 0
+#10	AnnotatorNotes T10	0
+T11	SECCION_EXPLORACIONES_COMPLEMENTARIAS 2154 2188	Resultados pruebas complementarias
+T12	SECCION_EXPLORACIONES_COMPLEMENTARIAS_EN_PLANTA_DE_NEUROLOGIA 2739 2759	Analítica de ingreso
+T13	SECCION_EVOLUCION 5523 5545	Evolución Hospitalaria
+T14	SECCION_TRATAMIENTO_Y_RECOMENDACIONES_AL_ALTA 6121 6158	Recomendaciones y tratamiento al alta
+T15	Tratamiento_antiagregante_alta 6171 6193	Ácido acetilsalicílico
+T16	Tratamiento_antiagregante_alta 6275 6286	Clopidogrel
+T17	Fecha_de_alta 15 25	05-06-2018
+#17	AnnotatorNotes T17	2018-06-05
+T18	Ataque_isquemico_transitorio 57 60	AIT
+T19	Lateralizacion 100 107	derecho
+T20	Etiologia 121 136	aterotrombótica
+T21	Arteria_afectada 177 180	ACI
+T22	Fecha_inicio_sintomas 1195 1202	24/5/18
+#22	AnnotatorNotes T22	2018-05-24
+T23	Arteria_afectada 4792 4795	ACM

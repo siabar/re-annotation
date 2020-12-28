@@ -1,0 +1,111 @@
+_LOCATION_ Telf Consultes: _CONTACT_ / _CONTACT_
+Telf Centraleta Hospital: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 82 Anys
+NIF/DNI: _ID_Informe d'alta d'hospitalització
+15:43:13
+NEUROLOGIA
+08.06.2017
+_LOCATION_
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_
+DOMICIL/RES.SOC 04.06.2017
+_NAME_
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Codi Ictus
+
+ANTECEDENTS
+Sense al·lèrgies ni hàbits tòxics.
+
+-	HTA possible sense tractament actualment, alguna detecció de xifres elevades
+-	Osteoporosis.
+-	Reflujo gastroesofágico.
+-	Hipertiroidismo sin tratamiento farmacológico.
+-	Episodio depresivo grave con síntomas psicóticos e ideación autolítica sin claros planes finalistas (junio-2014).
+-	Fa uns mesos deliri que va requerir tractament amb Seroquel (actualment s'ha retirat)
+-	IQ: Mioma uterino. Autònoma per AVD, Rankin 0.
+
+PROCÉS ACTUAL
+Dona de 82 anys que aquest matí, mentres preparava el dinar, a les 9:45 hores la família aprecia que presena hemiparèsia E. Arribada a _SS_ a les 10:49 h.
+
+
+EXPLORACIÓ FÍSICA
+
+TA 150/90; Arítmica Exploració NEUROLÒGICA:
+Vigil, alerta. Desviació OC a la D. (2) Parèsia facial SNE (1). Heminaòpsia H. E (2). Anosognòsia. Asomatognòsia . Extincio sensitiva (2). Disàrtra lleu (1). Hemiplegia E (8). . BAbinski E
+TACI ; NIHSS 18
+
+AC tons rítmics amb buf sistòlic
+AR murmuri vesicular conservat sense sorolls sobreafegits
+
+EXPLORACIÓ COMPLEMENTÀRIA
+- ANALÍTICA INGRESO: Glucosa 85 mg/dL; creatinina 0.58 mg/dL; urea 50 mg/dL; Na 142 mE/L; K 3.9 mEq/L; Leucocitos
+9080/mL; Hemoglobina 11.6g/dL; Hematocrito 34.9%; Plaquetes 265000/mcL; Fibrinogeno 532 mg/dl; INR 1.03; TTPAr
+0.82.
+
+Informe d'alta d'hospitalització
+
+
+
+
+
+-	ECG: RS algun ESV
+-	TC crani urgent (4/5/17): Sense lesions isquèmiques agudes ni hemorràgia. ASPECTS 10.
+-AngioTC crani i TSA urgent: sense oclusions de gran vas.
+
+-	TC craneal control (05/06): área de hipodensidad córticoubcortical temporal derecha y subinsular correspondiente con lesión isquémica de instauración reciente en territorio superficial de ACM derecha. No se aprecian signos de sufusión hemorrágica.
+
+-	Rx TÓRAX: sin opacidades, ICT<0,5.
+
+
+EVOLUCIÓ CLÍNICA
+La pacient arriba al nostre centre randomitzada previament al SEM en assaig clínic RACECAT (trasllat directe a CPI vs CPI) amb clínica de sd de la ACM D, TACI amb NIHSS de 18 i TC crani sense imatges patològique sni oclusions a l'angioTC, compatible amb ictus isquèmic al territori de l'ACM D. La pacient compleix criteris per rebre tractament fibrinolític amb rtPA que s'adnministra a les 11'37h sense incidiències.
+
+Es queda en observació a la unitat de semicrítics amb millora parcial inciial que no es sosté. Es realitza TC crani de control que no mostra complicacions i que mostra area hipodensa residual a territori distal de la ACM D. Davant l'estabilitat clínica pasa a planta concencional de neurologia.
+
+La pacient resta estable a planta de neurologia. Tolera sedestació i dieta triturada pastosa amb gelatines. Inicia programa de rehabilitació. Ha presentat rash cutani no pruriginòs a esquenna i plecs. Valorada per dermatologia s'orienta com a sudamina, s'aconsella antihistamínics, hidratació i pasta lasa a plecs. Valorada per Al·lèrgies davant la possibilitat d'al·lèrgia a AAS s'aconsella fer estudi d'alergies a AAS-desensibilització.
+De moment s'aconsella antiagregació amb clopidogrel. No ha presentat altres complicacions. Pendent completar estudi etiològic amb ecocardio i Holter.
+
+Es trasllada al seu hospital de zona per continuar estudi, control evolutiu, rehabilitació i posterior convalescència.
+
+DIAGNÒSTICS
+434.11/1 ICTUS isquèmic a territori ACM D de mecanisme embòlic i causa indeterminada fibrinolitzat.
+
+PROCEDIMENTS
+Codi ICtus / Fibrinolisis cerebral / 87.03 Tomografia axial computada de cap. TAC de cap / IC RHB / Test de disfagia /
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+-	Bemiparina 3500 UI/24h
+-	Dieta triturada pastosa i gelatines
+-	Rehabilitació
+-	Antiagregació amb clopidogrell
+
+-	Completar estudi amb ecocardio i Holter/telemetria
+-	
+Informe d'alta d'hospitalització
+
+
+
+
+CONTROL
+Es trasllada al seu hospital de zona.
+
+DESTINACIÓ A L'ALTA:	HOSP. AGUTS/PSQ
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+08.06.2017
+Pàgina 1 de 3

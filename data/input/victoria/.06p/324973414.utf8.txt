@@ -1,0 +1,158 @@
+_LOCATION_
+email: _CONTACT_ Telèfon _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 74 Anys
+NIF/DNI: _ID_Informe d'alta d'hospitalització
+12:00:00
+19.01.2017
+_LOCATION_
+_SS_ NEUROLOGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_
+DOMICIL/RES.SOC 07.01.2017
+Dr._NAME_, Dra._NAME_, Dr._NAME_.
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+MOTIU D'INGRÉS
+Mujer de 74 años que ingresa por hematoma intraparenquimatoso fronto-insular izquierdo.	
+ANTECEDENTS		
+Antecedentes personales
+-Sin alergias medicamentosas conocidas.
+-Niega hábitos tóxicos.		
+Antecedentes médico-quirúrgicos
+-Hipertensión arterial esencial en tratamiento farmacológico.
+-Diabetes mellitus tipo 2 en tratamiento farmacológico.
+-Dislipemia en tratamiento farmacológico.
+-Intervenviones	quirúrgica:	Artrodesis.	colecistectomía.	IQ	Hombro.	Apendicectomía. OOforectomía bilateral.	
+
+
+
+Histerectomía	
+
+
+
++
+Situación sociofuncional: Independiente para ABVD.		
+MEDICACIÓ HABITUAL
+Adiro 100mg/día, Cetirizina 10mg/día, Detrusol 4mg/día, Feliben 35mcg/72h,  Losartan/HCTZ 50/12.5mg 1/5 comprimido/día, Metformina 850mg/12h, Omeprazol 20mg/día, Simvastatina 10mg/día.
+
+PROCÉS ACTUAL
+Vista asintomática por última vez la mañana del 07.01 a las 9h. A las 11h del mismo día la encuentra su marido con alteración para la emisión del lenguaje y desviación de la comisura bucal a la izquierda. Avisan al SEM, quienes activan el código ictus. Hora de llegada 11:33h. Hora de TC 11:40h.
+
+EXPLORACIÓ FÍSICA
+
+FC	92 bpm Tªaxi  ºC
+FR	rpm Tªrec  ºC
+TA s	141 mmHg SAT O2 96 %
+TA d   75 mmHg Pes Kg
+
+URGENCIAS NEUROLOGÍA
+Constantes: TA 100/55 mmHg, FC 90 lpm, BMT 95 mg/dL.
+Estado general conservado. Normohidratada, normocoloreada, bien perfundida.
+EN: vígil, alerta. Afasia global (2+2+3). No POC ni DOC. No déficit campimétrico por amenaza. PFSN D (2). Balance motor conservado en las cuatro extremidades. Sensibilidad aparentemente conservada. Resto no valorable por afasia. NIHSS 9.
+
+UNIDAD DE ICTUS
+TA 134/56mmHg, FC 77lpm, Tª 37.2ºC.
+Vigil, alerta.   Afasia mixta de predominio motor, nominación 0/2, repetición  0/2, comprension de simples con
+
+Informe d'alta d'hospitalització
+
+
+
+
+intoxicación (2+2+1), leve hemiparesia D 4/5 (2). NIHSS 7
+
+PLANTA DE NEUROLOGÍA
+122/75mmHg, FC: 83 lpm, Tª 36.5ºC, Sat: 97%aa
+Vigil, LOC Q 0/2 (2), LOC C 2/2. Afasia motora (no nomina, no repite, obedece órdenes simples y complejas), mutista (3). No déficit campimétrico por confrontación. No POC ni DOC, oculomotricidad sin restricciones. PFSN D leve (1). Balance motor en ESD con signo del pronador (+1) sin otro déficit motor objetivable. No déficit para sensibilidad superficial. No dismetrías. NIHSS: 6+1.
+Tonos cardíacos rítmicos, sin soplos, no signos de insuficienica cardíaca descomenpsada. Murmullo vesicular conservado, sin ruidos añadidos.
+
+EXPLORACIÓ COMPLEMENTÀRIA
+-TC craneal simple y con contraste: Estudio urgente que evidencia un hematoma agudo intraparenquimatoso fronto-insular izquierdo de 16 cc que muestra en su márgen más caudal calcificaciones y realces puntiformes sugestivos de pequeñas estructuras vasculares, hallazgos que no permiten descartar una lesión vascular de base. Leve compresión de ventriculo lateral izquierdo sin efecto de masa significativo sobre la línea media. Pequeña imágen nodular extraaxial parafalcina anterior derecha calcificada que muestra realce tras la administración de contraste que podría corresponder a un pequeño meningioma.
+-Analítica general urgente: Htes 3.80 x10E12/L, Hb 10.6 g/dL, Hto 34.2%, VCM 90.0 Fl, ADE 13.5%, Lecocitos 5.24 x10E9/L (N 69.2%, L 21.6%, M 7.1%, E 1.7%, B 0.4%), Plaquetas 184 x10E9/L. Hemostasia coagulada.
+Glucosa 101 mg/dL, Urea 82 mg/dL, Cr 1.28 mg/dL, 41 ml/min/1,73 m2, Na 138.9 mmol/L, K 4.36 mmol/L, Ca 9.9 mg/dL, AST 25 UI/L, ALT 14 UI/L, Proteínas 7.1 g/dL.
+-Radiografía tórax: exploración poco inspirada, rotada. ICT no valorable. No se aprecian imágenes de condensación parenquimatosa. Senos costofrénicos libres.
+-ECG: RS a 80lpm. PR 0.12s. QRS 0.12s. Buena progresión de R en precordiales, sin alteraciones agudas de la repolaización.
+-TC craneal de control: Hematoma intraparenquimatoso fronto-insular izquierdo con presencia de calcificaciones en su parte caudal, probablemente en relación con lesión vascular subyacente, que no muestra cambios volumétricos respecto estudio anterior con unos diámetros de unos 35x30x30 mm (APxLxCC) y un volumen de 16cc. Estabilidad del edema vasogénico perilesional que condiciona borramiento de surcos y una leve compresión del ventrículo lateral izquierdo, con sistema ventricular de tamaño conservado y sin cambios respecto estudio previo. Estructuras de la línea media centradas. Cisternas de la base y peritronculares libres. No se observan alteraciones denistométricas parenquimatosas se nueva aparición. Persiste la imágen nodular extraaxial de 6x5 mm en márgen derecho de la hoz anterior, calcificada, que podría corresponder a pequeño meningioma, sin cambios. CONCLUSIÓN: Estudio urgente de control que muestra estabilidad del hematoma intraparenquimatoso fronto-insular izquierdo respecto estudio previo.
+-AG de ingreso: Hb 10.5g/dl, Hto 32.4%, VCM 90.8fL, HCM 29.4 pg, leucocitos 8450 (N 6800, L 1000, M 500), plaquetes 188000, INR 0.97, TTPA 32.7s, fibrinógeno 3.57g/L, glucosa 129mg/dL, HbA1c 5.75, fructosamina 278umol/L, urea 55mg/dL, creatinina 1.34, FG 39, urato 5.2mg/dL, bilirrubina 1.09mg/dL, bilirrubina directa 0.39mg/dL, Na 138.4 mmol/L, K 4.08 mmol/L, Ca 9.8mg/dL, GOT 18 UI/L, GPT 11 UI/L, fosfatasa alcalina 86 UI/L, GGT 18 UI/L, colesterol 155mg/dL, HDL 48mg/dL, LDL 78 mg/dL, triglicéridos 144mg/dL, proteína 6.5g/dL, albúmina 3.9 g/dL, proteína C reactiva 0.69mg/dL, TSH 0.273, T4L 1.12.
+-Sedimento urinario: leucocitos 279/uL, hties 7.9/uL, CE 0, CH 0, bacterias 1666/uL. Urocultivo > 100.000 P. miriabilits, sensible a todos los antibióticos testados salvo nitrofurantoína.
+
+EECC PLANTA DE NEUROLOGÍA
+RM craneal (12.01.2017): Tumoración hemorrágica ubica en la circunvolución frontal inferior izquierda compatible
+
+Informe d'alta d'hospitalització
+
+
+
+
+con cavernoma, el cual está asociado a un hematoma en estado evolutivo subagudo ubicado por encima de la lesión. Pequeño meningioma con base implantación en el margen derecho de la región anterior de la hoz cerebral. EEG (11.01.2017): Registro EEG en vigilia y sueño N1-N2 (marcada tendencia a la somnolencia durante la exploración), que muestra signos disfuncionales de expresión asimétrica, predominando en hemisferio izquierdo, a nivel de áreas temporo-centro-parietales (afectando regiones frontal postero-inferior/temporal anterior y temporal media), donde se asocian algunos signos de irritabilidad neuronal subyacente, sin definirse en el trazado actual dinámicas específicamente críticas (aspecto irritativo-lesional).
+
+EVOLUCIÓ CLÍNICA
+Paciente con los antecedentes referidos que es traída como Código ictus, evidenciándose a la exploración física síndrome hemisférico izquierdo a expesas de afasia global y PFSN D. Se realiza TC craneal simple sin y con contraste que muestra un hematoma agudo intraparenquimatoso fronto-insular izquierdo de 16 cc junto con la presencia de calcificaciones y realces puntiformes en su margen más caudal sugestivos de pequeñas estructuras vasculares (sin poderse descartar una lesión vascular de base), así como lesión nodular extraaxial parafalciana anterior suggestiva de pequeño meningioma. Por cifras tensionales elevadas requiere de la administración de un bolus único de 25mg de urapidil ev, manteniendo posteriormente control tensional en rango. Se comenta el caso con Neurocirugía de guardia, quienes desestiman tratamiento quirúrgico por el momento. Se cursa ingreso en Unidad de Ictus para control evolutivo.
+Durante su estancia en unidad paciente hemodinámicamente estable, afebril, persistiendo a la exploración neurológica afasia de predominio motor y con mayor comprensión de órdenes simples. Se realiza TC craneal de control que muestra estabilidad del hematoma y persstencia de las calcificaciones en el seno de dicho hematoma. Analíticamente destaca anemia con Hb 10.5g/dl (anemia ya conocida a nivel ambulatorio), IRC con cifras de crea similares a las que presenta a nivel ambulatorio y afectación del perfil tiroideo sugestiva de enfermo agudo.
+Durante su estancia en la Unidad de Ictus, la familia refiere episodios de desconexión del medio y mirada fija de inicio y fin bruscos, difíciles de valorar dada la afectación del lenguaje. No obstante, ante la posibilidad que se trate de crisis epilépticas parciales sintomáticas, se inicia tratamiento con levetiracetam 1g/12 horas y se solicita EEG. La paciente ingresa a planta de Neurología para control evolutivo.
+A su ingreso a planta de Neurología, adecuados controles tensionales, a la exploración neurológica destaca afasia motora y leve paresia faciobraquial derecha, NIHSS 6+1. Se realiza EEG que evidencia signos de irritabilidad neuronal a nivel temporo-centro-parietal izquierdo por lo que se mantiene tratamiento con LEV 1g/12h. Se realiza de RM craneal que evidencia cavernoma subyacente a sangrado por lo que es valorada por neurocirugía que recomienda alta a domicilio solicitando angioTC y visita en CCEE para programar intervención quirúrgica. La paciente presenta RAO en dos ocasiones por lo que mantenemos sondaje vesical al alta recomendando retirada de forma ambulatoria. Por otro lado, presenta febrícula con sedimento de orina patológico con urocultiovo positivo para P.Mirabilis por lo que se realiza tratamiento puntual con fosfomicina realizando recambio de sonda quedando la paciente totalmente asintomática. Dada estabilidad clínica se decide alta a domicilio.
+
+
+
+
+DIAGNÒSTICS
+Cavernoma de circunvolución frontal inferior izquierda. Crisi epiléptica secundaria.
+RAO.
+ITU en paciente con sondaje vesical.
+
+Informe d'alta d'hospitalització
+
+
+
+
+PROCEDIMENTS
+TC cranial. EEG.
+RMN cranial.
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Levetiracetam 500mg 1 comprimido cada 12h. Suspender Adiro.
+Medicación habitual. Cetirizina 10mg/día. Detrusol 4mg/día Feliben 35mcg/72h.
+Losartan/HCTZ 50/12.5mg 1/5 comprimido/día. Metformina 850mg/12h.
+Omeprazol 20mg/día. Simvastatina 10mg/día.
+
+CONTROL
+Cita en CCEE de Neurocirugía en dos semana 01/02/2017. Se realizará de forma ambulatoria angio TC craneal. Control por médico de atención primaria (Valorar retirada de sondaje vesical).
+Solicitar visita en _SS_.
+
+
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+19.01.2017
+Pàgina 1 de 4

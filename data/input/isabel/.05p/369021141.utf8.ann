@@ -1,0 +1,82 @@
+T0	FECHA 235 245	29.04.2017
+#0	AnnotatorNotes T0	2017-04-29
+T1	HORA 246 251	21:26
+#1	AnnotatorNotes T1	21:26
+T2	FECHA 257 267	09.05.2017
+#2	AnnotatorNotes T2	2017-05-09
+T3	HORA 268 273	13:50
+#3	AnnotatorNotes T3	13:50
+T4	SECCION_DIAGNOSTICOS 319 334	DIAGNÒSTIC ALTA
+T5	_SUG_Etiologia 405 416	HIPERTENSIO
+T6	_SUG_Ictus_isquemico 444 447	AVC
+T7	SECCION_ANTECEDENTES 555 567	Antecedentes
+T8	SECCION_ANTECEDENTES_QUIRURGICOS 719 721	IQ
+T9	SECCION_TRATAMIENTO_HABITUAL 836 848	Tto habitual
+T10	SECCION_PROCESO_ACTUAL 930 947	Enfermedad actual
+T11	FECHA 953 963	28.04.2017
+#11	AnnotatorNotes T11	2017-04-28
+T12	HORA 970 972	17
+#12	AnnotatorNotes T12	17:00
+T13	SECCION_EXPLORACION_FISICA 1138 1156	Exploración física
+T14	_SUG_NIHSS 1413 1420	NIHSS 0
+T15	SECCION_EXPLORACIONES_COMPLEMENTARIAS 1423 1452	Exploraciones complementarias
+T16	_SUG_TAC_craneal 1680 1690	TC Cranial
+T17	_SUG_Lateralizacion 1893 1901	esquerre
+T18	_SUG_Lateralizacion 2064 2065	I
+T19	_SUG_Lateralizacion 2375 2379	dret
+T20	_SUG_Localizacion 2673 2681	profundo
+T21	_SUG_Lateralizacion 2709 2718	bilateral
+T22	_SUG_Localizacion 2721 2730	posterior
+T23	_SUG_Lateralizacion 2731 2738	derecha
+T24	_SUG_Lateralizacion 2864 2869	ambos
+T25	_SUG_Localizacion 2916 2926	cerebeloso
+T26	_SUG_Lateralizacion 2927 2934	derecho
+T27	_SUG_Arteria_afectada 2956 2960	PICA
+T28	_SUG_TAC_craneal 3028 3038	TC CRANEAL
+T29	_SUG_Localizacion 3148 3159	ventricular
+T30	_SUG_Localizacion 3433 3440	lacunar
+T31	_SUG_Localizacion 3473 3487	corona radiata
+T32	_SUG_Lateralizacion 3488 3495	derecha
+T33	_SUG_ASPECTS 3622 3632	ASPECTS 10
+T34	_SUG_Lateralizacion 3706 3711	ambas
+T35	_SUG_Arteria_afectada 3726 3736	carotídeas
+T36	_SUG_Localizacion 3761 3768	TRONCOS
+T37	_SUG_Arteria_afectada 3896 3906	carotídeos
+T38	_SUG_Arteria_afectada 4005 4015	carotídeas
+T39	_SUG_Arteria_afectada 4126 4141	vertebrobasilar
+T40	_SUG_Lateralizacion 4246 4253	derecha
+T41	_SUG_TAC_craneal 4302 4304	TC
+T42	_SUG_TAC_craneal 4354 4364	TC craneal
+T43	_SUG_Localizacion 4433 4448	Infarto lacunar
+T44	_SUG_Localizacion 4460 4474	corona radiata
+T45	_SUG_Lateralizacion 4475 4482	derecha
+T46	_SUG_TAC_craneal 4531 4533	TC
+T47	FECHA 4545 4555	28/04/2017
+#47	AnnotatorNotes T47	2017-04-28
+T48	SECCION_EVOLUCION 4559 4568	Evolución
+T49	_SUG_NIHSS 4712 4719	NIHSS 5
+T50	HORA 4733 4738	17:25
+#50	AnnotatorNotes T50	17:25
+T51	_SUG_TAC_craneal 4753 4763	TC craneal
+T52	HORA 4770 4775	17:47
+#52	AnnotatorNotes T52	17:47
+T53	_SUG_Trombolisis_intraarterial 4829 4840	trombolisis
+T54	_SUG_Trombolisis_intravenosa 4829 4840	trombolisis
+T55	HORA 4854 4859	18:03
+#55	AnnotatorNotes T55	18:03
+T56	_SUG_Etiologia 4981 4993	ateromatosis
+T57	_SUG_TAC_craneal 5088 5090	TC
+T58	_SUG_Etiologia 5389 5404	cardioembólicas
+T59	_SUG_Etiologia 5468 5481	indeterminada
+T60	_SUG_NIHSS 5522 5527	NIHSS
+T61	_SUG_mRankin 5539 5544	mRS 1
+T62	_SUG_Lateralizacion 5616 5623	derecha
+T63	_SUG_TAC_craneal 5684 5686	TC
+T64	_SUG_TAC_craneal 5727 5729	TC
+T65	SECCION_TIPO_DE_INGRESO 6000 6014	Tipus d'ingrés
+T66	FECHA 6151 6161	09.05.2017
+#66	AnnotatorNotes T66	2017-05-09
+T67	FECHA 6203 6213	09.05.2017
+#67	AnnotatorNotes T67	2017-05-09
+T68	HORA 6214 6219	14:49
+#68	AnnotatorNotes T68	14:49

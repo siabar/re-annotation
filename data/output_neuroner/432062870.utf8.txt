@@ -1,0 +1,120 @@
+
+INFORME DE ALTA
+Medicina Interna. Unidad de neurología. Unidad de Ictus.
+
+
+
+Paciente: _NAME_
+
+
+Número de historia clínica: _ID_
+
+
+Fecha de nacimiento y sexo: _DATE_ HOME	Edad:  69 Régimen económico:  CatSalut-Propi CIP: _ID_	ABS/CAP:		Médico de cabecera: Dirección: _LOCATION_  Teléfono: _CONTACT_
+Fecha ingreso servicio: 21/10/2017    Fecha alta servicio: 23/10/2017
+
+
+Fecha ingreso hospitalización: 21/10/2017	Fecha alta hospitalización: 23/10/2017
+
+
+
+Paciente que consulta por defecto campimétrico visual y trastorno sensitivo-motor brazo y pierna izquierdos.
+
+Historial médico
+
+
+
+Alergias:  NAMC	Hábitos tóxicos: Ex-fumador hace más de 30 años	Estado basal: paciente autonomo e independiente para ABVD. msR previo 0.	Medicación habitual: Simvastatina.
+
+Antecedentes patológicos:
+o	Refiere meningitis en la infancia cuando tenía 18 años, recuerda poco del episodio, si que estuvo ingresado y recibió antibiótico, posteriormente recuperación completa sin secuelas. Nunca crisis.
+o	En tratamiento por Sindrome prostático
+o	Refiere soplo incidental de larga evolución.
+o	Niega otras enfermedades o factores de riesgo aparentes
+
+Enfermedad actual
+
+
+El pasado viernes por la tarde aproximadamente sobre las 20:00h mientras conversaba con  unos  vecinos, presenta inicio de trastorno visual del ojo izquierdo que describe como un defecto hemianóptico izquierdo asociado en este mismo momento a parestesias facio-braquio-crurales con leve pérdida fuerza izquierda. A la llegada a urgencias sobre las 22:34h, estando el paciente asinotmático. Se activa código ictus intrahospitalario se realiza TC craneal a las 22:57h que no aprecia alteraciones, dada la resolución de la clínica se desestima tratamientos revascularización fase aguda. Se decide ingreso para completar estudio.
+Exploración física
+
+
+Constantes. T.arterial:140/80 pols:86x'	Tªax:35 ºC  SpO2 96% (FiO2 21%) Gli 103mg/dl Exploración por aparatos:
+AC: Tonos ritmicos sin soplos. No IJ. No edemas. Pulsos presentes. AR: MVC sin ruidos añadidos.
+Abd: Blando y depresible no doloroso a la palpación.
+Exploración neurológica: Vígil. Alerta. No hemianopsias ni oftalmoparesias. Versiones oculares correctas. Lenguaje normal fluencia, evocación y contenido asi como comprensión. Pares craneales dentro de la normalidad. Fuerza y sensibilidad normal. No dismetrias. Marcha normal.
+
+Canadiense ( 23/10/2017):10        NIHSS (23/10/2017):     0
+
+
+Pruebas complementarias realizadas
+
+
+o	Analítica (20/10/2017): Glucosa sèrum 133 mg/dL (75 - 115). Urea sèrum 38 mg/dL (10 - 50) Creatinina
+sèrum 0.75 mg/dL (0.60 - 1.20) Filtrat glomerular estimat >90 mL/min/1.7 (>90)   Sodi 137 mmol/L (135 - 146)
+Potassi 4.4 mmol/L (3.5 - 5.1) Clor 102 mmol/L (98 - 111)  Hematies 3.94 x10^6/uL (4.5 - 5.5) Hemoglobina 12.0
+
+g/dL (13 - 17) Hematòcrit 35.7 % (40 - 50) VCM 90.6 fL (83 - 101) HCM 30.5 pg (27 - 32)  CHCM 33.6 g/dL (31.5 -
+34.5) RDW-CV 12.1 % (11.6 - 14) Leucòcits 6.37 x10^3/uL (4 - 10) Neutròfils % 43.0 % (40 - 80) Neutròfils total
+2.74 x10^3 /uL (2 - 7) Linfòcits % 47.7 % (20 - 40) Linfòcits total 3.04 10^3/uL (1 - 3) Monòcits % 6.0 % (2 - 10)
+Monòcits total 0.38 x10^3/uL (0.2 - 1) Eosinòfils % 2.7 % (1 - 6) Eosinòfils total 0.17 x10^3/uL (0.02 - 0.5) Basòfils
+% 0.6 % (0.2 - 2) Basòfils total 0.04 x10^3/uL (0.02 - 0.1) Plaquetes 151 x10^3/uL (150 - 410) VPM 11.0 fL (9.4 -
+12.6) Temps de protrombina (rati) 1.03 (0.8 - 1.2)
+o	Ecocardiografía NRL (23/10/2017): AI 30mm. TIV 9mm. Raíz Aórtica 30mm. Ligera IM y ligera IAo. Sin alteraciones contráctilidad segmentaria cardíaca.
+o	TC  -  craneal  (20/10/2017):  estudio  dentro  de  la  normalidad,  sin  signos  lesión  aguda  isquémica  ni hemorrágica.
+o	Dúplex TSA y TC ( 23/10/2017): Estudio dentro de la normalidad se aprecia ateromatosis pero sin estenosis de significación, normales velocidades a nivel de ACI. A nivel del poligono Willis, se consiguen insonorizar ambas ACM, ACP, Basilar sin apreciar patrones oclusión por doppler.
+
+
+Evolución y tratamiento realizado
+
+
+Paciente de 69 años ex-fumador y dislipémico, que ingresa para estudio de ictus regresivo en territorio ACM derecho, con clínica de aproximadamente 1 h de duración con resolución por completo de los sintomas. Se ha realizado una TC craneal urgente que no aprecia alteraciones, se ha completado el estudio mediante Eco Doppler TSA y TC sin evidenciar signos de ateromatosis o estenosis de significación.
+Tras completar estudio Ecocardiográfico en el que no se aprecian signos de cardiopatía potencialmente embolígena, se decide dar el alta con Antiagregación y estatinas, como medida prevención secundarias.
+Dado el buen estado sintomático del paciente, y tras el estudio vascular urgente se opta por estudio ambulatorio con RMN craneal, Holter-ECG 24h y estudio riesgo trombótico.
+
+Destino al alta:	Domicilio
+Rankin (alta): 0  Barthel (alta ):   100  Canadiense  (alta):   10   NIHSS (alta):	0
+
+
+Diagnósticos Diagnóstico principal
+o	ICTUS ACM DERECHO REGRESIVO DE ETIOLOGIA INDETERMINDAD
+
+Diagnósticos secundarios:
+o	DISLIPEMIA
+o	INSUFICIENCIA LEVE AORTICA Y MITRAL
+
+Procedimientos:
+o	TC CRANEAL
+o	ECO-DOPPLER TSA Y TRANSCRANEAL
+o	ECOCARDIOGRAFIA TRANSTORACICA NEURO
+
+Tratamiento al alta
+
+
+Adiro 300mg 1-0-0
+Omperazol 20mg 1-0-0
+Atorvastatina 80mg 0-0-1 ( en lugar de Simvastatina )
+
+
+Recomendaciones de prevención secundaria
+
+
+o	Caminar cada día, mínimo 1/2 hora
+o	Perder peso, hasta conseguir perímetro abdominal en hombres por debajo de 108 cm. y 88 cm. en mujeres.
+o	Dieta rica en verduras, frutas y legumbres.
+o	
+o	Mantener tensión arterial por debajo de 130 /80 mm. Hg. En diabéticos por debajo de 120/75
+o	Mantener cifras de colesterol total por debajo de 150, y LDL por debajo de 100. En diabéticos LDL por debajo de 70.
+o	Evitar el tabaco y el alcohol.
+
+
+
+Control por el médico de cabecera y se le citará a control en consulta Externa de Neurologia tras estudio RMN craneal, Holter-ECG y estudi trombofilia
+
+
+
+Atentamente,
+
+Médico/s responsable/s: _NAME_	Nº de colegiado: _ID_
+
+Firma

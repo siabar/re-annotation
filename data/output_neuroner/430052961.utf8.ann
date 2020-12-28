@@ -1,0 +1,16 @@
+T1	SECCION_DESTINO_AL_ALTA 259 278	Destinació a l'alta
+T2	SECCION_ANTECEDENTES_PERSONALES 363 384	Antecedents personals
+T3	SECCION_TRATAMIENTO_HABITUAL 466 483	Tractament actual
+T4	Tratamiento_anticoagulante_hab 485 492	sintrom
+T5	Fecha_de_ingreso 96 106	12/10/2017
+#5	AnnotatorNotes T5	2017-10-12
+T6	SECCION_PROCESO_ACTUAL 565 580	Malaltia actual
+T7	SECCION_EXPLORACION_FISICA 695 712	Exploració física
+T8	SECCION_EXPLORACIONES_COMPLEMENTARIAS 1039 1061	Proves complementàries
+T9	SECCION_EVOLUCION 1492 1500	Evolució
+T10	Fecha_de_alta 2218 2226	13/10/17
+#10	AnnotatorNotes T10	2017-10-13
+T11	Hora_de_alta 2233 2238	11.05
+#11	AnnotatorNotes T11	11:05
+T12	SECCION_DIAGNOSTICOS 2243 2265	Orientació diagnòstica
+T13	Hemorragia_cerebral 2271 2285	AVC HEMORRÀGIC

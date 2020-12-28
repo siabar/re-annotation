@@ -1,0 +1,121 @@
+_LOCATION_
+email: _CONTACT_ Telèfon _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 87 Anys
+NIF/DNI: _ID__NAME_; _NAME_; _NAME_;
+_NAME_
+Informe d'alta d'hospitalització
+17:00:39
+21.08.2017
+_LOCATION_
+_SS_ UNITAT D'ICTUS
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_ (_NAME_; ING. _SS_; DOMICIL/RES.SOC
+17.08.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Mujer de 87 años que ingresa por sospecha de Ictus
+
+ANTECEDENTS
+-Sin alergias medicamentosas conocidas
+
+ANTECEDENTES PATOLOGICOS
+-Hipertensión arterial en tratamiento dietético, con buenos controles tensionales.
+-Neoplasia oclusiva del colon ascendente. Realizó hemicolectomía derecha + anastomosis  T-T manual en Noviembre de 2010. AP: ADK bajo grado pT4N0 (0/28). Invasión linfática y perineural + invasión venosa negativa. Ultimo TAC control sin recidiva. Controles por Dr. _NAME_.
+-Estreñimiento crónico en tratamiento con laxantes
+-Incontinencia urinaria
+-Glaucoma en tratamiento
+-Faquectomía + LIO
+-Trastorno bipolar en tratamiento con litio e imipramina, en control por unidad de Psiquiatría de _SS_. SSF: institucionalizada. Dependencia total para las ABVD. Silla de ruedas. Incontinencia urinaria. mRS 4
+
+MEDICACIÓ HABITUAL
+Lumigan (Bimatoprost) 0.1mg/ml 2 gotas/día, citalopram 20mg 1/24h, Omeprazol 20mg 1/24h, Quetiapina 100mg 1/24h, Distraneurine 1/24h, Azarga 10mg/ml + 5mg/ml (Brinzolamida,Timolol maleato) 2 gotas/24h.
+
+PROCÉS ACTUAL
+Refieren que el día 17/08/2017 sobre las 17.30 cuando un familiar ha ido a visitarla a la residencia se ha dado cuenta de que no emitía lenguaje y por este motivo han avisado a SEM, siendo derivada a nuestro centro. El personal del SEM ha referido que esta mañana habían acudido por hemiparesia izquierda autolimitada y no había sido trasladada.
+*Hora de llegada a nuestro centro el día 17/08/2017 a las19:30:05
+*Se activa codigo ictus el día 17/08/2017 a las 20:00, a nivel de Urgencias
+*Se realiza TC craneal a las 21.20
+
+EXPLORACIÓ FÍSICA
+
+EXP. FÍSICA EN URG
+TA 176/79mmHg FC 76lpm Tª 36ºC SpO2 97% BMT 256mg/dl
+TCR sin soplos, no signos de ICC. MVC con algún roncus aislado. NRL: vigil, alerta, no POC/DOC, LOC C 1/2 (1), LOC Q 0/2 (2), no paresia facial, afasia global (2+3), paresia de la ESD (2), no aparenta paresia de la EID (simétrica respeto a la contralateral aunque de difícil valoración), hipoestesia no valorable. NIHSS de 11
+
+Informe d'alta d'hospitalització
+
+
+
+
+
+EXP. FÍSICA EN UI
+TA 162/69mmHg; FC 52 lpm;  T 36ªC
+NRL: vigil, LOC Q 1/2 (1); LOC C 2/2; No afasia (nomina, repite, entiende ordenes simples y complejas). Disartria inteligible (1). POC I (1). Amaurosis OD previa. Aparenta de HH D en OI (2). Motor: hemiparesia derecha B (2) -C (2). No déficit sensitivo aparente. NIHSS 9
+
+
+EXPLORACIÓ COMPLEMENTÀRIA
+Analítica d'urgències: Hb 14,9; L 6,59; Plaq 213; INR 0,98; Glic 231; U 47; Creat 1,12; Na 134,8; K 4; PCR 1,26.
+Analítica d'ingrés: Hb 13; L 6,28; Plaq 167; INR 1,06; ac folic 8, Vit B12 594; VSG 63; Glic 212; Hb A1C 11,5;
+Creat 1,25; U 39; Bili 0,58; urat 7,9; Na 140,3; K 3,87; Ca 9; AST 32; ALT 23; FA 97; GGT 26; Colest 179; HDL 34;
+LDL 106; Trig 195; PCR 1,95; TSH 0,983; FT4 1,25; HIV neg;
+Electrocardiograma:  ritmo  sinusal  con  bloqueo  AV  de  primer  grado,  extrasístoles  supraventriculares.  No alteraciones agudas de la repolarización.
+RX tórax: ICT >0.5, hilios prominentes, no condensaciones parenquimatosas, senos costofrénicos libres.
+TC craneal urgente: sin lesiones isquémicas agudas. ASPECTS 10/10, con una pequeña área de disminución del CBF con mismatch CBF/CBV en M6, sin observarse oclusión de vasos proximales.
+Ecocardioscopia ictus: ventana transtorácica subóptima. Ventriculo izquierdo no hipertrófico ni dilatado. No alteraciones en la contractilidad segmentaria, Fracción de eyección conservada. Aurícula Izquierda no significativamente dilatada. No valvulopatias significativas. Patrón transmitral compatible con alteracion relajacion. No se observan imágenes sugestivas de trombo intrauricular ni ventricular. Subóptima ventana supraaórtica, placas calcificadas sin ateromatosis aórtica complicada. No se observa aneurisma del septo interauricular.
+Telemetria 72h: no se evidencian arritmias potencialmente emboligenas
+
+
+EVOLUCIÓ CLÍNICA
+Se trata por tanto de una mujer de 87 años, mRs 4, con antecedentes de FdR CV que presenta clínica compatible con ictus en territorio de la ACM izquierda (NIHSS 11 a su llegada). Se solicita TC multimodal que muestra oclusión de M2 distal. Dado el inicio indeterminado, la ausencia de oclusión de vaso proximal y la situación sociofuncional previa se desestima tratamiento tanto fibrinolítico como endovascular, por lo que se pautan medidas de ictus agudo y se decide ingreso en la Unidad de Ictus para control evolutivo y valorar estudio.
+
+Durante el ingreso en Unidad de Ictus la paciente se mantiene en todo momento clinicamente y hemodinamicamente estable, recuperando parcialmente el déficit motor en hemicuerpo derecho y la afasia. Se realiza un ecoscan que evidencia ateromatosis aortica no complicada y telemetria durante 72h que no objetiva arritmias potencialmente emboligenas. Analíticamente destacan cifras de glucemia elevadas durante el ingreso, y una HbA1c de 11, por lo que se pauta dieta de diabético y se inicia tratamiento con Metformina.
+
+Se orienta como ictus de origen indeterminado tras estudio completo, por lo que se mantiene profilaxis secundaria con AAS y estatinas a dosis altas. Al alta persiste una leve hemiparesia derecha, por lo que dada su situación funcional basal, recomendamos realización de rehabilitación en su Residencia habitual. Considerada la mejoría clínica, se decide traslado a su residencia para convalescencia.
+
+-mRs al alta 4
+
+Informe d'alta d'hospitalització
+
+
+
+
+-NIHSS al alta: 7
+DIAGNÒSTICS
+-Ictus isquémico ACM I de etiología indeterminada tras estudio completo
+- Diabetes Mellitus tipo II de debut
+
+PROCEDIMENTS
+TC craneal multimodal Telemetría cardiaca Ecoscan cardiaco ictus
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Dieta de DM sin sal pobre en grasas. Actividad física diaria suave que tolere
+1.	AAS 100mg 1 comp/día vo
+2.	Atorvastatina 80mg 1 comp/noche vo
+3.	Metformina 850mg 0.5 - 0 - 0.5
+4.	Enalapril 5 mg 1 comp/día vo
+
+Resto de su medicación habitual sin cambios
+
+
+CONTROL
+Control de factores de riesgo vascular (especialmente la respuesta a antidiabéticos orales y antihipertensivos) por su médico de Atención primaria y especialistas habituales
+
+DESTINACIÓ A L'ALTA:	RESID. SOCIAL
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+21.08.2017
+Pàgina 1 de 3

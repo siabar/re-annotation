@@ -1,0 +1,136 @@
+_LOCATION_
+email: _CONTACT_ Telèfon _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 43 Anys
+NIF/DNI: _ID_Informe d'alta d'hospitalització
+10:00:00
+25.03.2017
+_LOCATION_
+_SS_ NEUROLOGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_
+ATEN.PRIMÀRIA 14.03.2017
+Equipo Dra _NAME_ (_NAME_, _NAME_)
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Mujer de 43 años que ingresa por ictus PACI de ACM D.
+
+ANTECEDENTS
+Antecedentes personales
+-Sin alergias medicamentosas conocidas.
+-Hábitos  tóxicos: fumadora  activa de un paquete diario. Refiere  consumo  de cocaína  hace  años, así como consumo de OH habitual hasta hace 4-5 meses, hoy en día 3-4 UBEs diarias en forma de cervezas.
+
+Antecedentes médico-quirúrgicos
+-Hipertensión arterial esencial sin tratamiento.
+-Dos abortos previos coincidiendo con traumatismos abdominales.
+
+Antecedentes familiares: abuela afecta de cardiopatía a edad temprana e ictus de repetición. Hermano afecto de epilepsia.
+
+Situación sociofuncional: vive con dos hijos (de 16 y 21 años de edad). Actualmente no trabaja. Independiente para las actividades básicas e instrumentales de la vida diaria. mRS 0.
+
+MEDICACIÓ HABITUAL
+No consta.
+
+PROCÉS ACTUAL
+Estando previamente asintomática, el 13.03.17 a las 14:00h encontrándose en  un  bar presenta paresia de hemicuerpo izquierdo. Es trasladada al CAP donde avisan al SEM quin activa Código ictus a las 19:50h (RACE 2) y traslada a la paciente a nuestro centro, llegando a urgencias a las 20:10h. Se realiza TC craneal a las 20:49h.
+
+EXPLORACIÓ FÍSICA
+
+Exploración física en Urgencias
+Tensió arterial:182/122 mmHg. . FC de60
+Exploración neurológica en urgencias: consciente y orientada en los 3 ejes. No afasia. Disartria inteligible (1), Oculomotricidad y campimetría normales. PFSN izquierda (2), Hemparesia braquial (2) y crural izquierda (3). Hemihipoestesia izquierda (1), Extinción sensitiva. (NIHSS 10).
+
+Exploración física en Unidad de Ictus
+Alerta, orientada en 3 esferas, Lenguaje conservado, Disartria moderada (1), nervios craneales: II sin alt, VII izq supranuclear (1), Motor. fuerza MSI 4-/5 (1)mano caida +1, MII 4-/5 (2), Sensitivo : hipoestesia(1) Extinciòn/Inatenciòn: sin alt (0) NIHSS 6+1
+
+Informe d'alta d'hospitalització
+
+
+
+
+Exploración física planta Neurología
+TA: 137/102 mmHg, Fc 89 lpm, T: 36ºC, Sat 98% AA
+EN: Alerta, orientada en 3 esferas, lenguaje conservado, disartria (1), No POC (0) ni HH:(0). PFSN izq (1),Motor: fuerza de MSI 4-/5 (1), MII 5-/5 (1), hemihipoestesia izquierda (1), No dismetrias (0), Extinciòn/Inatenciòn (0).
+NIHSS: 4
+
+
+EXPLORACIÓ COMPLEMENTÀRIA
+Exploraciones complementarias en Urgencias
+-Analítica general: Htes 4.53 x10E12/L, Hb 13.8 g/dL, Hto 41.3%, VCM 91.2 fL, ADE 13.2%, Leucocitos 9.89
+x10E9/L (N 57%, L 33.5%; M 8.4%, E 0.8%, B 0.3%), Plaquetas 338 x10E9/L. T protrombina 0.94, 111%, TTPA
+1.41 ratio (42.7 seg), T Trombina 21.9 seg, Glucosa 105 mg/dL, Urea 36 mg/dL, Cr 0.94 mg/dL, FG 75 ml/min/1,73 m2, Na 136.1 mmol/L, K 3.95 mmol/L, Ca 9.2 mg/dL, AST 16 UI/L, ALT 11 UI/L, Proteínas 7.4 g/dL, Tn I <0.006 ng/mL.
+-TC craneal multimodal: TC simple sin hallazgos radiológicos sugestivos de proceso isquémico agudo/subagudo (ASPECTS 10/10), observando infartos lacunares crónicos en las localizaciones descritas. El Angio-TC muestra ausencia de realce a nivel de una rama M3 de la división superior de la ACM derecha,sin identificar otros defectos de repleción y con permeabilidad de las principales estructuras vasculares del polígono de Willis, sistema vertebrobasilar y troncos supraaórticos. El estudio TC perfusión no muestra alteraciones en los parámetros de flujo y volumen, ni zonas compatibles con isquemia o penumbra.
+-ECG: RS a 70lpm. PR 0.12s. QRS 0.12s. aQRS 0º. Buena progresión de R en precordiales, con ondas T aplanadas en V3-V4.
+-Rx Tórax: exploración rotada y poco inspirada, ICT no valorable. Trama broncovascular prominente. Seno costofrénico izquierdo no valorable, izquierdo libre.
+
+Exploraciones complementarias en Unidad de Ictus y Planta de Neurología
+-Analítica completa de ingreso: Hb 14.3 g/dL;  VCM 92 fL; HCM 31 pg; Leucòcits 8.460 (Neutròfils 5.600, Limfòcits 1.900); Plaquetes 354.000; TQ 99%; INR 1.01; TTPA 39.5 s; Glucosa 84; HbA1c:  5.3%; Urea 40;
+Creatinini 0.90 mg/dL; FG 79; Urat 6.1; Bilirubina 0.43; BD 0.19; Na 136.6; K 4.07; Ca 9.6; AST 15; ALT 11; FA 49;
+GGT 21;VSG 55; Proteina 7.2; Albumina 4.0; PCR 0.14
+*Perfil lipidico: Colesterol 194; HDL 44; LDL 125; Triglicerid 127; Homocisteina 12.5
+*Estudio de tiroides: TSH 1.210; fT4 1.05;
+*Autoinmunidad: ANA positivos 1/80; ENA neg, Anti-cardiolipina IgG positivo (54.30 GPL/ml),
+Anti-cardiolipina IgM neg, Anti-beta2-glicoproteina IgG positivo (20.70 U/ml), Anti-beta2-glicoproteina IgM neg, Anticoagulante lupico positivo debil (analitica 13/03), ANCA neg
+*Serologia: Treponema pallidum neg, HIV-1/HIV-2 neg; anti-VHC Neg; HBsAg neg, HBsAb neg < 10.00 UI/L, HBcAb neg
+-RM cerebral: muestra la presencia de dos infartos lacunares subagudos en la región cápsulo-lenticular posterior y en tálamo derecho, asociados a múltiples infartos lacunares crónicos que afectan al territorio irrigado por las arterias perforantes dependientes de la circulación anterior bilateral, así como a focos de microsngrado crónico en el núcleo lenticular izquierdo y en ambos hemisferios cerebelosos. La localización profunda de los múltiples infartos subagudos y crónicos sugiere un origen hipertensivo. No obstante, el hecho de asociarse a ausencia del tabique nasal, de los cornetes y de la pared medial del seno maxilar izquierdo, sugiere descartar un origen tóxico sobreañadido.
+-Estudio shunt DI por DTC con microburbujas negativo en reposo y tras maniobra de Valsalva.
+-Telemetría 72h: sin arritmias objetivables.
+
+Informe d'alta d'hospitalització
+
+
+
+EVOLUCIÓ CLÍNICA
+Paciente de 43 años, hipertensa que es traída a urgencias por hemiparesia izquierda de más de 4.5h de evolución. A su llegada hipertensa, ECG en ritmo sinusal. En la exploración neurológica presenta clínica de síndrome incompleto de ACM derecha (NIHSS 10). Se realiza TC craneal multimodal que no observa lesiones isquémicas ni hemorrágicas agudas. Ante la duda de posible oclusión distal en territorio de ACM derecha se activa guardia de Neurovascular que confirma permeabilidad de M1 y M2 con posible alteración a nivel de A2 pero permeable en todo su recorrido por lo que se desestima tratamiento intrarterial. Se inicia tratamiento prevención secundaria con antiagregación y estatinas a dosis altas y se cursa ingreso en Unidad de Ictus para completar estudio.
+A su llegada a la Unidad de Ictus, se mantiene estable clínica y hemodinámicamente, destacando a la exploración física NIHSS 7+1 a expensas de disartria inteligible, hemiparesia faciobraquiocrural izquierda desproporcionada (mayor afectación crural), hemihipoestesia y extinción sensitiva ipsilateral. Analíticamente destaca VSG 55mm/h así como positividad para Ac. Anti-cardiolipina (IgG) y Ac. Anti-beta2-glicoproteïna (IgG) . Telemetría no evidencia arrítmias potencialmente embolígenas y el estduio Shunt es negativo, tanto en reposo como en Valsalva. Se completa estudio con RM craneal que pone de manifiesto la presencia de dos infartos lacunares subagudos en la región cápsulo-lenticular posterior y en tálamo derechos asociados a múltiples infartos lacunares crónicos que afectan al territorio irrigado por las arterias perforantes dependientes de la circulación anterior bilateral, así como a focos de microsangrado crónico en el núcleo lenticular izquierdo y en ambos hemisferios cerebelosos, todo ello sugerente de un origen hipertensivo (como hallazgo también destaca ausencia del tabique nasal, de los cornetes y de la pared medial del seno maxilar izquierdo en paciente con antecedente de consumo de cocaina vía nasal).
+La paciente realiza RHB durante el ingreso, sin incidencias. Se solicita valoración por Psiquiatría y Trabajo social dada su situación socio-familiar, recomendándose soporte psicológico ambulatorio y se le entrega información de recursos a los que puede acceder (Servei d'Atenció, Recuperació i Acollida (SARA)). Así pues, una vez completado el estudio se decide alta a domicilio. Mantenemos prevención secundaria y recomendamos control estricto de FRCV, en especial cifras de tensión arterial, por parte de MAP. Recomendamos así mismo gestionar tratamiento rehabilitador ambulatorio. Acudir a visista de control en C. Externas de Neurovascular según citación, así como a primera visita en C. Externas de Hematología dado el hallazgo en la analítica. Se explican signos de alarma y pautas de reconsulta.
+
+
+DIAGNÒSTICS
+-Infartos lacunares multiples de probable etiología hipertensiva
+-Focos de microsangrado crónico de etiología hipertensiva
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+-Dieta sin sal, baja en grasas
+-Actividad física moderada que tolere
+-Control de FRCV por parte de MAP
+
+-Omeprazol 20mg, 1 comprimido en ayunas por la mañana
+-AAS 100mg, 0-1-0
+-Hidroclorotiazida 50mg, 1-0-1
+-Amlodipino 5mg, 1-0-0
+-Enalapril 20mg, 1-0-1
+-Atrovastatina 40mg, 0-0-1
+
+Informe d'alta d'hospitalització
+
+
+
+
+CONTROL
+-Control por MAP y especialistas de referencia según programación.
+-Acudir a visita de control en C. Externas de Neurovascular  de nuestro centro según citación (se le avisará telefónicamente o vía correo ordinario)
+-Gestionar RHB ambulatorio por parte de atención primaria
+-Gestionas soporte psicológico por parte de atención primaria
+-Acudir a visita en C. Externas de Hematología de nuestro centro según citación (se le avisará telefónicamente o vía correo ordinario)
+
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+25.03.2017
+Pàgina 1 de 4

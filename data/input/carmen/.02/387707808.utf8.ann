@@ -1,0 +1,118 @@
+T1	_SUG_Lateralizacion 0 1	I
+T3	FECHA 315 325	02.07.2017
+#3	AnnotatorNotes T3	2017-07-02
+T4	HORA 384 389	12:18
+#4	AnnotatorNotes T4	12:18
+T5	_SUG_Lateralizacion 514 521	DERECHO
+T6	_SUG_Etiologia 525 537	HIPERTENSIÓN
+T7	_SUG_Lateralizacion 723 730	derecha
+T9	_SUG_Tratamiento_antiagregante_alta 911 914	AAS
+T10	_SUG_Tratamiento_antiagregante_hab 911 914	AAS
+T11	_SUG_mRankin_alta 1015 1020	mRS 3
+T12	_SUG_mRankin_previa 1015 1020	mRS 3
+T13	_SUG_Etiologia 1055 1067	HIPERTENSIÓN
+T15	_SUG_Ictus_isquemico 1104 1119	ICTUS ISQUÉMICO
+T16	_SUG_Lateralizacion 1129 1138	IZQUIERDO
+T17	_SUG_Ictus_isquemico 1220 1225	ictus
+T18	_SUG_Tratamiento_anticoagulante_alta 1258 1265	Eliquis
+T19	_SUG_Tratamiento_anticoagulante_hab 1258 1265	Eliquis
+T20	_SUG_Lateralizacion 1326 1336	IZQUIERDOS
+T21	FECHA 1340 1350	Julio/2016
+#21	AnnotatorNotes T21	2016-07-UNDEF-day
+T22	_SUG_Tratamiento_anticoagulante_alta 1386 1393	Sintrom
+T23	_SUG_Tratamiento_anticoagulante_hab 1386 1393	Sintrom
+T24	_SUG_Lateralizacion 1426 1436	IZQUIERDAS
+T25	_SUG_Lateralizacion 1463 1471	derechas
+T26	FECHA 1495 1505	Julio 2016
+#26	AnnotatorNotes T26	2016-07-UNDEF-day
+T27	FECHA 1675 1679	2005
+#27	AnnotatorNotes T27	2005-UNDEF-month-UNDEF-day
+T28	FECHA 1735 1739	2013
+#28	AnnotatorNotes T28	2013-UNDEF-month-UNDEF-day
+T29	_SUG_Lateralizacion 1992 1999	DERECHO
+T30	FECHA 2014 2018	2014
+#30	AnnotatorNotes T30	2014-UNDEF-month-UNDEF-day
+T32	FECHA 2042 2049	2/07/16
+#32	AnnotatorNotes T32	2016-07-02
+T33	_SUG_Lateralizacion 2544 2551	derecha
+T34	FECHA 2581 2591	Julio/2016
+#34	AnnotatorNotes T34	2016-07-UNDEF-day
+T35	HORA 2620 2625	21:00
+#35	AnnotatorNotes T35	21:00
+T36	FECHA 2635 2644	1/07/2017
+#36	AnnotatorNotes T36	2017-07-01
+T37	FECHA 2731 2741	02/07/2017
+#37	AnnotatorNotes T37	2017-07-02
+T38	HORA 2742 2747	13:00
+#38	AnnotatorNotes T38	13:00
+T39	FECHA 2842 2852	02/07/2017
+#39	AnnotatorNotes T39	2017-07-02
+T40	HORA 2853 2858	15:00
+#40	AnnotatorNotes T40	15:00
+T41	FECHA 2886 2896	02/07/2017
+#41	AnnotatorNotes T41	2017-07-02
+T42	HORA 2897 2902	19:00
+#42	AnnotatorNotes T42	19:00
+T43	_SUG_Lateralizacion 3209 3216	derecha
+T44	_SUG_Lateralizacion 3240 3247	derecha
+T45	_SUG_Lateralizacion 3282 3289	derecha
+T46	_SUG_Lateralizacion 3346 3354	derechas
+T47	_SUG_NIHSS_alta 3372 3379	NIHSS 6
+T48	_SUG_NIHSS_previa 3372 3379	NIHSS 6
+T49	_SUG_Lateralizacion 3411 3418	derecho
+T51	_SUG_TAC_craneal 3909 3919	TC CRANEAL
+T52	_SUG_Localizacion 4084 4091	caudado
+T53	_SUG_Lateralizacion 4092 4099	derecho
+T54	_SUG_Lateralizacion 4121 4130	izquierda
+T55	_SUG_Localizacion 4145 4160	infarto lacunar
+T56	_SUG_Lateralizacion 4219 4228	izquierda
+T57	_SUG_TAC_craneal 4298 4300	TC
+T58	FECHA 4312 4322	31/08/2016
+#58	AnnotatorNotes T58	2016-08-31
+T59	_SUG_Localizacion 4372 4381	occipital
+T60	_SUG_Localizacion 4694 4712	infartos lacunares
+T61	_SUG_ASPECTS 4749 4756	aspecto
+T62	_SUG_ASPECTS 4833 4840	aspecto
+T63	_SUG_Localizacion 4877 4885	cerebelo
+T64	_SUG_Lateralizacion 4988 4997	izquierdo
+T65	_SUG_Localizacion 5014 5025	ventricular
+T66	_SUG_ASPECTS 5189 5196	aspecto
+T67	_SUG_Lateralizacion 5233 5242	izquierda
+T68	_SUG_Lateralizacion 5290 5297	DERECHO
+T69	_SUG_Etiologia 5302 5314	HIPERTENSIÓN
+T70	_SUG_Lateralizacion 5413 5422	izquierdo
+T71	_SUG_Lateralizacion 5440 5447	derecha
+T72	_SUG_Lateralizacion 5501 5508	derecha
+T73	_SUG_Lateralizacion 5539 5546	derecha
+T74	_SUG_Lateralizacion 5556 5563	derecha
+T75	_SUG_Lateralizacion 5659 5666	derecha
+T76	_SUG_NIHSS_alta 5696 5703	NIHSS 6
+T77	_SUG_NIHSS_previa 5696 5703	NIHSS 6
+T79	_SUG_TAC_craneal 5864 5874	TC craneal
+T80	_SUG_Lateralizacion 6015 6024	izquierda
+T81	_SUG_TAC_craneal 6111 6113	TC
+T82	_SUG_Ictus_isquemico 6215 6220	ictus
+T83	_SUG_Etiologia 6248 6260	hipertensión
+T84	_SUG_Etiologia 6492 6505	indeterminada
+T85	_SUG_Etiologia 6609 6621	hipertensiva
+T86	_SUG_Lateralizacion 6875 6882	derecha
+T87	_SUG_Lateralizacion 6904 6911	derecha
+T88	_SUG_Lateralizacion 6963 6971	derechas
+T89	HORA 7845 7850	17:00
+#89	AnnotatorNotes T89	17:00
+T90	_SUG_Tratamiento_anticoagulante_alta 8135 8142	Eliquis
+T91	_SUG_Tratamiento_anticoagulante_hab 8135 8142	Eliquis
+T92	FECHA 9793 9803	07.07.2017
+#92	AnnotatorNotes T92	2017-07-07
+T93	HORA 9818 9823	14:55
+#93	AnnotatorNotes T93	14:55
+T94	SECCION_TIPO_DE_INGRESO 421 446	Tipo ingreso/Tipus ingrés
+T95	SECCION_MOTIVO_DE_INGRESO 644 682	Motivo de consulta / Motiu de consulta
+T97	SECCION_TRATAMIENTO_HABITUAL 2021 2040	MEDICACIÓN HABITUAL
+T98	SECCION_PROCESO_ACTUAL 2440 2470	Proceso actual / Procés actual
+T99	SECCION_EXPLORACION_FISICA 2692 2730	Exploración física / Exploració física
+T100	SECCION_EVOLUCION 5245 5265	Evolución / Evolució
+T2	SECCION_MOTIVO_DEL_ALTA 462 473	Motiu alta:
+T8	SECCION_ANTECEDENTES 732 794	Antecedentes e historia previa / Antecedents i història prèvia
+T14	SECCION_ANTECEDENTES_PATOLOGICOS 1025 1049	ANTECEDENTES PATOLÓGICOS
+T31	SECCION_RECOMENDACIONES 9396 9440	Otras recomendaciones / Altres recomanacions

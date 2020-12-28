@@ -1,0 +1,21 @@
+T1	SECCION_TIPO_DE_INGRESO 425 450	Tipo ingreso/Tipus ingrés
+T2	SECCION_MOTIVO_DEL_ALTA 459 476	Motivo/Motiu alta
+T3	SECCION_EVOLUCION 492 496	Diag
+T4	SECCION_EVOLUCION 5111 5131	Evolución / Evolució
+T5	SECCION_PROCEDIMIENTOS 614 618	Proc
+T6	SECCION_MOTIVO_DE_INGRESO 734 772	Motivo de consulta / Motiu de consulta
+T7	SECCION_ANTECEDENTES 809 871	Antecedentes e historia previa / Antecedents i història prèvia
+T8	SECCION_ANTECEDENTES_PERSONALES 872 895	Antecedentes personales
+T9	mRankin_previa 981 986	mRs 0
+#9	AnnotatorNotes T9	0
+T10	SECCION_ANTECEDENTES_PATOLOGICOS 988 1011	ANTECEDENTE PATOLOGICOS
+T11	SECCION_PROCESO_ACTUAL 1140 1170	Proceso actual / Procés actual
+T12	SECCION_EXPLORACION_FISICA 1371 1409	Exploración física / Exploració física
+T13	NIHSS_previa 2383 2390	NIHSS 0
+#13	AnnotatorNotes T13	0
+T14	SECCION_EXPLORACIONES_COMPLEMENTARIAS 3963 4023	Exploraciones complementarias / Exploracions complementàries
+T15	SECCION_TRATAMIENTO_AL_ALTA 7212 7245	Plan terapéutico / Pla terapèutic
+T16	Tratamiento_antiagregante_alta 7246 7251	Adiro
+T17	Tratamiento_anticoagulante_alta 7266 7277	Enoxaparina
+T18	SECCION_RECOMENDACIONES 7359 7403	Otras recomendaciones / Altres recomanacions
+T19	SECCION_DIAGNOSTICOS 492 496	Diag

@@ -1,0 +1,128 @@
+_LOCATION_ Tel. _CONTACT_
+_CONTACT_
+Informe Alta Hospitalització
+_NAME_
+HC: _ID_
+
+>
+
+
+Adreça: _LOCATION_
+_LOCATION_	                                            Data naix.: _DATE_
+Població: _LOCATION_	Sexe: FEMENI
+Provincia: _LOCATION_	CIP: _ID_
+País: _LOCATION_	NASS: _ID_
+Telèfon: _CONTACT_	DNI o Tarja Residència: _ID_
+
+
+Servei: Urgències	Data ingrés a URG: 24/01/2017 12:48
+Unitat clínica: Curta Estada Urgències	Data hospitalització: 24/01/2017 21:58
+Tipus d'ingrés: Hospitalització	Data alta: 25/01/2017 13:36
+Proveïdor de Serveis: Servei Català de la Salut	Destí: 01 - Alta Domicili
+
+
+
+Diagnòstic principal:
+
+427.31 ACXFA
+
+Diagnòstics Secundaris:
+
+434.91 AVC ISQUEMIC
+
+
+
+
+
+
+Antecedents:
+
+Malalties prèvies:
+
+DISLIPÈMIA ACXFA
+HIPERTENSIÓ ARTERIAL
+DEMENCIA ALZHEIMER (COD 1ER 331.0) DEPRESSIO
+DIABETIS MELLITU.
+
+Al·lèrgies:
+
+El pacient no presenta al·lèrgies conegudes.
+
+Medicació prèvia:
+
+Ganfort coliri, Glicazida 1c/24h, Lidaltrin 20 mg 1c/24h, Mirtazapina 30 mg 1c/24h, natecal D 1c/12h, orfidal 1 mg 1,5 1c/24h, Pantoprazol 1c/24h, quetiapina 25 mg 1c/24h, Rivastigmina 3 mg 2c/12h, simvastatina 20 mg 1c/24h, sintrom sp, Paracetamol sp.
+
+Anticoagulants: Sintrom
+
+Història Actual:
+
+Pacient de 83 anys, FFSS amb deteriorament cognitiu lleu (DSTA GDS 4-5), Rankin 1, Activació CODI ICTUS extrahospitalari:
+Estant prèviament bé, a les 11:45h de forma sobtada, inicia dificultat per a la parla, pel que ha anat al CAP i des d'allà, s'activa el CODI ICTUS.
+
+
+
+Exploració física:
+
+TA 141/76mmHg, FC 62x', SatO2 98%, eupneica a l'aire. AR: MVC sense sorolls sobreafegits.
+CV: TC arítmics, no bufs. No edemes a EEII ni signes de TVP. Polsos perifèrics presents i simètrics. NRL (a l'arribada 12:40h): afàsia mixta de predomini motor amb parafàsies (2+1+1), disàrtria lleu (1), lleu
+PFSN D (1) i lleu parèsia braquial D 4+/5 (1), no parèsia crural, RCP flexors, no dèficit sensitiu. NIHSS=7.
+
+Resum proves complementàries:
+
+Laboratori:
+
+Analítica: Temps protrombina *1.36 ratio, Temps protrombina (INR) *1.36 INR, T.Tromboplastina parcial activ *0.61 ratio, Glucosa *209 mg/dL, Urea *51 mg/dL, Creatinina *1.08 mg/dL, Sodi 137 mEq/L, Imatge:
+Rx tòrax: ICT al límit, sins costofrènics lliures, no visualitzo condensacions.
+
+TC cranial: Signes de discreta atròfia cerebral difusa, sense especial significació atenent a l'edat de la pacient (ASPECTS: 10 punts).
+
+Eco TSA: Oclusión del segmento proximal de la carótida interna derecha., sin presencia de placas calcificadas
+significativas. Se aconseja realización de AngioTC de TSA para completar estudio.
+
+Altres proves:
+
+- ECG: ACxFA a 80 bpm, T negativa a DIII, i de V1-V&, no altres alteracions de la repolarització.
+
+Evolució i comentaris:
+
+1)	AVC isquèmic carotidi esquerre:
+En context de infradecoagulació. Valorada per neurologia que decideix modificar tractament desocagulant a NACO. Presenta oclusió de de l'ACI dreta, peró al ser banda asimptomàtica per part de neurologia no consideren indicat realitzar més exploracions. A la valoració d'avui hemodinàmicament estable i amb recuperació de la focalitat neurológica.
+
+2)	AcxFA. Infradescoagulació:
+S'ha mantingut normofreqüent des de l'arribada. Es modifica pauta de ttm descoagulant segons indicacions de neurologia.
+
+Davant l'estabilitat clínica actual es decideix alta a domicili. Es donen pautes de reconsulta. Control per part del metge de capçalera i pel neuroleg habitual (untiat de demencies).
+
+24/01/17: NEUROLOGIA (Dra. _NAME_/Dra. _NAME_)
+Pacient amb DSTA GDS 4-5 i ACxFA en ttm amb sintrom que consulta per focalitat NRL en forma d'afàsia de predomini d'expressió desde aquest matí a les 11:45. Desactivat codi ictus per milloria (veure notes pr èvies). Desde la seva arribada a UCIAS la clínica ha anat fluctuant (inicialment NIHSS de 7, posteriorment NIHSS de 3 observant-se en algun moment amb NIHSS de 0).
+Última vegada que s'ha observat a la pacient sense focalitat (tot i que alguna parafàsia, així que no 100% asimptomàtica) ha estat a les 14:45. Revalorem a la pacient durant la tarda (18:45), presenta afàsia
+
+
+motora lleu (NIHSS 2), però la filla explica que desde el segon episodi no l'ha trobat del tot asimptomàtica en cap moment i que, per tant, considera que està amb la mateixa clínica desde les 15h com a mínim.
+Actualment valorem com a afàsia lleu d'inici incert en pacient no candidata a trombectomia mecànica pel que es desestima ttm en l'actualitat.
+
+Expl. Vigil, sap dir edat, no sap dir mes (+1), obeeix ordres simples i complexes. No disàrtria. Afasia lleu (+1). No PFSN. Reste de PPCC normals. No claudicació d'EE al Mingazzini. No Miller Fisher. RCP flexor. No dèficits sensitius. NIHSS de 2.
+
+OD: PACI (ICTUS ACM ESQUERRE).
+Probable cardioembòlic per ACxFA en pacient amb INR baix. No codi ictus per clínica molt fluctuant desde aquest matí, en pacient de 83 anys GDS 4-5, amb clínica lleu.
+
+PLA:
+Iniciar enoxaparina. Demà Eco-TSA.
+NEUROLOGIA (Dr _NAME_)
+Angio TSA: Oclusión del segmento proximal de la carótida interna derecha., sin presencia de placas calcificadas
+significativas. OD:
+Ictus minor carotídeo izquierdo cardiembólico con infradescoagulación. Ateromatosis de ACI der (ocluida)
+DTA
+Plan: Xarelto 20 mg 1 comp al dia Retirar Sintrom
+
+Tractament:
+
+Fàrmacs:
+
+-	STOP sintrom.
+-	Xarelto 20 mg 1c/24h.
+-	Resta de ttm sense canvis.
+
+_LOCATION_, 25/01/2017
+_NAME_ (Nº col _ID_
+Nom i cognoms metge: _NAME_ (Nº col: _ID_Pàg.: 1/3

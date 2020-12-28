@@ -1,0 +1,80 @@
+T0	HORA 299 304	10:15
+#0	AnnotatorNotes T0	10:15
+T1	FECHA 308 318	17.03.2017
+#1	AnnotatorNotes T1	2017-03-17
+T2	FECHA 420 430	12.03.2017
+#2	AnnotatorNotes T2	2017-03-12
+T3	SECCION_MOTIVO_DE_INGRESO 484 498	MOTIU D'INGRÉS
+T4	_SUG_Trombolisis_intraarterial 533 547	trombolisis iv
+T5	_SUG_Trombolisis_intravenosa 533 544	trombolisis
+T6	_SUG_Trombolisis_intravenosa 549 553	rTPA
+T7	SECCION_ANTECEDENTES 575 586	ANTECEDENTS
+T8	FECHA 880 884	2009
+#8	AnnotatorNotes T8	2009-UNDEF-month-UNDEF-day
+T9	FECHA 1022 1035	marzo de 2016
+#9	AnnotatorNotes T9	2016-03-UNDEF-day
+T10	SECCION_ANTECEDENTES_QUIRURGICOS 1170 1196	Intervenciones quirúrgicas
+T11	SECCION_SITUACION_FUNCIONAL 1360 1375	Situación basal
+T12	SECCION_TRATAMIENTO_HABITUAL 1448 1466	MEDICACIÓ HABITUAL
+T13	_SUG_Tratamiento_anticoagulante 1579 1586	Sintrom
+T14	SECCION_PROCESO_ACTUAL 1658 1671	PROCÉS ACTUAL
+T15	FECHA 1696 1701	12/03
+#15	AnnotatorNotes T15	2003-12-UNDEF-day
+T16	HORA 1749 1754	07.45
+#16	AnnotatorNotes T16	07:45
+T17	HORA 1927 1932	08.24
+#17	AnnotatorNotes T17	08:24
+T18	HORA 1983 1988	08.39
+#18	AnnotatorNotes T18	08:39
+T19	_SUG_TAC_craneal 2375 2385	TC craneal
+T20	HORA 2387 2392	08.57
+#20	AnnotatorNotes T20	08:57
+T21	_SUG_Trombolisis_intraarterial 2555 2569	trombolisis iv
+T22	_SUG_Trombolisis_intravenosa 2555 2566	trombolisis
+T23	_SUG_Trombolisis_intravenosa 2571 2575	rTPA
+T24	HORA 2583 2587	9:15
+#24	AnnotatorNotes T24	09:15
+T25	_SUG_Trombolisis_intraarterial 3700 3715	trombolisis con
+T26	_SUG_Trombolisis_intravenosa 3700 3711	trombolisis
+T27	SECCION_EXPLORACION_FISICA 3782 3799	EXPLORACIÓ FÍSICA
+T28	_SUG_NIHSS 4142 4149	NIHSS 3
+T29	SECCION_EXPLORACIONES_COMPLEMENTARIAS 4498 4523	EXPLORACIÓ COMPLEMENTÀRIA
+T30	_SUG_TAC_craneal 4535 4545	TC craneal
+T31	_SUG_TAC_craneal 4905 4915	Tc craneal
+T32	_SUG_Localizacion 5024 5032	cortical
+T33	_SUG_Arteria_afectada 5722 5726	PICA
+T34	_SUG_Lateralizacion 5727 5734	derecha
+T35	_SUG_Arteria_afectada 5843 5860	arteria vertebral
+T36	_SUG_Lateralizacion 5861 5868	derecha
+T37	_SUG_Lateralizacion 6058 6066	esquerre
+T38	_SUG_Lateralizacion 6208 6216	esquerra
+T39	SECCION_EVOLUCION 6477 6493	EVOLUCIÓ CLÍNICA
+T40	FECHA 6542 6547	12/03
+#40	AnnotatorNotes T40	2003-12-UNDEF-day
+T41	_SUG_Arteria_afectada 6573 6588	vertebrobasilar
+T42	_SUG_Trombolisis_intraarterial 6602 6616	trombolisis ev
+T43	_SUG_Trombolisis_intravenosa 6602 6613	trombolisis
+T44	_SUG_Etiologia 6660 6674	cardioembólica
+T45	_SUG_Lateralizacion 6703 6704	e
+T46	_SUG_NIHSS 6857 6867	NIHSS de 3
+T47	_SUG_Lateralizacion 6925 6932	derecha
+T48	_SUG_Localizacion 7138 7149	posteriores
+T49	FECHA 7371 7375	2009
+#49	AnnotatorNotes T49	2009-UNDEF-month-UNDEF-day
+T50	_SUG_TAC_craneal 7581 7591	TC craneal
+T51	_SUG_Arteria_afectada 7767 7771	PICA
+T52	_SUG_Lateralizacion 7772 7779	derecha
+T53	_SUG_Arteria_afectada 7843 7860	arteria vertebral
+T54	_SUG_Lateralizacion 7861 7868	derecha
+T55	FECHA 7992 8007	finales de 2016
+#55	AnnotatorNotes T55	finales de
+T56	_SUG_Arteria_afectada 8335 8350	vertebrobasilar
+T57	_SUG_Arteria_afectada 8368 8372	PICA
+T58	_SUG_Lateralizacion 8373 8380	derecha
+T59	_SUG_Etiologia 8400 8414	cardioembólico
+T60	SECCION_DIAGNOSTICOS 8912 8923	DIAGNÒSTICS
+T61	_SUG_Ictus_isquemico 8930 8935	Ictus
+T62	SECCION_TRATAMIENTO_Y_RECOMENDACIONES_AL_ALTA 8967 9002	TRACTAMENT I RECOMANACIONS A L'ALTA
+T63	SECCION_DESTINO_AL_ALTA 9052 9071	DESTINACIÓ A L'ALTA
+T64	FECHA 9129 9139	17.03.2017
+#64	AnnotatorNotes T64	2017-03-17

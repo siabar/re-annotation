@@ -1,0 +1,135 @@
+
+
+
+
+
+Informe d'Alta Hospitalària	Cognoms i nom:
+_NAME_	NHC:
+_ID_
+	ABS:
+_SS_	CIP:
+_ID_	DNI:
+_ID_
+	Data de naixement:
+_DATE_	Sexe:
+Dona	Edat:
+87a	Telèfon:
+_CONTACT_
+	Finançament:
+CatSalut - _LOCATION_	Procedència:
+URGÈNCIES
+	Admissió:
+21.08.2017 - 17:58	Servei:
+CIR. ORTOPEDIC I TRAUMA HOSP	Data entrada urg.:
+19.08.2017 - 10:46
+Adreça:
+_LOCATION_	Població:
+_LOCATION_	Codi Postal:
+_LOCATION_
+
+
+
+Motiu Ingrés:
+Luxació central de maluc dret
+
+
+ANTECEDENTS
+Antecedents patològics
+Antec patológicos No AMC
+No hábitos tóxicos
+
+FRCV: HTA, no DM, no DLP.
+
+Osteoporosis establecida. Múltiples fracturas vertebrales.
+
+Insuficiencia valvular aórtica. ACxFA, antiagregada (cardiología  de zona desestimó anticoagulación por episodio de HDB en 2013 en probable contexto AINE).
+
+Diverticulosis.
+
+Hipertrofia vejiga urinaria, con retenciones de orina crónica que obliga a la paciente a autosondarse dos veces al día.
+
+IQ: apendicectomía en la juventud. Oclusión intestinal de causa mecánica (bridas?), con resección de 40 cm intestino delgado. No aporta informes.
+
+Tratamiento habitual (19.08.17)
+
+Carvedilol 6,25 mg/d Torasemida 5mg/d
+Enalapril 20mg/d (Actualment no el pren per Hipotensió) AAS 100mg/d
+
+
+Antecedents quirúrgics
+05.07.2017
+
+
+Antecedents personals
+Fisiològics - Altres - Menarquia a los 13 años Fisiològics - Altres - Menopausia a los 51 años
+MALALTIA ACTUAL
+Pacient dona de 87 anys que ingresa a sala de Cirurgia Ortopédica i Traumatologia per a tracatment de fractura luxació de maluc dret.
+
+EXPLORACIONS COMPLEMENTÀRIES
+TC maluc: Fractura comminuta de l'acetàbul dret amb desplaçament intrapèlvic de la fossa cotiloide i migració intrapelviana del cap femoral associada. Fractura comminuta desplaçada de l#acetàbul dret amb
+migració intrapèlvica associada del cap femoral.
+
+Rx de control: correctes AS seriades
+
+SO:
+Mostra Clinica: Orina sondatge transitori
+Sediment d'orina Cèl.lules de descamació epitelial: Escasses (0-4 x camp) Leucòcits: Escassos (0-4 x camp).
+Hematies: Escassos (0-4 x camp).
+Tinció de Gram  S'observa flora variada. Urinocultiu	Positiu (>= 100.000 ufc/mL) per:
+1:  Escherichia coli
+Antibiograma:	1. ESCCOL CMI(mg/L)
+-------------------	-----------
+Ampicil.lina	R
+Amoxi+Clav	S
+
+
+EVOLUCIÓ
+Degut al patró radiológic es decideix optar per a tractament conservador de la fractura mitjançant tracció suspensió.
+
+
+Durant l'ingrés es manté afebril, amb constants mantingudes, bon control neurovascular distal i bon aspecte de la ferida quirúrgica. En el curs postoperatori va precisar transfusió de  unitats d'hematies.
+
+El dia 23.08.2017 se li coloca a la pacient sistema de tracció-suspensió amb bona tolerancia que es retirada el dia 30.08.2017.
+
+El dia 28.08.2017 s'inicia tractament antibiòtic amb Augmentine 500/125mg per infecció d'orina. Degut a l'evolució correcta, es decideix alta en el dia d'avui
+DIAGNÒSTICS
+-	Luxació central maluc dret
+-	Infecció del tracte urinari
+
+
+PROCEDIMENTS
+-	Tracció-suspensió
+-	Analgesia
+-	Profilaxis antitrombótica
+-	Antibioteràpia
+
+
+RECOMANACIONS A L'ALTA
+"	Deambulació en descàrrega de l'extremitat inferior, amb caminador o crosses "	Seguir medicació segons receptes adjuntes
+"	Continuar amb medicació habitual.
+"	Continuar fisioteràpia en descàrrega
+"	Control en dispensari de COT (Dr. _NAME_) segons programació amb radiografies "	Prevenciò secundària d'osteoporosi per equipo mèdic habitual
+
+"	Si Tª>38, augment del dolor, alteracions neurovasculars distals o incorrecta evolució de la ferida quirúrgica, acudir a urgències.
+"	Precisarà ambulància pels seus desplaçaments, fins nova valoració a Consultes Externes.
+
+
+MEDICACIÓ AL ALTA:
+
+Paracetamol 1g	1/8h si dolor (analgèsic)
+Nolotil 575mg	1/8h si més dolor, alternant amb paracetamol (analgèsic) Tramadol 100mg   1/24h ( si dolor, alternant amb els dos anteriors) Omeprazol 20mg  1/24h mentre es realitzi tractament mèdic (protector gàstric)
+
+
+Clexane 40 mg	1/ cada dia a la mateixa hora (profilaxis antitrombòtica)
+
+Responsable clínic: Dr. _NAME_ (NºCol. _ID_)
+Equip mèdic: Dr. _NAME_ (NºCol. _ID_)
+
+Servei que ha donat d'alta:
+CIR. ORTOPEDIC I TRAUMA HOSP	Data d'alta:
+05.09.2017	Nom del metge que informa de l'alta:
+Dr. _NAME_ (NºCol. _ID_)
+
+
+_LOCATION_, 05.09.2017
+Pàg. 1 de   4

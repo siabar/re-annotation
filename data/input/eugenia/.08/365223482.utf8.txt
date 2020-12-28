@@ -1,0 +1,75 @@
+_SS_
+_LOCATION_)  Tlf. _CONTACT_
+INFORME ALTA HOSPITALITZACIÓNHC	_ID_	Pacient	_NAME_	
+CIP	_ID_	Data Naix.   _DATE_	Edat 86	Sexe Home	NASS	_ID_
+Adreça   _LOCATION_		CP	_LOCATION_
+Població_LOCATION_	Tel.	_CONTACT_
+Episodi  _ID_	Admissió	28.04.2017 18:12	Alta	28.04.2017 21:56
+Servei	UCIUO_SS_ Medicina intensiva	Unitat	UCIHCHBL
+
+DIAGNÒSTIC ALTA
+
+Codi ICD-9	Descripció Diagnòstic
+434.91/9	AVC
+
+DADES INFORME
+
+MOTIU INGRÉS UCI:
+Pacient de 86 anys que ingressa procedent d'Urgències per Codi Ictus.
+
+ANTECEDENTS PATOLÒGICS:
+-	No al·lèrgies medicamentoses conegudes.
+-	Hàbits tòxics actuals negats. Ex-fumador fa > 25 anys.
+-	Hipertensió arterial en tractament.
+-	Diabetis mellitus tipus 2 en tractament amb antidiabètics orals.
+-	Desconeix dislipèmies.
+-	Hèrnia de hiatus.
+-	IQs: cataractes ambdos ulls, herniorràfia inguinal bilateral.
+-	Medicació habitual: lormetazepam 1mg, metformina 850mg c/12hs, omeprazol 20mg, valsartán 80mg.
+
+-	Situació sociofuncional: pacient independent per a les activitats bàsiques de la vida diària. Rankin 1.
+
+MALALTIA ACTUAL:
+Segons el fill del pacient que estava amb ell, estant prèviament bé durant tot el dia, a les 17.10 h aproximadament, refereix mal estar general i noten dificultat per la parla, sense dèficit motor evident. El porten a Urgències
+(17.30 h) i s'avisa a UCI per possible codi Ictus (17.32 h).
+La valoració inicial al box de politrauma mostra NIHSS 5 (0-2-0-0-0-1-0-0-0-0-0-0-1-1-0) per afàsia severa i borrament del solc nasogenià dret, sense dèficit motor ni sensitiu evident ni hemianòpsia valorable ni atàxia. Es trasllada a radiologia. S'avisa telefònicament al radiòleg (17.46 h) i s'informa de la clínica actual. Es realitza
+TC cranial i es trasllada a UCI (18.02 h). A  l'arribada a UCI el pacient presenta discreta milloria de l'afàsia,  però amb més disàrtria NIHSS 4 (0-1-0-0-0-1-0-0-0-0-0-0-1-1- 0). A les 18.02 h es contacta telefònicament amb
+radiologia, que confirma l'abscència de lesió hemorràgica intracranial. Per no tenir contraindicacions absolutes i després d'informar a la família, es decideix tractament fibrinolític, que s'inicia a les 18.03 h.
+
+EXPLORACIÓ FÍSICA a l'ingrés a UCI:
+TA 143/73 mmHg, FC 65 bpm, FR 12 rpm, satO2 96% aire ambient, T 36 ºC, glicèmia capil·lar 95 mg/dl.
+NRL alerta i col·laborador, afàsia d'expressió moderada amb disàrtria lleu, paràlisi facial menor dreta, no dèficit motor ni sensitiu evident, no hemianòpsia valorable.
+CV tons cardíacs rítmics, no ausculto bufs ni frec pericardíac, no ingurgitació jugular.
+RESP murmuri vesicular conservat bilateral sense sorolls afegits, mecànica respiratòria simètrica sense augment del treball respiratori.
+ABD depressible sense dolor ni signes de peritonisme, peristaltisme audible, no palpo masses ni megàlies. EXT no edemes ni signes de trombosi venosa profunda. Polsos perifèrics presents i simètrics.
+PELL/MUCOSES normocolor i normohidratat, no lesions cutànies agudes evidents.
+
+EXPLORACIÓ COMPLEMENTÀRIA a l'ingrés a UCI:
+-	ECG: RS 65 bpm, âQRS 0º, PR 0,16s, QRS 0,09s, no alteracions agudes de la repolarització.
+-	Analítica: leucòcits 8680, Hb 137, Htc 40%, plaquetes 306000, TQuick 88%, TTPa 27,8s. Creat 123, urea 13,8, Na
+135, K 5,1.
+-	TC Cranial: "Cambios involutivos acordes a la edad y signos hipóxico isquémicos crónicos. No se aprecian alteraciones intracraneales agudas que sean valorables al momento."
+
+EVOLUCIÓ CLÍNICA UCI:
+Als 30 minuts postfibrinolisi el pacient presenta la mateixa clínica neurològica. Es comenta amb Neurologia de _SS_ que accepta al pacient per a rescat intraarterial. S'avisa SEM pel trasllat. S'informa a la família (fill).
+
+DIAGNÒSTICS:
+-	AVC isquèmic.
+-	Afàsia severa.
+-	Hipertensió arterial.
+-	Diabetis mellitus tipus 2 no insulinodepenent.
+
+
+Tipus d'ingrés: Motiu d'alta:	Urgent Trasll.Cent.Ag	
+Metge Adjunt:
+_ID_
+Servei:	_NAME_
+
+UCIUO_SS_ Medicina intensiva	Nº Col·legiat Adjunt:
+
+Data informe:  28.04.2017
+
+
+Pàgina 1 de	2
+Data i hora d'impressió:
+28.04.2017 22:49:36

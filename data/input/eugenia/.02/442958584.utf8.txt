@@ -1,0 +1,140 @@
+_SS_
+_LOCATION_)  Tlf. _CONTACT_
+INFORME ALTA HOSPITALITZACIÓCIP	_ID_	Data Naix.   _DATE_	Edat 77	Sexe Home   NASS	_ID_
+Adreça   _LOCATION_	CP	_LOCATION_
+Població_LOCATION_	Tel.	_CONTACT_
+Episodi  _ID_	Admissió	07.11.2017 11:23	Alta	14.11.2017 18:53
+Servei	NEUUO_SS_ Neurologia	Unitat	U04UHHBL
+
+
+
+DIAGNÒSTIC ALTA
+
+Codi ICD-9	Descripció Diagnòstic
+345.90/1	EPILEPSIA
+298.9/8	SINDROME CONFUSIONAL
+296.20/1	DEPRESSIO MAJOR
+
+DADES INFORME
+
+MOTIVO DE CONSULTA: remisión desde _SS_ (_SS_).
+
+Varón de 77 años, independiente para ABVD, fumador y dependencia enólica, sin alergias medicamentosas conocidas, mRs 1.
+
+ANTECEDENTES PATOLOGICOS:
+
+-	HIPERTENSION ARTERIAL
+
+-	DIABETES MELLITUS TIPO 2
+
+-	DISLIPEMIA
+
+-	SINDROME DEPRESIVO
+
+-	ENFERMEDAD PULMONAR OBSTRUCTIVA CRONICA
+
+-	EPISODIOS DE INESTABILIDAD CEFALICA y decaimiento general. Fue estudiado por neurología en el año 2015 con neuroimágen, doppler de troncos supraaórticos y electroencefalograma (EEG) con resultados sin alteraciones destacables.
+
+-	HIPERPLASIA BENIGNA DE PROSTATA
+
+-	LUMBOCIATALGIA CRONICA (canal lumbar estrecho)
+
+TRATAMIENTO HABITUAL: AAS 100 mg/día, atorvastatina 40 mg/día, bisoprolol 5 mg/día, losartán 50 mg/día, gliclazida 30 mg/día, metformina 850 mg (1/2-0-1/2), paroxetina 20 mg/día, lorazepam 5 mg/día, brimica genuair 320/12 mcg (1-0-1), omeprazol 20 mg/día, tamsulosina 0,4 mg/día.
+
+EPISODIO ACTUAL: el 05/11 alrededor de las 20 h presenta cuadro de alteración del lenguaje, a las 22:18 h avisan al SEM que activa código ictus extramuros y lo incluyen en estudio RACECAT (número de afectado _ID_).
+Llega a nuestro centro a las 22:53h. Es valorado por UCI, donde constata cuadro de afasia mixta y disartria (NIHSS 5). El TC craneal basal (23:10h) no presenta lesiones isquémicas agudas o sangrados, al no presentar contraindicaciones, inicia tratamiento con rtPA a las 23:29h. Al no presentar mejoría de la clínica, se contacta con
+NHC	_ID_	Pacient	_NAME_
+
+neurología de _SS_ para valorar rescate intraarterial.
+En _SS_ llega el 06/11 a las 01:09 h, se realiza angioTC TSA e intracraneal que descarta estenosis u oclusiones hemodinámicamente significativas por lo cual se desestima trombectomía mecánica.
+Durante su ingreso en urgenicas de _SS_, el paciente presenta cuadro confusional hiperactivo por lo que requiere neurolépticos para su control. Al encontrarse más estable, lo remiten a nuestro centro.
+
+EXPLORACION FISICA:
+
+TA 135/70 mmHg. FC 88 lat/min. FR 14 rpm. Afebril.
+
+NRL: conciente y desorientado temporoespacialmente, lenguaje hipofluente, es capaz de nominar objetos (3/3), realizar órdenes simples pero no así ordenes complejas o cruzadas, mirada centrada, reflejo de amenaza presente bilateral, paresia facial supranuclear derecha leve, moviliza las 4 extremidades, no dismetrías, sensibilidad aparentemente conservada, reflejo cutáneo plantar flexor bilateral.
+NIHSS (0-2-0-0-0-1-0-0-0-0-0-0-1-0-0)4.
+
+ACV: no signos de fallo cardiaco, ruidos cardiacos rítmicos. AR: MV conservado, no ruidos sobreagregados.
+GI: abdomen globuloso, no doloroso, peristaltismo presente.
+
+NRL (al alta médica): conciente y desorientado en tiempo (no sabe fecha y lugar), lenguaje normofluente sin rasgos de afasia o disartria, discurso por momentos incoherente, mirada centrada, campimetría por confrontación sin déficits, resto de pares craneales preservados, fuerza y sensibilidad conservadas en las 4 extremidades, no dismetrías, ausencia de extinciones o negligencias, marcha autónoma.
+
+EXPLORACIONES COMPLEMENTARIAS:
+
+*Analítica: se adjunta informe al alta médica.
+
+*ECG: ritmo sinusal regular, no alteraciones del segmento ST o de la onda T.
+
+*Rx tórax: ICT dentro de la normalidad, no condensaciones pulmonares, senos costofrénicos libres.
+
+*TC craneal (05/11): estudio sin alteraciones agudas.
+
+*AngioTC TSA/intracraneal(06/11-_SS_): no se observan signos de sangrado intra o extraaxial.
+Moderada ateromatosis calcificada en cayado aórtico, orígenes de los troncos supraaórticos y bifurcaciones carotídeas, sin evidencia de estenosis significativas. Sistema arterial vertebrobasilar permeable,
+con predominio de la arteria vertebral izquierda, y presencia de ateromatosis calcificada en la arteria vertebral izquierda. No se identifican defectos de repleción ni otras alteraciones significativas en la
+circulación arterial intracraneal.
+CONCLUSIONES: estudio sin evidencia de signos de isquemia parenquimatosa aguda (ASPECTS 10), ni
+defectos de repleción en la circulación arterial estudiada.
+Cambios involutivos en parénquima encefálico con signos de hipoperfusión crónica de la sustancia blanca.
+*TC craneal (06/11-_SS_): sin cambios con respecto a estudio realizado recientemente.
+*TC craneal (08/11): estudio sin cambios con respecto al realizado el 05/11.
+*RM craneal (10/11): estudio de difusion no evidencia la presencia de lesiones isquemicas agudas-subagudas Signos involutivos globales.
+*TC craneal (10/11): ausencia de signos de isquemia o sangrado intracraneal.
+*Electroencefalograma (EEG-10/11):  trazado anormal por lentificación difusa (sugestiva de cuadro encefalopatico/deterioro cognitivo). No se objetivan signos indicativos de patología comicial. Signos de disfunción inespecífica sobre región fronto-temporal izquierda.
+*Holter de 24 h: ritmo sinusal con P de bajo voltaje, durante todo el registro con FVM de 83lpm. FC maximad e 121lpm
+correspondiente a taquicardia sinusal y FC minima de 59lpm correspondiente a bradicardia sinusal. ESV aisldas muy frecuentes lo que aporta irregularidad al RR, parejas frecuentes, salvas cortas de ESV. EV aisladas frecuentes, sin salvas complejas. Sin pausas significativas, RR max 1.48s
+
+*Ecocardiograma transtorácico (ETT):  medidas realizadas en 2D en un plano paraesternal apicalizado. VI no dilatado ni hipertrofiado. FEVI global conservada ( FE estimada 55%) sin alteraciones de la motilidad segmentarias. AI y aíz aórticade tamaño normal.
+V. aórtica trivalva, sigmoideas esclerosadas con apertura conservada. IAo ligera. Esclerosis valvular mitra y calcificacion ligerqa del anillo mitral posterior. IM ligera. Cavidades derechas no dilatadas con VD normocontractil. No se detecta señal de IT que permita estimar el gradiente VD-AD.No derrame pericárdico. No dilatación de VCI.
+
+ORIENTACION DIAGNOSTICA:
+
+-	PROBABLE CRISIS EPILEPTICAS
+
+-	SINDROME CONFUSIONAL
+
+Se trata de un varón de 77 años con los antecedentes citados que acude el 5/11 por cuadro de afasia por lo cual es tratado con rtPA y que fue valorado en _SS_ para descartar oclusión de gran vaso. Ya en urgencias de _SS_ ha presentado fluctuación de la clínica (afasia) por lo cual se realizó nuevo TC craneal que no evidención complicaciones hemorrágicas. En nuestro centro y en planta de neurología ha realizado un episodio de "desconexión del medio" con postura rígida (08/11) y el día 10/11 repite nuevamente episodio de afasia que dura unas horas (se volvió a activar código ictus) con posterior resolución espontánea. Ante episodios estereotipados de afasia y otro episodio de "desconexión del medio" con estudio de DWI en RM craneal sin lesión isquémica aguda y un EEG
+anormal,
+se orienta los episodios como probables crisis epilépticas con/sin alteración del nivel de conciencia. Inició tratamiento con levetiracetam 500 mg/12h con buena tolerancia.
+Durante su ingreso realizó episodio confusional (por las noches) con agitación psicomotríz que requirió puntualmente tratamiento con quetiapina.
+Ha realizado rehabilitación física, tolera ingesta oral (dieta normal) y en las últimas 48 h no ha requerido de antipsicóticos por la noche.
+Paciente estable, irá de alta a domicilio con control neurológico por consultas de neurología.
+
+-	HIPOSFAGMA OCULAR DERECHO
+
+Valorado por oftalmología, no precisa de tratamiento específico. Paciente con cataratas, se realizará faquectomía de forma ambulatoria (ya firmó CI).
+
+-	DEFICIT DE FOLATOS
+
+Presenta niveles de ácido fólico de 2 ng/mL. Inicia suplementación oral.
+
+TRATAMIENTO AL ALTA:
+
+-	Laurak® 500 mg: 1 comprimido cada 12 h.
+
+-	Acfol 5 mg: 1 comprimido cada 24 h.
+
+-	Resto de su medicación habitual igual.
+
+SEGUIMIENTO:
+
+-	CCEE de neurología según citación.
+
+-	Médico de atención primaria.
+
+
+Tipus d'ingrés: Motiu d'alta:	Urgent Alt.Mèd.Domicil	
+Metge Adjunt:
+_ID_
+Servei:	_NAME_
+
+NEUUO_SS_ Neurologia	Nº Col·legiat Adjunt:
+
+Data informe:  14.11.2017
+
+
+Pàgina 1 de	4
+Data i hora d'impressió:
+14.11.2017 19:48:38

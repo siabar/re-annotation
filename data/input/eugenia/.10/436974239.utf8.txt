@@ -1,0 +1,107 @@
+1/ 3
+
+Cognoms:  _NAME_	Adreça: _LOCATION_
+Nom:	_NAME_	_LOCATION_
+Edat: 89	Sexe: M	CIP:	_ID_	NIF:	_ID_
+Data naixement:  _DATE_	NHC:	_ID_	NASS:  _ID_
+Telèfon / Mòbil:	_CONTACT_
+
+INFORME D'ASSISTÈNCIA
+
+
+Metge/essa:	_NAME_	Servei:	Geriatria
+Data ingrés:	30/10/2017	Data Alta: 03/11/2017
+S'informa a:	Metge de família	Núm. llit: _ID_
+
+
+
+DIAGNÒSTICS:
+1.	AVC isquèmic
+2.	HTA
+3.	Fibril·lació auricular
+4.	Cardiopatia isquèmIca crónica
+5.	Artropatia crònica
+
+Pacient de 89 anys d'edat, sense al·lèrgies conegudes ni hàbits tòxics, que acudeix procedent de la residència per presentar debilitat a hemicòs esq.
+
+ANTECEDENTS PATOLÒGICS:
+-	FA permanent antiagregada. Va estar descoagulada 2 a. pero es va retirar per dificultat de cumpliment correcte del tractament i negativa de la pacient pels desplaçaments que implicaba els contorls del sintrom.
+-	Cardiopatia isquèmica crònica estable. No consta cateterisme
+-	HTA
+-	Insuficiència cardíaca
+-	Tremolor essencial
+-	Artropatia crònica
+-	Colecistectomia
+-	Intervinguda de Tm benigne al duodé
+
+Tractaments: Adiro, Bisoprolol, Digoxina, Dinisor retard, Distraneurine, Enalapril, Fosamax, Hidroferol, Ideos, Minitran
+
+VALORACIÓ GERIÀTRICA INTEGRAL (en entrevista amb una filla)
+Valoració social: Vidua. Te 4 fills. Previament vivia sola a _LOCATION_ (amb suport d'una cuidadora 2 h al mati i  a la tarda). NO surtia de casa. Actualment institucionalitzada (des de fa 3 m.) en residència geriàtrica.
+Valoració  funcional: Autònoma per menjar,  Precisa ajuda per  dutxa, desplaçament amb caminador.  Pot p/b escales. Incontinència urinària .
+Valoració cognitiva: No consta deterior cognitiu encara que presenta episodis de desorientació i perdua de memoria. Valoració anímica: eutimica
+Valoració nutricional: No consta disfàgia. Menja triturat per problema de dentadura. Vis a _SS_, requereix d´ajuts per ABVD. No consta deterior cognitiu
+
+MOTIU D'INGRÉS
+Portada ahir per SEM sense preavís a les 13:00h per clínica iniciada a les 12:00h en forma de dificultat a la parla i debilitat a hemicòs esquerre. S'activa codi ictus essent valorada per Neurologia a les 13:10h i practicant-se TAC cranial a les 13:25h. Es desestima fibrinòlisi per regressió de símptomes i situació funcional prèvia
+
+Valoració  a  Urgències:  Normohidratada  i  normocolorejada.  Neurològic:  Conscient  i  orientada,  debilitat  braquicrural esquerra, amb dificultat per la parla. AR: MVC. AC: Tons cardíacs arítmics. Abdomen: obesitat
+
+
+A Urgències es realitza:
+Analitica: Glucosa 148.4 Urea 33.8 Creatinina 0.67 FG 78 mL/min/1.73 m2 Ionograma normal. Hb 14.8   Htc 46.5 %
+Leucòcits 9.37 x10^3/uL Neutròfils % 73.8 Plaquetes 333 x10^3/uL HEMOSTÀSIA TProtrombina: 11.8 s Rati 1.09 TTPA
+25.7	Rati: 0.95 Fibrinogen 483.9
+ECG: ACxFA amb FVM 60x' i T negativa fonda de V3-V6
+TAC cranial: Hemisferis cerebelosos simètrics. Cisternes peritronculars normals. Sistema ventricular simètric i centrat en la línia mitja, de morfologia normal. Atròfia córtico-subcortical global, amb dilatació dels solcs cerebrals i lleugerament del
+
+sistema ventricular. Probable leucoaraiosi amb hipodensitat de la substància blanca periventricular i infart isquèmic lacunar crònic en els ganglis basals en el costat dret. El segment M2 de l'ACM dreta mostra un trajecte curt i lleugerament més hiperdens, no podent-se descartar completament trombo intraluminal. Parènquima encefàlic sense altres alteracions significatives.:
+
+VALORACIÓ CODI ICTUS NEUROLOGIA:
+Pacient de 89 anys, FA antiagregada (la pacient s'havia negat al sintrom). Avui, cap a les 12:00h estant a la residència ha presenta de forma sobtada debilitat de les extremitats esquerres i dificultat per articular el llenguatge. L'han portat a l'Hospital i activant-se codi ictus a les 13:06h. A la nostra valoració la pacient està conscient i orientada, sense elements afàsics, disàrtria moderada. Oculomotricitat i campimetria normal. Parèsia facial central esquerra. Lleu parèsia d'extremitats esquerres (mínima claudicació), amb hipoestèsia esquerra, no clara asomatoagnòsia ni anosoagnòsia. NIHSS: 0-0-0-0- 0//2(0-1)(0-1)//0-1-0-1-0= 6
+TC cranial urgent: sense lesions isquèmiques agudes. Destaca probable hiperdensitat en segment M2 de ACM dreta.
+S'orienta com probable ictus isquèmic de territori ACM dreta de mecanisme embòlic i etiologia cardioembòlica (FA)
+Es descarta t. Fibrinolitic per edat, comorbilitat i clinica minor. Es decideix ingrés a Geriatria
+
+EXPLORACIÓ FÍSICA a planta:
+Conscient, desorientada, col·laboradora, normocolorida, normohidratada. A.C: arítmica, sense bufs. No edemes mal·leolars. No signes de TVP. A.R.: m.v. conservat. Abdomen: tou, depressible, no dolorós, peristaltisme present. Neurològic: discreta hemiparesia FBC esq.
+
+EXPLORACIONS COMPLEMENTÀRIES:
+Ecocardiograma: Ventrículo izquierdo no dilatado, moderadamente hipertrófico de predominio septal (septo sigmoideo), motilidad global y segmentaria conservadas (FE 69%). Aurícula izquierda severamente dilatada. IAo ligera. IM ligera.
+Analitica (03/11/2017): Gluc 104, Urea 41, Creat 0.63, FG 80, Na 144, K 4.5, Cl 103, Uric 5.9.
+BR T 0.87, AST/ALT 16/12, GGT 30, F .Alcalina 75, Prots 5.9, Colest 157
+Hb 15, Hto 45%, VCM 93, HCM 30, Leucos 9040 (64 S, 21 L, 11 M); Plaqts 326000
+
+EVOLUCIÓ
+Pacient nonagenaria afecta d'AC x FA (va estar descoagulada durant 2 a. i després es va negar a continuar tt), actualment antiagregada, i que ingresa per AVC isquèmic de probable origen cardioembòlic.
+
+Evolució per problemes actius:
+1.	AVC isquèmic amb hemiparesia esq.: presenta evolució clínica favorable amb millora de la focalitat neurològica, clara millora de la paresia esq. Està seguint RHB aconseguint-se deambulació amb caminador per la unitat. Seguirá RHB domiciliaria.
+
+2.	HTA: presenta controls correctes
+
+3.	Fibril·lació auricular: manté freq. controlada. Te indicació d'anticoagulació. Comento amb la filla. Iniciem sintrom (està a la residencia i serà mes fàcil de controlar). Retiro antiagregació.
+
+4.	Cardiopatia isquèmica crónica: no ha presentat dolor toràcic.
+
+5.	Artropatia crònica: no presenta dolor articular
+
+Davant l'evolució favorable, es dóna d'alta a domicili, aconsellant el següent tractament:
+
+Medicament	Dosi	Freq.	Via	Hores
+ACENOCUMAROL (SINTROM COMP. 4 MG) - SEGONS PAUTA ADJUNTA 	0 - COMP	C/24H	ORAL	16
+BEMIPARINA (HIBOR 3500 UI XER 0,2 ML) - 3 DIES (PDTE. NOU CONTROL SINTROM) 	1 - XERI.	C/24H	SC.	20
+CLOMETIAZOL (DISTRANEURINE 192 MG 30 CAPS)	1 - CAPS	c/24h	ORAL	22
+DIGOXINA COMP. 0.25 MG.	0.5 - COMP	C/24H	ORAL	8
+DILTIAZEM RETARD 120 MG. COMP	1 - COMP	C/24H	ORAL	8
+ENALAPRIL COMP. 5 MG	1 - COMP	C/24H	ORAL	8
+NITROGLICERINA 5 MG PARCHE	1 - PEGAT	C/24H	T.DERMICA	8
+PARACETAMOL (PARACETAMOL 1GR  (si precisa por dolro)	1 - compd	C/8H	Ioral	8,16,24
+
+Ideos unidia : 1/dia Hidroferol 1 ampll/mes
+Alendronico 75 mg: 1/setmanal
+
+
+Visita control hospital de dia-geriatria: 30/11/2017
+
+Signat per _NAME_ núm.col: _ID_ Data/Hora:03-11-2017 11:39

@@ -1,0 +1,72 @@
+T0	FECHA 286 296	15.03.2017
+#0	AnnotatorNotes T0	2017-03-15
+T1	HORA 297 302	12:30
+#1	AnnotatorNotes T1	12:30
+T2	FECHA 354 364	08.03.2017
+#2	AnnotatorNotes T2	2017-03-08
+T3	SECCION_MOTIVO_DE_INGRESO 418 432	MOTIU D'INGRÉS
+T4	SECCION_ANTECEDENTES 510 521	ANTECEDENTS
+T5	FECHA 674 687	enero de 2015
+#5	AnnotatorNotes T5	2015-01-UNDEF-day
+T6	_SUG_Tratamiento_antiagregante 972 983	coplidogrel
+T7	_SUG_Recanalizacion 1127 1141	recanalización
+T8	_SUG_Tratamiento_anticoagulante 1202 1205	HBP
+T9	SECCION_ANTECEDENTES_QUIRURGICOS 1267 1269	IQ
+T10	SECCION_TRATAMIENTO_HABITUAL 1301 1319	MEDICACIÓ HABITUAL
+T11	_SUG_Tratamiento_antiagregante 1366 1377	Clopidogrel
+T12	SECCION_PROCESO_ACTUAL 1389 1402	PROCÉS ACTUAL
+T13	FECHA 1419 1424	08/03
+#13	AnnotatorNotes T13	2003-08-UNDEF-day
+T14	HORA 1438 1443	13:15
+#14	AnnotatorNotes T14	13:15
+T15	SECCION_EXPLORACION_FISICA 1535 1552	EXPLORACIÓ FÍSICA
+T16	_SUG_Tratamiento_anticoagulante 1560 1563	bpm
+T17	SECCION_EXPLORACIONES_COMPLEMENTARIAS 2013 2038	EXPLORACIÓ COMPLEMENTÀRIA
+T18	_SUG_Trombolisis_intravenosa 2315 2318	rTP
+T19	_SUG_Trombolisis_intravenosa 2325 2330	rTTPA
+T20	_SUG_Recanalizacion 2408 2422	repolarización
+T21	_SUG_TAC_craneal 2430 2441	TAC craneal
+T22	FECHA 2449 2454	08/03
+#22	AnnotatorNotes T22	2003-03-08
+T23	HORA 2455 2460	16:00
+#23	AnnotatorNotes T23	16:00
+T24	SECCION_EXPLORACIONES_COMPLEMENTARIAS_EN_PLANTA_DE_NEUROLOGIA 2785 2805	Analítica de ingreso
+T25	_SUG_TAC_craneal 3199 3204	crani
+T26	SECCION_EVOLUCION 3486 3502	EVOLUCIÓ CLÍNICA
+T27	_SUG_TAC_craneal 3514 3525	TAC craneal
+T28	HORA 3627 3632	01:30
+#28	AnnotatorNotes T28	01:30
+T29	FECHA 3637 3642	09/03
+#29	AnnotatorNotes T29	2003-09-UNDEF-day
+T30	_SUG_TAC_craneal 3800 3807	craneal
+T31	_SUG_Tratamiento_anticoagulante 4014 4021	clexane
+T32	_SUG_TAC_craneal 4111 4118	craneal
+T33	_SUG_Tratamiento_anticoagulante 4574 4582	Heparina
+T34	_SUG_Tratamiento_anticoagulante 4646 4653	Sintrom
+T35	_SUG_Tratamiento_antiagregante 4691 4694	AAS
+T36	_SUG_Tratamiento_anticoagulante 4718 4725	Sintrom
+T37	_SUG_Tratamiento_antiagregante 4728 4731	AAS
+T38	_SUG_Tratamiento_antiagregante 4759 4770	clopidogrel
+T39	SECCION_DIAGNOSTICOS 4806 4817	DIAGNÒSTICS
+T40	_SUG_Ataque_isquemico_transitorio 4826 4829	AIT
+T41	_SUG_Etiologia 4846 4854	Disecció
+T42	_SUG_Arteria_afectada 4855 4868	art Vertebral
+T43	_SUG_Lateralizacion 4869 4870	E
+T44	_SUG_Arteria_afectada 4883 4886	ACI
+T45	SECCION_PROCEDIMIENTOS 4903 4915	PROCEDIMENTS
+T46	_SUG_TAC_craneal 4938 4946	TAC cran
+T47	_SUG_TAC_craneal 4957 4962	crani
+T48	SECCION_TRATAMIENTO_Y_RECOMENDACIONES_AL_ALTA 4994 5029	TRACTAMENT I RECOMANACIONS A L'ALTA
+T49	_SUG_Tratamiento_anticoagulante 5032 5037	Hibor
+T50	_SUG_Tratamiento_anticoagulante 5093 5100	Sintrom
+T51	_SUG_Tratamiento_anticoagulante 5127 5134	Sintrom
+T52	_SUG_Tratamiento_antiagregante 5152 5155	AAS
+T53	_SUG_Tratamiento_antiagregante 5185 5196	Clopidogrel
+T54	_SUG_Tratamiento_anticoagulante 5225 5232	Sintrom
+T55	_SUG_Tratamiento_antiagregante 5235 5238	AAS
+T56	SECCION_CONTROL 5299 5306	CONTROL
+T57	_SUG_Tratamiento_anticoagulante 5383 5390	Sintrom
+T58	_SUG_Tratamiento_anticoagulante 5401 5408	Sintrom
+T59	SECCION_DESTINO_AL_ALTA 5464 5483	DESTINACIÓ A L'ALTA
+T60	FECHA 5537 5547	15.03.2017
+#60	AnnotatorNotes T60	2017-03-15

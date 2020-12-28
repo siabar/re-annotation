@@ -1,0 +1,144 @@
+_LOCATION_ Tel. _CONTACT_
+e-mail: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 60 Anys
+NIF/DNI: _ID_Informe d'alta d'hospitalització
+_NAME_; _NAME_; _NAME_; 
+_NAME_
+CP	_LOCATION_
+ABS	_SS_
+Servei	NEUROLOGIA
+Data d'alta  08.06.2017	17:00:05
+_LOCATION_
+_CONTACT_
+DOMICIL/RES.SOC 06.06.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+DEBILIDAD BRAZO DERECHO
+
+ANTECEDENTS
+Hombre de 61 años ALÉRGICO A VOLTAREN. Fumador de 1 paquete diario sin otros hábitos tóxicos. Trabaja en agencia de viajes. mRS 0.
+
+ANTECEDENTES PATOLÒGICOS:
+-	Nódulo tiroideo intervenido quirúrgicamente
+-	Ruptura de tendón de Aquiles izquierdo intervenida quirúrgicamente
+
+MEDICACIÓ HABITUAL
+No toma.
+
+PROCÉS ACTUAL
+El 05.06.2017 sobre las 21:30h presenta de forma brusca debilidad de extremidad superior derecha que se acompaña de sensación de cosquilleo en extremidades derechas. Niega dificultad para la articulación del lenguaje o debilidad crural. Refiere fluctuación de los síntomas a lo largo de las últimas horas. Avisa al SEM que tras valoración nos activa código ictus a las 22:19h. Llega a nuestro centro a las 23:10h.
+
+EXPLORACIÓ FÍSICA
+
+FC	58 bpm
+Tªaxi 36.0 ºC
+FR	rpm Tªrec  ºC
+TA s	128 mmHg SAT O2 58 %
+TA d   75 mmHg Pes Kg
+
+Exploración neurológica a Urgéncias (05.06.2017): Consciente y orientado en los tres ejes. Lenguaje normal. No disartria. Oculomotricidad y campimetría por confrontación  sin alteraciones; paresia facial central derecha. Plejia braquial derecha. No debilidad crural. No hipoestesia. No dismetrías.
+
+NIHSS = (0.0.0)0.0/1(4.0)(0.0)/0.0.0.0. 0 = 5
+
+Exploración sistémica en Urgencias: AC: ruidos cardíacos regulares, no ausculto soplos ni roce. AR: murmullo vesicular conseravdo,  sin ruidos sobreañadidos. Abdomen blando y depresible, no doloroso a la palpación. Peristaltismo conservado, sin signos de irritación peritoneal. EEII: sin edemas ni signos de TVP.
+
+Exploración neurológica al alta de UIA (08.06.2017): Lenguaje normal, sin elementos afásicos ni disartria. Oculomotricidad y campimetría por confrontación sin alteraciones; paresia facial central derecha muy leve. Pronación brazo derecho, Miller-Fisher derecho, No debilidad crural. No hipoestesia ni dismetrías.
+NIH: (0.0.0)0.0/1(0.0)(0.0)/0.0.0.0. 0 = 1
+
+Informe d'alta d'hospitalització
+
+
+
+
+
+EXPLORACIÓ COMPLEMENTÀRIA
+EXPLORACIONES COMPLEMENTARIAS EN URGENCIAS:
+
+Analítica de Urgéncias: Hematologia: Leucòcits 10200 /µL, (N 50,3 % / L 37,5 / M 8,3 / E 2,9 / B 1), Hties 4,52 mill/µL, Hb 15,1 g/dL, Hct 42,8 %, VCM 94,7 fL, Plaquetes 223000 /µL, TP 100 %, INR 0,95 sg, TP ratio 0,95,
+TTPA 29,4 sg, TTPA ratio 0,95, Fibrinogen 330 mg/dL. Bioquimica: Glucosa 89 mg/dL, Urea 29,1, Creatinini 0,98,
+Na 139,1 mmol/L, K 4,5, Prot-C reactiva 0,9 mg/L.
+
+ECG: ritmo sinusal a 60 x'. PR 120 ms. QRS estrecho. Sin alteraciones agudas de la repolarización.
+
+Radiografía de tórax: ICT dentro de la normalidad, senos costofrénicos libres, sin imágenes sugestivas de condensación pulmonar.
+
+TC craneal ugente con angio-TC (05.06.2017): No evidencia de lesiones isquémicas ni hemorrágicas agudas TC valorables. ASPECTS=10 Infartos isquémicos  lacunares  crónicos de ganglios  basales bilaterales. Cisternas basales y perimesencefálicas libres. Línea media centrada. Sistema ventricular simétrico de tamaño y morfología conservados. Sin alteraciones óseas TC valorables.
+No se aprecian alteraciones intra ni extraaxiales TC valorables. En la exploración de angio TC no se aprecian estenosis significativas, defectos de repleción, aneurismas o malformaciones valorables. Arteria vertebral izquierda hipoplásica acabada en PICA
+
+EXPLORACIONES COMPLEMENTARIAS EN UNIDAD DE ICTUS:
+
+Analítica ingreso (06.06.2017): Hemograma: Leucos 11.100 (58% N), Hb 14.7g/dL, Hto 43%, 218.000 plaquetas. Bioquímica: glucosa 92 mg/dL, HbA1c 5.3% proteína 60.5g/L, albúmina 36.1g/,L Urea 27 mg/dL, Creat
+0.95 mg/dL, Ca 8.9 mg/dL, Mg 1.97 mg/dL, Na 142.7 mmol/L, K 3.91 mmol/L, Bilirubina 0.73 mg/dL, FA 60 U/L, ALT 18 U/L, GGT 17 U/L, CK 138 U/L. Lípidos: TG 115 mg/dL, Colesterol 219 mg/dL, HDL 41 mg/dL, LDL 155 mg/dL. Proteinograma pendiente y TSH normal..
+
+Rx de tòrax  (06.06.2017): Sin alteraciones significativas.
+
+Estudio neurosonológico (06.06.2017):
+Estudi Trans-Craneal:Se registran ambas ACAs, ACMs y ACPs. Flujos ortodrómicos, características y velocidades dentro de la normalidad. No se objetivan estenosis intracraneales.
+Estudi de TSA: Eje carotídeo derecho sin placas ateromatosas, grosor íntima media dentro de la normalidad. Eje carotídeo izquierdo: placa heterogénea hipo/isoecoica de predominio isoecoico con calcificación mínima adherida a pared posterior de bulbo y bifurcación de ICA izquierda, superfície irregular, no se observan ulceraciones. No condiciona estenosis hemodinámicamente significativas. Arterias vertebrales ortodrómicas, sin estenosis significativas ni alteraciones en flujo en todo su recorrido. Conclusió: Placa ateromatosa hipo/isoecoica con superfície irregular en pared posterior de bulbo y emergencia de ICA izquierda que no condiciona estenosis significativas.
+
+TC cranial control 24 horas post-rtPA (06.06.2017): Respecto a exploración previa disponible del 5.06.2017  no  se  aprecian  cambios  TC  valorables,  sin  evidencia  de  aparición  de  lesiones  isquémicas  y/o hemorrágicas agudas TC valorables.
+
+Informe d'alta d'hospitalització
+
+
+
+
+
+Ecografía cardíaca transtorácica (08.06.2017): Estudio ecocardiográfico-Dopplerdentro de la normalidad.
+
+RMN craneal (08.06.2017): Lesiones isquémica hiperintensas en difusión y Flair en territorio frontera y distal cortical de ACM izquierda de probable etiologia embólica. No complicaciones hemorrágicas. Estudio TOF sin alteraciones en vasos intracraniales. (pendiente de informe definitivo)
+
+Eco doppler transcraneal estudio shunt derecho-izquierda (08.06.2017): no se observan signos de foramen oval permeable
+
+EVOLUCIÓ CLÍNICA
+A su llegada a Urgencias presenta constantes vitales preservadas y electrocardiograma en ritmo sinusal. A la exploración neurológica destaca plejia braquial derecha y paresia facial central derecha (NIHSS 5). Se realiza analítica general que no muestra alteraciones destacables, TC craneal en la que se aprecian infartos lacunares bilaterales crónicos sin signos de isquemia incipiente y angioTC en la que no se observa oclusión de gran vaso.
+
+Tras comprobar la ausencia de contraindicaciones, se inicia tratamiento con alteplasa sistémica a las 23:35h (25 min tras la llegada y 125 min desde inicio de la clínica) (bolus de 8 mg + perfusión de 73 mg, constantes prebolus: TA 128/75, glicemia 86 mg/dL), observándose mejoría motora parcial inicialmente (levantaba extremidad contra gravedad) que empeora rápidamente hasta persistir plejia. Ingresa en UIA para continuar estudio, evolución y tratamiento.
+
+Durante su estancia en la UIA, el paciente se mantiene estable hemodinamicamente, monitorizado con buen control de tensiones. No presenta disfagia por lo que inicia dieta normal. Mejoría de la alteración motora con paresia distal residual de la mano derecha, persistiendo pronación y Miller-fisher por lo que se decide incio de RHB. Se revisan imágenes de AngioTC del ingreso y se observa placa en bulbo y bifurcación de ACI izquierda con engrosamiento de pared y remodelación positiva de superficie irregular e imagen intraluminal compatible con ulceración de placa. Se realiza estudio neurosonológico que muestra placa ateromatosa hipo/isoecoica con superfície irregular en pared posterior de bulbo y emergencia de ICA izquierda que no condiciona estenosis significativas.
+TC cranial de control 24 horas post-rTPA que no muestra transformación hemorrágica ni lesiones isquémicas.
+
+Para el estudio etiológico se realiza RMN que muestra múltiples lesiones hiperintensas en FLAIR y DWI en territorio frontera y corticales distales en territorio de ACM izquierda compatibles con mecanismo embólico, Ecografia doppler con test shunt derecha-izquierda que no muestra indicios de foramen oval permeable. Ecografia transtorácica sin alteraciones y sin alteraciones del ritmo durante las 72 horas del ingreso. Se coloca dispositivo SRA, firmando el consentimiento informado.
+
+Se orienta como Ictus isquémico multifocal en territorio frontera y cortical distal de territorio de ACM izquierda sugestivo de origen embólico sin encontrar etiologia mayor segun criterios TOAST, por lo que se considera ESUS. Exploración física al alta de la UIA con paresia facial central derecha sin componente superior muy leve. Leve pronación del brazo derecho, Miller-Fisher derecho, sin otras alteraciones motoras ni sensitivas con  NIHSS: (0.0.0)0.0/1(0.0)(0.0)/0.0.0.0. 0 = 1. mRS al alta de 1, aconsejandose rehabilitación y terapia ocupacional al alta en su centro de referencia.
+
+Explicamos tratamiento higienico-dietético y médico de prevención secundaria.
+
+Informe d'alta d'hospitalització
+
+
+
+
+DIAGNÒSTICS
+1. Ictus isquémico multifocal en territorio frontera y cortical distal de territorio de ACM izquierda sugestivo de origen embólico sin encontrar etiologia mayor segun criterios TOAST, por lo que se considera ESUS. Tratamiento con rTPA ev.
+2.- Fumador.
+3.- Dislipémia.
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+-	Dieta cardiosaludable
+-	Control factores riesgo cardiovascular
+-	Abandono hábito tabáquico.
+-	Adiro 300 mg cada 24 horas
+-	Atorvastatina 80 mg cada 24 horas
+
+
+
+CONTROL
+Control por su médico de cabecera. Derivar a rehabilitación y terapia ocupacional así como neurologo de zona para controles.
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+08.06.2017
+Pàgina 1 de 4

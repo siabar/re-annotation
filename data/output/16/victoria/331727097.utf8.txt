@@ -1,0 +1,175 @@
+
+
+
+
+
+Informe d'Alta Hospitalària	Cognoms i nom:
+_NAME_	NHC:
+_ID_
+	ABS:
+_SS_	CIP:
+_ID_	DNI:
+_ID_
+	Data de naixement:
+_DATE_	Sexe:
+Dona	Edat:
+84a	Telèfon:
+_CONTACT_
+	Finançament:
+CatSalut - CATALUNYA	Procedència:
+URGÈNCIES
+	Admissió:
+27.01.2017 - 13:20	Servei:
+NEURO - UNITAT ICTUS HOSP	Data entrada urg.:
+27.01.2017 - 08:37
+Adreça:
+_LOCATION_	Població:
+_LOCATION_	Codi Postal:
+_LOCATION_
+
+
+
+Motivo ingreso
+Mujer de 84 años que ingresa por un ictus isquémico
+
+
+ANTECEDENTES
+-No alergias medicamentosas conocidas.
+-Hábitos tóxicos: exfumadora (DTA: 12 paquetes-años), enol ocasional.
+-	Dislipemia sin tratamiento médico.
+-	Sobrepeso.
+-Hipotiroidismo subclínico.
+-Reflujo gastroesofágico.
+-Espondiloartropatía con estenosis del canal lumbar. TC de 2011: Degeneración  espondilosica intervertebral lumbar L5 S1 Artrosis interaòfisaria. L4-5 y L5-S1 D. Espondilolistesis L4-5 Leve. Leve estenosis L4-5 foraminal y L5-S1 Izq. Estensosis leve del canal en L4-5.
+-Escoliosis.
+-Temblor cefálico de reposo de larga evolución.
+-Intervenciones quirúrgicas: Exéresis de quiste podal.
+-Sin antecedentes familiares relevantes.
+
+Situación sociofuncional: Funciones superiores conservadas. Vive sola en domicilio. Independiente para las ABVD. Deambula sin ayuda., mRs=0.
+
+Medicación habitual: Omeprazol 20mg cada 24h, hidroferol 1 ampolla cada 15 días.
+
+
+ENFERMEDAD ACTUAL
+Mujer de 84a que consulta por pérdida de fuerza y sensibilidad  en extremidad superior izquierda del despertar.
+Refiere que, habiéndose ido a dormir el 27/01 a las 00:00 y sin despertarse durante la noche, se despertó aproximadamente a las 08:00 del mismo día con imposibilidad para mover el brazo izquierdo y pérdida completa de la sensibilidad del mismo. No se asoció a asimetrías faciales (se fijó específicamente), a alteraciones visuales, a alteraciones en otras extremidades o de la marcha u otras anomalías. Varios días antes refiere que padeció un dolor intenso en todo el brazo izquierdo que se autolimitó. El déficit referido fue mejorando progresivamente de manera que a su valoración en UCIAS solo persiste cierta disestesia en la región medial del antebrazo.
+
+EXPLORACIÓN FÍSICA
+En urgencias
+
+-	Constantes: TA 146/93, FC 110 lpm, Tª 34'7ºC, glucemia 103 mg/dL, INR 1.
+-	A la exploración se evidencia debilidad distal de la ESI (MF +) así como dismetría y hipoestesia táctil, vibratoria y algésica del mismo territorio (NIHSS = 2); además temblor cefálico ("si-si") de reposo. NIHSS=2
+
+
+En Unidad de Ictus
+-	Constantes: TA 138/85mmHg, FC 87lpm, T 36ºC, SatO2 97% al aire.
+-	Global: AC: TCR. AR: sibilancias. No signos de ICC.
+-	Vigil, orientada en tres esferas, atenta y colaboradora. Lenguaje fluido sin agramatismos, rasgos disfásicos o disártricos. PICNR. MOEs no limitados, campimetría por confrontación sin alteraciones. Sin asimetrías faciales. Trigémino sensitivo motor sin alteraciones. Pares craneales bajos sin alteraciones. Balance motor de 4 extremidades sin claudicación; MF + ESI izquierda (pero refiere dolor del 1º dedo). Hipoestesia táctil y algésica braquiocrural izquierda. Discreta dismetría ESI que podría ser proporcional a la paresia. RCP flexor bilateral. Marcha no explorada. NIHSS: 0.0.0.0.0/0.0.0/1.1.0.0.0 = 2
+
+EXPLORACIONES COMPLEMENTARIAS
+-	Analítica sanguínea al ingreso: Sodi 141 mmol/L ( 136 - 145 ) Potassi 3,91 mmol/L ( 3,50 - 5,10 ) Glucosa 6,4 mmol/L ( 3,0 - 6,0 ) 115,20 mg/100mL Urea 3,5 mmol/L ( 2,9 - 8,2 ) 21 mg/100mL Creatinina 64 µmol/L (
+0 - 80 ) 0,73 mg/100mL Bilirubina total 11 µmol/L (< 17) 0,63 mg/100mL AST (GOT) 22 U/L ( 0 - 31 ) ALT
+(GPT) 20 U/L ( 0 - 31 ) Fosfatasa alcalina 66 U/L ( 35 - 110 ) Hemoglobina 146 g/L ( 120 - 150 ) Hematòcrit
+0,46 L/L ( 0,35 - 0,45 ) Hematies 4,83 x10E12/L ( 3,90 - 5,00 ) VCM 94,2 fL ( 80,0 - 98,0 ) CCMH 321 g/L (
+320 - 360 ) HCM 30,2 pg ( 27,0 - 32,0 ) RDW 13,6 % ( 12,0 - 15,0 ) Plaquetes 220 x10E9/L ( 140 - 350 )
+VPM 7,6 fL ( 7,0 - 10,5 ) Plaquetòcrit 0,20 % Leucòcits 5,33 x10E9/L ( 3,80 - 11,00 ) Fórmula leucocitària
+Neutròfils 49,2 % Neutròfils absoluts 2,62 x10E9/L ( 1,80 - 7,00 ) Eosinòfils 4,1 % Eosinòfils absoluts 0,22
+x10E9/L ( 0,05 - 0,50 ) Basòfils 0,9 % Basòfils absoluts 0,05 x10E9/L ( 0,00 - 0,10 ) Monòcits 10,3 %
+Monòcits absoluts 0,55 x10E9/L ( 0,30 - 1,00 ) Limfòcits 35,5 % Limfòcits absoluts 1,89 x10E9/L ( 1,00 - 4,00 ) HEMOSTÀSIA Temps de tromboplastina 0,90 RATIO ( 0,75 - 1,30 ) Temps de protrombina 1,26 INR ( 0,75 - 1,20 ) Temps de trombina 21,10 s ( 17,00 - 24,00)
+-	Analítica sanguínea control: Sodi 143 mmol/L ( 136 - 145 ) Potassi 4,40 mmol/L ( 3,50 - 5,10 ) Calci 2,28
+mmol/L ( 2,15 - 2,55 ) 9,12 mg/100mL Fosfat 0,97 mmol/L ( 0,87 - 1,45 ) 3,00 mg/100mL Glucosa 4,8
+mmol/L ( 3,0 - 6,0 ) 86,40 mg/100mL Urea 3,5 mmol/L ( 2,9 - 8,2 ) 21 mg/100mL Creatinina 57 µmol/L ( 0 -
+80 ) 0,64 mg/100mL Triglicèrids 0,74 mmol/L (< 1.65) 65,49 mg/100mL Colesterol 3,39 mmol/L (< 6.2)
+131,19 mg/100mL GGT 15 U/L ( 0 - 43 ) Proteïna total 61,4 g/L ( 64,0 - 83,0 ) Albúmina 37,6 g/L ( 34,0 -
+48,0 ) Hemoglobina 131 g/L ( 120 - 150 ) Hematòcrit 0,41 L/L ( 0,35 - 0,45 ) Hematies 4,35 x10E12/L ( 3,90
+- 5,00 ) VCM 94,5 fL ( 80,0 - 98,0 ) CCMH 319 g/L ( 320 - 360 ) HCM 30,1 pg ( 27,0 - 32,0 ) RDW 14,0 % (
+12,0 - 15,0 ) Plaquetes 207 x10E9/L ( 140 - 350 ) VPM 7,8 fL ( 7,0 - 10,5 ) Plaquetòcrit 0,20 % Leucòcits
+4,97 x10E9/L ( 3,80 - 11,00 ) Fórmula leucocitària Neutròfils 56,1 % Neutròfils absoluts 2,79 x10E9/L ( 1,80
+- 7,00 ) Eosinòfils 3,2 % Eosinòfils absoluts 0,16 x10E9/L ( 0,05 - 0,50 ) Basòfils 0,8 % Basòfils absoluts 0,04 x10E9/L ( 0,00 - 0,10 ) Monòcits 10,3 % Monòcits absoluts 0,51 x10E9/L ( 0,30 - 1,00 ) Limfòcits 29,6
+% Limfòcits absoluts 1,47 x10E9/L ( 1,00 - 4,00 ) Velocitat de sedimentació globular (VSG) No realitzat/da per problemes tècnics ( 1 - 15 )
+-	Perfil lipídico: Colesterol HDL 0,77 mmol/L ( 1,00 - 1,70 ) 29,80 mg/100mL Colesterol LDL En Proceso
+
+
+
+Colesterol VLDL 0,34 mmol/L ( 0,00 - 0,63 ) 13,20 mg/100mL Colesterol quilomicrons  0,00 mmol/L 0,00 mg/100mL
+-	Hb glicosilada (HbA1c) 5,7 % ( 4,6 - 5,8)
+-	Radiografía torácica portátil: Poco inspirada. ICT <0.5, senos costofrénicos libres. No claras condensaciones parenquimatosas, con dudosa opacidad basal izquierda.
+-	ECG: Ritmo sinusal con FC 80lpm, sin alteraciones de la repolarización.
+-	Telemetría-ECG: Sin eventes arrítmicos.
+-	TC craneal: El estudio practicado no muestra colecciones extraxiales, signos de sangrado intracraneal, efectos de masa ni desplazamientos valorables a nivel de estructuras de la línea media supra e infratentoriales. Sistema ventricular de tamaño y morfología conservados. Dos pequeñas lesiones crónicas en ambos hemisferios cerebelosos y algún lacunar también crónico putaminal de predominio derecho. Moderada hipodensidad en sustancia blanca periventricular y subcortical atribuible a leucoencefalopatía hipóxico-isquémica crónica. No identifico lesiones de aspecto isquémico agudo o reciente. Conclusión: Estudio TC craneal sin claras lesiones de aspecto agudo (ASPECTS 10).
+-	RM craneal: Se identifican dos mínimos focos de hiperseñal en  secuencias de  difusión con mínima restricción de los ADCs en la región cortical parietal derecha y otro foco puntiforme en corona radiada D sugestivas de isquemia reciente en territorio superficial de la ACM d.Varias lesiones crónicas en ambos hemisferios cerebelosos. Múltiples focos puntiformes de sustancia blancas subcortical y periventricular de aspecto vascular crónico de pequeño vaso. Ganglios de la base de aspecto criboso en probable relación con espacios perivasculares aumentados de tamaño, sin poder descartar alguna lesión lacunar. No se observan focos de microsangrado crónico. Resto del parénquima cerebral sin otras alteraciones relevantes de señal o de morfología. Sistema ventricular de tamaño y morfología conservados. Cisternas de la base patentes y libres. Estudio angio 3D-TOF intracraneal no muestra signos de oclusión vascular ni estenosis relevantes. Origen fetal de la ACP I, sin otras alteraciones. Conclusión: Dos mínimos focos de aspecto isquémico reciente de localización cortical parietal D y en corona radiada en territorio superficial de la ACM
+D. Estudio angio-RM sin alteraciones relevantes.
+-	Estudio neurosonológico de TSA, en el que se insonan ambas CC, CI y vertebrales, muestra flujo laminar y ortrodrómico en todos los territorios sin aceleraciones significativas.
+-	Ecocardiograma transtorácico: Ventrículo izquierdo no dilatado con ligera hipertrofia septal basal. Contractilidad global conservada, sin alteraciones segmentarias.Disfunción diastólica tipo I. Válvula mitral morfológica y funcionalmente normal. Raíz aórtica ligeramente dilatada. Válvula aórtica trivalva con sigmoideas no engrosadas, normofuncionante. Aurícula izquierda ligeramente dilatada. Ventrículo derecho no dilatado, con contractilidad global conservada. Válvula tricúspide morfológicamente normal. Regurgitación fisiológica ligera que permite estimar unas PAPs en reposo dentro de la normalidad. Vena cava inferior no dilatada. No hay derrame pericárdico. Septo interauricular aneurismático que tras inyeción de suero agitado permite observar foramen oval permeable (paso de burbujas a AI).
+-	Holter-ECG 7 días (estudio SRA): pendiente de informe
+
+
+
+
+
+EVOLUCIÓN
+A su llegada a urgencias (08:37), se activa el código ictus intrahospitalaria. A su valoración inicial se evidencia debilidad distal de la ESI, así como dismetría y hipoestesia táctil, vibratoria y algésica del mismo territorio (NIHSS = 2). El estudio inicial (TC craneal, dúplex TSA y ECG) no evidencia alteraciones. Se orienta como ictus isquémico de territorio indeterminado (posterior vs ACM derecha) y etiología indeterminado por estudio incompleto. Tras la obtención del consentimiento informado, se incluye en el ensayo clínico POINT (AAS + clopidogrel versus placebo). Ingresa en la U. de Ictus para estudio y monitorización.
+Durante su estancia en Unidad de Ictus se mantiene normotensa y afebril, sin eventos por telemetría. Porgresivamente presenta una mejoría clínica, con recuperación del déficit motor, persistiendo una hipoestesia táctil en los dos primeros dedos de la ESI, sin otras alteraciones, puntuando un NIHSS=1 a las 24h del ingreso. Como incidencias, presenta tos no productiva sin disnea y con una SatO2 93-94% al aire., manteniéndose afebril en todo momento A la auscultación respiratoria destacan signos de broncoespasmo leve. Se realiza radiografía torácica que no muestra claras condensaciones pulmonares y se inicia tratamiento broncodilatador
+con posterior mejoría clínica.
+En el estudio, destaca que en la RM craneal se objetivan dos lesiones isquémicas puntiformes en territorio superficial y profundo de la ACM derecha sugestivas de un mecanismo embólico. El estudio etiológico (telemetría-ECG, ecocardiograma TT, estudio vascular extra e intracraneal) no ha evidenciado alteraciones significativas,  por lo que se orienta como un ictus de etiología indeterminada.
+Como prevención secundaria, se mantiene la antiagregación como parte del estudio POINT durante 3 meses y atorvastatina a dosis altas.
+Dada la estabilidad clínica y tras completar el estudio, se decide el alta hospitalaria. Al alta: NIHSS=0, mRS=1 (por alt subjetiva sensibilidad distal mano izq).
+
+PROCEDIMIENTOS
+-ECG
+-Telemetría
+-Analítica sanguínea
+-TC craneal
+-Ecocardiograma transtorácico
+-RM craneal
+
+
+DIAGNÓSTICOS
+1.	Infartos isquémicos (PACI) en territorio de ACM derecha (cortical parietal y corona radiata) de etiología indeterminada.
+2.	Infección respiratoria de vías altas. Broncoespasmo leve.
+3.	Foramen oval permeable (FOP) con aneurisma del septo interauricular (ASA)
+
+
+
+
+TRATAMIENTO
+-	Suspender Omeprazol
+-	Medicación estudio 1 comprimido al día hasta el día 27.04.2017
+-	Adiro 100 mg 1 comprimido al día
+-	Atorvastatina 80 mg 1 comprimido al día (cena)
+-	Ranitidina 150 mg 1 comprimido cada 12 horas
+-	Hidroferol 1 ampolla cada 15 días.
+-	Atrovent 1 inhalación  cada 8 horas en cámara (* Revalorar  duración tratamiento por su médico de cabecera en los próximos días)
+
+RECOMENDACIONES AL ALTA
+* Visita de control en Neurología según programación adjunta.
+
+Recomendaciones generales
+1.	Tratamiento de la hipertensión arterial, manteniendo cifras por debajo de 140/90; en caso de ser diabético, cifras por debajo de 130/85.
+2.	Abandono completo del hábito tabáquico.
+3.	Control y tratamiento de las enfermedades cardiacas (cardiopatía isquémica, insuficiencia cardiaca, arritmias y valvulopatías).
+4.	Evitar consumo excesivo de alcohol (se permite una o dos bebidas al día).
+5.	Vigilancia y tratamiento del perfil lipídico:
+Dieta pobre en grasas, actividad física apropiada.
+Tratamiento farmacológico si precisa para mantener niveles de LDL<100mg/dl.
+6.	Control de la glucemia, que debe ser <126mg/dl en ayunas, con dieta, antidiabéticos orales o insulina si precisa.
+7.	Realizar actividad física, 30 a 60 minutos, de tres a cuatro veces a la semana.
+8.	Continuar el tratamiento antiagregante a las dosis recomendadas, siguiendo los controles necesarios.
+
+
+
+
+
+
+Responsable clínic: Dra. _NAME_ (NºCol. _ID_)
+Equip mèdic: _NAME_ (NºCol. _ID_)
+
+Servei que ha donat d'alta:
+NEURO - UNITAT ICTUS HOSP	Data d'alta:
+03.02.2017	Nom del metge que informa de l'alta:
+Dra. _NAME_ (NºCol. _ID_)
+
+
+_LOCATION_, 03.02.2017
+Pàg. 1 de   5

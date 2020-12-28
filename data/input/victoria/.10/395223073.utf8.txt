@@ -1,0 +1,105 @@
+_SS_
+_LOCATION_)  Tlf. _CONTACT_
+INFORME ALTA HOSPITALITZACIÓNHC	_ID_	Pacient	_NAME_	
+CIP	_ID_	Data Naix.   _DATE_	Edat 44	Sexe Home	NASS	_ID_
+Adreça   _LOCATION_	CP	_LOCATION_
+Població_LOCATION_	Tel.	_CONTACT_
+Episodi  _ID_	Admissió	24.07.2017 15:09	Alta	28.07.2017 15:10
+Servei	NEUUOHMB Neurologia	Unitat	U05UHHBL
+
+DIAGNÒSTIC ALTA
+
+Codi ICD-9	Descripció Diagnòstic
+434.91/5	AVC ISQUEMIC
+435.9	ISQUEMIA CEREBRAL TRANSITORIA INESPECIFI
+401.9	HIPERTENSIO ESSENCIAL INESPECIFICADA
+272.4/1	DISLIPEMIA
+305.1	TRASTORN PER ÚS DE TABAC. DEPENDÈNCIA DE
+
+DADES INFORME
+Paciente de 44a que consulta ingresa por AVC isquémico: Antecedentes patológicos:
+-	No AMC
+-	Fumador activo de 10cig/d. Previamente 2paq/d desde los 16a con un periodo de abandono de 4 años (aprox 46paq/a).
+-	No enol
+-	HTA en tratamiento farmacológico.
+-	DLP familiar (última analítica 10/2016: Triglicèrid 97.1 mg/dL, Colesterol 393.2 mg/dL, HDL 36.0 mg/dL, LDL 337.9 mg/dL). En tratamiento con rosuvastatina.
+-	AVC isquémico en 2000 diagnosticado en _SS_ a raíz de hemiparesia derecha. No tratamiento fibrinolítico. Recuperación add integrum. Sospecha de posible migraña por cefaleas previa.
+-	Cardiopatía isquémica que debuta en 08/2012 con dolor torácico típico pero sin movilización de marcadores. Se completa estudio con cateterismo que informa de enfermedad de 3 vasos ( DAm del 60% que engloba el origen de D2 y con ateromatosis difusa distal; CX de buen calibre con una MO1 muy desarrollada que tiene una lesión del 90% proximal con imagen de trombo; CD dominante conuna placa del 60% en PL). Se considera como vaso culpable de la clínica la lesión de MO1 por lo que se realiza ICP con implante de stent fármaco-activo Promus Element 3.5 x 20 mm en MO1 con buen resultado.
+-	Cefaleas frecuentes de características tensionales (holocraneal opresiva), con abuso crónico de ibuprofeno.
+-	Fractura de meseta tibial en 2011
+
+Tratamiento habitual: bisoprolol 5mg/24h, NTG sl sp, AAS 150mg/24h, valsartran/hidroclorotizida 160/25mg c/24h. Trabaja como mecánico de forma activa. Apto para ABVD.
+
+Enfermedad actual:
+Consulta per presentar des del despertar aquest matí a les 7h sensació de tenir la cara inflada amb hipoestèssia en hemicara dreta fins a zona laterocervical posterior dreta. Aproximadament a les 11h mentre treballava s'afegeix visió borrosa en hemicamp dret. Des d'ahir al vespre cefalea d'inensitat lleu-moderada, refereix que sol tenir cefalea cada 3-4 dies. No acompanyada d'aura ni de focalitat NRL habitual. Únic episodi de focalitat NRL als 27 anys.
+
+Exploración física:
+TA 160/90. RS per monitor.
+Pes actual:125 Talla:171 IMC:42.8
+
+
+NRL: presenta hipoestèssia en hemicara dreta i zona laterocervical dreta.
+Resta de PPCC normals. Campimetria per confrontació normal. No dèficit motor. No dismetries. Marxa Normal. RCP flexor bilateral. NIHSS 1.
+Ac: Rítmico sin soplos ni roces. No edemas en EEII. Pulsos radiales presentes y simétricos Ar: MVC sin ruidos sobreañadidos
+Abd: globuloso blando y depresible no doloroso a la palpación. No defensa muscular ni signos de irritación peritoneal.
+
+NRL al alta: consciente y orientado en TEP. No alteración a la nomina. Correcta ejecución de ordenes simples y complejas. No disartria. No alteración de ppcc. No déficit motor ni sensitivo ni dismetrías. Marcha normal. NIHSS 0.
+
+Exploraciones complementarias:
++ TC cranial amb angioTC TSA i intracranial:
+Estudio Tc cerebral dentro de los límites de la normalidad. Ateromatosis leve de la bifuracion carotidea derecha
+Placa mural calcificada que afecta a la bifurcacion de la carotida izquierda y al segmento proximal de la ACI homolateral, condicionando estensois de un 30%, permeable distalmente.
+Resto sin alteraciones
+
++ ANALÍTICA URG: L 11190, resto sin alteraciones
+
++ ANALÍTICA PLANTA 26.7.17: VSG 8, HG normal, Clucosa normal. HbA1C 5,6%, TG 271mg/dl, Colesterol total 370, <HDL 40, noHDL 329,7, lipoproteïnes PT, funció renal i hepàtia normal. Folats normal, TSH normal.
+
++ Rx tórax: No afectación del marco óseo. Senos costofrénicos libres. No condensaciones ni signos de redistribución vascular.
+
++ Ecocardio TT:
+-	Ventricle esquerre no dilatat, lleugerament hipertròfic amb funció ventricular conservada (FE per Simpson 70%), sense alteracions en la contractilitat segmentària
+-	Aurícula esquerre no dilatada
+-	IM lleugera
+
++ RM cranial: HALLAZGOS:
+No se observan desplazamientos valorables de las estructuras de la línea media supra e infratentoriales. Sistema ventricular de morfología y tamaño normales.
+Cisternas basales y peritronculares libres.
+Parénquima cerebral, cerebeloso y del tronco cerebral sin alteraciones significativas morfológicas ni de señal de resonancia.
+Charnela occisito-cervical sin anomalías valorables. Sinusopatia etmoidal y maxilar izquierda CONCLUSIÓN:
+Exámen craneal dentro de la normalidad.
+Evolució:
+Pacient home de 44 anys, fumador actiu de 1/2 paq/dia (recaiguda fa uns mesos), obesitat, HTA, probable DLP familiar (LDL>300 en últim control). Antecedents de cefalea migranyosa, ictus als 27 anys en forma d'hemiparèssia dreta recuperada. No va acudir a controls ni va completar estudi segons refereix, cardiopatia isquèmica, angor, col.locació de STENT fa 4 anys. MAL cumpliment de medicació i de seguiment a consultes. Treballa de mecànic. mRS 0.
+
+Consulta per presentar des del despertar el matí del 24.7.17 a les 7h sensació de tenir la cara inflada amb hipoestèssia en hemicara dreta fins a zona laterocervical posterior dreta. Aproximadament a les 11h mentre treballava s'afegeix visió borrosa en hemicamp dret. Des d'ahir al vespre cefalea d'inensitat lleu-moderada, refereix que sol tenir cefalea cada 3-4 dies. No acompanyada d'aura ni de focalitat NRL habitual. Únic episodi de focalitat NRL als 27 anys.
+
+Consulta a URG a les 12:20. S'activa codi ictus a les 12:35. Es realitza TC cranial + angioTC a les 12:50.
+
+A l'exploració neurològica destaca hipoestèssia en hemicara dreta, sense altres focalitats, NIHSS 1. Es desestima trombolisi ev per tractar-se de clínica del despertar i es desetima tractament intrarterial per absència d'oclusió de gran vas.
+Es comenta amb UCI per a ingrés a unitat d'ictus. Durant l'estància a UCI resta asimptomàtic.
+
+Durant l'ingrés a Unitat d'ictus es manté en ritme sinusal, tensions ben controlades. No presenta incidències. Resta asimptomàtic en les següents hores. L'angioTC mostra ateromatosi lleu, RM cranial dins de la normalitat, ecocardiograma sense alteracions significatives. És valorat per equip de Risc Vascular (Dr. _NAME_) i per nutrició. Es reinicia tractament i es cita a consultes per a control. S'insisteix en necessitat de bon cumpliment terapèutic i necessitat de control a consultes.
+
+Orientació diagnòstica:
+-	AIT
+-	Factores de riesgo vascular
+-	Enfermedad vascular
+
+Plan:
+Rosuvastatina 40mg (2 comp de Provisacor 20 ) Ezetimibe (ezetrol o absorcol) 1comprimido/día Resta de tractament igual.
+Acudir a CCEE ARV con analítica previa
+Acudir a CCEE de neurología el día que lo citen
+
+
+
+Tipus d'ingrés:	Urgent
+Motiu d'alta:	Alt.Mèd.Domicil
+
+Metge Adjunt:	_NAME_	Nº Col·legiat Adjunt:
+
+_ID_
+Servei:	NEUUOHMB Neurologia	Data informe:  28.07.2017
+
+Pàgina 1 de	4
+Data i hora d'impressió:
+28.07.2017 15:49:09

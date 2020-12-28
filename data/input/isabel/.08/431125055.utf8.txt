@@ -1,0 +1,111 @@
+I.CLINIC DE NEUROCIÈNCIES NEUROLOGIA
+_NAME_	NHC: _ID_
+
+
+Sexo/Sexe: Fem.	Fecha nac./Data naix.: _DATE_	Edad/Edat: 83 años Dirección/Adreça: _LOCATION_	CP: _LOCATION_
+Municip. (Prov.): _LOCATION_  ABS:_SS_	Tel.:_CONTACT_
+As.: SERVEI CATALA DE LA SALUT	CIP: _ID_	NASS: _ID_
+Nº epis.: _ID_	Tipo/Tipus: HOSPIT.	Inici.: 12.10.2017
+Serv: NEUROLOGIA	UO Enf.: G064 SALA G DE NEUROLOGIA	Hora: 11:33:18
+Facult. de ref.: _NAME_
+
+
+
+
+Tipo ingreso/Tipus ingrés: Urgent	Motivo/Motiu alta: Hospital Ag.
+Diag.:
+ICTUS ISQUÉMICO ACMI ()
+Proc.:
+TC MULTIMODAL () TC DUAL ()
+TROMBECTOMÍA MECÁNICA () ANALÍTICA SANGUÍNEA ()
+
+
+
+
+INFORME CLÍNICO ALTA / INFORME CLÍNIC ALTA
+
+Motivo de consulta / Motiu de consulta
+Alteración del habla y debilidad de extremidades derechas del despertar
+
+Antecedentes e historia previa / Antecedents i història prèvia
+Antecedentes personales:  Mujer de 83 años sin alergias medicamentosas conocidas ni hábitos  tóxicos. Independiente para las actividades de la vida diaria (mRS: 2).
+*ANTECEDENTES PATOLÓGICOS:
+1.	HIPERTENSIÓN ARTERIAL en tratamiento farmacológico.
+2.	DISLIPEMIA en tratamiento farmacológico.
+3.	DIABETES MELLITUS TIPO 2 en tratamiento con hipoglucemiantes orales.
+4.	FIBRILACIÓN AURICULAR anticoagulada con acenocumarol.
+5.	INSUFICIENCIA CARDÍACA SECUNDARIA A INSUFICIENCIA MITRAL.
+6.	INSUFICIENCIA RENAL CRÓNICA.
+*TRATAMIENTO HABITUAL: omeprazol 20 mg/24h; lorazepam 1 mg/24h; diltiazem 120 mg/24h; metformina 850 mg/24h; espironolactona 100 mg/48h; furosemina 80 mg/24h; bisoprolol 5 mg/24h; acenocumarol según pauta.
+
+Proceso actual / Procés actual
+El 12/10/17 al despertarse a las 6:00h realiza un cuadro de mutismo brusco con inestabilidad y debilidad de extremidades derechas. Última vez vista asintomática el día previo al acostarse en torno a las 23:00h.
+Por dicho motivo acude al _SS_, donde le realizan una analítica sin alteraciones significativas, ECG en FA y TC craneal donde se objetiva hiperdensidad de la arteria cerebral media izquierda (ACMI) sin hipodensidad del parénquima.
+
+Exploración física / Exploració física
+12/10/2017-11:41:00: Frecuencia respiratoria (rpm) 26, Glicemia capilar (mg/dl) 134, PAS (mm Hg) 122, PAD
+(mm Hg) 77, Pulsioximetría (%) 96, Tª axilar (ºC) 35.4. 12/10/2017-15:00:00 : FiO2 (%) 21.
+NRL: consciente. Mutista (no nomina, no repite, obedece 1/2 órdenes sencillas). Reflejo por amenaza derecho abolido. Mirada desviada a la izquierda que llega a línea media. No paresia facial. Hemiparesia braquiocrural (4/5) derecha. Sensibilidad, extinción y negligencia no valorables. NIHSS: 11.
+
+Exploraciones complementarias / Exploracions complementàries
+16/10/2017.
+
+*	TC MULTIMODAL: -TC CRANEAL BASAL: Pérdida de diferenciación corticosubcortical a nivel  insular, temporal y más tenue a nivel frontal izquierdo en relación a infarto cerebral agudo del territorio de la ACM izquierda (ASPECTS 6-7). Leve hipodensidad de la sustancia blanca periventricular y subcortical en relación a microangiopatía crónica. "Dot sign" a nivel de la ACM izquierda.
+-TC PERFUSIÓN: Extenso retraso en la perfusión en el mapa de TTP a nivel fronto- temporo-parietal izquierdo, territorio superficial de la ACM izquierda. Se asocia a una marcada disminución del volumen en los mapas de CBV de predominio a nivel temporal e insular, aunque se observa mismatch significativo a nivel frontal posterior y parietal.
+-ANGIO-TC EXTRA E INTRACRANEAL: Defecto de repleción a nivel M1 distal de la ACM izquierda compatible con oclusión de la misma. Origen fetal de la ACP izquierda. Arco aórtico y segmentos proximales de troncos supraórticos con mínima ateromatosis sin signos de estenosis.
+
+*	ANGIOGRAFÍA: Se realiza punción femoral derecha. Se realiza cateterización selectiva y la primera serie angiográfica confirma la presencia de una oclusión a nivel de M1 izquierda. Se procede al microcateterismo selectivo de arteria ocluida logrando una adecuada posición para realizar trombectomía se realizando 2 pases. En la serie de comprobación final se confirma recanalización TICI 2b. Se realiza cierre del punto de punción femoral derecho mediante cierre mecánico tipo Proglide y vendaje compresivo el cual deberá permanecer por 24 horas, debiendo el paciente mantener inmóvil el miembro inferior derecho por 12 horas siguientes al procedimiento. CONCLUSIÓN: Trombectomía mecánica sin complicaciones: Resumen - Dispositivo de trombectomía utilizado: - Número de pases: 02 - Aspiración Si - Balón carotídeo Si - Complicaciones No - TICI final 2b
+
+*	TC DUAL: No se observan imágenes de sangrado agudo intracraneal ni de extravasación de contraste. Persiste pérdida de diferenciación corticosubcortical a nivel temporal, insular y parte del frontal izquierdos en relación a infarto cerebral agudo, discretamente más evidente que en el estudio previo. Persiste "Dot sign" a nivel de la ACM izquierda.
+
+13/10/2017.
+
+*	ANALÍTICA SANGUÍNEA (_SS_): INR de 2,2 sin otras alteraciones.
+
+*	ANALÍTICA EN LA UNIDAD DE ICTUS HCB: PCR 2.78, Cr 0.84, FG 64, Col 143, LDL 93, HDL 31, homocisteína
+18.6, Fólico 637, VitB12 225, hematimetría, y eje tiroidal sin alteraciones. INR 2.69, Hb1Ac 6.3%.
+
+* EKG: Fibrilacióna auricular con respuesta ventricular controlada.
+
+Evolución / Evolució
+1. ICTUS ISQUÉMICO AGUDO EN EL TERRITORIO DE LA ARTERIA CEREBRAL MEDIA IZQUIERDA (ACMI). OCLUSIÓN SEGMENTO M1 DISTAL. 2. FIBRILACIÓN AURICULAR
+Paciente con FA en tratamiento con sintrom acude por focalidad del despertar en forma de alteración del lenguaje y debilidad de extremidades derechas.
+A su llegada normotensa y afebril. En la exploración neurológica se aprecia síndrome hemisférico izquierdo a expensas de afasia global de predominio motor, mirada desviada a la izquierda, reflejo por amenaza
+
+
+
+derecho abolido y hemiparesia derecha 4/5 (NIHSS: 11). Analítica sanguínea realizada en el _SS_ con INR 2 sin otras alteraciones. ECG en fibrilación auricular con frecuencia ventricular controlada. La neuroimagen muestra: en el TC craneal se aprecian signos precoces de isquemia a nivel frontotemporal e insular izquierdos (ASPECTS 6). En los mapas de perfusión se aprecia un retraso en el TTP en todo el territorio de la ACMI y caida de volumen a nivel profundo y cortical sobre todo temporal, con un mistmach significativo. El angio-TC muestra oclusión a nivel del segmento M1 distal de la ACMI.
+Por ictus del despertar y INR de 2,2 en paciente anticoagulada con sintrom se desestemida fibrinólisis y se procede a trombectomía mecánica. A las 10:45 se realiza el primer pase, consiguiéndose un flujo TICI 2B al segundo pase. Se concluye el procedimiento a las 11:00 sin que la paciente experimente cambios clínicos relevantes. El TC de control no muestra complicaciones hemorrágicas por lo que se inicia heparina sódica sin bolus pasándose posteriormente a dabigatrán dado evento isquémico estando correctamente anticoagulada con sintrom.
+Se trata de un ictus isquémico agudo del despertar en territorio de la ACMI, con oclusión M1 distal, de causa cardioembólica (Fibrilación auricular).
+Durante su estancia en la unidad de Ictus presenta mejoría clínica persistiendo afasia moderada (no nomina ni repite, obedece órdenes simples de manera fluctuante), sin alteraciones a nivel motor ni sensitivo. De esta manera, se decide alta a domicilio con logopedia ambulatoria.
+Al traslado:
+-	NIH: 4
+-	TOAST: Cardioembólico
+-	mRS: 3
+
+Plan terapéutico / Pla terapèutic
+Pradaxa 110 mg/12h Omeprazol cinfa 20 mg/24h Aldactone 100 mg/24h Aldactone 100 mg/24h Metformina cinfa 850 mg/24h Bisoprolol ratiopharm 5 mg/24h Lorazepam normon 1 mg/24h Metformina cinfa 850 mg/24h Furosemida cinfa 40 mg/24h
+
+Otras recomendaciones / Altres recomanacions
+Logopedia ambulatoria. Control de la fibrilación auricular por cardiólogo de zona y seguimiento de afasia por neurólogo de zona.
+
+
+
+Firma/Signatura1: _NAME_	Firma/Signatura2: _NAME_ Categoría: Resident 2	Categoría: Consultor/a 1
+Nº Matrícula _SS_: _ID_	Nº Matrícula _SS_: _ID_
+
+Fecha/Data Informe: 19.10.2017
+Hora Informe: 16:07:08
+
+Docum.: _ID_
+Hist. Clínica: _ID_
+El _SS_ ha incorporado sus datos al Fichero de Pacientes, para tratarlos con fines sanitarios.
+Puede ejercer sus derechos de acceso, rectificación, cancelación y oposición, así como obtener mas información en la Unidad de Atención al Cliente.
+Vers. 00
+Pag. 2 de
+3
+Episod.: _ID_
+_SS_ ha incorporat les seves dades al Fitxer de Pacients, per a tractar-los amb finalitats sanitàries. Pot exercir els seus drets d'accés, rectificació, cancel·lació i oposició, i obtenir més informació a la Unitat d'Atenció al Client.
+_SS_
+_LOCATION_) _LOCATION_) Tel. _CONTACT_ Fax _CONTACT_
+http://_CONTACT_/

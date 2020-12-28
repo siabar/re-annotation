@@ -1,0 +1,150 @@
+_LOCATION_ Tel. _CONTACT_
+_CONTACT_
+Informe Seguiment Hospitalització
+_NAME_
+HC: _ID_
+
+>
+
+Informe de Cuidados Intensivos
+
+
+Adreça: _LOCATION_	Data naix.: _DATE_ Població: _LOCATION_	Sexe: FEMENI
+Provincia: _LOCATION_	CIP: _ID_
+País: _LOCATION_	NASS: _ID_
+Telèfon: _CONTACT_ / _CONTACT_	DNI o Tarja Residència: _ID_
+
+
+Servei: Medicina Intensiva	Data ingrés a URG:
+Unitat clínica: Unitat Semicrítics	Data hospitalització: 18/02/2017 16:27
+Tipus d'ingrés: Trasllat Extern
+Proveïdor de Serveis: Servei Català de la Salut
+
+
+
+Diagnòstic principal:
+
+434.11 AVC CARDIOEMBOLIC Crisis hipertensiva
+
+Diagnòstics Secundaris:
+
+427.31 ACXFA
+
+Procediments:
+
+87.03 TAC CEREBRAL
+90.59 ANALITICA SANG
+
+
+
+
+
+Pacient de 85 anys d'edat que ingressa per ICTUS isquèmic
+
+Antecedents:
+
+Malalties prèvies:
+
+HIPERTENSIÓ ARTERIAL (De más de 10 años de evolución, en ttm con 3 fármacos.)
+ASMA (de más de 10 años de evolución. En ttm con montelukast 10mg/24h, budesonida nasal, spiriva, salmeterol fluticasona (seretide) y Salbutamol.)
+DEPRESSIO MAJOR (En ttm con Amitriptilina.
+
+Al·lèrgies:
+
+ACID SALICILIC.
+
+Hàbits tòxics:
+
+No hábitos tóxicos de interés
+
+Medicació prèvia:
+
+
+omeprazol 20mg/24h, lorazepam 1mg/24h, Montelukast 10mg/24h, Ramipril 5/HCTZ 25mg 1/24h, Amlodipino 2.5mg/24h, Budesonida nasal 100mcg/6h, Spiriva 18mcg 1inh/24h, Salmeterol flutixasona (seretide) 2inh/12h, Salbutamol 100mcg 2/8h. Amitriptilina 10mg/24h.
+
+Antecedents socials i professionals:
+
+Situació social: Vive con sus hijos y sus nietos
+
+Història Actual:
+
+El dia 17/2/17 a les 21:40 inicia de forma sobtada hemiplegia i hemianestèsia esquerra. És valorada al nostre centre, documentant-se Sd hemisfèric esquerre NIHSS 22. S'inicia ttm intravenós i es remet a _SS_ per ttm mecànic d'ictus isquèmic. Va requerir ttm amb labetalol ev per HTA. Es trasllada sense incidències i a l'arribada al _SS_ persisteixen els Sd hemisferi esquerre sense canvis. Durant el trasllat presenta ACxFA no conegut en el registre ECG.
+
+A l'arribada a _SS_, pacient Hipertensa 190/70 amb exploració neurològica inicial que mostra Sd hemisfèric esquerra completa. Destaquen també hematomes a hemitòrax i braç esquerres per caiguda. La neuroimatge mostra TC basal amb discreta hipodensitat insular dreta, sense hipodensitat cortical (ASPECTS 10). TC perfusió que mostra retràs del TTP a territori posterior de ACMD. AngioTC mostra grans vasos sense ateromatosis, amb oclusió ACMD- M2 proximal.
+La pacient mostra milloria progressiva dels símptomes persistint només parèsia facial esquerra lleu i disà rtria. Davant la regressió espontània es desestima trombectomia mecànica. Es realitza TC de control que mostra lleu transformació hemorràgica en el llit de l'infart (IH-2), pel que s'aplaça l'inici d'anticoagulació i es trasllada al nostre centre per control evolutiu.
+
+Exploració física:
+
+A la seva arribada a _SS_:
+FR 21 rpm, TA 153/74, SatO2 95%. Afebril.
+NRL: alerta, orientada. Llenguatge amb fluència, repetició i nominació conservada. Disàrtria. Campimetria per amenaça amb hemianòpsia homònima esquerra. Mirada conjugada desviació reversible de la mirada a la dreta. Asimetria facial, resta de nervis cranials conservats. Balanç muscular amb heparèisa dreta facio(inferior, greu)- braqui (1/5)-crural (1/5). No retira extremitats al dolor. Dismetríes no valorables.
+Hemigligència esquerra. NIHSS 20.
+
+Exploració física ingrés a semicrítics (18/2/17): HDME, BEG, afebril.
+NRL: Funcions superiors conservades. C i O en les 3 esferes, GSC 15. Atenta. Llenguatge amb fluència, repetició i nominació conservada. No disàrtria. Campimetria per confrontació normal.
+-	Parells cranials: pupil·les isocòriques normoreactives a la llum. Moviments oculars extrínsecs normals sense restriccions ni diplòpia. No ptosis. V parell cranial normal. Lleu asimetria facial esquerra.
+-	Motor: parèsia ESE 4/5, EIE 4/5.
+-	Sensibilitat conservada 5/5.
+-	Coordianació. No dismetries ni disdiadocinesies. No explorat signe de Romberg ni marxa.
+-	No signes meningis. No rigidesa nucal ni altres signes d'irritació meníngia.
+
+Resum proves complementàries:
+
+Laboratori:
+
+
+18/2/17: Leucòcits 9.47 x 10^9/L, Hematies *3.73 x 10^12/L, Hemoglobina *111 g/L, Hematòcrit *0.34 L/L, Volum corpuscular mig 91.7 fL, Hemoglobina corpuscular mitja 29.8 pg, Conc. Hb. corpuscular mitja 325 g/L, Índex dispersió hematies *14.6 %, Plaquetes 284 x 10^9/L, Volum plaquetar mig 11.5 fL, Índex dispersió de plaquetes 13.6 fL, Plaquetòcrit 0.033 L/L, Neutròfils (%) *48.6 %, Neutròfils 4.6 x 10^9/L, Limf òcits (%) 39.2 %, Limfòcits 3.71 x 10^9/L, Eosinòfils (%) 2.1 %, Eosinòfils 0.2 x 10^9/L, Basòfils (%) 0.6
+%, Basòfils 0.06 x 10^9/L, Monòcits (%) 9.5 %, Monòcits 0.9 x 10^9/L, Temps protrombina 1.02 ratio, T.Tromboplastina parcial activ 0.94 ratio, Glucosa *148 mg/dL, Urea *66 mg/dL, Creatinina *1.62 mg/dL, Sodi 140 mEq/L, Potassi *5.2 mEq/L
+
+Imatge:
+
+TAC/AngioTAC H. _SS_ (17/2/17):
+-	TC perfusión: Alargamiento de los tiempos de transito medio y tiempo pico, con una disminución en los mapas de flujo y sin repercusión en los mapas de volumen de topografia frontoparietotemporal e insular derecha y zonas fronteres vasculares ACA/ACM y ACM/ACP derechas.
+-	AngioTC
+Oclusión de M1 distal de la ACM derecha con escasa circulación colateral distal. Normal disposición de los TSA.
+Ambas arterias carótida común, carótida interna y externa sin alteraciones.
+Hipoplasia de la arteria vertebral izquierda. Ambas arterias vertebrales. permeables con flujo ascendente. Polígono de Willis normoconfigurado, sin alteraciones, con ambas cerebrales anteriores, media izquierda, posteriores permeables, sin observarse obtrucciones proximales.
+
+-	Conclusión: Infarto isquémico hiperagudo en territorio de la ACM derecha con oclusión a nivel de M1 distal derecha. Área de "mistmatch" frontoparietotemporal e insular derecha y zonas fronteras vasculares ACA/ACM y ACM/ACP derechas en el estudio de perfusión.
+Signos difusos de atrofia cerebral y leucoencefalopatía hipóxica.
+
+TC cranial basal (_SS_):
+-	TC cranial basal: no s'observa hemorràgia intra ni extraaxial. Parènquima cerebral sense alteracions densitomètriques. Diferenciació cortico-subcortical conservada. ASPECTS 10. Estructures de la línia mitja centrades. Sistema ventricular de tamany i morfologia normal. Cisternes basals lliures.
+-	TC perfusió: augment del TTP en territori temporal dret, sense alteracions en els mapes de volum. Mismatch significatiu > 200%,
+-	Angio TC extra i intracranial: defecte de replecció a M2 proximal dreta. Resta de principals artèries cerebrals intracranials permeables (ACAs, M1 de ACMs i resta de M2 i ACPs). Sistema vertebrobasilar permeable. Arc aòrtic i segments proximals de troncs supraaòrtics permeables. Origen, bifurcació i segments cervicals de l'artèria caròtida interna permeables. Plaques d'ateromatosis calcificades a bifurcació dreta i plaques mixtes a bifurcació esquerra, sense estenosis significatives.
+
+Altres proves:
+
+ECG: ACxFA amb FC mitja de 80 bpm.
+
+Evolució i comentaris:
+
+3er dia ingrés per AVC isquémic ACM dreta
+Refereix bon estat general. Assimptomàtica. Dieta ben tolerada. Afebril. EF: BEG.
+
+
+-	NRL: Conscient. Orientada en persona, parcialment en espai i temps. Lleugera PFSN esquerre. Resta de PPCCs normals. No alteracions del llenguatge. No alteracions motores ni sensitives. No extinció visual o táctil. Marcha no explorada.
+-	AC: Arrítmic, no asuculto bufs ni frecs. Ben perfosa. Pols pedis presents i simètrics.
+-	RESP: Eupneica, sense treball respiratori. MVC sense sobreafegits.
+-	ABD: Bona tolerancia oral. Tou i depressinle. No dolorós a la palpació. No signes irritació peritoneal. Hematoma lumbar esquerre estable respecte dies previs.
+
+Per probolemes:
+1)	AVC ACM D
+Bona evolució clinica després del tractament fibrinolític. Actualment a l'exploració unicament lleu paralsis facial supranuclear esquerre lleu, sense altres focalitats. Darrer TAC de control lleu transformació hemorragica en el llit de l'infart. Donada estabilitat clínica i episodi >48h iniciem anticoagulació profilà ctica.
+Hemodinamicament estable amb tractament hipotensor, respiratoriament amb Sat 02 correctas al aire. Ha iniciat sedestació amb bona tolerancia.
+
+2)	ACxFA
+No filiada, actualmente frecuencies controlades entorn a 90. Donada l'edat de la pacient es decideix no anticoagular. Iniciem tractamet antiagregant, la pacient refereix que previament va tenir intolerancia a AAS però no s'ha documentat cap reacció al.lergica. Es decideix iniciar tractament amb AAS donat que no hi ha contraindicacions clares, i en cas d'intolerancia es valorar canviar a clopidogrel.
+
+Plà:
+-	Iniciada anticoagulació profilàctica.
+-	Iniciada antiagregació per AcxFA.
+-	Altable a planta per evolució.
+
+Tractament:
+
+Fàrmacs: monodosi
+_LOCATION_, 20/02/2017
+_NAME_	_NAME_
+(Nº col _ID_)	(Nº col _ID_
+Nom i cognoms metge: _NAME_ (Nº col: _ID_Pàg.: 1/4

@@ -1,0 +1,168 @@
+T1	_SUG_Lateralizacion 0 1	I
+T3	Fecha_de_ingreso 329 339	25.11.2017
+#3	AnnotatorNotes T3	2017-11-25
+T4	_SUG_Lateralizacion 392 393	E
+T5	HORA 400 405	13:46
+#5	AnnotatorNotes T5	13:46
+T6	Hemorragia_cerebral 485 493	HEMATOMA
+T9	Lateralizacion 508 515	DERECHO
+T10	_SUG_Hemorragia_cerebral 517 525	HEMATOMA
+T13	mRankin_previa 887 893	mRS: 2
+T14	_SUG_Etiologia 971 983	HIPERTENSIÓN
+T16	_SUG_TAC_craneal 1191 1194	TAC
+T18	FECHA 1383 1387	2015
+#18	AnnotatorNotes T18	2015-UNDEF-month-UNDEF-day
+T19	FECHA 1646 1653	03/2017
+#19	AnnotatorNotes T19	2017-03-UNDEF-day
+T20	FECHA 1762 1769	30/3/17
+#20	AnnotatorNotes T20	2017-03-30
+T21	FECHA 1941 1949	09/05/17
+#21	AnnotatorNotes T21	2017-05-09
+T22	_SUG_Lateralizacion 2055 2064	izquierda
+T24	Fecha_inicio_sintomas 2222 2227	24/11
+#24	AnnotatorNotes T24	2017-11-24
+T25	_SUG_Localizacion 2502 2511	posterior
+T26	FECHA 2626 2636	25/11/2017
+#26	AnnotatorNotes T26	2017-11-25
+T27	HORA 2637 2642	14:00
+#27	AnnotatorNotes T27	14:00
+T28	FECHA 2737 2747	25/11/2017
+#28	AnnotatorNotes T28	2017-11-25
+T29	HORA 2748 2753	15:00
+#29	AnnotatorNotes T29	15:00
+T30	FECHA 2781 2791	25/11/2017
+#30	AnnotatorNotes T30	2017-11-25
+T31	HORA 2792 2797	19:30
+#31	AnnotatorNotes T31	19:30
+T32	FECHA 2833 2843	26/11/2017
+#32	AnnotatorNotes T32	2017-11-26
+T33	HORA 2845 2850	23:00
+#33	AnnotatorNotes T33	23:00
+T34	_SUG_Etiologia 2884 2896	hipertensión
+T35	_SUG_Lateralizacion 3219 3226	derecha
+T36	_SUG_Lateralizacion 3362 3363	I
+T37	_SUG_Lateralizacion 3364 3365	D
+T38	_SUG_Lateralizacion 3392 3401	izquierdo
+T39	_SUG_Lateralizacion 3443 3452	bilateral
+T41	TAC_craneal 3481 3492	TAC craneal
+T42	Fecha_TAC_inicial 3494 3504	25.11.2017
+#42	AnnotatorNotes T42	2017-11-25
+T43	_SUG_Hemorragia_cerebral 3507 3515	Hematoma
+T44	_SUG_Localizacion 3516 3521	lobar
+T45	_SUG_Localizacion 3522 3529	frontal
+T46	_SUG_Lateralizacion 3530 3537	derecho
+T47	_SUG_Localizacion 3748 3756	parietal
+T48	_SUG_Lateralizacion 3757 3765	derechos
+T49	_SUG_Localizacion 3782 3801	parieto-occipitales
+T50	_SUG_Lateralizacion 3802 3812	izquierdos
+T51	_SUG_Lateralizacion 3888 3895	derecho
+T52	_SUG_Localizacion 3948 3959	ventricular
+T53	_SUG_Lateralizacion 4091 4092	E
+T54	FECHA 4107 4117	25.11.2017
+#54	AnnotatorNotes T54	2017-11-25
+T55	_SUG_Localizacion 4152 4159	troncos
+T57	_SUG_Arteria_afectada 4253 4280	arterias carótidas internas
+T58	_SUG_Arteria_afectada 4290 4310	arterias vertebrales
+T60	_SUG_Arteria_afectada 4387 4414	arterias carótidas internas
+T61	_SUG_Lateralizacion 4659 4664	ambas
+T63	_SUG_TAC_craneal 4673 4684	TAC craneal
+T64	_SUG_TAC_craneal 4712 4714	TC
+T65	FECHA 4719 4727	25/11/17
+#65	AnnotatorNotes T65	2017-11-25
+T66	HORA 4729 4730	3
+#66	AnnotatorNotes T66	3:00
+T67	_SUG_Hemorragia_cerebral 4746 4754	hematoma
+T68	_SUG_Localizacion 4755 4760	lobar
+T69	_SUG_Localizacion 4761 4768	frontal
+T70	_SUG_Lateralizacion 4769 4776	derecho
+T71	_SUG_TAC_craneal 4912 4914	TC
+T72	_SUG_Localizacion 4972 4983	ventricular
+T74	_SUG_TAC_craneal 5100 5111	TAC craneal
+T75	FECHA 5124 5134	26.11.2017
+#75	AnnotatorNotes T75	2017-11-26
+T76	_SUG_TAC_craneal 5152 5154	TC
+T77	FECHA 5159 5167	25/11/17
+#77	AnnotatorNotes T77	2017-11-25
+T78	_SUG_Hemorragia_cerebral 5185 5193	hematoma
+T79	_SUG_Lateralizacion 5221 5228	derecho
+T80	_SUG_TAC_craneal 5247 5249	TC
+T81	_SUG_Hemorragia_cerebral 5268 5276	Hematoma
+T82	_SUG_Localizacion 5277 5282	lobar
+T83	_SUG_Localizacion 5283 5290	frontal
+T84	_SUG_Lateralizacion 5291 5298	derecho
+T85	_SUG_Hemorragia_cerebral 5430 5438	hematoma
+T86	_SUG_Lateralizacion 5601 5608	derecha
+T87	_SUG_Localizacion 5663 5671	parietal
+T88	_SUG_Lateralizacion 5672 5681	izquierdo
+T89	_SUG_Localizacion 5691 5702	ventricular
+T90	_SUG_Hemorragia_cerebral 5967 5975	HEMATOMA
+T91	_SUG_Localizacion 5976 5981	LOBAR
+T92	_SUG_Localizacion 5982 5989	FRONTAL
+T93	_SUG_Lateralizacion 5990 5997	DERECHO
+T94	_SUG_Hemorragia_cerebral 5999 6007	HEMATOMA
+T95	_SUG_Lateralizacion 6036 6043	DERECHO
+T96	_SUG_Hemorragia_cerebral 6045 6055	HEMORRAGIA
+T97	_SUG_Lateralizacion 6096 6103	DERECHA
+T98	_SUG_Lateralizacion 6134 6135	E
+T99	_SUG_Etiologia 6136 6148	HIPERTENSIÓN
+T100	_SUG_Etiologia 6287 6297	hipertensa
+T101	_SUG_Lateralizacion 6452 6459	derecha
+T102	_SUG_Lateralizacion 6503 6504	I
+T103	_SUG_Lateralizacion 6505 6506	D
+T104	_SUG_Etiologia 6656 6668	hipertensión
+T105	_SUG_Hemorragia_cerebral 6809 6826	ictus hemorrágico
+T106	_SUG_Ictus_isquemico 6809 6814	ictus
+T108	_SUG_TAC_craneal 6838 6848	TC craneal
+T109	_SUG_Hemorragia_cerebral 6861 6869	hematoma
+T110	_SUG_Localizacion 6870 6875	lobar
+T111	_SUG_Localizacion 6876 6883	frontal
+T112	_SUG_Lateralizacion 6884 6891	derecho
+T113	_SUG_Localizacion 7102 7110	parietal
+T114	_SUG_Lateralizacion 7111 7119	derechos
+T115	_SUG_Localizacion 7136 7155	parieto-occipitales
+T116	_SUG_Lateralizacion 7156 7166	izquierdos
+T117	_SUG_Lateralizacion 7242 7249	derecho
+T118	_SUG_Hemorragia_cerebral 7385 7393	hematoma
+T119	_SUG_Etiologia 7394 7406	hipertensivo
+T120	_SUG_Ictus_isquemico 7543 7548	Ictus
+T121	HORA 7623 7625	12
+#121	AnnotatorNotes T121	12:00
+T122	_SUG_Hemorragia_cerebral 7771 7779	hematoma
+T124	_SUG_TAC_craneal 8121 8123	TC
+T125	_SUG_NIHSS 8403 8411	NIHSS 33
+T126	_SUG_TAC_craneal 8424 8427	TAC
+T127	_SUG_Hemorragia_cerebral 8457 8465	hematoma
+T128	_SUG_Lateralizacion 8479 8486	derecho
+T129	_SUG_Hemorragia_cerebral 8534 8542	hematoma
+T130	_SUG_Localizacion 8543 8548	lobar
+T131	_SUG_Localizacion 8549 8556	frontal
+T132	_SUG_Lateralizacion 8796 8797	e
+T133	Fecha_de_alta 8928 8952	28 de Noviembre del 2017
+#133	AnnotatorNotes T133	2017-11-28
+T134	FECHA 9392 9402	28.11.2017
+#134	AnnotatorNotes T134	2017-11-28
+T135	HORA 9417 9422	19:02
+#135	AnnotatorNotes T135	19:02
+T136	_SUG_Lateralizacion 9576 9584	derechos
+T137	_SUG_Lateralizacion 9865 9870	drets
+T138	SECCION_TIPO_DE_INGRESO 414 439	Tipo ingreso/Tipus ingrés
+T139	SECCION_MOTIVO_DE_INGRESO 620 658	Motivo de consulta / Motiu de consulta
+T140	SECCION_ANTECEDENTES 696 758	Antecedentes e historia previa / Antecedents i història prèvia
+T141	SECCION_ANTECEDENTES_PERSONALES 759 782	Antecedentes personales
+T143	SECCION_TRATAMIENTO_HABITUAL 2066 2086	TRATAMIENTO HABITUAL
+T144	SECCION_PROCESO_ACTUAL 2165 2195	Proceso actual / Procés actual
+T145	SECCION_EXPLORACION_FISICA 2586 2624	Exploración física / Exploració física
+T146	SECCION_EXPLORACIONES_COMPLEMENTARIAS 5729 5789	Exploraciones complementarias / Exploracions complementàries
+T147	SECCION_EVOLUCION 5943 5963	Evolución / Evolució
+T148	SECCION_TRATAMIENTO_AL_ALTA 9139 9172	Plan terapéutico / Pla terapèutic
+T2	SECCION_MOTIVO_DEL_ALTA 448 465	Motivo/Motiu alta
+T11	SECCION_DIAGNOSTICOS 475 479	Diag
+T12	SECCION_PROCEDIMIENTOS 593 597	Proc
+#1	AnnotatorNotes T13	2
+T15	SECCION_ANTECEDENTES_QUIRURGICOS 2005 2031	INTERVENCIONES QUIRÚRGICAS
+T23	Localizacion 6008 6022	PARENQUIMATOSO
+T40	Hora_de_alta 8959 8964	17:30
+#4	AnnotatorNotes T40	17:30
+T56	SECCION_RECOMENDACIONES 9176 9220	Otras recomendaciones / Altres recomanacions
+T59	SECCION_ANTECEDENTES_PATOLOGICOS 942 966	ANTECEDENTES PATOLÓGICOS
+T62	Localizacion 494 507	LOBAR FRONTAL

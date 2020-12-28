@@ -1,0 +1,126 @@
+_LOCATION_ Tel. _CONTACT_
+e-mail: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 78 Anys
+NIF/DNI: _ID_Informe d'alta d'hospitalització
+14:12:15
+29.06.2017
+_LOCATION_
+_SS_ CIRURGIA CARDÍACA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_; _CONTACT_; _CONTACT_; _CONTACT_
+AGUTS 12.06.2017
+_NAME_; _NAME_
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+DISECCIÓN AÓRTICA TIPO A
+
+ANTECEDENTS
+Mujer de 78 años, sin alergias medicamentosas conocidas ni hábitos tóxicos. Independiente para las actividades básicas de la vida diaria.
+
+ANTECEDENTES PATOLÓGICOS: Hipertensión arterial en tratamiento, refiere buenos controles.
+Dislipemia en tratamiento, con último control en Nov-16 con colesterol 228 mg/dL, c-HDL 62 mg/dL, c-LDL 149 mg/dL, triglicèrids 80 mg/dL. Niega diabetes. Asma bronquial en tratamiento broncodilatador habitual, refiere que hace más de 3 años que no presenta ninguna exacerbación; última espirometría en Junio-2015 muestra FVC 2,54 (88%), FEV1 1,72 (87%), FEV1/FVC 66%. Niega gastropatía. Colitis isquémica diagnosticada a raíz de rectorragias en Julio-2016; se realizó colonoscopia que muestra un pólipo en fondo de saco cecal, compatible con adenoma tubular, y en colon descendente se detecta mucosa compatible con colitis isquémica. Microalbuminuria con función renal conservada. Niega clínica de claudicación intermitente. Aplastamiento de L1 en 2014 a raíz de caída accidental, tratada de manera conservadora. Síndrome ansioso-depresivo en tratamiento. Incontinencia urinaria de esfuerzo en tratamiento. Intervenciones quirúrgicas: Faquectomía.
+
+Historia Cardiológica: En cursos del CAP consta taquicardia supraventricular en 2010 (sin más información), y en este contexto se había iniciado clopidogrel. Por auscultación de soplo cardíaco en 2010 se realizó  ecocardiograma que  mostraba VI no dilatado, ligeramente  hipertrófico, con FE 70%, sin alteraciones segmentarias de la contractilidad, AI ligera-moderadamente dilatada, VD normal; mínima IM, ligera IAo central, alteración diastólica tipo I. Niega haber presentado nunca dolor torácico, disnea, ortopnea o palpitaciones.
+
+MEDICACIÓ HABITUAL
+Alprazolam 0.25mg a demanda, Clopidogrel 75mg/24h, Diltiazem 60mg/12h, Enalapril 20mg/12h, Ferro 100mg/24h, Ideos 1000mg/880UI/24h, Omeprazol 20mg/24h, Paracetamol a demanda, Salbutamol a demanda, Sertralina 50mg/24h, Symbicort 160/4.5mg 1inh/12h, Vesicare 5mg/12h, Hidroferol 0.266mg/2 semanas.
+
+PROCÉS ACTUAL
+Habiendo estado asintomática los días previos, el 12.06.17 sobre las 10h, su marido se la encuentra en el suelo desorientada, confusa y con lenguaje incoherente, aparentemente sin focalidad motora (deambula hasta el baño). La familia describe pálidez cutánea y un vómito. Avisan al SEM, que a su valoración activan el código ictus a las 10:38h. A su llegada a nuestro centro, consciente, TA 168/105mmHg, FC 62x'. Es valorada por Neurología que objetivan disartria, lenguaje repetitivo, uso de parafasias, hemianopsia homónima derecha y asimetría facial. Se orienta como un ictus isquémico y se realiza ANGIO-TC CRANEAL que no muestra oclusionea agudas ni lesiones isquémicas o hemorrágicas agudas cerebrales, pero se aprecia disección a nivel de aorta ascendente, por lo que se amplia a ANGIO-TC TORÁCICO Y ABDOMINAL que muestra disección de aorta tipo A desde la raíz aórtica hasta distal a la arteria subclavia izquierda, con trombosis parcial y permeabilidad de la luz falsa que se extiende hasta troncos supraaórticos. Posteriormente recupera la focalidad neurológica add integrum, aunque con amnesia de lo ocurrido en las últimas horas, y refiere clínica de dolor centrotorácico opresivo, no irradiado, sin
+
+Informe d'alta d'hospitalització
+
+
+
+
+vegetatismo asociado en el momento actual. Función renal conservada. El ECG muestra bradicardia sinusal sin alteraciones agudas de la repolarización. Se administran 4cc de cloruro mórfico y se traslada a la Unidad Coronaria.
+
+EXPLORACIÓ FÍSICA
+
+FC	62 bpm Tªaxi  ºC
+FR	rpm Tªrec  ºC
+TA s	168 mmHg SAT O2  %
+TA d   105 mmHg Pes Kg
+
+Aceptable estado general. Consciente y orientada. Bien perfundida. Eupneica en reposo, tolera decúbito.
+MVC bilateral. SCR sin soplos, roce ni 3R. Sin signos de ICCV. Pulsos periféricos presentes y simétricos. Pulsos centrales débiles, sin soplo. Abdomen depresible, no doloroso a la palpación, sin masas ni megalias. Sin focalidad neurológica a nuestra valoración.
+
+EXPLORACIÓ COMPLEMENTÀRIA
+ECG: RS a 50x', PR 120ms, aQRS 0º, QRS estrecho, con signos de sobrecarga sistólica con ST rectificado y ondas T negativas asimétricas en cara lateral.
+
+ANALÍTICA:  Hemograma:  leucocitos  10.900  (N  68.2%,  L  21.4%),  Hb  12.4  g/dL,  Htc  37.5%,  plaquetas
+225.000/mcL. Hemostasia: TP 80%, fibrinógeno 488 mg/dL, rTTPA 0.81. Bioquímica: glucosa 125 mg/dL, urea 67
+mg/dL, creatinina 1.25 mg/dL, Na 139 mmol/L, K 4.1 mmol/L, PCR 32.8 mg/L.
+
+EVOLUCIÓ CLÍNICA
+Durante su estancia en la Unidad Coronaria queda asintomática para dolor torácico con analgesia convencional. Se mantiene sin signos de IC y sin cambios en la exploración neurológica. Se realiza ECOCARDIOGRAMA que muestra VI no dilatado (58/39mm), ligeramente hipertrófico (11/10mm), FE 57% con acinesia localizada en segmento inferolateral basal; AI ligeramente dilatada; raíz aórtica dilatada (43mm a nivel de senos) con aorta ascendente severamente dilatada (55mm), además en zona posterior de la raíz se observa una imagen de doble contorno; IAo moderada; sin derrame pericárdico. Se valora conjuntamente con Cirugía Cardíaca y se considera tributaria de intervención quirúrgica emergente.
+
+INTERVENCIÓN QUIRÚRGICA: El día 12/06/2017 se realiza de forma emergente y bajo CEC y con bajada de temperatura a 28C sustitución de aorta ascendente con prótesis Hemashield 28 mm.
+Hallazgos: Axilar de buen calibre sin hematoma externo donde se canula. Aorta ascendente con gran hematoma que desplaza el corazón a diafragma. Exploración bajo hipotermia 28C. Válvula aortica tricuspide, se encuentra una rotura intimal en raiz aórtica entre seno derecho e izdo, cerca de comisura y de plano valvular/ostium derecho, respetandose los mismos. Se encuentra otra rotura de intimal entre la carótida izquierda y la subclavia izda, el cual se repara mediante sutura continua de 5/0 mediante parada circulatoria.
+Sin incidencias.
+Tiempo de CEC: 175 Tiempo de clampaje: 75 Tiempo de parada 34 min (20 min Protección cerebral) Dra. _NAME_.
+
+Evolución en _LOCATION_ (12/06/2017-19/06/2017): Postoperatorio inicial con inestabilidad hemodinámica, requiriendo volumen, noradrenalina y dobutamina hasta el tercer día. En ritmo sinusal y con dos episodios de FA revertida con amiodarona. Empeoramiento de la función renal (creatinina máxima de 2) que se resuelve. Extubada al tercer día, con diversos episodios de broncoespasom. Sin focalidades neurológicas.
+
+Informe d'alta d'hospitalització
+
+
+
+
+
+Evolución en UPAC y planta convencional (19/06/2017-fecha del alta): Se mantiene hemodinámicamente estable con tendencia a la hipertensión que requiere ajuste de antihipertensivos. Presenta un tercer episodio de FA que revierte con amiodarona. Ante la sospecha de una ITU se empieza tratamiento con ciprofloxacino y se solicitan urocultivos donde crece E.coli resistenten a quinolonas y E.faecalis., por lo que se cambia el antibiótico y se inicia cefuroxima vo. Se pueden retirar drenajes por débito serohemático escaso. Esternón estable, herida en correcta fase de cicatrización. Tolera deambulación.
+En la Telemetria destacan episodios de taquicardia supraventricular por lo que al alta se deja amiodarona cada 12h ya que al ser broncopata y portar calcioantagonistas queda contraindicado el uso de betabloqueantes, a valorar según evolución.
+
+Exploraciones al alta:
+-	Analítica: Leucocitos 11700 Hemoglobina 8.9 Hematocrito 27% Plaquetas 302000 Urea 65 Creatinina 0.99 Sodio
+132 Potasio 3.9
+-	Rx torax: Cambios post-esternotomía media. Botón aórtico con marcada calcificación. Marcada elongación aórtica, con posible dilatación de la aorta descendente. Silueta cardíaca aumentada de tamaño.Leve derrame pleural bilateral. Sin otros cambios significativos.
+-	ETT: VI severamente hipertrófico no dilatado con funcion sistólica global conservada, sin alteraciones segmentarias. Se aprecia imagen de doble contorno a nivel del seno no coronariano. Cayado aórtico no dilatado. Insuficiencia aórtica ligera-moderada (II). Derrame pericárdico en saco anterior (1.3 cm) y saco posterior (0.5 cm).
+
+Ante dicha situación de estabilidad clínica se decide alta a domicilio para continuar con la recuperación.
+
+DIAGNÒSTICS
+Disección aórtica tipo A Insuficiencia aórtica moderada Accidente isquémico transitorio Hipertensión arterial
+Dislipemia Asma bronquial
+Colitis isquémica
+
+PROCEDIMENTS
+Sustitución de aorta ascendente con tubo Hemashield 28 mm. CEC
+Oxigenador de bomba Protección cerebral
+Transfusión de concentrados de hematíes. ETT
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Omeprazol 20mg 1-0-0
+Amiodarona 200mg 1-0-1 durante un mes Furosemida 40mg 0-1-0
+Diltiazem 120mg 1-0-1
+Cefuroxima 500mg 1-0-1 durante 5 días
+
+Informe d'alta d'hospitalització
+
+
+
+
+Sertralina 50mg 1-0-0 Ferro 100mg/24h
+Ideos 1000mg/880UI/24h Hidroferol 0.266mg/2 semanas. Inhaladores como previamente Vesicare 5mg/12h Paracetamol 1g/8h si dolor
+
+CONTROL
+Control en CCEE de Cirugía Cardiovascular el día 31 de julio a las 13.00h Control en CCEE de Cardiología el día 19 de septiembre a las 09.20h Control por su médico de cabecera
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+29.06.2017
+Pàgina 1 de 4

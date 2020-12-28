@@ -1,0 +1,122 @@
+_LOCATION_) Telèfon _SS_  972 _CONTACT_
+Telèfon IDI (Ressonància i TAC) _CONTACT_
+Telèfon ICO _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 93 Anys
+NIF/DNI: _ID__NAME_; _NAME_; 
+_NAME_; _NAME_
+Informe d'alta d'hospitalització
+CP	_LOCATION_
+ABS	_SS_
+Servei	NEUROLOGIA
+Data d'alta  03.08.2017	11:00:59
+_LOCATION_
+_CONTACT_; _CONTACT_
+DOMICIL/RES.SOC 01.08.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Disminució del nivell de consciència i posterior hemiparèsia esquerra
+
+ANTECEDENTS
+ANTECEDENTS PERSONALS
+Al·lèrgies:  Penicil·lina. No consten hàbits tòxics.
+Viu a una residència des de fa 15 anys, per decisió pròpia. No fills. Familiar més proper és una neboda que la visita mensualment. No deteriorament cognitiu conegut (la neboda refereix episodis puntuals de desorientació). Deambula amb caminador (gonartrosis). És continent tot i que porta compreses per precaució. Requereix ajuda per la dutxa i vestir-se (mRs 3).
+
+ANTECEDENTS PATOLÒGICS
+-Hipertensió arterial, actualment sense tractament.
+-Edemes EExtremitats inferiors  en tractament amb Furosemida
+-No antecedents de epilepsia. IQ:
+-Colecistectomia.
+-Coledocolitiasi que es tracta amb CPRE (16/11/2010) produint-se perforació de la via biliar i sagnat papil·lar que va requerir intervenció quirúrgica. Fístula doudenal postoperatoria i infecció de ferida quirúrgica.
+
+MEDICACIÓ HABITUAL
+Furosemida de 40mg 0.5comp/24h (1-0-0), Paracetamol si precisa.
+
+PROCÉS ACTUAL
+Dona de 93 anys, és portada pel SEM (activació codi ictus) degut a que es trobada el dia 01/08 a les 11:00, seguda a la butaca després d'esmorzar, amb pèrdua del nivell de consciència i del to postural (desconeixem si pèrdua del control d'esfinters per bolquers, no mossegada de llengua), es estirada al llit pel seus cuidadors de la residenciza i posteriorment recupera parcialment el nivell de conciencia, queda amb somnolència i hemiparèsia braquio-crural esquerra , parèsia facial i afàsica . A continuació és valorada pel metge del CAP, i la troba rítmica, destaca TA 80/40 mmHg, afàsica, amb resposta i sons guturals davant estímuls dolorosos, mobilitat de les 4 extremitats i sense desviació de la mirada. En aquest context es truca al 112 i és derivada a _SS_ per sospita d'ictus.
+
+
+
+EXPLORACIÓ FÍSICA
+
+Informe d'alta d'hospitalització
+
+A Servei Urgències
+Tensió arterial:140 /73 mmHg. Tª:36 ºC Glicèmia capil·lar:140 mg/dl
+Somnolència. Disàrtria moderada. Dubtosa afàsia (obeeix una ordre simple, no nomina ni repeteix, fluència disminuida). No preferència oculocefàlica ni dèficit campimètric per confrontació. Movilitza les 4 extremitats i  retira a l'estimul dolorós les 4 extremitats sense asimetries. RCP flexor bilateral.
+NIHSS: 12100/00000/00120: 7
+
+Servei Urgències (valoració per equip Neurologia de planta d'hospitalització) Última valoració: TA 145/75mmHg, FC 80bpm, Afebril.
+Somnolència. Disàrtria moderada. No obeeix a ordres simples. No nomina ni repeteix, fluència disminuïda. No respon a campimetria per amenaça. Mobilitza extremitats inferiors (3/5) i superiors.
+
+EXPLORACIÓ COMPLEMENTÀRIA
+ECG: PR >200mseg. QRS estret. No alteracions de la repolartizació.
+
+ANALÍTIQUES
+Analítica d'urgències:
+-	Hemograma:   Hemoglobina 12.8 g/dL, Hematòcrit 39 %, Volum corpuscular mitjà * 101.6 fL, Hemoglobina corpuscular mitja * 34 pg, Plaquetes * 111 K/mcL, Volum plaquetari mig 11.9 fL, Leucòcits 7.58 K/mcL (Neutròfils
+4.8 K/mcL, Limfocits 2 K/mcL)
+-	Coagulació normal.
+-	Bioquímica: Glucosa* 118 mg/dL,Urea* 52 mg/dL, Creatinina* 0.96 mg/dL, Urat* 6.2 mg/dL, Proteïna 7 g/dL, Albúmina (sèrum) 4.1 g/dL, Colesterol 186 mg/dL, HDL 50 mg/dL, LDL (calcul) 95 mg/dL, Triglicèrid* 206 mg/dL, Creatincinasa (CK) 46 U/L, Amilasa 62 U/L, Calci (II) 9.4 mg/dL, Ió sodi * 134 mEqu/L, Ió potasi 4.7 mEqu/L, Troponina T hs 43.9 ng/L
+
+Analítica (02/08): Urea 42 mg/dL, Creatinina * 0.96 mg/dL, Ió sodi 140 mEqu/L, Ió potasi * 6 mEqu/L, Filtrat glomerular (CKD-EPI) * 51.1 mL/min. Pendent resultats de Troponines i TSH.
+
+A/S (03/089: Ió sodi 140 mEqu/L Ió potasi 4.4 mEqu/L BIOQUIMICA BASICA ORINA Sodi orina 74 mEqu/L Potasi orina 57.6 mEqu/L
+
+
+Urocultiu (01/08): K pneumoniae !!
+
+
+PROVES D'IMATGE
+- TC/angioTC i TC perfusió: Sense patologia agusa. Infart crònic PICA dreta.
+
+-Eco Doppler: TSA: plaques calcificades a nivell d'abdues caròtides internes sense estenosis significativa. AVs extracranials normals. TC: ACA ortodròmiques. ACM i ACP simètriques. V4 i basilar normal.
+
+-EEG: disfunció neuronal a regions frontals inferiors i temporals mitges de l#hemisferi dret suggestiu de post-crisi. No es registren paroxismes suggestius de comicialitat.
+
+Informe d'alta d'hospitalització
+
+
+
+EVOLUCIÓ CLÍNICA
+A la arribada a urgencies a les  13:46 es valorada per neurologia de guardia que objectiva desorientació, dubtosa afasia i disartria (NIHSS de 7), es realitza analítica que posa en evidencia lleu trombopenia sense altres  alteracions rellevants. La TC multimodal de crani no mostra lesions isquemiques aguddes però si una isquemia de PICA D previa.
+Degut a la milloria espontani i els resultats s'orienta como probable crisis comicial generalitzada. Es demana un EEG que possa en evidencia disfunció neuronal a regions frontals inferiors i temporals mitges de l#hemisferi dret.
+
+Es decideix ingrés a la planta convencional de neurologia sota la orientacio de primera crisis comicial generalitzada.
+Clinicament el primer dia la pacient esta somnolenta desorientada, afàsia pel que decidim començar tractament amb lamotrigina.
+Com complicacions s'ha objectivat hiperkalemia pel que s'ha posat sonda vesical, hidratació i tractament amb recincalci. Posteriorment se li ha tret el sondadge vesical i ha començat amb dieta oral amb tolerancioa adecuada.
+
+Al dia següent del seu ingrés la pacient està vigil, parcialment orientada, ha remès l'afàsia i ja no esta disàrtrica.
+
+Donada la seva estabilitat clínica i hemodinámica decidim alta a la serva residencia per continuar amb la seva recuperació.
+Será citada per consultes externes de neurologia Unitat d'epilèpsia per valorar retirar tractament antiepilèptic de forma progressiva
+
+
+
+DIAGNÒSTICS
+436/5 Probable crisis comicial generalitzada 401.9/4 Hipertensió arterial inespecificada 454.9/2 Varius eeii
+574.50/1 Coledocolitiasi
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Lasmotrigina 25mg 1-0-0
+Furosemida de 40mg 0.5comp/24h (1-0-0), Paracetamol si precisa.
+
+CONTROL
+Control por consultas externas de neurologia - epilepsias amb la Dra. _NAME_.
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+03.08.2017
+Pàgina 1 de 3

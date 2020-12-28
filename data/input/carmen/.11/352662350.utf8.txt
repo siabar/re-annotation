@@ -1,0 +1,162 @@
+
+INFORME DE ALTA
+Medicina Interna. Unidad de neurología. Unidad de Ictus.
+
+
+
+Paciente: _NAME_
+
+
+Número de historia clínica: _ID_
+
+
+Fecha de nacimiento y sexo: _DATE_  HOME	Edad: 76 Régimen económico:  CatSalut-Propi CIP: _ID_	ABS/CAP:		Médico de cabecera: Dirección: _LOCATION_   Teléfono: _CONTACT_
+Fecha ingreso servicio: 21/03/2017	Fecha alta servicio: Data alta servei
+
+
+Fecha ingreso hospitalización: 21/3/2017	Fecha alta hospitalización: 24/3/2017
+
+
+
+Paciente varón de 76 a que el día 21/3/2017 a las 06.30 se levanta para ir al baño y nota disminución de fuerza y sensibilidad en hemicuerpo derecho.
+
+Avisa al SEM y se activa el código ictus ( nº _ID_). Llega a UCIAs 7:34 donde se realizan los siguientes estudios:
+·	TC craneal normal: (08:18)
+·	ECG: RS, signos de crecimiento del ventrículo
+·	Duplex TSA: placa ateromatosa irregular ulcerada a nivel de bulbo carotideo derecho con estenosis > 70 5 (ratio ACI/ACC 3,4), resto normal
+·	Doppler TC: normal.
+
+A la exploración el paciente presenta un sindrome lacunar sensitivo motor derecho con NIHSS 6. Tras descartar contraindicación , se administrar rt-PA ev a las 08:30 h
+
+Se traslada al paciente a la UCI donde permanece monitorizado 24 horas sin incidencias.
+La TC craneal control descarta lesión hemorrágica y confirma la aparición de lesión isquémica capsulo lenticular izquierda.
+
+NIHSS basal: 6
+NIHSS 24 H: 0 HISTORIAL MEDICO:
+Alergias: Ninguna conocida
+Hábitos tóxicos: Fumador de 5 puros al día.  Niega OH.
+Estado basal: Vive con su mujer.  Independiente para todas las actividades de la vida diaria.
+
+Antecedentes personales y patológicos:
+·	HTA diagnósticada en 2002 en tratamiento
+·	Dislipemia en tratamiento.
+·	Polimialgia reumática corticodependiente desde 2007, aunque actualmente sin tratamiento
+·	Adenocarcinoma de próstata recibió tratamiento con radioterapia y terapia hormonal.  En seguimiento por Urologia.
+·	Episodios de gota, actualmente sin tratamiento
+·	Quirúrgicos: niega.
+
+Tratamiento habitual: Pravastatina 20mg día Enalapril 5mg día Tromalyt 150mg día.
+
+
+EXPLORACIÓN FÍSICA:
+
+
+
+TA: 177/73,	FC:70 x min,	Tº:36ºCm	SpO2:97% basal.
+
+Vigil, orientado, lenguaje normal, disartria moderada. Paresia facial central derecho, campimetria normla, MOE normal, hipoestesia facial derecha .
+hemiparesia derecha B-C 4+/5 Hipoestesia B-C
+RMP 2/5
+RCP extensor derecho, flexor izqueirda
+
+NIHSS 6
+Test deglución: superado
+
+Ruidos cardiacos rítmicos soplo sistolico panfocal de predominio aortico
+Campso pulmonaores bien ventilados sin sobreagregados.  Abdomen blando no doloroso.  No edemas. Telangiectasias malares bilaterales con signos de hipertrofia parotidea sugestivo de estigmas enolicos
+
+Pruebas complementarias realizadas
+o	Analítica (ingreso): GLUCOSA: 84 mg/dL.
+UREA: 28 mg/dL.
+CREATININI: 0,7 mg/dL.
+COLESTEROL: 185 mg/dL.
+TRIGLICÈRID: 159 mg/dL.
+ASPARTAT AMINOTRANSFERASA(AST): 19 UI/L 37C. ALANINA AMINOTRANSFERASA (ALT): 9 UI/L 37C. FOSFATASA ALCALINA: 101 UI/l 37C.
+AMILASA: 29 UI/l 37C.
+G-GLUTAMILTRANSFERASA (GGT): 16 UI/L 37C.
+
+CALCI: 8,9 mg/dL.
+FOSFAT: 3,3 mg/dl. BILIRRUBINA TOTAL: 0,59 mg/dl. MAGNESI: 1,86 mg/dl.
+CREATIN-QUINASA TOTAL (CK): 97 UI/L 37C. PROTEÏNA: 5,80 g/dL.
+ALBÚMINA: 3,5 g/dl.
+PROTEÏNA C REACTIVA: 1,01 mg/dl.
+
+HEMOGRAMA amb FORMULA:
+HEMATÍES: 5,14 x10*6/ul; HEMOGLOBINA: 15,0 g/dL; HEMATÒCRIT: 46,2 %; V C M: 89,9 fL; H. C. M.: 29,2 pg; M. C. H. C.: 32,5 g/dL; LEUCÒCITS: 7,65 x10*3/uL; NEUTRÒFILS %: 63,1 %; NEUTRÒFILS T:
+4,83 x10*3 /uL; LIMFÒCITS %: 24,6 %; LIMFÒCITS T: 1,88 10*3/uL; MONÒCITS %: 8,6 %; MONÒCITS T: 0,66 x10*3/uL; EOSINÒFILS %: 3,0 %; EOSINÒFILS T: 0,23 x10*3/uL; BASÒFILS: 0,7 %; BASÒFILS T: 0,05 x10*3/uL; PLAQUETES: 229 x10*3/uL; V. P. M.: 10,4 fL.
+
+T.PROTROMBINA-RAÒ: 1,01.
+T.TROMBOPLASTINA -RAÒ: 1,02.
+
+IONOGRAMA/sèrum:
+SODI Sèrum: 141 mmol/L; POTASSI Sèrum: 4,4 mmol/L; CLOR Sèrum: 106 mmol/L.
+
+F. GLOMER. ESTIMAT (CKD-EPI): >90 mL/min/1.73 m2.
+
+
+o	Radiología torácica (ingreso): no condensaciones. Dilatación del hilio izquierdo
+o	Ecocardiografía (24/3/2017): AI 40 mm, TIV 13 mm, Calcificacion de valvula mitral con IM leve, calcificacion de valvula aortica con estenosis moderada. No defectos segmentarios de la contractilidad
+o   TC - craneal (control): Sin hemorragia aguda intracraneal.Aparición de área de hipodensidad cápsulo -
+lenticular  izquierda  sugestivo  de  AVC  agudo-subagudo   lacunar,  no  presenta  efecto  masa significativo. Resto del estudio sin otros cambios respecto a previo.
+
+Evolución y tratamiento realizado
+
+
+Paciente varón de 76 a que ingresa por isquemia de ACM izquierda tratado con trombolisis ev y buena evolución clinica, pasando de una NIHSS inicial de 6 a 0 a las 24 h.
+Se completa el estudio vascular que descarta fuente cardioembólica, o lesión arterial significativa en el territorio de la lesion aguda. Sin embargo se detecta estenosis > 70 % asintomático de ACI derecha, por lo que se programa angio RM ambulatoria para valorara la posibilidad de ACTP de forma diferida
+
+Destino al alta:	domicilio	
+Rankin (alta): 0	NIHSS (alta):	0
+
+Diagnósticos
+
+
+
+Diagnóstico principal
+o	Infarto cerebral de ACM izquierda tratado con trombolisis ev
+
+Diagnósticos secundarios:
+o	Estenosis carotidea derecha asintomático significativa ( > 70 %) o	HTA
+o	Dislipemia
+o	Polimialgia reumática
+o	Adenocarcinoma de próstata o	Artritis gotosa
+o	Miocardiopatia Hipertensiva o	Estenosis aortica moderada.
+
+Procedimientos: o	TC craneal o	 Duplex TSA        o	Doppler TC
+o	Ecocardiografia o	Rx torax
+o	Analitica
+o	ECG
+o	Fisioterapia
+o	Test deglucion
+
+Tratamiento al alta
+
+
+Dieta baja en sal y en grasas AAS 300 mg, 1-0-0
+Enalapril 5 mg, 1-0-1
+Atorvastina 80 mg, 0-0-1
+Omperazol 20 mg, 1-0-0
+
+
+Recomendaciones de prevención secundaria
+
+
+o	Caminar cada día, mínimo 1/2 hora
+o	Perder peso, hasta conseguir perímetro abdominal en hombres por debajo de 108 cm. y 88 cm. en mujeres.
+o	Dieta rica en verduras, frutas y legumbres.
+o	Mantener tensión arterial por debajo de 130 /80 mm. Hg. En diabéticos por debajo de 120/75
+o	Mantener cifras de colesterol total por debajo de 150, y LDL por debajo de 100. En diabéticos LDL por debajo de 70.
+o	Evitar el tabaco y el alcohol.
+
+
+
+Control por el médico de cabecera
+Se avisará para la realización de Ecocardiografia , angio RM y vista en CCEE de Neurologia
+
+
+
+Atentamente,
+
+Médico/s responsable/s: Dra _NAME_	Nº de colegiado: _ID_
+
+Firma

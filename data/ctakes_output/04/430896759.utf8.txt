@@ -1,0 +1,129 @@
+_LOCATION_
+_LOCATION_) Anul·lació/Reprogramació visites:_CONTACT_
+Telèfon Centraleta: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 72 Anys
+NIF/DNI: _ID__NAME_; _NAME_;
+ _NAME_; _NAME_
+Informe d'alta d'hospitalització
+CP	_LOCATION_
+ABS	_SS_
+Servei	NEUROLOGIA
+Data d'alta  18.10.2017	16:12:28
+_LOCATION_
+_CONTACT_; _CONTACT_
+AGUTS 04.10.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Ictus arteria cerebral media derecha cardioembolico.
+
+ANTECEDENTS
+Hipersensibilidad a la penicilina y al contraste iodado (se derivó a alergología pero no acudió a pruebas cutáneas, durante este ingreso se ha administrado contraste en diversas ocasiones sin presentar ninguna reacción adversa) Ex fumadora desde hace 30 años. No otros hábitos tóxicos
+HTA en tto médico; DM sin tratamédico, Obesidad. No dislipemia conocida Fibrilación auricular en tto con sintrom y digoxina.
+Prótesis mecánica mitral (2003) y anuloplastia tricuspídea (2009)
+Estudio en CCEE de Medicina Interna por anemia, colonoscopias última 10/2014 sin patología, derivada por disnea a CCEE de neumología (no se pudieron hacer PFR) dándose de alta por ausencia sde patología respiratoria
+Deterioro  cognitivo  mixto  leve  (afectivo  +  Alzheimer).  GSD  4.  Controles  en  CCEE  de  neurología.  Acude diariamente a Hospital de Dia
+Estudio por incontinencia urinaria (conjunto con urología), realizada RNM lumbar (E. coli BLEE en orina en 2014) Trastorno afectivo crónico, depresión doble (distimia con episodios de depresión mayor)
+Fractura de epífisis distal de radio izquierdo
+Traumatismo toràcico 07/2014: hemotòrax derecho y fracturas costales con ingrèso en cirurgia. Histerectomia con doble anexectomia
+Ingreso 2011 por disnea con diagnóstico de insuficiencia cardiaca y sobreinfección respiratòria. Requirió VMNI. Ecocardiograma FE conservada, AI y AD moderadamente dilatadas.
+Fractura pertrocántérea con IQ el 22/09/2017 por la cual suspendió temporalmente el sintrom. Situación basal: vive con su marido en _LOCATION_. No otro apoyo familiar. mRankin basal 2-3.
+MEDICACIÓ HABITUAL
+Bisoprolol 2.5mg/24h, digoxina 0.25mg/48h, enalapril 2.5mg/24h, furosemida  40mg/24h, pregabalina 75mg/8h, sertralina 100mg/24h, sintrom según pauta, tramadol/paracetamol 1comp/8h, alprazolam 0.5mg/24h, clorazepato dipotásico 5mg/24h.
+
+PROCÉS ACTUAL
+Mujer de 72 años que el dia 04/10 a las 11:40h inicia de forma brusca debilidad del hemicuerpo izquierdo presenciado. Avisan a Neurólogo por Teleictus desde _LOCATION_. A las 12:30 contactan con Neurología de guardia de _SS_ por paciente randomizada estudio RACECAT 268.
+Llega a _SS_ a las 14:18 y se realiza el TC craneal a las 14:25.
+
+A su llegada a urgencias la paciente se encuentra hemodinamicamente estable. DXT 110, Coagucheck 1.7. Fc 80 lpm, SatO2 96%.
+A nivel neurológico la paciente se encuentra consciente, no orientada. No mes ni edad (2). Lenguaje conservado. Disartria (2). DOC D (2). HHI (2). PFSN Izq (2). Hemiplejia izquierda (4+4).. Sensibilidad no valorable (1). No
+
+Informe d'alta d'hospitalització
+
+
+
+
+anosognosia. No misoplejía. NIHSS 19.
+
+Como pruebas complementarias se realiza analítica en la que destaca TP 1.92, anemia microcítica Hb 103g/L, Hto 33% VCM 82fL, plaquetas 385000, leucocitosis 13200 con neutrofilia, resto sin alteraciones. La radiografía de Tórax y el ECG quedan pendientes. En el TAC craneal y angioTC se objetiva infarto en territorio profundo ACM D (ASPECTS 7) con oclusión de  TICA-M1 ACM D. No candidata a rtPA por INR >1,7 e IQ reciente.
+Se comenta con Neurovascular y se decide traslado a DIVAS, realizándose trombectomía mecánica consiguiendo recanalización completa TICI3.
+
+Tras el procediimento se decide traslado a la unidad de ictus para estudio y control evolutivo.
+
+EXPLORACIÓ FÍSICA
+
+TA 127/69mmHg FC 85lpm Tª 36.7ºC SatO2 basal 96% 23 rpm
+NRL: vigil, consciente, dice edad pero no mes (1), lenguaje conservado, discurso reiterativo, habla no disártrica, responde a órdenes simples y complejas, no HH por confrontación, PICNR, MOEs conservados, PFSN izquierda (2), resto de ppcc normales, paresia 3/5 ESI (2), paresia 2/5 EII (3), dificultad d ela movilidad de la EID por presentar la fractura pertrocantérea reciente y portar el compresivo, sensibilidad no alterada, Babinski izquierdo. NIHSS 8
+AC: arrítmica, no ausculto soplos, click de prótesis mitral
+AP: murmulo vesicular conservado, sin ruidos sobreañadidos
+Abdomen: blando, depresible, no doloroso a la palpación, no palpo masas ni megalias, no signos de irritación peritoneal, peristaltismo conservado.
+EEII: no edemas ni signos de TVP
+
+EXPLORACIÓ COMPLEMENTÀRIA
+Pruebas en Urgencias:
+Analítica: TP 1.92, anemia microcítica Hb 103g/L, Hto 33% VCM 82fL, plaquetas 385000, leucocitosis 13200 con neutrofilia, resto sin alteraciones
+TAC y angioTC: Cambios isquémicos agudos secundarios a trombosis distal de ACI derecha con extensión a ACM y ACA (T carotídea). Probable macroadenoma hipofisiario.
+
+Pruebas en planta de Neurología:
+TAC de control post-trombectomía (05/10): Áreas de hipodensidad en lenticular y cabeza del núcleo caudado derechos en relación con áreas de isquemia. Sobre estas áreas se identifican imágenes de alta densidad, también visibles a nivel corticosubcortical en región frontal y frontobasal derechos que sugieren pequeñas sufusiones hemáticas en estas localizaciones.
+Rx de tórax: ICT >0,5, hilios aumentados, no condensaciones. Rx de cadera: Correctas, valoradas por COT de nuestro centro. Lues negativa.
+Ecocardiografía transtorácico (10/10): Ventrículo izquierdo no dilatado ni hipertrófico, con función sistólica moderadamente deprimida. FE 45%. Aquinesia septal apical, anterior apical y segmentos medios anteroseptal y anterior. Ecocontraste espontáneo. Ventrículo derecho no dilatado, normocontráctil. Aurícula izquierda severamente dilatada. Raíz aórtica no dilatada. Válvula aórtica trivalva, sin estenosis ni regurgitación. Prótesis mitral mecánica con buena movilidad de discos, gradientes normales y fuga intraprotésica ligera. Regurgitación tricuspídea ligera, que permite estimar una presión pulmonar normal. Vena cava inferior no dilatada, aunque poco
+
+Informe d'alta d'hospitalització
+
+
+
+
+móvil. Sin derrame pericárdico
+TAC craneal y angioTC TSA (09/10): Aspects 10, no signos de isquemia aguda en ACM izquierda. Oclusión porción final M1 izquierda.
+TC craneal post-trombectomia (10/10): Marcada HSA de predominio en la convexidad izquierda. Discreta hiperdensidad lenticular izquierda. Pequeño hematoma en cabeza de caudado derecho, no vidente en estudio anterior. Persiste pequeño hematoma lenticular derecho e infarto establecido en territoro profundo de  ACM ipsilaterales. Persiste la leve contaminación hemática ventricular. No claras áreas de desdiferenciación corticosubcortical.
+TAC craneal (16/10): Persisten restos de HSA silviana y frontoparietal izquierda con ligera disminución de la densidad y de la cantidad respecto al estudio previo. Persisten niveles hemáticos en ambos ventrículos laterales, sin cambios. Probable infartos agudos/subagudos que afectan caudado, lenticular y ambas cápsulas internas (Territorio lenticuloestriados de ambas ACMs). Lesión expansiva en silla turca y región supraselar a valorar por RM. Sin cambios.
+
+EVOLUCIÓ CLÍNICA
+Ingresa en la unidad de ictus por TACI ACM derecha tratada en fase aguda mediante trombectomía mecánica obteniendo recanalización completa. A su llegada la paciente se encuentra vigil, consciente, dice edad pero no mes (1), lenguaje conservado, discurso reiterativo, habla no disártrica, responde a órdenes simples y complejas, no HH por confrontación, PICNR, MOEs conservados, PFSN izquierda (2), resto de ppcc normales, paresia 3/5 ESI (2), paresia 2/5 EII (3), dificultad de la movilidad de la EID por presentar la fractura pertrocantérea reciente y portar el compresivo, sensibilidad no alterada, Babinski izquierdo. NIH 8
+El TAC de control a las 24h muestra áreas de hipodensidad en lenticular y cabeza del núcleo caudado derechos en relación con áreas de isquemia. Sobre estas áreas se identifican imágenes de alta densidad, también visibles a nivel corticosubcortical en región frontal y frontobasal derechos que sugieren pequeñas sufusiones hemáticas en estas localizaciones.
+
+Se mantiene monitorizada registrándose FA crónica ya conocida con buen control de frecuencia. Durante su estancia en la unidad se mantiene HDME estable con buen control tensional. Inicia dieta oral con buena tolerancia así como sedestación en cama y deambulación con ayuda tecnica y de una tercera persona
+
+Se difiere anticoagulación por transformación hemorragica.
+
+El 09/10 a las 18:00 presenta nuevo ictus de ACM I con clínica hemisférica izquierda completa con oclusión de M1 distal izda y TC simple sin lesión establecida. Dado que la paciente presentaba mejoría progresiva a lo largo del ingreso se decide nueva trombectomía de urgencia con recanalización TICI2b con mejoría clínica pero persistiendo cierta alteración fluencia y paresia derecha moderada. TC de control con HSA hemisferica izda, por lo que se tiene que diferir nuevamente la anticoagulación, que se inicia el día 17/10.
+
+A día 18/10 la paciente presenta disminución de la fluencia (1) nomina 5/5 evoca 4/5 repite 4/5 todo con ayuda, obedece 2 ordenes simples, PFSN Izq (2), paresia ESI 4/5 (1) y ESD 4/5 (1), EID 2/5 (3) y EII 3/5 (2) (difícil valorar por fractura reciente de cadera derecha). Babinski Izquierdo. NIHSS 10. mR 5. Ha iniciado nuevamente dieta oral disfagica y sedestación bien tolerada.
+
+Como hallazgo en los TCs se observa una masa selar sugestiva de adenoma que esta pendiente de estudio en el momento actual.
+
+Informe d'alta d'hospitalització
+
+
+
+
+Se traslada a centro de referencia (_SS_) para continuar evolución.
+
+Marido parcialmente dependiente (gracias al trabajador social de _SS_ y a voluntarios ha conseguido su medicación habitual). El trabajador social de nuestro centro ha contactado con los hijos de la paciente, que residen en _SS_ y Mad_SS_, que han sido puestos al corriente de la situación clínica actual han dejado la decisión de traslado a Hospital de referencia en manos del equipo médico, sin mostrar interés en hacer un segumiento cercano de la evolución de la paciente.
+
+
+DIAGNÒSTICS
+434.11/1 Avc embolic
+
+PROCEDIMENTS
+89.08 Altra consulta
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Se adjunta.
+
+DESTINACIÓ A L'ALTA:	HOSP. AGUTS/PSQ
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+18.10.2017
+Pàgina 1 de 4

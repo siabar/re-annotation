@@ -1,0 +1,74 @@
+INFORME ALTA HOSPITALARIA
+_NAME_
+Núm. Episodi: _ID_ Núm. HC: _ID_
+_SS_ _LOCATION_
+_LOCATION_
+Tel. _CONTACT_Adreça: _LOCATION_	C.A.P.: CAP _SS_
+Població: _LOCATION_	Sexe: HOME  Data naixement: _DATE_  Edat: 71a
+Telèfon: _CONTACT_  C.P.: _LOCATION_	T.I.S.: _ID_  DNI/NIF: _ID_
+
+Procedència:	Data Ingrés Hospital: 16/02/2017
+Servei assistencial: UCI HOSP	Data Ingrés Servei: 16/02/2017
+Metge Responsable: _NAME_	Data Alta: 22/2/2017
+
+
+ANTECEDENTS PERSONALS:
+1.	Sin alergias medicamentosas conocidas.
+2.	Exfumador
+3.	Hipertensión arterial
+4.	Cardiopatía isquémica- Enfermedad coronaria severa de 2 vasos DA y Cx, con implantación de 2 Stens farmacoactivos. En seguimiento por cardiología (Dra _NAME_).
+5.	Espondilitis anquilosante HLA B27 positivo con afectación axial y perifèrica (cedera), muy activamolt activa clínica y analíticamente, no desea tratamiento biológico.
+6.	Coxitis bilateral con coxartrosis secundaria. protesis de cadera d agost 2014.
+7.	Quantiferon positivo el 2013 y 2016.
+8.	VHB positiu.
+9.	IRC (creatininas habituales 1,2mg/dL).
+10.	Policitèmia Vera en seguimiento por Hematología (Dra. _NAME_). Refiere que se realiza sangrías.
+11.	Hiperplasia Benigna de próstata sin tratamiento médico.
+
+Intervenciones quirúrgicas: perforación gástrica, artroplastia total de cadera dercha, faquectomía bilateral. Situación basal: Independiente para ABVD. Cognitivamente preservado. Continente biesfinteriano.
+Tratamiento habitual: Hidrosaruretil 50mg 1c/24h; nitroplast 10mg 1 parch/24h; alopurinol 100mg 1c/24h; Omeprazol 20mg/24h, Bisoprolol 5mg 1c/24h, Paracetamol 1g/24h, Adiro 100mg /24h, atarax 25mg 1c/24h Tramadol 50mg 1 comp/8h, Lormetazepam 1mg 3c/24h, casenlax 10g polvo 1U/24h
+
+
+ENFERMEDAD ACTUAL:
+Paciente de 71 años que es traído por el SEM por presentar a las 12:00am del día 16/02/2017 alteración del habla y pérdida de fuerza en EE derecha acitvándose código ICTUS. A su llegada a urgencias a la 13:00 el paciente se encontraba hemodinámicamente estable. Presentaba una recuperación parcial, a la exploración física destacaba una hemianopsia derecha, parálisis facial derecha y hemiparesia derecha (EESS 3/5; EEII 3/5), mínima disartria- NIHSS: 5. Se realiza una analítica que muestra mínima leucocitosis, sin deterioro de la función renal respecto a su basal. Se realiza un TAC craneal que descarta lesiones expansivas o sangrado. Se inicia tratamiento fibrinolítico que se finaliza en UCI sin incidencias. En el TAC de control que no muestra trasformación hemorrágica, Se cursa ingreso en Neurología para completar estudio.
+
+EXPLORACIÓ FÍSCA:
+Paciente consciente, orientado, normocoloreado, normohidratado AR: MVC, sin ruidos sobreañadidos
+AC: TCR, no ausculto soplos, sin edemas en EEII, sin signos de sobrecarga derecha. ABD: blando, no palpo masas ni megalias, no doloroso a la palpación.
+NRL:  Glasgow  15.  No  afasia.  Mínima  disartria.  PPCC  normales.  PICNR.  Hemianopsia  izquierda.  Sin alteraciones sensitivas. Mínima hemiparesia derecha en EESS (balance muscular: 2/5),Fisher derecho positivo.
+
+
+EXPLORACIONS COMPLEMENTÀRIES:
+Analítica: Hemoglobina; 15.9 g/dL Hematòcrit;   50.8 % Plaquetes;   313 x10^9/L Leucòcits; 11.48 x10^9/L
+Glucosa; 99.83 mg/dL Urea; 66.71 mg/dL Creatinini; 1.32 mg/ sodi; 138.00 mEq/ potassi; 3.83 mEq/L INR: 1.1
+ECG: en RS a 50x', PR de 160mseg, HBSA, QRS<80mseg, falta de progressió de R a precordials.Rx de tòrax:
+TC CRANIAL (16/02/2017): Es realitza TC de crani sense contrast endovenós. Estructures de la línia mitja centrades. prominència dels espais aracnoïdals dels solcs de la convexitat i dels valls silvians-insulars, per atròfia cerebral cortical. Atròfia cerebel·losa associada. Sistema ventricular de mida i morfologia normal per l'edat del pacient. nfart lacunar a substància blanca periventricular frontal dreta.No hi ha altres alteracions tomodensitomètriques del parènquima cerebral, cerebel·lós ni tronc. No hi ha signes de sagnat intra ni extraparenquimatós.
+TC-PERFUSIÓ (16/02/2017): s'administra contrast endovenós per estudi de perfusió cerebral. S'identifica una extensa àrea d'alteració del TTP/ MTT occipito-parietal bilateral amb un flux i volum conservats. Es calcula una penombra de gairebé el 100%.Hi ha dubtes de si hi ha infart , ja que el flux està conservat. Recomanem completar l'estudi amb RM per confirmar la possible àrea isquèmica, donat que les troballes no poden descartar que es tracti d'un artefacte.
+ANGIO-TC (16/02/2017): Estudi vascular des de la crossa de l'aorta fins a la convexitat cerebral. Correcta permeabilitat dels troncs supraaòrtics amb una sortida conjunta de l'artèria caròtida primitiva amb el tronc innominat dret. Elongació de l'origen de l'artèria caròtida comú esquerra. Hi ha una correcta permeabilitat de les caròtides primitives i d'ambdues artèries vertebrals. Tronc basilar centrat, permeable. Correcta permeabilitat de les artèries caròtides internes intracranials. Correcta permeabilitat de les artèries cerebrals mitjes, anteriors i posteriors. No hi ha imatges d'aneurisma a les artèries del polígon de Willis detectables per Angio-TC.
+TAC craneal /17/02/2017): Estructuras de la línia media no desplazadas. Prominencia del istema ventricular, espacios aracnoideos-cisternals y surcos de la convexidad, por atrofia córtico- subcortical. Discreta atrofia cerebelosa asociada. Hipodensidad córtico-subcortical parasagital occipital izquierda más evidente que en TC previo, compatible con área de isquemia establecida, territorio de la arteria cerebral posterior izquierda. No hay signos de sangrado intra ni extraparenquimatoso
+Holter: pendiente
+Ecocardiograma: Ventrículo izquierdo no dilatado, ligeramente hipertrófico, sin alteraciones segmentarias de la contractilidad, con función ventricular conservada (FE estimada por Simpson 65%). Aurícula izquierda al límite de la dilatación. Válvula mitral con velos finos con correcto plano de coaptación. Raíz aórtica y aorta ascendente no dilatadas. Cayado aórtico mal visualizado. Válvula aórtica trivalva con velos con puntos de esclerosis con apertura conservada. Ventrículo derecho no dilatado con función conservada (TAPSE 22mm). Vena cava inferior no dilatada con colapso inspiratorio normal. Sin derrame pericárdico.
+ECOTSA: ARTÈRIES VERTEBRALS: Flux de direcció cranial amb pics de velocitat sistòlica simètrics, 39 vs 35 cm/s. EIXOS CAROTIDIS: DRET: Elongació CPD. No s'identifiquen plaques productores d'estenosi significatives de la llum vascular, mínim engruiximent de l'íntima arterial. IMT 1.09 mm. Al bulb carotidi dret, no s'observa estenosi significativa, engruiximent de l'íntima arterial. Els registres espectrals no mostren signes d'alteració hemodinàmica, amb un pic sistòlic de velocitat màxima, concordant ( PSV) CID de 68 cm/s i un quocient també concordant de CPD-CID 0.72. Lleugera elongació trajecte cervical CID. ESQUERRE: Elongació CPE. No s'identifiquen plaques productores d'estenosi significatives de la llum vascular, no hi ha engruiximent de l'íntima arterial. IMT 0.7 mm. Al bulb carotidi esquerre, no s'observa estenosi significativa, engruiximent de l'íntima arterial. Els registres espectrals no mostren signes d'alteració hemodinàmica, amb un pic sistòlic de velocitat màxima, concordant ( PSV) CIE de 75 cm/s, i un quocient també concordant de CPE-CIE 0.72.
+RM craneal: No s'ha pogut realitzar angiorafia intracranial ni estudi de troncs supraaòrtics per la voluntat del pacient de finalitzar l'exploració. Absència de desplaçaments d'estructures de la línia mitja supra i infratentorials. Dilatació global i simètrica del sistema ventricular, valls silvians i solcs corticals de la convexitat per atròfia córtico-subcortical global. Lleu alteració de senyal de la substància blanca periventricular per leucoencefalopatia hipòxico-isquèmica de petit vas. S'observen alguns focus d'alteració de senyal a substància blanca subcortical fronto-parietal bilateral d'aspecte hipòxic-isquèmic crònic. Àrea d'alteració de senyal cortico-subcortical occipital esquerra amb restricció. S'observa també restricció de la difusió putniforme a tàlam i seguint el girus hipocampal esquerra. Són compatiles amb lesions isquèmiques agudes territori de l'ACP esquerre. Petit focus de restricció de la difusió subcortical a circunvolució frontal superior dreta. La seqüència gradient no mostra signes de sagnat. Cisternes basals i perimesencèfaliques lliures. Unió crànio-cervical sense anomalies valorables. Fusió parcial de cossos vertebrals cervicals.
+
+EVOLUCIÓ:
+ICTUS isquémico agudo en territorio ACM izquierda (PACI) a nivel cortico subcortical parasagital occipital izquierdo posible ESUS. Durante su estancie en planta el paciente se mantiene hemodinámicamente estable. A la EF ya no presenta focalidad neurológica habiendo recuperado la pérdida
+visual y el déficit motor. Se realiza estudio con ecoTSA que no muestra estenosis significativas y ecocardiograma que no muestra alteraciones, con FE conservada. Se realiza RM craneal que muestra lesión hiperintesa cortico-subcortical occipital izquierda que restringe en difusión. Al alta el paciente no presenta déficit motor o visual, Barthtl 100. Se realizara seguimiento en CCEE Neurologia con Dr _NAME_ en 3 meses.
+
+
+JUDICI CLÍNIC:
+ICTUS isquémico agudo en territorio ACM  izquierda  (PACI)  a  nivel  cortico subcortical parasagital occipital izquierdo posible ESUS
+
+
+TRACTAMENT:
+Plavix 75mg 1c/24h Atorvastatina 80mg 1c/24h Bisoprolol 2.5mg 1c/24h STOP ADIRO
+Tratamiento habitual: Hidrosaruretil 50mg 1c/24h; nitroplast 10mg 1 parch/24h; alopurinol 100mg 1c/24h; Omeprazol 20mg/24h, , Paracetamol 1g/24h, atarax 25mg 1c/12h Tramadol 50mg 1 comp/8h, Lormetazepam 1mg 3c/24h, casenlax 10g polvo 1U/24h
+
+Atentament, Signat:
+Dr/a.: _NAME_	Dr/a.:_NAME_
+Metge adjunt - Neurologia	Metge resident- Medicina Interna
+Número col·legiat: _ID_	Número col·legiat: _ID_
+
+Hospitalització
+Imprès: 25/10/2017 06:33
+Pàg.: 1 de  3

@@ -1,0 +1,127 @@
+T1	_SUG_Lateralizacion 0 1	I
+T3	FECHA 317 327	05.10.2017
+#3	AnnotatorNotes T3	2017-10-05
+T4	HORA 386 391	04:05
+#4	AnnotatorNotes T4	04:05
+T5	_SUG_Ictus_isquemico 496 501	ICTUS
+T6	_SUG_Lateralizacion 534 535	E
+T7	_SUG_TAC_craneal 590 592	TC
+T10	_SUG_mRankin 1075 1080	mRs 3
+T13	FECHA 1519 1531	febrero 2016
+#13	AnnotatorNotes T13	2016-02-UNDEF-day
+T14	_SUG_Lateralizacion 1701 1710	IZQUIERDA
+T16	HORA 1937 1942	23.30
+#16	AnnotatorNotes T16	23:30
+T17	FECHA 1948 1953	04/10
+#17	AnnotatorNotes T17	2010-04-UNDEF-day
+T18	HORA 1961 1966	02.30
+#18	AnnotatorNotes T18	02:30
+T19	_SUG_Lateralizacion 2013 2020	derecho
+T20	_SUG_Ictus_isquemico 2070 2075	ictus
+T21	FECHA 2117 2127	05/10/2017
+#21	AnnotatorNotes T21	2017-10-05
+T22	HORA 2128 2133	05:00
+#22	AnnotatorNotes T22	05:00
+T23	FECHA 2228 2238	05/10/2017
+#23	AnnotatorNotes T23	2017-10-05
+T24	HORA 2239 2244	06:00
+#24	AnnotatorNotes T24	06:00
+T25	FECHA 2272 2282	05/10/2017
+#25	AnnotatorNotes T25	2017-10-05
+T26	HORA 2283 2288	07:30
+#26	AnnotatorNotes T26	07:30
+T27	FECHA 2324 2334	06/10/2017
+#27	AnnotatorNotes T27	2017-10-06
+T28	HORA 2336 2341	08:00
+#28	AnnotatorNotes T28	08:00
+T29	FECHA 2360 2370	06/10/2017
+#29	AnnotatorNotes T29	2017-10-06
+T30	HORA 2371 2376	17:25
+#30	AnnotatorNotes T30	17:25
+T31	_SUG_Lateralizacion 2612 2617	drcha
+T32	_SUG_Lateralizacion 2642 2651	bilateral
+T33	_SUG_NIHSS 2699 2707	NIHSS 14
+T34	FECHA 2771 2781	05/10/2017
+#34	AnnotatorNotes T34	2017-10-05
+T35	_SUG_TAC_craneal 2838 2840	TC
+T36	_SUG_Hemorragia_cerebral 2876 2886	hemorragia
+T37	_SUG_TAC_craneal 3008 3010	TC
+T38	_SUG_Localizacion 3080 3089	occipital
+T39	_SUG_Lateralizacion 3144 3145	E
+T40	_SUG_Etiologia 3160 3172	Ateromatosis
+T41	_SUG_Localizacion 3196 3203	troncos
+T42	_SUG_Lateralizacion 3265 3274	izquierda
+T43	_SUG_Arteria_afectada 3311 3314	ACI
+T44	_SUG_Arteria_afectada 3357 3360	ACA
+T45	_SUG_Arteria_afectada 3371 3386	vertebrobasilar
+T46	_SUG_Lateralizacion 3421 3422	E
+T48	_SUG_Arteria_afectada 3536 3558	arteria cerebral media
+T49	_SUG_Lateralizacion 3567 3568	I
+T50	_SUG_Lateralizacion 3569 3570	D
+T51	_SUG_Arteria_afectada 3592 3595	ACA
+T52	_SUG_Lateralizacion 3596 3603	derecha
+T53	_SUG_Arteria_afectada 3673 3693	arterias vertebrales
+T54	_SUG_Arteria_afectada 3730 3745	arteria basilar
+T55	_SUG_Localizacion 3935 3943	cortical
+T56	_SUG_Localizacion 3961 3968	frontal
+T57	_SUG_Localizacion 3971 3979	parietal
+T58	_SUG_Lateralizacion 3980 3984	izda
+T59	_SUG_Etiologia 3993 4000	lacunar
+T60	_SUG_Localizacion 3993 4000	lacunar
+T61	_SUG_Localizacion 4020 4027	caudado
+T62	_SUG_Lateralizacion 4028 4037	izquierdo
+T63	_SUG_Localizacion 4079 4087	parietal
+T64	_SUG_Ictus_isquemico 4145 4171	transformación hemorrágica
+T65	_SUG_Ictus_isquemico 4186 4193	infarto
+T66	_SUG_Hemorragia_cerebral 4203 4211	hematoma
+T67	_SUG_Localizacion 4227 4243	ganglios basales
+T68	_SUG_Lateralizacion 4244 4252	derechos
+T69	_SUG_Arteria_afectada 4296 4298	M2
+T70	_SUG_Ictus_isquemico 4446 4451	ICTUS
+T72	_SUG_Arteria_afectada 4472 4494	ARTERIA CEREBRAL MEDIA
+T73	_SUG_Lateralizacion 4495 4504	IZQUIERDA
+T75	_SUG_Lateralizacion 4612 4613	E
+T76	_SUG_Lateralizacion 4757 4762	drcha
+T77	_SUG_Lateralizacion 4781 4786	drcha
+T78	_SUG_NIHSS 4826 4834	NIHSS 14
+T79	_SUG_Ictus_isquemico 4861 4866	ictus
+T80	_SUG_TAC_craneal 4880 4882	TC
+T81	_SUG_Arteria_afectada 4993 4996	ACI
+T82	_SUG_Trombolisis_intravenosa 5242 5254	fibrinólisis
+T83	_SUG_Ictus_isquemico 5472 5477	Ictus
+T84	FECHA 5486 5490	5/10
+#84	AnnotatorNotes T84	2017-10-05
+T85	_SUG_Lateralizacion 5539 5548	izquierdo
+T86	_SUG_Ictus_isquemico 5657 5662	ictus
+T87	_SUG_Localizacion 5718 5726	parietal
+T88	_SUG_Localizacion 5827 5836	posterior
+T89	_SUG_Lateralizacion 5893 5902	izquierda
+T90	_SUG_Lateralizacion 5998 6007	izquierda
+T91	_SUG_Lateralizacion 6146 6147	E
+T92	_SUG_Lateralizacion 6305 6306	E
+T93	_SUG_Lateralizacion 6559 6564	ambas
+T94	_SUG_NIHSS 6780 6785	NIHSS
+T95	_SUG_Arteria_afectada 6811 6824	Indeterminado
+T96	_SUG_Etiologia 6811 6824	Indeterminado
+T97	_SUG_mRankin 6826 6832	Rankin
+T98	_SUG_Tratamiento_antiagregante 6957 6979	Acido acetilsalicilico
+T99	_SUG_Tratamiento_anticoagulante 6994 7001	Clexane
+T100	FECHA 7574 7584	17.10.2017
+#100	AnnotatorNotes T100	2017-10-17
+T101	HORA 7599 7604	14:53
+#101	AnnotatorNotes T101	14:53
+T102	_SUG_Lateralizacion 7755 7763	derechos
+T103	_SUG_Lateralizacion 8044 8049	drets
+T104	SECCION_TIPO_DE_INGRESO 423 448	Tipo ingreso/Tipus ingrés
+T105	SECCION_MOTIVO_DE_INGRESO 709 747	Motivo de consulta / Motiu de consulta
+T106	SECCION_ANTECEDENTES 810 872	Antecedentes e historia previa / Antecedents i història prèvia
+T107	SECCION_ANTECEDENTES_PERSONALES 873 896	Antecedentes personales
+T108	SECCION_ANTECEDENTES_PATOLOGICOS 1109 1134	*ANTECEDENTES PATOLÓGICOS
+T109	SECCION_TRATAMIENTO_HABITUAL 1814 1834	*MEDICACIÓN HABITUAL
+T110	SECCION_PROCESO_ACTUAL 1861 1891	Proceso actual / Procés actual
+T111	SECCION_EXPLORACION_FISICA 2078 2116	Exploración física / Exploració física
+T112	SECCION_EXPLORACIONES_COMPLEMENTARIAS 2710 2770	Exploraciones complementarias / Exploracions complementàries
+T113	SECCION_EVOLUCION 4422 4442	Evolución / Evolució
+T114	SECCION_TRATAMIENTO_AL_ALTA 6853 6886	Plan terapéutico / Pla terapèutic
+T115	SECCION_RECOMENDACIONES 7315 7336	Otras recomendaciones
+T116	SECCION_PROCESO_ACTUAL 7906 7912	Episod

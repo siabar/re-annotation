@@ -1,0 +1,264 @@
+
+Cognoms:   _NAME_	Adreça:  _LOCATION_
+Nom:	_NAME_	_LOCATION_
+Edat: 80	Sexe:H	CIP:	_ID_	NIF:	_ID_
+Data naixement:   _DATE_	NHC:	_ID_	NASS:    _ID_
+Telèfon / Mòbil:	_CONTACT_ / _CONTACT_
+
+
+INFORME  D'ASSISTÈNCIA
+
+Metge/essa:	_NAME_	Servei:	Neurologia
+Data ingrés:	23/02/ 2017	Data Alta: 03/03/ 17
+S'informa a:	Metge de família	Núm.  llit: _ID_
+
+DIAGNÒSTICS:
+1.	Ictus isquèmic de territori ACM e squerre de mecanisme probable embolic i etiologia indeterminada.
+2.	Hipertensió  arterial
+3.	Dislipèmia
+4.	Diabetes Mellitus tipus 2
+5.	Insuficiència renal crònica lleu
+6.	AIT previo
+7.	Carcinoma de pròstata
+8.	HIperuricemia
+9.	Ateromatosis intra extracranial lleu
+
+PROCEDIMENTS:
+1.	Doppler TSA i transcranial
+2.	TC cranial
+3.	RM cerebral
+4.	Ecocardiograma  transtoràcic
+5.	Holter 24 h
+
+
+
+MOTIU DE CONSULTA: alteració de la parla i des vi ació comisura bucal AL·LÈRGIES: no conegudes
+HÀBITS TÒXICS: exfumador de 3 pqt/dia desde fa 6 anys. Enol lleu-moderat (1 copa de vi i 2 cerveses diaries).
+
+ANTECEDENTS  PATOLÒGICS:
+
+-	Hipertensió arterial en tractament farmacològic.
+-	Dislipèmia.
+-	Diabetis mellitus tipus 2 en tractament amb insulina; amb nefropatia diabètica.
+-	AIT territori indeterminat esquerre, al febrer de 2015 pel que va ingressar a Neurologia. (va presentar clínca del despertar autolimitada de trastorn del llenguatge i des vi ació de la comisura bucal. Al alta NIHSS 0, Rankin
+0. Des del punt de vista etiològic l'eco-dòppler posa de manifest signes d'ateromatosi lleu, tant extracranial com
+intracranial,  pel què s'afegeix  doble antiagregació i s'augmenta la dosi d'estatina.  La  RM  cerebral realitzada ambulatoriament no s'observen lesions isquèmiques agudes.
+-	Carcinoma de pròstata diagnosticat el 2010: va fer 5 sessions de radioteràpia a _SS_. No consten informes.
+-	Hiperuricèmia.
+-  Glaucoma bilateral.
+-	Hemovit ri dret el dia 06/02/17
+-	2012: Estudi de rectorràgies amb colonoscòpia que va a detectar Proctitis ràdica.
+-	Artrosis de genolls.
+
+Situació sociofuncio nal: Independent per a les ABVD, m RS0. Viu amb la dona a una planta baixa. 3 fills. Sense deteriorament  cognitiu.
+
+TRACTAMENTS:   amlodipino   10mg   1-0-1,   insulatard   0-0-10,   ixia   plus   40/12.5mg,   tamsulosina   0. 4mg, glimepirida 2mg, omeprazol 20mg, xalacom 1 -0-1, clopidogrel 75mg, atorvastatina 40mg, alopurinol 300mg.
+
+MALALTIA  ACTUAL:
+El dia 23/02/ 17 a les 10h després d'anar al metge de capçalera presenta dificultat per a articular el llenguatge i posteriorment agafa el cotxe i fins a les 12h aproximadament no arriba a casa i veuen que parla malament i té des vi ació de la comisura bucal cap a la dreta motiu per el que avisen al SEM que acti va el codi ictus amb preavis a les 12:45h i arriben a l _SS_ a les 13:00h. Incialment  molt  hipertens 189/ 90 mmHg afebril. Va ser valorat recentment per Urologia i es va tractar amb monurol 2 sobres per urinocultiu positiu per E.faecalis del 2/ 2/17 (asimptomàtic).
+
+EXPLORACIÓ:
+
+A urgè ncies:
+RESP: roncus dispersos, eupnèic. COR: tons rítmics sense bufs, no bufs carotidis. ABDOMEN: anodí. concient i  orientat, no elements afàsics, disartria lleu-moderada, oculomotricitat  i  campimetria normals.  Paresia facial central   dreta.   Miller   Fisher   dubtós   dret   i   reste   de   força   i   sensibiltat   normals.   NO   dismetria. NIHSS:  0-0-0-0-0//2(0-0)(0-0)//0-0-0-1-0=  3
+
+Al ingrés: Lleu milloria respecte dia previ. Concient i orientat. LLenguatge  sense elements  afàsics. LLeu disartria. Oculomotricitat normal i campimetria normal. Lleu paresia facial central dreta. No afectació de parells craneals baixos. Força i sensiblitat a extremitats nromal. Dubtós MIller  fisher mà  dreta.  RMP presents.  RCP flexor bilateral.
+NIHSS:  0-0-0-0-0//2(0-0)(0-0)//0-0-0-1-0=  3
+
+Al alta: Exploració: concient i orientat, llenguatge sense elements afàsics. Disartria moderada. Paresia facial amb component central dret. NO hemianopsia homònima. Paresia distal braquial dreta i lleu paresia ca ma dreta (aixeca contra gravetat). No dise mtria. Hipoesetsia lleu dreta. Marcha parètica a mb cama dreta a mb necessitat de ajuda.
+NIHSS: 0- 0-0- 0-0//3(1-0)(1-0)//0-1- 0-1- 0= 7
+
+
+EXPLORACIONS   COMPLEMENTÀRIES:
+
+-	ECG:  ritme  sinusal  amb  una  freqüència  de  80  bpm,  PR  0. 16,  sense  alteracions  en  la  repolarització.
+-	Anal ítica: Glucosa sèrum 256.0 mg/ Urea sèrum 74.5 mg/dL 10 50 Creatinina sèrum 1.42 mg/ dL .60 1.20 Filtrat glomerular estimat 46 90 (: interferències analítiques Alanina aminotransferasa (ALT) sèrum 22 UI/L 37C 7 41 Hemoglobina 12.1 g/dL  Hematòcrit  37.2 %  VCM 88.4 Leucòcits  9.080 1 Plaquetes  185.000  Temps  de
+Protrombina: Pacient 10.8 s Rati 1.00 .8 1.2 Temps Tromboplastina Parcial Activat 28.2 (APTT) Rati: 0.98 .7 1.3
+Fibrinogen 406.4 mg/dL 180 350
+-	TC c rani al: Sense lesions isquèmiques ni hemorràgiques agudes. Presència de infarts lacunars crònics bilaterals, leucaraiosis i atrofia cerebral difusa.
+-	RM N  Crani al:  Àrea  de  restricció  de  senyal  a  la  seqüència  de  difusió  corticosubcortical  frontal  esquerra,
+compatible amb lesió isquèmica aguda. Caudalment s'observa un focus cortical frontal esquerra  de  les mateixes característiques. Estructures de la l ínia mitja centrades. Prominència d'espai aracnoidals de la convexitat que juntament amb dilatació del Sistema ventricular és atribuïble a lleu atrofia corticosubcortical. Hiperintensitat de senyal de subtància blanca periventricular i subcortical, i al tronc en relació  a  àrees d'isquèmia per vasculopatia crònica. Imatges puntiformes hiperintenses en T2, hipointenses en FLAIR amb halo hiperintens a substància blanca de centres semiovals, talems , lenticular dret compatibles amb infarts lacunars. Cisternes basals i perimesencèfaliques lliures. No hi ha malformacions a xarnel.la crani-occipital. Nòdul subcutani superficial a paròtide dreta, d'11 mm, parcialment visualitzat, i a la regió occipital a correlacionar amb exploració. Ocupació de cel·les mastoïdals esquerres.
+-	Estudi dop pler TSA i transcra nial: Eixos carotidis amb lleu ateromatosis en ambdós bulbs carotídis, sense estenosis significatives. Arteries vertebrals extracranisl ortodròmiques i permeables. Transcranial: S'insone n ambdues ACMs, ACPs, sifons i ACAs, i destaca lleus signes d' ateromatosis intracraneal (asimetría de fluxes amb ACM amb acceleració focal de 120cm/s respecte contralateral). A nivell  suboccipital ambdues arteries vertebrals intracranials són normals i la basilar també fins a 98mm de profunditat.
+-	Holte r: FC entre 52 i 109 bpm amb una FC mitja de 80 bpm. ESVs molt aillats. EVs ocasionals, polimorfics. NO taqui ni bradiaritmies. NO pauses significatives. NO canvis en el segment ST. El pacient no  referei x símptomes durant el registre.
+-	Ecocardiograma: Lleu hipertrofia concèntrica amb funció sistòlica conservada. Auricula esquerra lleugerament dilatada. Estenosi aòrtica de grau lleu.
+-	EVOLUCIÓ:
+
+Realitzem TC cranial simple a les 13:20h en la que no s'observen lesions agudes. El pacient explica que está en tractament amb monurol per ITU per Enterococus, encara que no té febre. Malgrat estar dins de finestra horaria, al ser ictus minor amb mínima repercussió funcional (facial lleu i disartria lleu) decidim no ralitzar tractament fibrinolític. Completo l 'estudi amb una EcoTSA i transcranial en la que s'observa lleu ateromatosis bicorotidia extracranial i destaca una asimetria de fluxes amb acceleració focal a 50mm de profunditat a ACMs, (esquerre 120cm/s, dreta 65 cm/s), compatible amb estenosis focal per èmbol recanalitzat vrs oclusió distal. Ingressa per completar estudi.
+
+Durant l'ingrés a planta de neurología es manté estable hemodinàmicament, presenta irregular control de les glicèmies amb tendencia a la hipertensió arterial. Neurològicament  presenta empijorament de la focalitat dins de les primeres 72 hores i destaca presencia de hiemiparesia dreta lleu de predomini distal a la mà i hemihipoestesia amb disartria moderada (al alta NIHSS de 7). En l' estudi etiol ògic s'ha realitzat analítica que mostra perfil lipídic i glilcèmic normal i en la que destaca un empitjormaent de la funció renal amb creatinina de 2 mg/dl. En la RM cerebral  s'observen lesions isquèmiques agudes en territorio cortico-subcortical  de ACM esquerre i l'estudi cardiològic amb Holter i Ecocardiograma no mostra una Font embolígena major. S'orienta com a ictus isquèmic de etiología indeterminada malgrat haver realitzat l'estudi i destaca ateromatosis extra i intracranial però sense estenosis significatives. Decidim optimitzar tractament amb estatines a dosis altres.
+
+Tolera dieta però amb disfagia positi va, sedesta però necesita ajuda per a deambulació. Ha començar rehabilitació. Com a complicacions ha presenta posible artritis gotosa de metacaropofalàngiques  de mà dreta pel que s'ha inciiat tractament amb colchimax i insuficiencia renal crónica aguditzada amb bona resposta a la sèrumterapia.
+
+Al alta: NIHSS 7 i mRS 4
+
+TRACTAMENT:
+
+ALLOPURINOL (ALOPURINOL COMP. 300 MG)	1 - COMP	
+C/24H	
+ORAL	
+8	
+23/02/2017
+
+AMLODIPINO (AMLODIPI 10MG COMP)	
+1 - COMP	
+C/12H	
+ORAL	
+8,20	
+23/02/2017
+
+ATORVASTATINA (CARDYL 40 MG COMP RECOBERTS)	
+2 - COMP	
+C/24H	
+ORAL	
+20	
+23/02/2017
+
+BEMIPARINA (HIBOR 3500 UI XER 0,2 ML)	
+1 - XERI.	
+C/24H	
+SC.	
+20	
+23/02/2017
+
+
+CARVEDILOL (CARVEDILOL 6,25 MG. COMP.)	
+1 - COMP	
+
+C/12H	
+
+ORAL	
+
+8,20	
+
+28/02/2017
+
+CLOPIDOGREL (PLAVIX 75 MG COMP)	
+1 - COMP	
+C/24H	
+ORAL	
+8	
+23/02/2017
+
+COLCHICINA (COLCHIMAX 0.5MG COMP)	
+2 - COMP	
+C/24H	
+ORAL	
+16	
+02/03/2017
+
+DIAZEPAM (DIAZEPAM 5 MG COMP)	
+1 - COMP	
+c/24h	
+ORAL	
+22	
+23/02/2017
+
+INSULINA GLARGINA (LANTUS 100 UI/ML VIAL 10 ML)	
+8 - U.I.	
+c/24h	
+SC.	
+22	
+02/03/2017
+
+INSULINA LISPRO (HUMALOG 100 U/ML 10 ML VIAL)
+Comentari Prescriptor: Pauta correctora B:150 -200:+1UI;201-250:+2UI;251-300:+3;301- 350:+4;>350:+5	
+
+3 - U.I.	
+
+C/ 8 H. AA	
+
+SC.	
+
+8,13,19	
+
+02/03/2017
+
+
+
+
+
+
+LATANOPROST (XALATAN COLIRI)
+Comentari Prescriptor: =xalacom (latanoprost+timolol)	
+1 - GTA.	
+C/24H	
+TOP	
+8	
+24/02/2017
+
+LOSARTAN + HIDROCLORITIAZIDA (LOSARTAN HIDROCLOROTIAZIDA 50 MG/12,5 MG COMP)
+Comentari Prescriptor: substiteuix ixia plus (olmesartan/HCTZ)	
+
+1 - COMP	
+
+C/24H	
+
+ORAL	
+
+8	
+
+24/02/2017
+
+OMEPRAZOL (OMEPRAZOL 20 MG CAPS)	
+1 - CAPS	
+C/24H	
+ORAL	
+8	
+23/02/2017
+
+TAMSULOSINA (TAMSULOSINA 0,4 MG. CAP.)	
+1 - CAPS	
+C/24H	
+ORAL	
+8	
+23/02/2017
+
+TIMOLOL (TIMOLOL 0,50% COL·LIRI 3ML)
+Comentari Prescriptor: =xalacom (latanoprost+timolol)	
+
+1 - GTA.	
+
+C/12H	
+
+OCULAR	
+
+8,20	
+
+24/02/2017
+
+
+
+Altres Terapèutiques	Data Inici	Horari	Observacions
+Dieta controlada en Hidrats de Carboni 1750 kcal hiposòdica	23/02/2017		
+
+
+Constants c/8h	
+
+23/02/2017	
+
+6-12-18-24	
+
+
+Glicàmia capil·lar c/8h	
+
+23/02/2017	
+
+Esmorzar Dinar, sopar	
+
+
+Balanç de 24h	
+
+23/02/2017		
+
+
+
+CONTROL:
+
+Trasllat a _SS_ per seguir amb convalescencia el dia 03/03/17
+Primera visita a CEX de Neurologia amb DR. _NAME_ el dia 17/06/17 a les 12:00h
+
+Signat per _NAME_ núm.col: _ID_ Data/Hora:03-03-2017 14:02
+
+
+
+Signat per _NAME_ núm.col: _ID_ Data/Hora:03-03-2017 14:02

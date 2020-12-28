@@ -1,0 +1,65 @@
+T1	Fecha_de_ingreso 352 362	14/09/2017
+#1	AnnotatorNotes T1	2017-09-14
+T2	HORA 363 368	21:38
+#2	AnnotatorNotes T2	21:38
+T3	FECHA 426 436	14/09/2017
+#3	AnnotatorNotes T3	2017-09-14
+T4	HORA 437 442	22:24
+#4	AnnotatorNotes T4	22:24
+T5	Lateralizacion 581 589	esquerre
+T7	_SUG_Arteria_afectada 855 858	ACM
+T8	_SUG_Lateralizacion 859 867	esquerra
+T9	_SUG_Lateralizacion 1233 1238	dreta
+T10	HORA 1407 1412	21:00
+#10	AnnotatorNotes T10	21:00
+T11	HORA 1438 1443	21:10
+#11	AnnotatorNotes T11	21:10
+T12	Hora_llegada_hospital 1638 1643	21:38
+#12	AnnotatorNotes T12	21:38
+T13	_SUG_TAC_craneal 1821 1824	TAC
+T14	Hora_TAC_inicial 1840 1845	21:52
+#14	AnnotatorNotes T14	21:52
+T15	_SUG_Ictus_isquemico 1878 1895	d'infart isquèmic
+T16	ASPECTS 1907 1920	ASPECTS 10/10
+T17	_SUG_TAC_craneal 1958 1960	TC
+T20	_SUG_Trombolisis_intravenosa 2241 2264	tractament fibrinolític
+T21	_SUG_Lateralizacion 2512 2520	esquerra
+T22	_SUG_Localizacion 3342 3349	parcial
+T24	_SUG_Lateralizacion 3991 3996	dreta
+T25	_SUG_Lateralizacion 4028 4036	esquerra
+T26	_SUG_Lateralizacion 4192 4196	dret
+T27	_SUG_Lateralizacion 4221 4222	D
+T28	_SUG_TAC_craneal 4227 4229	TC
+T29	_SUG_Lateralizacion 4330 4338	esquerra
+T30	_SUG_Ictus_isquemico 4636 4653	d'infart isquèmic
+T31	_SUG_ASPECTS 4665 4678	ASPECTS 10/10
+T32	_SUG_TAC_craneal 4716 4718	TC
+T33	_SUG_Lateralizacion 4786 4794	esquerra
+T34	_SUG_Lateralizacion 4878 4887	esquerres
+T35	_SUG_TAC_craneal 5032 5035	TAC
+T36	FECHA 5051 5059	15/09/17
+#36	AnnotatorNotes T36	2017-09-15
+T37	_SUG_Lateralizacion 5130 5138	esquerra
+T39	_SUG_Ictus_isquemico 5519 5534	Infart isquèmic
+T40	_SUG_Lateralizacion 5549 5557	esquerre
+T41	_SUG_TAC_craneal 6057 6060	TAC
+T42	_SUG_Lateralizacion 6114 6122	esquerre
+T43	Fecha_de_alta 6387 6397	19/09/2017
+#43	AnnotatorNotes T43	2017-09-19
+T44	SECCION_TIPO_DE_INGRESO 443 457	Tipus d'ingrés
+T45	SECCION_DIAGNOSTICO_PRINCIPAL 520 540	Diagnòstic principal
+T46	SECCION_DIAGNOSTICOS_SECUNDARIOS 591 613	Diagnòstics Secundaris
+T47	SECCION_PROCEDIMIENTOS 644 656	Procediments
+T48	SECCION_ANTECEDENTES 869 880	Antecedents
+T49	SECCION_ANTECEDENTES_PATOLOGICOS 883 900	Malalties prèvies
+T50	SECCION_PROCESO_ACTUAL 1260 1275	Història Actual
+T51	SECCION_EXPLORACION_FISICA 2336 2353	Exploració física
+T52	SECCION_EXPLORACIONES_COMPLEMENTARIAS 2632 2660	Resum proves complementàries
+T53	SECCION_EVOLUCION 5733 5754	Evolució i comentaris
+T38	Ictus_isquemico 550 562	AVC ISQUEMIC
+T55	Trombolisis_intravenosa 665 676	FIBRINOLISI
+#5	AnnotatorNotes T16	10
+T56	SECCION_EXPLORACION_FISICA_EN_URGENCIAS 2356 2367	A Urgències
+T19	Arteria_afectada 2190 2193	ACM
+T54	Arteria_afectada 2194 2197	ACP
+T6	TAC_craneal 3473 3483	TC cranial

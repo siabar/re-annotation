@@ -1,0 +1,106 @@
+I.CLINIC DE NEUROCIÈNCIES NEUROLOGIA
+_NAME_	NHC: _ID_
+
+
+Sexo/Sexe: Masc.	Fecha nac./Data naix.: _DATE_	Edad/Edat: 85 años Dirección/Adreça: _LOCATION_		CP: _LOCATION_
+Municip. (Prov.): _LOCATION_  ABS:_SS_	Tel.:_CONTACT_
+As.: SERVEI CATALA DE LA SALUT	CIP: _ID_	NASS: _ID_
+Nº epis.: _ID_	Tipo/Tipus: HOSPIT.	Inici.: 09.10.2017
+Serv: NEUROLOGIA	UO Enf.: G064 SALA G DE NEUROLOGIA	Hora: 20:07:27
+Facult. de ref.: _NAME_
+
+
+
+
+Tipo ingreso/Tipus ingrés: Urgent	Motivo/Motiu alta: Hospital Ag.
+Diag.:
+ICTUS ACMD ()
+Proc.:
+TC MULTIMODAL () ANALÍTICA SANGUÍNEA ()
+
+
+
+
+INFORME CLÍNICO ALTA / INFORME CLÍNIC ALTA
+
+Motivo de consulta / Motiu de consulta
+Debilidad de extremidades izquierdas
+
+Antecedentes e historia previa / Antecedents i història prèvia
+Varón de 84 años, sin alergias medicamentosas conocidas. Exfumador desde hace años (DA 40 paq-año), refiere consumo de enol 3 UBEs diarias. Vive solo en domicilio, no tiene hijos, su familiar más cercano es un sobrino. Requiere ayuda de servicios sociales para ducharse 2 veces/sem, refiere ser independiente para el resto de ABVD y salir solo a la calle con su perro (mRS 3).
+
+ANTECEDENTES PATOLÓGICOS:
+1.	HIPERTENSIÓN ARTERIAL en tratamiento farmacológico.
+2.	DIABETES MELLITUS TIPO 2 en tratamiento con ADOs.
+3.	DISLIPEMIA en tratamiento farmacológico.
+4.	EPOC (no disponemos de PFR) en tratamiento broncodilatador.
+5.	ENDOCARDITIS AÓRTICA sobre válvula nativa por S. GALLOLYTICUS en Sept/16. Presentó INSUFICIENCIA AÓRTICA GRAVE SECUNDARIA que requirió de SUSTITUCIÓN VALVULAR AORTICA POR PRÓTESIS BIOLÓGICA. Se realizó colonoscopia descartando proceso neoplásico intestinal.
+5.	POSIBLE TOXICIDAD POR SIMVASTATINA por debilidad de cinturas y elevación de CK, durante el ingreso de Sept/16.
+6.	PIOLARINGOCELE intervenido por obstrucción laringea en marzo de 2014
+7.	Hernia inguinal intervenida hace muchos años.
+
+MEDICACIÓN HABITUAL (actualizada 09/10/17):
+-	Diamicron (glicazida) 60 mg/24h - Omeprazol 20 mg/24h - Tiotropio 2,5 mcg/24h - Bisoprolol 5 mg/24h - Enalapril 5 mg/24h
+
+Proceso actual / Procés actual
+Paciente que refiere haber presentado caída casual la mañana del 09/10/2017, estando solo en domicilio, sin
+poderse levantar, por lo que ha estado durante un tiempo prolongado (unas 4h) caído en el suelo. Niega TCE y debilidad muscular u otras focalidades previas a la caída ni en días previos. Ha sido encontrado por los Bomberos sobre las 16:00h, según refieren en el informe, asintomático. Posteriomente, sobre las 16:30h, un vecido refiere que ha iniciado cuadro de debilidad de extremidades izquierdas, por lo que ha avisado al SEM.
+
+Exploración física / Exploració física
+09/10/2017-20:15:00: FiO2 (%) 21, Frecuencia respiratoria (rpm) 13, Glic emia capilar (mg/dl) 142, PAS (mm Hg) 138, PAD (mm Hg) 55, Tª axilar (ºC ) 35.8. 09/10/2017-20:38:33 : Peso (Kg) 60. 09/10/2017-21:00:00 :
+Pulsio ximetría (%) 100.
+Hipertenso (170/95 mmHg), eupneico en reposo, afebril. En malas condiciones higiénicas, presenta restos de vómito. Múltiples hematomas cutáneos y heridas superficiales en extremidades izquierdas.
+CCV: tonos rítmicos, no ausculto soplos.
+NRL: consciente y orientado globalmente. Lenguaje fluente y coherente, sin rasgos de afasia (nomina 6/6, realiza órdenes simples y repite correctamente) ni disartria. Mirada conjugada con preferencia visual hacia la derecha, pero excursión visual horizontal sin limitaciones claras. Disminución de agudeza visual bilateral, refiere que ya conocida, sin déficits campimétricos por confrontación. Hemiparesia facio (mod)- braquio (3/5 proximal con claudicación y 1/5 distal)- crural (2/5) izquierda. Sensibilidad táctil y algésica conservadas. Dismetrías no valorables. Negligencia visuoespacial izquierda, anosognosia. RCP flexor derecho, extensor izquierdo. NIHSS 10.
+
+Radiología / Radiologia
+* TC CRANEAL MULTIMODAL (09/10/17): - CRANEO No se aprecian imágenes de sangrado intracraneal. Signos sugestvios de microangiopatía crónica. ASPECTS 10.
+-ANGIO-TC Defecto de repleción a nivel de una rama M2 distal de la ACM derecha. Origen de arterias carótidas internas con placas mixtas que ocasioana una estenossi aprox del 20-30% derecho.Art. vertebrales izda dominante.
+-PERFUSION -TC Retraso en el TTP corticosubcortical temporal posterior derecho sin caída en el CBV con discordancia significativa.
+
+Exploraciones complementarias / Exploracions complementàries
+* ANALÍTICA SANGUÍNEA URGENCIAS: hiperglicemia simple 187 mg/dL. Función renal, ionograma, hemograma y hemostasia sin alteraciones.
+
+*ANALÍTICA EN SALA NEUROLOGÍA: PCR 1.08, Cr. 1.02, FG 67, A. úrico 7.2, Col Total 171, LDL 120, HDL 44,
+NA/K 144/4.8, Hb1Ac 5,6%, Quick 60%, eje tiroidal y hematimetría sin alteraciones. Vitaminas en curso al alta.
+
+Evolución / Evolució
+1. ICTUS ISQUÉMICO AGUDO EN TERRITORIO DE ARTERIA CEREBRAL MEDIA DERECHA (ACMD). OCLUSIÓN M2. Hombre de 84 años con factores de riesgo cardiovascular y antecedente de endocarditis infecciosa aórtica, portador de prótesis valvular biológica, parcialmente dependiente para ABVD (mRS 3, vive solo con ayuda de servicios sociales), que acude traído por el SEM por cuadro de hemiparesia izquierda de tiempo de evolución incierto el día 09/10/17 (antecedente de dudosa caída casual en domicilio, habiendo permanecido horas en el suelo).
+A su llegada a Urgencias, paciente hipertenso, restos de vómito y múltiples hematomas cutáneos en extremidades izquierdas. A la exploración neurológica destaca preferencia visual hacia la derecha, hemiparesia facio (mod)- braquio (3/5 proximal con claudicación y 1/5 distal)- crural (2/5) izquierda, negligencia visuoespacial izquierda, anosognosia y signo de Babinski izquierdo; NIHSS 10. ECG en ritmo sinusal, ondas T negativas en V1, sin alteraciones agudas en la repolarización. Analítica sanguínea muestra hiperglicemia simple y mioglobina levemente elevada (190 ng/mL), con función renal, ionograma, hemograma  y  CK  normales.  Se  realiza  TC  craneal  multimodal  que  no  muestra  signos  de  isquemia  o
+
+
+
+hemorragia agudos (ASPECTS 10); angio-TC evidencia oclusión en segmento M2 distal de arteria cerebral media derecha; mapas de perfusión muestran retraso de la perfusión en territorio posterior superficial de ACMD, sin caída de volumen.
+Se orienta como un ictus isquémico agudo en territorio de arteria cerebral media derecha por oclusión a nivel de M2 de ACMD, de etiología indeterminada, pendiente de completar estudio. Dado tiempo  de evolución incierto y antecedente de caída, se desestima tratamiento fibrinolítico agudo. Se consulta el caso con Neurorradiología pero ante oclusión vascular distal (acceso difícil) y estado funcional basal del paciente, se desestima tratamiento mecánico del ictus.
+Se inicia tratamiento anticoagulante con posterior paso a antiagragación y antihipertensivo. Por el momento no se inician estatinas ante el antecedente de posible toxicidad muscular.
+Alta a Centro agudo dereferencia (_SS_). Al alta:
+-	NIH: 10
+-	TOAST: indeterminado (pendiente de completar estudio)
+-	mRS: 4
+
+Plan terapéutico / Pla terapèutic
+-	Fluidoterapia NaCl 500mL 0.9% + 15mEq K+ cada 8h - Antiagregación con AAS. - Insulina rápida segun glicemia capilar - Omeprazol 20mg - Tiotropio 2,5mcg/24h - Lactitol 10g/8h - Lorazepam 1mg - Enalapril 10/12h.
+
+Otras recomendaciones / Altres recomanacions
+Se traslada al _SS_ por sectorización.
+
+
+
+Firma/Signatura1: _NAME_	Firma/Signatura2: _NAME_ Categoría: Resident 2	Categoría: Especialista
+Nº Matrícula _SS_: _ID_	Nº Matrícula _SS_: _ID_
+
+Fecha/Data Informe: 13.10.2017
+Hora Informe: 09:44:10
+
+Docum.: _ID_
+Hist. Clínica: _ID_
+El _SS_ ha incorporado sus datos al Fichero de Pacientes, para tratarlos con fines sanitarios.
+Puede ejercer sus derechos de acceso, rectificación, cancelación y oposición, así como obtener mas información en la Unidad de Atención al Cliente.
+Vers. 00
+Pag. 2 de
+3
+Episod.: _ID_
+_SS_ ha incorporat les seves dades al Fitxer de Pacients, per a tractar-los amb finalitats sanitàries. Pot exercir els seus drets d'accés, rectificació, cancel·lació i oposició, i obtenir més informació a la Unitat d'Atenció al Client.
+_SS_
+_LOCATION_) _LOCATION_) Tel. _CONTACT_ Fax _CONTACT_
+http://_CONTACT_/

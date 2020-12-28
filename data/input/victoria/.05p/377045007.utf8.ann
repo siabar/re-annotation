@@ -1,0 +1,83 @@
+T0	_SUG_Lateralizacion 0 1	I
+T1	FECHA 327 337	24.05.2017
+#1	AnnotatorNotes T1	2017-05-24
+T2	HORA 396 401	17:34
+#2	AnnotatorNotes T2	17:34
+T3	SECCION_TIPO_DE_INGRESO 433 458	Tipo ingreso/Tipus ingrés
+T4	SECCION_DIAGNOSTICOS 500 505	Diag.
+T5	_SUG_Ictus_isquemico 549 565	INFARTO CEREBRAL
+T6	_SUG_Trombolisis_intravenosa 601 610	TROMBOSIS
+T7	SECCION_PROCEDIMIENTOS 645 650	Proc.
+T8	_SUG_TAC_craneal 652 654	TC
+T9	SECCION_MOTIVO_DE_INGRESO 827 865	Motivo de consulta / Motiu de consulta
+T10	SECCION_ANTECEDENTES 945 1007	Antecedentes e historia previa / Antecedents i història prèvia
+T11	_SUG_mRankin 1109 1114	mRs 0
+T12	SECCION_ANTECEDENTES_PERSONALES 1118 1141	ANTECEDENTES PERSONALES
+T13	FECHA 1247 1251	2010
+#13	AnnotatorNotes T13	2010-UNDEF-month-UNDEF-day
+T14	SECCION_TRATAMIENTO_HABITUAL 1254 1274	TRATAMIENTO HABITUAL
+T15	SECCION_PROCESO_ACTUAL 1312 1342	Proceso actual / Procés actual
+T16	HORA 1349 1354	13.45
+#16	AnnotatorNotes T16	13:45
+T17	SECCION_PROCESO_ACTUAL 7179 7185	Episod
+T18	SECCION_EXPLORACION_FISICA 1459 1497	Exploración física / Exploració física
+T19	FECHA 1498 1508	24/05/2017
+#19	AnnotatorNotes T19	2017-05-24
+T20	HORA 1509 1514	18:00
+#20	AnnotatorNotes T20	18:00
+T21	FECHA 1661 1671	26/05/2017
+#21	AnnotatorNotes T21	2017-05-26
+T22	HORA 1672 1677	17:20
+#22	AnnotatorNotes T22	17:20
+T23	_SUG_NIHSS 2065 2072	NIHSS 5
+T24	FECHA 2261 2271	25/05/2017
+#24	AnnotatorNotes T24	2017-05-25
+T25	FECHA 2354 2364	25/05/2017
+#25	AnnotatorNotes T25	2017-05-25
+T26	FECHA 2722 2732	25/05/2017
+#26	AnnotatorNotes T26	2017-05-25
+T27	SECCION_EXPLORACIONES_COMPLEMENTARIAS 3036 3096	Exploraciones complementarias / Exploracions complementàries
+T28	SECCION_EVOLUCION 3223 3243	Evolución / Evolució
+T29	_SUG_Arteria_afectada 3280 3302	ARTERIA CEREBRAL MEDIA
+T30	_SUG_Lateralizacion 3303 3310	DERECHA
+T31	_SUG_Trombolisis_intravenosa 3319 3331	Fibrinolisis
+T32	_SUG_Trombolisis_intravenosa 3319 3331	Fibrinolisis
+T33	_SUG_Trombolisis_intravenosa 3337 3342	r-tPA
+T34	_SUG_Trombolisis_intravenosa 3374 3383	TROMBOSIS
+T35	_SUG_Lateralizacion 3411 3420	IZQUIERDA
+T36	_SUG_Etiologia 3464 3476	hipertensión
+T37	_SUG_Lateralizacion 3605 3614	izquierdo
+T38	_SUG_NIHSS 3664 3671	NIHSS 6
+T39	_SUG_TAC_craneal 3827 3837	TC craneal
+T40	_SUG_Localizacion 3948 3956	cortical
+T41	_SUG_Localizacion 3957 3964	frontal
+T42	_SUG_Lateralizacion 3965 3972	derecho
+T43	_SUG_Etiologia 4001 4013	ateromatosis
+T44	_SUG_Trombolisis_intravenosa 4122 4147	tratamiento fibrinolítico
+T45	_SUG_NIHSS 4241 4248	NIHSS 4
+T46	_SUG_TAC_craneal 4313 4323	TC craneal
+T47	_SUG_Localizacion 4390 4398	cortical
+T48	_SUG_Arteria_afectada 4402 4424	arteria cerebral media
+T49	_SUG_Lateralizacion 4425 4432	derecha
+T50	_SUG_Trombolisis_intravenosa 4713 4722	trombosis
+T51	_SUG_Localizacion 4755 4766	posteriores
+T52	_SUG_Lateralizacion 4830 4839	izquierda
+T53	_SUG_Localizacion 4867 4875	profundo
+T54	_SUG_Lateralizacion 4894 4899	ambas
+T55	_SUG_Trombolisis_intravenosa 4921 4930	trombosis
+T56	_SUG_Localizacion 5000 5009	posterior
+T57	_SUG_Lateralizacion 5089 5098	izquierda
+T58	_SUG_Lateralizacion 5146 5147	D
+T59	_SUG_Etiologia 5363 5372	aneurisma
+T60	_SUG_Etiologia 5507 5514	embolia
+T61	_SUG_Trombolisis_intravenosa 5527 5536	trombosis
+T62	_SUG_Localizacion 5544 5552	profunda
+T63	_SUG_Lateralizacion 5759 5768	izquierda
+T64	SECCION_EXPLORACION_FISICA_AL_ALTA 6098 6105	Al alta
+T65	SECCION_TRATAMIENTO_AL_ALTA 6166 6199	Plan terapéutico / Pla terapèutic
+T66	_SUG_Tratamiento_anticoagulante 6226 6238	Acenocumarol
+T67	SECCION_RECOMENDACIONES 6340 6361	Otras recomendaciones
+T68	FECHA 6847 6857	02.06.2017
+#68	AnnotatorNotes T68	2017-06-02
+T69	HORA 6872 6877	10:40
+#69	AnnotatorNotes T69	10:40

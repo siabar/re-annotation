@@ -1,0 +1,130 @@
+SERVEI DE NEUROLOGIA
+INFORME DE ALTANº Historia clínica	_ID_
+Fecha de nacimiento
+_DATE_
+C.I.P.	_ID_	Código Centro	_ID_
+Teléfono	_CONTACT_	Dirección	_LOCATION_
+Fecha ingreso	14/06/17		_LOCATION_
+Fecha de alta	21/06/17	Teléfono	_CONTACT_
+Nº Asistencia	_ID_		
+UH	_ID_		
+
+DIAGNÓSTICOS:
+1.	ICTUS TACI DE ACM IZQUIERDA. TOAST CARDIOEMBÓLICO
+2.	OCLUSIÓN M1 IZQ
+3.	TROMBECTOMIA MECÀNICA
+4.	FIBRINÒLISI RTPA
+5.	FIBRILACIÓN AURICULAR DE DEBUT
+6.	HTA
+7.	DIABETES MELLITUS TIPO 2
+8.	INSUFICIENCIA RENAL CRÓNICA AGUDIZADA
+
+Paciente mujer de 82 años independiente para ABVD, camina sin ayuda, mRS 0. Sin AMC
+
+PROCEDIMIENTOS:
+-	Ingreso y monitorización en Unidad de Ictus
+-	TC craneal (x2), angioTC y TC perfusión
+-	Fibrinolisis endovenosa rTPA
+-	Trombectomía mecánica
+
+MOTIVO CONSULTA:
+Código Ictus Extrahospitalario
+
+ANTECEDENTES:
+-	Hipertensión arterial, refiere buen control
+-	DM tipo 2 en tratamiento.
+
+TRATAMIENTO HABITUAL
+-	Amlodipino 5mg si precisa
+-	AAS 100mg/24h
+-	Atenolol 100mg + diuretico 25mg cada 24h
+-	Metformina 850mg/8h
+-	Enalapril 20mg cada 24h
+-	Glicazida 30mg/8h
+-	Omeprazol 20mg cada 24h
+
+ENFERMEDAD ACTUAL:
+Paciente de 82 años con FRCV y mRS 0 que acude como código ictus extrahospitalario día 14/06 a las 13.28h por clínica que ha empezado a las 12.00h mientras estaba en un bar con su marido de trastorno del habla y hemiparesia derecha.
+
+
+EXPLORACIÓN FÍSICA:
+-	Exploración física en UCIAS: TA 147/77mmHg
+NRL: Consciente con tendencia somnolencia y desorientada en espacio y tiempo no en persona (1), obedece a ordenes sencillas, preferencia ocular derecha que cruza linea media (1), hemianopsia homonima derecha (2), paresia facial derecha (2), disartria moderada (2), afasia de predominio motor
+
+Nombre	_NAME_
+
+(1)  (fluencia  escasa,  no  repite,  nomina  3/4,  compresión  conservada, evocación  escasa)  sensibilida conservada, paresia EI derecha (3), anosognosia (1). NIHSS 12
+
+-	Exploración física en Unidad de Ictus:
+TA: 157/76mmHg; FC: 76lpm; Tª: 37ºC; Glu: 136g/dl Buen estado general, refiere encontrarse bien
+NRL: consciente y orientada en las 3 esferas, responde preguntas y órdenes, mirada conjugada conservada, no alteraciones campimétricas, no paresia facial ni otras alteraciones motoras o sensitivas, no trastorno del lenguaje (nomina, evoca y repite), no disartria, no dismetría. NIHSS: 0
+
+
+EXPLORACIONES COMPLEMENTARIAS:
+-	Analítica de urgencias (14/06/2017): glucosa 129mg/dl, creatinina 1.48mg/dl, Na 139.1mmol/l,  K 4.91mmol/l, Cl 104.5mmol/l, FGe 33ml/min, CKs 60U/l, PCR 0.7mg/dl.
+*Hemograma: Hb 11.9g/dl, VCM 89.1fl, HCM 29.4pg, leucocitos 11.080/mm3 (N 6.360/mm3, L 3.610/mm3, M 7.2%), plaquetas 294.000/mm3.
+*Coagulación: TP 88.3%, TP ratio 1.09, TTPa 22.8seg fibrinógeno 362.4mg/dl, dimero D 24.280
+-	ECG: ritmo sinusal a 60lpm, eje a 0º. PR de 160mseg, QRS estrecho sin otras alteraciones.
+-	Rx tórax: no infiltrados ni condensaciones evidentes. Botón aórtico prominente. mediatino engrosado posiblemente por rotación de la placa.
+-	TC craneal basal, angioTC y TC perfusión (14/06/2017; 13:44h): Signos de infarto isquémico agudo en territorio de ACM izquierda ASPECTS 9. Oclusión de ACM izquierda en M1 a nivel de bifurcación. Área de aspecto isquémico opercular y de penumbra extensa en los mapas de perfusión en el territorio de ACM izquierda.
+-	Analítica de ingreso (15/06; hora): Urea 68mg/dl, Creat 1.32mg/dl, A.úrico 8.1 mg/dl, Na 142mg/dl, K 4.3mmol/l, Cl 101 mmol/l, FG 38ml/min/1.73m2, LDH 296 U/l, CK 29U/l, bi total 1 mg/dl, AST 21U/l, ALT 19U/l, GGT 46U/l, FA 62 U/l, Proteinas 6.1 g/dl, Albúmina 3.7 g/dl, Colesterol 132 mg/dl, Colesterol LDL 72 mg/dl, Colesterol HDL 43 mg/dl, Trigliceridos 115mg/dl, TSH 0.31mcUl/ml, HbA1c 6.7%, PCR
+0.80 mg/dl, Hb 10.5 g/dl, Leucocitos 9910/ul, Neutrofilos 6910/ul, plaquetas 251000/ul, VSG 23mm/h, TP 92%, APTT rati 0.89
+-	TC craneal control (15/06; 13.29h) : No se identifican signos de transformación hemorragica. Hipodensidad del ribete insular izquierdo.
+-	Electrocardiograma 19/06: Fibrilación auricular a 160lpm.
+
+EVOLUCIÓN:
+Paciente de 82 años con FRV que acude a urgencias por clínica de PACI de ACM izquierda con NIHSS de
+12. Se realiza TC craneal a las donde se visualiza oclusión M1 en bifucarción izquierda.
+Dado que no presenta contraindicación y se encuentra en periodo ventana se administra fibrinolisis 6mg a las 13.54h en bolus y se empieza administración 57mg en perfusión. Tiempo puerta aguja 26min. Dado que durante la infusión de tPA la paciente empeora a NIHSS 18 por hemiplejia derecha se decide activar trombectomia mecánica de rescate. Se informa a la familia del riesgo beneficio.
+Se inicia procedimiento con sedación. Groin punture: 14:55h (87`). Se llega a trombo a las 15:23h y se logra a recanalización completa de la ACM a las 13:34h al primer pase de solitaire con TICI III. Finaliza el procedimiento a las 13.51h. La paciente presenta mejoría clínia con recuperación de la hemiplejia. Persiste afasia motora y cuadrantanopsia derecha.
+Después del procedimiento la paciente ingresa en Unidad de Ictus, para monitorización y estudio neurovascular. Se coloca dispositivo SRA para detección de arritmias. A la revaloración a las 6h postrombectomía la paciente presenta un NIHSS de 2 por asimetría facial y dificultad muy leve para la nominación. Se realiza TC craneal de control que no evidencia lesiones agudas ni complicaciones hemorrágicas. Se inicia antiagregación con AAS y heparina profiláctica.
+Se valoran al ingreso el estado de ánimo, las necesidades de rehabilitación y se inician fisioterapia y movilización precoces.
+Durante el ingreso evoluciona de forma favorable, presentando recuperación completa de la clínica neurológica.Se realiza educación sanitaria acerca del ictus.
+Durante el ingreso presenta taquicardia arrítmica por lo que se le realiza un electrocardiograma. Se diagnostica de Fibrilación Auricular Paroxística y se le instaura tratamiento anticoagulante con Sintrom por su Filtrado Glomerular de 38ml/min.
+En analítica destaca insuficiencia renal crónica reagudizada de origen prerrenal. Se recomienda hidratación abundante, se retira tratamiento con IECAs y se recomienda control de función renal por su médico de cabecera en una semana.
+
+No presenta otras complicaciones, y dada la estabilidad clínica se decide alta a domicilio previo control de anticoagulación y ritmo cardiaco.
+
+No precisa rehabilitación al alta. Al alta se mantiene tratamiento anticoagulante con Sintrom y controles en CCEE de Hematología.
+
+Oxford TACI. TOAST cardioembólico. Al alta NIHSS 0 Rankin 0. Debe seguir controles en CCEE de Neurología en fecha programada.
+
+
+TRATAMIENTO:
+-	RETIRAR: ENALAPRIL Y ADIRO
+
+-	INICIO SINTROM:
+*2mg (1/2 comp) hoy a las 19h y mañana acudir a Hmatología Sala J para control INR y clexane 60mg esta tarde y mañana por la mañana.
+
+-	MANTENER RESTO DE TRATAMIENTO HABITUAL SIN CAMBIOS:
+-	Amlodipino 5mg si precisa
+-	Atenolol 100mg + diuretico 25mg cada 24h
+-	Metformina 850mg/8h
+-	Glicazida 30mg/8h
+-	Omeprazol 20mg cada 24h
+
+
+
+INDICACIONES:
+-	Se recomienda control estricto de enfermedades que aumentan el riesgo de ictus: hipertensión arterial, diabetes, colesterol elevado (dislipemia) y enfermedades del corazón. Realizar el tratamiento de forma adecuada según las recomendaciones de su médico.
+-	Abstención de tabaco y alcohol
+-	Seguir una dieta adecuada, con poca sal, evitando grasas, especialmente las saturadas  (grasas animales, aceites y grasas para cocinar).
+-	Evitar la obesidad y el sobrepeso y realizar ejercicio físico moderado de forma regular.
+
+Dr/a.	_NAME_
+Dr/a.	_NAME_
+Dr/a.	_NAME_
+Cap Secció	(Nº Colegiado : _ID_)
+Metge/essa
+Resident
+(Nº Colegiado : _ID_)
+Metge/essa
+Resident
+(Nº Colegiado : _ID_)
+
+
+Les seves dades personals s'incorporen en un fitxer d´usuaris a fi del seu tractament sanitari. Pot exercir el seu dret d´oposició, accés i rectificació de les dades inexactes dirigint-se al Servei de Documentació Clínica.
+Sus datos personales se incorporan en un fichero de usuarios para su tratamiento sanitario. Puede ejercer su derecho de oposición, acceso y rectificación de los datos inexactos dirigiéndose al Servicio de Documentación Clínica
+
+_SS_ | NIF _ID_ |_LOCATION_ | Telèfon _CONTACT_ | Fax _CONTACT_ | _CONTACT_
+Pàgina 1 de 4

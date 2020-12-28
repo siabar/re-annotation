@@ -1,0 +1,95 @@
+I.CLINIC DE NEUROCIÈNCIES NEUROLOGIA
+_NAME_	NHC: _ID_
+
+
+Sexo/Sexe: Masc.	Fecha nac./Data naix.: _DATE_	Edad/Edat: 68 años Dirección/Adreça: _LOCATION_ª		CP: _LOCATION_
+Municip. (Prov.): _LOCATION_  ABS:_SS_		Tel.:_CONTACT_ As.: SERVEI CATALA DE LA SALUT	CIP: _ID_	NASS: _ID_
+Nº epis.: _ID_	Tipo/Tipus: HOSPIT.	Inici.: 12.05.2017
+Serv: NEUROLOGIA	UO Enf.: G6B4 SALA G NEUROL. CURT. E Hora: 19:22:22
+
+
+
+
+
+Tipo ingreso/Tipus ingrés: Urgent	Motivo/Motiu alta: Dom. Familiar
+Diag.:
+CRISIS COMICIALES ()
+HEMATOMA SUBDURAL Y HSA CONVEXIDAD ()
+Proc.:
+TC CRANEAL ()
+
+
+
+
+INFORME CLÍNICO ALTA / INFORME CLÍNIC ALTA
+
+Motivo de consulta / Motiu de consulta
+Alteración transitoria del lenguaje
+
+Antecedentes e historia previa / Antecedents i història prèvia
+Antecedentes personales:  Hombre de 68 años, Alergia contraste iodado. I ndependiente para ABVD (mRs:0). Natural de _LOCATION_, en _LOCATION_ desde hace 40 años.
+** ANTECEDENTES PATOLÓGICOS.
+1.	CARDIOPATÍA ISQUÉMICA con revascularización en 2009 de la descendenteanterior con 2 stents y en 2013 e n la circunfleja proximal con 1 stent.
+2.	FIBRILACIÓN AURICULAR (Diagnos ticado en _LOCATION_ en 2015) en seguimiento en cardiología por el Dr. _NAME_, ahora con rivaroxaban 15mg y AAS 100mg.
+3.	LINFOMA DIFUSO DE CÉLULAS GRANDES B con afectación abdominal, estadioIE-> R-CHOP entre abril y agosto 2014 -> RC (PET normal después de 3 ciclos). En RC desde entonce s, tiene últimos PET/TCs de marzo y octubre 2015 en RC metabólica. Actua lmente en tratamiento con Ibrutinib que se suspendio el día 05/05/2017 p or cefalea.
+4.	Hemicolectomía por isquemia intestinal secundaria a la resección del tumor abdominal.
+5.	Diverticulitis sigma desde 2007.
+6.	CARCINOMA BASOCELULAR en el pabellón nasal en 2014.
+7.- HEMORRAGIA SUBARACNOI DEA DE LA CONVEXIDAD HEMISFÉRICA IZQUIERDA + HEMATOMA SUBDURAL
+LAMINAR, en contexto de tratamiento antitrombótico rivaroxaban, AAS además de tratamiento con Ibrutinib. 8.- CRISIS EPILÉPTICAS PARCIALES secundarias a hemorragia subaracnoidea de la convexidad en tratamiento con Levetiracetam 500 mg c/12h.
+** MEDICACIÓN HABITUAL: Levetiracetam 500 c/12h. Metamizol 575 mg c/8h. Simvastatina 20 mg c/24h. Metasedin 10mg/amp 5 mg sc c/8h alternos si cefalea Tramadol asta 50 mg c/8h . Bisoprolol 2.5 mg C/24h. Alprazolam 0,25 c/24h. Esomeprazol 20 mg c/24 h. Tamsulosina 0,4 mg c/24h. Paracetamol 1 gr c/8h. Ondansetrón 4 mg C/8 h. Relvar ellipta 184mcg/22mcg inh c/24h. Mycostatin 100.000 ui/ml c/12h.
+
+Proceso actual / Procés actual
+
+
+Varón de 68 años que el 12.05.2017 a las 18h presenta alteración transitorio del lenguaje, por lo que acude a urgencias. Refiere también parestesias en mano derecha de escasos segundos de duración minutos antes.
+Habia sido de alta a las 17h por hemorragia subaracnoidea de la convexidad con crisis epilépticas parciales secundarias.
+
+Exploración física / Exploració física
+12/05/2017-23:00:00: PAS (mm Hg) 123, PAD (mm Hg) 45, Tª axilar (ºC) 35. 6.
+Hemodinámicamente estable, afebril, eupneico, normotenso
+NRL: Consciente y orientado. Lenguaje fluente sin rasgos afásicos (nominación 7/7, repetición conservada, obedece órdenes simples, complejas y cruzadas). MIrada centrada sin limitación en la mirada conjugada horizontal bilateral. Campimetría por confrontación sin alteraciones. Sin disartria. Resto de PC conservado. Balance muscular conservado en las 4 extremidades. Sensibilidad sin alteraciones. Sin dismetrías. RCP flexor bilateral
+AC: Arritmica, sin soplos
+AR: MVC; sin roncus ni sibilancias.
+
+Laboratorio / Laboratori
+* Analítica: Se adjunta.
+
+Radiología / Radiologia
+** TC CRANEAL:
+Se compara con TC previa del 08/05/17: Persiste estable el colapso asimétrico de surcos fronto-parietales izquierdos (en RM previa del 09/05/17 refieren ocupación hemática de surcos). Estructuras de la línea media centradas. Cisternas basales permeables. Sistema ventricular de tamaño y posición dentro de la normalidad. Cambios postqx. en mastoides/peñasco izq. No se observan otras alteraciones significativas en la densidad del parénquima cerebral ni cerebeloso.
+
+Evolución / Evolució
+1.- CRISIS EPILÉPTICA FOCAL SECUNDARIA A HEMORRAGIA SUBARACNOIDEA DE LA CONVEXIDAD IZQUIERDA + HEMATOMA SUBDURAL LAMINAR IZQUIERDO.
+En urgencias el paciente se encuentra hemodinámicamente estable, afebril, eupneico ,normotenso. En la exploración neurológica sin focalidad. Analítica sanguinea sin alteraciones agudas. El ECG en ritmo sinusal. La neuroimagen sin lesiones isquémicas ni hemorrágicas agudas.
+Se trata de una crisis epiléptica focal en paciente con hemorragia subaracnoidea de la convexidad frontal izquierda y hematoma subdural laminar izquierdo. Se aumenta dosis de Levetiracetam a 1500 mg C/12h e ingresa en la sala de neurología donde se mantiene asintomático durante 24h, por lo que se decide alta a domicilio con control ambulatorio según citación prevista.
+Se explican al paciente normas de reconsulta.
+
+Plan terapéutico / Pla terapèutic
+- Aumentar la dosis de Levetiracetam a 1500 mg/12. - Resto sin cambios.
+
+Otras recomendaciones / Altres recomanacions
+.
+
+
+
+Firma/Signatura1: _NAME_		Firma/Signatura2: _NAME_ Categoría: Resident 4	Categoría: Especialista
+Nº Matrícula HCP: _ID_	Nº Matrícula HCP: _ID_
+
+
+
+Fecha/Data Informe: 13.05.2017
+Hora Informe: 14:56:08
+
+Docum.: _ID_
+Hist. Clínica: _ID_
+El _SS_ ha incorporado sus datos al Fichero de Pacientes, para tratarlos con fines sanitarios.
+Puede ejercer sus derechos de acceso, rectificación, cancelación y oposición, así como obtener mas información en la Unidad de Atención al Cliente.
+Vers. 00
+Pag. 2 de
+3
+Episod.: _ID_
+_SS_ ha incorporat les seves dades al Fitxer de Pacients, per a tractar-los amb finalitats sanitàries. Pot exercir els seus drets d'accés, rectificació, cancel·lació i oposició, i obtenir més informació a la Unitat d'Atenció al Client.
+_SS_
+_LOCATION_) _LOCATION_) Tel. _CONTACT_ Fax _CONTACT_
+http://_CONTACT_/

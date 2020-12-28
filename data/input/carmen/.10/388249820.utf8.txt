@@ -1,0 +1,117 @@
+_LOCATION_
+_LOCATION_) Anul·lació/Reprogramació visites:_CONTACT_
+Telèfon Centraleta: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 70 Anys
+NIF/DNI: _ID__NAME_; _NAME_; _NAME_;;
+_NAME_
+Informe d'alta d'hospitalització
+16:24:00
+10.07.2017
+_LOCATION_
+_SS_ NEUROLOGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_
+DOMICIL/RES.SOC 04.07.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Paciente de 79 años que ingresa por sospecha de ictus vertebrobasilar tratado con rtPA.
+
+ANTECEDENTS
+No alergias medicamentosas conocidas. No hábitos tóxicos.
+No HTA, DM ni DLP.
+Neumonía en mayo 2017.
+No otros antecedentes médicoquirúrgicosde interés. Situación basal: mRankin 0.
+MEDICACIÓ HABITUAL
+Paroxetina 20mg/24h.
+
+PROCÉS ACTUAL
+Mujer de 70 años que acude a Urgencias el día 03/07 por clínica de instauración brusca sobre las 22:00h mientras estaba haciendo la cena de sensación de mareo con giro de objetos, desviación de la comisura bucal y disartria. Contactan con SEM que activa código ictus a las 22:40. Llega a Urgencias de _SS_ a las 23h.
+En el momento de la valoración por el neurologo de guardia la paciente presenta TA 152/88, FC 82 lpm, DTX 94, está consciente, orientada, habla normal, lenguaje conservado, campimetría normal, limitación en mirada vertical superior, nistagmus con ojo que abduce en mirada horizontal a la izq sugestivo de OIN D, PFSN D, no alteraciones en fuerza ni en sensibilidad, no dismetrías, RCP flexores.
+Se realiza coagucheck: (1.1), analítica sin alteraciones significativas, ECG sin hallazgos patológicos.
+A las 23.15h se realiza TAC craneal y AngioTC, sin alteraciones significativas. Ambas arterias cerebrales posteriores de flujo predominantemente a través de comunicantes posteriores, con segmentos P1 bilaterales hipoplásicos.
+
+Se orienta como ictus vertebrobasilar. Dada la ausencia de contraindicaciones se inicia rTPa a las 23:35 (6mg en bolus+57mg en perfusión durante una hora), sin cambios significativos en la exploración tras el tratamiento. Se decide ingreso en Unidad de Ictus del Serivicio de Neurología.
+
+EXPLORACIÓ FÍSICA
+
+-	Hemodinámicamente estable y afebril. Normohidratado y Normocoloreado.
+-	AC: Tonos rítmicos, sin soplos. Pulsos periféricos presentes y simétricos. Ingurgitación yugular negativa, RHJ (-).
+-	AR: MVC, sin ruidos añadidos
+-	ABD: Abdomen blando y depresible. No doloroso a la palpación superficial ni profunda. No presencia de masas ni visceromegalias. Peristaltismo presente. PPL (-) bilateral.
+-	NRL:  :  consciente,  orientado  en  espacio,  tiempo  y  persona.  Lenguaje  y  habla  sin  alteraciones.  MOEs
+-	
+Informe d'alta d'hospitalització
+
+
+
+
+conservados con diplopía a la mirada vertical y discreta desconjugación a la mirada vertical. Campimetría normal. Pares craneales normales. Fuerza y sensibilidad sin alteraciones. RCP flexor bilateral. NIHSS 1
+-	EEII: No edemas periféricos, no signos de TVP
+
+EXPLORACIÓ COMPLEMENTÀRIA
+EXPLORACIONES EN URGENCIAS:
+A/S general: EAB venoso: pH 7.41; CO2 43mmHg; O2 44mmHg; HCO3- 27.3mmol/L; EB 2.3mmol/L; Sat.O2 70%.
+Bioquímica: Glucosa 5.3mmol/L; Urea 7.0mmol/L; Cr 67umol/L; Na+ 140mmol/L; K+ 4.55mmol/L.
+Hemograma:  Hb  125g/L;  Hto  38%;  VCM  81fL;  Plaquetes  265x10E9/L;  Leucòcits  9.0x10E9/L  (Neutròfils 3.21x10E9/L, Limfòcits 4.43x10E9/L; N 35.7%, L 49.3%). TP 1, TTPa 0,78.
+ECG: Ritmo sinusal a 60ppm; AQRS 0º; PR 0,16; QRS estrecho de 0.08, sin alteraciones en la repolarización.
+Estudio craneal (3/07):
+TC CRANEAL SIMPLE: Estructuras de la línea media centradas y cisternas perimesencefálicas libres. Cambios involutivos del parénquima cerebral, con aumento difuso de espacios subaracnoideos en surcos de la convexidad y cisternas de la base. Sistema ventricular de talla y configuración normal. No se identifican sufusiones hemáticas intra o extraaxiales.
+ANGIOTC DE TRONCOS SUPRAAÓRTICOS Y CRANEAL: Discreta ateromatosis del cayado aórtico y origen de los troncos supraaórticos, que no compromete demanera significativa el calibre de los mismos. Sistemas carotídeos y vertebrobasilar sin alteraciones destacables. Ambas arterias cerebrales posteriores de flujo predominantemente a través de comunicantesposteriores, con segmentos P1 bilaterales hipoplásicos. Permeabilidad de los segmentos proximales de arterias cerebrales anteriores, medias y posteriores, sin imágenes de estenosis o dilataciones aneurismáticas.
+CONCLUSIONES Estudio sin alteraciones agudas intracraneales destacables
+
+EXPLORACIONES EN NEUROLOGÍA:
+TC craneal (4/07): No sangrado agudo intracraneal. Resto sin cambios a TC previo del 03/07/2017.
+Analítica (5/07):
+Bioquímica: Urea 2.8mmol/L; Cr 73umol/L; FG 72ml/min; Glucosa 5.7mmol/L; Na+ 138mmol/L; K+ 3.96mmol/L; proteinas 63 g/L, ALT 0.14ukat/L; AST 0.30ukat/L; GGT 0.14ukat/L; FA 1.10ukat/L; Ca 2.15mmol/L; Colesterol 5.09mmol/L; HDL 1.46; LDL 3.17; TG 1mmol/L. TSH 3.78mu.int./L; tiroxina 15.2pmol/L. HbA1c 5.4%. Cobalamines 304pmol/L; folats 14.7nmol/L.
+Coagulació: TTPA 0.88; TP 1.09; fibrinógeno 2.33g/L.
+Hemograma:  Hb  120g/L;  Hto  36%;  VCM  80fL;  Plaquetes252  x10E9/L;  Leucòcits  6.0x10E9/L  (Neutròfils 2.76x10E9/L, Limfòcits 2.44x10E9/L; N 45.8%, L 40.6%). VSG 17mm.
+Serologías lues, VIH y hepatitis negativas.
+ETT  (06/07):  Ventrículo  izquierdo  no  dilatado  ni  hipertrófico,  con  función  sistólica  global  conservada,  sin alteraciones segmentarias de la contractilidad. FE 65 % Función diastólica normal. Ventrículo derecho no dilatado, normocontráctil. Aurícula izquierda no dilatada. Raiz aórtica y aorta ascendente no dilatadas. Válvula aórtica trivalva,  sin  estenosis  ni  insuficiencia.   Válvula  mitral  morfológicamente  normal,  con  ligera  insuficiencia. Insuficiencia tricuspídea ligera que permite estimar una PAPs de 31 mmHg. Flujo pulmonar no sugestivo de HTP. Vena cava inferior no dilatada. No se observa derrame pericárdico. -- Movimiento aneurismático del SIA. STest de SS agitado: Se observa :paso de burbujas a cavidades izquierdas tras Valsalva, grado 2, . compatible con FOP. RM cerebral (7/07): Cambios involutivos cerebrales. Asimetría en los ventriculos laterales del sistema ventircular, posiblemente contitucional. Signos de afectación isquémica crónica de la sustancia blanca. Imágenes puntiformes en tálamo izquierdo sugestivas de infartos lacunares. Mínimo foco puntiforme de restos hemáticso crónicos en hemisferior cerebelosos izquierdo. Inespecífico aunque podría corresponder a mínimo cavernoma.
+
+Informe d'alta d'hospitalització
+
+
+
+
+
+EVOLUCIÓ CLÍNICA
+Paciente de 70 años ingresada por sospecha de ictus vertebrobasilar que recibió trombolisis. TC control sin evidencia de resangrado.
+
+Durante su ingeso se ha mantenido estable a nivel hemodinámico. No se han objetivado arritmias durante la monitorización.
+
+Mejoría progresiva a nivel neurológico, con resolución completa del cuadro de diplopía. Asintomática, NIHSS 0. mRankin 0.
+
+Se ha realizado analítica de ingreso sin alteraciones significativas. Se ha realizado ecocardiograma transtorácico que evidencia foramen oval permeable con septo aneurismático grado II al Valsalva.
+
+Resonancia magnética cerebral sin hallazgos sugestivos de isquemia cerebral. La paciente tolera dieta oral. Deambula sin limitación.
+Se orienta como AIT trombolizado con recuperación ad-integrum. Se decide antiagregación Clopidogrel 75 mg.
+
+
+DIAGNÒSTICS
+436/5 Ictus
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+-Clopidogrel 75 mg vía oral
+-Atorvastatina 40 mg vía oral.
+
+CONTROL
+-Control en CEX NRL.
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+10.07.2017
+Pàgina 1 de 3

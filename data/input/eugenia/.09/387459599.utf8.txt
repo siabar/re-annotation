@@ -1,0 +1,122 @@
+_LOCATION_ Tel. _CONTACT_
+_CONTACT_
+Informe Alta Hospitalització
+_NAME_
+HC: _ID_
+
+>
+
+Informe de Cuidados Intensivos
+
+
+Adreça: _LOCATION_	Data naix.: _DATE_
+Població: _LOCATION_	Sexe: FEMENI
+Provincia: _LOCATION_	CIP: _ID_
+País: _LOCATION_	NASS: _ID_
+Telèfon: _CONTACT_ / _CONTACT_	DNI o Tarja Residència: _ID_
+
+
+Servei: Medicina Intensiva	Data ingrés a URG: 01/07/2017 00:54
+Unitat clínica: Medicina Intensiva	Data hospitalització: 01/07/2017 02:32
+Tipus d'ingrés: Urgències	Data alta: 07/07/2017
+Proveïdor de Serveis: Servei Català de la Salut	Destí: 11 - Defunció
+
+
+
+Diagnòstic principal:
+
+433.21 AVC ISQUEMIC VERTEBROBASILAR
+
+Diagnòstics Secundaris:
+
+780.01 COMA
+
+Procediments:
+
+96.04 INTUBACIO OROTRAQUEAL IOT
+96.70 VENTILACIO MECANICA
+90.59 ANALITICA SANG
+87.03 TAC CRANIAL
+87.44 RADIOGRAFIA DE TORAX
+89.52 ELECTROCARDIOGRAMA ECG
+
+
+
+
+
+Pacient de 79 anys d'edat que ingressa per baix nivell de consciència
+
+Antecedents:
+
+Malalties prèvies:
+
+HIPERTENSIÓ ARTERIAL (En tto mèdic. .
+
+Al·lèrgies:
+
+El pacient no presenta al·lèrgies conegudes.
+
+Medicació prèvia:
+
+Enalapril 20mg/24h, hidroclortiazida 50mg/24h, omeprazol 20mg/24h, zaldiar 37.5/325mg 2comp/24h, acido alendrónico/semanal, calcio 1c/24h, tryptizol 10mg/24h.
+
+Història Actual:
+
+
+Pacient amb FFSS conservades, independent per les ABVD, viu sola.
+Habitualment A les 21:30h està acompanyada pel nét que la troba bé, únicament es queixa de cefalea durant el dia. A les 22h30 contacte telefònic per part dels fills on respon adequadament. A les24:00h la truquen novament per demanar-li per la cefalea i no respon al telèfon, la van a veure i se la troben en baix nivell de consciència, sense respondre a estímuls, per la qual cosa s'activa SEM i es trasllada a Urgè ncies del nostre hospital.
+
+Exploració física:
+
+-	NRL: Glasgow 5-6, babinsky bilateral, flexiona extremitats esquerres al dolor, dretes inicialment sense resposta (després sembla que també les flexiona). Pupiles no valorables per IQ de cataractes. Lleu desviació comisura bucal dreta.
+-	AC: TCR, no bufs significatius.
+-	AR: MVC sense sorolls sobreafegits.
+
+Resum proves complementàries:
+
+Laboratori:
+
+-	A/S: Leucòcits 7.68 x 10^9/L, Hematies 4.83 x 10^12/L, Hemoglobina 144 g/L, Hematòcrit 0.42 L/L, Volum corpuscular mig 86.1 fL, Hemoglobina corpuscular mitja 29.8 pg, Conc. Hb. corpuscular mitja 346 g/L, Índex dispersió hematies 12.4 %, Plaquetes 282 x 10^9/L, Volum plaquetar mig 9.1 fL, Índex dispersi ó de plaquetes 9.2 fL, Plaquetòcrit 0.026 L/L, Neutròfils (%) *80 %, Neutròfils 6.14 x 10^9/L, Limfòcits (%)
+*10.4 %, Limfòcits *0.8 x 10^9/L, Eosinòfils (%) 0 %, Eosinòfils *0 x 10^9/L, Basòfils (%) 0.4 %, Basòfils
+0.03 x 10^9/L, Monòcits (%) 9.2 %, Monòcits 0.71 x 10^9/L, Temps protrombina 1.04 ratio, T.Tromboplastina parcial activ 0.81 ratio, Glucosa *157 mg/dL, Urea 33 mg/dL, Creatinina 0.82 mg/dL, Sodi *133 mEq/L, Potassi Mostra hemolitzada.
+
+Imatge:
+
+-	TC crani - AngioTC - Perfusió: Absència de desplaçaments d'estructures de línia mitja supra i infratentorials. No s'observen lesions hemorràgiques intra ni extraparenquimatoses. Discreta dilatació global i simètrica del sistema ventricular, valls silvians i solcs corticals de la convexitat. Cisternes basals i peritronculars lliures. Tènue àrea hipodensa talàmica esquerra. Fossa posterior i parènquima cerebral sense altres alteracions morfològiques ni densitomètriques valorables.
+ASPECTS : 10 punts.
+
+TC perfusió: S'observa un augment dels temps TTD i MTT del territori vascular d'ambdues ACP's: occipital bilateral, mesencèfal i talàms, que coincideix amb una alteració del flux (CBF) i amb preservació del volum (CBV) compatible amb àrea de penombra isquèmica (mismatch).
+Àrees d'alteració del flux (CBF) i del volum (CBV) de topografia mesencefàlica i talàmica de predomini esquerre, compatible amb àrea d'infart establert.
+
+Angio-TC: Oclusió de l'artèria vertebral esquerra a l'alçada de V2. Oclusió de l'artèria basila que es continua a ambdós ACP's. ACM i ACA bilaterals normals. Normal disposició dels TSA.
+
+Conclusió: Infart isquèmic agut del territori vascular cerebral posterior, amb àrea de mismatch significativa. Oclusió de l'artèria basilar prebifurcació de les ACP's.
+
+
+-	Rx torax: ICT 0.5, no condensaciones. Tubo orotraqueal hacia bronquio derecho (malgrat que ventila
+-	
+
+correctament a ambdos camps, es retira 3-4cm).
+
+-	RMN crani: Examen RM cranial amb seqüències potenciades en T1 i T2, en els diferents plans de l'espai, i s'inclouen seqüència de difusió i estudi angio-RM arterial intracranial TOF. Discreta i global dilatació global del sistema ventricular, i sense asimetries ni signes d'activitat hidrocefàlica
+Cisternes basals i peritronculars lliures. Polígon de Willis i tronc vèrtebro-basilar permeables, i sense estretaments de calibre significatius. Imatges compatibles amb anomalia de desenvolupament venosa (angioma venós) subcortical i amb drenatge venós profund frontal dret. Àrees focals de topografia talà mica-mesencefàlica medial dreta, gangliobasal-capsular i talàmica i mesencefàlica esquerra, hiperintenses en T2/FLAIR i difusió, compatibles amb infart aguts, amb un component talàmic esquerre hipointens en gradient T2 i discretament hiperintens en T1 i amb edema intersticial perilesional associat. Petites imatges focals de similars característiques de senyal que les de les lesions abans descrites de topografia hipocàmpica bilateral, i hemisfèrica cerebel·losa bilateral infero-lateral dreta i inferior esquerra. Parènquimes cerebral, cerebel·lós i del tronc cerebral sense altres alteracions significatives morfològiques ni de la seva senyal de ressonància, tret d'imatges focals de probable naturalesa leucomalàcica hipò
+xico-isquèmica crònica de topoagrafia preferentment subcortical frontal bilateral i peribiventricular. Unió cr ànio-cervical sense anomalies valorables.
+
+Conclusió: Infarts isquèmics aguts talàmic-mesencefàlic dret i mesencèfalo-talàmic gangliobasa-capsular amb transformació hemorràgica esquerre i múltiples lesions isquèmiques agudes hipocàmpiques i cerebell.loses bilaterals, de probable etiopatogènia tromboembòlica.
+
+Altres proves:
+
+- ECG: RS a 80lpm.
+
+Evolució i comentaris:
+
+1.- AVC isquèmic de fossa posterior.
+Oclusió arteria vertebral esq. + artèria basilar.
+Durant l'estada a UCI, la pacient s'ha mantingut sense sedació, conectada a VM, sense mostrar milloria de l'estat neurològic. persisteix en GCS 5T (O1,VT,M4), a expenses de flexió normal de l'ESE, amb hemiparèsia dreta. RCP esq. extensor, i dret indiferent. El 6è dia d'ingrés es realitza RMN, que mostra lesions isquèmiques extenses en tronc cerebral. Valorat el cas conjuntament amb S. Neurología, i donat el pronòstic infaust de les lesions cerebrals, s'ofereix a la familia la retirada del suport ventilatori, prioritzant les mesures de confort de la pacient. La familia enten i comparteix la decisió, pel que el dia 7.07.17, es procedeix a extubació i retirada de la ventilació mecánica. La pacient presenta deteriorament respiratori en la hora posterior, i finalment és exitus vitae a les 11:20h del mateix 7.07.17.
+
+
+_LOCATION_, 07/07/2017
+_NAME_	_NAME_
+(Nº col _ID_)	(Nº col _ID_
+
+Nom i cognoms metge: _NAME_ (Nº col: _ID_Pàg.: 1/4

@@ -1,0 +1,113 @@
+I.CLINIC DE NEUROCIÈNCIES NEUROLOGIA
+_NAME_	NHC: _ID_
+
+
+Sexo/Sexe: Masc.	Fecha nac./Data naix.: _DATE_	Edad/Edat: 57 años Dirección/Adreça: _LOCATION_		CP: _LOCATION_
+Municip. (Prov.): _LOCATION_  ABS:_SS_		Tel.:_CONTACT_ _CONTACT_ As.: SERVEI CATALA DE LA SALUT	CIP: _ID_	NASS: _ID_
+Nº epis.: _ID_	Tipo/Tipus: HOSPIT.	Inici.: 24.05.2017
+Serv: NEUROLOGIA	UO Enf.: G064 SALA G DE NEUROLOGIA	Hora: 17:34:28
+Facult. de ref.: _NAME_
+
+
+
+
+Tipo ingreso/Tipus ingrés: Urgent	Motivo/Motiu alta: Dom. Familiar
+Diag.:
+OCLUSION DE ART. CEREBRAL NO ESPECIF. CON INFARTO CEREBRAL (434.91) FORAMEN OVAL PERMEABLE ()
+TROMBOSIS VENOSA EXTREMIDADES INFERIORES ()
+Proc.:
+TC MULTIMODAL ()
+ECO-DOPPLER CON BURBUJAS () ECO-DOPPLER EEII ()
+ANGIO RM CRANEAL () ECOCARDIOGRAMA () RADIOGRAFÍA DE TÓRAX ()
+
+
+
+
+INFORME CLÍNICO ALTA / INFORME CLÍNIC ALTA
+
+Motivo de consulta / Motiu de consulta
+Desviación de comisura bucal y debilidad de brazo izquierdo de inicio súbito.
+
+Antecedentes e historia previa / Antecedents i història prèvia
+Varón de 57 años, sin alergias medicamentosas conocidas ni hábitos tóxicos. Independiente para ABVD (mRs 0).
+
+ANTECEDENTES PERSONALES:
+1.	MIGRAÑA CON AURA.
+2.	TRASTORNO DE ANSIEDAD.
+3.	HIPERPLASIA BENIGNA DE PRÓSTATA.
+4.	LITIASIS RENAL en 2010.
+
+TRATAMIENTO HABITUAL:
+- Clonazepam PRN - Alprazolam PRN.
+
+Proceso actual / Procés actual
+A las 13.45h, al salir de trabajar, nota desviación de comisura bucal, con posterior debildiad en brazo izquierdo.
+
+Exploración física / Exploració física
+24/05/2017-18:00:00: Frecuencia respiratoria (rpm) 13, Glicemia capilar (mg/dl) 93, PAS (mm Hg) 115, PAD
+
+(mm Hg) 74, Pulsioximetría (%) 100, Tª axilar (ºC) 35.5. 26/05/2017-17:20:00 : FiO2 (%) 21.
+NRL: Consciente y orientado en las 3 esferas. Lenguaje normofluente sin afasia (nomina, repite y obedece). Leve disartria. Mirada centrada sin limitaciones en la excursión visual. Paresia facio (mod central) braquial (3-/distal, 2/5 proximal) crural (4/5). No alteraciones sensitivas. No dismetrías. No extinción ni negligencia. RCP flexor derecho, extensor izquierdo. NIHSS 5.
+
+Laboratorio / Laboratori
+*	ANALÍTICA SANGUÍNEA: proteínas totales: 60. Vitamina B12: 212 pg/mL (rango insuficiente). Resto sin alteraciones.
+
+Radiología / Radiologia
+*	TC CRANEAL BASAL (25/05/2017): no muestra alteraciones en secuencia basal (ASPECTS 10).
+
+*	TC CRANEAL CONTROL (25/05/2017): No se observan imágenes de sangrado agudo intra ni extraxial. No se observan alteraciones significativas de la densidad del parénquima cerebral ni cerebeloso. Sistema ventricular de tamaño y morfología normal. Estructuras de la línea media centradas. Cisternas basales libres. Espacios extraxiales conservados.
+
+*	RM CEREBRAL
+
+*	ECO-DOPPLER TRANSCRANEAL (25/05/2017): Hallazgos compatibles con FOP moderado.
+
+*	ECO-DOPPLER DE EXTREMIDADES INFERIORES: Trombosis de las venas peroneas, tibiales posteriores y musculares internas de la pantorrilla en extremidad inferior izquierda. Resto del sistema venoso profundo y superficial de ambas EEII sin imagenes de trombosis.
+
+Exploraciones complementarias / Exploracions complementàries
+
+*	ELECTROCARDIOGRAMA: RS, FC: 60 lpm, PR: 160 msg, QRS: 80 msg, sin alteraciones del ST. Signo del crochetage en DII y AVF.
+
+Evolución / Evolució
+1.	ICTUS ISQUÉMICO EN TERRITORIO DE ARTERIA CEREBRAL MEDIA DERECHA (ACMD). Fibrinolisis. con r-tPA.
+2.	FORAMEN OVAL PERMEABLE.
+3.	TROMBOSIS VENOSA EXTREMIDAD INFERIOR IZQUIERDA
+
+A su llegada a Urgencias, presenta ligera hipertensión arterial de predominio diastólico que se resuelve de forma espontánea. En la exploración neurológica destaca síndrome hemimotor izquierdo desproporcionado (mayor paresia facio-braquial), NIHSS 6. Analítica sanguínea sin alteraciones relevantes. ECG en ritmo sinusal, se evidencia signo del crochetage en DII y AVF, sin otras alteraciones.
+Se realiza TC craneal multimodal que no muestra alteraciones en secuencias basales (ASPECTS 10). Se observa un retraso de perfusión cortical frontal derecho. En Angio-TC no se observan ateromatosis ni oclusiones proximales en grandes vasos intracraneales. Dada la ausencia de contraindicaciones, se inicia tratamiento fibrinolítico. A la revaloración tras el tratamiento, presenta mejoría del déficit motor a nivel braquial (NIHSS 4).
+Ingresa en la Unidad de Ictus para monitorización. Se realiza TC craneal de control y RM cerebral que muestran la lesión isquémica a nivel cortical de arteria cerebral media derecha, sin complicaciones hemorrágicas, por lo que se inicia tratamiento antiagregante con Aspirina.
+Se realiza eco-doppler transcraneal con burbujas que presenta hallazgos compatibles con foramen oval permeable de tamaño moderado. Se realiza eco-doppler de EEII en la que se evidencia trombosis de las venas peroneas, tibiales posteriores y musculares internas de la pantorrilla en extremidad inferior izquierda.
+
+Resto del sistema venoso profundo y  superficial de ambas EEII sin imagenes de trombosis. Dado estos hallazgos se inicia tratamiento con heparina sódica, con posterior paso a sintrom.
+Estando con sintrom aparece nuevo dolor en extremidad inferior izquierda con signos inflamatorios y elevación de dímero D, estando con INR de 1.6 por lo que se añade enoxaparina a dosis terapéuticas, retirándose al presentar niveles de INR terapéuticos, con buena mejoría clínica.
+Se completa estudio mediante ecocardiograma que muestra aneurisma del septo interauricular sin FOP por criterios doppler color, sin otras alteraciones.
+Se trata de un ictus isquémico de gran vaso por embolia paradójica (trombosis venosa profunda + foramen oval permeable). Estudio de trombofilias y marcadores tumorales en curso al alta.
+Durante su estancia hospitalaria, el paciente presenta evolución favorable persistiendo únicamente paresia facial izquierda leve, sin otros déficits focales. Ante la estabilidad clínica actual del paciente se decide alta domiciliaria manteniendo tratamiento anticoagulante con sintrom durante 6 meses y realización de ecocardiograma transesofágico, PET, analítica de trombofílias y ecodoppler de extremidades inferiores de control de forma ambulatoria.
+Al alta: NIHSS: 1;   TOAST: causa infrecuente (FOP+TVP);   mRS: 1.
+
+Plan terapéutico / Pla terapèutic
+-	Pantoprazol 40 mg/24h - Acenocumarol según pauta de INR. Controles en su CAP - Atorvastatina 20 mg/24h
+-	Lorazepam 1 mg/noche si precisa
+
+Otras recomendaciones / Altres recomanacions
+-	Se le llamará para citación de pruebas ambulatorias (PET y estudio doppler de extremidades inferiores) - Realizar nueva analítica de estudio de trombofílias en 1 mes (...) - Se adjunta cita para ecocardiograma transesofágico - Visita con el Dr. _NAME_ en CCEE de neurología (se adjunta cita).
+
+
+
+Firma/Signatura1: _NAME_	Firma/Signatura2: _NAME_ Categoría: Resident 2	Categoría: Consultor/a 1
+Nº Matrícula HCP: _ID_	Nº Matrícula HCP: _ID_
+
+Fecha/Data Informe: 02.06.2017
+Hora Informe: 10:40:41
+
+Docum.: _ID_
+Hist. Clínica: _ID_
+El _SS_ ha incorporado sus datos al Fichero de Pacientes, para tratarlos con fines sanitarios.
+Puede ejercer sus derechos de acceso, rectificación, cancelación y oposición, así como obtener mas información en la Unidad de Atención al Cliente.
+Vers. 00
+Pag. 2 de
+3
+Episod.: _ID_
+_SS_ ha incorporat les seves dades al Fitxer de Pacients, per a tractar-los amb finalitats sanitàries. Pot exercir els seus drets d'accés, rectificació, cancel·lació i oposició, i obtenir més informació a la Unitat d'Atenció al Client.
+_SS_
+_LOCATION_) _LOCATION_) Tel. _CONTACT_ Fax _CONTACT_
+http://_CONTACT_/

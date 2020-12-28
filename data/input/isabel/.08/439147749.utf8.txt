@@ -1,0 +1,152 @@
+_LOCATION_
+_LOCATION_) Anul·lació/Reprogramació visites:_CONTACT_
+Telèfon Centraleta: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 48 Anys
+NIF/DNI: _ID__NAME_; _NAME_; 
+_NAME_; _NAME_
+Informe d'alta d'hospitalització
+11:35:44
+09.11.2017
+_LOCATION_
+_SS_ NEUROLOGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_; _CONTACT_; _CONTACT_
+DOMICIL/RES.SOC 02.11.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Mujer de 48 años que ingresa por ictus vértebro basilar.
+
+ANTECEDENTS
+No AMC.
+Tabaquismo activo de 2 paquetes /dia (> 50 paquetes/año). Ex-consumo de cocaina ocasional. No enol. Niega uso de drogas por via parenteral.
+Factores de riesgo cardiovascular: Niega hipertensión arterial, dislipemia o diabetes mellitus. No antecedentes familiares de eventos cardiovasculares precoces ni trombosis. No migrañas ni abortos espontaneos.
+
+Antecedentes patológicos:
+-	Trombosis sistémica. Estudio de autoinmunidad negativo (ANA's, SAF), homocisteina normal. Perfil lipídico con Lp(a) conservado. Marcadores tumorales (Abril 2016) conservados, niveles antiXa dentro de la normalidad. Estudio riesgo trombótico : Déficit proteina C * 45.0 int.u./dL [ 70.0 - 140.0]. En control por CEX de Medicina Interna (Dr. _NAME_/Dr. _NAME_), última visita el día 06/10/16 con AngioTC con resolución completa de la trombosis por lo que se mantiene tratamiento anticoagulante y AAS. PET-TAC sin lesiones sugestivas de neoplasia primaria ni diseminada.
+-	Cardiopatía isquémica en forma de IAM inferolateral Killip IV en Abril del 2016 con disfunción ventricular severa. Se coloca 2 stents en DA i Cx. Se presenta en sesión en Unidad de Arrítmias donde se considera no indicación de DAI en prevención primaria dado que la paciente continua fumando. Último ETT en marzo de 2017 con DVI severa ya conocida con una FEVI estimada del 30% con una aquinesia apical extensa ya conocida y un trombo apical de diámetro máximo de 40mm, con un segmento móvil. El VD se ve normal. No hay evidencia de derrame pericárdico. En seguimiento por MIR
+*RMN cardíaca (Abril 2016): Miocardiopatía isquémica. VI dilatado, FE del 29%. Fibrosis anterior, lateral y apical. Sin criterios diagnósticos de miocardiopatia no compactada. Pequeño trombo en aorta ascendente. Trombo en vena cava superior.
+
+-	Trombosis arterial en EII (arteria ilíaca común, interna y externa izquierdas) en Febrero 2016 con claudicación intermitente de > 1 año de evolución. Se realiza trombembolectomia transfemoral de MIE (Fogarty). Durante el estudio realizado, destaca angioTC que muestra infartos renales y esplénicos. Arteria mesentérica superior con trombosis menor al 50% de su calibre a nivel proximal y trombosis completa a nivel distal extendido a algunas ramas yeyunales. Se decide laparotomía exploradora que muestra signos de edema sin claros signos de isquemia ni necrosis intestinal.
+-	Tromboembolismo pulmonar en una rama al segmento lateral del lóbulo inferior derecho por lo que se realiza ecodoppler de EEII que descarta TVP
+
+Otros antecedentes de interés:
+-	Trastorno de ansiedad de difícil control.
+-	Síncope con fractura nasal no estudiado.
+-	Discopatía L4-L5-S1.
+
+IQ: trombembolectomía transfemoral de EII.
+
+Informe d'alta d'hospitalització
+
+
+
+
+
+Situación basal: Independiente para AVBD. mRs 0.
+
+
+MEDICACIÓ HABITUAL
+ADIRO 100MG 1 x 24 h ALDOCUMAR 10 MG Segons pauta ATORVASTATINA 40MG 1 x 24 hBISOPROLOL 2,5MG 0,50 x 12 h. IVABRADINA 5mg 1 x 12 h ENALAPRIL 2,5MG 0,50 x 24 h EPLERENONA 25MG 1 x 24 h
+FUROSEMIDA 40MG 1 x 24 h INNOHEP 14.000 UI 1 x 24 h OMEPRAZOL 20MG 1 x 24 h TRAZODONA 100MG
+0,50 x 24 h.
+
+PROCÉS ACTUAL
+Mujer de 48 años vista por última hora aisntomática el dia 01/11 a las 01:30h de la madrugada. El dia 02/11 ha sido encontrada por familiar a las 07:00h en el suelo de la  habitación con alteración del habla y debilidad hemicuerpo derecho. Se activa Codigo Ictus vía SEM a las 07:50h. Llega a UCIAs a las 08:00h y se realiza el Tc craneal (se retrasa por no disponiblidad) a las 8:15h.
+
+A la valoración por Neurología de guardia la paciente está hemodinámicamente estable con TA 104/73mmHg, FC 80lpm, afebril. Coagulckeck  1,2. A la exploración neurológica está vigil, orientada en TEP, OIN derecha (1), PICNR, no impresiona de HH por confrontación, disartria severa (2), no afasia, PFSN d (1), resto de PPCC conservados, plejia ESD (dificil valoración por importante dolor a nivel hombro), paresia EID (3/5), ESI 5-/5 y EII 4/5 (4+2+1) con dismetría desproporcional al grado de paresia a la maniobra D-N  y T-R  (2), sensibildiad conservada. RCP extensor bilateral. NIHSS  13.
+
+Como pruebas complementarias se realiza analítica en la que destaca 21.300/L leucos a expensas de neutrofilia, resto sin alteraciones Por monitor a RS. El Tc craneal y angioTC muestra un ASPECTS 10 junto con oclusión del tercio medio-distal de la arteria basilar, tras la salida de las AICAS, que se extiende hasta el top y segmento P1 de ambas ACP, las cuales se repermeabilizan distalmente. No otros signos de patología aguda intracraneal.
+
+Se orienta el caso como Ictus isquémico V-B + oclusión arteria basilar tercio medio-distal en paciente con trombofilia a estudio, anticoagulada en rango infraterapéutico. No tributaria a rTPAev por clínica del despertar. Se valora por guardia Neurovascular siendo tributaria a tratamiento rescate endovascular consiguiendo una recanalización completa TICI3.
+
+Ingresa en la NRL (Unidad de ictus) para estudio y control evolutivo.
+
+EXPLORACIÓ FÍSICA
+
+TA 94/66mmHg FC 93lpm SatO2 basal 98% 18rpm NRL: NIH de 0 sin focalidad
+AC: rítmica, no ausculto soplos
+AP: murmulo vesicular conservado, sin ruidos sobreañadidos
+Abdomen: blando, depresible, no doloroso a la palpación, no palpo masas ni megalias, no signos de irritación peritoneal, peristaltismo conservado.
+EEII: no edemas ni signos de TVP.
+
+Informe d'alta d'hospitalització
+
+
+
+EXPLORACIÓ COMPLEMENTÀRIA
+Pruebas en Urgencias:
+AS: EAB venós: pH 7.41; CO2 32mmHg; O2 75mmHg; HCO3- 20.3mmol/L; EB -3.3mmol/L; Sat.O2 97%. Bioquímica: Glucosa 6.5mmol/L; Urea 4.1mmol/L; Cr 57umol/L; Na+ 138mmol/L; K+ 3.97mmol/L. Coagulació: TTPA 0.82; TP 1.13.
+Hemograma:  Hb  145g/L;  Hto  43%;  VCM  85fL;  Plaquetes  410x10E9/L;  Leucòcits  21.3x10E9/L  (Neutròfils 18.09x10E9/L, Limfòcits 2.18x10E9/L; N 84.5%, L 10.2%).
+TC cerebral y angio TC:: Oclusión del tercio medio-distal de la arteria basilar, tras la salida de las AICAS, que se extiende hasta el top y segmento P1 de ambas ACP, las cuales se repermeabilizan distalmente. No otros signos de patología aguda intracraneal.
+RX tórax: marco óseo conservado, IT no valorable por decúbito, no condensaciones ni signos de derrame pleural. ECG: Ritmo sinusal a 90ppm, no alteraciones en ST, ECG muy vibrado y de mala calidad por lo que resulta de difícil valoración.
+
+Pruebas en Neurología:
+Analítica: Urea 3,4, creatinina 57, FG >90 ml/min, Na 140, K+ 4,72, glucosa 6,1, aspartato amino transferasa
+0,11, alanina aminotransferasa 0,09, Alb 38, proteina 63, bilirrubina 8, gammaGT 0,22, FA 1,10, colesteron 2,15,
+HDL 1,09, LDL 0,58, TG 1,04, TSH 2,49, T4 18,3. HbA1c 5,6%, glucosa 6,3, cobalaminas 379, folatos 6,5. Hb 128,
+VCM 84, HCM 29, PLT 373000, Leuc 12800, VSG 27, TP 3,09, TTPA 1,15, INR 3,05. Serología Lues y VIH
+negativas. Proteinograma normal
+RM cerebral 7/11/17: Hallazgos compatibles con infartos lacunares en mesencéfalo y protuberancia, de probable cronología aguda/subaguda y etiología embólica.
+Eco cardio TT: Ventrículo izquierdo dilatado, no hipertrófico, con aquinesia apical extensa. FE biplanar 31%. Trombo mural apical de 35x17 mm, pero con elemento en su borde libre que parece más fresco (11x19mm). Ventrículo derecho conservado. Aurícula izquierda moderadamente dilatada. Raíz aórtica no dilatada. Válvula aórtica trivalva, sin estenosis ni regurgitación. Válvula mitral con anillo dilatado (39 mm), regurgitación funcional severa. Regurgitación tricuspídea ligera, que permite estimar una PAPs de 45-50 mm Hg. Vena cava inferior en límite de normalidad. Sin derrame pericárdico.
+
+
+EVOLUCIÓ CLÍNICA
+Ingresa en la Unidad de ictus por oclusión de la A.basilar tratada en fase aguda mediante trombectomía. En el TAC de control no se observan signos de transformación hemorrágica.
+Neurologicamente solo destacar a la exploración discreta ataxia de la marcha, resto exploración neurologica sin alteraciones (NIHSS13 a NIHSS  de 0).Se mantiene monitorizada en la unidad sin detectarse ningún evento arrítmico y sin incidencias.
+
+Como estudio vascular se realiza analítica en la que destaca leve deficit de folatos, leucocitosis, VSG 27. Se revisa estudio de riesgo trombótico realizado previamente al ingreso detectándose déficit de proteina C.
+
+En la RMN cerebral se observan infartos lacunares en mesencéfalo y protuberancia, de probable cronología aguda/subaguda y de etiología embólica. En el ETT se objetiva ventrículo izquierdo dilatado con aquinesia apical extensa. FE 31% y trombo mural apical de 35x17 mm.
+
+Se reinicia la anticoagulación oral sin incidencias.
+
+Informe d'alta d'hospitalització
+
+
+
+
+Durante su estancia en la planta se mantiene HDME. En el momento del alta a día 09/11 solo destacar a la exploración discreta ataxia de la marcha por lo que precisa de muleta para la deambulación, resto exploración NRL sin alteraciones.
+
+Se orienta el caso como Ictus isquémico territorio V-B (POCI) de etiología cardioembólica por aquinesia apical extensa y estudio protrombótico con déficit de proteina C. NIHSS 0. mRankin 2. En tratamiento anticoagulante.
+
+Dada la estabilidad clínica se decide alta a domicilio. Seguirá controles por NRL de zona.
+
+
+DIAGNÒSTICS
+436/5 Ictus
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+-Aldocumar según pauta.
+-Resto se adjunta.
+
+
+CONTROL
+Explicamos la importancia de mantener tratamiento anticoagulante de forma crónica. Control por NRL de zona.
+Acudir a Control CEX Hemostasia el próximo 16.11.17 a las 10:45h. Recomendamos derivación por parte de MAP a Rehabilitación ambulatoria.
+
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+
+
+
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+09.11.2017
+Pàgina 1 de 4

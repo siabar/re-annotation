@@ -1,0 +1,118 @@
+_SS_
+Informe d'alta Mèdica Servei de Medicina Intensiva
+Full 1 de 3_NAME_
+Llit: _ID_
+Data de naixement: _DATE_	Edat: 79 anys	Sexe: Home
+Nº Episodi: _ID_	Nº Història Clínica: _ID_	
+Adreça: _LOCATION_	
+Telèfon: _CONTACT_	
+Al·lèrgies/ Intoleràncies
+No allergies	
+Grup sanguini:	
+Data d'ingrés SEMI: 12.06.2017 19:01	Data d'alta SEMI: 13.06.2017 18:05	Estada SEMI: 1 dies
+Procedència:  URGENCIES	Destinació: NEUROLOGIA	Data Intervenció:
+Tipo d'admissió: Urgent	
+Resultat SEMI: TRASLADO A PLANTA	
+
+Telèfons contacte famílies: _NAME_ hija	_CONTACT_ Telèfons contacte famílies: _NAME_ hijo	_CONTACT_
+
+
+12.06.2017 19:01
+12.06.2017 19:01
+75
+160
+Pes actual
+Talla actual
+
+
+
+FC	63 /min	PNIs	133 mmHg	Pes	75,000 kg
+SpO2	97 %	PNId	61 mmHg		
+
+13.06.2017
+CONSTANTS A L´ALTA
+EVOLUCIÓ CLÍNICA
+MOTIU D'INGRÉS
+Paciente de 79 años que ingresa por codigo ICTUS
+
+
+ANTECEDENTS
+-	No alergias medicamentosas conocidas.
+-	DM en tto medico,
+-	No DLP, no HTA conocido( niega HTA pero toma antihipertensivo)
+-	NO refiere enfermedad cardiopulmonar conocida.
+-	HBP en tto medico.
+
+
+Situación socio-funcional: autonomo para las ABVD
+Tratamiento habitual: NOVONORM 1MG 4 comprimits 1 v/dia, JANUVIA 100MG/24h, PARACETAMOL 1G/12h, PENTOXIFILINA 400MG/8h, FINASTERIDA 5MG/24h, ALFUZOSINA 10MG/24h, ENALAPRIL 10MG/24h, DORMODOR 30MG/24h, ADIRO 100/24h
+
+ENFERMEDAD ACTUAL
+Explica que el día 12-6-17 a las 14:30h se ha notado la mitad del cuerpo dormido, no le ha dado importancia. Pero la clínica persistia, sin limitación al andar. Finalmente es traido por la familia a Urgencias de nuestro centro por sospecha de posible ICTUS (explian que el hijo del paciente ya ha tenido un ICTUS y la clínica les sugeria).
+
+A las 18:20h es valorado, hemodinamicamente estable (TAS 150mmHg), presenta hemihipoestesia facio-braqui-crural
+EVOLUCIÓ CLÍNICA
+derecha, con disartria leve y paresia 4+/5 en barazo derecho (NIHS 4). El TAC craneal descarta sangrado se decide lisis e ingreso en UCI.
+
+EXPLORACIÓN
+TA 115/65 mmHg, FC 70x', FR 18x', Sat O2 basal 98% AC: tonos rítmicos, no soplos, no signos de I. cardiaca AR: MVC no ruidos sobreañadidos
+Abdomen: blando, depresible, no doloroso
+Neuro: consciente y orientado, pupilas isocoricas y reactivas, hemihipoestesia facio-braquio-crural derecha, disartria leve, no afasia, paresia braquial derecha 4+/5, resto de pares craneales normales.
+
+EXPLORACIONES COMPLEMENTARIAS
+Analítica: Hemoglobina 13.1 g/dL, Plaquetes 144 x1E9/L, Glucosa basal  145.1 mg/dL, Urea  50.9 mg/dL, Clorur  97.4 mmol/L, Temps de Protrombina (INR) 1.0 , Temps de Protrombina (%) 100 , PCR 0.3 mg/dL, T. Tromboplastina parcial (s)
+*25.9 , Hematocrit 39.5 %, Leucocits  6.65 x1E9/L, Neutròfils 45.9 %, Limfòcits 34.1 %,  Sodi 138.0 mmol/L, Potassi 5.0 mmol/L
+
+
+
+ECG RS 64lpm, PR 200ms, eje 10º, QRS 80ms, no alteración de la repolarización.
+
+
+TAC craneal: Estructuras de línea media centradas. Sistema ventircular y surcos de la convexidad de tamaño y morfología normal para la edad del paciente. Cavum del septum pellucidum, variante de la normalidad. No se observan signos de sangrado intra o extra parenquimatosos. Leucoencefalopatía hipóxico-isquémica periventricular y en centros semiovales.
+Área de hipodensidad en el brazo anterior de la cápsula interna /zona lenticular
+izquierda de aspecto isquémico agudo/subagudo. Cisternas de la base y perimesencefálicas libres. Engrosamiento mucoso de los senos maxilares, esfenoidales y celdas etmoidades en relación a sinusopatía crónica. Hipoplasia de los senos frontales.
+
+EVOLUCIÓ CLINICA
+1er dia de ingreso por código Ictus, NIIHS ingreso 4, se decidió lisis a las 18:40 hs.
+Se encuentra en muy buen estado general, se refiere recuperado de la alteración de fuerza muscular pero con mínima dificultad al habla.
+A la exploración mínima paresia facial izquierda (alargamiento de surco nasogeniano y mínima desviación de labio superior a la derecha) y mínima disartria.
+Fuerza y sensibilidad conservadas, reflejo cutaneo plantar flexor bilateral.
+Por monitor no se ha detectado arritmias. TA ligeramente HTA de RAS max 150-155 mmHg. FR 14-18X´, FC de 58-62X´.  Se realiza TAC de control que informa áreas de hipodensidad en brazo anterior de cápsula interna sin cambios respecto a la TAC previa. Para  determinar si es agudo o crónico sería necesaria RM con difusión. No se observan signos de sangrado intra o extraparenquimatosos. Cisternas libres. Estructuras de línea media centradas.
+Posteriormente a las 15h15' refiere notar leves parestesias en brazo derecho. A la exploración ligera claudicación de ESD. No disartria. No alteración en campimetría ni pares craneales. Valorada conjuntamente con Neurología, se considera que puede ir presentando alteraciones oscilantes. Se decide iniciar antiagregación con clopidogrel y profilaxis con enoxaparina a
+EVOLUCIÓ CLÍNICA
+dosis bajas. Se mantiene a famis excepto medicación hasta ver evolución y si en las siguientes horas se mantiene estable, se trasladará a Unitat UFI.
+
+ORIENTACIÓ DIAGNÓSTICA ICTUS
+
+Diagnòstics
+DIAGNOSTIC PRINCIPAL (N.U.)
+MAL.CEREBROVASCULAR AGUDA,MAL DEFINIDA;APOPLEXIA,APOPLECTIC
+
+DIAGNOSTICS (N.U.)
+MAL.CEREBROVASCULAR AGUDA,MAL DEFINIDA;APOPLEXIA,APOPLECTIC
+
+
+Tractaments
+PROCEDIMENTS
+MONITORATGE ELECTROGRAFIC; TELEMETRIA TOMOGRAFIA AXIAL COMPUTADA DE CAP; TAC DE CAP INJECCIO O INFUSIO D'AGENT TROMBOLITIC
+Antecedents/Diagnòstics/Procediments
+
+
+APACHE II	
+Mitja 11,00	
+Primera 11	
+Máx 11	
+Min 11	
+La mès nova 11
+Mort(APACHE)	0,13	0	0	0	0
+SAPS II	33,00	33	33	33	33
+Mort(SAPS)	0,14	0	0	0	0
+NEMS	15,00	15	15	15	15
+NEMS(e)/d	15,00	15	15	15	15
+SOFA	0,00	0	0	0	0
+
+Puntuació (SCORES)
+Atès per:	_NAME_
+Autorizat per:
+
+Impreso: 23.06.2017 13:19

@@ -1,0 +1,27 @@
+T0	Fecha_de_ingreso 100 110	05/11/2017
+#0	AnnotatorNotes T0	2017-11-05
+T1	Fecha_de_alta 124 134	13/11/2017
+#1	AnnotatorNotes T1	2017-11-13
+T2	SECCION_ANTECEDENTES_PATOLOGICOS 323 345	Antecedents Patològics
+T3	FECHA 697 705	oct 2017
+#3	AnnotatorNotes T3	2017-10-UNDEF-day
+T4	SECCION_TRATAMIENTO_HABITUAL 744 763	Tractament habitual
+T5	Tratamiento_antiagregante_hab 967 978	clopidogrel
+T6	SECCION_PROCESO_ACTUAL 1015 1030	Malaltia Actual
+T7	Fecha_inicio_sintomas 1039 1043	5/11
+#7	AnnotatorNotes T7	2017-11-05
+T8	_SUG_TAC_craneal 1293 1296	TAC
+T9	SECCION_EXPLORACION_FISICA 1353 1370	Exploració Física
+T10	SECCION_EXPLORACIONES_COMPLEMENTARIAS 1612 1640	Exploracions complementàries
+T13	SECCION_EVOLUCION 2800 2808	Evolució
+T14	SECCION_DIAGNOSTICOS 3241 3262	Valoració Diagnòstica
+T15	_SUG_Lateralizacion 3285 3288	izq
+T16	Ictus_isquemico 3302 3307	ictus
+T17	Etiologia 3308 3316	llacunar
+T18	Localizacion 3308 3316	llacunar
+T19	SECCION_CONTROL 3328 3331	Pla
+T11	Fecha_llegada_hospital 1039 1043	5/11
+#2	AnnotatorNotes T11	2017-11-05
+T12	Hora_inicio_sintomas 1054 1056	14
+T20	TAC_craneal 2416 2426	TC cranial
+#4	AnnotatorNotes T12	14:00

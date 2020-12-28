@@ -1,0 +1,261 @@
+Fecha de Alta 
+01-06-2018
+
+Diagnosticos 
+28/05/2018 ECVA isquémica: ictus isquémico en territorio de ACM izquierda de etiología indeterminada.
+01/06/2018 Hiperlipidemia.
+
+Procedimientos 
+
+-Fibrinolisis ev.
+-Trombectomía mecánica.
+-Anestesia general. 
+-Sondaje vesical.
+-Ingreso en Unidad de Ictus.
+-Los referidos en el informe.
+
+Motivo de ingreso
+
+Mujer 51 años que acude trasladada como CÓDIGO ICTUS EXTERNO  [1]
+
+Alergias
+No hay alergias activas.
+
+Antecedentes Médicos 
+
+No hábitos tóxicos
+IABVD. Natural de Inglaterra. De vacaciones en Mallorca.
+
+Antecedente de enfermedad cerebrovascular (su marido desconoce territorio y etiología) hace 5 años.  Desde entonces en tratamiento con AAS 75mg
+No otros antecedentes de interés.  [2]
+
+Tratamiento domiciliario 
+
+
+
+-AAS 75 mg.
+
+
+
+
+Anamnesis
+
+
+
+Mujer 50 años que acude trasladada como código ictus externo por presentar cuadro de inicio brusco de debilidad en extremidades derechas y trastorno del lenguaje. Se comenta el caso y se activa código ictus.  [3]
+
+TIEMPOS
+Ictus crono inicio: 28/05/18 16:30:00
+Ictus fecha y hora activacion codigo: 28/05/18 17:18:00
+Ictus fecha y hora llegada HUSE: 28/05/18 17:45:00
+Ictus fecha y hora TC inicial: 28/05/18 18:02:00
+Ictus crono fibrinolisis inicio: 28/05/18 18:21:00
+Ictus hora llegada DIVAS: 28/05/18 18:38:00 
+Ictus hora trombectomia introductor: 28/05/18 19:08:00
+Ictus hora recanalizacion: 28/05/18 20:05:00
+Ictus hora fin trombectomia: 28/05/18 20:23:00 [4]
+
+
+
+
+Exploración
+
+
+
+Exploración en Urgencias (28/05/2018): 
+Signos vitales
+Taxilar: 35 ºC (28/05/18 18:02:50)
+FC lat/min: 130 Lat/min High (28/05/18 18:03:05)
+TA Sistólica: 181 mmHg High (28/05/18 18:03:05)
+TA Diastólica: 85 mmHg (28/05/18 18:03:05)
+SatO2: 98 % (28/05/18 18:02:50)
+Glucemia: 134 mg/dL High (28/05/18 18:02:50)
+
+Consciente, orientación no valorable por afasia con mutismo, obedece una orden sencilla (cierra los ojos). Preferencia oculocefálica a la izquierda, HH derecha, parálisis facial derecha, hemiplejia extremidades derechas. RCP extensor derecho.
+
+ESCALA NIH:
+1a. Nivel de conciencia:0. Alerta, responde
+1b. Preguntas LOC:2. Ninguna correcta
+1c. Ordenes LOC:1. Una solo correcta
+2. Mirada conjugada:2. Parálisis completa/desviación de forzada de la mirada
+3. Campos visuales:2. Hemianopsia completa
+4. Parálisis facial:2. Paresia parcial
+5a. Brazo derecho:4. Ningún movimiento
+5b. Brazo izquierdo: 0. No claudica
+6a: Pierna derecha: 4. Ningún movimiento
+6b: Pierna izquierda: 0. No claudica
+7. Ataxia:0. No ataxia (o en caso de hemiplejia o afasia severa)
+8. Sensibilidad:1. Hipoestesia ligera o moderada (afásico o estuporoso)
+9. Lenguaje:3. Mutismo, afasia global (coma)
+10. Disartria:2. Disartria severa, ininteligible, mutismo
+11. Extinción:0. Sin alteración
+PUNTUACION TOTAL NIH:23
+
+-ACP: rítmico, no ausculto soplos. MVC, sin ruidos patológicos sobreañadidos.
+-ABD: blando y depresible,no doloroso a la palpación. No masas ni megalias. [5]
+
+
+Exploración en Unidad de Ictus (30/05/2018):
+NRL: Consciente, apertura ocular espontanea, emite algún sonido, en algún momento parece que algún monosílabo pero no es capaz de asentir o negar de forma coerente. Obedece órdenes sencillas, se equivoca con semicomplejas.
+Preferencia oculocefálica a la izquierda pero consigue pasar línea media.
+Paresia facial completa con afectación ocular, HHD, plejia de ESD, eleva y mantiene contragravedad con claudicación muy leve EID. Probable hipoestesia hemicorporal derecha.
+
+ESCALA NIH:
+1a. Nivel de conciencia:0. Alerta, responde
+1b. Preguntas LOC:2. Ninguna correcta
+1c. Ordenes LOC:1. Una correcta
+2. Mirada conjugada:1. Paresia/limitación de la mirada
+3. Campos visuales:2. Hemianopsia completa
+4. Parálisis facial:3. Paresia completa
+5a. Brazo derecho:4. Ningún movimiento
+5b. Brazo izquierdo: 0. No claudica
+6a: Pierna derecha: 0. No claudica
+6b: Pierna izquierda: 0. No claudica
+7. Ataxia:0. No ataxia (o en caso de hemiplejia o afasia severa)
+8. Sensibilidad:1. Hipoestesia ligera o moderada (afásico o estuporoso)
+9. Lenguaje:2. Afasia severa (Broca o Wernicke)
+10. Disartria:2. Mutismo
+11. Extinción:0. Sin alteración
+PUNTUACION TOTAL NIH:18 
+
+-EEII: no edemas de MMII, pulsos presentes y simétricos.
+-ACR: tonos rítmicos, no ausculto soplos. MVC.
+-ABD: globuloso, BYD, no signos de dolor a la palpación. [6]
+
+
+
+
+Resultados de laboratorio
+
+LABORATORIO
+1. HEMATOLOGIA Y COAGULACION
+Basofilos: 0.05 %
+Basofilos Absolutos: 0.01
+Concentracion De Hb Corpuscular Media: 34.80 g/dL
+Eosinofilos: 0.29 % Low
+Eosinofilos Absolutos: 0.04
+Fibrinogeno: 446 mg/dL
+Hb Corpuscular Media: 30.50 pg
+Hematies: 3.86
+Hematocrito: 33.90 % Low
+Hemoglobina: 11.80 g/dL Low
+Leucocitos: 12.40 High
+Linfocitos: 11.70 % Low
+Linfocitos Absolutos: 1.45
+Monocitos: 6.90 %
+Monocitos Absolutos: 0.86
+Neutrofilos: 81.10 % High
+Neutrofilos Absolutos: 10.10 High
+Pdw: 16.50 %
+Plaquetas: 341.00
+Plaquetocrito: 0.25 %
+Rdw: 12.40 %
+T. Protrombina (Pt), Inr.: 1.05
+T. Protrombina (Pt), Porcentaje: 92 %
+T. Tromboplastina Parcial Activada R: 0.68 Low
+T. Tromboplastina Parcial Activada S: 21.4 segundo(s) Low
+Volumen Corpuscular Medio: 87.70 fL
+Volumen Plaquetar Medio: 7.31 fL Low
+2. BIOQUIMICA
+Albumina: 34.1 g/L Low
+Alt/ Gpt: 15 U/L
+Ast/ Got: 16 U/L
+Bilirrubina Total: < 1.2
+Calcio: 8.1 mg/dL Low
+Cloro: 108 mmol/L
+Colesterol Hdl: 42 mg/dL Low
+Colesterol Ldl: 127 mg/dL
+Colesterol no HDL: 184 mg/dL High
+Colesterol Total: 226 mg/dL High
+Creatinine: 0.59 mg/dL
+Fosfatasa Alcalina: 65 U/L
+Fosfato: 3.3 mg/dL
+Ggt: 26 U/L
+Ldh: 208 U/L
+Magnesio: 1.98 mg/dL
+Nivel de Amilasa: 55 U/L
+Nivel de Glucosa: 99 mg/dL
+Nivel de Urea: 18 mg/dL
+Potasio: 4.8 mEq/L
+Proteinas Totales: 59.2 g/L Low
+Sodio: 138 mEq/L
+Trigliceridos: 284 mg/dL High
+Urato: 5.2 mg/dL
+
+Resultados pruebas complementarias 
+
+
+
+-TC cerebro sin contraste ev urgente del 28-05-2018: TC Perfusión cerebral con contraste ev urgente del 28-05-2018: Angio TC Arterias cerebrales con contraste ev urgente del 28-05-2018: Borramiento de surcos con pérdida de la diferenciación córtico - subcortical en región frontal e insular izquierdas (ASPECTS 7). Dot sign en M2 izquierda con discreta hiperdensidad de ACM izquierda. Encefalomalacia en córtex postrolándico izquierdo en probable relación con lesión isquémica crónica. No se ve sangrado agudo intracraneal. Sistema ventricular de tamaño y morfología normal, centrado en línea media. Cisternas perimesencefálicas y basales conservadas. En los mapas de perfusión se observa un aumento del MTT en el territorio superficial de la ACM izquierda y disminución parical del CBV, con una penumbra aproximada del 40%. Marcada ateromatosis en cayado aórtico. TSA permeables. Eje carotídeo izquierdo: ateromatosis calcificada en bifurcación carotídea. ACI permeable. Se observa un aspecto irregular / arrosariado del segmento M1 de la ACM con oclusión a nivel del segmento M2. ACA permeable. Eje carotídeo derecho: ACI, ACA y ACM permeables y sin estenosis significativas. Eje vértebrobasilar permeable. Trombosis del seno sigmoide y vena yugular interna izquierdas.
+Conclusión: Oclusión M2 izquierda con área de penumbra de aproximadamente el 40%. Trombosis venosa del seno sigmoide y VYI izquierda.
+
+-ECG: taquicardia sinusal 130lpm. No alteraciones de la repolarización.
+
+-TC cerebro sin contraste del 29-05-2018: Lesión isquémica establecida en región frontal e insular izquierdas. No hay focos de sangrado. Encefalomalacia en córtex postrolándico izquierdo en probable relación con lesión isquémica crónica. Sistema ventricular de tamaño y morfología normal, centrado en línea media. Cisternas perimesencefálicas y basales conservadas. 
+
+-ETT: FUNCIÓN SISTÓLICA GLOBAL NORMAL
+Ventrículo izquierdo de tamaño normal. Función sistólica global de VI normal (EF 66%). Sin anormalidades de la contracción segmentaria. Función diastólica del Ventrículo Izquierdo normal. No existe hipertrofia del VI. Aurícula izquierda de tamaño normal. Ventrículo derecho de tamaño normal. Tamaño normal de aurícula derecha. No se aprecia derrame pericárdico. Válvulas cardiacas morfológicamente normales, normofuncionantes.
+
+-EDTSA: placas en inicio de la ACI I, una hiperecoica y otra heterogénea, bien definidas y sin alteraciones hemodinámicas asociadas.
+-DTC: todas las arterias intracraneales son normales.
+Conclusión: Aterosclerosis carotídea izda sin alteraciones hemodinámicas.
+
+
+
+
+Evolución Hospitalaria 
+
+
+
+La paciente es traída a Urgencias como Código Ictus externo el 28/05/2018 por clínica de infarto en territorio de la ACMI (NIHSS inicial de 23 puntos) secundaria a oclusión de dos ramas de M2 izquierdas, que se trató mediante fibrinolisis ev + trombectomía mecánica con recanalización parcial (TICI 2B). El TAC de control a las 24 horas mostró una lesión establecida frontoparietal izquierda sin signos de transformación hemorrágica iniciándose antiagregación con acetilsalicilato de lisina. Tras el procedimiento de revascularización la paciente ingresó en UCI y posteriormente en Unidad de Ictus, donde ha permanecido monitorizada durante 48 horas sin encontrarse alteraciones el ritmo cardíaco y sin incidencias. Ha iniciado dieta oral, sedestacion en butaca, rehabilitación y logopedia. Desde el punto de vista clínico la evolución está siendo favorable, a las 24 horas la NIHSS había bajado hasta 16 puntos.
+Se ha realizado estudio vascular incluyendo neurosonología y ETT, dentro de la normalidad. En la arteriografía intraprocedimiento, cabe destacar la presencia de una marcada irregularidad de la pared vascular de la ACMI, por lo que cabría completar el estudio con una nueva arteriografía una vez se encuentre en su país de origen. Además, en el angioTAC arterial urgente del 28/05 se observa una asimetría con un menor calibre de seno sigmoide y vena yugular interna izquierda, cuyo estudio también deberá completarse (el estudio angiográfico estaba destinado a la valoración del lecho arterial y no es por tanto una prueba óptima para valorar anomalías venosas). Se ha ajustado el tratamiento médico, iniciando cambio de antiagregante a clopidogrel (previamente tomaba AAS), añadiendo enalapril 5 mg por tendencia a cifras tensionales ligeramente elevadas y atorvastatina 40 mg por alteración del perfil lipídico con elevación de TG y de colesterol e irregularidad arterial a nivel de M2 izquierda objetivada durante el procedimiento de recanalización.
+Actualmente la paciente se encuentra estable tanto desde el punto de vista clínico como hemodinámico, por lo que se redacta este informe para iniciar los trámites de repatriación a su país de origen.
+
+En el momento de redactar este informe presenta la siguiente exploración física: parálisis facial central derecha con componente ocular, paresia oculomotora con incapacidad para mirar hacia la derecha aunque pasando línea media, HH derecha, plejia de MSI y un trastorno del lenguaje siendo capaz de obedecer órdenes sencillas pero con intoxicación en semicomplejas. Ha comenzado a decir algunas palabras con ayuda.
+
+Signos vitales
+Taxilar: 37 ºC (01/06/18 09:40:47)
+FC lat/min: 88 Lat/min (01/06/18 08:58:57)
+TA Sistólica: 151 mmHg High (01/06/18 08:58:57)
+TA Diastólica: 60 mmHg (01/06/18 08:58:57)
+SatO2: 97 % (31/05/18 23:47:19)
+Glucemia: 111 mg/dL (31/05/18 13:05:55)
+
+ESCALA NIH:
+1a. Nivel de conciencia:0. Alerta, responde
+1b. Preguntas LOC:2. Ninguna correcta
+1c. Ordenes LOC:1. Una solo correcta
+2. Mirada conjugada:1. Paresia/limitación de la mirada
+3. Campos visuales:2. Hemianopsia completa
+4. Parálisis facial:3. Paresia completa
+5a. Brazo derecho:4. Ningún movimiento
+5b. Brazo izquierdo: 0. No claudica
+6a: Pierna derecha: 0. No claudica
+6b: Pierna izquierda: 0. No claudica
+7. Ataxia:0. No ataxia (o en caso de hemiplejia o afasia severa)
+8. Sensibilidad:0. Normal
+9. Lenguaje:2. Afasia severa (Broca o Wernicke)
+10. Disartria:1. Disartria leve-moderada
+11. Extinción:0. Sin alteración
+PUNTUACION TOTAL NIH:16
+
+Actualización 06/06/2018: 
+Paciente clínica y hemodinámicamente estable, con tendencia a la mejoría clínica. Se ha realizado neuroimagen, DTSA/DTC y ETT, encontrándose en este momento pendiente de repatriación. A partir de mañana (07/06/18) podría volar, puesto que se cumplen diez días tras el evento isquémico, sin embargo han decidido tomar un barco y posteriormente un tren rápido hasta su país de procedencia, puesto que la paciente tiene fobia a los aviones y le genera mucho estrés pensar en volar. Dada la cantidad de horas que supone ese tipo de viaje se les ha recomendado intentar volar tomándose un ansiolítico previamente, refieren que lo pensarán. Se propone que queden en el hospital hasta mañana para ir directamente al barco pero prefieren alta para pasar un día en el hotel.
+Dado que la paciente se encuentra en este momento clínicamente estable, damos alta hospitalaria. Se administra medicación para las próximas 24 horas, así como un alprazolam 0.5 mg (para su uso en caso de que finalmente decidan volver en avión).
+Recomendamos acudir a su hospital de referencia para completar el estudio y continuar rehabilitación tan pronto lleguen a su país de origen. 
+
+
+
+
+Recomendaciones y tratamiento al alta 
+
+-Puede volar en avión comercial con ayuda para desplazamientos una vez transcurridos 10 días desde el evento isquémico (a partir del día 07/06/2018) o en avión ambulancia entre la fecha actual y el día 07/06/2018.
+-Entregará este informe en su centro médico de referencia para continuar el estudio etiológico.  
+
+-Medication List
+           Atorvastatina: 40 mg, Oral, Ce.
+           Bemiparina: 3.500 UI, 1 jeringa, SC, C/24h (20:00h).
+           Clopidogrel: 75 mg, 1 comp, Oral, Co.
+           Enalapril: 5 mg, 1 comp, Oral, De.
+           Omeprazol: 20 mg, 1 cap, Oral, A20'-De.
+           Alprazolam: 0.5 mg sublingual (dosis única si precisa)

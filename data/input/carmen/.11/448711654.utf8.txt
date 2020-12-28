@@ -1,0 +1,124 @@
+_LOCATION_ Tel. _CONTACT_
+e-mail: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 68 Anys
+NIF/DNI: _ID__NAME_; _NAME_; _NAME_;
+ _NAME_; _NAME_
+Informe d'alta d'hospitalització
+CP	_LOCATION_
+ABS	_SS_
+Servei	NEUROLOGIA
+Data d'alta  04.12.2017	13:10:00
+_LOCATION_
+_CONTACT_
+DOMICIL/RES.SOC 26.11.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Hematoma talámico izquierdo.
+
+ANTECEDENTS
+Varón de 68 años, sin alergias medicamentosas conocidas. No hábitos tóxicos.
+-	Diabetis mellitus tipo 2 en tratamiento con antidiabéticos orales.
+-	Enfermedad pulmonar obstructiva crónica en tratamiento con inhalador a demanda.
+
+Situación funcional previa: independiente para las actividades básicas de la vida diaria. Rankin 0.
+
+MEDICACIÓ HABITUAL
+Rhinocort a demanda, metformina 850mg/12h.
+
+PROCÉS ACTUAL
+El 26/11/17 a las 15:30 su mujer observa que no se encuentra bien y que presenta una desviación de la comisura bucal. El paciente se va a dormir y cuando despierta a las 21h persiste la clínica, a la que se asocia dificultad para articular el lenguaje. Avisan al SEM, que activa el códico ictus a las 21.30h, llegando a nuestro centro a las 21.45h.
+
+Cefalea en los días previos junto con disminución de la ingesta. No otra sintomatología por aparatos.
+
+EXPLORACIÓ FÍSICA
+
+FC	86 bpm Tªaxi  ºC
+FR	rpm Tªrec  ºC
+TA s	164 mmHg SAT O2 98 %
+TA d   83 mmHg Pes Kg
+
+Neurológica: Consciente y orientado. Disatria. Campimetría por confrontación normal. Paresia facial central derecha. No déficit sensitivo ni motor en extremidades. RCP flexor bilateral.
+
+NIHSS = 0.0.0.0.0/1(0.0)(0.0)/0.0.0.1.0 = 2
+
+Exploración en la Unidad de Ictus:
+Buen aspecto general. Bien hidratado y perfundido. Normocoloreado. Eupneico. Tonos cardíacos regulares, sin soplos. Murmullo vesicular conservado sin ruidos sobreañadidos.
+Neurológica: funciones mentales superiores conservadas, lenguaje disártrico sin elementos afásicos. Isocoria normorreactiva. No defectos campimétricos por confrontación. No paresias oculares objetivables ni diplopia. Mínima paresia facial centra derecha. Resto de pares craneales sin alteraciones. Fuerza conservada y simétrica. Hipoestesia táctil braquial derecha sin extinción sensitiva, resto de la sensibilidad conservada. RCP flexor bilateral.
+
+Informe d'alta d'hospitalització
+
+
+
+
+NIHSS: 00000/00000/01010 = 2
+
+EXPLORACIÓ COMPLEMENTÀRIA
+Analítica:
+Urgencias:  Hemograma: leucocitos 6700 mg/dL, Hb 14,6 g/dL, Ht 42,3%, plaquetas 166000/mcL. Coagulación: TP 85%, fibrinogeno 342 mg/dL, TTPA 25,6 s. Bioquímica: glucosa 199 mg/dL, urea 34,7 mg/dL, Cr 0,82 mg/dL, Na 135,2 mmol/L, K 4,1 mmol/L, PCR 1,3 mg/L.
+Ingreso (27/11/17): Leucocitos 6100 /µL, (N 61,2 % / L 28,5 / M 9,1 / E 1 / B 0,2), Htíes 4,39 mill/µL, Hb 13,8
+g/dL, Hcto 40,8 %, VCM 92,9 fL, Plaquetes 165000 /µL, TP 84 %, INR 1,14 sg, TP ratio 1,14, TTPA 27 sg, TTPA
+ratio 0,87, Fibrinógeno 362 mg/dL. Bioquimica (27/11/17): Glucosa 111 mg/dL, HbA1c 7,3 %, Urea 26 mg/dL, Creatinina 0,78, Filtrado glomerular estimado >90 mL/min/1.73 m2, Osmolalidad 292 mOsm/Kg, Ca 9,1 mg/dL, Na 140,9 mmol/L, K 3,9, ALT 11 U/L, GGT 19, FA 48, Bilirrubina 0,82 mg/dL, CK 48 U/L, Prot-C reactiva 1,4 mg/L.
+Lípidos.- Triglicéridos 56 mg/dL, Colesterol 208, (HDL 84,3 / LDL 112). Hormonas (27/11/17): TSH 0,255 µUI/mL,
+T4-Libre 1,06 ng/dL.
+Orina (27/11/17): Densidad 1,01, pH 6, Proteína 0 mg/dL, Glucosa [-], C Cetonicos 0 mg/dL, Bilirrubina [-], Hb [-], Urobilinogeno 0,2 mg/dL, Nitritos [-], Esterasa leucocitica 0 leucos/µL, Bacterias no se observan, Eritrocitos no se observan /cmp, Leucocitos no se observan.
+
+ECG: ritmo sinusal a 90lpm, eje a -30º, PR 0,16 seg, morfología de bloqueo de rama derecha delHaz de Hiss.
+
+Radiografía de tórax (26/11/17): sin alteraciones pleuroparenquimatosas agudas.
+
+TC craneal:
+Urgente (26/11/17 a las 22h): Área de alto coeficiente de atenuación talámica izquierda, con efecto masa y leve edema perilesional, sugestiva de hemorragia talámica aguda, con apertura de la misma al sistema ventricular y ocupación hemática de 4º y 3º ventriculo así como ventriculolaterales. Algún infarto lacunar en ganglios basales derechos.
+Control (27/11/17): persiste sin cambios la hemorragia aguda-subaguda talámica izquierda que ejerce leve efecto masa sobre el tercer ventriculo, parcialmente comprimido sin desplamiento de la línea media significativo. La hemorragia descrita se encuentra abierta al sistema ventricular con presencia de sangre en los ventriculos laterales, tercer y cuarto ventriculo sin signos TC de hidrocefalia ni cambios respecto a exploración previa.
+TC craneal sin contraste y Angio TC TSA y craneal (30.11.17):  persiste hemorragia parenquimatosa subaguda talámica izquierda con leve edema vasogénico perilesional, con efecto masa sobre tercer ventrículo, con menor hemorragia ventricular actualmente en astas occipitales de los ventrículos laterales. Discreto aumento del tamaño del sistema ventricular a expensas fundamentalmente de los ventrículos laterales, en probable relación con mínima hidrocefalia obstructiva inicial. Correcta permeabilidad de los vasos arteriales y venosos craneales. No se observan lesiones sospechosas de malformación vascular ni aneurisma.
+
+EVOLUCIÓ CLÍNICA
+Varón de 68 años que ingresa por clínica hemisférica izquierda (paresia facial central derecha y disartria; NIHSS 3) de unas 6h de evolución. La TC craneal urgente muestra un hematoma talámico izquierdo con invasión ventricular. Ingresa en la Unidad de Ictus Agudos (UIA) para vigilancia semiintensiva.
+
+Informe d'alta d'hospitalització
+
+
+
+
+
+Durante el ingreso en la UIA, se mantiene eupneico, afebril y con buen control tensional sin requerir rescates de labetalol. En los primeros días presenta difícil control de la cefalea y algún vómito. En el TC craneal de control se objetiva estabilización de la hemorragia aguda-subaguda talámica izquierda con invasión tetraventricular que ejerce leve efecto masa sobre el tercer ventriculo, parcialmente comprimido, sin desplamiento de la línea media significativo y sin signos TC de hidrocefalia. Se realiza analítica completa que destaca mal control diabético (HbA1c 7.3%) e hipercolesterolemia (colesterol 208 mg/dl, LDL 112 mg/dl, HDL 84mg/dl); urianálisis y sedimento no patológicos.
+
+Se realiza TC craneal en fase venosa y estudio angioTC con tal de descartar malformaciones vasculares y lesiones subyacentes como posible causa, que no muestra lesiones sospechosas de malformación vascular ni aneurisma.
+
+Finalmente, se orienta como hemorragia intraparenquimatosa talámica izquierda de etiología hipertensiva probable. Tolera dieta oral y sedestación e inicia rehabilitación precoz. A nivel neurológico presenta mejoría significativa, quedando asintomático. Dada la estabilidad clínica se decide alta a domicilio.
+NIHSS al alta: 0. mRS al alta: 2. DIAGNÒSTICS
+-	Hemorragia talámica izquierda con invasión tetraventricular
+-	Diabetis mellitus tipo 2
+-	Enfermedad pulmonar obstructiva crónica
+
+431/1 Hemorragia intracerebral 250.00/2 Diabetis mellitus II, controlada
+
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+- Dieta sin sal baja en grasas
+-Realizar ejercicio de forma regular (caminar al menos 1 hora al día).
+-	Omeprazol 20 mg 1 comprimido por la mañana con el desayuno
+-	Metformina 850 mg 1 comprimido con el desayuno, comida y cena
+-	Enalapril 10 mg 1 comprimido con el desayuno y otro con la cena
+-	Rhinocort a demanda
+
+CONTROL
+Control estricto de los factores de riesgo vascular por su médico de cabecera. Seguimiento por neurólogo de zona.
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+04.12.2017
+Pàgina 1 de 3

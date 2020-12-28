@@ -1,0 +1,57 @@
+T1	Fecha_de_ingreso 254 264	10/11/2017
+#1	AnnotatorNotes T1	2017-11-10
+T2	Fecha_de_alta 276 286	15/11/2017
+#2	AnnotatorNotes T2	2017-11-15
+T3	Ataque_isquemico_transitorio 350 353	AIT
+T4	Localizacion 401 414	indeterminada
+T5	Lateralizacion 415 423	esquerra
+T6	_SUG_Lateralizacion 636 644	esquerre
+T7	FECHA 705 709	2009
+#7	AnnotatorNotes T7	2009-UNDEF-month-UNDEF-day
+T8	_SUG_Tratamiento_anticoagulante 766 773	Sintrom
+T10	Fecha_inicio_sintomas 1019 1028	9/11/2017
+#10	AnnotatorNotes T10	2017-11-09
+T11	Hora_inicio_sintomas 1060 1065	21:30
+#11	AnnotatorNotes T11	21:30
+T12	Fecha_llegada_hospital 1080 1090	10/11/2017
+#12	AnnotatorNotes T12	2017-11-10
+T13	HORA 1109 1113	5:30
+#13	AnnotatorNotes T13	5:30
+T14	_SUG_Lateralizacion 1158 1163	dreta
+T15	_SUG_Lateralizacion 1218 1222	dret
+T16	_SUG_Lateralizacion 1251 1255	dret
+T17	_SUG_Ictus_isquemico 1450 1455	ictus
+T18	_SUG_Lateralizacion 1895 1900	dreta
+T19	_SUG_Lateralizacion 1924 1928	dret
+T20	NIHSS_previa 1976 1983	NIHSS 1
+T21	_SUG_Localizacion 2713 2720	frontal
+T22	_SUG_Localizacion 2721 2732	subcortical
+T23	_SUG_Lateralizacion 2733 2737	dret
+T24	_SUG_Localizacion 2748 2755	talàmic
+T25	_SUG_Lateralizacion 2756 2760	dret
+T26	NIHSS_alta 3018 3025	NIHSS 0
+T27	mRankin_alta 3027 3035	Rankin 0
+T28	_SUG_Ataque_isquemico_transitorio 3065 3068	AIT
+T29	Hora_de_alta 3445 3450	11:12
+#29	AnnotatorNotes T29	11:12
+T30	SECCION_DIAGNOSTICOS 334 345	DIAGNÒSTICS
+T31	SECCION_ANTECEDENTES_PATOLOGICOS 514 536	ANTECEDENTS PATOLÒGICS
+T32	SECCION_TRATAMIENTO_HABITUAL 839 858	Tractament habitual
+T33	SECCION_SITUACION_FUNCIONAL 882 909	Situació social i funcional
+T34	SECCION_PROCESO_ACTUAL 996 1011	MALALTIA ACTUAL
+T35	SECCION_EXPLORACION_FISICA 1515 1532	EXPLORACIÓ FÍSICA
+T36	SECCION_EXPLORACIONES_COMPLEMENTARIAS 1986 2016	EXPLORACIONS   COMPLEMENTÀRIES
+T37	SECCION_EXPLORACIONES_COMPLEMENTARIAS_EN_URGENCIAS 2019 2044	Ana lít ica d 'urgè ncies
+T38	SECCION_EVOLUCION 2861 2869	EVOLUCIÓ
+T9	Hora_llegada_hospital 1387 1391	6.28
+#3	AnnotatorNotes T9	06:28
+#4	AnnotatorNotes T20	1
+T39	TAC_craneal 2296 2309	T AC crania l
+T40	Hora_TAC_inicial 2336 2342	07. 55
+#5	AnnotatorNotes T40	07:55
+T41	Fecha_TAC_inicial 1080 1090	10/11/2017
+#6	AnnotatorNotes T41	2017-11-10
+T42	SECCION_TRATAMIENTO_AL_ALTA 3310 3320	TRACTAMENT
+T43	Tratamiento_antiagregante_alta 3324 3332	Tromalyt
+#8	AnnotatorNotes T26	0
+#9	AnnotatorNotes T27	0

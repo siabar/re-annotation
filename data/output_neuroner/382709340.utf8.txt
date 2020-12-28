@@ -1,0 +1,109 @@
+_LOCATION_ Telf Consultes: _CONTACT_ / _CONTACT_
+Telf Centraleta Hospital: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 79 Anys
+NIF/DNI: _ID_Informe de Trasllat a Sociosanitari
+CP	_LOCATION_
+ABS	_SS_
+Servei	NEUROLOGIA
+Data d'alta  21.06.2017	12:38:12
+_LOCATION_
+_CONTACT_
+DOMICIL/RES.SOC 01.06.2017
+_NAME_
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Codi Ictus
+
+ANTECEDENTS
+HTA DLP
+Cardiopatia isquèmica.IAM fa 9 anys MPOC
+Adenocarcinoma de colon. Fa 5 anys. Controls lliure de malaltia Insuficiència suprarenal.
+
+Viu sol R1
+
+
+
+MEDICACIÓ HABITUAL
+TT actual: salbutamol 2-2-2 atrovent 2-2-2, budesonida 2-2-2 t ramadol/paracetamol  1-1-1, hidroaltesona 1-0-0,
+AAS 100, enalapril 5 1-0 -1, omeprazol 20 mg, calci D 0-0-1. simvastatina 40 mg, distraneurina 0- 0-1
+
+PROCÉS ACTUAL
+Home de 79 anys que presenta el 1/6 quadre d'inci sobtat de debiliat a hemicós E a les 14'15h. S'activa codi ictus.
+
+
+EXPLORACIÓ FÍSICA
+
+Consciente,orientado AP. Normoventialcion AC: RCR
+Abdomen: Blando,depresible, no doloroso a la palpacion
+
+Exploració NRL:
+Alerta. Parèsia facial SN E.(2) Disàrtria.(2) No dèficit campimètric. Hemiparèsia E 4/5.(2) Nega dèficit sensitiu. LACI; NIHSS 6
+Durant l'estada a Urgències empitjorament neurològic amb progressió a hemiplàgia FBC E amb anososgnòsia; TACI, NIHSS 15
+
+Informe de Trasllat a Sociosanitari
+
+
+
+EXPLORACIÓ COMPLEMENTÀRIA
+Analaitica: INR: 1,05 ECG: Ritmo sinusal.
+
+TAC cranial urgent: sense lesions isquèmiques establertes ni signes de sagnat. AngioTC crani i TSA urgents: sense oclusions vasculars proximals de gran vas.
+
+TAC crani de control 24h post-rtPa: hipodensitat a nivell del nucli lenticular dret compatible amb lesió isquèmica aguda al territori profund de l'ACM dreta. Sense transformació hemorràgica.
+
+Telemetria UCI: ritem sinusal, episodi de probable fibrilloflutter. Ecocardio TT: sense alteracions patològiques.
+
+EVOLUCIÓ CLÍNICA
+El pacient es inclòs voluntariament a l'assaig clínic RACECAT (derivació a _SS_ vs derivació a _SS_)  durant el trasllat SEM i es traslladat cap a Centre Terciari d'Ictus (_SS_). Durant el trasllat per empitjoarment neurològic el SEM decideix acudir al nostre centre (_SS_).
+
+A urgències s'objectiva NIHSS 6 amb fluctuacions immportants (NIHSS 6-9), i es decideix tractament finbrinoíitic cerebral que s'administra sense incidències a les 16:35h. Durant les 24h seguents presenta progressió de la lesió establint-se plègia braquial E, NIHSS 9. El TAC crani de control no mostra complicacions hemorràgiques.
+El pacient resta estable posteriorment en observació a UCIm. Presenta episodi de taquicàrdia orientat com a fibrilloflutter cpom a possible causa.
+
+Donada l'estabilitat clínica el pacient pasa a planta convencional de Neurologia.  Inicia dieta oral triturada pastosa sense incidències, tolera sedestació i comença programa de rehabilitació.
+Presenta dolor importat al genoll esquerra secundari a contusió, revisat per COt sense complicacionsn i tractat amb fred local i AINEs. S'afageix gabapentina per dolor urent persistent de predomini nocturn.
+
+Com a tractament de prevenció secundària precissa antiacoagulació, es recomana edoxaban 60mg 1comp/dia.
+
+Es sol·licita trasllat al seu hospital de zona per continuar estudi etiològic, control evolutiu i convalescència posterior.
+
+DIAGNÒSTICS
+436/5 Ictus isquèmic a territori ACM D de mecanisme i causa cardiomebòlica 414.9/2 FibrilloFlutter paroxístic
+
+
+PROCEDIMENTS
+88.72 "Ultrasó diagnòstic de cor; Ecocardiografia transesofàgica"
+88.72 "Ultrasó diagnòstic de cor; Ecocardiografia transesofàgica"
+88.27 Radiografia esquelètica de cuixa, genoll i cama
+
+Informe de Trasllat a Sociosanitari
+
+
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+-	Lixiana 60mg 1c omp al dia
+-	Enalapril 5mg 1comp/dia
+-	Amiodarona 200mg 1comp/Dia
+-	Enantyium 1 comp/8h
+-	Gabapentina 300mg 1comp/nit
+-	Distraneurine 1com/nit
+-	Hidoraltesona 20mg 1comp/mati
+
+CONTROL
+Es trasllada a centre socisanitari per continuar rehabilitació i posterior convalescència.
+
+DESTINACIÓ A L'ALTA:	SOCI SANITARI
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+21.06.2017
+Pàgina 1 de 3

@@ -1,0 +1,106 @@
+_LOCATION_ Tel. _CONTACT_
+e-mail: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 71 Anys
+NIF/DNI: _ID__NAME_, _NAME_,; _NAME_
+Informe d'alta d'hospitalització
+CP	_LOCATION_
+ABS	_SS_
+Servei	NEUROLOGIA
+Data d'alta  08.09.2017	14:49:20
+_LOCATION_
+_CONTACT_; _CONTACT_; _CONTACT_
+AGUTS 03.09.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Cefalea.
+
+ANTECEDENTS
+Hombre de 71 años sin alergias medicamentosas conocidas ni habitos tóxicos.
+
+ANTECEDENTES PATOLÓGICOS:
+-	Hipertensión arterial con tratamiento médico.
+-	Dislipemia a tratamiento médico.
+-	Hiperplasia prostatica grado III adenomatosa, que preciso de RTU el 9/01/2017. Rankin preivo 0 . Barthel 100
+
+MEDICACIÓ HABITUAL
+Ramipril 10mg/24h, simvastatina 20mg /24h.
+
+PROCÉS ACTUAL
+Varón de 71 años que la madrugada del 3/9/17 a las 4am presenta cefalea brusca y alteración sensitiva en hemicara derecha. A la mañana siguiente, acude a _SS_ donde se realiza TC craneal que evidencia hematoma intraparenquimatoso cerebeloso derecho. Se remite a nuestro centro para estudio y tratamiento.
+A la anamnesis dirigida el paciente niega haber realizado  esfuerzos o maniobras de valsalva el día previo, tampoco presentó cefalea en días previos, dolor torácico ni sensación de palpitaciones.
+
+EXPLORACIÓ FÍSICA
+
+FC	65 bpm
+Tªaxi 36.0 ºC
+FR	16 rpm Tªrec  ºC
+TA s	151 mmHg SAT O2 96 %
+TA d   91 mmHg Pes Kg
+
+Buen aspecto general. Bien hidratado y perfundido. Normocoloreado. Eupneico. Apirético y hemodinámicamente estable. Auscultación cardíaca: rítmica, sin soplos groseros. Auscultación pulmonar: murmullo vesicular conservado, sin ruídos sobreañadidos.
+
+Examen neurológico inicial: Buen nivel de consciencia, orientado y colaborador; disartria leve. Nistagmus horizontal agotable. No defectos campimétricos por confrontación. Motilidad facial simétrica. Hipoestesia hemifacial derecha (en territorio V1-V2-V3). Resto de pares craneales sin alteraciones. Fuerza y sensibilidad táctil conservada y simétrica en las cuatro extremidades sin claudicación en maniobra de Barré ni Mingazzini. Reflejo cutaneoplantar flexor bilateral. Marcha normal.
+NIHSS (0-0-0)0-0/0-(0-0)-(0-0)/0-1-0- 1-0: 2
+
+Informe d'alta d'hospitalització
+
+
+
+EXPLORACIÓ COMPLEMENTÀRIA
+Analitica: ingreso: Hemograma: Hematies,  x10^12/L Hb  g/dL Hcto % VCM  fL 80.0 - 95.0 * HCM  pg 27.0 - 32.0
+* CHCM  g/dl 30.0 - 35.0 * Leucos (N % L 2% Mo % Eo %)  plaquetas
+-Bioquimica: Glucosa 85 mg/dL Hbglicada 6.0% Cr 0.99 mg/dL Urea; 29 mg/dL FG 76 mL/min/1.73 m2 Proteïna; g/L Albúmina; g/L Urat; mg/dL Ca8.9 mg/dL Fosfato3.2 mg/dL Magnesio 2.11 mg/dL Bilirubina; 0.72 mg/dL Fosfatasa Alcalina; 57U/L Alanina-aminotransferasa; 28 U/L Gamma-glutamiltransferasa; 20 U/L Na 138.4 mmol/L K 4.9 mmol/L Clorur; 103.8 mmol/L
+-Proteinograma: sin alteraciones patológicas.
+-Perfil lipidico: Triglicèrid 117 MG/Dl; Colesterol 194 mg/dL Colesterol HDL; 45.2 mg/dL Colesterol LDL; 125 mg/dL
+-Perfil tiroideo: Tirotropina 1.15 UI/mL
+
+Rx torax: :  ICT conservado, sin alteraciones pleuroparenquimatosas agudas, senos costofrenicos libres.
+
+TAC Craneal: Hematoma intraparenquimatoso cerebeloso derecho que mide 42x15x7,5 mm(AP,T,CC). Presenta salida a cistena pontocerebelosa derecha. Hipodensidades en sustancia blanca subocortical bifrontal y periventricular, compatible con lesiones isquémicas crónicas de pequeño vaso en probable relación con cambios degenerativos por la edad. Leves signos de atrofia cerebral normal para la edad. Linea media centrada. Ganglios de la base de morfologia normal. Sistema ventricular de tamaño y morfología normal. Cisternas de base permeables. No hay líneas de fractura ni lesiones óseas.
+
+Angio RMN (05/09/2017): Hematoma intraparenquimatoso cerebeloso derecho subagudo precoz, sin observarse hallazgos que sugiera HTA o angiopatía amiloidea y sin realce de contraste que sugiera lesión subyacente, si bien el contenido hemático es elevado y puede enmascararla, a valorar en proximo control una vez reabsorbida la hemorragia. Se aprecia sin embargo pequeña estructura vascular asociada que no podemos descartar que se trate de una anomalía del desarrollo venoso o un signo indirecto de un pequeña fístula meningea, a valorar estudio arteriográfico. Leucoaraiosis leve y mínima atrofia cerebral difusa.
+
+Arteriografia Cerebral (07/09/2017): La exploración pone de manifiesto: Como variante anatómica de la normalidad se observa una AICA-PICA derecha. La exploración no muestra signos o imágenes que sugieran la presencia de aneurismas, malformaciones, u otras lesiones vasculares. CONCLUSIÓN:Estudio angiográfico sin alteraciones vasculares.
+
+EVOLUCIÓ CLÍNICA
+Paciente de 71 años, con antecedentes de factores de riesgo cardiovascular, que acude a Urgencias derivado de
+_SS_ por hematoma cerebeloso derecho.
+
+Durante su estancia en la UIA permanece hemodinámicamente estable, con cifras de tension arterial controlada con IECA y sin alteraciones del ritmo en la telemetría. A la exploración neurológica presenta leve disartria, nistagmo horizontal agotable y una hipoestesia en hemicara derecha, sin ataxia a la marcha (NIH 2). Dentro del estudio etiológico se realiza una AngioRMN que muestra signos de leucoaraiosis leve en el contexto de la hipertensión arterial, asociado a mínima atrofia cerebral difusa. A nivel estructural vascular se objetiva una anomalía venosa vs una pequeña fístula meningea, por lo que se decide realizar una arteriografía que no muestra alteraciones.
+
+A nivel clínico el paciente presenta una mejoría de los síntomas persistiendo al alta una hipoestesia hemifacial derecha.
+
+Informe d'alta d'hospitalització
+
+
+
+
+Finalmente se orienta como un hematoma cerebeloso derecho de probable etiología hipertensiva. Dada la estabilidad clínica y hemodinámica del paciente, se decide alta a domicilio.
+
+Al alta: NIHSS=1 mRS 0
+
+DIAGNÒSTICS
+Hematoma cerebeloso hemisferico derecho de probable etiología hipertensiva Hipertension arterial sistémica
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Dieta baja en sal cardiosaludable. Ramipril 10 mg/24h (1-0-0)
+Simvastatina 20mg/24h (0-0-1)
+
+CONTROL
+Control de factores de riesgo cardiovascular por médico de cabecera. Control por Neurología de zona.
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+08.09.2017
+Pàgina 1 de 3

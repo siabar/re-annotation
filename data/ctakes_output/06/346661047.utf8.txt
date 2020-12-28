@@ -1,0 +1,226 @@
+
+
+
+
+
+Informe d'Alta Hospitalària	Cognoms i nom:
+_NAME_.	NHC:
+_ID_
+	ABS:
+_SS_	CIP:
+_ID_	DNI:
+_ID_
+	Data de naixement:
+_DATE_	Sexe:
+Home	Edat:
+76a	Telèfon:
+_CONTACT_
+	Finançament:
+CatSalut - _LOCATION_	Procedència:
+URGÈNCIES
+	Admissió:
+16.02.2017 - 08:46	Servei:
+NEUROLOGIA HOSP	Data entrada urg.:
+16.02.2017 - 08:06
+Adreça:
+_LOCATION_	Població:
+_LOCATION_	Codi Postal:
+_LOCATION_
+
+
+
+Motivo Ingreso:
+Hombre de 76 años ingresa por ictus isquémico en territorio ACM D de probable etiología cardioembólica.
+
+
+ANTECEDENTES
+-	Sin alergias medicamentosas conocidas.
+-	Hábitos tóxicos: Exfumador desde 1998 (fumador de puros durante 30 años). Enol de unas 3 UBEs diarias.
+-	Diabetes tipo 2, diagnóstico en 1985 ( seguimiento habitual Dr _NAME_)
+-	No Retinopatía, catarata incipiente.
+-	Función renal mantenida.
+-	Polineuropatía (disminución sensibilidad al MNF 5.07 y palestesia)
+-	Dislipemia en tratamiento médico.
+-	Niega hipertensión.
+-	Depresión en tratamiento médico.
+-	Artrosis.
+-	IQ: Apendicectomía, amigdalectomía, triple bypass en 2007.
+
+Historia Cardiológica
+-	Cardiopatía isquémica en fase dilatada. IAM inferior 1998. Coronariografia: malaltia de 3 vasos. Angor inestable 2002.
+*Cirurgia de revascularització coronària amb AMI a DA, VS a OM1 i VS a DP complicat amb IAM periprocediment. Ecocardiograma (2007): ventricle esquerre no dilatat amb acinèsia extensa apical ventricular i hipoquinesia de la resta de segments amb FEVE estimada 37%; trombosis intracavitaria ventricular esquerra; insuficiència mitral lleugera; aurícula esquerra moderadament dilatada. Assimptomàtic des de llavors.
+*RM cardiaca (06/04/2011): VI dilatado, con hipertrofia del septum basal. Volúmenes aumentados con masa normal. Contractilidad global del VI con deterioro importante (FEVI 24%). Aquinesia septo inferior, inferolateral extensa que engloba los segmentos basal, medio y apical. Los demas segmentos son hipoquinéticos. VD con volúmenes normales y función sistólica ligeramente reducida a expensas de un mal acortamiento longitudinal. En conclusión: Cardiopatía isquémica en fase dilatada con necrosis inferior e inferolateral transmural extensa, con disfunción sistólica del VI severa, sin isquemia inducible.  No se observa necrosis en el resto de los segmentos (potencialmente viables). Disfunción sistólica ligera del VD sin evidencias de necrosis del mismo.
+*Ecocardiograma (12/2015): Aquinesia y dilatación aneurismática apical con hipertrabeculación latero-apical secundaria a la dilatación. Hipocontractilidad del resto de segmentos. Reducción importante de la FE global (27%)
+
+-	Portador de DAI-CRT des de abril 2013. No respondedor. No descargas en control 2016.
+-	Último ingreso por EAP en contexto de trangresión dietética en 10/2015.
+-	Participa en estudio Commander: xarelto 2,5mg/12h vs placebo.
+-	Control en CEx Dra. _NAME_. CF habitual III. Ortopnea 2 almohadas.
+
+Situación socionfuncional:
+Vive con su esposa. Deambula con silla de ruedas por la calle, en domicilio con apoyo. Parcialmente dependiente para las ABVD (necesita ayuda para la ducha). mRS 4.
+
+Tratamiento habitual
+-Entresto 49/51 mg 1-0-1
+-Elecor 25 mg 1-0-0
+-Emconcor 5 mg 1-0-1
+-Uniket 40 mg 1-1-1
+-Hemovas 600mg 1-0-1
+-Furosemida 40 mg 1-1-0
+-Cymbalta 60mg 1-0-0
+-Vernies sp
+-Corlentor (ivabradina) 5 mg 1/2-0-1/2
+-Atorvastatina 20 mg
+-Adiro 100 mg 0-1-0
+-Insulina Humalog sp
+-Insulina Lantus 0-0-24ui
+-Estudi Commander
+
+
+ENFERMEDAD ACTUAL
+Varón de 76 años con antecedente princpial de cardiopatía isquémica con FEVI <30% en tratamiento con AAS 100mg/día + fármaco estudio COMANDER de cardiología (Xarelto 2.5mg/12h versus placebo, pendiente de abrir el ciego) y con situación socio-funcional: silla de ruedas por la calle por disnea, camina apoyándose por paredes muebles por casa, supervisión para la ducha (mRS = 4), es traído comocódigo ictus extrahospitalario.
+
+A las 7:30h del 16/02, al despertarse, su mujer detecta alteración en la articulación del lenguaje y debilidad extremidades izquierdas por lo que avisa al SEM. Último vez visto asintomático a las 3:30h
+
+EXPLORACIÓN FÍSICA
+En urgencias
+Constantes: TA 192/92mmHg, FC 60lpm, FR 18rpm, SatO2 96%, T 35.8, glicemia 263mg/dl, INR 1.
+
+-Somnoliento, desorientado.
+-Lenguaje disártrico sin rasgos afásicos.
+-PICNR. Desviación de la mirada a la derecha que cruza la línea media.
+-Hemianopsia homónima izquierda por amenaza.
+-Paresia facial central izquierda grave.
+
+
+-Balance motor con plejia braquio-crural izquierda.
+-Hipoestesia en extremidades izquierdas.
+-Anosognosia.
+-Coordinación no valorable.
+-Babinski bilateral.
+
+NIHSS= 1+2+0+2+2/ 2+(0+4)+(0+4)/ 0+1+0+2+1= 21
+
+
+ACV: Tonos arrítmicos bradicárdicos sin soplos. AR: MVC sin ruidos agregados
+Sin edemas en EEII.
+
+En Unidad de Ictus
+-Somnoliento, orientado.
+-Lenguaje disártrico sin rasgos afásicos. Obedece órdenes simples. Nomina.
+-PICNR. Desviación de la mirada a la derecha que cruza la línea media.
+-Hemianopsia homónima izquierda por amenaza.
+-Paresia facial central izquierda grave.
+-Balance motor con plejia braquio-crural izquierda.
+-Hipoestesia en extremidades izquierdas.
+-Anosognosia.
+-Coordinación no valorable.
+-Babinski bilateral.
+
+NIHSS= 1+0+0+2+2/ 2+(0+4)+(0+4)/ 0+1+0+2+1= 19
+
+
+En sala de Neurología y al alta
+Constantes: 138/73 mmHg, 67x', 37ºC, SatO2 95% aa Vigil, consciente y orientado
+Lenguaje disártrico sin rasgos afásicos. Obedece órdenes simples y complejas. PICNR. Desviación de la mirada a la derecha
+Hemianopsia homónima izquierda en campimetria per confrontación Paresia facial central izquierda
+Plejia braquiocrural izquierda
+Sensibilidad táctil y algésica preservada en 4 EE
+Hipopalestesia en hemicuerpo izquierdo y pie derecho por polineuropatia DM Hipoestesia propioceptiva en EEII
+Extinción sensitiva izquierda Heminegligencia visual izquierda No asomatognosia ni anosognosia RCP extensor bilateral
+
+NIHHS = 0+0+0+2+2/2+(0+4) (0+4) / 0+1+0+1+1= 17
+
+
+EXPLORACIONES COMPLEMENTARIAS
+-	ECG: Ritmo de marcapasos a 60lpm, algún EEVV.
+-	TC y angioTC: Sin Hemorragia. Hiperdensidad distal en M1 de la ACM D, que sugiere trombosis de la misma. Isquemia Aguda Visible afectando al territorio superficial de ACM D, con un ASPECTS de 5). Los ganglios basales parecen preservados. Lesión isquémica antigua, necrótica parieto-occipital derecha, con afectación cortical. Sin Ingurgitacion parenquimatosa, efecto de masa sobre el sistema ventricular, desviacion de la linea media.
+-	ANGIO-TC (TSA E INTRACRANEAL): Se confirma la trombosis en el segmento M1 distal de la ACM D, posterior a la salida de una división anterior precoz, sin apreciar el resto de las ramas distales de la ACM D y con clara asimetría en la vascularización de este hemisferio que probablemente se asocie a una escasa colateralidad. El resto de las principales arterias intracraneales son permeables y de calibre normal, sin estenosis. El estudio de troncos supraaórticos muestra signos de ateromatosis calcificada en ambas bifurcaciones carotídeas, sin estenosis. Permeabilidad de ACCs, ACI D, ACI Izda, ACCs, AV D, AV Izda.
+-	Impresión diagnóstica gobal: Hallazgos congruentes con isquemia aguda en territorio superficial de ACM D, signos de trombosis en M1 distal y un ASPECTS de 5.
+-	Analítica: Sodi 137 mmol/L ( 136 - 145 ) Potassi 3,67 mmol/L ( 3,50 - 5,10 ) Calci 2,29 mmol/L ( 2,15 - 2,55
+) 9,16 mg/100mL Glucosa 15,8 mmol/L ( 3,0 - 6,0 ) 284,40 mg/100mL Urea 6,1 mmol/L ( 2,9 - 8,2 ) 37
+mg/100mL Creatinina 104 µmol/L ( 0 - 106 ) 1,18 mg/100mL AST (GOT) 16 U/L ( 0 - 37 ) ALT (GPT) 13 U/L
+( 0 - 41 ) Hemoglobina 155 g/L ( 130 - 170 ) Hematòcrit 0,45 L/L ( 0,40 - 0,50 ) Hematies 4,95 x10E12/L (
+4,50 - 5,70 ) VCM 90,7 fL ( 80,0 - 98,0 ) CCMH 345 g/L ( 320 - 360 ) HCM 31,3 pg ( 27,0 - 32,0 ) RDW 13,7
+% ( 12,0 - 15,0 ) Plaquetes 169 x10E9/L ( 140 - 350 ) VPM 9,9 fL ( 7,0 - 10,5 ) Plaquetòcrit 0,20 % Leucòcits
+6,28 x10E9/L ( 3,80 - 11,00 ) Fórmula leucocitària Neutròfils 74,4 % Neutròfils absoluts 4,67 x10E9/L ( 1,80
+- 7,00 ) Eosinòfils 1,1 % Eosinòfils absoluts 0,07 x10E9/L ( 0,05 - 0,50 ) Basòfils 0,6 % Basòfils absoluts 0,04 x10E9/L ( 0,00 - 0,10 ) Monòcits 10,5 % Monòcits absoluts 0,66 x10E9/L ( 0,30 - 1,00 ) Limfòcits 13,4
+% Limfòcits absoluts 0,84 x10E9/L ( 1,00 - 4,00 )  Temps de tromboplastina 1,12 RATIO ( 0,75 - 1,30 ) Temps de protrombina 1,00 INR ( 0,75 - 1,20 ) Temps de trombina 20,50 s ( 17,00 - 24,00 )
+-	Radiografía de tórax: SCF pinçats, vessament pleural 1/3 inferior dret, important infiltrat alveolar difús de predomini dret, ICT >0'5
+-	Ecocardiografía: Ventrículo izquierdo dilatado no hipertrofiado. Aquinesia inferior e inferolateral extensa y disquinesia de todo el casquete apical con adelgazamiento aneurismático de la pared. Se observa a nivel apical masa móvil pediculada de 17x23mm que en el contexto clínico del paciente probablemente sea compatible con trombo apical. Raíz aórtica no dilatada. Válvula aórtica morfológicamentemorfológicamente normal con insuficiencia ligera. Válvula mitral de velos no engrosados, con tenting simétrico de predominio posterior que condiciona una insuficiencia mitral pansistólica moderada-importante. Aurícula izquierda ligeramente dilatada. Ventrículo derecho de dimensiones en el límite superior de la normalidad, con contractilidad ligeramente disminuída. Electrocatéter normoposicionado en ápex VD. Insuficiencia tricuspídea ligera que permite estimar una PAPs de 50-55 (HTAP moderada en reposo). Vena cava inferior dilatada con escaso colapso inspiratorio. Ausencia de derrame pericárdico.
+-	Analítica control: Urat 536 µmol/L ( 210 - 420 )  9,00 mg/100mL  Bilirubina total 29 µmol/L (< 17)  1,72
+mg/100mL Bilirubina conjugada 12 µmol/L (< 6)  0,67 mg/100mL  Triglicèrids 2,41 mmol/L (< 1.65)  213,29
+
+
+mg/100mL  Colesterol 4,98 mmol/L (< 6.2)  192,73 mg/100mL  AST (GOT) 15 U/L ( 0 - 37 ) ALT (GPT) 11
+U/L ( 0 - 41 ) Fosfatasa alcalina 114 U/L ( 40 - 130 ) GGT 30 U/L ( 0 - 54 ) Proteïna total 62,3 g/L ( 64,0 -
+83,0 ) Albúmina 37,9 g/L ( 34,0 - 48,0 ) Proteïna C reactiva 5,9 mg/L ( 0,0 - 5,0 ) Hemograma Hemoglobina
+154 g/L ( 130 - 170 ) Hematòcrit 0,45 L/L ( 0,40 - 0,50 ) Hematies 4,87 x10E12/L ( 4,50 - 5,70 ) VCM 91,6 fL
+( 80,0 - 98,0 ) CCMH 345 g/L ( 320 - 360 ) HCM 31,6 pg ( 27,0 - 32,0 ) RDW 13,9 % ( 12,0 - 15,0 )
+Plaquetes 165 x10E9/L ( 140 - 350 ) VPM 10,3 fL ( 7,0 - 10,5 ) Plaquetòcrit 0,20 %   Leucòcits 11,99
+x10E9/L ( 3,80 - 11,00 )  Neutròfils 90,9 %  Neutròfils absoluts 10,91 x10E9/L ( 1,80 - 7,00 ) Eosinòfils 0,3 %
+Eosinòfils absoluts 0,03 x10E9/L ( 0,05 - 0,50 ) Basòfils 0,3 %  Basòfils absoluts 0,03 x10E9/L ( 0,00 - 0,10 )
+Monòcits 4,9 % Monòcits absoluts 0,59 x10E9/L ( 0,30 - 1,00 ) Limfòcits 3,6 % Limfòcits absoluts 0,43 x10E9/L ( 1,00 - 4,00 ) Velocitat de sedimentació globular (VSG) 16 mm/hora ( 1 - 10 ) Temps de tromboplastina 1,07 RATIO ( 0,75 - 1,30 ) Temps de protrombina 1,05 INR ( 0,75 - 1,20 ) Temps de trombina 21,50 s ( 17,00 - 24,00 ) Plaquetes 165 x10E9/L ( 140 - 350 )
+-	*LÍPIDS Colesterol HDL 1,12 mmol/L ( 1,00 - 1,70 )  43,34 mg/100mL  Colesterol LDL 2,75 mmol/L ( 1,81 - 4,13 )   106,40 mg/100mL   Colesterol VLDL 1,11 mmol/L ( 0,00 - 0,63 )   42,98 mg/100mL   Colesterol
+quilomicrons 0,00 mmol/L  0,00 mg/100mL
+-	*FACTORS MADURACIÓ Vitamina B12 268 pmol/L ( 150 - 650 ) Folat sèric 11,4 nmol/L ( 7,0 - 45,0 ) Hb glicosilada (HbA1c) 8,9 % ( 4,6 - 5,8 )
+-	Telemetría: Ritmo Sinusal, sin eventos.
+
+
+EVOLUCIÓN
+A su llegada a urgencias se encuentra HD estable y afebril, en la monitorización destaca salvas de latidos de QRS ancho. A la exploración física se detecta un Síndrome hemisférico derecho que puntua un NIHSS = 21.
+Se realiza TC cerebral con signos de isquemia incipiente en territorio de ACM derecha puntuando un ASPECTS de 5. AngioTC con oclusión de M1 distal (informe provisional). No se puede realizar tratamiento con rTPa ev por tiempo de evolución. No se considera candidato a trombectomía mecánica por funcionalidad mRS
+= 4 y mal ASPECTS = 5. Se desactiva código ictus a las 8:40h. Se orienta como un ictus isquémico extenso en territorio de ACM derecha y se decide ingreso en la unidad de ictus.
+A su llegada a Unidad de Ictus se encuentra HD estable y afebril. Se mantiene monitorizado con telemetría sin eventos arrítmicos. Dada la probable etiologia cardioembólica al presentar FEVI <30% y teniendo en cuenta la extensión de la lesión isquémica se inicia antiagregación con AAS 300mg.
+A las 24h de ingreso se realiza test de disfagia que resulta negativo. Es valorada por Rehabilitación e inicia fisioterapia y logopedia.
+Al ingreso en sala NIHHS de 17 y mRS 3. Se mantiene tratamiento preventivo secundario. Dada la extensión de la lesión en TAC control no se inicia anticoagulación a pesar de etiologia cardioembólica por FEVI deprimida 27%.
+En el estudio etiológico presenta trombo intracavitario en ventriculo izquierdo en ETT. Se inicia BIC heparina a dosis intermedias y posteriormente se realiza paso a sintrom.
+En su ingreso en sala presenta importante broncoespasticidad por lo que requiere urbason 20mg/8h y una dosis de hidrocortisona. Progresivamente presenta mejoría de la clínica respiratoria tanto del componente de insuficiencia cardiaca como infeccioso aunque persite necesidad de oxigenoterapia con gafas nasales.
+
+Presenta tendencia a la hiperglicemia (300 mg/dl) en contexto paciente con mal control crónico junto con corticoterapia por infección respiratoria. Se mantiene hemodinácmiamente estable.
+Tras valoración por trabajo social, se decide alta a CSS. Al alta NIHHS 17 de y mRS 5
+
+
+PROCEDIMIENTOS
+-ECG
+-TC craneal y angioTC
+-Analítica sanguínea
+-Radiografía de tórax
+-Ecocardiografía
+
+
+DIANGÓSTICOS
+-Ictus isquémico en territorio ACM D de etiología cardioembólica en contexto FEVI <30%
+-Broncoaspiración tratada con augmentine
+-Diabetes.
+-Dislipemia
+
+
+RECOMENDACIONES AL ALTA
+Medicación al alta: Acenocumarol 4 mg según pauta Atorvastatina 20 mg /d
+Duloxetina 60 mg /d Eplerenona 25 mg /d Esomeprazol 20 mg /d Furosemida 40 mg /12h
+Isosorbide mononitrato 40 mg /8h Losartan 25 mg /d
+Paracetamol 1 g/8h si precisa Insulina Humalog 13-13-13 Insulina Lantus 0-0-28ui
+
+
+
+
+
+
+
+
+
+
+
+
+Responsable clínic: Dr. _NAME_ (NºCol. _ID_)
+Equip mèdic: Dra. _NAME_ (NºCol. _ID_), Dr. _NAME_ (NºCol. _ID_)
+
+Servei que ha donat d'alta:
+NEURO - UNITAT ICTUS HOSP	Data d'alta:
+10.03.2017	Nom del metge que informa de l'alta:
+Dr. _NAME_ (NºCol. _ID_)
+
+
+_LOCATION_, 10.03.2017
+Pàg. 1 de   6

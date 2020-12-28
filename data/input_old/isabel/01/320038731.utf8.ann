@@ -1,0 +1,114 @@
+T3	Fecha_de_ingreso 386 396	04.01.2017
+#3	AnnotatorNotes T3	2017-01-04
+T4	_SUG_Localizacion 476 484	profunda
+T5	_SUG_Lateralizacion 497 506	izquierda
+T8	mRankin_previa 690 698	Rankin 2
+T10	_SUG_Etiologia 854 866	Hipertensión
+T11	FECHA 1128 1134	6/2016
+#11	AnnotatorNotes T11	2016-06-UNDEF-day
+T12	FECHA 1345 1349	2015
+#12	AnnotatorNotes T12	2015-UNDEF-month-UNDEF-day
+T13	FECHA 1370 1374	2015
+#13	AnnotatorNotes T13	2015-UNDEF-month-UNDEF-day
+T14	_SUG_Lateralizacion 1433 1442	izquierda
+T15	FECHA 1444 1448	2007
+#15	AnnotatorNotes T15	2007-UNDEF-month-UNDEF-day
+T16	FECHA 1528 1532	2010
+#16	AnnotatorNotes T16	2010-UNDEF-month-UNDEF-day
+T17	FECHA 1605 1609	2006
+#17	AnnotatorNotes T17	2006-UNDEF-month-UNDEF-day
+T19	_SUG_Lateralizacion 2096 2103	derecha
+T21	Tratamiento_antiagregante_hab 2130 2135	Adiro
+T23	Fecha_inicio_sintomas 2357 2365	4/1/2016
+#23	AnnotatorNotes T23	2016-01-04
+T24	_SUG_Lateralizacion 2424 2431	derecho
+T25	_SUG_Lateralizacion 2502 2509	derecho
+T26	_SUG_Ictus_isquemico 2633 2638	ictus
+T27	HORA 2645 2649	9:33
+#27	AnnotatorNotes T27	09:33
+T28	Hora_llegada_hospital 2693 2697	9:53
+#28	AnnotatorNotes T28	09:53
+T31	_SUG_Lateralizacion 3167 3176	izquierda
+T32	_SUG_Lateralizacion 3193 3200	derecha
+T33	_SUG_Lateralizacion 3301 3308	derecha
+T34	_SUG_Lateralizacion 3361 3368	derecha
+T35	_SUG_Lateralizacion 3425 3432	derecha
+T36	_SUG_Lateralizacion 3477 3484	derecho
+T38	NIHSS_previa 3486 3523	NIHSS: 0+2+0+0+0+2+3+0+2+0+0+1+1+2:13
+T39	_SUG_Ictus_isquemico 3709 3714	ictus
+T40	_SUG_Lateralizacion 3980 3989	izquierda
+T41	_SUG_Lateralizacion 4003 4010	derecha
+T42	_SUG_Lateralizacion 4080 4089	izquierda
+T43	_SUG_Lateralizacion 4110 4117	derecha
+T44	_SUG_Lateralizacion 4161 4170	izquierdo
+T45	_SUG_NIHSS_alta 4172 4214	NIHSS= 1.1.1.2.2/2(0.4)(0.4)/0.0.2.2.0= 21
+T46	_SUG_NIHSS_previa 4172 4214	NIHSS= 1.1.1.2.2/2(0.4)(0.4)/0.0.2.2.0= 21
+T47	_SUG_Lateralizacion 4415 4424	izquierdo
+T48	_SUG_ASPECTS 4961 4968	aspecto
+T50	_SUG_Lateralizacion 5125 5134	izquierdo
+T51	_SUG_ASPECTS 5508 5515	aspecto
+T52	_SUG_Etiologia 5785 5797	hipertensión
+T53	_SUG_Lateralizacion 5859 5866	derecho
+T54	_SUG_Localizacion 6001 6011	temporales
+T55	_SUG_Lateralizacion 6137 6146	izquierda
+T56	_SUG_Localizacion 6187 6194	frontal
+T57	_SUG_Lateralizacion 6211 6218	derecho
+T58	_SUG_Localizacion 6262 6270	profundo
+T59	_SUG_Lateralizacion 6271 6280	izquierdo
+T60	_SUG_Ictus_isquemico 6319 6324	ictus
+T61	FECHA 6338 6346	05.01.17
+#61	AnnotatorNotes T61	2017-01-05
+T62	FECHA 7278 7286	04.01.17
+#62	AnnotatorNotes T62	2017-01-04
+T64	FECHA 7505 7509	2015
+#64	AnnotatorNotes T64	2015-UNDEF-month-UNDEF-day
+T65	_SUG_mRankin_alta 7555 7560	mRS 2
+T66	_SUG_mRankin_previa 7555 7560	mRS 2
+T67	_SUG_Lateralizacion 7602 7610	derechas
+T68	FECHA 7637 7645	04.01.17
+#68	AnnotatorNotes T68	2017-01-04
+T69	_SUG_Ictus_isquemico 7657 7662	ictus
+T70	_SUG_Etiologia 7764 7776	hipertensión
+T71	_SUG_Lateralizacion 7925 7934	izquierdo
+T72	_SUG_NIHSS_alta 7936 7944	NIHSS 13
+T73	_SUG_NIHSS_previa 7936 7944	NIHSS 13
+T74	_SUG_Lateralizacion 7980 7987	derecho
+T75	_SUG_Lateralizacion 8056 8063	derecho
+T76	_SUG_Lateralizacion 8276 8285	izquierdo
+T77	_SUG_Localizacion 8299 8310	ventricular
+T78	_SUG_Localizacion 8506 8514	profunda
+T79	_SUG_Etiologia 8528 8540	hipertensiva
+T80	_SUG_Ictus_isquemico 8629 8634	ictus
+T81	_SUG_Ictus_isquemico 8754 8759	ictus
+T82	_SUG_Etiologia 8775 8787	hipertensión
+T84	_SUG_Lateralizacion 9502 9511	izquierda
+T85	_SUG_Lateralizacion 9550 9559	izquierda
+T86	_SUG_NIHSS_alta 9601 9611	NIHSS a 22
+T87	_SUG_NIHSS_previa 9601 9611	NIHSS a 22
+T88	_SUG_Lateralizacion 9769 9778	izquierda
+T89	Fecha_de_alta 10232 10242	07/01/2016
+#89	AnnotatorNotes T89	2016-01-07
+T91	Etiologia 10304 10316	hipertensiva
+T92	Lateralizacion 10328 10337	izquierda
+T93	_SUG_Etiologia 10368 10380	Hipertensión
+T94	_SUG_Lateralizacion 10568 10575	derecho
+T95	FECHA 10739 10749	07.01.2017
+#95	AnnotatorNotes T95	2017-01-07
+T96	SECCION_PROCESO_ACTUAL 102 111	NºEpisodi
+T97	SECCION_MOTIVO_DE_INGRESO 450 464	MOTIU D'INGRÉS
+T98	SECCION_ANTECEDENTES 508 519	ANTECEDENTS
+T99	SECCION_ANTECEDENTES_PERSONALES 520 543	ANTECEDENTES PERSONALES
+T100	SECCION_ANTECEDENTES 826 850	ANTECEDENTES PATOLÓGICOS
+T101	SECCION_TRATAMIENTO_HABITUAL 2111 2129	MEDICACIÓ HABITUAL
+T102	SECCION_PROCESO_ACTUAL 2238 2251	PROCÉS ACTUAL
+T103	SECCION_EXPLORACION_FISICA 2890 2907	EXPLORACIÓ FÍSICA
+T104	SECCION_EXPLORACIONES_COMPLEMENTARIAS 4493 4518	EXPLORACIÓ COMPLEMENTÀRIA
+T105	SECCION_EVOLUCION 7387 7403	EVOLUCIÓ CLÍNICA
+T106	SECCION_DIAGNOSTICO_PRINCIPAL 10258 10269	DIAGNÒSTICS
+T6	Localizacion 10282 10290	profunda
+T7	Hemorragia_cerebral 10271 10281	Hemorragia
+T9	Fecha_llegada_hospital 2357 2365	4/1/2016
+#4	AnnotatorNotes T8	2
+#5	AnnotatorNotes T38	13
+T20	Hora_inicio_sintomas 2732 2737	20.30
+T1	Hora_de_alta 10249 10254	09:17

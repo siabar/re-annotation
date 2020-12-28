@@ -1,0 +1,116 @@
+_LOCATION_
+_LOCATION_) Anul·lació/Reprogramació visites:_CONTACT_
+Telèfon Centraleta: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 79 Anys
+NIF/DNI: _ID__NAME_; _NAME_; _NAME_;
+_NAME_
+Informe de Trasllat a Sociosanitari
+09:33:15
+28.08.2017
+_LOCATION_
+_SS_ NEUROLOGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_; _CONTACT_
+DOMICIL/RES.SOC 11.08.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Ictus ACM derecha. Tratamiento fase aguda: trombolisis ev.
+
+ANTECEDENTS
+-	Sin alergias medicamentosas conocidas.
+-	No hábitos tóxicos (fumadora pasiva)
+-	HTA en tratamiento médico. DLP en tratamiento médico. No DM.
+-	Fibrilación  auricular  permanente  en  tratamiento  con  anticoagulantes orales  (sintrom)  y  frenador  con betabloqueantes.
+-No neumoatías conocidas.
+-	Hernia de hiato diagnosticada el 11/04/2012 mediante tránsito esófago-gastro-duodenal. Situación basal: Independiente para las ABVD. Vive sola. mRankin 0.
+
+
+MEDICACIÓ HABITUAL
+Aldocumar 1 mg según pauta; Amlodipino 5mg 1 x 24 h; Emconcor 2,5mg 1 x 24 h; Enalapril/Hidroclorotiazida 20/12,5mg 1 x 24 h. Omeprazol 20mg 1 x 24 h. Pravastatina 20mg 1 x 24 h. Paracetamol 1g 1 x 8 h.
+
+PROCÉS ACTUAL
+Paciente mujer de 79 años que el 11/08 a las 11:30h, estando en el mercado, cuadro brusco de paresia BC izquierda, PFSN izquierda y disartria. Se avisa al SEM y se traslada al _SS_. Durante traslado presenta fluctuación de la clínica.
+
+A su llegada a _SS_ a las 12:12h, tendencia a la HTA (153/54 mmHg), FC 74 lpm, SatO2 100%, INR 1.5 (infraterapéutico). En la exploración neurológica presenta estado consciente, orientada en TEP, disartria severa (2), lenguaje conservado, DOC a la derecha (2), HH izquierda (2), PFSN izquierda (2), hemiparesia BC izquierda 1/5 (8), hipoestesia izquierda (1), RCP indiferente bilateral, siendo el NIHSS 17. Posteriormente presenta mejoría clínica con NIHSS 1 (hipoestesia). Se realiza TC craneal/angio TC que muestra ASPECTS 10 sin oclusión de gran vaso. Durante realización de TC craneal presenta de nuevo empeoramiento de la focalidad neurológica con NIHSS de 17. En la analítica destaca leucocitosis (10.4 x10E9/L) neutrofílica (6.22 x10E9/L). ECG fibrilación auricular (ya conocida).
+
+Se orienta como ictus ACM derecha de etiología cardioembólica por fibrilación auricular infracoagulada (INR 1.5). Ante ausencia de contraindicaciones se inicia trombolisis ev (Actylise 6mg+57mg) a las 12:37h. No se realiza trombectomía por ausencia de oclusión de gran vaso. Posteriormente a la revaloración la paciente presenta mejoría clínica con NIHSS de 1 a expensas de hipoestesia BC izquierda. Ingresa en la unidad de ictus de neurología para control evolutivo y estudio.
+
+Informe de Trasllat a Sociosanitari
+
+
+
+EXPLORACIÓ FÍSICA
+
+TA 160/83 mmHg, FC 73 lpm,  Afebril, Sat O2 93%, DXT 123.
+NRL: consciente, orientada en TEP. No alteraciones del habla ni del lenguaje. MOEs ok, no HH, PFSN izquierda (2). Paresia B izquierda 3/5 (2), crural izquierda 5-/5. No alteraciones de la sensibilidad. RCP izquierdo extensor, derecho flexor. NIHSS 4.
+AC: tonos cardíacos arrítmicos.
+AP: murmullo vesicular conservado sin sobreañadidos.
+ABD: globuloso, ruidos hidroaereos presentes, blando, depresible, no doloroso a la palpación profunda. No masas ni visceromegalias. PPLB negativa. Sin signos de peritonitis.
+EEII: simétricas, eutróficas, no edemas, signos de insuficiencia venosa crónica, sin signos de TVP.
+
+
+EXPLORACIÓ COMPLEMENTÀRIA
+EN URGENCIAS
+-TC craneal/angioTC craneal y TSA: No se idetifican imágenes compatibles con isquemia cerebral aguda. ASPECTS 10. Cambios involutivos. Afectación isquémica crónica de la sustancia blanca e imágenes que podrían corresponder a infartos lacunares antiguos en ambas regiones ganglionares basales.
+-Rx Tx: marco óseo conservado. ICT<0.5. No condensaciones, senos no pinzados.
+-ECG:  Fibrilación  auricular a  80  lpm.  Buena  progresión R  en  precoirdiales. No  alteraciones agudas  de  la repolarización.
+-Analítica: Hemoglobina,g 138 g/L Hematòcrit 41%, VCM 85, Leucòcits 10.4./L Limfòcits 28.4 % Neutròfils 59.7 % Plaquetes 268/L Bioquímica: Creatinini 53 umol/L , Glucosa 6.2mmol/L, potassi hemolisi, sodi 140 mmol/L, Urea
+5.3 mmol/L Coagulación:  TP  1.50 , TTPA 1.20,  INR 1.50
+
+EN PLANTA DE NRL
+-TC post-trombolisis (24h): Probable infart recent profund epicentre lenticular dret. Resta sense canvis significtaius valorables
+-Analticia de ingreso: perfil renal (urea, creatinina, FG) normal. Ionograma: mínima hipocaliemia (3.78mmol/L), Na y Ca II normal. Perfil hepático (AST, ALT, GGT) normal. FA normal. Perfil lipidico alterado: hipercolesterolemia (6.25 mmol/L) con HDL normal (1.04mmol/L), LDL no calculable, HDL/Colesterol bajo (0.17), coelsterol excluido HDL elevado (5.21mmol/L), e hipertrigliceridemia (2.40 mmol/L). Función tiroidea (TSH, T4) normal. HbA1c nromal (5.9%). Folatosy cobalaminas normales. Hemograma: Hb 141g/l, plaquetas normales (250.000/L), leucocitosis (10.300/L) neutrofilica (6.480/L). Coagulación: TP 1.91, TTPA 1.23, fibrinogeno (2.86). VSG normal (9mm).
+- Serologías: VIH, VHC y lues negativas. VHB: anti core IgG y anti superfície positivos, anti e y HbsAg negativos (patrón compatible con infección pasada).
+-RMN y angioRMN: Infart agut entre parts posteriors de corona radiada, lenticular i càpsules externa i interna, amb insinuació al mesencèfal ipsilateral. Canvis involutius i signes notables d'hipoperfussió crònica microvascular.
+
+EVOLUCIÓ CLÍNICA
+Paciente que ingresa en la unidad de ictus por ictus isquémico de ACM derecha con clínica fluctuante tratado con trombolisis ev en fase aguda con recuperación posterior.
+
+Durante su estancia en la Unidad de ictus (48h) se mantiene hemodinámicamente estable, normotensa, y con fibrilación auricular con FC normal, sin objetivarse otras alteraciones del ritmo por telemetría.
+
+Informe de Trasllat a Sociosanitari
+
+
+
+
+
+En TC craneal a las 24h de la trombolisis no se objetivan signos de sangrado por lo que se reintroduce anticoagulación sin complicaciones.
+En la analítica de ingreso destaca hipercolesterolemia e hipertrigliceridemia, sin otras alteraciones. En las serologías presenta patrón de infección VHB pasada, siendo negativas para VHC, VIH y lues. En la RM/angioRM cerebral se objetiva infarto agudo en corona radiada, lenticular y cápsula externa e interna con insinuación a mesencéfalo ipsilateral.
+
+Neurológicamente presenta tendencia a la mejoría, siendo el NIHSS al alta de 0, solo presenta apraxia de la marcha por lo que precisa caminador para la deambulación. Ha realizado rehabilitación desdel inicio y fisioterapia ocupacional.
+Dieta oral bien tolerada.
+
+Se orienta como ictus ACM derecha de etiología cardioembólica por fibrilación auricular infracoagulada. Dada la buena evolución y por persistencia de asistencia para la demabulación, es dada de alta a UFISS para completar rehabilitación.
+
+DIAGNÒSTICS
+436/5 Ictus isquémico cardioembólico
+427.31 Fibril·lació auricular
+
+PROCEDIMENTS
+89.08 Altra consulta
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Se adjunta
+
+CONTROL
+Control en CEX neurología _SS_ en 3 meses
+
+DESTINACIÓ A L'ALTA:	SOCI SANITARI
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+28.08.2017
+Pàgina 1 de 3

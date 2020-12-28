@@ -1,0 +1,97 @@
+T1	Fecha_de_ingreso 233 243	02.12.2017
+#1	AnnotatorNotes T1	2017-12-02
+T2	HORA 246 251	19:20
+#2	AnnotatorNotes T2	19:20
+T3	Fecha_llegada_hospital 298 308	02.12.2017
+#3	AnnotatorNotes T3	2017-12-02
+T4	Hora_llegada_hospital 311 316	18:50
+#4	AnnotatorNotes T4	18:50
+T5	Lateralizacion 439 446	derecho
+T6	_SUG_Etiologia 584 596	hipertensión
+T7	_SUG_Lateralizacion 715 716	D
+T9	FECHA 811 821	02/12/2017
+#9	AnnotatorNotes T9	2017-12-02
+T10	FECHA 889 899	04.12.2017
+#10	AnnotatorNotes T10	2017-12-04
+T11	HORA 1087 1092	18.45
+#11	AnnotatorNotes T11	18:45
+T13	Hora_inicio_sintomas 1215 1220	17.30
+#13	AnnotatorNotes T13	17:30
+T14	_SUG_Lateralizacion 1414 1418	dcha
+T16	NIHSS_previa 1586 1594	NIHSS 17
+T18	_SUG_TAC_craneal 1658 1668	TC craneal
+T20	TAC_craneal 1722 1732	TC craneal
+T21	Hora_TAC_inicial 1734 1739	19.30
+#21	AnnotatorNotes T21	19:30
+T22	_SUG_Lateralizacion 1768 1775	derecho
+T23	Localizacion 1867 1883	intraventricular
+T24	_SUG_Ictus_isquemico 1932 1937	ictus
+T26	Hora_llegada_hospital 2290 2295	19:00
+#26	AnnotatorNotes T26	19:00
+T28	_SUG_TAC_craneal 2360 2370	TC craneal
+T29	_SUG_Lateralizacion 2406 2413	derecho
+T30	_SUG_Lateralizacion 2629 2638	izquierda
+T31	_SUG_Localizacion 2821 2837	intraventricular
+T32	_SUG_Etiologia 2843 2852	aneurisma
+T33	_SUG_Arteria_afectada 2856 2858	M2
+T34	_SUG_Lateralizacion 2859 2868	izquierda
+T35	Etiologia 3370 3379	aneurisma
+T36	Arteria_afectada 3380 3382	M2
+T37	Lateralizacion 3383 3392	izquierda
+T38	_SUG_Etiologia 3667 3676	aneurisma
+T39	FECHA 3686 3694	04.12.17
+#39	AnnotatorNotes T39	2017-12-04
+T40	_SUG_TAC_craneal 4146 4157	TAC CRANEAL
+T41	_SUG_Lateralizacion 4285 4292	derecho
+T42	_SUG_Localizacion 4322 4338	intraventricular
+T43	_SUG_Localizacion 4429 4440	ventricular
+T44	_SUG_Etiologia 4569 4578	Aneurisma
+T45	_SUG_Arteria_afectada 4611 4613	M2
+T46	_SUG_Arteria_afectada 4617 4620	ACM
+T47	_SUG_Lateralizacion 4621 4628	derecha
+T48	_SUG_Localizacion 4782 4792	corticales
+T49	_SUG_Lateralizacion 4896 4903	derecho
+T50	_SUG_Localizacion 4978 4987	occipital
+T51	_SUG_Lateralizacion 5011 5018	derecho
+T52	_SUG_Localizacion 5086 5097	ventricular
+T53	_SUG_Lateralizacion 5137 5146	izquierda
+T54	_SUG_Lateralizacion 5211 5218	derecha
+T55	_SUG_Etiologia 5280 5289	aneurisma
+T56	_SUG_Arteria_afectada 5313 5315	M2
+T57	_SUG_Arteria_afectada 5319 5322	ACM
+T58	_SUG_Lateralizacion 5323 5330	derecha
+T59	_SUG_Lateralizacion 5359 5366	derecha
+T61	_SUG_TAC_craneal 5440 5450	TC CRANEAL
+T62	FECHA 5975 5983	04.12.17
+#62	AnnotatorNotes T62	2017-12-04
+T63	_SUG_Etiologia 6003 6012	ANEURISMA
+T64	_SUG_Arteria_afectada 6044 6047	ACM
+T65	_SUG_Lateralizacion 6049 6056	DERECHA
+T66	_SUG_Lateralizacion 6387 6396	izquierda
+T67	_SUG_Lateralizacion 6688 6697	izquierda
+T68	_SUG_Lateralizacion 6751 6758	derecho
+T69	_SUG_Lateralizacion 7290 7297	derecha
+T71	_SUG_TAC_craneal 7413 7423	TC craneal
+T72	FECHA 7662 7670	20.12.17
+#72	AnnotatorNotes T72	2017-12-20
+T73	Tratamiento_anticoagulante_alta 7993 7998	Hibor
+T76	Fecha_de_alta 8490 8500	18.12.2017
+#76	AnnotatorNotes T76	2017-12-18
+T77	FECHA 8573 8583	18.12.2017
+#77	AnnotatorNotes T77	2017-12-18
+T78	SECCION_MOTIVO_DE_INGRESO 384 401	MOTIVO DE INGRESO
+T79	SECCION_ANTECEDENTES 449 461	ANTECEDENTES
+T80	SECCION_TRATAMIENTO_HABITUAL 791 810	Medicación habitual
+T81	SECCION_ANTECEDENTES_QUIRURGICOS 863 887	Antecedentes quirúrgicos
+T82	SECCION_PROCESO_ACTUAL 1020 1037	ENFERMEDAD ACTUAL
+T83	SECCION_EXPLORACIONES_COMPLEMENTARIAS 4089 4118	EXPLORACIONES COMPLEMENTARIAS
+T85	SECCION_EVOLUCION 6105 6114	EVOLUCIÓN
+T86	SECCION_DIAGNOSTICOS 7242 7254	DIAGNÓSTICOS
+T87	SECCION_PROCEDIMIENTOS 7300 7314	PROCEDIMIENTOS
+T88	SECCION_RECOMENDACIONES 7446 7469	RECOMENDACIONES AL ALTA
+T89	SECCION_TRATAMIENTO_AL_ALTA 7474 7492	Medicación al alta
+T8	SECCION_ANTECEDENTES_PATOLOGICOS 462 486	Antecedentes patològicos
+T17	Hemorragia_cerebral 402 412	Hemorragia
+T12	Fecha_inicio_sintomas 298 308	02.12.2017
+#5	AnnotatorNotes T16	17
+T15	Fecha_TAC_inicial 298 308	02.12.2017

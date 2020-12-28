@@ -1,0 +1,124 @@
+I.CLINIC DE NEUROCIÈNCIES
+_NAME_	NEUROLOGIA	NHC: _ID_
+Sexo/Sexe: Masc.
+Dirección/Adreça: _LOCATION_	Fecha nac./Data naix.: _DATE_	Edad/Edat: 72 años
+CP: _LOCATION_
+Municip. (Prov.): _LOCATION_  ABS:_SS_	Tel.:_CONTACT_
+As.: SERVEI CATALA DE LA SALUT Nº epis.: _ID_
+Serv: NEUROLOGIA	CIP: _ID_
+Tipo/Tipus: HOSPIT.
+UO Enf.: I064 SALA G DE NEUROL. INTE	NASS: _ID_
+Inici.: 20.03.2017
+Hora: 21:51:29
+
+
+Tipo ingreso/Tipus ingrés: Urgent	Motivo/Motiu alta: Defunc.
+Diag.:
+HEMATOMA GANGLIOS DE LA BASE IZQUIERDOS () INFECCIÓN RESPIRATORIA ()
+Proc.:
+
+
+
+
+INFORME EXITUS
+
+Motivo de consulta / Motiu de consulta
+DISMINUCIÓN NIVEL DE CONCIENCIA
+
+Antecedentes e historia previa / Antecedents i història prèvia
+Hombre de 72 años. Sin alergias medicamentosas conocidas. Tabaquismo activo, enolismo crónico activo con episodios de heteroagresividad en el contexto de intoxicaciones enólicas. Vive en albergue, rehúsa contacto con los hijos; conocido por Servicios Sociales por ausencia de domicilio fijo.
+
+ANTECEDENTES PATOLÓGICOS:
+1.	DISLIPIDEMIA.
+2.	PSORIASIS  EN  PLACAS  diagnosticado  hace  más  de  15  años  con  artritis  episódicas  en  EEII,  realizó tratamiento con metotrexato hasta dic'15.
+3.	RTU de tumor vesical en dos tiempos en el 2014. Seguimiento por Urología en _SS_. Citologías en 2016 negativas. RTU por HBP en sept'16.
+4.	OSTEONECROSIS BILATERAL DE CABEZA FEMORAL diagnosticada por RMN en contexto de coxalgia. IQ: Cataratas, RTU tumor vesical y HBP.
+
+TRATAMIENTO HABITUAL (Marzo/17):
+Se desconoce. Según HC3: alendronato semanal, omeprazol, Ca+vitD, paracetamol, tramadol prn.
+
+Proceso actual / Procés actual
+Paciente remitido a urgencias por el 061 bajo IOT+VM al ser alertados en un piso tutelado por disminución del nivel de conciencia, la última vez que lo vieron bien fue esta mañana (la responsable del piso tutelado), a la llegada del SEM paciente GCS 10, PA 166/100 mmHg, FC 129/min, saturación basal 76%, FiO2 0.21, con mala dinámica respiratoria, taquipneico, vómito abundante, hemiparesia derecha con lo que se procede a IOT + VM y lo trasladan a nuestro centro.
+A su llegada al _SS_ hemodinámicamente estable, afebril. Signos externos de poco cuidado personal, con laceración frontal derecho y signos de decúbito en codo y cadera derechas. Ritmo sinusal por monitor.
+Se aspiran abundantes secreciones respiratorias. Analítica con glicemia de 157 mg/dl, leucocitosis con
+
+neutrofilia. Hematocrito del 52%, con VCM de 105 fl. Hemostasia normal. Se realiza TC craneal urgente que muestra extenso hematoma profundo izquierdo con contaminación ventricular del asta temporal ipsilateral, con edema perilesional y desviación de línea media de 5 mm. Se trata de un hematoma de ganglios basales de probable origen hipertensivo. Se decide iniciar tratamiento hipotensor y antibiótico. Valorado por NRL, se desestima tratamiento quirúrgico. Se traslada a la AVI para monitorización, con posterior traslado a Unidad de ictus para continuar con la evolución.
+
+Exploración física / Exploració física
+* AL INGRESO EN AVI: PA 102/77mmHg, FC 109 lpm, T 36ºC, Sat O2 100% (FiO2 0,6).
+ACV: tonos rítmicos sin soplos. Pulsos periféricos presentes y simétric os. No IY. No RHY. No edemas en EEII. AR: IOT + VM. Hipofonesis. Roncus aislados. Abdomen: Blando y depresible. Hepatomegalia de 1 travesa. No e splenomegalia. Peristaltismo conservado. No peritonismo. NRL: Sedación f armacológica. Moviliza ESI al dolor. PPINR (puntiformes)
+
+* AL TRASLADO A UNIDAD DE ICTUS :
+HDE, normotenso. Taquipneico, satO2 95% con FiO2 al 31% (VMK). Febricular. Extubado, sin incidencias.  NRL: paciente obnubilada, orientación no valorable. Apertura ocular al estímulo verbal repetitivo, retira al dolor con respuesta flexora. Mutista, no emite sonidos ni realiza órdenes simples. Pupilas mióticas isocóricas. Mirada conjugada con desviación hacia la izquierda, excursión visual horizontal sin sobrepasar línea media. Hemianopsia   homónima   derecha.   HEmiparesia   facio   (mod)-   braquio   (0/5)-   crural   (1/5)   derecha. Sensibilidades y dismetrías no valorables. Signo de Babiski derecho, RCP flexor izquierdo. NIHSS 22.
+CCV: tonos cardíacos apagados por ruidos respiratorios. Pulsos distales presentes. Ausencia de edemas en EEII.
+AR: abundantes roncus bilaterales y crepitantes bibasales.
+AD: blando y depresible, no impresiona doloroso. Peristaltismo presente.Sin peritonismo
+
+Laboratorio / Laboratori
+* ANALÍTICO AL INGRESO EN AVI:
+BIOQUÍMICA GENERAL Proteïna C reactiva (PCR) 24.66/A mg/dL; Glucosa 139/A mg/dL; BUN 31/A mg/dL; Creatinina 0.75 mg/dL; Filtrat glomerular calculat [CKD-EPI] >90 ml/min/; Colesterol total 154 mg/dL; Triglicèrids 91 mg/dL; ASAT 19 U/L; ALAT 14 U/L; GGT 26 U/L; Bilirrubina total 1.6/A mg/dL (directa 0.7/A mg/dL, indirecta 0.9/A mg/dL); Fosfatasa alcalina 57 U/L; LDH 431 U/L; CK 233 U/L; Troponina I <0.017 ng/mL; Proteïnes totals 61/B g/L; Albúmina 35 g/L; Amilasa 62 U/L; Lipasa 21 U/L; Sodi 140 mEq/L; Potasi
+4.5 mEq/L; Calci 7.3/B mg/dL; Fósfor 3.2 mg/dL; Magnesi 1.8 mg/dL ORINA 24 h: Aclarament creatinina 111 ml/min
+LÍPIDS Colesterol LDL 60 mg/dL / HDL 67 mg/dL
+AMINOÀCIDS, VITAMINES I NUCLEÒTIDS Vitamina B12 207 pg/mL (insuficiencia); Acid fòlic sèric 2.66 ng/mL (déficit).
+HEMATIMETRIA Recompte de leucòcits 15.27/A 10^9/L; Concentració d´hemoglobina 131 g/L; Hematòcrit
+0.410 L/L; VCM 102.1/A fl; HCM 32.3 pg; Recompte plaquetes 275 10^9/L; Neutròfils % (analit.) 88.1/A%; Limfòcits % (analit.) 6.4/B%; Monòcits % (analit.) 4.5%; Eosinòfils % (analit.) 0.1%; Basòfils % (analit.) 0.1%; LUC % (analit.) 0.8%
+HEMOSTÀSIA GENERAL  Temps de protrombina  (%) 100.0%; Temps de tromboplastina parcial 31.1  seg; Fibrinogen 4.5 g/L; INR 0.99
+EIX TIROÏDAL TSH,sèrum 1.126 mUI/L; FT4,sèrum 1.26 ng/dL
+
+Radiología / Radiologia
+*	RADIOLOGÍA
+-	Rx TÓRAX: ICT normal, aumento de la trama broncovascular,  sin  condensaciones en parénquima ni pinzamiento de senos costofrénicos.
+-	TC CRANEAL: hematoma agudo de ganglios de la base izquierdo de 55 x 41  x 60 (CCxTRxAP)  con
+-	
+
+
+importante edema perilesional y que produce contaminación hemática del asta occipital del VLI. El hematoma produce efecto de masa con colapso de los surcos de la convexidad adyacentes y del VLI que presenta una obliteración subtotal. Presenta una desviación de la línea media de aproximadamente 5 mm hacia el lado derecho. Herniación uncal incipiente izquierda. Obliteración parcial de la cisterna ambiens izquierda, resto de cisternas de la base libres. Leucoaraiosis periventricular. No se observan otras alteraciones significativas de la densidad del parénquima cerebral. Atrofia cerebral global.
+
+Exploraciones complementarias / Exploracions complementàries
+
+*	MICROBIOLOGÍA
+-	ASPIRADO TRAQUEAL   21/3/17: Gram con flora mixta, cultivo con flora saprófita. Baciloscopia negativa, en curso cultivo para micobacterias.     22/3/17: Gram sin microorganismos, cultivo en curso.
+-	URINOCULTIVO 21/3/17: sedimento con 25 hematíes/mcl; cultivo en curso.
+
+
+* ECG: ritmo sinusal a 90 lpm, pR 0,14, QRS estrecho con eje a +60º, Q profunda y T negativa en en aVL, V1-V2, QTc normal, sin alteraciones agudas de la repolarización.
+
+Evolución / Evolució
+1.	HEMATOMA GANGLIOS DE LA BASE IZQUIERDOS DE ETIOLOGÍA HIPERTENSIVA.
+2.	INFECCIÓN RESPIRATORIA
+Paciente encontrado en suelo de domicilio con hemiplejía derecha y disminución del nivel de consciencia (Glasgow coma scale: 10) por lo que se procede a intubación y ventilación invasiva. A su llegada tendencia a la hipertensión arterial. Electrocardiograma en ritmo sinusal. Se realiza TC craneal que muestra extenso hematoma profundo izquierdo con contaminación ventricular del asta temporal ipsilateral, con edema perilesional y desviación de línea media de 5 mm. Se desestima tratamiento neuroquirúrgico agudo por extensión del hematoma.
+Se trata de un hematoma de ganglios basales izquierdos de origen hipertensivo. Se inicia tratamiento antihipertensivo y cobertura antibiótica empírica  con piperacilina-tazobactam por  broncoaspiración. Se traslada a Área de Vigilancia Intensiva (AVI) para monitorización.
+Tras retirada de sedación y extubación se evidencia síndrome hemisférico izquierdo completo con afasia global, hemiplejía derecha y hemianopsia homónima derecha (NIHSS 23).
+Durante su estancia en AVI presenta fiebre de foco respiratorio con necesidad de oxigenoterapia a altas dosis. Hemocultivos sin crecimiento bacteriano. Pese a tratamiento antibiótico y las medidas de soporte, el paciente presenta empeoramiento clínico progresivo. Por este motivo, y dado que desde el punto de vista neurológico el paciente presenta una lesión cerebral extensa que conllevaría secuelas neurológicas irreversibles, se deciden priorizar medidas terapéuticas de confort.
+El paciente vivía en un piso tutelado, sin relación con sus familiares (constan dos hijos según trabajo social). Se ha intentado contactar con dichos familiares sin éxito.
+El paciente es éxitus el día 26 de marzo a las 11.50h.
+
+Plan terapéutico / Pla terapèutic
+.
+
+Otras recomendaciones / Altres recomanacions
+.
+
+
+
+Firma/Signatura1: _NAME_	Firma/Signatura2: _NAME_ Categoría: Resident 4	Categoría: Esp.Assist.Urg.
+
+
+
+Nº Matrícula HCP: _ID_	Nº Matrícula HCP: _ID_
+
+Fecha/Data Informe: 26.03.2017
+Hora Informe: 12:04:02
+
+Docum.: _ID_
+Hist. Clínica: _ID_
+El _SS_ ha incorporado sus datos al Fichero de Pacientes, para tratarlos con fines sanitarios.
+Puede ejercer sus derechos de acceso, rectificación, cancelación y oposición, así como obtener mas información en la Unidad de Atención al Cliente.
+Vers. 00
+Pag. 2 de
+4
+Episod.: _ID_
+_SS_ ha incorporat les seves dades al Fitxer de Pacients, per a tractar-los amb finalitats sanitàries. Pot exercir els seus drets d'accés, rectificació, cancel·lació i oposició, i obtenir més informació a la Unitat d'Atenció al Client.
+_SS_
+_LOCATION_) _LOCATION_) Tel. _CONTACT_ Fax _CONTACT_
+http://_CONTACT_/

@@ -1,0 +1,28 @@
+T1	Fecha_de_ingreso 390 400	10.11.2017
+#1	AnnotatorNotes T1	2017-11-10
+T2	SECCION_TIPO_DE_INGRESO 418 443	Tipo ingreso/Tipus ingrés
+T3	SECCION_MOTIVO_DEL_ALTA 452 469	Motivo/Motiu alta
+T4	SECCION_DIAGNOSTICOS 485 489	Diag
+T5	Ictus_isquemico 534 550	INFARTO CEREBRAL
+T6	SECCION_PROCEDIMIENTOS 581 585	Proc
+T7	Fecha_de_alta 7530 7540	15.11.2017
+#7	AnnotatorNotes T7	2017-11-15
+T8	Hora_de_alta 7555 7560	19:57
+#8	AnnotatorNotes T8	19:57
+T9	SECCION_MOTIVO_DE_INGRESO 677 715	Motivo de consulta / Motiu de consulta
+T10	SECCION_ANTECEDENTES 758 820	Antecedentes e historia previa / Antecedents i història prèvia
+T11	SECCION_ANTECEDENTES_PERSONALES 821 844	Antecedentes personales
+T12	SECCION_ANTECEDENTES_FAMILIARES 1229 1252	ANTECEDENTES FAMILIARES
+T13	SECCION_TRATAMIENTO_HABITUAL 1309 1331	NO MEDICACIÓN HABITUAL
+T14	SECCION_PROCESO_ACTUAL 1334 1364	Proceso actual / Procés actual
+T15	Fecha_inicio_sintomas 1382 1390	10/11/17
+#15	AnnotatorNotes T15	2017-11-10
+T16	Fecha_llegada_hospital 1382 1390	10/11/17
+#16	AnnotatorNotes T16	2017-11-10
+T17	Hora_inicio_sintomas 1406 1408	18
+#17	AnnotatorNotes T17	18:00
+T18	SECCION_EXPLORACION_FISICA 1600 1638	Exploración física / Exploració física
+T19	SECCION_EXPLORACIONES_COMPLEMENTARIAS 3553 3613	Exploraciones complementarias / Exploracions complementàries
+T20	SECCION_EVOLUCION 5352 5372	Evolución / Evolució
+T21	SECCION_TRATAMIENTO_AL_ALTA 7123 7156	Plan terapéutico / Pla terapèutic
+T22	SECCION_RECOMENDACIONES 7175 7219	Otras recomendaciones / Altres recomanacions

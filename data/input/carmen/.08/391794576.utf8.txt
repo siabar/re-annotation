@@ -1,0 +1,130 @@
+_LOCATION_
+_LOCATION_) Anul·lació/Reprogramació visites:_CONTACT_
+Telèfon Centraleta: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 51 Anys
+NIF/DNI: _ID__NAME_; _NAME_; _NAME_;
+_NAME_
+Informe d'alta d'hospitalització
+13:00:00
+21.07.2017
+_LOCATION_
+_SS_ NEUROLOGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_; _CONTACT_; _CONTACT_; AGUTS
+12.07.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Hombre de 51 años que ingresa por ictus ACM izquierda.
+
+ANTECEDENTS
+-No alergias medicamentosas conocidas.
+-Enol de fin de semana ( 12 cervezas/d). No fumador.
+-DLP sin tto médico. No HTA ni DM conocidas.
+-En antecedentes MAP consta talasemia sin más especificación, analíticas sin anémia pero con microcitosis y microcromatosis. El refiere seguimiento por MAP.
+-Rinosinusitis alérgica .
+-IQ: no refiere.
+-Situación basal: Independiente todas actividades vida diaria. mRankinScale 0.
+
+MEDICACIÓ HABITUAL
+No refiere.
+
+PROCÉS ACTUAL
+Paciente 51 años que el 11/07 a las 20h inicia cuadro de parestesias en ESD y EID que no le impiden bajar las escaleras de su domicilio pero al llegar al _SS_ de L'_LOCATION_ presenta además pérdida de fuerza en hemicuerpo derecho e imposibilidad para emitir palabras según el hijo. Desde allí es trasladado a _SS_, donde se activa código ictus.
+
+A su llegada hemodinámicamente estable. Neurológicamente somnoliento, apertura ocular espontánea, desviación forzada oculocefálica a la izquierda, no obedece órdenes, no nomina, no repite, emisión espontánea de algún sonido incomprensible. HHD. PFSN D, hemiplejia BC D 0/5. NIHSS 23. Analíticamente K 3,26, VCM 68, resto normal. Rx de tórax sin hallazgos. ECG en ritmo sinusal a 54lpm sin alteraciones. Se realiza Tc craneal simple, AngioTC craneal y de troncos supraórticos que obejtivan oclusión del segmento M3 de arteria cerebral media izquierda, sin alteraciones significativas en la atenuación del parénquima cerebral valorables por TC. Ademas se objetivan múlitples trombos adheridos en la pared de cayado aórtico y ostium de tronco braquiocefálico y arteria carótida izquierda.
+
+Durante la realización del TC y al revalorar a las 21,30h presenta mejoría espontánea persistiendo: consciente y orientado, disartria leve (1) alt lenguaje: nomina 4/5, repite, comprende órdenes simples,  dificultad para las complejas (1). Dificultad para evocación por categorías, Extinción visual,(1) PFSN D (1), paresia ESD 4+/5 (1), extinción sensitiva (1), NIHSS 6
+
+Se realiza trombolisis a las 21,40h con mejoría posterior. A la revaloración neurológica paciente consciente y orientado, nomina 4/5, dificultad para evocar por categorías, PFSND, disartria leve, extinción visual y sensitiva, paresia ESD 5-/5 distal, resto igual NIHSS 5
+Se orienta el caso como TACI (Ictus ACM izda), con trombos en cayado aórtico y ostium tronco braquiocefálico y art carótida izda.
+
+Informe d'alta d'hospitalització
+
+
+
+
+Es valorado por equipo de neurovascular (_SS_) descartándose trombectomía por ausencia de oclusión proximal. Se decide ingreso en NRL.
+
+EXPLORACIÓ FÍSICA
+
+T129/96 Fc 64lpm Afebril SatO2 99%
+NRL: consciente y orientado. Cumple órdenes, afasia con disminución de la fluencia con bloqueos esporádicos del lenguaje (nomina 5/5, evoca 5/5 y repite) (1), no disartria. MOEs conservados, no déficits visuales, no PFSN, PICNR. Paresia 5-/5 braquiocrural derecha. Hipoestesia braquiocrural derecha (1). No extinción visual ni sensitiva. RCP flexor bilatera. NIHSS 2.
+Piel y mucosas: normocoloreadas y normohidratadas.
+ACV: ruidos cardíacos rítmicos, no ausculto soplos. Pulsos periféricos conservados y simétricos. AR: eupneico, MVC sin ruidos sobreañadidos.
+ABD: anodino.
+EEII: no edemas ni signos de TVP.Pulsos presentes y simétricos.
+
+
+EXPLORACIÓ COMPLEMENTÀRIA
+URGENCIAS:
+-Analítica: K 3,26, VCM 68, resto normal
+-Rx tórax: marco óseo conservado, ICT<0.5, senos costofrénicos libres, hilios no congestivos, no condensaciones ni infiltrados intraparenquimatosos.
+-ECG: RS 54x' Eje QRs 60. PR <0,2s, QRS <0,12s, no alteraciones de la repolarización.
+-TC CRANEAL, ANGIOTC CRANEAL Y DE TRONCOS SUPRAAÓRTICOS: Oclusión del segmento M3 de arteria cerebral media izquierda, sin alteraciones significativas en la atenuación del parénquima cerebral valorables por TC. Defectos de repleción adheridos en la pared de cayado aórtico y ostium de tronco braquiocefálico y arteria carótida izquierda.
+NEUROLOGÍA:
+-TC y AngioTC control: sin signos de transformación hemorrágica, persiste trombo a nivel de callado aórtico.
+-Analítica: furnción renal, iones (Na, k, Ca ), BQ hepática, proteína y FR normales. Perfil lipídico HDL 0.99 mmol/L resto (LDL, TG) normal. Perfil tiroidal normal. Perfil hemoglobina HbA1c 6.2%, cobalaminas 117 pmol/L, folatos normales. Anticuerpos anticélula parietal positivos. Resto de estudio inmunológico negativo (ANA, anticardiolipina, antib2glicoproteina, anticoagulante lúpico) anti mieloperoxidasa y antiproteinasa 3). Proteinograma normal.
+Hemograma: serie roja con 6.72 x10E12/L eritorcitos, Hb 138g/L, Htc 45.20%, VCM 67fL, HCM 21pg, CHCM 305 g/L, ADE 16.6%. Plaquetas 304 x10E9/L. Serie blanca normal. Coagulación: TTPA y TP normal, fibrinógeno 1.08 g/L.
+-Serologías: negativas para VHB, VHC, LUES y VIH
+-ETT: Ventrículo izquierdo no dilatado ni hipertrófico, con función sistólica conservada y sin alteraciones segmentarias de la contractilidad. Ventrículo derecho no dilatado, normocontráctil. Aurícula izquierda y raíz aórtica no dilatadas. Válvula aórtica trivalva, sin estenosis ni regurgitación. Válvula mitral normal. Ausencia de IT que permita estimar una PSAP fiable. Vena cava inferior no dilatada y móvil. Sin derrame pericárdico.
+-ETE: Mala tolerancia a la prueba, con agitación importante que impide la correcta visualización de la aorta torácica. Orejuela izquierda libre de trombos. Septo interauricular íntegro. Tras la administración de SSF agitado no se observa paso de burbujas a cavidades izquierdas de forma basal, aunque sí se observa paso a aurícula izquierda , grado II durante la maniobra de Valsalva.
+-RMN y AngioRMN cerebral: Múltiples lesiones cortico-subcorticales en región frontal izquierda, ambas regiones
+
+Informe d'alta d'hospitalització
+
+
+
+
+parietales, porción posterior de cápsula externa y en menor grado temporal izquierdas con brillo en secuencias de difusión en probable relación a lesiones isquémicas residuales.
+
+
+EVOLUCIÓ CLÍNICA
+Varón de 51 años con antecedentes de enol de fin de semana (12 cervezas/d), DLP sin tratamiento. mRankin 0 que ingresa por TACI ACM izquierda, con trombos en cayado aórtico y ostium tronco braquiocefálico y arteria carótida izda.
+
+En urgencias se realiza monitorización >24h sin evidencia de arritmias en monitor.
+Se repite TAC y Angio TAC control postrTPA sin signos de trasnformación hemorrágica pero con persistencia del trombo a nivel del cayado por lo que se inicia ACO con Warfarina.
+Analítica de ingreso con función renal, iones (Na, k, Ca ), BQ hepática, proteína y FR normales. Perfil lipídico  HDL
+0.99 mmol/L resto (LDL, TG) normal. Perfil tiroidal normal. HbA1c 6.2%, cobalaminas discretamente disminuidas(117 pmol/L,) folatos normales. Dado el déficit de cobalaminas solicitamos anticuerpos anticélula parietal que resultan positivos. Se decide iniciar suplementacion con cianocobalaminas. Resto de estudio inmunológico negativo. Proteinograma normal. Hemograma donde destaca microcitosis y coagulación sin alteraciones. Se cursan así mismo serologías para VHB, VHC, LUES y VIH que resultan negativas.
+
+Realizamos ETT con FE conservada, sin segmentarismos ni valvulopatías significativivas. Se completa estudio con ETE con orejuela izquierda libre de trombos y FOP  grado II durante la maniobra de Valsalva. La RMN y AngioRMN cerebral demuestra múltiples lesiones cortico-subcorticales en región frontal izquierda, ambas regiones parietales, porción posterior de cápsula externa y en menor grado temporal izquierdas con brillo en secuencias de difusión en probable relación a lesiones isquémicas residuales.
+
+Durante su estancia en planta no ha presentado incidencias  iniciando deambulación autónoma sin precisar fisioterapia.
+Se consulta con hematología para estudio de rasgo talasémico, que descarta necesidad de más estudio/tratamiento.
+
+Al alta NIHSS 1 a expensas de disminución en la fluencia verbal.
+
+Se orienta el caso como TACI ACM izquierda de etiología indeterminada (embólica pero de origen no filiado). Pendiente de Holter al alta. Tratamiento con ACO hasta control en NRL. Alta a domicilio con normas de reconsulta.
+
+DIAGNÒSTICS
+436/5 Ictus
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Warfarina según pauta de hemostasia (Acudir a control el dia 24/07/2017) Atorvastatina 40 mg 1/24h
+Optovite B12 1000 mcg IM 1/semana durante 4 semanas y después administración mensual(acudir al médico de cabecera para administración si necesario).
+
+Informe d'alta d'hospitalització
+
+
+
+CONTROL
+Acudir a primera visita en CEX NRL (Dr _NAME_) según programación.
+
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+21.07.2017
+Pàgina 1 de 4

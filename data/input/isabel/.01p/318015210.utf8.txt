@@ -1,0 +1,183 @@
+_LOCATION_) Telèfon _SS_  _CONTACT_
+Telèfon IDI (Ressonància i TAC) _CONTACT_
+Telèfon ICO _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 63 Anys
+NIF/DNI: _ID__NAME_; _NAME_
+Informe d'alta d'hospitalització
+14:09:59
+03.01.2017
+_LOCATION_
+_LOCATION_ NEUROLOGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_; _CONTACT_; _CONTACT_
+DOMICIL/RES.SOC 01.01.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Ictus isquémico ACM derecha.
+
+ANTECEDENTS
+ANTECEDENTES PERSONALES
+-	Sin alergias medicamentosas conocidas.
+-	Hábitos tóxicos: fumador activo de 45 paquetes año. Consumidor de 1 copa de vino / día
+-	Independiente para las ABVD. mRs: 0
+
+
+ANTECEDENTES PATOLOGICOS:
+-	No HTA, no DM, ni dislipemia conocidas previamente, aunque no controlaba de forma regular.
+-	No  cardiopatía isquémica ni  patologia vascular cerebral conocida.
+-	Niega otros antecedentes patológicos o quirúrgicos de interés.
+
+MEDICACIÓ HABITUAL
+Sin medicación habitual
+
+PROCÉS ACTUAL
+Paciente de 63 años, sin factores de riesgo cardiovascular que el dia 1/1 se va a dormir asintomático, a las 02:00, y despierta aproximadamente a las 08:00 con déficit del lenguaje y déficit motor en extremidad superior izquierda por lo que su esposa llama al SEM a las 08:27 que se contacta con nuestro centro y se activa código ictus, llega a nuestro centro a las 09:22.
+
+EXPLORACIÓ FÍSICA
+
+EXPLORACIÓN EN URGENCIAS:
+TA: 180/110mmHg. A: tonos ritmics, no se auscultan soplos ni roces.
+Exploración neurológica: NRL: Vigil, orientado, atento, presenta disartria leve-moderada, no presenta déficit campimétrico, movimientos conjugados de los ojos sin anormalidades, parálisis facial central izquierda, no déficit motor en extremidad superior izquierda pero si déficit contra gravedad en extremidad inferior izquierda, hipoestesia en extremidades izquierdas, no dismetias. No anosognosia ni asomatognosia.
+
+NIHSS : 00000/20001/01010: 5
+
+EXPLORACIÓ COMPLEMENTÀRIA
+ECG: Ritme sinusal, QRS estrecho, no alteraciones de la repolarización.
+
+MONITORIZACIÓN ECG (Unidad de Ictus): No se detectan arritmias.
+
+Informe d'alta d'hospitalització
+
+
+
+
+
+Analítica sanguinea del ingreso:
+Hb 15.4 g/dL, Htc 46 %, VCM 90.4 fL, HCM 30 pg, Plaquetes 240 K/mcL, Leucòcits 7.58 K/mcL (Neutròfils 4.4 K/mcL, Limfocits 2.3 K/mcL)
+Coagulació normal.
+Glucosa 110 mg/dL, Urea 25 mg/dL, Creatinina 0.65 mg/dL, Urat * 7.8 mg/dL, Proteïna 6.6 g/dL, Albúmina (sèrum) 3.9 g/dL, Colesterol * 282 mg/dL, HDL 41 mg/dL, LDL (calcul) * 215 mg/dL, Triglicèrid 132 mg/dL, Perfil hepático normal, Creatincinasa (CK) 141 U/L, Amilasa 62 U/L, Calci (II) 9.6 mg/dL, sodi 140 mEqu/L, potasi 4.4 mEqu/L, FG: 103.5 mL/min, Troponina hs: 9
+
+RM multiparamètrica: No s'observen signes hemorràgics aguts intra ni extraaxials. Infart hiperagut/agut (restricció a la difusió sense alteració de la senyal FLAIR) còrtico-subcortical frontal dret amb extensió insular, associat a àrees d'allargament del MTT fronto-parietal e insular ipsilateral, en relació a una àrea de penombra >20%, correponent al territori superficial de la ACM dreta. En l'angio TOF s'identifica una oclusió del segment proximal de M2 de l'ACM dreta, en relació a un trombus d'aproximadament 6.5 mm, amb presència de fluxe distal a la oclusió per colaterals.
+Com a variant anatòmica s'observa una ACP dreta d'origen fetal. Infarts llacunars crònics a nivell de la corona radiata (3 dreta i 1 esquerra) i un últim a nivell càpsulo-talàmic dret. CONCLUSIÓ: Infart hiperagut/agut frontal dret amb extensió insular, amb una àrea de penombra >20%, que afecta el territori superficial de la ACM dreta. S'associa una oclusió del segment proximal de M2 de l'ACM dreta, en relació a un trobus d'aproximadament6.5 mm, amb presència de fluxe distal per colaterals. Infarts llacunars crònics a corona radiata bilaterals i càpsulo-talàmic dret.
+
+Rx de tòrax (AP): ICT augmentat (projecció poc valorable), no condensacions. Sins costofrènics lliures.
+
+Estudio ultrasonográfico: Dúplex TSA: normal. Dúplex TC: Patró d'oclusió distal TIBI 3 a ACM D.
+
+Ecocardiograma transtorácico: Aurícula esquerra: 40 mm- Fracció eyecció VI Teichholz: 61 %. Conclusion: Ventricle esquerre no dilatat ni hipertròfic amb funció contràctil  global i segmentària normals. Vàlvula mitral d#aspecte normal amb lleu insuficiència. Vàlvula aòrtica trivalva, sent mínimament insuficient. Vàlvula pulmonar normofuncionant. Vàlvula tricúspide normofuncionant. Arrel aòrtica i aorta ascedent lleugerament dilatades ( 39 mm / 41 mm). Aurícula esquerra normal. Cavitats dretes normals. No embassament pericàrdic.
+
+EVOLUCIÓ CLÍNICA
+A la llegada del paciente se confirma una NIHSS de 5. Se objetiva una TA 180/110mmHg, por lo que se le administra un bolus de labetalol de 10mg. Dado que es un ictus del despertar y que cumple criterios de inclusión y no de exclusión se le propone randomización en ensayo clínico ECASS IV. La esposa del paciente firma el consentimiento informado a las 09:45 y se le entrega copia del consentimiento.
+Se le hace RM cerebral que muestra area de penumbra en la perfusión en el territori de la arterial cerebral media derecha >20% por lo que cumple criterios de randomización de ECASS IV. Por persistencia de hipertensió arterial se le adminstra urapidil de 25mg que es efectivo (TA: 140/93mmHg), posteriormente se le adminstra bolus de kit de ensayo basados en peso de 80Kg, bolus de 7,2mg a las 10:24, luego se le inicia con perfusion de 68mg en una hora. Al inico del bolus se constata HHI, paresia de ESI, anosognosia y hemianestesia izquierda (NIHSS: 00002/20200/02012= 11). Durante la perfusión de la medicación se mantiene normotenso. Neurologicamente persiste estable. Se cursa ingreso en la Unidad de Ictus.
+Es reevaluado a la 12h del tratamiento y el paciente presenta una clara mejoría de los síntomas, presentando un NIHSS de 1 por disartria leve.
+
+Informe d'alta d'hospitalització
+
+
+
+
+Se realiza una RM cerebral de control que muestra infarto establecido del territori de la ACM derecha, sin transformación hemorrágica por lo que se inicia medicación antiagregante.
+En la analítica de ingreso se detecta hiperuricemia asintomática y dislipemia (LDL 215mg/dl) no conocida. Por tensión arterial mantenida por encima de 140/90 mmHg se decide iniciar tratamiento con antihipertensivos (enalapril 5mg).
+
+Se solicita un ecocardiograma que descartar fuente cardioembólica mayor. Se lo mantiene monitorizado ECG sin detectarse arritmias. Se realiza una analítica sanguinea con estudi de hipercoagulabilidad que se encuentra pendiente al alta.
+
+Dada la estabilidad clínica y hemodinámica se decide alta a domicilio. Se continuará estudio de manera ambulatoria.
+
+Escalas al alta:
+-	NIHSS 1 disartria leve
+-	Rankin 1
+-	Barthel 100/100
+
+DIAGNÒSTICS
+436/5	Infarto cerebral en el territorio de la ACM D de mecanismo embólico, criptogénico.
+Tratamiento trombolítico con rtPA.
+401.1	Hipertensión arteria, no conocida previamente 272.4/1 Dislipemia, no conocida previamente
+
+
+PROCEDIMENTS
+Analítica sanguinea, RM cerebral, Doppler, ecocardiograma.
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+-	Dieta baja en sal y grasas.
+-	Abandono del consumo de tabaco y reducción del consumo de alcohol.
+-	Control de los factores de riesgo cardiovascular Colesterol (LDL) <100 mg / dl
+Tensión arterial sistólica <140mmHg / Diastólica <90mmHg
+-	Tratamiento farmacológico
+Adiro 100mg cada 24h después del desayuno
+Atorvastatina 40mg cada 24h por la noche, como prevención secundaria, independientemente de LDL, que en cualquier caso debe ser <100 mg/dL (aumentar dosis si reuqiere).
+Enalapril 5mg cada 24h Omeprazol 20mg cada  24h
+
+CONTROL
+En el momento del alta se inicia monitorización continua ECG - TELEMETRÍA, que mantendrá durante 2 semanas. Acudirá para retirar sistema.
+
+Informe d'alta d'hospitalització
+
+
+
+
+Control con Neurologia (1º planta- EDIFICIO de Consultas Externas) en 3 meses aproximadamente. Control de los factores de riesgo cardiovascular por su equipo de atención primaria.
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+03.01.2017
+Pàgina 1 de 4

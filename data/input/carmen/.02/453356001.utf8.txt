@@ -1,0 +1,134 @@
+_LOCATION_
+_LOCATION_) Anul·lació/Reprogramació visites:_CONTACT_
+Telèfon Centraleta: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 81 Anys
+NIF/DNI: _ID__NAME_; _NAME_
+Informe d'alta d'hospitalització
+16:56:04
+22.12.2017
+_LOCATION_
+_SS_ NEUROLOGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_; _CONTACT_
+DOMICIL/RES.SOC 10.12.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+AIT+HSA
+
+ANTECEDENTS
+Sin alergias medicamentosas conocidas. Sin hábitos tóxicos.
+Hipertensión en tratamiento con amlodipino, enalapril, hidroclorotiazida y espironolactona, dislipemia en tratamiento con simvastatina, diabetes mellitus 2 en tratamiento con metformina.
+Fibrilación auricular crónica en tratamiento anticoagulante con y frenador con digoxina y nebivolol
+-Insuficiencia cardiaca congestiva secundaria a valvuopatías (doble lesión mitral, insuficiencia Ao leve/mod, HTP leve/mod) en tratamiento con furosemida. *Ecografía cardiaca transtorácica (noviembre 2016): Función sistólica biventricular conservada con ligera hipertrofia a predominio septal. - Doble lesión mitral con estenosis moderada e insuficiencia ligera post comisurotomía. Insuficiencia aórtica ligera /moderada. Hipertensión pulmonar estimada leve/moderada. ACXFA
+Antedecedentes quirúrgicos: Valvuloplastia mitral en 1996. Hipotiroidismo en tratamiento con eutirox.
+Situación basal: independiente para las ABVD.
+
+MEDICACIÓ HABITUAL
+Amlodipino 10mg 1c/24h, citalopram 10mg 1c/24h, digoxina 0.25mg 1c/24h, enalapril/hidroclorotiazidea 20/12.5mg 1c/24h, espironolactona 2mg 1c/24h, eutirox 75mcg 1c/24h, furosemida 40mg 1c/24h,  lobivon 5mg 1c/24h, metformina 850mg 1c/24h, omeprazol 20mg 1c/24h, simvastatina 20mg 1c/24h.
+
+PROCÉS ACTUAL
+Mujer de 81 años que el dia 10/12 a las 19h inicia cuadro brusco de paresia de ESI junto con desviación de comisura bucal y disartria. Niegan TCE. No cefalea. No otra alteración destacable. Avisan al SEM que activa código ictus a las 20:08h. Mejoría clínica en el trasaldo en ambulancia hasta quedarse asintomática. Llega a _SS_ a las 20:36h y se realiza el TAC craneal 21h.
+
+A su llegada a Urgencias la apciente se encuentra HDME con TA 142/78, FC 95, sat 100%. INR 2.6. DXT 102. A la exploración está consciente, dice mes y edad, no aletraciones del habla ni del lenguaje. MOEs ok, no HH, no PFSN. No aletraciones motoras ni sensitivas. No dismetrías. RCP flexor bilateral. NIHSS 0.
+
+Como pruebas complementarias se realiza analítica en la que destaca hemograma no alterado. INR 2.85. Bq con Cr 98 umol/L, urea 15.5. Radiografía de tórax dentro de la normalidad. ECG con FA a 85lpm. No alteraciones agudas de la repolarización. En el TAC craneal se observa foco de HSA en convexidad parietal derecha. Cambios de atrofia cerebral. Infartos lacunares crónicos en caudado y lenticular izquierdos. Se completa el estudio mediante ecoTSA donde se visualizan ambos ejes carotídeos sin estenosis significativas. ACI derecha con Vsist max 75 cm/seg y ACI izqueirda con Vsist max 100cm/seg. Ambas vertebrales con flujo simétrico y ortodrómico.
+
+Se orienta el caso como AIT hemisférico derecho+ mínima HSA secundaria a tratamiento ACO. Se administra una
+
+Informe d'alta d'hospitalització
+
+
+
+
+ampolla de Vit K. Se decide ingreso en NRL para estudio y control evolutivo.
+
+EXPLORACIÓ FÍSICA
+
+TA 132/66mmHg FC 74lpm 10rpm  satO2 basal 98% NRL: NIH 0 sin focalidad
+AC: arrítmica, no ausculto soplos ni roces
+AP: murmulo vesicular conservado, sin ruidos sobreañadidos
+Abdomen: blando, depresible, no doloroso a la palpación, no palpo masas ni megalias, no signos de irritación peritoneal, peristaltismo conservado.
+EEII: no edemas ni signos de TVP
+
+
+EXPLORACIÓ COMPLEMENTÀRIA
+Pruebas en Urgencias:
+-Analítica: hemograma no alterado. INR 2.85. Bq con Cr 98 umol/L, urea 15.5.
+-Rx tórax: marco óseo conservado. ICT <0.5. No condensaciones. Senos no pinzados.
+-TAC craneal: Foco de HSA en convexidad parietal derecha. Cambios de atrofia cerebral. Infartos lacunares crónicos en caudado y lenticular izquierdos.
+-ECG: FA a 85lpm. No alteraciones agudas de la repolarización.
+-ECO-TSA: se visualizan ambos ejes carotídeos sin estenosis significativas. ACI derecha con Vsist max 75 cm/seg y ACI izqueirda con Vsist max 100cm/seg. Ambas vertebrales con flujo simétrico y ortodrómico.
+
+Pruebas en planta de Neurología:
+Analítica: alteración de la función renal (urea 15.4mmol/L, Cr 85umol/L, FG 56mL/min), ionograma normal, glucosa normal, función hepática normal, perfil lipídico con hipercolesterolemia total 5.46mmol/L, e hipertrigliceridemia 1.93mmol/L, hipotiroidismo subclínico conocido con RSH 18.96, perfil glicémico normal, digocxina 2.09ug/L, folatos y cobalaminas normales, proteinograma pendiente, serie roja normal, discreta trombocitosis 392000, serie blanca y coagulación normal.
+EEG (12.12.17): EEG ANORMAL, por enlentecimiento focal temporal derecho compatible con disfunción neuronal temporal derecha.
+RMN cerebral y angioRMN: HSA en solc central dret. Atròfia i hipoperfussió crònica microvascular. Infart llacunar antic caudatal esquerre. DVA fronto-parietal esquerra. Microsagnats periventricular posterior dret i cervelletós AngioTC:  No  se  aprecian formaciones  aneurismáticas ni  imágenes  sugestivas  de  corresponder  a  lesiones vasculares valorables. Tampoco estructuras vasculares claramente anómalas en relación al foco de hemorragia subaracnoidea cortical frontal derecho.
+
+EVOLUCIÓ CLÍNICA
+Ingresa en Neurología por AIT hemisférico derecho vs. crisis parciales simples+ mínima HSA secundaria a tratamiento ACO. A su llegada la paciente se encuentra con NIH 0 sin focalidad.
+
+Como estudio vascular se realiza analítica en la que destaca alteración de la función renal, perfil lipídico con hipercolesterolemia e hipertrigliceridemia, hipotiroidismo subclínico conocido con TSH de 19 y leve trombocitosis. Se aumenta la dosis de levotiroxina a 100mcg al dia.
+
+Informe d'alta d'hospitalització
+
+
+
+
+
+Durante su ingreso presenta episodios de repetición de paresia transitoria de ESI de segundos de duración. En el EEG se observa un foco lento focal temporal derecho compatible con disfunción neuronal temporal derecha. Se ha iniciado de forma empírica levetiracetam hasta 750 mg/12h y lacosamida  50 mg cada 12 horas con resolución de los episodios.
+
+La RMN confirma la presencia de una HSA focal en surco motor derecho, además de hallazgo de DVA frontoparietal izquierda y varios focos  de microsangrados. Se orienta como probable etiología amiloide, por lo que  se explica riesgo beneficio a familiares y se suspende  anticoagulación.
+
+Al alta persiste con una mínima paresia B  5-/5 y crural 5-5 que le condiciona una leve inestabilidad de la marcha con lateropulsión izquierda,  por lo que se recomienda  rehabilitación domiciliaria.
+
+Control por MFiC  y neurólogo de zona.
+
+ORIENTACIÓ DIAGNÒSTICA
+HSA  de surco siliviano. Angiopatía amiloide.
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+-	STOP Sintrom.
+-	Levetiracetam 750 mg cada 12 horas
+-	Lacosamida 50 mg cada 12 horas.
+
+
+CONTROL
+Por médico de cabecera y neurólogo de zona.
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+22.12.2017
+Pàgina 1 de 3

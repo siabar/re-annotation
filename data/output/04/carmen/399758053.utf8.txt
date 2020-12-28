@@ -1,0 +1,126 @@
+_LOCATION_
+Telèfon: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 48 anys
+NIF/DNI:Informe d'alta d'hospitalització
+17:00:00
+17.08.2017
+_LOCATION_
+_SS_ NEUROLOGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_; _CONTACT_
+DOMICIL/RES.SOC 11.08.2017
+_NAME_
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Código Ictus. Paresia de extremidades izquierdas.
+
+ANTECEDENTS
+NAMC. Trabaja en una fábrica. Reside solo. IABVD. Demabulación sin ayuda. mRS 0. Hábitos tóxicos: Fumador. HTA. No DM. DL. Consta hipertransaminasemia. Fractura de 5º dedo de la mano D.
+Niega intervenciones quirúrgicas.
+
+
+MEDICACIÓ HABITUAL
+Niegan tratamiento médico habitual.
+
+PROCÉS ACTUAL
+Varón de 48 años que ayer mientras estaba viendo la TV se levantó del sofá y constató debilidad en las extremidades I con dificultad para la articulación del lenguaje (21:00h). Se contactó con el SEM que procedió a la activación del protocolo Código Ictus. A su llegada al S. de Urgencias del _SS_ fue valorado por la guardia de NRL (23:00h) que constató solamente una leve disartria en la exploración (NIHSS 1) y ausencia de oclusiones en el angio-TC por lo que no resultó tributario de tratamientos repermeabilizadores.
+
+
+EXPLORACIÓ FÍSICA
+
+FC	bpm
+Tªaxi  ºC
+FR	rpm Tªrec  ºC
+TA s	180 mmHg SAT O2  %
+TA d   90 mmHg Pes Kg
+
+Exploración en el S de Urgencias (23.00h): NRL: Leve disartria. Resto normal (NIHSS 1). AC: RsCsRs a 85 lpm.
+
+
+EXPLORACIÓ COMPLEMENTÀRIA
+1. AS (10/08/2017):
+-	BQ: Gluc 116. U, Cr, Na, K Normales.
+-	Hemograma: Leucos 11.75. Hb, VCM, Plaq normales.
+-	Hemostasia básica: Normal
+
+2. AS (17/08/2017):
+-	BQ: Gluc, U, Cr, Ca total, Prot, Prealb, FA, GOT Normales. GPT 75. GGT 66. Bb, CK, Na, K, Mg, PCR Normales.
+-	Serología: Treponema pallidum Negativo.
+-	
+Informe d'alta d'hospitalització
+
+
+
+
+-	Hemograma: Leucos, Hb, VCM, Plaq, VSG Normales.
+-	Hemostasia básica: Normal.
+
+3.	ECG: Rs a 60 lpm.
+
+4.	ETT: Ventrículo izquierdo: dimensiones normales. Hipertrofia concéntrica ligera. Buena función sistólica (FE 68%) sin asimetrías contráctiles regionales. Patrón de llenado mitral de mala relajación. Aurículas: normales. Cavidades derechas normales. Válvula mitral: ligeros cambios esclerosos. Apertura normal. No se detecta insuficiencia. Válvula aórtica: ligeros cambios degenerativos. Trivalva. Apertura normal. No insuficiencia aórtica. Raíz aórtica, porción tubular de aorta ascendente y arco de calibre normal. Válvula tricúspide: morfología normal. Apertura normal. Insuficiencia tricuspídea mínima funcional que no permite calcular el gradiente VA. Ausencia de datos indirectos indicativos de HTPs significativa. Válvula pulmonar: morfología normal. Flujos normales. Tronco y ramas pulmonares: normales. Tabiques: íntegros. Pericardio: no derrame. Cava inferior: no dilatada con colapso inspiratorio correcto.
+Conclusiones: VI no dilatado, ligeramente hipertrofiado, con buena función sistólica y disfunción diastólica por mala relajación. Ausencia de alteraciones valvulares. Ausencia de datos indirectos de HTPs significativa.
+
+5.	Telemetría (más de 24h): RS. Sin arritmias embolígenas.
+
+6.	TC de cráneo + A-TC intra y extracraneal: Línea media centrada. Sistema ventricular no dilatado y simétrico. Parénquima cerebral de morfología y densidad normales. No se observan signos de sangrado intra o extra axiales. Arterias carótidas comunes permeables, de calibre normal. Bifurcación carotídea, carótidas externas e internas permeables. Polígono de Willis permeable, sin defectos de repleción. Arteria vertebral izquierda dominante. Arteria basilar permeable, de calibre normal. Arteria vertebral derecha de fino calibre.
+CONCLUSIÓN: Estudio craneoencefálico sin signos de patología cerebral aguda. Sistema arterial cerebral permeable, sin defectos de repleción.
+
+7.	RM de cráneo + Angio-RM sobre polígono de Willis: Lesion focal de 7 mm en extremo posterior del nucleo putamen derecho y dos focossubcentimetricos en corona radiata derecha, con restriccion de la difusion compatible con infarto isquémico agudo.Resto de estructuras parenquimatosas supra e infratentoriales de  morfología e intensidad de señal dentro de la normalidad. Sistema ventricular simétrico, de morfología y tamaño normales. Estructuras de la línea media centradas. No evidencia de procesos expansivos intra ni extra-axiales. Charnela occípito-cervical normal. No se aprecian alteraciones vasculares significativas en las secuencias de angio-RM sobre el polígono de Willis.
+CONCLUSION:
+Focos de infarto isquémico agudo en nucleo putamen derecho y dos focos subcentimetricos en corona radiata derecha.
+
+8.	Estudio neurosonológico:
+-	Dúplex TSA: destaca la presència d'hiperplàsia intimal en tots dos eixos carotidis sense alteracions hemodinàmiques. Estudi del trajecte extracranial de totes dues artèries vetebrals que mostra possible patró oclusió artèria vertebral dreta (mala qualitat tècnica)
+-	Dúplex TC: fluxes ortodròmics amb velocitat dins el marge de la normalitat a través de totes dues finestres temporals. Absència senyal artèria verebral dreta.
+-	Estudi shunt dreta - esquerra: absència de curtcircuït tant en situació basal com després de Valsalva
+-	
+Informe d'alta d'hospitalització
+
+
+
+EVOLUCIÓ CLÍNICA
+Paciente que ingresa en para estudio de hemiparesia en las extremidades derechas asociado a disartria de curso transitorio. Duarante ha permanecido asintomático desde el punto de vista neurológico. La RM de cráneo ha evidenciado lesiones de perfil isdquémico agudo en el territorio de la arteria cerebral media derecha (núcleo putamen y en la corona radiata derecha). Durante el ingreso se ha realizado un estudio cardiológico mediante telemetría (que no ha objetivado arrtimias embolígenas) y ecocardiografía (que solo ha visualizado una ligera hipertrofia del ventrículo izquierdo). Desde el punto de vista vascular, los estudios neurosonológicos y mediante angio-TC han descartado estenosis significativas en el territorio carotídeo. si bien se destaca hiperplasia intimal como factor de riesgo vascular. Los estudio de imagen también han descartado alteraciones vasculares intracraneales. Durante el ingreso ha presentado un aceptable control tensional. A tenor de las lesiones que pone de manifiesto la RM de cráneo no puede descartarse un mecanismo embólico de etiología desconocoda. Por ello, se establece tratamiento con antigaregación (Adiro 100 mg) y con estatinas (Simvastatina 40 mg). Desde el punto de vista analítico cabe destacar una leve alteración de GGT y GPT conocidas desde al menos el año 2010. Ello motiva la recomendación de abstención en el consumo enólico y seguimientoo a través de su Médico de Atención Primaria. También constataron dislipemia.
+En el momento del alta, el paciente está asintomático. NIHSS 0. mRS 0.
+
+DIAGNÒSTICS
+1. Ictus isquémico en el territorio de la arteria cerebral media derecha de probable mecanismo embólico y de etiología criptogénica. Sintomatología transitoria.
+
+PROCEDIMENTS
+88.71 Ultrasò diagnòstic de cap i coll. Determinació desviació de la línia mediana cerebral,ecoencefalografia
+88.71 Ultrasò diagnòstic de cap i coll. Determinació desviació de la línia mediana cerebral,ecoencefalografia
+88.91 Imatge per ressonància magnètica de cervell i tronc cerebral
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+1.	Dieta basal con bajo contenido en grasas de origen animal.
+2.	Abandono del hábito tabáquico.
+3.	Abstención en el consumo enólico.
+4.	Adiro 100 mg: 1 comprimido diario con la comida principal.
+5.	Simvastatina 40 mg: 1 comprimido diario con la cena.
+
+
+CONTROL
+1.	Se ruega un estricto control de los factores de riesgo vascular a través de su Médico de Atención Primaria, con la recomendación de realizar controles de las pruebas de función hepática.
+2.	Acudirá a revisión en las Consultas del S. de Neurología (Dr. _NAME_) tras la realización de un control de análisis de sangre.
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+17.08.2017
+Pàgina 1 de 3

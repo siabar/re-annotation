@@ -1,0 +1,146 @@
+_LOCATION_ Tel. _CONTACT_
+e-mail: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 93 Anys
+NIF/DNI: _ID_Dr. _NAME_, Dra. _NAME_, Dra. _NAME_, Dra.
+Informe d'alta d'hospitalització
+14:20:03
+07.12.2017
+_LOCATION_
+_SS_ NEUROLOGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_
+DOMICIL/RES.SOC 29.11.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Ictus isquémico de territorio de arteria cerebral media derecha
+
+ANTECEDENTS
+PERSONALES:
+Mujer de 93 años sin alergias medicamentosas ni hábitos tóxicos.
+Independiente para actividades básicas e instrumentales de la vida diaria. mRS 0.
+
+PATOLÓGICOS:
+-Hipertensión arterial en tratamiento con 3 fármacos (amlodipino, lisinopril-hidroclorotiazida) con control irregular.
+-Dislipemia en tratamiento con simvastatina. Último control (22/11/2016): colesterol 187 mg/dl, TG 253 mg/dl.
+-Insuficiencia renal crónica diagnosticada en 2014. Último control (22/11/17): creatinina 0.91 mg/dl.
+-Síndrome depresivo en tratamiento con citalopram.
+
+MEDICACIÓ HABITUAL
+Adiro   100    mg   1    comp/24h,    Omeprazol    20    mg   1    comp/24h,    Amlodipino   5    mg   1    comp/24h,
+Lisinopril/hidroclorotiazida 20/12.5 mg 1 comp /12h,	Simvastatina 20 mg 1 comp/24h,	Citalopram  10 mg 1 comp/24h, lorazepam 1 mg noche,  Paracetamol 1 g sp
+
+PROCÉS ACTUAL
+El 29/11/17 es traída a las 06:00h al despertarse para ir al baño presenta malestar general, sin clinica focal neurológica. A las 7:00h los familiares objetivan dificultad para la emisión del lenguaje y debilidad en hemicuerpo izquierdo por lo que avisan al SEM, quien tras valoración activa código ictus a las 10:53h. Llega a nuestro centro a las 11:13h.
+
+EXPLORACIÓ FÍSICA
+
+FC	bpm Tªaxi 37.0 ºC
+FR	rpm Tªrec  ºC
+TA s	144 mmHg SAT O2  %
+TA d   78 mmHg Pes Kg
+
+Exploracion fisica en urgencias:
+PAS144 , PAD 78 mmHg // Temperatura:37 ºC
+Buen nivel de consciencia. Lenguaje disártrico sin elementos afásicos. Oculomotricidad conservada. Hemianopsia homónima izquierda con extinción visual. Paresia facial central izquierda. Hemiparesia izquierda con balance muscular 3/5 en ESI y 4/5 en EII. A
+NIHSS:  (0 00 ) (0 2)/ 2 (03) (01) / 0 0 0 2 2 =12
+
+UNIDAD DE ICTUS:
+Buen estado general. AC: ruídos cardíacos regulares, sin soplos cardíacos ni carotídeos. No IY/RHY ni edemas. Pulsos pedios presentes y simétricos. AR: murmullo vesicular conservado, sin ruídos añadidos. Eupneica.
+Consciente y orientada en los 3 ejes. Lenguaje fluente sin elementos afásicos. Disartria leve. Pupilas isocóricas
+
+Informe d'alta d'hospitalització
+
+
+
+
+normoreactivas. Preferencia oculocefálica a la derecha sin cruzar linea media. Hemianopsia homónima izquierda. Paresia facial izquierda con componente superior. Plegia braquial izquierda sin déficit motor crural. Reflejo cutáneo plantar extensor izquierdo, flexor derecho. Anestesia braquial izquierda. Asomatognosia y anosognosia.
+NIHSS: (0.0.0).1.2/3(0.4)(0.0)/0.2.0.1 .2 = 15.
+
+EXPLORACIÓ COMPLEMENTÀRIA
+URGENCIAS:
+
+Analitica: Hematologia (29/11/17): Leucocitos 9700 /#ÊL, (N 82,6 % / L 11,2 / M 5,5 / E 0,2 / B 0,5), Hties 5,11 mill/#ÊL, Hb 15,3 g/dL, Hcto 46,5 %, VCM 91 fL, Plaquetes 194000 /#ÊL, TP 94 %, INR 1,05 sg, TP ratio
+1,05, TTPA 27 sg, TTPA ratio 0,87, Fibrinogeno 424 mg/dL. Bioquimica (29/11/17): Glucosa 130 mg/dL, Urea 34,
+Creatinina 0,74, Na 139 mmol/L, K 4,1, Prot-C reactiva 2 mg/L.
+
+TC craneal con angioTC (29/11/2017; 11:32h): Lesion isquemica aguda de ACM derecha ASPECTS 8-9, secundaria a defecto de replecion incompleto en rama del segmento M2 que puede estar en relacion con trombo repermeabilizado o bien trombo suboclusivo.
+
+ECG: en ritmo sinusal a 50 lpm, alguna extrasistole supraventricular, aQRS 45o, sin signos de alteracion de la repolarizacion.
+
+UNIDAD DE ICTUS:
+
+TC cranial sense contrast (30.11.2017 /15:58:47): Hipoatenuación frontal, corticosubcortical e insular, de pequeño tamaño, compatible con lesión isquémica establecida del territorio de ACM derecha, que coincide con el área de infarto isquémico establecido que se describía en la TC perfusión. Sin otros hallazgos TC destacables.
+
+Rx de tòrax (F ) (30.11.2017): Exploración realizada con pobre esfuerzo inspiratorio y en posición de decúbito, de calidad técnica subóptima. Sin alteraciones radiológicas significativas considerando las limitaciones técnicas de la exploración.
+
+Ecocardiograma transtorácico (30/11/2017): Ventrículo izquierdo no dilatado ni hipertrófico, con función sistólica   global   y  segmentaria   conservadas.  Aurícula  izquierda   severamente  dilatada.  Sin   valvulopatías significativas. Derrame pericardico ligero.
+
+Monitorización cardíaca: fibrilación auricular de debut. ECG (01/12): fibrilación auricular a 130 lpm.
+EVOLUCIÓ CLÍNICA
+Mujer de 93 años, mRS 0, con antecedentes de hipertensión arterial, dislipemia e insuficiencia renal crónica estadio 3 que acude el 29/11/17 con clínica de debilidad de extremidades izquierdas y alteración en la articulación del lenguaje de inicio incierto.
+
+Informe d'alta d'hospitalització
+
+
+
+
+
+A su llegada a urgencias hemodinámicamente estable, eupneica y afebril. A la exploración destaca clínica hemisférica derecha (hemianopsia homónima izquierda, hemiparesia izquierda y asomato/anosognosia), puntuando NIHSS de 12. Analítica sin alteraciones significativas; ECG en ritmo sinusal. Se realiza TC multimodal que muestra signos incipientes de isquemia aguda (ASPECTS 9), oclusión de arteria cerebral media derecha segmento M2 y mismatch completo en estudio de perfusión. Se orienta como ictus isquémico de arteria cerebral media derecha de mecanismo embólico y etiología a estudio tributario de tratamiento endovascular primario. Se realiza trombectomía mecánica consiguiéndose recanalización TICI 2b.
+
+Durante el ingreso en la unidad de ictus se mantiene hemodinámicamente estable y afebril. Como complicación presenta episodio de insuficiencia respiratoria en contexto de haber presentado algún vómito tras realizar el TC y observándose aumento de densidad en base pulmonar izquierda, por lo que ante sospecha de broncoaspiración se inicia antibiótico empírico (amoxicilina-clavulánico) el 30/11/17 a mantener durante 7 días. En el TC craneal de control se observa lesión isquémica frontal derecha establecida, sin signos de sangrado, por lo que se inicia tratamiento antiagregante preventivo.
+
+Dentro del estudio etiológico, se realiza analítica completa que muestra leve leucocitosis con neutrofilia y elevación de reactantes de fase aguda (PCR 95 mg/L), CKs 239 U/L; perfil glucémico y lipídico normales. Analítica de orina destaca leve proteinuria y leve acetoaceturia; sedimento de orina negativo. Se realiza ecocardiograma transtorácico que muestra aurícula izquierda severamente dilatada y derrame pericardico ligero. En la monitorización cardíaca se objetiva episodio de fibrilación auricular de debut, tributaria de anticoagulación, por lo que se inicia anticoagulación con sintrom el 02/12. Por lo tanto, finalmente se orienta como ictus isquémico de territorio de acm derecha de mecanismo embólico y etiología cardioembólica por fibrilación auricular de debut.
+
+Durante el ingreso es valorada por el servicio de Rehabilitación. Dada la estabilidad clínica se decide alta a domicilio con Rehabilitación domiciliaria y silla de ruedas. Al alta seguirá control con Neurología y médico de cabecera.
+
+NIHSS: 7
+mRS: 3
+
+DIAGNÒSTICS
+1.	ICTUS  ISQUÉMICO  DE  TERRITORIO DE  ARTERIA  CEREBRAL  MEDIA  DERECHA  DE  MECANISMO EMBÓLICO Y ETIOLOGÍA CARDIOMEBÓLICA.
+2.	FIBRILACIÓN AURICULAR DE DEBUT.
+3.	HIPERTENSIÓN ARTERIAL
+4.	DISLIPEMIA
+5.	INFECCIÓN RESPIRATORIA
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+SINTROM 4MG SEGÚN PAUTA ADJUNTA. ATORVASTATINA 40MG POR LA NOCHE
+
+Omeprazol 20mg 1 comp/24h Amlodipino 5 mg 1 comp/24h
+Lisinopril/hidroclorotiazida 20/12.5 mg 1 comp /12h
+
+Informe d'alta d'hospitalització
+
+
+
+
+Citalopram 10 mg 1 comp/24h Lorazepam 1 mg noche
+
+CONTROL
+Se tramita Rehabiltiación a domicilio.
+Control Sintrom en CAP Dr. _NAME_ el lunes 11.12.17
+Acudir a consultas externas de Neurología en _SS_ el día 21 de febrero 2017 a las 9:30h con Dra. _NAME_
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+07.12.2017
+Pàgina 1 de 4

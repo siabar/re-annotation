@@ -1,0 +1,108 @@
+T1	_SUG_TAC_craneal 67 70	TAC
+T2	Hora_de_alta 291 296	14:00
+#2	AnnotatorNotes T2	14:00
+T3	Fecha_de_alta 300 310	05.12.2017
+#3	AnnotatorNotes T3	2017-12-05
+T4	Fecha_de_ingreso 402 412	03.12.2017
+#4	AnnotatorNotes T4	2017-12-03
+T5	_SUG_Ataque_isquemico_transitorio 488 493	Ictus
+T7	_SUG_Lateralizacion 994 1003	izquierda
+T9	Fecha_inicio_sintomas 1141 1153	03/Diciembre
+#9	AnnotatorNotes T9	2017-12-03
+T10	HORA 1170 1175	05.00
+#10	AnnotatorNotes T10	05:00
+T11	HORA 1199 1204	07.00
+#11	AnnotatorNotes T11	07:00
+T12	_SUG_Lateralizacion 1228 1233	ambas
+T13	HORA 1251 1256	08.00
+#13	AnnotatorNotes T13	08:00
+T14	Hora_inicio_sintomas 1356 1361	09.00
+#14	AnnotatorNotes T14	09:00
+T15	_SUG_Ataque_isquemico_transitorio 1578 1583	ictus
+T16	HORA 1590 1595	10.28
+#16	AnnotatorNotes T16	10:28
+T17	Hora_llegada_hospital 1645 1650	11.43
+#17	AnnotatorNotes T17	11:43
+T18	_SUG_Lateralizacion 1838 1845	derecha
+T19	_SUG_NIHSS 1920 1927	NIHSS 0
+T20	_SUG_TAC_craneal 1949 1959	Tc craneal
+T21	_SUG_Arteria_afectada 2059 2061	M3
+T22	_SUG_Lateralizacion 2110 2119	izquierda
+T23	_SUG_Ataque_isquemico_transitorio 2154 2159	ictus
+T24	_SUG_Ictus_isquemico 2154 2169	ictus isquémico
+T25	_SUG_Arteria_afectada 2170 2173	ACM
+T26	_SUG_Lateralizacion 2174 2183	izquierda
+T28	_SUG_Lateralizacion 2233 2244	determinada
+T29	Trombolisis_intravenosa 2401 2426	tratamiento fibrinolítico
+T30	_SUG_TAC_craneal 2471 2473	TC
+T31	Hora_primer_bolus_trombolisis_rtPA 2575 2580	12.33
+#31	AnnotatorNotes T31	12:33
+T32	_SUG_Ataque_isquemico_transitorio 2765 2770	Ictus
+T33	_SUG_Lateralizacion 3232 3237	dreta
+T34	_SUG_Lateralizacion 3373 3382	bilateral
+T35	NIHSS_previa 3385 3394	NIHSS = 0
+T36	_SUG_NIHSS 3651 3659	NIHSS: 0
+T37	_SUG_Ataque_isquemico_transitorio 3782 3787	Ictus
+T38	_SUG_Etiologia 4540 4552	ateromatosis
+T39	_SUG_Lateralizacion 4558 4563	dreta
+T40	_SUG_Lateralizacion 4585 4593	esquerre
+T41	TAC_craneal 4666 4668	TC
+T42	_SUG_Arteria_afectada 4680 4683	ACM
+T43	_SUG_Lateralizacion 4693 4698	dreta
+T44	_SUG_Arteria_afectada 4837 4840	ACA
+T45	_SUG_TAC_craneal 4959 4961	TC
+T46	_SUG_TAC_craneal 4990 4992	TC
+T47	_SUG_Lateralizacion 5077 5085	esquerra
+T48	Arteria_afectada 5113 5115	M3
+T49	_SUG_TAC_craneal 5171 5173	TC
+T50	_SUG_Lateralizacion 5268 5277	izquierda
+T51	_SUG_Hemorragia_cerebral 5352 5362	hemorragia
+T52	_SUG_Ataque_isquemico_transitorio 5416 5421	Ictus
+T53	_SUG_TAC_craneal 5689 5691	TC
+T54	_SUG_Lateralizacion 5804 5813	izquierda
+T55	_SUG_Ictus_isquemico 5829 5855	transformación hemorrágica
+T56	_SUG_Ataque_isquemico_transitorio 6108 6113	ictus
+T57	_SUG_Ictus_isquemico 6108 6123	ictus isquémico
+T58	_SUG_Arteria_afectada 6124 6127	ACM
+T59	_SUG_Lateralizacion 6128 6137	izquierda
+T60	_SUG_Lateralizacion 6152 6163	determinada
+T62	NIHSS_alta 6751 6759	NIHSS: 0
+T64	Ictus_isquemico 6802 6817	Ictus isquémico
+T65	Arteria_afectada 6818 6821	ACM
+T66	Lateralizacion 6822 6831	izquierda
+T69	Tratamiento_antiagregante_alta 7064 7069	Adiro
+T70	_SUG_Ataque_isquemico_transitorio 7172 7177	ictus
+T71	_SUG_Lateralizacion 7296 7301	Dieta
+T72	FECHA 7510 7523	08/Marzo/2018
+#72	AnnotatorNotes T72	2018-03-08
+T74	FECHA 8129 8139	05.12.2017
+#74	AnnotatorNotes T74	2017-12-05
+T75	SECCION_MOTIVO_DE_INGRESO 466 480	MOTIU D'INGRÉS
+T76	SECCION_ANTECEDENTES 496 507	ANTECEDENTS
+T77	SECCION_ANTECEDENTES_PERSONALES 508 518	PERSONALES
+T78	SECCION_ANTECEDENTES_PATOLOGICOS 728 739	PATOLÓGICOS
+T79	SECCION_TRATAMIENTO_HABITUAL 1005 1023	MEDICACIÓ HABITUAL
+T80	SECCION_PROCESO_ACTUAL 1055 1068	PROCÉS ACTUAL
+T81	SECCION_EXPLORACION_FISICA 2905 2922	EXPLORACIÓ FÍSICA
+T82	SECCION_EXPLORACION_FISICA_DURANTE_HOSPITALIZACION 3015 3037	EXPLORACIÓN AL INGRESO
+T84	SECCION_EXPLORACION_FISICA_AL_ALTA 3396 3415	EXPLORACIÓN AL ALTA
+T85	SECCION_EXPLORACIONES_COMPLEMENTARIAS 3662 3687	EXPLORACIÓ COMPLEMENTÀRIA
+T86	SECCION_EVOLUCION 5365 5381	EVOLUCIÓ CLÍNICA
+T87	SECCION_DIAGNOSTICOS 6784 6795	DIAGNÒSTICS
+T88	SECCION_TRATAMIENTO_Y_RECOMENDACIONES_AL_ALTA 6998 7033	TRACTAMENT I RECOMANACIONS A L'ALTA
+T89	SECCION_CONTROL 7390 7397	CONTROL
+T90	SECCION_DESTINO_AL_ALTA 8053 8072	DESTINACIÓ A L'ALTA
+T6	SECCION_ANTECEDENTES_QUIRURGICOS 974 977	IQx
+T8	mRankin_previa 670 675	mRs 0
+#1	AnnotatorNotes T8	0
+#5	AnnotatorNotes T35	0
+T61	Etiologia 6843 6857	no determinada
+#6	AnnotatorNotes T62	0
+T63	mRankin_alta 6761 6767	mRs: 0
+#7	AnnotatorNotes T63	0
+T67	Fecha_llegada_hospital 1141 1153	03/Diciembre
+#8	AnnotatorNotes T67	2017-12-03
+T27	Fecha_trombolisis_rtPA 1141 1153	03/Diciembre
+#12	AnnotatorNotes T27	2017-12-03
+T68	Fecha_TAC_inicial 1141 1153	03/Diciembre
+#15	AnnotatorNotes T68	2017-12-03

@@ -1,0 +1,135 @@
+_LOCATION_
+email: _CONTACT_ Telèfon _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 60 Anys
+NIF/DNI: _ID_Informe d'alta d'hospitalització
+09:24:00
+21.04.2017
+_LOCATION_
+_SS_
+MEDICINA INTERNA 1
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_
+DOMICIL/RES.SOC 06.04.2017
+Equipo Dr. _NAME_ (Dr. _NAME_ / Dra. _NAME_).
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Paciente mujer de  60  años  de  edad,  que  ingresa  procedente de  la  UCI  con  el  diagnóstico de  meninigitis neumocócica.
+
+ANTECEDENTS
+Antecedentes personales
+-Sin alergias medicamentosas conocidas.
+
+Antecedentes médico-quirúrgicos
+-Hipertensión arterial esencial en tratamiento farmacológico.
+-Síndrome  ansioso  en  tratamiento  puntual  con  benzodiacepinas  a  raíz  de  fallecimiento  de  un  familiar recientemente (hace 3 semanas).
+
+Situación  sociofuncional: independiente  para  actividades  básicas  e  instrumentales  de  la  vida  diaria.  Sin deterioro cognitivo conocido.
+
+MEDICACIÓ HABITUAL
+Enalapril 20mg/día.
+
+PROCÉS ACTUAL
+Estando previamente bien, la madrugada del 6 de abril alrededor de las 3h va al baño. Es capaz de verbalizar "está ocupado" cuando acude un familiar, pero al volver a contactar con ella, la encuentran en el suelo del baño con disminución del nivel de consciencia. Alertan al SEM, quienes constatan GCS 6-7 inicialmente sin focalidad neurológica asociada (niegan paresia de extremidades, anisocoria ni desviación óculo-cefálica). Posteriormente presenta de forma rápidamente progresiva disminución del nivel de consciencia hasta GCS 3-4, por lo que se procede a IOT y se deriva a nuestro centro para valoración.
+
+Reinterrogada su llegada a plata de MI, la enferma no refiere cuadro intercurrente de vias respiratorias, otalgia. Presenta cefalea occipital los días previos.
+
+EXPLORACIÓ FÍSICA
+
+CUIDADOS INTENSIVOS.
+Sedoanalgesiada, RASS -5. Pupilas isocóricas reactivas. Reflejos de tronco presentes.
+Tonos rítmicos, no soplos audibles. Estable hemdoinámicamente, TA 122/76mmHg. FC 86lpm. Buena perfusión periférica.
+Respiratoriamente, IOT + VM en A/C (FiO2 0.50 PEEP 8). Ventilación asimétrica con hipofonesis izquierda, sin ruidos sobreañadidos.SpO2 100%.
+Abdomen blando, no masas ni visceromegalias. Diuresis espontanea, orina clara.
+
+Informe d'alta d'hospitalització
+
+
+
+
+Abdomen anodino.
+
+HOSPITALIZACIÓN M. INTERNA.
+Tªaxi 36.6 ºC; TA s 120 mmHg; TA d 74 mmHg.
+Enferma con bue estado general, consciente y colabodora, asintomática, eupneica en reposo. No bocio ni adenopatías periféricas palpables.
+AR: eupneica con murmullo vesicular conservado.
+ACV: Tonos cardiacos rítmicos a 80 lpm, sin soplos ni roce ni signos de ICD. Pulsos periféricos presentes y simétricos.
+Abdomen: blando, no doloroso sin organomegalias ni peritonismo. Peristalsis conservada.
+NRL: Consciente y orientada, pares craneales normales, sin déficits sensitivos ni motores aparentes. RCP flexor bilateral, RMP presentes y simétricos.
+
+EXPLORACIÓ COMPLEMENTÀRIA
+-TC craneal multimodal: No se identifican lesiones isquémicas agudas (ASPECTS 10/10). Estudio de perfusión y angio-TC cerebral sin alteraciones valorables. TOT con intubación prácticamente seclectiva del bronquio principal derecho.
+-GSV (06/04): pH 7.36; pCO2 43mmHg; pO2 50mmHg; Bicarbonato 24.3mmol/L; Exceso de base -1.1mmol/L; Hto 29%; Hb 9.7g/dL; Sodio 138mmol/L; Potasio 3.9mmol/L; Calcio 4.92mg/dL; Cloro 110mmol/L; Glucosa 205mg/dL; Lactato 1mmol/L.
+-Radiografía de tórax (06/04): ICT < 0.50. Infiltrado en base izquierda.
+-ECG (06/04): RS 80lpm. PR 200ms. Eje 0º. QRS estrecho (80ms). Sin alteraciones aguads de la repolarización.
+-Analítica general de urgencias: Htes 4.17 x10E12/L, Hb 11.5 g/dL, Hto 37.5%, VCM 89.9 fL, Leucocitos 17.04 x10E9/L (N 87.3%, L 4%, M 8.4%, E 0.1%, B 0.2%), Plaquetas 301 x10E9/L, T Protrombina 91%, INR 1.06, TTPA
+0.98 ratio, Finbrinógeno 5.57 g/L, Glucosa 193 mg/dL, Urea 64 mg/dL, Cr 1.14 mg/dL, FG 52 ml/min/1,73 m2, Na
+138.7 mmol/L, K 3.86 mmol/L, Ca 9.2 mg/dL, AST 16 UI/L, ALT 10 UI/L, Proteína 7.6 g/dL.
+-Despistaje intoxicaciones (06/04):
+En sangre: Antidepresivos triclícos negativo (<50ng/mL), Etanol negativo (<25mg/dL).
+En orina: etanol negativo, benzodiazepinas positivo, barbitúricos negativo, metadona negativo, cocaína negativo, opiáceos positivo, amfetaminas negativo, MDMA negativo, Cannabionoides negativo.
+-LCR: 2530 celulas con 98% PMN, glucosa 92, proteinas 570 Cultivo LCR: negativo. PCR LCR: positivo para neumococo,y negativa para Neisseria, Listeria, Haemophilus, Herpes, entrovirus y varicela.
+-Cultivo de LCR (06/04): Negativo.
+-Citología de LCR (06/04): compatible con proceso inflamatorio agudo severo. Extensiones obtenidas por citocentrifugación, con aumento de celularidad inflamatoria con predominio de leucocitos polimorfonucleares neutrófilos. No se observan células atípicas.
+-RM cerebral: muestra discreto realce leptomeníngeo en surcos frontales superiores bilaterales, hallazgos que son compatibles con el diagnóstico clínico de meningitis sin complicaciones asociadas. Descenso de las amigdalas cerebelosas a través del agujero magno compatible con malformación de Chiari I.
+-EEG (6-4-2017): Registro en situación de sedación farmacológica que muestra marcados signos de disfunción neuronal difusa bilateral. Se observa una discreta asimetría interhemisferica, con menor proporción de polirritmias en regiones en áreas anteriores y medias del hemisferio izquierdo, respecto a  regiones contralaterales. Se identifican elementos agudos actualmente inespecíficos (no específicos de comicialidad activa) en áreas posteriores.
+-EEG (7-4-2017): Signos de afección neuronal difusa, con conservación de la reactividad frente a las estimulaciones. No se observan anomalías epileptiformes críticas ni intercríticas. La actividad muscular que presenta la paciente, no se correlaciona con cambios en la sincronización de la actividad cerebral que sugieran
+
+Informe d'alta d'hospitalització
+
+
+
+
+particularmente un origen ictal.
+- TC senos: Discreto engrosamiento de la mucosa de la porción declive de ambos senos maxilares en relación a leves signos de sinusopatía. Senos frontales y esfenoidal con buena neumatización. Celdillas etmoidales de morfología normal, correctamente aireadas. Dismorfia septal con concha bullosa derecha y desviación del tabique nasal a la izquierda. No se observan alteraciones óseas.
+
+EVOLUCIÓ CLÍNICA
+A su ingreso en UCI; paciente sedoanalgesiada RASS -4, estable hemodinámicamente, e inicialmente hipoxémica (probable broncoaspiración e IOT selectiva en bronquio prinicipal derecho), por lo que se retira TOT 2 cm.
+Inicialmente FiO2 a 0.50 PEEP 8 que posteriormente puede descenderse a 0.40. Inciamos analgesia con remifentanilo. Tratamiento con levetiracetam a la espera de realización de EEG. Cobertura con amoxicilina-clavulánico.
+
+Durante primeras horas de ingreso, paciente sólo con remifentanilo a dosis de analgesia, tras lo que persiste con BIS 45. Cursamos despistaje de intoxicaciones que resulta positivo para benzodiazepinas y opioides, (intubación) siendo negativa para el resto. Se realiza EEG donde no se observan signos sugestivos de crisis, con restos de sedación. Se realiza punción lumbar, siendo el resultado de la bioquímica de LCR compatible para meningitis neutrofílica, con salida de LCR turbio, con abundantes leucocitos de predominio polimorfonuclear. Iniciamos cobertura con cetotaxima, ampicilina y aciclovir, a la espera de resultado microbiológico, y clindamicina para cubrir la broncoaspiración. No se había iniciado cobertura empírica para meningitis dado que la clínica era poco sugestiva. Se realiza nuevo EEG en las siguientes 24 horas, donde se observan signos de afección neuronal difusa, con conservación de la reactividad frente a las estimulaciones, sin observarse anomalías epileptiformes críticas ni intercríticas. Finalmente, se nos informa PCR positiva para S. pneumoniae. Cultivo negativo. El resto de PCRs son negativas, por lo que el 10/04 se retira ampicilina y aciclovir, quedándose la paciente en tratamiento con cefotaxima y clindamicina, que mantiene el día del alta. También mantenemos levetiracetam.
+
+Se mantiene estable, y cada vez más reactiva, llegando a obedecer órdenes sencillas, por lo que el 10/04 es extubada. Tras ello, observamos que no mueve extremidades a la orden aunque sí localiza al dolor, y parece que hay algún tipo de alteración de la comprensión. Habla pero a veces está bradilálica. Por ello, solicitamos RM, que se realiza el 12/04, donde se observa discreto realce leptomeníngeo en surcos frontales superiores bilaterales, hallazgos compatibles con el diagnóstico clínico de meningitis, sin complicaciones asociadas. Descenso de las amigdalas cerebelosas a través del agujero magno compatible con malformación de Chiari I.
+
+Mejoría, llegando a obedecer órdenes, sin alteraciones del habla, pero desorientada, estando tranquila en todo momento. Estable a todos los demás niveles. Eupneica con GN 2Lpm, estable hemodinámicamente. Diuresis mantenida, aunque discreto deterioro de la función renal al ingreso (Cr 1.24mg/dL), que se normaliza posteriormente. Dada estabilidad clínica, indicamos alta a planta para proseguir vigilancia y tratamiento.
+
+Con el diagnóstico de meningitis neumocócica se inició tratamiento con cefotaxima (y clindamicina por la sospecha de broncoaspiración) con evolución clínica favorable por lo que se retiró clindamicina y posteriormente tras completar 12 días cefotaxima. Durante su estancia en UCI se han realizado 2 EEG sin evidencia de comicialidad por lo que ante el buen estado general se retiró levetiracetam sin incidencias. Se solicitó TC de senos que  descartó complicaciones a nivel ORL y vacunación de S. pneumoniae sin incidencias. Dado el buen estado  general se decide alta a domicilio.
+
+Informe d'alta d'hospitalització
+
+
+
+DIAGNÒSTICS
+Meningitis bacteriana por S. pneumoniae.
+Hipertensión arterial esencial.
+
+PROCEDIMENTS
+VMI
+Electroencefalograma TC cerebral
+RM cerebral
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Dieta sin sal.
+
+Enalapril 20mg 1 comprimido al día.
+
+CONTROL
+Control por médico de familia y resto de especialistas habituales. Solicitar vacunación de Pn23V a partir del 20 de junio.
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+21.04.2017
+Pàgina 1 de 4

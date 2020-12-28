@@ -1,0 +1,199 @@
+
+
+
+
+
+Informe d'Alta Hospitalària	Cognoms i nom:
+_NAME_	NHC:
+_ID_
+	ABS:
+_SS_	CIP:
+_ID_	DNI:
+_ID_
+	Data de naixement:
+_DATE_	Sexe:
+Home	Edat:
+79a	Telèfon:
+_CONTACT_
+	Finançament:
+CatSalut - _LOCATION_	Procedència:
+URGÈNCIES
+	Admissió:
+12.09.2017 - 00:33	Servei:
+NEURO - UNITAT ICTUS HOSP	Data entrada urg.:
+11.09.2017 - 21:50
+Adreça:
+_LOCATION_	Població:
+_LOCATION_	Codi Postal:
+_LOCATION_
+
+
+
+Motiu Ingrés:
+Focalitat neurològica d'aparició fa menys de 6h
+
+
+ANTECEDENTES
+No AMC.
+
+Exfumador de unos 20 cig/d desde hace 2 años, enolismo leve. HTA en tto. No DM, ni dislipemia.
+Bronquitis crónica en tratamiento cno BD, nunca descompensaciones. FA en tto descoagulante.
+Sin antecedentes de cardiopatía isquémica en la familia.
+
+Història cardiològica:
+Infarto agudo de miocardio sin elevación del ST sin insuficiencia cardiaca asociada. Enfermedad arterial coronaria de 1 vas (DA).
+
+*Coronariografía: Arteria Descendente Anterior de buen calibre y desarrollo; a nivel medio, presenta una lesión crítica del 95% sobre bifurcación con D1 (_NAME_ 1-1-1) con flujo distal TIMI 2 luego presenta otra lesión en tándem del 90%. Entre las dos lesiones descriptas, se interpone aneurisma de 7mm. Primera
+diagonal de buen calibre y desarrollo, presenta una lesión ostial del 90% y otra lesión del 80% en tercio medio.
+
+*Ecocardiograma: 2/2016
+Ventricle esquerre no dilatat amb hipertrofia lleugera. Lleugera reducció de l'escurçament longitudinal. FE global conservada sense alteraciones segmentaries.
+Arrel aòrtica no dilatada. Vàlvula aòrtica fibrosada amb regurgitació central lleugera.
+Vàlvula mitral morfològicamentnormal amb regurgitació moderada amb jet de direcció postero-lateral. Dilatació auricular esquerra lleugera.
+Ventricle dret no dilatat amb contractilitat conservada.
+Vàlvula tricúspide morfològicamentnormal amb regurgitació lleugera. PAPs normal.
+No hi ha embassament pericàrdic.
+
+Tto habitual
+ADIRO 100MG 1 x 24 h. ALDOCUMAR 1 MG  SP ATORVASTATINA 80MG ENALAPRIL 5MGT 1 x 48 h.
+OMEPRAZOL 20MG  2 x 24 h.
+OXIS TURBUHALER 9MCG  1 x 12 h.
+
+
+Autónomo FFSS conservadas. mRS0
+
+
+
+ENFERMEDAD ACTUAL
+Varón 79 años con antecedentes de HTA, cardiopatía isquémica con triuple by- pass, FA anticoagulada con sintrom, buena clase sociofuncuional (mRs=0).
+
+Es traído como  código ictus  activado desde SEM por clíica de  hemiparesia derecha y alteración del lenguaje, de inicio brusco a las 21:00h.
+
+A su llegada  a UCIAS a las 21:50 H,  paciente hemodinámicamente estable. TA: 143/71  FC: 72 Tª:36 Glu 87  INR:1,3
+A la exploración, se objetiva hemiparesia derecha leve, paresai facial central derecha, disartria marcada y afasia de predominio motor., puntuando NIHSS=9
+
+Se realiza TC craneal urgente que no muestra lesiones agudas (ASPECTS 10). Se realiza angio-TC que evidencia oclusión distal ACM I (M3).
+
+Se decide tratamiento con rtpa (6 mg bolus y 59 mg en perfusión continuar). Bolus a las 22:16.
+
+Tras finaliza infusión de rtpa se objetiva mejoría de la foclaidad, sobre todo a nivel del lenguaje. NIHSS= 0.0.0.0.0/1.0.0/0.0.1.1.0=3
+
+Se decide ingreso en Unidad de Ictus para estudio y monitorización.
+
+
+EXPLORACIÓN FÍSICA
+Global
+A su llegada a UCIAS:
+-	Vigil
+-	Obedece órdenes sencillas y semicomplejas. No nomina, no repite. Lenguaje casi ininteligble.
+-	MOE correcta, campimetría por confrontación normal
+
+
+-	Paresia facial central D
+-	Hemiparesai 4/5 derecha
+-	Sensibilidad conservada
+-	Dismetría drecha proporcional a paresia NIHSS=0.2.0.0.0/2(1.0(1.0)/0.0.1.2.0=9
+
+Tras rtpa:
+NIHSS= 0.0.0.0.0/1.0.0/0.0.1.1.0=3
+
+
+En sala
+Persiste leve disartria y una paresia distal de la mano derecha (no puntúa). NIHSS=1(+1)
+
+
+Al alta
+NIHSS=0
+
+
+EXPLORACIONS COMPLEMENTÀRIES A L'INGRÉS
+
+BIOQUÍMICA SANG Sodi 141 mmol/L ( 136 - 145 ) Potassi 4,14 mmol/L ( 3,50 - 5,10 ) Calci 2,11 mmol/L (
+2,15 - 2,55 ) 8,44 mg/100mL Fosfat 1,04 mmol/L ( 0,87 - 1,45 ) 3,22 mg/100mL Glucosa 5,5 mmol/L ( 3,0 - 6,0 )
+99,00 mg/100mL Urea 8,9 mmol/L ( 2,9 - 8,2 ) 53 mg/100mL Creatinina 106 µmol/L ( 0 - 106 ) 1,20 mg/100mL
+Bilirubina total 14 µmol/L (< 17) 0,79 mg/100mL Triglicèrids 0,66 mmol/L (< 1.65) 58,41 mg/100mL Colesterol
+3,06 mmol/L (< 6.2) 118,42 mg/100mL AST (GOT) 16 U/L ( 0 - 37 ) ALT (GPT) 11 U/L ( 0 - 41 ) Fosfatasa
+alcalina 74 U/L ( 40 - 130 ) GGT 45 U/L ( 0 - 54 ) Proteïna total 60,5 g/L ( 64,0 - 83,0 ) LÍPIDS Colesterol HDL
+1,37 mmol/L ( 1,00 - 1,70 ) 53,02 mg/100mL Colesterol LDL 1,39 mmol/L ( 1,81 - 4,13 ) 53,63 mg/100mL
+Colesterol  VLDL 0,30 mmol/L ( 0,00 - 0,63 ) 11,77 mg/100mL Colesterol  quilomicrons  0,00 mmol/L 0,00
+mg/100mL HEMATOLOGIA-HEMATIMETRIA Hemograma Hemoglobina 137 g/L ( 130 - 170 ) Hematòcrit 0,42
+L/L ( 0,40 - 0,50 ) Hematies 4,63 x10E12/L ( 4,50 - 5,70 ) VCM 90,1 fL ( 80,0 - 98,0 ) CCMH 329 g/L ( 320 - 360
+) HCM 29,6 pg ( 27,0 - 32,0 ) RDW 14,3 % ( 12,0 - 15,0 ) Plaquetes 185 x10E9/L ( 140 - 350 ) VPM 8,2 fL ( 7,0
+-	10,5 ) Plaquetòcrit 0,20 % Leucòcits 8,09 x10E9/L ( 3,80 - 11,00 ) Fórmula leucocitària Neutròfils 60,2 %
+Neutròfils absoluts 4,87 x10E9/L ( 1,80 - 7,00 ) Eosinòfils 1,6 % Eosinòfils absoluts 0,13 x10E9/L ( 0,05 - 0,50 ) Basòfils 0,7 % Basòfils absoluts 0,06 x10E9/L ( 0,00 - 0,10 ) Monòcits 11,4 % Monòcits absoluts 0,92 x10E9/L ( 0,30 - 1,00 ) Limfòcits 26,1 % Limfòcits absoluts 2,11 x10E9/L ( 1,00 - 4,00 ) HEMATOLOGIA-ERITROPATOLOGIA  Hb glicosilada  (HbA1c) 5,8 % ( 4,6 - 5,8 ) HEMOSTÀSIA Temps de
+tromboplastina 1,01 RATIO ( 0,75 - 1,30 ) Temps de protrombina 1,32 INR ( 0,75 - 1,20 ) Temps de trombina 30,30 s ( 17,00 - 24,00 ) Plaquetes 185 x10E9/L ( 140 - 350
+
+
+TC CRANEAL:
+
+
+Hemorragia: NO.
+Isquemia Aguda Visible: NO.
+Otras lesiones: Lesión necrótica cortico-subcortical frontal derecha y múltiples focos de hipodensidad en la sustancia blanca subcortical de ambos hemisferios, de aspecto hipóxico-crónico. Ingurgitación parenquimatosa: NO.
+Efecto de masa sobre el sistema ventricular: NO. Desviación de la línea media: NO.
+ANGIO-TC (TSA E INTRACRANEAL):
+Trombosis/Oclusiónde ACI (ipsilateral al hemisferio cerebral sintomático): NO. Signos de Trombosis/Oclusiónarterial en una rama silviana M3 de la ACM izquierda.
+Resto de las principales arterias intracraneales permeables y sin otros hallazgos relevantes. Permeabilidad de ACCs, ACI D, ACI Izda, ACCs, AV D, AV Izda.
+Sospecha de Disección: NO. Impresión diagnóstica global: Sin evidencia de lesiones
+
+TC CRANEALCONTROL 24H HALLAZGOS:
+Respecto al estudio de ayer no se aprecian claras lesiones isquémicas de nueva aparición con un pequeño foco de hipodensidad subcortical pericentral izquierdo que resulta difícil diferenciar de los focos de leucoaraiosis.
+No se aprecian complicaciones hemorrágicas ni otros nuevos hallazgos. ECG: FA
+RM CRANEAL CON ANGIO-RM TOF DE SECTORES IC SIN CONTRASTE EV HALLAZGOS:
+Pequeño infarto subagudo cortical-yuxtacortical pericentral izquierdo que se correlaciona con la dudosa imagen descrita en la TC.
+Se aprecian dos pequeños focos de microsangrado crónico, uno cortical en la circunvolución posterocentral izquierda y otro subcortical frontal medial derecho, en el margen de la rodilla del cuerpo calloso.
+Resto del estudio sin otros nuevos hallazgos, con la lesión necrótica con área encefalomalácica en territorio frontal de ACM derecha y signos de leucoaraiosis en relación a microangiopatíaen grado avanzado, con múltiples pequeñas dilataciones perivasculres asociadas.
+El estudio angiográfico IC muestra correcta permeabilidad de los sectores incluidos.
+Leve dilatación del sistema ventricular acorde al grado de dilatación de los surcos cerebrales. Línea media centrada. Cisternas de la base libres.Charnela cráneo-cervical normal.
+CONCLUSIÓN:
+Estudio RM craneal que confirma una pequeña lesión isquémica subaguda pericentral izquierda sin hallazgos angiográficos significativos.
+
+EVOLUCIÓN
+Durante su estancia en unidad de ictus y posteriormente en sala de neurología hemodinamicamente estable, con mejoría sintomática progresiva y anticoagulación con BIC heparina sódica. En TC de control 24 h no se objetivaron lesiones y en RM cerebral se confirmó pequeña lesion pericentral izqueirda, sin alteraciones angiograficas. Se orienta como ictus isquémico cardioembólico por FA infradescoagulada por olvido de dosis de sintrom. Realizó rehabilitación correctamente y toleró dieta oral sin disfagia. Se decidió paso a anticoagulación oral que se realizó sin incidencias. Al alta NIHSS=0, mRS=0
+Dada la estabilidad clínica se decide alta a domicilio con control ambulatorio
+
+
+
+DIAGNÓSTICOS
+Ictus  isquémico  en  territorio  superficial  de  ACM  izq  de  etiología cardioembólica  en  contexto  de  FA infradescoagulada por olvido de toma de sintrom
+
+PROCEDIMIENTOS
+AS
+RX TORAX ECG
+TC CEREBRAL RM CEREBRAL
+
+RECOMENDACIONES AL ALTA
+TRATAMIENTO AL ALTA
+ADIRO 100MG 1 x 24 h. ALDOCUMAR 1 MG  SP ATORVASTATINA 80MG ENALAPRIL 5MGT 1 x 48 h.
+OMEPRAZOL 20MG  2 x 24 h.
+OXIS TURBUHALER 9MCG  1 x 12 h.
+
+Visita de control neurología segun se adjunta Visita de  control hemostasia segun se adjunta
+
+Recomendaciones generales
+1.	Tratamiento de la  hipertensión arterial, manteniendo cifras  por debajo de 140/90; en caso  de ser diabético, cifras por debajo de 130/85.
+
+
+2.	Abandono completo del hábito tabáquico.
+3.	Control  y tratamiento de las enfermedades cardiacas (cardiopatía  isquémica,  insuficiencia  cardiaca, arritmias y valvulopatías).
+4.	Evitar consumo excesivo de alcohol (se permite una o dos bebidas al día).
+5.	Vigilancia y tratamiento del perfil lipídico:
+-	Dieta pobre en grasas, actividad física apropiada.
+-	Tratamiento farmacológico si precisa para mantener niveles de LDL<100mg/dl.
+6.	Control de la glucemia, que debe ser <126mg/dl en ayunas, con dieta, antidiabéticos orales o insulina si precisa.
+7.	Realizar actividad física, 30 a 60 minutos, de tres a cuatro veces a la semana.
+8.	Continuar  el  tratamiento  antiagregante o  anticoagulante a  las  dosis  recomendadas,  siguiendo  los controles necesarios.
+
+
+
+Responsable clínic: Dr. _NAME_ (NºCol. _ID_)
+Equip mèdic: Dr. _NAME_ (NºCol. _ID_)
+
+Servei que ha donat d'alta:
+NEURO - UNITAT ICTUS HOSP	Data d'alta:
+18.09.2017	Nom del metge que informa de l'alta:
+Dr. _NAME_ (NºCol. _ID_)
+
+
+_LOCATION_, 18.09.2017
+Pàg. 1 de   6

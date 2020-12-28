@@ -1,0 +1,90 @@
+T0	Fecha_de_alta 256 266	17.11.2017
+#0	AnnotatorNotes T0	2017-11-17
+T1	Hora_de_alta 267 272	13:35
+#1	AnnotatorNotes T1	13:35
+T2	Fecha_de_ingreso 335 345	10.11.2017
+#2	AnnotatorNotes T2	2017-11-10
+T3	SECCION_MOTIVO_DE_INGRESO 406 420	MOTIU D'INGRÉS
+T4	SECCION_ANTECEDENTES 429 440	ANTECEDENTS
+T5	SECCION_ANTECEDENTES_PATOLOGICOS 441 465	ANTECEDENTES PATOLÓGICOS
+T6	SECCION_TRATAMIENTO_HABITUAL 531 549	MEDICACIÓ HABITUAL
+T7	_SUG_Tratamiento_antiagregante 579 599	ACID ACETILSALICILIC
+T8	SECCION_PROCESO_ACTUAL 1640 1653	PROCÉS ACTUAL
+T9	_SUG_Ictus_isquemico 1730 1735	ictus
+T10	Hora_inicio_sintomas 1739 1757	las 9 de la mañana
+#10	AnnotatorNotes T10	09:00
+T11	HORA 1844 1849	11.30
+#11	AnnotatorNotes T11	11:30
+T12	_SUG_Lateralizacion 1918 1925	derecho
+T13	SECCION_EXPLORACION_FISICA 1928 1945	EXPLORACIÓ FÍSICA
+T14	_SUG_Lateralizacion 2101 2102	D
+T15	_SUG_Lateralizacion 2133 2134	D
+T16	NIHSS_previa 2169 2218	NIHSS: 0-2-0-0-2-2-4-3-0-1-2-2-0: total 18 puntos
+T17	SECCION_EXPLORACIONES_COMPLEMENTARIAS 2221 2246	EXPLORACIÓ COMPLEMENTÀRIA
+T18	FECHA 2250 2258	10/11/17
+#18	AnnotatorNotes T18	2017-11-10
+T19	TAC_craneal 2415 2426	TAC craneal
+T20	Fecha_TAC_inicial 2427 2435	10/11/17
+#20	AnnotatorNotes T20	2017-11-10
+T21	_SUG_Localizacion 2678 2689	ventricular
+T22	_SUG_Localizacion 2718 2729	ventricular
+T23	_SUG_Localizacion 2855 2865	cerebelosa
+T24	_SUG_TAC_craneal 3005 3016	TAC craneal
+T25	FECHA 3017 3025	11/11/17
+#25	AnnotatorNotes T25	2017-11-11
+T26	_SUG_Arteria_afectada 3027 3036	Caròtides
+T27	_SUG_Lateralizacion 3048 3053	dreta
+T28	_SUG_Lateralizacion 3056 3064	esquerra
+T29	_SUG_Etiologia 3091 3102	ateromatosi
+T30	_SUG_Arteria_afectada 3116 3125	Caròtides
+T31	_SUG_Lateralizacion 3135 3140	dreta
+T32	_SUG_Lateralizacion 3143 3151	esquerra
+T33	_SUG_Etiologia 3201 3212	ateromatosi
+T34	_SUG_Localizacion 3360 3365	Tronc
+T35	FECHA 3489 3497	14/11/17
+#35	AnnotatorNotes T35	2017-11-14
+T36	_SUG_Etiologia 3791 3803	hipertensión
+T37	FECHA 3840 3848	14/11/17
+#37	AnnotatorNotes T37	2017-11-14
+T38	_SUG_Lateralizacion 3905 3910	ambos
+T39	_SUG_Ictus_isquemico 3958 3965	Infarto
+T40	_SUG_Lateralizacion 4034 4043	izquierdo
+T41	_SUG_Localizacion 4066 4076	cerebeloso
+T42	_SUG_Lateralizacion 4077 4086	bilateral
+T43	FECHA 4092 4100	14/11/17
+#43	AnnotatorNotes T43	2017-11-14
+T44	SECCION_EVOLUCION 4401 4417	EVOLUCIÓ CLÍNICA
+T45	_SUG_Ictus_isquemico 4418 4433	Ictus isquémico
+T46	Arteria_afectada 4437 4440	ACM
+T47	_SUG_Lateralizacion 4441 4442	I
+T48	Localizacion 4444 4448	TACI
+T49	Trombolisis_intravenosa 4488 4492	rtPA
+T50	_SUG_TAC_craneal 4508 4511	TAC
+T51	_SUG_Arteria_afectada 4620 4623	ACM
+T52	_SUG_Lateralizacion 4624 4633	izquierda
+T53	_SUG_TAC_craneal 4644 4646	TC
+T54	_SUG_Arteria_afectada 4705 4714	carotídeo
+T55	_SUG_Arteria_afectada 4813 4815	VB
+T58	SECCION_DIAGNOSTICOS 5212 5223	DIAGNÒSTICS
+T59	Ictus_isquemico 5230 5245	Ictus isquèmics
+T60	Arteria_afectada 5265 5267	VB
+T61	Lateralizacion 5279 5282	esq
+T62	_SUG_Etiologia 5293 5300	embòlic
+T63	Etiologia 5302 5306	ESUS
+T64	SECCION_PROCEDIMIENTOS 5310 5322	PROCEDIMENTS
+T65	_SUG_Lateralizacion 5375 5389	tronc cerebral
+T66	_SUG_Localizacion 5375 5380	tronc
+T67	SECCION_TRATAMIENTO_Y_RECOMENDACIONES_AL_ALTA 5391 5426	TRACTAMENT I RECOMANACIONS A L'ALTA
+T68	Tratamiento_antiagregante_alta 5427 5438	CLOPIDOGREL
+T69	_SUG_Tratamiento_antiagregante 5463 5468	ADIRO
+T70	SECCION_CONTROL 5499 5506	CONTROL
+T71	SECCION_DESTINO_AL_ALTA 5524 5543	DESTINACIÓ A L'ALTA
+T72	FECHA 5624 5634	17.11.2017
+#72	AnnotatorNotes T72	2017-11-17
+T73	Arteria_afectada 5270 5278	carotidi
+T74	Tratamiento_antiagregante_hab 550 556	A.A.S.
+#3	AnnotatorNotes T16	18
+T56	NIHSS_alta 5088 5100	NIHSS alta 3
+#4	AnnotatorNotes T56	3
+T57	mRankin_alta 5102 5112	mRs alta 3
+#5	AnnotatorNotes T57	3

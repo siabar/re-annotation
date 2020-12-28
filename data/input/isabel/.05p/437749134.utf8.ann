@@ -1,0 +1,82 @@
+T0	FECHA 312 322	06.11.2017
+#0	AnnotatorNotes T0	2017-11-06
+T1	HORA 323 328	03:00
+#1	AnnotatorNotes T1	03:00
+T2	FECHA 380 390	09.10.2017
+#2	AnnotatorNotes T2	2017-10-09
+T3	SECCION_MOTIVO_DE_INGRESO 444 458	MOTIU D'INGRÉS
+T4	SECCION_ANTECEDENTES 489 500	ANTECEDENTS
+T5	FECHA 684 688	2012
+#5	AnnotatorNotes T5	2012-UNDEF-month-UNDEF-day
+T6	FECHA 731 740	Mayo 2017
+#6	AnnotatorNotes T6	2017-05-UNDEF-day
+T7	SECCION_TRATAMIENTO_HABITUAL 990 1008	MEDICACIÓ HABITUAL
+T8	SECCION_PROCESO_ACTUAL 1039 1052	PROCÉS ACTUAL
+T9	SECCION_EXPLORACION_FISICA 1214 1231	EXPLORACIÓ FÍSICA
+T10	_SUG_NIHSS 1624 1632	NIHSS 16
+T11	SECCION_EXPLORACIONES_COMPLEMENTARIAS 1640 1665	EXPLORACIÓ COMPLEMENTÀRIA
+T12	_SUG_TAC_craneal 1666 1677	TAC craneal
+T13	_SUG_Lateralizacion 1740 1745	dreta
+T14	_SUG_Lateralizacion 1766 1771	dreta
+T15	_SUG_Localizacion 1983 1994	ventricular
+T16	_SUG_Localizacion 2114 2123	posterior
+T17	_SUG_Localizacion 2125 2130	tronc
+T18	_SUG_Lateralizacion 2298 2303	dreta
+T19	_SUG_Localizacion 3066 3073	Parcial
+T20	_SUG_Localizacion 3782 3789	Parcial
+T21	_SUG_TAC_craneal 3948 3951	TAC
+T22	FECHA 3967 3972	11/10
+#22	AnnotatorNotes T22	2010-11-UNDEF-day
+T23	_SUG_Lateralizacion 4022 4027	dreta
+T24	_SUG_Localizacion 4041 4048	frontal
+T25	_SUG_Lateralizacion 4049 4054	dreta
+T26	_SUG_TAC_craneal 4056 4059	TAC
+T27	FECHA 4067 4072	17/10
+#27	AnnotatorNotes T27	2010-10-17
+T28	_SUG_Arteria_afectada 4096 4099	ACM
+T29	_SUG_Lateralizacion 4100 4107	derecha
+T30	_SUG_Lateralizacion 4306 4314	derechas
+T31	_SUG_Lateralizacion 4330 4331	I
+T32	_SUG_TAC_craneal 4335 4338	TAC
+T33	_SUG_Lateralizacion 4361 4365	dret
+T34	_SUG_Lateralizacion 4396 4400	dret
+T35	_SUG_Lateralizacion 4434 4438	dret
+T36	_SUG_Lateralizacion 4941 4950	bilateral
+T37	_SUG_Localizacion 4971 4980	corticals
+T38	_SUG_Lateralizacion 4981 4991	bilaterals
+T39	_SUG_Lateralizacion 5141 5149	esquerre
+T40	SECCION_EVOLUCION 5496 5512	EVOLUCIÓ CLÍNICA
+T41	_SUG_Arteria_afectada 5552 5555	ACM
+T42	_SUG_Lateralizacion 5556 5563	derecha
+T43	_SUG_Lateralizacion 5722 5731	izquierda
+T44	_SUG_Lateralizacion 5758 5767	izquierda
+T45	_SUG_Lateralizacion 5797 5806	izquierda
+T46	FECHA 5811 5816	11/10
+#46	AnnotatorNotes T46	2010-11-UNDEF-day
+T47	_SUG_TAC_craneal 5828 5838	TC craneal
+T48	_SUG_Arteria_afectada 5908 5911	ACM
+T49	_SUG_Lateralizacion 5912 5919	derecha
+T50	_SUG_Localizacion 5928 5935	frontal
+T51	_SUG_Lateralizacion 5936 5943	derecha
+T52	_SUG_Lateralizacion 5952 5953	I
+T53	_SUG_Lateralizacion 6032 6041	izquierda
+T54	_SUG_Lateralizacion 6403 6404	e
+T55	_SUG_Trombolisis_intravenosa 6773 6782	trombosis
+T56	_SUG_Lateralizacion 6813 6822	izquierda
+T57	_SUG_Trombolisis_intravenosa 6895 6904	trombosis
+T58	_SUG_Lateralizacion 6924 6929	dicha
+T59	_SUG_TAC_craneal 7029 7039	TC craneal
+T60	_SUG_Lateralizacion 7282 7287	dieta
+T61	_SUG_TAC_craneal 7337 7340	TAC
+T62	FECHA 7742 7746	6/11
+#62	AnnotatorNotes T62	2010-11-06
+T63	HORA 7753 7757	1:50
+#63	AnnotatorNotes T63	01:50
+T64	SECCION_DIAGNOSTICOS 7762 7773	DIAGNÒSTICS
+T65	_SUG_Ictus_isquemico 7783 7797	ICTUS isquèmic
+T66	_SUG_Lateralizacion 7826 7831	dreta
+T67	SECCION_PROCEDIMIENTOS 8022 8034	PROCEDIMENTS
+T68	_SUG_TAC_craneal 8076 8079	TAC
+T69	_SUG_TAC_craneal 8336 8339	TAC
+T70	FECHA 8552 8562	06.11.2017
+#70	AnnotatorNotes T70	2017-11-06

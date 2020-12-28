@@ -1,0 +1,100 @@
+I.CLINIC DE NEUROCIÈNCIES NEUROLOGIA
+_NAME_	NHC: _ID_
+
+
+Sexo/Sexe: Masc.	Fecha nac./Data naix.: _DATE_	Edad/Edat: 69 años Dirección/Adreça: _LOCATION_	CP: _LOCATION_
+Municip. (Prov.): _LOCATION_  ABS:_SS_	Tel.:_CONTACT_
+
+As.: SERVEI CATALA DE LA SALUT	CIP: _ID_	NASS: _ID_
+Nº epis.: _ID_	Tipo/Tipus: HOSPIT.	Inici.: 26.10.2017
+Serv: NEUROLOGIA	UO Enf.: G064 SALA G DE NEUROLOGIA	Hora: 00:42:03
+Facult. de ref.: _NAME_		
+
+
+Tipo ingreso/Tipus ingrés: Urgent	Motivo/Motiu alta: CSS Conval.
+Diag.:
+ICTUS ISQUÉMICO TALÁMICO BILATERAL () EMERGENCIA HIPERTENSIVA ()
+SOSPECHA DE BRONCOASPIRACIÓN ()
+Proc.: ANALÍTICAS () RX TÓRAX ()
+TAC CEREBRAL () RMN CEREBRAL ()
+
+
+
+
+INFORME CLÍNICO ALTA / INFORME CLÍNIC ALTA
+
+Motivo de consulta / Motiu de consulta
+Disminución del nivel de conciencia
+
+Antecedentes e historia previa / Antecedents i història prèvia
+Antecedentes personales: Hombre de 69 años dudosa alergia a contraste iodado. Fumador activo de unos 20-30cigarrillos/día. Independiente para las ABVD. Vive en domicilio con su mujer.
+*ANTECEDENTES PATOLÓGICOS:
+1.-  HIPERTENSIÓN  ARTERIAL  con  mal  control  en  tratamiento  farmacológico  cuádruple  (amlodipino, doxazosina, candesartan e hidroclorotiazida).
+ÓRGANOS DIANA:
+*	CARDIOPATIA HIPERTENSIVA con 3 episodios de descompensacion en forma de EAP en 2002, 2004 y 2007. Último Ecocardiograma (2009): FE 55%. Ventrículo izquierdo severamente hipertrófico, no dilatado y con motilidad global conservada. Ligera-moderada dilatación de la aurícula izquierda. Insuficiencia mitral mínima, válvula de aspecto normal. Insuficiencia tricuspidea mínima sin hipertensión pulmonar. Válvula aorta trivalva normofuncionante. Cavidades derechas normales. No derrame pericárdico.
+*	INSUFICIENCIA RENAL CRÓNICA SECUNDARIA a nefroangiosclerosis (última Cr de 2/6/17 2,06 mg/dl con ClCr 32 ml/min.
+2.-  FIBRILACIÓN  AURICULAR  CRÓNICA  en  tratamiento  frenador  con  bisoprolol  y  anticoagulante  con acenocumarol.
+COMPLICACIONES:
+*	ISQUEMIA ARTERIAL AGUDA ESD que requirió de ambolectomía en el año 2009.
+3.- NEOPLASIA RENAL BILATERAL diagnosticada en noviembre de 2016 a raíz de estudio de insuficiencia renal crónica. En seguimiento por urología de nuestro centro.
+*	Se realizó nefrectomía parcial derecha, con AP que informa de carcinoma de células claras. * Lesión renal
+izquierda en seguimiento por prubas de imágen. Última ecografia de control (mayo de 2017) donde se objetiva leve aumento de tamaño de la lesión renal en polo inferior del riñón parcialmente exofítica. Se encontraba pendiente de decisión de refrectomía parcial de riñón izquierdo.
+4.- Hipoacusia neurosensorial bilateral. Otitis serosa OD intervenida en clínica Plató en julio de 2017.
+*MEDICACIÓN HABITUAL (SIRE 25/10/17): doxazosina 8 mg cada 12h; pantoprazol 40 mg dia vo; acenocumarol; AAS 100 mg dia vo; pravastatina 40 mg dia vo; bisoprolol 2,5 mg dia vo; amlodipino 10 mg dia vo; candesartan/HCTZ, alopurinol 100 mg.
+
+Proceso actual / Procés actual
+La familia avisa al SEM el 25/10 a las 10:30h por encontrar al paciente en el suelo, con disminución del nivel de conciencia, disartria y relajación de esfínteres. A las 10h había sido visto asintomático..
+
+Exploración física / Exploració física
+26/10/2017-01:00:00: PAS (mm Hg) 177, PAD (mm Hg) 148, Pulsioximetría ( %) 95, Tª axilar (ºC) 36.3. 26/10/2017-01:30:00 : Glicemia capilar (mg/d Somnoliento, apertura ocular a la orden verbal reiterada. Obedece órden es simples. Desorientado en espacio y tiempo. Habla disártrica con discu rso no inteligible. Pupilas con tendencia a la miosis, poco reactivas, c on paresia a la supraelevación de la mirada OD. Facial normal. Fuerza de extremidades normales. ROTs conservados simétricos. Ausencia de asterix is. Resto: normohidratado. Normocoloreado. Obesidad moderada. AR: MVC co n algún roncus aislado. ACV: arritmico sin soplos audibles, sin signos d e insuficiencia cardíaca. Abdomen: blando, depresible, no doloroso a la palpación. Peristaltismo conservado. AL ALTA DE LA AVI (27.10) NRL: Cosn ciente, orientado en persona, desorientado en tiempo y espacio. Glasgow 13. Cierta disartría pero menos evidente que días previos. No otras foca lidad neurológica. ACV: Hemodinámicamente estable, con tendencia a la hi pertensión. Tonos rítmcios, sin soplos. Pulsos periféricos presentes y s imétricos. AR: Eupneico, con Sat02 96% (VMK 24%). Mvc sin ruidos sobreañ adidos. ABD: blando y depresible, no doloroso. No masas ni megalias. Per istaltismo presente. No peritonismo. NEF: Diuresis espontñanea mantenida (3000 ml/24). Balance -100ml/24h. No edemas.
+Piel y faneras: Coloración: Normocoloreado. Hidratación: Normohidratado . Lesiones cutáneas: No lesiones cutáneas clínicamente relevantes. INDIC ADORES DE ESTANCIA EN UCIIndicador de gravedad: APACHE II : 12;Indicador disfunción orgánica: SOFA : 4;Indicadores de procedimiento:Indicadores de calidad intra-UCI: Retirada accidental : SONDA;
+
+Radiología / Radiologia
+*	Rx TÓRAX: Marco óseo conservado. No alteraciones mediastínicas. Infiltrado basal derecho. No derrame pleural.
+*	TC MULTIMODAL: Áreas de hipodensidad en relación a la porción medial de ambos tálamos, parasagital frontal izquierda de nueva aparición respecto a PET-TC del 2016, sugestivas de infartos antiguos. Se observa otra imagen hipodensa a nivel hemisférico cerebeloso izquierdo, sin cambios respecto al previo. No se observa hemorragia intra ni extraaxial.
+-	TC PERFUSIÓN: Discreto retraso generalizado del TTP, simétrico, más marcado en fosa posterior. No se observan alteraciones valorables en el CBV y CBF.
+-	ANGIO-TC EXTRA E INTRACRANEAL: Ateromatosis cálcica del arco aórtico,segmentos proximales, origen, bifurcación, segmentos cervicales y supraclinoideos de la arteria carótida interna, sin signos de estenosis. Segmentos intracavernoso de la arteria carótida interna sin ateromatosis ni signos de estenosis. Origen de las arterias vertebrales sin ateromatosis ni signos de estenosis. Principales arterias cerebrales intracraneales permeables (ACAs, ACMs y ACPs). Sistema vertebrobasilar permeable.
+*	RM CEREBRAL: Lesiones isquémicas agudas talámicas mediales bilaterales.
+
+Exploraciones complementarias / Exploracions complementàries
+*	ECG: Fibrilacion auricular a 70 FVM. Eje a 0º. Qs DII, DIII, aVF.
+*	
+
+
+Evolución / Evolució
+1. ICTUS ISQUÉMICO BITALÁMICO. 2. FIBRILACIÓN AURICULAR (FA). 3. CRISIS HIPERTENSIVA.
+A su llegada se objetiva TAS de 190 mmHg. En la exploración destaca somnolencia, bradipsiquia, disartria leve-moderada y una parálisis de la mirada vertical. En la analítica sanguínea se aprecia una insuficiencia renal crónica ya conocida y un INR de 1,4. El electrocardiograma se encontraba en fibrilación auricular.
+En las primeras horas tras su llegada persiste con cifras tensionales elevadas, necesitanto una bomba de nitroprusiato para un adecuado control tensional, por lo que inicialmente se orienta como una encefalopatía hipertensiva y se decide traslado a AVI para manejo.
+Ante la persistencia de la clínica neurológica a pesar de un adecuado control tensional, se decide realizar una RM cerebral donde se aprecian lesiones isquémicas talámicas bilaterales agudas. El estudio vascular (angio-TC) muestra signos de ateromatosis sin oclusiones ni estenosis significativas.
+Se reorienta el diagnóstico como un ictus isquémico talámico bilateral  de etiología cardioembólica en paciente con FA mal descoagulado y se inicia anticoagulación oral con edoxabán.
+Durante su estancia presenta mejoría del nivel de conciencia, persistiendo una parálisis de la mirada vertical así como desorientación y brasipsiquia sin ninguna otra focalidad neurológica. Ante la estabilidad clínica se decide derivación a centro de rehabilitación _SS_.
+NIHSS 4; TOAST: Cardioembólico; mRS 4.
+
+3. EMPEORAMIENTO DE LA FUNCIÓN RENAL: Durante su estancia se constata un empeoramiento de su función renal hasta creatinintas de 2,7 (al ingreso de 2). Se reduce la dosis de fármacos antagonistas del eje angiotensina-aldosterona con lo que remiten las alteraciones. La ecoagraía renal no muestra cambios respecto a previos.
+
+Plan terapéutico / Pla terapèutic
+Doxazosina 8mg CADA 12Hs. Edoxabán 30mg cada día. Hidroclorotiazida 12,5mg cada día. Pravastaina 40mg cada día. Bisoprolol 2,5 cada día. Candesartán 16mg cada día. Alopurinol 100mg cada día.
+
+Otras recomendaciones / Altres recomanacions
+.
+
+
+
+Firma/Signatura1: _NAME_	Firma/Signatura2: _NAME_ Categoría: Resident 2	Categoría: Consultor/a 1
+Nº Matrícula _SS_: _ID_	Nº Matrícula _SS_: _ID_
+
+Fecha/Data Informe: 09.11.2017
+Hora Informe: 13:17:37
+
+Docum.: _ID_
+Hist. Clínica: _ID_
+El _SS_ ha incorporado sus datos al Fichero de Pacientes, para tratarlos con fines sanitarios.
+Puede ejercer sus derechos de acceso, rectificación, cancelación y oposición, así como obtener mas información en la Unidad de Atención al Cliente.
+Vers. 00
+Pag. 2 de
+3
+Episod.: _ID_
+_SS_ ha incorporat les seves dades al Fitxer de Pacients, per a tractar-los amb finalitats sanitàries. Pot exercir els seus drets d'accés, rectificació, cancel·lació i oposició, i obtenir més informació a la Unitat d'Atenció al Client.
+_SS_
+_LOCATION_) _LOCATION_) Tel. _CONTACT_ Fax _CONTACT_
+http://_CONTACT_/

@@ -1,0 +1,112 @@
+
+
+
+
+
+Informe d'Alta d'Urgències	Cognoms i nom:
+_NAME_	NHC:
+_ID_
+	ABS:
+_SS_	CIP:
+_ID_	DNI:
+_ID_
+	Data de naixement:
+_DATE_	Sexe:
+Home	Edat:
+88a	Telèfon:
+_CONTACT_
+	Adreça:
+_LOCATION_
+	Finançament:
+CatSalut - _LOCATION_	Procedència:
+URGÈNCIES
+Episodi:
+304264965	Admissió:
+14.07.2017 - 01:33	Assistència:
+14.07.2017 - 01:36	Servei:
+URGENCIES MEDICINA
+
+
+
+Motiu Consulta:
+Código ictus extrahospitalario
+
+
+MALALTIA ACTUAL
+Varón de 88 años que es traído a urgencias de nuestro centro como código ictus extrahospitalario. Como principales antecedentes el paciente está diagnosticado de hipertensión arterial, dislipemia, hiperuricemia, insuficiencia renal crónica y cardiopatía isquémica. A nivel sociofuncional es un paciente autónomo para actividades básicas e instrumentales de la vida diaria. Rankin 2. Pendiente de estudio en _SS_ por posible deterioro cognitivo leve.
+
+Según cuenta la mujer del paciente esta noche a las 00:50 aproximadamente tras lavarse los dientes, el paciente ha notado un mareo intenso y se ha tenido que tumbar en el suelo. Le fallaba la pierna. Cuando le ha preguntado qué le pasaba el paciente tenía el habla entrecortada y hacía movimientos en flexión del brazo izquierdo. Ha alertado al SEM quienes al valorarlo activan código ictus extrahospitalario.
+
+A su llegada a urgencias el paciente se encuentra hemodinámicamente estable y afebril. Ctes: 143/65 mmHg, 69 lpm, INR de 1, Glicemia de 133mg/dl. A la exploración neurológica el paciente presenta disartria leve junto con clonias hemifaciales izquierdas y movimientos clónicos en flexión del brazo izquierdo puntuando una NIHSS de 1. Se realiza TC craneal en el que no se aprecian lesiones agudas ni hiperdensidades vasculares. Dada la insuficiencia renal con FG de menos de 30 no se realiza angioTC. Se realiza dúplex TSA urgente en el que no se aprecian estenosis significativas y un dúplex transcraneal en el que ambas ACM muestran un flujo laminar y simétrico (TIBI 5). A/S sin alteraciones relevantes
+
+El cuadro se orienta como un posible estatus focal frontal derecho y se decide impregnar con Lacosamida ajustando por función renal. Tras la impregnación con 100mg de LCS presenta remisión de las clonias a nivel braquial persistiendo alguna clonia facial aislada. Se decide dejar en monitorización para control evolutivo a la espera de EEG urgente por la mañana.
+
+Dada la sospecha diagnostica se desactiva código ictus y se desestima tratamiento de reperfusión
+
+
+ANTECEDENTS
+-	Niega alergias conocidas a medicamentos y alimentos.
+
+Hábitos tóxicos.
+-	Niega tabaquismo.
+-	Exenolismo social. Antecedentes quirúrgicos.
+-	IQ de prótesis mecánica de rodilla izquierda a los 78 de edad.
+-	Plastía de hernia de pared abdominal.
+-	Apendicectomía a los 10 años de edad.
+
+Situación social.
+-	Vive con su esposa en domicilio propio.
+-	Independiente para realizar las actividades básicas de la vida diaria.
+
+Anetecedentes médicos.
+-	Hipertensión Arterial Sistémica esencial en tratamiento médico desde hace 5 años.  Holter ECG el 24/10/13 donde se observa: RS todo registro, PR líimite superior, QRS en morfologia HBAI y con frecuencia bradicardica (39-97lpm)durante la mayor parte del registro. Se observan EEVV aisladas y monomorfas muy frecuentes, EEAA aisladas poco frecuentes con rachas nocturnas de taquicardias auriculares de frecuencias relativamente lentas (80-90lpm)cortas (hasta 11 latidos) y autolimitadas. No se registran pautan de consideración.
+-	Dislipidemia en tratamiento médico desde hace 4 años.
+-	Hiperuricemia en tratamiento médico desde hace 3 años.
+
+Factores de Riesgo Cardiovascular.
+-Género masculino.
+-	Edad.
+-	Sedentarismo.
+-	HAS.
+-	DLP.
+-	Hiperuricemia.
+
+Medicación habitual 27.01.15: Torasemida 5mg (0-0-1), sinvastatina 40mg, losartán 50mg, Alopurinol 300mg (0-1-0), Omeprazol 20mg (1-0-0), AAS 100mg/d, carvediolol 6´25mg/12horas, Nitroglicerina 10mg 1 parche/24h
+
+EXPLORACIONS COMPLEMENTÀRIES
+AS: se adjunta.
+TC craneal: se adjunta. ECG: sin alteraciones.
+
+EVOLUCIÓ
+Paciente que acude por presentar posible estatus focal frontal derecho y se decide impregnar con Lacosamida ajustando por función renal. Tras la impregnación con 100mg de LCS presenta remisión de las clonias a nivel braquial persistiendo alguna clonia facial aislada. Se mantiene monitorizado durante su estancia en urgencias sin presentar neuvos episodio de crisis comicial. Se realiza ECG que no muestra alteraciones.
+Con tratamiento anticomicial las clonias en el brazo izquierdo cedieron.
+El paciente actualmente presenta una semiología de hemiespasmo facial derecho (a favor de esto va la irregularidad, que se acompaña de contracción orbicular bilateral, que tiene un EEG realizado esta mañana sin actividad epiléptica realizando estos movimientos, que tiene antecedente de paresia facial periférica izquierda y que antes de acudir a urgencias por este episodio ya presentaba estos movimientos según su mujer aunque más leves y no de forma constante).
+Valorado por neurología que orienta el cuadro como crisis comiciales focales (clonias brazo izquierdo) y hemiespasmo facial izquierdo. Se decide alta con tratamiento con valproico por insuficiencia renal y control por neurología.
+
+TRATAMIENTO AL ALTA
+Valproico crono (de liberación prolongada) 500mg cada 12h. Resto del tratamiento sin cambios.
+
+RECOMANACIONS A L'ALTA
+Se explican normas de reconsulta.
+
+
+DIAGNÒSTICS
+-	Crisis comiciales focales (clonias brazo izquierdo).
+-	Hemiespasmo facial izquierdo.
+
+
+CONTROLS
+Control en CEX con neurología con Dr. _NAME_.
+
+
+Responsable clínic: Dra. _NAME_ (NºCol. _ID_)
+Equip mèdic: Dr. _NAME_ (NºCol. _ID_)
+
+Servei que ha donat d'alta:
+URGENCIES MEDICINA	Data d'alta:
+14.07.2017 - 23:36	Nom del metge que informa de l'alta:
+Dra. _NAME_ (NºCol. _ID_)
+
+
+Barcelona, 15.07.2017
+Pàg. 1 de   3

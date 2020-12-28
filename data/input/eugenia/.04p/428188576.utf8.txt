@@ -1,0 +1,118 @@
+_LOCATION_) Telèfon _SS_  972 _CONTACT_
+Telèfon IDI (Ressonància i TAC) _CONTACT_
+Telèfon ICO _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 77 Anys
+NIF/DNI: _ID__NAME_; _NAME_
+Informe d'alta d'hospitalització
+15:57:43
+09.10.2017
+_LOCATION_
+_SS_ NEUROLOGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_; _CONTACT_; _CONTACT_
+ATEN.PRIMÀRIA 07.10.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Códico Ictus 7/10/17.
+
+ANTECEDENTS
+-	Sin alergia a medicamentos conocidos.
+-	Ex- fumador desde hace 15años.
+-	mRS previo 0.
+
+-	ACxFA en tratamiento con SINTROM (último INR.1.51 )
+-	HTA.
+-	DM tipo I. Insulinodependiente. Retinopatía diabética.
+-	Dislipemia.
+-	LLC tipo B en tratamiento con Clorambucilo.
+-	Carcinoma de ala nariz izquierda, pendiente de IQ.
+
+-	IQ: Colecistectomía; Facquectomía bilateral; Herniorrafia inguinal.
+
+PROCÉS ACTUAL
+Hombre de 77 años refiere el pasado 7/10 sobre las 16:00h,  inicio de clínica ictal  de alteración del lenguaje y pléjia de ES izquierda que se autolimita en unos 10 min, aprox. Consulta en su CAP cercano donde inicia de nuevo la misma clínica desde donde se activa código ictus a las 19:44h y es derivado a nuestro centro (no cumple criterios RACECAT por RACE baja). LLegada a _SS_ 20.11h, econtrándose completamente asintomático. NIHSS0. ECG que pone de manifiesto FA a 60-70 lpm con INR 1.5 , niveles infraterapeuticos.
+Se realiza TAC y Angio TAC craneal urgente donde se objetiva ligera hipodensidad territorial en ACM derecha sin identificar trombos ni estenosis en M1-2 en el momento del estudio. Estudio doppler TSA destaca ateromatosis leve carotidea bilateral y signos sugestivos de recanilizacion ACM derecha en doppler- color transcraneal.
+
+El paciente ingresa en nuestra unidad para control evolutivo, completar estudio y ajuste de medicación.
+
+EXPLORACIÓ FÍSICA
+
+FC	78 bpm
+Tªaxi 36.5 ºC
+FR	rpm Tªrec  ºC
+TA s	105 mmHg SAT O2  %
+TA d   92 mmHg Pes Kg
+
+BEG;NH; NC.
+Expl. Nrl al ingreso en NRL: 	 AC: Arritmo con Fc controlada. AR: MVC.
+Alerta y colaborador. Orientado en 3 esferas. Sin presentar alteración dle lenguaje. PPCC conservados. NO déficits campimétricos por confrontación ni amenaza. No déficit motor ni sensitivo en extramidades. No dismetrías. RCP indiferente bilateral. NIHSS 0.
+
+Informe d'alta d'hospitalització
+
+
+
+
+
+EXPLORACIÓ COMPLEMENTÀRIA
+A/S: Hb13.8g/dL; INR 1.51;  Aleucocitosis; CT 123mg/dL; HDL22; TG 385 g/dL.
+ECG: FA a 65-70 lpm.
+
+-	TAC craneal (7/09): sin alteraciones patológicas intracraneales valorables.(ASPECTS 10)
+-	Angio TAC craneal (7/09): El estudio angiográfico intracraneal muestra una correcta permeabilidad de los vasos que conforman el polígono de Willis, destacando una menor densidad de contraste en todas las estrucutras vasculares del hemisferio derecho, con asimetría de calibre de la circulación distal de ambas ACM con menor circulación colateral y flujo e irregularidada nivel de segmetos M1 M2 pero sin identificar trombos ni oclusiones en momento actual.
+
+-	Estudio doppler color TSA y transcraneal (7/09): Leve ateromatosis carotídea. Signos de recanalización parcial de ACM derecha con buena compensación a través de comunicantes. Estenosis moderada de AV izquierda
+
+EVOLUCIÓ CLÍNICA
+El paciente ingresa en nuestra Unidad de Ictus bajo cuidados semintensivos manteniéndose hemodinámicamente estable desde el ingreso y sin haber presentado complicaciones infeciosas asociadas. Permanece totalmente asintomático ( NIHSS0) con FA a 65-70 lpm sin presentar otras alteraciones de la repolarización en rago infraterapeuticos con SINTROM en el momento de inicio de la clínica por lo que se considera cambio a NACO. Cosiderando peso del paciente y F.Renal  (Cr1.6) se inicia anticoagulaicón oral con Apixabán 2.5 mg/12h, aumentando dosis terapeuticas al alta de 5mg/12h ante ausencia de contraindicaciones.
+
+Dada la estabilidad clínica y de acuerdo con el paciente, se decide alta a domicilio. Escalas al ALTA:
+-	mRs 0.
+-	NIHSS 0.
+-	I. Barthel 0.
+
+En resumen, se trata de un paciente con FA conocida en tratamiento con SINTROM en rango infraterapeuticos que presenta clínica ictal autolimitada de alteración del lenguaje y paresia de ES izquierda. TAc craneal de urgencias que pone de manifiesto hipodensidad territorial ACM derecha y signos de reperfusión en dicho territorio vascular objetivado por doppler transcraneal. Descartado por doppler TSA patologia significativa de grandes vasos extracrenales como fuente embolígena, se atribuye como fuente embolígena mayor causante de cuadro clínico AC xFA mal controlada con SINTROM por lo que en asuencia de contraindicaciones se decide cambio a NACOs ( Apixabán) Eliquis 5mg/12h.
+Precisará controles posteriores de FRCV por su médico de atención primaria y CCEE Neurología.
+
+
+DIAGNÒSTICS
+-	Ictus isquémico en territorio de ACM derecha de mecanismo embólico y origen cardiaco por ACxFA.
+-	ACXFA ( rango infraterapeutico con SINTROM)
+-	
+Informe d'alta d'hospitalització
+
+
+
+PROCEDIMENTS
+TAC craneal/ Doppler TSA y DTC.
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+-	Hábitos de vida saludables
+-	Dieta básica mediterránea, baja en grasas.
+
+-	Eliquis 5mg/12h.
+
+-	Resto de su medicación habitual normal, excepto sintrom
+
+CONTROL
+-	Control en CCEE NRL el 25/01/20148 a las 17:10 con la Dra. _NAME_ al edifici de consultes externes.
+-Control de FRCV, TA y colesterol ,siendo valores objetivos TA <140/80; LDL< 70mg/dL. Recoemndamos realizar perfili lipidico tras instauracion de dieta y valorar fibratos en funcion de nivel de TG
+
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+09.10.2017
+Pàgina 1 de 3

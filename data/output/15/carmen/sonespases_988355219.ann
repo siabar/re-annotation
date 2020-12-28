@@ -1,0 +1,25 @@
+T1	SECCION_DIAGNOSTICOS 27 39	Diagnosticos
+T2	SECCION_PROCEDIMIENTOS 185 199	Procedimientos
+T3	SECCION_MOTIVO_DE_INGRESO 251 268	Motivo de ingreso
+T4	SECCION_ANTECEDENTES 342 362	Antecedentes Médicos
+T5	SECCION_SITUACION_FUNCIONAL 706 721	Situación basal
+T6	SECCION_TRATAMIENTO_HABITUAL 1258 1282	Tratamiento domiciliario
+T7	SECCION_PROCESO_ACTUAL 2000 2009	Anamnesis
+T8	_SUG_TAC_craneal 2769 2779	TC craneal
+T9	SECCION_EXPLORACION_FISICA 2797 2808	Exploración
+T10	SECCION_EXPLORACIONES_COMPLEMENTARIAS_EN_URGENCIAS 4239 4266	Analítica Sanguínea urgente
+T11	SECCION_EXPLORACIONES_COMPLEMENTARIAS_EN_PLANTA_DE_NEUROLOGIA 4433 4450	Analítica ingreso
+T12	SECCION_EXPLORACIONES_COMPLEMENTARIAS 4879 4913	Resultados pruebas complementarias
+T13	TAC_craneal 5004 5014	TC cerebro
+T14	_SUG_TAC_craneal 5691 5701	TC cerebro
+T15	_SUG_TAC_craneal 6097 6104	Cerebro
+T16	SECCION_EVOLUCION 9032 9054	Evolución Hospitalaria
+T17	_SUG_Trombolisis_intravenosa 9085 9118	tratamiento de reperfusión por la
+T18	_SUG_Trombectomia_mecanica 9085 9111	tratamiento de reperfusión
+T19	_SUG_TAC_craneal 9629 9639	TC craneal
+T20	Test_de_disfagia 10486 10502	test de disfagia
+T21	_SUG_Trombolisis_intravenosa 10969 10994	tratamiento rehabilitador
+T22	_SUG_Trombectomia_mecanica 10969 10994	tratamiento rehabilitador
+T23	_SUG_Trombectomia_mecanica 11540 11565	tratamiento rehabilitador
+T24	_SUG_Trombolisis_intravenosa 11540 11565	tratamiento rehabilitador
+T25	SECCION_TRATAMIENTO_Y_RECOMENDACIONES_AL_ALTA 11572 11609	Recomendaciones y tratamiento al alta

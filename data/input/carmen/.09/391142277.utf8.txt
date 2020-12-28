@@ -1,0 +1,139 @@
+_LOCATION_ Telf Consultes: _CONTACT_ / _CONTACT_
+Telf Centraleta Hospital: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 51 Anys
+NIF/DNI: _ID__NAME_; _NAME_
+Informe d'alta d'hospitalització
+CP	_LOCATION_
+ABS	_SS_
+Servei	NEUROLOGIA
+Data d'alta  19.07.2017	12:17:55
+_LOCATION_
+_CONTACT_
+DOMICIL/RES.SOC 16.07.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Codi Ictus
+
+ANTECEDENTS
+-	No alergias medicamentosas conocidas.
+
+-	Hipertensión arterial.
+-	Hipotiroidismo secundario a IQ por nódulo frío.
+-	Trastorno psiquiátrico paranoide. Hospitalizada en enero/2007 en el _SS_. Varios episodios de crisis de ansiedad.
+-	Ictus isquémico en ACM izquierda por estenosis carotidia izquierda en 2011.
+-	Dolor crónico generalizado tipo fibromiálgico.
+-	IQ: Amigdalectomía. Apendicectomía. Endarterectomía izquierda.
+
+Situación basal: autònoma para las actividades básicas de la vida diaria. Rankin previo 0.
+
+MEDICACIÓ HABITUAL
+Atorvastatina 40mg/24h, Tromalyt (AAS) 300mg/24h, Eutirox 50mcg/24h, Diazepam 5mg/24h, Enalapril 10mg/24h.
+
+PROCÉS ACTUAL
+Paciente que el 15/07/2017 presenta de forma brusca a las 21:30h clínica de cefalea acompañada de sensación de inestabilidad y pérdida de fuerza en hemicuerpo derecho mientras paseaba por la calle.
+Se avisa al SEM quien activa Código ictus y randomiza en RACECAT, derivando a la paciente a nuestro centro a las 22:35h.
+
+EXPLORACIÓ FÍSICA
+
+FC	52 bpm
+Tªaxi 35.9 ºC
+FR	rpm Tªrec  ºC
+TA s	134 mmHg SAT O2 96 %
+TA d   86 mmHg Pes Kg
+
+Buen estado general, normohidratada y normocoloreada. Afebril. Eupneica al habla. Boca séptica.
+
+-	NRL:  Alerta, funciones  superiores  preservadas. Pares craneales  conservados. No  dèficit campimètrico  por confrontación. No déficit motor ni sensitivo. RCP flexor bilatral. NIHSS 0.
+
+-	AC: tonos rítmicos, no ausculto soplos ni roces.
+-	AR: buena entrada de aire bilateral, sin ruidos patológicos sobreañadidos.
+-	ABD: globuloso a expensas de panículo adiposo. Blando y depresible, no doloroso a la palpación, no masas ni megalias. Peristaltismo presente.
+-	EEII: no edemas ni signos de TVP. Pulsos pedios presentes y simétricos.
+-	
+Informe d'alta d'hospitalització
+
+
+
+EXPLORACIÓ COMPLEMENTÀRIA
+A/S urgencias (15/07/2017):
+-	BQ: Creatinina  0.70 mg/dL, Glucosa 130 mg/dL, K 3.2 mEq/L, Na 143 mEq/L, Urea 21 mg/dL.
+-	Hemostasia:  INR 1.05, T.protrombina 11.4 seg, Raó T.protrombina 1.06, TTPA 30.1 seg, Raó TTPA 0.96,
+Fibrinogen 429 mg/dL.
+-	Hemograma: Hemoglobina 14.1 g/dL, Hematòcrit 41.1 %, Leucòcits 10500/mL con fórmula normal, Plaquetes 295000/mL.
+
+A/S Neurologia (18/07/2017):
+-	BQ: Glucosa 90 mg/dL, Urat 4.86 mg/dL, Urea 31 mg/dL, Creatinina 0.78  mg/dL, Colesterol 146 mg/dL, Colesterol dHDL 33 mg/dL, Colesterol LDL 84.31 mg/dL, Triglicèrid 142 mg/dL, AST 15 U/L, ALT 13 U/L, GGT 20 U/L, FA 128 U/L, Na 142.0 mEq/L, K 3.9 mEq/L.
+-	Hormonas: Tirotropina (TSH) 10.57 uUI/mL, Tiroxina FT4 0.74 ng/dL.
+-	Hemograma: Hemoglobina glicada (A1c) 6.2 %, Hemoglobina glicada(A1c)IFCC 44 mmol/mol, Hemoglobina 14.7 g/dL, Hematòcrit 43.9 %, VCM 91.5 fL, ADE 14.1 %, CCMH 33.5 g/dL, HCM 30.6 pg, Leucòcits 8060/mL con fórmula normal, Plaquetas 302000/mL.
+
+Sedimiento de orina (17/07/2017): Bacteris Moderat, Cèl·lules epiteli escamós Abundants, Leucòcits 2-5 per camp, Trichomonas vaginalis Presència.
+Cribaje drogas en orina (17/07/2017): Benzodiazepines (qualitatiu) Positiu, Amfetamines (qualitatiu) Negatiu, Morfina (qualitatiu) Negatiu, Cannabis (qualitatiu) Negatiu, Cocaïna (qualitatiu) Negatiu, Fenciclidina (qualitatiu) Negatiu, Barbitúrics (qualitatiu) Negatiu, Èxtasi (qualitatiu) Negatiu, Metadona (qualitatiu) Negatiu, Metamfetamines (qualitatiu) Negatiu, Opiacis (qualitatiu) Negatiu, Antidepr. Tricíclics (qualitatiu) Negatiu.
+
+RX tórax (17/07/2017): ICT < 0.5, senos costofrénicos libres, no condensaciones ni infiltrados agudos. Marco óseo sin alteraciones.
+
+TAC Craneal (15/07/2017):Absència de signes de sangrat agut intra o extra axial i d'isquèmia aguda. Correcta diferenciació de la substància blanca/substància gris. Absència de síndrome de massa. Seqüel·les isquèmiques còrtico-subcorticals frontal mitja, pre i postcentral, precuneal, occipital extern en el territori frontera superficial ACA-ACM, ACP-ACM. Infart lacunar crònic capsulo-caudat esquerre. No s'evidencien anomalies morfològiques o densitomètriques a nivell infra tentorial. Sistema ventricular de volum i morfologia conservades. Estructures de la línia mitja centrades. Llibertat dels espais subaracnoïdeus i de les cisternes de la base i peritronculars. Com a troballa incidental, ocupació mucosa quasi complerta de les cèl·lules mastoïdees esquerres. CONCLUSIÓ: Absència de signes d'isquèmia aguda. Seqüel·les isquèmiques còrtico-subcorticals frontal mitja, pre i postcentral, precuneal, occipital extern en el territori frontera superficial ACA-ACM, ACP-ACM. Infart lacunar crònic capsulo-caudat esquerre.
+Angio-TAC craneal (15/07/2017): Oclusió de la caròtida interna esquerra des del seu origen amb una repermeabilització retrògrada dels segments supraclinoïdeu i intracavernós. Compensació de la circulació de l'ACM esquerra a través del polígon de Willis (comunicant anterior i posterior). Flap intimal intraluminal en el segment bulbar de la caròtida interna dreta (just distal a la bifurcació), fent sospitar placa ulcerada amb dissecció incipient: a confrontar per estudi ecogràfic. En les seccions de les bases pulmonars, enfisema centrolobul·lillar. CONCLUSIÓ: Oclusió de la caròtida interna esquerra des del seu origen amb una repermeabilització retrògrada dels segments supraclinoïdeu i intracavernós i compensació de la circulació de l'ACM esquerra a través del polígon de Willis (comunicant anterior i posterior). Flap intimal intraluminal en el segment bulbar de la caròtida interna dreta (just distal a la bifurcació), fent sospitar placa ulcerada amb dissecció incipient: a confrontar per estudi ecogràfic.
+
+Informe d'alta d'hospitalització
+
+
+
+
+
+TAC craneal simple de control (16/07/2017): No se observan lesiones hemorrágicas intra o extraaxiales, ni lesiones isquémicas establecidas. Secuelas isquemicas córtico-subcorticales fronto-parietales y occipitales izquierdas, en el territori frontera superficial ACA-ACM, ACP-ACM. Infarto lacunar crónico cápsulo-caudado izquierda. Línea media centrada. Sistema ventricular simétrico, no dilatado. Cisternas de la base, peritronculares y mesencefálicas libres. Fosa posterior sin alteraciones, valorables mediante esta técnica CONCLUSIÓN: No se observan lesiones hemorrágicas ni isquémicas establecidas. Resto del estudio sin cambios.
+
+EcoDoppler troncos supraaórticos (18/07/2017): Es realitza eco-Doppler color de la circulació arterial a nivell cervical. Es detecta engruiximent intimal de 1#4m amb important ateromatosi difusa en ambdues bifurcacions. Es visualitza oclusió de l'art. caròtida interna esquerra. L#anàlisi Doppler no mostra fluxe a art. caròtida interna esquerra, amb fluxe "internalitzat" a art. Caròtida externa esquerra. Resta d'artèries estenosis amb arts. vertebrals ortodròmiques. CONCLUSIÓ: Estudi eco-Doppler color de TSA amb ateromatosi i oclusió comlerta de l'art. caròtida interna esquerra sense altres alteracions patològiques valorables per aquesta tècnica.
+EcoDoppler transcraneal (8/07/2017): Es realitza eco-Doppler color de la circulació arterial intracranial. Bona finestra òssia temporal i occipital. No es detecten estenosis a la circulació anterior (ACMs i ACAs) ni a circulación posterior (ACPs, AVs i AB). ACM E sense fluxe atenuat amb circulació colateral amb ACA esquerra invertida, A Cm Anterior patent (buf). CONCLUSIÓ: Estudi eco-Doppler color Transcranial amb patrò de circulació colateral secundari a oclusió carotidia amb bona compensació.
+
+EVOLUCIÓ CLÍNICA
+Paciente con clínica de Ictus ACM izquierda, NIHSS Inicial: 0+0+0+0+0 / 2+0+2+0+2 / 0+0+0+0+0 = 6. Se realiza TAC craneal urgente que descarta patología hemorrágica aguda. En angio-TAC de TSA se observa oclusión de la ACI izquierda desde la postbifurcación hasta segmento intracraneal, sin oclusión proximal de la ACM. por lo que, ante ausencia de contraindicaciones, se inicia tratamiento fibrinolítico ev con rtPA a las 23:25h, sin incidencias inmediatas. Paciente no tributaria de trombectomía. Se completa perfusuiión de rtPA sin incidencias. La paciente permanece estable dutrante la fase de monitorización de 24h. Se realiza TAC craneal de control post-rtPA que no muestra sangrado ni lesiones isquémicas establecidas.
+
+La paciente pasa a planta convencional de Neurologia. Durante su estancia en planta, la paciente permanece neurológicamente estable con recuperación ad integrum de la focalidad neurológica. El estudio realizado por Duplex confirma la oclusión completa de la arteria carótida interna no revascularizable. No se puede realizar RM cerebral por calustrofóbia. Paralelamente, se diagnostica de vaginosis que se trata con metronidazol 2g oral en dosis única. La pacienet sedesta, tolrea dieta y deambulación autonoma, NIHSS 0, Rankin 0.
+
+Ante la estabilidad clínica y hemodinámica de la paciente, se decide alta a domicilio.
+
+DIAGNÒSTICS
+436/5 Ictus ACM derecha de mecanismo embólicio arterio-arterial y causa aterotrombótica
+-	Oclusion completa Carotidia Derecha
+
+PROCEDIMENTS
+87.03 Tomografia axial computada de cap. TAC de cap
+89.08 Altra consulta
+88.71 Ultrasò diagnòstic de cap i coll. Determinació desviació de la línia mediana cerebral,ecoencefalografia
+88.77 Ultrasò diagnòstic de sistema vascular perifèric. Enregistrament de trombosi venosa profunda
+
+Informe d'alta d'hospitalització
+
+
+
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+-	Adiro 100mg 1comp/dia durante 3 meses
+-	Omeprazol 20mg 1comp/dia durante 3 meses.
+
+-	Clopidogrel 75mg 1comp/dia
+-	Atorvastatina 80mg 1comp/dia-
+
+-	Re-iniciar tratamiento hipotensor en 1 semana- 15 dias a dosis bajas (enalapril 5mg/dia)
+
+-	Perder peso. Caminar cada dia. Dieta medieterranea.
+
+CONTROL
+Control y seguimiento por su medico de familia con control de los FRV. y neurologia de zona.
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+19.07.2017
+Pàgina 1 de 4

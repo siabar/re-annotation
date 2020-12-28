@@ -1,0 +1,75 @@
+INFORME ALTA HOSPITALARIA
+_NAME_
+Núm. Episodi: _ID_ Núm. HC: _ID_
+_SS_ _LOCATION_
+_LOCATION_
+Tel. _CONTACT_Adreça: _LOCATION_	C.A.P.: CAP _LOCATION_
+Població: _LOCATION_	Sexe: DONA  Data naixement: _DATE_  Edat: 85a
+Telèfon: _CONTACT_  C.P.: _LOCATION_	T.I.S.: _ID_  DNI/NIF: _ID_
+Procedència:	Data Ingrés Hospital: 17/07/2017
+Servei assistencial: NEUROLOGIA HOSP	Data Ingrés Servei: 17/07/2017
+Metge Responsable: _NAME_	Data Alta: 27/7/2017
+
+
+MOTIU D'INGRÉS: hemiparèsia dreta i afàsia.
+
+ANTECEDENTS PATOLÒGICS
+1.	Nega al·lèrgies medicamentoses conegudes
+2.	Hipertensió arterial en tractament farmacològic
+3.	Dislipemia en tractament amb estatines
+4.	Fibril·lació auricular paroxística. Es va retirar el tractament anticoagulant donat risc de caigudes (per seqüeles de la poliomielitis). Segueix controls per Cardiologia.
+5.	Poliomielitis a la infantesa amb afectació d'extremitat inferior dreta que condiciona inestabilitat de la marxa
+6.	Insuficiència venosa perifèrica
+Situació basal: viu a domicili. Independent per les ABVD. Cognitivament preservada. Incontinència urinària. Barthel 80, mRS 2.  Tractament habitual: multaq 400mg 1c/12h, pravastatina 10mg 1 c/24h, carduran neo 8mg 1c/12h, vals 160mg 1c/12h, artedil 10mg
+1c/24h, furosemida 40mg 1 c/24h, paracetamol 1g 1c/12h si precisa.
+
+MALALTIA ACTUAL
+Pacient de 85 anys que el dia 17/07, davant l'absència de resposta quan la trucaven a domicili, s'ha avisat als bombers que han objectivat hemiparèsia facio-braquio-crural dreta i afàsia, pel que s'activa codi ictus i és traslladada al nostre centre pel SEM.
+
+EXPLORACIÓ FÍSICA
+PA 151/77 mmHg, FC 48 lpm, Tª 36º C, SatO2 basal 98%.
+AC: tons cardíacs rítmics, sense bufs. AP: murmuri vesicular conservat, sense altres soroll sobreafegits. NRL: Hemiparèsia facio- braquio-crural dreta i afàsia d'expressió, hemianòpsia dreta. NIHSS 17 (0+2+0+0+2+2+0+4+0+3+1+1+1+1+0)
+
+EXPLORACIONS COMPLEMENTÀRIES
+Urgències
+Analítica general: Hto 39.3 ; Hb 13.1 g/dl ; Plaquetes 178 x1E9/L ;Leucòcits 6.98 x1E9/L ( 76% N,  17% L, 5.6% Mo,  0 Bandes); Glucosa 126  mg/dl; Urea  54.5  mg/dl ;Creatinina 1.1   mg/dl ; FG 45, Na  140  mmol/L; K  4.81  mmol/L ; Cl 103%,INR 1.ECG: Ritmo sinusal a 40lpm,no alteraciones de la repolarización.
+
+Rx tòrax: Sins costofrènics lliures, cardiomegàlia, no condensacions intraparenquimatoses.
+
+TC cranial: Moderado aumento del tamaño de los surcos cerebrales. Amplio amplios espacios aracnoideos  frontales.  Tamaño ventricular normal. Microinfarto crónico en base del hemisferio cerebeloso derecho. No se distinguen otras alteraciones valorables en la densidad del parénquima cerebral, tronco ni cerebelo. No se identifica colección hemorrágica ni patología neoplásica intracraneal. Cisternas basales y perimesencefálicas libres. Densidad normal de estructuras óseas del cráneo.
+
+Planta d'hospitalització
+Eco-Doppler troncs supraaòrtics: ARTÈRIES VERTEBRALS: Flux de direcció cranial amb pics de velocitat sistòlica asimètrics, 87 vs 17 cm/s. Ona vertebral esquerre, obstructiva. EIX CAROTIDI DRET: Engruiximent de l'íntima arterial, IMT 1.072 mm. S'identifica en el bulb carotidi dret, engruiximent de l'íntima arterial i placa focal hipoecogènica lipídica a la paret posterior del bulb carotidi que es valora en
+<50%, és regular. Els registres espectrals no mostren signes d'alteració hemodinàmica d'alt grau amb un pic sistòlic de velocitat màxima, concordant (PSV) CID de 70 cm/s i amb un quocient CPD-CID 1.1. Marcada elongació trajecte cervical CID. EIX CAROTIDI ESQUERRE: Engruiximent de l'íntima arterial. IMT 1.5 mm. S'identifica en el bulb carotidi esquerre, engruiximent de l'íntima arterial i placa difusa mixta lipídica i microcalcificada sense ombra posterior a la paret anterior i posterior del bulb carotidi que es valora en <50%, és regular. Els registres espectrals no mostren signes d'alteració hemodinàmica d'alt grau amb un pic sistòlic de velocitat màxima, concordant ( PSV) CIE de 60 cm/s i amb un quocient CPE-CIE de 0.9.
+RMN cranial: Estudi artefactat pels moviments de la pacient. Absència de desplaçaments d'estructures de la línia mitja supra i infratentorials. Cisternes basals i perimesencèfaliques lliures. Sistema ventricular de mida normal per l'edat de la pacient. Atròfia cortical de predomini frontal. S'observen múltiples focus d'alteració de senyal a substància blanca subcortical fronto-parietal bilateral i temporal esquerre d'aspecte hipòxic-isquèmic crònic i petits focus a cap i cos del caudat, nucli lenticular esquerre amb restricció de la difusió compatibles amb lesions isquèmiques agudes territori de les artèries lenticulo-estriades de l'artèria cerebral mitja esquerra. No s'observa transformació hemorràgica. Unió crànio-cervical sense anomalies valorables.
+
+EVOLUCIÓ
+Pacient de 85 anys amb antecedents d'hipertensió arterial, dislipemia i fibril·lació auricular no anticoagulada que ingressa per ictus isquèmic al territori de l'artèria cerebral mitja (ACM) esquerra.
+A la seva arribada a urgències la pacient es troba hemodinàmicament estable, objectivant a l'exploració neurològica hemiparèsia faciobraquiocrural dreta, hemianòpsia homònima dreta i afàsia d'expressió (NIHSS 17). Donat que es desconeix el temps d'evolució del quadre no s'activa codi ictus ni es realitza fibrinòlisi. Es contacta amb _SS_ per valoració de rescat intraarterial però es considera que no compleix criteris pel mateix pel que no es trasllada. S'inicia antiagregació i es cursa ingrés a Neurologia per prosseguir estudi i per control evolutiu.
+
+A la seva arribada a planta la pacient es manté clínica i hemodinàmicament estable, amb persistència de l'hemiparèsia dreta i l'afàsia d'expressió. Es realitza interconsulta al servei de Rehabilitació per inici de fisioteràpia, així com a Logopèdia per valoració de la deglució objectivant una disfàgia moderada-severa, pel que s'inicia dieta pastosa i líquids amb espessant.
+Es duu a terme RMN cranial que objectiva lesions isquèmiques agudes al cap i cos del caudat i nucli lenticular esquerre, que es corresponen al territori de les artèries lenticulo-estriades de l'artèria cerebral mitja esquerra.
+Així mateix es realitza eco-Doppler de troncs supraaòrtics que objectiva un patró compatible amb obstrucció a nivell de l'artèria vertebral esquerra, sense objectivar estenosis significatives a nivell de les artèries caròtides.
+
+Pacient amb FA, es decideix iniciar ACODs (dabigatran), CHA2DS2-Vasc = 6, Has-Bled=4
+Durant la seva estada a planta la pacient presenta una evolució clínica favorable, amb milloria marcada del dèficit neurològic. Se sol·licita valoració pel servei d'UFISS per recurs a l'alta, sent acceptada a centre sociosanitari per prosseguir amb programa de rehabilitació funcional. A l'alta la pacient persisteix amb lleu paràlisi facial, disfagia a líquids i discreta debilitat a extremitat inferior dreta pel que requereix caminador per deambular. NIHSS 3, Barthel 40, mRS 4.
+
+JUDICI CLÍNIC:
+AVC isquèmic al territori de l'ACM esquerra d'etiologia cardioembòlica (PACI) 434.11
+Fibril·lació auricular crònica Estenosi artèria vertebral esquerra Ateromatosi carotídia lleu
+
+TRACTAMENT:
+Dieta logopeda s/p Habitual
+Pradaxa 110mg 1-0-1, control f.renal cada 6 meses Valsartan 80mg 1-0-0
+Suspendre Vals 160mg
+Resta del seu tractament habitual sense canvis: multaq 400mg 1c/12h, pravastatina 10mg 1 c/24h, carduran neo 8mg 1c/12h, artedil 10mg 1c/24h, furosemida 40mg 1 c/24h, paracetamol 1g 1c/12h si precisa.
+
+Control dels factors de risc per part del metge de capçalera Citar Dr _NAME_ C.Ext NRL en 3 meses
+Atentament, Signat:
+Dr.: _NAME_	Dra. _NAME_
+Metge adjunt - Neurologia	Metge resident - Medicina Interna
+Número col·legiat: _ID_	Número col·legiat: _ID_
+
+Hospitalització
+Imprès: 27/07/2017 12:30
+Pàg.: 1 de  2

@@ -1,0 +1,64 @@
+T0	FECHA 323 333	10.12.2017
+#0	AnnotatorNotes T0	2017-12-10
+T1	HORA 334 339	00:50
+#1	AnnotatorNotes T1	00:50
+T2	Fecha_de_ingreso 391 401	07.12.2017
+#2	AnnotatorNotes T2	2017-12-07
+T3	SECCION_ANTECEDENTES 457 468	ANTECEDENTS
+T4	SECCION_ANTECEDENTES_PERSONALES 507 529	Antecedenes personales
+T5	SECCION_TRATAMIENTO_HABITUAL 621 639	MEDICACIÓ HABITUAL
+T6	SECCION_EXPLORACIONES_COMPLEMENTARIAS 839 864	EXPLORACIÓ COMPLEMENTÀRIA
+T7	_SUG_Lateralizacion 936 937	E
+T8	TAC_craneal 1184 1194	TC craneal
+T9	_SUG_Hemorragia_cerebral 1196 1204	hematoma
+T10	_SUG_Localizacion 1205 1210	lobar
+T11	_SUG_Localizacion 1211 1218	frontal
+T12	_SUG_Lateralizacion 1219 1228	izquierdo
+T13	_SUG_Localizacion 1239 1249	ventriculo
+T14	SECCION_EVOLUCION 1274 1290	EVOLUCIÓ CLÍNICA
+T15	_SUG_Lateralizacion 1559 1568	bilateral
+T16	_SUG_Lateralizacion 1641 1648	derecha
+T17	mRankin_previa 1770 1779	mRankin 2
+T18	Fecha_inicio_sintomas 1785 1789	7/12
+#18	AnnotatorNotes T18	2017-12-07
+T19	Hora_inicio_sintomas 1796 1801	05.30
+#19	AnnotatorNotes T19	05:30
+T20	HORA 1934 1939	11.10
+#20	AnnotatorNotes T20	11:10
+T21	_SUG_Lateralizacion 2055 2062	derecha
+T22	HORA 2103 2108	11.49
+#22	AnnotatorNotes T22	11:49
+T23	Hora_llegada_hospital 2179 2184	12.05
+#23	AnnotatorNotes T23	12:05
+T24	_SUG_Lateralizacion 2382 2389	derecha
+T25	_SUG_Lateralizacion 2455 2462	derecho
+T26	_SUG_Lateralizacion 2471 2480	izquierdo
+T27	NIHSS_previa 2482 2490	NIHSS 18
+T29	Hora_TAC_inicial 2503 2508	12.30
+#29	AnnotatorNotes T29	12:30
+T30	_SUG_TAC_craneal 2543 2553	TC craneal
+T31	_SUG_Hemorragia_cerebral 2555 2563	hematoma
+T36	_SUG_TAC_craneal 2849 2851	TC
+T37	_SUG_Hemorragia_cerebral 2935 2943	Hematoma
+T38	Localizacion 2944 2949	lobar
+T39	Localizacion 2950 2957	frontal
+T40	Lateralizacion 2958 2967	izquierdo
+T41	_SUG_TAC_craneal 3407 3417	TC craneal
+T42	_SUG_Hemorragia_cerebral 3457 3465	hematoma
+T43	_SUG_Lateralizacion 3846 3847	D
+T44	_SUG_Lateralizacion 3859 3868	izquierdo
+T45	Fecha_de_alta 4210 4225	10 de diciembre
+#45	AnnotatorNotes T45	2017-12-10
+T46	SECCION_DIAGNOSTICOS 4240 4262	ORIENTACIÓ DIAGNÒSTICA
+T47	Hemorragia_cerebral 4263 4273	Hemorragia
+T48	FECHA 4415 4425	27.12.2017
+#48	AnnotatorNotes T48	2017-12-27
+T49	Fecha_de_alta 4232 4237	00:45
+T50	SECCION_ANTECEDENTES_QUIRURGICOS 1603 1606	IQx
+#3	AnnotatorNotes T17	2
+T51	Fecha_llegada_hospital 1785 1789	7/12
+#4	AnnotatorNotes T51	2017/12/07
+T52	Fecha_TAC_inicial 1785 1789	7/12
+#5	AnnotatorNotes T52	2017/12/07
+#6	AnnotatorNotes T27	18
+T28	SECCION_EXPLORACIONES_COMPLEMENTARIAS 2535 2539	EECC

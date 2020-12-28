@@ -1,0 +1,132 @@
+_LOCATION_ Telf Consultes: _CONTACT_ / _CONTACT_
+Telf Centraleta Hospital: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 87 Anys
+NIF/DNI: _ID_Informe d'alta d'hospitalització
+10:00:00
+31.08.2017
+_LOCATION_
+_SS_ NEUROLOGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_
+DOMICIL/RES.SOC 24.08.2017
+_NAME_
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Vertigen.
+
+ANTECEDENTS
+-	Al·lèrgia a la penicil·lina.
+-	No hàbits tòxics.
+
+-	Hipertensió arterial.
+-	Nega dislipèmia ni diabetis mellitus.
+-	Malaltia renal crònica lleu.
+-	Reflux gastro-esofàgic.
+-	Sd.sec.
+-	Poliartrosi. Patologia manegot rotadors dret que interfereix la mobilitat proximal d'extremitat superior dreta.
+-	Vertigen perifèric posicional paroxístic en context de lesió timpànica.
+-	Deteriorament cognitiu, valorada a _SS_ de _LOCATION_. MMT 24/30, Blessed 7.5. GDS 5. En tractament amb rivastigmina des de 10/2016. La família creu que no hi ha hagut un clar benefici pel tractament.
+
+-	Situació basal: autònoma per a les activitats bàsiques de la vida diària a domicili. Deambula amb un bastó i caminador. Viu i és cuidadora principal del seu marit que és depenent i realitza programa d'hemodiàlisi. No tenen fills. Tenen nebots que els supervisen.
+
+MEDICACIÓ HABITUAL
+AAS 100mg/24h, Sutril (Torasemida) 5mg/24h, Besitran (Sertralina) 50mg/24h, Orfidal (Lorazepam) 1mg per la nit, Rivastigmina pegat 4.5mg/24h, Budesonida 100mcg si precisa.
+
+PROCÉS ACTUAL
+Dona de 87 anys que el dia 24/08/217 fou trobada a terra de domicili, al costat del llit. La pacient no recorda com va caure, però refereix que és possible que presentés vertigen posicional al llevar-se i caigués. Va presentar disàrtria i es va activar codi ictus. A la seva arribada a Urgències, la pacient es manté hemodinàmicament estable, conscient i orientada. A l'exploració física, destaca disàrtria lleu, vertigen posicional rotatori intens i buf carotidi dret. Es realitza TAC cranial urgent que descarta patologia aguda intracranial. ECG en ritme sinusal. ECOTSA mostra placa tova d'ateromatosi en caròtida dreta, sense estenosi significativa. Analítica sense alteracions significatives. Es manté antiagreagació. Donada la situació de base de la pacient, amb deterior cognitiu lleu-moderat i risc de caigudes, no seria tributaria de anticoagulació en cas de detecció de fibril·lació auricular, tampoc seria tributaria de endarterectomia per edat i risc quirúrgic. S'informa a la familia.
+
+Durant les següents hores en observació, la pacient presenta recuperació de la disàrtria i peristència del vertigen posicional, sent l'exploració normal en decúbit. Impressiona de vertigen perifèric posicional. Donada a la important discapacitat secundària al vertigen actual i que la pacient viu amb el seu marit depenent, es decideix ingrés a Neurologia per permetre planificació familiar.
+
+Informe d'alta d'hospitalització
+
+
+
+EXPLORACIÓ FÍSICA
+
+FC	55 bpm
+Tªaxi 36.0 ºC
+FR	rpm Tªrec  ºC
+TA s	170 mmHg SAT O2 99 %
+TA d   60 mmHg Pes Kg
+
+Bon estat general. Pal·lidesa cutània, normohidratada. Afebril. Eupneica a la parla.
+
+-	NRL: conscient, orientada, parla discretament disàrtrica, llenguatge conservat, PICNR, motilitat ocular extrínseca conservada. Campimetria normal. Parells cranials conservats. Força 5/5 en totes les extremitats. Sensibilitat conservada. A la incorporació del llit, presenta intens vertigen posicional rotatori sense nàusees, que cedeix amb el decúbit.
+-	AC: tons rítmics, no ausculto bufs ni frec. Buf carotidi dret.
+-	AR: bona entrada d'aire bilateral, sense sorolls patològics sobreafegits.
+-	ABD: tou i depressible, no dolorós a la palpació no masses ni megàlies.
+-	EEII: no edemes ni signes de TVP. Polsos pedis presents i simètrics.
+
+Exploració neurològica al alta: TA 150/63, FC 833ppm. Afebril. AC: tons rítmics. Sense focalitat neurològica. Lleu sensació vertiginosa amb els moviments cefàlics, que cedeixen facilment. Marxa amb caminador segons situació previa.
+
+EXPLORACIÓ COMPLEMENTÀRIA
+A/S Urgències (23/08/2017):
+-	Bioquímica: Creatina cinasa 142 U/L, Creatinina 0.61 mg/dL, Glucosa 103 mg/dL, K 3.8 mEq/L, Na 136 mEq/L, Urea 29 mg/dL.
+-	Hemostàsia: INR 1.16, TP 1.16, TTPA 1.0, Fibrinogen 511 mg/dL.
+-	Hemograma: Hemoglobina 13.8 g/dL, Hematòcrit 41.0 %, VCM 89.9 fL, CCMH  33.7 g/dL, HCM 30.3 pg, Leucòcits 11210/mL, (N 86.5 %, L 8.4 %), Plaquetes 158000/mL.
+-	GSV: pCO2 40.2 mmHg, pH 7.405, Bicarbonat efectiu 24.6 mmol/L, EB -0.1 mmol/L, Ió calci (II) 1.21 mmol/L, Na
+139.2 mEq/Lm, K 3.90 mEq/L, Clorur 103 mEq/L, Lactat 0.85 mmol/L, Glucosa 100 mg/dL, Bilirubina <2 mg/dL.
+Sediment d'orina (23/08/2017): Fosfats amorfs Abundants, Leucòcits 0-2 per camp. Anodí.
+
+ECG (23/08/2017):  ritme sinusal a 72 bpm, PR 0.16, QRS 0.08, sense alteracions agudes de la repolarització.
+
+Rxtòrax(23/08/2017):ICT>0.5, hilis prominents, sins costofrènics lliures, sense condensacions ni infiltrats intraparenquimatosos.
+
+TAC cranial urgent (23/08/2017): No s'observen lesions isquèmiques  ni hemorràgiques intra ni extraparenquimatoses agudes. Estructures de la línia mitja centrades. Cavum vergae (variant anatòmica). Dilatació dels solcs corticals amb lleu dilatació simètrica del sistema ventricular, troballes en relació amb atròfia cortico-subcortical. Cisternes de la base i perimesencefàliques lliures. Parènquima cerebral sense altres alteracions morfològiques ni en l'atenuació valorables. Fossa posterior sense alteracions. CONCLUSIÓ: Estudi sense evidència de patologia aguda intracranial. Canvis parenquimatosos involutius amb atròfia cortico-subcortical.
+
+Eco-doppler de troncs supraaòrtics (24/08/2017): Es practica estudi doppler de TSA. Presència de plaques d'ateroma significatives a ambdues bifurcacions carotídies. L'estudi de les velocitats arterials a l'esquerra demostra uns índex de resistència simètrics i dins de la normalitat. A nivell de l'ACI dreta s'objectiva una acceleració proximal i una manca de senyal Doppler immediatament cranial a la mesura esmentada, fet que suggereix una estenosi no
+
+Informe d'alta d'hospitalització
+
+
+
+
+crítica. S'identifiquen ambdues arteries vertebrals, permeables i de fluxe ascendent. CONCLUSIÓ: Estenosi a ACI dreta proximal.
+
+EVOLUCIÓ CLÍNICA
+Dona de 87 anys que ingressa a Neurologia per ictus minor en forma de disartria amb tendència a la ressolució espontània. A l'exploraicó destaca buf carotidi dret. En estudi etiològic, s'observa placa tova a caròtida dreta sense estenosi significativa. ECG seriats en ritme sinusal. Analítica sense alteracions destacables. Es manté antiagregació amb AAS.
+
+Per altra banda, presenta vertigen posicional perifèric, amb tendència a la milloria simptomàtica fins a restar lleu sensació vertiginosa amb els moviments cefàlics, autolimitada en segons. No ha precisat tractament farmacològic, ha millorat amb el repòs i les mesures posturals. Tolera sedestació. Realitza rehabilitació de la marxa, amb bona evolució. Al alta, recupera situació basal de deambulació amb caminador i autònoma per a les transferències.
+S'expliquen mesures posturals a domicili.
+
+Es decideix retirada de pegat de rivastigmina donat que la familia refereix poc benefici desprès de >6 mesos de tractament, i per tal de evitar els potencials efectes adversos secundaris.
+
+Els nebots han realitzat adaptació del domicili de la pacient i el seu marit, i han concertat suport domiciliari unes hores al dia.
+
+Donada la estabilitat clínica de la pacient es decideix alta a domicili. Control per Metge de Familia.
+
+DIAGNÒSTICS
+435.9/1 Ait isquemia cerebral transitoria Vertigen perifèric posicional.
+
+PROCEDIMENTS
+Analítica. ECG seriats. Rx tòrax. TAC cranial. Sediment orina.
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+AAS 100mg 1 comprimit al dia (dinar).
+Sutril (Torasemida) 5mg 1 comprimit al dia (esmorzar). Besitran (Sertralina) 50mg 1 comprimit al dia (esmorzar). Orfidal (Lorazepam) 1mg per la nit si precisa per insomni.
+
+STOP pegat de Rivastigmina. Budesonida aerosol 100mcg si precisa.
+
+CONTROL
+Control per Metge de Familia.
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+31.08.2017
+Pàgina 1 de 3

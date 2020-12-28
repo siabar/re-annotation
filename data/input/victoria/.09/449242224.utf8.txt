@@ -1,0 +1,147 @@
+_LOCATION_
+Telèfon: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 65 anys
+NIF/DNI: _ID__NAME_; _NAME_; _NAME_;
+_NAME_; _NAME_
+Informe de Trasllat a Sociosanitari
+CP	_LOCATION_
+ABS	_SS_
+Servei	NEUROLOGIA
+Data d'alta  05.12.2017	11:00:00
+_LOCATION_
+_CONTACT_; _CONTACT_
+DOMICIL/RES.SOC 13.11.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Ictus isquémico ACM derecha. Shock séptico de origen urinario.
+
+ANTECEDENTS
+No alergias medicamentosas conocidas. Situación basal: Deambula sin ayuda. IABVD. Hábitos tóxicos: Exfumador desde hace 10 años.
+
+Antecedentes médicos:
+-	HTA
+-	DM tipo 2 con buen control de HbA1c hasta Noviembre 2017. Última HbA1c 11.3% (previa en Junio por 6.9). En tratamiento con ADO.
+-	Dislipemia
+- Arteriopatía periférica con claudicación de EEII. Oclusión de aorta infra-renal, con recanalización en ambas AFC. En tramiento doble antiagregante. EDTSA (2012): sin alteraciones.
+-	Ambliopía OI.
+
+Antecedentes quirúrgicos:
+-	Prostatectomía radical (03/2017) por Adenocarcinoma de próstata con colostomía de descarga por lesión de la ampolla rectal. Incidencia de fístula vesico-rectal durante la cirugía. En seguimiento por Urología. Último PSA Nov'17 >0'05. RNM Octubre'17: Imagen de trayecto fistuloso que desde la pared posteroinferior derecha de la pared vesical se dirige hacia pared rectal anterior derecha ( 10 horas en paciente decúbito supino).Presenta un diámetro de 2.5 mm. CONCLUSION: Fístula vesico-rectal descrita
+
+MEDICACIÓ HABITUAL
+Duoplavin  75/100mg  (Clopidogrel+AAS)   0-1-0,  Enalapril+HCT  20/12.5mg  1-0-0,  Metformina  850mg  1-0-1, Simvastatina 20mg 0-0-1.
+
+PROCÉS ACTUAL
+Varón de 65 años que acude al S. de Urgencias por fiebre y malestar abdominal. A lo largo de su estancia el paciente se ha mantenido hipotenso. Se ha orientado como proceso infeccioso de foco urinario. Ha sido valorado por Urología y Cirugía que han recomendado colocación de sonda vesical para evitar el reflujo a través de la colostomía, antibioticoterapia con Amikacina y Piperacilina-Tazobactam.
+A las 4:00 h el paciente es visto asintomático. Sin embargo, aprox a las 6:15h se halla al paciente con hemiparesia I, por lo que se activa el protocolo Código Ictus. Clínica compatible con TACI de ACM derecha, NIHSS 20. Se realiza TC craneal sin hallazgos agudos y angioTAC donde no se evidencian defectos de repleción. Se decide administración de rtPA.
+Posteriormente destaca dificultad respiratoria progresiva con estridor y mal manejo de secreciones que obliga a IOT a su llegada a UCI. Tras tres días ingresado en la UCI, dada la estabilidad clínica se traslada a planta de hospitalización de Neurología, para completar estudio etiológico.
+
+Informe de Trasllat a Sociosanitari
+
+
+
+
+EXPLORACIÓ FÍSICA
+
+EF (URG): 37.2ºC (inicialmente 39ºC). TA: 105/60 mmHg. MEG. NRL: Somnoliento. Disartria. Comprende alguna orden sencilla. Desviación óculo-cefálica a la D. Ausencia de reflejo de amenaza en OI. Paresia facial central I. Plejia de ESI. Paresia 2/5 en EII. Babinski I. Anosognosia.
+NIHSS: 1-1-0-2-2-2-4-3-0-1-0-2-2 = 20; mRS 5
+AC: RsCsRs a 70 lpm.
+
+NRL (planta): buen nivel de consciencia, miradad centrada, rastreo ocular normal, no disatria, hemioparesia FBC izda, debilidad 4-/5 en EE izdas sin déficit sensitivo.
+
+EXPLORACIÓ COMPLEMENTÀRIA
+En S. Urgencias
+-- ECG: RS a 66 lpm
+-- Análisis de sangre: Gluc 322. U, Cr, Na, K Normales. PCR 98. Leucos 14.74 (90.2%N, 5.1%L), Hb 10.8. VCM y Plaq Normales. Hemostasia Normal.
+-- Sedimento urinario: >100 leucos/camp.
+-- TC craneal + angioTC (13/11/17): Estudio subóptimo por artefactos de movimiento respiratório y metálicos por protesis dental. Estructuras de la línea media centradas. Hipodensidades gangliobasal izquierda en probable relación a isquémia crónica. Dilatación moderada del sistema ventricular de forma global y simétrica. Prominencia de los surcos corticales, cisternas peritronculares y de la base craneal, en relación a cambios por atrofia. En estudio angioTC no se observan defectos de replección en poligono de Willis ni TSA. Calcificaciones en ambas carótidas internas. CONCLUSIÓN: No se aprecian lesiones de isquemia aguda por esta técnica en el momento actual. Infartos crónicos gangliobasales izquierdos.
+
+En UCI
+-- ECG: ritmo sinusal
+--  Análisis de sangre: gluc 326, urea 47, creat 0.95, Na 133.2, k 4.93, PCR 98.1, 9.222 leucos con neutrofilia, Hb
+11.8, INR 1.11, fibrinógeno 8.4. Gasometría venosa: normal
+-- Cultivo exudado balano-prepucial: bacteriologico - flora saprófica. Micológico - se aísla Candida glabrata.
+-- Sedimento: >100 leucos por campo, 6-10 eritrocitos.
+-- Rx tórax: no se observan condensaciones, senos costofrénicos libres, no cardiomegalia
+-- TAC craneal (14-11-17): Hipodensidades de la circonvolución precentral y en el lóbulo de la ínsula derechos, así como del n- lenticular, brazo anterior del cápsula interna y caudado superior, territorios de las ramas terminales y centrales de la ACM derecha. No se observan signos de hemorragia. Estructuras de la línea media centradas. Sistema ventricular de morfología y tamaño normal y simétrico. Resto de los surcos corticales, cisternas peritronculares y de la base craneal sin alteraciones. CONCLUSION: Infarto isquémico agudo en el territorio de la ACM derecha, sin signos de transformación hemorrágica.
+
+En planta de Neurología
+-- Rx tórax: Sin claras condensaciones, ni pinzamiento de senos costofrénicos. Similar a la anterior.
+-- Hemocultivo: Negativo
+-- Urocultivo positivo para cándida galabrata. No disponemos de antibiograma.
+-- Estudio neurosonológico:
+Dúplex TSA: leve ateromatosis en ambos ejes carotídeos sin repercusión hemodinámica, ACC's, ACI's y
+
+Informe de Trasllat a Sociosanitari
+
+
+
+
+ACE's con velocidades normales. Flujo anterógrado de AAVV en su trayecto extracraneal.
+Dúplex TC: buena ventana bilateral. Se insonan ambas ACM, ACA y ACP (P1 y P2) sin aceleraciones. A través de la ventana suboccipital se detectan AAVV y AB hasta 9 mm.
+CONCLUSIÓN: leve ateromatosis carotídea sin repercusión hemodinámica.
+-- Ecocardiografía-TT: VI no dilatado, con hipertrofia concéntrica ligera y función sistólica buena. Disfunción diastólica (patrón de mala relajación). AI ligeramente dilatada. Insuficiencia mitral ligera funcional. Hipertensión pulmonar ligera.
+-- Telemetría (> 72 horas): sin arritmias embolígenas.
+-- Cultivo de esputo: Pendiente al alta.
+
+EVOLUCIÓ CLÍNICA
+Paciente de 65 años ingresado en NRL por ictus isquémico tratado con fibrinólisis, en contexto de sepsis de origen urinario por Klebsiella pneumoniae. Se administra antibioterapia con Cefotaxima 2g/6h iv durante 10 días, a pesar de lo cual persiste fiebre hasta 38.3ºC. Hemocultivos pdtes. En el urocultivo se aísla Candida glabrata. Solicitamos valoración por UFIN para manejo y por recomendación de dicho servicio, se sustituye Cefotaxima por
+Piperacilina-Tazobactam iv. También informan que el hallazgo de Candida en el urocultivo no suele ser responsable de fiebre. Se retiró vía periférica por sospecha de flebitis.
+Dado el antecedente de adenocarcinoma de próstata intervenido en marzo '17 mediante prostatectomía radical, con complicaciones durante el procedimiento (lesión de ampolla rectal por lo que es portador de colostomía de descarga; y fístula entero-vesical), consultamos con el S. Urología para considerar fístula como posible foco febril, pdte de valoración. Es portador de sonda vesical con buena diuresis.
+Ha presentado tos productiva y cierta dificultad respiratoria que ha mejorado notablemente con nebulizaciones de Atrovent+N-acetilcisteína; la auscultación pulmonar es normal.
+Durante la hospitalización mantiene HTA en torno a 150/80 mmHg, buena saturación con oxigenoterapia. Tolera vía oral y sedestación.
+En la última neuroimagen se visualiza la lesión isquémica en territorio de ACM derecha. Estudio vascular mediante dúplex TSA y TC sin evidencia de estenosis arteriales. Telemetría sin registrar arritmias embolígenas.
+Ecocardio-TT no demuestra cardiopatía embolígena.
+Presenta inquietud psicomotora nocturna que mejora con la administración de Quetiapina; por la mañana tendencia a somnolencia a pesar de administrarse una dosis muy baja del antipsicótico (12.5 mg). También hipotimia reactiva a su estado de salud, se comienza terapia antidepresiva con Sertralina tras valoración por PSQ. En la exploración se objetiva disartria comprensible, parálisis facial central izquierda y hemiparesia izquierda de predominio crural, con imposibilidad para la marchaq. NIHSS 3, mRS 4.
+Inicia RHB en la habitación.
+Consideramos convalecencia en _SS_, que se solicita.
+
+A la espera de admisión en dicho centro, comienza su convalescencia en USS de _SS_.
+
+DIAGNÒSTICS
+599.0/1 Infecció urinària  038.9/2 Bacteriemia amb sepsia
+434.01/1 Avc trombosi arteries cerebrals amb infart cerebral
+401.9 Hipertensió essencial inespecificada
+250.00 Diabetis mellitus II sense complicació, controlada
+
+Informe de Trasllat a Sociosanitari
+
+
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+OMEPRAZOL 20 mg caps  20 mg E-AA OR 27/11/2017, 11 -- 06d   S
+INSUL GLULISINA 100 UI/ml 3 ml pluma precargada (Apidra)  * UI EDSSG SC 18/11/2017, 21 --  06d  S
+< 120: 0 UI 120-150: 2UI 150-200: 4 UI 200-250: 6 UI 250-300: 8 UI > 300: 10 UI
+INSUL GLARGINA SOLOSTAR 100 UI/ml 3 ml xer (Lantus Solostar) 14 UI S SC 28/11/2017, 10 --  06d  S METFORMINA 850 mg comp  850 mg ES OR 20/11/2017, 11 -- 06d   S
+ENOXAPARINA 40 mg/0,4 ml xeringa 40 mg A20 SC 17/11/2017, 18 --  06d  S CLOPIDOGREL 75 mg comp  75 mg E OR 20/11/2017, 11 -- 06d  S ACETILSALICILIC ACID 100 mg comp  100 mg D OR 20/11/2017, 11 -- 06d  S HIDROCLOROTIAZIDA 25 mg comp  12.5 mg E OR 20/11/2017, 10 --  06d  S ENALAPRIL 20 mg comp  20 mg E OR 17/11/2017, 18 --  06d  S SIMVASTATINA 10 mg comp  20 mg S OR 20/11/2017, 10 -- 06d  S
+PIPERACIL·LINA+TAZOBACTAM 4+0,5 g vial 4 g 8 PIV 27/11/2017, 10 -- 06d  S metAMIzol (DIPIRONA) 575 mg caps  575 mg 8ASP OR 27/11/2017, 11 -- 06d  S
+Si persiste dolor o fiebre a pesar de paracetamol.
+PARACETAMOL 1 g comp  1000 mg 8SP OR 27/11/2017, 11 -- 06d   S HALOPERIDOL 5 mg/1 ml amp 2.5 mg SP SC 21/11/2017, 13 --  06d   S
+Si no efectivo se puede repetir dosis.
+QUETIAPINA 25 mg comp  12.5 mg A23 OR 22/11/2017, 12 -- 06d   S
+cloMETIazol 192 mg caps  192 mg SP OR 22/11/2017, 12 -- 06d   S Si insomnio a pesar de Quetiapina.
+IPRATROPI BROMUR 250 mcg/1 ml sol nebul 250 mcg 6 NEB 24/11/2017, 12 --  06d  S ACETILCISTEINA 300 mg/3 ml amp  300 mg 8 NEB 24/11/2017, 12 -- 06d  S
+
+MESURES NO FARMACOLOGIQUES: - Dieta: blanda sin sal y diabética - Reposo. sentar M y T. - Oxígeno en gafas - Control de ctes / 8 h - BM-test De-Co-Ce
+
+CONTROL
+Solicito visita de seguimiento en urolgoía del _SS_.
+Solicitamos primera visita en CEX de neurología para seguimiento, en el plazo aproximado de 3 meses.
+
+DESTINACIÓ A L'ALTA:	SOCI SANITARI
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+05.12.2017
+Pàgina 1 de 4

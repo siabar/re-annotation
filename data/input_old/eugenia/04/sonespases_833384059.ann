@@ -1,0 +1,107 @@
+T1	Hemorragia_cerebral 65 73	Hematoma
+T2	Lateralizacion 94 103	izquierdo
+T3	_SUG_Tratamiento_anticoagulante 134 146	acenocumarol
+T4	_SUG_Etiologia 208 220	hipertensiva
+T5	_SUG_Ictus_isquemico 256 261	ICTUS
+T6	_SUG_Ictus_isquemico 323 328	Ictus
+T7	mRankin_previa 440 445	mRS 0
+T8	_SUG_Tratamiento_anticoagulante 521 533	acenocumarol
+T9	FECHA 616 624	16/10/14
+#9	AnnotatorNotes T9	2014-10-16
+T10	_SUG_Localizacion 627 637	ventrículo
+T11	_SUG_Lateralizacion 638 647	izquierdo
+T12	_SUG_Lateralizacion 1179 1188	bilateral
+T13	FECHA 1192 1196	2006
+#13	AnnotatorNotes T13	2006-UNDEF-month-UNDEF-day
+T14	FECHA 1229 1233	2011
+#14	AnnotatorNotes T14	2011-UNDEF-month-UNDEF-day
+T16	Tratamiento_anticoagulante_hab 1263 1275	Acenocumarol
+T18	Fecha_inicio_sintomas 1489 1499	27/12/2017
+#18	AnnotatorNotes T18	2017-12-27
+T19	Hora_inicio_sintomas 1506 1511	12.20
+#19	AnnotatorNotes T19	12:20
+T20	_SUG_Lateralizacion 1688 1696	derechas
+T21	_SUG_Ictus_isquemico 1906 1911	Ictus
+T22	_SUG_Lateralizacion 2389 2396	derecha
+T23	_SUG_Lateralizacion 2425 2432	derecha
+T24	_SUG_Localizacion 2474 2483	posterior
+T25	_SUG_Lateralizacion 2658 2665	derecha
+T26	NIHSS_alta 2738 2787	NIHSS total: 9 puntos [4-2, 5b-3, 6b-2, 8-1, 10-1
+T27	FECHA 3272 3282	28/12/2017
+#27	AnnotatorNotes T27	2017-12-28
+T28	FECHA 3670 3680	05/01/2018
+#28	AnnotatorNotes T28	2018-01-05
+T29	_SUG_Etiologia 4049 4061	hipertensiva
+T30	_SUG_Hemorragia_cerebral 4072 4083	hemorragias
+T32	TAC_craneal 4226 4237	TAC cerebro
+T33	Fecha_TAC_inicial 4252 4260	27/12/17
+#33	AnnotatorNotes T33	2017-12-27
+T34	_SUG_Hemorragia_cerebral 4288 4296	Hematoma
+T35	Localizacion 4317 4323	tálamo
+T36	Localizacion 4325 4335	lenticular
+T37	_SUG_Lateralizacion 4336 4345	izquierdo
+T38	_SUG_Localizacion 4519 4527	parietal
+T39	_SUG_Localizacion 4537 4548	ventricular
+T40	_SUG_Localizacion 4624 4633	posterior
+T41	_SUG_Hemorragia_cerebral 4687 4695	Hematoma
+T42	_SUG_TAC_craneal 4721 4723	TC
+T43	FECHA 4750 4760	03-01-2018
+#43	AnnotatorNotes T43	2018-01-03
+T44	FECHA 4789 4799	27/12/2017
+#44	AnnotatorNotes T44	2017-12-27
+T45	_SUG_Hemorragia_cerebral 4828 4836	hematoma
+T46	_SUG_Localizacion 4857 4863	tálamo
+T47	_SUG_Localizacion 4865 4875	lenticular
+T48	_SUG_Lateralizacion 4876 4885	izquierdo
+T49	_SUG_TAC_craneal 5083 5085	TC
+T50	FECHA 5112 5122	18-01-2018
+#50	AnnotatorNotes T50	2018-01-18
+T51	_SUG_Hemorragia_cerebral 5124 5132	Hematoma
+T52	_SUG_Localizacion 5136 5152	ganglios basales
+T53	_SUG_Lateralizacion 5153 5163	izquierdos
+T54	_SUG_Hemorragia_cerebral 5280 5288	hematoma
+T55	_SUG_Ictus_isquemico 5429 5434	Ictus
+T56	_SUG_Tratamiento_anticoagulante 5537 5549	acenocumarol
+T57	_SUG_Localizacion 5605 5614	posterior
+T58	HORA 5669 5670	6
+#58	AnnotatorNotes T58	06:00
+T59	FECHA 6338 6348	19/01/2017
+#59	AnnotatorNotes T59	2017-01-19
+T60	_SUG_Lateralizacion 6538 6545	derecha
+T61	_SUG_Lateralizacion 6583 6590	derecha
+T62	_SUG_Lateralizacion 6712 6722	izquierdas
+T63	_SUG_Lateralizacion 6740 6747	derecha
+T64	_SUG_NIHSS 6843 6846	NIH
+T65	_SUG_Lateralizacion 6913 6918	Ambas
+T66	_SUG_Lateralizacion 6952 6957	Ambas
+T67	_SUG_Lateralizacion 7139 7148	izquierdo
+T68	_SUG_Lateralizacion 7176 7183	derecha
+T69	_SUG_Lateralizacion 7211 7220	izquierda
+T71	_SUG_mRankin 7493 7496	mRS
+T72	_SUG_Localizacion 7521 7528	parcial
+T73	_SUG_TAC_craneal 7563 7566	TAC
+T74	_SUG_Hemorragia_cerebral 7615 7623	hematoma
+T75	_SUG_Tratamiento_anticoagulante 7796 7808	acenocumarol
+T77	_SUG_Tratamiento_anticoagulante 8061 8073	acenocumarol
+T78	_SUG_Tratamiento_anticoagulante 8075 8082	Sintrom
+T79	_SUG_Etiologia 8107 8115	habitual
+T80	SECCION_DIAGNOSTICOS 32 44	DIAGNOSTICOS
+T81	SECCION_MOTIVO_DE_INGRESO 230 248	MOTIVO DE CONSULTA
+T82	SECCION_PROCEDIMIENTOS 285 299	PROCEDIMIENTOS
+T83	SECCION_ANTECEDENTES_PERSONALES 360 383	ANTECEDENTES PERSONALES
+T84	SECCION_SITUACION_FUNCIONAL 416 431	Situación basal
+T85	SECCION_ANTECEDENTES_PATOLOGICOS 448 472	ANTECEDENTES PATOLÓGICOS
+T86	SECCION_TRATAMIENTO_HABITUAL 1239 1259	Tratamiento habitual
+T87	SECCION_PROCESO_ACTUAL 1402 1419	ENFERMEDAD ACTUAL
+T88	SECCION_EXPLORACION_FISICA_EN_URGENCIAS 2061 2082	EXPLORACIÓN URGENCIAS
+T89	SECCION_EXPLORACIONES_COMPLEMENTARIAS 2971 3000	EXPLORACIONES COMPLEMENTARIAS
+T90	SECCION_EXPLORACIONES_COMPLEMENTARIAS_EN_PLANTA_DE_NEUROLOGIA 3253 3270	Analítica ingreso
+T92	SECCION_EVOLUCION 5359 5381	EVOLUCIÓN HOSPITALARIA
+T93	SECCION_RECOMENDACIONES 8026 8046	INDICACIONES AL ALTA
+T15	mRankin_alta 7493 7507	mRS al alta: 2
+#1	AnnotatorNotes T15	2
+#3	AnnotatorNotes T7	0
+T17	SECCION_ANTECEDENTES_QUIRURGICOS 1153 1155	IQ
+#4	AnnotatorNotes T26	9
+T31	NIHSS_alta 7486 7491	NIH:6
+#5	AnnotatorNotes T31	6

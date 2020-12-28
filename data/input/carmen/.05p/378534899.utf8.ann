@@ -1,0 +1,108 @@
+T0	FECHA 256 266	07.06.2017
+#0	AnnotatorNotes T0	2017-06-07
+T1	HORA 267 272	15:30
+#1	AnnotatorNotes T1	15:30
+T2	FECHA 322 332	31.05.2017
+#2	AnnotatorNotes T2	2017-05-31
+T3	SECCION_MOTIVO_DE_INGRESO 393 407	MOTIU D'INGRÉS
+T4	SECCION_ANTECEDENTES 423 434	ANTECEDENTS
+T5	_SUG_mRankin 441 444	mRS
+T6	FECHA 603 607	2016
+#6	AnnotatorNotes T6	2016-UNDEF-month-UNDEF-day
+T7	SECCION_ANTECEDENTES_QUIRURGICOS 763 765	IQ
+T8	SECCION_TRATAMIENTO_HABITUAL 898 916	MEDICACIÓ HABITUAL
+T9	_SUG_Tratamiento_antiagregante 917 922	Adiro
+T10	SECCION_PROCESO_ACTUAL 1075 1088	PROCÉS ACTUAL
+T11	HORA 1267 1272	20:30
+#11	AnnotatorNotes T11	20:30
+T12	HORA 1416 1421	23:17
+#12	AnnotatorNotes T12	23:17
+T13	_SUG_Trombolisis_intravenosa 1603 1628	tratamiento fibrinolítico
+T14	HORA 1646 1648	00
+#14	AnnotatorNotes T14	00:00
+T15	HORA 1651 1655	4:30
+#15	AnnotatorNotes T15	04:30
+T16	SECCION_EXPLORACION_FISICA 2073 2090	EXPLORACIÓ FÍSICA
+T17	_SUG_NIHSS 2318 2358	NIHSS: 1+2+0+2+0+2+3+0+0+2+2+0: total 14
+T18	SECCION_EXPLORACIONES_COMPLEMENTARIAS 2360 2385	EXPLORACIÓ COMPLEMENTÀRIA
+T19	FECHA 2410 2420	30/05/2017
+#19	AnnotatorNotes T19	2017-05-30
+T20	FECHA 2588 2597	2/06/2017
+#20	AnnotatorNotes T20	2017-06-02
+T21	HORA 2651 2655	4.50
+#21	AnnotatorNotes T21	04:50
+T22	HORA 2898 2900	24
+#22	AnnotatorNotes T22	24:00
+T23	_SUG_Localizacion 2945 2955	Ventrículo
+T24	_SUG_Lateralizacion 2956 2965	izquierdo
+T25	_SUG_Lateralizacion 3143 3152	izquierda
+T26	_SUG_Localizacion 3196 3206	Ventrículo
+T27	_SUG_Lateralizacion 3207 3214	derecho
+T28	_SUG_Lateralizacion 3255 3262	derecha
+T29	_SUG_Localizacion 3742 3748	Tronco
+T30	_SUG_Lateralizacion 4016 4025	izquierda
+T31	_SUG_TAC_craneal 4079 4091	TC de cráneo
+T32	FECHA 4100 4110	30/05/2017
+#32	AnnotatorNotes T32	2017-05-30
+T33	_SUG_Lateralizacion 4169 4180	bilaterales
+T34	_SUG_Localizacion 4242 4253	ventricular
+T35	_SUG_Localizacion 4283 4294	ventricular
+T36	_SUG_Localizacion 4427 4437	cerebelosa
+T37	_SUG_Localizacion 4519 4526	frontal
+T38	_SUG_Trombolisis_intravenosa 4641 4650	trombosis
+T39	_SUG_TAC_craneal 4678 4690	TC de cráneo
+T40	FECHA 4719 4728	1/06/2017
+#40	AnnotatorNotes T40	2017-06-01
+T41	_SUG_Localizacion 4771 4779	profunda
+T42	_SUG_Localizacion 4909 4925	ganglios basales
+T43	_SUG_Lateralizacion 4926 4937	bilaterales
+T44	_SUG_Localizacion 4950 4961	ventricular
+T45	_SUG_Localizacion 4991 5002	ventricular
+T46	_SUG_Localizacion 5135 5145	cerebelosa
+T47	_SUG_Localizacion 5228 5235	frontal
+T48	FECHA 5341 5350	5/06/2017
+#48	AnnotatorNotes T48	2017-06-05
+T49	_SUG_Localizacion 5442 5450	profunda
+T50	_SUG_Localizacion 5453 5464	subcortical
+T51	_SUG_Lateralizacion 5468 5473	ambos
+T52	_SUG_Localizacion 5771 5782	ventricular
+T53	_SUG_Lateralizacion 5890 5895	ambos
+T54	_SUG_Arteria_afectada 6052 6067	arteria basilar
+T55	_SUG_Lateralizacion 6123 6130	derecho
+T56	_SUG_Lateralizacion 6197 6202	ambos
+T57	_SUG_Arteria_afectada 6312 6327	arteria basilar
+T58	_SUG_Lateralizacion 6379 6386	derecho
+T59	_SUG_Lateralizacion 6501 6506	ambos
+T60	_SUG_Arteria_afectada 6565 6589	arteria carótida externa
+T61	_SUG_Lateralizacion 6590 6599	izquierda
+T62	_SUG_Lateralizacion 6601 6606	Ambas
+T63	_SUG_Arteria_afectada 6607 6627	arterias vertebrales
+T64	_SUG_TAC_craneal 6704 6706	TC
+T65	SECCION_EVOLUCION 6829 6845	EVOLUCIÓ CLÍNICA
+T66	_SUG_Arteria_afectada 6932 6935	ACM
+T67	_SUG_Lateralizacion 6936 6945	izquierda
+T68	_SUG_Localizacion 6947 6951	TACI
+T69	_SUG_Trombolisis_intravenosa 7008 7033	tratamiento fibrinolítico
+T70	_SUG_NIHSS 7148 7155	NIHSS 0
+T71	_SUG_mRankin 7157 7162	mRS 3
+T72	_SUG_TAC_craneal 7168 7180	TC de cráneo
+T73	_SUG_Arteria_afectada 7761 7776	arteria basilar
+T74	_SUG_Arteria_afectada 7855 7879	arteria carótida externa
+T75	_SUG_Lateralizacion 7880 7889	izquierda
+T76	_SUG_Lateralizacion 8045 8054	izquierda
+T77	_SUG_Arteria_afectada 8503 8518	arteria basilar
+T78	SECCION_DIAGNOSTICOS 8634 8645	DIAGNÒSTICS
+T79	_SUG_Ictus_isquemico 8664 8679	Ictus isquémico
+T80	_SUG_Arteria_afectada 8698 8701	ACM
+T81	_SUG_Lateralizacion 8702 8711	Izquierda
+T82	_SUG_Trombolisis_intravenosa 8733 8746	fibrinollisis
+T83	_SUG_Arteria_afectada 8813 8828	arteria basilar
+T84	SECCION_PROCEDIMIENTOS 8831 8843	PROCEDIMENTS
+T85	_SUG_TAC_craneal 8885 8888	TAC
+T86	SECCION_TRATAMIENTO_Y_RECOMENDACIONES_AL_ALTA 9136 9171	TRACTAMENT I RECOMANACIONS A L'ALTA
+T87	_SUG_Tratamiento_antiagregante 9240 9245	Adiro
+T88	_SUG_Tratamiento_antiagregante 9291 9302	Clopidogrel
+T89	SECCION_CONTROL 9615 9622	CONTROL
+T90	SECCION_DESTINO_AL_ALTA 9813 9832	DESTINACIÓ A L'ALTA
+T91	FECHA 9886 9896	07.06.2017
+#91	AnnotatorNotes T91	2017-06-07

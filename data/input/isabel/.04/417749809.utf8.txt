@@ -1,0 +1,124 @@
+_SS_
+_LOCATION_)  Tlf. _CONTACT_
+INFORME ALTA HOSPITALITZACIÓNHC	_ID_	Pacient	_NAME_	
+CIP	_ID_	Data Naix.   _DATE_	Edat 80	Sexe Home	NASS	_ID_
+Adreça   _LOCATION_	CP	_LOCATION_
+Població_LOCATION_	Tel.	_CONTACT_
+Episodi  _ID_	Admissió	06.09.2017 18:03	Alta	18.09.2017 14:50
+Servei	NEUUO_SS_ Neurologia	Unitat	U04UHHBL
+
+DIAGNÒSTIC ALTA
+
+Codi ICD-9	Descripció Diagnòstic
+434.91/5	AVC ISQUEMIC
+
+DADES INFORME
+
+Paciente de 80 años que es traído nuestro centro por el SEM por crisis comicial.
+
+Enfermedad actual:
+
+El dia 5-9-17 por la tarde, estando aparentemente bien, el paciente llega a casa, se tumba en el sofá y a partir de ahí no responde a su mujer, no habla y posteriormente según ella y otro testigo presenta movimientos tónico clónicos.
+
+Antecedentes
+
+No alergias medicamentosas conocidas. No hábitos tóxicos.
+-	HTA
+-	DL
+-	EPOC en tto. con atrovent
+-	Ictus isquémico en 04/2012 en territorio de ACMI. La RM mostró una lesión isquémica subaguda subcortical en territorio de la ACMI y una zona residual temporo-parietal izquierda con restos de hemosiderina. Estudio vascular, monitorización ECG, ETT y ETE no mostró alteraciones.
+
+-	Episodio de Afasia en 09/2012 que dada la ausencia de lesiones en difusion en la RM con una duración de síntomas superior a 24 h, se orienta como poco probable de origen isquémico. Lo estereotipado de los episodios podría orientar a fenomenos de tipo comicial o irritativo. El paciente presenta lesiones corticales, especialmente una lesión con restos de hemosiderina, que podrían explicarlo. El EEG no ha demostrado actividad epileptiforme y sólo irritabilidad inespecífica. Para cubrir esta posibilidad se inicia tratamiento con gabapentina. Último control CCEE NRL estable con nueva cita en 11/2017.
+
+-	Adenocarcinoma colon con hemicolectomia derecha mediante cirugía abierta clasificándolo como qT3N0M0, R0
+
+++Tratamiento habitual (receta electronica): Dutasteride 0.5mg/24h., Adiro 100mg/24h., Omeprazol 20mg/24h., Spiriva
+18mcg/24h., Atorvastatina 80mg/24h., Capenon (olmesartan medoximil) 40/5mg/24h.
+
+++Valoración sociofuncional: Paciente con hasta ahora FFSS conservadas y autónomo para ABVD
+
+Exploracion física
+
+Consciente, algunos sonidos, no responde a órdenes, mirada centrada, no evidente hemianopsia por amenaza, moviliza miembros de forma simétrica, no evidente déficit motor. No hemihipoestesia. NIHSS  7
+
+ACV: ruidos cardiacos rítmicos. AR:MVC. Abdomen blando y depresible, no doloroso, no masas
+
+Exploraciones complementarias
+
+- AG URG: Leucocitos 10360 (N: 64%), Hb: 16.2, Hto: 50%, PQT: 230000, Coagulación TP: 91%, INR: 1.06, TTPA
+0.9, Glucosa: 164, Cr: 46, FG: >90, Urea: 6.3, Na: 142, K: 3.7
+
+AG 7-9-17: L 12.7, VSg 6, Hto 44%, plq 273, PCR 8.8 mg/L, Na 144, K 4.4, urea 7 FG >90, Cr 44, trigliceridos 79 mg/dl, colesterol 132 mg/dl, HDL 32 mg/dl, LDL 84 mg/dl, Glucosa 111 mg/dl, INR 1. Perfil hepatico normal.
+AG 13-9-17: L 9.02, hto 40%, plq 207, Glucosa 95 mg/dl, Cr 28, FG>90. urea 5. Na 139, K 4.1, PCR 51 mg/L. TSH normal
+ANAs 1/160 patron moteado. Anticitoplasmaticos no se detectan. FR negativo
+Serologias negativas
+
+Sedimento : 1-3 leucos. Hematies 50. UC negativo
+
+-	ECG: RS. 100 lpm. Eje -30º. PR: 0.24. QRS: 0.04. QTc normal. Sin alteraciones en la repolarización
+
+-	TC Craneal: Cisternas basales y peritronculares libres. No se observan desviaciones valorables de las estructuras la línea media. Discreta dilatacion del sistema ventricular de forma bilateral y simétrica, proporcionada al aumento de tamaño de los surcos aracnoideos, en relación con atrofia global. Lesion isquemica cronica en sustancia blanca de centro semioval izquierdo y gangliobasales. Hipodensidades difusas que afectan a la sustancia blanca subcortical y periventricular de ambos hemisferios cerebrales, en probable relacion con aresa de desmielinizacion de origen hipoxico-isquemico cronico. No se aprecian colecciones hemáticas intra ni extraaxiales. No se aprecian alteraciones a nivel de las estructuras óseas.
+
+Angio-TC: No hay variantes anatómica ni estenosis valorable en origen de troncos supraaórticos.
+Placas calcificadas en cayado de la aorta. Pequeñas calcificaciones en bulbos carotídeos sin estensois valorables. Trayecto cervical e intracraneal de arterias carótidas primitivas sin estenosis valorables. Hay placa calcificada en ACI derecha. Arterias vertebrales y tronco basilar normal. Origen fetal de arterias cerebrales posteriores.
+Arterias cerebrales medias y anteriores normales. No hay captaciones patológicas del contraste a nivel intracraneal. Derrame pleural y atelectasias compresivas basales.
+
+Ecocardiograma transtorácico con contraste:
+
+-	Ventricle esquerre lleugerament hipertròfic, no dilatat, FE 55-60%, i sense alteracions aparents de la motilitat segmentària. Alteració diastòlica tipus I.
+-	Ventricle dret d'aspecte no dilatat i normocontràctil.
+-	Arrel aòrtica i aorta ascendent lleugerament dilatades.
+-	Aurícula esquerra severament dilatada.
+-	Insuficiència aòrtica lleugera.
+-	Insuficiència mitral que no sembla més que lleugera-moderada.
+-	
+- Hipertensió pulmonar moderada-important.
+
+RM craneal:
+IV ventrículo centrado y de tamaño normal. Cisternas basales y perimesencefalicas libres.
+Sistema ventricular supratentorial centrado en linea media y ligeramente aumentado de tamaño , sin signos de actividad . Cisuras silvianas y surcos de la convexidad cerebral ensanchados de forma proporcionada .
+Lesión focal temporal izquierda que afecta el uncus izquierdo que muestra hiperseñal en T2 , FLAIR y difusión con restricción de la misma y que corresponde a infarto isquémico en fase subaguda en territorio de ACP izquierda
+Se identifican infartos lacunares crónicos hemiprotuberancial anterior derecho , talámicos bilaterales ( territorio de perforantes de la circulación posterior ), lenticulares bilaterales , caudado derecho y coronas radiadas (territorio de perforantes de circulación anterior ).
+Infarto isquémico crónico parietal posterior izquierdo , cortico-subcortical con halo hipointenso en T2 y especialmente en GRET2 por restos de sangrado crónico , en territorio de ACM izquierda .
+Pequeño foco de isquemia crónica yuxtaventricular frontal izquierdo
+En las secuencias T2 y Flair se identifican lesiones hiperintensas en forma de bandas periventriculares y algunas puntiformes aisladas en sustancia blanca profunda , que corresponden a áreas de desmielinización por hipoxia
+-isquemia crónica.
+Se identifican también en la secuencia T2* un foco puntiforme hipointenso de microhemorragiacrónica en núcleo basal derecho No se objetivan otras alteraciones valorables en el resto de parénquima cerebral, cerebeloso ni tronco del encéfalo. Charnela occipito-raquídea sin alteraciones. Imagen nodular en seno maxilar izquierdo
+
+EEG: Trazado anormal por lentificación generalizada de la actividad de base, más marcada sobre hemisferio izquierdo y por presencia de actividad epileptiforme frontotemporal izquierda.
+
+
+Evolución
+
+Se trata de un paciente de 80 años con antecedentes de ictus isquémico de ACM izquierda y posibles crisis comiciales focales secundarias en forma de afasia. Sin episodios desde 2012.
+Acude por aparentemente nuevo episodio de afasia y en esta ocasión se han observado una crisis generalizada. El paciente no recuerda el episodio. Se ha realizado un EEG que ha mostrado actividad epileptiforme frontotemporal izquierda, iniciándose tratamiento con levetirazetam. La RM craneal ha mostrado una zona de restricción de difusión que afecta a hipocampo izquierdo e hiperintensidad insular que plantea el diagnostico diferencial entre isquemia aguda o cambios de señal en relación a actividad epileptica. Se completa estudio vascular mediante angioTC TSA y transcraneal que no muestra alteraciones relevante y un ecocardiograma transtorácico que no muestra fuentes cardioembolicas mayores. Se cambia tratamiento antiagregante a clopidogrel.
+
+Desde el punto de vista neurologico durante el ingreso el paciente ha evolucionado favorablemente con recuperación del lenguaje, presentado en el momento del alta una leve desorientación temporal.
+
+Como incidencias el paciente ha presentado un cuadro de flebitis importante en el brazo derecho con leve repercusión analítica por lo que se ha iniciado tratamiento antibiótico con amoxicilina/clavulanico. Dos pares de Hemocultivos han sido negativos. Tambien se ha observo una artritis probablemente microcristalinapor la que se ha iniciado tratamiento con dosis bajas de prednisona en pauta descendente.
+Tendra control en consulta de neurovascular en fecha ya previamente programada. Se realizará RM de control ambulatoria. Se solicita consulta con Reumatología.
+
+
+Pauta al alta
+
+Se cambia AAS por clopidogrel
+Se inicia levetiracetam 1000 mg 1 comprimido cada 12h
+Augmentine 875/125 mg 1 comprimido cada 8 horas hata el 21-9-17 incluido
+Prednisona 5 mg, 3 comprimidos durante 3 días, 2 comprimidos durante 3 días, 1,5 comprimidos durante 3 días, 1 comprimido durante 3 días y acabar.
+Resto de tratamiento habitual sin cambios
+
+
+
+Tipus d'ingrés: Motiu d'alta:	Urgent Alt.Mèd.Domicil	
+Metge Adjunt:
+_ID_
+Servei:	_NAME_
+
+NEUUO_SS_ Neurologia	Nº Col·legiat Adjunt:
+
+Data informe:  18.09.2017
+
+
+Pàgina 1 de	4
+Data i hora d'impressió:
+18.09.2017 15:48:26

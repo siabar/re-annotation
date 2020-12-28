@@ -1,0 +1,54 @@
+T0	FECHA 234 244	04.10.2017
+#0	AnnotatorNotes T0	2017-10-04
+T1	HORA 245 250	17:10
+#1	AnnotatorNotes T1	17:10
+T2	FECHA 256 266	06.10.2017
+#2	AnnotatorNotes T2	2017-10-06
+T3	HORA 267 272	14:38
+#3	AnnotatorNotes T3	14:38
+T4	SECCION_DIAGNOSTICOS 326 341	DIAGNÒSTIC ALTA
+T5	_SUG_Localizacion 390 395	LACIO
+T6	_SUG_Ictus_isquemico 415 418	AVC
+T7	_SUG_Etiologia 434 445	HIPERTENSIO
+T8	_SUG_Ictus_isquemico 560 565	ictus
+T9	SECCION_PROCESO_ACTUAL 595 612	Enfermedad actual
+T10	HORA 646 651	11:30
+#10	AnnotatorNotes T10	11:30
+T11	HORA 659 664	12:45
+#11	AnnotatorNotes T11	12:45
+T12	_SUG_Ictus_isquemico 757 762	ictus
+T13	SECCION_ANTECEDENTES 843 855	Antecedentes
+T14	_SUG_Etiologia 920 932	Hipertensión
+T15	_SUG_Ictus_isquemico 967 982	Ictus isquémico
+T16	FECHA 991 1009	septiembre de 2016
+#16	AnnotatorNotes T16	2016-09-UNDEF-day
+T17	_SUG_mRankin 1164 1169	mRS 3
+T18	SECCION_EXPLORACION_FISICA 1172 1183	Exploración
+T19	_SUG_NIHSS 1454 1461	NIHSS 3
+T20	SECCION_EXPLORACIONES_COMPLEMENTARIAS 1464 1493	Exploraciones complementarias
+T21	_SUG_TAC_craneal 1578 1588	TC craneal
+T22	_SUG_Ictus_isquemico 1590 1607	Infarto siquemico
+T23	_SUG_Arteria_afectada 1648 1651	ACM
+T24	_SUG_Lateralizacion 1652 1659	derecha
+T25	SECCION_EVOLUCION 1724 1733	Evolución
+T26	_SUG_Lateralizacion 1794 1795	e
+T27	_SUG_Ictus_isquemico 1796 1801	ictus
+T28	_SUG_Ictus_isquemico 1895 1900	ictus
+T29	_SUG_TAC_craneal 1917 1919	TC
+T30	_SUG_Trombolisis_intravenosa 2005 2029	tratamiento trombolítico
+T31	_SUG_Ictus_isquemico 2109 2124	ictus isquémico
+T32	_SUG_Etiologia 2138 2152	cardioembólica
+T33	_SUG_Etiologia 2340 2348	embólico
+T34	_SUG_Tratamiento_anticoagulante 2447 2455	edoxavan
+T35	_SUG_Etiologia 2555 2569	cardioembólico
+T36	_SUG_mRankin 2571 2574	mRS
+T37	_SUG_NIHSS 2593 2600	NIHSS 0
+T38	_SUG_Tratamiento_antiagregante 2695 2700	adiro
+T39	_SUG_Tratamiento_anticoagulante 2720 2727	Lixiana
+T40	SECCION_TIPO_DE_INGRESO 2759 2773	Tipus d'ingrés
+T41	FECHA 2915 2925	06.10.2017
+#41	AnnotatorNotes T41	2017-10-06
+T42	FECHA 2967 2977	06.10.2017
+#42	AnnotatorNotes T42	2017-10-06
+T43	HORA 2978 2983	14:49
+#43	AnnotatorNotes T43	14:49

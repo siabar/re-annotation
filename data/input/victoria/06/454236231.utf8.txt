@@ -1,0 +1,127 @@
+_LOCATION_
+email: _CONTACT_ Telèfon _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 71 Anys
+NIF/DNI: _ID__NAME_; _NAME_
+Informe d'alta d'hospitalització
+16:00:00
+29.12.2017
+_LOCATION_
+_SS_ NEUROLOGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_; _CONTACT_ HIJA _NAME_; DOMICIL/RES.SOC
+21.12.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Mujer de 71 años que ingresa por infartos múltiples en territorio psoterior.
+
+ANTECEDENTS
+No alergias medicamentosas conocidas.
+
+-Hipertensión arterial esencial en tratamiento medico
+-Diabetes mellitus tipo 2 en tratamiento con Insulina.
+-Obesidad (IMC 35.7Kg/m2).
+-Dislipemia en tratamiento medico
+-Infarto agudo de miocardio no Q Killip I 2012. Coronariografía mostró una enfermedad coronaria severa de tresvasos, con vasos distales subóptimos. El SPECT miocárdico ha sido clínica, eléctrica y gammagráficamente negativo. Siue controles en _SS_.
+-Linfoma folicular grado 1 E III-A. R-CHOP. Respuesta completa en agosto 2016. Actualmente tratamiento con rituximab (6 ciclos). Seguimiento en CEX Hematología _SS_.
+*Último TC tóraco-abdominal 10/2017: Nódulo tiroideo izquierdo. Sin adenopatías aumentadas de tamaño en secciones torácicas. Dos áreas focales parcheadas en vidrio deslustrado en LSI, de nueva aparición, probablemente inflamatorias, a controlar en siguiente control. Sin nódulos pulmonares de otras características. Hígado sin lesiones focales. Vía biliar de calibre normal. Páncreas sin lesiones focales. Suprarrenales sin nódulos. Sin esplenomegalia. Riñones con realce homogéneo y simétrico, sin dilatación vías. Sin adenopatías aumentadas de tamaño en secciones abdominales.
+-Estenosis carotídea: moderada ACI derecha y ligera ACI izquierda (Doppler enero 2017). Seguimiento por Cx Vascular.
+-Claudicación  intermitente.  En  seguimiento  por  Cirugía  Vascular.  Última  visita  (enero  2017):  clinicamente estable, camina 300-400m sin pararse; ITB derecho: 1.08  Izq: 1.88.
+
+Situación sociofuncional: independiente para las activiades básica sde la vida diaria, sin deterioro cognitivo. mRS 1
+
+MEDICACIÓ HABITUAL
+Adiro 100mg/día, Atenolol 50mg/día, Amlodipino 10mg/día, Citalopram 20mg/día, Lantus , Metformina 850mg 1/2 cp cada 8h, Nitrofix 5mg parches, omeprazol 20mg/12h, simvastatina 40mg/día.
+
+PROCÉS ACTUAL
+Presenta la mañana del 21/12, episodio de parestesias en mano izquierda y dificultad para articular las palabras, que ha durado menos de media hora.
+
+EXPLORACIÓ FÍSICA
+
+Informe d'alta d'hospitalització
+
+
+
+
+
+URGENCIAS
+TA 182/75mmHg, FC 78lpm. BMT 300mg/dL (10UI)
+Vigil, orientada, no alteración del habla ni lenguaje, oculomotricidad preservada, niega diplopía, borramiento de surco nasogeniano izquierdo (1), hipoestesia hemifacial en exploración (no la refiere espontáneamente), balance motor preservado. No alteración sensitiva en EE. NIHSS 2.
+
+UNIDAD ICTUS
+Constantes: TA: 174/74 ; FC  77bpm ; Temperatura: 36.4ºC
+Vigil, orientada, no alteración del habla ni lenguaje. Campimetría sin déficits, MOEs sin restricciones. Leve asimetría facial izquierda (1). Resto pares craneales conservados Balance motor conservado de forma global, sin alteraciones objetivables de la sensibilidad. No extinciones ni agnosias.
+
+EXPLORACIÓ COMPLEMENTÀRIA
+URGE NCIAS
+- Analítica urgencias: Hemoglobina 11.9 g/dL, Hematòcrit 35.4 %, Volum corpuscular mig (VCM) . 90.5 fL, Hemoglobina corpuscular mitja (HCM) . 30.4 pg, Concentració HGB Corpuscular mitja . 33.60 g/dL, Ample Distribució Eritrocits (ADE) . 13.4 %, Leucòcits . 9.15 x10E9/L, Neutròfils 77.1 %, Limfòcits 15.7 %, Neutròfils .7.0 x10E9/L, Limfòcits . 1.4 x10E9/L, Plaquetes . 269 x10E9/L, INR) 0.95. Glucosa 128 mg/dL, Urea 95 mg/dL, Creatinini 1.56 mg/dL, Filtrat glomerular (estimació segons CKD-EPI) . 33 ml/min/1,73 m2, sodi .140.4 mmol/L, potassi . 4.16 mmol/L, Calci . 9.4 mg/dL, Aspartat-aminotransferasa . 17 UI/L, Alanina-aminotransferasa . 10 UI/L, Proteïna . 6.9 g/dL
+-ECG: ritmo sinusal, QRS estrecho, sin altearciones agudas de la repolarización
+-TC craneal: infarto agudo/subagudo en territorio de la ACS. Infarto subagudo/crónico occipital derecho.
+-Estudio duplex de:
+*TSA: se visualizan ambas carotidas extracraneales con ateromatosis en ambas bifurcaciones con zonas de sombra acústica poco valorables. Lado derecho placa de aspecto ulcerado con estenosis focal entre 50-70% ( VPS 170 cm/s) y normalizacion posterior . Lado izquierdo ateroesclerosis con estenosis < 50% en segmentos visibles por eco. flujo en ambas vertebrales extracraneales preservado sin poder visualizar ostiums.
+* Estudio DTC: TT:Flujo simétrico en ambas circulaciones anteriores, se visuliza ambas bifurcaciones carotideas en CA-CM y ambas bifrucaciones de M2 , asi como flujo en CP´s bilateral Suboccipital: flujo ortodrómico en ambas V4 correcta unión con  basilar sin estenosis asociadas hasta 10 cm  de profundidad. ID: Estenosis > 50% carótida interna derecha
+-AngioTC craneal + TSA:Ateromatosisvascular difusa. Permeabilidad de troncos supraaórticos. Arterias carótidas comunes elongadas y tortuosas. Calcificaciones en bifurcación carotídea observandose estenosis inferior al 50% en ostium de ACI derecha, posteriormente recupera su calibre y es permeable. Arterias intracraneales en territorio vascular carotídeo y eje vertebrobasilar permeables. Nódulo tiroideo izquierdo mal definida de unos 10 mm, inespecífico por TC.
+
+UNIDAD ICTUS
+-Analítica ingreso: Hties 3.64 x10E12/L; Hb 11.1 g/dL; Hto 34.5 %; VCM 94.8 fL; CHCM 32.20 g/dL; ADE 13.9 %; Leucocitos 6.41 x10E9/L; Neutrófilos 3.8 x10E9/L; Linfocitos 1.7 x10E9/L; Monocitos 0.7 x10E9/L; Eosinófilos 0.2 x10E9/L; Basófilos 0.0x10E9/L; Plaquetas 240 x10E9/L; VPM 11.7 fL. VSG 51 mm/h. Hemostasia: TP 106 %; INR 0.97, TTPA  29.3 seg; Fibrinógeno derivado 3.75 g/L. Bioquímica: glucosa 132 mg/dL; urea 98 mg/dL; creatinina
+1.95 mg/dL; FG 25 ml/min; urato 9.6mg/dL; bilirrubina 0.36 mg/dL (esterificada 0.17 mg/dL), sodio 139.5 mmol/L; potasio 5.47 mmol/L; calcio 9.4 mg/dL; AST 16UI/L; ALT 10 UI/L; FA 98 UI/L; GGT 24 UI/L; Proteína 5.9 g/dL; albúmina 3.6 g/dL.
+
+Informe d'alta d'hospitalització
+
+
+
+
+*Colesterol total 192 mg/dL; HDL 27 mg/dL; LDL 117 mg/dL; Triglicéridos239 mg/dL.
+*Homocisteína 24.2 mcmol/L.
+*Tiroides: TSH 2.320 mU/L; T3L 2.22 pg/mL; T4L 1.07 ng/dL.
+*Vitamina B12 242 pg/mL; ácido fólico 3.9 ng/mL.
+*Serologías (VIH, Lues): negativas.
+-Telemetría cardíaca 72 horas: no se detectan arrítmias potencialmente embolígenas.
+-ETT: conclusión: Cardiopatía hipertensiva con función sistólica biventricular conservada. Insuficiencia aórtica ligera-moderada (II/IV)
+-RMN craneal: Leve atrofia córtico - subcortical. No se observan lesiones isquémicas cerebrales ni alteración del polígono de Willis.
+-Ionograma en orina: EFNa 0.1718 %
+
+EVOLUCIÓ CLÍNICA
+Paciente con los antecedentes descritos que es traída por clínica de ictus de territorio posterior (síntomas cruzados). El Doppler TC/TSA muestra estenosis carotídea 50-70% (asintomática), no confirmada en angioTC y que no se corresponde con la sintomatología. Se cursa ingreso en UI para continuar manejo y completar estudio.
+Durante su estancia la paciente se mantiene asintomática. La telemetría no objetiva arrítmias potencialmente embolígenas. En la analítica de ingreso destaca la presencia de hiperhomocisteinemia (por lo que se pauta ácido fólico), VSG de 51. También destaca empeoramiento de la función renal respecto a la previa (actual 1.9, previa de 1.5), con patrón prerrenal en ionograma en orina, por lo que se pauta hidratación ev + oral. Para completar estudio etiológico se solicita ETT que no muestra alteraciones significativas; y dado el hallazgo de estenosis carotídea asintomática se solicita RMN craneal con angioRMN para valorar actitud terapéutica sobre la misma que no muestra lesiones agudas. Por tanto con la orientación de AIT vertebrobasilar (síntomas cruzados) y en situación de estabilidad clínica y hemodinámica se decide alta y control en CCEE Neurovascular con Doppler para seguimiento de estenosis carotidea asintomática. En el momento del alta NIHSS 0, mRS 1
+
+ORIENTACIÓ DIAGNÒSTICA
+- AIT vertebrobasilar de etiología indeterminada
+-Estenosis moderada ACI derecha.
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Dieta sin sal baja en grasas Ingesta hidrica abundante Ejercicio físico moderado
+Suspender Omeprazol, Simvastatina y Adiro Añadir a su medicación habitual
+-Ácido fólico 5mg 0-1-0
+-	Pantoprazol 20mg 1-0-0
+-	Clopidogrel 75mg 0-1-0
+-	Atorvastatina 80mg 0-1-1
+
+Resto de medicación habitual sin cambios
+
+Informe d'alta d'hospitalització
+
+
+
+CONTROL
+Se solicita control en CCEE Neurovascular, le informaran telefónicamente y/o por carta con los datos de la cita Control estrecho de factores de riesgo vascular, especialmente TA y Glicemias
+Control por especialistas habituales como tenga previsto
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+29.12.2017
+Pàgina 1 de 4

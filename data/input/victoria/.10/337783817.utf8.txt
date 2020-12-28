@@ -1,0 +1,227 @@
+_LOCATION_) Telèfon _SS_  972 _CONTACT_
+Telèfon IDI (Ressonància i TAC) _CONTACT_
+Telèfon ICO _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 57 Anys
+NIF/DNI: _ID__NAME_; _NAME_; _NAME_
+Informe de Trasllat a Sociosanitari
+CP	_LOCATION_
+ABS	_SS_
+Servei	NEUROLOGIA
+Data d'alta  16.02.2017	09:00:00
+_LOCATION_
+_CONTACT_; _CONTACT_
+AGUTS 11.02.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Ictus de ACM derecha.
+
+ANTECEDENTS
+ANTECEDENTES PERSONALES
+-No alergias medicamentosas.
+-Fumador de 2 paq/día. Niega consumo de alcohol.
+-Independiente para las ABVD. Rankin previo de 0.
+
+ANTECEDENTES PATOLÓGICOS
+-Hipertensión arterial, en tratamiento farmacológico. Cifras tensionales habituales en torno a 140/80.
+-Diabetes  Mellituis tipo 2, en tratamiento con insulina y ADOs. Retinopatía  y polineuropatía diabética. Último control (10/03/16): HbA1c 7,9%.
+-Obesidad.   Peso 120kg.  IMC 38 kg/m2
+-Claudicación intermitente.
+-Gangrena de Fournier intervenidad hace 1 año.
+-TCE hace 15 años.
+
+MEDICACIÓ HABITUAL
+Amlodipino 10mg c/24hrs, Enalapril/Hidroclorotiazida 20/12,5mg c/24hrs, Insulina según pauta, Metformina 850mg c/24hrs.
+
+PROCÉS ACTUAL
+Paciente, hombre de 57 años, que se va  a dormir a las 00:00hrs del 11/02/17 y se despierta a las 4:00am para ir al lavado, puede miccionar e ir de vientre. Posteriormente, cae al suelo y despierta a la esposa, que lo encuentra con hemiplejía izquierda. Avisan al SEM, que acude al domicilio en _LOCATION_ y activa Codi Ictus a las 4:52hrs. Llega a nuestro centro a las 5:30hrs.
+
+EXPLORACIÓ FÍSICA
+
+TA 118/72	FC: 73 l/m	Afebril.	SAT: 95% con VMK a alta concentración. CV: tonos rítmicos. No soplos. No IY. No edemas maleolares.
+RESP: crepitantes basales izquierdos leves.
+NRL: vigil, orientado. Disartria leve. Desviación forzada a la derecha. Hemianopsia homónima izquierda. Paresia facial central. Hemiplejía izquierda, anestesia izquierda. Anosognosia y asomatognosia.
+
+EXPLORACIÓ COMPLEMENTÀRIA
+_SS_
+Analítica de sangre (12/02/17): Hemoglobina * 12.7 g/dL, Hematòcrit * 38 %, Volum corpuscular mitjà  92.7 fL,
+
+Informe de Trasllat a Sociosanitari
+
+
+
+
+Hemoglobina corpuscular mitja 31 pg, C.H.C.M. 33 g/dL, A.D.E. 12.8 %, Plaquetes 360 K/mcL, Leucòcits * 13.27 K/mcL, Neutròfils * 84.1 %, Limfòcits * 8.1 %, Urea * 56 mg/dL, Creatinina 0.84 mg/dL, Creatincinasa (CK) * 608 U/L, Creatinincinasa-MB 22 U/L, Ió sodi 141 mEqu/L, Ió potasi 3.9 mEqu/L, Troponina T * 1080 ng/L, Proteïna C reactiva * 13.88 mg/dL.
+
+Orina (12/02/17): Proteïna * 75 mg/dL, Glucosa * 50 mg/dL, Cossos cetònics * 150 mg/dL, Urobilinogen * 4 mg/dL, Bilirubina * 1 mg/dL, Eritròcits +++. Sedimento: Leucòcits* 10 per camp, Eritròcits * 40 per camp.
+
+Hemocultivos (12/02/17): pendientes.
+
+ECG: ritmo sinusal. Descenso del ST V2-V6 con T negativa en V2.
+
+TAC craneal (11/02/17): No se observan lesiones hemorrágicas agudas intracraneales. Se observa una área de discreta hipoatenuación y desdiferenciación cortico-subcortical en la región temporo-parietal derecha sugestiva de un infarto hiperagudo en el territorio superficial de la ACM derecha (ASPECT 7). El resto del parénquima cerebral, cerebeloso y del tronco del encéfalo sin alteraciones densitométricas. Estructuras de la línea media centradas. Sistema ventricular simétrico, de tamaño y morfología normal. Cisternas basales están libres. Incidentalmente se identifican fracturas de la pared lateral del seno maxilar izquierdo con ocupación por material hiperdenso del mismo. Dichos hallazgos presentan aspecto crónico, a correlacionar con los antecedentes (traumatismo).
+Estudio de perfusión muestra una área temporo-parietal derecha que presenta disminución del CBV y alargamiento de MTT y corresponde con la área de infarto establecido (cor) así como extensa área fronto-temporo-parietal y ganglios basales ipsilaterales con CBV normal y MTT aumentado que corresponde con penumbra (mis-match de 46%).
+Estudio angioTC evidencia defecto de repleción en la porción distal del segmento de M1 de la ACM derecha compatible con un trombo agudo. Los segmentos distales a la lesión no són permeables. Se aprecia escasa circulación colateral en el territorio afectado. El resto de polígono de Willis, sistema vertebrobasilar y troncos supraórticos sin alteraciones significativas.
+CONCLUSIÓN: Estudio TC simple evidencia signos indirectos de infarto hiperagudo en el territorio superficial de la ACM derecha (ASPECT 7). Estudios mapas de perfusión muestran un infarto establecido temporo-parietal derecho y área de penumbra adyacente con mismatch de aprox. 46 %. Estudio angioTC evidencia presencia de un trombo agudo en el segmento M1 de la ACM derecha, segmentos distales no permeables y escasa circulación colateral en la región afectada.
+
+TAC control post-rtPA (12/02/17): Se observa una extensa área de hipoatenuación córtico-subcortical en la región fronto-temporo-parietal derecha compatible con un infarto subagudo en el territorio superficial de la ACM derecha. En región temporal derecha se identifica imágenes laminareshiperdensas que corresponden a signos de una transormación hemorrágica petequial no confluente. Dichos hallazgos condicionan un moderado efecto masa con obliteración completa de los surcos del hemisferio derecho, colapso subtotal del VL ipsilateral y desviación de las estructuras de la línea media hacia la izquierda 6 mm aproximadamente. Resto del parénquima cerebral sin alteraciones. Cisternas basales libres. Fracturas de la pared lateral del seno maxilar izquierdo con ocupación por material hiperdenso, sin cambios.
+CONCLUSIÓN: Hallazgos compatibles con extenso infarto del territorio superficial de la ACM derecha (TACI) con signos de transformación hemorrágica petequial no confluente (HI1). Moderado efecto masa con desviación de las estructuras de la línea media de aprox. 6 mm.
+
+HGTiP
+
+Informe de Trasllat a Sociosanitari
+
+
+
+
+Ecocardiogram (després de diüresi 750cc en 2 hores), en decúbit supí amb finestra paraesternal limitada: VE no hipertròfic, de d iàmetre al límit de la normalitat (DTD 59mm, mesures obtingudes en condi cions subòptimes), amb FE subjectiva conservada (55-60%) amb dubtosa hip ocinèsia inferolateral basal i mitja; AE lleugera-moderadament dilatada, vàlvula mitral de vels fins, bona obertura i correcte pla de coaptació; arrel aòrtica no dilatada, vàlvula aòrtica de vels fins, bona obertura; cavitats dretes no dilatades, funció del VD conservada (TAPSE 23mm); se nse vessament pericàrdic; VCI no dilatada amb variacions respiratòries n ormals. DOPPLER: IM lleugera, central; sense valvulopatia aòrtica (Gmax 12 mmHg); IT lleugera que no permet estimar PAPs; patró diastòlic amb pr edomini de la ona E (E 0.84 m/s, A 0.49 m/s), amb E'>A' i relació E/E' 7 , suggestiu de patró diastòlic normal.
+
+TAC craneal simple: Hipoatenuación fronto-temporoparietal  e insular derecha, compatible con infarto isquémico establecido del territorio de ramas superficiales de ACM derecha, ASPECTS 3. Sin otros hallazgos TC valorables. TC  perfusión  no  valorable  por  esta  realizada  y  infarto  isquémico  establecido. Se  observan  fenómenos  de reperfusión en localización frontal y temporal derecha, corticosubcortical.
+Angio-TC TSA e intracraneal: No se observan imágenes sospechosas de oclusión arterial intracraneal. Incidentalmente, se observa aumento de tamaño de glándula tiroides, a valorar clínicamente probable bocio tiroideo. Fractura de paredes anterior y posterolateral del seno maxilar izquierdo, con ocupación del mismo, compatible con hemoseno. Ocupación de seno frontal derecho. Aumento de partes blandas facial izquierdo compatible con hematoma.
+
+_SS_
+
+Analítica de sangre (13/02/17): Hemoglobina * 13.2 g/dL, Hematòcrit * 41 %, Volum corpuscular mitjà 95.1 fL, Hemoglobina corpuscular mitja 31 pg, C.H.C.M. 32 g/dL, A.D.E. 13 %, Plaquetes 376 K/mcL, Leucòcits * 14.29 K/mcL, Neutròfils * 78.2 %, Limfòcits * 10.4 %, Glucosa * 163 mg/dL, Urea * 74 mg/dL, Creatinina 1.11 mg/dL, Bilirubina total 0.49 mg/dL, GPT 23 U/L, Calci (II) 9.5 mg/dL, Ió sodi * 147 mEqu/L, Ió potasi 3.9 mEqu/L, FG 73.3 mL/min, Troponina T  * 1340 ng/L.
+
+Hemocultivos (13/02/17): pendientes.
+
+Analítica de sangre 14/02: Hemoglobina * 13.4 g/dL, Hematòcrit * 41 %, Volum corpuscular mitjà 94.5 fL, Hemoglobina corpuscular mitja 31 pg, Plaquetes 403 K/mcL, Volum plaquetari mig 10.2 fL, Leucòcits 11.14 K/mcL, Neutròfils 8.8 K/mcL, Limfocits 1.4 K/mcL, Responsables: Dres. M. Montesinos i M. Fontan, Glucosa * 247 mg/dL, Urea * 59 mg/dL, Creatinina 0.98 mg/dL, Creatincinasa (CK) * 277 U/L, Creatinincinasa-MB 14 U/L, Ió sodi * 146 mEqu/L, Ió potasi 3.8 mEqu/L, Filtrat glomerular (CKD-EPI) 85.2 mL/min, Troponines 1054,
+
+Hemocultivos x 2: pendiente.
+
+TC craneal 12/02: Hallazgos compatibles con extenso infarto del territorio superficial de la ACM derecha (TACI) con signos de transformación hemorrágica petequial no confluente (HI1). Moderado efecto masa con desviación de las estructuras de la línea media de aprox. 6 mm.
+
+TC craneal 13/02: Estudi TC que mostra extens infart del territori superficial d'ACM dreta, amb signes de transformació hemorràgica petequial confluent (TH2). Aquesta lesió condiciona un moderat efecte massa, desplaçant les estructures de la línia mitja 6 mm cap a l'esquerra, sense canvis respecte a estudi previ d´ahir.
+
+Ecocardiograma (15/02): Aurícula esquerra: 40 mm Fracció eyecció VI Teichholz: 57 %. Ventricle esquerre no
+
+Informe de Trasllat a Sociosanitari
+
+
+
+
+dilatat ni hipertròfic amb funció contràctil global i segmentària normals . Vàlvula mitral d#aspecte normal normofuncionant. Vàlvula aòrtica trivalva, sent normofuncionant. Vàlvula pulmonar normofuncionant. Vàlvula tricúspide normofuncionant. Arrel aòrtica i aorta ascedent de dimensions normals. Aurícula esquerra normal. Fluxe transmitral de patró d'alteració de la relaxació amb E/A<0.8. Cavitats dretes normals. No embassament pericàrdic.
+
+ECODoppler (15/02): DTSA: engrosamiento difuso de ínitma media sin obejtivarse placas. Ambas ACIs con curva espectral normal y velocidades simétricas a VPS 60 cm/seg. Ambas AAVV ortodrómicas y con curvs de flujo normales. DTC: A nivel intracraneal, se objetiva una asimetría de velocidad entre ambas ACMs (a lo largo de todo su recorrido insonado hasta M2), siendo la curva espectral simétrica: ACM dcha VPS 40 cm/seg y VDF 20 cm/seg. ACM izq VPS 80 cm/seg y VDF 40 cm/seg. Ambas ACAs normales y simétricas. Segmentos P1 y P2 normales. Ventana suboccipital: a pesar de los constantes movimientos del paciente, consigo insonar AB a 85 mm de profundidad que es normal. Conclusión: No objetivo ateromatosis carotídea. Asimetría significativa de velocidad entre ambas ACMs probablemente por infarto a nivel de ACM derecha.
+
+EVOLUCIÓ CLÍNICA
+Paciente de 57 años que ingresa a la Unidad de Ictus por infarto hiperagudo en territorio de ACM derecha, tributario a tratamiento fibrinolítico. Con peso de 120kg, se adminsitra bolus de 9mg a las 6:15hrs (TA pre-bolus 118/72) y perfusión 81mg a las 6:20hrs (TA 128/70). El paciente no presenta mejoría posterior a administración del bolus, por lo que se contacta con _SS_) a las 6:30hrs para valorar trombectomía mecánica. Se realiza traslado a las 07:05 hrs. NIHSS = 00022/20404/02022 = 20.
+En _SS_ se realiza TC multimodal que muestra infarto cerebral extenso y recanalización de la ACM derecha, por lo que no es tributario de realizar trombectomía. Se deriva nuevamente a nuestro centro.
+
+Reinterrogando al paciente explica que habia presentado ortopnea y disnea de pequeños esfuerzos que ha aumentado en los últimos días. A su llegada  a urgencias niega dolor torácico, pero se encuentra taquipneico con crepitantes bibasales a la auscultación y desaturación que mejora con oxígeno. Troponinas iniciales de 1095. Es valorado por Cardiologia en el _SS_ donde realizan un ECOscan en decúbito supino con ventana paraesternal limitada que muestra FE subjetiva conservada (55-60 %) con dudosa hipocinesia inferolateral basal y media. Se considera que no hay datos concluyentes que apoyen el diagnóstico de síndrome coronario agudo (ECG con ST ascendente, relación CKMB/CK baja, no dolor torácico), quedando únicamente una dudosa hipocinesia inferolateral que aisladamente consideramos que no tiene valor en el cuadro clínico. Durante el ingreso en nuestro centro se repite la ecografia cardíaca que es normal y es valorado de nuevo por Cardiología, que descartan el diagnóstico de infarto agudo de miocárdico, orientandose los cambios electrocardiográficos como secundarios al infarto cerebral.
+
+Durante su ingreso en Neurología el paciente se mantien neurológicamente estable. Se detecta disfagia total por lo que se coloca sonda nasogástrica. Durante el ingreso se realiza rehabilitación física.  Se realiza una TC craneal de control que muestra infarto extenso con transformación hemorrágica petequial. Se inicia antiagregación simple, bien tolerada sin complicaciones posteriores.
+
+A las 48h del ingreso se detecta fiebre de 38º con tos. Se orienta como un infeccion respiratoria, se inicia antibiótico empirico con amoxicilina clavulánico 2g cada 8h, con lo que presenta buena evolución, no vuelve a presentar fiebre.
+Des de el ingreso se inicia tratamiento deplectivo con furoseminda 20mg ev cada 8h y se realiza descenso progressivo del tratamiento hasta 20mg cada 12h. El paciente presenta mejoría clínica.
+
+Informe de Trasllat a Sociosanitari
+
+
+
+
+Durante el ingreso se detecta fractura del hueso maxil·lar por lo que se solicita valoración por cirugía maxilofacial que consideran que no precisa manejo específico ni tratamiento quirúrgico.
+
+El día previo al alta se realitza de nuevo test de disfagia y se objetiva que tolera dieta turmix i liquidos con espessantes. Se retira sonda nasogástrica
+
+Se solicita traslado a Mutuam para continuar rehabilitación. Se envía documentación para Clíncia Guttmann, al alta queda pendiente de respuesta.
+
+Dada la estabilidad clínca y hemodinámica se traslada a Centro Sociosanitario _SS_ para continuar con tratamiento y rehabilitación física.
+En la exploración física al alta persiste disartria leve, hemianopsia homónima izquierda, desviación oculocefáliaca la derecha forzada, parálisis facial central izquieda, hemiparesia izquierda, extinción sensitiva izquierda y anosognosia.
+Escalas al alta:
+- NIHSS 00022/21010/01022: 13
+- Rankin 4
+
+DIAGNÒSTICS
+436/5 Infarto cerebral ACM derecha de mecanismo embólico y etiologia indeterminada Tratado con fibrinolítico endovenoso
+Con trasformación hemorrágica petequial confluente
+250.00 Diabetis mellitus II
+428.0/1 Insuficiència cardíaca congestiva
+
+PROCEDIMENTS
+TC, analítica sanguinea, radiografia torácica.
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Se adjunta tratamiento en SILICON
+
+Durante el ingreso se ha iniciado tratamiento con
+-	Furosemida 20mg ev cada 8h, des del día 14/02 se está administrando cada 12h.
+-	Amoxicilina clavulánico 2g cada 8h des del dia 12/02, finalizar a los 10 días.
+
+Tratamiento a mantener de cara al alta
+-	Adiro 100mg cada 24h
+-	Atorvastatina 40mg cada 24h
+-	Resto de medicación habitual sin cambios:
+Amlodipino 10mg c/24hrs, Enalapril/Hidroclorotiazida 20/12,5mg c/24hrs, Insulina según pauta, Metformina 850mg c/24hrs.
+
+CONTROL
+Visita con Neurología en consultas externas en 3 meses. Recibirá citación en domicilio. Control por Cardiología de Zona.
+
+Informe de Trasllat a Sociosanitari
+
+
+
+
+Controles habituales por su médico de atención primaria.
+
+DESTINACIÓ A L'ALTA:	SOCI SANITARI
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+16.02.2017
+Pàgina 1 de 6

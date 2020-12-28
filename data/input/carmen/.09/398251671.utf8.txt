@@ -1,0 +1,120 @@
+_LOCATION_
+_LOCATION_) Anul·lació/Reprogramació visites:_CONTACT_
+Telèfon Centraleta: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 75 Anys
+NIF/DNI: _ID__NAME_; _NAME_; _NAME_
+Informe d'alta d'hospitalització
+CP	_LOCATION_
+ABS	_SS_
+Servei	NEUROLOGIA
+Data d'alta  08.08.2017	17:00:54
+_LOCATION_
+_CONTACT_; _CONTACT_
+DOMICIL/RES.SOC 01.08.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Varón de 75 años que ingresa por hematoma talámico derecho abierto a ventrículos.
+
+ANTECEDENTS
+No AMC.
+Exfumador, no enol.
+HTA y DM en tratamiento médico. No DLP conocida. No cardioneumopatías conocidas.
+Enfermedad de Menière. No otros AP a destacar.
+IQ: cataratas. Apendicectomía.
+Situación basal: independiente para ABVD. Vive solo. mRankin 0.
+
+MEDICACIÓ HABITUAL
+ARTEDIL 20MG 1 x 24 h.
+DIANBEN 850MG 1 x 12 h.
+DOXAZOSINA NEO STADA 8MG 1 x 12 h. HUMALOG MIX 25 KWIKPEN 44 x 24 h.
+LUMIGAN 0,3MG/ML 1 x 24 h.
+NOLOTIL 575MG  2 x 24 h. PERINDOPRIL TECNIGEN 8MG 1 x 24 h. VALSARTAN 320MG 1 x 24 h.
+VALSARTAN/HIDROCLOROTIAZIDA 320/25MG 1 x 24 h.
+VATOUD 75MG 1 x 24 h.
+
+
+PROCÉS ACTUAL
+Paciente que ingresa en NRL por cuadro iniciado el pasado 01/08 a las 15h30 cuando es encontrado por su hijo en el domicilio tirado en el suelo con dificultad para movilizar extremidades izquierdas. Visto asintomático por última vez a las 14h por los nietos que fueron a comer a su casa como cada día. Avisan al SEM. Es aleatorizado en estudio RACECAT siendo trasladado a _SS_. Se activa código ictus a las 16:42h. Llega a urgencias de_SS_ A las 17:16h. TC craneal a las 17:39h que muestra hematoma intraparenquimatoso talámico derecho, con irrupción al sistema ventricular.
+
+A la primera valoración se encuentra HTA con TA 183/103 mmHg, FC 80 lpm, satO2 99%, DXT 270 mg/dL. INR
+1.1. Neurológicamente consciente, dice mes y edad, disartria moderada (2), no alteración del lenguaje. TOC a la D (1), pasa línea media. HHI por confrontación (2). PFSN izq (2). Plejia braquial izq (4), paresia crural 1/5 (4).Hemianestesia izq (2). Anosognosia (2) BBK izq. NIHSS19
+
+En  urgencias se  realiza  analítica con  glucosa  15.6  mmol/L, potasio 3.66 mmol/L, resto  de  l  a  BQ  normal, coagulación ok, neutrofilia leve. No otras alteraciones. ECG en taquicardia sinusal a 100 lpm, PR 0.16s, QRS
+
+Informe d'alta d'hospitalització
+
+
+
+
+ancho con morfología de BRDHH (ya conocido) y Rx de tórax con redistribución vascular sin otros hallazgos. Se orienta como hematoma talámico derecho abierto a ventrículos. Se decide ingreso en NRL. Unidad de ictus.
+
+EXPLORACIÓ FÍSICA
+
+TA 173/75  FC 75x'  Sat 96%
+NRL: vigil, consciente, orientado en TEP, lenguaje conservado, disartria leve (1), DOC a la derecha pero pasa línea media (1), HH I (2), PICNR, MOEs conservados, PFSN i leve(1), resto de ppcc normales, plejia braquial izquierda (4), paresia crural izquierda 1/5 (4), anestesia BC (2), babinsky izquierdo, heminegligencia (1). NIHSS 16. AC: rítmica, no ausculto soplos
+AP: murmulo vesicular conservado, sin ruidos sobreañadidos Abdomen: anodino
+EEII: no edemas ni signos de TVP
+
+
+EXPLORACIÓ COMPLEMENTÀRIA
+Pruebas en Urgencias:
+Analitica:
+Equilibrio venoso: pH 7.38, PCO2 54mmHg, HCO3 31.9mmol/L
+Bioquímica: Glucosa mmol/L, Urea mmol/L, Creatinina umol/L, Na+ mmol/L, K+ mmol/L Coagulación: TTPA ,TP
+Hemograma: Hb 160g/dL; Htc 46%, VCM 86fL, Plaquetas 259x10E9/L, Leucocitos 9.4x10E9/L(N 7;6% L 13.8%). TAC: hematoma cápsulo-talámico derecho abierto a ventrículo lateral derecho (pte de informe definitivo) Radiografía  de  tórax:  marco  óseo  conservado.  ICT<0.5.  Redistribución  vascular.  Senos  no  pinzados,  no condensaciones en parénquima.
+ECG: taquicardia sinusal a 130lpm, con bloqueo completo de rama derecha y presencia de alguna extrasístole supraventricular.
+
+Pruebas en planta de Neurología:
+-Analitica sanguinea: perfil renal normal, Glucosa 14.7, perfil hepático normal, perfil lipidico normal, perfil tiroideo normal, perifl hemoglobina HbA1c 8.6%, cobalaminas y folatos normal. Proteinograma con Alb 54.3%, resto normal. Hemograma Hb 16.7, leucocitosis 11.000, neutrofilia 8.580. Dimero D 252. VSG 7mm.
+-	Serologías VIH, VHC. VHB, lues negativas.
+-	Urocultivo 07/08: pendiente resultado.
+-TAC control 05/08: Similar hematoma profund dret amb augemnt del edema i similar efecte de massa. Augment de component hemorràgic intraventricular i aparició de pettisa focus d'HSA tempro-insulars i fronto-parietals bilaterals. Incipient diltació del sistema ventricular
+-RMN cerebral/angioRM: Hematoma talámico con moderado efecto de masa, HSA y contaminación hemática ventricular. Estudio angioRM sin malformaciones subyacente. Cambios involutivos y signos de enfermedad crónica de pequeño vaso. Pequeños infartos lacunares crónicos en corona radiada izquierda, lenticular ipsilateral y pontino.
+
+Informe d'alta d'hospitalització
+
+
+
+EVOLUCIÓ CLÍNICA
+Ingresa para estudio y control evolutivo de hematoma talámico derecho abierto a ventrículos.
+Se mantiene inicialmente en Unidad de ictus con tendencia a la HTA que requiere de Labetalol ev inicialmente, reiniciándose progresivamente su medicación habitual oral con mejoría de la TA, aunque aun no es un control óptimo.
+
+Como parte del estudio vascular se realiza analítica de ingreso en la que destaca leucocitosis de 11.400 aislada así como HbA1c elevada (8.6 %) en paciente diabético conocido.
+
+En la RMN cerebral se objetiva hematoma talámico con moderado efecto de masa, HSA y contaminación hemática ventricular, sin observarse malformaciones subyacentes en secuencias angioRMN.
+
+Desde el punto de vista clínico el paciente se mantiene inicialmente estable, aumentando la somnolencia posteriormente por lo que se repite TC craneal (05/08) que muestra aumento del edema y similar efecto de masa, aumento de componente hemorrágico intraventricular y aparición de pequeños focos de HSA temporo-insulares y fronto-parietales bilaterales con incipiente diltación del sistema ventricular. Se comenta con neurocirugía y se decide mantener actitud expectante; además en analítica destaca leucocitosis sin fiebre y orina colúrica en  relación a posible deshidratación. Se curso urocultivo (pendiente resultado). En las siguientes 48 horas, mejora el nivel de consciencia y además se decide conjuntamente con familia que en caso de empeoramiento el paciente no sería tributario a tratamiento quirúrgico. Persiste somnolencia.
+En la exploración neurológica a día 08/08 el paciente se encuentra somnoliento, pero responde a la llamada, abre los ojos y localiza con extremidades derechas al dolor, obecede órdenes, orientación no valorable, habla y lenguaje no valorables hoy, TOC a la derecha pero pasa línea media (1), HH izquierda (2), PICNR, MOEs conservados, PFSN iizquierda leve(1), resto de ppcc normales, plejia braquial izquierda  (4), paresia crural izquierda 1/5 (3), hemianestesia BC izquierda (2), RCP extensor izquierdo, siendo el NIHSS 17.
+Ha iniciado dieta vía oral con buena tolerancia (100%). Hoy ha iniciado sedestación en cama. Se ha realizado rehabilitación desde el inicio.
+
+Se orienta como hemorragia intraventricular de posible causa hipertensiva.
+Solicitamos traslado a hospital de referencia (_SS_) a partir de 07/08/17 para completar estudio y control evolutivo.
+
+
+
+
+
+DIAGNÒSTICS
+431/3 Hematoma cerebral
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Se adjunta
+
+DESTINACIÓ A L'ALTA:	HOSP. AGUTS/PSQ
+
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+08.08.2017
+Pàgina 1 de 3

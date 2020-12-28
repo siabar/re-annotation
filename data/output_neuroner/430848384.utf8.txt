@@ -1,0 +1,127 @@
+
+
+
+
+
+Informe d'Alta Hospitalària	Cognoms i nom:
+_NAME_	NHC:
+_ID_
+	ABS:
+_SS_	CIP:
+_ID_	DNI:
+_ID_
+	Data de naixement:
+_DATE_	Sexe:
+Home	Edat:
+76a	Telèfon:
+_CONTACT_
+	Finançament:
+CatSalut - _LOCATION_	Procedència:
+URGÈNCIES
+	Admissió:
+11.10.2017 - 13:16	Servei:
+NEURO - UNITAT ICTUS HOSP	Data entrada urg.:
+11.10.2017 - 07:06
+Adreça:
+_LOCATION_	Població:
+_LOCATION_	Codi Postal:
+_LOCATION_
+
+
+
+MOTIVO DE INGRESO:
+Varón de 76 años que ingresa por ictus isquémico.
+
+
+ANTECEDENTES
+-Sin alergias medicamentosas conocidas.
+-Niega hábitos tóxicos.
+-Hipertensión con controles habituales máximo de 140/90.
+-Dislipemia en tratamiento farmacológico.
+-Niega DM, aunque refiere hiperglicemia ocasional.
+-Insuficiencia  renal  en seguimiento  por _SS_t  (desconocen  causa).  Creatininas  habituales de 1.85 estables des de 2010
+-IQ aneurisma de aorta abdominal en 2/2017, 4 intervenciones sobre columna lumbar (por un problema de discopatía), refiere secuelas de afectación de nervio con pie caído (probable CPE izq) y necesidad de férula antiequino en pie derecho.
+-Hiperplasia benigna de próstata
+
+Tratamiento habitual.
+ADIRO 100MG 1 x 24 h (desconoce motivo) BELOKEN 100MG  1 x 24 h. (metoprolol) ENALAPRIL/HIDROCLOROTIAZIDA  1 x 48 h.
+OMEPRAZOL 20MG 1 x 24 h
+PARACETAMOL 1G 2 x 24 h.
+SIMVASTATINA 40MG 1 x 24 h.
+
+- Antecedentes sociofamiliares: Natural de _LOCATION_. Vive en _LOCATION_ desde hace años con su pareja , pero pasa largos periodos en _LOCATION_. Autónomo para las AVD. Dificultad para caminar por secuelas de cirugía de columna, portador de férula y por la calle lleva bastón. Trabajó como carpintero, herrero, conductor autobuses. 4 hijos que viven in _LOCATION_. Rankin 2.
+
+ENFERMEDAD ACTUAL
+Acude el 11/10/17 a urgencias por debilidad y acorchamiento braquial derecho. El paciente se levantó sobre las 3 de la madrugada a orinar y notó debilidad braquial derecha y dificultad para caminar. La última vez visto asintomático fue a la 1:00 h. Llega a urgencias a las 7:05h y se activa código ictus en triaje.
+
+EXPLORACIÓN FÍSICA
+A su llegada: TA 147/88, FC70, Tª36, Glicemia 129
+-   Barrera idiomática que impide correcta exploración del lenguaje pero por acompañante nos refiere que no
+hay alteracion del lenguaje, está correctamente orientado, MOEs correctos, campimetria normal, no paresia facial, trigemino sensitivo motor correcto, paresia 4/5 braquio crural derecha, con signo de Milller Fisher, déficit de flexoextensión de pie derecho por IQ previa y lesión de CPE derecho, refiere hipoestesia derecha. RCP indiferente derecho, flexor izquierdo. Dismetria proporcionada a la paresia. NIHSS= 0.0.0.0.0/0.0.1.0.1./0.1.0.0.0=3
+
+-	A su ingreso en unidad de ictus: Vigíl, orientado en tiempo y espacio, no disartria, nominación conservada, comprende órdenes simples aunque no realiza complejas (podría tratarse de barrera idiomática). Lentitud marcada en las respuestas que no puede atribuirse sólo al idioma, pero que según su pareja es habitual en él. Campimetría por confrontación normal, MOEs sin limitaciones, debilidad distal leve en ESD con signo del pronador, Miller Fisher simétrico, levitación de la ESD al hacer maniobra de Mingazzini, refiere hipoestesia en EEDD, RCP flexores. Debilidad para la dorsiflexión de pies y dedos del lado derecho junto a incapacidad para la eversión, también ligera debilidad de la inversión y flexión plantar. Arreflexia en EEII. Marcha normal, Romberg negativo. NIHSS = 0.0.0.0.0/0.0.0.0.0/1.1.0.0.0 = 2.
+
+-	Al alta: Barrera idiomática (traduce su mujer). Vigil. Orientado. Lenguaje: nomina 2/2, obedece órdenes sencillas, repite sin dificultad. No nota disartria. Campimetría normal. PPCC normales. Balance motor normal excepto paresia distal pie derecho por lesión periférica secuelar a cirugía, sin Miller-Fisher. Sensib y coordinación normal. NIHSS=0
+
+EXPLORACIONES COMPLEMENTARIAS
+-	Analítica urgencias: Hemograma normal. Coagulación normal. Bioquíica normal salvo urea 12.6 con creatinina 164. Dimero D 3805.
+-	Analítica control: Hemograma con leve anemia Hb 126, Hcr 38, Htíes 4.23 normo/normo, VSG no realizada. Bioquímica normal salvo urea 9.2 y creatinina 144 y P 0.86. Triglicèrids 146,03 mg/100mL Colesterol 140,09mg/100mLFracciones de colesterol Colesterol HDL 37,15mg/100mL Colesterol LDL 73,52 mg/100mL Colesterol  29,43 mg/100mL Colesterol quilomicrons 0,00 mmol/L Hb glucosilada 5.8%
+-	ECG: Ritmo sinusal
+-	Telemetría-ECG en Unidad de Ictus: Sin eventos arrítmicos.
+-	TC craneal urgente: Sin lesiones isquémicas agudas, ASPECTS 10. Infarto lacunar cerebeloso derecho y en ganglios basales derechos. Severa leucoaraiosis.
+-	Estudio neurosonológico: Dúplex de TSA: En ambos ejes carotídeos se observan placas calcificadas en los bulbos, pero sin estenosis significativas. Ambas AV muestran flujo en sentido craneal, no se han visualizado los ostiums. Dúplex transcraneal con examen normal en todos los segmentos arteriales examinados (ambas ACM, ACA, sifones, ACP, AV y AB).
+-	Ecocardiografía transtorácica: Ventrículo izquierdo no dilatado con ligera hipertrófia concéntrica, contractilidad global conservada. No se observan alteraciones de la contractilidad segmentaria. Aurícula izquierda de tamaño normal Válvula mitral de velos ligeramente engrosados con apertura conservada. Patrón de flujo trasmitral de tipo alteración de la relajación. Raíz de aorta y aorta ascendente de tamaño normal Válvula aórtica trivalva con ligera afectación degenerativa y apertura conservada.
+-	RM craneal: Múltiples focos de pequeño tamaño de restricción en la difusión frontoparietales izquierdos con afectación principalmente cortical y alguno en sustancia blanca, sugestivos de lesiones isquémicas
+
+
+recientes en el territorio de ACM izquierda y frontera ACA/ACM también izquierdo. No hay signos de transformación hemorrágica. Focos de microsangrado frontales derechos. Extensa alteración de la señal en la sustancia blanca subcortical y periventricular, incluida subinsular, sugiriendo cambios hipóxicos-isquémicos crónicos secundario a microangiopatía sin ser la distribución sugestiva de CADASIL. Lesión isquémica crónica cerebelosa derecha. Moderada dilatación del sistema ventricular de aspecto involutivo. Discreta ocupación probablemente mucosa de las celdillas etmoidales anteriores izquierdas. Conclusión: Pequeñas lesiones isquémicas recientes en el territorio de ACM izquierda y frontera izquierda ACA/ACM. Extensa leucoaraiosis (ver informe). Lesión isquémica crónica de pequeño tamaño cerebelosa derecha.
+
+EVOLUCIÓN
+A su llegada a urgencias se encuentra hemodinámicamente estable y afebril, normoglicémico.
+A la exploración física destaca una hemiparesia braquiocrural derecha con hipoestesia homolateral, puntuando un NIHSS de 3. Se realiza TC simple con abundante leucoaraiosis sin identificarse lesiones agudas ni hiperdensidades vasculares. Se orienta como un ictus de localización indeterminada y dado el tiempo de evolución de la clínica y el NIHSS bajo se desestima para tratamiento de reperfusión. Se inicia prevención secundaria con antiagregación (clopidogrel al encontrarse bajo tratamiento previo con aspirina) y estatinas a dosis elevadas.
+Ingresa en Unidad de Ictus para seguimiento y continuar estudio, donde se mantiene monitorizado por telemetría sin presentar eventos arrítmicos. Tras 24h de ingreso en dieta absoluta realiza test de disfagia que supera, iniciando dieta oral.
+Es trasladado a sala de neurología donde se completa el estudio con una RM craneal en la que se evidencian varias lesiones isquémicas en territorio de la ACM izquierda, corticales y en territorio frontera, sugestivas de mecanismo embólico. Además, destaca la presencia de una afectación de la sustancia blanca muy extensa, que plantea el diagnóstico diferencial con la enferedad de CADASIL. En el estudio etiológico de ictus con analítica, telemetría-ECG, ecocardiografía TT y estudio neurosonológico no se detectan alteraciones relevantes. Por tanto, se orienta como un ictus isquémico de mecanismo embólico y etiología indeterminada. Al alta queda pendiente el estudio genético de CADASIL (ya cursado). Como prevención secundaria  se mantiene el tratamiento antiagregante y con estatinas a dosis altas.
+Neurológicamente presenta una correcta evolución, con recuperación ad integrum de la focalidad neurológica. Es valorado por medicina rehabilitadora sin requerir terapia de rehabilitación durante el ingreso.
+Finalmente se decide el alta hospitaraia a domicilio habitual con seguimiento ambulatorio. mRS al alta: 3, NIHSS al alta: 0.
+
+PROCEDIMIENTOS
+Analítica, ECG, telemetría, Ecocardiografía transtorácica, TC, RM, neurosonología.
+
+
+DIAGNÓSTICO
+-	Infartos isquémico en territorio de la ACM izquierda de probable mecanismo embólico y etiología indeterminada.
+
+
+-	Leucoencefalopatía extensa en estudio
+-	Hipertensión.
+-	Dislipemia.
+
+
+RECOMENDACIONES Y TRATAMIENTO AL ALTA
+Tratamiento al alta:
+Atorvastatina 80mg 1 comprimido al día (0-0-1) Clopidogrel 75mg 1 comprimido (1-0-0)
+Omeprazol 20mg 1 comprimido (1-0-0) Paracetamol 1gr, 1comprimido cada 8h si dolor. Beloken (metoprolol) 100mg, 1 comprimido al día
+Enalapril/HCTZ 20/12.5mg, revalorar la posología en función del control ambulatorio de la TA
+
+*	Acudir al laboratorio de Neurosonología el próximo 23.10 a las 10:00 para inclusion en estudio observacional IMPROVE
+*	Control en consulta Externa de Neurología (pendiente de programar)
+
+Recomendaciones generales
+-	Tratamiento de la hipertensión arterial, manteniendo cifras por debajo de 140/90; en caso de ser diabético, cifras por debajo de 130/85.
+-	Control  y  tratamiento  de  las  enfermedades  cardiacas  (cardiopatía  isquémica,  insuficiencia  cardiaca, arritmias y valvulopatías).
+-	Evitar consumo excesivo de alcohol (se permite una o dos bebidas al día).
+-	Vigilancia y tratamiento del perfil lipídico: Dieta pobre en grasas, actividad física apropiada. Tratamiento farmacológico si precisa para mantener niveles de LDL<100mg/dl.
+-	Control de la glucemia, que debe ser <126mg/dl en ayunas, con dieta, antidiabéticos orales o insulina si precisa.
+-	Realizar actividad física, 30 a 60 minutos, de tres a cuatro veces a la semana.
+-	Continuar el tratamiento antiagregante a las dosis recomendadas, siguiendo los controles necesarios.
+Responsable clínic: Dra. _NAME_ (NºCol. _ID_)
+Equip mèdic: _NAME_ (NºCol. _ID_)
+
+Servei que ha donat d'alta:
+NEURO - UNITAT ICTUS HOSP	Data d'alta:
+18.10.2017	Nom del metge que informa de l'alta:
+Dra. _NAME_ (NºCol. _ID_)
+
+
+_LOCATION_, 18.10.2017
+Pàg. 1 de   4

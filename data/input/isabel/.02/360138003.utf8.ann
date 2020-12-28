@@ -1,0 +1,97 @@
+T1	_SUG_Lateralizacion 0 1	I
+T3	Fecha_de_ingreso 315 325	07.04.2017
+#3	AnnotatorNotes T3	2017-04-07
+T5	_SUG_Ictus_isquemico 497 502	ICTUS
+T6	_SUG_Ictus_isquemico 623 628	ictus
+T8	FECHA 958 962	2008
+#8	AnnotatorNotes T8	2008-UNDEF-month-UNDEF-day
+T9	_SUG_Lateralizacion 970 979	izquierda
+T10	_SUG_Lateralizacion 980 987	derecha
+T11	FECHA 1028 1038	29/11/2013
+#11	AnnotatorNotes T11	2013-11-29
+T12	_SUG_Lateralizacion 1181 1190	izquierda
+T13	_SUG_Etiologia 1247 1259	hipertensión
+T14	FECHA 1296 1300	2011
+#14	AnnotatorNotes T14	2011-UNDEF-month-UNDEF-day
+T15	_SUG_Tratamiento_anticoagulante_alta 1352 1359	sintrom
+T16	_SUG_Tratamiento_anticoagulante_hab 1352 1359	sintrom
+T19	Tratamiento_anticoagulante_hab 1667 1674	Sintrom
+T21	Hora_inicio_sintomas 1835 1840	20.30
+#21	AnnotatorNotes T21	20:30
+T22	_SUG_Lateralizacion 2090 2098	derechas
+T23	_SUG_Ictus_isquemico 2127 2132	ictus
+T24	_SUG_Lateralizacion 2534 2541	derecha
+T25	FECHA 2550 2553	4/5
+#25	AnnotatorNotes T25	2011-05-04
+T27	NIHSS_previa 2593 2601	NIHSS 10
+T28	_SUG_Ictus_isquemico 2634 2639	ictus
+T29	FECHA 2911 2914	4/5
+#29	AnnotatorNotes T29	2011-05-04
+T30	_SUG_Lateralizacion 2966 2973	derecha
+T31	_SUG_NIHSS_alta 3029 3036	NIHSS 5
+T32	_SUG_NIHSS_previa 3029 3036	NIHSS 5
+T34	TAC_craneal 3307 3317	TC CRANEAL
+T35	ASPECTS 3375 3384	ASPECTS 9
+T36	_SUG_Localizacion 3460 3471	ventricular
+T37	_SUG_Localizacion 3575 3584	posterior
+T38	_SUG_Arteria_afectada 3617 3648	arterias cerebrales posteriores
+T39	_SUG_TAC_craneal 3661 3663	TC
+T40	_SUG_Localizacion 3698 3706	parietal
+T41	_SUG_Lateralizacion 3707 3716	izquierdo
+T42	_SUG_Localizacion 3838 3846	cortical
+T43	_SUG_Localizacion 3876 3885	occipital
+T44	_SUG_Lateralizacion 3886 3895	izquierdo
+T45	_SUG_Localizacion 3929 3936	caudado
+T46	_SUG_Arteria_afectada 4164 4195	arterias cerebrales posteriores
+T48	Ictus_isquemico 4468 4483	ICTUS ISQUÉMICO
+T50	Arteria_afectada 4504 4526	ARTERIA CEREBRAL MEDIA
+T51	Lateralizacion 4527 4536	IZQUIERDA
+T53	_SUG_Lateralizacion 4692 4699	derecho
+T54	HORA 4716 4721	20.30
+#54	AnnotatorNotes T54	20:30
+T55	_SUG_Lateralizacion 4869 4876	derecho
+T56	_SUG_NIHSS_alta 4878 4886	NIHSS 10
+T57	_SUG_NIHSS_previa 4878 4886	NIHSS 10
+T58	_SUG_TAC_craneal 4902 4904	TC
+T59	_SUG_NIHSS_alta 5118 5125	NIHSS 5
+T60	_SUG_NIHSS_previa 5118 5125	NIHSS 5
+T61	_SUG_Ictus_isquemico 5146 5151	ictus
+T62	Etiologia 5199 5213	cardioembólica
+T63	_SUG_Ictus_isquemico 5320 5325	ictus
+T64	_SUG_Tratamiento_anticoagulante_alta 5389 5397	heparina
+T65	_SUG_Tratamiento_anticoagulante_hab 5389 5397	heparina
+T66	_SUG_Localizacion 5407 5416	posterior
+T67	_SUG_Tratamiento_anticoagulante_alta 5424 5432	Apixaban
+T68	_SUG_Tratamiento_anticoagulante_hab 5424 5432	Apixaban
+T69	_SUG_Ictus_isquemico 5470 5475	ictus
+T70	NIHSS_alta 5758 5766	NIHSS: 0
+T72	mRankin_alta 5768 5773	mRS 2
+T74	_SUG_Etiologia 5782 5796	Cardioembólico
+T77	Tratamiento_anticoagulante_alta 6873 6880	Eliquis
+T81	_SUG_Lateralizacion 7340 7347	derecha
+T82	_SUG_Etiologia 7457 7465	habitual
+T83	Fecha_de_alta 7637 7647	14.04.2017
+#83	AnnotatorNotes T83	2017-04-14
+T84	Hora_de_alta 7662 7667	15:05
+#84	AnnotatorNotes T84	15:05
+T85	SECCION_TIPO_DE_INGRESO 423 448	Tipo ingreso/Tipus ingrés
+T86	SECCION_MOTIVO_DE_INGRESO 577 615	Motivo de consulta / Motiu de consulta
+T87	SECCION_ANTECEDENTES_PERSONALES 630 692	Antecedentes e historia previa / Antecedents i història prèvia
+T88	SECCION_PROCESO_ACTUAL 1772 1802	Proceso actual / Procés actual
+T89	SECCION_EXPLORACION_FISICA 2183 2221	Exploración física / Exploració física
+T90	SECCION_EXPLORACIONES_COMPLEMENTARIAS 3243 3303	Exploraciones complementarias / Exploracions complementàries
+T91	SECCION_EVOLUCION 4444 4464	Evolución / Evolució
+T92	SECCION_RECOMENDACIONES 7247 7268	Otras recomendaciones
+T2	SECCION_ANTECEDENTES_PATOLOGICOS 791 815	ANTECEDENTES PATOLÓGICOS
+#1	AnnotatorNotes T27	10
+#2	AnnotatorNotes T35	9
+#5	AnnotatorNotes T70	0
+#6	AnnotatorNotes T72	2
+T7	Fecha_llegada_hospital 315 325	07.04.2017
+T20	Hora_llegada_hospital 386 391	22:14
+T4	SECCION_TRATAMIENTO_HABITUAL 1579 1598	MEDICACIÓN HABITUAL
+T17	Fecha_inicio_sintomas 315 325	07.04.2017
+T18	SECCION_TRATAMIENTO_AL_ALTA 6679 6712	Plan terapéutico / Pla terapèutic
+T26	SECCION_CONTROL 7434 7441	Control
+T33	SECCION_MOTIVO_DEL_ALTA 464 474	Motiu alta
+T47	SECCION_ANTECEDENTES_QUIRURGICOS 1556 1558	IQ

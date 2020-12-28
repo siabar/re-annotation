@@ -1,0 +1,146 @@
+_LOCATION_
+Telèfon: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 73 anys
+NIF/DNI: _ID__NAME_; _NAME_
+Informe d'alta d'hospitalització
+11:00:00
+22.12.2017
+_LOCATION_
+_SS_ NEUROLOGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_
+ATEN.PRIMÀRIA 15.12.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Movimientos anormales
+
+ANTECEDENTS
+-	No AMC
+-	No hábitos tóxicos.
+-	Artrosis, artralgias.
+-	Intervenciones quirúrgicas: PTR, inició tratamiento con cortisona hace 2 días
+
+MEDICACIÓ HABITUAL
+HIDROFEROL CHOQUE 3MG LORAZEPAM KERN PHARMA 1MG PARACETAMOL STADA 1G
+
+PROCÉS ACTUAL
+Mujer de 73 años que el pasado 15/12/2017 acudió al S. de Urgencias del _SS_, donde se activó el protocolo Código Ictus por cuadro clínico de desviación de la comisura labial derecha, disartria y paresia de la ESD. La sintomatología fue cediendo progresivamente. Posteriormente, la paciente desarrolló un cuadro de hemicorea-hemibalismo derecho que también tuvo un curso transitorio.
+
+EXPLORACIÓ FÍSICA
+
+FC	70 bpm
+Tªaxi 36.0 ºC
+FR	rpm Tªrec  ºC
+TA s	129 mmHg SAT O2 98 %
+TA d   77 mmHg Pes Kg
+
+Exploración fisica actual :Consciente, orientada. NH. NC. Glasgow 15. mRS 0. AC: Tonos rítmicos, no soplos. AR: Ventilación noral sin ruidos patológicos.
+
+Exploración neurológica:PCC conservados, campimetria por controntación normal. Pupilas isocoricas fotorecativas (leucocoria izda congénita). No afasia, ni disartria .No alteraciones sensitivo-motoras. Babinski flexor bilateral. No dismetria. Ligera inestabilidad en la marcha pero sin lateralización.
+NIHSS 0
+
+EXPLORACIÓ COMPLEMENTÀRIA
+EC de urgencias:
+
+1.	ECG: RS  a 82lpm. PR normal. QRS estrecho. No alteraciones del ritmo ni repolarización.
+
+2.	Analítica sanguínea : normal
+1.	
+Informe d'alta d'hospitalització
+
+
+
+
+3.	TAC y Angio TAC: Estudi basal subòptim amb artefacte de moviment. Sense evidents lesions destacables hemorràgiques intra ni extraparenquimatoses. Aneurisma sacular depenent de la ACA d'uns 4 x 3 mm (coll d'uns 2,5 mm). Artèries caròtides, vertebrals, polígon de Willis i les seves branques permeables i sense estenosis. Hipoplàsia de les artèries comunicants posteriors. Atròfia difusa.
+
+EC durante el ingreso:
+1.	Control analítico general  de hoy: Colesterol 166 mg/dL HDL 53.0 mg/dL LDL 98.6 mg/dL Triglicèrid 72 mg/dL HbA1c 5.5%. FUnción renal e iones normales. Hemograma y hemostasia sin alteraciones.
+
+2.	RM cerebral + angio-RM willis: Estructuras parenquimatosas supra e infratentoriales de morfología e intensidad deseñal dentro de la normalidad.Sistema ventricular simétrico, de morfología y tamaño normales. Estructuras de la líneamedia  centradas. No evidencia de procesos expansivos intra ni extra-axiales. Charnela  occípito#cervical normal. Dilatación sacular vascular en la comunicante anterior de tamaño 4mm, compatible con aneurisma. No se aprecian otras alteraciones vasculares significativas en las secuencias de angio-RM sobre el polígono de Willis. CONCLUSION: Dilatacion sacular vascular en la comunicante anterior, compatible con aneurisma.
+
+3.	Estudio neurosonológico:
+-	Dúplex TSA: S'han explorat tots dos eixos carotidis i el trajecte extracranial de totes dues arèries vertebrals. Només descata la presència de petites plaques en totes dues bifurcacions sense repercusióhemodinàmica.
+-	Dúplex TC: S'obtenen fluxes ortodròmmics amb velocitats dins el marge de la normalitat tant en territori anterior com posterior.
+
+4.	Monitorización: Sin arritmias embolígenas.
+
+EVOLUCIÓ CLÍNICA
+Mujer de 73 años con los antecedentes descritos que acude a urgencias por clínica de inicio brusco de hemicorea y hemibalismo. A su llegada constantes conservadas y ECG en ritmo sinusal. El TC Craneal no muestra alteraciones y el Angio-TC Craneal pone de manifiesto aneurisma sacular de la ACA d'uns 4 x 3 mm. Se orienta el caso como ataque isquémico transitorio por lo que durante el ingreso la paciente ha sido sometida a un estudio etiológico del mismo. El estudio neurosonológico ha puesto de manifiesto la persencia de una leve ateromatosis carotídea. La monitorización cardíaca no han mostrado alteraciones relevantes. La RM de cráneo practicaa no ha visualizado una lesión isquémica aguda. Cabe destacar que la A-RM sobre el polígono de Willis confirma el hallazgo del A-TC consistente con la presencia de un aneurisma sacular de 4 mm de tamaño localizado en la arteria comunicante anterior.
+A tenor de la anamnesis y de la evoución se atribuye a un AIT de perfil lacunar y de localización talámica izquierda. Como tratamietnos de prevención secundaria se recomienda la toma de Adiro 100 mg y Atorvastatina 20 mg.
+Durante el nigerso, la paciente ha permaneciso asintomática y es alta con NIHSS 0. mRS 0.
+
+Habida cuenta del hallazgo de la A-RM y del A-TC se soliciita valoración ambulatoria con Neurocirurgía.
+
+ORIENTACIÓ DIAGNÒSTICA
+1.	AIT de presumible localización talámica izquierda.
+2.	Aneurisma sacular dependiente de la arteria cerebral anterior/arteria comunicante anterior.
+3.	Leve ateromatosis carotídea.
+4.	Artrosis
+1.	
+Informe d'alta d'hospitalització
+
+
+
+
+PROCEDIMENTS
+88.71 Ultrasò diagnòstic de cap i coll. Determinació desviació de la línia mediana cerebral,ecoencefalografia
+88.91 Imatge per ressonància magnètica de cervell i tronc cerebral
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+1.	Dieta pore en grasas de origen animal.
+2.	Adiro 100 mg: 1 comprimido diario con la comida principal.
+3.	Omeprazol 20 mg: 1 comprimido diario previo al desayuno.
+4.	Atorvastatina 20 mg: 1 comprimido diario con la cena.
+5.	Seguirá tomando el resto de tratamientos domiciliarios tal y como venía realizando previo al ingreso.
+
+
+CONTROL
+1.	Será citada para acudir a revisión a las Consulats de Neurocirurgía.
+2.	Será citada para acudir a revisión a las Consultas de Neurología (Dr. _NAME_)
+3.	Se ruega el control estricto de los factores de riesgo vascular a través de su Médico especialista en Medicina Familiar y Comunitaria.
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+22.12.2017
+Pàgina 1 de 3

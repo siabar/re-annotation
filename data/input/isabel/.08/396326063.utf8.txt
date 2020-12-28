@@ -1,0 +1,73 @@
+
+I N F O R M E	D ' A L T A
+
+Cognoms i nom de l'usuari:
+_NAME_	Història Clínica:
+_ID_
+Data d'ingrés:
+20/07/2017	Data d'alta: 27/07/17	Servei:
+NEUROLOGIA	Cap del Servei:
+_NAME_
+Metge que signa l'alta:
+_NAME_	S'informa a:
+Metge de capçalera
+
+Pacient de 69 anys que ingressa procedenet d'UIA _SS_ per infart ACM dreta aterotrombòtic tractat amb rtpa el 11/07
+----------------------------------------- ANTECEDENTS
+No alergias medicamentosas conocidas, FRVC: HTA, DLP, DM en tratamiento médico
+Hábitos tóxiscos: ex fumador y ex-enol con cirrosis hepática enólica en principio estable, varices esofágicas (se desconoce sin sangrado previo), algún episodio de descompensación ascítica.
+Consta IAM en AP de CAP(no encontramos informes).  Bronquiectasias con signos de sobreinfección en último TAC de tórax.
+Situación basal: mRankin 0. Vive solo, independiente para las actividades de la vida diaria
+MEDICACIÓ HABITUAL Aldactone 25mg 2/24h, Furosemida 40mg 1/24h, Konakion 10mg 1/s, Metformina 850mg 1/12h, Omeprazol 20mg 1/24h, Oponaf 10g 1/8h, propranolol 10mg 2/12h, Simvastatina 40mg 1/24h.
+PROCÉS ACTUAL Paciente 69 años. Última vez que alguien lo vio asintomático fue esta mañana a las 10h (lo vio una vecina). Esta tarde refiere que intentó vestirse a las 16,30 y no pudo porque le falló la fuerza de hemicuerpo izquierdo. Vecina avisa a médico de cabecera que acude a domicilio donde objetiva clínica compatible con ACM derecha (disartria hemiparesia FBC izqueirda). Es trasladado por el SEM al _SS_ (RACECAT) donde se realiza trombolisis. Es derivado a nuestro centro para valorar trombectomía.
+Activan código ictus a las 20:45. Llega a _SS_ a las 21:49 TAC craneal a las 22:10 Exploració Física: 143/65 FC 58x' Sat 02 96%, INR 1 DXT 124 A nivel NRL se encuentra consciente y orientado en persona, tiempo y espacio. Obdece dos órdenes simples. No alteraciones del lenguaje. Disartria (2). No HH por confrontación, extinción visual (1), PFSN I (2), ppcc bajos normales. Paresia BI 4/5 (1). Extinción sensitiva izquierda (1). No anosognosia ni asomatognosia. NIHSS 7 Se comenta el estudio con angioTC TSA con neuroradiología. En la reconstrucción no objetiva disección siendo más probable la imagen compatible con trombo flotante en ACI extracraneal postbifurcación. Ingreso en NRL (unidad de ictus) para estudio y control evolutivo. TAC post rTPA a las 24 h pendiente para inicio de antiagregación.
+EXPLORACIÓ FÍSICA - Hemodinámicamente estable y afebril. Normohidratado y Normocoloreado. HMDE; afebril, SatO2 96%, Fc 60 lpm - AC: Tonos rítmicos, sin soplos. Pulsos periféricos presentes y simétricos. Ingurgitación yugular negativa, RHJ (-). - AR: MVC, sin ruidos añadidos -ABD: Abdomen blando y depresible. No doloroso a la palpación superficial ni profunda. No presencia de masas ni visceromegalias. Peristaltismo presente. PPL (-) bilateral. -NRL: consciente, orientado en espacio, tiempo y persona.
+Lenguaje sin alteraciones. Disartria (1). MOEs conservados Campimetría normal. Pares craneales normales. Fuerza con mano caída izquierda, resto normal. Sensibilidad sin alteraciones. RCP flexor bilateral. NIHSS 0. - EEII: No edemas periféricos, no signos de TVP.
+EXPLORACIÓ COMPLEMENTÀRIA PRUEBAS EN URGENCIAS
+Analítica:
+Bioquímica: Glucosa: 5.4mmol/L, Creatinina: 69umol/L, Urea: 4.6mmol/L, Na+: 138mmol/L, K+: interferencia por hemólisis Hemograma: Hb 119g/L, ht 34%, VCM 92fL, Plaquetas 89x10E9/L, Leucocitos:4.3x10E9/L (N:51.1%, L: 31.6%) Coagulación: interferencia por hemólisis
+Rx tórax: centrada, bien inspirada, marco óseo con rectificación costal, senos costofrénicos libres, redistribución vascular.
+TC craneal: Estructuras de la línea media no desplazadas. Pequeño foco  espontáneamente hiperdenso en lóbulo temporal derecho sugestivo de pequeño hematoma intraparenquimatoso. No se observan otras alteraciones significativas en la atenuación del parénquima cerebral. Dilatación de surcos corticales, sistema ventricular y cisternas basales proporcional a la edad del paciente. No se aprecian signos de sufusión hemática aguda en el momento actual. Ocupación de hemiseno esfenoidal derecho.
+ANGIOTC CRANEAL Y DE TRONCOS SUPRAAÓRTICOS: Foco espontáneamente hiperdenso en lóbulo temporal derecho sugestivo de pequeño hematoma intraparenquimatoso.
+Discreto defecto de repleción en arteria carótida interna derecha postbifurcación con dudosa imagen lineal longitudinal al vaso que no permite descartar pequeña disección. Cambios involutivos.
+PRUEBAS EN PLANTA DE NEUROLOGÍA
+TAC de control (a las 11:04): Pequeña sufusión hemorrágica temporal media y anterior, e ínfima cortical temporal superior i posterior, ambas derechas. Sin cambios valorables. Resto también sin cambios ni nuevas alteraciones patológicas valorables.
+TAC y AngioTAC craneal y TSA (14/07, a las 13:42): Nova calcificació vascular silviana dreta. -Oclusió coincidint amb la calcificació a nivell M2-M3 dreta divisions anterior de la subdivisió inferior . Resta TC cranial i angioTCs sense canvis destacables valorables.
+ETT (17/07): Ventrículo izquierdo no dilatado ni hipertrófico con buena contractilidad global y sin segmentarismos. Ventrículo derecho normal. Dinámica ventricular derecha normal. Válvula mitral normal. Insuficiencia mitral ligera. Válvula aórtica trivalva, esclerosada, con imagen nodular fibrocalcificada sobre velo no coronárico, con insuficiencia aórtica ligera. Ausencia de insuficiencia tricuspidea. Flujo pulmonar normal. Presión venosa central no elevada. Ausencia de derrame pericárdico.
+RM cerebral y AngioRM TSA (19/07): Áreas de infarto establecido en regiones descritas, con focos de sangrado subagudo a nivel temporal (pequeño hematoma sin efecto de masa significativao), frontal y parietal ipsilaterales. Mínima contaminación hemática del asta occipital del ventriculo ateral derecho. Estudio angioRM sin hallazgos relevantes.
+EVOLUCIÓ CLÍNICA Paciente con ictus ACM derecha en contexto de paciente con posible trombo carotideo y embolismo en M1 derecho, se trató con tormbolisis en _SS_ y derivación para neurointervencionismo que se descartó por ausencia oclusión evidente y transformación hemorrágica hemisférico derecho postrombolisis. Presenta 2 días después episodio de oscilación clínica en forma de NIH:11 que recupera atribuido a oclusión distal por afectación de M2-M3 en contexto de calcificación con posterior recuperación. Actualmente leve paresia izquierda 4/5 braquio crural con afectación facial y extinción sensitiva. NIH:6 Se deriva a hospital de referencia, _SS_ con envio de informe 18/07/201/, de acuerdo con familia para seguir evolución , inicio antiagregación y posteriormente rehabilitación. El 20/07 el paciente presenta pico febril de 38.1ºC, bien tolerado, sin fiebre, manteniéndose hemodinámicamente estable. Se   realiza analítica, sedimento de orina, 2 hemocultiso y un urocultivo, quedando pendientes todos los resultados, y no empezando tratamiento antibiótico dado buena tolerancia de la fiebre y ausencia de foco actual (posibilidad de foco urinario en paciente sondado pero  sin resultados analíticos todavia). Para completar estudio, queda pendiente solicitar una radiografía de tórax, no realizándose en _SS_ por llegada de la ambulancia. Se comenta tanto con el paciente como con Internista de guardia del _SS_ y aceptan el traslado.
+
+-------------------------------------------
+Exploració física planta _SS_ 21/07: conscient, orientat. disàrtria lleu-moderada. Extinció visual. No alt oculomotora. Hemiparèsia facio braquio 4/5 prox 1/5 distal, crural 5/5 esq. no hipoestèsia. AC sorolls irregulars. AR MVC.
+
+Exploracions complementàries:
+Sediment (20/07) 20-40 leucos/camp, Urocultiu: Morganella morganii i E.coli. Analítica (20/07) 5000 leucos
+Analítica ingrés 21/07: VSG 81.0 mm/h, Leucòcits 4.50 10e9/L, Hemoglobina 13 g/dL, Hematòcrit 36 %, VCM 91.30 fL, HCM 32.1 pg, Plaquetes 91.0 10e9/L, T.protrombina
+67.0 %, Glucosa 100.9 mg/dL, Triglicèrid 84.9 mg/dL, Colesterol 118.30 mg/dL, Creatinina 1.0 mg/dL, Urea 25.8 mg/dL, sodi 138.0 mmol/L, potassi 3.4 mmol/L, Calci
+8.5 mg/dL, Bilirubina 1.47 mg/dL, AST 42.0 U/L, ALT 26.4 U/L, Fosf Alcalina 90.0 U/L, GGT 127.8 U/L, Proteïna 6.7 g/dL
+Rx tòrax normal.
+
+Evolució: durant l'estada a planta es manté amb tendència a la hipotensió i bradicàrdia per la qual cosa s'ha retirat el tractament amb betabloquejants. A revalorar la seva reintroducció evolutivament. Des del punt de vista neurològic s'ha mantingut estable, iniciant FST amb bona tolerància. En el moment actual ha iniciat bipedestació i deambulació assistida. Rankin 3, Barthel 50. Canadenca 7.5, NIH 5. Com a incidència ha presentat sd febril en context d'infecció urinària. Es pauta tractament antibiòtic segons consell d'infeccions.
+D'acord amb equip d'ufiss es decideix trasllat a convalescència per completar evolució.
+
+Diagnòstics:
+Infart isquèmic de territori parcial ACM dreta d'etiologia aterotrombòtica.
+Infecció urinària per E.coli i M.morganii. Els previs.
+
+Tractament: s'adjunta.
+
+
+Atentament,
+
+
+Dra._NAME_. Col._ID_
+
+ADREÇA
+_LOCATION_, _CONTACT_ _LOCATION_ _CONTACT_
+TELEFONS
+_LOCATION_
+_LOCATION_
+DIGITAL
+TEL. _CONTACT_
+FAX. _CONTACT_
+1 / 3

@@ -1,0 +1,99 @@
+_LOCATION_
+Tel. _CONTACT_
+_LOCATION_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 59 Anys
+NIF/DNI:Informe d'alta d'hospitalització
+11:56:57
+12.07.2017
+_LOCATION_
+_SS_ - EL UNITAT FUNCIONAL D'ICTUS
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_; _CONTACT_
+ATEN.PRIMÀRIA 10.07.2017
+_NAME_
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+CODI ICTUS
+59 anys, activa urgències a les 12:30 h per desviació de la boca i parestèsies al braç esquerre.
+
+
+ANTECEDENTS
+AP: HTA, Dislipemia, insomni. Tto ramipril 10 mg al dia. No AMC. Rankin previ de 0.
+
+
+MEDICACIÓ HABITUAL
+ramipril 10 mg al dia.
+
+PROCÉS ACTUAL
+Malaltia actual: Pacient que refereix que sobre les 08:00 h es lleva de matí del dia 10/07 i nota adormiment de hemillavi/boca esquerra i adormiment del braç esquerre. Nega deficit motor visual i/o altres alteracions. si que refereix mal de cpa nucal lleu paroxistic. el dia previ molt be sense simptomaotlogia. Acut al CAP, des d'on a les 11:11 es decideix derivar a _SS_, on arriba sobre les 12:15, activaant-se codi Ictus a les 12:30 h, es solicita TC a les 12:40 i es fa a les 13:00 h.
+
+
+EXPLORACIÓ FÍSICA
+
+Exploració Física/Neurologica:   Sat O2 100% glic 110 TA: 175/95 afebril 36,2ºC Fc 80
+Pacient conscient i orientada amb resta de fucnions superiros normals, picinr, campimetria normal, crida atencio paresia facia cnetral esquerra, amb hemihipoestesia d'hemiocara i braç esquerre, força a braç i cama normal, RCP flexor bilateral, resta sense alteraicons. NIHSS de 2 per facial lleu i hipeostesia.
+Auscultacio cardiorespiratòria i abdomen normal.
+
+
+EXPLORACIÓ COMPLEMENTÀRIA
+Exploraicons Complementariesa urgències:
+
+-	Anàlisi de sang: glic de 110, resta sens ealteraicons a destacar. -Rx de tporax: normal. -ECG: Ritme sinusal, PR de 0.12seg, QRS estrte, sense alt a la repolarització.
+-	TC multiparamètric:  CONCLUSIONES:- Estudio sin evidencia de sangrado intracraneal ni infarto isquémico instaurado.- Troncos supraórticos sin anomalías.
+
+Exploracions Complementaries a Unitat d'Ictus:
+
+Informe d'alta d'hospitalització
+
+
+
+
+-	Anàlisi de sang a planta: Destaca hipercolesterolemia de 262 mg/dl, HDL de 80, LDL de 151, TG de 153.Resta BQ, hemostasia i hemograma sense alteracions rellevants.
+
+-	ECG a planta: Ritme sinusal ,a 70 b.p.m., PR de 0.12 seg, QRS estret, sense alteraicons a la repolarització.
+
+-	Eco-Doppler TSA: ACeleracio  de un 30 % de carotida intrena dreta del 1/3 mig al distal. Resta   Sense estenosi hemodinàmicamnet significatives
+
+
+EVOLUCIÓ CLÍNICA
+Pacient de 59 anys, Rankin previ de 0, ingressa per codi Ictus dia 10/07 per síndorme lalcunar queiro-oral esquerre, amb neutroimatge multiparamètricaa urgències normal y angio-TC sense alteraicons. Atesa la poca afectació clínica amb NIHSS de 2 per paresia facial cnetral esq i sde hemisensitiu i l'absència d'oclusió de gran vas es desestima trcfatament fibrinolític amb rt-PA. e.v.
+
+Ingressa a Unitat d'Ictus en trcatament antiagregant, per evolució clínica i estudi etiològic. Es descarten estenosis carotidies significatives per Eco-TSA i es detecta dislipemia mixta iniciant-se trcatament amb estatines. No es pot confirmar l'infart per falta de disponibilitat de RMN cerebral, però atesa l'estabilitat cl´ñinica en 48 hores, es decideix donar l'alta a domicili per seguir trcatament i controls de forma ambulatòria.
+
+A l'alta, Rankin 1 NIHSS de 2.
+
+DIAGNÒSTICS
+436/5 Ictus isquèmic agut de territori indeterminat dret i etiologia llacunar. (síndrome queiro-oral esquerre). 401.9/2 Hipertensió arterial.
+272.4/1 Dislipemia.
+784.51 Disartria.
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+1.	DIETA BAIXA EN SAL I EN GREIXOS.
+2.	OMEPRAZOL 20 MG 1 CP EN DEJÚ
+3.	ENALAPRIL 10 MG 1 CP SOBRE LES 12:00 DEL MIGDIA.
+4.	ADIRO 300 MG 1 CP DESPRÉS DE DINAR.
+5.	ATORVASTATINA 40 MG 1 CP DESPÉS DE SOPAR.
+
+CONTROL
+HAURÀ D'ACUDIR EL DIVENDRES 14/07/2017 A LES 12:45 H PER A REALITZACIÓ DE RMN CEREBRAL DE FORMA AMBULATÒRIA.
+
+HAURÀ D'ACUDIR A CCEE DE NEUROLOGIA A LA DATA QUE S'INDICA.
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+12.07.2017
+Pàgina 1 de 2

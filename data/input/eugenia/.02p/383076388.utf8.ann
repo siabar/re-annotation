@@ -1,0 +1,87 @@
+T0	_SUG_Lateralizacion 244 245	I
+T1	FECHA 309 319	12/06/2017
+#1	AnnotatorNotes T1	2017-06-12
+T2	FECHA 377 387	13/06/2017
+#2	AnnotatorNotes T2	2017-06-13
+T3	FECHA 425 434	22/6/2017
+#3	AnnotatorNotes T3	2017-06-22
+T4	SECCION_MOTIVO_DE_INGRESO 437 451	MOTIU D'INGRÉS
+T5	_SUG_Ictus_isquemico 504 509	ICTUS
+T6	SECCION_ANTECEDENTES_PERSONALES 512 533	ANTECEDENTS PERSONALS
+T7	SECCION_SITUACION_FUNCIONAL 710 733	Situació sociofuncional
+T8	_SUG_mRankin_alta 851 856	mRS 0
+T9	_SUG_mRankin_previa 851 856	mRS 0
+T10	SECCION_TRATAMIENTO_HABITUAL 859 878	Tractament habitual
+T11	_SUG_Tratamiento_antiagregante_alta 1008 1013	adiro
+T12	_SUG_Tratamiento_antiagregante_hab 1008 1013	adiro
+T13	SECCION_TRATAMIENTO_HABITUAL 9898 9908	TRACTAMENT
+T14	_SUG_Tratamiento_antiagregante_alta 9910 9921	Clopidogrel
+T15	_SUG_Tratamiento_antiagregante_hab 9910 9921	Clopidogrel
+T16	_SUG_Etiologia 9984 9992	habitual
+T17	_SUG_Tratamiento_antiagregante_alta 10101 10106	adiro
+T18	_SUG_Tratamiento_antiagregante_hab 10101 10106	adiro
+T19	FECHA 10388 10398	22/06/2017
+#19	AnnotatorNotes T19	2017-06-22
+T20	HORA 10399 10404	11:32
+#20	AnnotatorNotes T20	11:32
+T21	SECCION_PROCESO_ACTUAL 1098 1113	MALALTIA ACTUAL
+T22	FECHA 1179 1184	12/06
+#22	AnnotatorNotes T22	2017-06-12
+T23	SECCION_EXPLORACION_FISICA 1389 1406	EXPLORACIÓ FÍSICA
+T24	_SUG_NIHSS_alta 1802 1809	NIHSS 4
+T25	_SUG_NIHSS_previa 1802 1809	NIHSS 4
+T26	_SUG_NIHSS_alta 2389 2396	NIHSS 2
+T27	_SUG_NIHSS_previa 2389 2396	NIHSS 2
+T28	SECCION_EXPLORACIONES_COMPLEMENTARIAS 2399 2427	EXPLORACIONS COMPLEMENTÀRIES
+T29	_SUG_TAC_craneal 2805 2816	TAC craneal
+T30	_SUG_Localizacion 2864 2875	ventricular
+T31	_SUG_Localizacion 3229 3239	lenticular
+T32	_SUG_Lateralizacion 3240 3249	izquierda
+T33	_SUG_ASPECTS 3253 3260	aspecto
+T34	_SUG_TAC_craneal 3490 3500	TC cranial
+T35	_SUG_Localizacion 3572 3583	ventricular
+T36	_SUG_Localizacion 3945 3955	lenticular
+T37	_SUG_Lateralizacion 3956 3965	izquierda
+T38	_SUG_TAC_craneal 3987 3989	TC
+T39	FECHA 3994 4004	12/06/2017
+#39	AnnotatorNotes T39	2017-06-12
+T40	_SUG_Localizacion 4985 4991	tronco
+T41	_SUG_Localizacion 5417 5423	tronco
+T42	_SUG_Localizacion 5439 5447	cerebelo
+T43	_SUG_Localizacion 5657 5668	ventricular
+T44	_SUG_Localizacion 5903 5909	tronco
+T45	_SUG_Arteria_afectada 6044 6070	arterias cerebrales medias
+T46	_SUG_Localizacion 6084 6095	posteriores
+T47	_SUG_Lateralizacion 6236 6243	derecha
+T48	_SUG_Lateralizacion 6311 6320	izquierdo
+T49	_SUG_Localizacion 6369 6379	cerebelosa
+T50	_SUG_Lateralizacion 6409 6418	izquierdo
+T51	_SUG_Localizacion 6522 6533	ventricular
+T52	_SUG_Lateralizacion 6574 6583	izquierda
+T53	_SUG_Lateralizacion 6869 6876	derecho
+T54	_SUG_Etiologia 7195 7207	hipertensión
+T55	_SUG_Lateralizacion 7245 7246	I
+T56	_SUG_Arteria_afectada 7266 7285	ARTÈRIES VERTEBRALS
+T57	_SUG_Localizacion 7597 7606	posterior
+T58	_SUG_Localizacion 7629 7638	posterior
+T59	_SUG_Localizacion 8075 8084	posterior
+T60	SECCION_EVOLUCION 8349 8357	EVOLUCIÓ
+T61	_SUG_Ictus_isquemico 8384 8398	ictus isquèmic
+T62	_SUG_NIHSS_alta 8591 8598	NIHSS 4
+T63	_SUG_NIHSS_previa 8591 8598	NIHSS 4
+T64	_SUG_Ictus_isquemico 8623 8628	ictus
+T65	_SUG_Trombolisis_intravenosa 8646 8657	fibrinòlisi
+T66	_SUG_Trombolisis_intravenosa 8662 8666	rTPA
+T67	_SUG_NIHSS_alta 8811 8818	NIHSS 2
+T68	_SUG_NIHSS_previa 8811 8818	NIHSS 2
+T69	_SUG_TAC_craneal 8833 8843	TC cranial
+T70	_SUG_Tratamiento_antiagregante_alta 9177 9188	clopidogrel
+T71	_SUG_Tratamiento_antiagregante_hab 9177 9188	clopidogrel
+T72	_SUG_NIHSS_alta 9779 9786	NIHSS 1
+T73	_SUG_NIHSS_previa 9779 9786	NIHSS 1
+T74	_SUG_Lateralizacion 9802 9803	D
+T75	SECCION_DIAGNOSTICOS 9812 9825	JUDICI CLÍNIC
+T76	_SUG_Ictus_isquemico 9827 9841	Ictus isquèmic
+T77	_SUG_Arteria_afectada 9842 9845	ACM
+T78	_SUG_Etiologia 9868 9882	terotrombotica
+T79	_SUG_Localizacion 9884 9888	LACI

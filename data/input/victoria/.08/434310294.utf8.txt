@@ -1,0 +1,231 @@
+_LOCATION_ Tel. _CONTACT_
+e-mail: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 80 Anys
+NIF/DNI: _ID_Informe d'alta d'hospitalització
+14:15:00
+30.10.2017
+_LOCATION_
+_SS_ NEUROLOGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_
+DOMICIL/RES.SOC 19.10.2017
+Dr. _NAME_, Dra. _NAME_, Dr. _NAME_, Dra. _NAME_
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Alteración de la emisión del lenguaje
+
+ANTECEDENTS
+ANTECEDENTES PERSONALES:
+Paciente de 80 años, sin alergias medicamentosas conocidas ni hábitos tóxicos (fumadora pasiva de años de evolución). Independiente para las actividades básicas de la vida diaria (mRS 0), va ala gimnasio y a la escuela. Trabajó como asistenta de hogar hasta hace 15 años.
+
+ANTECEDENTES PATOLÓGICOS:
+-	Diabetes mellitus tipo II en tratamiento farmacológico. Como complilcaciones macroangiopáticas presenta cardiopatía isquémica y arteriopatía periférica. Como complicaciones microangiopáticas presenta microhemorragias retinianas en la periferia y perimaculares. Sigue controles por endocrinología.
+-	Hipertensión arterial en tratamiento con 3 fármacos (). Refiere mal control de cifras tensionales. Sigue controles por su médico de familia.
+-	Hipercolesterolemia actualmente en tratamiento dietética.
+-	FA en tratamiento frenador con diltiazem. Se desestimó tratamiento anticoagulante por plaquetopenia secundaria a hepatopatía.
+-	Anemia ferropénica crónica. Fue estudiada mediante FGS (julio 2014) que informo de gastritis crónica activa con moderada atrofia (AP) y FCS (julio 2014) que informo de angiodisplasias de colon ascendente. Precisó transfusión en 2014 y continúo con tratamiento con hierro oral, que actualmente no realiza.
+-	Cardiopatía isquémica que debutó en forma de infarto agudo de miocardio en el año 2002 en cara inferior y un angor inestable en 2007 tratada con revascularización mediante 3 stents. Posteriormente episodios de insuficencia cardiaca aguda (último episodio en abril 2012, según consta en informes hospitalarios). Último ecocardiograma (mayo 2017) Insuficiencia tricuspídea moderada, HT pulmonar severa. PAPs 72mmHg. Estenosis aórtica ligera-moderada 2ª a calcificación de sigmoides (válvula trivalva). Insuficiencia mitral ligera 2ª a calcificación del anillo. Ventrículo izquierdo con ligera hipertrofia concéntrica, no dilatado y de normal motilidad global y segmentaria. Ventrículo derecho de normales medidas y motilidad. FE 75%. Ligera dilatación biauricular. Sigue control cardiológico en Unidad Coronaria de _SS_ de _LOCATION_.
+-	Arteriopatía periférica bilateral en fase de claudicación intermitente que sigue controles por Angiologia y Cirugía Vascular. Último control en enero 2017 mostró ITB derecho de 0.66; ITB izquierdo de 0.8.
+-	Hepatopatía crónica por VHC genotipo 1b con cirrosis asociada diagnosticada en 2008 con esplenomegalia y plaquetopenia, sin signos endoscopicos de hipertensión portal (última EDA 2014). En  2012 presentó descompensación ascitica edematosa en 2012. Última ecografía abdominal en junio 2015  no LOES. Sigue controles en CCEE de digestología con última visita 28/04.ANA normal, plaquetas: 73000 Visita anterior 28/06/16 con análisis con resultados de RNA VHC 516000 UI/ml. F4. HTPortal; 81000 plaq, TP 77%, BrT 0.8, Alb 32. Inició tratamiento de 12 semanas con Exviera 1-0-1 + Viekirax 2-0-0 pero luego lo suspendieron por Hiperpotasemia. (Controles con Dr. _NAME_).
+Eco abdominal (21/04/2017): Hígado con incipiente hipertrofia de los lóbulos izquierdo y caudado, con la ecoestrucutra algo gorsera a gránulo fino, en relación a discretos cambios por  hepatopatía crónica. No se identifican lesionesfocales ocupantes de espacio. Vena porta permeable., de calibre normal. Vesícula biliar de contenido líquido y paredes lisas. Vía biliar no dilatada. Páncreas visualizado parcialmente (cabeza y cuerpo) sin
+
+Informe d'alta d'hospitalització
+
+
+
+
+alteraciones visibles.#
+Bazo homogéneo, de tamaño normal. Riñones de tamaño y morfología normales, sin evidencia de litiasis ni de dilatación de vías excretoras. Vejiga urinaria repleccionada, sin alteraciones visibles. No se visualizan adenopatías retroperitoneales, mesentéricas ni pélvicas de tamaño significativo.
+-	Asma bronquial con última espirometría en abril 2016 que informó de FVC 64% , FEV1 70% . FEV1/FVC 107%. Rx tórax (01/04/2016). Parénquima pulmonar sin hallazgos radiológicos significativos. No realiza tratamiento broncodilatador de mantenimiento, solo de rescate en ocasiones puntuales.
+-Neumonía en lóbulo superior derecho en mayo/2017 que recibió ingreso en _SS_, tratada mediante amoxicilina-clavulánico y resuelta.
+-	Hernia de hiato diagnosticada por FGS en 2010. Realiza tratamiento farmacológico.
+-	Facoemulsión ojo derecho en 2009. Pendiente de intervención ojo izquierdo.
+
+MEDICACIÓ HABITUAL
+Adiro 100 mg cada 24 horas, aldactone 100 mg cada 24 horas, Atrovent 200 mcg 3 inh cada 24 horas, Budesonida
+200 mcg cada 12 horas, Diltiazem 60 mg cada 12 horas, Epinitril 10 mg parches, Furosemida 40 mg cada 24 horas, Hemovas 600 mg cada 24 horas, Lantus 36 UI, Lercadip 10 mg cada 24 horas, Nolotil 575 mg si precisa, Replaginida  2  mg 4  comp  cada  8  horas, Ristaben  50  mg cada  24  horas, Seroxat  20  mg cada  24  horas,
+Simvastatina 40 mg cada 24 horas, Ulcotenal 20 mg cada 24 horas
+
+PROCÉS ACTUAL
+Es encontrada en domcilio el dia 19/10/2017 a las 19:00h con incapacidad para la emisión del lenguaje. Última vez vista asintomática a las 15:45h del mismo día (habla telefonicamente con familiar). Se activa Código ictus a las 19:10h a nivel SEM. Llega a nuestro centro a las 19:25h.
+
+EXPLORACIÓ FÍSICA
+
+FC	125 bpm
+Tªaxi 35.1 ºC
+FR	rpm Tªrec  ºC
+TA s	126 mmHg SAT O2 98 %
+TA d   73 mmHg Pes Kg
+
+Exploración neurologica en Urgencias:
+Vigil, obedece órdenes simples. No emite lenguaje. Desviación de la mirada a la izquierda con reflejos oculocefálicos sin alteraciones. Hemianopsia homónima derecha por reflejo de amenaza. Leve paresia facial. Muy leve claudicación braquial derecha sin deficit motor en extremidades inferiores. Sensibilidad no posible de explorar.
+
+NIHSS: (0.2.0)1.2/1(1.0)(0.0)/0.1.2.3. 0 =14
+
+Exploración en Unidad de ictus:
+Consciente, orientación no valorable por afasia mixta de predominio motor. No emite lenguaje pero comprende órdenes sencillas y complejas. Pupilas isocóricas normoreactivas. Preferencia oculocefálica a la izquierda que cruza línea media. Hemianopsia homónima derecha por confrontación. No paresia ni hipoestesia facial. Fuerza y tono normal. Sensibilidad superficial conservada. No dismetrías. NIHSS: (0.2.0)1.2/0(0.0)(0.0)/0.0.3.2. 0 = 5.
+
+AC: ruídos cardíacos irregulares, sin soplos cardíacos ni carotideos. No IY ni RHY ni edemas.
+AR: hipofonesis global, roncus abundantes, crepitantes bibasales de predominio izquierdo y algún sibilante. Eupneica con VMK. Abdomen blando y depresible, sin masas ni megalias, no palpo masas ni megalias, no dolor a la palpación.
+
+Informe d'alta d'hospitalització
+
+
+
+
+
+Exploración física en planta de Neurologia:
+Consciente, con afasia global de predominio motor. Aparentemente orientada en espacio y persona (tiempo no valorable por trastorno del lenguaje). Obedece órdenes sencillas y algunas complejas aunque tiende a intoxicarse.Oculomotricidad sin alteracione; no trastorno campimétrico; paresia facial central derecha ; no otras alteraciones en resto de pares craneales. No déficit motor ni dismetrías. No trastorno sensitivo.
+NIHSS: 0.1.0.0.0/1.(0.0).(0.0)/0.0.3.2.0=7
+
+
+EXPLORACIÓ COMPLEMENTÀRIA
+EXPLORACIONES COMPLEMENTARIAS EN URGENCIAS:
+
+ECG: FA a 100 lpm, Eje a 60º. QRS 100 ms sin supra ni infradesnivelaciones del ST. T positivas
+
+Analítica urgente (19.10.2017): Hematologia (19/10/17): Leucocitos 8500 /µL, (N 69,4 % / L 18 / M 10,2 / E 1,8 / B 0,6), Htíes 3,85 mill/µL, Hb 11,3 g/dL, Hcto 34,2 %, VCM 88,8 fL, Plaquetes 102000 /µL, TP 68 %, INR 1,34 sg, TP
+ratio 1,34, TTPA 30,7 sg, TTPA ratio 0,99, Fibrinógeno 389 mg/dL.
+Bioquimica (19/10/17): Glucosa 131 mg/dL, Urea 61, Creatinina 0,96, Na 135,1 mmol/L, K 5,5, Prot-C reactiva 7,5 mg/L.
+Orina (19/10/17): Densidad 1,017, pH 7, Proteína 10 mg/dL, Glucosa [-], C Cetonicos 0 mg/dL, Bilirrubina [-], Hb [-], Urobilinogeno 0,2 mg/dL, Nitritos [-], Esterasa leucocitica 0 leucos/µL, Bacterias Escasas, Eritrocitos 1-2 /cmp, Leucocitos 1-2.
+
+TC craneal /angioTC / TC perfusión:
+-TC craneal: Pérdida de la diferenciación sustancia gris-blanca frontal izquierda y de  la cintilla  insular, con borramiento de los surcos. ASPECTS 7. Atrofia cerebral difusa. No se aprecian otras alteraciones intra  ni extraaxiales TC valorables.
+-AngioTC craneal: correcta permeabilidad de cayado aórtico, TSA, carótidas primitivas y carótidas internas y externas. Placas de ateromatosis calcificadas en cayado aórtico, ostium de tronco braquiocefálico derecho, arteria subclavia izquierda, arteria carótida derecha e izquierda y ambas arterias vertebrales, en ambas bifurcaciones carotídeas, en ambas arterias carótidas internas en sus porciones cervical, cavernosas y clinoides, sin evidencia de estenosis significativa. Defecto de repleción de ACM izquierda en segmento M2 con regulares colaterales. Resto del polígono de Willis y sus ramas permeables sin estenosis significativas ni defectos de repleción TC valorables. Circulación posterior con arteria vertebral derecha, arteria basilar y sus ramas permeables. Placas calcificadas en ambas arterias vertebrales en su porción intradural, sin evidencia de estenosis significativa. No se observan aneurismas ni otras malformaciones vasculares TC valorables. Derrame pleural bilateral de predominio derecho.
+-TC perfusión: se aprecia un alargamiento del tiempo de tránsito medio en localización  frontal izquierda con disminución del volumen sanguíneo cerebral en su margen más caudal y con preservación del volumen sanguíneo cerebral en la convexidad. Todo ello compatible con lesión isquémica de territorio ACM izquierda con pequeña área de penumbra.
+
+EXPLORACIONES COMPLEMENTARIAS EN UNIDAD DE ICTUS:
+
+Analítica (20/10/17). Hematologia (20/10/17): Leucocitos 6600 /µL, (N 92,4 % / L 4 / M 3,1 / E 0,2 / B 0,3), Htíes 3,84 mill/µL, Hb 11,4 g/dL, Hcto 34,1 %, VCM 88,7 fL, Plaquetes 65000 /µL, TP 69 %, INR 1,32 sg, TP ratio 1,32,
+TTPA 30,5 sg, TTPA ratio 0,98, Fibrinógeno 411 mg/dL.
+
+Informe d'alta d'hospitalització
+
+
+
+
+Bioquimica (20/10/17): Glucosa 265 mg/dL, HbA1c 6,6 %, Urea 44 mg/dL, Creatinina 0,88, Filtrado glomerular estimado 62 mL/min/1.73 m2, Uratos 6,9 mg/dL, Ca 8,5, Mg 2,19, Na 134,7 mmol/L, K 6,22, Cl 103,3, ALT 43 U/L,
+AST 43, GGT 74, FA 176, LDH 200, Bilirrubina 1,22 mg/dL, Prot-C reactiva 9,8 mg/L, Proteína 83,4 g/L, Albúmina
+38,6. Proteinograma.- Alb 38,8, a1·Glob 3,6, a2·Glob 8,2, ß·Glob 9, ?·Glob 23,8. Lípidos.- Triglicéridos 76 mg/dL,
+Colesterol 145, (HDL 50 / LDL 80). Hormonas (20/10/17): TSH 1,76 µUI/mL.
+
+GSA (20/10/17): pH 7,27, pCO2 48 mmHg, pO2 65, HCO3 22 mmol/L, Exc Base -5, Sat O2 90,5 %.
+
+Rx tórax (20/10/17): condensación parenquimatosa en patrón alveolar bilateral compatible con edema agudo de pulmón.
+
+Ecocardiograma transtorácico (20/10/17): Ventricle esquerre no dilatat i lleugera-moderadament hipertròfic. Funció sistòlica global conservada. Aurícula esquerra moderadament dilatada. Insuficiència mitral lleugera. Estenosi aòrtica lleugera-moderada degenerativa. Alteració diastòlica tipus II. Ventricle dret no dilatat i normocontràctil. Hipertensió pulmonar severa.
+
+Analíitica (24/10/17): Hematologia (24/10/17): Leucocitos 9200 /µL, (N 80,4 % / L 8,9 / M 10,4 / E 0,1 / B 0,2), Htíes 4,44 mill/µL, Hb 13 g/dL, Hcto 39,5 %, VCM 89 fL, Plaquetes 71000 /µL, TP 69 %, INR 1,32 sg, TP ratio
+1,32, TTPA 28,8 sg, TTPA ratio 0,93, Fibrinógeno 386 mg/dL.
+Bioquimica (24/10/17): Glucosa 219 mg/dL, Urea 58, Creatinina 0,77, Filtrado glomerular estimado 73 mL/min/1.73 m2, Ca 9,3 mg/dL, Na 140,1 mmol/L, K 3,9, ALT 33 U/L, GGT 85, FA 133, Bilirrubina 0,83 mg/dL, CK 18 U/L, Prot-C reactiva 9,2 mg/L, Albúmina 34 g/L.
+
+Rx tórax (20/10/17): mejoría sustancial del infiltrado alevolar bilateral con pequeños restos de infiltrado, senos costofrénicos libres.
+
+EXPLORACIONES COMPLEMENTARIAS EN PLANTA DE NEUROLOGIA:
+
+Sedimento de orina (25/10/2017): Orina (25/10/17): Densidad 1,01, pH 6,5, Proteína 0 mg/dL, Glucosa [-], C Cetonicos 0 mg/dL, Bilirrubina [-], Hb [-], Urobilinogeno 0,2 mg/dL, Nitritos [-], Esterasa leucocitica 0 leucos/µL, Bacterias 15, Eritrocitos 1-2 /cmp, Leucocitos 2.
+
+RX tórax de control (24/10/2017): Es compara amb estudi previ del dia 20/10/2017 observant-se resolució de l'augment de densitat a hemitòrax dret així com del pinçament del si costofrènic esquerre, en relació amb milloria del signes de edema agut de pulmó. Lleu pinçament del si costofrènic dret.
+
+Control tratamiento anticoagulante Hematologia (30/10/17): TP 18 %, INR 4,28 sg, TP ratio 4,34, TTPA 38,4 sg, TTPA ratio 1,24, Fibrinógeno 350 mg/dL.
+
+
+Analítica de control (30/10/2017): Hematologia (30/10/17): Leucocitos 10300 /µL, (N 72 % / L 17 / M 9,3 / E 1,3 / B 0,4), Htíes 4,74 mill/µL, Hb 14 g/dL, Hcto 41,5 %, VCM 87,7 fL, Plaquetes 79000 /µL.
+Bioquimica (30/10/17): Glucosa 194 mg/dL, Urea 43, Creatinina 0,74, Filtrado glomerular estimado 77 mL/min/1.73 m2, Na 140,8 mmol/L, K 4,89, ALT 56 U/L, AST 40, FA 131, Bilirrubina 0,7 mg/dL, Proteína 75 g/L.
+
+Informe d'alta d'hospitalització
+
+
+
+EVOLUCIÓ CLÍNICA
+Mujer de 80 años, mRS 0, con antecedentes de hipertensión arterial, diabetes mellitus 2, dislipemia, cardiopatía isquémica revascularizada, arteriopatía periférica, fibrilación auricular no anticoagulada por plaquetopenia, hepatopatía en fase cirrótica HVC+ que es traida como código ictus por afasia de expresión de 3h 30 min de evolución.
+A su llegada a Urgencias, normotensa y afebril. A la exploración neurologica se objetiva afasia de predominio motor, hemianopsia homónima derecha y leve paresia faciobraquial derecha, puntuando un NIHSS de 14. ECG en fibrilación auricular a 100lpm. Analítica muestra leve hiperpotasemia (K 5,5), leve anemia (Hb 11.3) y plaquetopenia (103.000) Se realiza TC craneal que muestra area hipodensia frontal y desdiferenciación de sustancia blanca/gris insular izquierdas, ASPECTS 7. Se realiza angioTC craneal que muestra oclusión de rama distal de territorio M2 de arteria cerebral media y TC perfusión con lesión frontal izquierda establecida. Se desestima fibrinolisis por plaquetas en límite con varias determinaciones previas de alrededor de 75.000 y se desestima tratamiento endovascular por ausencia de oclusión de gran vaso. Como complicación presenta episodio de insuficiencia respiratoria de etiología mixta (insuficiencia cardíaca y infección respiratoria de vías bajas) por lo que se inicia tratamiento diurético, broncodilatador, corticoterapia y antibioterapia (amoxicilina clavulánico desde 20/10/17). Se decide ingreso en Unidad de ictus para estudio y control evolutivo.
+
+Durante el ingreso en Unidad de ictus se mantiene normotensa, afebril y eupneica con VMK al 50%. Finalmente, es posible retirar oxigenoterapia el día 23/10/17. Se realiza analítica completa que muestra neutrofilia con leve elevación de reactantes de fase aguda (PCR 9) y sin leucocitosis, anemia normocítica leve (Hb 11.4 g/dl), plaquetopenia (65.000) e hiperpotasemia (K 6.2) en contexto de acidosis respiratoria y de haber recibido suplementos, por lo que se retiran los suplementos con normalización posterior del potasio. Analítica también destaca leve patrón colestásico con muy leve hipertransaminasemia, glucemia 265 mg/dl y HbA1c 6,5%. Perfil lipídico y hormonal normal, proteinograma normal. Placas de torax de control posteriores con mejoría del patrón de fallo cardiaco y del derrame bilateral, se suspende antibioterapia y se desescala tratamiento diurético sin presentar nueva complicación respiratoria.
+
+Con tal de valorar relación riesgo/beneficio de iniciar anticoagulación en paciente con hepatopatia Child A y plaquetopenia se solicita valoración por Hepatología, con quienes se consensúa, ante ausencia de contraindicación absoluta, iniciar sintrom el 23/10/17. Se conscensua valoración de varices esofágicas para valorar tratamiento profiláctico, quedando pendiente la FGS de cara al alta (se solicita ambulatoriamente).
+
+Neurológicamente se mantiene con afasia global de predominio motor y leve paresia facial derecha. Tolera dieta oral triturada y líquidos con espesantes y inicia deambulación. Inicia emisión de sonidos por lo que se solicita logopedia de cara al alta.
+Durante el ingreso en la planta presenta descompensación de glicémias por lo que se solicita valoración por Endocrinologia que ajusta insulinoterapia, con buenos controles posteriores, y se orienta como secundaria a proceso estresor en contexto de ingreso hospitalario, por lo que se mantiene mismo tratamiento hipoglicemiante de cara al alta.
+Dada la estabilidad clínica de la paciente, se decide alta a domicilio el 30/10/2017 NIHSS al alta: 7
+mRS al alta: 2
+
+DIAGNÒSTICS
+
+Informe d'alta d'hospitalització
+
+
+
+
+1.-  Ictus  isquémico  de  territorio  de  arteria  cerebral  media  izquierda  de  mecanismo  embólico  y  etiología cardioembólica por fibrilación auricular no anticoagulada que no recibió tratamiento de revascularización
+2.- Hipertensión arterial
+3.- Dislipemia
+4.- Diabetes mellitus 2
+5.- Cardiopatía isquémica revascularizada con clínica de insuficiencia cardiaca izquierda. 6.- Hepatopatía crónica HVC en fase de cirrosis
+7.- Asma bronquial
+8.- Fibrilación auricular por lo que se inicia anticoagulación oral con Simtron en contexto de 1 9.- Infección respiratoria  por broncoaspiración en contexto de 1
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+-	Dieta triturada y con espesantes.
+-	Omeprazol 20 mg 1-0-0
+-	Sintrom 4 mg segun pauta (adjuntamos pauta)
+- Adiro 100 mg 0-1-0
+-	Atorvastatina 40 mg 0-0-1
+-	Aldactone 100 mg cada 24 horas
+-	Atrovent 3 inhalaciones cada 24 horas
+-	Budesonida 1 inh-0-1 inh
+-	Diltiazem 60 mg 1-0-1
+-	Epinitril parches 10 mg segun pauta habitual
+-	Furosemida 40 mg 1-0-0
+-	Hemovas 600 mg cada 24 horas
+-	Lantus 0-0-0-28UI
+-	Lercadip 10 mg 1-0-0
+-	Repaglinida 2 mg 1-2-1
+-	Seroxat 20 mg cada 24 horas
+-	Paracetamol 1 g cada 8 horas si precisa
+-	Metilprednisolona 8 mg durante 3 dias
+4 mg durante 3 dias y STOP
+
+
+
+
+
+
+
+
+
+
+
+
+CONTROL
+Control por su medico de cabecera y especialistas habituales.
+Solicitamos primera visita con Hepatologia  asi como FGS ambulatoria y primera visita con Cardiologia (se e
+
+Informe d'alta d'hospitalització
+
+
+
+
+avisará telfonicamente). Se solicita Logopedia ambulatoria.
+Visita el próximo 1.12.2017 a las 11h00 en CEX de Neurologia (Dra. _NAME_) en la primera planta de _SS_.
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+30.10.2017
+Pàgina 1 de 7

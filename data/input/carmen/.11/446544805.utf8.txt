@@ -1,0 +1,218 @@
+_LOCATION_
+Telèfon: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 82 anys
+NIF/DNI: _ID_Informe d'alta d'hospitalització
+CP	_LOCATION_
+ABS	_SS_
+Servei	NEUROLOGIA
+Data d'alta  24.11.2017	11:42:50
+_LOCATION_
+_CONTACT_; _CONTACT_; _CONTACT_
+AGUTS 15.11.2017
+_NAME_
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+CODI ICTUS
+
+ANTECEDENTS
+-Sense al.lèrgies medicamentoses
+-HTA
+-Diabetis Mellitus tipus 2
+-Anèmia ferropènica el 2016.
+-IQ de ulcus péptico hace 50 años, tenía 27 años.
+-Colecistectomía
+-Histerectomía + DA por ca. endometroide + QT adyuvante, en 1981.
+-Bartel 100, estat cognitiu conservat. Viu amb el seu marit.
+
+
+MEDICACIÓ HABITUAL
+Adiro 100mg c24/h Gliclazida 30mg Kilor
+Metformina 850mg Natecal D Olmetec
+
+PROCÉS ACTUAL
+Pacient que acudeix derivada amb SEM des del domicili per Codi Ictus, ( avisa SEM). La pacient a la tarda ha iniciat amb una disàrtria que ha millorat posteriorment i després de sopar cap a les 9-9:30 presenta parestèsies a braç dret i disminució de la força, ha anat al llit però posteriorment ha inciat amb vòmits i afàsia global.
+La família refereix que anteriorment ja havia tingut episodis de disàrtria que havien desaparegut.
+
+EXPLORACIÓ FÍSICA
+
+Expl NRL INICIAL A UNITAT ICTUS: Paciente somnolienta. Afasia global. No obedece órdenes motoras. Paresia facial de la mirada hacia lado izdo. Campos visuales, reactivos por amenaza. Paresia facial leve. Paresia EESS, movimiento sin vencer gravedad. EEII vence gravedad pero claudica <5. Dismetría no valorable. Sensibilidad normal al estímulo doloroso.
+NIHSS: 1-2-2-1-0-1-4-3-0-0-3-3-0. Puntuación total 17 puntos.
+
+A LES 24H: Paciente consciente y orientada. NIHSS puntuación total 8 puntos (0-0-0-0-0-0-1-1-0-1-2-3-0). Paresia leve EESS y EEII. Leve hipostesia hemicuerpo dcho. Afasia grave que impide comprensión. Comprensión ok.
+
+Informe d'alta d'hospitalització
+
+
+
+
+EXPLORACIÓ COMPLEMENTÀRIA
+TC cranial sense contrast (15.11.2017 /00:22:54) Lesions hipodenses focals en ambdós nuclis lenticulars.
+Hipodensitat de la substància blanca periventricular supratentorial, en relació amb lesions d'hipòxia-isquèmia crònica.
+No s'observen desplaçaments valorables a nivell de les estructures de la línia mitja supra i infratentorials.
+El sistema ventricular presenta moderada dilatació ventricular global i simètrica. Dilatació dels espais aracnoïdals de la convexitat globalment, de les valls silvianes i de la convexitat cerebelosa i vermiana.
+Sense signes de sagnat agut. CONCLUSIÓ:
+Infarts llacunars antics en ganglis basals bilaterals. Lesions d'hipòxia-isquèmia crònica supratentorials. Signes d'atròfia cerebral difusa.
+
+TC d'artèries cerebrals (15.11.2017 /00:23:23)
+TC d'artèries supraaòrtiques (15.11.2017 /00:23:56)
+Caròtides primitives dreta i esquerra i sendes bifurcacions sense alteracions. Ateromatosi calcificada generalitzada.
+Caròtides internes dreta i esquerra de trajecte i calibre normals. La dreta es visuaitza tortuosa, tanmateix és permeable.
+Vasculatura intracranial, polígon de Willis i branques perifèriques sense imatges d'estenosi, dilatacions ni lesions aneurismàtiques.
+Tronc basilar de calibre conservat i permeable. CONCLUSIÓ
+Angio-TC craneal sense alteracions.
+
+ANALÍTICA DE PLANTA: DESTACA
+Colesterol serum 172 mg/dL 150 - 220
+Trigliceridserum 184 mg/dL 50 - 200
+Sodi serum ** 133.0 mmol/L 135.0 - 150.0
+Potassi serum 3.74 mmol/L 3.50 - 5.50
+Ferro 47.0 #Êg/dl 37.0 - 145.0
+Ferritina 84.8 ng/mL 30.0 - 300.0
+PCR serum * 86.1 mg/L 0.0 - 6.0
+HbA1c (NGSP/DCCT) * 7.3 % 4.6 - 5.8
+
+ANALÍTICA DE CONTROL 18/11/17:
+PCR sèrum ** 280.1 mg/L 0.0 - 6.0
+Leucòcits ** 18.47 x10x9/L 4.80 - 10.80
+Neutròfils ** 85.1 40.0 - 75.0 15.72 1.40 - 6.50
+
+ANALÍTICA DE CONTROL 20/11/17: Destaca
+PCR sèrum ** 297.6 mg/L 0.0 - 6.0
+Leucòcits ** 16.29 x10x9/L 4.80 - 10.80
+
+Informe d'alta d'hospitalització
+
+
+
+Neutròfils * 82.9 40.0 - 75.0 13.50 1.40 - 6.50 ANALÍTICA A L'ALTA:
+PCR sèrum ** 158.4 mg/L 0.0 - 6.0 (previa 297).
+Leucòcits 9.15 x10x9/L 4.80 - 10.80 (previ Leucòcits ** 16.29 x10x9/L 4.80 - 10.80)
+
+Hemocultiu 15/11/17: Cultiu nº: 745285
+Resultat Cultiu Bacterològic: Resultat negatiu als 7 dies d´incubació
+
+Hemocultiu 18/11/17: Cultiu nº: 746425
+Resultat Cultiu Bacterològic: PEND
+
+ECOC TT:
+VI no dilatado, ligera - moderadamente hipertriado con función sistólica normal y patrón diastólico pseudonormal. Moderada dilatación auricular izquierda (45 mm) y leve de la derecha.
+IM degenerativa de grado II / IV, a lo sumo moderada. Hipertensión pulmonar moderada.
+
+TC cranial sense contrast (16.11.2017 /13:39:13)
+El sistema ventricular y los espacios cisternales están dentro de límites de la normalidad en cuanto a tamaño para la edad del paciente. En fosa posterior cuarto ventrículo se encuentra situado en la línea media con su morfología habitual.
+Se observa lesion hiperdensa occipital posterior de 3cm en relacion con sangrado intraparenquimatoso con discreto edema perilesional y minimo efecot masa sobre le parenquima adyacente.
+Se objetivan lesiones focales hipodensas sin efecto masa asociado en regiones cápsulo-ganglionares bilaterales compatibles con infartos lacunares de evolución crónica.
+Hipodensidades en sustancia blanca subcortical y profunda bihemisférica, con tendencia a la coalescencia perriventricular, que traducen moderada encefalopatía vascular de pequeño vaso.
+Se aprecian una buena diferenciación entre la sustancia gris y la sustancia blanca cerebelosa.
+El tronco del encéfalo muestra una morfología y densidad dentro de los límites de la normalidad.
+No existen desplazamientos de estructuras.
+Con ventana ósea no se observan signos de fractura. Conclusión Radiológica:
+-Se observa lesión hiperdensa occipital posterior de 3cm en relacion con sangrado intraparenquimatoso con discreto edema perilesional y minimo efecto masa sobre le parenquima adyacente.
+- Infartos focales antiguos en las localizaciones descritas.
+
+RM cerebral sense contrast +Angio RM de crani sense contrast (22.11.2017 /13:07:04) TECNICA:
+
+Informe d'alta d'hospitalització
+
+
+
+
+Se han realizado secuencias SE T1, T2, Flair y difusión sobre el área craneal. Secuencias de angio-RM sobre el polígono de Willis.
+HALLAZGOS:
+Infartos lacunares crónicos capsulo-ganglionares bialterales.
+Lesiones de hipoxia-isquémia crónica en la sustancia blanca periventricular supratentorial bihemisferica.
+Hematoma intraaxial subagudo occipital izquierdo de tamaño 2.6 cm con minimo edema perilesional.
+Sistema ventricular simétrico, de morfología y tamaño normales. Estructuras de la línea media centradas.
+Charnela occípito#cervical normal.
+Aneurisma de 4-5 mm en el segmento intracevernoso de la arteria carotida interna derecha.
+No se aprecian otras alteraciones vasculares significativas en las secuencias de angio-RM sobre el polígono de Willis.
+CONCLUSION:
+Infartos lacunares crónicos capsulo-ganglionares bialterales.
+Lesiones de hipoxia-isquémia crónica en la sustancia blanca periventricular supratentorial bihemisferica.
+Hematoma intraaxial subagudo occipital izquierdo con minimo edema perilesional. Aneurisma de 4-5 mm en el segmento intracevernoso de la arteria carotida interna derecha.
+
+EVOLUCIÓ CLÍNICA
+CODI ICTUS
+Paciente de 82 años de edad, sin alergias. Barthel 100, Rankin 0.
+AP DM, migraña, anemia ferropénica por adenoma más antecedentes de ulcus.
+EA: este mediodía antes de comer clinica de disartria de pocos minutos de duración con recuperación completa. Pasa la tarde bien, sin clinica de ningún tipo. A las 20.30 aprox presenta de nuevo disartria que mejora, cena poco y posteriormente sobre las 21.30--21.45 aprox queja de debilidad del brazo derecho y progresivamente disartria y afasia mixta. Se avisa a familiares y MAP que detecta paresia del brazo D y afasia con puntuación RACE 4. Se preactiva codi ictus a nuestro centro.
+Llegada 00.00. A mi valoración 00.20 paciente agitada, afasia con algun vocablo ininteligible, no responde a ordenes. Impresiona menor movilidad del brazo D con EEII simétricas; RCPF bilateral. Senibilidad no valorable. Paresia facial D más evidente al dolor.
+Contacto con NRL de guardia.
+Se solicita TAC que se demora hasta las 00.40 por precisar sedación ligera con midazolam 3 mg ev por imposibilidad de mantener postura. Resultado 01.00: angio TAC sin alteraciones. Sin lesiones agudas. Contacto de nuevo con NRL de guardia con resultados para valoración a través de teleictus de lisis.
+
+TELEICTUS _SS_
+Dona de 82 anys amb AP DMNID  que durant el dia d´avui ha presentat 2 episodis autolimitats de disàrtria que es recuperen ad integrum. A les 21. 45 presenta hemiparèsia dreta i afàsia d´instauració aguda NIHSS 8 .
+Precisa midazolam per realitzar TC craneal.
+12.30h TC craneal: no lesions agudes, ASPECTS 10 angioTC: sense oclusió
+
+Informe d'alta d'hospitalització
+
+
+
+
+ECG: SINUSAL
+TA DINS DE RANG DE SEGURETAT
+a la 1.20h s´administra rtpa ev 72mgr
+
+Ingressa a la Unitat Ictus, on presenta una millora NRL progressiva tot i evidencair-se una transformació hemorràgica PH1 sense traducció clínica, al tercer dia ingrés ja presenta una millora NRL espectacular,, sols presenta certa bradipsiquia i molt lleus trets afasics. Mínima claudicació BC D. NIHSS: 4
+(0-0-0-0-0-0-1-1-0-0-1-1-0). A l'alta NIHSS 1, mRS 2. A la monitorització cardiaca ha presentat mútliples episodis de taquiaritmia paroxística, motiu pel qual s'ha realitzat IC a S.Cardiologia ( veure resposta adjunta). posteriroment, monitoritzada a planta de nRL, sense evidencia d'episodis d'AcxFA.
+Com a acomplicació ha presentat a les 24 h d'ingrés una sd febril sense focus aparent amb elevació de PCR i leucocitosi malgrat tractament empíric amb amoxi-clav ev, que motiva canvi d'antibiòtic a piper-tazobactam ev amb millora notable de la sd febril, la leucocitosi i la PCR.
+S'informa de troballa casual d'aneurisma cerebral sense relació amb la clínica de la pacient, a controlar ambulatoriament.
+Es sol·licita trasllat de nou al seu centre hospitalari de referència. Es valora finalment com a un ictus isquèmic en territori ACM esq de causa embòlica indeterminada (EUS) amb transformació hemorràgica no simptomàtica, sospita d'ictus cardioemòlic no demostrada ( angioTC normal, taquiaritmia paroxistica a monitor card).
+
+
+RESPUESTA INTERCONSULTA CARDIOLOGÍA
+Realizan interconsulta de mujer de 82 años ingresada por AVC isquémico en la que en monitor se ha observado episodios de taquicardia de forma paroxística, para valorar dichos episodios y descartar o confirmar FA.
+
+Se revisa la monitorización (paciente ingresada en UCO bajo monitorización) observándose varios episodios de taquicardia a 130-150 lpm desde el día 15/11, todos ellos no sostenidos.
+Se revisan todos los episodios almacenados, observándose episodios de taquicardia regular de QRS estrecho en los que se observa onda P (diferente a sinusal), con ligero calentamiento y posterior enfriamiento de FC, lo que es compatible con taquicardia auricular. La cierta irrgularidad que se puede ver en alguno de los episodios es debida al calentamiento y enfiramiento de la taquicardia y a que en ocasiones realiza varias taquicardia seguidas con algún latido sinusal entre ellas.
+
+De momento ninguno de ellos es compatible con FA, pero se aconseja continuar con monitorización durante el ingreso, ya que la alta carga de taquicardia auricular no sostenida, favorece que la paciente pudiese presenta firbilación auricular en algún momento.
+
+
+
+DIAGNÒSTICS
+ICTUS ISQUÈMIC AGUT EN TERRITORI ACM ESQUERRA DE CAUSA EMBÒLICA INDETERMINADA (ESUS) TRANSFORMACIÓHEMORRÀGICA PH1 NO SIMPTOMÀTICA
+SD FEBRIL SENSE FOCUS APARENT
+TROBALLA CASUAL D'ANEURISMA INTRACRANIAL NO ROMPUT
+
+PROCEDIMENTS
+TELEICTUS
+
+Informe d'alta d'hospitalització
+
+
+
+
+CODI ICTUS FIBRINÒL·LISI EV
+87.03 Tomografia axial computada de cap. TAC de cap
+89.08 Altra consulta
+88.91 Imatge per ressonància magnètica de cervell i tronc cerebral
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+OMEPRAZOL  20 mg ABANS ESMORZAR ORAL
+INSUL GLULISINA 100 UI/ml 3 ml pluma precargada (Apidra)  * UI ESM-DIN-SOPAR SEGONS GLICEMIES SC, 120-150: 2 UI 151-180: 4 UI 181-210: 6 UI 211-240: 8 UI >240: 10 UI
+INSUL GLARGINA SOLOSTAR 100 UI/ml 3 ml xer (Lantus Solostar) 14 UI SOPAR SC ENOXAPARINA 40 mg/0,4 ml xeringa 40 mg A LES 20 HORES SC
+POTASSI CLORUR 10 mEq + GLUCOSALI 4%+0,18% 500 ml bossa poliolefina 500 ml 24 PVC CANDESARTAN  4 mg ESMORZAR ORAL
+PIPERACIL·LINA+TAZOBACTAM 4+0,5 g vial 4 g CADA 8 HORES PIV , INICI DIA 19/11/17
+Si Temp>37,5ºC	PARACETAMOL 1 g/100 ml vial plastic 1 g CADA 8 HORES SI FEBRE PIV HALOPERIDOL 5 mg/1 ml amp: 2.5 mg 8 HORES SI PRECISA SC
+
+
+CONTROL
+CCEE NEUROLOGIA
+
+DESTINACIÓ A L'ALTA:	AGUTS/PSIQUIÀTR
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+24.11.2017
+Pàgina 1 de 6

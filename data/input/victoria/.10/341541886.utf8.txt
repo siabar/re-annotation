@@ -1,0 +1,96 @@
+I.CLINIC DE NEUROCIÈNCIES NEUROLOGIA
+_NAME_	NHC: _ID_
+
+
+Sexo/Sexe: Fem.	Fecha nac./Data naix.: _DATE_	Edad/Edat: 89 años Dirección/Adreça: _LOCATION_	CP: _LOCATION_
+Municip. (Prov.): _LOCATION_  ABS:_SS_		Tel.:_CONTACT_ As.: SERVEI CATALA DE LA SALUT	CIP: _ID_	NASS: _ID_
+Nº epis.: _ID_	Tipo/Tipus: HOSPIT.	Ingres.: 21.02.2017 Serv: NEUROLOGIA	UO Enf.: G6B4 SALA G NEUROL. CURT. E Hora: 19:12:45
+Facult. de ref.: _NAME_
+
+
+
+
+Tipo ingreso/Tipus ingrés: Urgent	Motivo/Motiu alta: Hospital Ag.
+Diag.:
+ICTUS ISQUÉMICO ACMD (434.91) FIBRILACIÓN AURICULAR ()
+Proc.:
+TC CRANEAL ()
+
+
+
+
+INFORME CLÍNICO ALTA / INFORME CLÍNIC ALTA
+
+Motivo de consulta / Motiu de consulta
+Debilidad de extremidades izquierdas.
+
+Antecedentes e historia previa / Antecedents i història prèvia
+Mujer de 89, alérgica a Eufilinas. Independiente para ABVD, vive con su hijo. No hábitos tóxicos.
+*	ANTECEDENTES PERSONALES:
+1.- ASMA BRONQUIAL diagnosticada hace 40 años.
+-	En seguimiento por Neumólogo privado.
+2.- GAMMAPATÍA MONOCLONAL DE SIGNIFICADO INCIERTO tipo IgG LAMBDA.
+-	Diagnosticada en marzo/2006. En seguimiento por Dr. _NAME_ (_SS_). Sin tratamiento, actitud expectante. 3.- FIBRILACIÓN AURICULAR DE RECIENTE DIAGNÓSTICO (16/02). Se inició tratamiento anticoagulante con acenocumarol.
+*	MEDICACIÓN HABITUAL:
+-  Acenocumarol  según  pauta  -  Aldactone  100mg/día  -  Omeprazol  20mg/día  -  Dezacor  3mg/día  - Beclometasona/Formeterol 2apl/12h - Ideos - Ácido alendrónico
+
+Proceso actual / Procés actual
+Paciente traída por el SEM como código ictus extramuros tras presentar en el domicilio de forma súbita hemiparesia izquierda a las 16:00h.
+
+Exploración física / Exploració física
+21/02/2017-20:00:00: Frecuencia respiratoria (rpm) 31, PAS (mm Hg) 177, PAD (mm Hg) 99, Pulsioximetría (%) 96. 21/02/2017-23:00:00 : Tª axilar ( ºC) 36.2.
+* EN BPARO:
+Taquicárdica (ritmo de FA rápida en monitor, a 130 lpm), TA 175/111. Afebril.
+NRL: Consciente y orientada. Lenguaje normofluente sin rasgos afásicos. Desviación oculo-cefálica a la derecha, llega a línea media, sin traspasarla. Hemianopsia homónima derecha. Paresia facio (mod) braquio (1/5) crural (1/5) izquierdas. Hipoestesia de extremidades izquierdas. Disartria moderada. Anosognosia, no
+
+
+
+
+asomatognosia. Negligencia visuo- espacial izquierda. NIHSS 16.
+
+Radiología / Radiologia
+*	TC CRANEAL: Borramiento parcial del núcleo lenticular derecho sugestivo de infarto isquémico agudo en el territorio de la ACMD (ASPECTS 9). Pérdida de volumen cerebral que condiciona leve dilatación del sistema ventricular supratentorial en relación a cambios involutivos secundarios a la edad de la paciente. Ténue imagen hipodensa subcortical insular izquierda que podría corresponder a un infarto lacunar antiguo. Leve hipodensidad de la sustancia blanca periventricular de probable etiología isquémica crónica.
+
+Exploraciones complementarias / Exploracions complementàries
+
+*	DOPPLER TRONCOS SUPRAAORTICOS Y TRASCRANEAL: 1. Placa d'ateroma a bifurcació i artèria caròtida interna esquerra que no condiciona una estenosi per criteris doppler.
+2. Patró TIBI 3 amb alta resistència al segment M1 distal de l'artèria cerebral mitja dreta amb flux compensador de l'artèria cerebral anterior ipsilateral, no invertida, suggestiu d'oclusió/suboclusió distal.
+
+Evolución / Evolució
+1.	ICTUS ISQUÉMICO EN TERRITORIO DE LA ARTERIA CEREBRAL MEDIA DERECHA.
+2.	FIBRILACIÓN AURICULAR.
+Paciente que presentar hemiparesia izquierda de inicio súbito. A la exploración destaca síndrome hemisférico derecho (NIHSS 16). Analítica de ingreso con colesterol total de 164 mg/dl (LDL 102 mg/dl) y trigliceridos 66 mg/dl, VSG de 53 mm/seg. INR de 3.24. La neuroimagen (TC craneal y RM cerebral) que muestra lesión isquémica aguda en el territorio profundo de la ACMD. Signos de microangipatía crónica. El estudio vascular (Doppler y AngioRM) muestra placa de ateroma a nivel de ICA izquerdo y oclusión de M1 distal. La monitorización muestra una fibrilación auricular rápida entre 120-130 lpm, requiriendo tratamiento frenador con digoxina con buena respuesta.
+Se trata de un ictus isquémico en territorio de arteria cerebral media derecha de probable causa cardioembólica en paciente con arritmia cardíaca conocida y bien descoagulada (a pesar de que se empezó el acenocumarol hace 4 días sin terapia puente con heparina). Durante el ingreso los INR de control a pesar de llevar 48h sin sintrom siguen siendo >3.3, por lo que se pospone el inicio de la anticoagulación (a valorar reintroducir según evolución).
+Durante el ingreso la paciente permanece clínicamente estable presentando conciente y orientada, limitacion de  la mirada  a la derecha, dudosa cuadrantanopsia inferior  izquierda con  extinción visual, hemiparesia braquio(0/5)-crural(2/5) izquierda. Se decide traslado a centro de referencia (_SS_) para continuar tratamiento. Precisa sonda naspgástrica
+Al traslado: NIHSS: 14; TOAST: Cardioembólico ; mRs: 5.
+
+3.	EDEMA CRÓNICO EII.
+La paciente presenta edema de EID con aumento de la temperatura local y enrojecimiento. El dimero D de 1500. Ante la sospecha de posible TVP se solicita ecografía doppler de EEII que descarta trombosis.
+
+Plan terapéutico / Pla terapèutic
+-	Valorar introducción de acenocumarol según INR.
+
+Otras recomendaciones / Altres recomanacions
+-	Control por su centro de atención primaria.
+
+
+
+Firma/Signatura1: _NAME_	Firma/Signatura2: _NAME_ Categoría: Resident 1	Categoría: Consultor/a 1
+
+
+
+Nº Matrícula HCP: _ID_	Nº Matrícula HCP: _ID_ Fecha/Data: 27.02.2017
+Hora: 09:17:01
+
+Docum.: _ID_
+Hist. Clínica: _ID_
+El _SS_ ha incorporado sus datos al Fichero de Pacientes, para tratarlos con fines sanitarios.
+Puede ejercer sus derechos de acceso, rectificación, cancelación y oposición, así como obtener mas información en la Unidad de Atención al Cliente.
+Vers. 00
+Pag. 2 de
+3
+Episod.: _ID_
+_SS_ ha incorporat les seves dades al Fitxer de Pacients, per a tractar-los amb finalitats sanitàries. Pot exercir els seus drets d'accés, rectificació, cancel·lació i oposició, i obtenir més informació a la Unitat d'Atenció al Client.
+_SS_
+_LOCATION_) _LOCATION_) Tel. _CONTACT_ Fax _CONTACT_
+http://_CONTACT_/

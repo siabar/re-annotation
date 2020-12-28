@@ -1,0 +1,61 @@
+_SS_
+_LOCATION_)
+Tlf. _CONTACT_
+INFORME ALTA HOSPITALITZACIÓ
+CIP	_ID_	Data Naix.   _DATE_	Edat 73	Sexe Home	NASS	_ID_
+Adreça   _LOCATION_		CP	_LOCATION_
+Població_LOCATION_		Tel.	_CONTACT_
+Episodi  _ID_	Admissió	29.03.2017 15:40		Alta	29.03.2017 19:38
+Servei	UCIUOHMB Medicina intensiva		Unitat	UCIHCHBL
+
+DIAGNÒSTIC ALTA
+
+Codi ICD-9	Descripció Diagnòstic
+431/4	HEMATOMA CAPSULO-TALAMIC
+
+DADES INFORME
+
+Motiu de consulta: Código ictus.
+
+Antecedents:
+-	No alergias medicamentosas conocidas.
+-	Dislipemia.
+-	No DM ni HTA conocidas.
+-	Accidente laboral a los 40 años con lesión medular que le condiciona paraplejia flácida sin control de esfínteres. Paciente independiente para ABVD (solo necesita ayuda para ducharse), conduce coche adaptado, sin deterioro cognitivo, vive en domicilio con su esposa.
+-	Disfagia en el año 2015 estudiada con tránsito esófago-gastro-duodenal normal.
+-	Infecciones de orina a repetición que no requiere tratamiento antibiótico desde hace varios años.
+
+Malaltia actual:
+Paciente presenta hoy alrededor de las 12:00 cuadro de plejia de extremidad superior izquierda (se cae al estar sentado) con alteración del habla, la mujer lo acuesta y al ver que no mejora la sintomatología avisa a SEM. Es traído a nuestro hospital a las 15:00. Nos avisan desde triaje, tras valoración de calidad de vida activamos código ictus. Valoración inicial paciente nauseoso con cefalea moderada, TA 150/70mmHg, FC 65, Sat 100%, NRL: fuerza muscular de ESI 1/5, PFSN izquierda, disminución de la sensibilidad en hemicuerpo izquierdo (valoración sin tomar en cuenta EEII), no disartria, no dismetría, GCS 15/15, NIHSS 6. Se realiza TC craneal en el que se informa:
+"Hematoma intraparenquimatoso agudo capsulo-talámico derecho , que se abre al sistema ventricular , con contenido hemático en tercer ventrículo y acueducto de Silvio, de probable origen hipertensivo". Se traslada paciente a UCI  para vigilancia neurológica.
+
+Exploració física:
+TA: 130/67mmHg FC: 75x', Sat basal 94%, FR 12x'.
+CAR: Tonos rítmicos, no ausculto soplos, no presenta signos de insuficiencia cardíaca. Pulsos presentes simétricos. RESP: Eupnéico, saturación basal 96% aire ambiente. Auscultación respiratoria con murmullo vesicular conservado. ABD: Blando, depresible, no doloroso con ruidos conservados.
+NRL: PICNR, Fuerza muscular de ESI 1/5, PFSN izquierda, disminución de la sensibilidad en hemicuerpo izquierdo (valoración sin tomar en cuenta EEII), no disartria, no dismetría, GCS 15/15, NIHSS 6.
+
+Exploració complementària:
+TC Craneal: Hematoma intraparenquimatoso agudo capsulo-talámico derecho , que se abre al sistema ventricular, con contenido hematico en tercer ventriculo y acueducto de Silvio, de probable origen hipertensivo. Atrofia global de prdominio subcortical Leucoencefalopatia hipoxico-isquemico cronico.
+Analítica: Se adjunta.
+NHC	_ID_	Pacient	_NAME_
+
+Orientació diagnòstica:
+- Hematoma capsulo-talámico derecho.
+
+Evolució: Durante la primera hora de evolución en nuestro servicio el paciente presenta descenso del nivel de consciencia con caída de GCS a 11/15 (M6 O2 V3). Se consulta caso con Neurología de _SS_ quienes indican que por localización y características del sangrado puede complicarse con hidrocefalia y requerir tratamiento de tercer nivel. Se acepta el traslado del paciente a urgencias de _SS_.
+Se informa a la familia (esposa e hijos) de la gravedad de la enfermedad, de la posibilidad de secuelas y mala evolución a corto plazo. Lo comprenden. Se les informa del traslado a otro centro estando de acuerdo.
+
+
+Tipus d'ingrés: Motiu d'alta:	Urgent Trasll.Cent.Ag	
+Metge Adjunt:
+_ID_
+Servei:	_NAME_
+
+UCIUOHMB Medicina intensiva	Nº Col·legiat Adjunt:
+
+Data informe:  29.03.2017
+
+
+Pàgina 1 de	2
+Data i hora d'impressió:
+29.03.2017 19:49:08

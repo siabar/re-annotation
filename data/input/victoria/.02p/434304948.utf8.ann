@@ -1,0 +1,134 @@
+T0	HORA 250 255	15:00
+#0	AnnotatorNotes T0	15:00
+T1	FECHA 259 269	30.10.2017
+#1	AnnotatorNotes T1	2017-10-30
+T2	FECHA 340 350	27.10.2017
+#2	AnnotatorNotes T2	2017-10-27
+T3	SECCION_MOTIVO_DE_INGRESO 415 429	MOTIU D'INGRÉS
+T4	_SUG_Ictus_isquemico 476 481	ictus
+T5	SECCION_ANTECEDENTES 484 495	ANTECEDENTS
+T6	_SUG_Localizacion 835 843	profunda
+T7	_SUG_Lateralizacion 864 873	izquierda
+T8	FECHA 877 891	agosto de 2015
+#8	AnnotatorNotes T8	2015-08-UNDEF-day
+T9	_SUG_Tratamiento_anticoagulante_alta 929 936	sintrom
+T10	_SUG_Tratamiento_anticoagulante_hab 929 936	sintrom
+T11	FECHA 1225 1242	Noviembre de 2017
+#11	AnnotatorNotes T11	2017-11-UNDEF-day
+T12	_SUG_Lateralizacion 1264 1269	dicha
+T13	FECHA 1391 1406	Noviembre  2016
+#13	AnnotatorNotes T13	2016-11-UNDEF-day
+T14	_SUG_Tratamiento_anticoagulante_alta 1433 1444	Enoxaparina
+T15	_SUG_Tratamiento_anticoagulante_hab 1433 1444	Enoxaparina
+T16	_SUG_Lateralizacion 1642 1649	derecho
+T17	FECHA 1651 1655	2011
+#17	AnnotatorNotes T17	2011-UNDEF-month-UNDEF-day
+T18	SECCION_SITUACION_FUNCIONAL 1753 1777	Situación sociofuncional
+T19	_SUG_mRankin_alta 1893 1898	mRS 1
+T20	_SUG_mRankin_previa 1893 1898	mRS 1
+T21	SECCION_TRATAMIENTO_HABITUAL 1901 1919	MEDICACIÓ HABITUAL
+T22	_SUG_Tratamiento_antiagregante_alta 1937 1942	Adiro
+T23	_SUG_Tratamiento_antiagregante_hab 1937 1942	Adiro
+T24	SECCION_PROCESO_ACTUAL 2006 2019	PROCÉS ACTUAL
+T25	HORA 2080 2085	00:30
+#25	AnnotatorNotes T25	00:30
+T26	HORA 2115 2120	05:00
+#26	AnnotatorNotes T26	05:00
+T27	_SUG_Lateralizacion 2181 2190	izquierdo
+T28	HORA 2273 2278	05:50
+#28	AnnotatorNotes T28	05:50
+T29	_SUG_TAC_craneal 2319 2329	TC craneal
+T30	_SUG_Trombectomia_mecanica 2440 2464	tratamiento endovascular
+T31	HORA 2489 2493	7:26
+#31	AnnotatorNotes T31	7:26
+T32	SECCION_EXPLORACION_FISICA 2498 2515	EXPLORACIÓ FÍSICA
+T33	_SUG_Lateralizacion 2988 2989	D
+T34	_SUG_Lateralizacion 2990 2991	I
+T35	_SUG_Lateralizacion 3053 3062	izquierda
+T36	_SUG_Lateralizacion 3110 3119	izquierda
+T37	_SUG_Lateralizacion 3145 3154	izquierda
+T38	_SUG_NIHSS_alta 3177 3184	NIHSS 7
+T39	_SUG_NIHSS_previa 3177 3184	NIHSS 7
+T40	_SUG_Ictus_isquemico 3215 3220	Ictus
+T41	_SUG_Lateralizacion 3555 3564	izquierda
+T42	_SUG_Lateralizacion 3584 3593	izquierdo
+T43	_SUG_NIHSS_alta 3739 3748	NIHSS 3+1
+T44	_SUG_NIHSS_previa 3739 3748	NIHSS 3+1
+T45	SECCION_EXPLORACIONES_COMPLEMENTARIAS 3752 3777	EXPLORACIÓ COMPLEMENTÀRIA
+T46	_SUG_Lateralizacion 4333 4334	I
+T47	_SUG_TAC_craneal 4418 4428	TC craneal
+T48	_SUG_Localizacion 4523 4532	posterior
+T49	_SUG_ASPECTS 4579 4591	ASPECTS 8/10
+T50	_SUG_Lateralizacion 4649 4656	derecho
+T51	_SUG_Localizacion 4740 4751	ventricular
+T52	_SUG_Arteria_afectada 4928 4931	ACM
+T53	_SUG_Lateralizacion 4932 4939	derecha
+T54	_SUG_Localizacion 4981 4992	posteriores
+T55	_SUG_TAC_craneal 5095 5097	TC
+T56	_SUG_Arteria_afectada 5357 5360	ACM
+T57	_SUG_Lateralizacion 5361 5368	derecha
+T58	_SUG_ASPECTS 5410 5422	ASPECTS 8/10
+T59	_SUG_Lateralizacion 5488 5497	izquierdo
+T60	_SUG_Lateralizacion 5619 5628	izquierda
+T61	_SUG_Localizacion 5799 5810	ventricular
+T62	_SUG_Etiologia 5877 5886	Aneurisma
+T63	_SUG_TAC_craneal 6124 6134	TC craneal
+T64	_SUG_Localizacion 6199 6207	parietal
+T65	_SUG_Lateralizacion 6208 6215	derecho
+T66	_SUG_TAC_craneal 6391 6401	TC craneal
+T67	_SUG_TAC_craneal 6438 6448	TC craneal
+T68	_SUG_Lateralizacion 6526 6533	derecha
+T69	_SUG_Lateralizacion 6809 6816	derecha
+T70	SECCION_EVOLUCION 6860 6876	EVOLUCIÓ CLÍNICA
+T71	_SUG_Arteria_afectada 6974 6976	M2
+T72	_SUG_NIHSS_alta 7032 7039	NIHSS 7
+T73	_SUG_NIHSS_previa 7032 7039	NIHSS 7
+T74	_SUG_TAC_craneal 7052 7054	TC
+T75	_SUG_ASPECTS 7070 7079	ASPECTS 8
+T76	_SUG_Arteria_afectada 7090 7092	M2
+T77	HORA 7192 7196	8:14
+#77	AnnotatorNotes T77	08:14
+T78	_SUG_Arteria_afectada 7248 7250	M2
+T79	HORA 7277 7281	8:45
+#79	AnnotatorNotes T79	8:45
+T80	_SUG_Arteria_afectada 7352 7354	M2
+T81	HORA 7401 7405	8:52
+#81	AnnotatorNotes T81	8:52
+T82	_SUG_NIHSS_alta 7498 7505	NIHSS 5
+T83	_SUG_NIHSS_previa 7498 7505	NIHSS 5
+T84	_SUG_Lateralizacion 7570 7571	I
+T85	_SUG_Lateralizacion 7606 7607	I
+T86	_SUG_Ictus_isquemico 7708 7713	Ictus
+T87	_SUG_Ictus_isquemico 7766 7771	Ictus
+T88	_SUG_NIHSS_alta 7816 7828	NIHSS de 3+1
+T89	_SUG_NIHSS_previa 7816 7828	NIHSS de 3+1
+T90	_SUG_Lateralizacion 7885 7894	izquierdo
+T91	_SUG_Lateralizacion 8187 8194	derecho
+T92	_SUG_TAC_craneal 8244 8254	TC craneal
+T93	_SUG_Localizacion 8345 8353	parietal
+T94	_SUG_Lateralizacion 8354 8361	derecho
+T95	HORA 8601 8603	24
+#95	AnnotatorNotes T95	00:00
+T96	_SUG_Lateralizacion 8676 8683	derecha
+T97	_SUG_Lateralizacion 8961 8968	derecha
+T98	_SUG_Ictus_isquemico 9574 9579	ictus
+T99	_SUG_Etiologia 9580 9593	indeterminado
+T100	_SUG_NIHSS_alta 9603 9610	NIHSS 1
+T101	_SUG_NIHSS_previa 9603 9610	NIHSS 1
+T102	_SUG_mRankin_alta 9613 9621	rankin 1
+T103	_SUG_mRankin_previa 9613 9621	rankin 1
+T104	SECCION_DIAGNOSTICOS 9626 9637	DIAGNÒSTICS
+T105	_SUG_Arteria_afectada 9646 9649	ACM
+T106	_SUG_Lateralizacion 9650 9657	derecha
+T107	_SUG_Etiologia 9671 9684	indeterminada
+T108	SECCION_TRATAMIENTO_Y_RECOMENDACIONES_AL_ALTA 9687 9722	TRACTAMENT I RECOMANACIONS A L'ALTA
+T109	_SUG_Tratamiento_antiagregante_alta 9850 9855	Adiro
+T110	_SUG_Tratamiento_antiagregante_hab 9850 9855	Adiro
+T111	_SUG_Tratamiento_antiagregante_alta 9871 9882	Clopidogrel
+T112	_SUG_Tratamiento_antiagregante_hab 9871 9882	Clopidogrel
+T113	SECCION_CONTROL 10034 10041	CONTROL
+T114	FECHA 10159 10175	4 abril del 2018
+#114	AnnotatorNotes T114	2018-04-04
+T115	SECCION_DESTINO_AL_ALTA 10434 10453	DESTINACIÓ A L'ALTA
+T116	FECHA 10511 10521	30.10.2017
+#116	AnnotatorNotes T116	2017-10-30

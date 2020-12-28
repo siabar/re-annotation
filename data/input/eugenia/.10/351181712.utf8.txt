@@ -1,0 +1,150 @@
+_LOCATION_ Tel. _CONTACT_
+e-mail: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 70 Anys
+NIF/DNI: _ID__NAME_; _NAME_;
+ _NAME_; _NAME_
+Informe d'alta d'hospitalització
+20:16:14
+20.03.2017
+_LOCATION_
+_SS_ NEUROLOGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_
+DOMICIL/RES.SOC 15.03.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Hemiparesia dreta i dificultat per a l'articulació del llenguatge.
+
+ANTECEDENTS
+Home de 70 anys, sense al·lèrgies medicamentoses conegudes ni hàbits tòxics. Independent per les ABVD, mRS 0.
+
+ANTECEDENTS PATOLÒGICS:
+-	Hipertensió arterial en tractament mèdic.
+-	Dislipèmia en tractament mèdic.
+-	Cardiopatia isquèmica en forma d'angor inestable. Coronariografia amb lesió suboclusiva a DA i lesió severa a CD 90%. Insuficiència aòrtica moderada-severa. Es va realitzar substitució aòrtica valvular amb vàlvula biològica i doble bypass el gener del 2014.
+-	El 08/02/2014 (tres dies després ser donat d'alta de Cardiologia) consulta per malestar i palpitacions. Es va detectar fibril·lació auricular que es reverteix farmacològicament amb amiodarona.
+-	Possible AIT el 2012 en forma de parestèsies a hemicara esquerra. Va ser estudiat a _SS_ amb RM cerebral el febrer de 2015 que no va mostrar alteracions (no disposem d'informes, segons familia, estudi carotidi amb plaques d'ateromatosi). En tractament amb antiagregació simple.
+-	Clínica compatible amb claudicació intermitent.
+-	Episodis de vertigen perifèric.
+-	Hiperplàsia benigna de pròstata.
+
+MEDICACIÓ HABITUAL
+Adiro 100 mg/24 h, atorvastatina 80 mg/24 h, bisoprolol 0.5 mg/24 h, Capenon 40/10mg cada 24 h, Carduran 4 mg/24 h, Orfidal 1 mg/24 h, Pariet 20 mg/24 h, Seguril 40 mg/24 h.
+
+PROCÉS ACTUAL
+Acut per hemiplègia dreta de predomini braquial i imposibilitat per a l'articulació del llenguatge d'inici el 15.03.2017 a les 13:30h, pel que avisen al SEM que activa el codi ictus a les 14:55h. Posteriorment el pacient presenta un vòmit i milloria progressiva de la clínica. El pacient arriba al nostre centre a les 15:30h.
+Refereix 3-4 episodis de diplòpia vertical binocular de segons de duració, l'últim fa una setmana, sense disàrtria ni altra simptomatología neurològica associada. Explica també dos episodis recents de vertigen. Nega cefalea o palpitacions. Nega episodis d'amaurosi fugax ni claudicació retiniana.
+
+EXPLORACIÓ FÍSICA
+
+FC	45 bpm
+Tªaxi 36.3 ºC
+FR	rpm Tªrec  ºC
+TA s	139 mmHg SAT O2 95 %
+TA d   51 mmHg Pes Kg
+
+Informe d'alta d'hospitalització
+
+
+
+
+
+A Urgències:
+Conscient i orientat en les 3 esferes. Llenguatge sense elements afàsics. Disartria lleu. Oculomotricitat normal sense diplopia ni nistagmus. Paresia facial central dreta. Úvula centrada, nauseós present, sense afectació d'altres parells cranials. Hemiparesia dreta amb claudicació de la mà dreta que no puntua a la NIHSS. Sensibilitat normal. RCP flexor bilateral. No dismetries desproporcionades a la paresia. No extincions.
+
+NIHSS=(0.0.0)0.0/1(0.0)(0.0)/0. 0.0.1.0=2.
+
+AC: tons cardíacs rímtics amb buf sistòlic IV/VI. Buf carotidi esquerre. AR: MVC bilateral sense sorolls sobreafegits. EEII sense edemes ni signes de TVP.
+
+A Unitat d'Ictus Agut:
+Glicèmia capil·lar: 88 mg/dL.
+Conscient i orientat, col·laborador. Isocòria normorreactiva. Lleu disàrtria sense elements afàsics. Campimetria per confrontació i oculomotricitat normal. Parèsia facial central dreta. Hemiparèsia dreta lleu. Sense trastorn sensitiu. Dismetria dit-nas dreta proporcional a parèsia.
+
+NIHSS: 0,0,0,0,0//1,0,0,1,0//0,0,0,1,0=3.
+
+EXPLORACIÓ COMPLEMENTÀRIA
+Analítiques:
+Urgent: Hemograma: Leucocitos 10400 (N 81%, L 13%, M 3.8%), Hemoglobina 14.4g/dL, Hematocrito 42.8%, plaquetas 154000. Hemostasia: TP 88%, INR 1.09, fibrinógeno 338mg/dL, TTPA 25seg. Bioquímica: Glucosa 142mg/dL, urea/creatinina 59/1.09 mg/dL, Na 141 mmol/L, PCR 1.50mg/L
+
+Ingrés: Bioquímica: Glucosa 87 mg/dL, Hemoglobina glicosilada 5.5%, Proteína 63.2 g/L, Urea 49 mg/dL, Creatinina 1.07 mg/dL (FG 70), Urato 5.8 mg/dL, Calcio 9.3 mg/dL, Sodio 144 mmol/L, Potasio 3.63 mmol/L, Cloruro 110.2 mmol/L, Bilirrubina 1.15 mg/dL, ALT 7 U/L, GGT 19 U/L, CK 102 U/L, PCR 2.2 mg/L. Perfil lipídico: Triglicéridos 93 mg/dL, Colesterol 168 mg/dL, HDL 32.5 mg/dL, LDL 117 mg/dL. Proteinograma: normal. TSH: 1.185.
+
+ECG: ritme sinusal a 60bpm, eix 60º, pR 0.12seg, QRS 0.08seg, sense alteracions de la repolarització.
+
+TC cranial urgent: sense evidència de lesions isquèmiques  ni hemorràgiques agudes TC valorables. Infarts isquèmics lacunars crònics de predomini dret. Atròfia cerebral difusa.
+
+Estudi neurosonològic urgent: ateromatosi bicarotídia amb estenosi de <50% d'ambdues a. caròtides comunes sense condicionar alteracions del flux. Estudi transcranial normal.
+
+Radiografia de tòrax: sutura de esternotomia, crossa aòrtica calcificada. No s'aprecien condensacions parenquimatoses.
+
+Ecocardiograma transtoràcic: ventricle esquerre no dilatat. Lleugera hipertròfia de les parets. Funció sistòlica del ventricle esquerre conservada. No es detecten alteracions de la contractilitat segmentària. Pròtesi biològica aòrtica normofuncionant. Alteració diastòlica de tipus I.
+
+Informe d'alta d'hospitalització
+
+
+
+
+RM cerebral amb angio-RM intracranial i de TSA: lesió isquèmica aguda en territori d'a. paramediana esquerra. Signes d'ateromatosi intra i extracranial sense estenosis significatives.
+
+Monitorització cardíaca: no es registren alteracions del rime significatives.
+
+EVOLUCIÓ CLÍNICA
+Home de 70 anys, amb antecedents de factors de risc cardiovascular i cardiopatia isquèmica, portador de vàlvula biològica aòrtica en tractament antiagregant i fibril·lació paroxísitica periprocediment el 2014, AIT el 2012 i episodis recents de diplòpia binocular compatibles amb AITs de territori posterior, que acut per hemiparèsia dreta i alteració de la articulació del llenguatge de 3 hores d'evolució.
+
+A l'arribada a Urgències, està hemodinàmicament estable i afebril. A l'exploració neurològica s'evidencia disàrtria lleu, parèsia facial central dreta i hemiparèsia dreta (NIHSS 2). L'ECG està en ritme sinusal i es cursa analítica que no mostra alteraciones. La TC cranial que no mostra lesions isquèmiques ni hemorràgiques agudes. Es realitza estudi neurosonològic que mostra ateromatosi bicarotidea severa que no condiciona alteracions hemodinàmiques del flux. S'orienta com a ictus isquèmic de territori indeterminat d'etiologia a estudi. Es canvia antiagregació a clopidogrel amb càrrega de 300 mg i es reinicia estatina dosis altes.
+
+Durant l'estada a la Unitat d'Ictus presenta hipertensió mantinguda que no requereix rescats de medicació endovenosa i que respon adequadament a la reintroducció de medicació habitual, es manté normoglucèmic. És valorat per Rehabilitació que inicia tractament específic. Neurològicament es manté estable, persistint lleu disàrtria, parèsia facial central dreta i mínima claudicació d'extremitats dretes. S'inicia dieta oral i sedestació en silló amb bona tolerància.
+
+Dins de l'estudi etiològic es cursa analítica completa que mostra lleu alteració del perfil lipídic (LDL 117 mg/dL) sense altres troballes d'interès. Es realitza ecocardiograma transtoràcic que no mostra alteracions significatives i la monitorització cardíaca no registra esdeveniments arítmics. Se sol·licita RM cerebral amb angio-RM que mostra lesió isquèmica aguda en territori d'a. paramediana esquerra sense estenosis significatives intra o extracranials, que s'orienta com de probable etiologia aterotrombòtica i s'inicia segon antiagregant com a tractament de prevenció secundària.
+
+Davant l'estabilitat clínica se sol·licita trasllat a centre de referència (_SS_) per continuar tractament i evolució.
+
+A l'alta: NIHSS = 2
+mRS = 4
+
+DIAGNÒSTICS
+-	Ictus isquèmic d'a. paramediana esquerra, de probable etiologia aterotrombòtica i mecanisme trombòtic.
+-	Hipertensió arterial
+-	Dislipèmia
+-	Cardiopatia isquèmica.
+-	Substitució valvular aòrtica biològica. Salva de fibril·lació auricular aïllada periprocedimental.
+-	
+Informe d'alta d'hospitalització
+
+
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+-	Dieta cardiosaludable
+-	Sedestación en sillón
+-	BMTest De-Co-Ce
+-	Insulina humulina si glicemias > 140 mg según pauta vascular
+-	Enoxaparina 40 mg sc c/ 24 horas
+-	Clopidogrel 75 mg c/ 24 horas
+-	Adiro 100 mg c/ 24 horas
+-	Furosemida 40 mg c/ 24 horas vo
+-	Bisoprolol 5 mg c/ 24 horas vo
+-	Amlodipino 5 mg c/ 24 horas VO
+-	Losartán 50 mg c/ 24 horas VO
+-	Atrovastatina 40 mg c/ 24 horas vo
+
+CONTROL
+Traslado a _SS_
+
+DESTINACIÓ A L'ALTA:	HOSP. AGUTS/PSQ
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+20.03.2017
+Pàgina 1 de 4

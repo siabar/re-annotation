@@ -1,0 +1,80 @@
+T0	FECHA 306 316	24/08/2017
+#0	AnnotatorNotes T0	2017-08-24
+T1	HORA 317 322	09:56
+#1	AnnotatorNotes T1	09:56
+T2	FECHA 372 382	25/08/2017
+#2	AnnotatorNotes T2	2017-08-25
+T3	HORA 383 388	00:16
+#3	AnnotatorNotes T3	00:16
+T4	SECCION_TIPO_DE_INGRESO 389 403	Tipus d'ingrés
+T5	FECHA 426 436	31/08/2017
+#5	AnnotatorNotes T5	2017-08-31
+T6	HORA 437 442	16:08
+#6	AnnotatorNotes T6	16:08
+T7	SECCION_DIAGNOSTICO_PRINCIPAL 544 564	Diagnòstic principal
+T8	_SUG_Ictus_isquemico 574 577	AVC
+T9	_SUG_Localizacion 587 591	TACI
+T10	SECCION_DIAGNOSTICOS_SECUNDARIOS 598 620	Diagnòstics Secundaris
+T11	SECCION_PROCEDIMIENTOS 694 706	Procediments
+T12	_SUG_TAC_craneal 763 774	TAC CRANIAL
+T13	SECCION_ANTECEDENTES 864 875	Antecedents
+T14	_SUG_Ictus_isquemico 898 901	AVC
+T15	_SUG_Ictus_isquemico 903 906	AVC
+T16	_SUG_Arteria_afectada 926 929	ACM
+T17	FECHA 959 963	2016
+#17	AnnotatorNotes T17	2016-UNDEF-month-UNDEF-day
+T18	_SUG_TAC_craneal 968 970	TC
+T19	_SUG_Localizacion 1055 1062	frontal
+T20	_SUG_Localizacion 1083 1092	Posterior
+T21	_SUG_Arteria_afectada 1141 1144	ACM
+T22	_SUG_Ataque_isquemico_transitorio 1278 1281	AIT
+T23	FECHA 1292 1296	2016
+#23	AnnotatorNotes T23	2016-UNDEF-month-UNDEF-day
+T24	_SUG_Etiologia 1299 1310	HIPERTENSIÓ
+T25	_SUG_Tratamiento_antiagregante_alta 1628 1633	adiro
+T26	_SUG_Tratamiento_antiagregante_hab 1628 1633	adiro
+T27	SECCION_PROCESO_ACTUAL 1646 1661	Història Actual
+T28	_SUG_Ictus_isquemico 1932 1937	ictus
+T29	_SUG_Localizacion 1938 1946	cortical
+T30	_SUG_mRankin_alta 2097 2103	Rankin
+T31	_SUG_mRankin_previa 2097 2103	Rankin
+T32	_SUG_Ictus_isquemico 2144 2149	ictus
+T33	FECHA 2174 2178	24/8
+#33	AnnotatorNotes T33	2016-08-24
+T34	HORA 2263 2267	8:15
+#34	AnnotatorNotes T34	8:15
+T35	_SUG_TAC_craneal 2281 2292	TC de crani
+T36	_SUG_Localizacion 2344 2351	frontal
+T37	_SUG_TAC_craneal 2474 2482	TC crani
+T38	_SUG_Ictus_isquemico 2501 2506	ictus
+T39	SECCION_EXPLORACION_FISICA 2509 2526	Exploració física
+T40	HORA 3252 3254	24
+#40	AnnotatorNotes T40	24:00
+T41	_SUG_TAC_craneal 4870 4872	TC
+T42	_SUG_TAC_craneal 4880 4882	TC
+T43	_SUG_Localizacion 4924 4931	frontal
+T44	_SUG_Lateralizacion 4941 4948	derecha
+T45	_SUG_Arteria_afectada 4999 5002	ACA
+T46	_SUG_Lateralizacion 5003 5010	derecha
+T47	_SUG_ASPECTS 5059 5072	ASPECTS 10/10
+T48	_SUG_Lateralizacion 5106 5113	derecha
+T49	_SUG_Localizacion 5267 5275	cortical
+T50	_SUG_Arteria_afectada 5299 5302	ACA
+T51	_SUG_Arteria_afectada 5303 5306	ACM
+T52	_SUG_Arteria_afectada 5358 5361	ACI
+T53	_SUG_Localizacion 5483 5491	parietal
+T54	_SUG_Localizacion 5492 5501	posterior
+T55	_SUG_Ictus_isquemico 5797 5802	ictus
+T56	_SUG_Arteria_afectada 5829 5832	ACA
+T57	_SUG_Arteria_afectada 5884 5914	artèria caròtida interna dreta
+T58	_SUG_Ictus_isquemico 6318 6323	Ictus
+T59	_SUG_Arteria_afectada 6341 6344	ACM
+T60	_SUG_Localizacion 6351 6355	PACI
+T61	_SUG_Etiologia 6363 6378	aterotrombòtica
+T62	_SUG_NIHSS_alta 6488 6496	NIHSS 10
+T63	_SUG_NIHSS_previa 6488 6496	NIHSS 10
+T64	_SUG_mRankin_alta 6497 6505	Rankin 4
+T65	_SUG_mRankin_previa 6497 6505	Rankin 4
+T66	SECCION_TRATAMIENTO_HABITUAL 6507 6517	Tractament
+T67	FECHA 6559 6569	31/08/2017
+#67	AnnotatorNotes T67	2017-08-31

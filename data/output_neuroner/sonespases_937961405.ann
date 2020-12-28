@@ -1,0 +1,33 @@
+T1	SECCION_DIAGNOSTICOS 26 38	Diagnosticos
+T2	SECCION_PROCEDIMIENTOS 219 233	Procedimientos
+T3	SECCION_MOTIVO_DE_INGRESO 436 453	Motivo de ingreso
+T4	SECCION_ANTECEDENTES 578 598	Antecedentes Médicos
+T5	SECCION_SITUACION_FUNCIONAL 641 656	Situación basal
+T6	mRankin_previa 782 788	mRs: 1
+#6	AnnotatorNotes T6	1
+T7	SECCION_TRATAMIENTO_HABITUAL 1229 1253	Tratamiento domiciliario
+T8	Tratamiento_antiagregante_hab 1254 1276	Ácido acetilsalicílico
+T9	SECCION_PROCESO_ACTUAL 1461 1470	Anamnesis
+T10	SECCION_EXPLORACION_FISICA 2048 2059	Exploración
+T11	SECCION_EXPLORACION_FISICA_EN_URGENCIAS 2060 2086	· Exploración en urgencias
+T12	NIHSS_previa 3074 3096	PUNTUACION TOTAL NIH:3
+#12	AnnotatorNotes T12	3
+T13	SECCION_EXPLORACION_FISICA_DURANTE_HOSPITALIZACION 3568 3600	· Exploración en unidad de ictus
+T14	SECCION_EXPLORACIONES_COMPLEMENTARIAS_EN_URGENCIAS 5176 5210	Resultados pruebas complementarias
+T15	SECCION_EXPLORACIONES_COMPLEMENTARIAS_EN_PLANTA_DE_NEUROLOGIA 5914 5936	· Analítica de ingreso
+T16	SECCION_EVOLUCION 8780 8802	Evolución Hospitalaria
+T17	NIHSS_alta 10290 10303	NIHSS 2puntos
+#17	AnnotatorNotes T17	2
+T18	mRankin_alta 10306 10311	mRs 1
+#18	AnnotatorNotes T18	1
+T19	SECCION_TRATAMIENTO_Y_RECOMENDACIONES_AL_ALTA 10313 10350	Recomendaciones y tratamiento al alta
+T20	Tratamiento_anticoagulante_alta 10381 10396	anticoagulación
+T21	Fecha_de_alta 14 24	23-08-2018
+#21	AnnotatorNotes T21	2018-08-23
+T22	Ictus_isquemico 76 81	ICTUS
+T23	Lateralizacion 91 100	IZQUIERDO
+T24	Etiologia 114 127	INDETERMINADA
+T25	Arteria_afectada 5617 5632	vertebrobasilar
+T26	Arteria_afectada 5635 5644	carótidas
+T27	Etiologia 9851 9858	lacunar
+T28	Localizacion 9851 9858	lacunar

@@ -1,0 +1,186 @@
+
+
+
+
+
+Informe d'Alta Hospitalària	Cognoms i nom:
+_NAME_	NHC:
+_ID_
+	ABS:
+_SS_	CIP:
+_ID_	DNI:
+_ID_
+	Data de naixement:
+_DATE_	Sexe:
+Home	Edat:
+37a	Telèfon:
+_CONTACT_
+	Finançament:
+CatSalut - _LOCATION_	Procedència:
+	Admissió:
+02.02.2017 - 14:17	Servei:
+NEURO - UNITAT ICTUS HOSP	Data entrada urg.:
+Adreça:
+_LOCATION_	Població:
+_LOCATION_	Codi Postal:
+_LOCATION_
+
+
+
+Motivo Ingreso
+Hombre de 37 años ingresa por ictus isquémico
+
+
+ANTECEDENTES
+-	No alergias medicamentosas conocidas.
+-	Hábitos tóxicos: Exfumador desde 2009 (DTA 20 paquetes-año). Niega enol.
+
+Factores de riesgo cardiovascular
+-	Hipercolesterolemia
+-	Diabetes mellitus tipo II en tratamiento con insulina
+-	No Hipertensión arterial conocida
+
+Historia Hematológica
+Paciente diagnosticado en 2009 de Linfoma de Hodgkin clásico tipo esclerosis nodular estadio IIIB.
+*Primer tratamiento: Realizó 8 ciclos de ABVD presentando recaida muy precoz tras primera respuesta completa.
+*Segundo tratamiento: Posteriormente realizó 3 ciclos de DHAP, siendo el último en noviembre de 2010. Se objetivó progresión bajo tratamiento.
+*Tercer tratamiento: Se inició tratamiento con BEACOPP escalado, realizando un total de 4 ciclos. En PET-TC del 30/03/11se objetivó una segunda remisión completa.
+*Cuarto tratamiento: TASPE acondicionado con CBV 9/6/11 (mantiene RC)
+*Mantenimiento con Brentuximab dentro de EC (16 ciclos, último junio 2012)
+*Quinto tratamiento: Nueva recaida (agosto 2012): GEMOX X 8 (último 13/12/12). PET-TAC post 7º ciclo: RC. En control de PET-TAC reaparece la tumoración cardiofrénica. Por tanto, RP-MBRP.
+Ingresó en febrero del 2013 para realización de aloTIR de DNE 10/10 el dia 07/02/13 acondicionado con fludarabina-busulfan y profilaxis con tacrólimus y sirolimus. Incompatibilidad mayor ABO, no mismatch de sexo, CMV+/+.
+Como   complicaciones   presentó  toxicidad   hematológica  grado   IV,   fiebre   neutropénica  con   colitis neutropénica y posible sindrome del injerto con rash cutaneo y disfunción hepática.
+Posteriormente realizó RT sobre lesión residual paracardiaca derecha des del 29/04/13 al 24/04. Última revaluación febrero 2016 en RC.
+Como complicaciones durante los controles ambulatorios presentó rash cutaneo que fué compatible con urticaria. Desarrolló posteriormente ECIR oral y ocular controlado con tratamiento tópico y gotas oftálmicas.
+Ingreso por EICH hepático abril 2016 reintroduciendo corticoterapia y Sirólimus.
+Última revaluación febrero 2016 en remisión completa post alotrasplante de DNE 10/10 en 2013.
+
+Ingreso del 10 al 19/01/17:
+-	Posible EICH pulmonar.
+-	Neumonía en lóbulo inferior derecho.
+
+
+-	Insuficiencia  cardíaca congestiva descompensada. FEVI  33% y signos de hipertensión pulmonar de moderada a importante. Pendiente valoración por Cardiología.
+-	Insuficiencia respiratoria aguda en contexto de lo anterior
+
+Ingreso del 23 al 25/01/2017:
+-	Infección respiratoria por VRS.
+
+Historia Oncológica
+Carcinoma escamosos de lengua diagnosticado en octubre 2016 a través de biopsia 11/10/2016 Glosectomíoa parcelaria + vaciamiento supraomohioideo izquierdo 17/11/2016 pT1N0
+Postoperatorio complicado con Insuficiencia respiratoria que precisó IOT en contexto de Edema agudo de pulmon y probable infección respiratoria no filiada.
+
+Otros antecedentes:
+-	Cardiopatía  dilatada  en  probable  relación  a  tratamiento  quimioterápico/radioterápico,	pendiente  de valoración por Cardiología.
+*ETT 02/02/2016: Ventricle esquerre globulós i amb dimensions en el límit superior de la  normalitat. Hipoquinèsia generalitzada, excepte en els segments de la cara lateral i inferolateral basal, condicionant una reducció important de la fracció d'ejecció. Signes indirectes suggestius d'augment de les pressions d'ompliment del ventricle esquerre. Aurícula esquerra no dilatada. Vàlvula mitral amb insuficiència important. Ventricle dret dilatat amb contractilitat reduïda. Insuficiència tricuspídia moderada que permet estimar una PAPS en repós de 45 mmHg (HATP moderada) en repòs. FEVI 60%
+-	Moderada-intensa alteración ventilatoria mixta de predominio obstructivo con prueba broncodilatadora negativa. Ligera disminución de transferencia de CO que se adecúa al volumen alveolar. Saturación de O2 por pulsioximetria es de 96%.
+-	Reflujo gastroesofágico
+
+Antecedentes quirúrgicos:
+17.11.2016 Glosectomía parcial.
+07.02.2013 Trasplante alogénico de cél. hematopoyéticas. 21.06.2011 Fistulectomía anal
+09.06.2011Trasplante autólogo cél. hematopoyéticas.
+
+Tratamiento habitual: Ranitidina 300mg cada 24 horas Aciclovir 800 mg cada 12 horas
+Atorvastatina 10 mg (Cardyil) cada 24 horas Azitromicina 250 mg cada lunes-miércoles-viernes Bisoprolol 1,25 mg cada 24 horas
+Eplerenona 25mg cada 24 horas Captopril 6,25 mg cada 8 horas
+Furosemida 40mg cada 24 horas por la mañana. Sirolimus 1mg cada 24 horas
+
+
+Prednisona 40mg cada 24 horas Rilast 1 inhalación cada 12 horas Singulair 10mg cada 24 horas
+Ciclosporina 0,05% oleoso col 10 ml fg cada 24 horas Hylo gel 3 veces al día
+Hylo colirio cada 24 horas
+Cefuroxima 500 mg cada 12 horas hasta 26.01 Pauta de insulina:
+-	Lantus 0-0-18 UI
+-	Humalog 6-6-6 ui
+-	Pauta correctora B
+
+Situación sociofuncional:
+Natural de Rumanía. Vive con su mujer, tiene una hija. Albañil de profesión, tiene la invalidez permanente por patología hematológica. Independiente para actividades instrumentales, ligera limitación para grandes-medianos  esfuerzos por disnea. mRS=1
+
+ENFERMEDAD ACTUAL
+Acude a urgencias el día 02.02 por haber presentado el 01.02 a las 12:30 cefalea occipital y déficit visual en hemicampo derecho. Niega traumatismos, esfuerzos o movimientos cervicales bruscos. No refiere otra sintomatología a nivel del habla, motora, sensitiva, vértigo o alteración de la marcha.
+
+EXPLORACIÓN FÍSICA
+A su llegada a Urgencias AC: TCR, no ausculto soplos. AR: MVC
+NRL: Vigil. Orientado. Lenguaje y habla normales. Campimetría por confrontación: HHD en maniobra contar dedos. Pupilas medias, con discreta anisocoria (D>), sin ptosis. Paresia facial inferior izquierda probablemente periférica (rama mandibular) en relación a cirugía cervical. Trigémino normal. Pares bajos normales.
+Balance motor, sensibilidad, coordinación normales. No evoco reflejos. RCP flexores. Marcha, tándem y ROmberg sin alteraciones.
+NIHSS=2
+
+En Unidad de Ictus
+-Parámetros vitales dentro de límites normales.
+-Telemetría: con BRIHH, salva de extrasistoles ventriculares.
+
+
+
+
+
+-Exmen Neurológico: Vigil, orientado en las tres esferas. Lenguaje conservado (nomina, repite, comprende 3 órdenes). Agudeza visual conservada. Campimetría: presenta disminución de nitidez al visualizar objetos en hemicampo derecho, mejoría con respecto al examen del día de ayer. MOE conservados. Pupilas medianas, isocóricas, reactivas. Sensibilidad facial conservada. Leve paresia facial inferior izquierda (previo, tras cirugía cervical). Sin trastornos deglutorios. Movilidad de ECM y Trapecio conservada. Motilidad lingual conservada. Fuerza muscular 5/5 en 4 miembros proximal y distal. Sensibilidad conservada. Coordinación normal. No evoco reflejos (falta de relajación por parte del paciente). Reflejo plantar en flexión bilateral. Marcha eubásica.
+NIHSS: 1
+
+
+EXPLORACIONES COMPLEMENTARIAS
+Analítica sanguínea en urgencias: Sodi 143 mmol/L ( 136 - 145 ) Potassi 4,54 mmol/L ( 3,50 - 5,10 ) Calci 2,43 mmol/L ( 2,15 - 2,55 )  9,72 mg/100mL  Magnesi 0,88 mmol/L ( 0,65 - 1,05 ) Fosfat 1,17 mmol/L (
+0,87 - 1,45 )  3,62 mg/100mL Glucosa 7,3 mmol/L ( 3,0 - 6,0 )  131,40 mg/100mL Urea 7,9 mmol/L ( 2,1 - 7,1 )
+47 mg/100mL Creatinina 68 µmol/L ( 0 - 106 ) 0,76 mg/100mL Filtrat glomerular estimat >90,00 mL/min/1.73m2 Bilirubina total 12 µmol/L (< 17) 0,72 mg/100mL Triglicèrids 2,61 mmol/L (< 1.65) 230,99 mg/100mL Colesterol 6,84 mmol/L (< 6.2) 264,71 mg/100mL AST (GOT) 37 U/L ( 0 - 37 ) ALT (GPT) 74 U/L ( 0 - 41 ) Fosfatasa alcalina 131 U/L ( 40 - 130 ) GGT 407 U/L ( 0 - 54 ) LDH 489 U/L ( 125 - 243 ) NT-proBNP 4540 ng/L Proteïna total 64,7 g/L ( 64,0 - 83,0 ) Albúmina 42,1 g/L ( 34,0 - 48,0 ) Hemoglobina 148 g/L ( 130 - 170 ) Hematòcrit 0,46 L/L ( 0,40 - 0,50 ) Hematies 5,20 x10E12/L ( 4,50 - 5,70 ) VCM 87,9 fL ( 80,0 - 98,0 ) CCMH 324 g/L ( 320 - 360 ) HCM 28,5 pg ( 27,0 - 32,0 ) RDW 13,9 % ( 12,0 - 15,0 ) Plaquetes 189 x10E9/L ( 140 - 350 ) VPM 8,3 fL ( 7,0 - 10,5 ) Plaquetòcrit 0,20 % Leucòcits 9,43 x10E9/L ( 3,80 - 11,00 ) Fórmula leucocitària Neutròfils 50,2 % Neutròfils absoluts 4,74 x10E9/L ( 1,80 - 7,00 ) Eosinòfils 1,0 % Eosinòfils absoluts 0,09 x10E9/L ( 0,05 - 0,50 ) Basòfils 0,2 % Basòfils absoluts 0,02 x10E9/L ( 0,00 - 0,10 ) Monòcits 11,6 %  Monòcits absoluts 1,09 x10E9/L ( 0,30 - 1,00 ) Limfòcits 37,0 % Limfòcits absoluts 3,49 x10E9/L ( 1,00
+- 4,00 ) Reticulòcits % 3,31 % ( 0,50 - 2,00 ) Reticulòcits absoluts 172,1 ( 20,0 - 100,0 ) Fracció de baixa intensitat 92,1 % ( 78,0 - 97,0 ) Fracció de mitja intensitat 6,8 % ( 3,0 - 18,0 ) Fracció d'alta intensitat 1,1 % ( 0,0 - 4,0 ) IRF 7,90 ( 3,00 - 22,00 ) RET-He 32,10 ( 29,80 - 37,70 )
+*Quantificació IgG 510,00 mg/100mL ( 723,00 - 1.685,00 )Quantificació IgA 103,00 mg/100mL ( 69,00 -
+382,00 )Quantificació IgM 36,70 mg/100mL ( 40,00 - 230,00 )
+*Sirolimus 8,18 ug/L
+Radiografía de tórax: no se observan infitrados alveolares, ICT =0'5
+ECG: Ritmo sinusal a 90lpm, hemibloqueo anterior, BIRHH. Amputación de onda R en precordiales. QS en cara inferior.
+TC craneal: Hipodensidad occipital izquierda con afectación cortical y subcortical, con leve efecto de masa asociado. Los hallazgos son sugestivos de lesión isquémica reciente en territorio de la ACP izquierda. Conclusión: Hallazgos sugestivos de lesión isquémica reciente en el territorio de la ACP izquierda.
+
+
+
+
+
+
+
+RMN cerebral: Infarto establecido subagudo en el parénquima superficial parafalcial occipital izquierda con transformación hemorrágica giral que no llega a condicionar un hematoma significativo ni compromiso de espacio. No se aprecia infarto profundo ni otras lesiones agudas ni crónicas. Linea media centrada. Cisternas de la base libres. Engrosamiento mucoso en seno maxilar derecho. Cambios postquirúrgicos en cavidad oral y cuello. TOF INTRACRANEAL SIN CONTRASTE EV: Flujo anterógrado vertebral y carotideo. No se aprecian alteraciones significativas en los sectores intracraneales, particularmente en relación a sectores VB. ANGIORM TSA CON CONTRASTE EV: Correcta permeabilidad de sectores carotideos y VB. Como variante destacamos una AVI con origen propio a nivel de cayado Ao y parece hacerse intravertebral un nivel por encima que la contralateral. En el estudio angiográfico se aprecia un ligero desdibujamiento del contorno de esta arteria en su segmento cervical que no se confirma en las secuencias anatómicas y que puede estar condicionado por la propia substracción. CONCLUSION: Infarto occipital izquierdo que se correlaciona con la lesión descrita en la TC, con transformación hemorrágica sin hallazgos angiográficos significativos, destacando una AVI izquierda con origen propio en cayado Ao.
+Ecocardiografía transtorácica: Ventricle esquerre d'aspecte globulós i amb dimensions en el límit superior de la normalitat. Hipoquinèsia generalitzada, excepte en els segments de la cara lateral i inferolateral basal, essent més marcada en la cara inferior, condicionant una reducció important de la fracció d'ejecció. Signes indirectes suggestius d'augment de les pressions d'ompliment del ventricle esquerre. Aurícula esquerra no dilatada. Vàlvula mitral morfològicament normal però amb tenting d'ambdós vels condicionant una insuficiència important, amb atenuació del component sistòlic de les venes pulmonars. Arrel aòrtica no dilatada. Vàlvula aòrtia morfològica i funcionalment normal. Ventricle dret dilatat amb contractilitat reduïda. Insuficiència tricuspídia moderada que permet estimar una PAPS en repós de 45 mmHg (HATP moderada) en repòs. VCI dilatada amb col·lapse inspiratori >50%.  Absència d'embassament pericàrdic.
+Estudio neurosonológico:
+*	Dúplex TSA: ambas ACC, ACI y ACE sin alteraciones morfológicas. Flujo discretamente más amortiguado en la ACC, ACI y AV derechas (no exploro ostiums), sin otras alteraciones destacables.
+*	Dúplex TC (buena ventana): ambas ACMs, ACAs, ACIt, ACPs, AV y AB (hasta 105 mm) con flujo dentro de la normalidad
+
+EVOLUCIÓN
+Respecto al estudio etiológico el estudio inicial (TAC craneal) evidencia hipodensidad occipital izquierda con afectación cortical y subcortical, con leve efecto de masa asociado, compatible con lesión isquémica reciente. Se realiza posteriormente ecocardiografía transtorácica donde se observa insuficiencia mitral, ventriculo derecho dilatado con contractibilidad reducida, insuficiencia tricuspídea moderada; estudio neurosonológico: Dúplex TSA flujo discretamente más amortiguado en la ACC, ACI y AV derechas, y dúplex TC con flujo dentro de la normalidad. Se orienta como ictus isquémico de territorio de ACP izquierda, de probable origen cardoembólico en contexto de miocardiopatiacon FEVI baja por toxicidad quimioterápica .
+Tras obtención de Consentimiento informado, se incluye en el ensayo SRA. Ingresa en Unidad de Ictus para estudio y monitorización.
+Durante su estancia en Unidad de Ictus se mantiene normotenso y afebril, telemetría con BRIHH y salva de extrasistoles ventriculares. Presenta mejoría clínica, refiriendo leve disminución de nitidez en hemicampo derecho. Requiere BIC de heparina con buen control hasta inciar hibor.
+
+
+
+
+Durante su estancia en sala de neurologia se mantiene hemodinámicamente estable. Queda asintomático con mejoría progresiva de la agudeza visual y campo visual sin cefalea asociada. Se realiza paso a sintrom como anticoagulación preventiva secundaria. Al alta NIHHS 0 y mRS 1.
+
+DIAGNÓSTICO
+-	Ictus Isquémico de territorio ACP izquierda, probable origen cardioembólico.
+-	Micardiopatia dilatada FEVI alrededor de 30%
+-	DM2 , hipercolesterolemia
+-	Posible EICH pulmonar
+-	Linfoma Hodgkin en RC, aloTPH
+
+
+RECOMANACIONES AL ALTA
+Tratamiento:
+Mantener tratamiento habitual y añadir Sintrom 4 mg según pauta adjunta
+
+Visitas:
+Control INR en CAP de su localidad el dia 13 febrero
+Control en 3 meses en CEX Neurologia según programación Control en Hospital de Día de Hematología según cita adjunta
+
+Debido a la afectación visual por la lesión isquémica se recomienda evitar conducir durante estos siguientes 6 meses, y según evolución se revalorará.
+
+
+
+Responsable clínic: Dr. _NAME_ (NºCol. _ID_)
+Equip mèdic: _NAME_ (NºCol. _ID_)
+
+Servei que ha donat d'alta:
+NEUROLOGIA HOSP	Data d'alta:
+10.02.2017	Nom del metge que informa de l'alta:
+Dr. _NAME_ (NºCol. _ID_)
+
+
+_LOCATION_, 10.02.2017
+Pàg. 1 de   6

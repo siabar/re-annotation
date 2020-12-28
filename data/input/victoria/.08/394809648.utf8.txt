@@ -1,0 +1,149 @@
+_LOCATION_
+_LOCATION_) Anul·lació/Reprogramació visites:_CONTACT_
+Telèfon Centraleta: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 42 Anys
+NIF/DNI: _ID__NAME_; _NAME_;
+ _NAME_;_NAME_
+Informe d'alta d'hospitalització
+10:00:00
+28.07.2017
+_LOCATION_
+_SS_
+MALALTIES INFECCIOSES
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_; _CONTACT_; _CONTACT_; DOMICIL/RES.SOC
+25.07.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Fiebre
+
+ANTECEDENTS
+-No alergias medicamentosas conocidas. Ginecomastia dolorosa con la toma de Espironolactona.
+
+Factores de riesgo cardiovascular:
+-Hábitos tóxico: fumador de tabaco(1.5paq/día) y cannabis (2-3día).Enolismo de 3-4UBEs/día(sólo cerveza).Ex-ADVP(heroína).
+-No HTA, DM ni DLP conocidas.
+
+Antecedentes patológicos:
+-TBC pleural en 1995 tratada durante 6 meses sin complicaciones.
+
+-Hepatopatía crónica por VHC: portador del VHC genotipo 1a desde los 16 años, es derivado a consultas externas de Digestivo para control en Mayo de 2013. Nunca descompensado o tratado, hasta aparición de ascitis de origen mixto, probablemente secundaria a linfoma de Burkitt (diciembre de 2012) y su tratamiento. Se inicia tratamiento para VHC con Ombitasvir/ Paritaprevir/Ritonavir + Dasabuvir+ RBV 12 semanas, finalizandolo el 29 enero 2016.
+***Esofagogastroduodenoscopia  Febrero/2013: dentro de la normalidad, sin evidencia de varices gastroesofágicas.
+***Elastografía Mayo/2015: 12,7 KPa = F3.
+***TC abdominal Julio/2016: Hígado de tamaño y morfología normales. No se aprecian lesiones focales. No se observa dilatación de la vía biliar. Colelitiasis.
+
+-VIH (categoría clínica C): diagnosticado en 2000 estadio B3, en tratamiento desde 2012, actualmente con Emtricitabina + Tenofovir alafenamida + Raltegravir. Carga viral de 06/07/17: 318 copias/ml (admite algún olvido en toma de medicación). CD4+ 18% (583células).
+***Complicaciones infecciosas: herpes zóster D6-D7 en dos ocasiones, muguet oral tratado con mycostatín en varias ocasiones. Realizó tratamiento profiláctico con Septrim que actualmente ya no realiza.
+***Vacunas: Antipneumococo y VHB en el 2007.
+
+-Linfoma de Burkitt estadío IV-B diagnosticado en diciembre de 2012 a raíz de cuadro de ictericia obstructiva y ascitis, con citologia de ascitis y BH compatibles con Burkitt. Se realizó tratamiento con Burkimab y posteriormente R-CHOP con dosis reducidas de adriamicina y vincristina.
+***Complicaciones sufridas:
+1)	Enero 2013: Neutropenia febril con Candidemia en HC; Íleo paralítico secundario a infección por Clostridium difficile, ascitis de origen multifactorial y neumonía nosocomial (x2). Requiriró estancia en UCI por insuficiencia respiratoria, con complicaciones por infección (probablemente colitis) por CMV y bacteriemia por Enterococo faecium secundaria a CVC.
+2)	Febrero 2013: ingreso en UCI por neutropenia febril tras primer ciclo R-CHOP con bacteriemia por Klebsiella pneumoniae y candidiasis orofaringea.
+***Acude a visita con Hematología cada 6 meses con TC programada para seguimiento (hasta el momento actual
+
+Informe d'alta d'hospitalització
+
+
+
+
+no ha habido signos de recaída.
+
+-Mucositis por VHS tratada con aciclovir, insuficiencia respiratoria asociado a infiltrados pulmonares y derrame pleural izq, con FBS (08/03/13) que descarta Kaposi pulmonar (episodio aislado de hemoptisis).
+
+-Peritonitis bacteriana espontánea por Lysteria (+ en cultivo de líquido ascítico) y colitis pseudomembranosa con ingreso en INF 19/06-03/07/17.
+
+-Ictus de ACM izquierda y oclusión de M1 de etilogía indeterminada, tratado en fase aguda con rTPA ev y trombectomía mecánica con recanalización TICI 2b, ingresado en NRL de 14-24/07/17, con leve afasia motora como secuela.
+
+Intervenciones quirúrgicas: osteosíntesis de fractura en tobillo izquierdo.
+
+Situación basal: trabaja como monitor. Independiente para ABVD, convive con su pareja.
+
+MEDICACIÓ HABITUAL
+Clopidogrel 75 mg cada 24 horas, Atorvastatina 40mg cada 24 horas, Pantoprazol 20mg cada 24 horas, Emtricitavina (FTC) + Tenofovir alafenamida (TAF) 200+25mg (DESCOVY) 1 comp al día por la noche, Raltegravir (RGV) 400mg (ISENTRESS) cada 12 horas.
+
+PROCÉS ACTUAL
+Paciente varón de 42 años que acude a Urgencias por episodio único de fiebre de 18 horas de evolución con franca tiritona y sensación distérmica asociada. Fue dado de alta hace 24 horas de la planta de Neurología donde estuvo ingresado por un ictus isquémico con disartria residual. Durante dicho ingreso niega colocación de sondaje vesical, estando los últimos 4 días del ingreso sin vía periférica. Comenta polaquiúria y tenesmo vesical así como un cambio en el color y olor de la orina (más cargada), sin disúria ni dolor perineal/testicular. Niega tos o expectoración, dolor abdominal o alteración del hábito deposicional. No alteración de la deglución secundaria a ictus. No otra clínica.
+
+EXPLORACIÓ FÍSICA
+
+FC	79 bpm
+Tªaxi 36.7 ºC
+FR	rpm Tªrec  ºC
+TA s	114 mmHg SAT O2  %
+TA d   82 mmHg Pes Kg
+
+Buen estado general. Consciente y orientado. Hemodinámicamente estable. Afebril. AC: Tonos cardíacos rítmicos sin soplos audibles.
+AP: Murmullo vesicular conservado sin ruidos sobreañadidos.
+ABD: Blando y depresible, no doloroso a la palpación, no visceromegalias, no peritonismo. Puño percusión renal bilateral negativa.
+EEII: Ausencia de edemas o empastamiento a nivel de pantorrillas. ORL: Faringe no hiperémica sin placas o exsudados.
+No se palpan adenopatías periféricas.
+Tacto rectal: próstata sin aumento de tamaño o temperatura local, no dolorosa al tacto. No melenas. No lesiones a nivel cutáneo externo.
+
+Informe d'alta d'hospitalització
+
+
+
+EXPLORACIÓ COMPLEMENTÀRIA
+Analítica:
+-	Bioquímica: creatinina 102umol/L, glucosa 5.7 mmol/L, sodio 135 mmol/L, potasio 3.67 mmol/L, urea 6.7 mmol/L.
+-	Hemograma: Hb 156 g/L, Htc 43 %, VCM 94 fL, HCM 35 pg, plaquetas 194x10E9/L, leucocitos 15.3x10E9/L, neutrófilos 12.18x10E9/L.
+-	Coagulación: TP 1.18, TTPA 0.96..
+-	Equilibrio ácido-base: pH 7.45 , pO2 47 mmHg, PCO2 41 mmHg, bicarbonato 28.5 mmol/L, EB 4.1 mmol/L.
+
+Hemocultivos 25 y 26/07/17: pendientes.
+
+Sedimento de orina: eritrocitos: 2, leucocitos: 352, bacterias: 1119, ausencia de hongos.
+
+Urocultivo: E. coli
+
+Radiografía de tórax: sin alteraciones pleuropulmonares agudas significativas.
+
+Radiografía  de  abdomen:  sin  datos  de  neumoperitoneo,  no  niveles  hidroaéreos  ni  presencia  de  litiasis radiolucentes.
+
+Ecografía cardiaca transesofágica: Orejuela izquierda libre de trombos. Septum interauricular integro. Sin paso de contraste de cavidades derechas a izquierdas aunque el registro es subóptimo (escasa contrastación de las cavidades cardiacas) por mal acceso venoso. Aorta normal. Sin focos embolígenos.
+
+EVOLUCIÓ CLÍNICA
+Durante su estancia en Urgencias presenta un pico de 39.3ºC, manteniendose hemodinámicamente estable y con buen estado general. Analíticamente destaca leucocitosis con neutrofilia y sedimento urinario con leucocituria y bacteriuria. Se obtuvieron 2 hemocultivos y urocultivo y se inicia tratamiento empírico con cefepime con una dosis puntual de vancomicina. Se decide ingreso en infecciosas.
+A su llegada a planta el paciente presenta un nuevo episodio autolimitado de fiebre (38ºC) que cede por sí solo, sin tiritona y con estado general conservado. Se retiraron otros dos hemocultivos, estando al momento actual todavía pendientes.
+A nivel microbiológicoel urocultivo presenta crecimiento de E. coli ampC por lo que se decide cambiar tratamiento a ciprofloxacino, que con la orientación diagnostica de prostatitis el paciente deberá mantener durante 21 días. Dada la correcta evolución y la ausencia de signos de alarma se decide alta a domicilio.
+
+
+DIAGNÒSTICS
+Diagnóstico principal:
+-Prostatitis por E. coli ampC
+
+Diagnósticos secundarios:
+-VIH
+-Ictus ACM izquierda
+
+Informe d'alta d'hospitalització
+
+
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Cirpofloxacino 500mg cada 8 horas hasta el 15-08-17
+
+CONTROL
+Control por especialistas habituales
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+28.07.2017
+Pàgina 1 de 4

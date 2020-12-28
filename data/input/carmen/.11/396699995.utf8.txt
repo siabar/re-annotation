@@ -1,0 +1,109 @@
+I.CLINIC DE NEUROCIÈNCIES NEUROLOGIA
+
+_NAME_		NHC: _ID_
+Sexo/Sexe: Masc.	Fecha nac./Data naix.: _DATE_	Edad/Edat: 92 años
+Dirección/Adreça: _LOCATION_		CP: _LOCATION_
+Municip. (Prov.): _LOCATION_  ABS:_SS_		Tel.:_CONTACT_-_NAME_
+As.: SERVEI CATALA DE LA SALUT	CIP: _ID_	NASS: _ID_
+Nº epis.: _ID_	Tipo/Tipus: HOSPIT.	Inici.: 29.07.2017
+Serv: NEUROLOGIA	UO Enf.: I064 SALA G DE NEUROL. INTE	Hora: 13:35:36
+Facult. de ref.: _NAME_		
+
+
+Tipo ingreso/Tipus ingrés: Urgent	Motivo/Motiu alta: Dom. Familiar
+Diag.:
+Ictus lacunar izquierdo ()
+Proc.:
+
+
+
+
+INFORME CLÍNICO ALTA / INFORME CLÍNIC ALTA
+
+Motivo de consulta / Motiu de consulta
+Debilidad de extremidades derechas
+
+Antecedentes e historia previa / Antecedents i història prèvia
+Antecedentes personales:
+Varón de 92 años. Independiente para las actividades básicas de la vida diaria (mRS: 2). Vive solo con asistencia doméstica. Sin alergias medicamentosas conocidas. Ex-fumador, antes 4-5 puros al día desde los 20 a los 55 años.
+
+*ANTECEDENTES PATOLÓGICOS:
+
+1. TROMBOSIS VENOSA PROFUNDA DE MIEMBRO INFERIOR IZQUIERDO DE REPETICIÓN.
+
+*INTERVENCIONES QUIRÚRGICAS:
+
+1.	COLECISTECOMÍA.
+
+2.	HERNIORRAFIA UMBILICAL.
+
+3.	PRÓTESIS DE RODILLA.
+
+4.	FACOEMULSIFICACIÓN CON COLOCACIÓN DE LENTE INTRAOCULAR BILATERAL.
+
+*TRATAMIENTO HABITUAL: ácido acetilsalicílico 300 mg/24h.
+
+Proceso actual / Procés actual
+El 28/06/17 presenta de forma súbita debilidad de extremidades derechas y asimetría facial, así como sensación de acorchamiento en el hemicuerpo
+ipsilateral. Niega otros síntomas acompañantes.
+
+Exploración física / Exploració física
+29/07/2017-14:00:00: Frecuencia respiratoria (rpm) 16, PAS (mm Hg) 186, PAD (mm Hg) 71, Pulsioximetría (%) 99. 29/07/2017-15:00:00 : Tª axilar ( ºC) 35.9. 30/07/2017-15:00:00 : FiO2 (%) 21. 30/07/2017-19:55:00 :
+Glice mia capilar (mg/dl) 163. Buen estado general.
+AC: Tonos rítmicos AP: murmullo vesicular conservado.
+NRL: alerta, consciente y orientado. Lenguaje sin rasgos afásicos. Sin disartria. Campimetría por confrontación sin déficit. Isocoria normoreactiva a la luz. Mirada conjugada centrada, sin limitaciones a la excursión horizontal ni vertical. Nervios craneales conservados. Balance muscular hemiparesia derecha facio (supranuclear, moderada) braquio- crural 3+/5. Hemihipoestesia derecha. Dismetría proporcional al grado de paresia. Sin negligencias.
+NIHSS 4.
+
+Laboratorio / Laboratori
+*ANALÍTICA SANGUÍNEA: PCR 1.97mg/dL, creatinina 1.05mg/dL, FG 61 ml/min, ácido úrico 6.0 mg/dL, colesterol total 181 mg/dL, LDL/HDL 124/35 mg/dL, LDH 347 U/L, homocisteína 24.8 umol/L, ácido fólico intraeritrocitario 342 ng/mL, vitamina B12 293 pg/mL, hemograma sin anemia ni leucocitosis, no plaquetopenia, VSG 54 mm/h, coagulación normal, DD 1300 ng/mL, eje tiroideo sin alteraciones  (se adjunta).
+
+Radiología / Radiologia
+*RX TÓRAX: sin focos de consolidación ni otros hallazgos sugestivos de patología aguda.
+
+*TC CRANEAL BASAL: Leve leucoaraiosis sin otras alteraciones en la densidad del parénquima cerebral.
+*TC CRANEAL CON ANGIO TC: Se observan 2 imágenes lacunares, una subinsular derecha y otra en el territorio profundo de la arteria cerebral media izquierda. Angio-TC: Hipoplasia de la arteria vertebral derecha. No se observan estenosis u oclusiones de gran vaso extra ni intracraneal (pendiente de informe definitivo).
+
+*ECOGRAFÍA DOPPLER DE MIEMBROS INFERIORES: Quiste de Baker de 22 x 59 x 17 mm en cara interna de pierna izquierda. Vena safena safena externa (bilateral), permeable, con paredes engrosadas y disminucion de la compresibilidad : recanalizacion post-trombosis. Resto de venas estudiadas sin alteraciones.
+
+Exploraciones complementarias / Exploracions complementàries
+*ECG: ritmo sinusal con extrasístoles supraventriculares y bloqueo bifascicular (bloqueo completo de rama derecha del haz de His y del fasículo anterior de la rama izquierda).
+
+Evolución / Evolució
+1.- ICTUS ISQUÉMICO EN TERRITORIO DE ARTERIAS LENTICULOESTRIADAS IZQUIERDAS.
+
+A su llegada a urgencias normotenso y afebril. En la exploración física se aprecia síndrome hemimotor-hemisensitivo derecho (NIHSS: 4). Analítica sanguínea sin alteraciones. ECG en ritmo sinusal con extrasístoles ventriculares y bloqueo bifascicular (bloqueo completo de  rama derecha del haz de His y bloqueo de rama anterior izquierda). Radiografía de tórax sin patología aguda. Se realiza TC cerebral con angio-TC (el paciente no tolera la RM) es compatible con un infarto agudo en nucleo lenticular izquierdo correspondiente al territorio de las arterias lenticuloestriadas izquierdas. En el estudio vascular (angio-TC y estudio por ecografía doppler) se aprecia ateromatosis en ambas bifurcaciones carotídeas sin estenosis u oclusiones en el árbol arterial intra ni extra craneal.
+Durante su monitorización en la Uniadd de ictus (>72h) no se registran alteraciones del ritmo cardiaco
+sugestivas de cardioembolismo y el paciente presenta buena evolución clínica persistiende leve paresia de extremidades derechas (4+/5).
+Se orienta como ictus isquémico en territorio de arterias lenticuloestriadas izquierdas de etiologia indeterminada (pendiente de realizar ecocardiograma ambulatorio), en paciente con factores de riesgo vascular, por lo que se decide cambio de AAS a Clopidogrel. De forma ambulatoria se completara estudio con ecocardiograma y posterior visita de control en consultas externas de neurología (Dr. _NAME_).
+
+NIHSS:0 mRS:3 TOAST: Indeterminado.
+
+2.- DOLOR EN EXTREMIDAD INFERIOR IZQUIERDA.
+Durante ingreso el pacietne presenta dolor a nivel de extremidad inferior izquierdas, con palpacion de cordón varicoso. Dados los antecedentes de TVP se solicita Dimero D que es de 1200 y se realiza Doppler de extremidades inferiores que descarta trombosis a nivel profundo y superficial. Se pauta tratamietno analgesico con mejoria del dolor hasta quedar asintomático, pudiendose tratar de dolor de tipo articular.
+
+Plan terapéutico / Pla terapèutic
+Pantoprazol 40 mg/día. Atorvastatina 40 mg en la cena. Enalapril 5mg cada 12horas. . Clopidogrel 75 mg cada día en el desayuno.
+
+Otras recomendaciones / Altres recomanacions
+Control estricto de los factores de riesgo cardiovascular. Se recomienda acudir a consulta según citas adjuntas: - Ecocardiograma el día 2 de octubre de 2017 a las 12:30 en el _SS_ (escala 3, planta 4). - Visita en consultas adjuntas de neurología con el Dr. _NAME_ el día 3 de octubre a las 9:30 en Consultas Externas del _SS_ (_LOCATION_).
+
+
+
+Firma/Signatura1: _NAME_	Firma/Signatura2: _NAME_ Categoría: Resident 2	Categoría: Especialista
+Nº Matrícula HCP: _ID_	Nº Matrícula HCP: _ID_
+
+Fecha/Data Informe: 03.08.2017
+Hora Informe: 15:59:15
+
+Docum.: _ID_
+Hist. Clínica: _ID_
+El _SS_ ha incorporado sus datos al Fichero de Pacientes, para tratarlos con fines sanitarios.
+Puede ejercer sus derechos de acceso, rectificación, cancelación y oposición, así como obtener mas información en la Unidad de Atención al Cliente.
+Vers. 00
+Pag. 2 de
+3
+Episod.: _ID_
+_SS_ ha incorporat les seves dades al Fitxer de Pacients, per a tractar-los amb finalitats sanitàries. Pot exercir els seus drets d'accés, rectificació, cancel·lació i oposició, i obtenir més informació a la Unitat d'Atenció al Client.
+_SS_
+_LOCATION_) _LOCATION_) Tel. _CONTACT_ Fax _CONTACT_
+http://_CONTACT_/

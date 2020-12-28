@@ -1,0 +1,117 @@
+I.CLINIC DE NEUROCIÈNCIES NEUROLOGIA
+
+_NAME_		NHC: _ID_
+Sexo/Sexe: Masc.	Fecha nac./Data naix.: _DATE_	Edad/Edat: 68 años
+Dirección/Adreça: _LOCATION_		CP: _LOCATION_
+Municip. (Prov.): _LOCATION_  ABS:_SS_		Tel.:_CONTACT_
+As.: SERVEI CATALA DE LA SALUT	CIP: _ID_	NASS: _ID_
+Nº epis.: _ID_	Tipo/Tipus: HOSPIT.	Inici.: 21.03.2017
+Serv: NEUROLOGIA	UO Enf.: G064 SALA G DE NEUROLOGIA	Hora: 00:59:40
+
+
+Tipo ingreso/Tipus ingrés: Urgent	Motivo/Motiu alta: Dom. Familiar
+Diag.:
+ICTUS ISQUEMICO DE ARTERIA CEREBRAL MEDIA IZQUIERD ()
+Proc.:
+ANALÍTICA SANGUÍNEA () RADIOGRAFÍA DE TÓRAX ()
+TC MULTIMODAL DE CRANEO () TROMBECTOMIA MECANICA PRIMARIA () ECG ()
+TC CRANEAL DUAL ENERGUY ()
+
+
+
+
+INFORME CLÍNICO ALTA / INFORME CLÍNIC ALTA
+
+Motivo de consulta / Motiu de consulta
+Alteración del lenguaje
+
+Antecedentes e historia previa / Antecedents i història prèvia
+** ANTECEDENTES PERSONALES:
+Varón de 68 años, sin alergias medicamentosas conocidas, enol moderado,  sin otros hábitos tóxicos. Independiente para las actividades básicas de la vida diaria (mRs:2, por ictus hemorágico previo)
+
+** ANTECEDENTES PATOLÓGICOS
+1.- HIPERTENSIÓN ARTERIAL ent ratamiento farmacológico.
+2.- ICTUS TALÁMICO DERECHO (se desconoce si isquémico o hemorrágico) de etiología hipertensiva (2014), presentando como secuela hemiparesia braquio-crural (4/5) izquierda. En ocasiones  requiere ayuda de baston para deambular. Rankin mod: 2
+2.- DISLIPEMIA en tratamiento farmacológico.
+** TRATAMIENTO MÉDICO HABITUAL: Atorvastatina 40 mg. Torasemida 5 mg. Lisinopril 20 mg. Adiro 100 mg. Doxazosina 4 mg
+
+Proceso actual / Procés actual
+Alteración del lenguajal despertar el dia 20.03.2017 que fluctua a lo largo de la mañana, quedando en algún momento asintomático, pero con posterior emperoamiento hasta llegar a la afasia, por lo que acude el SEM y se activa código ictus extramuros.
+
+Exploración física / Exploració física
+21/03/2017-01:00:00: PAS (mm Hg) 135, PAD (mm Hg) 89, Pulsioximetría (% ) 93, Tª axilar (ºC) 35.8.
+
+21/03/2017-01:38:08 : Peso (Kg) 104. 21/03/20
+NRL: Consciente, orientado. Lenguaje hipofluente con rasgos afásicos (n ominación 3/7, repite palabras simples, no complejas, obedece órdenes si mples,  no de 2 ítems ni complejas). Mirada  centrada  sin limitaciones. Ca mpimetría por confrontación sin alteraciones. Disartria. Resto de pares craneales conservados. Paresia facial central derecha. Paresia braquio ( 4/5)-crural (4/5) izquierda con ataxia sensitiva de extremidades izquier da (secundario a ictus previo). NIHSS: 10
+AC: Rítmica sin soplo AR: MVC, sin roncus ni sibilancias. ABD: anodino.
+
+Laboratorio / Laboratori
+*LABORATORIO INGRESO AVI:
+BIOQUIMICA GENERAL: Glucosa 116/A mg/, Creatinina 1.01 mg/,Sodi 144 mEq/ Potasi 3.7 mEq, HEMATIMETRIA Recompte de leucòcits 9.61 10^, Concentració d´hemoglobina 165 g/L Hematòcrit 0.490 L/L HEMOSTÀSIA GENERAL Temps de protrombina (%) 78.8/B%,Temps de protrombina (seg) 13.6 seg Temps de protrombina, rati 1.14,Temps de tromboplastina parcial 30.2 seg INR 1.14
+DROGUES D'ABÚS Alcohol etílic urgent, plasma Negatiu
+*LABORATORIO ALTA AVI:
+BIOQUÍMICA GENERAL PCR 0.64 mg/dL - Glucosa 95 mg/dL BUN 9 mg/dL, Creatinina 0.80 mg/dL ALAT 12 U/L, ASAT  19  U/L, GGT  40  U/L,  Bilirrubina  total  0.8 mg/dL,Bilirrubina directa  0.3 mg/dL  Bilirrubina indirecta 0.5 mg/dL, Fosfatasa alcalina 94 U/L Lactat deshidrogenasa (LDH) 414 U/L, Creatín quinasa (CK) 185 U/L. Troponina I <0.017 ng/mL, Proteïnes totals 62/B g/L Albúmina 37 g/L,Amilasa 38 U/L,Lipasa 34 U/L Sodi 143 mEq/L,Potasi 4.3 mEq/L,Clor 109/A mEq/L Calci 8.3/B mg/dL,Fósfor 3.6 mg/dL,Magnesi 2.3 mg/dL PROTEÏNES Albúmina prot. % sèrum 58.3% Alfa 1 glob. prot. % sèrum 4.3% Alfa 2 glob. prot. % sèrum 10.1% Beta glob. prot. % sèrum 13.3/A% Gamma glob. prot. % sèrum 14.0% Cocient Albúmina/Globulines sèrum 1.40 LÍPIDS Colesterol LDL 117 mg/dL Colesterol HDL 29/B mg/dL
+HEMATIMETRIA Recompte de leucòcits 10.36 10^9/, Concentració d´hemoglobina 148 g/L Hematòcrit 0.440 L/L, Recompte plaquetes 268 10^9/L Temps de protrombina (%) 85.8%, Temps de protrombina (seg) 12.6, Temps de protrombina, rati 1.06, Temps de tromboplastina parcial 31.7 Fibrinogen 2.9, INR 1.08
+
+Radiología / Radiologia
+*RX TORAX (21/03/2017): mala tecninca (rotada),  no impresionan lesiones oseas. Indice cardiotorácico impresiona algo aumetnado. No se evidencian lesiones pleuroparenquimatosas. Senos costo frénicos y cardio frénicos libres.
+
+*TC CRANEAL BASAL URGENTE ADQUIRIDO MEDIANTE ENERGÍA DUAL(20/03/2017): Ténue hiperdensidad a
+nivel temporal posterior izquierdo, que tras el postprocesado de las imágenes adquiridas mediante energía dual corresponde a contraste extravasado. No hay sangrado agudo intracraneal. Foco de hipodensidad en la sustancia blanca profunda, lateral al atrio ventricular izquierdo, probablemente isquémico establecido. Resto del estudio sin cambios significativos en comparación al TC previo de hace 6 horas.
+*ANGIORRADIOLOGIA (20/03/2017): Introductor 8F/12cm, catéter diagnóstico Cordis 5F Simmons 2, Neuron max 80 cm. Anestesia local.Punción femoral derecha. Arteriografía diagnóstica de carótidas interna izquierda con proyecciones PA, LAT y oblicuas. Se realiza arteriografía diagnóstica identificándose marcada irregularidad en todo el segmento M1 y ramas M2 izquierdas, con múltiples zonas de estenosis, la mas significativa en rama posterior en donde se aprecia estenosis que condiciona retraso en el avance de contraste, pero con paso anterógrado (coincide con la imagen visualizada en el TC), sin identificarse imágenes de oclusión aguda susceptibles de trombectomía. Las imágenes son altamente sugestivas de estenosis ateromatosas intracraneales, se comenta caso con neurología y se decide abstención terapeútica en el momento actual. Punción femoral: 18:15 Primera serie: 18:42 Serie final: 19:29 No se detectan incidencias durante ni inmediatamente tras el procedimiento. Se realiza cierre del punto de punción femoral derecho mediante cierre mecánico tipo Proglide y vendaje compresivo el cual deberá permanecer por 24 horas, debiendo el paciente mantener inmóvil el miembro inferior derecho por 12 horas siguientes al procedimiento.
+
+
+
+
+Exploraciones complementarias / Exploracions complementàries
+
+* ECG: ritmo sinusal. Regular. FC 60 lpm. QRS angosto, sin melladuras, con buena progrsion de R en precordiales. PR: 160 mseg. Sin signos de isquemia aguda. Onda T asimetricas y concordantes. QT: 434 mseg. AQRS: + 40º.
+
+Evolución / Evolució
+1.	ICTUS ISQÚEMICO EN TERRITORIO DE LA ARTERIA CERBRAL MEDIA IZQUIERDA (ACMI).
+2.	ATEROMATOSIS INTRACRANEAL SEVERA.
+3.	FIBRILACIÓN AURICULAR
+Paciente remitido que consulta por alteración del lenguaje fluctuante. Al ingreso se realiza una TC multimodal que muestra retraso de perfusión en rama posterior de arteria cerebral media izuiqerda, con Angio-TC que muestra posible oclusión de M2 izquierda. Una arteriografía diagnostica evidencia la presencia de una importante ateromatosis intracraneal de predominio en la ACMI, sin oclusiones arteriales.
+Ingresa en Unidad de ictus donde se completa estudio con analítica que no muestra alteraciones. Una RM cerebral de cotrol confirma la presencia de una lesión isquémica aguda en territorio de la arteria cerebral media izquierda. La monitorización contínua pone de evidencia la presencia de una fibrilación auricular no conocida.
+Se orienta como ictus isquémico de arteria cerebral media izquierda en paciente con ateromatosis intracraneal y con fibrilación auricular (dos posibles causas). Al ingreso en la Unidad de Ictus se inicia tratamiento anticoagulante con heparina sódica con posterior paso a sintrom y se optimiza el control de los factores de riesgo vascular.
+Durante el ingreso se mantiene estable, persisiendo al alta una afasia de expresión moderada y alteración de la comprensión (dificil de valorar por barrera idiomática), disartria y paresia facial leve por lo que el paciente es tributario de logopedia ambulatoria. Además presenta secuela residual del ictus previo en forma de hemiparesia izquierda (4/5) y temblor intencional izquierdo. Dada la estabilidad clínica se procede al alta hospitalaria. Como prevención secundaria se recomienda mantener tratamiento anticoagulante oral y estatinas (atorvastatina 80mg/d) así como control estricto de los factores de riesgo vascular por su médico de familia.
+
+Al alta: NIHSS: 4; TOAST: indeterminado (doble causa: ateroembólica y cardioembólica); mRS: 3.
+
+Plan terapéutico / Pla terapèutic
+-	Pantoprazol 40 MG. Vía oral. Una vez al día, en el desayuno.
+
+-	Distraneurine 192 MG. Vía oral. Una vez al día, en la cena. DURANTE 3 DÍAS Y SUSPENDER.
+
+-	Atorvastatina 80 MG. Vía oral. Una vez al día, en la cena.
+
+-	Enalapril 10 MG. Vía oral. Dos veces al día: 1 COMP desayuno y 1/2 COMP cena.
+
+-	Bisoprolol 5 MG. Vía oral. Una vez al día, en el desayuno.
+
+-	Sintrom 4 MG. Vía oral. Cada 24 horas. SEGÚN PAUTA DE INR Y CONTROLES EN EL CAP
+
+Otras recomendaciones / Altres recomanacions
+-	Logopedia ambulatoria. - Control de los factores de riesgo cardiovascular por médico de cabecera. - Se recomienda cese del hábito enólico
+-	
+
+
+
+Firma/Signatura1: _NAME_	Firma/Signatura2: _NAME_ Categoría: Resident 1	Categoría: Consultor/a 1
+Nº Matrícula _SS_: _ID_	Nº Matrícula _SS_: _ID_
+
+Fecha/Data Informe: 27.03.2017
+Hora Informe: 13:24:34
+
+Docum.: _ID_
+Hist. Clínica: _ID_
+El _SS_ ha incorporado sus datos al Fichero de Pacientes, para tratarlos con fines sanitarios.
+Puede ejercer sus derechos de acceso, rectificación, cancelación y oposición, así como obtener mas información en la Unidad de Atención al Cliente.
+Vers. 00
+Pag. 2 de
+4
+Episod.: _ID_
+_SS_ ha incorporat les seves dades al Fitxer de Pacients, per a tractar-los amb finalitats sanitàries. Pot exercir els seus drets d'accés, rectificació, cancel·lació i oposició, i obtenir més informació a la Unitat d'Atenció al Client.
+_SS_
+_LOCATION_) _LOCATION_) Tel. _CONTACT_ Fax _CONTACT_
+http://_CONTACT_/

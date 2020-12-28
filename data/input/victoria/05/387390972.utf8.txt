@@ -1,0 +1,118 @@
+_LOCATION_
+Tel. _CONTACT_
+_LOCATION_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 48 Anys
+NIF/DNI: _ID_Informe d'alta d'hospitalització
+CP	_LOCATION_
+ABS	_SS_
+Servei	NEUROLOGIA
+Data d'alta  07.07.2017	10:50:29
+_LOCATION_
+_CONTACT_; _CONTACT_
+DOMICIL/RES.SOC 02.07.2017
+_NAME_
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Desviación de comisura bucal y debilidad de brazo derecho
+
+ANTECEDENTS
+DLP sin tratamiento.
+ERGE. Disfonía crónica y edema de Renke (rechazó cirugía).
+Fumador de 1,5 paquetes de cigarrillos/d. Hábito enólico (4 cervezas/d). Consumo de cannabis a diario. Niega consumo de otros tóxicos.
+No intervenciones qurúrigicas.
+No alergias medicamentosas conocidas
+
+MEDICACIÓ HABITUAL
+Omeprazol.
+
+PROCÉS ACTUAL
+Varón de 48 años que el 02/07 a a las 13:00 h presenta pérdida de fuerza en el brazo derecho. Al no mejorar los síntomas, a las  llama a su hermano a las 17:30 h quien nota que tiene dificultad para articular las palabras. Acude a Urgencias a las 18:12 h.
+
+
+
+EXPLORACIÓ FÍSICA
+
+FC	99 bpm Tªaxi  ºC
+FR	rpm Tªrec  ºC
+TA s	116 mmHg SAT O2  %
+TA d   81 mmHg Pes Kg
+
+mRankin: 0
+NIHSS: 3
+Consciente (0). Responde bien a las preguntas (0). Realiza órdenes correctamente (0). MOE normal (0). Campimetría por confrontación normal (0). PFC derecha (1). Claudicación leve de predominio distal de ESD (1). No claudicación de EID (0). No claudicación de extremidades izquierdas (0/0). No dismetrías (0). Muy leve disartria (1). Nomina y comprende bien, fluencia adecuada (0). No extinción (0).
+Auscultación  cardíaca  y  carotídea  rítmica  sin  soplos.  Auscultación  pulmonar  normal.  Abdomen  blando  y depresible, no doloroso a la palpación. Peristaltismo presente.
+
+
+EXPLORACIÓ COMPLEMENTÀRIA
+Exploraciones en Urgencias
+
+Analítica: creatinina 1.39, resto de la bioquímica, hemograma y coagulación normales.
+
+Informe d'alta d'hospitalització
+
+
+
+
+
+Tóxicos en orina: negativos. RxTx: sin alteraciones relevantes. ECG: ritmo sinusal a 72 lpm.
+TAC craneal + angio-TAC+ perfusión: En el lado izquierdo, borramiento del territorio de ínsula y M5 (ASPECTS 8). No se aprecian otras lesiones focales ni otros hallazgos de interés. Los mapas de perfusión muestran un extensa área temporoparietal izquierda con MTT retrasado (tiempo de tránsito aumentado) y CBV disminuido en una pequeña zona, hallazgos que indican una amplia penumbra en territorio de la ACM izquierda, con condiscordancia positiva (Mistmatch). El estudio angio-TC muestra arterias carótidas comunes, internas y arterias que conforman el polígono de Willis permeables. No se identifican defectos de repleción ni estenosis significativas.
+
+Exploraciones en planta de Neurología
+
+Analítica: GGT 81, FA 41, resto de la bioquímica incluyendo perfil tiroideo, vitamina B12 y ácido fólico normales. Hemograma y coagulación sin alteraciones relevantes.
+Serología: VIH1-2, T. pallidum negativas.
+
+ECG: RS a 92 lpm.
+
+Telemetría: durante la monitorización no se detectan arritmias, manteniéndose el paciente en ritmo sinusal.
+
+Eco-Doppler TSA: Absència d'ateroma. Ambdues AC comuns, AC Externes, AC Internes i A V Ertebrals extracranials permebales, amb fluxe llaminar simètric. CONCLUSIÓ: Estudi TSA normal.
+
+Doppler TSA: S'insonen ambdues ACMs, ACAs, ACPs amb fluxe permebale, llaminar i sense asimetries significatives. Ambdues AVertebrals intrcaranials i A Basilar en tot el seu  rtajecte permebale sense  patorns d'estenosi ni oclusió. CONCLUSIÓ: Dúplex TC normal, permeabilitat de les artèries que composen Polligon de Willis.
+
+Ecocardiograma TT: Ventricle esquerre no dilatat, sense hipertròfia i amb funció sistòlica normal. Vàlvula aòrtica competent (no visualitzo si tri o bivalva). Vàlvula mitral competent. Aurícula esquerra no dilatada. No septe aneurismàtic. No trombos evidents. Ventricle dret no dilatat i amb bona contractilitat. No embassament pericàrdic. No embassament pleural. No dilatació aorta abdominal. No alteracions estructurals
+
+Ecocardiograma TE: VAo trivalva, competente y sin regurgitación. VM de ecoestructura y flujo normal. VT y VP de ecoestructura y flujo normal. Septo interauricular íntegro sin FOP , sin paso de burbujas ni basal ni trs valsalva. Orejuela izquierda de ecoestructura normal, sin imagen de trombo en su interior,  velociades de vaciamiento correctas. VVPP esudiadas de ecoestructura y flujo normal . VCS y VCI de ecoestructura normal. Sin ateromatosis significativa en aorta.
+
+RM cerebral: Área isquémica con restricción de la difusión, localizada en el cortex insular izquierdo y en la región subcortical parietal vecina. No se aprecian otros hallazgos valorables en la morfología y señal del parénquima cerebral ni cerebeloso. Sistema ventricular de tamaño, forma y posición normales. CONCLUSIONES:  Infarto
+
+Informe d'alta d'hospitalització
+
+
+
+
+reciente en el territorio de la ACM D.
+
+EVOLUCIÓ CLÍNICA
+A su llegada a Urgencias el paciente experimenta mejoría desde el punto de vista clínico persistiendo paresia facial y leve debilidad distal en mano derecha. Se realiza TAC craneal multiparamétrico que muestra hipodensidad en zona distal del territorio correspondiente a la ACM izquierda (ASPECTS 8) con área de penumbra distal y sin oclusión de gran vaso. Dado el tiempo de evolución de los síntomas (5 h), la mejoría clínica con baja puntuación en la escala NIHSS (3) y la ausencia de oclusión de gran vaso no se considera tratamiento fibrinolítico ni de rescate.
+El paciente ingresa en la Ud de ictus presentando empeoramiento clínico a las 24 h con hemiparesia leve derecha y afasia (NIHSS 6). Se completa estudio vascular con ecocardiograma transtorácico y transesofágico, ecografía carotídea y transcraneal y monitorización con telemetría sin observarse alteraciones relevantes (no fuentes mayores potencialmente embolígenas ni ateromatosis significativa). Durante su estancia en planta el paciente ha permanecido hemodinámicamente estable y ha iniciado tratamiento rehabilitador.
+
+
+
+DIAGNÒSTICS
+436/5 Ictus PACI izquierdo de etiología criptogénica. 305.1/1 Fumador
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Adiro 300 mg: 1 comprimido a medio día. Omeprazol 20 mg: 1 cápsula antes del desayuno. Atorvastatina 80 mg: 1 comprimido por la noche.
+
+
+CONTROL
+Se recomiensa suspensión del hábito tabáquico. control de factores de riesgo vascular.
+Acudirá a consulta de Neurología (Vascular) en la fecha indicada. Se entrega analítica para realizar estudio de trombofilia de forma diferida. Se solicita Holter ECG.
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+07.07.2017
+Pàgina 1 de 3

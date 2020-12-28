@@ -1,0 +1,97 @@
+T1	Fecha_de_alta 15 25	11-05-2018
+#1	AnnotatorNotes T1	2018-05-11
+T2	Lateralizacion 113 122	IZQUIERDA
+T3	Localizacion 136 143	LACUNAR
+T4	Etiologia 148 162	ATEROSCLEROSIS
+T5	_SUG_Etiologia 178 192	ATEROSCLEROSIS
+T6	_SUG_Etiologia 215 229	Aterosclerosis
+T7	_SUG_Etiologia 280 292	Hipertensión
+T9	_SUG_Ictus_isquemico 492 497	Ictus
+T10	FECHA 778 782	2008
+#10	AnnotatorNotes T10	2008-UNDEF-month-UNDEF-day
+T12	Tratamiento_antiagregante_hab 810 832	ACETILSALICILICO ACIDO
+T14	Fecha_llegada_hospital 1081 1091	06/05/2018
+#14	AnnotatorNotes T14	2018-05-06
+T15	_SUG_Ictus_isquemico 1104 1109	ictus
+T16	Hora_inicio_sintomas 1260 1265	20.00
+#16	AnnotatorNotes T16	20:00
+T17	FECHA 1352 1360	06/05/18
+#17	AnnotatorNotes T17	2018-05-06
+T18	HORA 1361 1366	13:05
+#18	AnnotatorNotes T18	13:05
+T19	FECHA 1399 1407	06/05/18
+#19	AnnotatorNotes T19	2018-05-06
+T20	HORA 1408 1413	13:06
+#20	AnnotatorNotes T20	13:06
+T21	FECHA 1442 1450	06/05/18
+#21	AnnotatorNotes T21	2018-05-06
+T22	HORA 1451 1456	13:06
+#22	AnnotatorNotes T22	13:06
+T23	FECHA 1485 1493	06/05/18
+#23	AnnotatorNotes T23	2018-05-06
+T24	HORA 1494 1499	13:06
+#24	AnnotatorNotes T24	13:06
+T25	FECHA 1517 1525	06/05/18
+#25	AnnotatorNotes T25	2018-05-06
+T26	HORA 1526 1531	13:06
+#26	AnnotatorNotes T26	13:06
+T27	FECHA 1556 1564	06/05/18
+#27	AnnotatorNotes T27	2018-05-06
+T28	HORA 1565 1570	13:05
+#28	AnnotatorNotes T28	13:05
+T29	_SUG_Lateralizacion 1862 1869	derecho
+T31	NIHSS_previa 2229 2247	NIHSS 2 (4-1, 10-1
+T32	_SUG_Arteria_afectada 2250 2253	ACP
+T34	_SUG_Lateralizacion 2516 2523	derecha
+T35	_SUG_NIHSS_alta 2572 2579	NIHSS 2
+T36	_SUG_NIHSS_previa 2572 2579	NIHSS 2
+T37	_SUG_Lateralizacion 2630 2637	derecha
+T38	_SUG_Arteria_afectada 2703 2706	ACP
+T39	FECHA 3377 3387	07/05/2018
+#39	AnnotatorNotes T39	2018-05-07
+T40	FECHA 3400 3408	07/05/18
+#40	AnnotatorNotes T40	2018-05-07
+T41	FECHA 3504 3511	10/5/18
+#41	AnnotatorNotes T41	2018-05-10
+T42	TAC_craneal 3607 3609	TC
+T43	Fecha_TAC_inicial 3644 3654	06-05-2018
+#43	AnnotatorNotes T43	2018-05-06
+T44	_SUG_Hemorragia_cerebral 3683 3706	hemorragia intracraneal
+T45	_SUG_Localizacion 3761 3769	profunda
+T46	_SUG_Localizacion 3882 3894	lenticulares
+T47	_SUG_Localizacion 3948 3966	infartos lacunares
+T48	_SUG_Localizacion 3995 4003	cortical
+T49	Arteria_afectada 4108 4111	ACM
+T50	Arteria_afectada 4124 4126	M1
+T51	Arteria_afectada 4147 4167	arterias vertebrales
+T52	_SUG_Lateralizacion 4522 4531	izquierdo
+T53	_SUG_Lateralizacion 4724 4733	izquierda
+T54	_SUG_Lateralizacion 4763 4770	derecho
+T55	_SUG_Lateralizacion 4815 4822	derecha
+T56	_SUG_Arteria_afectada 5066 5069	ACC
+T57	_SUG_Arteria_afectada 5113 5116	ACI
+T58	_SUG_Arteria_afectada 5279 5281	AB
+T59	FECHA 5424 5434	11-05-2018
+#59	AnnotatorNotes T59	2018-05-11
+T60	_SUG_Lateralizacion 5497 5506	izquierda
+T61	_SUG_Lateralizacion 6098 6107	izquierda
+T62	_SUG_Ictus_isquemico 6221 6226	Ictus
+T63	_SUG_Etiologia 6287 6294	lacunar
+T64	_SUG_Localizacion 6731 6747	supraventricular
+T65	_SUG_Etiologia 7067 7081	aterosclerosis
+T66	NIHSS_alta 7398 7405	NIHSS 1
+T68	Tratamiento_antiagregante_alta 7507 7518	Clopidogrel
+T70	SECCION_DIAGNOSTICOS 27 39	Diagnosticos
+T71	SECCION_MOTIVO_DE_INGRESO 438 455	Motivo de ingreso
+T72	SECCION_ANTECEDENTES_PERSONALES 508 531	Antecedentes personales
+T73	SECCION_SITUACION_FUNCIONAL 583 598	Situación basal
+T74	SECCION_EXPLORACION_FISICA_DURANTE_HOSPITALIZACION 2404 2434	Exploración en Unidad de Ictus
+T75	SECCION_EVOLUCION 6153 6175	Evolución Hospitalaria
+T76	SECCION_EXPLORACION_FISICA_AL_ALTA 7219 7267	La exploración física NRL en el momento del alta
+T77	SECCION_TRATAMIENTO_Y_RECOMENDACIONES_AL_ALTA 7413 7450	Recomendaciones y tratamiento al alta
+T8	Ictus_isquemico 87 94	INFARTO
+T13	SECCION_TRATAMIENTO_HABITUAL 785 809	Tratamiento domiciliario
+T11	Fecha_inicio_sintomas 1081 1092	06/05/2018 
+T78	SECCION_EXPLORACION_FISICA_EN_URGENCIAS 1284 1320	Exploración a su llegada a urgencias
+#2	AnnotatorNotes T31	2
+#3	AnnotatorNotes T66	1

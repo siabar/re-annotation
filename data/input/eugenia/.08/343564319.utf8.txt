@@ -1,0 +1,156 @@
+_LOCATION_
+email: _CONTACT_ Telèfon _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 50 Anys
+NIF/DNI: _ID_Informe d'alta d'hospitalització
+17:10:00
+02.03.2017
+_LOCATION_
+_SS_ OEST NEUROLOGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_
+DOMICIL/RES.SOC 16.02.2017
+Equipo Dra. _NAME_ (_NAME_, _NAME_)
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Varón de 50 años que ingresa por ictus TACI de ACM I.
+
+ANTECEDENTS
+Antecedentes personales
+-Sin alergias medicamentosas conocidas.
+-Niega hábitos tóxicos.
+
+Antecedentes médico-quirúrgicos
+-Hipertensión arterial esencial en tratamiento farmacológico. Controles tensionales habituales entorno a 140/90 mmHg.
+-Diabetes mellitus tipo 2 en tratamiento farmacológico. Último control (Septiembre 2016) HbA1c 6.3%.
+-Obesidad. IMC 42.81.
+-Migraña.
+-Lumbalgia crónica.
+
+Situación sociofuncional: vida activa, independiente para actividades básicas e instrumentales de la vida diaria. Lumbalgia que limita actividad laboral puntualmente. mRS 1.
+
+MEDICACIÓ HABITUAL
+Algidol 650/10/500mg 1 comprimido cada 8h, Alopurinol 100mg/día, Amlodipino 5mg/12h, Atenolol 50mg/12h, Enalapril 20mg/12h, Metformina 850mg medio comprimido cada 12h, Sumatriptan sp, Serc 8mg/día.
+
+PROCÉS ACTUAL
+Paciente varón de 50a, que tras haberse acostado asintomático, despierta a las 6:00h del día 16.02.2017 refiriendo mareo y malestar general. Se vuelve a acostar, y a las 10:30h, cuando un amigo de la familia está presente, el paciente se cae de la cama por impotencia funcional en hemicuerpo derecho y mutismo. Avisan al SEM, quienes trasladan al paciente sin preaviso de activación de código ictus. Hora de llegada y de valoración en Urgencias 13:09h.
+
+EXPLORACIÓ FÍSICA
+
+Exploración física en Urgencias
+Tensió arterial:156/104. Glicèmia capil·lar:92 mg/dl
+NRL: Vigil, DOC I (2), HH D (2), afasia global, mutismo (7), hemiplejia FBC D (2+4+4), probable hemihipoestesia (1). NIHSS=22
+
+Exploración física en UCI
+TA 140/80 FC 85 FR 16 SAT 98%
+Obesidad marcada
+
+Informe d'alta d'hospitalització
+
+
+
+
+Neurologicamente vigil, hemiparesia derecha, óbedece puntualmente órdenes sencillas.
+Hemodinamicamente bien perfundido, sin signos de fallo, ritmo sinusal. Auscultación sin agregados. Respirando con GN 1 tl buena mecánica ventilatoria, sin agregados. Abdomen abundante paniculo adiposo no irritación peritoneal. Diuresis clara por sonda.
+
+Exploración física en Unidad de Ictus
+Constantes: TA 115/61 mmHg, FC 60 lpm, SatO2 100% (aa), FR 14rapm.
+Estado general conservado. Normohidratado, normocoloreado, bien perfundidol. ACV: tonos cardíacos rítmicos, no ausculto soplos (exploración interferida por abundante panículo adiposo). AR: eupneico en reposo. Murmullo vesicular conservado sin estertores sobreañadidos. Abdomen globuloso, no doloroso a la palpación.
+EN: Vígil, alerta. Afasia global (2+2+3). Mutista (3). POC I (1). HHD por amenaza (2). PFSN D (2). Hemiparesia braquio 0/5 (4) crural 1/5 (3) derecha. Sensibilidad ni valorable (1). NIHSS 23.
+
+EXPLORACIÓ COMPLEMENTÀRIA
+Exploraciones complementarias en Urgencias
+-Analítica general de urgencias: Htes 4.04 x10E12/L, Hb 11.7 g/dL, Hto 38.4%, VCM 95 fL, ADE 12.7%, Leucocitos 6.31 x10E9/L (N 59.9%, L 30.1%, M 8.1%, E 1.1%, B 0.8%), Plaquetas 252 x10E9/L, T Protrombina
+88%, INR 1.08, TTPA 1.02 ratio, Fibrinógeno 2.65 g/L, Glucosa 102 mg/dL, Urea 27 mg/dL, Cr 1.30 mg/dL, FG 64 ml/min/1,73 m2, Na 136.4 mmol/L, K 4.12 mmol/L, Ca 8.5 mg/dL, AST 15 UI/L, ALT 7 UI/L, Proteínas 7.1 g/dL.
+-TC craneal multimodal: Estudi urgent que mostra alteracions intracranials isquèmqiues  agudes a hemisferi esquerre (ASPECTS 6/10) objectivant un defecte de repleció al segment M1 de l'ACM esquerra que a TC perfusió condiciona un mismatch superior al 20% a territori superficial i profund de la mateixa. Defecte de repleció al segment P3 de la ACP dreta condicionant un mismatch al seu territori vascular, amb CBF diminuït però amb CBV marcadament incrementat respecte contralateral. Hipodensitat cortico-subcortical frontal parasagital esquerra, compatible amb ictus isquèmica agut/subagut a territori frontera cortical entre ACA i ACM esquerre, i que també presenta mismatch a TC perfusió. La multiplicitat de localitzacions afectades i l'afectació de circulació anterior i posterior indica com a primera possibilitat un orígen cardioembòlic. Incidentalment s'observa una lesió nodular de centre a sella turca, ben delimitada i que remodela els marges ossis de la sella, troballes compatibles amb macroadenoma hipofisari.
+-TC perfusión de control: Estudi urgent que mostra restes hemàtiques i contrast post-angiografia a espai subaracnoïdal basal, de predomini a cisterna supravermiana, cisterna interpeduncular, folies cerebel.loses i solcs subaracnoïdals parasagitals posteriors supratentorials. TC perfusió molt artefactat pels moviments del pacient, amb aparent redució de la zona de mismatch a territori de la ACM esquerra, però que segeuix essent superior al 20% (àrees sense mismatch actualment són M1,M2,M4,M5).
+
+Exploraciones complementarias en UCI
+-EKG: Ritmo sinusal, PR corto QRS estrecho, sin trastornos de repolarización.
+-GSV: pH 7.49 pCO2 33 pO2 85 HCO3 25 Lac 1.1 Hb 12 Sodio 140.
+-TC craneal de control 18/02: Extensa àrea hipodensa corticosubcortical que afecta la convexitat frontoinsular, temporal i en menor grau parietal esquerres, així com parcialment el cap del nucli caudat i lenticular homolateral. Condiciona un mínim efecte compressiu sobre el ventricle lateral esquerre amb sistema ventricular lleument dilatat globalment crònicament, sense desplaçament de les estructures de la línia mitjana. Cisternes de la base i peritronculars lliures.
+-TC craneal de control 21/02: Estabilidad de la extensa área hipodensa corticosubcortical fronto-insular, temporal y en menor grado parietal anterior izquierda; con afectación subinsular, corona radiata, lenticular y caudado izquierdo. No se observan focos hemorrágicos. Asociando un mímo efecto compresivo sobre el ventriculo homolateral, sin cambios. No desplazamientos de la linea media. Cisternas perimesencefalicas y peritroncualres
+
+Informe d'alta d'hospitalització
+
+
+
+
+libres No aparición de nuevas lesiones.
+
+Exploraciones complementarias en Unidad de Ictus
+-Analítica general de ingreso: Hematies 4.070, Hb 12.2g/dl, Hto 38.2, VCM 93.9, HCM 30, leucocitos 10.950
+(neutrófilos 6.400, limfocitos 2.800), plaquetas 157.000, VSG 103mm/h, glucosa 97, Hb 6.2%, fructosamina 244,
+urea 65, crea 1.29, FG 64, urato 6, proteïna 7.5, albúmina 3.5, PCR 12.57
+*Estudio anemia: Ferritina  136, Transferrina 162, hierro 25, IST 15%, vitamina B12 168, ácido fólico 3.6
+*Perfil hepático: , Bi total 0.51, Bi directa 0.22, Na 136.2, K 4.62, Ca 8.6, AST 30, ALT 18, FA b119, GGT 73,
+LDH 996
+*Perfil lipídico: colesterol total 128, HDL 36, LDL 63, trigliceridos 143
+*Proteinograma: Albúmina 45.7%, Alfa1 5.8%, Alfa2 13.9%, Beta1 5.2%, Beta2 7.3%, Gamma 22.1%.
+*Estudio tiroideo: TSH 1.873, T4L 0.94
+*Estudio AI: Crioglobulinas pendientes, Ac. Anti-nuclears negativo, ENA negativo, Ac's anti-cardiolipina (IgG e IgM) negativos, Ac's anti-beta2-glicoproteina (IgG e IgM) negativo, ANCA negativo.
+*Estudio serológico: T. pallidum negativo, HIV PEND, serologías virus hepatotropos negativos.
+-Sedimento urinario: Leucocitos 96.8 cél/microL, Eritrocitos 293.5 cél/microL, Bacterias 37/microL. Urocultivo pendiente.
+-Hemocultivos: negativos
+-Rx Tórax: exploración rotada, poco penetrada. ICT no valorable. Marco óseo sin alteraciones. No se aprecian infiltrados parenquimatosos ni imágenes de redistribución vacular. Senos costofrénicos libres.
+-Telemetría: sin detectarse arrítmias potencialmente embolígenas
+-EcoScan: Muy mala ventana acústica en paciente sin capacidad de colaboración. Ventriculo izquierdo no dilatado ni hipetrófico. Fracción de eyección conservada. No alteraciones significativas segmentarias de la contractilidad. Auricula izquierda no dilatada. No valvulopatias significativas. Patrón transmitral compatible con alteración de la relajación. No se observan  imagenes sugestivas de trombo intrauricular ni ventricular. Ausencia de ventana supraesternal No se detectan placas de ateroma significativas en arco aórtico. No se observa aneurisma del septo interauricular
+-Estudio Shunt DI con microburbujas por DTC negativo en reposo (no puede realizarse maniobra de Valsalva por estado del paciente).
+
+EVOLUCIÓ CLÍNICA
+Varón de 50 años de edad con los antecedentes descritos que el día 16.02.2017 es traído a urgencias por TACI I de etiología indeterminada. El TC multimodal mostró una oclusión M1 ACM I y P1 D, con un defecto de perfusión en el territorio casi completo de la ACM, y CBV en la rama anterior de la ACM (mismatch +). También se objetiva un aumento en el CBV y CBF en el territorio de la ACP D, y un pequeño infarto isquémico subagudo en la ACA I. Se decidió TEV primaria, observándose en la primera serie oclusión a nivel de M1 I de aspecto irregular, sin circulación colateral desde ACA. Se intenta atravesar la oclusión con un microcatéter, y se produce una extravasación de contraste, que se detiene espontáneamente, pero que obliga a suspender el procedimiento. Se realiza una serie desde la AV que no muestra circulación colateral desde ACP I.
+
+Informe d'alta d'hospitalització
+
+
+
+
+No siendo posible la realización de RM por obesidad del paciente, se decide ingreso en UCI y control por TC de posible evolución a infarto maligno. Durante su estancia en la Unidad de Cuidado Intensivos de Traumatologíael paciente se encuentra consciente, con GCS de 11, pupilas isocóricas y normorreactivas. El paciente se ha mostrado más vigil con el paso de los días, llegando a obedecer órdenes sencillas. Hemodinámicamente estable, con auscultación rítmica, con tendencia a la hipertensión, que precisó control mediante bomba de Urapidilo.  Se realizó el cambio a su medicación habitual con buena respuesta de sus tensiones , con lo que se ha conseguido bajar la bomba hasta 3ml/h. Saturaciones correctas con GN. Diuresis conservada con valores >1ml/kg/hora sin necesidad de diuréticos. Tras TC control a las 96 horas que muestra estabilidad del infarto en territorio superficial y profundo en territorio de ACM I, sin desplazamiento de línea media, se decide traslado a Unidad de Ictus para completar estudio y control evolutivo.
+A su llegada a la Unidad, el paciente permanece estable hemodinámicamente, con síndrome completo de ACM I con NIHSS 23. Se completa telemetría de 72h que descarta la presencia de arrítmias potencialmente embolígenas. Se realiza asimismo ecoscan cardiaco que no evidencia cardiopatía mayor embolígena a pesar de mala ventana. Estudio shunt D-I negativo, incapaz de realizar el estudio en Valsalva por situación del paciente. Analíticamente sin alteraciones destacables, pendiente del resultado de crioglubulinas y serología VIH al momento del alta. Durante el ingreso realiza RHB, sin incidencias. Dada la estabilidad del paciente se decide traslado a su hospital de referencia (_SS_) para completar convalescencia. Se recomienda realizar ETT durante su estancia en dicho centro para completar el estudio cardiológico. Asimismo, pendiente de resultado de crioglobulinas y serología VIH al momento del alta (se podrá consultar vía "HC compartida de _LOCATION_"). Mantenemos tratamiento de prevención secundaria y tratamiento antihipertensivo. Al momento del alta, paciente con NIHSS 20, mRS 5. Recomendamos control evolutivo por Neurología de zona.
+
+DIAGNÒSTICS
+-Ictus TACI de ACM izquierda de etiología indeterminada.
+
+PROCEDIMENTS
+p
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+-Dieta sin sal para diabético
+-Magnesia (laxante oral)
+-Omeprazol 20mg, 1 comprimido en ayunas
+-Metformina 425mg, 1 comprimido 1-0-0
+-Enoxaparina 40mg sc a las 21h.
+-AAS 100mg, 1 comprimido 0-1-0
+-Atenolol 50mg, 1-0-1
+-Enalapril 10mg, 1 comprimido 1-0-0
+-Atorvastatina 80mg, 1 comprimido 0-0-1
+-Alopurinal 100mg.
+
+CONTROL
+-Por su médico de atención primaria y especialistas de referencia.
+-Vincular con Neurología de zona (_SS_) para control evolutivo.
+
+Informe d'alta d'hospitalització
+
+
+
+DESTINACIÓ A L'ALTA:	HOSP. AGUTS/PSQ
+
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+02.03.2017
+Pàgina 1 de 5

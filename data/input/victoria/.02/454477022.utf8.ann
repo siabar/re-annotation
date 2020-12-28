@@ -1,0 +1,78 @@
+T1	_SUG_Lateralizacion 0 1	I
+T3	FECHA 357 367	30.12.2017
+#3	AnnotatorNotes T3	2017-12-30
+T4	HORA 426 431	12:20
+#4	AnnotatorNotes T4	12:20
+T6	_SUG_TAC_craneal 589 599	TC CRANEAL
+T8	_SUG_mRankin_alta 922 927	mRS 1
+T9	_SUG_mRankin_previa 922 927	mRS 1
+T11	FECHA 1152 1162	Marzo 2011
+#11	AnnotatorNotes T11	2011-03-UNDEF-day
+T12	FECHA 1356 1366	enero 2013
+#12	AnnotatorNotes T12	2013-01-UNDEF-day
+T13	_SUG_Lateralizacion 1729 1738	izquierda
+T15	FECHA 1807 1815	30/12/17
+#15	AnnotatorNotes T15	2017-12-30
+T16	FECHA 2172 2177	30/12
+#16	AnnotatorNotes T16	2017-12-30
+T17	_SUG_Ictus_isquemico 2440 2445	ictus
+T18	_SUG_Lateralizacion 3235 3242	derecho
+T19	_SUG_Lateralizacion 3329 3336	derecho
+T20	_SUG_NIHSS_alta 3568 3575	NIHSS 7
+T21	_SUG_NIHSS_previa 3568 3575	NIHSS 7
+T22	_SUG_Ictus_isquemico 3855 3860	Ictus
+T23	HORA 3867 3872	17:30
+#23	AnnotatorNotes T23	17:30
+T24	_SUG_NIHSS_alta 4192 4199	NIHSS 0
+T25	_SUG_NIHSS_previa 4192 4199	NIHSS 0
+T26	FECHA 4286 4294	30/12/17
+#26	AnnotatorNotes T26	2017-12-30
+T28	_SUG_TAC_craneal 4355 4365	TC CRANEAL
+T29	FECHA 4378 4386	30/12/17
+#29	AnnotatorNotes T29	2017-12-30
+T31	_SUG_TAC_craneal 4392 4402	TC CRANEAL
+T32	_SUG_ASPECTS 4512 4519	aspecto
+T33	_SUG_ASPECTS 4578 4588	ASPECTS 10
+T34	_SUG_Localizacion 4788 4799	ventricular
+T35	_SUG_TAC_craneal 4878 4880	TC
+T36	_SUG_Localizacion 5040 5047	troncos
+T37	_SUG_Arteria_afectada 5094 5116	arteria carótida común
+T38	_SUG_Lateralizacion 5117 5124	derecha
+T39	_SUG_Localizacion 5218 5225	troncos
+T40	_SUG_Arteria_afectada 5342 5366	arteria carótida interna
+T41	_SUG_Arteria_afectada 5422 5446	arteria carótida interna
+T42	_SUG_Arteria_afectada 5547 5571	arteria carótida interna
+T43	_SUG_Arteria_afectada 5611 5631	arterias vertebrales
+T44	_SUG_Ictus_isquemico 6234 6239	ictus
+T46	_SUG_TAC_craneal 6340 6350	TC craneal
+T47	_SUG_ASPECTS 6459 6469	ASPECTS 10
+T48	_SUG_TAC_craneal 6518 6520	TC
+T49	_SUG_Lateralizacion 6790 6797	derecha
+T50	_SUG_Ictus_isquemico 6879 6884	Ictus
+T51	_SUG_Tratamiento_anticoagulante_alta 6929 6937	heparina
+T52	_SUG_Tratamiento_anticoagulante_hab 6929 6937	heparina
+T54	HORA 7252 7257	17:30
+#54	AnnotatorNotes T54	17:30
+T55	_SUG_NIHSS_alta 7383 7390	NIHSS 0
+T56	_SUG_NIHSS_previa 7383 7390	NIHSS 0
+T57	_SUG_Tratamiento_anticoagulante_alta 7655 7663	heparina
+T58	_SUG_Tratamiento_anticoagulante_hab 7655 7663	heparina
+T59	_SUG_Etiologia 8154 8162	habitual
+T60	FECHA 8452 8462	31.12.2017
+#60	AnnotatorNotes T60	2017-12-31
+T61	HORA 8477 8482	12:40
+#61	AnnotatorNotes T61	12:40
+T62	SECCION_TIPO_DE_INGRESO 440 465	Tipo ingreso/Tipus ingrés
+T63	SECCION_MOTIVO_DE_INGRESO 662 700	Motivo de consulta / Motiu de consulta
+T64	SECCION_ANTECEDENTES 740 802	Antecedentes e historia previa / Antecedents i història prèvia
+T65	SECCION_TRATAMIENTO_HABITUAL 1786 1805	MEDICACIÓN HABITUAL
+T66	SECCION_PROCESO_ACTUAL 2072 2102	Proceso actual / Procés actual
+T67	SECCION_EXPLORACION_FISICA 2580 2618	Exploración física / Exploració física
+T68	SECCION_EXPLORACIONES_COMPLEMENTARIAS 4202 4262	Exploraciones complementarias / Exploracions complementàries
+T69	SECCION_EVOLUCION 5788 5808	Evolución / Evolució
+T2	SECCION_MOTIVO_DEL_ALTA 474 491	Motivo/Motiu alta
+T5	SECCION_DIAGNOSTICOS 507 512	Diag.
+T7	SECCION_PROCEDIMIENTOS 559 564	Proc.
+T10	SECCION_ANTECEDENTES_PATOLOGICOS 995 1019	ANTECEDENTES PATOLÓGICOS
+T14	SECCION_ANTECEDENTES_QUIRURGICOS 1740 1751	QUIRÚRGICOS
+T27	SECCION_RECOMENDACIONES 8195 8239	Otras recomendaciones / Altres recomanacions

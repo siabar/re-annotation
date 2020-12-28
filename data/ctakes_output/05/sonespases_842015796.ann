@@ -1,0 +1,33 @@
+T0	FECHA 15 25	05-02-2018
+#0	AnnotatorNotes T0	2018-02-05
+T1	SECCION_DIAGNOSTICOS 27 39	Diagnosticos
+T2	_SUG_Ictus_isquemico 41 64	ECVA isquémica: infarto
+T3	_SUG_Arteria_afectada 68 92	territorio indeterminado
+T4	_SUG_Localizacion 68 92	territorio indeterminado
+T5	_SUG_Etiologia 96 119	etiología indeterminada
+T6	SECCION_PROCEDIMIENTOS 144 158	Procedimientos
+T7	SECCION_MOTIVO_DE_INGRESO 241 258	Motivo de ingreso
+T8	SECCION_ANTECEDENTES_PATOLOGICOS 398 418	Antecedentes Médicos
+T9	SECCION_SITUACION_FUNCIONAL 528 543	Situación basal
+T10	_SUG_mRankin 552 557	mRS 0
+T11	SECCION_TRATAMIENTO_HABITUAL 560 578	Mediación habitual
+T12	SECCION_PROCESO_ACTUAL 621 630	Anamnesis
+T13	FECHA 754 759	02/02
+#13	AnnotatorNotes T13	2002-02-UNDEF-day
+T14	HORA 770 774	8:30
+#14	AnnotatorNotes T14	08:30
+T15	_SUG_Tratamiento_antiagregante 977 980	AAS
+T16	HORA 1083 1087	8:30
+#16	AnnotatorNotes T16	08:30
+T17	_SUG_NIHSS 1314 1319	NIHSS
+T18	_SUG_TAC_craneal 1373 1376	TAC
+T19	SECCION_EXPLORACION_FISICA 1523 1534	Exploración
+T20	_SUG_NIHSS 2262 2267	NIH:3
+T21	SECCION_EXPLORACIONES_COMPLEMENTARIAS 2799 2833	Resultados pruebas complementarias
+T22	_SUG_Recanalizacion 3003 3017	repolarización
+T23	_SUG_TAC_craneal 3021 3032	TC cerebral
+T24	SECCION_EVOLUCION 3494 3516	Evolución Hospitalaria
+T25	_SUG_TAC_craneal 3936 3943	craneal
+T26	_SUG_NIHSS 4038 4045	NIHSS 3
+T27	SECCION_TRATAMIENTO_Y_RECOMENDACIONES_AL_ALTA 4051 4088	Recomendaciones y tratamiento al alta
+T28	_SUG_Tratamiento_antiagregante 4115 4137	Ácido acetilsalicílico

@@ -1,0 +1,74 @@
+T0	FECHA 182 192	20.02.2017
+#0	AnnotatorNotes T0	2017-02-20
+T1	_SUG_Lateralizacion 214 215	D
+T2	_SUG_Hemorragia_cerebral 420 428	Hematoma
+T3	_SUG_Localizacion 429 437	talámico
+T4	_SUG_Lateralizacion 438 447	izquierdo
+T5	SECCION_ANTECEDENTES_PERSONALES 450 473	ANTECEDENTES PERSONALES
+T6	SECCION_ANTECEDENTES_PATOLOGICOS 709 733	ANTECEDENTES PATOLÓGICOS
+T7	FECHA 1770 1774	1998
+#7	AnnotatorNotes T7	1998-UNDEF-month-UNDEF-day
+T8	FECHA 1847 1851	1997
+#8	AnnotatorNotes T8	1997-UNDEF-month-UNDEF-day
+T9	FECHA 2117 2121	1997
+#9	AnnotatorNotes T9	1997-UNDEF-month-UNDEF-day
+T10	SECCION_TRATAMIENTO_HABITUAL 2305 2324	Medicación habitual
+T11	SECCION_PROCESO_ACTUAL 2524 2541	ENFERMEDAD ACTUAL
+T12	HORA 2580 2585	17:15
+#12	AnnotatorNotes T12	17:15
+T13	SECCION_EXPLORACION_FISICA 2751 2768	EXPLORACIÓ FÍSICA
+T14	SECCION_EXPLORACIONES_COMPLEMENTARIAS 3447 3475	EXPLORACIONES COMPLEMENARIAS
+T15	_SUG_Lateralizacion 3863 3870	derecho
+T16	_SUG_TAC_craneal 4042 4053	TAC Craneal
+T17	FECHA 4054 4064	01.02.2017
+#17	AnnotatorNotes T17	2017-02-01
+T18	_SUG_Localizacion 4171 4179	talamico
+T19	_SUG_Lateralizacion 4180 4189	izquierdo
+T20	_SUG_Localizacion 4252 4262	ventriculo
+T21	_SUG_Lateralizacion 4271 4280	izquierdo
+T22	_SUG_Lateralizacion 4371 4378	derecha
+T23	_SUG_Localizacion 4415 4425	ventrículo
+T24	_SUG_Lateralizacion 4426 4433	derecho
+T25	_SUG_Localizacion 4442 4452	ventrículo
+T26	_SUG_Localizacion 4463 4473	ventrículo
+T27	_SUG_Localizacion 4559 4569	cerebeloso
+T28	_SUG_Localizacion 4616 4627	ventricular
+T29	_SUG_Localizacion 4810 4818	talámico
+T30	_SUG_Lateralizacion 4819 4828	izquierdo
+T31	_SUG_Localizacion 4889 4900	ventricular
+T32	_SUG_Localizacion 4903 4914	ventricular
+T33	_SUG_Lateralizacion 4916 4925	izquierdo
+T34	_SUG_Lateralizacion 5003 5010	derecha
+T35	_SUG_TAC_craneal 5155 5166	TAC Craneal
+T36	FECHA 5175 5185	08.02.2017
+#36	AnnotatorNotes T36	2017-02-08
+T37	_SUG_Localizacion 5196 5204	talámico
+T38	_SUG_Lateralizacion 5205 5214	izquierdo
+T39	_SUG_Localizacion 5358 5374	intraventricular
+T40	_SUG_Localizacion 5418 5426	cortical
+T41	_SUG_Lateralizacion 5479 5488	bilateral
+T42	SECCION_EVOLUCION 5491 5514	EVOLUCIÓN Y COMENTARIOS
+T43	_SUG_Lateralizacion 5657 5664	derecho
+T44	_SUG_Lateralizacion 5837 5844	derecha
+T45	_SUG_Lateralizacion 5884 5893	izquierda
+T46	_SUG_TAC_craneal 6081 6091	TC Craneal
+T47	_SUG_Localizacion 6116 6124	talámico
+T48	_SUG_Lateralizacion 6125 6134	izquierdo
+T49	_SUG_Localizacion 6165 6176	ventricular
+T50	_SUG_Localizacion 6380 6391	ventricular
+T51	_SUG_TAC_craneal 6496 6499	TAC
+T52	_SUG_Lateralizacion 6665 6672	derecho
+T53	FECHA 6956 6959	2/5
+#53	AnnotatorNotes T53	2017-05-02
+T54	_SUG_Lateralizacion 6988 6995	derecha
+T55	FECHA 7005 7008	3/5
+#55	AnnotatorNotes T55	2017-05-03
+T56	_SUG_TAC_craneal 7037 7040	TAC
+T57	SECCION_DIAGNOSTICOS 7215 7227	DIAGNÓSTICOS
+T58	_SUG_Hemorragia_cerebral 7233 7241	HEMATOMA
+T59	_SUG_Localizacion 7242 7250	TALÁMICO
+T60	_SUG_Lateralizacion 7251 7260	IZQUIERDO
+T61	SECCION_PROCEDIMIENTOS 7267 7281	PROCEDIMIENTOS
+T62	SECCION_TRATAMIENTO_AL_ALTA 7321 7332	TRATAMIENTO
+T63	FECHA 7720 7730	20.02.2017
+#63	AnnotatorNotes T63	2017-02-20

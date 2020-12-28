@@ -1,0 +1,154 @@
+T0	SECCION_DIAGNOSTICOS 30 42	Diagnosticos
+T1	_SUG_Ictus_isquemico 44 67	ECVA ISQUÉMICA: INFARTO
+T2	_SUG_Etiologia 106 121	aterotrombótica
+T3	_SUG_Ataque_isquemico_transitorio 124 127	AIT
+T4	_SUG_Etiologia 166 181	aterotrombótica
+T5	_SUG_Etiologia 185 199	Aterosclerosis
+T6	_SUG_Arteria_afectada 200 209	carotídea
+T7	_SUG_Lateralizacion 216 225	bilateral
+T8	_SUG_Arteria_afectada 300 309	carotidea
+T9	_SUG_Lateralizacion 310 319	izquierda
+T10	_SUG_Ictus_isquemico 360 386	transformación hemorrágica
+T11	SECCION_PROCEDIMIENTOS 476 490	Procedimientos
+T12	_SUG_Arteria_afectada 541 550	carotídea
+T13	SECCION_MOTIVO_DE_INGRESO 608 625	Motivo de ingreso
+T14	SECCION_ANTECEDENTES_PATOLOGICOS 724 744	Antecedentes Médicos
+T15	SECCION_SITUACION_FUNCIONAL 972 987	Situación basal
+T16	SECCION_ANTECEDENTES_QUIRURGICOS 1004 1028	Antecedentes Quirúrgicos
+T17	SECCION_TRATAMIENTO_HABITUAL 1048 1072	Tratamiento domiciliario
+T18	FECHA 1220 1228	29/04/18
+#18	AnnotatorNotes T18	2018-04-29
+T19	HORA 1250 1255	17:00
+#19	AnnotatorNotes T19	17:00
+T20	FECHA 1478 1488	30/04/2018
+#20	AnnotatorNotes T20	2018-04-30
+T21	SECCION_EXPLORACION_FISICA 1741 1752	Exploración
+T22	SECCION_EXPLORACION_FISICA_DURANTE_HOSPITALIZACION 1753 1782	Exploración física al ingreso
+T23	FECHA 1784 1794	29/04/2018
+#23	AnnotatorNotes T23	2018-04-29
+T24	FECHA 3283 3293	21/05/2018
+#24	AnnotatorNotes T24	2018-05-21
+T25	SECCION_EXPLORACIONES_COMPLEMENTARIAS 4161 4195	Resultados pruebas complementarias
+T26	_SUG_Lateralizacion 4322 4327	ambos
+T27	_SUG_Arteria_afectada 4333 4343	carotídeos
+T28	_SUG_Arteria_afectada 4359 4362	ACI
+T29	_SUG_Lateralizacion 4363 4364	D
+T30	_SUG_Arteria_afectada 4419 4422	ACC
+T31	_SUG_Lateralizacion 4423 4424	I
+T32	_SUG_Arteria_afectada 4531 4534	ACI
+T33	_SUG_Lateralizacion 4535 4536	I
+T34	_SUG_Arteria_afectada 4659 4676	arteria vertebral
+T35	_SUG_Lateralizacion 4677 4684	derecha
+T36	_SUG_Lateralizacion 4702 4703	I
+T37	_SUG_Lateralizacion 4864 4873	bilateral
+T38	_SUG_Lateralizacion 4878 4879	D
+T39	_SUG_Lateralizacion 4907 4908	I
+T40	_SUG_Arteria_afectada 4971 4973	AB
+T41	_SUG_TAC_craneal 4989 4991	TC
+T42	FECHA 5026 5036	06-05-2018
+#42	AnnotatorNotes T42	2018-05-06
+T43	_SUG_TAC_craneal 5065 5067	TC
+T44	FECHA 5093 5103	03/05/2018
+#44	AnnotatorNotes T44	2018-05-03
+T45	_SUG_Arteria_afectada 5167 5184	núcleo lenticular
+T46	_SUG_Localizacion 5186 5193	caudado
+T47	_SUG_Lateralizacion 5212 5219	derecha
+T48	_SUG_TAC_craneal 5249 5251	TC
+T49	_SUG_Localizacion 5356 5367	ventricular
+T50	_SUG_Localizacion 5496 5504	profundo
+T51	FECHA 5588 5598	09-05-2018
+#51	AnnotatorNotes T51	2018-05-09
+T52	_SUG_Localizacion 5756 5772	ganglios basales
+T53	_SUG_Lateralizacion 5773 5781	derechos
+T54	_SUG_Arteria_afectada 6058 6090	arteria carótida interna derecha
+T55	_SUG_Arteria_afectada 6107 6129	arteria cerebral media
+T56	_SUG_Lateralizacion 6130 6137	derecha
+T57	_SUG_Localizacion 6218 6234	ganglios basales
+T58	_SUG_Lateralizacion 6235 6243	derechos
+T59	_SUG_Arteria_afectada 6279 6303	arteria carótida interna
+T60	_SUG_Lateralizacion 6321 6329	derechas
+T61	_SUG_TAC_craneal 6344 6346	TC
+T62	_SUG_Localizacion 6350 6357	TRONCOS
+T63	_SUG_Lateralizacion 6503 6508	Ambas
+T64	_SUG_Lateralizacion 6543 6550	derecha
+T65	_SUG_Lateralizacion 6597 6606	izquierda
+T66	_SUG_Arteria_afectada 6657 6666	carotideo
+T67	_SUG_Lateralizacion 6667 6674	derecho
+T68	_SUG_Lateralizacion 6738 6745	derecha
+T69	_SUG_Arteria_afectada 6813 6822	carotideo
+T70	_SUG_Lateralizacion 6867 6874	derecha
+T71	_SUG_Lateralizacion 6932 6933	e
+T72	_SUG_Arteria_afectada 7000 7009	carotideo
+T73	_SUG_Lateralizacion 7010 7017	derecho
+T74	_SUG_Arteria_afectada 7095 7104	carotideo
+T75	_SUG_Lateralizacion 7105 7114	izquierdo
+T76	_SUG_Lateralizacion 7183 7192	izquierda
+T77	_SUG_Arteria_afectada 7219 7228	carotideo
+T78	_SUG_Lateralizacion 7229 7238	izquierdo
+T79	_SUG_ASPECTS 7259 7266	aspecto
+T80	_SUG_Lateralizacion 7377 7386	izquierda
+T81	FECHA 7410 7420	10-05-2018
+#81	AnnotatorNotes T81	2018-05-10
+T82	HORA 7422 7427	12:24
+#82	AnnotatorNotes T82	12:24
+T83	_SUG_Trombolisis_intravenosa 7644 7653	trombosis
+T84	_SUG_Lateralizacion 7677 7684	derecha
+T85	_SUG_Lateralizacion 7843 7852	izquierdo
+T86	_SUG_Lateralizacion 7920 7927	derecha
+T87	_SUG_Arteria_afectada 7959 7968	carotídea
+T88	_SUG_Lateralizacion 7969 7978	izquierda
+T89	_SUG_Lateralizacion 8021 8028	derecha
+T90	_SUG_TAC_craneal 8168 8170	TC
+T91	FECHA 8197 8207	14-05-2018
+#91	AnnotatorNotes T91	2018-05-14
+T92	_SUG_Lateralizacion 8267 8277	izquierdas
+T93	_SUG_Arteria_afectada 8299 8308	carotídea
+T94	_SUG_Lateralizacion 8309 8318	izquierda
+T95	_SUG_Arteria_afectada 8345 8354	carotídea
+T96	_SUG_Lateralizacion 8411 8419	derechos
+T97	_SUG_Localizacion 8536 8544	cortical
+T98	_SUG_Localizacion 8621 8632	ventricular
+T99	_SUG_Localizacion 8720 8728	cortical
+T100	_SUG_TAC_craneal 8840 8842	TC
+T101	FECHA 8877 8887	15-05-2018
+#101	AnnotatorNotes T101	2018-05-15
+T102	_SUG_TAC_craneal 8905 8907	TC
+T103	FECHA 8922 8930	14/05/18
+#103	AnnotatorNotes T103	2018-05-14
+T104	_SUG_Lateralizacion 8969 8977	derechos
+T105	_SUG_Localizacion 9064 9074	corticales
+T106	_SUG_Lateralizacion 9085 9093	derechos
+T107	_SUG_Localizacion 9149 9160	ventricular
+T108	_SUG_Lateralizacion 9303 9311	derechos
+T109	_SUG_Localizacion 9364 9372	cortical
+T110	FECHA 9420 9430	15-05-2018
+#110	AnnotatorNotes T110	2018-05-15
+T111	HORA 9432 9437	19:26
+#111	AnnotatorNotes T111	19:26
+T112	_SUG_Localizacion 9502 9510	cortical
+T113	_SUG_Lateralizacion 9512 9513	e
+T114	SECCION_EVOLUCION 9586 9608	Evolución Hospitalaria
+T115	_SUG_Lateralizacion 9754 9763	izquierda
+T116	_SUG_Arteria_afectada 10003 10012	carotídea
+T117	_SUG_Lateralizacion 10013 10022	izquierda
+T118	_SUG_Arteria_afectada 10100 10109	carotídeo
+T119	_SUG_Lateralizacion 10110 10117	derecho
+T120	_SUG_Lateralizacion 10159 10168	izquierda
+T121	_SUG_Lateralizacion 10305 10313	derechas
+T122	_SUG_Arteria_afectada 10359 10368	carotídeo
+T123	_SUG_Lateralizacion 10369 10378	izquierdo
+T124	_SUG_Lateralizacion 10547 10557	izquierdas
+T125	_SUG_Lateralizacion 10619 10624	ambas
+T126	_SUG_Lateralizacion 10685 10692	derecho
+T127	FECHA 10703 10712	11/5/2018
+#127	AnnotatorNotes T127	2018-05-11
+T128	_SUG_Lateralizacion 10988 10997	izquierdo
+T129	_SUG_Lateralizacion 11059 11068	izquierdo
+T130	_SUG_TAC_craneal 11168 11170	TC
+T131	_SUG_Localizacion 11206 11214	cortical
+T132	_SUG_TAC_craneal 11380 11382	TC
+T133	SECCION_TRATAMIENTO_AL_ALTA 11881 11907	Tratamiento médico al alta
+T134	_SUG_Tratamiento_antiagregante 11920 11942	Ácido acetilsalicílico
+T135	_SUG_Tratamiento_anticoagulante 12024 12034	Bemiparina
+T136	HORA 12068 12073	20:00
+#136	AnnotatorNotes T136	20:00

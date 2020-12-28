@@ -1,0 +1,99 @@
+I.CLINIC DE NEUROCIÈNCIES G6B4 SALA G NEUROL. CURT. EST.
+_NAME_	NHC: _ID_
+
+
+Sexo/Sexe: Fem.	Fecha nac./Data naix.: _DATE_	Edad/Edat: 79 años Dirección/Adreça: _LOCATION_	CP: _LOCATION_
+Municip. (Prov.): _LOCATION_  ABS:_SS_		Tel.:_CONTACT_ MARIT As.: SERVEI CATALA DE LA SALUT	CIP: _ID_	NASS: _ID_
+Nº epis.: _ID_	Tipo/Tipus: HOSPIT.	Inici.: 03.11.2017
+Serv: NEUROLOGIA	UO Enf.: G6B4 SALA G NEUROL. CURT. E Hora: 19:15:45
+Facult. de ref.: _NAME_
+
+
+
+
+Tipo ingreso/Tipus ingrés: Urgent	Motivo/Motiu alta: Dom. Familiar
+Diag.:
+ACCIDENTE ISQUÉMICO TRANSITORIO () ESTENOSIS ICA D >70% SINTOMÁTICA ()
+Proc.:
+ANALÍTICA SANGUÍNEA ()
+
+
+
+
+INFORME CLÍNICO ALTA / INFORME CLÍNIC ALTA
+
+Motivo de consulta / Motiu de consulta
+Alteración del lenguaje.
+
+Antecedentes e historia previa / Antecedents i història prèvia
+Antecedentes personales:  Mujer de 74 años, sin alergias medicamentosas conocidas ni hábitos  tóxicos. Independienete para las actividades básicas de la vida diaria. mRS 0.
+
+*ANTECEDENTES PATOLÓGICOS:
+1.	DIABETES TIPO 2 en tratamiento con insulina.
+2.	DISLIPEMIA en tratamiento con Pravastatina 20mg/d.
+3.	HIPERTENSIÓN ARTERIAL en tratamiento con 5 fármacos (ARA2,  calcioantagonista, betabloqueante, diurético del asa y doxazocina).
+4.	FIBRILACIÓN AURICULAR en tratamiento con amiodarona, bisoprolol y Sintrom.
+5.	HERNIA DE HIATO.
+6.	ARTROPATÍA DEGENERATIVA.
+
+*MEDICACIÓN HABITUAL (según HC3): Paracetamol 1g sp, Insulina, Pantoprazol 1c/d, beclometasona+ formoterol, Doxazosina, sintrom, furosemida 40mg cada 24h, Pravastatina 20mg/d, calcifediol, ciclopirox, bisoprolol 2.5mg/24h, manidipino, alopurinol, irbesartan.
+
+Proceso actual / Procés actual
+El 3/11 entre las 11 y las 12h presenta dificultad para la emisión del lenguaje de inicio súbito por lo que consulta en nuestro centro.
+
+Exploración física / Exploració física
+03/11/2017-20:00:00: Frecuencia respiratoria (rpm) 21, PAS (mm Hg) 132, PAD (mm Hg) 58, Pulsioximetría (%) 97. 03/11/2017-21:30:00 : Glicemia ca pilar (mg/dl) 127. 03/11/2017-22:00:00 : Tª axilar (ºC) 38.2. 05/11/2017 -01:00:00 : FiO2 (%) 21. 05/11/2017-17:59:59 : Peso (Kg) 81, Talla (cm) 165.
+
+NRL: Consciente, orientación no valorable. Afasia mixta (no nomina, repite una palabra, realiza 1 órden simple). No disartria. Mirada centrada sin limitaciones. Campimetría sin déficits. No asimetrías faciles. Fuerza y sensibilidad sin déficits. NIHSS 7.
+
+Laboratorio / Laboratori
+* ANALÍTICA SANGUÍNEA: PCR 1.30, Glu 215, Cr 0.98, FG 55, úrico 6.1, Col 172, TGD 94, LDL 89, HDL 64,
+función hepática conservada, LDH 562, Na/K 137/4.5, Homocisteína 14.4, fólico en curso, VitB12 776, Leucos 5.26, Hb 10.7 normo normo, plaquetas 147, Hb1Ac 6.6%, VSG 38, eje tiroidal normal.
+
+Radiología / Radiologia
+TC CRANEAL BASAL: Signos precoces de isquemia en el territorio de la ACMI. ASPECT 8-9. Imagen lacunar cápsulo-lenticulr izquierda que podría corresponder a un infarto lacunar antiguo vs dilatación perivascular de Virchow-Robin.
+TC PERFUSIÓN: Extensa área de penumbra isquémica.
+ANGIO-TC EXTRA E INTRACRANEAL: Ateromatosis calcificada a nivel de la bifurcación de las arterias carótidas, sin estenosis valorable. Ateromatosis calcificada del segmento supraclinoideo de las arterias carótidas, sin estenosis valorable. Ateromatosis calcificada a nivel del origen de la arteria vertebral derecha que condiciona una estenosis de aproximadamente el 50%. Defecto de repleción a nivel de una rama de la arteria cerebral media izquierda (M2 distal) compatible con oclusión a ese nivel.
+
+Exploraciones complementarias / Exploracions complementàries
+* ECO-DOPPLER TRANSCRANEAL: 1. Asimetria del 30% a l'artèria cerebral mitja(E>D). 2. Estenosi > 50% a l'artèria cerebral anterior dreta proximal.
+
+Evolución / Evolució
+1.	ICTUS ISQUÉMICO DE ARTERIA CEREBRAL MEDIA IZQUIERDA. OCLUSIÓN M2 DISTAL.
+2.	FIBRILACIÓN AURICULAR (FA).
+A su llegada a urgencias TA 150/70 mmHg, afebril. A la exploración neurológica presenta afasia mixta (NIHSS 7). Analítica que muestra Hb de 10.8 g/L, quick del 53.6% e INR de 1.42. ECG en fibrilación auricular ya conocida. La neuroimagen (TC craneal multimodal) muestra lesión isquémica aguda a nivel temporo-parietal izquierdo (ASPECTS 8). Mapas de perfusión que muestran retraso del TTP con caída de CVB y CVF. AngioTC que confirma oclusión del segmento M2 de la AMCI en su porción distal. Por tiempo de evolución (>5h) se desestima tratamiento fibrinolítico y dada la oclusión distal con lesión ya establecida se desestima tratamiento endovascular. Se completa estudio con Doppler transcraneal que muestra asimetria del 30% en arteria cerebral media (I>D) y estenosis > 50% de la arteria cerebral anterior derecha proximal.
+Se trata de un ictus en territorio de ACMI de etiología cardioembólica en paciente con FA infradescoagulada. Debido a la dificultad de mantener el INR en rango con el tratamiento  con acenocumarol se decide suspenderlo y continuar anticoagulación con apixabán. Durante su estancia experimenta mejoría progresiva,
+de forma que al alta persisten rasgos afásicos leves.
+
+Al traslado: - NIH:1
+-	TOAST: cardioembólico.
+-	mRS: 2
+
+Plan terapéutico / Pla terapèutic
+Se suspende el acenocumarol y se continua la anticoagulación con apixabán 5mg cada 12hs sin otros cambios en el tratamiento.
+
+Otras recomendaciones / Altres recomanacions
+Control de los factores de riesgo cardiovascular.
+
+
+
+
+
+Firma/Signatura1: _NAME_	Firma/Signatura2: _NAME_ Categoría: Resident 2	Categoría: Consultor/a 1
+Nº Matrícula _SS_: _ID_	Nº Matrícula _SS_: _ID_
+
+Fecha/Data Informe: 07.11.2017
+Hora Informe: 16:19:36
+
+Docum.: _ID_
+Hist. Clínica: _ID_
+El _SS_ ha incorporado sus datos al Fichero de Pacientes, para tratarlos con fines sanitarios.
+Puede ejercer sus derechos de acceso, rectificación, cancelación y oposición, así como obtener mas información en la Unidad de Atención al Cliente.
+Vers. 00
+Pag. 2 de
+3
+Episod.: _ID_
+_SS_ ha incorporat les seves dades al Fitxer de Pacients, per a tractar-los amb finalitats sanitàries. Pot exercir els seus drets d'accés, rectificació, cancel·lació i oposició, i obtenir més informació a la Unitat d'Atenció al Client.
+_SS_
+_LOCATION_) _LOCATION_) Tel. _CONTACT_ Fax _CONTACT_
+http://_CONTACT_/

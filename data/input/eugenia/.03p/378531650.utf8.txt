@@ -1,0 +1,102 @@
+_LOCATION_
+email: _CONTACT_ Telèfon _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 75 Anys
+NIF/DNI: _ID__NAME_; _NAME_; _NAME_;
+_NAME_; _NAME_
+Informe d'alta d'hospitalització
+13:30:00
+07.06.2017
+_LOCATION_
+_SS_ NEUROLOGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_
+DOMICIL/RES.SOC 03.06.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Mujer 75 años que ingresa por ictus ACM izquierda
+
+ANTECEDENTS
+Al·lèrgies:Sense al·lèrgies conegudes Hipertensió essencial inespecificada Dislipemia
+Altres  antecedents:Obesidad, Hipotiroidismo  en  tratamiento  sustitutivo,  cataratas  pendiente  de  intervención, Colecistectomizada, Intervenida de ambas rodillas
+Rankin previ:2
+
+MEDICACIÓ HABITUAL
+Enalapril 20, Esidrex 25, Atenolol 50, Eutirox 100, Lormetazepam, Ranitidina 150, Simvastatina 40,
+
+PROCÉS ACTUAL
+Inici dels símptomes o última vegada vist asimptomàtic el dia 03/06/2017 a les17:30:00. S'activa codi ictus el dia03/06/2017 a les 20:44:00 hores, a nivell  SEM
+Activan código ictus desde domicilio el día 3/06/2017 a las 20:44 por paciente de 75 años, obesa, HTA, DLP, Hipotiroidismo, mRS 2 (IABVD, camina con baston por artrosis y obesidad) que habiendose acostado asintomática a las 17:30 es encontrada a las 17:45 con clínica de afasia y hemiplegia D. Valorada por SEM con RACE 8, activan código ictus y es randomizada a RACECAT (paciente 89) siendo derivada a _SS_. Se realiza código angio. Hora de llegada 21:55
+
+EXPLORACIÓ FÍSICA
+
+EXP. FÍSICA A URG: PAS110 , PAD 56 mmHg // Glicèmia capil·lar:139
+NIHSS  total  de22	(Afasia-mutismo  (7),  HHD  (2),  DOC  I  (2),  PFSN D  (2),  Hemiplegia  BC  (4+4),  probable hipoestesia (1)
+
+Exploración en unidad de ictus:
+TA 135/57, afebril.
+Alerta, orientada en las 3 esferas. Nomina, repite y comprende órdenes simples, se intoxica con complejas de 3 ordenes (1), habla normal. Paresia facial derecha (2), hipoestesia de MSD (2). No alteraciones campimetrias por campimetria y por reflejo de amenaza. No extinciones ni agnosias. Marcha a pasos cortos ( similar a previa). NIHSS 5
+
+
+EXPLORACIÓ COMPLEMENTÀRIA
+-	Ag de urgencias: se adjunta
+-	
+Informe d'alta d'hospitalització
+
+
+
+
+-Trombectomía mecánica: MOTIVO: TACI izquierdo. MATERIAL: Neuronmax 0.088, Simmons II, guía hidrofílica, Navien 6, Rebar 18, Synchro 0.014", Solitaire 6x30mm y Mynxgrip 6/7F. INFORME: Por punción de a. femoral comúnderecha se cateteriza ACI izquierda y se hacen series angiográficas que muestran oclusión de M1izquierda prebifurcación (TICI 0). Se supera la obstrucción con microcatéter, se desplega un Solitaire 6x30 y se practica trombectomía bajo aspiración distal obteniendo recanalización completa (TICI 3). Se practica cierre percutáneo Mynxgrip 6/7F + vendaje compresivo. Sin complicaciones inmediatas.
+-	TC craneal de control a las 24 horas: CONCLUSIÓN: Estudio TC que muestra muestra hipodensidad del brazo posterior de la cápsula interna, el ribete insular y de parte del parénquima temporal izquierdo en relación con infarto subagudo de territorios dependientes de la rama profunda de la ACM izquierda. Nose observan hemorragias agudas valorables.
+-	TC craneal 36 horas: CONCLUSIÓN: Estudio control que muestra estabilidad de los cambios por isquemia establecida a nivel de brazo posterior de la cápsula interna, del ribete insular izquierdo y delparénquima córtico-subcortical temporal localizado a nivel subinsular respecto a TC previo del 04.06.2017 (17h)
+-	Telemetría cardiaca 72 horas sin detectarse arritmias potencialmente embolígenas.
+-	AG del ingreso: se adjunta, serología pendiente
+-	Ecoscan cardiaco ictus: Regular ventana torácica. Ventriculo izquierdo no dilatado ni hipetrófico. Fracción de eyección conservada. No alteraciones segmentarias de la contractilidad. Auricula izquierda dilatada. No valvulopatias significativas. Patrón transmitral seudonormal. No se observan imagenes sugestivas de trombo intrauricular ni ventricular. No se detectan placas de ateroma significativas en arco  aórtico. CONCLUSION: Auricula izquierda dilatada
+-	EEG: pendiente de informe
+-	IC RHB: Iniciem pauta de rhb. Tributària de seguir rhb domiciliària si en el moment de l´alta no ha recuperat la situació funcional prèvia. Disartria que possiblement evolucioni espontaniament, tot i que seria recomanable que si persisteix en 3-4 setmanes es remitís a centre proper a domicili per a valoració.
+
+EVOLUCIÓ CLÍNICA
+Pacient que presenta un diagnòstic inicial de Isquèmic de localització Esquerra. (NIHSS 22), incluida en estudio RACECAT 89, derivada a nuestro centro directamente. Se realiza Xpert-CT sin lesiones agudas, aspects 10, tras entrar en sala directamente como código angio. S'inicia TEV (punció femoral) el dia 03/06/2017 a les 22:19:00. La primera sèrie a les 22:34:00 mostra oclusió de M1 (escala TICI inicial: No flux anterògrad (0) ).  Es realitzen 1 passades. Revascularització (TICI final: Reperfusió completa (3)) el 03/06/2017 a les22:49:00, i finalitza el procediment a les 23:00:00, sense complicacions amb NIHSS post TEV de10. Se ingresa en Unidad de ictus.
+
+Informe d'alta d'hospitalització
+
+
+
+
+Desde el ingreso, estable hemodinámicamente. Se realiza  TC de control que muestra hipodensidad del brazo posterior de la cápsula interna, el ribete insular y de parte del parénquima temporal izquierdo en relación con  infarto subagudo de territorios dependientes de la rama profunda de la ACM izquierda. Posteriormente, la madrugada del 5/6 presenta crisis tonico clónica generalizada con aumento de afasias posterior, por lo que se realiza TC de control que no muestra complicaciones y se mantiene con tratamiento LEV y ATB por posible broncoaspiración en este contexto. La paciente se mantiene estable, sin nuevas recurrencias, con mejoría progresiva. Se mantiene con telemetría cardiaca sin detectarse arritmias potencialmente embolígenas durante mas de 72 horas. La AG pone de manifiesto la presencia de un hipotiroidismo subclínico (pendiente de valoración por Endocrinología). El EEG realizado está pendiente del informe si bien clínicamente no ha presentado nuevas crisis. El Ecoscan muestra una auricula izquierda dilatada sin otros hallazgos significativos. Ha iniciado RHB sin incidencias significativas. Además de la crisis epileptica sintomática aguda, en contexto de administración de Metamizol presenta rash cutáneo que cede con medicación. Con la orientación de Infarto ACM izquierda de etiología indeterminada, se solicita traslado a su centro de referencia en situación de estabilidad clínica y hemodinámica, para continuar con convalescia. Se coloca Holter (minder 186) prolongado deberá acudir el 28 de Junio a las 10:00 para control. Se entrega cargador y gel. Al traslado NIHSS 5 y rankin 3.
+DIAGNÒSTICS
+-Infarto ACM izquierda de etiología indeterminada. Tratamiento intraarterial primario
+-Crisis sintomáticas agudas
+- Broncoaspiración
+
+PROCEDIMENTS
+Trombectomíamecánica TC craneal control Telemetría
+Ecoscan Cardiaco Ictus EEG
+AG
+IC RHB
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Se adjunta
+
+CONTROL
+Control por neurología de zona
+Se coloca Holter (minder 186) prolongado deberá acudir el 28 de Junio a las 10:00 para control (no es necesario que acuda la paciente)
+
+DESTINACIÓ A L'ALTA:	HOSP. AGUTS/PSQ
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+07.06.2017
+Pàgina 1 de 3

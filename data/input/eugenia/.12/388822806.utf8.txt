@@ -1,0 +1,136 @@
+
+
+
+
+
+Informe d'Alta Hospitalària	Cognoms i nom:
+_NAME_	NHC:
+_ID_
+	ABS:
+_SS_	CIP:
+_ID_	DNI:
+_ID_
+	Data de naixement:
+_DATE_	Sexe:
+Dona	Edat:
+58a	Telèfon:
+_CONTACT_
+	Finançament:
+CatSalut - _LOCATION_	Procedència:
+URGÈNCIES
+	Admissió:
+23.06.2017 - 19:36	Servei:
+NEUROLOGIA HOSP	Data entrada urg.:
+23.06.2017 - 14:45
+Adreça:
+_LOCATION_	Població:
+_LOCATION_	Codi Postal:
+_LOCATION_
+
+
+
+Motivo de ingreso
+Status epilepticus focal no convulsivo.
+
+
+ANTECEDENTES
+-	No alergias medicamentosas conocidas.
+-	No FRV conocidos
+-	No otras enfermedades relavantes diagnosticadas hasta la fecha
+-	Neoplasia de colon en remisión completa.
+-	Cirugía traumatológica de pie por fractura el 19/06.
+-	Tratamiento habitual: Fluoxetina 20mg/día; Orfidal 1mg/día.
+-	Síndrome ansioso depresivo.
+
+
+ENFERMEDAD ACTUAL
+-	Mujer de 58 años con los antecedentes descritos que es traida por el SEM porque a las 12:30h se ha caido al suelo, su hermana ha acudido rápido y la ha encontrado con una alteración del lenguaje muy importante tanto como para emisión como para comprensión.
+-	A su llegada a urgencias destaca afasia y automatismos orales y manuales. TC y angioTC normal. La clínica y la neuroimagen no son sugestivas de etiología neurovascular por lo que no es tributaria de ningún tratamiento de reperfusión por sospecha de etiología epiléptica  como primera opción. Cabe destacar además que de todos modos la trombectomía no estaría indicada por ausencia de oclusión y el rTPA por cirugía reciente en pie derecho.
+-	El 15/06 acudió al _SS_ por una clínica parecida, se realizó TC, angioTC y TC perfusión mejoró espontáneamente (aunque se fue de alta algo sintomática, se recuperó totalmente en menos de 24h). Reinterrogando a la hermana de la paciente que estaba con ella en este primer episodio refiere que la clínica se inició con síndrome sensitivo motor en el brazo derecho y que minutos más tarde se añadió alteración del lenguaje.
+
+EXPLORACIÓN FÍSICA
+-	Llegada a urgencias el 23/06: CTES: PA 148101 mmHg, FC 80x', FR 16x', SatO2 9% al aire, INR coaguchek 1.1. Apertura ocular espontánea, no obedece ninguna orden, solo emite alguna palabra suelta. Preferencia oculo-cefálica a la derecha. Movimientos labiales que impresionan de automatismos orales. Movimientos con las 4 extremidades pero de predominio derecho, con la mano se toca la ropa y la cara, impresiona que son automatismos también. Campimetría por reflejo de amenaza simétrico. No paresia faical al FOIX. No debilidad, respuesta al dolor simétrica en extremidades. RCP flexor bilateral.
+-	Exploración neurológica el 01/07 en la UCI pre extubación: Acutalmente la paciente ha presentado una mejoría clínica con un Glasgow 11T hoy a la exploración, apertura ocular espontánea, obedece órdenes simples, dice alguna palabra que no llega a entenderse pero impresiona que es por el tubo.
+
+
+
+-	Exploración neurológica el 03/07 en la UCI 48h postextubación: Exploración neurológica hoy: Consciente, orientada. Obedece órdenes simples y complejas. Voz hipofónica posible postIOT, no impresiona disartria. Emite lenguaje hipofluente (fluencia semántica anemiales 1 min = 5; fluencia fonémica por 'p' 1 min = 4), nomina, repite frases. Campimetría por cofrontación normal. Oculomotricidad normal. Trigémino, facial y PPCC bajos dentro de la normalidad. No déficit sensitivo en extremidades. Paresia de cinturas 4/5 posible miopatía enfermo crítico leve. RMPs presentes y simétricos dentro de la normalidad. RCP flexor bilateral. Galsgow 15.
+-	Exploración 04/07: Está mejor que el día anterior. El habla espontánea ha mejorado. Fluencia fonémica de 11 (ayer 4), fluencia semántica 8 (ayer 5).
+-	Exploración al alta: descata solo leve hipofluencia, sin otras altertaciones del lenguaje. Debilidad 4/5 en mmii en relación con miopatía de UCI
+
+EXPLORACIONES COMPLEMENTARIAS
+-	ECG: Ritmo sinusal a 75x', PR long normal <0.20seg, QRS estrechom sin alteraciones agudas de la repolarizacion ventricular.
+-	AS urgencias 23/06: ionograma completo normal, función renal, hepática, hemograma y fórmula leucocitaria, así como coagulación básica dentro de la normalidad.
+-	A/S estudio: Pendiente de parámetros de autoinmunidad en la A/S del 30/06. Pendientes tanto los anticuerpos antineuonales intracelulares (clásicos, paraneoplásicos) en suero como los de superfície neuronal en LCR (se harán en _SS_, no solo los antiNMDa sino un screenning para todos los de superficie.
+-	LCR citología y bioquímica 25/06: Glucosa LCR 3,9 mmol/L ( 2,2 - 3,9 ) Proteïna total 1,46 g/L ( 0,15 - 0,45) HEMATOLOGIA-HEMATIMETRIA Recompte cel.lular L.C.R. Número de cèl·lules 54 /mm3 Anàlisi morfològica S' observen alguns hematies 1% neutròfils, 99% limfòcits. Tramesa mostra a marcadors per estudi immunofenotípic Immunofenotip SP PREDOMINI DE LIMFÒCITS T CD4+.
+-	LCR microbiología 25/06: Gram y cultivo sin gñermenes, Virus Herpes 1,2,3,4,5 y 6 negativos, enterovirus negativo.
+-	LCR citología y bioquímica: 96 células, todos limfocitos T (no detectan linfos B), proteinas LCR 0.48g/L.
+-	LCR inmunología 30706: Pendiente.
+
+-	TC craneal + angioTC urgencias el 23/06: Hemorragia: NO. Otras lesiones: NO. Isquemia Aguda Visible: NO. ASPECTS de10 . Ingurgitacion parenquimatosa: NO. Efecto de masa sobre el sistema ventricular: NO. Desviacion de lalinea media supratentorial: NO. Desviacion de la linea media infratentorial: NO. ANGIO-TC (TSA E INTRACRANEAL): Trombosis/Oclusionde ACI (ipsilateral al hemisferio cerebral sintomatico): NO. Trombosis/Oclusion arterial de M1: NO. Trombosis/Oclusion arterial de otras arterias de mediano calibre (ACA, ACPs): NO. Trombosis/Oclusionde ramas de la ACM distales al segmento M1: NO. Permeabilidad de ACCs, ACI D, ACI Izda, ACCs, AV D, AV Izda. Sospecha de Diseccion :NO. Otros hallazgos/comentario: moderados cambios uncoartrosicos C5-C6 izquierdos con moderada disminucion del foramen a este nivel. Impresion diagnostica global: - Esudio sin alteraciones agudas.
+-	RM cerebral 28/06: Se observa una leve hiperseñal en T2/FLAIR asociado a una discreta restricción de la difusión a nivel de la corteza temporal izquierda, predominantemente en el giro supramarginal, hipocampal, y parahipocampal, giros temporales laterales izdos, uncus temporal izdo, y probablemente amigdala izda. El
+
+hipocampo izdo no tiene aspecto edematoso, ni aumento o disminucion de su volumen. No osbtante, se observa una asimetria en la morfologia de ambos hipocampos, sobre todo del cuerpo y cola del izdo, así como una teneu hiperseñal en estas porciones hipocampales izdas. El asta temporal izda es algo mayor que la D. La sustancia blanca temporal izda es normal, y no hay componente hemorragico subagudo, ni captaciones de contraste en este lobulo temporal izdo, que claramente sugieran una encefalitis herpética. Si que parece existir una tenue captacion de contraste leptomeningea en ambos hemisferios cerebrales, en localizacion posterior, y en relacion con el vermis cerebeloso, hallazgos que plantean, en el contexto de la paciente, una meningitis. Además, como hallazgo incidental, se observa la presencia de algunos, escasos, focos hiperintensos en T2 localizados en la sustancia blanca subcortical de significado incierto que pueden estár en relación a cambios microangiopáticos.Estructuras de la línea media centradas. Sistema ventricular de tamaño y morfología normal. Cisternas basales y peritronculares libres. Los vasos intracraneales muestran vacio de señal en T2, hallazgo que sugiere permeabilidad de los mismos. Conclusiones: 1) Las alteraciones descritas en el lobulo temporal izdo son de dificil interpretacion, pero desde el punto de vista radiologico, no son absolutamente tipicas de una encefalitis herpetica. 2) Estas alteraciones plantean el dx diferencial entre meningo-encefalitisy/o secundarias acrisis/status. 3) Estas alteraciones no son totalmente tipicas de una encefalitis limbica paraneoplasica o inflamatoria.4) La afectacion del cuerpo y cola del hipocampo izdo, dado que no hay edema visible, nopermiten descartar una afectacion preexistente epileptogénica (gliosis), si bien no se puede establecer el dx de esclerosis temporal mesial izda.
+
+-	RM cerebral de control: Comparativamente con la RM de cráneo del 28/06/2017 persiste una discreta hiperseñal en FLAIR de la amígdala temporal izquierda, sin captación de  contraste asociada. No se observan hemorragias o microhemorragias. No se observan otras alteraciones de señal o morfología del parénquima encefálico, o captaciones patológicas de contraste. Línea media centrada. Sistema ventricular de tamaño y morfología normal. Ocupación parcial de las celdillas matoideas. Vació de señal T2 de los vasos intracraneales sugiriendo permeabilidad.
+Conclusiones: Hallazgos compatibles con la orientación diagnóstica de encefalitis herpética.
+
+-	EEG realziado en urgencias el 23/06: Objetivamos una asimetria con enelentecimiento en los canales izquierdos frente a los derechos, no se objetivan puntas claras, existe de forman aislada inversiones de fase a nivel T3.
+-	EEG UCI 29706: EEG: enlentecimiento fronto parietal izqdo continuo,  con alguna punt-onda y ondas agudas epileptiformes en la misma localización, esporádicas, en ocasiones en trenes de 3-4, no sugestivo de status en el momento actual
+-	EEG de control en sala:  actividad paroxística focal temporal izquierda.
+-	Perfil tiroideo:
+Tirotropina: 1,44 mUI/L ( 0,30 - 5,00 ).
+T4 llibre: 11,6 pmol/L ( 9,0 - 19,0 ).
+Autoinmunidad:
+Ac. antitiroglobulina: Negativo < 138 UI/mL.
+Ac. antiperoxidasa Tiroïdal/TPO:Negativo <100 UI/mL.
+
+
+EVOLUCIÓN
+-	Mujer de 58 años que ingresa por un status epilepticus de origen focal no convulsivo el 23/06 que no se controló con clonacepam, levetiracetam, valproico y lacosamida por lo que se realizó intubación y sedación. En las pruebas complementarias destaca: Hiperproteinorraquia (1.46g/L primera PL, 0.48 g/L la segunda) y pleocitosis (54 cél primera PL, 96 la segunda) a expensas de linfocitos, concretamente linfocitos CD4 sin detectar ningún limfocito B en la segunda PL, microbiologíaen LCR negativa hasta el momento (enterovirus negativo en LCR pero no se realizó frotis en vía aérea ni digestivo), inmunología de LCR (bandas oligoclonales y anticuerpos de superficia neuronal pendientes) y RM con afectación temporal izquierda, que excede el sistema límbico, afecta también a regiones neocorticales, (se plantea en el diagnóstico diferencial radiológico de lesiones por encefalitis con la posibilidad de que se trate de una gliosis o cambios radiológicos por crisis comicales pero en contexto global la primera opción es que sea hiperseñal por la encefalitis).
+-	Se orientó como un status comicial secundario a encefalitis probablemente vírica por lo que se cubrió con aciclovir.
+-	Presentó una buena evolución clínica en UCI, se progresó con el wenaning respiratorio hasta extubación el 01/07.
+-	Como complicación médica infección respiratoria por broncoaspiración que se  trató con ceftriaxona y clindamicina, buena respuesta. Además presenta una debilidad de cinturas compatible con miopatía de la UCI. A su llegada a sala se realiza interconsulta con rehabilitación.
+-	En cuanto al diagnóstico etiológico de la encefalitis la primera opción es que se trate de una encefalitis vírica (la pleocitosis de 96 y la afectación neocortical y de polo temporal en la RM lo sugieren) de etiología no filiada, por lo que se ha mantenido tratamiento con aciclovir a pesar de PCRs negativas. Dada la buena evolución presentada se realiza traslado a sala de neurología.
+-	A su llegada a sala se encuentra estable, destacando solo bradipsíquia e hipofluencia a la exploración, en mejoría progresiva.
+-	Se mantiene tratamiento con aciclovir hasta completar 20 días. Se realiza RHB con mejoría progresiva de la sintomatología.
+-	Se realiza EEG de control que muestra actividad paroxítica focal temporal izquierda, por lo que se mantienen antiepilépticos sin reducir dosis (se irá reduciendo de forma ambulatoria). Se realiza RM cerebral de control que objetiva persistencia de discreta hiperseñal en FLAIR de la amígdala temporal izquierda, sin captación de contraste asociada.
+-	Dada la mejoría y estabilidad clínica , se decide alta a domicilio con fisioterapia a domicilio.
+
+
+DIAGNÓSTICOS
+-	Encefalitis de probable etiología vírica (virus no filiado, diagnóstico basado en características de LCR, RM cerebral y evolución), como segunda opción podría haberse tratado de una etiología inmunomediada.
+-	Status comicial focal no convulsivo secundario a encefalitis.
+-	Infección respiratoria de vías bajas de paciente crítico.
+-	Debilidad de cinturas simétrica compatible con miopatía del paciente crítico
+
+PROCEDIMIENTOS
+TC craneal, angioTC, EEGs, analíticas sanguíneas, punciones lumbares, RMs cerebrales, Rx de tórax, ECG.
+
+RECOMENDACIONES AL ALTA
+Tratamiento al alta: Amlodipino 5 mg/d
+Vimpat 200 mg/12h
+Levetiracetam 1500 mg/12h (1 comprimido de 1000 mg + 1 comprimido de 500 mg cada/12h)
+Depakine 700 mg/8h (1 comoprmido de 500 mg + 1 comprimido de 200 mg cada 8h) Lorazepam 0,50 mg/ noche
+Omeprazol 20 mg/d
+Fluoxetuina 20 mg/d
+Hibor 2500 UI/D mientras inmovilización por partología de pie.
+
+Se tramita fisioterapia  a domicilio. Se entrega hoja de petición que tendrá que llevar a su médico de atención primaria (por no ser fisioterapia de área de _LOCATION_).
+
+Seguirá controles, por deseo de la paciente, en neurología de zona.
+
+
+
+
+Responsable clínic: Dr. _NAME_ (NºCol. _ID_)
+Equip mèdic: _NAME_ (NºCol. _ID_), Dra. _NAME_ (NºCol. _ID_)
+
+Servei que ha donat d'alta:
+NEUROLOGIA HOSP	Data d'alta:
+13.07.2017	Nom del metge que informa de l'alta:
+Dra. _NAME_ (NºCol. _ID_)
+
+
+_LOCATION_, 13.07.2017
+Pàg. 1 de   5

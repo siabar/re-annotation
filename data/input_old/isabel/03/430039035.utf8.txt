@@ -1,0 +1,127 @@
+_LOCATION_
+_LOCATION_) Anul·lació/Reprogramació visites:_CONTACT_
+Telèfon Centraleta: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 81 Anys
+NIF/DNI: _ID__NAME_;; _NAME_;
+ _NAME_
+Informe d'alta d'hospitalització
+13:59:00
+13.10.2017
+_LOCATION_
+_SS_ NEUROLOGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_; _CONTACT_
+AGUTS 03.10.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Varón de 81 años que ingresa por hemiparesia e hemihipoestesia derecha.
+
+ANTECEDENTS
+No alergias medicamentosas conocidas  Hábitos tóxicos: enol ocasional, niega tabaco. No factores de riesgo cardiovascular conocidos. No cardioneumopatías conocidas.
+Portador de PTC bilateral y prótesis de rodilla dcha.
+Situación basal: Independiente para la mayoría AVBD. Camina con andador. mRS 3.
+
+MEDICACIÓ HABITUAL
+No refiere.
+
+PROCÉS ACTUAL
+Estando previamente asintomático presenta el día 02.10.17 a las 10:00h cuadro brusco de debilidad en hemicuerpo dcho y dificultad para articular las palabras. Niega otra sintomatología NRL acompañante. Se traslada inicialmente al _SS_ (Sant_LOCATION_) acitvándose código ictus a las 12:40 h. Se traslada a _SS_ (13:26 h). TC craneal (14:00 h).
+A la valoración por NRL de guardia paciente con TA: 179/105 mmHg, FC 78 lpm, satO2 97 %, afebril. Neurológicamente consciente y orientado en TEP, lenguaje ok, habla disátrica (1), MOEs sin limitaciones, no nistagmus, no diplopia, no déficits campimétricos por confrontación, PICNR, PFSN I (2), resto de PPCC normales, hemiparesia BC dcha 4/5 (1+1) con MF dcho, hipoestesia dcha (1) RMT 2/4 global. RCP flexor bilateral. NIHSS 6. Se realiza analíitca urgente sin alteraciones destacables. Tc craneal sin lesiones agudas. Infartos lacunares antiguos en globo pálido izquierdo y tálamo dcho. AngioTC con calcificaciones ateromatosas con estenosis moderadas ostiales bivertebrales. Calcificaciones ateromatosas con estenosis discreta ACI izquierda y moderada ACI derecha a nivel cervical post-bifurcación. Pequeño aneurisma sesil (vs dilatació infundibular) de 3mm en AcoPost izquerda. Calcificaciones ateromatosas intracraneales. No otros hallazgos. Pdte de ECG y Rx tórax.
+
+Se orienta como PACI ACM izquierda de etiología a estudio. Ante la ausencia de contraindicación y al encontarse en periodo ventana se decide iniciar rTPAev a las 14:25h, previo a inicia precia de administración de 1/2 ampolla de labetalol por > TA elevada. Finaliza tratamiento sin incidencias presentando mejoría NRL con NIHSS 3 expensas de disártria, PFSN d leve, hemiparesia BC dcha 5-/5 con MF dcho , hemihipoestesia dcha.
+
+Se realiza TAC post rTPA con aparición de sangrado remoto (hematoma intraparenquimatoso de 36x25mm) en región frontobasal derecha, sin ejercer efecto masa sobre estructuras adyacentes.
+
+Se decide ingreso en  NRL (Unidad de Ictus) para control evolutivo y completar estudio.
+
+EXPLORACIÓ FÍSICA
+
+Informe d'alta d'hospitalització
+
+
+
+
+
+Hemodinámicamente estable, tendencia a la hipertensión, normohidratado, normocoloreado, afebril.
+NRL. vigil, consciente, orientado en TEP, responde a órdenes, lenguaje conservado, habla disártrica (1), PICNR, no HH por confrontación, MOEs normales, PFSN derecha (2), hipestesia facial (1), resto de pares craneales conservados, paresia 4/5 BC derecha (1+1). NIHSS  6
+AC: rítmica, no ausculto soplos.
+AP: murmulo vesicular conservado, mínimos roncus dispersos. Abdomen: anodino.
+EEII: no edemas ni signos de TVP. Pulsos presentes y simétricos.
+
+EXPLORACIÓ COMPLEMENTÀRIA
+EXPLORACIONES REALIZADAS EN URGENCIAS:
+Analítica:
+-EAB venoso: pH 7.39, CO2 53 mHg, O2 28 mmHg, HCO3 32.1 mmol/L, EB 5.6 mmol/L, Sat O2 33%
+-Bioquímica: Glucosa 5.6 mmol/L, urea 3.9 mmol/L, creatinina 45 umol/L, sodio 141 mmol/L
+-Hemograma:  Hb  144  g/L,  Hto  44%,  VCM  96  fL.  Plaquetas 238x10E9/L,  leucocitos  6.0x10E9/L,  neutrofilos 3.61x10E9/L (60.4%) y limfocitos 1.72x10E9/L (28.8%).
+-Coagulación: TP 1.15, TTPA 0.90
+Rx tórax (decubito): ICT>0.5, no claras condensaciones.
+TC craneal simple: Canvis involutius encefàlics. Hipoperfusió crònica microvascular. Infarts llacunars antics en palid esquerre i tàlem dret.
+AngioTAC cerebral y de TSA: Ateromatosi dfiusa. Calcificacions ateromatoses amb estenosis moderades ostials bivertebrals. Calcificacions ateromatoses amb estenosis discreta ACi E i moderada ACi D a nivell cevrical post-bifurcació. Petit aneurisma sesil (vs dilatació infundibular) de 3mm AcoPost E. Calcificacions ateromatoses intracranials. No altres estenosis, oclusions, aneurismes, ni MAVs.
+TC post rTPA: hematoma intraparenquimatoso  de 36x25mm en región frontobasal derecha, sin ejercer efecto masa sobre estructuras adyacentes.
+
+EXPLORACIONES REALIZADAS EN NEUROLOGÍA:
+Analítica: función renal normal, ionograma normal, proteinas y albúmina normales, función hepática normal, perfil lipídico normal, pruebas tiroideas onrmales, perfil glicémico compatible con prediabetes, folatos y cobalamines normales, proteinograma pendiente, serie roja, blanca, plaquetas y coagulación normal. urato normal 270, PCR 39mg/dL y VSG 79mm
+Serologia VIH y lúes: negativo
+TC craneal (06/10): No se observan cambios valorables en el tamaño del hematoma parenquimatoso frontal derecho ni aumento significativo del edema y efecto de masa asociado al mismo. Leves cambios catabólicos. Resto del estudio también sin cambios.
+ETT: Ventrículo izquierdo no dilatado ni hipertrófico, con función sistólica conservada y sin alteraciones segmentarias de la contractilidad. Ventrículo derecho no dilatado, normocontráctil. Aurícula izquierda y raíz aórtica no dilatadas. Válvula aórtica trivalva, con velos esclerosados, sin gradiente significativo, ni regurgitación. Válvula mitral con calcificación del anillo. Ligera regurgitación. Regurgitación tricuspídea ligera, que permite estimar una presión pulmonar normal. Vena cava inferior no dilatada y móvil. Sin derrame pericárdico. Grasa epicárdica sobre VD.
+RM crani: Hematoma parenquimatoso subagudo a nivel frontal paramedial derecho. Infartos lacunares agudos en
+
+Informe d'alta d'hospitalització
+
+
+
+
+corona radiada izquierda y adyacente al asta occipital derecha del sistema ventricular. Cambios involutivos y signos de enfermedad crónica de pequeño y mediano vaso.
+
+EVOLUCIÓ CLÍNICA
+Ingresa en la unidad de ictus por PCI ACM izquierda tratado en fase aguda mediante trombolisis. EN el TAC de control presenta transformación hemorrágica remota en forma de hematoma parenquimatoso frontal derecho sin efecto masa sobre estructuras adyacentes. A su llega el paciente está igil, consciente, orientado en TEP, responde a órdenes, lenguaje conservado, habla disártrica (1), PICNR, no HH por confrontación, MOEs normales, PFSN derecha (2), hipestesia facial (1), resto de pares craneales conservados, paresia 4/5 BC derecha (1+1). NIHSS  6.
+
+Se mantiene monitorizado en la unidad de ictus donde no se registra ningúne vento arrítmico. Se mantiene hemodinámicamente estable con la medicación pautada. Inicia dieta oral y sedestación con buena tolerancia.
+
+Como estudio vascular se realiza analítica en la que destaca perfil glicémico compatible con prediabetes.
+
+Como incidencia destaca dolor en muñeca derecha y pie izquierdo. Es valorado por Reumatología observando monoartritis de carpo derecho con componente de partes blandas de muñeca, eritema y aumento de temp local en dorso de pie izquierdo sin observarse artritis séptica. Por el momento se pauta crioterapia y tto antiinflamatorio.
+
+Dada la estabilidad clínica, se realiza y envía el presente informe el dia 10/10 para valorara traslado a su Hospital de referencia.
+
+En RM craneal se objetiva sangrado frontal derecho en relación a trombolisis e imagen sugestivo de angiopatía congófila junto a la lesión isquémica aguda que motivó el uso de trombolisis.
+
+Se acepta traslado a _SS_ de Sa_LOCATION_.
+
+
+DIAGNÒSTICS
+436/5 Ictus lacunar isquémica. Trombolisis. Hemorragia frontal derecha
+Posible angiopatía congófila.
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Se adjunta. En caso de duda llamar a Unidad de Ictus _CONTACT_
+
+DESTINACIÓ A L'ALTA:	HOSP. AGUTS/PSQ
+
+
+
+
+
+
+
+
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+13.10.2017
+Pàgina 1 de 3

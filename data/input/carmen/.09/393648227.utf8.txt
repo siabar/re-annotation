@@ -1,0 +1,91 @@
+_LOCATION_
+email: _CONTACT_ Telèfon _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 80 Anys
+NIF/DNI: _ID_Informe d'alta d'hospitalització
+_NAME_; _NAME_; _NAME_
+16:30:00
+24.07.2017
+_LOCATION_
+_SS_ NEUROLOGIA
+ABS
+Servei Data d'alta
+_CONTACT_; _CONTACT_; _CONTACT_
+AGUTS 24.07.2017
+_LOCATION_
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Varón de 80 años que es derivado por sectorización por crisis epiléptica.
+
+ANTECEDENTS
+-No AMC. Ex OH.
+-Hipertensión arterial
+-Dislipemia
+-Insuficiencia renal crónica de etiología no filiada. Última creatinina (07/2016) 1.52 mg/dl, FG 43 ml/min/1.73m2.
+-Meningioma paraselar, intervenido en 03/2004, con RNM de control estable.
+-Hidrocefalia con clínica de deterioro cognitivo y crisis parciales complejas, en último TC craneal (12/2015) se evidencia dilatación ventricular sin crecimiento de la lesión tumoral.
+-IQ: hemiartroplastia bipolar de cadera derecha.
+
+PROCÉS ACTUAL
+Los familiares refieren que hoy a las 3am se ha levantado para ir al baño sin déficit motor ni trastorno del lenguaje (suele levantarse varias veces por nicturia). Sobre las 5am la mujer oye que cae algo y se lo encuentra en el suelo apoyado sobre su lado derecho sin claro déficit motor pero con ausencia de respuesta a estímulos, por lo que avisan al SEM. Posteriormente en el traslado (su mujer no lo vio) presenta una crisis que describen como tónico-clónica generalizada con desviación oculocefálica a la derecha, que cede tras la administración de clonazepam y lo derivan a _SS_.
+
+EXPLORACIÓ FÍSICA
+
+TA 113/41mmHg FC 61lpm Tª 36.6ºC SpO2 95% aa Hemodinámicamente estable y afebril.
+MVC sin ruidos sobreañadidos, TCR no ausculto soplos. No  edemas ni signos de TVP. NRL: somnoliento, Glasgow 12 (o2, v5, m5), pupilas normorreactivas, no POC/DOC, LOC Q 1/2, LOC C 2/2, no afasia ni disartria, no HH por amenaza, PFSN izquierda, moviliza las 4 extremidades sin observarse asimetrías aunque difícil valoración por escasa colaboración, RMP 2/5 simétricos. RCP flexor bilateral, hipoestesia no valorable.
+
+EXPLORACIÓ COMPLEMENTÀRIA
+-TC craneal: Ausencia de signos de sangrado agudo intra o extraaxial. Cambios postquirúrgicos de craneotomía fronto-temporal derecha con zona de malacia del parénquima temporal derecho. Estabilidad del resto tumoral de meningioma dependiendo de la clinoides anterior derecha que no produce efecto de masa sobre las estructuras adyacentes, mide unos 22x24mm. Sistema derivativo con entrada por región frontal izquierdo y extremo distal me el foramen de Morna ipsilateral. sistema ventricular discretamente dilatado y globuloso en relación a surcos de la convexidad, sin cambios significativos respecto de los estudios previos. No se observan signos de transsudación ependimaria. Hipodensidades moteadas en la sustancia blanca periventricular y subcortical en relación a cambios hipóxico-isquémicos crónicos, leucoaraiosi. Estructuras de la línea media centradas. Cisternas de la  base y perimesencefàliques libres. CONCLUSIÓN: Estudio TC craneal que no muestra alteraciones agudas valorables,
+
+Informe d'alta d'hospitalització
+
+
+
+
+sin cambios significativos respecto del estudio previo.
+-EAB: pH 7.4, pCO2 50, Na 137, K 3.4mmol/l, Lactatos 0.8, EB 7.1, HCO3 31.7mmol/l.
+
+EVOLUCIÓ CLÍNICA
+Se trata por tanto de un paciente de 80 años con antecedentes de meningioma intervenido e hidrocefalia con DVP que hoy sobre las 5am presenta caída con desconexión del medio/trastornodel lenguaje y que durante el traslado a _SS_ presenta una crisis epiléptica TCG con desviación oculocefálica derecha (según describen en informe), cediendo tras administración de clonazepam. En _SS_ pautan 1g de LEV, se realiza TC craneal que no muestra lesiones agudas pero en la revaloración por parte de NRL objetivan PFSN izquierda y hemiparesia, por lo que derivan al paciente por sectorización. En dicho centro se ha realizado ECG, Rx tórax, AG y TC craneal sin alteraciones significativas. A su llegada hemodinámicamente estable y afebril, somnoliento (postcrítico vs farmacológico) con un Glasgow de 12 (o2, v5, m5) y NIHSS de 5, orientándose como ictus en territorio de la ACM derecha, por lo que se realiza TC craneal simple que no objetiva lesiones agudas, con estabilidad de la lesión tumoral respecto a estudios previos. Se pautan medidas de ictus agudo y tratamiento con LEV 500mg/12h. No tributario de tto con rtPA por inicio indeterminado, ni deendovascular por fuera de ventana.
+Posteriormente el paciente presenta mejoría del nivel de consciencia, objetivándose un NIHSS de 2 a expensas de PFSN izquierda, sin otra focalidad. Además solicitamos valoración por parte de Neurocirugía, quienes descartan disfunción de la válvula.
+
+Guardia de Neurología (_NAME_, _NAME_, _NAME_)
+
+Reevaluamos a _NAME_ de 80 años que acudió derivado de _SS_ por crisis epiléptica con posterior paresia de extremidades izquierdas. Durante la noche ha presenado episodio de agitación habiéndo remitido actualmente. Niega dolor u otra sintomatología. No ha vuelto a presentar crisis.
+
+TA 125/59mmHg, FC 62lpm, Tª 36.1ºC, SaO2 100% aa
+Paciente con estado general conservado, normocoloreado, normohidratado y normoperfundido. Auscultación cardiaca con tonos rítmicos y sin soplos, no presenta edemas en miembros inferiores ni ingurgitación yugular. Auscultación pulmonar con murmullo vesicular conservado sin ruidos sobreañadidos. Neurológicamente vigil, atento, orientado en persona y espacio, parcialmente en tiempo (recuerda día y mes, equivoca el año), no DOC, no defectos campimétricos, no paresia en los MOEs, paresia facial leve supranuclear izquierda de dificil valoración, resto de PPCC conservados. Balance motor y sensitivos conservados. No extinción ni negligencia. No asterixis ni meningismo.
+
+Impresión: Crisis epiléptica con paresia residual resuelta (fenómeno de Todd) con buena respuesta a tratamiento con LEV 500mg cada 12 horas, de probable etiología tumoral/post-quirúrgica en paciente con meningioma operado. Se mantiene tratamiento previo pendiente de evolución y tras completar 24 horas en Urgencias se decide alta domiciliaria y control por sus médicos habituales.
+
+DIAGNÒSTICS
+Crisis epiléptica sintomática remota postquirúrgica/tumoral.
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Levetiracetam 500mg cada 12 horas. Resto sin cambios.
+
+Informe d'alta d'hospitalització
+
+
+
+CONTROL
+Por sus médicos habituales
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+24.07.2017
+Pàgina 1 de 3

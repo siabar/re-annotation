@@ -1,0 +1,68 @@
+T0	SECCION_DIAGNOSTICOS 339 350	DIAGNÒSTICS
+T1	_SUG_Ictus_isquemico 355 369	Ictus isquèmic
+T2	_SUG_Arteria_afectada 380 383	ACM
+T3	_SUG_Lateralizacion 384 392	esquerre
+T4	_SUG_Etiologia 405 420	aterotrombòtica
+T5	_SUG_Lateralizacion 445 450	dreta
+T6	_SUG_Lateralizacion 498 506	esquerra
+T7	SECCION_ANTECEDENTES_PATOLOGICOS 653 676	ANTECEDENTS  PATOLÒGICS
+T8	SECCION_TRATAMIENTO_HABITUAL 843 862	Tractament habitual
+T9	SECCION_SITUACION_FUNCIONAL 1131 1158	Situació social i funcional
+T10	SECCION_PROCESO_ACTUAL 1306 1321	MALALTIA ACTUAL
+T11	FECHA 1330 1338	13.11.17
+#11	AnnotatorNotes T11	2017-11-13
+T12	_SUG_Etiologia 1491 1503	hipertensiva
+T13	FECHA 1594 1602	15.11.17
+#13	AnnotatorNotes T13	2017-11-15
+T14	_SUG_Ictus_isquemico 1748 1753	ictus
+T15	HORA 1772 1777	11:55
+#15	AnnotatorNotes T15	11:55
+T16	HORA 1809 1814	12.03
+#16	AnnotatorNotes T16	12:03
+T17	SECCION_EXPLORACION_FISICA 1852 1869	EXPLORACIÓ FÍSICA
+T18	_SUG_Lateralizacion 2215 2220	dreta
+T19	_SUG_Lateralizacion 2273 2278	dreta
+T20	_SUG_Lateralizacion 2326 2331	dreta
+T21	_SUG_Lateralizacion 2337 2341	dret
+T22	_SUG_Lateralizacion 2369 2372	esq
+T23	_SUG_NIHSS 2434 2478	NIHSS: 0-2-0-0-2 / 2-0-0-0-0 / 0-1-2-0-0 = 9
+T24	SECCION_EXPLORACIONES_COMPLEMENTARIAS 2481 2510	EXPLORACIONS  COMPLEMENTÀRIES
+T25	SECCION_EXPLORACIONES_COMPLEMENTARIAS_EN_URGENCIAS 2513 2537	Anal ític a d'Urgènc ies
+T26	_SUG_TAC_craneal 2827 2830	TAC
+T27	_SUG_TAC_craneal 2842 2850	angioTAC
+T28	HORA 2865 2870	12.30
+#28	AnnotatorNotes T28	12:30
+T29	_SUG_ASPECTS 2924 2931	aspecte
+T30	_SUG_Localizacion 3005 3016	subcortical
+T31	_SUG_ASPECTS 3045 3052	aspecte
+T32	_SUG_Arteria_afectada 3094 3097	ACM
+T33	_SUG_Lateralizacion 3098 3101	esq
+T34	_SUG_Arteria_afectada 3233 3243	carotídies
+T35	_SUG_Lateralizacion 3355 3359	dret
+T36	_SUG_Arteria_afectada 3385 3393	caròtide
+T37	_SUG_Lateralizacion 3409 3412	esq
+T38	_SUG_Arteria_afectada 3454 3459	M1-M2
+T39	_SUG_Lateralizacion 3466 3469	esq
+T40	_SUG_Arteria_afectada 3639 3649	carotídies
+T41	_SUG_Arteria_afectada 3747 3750	ACM
+T42	_SUG_Lateralizacion 3751 3754	esq
+T43	_SUG_Arteria_afectada 3787 3789	M2
+T44	_SUG_Lateralizacion 3911 3921	bilaterals
+T45	_SUG_Lateralizacion 3984 3992	esquerre
+T46	_SUG_Localizacion 4027 4036	posterior
+T47	FECHA 4197 4205	29.11.17
+#47	AnnotatorNotes T47	2017-11-29
+T48	_SUG_Localizacion 4292 4302	testicular
+T49	_SUG_Lateralizacion 4314 4323	bilateral
+T50	_SUG_Lateralizacion 4337 4345	esquerre
+T51	_SUG_Lateralizacion 4374 4382	esquerre
+T52	_SUG_Lateralizacion 4463 4471	esquerre
+T53	SECCION_EVOLUCION 4474 4482	EVOLUCIO
+T54	_SUG_Localizacion 4660 4664	TACI
+T55	_SUG_Lateralizacion 4665 4673	esquerre
+T56	HORA 5494 5499	23:10
+#56	AnnotatorNotes T56	23:10
+T57	FECHA 5514 5522	29.11.17
+#57	AnnotatorNotes T57	2017-11-29
+T58	HORA 5579 5584	11:45
+#58	AnnotatorNotes T58	11:45

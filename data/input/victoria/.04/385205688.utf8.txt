@@ -1,0 +1,71 @@
+HOSPITALIZACIÓN DOMICILIARIA _SS_ SALA HOSP. DOMICILIARIA
+_NAME_	NHC: _ID_
+
+
+Sexo/Sexe: Masc.	Fecha nac./Data naix.: _DATE_	Edad/Edat: 64 años Dirección/Adreça: _LOCATION_	CP: _LOCATION_
+Municip. (Prov.): _LOCATION_  ABS:_SS_	Tel.:_CONTACT_
+As.: SERVEI CATALA DE LA SALUT	CIP: _ID_	NASS: _ID_
+Nº epis.: _ID_	Tipo/Tipus: HOSPIT.	Inici.: 07.06.2017 Serv: ATENCIÓ INTEGRADA	UO Enf.: HDOM SALA HOSP. DOMICILIARI Hora: 12:12:29
+Facult. de ref.: _NAME_
+
+
+
+
+Proced.: Desconegut	Dest.: Dom. Familiar Fecha/Data: 07.06.2017
+Diag.:
+Proc.:
+
+
+
+
+INFORME ALTA ENFERMERÍA / INFORME ALTA INFERMERIA
+
+Respiración/Respiració: Normal	Vestirse/Vestir-se: Autónomo Alimentación/Alimentació: Come sólo	Elim. Fecal: Continente Movilidad/Mobilitat: Autónomo	Elim. orina: Continente
+Higiene: Autónomo	Nivel cognitivo/Nivell cognitiu: Orientado Piel/Pell: Otros
+
+
+Conclusiones / Conclusions
+Paciente que ingresa en la unidad de cirugía cardiovascular de forma electiva el día 30/5/1 La Unidad de Atención Integrada evalúa al paciente y se incluye en el programa de Hospitalización a Domicilio el día 7/6/17 en paciente intervenido de PACx3 + plastia mitral el día 1/6/17
+Diagnósticos secundarios: 1. HTA 2. DLP Índice de Charlson modificado por edad 3 Tratamiento habitual: Carvedilol 6.25mgr/día, Trinomia 100/20/2.5mgr 1 comp al día
+No tiene dificultades para tomar el tratamiento pautado de 2 pastillas. Se identifica al paciente como buen cumplidor según el test de Morisky- Green
+Evaluación del paciente al ingreso en _SS_: Se trata de un hombre de 64 años de edad. Sin alergias medicamentosas conocidas Exfumador de hace 7 años con una dosis acumulada de 35 (paq/año). Ingesta de líquidos de 6 vasos diarios, no sigue ninguna dieta en especial IMC (Índice de masa corporal): 29 (sobrepeso grado II). El paciente  camina fuera de su casa de forma habitual.
+
+
+Presenta una independencia total para la realización de las actividades básicas de la vida diaria con un índice de Barthel de 100.
+Vive con su hijo y su nuera, no precisa de soporte externo.
+El paciente conoce el nombre de su patología crónica y los signos y síntomas de alarma que aparecen cuando ésta empeora y como actuar.
+En los últimos 12 meses el paciente no ha realizado visitas al Servicio de Urgencias ni ingresos hospitalarios El paciente acude a su centro de Atención Primaria cuando requiere ser visitado.
+Calidad de vida: no procede por barrera idiomática.
+Intervención durante la _SS_ Paciente que durante el ingreso en Hospitalización a Domicilio  ha mantenido
+
+constantes vitales estables. Afebril durante el ingreso.
+Al ingreso se observa murmullo vesicular conservado a la auscultación pulmonar. En la auscultación cardíaca se aprecian tonos rítmicos.
+Presenta heridas quirúrgicas: -Esternotomía con puntos de sutura. -Safenectomía con grapas. No se observan signos de infección, no presenta exudado ni sangrado por ningún punto. (no tumefacción, no enrojecimiento). Extremidad afectada (izquierda) con pulsos periféricos presentes y edema maleolar.
+Se realiza cura diaria con lavado de la zona con agua y jabón (o suero fisiológico), secado de la misma y aplicación de dilución de yodopovidona. Se realiza retirada de grapas el día 8/6/17. Se ha enseñado al paciente y la familia la realización de la cura diaria.
+La ingesta alimenticia ha sido bien tolerada y cantidad correcta. Realiza dieta según apetencia . Ingesta de líquidos de 1,5-2 litros. al día que se mantiene durante el ingreso. Diuresis correcta, orina clara. Ritmo deposicional diario sin ayuda de laxantes.
+
+El paciente ha deambulado por el domicilio de forma correcta. Ha presentado dolor durante el ingreso ( EVA al inicio de 8 ) en esternotomía al toser.Ha precisado analgesia ( Paracetamol y Nolotil alternos).
+
+Se ha realizado educación terapéutica mediante entrega de material educativo sobre :
+- Postoperatorio de CCV. - Recomendaciones dietéticas.
+
+El día 11/6/17 el paciente es trasladado al servicio de Urgencias dónde se diagnostica Ictus Isquémico.
+
+
+
+
+Firma/Signatura: _NAME_	Firma/Signatura: _NAME_ Infermer/a	Infermer/a
+Nº Matrícula HCP: _ID_	Nº Matrícula HCP: _ID_
+
+Fecha/Data Informe: 11.06.2017
+Hora Informe: 00:00:00
+
+
+Docum.: _ID_
+Hist. Clínica: _ID_	Vers. 00	Pag. 2 de	2
+Episod.: _ID_
+El _SS_ ha incorporado sus datos al Fichero de	_SS_	_SS_ ha incorporat les seves dades al
+Pacientes, para tratarlos con fines sanitarios.	_LOCATION_)	Fitxer de Pacients, per a tractar-los amb finalitats
+Puede ejercer sus derechos de acceso, rectificación,	_LOCATION_)	sanitàries. Pot exercir els seus drets d'accés,
+cancelación y oposición, así como obtener mas información	Tel. _CONTACT_ Fax _CONTACT_	rectificació, cancel·lació i oposició, i obtenir més
+en la Unidad de Atención al Cliente.	<_CONTACT_/>	informació a la Unitat d'Atenció al Client.

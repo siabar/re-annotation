@@ -1,0 +1,134 @@
+I.CLINIC DE NEUROCIÈNCIES NEUROLOGIA
+_NAME_	NHC: _ID_
+
+
+Sexo/Sexe: Fem.	Fecha nac./Data naix.: _DATE_	Edad/Edat: 58 años Dirección/Adreça: _LOCATION_		CP: _LOCATION_
+Municip. (Prov.): _LOCATION_  ABS:_SS_		Tel.:_CONTACT_ As.: SERVEI CATALA DE LA SALUT	CIP: _ID_
+Nº epis.: _ID_	Tipo/Tipus: HOSPIT.	Inici.: 13.09.2017
+Serv: NEUROLOGIA	UO Enf.: G064 SALA G DE NEUROLOGIA	Hora: 12:41:35
+Facult. de ref.: _NAME_
+
+
+
+
+Tipo ingreso/Tipus ingrés: Urgent	Motivo/Motiu alta: Dom. Familiar
+Diag.:
+OCLUSION DE ART. CEREBRAL NO ESPECIF. CON INFARTO CEREBRAL (434.91)
+Proc.:
+TC MULTIMODAL () TROMBECTOMÍA MECÁNICA () ANALITICA SANGUINEA ()
+ECOCARDIOGRAMA TRANSESOFÁGICO () RMN CEREBRAL ()
+
+
+
+
+INFORME CLÍNICO ALTA / INFORME CLÍNIC ALTA
+
+Motivo de consulta / Motiu de consulta
+Alteración súbita del lenguaje y debilidad de extremidades derechas.
+
+Antecedentes e historia previa / Antecedents i història prèvia
+** ANTECEDENTES PERSONALES:
+
+Mujer de 58 años, sin alergias, fumadora. Independiente (mRs 1).
+
+
+ANTECEDENTES PERSONALES:
+
+1.	OBESIDAD.
+
+2.	ENFERMEDAD PULMONAR OBSTRUCTIVA CRÓNICA en trat6amiento con inhaladores.
+
+3.	TRASTORNO ANSIONSO-DEPRESIVO.
+
+4.	AMPUTACIÓN DE PIE IZQUIERDO traumático.
+
+5.	ESPONDILOLISTESIS L4-L5 y discopatía L5-S1 intervenido el 4/2017.
+
+6.	HIPOTIROIDISMO en tratamiento sustitutivo.
+
+
+MEDICACIÓN HABITUAL: Pregabalina 75mg/8h, clotiapina 40mg/24h, gabapentina 300mg/12h, olodaterol+tiotropio 2inh/24h, mirabegrón 50mg24h, omeprazol 20mg/24h, pulmicort 2inh/24h, paracetamol 1g/8h, calcio-vitamina D/12h, hidrocortisona 20mg/24h, roflumilast 500mcg/24h, duloxetina 60mg/24h, diazepan 10m/8h, quetiapina 100mg/8h, enantyum 25mg/8h.
+
+Proceso actual / Procés actual
+Mujer de 58 años que el 13.09.2017 a las 10:15h presenta alteración súbita del lenguaje y debilidad de extremidades derechas, por lo que acude el SEM y se activa código ictus extramuros.
+
+Exploración física / Exploració física
+13/09/2017-13:21:00: Frecuencia respiratoria (rpm) 13, PAS (mm Hg) 141, PAD (mm Hg) 78. 13/09/2017-13:30:00 : Glicemia capilar (mg/dl) 101. 13/0 9/2017-14:00:00 : Pulsioximetría (%) 98. 13/09/2017-23:00:00 : Tª axilar  (ºC) 35.6.
+13/09/2017-13:21:00: Frecuencia respiratoria (rpm) 13, PAS (mm Hg) 141, PAD (mm Hg) 78. 13/09/2017-13:30:00 : Glicemia capilar (mg/dl) 101. 13/0 9/2017-14:00:00 : Pulsioximetría (%) 98. 13/09/2017-23:00:00 : Tª axilar  (ºC) 35.6.
+Hemodinámicamente estable, afebril, eupenica, normotensa (TAS 135/TAD 70 mmHg)
+NRL: Consciente, orientación no valorable por lenguaje afásico (nomina 2/8, no repite, obedece sólo órdenes simples). Miarada centrada sin limitaciones en la excursión visual. Reflejo de amenaza simétrico bilateral. Paresia facial (central mod), con paresia braquiocrural (4/5), sensibilidad y dismetrías no valorables. NIHSS 6.
+AC: Ritmica, sin soplos
+AR: MVC, sin roncus ni sibilancias. ABD: anodino.
+
+Laboratorio / Laboratori
+** ANALÍTICA SANGUÍNEA: Sin alteraciones relevantes. LDL de 132.
+
+Radiología / Radiologia
+** TC CRANEAL BASAL: Se identifica arteria cerebral media izquierda hiperdensa en su segmento M1, sugestivo de trombo agudo. mNo se observan otras alteraciones vasculares ni del parénquima cerebral. ASPECTS 10
+** TC PERFUSIÓN: Se observan retraso en TTP y disminución del mapa de cbf en el territorio superficial de la arteria mcerebral media izquierda con mapa de CBV conservado por buena colateralidad.
+** ANGIO-TC EXTRA E INTRACRANEAL: Se identifica defecto de repleción en el segmento M1 de la arteria cerebral media izquierda, sugestivo de trombosis aguda. Segmentos proximales de troncos supraórticos sin ateromatosis ni signos de estenosis.
+** RMN CEREBRAL: Se observa lesión isquémica en núcleo lenticular izquierda, sin observarse otras lesiones asociadas. * angio-RM: Permeabilidad de grandes vasos intracraneales.
+
+Exploraciones complementarias / Exploracions complementàries
+** ECG: Ritmo sinusal. PR normal. QRS sin alteraciones.
+** ECOCARDIOGRAMA TRANESOFÁGICO: Ventrículo izquierdo no dilatado, ligeramente hipertrófico. Motilidad globlal y segmentaria normal. Ventrículo derecho no dilatado, normocontráctil. Aurícula izquierda no dilatada, Orejuela izquierda normocontráctil. (velocidad de lavado hasta 56.9cm/s) sin trombos en su interior. No valvulopatías.15/09/2017.
+
+Evolución / Evolució
+
+1. ICTUS ISQUÉMICO EN TERRITORIO DE LA ARTERIA CEREBRAL MEDIA IZQUIERDA. OCLUSIÓN EN SEGMENTO M1.
+
+A su llegada a urgencias, la paciente se encuentra hemodinámicamente estable, en la exploración neurológica presenta lenguaje con rasgos afásicos y hemiparesia (4/5) derecha (NIHSS: 6). La analítica sin alteraciones. El ECG en ritmo sinusal. La neuorimagen (TC Craneal) en la secuencia basal sin signos de lesión isquémica ni hemorrágica aguda, el angio-TC confirma oclusión en segmento M1 de la arteria cerebral media izquierda (ACMI) con extensa área de penumbra isquémica en los mapas de perfusión. Ante la ausencia de contraindicaciones se inicia tratamiento de repefusión cerebral con r-tPA y trombectomía mecánica consiguiendo recanalización arteria completa (TICI 3).
+Durante su monitorización en la Unidad de ictus (>72h) no se registran alteraciones del ritmo cardiaco. El Ecocardiograma transesofágico muestra FEVI 60% sin alteraciones estructurales ni fuentes cardioembólicas. La RM cerebral de control muestra lesión isquémica aguda a nivel de núcleo lenticular izquierdo sin otras alteraciones, sin presencia de oclusiones ni estenosis arteriales intracraneales en la angio-RM.
+Se orienta como ictus isquémico en territorio de la ACMI de etiología indeterminada (estudio completo) por lo que se inicia tratamiento antiagregante con AAS.
+Se propone a la paciente participar en ensayo clínico de prevención secundaria de ictus de causa indeterminada (NAVIGATE ESUS), y decide no participar tras consultar con su familia. Por lo tanto se mantiene al alta tratamiento antiagregante con aspirina 100mg de forma indefinida.
+
+TOAST: Indeterminado (estudio completo) Rankin al alta: 1
+NIHSS al alta: 0
+
+Plan terapéutico / Pla terapèutic
+Paracetamol stada 1000 mg comprimidos efg, 40 comprimidos. 1000 MG. Vía oral. Cada 8 horas.
+Quetiapina cinfa 200 mg comprimidos recubiertos con pelicula efg, 60 comprimidos. 200 MG. Vía oral. A las 23:00 horas.
+Acido acetilsalicilico aristo 100 mg comprimidos gastrorresistentes , 10 0 comprimidos. 100 MG. Vía oral. Una vez al día, en el desayuno. Omeprazol kern pharma 20 mg capsulas duras gastrorresistentes efg , 28 cápsulas. 20 MG. Vía oral. Cada 24 horas.
+Quetiapina cinfa 100 mg comprimidos recubiertos con pelicula efg, 60 com primidos. 100 MG. Vía oral. Desayuno, comida y antes acostarse.
+Cymbalta 60 mg capsulas duras gastrorresistentes, 28 cápsulas. 60 MG. Ví a oral. Cada 24 horas. Lyrica 75 mg capsulas duras, 56 cápsulas. 75 MG. Vía oral. Desayuno, com ida y antes acostarse.
+Betmiga 50mg comprimidos de liberacion prolongada, 30 comprimidos. 50 MG . Vía oral. Cada 24 horas.
+Diazepan prodes 10 mg comprimidos, 30 comprimidos. 10 MG. Vía oral. Desa yuno, comida y antes acostarse.
+Etumina 40mg 30 comprimidos. 40 MG. Vía oral. A las 23:00 horas.
+Daxas 500 microgramos comprimidos recubiertos con pelicula, 30 comprimid os. 500 MCG. Vía oral. Cada 24 horas.
+Absorb inc orina noc anat lindor elasticos talla grande 80u. 1 UND. Vía topica. Cada 24 horas. Hidroaltesona 20mg 30 comprimidos. 20 MG. Vía oral. Cada 24 horas.
+Spiolto respimat 2,5 microgramos / 2,5 microgramos solucion para inhalac ion , 1 inhalador + 1 cartucho de 60 pulsaciones (30 dosis). 2 DOS. Vía inhalatoria. Cada 24 horas.
+Atorvastatina almus 40 mg comprimidos recubiertos con pelicula efg, 28 c omprimidos. 40 MG. Vía oral. Una vez al día, en la cena.
+Eutirox 100 microgramos comprimidos , 100 comprimidos. 100 MCG. Vía oral. Cada 24 horas.
+Pulmicort turbuhaler 200 microgramos/inhalación polvo para inhalacion , 1 inhalador de 100 dosis. 2 MCG. Vía inhalatoria. Cada 24 horas.
+
+
+
+Gabapentina stada 300 mg capsulas duras efg, 90 cápsulas. 300 MG. Vía oral. Dos veces al día: desayuno y cena.
+Calcium-sandoz 500 mg ca2+/comp comprimidos efervescentes, 60 comprimidos. 1 MG. Vía oral. Cada 12 horas.
+
+Otras recomendaciones / Altres recomanacions
+Control de factores de riesgo por Medico de cabecera.
+Visital de control en CCEE de neurología a los 3 meses (se enviará citación a domicilio)
+
+
+
+Firma/Signatura1: _NAME_ Categoría: Esp.Assist.Urg.
+Nº matrícula _SS_: _ID_
+
+Fecha Alta Médica/Data Alta Mèdica: 17.09.2017 Hora Alta Médica/ Hora Alta Mèdica: 15:09:10
+
+Fecha/Data Informe: 17.09.2017
+Hora Informe: 15:09:10
+
+Docum.: _ID_
+Hist. Clínica: _ID_
+El _SS_ ha incorporado sus datos al Fichero de Pacientes, para tratarlos con fines sanitarios.
+Puede ejercer sus derechos de acceso, rectificación, cancelación y oposición, así como obtener mas información en la Unidad de Atención al Cliente.
+Vers. 01
+Pag. 2 de
+4
+Episod.: _ID_
+_SS_ ha incorporat les seves dades al Fitxer de Pacients, per a tractar-los amb finalitats sanitàries. Pot exercir els seus drets d'accés, rectificació, cancel·lació i oposició, i obtenir més informació a la Unitat d'Atenció al Client.
+_SS_
+_LOCATION_) _LOCATION_) Tel. _CONTACT_ Fax _CONTACT_
+http://_CONTACT_/

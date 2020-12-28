@@ -1,0 +1,98 @@
+SERVEI DE NEUROLOGIA
+INFORME DE ALTANº Historia clínica	_ID_
+Fecha de nacimiento
+_DATE_
+C.I.P.	_ID_	Código Centro	_ID_
+Teléfono	_CONTACT_	Dirección	_LOCATION_
+Fecha ingreso	30/08/17		_LOCATION_
+Fecha de alta	04/09/17	Teléfono	_CONTACT_
+Nº Asistencia	_ID_		
+UH	_ID_		
+
+DIAGNÓSTICOS:
+1.	ICTUS LACUNAR IZQUIERDO. RECURRENCIA PRECOZ
+2.	SD SENSITIVO MOTOR DERECHO + DISARTRIA.
+3.	HTA
+
+Paciente diestra de 88 años.
+Viuda, tiene una hija y dos nietos. Rankin histórico 0.
+No AMC. NO fumadora, 1,5 UBEs/día sin otros hábitos tóxicos.
+
+PROCEDIMIENTOS:
+TC craneal ANGIO TC INGRESO EN UI
+
+MOTIVO CONSULTA:
+CII
+
+ANTECEDENTES:
+-	HTA en tto farmacológico.
+-	Osteopenia en tto con Hidroferol
+-	Niega DM o otros AP de interés.
+-	ICTUS LACI IZQUIERDO en Agosto`17 requirió ingreso en neurología, al alta NIHSS 4.
+
+Medicación  habitual:  Valsartan  40  mg/24h,  Furosemida  40 mg/24h,  Hidroferol  0,266,  Paracetamol 1g/8h. AAS 100 mg cada 24h
+
+
+ENFERMEDAD ACTUAL:
+Traída el 30/08/2017 activando CIIH por clínica de incio a las 12:00 horas con empeoramiento progresivo en 1 h, hormigueo de extremidades derechas, desviación de comisura bucal y alteración del habla.
+
+
+
+
+EXPLORACIÓN FÍSICA:
+- Exploración física en UCIAS:
+Box 4 TA 131/65 mmHg, FC 69 lpm, ECG en RS, glicemia 92.
+Expl: Consciente y orientada, no alteraciones del lenguaje. Muy discreta disartria (1). Campimetría por confrontación sin alteraciones. No restricción de MOEs, pares craneales bajos conservados. Leve hemiparesia FBC derecha (Facial inferior derecha 1 + ESD prona sin llegar a claudicar + EID 1), hipoestesia crural derecha (1). RCP flexor bilateral. NIHSS: 4.
+AC: tonos rítmicos, sin soplos.
+
+EXPLORACIONES COMPLEMENTARIAS
+-	ECG: RS a 70 lpm, QRS estrecho sin alteraciones de la repolarización.
+-	TC  craneal:  Sin  evidencia  TC  de  lesiones  agudas  ni  oclusiones  arteriales.  Infarto  lacunar
+
+Nombre	_NAME_subagudo/crónico en tálamo izquierdo. Leucoaraiosis severa. Leve ectasia focal de arteria cerebral media D proximal versus aneurisma de cuello amplio (7 mm). Se comentará en sesión de radiología con neuroradiólogos, de modificarse el diagnóstico se realizará addendum a este informe.
+- Analíltica sanguínea; glucosa 109, creatinina 0`73, filtrado glomerular 74, sodio 142.7, potasio 4.25, cloro 104.2, CK 141, proteina C reactiva 0.5, hb 16.8, hematocrito 48.3%, VCM 95%, HCM 33%,
+leucocitos 7.23, plaquetas 199, TP 96%, TTPA 0.92, fibrinogeno 403, D-Dimero 650
+
+
+
+EVOLUCIÓN:
+Se trata de una paciente de 88 años, con factores de riesgo vascular que presenta cuadro compatible con ictus lacunar.
+La paciente ingresa en Unidad de Ictus para monitorización y estudio neurovascular. Se inicia doble antiagregación con AAS y clopidogrel. Estatinas y heparina profiláctica. Se valoran al ingreso el estado de ánimo, las necesidades de rehabilitación y se inician fisioterapia y movilización precoces. Durante el ingreso evoluciona de forma favorable, presentando una recuperación completa. Durante el ingreso se realiza educación sanitaria acerca del ictus.
+No ha presentado complicaciones durante el ingreso, y dada la estabilidad clínica se decide alta a domicilio.
+
+No precisa rehabilitación al alta dada la recuperación.
+Al alta se mantiene tratamiento antiagregante con AAS 100mg y se añade clopidogrel 75mg al día. Etiología TOAST LACUNAR, Oxford LACI. Al alta NIHSS 0
+
+
+
+
+ÍNDEX BARTHEL ALTA : 100.
+
+TRATAMIENTO:
+Medicación habitual:
+-	Valsartan 40 mg/24h
+-	Furosemida 40 mg/24h
+-	Hidroferol 0,266
+-	Paracetamol 1g/8h.
+-	AAS (adiro) 100 mg cada 24h
+
+NUEVA MEDICACIÓN
+-	CLOPIDOGREL 75 mg cada 24h RESTO SIN CAMBIOS
+INDICACIONES:
+-	Se recomienda control estricto de enfermedades que aumentan el riesgo de ictus: hipertensión arterial, diabetes, colesterol elevado (dislipemia) y enfermedades del corazón. Realizar el tratamiento de forma adecuada según las recomendaciones de su médico.
+-	Abstención de tabaco y alcohol
+-	Seguir una dieta  adecuada,  con poca sal, evitando  grasas, especialmente  las saturadas (grasas animales, aceites y grasas para cocinar).
+
+-	Evitar la obesidad y el sobrepeso y realizar ejercicio físico moderado de forma regular.
+-	Visita a CCEE el día..........
+
+Dr/a.	_NAME_	Dr/a.	_NAME_	Dr/a.	_NAME_
+Metge/essa Resident
+(Nº Colegiado _ID_Metge/essa Adjunt
+(Nº Colegiado _ID_Metge/essa Adjunt
+(Nº Colegiado _ID_
+Les seves dades personals s'incorporen en un fitxer d´usuaris a fi del seu tractament sanitari. Pot exercir el seu dret d´oposició, accés i rectificació de les dades inexactes dirigint-se al Servei de Documentació Clínica.
+Sus datos personales se incorporan en un fichero de usuarios para su tratamiento sanitario. Puede ejercer su derecho de oposición, acceso y rectificación de los datos inexactos dirigiéndose al Servicio de Documentación Clínica
+
+_SS_ | NIF _ID_ |_LOCATION_ | Telèfon _CONTACT_ | Fax _CONTACT_ | _CONTACT_
+Pàgina 1 de 3

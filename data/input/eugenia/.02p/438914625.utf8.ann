@@ -1,0 +1,105 @@
+T0	_SUG_Lateralizacion 90 91	I
+T1	FECHA 173 181	03/11/17
+#1	AnnotatorNotes T1	2017-11-03
+T2	FECHA 208 216	08/11/17
+#2	AnnotatorNotes T2	2017-11-08
+T3	SECCION_DIAGNOSTICOS 266 278	DIAGNÓSTICOS
+T4	_SUG_Ictus_isquemico 283 288	ICTUS
+T5	_SUG_Etiologia 289 296	LACUNAR
+T6	_SUG_Lateralizacion 314 321	DERECHO
+T7	_SUG_Lateralizacion 349 358	IZQUIERDO
+T8	_SUG_Etiologia 410 422	HIPERTENSIÓN
+T9	_SUG_mRankin_alta 530 535	mRs 3
+T10	_SUG_mRankin_previa 530 535	mRs 3
+T11	SECCION_PROCEDIMIENTOS 613 627	PROCEDIMIENTOS
+T12	_SUG_Ictus_isquemico 657 662	ictus
+T13	_SUG_TAC_craneal 663 673	TC craneal
+T14	SECCION_ANTECEDENTES 708 720	ANTECEDENTES
+T15	_SUG_Etiologia 724 736	Hipertensión
+T16	FECHA 850 854	2006
+#16	AnnotatorNotes T16	2006-UNDEF-month-UNDEF-day
+T17	FECHA 1054 1058	2005
+#17	AnnotatorNotes T17	2005-UNDEF-month-UNDEF-day
+T18	_SUG_Etiologia 1102 1114	hipertensiva
+T19	FECHA 1306 1310	2013
+#19	AnnotatorNotes T19	2013-UNDEF-month-UNDEF-day
+T20	SECCION_TRATAMIENTO_HABITUAL 1313 1331	TRATAMIENTO ACTUAL
+T21	_SUG_Tratamiento_antiagregante_alta 1500 1511	clopidogrel
+T22	_SUG_Tratamiento_antiagregante_hab 1500 1511	clopidogrel
+T23	SECCION_TRATAMIENTO_HABITUAL 6793 6804	TRATAMIENTO
+T24	SECCION_PROCESO_ACTUAL 1518 1535	ENFERMEDAD ACTUAL
+T25	_SUG_Ictus_isquemico 1569 1574	ictus
+T26	FECHA 1600 1610	03/11/2017
+#26	AnnotatorNotes T26	2017-11-03
+T27	HORA 1617 1622	20:40
+#27	AnnotatorNotes T27	20:40
+T28	HORA 1651 1656	16:00
+#28	AnnotatorNotes T28	16:00
+T29	_SUG_Lateralizacion 1700 1709	izquierda
+T30	HORA 1731 1736	20:48
+#30	AnnotatorNotes T30	20:48
+T31	_SUG_NIHSS_alta 1786 1793	NIHSS 5
+T32	_SUG_NIHSS_previa 1786 1793	NIHSS 5
+T33	_SUG_Lateralizacion 1820 1829	izquierda
+T34	_SUG_Lateralizacion 1864 1873	izquierda
+T35	_SUG_Ictus_isquemico 1905 1910	ictus
+T36	SECCION_EXPLORACION_FISICA 1932 1950	EXPLORACIÓN FÍSICA
+T37	_SUG_Lateralizacion 2244 2253	izquierda
+T38	_SUG_Lateralizacion 2300 2309	izquierda
+T39	_SUG_NIHSS_alta 2363 2371	NIHSS: 5
+T40	_SUG_NIHSS_previa 2363 2371	NIHSS: 5
+T41	_SUG_Ictus_isquemico 2516 2521	Ictus
+T42	_SUG_Etiologia 2688 2696	habitual
+T43	_SUG_Lateralizacion 2841 2850	izquierdo
+T44	_SUG_Localizacion 3009 3018	profuntda
+T45	_SUG_NIHSS_alta 3068 3075	NIHSS 7
+T46	_SUG_NIHSS_previa 3068 3075	NIHSS 7
+T47	SECCION_EXPLORACIONES_COMPLEMENTARIAS 3154 3183	EXPLORACIONES COMPLEMENTARIAS
+T48	_SUG_Lateralizacion 3584 3585	D
+T49	_SUG_Lateralizacion 3664 3671	derecha
+T50	_SUG_Lateralizacion 3771 3778	derecho
+T51	_SUG_TAC_craneal 3792 3802	TC craneal
+T52	FECHA 3810 3820	03/11/2017
+#52	AnnotatorNotes T52	2017-11-03
+T53	_SUG_Localizacion 4012 4023	ventricular
+T54	_SUG_Localizacion 4048 4057	corticals
+T55	_SUG_Localizacion 4474 4483	posterior
+T56	_SUG_Arteria_afectada 4485 4504	artèries vertebrals
+T57	_SUG_Localizacion 4507 4512	tronc
+T58	_SUG_Arteria_afectada 4592 4595	ACI
+T59	_SUG_TAC_craneal 4858 4868	TC craneal
+T60	FECHA 4869 4873	8/11
+#60	AnnotatorNotes T60	2017-11-08
+T61	_SUG_Localizacion 4875 4890	infarto lacunar
+T62	_SUG_Lateralizacion 4908 4915	derecho
+T63	SECCION_EVOLUCION 5068 5077	EVOLUCIÓN
+T64	_SUG_Etiologia 5119 5131	hipertensión
+T65	_SUG_Ictus_isquemico 5204 5209	ictus
+T66	_SUG_Localizacion 5210 5214	LACI
+T67	_SUG_Lateralizacion 5215 5222	derecho
+T68	_SUG_TAC_craneal 5236 5246	TC craneal
+T69	_SUG_TAC_craneal 5258 5260	TC
+T70	_SUG_ASPECTS 5318 5328	ASPECTS 10
+T71	_SUG_Ictus_isquemico 5597 5602	Ictus
+T72	_SUG_Lateralizacion 5736 5746	izquierdas
+T73	_SUG_Tratamiento_antiagregante_alta 5831 5834	AAS
+T74	_SUG_Tratamiento_antiagregante_hab 5831 5834	AAS
+T75	_SUG_Tratamiento_antiagregante_alta 5844 5855	clopidogrel
+T76	_SUG_Tratamiento_antiagregante_hab 5844 5855	clopidogrel
+T77	_SUG_Tratamiento_anticoagulante_alta 5875 5883	heparina
+T78	_SUG_Tratamiento_anticoagulante_hab 5875 5883	heparina
+T79	_SUG_Ictus_isquemico 5975 5980	Ictus
+T80	_SUG_Ictus_isquemico 6233 6238	ictus
+T81	_SUG_TAC_craneal 6244 6246	TC
+T82	_SUG_Ictus_isquemico 6286 6291	ictus
+T83	_SUG_Lateralizacion 6309 6316	derecho
+T84	_SUG_Etiologia 6678 6685	LACUNAR
+T85	_SUG_Localizacion 6694 6698	PACI
+T86	_SUG_NIHSS_alta 6708 6715	NIHSS 6
+T87	_SUG_NIHSS_previa 6708 6715	NIHSS 6
+T88	_SUG_mRankin_alta 6717 6725	Rankin 4
+T89	_SUG_mRankin_previa 6717 6725	Rankin 4
+T90	SECCION_RECOMENDACIONES 6818 6830	INDICACIONES
+T91	_SUG_Ictus_isquemico 6907 6912	ictus
+T92	_SUG_Etiologia 6914 6926	hipertensión
+T93	_SUG_Lateralizacion 7917 7924	derecho

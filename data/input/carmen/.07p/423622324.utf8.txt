@@ -1,0 +1,164 @@
+
+
+
+
+
+Informe d'Alta Hospitalària	Cognoms i nom:
+_NAME_	NHC:
+_NAME_
+	ABS:
+_SS_	CIP:
+_ID_	DNI:
+_ID_
+	Data de naixement:
+_DATE_	Sexe:
+Dona	Edat:
+89a	Telèfon:
+_CONTACT_
+	Finançament:
+CatSalut - _LOCATION_	Procedència:
+URGÈNCIES
+	Admissió:
+16.09.2017 - 16:41	Servei:
+NEUROLOGIA HOSP	Data entrada urg.:
+15.09.2017 - 12:12
+Adreça:
+_LOCATION_	Població:
+_LOCATION_	Codi Postal:
+_LOCATION_
+
+
+
+Motiu Ingreso:
+Ictus isquémico ACM izquierdo
+
+
+ANTECEDENTES
+-No AMC
+-No habitos tóxicos.
+-HTA
+-	DLP.
+-	Obesidad.
+-	FA persistente diagnosticada en 2012. Actualmente en tto con betabloqueantes y antiagregación. Nunca ACO por esta indicación.
+-TPSV ablacionada en 2008.
+-	Insuficiència cardíaca. CF basal 1.
+-Probable IAM hace unos 30 años.
+***- ECOcardio (20.11.12): Estudio limitado por subóptima ventana acústica (estudio realizada en FA con tendencia a FVM elevadas). VI no dilatado con ligera hipertrofia parietal. Contractilidad global conservada, sin poder valorar de forma correcta contractilidad segmentaria por subóptima ventana acústica. AI ligeramente dilatada. V. Mitral engrosada con regurgitación ligera (grado I-II). Raíz aórtica de dimensiones en el límite superior de la normalidad. V. Aórtica aparentemente trivalva, ligeramente esclerosa, con IAo de grado ligero. VD no dilatado, normocontráctil. IT de grado II, que permite descartar la presencia de HAPs en reposo.
+-Diagnosticada úlcera duodenal hace unos 50 años.
+- Ictus isquémico de causa cardioembólica (FA) en territorio de ACM izquierda el 19/08, estando ingresada por colitis infecciosa, que tras inicio de anticoagulación con HBPM presentó una HDA autolimitada, por lo que se decidió suspender anticoagulación y mantener antiagregación, fue dada de alta el 08/09.
+
+-Diverticulosis (Consta ultima VCS 2013: diverticulosis, sin otras lesiones).
+-Colecistectomia abierta, por colelitiasis sintomática sobre 1995.
+-ERC estadio 3B, FG 30-40, creatinina habitual 1,2-1,4 mg/dL.
+-TVP de EID en 2011, se trató con Sintrom.
+-Polimialgia reumatica. Ha seguido tto con corticoides, MTX.
+-Artrosis. Osteoporosis.
+-hiperuricemia . Artritis gotosa en 2014.
+-Hipoacusia.
+-Probable deterioro cognitivo leve. Valorado como posible Alzheimer GDS 3-4 en 2011 pero posteriormente muy estable según la familia, hasta empeoramiento en primeros meses de 2017.
+-IQ: prótesis de rodilla bilateral. Carcinoma espinocelular EID en 2009. Quiste mamario.
+-Situación social: vive en casa con cuidadora. Autónoma AVD previo al ingreso actual, salía a la calle. mRS de 4 tras el alta reciente.
+
+-Tto habitual: adenuric, AAS 100mg/d, bisoprolol 5mg/d, hidroferol c/15d, lormetazepam 1mg/d, omeprazol 20mg/d, pazital (paracetamol+tramadol), prednisona 2,5 mg/d, simvastatina 20mg/d, valsartan+HCTZ 160+12,5 mg/d. Ibuprofeno SP.
+
+Antecedents quirúrgics
+29.10.2012
+18.31  EXCISIO RADICAL DE LESIO D'ORELLA EXTERNA 10.12.2009
+21.32  EXCISIO LOCAL O DESTRUCCIO D'ALTRES LESIONS DE NAS 08.02.2008
+37.27.1	TAQUICARDIAPAROXISTICA SUPRAVENTRICULAR
+
+Antecedents familiars
+Primer Grau - Patològics - ALTRES ANTECEDENTS FAMILIARS
+Pare mort de càncer hepàtic als 69 anys, la mare va morir quan ella tenia 3a. No antec neurològics fam d'interès.
+
+ENFERMEDAD ACTUAL
+Mujer de 89 años con antecedentes de hipertensión, dislipemia, demencia por probable EA con GDS 4 en 2011, FA antiagregada con AAS 100mg, ingreso reciente por colitis infecciosa en el _SS_ en el que presentó como complicaciones un ictus cardioembólico en territorio de ACM izquierda el 19/08l, que tras inicio de anticoagulación con HBPM presentó una HDA autolimitada, por lo que se decidió suspender anticoagulación y mantener antiagregación, fue dada de alta el 08/09.
+Es traída a urgencias vía SEM por haber iniciado el 15/09 sobre las 11:30h una alteración en la emisión del lenguaje y debilidad en extremidades derechas.
+Llega a urgencias a las 12:12h y se activa código ictus desde triaje.
+
+
+EXPLORACIÓN FÍSICA
+-Constantes: TA 133/62mmHg, FC 79lpm, FR 16rpm, SatO2 93%, T 35.3º, INR por coagucheck 1, glicemia 125mg/dl.
+Exploración neurológica:
+-Vigil, orientación no valorable.
+-Afasia global. No emite lenguaje. Obedece alguna orden simple. Ninguna semicomplejo
+-Campimetría por amenza con HHD.
+-Mirada desviada a la izquierda que no cruza la línea media.
+-Paresia facial central D a la maniobra de Foix.
+-Balance motor: Hemiparesia derecha braquial 1/5, crural 2/5.
+-Retira al dolor.
+-Dismetrías no valorables.
+-Babinski D.
+NIHSS: 0.2.1.2.2 / 2.(0.3).(0.2) / 0.0.3.0.0 = 17
+
+Exploración sistémica:
+-ACV: Tonos cardíacos arítmicos normofrecuentes.
+-EEII sin edemas ni signos de TVP.
+
+
+EXPLORACIONS COMPLEMENTÀRIES
+-	Analítica urgente: Sodi 141 Potassi 4,11 Glucosa 6,1 Urea 10,0 Creatinina 112. Hepatograma  normal.
+Hemoglobina 103 g/L Hematòcrit 0,32 VCM 88,5 RDW 15,8 % Plaquetes 151  Leucòcits 9,35 HEMOSTÀSIA Temps de tromboplastina 0,94 Temps de protrombina 1,09 INR Temps de trombina 22,20
+-	ECG: FA normofrecuente
+-	TC cráneo: hiperdensidad vascular en M2 de la ACM izquierda, además de hipodensidad parenquimatosa sugestiva de lesión isquémica reciente en la ínsula izquierda, parte del frontal, parietal y temporal lateral, siendo el ASPECTS de 5. Impresión diagnóstica global: Hallazgos sugestivos de trombosis en ACM izquierda y afectación isquémica temporo-insular y de parte del frontal y parietal izquierdos.
+-	Estudio neurosonológico: -Dúplex TSA: Examen normal en ambos ejes carotídeos (salvo por mínimos signos de ateromatosis en forma de placas calcificadas de escaso grosor que no provocan estenosis). Ambas AV con flujo en dirección craneal. -Dúplex transcraneal: ausencia de ventana temporal. Por ventana suboccipital se exminan ambas AV y AB (hasta 90mm) con resultados normales.
+-	Sedimento orina/urocultivo: E. coli multisensible
+
+
+EVOLUCIÓN
+A su llegada a Urgencias presenta clínica compatible con afectación completa hemisférica izquierda (NIHSS 17). Se realiza TC craneal simple en el que se evidencian signos de isquemia aguda extensos en territorio de la ACM izquierda (ASPECTS 5) y signo de la ACM hiperdensa distal. Dada la isquemia establecida, el antecedente de HDA reciente y el estado funcional previo no se considera candidata a tratamiento de reperfusión. Se mantiene la antiagregación e ingresa en Neurología.
+Durante el ingreso presenta una mejoría de la focalidad neurológica, sobre todo a expensas del déficit motor, persistiendo una afasia global (NIHSS 9). Ha tolerado dieta oral sin disfagia y ha iniciado fisioterapia y logopedia, con buena tolerancia.
+Por tanto, se orienta como un ictus en territorio de la ACM izquierda de mecanismo embólico y probable etiología cardioembólica por FA no anticoagulada. Dado el alto riesgo hemorrágico, se decide no iniciar tratamiento anticoagulante y se mantiene la prevención con aspirina.
+Como complicación ha presentado una infección del tracto urinario por E.coli multisensible, que se trata con Augmentine ajustado a función renal.
+Dada la estabilidad y tras ser valorada por el servicio de UFISS, se decide el traslado a centro sociosanitario para continuar convalescencia.
+Al alta: NIHSS=9, mRS=4
+
+DIAGNÓSTICOS
+-	Infarto  isquémico  (TACI)  en  territorio  de  la  ACM  izquierda  de  mecanismo  embólico  y  etiología cardioembólica.
+-	Fibrilación auricular.
+-	Infección del tracto urinario
+-	Hipertensión arterial
+-	Dislipemia
+-	Insuficiencia renal crónica
+
+
+TRATAMIENTO Y RECOMANACIONS A L'ALTA
+Medicación al alta:
+-	Augmentine 500/125 mg cada 8 horas hasta el día 4/10/17.
+-	Adiro 100 mg/día
+-	Omeprazol 40 mg/día.
+-	Adenuric 80 mg/d
+-	Bisoprolol 5mg/d,
+-	Hidroferol c/15d
+-	Hibor 2500UI/d
+-	Quetiapina 12,5 mg/noche
+-	Pazital (paracetamol+tramadol)
+-	Prednisona 2,5 mg/d
+-	Simvastatina 20mg/d
+-	Valsartan+HCTZ 160+12,5mg/d. En función de control de TA (durante el ingreso no lo ha requerido).
+* Control por sus médicos habituales Recomendaciones generales
+1.	Tratamiento de la hipertensión arterial, manteniendo cifras por debajo de 140/90; en caso de ser diabético, cifras por debajo de 130/85.
+2.	Abandono completo del hábito tabáquico.
+3.	Control y tratamiento de las enfermedades cardiacas (cardiopatía isquémica, insuficiencia cardiaca, arritmias y valvulopatías).
+4.	Evitar consumo excesivo de alcohol (se permite una o dos bebidas al día).
+5.	Vigilancia y tratamiento del perfil lipídico:
+Dieta pobre en grasas, actividad física apropiada.
+Tratamiento farmacológico si precisa para mantener niveles de LDL<100mg/dl.
+6.	Control de la glucemia, que debe ser <126mg/dl en ayunas, con dieta, antidiabéticos orales o insulina si precisa.
+7.	Realizar actividad física, 30 a 60 minutos, de tres a cuatro veces a la semana.
+
+8.	Continuar el tratamiento antiagregante o anticoagulante a las dosis recomendadas, siguiendo los controles necesarios.
+
+
+
+Responsable clínic: Dra. _NAME_ (NºCol. _ID_)
+Equip mèdic: _NAME_ (NºCol. _ID_)
+
+Servei que ha donat d'alta:
+NEURO - UNITAT ICTUS HOSP	Data d'alta:
+29.09.2017	Nom del metge que informa de l'alta:
+Dra. _NAME_ (NºCol. _ID_)
+
+
+_LOCATION_, 29.09.2017
+Pàg. 1 de   5

@@ -1,0 +1,85 @@
+_LOCATION_
+email: _CONTACT_ Telèfon _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 85 Anys
+NIF/DNI: _ID__NAME_; _NAME_, _NAME_; 
+_NAME_
+Informe d'epicrisi
+00:30:41
+13.09.2017
+_LOCATION_
+_SS_ UNITAT D'ICTUS
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_; _CONTACT_
+DOMICIL/RES.SOC 10.09.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Pacient que ingressa per sospita d'Ictus.
+
+ANTECEDENTS
+Al·lèrgies:Sense al·lèrgies conegudes
+
+Altres antecedents: Enfermedad de Parkinson de reciente diagnóstico, orientada como de origen probablemente vascular. TC craneal reciente con infartos lacunares crónicos.
+Obesidad.
+
+Rankin previ:3 ,Vive con su maridio. Independiente para las actividades básicas de la vida diaria, necesita ayuda para algunas instrumentales. Deambula con andador por caídas frecuentes secundarias a inestabilidad por E. Parkinson. mRS 3.
+
+MEDICACIÓ HABITUAL
+Madopar 250/50, Adiro 100mg
+
+PROCÉS ACTUAL
+Mujer de 85 años de edad con antecedentes descritos, presenta de forma brusca a las 19:30h del día 10/9/2017 cuadro de debilidad de extremidades izquierdas y dificultad para la articulación del lenguaje. Avisan al SEM, quienes la trasladan sin activar código ictus. Hora de aviso a Guardia de Neurología 20:40h. Hora de TC 21:10h (TC retrasado por encontrarsela paciente sin vía periférica y con vómitos incohercibles).
+
+EXPLORACIÓ FÍSICA
+
+EXP. FÍSICA A URG: PAS189 , PAD 90 mmHg // FC de103 bpm
+
+Constantes: TA 189/90 mmHg, FC 103 lpm, SatO2 96% (aa).#
+Regular estado general. Normohidratada, normocoloreada, bien perfundida. ACV: tonos cardíacos rítmicos, no ausculto soplos. Sin signos de IC. AR: eupneica en reposo. Murmullo vesicular conservado sin estertores sobreañadidos. Abdomen blando y depresible, no doloroso a la palpación superficial ni profunda, sin signos de peritonismo.#
+EN: Vígil, alerta, orientada. No déficits para la emisión, comprensión ni repetición del lenguaje. Disartria moderadapero inteligible (1). DOC D (2). HHI (2). PICNR. PFSN I (2). No hipoestesia facial. Hemiparsia braquio 2/5 (3) crural 3/5 (2) con mano caída (+1) izquierda. Sensibilidad sin déficits objetivables. Heminegligencia y anosognosia (2).
+
+EXP. FÍSICA A Ingress
+TA 172/82 FC 82
+Estuporosa, localiza dolor con extremidades derechas, no moviliza extremidades izquierdas, no apertura ocular a
+
+Informe d'epicrisi
+
+
+
+
+la estimulación dolorosa, preferencia hacia la derecha. NIHSS 31
+
+EXPLORACIÓ COMPLEMENTÀRIA
+-TC craneal simple y angioTC: TC craneal que muestra hematoma lobar talámico derecho de 2,9x4x4,6 cm de diámetros (26 cc) con extensión ventricular que condiciona dilatación del sistema ventrícular de  predominio derecho y desviación de estructuras de línea media de aprox. 9 mm hacia la izquierda. AngioTC craneal con punto de sangrado activo en el aspecto externo de hematoma (¨spot sign¨).
+-Analítica general: Htes 4.87 x10E12/L, Hb 15.3 g/dL, hto 46.6%, ADE 13.4%, Leucocitos 8.36 x10E9/L (N 60.2%,
+L 27.6%, M 9.1%, E 2.5%, B 0.6%), Plaquetas 234 x10E9/L, Glucosa 107 mg/dL, Urea 35 mg/dL, Cr 0.81 mg/dL,
+FG 66 ml/min, Na 138.7 mmol/L, K 4.26 mmol/L, Ca 9.3 mg/dL, AST 36 UI/L, ALT 14 UI/L, Proteínas 7.7 g/dL. Hemostasia: T Quick 103%, INR 0.98, TTPA 33seg, Fibrinógeno 3.16 g/L.
+-ECG: RS a 110lpm. PR 0.12s. QRS estrecho. Buena progresión de R en precordiales, sin alteraciones de la repolarización.
+
+
+EVOLUCIÓ CLÍNICA
+Mujer de 85 años de edad con antecedentes de Enfermedad de Parkinson de reciente diagnóstico que acude a urgencias por hematoma cortical fronto-parietal derecho muy extenso, con efecto de masa e invasión tetraventricular. La paciente ingresa en la Unidad de ictus para control evolutivo, presentando una evolución desfavorable, con disminución del nivel de cosnciencia y dificultad respiratoria que empeora progresivamente.
+El día 12/9/2017 se decide inicio de medidas de confort dada la presencia de taquipnea y disnea, presentando la paciente una insuficiencia respiratoria aguda progresiva, con apneas cada vez más frecuentes, hasta que finalmente a las 23:22 se constatan signos de ausencia vital . Se realiza ECG en el que presenta asistolia mantenida. Se informa a la familia
+
+DIAGNÒSTICS
+Exitus laetalis:
+-	Causa inmediata: herniación cerebral.
+-	Causa fundamental: hematoma cerebral.
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+13.09.2017
+Pàgina 1 de 2

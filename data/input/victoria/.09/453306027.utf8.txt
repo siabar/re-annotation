@@ -1,0 +1,121 @@
+SERVEI DE NEUROLOGIA
+INFORME DE ALTA
+Unitat d`IctusNº Historia clínica	_ID_
+Fecha de nacimiento
+_DATE_
+C.I.P.	_ID_	Código Centro	_ID_
+Teléfono	_CONTACT_	Dirección	_LOCATION_ Fecha ingreso	21/12/17		_LOCATION_ Fecha de alta	22/12/17	Teléfono	_CONTACT_
+Nº Asistencia	_ID_
+UH	_ID_
+
+
+
+DIAGNÓSTICOS:
+1.	AIT LACI DE ETIOLOGÍA CRIPTOGÉNICA.
+2.	FIBRINOLISIS ENDOVENOSA CON RTPA
+3.	RASH CUTÁNEO POR CONTRASTE
+4.TABAQUISMO
+
+Sin AMC. Paciente mujer de 41 años. Autonoma y independiente para ABVD. mRS 0 No alergias medicamentosas conocidas. Alérgica al contraste yodado.
+Hábitos tóxicos: Fumadora
+
+
+
+PROCEDIMIENTOS:
+Ingreso en Unidad de ictus Fibrinolisis con alteplase
+TAC craneal+angioTAC+TC perfusión RMN craneal
+Doppler transcraneal
+
+ANTECEDENTES:
+-	Asma  bronquial:  espirometria  diagnostica  en  2007.  Última  espirometria  (08/2015):  PFR  sense alteracions; FEV1/FVC 75%, FEV1 96%, FVC 103%, DLCO 80%.
+-	Niega HTA/DLP/DM.
+-	Obesidad
+
+Medicación habitual:
+-	Singulair 1 comp /24h
+
+ENFERMEDAD ACTUAL:
+Paciente de 41 años derivada desde el CAP como código ictus extrahospitalario sin previo aviso, que acude a las 19.58h por notar clínica brusca de parestesias en la EII que progresivamente en los siguientes minutos van ascendiendo hasta llegar a la ESI. No afectación facial ni alteración del lenguaje. La paciente tiene un contexto de estrés anímico en estos días.
+A la exploración la paciente presenta NIHSS de 2 a expensas de hipoestesia braquio-crural izq (1) y hemiparesia crural 4/5 (1). Se realiza TC craneal que no muestra alteraciones ni oclusiones en arterias principales, por lo que se realiza fibrinolisis ev con 9mg en bolus a las 20.19h (tiempo puerta aguja de 21min) y perfusión 76mg.
+
+EXPLORACIÓN FÍSICA:
+-	Exploración física en UCIAS:
+P.Arterial: 120/67 , SatO2: 99% , BMTEST: 80mg/dl
+-	NRL: C y O x 3, MOE`s sin restricciones, campimetría por confrontación sin alteraciones, PPCC conservados, no disartria ni alt lenguaje, hipoestesia braquio-crural izq (1), hemipaesia crural izquierda 4/5 (1). NIHSS 2.
+-	AP. MVC
+Nombre	_NAME_	
+- Exploración física en Unidad de Ictus: TA 130/75
+FC 80lpm Tª 36
+Saturación O2 99% Test de disfagianegativo
+Monitorización ECG Ritmo sinusal Neurológico: NIHSS 0
+
+EXPLORACIONES COMPLEMENTARIAS:
+-	Analítica urgencias (21/12 a las 20.14h):
+-	Tc craneal (21/12 a las 20.14h): No signos de sangrado intracraneal. ASPECTS 10. Estudio angiográfico sin evidencia de oclusiones vasculares visibles en presente estudio. Estudio perfusional sin alteraciones valorables.
+-	ECG: ritmo sinusal a 90lpm, PR normal, QRS estrecho y sin alt en repolarización..:
+-	Doppler transcraneal con suero agitado.Negativo tanto en basal como valsalva para el paso de burbujas.
+-	Analítica de ingreso (fecha; hora): 22-Des-17 08:27 UREA Sèrum 23 mg/dL CREATININA Sèrum 0.60 mg/dL À. ÚRIC Sèrum 6.8 mg/dL SODI Sèrum 140 mmol/L POTASSI Sèrum 4.3 mmol/L CLOR Sèrum 104 mmol/L F. G. ESTIMAT (CKD-E 114 mL/min/1.73 m2 >90 - LDH Sèrum 140 UI/L 37ºC CREATINA KINASA (CK) 54 UI/L 37C BILIRUBINA TOTAL Sèr
+AST (GOT) Sèrum 12 UI/L 37C ALT (GPT) Serum 13 UI/L 37C GAMMA GT (GGT) Sèrum 31 UI/L 37C FOSFATASA ALCALINA S 52 UI/L PROTEÏNES TOTALS Sèr 6.5 g/dL
+ALBÚMINA Sèrum 4.0 g/dL
+COLESTEROL Sèrum 186 mg/dL COLESTEROL LDL Sèrum 134 mg/dL COLESTEROL HDL Sèrum 48 mg/dL TRIGLICÈRIDS Sèrum 70 mg/dL TIROTROPINA (TSH) Sè 0.85 mcUI/mL
+HB GLICOSILADA (A1c) 25.7 mmol/mol HB GLICOSILADA (A1c) 4.5 %
+PROTEÏNA C REACTIVA 0.37 mg/dL HEMATIES 4.36 x10^6/uL HEMOGLOBINA 14.2 g/dL HEMATÒCRIT
+42.8 % HEMOGRAMA NORMAL VSG (1 hora) 9 mm/hora
+-	RM craneal (22/12/17;10.30H):HALLAZGOS:
+No lesiones con restricción de la difusión que confirmen la presencia de lesión isquémica aguda. No se observan otras alteraciones parenquimatosas, a excepción de escasasa hiperintensidades FLAIR, subcorticales, puntiformes, inespecíficas y de significado patológico incierto.
+Estructuras de la línea media centradas.
+Sistema ventricular de tamaño, morfolgía y situación normal. Cisternas de la base libres.
+Ocupación de seno maxilar, celdas etmoidales y seno frontal izquierdos, sugestivo de sinusopatía inflamatoria.
+CONCLUSIONES:
+No infarto agudo ni otros hallazgos significativos intracraneales. Sinusopatía inflamatoria izquierda.
+
+
+EVOLUCIÓN:
+Se trata de una paciente de 41 años, con factores de riesgo vascular, con cuadro compatible con ictus PACI de ACM derecha, se realiza TC craneal y angio TC urgente que resulta normal y sin oclusiones.
+
+Se realiza tratamiento recanalizador 9mg en bolus a las 20.19h (tiempo puerta aguja de 21min)  y perfusión 76mg.
+Al finalizar la perfusión presenta una recuperación completa con un NIHSS de 0.
+
+El paciente ingresa en Unidad de Ictus para monitorización y estudio neurovascular. Se realiza RMN que descarta lesiones isquémicas. Se propone a la paciente un ingreso de 24h para monitorizar pero firma el alta voluntaria por motivos personales.
+Se valoran al ingreso el estado de ánimo, las necesidades de rehabilitación y se inician fisioterapia y movilización precoces.
+Durante el ingreso evoluciona de forma favorable, manteníendose asintomática. Durante el ingreso se realiza educación sanitaria acerca del ictus.
+No presenta complicaciones.
+No precisa rehabilitación al alta.
+Al alta se mantiene tratamiento antiagregante con TRIFLUSAL 600MG ( por el antecedente de asma) Etiología TOAST INDETERMINADO, Oxford LACI. Al alta NIHSS 0 Rankin 0
+Debe seguir controles en CCEE de Neurología en fecha programada
+
+
+
+
+
+
+
+
+
+
+TRATAMIENTO:
+-TRIFLUSAL 300MG/24H
+
+
+INDICACIONES:
+-	Acudir a la realización de Analítica en fecha programada
+-	Acudir a la visita de control en EECC de neurología en fecha programada
+-Se recomienda control estricto de enfermedades que aumentan el riesgo de ictus: hipertensión arterial, diabetes, colesterol elevado (dislipemia) y enfermedades del corazón. Realizar el tratamiento de forma adecuada según las recomendaciones de su médico.
+-	Abstención de tabaco y alcohol
+-	Seguir una dieta adecuada, con poca sal, evitando grasas, especialmente las saturadas  (grasas animales, aceites y grasas para cocinar).
+-	Evitar la obesidad y el sobrepeso y realizar ejercicio físico moderado de forma regular.
+
+Dr/a.	_NAME_	Dr/a.	_NAME_-
+_NAME_
+Dr/a.	_NAME_
+Metge/essa Resident
+(Nº Colegiado _ID_Metge/essa Resident
+(Nº Colegiado _ID_Metge/essa Adjunt
+(Nº Colegiado _ID_
+
+
+Les seves dades personals s'incorporen en un fitxer d´usuaris a fi del seu tractament sanitari. Pot exercir el seu dret d´oposició, accés i rectificació de les dades inexactes dirigint-se al Servei de Documentació Clínica.
+Sus datos personales se incorporan en un fichero de usuarios para su tratamiento sanitario. Puede ejercer su derecho de oposición, acceso y rectificación de los datos inexactos dirigiéndose al Servicio de Documentación Clínica
+
+_SS_ | NIF _ID_ |_LOCATION_ | Telèfon _CONTACT_ | Fax _CONTACT_ | _CONTACT_
+Pàgina 1 de 3

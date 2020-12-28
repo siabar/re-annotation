@@ -1,0 +1,68 @@
+1/ 2
+
+Cognoms:    _NAME_	Adreça:  _LOCATION_
+Nom:	_NAME_	_LOCATION_
+Edat: 85	Sexe:H	CIP:	_ID_	NIF:	_ID_
+Data naixement:   _DATE_	NHC:	_ID_	NASS:    _ID_
+Telèfon / Mòbil:	_CONTACT_
+
+
+INFORME  D'ASSISTÈNCIA
+
+
+Metge/essa:	_NAME_	Servei:	Neurologia
+Data ingrés:	24/03/ 2017	Data Alta: 31/03/ 2017
+S'informa a:	Metge de família	Núm.  llit: _ID_
+DIAGNÒSTICS:
+1.	Ictus isquèmic de territori ACM dreta d'etiologia probablement aterotrombòtica
+2.	Leucoencefalopatia isquèmica crònica
+3.	Extrapiramidalisme vascular.
+4.	Artritis gotosa.
+5.	HTA.
+6.	Hiperuricèmia.
+
+
+Pacient de 85 anys, ex-fumador de 5-6 cigarretes al dia fins fa 3 anys, sense altres hàbits tòxics ni al.lèrgies medicamentoses conegudes.
+
+ANTECEDENTS  PATOLÒGICS:
+-	HTA de 8-9 anys d'evolució, en tractament amb Enalapril.
+-	Herniorràfia inguinal dreta l'agost-2011.
+-	Hiperuricèmia amb episodis ocasionals d'artritis gotosa.
+
+Tractament habitual: Enalapril 20 mg al dia. Hidroferol 1 ampolla beguda cada 15 dies.
+
+Situació social i funcional: vidu, viu amb les seves dues filles. El pacient és autònom per totes les activitats de la vida diària. Fa vida activa.
+
+MALALTIA ACTUAL:
+El dia 24.03.17, a les 15:00 hores, presenta dificultat per parlar, de manera que se l'entén amb dificultat però també li costa que li surtin totes les paraules. Segons la filla, en aquell moment està poc atent i té una inestabilitat a la marxa, sobretot arrossega més la cama esq. i s'objectiva també dificultat per mobilitzar la mà esq. És portat a Urgències on arriba a les 15:57 hores.
+
+EXPLORACIÓ FÍSICA:
+Conscient i orientat. Normohidratat i normocolorit. TA a Urgències 151/90. Afebril. AC: tons rítmics, no bufs. No signes d'insuficiència cardíaca. AR: MVC. Abdomen: tou i depressible, no dolorós a la palpació.
+NRL: llenguatge normal, amb mínima disàrtria. No dèficits campimètrics per confrontació. Parells cranials normals. Força normal amb lleu hipocinèsia a moviments alternants, discretament més a l'esquerra. ROTs globalment vius, RCP flexors, maniobres de coordinació normals. Marxa a petites passes i mínimament parètica amb cama esq. NIHSS 1.
+
+EXPLORACIONS  COMPLEMENTÀRIES:
+Analítica a Urgències: hemograma, bioquímica i coagulació sense alteracions significatives.
+ Anal ític a d'ingrés : hemograma i bioquímica sense alteracions significatives. Àc. úric 6'8 mg/dl.  ECG: RS a 70x'.
+
+ TAC c ranial d'Urgènc ies : infarts llacunars antics bilaterals a ganglis de la base. Possible hipodensitat càpsulo-lenticular dreta que podria correspondre a llacunar subagut.
+RMN cranial (p endent d 'inform e definit iu ): s'observen diverses lesions isquèmiques agudes de petita mida a territori frontera ACA-ACM dreta, així com a territori profund ACM dreta. A més, lesions cròniques amb leucoaraiosi suggestives de petit vas, i una lesió també isquèmica crònica cortical temporal esquerra.
+Ecodoppler TSA: al bifurcació carotídia dreta, extensa placa concèntrica iso-hiperecogènica  de marges llisos i parcialment calcificada, però sense condicionar estenosi significativa en cap punt. A bifurcació carotídia esq., placa d'ateroma hiperecogènica i amb marges irregulars, però sense estenosi significativa. Vertebrals amb flux en sentit cefàlic i sense alteracions.
+DTC: sense alteracions significatives. Ecocardiograma: sense alteracions significatives.
+
+EVOLUCIÓ:
+El pacient ha seguit una evolució favorable, desapareixent la focalitat neurològica i tornant al seu estat habitual, en què s'evidencia una marxa a petites passes i tronc encorbat cap endavant, que es considera secundari als infarts múltiples que s'observen a la neuroimatge. La RMN, a més de les múltiples lesions cròniques, mostra lesions isquèmiques agudes a territori frontera ACA-ACM i ACM profunda. L'etiologia, amb les proves complementàries realitzades, es considerra probablement aterotrombòtica, pel que s'inicia antiagregant i estatines.
+Al segon dia de l'ingrés ha presentat signes inflamatoris a l'articulació interfalàngica proximal del 2n dit de la mà dreta, observant també signes inflamatoris a la metatarsofalàngica del peu esq. Es comenta amb el servei de Reumatologia qui ho orienta com artritis gotosa i s'inicia el tractament amb Prednisona i Colchicina amb milloria del pacient. A l'alta es recomana iniciar Alopurinol.
+Es dóna d'alta a domicili, recomanant controls pel seu metge de família i es cita a CCEE  de Neurologia. A l'alta, NIHSS 0, Rankin 1.
+
+TRACTAMENT:
+-	Tromalyt 300 mg, 1 comp. al dia.
+-	Omeprazol 20 mg, 1 comp. al dia.
+-	Atorvastatina 40 mg, 1 comp. al vespre.
+-	Prednisona 10 mg al dia fins el dia 02.04.17, 5 mg al dia des del dia 03.04.17 fins el dia 07.04.17 i retirar.
+-	Colchimax 0'5 mg, 1 comp. al dia.
+-	Alopurinol 100 mg, 1 comp. al dia.
+-	Enalapril 20 mg al dia.
+-	Hidroferol 1 ampolla beguda cada 15 dies.
+-
+
+Signat per _NAME_ núm.col: _ID_ Data/ Hora:31-03-2017 12:02

@@ -1,0 +1,143 @@
+T1	Fecha_de_alta 302 312	27.01.2017
+#1	AnnotatorNotes T1	2017-01-27
+T2	Hora_de_alta 313 318	11:30
+#2	AnnotatorNotes T2	11:30
+T3	Fecha_de_ingreso 389 399	21.01.2017
+#3	AnnotatorNotes T3	2017-01-21
+T5	_SUG_Ictus_isquemico 468 483	Ictus isquémico
+T6	_SUG_Arteria_afectada 501 504	ACM
+T7	_SUG_Lateralizacion 505 512	derecha
+T10	_SUG_Etiologia 618 626	habitual
+T12	mRankin_previa 656 662	mRS: 0
+T13	FECHA 794 798	2013
+#13	AnnotatorNotes T13	2013-UNDEF-month-UNDEF-day
+T14	FECHA 937 947	30.12.2017
+#14	AnnotatorNotes T14	2017-12-30
+T15	_SUG_Localizacion 1100 1107	frontal
+T16	_SUG_Lateralizacion 1108 1117	izquierda
+T17	_SUG_Lateralizacion 1655 1664	izquierda
+T18	_SUG_TAC_craneal 1916 1918	TC
+T19	FECHA 1943 1951	18.01.17
+#19	AnnotatorNotes T19	2017-01-18
+T20	_SUG_ASPECTS 2126 2133	aspecto
+T23	Tratamiento_antiagregante_hab 2290 2293	AAS
+T25	Tratamiento_antiagregante_hab 2328 2334	Pletal
+T26	_SUG_Ictus_isquemico 2466 2471	ictus
+T27	_SUG_Lateralizacion 2500 2509	izquierdo
+T28	Fecha_llegada_hospital 2567 2575	21.01.17
+#28	AnnotatorNotes T28	2017-01-21
+T29	Hora_inicio_sintomas 2582 2586	1.00
+#29	AnnotatorNotes T29	01:00
+T30	_SUG_Ictus_isquemico 2607 2612	ictus
+T31	HORA 2619 2624	12:25
+#31	AnnotatorNotes T31	12:25
+T32	Hora_llegada_hospital 2659 2664	12:40
+#32	AnnotatorNotes T32	12:40
+T33	_SUG_Lateralizacion 2949 2956	derecha
+T34	_SUG_Lateralizacion 3004 3013	izquierda
+T35	_SUG_Lateralizacion 3038 3047	izquierda
+T36	_SUG_Lateralizacion 3066 3075	izquierda
+T37	_SUG_Localizacion 3110 3118	parietal
+T38	_SUG_Lateralizacion 3137 3146	izquierda
+T40	NIHSS_previa 3163 3204	NIHSS=(0.0.0)1.2/1(1.0)(0.0)/0. 1.0.1.1=8
+T41	_SUG_Localizacion 3456 3464	profunda
+T43	_SUG_Lateralizacion 3604 3613	izquierda
+T44	_SUG_Lateralizacion 3683 3692	izquierda
+T45	_SUG_NIHSS_alta 3694 3734	NIHSS: 0,0,0,0,2//1,0,1,0,0//0,2,0,1,2=9
+T46	_SUG_NIHSS_previa 3694 3734	NIHSS: 0,0,0,0,2//1,0,1,0,0//0,2,0,1,2=9
+T47	_SUG_Lateralizacion 3894 3903	izquierda
+T48	_SUG_Lateralizacion 3955 3964	izquierda
+T49	_SUG_Lateralizacion 4056 4065	izquierda
+T50	_SUG_Lateralizacion 4116 4123	derecha
+T51	_SUG_Lateralizacion 4200 4209	izquierda
+T52	_SUG_NIHSS_alta 4313 4356	NIHSS: 0-0-0-0-2//1(0-1)-(0-0)//0-0-0-1-2=7
+T53	_SUG_NIHSS_previa 4313 4356	NIHSS: 0-0-0-0-2//1(0-1)-(0-0)//0-0-0-1-2=7
+T54	FECHA 4405 4415	21/01/2017
+#54	AnnotatorNotes T54	2017-01-21
+T55	FECHA 4535 4545	21/01/2017
+#55	AnnotatorNotes T55	2017-01-21
+T56	FECHA 4975 4984	21/1/2017
+#56	AnnotatorNotes T56	2017-01-21
+T57	HORA 4985 4990	13:03
+#57	AnnotatorNotes T57	13:03
+T59	_SUG_Ictus_isquemico 4994 5009	Ictus isquémico
+T60	_SUG_Localizacion 5010 5018	parietal
+T61	_SUG_Lateralizacion 5019 5026	derecho
+T62	_SUG_Localizacion 5076 5083	frontal
+T63	_SUG_Lateralizacion 5084 5093	izquierda
+T65	FECHA 5170 5179	23/1/2017
+#65	AnnotatorNotes T65	2017-01-23
+T66	FECHA 5624 5634	23/01/2017
+#66	AnnotatorNotes T66	2017-01-23
+T67	_SUG_Lateralizacion 5648 5657	izquierdo
+T68	_SUG_Lateralizacion 5852 5853	I
+T69	_SUG_Lateralizacion 5864 5873	izquierda
+T70	FECHA 5875 5885	21/01/2017
+#70	AnnotatorNotes T70	2017-01-21
+T72	_SUG_Lateralizacion 6051 6060	izquierda
+T73	FECHA 6062 6066	2013
+#73	AnnotatorNotes T73	2013-UNDEF-month-UNDEF-day
+T74	_SUG_TAC_craneal 6117 6119	TC
+T75	FECHA 6155 6165	21.01.2017
+#75	AnnotatorNotes T75	2017-01-21
+T76	_SUG_Lateralizacion 6196 6206	izquierdas
+T77	_SUG_Lateralizacion 6344 6351	derecha
+T78	_SUG_Lateralizacion 6377 6386	izquierdo
+T79	_SUG_Lateralizacion 6405 6414	izquierda
+T80	_SUG_NIHSS_alta 6429 6439	NIHSS de 8
+T81	_SUG_NIHSS_previa 6429 6439	NIHSS de 8
+T82	_SUG_Localizacion 6672 6680	parietal
+T83	_SUG_Lateralizacion 6681 6688	derecha
+T84	Arteria_afectada 6721 6723	M2
+T85	_SUG_Lateralizacion 6724 6731	derecha
+T86	_SUG_Localizacion 6802 6809	frontal
+T87	_SUG_Lateralizacion 6810 6819	izquierda
+T89	_SUG_Ictus_isquemico 6870 6885	ictus isquémico
+T90	_SUG_Trombectomia_mecanica 7038 7062	tratamiento endovascular
+T91	_SUG_Tratamiento_anticoagulante_alta 7147 7158	enoxaparina
+T92	_SUG_Tratamiento_anticoagulante_hab 7147 7158	enoxaparina
+T93	_SUG_Ictus_isquemico 7205 7210	Ictus
+T94	_SUG_Ictus_isquemico 7324 7329	ictus
+T95	_SUG_Etiologia 7342 7354	hipertensión
+T96	FECHA 7763 7773	18/01/2017
+#96	AnnotatorNotes T96	2017-01-18
+T97	_SUG_Ictus_isquemico 8138 8143	Ictus
+T98	_SUG_Lateralizacion 8240 8249	izquierda
+T99	Test_de_disfagia 8502 8518	test de disfagia
+T100	_SUG_Ictus_isquemico 8620 8625	ictus
+T101	_SUG_Arteria_afectada 8643 8646	ACM
+T102	_SUG_Lateralizacion 8647 8654	derecha
+T103	_SUG_Etiologia 8680 8693	protrombótico
+T104	NIHSS_alta 9003 9046	NIHSS: 0-0-0-0-2//1(0-1)-(0-0)//0-0-0-1-2=7
+T106	mRankin_alta 9047 9056	Rankin: 3
+T108	Ictus_isquemico 9090 9095	Ictus
+T109	Arteria_afectada 9099 9102	ACM
+T110	Lateralizacion 9103 9110	derecha
+T111	Etiologia 9136 9149	protrombótico
+T115	HORA 9376 9386	6 horas 20
+#115	AnnotatorNotes T115	6:20
+T116	Tratamiento_antiagregante_alta 9497 9500	AAS
+T118	_SUG_Lateralizacion 9872 9881	izquierda
+T120	FECHA 10310 10320	27.01.2017
+#120	AnnotatorNotes T120	2017-01-27
+T121	SECCION_MOTIVO_DE_INGRESO 453 467	MOTIU D'INGRÉS
+T122	SECCION_ANTECEDENTES 515 526	ANTECEDENTS
+T123	SECCION_TRATAMIENTO_HABITUAL 2271 2289	MEDICACIÓ HABITUAL
+T124	SECCION_PROCESO_ACTUAL 2422 2435	PROCÉS ACTUAL
+T125	SECCION_EXPLORACIONES_COMPLEMENTARIAS 4360 4385	EXPLORACIÓ COMPLEMENTÀRIA
+T126	SECCION_EVOLUCION 5915 5931	EVOLUCIÓ CLÍNICA
+T127	SECCION_DIAGNOSTICOS 9072 9083	DIAGNÒSTICS
+T128	SECCION_TRATAMIENTO_Y_RECOMENDACIONES_AL_ALTA 9239 9274	TRACTAMENT I RECOMANACIONS A L'ALTA
+T129	SECCION_CONTROL 9784 9791	CONTROL
+T4	Fecha_inicio_sintomas 2567 2575	21.01.17
+#4	AnnotatorNotes T12	0
+#5	AnnotatorNotes T40	8
+#6	AnnotatorNotes T104	7
+#7	AnnotatorNotes T106	3
+T39	SECCION_EXPLORACIONES_COMPLEMENTARIAS_EN_URGENCIAS 4386 4399	En Urgencias:
+T8	SECCION_ANTECEDENTES_PATOLOGICOS 665 689	ANTECEDENTES PATOLÓGICOS
+T9	SECCION_EXPLORACION_FISICA 2741 2765	EFCXPL90ObRpAmCIÓ FÍSICA
+T11	SECCION_EXPLORACION_FISICA_EN_URGENCIAS 2811 2823	En Urgencias
+T21	SECCION_EXPLORACION_FISICA_DURANTE_HOSPITALIZACION 3467 3491	En Unidad de Ictus Agudo
+T22	SECCION_EXPLORACIONES_COMPLEMENTARIAS_EN_PLANTA_DE_NEUROLOGIA 5122 5146	En Unidad de Ictus Agudo
+T58	SECCION_DESTINO_AL_ALTA 10190 10209	DESTINACIÓ A L'ALTA

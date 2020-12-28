@@ -1,0 +1,95 @@
+I.CLINIC DE NEUROCIÈNCIES NEUROLOGIA
+_NAME_	NHC: _ID_
+
+Sexo/Sexe: Masc.	Fecha nac./Data naix.: _DATE_	Edad/Edat: 44 años
+Dirección/Adreça: _LOCATION_		CP: _LOCATION_
+Municip. (Prov.): _LOCATION_	ABS:_SS_	Tel.:_CONTACT_
+As.: SERVEI CATALA DE LA SALUT	CIP: _ID_	NASS: _ID_
+Nº epis.: _ID_	Tipo/Tipus: HOSPIT.	Inici.: 02.09.2017
+Serv: NEUROLOGIA	UO Enf.: I064 SALA G DE NEUROL. INTE	Hora: 21:59:16
+Facult. de ref.: _NAME_		
+
+
+Tipo ingreso/Tipus ingrés: Urgent	Motivo/Motiu alta: Dom. Familiar
+Diag.:
+HEMATOMA GANGLIOS BASALES DERECHOS ()
+Proc.:
+TC CRANEAL ()
+
+
+
+
+INFORME CLÍNICO ALTA / INFORME CLÍNIC ALTA
+
+Motivo de consulta / Motiu de consulta
+Debilidad de extremidades izquierdas
+
+Antecedentes e historia previa / Antecedents i història prèvia
+Antecedentes personales:
+Hombre de 44 años sin alergias medicamentosas. Tabaco esporádico y enol social. Independiente para las actividades de la vida diaria (mRS: 0).
+
+
+** ANTECEDENTES PATOLÓGICOS:
+
+1.	DISLIPEMIA en tratamiento con medidas higiénico-dietéticas.
+
+2.	ABSCESOS ABDOMINALES. No consta informe.
+
+3.	FÍSTULA ANAL intervenida hace 2 años.
+
+4.	APENDICITIS AGUDA intervenida hace 6 años.
+
+
+** TRATAMIENTO HABITUAL: Rabeprazol 20 mg/d, mebeveriva (duspatalin) 135 mg 1-1-1 (antiespasmódico).
+
+Proceso actual / Procés actual
+El 02/09/17 a las 20:50h, en el contexto de una situación estresante, presenta debilidad súbita de extremidades izquierdas, motivo por el cual avisan al SEM y es traído a nuestro centro como Código Ictus extramuros.
+02/09/2017-22:00:00: Frecuencia respiratoria (rpm) 14, Glicemia capilar (mg/dl) 114, PAS (mm Hg) 132, PAD (mm Hg) 87, Pulsioximetría (%) 99, Tª axilar (ºC) 35.9.
+EXPLORACIÓN NEUROLÓGICA A SU LLEGADA AL _SS_: Consciente y orientado en las 3 esferas. Lenguaje normofluente sin rasgos de afasia. Disartria leve. Hemianopsia homónima izquierda densa. Mirada con preferencia a la derecha que completa excursión visual. Hemiparesia facio (total) braquio (0/5) crural (2/5) izquierda. Anestesia braquiocrural izquierda con hipoestesia de 2/3 inferiores de hemifacies ipsilateral. Dismetrías no valorables. Inatención de hemicuerpo izquierdo. NIHSS: 17.
+
+Laboratorio / Laboratori
+*	ANALÍTICA SANGUÍNEA: Hemograma, función renal, ionograma, hemostasia y niveles de ácido fólico y vit. b12 y perfil tiroidal sin alteraciones. Hemoglobina glicada de 5,6% Pefil lipídico: LDL 120 HDL 43. GGT de 179 con resto de perfil hepático normal.
+
+Radiología / Radiologia
+*	RM CEREBRAL CON ANGIO-RM: Hematoma de ganglios basales derecho, de aproximadamente 20x 42 mm, con halo de edema, en el que predomina el edema vasogenico, sin otras lesiones subyacentes. En el estudio angio-RM intracraneal arterial no se aprecian alteraciones destacables.
+* TC CRANEAL: Hematoma parenquimatoso temporal profundo derecho de 36x22mm con escaso edema perilesional asociado. Sin otras alteraciones significativas en el parénquima encefálico.
+
+Exploraciones complementarias / Exploracions complementàries
+*	EKG: Ritmo sinusal a frecuencia normal. QRS estrecho con morfología de bloqueo incompleto de rama derecha. Eje levemente izquierdo. No alteraciones de la repolarización.
+
+Evolución / Evolució
+1. HEMATOMA DE GANGLIOS BASALES DERECHOS.
+A su llegada normotenso y afebril. En la exploración neurológica se aprecia síndrome hemisférico derecho extenso (NIHSS: 17).
+La analítica sanguínea mostraba una leve leucocitosis de 13000 con neutrofilia sin otras alteraciones. El ECG estaba en ritmo sinusal. En la neuroimagen (TC craneal) se observa un hematoma de 15 cc que comprendía el núcleo lenticular y brazo posterior de la cápsula interna derechos. Se realiza RM cerebral donde no se aprecian lesiones subyacentes.
+Se trata de un hematoma de ganglios basales derechos en probable relación a pico hipertensivo.
+Durante su estancia en la Unidad de Ictus experimenta franca mejoría clínica. En el momento del alta presenta paresia facial moderada, hemiparesia izquierda (3/5 en ambas extremidades) e hipoestesia de ese lado (NIHSS de 7).
+Se considera un paciente tributario de rehabilitación intensiva, por lo que ante su estabilidad clínica se decide derivación al _SS_.
+
+Plan terapéutico / Pla terapèutic
+Enalapril 5mg al día. Hidróxido de magnesio 3,6g al día.
+
+Otras recomendaciones / Altres recomanacions
+Control estricto de la tensión arterial. Completar estudio ambulatorio según citas adjuntas.
+
+
+
+Firma/Signatura1: _NAME_	Firma/Signatura2: _NAME_ Categoría: Resident 2	Categoría: Espec. Senior
+Nº Matrícula _SS_: _ID_	Nº Matrícula _SS_: _ID_
+
+
+
+Fecha/Data Informe: 07.09.2017
+Hora Informe: 10:28:19
+
+Docum.: _ID_
+Hist. Clínica: _ID_
+El _SS_ ha incorporado sus datos al Fichero de Pacientes, para tratarlos con fines sanitarios.
+Puede ejercer sus derechos de acceso, rectificación, cancelación y oposición, así como obtener mas información en la Unidad de Atención al Cliente.
+Vers. 00
+Pag. 2 de
+3
+Episod.: _ID_
+_SS_ ha incorporat les seves dades al Fitxer de Pacients, per a tractar-los amb finalitats sanitàries. Pot exercir els seus drets d'accés, rectificació, cancel·lació i oposició, i obtenir més informació a la Unitat d'Atenció al Client.
+_SS_
+_LOCATION_) _LOCATION_) Tel. _CONTACT_ Fax _CONTACT_
+http://_CONTACT_/

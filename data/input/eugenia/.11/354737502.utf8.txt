@@ -1,0 +1,139 @@
+_LOCATION_ Tel. _CONTACT_
+e-mail: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 65 Anys
+NIF/DNI: _ID__NAME_; _NAME_; 
+_NAME_; _NAME_; _NAME_;
+Informe d'alta d'hospitalització
+12:51:10
+29.03.2017
+_LOCATION_
+_SS_ NEUROLOGIA
+ABS
+Servei Data d'alta
+_CONTACT_
+DOMICIL/RES.SOC 26.03.2017
+_LOCATION_
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Hemiparesia e hipoestesia izquierda.
+
+ANTECEDENTS
+ANTECEDENTES PERSONALES
+Posbible alergia al diclofenaco segun un informe previo, ademas del paracetamol segun refiere la hija, asi como al ibuprofeno, no tiene estudio de alergias. Consta intolerancia a la "Lyrica". Su familia refiere que es intolerante a muchas otras medicaciones, y que ahora toma solo medicamentos "naturales". Sin habitos toxicos.
+
+ANTECEDENTES PATOLOGICOS
+-	Niega hipertensión arterial, diabetes o dislipemia (pero ha tenido varios episodios de crisis hipertensiva, según refiere, aunque la paciente no toma antihipertenivos)
+-	Cefalea migrañosa en la juventud.
+-	Cervicalgia y dorsalgia.
+-	Histerectomia con conservacion de anexos.
+-	Cesárea.
+-	Familiares explican que ronca por las noches con algún episodio que sería compatible con apnea.
+
+Situación funcional: Autonoma para todas las acividades básicas de la vida diaria. En historial electrónico consta baja laboral desde noviembre 2015 con diagnóstico de hallux valgus adquirido, abierta.
+
+MEDICACIÓ HABITUAL
+Paracetamol 1g.
+
+PROCÉS ACTUAL
+Explica que sobre las 10:00h de la mañana del 26.03.2017 comienza con cefalea de características similares a su migraña habitual con sonofotofobia con la peculiaridad de notar parestesias en hemicara izquierda            por lo que vuelve a  la cama para descansar como hace habitualmente cuando tiene migraña. Cuando despierta a las 17:40h la paciente presenta imposibilidad para movilizar las extremidades izquierdas junto a acorchamiento de dichas extremidades por lo que avisan al SEM, que activa código ictus llegando a nuestro centro a las 18:15h.
+
+EXPLORACIÓ FÍSICA
+
+FC	95 bpm
+Tªaxi 36.5 ºC
+FR	rpm Tªrec  ºC
+TA s	192 mmHg SAT O2 98 %
+TA d   102 mmHg Pes Kg
+
+En Urgencias:
+Glicemia capilar: 98mg/dL.
+Exploración neurológica: Cosciente y orientada. Poco colaboradora por la cefalea. No alteración del lenguaje. DIsartria moderada. Leve paresia facial izuqierda. No alteración de la oculomotricidad ni capimétrica. Hipoestesia faciobraquiocrural izquierda. Paresia grave de extremidades izquierdas. RCP flexor bilateral.
+
+Informe d'alta d'hospitalització
+
+
+NIHSS: (0.0.0).0.0//1.(0.3).(0.2)//0.1 .0.1.0 = 8.
+
+AC: Ruidos cardiacos ritmicos sin soplos ni roce. AR: MVC sin ruidos sobreañadidos.
+
+En Unidad de Ictus Agudo:
+Consciente, orientada, colaboradora. Isocoria normorreactiva. Disartria fluctuante que desaparece a medida que progresa la exploración, no elementos afásicos. Campimetría por confrontación normal. MOE sin paresias, no nistagmos. Pares craneales normales.Hemiparesia izquierda incongruente, sin déficit de fuerza tras maniobras de distracción. Hemihipoestesia izquierda justo en línea media. RCP flexor bilateral. No dismetría. Marcha cautelosa, sin ataxia ni elementos patológicos.
+NIHSS: 0,0,0,0,0//0,0,0,0,0//0,1,0,0,0=1
+AC: rímitca. AP: MV conservado. Abdomen: blando, depresible, no doloroso. EEII: no edema ni signos de TVP.
+
+En planta de neurología: Consciente, orientada en tres esferas, sin afasia, apraxias ni agnosias, campimetría por confrontación sin alteraciones, oculomotricidad conservada, pupilas isocóricas normorreactivas, sin paresia facial ni en extremidades, sin alteraciones sensitivas valorables. Marcha conservada. RCP flexor bilateral. RMPs conservados, simétricos. AC: tonos cardíacos rítmicos, sin soplos. AR: MVC. Abdomen: blando, globuloso, depresible, indoloro. NIHSS = 0.
+
+EXPLORACIÓ COMPLEMENTÀRIA
+En Urgencias:
+
+-	Analitica de urgencias: Hemograma sin alteraciones.
+Bioquímica con iones y glicemias dentro de rango unicamente minimamente elevada la PCR (8).
+
+-	ECG: ritmo sinusal , FC 95 lpm, QRS estrecho sin alteraciones de la repolarización.
+
+-TC craneal: Pérdida del contorno del núcleo talámico derecho a valorar con lesión isquémica focal y correlacionar con la clínica. Cisternas basales y perimesencefálicas libres. Línea media centrada. Sistema ventricular simétrico de tamaño y morfología conservados. Sin alteraciones óseas TC valorables. No se aprecian otras alteraciones intra ni extraaxiales TC valorables.
+
+-	Estudio neurosonologico: se insonan ambos ejes carotideos objetivando ACC, ACE y ACI con flujos normales, no se objetivan placas ateromatosas, en carotida comun leve aumento del grosor íntima-media. Se insonan a nivel intracraneal ambas ACMS, ACAS Y ACPs con permeabilidad de todos los vasos con flujos simétricos sin aceleraciones del flujo (no se logra insonar segmento P1 de ACP izquierda(asintomática). No se logra insonar basilar.
+
+En Unidad de Ictus Agudo:
+
+-	Analítica:
+Hemograma: Leucocitos 6500 (55.9% neutrófilos, 33.9% linfocitos), Hemoglobina 12.9 g/dL, Plaquetas 200000.
+Coagulación: TP 11.2s, 95%, ratio 1.04, INR 1.04; TTPA 28.6s, ratio 0.92; Fibrinógeno 376 mg/dL.
+Bioquímica: Glucosa 86 mg/dL, Hemoglobina glicosilada  5.7%, Proteína 60.1 g/L, Albúmina 36.3 g/L, Urea 26
+mg/dL, Creatinina  0.66  mg/dL  (FG  >90),  Sodio  142.5  mmol/L, Potasio  4.14  mmol/L, Bilirrubina 0.6  mg/dL,
+
+Informe d'alta d'hospitalització
+
+Fosfatasa alcalina 92 U/L, ALT 25 U/L.
+Perfil lipídico: Triglicéridos148 mg/dL, Coelsterol 176 mg/dL. Perfil tiroideo: T3 0.9 ng/mL, TSH 3.531, tiroxina libre 0.91 ng/dL.
+
+-	RM cerebral: No se aprecian lesiones isquémicas agudas o recientes. Tampoco se aprecian evidentes lesiones isquémicas crónicas con afectación cortical o lacunares, ni afectación hipóxico-isquémica relevante de la sustancia blanca. No se aprecian hemorragias o microhemorragias, ni otros depósitos minerales anómalos. Parénquima cerebral que no muestra otras alteraciones relevantes de la señal. Sistema ventricular de tamaño y morfología normales. Cisternas de la base patentes y libres. No se aprecian efectos de masa, ni otras alteraciones morfológicas relevantes. Vasos intracraneales que muestran vacío de señal en T2, sugiriendo permeabilidad.Conclusión: No se observan lesiones isquémicas recientes, ni otros hallazgos relevantes en las apariencias intracraneales.
+
+-	RM cervical: Se realiza estudio desde la unión craneocervical hasta D5 en los planos sagital y axial, utilizando diferentes secuencias. Hallazgos: Cuerpos vertebrales que muestran altura conservada y señal ósea normal. Correcta alineación. No se observan imágenes que sugieran hernia focal. Cambios uncodiscartrósicos en los niveles cervicales bajos, en grado moderado. Artrosis facetaria moderada en los niveles cervicales altos y medios. Las articulaciones interapofisarias no muestran otros hallazgos relevantes. El canal muestra diámetros normales, sin ocupaciones relevantes. Estrechez foraminal en C5 izquierdo, y ambos C6, aunque sin estenosis franca definitiva. El cordón medular no muestra alteraciones relevantes de señal o morfología. Los tejidos blandos paravertebrales observados no muestran hallazgos relevantes.  Conclusión: Moderados cambios degenerativos unocodiscartrósicos en niveles cervicales bajos y facetarios en niveles cervicales medios y altos. No se aprecia afectación relevante del canal, aunque sí cierta estrechez de algunos forámenes.
+
+-	Radiografía de tórax: Hasta donde es posible valorar, sin infiltrados pulmonares ni derrame pleural, ni signos de insuficiencia cardíaca izquierda.
+
+EVOLUCIÓ CLÍNICA
+Se trata de paciente de 65 años, que niega factores de riesgo cardiovascular, que es traída por hemiparesia de extremidades izquierdas de horario de inicio desconocido. A su llegada a urgencias, paciente muy hipertensa TAS/TAD 198/102, afebril con glicemias correctas. A la exploración neurológica presenta un síndrome
+sensitivo-motor izquierdo. Se le realiza TC craneal que no muestra claras lesiones parenquimatosas agudas y se completa estudio con doppler que muestra permeabilidad de todos los vasos tanto intra como extracraneales. Se orienta como posible ictus isquémico de territorio de ACP derecha clinicamente síndrome sensitivo motor (LACI). Dado que el horario de inicio es desconocido y la paciente no presenta oclusión de gran vaso no es candidata a terapias de reperfusión aguda, por lo que se decide ingreso en la unidad de ictus para control clinico, metabolico y hemodinámico.
+
+Durante su estancia en la unidad presentó cifras aisladas de tensión sistólica de hasta 160mmHg que no precisaron medicación de rescate y se normalizaron en los siguientes días. El resto de constantes se mantuvieron dentro de la normalidad. La monitorización continua no reveló alteraciones del ritmo cardíaco potencialmente embolígenas.
+
+Informe d'alta d'hospitalització
+
+En la exploración inicial la paciente presenta un déficit sensitivo-motor izquierdo no congruente, con fuerza conservada con la distracción y hemihipoestesia que cambia en la línea media. Además destaca bajo estado de ánimo de la paciente. Dados los hallazgos exploratorios y la atipicidad del cuadro (inicio con cefalea) se orienta como un cuadro funcional probablemente conversivo. Al revalorarla posteriormente, sin haber realizado tratamietno alguno, la paciente se encuentra completamente asintomática y el examen neurológico es estrictamente normal.
+
+Dentro del estudio se realizó una analítica completa que no mostró alteraciones significativas. La radiografía de tórax es normal. Se realizó una RM cerebral que no muestra alteraciones patológicas y una resonancia cervical (desde unión craneocervical hasta D5), que no muestra alteraciones patológicas significativas a nivel de estructuras nerviosas y presenta algunas estrecheces foraminales no significativas que no se correlacionan con la clínica ni son sintomáticas actualmente.
+
+Se decide alta a domicilio.
+
+Al alta: NIHSS = 0, Barthel 100.
+
+DIAGNÒSTICS
+300.11/18 Reaccio de conversio
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Sin cambios.
+
+Se recomienda respetar indicaciones de médico de cabecera.
+
+CONTROL
+Control con especialistas habituales y médico de cabecera.
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+29.03.2017
+Pàgina 1 de 4

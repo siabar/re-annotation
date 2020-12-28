@@ -1,0 +1,84 @@
+_SS_
+_LOCATION_)  Tlf. _CONTACT_
+INFORME ALTA HOSPITALITZACIÓNHC	_ID_	Pacient	_NAME_	
+CIP	_ID_	Data Naix.   _DATE_	Edat 65	Sexe Home	NASS	_ID_
+Adreça   _LOCATION_	CP	_LOCATION_
+Població_LOCATION_	Tel.	_CONTACT_
+Episodi  _ID_	Admissió	02.11.2017 11:56	Alta	07.11.2017 13:28
+Servei	NEUUO_SS_ Neurologia	Unitat	U04UHHBL
+
+DIAGNÒSTIC ALTA
+
+Codi ICD-9	Descripció Diagnòstic
+435.9	ISQUEMIA CEREBRAL TRANSITORIA INESPECIFI
+272.4/1	DISLIPEMIA
+
+DADES INFORME
+
+Paciente de 65 años que consulta por adormecimiento en hemicuerpo derecho.
+
+Antecedentes:
+
+-	Alergia a la penicilina (erupción cutánea).
+-	No hipertensión arterial, diabetes mellitus, ni dislipemias.
+-	No cardiopatías, ni neumopatías conocidas.
+-	No gastroenteropatías, ni hepatopatías conocidas.
+
++ Situación socio-funcional: vive en domicilio con su esposa. INdependiente para las ABVD. No deterioro cognitivo.
++ Medicación habitual: Lorazepam 1mg 1/24h.
+
+Enfermedad actual
+
+Traido el día 1-11-17como código ictus por sdr hemisensitivo izquierdo de inicio a las 9 h aproximadamente. Valorado por UCI se hdesestima trombolisis por NIHSS bajo, resolviendo los síntomas en torno a las 16-17 h. El 2-11-17 sobre las 9:30 h presenta reaparición de los síntomas.
+
+Exploración física
+
+A nuestra valoración 2-11-17 9:45h : consciente y orientado, lenguaje normal, no disartria, no alteraciones campimetricas, no alteraciones de MOE, no asimetria facial, BM conservado, no dismetrías de miembros, hipoestesia Facio-braquio-crural derecha sin afectación de tronco. NIHSS 1.
+
+Exploraciones complementarias.
+
+-	Analítica: leucos 6.300 (51.80%N, 36.90%L, Neutros totales 3.260), Hb 15.7 g/dl, Hto 47%, plaquetas 153.000, QUic 95%, INR 1.03, Glucosa 106 mg/dl, Cr 54 umol/l, FG >90 ml/min, urea 4.4 mmol/l, Na 142 mEq/l, K 4 mEq/l, AST 18.
+
+-	ECG: ritmo sinusal, 75 lPM, pR 120 ms, QRS estrecho, correcta progresión de la R en precordiales, sin alteraciones agudas de la repolarización.
+
+-	TAC craneal: Cisternas basales y peritronculares libres. Sistema ventricular de tamaño, configuración y posición normal. No se aprecian lesiones a nivel del parénquima cerebral, cerebeloso ni tronco cerebral. No se aprecian colecciones hemáticas intra ni extraaxiales. Estructuras óseas sin alteraciones. Resto sin anomalías.
+CONCLUSIÓN: Examen TC craneal sin alteraciones significativas.
+
+-Duplex TSA/TC:
+
+En los vasos extracraneales no se objetivan estenosis hemodinámicamente significativas. En ambas AV el perfil de flujo no indica ningún signos de estenosis hemodinamicamente significativa.
+VPS/VDF cm/s: izq ACC 70/15, ACI 53/17, AV-V2 34/13. dcho ACC 54/12, ACI 54/16, AV-V2 31/12
+Las M1-ACM, A1-ACA, ACP y ACI intracraneal se encuentran en su localización típica y presentan un flujo simétrico y normal. La AB a través de la ventana transnucal se puede explorar hasta 94 mm de profundidad presentando un flujo correcto. El perfil de flujo de ambas V4-AV es normal.
+VPS/VDF cm/s: izq M1 69/26, A1 62/25, P1 47/20. dcho M1 74/31, A1 56/17, P1 43/21.
+Av-V4 izq 42/19, AV-V4 dcha 42/20. Basilar 52/25 Conclusión
+Estudio dentro de la normalidad.
+
+Evolución
+
+Se trata de un paciente de 65 años sin FRV conocidos que presenta un síndrome hemisensitivo derecho fluctuante. A nuestra exploración se objetiva un síndrome sensitivo NIHSS 1. Se repite TC craneal que no muestra cambios relevantes respecto al inicial y un Doppler TSA y TC que descarta oclusión arterial de gran vaso. Dado clínica leve y ausencia de evidente oclusión arterial se decide mantener actitud conservadora. Se ingresa en UCI para monitorización. El paciente evoluciona hacia la resolucion de los sintomas permaneciendo clinicamente estable durante el resto del ingreso y con correcto control de cifras tensionales.
+Se realiza una RM craneal que no muestra lesiones isquemicas agudas.
+
+Se orienta como AIT sensitivo, iniciándose tratamiento antiagregante con adiro 100 mg al día y se inicia atorvastatina por cifras de colesterol LDL en torno a 140 mg/dl en analiticas previas.
+
+Ante estabilidad clinica se da alta a domicilio.
+
+Se completará estudio meidante ecocardiograma transtoracico y Holter 24h, y tendra control en consulta externa de neurovascular en fecha indicada.
+
+Pauta al alta
+
+Se inicia Adiro 100 mg 1 comp al día, omeprazol 20 mg 1 comp al día, atorvastatina 40 mg 1 comprimido a la noche.
+
+
+Tipus d'ingrés: Motiu d'alta:	Urgent Alt.Mèd.Domicil	
+Metge Adjunt:
+_ID_
+Servei:	_NAME_
+
+NEUUO_SS_ Neurologia	Nº Col·legiat Adjunt:
+
+Data informe:  07.11.2017
+
+
+Pàgina 1 de	2
+Data i hora d'impressió:
+07.11.2017 13:48:43

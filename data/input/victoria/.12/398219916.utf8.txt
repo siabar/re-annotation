@@ -1,0 +1,103 @@
+_SS_
+Informe d'alta Mèdica Servei de Medicina Intensiva
+Full 1 de 3_NAME_
+Llit: _ID_
+Data de naixement: _DATE_	Edat: 69 anys	Sexe: Dona Nº Episodi: _ID_	Nº Història Clínica: _ID_
+Adreça: _LOCATION_
+Telèfon: _CONTACT_
+Al·lèrgies/ Intoleràncies
+Data d'identificació	Severitat	Registrat per
+
+ 	 	
+HIPOACUSIA	No registrat	_NAME_ (Enfermera registrada)
+contraste	No registrat	_NAME_ (Enfermera registrada)
+Cefalosporines	No registrat	_NAME_ (Enfermera registrada)
+Notes:	Cefalosp
+Quinolones	No registrat	_NAME_ (Enfermera registrada)
+Notes:	Quinolones
+AINES	No registrat	_NAME_ (Enfermera registrada)
+Notes:	AINES
+Grup sanguini:
+
+Data d'ingrés SEMI: 30.07.2017 04:43	Data d'alta SEMI: 31.07.2017 16:20	Estada SEMI: 1 dies Procedència:  URGENCIES	Destinació: NEUROLOGIA	Data Intervenció:
+Tipo d'admissió: Urgent
+Resultat SEMI: TRASLADO A PLANTA
+
+Telèfons contacte famílies: _NAME_ Hija	_CONTACT_ Telèfons contacte famílies: _NAME_ Hija	_CONTACT_
+
+
+
+
+168 mmHg
+37 mmHg
+PNIs
+PNId
+61 /min
+98 %
+FC
+SpO2
+31.07.2017
+CONSTANTS A L´ALTA
+
+
+MOTIU D'INGRÉS
+Paciente de 69 años que ingresa per Codigo Ictus.
+
+
+ANTECEDENTS
+Al·lèrgia a AINES, Cefalosporines, Quinolones, yodo.
+Intolerància a AINEs i Ciprofloxacino (quan el pren li apareix vasculitis en les cames).
+HTA.
+DL en ttm dietètic.
+DM tipus 2 en ttm amb ADOs.
+Psoriasis. Segueix control per DER (Dr _NAME_)
+Adenocarcinoma de colon de baix grau sense afectació ganglionar (T2N0M0). Tractada amb IQ + RTP el 2010. Segueix controls a CE d?ONC amb Dr _NAME_.
+EVOLUCIÓ CLÍNICA
+
+EVOLUCIÓ CLÍNICA
+-	Sarcoïdosi diagnosticada per TAC el 2010. Espirometries normals. Broncoscòpia (2010): procés inflamatori difús, citologies negatives per malignitat, biòpsia + amb granulomes no caseificants, BK negatius. Presenta tos i expectoració habituals.
+Primer cultiu positiu per Pseudomona Aeruginosa el 03/10/14, multisensible. Segon cultiu positiu el 08/01/15, també multisensible. No va millorar amb tractament ATBs orals, i finalment es decideix ingrés a HaD per ttm ATB parenteral amb Ceftazidima.
+-	Anèmia ferropènica per la qual fa tandes de Fe oral.
+-	Hiperuricèmia.
+Situación basal: Viu amb la família. Independent per les ABVD. Funcions superiors conservades. MALALTIA ACTUAL
+Paciente mujer de 69 años que acude a urgencias de nuestro centro traida por el SEM en cotexto de codigo ICTUS. Refiere que encontrandose previamente bien, inicia sobre las 20.00h del dia de hoy sensacion de parestesias y dificultad para mobilizar el brazo y pierna izquierdos que se ha mantenido hasta la llegada al hospital.  No fiebre, no dolor toracico ni ninguna otra sintomatologia acompañante.
+
+Se realiza TC craneal urgente que no muestra LOEs ni sangrado. No se puede realizar angioTC por ser presentar alergia al Yodo. Se decide fibrinolizar por no existir contraindicación médica. La paciente recupera ad integrum a los 15 min del bolus por lo que se decide no trasladar _SS_ para rescate intraarterial. Posteriormente ingresa a SEMI.
+
+EXPLORACIÓ FÍSICA
+TA 160/80 mmhg, FC 80x', FR 15x', Sat O2 basal 100%
+AC: bufs sitolic panfocal major intensitat en focu aortic, tons ritmics, no signes d'insuficiencia cardiaca. AR: MVC; no sorolls sobreafegtis
+NEuro: conscient i orientada, hemiparesia 3/5 izquierda (mueve contra gravedad pero claudica). pupilas isocoricas normoreactivas, no afasia de nominacion ni de compresion, hipoestesia hemicuerpo izquierda, no ataxia, no facial, no pares craneales. nishh 8
+
+EXPLORACIONES COMPLEMENTARIAS
+TAC craneal 30/07/17:
+
+
+EVOLUCIÓN
+Presenta recuperación ad integrum, a la exploración no deficids motores ni sensitivos en las 4 extremidades, pupilas isocoricas y reactivas, pares craneales normales, no dismetrias, no afasia ni disartria.
+
+A exploración física destaca soplo sistolico panfocal de mayor intesidad en foco aortico.
+
+
+TAC crani no muestra sangrado intracraneal. Se pauta AAS. Es valorada por logopedia, tiene antecedentes de estenosis esofágica que ha precisado varias dilataciones (última en enero de 2017), seguimiento con Digestivo. De momento no puede deglutir.
+
+Paciente recuperada del ICTUS, altable a planta.
+
+Diagnòstics
+DIAGNOSTIC PRINCIPAL (N.U.)
+MAL.CEREBROVASCULAR AGUDA,MAL DEFINIDA;APOPLEXIA,APOPLECTIC
+Antecedents/Diagnòstics/Procediments
+
+
+La mès nova
+Min
+Máx
+Primera
+Mitja
+Puntuació (SCORES)
+
+
+Atès per:	_NAME_
+Autorizat per:
+
+Impreso: 31.07.2017 16:21

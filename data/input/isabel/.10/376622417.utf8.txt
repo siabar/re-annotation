@@ -1,0 +1,169 @@
+_LOCATION_ Tel. _CONTACT_
+_CONTACT_
+Informe Alta Hospitalització
+_NAME_
+HC: _ID_
+
+>
+
+
+Adreça: _LOCATION_	Data naix.: _DATE_ Població: _LOCATION_	Sexe: MASCULI
+Provincia: _LOCATION_	CIP: _ID_
+País: _LOCATION_	NASS: _ID_
+Telèfon: _CONTACT_ / _CONTACT_	DNI o Tarja Residència: _ID_
+
+
+Servei: Medicina Interna	Data ingrés a URG: 24/05/2017 10:55
+Unitat clínica: Pacient Crònic Complex	Data hospitalització: 25/05/2017 16:13
+Tipus d'ingrés: Urgències	Data alta: 31/05/2017 10:16
+Proveïdor de Serveis: Servei Català de la Salut	Destí: 01 - Alta Domicili
+
+
+
+Diagnòstic principal:
+
+434.91 AVC
+ISQUEMIC
+
+Diagnòstics Secundaris:
+
+787.20 DISFAGIA
+401.9 HTA
+427.31 ACXFA
+272.4 DISLIPEMIA 496 MPOC
+414.9 CARDIOPATIA ISQUEMICA
+268.9 DEFICIT DE VITAMINA D
+
+Procediments:
+
+90.59 ANALITICA SANG
+87.44 RADIOGRAFIA DE TORAX
+89.52 ELECTROCARDIOGRAMA ECG
+87.03 TAC CRANIAL
+
+Pacient de 85 anys d'edat que ingressa per ALTERACIÓ SOBTADA DE LA PARLA (AFÀSIA)
+
+Antecedents:
+
+Malalties prèvies:
+
+ACXFA (Conocida desde 2010. ECO Cardiaca: DTD 50/ DTS29/ TIV 11/ PP 11/. AI 26 cm2. IMI + IT ligeras. PAP 34 mmHg. )
+EPOC (con HRB en tratº BD con 3 fármacos inhaladores. ) HIPERTENSIÓ ARTERIAL
+DISLIPÈMIA
+CARDIOPATIA ISQUÈMICA (Clinica de 4 meses de opresión torácica al esfuerzo que cede con el reposo. No refiere episodios en reposo. Se practicó :
+*ECG: ACxFA 82 lpm. QRS estrecho. ST rectificado en cara inferior.
+*ECO Cardiaca: 48728/10/11. FEVI 70%. AI dilatada (55mm). PAPS 35 mmHG.
+*SPECT miocárdico: 10m protocolo manual. 82% FCMT. Clinica y ECG negativa. sin evidencia de isquemia. FEVI 66%.
+*.
+
+Hàbits saludables:
+
+Activitat física: Camina habitualmente.
+
+Medicació prèvia:
+
+Lormetazepam 2mg/24h, Spiriva 18mcg 1inh/24h, Simvastatina 40mg 0-0-1, Pradaxa 110mg 1c/24h, Nitroderm 10mg/24h, Beglan 25mcg 2ap/12h, Emconcor 2.5mg/24h, Sutril 10mg/24h, Budesonida 200mcg 2ap/12h, omeprazol 20mg/24h.
+
+Anticoagulants: altres pradaxa
+
+Situació funcional:
+
+Situació mental: FFSS conservadas.
+Situació física: Autonom per bàsiques i instrumentals. Surt cada dia va a comprar cada dia...
+
+Antecedents socials i professionals:
+
+Situació social: Casat. Dos fills. Viu amb la seva esposa. No ajuts
+
+Història Actual:
+
+Paciente de 85 años que presenta des de el despertar afasia global y comportamiento alterado. La mujer explica que ayer por la noche ya encontró que hacia cosas que no hace habitualmente pero sin alteración del habla.
+No sabe si toma o no su medicación anticoagulante (pradaxa) lo controla el paciente.
+
+Exploració física:
+
+-	Ctes: 35.5ºC, 70lpm, 121/72mmHg, Glu capilar: 135mg/dl.
+-	BEG, HDE, nh, nc, np. Eupneico al aire.
+-	AC: TC arrítmicos sin soplos.
+-	AR: MVC sin ruidos sobreañadidos.
+-	NRL: afasia global. Resto sin alteraciones.
+
+Resum proves complementàries:
+
+Laboratori:
+
+AS: Leucòcits 6.95 x 10^9/L, Hematies *3.75 x 10^12/L, Hemoglobina *121 g/L, Hematòcrit *0.36 L/L, Volum corpuscular mig 96 fL, Hemoglobina corpuscular mitja 32.3 pg, Conc. Hb. corpuscular mitja 336 g/L, Índex dispersió hematies 12.5 %, Plaquetes 146 x 10^9/L, Volum plaquetar mig 12.9 fL, Índex dispersió de plaquetes *17.2 fL, Plaquetòcrit 0.019 L/L, Neutròfils (%) 60 %, Neutròfils 4.17 x 10^9/L, Limf òcits (%) 27.9 %, Limfòcits 1.94 x 10^9/L, Eosinòfils (%) 2.4 %, Eosinòfils 0.17 x 10^9/L, Basòfils (%) 1.2
+%, Basòfils 0.08 x 10^9/L, Monòcits (%) 8.5 %, Monòcits 0.59 x 10^9/L, Temps protrombina *1.39 ratio, T.Tromboplastina parcial activ 1.8 Tècnicament comprovat. ratio, Glucosa 94 mg/dL, Urea 48 mg/dL, Creatinina 1.1 mg/dL, Sodi 143 mEq/L, Potassi 4 mEq/L.
+
+Sedimento de orina negativa.
+
+
+Analítica d'ingrés: Leucòcits 6.62 x 10^9/L, Hematies *4.03 x 10^12/L, Hemoglobina *126 g/L, Hematòcrit
+*0.38 L/L, Volum corpuscular mig 93.8 fL, Hemoglobina corpuscular mitja 31.3 pg, Conc. Hb. corpuscular mitja 333 g/L, Índex dispersió hematies 12.4 %, Plaquetes 152 x 10^9/L, Volum plaquetar mig 12.9 fL, Í ndex dispersió de plaquetes *17.3 fL, Plaquetòcrit 0.02 L/L, Neutròfils (%) 54.2 %, Neutròfils 3.59 x 10^9/L, Limfòcits (%) 32.6 %, Limfòcits 2.16 x 10^9/L, Eosinòfils (%) 2.3 %, Eosinòfils 0.15 x 10^9/L, Basò fils (%) 1.2 %, Basòfils 0.08 x 10^9/L, Monòcits (%) 9.7 %, Monòcits 0.64 x 10^9/L, Temps protrombina
+*1.27 ratio, T.Tromboplastina parcial activ 1.27 ratio, Àcid fòlic sèric 10.9 ng/mL, Vitamina B12 *844 pg/mL, Urea *52.8 mg/dL, Creatinina *1.24 mg/dL, Sodi 138 mEq/L, Potassi 4.4 mEq/L, Calci 8.8 mg/dL,       Fosfor 3.4 mg/dL, Àcid úric *7.4 mg/dL, Aspartat aminotransferasa(AST) 17 U/L, Alaninaminotransferasa (ALT) *9 U/L, Fosfatasa alcalina 64 U/L, Gammaglutamiltranspeptidasa *93 U/L, Bilirubina total 0.5 mg/dL, Lactatdeshidrogenasa (LDH) 179 U/L, Albúmina sérica 39.8 g/L, Colesterol total *129 mg/dL, Tirotropina (TSH) 2.49 µU/mL, Parathormona (PTH) *83 pg/mL, Ag. prostàtic específic (PSA) 2.45 ng/mL,
+25-vitamina D total 15.9 ng/mL
+
+Imatge:
+RxT: ICT>0.5. No pinzamiento de los SCF. Signos de redistribución vascular. Hilios congestivos. TAC:
+No desplaçaments significatius de les estructures de línia mitja supra i infratentorial.
+Moderada dilatació global del sistema ventricular i dels espais subaracnoïdals de la convexitat cerebral. Cisternes basals i peritronculars lliures.
+Hipodensitat cortico-subcorticals frontal anterior dreta. Hipodensitat focal cortico-subcortical parietal esquerre. Hipodensitat petita i puntiforme talàmica dreta. Fossa posterior i parènquima cerebral sense alteracions morfològiques ni densitomètriques valorables.
+Conclusió: Secuela necro-atròfica frontal dreta, en relació a infart isquèmic crònic. Infart llacunar crònic talàmic dret.
+Probable lesió isquèmica parietal esquerre. Signes de discreta atròfia cerebral difusa.
+
+Altres proves:
+
+ECG: ACxFA a 72lpm. No hay alteraciones de la repolarización.
+
+Evolució i comentaris:
+
+1.	AVC
+Pacient de 85 anys amb FRCV (cardiopatía isquémica, FA, dislipemia, exfumador lleu) que consulta per afasia al despertar i comportament extrany el dia previ. A la valoració a UCIES per NRL mostra a l'exploració afassia global (9), no claudicació d'extremitats ni aparent himianopsia, ni hipoestesia.
+Destaquen moviments clónics del peu esquerre amb probable Babinski. Considerat no candidat a fibrinó lisi intravenosa per ictus del despertar + dabigatrán. No candidat a Intrarterial per edat + ictus del despertar + absència de sospita d'ictus de gran vas. Es realitza TAC de crani que mostra secuela
+necro-atròfica frontal dreta, en relació a infart isquèmic crònic. Infart llacunar crònic talàmic dret. Probable lesió isquèmica parietal esquerre. Signes de discreta atròfia cerebral difusa.
+El pacient presenta tendencia a la recuperació clínica, presentant a les hores a UCIES afàsia de comprensió que ha millorat fins avui a l'exploració a la UGA on mostra lleu afasia d'expressió, sense cap focalitat motora ni sensitiva ni alt. de parells cranials. Es demana valoració per logopedia, anlítica d'ingrés i canvio per apixaban (2.5 mg per pes de 56.4kg)
+El pacient presenta bona evolució clínica amb tendència a la desaparició de l'afàsia i sense presentar altres problemes motors afegits (fora de la disfàgia lleu). Deambula per l'unitat acompanyat per la seva família.
+
+
+
+2.	DISFAGIA
+Valorat per logopedia: Pacient que presenta lleu afàsia de comprensió, amb lectura preservada i escriptura només a nivel de paraules. Compren ordres senzilles tot i presentant temps de latencia. Pel que fa a la deglcuió, presenta lleu disfagia orofaríngia a líquids, amb penentració a tots els volums de lí quid. Recomenm: - Dieta fácil masticació homogènia - NO líquids, espessir a textura néctar - No dobles textures. Es farà seguiment a CCEE de logopedia.
+
+3.	ACXFA
+Crónica en ttm. amb pradaxa. Recomenat per NRL substitució per apixaban que iniciem durant l'hospitalització.
+
+4.	DEFICIT DE VITAMINA D
+Pel que iniciem ttm amb hidroferol i calci.
+
+5.	HIPOTENSIÓ
+Durant l'hospitalització es constata tendència a la hipotensió i bradicàrdia malgrat la no administració de sutril i inicialment sense pegat de nitrats. Ajustem la medicació
+
+5. PLANIFICACIÓ
+Pacient fins ara preservat cognitiva i funcionalment. No PCC. A priori sense limitacions de ttm. Cal seguiment per EAP per intentar preservar el màxim de temps posible autonomia i cognitició.
+
+Tractament:
+
+Fàrmacs:
+
+SENSE CANVIS:
+Lormetazepam 2mg/24h, Simvastatina 40mg 0-0-1, omeprazol 20mg/24h.
+Spiriva 18mcg 1inh/24h Budesonida 200mcg 2ap/12h, Beglan 25mcg 2ap/12h,
+
+STOP:
+Pradaxa 110mg 1c/24h, Sutril 10mg/24h,
+
+MODIFICACIONS
+Nitroderm 5 MG /durant el dia i retirar a la nit enlloc de10mg/24h, Emconcor 2.5mg/24h, 1/2 comprimit a la nit enlloc de 1 comprimit
+
+NOU
+Eliquis 2.5 mg /12h.
+Hidroferol 1 ampolla beguda a la setmana durant 5 setmanes i després un cop al mes. mastical 1c/dia oral.
+
+Altres recomanacions:
+
+
+Seguiment pel seu metge capçalera. Seguiment a CCEE de logopedia.
+
+_LOCATION_, 31/05/2017
+_NAME_ (Nº col _ID_
+Nom i cognoms metge: _NAME_ (Nº col: _ID_Pàg.: 1/5

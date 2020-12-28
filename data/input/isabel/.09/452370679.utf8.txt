@@ -1,0 +1,128 @@
+_LOCATION_ Tel. _CONTACT_
+_CONTACT_
+Informe Alta Hospitalització
+_NAME_
+HC: _ID_
+
+>
+
+
+Adreça: _LOCATION_	Data naix.: _DATE_ Població: _LOCATION_	Sexe: FEMENI
+Provincia: _LOCATION_	CIP: _ID_
+País: _LOCATION_	NASS: _ID_
+Telèfon: _CONTACT_ / _CONTACT_	DNI o Tarja Residència: _ID_
+
+
+Servei: Neurologia	Data ingrés a URG: 11/12/2017 13:00
+Unitat clínica: Neurologia	Data hospitalització: 12/12/2017 18:49
+Tipus d'ingrés: Urgències	Data alta: 18/12/2017 15:07
+Proveïdor de Serveis: Servei Català de la Salut	Destí: 04 - Derivació Centre Intern Sociosanitari
+
+
+
+Diagnòstic principal:
+
+434.11 AVC CARDIOEMBOLIC
+
+Diagnòstics Secundaris:
+
+427.32 FLUTTER AURICULAR
+
+
+
+
+
+Pacient de 75 anys d'edat que ingressa per hemiparèsia dreta
+
+Antecedents:
+
+Malalties prèvies:
+
+DISLIPÈMIA DEPRESSIO MAJOR GLAUCOMA OSTEOPOROSI CATARACTA ULL DRET DIABETIS MELLITUS
+HIPOTIROIDISME SUBCLINI.
+
+Antecedents neonatals, obstètrics i quirúrgics:
+
+COLECISTECTOMIA
+QUISTECTOMIA OVARI (Laparotòmica.
+
+Al·lèrgies:
+
+El pacient no presenta al·lèrgies conegudes.
+
+Hàbits tòxics:
+
+No hábitos tóxicos de interés
+
+Situació funcional:
+
+Situació mental: Deterioro cognitivo leve
+Situació física: Dependencia moderada
+
+
+
+Història Actual:
+
+Dona de 74 anys amb funcions superiors conservades i autónoma. No al·lèrgies medicamentoses conegudes. No tabaquisme ni enol. Antecedents de DLP, DM (sense ttm mèdic) i sindrome depressiu. Història de còlics biliars. No càrdio-pneumopatia conegudes.
+
+Portada a urgències per inici de clínica a les 10:15h en forma de pèrdua de força a hemicos dret. No alteració del llenguatge. Nega palpitacions.
+
+A la seva arribada a urgències a la 13h NIHSS 5 (hemiparèsia BC dreta (1+1), PFSN dret (1) i hemianest èsia dreta (2)), ECG en FA ràpida no coneguda i s'activa Codi Ictus. Es realitza TC cranial que objectiva lesió hipodensa capsular posterior i possible en territori occipital E, amb hipoperfusió a territori d'ACP esq amb missmatch associat i angioTC amb oclusió de la branca P3 proximal. Es comenta amb equip de Neurorradiologia intervencionista, i davant la lesió profunda establerta (corresponent a la clínica en aquell moment) i NIHSS baix en pacient amb AV única, es decideix tractament conservador.
+
+Exploració física:
+
+TA: 162/65, FC: 74X', afebril i sense insuficiència respiratòria.
+AC: TC rítmics sense bufs ni frecs. Polsos perifèrics presents i simètrics. No edemes EEII ni signes de TVP.
+AR: MVC sense sorolls sobreafegits. Eupneica.
+NRL: conscient i orientada. Llenguatge amb fluència disminuïda, però nominació i comprensió conservades. Discurs repetitiu. No disàrtria. No oftalmoparèsies i campimetria conservada. PFSN dreta (1). Hemiparèsia BC dreta (braquial 4-/5 i crural 4+/5) (1+1) amb hipertonia hemicorporal dreta.
+Miller-Fisher i Strauss D. Babinski dret. Extinció sensitiva dreta (1).
+-	NIHSS: 4
+
+Resum proves complementàries:
+
+Laboratori:
+
+-	Analítica: Leucòcits 10.16 x 10^9/L, Hematies 4.73 x 10^12/L, Hemoglobina 142 g/L, Hematòcrit 0.42 L/L, Volum corpuscular mig 87.7 fL, Hemoglobina corpuscular mitja 30 pg, Conc. Hb. corpuscular mitja 342  g/L, Índex dispersió hematies 12.5 %, Plaquetes 290 x 10^9/L, Volum plaquetar mig 11.8 fL, Índex dispersió de plaquetes 14.6 fL, Plaquetòcrit 0.034 L/L, Neutròfils (%) 66 %, Neutròfils 6.71 x 10^9/L, Limfò cits (%) 25.8 %, Limfòcits 2.62 x 10^9/L, Eosinòfils (%) 0.7 %, Eosinòfils 0.07 x 10^9/L, Basòfils (%) 0.4
+%, Basòfils 0.04 x 10^9/L, Monòcits (%) 7.1 %, Monòcits 0.72 x 10^9/L, Veloc. sedimentació globular *3 mm 1ª h., Temps protrombina 1.03 ratio, T.Tromboplastina parcial activ 0.89 ratio, Fibrinògen 2.53 g/L, Ferro 69 µg/dL, Ferritina *261.8 ng/mL, Glucosa *127 mg/dL, Urea 23.3 mg/dL, Creatinina 0.7 mg/dL, Sodi 142 mEq/L, Potassi 4 mEq/L, Calci 9.1 mg/dL, Aspartat aminotransferasa(AST) 32 U/L, Alaninaminotransferasa (ALT) 22 U/L, Fosfatasa alcalina 45 U/L, Gammaglutamiltranspeptidasa 15 U/L, Bilirubina total 0.6 mg/dL, Creatinquinasa (CK) *349 U/L, Proteïnes totals *64 g/L, Albúmina sérica 39.8 g/L, Colesterol total *144 mg/dL, Triglicèrids 71 mg/dL, Colesterol-HDL 55.1 mg/dL, Colesterol-LDL 75 mg/dL, Proteïna C reactiva 0.1 mg/dL, Tirotropina (TSH) 2.38 µU/mL
+
+Imatge:
+
+-	Rx tòrax: Poc inspirada. Canvis crònics. No condensacions.
+-	TC crani + angioTC: Infart isquèmic hiperagut al territori de l'ACP esquerra amb extensa penombra
+-	
+
+occipito-temporal i possible àrea focal d'infart establert a nivell capsulotalàmic. Oclusió al segment P3 proximal esquerre.
+-	Ecocardiograma: VE no dilatat, sense engruiximent parietal i amb bona dinàmica global i segmentària. Funció sistòlica normal, FEVE: 60%. Aurícula esquerra lleugerament dilatada. Arrel aòrtica i aorta ascendent inicial no dilatades. Aparell valvular esquerre molt lleument degeneratiu, normofuncionant. Mí nim IM central. Aurícula dreta no dilatada. VE no dilatat amb excrusicó longitudinal i radial normals. No IT ni signes indirectes suggestiu d'HTAPs. Vena cava inferiors col·lapsada suggestiva de depleció de la volè mia. Pericardi normal.
+-	RM crani: Infart isquèmic agut talàmic-temporal parahipocampal esquerra, amb component hemorrà gic-petequial a regió talàmica.
+
+Altres proves:
+
+-	ECG (inicial): Flutter auricular 150x'
+-	ECG (control): ritme sinusal 78x'. Eix +60º. QRS estret. PR 0.16. Sense alteracions de la repolarització.
+
+Evolució i comentaris:
+
+Dona de 74 anys dislipèmica i diabètica com a factors de risc cardiovascular portada a urgències per per pèrdua de força a hemicos dret de 3h d'evolució. A la seva arribada, ECG que evidenica Flutter auricular a 150x' amb NIHSS 5 (hemiparèsia BC dreta (1+1), PFSN dret (1) i hemianestèsia dreta (2)), pel que s'activa Codi Ictus.
+
+Es realitza TC cranial que objectiva lesió hipodensa capsular posterior i possible en territori occipital E, amb hipoperfusió a territori d'ACP esq amb missmatch associat i angioTC amb oclusió de la branca P3 proximal. Es comenta amb equip de Neurorradiologia intervencionista, i davant la lesió profunda establerta (corresponent a la clínica en aquell moment) i NIHSS baix en pacient amb AV única, es decideix tractament conservador.
+
+Es completa estudi cardíac amb Ecocardiograma que únicament evidencia AE lleugerament dilatada amb FEVE del 60% i es realitza RM cranial que confirma infart isquèmic agut talàmic-temporal parahipocampal esquerra amb component hemorràgic petequial a regió talàmica.
+
+S'inicia tractament frenador pel Flutter auricular amb bona resposta, es sol·licita valoració per Cardiologia que ajusta tractament i recomana posterior control per metge de capçalera.
+Després de 48h, presenta lleu milloria clínica i s'inicia Enoxaparina sc a dosis anticoagulants. A l'exploració actual:
+NRL: conscient i orientada. No disàrtria. Nominació i comprensió conservades. Llenguatge menys repetitiu. No oftalmoparèsies i campimetria conservada. PICNR. No nistagmus. Lleu PFSN dreta (1). Hemiparèsia BC dreta (braquial 4-/5 i crural 4+/5) (1+1). Miller-Fisher i Strauss D. Babinski dret. Extinció sensitiva dreta (1).
+- NIHSS: 4
+
+Actualment pacient estable. Es decideix trasllat a Convalescència per tractament rehabilitador.
+
+Tractament:
+
+Fàrmacs:
+
+
+Monodosi
+
+_LOCATION_, 18/12/2017
+_NAME_	_NAME_
+(Nº col _ID_)	(Nº col _ID_
+Nom i cognoms metge: _NAME_ (Nº col: _ID_Pàg.: 1/4

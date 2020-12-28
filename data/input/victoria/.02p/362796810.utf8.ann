@@ -1,0 +1,22 @@
+T0	_SUG_Lateralizacion 223 224	I
+T1	_SUG_Lateralizacion 317 318	I
+T2	FECHA 378 388	19/04/2017
+#2	AnnotatorNotes T2	2017-04-19
+T3	FECHA 411 421	21/04/2017
+#3	AnnotatorNotes T3	2017-04-21
+T4	SECCION_MOTIVO_DE_INGRESO 460 477	MOTIU DE CONSULTA
+T5	_SUG_Ictus_isquemico 583 597	ICTUS isquèmic
+T6	_SUG_Ictus_isquemico 659 673	ICTUS isquèmic
+T7	_SUG_Lateralizacion 683 684	D
+T8	_SUG_Ictus_isquemico 1450 1465	ictus isquémico
+T9	FECHA 3097 3107	19/04/2017
+#9	AnnotatorNotes T9	2017-04-19
+T10	_SUG_Localizacion 3347 3352	tronc
+T11	_SUG_Lateralizacion 3657 3658	D
+T12	_SUG_Lateralizacion 4000 4001	D
+T13	FECHA 4470 4480	21/04/2017
+#13	AnnotatorNotes T13	2017-04-21
+T14	FECHA 4751 4761	21/04/2017
+#14	AnnotatorNotes T14	2017-04-21
+T15	HORA 4762 4767	13:35
+#15	AnnotatorNotes T15	13:35

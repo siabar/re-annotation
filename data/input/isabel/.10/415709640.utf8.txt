@@ -1,0 +1,123 @@
+I.CLINIC DE NEUROCIÈNCIES NEUROLOGIA
+
+_NAME_		NHC: _ID_
+Sexo/Sexe: Masc.	Fecha nac./Data naix.: _DATE_	Edad/Edat: 28 años
+Dirección/Adreça: _LOCATION_	_LOCATION_	CP: _LOCATION_
+Municip. (Prov.): _LOCATION_  ABS:_SS_		Tel.:_CONTACT_ / _CONTACT_
+As.: SERVEI CATALA DE LA SALUT	CIP: _ID_	
+Nº epis.: _ID_	Tipo/Tipus: HOSPIT.	Inici.: 03.09.2017
+Serv: NEUROLOGIA	UO Enf.: G064 SALA G DE NEUROLOGIA	Hora: 23:20:28
+Facult. de ref.: _NAME_		
+
+
+Tipo ingreso/Tipus ingrés: Urgent	Motivo/Motiu alta: Dom. Familiar
+Diag.:
+ICTUS EN VARIOS TERRITORIOS (ACMI Y ACMD) () ENDOCARDITIS TROMBÓTICA NO INFECCIOSA () FLEBITIS. BACTERIEMIA POR E. AEROGENES ()
+Proc.:
+ANALÍTICA SANGUÍNEA. HEMOCULTIVOS. () ECG. MONITORIZACIÓN. ()
+RADIOGRAFÍA DE TÓRAX () TC MULTIMODAL ()
+RM CEREBRAL Y ANGIO-RM INTRACRANEAL () ECOCARDIOGRAMA TRANSESOFÁGICO ()
+
+
+
+
+INFORME CLÍNICO ALTA / INFORME CLÍNIC ALTA
+
+Motivo de consulta / Motiu de consulta
+Debilidad de extremidades derechas y alteración del lenguaje
+
+Antecedentes e historia previa / Antecedents i història prèvia
+Varón de 28 años sin alergias medicamentosas conocidas. Fumador de 6-7 porros de cannabis (marihuana y hachís) mezclada con tabaco al día. Enol social. No otros hábitos tóxicos. Indpendiente para las actividades de
+la vida diaria (mRS: 0). Sin antecedentes patológicos de interés ni tratamiento habitual.
+
+*ANTECEDENTES FAMILIARES:
+
+-	Padre fallecido a los 53 años de cáncer de pulmón (fumador).
+-	Abuelos paternos fallecidos de cáncer (colon y óseo) a edad avanzada.
+-	Abuela materna con afectación reumática, posible artritis reumatoide.
+-	Prima en primer grado por vía materna con linfoma de Hodgkin.
+
+Proceso actual / Procés actual
+El 06/09/17 al despertarse de la siesta en torno a las 21:00h presenta debilidad de extremidades derechas y afasia. Visto por última vez asintomático a las 16:30h. La familia contacta con el SEM y es traído a nuestro centro como código ictus extramuros. Niega consumo de tóxicos
+
+
+previo salvo su cannabis habitual.
+
+Exploración física / Exploració física
+04/09/2017-00:00:00: Frecuencia respiratoria (rpm) 14, PAS (mm Hg) 105, PAD (mm Hg) 84, Pulsioximetría (%) 100. 04/09/2017-01:00:00 : Glicemia c apilar (mg/dl) 96. 04/09/2017-18:00:00 : Tª axilar (ºC) 35.3.
+1. ICTUS ISQUÉMICO EN TERRITORIO DE LA ARTERIA CEREBRAL MEDIA IZQUIERDA  Y LESIÓN ISQUÉMICA PUNTIFORME EN TERRITORIO DE LA ARTERIA CEREBRAL MEDIADERECHA. 2. ENDOCARDITIS TROMBÓTICA INFECCIOSA vs NO INFECCIOSA. 3. BACTERIEMIA POR ENTEROBACTER AEROGENES.
+Consciente, orientado en las tres esferas. Lenguaje normofluente sin rasgos afásicos. Disartria leve. Mirada centrada en posición primaria, sin alteraciones campimétricas por confrontación. Paresia facial derecha leve. No paresia de extremidades. No alteraciones sensitivas. No dismetrías ni negligencia. (NIHSS 2)
+
+Laboratorio / Laboratori
+*ANALÍTICA SANGUÍNEA: PCR 0.42 mg/dL. Glucosa 95 mg/dL. Creatinina 0.67 mg/dL; filtrado >90 mL/min. Úrico 5.6 mg/dL. Colesterol total 142 mg/dL; TG 79 mg/dL; LDL 93 mg/dL; HDL 33 mg/dL. Hemograma y hemostasia sin alteraciones. TSH 1.107 mUI/L; FT4 0.96 ng/dL.
+
+*HEMOCULTIVOS AL INGRESO: negativos.
+
+*HEMOCULTIVOS CON FIEBRE: positivos para Enterobacter aerogenes sensible.
+
+*TROMBOFILIAS: negativo incluyendo anticoagulante lúpico.
+
+*MARCADORES TUMORALES: negativos.
+
+*AUTOIMUNIDAD: Ac anti-DNA y factor reumatoide negativos, resto en curso.
+
+*VIROLOGÍA: negativos.
+
+*BACTERIOLOGÍA: IgM e IgG para Coxiella negativos. Borrelia y Brucella en curso.
+
+Radiología / Radiologia
+*RX DE TÓRAX: sin focos de consolidación ni otros hallazgos sugestivos de patología aguda.
+
+*TC MULTIMODAL: - TC CRANEAL BASAL: sutil perdida de la diferenciación corticosubcortical frontoparietal izquierda (región M5). ASPECTS 9. - TC PERFUSIÓN: a nivel occipital y frontoparietal izquierdo observamos aumento de TTP, con reducción del CBV y CBF. - ANGIO-TC EXTRA E INTRACRANEAL: Ausencia de arteria comunicante posterior derecha. No se consigue visualizar las ramas perifericas causantes del cuadro.
+
+*RM CEREBRAL Y ANGIO-RM INTRACRANEAL: infarto isquemico cortical temporo-insular posterior izquierdo con extension a frontal posterior. Ademas se aprecia otro foco milimetrico de inafrto isquemico subcortical en la union temporo-occipital izquierda.
+
+Exploraciones complementarias / Exploracions complementàries
+*ECG: ritmo sinusal sin alteraciones en la repolarización.
+
+*HOLTER-ECG: ritmo sinusal durante todo el registro, con FC min de 41 lpm, FC promedio de 51 lpm y FC max de 98 lpm. No se registran pausas significativas, RR maximo de 1.25 segundos. Extrasistolia supraventricular poco frecuente <1%. Extrasistolia ventricular poco frecuente <1%.
+
+*ECOCARDIOGRAMA  TRANSESOFÁGICO: válvula mitral con insuficiencia mínima  cental. El velo anterior
+
+
+
+presenta engrosamiento con diversas pequeñas masas adheridas a su cara auricular (máximo tamaño 4x2 mm) compatibles con vegetaciones vs trombo.
+
+Evolución / Evolució
+1.	ICTUS ISQUÉMICO AGUDO EN TERRITORIO DE LA ARTERIA CEREBRAL MEDIA IZQUIERDA (ACMI) Y ARTERIA CEREBRAL MEDIA DERECHA (ACMD) CORTICAL.
+2.	ENDOCARDITIS TROMBÓTICA NO INFECCIOSA.
+A su llegada normotenso y afebril. En la exploración neurológica se aprecia paresia facial central derecha leve y disartria subjetiva (NIHSS: 2).. Tóxicos en orina positivos para cannabis, resto negativo. ECG en ritmo sinusal sin alteraciones en la repolarización. La neuroimagen (TC y RM cerebral) muestra un ictus isquémico agudo en territorio de la ACMI y una lesión isquémica puntiforme en territorio de la ACMD cortical.
+El estudio vascular (eco-doppler y angio-RM) no evidencia ateromatosis ni estenosis de grandes vasos intra ni extracraneales. Monitorización > 72h en unidad de ictus sin arritmias. Eco-doppler shunt sin paso espontáneo de burbujas ni con Valsalva a los 4, 6 y 8 segundos. Estudio de trombofilias realizado en fase aguda del ictus megativo.
+Holter-ECG sin arritmias. El estudio cardiológico (ecocardiograma transesofágico) muestra pequeñas masas adheridas a la cara auricular del velo anterior de la válvula mitral compatibles con trombos. Hemocultivos negativos. Dada la presencia de endocarditis trombótica no infecciosa se amplía el estudio con marcadores tumorales y de autoinmunidad con resultado negativo y serología para bacterias atípicas (Coxiella burnetti negativo, Brucella y Borrelia pendientes al alta).
+Se trata de ictus isquémicos en varios territorios (ACMI y ACMD) de etiología cardioembólica en un paciente con una endocarditis trombótica no infeciosa de origen no filiado, sin indicios aparente de proceso oncológico o autoinmunitario por anamnesis y exploración física. Se inicia tratamiento con heparina sódica con posterior paso a sintrom.
+Durante el ingreso el paciente evoluciona de forma favorable, sin apreciarse focalidad neurológica en la exploración. Dada la estabilidad clínica se decide alta domiciliaria bajo tratamiento anticoagulante. De forma ambulatoria realizará un nuevo estudio de trombofilias en el plazo de un mes, PET-TC (se adjunta cita), ecocardiograma transesofágico y control posterior con neurología (Dr. _NAME_).
+Al alta: NIHSS: 0;   TOAST: cardioembólico;   mRS: 0.
+3.	FLEBITIS. BACTERIEMIA TRANSITORIA POR ENTEROBACTER AEROGENES.
+El 11/09/17 el paciente realiza un cuadro de fiebre de hasta 38.3ºC con clínica bacteriémica en el contexto de flebitis bilateral con hemocultivos positivos para Enterobacter aerogenes. Se inicia antibioterapia empírica con ceftriaxona y daptomicina con posterior paso a meropenem y finalmente tratamiento con ciprofloxacino según antibiograma. Se comenta con infecciosas y, dada la negatividad de los hemocultivos previos y el contexto de flebitis activa, es escasamente probable que exista relación entre el cuadro de endocarditis trombótica y el proceso infeccioso posterior.
+
+Plan terapéutico / Pla terapèutic
+-	Acenocumarol según pauta hasta visita con el Dr. _NAME_ tras haber realizado el ecocardiograma transesofágico de control. - Pantoprazol 40 mg/24h mientras tome acenocumarol. - Paracetamol 1 g/8h si fiebre. - Ciprofloxacino 500 mg/12h 4 días.
+
+Otras recomendaciones / Altres recomanacions
+-	Realizará PET-TC de forma ambulatoria en la fecha que se indica en la cita adjunta. Posteriormente acudirá a control en el hospital de día de neurología con el Dr. _NAME_ según se informa en cita adjunta. - Acudirá a consultas con el servicio de hemostasia. Se contactará para concertar cita. - Realizará un ecocardiograma transesofágico de forma ambulatoria como se indica en cita adjunta. Posteriormente acudirá a control con el Dr. _NAME_ según se informa en cita adjunta. - Control por parte de su CAP de referencia.
+-	
+
+
+Firma/Signatura1: _NAME_	Firma/Signatura2: _NAME_ Categoría: Resident 2	Categoría: Consultor/a 1
+Nº Matrícula _SS_: _ID_	Nº Matrícula _SS_: _ID_
+
+Fecha/Data Informe: 14.09.2017
+Hora Informe: 15:21:57
+
+Docum.: _ID_
+Hist. Clínica: _ID_
+El _SS_ ha incorporado sus datos al Fichero de Pacientes, para tratarlos con fines sanitarios.
+Puede ejercer sus derechos de acceso, rectificación, cancelación y oposición, así como obtener mas información en la Unidad de Atención al Cliente.
+Vers. 00
+Pag. 2 de
+4
+Episod.: _ID_
+_SS_ ha incorporat les seves dades al Fitxer de Pacients, per a tractar-los amb finalitats sanitàries. Pot exercir els seus drets d'accés, rectificació, cancel·lació i oposició, i obtenir més informació a la Unitat d'Atenció al Client.
+_SS_
+_LOCATION_) _LOCATION_) Tel. _CONTACT_ Fax _CONTACT_
+http://_CONTACT_/

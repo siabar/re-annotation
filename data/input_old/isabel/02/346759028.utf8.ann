@@ -1,0 +1,61 @@
+T1	_SUG_Lateralizacion 0 1	I
+T3	Fecha_de_ingreso 318 328	08.03.2017
+#3	AnnotatorNotes T3	2017-03-08
+T4	HORA 386 391	20:45
+#4	AnnotatorNotes T4	20:45
+T5	_SUG_TAC_craneal 572 574	TC
+T6	_SUG_Lateralizacion 746 756	izquierdas
+T8	_SUG_Etiologia 964 972	habitual
+T9	Fecha_inicio_sintomas 1009 1018	08.3.2017
+#9	AnnotatorNotes T9	2017-03-08
+T11	_SUG_Lateralizacion 1070 1080	izquierdas
+T12	Hora_inicio_sintomas 1118 1119	7
+#12	AnnotatorNotes T12	7:00
+T13	FECHA 1272 1282	08/03/2017
+#13	AnnotatorNotes T13	2017-03-08
+T14	HORA 1283 1288	21:00
+#14	AnnotatorNotes T14	21:00
+T15	FECHA 1350 1360	08/03/2017
+#15	AnnotatorNotes T15	2017-03-08
+T16	HORA 1361 1366	23:00
+#16	AnnotatorNotes T16	23:00
+T17	_SUG_Lateralizacion 1636 1645	izquierdo
+T18	_SUG_Lateralizacion 1703 1713	izquierdas
+T20	NIHSS_previa 1760 1767	NIHSS 2
+T21	_SUG_Arteria_afectada 2078 2095	arteria vertebral
+T22	_SUG_Lateralizacion 2096 2105	izquierda
+T23	_SUG_Lateralizacion 2123 2130	derecha
+T24	_SUG_Arteria_afectada 2170 2200	arterias cerebrales anteriores
+T25	_SUG_Lateralizacion 2238 2247	izquierdo
+T26	_SUG_Lateralizacion 2291 2298	derecho
+T29	Lateralizacion 2340 2349	izquierda
+T30	_SUG_Localizacion 2359 2370	ventricular
+T31	_SUG_Lateralizacion 2545 2552	derecho
+T32	_SUG_Etiologia 2994 3006	HIPERTENSIVA
+T33	_SUG_Etiologia 3021 3033	hipertensión
+T34	_SUG_Lateralizacion 3136 3145	izquierda
+T35	_SUG_Lateralizacion 3171 3180	izquierda
+T36	_SUG_Lateralizacion 3198 3207	izquierda
+T38	TAC_craneal 3318 3328	TC craneal
+T40	_SUG_Trombolisis_intravenosa 3523 3539	fibrinolisis por
+T42	_SUG_Tratamiento_antiagregante_alta 3977 3980	AAS
+T43	_SUG_Tratamiento_antiagregante_hab 3977 3980	AAS
+T44	_SUG_Lateralizacion 4146 4155	izquierda
+T46	Fecha_de_alta 5062 5072	10.03.2017
+#46	AnnotatorNotes T46	2017-03-10
+T47	Hora_de_alta 5087 5092	15:00
+#47	AnnotatorNotes T47	15:00
+T48	SECCION_TIPO_DE_INGRESO 397 422	Tipo ingreso/Tipus ingrés
+T49	SECCION_MOTIVO_DE_INGRESO 681 719	Motivo de consulta / Motiu de consulta
+T50	SECCION_ANTECEDENTES 770 832	Antecedentes e historia previa / Antecedents i història prèvia
+T51	SECCION_PROCESO_ACTUAL 975 1005	Proceso actual / Procés actual
+T52	SECCION_EXPLORACION_FISICA 1233 1271	Exploración física / Exploració física
+T53	SECCION_EXPLORACIONES_COMPLEMENTARIAS 1958 2018	Exploraciones complementarias / Exploracions complementàries
+T54	SECCION_EVOLUCION 2890 2910	Evolución / Evolució
+T2	Fecha_llegada_hospital 1009 1018	08.3.2017
+#1	AnnotatorNotes T20	2
+T19	Tratamiento_antiagregante_alta 4493 4515	Acido acetilsalicilico
+T37	SECCION_RECOMENDACIONES 4722 4766	Otras recomendaciones / Altres recomanacions
+T45	SECCION_MOTIVO_DEL_ALTA 431 448	Motivo/Motiu alta
+T10	SECCION_TRATAMIENTO_AL_ALTA 4298 4331	Plan terapéutico / Pla terapèutic
+T27	Ataque_isquemico_transitorio 2914 2944	ACCIDENTE TRANSITORI ISQUÉMICO

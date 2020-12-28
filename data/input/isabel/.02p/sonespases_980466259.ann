@@ -1,0 +1,74 @@
+T0	FECHA 15 25	19-11-2018
+#0	AnnotatorNotes T0	2018-11-19
+T1	SECCION_DIAGNOSTICOS 66 78	Diagnosticos
+T2	FECHA 80 90	17/11/2018
+#2	AnnotatorNotes T2	2018-11-17
+T3	_SUG_Ictus_isquemico 124 140	infarto cerebral
+T4	_SUG_Etiologia 167 180	indeterminada
+T5	SECCION_PROCEDIMIENTOS 183 197	Procedimientos
+T6	_SUG_Ictus_isquemico 253 258	ICTUS
+T7	SECCION_MOTIVO_DE_INGRESO 315 332	Motivo de ingreso
+T8	_SUG_Ictus_isquemico 373 378	ictus
+T9	_SUG_Ictus_isquemico 408 413	ictus
+T10	FECHA 599 603	2013
+#10	AnnotatorNotes T10	2013-UNDEF-month-UNDEF-day
+T11	_SUG_Tratamiento_antiagregante_alta 714 719	Adiro
+T12	_SUG_Tratamiento_antiagregante_hab 714 719	Adiro
+T13	_SUG_Tratamiento_antiagregante_alta 803 808	Adiro
+T14	_SUG_Tratamiento_antiagregante_hab 803 808	Adiro
+T15	FECHA 841 851	16.11.2018
+#15	AnnotatorNotes T15	2018-11-16
+T16	HORA 924 928	7:30
+#16	AnnotatorNotes T16	7:30
+T17	HORA 929 933	8:00
+#17	AnnotatorNotes T17	08:00
+T18	_SUG_Ictus_isquemico 1640 1645	ictus
+T19	SECCION_EXPLORACION_FISICA 1652 1663	Exploración
+T20	_SUG_Lateralizacion 2035 2044	izquierdo
+T21	_SUG_Lateralizacion 2102 2111	izquierda
+T22	_SUG_Lateralizacion 2188 2197	izquierdo
+T23	_SUG_NIHSS_alta 2404 2413	NIHSS 4-1
+T24	_SUG_NIHSS_previa 2404 2413	NIHSS 4-1
+T25	SECCION_EXPLORACION_FISICA_EN_URGENCIAS 2485 2511	Exploración física en HUSE
+T26	HORA 2521 2526	14:30
+#26	AnnotatorNotes T26	14:30
+T27	FECHA 2562 2570	16/11/18
+#27	AnnotatorNotes T27	2018-11-16
+T28	HORA 2571 2576	15:40
+#28	AnnotatorNotes T28	15:40
+T29	FECHA 2605 2613	16/11/18
+#29	AnnotatorNotes T29	2018-11-16
+T30	HORA 2614 2619	15:40
+#30	AnnotatorNotes T30	15:40
+T31	FECHA 2648 2656	16/11/18
+#31	AnnotatorNotes T31	2018-11-16
+T32	HORA 2657 2662	15:00
+#32	AnnotatorNotes T32	15:00
+T33	FECHA 2691 2699	16/11/18
+#33	AnnotatorNotes T33	2018-11-16
+T34	HORA 2700 2705	15:00
+#34	AnnotatorNotes T34	15:00
+T35	FECHA 2723 2731	16/11/18
+#35	AnnotatorNotes T35	2018-11-16
+T36	HORA 2732 2737	15:40
+#36	AnnotatorNotes T36	15:40
+T37	FECHA 2763 2771	16/11/18
+#37	AnnotatorNotes T37	2018-11-16
+T38	HORA 2772 2777	15:00
+#38	AnnotatorNotes T38	15:00
+T39	_SUG_Lateralizacion 2973 2982	izquierda
+T40	_SUG_TAC_craneal 3394 3404	TC craneal
+T41	FECHA 3423 3433	16-11-2018
+#41	AnnotatorNotes T41	2018-11-16
+T42	_SUG_Arteria_afectada 3707 3727	arterias vertebrales
+T43	SECCION_EVOLUCION 3860 3882	Evolución Hospitalaria
+T44	_SUG_Ictus_isquemico 3970 3975	Ictus
+T45	FECHA 4345 4355	19/11/2018
+#45	AnnotatorNotes T45	2018-11-19
+T46	SECCION_TRATAMIENTO_Y_RECOMENDACIONES_AL_ALTA 4593 4630	Recomendaciones y tratamiento al alta
+T47	_SUG_Tratamiento_antiagregante_alta 4671 4682	Clopidogrel
+T48	_SUG_Tratamiento_antiagregante_hab 4671 4682	Clopidogrel
+T49	FECHA 4760 4770	20/11/2018
+#49	AnnotatorNotes T49	2018-11-20
+T50	_SUG_Tratamiento_antiagregante_alta 4782 4793	Clopidogrel
+T51	_SUG_Tratamiento_antiagregante_hab 4782 4793	Clopidogrel

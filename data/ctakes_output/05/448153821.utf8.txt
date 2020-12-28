@@ -1,0 +1,127 @@
+
+
+
+
+
+Informe d'Alta Hospitalària	Cognoms i nom:
+_NAME_	NHC:
+_ID_
+	ABS:
+_SS_	CIP:
+_ID_	DNI:
+_ID_
+	Data de naixement:
+_DATE_	Sexe:
+Home	Edat:
+83a	Telèfon:
+_CONTACT_
+	Finançament:
+CatSalut - _LOCATION_	Procedència:
+URGÈNCIES
+	Admissió:
+25.11.2017 - 16:04	Servei:
+NEURO - UNITAT ICTUS HOSP	Data entrada urg.:
+25.11.2017 - 11:35
+Adreça:
+_LOCATION_	Població:
+_LOCATION_	Codi Postal:
+_LOCATION_
+
+
+
+Motivo de ingreso
+Varón de 83 años que ingresa con sospecha de ictus isquémico.
+
+
+ANTECEDENTES
+-	Alergia al contraste yodados (edema de glotis).
+-	Hipertensión y dislipemia en tratamiento
+-	Fibrilación auricular en seguimiento por cardiólogo privado
+-	Melanoma mala irzquierdo hace más de 10 años intervenido quirúrgicamente. En remisión completa.
+-	IQ artrodesis cervical por estenosis del canal cervical hace 1 año.
+-	No antecedentes de sangrados
+-	Tratamiento habitual: AAS 100mg/48h, encomcor 1.25 mg/d, enalapril 10mg/d, pravastatina 10mg/d
+-	Sociofuncional:  vive  en  domicilio  con  su  esposa.  Autónomo.  Sale  a  la  calle  con  2  muletas  desde intervención de cervicales. mRS 2.
+-	Ambidiestro
+-	Antecedents quirúrgics 03.03.2014 13.41 FACOEMULSIFICACIO I ASPIRACIO DE CATARACTA
+
+
+ENFERMEDAD ACTUAL
+El 25/11/17 estando previamente bien, sobre las 10:30 al salir de casa su mujer ha objetivado que el paciente  parecía  algo  desorientado.  Posteriormente  mientras  conducía  acompañado  de  su  mujer  ha presentado alteración para  la  articulación del  lenguaje  de  inicio  brusco y  desviación de  comisura  bucal izquierda. El paciente no era consciente de los déficits, ha intentado aparcar pero se ha chocado con un pivote.
+Paciente no refiere episodios previos. Refiere antecedente de arritmia y en ECG consta FA aunque nunca ha recibido anticoagulación, desconocemos el motivo.
+
+EXPLORACIÓN FÍSICA
+Exploración neurológica en urgencias: TA 140/75mmHg, FC 79 Exploración Neurológica en urgencias.: Vigil, orientado, colaborador Lenguaje fluente, no signos de afasia Disartria leve Campimetría por confrontación normal MOEs sin limitaciones Muy discreta asimetría facial izquierda PPCC bajos normales Balance motor y sentiivo normal No dismetrías RCP flexores Marcha no valorada NIHSS 2 por disartria y facial izquierdo leves Babinski derecho, RCP flexor izquierdo
+Exploración neurológica al alta: paresia facial central izquierda y disartria NIHSs = 2.
+
+
+EXPLORACIONS COMPLEMENTÀRIES A L'INGRÉS
+-	ECG Fibrilación auricular, eje 40º, sin alteraciones de repolarización.
+-	TC craneal: HemorragiaNO.
+
+
+Otras lesiones: NO. Isquemia Aguda Visible: NO.
+Isquemia Aguda Visible de ACM: NO. Ingurgitación parenquimatosa: NO.
+Efecto de masa sobre el sistema ventricular NO. Desviación de la línea media supratentorial: NO. Desviación de la línea media infratentorial:/NO. Otros hallazgos/comentario:
+Minima afectacion vascular microangiopatica en la sustancia blanca cerebral. Imagen milimétrica no densa, en la teórica zona de la division anterior de ACM D (im 39), que aunque puede corresponder a un bucle vascular/superposicion de vasos, no permite descartar totalmente la posibilidad mas remota de un pequeño aneurisma incidental no roto (<0.5 mm). Si procede, se podria valorar (ambulatorio) mediante RM.
+Impresión diagnóstica global:
+No hay criterios radiologicos de indicación de TEV.
+No hay alteraciones que sugieran isquemia aguda de ACM con trombosis/oclusión de segmento M1 (ACI ipsilateral).
+
+Analítica:
+Bioquímica: Sodi 139 mmol/L Potassi 4,24 mmol/L Calci 2,26 mmol/L Glucosa 7,1 ? mmol/L Urea 6,7 mmol/L Creatinina 74 µmol/L Bilirubina total 25 µmol/L Bilirubina conjugada 9 µmol/L AST (GOT) 30  U/L ALT (GPT) 36  U/L   Proteïna total 62,4 g/L
+Hemograma: Hemoglobina 167  g/L  Hematòcrit 0,52 L/LHematies 5,80 x10E12/L VCM 90,3  fLPlaquetes
+150  x10E9/L Leucòcits 9,85  x10E9/L Fórmula leucocitària	Neutròfils 74,0  %Monòcits 8,5  % Limfòcits 15,9
+%
+Hemostasia: Temps de tromboplastina 1,02  RATIO Temps de protrombina 1,16  INR Temps de trombina 18,10 s
+
+Neurosonología:
+TSA: se insonan ambos ejes carotídeos con pequeñas placas hiperecogénicas a nivel de bulbo que no codicionan estenosis significativas. No consigo insonar vertebrales
+TC: mala ventana trasntemporal bilateral
+
+AngioRM: Angio-RM de TSA que no muestra hallazgos significativos, con correcta permeabilidad de los sectores estudiados.
+
+RM cerebral: Estudio RM craneal que muestra un infarto subagudo en territorio superficial frontoinsular de ACM derecha con transformación hemorrágica cortical que no llega a condicionar un hematoma significativo ni compromiso de linea media ni sistema ventricular. El estudio angiográfico intracraneal muestra leve irregularidad en la división anterior de ACM derecha, que persiste permeable.
+
+
+EVOLUCIÓN
+Varón de 83 años que consulta por cuadro compatible con ictus isquémico en territorio de ACM derecha. Se realiza estudio de TSA (alergia a contraste yodado) que descarta estenosis de gran vaso. A nivel cardiológico presenta ACXFA que ya era conocida. Se orienta como un ictus isquémico en territorio ACM derecha de probable etiología cardioembólica no FA no anticoagulada. Dada la mejoría clínica espontánea y bajo NIHSS se descarta tratamiento de reperfusión aguda en el momento actual. Tampoco se realiza angioTC por este motivo y porque el paciente es alérgico al contraste yodado.
+Se inicia tratamiento de prevención secundaria con BIC de heparina sódica a 230mg/d y control en 6 horas.
+Se inicia BIC de heparina sin incidencias. A las 48h de ingreso se inicia paso a sintrom.
+Como  complicaciones  durante  su  ingreso  presenta  un  leve  cuadro  confusional  por  lo  que  se  pauta quetiapina si precisa. Tolera dieta oral e inicia rehabilitación.
+En la RM de control se evidencia lesión isquémica con transformación hemorrágica leve, no sintomática y que no provoca desplazamiento de estructuras circundantes.
+Se orienta el caso como ictus isquémico en territorio de ACM derecha de mecanismo embólico y etiología cardioembólica. En el momento del alta NIHSS de 2 y escala modificada de rankin de 2.
+
+PROCEDIMIENTOS
+TC craneal Neurosonologia ECG
+Telemetria ECG Ecocardiograma transtorácico RM Cerebral
+
+Diagnósticos:
+Ictus isquémico en territorio de ACM derecha de mecanismo embólico y etiología cardioembólica Fibrilación auricular.
+
+RECOMENDACIONES AL ALTA
+
+Tatamiento.
+Pravastatina 20mg 0-0-1
+Omeprazol 20mg 1-0-0
+Emconcor 2.5mg 1-0-0 Sintrom 4mg según pauta. Enalaril 10mg 1-0-0
+Hidroclorotiazida 25mg 1-0-0
+Valium si precisa.
+
+
+Seguimiento:
+Realizar control de Sintrom según pauta.
+Control por parte de su CAP en los próximos días (se ha realziado prealt) Acudir a control en CEX de neurología según citación adjunta.
+
+
+Responsable clínic: Dr. _NAME_ (NºCol. _ID_)
+Equip mèdic: _NAME_ (NºCol. _ID_)
+
+Servei que ha donat d'alta:
+NEUROLOGIA CEX	Data d'alta:
+30.11.2017	Nom del metge que informa de l'alta:
+Dr. _NAME_ (NºCol. _ID_)
+
+
+_LOCATION_, 30.11.2017
+Pàg. 1 de   4

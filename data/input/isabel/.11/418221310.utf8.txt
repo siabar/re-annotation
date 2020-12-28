@@ -1,0 +1,142 @@
+_LOCATION_
+_LOCATION_) Anul·lació/Reprogramació visites:_CONTACT_
+Telèfon Centraleta: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 75 Anys
+NIF/DNI: _ID__NAME_; _NAME_;
+ _NAME_
+Informe d'alta d'hospitalització
+16:58:51
+19.09.2017
+_LOCATION_
+_SS_ NEUROLOGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_; _CONTACT_; _CONTACT_; AGUTS
+12.09.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Ictus hemisférico izquierdo y estenosis significativa de ACI izquierda.
+
+ANTECEDENTS
+-Sin alergias medicamentosas conocidas. Escolarizacion sabe leer y escribir. Trabajó de soldador.
+
+-	Hábitos tóxicos: Exfumaor de 2-3 paq/dia desde hace 25 años.
+-	FRCV:  Diabetes  mellitus  con  posible  polineuropatía,  en  tratamiento  con  antidiabéticos  orales  (eucreas: metformina + vildagliptina.). No HTA ni DLP conocidas.
+-No cardioneumopatías conocidas.
+-	Deterioro cognitivo. Inicio estudio 2013, en _SS_, a raíz de fallos de memoria desde 2005 con alteración conductual, deshinibido, hipersexual, hiperfagia al interrogatorio dirigido, mejoría clínica con risperdal y deprax. Autónomo para ABVD, instrumentales conservados. TC craneal 2006  sin alteraciones significativas. Estudio NPS de (2009): paciente orientado en persona espacio y tiempo con lenguaje fluente con contenido con leve alteracion en la memoria verbal en la codificacion de nuevos aprendizajes. A nivel conductual presenta conductas inapropiadas de desinhibicion, gran distraibilidad y conductas adictivas  al  juego. Orientado  como deterioto de tipo frontal. En 2013, mayor irritabilidad, obsesivo, repetitivo, negativa a salir al huerto, no alucinaciones. Sin focalidas neurológica. Sin sd piernas inquietas. MMSE: 26/30 (fallo en RD y praxia constructiva). En 2017 derivado en CEX NRL de nuevo por empeoramiento del deterioro cognitivo. Pasa el día durmiendo y viendo la TV. Repetitivo. Conoce a la familia. Hay que revisar lo que se viste, se viste con el pijama debajo. No ayuda en casa, antes hacía algo. Sale a la calle solo pero cerca de casa. Maneja el dinero de su paga pero se lo gasta en lotería, ahora más controlado. También compraba ropa. Aseo personal autónomo, lo ducha la esposa. Tranquilo durante el día, duerme bien. No alucinaciones. MMSE: OT 5/5, OE 5/5, RI 3/3, órdenes 3/3, RD 3/3, MUNDO 1/5, Cálculo 1/5, lenguaje 3/3, lectura 1/1, escritura 1/1, dibujo 0/1. 25/30. Praxotomos bimanuales 2/4. Niño-enano bien. Presidente bien. Más vale pájaro regular. Se orienta como Deterioro cognitivo leve con MMSE estable. Se inicia Souvenaid. En tto además con deprax y sertralina.
+-Síndromes depresivos recurrentes.
+-Hiperplasia benigna prostática, en tratamiento con unibenestan (alfuzosina).
+-Antecedentes quirúrgicos: Cataratas en ojo derecho intervenidas quirúrgicamente en abril de 2014. Enfermedad de Dupuytren en 5º dedo de mano derecha, intervenido el año 2012. Hernia umbilical.
+
+AF: hermano fallecido demencia y patología psiquiátrica, hermano demencia.
+
+Situación basal: vive con su mujer, mRankin 4 (come solo, aseo personal solo, lo ducha la esposa, no sale solo a la calle por alteración de la conducta).
+
+
+MEDICACIÓ HABITUAL
+DEPRAX 100MG 1 x 24 h; EUCREAS 50/1000MG (METFORMINA + VILDAGLIPTINA)  1 x 12 h; RISPERDAL 1MG RISPERIDONA  0,50 x 12 h; SERTRALINA 50MG 1 x 24 h; UNIBENESTAN 10MG (ALFUZOSINA) 1 x 12 h
+
+Informe d'alta d'hospitalització
+
+
+
+
+
+PROCÉS ACTUAL
+Paciente de 75 años visto por última vez asintomático el día 11/09 a las 23:99h. El día 12/09 a las 9:00h se lo encuentra la mujer con dificultad para el lenguaje.
+
+Acude a _SS_ donde es valorado por Neurología y se objetiva discreta paresia 5-/5 en extremidad superior derecha y afasia de predominio motor. Avisan a las 9:30h para derivar a _SS_ para valoración.
+
+A su llegada al _SS_ las 10:36h, el paciente se encuentra HMDE (TA 150/80 mmHg, Fc 70 lpm), Afebril, SatO2 99%. Neurológicamente se encuentra consciente, orientado en espacio, (mes y edad correctos), nomina 5/5, evoca 3/5 con parafasias y contaminación, repetición conservada, obedece una orden simple (1), disartria severa (2), discreta PFSN D (1), no alteración de otros PPCC, campimetría y MOEs conservados, fuerza con mínima paresia derecha 5-/5, resto conservado, sensibilidad no valorable por afasia (1), RCP flexor bilateral, siendo el NIHSS 4. Se realiza TC craneal que informa de ASPECTS 9 a expenses de la región frontal media izquierda, estenosis ACI izquierda post-bifurcación cervical 80-85%, sin oclusiones valorables, otras estenosis significtivas, aneurismas no malformaciones arteriovenosas. El TC de perfusión describe missmatch en territorio superior-anterior de la ACM. En la analítica no presenta alteraciones significativas. La rx de tórax es normal. Y en ECG está en ritmo sinusal.
+
+Se orienta como ictus isquémico de ACM izquierda con estenosis preoclusiva de arteria carótida interna izquierda, no candidato a tratamiento en fase aguda. Se inicia antiagregación con AAS 300mg. Se decide ingreso en Neurología para completar estudio.
+
+EXPLORACIÓ FÍSICA
+
+FC	70 bpm Tªaxi  ºC
+FR	rpm Tªrec  ºC
+TA s	136 mmHg SAT O2  %
+TA d   78 mmHg Pes Kg
+
+NRL: consciente y orientado en tiempo y espacio, obedece órdenes simples y complejas, afasia leve (nomina 5/5, evoca 2/5, repite) (1), leve disartria (1), MOEs conservados, PICNR, campimetría por confrontación normal, sin asimetría facial, paresia braquial derecha 5-/5, fuerza conservada en EEII, sensibilidad impresiona de conservada (difícil valoración por inatención), RCP flexor bilateral. NIHSS 2.
+AC: tonos cardiacos rítmicos, sin soplos.
+AR: murmullo vesicular conservado, sin ruidos sobreañadidos. Abdomen: blando, depresible, no doloroso a la palpación.
+
+EXPLORACIÓ COMPLEMENTÀRIA
+EN URGENICAS
+Analítica sanguínea: EAB venós: pH 7.37; CO2 50mmHg; O2 36mmHg; HCO3- 28.9mmol/L; EB 2.5mmol/L; Sat.O2 60%.
+Bioquímica: Glucosa 6.3mmol/L; Urea 4.8mmol/L; Cr 89umol/L; Na+ 140mmol/L; K+ 4.61mmol/L. Coagulació: TTPA 0.92; TP 1.04.
+Hemograma:  Hb  145g/L;  Hto  41%;  VCM  86fL;  Plaquetes  196x10E9/L;  Leucòcits  7.5x10E9/L  (Neutròfils 4.56x10E9/L, Limfòcits 2.23x10E9/L; N 60.9%, L 29.8%)
+ECG: en ritmo sinusal.
+
+Informe d'alta d'hospitalització
+
+
+
+
+Rx de tórax: Mal penetrada, marco óseo conservado, ICT 0.5, no condensaciones ni infiltrados en parénquima pulmonar, senos costofrénicos libres, hilios no prominentes, no signos de congestión.
+TC cranial sense contrast, Angio TC de troncs supraaòrtics, TC perfusió cranial: ASPECTS 9 a expenses regió frontal mitja esquerra. Canvis involutius encefàlics. Estenosi ACI E post-bifurcació cervical 80-85%. CTASI 9 a expenses regió frontal mitja esquerra. No oclusions valorables, altres estenosis significtaives, aneurismes, ni MAVs. Augment del MTT amb focus de rCBV disminuït corresponent a infartb establert i predomini en la major part de rCBV preservat, missmatch, en territori superior-anterior ACM E.
+
+EN PLANTA DE NEUROLOGÍA:
+Analitica de ingreso:
+Bioquímica: Urea 2.5mmoll/L; Cr 91mmol/L; FG 71mL/min; Na+ 140mmol/L; K+ 4.2mmol/L; AST 0.3ukat/L; ALT 0.28ukat/L; Albumina g/L; Br umol/L; Br (esterificada) umol/L; GGT 0.38ukat/L; Fosfatasa alcalina 0.7ukat/L; Ca 2.2mmol/L; Urato umol/L; Ferritina ug/L; PCR mg/L; Colesterol 3.93mmol/L; Trigliceridos 1.71mmol/L; Tirotropina 2.51mu.int./L; Tiroxina 17pmol/L; Cobalamina 125pmol/L; Folato 8.6nmol/L; HbA1c 5.4%.
+Coagulación: TTPA 0.99; TP 1.1; Fibrinógeno 2.77g/L
+Inmunoproteinas: Albúmina	58.6%; alfa 1-Globulina 3.5%; alfa 2-Globulina	10.8%; beta-Globulina	11.3%;
+gamma-Globulina 15.8%
+Hemograma:  Hb  146g/L;  Hto  40.8%;  VCM  85fL;  Plaquetas  >155x10E9/L;  Neutrófilos  3.8x10E9/L,  Linfocitos 2.72x10E9/L; N 52.2%, L 37.4%.
+Serologías: VIH, VHB, VHC, Treponema NEGATIVAS.
+
+
+EVOLUCIÓ CLÍNICA
+Paciente con AP a destacar de DM y deterioro cognitivo con mRankin 2-3, ingresa en NRL por ictus isquémico de ACM izquierda en contexto de estenosis de ACI izquierda post-bifurcación del 80-85%, sin tratamiento en fase aguda por ictus del despertar y ausencia de oclusiones intracraneales. Se inicia tratamiento antiagregante con AAS 300 mg y atrovasatina 40 mg.
+
+El paciente no es candidato a endarterectomía dado que el paciente presenta mRankin 2-3 y deterioro cognitivo con GDS 4. No se realiza RM cerebral por objetivarse ya lesión en TC craneal de urgencias.
+
+En la analítica de ingreso donde destaca HDL bajo, triglicéridos en el límite alto de la normalidad. Déficit de folatos, con cobalaminas normales. Plaquetas agregadas (>150.000/L). Serologías negativas.
+
+Neurológicamente presenta estabilidad clínica, presentando al alta NIHSS 2 a expensas de leve afasia (nomina 5/5, evoca 4/5, repite, alteración de la fluencia) (1) y leve disartria (1), siendo el resto normal. Tolera dieta oral y deambulación. Se realiza reahabilitación desde el inicio.
+
+Como incidencias durante el ingreso se detecta el 18/09 aumento de volumen testicular bilateral, indoloro, no eritematoso, sin lesiones cutáneas asociadas, afebril, sin palpación de masas. Ausencia de edemas en miembros inferiores o en abdomen. El paciente no sabe desde cuándo. Se comenta con urología y se decide control por médico de cabecera y derivación a Urología de zona según evolución clínica.
+
+Se orienta como ictus isquémico en territorio de ACM izquierda de etiología aterotrombótica por estenosis de ACI izquierda no tributario a tratamiento quirúrgico. Se recomienda TA entre 120-150 mmHg. Al alta NIHSS 2, mRankin 4.
+
+Informe d'alta d'hospitalització
+
+
+
+
+
+Dada la estabilidad clínica es dado de alta a domicilio el día 19/09.
+
+DIAGNÒSTICS
+436/5 Ictus isquémico ACM izquierda 433.10/1 Estenosi arteria carotide
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Evitar sedentarismo.
+
+AAS 300mg 1c/24h.
+Atorvastatina 40mg 1c/24h (por la noche). Resto de medicación sin cambios.
+
+CONTROL
+-Control por Neurología de zona (_LOCATION_). Se recomienda visita en un año con ecografía de troncos supraórticos. El paciente debe acudir a médico de cabecera para solicitar visita en Neurología _SS_.
+-Control  de aumento de volumen testícular por médico de cabecera y derivación a Urología de zona según evolución clínica.
+- Control déficit de folatos con médico de cabecera
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+19.09.2017
+Pàgina 1 de 4

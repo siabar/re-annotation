@@ -1,0 +1,120 @@
+SERVEI DE NEUROLOGIA
+INFORME DE ALTANº Historia clínica	_ID_
+Fecha de nacimiento
+_DATE_
+C.I.P.	_ID_	Código Centro	_ID_
+Teléfono	_CONTACT_	Dirección	_LOCATION_ Fecha ingreso	03/11/17		_LOCATION_ Fecha de alta	08/11/17	Teléfono	_CONTACT_
+Nº Asistencia	_ID_
+UH	_ID_
+
+
+
+DIAGNÓSTICOS:
+1.	ICTUS LACUNAR CÁPSULO-TALÁMICO DERECHO
+2.	SINDROME SENSITIVOMOTOR IZQUIERDO SECUNDARIO A 1.
+3.	SDM. CONFUSIONAL HIPERACTIVO
+4.	HIPERTENSIÓN ARTERIAL
+5.	EPILEPSIA VASCULAR
+
+Varón de 85 años. ALÉRGICO A PENICILINA. Fumador ocasional. Vive con hija. mRs 3 (deambula con bastón por intervención cadera, independiente para las ABVD).
+
+PROCEDIMIENTOS:
+Monitorización en Unidad de ictus TC craneal (x2) + angioTC
+Holter de eventos
+
+ANTECEDENTES:
+-	Hipertensión arterial sin tratamiento.
+-	Hiperglicemia simple que controla con medidas dietéticas.
+-	Epilepsia Vascular desde 2006 en tratamiento con Fenitoína 100mg. Seguimiento en _SS_.
+-	HBP/ Sd prostático
+-	Decompresion del canal espinal L3-L4 con hemilaminectomia parcial el 24/ 04/13.
+-	IQ: Artrodesis instrumentada lumbar (2005), intervención de hidrocele.
+-	Cardiopatía hipertensiva leve (ecodoppler de 04/2017 HVE leve + alteració de la relaxació + esclerosi aòrtica.)
+-	Polineuropatía sensitiva axonal leve secundaria a hiperglicemia, estudio completo realizado en NRL en 2013.
+
+TRATAMIENTO ACTUAL
+-	Carvedilol 6,25/12h
+-	Hidroferol 0,266 mg cada 30d
+-	Mastical 500 mg/24h
+-	Omperazol 20 mg/24h
+-	Paracetamol 1g/24h
+-	Sinergina (Fenitoina) 100 mg/8h
+-	Vatoud 75 mg (clopidogrel)/24h
+
+ENFERMEDAD ACTUAL:
+Traído a  Urgencias como código ictus extrahospitalario el día 03/11/2017 a las 20:40 horas,  por presentar a las 16:00 horas cuadro súbito de debilidad de pierna izquierda.
+Llega a UCIAS a las 20:48 horas. Hemodinámicamente estable y afebril y con NIHSS 5 a expensas de hemiparesia izquierda desproporcionada, hemihipoestesia izquierda y disartria. Se activa código  ictus intrahospitalario.
+
+
+EXPLORACIÓN FÍSICA:
+- Exploración física en UCIAS:
+Nombre	_NAME_	
+TA 148/70 mmHg, FC 68 lpm, glicemia 173 mg/dl, sat02 97% (Fi02 21%)
+NRL: Consciente y orientado en las tres esferas. No alteraciones campimétricas, no restricción MOEs, no parálisis   facial   ni   alteración   de   otros   ppcc.   Hemiparesia   izquierda   desproporcionada  (1+2)   y hemihipoestesia izquierda (1). Disartria (1), no afasia. RCP flexor bilateral. NIHSS: 5.
+-	AR: MVC sin ruidos sobreañadidos.
+-	AC: Tonos cardicoas rítmicos, no ausculto soplos ni roce pericárdico.
+
+-	Exploración física en Unidad de Ictus:
+TA  126/89,  FC  68,  Tª  36.1ºC,  BM  test  132.  Importante  agitación  nocturna  que  ha  precisado neurolépticos. Contención mecánica. Su familia explica que es habitual que presente  síndrome confusional en los ingresos hospitalarios.
+
+A la exploración disartria 1, preguntas/ordenes 0, orientado. Facial central izquierdo 1, no alteraciones campimétricas. Fuerza ESI 3/5 proximal, 4/5 distal (2), EII 2+/5 (3), no déficit sensibilidad superficial. Sospecha aectación sensibilidad profuntda, pero asterognosia y agrefestesia no valorables. NIHSS 7.
+AR: MVC
+AC: Tonos rítmicos. Ritmo sinusal en monitor. Abdomen: No doloroso.
+
+EXPLORACIONES COMPLEMENTARIAS:
+- Analítica UCIAS (fecha; hora): Glucosa 163 mg/dl, creatinina 1,03 mg/dl, sodio 138,1 mmol/l, potasio 4,63 mmol/l, cloro 103,7 mmol/, FGE 66 mL/min/1.73 m2, CK 75 UI/L 37C, PCR 9,1 mg/dl, Hb 13,5
+g/dl, Hto 40,5%, VCM 81,1 gl, HCm 31 pg, leucocitos 81300, neutrofilos 5890 (72,4%), lifmcoitos 1370
+(16,9%), plaquetas 225000, TP 11s, TP ratio 1,06, APTT 26, APTT ratio 0,94, fibrinogeno 421,2 mg/dl, D-
+dímero 1500 mgc/l
+-	ECG: Ritmo sinusal a 50 lpm. PR 0,16 ms. Bloqueo de rama derecha completo.
+-	Rx tórax: Marco oseo conservado. No infiltrado en parenquima pulmonar, ilio bronquial  derecho engrosado.
+-	TC craneal basal (03/11/2017): Absència de desplaçaments d`estructures de línia mitja supra  i infratentorials. No s`observen lesions hemorràgiques intra ni extraparenquimatoses.
+Dilatació global i simètrica del sistema ventricular, valls silvians i solcs corticals de la convexitat. Cisternes basals i peritronculars lliures. Parènquima cerebral mostrant afectació difusa de substància blanca periventricular i d`ambdós centres
+semiovals, que tradueix procés de reblandiment parcial/desmielinització de característiques senils i/o secundàries a hipòxia-hipoperfusió subcortical crònica.Principals vasos del poligon de Willis permeables, amb calibre i morfologia normal. Circulació posterior (artèries vertebrals i tronc basilar) permeable i de calibre normal. Ambdues artèries caròtides permeables.
+ACI`s permeables. Nòdul tiroidal esquerre de 15 mm.
+Es realitzen mapes de MTT, flux i volum sanguini, que no mostren àrees d`oligohèmia, isquèmia ni penombra isquèmica. Conclusió: Signes d`atròfia i leucoaraiosis. No s`observen alteracions de la perfusió ni angio
+- TC craneal 8/11: infarto lacunar cápsulo-talámico derecho subagudo, sin transformación hemorrágica. Severa leucoaraiosis. Signos estructurales de hidrocefalia.
+-Holter de eventos cardíacos. Pendiente de leer.
+
+EVOLUCIÓN:
+Se trata de un paciente de 85 años, con hipertensión arterial y antecedentes de epilepsia que presenta cuadro compatible con ictus LACI derecho.
+
+Se realiza TC craneal, angioTC y TC con perfusión que no muestra lesiones isquémicas agudas (ASPECTS 10), oclusión de grandes arterias o alteración en la perfusión.
+
+Se desestima realizar tratamiento recanalizador endovenoso por el tiempo de evolución de la  clínica (>4,5 horas) y endovascular al no presentar oclusión de grandes vasos.
+
+El paciente ingresa en Unidad de Ictus para monitorización y estudio neurovascular. Al ingresar presenta mejoría progresiva de la clínica, con paresia leve en extremidades izquierdas e hipoestesia. Se tratamiento de prevención secundaria con doble antiagregación con AAS 100 mg y clopidogrel 75 mg, estatinas y heparina profiláctica.
+No se objetivan eventos arrítmicos durante la monitorización en la Unidad de Ictus; se mantiene monitorizado mediante Holter cuyo resultado queda pendiente al alta.
+
+Se valoran al ingreso el estado de ánimo, las necesidades de rehabilitación y se inician fisioterapia y movilización precoces. Se realiza educación sanitaria acerca del ictus.
+
+En TC de control se confirma la presencia de ictus cápsulo-talámico derecho.
+
+Como complicaciones durante el ingreso ha presentado un sdm.confusional hiperactivo que ya había presentado en otras ocasiones. No presenta otras complicaciones, y dada la estabilidad clínica se decide alta. Es valorado por UFISS geriatría, que lo considera tributario de traslado a CSS. Al alta se mantendrá tratamiento doble antiagregante.
+
+Etiología TOAST LACUNAR, Oxford PACI. Al alta NIHSS 6. Rankin 4. Debe seguir controles en CCEE de Neurología en fecha programada.
+
+TRATAMIENTO:
+VER IMASIS
+
+INDICACIONES:
+-	Se recomienda control estricto de enfermedades que aumentan el riesgo de ictus: hipertensión arterial, diabetes, colesterol elevado (dislipemia) y enfermedades del corazón. Realizar el tratamiento de forma adecuada según las recomendaciones de su médico.
+-	Abstención de tabaco y alcohol
+-	Seguir una dieta adecuada, con poca sal, evitando grasas, especialmente las saturadas (grasas animales, aceites y grasas para cocinar).
+-	Evitar la obesidad y el sobrepeso y realizar ejercicio físico moderado de forma regular.
+-	Deberá acudir a visita de control en consultas externas de Neurología en la fecha programada.
+_NAME_
+Dr/a.	_NAME_
+Metge/essa Resident
+(Nº Colegiado : _ID_)
+Cap Secció	(Nº Colegiado : _ID_)
+Metge/essa Adjunt
+(Nº Colegiado : _ID_)
+
+
+
+Les seves dades personals s'incorporen en un fitxer d´usuaris a fi del seu tractament sanitari. Pot exercir el seu dret d´oposició, accés i rectificació de les dades inexactes dirigint-se al Servei de Documentació Clínica.
+Sus datos personales se incorporan en un fichero de usuarios para su tratamiento sanitario. Puede ejercer su derecho de oposición, acceso y rectificación de los datos inexactos dirigiéndose al Servicio de Documentación Clínica
+
+_SS_ | NIF _ID_ |_LOCATION_ | Telèfon _CONTACT_ | Fax _CONTACT_ | _CONTACT_
+Pàgina 1 de 4

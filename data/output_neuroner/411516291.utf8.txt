@@ -1,0 +1,124 @@
+_SS_
+_LOCATION_)  Tlf. _CONTACT_
+INFORME ALTA HOSPITALITZACIÓNHC	_ID_	Pacient	_NAME_	
+CIP	_ID_	Data Naix.   _DATE_	Edat 84	Sexe Home	NASS	_ID_
+Adreça   _LOCATION_		CP	_LOCATION_
+Població_LOCATION_		Tel.	_CONTACT_
+Episodi  _ID_	Admissió	29.08.2017 14:02		Alta	07.09.2017 19:00
+Servei	NEUUOHMB Neurologia		Unitat	U04UHHBL
+
+DIAGNÒSTIC ALTA
+
+Codi ICD-9	Descripció Diagnòstic
+434.91/5	AVC ISQUEMIC
+250.00/2	DIABETIS MELLITUS II
+496/2	MPOC
+272.4/1	DISLIPEMIA
+401.1	HIPERTENSIO ESSENCIAL BENIGNA
+434.91/5	AVC ISQUEMIC
+
+DADES INFORME
+
+Paciente de 84 años que es traido via SEM como ictus del despertar
+
+Enfermedad actual:
+
+El paciente es encontrado en el suelo en el día 29-8-17 por su hijo. Visto bien el día previo. El hijo dice que por como lo ha encontrado y como estaba la casa cree que el pasó esta noche.
+
+Antecedentes
+
+-	No alergias medicamentosas conocidas
+-	Enolismo crónico 21 UB/semana
+-	Exfumador
+-	HTA
+-	DM tipo 2
+-	DLP
+-	EPOC en tto BD
+-	No cardiopatia conocida. BRDHH.
+-	Esofagitis candidiásica resuelta, valorado en 07/2015 por digestología de nuestro centro a raíz de estudio con FGC por cuerpo extraño esofágico.
+-	Episodios sincopales de repetición que se han orientado como de etiología vagal. Ultimo en diciembre 2014.
+
+-	Tratamiento : no aporta, segun receta electronica: spiriva/24h, enalapil 10mg/24h, AAS 100mg/24h, metformina 1-1-0, omeprazol 20mg/24h , duodart 0.5/0.4/ 24h
+
+Exploracion física
+
+Consciente, orientado en tiempo y persona, nomina correctamente, comprede ordenes de dos ítems, disartria severa, no alt campimetricas ni extinción visual, no limitaciones MOE, paresia facial derecha con componente superior, lengua
+protruyen en línea media, hemiplejia derechas braquio-crural. Dudosa hemihipoestesia. NIHSS 14
+Exploraciones complementarias
+
+AG 30-8-17: HB glicada 7.1%, TG 92 mg/dl, Colesterol 178 mg/dl, HDL 58 mg/dl, LDL 100 mg/dl, urico 306.4
+Cr 73, FG 80.69
+
+AG 29-8-17: L 7.3, Hto 42%, plq 272. INR 1.13, glucosa 180 mg/dl, Cr 76, FG 79, Na 136, K 4.7
+
+ECG: ECG:RS a 95x BRDHH ya conocido
+Rx torax: ICT> 0.5. Sin condensaciones en campos pulmonares RM craneal:
+IV ventrículo centrado y de tamaño normal. Cisternas basales y perimesencefalicas libres.
+Sistema ventricular supratentorial centrado en linea media y moderadamente aumentado de tamaño , sin signos de actividad .
+Cisuras silvianas y surcos de la convexidad cerebral ensanchados de forma proporcionada .
+Lesión focal capsulo-lenticular izquierda que muestra hiperseñal en T2 , FLAIR y difusión con restricción de la misma y que corresponde a infarto lacunar en fase subaguda en territorio profundo de ACM izquierda
+Se identifica un infarto lacunar crónico caudado izquierdo(territorio de perforantes de circulación anterior ), craneal al infarto actual .
+En las secuencias T2 y Flair se identifican lesiones hiperintensas en forma de bandas periventriculares y algunas puntiformes aisladas en sustancia blanca profunda , con tendencia a confluir , asi como en tronco , que corresponden a áreas de desmielinización por hipoxia -isquemia crónica.
+No se objetivan otras alteraciones valorables en el resto de parénquima cerebral, cerebeloso ni tronco del encéfalo. Charnela occipito-raquídea sin alteraciones
+
+TC craneo/angioTC: CRANEO :
+IV ventrículo centrado . Cisternas de la base amplias y libres . Sistema ventricular supratentorial moderadamente dilatado y simétrico , centrado en linea media. Cisuras silvianas y espacios subaracnoideos de la convexidad cerebral ensanchados de forma proporcionada . Focos de hipodensidad periventricular y en sustancia blanca profunda que corresponden a focos de desmielinización por hipoxia -isquemia crónica .
+Imagen puntiforme hipodensa capsulo-ganglionar izquierda que corresponde a infarto lacunar crónico Calcificaciones tentoriales y de la hoz cerebral No se aprecian otras alteraciones tomodensitométricas valorables en parénquima cerebral ni fosa posterior . No hay evidencia de colecciones hemáticas intra ni extraaxiales .
+No se aprecian alteraciones densitométricas óseas . Senos paranasales libres . ANGIOTAC
+
+No hay variantes anatómicas ni estenosis valorable en origen de troncos supraaórticos. Origen de arteria vertebral izquierda sin estenosis ,con correcto flujo.
+A.vertebral derecha con flujo filiforme desde origen
+Arterias carótidas comunes de calibre normal y regular con extensas placas de ateromatosis calcificada mural que afectan ambos bulbos y que se extienden hacia ambas ACI , condicionando una reducción de la luz de la misma que a nivel de ACI derecha muestra una estenosis del 70-75% con flujo distal correcto .A nivel de ACI izquierda reduce la luz de forma algo menor con estenosis del 65 % de la misma y con flujo correcto distalmente a las placas de ateroma
+ACE permeables .
+Ateromatosis calcificada del segmento intracavernoso de ambas ACI
+Correcta visualización de emergencia de arterias cerebrales anteriores y medias
+A. Basilar con ateromatosis calcificada que muestra una estenosis focal en tercio medio que coincide con acodadura por lo que es dificil de valorar
+Visualización de arterias cerebrales posteriores sin alteraciones significativas.
+
+Ecocradiograma transtorácico:
+Ventricle esquerre no dilatat, lleugera hipertròfia septal (SIV 13mm). FE conservada 54%. Sense alteracions segmentàries.
+Disfunció diastòlica grau I, per alteració de la relaxació del VE.
+AE lleu-moderadament dilatada. Sense aneurisme SIA ni presència de shunt per Ecodoppler color TT.
+V. mitral amb lleu calcificació de l'anell mitral. IM mínima.
+V. Ao trivalva amb lleu esclerosi. Sense estenosi ni IAo. Aneurisme Arrel Ao (42mm).
+Ventricle dret no dilatat, i nomrocontràctil. IT mínima. PAP dintre la normalitat (PAPs estimada de 32mmHg). PVC no elevada.
+Sense vessament pericardic.
+*** Ecocardiografia doppler sense cardiopatia estructural significativa. Canvis propis de l'edat i FRCV.
+
+
+Evolución
+
+Se trata de un paciente de 84 años autónomo para ABVD que presenta un síndrome hemimotor derecho severo con fluctuación clínica durante las primeras 48 horas hasta instaurarse de forma definitiva una hemiplejia derecha con un NIHSS de 12.
+Se ha realizado un TC craneal basal que no muestra lesiones agudas evidentes y un angioTC que descarta oclusión intracraneal. La RM craneal muestra un infarto lacunar agudo capsulo-ganglionar izquierdo. El estudio cardiologico con ETT no muestra alteraciones relevantes.
+
+Se orienta como ictus de etiologia lacuar y se decide cambio de tratamiento antiagregante a clopidogrel. Se añade amlodipino a su tratamiento habitual.
+
+Al alta el paciente presenta una hemiplejia derecha facio-braquio-crural, procediéndose a traslado a centro de convalescencia.
+
+Tendrá control por su área basica de salud y neurología de área.
+
+
+Pauta al alta:
+
+PARACETAMOL 1 G SOBRE	1	UN	ORALsi precisa per dolorC/8H
+TAMSULOSINA 0,4 MG CAPS	1	COM ORAL	C/24H
+IPRATROPI (INHAL) 500 MCG/2ML AMP NEBUL		1	UN	NEBULITZAD	C/8H METFORMINA 850 MG COMP	0,5-0,5-1	ORAL		E-D-S
+AMLODIPINA 5 MG COMP	1	COM ORAL	C/24H-TARD
+ENOXAPARINA 40 MG XER	1	UN	SUBCUTANEA	C/24H-TARD
+CLOPIDOGREL 75 MG COMP	1	COM ORAL	C/24H OMEPRAZOL 20 MG CAPSULA		1	CAP  ORAL		C/24H-TARD ENALAPRIL 20 MG COMP	1	COM ORAL	C/24H ATORVASTATINA 40 MG COMP	1	COM ORAL	C/24H-TARD
+
+
+
+Tipus d'ingrés: Motiu d'alta:	Urgent Tra.Cent.No Ag	
+Metge Adjunt:
+_ID_
+Servei:	_NAME_
+
+NEUUOHMB Neurologia	Nº Col·legiat Adjunt:
+
+Data informe:  07.09.2017
+
+
+Pàgina 1 de	4
+Data i hora d'impressió:
+07.09.2017 19:48:45

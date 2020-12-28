@@ -1,0 +1,88 @@
+_SS_
+Núm. HC: _ID_
+Edat: 77
+Núm. Episodi: _ID_
+Núm. Assistència: _ID_
+Nom i Cognoms: _NAME_
+Adreça: _LOCATION_
+Població: _LOCATION_
+Afiliació: _ID_ Data Ingrés:01.02.2017 Data Alta: 20.02.2017
+Tel: _CONTACT_
+Sexe: D
+_LOCATION_ _CONTACT_ / _CONTACT_
+_CONTACT_Informe de asistencia
+SERVICIO DE MEDICINA INTERNA
+Paciente de 77 años de edad que ingresa al servicio de Medicina Interna procedente de UCIES con diagnóstico de Hematoma talámico izquierdo.
+
+ANTECEDENTES PERSONALES:
+Alergias: niega alergias medicamentosas conocidas. Estado basal: independiente para todas las ABVD, vive con su esposo. IB 85/100 (dependiente para la ducha, incontinencia urinaria), no deterioro cognitivo. Hábitos tóxicos: negados.
+
+ANTECEDENTES PATOLÓGICOS:
+-	DM tipo 2, en tratamiento con ADO. Última. HbA1C (12.2016) 6.5%. Retinopatía diabética leve.
+-	Hipercolesterolemia, en tratamiento farmacológico. Esteatosis hepática.
+-	HTA, en tratamiento farmacológico.
+-	Obesidad.
+-	Asma Moderado Persistente (Mal control).
+**PFR 01.2016:  FVC  62%, FEV 1 66%, FEV1/FVC 107%. Alteración ventilatoria no obstructiva/restrictiva de moderada intensidad. PBD es significativa. Funcionalismo pulmonar y clínica compatibles con asma moderada persistente.
+**En seguimiento por CE Neumología Dr. _NAME_ (05.2016). Aconsejo Flutiform (Fluticasona + Formoterol inh.) 2 inhal. c/ 12 hrs + Pluralais 10 mg 1 comp. c/ noche, Ventolin a demanda.
+**TC Torácico por hemidiafragma elevado: hepatomegalia con disminución de la atenuación, tomograficamente compatible con esteatosis probablemente la hepatomegalia es la causa de la elevación del hemidiafragma derecho.
+**Múltiples ingresos por reagudización, último en 12.2016. Consta infección por H. influenzae resistente a amoxi-clav en ingreso de 11.2015.
+-	AVC (1998). Hemiparesia y hemihipoestesia izquierda hace 20 años.
+-	ECG alterado (1997). Visitada en cardiología con ECG: RS a 62x ', Qs V1-V3, T neg DI y aVL. ECO cardio: IM ligera. Prueba de esfuerzo: clínicamente negativa. Se decidió control clínico.
+-	Trastorno Distímico /TP Histriónico. En seguimiento actual para Psiquiatría.
+-	Úlcera duodenal (1997). Hemorragia digestiva alta, se esclerosó y se hizo tratamiento erradicador de
+H. pylori.
+- Otros: Hernia hiatal, glaucoma, osteopenia, ciatalgia izquierda (protrusión distal L4-5).
+
+Medicación habitual: Losartan 50mg 1-0-0, Metformina 850mg 1-0-1, Omeprazol 20mg 1-0-0, Pluralais 10mg 1-0-0, Venlafaxina 150mg 2-0-0, Flutiform inhalado 125/5 2-0-2, Lormetazepam 2mg  0-0-0-1,
+Mirtazapina 15mg 0-0-1.
+
+ENFERMEDAD ACTUAL:
+El día de ayer presenta aprox. a las 17:15hrs, cuadro de disartria y afasia motora, con tendencia a la somnolencia y dificultas para movilizar hemicuerpo derecho por lo que avisan a SEM y es traída a UCIES.
+
+EXPLORACIÓ FÍSICA:
+Constantes: TA 158/88 mmHg, FC 113x', FR 23x', Temp. 37.3ºC. General: REG, palidez de piel, mucosa oral seca, eupnéica, febrícula. Respiratorio: MVC, no roncus ni sibilancias.
+
+
+Cardiovascular: RCR sin soplos, no IY, no RHY, no edema de EEII, no signos de TVP, pulsos periféricos presentes y simétricos.
+Abdomen: Globoso a expensas de panículo adiposo, no doloroso a la palpación, no masas ni megalias, no signos de irritación peritoneal.
+Neurológico: Galsgow 13, somnolencia, desorientada, pupilas isocóricas, normorrefléxicas, PCC, hemiplejía hemicuerpo derecha, sensibilidad no valorable por somnolencia, afasias  no valorables, hemicuerpo izquierdo con fuerza preservada.
+
+EXPLORACIONES COMPLEMENARIAS:
+Análisis: Hb. 14.1, Hto. 44.4, HCM 26.9, VCM 84.4, Plq. 315, Leuc. 11.8 (%N 64.4, %L 23.6), INR 1.10,
+Fibr. 557, Gluc. 145, Ur. 32, Cr. 0.66, FG 85, Bilirr. 0.4, AST 19, ALT 10, Lactato 2.8, Calcio 9.8, Cl. 100,
+K 3.6, Na 137, prot. 7.2, Album. 4.6, PCR 0.9.
+EAB: pH 7.36, pCO2 53.0, HCO3 29.9, CO2 total 31.5, exceso de base 4.5.
+Rx de tórax: ICR limítrofe, elevación de hemidiafragma derecho, ángulos costo-frénicos y cardio-frénicos libres, no condensaciones (sin cambios respecto a previas).
+ECG: RS, 110lpm. QRS estrecho. No alteraciones de la repolarización.
+TAC Craneal 01.02.2017: Se han practicado secciones en plano transversal para estudio craneal. HALLAZGOS: Se identifica hematoma talamico izquierdo de 3.4 2.1x3.5 (vol aprox 12.5cc), presenta apertura hacia el ventriculo lateral izquierdo con contaminación hematica, condiciona desplazamiento de la línea media unos 5mm hacia la derecha, no se identifica contaminación del ventrículo derecho, tercer ventrículo ni cuarto ventrículo. Resto el parénquima con leve leucoaraiosis periventricular. Parénquima cerebral  y  cerebeloso  sin  alteraciones  significativas.  Sistema  ventricular  de  morfología  y  tamaño normales. No se observan desplazamientos valorables de las estructuras de línea media. Cisternas basales y peritronculares libres.  CONCLUSIONES: Hematoma talámico izquierdo de aproximadamente 12cm³  con  contaminación  del  sistema  ventricular  (ventricular  izquierdo),  condiciona  un  discreto desplazamiento la línea media unos 5 mm hacia la derecha. Aunque la localización sugiere hematoma de posible origen hipertensivo, se aconseja completar estudio con RM para descartar lesión subyacente. TAC Craneal Control 08.02.2017: Hematoma talámico izquierdo con discreto borramiento de los bordes y reducción de la densidad del hematoma, evolución normal de sangrado parenquimático. Material hemático intraventricular de predominio en posición declive. Atrofia cortical cerebral. Hiperostosis craneal interna. Faquectomía bilateral.
+
+EVOLUCIÓN Y COMENTARIOS:
+Mujer de 77 años con los antecedentes patológicos antes mencionados que es valorada en UCIES por disartria y pérdida de la fuerza hemicuerpo derecho.
+
+A su llegada a UCIES presenta cifras tensionales elevadas, taquicardia y glic. 138 mg/dl. En exploración inicial destaca disartria, con discurso incoherente y hemiplejía derecha, así como desviación de la mirada a la izquierda. Se realiza analítica general con hemograma, función renal, hepática, ionograma normales y lactato elevado, rx. tórax y ECG dentro de la normalidad. Ante focalidad neurológica se realiza TC Craneal que informa de hematoma talámico izquierdo con contaminación del sistema ventricular. Se activa código ICTUS y es valorada por Dr. _NAME_ Neurólogo _SS_ (teleictus) quien indica que la paciente no es tributaria de valoración por neurocirugía dada la profundidad de sangrado, comunicación ventricular y estado de la paciente, recomendando control de TA, tratamiento sintomático y si empeoramiento clínico TAC control y recontactar.
+
+Ingresa a planta de medicina interna encontrándose hemodinámicamente estable, estuporosa, somnolienta, Glasgow 13, con hemiplejía hemicuerpo derecho. Se inicia tratamiento con dexametasona y control tensional y se inicia rehabilitación con mejoría progresiva. Al alta se encuentra consciente, parcialmente en tiempo, orientada en lugar y espacio, pupilas isocóricas, normorrefléxicas, PCC, hemiplejía de predominio proximal en ESD (2/5), moviliza antebrazo y mano derecha, en EID (3/5), no
+
+
+deambula. Se realiza TAC control que informa reducción de la densidad del hematoma. Ante estabilidad clínica y buena evolución clínica se alta a _SS_ para continuar rehabilitación y convalescencia.
+
+DIAGNÓSTICOS:
+DP: HEMATOMA TALÁMICO IZQUIERDO	432.1
+PROCEDIMIENTOS:
+TOMOGRAFÍA AXIAL COMPUTARIZADA	88.38
+
+TRATAMIENTO:
+3 LORMETAZEPAM 1 MG comprimit, 1 mg oral NIT (22) Diaria, si cal
+5	MIRTAZAPINA 15 mg comp bucod, 15 mg oral C/24H (22) Diaria
+6	OMEPRAZOL 20 MG caps, 20 mg oral C/24H (8) Diaria
+8 PARACETAMOL 1 G comp, 1 g oral C/8H (8,16,24) Diaria
+11 VENLAFAXINA RETARD 150 MG capsula, 150 mg oral C/12H (8,13) Diaria
+
+Cordialmente,
+
+Dr. _NAME_  _ID_
+Dr. _NAME_ _ID_9 Dra. _NAME_  _ID_
+
+
+_LOCATION_ a 20.02.2017.

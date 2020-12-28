@@ -1,0 +1,132 @@
+_LOCATION_
+_LOCATION_) Anul·lació/Reprogramació visites:_CONTACT_
+Telèfon Centraleta: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 86 Anys
+NIF/DNI: _ID__NAME_; _NAME_; _NAME_;
+_NAME_
+Informe d'alta d'hospitalització
+10:15:29
+17.03.2017
+_LOCATION_
+_SS_ NEUROLOGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_; _CONTACT_
+DOMICIL/RES.SOC 12.03.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Ictus vertebrobasilar tratado con trombolisis iv (rTPA.) en la fase aguda.
+
+ANTECEDENTS
+- No alergias medicamentosas conocidas
+- No hábitos tóxicos
+-	Hipertensión  Arterial  en  tratamiento  médico.  Diabetes  Mellitus  en  tratamiento  con  ADOs.  Dislipemia. Sobrepeso.
+-	Fibrilación auricular en tratamiento anticoagulante con sintrom.
+-	En Historia  de CAP figura  ingreso  en 2009 en que  se  diagnostica de cardiopatía  hipertensiva (no  aporta informes).
+-Hiperreactividad bronquial, episodio de bronquitis aguda en marzo de 2016.
+-Hiperuricemia en tratamiento.
+-Lumbalgia por espondilosis, en tratamiento con tramadol+paracetamol.
+-Insuficiencia venosa crónica.
+-Intervenciones quirúrgicas: Triquiasis tratada mediante disección lamelar y exéresis con plastia local de ambos ojos. Exéresis de lesión retroauricular derecha sugestiva de ca basocelular.
+
+Situación basal: vive sola, se desplaza sin ayuda, independiente para ABVD. mRS de 0.
+
+
+MEDICACIÓ HABITUAL
+Alopurinol 100mg/24h, Verapamilo 240mg/24h, Metformina  850  mg/24h, Omeporazol  20mg/24h, Furosemida 40mg/12h, Sintrom 4mg según pauta, Valsartan 160 mg/24h, Tramadol+Paracetamol1c/12h
+
+
+
+
+
+PROCÉS ACTUAL
+Mujer de 86 años que el 12/03, tras despertarse asintomática, presenta a las 07.45h en domicilio clínica brusca de hemiparesia derecha y alteración del habla. La misma paciente avisa a sus familiares, y estos avisan al SEM quien activa código ictus a las 08.24h. Se traslada al _SS_.
+
+A su llegada a _SS_ a las 08.39h, presenta HTA (195/113mmHg), DTX 96, Coagucheck 1.3. Neurológicamente consciente, desorientada en edad , orientada en tiempo (1), mínima alteración del lenguaje (alguna parafasia, dificultad para repetir, fluencia conservada, nomina y evoca 5/5) (1), disartria leve (1), PFSN derecho leve (1), hemiparesia braquiocrural derecha 4/5 (1+1), hemihipoestesia dcha (1). NIHSS 7. Se realiza TC craneal (08.57h) en el que no hay signos de isquémica hiperaguda.
+Se orienta como posible PACI de ACM izquierda. Ante ausencia de contraindicación y en tiempo ventana se inicia trombolisis iv (rTPA) a las 9:15h (bolus 7mg + PVC 65mg), siendo la TA previa a bolus 165/100mmHg.
+
+Informe d'alta d'hospitalització
+
+
+
+
+A la revaloración TA 144/79 mmHg, FC 104 lpm (FA conocida), SatO2 96% basal. Neurológicamente destaca orientada en TEP, disartria moderada (2), lenguaje conservado (nomina 5/5, evoca 5/5, repite correctamente, sin parafasias), cumple órdenes simples y complejas, campimetría por confrontación conservada, PICNR, MOEs conservados sin diplopia, nistagmus horizonto-rotatoria a la izquierda, PFSN D (1), velo paladar derecho caído, lengua centrada, hemiparesia derecha BC 5-/5 con Miller-Fisher derecho, hemihipoestesia derecha BC (1), RCP flexor bilateral. No dismetría dedo-nariz. Sin extinción visual ni sensitiva. Siendo el NIHSS 4. Analíticamente destaca urea 8.2 mmol/l, creatinina 90 mmol/l, TP 1.31, TTPA 1.05 siendo el resto normal. Rx de tórax que muestra signos de redistribución vascular. En ECG fibrilación auricular a 110 lpm, sin alteraciónes en ST ni en repolarización.
+
+Se reorienta como ictus vertebrobasilar de probable etiología cardioembólica en paciente con FA infracoagulada. Tratado con trombolisis con mejoría clínica. Se decide ingreso en Unidad Ictus Neurología.
+
+
+
+EXPLORACIÓ FÍSICA
+
+TA 160/80 mmHg, FC 126 lpm Tª 37,7 ºC, Sat O2 94%
+NRL: consciente, orientada (responde mes y edad), disartria moderada (2), sin alteración del lenguaje, cumple órdenes, MOEs conservados, no déficits campimétricos, simetría facial conservada, no déficits motores, hipoestesia faciobraquiocrural derecha (1), no extinción visual ni sensitiva. NIHSS 3.
+AR:  crepitantes  húmedos  bibasales,  espiración  alargada  con  sibilantes  espiratorios dispersos  sugestivo  de espasticidad bonquial.
+AC: tonos cardíacos arrítmicos sin soplos audibles ni ruidos sobreañadidos.
+ABD: abdomen globuloso. Blando y depresible. No doloroso a la palpación superficial ni profunda. EEII: no edemas ni signos de TVP.
+
+EXPLORACIÓ COMPLEMENTÀRIA
+Urgencias:
+TC craneal: No son visibles signos de patología aguda en el momento actual.
+Rx  tórax:   marco  óseo  conservado,  ICT>0.5,  hilios  congestivos,  signos  de  redistribución   vascular.  No condensaciones parenquimatosas.
+ECG:  fibrilación  auricular 110  lpm,  eje  a  +60º,  QRS  estrecho, sin  cambios  en  ST,  sin  alteraciones  de  la repolarización.
+
+Neurología:
+Tc craneal control: No se observa sangrado agudo intra ni extraaxial. Estructuras de la línea media centradas. Atrofia cortical y leucoaraiosis. Resto sin cambios.
+Analítica completa: función renal alterada con urea elevada (13.1 mmol/L), creatinina elevada (116 umol/L), y FG disminuida (37 mL/min). Equilibrio hidroelectrolítico (Na ) normal. Bioquímica hepática FA 1.86ukat/L resto (AST, ALT, GGT) normal. Ca normal. Proteína normal. Perfil Hb /A1c 37mmol/L (5.5%), glucosa media 6.1mmol/L. Proteinograma: albumina 47%, alfa1-globulina 6.3%, alfa2-globulina 16%, resto normal. Hemograma serie roja y plaquetas normal, blanca con leucocitosis de 10.100 con neutrofília 6.900 (68.5%). VSG 42mm. Coagulación (analítica urgencias): TTPA 1.05, TP 1.31.
+Angio RMN y RMN cerebral: Infarto agudo establecido en territorio PICA derecha. Cambios involutivos en parénquima encefálico. Ausencia de flujo en el inicio del trayecto intradural de la arteria vertebral derecha que no
+
+Informe d'alta d'hospitalització
+
+
+
+
+podemos descartar que sea artefactual.
+Eco renal:Cambios renales sugestivos de nefropatía crónica, a correlacionar clínicamente.
+ETT: Ventricle esquerre no dilatat. Hipertròfic. Sense alteracions de la contractilitat segmentària. La fracció d'ejecció està conservada. FE estimada 60%. Aurícula esquerra dilatada. Presions d'ompliment elevades. Vàlvula aòrtica tricúspide, esclerosada, lleugerament calcificada, sense gradient significatiu. Cavitats dretes no dilatades. Sense insuficiència tricúspide. Vena cava inferior no dilatada. Sense vessament pericàrdic
+
+
+EVOLUCIÓ CLÍNICA
+Mujer de 86 años que ingresa en Unidad ictus el 12/03 con la sospecha de ictus vertebrobasilar, tratado con trombolisis ev
+con mejoría clínica. De probable etiología cardioembólica en paciente con FA conocida e INR infraterapéutico en paciente con buen cumplimiento terapéutico.
+
+Durante su estancia en Unidad de ictus se mantiene neurológicamente estable con un NIHSS de 3 en el momento del traslado a expensas de hipoestesia FBC derecha y disartria moderada. En la monitorización se objetiva FA ya conocida con FC elevadas por lo que se reinicia tratamiento con verapamilo 240mg/24h que llevaba la paciente en domicilio, con buenos controles posteriores.
+
+Como incidencia, el primer día de ingreso presenta cuadro de insuficiecia cardíaca en contexto de FA rápida, con buena respuesta al tratamiento deplectivo y broncodilatador. Dado que sólo consta un episodio anterior el 2009 en antecedents del CAP sin estudio, solicitamos ETT. En ETT destaca VI hipertrófico, FE conservada (60%), sin segmentarismos, AI dilatada presiones de llenado elevadas, sin valvulopatía significtativa.
+En TC craneal de control a las 24h se descarta complicación hemorrágica, por lo que se reinicia ACO (warfarina). En angio RMN y RMN cerebral destaca infarto agudo establecido en territorio PICA derecha y ausencia de flujo en el inicio del trayecto intradural de la arteria vertebral derecha, no pudiéndose descartar que sea artefactual.
+En analítica completa destaca insuficiencia renal con FG 37 mL/min (siendo a finales de 2016 de 41 mL/min), por lo que solicitamos ECO renal que informa de cambios sugestivos de nefropatía crónica. Se recomienda seguimiento por MAP. Además, destaca leve elevación de FA, y muy leve leucocitosis con neutrofília y VSG de 42mm que en el contexto actual de ictus agudo no són significativas.
+
+Se orienta el caso como ictus vertebrobasilar en territorio de PICA derecha de probable orígen cardioembólico por FA conocida en tratamiento ACO infraterapéutico pero con buen cumplimiento por parte de la paciente. Es valorado conjuntamente con Hemostasia reiniciándose ACO, pero se recomienda valorar paso a NACO en fase subaguda dada la ausencia de valvulopatía en ecocardiografía.
+
+Dada la estabilidad neurológica se traslada al _SS_ (hospital de referencia) para reactivar a la paciente, hasta hoy ha permanecido en unidad de ictus, no ha iniciado deambulación, y revalorar tratamiento anticogulante.
+
+
+DIAGNÒSTICS
+436/5 Ictus
+427.31 Fibril·lació auricular
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Se adjunta
+
+Informe d'alta d'hospitalització
+
+
+
+
+DESTINACIÓ A L'ALTA:	HOSP. AGUTS/PSQ
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+17.03.2017
+Pàgina 1 de 4

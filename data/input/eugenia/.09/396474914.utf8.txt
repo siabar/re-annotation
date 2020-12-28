@@ -1,0 +1,102 @@
+_LOCATION_ Tel. _CONTACT_
+e-mail: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 84 Anys
+NIF/DNI: _ID_Informe d'alta d'hospitalització
+11:59:00
+02.08.2017
+_LOCATION_
+_SS_
+ANGIOLOGIA I CIRURGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_; _CONTACT_
+DOMICIL/RES.SOC 30.07.2017
+Dr. _NAME_, Dr. _NAME_, Dra. _NAME_
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+ESTENOSIS CAROTÍDEA SINTOMÁTICA IZQUIERDA
+
+ANTECEDENTS
+Sin alergias medicamentosas conocidas. Ex-fumador de 3 paq/dia desde hace más de 50 años. Enol leve (2 UBES: 1 cerveza y 1 carajillo/día). Independiente para las actividades básicas de la vida diaria (mRS 0).
+
+ANTECEDENTES PATOLÓGICOS:
+-Hipertensión arterial sin tratamiento farmacológico.
+-Diabetes mellitus tipo 2 en tratamiento médico.
+-Enfermedad del nodo sinusal desde 1999 tratada mediante marcapasos. Su primer MCP era un AAI y se complicó con granuloma recidivante hasta que fue recambiado por un nuevo AAI en el otro lado en Abr-2002; no se pudo extraer el electrodo antiguo del lado izquierdo. En Abr-2004 tuvo dolor pericardítico que resultó debido a desplazamiento del resto de electrodo antiguo hasta el VD, con impactación en su pared. Se intentó extraer dicho electrodo por hemodinámica produciéndose un "pelado" del mismo y quedando retenido en el espacio intravascular el "ánima" metálica del electrodo.
+-Cardiopatía isquémica con enfermedad de 3 vasos diagnosticada en Junio de 2004 tratada de forma conservadora y actualmente estable.
+-Bloqueo auriculoventricular grado 2 tipo 1 sintomático. En contexto de inicio de tratamiento con beta-bloqueantes fue alargando progresivamente el PR hasta que un Holter mostró alguna onda P bloqueada, por lo que dada la clínica de angor de esfuerzo se decidió recambiar el marcapasos AAI por uno DDD, mostrando mejoría clínica posterior. En Jul-2010 se procedió a implante de MCP DDD por el lado izquierdo y a explante del AAI derecho. No se pudo extraer completamente el electrodo.
+-Síncope de aspecto ortostático-funcional en Ene-2011 con estudio cardiológico negativo.
+-Estenosis >70% diagnosticada a raíz de estudio de TSA por síncope en el 2011. Seguía controles clínicos y ecográficos en _SS_.
+-Adenocarcinoma de prostata T1c, Gleason 7, PSA 8.69 ng/mL (risc EC 19-40%, SV 7-8% i ADPs 3%). Tratado mediante radioterapia y quimioterapia. Recibió radioterapia sobre pròstata y raíz de vesícules seminales, 76 Gy en fraccionamento estándard, del 19.7.11 al 16.9.11. Actualmente en remisión completa, sin recidivas ni toxicidad.
+Recibió bloqueo androgénico completo con bicalutamida (Pencial®) y leuprorelina semestral (Eligard®) durante 6 meses en 2011. Último control: PSA (31.8.16): 0.16 ng/mL, testosterona de 554.7 ng/dL. Próximo control en CEX Oncologia radioterápica en Oct-2017 con control de PSA, testosterona, HbA1c i colesterol.
+
+
+MEDICACIÓ HABITUAL
+ADIRO 100mg c/24h ATORVASTATINA 80mg c/24h
+APIXABAN 5mg c/12h METFORMINA  850mg c/12h OMEPRAZOL 20mg c/24h
+
+Informe d'alta d'hospitalització
+
+
+
+PROCÉS ACTUAL
+Paciente con reciente AIT cerebral izquierdo de posible etiologia ateroembólica por estenosis ACI I 70 %. Se presento en sesión de neurología decidiendo endarterectomia carotidea izquierda. Ingresa de manera programada para cirugía.
+
+
+EXPLORACIÓ FÍSICA
+
+Anodina al ingreso.
+
+EXPLORACIÓ COMPLEMENTÀRIA
+TC craneal simple y angio TC TSA y craneal (09.07.2017)
+Múltiples infartos isquémicos lacunares crónicos de ganglios basales bilaterales. Hipoatenuación de la sustancia blanca periventricular bilateral simétrica y difusa compatible con desmielinización de características inespecíficas de probable causa isquémica crónica.
+Cisternas basales y perimesencefálicas libres. Línea media centrada.
+No se aprecian alteraciones óseas TC valorables. Adenopatias paratraqueales bilaterales de eje corto en el limite superior de la normalidad, a correlacionar clinicamente. Sin otras alteraciones parenquimatosas ni extraaxiales TC valorables.
+Angio TC
+Ateromatosis de de la ACI bilateral a nivel de la bifurcación carotídea, con estenosis de la porcíon cavernosa, de predominio izquierdo. No se evidencian estenosis ni defectos de replección de los vasos cerebrales ni troncos supraaórticos TC valorables.
+
+PREOPERATORIO APTO
+
+EVOLUCIÓ CLÍNICA
+Intervención quirúrgica:
+El 01/08/2017 se realiza endarterectomía carotídea izquierda con shunt y cierre con parche. Al finalizar el paciente está consciente y orientado sin focalidades neurológicas.
+
+Evolución:
+El paciente permance ingresado, estable y sin presentar complicaciones. Inicia deambulación y tolerancia oral sin incidencias. Se acuerda alta a domicilio y control ambulatorio.
+
+DIAGNÒSTICS
+-	Estenosis carotídea sintomática
+
+PROCEDIMENTS
+-	TEA Carotídea
+-	
+Informe d'alta d'hospitalització
+
+
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+-	Cura de la herida con yodo cada 24 horas
+-	Paracetamol 1g cada 8 horas si dolor
+
+Medicación habitual sin cambios: ADIRO 100mg c/24h ATORVASTATINA 80mg c/24h
+APIXABAN 5mg c/12h METFORMINA  850mg c/12h OMEPRAZOL 20mg c/24h
+
+CONTROL
+Acudir a control en CCEE _SS_ Vascular según programación en hoja adjunta.
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+Validat per: _NAME_	Col·legiat: _ID_
+
+02.08.2017
+Pàgina 1 de 3

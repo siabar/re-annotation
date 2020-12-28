@@ -1,0 +1,46 @@
+T1	SECCION_DIAGNOSTICOS 27 39	Diagnosticos
+T2	SECCION_PROCEDIMIENTOS 273 287	Procedimientos
+T3	SECCION_MOTIVO_DE_INGRESO 490 507	Motivo de ingreso
+T4	SECCION_ANTECEDENTES_PATOLOGICOS 593 613	Antecedentes Médicos
+T5	SECCION_SITUACION_FUNCIONAL 1650 1665	Situación basal
+T6	SECCION_TRATAMIENTO_HABITUAL 1720 1744	Tratamiento domiciliario
+T7	SECCION_PROCESO_ACTUAL 1794 1803	Anamnesis
+T8	SECCION_EXPLORACION_FISICA 2645 2656	Exploración
+T9	NIHSS_previa 3318 3326	NIHSS 14
+#9	AnnotatorNotes T9	14
+T10	SECCION_EXPLORACIONES_COMPLEMENTARIAS_EN_PLANTA_DE_NEUROLOGIA 3646 3663	Analítica ingreso
+T11	SECCION_EXPLORACIONES_COMPLEMENTARIAS 4109 4143	Resultados pruebas complementarias
+T12	ASPECTS 4693 4702	ASPECTS 6
+#12	AnnotatorNotes T12	6
+T13	Fecha_de_alta 15 25	13-07-2018
+#13	AnnotatorNotes T13	2018-07-13
+T14	Ictus_isquemico 57 73	INFARTO CEREBRAL
+T15	Arteria_afectada 94 116	ARTERIA CEREBRAL MEDIA
+T16	Lateralizacion 117 124	DERECHA
+T17	Etiologia 147 161	CARDIOEMBÓLICA
+T18	Fecha_inicio_sintomas 1890 1898	3/7/2018
+#18	AnnotatorNotes T18	2018-07-03
+T19	Fecha_llegada_hospital 1890 1898	3/7/2018
+#19	AnnotatorNotes T19	2018-07-03
+T20	Hora_inicio_sintomas 1979 1984	08:30
+#20	AnnotatorNotes T20	08:30
+T21	Hora_llegada_hospital 2501 2506	12:25
+#21	AnnotatorNotes T21	12:25
+T22	Trombectomia_mecanica 352 373	Trombectomía primaria
+T23	Fecha_inicio_trombectomia 1890 1898	3/7/2018
+#23	AnnotatorNotes T23	2018-07-03
+T24	Fecha_primera_serie_trombectomia 1890 1898	3/7/2018
+#24	AnnotatorNotes T24	2018-07-03
+T25	Fecha_recanalizacion 1890 1898	3/7/2018
+#25	AnnotatorNotes T25	2018-07-03
+T26	Fecha_fin_trombectomia 1890 1898	3/7/2018
+#26	AnnotatorNotes T26	2018-07-03
+T27	Hora_inicio_trombectomia 2578 2583	13:28
+#27	AnnotatorNotes T27	13:28
+T28	Hora_recanalizacion 2613 2618	13:43
+#28	AnnotatorNotes T28	13:43
+T29	Hora_recanalizacion 2625 2630	13:49
+#29	AnnotatorNotes T29	13:49
+T30	TAC_craneal 4219 4221	TC
+T31	SECCION_EVOLUCION 11089 11111	Evolución Hospitalaria
+T32	SECCION_TRATAMIENTO_Y_RECOMENDACIONES_AL_ALTA 12672 12709	Recomendaciones y tratamiento al alta

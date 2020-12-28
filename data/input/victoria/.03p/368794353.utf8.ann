@@ -1,0 +1,98 @@
+T0	HORA 227 232	16:42
+#0	AnnotatorNotes T0	16:42
+T1	FECHA 236 246	08.05.2017
+#1	AnnotatorNotes T1	2017-05-08
+T2	FECHA 350 360	26.04.2017
+#2	AnnotatorNotes T2	2017-04-26
+T3	SECCION_MOTIVO_DE_INGRESO 414 428	MOTIU D'INGRÉS
+T4	_SUG_Trombolisis_intravenosa 513 538	tractat amb fribrinòlisis
+T5	_SUG_Trombolisis_intravenosa 553 558	rt-PA
+T6	SECCION_ANTECEDENTES 560 571	ANTECEDENTS
+T7	_SUG_Etiologia 663 674	Hipertensió
+T8	SECCION_TRATAMIENTO_HABITUAL 737 755	MEDICACIÓ HABITUAL
+T9	_SUG_Tratamiento_antiagregante 781 784	AAS
+T10	SECCION_PROCESO_ACTUAL 919 932	PROCÉS ACTUAL
+T11	HORA 989 994	12.30
+#11	AnnotatorNotes T11	12:30
+T12	FECHA 1004 1009	26/04
+#12	AnnotatorNotes T12	2017-04-26
+T13	_SUG_Lateralizacion 1106 1114	esquerre
+T14	_SUG_Ictus_isquemico 1149 1154	ictus
+T15	_SUG_Etiologia 1201 1212	hipertensió
+T16	_SUG_Lateralizacion 1329 1337	esquerra
+T17	_SUG_Lateralizacion 1371 1376	dreta
+T18	_SUG_Lateralizacion 1394 1402	esquerra
+T19	_SUG_Lateralizacion 1415 1423	esquerra
+T20	_SUG_NIHSS 1449 1457	NIHSS 11
+T21	_SUG_TAC_craneal 1459 1470	TAC craneal
+T22	_SUG_ASPECTS 1507 1515	ASPECT 9
+T23	_SUG_Trombolisis_intravenosa 1554 1565	fibrinolisi
+T24	_SUG_Trombectomia_mecanica 1644 1667	tractament endovascular
+T25	_SUG_TAC_craneal 1711 1714	TAC
+T26	SECCION_EXPLORACION_FISICA 1754 1771	EXPLORACIÓ FÍSICA
+T27	_SUG_mRankin 1874 1881	mRankin
+T28	_SUG_NIHSS 1891 1900	NIHSS: 11
+T29	_SUG_Lateralizacion 1946 1951	dreta
+T30	_SUG_Lateralizacion 2030 2038	esquerra
+T31	_SUG_Lateralizacion 2070 2078	esquerre
+T32	_SUG_Lateralizacion 2104 2112	esquerra
+T33	_SUG_Lateralizacion 2135 2143	esquerra
+T34	_SUG_Lateralizacion 2158 2166	esquerre
+T35	_SUG_Lateralizacion 2201 2209	esquerra
+T36	_SUG_Hemorragia_cerebral 2391 2399	hematoma
+T37	_SUG_Lateralizacion 2416 2424	esquerra
+T38	SECCION_EXPLORACIONES_COMPLEMENTARIAS 2466 2491	EXPLORACIÓ COMPLEMENTÀRIA
+T39	SECCION_EXPLORACION_FISICA_EN_URGENCIAS 2492 2516	Exploracions a Urgències
+T40	_SUG_TAC_craneal 2782 2793	TAC craneal
+T41	_SUG_Lateralizacion 2829 2836	derecha
+T42	_SUG_ASPECTS 2838 2847	ASPECTS 9
+T43	_SUG_Ictus_isquemico 2933 2950	Infarto isquémico
+T44	_SUG_Lateralizacion 2986 2993	derecha
+T45	_SUG_TAC_craneal 3001 3003	TC
+T46	SECCION_EXPLORACION_FISICA_DURANTE_HOSPITALIZACION 3087 3122	Exploracions a planta de Neurologia
+T47	_SUG_TAC_craneal 3126 3137	TC de crani
+T48	FECHA 3150 3155	27/04
+#48	AnnotatorNotes T48	2017-04-27
+T49	_SUG_Localizacion 3199 3206	frontal
+T50	_SUG_Lateralizacion 3207 3214	derecha
+T51	FECHA 3346 3351	26/04
+#51	AnnotatorNotes T51	2017-04-26
+T52	_SUG_Lateralizacion 3364 3372	esquerra
+T53	_SUG_Lateralizacion 3607 3615	esquerra
+T54	_SUG_Lateralizacion 3633 3637	dret
+T55	_SUG_Ictus_isquemico 3812 3820	inflarto
+T56	_SUG_Hemorragia_cerebral 3845 3856	hemorrágico
+T57	_SUG_Localizacion 3857 3864	frontal
+T58	_SUG_Lateralizacion 3876 3883	derecho
+T59	_SUG_ASPECTS 3944 3951	aspecto
+T60	_SUG_Localizacion 3981 3988	frontal
+T61	_SUG_Localizacion 4053 4063	cerebeloso
+T62	_SUG_Lateralizacion 4195 4203	esquerre
+T63	_SUG_Lateralizacion 4246 4254	esquerra
+T64	SECCION_EVOLUCION 4595 4611	EVOLUCIÓ CLÍNICA
+T65	_SUG_Trombolisis_intravenosa 4707 4711	rTPA
+T66	_SUG_Arteria_afectada 4885 4888	ACA
+T67	_SUG_Lateralizacion 4889 4894	dreta
+T68	_SUG_Etiologia 5045 5056	hipertensió
+T69	SECCION_EXPLORACION_FISICA_AL_ALTA 5333 5352	Exploració a l'alta
+T70	_SUG_mRankin 5354 5364	mRankin: 5
+T71	_SUG_NIHSS 5365 5374	NIHSS: 14
+T72	_SUG_Lateralizacion 5463 5468	dreta
+T73	_SUG_Lateralizacion 5473 5481	esquerra
+T74	_SUG_Lateralizacion 5526 5534	esquerra
+T75	FECHA 5536 5539	4/4
+#75	AnnotatorNotes T75	2017-04-04
+T76	_SUG_Lateralizacion 5558 5566	esquerra
+T77	_SUG_Lateralizacion 5616 5624	esquerra
+T78	_SUG_Lateralizacion 5639 5647	esquerre
+T79	SECCION_DIAGNOSTICOS 5651 5662	DIAGNÒSTICS
+T80	_SUG_Ictus_isquemico 5669 5674	Ictus
+T81	_SUG_Arteria_afectada 5675 5678	ACA
+T82	_SUG_Lateralizacion 5679 5684	dreta
+T83	_SUG_Etiologia 5697 5709	criptogènica
+T84	_SUG_Etiologia 5717 5728	Hipertensió
+T85	SECCION_TRATAMIENTO_Y_RECOMENDACIONES_AL_ALTA 5797 5832	TRACTAMENT I RECOMANACIONS A L'ALTA
+T86	SECCION_CONTROL 5849 5856	CONTROL
+T87	SECCION_DESTINO_AL_ALTA 5904 5923	DESTINACIÓ A L'ALTA
+T88	FECHA 5980 5990	08.05.2017
+#88	AnnotatorNotes T88	2017-05-08

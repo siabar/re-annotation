@@ -1,0 +1,190 @@
+
+
+
+
+
+Informe d'Alta Hospitalària	Cognoms i nom:
+_NAME_	NHC:
+_ID_
+	ABS:
+_SS_	CIP:
+_ID_	DNI:
+_ID_
+	Data de naixement:
+_DATE_	Sexe:
+Home	Edat:
+58a	Telèfon:
+_CONTACT_
+	Finançament:
+CatSalut - CATALUNYA	Procedència:
+	Admissió:
+01.02.2017 - 20:06	Servei:
+NEUROLOGIA HOSP	Data entrada urg.:
+30.01.2017 - 18:45
+Adreça:
+_LOCATION_	Població:
+_LOCATION_	Codi Postal:
+_LOCATION_
+
+
+
+Motivo de ingreso
+Varón de 58 años que ingresa por sospecha de ictus isquémico.
+
+
+ANTECEDENTES
+-	No AMC
+-	EPOC GOLD 2
+-	Hàbits tòxics: Fumador de 1 paq/dia, exenol de 9 UBE
+-	No HTA, no DM2
+-	Sd ansiós depressiu en ttm amb alprazolam i escitalopram
+-	IQ: apendicitis, tendinitis calcificant supraespinós bilateral, placa en avantbraç D (accident  laboral, era celador, actualment baixa)
+-	Medicació  habitual  gener'17:  Seretide  2puff/12h,  Salbutamol  a  demanda,  Alprazolam  0'25  mg/12h, Escitalopram 30mg/dia
+
+ENFERMEDAD ACTUAL
+Varón de 58 años que es traído a urgencias de nuestro centro por inestabilidad de la marcha de inicio brusco. Como principales antecedentes el paciente presenta tabaquismo activo y exenolismo. También está diagnosticado de EPOC y de un trastorno de ansiedad. A nivel sociofuncional es un paciente autónomo para actividades básicas e instrumentales de la vida diaria, aunque ahora está de baja por problemas con el hombro derecho. Rankin 2.
+
+Según cuenta el paciente y su hija, estando previamente bien, el paciente ha debutado este mediodía con intensa sensación de mareo y lateralización a la izquierda. Su hija explica que lo ha encontrado apoyado en la nevera sobre el lado izquierdo con imposibilidad para andar. Posteriormente ha dado algunos pasos muy inestable y con sensación de ir en barco. Dudan si también arrastraba más la pierna izquierda. En ese momento ha empezado a vomitar hasta 4 veces y finalmente se ha quedado dormido en el sofá. Tras 15 minutos su hija lo ha despertado y ha comprobado que no podía deambular bien y que hablaba algo más pastoso de lo habitual. Por este motivo han decidido finalmente consultar a urgencias.
+
+A su llegada a urgencias el paciente se encuentra hemodinámicamente estable y afebril con tendencia a la hipertensión arterial. Ctes: 185/82 mmHg, 80 lpm. A la exploración neurológica se evidencia una muy leve disartria, con dismetría de predominio derecho, disdiadococinesias, hipoestesia izquierda y ataxia troncular puntuando una NIHSS de 0+0+0+0+0+0+(0+0)+(0+0)+2+1+0+1+0=4.Se realiza un ECG que se encuentra en ritmo sinusal, un TC craneal en el que no se evidencian lesiones agudas y un AngioTC en el que no se observan oclusiones intracraneales ni estenosis significativas a nivel extracraneal.
+
+
+
+
+El cuadro se orienta como un posible ictus isquémico de territorio vertebrobasilar de etiología indeterminada pendiente de completar estudio. Dado el tiempo de evolución se desestima tratamiento de reperfusión con fibrinolisis.
+
+EXPLORACIÓN FÍSICA
+En Urgencias
+-	Vigil y orientado
+-	Sin rasgos afásicos
+-	Disartria leve
+-	No defectos campimétricos por confrontación
+-	PICNR. MOEs sin limitaciones. No observo nistagmus
+-	No paresia facial ni alteración de pares bajos
+-	No déficit motor
+-	Refiere hipoestesia crural izquierda
+-	Dismetría bilateral de predominio derecho
+-	Disdiacocinesias
+-	Temblor postural bilateral y de acción
+-	RMP hiperactivos de forma simétrica
+-	Clonus bilateral agotable
+-	RCP flexor bilateral
+-	Marcha con aumento de la base de sustentación, inestabilización a los giros y tendencia a la lateralización izquierda
+
+En sala de neurologia
+-	Vigil i orientat
+-	Llenguatge fluent (tremolor de la veu que ja presentava)
+-	PICNR
+-	Campimetria per confrontació preservada
+-	MOEs preservats
+-	PPCC conservats
+-	Paresia braç E (4/5), paresia cama dreta 4+/5
+-	Hipoestesia termoalgèsica crural E
+-	Sensibilitat propioceptiva conservada en 4EE
+-	Dismetria bilateral de predomini D
+-	Tremolor essencial
+-	Important retropulsió en bipedestació amb inestabilitat, deambula amb ajuda i amb augment de base de sustentació.
+-	Hiperreflexia en 4 EE
+-	RCP flexor bilateral
+-	NIHHS = 0+0+0+0+0 / (0+2) +(0+1) +1+1+0+0+0 = 5
+
+
+
+EXPLORACIONES COMPLEMENTARIAS
+-	TAC cerebral: Hemorragia NO Isquemia Aguda Visible NO Ingurgitacion parenquimatosa NO Efecto de masa sobre el sistema ventricular NO Desviación de la línea media supratentorial NO Desviación de la línea media infratentorial NO ANGIO-TC (TSA E INTRACRANEAL): Trombosis/Oclusiónarterial intracraneal NO
+Placas ateromatoses en ambos bulbos carotídeos, mayor en ACI D, excéntrica, sin estenosarla de forma significativa. Permeabilidad de ACCs, ACI D, ACI Izda, ACCs, AVs y tronco basilar. Sospecha de Disección NO Impresión diagnóstica global: Sin evidencia de lesiones isquémicas agudes ni de criterios radiológicos de
+indicación de TEV.
+-	RMN cerebral i angioRMN: Se ha realizado estudio RM craneal mediante secuencias T1, T2, FLAIR, difusión, hemosiderina y VEN BOLD. Se completa el estudio mediante angio-RM intracraneal con secuencia angiográfica de flujo 3D TOF. Ligera dilatación global del sistema ventricular y aumento de surcos de la convexidad, traduciendo ciertos cambios involutivos. No se observan lesiones isquémicas agudas, ni la presencia de otras alteraciones morfológicas ni de la señal relevantes en el resto del parénquima cerebral. Los vasos intracraneales muestran hiposeñal en T2, hallazgo que sugiere permeabilidad de los mismos. El estudio angio-RM intracraneal muestra unas arterias intracraneales de señal y morfología normal, sin estenosis ni otras alteraciones valorables. Conclusión:Sin evidencia de lesiones  isquémicas agudas ni de alteraciones en el estudio angio-RM intracraneal.
+-	ETT: Ventrículo izquierdo no dilatado, con paredes ventriculares de grosor normal. Contractilidad global y segmentaria conservadas. Aurícula izquierda de tamaño  normal. Válvula mitral morfológicamente y funcionalmente normal. Raíz aórtica no dilatada. Válvula aórtica morfológicamente y funcionalmente normal. Cavidades derechas sin hallazgos significativos. Se observa una imagen hiperecogénica, redondeada, a nivel del tabique interuricular compatible con lipoma. Sería aconsejable realizar cardioRM para completar estudio. Vena cava inferior no dilatada. Ausencia de derrame pericárdico.
+- Holter: ECG basal: ritmo sinusal con PR normal (162 mseg) , QRS  estrecho (94 mseg) con poca progresión de la onda R de V1 a V3. Eje eléctrico 45º. FC 56lpm. El paciente no refirió síntomas durante el proceso. Estudio holter en ritmo sinusal, PR normal, QRs estrecho. FC entre 54 y 98 lpm, con promedio de 66 lpm. Extrasístoles auriculares muy escasos (0.0%). No presentó salvas de taquicardia auricular. Extrasístoles ventriculares muy frecuentes (2,7%) con conducción retrógrada, monomórfica, que generalmente se presenta en forma aislada y en bigeminismo ventricular. No presentó salvas de taquicardia auricular. No pausas patológicas.
+
+
+
+
+
+
+
+
+
+
+
+
+
+-AS: Sodi 141 mmol/L ( 136 - 145 ) Potassi 4,56 mmol/L ( 3,50 - 5,10 ) Urea 5,1 mmol/L ( 2,1 - 7,1 )  31
+mg/100mL Creatinina 57 µmol/L ( 0 - 106 )  0,65 mg/100mL  Filtrat glomerular estimat >90,00 mL/min/1.73m2
+Triglicèrids 0,90 mmol/L (< 1.65)	79,65 mg/100mL	Colesterol  5,39 mmol/L (< 6.2)	208,59 mg/100mL
+Colesterol HDL 1,34 mmol/L ( 1,00 - 1,70 )   51,86 mg/100mL  Colesterol LDL 3,64 mmol/L ( 1,81 - 4,13 )
+140,68 mg/100mL Colesterol VLDL 0,41 mmol/L ( 0,00 - 0,63 )  16,05 mg/100mL Colesterol quilomicrons 0,00
+mmol/L   0,00 mg/100mL Hemoglobina 137 g/L ( 130 - 170 ) Hematòcrit 0,42 L/L ( 0,40 - 0,50 ) Hematies 4,66
+x10E12/L ( 4,50 - 5,70 ) VCM 89,5 fL ( 80,0 - 98,0 ) CCMH 329 g/L ( 320 - 360 ) HCM 29,4 pg ( 27,0 - 32,0 )
+RDW 13,4 % ( 12,0 - 15,0 ) Plaquetes 229 x10E9/L ( 140 - 350 ) VPM 9,4 fL ( 7,0 - 10,5 ) Plaquetòcrit 0,30 %
+Leucòcits 7,89 x10E9/L ( 3,80 - 11,00 ) Neutròfils 54,0 %   Neutròfils absoluts 4,26 x10E9/L ( 1,80 - 7,00 )
+Eosinòfils 1,8 %  Eosinòfils absoluts 0,14 x10E9/L ( 0,05 - 0,50 ) Basòfils 0,8 %  Basòfils absoluts 0,06 x10E9/L
+( 0,00 - 0,10 ) Monòcits 9,1 %   Monòcits absoluts 0,72 x10E9/L ( 0,30 - 1,00 ) Limfòcits 34,3 %   Limfòcits
+absoluts 2,71 x10E9/L ( 1,00 - 4,00 )
+*Vitamina B12 395 pmol/L ( 150 - 650 ) Folat sèric 6,7 nmol/L ( 7,0 - 45,0 ) Folat eritrocitari 659 nmol/L ( 650
+- 2.500 )
+*HIV 1 i 2 (CMIA) Negatiu Prova treponèmica (MEIA) 0,04 (Negatiu)  Hb glicosilada (HbA1c) 5,3 % ( 4,6 - 5,8 )
+-Estimulació magnètica transcranial d'estímul aïllat del còrtex motor amb registre EMG de superfície a abductor curt del polse de la ma i m.tibial anterior. Estímul d'ambdos hemisferis.
+LLINDAR MOTOR.................................................. 60 % (normal < 70 %) LATÈNCIA ABDUCTOR CURT DEL POLSE................ 23,5 ms (normal < 26 ms) TEMPS DE CONDUCCIÓ CENTRAL.......................... 9,3 ms (normal< 11 ms)
+No asimetries hemisfèriques.
+CONCLUSIONS: Estudi de la via piramidal a EESS dintre de la normalitat.
+-RMN medular: No se observa compresion extrinseca medular. No hay alteraciones definidas de la señal intramedular, ni en el cono. Unicamente se observa en imagenes sagitales de la médula alguna zona de posible hiperseñal posteriormente en la médula dorsal, que no se puede constatar sean reales (al no haber imagenes axiales), pero que en el contexto clinico hacen necesario descartar deficiencia de vitamina B12 como posibilidad diagnóstica. Osteopenia con alteracion difusa de la señal de la medula osea visible y perdida de la altura de la mayoria de las vertebras. Cambios degenerativos cervicales, de C3 a C7, y de L3 a S1, sin protrusiones discales, ni compresion radicular descendente. El calibre del canal raquideo es adecuado. Estenosis foraminales bilaterales L4 y L5. Conclusión: Sin alteraciones medulares definidas. Dudosa hiperseñal en el aspecto posterior de la medula dorsal, a valorar deficit de Vitamina B12. Osteopenia
+
+EVOLUCIÓN
+A l'ingrès a sala de neurologia presenta NIHHS de 5 i mRS 2. En la exploració neurològica destaca dismetria bilateral de predomini dret i retropulsió. No presenta disartria (veu basal). Com a nova troballa presenta parèsia braç E (4/5) i parèsia cama dreta 4+/5. S'orienta com a probable síndrome vascular de territori verterobasilar d'etiologia desconeguda. S'inicia tractament preventiu secundari.
+
+
+
+
+
+
+Respecte estudi etiològic es realitza TAC craneal que no mostra lesió aguda, RMN cerebral que no mostra lesió. El holter mostra ritme sinusal sense esdeveniments. Es realitza estimulació magnètica transcranial que no mostra troballes patològiques. Tot l'estudi etiològic per possibles causes d'origen central és negatiu. Donades les proves referides negatives es realitza RMN medular tot i no tractar-se de semiologia clàssica d'aquesta topografia. Aquesta no mostra troballes patològiques.
+Durant la estada a sala deambula amb ajuda i millora la tendència a lateralitzar fins a poder deambular autònomament. Realitza fisioteràpia amb bona tolerància.
+Es mantè hemodinàmicament estable i millora la focalitat neurològica progressivament quedant amb mínima parèsia dreta.
+Donada la bona situació clínica i funcional es dóna d'alta a domicili. A l'alta presenta NIHHS de 2 i mRS de
+1.
+
+
+DIAGNÓSTICOS
+Ataxia troncular, y sd sensitivo motor izquierdo, sin objetivar lesión en neuroimagen EPOC GOLD II
+Sd ansioso depresivo
+
+
+TRATAMIENTO AL ALTA
+-	Añadir:
+- Adiro 300 1-0-0.
+-	Atorvastatina 80 0-0-1.
+-	Acfol 5 mg 1 comprimido al día.
+
+-	Continuar:
+-	Seretide 2puff/12h
+-	Salbutamol a demanda
+-	Alprazolam 0'25 mg/12h
+-	Escitalopram 30mg/dia
+
+Control en CEX Neurologia
+
+
+
+
+
+
+
+
+
+
+
+
+
+Responsable clínic: Dr. _NAME_ (NºCol. _ID_)
+Equip mèdic: Dr. _NAME_ (NºCol. _ID_), Dr. _NAME_ (NºCol. _ID_), _NAME_ (NºCol. _ID_)
+
+Servei que ha donat d'alta:
+NEUROLOGIA HOSP	Data d'alta:
+15.02.2017	Nom del metge que informa de l'alta:
+Dr. _NAME_ (NºCol. _ID_)
+
+
+_LOCATION_, 15.02.2017
+Pàg. 1 de   5

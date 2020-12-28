@@ -1,0 +1,66 @@
+T1	_SUG_Ictus_isquemico 67 72	Ictus
+T2	FECHA 326 336	23/07/2017
+#2	AnnotatorNotes T2	2017-07-23
+T3	FECHA 810 814	2009
+#3	AnnotatorNotes T3	2009-UNDEF-month-UNDEF-day
+T4	FECHA 859 863	2002
+#4	AnnotatorNotes T4	2002-UNDEF-month-UNDEF-day
+T5	_SUG_Lateralizacion 903 912	bilateral
+T6	_SUG_Lateralizacion 948 957	izquierdo
+T7	FECHA 1038 1049	Agosto 2013
+#7	AnnotatorNotes T7	2013-08-UNDEF-day
+T8	FECHA 1133 1137	2013
+#8	AnnotatorNotes T8	2013-UNDEF-month-UNDEF-day
+T10	FECHA 1539 1550	23 de Julio
+#10	AnnotatorNotes T10	2013-07-23
+T11	_SUG_Ictus_isquemico 1782 1787	ictus
+T12	_SUG_Ictus_isquemico 1841 1848	infarto
+T13	_SUG_Localizacion 1841 1856	infarto lacunar
+T14	_SUG_Trombolisis_intravenosa 1965 1977	fibrinólisis
+T15	_SUG_Lateralizacion 2240 2247	derecho
+T16	_SUG_Lateralizacion 2546 2553	derecha
+T17	_SUG_Lateralizacion 2756 2763	derecho
+T18	_SUG_Lateralizacion 2871 2880	bilateral
+T19	_SUG_Lateralizacion 2905 2912	derecho
+T20	_SUG_Lateralizacion 3229 3238	izquierda
+T21	_SUG_Lateralizacion 3263 3270	derecho
+T22	_SUG_Test_de_disfagia 3290 3306	Test de disfagia
+T23	_SUG_NIHSS 3317 3322	NIHSS
+T24	_SUG_Lateralizacion 3637 3638	E
+T25	_SUG_TAC_craneal 3752 3754	TC
+T26	_SUG_Etiologia 3880 3892	ateromatosos
+T27	_SUG_Lateralizacion 3909 3914	ambos
+T28	_SUG_Lateralizacion 4000 4008	esquerre
+T29	_SUG_Lateralizacion 4141 4142	I
+T30	_SUG_Lateralizacion 4160 4168	esquerra
+T31	_SUG_Etiologia 4476 4488	HIPERTENSIVA
+T33	_SUG_Ictus_isquemico 4700 4715	ictus isquemico
+T34	_SUG_Localizacion 4732 4741	posterior
+T35	_SUG_Etiologia 4816 4823	lacunar
+T36	_SUG_Localizacion 4816 4823	lacunar
+T38	_SUG_Lateralizacion 5285 5286	e
+T42	_SUG_mRankin 5640 5646	Rankin
+T43	_SUG_NIHSS 5657 5662	NIHSS
+T44	_SUG_Ictus_isquemico 5725 5730	ictus
+T45	_SUG_Etiologia 5731 5738	lacunar
+T46	_SUG_Localizacion 5731 5738	lacunar
+T47	_SUG_Localizacion 5753 5762	posterior
+T49	_SUG_TAC_craneal 5929 5939	TC craneal
+T50	_SUG_Tratamiento_antiagregante 6024 6027	AAS
+T51	_SUG_Etiologia 6278 6286	habitual
+T52	_SUG_Lateralizacion 6288 6293	Dieta
+T53	_SUG_Lateralizacion 6322 6327	Dieta
+T54	_SUG_Lateralizacion 6541 6546	Dieta
+T55	SECCION_ANTECEDENTES_PATOLOGICOS 507 523	Historial médico
+T56	SECCION_TRATAMIENTO_HABITUAL 1206 1225	Medicación habitual
+T57	SECCION_SITUACION_FUNCIONAL 1371 1386	Situación basal
+T58	SECCION_PROCESO_ACTUAL 1480 1497	ENFERMEDAD ACTUAL
+T59	SECCION_EXPLORACION_FISICA 2022 2040	Exploración física
+T60	SECCION_EXPLORACIONES_COMPLEMENTARIAS 3338 3372	Pruebas complementarias realizadas
+T61	SECCION_DESTINO_AL_ALTA 5612 5627	Destino al alta
+T62	SECCION_DIAGNOSTICOS 5676 5688	Diagnósticos
+T63	SECCION_DIAGNOSTICO_PRINCIPAL 5693 5714	Diagnóstico principal
+T64	SECCION_DIAGNOSTICOS_SECUNDARIOS 5764 5788	Diagnósticos secundarios
+T65	SECCION_PROCEDIMIENTOS 5852 5866	Procedimientos
+T66	SECCION_TRATAMIENTO_AL_ALTA 5941 5960	Tratamiento al alta
+T67	SECCION_RECOMENDACIONES 6355 6395	Recomendaciones de prevención secundaria

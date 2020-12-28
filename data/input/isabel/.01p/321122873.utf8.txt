@@ -1,0 +1,106 @@
+I.CLINIC DE NEUROCIÈNCIES NEUROLOGIA
+_NAME_	NHC: _ID_
+
+
+Sexo/Sexe: Masc.	Fecha nac./Data naix.: _DATE_	Edad/Edat: 71 años Dirección/Adreça: _LOCATION_	CP: _LOCATION_
+Municip. (Prov.): _LOCATION_  ABS:_SS_	Tel.:_CONTACT_
+As.: _NAME_	CIP: _ID_	NASS: _ID_
+Nº epis.: _ID_	Tipo/Tipus: HOSPIT.	Ingres.: 07.01.2017 Serv: NEUROLOGIA	UO Enf.: I064 SALA G DE NEUROL. INTE   Hora: 01:12:11
+Facult. de ref.: _NAME_
+
+
+
+
+Tipo ingreso/Tipus ingrés: Urgent	Motivo/Motiu alta: Dom. Familiar
+Diag.:
+ICTUS ACMI () FIBRILACIÓN AURICULAR ()
+INSUFICIENCIA RENAL AGUDA ()
+Proc.:
+ANALÍTICA SANGUÍNEA () RADIOGRAFIA DE TORAX ()
+
+
+
+
+INFORME CLÍNICO ALTA / INFORME CLÍNIC ALTA
+
+Motivo de consulta / Motiu de consulta
+Alteración del lenguaje.
+
+Antecedentes e historia previa / Antecedents i història prèvia
+Varón de 71 años sin alergias medicamentosas conocidas. Ex fumador desde los 28 años, enol esporádico. Independiente para las ABVD, mRS 0.
+
+** ANTECEDENTES PATOLÓGICOS:
+1.	HIPERTENSIÓN ARTERIAL en tratamiento con tres hipotensores.
+2.	DISLIPEMIA en tratamiento con estatinas.
+3.	ARRITMIA CARDIACA, FIBRILACIÓN AURICULAR TRANSITORIA. En cursos clínicos consta FA pero explcian que con medicación se resolvió (emconcor). No estaba tomando frenadores ni anticoagulantes y queda reflejado en el curso clínico de primaria ECG en ritmo sinusal.
+4.	BOCIO MULTINODULAR.
+5.	HIPERPALSIA PROSTÁTICA.
+6.	SÍNDROME ANSIOSO.
+7.	DEGENERACIÓN MACULAR ASOCIADA A LA EDAD (DMAE).
+8.	LUMBALGIA.
+
+** MEDICACIÓN ACTUAL: Betagan colirio/12h, higrotona 50 mg/d, valsartan/hidroclortiazida 320/25 mg/d, amlodipino 10 mg/d, naproxeno sp, lyrica 75 mg/12h, AAS 300 mg/d, omeprazol 20 mg/d, hemovas 600 mg/12h, simvastatina 40 mg/d, alprazolam 0.25 mg/12h.
+
+Proceso actual / Procés actual
+El día 06/01 sobre las 22:45-23:00 horas presenta alteración del lenguaje, por lo que consulta en urgencias.
+
+
+
+
+
+Exploración física / Exploració física
+Frecuencia respiratoria (rpm) 28, PAS (mm Hg) 138, PAD (mm Hg) 94, Pulsioximetría (%) 93. Tª axilar (ºC)
+35.6. Glicemia capilar (mg/dl) 140.
+NRL: Vigil, consciente, orientado. Lenguaje normofluente con rasgos afásicos (nomina 3/8 y realiza parafasias semánticas, repite frases con abundantes parafasias fonémicas, realiza órdenes senscillas y de 3 ítems; predominio motor-). No disartria. No negligencias ni extinciones. Campimetría por confrontación sin déficits. Mirada centrada sin limitación en la excursión visual. Balance muscular conservado. No déficits sensitivos. No dismetrías. NIHSS 2.
+ACV: Arrítmico, no ausculto soplos. No edemas ni signos de TVP. Pulsos periféricos presentes y simétricos.
+
+Laboratorio / Laboratori
+**ANALÍTICA SANGUINEA: BIOQUÍMICA GENERAL Glucosa 154/A mg/dL Creatinina 1.34/A mg/dL Filtrat glomerular calculat [CKD-EPI] 52.90 ml/min/ Sodi 145 mEq/L Potasi 3.0/B mEq/L HEMATIMETRIA Recompte de leucòcits 8.48 10^9/L Recompte d´hematies 5.18 10^12/L Concentració d´hemoglobina 155 g/L Hematòcrit 0.440 L/L VCM (Vol. corpusc. mitjana eritròcits) 84.5 fl HCM (Hb corpusc. mitjana) 29.9 pg Recompte plaquetes 219 10^9/L HEMOSTÀSIA GENERAL Temps de protrombina (%) 99.0% INR 0.97
+
+Radiología / Radiologia
+**RADIOGRAFÍA DE TÓRAX: placa correctamente inspirada, no rotada. Sin evidencia de condensaciones ni infiltrados en campos pulmonares. Sin pinzamiento de los senos costofrénicos. Cardiomegalia. Marco óseo y partes blandas sin lesiones agudas aparentes.
+**TAC MULTIMODAL
+-	TC CRANEAL BASAL: No se observan signos de hemorragia intracraneal. Sin alteraciones parenquimatosas agudas (ASPECTS 10). Signos de microangiopatía crónica.
+-	TC PERFUSION CEREBRAL: Retraso del TTP a nivel parietal izquierdo con missmatch significativo.
+-	ANGIO-TC EXTRA E INTRACRANEAL: Aorta y segmentos proximales de troncos supraaórticos normales, levemente ateromatosos. Origen y segmentos cervicales de las arterias carótidas internas y de las arterias vertebrales normales. Segmentos intracavernoso y supraclinoideo de las arterias carotidas internas normales. Se aprecia un stop del contraste a nivel del tercio medio d ela arteria angular izda en territorio M3. Principales arterias cerebrales intracraneales restantes (ACAs, ACMs, ACPs, Basilar, V4s).
+**TAC CRANEAL DE CONTROL: No se observan signos de sangrado intra ni extra axial. Áreas hipodensas en sustancia blanca periventricular y centros semiovales en relación a enfermedad de pequeño vaso. Sistema ventricular de tamaño, posición y morfología normal. Muy tenue hipodensidad temporo-parietal izquierda. No se aprecian infartos establecidos evidentes mediante TC.
+
+Evolución / Evolució
+1. ICTUS ISQUÉMICO EN TERRITORIO DE LA ARTERIA CEREBRAL MEDIA IZQUIERDA (ACMI). 2. FIBRILACIÓN AURICULAR.
+Paciente que consulta por alteración del lenguaje de inicio súbito. A su llegada a urgencias en la exploración neurológica destaca afasia de predominio motor(NIHSS 2). La neuroimagen (TC craneal multimodal) no evidenció alteraciones en la secuencia basal (ASPECTS 10). El estudio de perfusión mostró un retraso en la llegada de contraste a nivel parietal izquierdo con mismatch significativo en contexto de una oclusión de rama angular M3 de la ACMI. Ante la ausencia de contraindicaciones se realizó tratamiento fibrinolítico mejoría clínica posterior. La neuroimagen de control post-tratamiento descartó la presencia de complicaicones hemorrágicas agudas. Durante su monitorización se objetiva fibrilación auricular con respuesta ventricular rápida consiguiendo buen control de la frecuencia con Bisoprolol 2,5mg cada 12. El estudio vascular no objetivó la presencia de ateromatosis de gran vaso a nivel extracraneal. La analítica realizada durante el ingreso no objetivó alteraciones destacables.
+Se orienta como ictus isquémico agudo de probable causa cardioembólica, en contexto de fibrilación auricular. Durante el ingreso en la Unidad de ictus se inició tratamiento anticoagulante con heparina sódica con paso posterior a sintrom.
+
+
+
+Durante su estancia en la Unidad de Ictus se ha mantenido en ritmo de FA con respuesta ventricular controlada. Al alta está clínicamente asíntomatico. Como prevención secundaria se recomienda mantener tratamiento anticoagulante oral así como control estricto de los factores de riesgo vascular. Se realizará control en Consultas Externas de Neurología. Se recomienda seguimiento por médico de familia.
+Al alta: NIHSS:0. TOAST: Cardioembólico. mRs:1.
+
+3. INSUFICIENCIA RENAL PRERENAL. 4. HIPOPOTASEMIA.
+En la analítica de ingreso de detectaban cifras de K+ de 2,6 mEq/ml e insuficiencia renal con creatinina 1.3mg/dL y FG 53ml/min que se corrigen con hidratación y suplementos de potasio; siendo en analíticas posteriores niveles normales.
+
+Plan terapéutico / Pla terapèutic
+-	Lyrica 75 mg. Cada 12 horas . - Pantoprazol 40 MG. Vía oral. Una vez al día, en el desayuno. - Higrotona 50 MG. Vía oral. Cada 24 horas. - Sintrom según pauta. - Alprazolam 0,25 MG. Vía o ral. Cada 12 horas. - Atorvastatina 40 MG. Vía oral. Una vez al día, en la cena. - Amlodipino 10 MG. Vía oral . Una vez al día, en la cena. - Betagan 1 MG. Vía oftalm ica. Dos veces al día: desayuno y cena. - Naproxeno 550 MG. V ía oral. Cada 24 horas. - Bisorpolol 2.5mg cada 12h
+
+Otras recomendaciones / Altres recomanacions
+-	Control por Médico de Atención Primaria.
+-	Control de Sintrom en CAP correspondiente.
+-	Acudirá a CCEE de Neurología (Dr. _NAME_) según cita adjunta.
+
+
+
+Firma/Signatura1: _NAME_		Firma/Signatura2: _NAME_ Categoría: Resident 2	Categoría: Especialista
+Nº Matrícula HCP: _ID_	Nº Matrícula HCP: _ID_ Fecha/Data: 10.01.2017
+Hora: 16:40:46
+
+Docum.: _ID_
+Hist. Clínica: _ID_
+El _SS_ ha incorporado sus datos al Fichero de Pacientes, para tratarlos con fines sanitarios.
+Puede ejercer sus derechos de acceso, rectificación, cancelación y oposición, así como obtener mas información en la Unidad de Atención al Cliente.
+Vers. 00
+Pag. 2 de
+3
+Episod.: _ID_
+_SS_ ha incorporat les seves dades al Fitxer de Pacients, per a tractar-los amb finalitats sanitàries. Pot exercir els seus drets d'accés, rectificació, cancel·lació i oposició, i obtenir més informació a la Unitat d'Atenció al Client.
+_SS_
+_LOCATION_) _LOCATION_) Tel. _CONTACT_ Fax _CONTACT_
+_CONTACT_/

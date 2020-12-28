@@ -1,0 +1,88 @@
+_LOCATION_
+Telèfon: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 85 anys
+NIF/DNI: _ID_Informe d'alta d'hospitalització
+CP	_LOCATION_
+ABS	_SS_
+Servei	NEUROLOGIA
+Data d'alta  15.09.2017	12:10:20
+_LOCATION_
+_CONTACT_
+DOMICIL/RES.SOC 09.09.2017
+_NAME_
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Recidiva ictus
+
+ANTECEDENTS
+No alergias medicamentosas conocidas. No hábitos tóxicos.
+
+ANTECEDENTES:
+-	HTA en tratamiento con IECA.
+-	DM tipo 2 en tratamiento con ADO.
+-	Hipertrofia benigna de próstata en tratamiento.
+-	Espondilosis lumbar. Lumbalgia. Artrosis.
+-	IQ: Hernia inguinal
+
+BASAL: independiente para ABVD, deambula sin ayuda, vive con su mujer. No deterioro cognitivo. .
+
+MEDICACIÓ HABITUAL
+DIAMICRON 30MG 1 x 24 h.
+DOLOCATIL 650MG 1 x 8 h.
+METFORMINA 850MG 1 x 12 h.
+OMNIC 0,4MG 1 x 24 h.
+RAMIPRIL 10MG 1 x 24 h.
+
+PROCÉS ACTUAL
+Recidiva hoy el déficit motor izquierdo/disartria en paciente hipertenso y diabético de 85 años que ingresa hace 6 días por la misma clinica con carácter regresivo. NO tratamiento recanalizador por ausencia de oclusión poximal sintomática con diagnóstico de infarto fragmentado frontal derecho de origen indeterminado (de probable origen embólico) con estenosis proximal de arteria carótida interna contralateral.
+
+
+EXPLORACIÓ COMPLEMENTÀRIA
+URGENCIAS:  
+
+TC craneal 9-9-2017: Estructuras de la línea media centradas. Hipodensidad subcortical frontal derecha, adyacente al asta frontal del ventrículo lateral, de aspecto  crónico. Focos hipodensos en sustancia blanca periventricular en probable relación a lesiones hipoxicoisquémicas crónicas. Dilatación moderada del sistema ventricular de forma global y simétrica con prominencia de los surcos corticales, cisternas peritronculares y de la base craneal, en relación a cambios por atrofia. No se observan signos de sangrado endocraneal.
+
+AngioTC 9-9-2017: Infarto crónico en territorio de la ACM derecha. Ateromatosis de ambas arterias carotídeas
+
+Informe d'alta d'hospitalització
+
+
+
+
+intrapetrosas y del origen de la ACM derecha y estenosis en el segmento C1 de la a.carótida interna izquierda y en la a.vertebral derecha. Signos de atrofia cerebral global. Lesiones hipoxicoisquémicas crónicas.
+
+
+RMN CRANIAL-ANGIO RM:
+Persiste infarto agudo/subagudo fragmentado en territorio frontera parieto-occipital y temporo-occipital derechos, con aparición de algunos nuevos focos respecto RM de 7-9-2017.
+Signos de atrofia cerebral global
+Alteraciones hipóxico-isquémicas crónica en la sustancia blanca supratentorial.
+
+EVOLUCIÓ CLÍNICA
+Es valora com a un empitjorament de la seva focalitat NRL per probable recuirrència precoç en el mateix territori arterial i es decideix ingrés a la Unitat Ictus, s'inicia doble antiagregació i estatines a dosis altes, i es sol·licita nova RM cranial per a valorar si presenta noves lesions isquèmiques. Ha millorat progressivament del dèficit fins a quedar en la situació prèvia a l'ingrés actual, NIHSS alta 1, mRS alta 1.
+
+DIAGNÒSTICS
+Ictus minor (PACI) amb patró embòlic de causa embolígena indeterminada (ESUS) RECURRÈNCIA PRECOÇ EN EL MATEIX TERRITORI ARTERIAL
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+CLOPIDOGREL  75 mg ESMORZAR ORAL ATORVASTATINA 40 mg SOPAR ORAL RESTA MEDICACIÓ SENSE CANVIS
+
+
+CONTROL
+CCEE NEUROLOGIA
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+15.09.2017
+Pàgina 1 de 2

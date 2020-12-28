@@ -1,0 +1,148 @@
+_LOCATION_ Tel. _CONTACT_
+e-mail: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 61 Anys
+NIF/DNI: _ID__NAME_; _NAME_; _NAME_; _NAME_;
+_NAME_
+Informe d'alta d'hospitalització
+CP	_LOCATION_
+ABS	_SS_
+Servei	NEUROLOGIA
+Data d'alta  14.07.2017	14:58:13
+_LOCATION_
+_CONTACT_; _CONTACT_
+DOMICIL/RES.SOC 09.07.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Ictus isquémico
+
+ANTECEDENTS
+ANTECEDENTES PERSONALES:
+Paciente de 61 años, sin alergias conocidas. Fumador de 20 cig /dia desde hace 40 años. Vive con la esposa en _LOCATION_, vive en un piso con barreras arquitectonicas (5 escalones), en la actualidad prejubilado, trabajaba de montador electrico. Independiente para las actividades básicas de la vida diaria (mRS 0).
+
+ANTECEDENTES PATOLÓGICOS:
+-	Hipertensión arterial en tratamiento médico.
+-	Diabetes mellitus 2 en tratamiento con antidiabeticos orales, con última HbA1c de 6.8g/dl.
+-	Hipercolesterolèmia familiar tipo IIa y hipertrigliceridémia.
+-	Glomeruloesclerosis difusa diabética, diagnosticada por biopsia renal en 2016 en contexto de proteinuria rango no nefrótico (1.6g/día) sin alteración en la función renal.
+-	Posible claudicación neurógena compatible por clínica, estudio ecodoppler (2012) que descarta patología arterial en EEII
+-	Ligera hipertensión pulmonar (PAPs 39mmHg) resto de estudio ecocardiografico dentro de la normalidad (FE 59%, sin valvulopatías significativas).
+-	Pendiente de iniciar estudio posible SAHS
+
+MEDICACIÓ HABITUAL
+Adiro 100mg/día, Amlodipino 10mg/noche, Eucreas 50/1000mg cada 12h, fenofibrato 160mg/día, Balzak plus 40/5/12.5mg, Bisoprolol 5mg cada 12h
+
+PROCÉS ACTUAL
+Paciente 61 años con factores de riesgo cardiovascular que acude el día 9/07/2017 por debilidad en hemicuerpo derecho con sensación de acorchamiento. Acude a las 11 de la mañana y es admitido en el control (no se activa código ictus). Última vez visto asintomático el día 09.07 a las 2h00 de la madrugada, cuando se fue a dormir.
+
+
+EXPLORACIÓ FÍSICA
+
+FC	63 bpm
+Tªaxi 36.3 ºC
+FR	rpm Tªrec  ºC
+TA s	183 mmHg SAT O2  %
+TA d   79 mmHg Pes Kg
+
+Exploración física en Urgencias:
+Glicèmia capil·lar:381 mg/dL
+
+Buen estado general. Normohidratado y normocoloreado.
+AC: Tonos cardíacos rítmicos sin soplos. pulsos periféricos presentes y simétricos. Pulsos carotídeos normales.
+
+Informe d'alta d'hospitalització
+
+
+
+
+AR: Murmullo vesicular conservado. ABD: Blando. Sin visceromegalias
+NRL:  Consciente  y  orientado.  PICNR.  Pares  craneales  normales.  Hemianopsia  homónima  derecha  en  la campimetría   por  confrontación.   Sin  alteraciones  del  lenguaje.   Hemianestesia   derecha.  Claudicación   de extremidades derechas (probablemente sensitiva). Reflejos normales. Reflejo cutáneo plantar flexor bilateral NIHSS (0-0-0)-0-2/0-(1-0)-(1-0)/0-2-0 -0-0: 6
+
+Exploración física al alta de la unidad de ictus: Consciente y orientado en las 3 esferas, lenguaje fluente, campimetría por confrontación normal, no paresia facial, no alteraciones sensitivas ni motoras (Mingazzini normal), dismetría de pierna derecha y leve de brazo derecho. Disdiadococinesia derecha.
+
+NIHSS (0.0.0)0.0/0(0.0)(0.0)/1.0.0.0. 0 =1
+
+Exploración en planta de Neurología:
+
+NRL: Consciente y orientado en persona, espacio y tiempo. Lenguaje normal, sin disartria. Oculomotricidad y campimetría normal. No paresia ni hipoestesia facial. Pares craneales bajos normales. No trastorno motor, reflejo cutáneo plantar flexor bilateral. No alteración de la sensibilidad. No dismetrías. Marcha normal.
+NIHSS: 0.
+
+Sistémica: Buen estado general. Normocoloreado y normohidratado. AC: ruídos cardíacos regulares, sin soplos ni extratonos. No soplos carotideos. Pulsos pedios presentes y simétricos. AR: MVC; sin ruídos añadidos. Eupneico. Abdomen blando y depresible, sin masas ni megalias ni dolor a la palpación. EEII: no edemas ni signos de trombosis venosa profunda.
+
+EXPLORACIÓ COMPLEMENTÀRIA
+EXPLORACIONES COMPLENTARIAS EN URGENCIAS:
+
+TC simple craneal y Angio TC TSA y craneal (09.07.2017 /11:49:19): No se evidencian lesiones agudas TC valorables isquémicas  o hemorrágicas. ASPECT10. Cisternas  basales y perimesencefálicas libres.  Línea media centrada. Sistema ventricular simétrico de tamaño y morfología conservados. Sin alteraciones oseas TC valorables. No se aprecian alteraciones intra ni extraaxiales TC valorables.
+Angio TC: Hipoplasia de la A 1 derecha. Dominancia de arteria vertebral izquierda con asoecto elongado . No se evidencian estenosis significativas ni defectos de replección TC valorables.
+
+ECG: RS a 70lpm, PR constante 160ms, QRS estrecho, eQRS +0º. Sin trastornos aguda de la repolarización.
+
+Analitica urgencias 9/07/2017: Leucòcits, c 10.70 x10^9; Hematies, c 4.48 x10^12/L; Hemoglobina, g 14.1 g/dL; Hematòcrit, h 39.3 %; Volum Corpuscular Mig, b 87.8 fL; Hemoglobina Corp. mitja, m 31.4 pg; Conc. HGB Corpuscular mitja, g 35.7 g/dl; Ample Distribució Eritrocits, 14.2 %; Plaquetes, c 265 x10^9/L; Volum Plaquetari Mig, b 9.1 fLNeutròfils, f 6.4 x10^9/L; Limfòcits, f 3.2 x10^9/L; Monòcits, f 0.9 x10^9/L; Eosinòfils, f 0.1 x10^9/L; Basòfils, f 0.0 x10^9/L; Eritroblastos, c 0.0 x10^9/L;
+Sodi 134.1 mmol/l; Potassi 3.8 mmol/L; Glucosa 367 mg/dL, Urea 23.3 mg/dL; Creatinini 0.66 mg/ *; Proteïna C reactiva 2.40 mg/L blanco
+
+EXPLORACIONES COMPLEMENTARIAS EN UNIDAD ICTUS:
+
+Informe d'alta d'hospitalització
+
+
+
+
+Analitica (11/07/2017): Leucòcit 8.40 x10^9/L; Hematies 4.36 x10^12/L; Hemoglobina, g 13.7 g/dL; Hematòcrit,  h 38.2 %; Volum Corpuscular  Mig, b 87.7 fL; Hemoglobina  Corp. mitja, m 31.4 pg; Conc. HGB Corpuscular	mitja,	g	35.8	g/dl;	Plaquetes	260	x10^9/L;	San-Volum	Plaquetari	Mig,	b	7.9	fL; Hb(San)-Glicohemoglobina (A1c); x 8.3 % ; Hb(San)-Glicohemoglobina (A1c) IFCC; c 67 mmol/mol; Proteïna 66.3 g/L; Albúmina 38.3 g/L; Urea 29 mg/dL; Pac-Filtrat glomerular (estimació segons CKD-EPI) >90 mL/min/1.73 m2; Creatinini 0.80 mg/dL; Bilirubina 0.88 mg/dL; Fosfatasa Alcalina; c. cat. 48 U/L; Alanina-aminotransferasa; c. cat. 21 U/L; Ió Sodi 137.0 mmol/L; Ió Potassi. 3.49 mmol/L;
+Perfil lipídico: Triglicèrid 259 mg/dL; Colesterol. 184 mg/dL; Colesterol HDL26.3 mg/dL; Colesterol LDL 106 mg/dL; Colesterol no HDL; c. subst. 158 mg/dL
+Proteinograma: Albúmina; fr. massa. 39,4 g/L; Alfa 1 Globulines 2,4 g/L; Alfa 2 Globulines 7,1 g/L; Beta Globulines 8,6 g/L; Gamma Globulines 8,8 g/L.
+
+RMN cerebral: Lacunar de aspecto reciente afectando a la porción lateral del tálamo y parte de la cápsula interna izquierda. No muestra sufusión hemorrágica. No se aprecian otras lesiones isquémicas que sugieran ser recientes. No se aprecian lesiones isquémicas crónicas con afectación cortical. Lacunar crónico talámico izquierdo y algún otro en ambos estriados. Algún foco gliótico sustancia blanca supratentorial congruente con afectación hipóxico  isquémica  crónica  aunque  en  grado  mínimo.  No  se  aprecian  hemorragias  o  microhemorragias. Parénquima cerebral que no muestra otras alteraciones relevantes de señal. Sistema ventricular de tamaño y morfología normales. Cisternas de la base patentes y libres. No se aprecian efectos de masa, ni otras alteraciones morfológicas relevantes.  Los vasos intracraneales  muestran vacío de señal en T2, sugiriendo permeabilidad. Arteria basilar elongada.
+
+Ecocardiograma transtorácico (11.07): Ventrículo Izquierdo no dilatado, ligeramnete hipertrófico. Función sistólica global y segmentaria conservada. Aurícula izquierda no dilatada. Cavidades derechas no dilatadas con motilidad del Ventriculo Derecho normal. Cayado aórtico no dilatado, no se visualizan placas de ateroma. Sin valvulopatías significativas. Alteración diastólica tipo I.
+
+EVOLUCIÓ CLÍNICA
+Varón de 61 años, hipertenso, diabético, dislipémico, que acude por debilidad y trastorno sensitivo de hemicuerpo derecho de inicio al despertar. A su llegada a urgencias el paciente presenta hipertensión arterial (183/79), está en ritmo sinusal y se objetiva un NIHSS de 6 a expensas de hemianopsia homónima derecha, hemianaestesia derecha y claudicación de extremidades derechas. Se realiza TC craneal que no muestra alteraciones parenquimatosas con angioTC que no objetiva oclusión de gran vaso. Se orienta como ictus isquémico hemisférdico izquierdo de etiología indeterminada. Ingresa en Unidad de ictus para completar estudio y optimización terapéutica.
+
+Durante su ingreso en la unidad, el paciente se mantiene estable hemodinamicamente, monitorización cardiaca sin eventos arrítmicos. NIHSS a las 24 horas de 3 a expensas de ligera dismetria y paresia distal de extremidades derechas. Inicia sedestación bien tolerada asi como deambulación controlada por la unidad y se realiza interconsulta con rehabilitación que indica inicio de fisioterapia precoz. Buena tolerancia a dieta oral, sin  alteracions en test de disfagia. Se completa estudio etiológico con la realización de ecocardiograma transtorácico que no muestra alteraciones. La RMN cerebral muestra un infarto lacunar reciente capsulotalámico izquierdo, además de diversas lesiones crónicas. Al alta de la unidad de Ictus NIHSS de 1 (dismetria).
+
+Informe d'alta d'hospitalització
+
+
+
+
+Durante su ingreso en la planta de neurología el paciente se mantiene hemodinámicamente estable, afebril, con mejoría de focalidad neurológica, mantiendo leve inestabilidad (NIHSS = 0). Se orienta como ictus lacunar capsulotalámico izquierdo en paciente con factores de riesgo cardiovascular, préviamente antiagregado con AAS por lo que se cambia a  Clopidogrel, y se pauta tratamiento con Estatinas a dosis altas. Dada la buena evolución clínica se decide alta de planta el día 14.07.17 para proseguir rehabilitación en domicilio.
+
+Al alta: NIHSS: 0
+mRS: 1
+Barthel: 100
+
+DIAGNÒSTICS
+1.- Ictus isquémico agudo lacunar capsulotalámico izquierdo. 2.- Hipertensión arterial.
+3.- Dislipemia.
+4.- Diabetes Mellitus tipo 2.
+5.- Glomeruloesclerosis
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Dieta cardiosaludable. Abandonar hábito tabáquico.
+
+Omeprazol 20mg en ayunas Clopidogrel 75mg por la mañana
+Balzak plus (40/5/12.5mg) por la mañana Eucreas 50/1000mg cada 12h
+Bisoprolol 5mg cada 12h Amlodipino 10mg por la noche Atorvastatina 80mg por la noche
+
+
+
+CONTROL
+Visita de control en rehabilitación (Dra. _NAME_), se le avisará telefónicamente.
+Se le avisará para acudir a visita de seguimiento en Consultas Externas de Neurología en 3 meses. Control de factores de riesgo por su Médico de Cabecera.
+
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+14.07.2017
+Pàgina 1 de 4

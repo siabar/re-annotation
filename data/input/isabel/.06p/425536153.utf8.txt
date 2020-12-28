@@ -1,0 +1,106 @@
+INFORME ALTA HOSPITALARIA
+_NAME_
+Núm. Episodi: _ID_ Núm. HC: _ID_
+_SS_ _LOCATION_
+_LOCATION_
+Tel. _CONTACT_Adreça: _LOCATION_	C.A.P.: _SS_
+Població: _LOCATION_	Sexe: DONA  Data naixement: _DATE_  Edat: 79a
+Telèfon: _CONTACT_  C.P.: _LOCATION_	T.I.S.: _ID_  DNI/NIF: _ID_
+
+Procedència:	Data Ingrés Hospital: 28/09/2017
+Servei assistencial: NEUROLOGIA HOSP	Data Ingrés Servei: 28/09/2017
+Metge Responsable: _NAME_	Data Alta:05/10/2017
+MOTIVO DE CONSULTA: CÓDIGO ICTUS. ANTECEDENTES PERSONALES:
+Paciente de 79 años sin alergias medicamentosas conocidas. HTA, DM tipo 2, DLP.
+Síndrome depresivo.
+
+Situación funcional: independiente para las ABVD e instrumentales. mRS 0
+
+Tratamiento habitual: duloxetina 60mg, januvia 50mg, metformina 850mg/8h, diamicron 30mg, vasaltran/HCT 160/12.5mg, simvastatina 10mg, loracepam1mg, omeprazol 20mg, paracetamol 1g, enterocoxib 90mg.
+
+
+ENFERMEDAD ACTUAL.
+Paciente derivada del CAP, el día 27 de Sept a las 20h, porque al acudir por una revisión, notan una dificultad en la emisión del lenguaje, con lo que se avisa al SEM, activando código ictus. Al llegar a urgencias, se observa que persiste la afasia motora sin otra sintomatología, con lo que se le realiza TC cráneo descartando lesiones hemorrágicas y se le administra rTPA a las 20:30 y se comenta con guardia de neurovascular para posible tratamiento de rescata por no mejoría, quién accepta el traslado.
+En el _SS_, se le realiza tc craneal multimodal que resulta estrictamente normal.Al  nos ser tributaria para trombectomia mecanica se decide traslado a su hospital de referencia (_SS_)
+
+
+EXPLORACIÓN FÍSICA:
+Urgencias (pre-fibrinolisis 27/09/2017):
+consciente, alerta y orientada en las tres esferas, TA 187/90, sat de 97% eupneica y basal, fc 97lpm,  afebril bmtest 121
+AR MVC sin ruidos sobreañadidos. AC TCR sin signos de fallo.
+E.NRL pupilas isocoricas normoreactivas, no alteraciones de pares craneales, fuerza y sensiblidad conservada, no afasia de compresion y si afasia de nominacion (2+2). Resto normal. NIHSS 4
+
+Urgencias Neurología (post-fibrinolisis. 28/09/2017)
+E. NRL: buen nivel de vigilancia. No responde a preguntas, sólo emite sonidos monosilábicos, no nomina ni repite. No entiende órdenes complejas. Motilidad ocular normal. Reflejo de amenaza presente bilateral. Leve paresia facial inferior derecha. Plejia braquial derecha. Resto de fuerza normal.
+NIHSS (0.2.1)0.0/2(4.0)(0.0)/0.0.2.0.0: 11
+
+Planta de Neurología (29/08/2017)
+Buen estado general. Bien hidratada y perfundida. Normocoloreada en piel y mucosas. Eupneica.
+ACR. tonos cardiacos rítmicos a buena frecuencia sin soplos ni extratonos. Buen murmullo vesicular con crepitantes en base pulmonar izquierda.
+E. NRL: buen nivel de vigilancia. Orientada en tiempo, espacio y persona. Lenguaje normal, discretamente disfónico. Motilidad ocular normal. Campimetria por confrontación normal. Resto de pares craneales normales. Fuerza y sensibildiad tacto-algésica conservada. No dismetria dedo-nariz. Marcha y estática normal. NIHSS 0
+
+
+EXPLORACIONES COMPLEMENTARIAS:
+Urgencias:
+-Analitica Temps de protrombina (rati) *0.98 , Temps de Protrombina (INR) *1.0 , Glucosa basal *132.8 mg/dL, Temps de Tromboplastina parcial (s) *29.4 , Hematies *4.42 x1E12/L, Hematocrit *37.1 %, Volum eritrocitari mitja (VCM) *83.9 fL, Conc. hemoglobina eritrocitaria mitja *32.6 g/dL, Leucocits *8.88 x1E9/L, Neutròfils % *68.0 %, Eosinòfils % *0.8 %, Monòcits *0.63 x1E9/L, Eosinòfils *0.07 x1E9/L, Plaquetes *273 x1E9/L, Volum plaquetari mitja (VPM) *11.1 fL, Temps de Protrombina (%) *103 , Creatinina *0.7 mg/dL, FG Dona Crea alta *81.09 , Sodi *143.0 (mEq/L) mmol/L, Clorur *101.2 (mEq/L) mmol/L, Temps de Tromboplastina parcial (rati) *0.95 , Urea *48.4 mg/dL, Hemoglobina *12.1 g/dL, Hemoglobina eritrocitari mitja (HCM)  *27.4 pg/cel, C.V. Volum eritrocitari (RDW) *12.9 %, Limfòcits % *23.5 %, Monòcits % *7.1 %, Basòfils
+% *0.6 %, Neutròfils *6.04 x1E9/L, Limfòcits *2.09 x1E9/L, Basòfils *0.05 x1E9/L, Potassi *4.1 (mEq/L) mmol/L, Proteina C reactiva *0.1 mg/d
+
+TC cráneo simple: Estructures de la línia mitja no desplaçades. Cisternes perimesencefàliques i de la base no obliterades. Augment de mida del sistema ventricular i aixamplament dels solcs de la convexitat per atròfia cortico-subcortical. Petites calcificacions inespecífiques a nuclis pàl·lid bilateral, més esquerre. No s'observen alatres alteracions tomodensitomètriques valorables al parènquima cerebral ni cerebel.lós. No hi ha imatges de sagnat. ASPECT basal de 10. Abscència de fusió de l'arc anterior de C1.
+TC perfusión:  No s'observa alteració de la perfusió valorable en el territori estudiat (centrat a ganglis basals). ASPECT amb contrast de 10.
+
+- TC cráneo post-fibrinolisis (24h): Estructures de la línia mitja no desplaçades. Cisternes perimesencefàliques i de la base no obliterades. Augment de mida del sistema ventricular i aixamplament dels solcs de la convexitat per atròfia cortico-subcortical. Petites calcificacions inespecífiques a nuclis pàl·lid bilateral, més esquerre. No s'observen alatres alteracions tomodensitomètriques valorables al parènquima cerebral ni cerebel.lós. No hi ha imatges de sagnat
+
+Planta de neurología:
+- Analítica de estudio: Coagulación: Temps de protrombina (rati) *0.98 , Temps de Protrombina (INR) *1.0 Temps de Tromboplastina parcial (s)   *29.4 Temps de Protrombina (%)   *103 Bioquímica: Glucosa basal
+*132.8 mg/dL, Creatinina *0.7 mg/dL, FG: *81.09 , Sodi *143.0 (mEq/L) mmol/L, Clorur *101.2 (mEq/L) mmol/L, Urea *48.4 mg/dL, Potassi *4.1 (mEq/L) mmol/L, Proteina C reactiva *0.1 mg/d Hemograma: Hemoglobina *12.1 g/dL, Hematies *4.42 x1E12/L, Hematocrit  *37.1 %, Volum eritrocitari mitja (VCM)  *83.9 fL, Conc. hemoglobina eritrocitaria mitja  *32.6 g/dL, Leucocits  *8.88 x1E9/L, Neutròfils %  *68.0 %, Eosinòfils
+% *0.8 %, Monòcits *0.63 x1E9/L, Eosinòfils *0.07 x1E9/L, Plaquetes *273 x1E9/L, Volum plaquetari mitja (VPM) *11.1 fl.
+
+-	Ecocardiografía: Ventrículo izquierdo no dilatado, no hipertrófico, sin alteraciones segmentarias de la contractilidad, con función ventricular conservada (FE 55 %). Aurícula izquierda severamente dilatada. Válvula mitral con velos engrosados con retracción del velo posterior. Severa calcificación del anillo mitral posterior. Raíz aórtica y aorta ascendente no dilatadas. Válvula aórtica trivalva con velos con puntos de calcificación con apertura conservada. Ventrículo derecho no dilatado con función conservada (TAPSE 23 mm). Vena cava inferior no dilatada con colapso inspiratorio normal. Sin derrame pericárdico Insuficiencia mitral moderada- severa, con jet ligeramente dirigido a cara lageralauricular, sobretodo originada a nivel más posterior, pansistólica de moderada-severa intensidad doppler, con inversión en VVPP. E>1m/sg. ORE estimado por PISA 0.33cm2. Gradiente transvalvular aórtico dentro de la normalidad. Insuficiencia aórtica ligera (I) con jet central que no sobrepasa el TSVI. Sin señal de IT que permita estimar la PAP. Sin signos indirectos de hipertensión pulmonar. Alteración diastólica tipo II.
+
+-	RMN cerebral: El examen muestra un correcto contraste entre la sustancia blanca y la sustancia gris. Imágenes hiperintensas subcorticales frontales bilaterales de aspecto hipóxico isquémico así como signos de leucoencefalopatía isquémica periventricular. Las secuencias de difusión no muestran áreas de restricción que indique una lesión aguda. Las secuencias de gradiente no muestran depósito de hemosiderina por hemorragia crónica. El tronco del encéfalo y cerebelo son normales. El sistema ventricular está correctamente centrado en
+-	la línea media, sin distorsiones con el acueducto permeable y el IV ventrículo centrado. Se descarta patología malformativa de la charnela o bien proceso expansivo intracraneal.
+
+-	Angio RM cerebral: El examen ARM muestra una correcta permeabilidad de tronco braquiocefálico y arterias subclavias. Las arterias vertebrales son permeables con flujo ascendente. Tronco basilar permeable y centrado. Permeabilidad con elongación de las carótidas primitivas. En la bifurcación carotídea derecha no se identifica estenosis. Permeabilidad del trayecto cervical de la carótida interna derecha. En la bifurcación izquierda no se identifica estenosis focal significativa. Correcta permeabilidad del trayecto cervical de  la carótida interna izquierda así como de los segmentos intracraneales de carótidas internas. Los trayectos cervicales de las carótidas internas están elongados. Correcta permeabilidad de arterias cerebrales medias anteriores y posteriores sin evidencia de estenosis o bien dilatación aneurismática, detectable por técnicas ARM. Hipoplasia del segmento A1 de la cerebral anterior derecha
+
+-	Ecodoppler TSA: (Pendiente de informe de radiología). En las imágenes, se observa una placa calcificada en eje carotídeo izquierdo no complicada. Eje carotídeo derecho: no se observa estenosis hemodinámicamente significativa (VPS 52.5cm/s, ratio 1.36). Eje carotideo izquierdo, se observa una estenosis < 50% (VPS 122.7cm/s, ratio 2.15). AV dentro de la normalidad a nivel del doppler.
+
+-	Holter-ECG: pendiente de resultados (extraído el 05/10/17)
+
+
+EVOLUCIÓN:
+Paciente de 79 años que ingresa como código ictus en urgencias por observarle afasia motora que evoluciona a afasia mixta y plejia del MSD, con lo que tras descartar contraindicación, se le administra rtpa y se contacta con guardia de neurovascular para valorar terapia de rescate. En _SS_, la paciente se encontró agitada, requiriendo la administración de midazolam para la realización de angio-TC y TC perfusión, tras descartar oclusión de gran vaso, se desestima terapia endovascular y se traslada nuevamente a urgencias del _SS_.
+En urgencias, seguía manteniendo la misma focalidad, junto agitación psicomotriz, pero al día siguiente en planta de neurología, la paciente se encuentra asintomática sin focalidad, únicamente una leve disfonía que fue mejorando a las 48h.
+Se le ha realizado estudio de neuroimagen donde se descarta lesión aguda o crónica a nivel del parenquima. Como estudio etiológico se le ha realizado ecocardiografía observando una insuficiencia mitral moderada- severa que se consulta con cardiología, e indica su control y seguimiento en consultas externas. También se le ha realizado eco-doppler TSA donde se observa una estenosis <50% en ACI izquierda pero a nivel intracraneal no se observa alteraciones significativas y un holter-ECG pendiente de resultados.
+Durante su estancia en planta de Neurología, la paciente ha permanecido estable hemodinámicamente, con buenas cifras tensionales controladas únicamente con dieta hiposódica sin requerir tratameinto hipotensor, con lo que no se indica su prescripción al alta, hasta valoración por médico de atención primaria.
+A nivel neurológico, la paciente se enceutnra asintomática, sin requerir RHB, encontrandose actualmente en su situación basal al alta. NIHSS 0 mRS 0
+
+Se indica ecodoppler TSA al alta (en 6 meses) para control y valoración de estenosis <50% ACI sintomática.
+
+
+ORIENTACIÓN DIAGNÓSTICA:
+
+AIT carotideo izquierdo. Estenosis <50% en ACI izquierda.
+Insuficiencia mitral moderado-severa. Diabetes mellitus tipo 2.
+
+TRATAMIENTO:
+Dieta baja en sal y ejercicio físico Cymbalta 60mg 1-0-0 Lorazepam 1mg /24h si precisa. Atorvastatina 80mg 0-0-1
+AAS 100mg 0-1-0
+Diamicron 30mg 2-0-0 Januvia 50mg 1/12h Metformina 850mg/8h Omeprazon 20mg/24h Paracetamol 1g si precisa Acoxxel 90mg si precisa
+
+Se recomienda control de tension arterial exhaustiva en domicilio con control por parte de su medico de atención primaria para revaluar reintroducir tratamiento hipotensor.
+Control de los FRV por parte del médico de atención primaria.
+
+Control en 3 meses en consultas externas de Neurología. Acudirá a la realización de doppler TSA.
+Control en CEX Cardiología para valoración de insuficiencia mitral moderada-severa.
+
+
+Atentamente, Firmado:
+Dr/a.: _NAME_
+Metge adjunt - Neurologia  Número col·legiat: _ID_
+
+Dr/a.: _NAME_
+Metge resident - MF i C Número col·legiat: _ID_
+
+Hospitalització
+Imprès: 05/10/2017 15:37
+Pàg.: 1 de  4

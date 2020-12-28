@@ -1,0 +1,121 @@
+_LOCATION_ Tel. _CONTACT_
+e-mail: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 76 Anys
+NIF/DNI: _ID__NAME_; _NAME_; _NAME_
+Informe d'epicrisi
+CP	_LOCATION_
+ABS	_SS_
+Servei	NEUROLOGIA
+Data d'alta  27.12.2017	10:22:00
+_LOCATION_
+_CONTACT_ FIL; _CONTACT_; _CONTACT_ DOMICIL/RES.SOC
+25.12.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Ictus vertebrobasilar
+
+ANTECEDENTS
+ANTECEDENTS
+Paciente de 75 años sin alergias medicamentosas conocidas. Fumador activo de dos puros/día, hábito enólico de 6-8 UBE/día, sin otros hábitos tóxicos. Independiente para las actividades básicas de la vida diaria, aunque asocia deterioro cognitivo leve. Sin antecedentes familiares de cardiopatía isquémica precoz ni muerte súbita. Seguimiento irregular del tratamiento.
+
+ANTECEDENTES PATOLÓGICOS:
+-	Hipertensión arterial de larga evolución en tratamiento y regular control habitual.
+-	Dislipemia en tratamiento médico con regular control (set-17: Triglicéridos 134 mg/dl, Colesterol 126 mg/dl, C-HDL 27 mg/dl, C-LDL 72 mg/dl).
+-	Diabetes mellitus tipo 2 de larga evolución en tratamiento con antidiabéticos orales e insulina (Hb A1c 9.1%. en set-17).
+-	Cardiopatía isquémica crónica de larga evolución con enfermedad de 3 vasos, revascularizada en enero de 2003 con triple by pass (AMI-DA, VS-OM, VS-DP). Múltiples IAMs desde 2013 con implantación de stents en diferentes arterias. por también reestenosis del bypass. último ingreso en Cardiologia noviembre 2017 por nuevo IAMSEST Killip I, con ECG que retrograda parcialmente y leve movilización de marcadores con CKMB 44 U/l. Por conocerse enfermedad difusa y cumplimiento terapeútico y dietético irregular se considera tributario de manejo médico conservador, con el que ha presentado una buena evolución. Se inisite en cumplimiento terapéutico y de la dieta de diabético.
+-	Insuficiencia renal crónica conocida al menos desde el 2016 (creatinina habitual 1.33 mg/dL).
+-	Hernia de hiato con sintomatología frecuente de pirosis en tratamiento con omeprazol. Sin historia de sangrados digestivos.
+-	Anemia crónica leve con estudio compatible con déficit de cobalamina y hipofolatemia en diciembre 2016.
+-	SAHS severo en tratamiento irregular con CPAP; sin criterios clínicos de bronquitis crónica o episodios de hiperreactividad bronquial. Sin clínica de claudicación intermitente.
+-	Hipotiroidismo subclínico sin tratamiento en la actualidad.
+-	Deterioro cognitivo leve en forma de fenómenos amnésicos y agresividad desde el 2008; estudio neuropsicológico compatible con alteración de tipo vascular frontal subcortical; RMN con infartos lacunares; una ecografía de troncos supraaórticos 2003 no mostró placas ni estenosis significativas en ambos territorios carotídeos.
+-	Hernia discal L4-L5 con estenosis foraminal bilateral con claudicación neurógena asociada; en febrero de 2000, se realizó microdiscectomía de L4-L5 izquierda y foraminectomia en nuestro centro. Como complicaciones presentó hematoma epidural postquirúrgico, sin clínica en la actualidad.
+-	Síndrome ansioso de larga evolución.
+-	Múltiples episodios de cólicos nefríticos, no complicados.
+-	Gonartrosis bilateral degenerativa, tributario de implante de prótesis total bilateral que el paciente rechazó el 2010.
+-	
+Informe d'epicrisi
+
+
+
+
+MEDICACIÓ HABITUAL
+Adiro 100 mg/24h, Clopidogrel 75 mg/24h, Uniket retard 50 mg/D, Bisoprolol 5mg/12h, Furosemida 40 mg/24h, Ramipril 5 mg/24h Espironolactona 25 mg/24h, Amlodipino 5mg/24h, Provisacor 20 mg/24h, Insulina Lantus 22 Unidades, Repaglinida 2mg/8h, Metformina 850mg/24h, Lorazepam 1 mg, Citalopram 10 mg/24h, Omeprazol 20 mg/24h, Polaramine un comprimido al día. Nitroderm 15 mg. 1 parche al día (colocar por la mañana (08-09h, y retirar por la noche 21h)
+
+
+PROCÉS ACTUAL
+Avui dia 24/12/17 a les 16:15h aproximadament la familia sent un soroll i es troba al pacient inconcient a les escales pel que avisen al SEM. Prèviament no hi havia canvis rellevants respecte estat basal.
+
+El SEM el troba hipertens i amb GCS 4 (decerrebració espontánia, no respon a ordres ni emet llenguatge). El porten a urgències i ens avisen per a valoració.
+
+EXPLORACIÓ FÍSICA
+
+FC	79 bpm
+Tªaxi 36.0 ºC
+FR	rpm Tªrec  ºC
+TA s	147 mmHg SAT O2 94 %
+TA d   67 mmHg Pes Kg
+
+Exploració neurològica: No respon a estímuls tàctils ni verbals, no emet llenguatge. Pupiles isocòriques miòtiques i arreactives. Absència de corneal bilateral. Respiració profunda paradoxal. No mobilitza extremitats al dolor, posició descerebració amb braç dret. BAbinski bilateral.
+
+Exploració sistèmica: auscultació cardíaca amb tons regulars sense bufs, auscultació respiratoria amb murmull vesicular conservat sense sorolls sobreafegits, abdomen tou i depressible, peristaltisme conservat.
+
+EXPLORACIÓ COMPLEMENTÀRIA
+TC cranial i angioTC pendent d'informe definitiu: no s'observen clars signes d'isquèmia precoç ni hemorragia. ASPECTS 10. En la seqüènica angiografica, s'observa ateromatosis amb oclusió de segment postPICA de artèria vertebral dreta i irregularitat de arteria basilar que és permeable. A nivell de Poligon de Willis les arteries intracranials són permeables sense estenosis ni occlusions.
+
+Analítica: Hemograma: leucòcits 9200, Hb 11,2g/dL, Htc 34%, plaquetes 263.000. Hemostasia: TP 90%, fibrinògen 485mg/dL, TTPA 22,1seg. EV: pH 7,15, PCO2 37mmHg, pO2 81mmHg, HCO3 12,9mmol/L; EB -15mmol/L, SatO2 96,6%. Bioquímica: glucosa 289mg/dL, urea 55,5mg7dL, creatinina 1,62mg/dL, Na 135,9mmol/L, K 4,4mmol/L, Bil 0,76mg/dL, PCR 0,9mg/L, CK 132U/L.
+
+ECG: sense canvis respecte ECG previs, signes d'isquèmia antiga Rx tòrax: signes de ICC amb patró de infiltrat perihiliar bilateral.
+TC cranial de control: Lesions isquèmiques subagudes peduncle dreta i cerebel·lós esquerre. nfarts isquèmics lacunars crònics de ganglis basals drets.
+
+Informe d'epicrisi
+
+
+
+
+EVOLUCIÓ CLÍNICA
+Home de 77 anys, fumador, enol, FRCV de molt dificil control, insuficiència renal, deterior cognitiu inicial amb trastorn de la conducta, SAHS sever i malaltia de 3 vasos amb triple bypass i posteriorment stents múltiples per múltiples infarts cardíacs (últim el novembre de 2017). És portat avui pel SEM després de ser trobat a domicili al terra amb baix nivell de conciència. A l'arrivada, GCS 4 amb decerebració i alguns reflexes de tronc encara conservats. Inicialment arriva hipertens i taquicàrdic amb desaturació i respiració profunda i taquipneic. Es realitza un TC cranial urgent que no observa lesió isquèmica ni hemorràgica inicial i angioTC de TSA i intracranial en la que s'observa oclusió de AV dreta distal i irregularitats en Arteria basilar però sense oclusió que podria correspondre a un èmbol recanalitzat. Clílnicament es manté amb la mateixa clínica en coma arreactiu. Per absència d'oclusió i comorbilitat del pacient es decideix no realitzar tractament fibrinolític ni endovascular. Es parla amb la familia i s'informa de mal pronòstic. Es decideix conjuntament de no iniciar tractament invasiu per les complicacions per no allargar l'agonia.
+
+Durant la seva estància a urgències i les primeres hores del ingrés a planta el pacient presenta una milloria molt lentament progressiu tot i que persistent tetraperasia severa, com a complicació presenta mioclonies cefàlica i del braç esquerre que es controla amb clonacepam.
+Avisa avui el 27/12/2017 sobre les 08:50h per nova crisis i parada cardiorespiratoria, i finalment el pacient es exitus a les 08:55h
+
+ORIENTACIÓ DIAGNÒSTICA
+436/5 Ictus
+
+401.9 Hipertensió essencial inespecificada
+250.00 Diabetis mellitus II sense complicació, controlada
+250.02 Diabetis mellitus II sense complicació, incontrolada
+272.0 Hipercolesterolèmia pura.Hipercolesterolèmia familiar,hiperlipoproteïnèmia:tipus IIa(Fredrickson),LDL 414.8/3 Miocardiopatia isquemica
+305.1 Trastorn per ús de tabac. Dependència de tabac
+305.1	Abús d'alcohol, sense dependència, continu
+305.2	Abús d'alcohol, sense dependència, episòdic
+305.3	Abús d'alcohol, sense dependència, en remissió
+440.21 Aterosclerosi d'extremitats amb claudicació intermitent
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+27.12.2017
+Pàgina 1 de 3

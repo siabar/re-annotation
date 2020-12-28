@@ -1,0 +1,150 @@
+_LOCATION_) Telèfon _SS_  972 _CONTACT_
+Telèfon IDI (Ressonància i TAC) _CONTACT_
+Telèfon ICO _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 85 Anys
+NIF/DNI: _ID__NAME_; _NAME_;
+ _NAME_;  _NAME_
+Informe d'alta d'hospitalització
+11:45:00
+10.11.2017
+_ID_
+_SS_ NEUROLOGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_; _CONTACT_; _CONTACT_
+DOMICIL/RES.SOC 02.11.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Sindrome lacunar motor puro izquierdo
+
+ANTECEDENTS
+ANTECEDENTES PERSONALES
+- Sin alergias a medicamentos conocidas
+-No hábitos tóxicos
+-Independiente para ABVD. mRs previo1.
+
+ANTECEDENTES PATOLÓGICOS
+-No cardiopatía isquémica ni tampoco AVC previos. No hipertensión arterial ni diabetes mellitus 2
+-Dislipemia. último LDL 130.
+-Insuficiencia renal crónica (estadio IV). Creatininas habituales 2.2. FG 25. Darbopoetina. Seguimiento Nefrología.
+-Hiperuricemia en tratamiento médico.
+-Carcinoma  mama ductal infiltrante  pT2N1M0, tumorectomía 24/02/2015, ha recibido  RDT  y actualmente tto letrozol, seguimiento CCEE de oncología médica.
+-MCP 17/02/2015 por bradicardia con BAV 2º grado, Mobitz I, Mobitx II ocasional
+-Valvulopatia mitro-aortica degenerativa: Ecocardio 2017: IM severa (previa lleugera al 2015), EAo moderada FE 62%.
+de dimensions i FE normals. Actualment seguiment clinic i ecocardiografic.
+-Artrosis. Tratamiento sintomático para el dolor.
+-Apendicectomia.
+
+MEDICACIÓ HABITUAL
+furosemida 40mg 1/24h, irbesartan 300mg 1/24h, letrozol 2.5mg 1/24h, Sitagliptina 25mg 2/24h. Alopurinol 300mg 1/24h, Carbonato calcico + colecalciferol 1000mg/880mg 1/24h, Darbopoetina 40mcg jeringa, Colecalciferol 2.5 cada 2 semanas, zaldiar 37.5/325 1/8 horas
+
+PROCÉS ACTUAL
+Paciente de 85 años inicia de forma ictal el pasado 2/11 sobre las 16.00h, cuadro de debilidad generalizada y pérdida notable de fuerza en extramidades izquierdas siendo encontrada a las 20.00 horas aproximadamente por hija, quien objetiva además paresia facial por lo que avisa a SEM. Se traslada a paciente a urgencias de nuestro centro sin activación de Código Ictus.
+
+Llegada  a  nuestro  centro  a  las  20.54  horas,  es  valorada por  enfermería de  triaje,  que  constata  focalidad neurológica, motivo por el que contacta con NRL de guardia, que acude inmediatamente.
+A nuestra valoración, persiste hemiparesia leve BC izquierda, paresia facial central izquierda y disartria leve.
+Se realia TAC craneal donde no se objetivan lesiones isquémicas ni hemorrágicas agudas. Angio-Tac craneal pone de manifiesto oclusión completa de A. carótida interna derecha. No candidata a tratatamiento fibrinolítico en fase aguda del ictus por encontrarse fuera de ventana temporal terapéutica, y se decide ingreso en nuestra unidad para control semiintensivo y completar estudio etiológico.
+
+Informe d'alta d'hospitalització
+
+
+
+
+EXPLORACIÓ FÍSICA
+
+FC	60 bpm
+Tªaxi 36.5 ºC
+FR	rpm Tªrec  ºC
+TA s	136 mmHg SAT O2 95 %
+TA d   71 mmHg Pes Kg
+
+Exploración al ingreso:
+Paciente vigil, responde adecuadamente su edad y el mes del año. Obedece ordenes de cerrar los ojos y de elevar los brazos. No objetivamos aparentes alteraciones del lenguaje durante la visita. No deficit a la movilidad de persecusion de los ojos. No deficits campimétricos a la confrontación. Asimetrai facial izquierda con borramiento de SNG izquierdo a la sonrisa. No deficit motor contra gravedad de las EESS, observamos enlentecimiento de maniobra de Miller Fisher en mano izquierda. EII claudica contra gravedad pero no toca la cama durante 5segundos, no deficits motores en EID. No deficit sensitivos tactiles. No objetivamos dismetrtias en las 4extremidades.
+NIHSS : 00000/10001/00000: 2. EXPLORACIÓN AL ALTA:
+TA: 163/71 mmHg, FC: 60 lpm, Sat basal 95%, T (timpánica): 37.1ºC, glicem capilar
+NRL: Paciente vigil, estable a nivel neurológico, persiste leve asimetría facial compatible con PFC izquierda, así como ligero deficit motor a nivel de extremidad inferior izquierda. Sin cambios respecto a exploraciones previas NIHSS: 2 (00000/10010/00000)
+
+EXPLORACIÓ COMPLEMENTÀRIA
+ECG:
+-Ingreso; Ritmo sinusal, sin alteraciones en la repolarización ni morfología de bloqueo
+-Monitorización Holter Unidad de Ictus: No se objetivan arritmias embolígenas.
+
+A/S:
+-AS: Hb 11.5 g/dL, Plaqu 173 K/mcL, Leucòcits 7.12 K/mcL (N: 70 %, L: 21.1 %), INR 1.04, Temps de cefalina (TTPA) 25 segons, Glucosa 205 mg/dL, Urea 210 mg/dL, Creatinina 3.37 mg/dL, Colesterol 201 mg/dL, Colesterol HDL 39 mg/dL, Colesterol LDL130 mg/dL, Triglicèrid 162 mg/dL, Bilirubina total 0.47 mg/dL, GOT 22 U/L, GPT 15 U/L, Gamma-glutamiltransferasa 111 U/L, Fosfatasa alcalina 67 U/L, Lactat deshidrogenasa 279 U/L, CK 86 U/L, Amilasa 147 U/L, Calci (II) * 11.2 mg/dL, Ió sodi 141 mEqu/L, Ió potasi 5.8 mEqu/L, TnT 74.3 ng/L
+
+-AS control (09/11): Hb 10.2 g/dL, Htco 34 %, VCM 100.3 fL, HCM 30 pg, Plaqu 127 K/mcL, Leucòcits 7.47 K/mcL (N: 81.6 %, L: 9.9 %), Tasa protrombina 95 %, INR 1.01, TTPA 29 segons, Glucosa 186 mg/dL, Urea 186 mg/dL, Creatinina 2.65 mg/dL, Ió sodi 141 mEqu/L, Ió potasi 5 mEqu/L, PCR 1.05 mg/dL
+
+PRUEBAS DE IMAGEN:
+-Rx de tórax: Rx AP de tórax, poco inspirada, poco penetrada, parcialmente rotada. No se observan aumentos de densidad compatibles con condensación, sí pinzamiento de seno costofrénico izquierdo, ya objetivado en exploraciones previas. ICT aparentemente aumentado.
+
+-DUPLEX TSA Ateromatosis caroptídea importante, con placas fibrosas, alguna calcificada. Oclusión ICA derecha. ICA izda sin alteraciones hemodinámicas. AVs normales (dominancia derecha)
+
+Informe d'alta d'hospitalització
+
+
+
+
+-DUPLEX TRANSCRANEAL (estudio con contraste): Patron de oclusión proximal en ACM D, amortiguada, con retraso de pico sistólico, que se perfunde a través de ACoA, competente.VM ACM D/I: 40 cm/s / 59 cm/s; ACA D antidrómica, flujo excelente (65-70 cm7s); Flow diversion ACM/ACA izda con hiperaflujo ACA izdfa (VM 160 cm/s). Ausencia de comunicantes posteriores. Aretria oftálmica D antidrómica, aunque sin patrón de hiperaflujo. CONCLUSIÓN: Oclusión de ICA D con patrón hemodinámico intracraneal compatible con buena compensación a través de ACoA. No realizamos test de reserva hemodinámica (VOT ausente)
+
+-TC craneal multimodal: Estudio TC simple sin hallazgos agudos valorables. Oculsión completa del segmento C1, C2 y C3 de la ACI derecha (de aspecto subagudo-crónico). Estudio de perfusión muestra área de penumbra isquémica en el territorio superficial y profundo de ACM derecha sin evidencia de infarto establecido. Hallazgos en probable relación con oclusión de la ACI derecha.
+
+EVOLUCIÓ CLÍNICA
+Ingresa en nuestra unidad de ictus bajo vigilancia semintensiva sin haber presentado complicaciones hemodinámicas ni infecciosas asociadas.
+
+Se realiza estudio etiológico de imagen por Doppler TSA y transcraneal que confirma oclusión completa de ACI derecha (ya objetiva en AngioTac de ingreso)  con compensación correcta de flujo sanguineo cerebral a espensas de circulación anterior izquierda.  Telemetría durante el ingreso sin evidenciar aletarciones del ritmo cardíaco como posible causa mayor embolígena.
+
+A nivel neurológico. Persiste minima paresia del hemicuerpo izquierdo que trabaja de forma diaria con rehabilitación. Sedesta y deambula con el caminador. No presenta disfagia.
+
+En resumen, se trata de una paciente hipertensa y diabética como  importantes factores de riesgo cardiosvascular, que sufre un ictus isquémico en territorio vascular de ACM derecha de causa aterotrombótica secundaria a oclusión de gran vaso arterial extracraneal (ACI derecha) por lo que precisará como prevención secundaria antiagregación con AAS 100mg/24 y control adecuado de su patología de base y resto de FRCV. Continuará tratramiento de rehabilitación a domicilio y controles posteriores por neurovascular. Dada la estabiliad clínica, se decide alta hospitalaria a domicilio.
+
+Escalas al alta:
+-NIHSS: 2
+-mRs: 3
+-Barthel:  65
+
+DIAGNÒSTICS
+436/5 Ictus
+401.9 Hipertensió essencial inespecificada
+250.00 Diabetis mellitus II sense complicació, controlada
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Medicación: Iniciar:
+
+Informe d'alta d'hospitalització
+
+
+
+
+- Adiro 100mg 0-1-0,
+- Atorvastatina 80mg/24hrs 0-0-1
+
+Resto de medicación sin cambios: Alopurinol 300mg 1/24h
+Carbonato calcico + colecalciferol 1000mg/880mg 1/24h Darbopoetina 40mcg jeringa
+Colecalciferol 2.5 cada 2 semanas Furosemida 40mg 1/24h Irbesartan 300mg 1/24h
+Letrozol 2.5mg 1/24h Zaldiar 37.5/325 1/8 horas Sitagliptina 25mg 2/24h.
+
+Dieta sana mediterránea, baja en grasas.
+
+CONTROL
+-	Control por médico de cabecera, de TA y colesterol, siendo valores objetivos TA 140/80 mmHg y HDL<70mg/dL.
+-	Control por CCEE Neurovascular de _SS_ el día 12/02/18 a las 12:50 con Dr. _NAME_.
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+10.11.2017
+Pàgina 1 de 4

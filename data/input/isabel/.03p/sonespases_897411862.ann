@@ -1,0 +1,49 @@
+T0	FECHA 15 25	30-05-2018
+#0	AnnotatorNotes T0	2018-05-30
+T1	SECCION_DIAGNOSTICOS 27 39	Diagnosticos
+T2	FECHA 41 51	26/05/2018
+#2	AnnotatorNotes T2	2018-05-26
+T3	_SUG_Arteria_afectada 103 127	territorio indeterminado
+T4	_SUG_Etiologia 141 154	indeterminada
+T5	SECCION_PROCEDIMIENTOS 160 174	Procedimientos
+T6	_SUG_Ictus_isquemico 205 210	ictus
+T7	SECCION_MOTIVO_DE_INGRESO 212 229	Motivo de ingreso
+T8	_SUG_Ictus_isquemico 238 243	ictus
+T9	_SUG_Lateralizacion 273 274	I
+T10	HORA 302 303	1
+#10	AnnotatorNotes T10	1:00
+T11	SECCION_ANTECEDENTES_PATOLOGICOS 347 367	Antecedentes Médicos
+T12	SECCION_SITUACION_FUNCIONAL 566 581	Situación basal
+T13	_SUG_mRankin 590 595	mRS 0
+T14	SECCION_ANTECEDENTES_QUIRURGICOS 597 621	Antecedentes Quirúrgicos
+T15	SECCION_TRATAMIENTO_HABITUAL 625 649	Tratamiento domiciliario
+T16	HORA 877 879	21
+#16	AnnotatorNotes T16	21:00
+T17	FECHA 885 893	25/05/18
+#17	AnnotatorNotes T17	2018-05-25
+T18	_SUG_Lateralizacion 931 932	I
+T19	HORA 1068 1073	21.10
+#19	AnnotatorNotes T19	21:10
+T20	SECCION_EXPLORACION_FISICA 1103 1114	Exploración
+T21	_SUG_NIHSS 1880 1891	NIHSS: 0 [3
+T22	SECCION_EXPLORACIONES_COMPLEMENTARIAS 2172 2206	Resultados pruebas complementarias
+T23	_SUG_TAC_craneal 2235 2247	TAC cerebral
+T24	_SUG_Hemorragia_cerebral 2271 2294	hemorragia intracraneal
+T25	_SUG_Localizacion 2331 2342	subcortical
+T26	_SUG_Localizacion 2362 2370	profunda
+T27	_SUG_Localizacion 2455 2463	cortical
+T28	_SUG_Lateralizacion 2755 2756	e
+T29	_SUG_Lateralizacion 2771 2776	ambas
+T30	_SUG_Arteria_afectada 2777 2780	ACC
+T31	_SUG_Lateralizacion 2801 2802	e
+T32	_SUG_Lateralizacion 2827 2832	ambos
+T33	_SUG_Lateralizacion 2840 2841	e
+T34	_SUG_Lateralizacion 2852 2857	ambas
+T35	_SUG_Arteria_afectada 2858 2861	ACI
+T36	_SUG_Arteria_afectada 2985 2987	AB
+T37	_SUG_Etiologia 3030 3042	ateromatosis
+T38	_SUG_Arteria_afectada 3043 3052	carotídea
+T39	SECCION_EVOLUCION 3066 3088	Evolución Hospitalaria
+T40	SECCION_TRATAMIENTO_Y_RECOMENDACIONES_AL_ALTA 3404 3441	Recomendaciones y tratamiento al alta
+T41	_SUG_Lateralizacion 3444 3449	Dieta
+T42	_SUG_Tratamiento_antiagregante 3580 3602	Ácido acetilsalicílico

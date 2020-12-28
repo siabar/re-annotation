@@ -1,0 +1,175 @@
+_LOCATION_
+_LOCATION_) Anul·lació/Reprogramació visites:_CONTACT_
+Telèfon Centraleta: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 79 Anys
+NIF/DNI: _ID__NAME_; _NAME_; _NAME_;
+_NAME_
+Informe d'alta d'hospitalització
+CP	_LOCATION_
+ABS	_SS_
+Servei	NEUROLOGIA
+Data d'alta  03.02.2017	15:00:28
+_LOCATION_
+_CONTACT_; _CONTACT_
+DOMICIL/RES.SOC 29.01.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Mujer de 79 años que ingresa por estatus parcial complejo.
+
+ANTECEDENTS
+No alergias medicamentosas conocidas No hábitos tóxicos.
+FRCV: HTA y DLP en tto
+-Dos episodios de focalidad neurológica(2010, 2015) consistentes en afasia + cefalea que se orientaron como AITs en territorio carotideo izquierdo (2010 y en 2015). Tc craneal sin lesiones agudas. ECG: RS. EcoTSA sin estenosis significativas. ETT 2015 FEV1 72%, IA y IM leve. En tto antiagregante.
+-Hipoacusia neurosensorial se completó estudio con RMN craneal informándose de la presencia de meningioma APC. No otros AP intrerés.
+
+Iqx: faquectomía izquierda.
+
+Situación basal: Independiente para AVBD. Vive con su marido mRankin 0.
+
+
+MEDICACIÓ HABITUAL
+PANTOPRAZOL   20  mg  1  x  24  h,  CLOPIDOGREL  75MG      1  x  24  h,  LORMETAZEPAM   2MG    1  x  24
+h,LOSARTAN/HIDROCLOROTIAZIDA 50/12,5MG  1 x 24 h, ATORVASTATINA 40 mg  1 x 24 h.
+
+PROCÉS ACTUAL
+Mujer que el día 28/01 estando previamente asintomática, a las 14:30h encuentran a la paciente en la cocina siendo incapaz de realizar la comida y objetivando alteración del lenguaje compatible con afasia. No movimientos anómalos con las extremidades. No fiebre ni cuadro intercurrente los días previos. No cefalea. Avisa SEM quién activa Código Ictus a las 15:30h. Llega a UCIEs a las 16:00h. Tc craneal a las 16:30h.
+Enla primera valroación en urgencias la paciente presenta TA 139/109mmHg, FC 60lpm, afebril, sat 97% basal. NRL se encuentra vigil, orientación no valorable (2), mirada centrada, PICNR, impresiona de HHD por amenaza (2), afasia mixta de predominio motor con bloqueos del lenguaje, parafasias y circulonquios (no nomina, no evoca ni repite correctamente) (2), obedece 2 órdenes simples, no complejas, simetría facial conservada, no déficit motor, sensibilidad no valorable. RCP flexor bilateral. NIHSS 6.
+Se solicita analítica de urgecias sin alteraciones. Rx tórax con ICT =0,5, hilio  pulmonar D prominente, no condensaciones, senos costofrénicos libres. ECG en Ritmo sinusal a 60lpm, PR normal con bloqueo de rama derecha sin otras alteraciones agudas en la repolarización. Se realiza TC craneal, perfusión y angioTC con ASPECTS 10. Muy discreto alargamiento del MTT en el estudio de perfusión, sin repercusión en CBF o CBV, de dudoso valor clínico. A nivel vascular, únicamente llama la atención una estructura vascular anómala a nivel parietal izquerdo que plantea el DD entre una pequeña MAV o DVA a ese nivel.
+Se plantea como primera opción diagnóstica etiología comicial en forma estatus parcial complejo. Se administra 1/2 ampolla de rivotril puntual con revaloración a los 10 minutos presentando mejoría de la alteración del lenguaje pero  sin  recuperación  completa  por  lo  que  se  decide  iniciar  tto  con  VPA  (Bolus  1400mg  con  posterior
+
+Informe d'alta d'hospitalització
+
+
+
+
+mantenimiento 400mg/8h). Ante la persistencia de la clínica en la revaloración se decide iniciar 2 FAE con Fenitoina (bolus 18mg/kg con posteiror mantenimiento 125mg/8h). Se inicia 3 FAE con bolus LEV 1000mg y posterior mantenimiento 1000mg/12h por ausencia de normalidad en  la exploración aunque si  que discreta mejoría.
+Se orienta el caso como estatus parcial complejo en paciente con probable lesión estructural vascular a nivel parietal izquierdo (pequeña MAV vs DVA)
+Ingresa en NRL.
+
+EXPLORACIÓ FÍSICA
+
+TA 145/87FC 78 T 36ºC Sat 98%
+AC ritmica sin soplos ni extratonos
+AP con MVC sin ruidos sobreañadidos
+Abdomen blando depresible no doloroso a la palpación. No masas ni megalias. No signos de irritación peritoneal. MMII con pulsos periféricos presentes. No edemas. No signos de irritación peritoneal.
+
+NRL cosnciente y orientada enTEP. No alteraciones en habla. Lenguaje con posible latencia aumentada, nomina 5/5, evoca 5/5 y repite sin dificultad. Obedece órdenes simples y  complejas. No HH. MOES conservados( estrabismo congénito). No asimetrías faciales. PPCC bajos conservados. Balance motor conservado en 4 extremidades y sensibilidad sin alteraciones. RCP flexor bilateral.
+
+EXPLORACIÓ COMPLEMENTÀRIA
+Pruebas complementarias en urgencias Analítica de urgecias sin alteraciones.
+Rx tórax con ICT =0,5, hilio pulmonar D prominente, no condensaciones, senos costofrénicos libres.
+ECG en Ritmo sinusal a 60lpm, PR normal con bloqueo de rama derecha sin otras alteraciones agudas en la repolarización.
+TC craneal, perfusión y angioTC:ASPECTS 10. Muy discreto alargamiento del MTT en el estudio de perfusión, sin repercusión en CBF o CBV, de dudoso valor clínico. A nivel vascular, únicamente llama la atención una estructura vascular anómala a nivel parietal izquerdo que plantea el DD entre una pequeña MAV o DVA a ese nivel.
+
+Pruebas complementarias en planta de hospitalización
+Analítica de ingreso: función renal, ionograma, perfil hepático, perfil lipídico, perfil tiroideo, folatos y cobalaminas normales. Proteinograma pendiente. Hemograma y coagulación sin alteraciones.
+Analítica al alta: función renal normal, Na 137 mmol/L, K 3,98 mmol/L, perfil hepático sin alteraciones. Uratos 172, PCR 175,4 FR 16,3. Hemograma con Hb 109 g/L, VCM 89 fL plaquetas de 139000. Coagulación sin alteraciones.
+Serologías LUES y VIH negativa.
+RMN cerebral y angioRMN: Pequeño meningioma APC derecho.
+SPECT cerebral: Estudio compatible con la sospecha clinica de status parcial complejo con focohiperactivo en temporal izquierdo
+EEG 30/01 ANORMAL. Por presencia de focalidad lenta frontotemporal izquierda.
+EEG 1/02: ANORMAL, por lentificaciones bilaterales y simétricas, inespecíficas de la actividad de base. No se registra actividad
+comicial.
+
+Informe d'alta d'hospitalització
+
+
+
+
+EVOLUCIÓ CLÍNICA
+Ingresa en NRL por episodio de alteración de lenguaje y alteración conductual de aprox 72h de evolución; en Urg se inicia tratamiento con 3 FAE ante sospecha de etiología comicial ( AP de dos episodios previos de afasia con estudio vascular normal previamente y con estudio vascular en urgencias también normal).
+Desde entonces la paciente se ha mantenido asintomática sin nuevos episodios de afasia. En analítica de ingreso destaca discreta plaquetopenia con valor al alta de 139000.
+
+Se realiza EEG 30/1 en el que únicamente se observa lentificación frontotemporal izquierda. En analítica de ingreso no alteraciones destacables. RMN Cerebral sin alteraciones a destacar salvo pequeño menigioma en ángulo pontocerebeloso derecho ya conocido que no justifica la clínica. SPECT 31/1 cerebral muestra foco hipermetabólico temporoparietal izquierdo de dudosa significación por paciente asintomática. Repetimos EEG el día 1/2 tras dichos hallazgos sin evidencia de comicialidad.
+
+Como incidencias presenta probable artritis microcristalinacon afectación de carpo D, tobillos y 1ª MTF D, sin fiebre intercurrente, siendo valorada por Reumatología. Analítica con uratos normales, PCR elevada y FR discretamente elevado(16,3). En Rx de muñeca se objetiva calcificación en ligamento sugestiva de condrocalcinosis, siendo la rx de tobillos normales y rodillas no valorables por presencia de prótesis. Se inicia tratamiento con colchicina 0.5 mg cada 12 horas con dosis de carga inicial de 1 mg + diclofenaco 50 mg cada 12 horas. Seguirá control con médico de cabecera o Reumatólogo de zona.
+
+En la exploración neurológica al alta la paciente se encuentra asintomática.
+
+Se orienta el cuadro como afasia con estudio vascular normal (Tc cerebral, angioTC, RM cerebral), no pudiéndose descartar etiología comicial. Al alta mantenemos tratameinto antiepiléptico con Fenitoina 100 mg cada 8h y levetiracetam 1000 mg cada 12h. Seguirá controles con NRL _SS_.
+
+
+
+DIAGNÒSTICS
+784.3 Afàsia
+716.50 Poliartritis o poliartropatia inespecificades, lloc inespecificat
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Colchicina 0.5 mg cada 12 horas durante 1 semana. Posteriormente Colchicina 0.5 mg 1 comp al día hasta visita en ambulatorio.
+Diclofenaco 50 mg cada 12 horas durante una semana Levetiracetam 1000 mg cada 12h
+Fenitoina 100 mg cada 8h Resto de medicación igual
+
+POR LEY SE PROHIBE LA CONDUCCIÖN DE VEHICULOS
+
+CONTROL
+Control con NRL _SS_ (Acudir a médico de cabecera para ser derivado al NRL)
+
+Informe d'alta d'hospitalització
+
+
+
+
+Control de posible condrocalcinosis por médico de cabecera o Reu de zona.
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+03.02.2017
+Pàgina 1 de 4

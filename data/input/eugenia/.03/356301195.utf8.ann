@@ -1,0 +1,114 @@
+T1	_SUG_Lateralizacion 1 2	I
+T2	_SUG_Lateralizacion 13 14	E
+T3	_SUG_Lateralizacion 15 16	D
+T4	Fecha_de_ingreso 100 110	28/03/2017
+#4	AnnotatorNotes T4	2017-03-28
+T5	Fecha_de_alta 124 134	03/04/2017
+#5	AnnotatorNotes T5	2017-04-03
+T6	_SUG_Ataque_isquemico_transitorio 293 298	ictus
+T7	_SUG_Arteria_afectada 299 302	ACM
+T8	_SUG_Lateralizacion 303 310	derecha
+T9	_SUG_Ictus_isquemico 442 449	Infarto
+T10	_SUG_Lateralizacion 488 497	izquierda
+T11	FECHA 539 543	2005
+#11	AnnotatorNotes T11	2005-UNDEF-month-UNDEF-day
+T12	_SUG_Lateralizacion 698 707	izquierda
+T13	_SUG_Lateralizacion 754 763	izquierda
+T14	FECHA 1077 1089	octubre/2010
+#14	AnnotatorNotes T14	2010-10-UNDEF-day
+T15	_SUG_Lateralizacion 1159 1168	bilateral
+T16	mRankin_previa 1304 1309	mRS 3
+T18	Hora_inicio_sintomas 1479 1484	15.10
+#18	AnnotatorNotes T18	15:10
+T19	Fecha_inicio_sintomas 1490 1495	21/03
+#19	AnnotatorNotes T19	2017-03-21
+T20	_SUG_Lateralizacion 1581 1590	izquierda
+T21	_SUG_Lateralizacion 1622 1629	derecha
+T22	_SUG_Ataque_isquemico_transitorio 1674 1679	ictus
+T23	_SUG_Lateralizacion 1862 1871	izquierda
+T24	_SUG_Lateralizacion 1892 1901	izquierdo
+T25	_SUG_Lateralizacion 1915 1922	derecha
+T26	_SUG_TAC_craneal 2091 2093	TC
+T27	_SUG_Lateralizacion 2144 2151	derecho
+T28	_SUG_Ictus_isquemico 2167 2174	infarto
+T29	_SUG_Arteria_afectada 2203 2206	ACM
+T30	_SUG_Lateralizacion 2207 2214	derecha
+T31	_SUG_Ataque_isquemico_transitorio 2254 2259	ictus
+T32	_SUG_Arteria_afectada 2260 2263	ACM
+T33	_SUG_Lateralizacion 2264 2271	derecha
+T34	_SUG_Trombolisis_intravenosa 2324 2335	trombolisis
+T35	_SUG_Lateralizacion 2626 2635	izquierdo
+T36	_SUG_Lateralizacion 2653 2662	izquierda
+T37	_SUG_Lateralizacion 2706 2715	bilateral
+T38	_SUG_NIHSS 2734 2741	NIHSS 6
+T39	_SUG_TAC_craneal 2754 2756	TC
+T40	ASPECTS 2793 2806	ASPECTS de 10
+T41	_SUG_Arteria_afectada 2847 2849	M2
+T42	_SUG_Lateralizacion 2857 2864	derecha
+T43	_SUG_Ataque_isquemico_transitorio 2883 2888	Ictus
+T44	_SUG_Arteria_afectada 2889 2892	ACM
+T45	_SUG_Lateralizacion 2893 2900	derecha
+T46	HORA 2959 2963	1.32
+#46	AnnotatorNotes T46	01:32
+T47	_SUG_Trombolisis_intravenosa 2977 2988	trombolisis
+T48	_SUG_NIHSS 3151 3161	NIHSS de 4
+T49	_SUG_Lateralizacion 3197 3206	izquierda
+T50	_SUG_Lateralizacion 3220 3229	izquierda
+T51	_SUG_Lateralizacion 3367 3368	E
+T52	FECHA 3480 3485	22/03
+#52	AnnotatorNotes T52	2010-03-22
+T53	_SUG_NIHSS 3591 3598	NIHSS 3
+T54	_SUG_Lateralizacion 3743 3752	izquierda
+T55	_SUG_Lateralizacion 3772 3781	izquierdo
+T56	_SUG_Lateralizacion 3799 3808	izquierdo
+T57	FECHA 3899 3904	21/03
+#57	AnnotatorNotes T57	2010-03-21
+T58	TAC_craneal 3989 3992	TAC
+T59	_SUG_Ictus_isquemico 4002 4009	Infarto
+T60	_SUG_Arteria_afectada 4042 4045	ACM
+T61	_SUG_Lateralizacion 4046 4053	derecha
+T62	_SUG_TAC_craneal 4166 4174	AngioTAC
+T63	_SUG_TAC_craneal 4210 4213	TAC
+T64	Arteria_afectada 4296 4298	M2
+T65	_SUG_Lateralizacion 4306 4313	derecha
+T66	_SUG_Lateralizacion 4713 4722	bilateral
+T67	_SUG_Localizacion 5666 5676	Ventrículo
+T68	_SUG_Lateralizacion 5677 5686	izquierdo
+T69	_SUG_Localizacion 5834 5844	Ventrículo
+T70	_SUG_Lateralizacion 5845 5852	derecho
+T71	_SUG_Lateralizacion 5939 5948	izquierda
+T72	_SUG_TAC_craneal 6339 6342	TAC
+T73	_SUG_ASPECTS 6379 6388	ASPECTS 7
+T74	_SUG_Lateralizacion 6454 6461	derecho
+T75	_SUG_Lateralizacion 6509 6510	e
+T76	FECHA 6552 6557	31/03
+#76	AnnotatorNotes T76	2010-03-31
+T77	_SUG_Lateralizacion 7433 7438	dieta
+T78	NIHSS_alta 7483 7488	NIH 3
+T79	_SUG_mRankin 7490 7496	Rankin
+T81	Ictus_isquemico 7619 7636	Infarto isquémico
+T82	Arteria_afectada 7651 7654	ACM
+T83	Lateralizacion 7655 7662	derecha
+T84	_SUG_Lateralizacion 7756 7757	E
+T85	SECCION_ANTECEDENTES 312 324	Antecedentes
+T86	SECCION_ANTECEDENTES_QUIRURGICOS 1133 1135	IQ
+T87	SECCION_TRATAMIENTO_HABITUAL 1182 1194	Tto habitual
+T88	SECCION_SITUACION_FUNCIONAL 1288 1302	Situacion bsal
+T89	SECCION_PROCESO_ACTUAL 1416 1433	Enfermedad Actual
+T90	SECCION_EXPLORACIONES_COMPLEMENTARIAS 3853 3882	Exploraciones Complementarias
+T91	SECCION_EXPLORACIONES_COMPLEMENTARIAS_EN_URGENCIAS 3907 3925	Analític urgencias
+T92	SECCION_EXPLORACIONES_COMPLEMENTARIAS_EN_PLANTA_DE_NEUROLOGIA 4985 5006	-Analítica de ingreso
+T93	SECCION_EVOLUCION 6983 6992	Evolución
+T94	SECCION_DIAGNOSTICOS 7606 7618	Diagnósticos
+T95	SECCION_TRATAMIENTO_AL_ALTA 7777 7788	Tratamiento
+T17	Tratamiento_anticoagulante_hab 1243 1250	sintrom
+#1	AnnotatorNotes T16	3
+T80	NIHSS_previa 1822 1828	NIH:19
+#2	AnnotatorNotes T80	19
+#3	AnnotatorNotes T40	10
+#6	AnnotatorNotes T78	3
+T96	mRankin_alta 7490 7498	Rankin 4
+#7	AnnotatorNotes T96	4
+T97	Trombolisis_intravenosa 7718 7735	Fibrinolisis rtPA
+T98	Etiologia 7676 7690	cardioembólica
+T99	Localizacion 2902 2906	TACI

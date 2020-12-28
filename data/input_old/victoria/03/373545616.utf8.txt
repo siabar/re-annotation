@@ -1,0 +1,136 @@
+_LOCATION_
+email: _CONTACT_ Telèfon _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 58 Anys
+NIF/DNI: _ID__NAME_ /_NAME_; _NAME_;
+_NAME_
+Informe d'alta d'hospitalització
+07:57:47
+22.05.2017
+_LOCATION_
+_SS_ ANGIOLOGIA I CIRURGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_
+DOMICIL/RES.SOC 11.05.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Paciente de 58 años de edad, sin alergias medicamentosas conocidas, que ingresa por infarto en territorio de ACM D de origen aterotrombótico.
+
+ANTECEDENTS
+No hábitos tóxicos.
+
+1.	Hipertensión arterial en tratamiento farmacológico con Enalapril.
+2.	Dislipemia
+3.	Obesidad.
+4.	Poliomelitis con afectación de la extremidad inferior izquierda. Camina con bastones y férula en MII.
+5.	Esquizofrenia paranoide en tratamiento farmacológico.
+
+Situación Sociofuncional: Independiente para básicas. Movilidad limitada (mRS 3).
+
+MEDICACIÓ HABITUAL
+-	Quetiapina
+-	Risperidona
+-	Enalapril 20 mg
+
+PROCÉS ACTUAL
+Estando la paciente previamente asintomática, el día 10/05/2017 a las 23:15 horas inicia clínica compatible con síndrome completo de ACM D, por lo que es trasladada a nuestro centro para valoración. Hora de llegada 00:11 horas.
+
+EXPLORACIÓ FÍSICA
+
+
+EXPLORACIÓN FÍSICA EN URGENCIAS
+T.Art. 124/99 mmHg; Frec. Cardíaca 112 ppm SpO2 97%
+Exploración neurológica: Sindrome completo de ACM derecha (NIHSS 20). UNIDAD DE ICTUS 11.05.17
+Normohidrtado, normocoloreado, normoperfundido.
+ACV: tonos cardíacos rítmicos, sin soplos audibles, sin edemas en extremidades inferiores, pulsos periféricos presentes y simétricos, no IY/RHY, sin signos de TVP.
+AR: eupneico. MVC sin ruidos sobreañadidos.
+ABD: depresible, no doloroso a la palpación superficial ni profunda, no palpo masas ni visceromegalias, no signos de peritonismo, peristaltismo presente.
+NRL: consciente y orientadA en las tres esferas, pupilas isocóricas y reactivas, nistagmus lateral. Campimetría dentro de la normalidad, parésia facial central izquierda, con envolvimiento hemi ipsilateral MS e MI I (G4). Sensibilidad conservada. Sin negligencia.
+
+Informe d'alta d'hospitalització
+
+
+
+
+
+EXPLORACIÓN FÍSICA EN UNIDAD DE ICTUS
+TA 159/77 mmHg; FC 103 ppm;
+Consciente y orientada en las tres esferas, pupilas isocóricas y reactivas, sin nistagmus. Campimetría dentro de la normalidad, paresia facial izquierda discreta y pronación minor del MSI, marcha limitada por secuelas de polio, subjetivamente con fuerza soperponible. Sensibilidad conservada. Sin negligencia. NIHSS 3.
+
+EXPLORACIÓN FÍSICA EN PLANTA DE NEUROLOGÍA
+TA 145/74 mmHg, FC 98 lpm
+NRL: paciente vigil, orientado en las 3 esferas. Lenguaje conservado, habla normal. Campimetría por confrontación sin déficits. Oculomotricidad conservada, no refiere diplopia ni se objetiva nistagmus. No paresia / hipoestesia facial. Resto de PPCC conservados. Balance motor 5/5 global excepto 4/5 en EII en contexto de secuelas de poliomielistis. Sin alteraciones de la sensibilidad táctil ni extinciones sensitivas. NIHSS 0.
+
+EXPLORACIÓ COMPLEMENTÀRIA
+-	Analítica general urgente: Hgb 14.6; Leuc 9.1; Plaq 215; Ions ok; Función hepática y renal ok.
+
+-	Electrocardiograma: ritmo sinusal a 80 lpm. Sin alteraciones agudas de la repolarización.
+
+-	TC/Angio TC craneal (11.05.17): En el tac simple realizado no se observan lesiones hemorrágicas ni signos directos de lesión isquémica aguda ya que unicamente se observa asimetría por menor presencia de surcos en región temporal posterior con hipodensidad subcortical temporal en segmento de escala ASPECTS M2 cortical y parcial en cápsula interna, ASPECTS 9. El estudio tc perfusion muestra artefactos de movimiento pero puede observarse alteración en CBV en el nivel que mostraba signos dudosos o sutiles en tac simple, con alteración extensa afectando todo el territorio superficial y profundo de ACM derecha por lo que existiría mismatch. En el angiotac TSA y cerebral multifase se observa oclusion de carotida interna derecha desde su origen en bifurcacion carotidea con placa calcificada periferica sin mostrar permeabilidad en series mas tardías, observandose a nivel intracraneal permeabilidad de arterias cerebral anterior y media derechas pero con defecto de repleccion en segmento medio de ACM derecha con repleccion parcial de ramas distales que aumenta moderadamente en 2 fase adicional (colateralidad intermedia) y aparece simetrico en fase tardía. No se identifica comunicante posterior derecha (si se visualiza comunicante posterior izquierda) Troncos supraorticos moderadamente elongados a pesar de la obesidad de la paciente.
+
+-	Trombectomia intra/extra craneal mecànica (11.05.17): Punción femoral imposible, paciente obesa y sin pulsos. Punción arteria braquial derecha. La serie de ACC derecha muestra oclusión a nivdel del bulbo. Se atraviesa la oclusión con cateter diagnóstico y la serie intracraneal muestra oclusión ded ACM M1. Se realiza 1 pase de solitaire 4x20 logrando TICI 2. no se puede realizar intervención sobre la lesión carotidea extracraneal que finalmente queda como estenosis grave de ACI. Infarto total de circulación anterior derecha con oclusión en tandem (ACI e ACM) derecha.
+
+-	Ecografía Doppler-dúplex color de arterias carótidas, vertebrales y transcraneal (11.05.17): Exploración muy limitada por características cervicales de la paciente y movimientos respiratorios de la paciente. Estenosis ambas ACIs >70% (VPS: ACC D 35.8 cm/s, ACI D 245.9 cm/s; ACC I 72.3 cm/s, ACI I 234.5 cm/s). ACM D
+permeable con compensación vía AComP D e hiperaflujo de ACA-1 I (no se visualiza correctamente ACA-1 D). Resto de arterias no insonadas
+
+- TC de control a las 24 horas  postprocedimiento: Persiste, sin cambios  valorables, ténue hipodensidad
+
+Informe d'alta d'hospitalització
+
+
+
+
+córtico-subcortical temporal posterior derecha en relación a infarto establecido del territorio de la ACM ipsilateral.
+
+-  EcoDoppler de  troncos  supraaórticos (Cirugía  Vascular, 15.05.17):  estenosis severa  ACI  D  abordable quirúrgicamente. Estenosis moderada ACI I.
+
+EVOLUCIÓ CLÍNICA
+Paciente de 58 años de edad, que es derivada a Urgencias de nuestro centro por síndrome completo de ACM derecha (NIHSS 20) por lo que se realiza TC con angioTC perfusión que detecta una oclusión en tandem ICA-ACM derecha con minima afectación en TC simple (ASPECTS 9). Se administra rtpa EV (Porta-aguja: 19 min) y se activa guardia intervencionismo 00:30. Cumpliendo criterios y tras la obtención del consentimiento se inicia tratamiento endovascular. Se realizan numerosos intentos de punción arterial femoral derecha, izquierda. Se descarta la punción carotidea por cuello corto. Se consigue a las 2:20 por medio de la arteria radial derecha
+(Porta-punción: 109 min (punción femoral ineficaz; acesso radial). Se realiza sere a las 2:32 que detecta oclusión de ACI extracraneal. Se realiza serie postoclusión ACI derecha que detecta oclusión M1 derecha. Como incidencias, ha presentado en varias ocasiones hipotensión arterial (61/43 a las 2:47) por lo que ha requerdi tratamiento fenilefrina). Se intenta intercambio de catéter en varias ocasiones sin éxito. Se realiza un pase de Solitaire 4x20 con lo que se obtiene trombo aunque persiste oclusión distal de ACM derecha (TICI 2a). En ACI extracraneal persiste un estenosis severa que no se puede tratar por el diametro del cateter utilizado. A las 3:25 se finaliza procedimiento. En la exploración de control se detecta mejoría clínica con persistencia de disartria (1), somnolencia (1), hemihipoestesia (1), hemiparesia derecha F (2)-B (1+1): 7. Ingresa en Unidad de Ictus para control evolutivo.
+
+Desde el ingreso en la Unidad de Ictus, se mantiene estable hemodinámicamente estable, con mejoría clínica importante. Se realiza TC craneal de control que muestra ténue hipodensidad córtico-subcortical temporal posterior derecha en relación a infarto establecido del territorio de la ACM ipsilateral y eco doppler deTSA/TC donde se observa estenosis ambas ACIs >70% con ACM D permeable con compensación vía AComP D e hiperaflujo de ACA-1 I (no se visualiza correctamanente ACA-1 D). Dado la dificultad anatómica que condiciona la no accesibilidad por via femoral de stenting diferido, se interconsulta a Cirugía Vascular para valoración de la paciente, quienes realizan DTSA que muestra estenosis severa de ACI D abordable quirúrgicamente, pendiente de valoración de tratamiento revascularizador.
+
+Al ingreso en planta, paciente hemodinámicamente estable y afebril, NIHSS 0. Dado que se trata de una estenosis severa ACI D sintomática abordable desde el punto de vista quirurgico se decide traslado a planta de Cirugía vascular para tratamiento quirúrgico. En el momento del alta de Neurología NIHSS 0, mRS 3
+El día 19.05.2017 Se realiza, bajo anestesia general e IOT, endarterectomía cartídea derecha con cierre de parche de Dacron.
+Buen reflujo distal, buen pulso al finalizar de CID
+Despierta sin focalidades neurológicas añadidas a las preexistentes Va a REA
+Evoluciona favorablemente por lo que se decide dar alta hoy.
+
+DIAGNÒSTICS
+Infarto en territorio de ACM D, de probable etiología aterotrombótica (oclusión en tándem ACI-ACM D tratada mediante rtPA ev + TEV (angioplastia a nivel de ACI D con estenosis residual).
+
+Informe d'alta d'hospitalització
+
+
+
+PROCEDIMENTS
+TC multimodal urgente Tratamiento fibrinolítico con rtPA
+Tratamiento endovascular de rescate TC craneal control
+Doppler de carotidas, vertebrales y transcraneal
+
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+1.	Adiro 100mg vo c/día iNDEFINIDO
+2.	Atorvastatina 80mg vo c/día INDEFINIDO RESTO DE MEDICAMENTOS SIN CAMBIOS
+
+CONTROL
+Control de TA por CAP
+Control con Dra _NAME_ en 3 meses en CCEE de Cirugía vascular (será avisada para fecha y hora)
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+22.05.2017
+Pàgina 1 de 4

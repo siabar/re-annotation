@@ -1,0 +1,123 @@
+_LOCATION_) Telèfon _SS_  972 _CONTACT_
+Telèfon IDI (Ressonància i TAC) _CONTACT_
+Telèfon ICO _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 69 Anys
+NIF/DNI: _ID__NAME_; _NAME_
+Informe d'alta d'hospitalització
+CP	_LOCATION_
+ABS	_SS_
+Servei	NEUROLOGIA
+Data d'alta  23.05.2017	14:00:00
+_LOCATION_
+_CONTACT_; _CONTACT_
+AGUTS 21.05.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Código ictus
+
+ANTECEDENTS
+ANTECEDENTES PERSONALES:
+-	NAMC
+-	No hábitos tóxicos.
+-	IABVD. mRS: 0
+
+ANTECEDENTES PATOLÓGICOS:
+-	DL en tratamiento.
+-	HTA en tratamiento con regular control.
+-	Glaucoma
+-	Cx. safenectomía izquierda por varices.
+
+
+MEDICACIÓ HABITUAL
+Simvastatina 20mg cada 24h, enalapril 20mg cada 24h, xalatan colirio
+
+PROCÉS ACTUAL
+Paciente de 69 años que presenta cuadro de inicio brusco el 21/05/2017 sobre las 18:00 hs de parestesias y debilidad en hemicuerpo izquierdo. Acude a la clínica Salus de _LOCATION_, desde donde contactan con nuestro centro a las 19:00 hs para activación de código ictus.
+La paciente llega a las 19:20hs y es atendida en el momento por Neurología. Destaca TA de 187/90 mmHg, precisando administración de labetalol iv, con mejoría de cifras hasta 168/80 mmHg. A la exploración presenta hemiparesia leve, con NIHSS de 4. Se realiza TC cerebral basal y doppler de troncos supra aórticos y transcraneal que no muestra alteraciones. Dada la clínica presentada, y en ausencia  de contraindicaciones, se decide tratamiento con rtPA para un peso de 54 kg (Dosis total 49mg). Hora Bolus : 21:43
+El  tratamiento  cursa  sin  incidencias,  y  una  vez  finalizado  la  paciente presenta  mejoría clínica  significativa, manteniendo NIHSS de 1.
+Se decide ingreso en la unidad de Ictus para vigilancia neurológica y monitorización.
+
+EXPLORACIÓ FÍSICA
+
+TA: 187/90
+AC: Rítmico sin soplos.
+AP: MVC sin ruidos sobreañadidos.
+NRL: Vigil, orientada, atenta, no déficit del lenguaje, no deficit campimétrico, MOEs adecuados, no deficit de PPCC, leve paresia en ESI y EII, hemidismetría en extremidades izquierdas. Sensibilidad sin alteraciones.
+NIHSS :00000/01010/20000: 4
+
+Informe d'alta d'hospitalització
+
+
+
+
+
+EXPLORACIÓ COMPLEMENTÀRIA
+-	ECG: Ritmo sinusal.
+-	Monitorización en la unidad de ictus (48 horas): Ritmo sinusal durante todo el registro.
+
+-	Rx de torax: Senos costofrénicos  libres.  No imágenes  de infiltrados.  aumento de trama vascular en base derecha.
+-	Analítica de urgencias:
+Eritròcits 4.94 M/mcL, Hemoglobina 13.6 g/dL, Hematòcrit 42 %, Plaquetes 197 K/mcL, Leucòcits 5.54 K/mcL.
+Glucosa 106 mg/dL, Urea 29 mg/dL, Creatinina 0.56 mg/dL
+Colesterol * 309 mg/dL, Colesterol HDL 65 mg/dL, Colesterol LDL (calcul) * 210 mg/dL, Triglicèrid 171 mg/dL Ió sodi 143 mEqu/L, Ió potasi 4 mEqu/L.
+
+-TC cerebral  21/05/2017: Estudi TC cranial sense evidència de lesions isquèmiques ni hemorràgiques agudes. Estudi de perfusió i angioTC sense troballes rellevants.
+-TC cerebral control 22/05/2017: Infarto lacunar en cápsula interna izquierda, no visualizado en TC previo. No signos de transformación hemorrágica.
+
+-	Estudio Neurosonológico Urgencias:
+Estudio Doppler: DTSA y DTC sin anormalidades relevantes.
+-	Estudio Neurosonológico del ingreso:
+DUPLEX TSA: Ateromatosis carotídea importante con aumento del GIM y placas de ateroma de predominio fibroso en todos los territorios explorados, especialmente ambos bulbos cartídeos, auqnue sin estenosis hemodinámicamente relevantes. AVs normales (hipoplásica derecha)
+DÚPLEX TRANSCRANEAL: Estudio normal, tanto territorio anterior como vertebrobasilar. Ambas V4 permeables. Basilar normal.
+
+-	ECO-C: Estudio sin fuentes embolígenas mayores, con FE conservada, sin hipertrofia, acinesias ni valvulopatías.
+
+
+EVOLUCIÓ CLÍNICA
+Durante el ingreso en la unidad de ictus la paciente permanece en ritmo sinusal. Presenta tendencia a hipertensión, por lo que se inicia tratamiento antihipertensivo habitual con buena respuesta.
+
+Se realiza TC cerebral 24 horas post tratamiento que muestra infarto lacunar en cápsula interna izquierda, no visualizado en TC previo, sin signos de transformación hemorrágica. Se inicia tratamiento antiagregante con adiro como prevención secundaria de ictus.
+
+Clínicamente presenta mejoria progresiva, manteniendo al alta sensación de parestesias en mano derecha, no objetivables en la exploración.
+Dada la estabilidad clínica y hemodinámica se decide alta a domicilio.
+
+Escalas al alta:
+-	NIHSS: 0
+-	
+Informe d'alta d'hospitalització
+
+
+
+
+. mRS: 1
+-	Barthel: 100
+
+
+DIAGNÒSTICS
+436/5 Ictus lacunar sensitivo motor derecho.
+401.9 Hipertensió essencial inespecificada 272.4/1 Dislipemia
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+-	Adiro 100 mg cada 24 horas.
+-	Atorvastatina 40 mg cada 24 horas.
+-	Suspender simvastatina.
+-	Resto sin cambios.
+
+CONTROL
+-	Control de factores de riesgo vascular por su médico de atención primaria.
+-	Revisión en consulta de Neurología en tres meses. Recibirá cita.
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+Validat per: _NAME_	Col·legiat: _ID_
+
+23.05.2017
+Pàgina 1 de 3

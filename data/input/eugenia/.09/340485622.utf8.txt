@@ -1,0 +1,117 @@
+
+
+
+
+
+
+
+Informe d'Alta Hospitalària	Cognoms i nom:
+_NAME_	NHC:
+_ID_
+	ABS:
+_SS_	CIP:
+_ID_	DNI:
+_ID_
+	Data de naixement:
+_DATE_	Sexe:
+Dona	Edat:
+74a	Telèfon:
+_CONTACT_
+	Finançament:
+CatSalut - _LOCATION_	Procedència:
+URGÈNCIES
+	Admissió:
+22.02.2017 - 16:20		Data entrada urg.:
+22.02.2017 - 12:38
+	Ingrès UCI:
+22.02.2017 - 16:20:23	Servei UCI:
+MEDICINA INTENSIVA HOSP
+Adreça:
+_LOCATION_	Població:
+_LOCATION_	Codi Postal:
+_CONTACT_
+
+SAPS II: 000	APACHE II: 000
+
+
+
+Motivo de ingreso en UCI:
+Disminución del nivel de consciencia
+
+
+ANTECEDENTES
+Antecedentes patológicos Alergias: desconocidas Hábitos tóxicos: desconocidos
+Factores de riesgo cardiovascular:
+Dislipemia. No hipertensión arterial ni diabetes mellitus. Hipotiroidismo subclínico en tratamiento sustitutivo.
+Osteoporosis
+Situación sociofuncional: mRS 0. Autónoma, FFSS conservadas.
+
+Tratamiento habitual: DISNAL 60 2 x 24 h, EUTIROX 50MCG 5 x 1 s, EUTIROX 25MCG 2 x 1 s, SIMVASTATINA A 40MG 1 x 24 h.
+
+ENFERMEDAD ACTUAL
+Mujer de 74 años que acude el 22/2/17 como codigo ictus extrahospitalario por haber sido encontrada a las 12:15h tirada en el portal de su casa. Última vez vista por su marido a las 8:30h pero refiere que posteriormente ha salido a pasear y había vuelto a casa a las 11:30h por lo que la cronología es incierta pero
+<1h y 30 min. Ha presentado vómito en la ambulancia.
+A su llegada TA 119/88, FC 60, Sat97%, FR 18. Telemetría en RS.
+A la exploración vigil, mutista, no obedece ordenes, HHD, desviación oculocefálica a la izquierda forzada, paresia facial central derecha, hemiplejia derecha, hemianestesia derecha. GCS 10 (apertura ocular espontánea, localiza el estímulo doloroso, afásica). NIHSS= 0.2.2.2.2/2.0.4.0.4/0.2.3.0.0=23
+
+Se realiza TC cerebral que muestra gran hematoma hemisférico izquierdo. Valoración por Neurocirugía GCS 10A (M5,V1A,O4), movilización espontánea del hemicuerpo izquierdo con movimientos reiterativos cordinados anómalos. Desviación de la mirada a la izquierda. No moviliza  hemicuerpo derecho. Pupilas isocóricas medias poco reactivas a la luz.. Se desestima tratamiento quirúrgico dado el mal pronóstico neurológico de la paciente y la baja evidencia de dicha medida en cuanto a la recuperación de los déficits establecidos.
+
+Dado el bajo nivel de consciencia se decide IOT para protección de vía aérea, previa sedación con Midazolam y relajación. Se inserta cánula arterial radial derecha. Se comenta con UCI para  traslado  y valoración del paciente crítico.
+
+
+
+EXPLORACIONES COMPLEMENTARIAS
+TAC CRANEAL: Hemorragia SI Localizacion de la hemorragia: Parenquimatosa lobar frontal izquierda.
+Otras lesiones: NO.Isquemia Aguda Visible NO Efecto de masa sobre el sistema ventricular: SI. Desviacion de la linea media supratentorial SI.Desviacion de la linea media infratentorial NO.
+
+ANGIO-TC ( INTRACRANEAL):
+Trombosis/Oclusion arterial de M1: NO. Trombosis/Oclusion arterial de otras arterias de mediano calibre (ACA, ACPs) NO Trombosis/oclusionde ramas de la ACM distales al segmento M1 NO
+
+Impresión diagnóstica global:
+Hematoma lobar frontal izquierdo, con efecto de masa que ocasiona desviación de la línea media hacia la derecha 11 mm, así como herniación subfalcial y uncal izquierdas. No se observan alteraciones significativas en el angio-TC intracraneal. Volumen aproximado del hematoma 57cc.
+
+Analítica sanguinea: Sodi 135 mmol/L; Potassi 3,16 mmol/L; Calci 2,06 mmol/L; Glucosa 6,9 mmol/L; Urea 7,1 mmol/L; Creatinina 59 µmol/L; AST (GOT) 18 U/L; ALT (GPT) 14 U/L; Fosfatasa alcalina 58 U/L; Hemoglobina 111 g/L; Hematòcrit 0,34 L/L; Hematies 3,57 x10E12/L; VCM 95,5  fL; CCMH 326  g/L Plaquetas
+227  x10E9/L; Leucòcits 5,35  x10E9/L; Fórmula leucocitària normal.  Temps de tromboplastina 0,68 RATIO; INR 1,23; Temps de trombina 24,80 s
+
+Rx de tórax: se observa intubación selectiva a la derecha. No clara condensación ni pinzamiento de los senos costofrénicos.
+
+GSA de ingreso en UCI (FiO2 0,7): pH 7,20 pCO2 54 pO2 243 HCO2 19 EB -6,4 Lact 0,6.
+
+
+EXPLORACIÓN FÍSICA EN UCI
+GCS 3T, pupilas midriáticas arreactivas. No presenta reflejos de tronco. AC: tonos cardíacos rítmicos, sin soplos
+AR: MVC bilateral sin ruidos sobreañadidos
+Abdomen blando y depresible, no palpo masas. No signos de irritación peritoneal. No signos de TVP.
+Hipotérmica.
+
+
+
+EVOLUCIÓN
+La paciente ingresa en UCI intubada y conectada a ventilación mecánica con FIO2 y PEEP bajas con control gasométrico correcto. Sin sedoanalgesia con Glasgow de 3T, pupilas midriáticas arreactivas. Hipotermia inicial de 33,5ºC corrige con manta térmica. Hemodinámicamente con tendencia a hipotensión que requiere de noradrenalina a dosis mínimas, controles de Hb correctos en ritmo sinusal a 80 x'. Diuresis iniciales abundantes (>200ml/h), que se ajustan posteriormente con función renal normal. Se recoge un hemocultivo en frío y deja sin cobertura antibiótica.
+En las siguientes horas la paciente permanece normotérmica, estable hemodinámicamente, con diuresis correctas y afebril sin embargo presenta mala evolución neurológica, con ausencia de reflejos de tronco. En este contexto se realiza el test de muerte encefálica con el cual se diagnostica la muerte encefalica el día 23/02/2017 a las 9:30.
+La familia concede donación de organos.
+
+
+PROCEDIMIENTOS
+-	Intubación orotraqueal
+-	Ventilación mecánica invasiva
+-	Canulación vía arterial radial derecha
+-	Canulación vía central femoral derecha
+
+
+ORIENTACIÓN DIAGNÓSTICA
+Hematoma parenquimatoso lobar frontal izquierdo Dislipemia
+Hipotiroidismo subclínico en tratamiento sustitutivo. Osteoporosis
+Muerte encefálica. Donación de organos
+
+
+Responsable clínic: Dr. _NAME_ (NºCol. _ID_)
+
+Servei que ha donat d'alta:
+MEDICINA INTENSIVA HOSP	Data d'alta:
+23.02.2017 - 14:08	Nom del metge que informa de l'alta:
+Dr. _NAME_ (NºCol. _ID_)
+
+
+_LOCATION_, 23.02.2017
+Pàg. 1 de   3

@@ -1,0 +1,122 @@
+_SS_
+_LOCATION_)
+Tlf. _CONTACT_
+INFORME ALTA _SS_	Data Naix.   _DATE_	Edat 77	Sexe Home   NASS	_ID_
+Adreça   _LOCATION_	CP	_LOCATION_
+Població_LOCATION_	Tel.	_CONTACT_
+Episodi  _ID_	Admissió	24.03.2017 19:29	Alta	30.03.2017 15:21
+Servei	NEUUOHMB Neurologia	Unitat	U04UHHBL
+
+
+
+DIAGNÒSTIC ALTA
+
+Codi ICD-9	Descripció Diagnòstic
+434.91/5	AVC ISQUEMIC
+
+DADES INFORME
+
+Paciente de 77 años que consulta por síndrome sensitivo motor izquierdo.
+
+ANTECEDENTES PATOLÓGICOS
+-Dudosa alergia a la penicilina. Refiere erupción cutanea  hace > 30 años.
+-No hábitos tóxicos.
+-Dislipemia en tratamiento con simvastatina.
+-No refiere HTA, ni DM. NO cardiopatía conocida.
+-Ictus en 1995 (55 años) que requirió ingreso en _SS_.Presenta como secuela muy leve paresia braquio-crural izquierda no discapacitante que le permite deambulación autónoma.
+-IQ de Fx EID ( secundaria a accidente-moto)
+
+-Tratamiento habitual: Tiklid 250; tebetane; Simvastatina 20
+
+-Situación sociofuncional: vive con esposa. Autonomo para todas las actividades. No refiere deterioro cognitivo. mRS 1.
+
+ENFERMEDAD ACTUAL
+El 23/3/17 hacía las 19:00h inicia parestesias e hipoestesia a nivel FBC izquierdo, acompañado de aumento de la debilidad en extremidades izquierdas con dificultad para deambular.
+
+Refiere desde 3 semanas previas a consultar aumento de la paresia en EIIzquierda (aunque no había consultado porque no era un cambio muy significativo respecto a su focalidad basal) y desde 2 días previo presenta mareo no rotatorio.
+
+EXPLORACIÓN FÍSICA
+A su valoración por equipo de UCI HMBroggi, 24/3/17, 0:50h: TA 184/95mmHg FC 68x' SpO2 98%
+NRL. hemiparesia izquierda y disartria. NIHSS 7 (0-1-0-0-0-0-2-0-2-0-0-1-0-1-0)
+
+A su valoración por neurología HUBellvitge 24/3/17:
+Neurológica: vigil, mirada centrada, moes normales, pupilas normales, no pares bajos, no claudicación de extremidades en barre, leve claudicación en mingazziini de EII (1), alteración de la sensibilidad superficial de predominio distal en EII (1) 4+/5 , no dismetrías. RCP flexor bilateral. No extinción visual ni sensitiva. No hemianopsia. No disartria ni disfasia. NIHSS 2.
+ACP: rítmico sin tonos, no ruídos patológicos. Hiperventilación. Nerviosismo psicomotriz.
+
+A su valoración por neurología HMBroggi 24/3/17, 12:00h:
+NHC	_ID_	Pacient	_NAME_
+
+TA 133/58. FC 66. Afebril.
+NRL: conciente y orientado. No alteraciones del lenguaje. Disartria leve (1). No alteraciones campimétricas. PPCC normales. Paresia ESI 4+ (1), EII 4 (1). HIpoestesia FBC izquierda (1). RMTs 2/4. RCP flexores. Marcha hemiparética,
+posible con supervisión. NIHSS 4.
+
+EXPLORACIONES COMPLEMENTARIAS
+En urgencias en _SS_:
+-Analítica 24/3/17: sin alteraciones.
+-TC craneal 24/3/17:
+Canvis involutiusdel parènquima encefàlic..
+Signes d'hipoperfussió crònica microvascular en grau discret. Calcificacions ateromatoses carotidees i vertebro-basilars
+
+En urgencias _SS_.
+-ECO doppler TSA: permeable placas de ateroma hiperecoicas en bifuracion izquierda que no condicionan repercusion hemodinamica. AVs ortodrómicas
+-Eco doppler TC: ACMS simétrica . Mala ventana acústica izquierda. ACP simétricas no conseguimos visualizar ACA, Ventana subocipital no valorable.
+
+En _SS_:
+-Analítica 27/3/17: destaca VSG 56 y PCR 32.
+Hemograma, coagulación, perfil renal, perfil hepático, perfil lipídico, cobalaminas y folatos normal.
+
+-RM craneal 28/3/17:
+RM CRANEAL. Tomografías en los tres planos del espacio y secuencias T1, T2, GE T2, DIFUSIÓN y FLAIR. HALLAZGOS:
+Moderado aumento del tamaño de surcos cerebrales. Tamaño ventricular dentro de límites normales.
+Foco de leve hiperseñal T2 y FLAIR bulbar posterior deercho, de unos 2.7 mm de diámetro y que se extiende unos
+4.3 mm cráneo-caudal, sin restricciones a la difusión como foco de isquemia crónica.
+También aparece algun pequeño y muy aislado foco de lat señal FLAIR en sustancia blanca supratentorial. No hay lesiones agudas.
+No hay sangrado ni patología neoformativa intracraneal. Unión cráneo-cervical sin anomalías.
+ANGIO-RM CRANEAL:
+Adquisición TOF 3D axial y reconstrucciones MIP. HALLAZGOS:
+Segmentos cervical alto de arterias carótidas internas con calibre normal.
+Elongación itracraneal de arterias carótidas internas con una reducción leve moderada de calibre,comparativamente algo mayor de la izquierda.
+Arterias cerebrales medias, anteriores y posteriores normales, sin estenosis focales ni imagen de aneurisma. Hipoplasia de AV derecha.
+Segmento V4 de arteria vertebral izqueirda y tronco basilar normales.
+
+Se identifica con normalidad arterias cerebelosas superiores. CONCLUSIÓN:
+Pequeño foco de isquemia crónica bulbar posterior derecha.
+Angio-RM craneal sin alteraciones hemodinámicamente significativas.
+
+-Holter 28/3/17:
+RITME SINUSAL AMB FC MITJANA DE 60bpm
+EXTRASISTOLIA SUPRAVENTRICULAR AILLADA AMB 6 PARELLES EXTRASISTOLIA VENTRICULAR AILLADA
+ABSENCIA DE BAV I PAUSES > 3"
+
+EVOLUCIÓN Y COMENTARIOS
+Paciente hombre de 77 años con antecedentes de dislipemia e ictus previo en el '95 como secuelas leve hemiparesia izquierda que no le condiciona para mantener vida independiente, Rankin 1. El 23/3/17 hacía las 19:00h inicia parestesias e hipoestesia a nivel FBC izquierdo, acompañado de aumento de la debilidad en extremidades izquierdas con dificultad para deambular, por lo que consulta de urgencias a nuestro centro el 23/3/17.
+
+A su llegada a urgencias 23:56h, TA 184/95mmHg FC 68x' SpO2 98% eupneico, se detecta hemiparesia izquierda y disartra (NIHSS 7) por lo que se activa código ictus 00:50h, se realiza TC craneal 00:52h que no muestra alteraciones isquémicas ni hemorrágicas agudas. A la valoración por UCI NIHSS 7 (0-1-0-0-0-0-2-0-2-0-0-1-0-1-0). Dado que estamos fuera de tiempo para realizar fibrinolisis contactamos con Neurología de _SS_ para valorar trombectomia de rescate aceptándose el traslado.
+
+A su valoración por neurología el _SS_ se objetiva un NIHSS 2. Se completa estudio vascular con Eco doppler de troncos supraorticos y transcraneal que no muestra alteraciones significativas. Con los resultado de las pruebas complementarias se decide observación del paciente durante la noche y dado estabilidad clínica y neurológica se decide derivar a centro de referencia el 24/3/17.
+
+Durante el ingreso en nuestro centro, se solicita estudio de RM craneal que muestra un pequeño foco de isquemia crónica bulbar posterior derecha, sin objetivar lesiones agudas. Se completa estudio con Angio-RM craneal que no muestra alteraciones hemodinámicamente significativas y estudi cardiológico  que no objetiva cardiopatía embolígena. En el estudio analítico destaca elevación de VSG, sin otras alterciones. De acuerdo con el paciente, se decide mantener mismo tratamiento antiagregante.
+Se inicia rehabilitación precoz,  con mejoría progresiva de la clínica, persistiendo al alta hipoestesia FBC izquierda (1) y leve paresia en EIIzquierda (1)  que le permite deambulación libre sin discapacidad. NIHSS 2. mRS 1.
+
+ORIENTACIÓN DIAGNÓSTICA
+-Ictus isquémico crónico bulbar posterior derecha.
+-DLP
+
+PLAN:
+-Seguir con la misma medicación sin cambios.
+-Control por atención primaria para seguimiento de factores de riesgo  vasculares y control analítico de VSG. .
+
+
+Tipus d'ingrés: Motiu d'alta:	Urgent Alt.Mèd.Cont.AP	
+Metge Adjunt:
+_ID_
+Servei:	_NAME_
+
+NEUUOHMB Neurologia	Nº Col·legiat Adjunt:
+
+Data informe:  30.03.2017
+
+
+Pàgina 1 de	4
+Data i hora d'impressió:
+30.03.2017 15:49:00

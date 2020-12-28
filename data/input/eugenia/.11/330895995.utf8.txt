@@ -1,0 +1,93 @@
+I.CLINIC DE NEUROCIÈNCIES I064 SALA G DE NEUROL. INTERM.
+_NAME_	NHC: _ID_
+
+
+Sexo/Sexe: Fem.	Fecha nac./Data naix.: _DATE_	Edad/Edat: 83 años Dirección/Adreça: _LOCATION_	CP: _LOCATION_
+Municip. (Prov.): _LOCATION_  ABS:_SS_	Tel.:_CONTACT_
+As.: _NAME_	CIP: _ID_	NASS: _ID_
+Nº epis.: _ID_	Tipo/Tipus: HOSPIT.	Ingres.: 27.01.2017 Serv: NEUROLOGIA	UO Enf.: G6B4 SALA G NEUROL. CURT. E Hora: 08:50:43
+Facult. de ref.: _NAME_
+
+
+
+
+Tipo ingreso/Tipus ingrés: Urgent	Motivo/Motiu alta: CSS Conval.
+Diag.:
+HEMATOMA CAPSULOTALÁMICO IZQUIERDO () TCE LEVE ()
+HEMORRAGIA INTRACEREBRAL (431)
+Proc.:
+TC CRANEAL () RMN CEREBRAL ()
+
+
+
+
+INFORME CLÍNICO ALTA / INFORME CLÍNIC ALTA
+
+Motivo de consulta / Motiu de consulta
+caida y debilidad de extremidades derechas
+
+Antecedentes e historia previa / Antecedents i història prèvia
+Mujer de 83 años, sin alergias medicamentosas conocidas. Independente para las actividades básicas de la vida diraia, vive sola en domicilio. No hábitos tóxicos. Periodista de profesión, continua activa.
+**ANTECEDENTES PATOLÓGICOS:
+1.- HIPERTENSION ARTERIAL en tratamiento farmacológico. 2.- DISLIPIDEMIA en tratamiento farmacológico.
+3.- ESPONDILOCISTIS L5-S1 sin aislamientos microbiológicos por lo que estuvo en tratamiento antibiotico y en seguimeinto por Servicio de Enfermedades infecciosas.
+
+**MEDICACIÓN HABITUAL: - Enalapril 20mg/24h - Sinvastatina 20mg/24h - Paracetamol 1gr/24h - Condrosan 400mg/24h
+
+Proceso actual / Procés actual
+La paciente refiere haberse levantado a  las  2:30 de  la  madrugada y haberse caído por debilidad de extremidades derechas, presenta TCE frontal derecho y relajación de esfinteres. Consigue alertar SEM a las 7:30. Se aciva codigo ictus extramuro a las 8:00h
+
+Exploración física / Exploració física
+Frecuencia respiratoria (rpm)  16, Glicemia  capilar (mg/dl)  114, PAS  (mm  Hg) 138, PAD  (mm  Hg) 81, Pulsioximetría (%) 97, Tª axilar (ºC) 35.
+AC:tonos rítmico sin soplos. AR: MVC sin sonidos sobreañadidos.
+NRL: Consciente, orientada. Lenguaje hipofluente. Mirada centrada sin limitaciones en el plano horizontal. No  déficit  campimetrico  por  confrontación.  Paresia  facio  (mod)  braquio  (0/5)  crural  (0/5).  Disarteria
+moderada. Dismetrias no valorables. NIHSS 13
+Presenta equimosis abundande sopraciliar derecho sin soluciones de continuidad de la piel.
+
+Laboratorio / Laboratori
+*ANALITICA SANGUINEA DE URGENCIAS: Leucocitosis y neutrofilia sin otras alteraciones relevantes.
+*ANALITICA SANGUINEA DE INGRESO: PCR 5.95 mg/dL. Colesterol total 193 mg/dL (LDL 108, HDL 58). VGS
+114 mm/h.
+
+Radiología / Radiologia
+*RADIOGRAFÍA DE TÓRAX: Placa correctamente inspirada, no rotada. Sin evidencia de condensaciones ni infiltrados en campos pulmonares. No pinzamiento de los senos costofrénicos. Marco óseo y partes blandas sin lesiones agudas.
+
+*TC CRANEAL (27/01): Hematoma agudo capsulo-talámico izdo de 16 mm, con mínimo edema perilesional. Contaminación hemorrágica aguda de un surco de la convexidad parietal izda. Voluminoso hematoma de partes blandas frontal derecho. Imágenes lacunares inespecíficas en los ganglios basales. Estructuras de la línea media centradas. Sistema ventricular de tamaño, morfología y localización conservada.
+
+*TC CRANEAL DE CONTROL: Hematoma capsulo-talámico izquierdo de 15 x 15 x 33 mm, con mínimo edema perilesional, sin cambios significativos respecto al TC previo. Persiste sin cambios el pequeño foco de HSA de 9 mm en surco parietal izquierdo. También se observa otro pequeño foco hemorrágico occipital izquierdo que no era claramente visualizable en el estudio previo. Hipodensidad de la sustancia blanca periventricular y subcortical asociado a alguna pequeña imagen lacunar inespecífica en ganglios basales, todo ello en probable relación a microangiopatía crónica. No se observa desplazamiento significativo de la línea media.
+
+Evolución / Evolució
+1.	HEMATOMA CAPSULO-LENTICULAR IZQUIERDO (3,5cc).
+2.	TRAUMATISMO CRANEOENCEFÁLICO CON EQUIMOSIS PERIOCULAR DERECHA.
+Consulta a ugencias por caída con plejia de extremidades derecha de 6 horas de evolución. En la exploración neurológica destaca plejia de extremidades derechas, hipoestesia y disartria (NIHSS 14); además presenta un hematoma subcutaneo a nivel frontal izquierdo y abundante equimosis supraciliar. Analítica sanguinea con leucocitosis, VSG de 130 mm/seg por lo que se realiza proteinograma que no muestra alteraciones, coleterol total de 193 mg/dl (LDL 108 mg/dl). La neuroimagen (TC craneal y RMN) muestra hematoma profundo capsulolenticular izquierdo de 3.5cc sin alteraciones vasculares en el angioTC. No se aprecian microbleeds. Lesión vascular cortical parietal izquierda inespecífica a valorar seguimiento.
+Se trata de un hematoma de ganglios basales izquierdos de posible etiología hipertensiva por localización aunque la paciente se ha mantenido bien controlada.
+Durante su estancia en neurología permanece normotensa en todo momento. Presenta mejoría clinica persistiendo paresia 3/5 de extremidades derechas y paresia facial por lo que se considera tributaria de continuar rehabilitación en _SS_.
+Al alta:
+NIHSS: 6. mRs: 4.
+
+Plan terapéutico / Pla terapèutic
+-	Omeprazol 20mg cada 24h - Enoxaparina 40mg cada 24 - Enalaprilo 10mg cada 12h y rescates si precisa. - Paracetamol si dolor.
+
+Otras recomendaciones / Altres recomanacions
+-	Se recomienda control estricto de los factores de riesgo cardiovascular.  - Control por su médico de cabecera. - Acudirá a CCEE de Neurología (Dra. _NAME_) según cita adjunta.
+-	
+
+
+
+
+Firma/Signatura1: _NAME_		Firma/Signatura2: _NAME_ Categoría: Resident 2	Categoría: Consultor/a 1
+Nº Matrícula _SS_: _ID_	Nº Matrícula _SS_: _ID_ Fecha/Data: 01.02.2017
+Hora: 14:42:31
+
+Docum.: _ID_
+Hist. Clínica: _ID_
+El _SS_ ha incorporado sus datos al Fichero de Pacientes, para tratarlos con fines sanitarios.
+Puede ejercer sus derechos de acceso, rectificación, cancelación y oposición, así como obtener mas información en la Unidad de Atención al Cliente.
+Vers. 00
+Pag. 2 de
+3
+Episod.: _ID_
+_SS_ ha incorporat les seves dades al Fitxer de Pacients, per a tractar-los amb finalitats sanitàries. Pot exercir els seus drets d'accés, rectificació, cancel·lació i oposició, i obtenir més informació a la Unitat d'Atenció al Client.
+_SS_
+_LOCATION_) _LOCATION_) Tel. _CONTACT_ Fax _CONTACT_
+http://_CONTACT_/

@@ -1,0 +1,76 @@
+_SS_
+Núm. HC: _ID_
+Edat: 71
+Núm. Episodi: _ID_
+Núm. Assistència: _ID_
+Nom i Cognoms: _NAME_
+Adreça: _LOCATION_
+Població: _LOCATION_
+Afiliació: _ID_	Tel: _CONTACT_
+Data Ingrés:23.12.2017 Data Alta: 23.12.2017
+Sexe: H
+_LOCATION_ _CONTACT_ / _CONTACT_
+_CONTACT_Informe d'assistència
+SERVEI DE MEDICINA INTERNA
+Pacient de 71 anys que acudeix per focalitat neurològica.
+
+ANTECEDENTS PERSONALS:
+-	Al.lèrgies: penicil.lina
+-	Medicació actual: AAS 100 mg/24 h, Omeprazol 20 mg/24 h, Losartan 100 mg724 h, HCTZ 50 mg/24 h, Atorvastatina 40 mg/24 h, Fluconazol 150 mg/setmana, Insulatard 56 UI
+-	Estat basal: fins fa 3 setmanes independent per les ABVD (IB 100/100). Des de fa 3 setmanes: dependent per la duxta i vestir-se, deambula < 50m (IB 65/100).
+
+ANTECEDENTS PATOLÒGICS:
+-	Diabetis mellitus tipus 2 des de 2007 en tractament amb insulina i Metformina.
+-	HTA en tractament
+-	Dislipèmia en tractament
+-	AVC lacunar capsulotalàmic dret (06/2005): amb clínica de hemiparèsia i hemihipoestèsia esquerra.
+-	Maig 2002: AVC isquèmic amb hemiparèsia braquiocrural dreta i disàrtria
+*	TAC Cranial 01/2006: imatge hipodensa d'aspecte puntiforme localitzada a regir els capsulotalàmica de l'hemisferi cerebral Dret compatible amb infart lacunar. La resta de parènquima normal. Incipients signes de perdua de volum de predomini cortical
+*	Eco TSA sense troballes
+-	Tremolor intencional.
+-	SAHOS greu en tractament amb CPAP nocturna des de gener de 2010
+-	Pneumopatia restrictiva moderada en seguiment a CE-Pneumoliga.
+*	Últim ingrés (11/23/2012) per dispnea que s'orienta com sobreinfecció respiratòria
+*	Espirometria 03/2014: alteració ventilatòria no obstructiva / restrictiva de mitjana intensitat, PBD no significativa (FVC 53%, FEV 63%, FEV1 / FVC: 85%)
+-	Espondilosi  L5  -  S1  amb  imatge  de  protrusió  focal  posterocentral  d'aquest  disc, sense criteris d'afectació radicular
+-	Ingrés 2013.11.22 a planta de Medicina Interna amb dx de PAC dreta greu (Fine III -IV)
+.26-11-2013 Angio -TAC toràcic per descartar TEP, objectivant atelèctasi parcial de LID i completa de LIE, traslladant-se a UCI per monitorització i VNI
+-	Dolor abdominal vist per CCEE Digestiu 05/2014, Dr. _NAME_: Pacient que des de fa un mes presenta Augment de constipació i dolor a FIE. No és modifica amb la ingesta i és constant. No explica Rectorràgia Però si que en va Fer fa 4 anys. La exploració física és normal. colonsocòpia
+*	Colonoscòpia: S'explora Fins: Cec. Estat de Neteja: Regular. No és detecta cap lesions en tot el còlon. Hemorroides al canal anal Molt discretes
+
+MALALTIA ACTUAL: La seva dona explica quadre de 3 setmanes d'evolució de davallada funcional amb lateralització de la marxa cap a l'esquerra. Avui, desprès de la migdiada, sobre les 5 de la tarda s'ha aixecat i no ha pogut arribar al WC, orinant-se a sobre i començant amb quadre de desconexió del medi amb parla incomprensible i debilitat d'hemicós dret amb desviació de la comisura bucal. Nega febre, cefalea i altres símtomes.
+
+EXPLORACIÓ FÍSICA:
+- Constants: TA: 182/98 mmHg   Tª: 102x'    FC: 36.5ºC    SatO2(b): 96%
+-	General: regular estat general, somnolent. NC i NH. Eupneic. Tancament de l'ull dret.
+-	NRL: conscient però amb GCS fluctuant (12-14/15). Desviació de comisura bucal esquerra. No afectació campimètrica ni hemianòpsia. No dèficits sensitius. Claudicació d'extremitats  esquerres. Pupil.la reactiva (l'altre no valorable). ROTs presents. Babinski flexor. No dismetries.
+-	
+
+-	AR: MVC sense sorolls patològics sobreafegits.
+-	ACV: TCR sense bufs ni frecs. No signes d'IC ni TVP.
+-	Abdomen: tou i depressible, no dolorós a la palpació. No es palpen masses ni megàlies.
+
+EXPLORACIONS   COMPLEMENTÀRIES:
+-	Analítica: Hb 14.1, Hto 41.3%, VCM 101.4, HCM 34.6, 186000 plaquetes, 9700 leucòcits amb FN, Quick
+86%, INR 1.09, TTPA 25 seg, Glucosa 147, Urea 45, Creaitnina 1.15 FG 64, Lactat 5.1, Na+ 139, K+3.8.
+Albúmina 4.1, PCR 4.1
+-	Rx tòrax: marc ossi conservat, ICT < 0.5, sins costodiafragmàtics lliures. No imatges de masses i/o condensacions. Hili dret reforçat.
+-	ECG:  Ritme  sinusal  a  105x',  eix  QRS  0º,  PR  <  0.2 seg, QRS estret sense alteracions  de la repolaritazció.
+-	Sediment d'orina: 1-4 eritròcits, 1-4 leucòcits, flora mixta escassa
+-	TC cranial: Absència de desplaçaments d'estructures de línia mitjana supra i infratentoriales. No hi ha lesions hemorràgiques intra i/o extraparenquimatosas. Dilatació global i simètrica del sistema ventricular, valls silvianos i solcs corticals de la convexitat. Cisternes basals i peritronculares lliures. Hipodensidad hemiprotuberancial esquerra i putaminal posterior esquerra en relació a dilatació dels espais Vasculars de Virchow Robin, que ja es visualitzaven en la RM prèvia. Parènquima cerebral, cerebel i tronc-encefàlic sense alteracions morfològiques ni densitomètriques valorables. Ptisis bulbi de l'òrbita dreta. Sinusopatia maxil·lar i etmoïdal esquerra. CONCLUSIONS: No hi ha lesions agudes intracranials. Signes d'atròfia cerebral difusa.
+
+ORIENTACIÓ DIAGNÒSTICA: POSSIBLE AVC ISQUÈMIC NIVELL DE CONSCIÈNCIA FLUCTUANT
+
+EVOLUCIÓ I COMENTARIS: Pacient de 71 anys amb els AP esmentats abans que acudeix per focalitat neurològica. A l'arribada a Urgències està hemodinàmicament estable i abferil amb tendència a la HTA. A l'exploració física s'objectiven els signes destacats abans pel que s'orienta com a probable ictus (tot i haver passat > 6h) i es sol.licita TC cranial i es contacta amb teleictus (Dra. _NAME_) realitzant-se nova exploració neurològica. Donat que no es pot descartar totalment que el pacient no pateixi events isquèmics i que també s'han de tenir en compte altres possible diagnòstics, es decideix canviar d'antiagregació (a la espera de resultat diefinitiu de la resta d'estudis) per Clopidogrel. Es va administrar
+0.5 mg de flumazenilo sense resposta. Es decideix ingrés a MI per estudi i evolució.
+
+---valoració Medicina Interna Dr. _NAME_ -
+Valoro pacient de 71 anys amb els antecedents anteriors, que resta ingressat amb la orientació diagòstica d'AVC amb sospita de FP. El pacient presenta empitjorament en forma de disminució del nivell de conscinència; desviació de la mirada conjugada a la dreta. S'ha fet assaig amb flumazenil sense resposta. Està estable hmd amb tendència a la hipertensió arterial.
+Es realitza novament TAC craneal que no observa canvis respecte el de fa unes hores. Es recomenta amb TELEICTUS; on s'aconsella descartar encefalitis, pel que es fa PL essent aquesta normal.
+Es decideix doncs, trasllat a _SS_, acceptat per Neurologia, per a valoració i en cas de que sigui possible fer ttnt.
+S'informa a la familia del possible mal pronòstic. Activo SEM.
+
+DESTÍ:
+- TRASLLAT _SS_'
+
+Dr. _NAME_ - ncol _ID_	_LOCATION_, 23/12/2017.

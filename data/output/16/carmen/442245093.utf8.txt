@@ -1,0 +1,69 @@
+
+I N F O R M E	D ' A L T A
+
+Cognoms i nom de l'usuari:
+_NAME_	Història Clínica:
+_ID_
+Data d'ingrés:
+05/11/2017	Data d'alta:
+13/11/2017	Servei:
+NEUROLOGIA	Cap del Servei:
+_NAME_
+Metge que signa l'alta:
+_NAME_	S'informa a:
+Metge de capçalera
+
+Pacient de 81 anys que ingressa procedent d'urgències per déficit motor esquerra
+
+Antecedents Patològics:
+Al.lèrgia AAS
+HTA. Hipertròfia VE. DMII. Pluricomplicada.
+Malaltia renal crònica estadi IV. Control ERCA.
+Ingrés en juny 2016 valorat com a presíncop. TC cranial: atròfia
+Eco doppler TSA: Caròtida dreta: Placa calcificada en bulb carotidi d´ACC amb estenosi de 30 % Caròtida esquerra: engruiximent intimal en bulb carotidi d´1,9 mm. de gruix, Ingrés oct 2017 sdme sensitiu-motor de curs regressiu
+Tractament habitual: insulina lantus, novorapid, neurontin 400/24h, diafusor 5mg/d, segurio 40/d, olmetec 40, citalopram 20, omeprazol, somnovit,
+alopurinol 100, zemplar 1c/48h, syron 40 1c/d, renagel 1c/d, artedil 20mg/d, clopidogrel 75mg/d
+Indep AVD. Vive con el hijo
+
+Malaltia Actual:
+El dia 5/11 cap a les 14h presenta quadre de déficit motor en extremitas esquerras pero lo que es trasllada a urgències, A la seva arribada s´objetiva déficit sensitiu-motor Esquerra, s´activa codi ictus. Es comenta a Neurologia de _SS_ que despres de realizat TAC i amb antecedents personals no valora tto fibinolític.
+
+Exploració Física:
+AC sorolls cardíacs regulars sense bufs no buf carotidi AR MVC
+Neurològica:
+Conscient, orientada. llenguatge normal sense disàrtria. campimetria, oculomotricitat i resta de PPCC normals. Hemiparèsia Esquerra 3/5. Hemihipoestèsia Esquerra.
+
+Exploracions complementàries:
+Analítica d'urgències: Leucòcits;c.nom. 7.59 10e9/L, Hemoglobina; c.massa 12 g/dL, Eritròcits;fr.vol. (Hematòcrit) 39 %, Plaquetes;c.nom. 179.0 10e9/L, Activitat % (T.protrombina) 98.0 %, Raó (T.protrombina) 1.00 , INR 1.01 , Glucosa 118.9 mg/dL, Srm_Creatinini; c.subst. 3.1 mg/dL, Filtrat Glomerular CKD-EPI 13.31 mL/min, Urea
+105.1 mg/dL, Ió sodi 141.0 mmol/L, Ió potassi 4.7 mmol/L, Clorur 104 mmol/L, Calci 9.1 mg/dL, AST 48.0 U/L, Proteïna 7.4 g/dL, PCR 2.60 mg/L
+Analítica d'ingrés: Leucòcits;c.nom. 6.77 10e9/L, Hemoglobina; c.massa 107.0 g/L, Neutròfils;fr.nom. 52.30 %, Limfòcits;fr.nom. 34.30 %, Srm_Creatinini; c.subst. 3.2 mg/dL, Filtrat Glomerular CKD-EPI 12.96 mL/min, Ió sodi 142.0 mmol/L, Ió potassi 4.1 mmol/L
+ECG: RS 100x', sense alt a la repolarització. TC cranial: atròfia c-subcortical. Leucoaraiosi
+Holter ECG: QRS 0,08 s normal Pr 0,16s normal Ritmo sinusal durante todo el regístro con una FC max 110, Min 75 lpm y media de 92 lpm EESV aislados poco frecuentes con
+rachas cortas de hasta tres latidos . EEVV aislados poco frecuentes monomorfos , acoplados con iguales intervalos de acoplamientos. QTc normal. No pausas patológicas.
+
+Evolució:
+Durant la seva estada la pacient s´ha mantingut estable amb tendencia a HTAs, amb milloria progressiva del déficit sensitiu-motor persistint al alta una hemiparèsia 5-/5 e hipoestesia a nivel facial.
+Es realitza Holter (familiar refereix algún batec arritmic a domicili) que no mostra alteracions. No ha presentat complicacions durant la seva estada.
+Donada la estabilitat clínica es dona d´alta a domicili amb control ambulatori
+
+Valoració Diagnòstica:
+Sdme sensitivo-motor izq per probable ictus llacunar DMII
+ERCA
+
+Pla:
+Mateix tractament que a domicili
+Acudirà a consultes externes de Neurologia segons data adjunta
+
+Es solicita Fisio a domicili
+Es solicita PAO de caminador
+
+Dra. _NAME_ n.col:_ID_
+
+ADREÇA
+_LOCATION_
+TELEFONS
+TEL. _CONTACT_
+FAX. _CONTACT_
+DIGITAL
+_CONTACT_ _CONTACT_
+1 / 2

@@ -1,0 +1,141 @@
+I.CLINIC DE NEUROCIÈNCIES G064 SALA G DE NEUROLOGIA
+_NAME_	NHC: _ID_
+
+
+Sexo/Sexe: Masc.	Fecha nac./Data naix.: _DATE_	Edad/Edat: 79 años Dirección/Adreça: _LOCATION_	CP: _LOCATION_
+Municip. (Prov.): _LOCATION_  ABS:_SS_	Tel.:_CONTACT_
+As.: SERVEI CATALA DE LA SALUT	CIP: _ID_	NASS: _ID_
+Nº epis.: _ID_	Tipo/Tipus: HOSPIT.	Inici.: 07.07.2017
+Serv: NEUROLOGIA	UO Enf.: G064 SALA G DE NEUROLOGIA	Hora: 16:08:37 Facult. de ref.: _NAME_
+
+
+
+
+Tipo ingreso/Tipus ingrés: Urgent	Motivo/Motiu alta: Dom. Familiar
+Diag.:
+ICTUS ISQUÉMICO TERRITORIO ACP DERECHA ()
+Proc.:
+ANALÍTICA SANGUÍNEA () ECG. MONITORIZACIÓN. () RADIOGRAFÍA DE TÓRAX ()
+TC MULTIMODAL. FIBRINOLISIS CON RTPA. () ECOCARDIOGRAMA TRANSTORÁCICO ()
+CULTIVO DE ESPUTO. BACILOSCOPIA ZIEHL-NEELSEN. ()
+
+
+
+
+INFORME CLÍNICO ALTA / INFORME CLÍNIC ALTA
+
+Motivo de consulta / Motiu de consulta
+Alteración súbita la visión.
+
+Antecedentes e historia previa / Antecedents i història prèvia
+*ANTECEDENTES PERSONALES:
+Varón de 79 años, independiente para las actividades de la vida diaria (mRS: 0). No alergias medicamentosas conocidas. Ex-fumador. No otros hábitos tóxicos.
+
+*ANTECEDENTES PATOLÓGICOS:
+
+1.	HIPERTENSIÓN ARTERIAL en tratamiento farmacológico.
+
+2.	DISLIPEMIA en tratamiento farmacológico.
+
+3.	CARDIOPATÍA ISQUÉMICA con antecedentes de 2 infartos agudos de miocardio. Seguimiento anual por cardiología RAE, estable en la actualidad.
+
+- IAM anteroseptal fibrinolitzado, angor post-IAM y ACTP a DA distal en 1999 (_SS_). Trombo apical que se resolvió. Ecocardio esfuerzo: acinesia anterior en segmento medio y antero-apical con discinesia de la región más antero-apical al esfuerzo, compatible amb isquemia peri- necrosis. Última Eco en 2011: VI no dilatat, FEVI preservada.
+- Ingreso en cardiología 31/07-5/8 por angina inestable. Dolor hemitórax izquierdo sin irradiadicón estando en reposo. ECG sin isquemia aguda ni cambios evolutivos. El 4/08 ecocardiograma esfuerzo: 104% de la FCMT, clínica y eléctricamente negativa y a nivel ecocardiográfico se mantiene la acinesia anteroapical presente en Eco basal y al esfuerzo pequeña discinesia de la region más apical. Idéntico resultado que en ecocardiograma de esfuerzo de 2004 y 2007 consistente con isquemia perinecrosis.
+
+4.	TUBERCULOSIS PULMONAR en la infancia (1940) por el cual recibió tratamiento durante 2 meses.
+
+5.	NEUMOPATÍA CRÓNICA OBSTRUCTIVA en tratamiento broncodilatador. Última espirometría 11/2016 FEV1/FVC 66%, FEV1 89%, 2290 ml, FVC 100%, 3460,
+TLC 94%, %V/TLC 46. PBD ns (FEV1 postbd 93%ref), DLCO 62%ref, KCO 71%
+ref. 6MWtest distancia caminada 392 mts (83%ref) SpO2 inicial 96 final 93%.
+
+6.	OSTEOPOROSIS.
+
+7.	TRASTORNO ADAPTATIVO.
+
+
+*TRATAMIENTO HABITUAL: omeprazol 20 mg/24h; tiotropio 18 mcg/24h; ácido acetilsalicílico 100 mg/24h; nitroglicerina + cafeína c/24h;
+atorvastatina 40 mg/24h; calcifediol 266 mcg/14 días; bisorpolol 2,5 mg/24h; enalapril 5 mg/12h; ácido alendrónico 70 mg/semana.
+
+Proceso actual / Procés actual
+Paciente que sobre las 13:15h del 07/07/17 presenta cefalea frontal derecha junto con pérdida de visión de hemicampo izquierdo. Por ello decide acudir a _SS_.
+
+Exploración física / Exploració física
+07/07/2017-16:20:00: FiO2 (%) 21, Frecuencia respiratoria (rpm) 18, Glic emia capilar (mg/dl) 92, PAS (mm Hg) 128, PAD (mm Hg) 76, Pulsioximetría  (%) 95, Tª axilar (ºC) 36.
+Normotenso. Afebrli. NRL: Alerta y orientado. Lenguaje sin alteraciones. No disartria. Hemianiopsia homónima izquierda. Mirada conjugada sin limitaciones. Pares craneales conservados. Fuerza sin alteraciones. Hipoestesia izquierda. No dismetrías. NIHSS 3.
+
+Laboratorio / Laboratori
+*ANALÍTICA SANGUÍNEA: PCR 0.94 mg/dL. Glucosa 107 mg/dL. Creatinina 0.82 mg/dL; filtrado 84 mg/dL. Úrico 6.5 mg/dL. Colesterol total 139 mg/dL; TG 150 mg/dL; LDL 67 mg/dL, HDL 42 mg/dL. Hemograma y hemostasia sin alteraciones. HbA1c 6.2%.
+
+Radiología / Radiologia
+*RX TÓRAX: tractos fibrocicatriciales bilaterales sin focos de consolidación ni otros hallazgos sugestivos de patología aguda.
+
+*TC MULTIMODAL: Mínima ateromatosis a nivel del origen de la ACI izda que no condiciona una etenosis
+
+
+
+significativa. Se aprecian calcificaciones y engrosamiento pleural bialteral con presecia de una imagen que puede correspondera una caverna a nivel del domo pleural derecho. Se aprecian signos de bronquilitis y engrosamientos bronquiales adyacentes. Segmento A1 derecho hipotrófico. En las imágenes de perfusión se aprecia una imagen sugestiva de retraso TTP en territorio calcarino derecho de la ACP derecha distal.
+
+*TC CEREBRAL DE CONTROL: lesión hipodensa lacunar capsuloganglionar izquierda en probable relación con infarto crónico. Signos de leucoaraiosis periventricular en probable relación con microangiopatía crónico.
+
+* ECOCARDIOGRAMA TRANSTORÁCICO: Ventrículo izquierdo ligeramente hipertrófico a nivel septal-basal y con motilidad moderadamente disminuida por aneurisma septoapical con endocardio de esta zona de contorno irregular (posible imagen residual de trombo parietal) trabéculas. FEVI 35-40%. Patrón diastólico de alteración de la relajación. Válvula aórtica trivalva, normofuncionante. Ligera dilatación de la raiz y aorta ascendente. Mínima insuficiencia  mitral. Ventrículo derecho no  dilatado, normocontráctil. Insuficiencia tricuspídea ligera que permite estimar una baja probabilidad de presentar hipertensión pulmonar. Ausencia de derrame pericárdico. Vena cava no dilatada y que colapsa con la inspiración.
+
+Exploraciones complementarias / Exploracions complementàries
+*BACILOSCOPIA: negativo para micobacterias.
+
+Evolución / Evolució
+1.	ICTUS ISQUÉMICO EN TERRITORIO DE LA ARTERIA CEREBRAL POSTERIOR DERECHA (ACPD).
+2.	CARDIOPATÍA ISQUÉMICA ESTABLE. FEVI 35%.
+3.	ANEURISMA SEPTOAPICAL CON POSIBLE TROMBO PARIETAL.
+A su llegada al hospital  normotenso  y afebril. En la exploración neurológica se aprecia hemianopsia homónima izquierda e hipoestesia ipsilateral (NIHSS: 3). Analítica sanguínea sin alteraciones. ECG en ritmo sinusal sin alteraciones en la repolarización. La neuroimagen (TC craneal) no muestra alteraciones en su secuenta basal, aunque se aprecia retraso de perfusión en la corteza calcarina derecha en territorio distal de la ACPD. Estudio vascular (angio-TC) sin estenosis de grandes vasos. Monitorización >48h en unidad de ictus sin arritmias. El estudio cardiológico (ecocardiograma transtorácico) muestra aneurisma septoapical con posible trombo parietal.
+Se trata de un ictus isquémico en territorio de la ACPD distal de etiología cardioembólica. Se realizó tratamiento fibrinolítico con rtPA. Durante la perfusión mejora clínicamente hasta encontrarse asintomático e ingresa en la unidad de ictus. El TC de control no muestra signos de sangrado, por lo que se pauta anticoagulación con acenocumarol (sintrom) y se suspende tratamiento antiagregante con aspirina.
+Durante su estancia en sala de Neurología se mantiene clínicamente estable, exploración neurológica sin focalidad. Dada la mejoría clínica y la ausencia de complicaciones se decide alta a domicilio. Control en Consultas Externas de Neurología (Dr. _NAME_) en 3 meses (se adjunta citación).
+Al alta: NIHSS: 0; TOAST: cardioembólico; mRS: 0.
+
+4.	ANTECEDENTE DE TUBERCULOSIS PULMONAR.
+El paciente presentó contacto tuberculoso en 1940 por el cual realizó 2 meses de tratamiento erradicador. En los segmentos torácicos del TC se observan bullas y tractos fibroapicales junto con signos radiológicos de bronquitis que podrían sugerir actividad tuberculosa; aunque el paciente no refiere clínica reciente de tos, hemoptisis, febrícula, cuadro constitucional ni de otra índole. Se cursan cultivos de esputo y Ziehl- Neelsen con resultado negativo. Dada la escasa probabilidad clínica y la negatividad de la baciloscopia se considera poco probable la presencia de tuberculosis activa.
+
+Plan terapéutico / Pla terapèutic
+* Nueva medicación:
+CLEXANE 60 mg (6000 u.i.) solucion inyectable en jeringa precargada, 10 jeringas precargadas de 0,6 ml. 60 MG. Vía subcutanea. Cada 12 horas (9,21). * TOMAR ÚNICAMENTE HASTA QUE EL CONTROL DEL SINTROM
+
+
+
+SALGA BIEN (EN RANGO: INR 2-3).
+ACENOCUMAROL 4 mg comprimidos , 20 comprimidos. 4 MG. Vía oral. Cada 24 horas. * TOMAR LA CANTIDAD REFERIDA EN LA PAUTA.
+
+* Medicación habitual:
+ENALAPRIL durban 5 mg comprimidos efg, 60 comprimidos. 5 MG. Vía oral. C ada 12 horas. BISOPROLOL teva 2,5 mg comprimidos efg 28 comprimidos. 2,5 MG. Vía oral. Cada 24 horas.
+ATORVASTATINA tarbis 40 mg comprimidos recubiertos con pelicula efg, 28 comprimidos. 40 MG. Vía oral. Una vez al día, en la cena.
+CAFINITRINA comprimidos recubiertos sublinguales, 20 comprimidos. 1 UND. Vía sublingual. Cada 24 horas. SPIRIVA 18 microgramos, polvo para inhalacion , 1 inhalador + 30 cápsulas. 1 MCG. Vía inhalatoria. Cada 24 horas.
+HIDROFEROL 266 mcg solucion oral , 10 ampollas bebibles de 1,5 ml. 266 MCG. Vía oral. Cada 14 días. ÁCIDO ALEDRÓNICO semanal davur 70 mg comprimidos efg , 4 comprimidos. 70 MG. Vía oral. Cada semana.
+OMEPRAZOL combix 20 mg capsulas duras gastrorresistentes efg , 56 cápsulas. 20 MG. Vía oral. Cada 24 horas.
+FUCIDINE 20 mg/g pomada, 1 tubo de 15 g. 20 MG. Vía topica dermica. Cada 24 horas.
+
+* Dejar de tomar: ÁCIDO ACETILSALICÍLICO (ADIRO O ASPIRINA)
+
+Otras recomendaciones / Altres recomanacions
+1)	ACUDIR EL DÍA 13/07 AL _SS_ A LA ESCALERA 1 PLANTA 2 (HEMOSTASIA) A REALIZARSE CONTROL DE SINTROM. ALLÍ DARÁN LA PAUTA DE LA DOSIS DE SINTROM A TOMAR DURANTE UNOS DÍAS.
+2)	SOLICITAR VISITA CON MÉDICO DE CABECERA EXPLICANDO QUE HA SUFRIDO UN ICTUS CARDIOEMBÓLICO, MOSTRAR COPIA DE INFORME DE ALTA Y PROGRAMAR CONTROL DE SINTROM EN AMBULATORIO.
+3)	ACUDIR A VISITA DE CONTROL EN CONSULTAS EXTERNAS DE NEUROLOGÍA DEL _SS_ (DR. _NAME_) EN 3 MESES. SE ADJUNTA CITACIÓN.
+4)	CONTROLES HABITUALES CON ESPECIALISTA DE ATENCIÓN PRIMARIA Y CARDIÓLOGO DE ZONA.
+
+
+
+Firma/Signatura1: _NAME_	Firma/Signatura2: _NAME_ Categoría: Resident 2	Categoría: Consultor/a 1
+Nº Matrícula _SS_: _ID_	Nº Matrícula _SS_: _ID_
+
+Fecha/Data _NAME_: 12.07.2017
+Hora _NAME_: 09:31:29
+
+Docum.: _ID_
+Hist. Clínica: _ID_
+El _SS_ ha incorporado sus datos al Fichero de Pacientes, para tratarlos con fines sanitarios.
+Puede ejercer sus derechos de acceso, rectificación, cancelación y oposición, así como obtener mas información en la Unidad de Atención al Cliente.
+Vers. 00
+Pag. 2 de
+4
+Episod.: _ID_
+_SS_ ha incorporat les seves dades al Fitxer de Pacients, per a tractar-los amb finalitats sanitàries. Pot exercir els seus drets d'accés, rectificació, cancel·lació i oposició, i obtenir més informació a la Unitat d'Atenció al Client.
+_SS_
+_LOCATION_) _LOCATION_) Tel. _CONTACT_ Fax _CONTACT_
+http://_CONTACT_/

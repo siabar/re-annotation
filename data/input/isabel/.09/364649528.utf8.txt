@@ -1,0 +1,106 @@
+_SS_
+Informe d'alta Mèdica Servei de Medicina Intensiva
+Full 1 de _NAME_
+_ID_
+Data de naixement: _DATE_	Edat: 68 anys	Sexe: Home Nº Episodi: _ID_	Nº Història Clínica: _ID_
+Adreça: 184 _LOCATION_
+Telèfon: _CONTACT_
+Al·lèrgies/ Intoleràncies
+Data d'identificació	Severitat	Registrat per
+
+ 	 	
+AAS	No registrat	_NAME_ (Enfermera registrada)
+Grup sanguini:
+Data d'ingrés UCI: 16.04.2017 16:09	Data d'alta UCI: 18.04.2017 16:28	Estada UCI: 2 dies Procedència:  ALTRE CENTRE O	Destinació: NEUROLOGIA	Data Intervenció:
+INSTITUCIÓ
+Tipo d'admissió: Urgent
+Resultat UCI: TRASLADO A PLANTA
+
+Telèfons contacte famílies: _NAME_	_CONTACT_ Telèfons contacte famílies: _NAME_ Hija	_CONTACT_ Telèfons contacte famílies: _NAME_		_CONTACT_
+
+
+16.04.2017 16:09
+16.04.2017 16:09
+73
+165
+Pes actual
+Talla actual
+
+
+
+FC	82 /min	PNIs	136 mmHg	Pes	73,000 kg
+SpO2	96 %	PNId	89 mmHg		
+
+MOTIVO DE INGRESO
+Paciente de 68 años que ingresa por código ictus.
+
+
+ANTECEDENTS
+Dudosa alergia al AAS.
+Hipertensión arterial en tratamiento farmacológico.
+Hiperuricemia.
+intervenido de hipertrofia prostática por RTU en 2005.
+Tratamiento: amlodipino 5 mg/24h, enalapril 20 mg /24h, timolol saflutan colirio, paracetamol 1 g cada 8h si dolor. ENFERMEDAD ACTUAL
+Paciente que inicia de forma súbita sobre las 10:30h del 16/04/17 cuadro de somnolencia, mutismo y hemiplejia derecha. Consulta inicialmente al _SS_, donde objetivan sd hemisférico izq. extenso (NIHSS 25), realizan TC craneal basal que no muestra hemorragia aguda y ante la orientación de
+ictus isquémico en territorio de ACM izq inician fibrinolisis endovenosa. Se deriva a _SS_ de _LOCATION_ para rescata intraarterial.
+EVOLUCIÓ CLÍNICA
+A su llegada a dicho centro se encuentra hemodinámicamente estable, normotenso, eupneico en reposo y afebril. La analítica sanguínea con función renal e ionograma conservados, INR 1,41. Monitorización electrocardiográfica en ritmo sinusal. Se realiza TC craneal multimodal que muestra en secuencias basales hipodensidad en territorio superficial y profundo de arteria cerebral media izquierda (ASPECTS 4); angioTC muestra oclusión a nivel M2 de ACMI; mapas de perfusión evidencian retraso del TTP con caída de flujo y volumen en territorio superficial posterior de ACMI, sin mismatch significativo.
+Se trata de un ictus isquémico agudo en territorio de arteria cerebral media izquierda. Ante la lesión establecida y la ausencia de oclusión de gran vaso proximal, se desestima el tratamiento mecánico del ictus. Se retorna al paciente e ingresa en UCI.
+
+EXPLORACIÓ
+CCV: tonos rítmicos sin soplos audibles. AR: MVC con algún roncus
+Neurológica presenta mutismo, hemianopsia homónima derecha y hemiparesia facio (mod)- braquio (1/5)- crural (1/5) derecha (NIHSS 25).
+
+ANALÍTICA I EXPLORACIONS
+RxT: No muestra condensaciones del parénquima pulmonar.
+TAC craneal (_SS_): TC CEREBRAL BASAL: No se observa hemorragia intra ni extraaxial. Se observa hipodensidad y desdiferenciación cortico-subcortical a nivel temporo-parietal, ínsula y núcleo lenticular izquierdos que sugiere lesión isquémica establecida en territorio de la ACM I. ASPECTS 4-5.
+Leucoaraiosis periventricular. Pequeña hipodensidad en hemisferio cerebeloso izquierdo sugestiva de lesión isquémica antigua. Estructuras de la línea media centradas. Cisternas de la base libres. Sistema ventricular no dilatado,
+simétrico.
+TC PERFUSIÓN: Área con retraso del TTP a nivel temporoparietal izquierdo con caída de CBV en el centro de dicha área, condicionando discordancia no significativa, aprox 100% entre mapas. ANGIO-TC EXTRA E INTRACRANEAL:
+Arco aórtico con escasas placas de ateromatosis calcificada. Segmentos proximales de troncos supraórticos sin ateromatosis ni signos de estenosis. Origen, bifurcación y segmentos cervicales de las arterias carótidas internas sin ateromatosis ni signos de estenosis. Ausencia de opacificación en una rama de M2 (proximal) de la ACM I en relación a oclusión. Resto de las principales arterias cerebrales intracraneales permeables (ACAs, ACM derecha y ACPs). ACP derecha de origen fetal. Hipoplasia segmento A1 derecho. Sistema vertebrobasilar permeable. Origen de las arterias vertebrales sin ateromatosis ni signos de estenosis. Lóbulo tiroideo izquierdo aumentado de tamaño a expensas de lesión nodular hipodensa de aprox. 2 cm de diámetro, a valorar mediante ecografía.
+Analítica: Hematies 4.59 x1E12/L, Hemoglobina 15.2 g/dL, Hematocrit 45 %, Leucocits 11.56 x1E9/L, N 67 %, Mo 7 %, Eo 1
+%, , Glucosa basal 148 mg/dL, Urea 21 mg/dL Creatinina 1.0 mg/dL, Sodi 140 mEq/L, Clorur 104 mEq/L, Plaquetes 180 x1E9/L, TP 93%
+
+EVOLUCIÓN
+
+
+Paciente de 68 años en el 1r día de ingreso por CODI ICTUS.
+Se trata de un paciente hipertenso e hiperuricémico, e intervenido de hipertrofia prostática en 2005 que acude por cuadro de mutismo y hemiplejia derecha (NIHSS 25) con TC craneal que descarta sangrado.
+EVOLUCIÓ CLÍNICA
+Con OD de ICTUS ISQUÉMICO ACM IZQUIERDA se realiza fibrinolisis endovenosa y se traslada a _SS_ para rescate intraarterial donde se realiza TC craneal multimodal y AngioTC que muestra hipodensidad en territorio superficial y profundo de arteria cerebral media izquierda (ASPECTS 4) y oclusión a nivel M2 de ACMI sin mismatch significativo, desestimando tratamiento mecánico por lesión establecida y ausencia de oclusión de gran vaso por lo que se retorna a nuestro centro.
+
+Actualemente, estable hemodinámica y respiratoriamente. Se ha mantenido en ritmo sinusal en todo momento.
+NRL: alerta, afasia de expresión y posiblemente también de comprensión, aunque a veces parece que llega a obedecer
+órdenes sencillas. Paresia de MID y plejia de MSD. Parálisis facial dcha. Heminegligencia y hemianopsia dchas.
+Pendiente de valoración de la deglución por logopeda, pero da la impresión que no será buena por lo que seguramente se colocará SNG para iniciar antiagregación y nutrición. De momento se mantiene sueroterapia en espera de decisión.
+TC de control 24h con infarto establecido en territorio de ACM izda, sin transformación hemorrágica. Diuresis en pañal, aparentemente buena, con función renal normal.
+Dada la estabilidad clínica se da de alta a Neurología.
+
+Diagnòstics
+DIAGNOSTIC PRINCIPAL (N.U.)
+EMBOLISME CEREBRAL, AMB INFART CEREBRAL
+
+
+Tractaments
+PROCEDIMENTS
+INJECCIO O INFUSIO D'AGENT TROMBOLITIC TOMOGRAFIA AXIAL COMPUTADA DE CAP; TAC DE CAP MONITORATGE ELECTROGRAFIC; TELEMETRIA
+Antecedents/Diagnòstics/Procediments
+
+
+
+	
+Mitja	
+Primera	
+Máx	
+Min	
+La mès nova
+SAPS II	32,50	38	38	27	27
+Mort(SAPS)	0,21	0	0	0	0
+NEMS	15,00	15	15	15	15
+NEMS(e)/d	15,00	15	15	15	15
+
+Puntuació (SCORES)
+Atès per:	_NAME_
+Autorizat per:
+
+Impreso: 18.04.2017 16:30

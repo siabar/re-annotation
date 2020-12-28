@@ -1,0 +1,31 @@
+T1	SECCION_DIAGNOSTICOS 30 42	Diagnosticos
+T2	SECCION_PROCEDIMIENTOS 476 490	Procedimientos
+T3	SECCION_MOTIVO_DE_INGRESO 608 625	Motivo de ingreso
+T4	SECCION_ANTECEDENTES 724 744	Antecedentes Médicos
+T5	SECCION_SITUACION_FUNCIONAL 972 987	Situación basal
+T6	mRankin_previa 996 1001	mRS 0
+#6	AnnotatorNotes T6	0
+T7	SECCION_ANTECEDENTES_QUIRURGICOS 1004 1028	Antecedentes Quirúrgicos
+T8	SECCION_TRATAMIENTO_HABITUAL 1048 1072	Tratamiento domiciliario
+T9	SECCION_PROCESO_ACTUAL 1131 1140	Anamnesis
+T10	SECCION_EXPLORACION_FISICA 1741 1752	Exploración
+T11	SECCION_EXPLORACION_FISICA_DURANTE_HOSPITALIZACION 1753 1782	Exploración física al ingreso
+T12	NIHSS_previa 3194 3216	PUNTUACION TOTAL NIH:3
+#12	AnnotatorNotes T12	3
+T13	SECCION_EXPLORACIONES_COMPLEMENTARIAS 4161 4195	Resultados pruebas complementarias
+T14	SECCION_EVOLUCION 9586 9608	Evolución Hospitalaria
+T15	SECCION_TRATAMIENTO_AL_ALTA 11881 11907	Tratamiento médico al alta
+T16	Tratamiento_antiagregante_alta 11920 11942	Ácido acetilsalicílico
+T17	Tratamiento_anticoagulante_alta 12024 12034	Bemiparina
+T18	Ictus_isquemico 44 67	ECVA ISQUÉMICA: INFARTO
+T19	Arteria_afectada 88 91	ACM
+T20	Lateralizacion 91 92	D
+T21	Etiologia 106 121	aterotrombótica
+T22	Ataque_isquemico_transitorio 124 127	AIT
+T23	Arteria_afectada 148 151	ACM
+T24	Lateralizacion 151 152	I
+T25	Etiologia 166 181	aterotrombótica
+T26	Lateralizacion 216 225	bilateral
+T27	Arteria_afectada 240 243	ACI
+T28	Fecha_inicio_sintomas 1220 1228	29/04/18
+#28	AnnotatorNotes T28	2018-04-29

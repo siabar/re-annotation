@@ -1,0 +1,105 @@
+I.CLINIC DE NEUROCIÈNCIES I064 SALA G DE NEUROL. INTERM.
+_NAME_	NHC: _ID_
+
+
+Sexo/Sexe: Masc.	Fecha nac./Data naix.: _DATE_	Edad/Edat: 78 años Dirección/Adreça: _LOCATION_		CP: _LOCATION_
+Municip. (Prov.): _LOCATION_  ABS:_SS_		Tel.:_CONTACT_ As.: SERVEI CATALA DE LA SALUT	CIP: _ID_	NASS: _ID_
+Nº epis.: _ID_	Tipo/Tipus: HOSPIT.	Inici.: 18.12.2017
+Serv: NEUROLOGIA	UO Enf.: G064 SALA G DE NEUROLOGIA	Hora: 00:19:21
+Facult. de ref.: _NAME_
+
+
+
+
+Tipo ingreso/Tipus ingrés: Urgent	Motivo/Motiu alta: Dom. Familiar
+Diag.:
+ESTENOSIS CAROTÍDEA SINTOMÁTICA (434.91)
+Proc.:
+TC CRANEAL () MONITORIZACIÓN CONTINUA ()
+ENDARTERECTOMÍA CAROTÍDEA () RESONANCIA MAGNÉTICA CEREBRAL ()
+
+
+
+
+INFORME CLÍNICO ALTA / INFORME CLÍNIC ALTA
+
+Motivo de consulta / Motiu de consulta
+Alteración del habla de inicio súbita.
+
+Antecedentes e historia previa / Antecedents i història prèvia
+Antecedentes personales: Varón de 78 años, independiente (mRs 0), vive en domicilio. No alergias medicamentosas conocidas. Hábitos tóxicos: ex fumador desde los 17 hasta los 42 años de 2 paquetes al día (dosis acumulada de 50 paquetes/año). Diestro.
+
+ANTECEDENTES PATOLÓGICOS:
+1.	HIPERTENSIÓN ARTERIAL con diagnóstico desde los 35 años, en tratamiento médico, sigue controles en el CAP.
+2.	ADENOCARCINOMA DE PRÍSTATA hace 8 años intervenido quirúrgicamente, con controles posteriores anuales. En el momento libre de enfermedad.
+3.	HIPERURICEMIA con algunas crisis de podagra.
+4.	HIPERTRIGLICERIDEMIA sin tratamiento.
+5.	INSUFICIENCIA RENAL CRÓNICA secundaria a la hipertensión arterial, con creatininas habituales entorno
+1.5 mg/dl.
+MEDICACIÓN  HABITUAL:  Alopurinol  100mg/24h,  telmisartán/hicroclorotiazida  80/mg  24h,  bisoprolol 1.25mg/24h.
+
+Proceso actual / Procés actual
+Hoy sobre las 12:15, estando previamente asintomático, ha presentado de forma súbita alteración del habla. No emitía ningún sonido comprensible según el familiar informante, y asociaba una desviación de la comisura bucal. A su llegada a nuestro centro se encontraba prácticamente asintomático, por lo que se desestima activar Código Ictus.
+
+
+Exploración física / Exploració física
+18/12/2017-01:00:00: Frecuencia respiratoria (rpm) 13, PAS (mm Hg) 122, PAD (mm Hg) 62, Pulsioximetría (%) 95. 18/12/2017-07:00:00 : Glicemia ca pilar (mg/dl) 108, Tª axilar (ºC) 36.4. 19/12/2017-15:00:00 : FiO2 (%) 2 1.
+Buen estado general. Bien hidratado y perfundido. Vigil y orientado. Lenguaje algo hipofluente con disartria leve, pero esfuerzo evidente para pronunciar correctamente. Discurso algo aprosódico sin otro elemento afásico (nomina 5/5, repite frases largas sin parafasias y comprende órdenes complejas). No alteración oculomotora. Campimetría por confrontación sin déficits. Mirada conjugada sin limitaciones en excursión horizontal. En maniobra Barre la mano izquierda levement pronada, sin déficit motor evidente. Temblor postural en ambas manos. No dismetrías. No déficit sensitivo. No alteración de la marcha. NIHSS 1.
+Cardio: Rítmico sin soplos ni ruidos patológicos. Pulmonar: MVFC sin sobreañadidos.
+Abdomen: Blando y depresible, no doloroso, no mnasas ni megalias, peristaltismo conservado.
+
+Laboratorio / Laboratori
+ANALÍTICA SANGUÍNEA: Creatinina 1.09 mg/dL, no alteraciones en ionograma, perfil hepático ni hemograma. Colesterol total 1.09 mg/dL (LDL 145 mg/dL, HDL 34 mg/dL), Hb 1Ac 5.3%, VSG 9 mm/h. TSH 2.187 mUI/L,
+T4 1.19 ng/dL.
+
+Radiología / Radiologia
+RADIOGRAFÍA DE TÓRAX: Sin infiltrados ni consolidaciones.
+RMN CEREBRAL CON ANGIO RM: Lesion isquemica de caracteristicas agudas en el cortex precentral derecho, sin transformacion hemorrágica ni otras alteraciones asociadas. Hiperintensidades  en sustancia blanca supratentorial, tanto periventricular como subcortical, en relacion con angiopatia microvascular. Estudio de AngioRM arterial intracraneal dentro de los limites de la normalidad.
+ANGIO-TC (PREQUIRÚRGICO): Estenosis carotídea derecha de aproximadamente el 70%
+
+Exploraciones complementarias / Exploracions complementàries
+ECG Y TELEMETRÍA: Ritmo sinusal.
+ECOGRAFÍA  DOPPLER  DE  TRONCOS  SUPRAÓRTICOS  (ANTES  DE  CIRUGÍA):  1.  Placa  de  ateroma  en  la
+bifurcación y en la arteria carótida interna derecha que condiciona una estenosis del 70% por criterios doppler. 2. Placa de ateroma en la carótida interna izquierda que no condiciona una estenosis significativa.
+3. Flujo discretamente compensador de la arteria cerebral anterior izquierda, sin llegar a estar invertida. 4. Arteria vertebral izquierda, posiblemente hipopásica, que acaba en PICA.
+
+Intervenciones quirúrgicas / Intervencions quirúrgiques
+ENDARTERECTOMÍA: Incisión sobre el borde anterior del músculo esternocleidomastoideo. Sección de la vena facio-lingual. Disección y control con cintas vasculares de la arteria carótida interna, externa con sus ramas tiroidea superior, lingual y facial, y control de la carótida común. Identificación de las estructuras nerviosas de la región anatómica. Heparinización sistémica. Pinzamineto arterial. Arteriotomía longitudinal sobre la lesión, extendiéndose hacia la carótida común y la carótida interna. Endarterectomía submuscular. Lavados con solución salina heparinizada. Fijación de la íntima distal con puntos de hilo monofilamento del nº 6/0. Cierre de la arteriotomía directo (o con parche de ampliación de vena o material sintético) con sutura continua de hilo monofilamento 6/0. Liberación del pinzamiento secuenciado de la arteria carótida externa, carótida común y carótida interna en último lugar. Revisión de la hemostasia. Cierre del platisma con puntos sueltos de hilo reabsorbible del nº 2/0. Cierre de la piel con sutura contínua subcuticular con material reabsorbible del 3/0. Se deja drenaje tipo redón.
+
+Evolución / Evolució
+1. ESTENOSIS CAROTÍDEA DERECHA SINTOMÁTICA
+Varón de 78 años, que consulta por un cuadro regresivo de alteración del lenguaje y desviación de la
+
+
+
+comisura bucal de inicio súbito.
+En el momento de su llegada a la exploración neurológica destacaba únicamente una disartria leve (NIHSS de 1). En el ECG y la telemetría (> 48hs) no se observaban alteraciones del ritmo. La neuroimagen (TC cerebral y RMN) evidenció una lesión isquémica aguda en el territorio de carotídeo derecho. El estudio vascular (ecografía doppler y angio-TC) mostró una estenosis de aproximadamente el 70% de la arteria carótida interna derecha.
+Se trata de una estenosis sintomática  de la arteria carótida interna derecha, por lo que se indica tratamiento quirúrgico mediante endarterectomía, que se raeliza el día 22/12/2017 sin complicaciones.
+Durante el postoperatorio el paciente permanece clínicamente estable, por lo que se decide alta domiciliaria. Al alta deberá continuar el tratamiento antiagregante con AAS e hipolipemiante iniciado durante su ingreso, así como un estrecho control de la presión arterial como prevención del síndrome de hiperperfusión tras una cirugía de revascularización carotídea.
+
+Plan terapéutico / Pla terapèutic
+Tratamiento antiagreagante con AAS. Atorvastatina 40mg al día. Mantener su tratamiento antihipertensivo habitual.
+
+Otras recomendaciones / Altres recomanacions
+.
+
+
+
+Firma/Signatura1: _NAME_	Firma/Signatura2: _NAME_ Categoría: Resident 2	Categoría: Especialista
+Nº Matrícula _SS_: _ID_	Nº Matrícula _SS_: _ID_
+
+Fecha/Data Informe: 24.12.2017
+Hora Informe: 12:01:00
+
+Docum.: _ID_
+Hist. Clínica: _ID_
+El _SS_ ha incorporado sus datos al Fichero de Pacientes, para tratarlos con fines sanitarios.
+Puede ejercer sus derechos de acceso, rectificación, cancelación y oposición, así como obtener mas información en la Unidad de Atención al Cliente.
+Vers. 00
+Pag. 2 de
+3
+Episod.: _ID_
+_SS_ ha incorporat les seves dades al Fitxer de Pacients, per a tractar-los amb finalitats sanitàries. Pot exercir els seus drets d'accés, rectificació, cancel·lació i oposició, i obtenir més informació a la Unitat d'Atenció al Client.
+_SS_
+_LOCATION_) _LOCATION_) Tel. _CONTACT_ Fax _CONTACT_
+http://_CONTACT_/

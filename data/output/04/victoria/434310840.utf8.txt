@@ -1,0 +1,104 @@
+_LOCATION_
+_LOCATION_) Anul·lació/Reprogramació visites:_CONTACT_
+Telèfon Centraleta: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 80 Anys
+NIF/DNI: _ID_Informe d'epicrisi
+02:24:02
+22.10.2017
+_LOCATION_
+_SS_ NEUROLOGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_; _CONTACT_
+DOMICIL/RES.SOC 18.10.2017
+_NAME_
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Hematoma cerebral espontáneo
+
+ANTECEDENTS
+No AMC
+HTA, DM2, DLP.
+Glaucoma
+Fístula carótido cavernosa izquierda tratada con embolización 2009.
+
+MEDICACIÓ HABITUAL
+12.2010 :simvastatina, diazepan
+12.2010 :capoten
+12.2010 :timoftol
+
+PROCÉS ACTUAL
+Valoramos a paciente de 80 años sin alergias medicamentosas, HTA, DLP, DMII, fístula carotido-cavernosa izquierda intervenida en 2008, glaucoma, Iqx: cataratas. Situación basal: mRankin 0
+Es traido a urgencias porque el 17/10 mientras se encontraba completamente asintomático a las 22:30 inicia cuadro de mutismo y hemiparesia derecha. Niegan sintomatología los días previos.
+Nos contactan y activamos código ictus a las 23:18, llega a _SS_ a las 23: 35, TAC craneal 00:05 A la exploración inicial en urgencias TA 187/104, INR 0,9, DXT 126)
+Neurológicamente consciente, DOC izquierda(2),HHD por amenaza(2) mutista (7), PICNR, PFSN D (2) hemiplejia BC derecha(8), sensibilidad no valorable (1) BBK derecho. NIHSS 22. Analítica sin alteraciones destacables. TAC craneal  confirma  voluminoso  hematoma  de  GGBB  izquierdo  abierto  a  ventrículo.  Comento  con  NCR  que desestima intervencionismo,  ingresando en NRL para continuidad asistencial.
+
+
+EXPLORACIÓ FÍSICA
+
+FC	80 bpm
+Tªaxi 37.7 ºC
+FR	16 rpm Tªrec  ºC
+TA s	150 mmHg SAT O2  %
+TA d   75 mmHg Pes Kg
+
+A nuestra valoración hoy paciente con tendencia a la hipertensión (TAsist con picos 190-170mmHg).Afebril. SpO 98% con VMK al 28%. NRL: Vigil, con apertura ocular espontanea, no dice mes ni edad (2), TOC izquierda (1), pupilas puntiformes reactivas, HHD por amenaza (2) mutista (3),no obedece ordenes (2), PFSN D (2) hemiplejia BC derecha(4+4), sensibilidad no valorable (1) BBK derecho. NIHSS  21. AC: TCR. AP: Abundantes roncus difusos. Resto exploración ok.
+
+Informe d'epicrisi
+
+
+
+EXPLORACIÓ COMPLEMENTÀRIA
+-Analítica con hiperglicemia, no otras alteraciones remarcables.
+-TAC craneal: hematoma GGBB izquierdo abierto a ventrículos con discreto desplazamiento de linea media.
+-Rx d torax: ICT no valorable por DS. No pinzamiento ni condensaciones.
+-ECG: en RS a 75 lpm sin alteraciones agudas de la repolarización
+
+EVOLUCIÓ CLÍNICA
+Ingresa paciente de 80 años a unidad de ictus tras presentar hematoma gangliobasal izquierdo  de etiología hipertensiva.
+
+Cursa con  abundante movilización de secreciones respiratorias  añadiéndose fiebre  por lo que se extraen cultivos y se cubre empíricamente con  amoxicilina/clavulánico desde el 19/10.
+
+La evolución es desfavorable por deterioro del nivel de conciencia. Se solicita TAC urgente que muestra un aumento de tamaño del hematoma agudo centrado en ganglios basales izquierdos con mayor cantidad de edema perilesional y mayor efecto de masa. Desviación de las estructuras de la línea media en 14 mm. Mayor cantidad de sangrado intraventricular.
+Tras comentar con familiares mal pronóstico funcional y vital se prioriza tratamiento de comfort. Es finalmente éxitus a las 2:10 del día 22/10/2017
+Causa inmediata de muerte: Herniación cerebral
+Causa intermedia de muerte: Hipertensión intracraneal Causa fundamental de muerte: Hematoma cerebra
+
+
+DIAGNÒSTICS
+431/4 Hematoma capsulo-talamic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+30.10.2017
+Pàgina 1 de 2

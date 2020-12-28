@@ -1,0 +1,88 @@
+INFORME EQUIP DE SUPORT HOSPITALARI
+_NAME_
+Núm. Episodi: _ID_ Núm. HC: _ID_
+_SS_ _LOCATION_
+_LOCATION_
+Tel. _CONTACT_Població: _LOCATION_	Sexe: HOME   Data naixement: _DATE_  Edat: 75a
+Telèfon: _CONTACT_  C.P.: _LOCATION_	T.I.S.: _ID_   DNI/NIF: _ID_
+
+Procedència: NEUROLOGIA HOSP
+Servei assistencial: UFISS GERIATRIA I PAL.LIATIVA
+Metge Responsable: _NAME_
+
+
+Data d'entrevista: 11/05/2017	Data d'alta UFISS: 29/05/2017	Destí d'alta: 1A- Domicili Atenció Primària
+
+
+MOTIU DE CONSULTA:
+Home, 75 anys, ha ingressat a Neurologia per ICTUS hemorràgic a nucli lenticular D amb edema associat amb hemiparèsia BC E lleu. Veure informe de Neurologia.
+Se'ns demana consulta per valorar trasllat a CSS per reprendre la Convalescència.
+
+SÍNDROMES GERIÀTRIQUES PRÈVIES:	SÍNDROMES AGUDES:
+Dèficit Sensorial	Dèficit Funcional Inestabilitat Immobilitat Alteració del son Polifarmàcia
+
+SÍMPTOMES A L'INGRÉS	SÍMPTOMES A L'ALTA
+Debilitat: 1/4 Constipació: 1/4 Confusió: 1/4 Somnolència: 1/4 Tristesa: 1/4	Debilitat: 0/4 Constipació: 1/4 Confusió: 0/4 Somnolència: 0/4 Tristesa: 1/4
+
+	
+SÍNDROME DOLORÓS	
+Curs	Valoració Equip Ingrés	Valoració Equip Alta	
+	Braç esquerre
+
+
+Cefalea per afectació òssia de la calota, maxil·lar o mandibul·lar	Irruptiu incidental previsible
+
+Irruptiu intermitent	2/4
+
+
+1/4	1/4
+
+
+0/4	
+Pfeiffer: 0 errors
+FAC: 5
+Charlson: 3	Barthel previ: 100 / 100
+Barthel entrevista: 50 / 100
+Barthel alta: 65 / 100
+
+VALORACIÓ MÈDICA:
+Paciente que presenta deterioro funcional a raiz de ictus. Durante el ingreso presenta mejoria progresiva, sin presentar complicaciones médicas.
+
+VALORACIÓ D'INFERMERIA:
+Sr. que prèviament a l'ingrés era autònom per totes les ABVD. Té una plègia a ESD secundària a una radiculopatia braquial post-radioteràpia.
+Conscient i orientat. Estat físic regular. Prim. Visió dificultosa. Porta ulleres. Oïda normal. Parla normal. És dependent per l'alimentació. És dependent per higiene i vestir-se. És continent. Constipació. Deambulació amb ajut d'una persona.
+Ha anat millorant la seva capacitat funcional.
+
+SITUACIÓ SOCIAL:
+Sr. divorciat. Té un fill amb qui no té contactes. Conviu des de fa 14 anys amb una germana, Sra. de 78a amb problemes de salut.
+Vinculat a SSAP, estan fent gestions per habitatge lloguer social o bé habitatge tutelat. Coordinació amb T. Social referent que recomana iniciar tràmits per valoració reconeixement dependència, facilitem documentació i informes mèdics complerts li portaran 13/06.
+Habitatge amb barreres arquitectòniques d' accés, 1er pis sense ascensor, al bany tenen banyera. Pensió mínima per jubilació.
+Cursem sol?licitud per SAD alta hospitalària per suport compra, preparació àpats, acompanyament gestions... En el moment de plantejar alta a domicili, la germana manifesta que el Sr. no pot tornar aquell domicili per la qual cosa facilitem alternatives com ara habitacions de lloguers, el dia de l' alta,  marxa acompanyat per una amiga seva que l' ajudarà en la gestions que calgui.
+Coordinació amb SSAP a qui informem de la situació del Sr. en el moment que es donat alta hospitalària.
+
+VALORACIÓ FISIOTERÀPIA:
+Prèviament a l'ingrés totalment autònom per les ABVD, sortia al carrer sol i feia petits encàrrecs. Plègia braquial D seqüelar post-radioteràpia amb compressió radicular regional per neoplàsia de pulmó al 1994 ja resolta.
+11/05/17: col.laborador, molt bon contacte, lleu disàrtria, parèsia facial D residual per herpes zòster frontal D al 2008, amb eritema, dolor, hipoestèsia facial D i goteig nasal D constant, va tolerant bé la sedestació a la butaca amb bon control de tronc. Hemiparèsia molt lleu BC E de predomini braquial E amb BM per ESE: proximal de 3-/5 i distal de 4-/5 i per EIE proximal i distal de 4+/5. Plègia braquial D flàccida residual post-radioteràpia. BA espatlla E condicionat ara també per probable tendinopatia del manegot rotador espatlla E, (ja coneguda i controlada al seu CAP) ara molt més agreujada per la immobilitat per l'Hospital, ara està pendent ecografia espatlla E. Transferència des de la butaca i des de la sedestació al llit amb mínima ajuda d'una persona. BA passiu conservat per hemicós E i EID i actiu preservat per EID.  Sense edemes perimal.leolars i sense dismetries. Manté bipedestació estàtica amb mínima ajuda/recolzament d'una persona. Provat deambulació assistida amb una persona trajectes mitjans amb passes contínues i lleument assimètriques pel que fa a la longitut de pas EID>EIE, aixecant bé els avantpeus, lateropulsió E moderada que augmenta a mesura que allarga el recorregut, ha fet un tram d'escales amb assistència d'una persona i suport de barana amb bona resposta. BARTHEL actual de 50/100: manté continències, ajuda parcial per transferències i ús de WC i dependent per ingesta, vestit, higiene personal i dutxa. Avaluat i en seguiment pel Servei de RHB.
+18/05/17: milloria progressiva funcional, deambulació ben tolerada trajectes llargs amb supervisió de la seva fisioterapeuta, fa escales amb ajuda, autònom per transferències, ajuda parcial per ús de WC i per la ingesta, és doble continent, ajuda parcial pel vestit, dependent per la dutxa i per la higiene personal. BARTHEL de 65/100. Milloria progressiva també dolor espatlla E per tendinopatia manegot rotador (finalment se li ha diagnosticat amb ECO espatlla: tendinopatia amb engruiximent tendò supraespinós i ruptura parcial infraespinós i també mitjançant Rx artrosi de l'AC).
+
+OBSERVACIONS:
+Sol.licitem trasllat a CSS per Convalescència per reprendre programa de RHB.
+Finalment, durant el decurs del seu ingrés, s'ha revertit la davallada funcional i actualment no presenta cap símptoma ni cap síndrome geriàtrica de difícil maneig ni descompensada que requereixi control i seguiment a un Centre Sòciosanitari.
+Alta hospitalària el dia 29/05/2017. Cordialment,
+Signat:
+Dr/a.: _NAME_
+Metge adjunt
+Número col·legiat: _ID_
+Signat:
+_NAME_
+Infermer/a
+Número col·legiat: _ID_
+Signat: _NAME_
+Fisioterapeuta Número col·legiat: _ID_
+Signat:
+_NAME_
+Treballador/a social Número col·legiat: _ID_
+
+Hospitalització
+Imprès: 01/06/2017 16:06
+Pàg.: 1 de  2

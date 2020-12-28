@@ -1,0 +1,100 @@
+T0	_SUG_Lateralizacion 29 30	D
+T1	_SUG_Lateralizacion 88 89	I
+T2	FECHA 165 173	16/12/17
+#2	AnnotatorNotes T2	2017-12-16
+T3	FECHA 198 206	21/12/17
+#3	AnnotatorNotes T3	2017-12-21
+T4	SECCION_DIAGNOSTICOS 258 269	DIAGNÒSTICS
+T5	_SUG_Ictus_isquemico 274 289	ICTUS ISQUÉMICO
+T6	_SUG_Arteria_afectada 320 323	ACM
+T7	_SUG_Lateralizacion 324 333	IZQUIERDA
+T8	_SUG_Etiologia 355 369	CARDIOEMBÓLICA
+T9	_SUG_Ictus_isquemico 374 389	ICTUS ISQUÉMICO
+T10	_SUG_Localizacion 407 415	CORTICAL
+T11	_SUG_Arteria_afectada 439 442	ACM
+T12	_SUG_Arteria_afectada 443 446	ACP
+T13	_SUG_Lateralizacion 447 456	IZQUIERDA
+T14	_SUG_Etiologia 586 598	HIPERTENSIÓN
+T15	_SUG_mRankin_alta 982 988	Rankin
+T16	_SUG_mRankin_previa 982 988	Rankin
+T17	SECCION_PROCEDIMIENTOS 1003 1015	PROCEDIMENTS
+T18	_SUG_TAC_craneal 1019 1029	TC CRANEAL
+T19	_SUG_Ictus_isquemico 1054 1059	ictus
+T20	SECCION_MOTIVO_DE_INGRESO 1062 1076	MOTIU CONSULTA
+T21	_SUG_Lateralizacion 1138 1145	derecho
+T22	HORA 1178 1183	15.21
+#22	AnnotatorNotes T22	15:21
+T23	_SUG_Ictus_isquemico 1207 1212	ictus
+T24	SECCION_ANTECEDENTES 1232 1243	ANTECEDENTS
+T25	_SUG_Etiologia 1247 1259	Hipertensión
+T26	_SUG_Ictus_isquemico 1344 1359	ictus isquémico
+T27	_SUG_Lateralizacion 2072 2079	derecho
+T28	_SUG_Lateralizacion 2212 2219	derecha
+T29	_SUG_Lateralizacion 2432 2439	derecha
+T30	FECHA 2548 2553	15/12
+#30	AnnotatorNotes T30	2017-12-15
+T31	FECHA 2787 2790	1/2
+#31	AnnotatorNotes T31	2017-02-01
+T32	FECHA 2815 2818	1/2
+#32	AnnotatorNotes T32	2017-02-01
+T33	SECCION_PROCESO_ACTUAL 2901 2916	MALALTIA ACTUAL
+T34	FECHA 2938 2948	16/12/2017
+#34	AnnotatorNotes T34	2017-12-16
+T35	HORA 2959 2961	15
+#35	AnnotatorNotes T35	15:00
+T36	_SUG_Lateralizacion 3016 3023	derecho
+T37	HORA 3131 3136	15:39
+#37	AnnotatorNotes T37	15:39
+T38	SECCION_EXPLORACION_FISICA 3148 3165	EXPLORACIÓ FÍSICA
+T39	_SUG_Lateralizacion 3360 3367	derecha
+T40	_SUG_Lateralizacion 3395 3402	derecha
+T41	_SUG_NIHSS_alta 3485 3543	NIHSS: 0+0+0+0+0 / 1+0+0+0+0 / 0+1+0+1+0 / Total: 3 puntos
+T42	_SUG_NIHSS_previa 3485 3543	NIHSS: 0+0+0+0+0 / 1+0+0+0+0 / 0+1+0+1+0 / Total: 3 puntos
+T43	_SUG_Ictus_isquemico 3580 3585	Ictus
+T44	_SUG_Lateralizacion 3737 3744	derecho
+T45	_SUG_Lateralizacion 3767 3774	derecha
+T46	_SUG_Lateralizacion 3796 3803	derecha
+T47	_SUG_NIHSS_alta 3809 3816	NIHSS 2
+T48	_SUG_NIHSS_previa 3809 3816	NIHSS 2
+T49	_SUG_Test_de_disfagia 3817 3833	Test de disfagia
+T50	SECCION_EXPLORACIONES_COMPLEMENTARIAS 3879 3908	EXPLORACIONES COMPLEMENTARIAS
+T51	_SUG_TAC_craneal 4022 4024	TC
+T52	HORA 4047 4052	15.56
+#52	AnnotatorNotes T52	15:56
+T53	_SUG_Localizacion 4123 4131	temporal
+T54	_SUG_Lateralizacion 4153 4162	izquierdo
+T55	_SUG_Arteria_afectada 4206 4209	ACM
+T56	_SUG_Lateralizacion 4210 4219	izquierda
+T57	_SUG_Localizacion 4226 4234	parietal
+T58	_SUG_Lateralizacion 4235 4244	izquierdo
+T59	_SUG_Arteria_afectada 4268 4271	ACM
+T60	_SUG_Arteria_afectada 4274 4277	ACP
+T61	_SUG_Lateralizacion 4278 4287	izquierda
+T62	_SUG_TAC_craneal 4586 4588	TC
+T63	FECHA 4619 4624	18/12
+#63	AnnotatorNotes T63	2017-12-18
+T64	_SUG_TAC_craneal 5171 5173	TC
+T65	SECCION_EVOLUCION 5203 5211	EVOLUCIÓ
+T66	_SUG_Ictus_isquemico 5301 5306	ictus
+T67	_SUG_Lateralizacion 5366 5373	derecho
+T68	_SUG_TAC_craneal 5390 5392	TC
+T69	_SUG_NIHSS_alta 5574 5581	NIHSS 3
+T70	_SUG_NIHSS_previa 5574 5581	NIHSS 3
+T71	_SUG_Ictus_isquemico 5753 5758	Ictus
+T72	_SUG_Tratamiento_anticoagulante_alta 5950 5961	enoxaparina
+T73	_SUG_Tratamiento_anticoagulante_hab 5950 5961	enoxaparina
+T74	_SUG_TAC_craneal 6315 6317	TC
+T75	_SUG_Ictus_isquemico 6694 6699	ictus
+T76	_SUG_Tratamiento_anticoagulante_alta 6929 6941	acenocumarol
+T77	_SUG_Tratamiento_anticoagulante_hab 6929 6941	acenocumarol
+T78	_SUG_Etiologia 6985 6999	cardioembólico
+T79	_SUG_Localizacion 7008 7012	PACI
+T80	_SUG_NIHSS_alta 7022 7029	NIHSS 1
+T81	_SUG_NIHSS_previa 7022 7029	NIHSS 1
+T82	_SUG_mRankin_alta 7031 7039	Rankin 2
+T83	_SUG_mRankin_previa 7031 7039	Rankin 2
+T84	SECCION_TRATAMIENTO_HABITUAL 7249 7259	TRACTAMENT
+T85	_SUG_Tratamiento_anticoagulante_alta 7507 7514	Sintrom
+T86	_SUG_Tratamiento_anticoagulante_hab 7507 7514	Sintrom
+T87	SECCION_RECOMENDACIONES 7605 7616	INDICACIONS
+T88	_SUG_Lateralizacion 8121 8128	derecho

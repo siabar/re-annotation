@@ -1,0 +1,149 @@
+_LOCATION_) Telèfon _SS_  972 _CONTACT_
+Telèfon IDI (Ressonància i TAC) _CONTACT_
+Telèfon ICO _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 68 Anys
+NIF/DNI: _ID__NAME_; _NAME_
+Informe d'alta d'hospitalització
+13:00:00
+13.09.2017
+_LOCATION_
+_SS_ DE NEUROLOGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_; _CONTACT_; _CONTACT_; AGUTS
+10.09.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Ictus isquemico ACM izquierda.
+
+ANTECEDENTS
+ANTECEDENTES PERSONALES
+-Alergia a la PNC y diclofenaco
+-Habitos tóxicos
+-mRs:0
+
+ANTECEDENTES PATOLOGICOS
+-No hipertension arterial, no diabetes mellitus, no dfislipemia, no cardiopatía isquémica, no patologia vascular cerebral.
+-Leucemia linfática crónica (2013): Diagnosticado en _SS_, se le estudio mediante TC que objetivo distintas adenopatias su`preclaviculares , axilares, bazo 16cm, ganglios pequeños retrocrurales, adenopatías a lig gastrohepático y paracelíaco, mazacotes mesentéricos y retroperitoneales o perivasculares, inguinales bilaterales e ilíacos. Rechazó tratamiento quimioterápico en un principio
+-Hepatitis vírica(a los 19 años): En informes previos de urologia consta que tiene un herpatitis crónica
+-Hiperplasia benigna de próstata : Fue tratada mediante RTU, posteriormente desarrollo shock hemorragico, fue tratado e nuestro centro y finalmenete se resolvió
+-Hernia inguinal derecha : Tratada sin tension en 2016.
+
+
+MEDICACIÓ HABITUAL
+Niega medicacion habitual.
+
+PROCÉS ACTUAL
+Paciente que en un principio se pensaba que habia sido visto asintomático por última vez el día 09/09/2017 a la
+23.00 horas.
+Ampliando la anamnesis su hija había hablado con él a las 10.00h de la mañana del 10/09 y estaba asintomático Es encontrado por familia a las 11.30 horas de la mañana presentando clínica de trastorno de lenguaje, así como deficit motor de extremidad superior derecha, motivo por lo que acuden a urgencias de nuestro centro por nuestros medios. Llegada a nuestro centro a las 12.15 horas, donde es valorado por doctores de urgencias, con activación de Código ictus intrahospitalario a las a las 12.17 horas. Es atendido por Neurología de guardia inmediatamente.
+
+EXPLORACIÓ FÍSICA
+
+FC	78 bpm
+Tªaxi 37.1 ºC
+FR	rpm Tªrec  ºC
+TA s	114 mmHg SAT O2 97 %
+TA d   79 mmHg Pes Kg
+
+Informe d'alta d'hospitalització
+
+
+
+
+
+EXPLORACION URGENCIAS:
+CV: tonos rítmicos, sin sopplos PULM: MVc sin ruidos añadidos
+NRL: Paciente vigil, desorientado, obedece una orden simple, se intoxica al aumentar dificultad, todo ello en contexto de afasia global (alteración de nominación y compresión, bloqueos de lenguaje frecuentes) y disartria ligera. Hemianopsia homónima derecha. No alteraciones de MOE. PFC derecha. Deficit motor de miembro superior derecho, que claudica en menos de diez segundos con maniobra de Mingazzini. No deficit motor en extremidades inferiores. RCP flexor bilateral. No deficit sensitivo. No otra clínica objetivable.
+
+NIHSS: 02102/20200/00210 : 12
+
+EXPLORACIÓ COMPLEMENTÀRIA
+ANALÍTICAS :
+Eritròcits * 4.40 M/mcL, Hemoglobina * 13.3 g/dL, Hematòcrit * 40 %, Volum corpuscular mitjà 91.8 fL, Hemoglobina corpuscular mitja 30 pg, C.H.C.M. 33 g/dL, A.D.E. 13.9 %, Plaquetes 171 K/mcL, Volum plaquetari mig 10.8 fL, Leucòcits 10.9 K/mcL, CITOLOGIA GENERAL: FORMULA, Neutròfils * 42.7 %, Limfòcits * 48 %, Monòcits 7.9 %, Eosinòfils 0.9 %, Basòfils 0.5 %, Neutròfils 4.7 K/mcL, Limfocits 5.2 K/mcL, Monocits 0.9 K/mcL, Eosinofils 0.1 K/mcL, Basofils 0.1 K/mcL, Eritroblasts-Sang 0 %, COAGULACIO GENERAL, Tasa protrombina 96
+%, Tasa protrombina (INR) 1, Temps de cefalina (TTPA) 26.9 segons, Temps de cefalina (ratio) 0.9, Fibrinogen (deduit) 425 mg/dL, BIOQUIMICA, BIOQUIMICA BASICA, Glucosa 101 mg/dL, Urea 48 mg/dL, Creatinina 1.09 mg/dL, Urat 6.4 mg/dL, Proteïna 6.6 g/dL, Albúmina (sèrum) 4.3 g/dL, Colesterol * 165 mg/dL, Colesterol HDL 38 mg/dL, Colesterol LDL (calcul) 90 mg/dL, Triglicèrid 187 mg/dL, Bilirubina total 0.35 mg/dL, Aspartat aminotransferasa (GOT 15 U/L, Alanina aminotransferasa (GPT) 14 U/L, Gamma-glutamiltransferasa 20 U/L, Fosfatasa alcalina 63 U/L, Lactat deshidrogenasa 169  U/L, Atenció:, Mostra lleugerament hemolitzada.Valor sobreestimat de LDH, Creatincinasa (CK) 48 U/L, Amilasa 85 U/L, Calci (II) 8.7 mg/dL, Ió sodi 138 mEqu/L, Ió potasi 3.9 mEqu/L, IMMUNOLOGIA, PROTEINES, Troponina T hs (alta sensibili 8 ng/L,
+
+ECG: RS.
+
+Rx de torax: Poco inspirada , no puedo valorar ICT.
+
+Estudio Doppler: Eco-doppler TSA: ateromatosi carotidea amb estenosi 40-50% a ACI D amb VSM 140-150 cm/s. Resta de tSA sens eestensoisEco-doppler TC: sens ealteracions
+
+Ecocardiografía:Aurícula esquerra: 39 mm, Fracción ejecció biplà: 61 %, -Ventrículo izquierdo ligeramente hipertrófico, con función sistólica global conservada. -Insuficiencias mitral y tricuspídea  ligeras (I). -Aurícula izquierda ligeramente dilatada.
+
+TC de craneo : Infart isquèmic establert al territori profund de la ACM esquerra (ASPECTS 7), amb una àrea de penombra isquèmica a la resta del territori profund i gran part del territori superficial de la ACM esquerra. Trombo a nivell de l'artèria temporal anterior, segment M1 i segment distal de la ACM esquerra.
+
+TC multimodal _SS_: Ateromatosis calcificada en cayado aórtico, en bulbo carotídeo derecho, en segmentos distales de las arterias vertebrales y segmentos clinoideos de arterias carótidas internas. Permeabilidad de cayado aórtico, TSA, carótidas primitivas y carótidas internas y externas. Arterias vertebrales y arteria basilar permeables. Polígono de Willis permeable, sin visualizar arterias comunicantes posteriores. Trombosis focal en arteria cerebral
+
+Informe d'alta d'hospitalització
+
+
+
+
+media izquierda a nivel de M1, con una oclusión de 2 mm y repermeabilización distal. No se observan formaciones aneurismáticas.Signos de isquemia aguda (ASPECTS 8) en territorio de ACM izquierda secundario a trombosis focal de M1 izquierda con repermeabilización distal.
+
+TC de control 24hs: Evolució normal d'infart cerebral subagut a territori d'ACM profona i superficial esquerra, sense signes de transformació hemorràgica.
+
+EVOLUCIÓ CLÍNICA
+A la llegada del paciente se objetiva clínica de TACI izquierdo (Afasia+HHD+hemiparesia derecha) de inicio incierto, se realiza TC multimodal donde se objetiva trombo a nivel M1 izquierda, con mismatch significativo, ASPECTS 7.
+Se descarta realizar tratamiento fibrinolítico inicialmente por inicio incirto, pero al realizar de nuevo anamnesis con familia (hija) afirman que a las 10.00 horas de hoy 10/09/2017 se encontraba asintomático. Por tanto, se decide finalmente realizar tratamiento fibrinolítico (Dosis total 72mL, bolus 7.2 mL a las 13.15 horas, perfusión 64.8mL a las 13.17 horas. TA al inicio de tratamiento 124/74 mmHg, se retrasa inicio de tratamiento fibrinolítico por cambio de hora de inicio de clínica (inicialmente origen incierto, finalmente inicio a las 10.00 horas)
+Se decide contactar con guardia de Neurovascular, y se decide traslado a _SS_ para valorar realización e trombectomía mecánica. Se realiza activación de SEM interhospitalario a las 12.17 horas.
+
+Paciente llega al _SS_ a las 15:00, a la exploracion ha mejorado, tiene un NIHSS de 2. Se hace TC multimodal que objetiva trombo en M1 de ACM izquierda con permeabilidad distal y ASPECTS de 8. El paciente entra en la sala a las 15:30h y el groin es a las 16: 00h. El paciente presenta un NIHSS pre TEV de2. La primera serie a les16: 10 muestra oclusión de M1 (escala Tici inicial: perfusión mínima). Se inicia TEV (punción femoral) el día 09/10/2017 a las 16:00 Revascularización (Ticio final: Reperfusión completa (3)) el 09/10/2017 a les16: 20: 00, y finaliza el Procedimiento a les16: 25. Se realiza 1 pasada. Con un pase con el Dispositivo Solitaire consigue recanalización completa con Tici 3 a los 16:20 h.
+
+Se decide traslado a nuestro centro. A su llegada objetivamos NIHSS de 2 a expensas de PFCD y leve afasia.
+
+Durante su ingreso en principio emperoa de afasia y deficit motor derecho posteriormenbte a las 24hs lo encontramos sin deficits neurológicos.
+No se han reportado complicaciones.
+Se ha incia tratamiento a largo plazo con AAS y atorvastatina.
+El resgistro con telemetria no muestra arritmias embolígenas. El estudio Doppler pone en evidencia estenosis del 50% de ACI D, se interpreta como hallazgo incidental.
+El estudio con ecocardoigrafia muetsra leve dialtacion mitral con leve insuficiencia mitral y aortica. Dada su estabilidad clínica y hemodinamica se decide alta domiciliaria
+ESCALAS AL ALTA: NIHSS: 0
+Barthel : 100
+mRs: 0
+
+DIAGNÒSTICS
+436/5	Ictus isquémica ACM izquierda (ESUS) tratado con rtPA y TEV (trombectomía mecánica).
+
+Informe d'alta d'hospitalització
+
+
+
+
+424.0/1	Insuficiencia mitral leve
+433.10/1 Estenosi 40-50% arteria carotide ACI derecha, asintomàtica. 204.10/1 Leucemia limfoide cronica
+
+
+
+PROCEDIMENTS
+-	Tto trombolítico con rtPA
+-	Tto endovascular (trombectomía mecánica)
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+-	AAS 100mg c/24hs
+-	Atorvastatina 40mg c/24hs
+Resto de la medicacion sin cambios.
+
+CONTROL
+Control por consultasd externas de neurologia vascular de nuestro centro. Será avida por via telefonica o por correo.
+Control de factores de riesgo cardiovascular por MAP.
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+13.09.2017
+Pàgina 1 de 4

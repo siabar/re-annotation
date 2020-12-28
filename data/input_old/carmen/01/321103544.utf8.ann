@@ -1,0 +1,77 @@
+T1	_SUG_Lateralizacion 0 1	I
+T3	Fecha_de_ingreso 316 326	04.01.2017
+#3	AnnotatorNotes T3	2017-01-04
+T4	HORA 385 390	15:42
+#4	AnnotatorNotes T4	15:42
+T6	_SUG_Ictus_isquemico 496 511	ICTUS ISQUÉMICO
+T9	mRankin_previa 931 936	mRS 0
+T10	_SUG_Etiologia 968 980	HIPERTENSIÓN
+T11	_SUG_Tratamiento_anticoagulante_alta 1070 1077	sintrom
+T12	_SUG_Tratamiento_anticoagulante_hab 1070 1077	sintrom
+T13	FECHA 1848 1865	diciembre de 2017
+#13	AnnotatorNotes T13	2017-12-UNDEF-day
+T14	FECHA 1891 1904	enero de 2017
+#14	AnnotatorNotes T14	2017-01-UNDEF-day
+T15	FECHA 2099 2114	febrero de 2012
+#15	AnnotatorNotes T15	2012-02-UNDEF-day
+T18	Tratamiento_antiagregante_hab 2324 2327	AAS
+T19	FECHA 2453 2458	27/12
+#19	AnnotatorNotes T19	2012-12-27
+T20	Fecha_inicio_sintomas 2519 2524	04/01
+#20	AnnotatorNotes T20	2017-01-04
+T21	Hora_inicio_sintomas 2589 2594	10.00
+#21	AnnotatorNotes T21	10:00
+T22	_SUG_Lateralizacion 3046 3053	derecha
+T24	NIHSS_previa 3173 3180	NIHSS 3
+T25	TAC_craneal 3955 3957	TC
+T26	ASPECTS 4168 4178	ASPECTS 10
+T27	_SUG_Localizacion 4347 4358	ventricular
+T28	_SUG_TAC_craneal 4464 4466	TC
+T29	_SUG_Lateralizacion 4540 4549	izquierdo
+T30	_SUG_Lateralizacion 4970 4979	izquierda
+T31	_SUG_Arteria_afectada 4981 5011	Arterias cerebrales anteriores
+T32	_SUG_Arteria_afectada 5102 5122	Arterias vertebrales
+T33	_SUG_Localizacion 5124 5130	tronco
+T34	_SUG_Arteria_afectada 5141 5172	arterias cerebrales posteriores
+T35	_SUG_Lateralizacion 5323 5330	derecho
+T36	_SUG_ASPECTS 5932 5939	aspecte
+T37	_SUG_Etiologia 6357 6368	hipertensió
+T39	Ictus_isquemico 6627 6642	ICTUS ISQUÉMICO
+T41	Arteria_afectada 6666 6688	ARTERIA CEREBRAL MEDIA
+T42	Lateralizacion 6689 6698	IZQUIERDA
+T43	_SUG_Lateralizacion 6861 6868	derecha
+T44	_SUG_NIHSS_alta 6870 6877	NIHSS 3
+T45	_SUG_NIHSS_previa 6870 6877	NIHSS 3
+T47	_SUG_TAC_craneal 6966 6976	TC craneal
+T48	_SUG_Ictus_isquemico 7197 7202	ictus
+T49	Etiologia 7224 7238	cardioembólica
+T50	_SUG_Trombectomia_mecanica 7454 7478	tratamiento endovascular
+T51	_SUG_Tratamiento_antiagregante_alta 7520 7523	AAS
+T52	_SUG_Tratamiento_antiagregante_hab 7520 7523	AAS
+T53	_SUG_Lateralizacion 7726 7735	izquierda
+T54	_SUG_Lateralizacion 7826 7835	izquierda
+T55	_SUG_Etiologia 8061 8075	Cardioembólico
+T58	Hora_de_alta 8998 9003	15:44
+#58	AnnotatorNotes T58	15:44
+T59	SECCION_TIPO_DE_INGRESO 422 434	Tipo ingreso
+T60	SECCION_MOTIVO_DE_INGRESO 615 653	Motivo de consulta / Motiu de consulta
+T61	SECCION_ANTECEDENTES 694 756	Antecedentes e historia previa / Antecedents i història prèvia
+T62	SECCION_TRATAMIENTO_HABITUAL 2206 2227	*TRATAMIENTO HABITUAL
+T63	SECCION_PROCESO_ACTUAL 2397 2427	Proceso actual / Procés actual
+T64	SECCION_EXPLORACION_FISICA 2654 2692	Exploración física / Exploració física
+T65	SECCION_EXPLORACIONES_COMPLEMENTARIAS 5407 5467	Exploraciones complementarias / Exploracions complementàries
+T66	SECCION_EVOLUCION 6602 6622	Evolución / Evolució
+T67	SECCION_RECOMENDACIONES 8647 8691	Otras recomendaciones / Altres recomanacions
+T68	SECCION_PROCESO_ACTUAL 9305 9312	Episod.
+T2	NIHSS_alta 8046 8053	NIHSS:0
+T5	mRankin_alta 8076 8081	mRs:1
+T7	Tratamiento_antiagregante_alta 8636 8644	aspirina
+T8	Fecha_de_alta 8981 8991	10.01.2017
+T16	Fecha_llegada_hospital 2519 2524	04/01
+#1	AnnotatorNotes T16	2017-01-04
+#2	AnnotatorNotes T9	0
+#5	AnnotatorNotes T24	3
+#6	AnnotatorNotes T26	10
+#7	AnnotatorNotes T8	2017-01-10
+#8	AnnotatorNotes T5	1
+T23	Arteria_afectada 6716 6721	M3-M4

@@ -1,0 +1,149 @@
+_LOCATION_
+email: _CONTACT_ Telèfon _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 77 Anys
+NIF/DNI: _NAME_; _NAME_; _NAME_
+Informe d'alta d'hospitalització
+15:00:00
+30.06.2017
+_LOCATION_
+_SS_ UNITAT D'ICTUS
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_
+DOMICIL/RES.SOC 21.06.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Paciente de 77 años que ingresa por ictus TACI de ACM izquierda.
+
+ANTECEDENTS
+No alergias medicamentosas conocidas.
+Exenolismo. Sin criterios de dependencia actualmente.
+
+ANTECEDENTES PATOLÓGICOS:
+-	Hipertensión arterial en tratamiento farmacológico (TAS 150-160mmHg).
+-	Dislipemia. Hipercolesterolemia familiar. Hiperlipoproteinemia: tipo IIa(Fredrickson).
+-	Hiperplasia benigna de próstata en tratamiento tamsulosina.
+-	Epilepsia estable en tratamiento con OXC 300/12h, estable desde 2010
+-	Disminución agudeza visual bilateral.
+
+Situación sociofuncional: independiente para las actividades básicas de la vida diaria, sin deterior cognitivo ni funcional. Rankin previ: 0
+
+MEDICACIÓ HABITUAL
+Bisoprolol 5 mg/dia, Ezetrol 10 mg/dia, Losartan/HCTZ 100/12,5 mg/dia, secalip supra 160 mg/dia, tamsulosina 0.4 mg/dia, Trileptal 300 mg/8h
+
+PROCÉS ACTUAL
+Estando previamente asintomático presenta el diaa 21.06.17 a las 11:15h clínica de instauración brusca de falta de fuerza en hemicuerpo derecho y alteración del lenguaje, por lo que alertan al SEM, quienes activan código ictus. Se produce remisión clínica durante el traslado, con NIHSS 0 a su llegada.
+
+
+EXPLORACIÓ FÍSICA
+
+URGENCIAS.
+Constantes: TA 207/109 mmHg, FC 83x', BMT 79mg/dl
+Vigil, LOC q 2/2, LOC c 2/2, no DOC, no alteracioens campimétricas por confrontación, no PFSN, balance motor globalmente conservado, no alteraciones sensibilidad, lenguaje y habla normales, no dismetrias, no extinciones ni agnosias. NIHSS 0
+
+Unidad de ictus postprocedimiento:
+TA: 180780, FC: 70 lpm  ,FR:15  Tª:36,5
+NIHSS  9:  tendecia  a  somnolencia(1),  disartria(1) PFSN  D  (1)  afasia  mixta  severa  (  1+2+2) impresiona  de hemihipoestesia (1) paresia crural derecha leve (1) sin otro défcit motor ni sensitivo  evidente.
+
+Informe d'alta d'hospitalització
+
+
+
+
+UNIDAD ICTUS
+Constantes: TA 151/78mmHg, 60lpm, afebril
+Alerta (0) O (0) P (2) Afasia no fluente -de predominio motor (no nomina, repite hasta frases más complejas, obedece órdenes sencillas y complejas pero se intoxica) (2). CV (0) No DOC (0) PFC d leve (1) Hemiparesia derecha (1+1+0+0). Hemihipoestesia (1) NIHSS 8
+
+EXPLORACIÓ COMPLEMENTÀRIA
+URGENCIAS
+-	Analítica urgencias: Hb 15.4g/dL; Hto 46%; VCM 93fL; Leucocitos 8.86x10E9/L; Neutrófilos 5.2x10E9/L; Linfocitos 2.5 x10E9/L; Plaquetas 244x10E9/L; INR 0.8; TTPA ratio 0.95, Fibrinógeno 3.1g/L; Glucosa 69mg/dL; Urea 37 mg/dL; Creatinina 1.42mg/dL; FG 47mL/min/1.73m2; Sodio 139mmol/L; Potasio 3.69mmol/L; Calcio 10.9mg/dL; AST 32UI/L; ALT 30UI/L; Proteína 7.7g/dL
+-	TC multimodal: Estudio craneal multifásico que no muestra alteraciones densitométricas valorables parnequimatosas. Estenosis crítica por ateromatosis en bulbo carotídeo izquierdo que condiciona ausencia de replección de ACI en fases iniciales y con repleción tardía y se asocia a una estenosis de M1 distal con paso filiforme de contraste. Discreto mismatch por discreta reducción del flujo (CBF) que afecta el territorio de ACM izqueirda.
+*TC simple: Ausencia de signos de sangrado agudo intra o extraaxial. No se observan alteraciones densitométricas parenquiamatosas significativas. ASPECTS 10/10. Estructuras de la línea media  centradas. Sistema ventricular de tamaño y morfología dentro de la normalidad. Cisternas de la base y perimesencefálicas libres. Marco óseo sin alteraciones.
+*Angio-TC: En la primera fase se observa ACI izquierda sin contraste en los territorios petroso, cavernoso y supraclinoideo, en fases más tardías presentan repleción de contraste. Estenosis crónica por ateromatosis crònica a nivel del bulbo carotídeo izquierdo. A nivel intracraneal se observa una zona tortuosa con estenosis de M1 izquierda distal, con discreto paso de contraste a nivel distal. En el sistema vertebrobasilar se observa permeabilidad de todos los vasos. Senos venosos permeables.
+*TC perfusión:  Se observa alargamiento de todos los tiempos en el territorio de ACM izquierda, con discreta reducción del flujo (CBF) en el mismo territorio y con volúmenes (CBV) conservados.
+
+UNIDAD ICTUS
+- Analítica  ingreso: Hb 12,6 g/dl,  leucocitos  8.34 x10E9/L (56.%  neutrofilos, 30% linfocitos), plaquetas 183
+x10E9/L, TP 0.87, TTPA 30.4 seg, glucosa 96 mg/dl, Hb glicada 5.7%, Hb glicada IFCC 39 mmol/mol, Urea 24
+mg/dl, creatinina 1.06 mg/dl, FG 67 ml/min/1,73 m2, urato 7.9 mg/dl, bilirubina 0.56 mg/dl, Na 139.5, K 4.18, Calcio
+9.3, GPT 20, GOT 20, FA 59, GGT 89, Colesterol 175 mg/dl, HDL 37, TG 359, proteina 6 g/dl, tirotropina 1674,
+triiodotironina 1.69, tiroxina 0.86
+-	Doppler color de control stent-balón: Stent ACI I permeable sin signos de estenosis (VPS ACC I 52.5 cm/s, ACI I 64.4 cm/s). Placa de ateroma en bulbo carotideo derecho sin repercusión hemodinámica (VPS ACC D 49.7 cm/s, ACI D 69.6 cm/s). Oclusión distal de ACM I con patrón TIBI 3 a 55 mm (ACM I VPS 68.0 cm/s, IP 1.24; ACM D VPS 103.4 cm/s, IP 1.30) e hiperaflujo de ACA-1 I (flow diversion).
+-TC control 24h [22/06]: Aparición de hipodensidad focal a nivel del aspecto anterior/cápsula interna del lado izquierdo sugestiva de lesión isquémica aguda. Resto del parénquima cerebral y de la fosa posterior sin alteraciones. Ausencia de lesiones hemorrágicas intra o extra axiales. Ausencia de desplazamientos significativos de las estructuras de línea media supra e infratentoriales. Sistema ventricular de morfología normal. Cisternas de la base y perimesencefálicas sin alteraciones. Amígdalas cerebelosas de disposición normal. Unión craneo-cervical sin alteraciones. Lesión isquémica aguda focal talámica izquierda. Resto del estudio sin cambios significativos respecto al estudio previo.
+-	Telemetría: sin hallazgos.
+-	
+Informe d'alta d'hospitalització
+
+
+
+
+-	Ecoscan: Ventriculo izquierdo no dilatado, hipetrófico. Fracción de eyección  conservada. No alteraciones segmentarias de la contractilidad. Auricula izquierda no dilatada Insuf mitral no significativa. Patrón transmitral compatible con alteración de la relajación. No se observan imagenes sugestivas de trombo intrauricular ni ventricular. Regular ventana aórtica que no permite descartar placas aórticas. CONCLUSION: No se detecta fuente embólica.
+-	Angioplastia stent definitivo [27/06]: microguía de soporte distal al stent y posteriormente se realiza liberación de stent 7x40 mm intra stent, el cual se posiciona de forma satisfactoria. Control post-stenting no muestra estenosis residual significativa. Arteriografía intracraneal de control muestra ausencia de ramas distales (frontoparietales), ya visualizado en control angiográfico posterior a la trombectomía (sin deterioro neurológico durante  el procedimiento). probablemente compensa por colaterales piales de ACI contralateral. Cierre percutáneo mediante mynxgrip y vendaje compresivo (24H). Procedimiento sin complicaciones inmediatas
+-TC control (29/06): Comprando con tc previo, 22-6-2017, se observa estabilidad de la lesion hipodensa en capsula interna izquierda en relacion a lesion isquemica establecida, sin aparicion de nuevas lesiones hipodensas que indiquen otras areas de isquemia ni aparicion de lesiones hemorragicas ni otras alteraciones.
+-	Analítica control (29/06): Hemoglobina 13.6 g/dL, Htc 40.3%, VCM 92.2 fL, Concent HGB Corpusc media 33.70 g/dL, Leuc 11.63 x10E9/L, Neut 52.8%, Limf 33.7%, Mon 9.8%, Eo 3.1%,  Bas 0.6%, Plaq 257 x10E9/L. Gluc 98
+mg/dL, Ur 50 mg/dL, Cr 1.03 mg/dL. Na 132.8 mmol/L, K 3.97 mmol/L, AST 23 UI/L, ALT 34 UI/L.
+
+EVOLUCIÓ CLÍNICA
+Paciente de 77 años que ingresa por ictus TACI izquierdo. A su llegada NIHSS 0. El angio-TC evidencia estenosis crítica de bublo carotídeo izquierdo con oclusión intracraneal a nivel de M1, por lo que se decide TEV primaria,  por mal control tensional a pesar de tratamiento endovenoso con urapidilo.
+Hora punció femoral: 14:10h, la primera serie extracraneal muestra una estenosis preoclusiva de la ICA I extracraneal, que se consigue atravesar. Se realiza angioplastia sobre dicha lesión a las 14:38h. La primera serie intracraneal a las 14:40h se detecta una oclusión completa de M1 ACM I (la ACA ipsilateral se rellena vía AcoA). Se realiza un primer pase con Solitaire a las 14.50h que consigue una recanalización casi completa (TICI 2b). Una serie posterior muestra un defecto de replección en A1 I, y no se detecta la arteria pericallosa, por lo que se intenta aplicar trombectomía allí. Se realiza una nueva arteriografía en la ICA I, que muestra una estenosis residual de aprox. 50%, pero se decide implantación de stent balón-expandible para mantenerla permeabilidad.
+Tras finalizar el procedimiento ingresa en Unidad de ictus.
+Tras comprovar que cumple criterior de inclusión y ninguno de exclusión, se incluye al paciente dentro del estudio ACTION 2 ( Natalizumab vs placebo en ictus isquémico).
+Desde el ingreso, se mantiene estable hemodinámica y clínicamente. Se realiza TC de control a las 24 horas se evidencia imagen compatible con infarto talámico. El Doppler de control 24 horas evidencia un stent-balon permeable, tras lo que se coloca stent definitivo en ACI Izquierda. Como parte del estudio se realiza un EcoScan, sin fuente embólica, una Telemetría [72h] sin detección de arritmias potencialemente embolígenas.
+Por somnolencia transitoria, desorientación y confusión, se repite el TC craneal y analítica (29/6), sin hallazgos ni cambios respecto a previos.
+Tras mejoría progresiva, estabilidad clínica y hemodinámica, se decide alta hospitalaria y control en consultas externas de Neurovascular con eco doppler de control a los 3 meses. Se deja solicitada IC a logopedia para valoración por afasia leve residual y se activa PreALT previo a alta.
+Al alta, NIHSS 2 (facial y afasia leve, con parafasias semánticas) y rankin 3.
+
+DIAGNÒSTICS
+Infarto ACM izquierdo de etiología aterotrombótico. Oclusión en tandem. Tratado con TEV primaria y stent definitivo en ACI izquierda.
+
+Informe d'alta d'hospitalització
+
+
+
+
+Hipertensión arterial Dislipemia Hipercolesterolemia familiar
+Hiperlipoproteinemia: tipo IIa (Fredrickson).
+
+
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Dieta sin sal y baja en grasas.
+
+-	Adiro 100 mg/dia
+-	Clopidogrel 75 mg/dia
+-	Atorvastatina 80 mg/dia
+-	Ranitidina 300 mg/dia
+
+-	STOP Secalip supra
+
+-	Tratamiento sin cambios: Bisoprolol 5 mg/dia, Ezetrol 10 mg/dia, Losartan/HCTZ 100/12,5 mg/dia, tamsulosina
+0.4 mg/dia, Trileptal 300 mg/8h
+
+CONTROL
+-	Visita 30D control según protocolo de estudio ACTION2 el día 18/7/2017 a las 9:30h en la segunda planta (Unidad de Ictus) en ayunas para realización de analítica.
+
+-	Ecodoppler de TSA/TC el día 18 de septiembre del 2017 a las 12:40h en la segunda planta del _SS_ (Unidad de ictus-gabinete de neurosonología).
+
+-	Visita control en consultas externas de Neurología en la 3ªplanta anexos del _SS_ el día 20 septiembre del 2017 a las 9:00h
+
+-	Control estricto de FRCV por MAP.
+
+-	Será avisado por correo y/o telefónicamente para valoración en las consultas de Logopedia y Foniatria.
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+30.06.2017
+Pàgina 1 de 4

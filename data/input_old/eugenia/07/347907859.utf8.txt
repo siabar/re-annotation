@@ -1,0 +1,124 @@
+I.CLINIC DE NEUROCIÈNCIES NEUROLOGIA
+_NAME_	NHC: _ID_
+
+
+Sexo/Sexe: Masc.	Fecha nac./Data naix.: _DATE_	Edad/Edat: 66 años Dirección/Adreça: _LOCATION_		CP: _LOCATION_
+Municip. (Prov.): _LOCATION_  ABS:_SS_	Tel.:_CONTACT_ _CONTACT_ As.: SERVEI CATALA DE LA SALUT	CIP: _ID_	NASS: _ID_
+Nº epis.: _ID_	Tipo/Tipus: HOSPIT.	Ingres.: 28.02.2017 Serv: NEUROLOGIA	UO Enf.: G6B4 SALA G NEUROL. CURT. E Hora: 10:48:11
+Facult. de ref.: _NAME_
+
+
+
+
+Tipo ingreso/Tipus ingrés: Urgent	Motivo/Motiu alta: CSS L. Est.
+Diag.:
+ICTUS ISQUÉMICO ACMI (434.91)
+INFECCIÓN DEL TRACTO URINARIO POR E. FAECALIS () DIABETES MELLITUS ()
+Proc.:
+TC craneal multimodal () Angio-TC ()
+Angio-RM () EKG ()
+RADIOGRAFÍA DE TÓRAX () ANALÍTICA SANGUÍNEA ()
+
+
+
+
+INFORME CLÍNICO ALTA / INFORME CLÍNIC ALTA
+
+Motivo de consulta / Motiu de consulta
+Alteración del lenguaje y debilidad de extremidades derechas de inicio súbito.
+
+Antecedentes e historia previa / Antecedents i història prèvia
+** ANTECEDENTES PERSONALES: Varón de 66 años. Sin alergias medicamentosas conocidas. Exfumador hasta hace 15 años con dosis acumulada de 50-60 paquetes /año. No otros hábitos tóxicos. Independiente para las actividades básicas de la vida diaria.
+
+** ANTECEDENTES PATOLÓGICOS:
+1.	HIPERTENSIÓN ARTERIAL en tratamiento farmacológico.
+2.	DISLIPIDEMIA en tratamiento farmacológico.
+3.	DIABETES MELLITUS TIPO 2 en tratamiento insulínico.
+4.	CARDIOPATIA ISQUÉMICA EN FASE DILATADA. PORTADOR DE DAI.
+-	IAM INFERIOR KILLIP I 1997 (trombolizado) en ese entonces lesiones en CD y DA. ECO aquinesia y disquinesia inferior. Tras 4 meses presenta complicación (pericarditis aguda sin derrame) que cede a tratamiento con AINES.
+-	COLOCACION STENT DA 2000.
+-	SCASEST Killip I en 2012, coronariografía con descendente anterior sin lesiones significativas con Stent en su porción media permeable, con reestenosis no significativa y coronaria derecha difusamente enferma ocluída crónica con colaterales homocoronarias no tributaria de intervención percutánea.
+*  Último  ecocardiograma  12/16:  FEVI  17%.  Destaca  VI  muy  severamente  dilatado  y  remodelado. Hipertrabeculación  en  pared  lateral  y  ápex.  Motilidad  global  severamente  disminuida,  secundaria  a
+
+
+hipocinesia difusa. Disfunción diastólica tipo 2. Aurícula izquierda severamente dilatada.
+5.	INSUFICIENCIA MITRAL GRAVE. IMPLANTE MITRACLIP en 12/2016.
+6.	INSUFICIENCIA RENAL CRÓNICA estadio 3B A2 multifactorial. MONORRENO FUNCIONAL DERECHO secundario a neoplasia vesical. En seguimiento por Nefrología, el paciente no cumple criterios de biopsia. Cr habitual 1,6 mg/dL.
+7.	NEOPLASIA VESICAL T1G3 diagnosticado en 2010 y tratado mediante RTU en _SS_. En cistoscopia 2011 lesión de aspecto infiltrante que se reseca por RTU en su totalidad hasta capa muscular. Ante la presencia de un CARCINOMA VESICAL DE CÉLULA PEQUEÑA NEUROENDOCRINO que infiltraba extensamente lamina propia y capa muscular propia (cromograbina sinaptofisina +), se realizó quimioterapia neodyuvante con Cisplatino + Etopósido. Unos meses después presentó progresión ganglionar realizándose Cistoprostatectomia radical, linfadenectomía ilio-obturatriz bilateral y NEOVEJIGA ILEAL TIPO W. Márgenes de resección libres de neoplasia, ganglio necrotico iliacao derecho con 4 ganglios sinevidencia de metastasis. Ureter terminal Der/Izq sin signos de neoplasia o displasia. Controles en Oncología.
+8.	NÓDULO PULMONAR SOLITARIO de 2.3 x 1.5cm en LII adyacente a pericardio que podría corresponder a lesión quística detectado en 2011 a raíz de estudio de extensión de neoplasia vesical, FBS sin lesiones endobronquiales y BAS con citología sin atipias ni hallazgos microbiológicos. Seguimiento sin modificaciones en TAC sucesivos.
+9.	NEUMOPATÍA CRÓNICA. PROBABLE NINE. En seguimiento por NMO (Dr _NAME_). PFR compatibles con enfisema. Detectada como hallazgo en TAC de últimos 3 años parcheados en vidrio deslustrado bibasales y disnea, que si bien podrían corresponder a edema cardiogénico, se valoró en comité neumológico iniciando corticoterapia en Octubre/2014 con mejoría clínica.
+10.	INFECCION VHC detectada casualmente en analítica de nefrología en 2014. Sin alteraciones hepáticas en analiticas, ni TAC realizados previamente. Fibroscan: Hepatitis C G1a, lleu (F1-2), sigue controles con Dr. _NAME_ en _SS_.
+11.	ITU por MRSA y enterococo (sensibles Vancomicina) en POP dia 20 de cistoprostatectomia + neovejiga. Se trató con Linezolid y retirada de sonda vesical/(pig-tails).
+12.	GAMMAPATIA MONOCLONAL DE SIGNIFICADO INCIERTO IgA-lambda diagnosticada en 9/2015 con CM sèric 4 g/L. CLL sèrum kappa 29, lambda 115. Greix PAAF: sense dipòsit amiloide (RC negatiu) Ecocardiograma 2016 con tabique 11 mm. Proteinúria 3 g/24h, glomerular. En estudio para descartar amilodosis AL (pendiente de valorar Bx renal vs glàndula salival, aunque poco tributario de tratamiento si diagnóstico dado comorbilidades).
+
+** TRATAMIENTO HABITUAL (Feb/17): - AAS 100MG C/24H. - INSULINA ACTRAPID INNOLET (12-12-0-16-0 UI).
+-	OMEPRAZOL 20MG C/24H. - INSULINA LANTUS 25UI C/24H. - FUROSEMIDA 40MG DE-CO-0. - CAFINITRINA si precisa. - ATORVASTATINA 40MG C/24H. - AZOPT COLIRIO 10MG/ML 2 GOTAS C/12H. - CARVEDILOL 6,25MG C/12H. - PREDNISONA 15MG C/24H. - EPLERENONA 25MG C/24H. - SOTALOL 80MG C/12H.
+
+Proceso actual / Procés actual
+El 28.2.2017 a las 8.00h, tras despertarse asintomático, presenta dificultad súbita para el lenguaje con posterior caída y paresia de extremidades derechas por o que es remitido por el SEM como código ictus a nuestro centro.
+
+Exploración física / Exploració física
+28/02/2017-11:00:00: Frecuencia respiratoria (rpm) 26, Glicemia capilar (mg/dl) 206, PAS (mm Hg) 119, PAD (mm Hg) 58, Pulsioximetría (%) 95, Tª axilar (ºC) 35.8. 06/03/2017-15:00:00 : FiO2 (%) 24. 07/03/2017-11:42:09  : Peso (Kg) 65, Talla (cm) 160.
+NRL: Alerta, mutista. Afasia global, no nomina, no sigue órdenes. Reflejo por amenaza drcho abolido. Mirada conjugada sin claras limitaciones. Hemiparesia facio  (mod)- braquio (0/5)- crural (1/5) drcha. Hipoestesia algésica drcha. Dismetrías no valorables. NIHSS 22.
+
+Laboratorio / Laboratori
+
+
+
+*	ANALÍTICA SANGUÍNEA (28/02/17): Creatinina 1.81 mg/dL, FG 38 ml/min. Función hepática y tiroidea conservadas. Ionograma sin alteraciones. Colesterol LDL 136 mg/dL, Colesterol HDL 25 mg/dL, Triglicèrids
+167 mg/dL, Hemoglobina glicada 7.5%. Hemograma conservado. Temps de protrombina 63.1%, Temps de protrombina 15.0 seg, INR 1.29. PDF negativos. PCR 14.
+* MICROBIOLOGÍA:
+-	Urinocultivo (02/03/2017): pendiente
+-	Hemocultivos (02/03/2017): pendientes
+
+Radiología / Radiologia
+*	TC CRANEAL: Extenso infarto isquemico establecido en el territorio vascular superficial de la ACM izquierda que condiciona un minimoa efecto masa sobre el VLI y sobre las estructuras medioencefalicas. Mediante TC no se aprecian transformaciones hemorragicas evidentes. Cisternas basales globalmente conservadas. Mediante TC no se aprecian otras alteraciones intracraneales evidentes.
+
+*	RADIOGRAFIA DE TÓRAX: Cardiomegalia y signos de redistribución vascular que mejoran en Rx de tórax de control.
+
+Exploraciones complementarias / Exploracions complementàries
+
+MICROBIOLOGÍA:
+*	Urinocultivo (02/03/2017): negativos * Hemocultivos (02/03/2017): negativos * Urinocultivo (07/03/2017): Se aisla E. faecalis sensible a ampicilina, nitrofurantoina y vancomicina y resistente a levofloxacino.
+
+Evolución / Evolució
+1.	ICTUS ISQUÉMICO EN TERRITORIO DE ARTERIA CEREBRAL MEDIA IZQUIERDA (ACMI).
+2.	MIOCARDIOPATÍA DILATADA.
+A la exploración neurológica se aprecia síndrome hemisférico izquierdo completo (NIHSS 22). Analítica sanguínea con creatinina de 2.25 mg/dL, sin otras alteraciones. EKG en ritmo sinusal. Radiografía de tórax con redistribución vascular. La neuroimagen (TC craneal) confirma ictus extenso en territorio de la arteria cerebral media izquierda. Estudio vascular (angioTC y angioRM) sin alteraciones. Dada la extensa lesión establecida se desestimó tratamiento fibrinolítico.
+Se trata de un ictus isquémico en territorio de arteria cerebral media izquierda de probable etiología cardioembólica dado el antecedente de miocardiopatía dilatada grave (FEVI 17%) por lo que se inicia tratamiento anticoagulante con heparina con posterior paso a sintrom.
+Durante su estancia en Neurología el paciente ha presentado fluctuaciones clinica permaneciendo estable con un deficit neurologico importnate.
+Al alta: Somnoliento, mutista. Mirada limitada hacia la derecha. Reflejo de amenaza ausente de forma bilateral. Hemiparesia facial moderada- braquial 0/5-crural 0/5 derecha. No realiza muecas al dolor en extremidades derechas. Babinski derecho.
+NIHSS: 20 .TOAST: Cardioembólico. mRS: 5.
+
+
+3.	INFECCIÓN DE TRACTO URINARIO
+Durante el ingreso presente fiebre de probable foco urinario, con piuria, sedimento urinario con 200 leucocitos, nitritos negativos, 200 hematies por lo que se inicia tratamiento conm ceftriaxona ev. Posteriormente se aisla en urinocultivo E. faecalis sensible ampicilina, nitrofurantoina y vancomicina y resistente a Levofloxacino. Lleva Bricker con sonda vesical permanente que debe mantenerse. Al alta se mantiene tratamiento con cefixima
+
+4- DIABETES MELLITUS Con dificil control que ha requerido dosis altas de insulina.
+
+
+
+Plan terapéutico / Pla terapèutic
+-	Insulina glargina 16UI cada 24h - Insulina rápida 4-4-4-4 - Pantoprazol 40mg cada 24h - Prednisona 15mg cada 24h - Acenocumparol según pauta - Furosemida 40mg 1-1-0 - Eplerenona 25mg cada 24h - Atorvastatina 40mg cada 24h - Sotalol 80mg cada 12h - Nutrición por SNG - Cefixima 400mg cada 12h
+
+Otras recomendaciones / Altres recomanacions
+.
+
+
+
+Firma/Signatura1: _NAME_		Firma/Signatura2: _NAME_ Categoría: Resident 2	Categoría: Consultor/a 1
+Nº Matrícula _SS_: _ID_	Nº Matrícula _SS_: _ID_ Fecha/Data Informe: 13.03.2017
+Hora Informe: 10:23:33
+
+Docum.: _ID_
+Hist. Clínica: _ID_
+El _SS_ ha incorporado sus datos al Fichero de Pacientes, para tratarlos con fines sanitarios.
+Puede ejercer sus derechos de acceso, rectificación, cancelación y oposición, así como obtener mas información en la Unidad de Atención al Cliente.
+Vers. 00
+Pag. 2 de
+4
+Episod.: _ID_
+_SS_ ha incorporat les seves dades al Fitxer de Pacients, per a tractar-los amb finalitats sanitàries. Pot exercir els seus drets d'accés, rectificació, cancel·lació i oposició, i obtenir més informació a la Unitat d'Atenció al Client.
+_SS_
+_LOCATION_) _LOCATION_) Tel. _CONTACT_ Fax _CONTACT_
+http://_CONTACT_/

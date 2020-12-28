@@ -1,0 +1,154 @@
+_LOCATION_ Tel. _CONTACT_
+e-mail: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 77 Anys
+NIF/DNI: _ID__NAME_; _NAME_; _NAME_;
+_NAME_
+Informe d'alta d'hospitalització
+17:00:00
+03.11.2017
+_LOCATION_
+_SS_ NEUROLOGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_; _CONTACT_
+DOMICIL/RES.SOC 28.10.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Pacient que ingressa per sospita d'Ictus.
+
+ANTECEDENTS
+Home de 77 anys, sense al·lèrgies medicamentoses conegudes. Independent per a ABVD. mRS 0.
+
+ANTECEDENTS PATOLÒGICS:
+-	Hipertensió arterial
+-	Dislipèmia
+-	Pròtesi mecànica aòrtica per IAo en tractament anticoagulant
+-	Hematúria en estudi
+-	Adenocarcinoma de colon pT1N0M0 intervingut el 2003 Rankin previ:0
+MEDICACIÓ HABITUAL
+Sintrom segons pauta Losartan 25 mg/dia
+Atorvastatina 10 mg/dia
+Atenolol 50 mg/dia
+
+PROCÉS ACTUAL
+El 28/10/17 mentre està visitant la seva dona a _SS_ presenta, a les 7:30, debilitat brusca d'extremitats dretes i alteració de l'emissió del llenguatge pel que s'activa codi ictus a les 8:25 i arriba al nostre centre a les 8:39.
+
+EXPLORACIÓ FÍSICA
+
+FC	94 bpm
+Tªaxi 35.9 ºC
+FR	rpm Tªrec  ºC
+TA s	119 mmHg SAT O2  %
+TA d   64 mmHg Pes Kg
+
+Glicèmia capil·lar:100
+
+NIHSS total de19  (0.2.2.1.2/2(2.0)(2.0)/0.1.3.2. 0 )
+Conscient, orientació no valorable. Hemianòpsia homònima dreta per reflex d'amenaça, desviació no forçada oculocefàlica a la dreta. Parèsia facial central dreta, hemiparèsia dreta. Probable hemihipoestèsia dreta. Afàsia global. RCP extensor dret, flexor esquerre.
+
+EXPLORACIÓN A L'INGRÉS A UNITAT D'ICTUS:
+Conscient i orientat. Disminució de la fluència verbal, nomina 5/5, evoca 4/5. Parells cranials i força conservats. Hipoestèsia braquiocrural dreta lleu.
+
+Informe d'alta d'hospitalització
+
+
+
+
+NIHSS: 0.0.0.0.0/0.0.0.0.0/0.1.1.0.0 = 2.
+
+
+EXPLORACIÓ COMPLEMENTÀRIA
+PROVES COMPLEMENTÀRIES A URGÈNCIES:
+
+ECG: ritme sinusal a 70 x'. Sense alteracions agudes de la repolarització.
+
+Analítica d'urgències: Hematologia (28/10/17): Leucocitos 6200 /µL, (N 48,8 % / L 31 / M 16 / E 3,6 / B 0,6), Htíes 4,86 mill/µL, Hb 15,7 g/dL, Hcto 45,9 %, VCM 94,5 fL, Plaquetes 124000 /µL, TP 41 %, INR 2 sg, TP ratio 2,01,
+TTPA 35,3 sg, TTPA ratio 1,14, Fibrinógeno 326 mg/dL.
+Bioquimica (28/10/17): Glucosa 117 mg/dL, Urea 42,8, Creatinina 0,84, Na 138 mmol/L, K 3,6, CK 88 U/L, Prot-C
+reactiva 1,1 mg/L.
+Eq Venoso (28/10/17): pH 7,44, pCO2 38 mmHg, pO2 68, HCO3 25,8 mmol/L, Exc Base 1,7, Sat O2 95,9 %.
+
+TAC cranial i angioTC: TC SIMPLE:
+No se observan lesiones hemorrágicas ni isquémicas agudas. ASPECTS 10. Hiperdensidad espontánea del segmento M1 distal - M2 de la arteria ACM izquierda. Infartos isquémicos lacunares crónicos de ganglios basales bilaterales. Leve hipoatenuación de la sustancia blanca periventricular y subcortical bilateral simétrica y difusa compatible con desmielinización de características inespecíficas de probable causa isquémica crónica. Prominencia de surcos de la convexidad infra y supratentoriales de forma proporcionada al tamaño del sistema ventricular compatible con atrofia cerebral difusa. Cisternas basales y perimesencefálicas libres. Línea media centrada. No se aprecian alteraciones óseas TC valorables. Sin otras alteraciones parenquimatosas ni extraaxiales TC valorables.
+ANGIO-TC TSA E INTRACRANEAL.:
+Pequeñas placas de ateroma calcificadas en ambas bifurcaciones carotídeas sin estenosis significativas. Defecto de repleción de contraste ev en el segmento distal de la M1 - segmento proximal M2 de la arteria cerebral media izquierda. Resto de vasos arteriales intracraneales permeables.
+
+Rx tórax: sin hallazgos.
+
+
+PROVES COMPLEMENTÀRIES A UIA:
+
+Analítica d'ingrés:
+Hematologia (30/10/17): Leucocitos 9000 /µL, (N 49,1 % / L 34,8 / M 13 / E 2,5 / B 0,6), Htíes 4,13 mill/µL, Hb 13,2 g/dL, Hcto 39,6 %, VCM 96 fL, Plaquetes 107000 /µL, TP 78 %, INR 1,2 sg, TP ratio 1,2, TTPA 44,9 sg, TTPA ratio 1,45, Fibrinógeno 411 mg/dL.
+Bioquimica (30/10/17): Glucosa 96 mg/dL, HbA1c 5,2 %, Urea 33 mg/dL, Creatinina 0,92, Filtrado glomerular estimado 80 mL/min/1.73 m2, Ca 8,6 mg/dL, Fosfato 2,3, Mg 1,86, Na 142,2 mmol/L, K 4,41, Cl 108,1, ALT 14
+U/L,  GGT  24,  FA  51,  Bilirrubina  1,3  mg/dL,  CK  122  U/L,  Prot-C  reactiva  12,7  mg/L,  Proteína  56,9  g/L.
+Proteinograma.- Alb 34, a1·Glob 2,7, a2·Glob 4,3, ß·Glob 6,8, ?·Glob 9. Hormonas (30/10/17): TSH 1,2 µUI/mL.
+Orina (30/10/17): Densidad 1,016, pH 5,5, Proteína 0 mg/dL, Glucosa [-], C Cetonicos 5 mg/dL, Bilirrubina [-], Hb [-], Urobilinogeno 0,2 mg/dL, Nitritos [-], Esterasa leucocitica 0 leucos/µL, Bacterias 58, Eritrocitos 10-20 /cmp, Leucocitos 1-2.
+
+Informe d'alta d'hospitalització
+
+
+
+
+
+TC cranial control 24h:
+No se observan lesiones hemorrágicas ni isquémicas agudas. Leve hipoatenuación de la sustancia blanca periventricular y subcortical bilateral simétrica y difusa compatible con desmielinización de características inespecíficas de probable causa isquémica crónica. Prominencia de surcos de la convexidad infra y supratentoriales de forma proporcionada al tamaño del sistema ventricular compatible con atrofia cerebral difusa. Cisternas basales y perimesencefálicas libres. Línea media centrada. No se aprecian alteraciones óseas TC valorables. Sin otras alteraciones parenquimatosas ni extraaxiales TC valorables.
+
+Ecocardiograma transesofágico: 	
+-	Ventricle esquerre no dilatat moderadament hipertròfic normocontràctil
+-	Aurícula esquerra lleugerament dilatada.
+-	Orelleta sense trombus
+-	Foramen oval no permeable
+-	lleugera insuficiència mitral
+-	Arrel aòrtica i aorta ascendent lleugerament dilatades.
+-	Pròtesi mecànica bidisc en posició aòrtica normofuncionant. sense imatges de trombus
+-	Discreta ateromatosi aòrtica sense plaques protuients ni complicades
+
+EVOLUCIÓ CLÍNICA
+Home de 77 anys, mRS 0, porador de valvula aòrtica mecànica en tractament amb sintrom, que presenta una clínica de TACI esquerra de menys de 4.5 h d'evolució, NIHSS 19, amb una TC simple sense lesions isquèmiques agudes ni hemorràgies, angioTC amb oclusió de M2 proximal. Per INR =2.1 es decideix tractament endovascular primari. Entra a la sala d'angiografia a les 09:55h amb punció femoral a les 10:17h. En l'estudi angiogràfic basal (10.25h) s'observa oclusió de segment M1 distal d'artèria cerebral mitja esquerra. Es realitza un primer pase de Solitaire a les 10.35h que no es efectiu. Després d'un total de 3 pases de Solitaire i un pase de dispositiu Aperio s'aconsegeix la recanalització arterial completa (TICI 3) a les 11.20h i es dona per finalitzat el procediment. No es produeixen complicacins al llarg de l'intervenció. El pacient ingressa a l'Unitat d'Ictus.
+
+Durant les primeres hores d'ingrés a l'Unitat d'Ictus presenta milloria clínica significativa persistint a les 24h únicament afasia lleu i hipoestesia dreta, NIHSS 2, que posteriorment queda assimptomàtic. En TC cerebral de control no s'evidencien lesions isquèmiques ni complicacions hemorràgiques, pel que s'inicia anticoagulació amb HNF. L'ecocardiografia transtoràcica inicial no mostra trombosis valvular. Es repeteix amb accés transesofàgic que tampoc mostra troballes, pel que el 31/10/2017 es reinicia Sintrom.
+
+Per tant, es tracta d'un ictus isquèmic d'ACM esquerre amb trombus M1 repermeabilitzat mitjaçant trombectomia mecánica primaria exitosa amb recuperació completa de la clínica, de probable mecanisme embòlic i etiologia cardioembòlica en pacient anticoagulat per protèsi valvular mecànica aòrtica que havia interrumput el tractament anticoagulant oral els dies previs per la realització d'una colonoscòpia i que acut amb INR infrarrang..
+
+NIHSS al alta : 0 mRS al alta: 0
+
+DIAGNÒSTICS
+436/5 Ictus isquémico agudo de territorio de arteria cerebral media izquierda de mecanismo embólico y etiología cardioembólica en contexto de retirada de sintrom
+
+Informe d'alta d'hospitalització
+
+
+
+
+272.4/1 Dislipemia
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Sintrom segons pauta
+
+RESTA DE LA SEVA MEDICACIÓ HABITUAL.
+
+
+CONTROL
+Control por neurólogo de zona.
+Control de Sintrom en su ambulatorio habitual.
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+03.11.2017
+Pàgina 1 de 4

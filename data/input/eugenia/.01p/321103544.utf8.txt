@@ -1,0 +1,111 @@
+I.CLINIC DE NEUROCIÈNCIES I064 SALA G DE NEUROL. INTERM.
+_NAME_	NHC: _ID_
+
+
+Sexo/Sexe: Fem.	Fecha nac./Data naix.: _DATE_	Edad/Edat: 83 años Dirección/Adreça: _LOCATION_	CP: _LOCATION_
+Municip. (Prov.): _LOCATION_  ABS:_SS_	Tel.:_CONTACT_
+As.: _NAME_	CIP: _ID_	NASS: _ID_
+Nº epis.: _ID_	Tipo/Tipus: HOSPIT.	Ingres.: 04.01.2017 Serv: NEUROLOGIA	UO Enf.: G064 SALA G DE NEUROLOGIA	Hora: 15:42:50
+Facult. de ref.: _NAME_
+
+
+
+
+Tipo ingreso/Tipus ingrés: Urgent	Motivo/Motiu alta: Dom. Familiar
+Diag.:
+ICTUS ISQUÉMICO ACMI (434.91) INFECCIÓN RESPIRATORIA GRIPE A ()
+Proc.:
+
+
+
+
+INFORME CLÍNICO ALTA / INFORME CLÍNIC ALTA
+
+Motivo de consulta / Motiu de consulta
+Alteración del habla de inicio súbito.
+
+Antecedentes e historia previa / Antecedents i història prèvia
+Mujer  de  83  años,  sin  alergias  medicamentosas  conocidas  ni  hábitos  tóxicos.  Independiente para  las actividades básicas de la vida diaria. Vive sola en domicilio. mRS 0.
+*ANTECEDENTES PATOLÓGICOS:
+1.	HIPERTENSIÓN ARTERIAL en tratamiento farmacológico.
+2.	FIBRILACIÓN AURICULAR: realizó tratamiento con sintrom que se suspendió tras cuadro de hemorragias digestivas. Actualmente sin tratamiento anticoagulante
+3.	HEMORRAGIA DIGESTIVA DE REPETICIÓN. Se ha realizado estudio sin objetivarse lesiones.
+*	04/2012: ingreso por hemorragia digestiva alta: FCS sin alteraciones evidentes. Cápsula endoscópica normal.
+*	06/2012: Eventración pericolostomía. Perforación intestinal por espina de pescado. Resección intestinal.
+*	08/2012 VOLVULO MESENTERICO --> LAPAROTOMIA EXPLORADORA: DESVOLVULACION DE ID ALREDEDOR DE COLOSTOMIA + CIERRE DE EVETRACION PERICOLOSTOMIA.
+*	09/2012: FGS: Exploración dentro de la normalidad.
+*	09/2012 FCS: Colonoscopia normal.
+*	11/2012 Capsula endoscopica: ESTUDIO DE INTESTINO DELGADO COMPATIBLE CON LA NORMALIDAD.
+Último ingreso por hemorragia digestiva en diciembre de 2017.
+4.	COLITIS ISQUÉMICA en enero de 2017. Durante el ingreso GRIPE A.
+5.	PERFORACIÓN INTESTINAL post colononoscopia (estudio de rectorragias en la que se biopsiaron 2 pólipos) que requirió sigmoidectomía + Hartmann por laparoscopia en febrero de 2012.
+6.	TUBERCULOSIS PULMONAR en la infancia.
+7.	OSTEOPOROSIS.
+8.	SÍNDROME ANSIOSO DEPRESIVO.
+
+*TRATAMIENTO HABITUAL: Omeprazol 20 mg/24h, Diltiazem retard 180 mg/24h, Torasemida   10mg/24h, Lormetazepam 2mg/24h, AAS 100 mg cada 24 horas, Pentasa cada 24 horas, trazodona 50mg/24h
+
+
+
+
+
+Proceso actual / Procés actual
+Paciente dada de alta el 27/12 por enterorragias y infección por gripe A. En la mañana del 04/01, tras verla asintomática sobre las 09/.15h, es encontrada a las 10.00h con dificultad para el habla sin otra focalidad añadida.
+
+Exploración física / Exploració física
+PAS (mm Hg) 104, PAD (mm Hg) 44, Pulsioximetría (%) 97, Tª axilar (ºC) 36. Frecuencia respiratoria (r pm) 13. Glicemia capilar (mg/dl) 82.
+NRL: Consciente. Orientada en persona pero no en tiempo. Lenguaje hipofluente sin alteraciones. Disartria moderada. Mirada centrada sin limitaciones. Campimetría por confrontación sin déficits. Paresia facial leve derecha. Resto de pares craneales sin alteraciones. Balance muscular conservado. Sensibilidad sin alteraciones. No dismetrías. NIHSS 3.
+
+Laboratorio / Laboratori
+**ANALÍTICA SANGUINEA: BIOQUÍMICA GENERAL Glucosa 121/A mg/dL Creatinina 1.21 mg/dL Filtrat glomerular calculat [CKD-EPI] 41.46 ml/min/ Sodi 140 mEq/L Potasi 4.4 mEq/L HEMATIMETRIA Recompte de leucòcits 5.84 10^9/L Recompte d´hematies 5.15 10^12/ Concentració d´hemoglobina 141 g/L Hematòcrit
+0.440 L/L VCM (Vol. corpusc. mitjana eritròcits) 85.3 fl HCM (Hb corpusc. mitjana) 27.4 pg Recompte plaquetes 169 10^9/L HEMOSTÀSIA GENERAL Temps de protrombina (%) 97.7% INR 0.98
+
+Radiología / Radiologia
+**RADIGRAFÍA DE TÓRAX bien inspirada, no rotada. Sin evidencia de lesiones en partes blandas y óseas. Sin condensaciones ni infiltrados en campos pulmonares. Sin pinzamiento de los senos costofrénicos. Índice cardiotorácico<0.5.
+**TAC MULTIMODAL: - TC BASAL: No se aprecian lesiones encefálicas hemorrágicas, colecciones yuxtadurales, ni hemorragía subaracnoidea. No se observa perdida de la diferenciacion cortico-subcortical ni otros signos de isquemia aguda. ASPECTS 10. Disminución de la atenuación de la sustancia blanca supratentorial, en situación periventricular y coronas radiadas, que sugieren compromiso microangiopático. Sistema ventricular de morfología y amplitud normal. Cisternas de la base libres. Estructuras de la línea media centradas. - TC PERFUSION CEREBRAL: Retraso en los mapas de tiempo en el cortex premotor izquierdo con disminucion de flujo y volumen en dichos territorios, sin observarse discordancia entre dichos mapas. - ANGIOTC EXTRA INTRACRANEAL: Placas de ateroma en cayado aórtico, arterias subclavias y sifones carotideos, que no producen estenosis secundaria. Arterias carótidas de calibre normal y permeables sin otros signos de ateromatosis. Defecto de repleccion que sugiere oclusión de segmento M3-M4 de arteria prefrontal izquierda. Arterias cerebrales anteriores, poligono de Willis y resto de circulacion intracraneal sin otros defectos de repleccion. Arterias vertebrales, tronco basilar y arterias cerebrales posteriores permeables. Resto de la circulacion intra y extracraneal sin otros signos de ateromatosis ni defectos de repleccion. Bocio asociado a nódulo tiroideo derecho de 6 cm de diametro máximo, se recomienda completar estudio con ecografia.
+
+Exploraciones complementarias / Exploracions complementàries
+
+* ECOCARDIOGRAFÍA TRANSESOFÁGICA
+- Ventricle esquerre lleugerament hipertròfic (septum basal sigmoide) no dilatat. Motilitat global i segmentaria normals. - Ventricle dret lleugerament dilatat amb motilitat conservada. - Auricula esquerra moderadament dilatada amb ecocontrast espontani al seu interior, auricula dreta severament dilatada. Septum interauricular sense defectes. - Orelleta esquerra amb morfologia "coliflor" multilobulada a nivell distal (135º) i aspecte bilobulat en pla 60º. Hipocontràctil (velocitat de rentat 21 cm/s) però sense trombus al seu interior. - Vàlvula aòrtica trivalva, esclerosa, normofuncionant. - Aorta ascendent lleument dilatada. - Insuficiència  mitral   molt   lleugera.   Calcificació  lleu   de   l'anell   mitral.   -   Insuficiència  tricuspídea
+
+
+
+moderada-severa secundaria a falta de coaptació dels vels. Intermitja probabilitat de presentar hipertensió pulmonar. - Vena cava dilatada amb colapse < 50% a la inspiració. - No es detecta vessament pericàrdic. - Aorta toràcica explorada fins a 35 cm de l'arcada dentaria amb diverses plaques ateroscleròtiques calcificades no complicades
+
+Evolución / Evolució
+1.- ICTUS ISQUÉMICO EN EL TERRITORIO DE LA ARTERIA CEREBRAL MEDIA IZQUIERDA (ACMI). OCLUSIÓN M3-M4.
+A su llegada a urgencias hemodinámicamente estable,afebril. A la exploración neurológica destaca disartria moderada y paresia facial leve derecha (NIHSS 3). Analítica sin alteraciones. ECG en fibrilación auricular ya conocida. La neuroimagen (TC craneal multimodal) no muestra lesiones isquémicas agudas en la secuencia basal. AngioTC que sugiere oclusión del segmento M3-M4 de la ACMI. En los mapas de perfusión se observa retraso en territorio dependiente.
+Se trata de un ictus de ACMI de etiología cardioembólica en paciente con fibrilación auricular conocida no anticoagulada. Dado el antecedente de hemorragia digestiva reciente no se considera candidata a tratamiento fibrinolítico y por oclusión de rama distal se desestima tratamiento endovascular. Se inicia tratamiento antiagregante con AAS. Dado el antecedente de hemorragia digestiva baja de repetición no sería candidata de tratamiento anticoagulante.
+Se realiza ecocardiografía transesofágico que muestra ecocontraste positivo en orejuela izquierda.
+Se comenta el caso con hemodinámica cardiaca para valorar posibilidad de cierre orejuela izquierda dada la contraindicacion de anticoagulación crónica por varios epsidios de hemorragia digesiva.
+Durante su estancia en neurología la paciente permanece estable clínicamente, encontrandose asintomática al alta.
+NIHSS:0	TOAST: Cardioembólico	mRs:1 Control por Neurologia en 6 meses
+2.- INFECCIÓN RESPIRATORIA POR VIRUS DE LA GRIPE A.
+Durante su ingreso en el servicio de Gastroenterología se objetivó infección respiratoria por gripe A. Por dicho motivo, se inició tratamiento con oseltamivir (al ingreso en nuestro servicio 3º día de la pauta antiviral).
+En neurología la paciente se mantiene afebril con discreta tos seca. Se pauta oseltamivir que lo recibe durante 2 días hasta completar pauta.
+
+Plan terapéutico / Pla terapèutic
+Mismo tratamiento como hasta ahora. Continuar con antiagregación con aspirina.
+
+Otras recomendaciones / Altres recomanacions
+Se contactará por parte de servicio de cardiología para programación de tratamiento del cierre de orejuela y visita preanestésica.
+
+
+
+Firma/Signatura1: _NAME_	Firma/Signatura2: _NAME_ Categoría: Resident 2	Categoría: Consultor/a 1
+Nº Matrícula HCP: _ID_	Nº Matrícula HCP: _ID_ Fecha/Data: 10.01.2017
+Hora: 15:44:57
+
+Docum.: _ID_
+Hist. Clínica: _ID_
+El _SS_ ha incorporado sus datos al Fichero de Pacientes, para tratarlos con fines sanitarios.
+Puede ejercer sus derechos de acceso, rectificación, cancelación y oposición, así como obtener mas información en la Unidad de Atención al Cliente.
+Vers. 00
+Pag. 2 de
+3
+Episod.: _ID_
+_SS_ ha incorporat les seves dades al Fitxer de Pacients, per a tractar-los amb finalitats sanitàries. Pot exercir els seus drets d'accés, rectificació, cancel·lació i oposició, i obtenir més informació a la Unitat d'Atenció al Client.
+_SS_
+_LOCATION_) _LOCATION_) Tel. _CONTACT_ Fax _CONTACT_
+_CONTACT_/

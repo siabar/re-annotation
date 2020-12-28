@@ -1,0 +1,126 @@
+_LOCATION_
+email: _CONTACT_ Telèfon _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 70 Anys
+NIF/DNI: _ID__NAME_; _NAME_; _NAME_
+Informe d'alta d'hospitalització
+14:00:00
+24.05.2017
+_LOCATION_
+_SS_ NEUROLOGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_; _CONTACT_
+DOMICIL/RES.SOC 07.05.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Mujer de 70 años que ingresa por probable ictus en territorio vertebro-basilar.
+
+ANTECEDENTS
+-	No alergias medicamentosas conocidas.
+-	Exfumadora
+
+-Hipertensión arterial en tratamiento farmacológico con regulares controles tensionales. Seguimiento por médico de cabecera.
+-Dislipemia en tratamiento con estatinas y fibratos
+-Diabetes mellitus en tratamiento insulínico y control por endocrinología. Presenta malos controles de su DM por transgresiones dietéticas y por no realizar correctamente el tratamiento. Como complicaciones presenta retinopatía diabética severa en seguimiento por oftalmología de este centro y posible polineuropatía diabética (no consta estudio electrofisiológico). Presenta malos controles metabólicos crónicos, con última HbA1c de 04/2016 de 13,8
+%
+-Osteopenia en tratamiento sustitutivo
+-Probable nefropatía diabética en forma de proteinuria masiva (500mg/dL) sin hipoaluminemia, con función renal normal. En seguimiento en CCEE de NFR. Consta estudio: ANA + 1/80, anti DNA negativo, ANCA negativo, anti Pr3 y anti MPO negtivo, anti MBG negativo, anti PLA2R negativo. Pendiente relización de ecografía abdominal.
+-Ingreso en unidad de ictus del 11 al 13 de abril por sospecha de ictus vertebro-basilar de etiología aterotrombótica. Fue dada de alta con doble antiagregación y atorvastatina a altas dosis sin lesión sugestiva de ictus agudo. Reconsulta en 16/04 por debilidad generalizada, dudosa paresia facial derecha y mareo, con mejoría de la clínica durante su estancia en urgencias, siendo dada de alta ante estudio reciente sin alteraciones. Las pruebas realizadas fueron las siguientes:
+*TC craneal + angioTC: lesión isquémica lacunar crónica y una dudosa hipoatenuación que afecta parte lateral del tálamo derecho y el brazo posterior de la cápsula interna derecha que podría corresponder a lesión isquémica aguda/subaguda, a correlacionar con clínica de la paciente/control evolutivo. AngioTC craneal que muestra un ateromatosis difusa, de predominio en segmento C2 de la carótida derecha, con permeabilidad distal, así como de las principales ramas que conforman el polígono de Willis.
+*EcoDoppler TSA: Placas en ambas ACC que no condicionan estenesis pese a su tamaño. Placas en ambas ACI sin estenosis asocidas. Flujo conservado en AV extracraneal con dominancia en AV izquierda sin estenosis de ostiums. DTC: mala ventana transcraneal que solo permite detección de flujo conservado en ACP derecha. Flujo amortiguado en V4 izquierda (VPS 20cm/s), flujo conservado en V4 derecha (VPS 80cm/s). Flujo basilar proximal presente con VPS entorno a 100cm/s.
+*RNM cerebral: No se observan lesiones isquémicas recientes. Infartos lacunares crónicos en circulación peroforante anterior bilateral y posteior izquierda, asi como leucoaraiosis grado II de la escala de Fazekas; en relación a enfermedad cerebrovascular de pequeño vaso. Ateromatosis intracraneal destacando principalmente: irregularidad  M1-ACM  izquierda  (asociando  estenosis  de  grado  moderado),  estenosis  focal  moderada  en V4-vertebral izquierda con V4 derecho hipoplásico e irregular, tercio medio de ACP derecha de pequeño calibre y con baja señal de flujo.
+*Telemetría cardiaca: sin arritmias potencialmente embolígenas tras 72h de monitorización.
+*Ecoscopia cardiaca ictus: Alta carga ateroesclerótica con afectación de cayado y ostiums sin objetivarse
+
+Informe d'alta d'hospitalització
+
+
+
+
+ateromatosis aórtica complicada. Calcificación anillo mitral. Aurícula izquierda dilatada
+-Nueva consulta a urgencias el día 03.05 por sensación de mareo, cefalea punzante sensación de ahogo y palpitaciones, junto con debilidad generalizada de predominio derecho.Valorada por NRL de guardia se realizó TC craneal sin cambios y ecoDoppler de carótidas, vertebrales y transcraneal en el que presentaba estenosis <50% ACM-M1 izq y <50% AV-V4 I. Ante la dificultad de catalogar el cuadro, se decidió iniciar tratamiento con amitriptilina por el cuadro de cefalea punzante.
+
+Situación sociofuncional: vive en domicilio con su sobrina. IABVD. mRS=0
+
+MEDICACIÓ HABITUAL
+AAS 100mg 1 comp/día vo, Clopidogrel 75mg 1 comp/día vo, Ranitidina 300mg 1 comp/día vo, Bisoprolol 5mg 1 comp/día vo,
+Valsartan 160mg/24h, furosemida 40mg al día (1.5-0-0), atorvastatina 80mg, calcio + vitamina D, lantus 20 UI/día (por la mañana), novorapid 15-15-15 UI
+
+PROCÉS ACTUAL
+La paciente es traída a urgencias por mareo y debilidad de extremidades derechas, aparentemente del despertar sobre las 8.30 del día de hoy 05.05. No obstante, refieren ayer mareo, sin poderse incorporar acostándose así. Niega diplopía. No pérdida del nivel de consciencia. Hora de llegada 13.28h.
+
+EXPLORACIÓ FÍSICA
+
+EXP: FÍSICA A URG:
+FC 80 bpm, Tªaxi 35.8 ºC, TA s 119 mmHg, SAT O2 97 %, TA d 69 mmHg
+Vigil. LOC Q 2/2. LOC C 2/2. No déficit campimétrico por confrontación. Lenguaje conservado, habla normal (cierta barrera idiomática pero nomina 3/3, repite correctamente y obedece órdenes). No paresia ni hipoestesia facial. Balance motor en EE izquierdas 5/5. Balance motor en EE derechas 3/5 proporcionado. Hemihipoestesia D. No dismetrías en dedo nariz izquierdo.
+
+Exploración en Unidad de ictus:
+Vigil. LOC Q 2/2. LOC C 2/2. No déficit campimétrico por confrontación. Lenguaje conservado, disartria inteligible (1). Paresia facial pseudoperiférico (3). Hemiparesia braquiocrural Derecha 4/5 proporcionado (1+1). Hemihipoestesia ipsilateral (1). Dismetria en ambos MMSS , derecha proporcional a paresia (2). NIHSS 9
+
+Exploración en Planta de NRL:
+Vigil, alerta, orientada en las 3 esferas. No alteración del lenguaje ni del habla. Campimetría por confrontación conservada. Paresia facial de patrón pseudoperiférico (3). Paresia braquial derecha (1) y crural ipsilateral (1). Hemihipoestesia derecha (1). Marcha inestable. NIHSS 6
+
+EXPLORACIÓ COMPLEMENTÀRIA
+URGENCIAS
+-TC craneal multimodal: Estudio urgente que no muestra hallazgos sugestivos de  evento isquémico agudo. Hipodensidad en hemi-protuberancia izquierda y en región central bulbar, parcialmente visualizadas en TC previo, compatibles con ictus crónicos de perforantes. Múltiples infartos lacunares crónicos. Marcada ateromatosis difusa con múltiples estenosis de arterias carótidas internas  y ACM izquierda,  ya conocidas.  Resto del estudio sin
+
+Informe d'alta d'hospitalització
+
+
+
+
+cambios significativos respecto RM previa del 13.04.2017.
+-Analítica general: Hb 11.3g/dL, Hto 35.2%, VCM 90fL, HCM 28.9pg, leucocitos 7330 (N 5900, L 800, M 500), plaquetas 214000, GOT 22 UI/L, GPT 24 UI/L, Ca 8.6mg/dL, Crea 1.5mg/dL, glucosa 273mg/dL, K 4.06 mmol/L, Na 133.8 mmol/L, proteína 6.4g/dL, urea 94mg/dL, FG 35 mL/min.
+-ECG: ritmo sinusal a 80 lpm, PR 0.20, QRS estrecho, sin alteraciones de la repolarización.
+
+UNIDAD DE ICTUS y PLANTA DE NEUROLOGÍA
+-Analítica general de ingreso: Urea 70, Creatinina 1.03, Urat 7.5, Proteína 6.5, Albúmina 3.4, resto normal
+-RM cerebral:
+-Angiografía: La serie de ACi izquierda no muestra alteraciones intra/extracraneales, no se observa AcomPosterior. La serie de ACi derecha no muestra alteraciones, la ACP derecha depende de ACI derecha. La serie de A vertebral izquierda no muestra estenosis significativa tributaria de tratamiento y se rellena sin alteraciones significativas hasta ACP izquierda.
+-Agregometría: AAS: respon al tractament. (544), CLOPIDOGREL : és hipo responedor (276)
+-Agregometría control: (informe provisional) no respon al tractament.
+
+EVOLUCIÓ CLÍNICA
+Mujer de 70 años con factores de riesgo vascular, con antecedente de POCI de probable etiología aterotrombótica el 12.04.2017. En dicho ingreso previo se completo estdiioo etiológico en el que en RM cerebral no se evidenciaron lesiones isquémicas agudas pero sí se detectaron infartos crónicos en territorio de perforantes de territorio anterior bilateralmente y posterior izquierdo, así como estenosis intra- y extracraneales (M1 izquierda, V4 izquierda) en estudio sonográfico y escopia cardaica y telemetría que descartaron la presencia de patología embolígena mayor. La paciente acude en esta ocasión por nuevo episodio de mareo, inestabilidad de la marcha y hemiparesia D del despertar. A su llegada qa urgencias se constata hemiparesia derecha (facial y braquiocrural D 3/5) junto con hemihipoestesia ipsilateral. Se realiza TC craneal urgente multimodal que no muestra lesiones de nueva aparición, con estabilidad de las estenosis intracraneales ya conocidas. Por inicio del despertar y en ausencia de oclusiones intracraneales, se desestima tratamiento de revascularización. Se inician medidas de ictus agudo y se ingresa en Unidad de ictus.
+Desde el ingreso se mantiene clínicamente estable, con tendencia hipertensiva por lo que se reajusta medicación. Durante el ingreso realiza RHB sin incidencias. Se solicita RM encefálica para completar estudio y se mantiene doble antiagregación y estatians a altas dosis. En el ingreso previo se valoró tratamiento sobre arteria vertebral izquierda por lo que se presenta de nuevo en sesión decidiendo esperar a los resultados de la RM.  La analítica de ingreso no muestra alteraciones a destacar. Finalmente la RM muestra un infarto hemiprotuberancial izquierdo por lo que se decide realizar arteriografía diagnóstico-terapeútica. Sin embargo en la angiografía del procedimiento no se observa estenosis significativa tributaria de stent por lo que se decide mantener doble antiagregación y estatinas únicamente. Presenta como complicación del procedimiento hematoma a nivel inguinal realizándose una ecografía que descarta la presencia de pseudoaneurisma. Dada  la mejoría de los déficits y con tratamiento optimizado (doble antiagregación y estatinas) se decide alta para continuar tratamiento y seguimiento ambulatorio. En el momento del alta NIHSS de 7 a expensas de disartria leve (1), PF pseudoperiférica D (3), Hemiparesia BC D leve (1, 1). Hemihipoestesia D (1) mRS 2
+
+DIAGNÒSTICS
+Ictus isquémico VB de probable origen ateromatoso por enfermedad de perforantes. Estenosis intracraneales varias. Ateromatosis de arco aórtico no complicada.
+
+Informe d'alta d'hospitalització
+
+
+
+PROCEDIMENTS
+TC craneal RM craneal
+Arteriografía diagnóstica Agregometría
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Dieta sin sal diabetica baja en grasas Ejercicio fisico que tolere
+Suspender Adiro 100mg y Clopidogrel 75mg Añadir a su medicación habitual:
+-	AAS 300mg, 1 comprimido cada 24 horas después de comer
+-	Brilique 90 mg, 1 comprimido cada 12 horas
+
+CONTROL
+Control en CCEE Neurovascular como tenía previsto Control por resto de especialistas como tenga previsto Control estrecho de factores de riesgo vascular por CAP
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+24.05.2017
+Pàgina 1 de 4

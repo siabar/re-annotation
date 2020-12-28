@@ -1,0 +1,120 @@
+I.CLINIC DE NEUROCIÈNCIES NEUROLOGIA
+_NAME_	NHC: _ID_
+
+Sexo/Sexe: Fem.	Fecha nac./Data naix.: _DATE_	Edad/Edat: 72 años
+Dirección/Adreça: _LOCATION_		CP: _LOCATION_
+Municip. (Prov.): _LOCATION_  ABS:_SS_		Tel.:_CONTACT_ TUTELA
+As.: SERVEI CATALA DE LA SALUT	CIP: _ID_	NASS: _ID_
+Nº epis.: _ID_	Tipo/Tipus: HOSPIT.	Inici.: 06.12.2017
+Serv: NEUROLOGIA	UO Enf.: G064 SALA G DE NEUROLOGIA	Hora: 13:49:06
+Facult. de ref.: _NAME_
+
+
+
+
+Tipo ingreso/Tipus ingrés: Urgent	Motivo/Motiu alta: Dom. Familiar
+Diag.:
+OCLUSION DE ART. CEREBRAL NO ESPECIF. CON INFARTO CEREBRAL (434.91)
+Proc.:
+TROMBECTOMÍA MECÁNICA ()
+TC MULTIMODAL. TC CONTROL. () ECO-DOPPLER TSA Y DTC ()
+
+
+
+
+INFORME CLÍNICO ALTA / INFORME CLÍNIC ALTA
+
+Motivo de consulta / Motiu de consulta
+Alteración del lenguaje y debilidad de extremidades derechas.
+
+Antecedentes e historia previa / Antecedents i història prèvia
+Antecedentes personales: Mujer de 72 años, sin alergias medicamentosas conocidas. Fumadora de 10 cig/día, ex-enolismo. Tiene dos hijas. Vive en una residencia, dependiente por su patología psiquiatrica (mRS3).
+
+ANTECEDENTES PATOLÓGICOS
+1.	ESQUIZOFRENIA PARANOIDE de larga evolución, incapacitada, vive en residencia. Estable.
+2.	EPISODIOS DE DISMINUCIÓN DEL NIVEL DE CONCIENCIA transitorios con caídas de repetición, que han motivado varias consultas a servicios de urgencias, sin diagnóstico claro.
+3.	DIVERTICULOSIS.
+4.	INTERVENIDA QUIRÚRGICAMENTE de fractura de húmero izquierdo en Feb/16.
+
+MEDICACIÓN  HABITUAL  (06/12/17):  -  Omeprazol  20  mg/24h  -  Modecate  (Flufenazina)  inyectable  25 mg/mensual - Paracetamol 500 mg/24h - Risperidona 1 mg/noche.
+
+Proceso actual / Procés actual
+Es traída por el SEM como código ictus por presentar, el día 06/12/17 sobre las 10h de la mañana, alteración del lenguaje y debilidad de extremidades derechas.
+
+Exploración física / Exploració física
+06/12/2017-14:29:31: Frecuencia respiratoria (rpm) 28, Glicemia capilar (mg/dl) 132, PAS (mm Hg) 170, PAD (mm Hg) 75, Pulsioximetría (%) 96, Pul so (ppm) 80, Tª axilar (ºC) 36.5. 06/12/2017-16:00:00 : FiO2 (%) 31.
+Hipertensa a PAS 170 mmHg, eupneica en reposo. Afebril. CCV: tonos rítmicos AR: roncus y broncospasmo
+NRL: consciente, ojos abiertos. Orientación no valorable. Mutista, no emite sonidos ni comprende órdenes
+
+simples (ni por imitación), tampoco repite. Mirada conjugada centrada sin limitaciones a la excursión visual, reflejo de amenaza derecho ausente, izquierdo presente. Paresia facial derecha moderada. Hemiplejia braquiocrural derecha. Hemihipoestesia derecha al estímulo doloroso. Dismetrías, extinciones y negligencias no valorables. NIHSS 24.
+
+Laboratorio / Laboratori
+*	ANALÍTICA SANGUÍNEA: Leucocitosis (12.000) con neutrofilia (80%). Función renal, ionograma, hemograma, hemostasia, perfil tiroidal y nutricional, perfil lipídico LDL/HDL: 133/46. Hemoglobina glicada de 5,5%. Troponinas 0,157>>0,123
+
+*	UROCULTIVO: Negativo.
+*	HEMOCULTIVOS (2 EXTRACCIONES: 7/12/2017 y el 19/12): Negativos.
+
+Radiología / Radiologia
+*	RADIOGRAFÍA TÓRAX: ICT conservado. Sin infiltrados ni condensaciones intraparenquimatosas agudas. Senos CF libres.
+*	TC CRANEAL MULTIMODAL: TC CRANEAL BASAL: No se observa hemorragia intra ni extraaxial. Se observa tenue hipodensidad a nivel de núcleo lenticular e insular izquierdo con pérdida de la diferenciación corticosubcortical sugestivas de infarto agudo en evolución. ASPECTS 8-9. Áreas hipodensas en sustancia blanca periventricular por hipoperfusión cerebral crónica.
+TC PERFUSIÓN: Extenso retraso del TTP con disminución del CBF a nivel frontotemporoparietal, lenticular e insular izquierdos (territorio superficial y profundo de la ACMI). Disminución del CBV a nivel insular izquierdo: Mismatch significativo.
+ANGIO-TC EXTRA E INTRACRANEAL: Ateromatosis calcificada del origen, bifurcación y segmentos cervicales de la arteria carótida interna derecha, con estenosis de aprox. el 50% a nivel del segmento cervical. Defecto de repleción a nivel de la bifurcación de la arteria carótida interna izquierda que se extiende hasta aproximadamente el origen de la ACMI en relación a oclusión. Repermeabilización distal de la ACAI y segmento proximal de la ACMI por ramas colaterales de la circulación anterior y posterior, sin embargo se aprecia un defecto de repleción a nivel del segmento M1 distal de la ACMI en relación a oclusión aguda.
+
+*	TC DE CONTROL post-trombectomia mecánica del ictus: Hiperdensidad basal a nivel lenticular izquierdo, que tras el post- procesado de imágenes corresponde en su totalidada extravasación de contraste e.v. No se observan otras imágenes sugestivas de sangrado. Hipodensidad con pérdida de diferenciación córtico-subcortical a nivel insular y lenticular izquierdo en relación a infarto establecido del territorio de la ACMI.
+
+Exploraciones complementarias / Exploracions complementàries
+** ECG:
+
+*	ECOGRAFÍA DOPPLER POST-TRATAMIENTO ENDOVASCULAR: 1. Stent permeable en la arteria carótida interna izquierda con estenosis residual del 40% en su porción media. 2. Placa de ateroma en la bifurcación carotídea derecha que condicioa una estenois significativa. 3. Estenosis significativa de la arteria carótida externa derecha. 4. Exploración transcraneal subóptima a pesar de lo cual parece parece que existe un trombo a nivel del segmento M1 distal-M2 inferior de la arteria cerebral anterior izquierda. 5. Posible estenosis de menos del 50% en la arteria basilar, aunque no se puede descartar que el aumento de velocidades se deba a un mecanismo compensador de la circulación anterior.
+*	ENDOSCOPIA DIGESTIVA BAJA: Afectación de mucosa colónica en forma de áreas blanquecinas de necrosis y friabilidad, que se extiende desde el ángulo hepático hasta ciego. No se consigue explorar el terminal pero la mucosa del interior de la válvula ileocecal es normal. En colon transverso cercano al ángulo hepático se identifican dos úlceras aisladas. Resto de transverso, descendente y sigma sin lesiones mucosas. Divertículos en sigma sin signos de inflamación ni hemorragia. Signos compatibles con una colitis isquémica, compatible
+*	
+
+
+con una colitis isquémica.
+
+Intervenciones quirúrgicas / Intervencions quirúrgiques
+*	TROMBECTOMÍA MECÁNICA: Se realiza punción femoral derecha. Se realiza cateterización selectiva y la primera serie angiográfica confirma la presencia de una oclusión en tandem, por estenosis filiforme de ACII a nivel de la bifurcación. Se realiza angioplastia con balón 4x40 y liberación de stent Wallstent 9x40. A continuación se realiza aspiración de trombo en ACII distal y se constata una vez extraido trombo a dicho nivel, oclusión TICI 0 de ACMI. Mediante técnica TRAP, solitaire 4x40 y Ace64 tras realizar un único pase, se constata repermeaiblización TICI 2b que tras retirar el catéter balón a nivel más proximal y esperar unos 5 minutos, se convierte en TICI 2c. Mejoría clínica de la paciente en sala. No se detectan incidencias durante ni inmediatamente tras el procedimiento.
+
+Evolución / Evolució
+1.	ICTUS ISQUÉMICO AGUDO EN TERRITORIO DE ARTERIA CEREBRAL MEDIA IZQUIERDA (ACMI). OCLUSIÓN EN TÁNDEM DE ARTERIA CARÓTIDA INTERNA IZQUIERDA (ACII)- ACMI M1 PROXIMAL.
+Mujer de 72 años, dependiente por patología psiquiátrica, fumadora activa, que es traída como código ictus desde la residencia donde vive por mutismo y debilidad de extremidades derechas de inicio súbito.
+A su llegada, hipertensa (170 mmHg); a nivel neurológico destaca sd hemisférico izquierdo extenso (NIHSS 24). El ECG se encuentra en ritmo sinusal. La analítica sanguínea de urgencias muestra una leucocitosis neutrofílica sin otras alteraciones. La neuroimagen a su llegada (TC craneal y mapas de perfusión) muestra un retraso en la perfusión en territorio profundo y superficial de la ACMI con signos de infarto establecido a nivel insular y de putamen (ASPECTS 8), pero con una extensa área de penumbra isquémica. En el estudio vascular (angio- TC) se observa una estenosis filiforme de la arteria carótida interna izquierda asociada una oclusión de la ACMI.
+Se trata de un ictus en el territorio de la arteria carótida interna izquierda de etiología aterotrombótica de unas 2 horas de evolución con una oclusión de gran vaso en tándem, por lo que se procede a tratamiento endovascular, colocándose un stent en la art. carótida interna izquierda previa doble antiagregación (AAS + Clopidogrel) y realizándose trombectomía de la oclusión de la arteria cerebral media, obteníendose una recanalización prácticamente completa (TICI 2C).
+Durante su monitorización en la unidad (>48hs) no se han resgistrado alteraciones del ritmo . Clínicamente experimenta mejoría, principalmente a expensas de la función motora, de forma que al traslado, persiste con una disartria severa y afasia y un reflejo de amenaza asimétrico (más respuesta en lado izquierdo) (NIHSS de 6).
+Al alta deberá seguir con el tratamiento doblemente antiagregante y acudir a ecografía doppler de control y visita en el servicio de neurología con la Dra. _NAME_ el 14 de marzo de 2017, según la cita adjunta.
+
+Al alta: NIHSS de 6; mRS de 3; TOAST: Atertrombótico.
+
+2.	SÍNDROME FEBRIL DE PROBABLE FOCO RESPIRATORIO. Durante su estancia ha presentado fiebre de más de 38º asociado a elevación de reactantes de fase aguda. A la auscultación presenta roncus dispersos. Se ha orientado como una probable infección respiratoria broncoaspirativa y se ha iniciado tratamiento empírico con amoxicilina que se escala posteriormente a tazocel durante 8 días. La respuesta al tratamiento antibiótico ha sido buena y la paciente ha quedado afebril desde entonces.
+
+3.	SINDROME DIARREICO CON RESTOS HEMÁTICOS: PROBABLE COLITIS ISQUÉMICA. Presenta deposiciones diarreicas en número de unas 3-5 al día, asociado a restos hemáticos. Se ha completado el estudio con una colonoscopia programada que ha mostrado hallazgos compatbiles con una colitis isquémica. La evolución ha sido buena, con remisión de la sintomatología. Deberá acudir a consultas externas del serivicio de digestivo en aproximadamente 2 meses (se contactará para aportar la cita).
+
+Plan terapéutico / Pla terapèutic
+
+
+
+Se inicia tratamiento antiagregante con AAS y clopidogrel e hipolipemiante con atorvastatina.
+
+Otras recomendaciones / Altres recomanacions
+Cese del hábito tabáquico. Control de los factores de riesgo cardiovascular por sus médicos habituales.
+
+
+
+Firma/Signatura1: _NAME_	Firma/Signatura2: _NAME_ Categoría: Resident 2	Categoría: Especialista
+Nº Matrícula _SS_: _ID_	Nº Matrícula _SS_: _ID_
+
+Fecha/Data Informe: 18.12.2017
+Hora Informe: 14:54:54
+
+Docum.: _ID_
+Hist. Clínica: _ID_
+El _SS_ ha incorporado sus datos al Fichero de Pacientes, para tratarlos con fines sanitarios.
+Puede ejercer sus derechos de acceso, rectificación, cancelación y oposición, así como obtener mas información en la Unidad de Atención al Cliente.
+Vers. 00
+Pag. 2 de
+4
+Episod.: _ID_
+_SS_ ha incorporat les seves dades al Fitxer de Pacients, per a tractar-los amb finalitats sanitàries. Pot exercir els seus drets d'accés, rectificació, cancel·lació i oposició, i obtenir més informació a la Unitat d'Atenció al Client.
+_SS_
+_LOCATION_) _LOCATION_) Tel. _CONTACT_ Fax _CONTACT_
+http://_CONTACT_/

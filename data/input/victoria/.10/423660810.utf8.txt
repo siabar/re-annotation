@@ -1,0 +1,124 @@
+
+
+
+
+
+Informe d'Alta Hospitalària	Cognoms i nom:
+_NAME_	NHC:
+_ID_
+	ABS:
+_SS_	CIP:
+_ID_	DNI:
+_ID_
+	Data de naixement:
+_DATE_	Sexe:
+Dona	Edat:
+96a	Telèfon:
+_CONTACT_
+	Finançament:
+CatSalut - _LOCATION_	Procedència:
+URGÈNCIES
+	Admissió:
+26.09.2017 - 11:18	Servei:
+NEUROLOGIA HOSP	Data entrada urg.:
+25.09.2017 - 22:22
+Adreça:
+_LOCATION_	Població:
+_LOCATION_	Codi Postal:
+_LOCATION_
+
+
+
+MOTIVO DE INGRESO:
+AIT de ACM izda GEA a estudio
+Posible broncoaspiración
+
+
+ANTECEDENTS
+No AMC
+No hàbits tòxics AP:
+FRCV: HTA en ttm mèdic, no DM, no DLP Angor pectoris 2013. Controls per MAP. Osteoporosi
+Sd intestí irritable
+IRC (control CAP, juliol'15: Creatinina 1.08, MDRD 50) Portadora de MCP desde '93, recambio 2003.
+Sd depressiu Glaucoma
+FX branca ileopubiana. No IQ
+
+IQ:
+Nefrectomia derecha (litiasis renal), colecistectomia, Faquectomia, colocación maracpasos
+
+Situació sociofuncional:
+FFSS conservades. Independent per a les ABVD. Viu amb la seva filla Medicació habitual
+A.A.S. 100MG 1 x 24 h.
+ACTONEL 35MG  RISENDRONICO ACID 1 x 1 s. CANDESARTAN/HIDROCLOROTIAZIDASANDOZ 16/12,5MG  1 x 24 h. DUSPATALIN 135MG MEBEVERINA  3 x 24 h.
+EMCONCOR 2,5MG  1 x 12 h.
+LORAZEPAM 1MG 1 x 12 h.
+MINITRAN 15MG/24H  1 x 24 h.
+REXER FLAS 15MG MIRTAZAPINA  1 x 24 h. VERSATIS 5% 30 APOSITOS LIDOCAINA 1 x 24 h. XALATAN 50MCG/ML  LATANOPROST 2 x 24 h.
+DOLOCATIL 1G  PARACETAMOL 1 x 8 h.
+
+
+ENFERMEDAD ACTUAL
+Mujer de 96 años que es traída a urgencias de nuestro centro como código ictus extrahospitalario. Como principales antecedentes está diagnosticada de hipertensión arterial, insuficiencia renal crónica, cardiopatía isquémica no revascularizada en seguimiento por el CAP, portadora de marcapasos desde el año 1993 (recambio en 2003), síndrome depresivo y poliartrosis. A nivel sociofuncional es autónoma para actividades básicas e instrumentales de la vida diaria. Camina con bastón. Rankin 3.
+
+Según cuenta la hija de la paciente esta tarde han salido a pasear como cada tarde y cuando volvían a casa, al entrar por la puerta a las 21:00 se ha dado cuenta que se le caía el bastón, no lo podía sujetar. Le preguntaba qué le pasaba y no respondía. La ha sentado en el sofá y entonces la paciente se ha quedado desconectada con la mirada perdida y hacía automatismos orolinguales. Ha avisado  al SEM quienes al valorarla activan el código ictus extrahospitalario.
+
+A su llegada a urgencias la paciente se encuentra hemodinámicamente estable y afebril Ctes: 220/106 mmHg, 70 lp, glicemia 118 mg/dl, INR de 1. A la exploración neurológica la paciente se encuentra vigil, no responde órdenes simples y sólo emite algún vocablo aislado. No déficit motor ni otra focalidad aparente. RCP flexor bilateral. NIHSS: 0+2+2+0+0+0+(0+0)+(0+0)+0+0+2+0+0=6.Se realiza TC craneal urgente en el que no observo lesiones agudas. Sí se aprecia extensa leucaraiosis confluente. Se realiza dúplex TSA urgente que descarta la presencia de estenosis significativas y dúplex TC en el que se aprecia un flujo simétrico y laminar en ambas ACM (TIBI5). ECG en ritmo de marcapasos.
+
+El cuadro plantea el diagnóstico diferencial entre un ictus isquémico en territorio de la ACM izquierda de etiología indeterminada vs una crisis focal frontal izquierda. También se plantea que haya podido ser un ictus isquémico con una crisis sintomática aguda.
+
+Dada la edad de la paciente y las dudas diagnosticas no de plantea tratamiento de reperfusión. Posteriormente mejoría clínica progresiva.
+Se inicia tratamiento con keppra por sospecha de crisis comicial
+Durante la noche presenta episodios de vómitos y diarreas abundantes (refiere habituales por síndrome de intestino irritable). Posterioremnte pico febril de hasta 38ºC, se inicia augmentine por sospecha de broncoaspiración
+
+EXPLORACIONES COMPLEMENTÁRIAS
+-	A/S: Sodi 139 Potassi 4,24 Glucosa 6,1 Urea 6,1 Creatinina 76 AST (GOT) 16 ALT (GPT) 9  Hemoglobina
+141 VCM 97,9 CCMH 333 Plaquetes 133 Leucòcits 5,16 Neutròfils 52,9 % Temps de tromboplastina 1,02 RATIO Temps de protrombina 1,03 INR Temps de trombina 20,90 s
+
+-	ECG: en ritmo de MP
+
+
+-Rx de tórax: Placa rotada. ICT > 0.5, pinzamiento de seno costofrénico derecho, redistribución vascular con refuerzo de hilio izquierdo.
+
+- TC cerebral: El estudio practicado no muestra colecciones extraaxiales, efectos de masa ni desplazamientos valorables a nivel de estructuras de línea media supra e infratentoriales. Ligera dilatación del sistema ventricular simétrica y de aspecto involutivo. Moderada hipodensidad en la sustancia blanca periventricular y  subcortical de aspecto hipóxicoisquémico crónico. Que a focos hipodensos también los ganglios basales y tálamos mediales de ambos lados, todo ello en el contexto de afectación microangiopática. No hay evidencia de trombosis arterial en este estudio. Resto del parénquima cerebral con aumento de valles silvianos, cisternas basales y surcos corticales de la convexidad, traduciendo cambios involutivos cerebrales. El estudio con ventana ósea no muestra fracturas. CONCLUSIÓN: Sin evidencia de lesiones agudas intracraneales
+
+EVOLUCIÓN
+Durante el inicio de su estancia en Neurología persiste mejoría sintomática tras el inicio de Keppra 500 mg
+/12h. Posteriormente presenta episodio de desconexión del medio el 27/9/17, con desviación oculocefálica a la derecha que cede con rivotril y 500mg mas de keppra. Posteriormente se deja pauta de keppra 750 mg /12h manteniendose sin nuevos episodios. Se orientan los episodios de afasia como crisis comiciales y dada la estabilidad clíncia se decide alta a domicilio con controles ambulatorios. Dado que la paciente tiene 96 años se decide ser lo más conservadores posibles.
+
+DIAGNÓSTICOS
+-   Crisis comicial
+
+
+PROCEDIMIENTOS
+AS
+TC CEREBRAL RX TORAX ECG
+
+RECOMENDACIONES AL ALTA
+
+AÑADIR AL TRATAMIENTO BRIVIACT 100MG /12H
+
+CONTINUAR RESTO DEL TRATAMIENTO
+A.A.S. 100MG 1 x 24 h.
+
+
+ACTONEL 35MG  RISENDRONICO ACID 1 x 1 s. CANDESARTAN/HIDROCLOROTIAZIDASANDOZ 16/12,5MG  1 x 24 h. DUSPATALIN 135MG MEBEVERINA  3 x 24 h.
+EMCONCOR 2,5MG  1 x 12 h.
+LORAZEPAM 1MG 1 x 12 h.
+MINITRAN 15MG/24H  1 x 24 h.
+REXER FLAS 15MG MIRTAZAPINA  1 x 24 h. VERSATIS 5% 30 APOSITOS LIDOCAINA 1 x 24 h. XALATAN 50MCG/ML  LATANOPROST 2 x 24 h.
+DOLOCATIL 1G  PARACETAMOL 1 x 8 h.
+
+
+
+
+Responsable clínic: Dra. _NAME_ (NºCol. _ID_)
+Equip mèdic: Dr. _NAME_ (NºCol. _ID_)
+
+Servei que ha donat d'alta:
+NEUROLOGIA HOSP	Data d'alta:
+29.09.2017	Nom del metge que informa de l'alta:
+Dr. _NAME_ (NºCol. _ID_)
+
+
+_LOCATION_, 29.09.2017
+Pàg. 1 de   4

@@ -1,0 +1,132 @@
+_LOCATION_
+email: _CONTACT_ Telèfon _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 77 Anys
+NIF/DNI: _NAME_; _NAME_; _NAME_
+Informe d'alta d'hospitalització
+16:00:00
+27.03.2017
+_LOCATION_
+_SS_ UNITAT D'ICTUS
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_; _CONTACT_
+DOMICIL/RES.SOC 24.03.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Pacient que ingressa per Isquèmic. Infart cerebral
+
+ANTECEDENTS
+-Hipertensió essencial inespecificada
+-Fibril·lació auricular
+-Ictus isquémico transitorio consistente en trastorno del lenguaje (fue atendido en _SS_, realizándose TC craneal que no mostró lesiones agudas, iniciándose tratamiento antiagregante. En ese momento inició tratamiento con adiro 300 y simvastatina 20mg día.
+-	Infarto cerebral en territorio de ACM derecha de etiología cardioembólica por FA en septiembre del 2009 por el que ingresó en este centro. Antiacoagulado inicialmente con sintrom, posterior cambio a Pradaxa por mal control de INR. Recuperación ad-integrum. NIHSS 0. mRS 0.
+-	HBP
+
+Rankin previ:0 - Sense símptomes. Conduce, indenpendiente para las ABVDs.
+
+MEDICACIÓ HABITUAL
+Pradaxa 150 mg cada 12 horas, simvastatina 20 mg cadad 24 horas, paracetamol si precisa, zaldiar 37.5/325mg
+
+PROCÉS ACTUAL
+Paciente dejó de tomar dabigatran el pasado 19/03/17 (2 dosis) y la mañana del 20/03/17 (1 dosis) debido a un procedimiento dental realziado el 20/03/17. Els símptomes s'inicien el dia 24/03/2017 a les  16:30:00h. Han dejado al paciente asintomático a las 16:30h y lo han encontrado a las 17:30h con clínica de TACI derecho. Llega al _SS_ a las 19:16h.
+
+
+EXPLORACIÓ FÍSICA
+
+EXP: FÍSICA A URG: PAS190 , PAD 90 mmHg
+Exploración física: Vigil. Preferencia óculo-cefálica hacia la derecha. Parálisis facial central izquierda. Hemianopsia homónima izquierda. Hemiparesia izquierda 4+/5. Hemianestesia izquierda. Anosognosia. Asomatognosia.
+NIHSS= 0-0-0-1-2 / 2-0-1-0-1 / 0-2-0-1-2= 12
+
+Exploración a las 24 horas en Unidad de ictus: TA 171/89mmHg), FC 48lpm, Tª 37.2ºC
+Vigil, alerta, orientado en las 3 esferas. POC D (1). Nomina, repite, comprende órdenes. Disartria inteligible (1). HHI (2). Mínima paresia facial izquierda de patrón supranuclear (1). Leve claudicación de EII (1). Refiere hipoestesia en EII (1). Impresiona de leve anosognosia (1). NIHSS 8
+
+Exploración a las 48-72h del ictus/ al alta de la Unidad de ictus:
+
+Informe d'alta d'hospitalització
+
+
+
+
+TA 147/55, afebril. FC 49 lpm.
+Alerta, orientado en las 3 esferas. Extinción visual izquierda (1). Bradipsiquia, hipomimia leve. No alteraciones en el habla ni en el lenguaje. Disartria leve (1). Temblor posicional y de reposo leve en cuenta monedas en mano derecha. No alteración motor ni sensitiva. No dismetría, marcha a pasos cortos. Test del empujón negativo. Leve rigidez en rueda dentada de manera bilateral. NIHSS 2.
+
+
+EXPLORACIÓ COMPLEMENTÀRIA
+-	AG de urgencias hemograma normal. INR de C12266;;T. de protrombina (INR);;N;0.7;1.2;20170324201629 ;1.17
+, leucòcits 1030-Leucòcits: 7.78 x10E9/L, 24.03.2017, plaquetes 1080-Plaquetes: 169 x10E9/L, 24.03.2017
+-	Rxtorax: sin alteraciones
+-	TC craneal ORIENTACIÓ DIAGNÒSTICA: Estudi urgent que mostra un TC simple sense alteracions tomodensitomètriques agudes (ASPECTS 10/10) tot i que de difícil valoració per les lesions cròniques isquèmiques previes. A AngioTC s'objectiva un defecte de repleció a a la divisió superior del segment M2 proximal de l'ACM dreta compatible amb trombe a aquest nivell. A TC perfusió condiciona un allargament del MTT,TTP i TTD a territoris superficials de la ACM dreta (M2,M3,M5 i M6) amb CBF disminuït però CBV preservat, compatible amb mismatch.
+-	Tractament endovascular Hora punció femoral: 20:45:00 , hora 1era sèrie diagnòstica: 20:50:00, observant-se oclusió arterial a nivell de M2, amb mTICI inicial No flux anterògrad (0). Es finalitza el procediment a les 21:05:00 amb Solitaire, aconseguint un mTICI final Reperfusió completa (3)
+-	TC craneal de control que muestra lesión hipodensa cortico-subcortical temporal derecha que se situa posterior al área de malacia frontal que corresponde al infarto cronico, que afecta a segmentos M2 y M5 parcialmente (ASPECTS), condicionando discreta compresion del asta posterior ventricular y de la malacia isquemica cronica. No se observan areas de transformacion hemorragica. Sin otros cambios respecto estudio anterior.
+-	Ag del ingreso se adjunta
+
+
+
+EVOLUCIÓ CLÍNICA
+Paciente varón de 77 años con los antecedentes descritos, destaca FA en tratamiento con Pradaxa 150 mg cada 12 horas, que había retirado dos dosis para tratamiento odontológico día 19/3, en este contexto el 20/3 es encontrado a las 17:30h con clínica de TACI derecho. Llega al _SS_ a las 19:16h con NIHSS
+12. Se realiza TC craneal con lesión crónica en territorio de ACM derecha y en territorio de ACM izquierda. No se observan signos precoces de isquemia en el resto de territorio de ACM derecha y AngioTC con oclusión de rama M2 e hipoperfusión extensa en territorio cortical de ACM derecha, por lo que tras informar a la familia de los riesgos y beneficios del tratamiento endovascular que aceptan y firman el consentimiento informado. Entra en la sala a las 20:35h, la punción femoral es a las 20:45 y la primera serie angiográfica a las 20:50 pone de manifiesto la oclusión de la rama superior de la ACM derecha. Con un solo pase de solitaire (21:00h) se consigue la recanalización completa de la ACM y sus ramas. No ha requerido intubación. El procedimiento se ha realizado sin incidencias. Previo al tratamiento endovascular ha recibido dos bolos de urapidilo y 1/2 de labetalol para control de la TA. Ingresa en Unidad de Ictus. Posteriormente, el paciente tras comprovar que cumple criterios de inclusión y ninguno de exclusión y conceder tiempo para resolver dudas, se procede a la firma del Consentimiento informado principal por escrito versión 3.0 ensayo clínico ACTION 2 (101SK202- Natalizumab vs placebo en pacientes con ictus isquémico) por parte de su hija a las 21:35h y se entrega copia.
+
+Informe d'alta d'hospitalització
+
+
+
+
+Durante su estancia en la Unidad de ictus, se mantiene hemodinámicamente estable tras inicio de medicación antihipertensiva oral y clínicamente presenta mejoría progresiva, siendo al alta NIHSS 2 a expensas de extinción visual izquierda, disartria y bradipsiquia Se realiza TAC craneal de control que muestra infarto cortico-subcortical temporal derecha que se situa posterior al área de malacia frontal que corresponde al infarto cronico, que afecta a segmentos M2 y M5 parcialmente, por lo que se decide posponer inicio de antiacoagulación por extensión de la lesión. Dejamos TC de control ambulatorio en unos dias para inicio de anticoagulación posteriormente.
+Asimismo en la exploración destaca semiología parkinsoniana, por lo que en interrogatorio dirigido el familiar y el paciente refieren bradicinesia y temblor leve progresivo de inicio hace unos meses aproximadamente. Por ello, iniciamos medicación con Levodopa y visita de control en consultas externas.
+Tras estabilidad clínica y hemodinámica, se decide alta hospitalaria y control en consultas externas de Neurovascular, la idea es mantener mismo tratamiento con Pradaxa a 150 mg cada 12 horas, no considerándose un fracaso de este. Al alta NIHSS 2 y rankin 2.
+
+
+
+
+
+
+DIAGNÒSTICS
+Infarto ACM derecha de etiología cardioembólica por Fibrilación auricular. Sdr. parkinsoniano
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Dieta sin sal y baja grasas. Ejercicio físico que tolere.
+
+-	Adiro 100 mg cada 24 horas
+-	Omeprazol 20 mg cadad 24 horas
+-	Enalapril 20 m g cada 24 horas
+
+-	Sinemet plus 25/100 mg:
+1/2-0-0 durante 3 dias, posteriormente, 1/2-1/2-0 durante 3 dias y después 1/2-1/2-1/2 y continuar así hasta control en las consultas
+
+-	Motilium una cucharada antes de cada comida y previo a la toma de sinemet si precisa
+
+-	SUSPENDER Pradaxa hasta control en la 2ª planta de la Unidad de ictus tras TC craneal de control
+
+CONTROL
+-	Control estricto de los FRCV
+
+-	Será avisado por correo y/o telefónicamente para realización de TC craneal de control en el _SS_ y tras su realización deberá acudir a la Unidad de Ictus (segunda planta Hospital) para valoración de resultado e inicio de anticoagulación por FA.
+
+-	Deberá acudir a las visitas de control según Protocolo del ESTUDIO ACTION II- visita 30 dias en la 2ª planta del _SS_ ( Unidad de Ictus) el día 26/4/2017 y posteriormente, deberá acudir a la visita de 90 dias en la 3ª planta
+-	
+Informe d'alta d'hospitalització
+
+
+
+
+anexos del _SS_ en las consultas de Neurovascular el día 20/6/2017 a las 09:30h.
+
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+27.03.2017
+Pàgina 1 de 4

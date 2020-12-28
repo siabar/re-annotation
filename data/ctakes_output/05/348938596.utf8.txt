@@ -1,0 +1,81 @@
+
+I N F O R M E	D ' A L T A
+
+Cognoms i nom de l'usuari:
+_NAME_	Història Clínica:
+_ID_
+Data d'ingrés:
+09/03/2017	Data d'alta:
+15/03/2017	Servei:
+NEUROLOGIA	Cap del Servei:
+_NAME_
+Metge que signa l'alta:
+_NAME_	S'informa a:
+Metge de capçalera
+
+
+Paciente de 86 años que ingresa procedente de urgencias por alteración en la evocación del lenguaje y tr de la marcha
+
+APatológicos:
+No alergias medicamentosas conocidas HTA
+DM tipo II insulinodependiente. Mal control crónico. DLP
+Probable BMN tóxico eutiroidea a dosis bajas de tirodril.
+insuficiencia renal crónica estadío III, pendiente de valoración por nefrología. Cardiopatía isquémica crónica (SCASEST) en mayo 2007 con arteriopatía periférica e insuficiencia cardíaca asociada. Coronariografía 07/2007: lesión crítica en DA proximal que engloba la 1ª diagonal y otra lesión en CD proximal. ICP (ACTP + stent) sobre DA. Dos lesiones en Cx no significativas. Función sistólica conservada con FE del 60 %.
+Hipocinesia anterior.
+Fibrilación auricular permanente tratada con ACOs ( xarelto) hasta ingreso en marzo de 2016 en el que se retira por anemia
+AIT en 2001, no se refieren otros datos
+Anemia multifactorial. Valorado por hematología como principalmente ferropénica y posiblemente pérdidas. Declina en diversas ocasiones búsqueda de pérdidas de origen digestivo a pesar de ser derivada a UDR en 2014, se transfunde 2 conc en 2014.
+Inicandose tto con fe. Última analítica oct 2016 Hb 123
+Asma bronquial. Espirometría de 1996: FEV1 55%, FVC 73% y cociente del 55%. IQ catarata D nov 14' con  amaurosis .
+Tratamiento habitual: Tirodril 1/2-0-0 , Insulina Mixtard 30 24-0-20 UI, Galvus 50mg 1-0-0,, furosemida 1-0-1, bisoprolol 2.5mg 1-0-1, travatan, seretide, eplerrenona
+25mg 1-0-0, tardyferon 0-1-0, acfol 0-1-0, trinipatch
+Vive en domicilio con dos hijos. No se refiere deterioro cognitivo
+
+Enfermedad Actual:
+La familia refiere que el dia 8 hacia las 23h estando previamente asintomática, objetivan marcha con lateralización a la derecha y alteración del lenguaje, la paciente no lo recuerda bien, por lo que se remiten a urg de _SS_ . Allí consta TA: 216/87 con FC 102 y sat 89%. sin focalidad neurológica, se instaura tto hipotensor (10 mg de amlodipino y 2,5 mg de bisoprolol) con mejoria TA: 160/90 y se remite a domicilio.
+La familia refiere persistencia de marcha dificultosa con lateralización y a la mañana siguiente persiste tr del lenguaje y marcha con posible desv de comisura bucal por lo que se remite de nuevo a urgencias.
+A su llegada a urgencias Tª. Ax.: 36,6 ºC TAS.: 150 mmHg TAD.: 87 mmHg FC.: 92 x
+´ SAT.: 92% mmHg
+
+EFísica en planta:
+ACV: Tonos arrítmicos TSA: No soplos AR: MVC, crepitantes insp bases
+Neurológica: Vigil y orientada. Lenguaje con fluencia preservada pero anomia y alguna parafasia fonémica, repetición y compresión para ordenes semicomplejas preservada. Amaurosis OD y disminucion de AV OIzq residuales. Leve paresia facial central derecha. No déficit motor o sensitivo. Coordinación y marcha sin alteraciones
+
+Exploraciones Complementarias:
+Analítica urgencias:Leucòcits;c.nom. 12.47 10e9/L, Hemoglobina; c.massa 12 g/dL, Neutròfils;fr.nom. 81.00 %, Limfòcits;fr.nom. 11.00 %, Glucosa 268.5 mg/dL, Srm_Creatinini; c.subst. 1.3 mg/dL, Filtrat Glomerular CKD-EPI 36.40 mL/min, Urea
+74.5 mg/dL, Ió potassi 3.7 mmol/L, PCR 12.50 mg/L,
+Eq venoso: v pH 7.404 , v PCO2 46.7 mmHg, v PO2 32.6 mmHg, v HCO3A 28.6 mmol/L, v ABE 3.80 , v O2SAT 63.9 %
+Analítica estándar: VSG 127.0 mm/h, Leucòcits;c.nom. 12.22 10e9/L, Hemoglobina; c.massa 11 g/dL, Neutròfils;fr.nom. 78.00 %, Limfòcits;fr.nom. 12.90 %, Triglicèrid 212.6 mg/dL, Colesterol
+195.23 mg/dL, Colesterol d´HDL 34.02 mg/dL, Srm_Creatinini; c.subst. 1.5 mg/dL, Filtrat Glomerular CKD-EPI 30.20 mL/min, PCR 96.00 mg/L
+Sdto orina: Nitrit negtivo , Esterasa leucocítica negativo Urocultivo: Negativo
+Hemocultivos (2): no se aíslan gérmenes ECG: FA a 80 pm
+Rx tòrax: infiltrat cotonòs bilateral predomini dret, pinçament si costofrènic esq,( probable atelectàsia) todo presente en estudio de hace 1 año
+TC craneal: Imagen talámica izq compatible con lacunar antiguo, atrofia c-subcorticla difusa
+TAC craneal control: lesión isquémica de 2 cm. de diàm. AP a nivel lenticular-c radiada izda no presente en estudio previo
+Eco TSA: No se identifican alteraciones doppler sugestivas de estenosis significativas. Ateromatosis carotídea bilateral difusa de predominio derecho.
+
+Evolución:
+Durante su estancia la paciente se ha mantenido normotensa y estable desde el punto de vista neurológica con mejoría progresiva del transtorno del lenguaje hasta quedar prácticamente asintomática. Se ha realizado estudio vascular con Eco TSA que no muestra estenosis carotídea y tras valorar el caso conjuntamente con hematología se decide iniciar tto anticoagulante dada la probable etiología cardioembólica con seguimiento clínico y de los valores analíticos de Hb de forma ambulatoria.
+Como complicaciones ha presentado un sdme febril de foco desconocido tras estudio que ha remitido sin precisar tto antibiótico. Ha presentado descompensación hiperglicémica que se ha controlado con ajuste de tto insulinico.
+Dada la estabilidad clínica se da de alta a domicilio con control ambulatorio.
+
+Valoracion Diagnóstica:
+Ictus isquémico agudo ACM izq de probable etiologia cardioembolica Fibrilacion auricular permanente
+
+Plan:
+Eliquis 2.5mg 1 comp desayuno y cena Resto igual tratamiento que en domicilio
+
+Realizará seguimiento y controles analíticos por CAP para control de anemia Acudirá a consultas externas de Neurología según fecha adjunta
+
+
+Dra. _NAME_ n.col:_ID_
+
+ADREÇA
+TELEFONS
+DIGITAL
+TEL. _CONTACT_
+FAX. _CONTACT_
+1 / 3
+_LOCATION_
+_CONTACT_
+_LOCATION_ _CONTACT_

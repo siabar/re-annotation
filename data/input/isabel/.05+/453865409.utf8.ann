@@ -1,0 +1,62 @@
+T0	FECHA 197 207	23.12.2017
+#0	AnnotatorNotes T0	2017-12-23
+T1	SECCION_ANTECEDENTES_PERSONALES 366 387	ANTECEDENTS PERSONALS
+T2	SECCION_TRATAMIENTO_HABITUAL 418 434	Medicació actual
+T3	_SUG_Tratamiento_antiagregante 436 439	AAS
+T4	SECCION_ANTECEDENTES_PATOLOGICOS 744 766	ANTECEDENTS PATOLÒGICS
+T5	FECHA 803 807	2007
+#5	AnnotatorNotes T5	2007-UNDEF-month-UNDEF-day
+T6	_SUG_Ictus_isquemico 898 901	AVC
+T7	_SUG_Etiologia 902 909	lacunar
+T8	_SUG_Localizacion 902 909	lacunar
+T9	_SUG_Localizacion 910 924	capsulotalàmic
+T10	_SUG_Lateralizacion 925 929	dret
+T11	FECHA 931 938	06/2005
+#11	AnnotatorNotes T11	2005-06-UNDEF-day
+T12	_SUG_Lateralizacion 986 994	esquerra
+T13	_SUG_Ictus_isquemico 1009 1012	AVC
+T14	_SUG_Lateralizacion 1052 1057	dreta
+T15	_SUG_TAC_craneal 1072 1083	TAC Cranial
+T16	_SUG_Localizacion 1155 1170	capsulotalàmica
+T17	_SUG_Lateralizacion 1195 1199	Dret
+T18	_SUG_Ictus_isquemico 1215 1221	infart
+T19	_SUG_Etiologia 1222 1229	lacunar
+T20	_SUG_Localizacion 1222 1229	lacunar
+T21	_SUG_Localizacion 1312 1320	cortical
+T22	FECHA 1432 1436	2010
+#22	AnnotatorNotes T22	2010-UNDEF-month-UNDEF-day
+T23	_SUG_Lateralizacion 1936 1941	dreta
+T24	FECHA 1963 1973	26-11-2013
+#24	AnnotatorNotes T24	2013-11-26
+T25	_SUG_TAC_craneal 1981 1984	TAC
+T26	_SUG_Localizacion 2035 2042	parcial
+T27	SECCION_PROCESO_ACTUAL 2547 2562	MALALTIA ACTUAL
+T28	_SUG_Lateralizacion 2677 2687	l'esquerra
+T29	_SUG_Lateralizacion 2897 2901	dret
+T30	SECCION_EXPLORACION_FISICA 2978 2995	EXPLORACIÓ FÍSICA
+T31	_SUG_Lateralizacion 3151 3155	dret
+T32	_SUG_Lateralizacion 3237 3245	esquerra
+T33	_SUG_Lateralizacion 3339 3348	esquerres
+T34	SECCION_EXPLORACIONES_COMPLEMENTARIAS 3637 3667	EXPLORACIONS   COMPLEMENTÀRIES
+T35	_SUG_Lateralizacion 4015 4019	dret
+T36	_SUG_TAC_craneal 4221 4231	TC cranial
+T37	_SUG_Localizacion 4420 4431	ventricular
+T38	_SUG_Localizacion 4457 4466	corticals
+T39	_SUG_Lateralizacion 4561 4569	esquerra
+T40	_SUG_Localizacion 4582 4591	posterior
+T41	_SUG_Lateralizacion 4592 4600	esquerra
+T42	_SUG_Lateralizacion 4841 4846	dreta
+T43	_SUG_Lateralizacion 4881 4889	esquerra
+T44	SECCION_DIAGNOSTICOS 4978 5000	ORIENTACIÓ DIAGNÒSTICA
+T45	_SUG_Ictus_isquemico 5011 5014	AVC
+T46	SECCION_EVOLUCION 5057 5078	EVOLUCIÓ I COMENTARIS
+T47	_SUG_Ictus_isquemico 5349 5354	ictus
+T48	HORA 5377 5378	6
+#48	AnnotatorNotes T48	6:00
+T49	_SUG_TAC_craneal 5397 5407	TC cranial
+T50	_SUG_Tratamiento_antiagregante 5741 5752	Clopidogrel
+T51	_SUG_Lateralizacion 6155 6160	dreta
+T52	_SUG_Etiologia 6245 6256	hipertensió
+T53	_SUG_TAC_craneal 6288 6299	TAC craneal
+T54	FECHA 6700 6710	23/12/2017
+#54	AnnotatorNotes T54	2017-12-23

@@ -1,0 +1,134 @@
+
+
+
+
+
+Informe d'Alta Hospitalària	Cognoms i nom:
+_NAME_	NHC:
+_ID_
+	ABS:
+_SS_	CIP:
+_ID_	DNI:
+_ID_
+	Data de naixement:
+_DATE_	Sexe:
+Dona	Edat:
+85a	Telèfon:
+_CONTACT_ NUERA
+	Finançament:
+CatSalut - _LOCATION_	Procedència:
+	Admissió:
+31.03.2017 - 20:17	Servei:
+NEUROLOGIA HOSP	Data entrada urg.:
+28.03.2017 - 11:28
+Adreça:
+_LOCATION_	Població:
+_LOCATION_	Codi Postal:
+_LOCATION_
+
+
+
+MOTIVO DE INGRESO
+-	Ictus isquémico de localización indeterminada y etiología y mecanismo a estudio.
+
+
+ANTECEDENTES
+-	Alergia a nolotil
+-	Hipertensión arterial en tratamiento médico.
+-	Fibrilación auricular en tratamiento con sintrom.
+-	Enfermedad de Parkinson: Enfermedad de parkinson H&Y 2 de 13 de años de duración y con evolución muy benigna, tratada con levodopa a dosis bajas y sin desarrollo de fluctuaciones motoras y leve corea desde 2015 . A inicios de 2014 empeoró, ahora relativamente estable tras subir levodopa. Quejas sobre todo de inestabilidad que ha ido a más. En seguimiento por Dra. _NAME_
+-	Glaucoma
+-	Sociofuncional: vive sola. Independiente para actividades de la vida diaria. Limitación ligera de la marcha. mRs=2
+
+Medicación habitual: Azilect (rasagilina) 1-0-0 (desde julio'08), Sinemet Plus 100/25, 1-1-1 (8-14-20) (desde dic'08) No nota fluctuaciones motoras, Aquilea sueño, 0-0-1 Esidrex (hidroclorotiazida) 25 mg, 1-0-0, Condrosan 0-1-0, Amlodipino 5 mg, 2-0-0, Valsartan 160, 1-0-0, Bisoprolol 5 mg, 1-0-0, Omeprazol 20 mg/d, Inhalador nasal, Transtec parche transdérmicos 35/ 5 cada 72 horas, Azarga (Timolol) colirio para glaucoma, Sintrom desde enero'14 (control CAP), Paracetamol si precisa
+
+
+
+ENFERMEDAD ACTUAL
+-	Consulta el día 28.03.2017 por presentar desde esa mañana una alteración del habla, con dificultad para la pronunciación. El hijo refiere que ha hablado con ella a las 9.30 por telefono y ya la ha notado disártrica. Previamente, no había hablado con nadie por lo que desconocemos la hora de inicio.
+
+EXPLORACIÓN FÍSICA
+UCIAS
+-	A su llegada, TA de 134/68, FC 96x', INR 1.9, Glicemia 123.
+-	Neurológica: Vigil. Orientada en las tres esferas. Nomina, repite obdece órdenes simples y complejas. Disartria moderada MOE correcta, campimetría por confrontación normal. Nistagmo horizontal agotable a la derecha. No paresia facial. Trigémino sensitivo motor correcto. Pares bajos normales. Balance motor normal. Sensibilidad conservada. No dismetrías. Marcha no explorada. NIHSS = 0.0.0.0.0/0.(0.0)(0.0)/0.0.0.2.0 = 2.
+-
+
+En sala de neurologia y al alta
+Destaca solo leve disartria. Bradicinesia. NIHSS=1
+
+
+EXPLORACIONES COMPLEMENTARIAS
+- Analítica urgente: Sodi 140 mmol/L ( 136 - 145 ) Potassi 4,49 mmol/L ( 3,50 - 5,10 ) Glucosa 7,0 mmol/L (
+3,0 - 6,0 ) 126,00 mg/100mL Urea 8,8 mmol/L ( 2,9 - 8,2 ) 53 mg/100mL Creatinina 72 µmol/L ( 0 - 80 ) 0,81
+mg/100mL HEMATOLOGIA-HEMATIMETRIA Hemograma Hemoglobina 115 g/L ( 120 - 150 ) Hematòcrit 0,38
+L/L ( 0,35 - 0,45 ) Hematies 4,64 x10E12/L ( 3,90 - 5,00 ) VCM 81,7 fL ( 80,0 - 98,0 ) CCMH 303 g/L ( 320 - 360
+) HCM 24,8 pg ( 27,0 - 32,0 ) RDW 15,3 % ( 12,0 - 15,0 ) Plaquetes 305 x10E9/L ( 140 - 350 ) Leucòcits 6,83
+x10E9/L ( 3,80 - 11,00 ) HEMOSTÀSIA Temps de tromboplastina 1,14 RATIO ( 0,75 - 1,30 ) Temps de protrombina 1,81 INR ( 0,75 - 1,20 ) Temps de trombina 21,30 s.
+- Analítica de control: destaca anemia (Hb 118 g/L9 normocítica, con resto del estudio sin alteraciones patológicas.
+-	ECG: fibrialción auricular.
+-	TC cerebral: estudio TC craneal sin lesiones isquémicas agudas (ASPECTS 10).
+-	Estudio neurosonológico: Duplex TSA sin estenosis ni aceleraciones, leve ateromatosis en origen de ambas ACI. No ventana transtemporal
+
+EVOLUCIÓN
+A su llegada a urgencias, presenta una disartria aislada con NIHSS=2, con TC craneal normal, ECG en FA ya conocida, dúplex TSA sin alteraciones y analítica con INR 1.8. Con la sospecha de un ictus isquémico de localización indeterminada y de etiología cardioembólica por FA infradescoagulada, se decide iniciar perfusión de heparina sódica e ingresa en la sala de Neurología.
+Durante el ingreso presenta una mejoría progresiva de la disartria, persistiendo una disartria leve-moderada, y con un síndrome rígido-acinético estable. Presenta tendencia a la hipertensión, por lo que se intensifica el tratamiento antihipertensivo, aunque posteriormente se vuelve a reducir por hipotensión.
+Se contacta con Servicio de Hematologia para valorar introducción de nuevo anticoagulante oral dado el mal control de la paciente con ACO habituales decidiendose inicio de dabigatran.
+Dada la mejoría de la paciente se decide el alta a domiclio y se completará el estudio ambulatoriamente con RM craneal. No se solicita nueva ecocardiografía por presentar estudio previo del 2014 sin alteraciones destacables.
+Al alta NIHSS= 1 mRS=2
+
+
+PROCEDIMIENTOS
+-	AS
+-	ECG
+-	TC cerebral
+-	Eco-Doppler TSA
+DIAGNÓSTICOS
+-	Probable ictus  isquémico  (LACS:  disartria) en  territorio  indeterminado  y  de  etiología probablemente cardioembólica (FA infradescoagulada).
+-	Fibrilación auricular
+-	Hipertensión arterial
+
+
+TRATAMIENTO Y RECOMANACIONES AL ALTA
+Suspender Sintrom
+
+Iniciar
+Dabigatran 110mg /12h
+
+Continuar con:
+Azilect (rasagilina) 1-0-0 (desde julio'08)
+Sinemet Plus 100/25, 1-1-1 (8-14-20) (desde dic'08) No nota fluctuaciones motoras Aquilea sueño, 0-0-1
+Esidrex (hidroclorotiazida) 25 mg, 1-0-0
+Condrosan 0-1-0
+Amlodipino 5 mg, 2-0-0
+Valsartan 160, 1-0-0
+Bisoprolol 5 mg, 1-0-0
+Omeprazol 20 mg/d Inhalador nasal
+Transtec parche transdérmicos 35/ 5 cada 72 horas Azarga (Timolol) colirio para glaucoma  Paracetamol si precisa
+
+*	Acudir a realización de RM craneal según cita adjunta
+*	Control en Consulta Externa de Neurología (CRI) segñun cita adjunta
+
+Recomendaciones generales
+1.	Tratamiento de la hipertensión arterial, manteniendo cifras por debajo de 140/90; en caso de ser diabético, cifras por debajo de 130/85.
+2.	Abandono completo del hábito tabáquico.
+3.	Control y tratamiento de las enfermedades cardiacas (cardiopatía isquémica, insuficiencia cardiaca, arritmias y valvulopatías).
+4.	Evitar consumo excesivo de alcohol (se permite una o dos bebidas al día).
+5.	Vigilancia y tratamiento del perfil lipídico:
+Dieta pobre en grasas, actividad física apropiada.
+Tratamiento farmacológico si precisa para mantener niveles de LDL<100mg/dl.
+6.	Control de la glucemia, que debe ser <126mg/dl en ayunas, con dieta, antidiabéticos orales o insulina si precisa.
+7.	Realizar actividad física, 30 a 60 minutos, de tres a cuatro veces a la semana.
+8.	Continuar el tratamiento anticoagulante a las dosis recomendadas, siguiendo los controles necesarios.
+
+
+Responsable clínic: Dra. _NAME_ (NºCol. _ID_)
+Equip mèdic: Dr. _NAME_ (NºCol. _ID_), _NAME_ (NºCol. _ID_)
+
+Servei que ha donat d'alta:
+NEUROLOGIA HOSP	Data d'alta:
+06.04.2017	Nom del metge que informa de l'alta:
+Dra. _NAME_ (NºCol. _ID_)
+
+
+_LOCATION_, 06.04.2017
+Pàg. 1 de   4

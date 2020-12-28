@@ -1,0 +1,73 @@
+T0	_SUG_Lateralizacion 0 1	I
+T1	FECHA 321 331	31.05.2017
+#1	AnnotatorNotes T1	2017-05-31
+T2	HORA 392 397	20:18
+#2	AnnotatorNotes T2	20:18
+T3	SECCION_TIPO_DE_INGRESO 429 454	Tipo ingreso/Tipus ingrés
+T4	_SUG_Ataque_isquemico_transitorio 503 506	AIT
+T5	_SUG_TAC_craneal 517 527	TC CRANEAL
+T6	SECCION_MOTIVO_DE_INGRESO 648 686	Motivo de consulta / Motiu de consulta
+T7	_SUG_Lateralizacion 707 714	derecha
+T8	SECCION_ANTECEDENTES 717 779	Antecedentes e historia previa / Antecedents i història prèvia
+T9	_SUG_mRankin_alta 880 885	mRS 0
+T10	_SUG_mRankin_previa 880 885	mRS 0
+T11	_SUG_Etiologia 917 929	HIPERTENSIÓN
+T12	FECHA 1330 1358	principios de marzo del 2013
+#12	AnnotatorNotes T12	2013-03-UNDEF-day
+T13	_SUG_Ataque_isquemico_transitorio 1581 1584	AIT
+T14	FECHA 1588 1592	2014
+#14	AnnotatorNotes T14	2014-UNDEF-month-UNDEF-day
+T15	_SUG_Lateralizacion 1645 1653	derechas
+T16	FECHA 1697 1716	septiembre del 2012
+#16	AnnotatorNotes T16	2012-09-UNDEF-day
+T17	_SUG_Tratamiento_antiagregante_alta 1849 1860	dipiridamol
+T18	_SUG_Tratamiento_antiagregante_hab 1849 1860	dipiridamol
+T19	_SUG_Lateralizacion 1936 1945	izquierda
+T20	SECCION_TRATAMIENTO_HABITUAL 2020 2040	*	MEDICACIÓ HABITUAL
+T21	_SUG_Tratamiento_antiagregante_alta 2206 2217	clopidogrel
+T22	_SUG_Tratamiento_antiagregante_hab 2206 2217	clopidogrel
+T23	SECCION_PROCESO_ACTUAL 2255 2285	Proceso actual / Procés actual
+T24	HORA 2310 2315	20.30
+#24	AnnotatorNotes T24	20:30
+T25	FECHA 2321 2326	30/05
+#25	AnnotatorNotes T25	2012-05-30
+T26	_SUG_Lateralizacion 2356 2363	derecha
+T27	HORA 2473 2475	21
+#27	AnnotatorNotes T27	21:00
+T28	SECCION_PROCESO_ACTUAL 6650 6656	Episod
+T29	SECCION_EXPLORACION_FISICA 2506 2544	Exploración física / Exploració física
+T30	FECHA 2545 2555	31/05/2017
+#30	AnnotatorNotes T30	2017-05-31
+T31	HORA 2556 2561	21:00
+#31	AnnotatorNotes T31	21:00
+T32	FECHA 2622 2632	01/06/2017
+#32	AnnotatorNotes T32	2017-06-01
+T33	HORA 2633 2638	01:00
+#33	AnnotatorNotes T33	01:00
+T34	_SUG_Lateralizacion 2848 2853	drcha
+T35	_SUG_Lateralizacion 2881 2886	drcha
+T36	_SUG_NIHSS_alta 2903 2910	NIHSS 2
+T37	_SUG_NIHSS_previa 2903 2910	NIHSS 2
+T38	SECCION_EXPLORACIONES_COMPLEMENTARIAS 2913 2973	Exploraciones complementarias / Exploracions complementàries
+T39	SECCION_EVOLUCION 3296 3316	Evolución / Evolució
+T40	_SUG_Ataque_isquemico_transitorio 3353 3356	AIT
+T41	_SUG_Lateralizacion 3516 3521	drcha
+T42	_SUG_NIHSS_alta 3523 3530	NIHSS 2
+T43	_SUG_NIHSS_previa 3523 3530	NIHSS 2
+T44	_SUG_Lateralizacion 3582 3591	izquierda
+T45	_SUG_Ictus_isquemico 3610 3615	ictus
+T46	_SUG_TAC_craneal 3629 3631	TC
+T47	_SUG_Trombolisis_intravenosa 3822 3834	fibrinólisis
+T48	_SUG_Arteria_afectada 4447 4450	ACA
+T49	_SUG_Tratamiento_antiagregante_alta 4513 4524	clopidogrel
+T50	_SUG_Tratamiento_antiagregante_hab 4513 4524	clopidogrel
+T51	_SUG_Tratamiento_antiagregante_alta 4529 4532	AAS
+T52	_SUG_Tratamiento_antiagregante_hab 4529 4532	AAS
+T53	_SUG_Etiologia 4772 4805	indeterminado (estudio incompleto
+T54	_SUG_mRankin_alta 4807 4813	mRS: 0
+T55	_SUG_mRankin_previa 4807 4813	mRS: 0
+T56	SECCION_RECOMENDACIONES 5958 5979	Otras recomendaciones
+T57	FECHA 6318 6328	02.06.2017
+#57	AnnotatorNotes T57	2017-06-02
+T58	HORA 6343 6348	10:49
+#58	AnnotatorNotes T58	10:49

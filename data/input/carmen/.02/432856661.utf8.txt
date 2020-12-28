@@ -1,0 +1,76 @@
+SERVEI DE NEUROCIRURGIA
+INFORME D´ALTANom del malalt	_NAME_	
+Nº Història clínica	_ID_	
+Data de naixement	_DATE_	
+C.I.P.	_ID_	Codi Centre	_ID_
+Telèfon	_CONTACT_	Adreça	_LOCATION_
+Data d'ingrés	08/10/17		_LOCATION_
+Data d'alta	26/10/17	Telèfon	_CONTACT_
+Nº Assistència	_ID_		
+UH	_ID_		
+
+DIAGNÒSTICS:
+-	HEMATOMA SUBDURAL EN CONVEXIDAD DERECHA CON HSA, DE ORIGEN TRAUMÁTICO.
+-	TRAUMATISMO CRANEAL.
+-	ANTICOAGULACIÓN ORAL con acenocumarol. INR 2.6.
+
+PROCEDIMENTS:
+-	TAC craneal (x2)
+
+MOTIU CONSULTA:
+Traumatismo craneal
+
+ANTECEDENTS:
+ANTECEDENTES PERSONALES:
+-	Alergias medicamentosas: no conocidas.
+-	TEP hace 10 años, anticoagulada con Sintrom desde entonces.
+-	Hipertensión pulmonar.
+-	Síndrome ansioso-depresivo.
+-	Colectomia por adenoma velloso con displasia de alto grado en abril 2008.
+-	Enfermedad de Parkinson.
+-	Artropatía degenerativa poliarticular.
+
+Tratamiento  domiciliario:  Sildenafilo,  Omeprazol,  Domperidona,  Citalopram,  Lorazepam,  Levodopa, Calcio, Sintrom
+
+Situación funcional previa: mRS 3. Camina con ayuda de bastón. hasta hace poco tiempo vivía sola; ahora está con una de sus hijas temporalmente mientras se recupera de una fractura de antebrazo izquierdo.
+
+MALALTIA ACTUAL:
+Paciente que acude tras presentar una caída en el baño; su familia la encontró consciente, se había golpeado en región occipital cntra la bañera. refieren caídas frecuentes. Se decide ingreso en planta de neurocirugia para control neurológico. Durante ingreso se evidencias movimientos repetitivos a nivel de parpados que se orientan como crisis comiciales se inicia tratamiento anticomicial con levetiracetam. Fue dada de alta en buenas condiciones sin embargo acude nuevamente a urgencias por persistencia de crisis comiciales con paralisis de Todd en hemicuerpo izquierdo.
+
+EXPLORACIÓ FÍSICA:
+GCS 15. Cosnciente, orientada. Lenguaje fluente y apropiado. Isocoria y normorreactividad pupilar. No asimetrías faciales. Fuerza y sensibilidad conservadas
+
+PRUEBAS COMPLEMENTARIAS
+-	Análisis de sangre: INR 2.6.
+-	TC cerebral: pendiente de informe radiológico. Se observa hematoma subdural en convexidad derecha, que condiciona desplazamiento de la línea media en 0.8 cm, componente de hemorrragia subaracnoidea
+
+EVOLUCIÓ:
+Se decide ingreso para monitorización neurológica, durante hospitalización presenta varios episodios de
+crisis comiciales que se manejan con aumento de dosis de levetiracetam hasta 1500mg cada 12 horas con lo que seden. EEG han descartado status epilepticus.
+
+Se realizó TAC craneal en el cual se osbervo la presencia de un HSD subagudo con efecto de masa, tras corticoterapia y por persistencia de déficit motor en extremidad inferior izquierda (4/5) se decide intervencio quirúrgica para drenaje del hematoma el día 20/10/17 con la paciente bajo anestesia local.
+
+Postoperatorio inmediato con recuperación funcional de deficit motor izquierdo. Ausencia de crisis. TAC craneal demuestra disminucion de volumen de hematoma con mejoria de desviación de linea media.
+
+Dada correcta evolución se decide el alta hospitalria con posteriores controles en CCEE de NCR.
+
+
+TRACTAMENT:
+-	Mantener medicación habitual excepto sintrom
+-	Levetiracetam 1500mg cada 12 horas
+-	Clexane 40mg cada 24 horas
+
+INDICACIONS:
+-	Le avisaran fecha y hora para realización de TAC craneal de control
+-	22/11/17 15:55 DR. _NAME_ - Neurocirurgia
+
+Dr/a.     _NAME_	Dr/a.     _NAME_
+Cap del Servei
+(Nº Col.legiat _ID_)	Metge/essa Resident
+(Nº Col.legiat _ID_
+
+Les seves dades personals s'incorporen en un fitxer d´usuaris a fi del seu tractament sanitari. Pot exercir el seu dret d´oposició, accés i rectificació de les dades inexactes dirigint-se al Servei de Documentació Clínica.
+Sus datos personales se incorporan en un fichero de usuarios para su tratamiento sanitario. Puede ejercer su derecho de oposición, acceso y rectificación de los datos inexactos dirigiéndose al Servicio de Documentación Clínica
+
+_SS_ | NIF _ID_ |_LOCATION_ | Telèfon _CONTACT_ | Fax _CONTACT_ | _CONTACT_
+Pàgina 1 de 2

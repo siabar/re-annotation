@@ -1,0 +1,85 @@
+I.CLINIC DE NEUROCIÈNCIES NEUROLOGIA
+
+_NAME_		NHC: _ID_
+Sexo/Sexe: Masc.	Fecha nac./Data naix.: _DATE_	Edad/Edat: 85 años
+Dirección/Adreça: _LOCATION_	SOBREAT.	CP: _LOCATION_
+Municip. (Prov.): _LOCATION_  ABS:_SS_		Tel.:_CONTACT_
+As.: _NAME_	CIP: _ID_	NASS: _ID_
+Nº epis.: _ID_	Tipo/Tipus: HOSPIT.	Ingres.: 20.01.2017
+Serv: NEUROLOGIA	UO Enf.: I064 SALA G DE NEUROL. INTE	Hora: 13:45:53
+Facult. de ref.: _NAME_		
+
+
+Tipo ingreso/Tipus ingrés: Urgent	Motivo/Motiu alta: Defunc.
+Diag.:
+ICTUS ISQUÉMICO ACMI (434.91) TRANSFORMACION HEMORRAGICA () EXITUS VITAE ()
+Proc.:
+
+
+
+
+INFORME EXITUS
+
+Motivo de consulta / Motiu de consulta
+Alteración del lenguaje y debilidad de extremidades derechas de inicio súbito.
+
+Antecedentes e historia previa / Antecedents i història prèvia
+Paciente de 84 años, sin alergias medicamentosas ni hábitos toxicos. Dependiente parcialmente para las ABVD (mRS4).
+Antecedentes patológicos:
+1.- Hipertensión arterial en tratamiento farmacológico. 2.- Dislipemia.
+3.- Diabetes melitus tipo 2 en tratamiento con ADOs.
+4.- Cardiopatía isquémica crónica demonstrada por coronarografía con lesiones múltiples difusas. En tratamiento medico con ASA, TNT transdermico y b-bloqueantes orales. Ingreso en Febrero del 2014 por ICC con derrame pericardico severo. Se realizó ecocardiograma que mostraba FE 47% VI hipertrofico no dilatado. IM leve-moderada.
+5.- FA crónica, actualmente sin tratamiento anticoagulante.
+6.- Arteriopatía crónica periférica. Amputación infracondílea de pierna izquierda y cuarto dedo de pie derecho.
+Medicación habitual (según SIRE): omeprazol, gliclazida, Fe, furosemida 40 mg/24h, carvedilol 6.25 mg/24h, atorvastatina 40 mg/24h, quetiapina 25 mg/24h, AAS.
+
+Proceso actual / Procés actual
+Paciente derivado desde Consultas Externas del HCP al presentar, mientras esperaba visita, un cuadro de inicio súbito de somnolencia, incapacidad para emitir el lenguaje y debilidad en extremidades derechas. Se activa código ictus intramuros.
+
+Exploración física / Exploració física
+Frecuencia respiratoria (rpm) 20, Glicemia capilar (mg/dl) 142, Pulsioximetría (%) 98. 20/01/2017-15:00:00 : PAS (mm Hg) 16 6, PAD (mm Hg) 68. 20/01/2017-16:00:00 : Tª axilar (ºC) 35. 21/01/2017-2 2:00:00 : FiO2 (%)
+
+60.
+TA 155/85, FC 65x', SaO2 99%, Afebril.
+Consciente. Mutista, no obedece órdenes. Desviación oculocefálica a la izquierda. Mirada conjugada desviada a la izquierda (llega a línea media con los ROCs). Reflejo de amenaza derecho abolido. Pupilas mióticas, isocóricas y NR. Hemiparesia facio(mod)-braquiocrural (0/5) derecha. RCP Derecho extensor. Sensibilidad y dismetrías no valorables. NIHSS 21.
+ACV: Ruidos arrítmicos. No signos de ICD. AR: MVC, sin ruidos sobreañadidos.
+Abdomen: blando, no doloroso.
+
+Evolución / Evolució
+1. ICTUS ISQUÉMICO EN TERRITORIO DE ART. CEREBRAL MEDIA IZQUIERDA (ACMI) CON TRANSFORMACIÓN HEMORRÁGICA PH2.
+Paciente que es traído por alteración del lenguaje y debilidad de extremidades derechas. En la exploración presenta un síndrome hemisférico izq, NIHSS 21. Se realiza TC basal que muestra ASPECTS 10 sin lesiones agudas. Se trata de un ictus de ACMI en paciente con factores de riesgo cardiovascular, por lo que se decide realizar fibrinólisis. Durante el procedimiento se observa gingivorragia y hemoptisis, aunque sin inestabilidad hemodinámica. Al acabarlo no se observan cambios clínicos.
+Ingresa en la Unidad de Ictus para control evolutivo. Posteriormente se realiza TC de control que muestra signo de art. cerebral media izq hiperdensa junto con extenso infarto en todo el territorio de ACMI y transformación hemorrágica PH2, por lo que se decide no iniciar tratamiento antitrombótico.
+En las próximas horas el paciente presenta un empeoramiento progresivo del cuadro clínico mostrandose arreactivo y con pupilas midriáticas arreactivas, desaturación con apneas frecuentes y signos de enclavamiento cerebral. Se explica a la familia el mal pronóstico decidiendose iniciar medidas de confort. El paciente es exitus vitae el dia 22 de Enero de 2017 a las 07:50h.
+
+Plan terapéutico / Pla terapèutic
+.
+
+Otras recomendaciones / Altres recomanacions
+.
+
+
+
+Firma/Signatura1: _NAME_	Firma/Signatura2: _NAME_ Categoría: Resident 4	Categoría: Especialista
+Nº Matrícula HCP: _ID_	Nº Matrícula HCP: _ID_ Fecha/Data: 22.01.2017
+Hora: 08:06:47
+
+
+
+
+
+
+
+
+
+
+
+
+
+Docum.: _ID_
+Hist. Clínica: _ID_	Vers. 00	Pag. 2 de	2
+Episod.: _ID_
+El _SS_ ha incorporado sus datos al Fichero de	_SS_	_SS_ ha incorporat les seves dades al
+Pacientes, para tratarlos con fines sanitarios.	_LOCATION_)	Fitxer de Pacients, per a tractar-los amb finalitats
+Puede ejercer sus derechos de acceso, rectificación,	_LOCATION_ (España)	sanitàries. Pot exercir els seus drets d'accés,
+cancelación y oposición, así como obtener mas información	Tel. _CONTACT_ Fax _CONTACT_	rectificació, cancel·lació i oposició, i obtenir més
+en la Unidad de Atención al Cliente.	<_CONTACT_/>	informació a la Unitat d'Atenció al Client.

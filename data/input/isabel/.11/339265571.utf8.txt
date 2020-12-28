@@ -1,0 +1,103 @@
+
+Cognoms:    _NAME_	Adreça:  _LOCATION_
+Nom:	_NAME_	_LOCATION_
+Edat: 74	Sexe:H	CIP:	_ID_	NIF:	_ID_
+Data naixement:   _DATE_	NHC:	_ID_	NASS:    _ID_
+Telèfon / Mòbil:	_CONTACT_ / _CONTACT_
+
+INFORME  D'ASSISTÈNCIA
+Metge/essa:	_NAME_
+
+Servei:	NEUROLOGIA
+Data ingrés:	11/02/ 2017	Data Alta: 20/02/ 17
+S'informa a:	Metge de família	Núm.  llit: _ID_
+
+
+
+DIAGNÒSTICS:
+1-	Ictus isquèmic  agut de  territori ACA esquerre  de  probable  mecanisme  embòlic i etiologia cardioembòlica.
+2-	Transformació hemorràgica de infart cerebral agut, assimptomàtica 3-   Fibrilació auricular
+4-   Cardiopatia isqùemica severa. 5-   Hipertensió arterial
+6-	Dislipèmia
+7-	Diabetes mellitus
+8-	Malaltia de buerger
+9-	Claudicació intermitent (arteriopatia perifèrica) 10- Espondiloartrosis
+11- Hiperplasia benigne de pròstata 12- Hipoacusia
+
+PROCEDIMENTS: Rm cerebral, TC cranial, Ecocardiograma transotràcic, Doppler TSA
+
+Pacient de 74 anys d'edat, ex-fumador fins fa 15 anys, no enolisme ni al.lèrgies medicamentoses conegudes, que ingressa per sospita de ictus.
+
+ANTECEDENTS  PATOLÒGICS:
+-	Hipertensió arterial
+-	Diabetis mellitus tipus 2 no insulino-dependent.
+-	Dislipèmia
+-	Cardiopatia isquèmica crònica amb malaltia coronaria de 3 vasos molt difusa i calcificada. Mal cas per a revascularitzar. A'octubre de 2015 ingressa de forma electiva per a cornariografia i s'implanta angioplastia i stent farmacoactiu a DA ostial. Seguiment per cardiologia (Dr. _NAME_) a _SS_.
+-	Fibrilació auricular en tractament amb Sintrom.
+-	Malaltia de Buerger i claudicació intermitent. Controlat a CCEE de Cirurgia Vascular.
+-	Insuficiència venosa a EEII.
+-	Psoriasi cutània invertida, actualment asimptomàtica.
+-	Despreniment de retina en dues ocasions. Amaurosi residual ull esq. 25%, ull dret 60%.
+-	Espondiloartrosi, hèrnies discals i gonartrosi, pel que ha seguit controls a COT i actualment a Clínica del Dolor, amb tractament mèdic (actualment pregabalina i palexia, zaldiar no eficaç) i infiltracions epidurals.
+-	Hiperplàsia benigna de pròstata.
+-	Hipoacúsia.
+-	Intervencions quirúrgiques: apendicectomia, colecistectomia.
+
+Tractament habitual: Clexane80mg/12h  (retirat sintrom  previ infiltració epidrural)  Lyrica 75,  0-0-1. Palexia retard 0-0-1. Hidrosaluretil 1-0-0. Omeprazol 1-0-0. Atorvastatina 40 mg, 1-0-0. Adiro 100 mg,
+1-0-0. Acfol 0-0-1. Janumet 1-0-0. Idaptan 1-0-1. Minitran pegats 15 mg, 1-0-0. Praxilene 100 mg, 1-
+0-1. Perindopril 1-0-0. Sinalar òtic i Baycip òtic. Unimasdil retard 200 mg, 1-0-0. Tamsulosina 0-0-1. Situació funcional: requereix ajuda per les seves activitats de la vida diària, limitat funcionalment per espondiloartrosi i claudicació intermitent. Viu amb la seva esposa. No surt al carrer. Capaç de conduir i de deambular per casa amb recolzament. mRS 3
+
+MALALTIA ACTUAL:
+El pacient presenta de forma sobtada el mati del divendres 10.02.17 a les 12:15 hores, debilitat a extremitats dretes que motiva caiguda al terra i no poder-se aixecar, junt amb trastorn del llenguatge, pel que és portat a Urgències. Arriba a les 13:25 hores, amb parèsia 3/5  a  EID  i  hipoestèsia ipsilateral. A les 17:15 s'activa codi ictus, considerant-lo no tributari de tractament de reperfusió a fase aguda per clínica mínor. TAC cranial i angio-TAC no concloents. INR 1'14. S'instaura tractament anticoagulant amb Heparina i ingressa a Neurologia per a estudi.
+
+EXPLORACIÓ FÍSICA:
+ A L' ingrés : 
+TA 119/70. Afebril. AC: arítmica. No bufs. AR: MVC. Abdomen: tou i depressible, diàstesi de rectes, no edemes.
+Exploració neurològica: Conscient i orientat. Llenguatge normal. No alteracions de parells cranials ni campimètriques. No parèsies a EESS. Parèsia 3+/5 EID, no dismetries dit nas. Hipoalgèsia, hipoestèsia i extinció sensitiva a EEDD. Reflexes miotàtics presents i simètrics. RCP flexor bilateral. Marxa possible amb recolzament, hemiparètica dreta i poliàlgica. NIHSS: 0-0-0-0-0 / 0-0-0-2-0 / 0-1- 0-0-1 = 4.
+
+Al alta: concient i orientat. No disartria, llenguatge normal (nomina, evoca corerctame nt). No paresia facial. No claudicació braquial ni Miller Fisher, mínima paresia crural dreta a mb marxa cautelosa però autònoma. No clar trastorn sensitiu. Campimetria i oculomotricitat normal. NIHSS: 0-0-0- 0-0//0(0-0)(0-0)//0-0-0-0- 0= 0
+
+EXPLORACIONS  COMPLEMENTÀRIES:
+Analítica a Urgències: bioquímica i hemograma sense alteracions significatives. INR 1'14.  Eq. Venós: sense alteracions significatives.
+ECG: FA a 70x'. Sense signes d'isquèmia aguda.
+Rx columna lumbo-sacra: canvis degeneratius amb anterolistesi L5.
+TAC cranial: signes de vasculopatia crònica, malaltia de petit vas, atròfia córtico-subcortical. Angio-TAC: no informat per deficient preparació de la fase de contrast.
+RMN  cranial:  Area  de  hematoma  intraparenquimatoso  frontoparietal  izquierdo  subcortical con ede ma perilesional que podría  corresponder a transformación hemorrágica de AVC isquémico (no se ve sangre en TC del 10/02/2017). Llama la atención que   no se ven áreas de restricción a la difusión	que	sugieran	isquemia	aguda.	Moderados	signos	de	atrofia	cerebral	difusa. Leucoaraiosis.
+Anlítica a planta: Bioquímica: glucosa 258 mg/dl, urea 39 mg/dl, creat 0,82 mg/dl, FG>60, urat 6.1
+mg/dl, Na+ 139 mmol/l, K+ 4,3 mmol/l, Cl- 94,8 mmol/l, Br 0,76 mg/dl, Ast 13, ALT 16, GGT 29 Ui/l, FA 62 UI/l, Proteïnes 6,2 g/dl, Albumina 4.0 g/dl, colesterol 134 mg/dl, Proteïnograma: Desplaçament electroforètic normal. Hematologia: Hb 14.5 g/dl, VCM 87 fL, leucos 9080 (N 71%, L 20%), pqt 178000.
+Ec oc ardio gra ma transtoràc ic : Ventricle esquerre no dilatat ni hipertròfic. Contractilitat  global  i segme ntaria conservades. LLeugera calcificació  valvular  mitro-aòrtica.  Insfuficiència  mitral lleugera. DLA0 lleugera. Arrel aòrtica lleugerament dilatada. Aorta ascendent lleugerament dilatada. Auricula esquerre moderadament dilatada. Cavitats dretes  norma ls.  Insuficiència tricuspidea lleugera funcional, sense hTAP significativa. Tabic intrauricular integre.
+T C c rani c ontrol: Hematoma frontoparietal subcortical izquierdo con ede ma perilesional de evolución subaguda, que no se ve en TC del  10/02/2017. Atrofia corticosubcortic al global con dilatación de los surcos cerebrales y ligeramente del siste ma ventricular.   Leucoaraiosis con hipodensidad de la sustancia blanca periventricular.   Parénquima encefálico y cerebelo sin otras
+alteraciones significativas.  Sistema ventricular simétrico y centrado en la línea me dia, de morfología normal. Cisternas basales normales.
+Do ppler T SA: Abudnantes placas hiperecogénicas en todo el recorrido de ACC i bifurcaciones.
+Observo flujo preservado en ambas ACIs pero no puedo insonar todo el rec orrido inicial de las ACIs por presencia de placas.
+
+EVOLUCIÓ:
+
+Pacient de 74 anys, amb FRCV, cardiopatia isquèmica a mb malaltia de 3 vasos (1 stent), FA en tractame nt amb sintrom, malaltia de Buerger i claudicació intermitent (sever vasculopata). Ingressa per debilitat aguda i trastorn sensitiu d'extremitats dretes a mb alteració del llenguatge el dia 10/02/17. Es desestima tractament fibrinolític, i el TC cranial i angioTC no sembla que hi hagi oclusió aterial. S'havia realitzat canvi mome ntani de sintro m per heparina per infiltracions durant aquests dies i s'havia reintroduit sintrom però en l'analtiica INR 1, 14. En l'exploració inicial a urgències presenta NIhSS 4 a expenses de paresia crural dreta, trasorn sensitiu d'hemicòs i dificultat  de la  ma rxa.  Ingressa a Neurologia per estudi i s'adiministra traca ment  anticoagulant a mb  heparina  subcutania.  Durant  l'ingrés  es  ma nté  he modinà micament  estable,   sense complic acions sistè miques i neurològica ment presenta milloria clara de la focalitat, quedant pràcticament assimptomàtic (mínima paresia crural), però amb deambulació igual que la previa. Per l'estudi etiològic es realitza una analítica que no mostra alteracions destacables. L'ECg mostra fibrilació auricular ja coneguda, l'ecocardiograma  mostra fracció d'ejecció conservada. En l'estudi a mb RM cerebral s'observa presència de hemorragia cortical fronto-parietal esquerre que correspon a transformació hemorràgica secundaria  a  ictus  isquèmic  territori ACA  esquerre  pe l qual es retira anticoagulació durant 3 dies. El dia 20/02 es reincia l'anticoagulació però amb anticoagulants d'acció directe ja que ha presentat un ictus estant amb tractame nt a mb sintrom i normalment té mals controls de  INR.  Tolera  dieta,  sedestació  progressiva,  deamb ulació  amb ajuda.
+
+S'orienta doncs com ictus isquèmic  de  terrtitori parcial ACA esquerre  de  mecanisme embòlic  i etiologia cardioembòlica. Al alta NIHSS 0, mRS 3
+
+TRAC TAMENT:
+
+Pradaxa 110mg 1 comprimit cada 12h
+Lyrica 75, 0-0-1.
+Palexia retard 0-0-1.
+Hidrosaluretil 1-0-0.
+Omeprazol 1-0-0.
+Atorvastatina 40 mg, 1-0-0.
+Adiro 100 mg, 1-0-0. Acfol 0-0-1.
+Janumet 1-0-0. Idaptan 1-0-1.
+Minitran pegats 15 mg, 1-0-0.
+Praxilene 100 mg, 1-0-1.
+Perindopril 1-0-0. Sinalar òtic i Baycip òtic.
+Unimasdil retard 200 mg, 1-0-0.
+Tamsulosina 0-0-1.
+
+CONTROL:
+
+Primera visita a CEX de Neurologia amb Dra _NAME_ el dia 22/05/17 a les 13:40h
+Primera visita a CEX de Cardiologia per a seguiment de cardiopatia isquèmica amb Dra. _NAME_ el dia 05/05/17 a les 9:00h
+Se l'avisarà per a realitzar tractament rehabilitador a domicili
+Faig PAO per a caminador
+
+Signat per _NAME_ núm.col: _ID_ Data/Hora:20-02-2017 13:11

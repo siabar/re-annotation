@@ -1,0 +1,61 @@
+T0	FECHA 100 110	19/10/2017
+#0	AnnotatorNotes T0	2017-10-19
+T1	FECHA 124 132	26/10/17
+#1	AnnotatorNotes T1	2017-10-26
+T2	SECCION_ANTECEDENTES 326 338	Antecedentes
+T3	SECCION_SITUACION_FUNCIONAL 405 420	Situación basal
+T4	SECCION_PROCESO_ACTUAL 599 616	Enfermedad actual
+T5	FECHA 621 626	18/10
+#5	AnnotatorNotes T5	2017-10-18
+T6	HORA 637 642	20:00
+#6	AnnotatorNotes T6	20:00
+T7	_SUG_TAC_craneal 756 766	TC craneal
+T8	_SUG_Trombolisis_intravenosa 797 801	rtpa
+T9	HORA 824 829	21:20
+#9	AnnotatorNotes T9	21:20
+T10	_SUG_Trombectomia_mecanica 873 889	tto endovascular
+T11	_SUG_mRankin 1127 1132	mRs 0
+T12	HORA 1189 1194	20:00
+#12	AnnotatorNotes T12	20:00
+T13	HORA 1328 1333	20:45
+#13	AnnotatorNotes T13	20:45
+T14	_SUG_NIHSS 1390 1397	NIHSS 8
+T15	_SUG_TAC_craneal 1549 1559	TC craneal
+T16	_SUG_Trombolisis_intravenosa 1655 1661	rTPAev
+T17	HORA 1668 1673	21:20
+#17	AnnotatorNotes T17	21:20
+T18	_SUG_Trombectomia_mecanica 1751 1770	rescat endovascular
+T19	_SUG_TAC_craneal 1798 1808	TC craneal
+T20	_SUG_NIHSS 2247 2254	NIHSS 4
+T21	_SUG_TAC_craneal 2424 2434	Tc craneal
+T22	_SUG_TAC_craneal 2558 2560	TC
+T23	_SUG_Trombolisis_intravenosa 2614 2620	rTPAev
+T24	_SUG_Trombectomia_mecanica 2637 2656	rescat endovascular
+T25	SECCION_CONTROL 2708 2711	PLA
+T26	_SUG_TAC_craneal 2873 2883	Tc craneal
+T27	SECCION_CONTROL 5964 5971	Control
+T28	SECCION_EXPLORACION_FISICA 2904 2922	Exploración física
+T29	FECHA 2929 2934	19/10
+#29	AnnotatorNotes T29	2017-10-19
+T30	SECCION_EXPLORACIONES_COMPLEMENTARIAS 3192 3221	Exploraciones complementarias
+T31	_SUG_TAC_craneal 3879 3889	TC craneal
+T32	HORA 3899 3901	24
+#32	AnnotatorNotes T32	24:00
+T33	_SUG_ASPECTS 4286 4293	aspecte
+T34	_SUG_ASPECTS 4365 4372	aspecte
+T35	FECHA 4500 4510	24/10/2017
+#35	AnnotatorNotes T35	2017-10-24
+T36	_SUG_Tratamiento_anticoagulante 4568 4573	53bpm
+T37	_SUG_TAC_craneal 4794 4796	TC
+T38	_SUG_TAC_craneal 4967 4969	TC
+T39	SECCION_EVOLUCION 5126 5135	Evolución
+T40	_SUG_TAC_craneal 5481 5483	TC
+T41	SECCION_DIAGNOSTICOS 5522 5534	Diagnósticos
+T42	_SUG_Ictus_isquemico 5536 5553	Infarto isquémico
+T43	_SUG_Arteria_afectada 5580 5583	ACM
+T44	_SUG_Lateralizacion 5584 5588	izda
+T45	_SUG_Trombolisis_intravenosa 5601 5605	rtPA
+T46	_SUG_Etiologia 5609 5632	etiología indeterminada
+T47	_SUG_ASPECTS 5698 5705	aspecto
+T48	SECCION_TRATAMIENTO_AL_ALTA 5771 5782	Tratamiento
+T49	_SUG_Tratamiento_antiagregante 5841 5846	Adiro

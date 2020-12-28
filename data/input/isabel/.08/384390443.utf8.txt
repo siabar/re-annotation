@@ -1,0 +1,112 @@
+SERVEI DE NEUROLOGIA
+INFORME DE ALTANº Historia clínica	_ID_
+Fecha de nacimiento
+_DATE_
+
+C.I.P.	_ID_	Código Centro	_ID_
+Teléfono	_CONTACT_	Dirección	_LOCATION_
+Fecha ingreso	21/06/17		_LOCATION_
+Fecha de alta	26/06/17	Teléfono	_CONTACT_
+Nº Asistencia	_ID_		
+UH	_ID_		
+
+DIAGNÓSTICOS:
+1.	ICTUS PACI de ACM izquierdo de origen criptogénico.
+2.	NÓDULO PULMONAR EN LÓBULO SUPERIOR DERECHO EN SEGUIMIENTO
+3.	DISLIPEMIA
+4.	ARTRITIS REUMATOIDE SEROPOSITIVA.
+5.	CARCINOMA ESCAMOSO DE CUERO CABELLUDO.
+
+
+Varón de 61 años de edad. IABVD. Vive con su familia. eRM 0. Sin AMC. Fumador.
+
+PROCEDIMIENTOS:
+TC craneal x2 AngioTC
+TC de tórax
+Ecocardiograma transtorácico.
+
+
+MOTIVO CONSULTA:
+Código ictus extrahospitalario (parálisis facial y disartria)
+
+ANTECEDENTES:
+-	Nódulo en lóbulo superior derecho. Sigue controles por neumología estable.
+-	Dislipemia en tratamiento médico
+-	Artritis reumatoide en tratamiento con metotrexate hasta mayo.
+-	Carcinoma escamoso cuero cabelludo con exéresis en 2016.
+-	Hace un  mes  presenta  nerviosismo por  la  noche, se  detectan crepitantes bibasales y se inicia furosemida.
+Tratamiento:
+-	Simvastatina 20 mg /24h
+-	Furoseminda 40mg /24h
+
+ENFERMEDAD ACTUAL:
+Paciente traído a Urgencias como código ictus extrahospitalario el día 21/06/2017 a las 18:33 horas, por presentar a las 15:00 horas cuadro súbito de desviacion de la comisura facial, aunque le insisten en acudir al médico el paciente en un principio refiere que no desea acudir pero posteriormente se le añade sensación de torpeza mental con cierta dificultad para manifestar lo que quiere expresar (aunque ni el ni su mujer refieren claros bloqueos del lenguaje o parafasias). Acuden por este motivo al CAP quien refiere en su nota objetiva desviación facial y afasia y activa código ictus. Niega cefalea, mareos nauseas o vómitos.
+A su llegada se pasa el paciente directamente a códigos donde tras exploración solo se objetiva leve facial sn derecho y disartria.
+
+EXPLORACIÓN FÍSICA:
+-	Exploración física en UCIAS:
+TA 182/81, FC 60, Tª afebril, Glicemia basal 100, Saturación O2 99 Abdomen: anodino.
+
+Nombre	_NAME_	
+
+Neurológico: consciente. Orientado en las 3 esferas. Lenguaje conservado (nomina, comprende repite) evoca sin dificultad (capaz de nominar animales, colores, nombres de grupos, meses hacia atrás). Leve disartria. MOEs conservados y simétricos, no nistagmus. Facial sn derecho, resto de pares craneales sin alteraciones. Fuerza: balance muscular conservado. No alteraciones sensitivas. RCPFI, indiferente derecho. No dismetría o disdiadococinesia NIHSS 2
+
+- Exploración física en Unidad de Ictus: TA 131/70 mmHg
+FC 58lpm Afebril.
+AC: tonos rítmicos sin soplos. AP. MVC
+NRL: C y O, MOE`s sin alteraciones, Campimetría x confrontación sin alteraciones, paresia facial derecha(1), resto PPCC normales, miller-fisher asimétrico derecho, sensibilidad conservada, leve disartria (1), fluencia disminuida, repetición-evocación-comprensión-nominación respetada. NIHSS 2.
+
+EXPLORACIONES COMPLEMENTARIAS:
+-	Analítica UCIAS (21/06): Glucosa 99mg/dl, creatinina 0.88mg/dl, Na 141,5 mmol/l , K 4.46 mmol/l, Cl 107.9mmol/l, FG 93 ml/min/1.73m2, CK 172U/l, PCR 1.2mg/dl, Hb 15.3 g/dl, Leucocitos 11160/ul, Neutrofilos 6200/ul, Plaquetas 236000/ul, Fibrinogeno >500mg/dl- ECG: RS a 60 lpm
+-	TC craneal basal + AngioTC(21/06,19.18h): Estudio sin contraste sin alteraciones  densitométricas valorables (ASPECTS 10). Oclusión de una rama insular del segmento M3 de la arteria cerebral media izquierda.
+-	Dúplex TSA: probable oclusión M3 ACM izquierda
+-	Analítica  de  ingreso:  Analítica:  Urea:  31mg/dl;  Creatinina:  0,67mg/dl;  A.  uric:  6,1mg/dl;  Na: 140mmol/L; K: 4,1mmol/L; Cl: 102mmol/L; LDH: 244ui/L; CK: 85ui/L; Bil: 0,6; AST: 20UI/l;  ALT: 25ui/L; GGT: 34ui/L; FA: 94ui/L; Proteinas totales: 6,9g/dl; Albumina: 4,2g/dl; Col: 168mg/dl;  LDL: 105mg/dl; HDL: 38mg/dl; TAG: 130mg/dl; TSH: 6,28mcUI/ml; T4: 0,96ng/dl; HbA1C: 5,7%;  PCR: 2,56; Hb: 15,1g/dl; Leucocitos: 9260; Neutrofilos: 5020; Plaquetas: 229000; INR; 0,98.
+Pendiente de estudio protrombótico
+-	TC craneal control (26/6): No se identifican signos de transformación hemorragica. Infarto capsulolenticular izquierdo .
+-	Ecocardiograma TT: Ventrículo izquierdo no dilatado ni hipertrófico sin alteraciones segmentarias de la contractilidad y función sistólica normal. FE 64%. Función diastòlica normal. Ventriculo derecho no dilatado con dinámica preservada. Raiz aórtica no dilatada. Aorta ascendente no dilatada. Aurículas no dilatadas. No shunt derecha-izquierda durante el paso de burbujas.
+
+
+EVOLUCIÓN:
+Se trata de un paciente de 61 años, con factores de riesgo vascular que presenta cuadro compatible con ictus PACI de ACM izquierda (NIHSS de 5). Se realiza TC y angioTC que muestra oclusión de una rama insular del segmento M3 de arteria cerebral media izquierda.
+El paciente ingresa en Unidad de Ictus para monitorización y estudio neurovascular. Se coloca dispositivo SRA para detección de arritmias.
+Se inicia antiagregación con aspirina 300mg cada 24h, estatinas y heparina profiláctica.
+Durante la estancia en planta se realiza un ecocardiograma transtorácico que no muestra ninguna alteración anatómica y una FEVI conservada. Se monitoriza sin objetivar ninguna alteración del ritmo cardíaco y se realiza estudio protrombótico pendiente de resultados.
+Ante dichos hallazgos se decide colocar Holter 24h como parte del estudio de ictus criptogénico.
+Se valoran al ingreso el estado de ánimo, las necesidades de rehabilitación y se inician fisioterapia y movilización precoces.
+Durante el ingreso presenta empeoramiento de la alteración del lenguaje presentandose menos fluente y con tendencia a presentar parafasias y repetición, por lo que se realiza TC craneal de control  que evidencia ictus isquémico en territorio profundo de ACM izquierda. Se raliza además TC de  tórax ya programado ambulatoriamente.
+Durante el ingreso se realiza educación sanitaria acerca del ictus.
+No presenta complicaciones, y dada la estabilidad clínica se decide alta a domicilio con rehabilitación a domicilio y logopedia.
+
+Al alta se mantiene tratamiento antiagregante con 300mg debido a tratarse de un ictus criptogénico sin evidencia de causa embólica.
+Etiología TOAST indeterminado tras estudio completo, Oxford PACI. Al alta NIHSS 3, Rankin 1. Debe seguir controles en CCEE de Neurología en fecha programada.
+
+
+TRATAMIENTO:
+AL ALTA:
+-	CONTROL DE LA DISLIPEMIA: ATORVASTATINA 40mg cada 24h
+
+-	ANTIAGREGANTE: ÁCIDO ACETILSALICÍLICO 300mg cada 24h
+
+-	TRATAMIENTO INSUFICIENCIA CARDÍACA: FUROSEMIDA 40MG 1/2 cada 24h
+
+
+-	PREVENCIÓN ÚLCERA GÁSTRICA: OMEPRAZOL 20MG CADA 24H
+
+INDICACIONES:
+-	Visita con neurologia en menos de 1 mes
+-	Se recomienda control estricto de enfermedades que aumentan el riesgo de ictus: hipertensión arterial, diabetes, colesterol elevado (dislipemia) y enfermedades del corazón. Realizar el tratamiento de forma adecuada según las recomendaciones de su médico.
+-	Abstención de tabaco y alcohol
+-	Seguir una dieta adecuada, con poca sal, evitando grasas, especialmente las saturadas (grasas animales, aceites y grasas para cocinar).
+-	Evitar la obesidad y el sobrepeso y realizar ejercicio físico moderado de forma regular.
+
+Dr/a.	_NAME_
+Dr/a.	_NAME_	Dr/a.	_NAME_
+Cap Secció	(Nº Colegiado : _ID_)
+Metge/essa Adjunt
+(Nº Colegiado _ID_Metge/essa Resident
+(Nº Colegiado _ID_
+Les seves dades personals s'incorporen en un fitxer d´usuaris a fi del seu tractament sanitari. Pot exercir el seu dret d´oposició, accés i rectificació de les dades inexactes dirigint-se al Servei de Documentació Clínica.
+Sus datos personales se incorporan en un fichero de usuarios para su tratamiento sanitario. Puede ejercer su derecho de oposición, acceso y rectificación de los datos inexactos dirigiéndose al Servicio de Documentación Clínica
+
+_SS_ | NIF _ID_ |_LOCATION_ | Telèfon _CONTACT_ | Fax _CONTACT_ | _CONTACT_
+Pàgina 1 de 3

@@ -1,0 +1,128 @@
+
+
+
+
+
+Informe d'Alta d'Urgències	Cognoms i nom:
+_NAME_	NHC:
+_ID_
+	ABS:
+_SS_	CIP:
+_ID_	DNI:
+_ID_
+	Data de naixement:
+_DATE_	Sexe:
+Home	Edat:
+64a	Telèfon:
+_CONTACT_
+	Adreça:
+_LOCATION_
+	Finançament:
+CatSalut - _LOCATION_	Procedència:
+URGÈNCIES
+Episodi:
+_ID_	Admissió:
+08.07.2017 - 16:40	Assistència:
+08.07.2017 - 20:08	Servei:
+URGENCIES MEDICINA
+
+
+
+Motiu Consulta:
+Código ictus
+
+
+MALALTIA ACTUAL
+Paciente que el 15/06/2017 presenta una clínica transitoria de alteración visual, disartria y hemihipostesia/hemiparesia izquierda, junto con pérdida del nivel de conciencia, estando de viaje en _LOCATION_. Allí se realizó 2 TC craneales normales y ecoDoppler TSA normal. Acudió a _SS_ a su vuelta, y fue valorado por Neurovascular (Dr _NAME_). En ese momento la EN era normal, y se realizó un nuevo ecoDoppler transcraneal y TSA con hallazgo de estenosis > 50% ACP izda, sin otros hallazgos. El ECG estaba en ritmo sinusal. Se dejó monitorizado en urgencias y se solicitó CRI para realización de RM cerebral y ecocardiograma (pendientes en este momento). Seinició hibor a dosis anticoagulantes y se derivó a Hemostasia para inicio de anticoagulación. Aunque no encuentro en ningún informe que se detectara ACxFA, el paciente acudió a Hemostasia y se inició tratamiento con pradaxa, que está cumpliendo. Última dosis: esta mañana.
+
+Acude de nuevo a urgencias por presentar, desde el despertar, sensación de acorchamiento de ESI, sin debilidad asociada. En torno a la 13.30h y en contexto de discusión familiar, el paciente  nota que el acorchamiento empeora y se comienza a marear, presentando de nuevo pérdida del nivel de conciencia (no tengo testigos). Al recuperar el NC nota debilidad de ESI y llama al SEM, quien activa el código ictus.
+
+A su llegada, la clínica de debilidad había comenzado hacía 1h y media y prácticamente ha remitido.
+
+
+ANTECEDENTS
+Antecedents patològics
+Antecedentes patologicos
+-	Adeconaca de protstat intervenido en 2010 en remisión completa, en seguimientoen _SS_
+
+-	Polipos colónica con FCS periodicas.
+
+-	Flutter auricular ablacionado en 2013
+
+-	Recientemente estudiado en _SS_ por ictus de territorio posterior, pendiente de estudio mediante CRI
+
+Tratamiento habitual Junio 2017 BISOPROLOL NORMON 5MG 1 x 24 h. SIMVASTATINA 20MG  1 x 24 h.
+PRADAXA 150 MG/12H
+
+FRCV DLP
+no HTA no DM
+
+Alergias
+Alergia a a trigon depot (coriticoides) con rash cutáneo.
+
+Historia cardiologica
+Clínica de palpitaciones desde hace varios años, incluso con 20 años. Tenía episodios 3-4 episodios mensuales de max 30min-1h. Visitado por Dr. _NAME_ se putuó tto con AAS + bisoprolol Desde entonces, únicamente ha tenido 3-4 episodios en todo este tiempo, de máx 15 min de duración.
+
+ETT: Ventrículo izquierdo no dilatado con buena contractilidad global y segmentaria. Paredes ventriculares de grosor normal. Aurícula izquierda ligeramente dilatada (area 23cm2, diamétro 43mm). V. Mitral morfológica y funcionalmente normal.
+Raíz   aórtica   no   dilatada.   Válvula   aórtica   ligeramente	engrosada   con   puntos   de   calcificación.
+Funcionalmente normal. Cavidades derechas sin hallazgos significativos. Ausencia de derrame pericárdico.
+
+HOLTER 25-01-2013 (qurión): ritmo sinusal de día y Fibriloflutter gran parte d ela noche con FC medcia de 160lpm.
+ECG 4-06-2013: ritmo sinusal, 54 lpm, PR 0.2, qrs<0.11, eje 0º, sin alts de la repol.arización
+
+Holter ECG 9/2017: .RS normal. SIn hallazgos Suspension de tratamiento con adiro
+
+Estado funcional mRS 0
+
+EXPLORACIÓ FÍSICA
+Neurològica
+Vigil, orientado, no alteraciones del lenguaje ni el habla, campimetría por confrontación normal, MOEs sin limitaciones, no diplopia ni nistagmo, no paresia/hipostesia facial, resto de ppcc normales, balance motor normal (él percibe "flojera" del brazo izdo y presenta temblor proximal al mantener la elevación de ESI, pero no hay paresia objetivable, signo del pronador negativo, miller-fisher normal y no debilidad distal), no alteración de la sensibilidad epicrítica, no dismetrías, no extinciones. NIHSS 0.
+
+
+
+EXPLORACIONS COMPLEMENTÀRIES
+-	TC craneal urgente: No hay criterios radiologicos de indicación de TEV. No se aprecian alteraciones agudas, con dudosa pequeña lesión crónica cerebelosa derecha.
+
+-	ECG: Arrítimico con Ondas flutter con FC 77 lpm.
+
+-	No posibilidad de ecoDoppler por fallo técnico.
+
+-	Analítica sanguinea: Sodi 142 mmol/L ( 136 - 145 ) Potassi 3,76 mmol/L ( 3,50 - 5,10 ) Urea 6,5 mmol/L (
+2,9 - 8,2 ) 39 mg/100mL Creatinina 79 µmol/L ( 0 - 106 ) 0,89 mg/100mL Hemoglobina 151 g/L ( 130 - 170 )
+Hematòcrit 0,46 L/L ( 0,40 - 0,50 ) Hematies 5,61 x10E12/L ( 4,50 - 5,70 ) VCM 82,2 fL ( 80,0 - 98,0 ) CCMH
+328 g/L ( 320 - 360 ) HCM 26,9 pg ( 27,0 - 32,0 ) RDW 14,2 % ( 12,0 - 15,0 ) Plaquetes 181 x10E9/L ( 140 -
+350 ) VPM 8,7 fL ( 7,0 - 10,5 ) Plaquetòcrit 0,20 % Leucòcits 7,48 x10E9/L ( 3,80 - 11,00 ) Neutròfils 51,8 %
+Neutròfils absoluts 3,88 x10E9/L ( 1,80 - 7,00 ) Eosinòfils 1,9 % Eosinòfils absoluts 0,14 x10E9/L ( 0,05 - 0,50 ) Basòfils 0,4 % Basòfils absoluts 0,03 x10E9/L ( 0,00 - 0,10 ) Monòcits 4,7 % Monòcits absoluts 0,35 x10E9/L ( 0,30 - 1,00 ) Limfòcits 41,2 % Limfòcits absoluts 3,08 x10E9/L ( 1,00 - 4,00 ) Temps de tromboplastina 1,38 RATIO ( 0,75 - 1,30 ) Temps de protrombina 1,08 INR ( 0,75 - 1,20 ) Temps de trombina 217,20 s ( 17,00 - 24,00 ) Temps de reptilasa 18,60 s ( 16,00 - 23,00
+
+EVOLUCIÓ
+Paciente varón 64 a. con antecedentes de fibriloflutter por lo que va anticoagulado con pradaxa, AIT en estudio ambulatorio con CRI pendiente de RM cerebral, que acude a Urgencias por episodio de disminución del nivel de conciencia transtioria.
+Durante su estancia en Urgencias el paciente se mantiene hemodinámicamente estable, afebril, eupneico al aire, sin presentar nuevos episodios de disminución del nivel de conciencia.
+Valorado por NRL se realiza TC craneal inicial que no muestra lesiones agudas intracraneales. ECG que muestra fibriloflutter ya conocido, anticoagulado con pradaxa. Revalorado por Neurología explicando el paciente una perdida de tono súbita en mitad de una discusión, sin claro perdida de conciencia, sin vegetatismo; orientándose como cuadro sincopal.
+El paciente está endiente de realización de RM cerebral el 14/07/17 en estudio de CRI neurologia, y Holter el 18/07 con visita en Cardiología el 19/07/17.
+Dada la estabilidad clínica el paciente es dado de alta a domicilio con normas y pautas de reconsulta a Urgencias con visitas programas.
+
+RECOMANACIONS A L'ALTA
+-	Continuar dabigatran 150mg/12h
+-	Resto de tratamiento médico habitual.
+
+-	Se explican normas y pautas de reconsulta a Urgencias.
+
+- Acudir a controles en CRI Neurología y en Cardiología según visitas programadas.
+
+
+DIAGNÒSTICS
+-	Pérdida transitoria del nivel de conciencia
+-	Fibriloflutter
+
+
+Responsable clínic: Dr. _NAME_ (NºCol. _ID_)
+Equip mèdic: _NAME_ (NºCol. _ID_)
+
+Servei que ha donat d'alta:
+URGENCIES MEDICINA	Data d'alta:
+09.07.2017 - 14:29	Nom del metge _NAME_alta:
+_NAME_ (NºCol. _ID_)
+
+
+_LOCATION_, 12.07.2017
+Pàg. 1 de   4

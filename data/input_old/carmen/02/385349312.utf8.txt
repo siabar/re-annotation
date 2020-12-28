@@ -1,0 +1,65 @@
+_SS_
+_LOCATION_)  Tlf. _CONTACT_
+INFORME ALTA HOSPITALITZACIÓNHC	_ID_	Pacient	_NAME_	
+CIP	_ID_	Data Naix.	_DATE_	Edat 83+   Sexe Home	NASS	_ID_
+Adreça   _LOCATION_		CP	_LOCATION_
+Població_LOCATION_		Tel.	_CONTACT_
+Episodi  _ID_	Admissió	20.06.2017 12:29	Alta	29.06.2017 09:08
+Servei	UCIUO_SS_ Medicina intensiva		Unitat	UCIHCHBL
+
+DIAGNÒSTIC ALTA
+
+DADES INFORME
+
+Pacient de 82 anys, sense al.lèrgies medicamentoses conegudes, que ingressa per ACR recuperada Antecedents patològics
+-	Pneumopatia crónica, mai fumador, atribuïda a contacte laboral (_LOCATION_?), controlada per Pneumologia, darreres PFR al febrero del 2016 amb VEMS 57%, CVF 59%, VEMS/CVF 97%, PBD negativa i estudi de difusió normal.
+Alguna
+consulta a urgències per agudització, mai ingressos
+-	TVP femoropoplítia Esquerra l#any 2012, pel que va estar en tractament amb Sintrom
+-	catacactes
+-	HTA que tracta farmacològicament amb bons controls segons cursos HCC. Ecocardiografía al 2014: # Ventrículo izquierdo no dilatado con ligera hipertrofia septal . Función sistólica global conservada y sin grandes defectos segmentarios aparentes aunque con las limitaciones citadas (FEVI visual 60%). Función diastólica con patrón de alteración de la relajación. Aurícula izquierda no dilatada. Válvula mitral morfológicamentenormal con mínima insuficiencia protosistólica. Raíz aórticano dilatada. Válvula aórtica funcionalmente normal. Cavidades derechas mal visualizadas, pero podrian estar ligeramente dilatadas, pero normocontráctiles. Sin insuficiencia tricuspídea que permita estimar PAPs, pero sin signos indirectos de aumento de las resistencias vasculares pulmonares. Vena cava inferior no visualizable. Ausencia de derrame pericárdico.#
+-	Consta hiperglicèmia al gener del 2016, no diagnòstic de diabetes
+-	Esteatosis hepática posible diagnosticada ecogràficament al 2014
+-	Autònom per totes les AVD i amb funcions superiors conservades
+-	Tractament habitual: Hidrosaluretil 50 mg/24h I broncodilatadors (Dualkir genuair c/12h I Atrovent) Malaltia actual
+Les últimes 24h spresenta decaiment, a la matinada s#aixeca dues vegades, referent sensación de mareig. Aquest matí,
+veient que no es llevaba, la senyora el va a buscar i el trova aixecat però amb debilitat a les cames, agafat al marc de la porta, i amb aturdiment, pel que l#estira a terra i avisa a la filla que constata sombolència i lentitud en la resposta, inicialment orientada i després amb alguna resposta incoherent. Nàusea sense vòmits. És dut a urgències on arriba amb constants i glicèmia estables, amb resposta amb monosílabs a estímuls, obeeix orders senzilles. Possible extinció visual esquerra I lleu claudicació EIE, amb RCP flexor bilateral I sense alters
+alteracions a l#exploració. Es descarta causa farmacológica i metabólica de l#estat de consciencia, essent orientat com AVC vertebrobasilar amb NIHSS de 5.
+Es realitza angio-TC que descarta oclusió intracranial. Estant en aquest estat en espera de llit a UCI avisa la
+filla perquè #es posa blau# constatant-se aturada cardiorrespiratoria i iniciant-se maniobres de RCP. Primer ritme bradicardia rítmica (DEM). Destaca cianosi facial intensa durant les maniobres de CRP. Es realicen maniobres aproximadament uns 10 min, recuperant inicialment pols però inestable i precisant 1 mg d#adrenalina en dues ocasions. Un cop recupera pols es fa VSCan que descarta vessament pericardíac, observa bona funció VEi evidencia hipocinesia inferior post-recuperació a FC 150x# que desapareix al normalitzar el ritme cardíac.
+No precisa sedants per la IOT, l#exploració neurológica inmediata mostra pupil.les mitjes arreactives, absència de reflexes oculocefàlics ni resposta al dolor.
+Ionograma pre-PCR normal, no acidosi ni hipercapnia prèvia., Ddimer 600, troponina I negativa.
+		
+
+Amb la sospita de TEP versus AVC tronc es repeteix angioTC que evidencia arteries intracranials permeables i descarta TEP de grans arteries, així com pneumotorax. Durant la primera hora presenta labilitat eléctrica (episodis autolimitats de bradicardia sinusal) i hipotensió que requereix aport de volum i dosi baixes de noradrenalina Exploració física
+FC 80x#, TA 117/80, SpO2 99% amb FiO2 al 0,8. Pacient en coma, Glasgow 3, no resposta a estimuls dolorosos.
+Pupil.les miòtiques arreactives. No reflexes oculocefàlics ni cornials. No reflexe tussigen ni nauseós, no
+respiracions espontànies (no realitzat tes de l#apnea). Taquicardització franca amb 1 mg d#atropina (de 80 a 140x#). ROTs molt dèbils, RCP flexor bilateral.
+AR amb MV conservat, espiració allargada I sibil.lants espiratoris. AC rítmica, no bufs ni frec. Abdomen moltglobulós, tou i depresible, no doefensat, no megàlies
+Exploracions complementaries
+-	Analítica post_RCP: 16400L, Hb 162 g/L, 226000 plaquetes, creatinina 0,8 mg/dL, Na 137, K 3,9, troponina I 190
+- GSA (FiO2 1): pH 7,26, PaO2 166, PaCO2 50, lactat 1,4
+-	Rx torax: Cardiomegàlia. Catéter amb punta a VCS, TOT a 2,5 cm de carina
+-	Segundo angioTC: # No hay variantes anatómicas ni estenosis valorable en origen de troncos supraaórticos. Oclusión de a. vertebral izquierda desde origen. Respecto al TC previo de esta mañana se aprecia un retardo en la opacificación de la arteria basilar , especialmente en tercio inferior por probable trombosis parcial , y se
+opacifica tardíamente en cortes tardíos .
+Arterias carótidas comunes de calibre normal y regular con ateromatosis calcificada mural leve de ambos bulbos sin asociar estenosis significativas. Trayecto cervical de arterias carótidas internas normal. Correcta visualización de emergencia de arterias cerebrales anteriores y medias así como de sus comunicantes.Leve irregularidad mural de las ACmedias, sin estenosis significativas. Ateromatosis mural calcificada de ambos segmentos V4 de predominio izquierdo
+Visualización de arterias cerebrales posteriores y cerebelosas superiores, sin alteraciones significativas#
+-	TC torax: #Correcta permeabilidad de arterias pulmonares principales y segmentarias, sin defectos de repleción que sugieran tromboembolismo pulmonar. Engrosamientos peribronquiales bibasales asociados a atelectasias subsegmentarias
+y pequeño derrame pleural derecho. Cavidad pleural izquierda libre. No se observan adenopatías hiliares o mediastínicas de tamaño significativo. Porción visualizada de hemiabdomen superior sin hallazgos significativos#
+-	ECG: RS a 75x#, AQRS a 30º, PR 0,12, descens ST de 1 mm a V3-V6 i DI i AVL ja present en ECG al febrer 2017 Valoració: PCR recuperada per posible AVC tronc, sembren descartats raonablement altres causes (taponament, IEM,
+TEP, alteracions hidroelectrolítiques, hipoventilació, hipoglicèmia#) Pneumopatia crónica Pla: Pendent evolució neurológica, absència d#alguns reflexes de tronc, mantenim suport
+
+
+Tipus d'ingrés: Motiu d'alta:	Urgent EXITUS	
+Metge Adjunt:
+_ID_
+Servei:	_NAME_
+
+UCIUO_SS_ Medicina intensiva	Nº Col·legiat Adjunt:
+
+Data informe:  28.06.2017
+
+
+Pàgina 1 de	2
+Data i hora d'impressió:
+29.06.2017 10:48:22

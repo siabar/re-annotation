@@ -1,0 +1,129 @@
+T1	_SUG_TAC_craneal 67 70	TAC
+T2	Fecha_de_alta 345 355	19.09.2017
+#2	AnnotatorNotes T2	2017-09-19
+T3	Hora_de_alta 356 361	12:51
+#3	AnnotatorNotes T3	12:51
+T4	Fecha_de_ingreso 403 413	16.09.2017
+#4	AnnotatorNotes T4	2017-09-16
+T6	_SUG_Ictus_isquemico 482 497	Ictus isquémico
+T7	_SUG_Arteria_afectada 498 501	ACM
+T8	_SUG_Lateralizacion 502 511	izquierda
+T10	_SUG_Ictus_isquemico 785 790	ictus
+T11	FECHA 898 906	19/09/17
+#11	AnnotatorNotes T11	2017-09-19
+T14	_SUG_Ictus_isquemico 1257 1262	ictus
+T15	_SUG_Localizacion 1403 1407	TACI
+T16	_SUG_Lateralizacion 1408 1417	izquierda
+T17	_SUG_Ictus_isquemico 1490 1495	ictus
+T18	HORA 1522 1527	12:17
+#18	AnnotatorNotes T18	12:17
+T19	_SUG_Lateralizacion 1721 1730	izquierda
+T20	_SUG_Lateralizacion 1736 1743	derecha
+T21	_SUG_Lateralizacion 1770 1777	derecha
+T22	_SUG_Lateralizacion 1789 1796	derecha
+T23	NIHSS_previa 1799 1831	NIHSS: 23 (02222/20404/02300) 23
+T24	_SUG_Etiologia 2192 2204	ateromatosis
+T25	TAC_craneal 2240 2242	TC
+T26	_SUG_Arteria_afectada 2244 2247	ACA
+T27	_SUG_Arteria_afectada 2263 2266	ACM
+T28	_SUG_Lateralizacion 2267 2274	derecha
+T29	_SUG_Arteria_afectada 2306 2309	ACM
+T30	_SUG_Lateralizacion 2310 2319	izquierda
+T31	_SUG_Arteria_afectada 2358 2361	ACM
+T32	_SUG_Lateralizacion 2362 2363	D
+T33	_SUG_Arteria_afectada 2484 2486	M2
+T34	_SUG_Arteria_afectada 2488 2491	ACP
+T35	_SUG_TAC_craneal 2555 2557	TC
+T36	ASPECTS 2570 2582	Aspectos: 10
+T37	Arteria_afectada 2584 2586	M1
+T38	_SUG_Arteria_afectada 2597 2599	M1
+T39	_SUG_Arteria_afectada 2613 2616	ACM
+T40	_SUG_Lateralizacion 2617 2626	izquierda
+T41	_SUG_Arteria_afectada 2660 2663	ACM
+T42	_SUG_Lateralizacion 2664 2673	izquierda
+T43	_SUG_Ataque_isquemico_transitorio 2775 2778	AIT
+T44	_SUG_Ictus_isquemico 2843 2848	ictus
+T45	_SUG_Lateralizacion 2892 2899	derecha
+T46	Localizacion 2981 2985	TACI
+T47	_SUG_Lateralizacion 2986 2995	izquierda
+T48	_SUG_TAC_craneal 3043 3045	TC
+T49	_SUG_Arteria_afectada 3085 3087	M1
+T50	_SUG_Arteria_afectada 3141 3144	ACM
+T51	_SUG_Lateralizacion 3145 3154	izquierda
+T52	_SUG_Ictus_isquemico 3159 3166	infarto
+T53	_SUG_ASPECTS 3180 3194	Aspectos de 10
+T54	Trombolisis_intravenosa 3207 3232	tratamiento fibrinolítico
+T55	_SUG_TAC_craneal 3236 3238	TC
+T56	Hora_primer_bolus_trombolisis_rtPA 3245 3250	12:42
+#56	AnnotatorNotes T56	00:42
+T57	_SUG_NIHSS 3256 3261	NIHSS
+T58	_SUG_Trombolisis_intraarterial 3266 3280	trombólisis 23
+T59	_SUG_Trombolisis_intravenosa 3266 3277	trombólisis
+T60	_SUG_Localizacion 3403 3412	posterior
+T61	_SUG_Arteria_afectada 3454 3457	ACM
+T62	_SUG_Lateralizacion 3458 3467	izquierda
+T63	_SUG_Lateralizacion 3572 3579	derecha
+T64	_SUG_Lateralizacion 3608 3615	derecha
+T65	_SUG_NIHSS 3630 3656	NIHSS 00112/10100/01100: 8
+T67	_SUG_Trombectomia_mecanica 3761 3782	trombectomia mecánica
+T68	_SUG_Ictus_isquemico 3820 3825	Ictus
+T69	_SUG_Lateralizacion 4033 4038	dieta
+T70	_SUG_Tratamiento_anticoagulante 4112 4119	Clexane
+T71	_SUG_Tratamiento_anticoagulante 4132 4139	Sintrom
+T72	_SUG_Tratamiento_anticoagulante 4160 4171	enoxaparina
+T73	_SUG_Tratamiento_anticoagulante 4186 4193	Sintrom
+T74	_SUG_Tratamiento_anticoagulante 4241 4252	enoxaparina
+T75	_SUG_Tratamiento_anticoagulante 4267 4274	Sintrom
+T76	_SUG_Tratamiento_anticoagulante 4303 4314	enoxaparina
+T77	_SUG_Tratamiento_anticoagulante 4329 4336	Sintrom
+T78	_SUG_Tratamiento_anticoagulante 4396 4407	enoxaparina
+T79	FECHA 4415 4425	19/09/2017
+#79	AnnotatorNotes T79	2017-09-19
+T81	NIHSS_alta 4612 4642	NIHSS: 01102 / 2000 / 00110: 8
+T82	mRankin_alta 4645 4651	mRs: 4
+T84	Ictus_isquemico 4685 4701	Infarto cerebral
+T85	Lateralizacion 4739 4748	izquierda
+T86	Etiologia 4750 4764	cardioembólico
+T87	_SUG_Trombolisis_intravenosa 4766 4790	Tratamiento trombolítico
+T88	_SUG_Trombolisis_intravenosa 4795 4799	rtPA
+T89	_SUG_Tratamiento_anticoagulante 4896 4903	Sintrom
+T91	Tratamiento_anticoagulante_alta 4989 4996	SINTROM
+T92	Tratamiento_anticoagulante_alta 5018 5029	enoxaparina
+T93	_SUG_Tratamiento_anticoagulante 5044 5051	Sintrom
+T94	_SUG_Tratamiento_anticoagulante 5099 5110	enoxaparina
+T95	_SUG_Tratamiento_anticoagulante 5125 5132	Sintrom
+T96	_SUG_Tratamiento_anticoagulante 5161 5172	enoxaparina
+T97	_SUG_Tratamiento_anticoagulante 5187 5194	Sintrom
+T98	_SUG_Tratamiento_anticoagulante 5254 5265	enoxaparina
+T99	FECHA 5379 5389	19.09.2017
+#99	AnnotatorNotes T99	2017-09-19
+T100	SECCION_MOTIVO_DE_INGRESO 467 481	MOTIU D'INGRÉS
+T101	SECCION_ANTECEDENTES 513 524	ANTECEDENTS
+T102	SECCION_ANTECEDENTES_PERSONALES 525 548	ANTECEDENTES PERSONALES
+T103	SECCION_ANTECEDENTES_PATOLOGICOS 745 769	ANTECEDENTES PATOLÓGICOS
+T104	SECCION_TRATAMIENTO_HABITUAL 979 997	MEDICACIÓ HABITUAL
+T105	SECCION_PROCESO_ACTUAL 1018 1031	PROCÉS ACTUAL
+T106	SECCION_EXPLORACION_FISICA 1565 1582	EXPLORACIÓ FÍSICA
+T107	SECCION_EXPLORACIONES_COMPLEMENTARIAS 1833 1858	EXPLORACIÓ COMPLEMENTÀRIA
+T108	SECCION_EVOLUCION 2676 2692	EVOLUCIÓ CLÍNICA
+T109	SECCION_DIAGNOSTICOS 4667 4678	DIAGNÒSTICS
+T110	SECCION_TRATAMIENTO_Y_RECOMENDACIONES_AL_ALTA 4932 4967	TRACTAMENT I RECOMANACIONS A L'ALTA
+T111	SECCION_DESTINO_AL_ALTA 5302 5321	DESTINACIÓ A L'ALTA
+T5	mRankin_previa 582 598	Rankin previo: 0
+#1	AnnotatorNotes T5	0
+T9	SECCION_ANTECEDENTES_QUIRURGICOS 954 956	IQ
+T12	Fecha_inicio_sintomas 1449 1459	09/16/2017
+#5	AnnotatorNotes T12	2017-09-16
+T13	Hora_inicio_sintomas 1466 1471	00.15
+#6	AnnotatorNotes T13	00:15
+T66	Fecha_llegada_hospital 1502 1514	16 / 09/2017
+#7	AnnotatorNotes T66	2017-09-16
+#9	AnnotatorNotes T23	NIHSS=23
+#10	AnnotatorNotes T81	NIHSS=8
+#12	AnnotatorNotes T82	4
+T83	Arteria_afectada 4719 4738	art. cerebral media
+T112	Fecha_trombolisis_rtPA 1502 1514	16 / 09/2017
+#13	AnnotatorNotes T112	2017-09-16
+T113	Fecha_TAC_inicial 1502 1514	16 / 09/2017
+#14	AnnotatorNotes T113	2017-09-16
+#15	AnnotatorNotes T36	10

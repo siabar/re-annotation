@@ -1,0 +1,125 @@
+I.CLINIC DE NEUROCIÈNCIES NEUROLOGIA
+
+_NAME_		NHC: _ID_
+Sexo/Sexe: Fem.	Fecha nac./Data naix.: _DATE_	Edad/Edat: 82 años
+Dirección/Adreça: _LOCATION_		CP: _LOCATION_
+Municip. (Prov.): _LOCATION_  ABS:_SS_		Tel.:_CONTACT_
+As.: SERVEI CATALA DE LA SALUT	CIP: _ID_	NASS: _ID_
+Nº epis.: _ID_	Tipo/Tipus: HOSPIT.	Inici.: 11.08.2017
+Serv: NEUROLOGIA	UO Enf.: G064 SALA G DE NEUROLOGIA	Hora: 08:06:20
+Facult. de ref.: _NAME_
+
+
+
+
+Tipo ingreso/Tipus ingrés: Urgent	Motivo/Motiu alta: Dom. Familiar
+Diag.:
+ICTUS ISQUÉMICO ARTERIA CEREBRAL MEDIA DERECHA () ESTENOSIS 50-60% CARÓTIDA INTERNA DERECHA () EMERGENCIA HIPERTENSIVA ()
+DIABETES MELLITUS TIPO 2 CON MAL CONTROL GLUCÉMICO () INFECCIÓN RESPIRATORIA ()
+HIGROMAS SUBDURALES BILATERALES ()
+Proc.:
+ANALÍTICA SANGUÍNEA () ECG. MONITORIZACIÓN. () RADIOGRAFÍA DE TÓRAX () TC MULTIMODAL ()
+RM CEREBRAL Y ANGIO-RM INTRACRANEAL () ECO-DOPPLER TSA Y DTC ()
+
+
+
+
+INFORME CLÍNICO ALTA / INFORME CLÍNIC ALTA
+
+Motivo de consulta / Motiu de consulta
+Debilidad de extremidades izquierdas
+
+Antecedentes e historia previa / Antecedents i història prèvia Mujer de 76 años alérgica a la penicilina, dudosa a la hidrocortisona. No otras alergias medicamentosas conocidas ni hábitos tóxicos.
+Parcialmente dependiente para las actividades de la vida diaria, vive
+sola en domicilio con ayuda contratada por la mañana aunque es capaz de realizar la mayoría de actividades por sí misma (mRS: 2).
+
+*ANTECEDENTES PATOLÓGICOS:
+
+1.	HIPERTENSIÓN ARTERIAL en tratamiento farmacológico.
+
+2.	DIABETES MELLITUS TIPO 2 en tratamiento con hipoglucemiantes orales. Como complicaciones: catarata diabética.
+
+3.	ESTENOSIS DEL CANAL LUMBAR intervenida en el _SS_ en enero de 2011 (Dr. _NAME_-_NAME_).
+
+4.	TENDINITIS DE ESPALDA.
+
+5.	HIPOTIROIDISMO SUBCLÍNICO POR DÉFICIT DE YODO.
+
+6.	OBESIDAD.
+
+7.	URTICARIA CRÓNICA.
+
+8.	VARICES EN MIEMBROS INFERIORES.
+
+9.	VÉRTIGO PERIFÉRICO sin tratamiento crónico.
+
+*TRATAMIENTO HABITUAL: omeprazol 20 mg/24h; sitagliptina + metformina 50 mg/12h; repaglinida 4 mg/8h; levotiroxina 50 mcg/24h; levosulpirida 25 mg/8h; alprazolam 0,25 mg724h; duloxetina 60 mg/24h; paracetamol + tramadol 37,5/325 mg/12h; paracetamol 500 mg/8h; nifedipino 20 mg/24h.
+
+Proceso actual / Procés actual
+El 11/08/17 al levantarse sobre las 06:30h nota pérdida de fuerza en extremidades izquierdas con caída al suelo sin traumatismo craneoencefálico asociado. Se acostó asintomática a las 20:00h del día previo, aunque refiere haberse despertado a las 00:00h aparentemente asintomática.
+
+Exploración física / Exploració física
+11/08/2017-08:14:51: Frecuencia respiratoria (rpm) 19, Glicemia capilar (mg/dl) 361, PAS (mm Hg) 173, PAD (mm Hg) 72, Pulsioximetría (%) 95, Tª axilar (ºC) 35.5. 12/08/2017-01:00:00 : FiO2 (%) 24.
+NRL: consciente, orientada en persona y tiempo, desorientada en espacio. Lenguaje normofluente sin rasgos de afasia ni disartria. Reflejo por amenaza izquierdo abolido. Mirada desviada a la derecha sin sobrepasar línea media. Hemiparesia facio (leve) braquiocrural (3/5) izquierda. Hipoestesia izquierda dudosa. Dismetrías no valorables. Inatención izquierda. NIHSS: 9.
+
+Laboratorio / Laboratori
+*ANALÍTICA SANGUÍNEA: PCR 4.71 mg/dL, glucosa 163 mg/dL, función renal conservada, perfil lipídico alterado (CT 231 mg/dL, TGL 99 mg/dL, LDL/HDL 155/56 mg/dL), perfil hepático sin alteraciones, leucocitosis 20.000 (neutrofilia presente en estudios previos), VSG 34 mm/h, hemoglobina glicada 7.2%, coagulación y eje tiroideo sin alteraciones.
+
+*SEDIMENTO DE ORINA: no patológico. Urocultivo negativo.
+
+*HEMOCULTIVOS: contaminación por estafilococos coagulasa negativos. Segundo hemocultivo negativo.
+
+Radiología / Radiologia
+*RADIOGRAFÍA DE TÓRAX: Infiltrados algodonosos en campos pulmonares medios e inferiores del pulmón derecho.
+
+*TC MULTIMODAL: sin alteraciones significativas en el parénquima encefálico. ASPECTS 10. - ANGIO-TC: origen de las arterias carótidas internas con placa mixta en la dcha que ocasiona una estenosis aproximada del 50-60% e izda de un 20-30%. - PERFUSION-TC: sin observar retrasos en el TTP ni caída en el CBV.
+
+
+
+*RM CEREBRAL Y ANGIO-RM INTRACRANEAL: Foco milimetrico de infarto isquemico agudo-subagudo subcortical occipital derecha. Colecciones higromatosas subdurales en ambas convexidades que no ejercen efecto masa significativo sobre el parenquima subyacente.. En el estudio angio-RM intracraneal arterial se aprecia que la arteria vertebral derecha finaliza en la PICA. Signos de ateromatosis bilateral en  los segmentos M1 y M2.
+
+Exploraciones complementarias / Exploracions complementàries
+*ECG: Ritmo sinusal a 90 lpm. QRS estrecho con morfología de hemibloqueo anterior izquierdo. No infra o supradesniveles del segmento ST.
+
+Evolución / Evolució
+1.	ICTUS ISQUÉMICO EN EL TERRITORIO DE LA ARTERIA CEREBRAL MEDIA DERECHA (ACMD).
+2.	ESTENOSIS DEL 50-60% DE LA ARTERIA CARÓTIDA INTERNA DERECHA (ICAD)
+3.	EMERGENCIA HIPERTENSIVA.
+A su llegada afebril e hipertensa (TAS 205/80 mmHg) precisando administración de 10 mg de labetalol para control tensional. En la exploración se aprecia síndrome hemisférico derecho moderado (NIHSS:  10). Analítica sanguínea con hiperglucemia a 364 mg/dL y leucocitosis (19.03x10^9/L) a expensas de neutrofilia. ECG en ritmo sinusal sin alteraciones en la repolarización. La neuroimagen (TC y RM cerebral) muestra lesión isquémica puntiforme subcortical en territorio de la ACMD. El estudio vascular (angio-TC y eco-doppler TSA y DTC) evidencia estenosis del 50-60% en la ICAD y del 20% en la ICAI, sin otras estenosis significativas. Monitorización >48h en unidad de ictus sin arritmias.
+Se trata de un ictus isquémico agudo en el territorio de la ACMD de etiología aterotrombótica por estenosis del 50-60% de la ICAD, por lo que se inicia antiagregación con ácido acetilsalicílico.
+Durante su ingreso la paciente evoluciona de forma favorable, sin apreciarse focalidad neurológica en la exploración. Dada la situación se da de alta domiciliaria con antiagregación y control por parte de su CAP de referencia.
+Al alta: NIHSS: 0;   TOAST: aterotrombótico;   mRS: 2.
+4.	DIABETES MELLITUS TIPO 2 CON MAL CONTROL METABÓLICO.
+En la analítica sanguínea se observa hemoglobina glicada a 7.2% y durante el ingreso se han constatado cifras glucémicas elevadas a pesar de insulinoterapia y tratamiento con hipoglucemiantes orales. Se contacta con endocrinología, quien recomienda continuar al alta con su pauta previa de metformina, sitagliptina y repaglinida.
+5.	INFECCIÓN RESPIRATORIA.
+Durante su estancia en neurología la paciente presenta pico febril único con leucocitosis, elevación de reactantes de fase aguda y dudosis infiltrado pulmonar en campos medios e inferiores del pulmón izquierdo. Se inicia antibioterapia con ceftriaxona con posterior paso a cefixima con buena respuesta. Se recomienda control analítico posterior por parte de su CAP de referencia para vigilancia de la leucocitosis y descartar si es preciso un síndrome mieloproliferativo crónico.
+6.	HIGROMAS SUBDURALES BILATERALES.
+En las pruebas de imagen se observan higromas subdurales bilaterales que no ejercen efecto masas sobre el parénquima adyacente, ya presentes en imágenes previas.
+
+Plan terapéutico / Pla terapèutic
+-	Enalapril 20 mg/12h. - Omeprazol 20 mg/24h. - Amlodipino 5 mg/12h. - Ácido acetilsalicílico 100 mg/24h. - Repaglinida 2 mg 1-2-2 comprimidos. - Janumet 50/1000 mg/12h. - Levotiroxina 50 mg 7,5 comprimidos por semana. - Paracetamol 500 mg/8h. - Cefixima 200 mg/12h 5 días. - Duloxetina 60 mg/24h.
+
+Otras recomendaciones / Altres recomanacions
+-	Control de los factores de riesgo cardiovascular por su CAP de referencia.
+-	
+
+
+
+Firma/Signatura1: _NAME_	Firma/Signatura2: _NAME_ Categoría: Resident 2	Categoría: Espec. Senior
+Nº Matrícula HCP: _ID_	Nº Matrícula HCP: _ID_
+
+Fecha/Data Informe: 17.08.2017
+Hora Informe: 15:26:13
+
+Docum.: _ID_
+Hist. Clínica: _ID_
+El _SS_ ha incorporado sus datos al Fichero de Pacientes, para tratarlos con fines sanitarios.
+Puede ejercer sus derechos de acceso, rectificación, cancelación y oposición, así como obtener mas información en la Unidad de Atención al Cliente.
+Vers. 00
+Pag. 2 de
+4
+Episod.: _ID_
+_SS_ ha incorporat les seves dades al Fitxer de Pacients, per a tractar-los amb finalitats sanitàries. Pot exercir els seus drets d'accés, rectificació, cancel·lació i oposició, i obtenir més informació a la Unitat d'Atenció al Client.
+_SS_
+_LOCATION_) _LOCATION_) Tel. _CONTACT_ Fax _CONTACT_
+http://_CONTACT_/

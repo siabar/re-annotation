@@ -1,0 +1,140 @@
+_LOCATION_ Tel. _CONTACT_
+_CONTACT_
+Informe Alta Hospitalització
+_NAME_
+HC: _ID_
+
+>
+
+
+Adreça: _LOCATION_	Data naix.: _DATE_
+Població: _LOCATION_	Sexe: MASCULI
+Provincia: _LOCATION_	CIP: _ID_
+País: _LOCATION_	NASS: _ID_
+Telèfon: _CONTACT_ / _CONTACT_	DNI o Tarja Residència: _ID_
+
+
+Servei: Neurologia	Data ingrés a URG: 25/04/2017 10:42
+Unitat clínica: Neurologia	Data hospitalització: 26/04/2017 18:32
+Tipus d'ingrés: Urgències	Data alta: 05/05/2017
+Proveïdor de Serveis: Servei Català de la Salut	Destí: 04 - Derivació Centre Intern Sociosanitari
+
+
+
+Diagnòstic principal:
+
+434.91 AVC ISQUEMIC ATEROTROMBOTIC
+
+Procediments:
+
+90.59 ANALITICA SANG
+87.44 RADIOGRAFIA DE TORAX
+89.52 ELECTROCARDIOGRAMA ECG
+87.44 RADIOGRAFIA DE TORAX
+87.03 TAC CRANIAL
+88.71	ECO DOPPLER DE CAP I COLL TSA
+88.72	ECOCARDIOGRAMA Transtoràcic
+89.50 HOLTER
+
+
+
+
+
+
+Antecedents:
+
+Malalties prèvies:
+
+HIPERURICEMIA (En tractament amb colchicina en els episodis aguts.
+)
+HIPERTENSIÓ ARTERIAL (En tractament amb ARA II.)
+INSUFICIENCIA RENAL CRONICA LLEU (Amb creatinina habitual 1.5mg/dl.)
+AIT ISQUEMIA CEREBRAL TRANSITORIA (TC crani: Infarts lacunars antics talàmics bilaterals. Ecografia de troncs supraaòrtics: ateromatosi carotídia bilateral en absència d'estenosis significatives.
+Eco-TC: Sense estenosi significatives intracranials) DISLIPÈMIA (En tractament amb estatines.)
+CARDIOPATIA ISQUEMICA (Debut al 2001 en forma d'infart anterior, revascularitzat amb 2 stents. Ecocardiograma: FEVE 45 %, hipocinèsia de l'àpex sense afectar a la contractilitat global; aurícula esquerra 44 mm. Segueix controls amb cardiòleg privat (Dr _NAME_).
+
+KT al 2015 per IAM amb AEC 3 vasos que es revascularitza percutàneament la CX. Ecocardiograma2015: ventricle esquerre no dilatat ni hipertròfic, acinèsia apical, posterior i inferobasal, amb disfunció ventricular moderada (FEVI 40% biplanar). Vàlvula mitral d'aspecte normal, amb insuficiència mínima. Aurícula esquerra no dilatada. Vàlvula aòrtica trivalva, amb
+
+
+insuficiència lleugera. Aorta ascendent no dilatada. Ventricle dret no dilatat, amb motilitat conservada. IT lleugera que permet estimar una PAPs 32 mmHg. Vena cava inferior no dilatada amb variacions respiratòries normalss. Sense embasament pericardíac.
+.
+
+Al·lèrgies:
+
+El pacient no presenta al·lèrgies conegudes.
+
+Hàbits tòxics:
+
+Hábito tabáquico inactivo . No hábito alcohólico .
+
+Medicació prèvia:
+
+Antiagregants: clopidogrel 75mg/d.
+
+Situació funcional:
+
+Situació mental: FFSS conservades
+Situació física: Independent per a les activitats de la vida diària.
+
+Història Actual:
+
+Pacient de 86 anys amb FFSS conservades i autònom. mRankin basal 0. HTA en tractament farmacolò gic, insuficiència renal crònica amb creatinina habitual 1.4-1.5, DL, hiperuricèmia, cardiopatia isquèmica amb malaltia 3 vasos (portador de 3 stents), FEVE 40%, va consultar al 02/2017 per episodis autolimitats d'afàsia motora amb recuperació ad integrum que es van estudiar mitjançant TC de crani, ECO TSA i angioRMN, sense alteracions significatives, es va orientar els episodis com a crisis comicials focals més que AIT.
+
+El dia 26/04/17 consulta a urgències per episodi d'hemiplègia esquerra de 30 minuts de durada que s'autolimita a l'arribada a urgències. El pacient estava al carrer durant l'episodi, mentre anava a renovar el permís d'armes. El pacient refereix que s'havia ajupit per recollir uns papers i al aixecar-se s'ha notat marejat, presentant posteriorment hemiplègia esquerra, motiu pel qual activen al SEM.
+A l'arribada a urgències assimptomàtic, es desactiva codi ictus i s'orienta com AIT d'ACM dreta. Durant l'estada a urgències, estant totalment asimptomàtic, presenta a les 19:30h aproximadament torpesa amb la mà esquerra objectivada pel fill pel que avisa a 21h.
+Es revalora el pacient a les 21h: conscient i orientat. No afàsia ni disàrtria. PICNR, quadrantanòpsia inferior esquerra (1), no oftalmoparèsies. No nistagmus. No PFSN i resta de PPCC conservats. Parèsia braquio-crual esquerres 3/5 (3+3), extinció sensitiva esquerra (1). NIHSS 8.
+No s'activa codi ictus donat antecedent d'hematoma subdural laminar post-TCE el dia 01/04/17, que és contraindicació per a tractament fibrinolític. No tributari a rescat intraarterial per edat >85 anys. Presenta recuperació de la focalitat progressiva sense arribar a estar asimptomàtic.
+
+Exploració física:
+
+EF planta:
+TA: 142/67, FC: 86X', Tº: 36.5ºC
+AC: TCR sense bufs ni frecs. No buf carotidi. Polsos perifèrics presents i simètrics. No edemes EEII ni signes de TVP.
+
+
+AR: MVC sense sorolls sobreafegits. Eupneic.
+NRL: conscient i orientat. No afàsia ni disàrtria. PICNR. No oftamoparèsies. Hemianòpsia homònima esquerra (1). No nistagmus. No PFSN i resta de PPCC conservats. Parèsia braquio-crual esquerres 3/5 (3+3). Hemianestèsia braquial E i crural proximal amb hipoestèsia crural E distal. Heminegligència esquerra. Impossibilitat per a la bipedestació.
+
+Resum proves complementàries:
+
+Laboratori:
+
+-	Analítica: Leucòcits 7.6 x 10^9/L, Hematies *3.89 x 10^12/L, Hemoglobina *128 g/L, Hematòcrit *0.36 L/L, Volum corpuscular mig 93.6 fL, Hemoglobina corpuscular mitja 32.9 pg, Conc. Hb. corpuscular mitja 352 g/L, Índex dispersió hematies 12.2 %, Plaquetes 181 x 10^9/L, Volum plaquetar mig 12.4 fL, Índex dispersió de plaquetes *17.4 fL, Plaquetòcrit 0.022 L/L, Neutròfils (%) 58.3 %, Neutròfils 4.43 x 10^9/L, Limfòcits (%) 25.4 %, Limfòcits 1.93 x 10^9/L, Eosinòfils (%) 3.4 %, Eosinòfils 0.26 x 10^9/L, Basòfils (%)
+0.5 %, Basòfils 0.04 x 10^9/L, Monòcits (%) *12.4 %, Monòcits 0.94 x 10^9/L, Veloc. sedimentació globular *26 mm 1ª h., Temps protrombina 1.11 ratio, T.Tromboplastina parcial activ 0.91 ratio, Fibrinògen
+3.7 g/L, Glucosa *118 mg/dL, Urea 48.9 mg/dL, Creatinina *1.31 mg/dL, Sodi 136 mEq/L, Potassi 4.4 mEq/L, Calci 8.9 mg/dL, Fosfor *2.3 mg/dL, Àcid úric 6.5 mg/dL, Aspartat aminotransferasa(AST) 30 U/L, Alaninaminotransferasa (ALT) 14 U/L, Fosfatasa alcalina 68 U/L, Gammaglutamiltranspeptidasa 29 U/L, Bilirubina total 1 mg/dL, Creatinquinasa (CK) *374 U/L, Proteïnes totals *61 g/L, Albúmina sérica 34.8 g/L, Colesterol total *98 mg/dL, Triglicèrids 155 mg/dL, Colesterol-HDL *31.5 mg/dL, Colesterol-LDL 36mg/dL, Magnesi 2.1 mg/dL, Proteïna C reactiva *2.48 mg/dL
+
+Imatge:
+
+-	Rx tòrax: No cardiomegàlia. Hilis prominents. No condensacions. Sins costofrènics lliures.
+-	TC crani (25/04/17): Signes d'atròfia cerebral difusa, leucoencefalopatia hipòxica crònica i infart lacunar crònic talàmic esquerre.
+-	TC crani (26/04/17): Signes d'infart agut a regió parietal inferior i insular posterior dreta.
+Signes d'atròfia cerebral difusa, leucoencefalopatia hipòxica crònica i infart lacunar crònic talàmic esquerre.
+-	Eco-Doppler TSA: ateromatosis difusa, sin evidencia de estenosis hemodinámicamente significativas.
+-	Ecografia transcranial: Sense signes d'estenosi en els dos territoris carotidis. S'objectiva una pausa del pols de pocs segons de durada (ja coneguda).
+-	Ecocardiograma transtoràcic: aquinesia de todos los segmentos apicales e inferior basal - FEVI ligeramente deprimida (alrededor del 45%). AI moderadamente dilatada.
+-	Holter cardíac: ritme sinusal normofreqüent. Sense pauses significatives. Extrasistòlia ventricular aïllada polimorfa freqüent amb diverses parelles i triplets, sense salves. Asimptomàtic segons el diari.
+-	TC cranial de control (05/05) : pendent.
+
+Altres proves:
+
+-	ECG : RS a 80 lpm, sin signos de isquemia aguda.
+
+Evolució i comentaris:
+
+Varón de 86 años que ingresa por ictus cortical en territorio parietal de ACM der con hemianestesia izq y anosognòsia inicial. El estudio vascular descarta ateromatosis de TSA y cardiopatia embolígena. Neuroló gicamente destaca leve mejoría de la sensibilidad pero imposibilita la deambulación autónoma.
+Solicitamos traslado a UFISS para RHB.
+
+
+NIH: 3
+Rankin 5
+
+Tractament:
+
+Fàrmacs:
+
+Veure monodosi.
+
+_LOCATION_, 05/05/2017
+_NAME_	_NAME_
+(Nº col _ID_)	(Nº col _ID_
+Nom i cognoms metge: _NAME_ (Nº col: _ID_Pàg.: 1/4

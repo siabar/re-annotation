@@ -1,0 +1,43 @@
+T0	FECHA 15 25	11-06-2018
+#0	AnnotatorNotes T0	2018-06-11
+T1	SECCION_DIAGNOSTICOS 27 39	Diagnosticos
+T2	_SUG_Etiologia 41 55	Aterosclerosis
+T3	_SUG_Arteria_afectada 83 92	carotídea
+T4	_SUG_Lateralizacion 93 102	bilateral
+T5	_SUG_Lateralizacion 118 122	izda
+T6	_SUG_Ictus_isquemico 165 181	infarto cerebral
+T7	FECHA 188 198	abril 2018
+#7	AnnotatorNotes T7	2018-04-UNDEF-day
+T8	SECCION_PROCEDIMIENTOS 240 254	Procedimientos
+T9	SECCION_MOTIVO_DE_INGRESO 370 387	Motivo de ingreso
+T10	_SUG_Trombectomia_mecanica 443 466	tratamiento endovasular
+T11	SECCION_ANTECEDENTES_PATOLOGICOS 505 525	Antecedentes Médicos
+T12	FECHA 663 673	abril 2018
+#12	AnnotatorNotes T12	2018-04-UNDEF-day
+T13	_SUG_NIHSS 1253 1267	NIHSS 13puntos
+T14	_SUG_mRankin 1269 1277	Rankin 5
+T15	SECCION_PROCESO_ACTUAL 1426 1435	Anamnesis
+T16	FECHA 1452 1462	abril 2018
+#16	AnnotatorNotes T16	2018-04-UNDEF-day
+T17	_SUG_Trombectomia_mecanica 1640 1663	tratamiento endovasular
+T18	SECCION_EXPLORACION_FISICA 1903 1914	Exploración
+T19	SECCION_EXPLORACIONES_COMPLEMENTARIAS 2374 2408	Resultados pruebas complementarias
+T20	FECHA 3395 3402	7 Junio
+#20	AnnotatorNotes T20	2018-06-07
+T21	_SUG_TAC_craneal 3521 3523	TC
+T22	FECHA 3550 3560	04-06-2018
+#22	AnnotatorNotes T22	2018-06-04
+T23	FECHA 4079 4089	07-06-2018
+#23	AnnotatorNotes T23	2018-06-07
+T24	_SUG_Tratamiento_antiagregante 4194 4199	Adiro
+T25	_SUG_Tratamiento_antiagregante 4202 4213	Clopidogrel
+T26	FECHA 4944 4948	11/4
+#26	AnnotatorNotes T26	2018-04-11
+T27	SECCION_EVOLUCION 6695 6717	Evolución Hospitalaria
+T28	_SUG_TAC_craneal 7358 7368	TC craneal
+T29	SECCION_TRATAMIENTO_Y_RECOMENDACIONES_AL_ALTA 7745 7782	Recomendaciones y tratamiento al alta
+T30	_SUG_Tratamiento_antiagregante 7841 7863	Ácido acetilsalicílico
+T31	_SUG_Tratamiento_antiagregante 7847 7863	acetilsalicílico
+T32	_SUG_Tratamiento_antiagregante 8027 8038	Clopidogrel
+T33	HORA 8269 8274	11:00
+#33	AnnotatorNotes T33	11:00

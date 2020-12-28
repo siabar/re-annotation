@@ -1,0 +1,106 @@
+INFORME ALTA HOSPITALARIA
+_NAME_
+Núm. Episodi: _ID_ Núm. HC: _ID_
+_SS_ _LOCATION_
+_LOCATION_
+Tel. _CONTACT_Adreça: _LOCATION_	C.A.P.: _SS_
+Població: _LOCATION_	Sexe: HOME  Data naixement: _DATE_  Edat: 68a
+Telèfon: _CONTACT_  C.P.: _LOCATION_	T.I.S.: _ID_  DNI/NIF: _ID_
+
+Procedència: _SS_	Data Ingrés Hospital: 16/04/2017
+Servei assistencial: NEUROLOGIA HOSP	Data Ingrés Servei: 18/04/2017
+Metge Responsable: _NAME_	Data Alta: 27/04/2017
+
+
+MOTIVO DE INGRESO: Paciente de 68 años que ingresa por código ictus.
+
+
+ANTECEDENTES PERSONALES:
+-	Dudosa alergia al AAS.
+-	Hipertensión arterial en tratamiento farmacológico.
+-	Hiperuricemia.
+-	intervenido de hipertrofia prostática por RTU en 2005.
+Tratamiento: amlodipino 5 mg/24h, enalapril 20 mg /24h, timolol saflutan colirio, paracetamol 1 g cada 8h si dolor.
+
+
+ENFERMEDAD ACTUAL.
+Paciente que inicia de forma súbita sobre las 10:30h del 16/04/17 cuadro de somnolencia, mutismo y hemiplejia derecha.
+Consulta inicialmente al _SS_, donde objetivan sd hemisférico izq. extenso (NIHSS 25), realizan TC craneal
+basal que no muestra hemorragia aguda y ante la orientación de
+ictus isquémico en territorio de ACM izq inician fibrinolisis endovenosa. Se deriva a _SS_ para
+rescata intraarterial.
+A su llegada a dicho centro se encuentra hemodinámicamente estable, normotenso, eupneico en reposo y afebril. La
+analítica	sanguínea	con	función	renal	e	ionograma	conservados,	INR	1,41.	Monitorización electrocardiográfica en ritmo
+sinusal. Se realiza TC craneal multimodal que muestra en secuencias basales hipodensidad en territorio superficial y
+profundo de arteria cerebral media izquierda (ASPECTS 4); angioTC muestra oclusión a nivel M2 de ACMI; mapas de
+perfusión evidencian retraso del TTP con caída de flujo y volumen en territorio superficial posterior de ACMI, sin mismatch
+significativo.
+Se trata de un ictus isquémico agudo en territorio de arteria cerebral media izquierda. Ante la lesión establecida y la
+ausencia de oclusión de gran vaso proximal, se desestima el tratamiento mecánico del ictus. Se retorna al paciente e
+ingresa en UCI.
+
+
+EXPLORACIÓN FÍSICA:
+CCV: tonos rítmicos sin soplos audibles. AR: MVC con algún roncus
+Neurológica presenta mutismo, hemianopsia homónima derecha y hemiparesia facio (mod)- braquio (1/5)- crural (1/5)
+derecha (NIHSS 25).
+EXPLORACIONES    COMPLEMENTARIAS
+Analítica (17/04/17):
+-	hemograma: leucocitos 17160 (N78%, L19%), serie roja y plaquetas normales
+-	BQ: glucosa, urea, creatinina, FG, ionograma dentro de la normalidad.
+-	Perfil hepático: dentro de la normalidad.
+-	Coagulación: normal
+-	Sedimento orina: nitritos negativos sin leucocituria.
+
+RxT: No muestra condensaciones del parénquima pulmonar.
+TAC craneal (_SS_): TC CEREBRAL BASAL: No se observa hemorragia intra ni extraaxial. Se observa hipodensidad  y  desdiferenciación  cortico-subcortical  a  nivel  temporo-parietal,  ínsula  y  núcleo  lenticular izquierdos que
+sugiere lesión isquémica establecida en territorio de la ACM I. ASPECTS 4-5.Leucoaraiosis periventricular. Pequeña hipodensidad en hemisferio cerebeloso izquierdo sugestiva de lesión isquémica antigua. Estructuras de la línea media centradas. Cisternas de la base libres. Sistema ventricular no dilatado, simétrico.
+
+TC PERFUSIÓN: Área con retraso del TTP a nivel temporoparietal izquierdo con caída de CBV en el centro de dicha área,
+condicionando discordancia no significativa, aprox 100% entre mapas. ANGIO-TC EXTRA E INTRACRANEAL: Arco aórtico con escasas placas de ateromatosis calcificada. Segmentos proximales de troncos supraórticos sin
+ateromatosis ni signos de estenosis. Origen, bifurcación y segmentos cervicales de las arterias carótidas internas sin
+ateromatosis ni signos de estenosis. Ausencia de opacificación en una rama de M2 (proximal) de la ACM I en relación a
+oclusión. Resto de las principales arterias cerebrales intracraneales permeables (ACAs, ACM derecha y ACPs). ACP
+derecha de origen fetal. Hipoplasia segmento A1 derecho. Sistema vertebrobasilar permeable. Origen de las arterias
+vertebrales  sin ateromatosis  ni signos de  estenosis.  Lóbulo tiroideo  izquierdo  aumentado  de  tamaño a expensas de lesión
+nodular hipodensa de aprox. 2 cm de diámetro, a valorar mediante ecografía.
+
+RM crani: Examen RM de CRÁNEO , realizando cortes tomográficos consecutivos en los planos axial, sagital y coronal empleando secuencias de pulso potenciadas en T1, T2 y FLAIR.
+Examen ANGIO-RM de CRÁNEO a nivel de tronco basilar y polígono de Willis con empleo
+de secuencias PC 2D, TOF 3D.HALLAZGOS:El examen muestra un correcto contraste entre la sustancia blanca y la sustancia gris.Importante alteración de la señal corticosubcortical silviano izquierdo con restricción de laseñal, en difusión, en relación a infarto agudo / subagudo. Hay un afectación del núcleolenticular y la cabeza del núcleo caudado derecho.Se evidencia transformación hemorrágica del aspecto posterior del infartoy focos máspequeños mas anteriores.En pequeñas lesiones hipóxico isquémicas y áreas de infarto hemisféricas cerebelosasbilaterales de predominio izquierdo.Efecto expansivo por parte del infarto con colapso del VL izquierdo.Pequeñas lesiones hipóxico isquémicas y áreas de infarto en centro semioval derecho yregiones atrio ventriculares de predominio derecho.El tronco del encéfalo es normal.Se descarta patología malformativa de la charnela o bien proceso expansivo intracraneal.
+
+Angio-RMN cerebral: El examen ARM muestra un tronco basilar permeable y centrado.Correcta permeabilidad de los segmentos intracraneales de carótidas internas.Hipoplasia A1 de la cerebral anterior derecha irrigandose las cerebrales anteriores a expensas de comunicante anterior desarrollada y a expensas del eje carotídeo izquierdo. Hipoplasia P1 bilateral de predominio derecho con desarrollo de comunicante posteriorderecha. Obstrucción de la cerebral media izquierda. La cerebral media derecha es permeable. Las cerebrales posteriores son permeables.
+
+Ecocardiografía: Ventrículo izquierdo ligeramente hipertrófico, sin alteraciones segmentarias de la contractilidad, con función
+ventricular conservada. Insuficiencia mitral ligera. FEVI 75% AI 37mm
+
+Holter-ECG: pendiente de resultados. (extraído día 27 de Abril)
+
+
+EVOLUCIÓN
+Paciente de 68 años en el 1r día de ingreso por CODI ICTUS.
+Se trata de un paciente hipertenso e hiperuricémico, e intervenido de hipertrofia prostática en 2005 que acude por cuadro de mutismo y hemiplejia derecha (NIHSS 25) con TC craneal que descarta sangrado. Con OD de ICTUS ISQUÉMICO ACM IZQUIERDA se realiza fibrinolisis endovenosa y se traslada a HCPB para rescate intraarterial donde se realiza TC craneal multimodal y AngioTC que muestra hipodensidad  en territorio superficial y profundo de arteria cerebral media izquierda (ASPECTS 4) y oclusión a nivel M2 de ACMI sin mismatch significativo, desestimando tratamiento mecánico por lesión establecida y ausencia de oclusión de gran vaso por lo que se retorna a nuestro centro. Actualemente, estable hemodinámica y respiratoriamente. Se ha mantenido en ritmo sinusal en todo momento. NRL: alerta, afasia severa, hemiplegia FBC D, NIHSS 19, mRS5, Barthel 10.
+Como complicación durante su ingreso, el paciente ha presentado algún pico febril hasta 37.6ªC sin requerir tratamiento antibioticoterapia. Se le colocó SNG para tratamientos y alimentación por disfàgia severa pero en últimos días inicia dieta pastosa con buena tolerancia. Se solicita traslado para convalecencia.
+
+Al alta, el paciente se encuentra estable hemodinámicamente y a nivel neurológico persiste afasia global, paresia facial inferior derecha, reflejo amenaza derecho abolido, plejia braquial derecha, paresia crural 3-/5 derecha. NIHSS (0.2.2)0.2/2(4.0)(3.0)/0.0.3.0.0: 18 mRS 4
+
+
+
+JUICIO CLÍNICO.
+AVC isquemico en territorio carotida izquierdo fibrinolisado (TACI) 434.11 de etiología atetrombótica Oclusión de ACM M2 izquierda.
+
+
+TRATAMIENTO:
+Dieta pastosa baja en sal
+
+Clopidrogrel 75mg cada 24 horas Pantoprazol 20mg cada 24 horas Atorvastatina 40mg cada 24 horas Paracetamol 1g cada 8 horas si dolor.
+
+Control en CEX Neurología en 3 meses. Atentamente,
+
+firmado
+Dr/a.: _NAME_	Dra. _NAME_
+Metge adjunt - Neurologia		Metge adjunt - Neurologia Número col·legiat: _ID_	Número col·legiat: _ID_
+
+Hospitalització
+Imprès: 27/04/2017 14:33
+Pàg.: 1 de  3

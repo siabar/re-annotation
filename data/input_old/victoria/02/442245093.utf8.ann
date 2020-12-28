@@ -1,0 +1,32 @@
+T1	_SUG_Lateralizacion 1 2	I
+T2	_SUG_Lateralizacion 15 16	D
+T3	Fecha_de_ingreso 100 110	05/11/2017
+#3	AnnotatorNotes T3	2017-11-05
+T4	Fecha_de_alta 124 134	13/11/2017
+#4	AnnotatorNotes T4	2017-11-13
+T5	_SUG_Tratamiento_antiagregante_alta 357 360	AAS
+T6	_SUG_Tratamiento_antiagregante_hab 357 360	AAS
+T8	_SUG_TAC_craneal 498 508	TC cranial
+T9	_SUG_Arteria_afectada 588 591	ACC
+T10	FECHA 697 705	oct 2017
+#10	AnnotatorNotes T10	2017-10-UNDEF-day
+T12	Tratamiento_antiagregante_hab 967 978	clopidogrel
+T14	Fecha_inicio_sintomas 1039 1043	5/11
+#14	AnnotatorNotes T14	2017-11-05
+T15	_SUG_Ictus_isquemico 1230 1235	ictus
+T17	TAC_craneal 2416 2426	TC cranial
+T18	Ataque_isquemico_transitorio 3302 3307	ictus
+T19	Etiologia 3308 3316	llacunar
+T20	SECCION_ANTECEDENTES_PATOLOGICOS 323 345	Antecedents Patològics
+T21	SECCION_TRATAMIENTO_HABITUAL 744 763	Tractament habitual
+T22	SECCION_PROCESO_ACTUAL 1015 1030	Malaltia Actual
+T23	SECCION_EXPLORACION_FISICA 1353 1370	Exploració Física
+T24	SECCION_EXPLORACIONES_COMPLEMENTARIAS 1612 1640	Exploracions complementàries
+T25	SECCION_EVOLUCION 2800 2808	Evolució
+T26	SECCION_DIAGNOSTICOS 3241 3262	Valoració Diagnòstica
+T27	SECCION_TRATAMIENTO_Y_RECOMENDACIONES_AL_ALTA 3328 3331	Pla
+T7	Hora_inicio_sintomas 1054 1056	14
+T11	Fecha_llegada_hospital 1039 1043	5/11
+#1	AnnotatorNotes T11	2017-11-05
+T13	Localizacion 3308 3316	llacunar
+T16	Lateralizacion 3285 3288	izq

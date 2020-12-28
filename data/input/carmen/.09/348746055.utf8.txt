@@ -1,0 +1,80 @@
+_LOCATION_
+_LOCATION_
+Telèfon de contacte: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 90 anys
+NIF/DNI: _ID_Informe de Trasllat a Sociosanitari
+10:34:00
+14.03.2017
+_LOCATION_
+_LOCATION_
+MEDICINA INTERN _SS_
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_; _CONTACT_
+DOMICIL/RES.SOC 09.03.2017
+_NAME_
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Ictus
+
+ANTECEDENTS
+Paciente de 90 años de edad, sin alergias ni habitos tóxicos. Vive en domicilio familiar. No deteioror cognitivo, sí funcional como consecuencia de artrosis y ceguera.
+
+1. Artrosis
+
+No refieren otros antecedentes.
+
+PROCÉS ACTUAL
+Ayer alas 23 horas se va a dormir. A las 01.00 la encuentran sentada en la cama. Se vuelve a dormir. A las 06.00 aprox la paciente llama para levantarse porque no puede. Notan disminuición de la movilidad de hemicuerpo I por lo que se llama a SEM y se activa código ictus.
+
+EXPLORACIÓ FÍSICA
+
+A mi valoración en REA paciente conciente, reactiva, con respuesta coherente. Campos visuales no valorables. Paresia facial I, plejia hemicuerpo I completa, no impresiona de elementos sensitivos. Tonos ritmmicos sin soplos. MVC.
+
+
+EXPLORACIÓ COMPLEMENTÀRIA
+Analítica: hemograma normal, colesterol 189, HDL 31, LDL 130, prot 58. ECG: RS con estrasistolia aislada.
+TAC: No patologia hemorragica intracraneal. ASPECT 10. Arterias cerebrales anteriores, medias y posteriores permeables. Estenosis superior 70% origen de arteria carotida interna derecha. Segmento A1 ACA izquierda hipoplasico. Arteria basilar permeable con flujo filiforme. Arterias vertebrales intracraneales permeables con arteria verebral izquierda de aspecto hipoplasico.
+
+
+EVOLUCIÓ CLÍNICA
+1. Ictus - hemiplejia I (PACI vs lacunar).
+
+Informe de Trasllat a Sociosanitari
+
+Se orienta como ictus y tras contactar con NRL de guardia se desestima tratamiento con rTPA por tiempo de evolución ni traslado para trombolisis por edad y situación actual. Ingresa en planta bajo tratamiento médico con antiagregación, con estabildad clínica en todo momento. Tolera dieta oral, no ha presentado alteracion en el nivel de conciencia y se mantiene con hemiplejia I completa. Se ha iniciado RHB y se ha realizado IC con TS para valoración y paso a ULLE en espera de recurso. Ha precisado de inicio de tratamiento antihipertensivo con enalapril.
+
+DIAGNÒSTICS
+1. Ictus - hemiplejia I (PACI vs lacunar).
+
+PROCEDIMENTS
+IC con THB
+IC con TSocial
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Ver Silicon
+
+CONTROL
+Por MAP habitual.
+
+DESTINACIÓ A L'ALTA:	SOCI SANITARI
+
+
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+14.03.2017
+Pàgina 1 de 2

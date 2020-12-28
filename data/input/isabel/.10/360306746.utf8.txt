@@ -1,0 +1,110 @@
+_SS_
+Informe d'alta Mèdica Servei de Medicina Intensiva
+Full 1 de _NAME_
+Llit: _ID_
+Data de naixement: _DATE_	Edat: 67 anys	Sexe: Dona Nº Episodi: _ID_	Nº Història Clínica: _ID_
+Adreça: _LOCATION_
+Al·lèrgies/ Intoleràncies
+Data d'identificació	Severitat	Registrat per
+
+ 	 	
+Metamizol (Dipirona)	No registrat	_NAME_ (Enfermera registrada)
+Antihistaminics	No registrat	_NAME_ (Auxiliar enfermería)
+Contrasts i derivats iodats	No registrat		_NAME_ (Enfermera registrada)  Notes:	Contrasts
+Grup sanguini:
+Data d'ingrés UCI: 13.04.2017 21:12	Data d'alta UCI: 14.04.2017 18:58	Estada UCI: 1 dies Procedència:  URGENCIES	Destinació:  ALTRE CENTRE O	Data Intervenció:
+INSTITUCIÓ
+Tipo d'admissió: Urgent
+Resultat UCI: DOMICILI-ALTRE CENTR
+
+Telèfons contacte famílies: francisco marido	_CONTACT_
+
+
+13.04.2017 21:12
+13.04.2017 21:12
+70
+160
+Pes actual
+Talla actual
+
+
+MOTIVO DE INGRESO
+Paciente de 67 años que ingresa por codigo ICTUS.
+
+
+ANTECEDENTES
+ALERGIA A AINEs, CONTRASTES YODADOS, NOLOTIL.
+Exfumadora.
+DLP.
+AVC isquemico lacunar ACM derecha en 2008 con recuperación ad integrum.
+Carcinoma infiltrante mama grado II T1bN0M0 IQ en 05.2016 mediante tumorectomía + BSGC , actualmente en tratamiento con letrozol.
+TBC en la infancia.
+Fibromialgia.
+Sdr ansidosdepresivo.
+Vertigo ocasionjal.
+
+
+IQ: Amigdalectomizada. Apendicectomizada. CIR artroscopica rodilla.
+
+
+Situación socio-funcional: Vive en domicilio. Cognitivamente preservada. Independiente para las ABVD. Continente biesfinteriana.
+Tratamiento habitual: ANTALGIN 550MG, NASONEX 50MCG 2 PULVERIZACIÓ/24h, IDEOS 1250MG/400UI/24h, SERC 8MG 3comprimits/8 HORES, CLOPIDOGREL AUROVITAS 75MG/24h, OMEPRAZOL 20MG /12h, ATORVASTATINA
+40MG/24h,
+PLACINORAL 2MG 2 COMPRIMIT/24h, LETROZOL 2,5MG/24h, EBASTINA ARISTO 10MG/24h.
+EVOLUCIÓ CLÍNICA
+
+
+EVOLUCIÓ CLÍNICA
+
+
+ENFERMEDAD ACTUAL
+Mujer de 67 años de edad trasladada desde _SS_ por focalidad neurológica iniciada hacia las 17:00h de hoy caracterizada por disartria leve y desviación de comisura labial hacia la derecha NIHSS de 1 punto sin otra focalidad aparente con TAs de 177 mmHg. Días previos refiere cierta inestabilidad cefálica.  Al llegar a Urgencias de nuestro hopital, presenta Leve mejoría de la disartia y del facial derecho pero con hemiparesia derecha 4/5 y hemihipoestesia derecha. TAs entorno 180 mmHg, que requiere 2 bolus de urapidilo. Se mantiene con NIHSS de 4 a pesar de control de la TA, a expensas de hemiparesia y hemihipostesia.
+
+Se realiza TAC craneo que no muestra sangrado, pero en primera valoración por radiologo de guardia, sospecha de posible meningioma, Se comenta con radiologo, se solicita cortes más finos para nueva valoración, mientrastanto, se comenta con Neurológo de Clínic, que confirma que es caso de que sea meningioma y es pequeño el riesgo es bajo y se puede relizar lisi sistemica. Posteriormente con las nuevas imagenes de TAC se descarta meningioma y se inicia bolus de rTpa a las 21h.
+Ingresa a UCI.
+
+
+EXPLORACIÓN
+TA 150/70 mmHg, FC 70x', FR 18x', Sat O2 basal 98% AC: tonos rítmicos, no soplos, no edemas en EEII
+AR: MVC, no crepitantes, no sibilantes, no roncus Abdomen: depresible, no doloroso
+Neuro: consciente y orientada, pupilas isocoricas y reactivas, hemiparesia braquio-crural derecha 4/5, hemihipoestesia facio- braquio-crural derecha, no disartria ni afasia, no dismetrias.
+
+EXPLORACIONES COMPLEMENTARIAS
+RxT dentro de la normalidad con adenopatias calcificadas mediastínicas ya descritas en 2013 ECG: RS 80x',QRS 80md, eje 60º, no alteraciones de la repolarización.
+TAC craneal: Parénquima cerebral, cerebeloso y troncoencefálico de morfología y densidad normal. No se observan imágenes que sugieran sangrado intra o extraaxial. Dudoso meningioma parcialmente calcificado de nueve milímetros en la convexidad frontal derecha. Carece de efecto de masa significativo.
+Línea media centrada. Impresión diagnóstica: Dudoso meningioma de nueve milímetros en la convexidad frontal derecha sin efecto de masa.
+addendum: Se nos envían reconstrucciones multiplanares y cortes finos de la región dudosa no confirmando la presencia de meningioma.
+
+EVOLUCIÓ INICIAL
+Se realiza fibrinolisis sin incidencias, posteriormente se aprecia leve mejoría tanto en la paresia como en la sensibilidad, se continua con trayectoria ICTUS. A las 12 h del tratamiento fibrinolítico, la paciente refiere mejoría de la hemiparesia y de la hipoestesia derecha. En la exploración neurológica presenta un balance motor 4+/5, persiste la hipoestesia. El resto de la exploración física no muestra alteraciones.
+Se realiza un TC craneal de control que no muestra alteraciones significativas ni signos de sangrado. Dada la estabilidad
+
+EVOLUCIÓ CLÍNICA
+clínica y hemodinámica de la paciente, se contacta con CST para retorno del código ICTUS. Hablamos con la Dra. _NAME_, que acepta el traslado. Se activa el SEM para traslado interhospitalario.
+
+ORIENTACIÓ DIAGNÓSTICA
+ITCUS lacunar
+
+Diagnòstics
+DIAGNOSTIC PRINCIPAL (N.U.)
+ALTRA MALALTIA CEREBROVASCULAR ISQUEMICA GENERALITZADA
+Antecedents/Diagnòstics/Procediments
+
+
+
+APACHE II	
+Mitja 5,00	
+Primera 5	
+Máx 5	
+Min 5	
+La mès nova 5
+Mort(APACHE)	0,06	0	0	0	0
+NEMS	15,00	15	15	15	15
+NEMS(e)/d	15,00	15	15	15	15
+SOFA	0,00	0	0	0	0
+
+Puntuació (SCORES)
+Atès per:	_NAME_
+Autorizat per:
+
+Impreso: 14.04.2017 18:59

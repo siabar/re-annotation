@@ -1,0 +1,114 @@
+T1	Hora_de_alta 292 297	13:34
+#1	AnnotatorNotes T1	13:34
+T2	Fecha_de_alta 301 311	11.04.2017
+#2	AnnotatorNotes T2	2017-04-11
+T3	Fecha_de_ingreso 414 424	02.04.2017
+#3	AnnotatorNotes T3	2017-04-02
+T5	_SUG_Lateralizacion 551 560	izquierdo
+T6	FECHA 875 882	11/2016
+#6	AnnotatorNotes T6	2016-11-UNDEF-day
+T7	_SUG_Lateralizacion 916 925	izquierdo
+T8	_SUG_Lateralizacion 949 956	derecha
+T9	_SUG_Localizacion 959 966	frontal
+T11	_SUG_TAC_craneal 1134 1144	TC craneal
+T12	_SUG_Localizacion 1322 1340	infartos lacunares
+T13	_SUG_Lateralizacion 1786 1793	derecha
+T14	_SUG_Lateralizacion 1828 1837	izquierda
+T15	_SUG_mRankin_alta 1925 1934	mRankin 0
+T16	mRankin_previa 1925 1934	mRankin 0
+T18	_SUG_Tratamiento_antiagregante_alta 2090 2093	AAS
+T19	Tratamiento_antiagregante_hab 2090 2093	AAS
+T20	Fecha_inicio_sintomas 2126 2131	02/04
+#20	AnnotatorNotes T20	2017-04-02
+T21	Hora_inicio_sintomas 2172 2177	12:30
+#21	AnnotatorNotes T21	12:30
+T22	Hora_llegada_hospital 2669 2674	13:30
+#22	AnnotatorNotes T22	13:30
+T23	_SUG_Ictus_isquemico 2865 2870	Ictus
+T24	HORA 2877 2882	13:55
+#24	AnnotatorNotes T24	13:55
+T25	HORA 2954 2959	14:30
+#25	AnnotatorNotes T25	14:30
+T26	Hora_TAC_inicial 2979 2984	15:00
+#26	AnnotatorNotes T26	15:00
+T27	_SUG_NIHSS_alta 3416 3423	NIHSS 2
+T28	NIHSS_previa 3416 3423	NIHSS 2
+T29	_SUG_Localizacion 3804 3822	infartos lacunares
+T30	_SUG_Localizacion 3846 3854	profundo
+T31	HORA 3943 3948	16:40
+#31	AnnotatorNotes T31	16:40
+T32	_SUG_Tratamiento_anticoagulante_alta 4285 4293	heparina
+T33	_SUG_Tratamiento_anticoagulante_hab 4285 4293	heparina
+T34	_SUG_Lateralizacion 4349 4358	izquierdo
+T35	Localizacion 4371 4375	LACI
+T36	_SUG_Lateralizacion 4376 4383	derecho
+T37	_SUG_Tratamiento_anticoagulante_alta 4434 4442	heparina
+T38	_SUG_Tratamiento_anticoagulante_hab 4434 4442	heparina
+T39	_SUG_Ictus_isquemico 4486 4491	Ictus
+T40	_SUG_NIHSS_alta 4798 4805	NIHSS 0
+T41	_SUG_NIHSS_previa 4798 4805	NIHSS 0
+T42	_SUG_Localizacion 4961 4969	profunda
+T44	_SUG_TAC_craneal 5412 5422	TC craneal
+T45	_SUG_Localizacion 5424 5442	infartos lacunares
+T46	_SUG_Localizacion 5466 5474	profundo
+T47	_SUG_Lateralizacion 6506 6513	derecha
+T48	_SUG_Localizacion 6853 6871	infartos lacunares
+T49	_SUG_Lateralizacion 6889 6898	izquierdo
+T50	_SUG_Lateralizacion 7026 7033	derecho
+T51	_SUG_Lateralizacion 7073 7082	izquierda
+T52	_SUG_Etiologia 7322 7334	hipertensión
+T53	_SUG_Lateralizacion 7472 7481	izquierdo
+T54	_SUG_Tratamiento_anticoagulante_alta 7564 7572	heparina
+T55	_SUG_Tratamiento_anticoagulante_hab 7564 7572	heparina
+T56	_SUG_Ictus_isquemico 7636 7641	Ictus
+T58	_SUG_Tratamiento_anticoagulante_alta 7922 7930	heparina
+T59	_SUG_Tratamiento_anticoagulante_hab 7922 7930	heparina
+T60	_SUG_Tratamiento_antiagregante_alta 7966 7977	Clopidrogel
+T61	_SUG_Tratamiento_antiagregante_hab 7966 7977	Clopidrogel
+T62	_SUG_Tratamiento_antiagregante_alta 8014 8019	adiro
+T63	_SUG_Tratamiento_antiagregante_hab 8014 8019	adiro
+T64	FECHA 8281 8288	04/2016
+#64	AnnotatorNotes T64	2016-04-UNDEF-day
+T65	FECHA 8546 8550	2013
+#65	AnnotatorNotes T65	2013-UNDEF-month-UNDEF-day
+T66	_SUG_Lateralizacion 8909 8916	derecha
+T67	_SUG_Lateralizacion 9093 9102	izquierda
+T68	_SUG_Lateralizacion 9222 9231	izquierdo
+T69	_SUG_Ictus_isquemico 9357 9362	Ictus
+T70	_SUG_Etiologia 9363 9370	lacunar
+T71	Lateralizacion 9371 9380	izquierdo
+T73	_SUG_Tratamiento_antiagregante_hab 9463 9474	Clopidogrel
+T74	HORA 9480 9482	24
+#74	AnnotatorNotes T74	24:00
+T75	NIHSS_alta 9514 9521	NIHSS 0
+T76	_SUG_NIHSS_previa 9514 9521	NIHSS 0
+T77	mRankin_alta 9523 9532	mRankin 1
+T78	_SUG_mRankin_previa 9523 9532	mRankin 1
+T81	Tratamiento_antiagregante_alta 9811 9822	Clopidrogel
+T82	_SUG_Tratamiento_antiagregante_hab 9811 9822	Clopidrogel
+T83	FECHA 10187 10197	11.04.2017
+#83	AnnotatorNotes T83	2017-04-11
+T84	SECCION_MOTIVO_DE_INGRESO 478 492	MOTIU D'INGRÉS
+T85	SECCION_ANTECEDENTES 574 585	ANTECEDENTS
+T86	SECCION_TRATAMIENTO_HABITUAL 1938 1956	MEDICACIÓ HABITUAL
+T87	SECCION_PROCESO_ACTUAL 2105 2118	PROCÉS ACTUAL
+T88	SECCION_EXPLORACION_FISICA 4519 4536	EXPLORACIÓ FÍSICA
+T89	SECCION_EXPLORACIONES_COMPLEMENTARIAS 5006 5031	EXPLORACIÓ COMPLEMENTÀRIA
+T90	SECCION_EXPLORACIONES_COMPLEMENTARIAS_EN_URGENCIAS 5032 5071	Exploraciones Complementarias Urgencias
+T91	SECCION_EXPLORACIONES_COMPLEMENTARIAS_EN_PLANTA_DE_NEUROLOGIA 5548 5601	Exploraciones Complementarias en Planta de Neurología
+T92	SECCION_EVOLUCION 7411 7427	EVOLUCIÓ CLÍNICA
+T93	SECCION_DIAGNOSTICOS 9738 9749	DIAGNÒSTICS
+T94	SECCION_TRATAMIENTO_Y_RECOMENDACIONES_AL_ALTA 9775 9810	TRACTAMENT I RECOMANACIONS A L'ALTA
+T95	SECCION_CONTROL 9901 9908	CONTROL
+#4	AnnotatorNotes T16	0
+T4	TAC_craneal 2962 2972	Tc craneal
+T10	Fecha_llegada_hospital 2126 2131	02/04
+#5	AnnotatorNotes T10	2017/04/02
+T17	Fecha_TAC_inicial 2126 2131	02/04
+#7	AnnotatorNotes T17	2017/04/02
+#8	AnnotatorNotes T28	2
+#9	AnnotatorNotes T75	0
+#10	AnnotatorNotes T77	1
+T43	Etiologia 9766 9773	lacunar
+T57	Ictus_isquemico 9759 9765	Infart
+T72	SECCION_DESTINO_AL_ALTA 10115 10134	DESTINACIÓ A L'ALTA

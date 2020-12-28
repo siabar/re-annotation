@@ -1,0 +1,123 @@
+IC DE MEDICINA I DERMATOLOGIA MEDICINA INTERNA
+
+_NAME_		NHC: _ID_
+Sexo/Sexe: Fem.	Fecha nac./Data naix.: _DATE_	Edad/Edat: 76 años
+Dirección/Adreça: _LOCATION_		CP: _LOCATION_
+Municip. (Prov.): _LOCATION_  ABS:_SS_		Tel.:_CONTACT_ FILL
+As.: SERVEI CATALA DE LA SALUT	CIP: _ID_	NASS: _ID_
+Nº epis.: _ID_	Tipo/Tipus: HOSPIT.	Inici.: 20.04.2017
+Serv: MEDICINA INTERNA	UO Enf.: G022 SALA G UGA MDI	Hora: 19:06:38
+Facult. de ref.: _NAME_
+
+
+
+
+Tipo ingreso/Tipus ingrés: Urgent	Motivo/Motiu alta: CSS Conval.
+Diag.:
+Crisis tónica ()
+Disminución del nivel de conciencia () Broncoaspiración ()
+Proc.:
+Analítica general () Radiografía de tórax () TC craneal ()
+
+
+
+
+INFORME CLÍNICO ALTA / INFORME CLÍNIC ALTA
+
+Motivo de consulta / Motiu de consulta
+Crisis
+
+Antecedentes e historia previa / Antecedents i història prèvia
+Paciente de 76 años, sin alergias medicamentosas conocidas. Sin hábitos tóxicos. Dependiente moderada para las actividades básicas de la vida diaria (Barthel de 40). Vive en casa con su marido, con una cuidadora durante la mañana y acude a la hora de la cena.
+
+ANTECEDENTES PATOLÓGICOS:
+1.	HIPERTENSIÓN ARTERIAL en tratamiento médico con buen control tensional.
+2.	DISLIPEMIA en tratamiento médico.
+3.	DIABETES MELLITUS TIPO 2 en tratamiento con hipoglicemiantes orales.
+4.	ENFERMEDAD DE PARKINSON dignosticada hace unos 7 años. En seguimiento por neurólogo de zona.
+5.	SÍNDROME DEPRESIVO.
+6.	Crisis tónico-clónicas en julio de 2015 que requirió ingreso y se orientó en contexto de emergencia hipertensiva. En RMN se observan imágenes lacunares múltiples e hiperseñal protuberancial probablemente en relación con angiopatía microvascular. No se aprecian restos hemáticos crónicos ni lesiones isquémicas agudas. Probable hemorragia subaracnoidea focal a nivel temporo-occipital izquierdo. No se descarta lesión isquémica temporal cortical asociada.
+7.	HEMATOMA PARIETAL IZQUIERDO DE PROBABLE ETIOLOGÍA CONGÓFILA en enero de 2017. Ingresó en Neurología de nuestro centro. Al alta: NIHSS: 4. mRS: 4.Trasladada a CCSS el 7/2/2017 (al alta de HCP Barthel de 5) y dada de alta a casa el 22/3/2017 (Barthel de 50).
+
+* MEDICACIÓN ACTUAL (Actualizado 19/04/2017): Metformina 850 mg 0,5-0- 0,5, Pravastatina 20 mg/24h,
+0-0-1,  Quetiapina  25  mg/24h,  0-0-1,  Levetiracetam  250  mg-0-250mg,  Sinemet  plus  25/100  mg  2-2-1,
+
+Amlodipino 5 mg 1-0-0, Losartan 50 mg 1-0-1.
+
+Proceso actual / Procés actual
+La mañana del 19/04, tras levantarse asintomática, la paciente presenta episodio de dificultad en el habla presenciada por cuidadora y familiares, seguida de desviación oculógira a la derecha y crisis tónica objetivada por el SEM. Niegan fiebre así como clínica de atragantamientos. La paciente fue dada de alta del centro sociosanitario donde se encontraba hace aproximadamente 3 semanas donde le disminuyeron al alta dosis de keppra a 250 mg/12h (tomaba 500 mg/12h).
+
+Exploración física / Exploració física
+20/04/2017-19:30:00: Glicemia capilar (mg/dl) 160. 20/04/2017-20:00:00 :  PAS (mm Hg) 140, PAD (mm Hg)
+79, Pulsioximetría (%) 99, Tª axilar (ºC) 36.5. 21/04/2017-08:30:00 : FiO2 (%) 40. EXPLORACIÓN FÍSICA EN URGENCIAS:
+ACP: Rítmico sin soplos, roncus dispersos. NRL: Desviación oculógira a la D, PICNR. No asimetría facial. Pérdida de fuerza en MSD, BM conservado en MMII. No meningismo. RCP flexor bilateral.
+
+EXPLORACIÓN FÍSICA EN SALA:
+Cardiovascular: tonos rítmicos con soplo sistólico III/VI en foco aórtico sin irradiación a carótidas. No ingurgitación yugular ni reflujo hepatoyugular. Pulsos presentes y simétricos. No edemas en extremidades inferiores.
+Respiratorio: eupneica en reposo con LN2l. Murmullo vesicular conservado sin ruidos sobreagregados. Abdomen: blando y depresible, sin dolor a la palpación. No signos de peritonismo. Ruidos hidroaéreos presentes.
+Neurológico: consciente y orientada en persona y espacio. Pupilas isocóricas y normorreactivas. Moviliza las 4 extremidades.
+Extremidades inferiores: no signos de trombosis venosa profunda.
+
+Laboratorio / Laboratori
+*	ANALÍTICA URGENCIAS (19/04/17): PCR 0.17 mg/dL Glucosa 188/A mg/dL Creatinina 0.97 mg/dL Filtrat glomerular calculat [CKD-EPI] 56.88 ml/min/ Sodi 141 mEq/L Potasi 3.5 mEq/L Calci 9.80 mg/dL Magnesi 1.6/B mg/dL, Recompte de leucòcits 7.86 10^9/L (80%N), Recompte d´hematies 4.16 10^12/L hemoglobina 130 g/L Hematòcrit 0.410 L/L VCM 99.3 fl HCM 31.2 pg plaquetes 195 10^9/L
+*	ANALÍTICA AL INGRESO (24/04): PCR 0.26 mg/dL Glucosa 60/B mg/dL BUN 15 mg/dL Creatinina 0.62 mg/dL Filtrat glomerular calculat [CKD-EPI] 88 ml/min/ Acid úric 4.6 mg/dL Colesterol total 129 mg/dL Triglicèrids 107 mg/dL ASAT 11 U/L ALAT 4 U/L Bilirrubina total 0.6 mg/dL Bilirrubina directa 0.3 mg/dL Bilirrubina indirecta 0.3 mg/dL Proteïnes totals 69 g/L Albúmina 39 g/L Sodi 143 mEq/L Potasi 3.9 mEq/L Clor 105 mEq/L Calci 9.7 mg/dL Fósfor 2.5 mg/dL Magnesi 2.3 mg/dL Ferro 70 µg/dL Recompte de leucòcits
+6.45	10^9/L (70%N) hematies 4.04 10^12/L hemoglobina 120 g/L Hematòcrit 0.390 L/L VCM 95.6 fl HCM 29.7 pg plaquetes 162 10^9/L Temps de protrombina 87.3% Temps de tromboplastina parcial 25.1 seg
+
+*	PROTEÏNES Albúmina prot. % sèrum 53.0/B% Alfa 1 glob. prot. % sèrum 4.7% Alfa 2 glob. prot. % sèrum 12.6/A% Beta glob. prot. % sèrum 12.0% Gamma glob. prot. % sèrum 17.7% Cocient Albúmina/Globulines sèrum 1.13 Prealbúmina sèrum 0.165/B g/L Transferrina 2.2/B g/L Capacitat total de lligar ferro 3.10 mg/L Saturació de transferrina; sèrum 22.6
+*	LÍPIDS Colesterol LDL 67 mg/dL Colesterol HDL 41 mg/dL Apolipoproteïna A1 126 mg/dL Apolipoproteïna B 78 mg/dL
+*	EIX TIROÏDAL Tirotropina (TSH),sèrum 0.696 mUI/L Tiroxina lliure (FT4),sèrum 1.67 ng/dL
+*	ANALÍTICA AL ALTA: PCR 0.08 mg/dL, Glucosa 132mg/dL, BUN 14 mg/dL, Creatinina 0.86 mg/dL, Filtrat glomerular calculat [CKD-EPI] 66 ml/min, Sodi 142 mEq/L, Potasi 4.1 mEq/L, Clor 106 mEq/L, Calci 10.3 mg/dL, Magnesi 2.3 mg/dL, 4.00 10^9/L Leucocitos (70%N), Hties 3.48 10^12/L, hemoglobina 102/B g/L, Hematòcrit 0.330/B L/L, VCM 96.1 fl, HCM 29.4 pg, plaquetes 154 10^9/L.
+*	
+
+
+
+Radiología / Radiologia
+*	TC CRANEAL (19/04/17): Se comparan las imágenes con las de la TC previa del 25/01/2017. Resolución completa del hematoma intraparenquimatoso parieto-occipital. No se observan imágenes de sangrado agudo intracraneal. Mínimas calcificaciones capsuloganglionares bilaterales. Hipodensidad en la sustancia blanca subcortical subinsular, periventricular, y en centros semiovales, en probable relación con microangiopatía crónica. Leve atrofia global corticosubcortical de predominio cortical en probable relación a cambios involutivos secundarios a la edad de la paciente, Leve atrofia cerebelosa hemisférica y vermiana. Sistema ventricular de tamaño y morfología normal. Estructuras de la línea media centradas. Cisternas basales libres. Ocupación parcial rinosinusal de aspecto mucoso. Conclusiones: No se observan focos de sangrado agudo intracraneal. Resolución completa del hematoma intraparenquimatoso visualizado en el 25/01/2017 Resto de la exploración sin cambios significativos.
+*	RADIOGRAFÍA TÓRAX: Placa rotada. Presenta múltiples calcificaciones groseras que afectan al mediastino y a ambos hilios que son sugestivas de corresponder a adenopatías con calcificaciones excéntricas (en "cáscara de huevo"). Este patrón de calcificación sugiere neumoconiosis (por sílice o carbón), sarcoidosis, tuberculosis, amiloidosis o antecedente de tratamiento de afectación mediastínica de un linfoma. Posible derrame pleural izquierdo subpulmonar. Consolidación de espacio aéreo retrocardíaca que sería coherente con la sospecha clínica de broncoaspiración. Cambios degenerativos en la columna torácica.
+
+Evolución / Evolució
+1.	CRISIS TÓNICA en probable contexto de dosis infraterapéuticas de tratamiento anticomicial
+2.	DISMINUCIÓN DEL NIVEL DE CONCIENCIA post crítico vs. farmacológico
+3.	INFECCIÓN RESPIRATORIA BRONCOASPIRATIVA en contexto de 2.
+
+1-2. A su llegada a Urgencias, hemodinámicamente estable , febricular 37.1º con saturación O2 basal 100%. A la exploración física, tonos rítmico sin soplos, roncus dispersos. En exploración neurológica, desviación oculógira a la derecha. Pupilas isocóricas y normorreactivas. No asimetría facial. No meningismo. RCP flexor bilateral.
+Realiza estando en Urgencias nueva crisis tónico clónica que se yugula con 1 mg de clonazepam. Posteriormente, paciente arreactiva.
+Se realizó analítica sanguínea que no muestra importantes alteraciones a destacar y TC cerebral en el cuál no se observan focos  de sangrado agudo intracraneal, con resolución completa  del hematoma intraparenquimatoso visualizado en el 25/01/2017. Signos de microangiopatía crónica.
+Es valorada por Neurología quién administra bolus de lacosamida 400 mg intravenoso y se inicia levetiracetam 1000 mg/12h endovenoso. Se decide ingreso para manejo y evolución.
+Ingresa en sala de medicina interna hemodinámicamente estable y afebril, con saturación del 98% con LN2L. A la exploración física destacan tonos rítmicos con soplo sistólico en foco aórtico sin irradiación a carótidas. MVC con mínimos crepitantes en base izquierda. Sin edemas en extremidades inferiores.
+La analítica de ingreso muestra PCR 0.26 mg/dL, función renal conservada con creatinina 0.62 mg/dL e ionograma correcto. Perfil hepático normal. Perfil lipídico sin alteraciones. Hemograma sin leucocitosis ni anemia. Plaquetas 162000/mm3. Coagulación normal. Perfil tiroideo sin alteraciones.
+Se orienta como crisis tónica en contexto de descenso de dosis habitual de Keppra. Se disminuye tratamiento a dosis habitual en residencia de 500 mg/12 horas, dónde había permanecido sin realizar ninguna crisis. Durante su ingreso la paciente recupera nivel de conciencia y se muestra reactiva, sinr ealizar ninguna nueva crisis.
+Dada la mejoría clínica, se decide alta hospitalaria. Se solicita CSS para convalescencia.
+
+2-3. Posteriormente, ha presentado discreta mejoría del nivel de conciencia pero persistió somnolienta y escasamente reactiva. Además presenta pico febril de 37.9ºC y necesidad de oxigenoterapia con VK 40% para conseguir saturación O2 96%, TA 153/88 mmHg, FC 96 lpm. A la exploración física destacan roncus. Se realiza radiografía de tórax que muestra imagen compatible con infiltrado en base izquierda.
+
+
+
+Se inicia tratamiento antibiótico con augmentine y se mantiene la cobertura hasta cumplir 10 días de tratamiento. Presenta una evolución favorable, con  saturaciones correctas sin  requerimiento de oxigenoterapia.
+
+Plan terapéutico / Pla terapèutic
+*	TRATAMIENTO AL ALTA: Amlodipino 10 MG. Vía oral. Dos veces al día: desayuno y cena. Sinemet plus 25 mg/100 mg comprimido 1 UND. Vía oral . Cada 24 horas. Levetiracetam 500 MG. Vía oral. Dos veces al día: desayuno y cena. Metformina 850 MG. Vía oral. Cada 24 horas. Pravastatina 20 MG. Vía oral . Cada 24 horas. Quetiapina 25 mg. 12,5 MG. Vía oral. Una vez al día, en la cena si precisa.
+
+Otras recomendaciones / Altres recomanacions
+*	Control médico de zona.
+
+
+
+Firma/Signatura1: _NAME_	Firma/Signatura2: _NAME_ Categoría: Resident 5	Categoría: Espec. Senior
+Nº Matrícula HCP: _ID_	Nº Matrícula HCP: _ID_
+
+Fecha/Data Informe: 05.05.2017
+Hora Informe: 12:19:35
+
+Docum.: _ID_
+Hist. Clínica: _ID_
+El _SS_ ha incorporado sus datos al Fichero de Pacientes, para tratarlos con fines sanitarios.
+Puede ejercer sus derechos de acceso, rectificación, cancelación y oposición, así como obtener mas información en la Unidad de Atención al Cliente.
+Vers. 00
+Pag. 2 de
+4
+Episod.: _ID_
+_SS_ ha incorporat les seves dades al Fitxer de Pacients, per a tractar-los amb finalitats sanitàries. Pot exercir els seus drets d'accés, rectificació, cancel·lació i oposició, i obtenir més informació a la Unitat d'Atenció al Client.
+_SS_
+_LOCATION_) _LOCATION_) Tel. _CONTACT_ Fax _CONTACT_
+http://_CONTACT_/

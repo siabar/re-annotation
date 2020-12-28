@@ -1,0 +1,42 @@
+T0	FECHA 15 25	05-06-2018
+#0	AnnotatorNotes T0	2018-06-05
+T1	SECCION_DIAGNOSTICOS 27 39	Diagnosticos
+T2	_SUG_Ictus_isquemico 41 55	ECVA ISQUÉMICA
+T3	_SUG_Arteria_afectada 90 99	carotídeo
+T4	_SUG_Lateralizacion 100 107	derecho
+T5	_SUG_Etiologia 111 136	etiología aterotrombótica
+T6	_SUG_Arteria_afectada 150 159	carotídea
+T7	SECCION_PROCEDIMIENTOS 183 197	Procedimientos
+T8	_SUG_TAC_craneal 260 262	TC
+T9	_SUG_TAC_craneal 263 273	Tc craneal
+T10	_SUG_TAC_craneal 293 300	craneal
+T11	SECCION_MOTIVO_DE_INGRESO 302 319	Motivo de ingreso
+T12	SECCION_ANTECEDENTES_PATOLOGICOS 570 590	Antecedentes Médicos
+T13	SECCION_SITUACION_FUNCIONAL 630 645	Situación basal
+T14	_SUG_mRankin 674 679	mRs 0
+T15	SECCION_TRATAMIENTO_HABITUAL 989 1013	Tratamiento domiciliario
+T16	SECCION_PROCESO_ACTUAL 1107 1116	Anamnesis
+T17	FECHA 1178 1194	el pasado jueves
+#17	AnnotatorNotes T17	2018-05-31
+T18	FECHA 1195 1202	24/5/18
+#18	AnnotatorNotes T18	2018-05-24
+T19	FECHA 1254 1258	25/5
+#19	AnnotatorNotes T19	2018-05-25
+T20	SECCION_EXPLORACION_FISICA 1757 1768	Exploración
+T21	_SUG_NIHSS 2065 2072	NIHSS 0
+T22	SECCION_EXPLORACIONES_COMPLEMENTARIAS 2154 2188	Resultados pruebas complementarias
+T23	_SUG_TAC_craneal 2310 2320	TC craneal
+T24	_SUG_TAC_craneal 2639 2649	TC craneal
+T25	FECHA 2658 2667	28/5/2018
+#25	AnnotatorNotes T25	2018-05-28
+T26	SECCION_EXPLORACIONES_COMPLEMENTARIAS_EN_PLANTA_DE_NEUROLOGIA 2739 2759	Analítica de ingreso
+T27	_SUG_TAC_craneal 3374 3381	craneal
+T28	_SUG_TAC_craneal 3382 3389	Cerebro
+T29	FECHA 3405 3415	01-06-2018
+#29	AnnotatorNotes T29	2018-06-01
+T30	SECCION_EVOLUCION 5523 5545	Evolución Hospitalaria
+T31	FECHA 5624 5629	30/05
+#31	AnnotatorNotes T31	2018-05-30
+T32	SECCION_TRATAMIENTO_Y_RECOMENDACIONES_AL_ALTA 6121 6158	Recomendaciones y tratamiento al alta
+T33	_SUG_Tratamiento_antiagregante 6171 6193	Ácido acetilsalicílico
+T34	_SUG_Tratamiento_antiagregante 6275 6286	Clopidogrel

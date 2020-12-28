@@ -1,0 +1,151 @@
+_LOCATION_
+email: _CONTACT_ Telèfon _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 81 Anys
+NIF/DNI: _ID__NAME_; _NAME_; _NAME_
+Informe d'alta d'hospitalització
+15:00:00
+28.07.2017
+_LOCATION_
+_SS_ UNITAT D'ICTUS
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_; _CONTACT_
+DOMICIL/RES.SOC 24.07.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Paciente que ingresa el día 24/7/17 por PACI en territorio ACM izquierda.
+
+ANTECEDENTS
+-Supuesta alergia a sulfamidas, aminoglucósidos, gentamicina, fosfomicina y estreptomicina. Intolerancia a amoxicilina/ácido clavulánico. No constan informes de alergología.
+-Niega hábitos tóxicos.
+
+Antecedentes patológicos:
+-	Hipertensión arterial esencial en tratamiento con IECAs.
+-	Dislipemia en tratamiento con estatinas.
+-	Neumonía adquirida en la comunidad en lóbulo medio derecho en enero 2011 que requirió ingreso en _SS_.
+-	Broncopatía crónica que cursa con hiperreactividad bronquial. Último ingreso en _SS_ en febrero 2017 sin aislamientos microbiológicos. Previo ingreso en octubre 2016 con aislamiento de H.influenzae betalactamasa positivo que fue tratado con amoxicilina, con buena respuesta. Un TAC febrero'15 mostró engrosamientos bronquiales difusos asociado a patrón en mosaico de probable origen respiratorio y áreas de atrapamiento aéreo bilaterales. PFR abril '16: FVC 41%, FEV1 42%, IT 102%. Alteración ventilatoria restrictiva grave.
+-	Posible insuficiencia cardiaca en tratamiento betabloquente y deplectivo, pendiente de realizar ecocardigorama de forma ambulatoria.
+* Ecocardio TT Cardiologia (26/4/17): función sistólica ventricular izquierda conservada. Disfunción diastólica grado I. Insuficiencia mitral ligera. Insuficiencia aórtica ligera.
+-	Insuficiencia renal crónica: creatininas habituales en torno a 1.2-1.6 mg/dL. Probable etiología hipertensiva, consta ecografía de julio de 2015: Riñones de dimensiones (R.D: 103 x 49 mm y R.E: 100 x 49 mm), morfología y localización normales, con cortical conservada y buena diferenciación córtico-medular, el izquierdo con un pequeño quiste cortical simple de 14 mm. No se observa dilatación de vías urinarias ni imágenes de litiasis renal.
+-	Mutación factor V Leiden en heterocigosis: no estudiada de forma directa, pero entre sus cuatro hijos se ha encontrado dos heterocigotos, un homocigoto y uno libre de enfermedad para el gen, por lo que se dedujo que ambos progenitores serían portadores en heterocigosis.
+-	Infección por VHC curada detectada de forma casual en analítica febrero de 2015: ARN VHC indetectable, Ac anti VHC débilmente positivos.
+-	Episodio de vértigo periférico en noviembre de 2012, realizó tratamiento con betahistina y se encuentra asintomática desde entonces.
+-	Trombosis venosa poplítea derecha en marzo de 2015, realizó tratamiento anticoagulante durante 6 meses.
+-	Síndrome ansioso-depresivo de años de evolución, en tratamiento farmacológico con paroxetina y mirtazapina. En control por Psquiatría de zona. Intento autolítico en 2015 con benzodiacepinas.
+-	Estenosis del canal raquídeo junto con lumbodiscartrosis L5-S1 que condiciona lumbociatalgia importante. En control por _SS_ HUVH desde 2011. Realiza tratamiento con opiáceos transdérmicos.
+-	Gonartrosis de predominio izquierdo desde 2010.
+-	Fracturas: fractura de peroné derecho en agosto 2011, se realizó tratamiento conservador. Fractura sacrococcígea en mayo 2015, tratada de forma conservadora.
+Intervenciones quirúrgicas: histerectomía y doble anexectomía por metrorragias hace más de 20 años. Prolapso
+
+Informe d'alta d'hospitalització
+
+
+
+
+vesical operado por incontinencia urinaria. Hernioplastia umbilical.
+
+SSF: mRS 2, deambula con muleta ocasional por artrosis. Independiente para las ABVD. Sale a la calle. Vive con su hermana y su hijo (que no está mucho en casa).
+
+MEDICACIÓ HABITUAL
+spiriva 2.5mcg 1inh/24h, budesonida 200mcg 2/24h, bisoprolol 5mg 1/24h, Gabapentina 300mg 1/8h, paroxetina 20mg 1/24h, paracetamol 650mg 1/12h, omeprazol 20mg 1/24h, simvastatina 20mg 1/24h, mirtazapina 30mg 1/24h, salmeterol 25mcg 2/12h, serc 1/24h,
+
+PROCÉS ACTUAL
+Su hijo refiere que la última vez que la vio bien fue ayer a las 00h, y hoy a las 10am ha venido ella a decirle algo y no entendía nada de lo que decía (parece más afasia que disartria), por lo que avisan al SEM y es derivada a urgencias de nuestro centro como código ictus, llegando aquí a las 15h27. Niega otra focalidad.
+
+EXPLORACIÓ FÍSICA
+
+EXP. FÍSICA A URG:
+TA 127/70mmHg FC 112lpm Tª 36.6 SpO2 96% aa
+MVC con crepitantes bibasales. TCR sin soplos, no edemas ni IY.
+NRL: vigil, alerta, no POC/DOC, LOC Q 1/2 (1), LOC C 2/2, no alteraciones campimétricas por confrontación, no paresia ni hipoestesia facial, afasia leve-moderada (1, nomina con alguna parafasia, repite, obedece órdenes simples), dudosa disartria 1) aunque dificil de valorar por disfonia), balance motor conservado globalmente, no alteración de la sensibilidad superficial. RCP extensor derecho, flexor izquierdo, NIHSS 3. Temblor cefálico y en EID ocasional (ya conocido por familiar exacerbado en situaciones de ansiedad)
+
+EXP. FÍSICA A L'INGRÉS: TA 102/60 FC 88 T 37,2
+Ex general normal.
+Neurología: Vigil, orientada, nomina, repite y comprende. Paresia facial izquierda. Campimetría por confrontación normal. Motor 5/5 en as 4 extremidades. Sensitivo normal. Marcha normal.  NIHSS: 1
+
+
+EXPLORACIÓ COMPLEMENTÀRIA
+EXPLORACION COMPLEMENTARIA URGENCIAS:
+-Analítica Urgencias: Hties 4.18x10E12/L; Hb 12.1 g/dL; Hto 38.6 %; Leucos 8.74 x10E9/L; N 5.2 x10E9/L; L 2.7x10E9/L; Plaquetas 302 x10E9/L; TP >120 %; INR 0.88; TTPA 24.7 seg; Fibrinógeno  derivado 4.79 g/L;
+glucosa 106 mg/dL; urea 44 mg/dL; Cr 1.18 mg/dL; FG 43 ml/min; sodio 137.7 mmol/L;potasio 4.45 mmol/L; calcio
+9.2 mg/dL; AST 19 UI/L; ALT 11 UI/L; proteína 7.5 g/dL.
+-Electrocardiograma: RS a 111lpm, PR 0.16, eje 0º, QRS estrecho, T negativas en V1, sin otras alteraciones de la repolarización. Buena progresión de la R en precordiales.
+-TC MM: Hipodensidad corticosubcortical parietal izquierdo, en territorio M6 (ASPECTS 9/10), observándose en el AngioTC defecto de replecciónen arteria cerebral media izquierda en su segmento M2 distal/M3 y en los estudios de perfusión cerebral área del territorio de la ACM izquierda en su división posterior (M6) afectada que presenta un aumento del TTM y del TTP asociado a una disminuciónCBF y CBV tiene un volumen preservado (mismatch).
+
+Informe d'alta d'hospitalització
+
+
+
+
+
+EXPLORACION COMPLEMENTARIA UNIDAD ICTUS:
+-Analítica (25/07): Creatina-cinasa 165 UI/L, Creatina cinasa 2: 3.7 ng/mL. Troponina I <0.006 ng/mL.
+-Analítica General: Hties 4.23x10E12/L; Hb 12.4 g/dL; Hto 37.5%; Leucos 12.09x10E9/L; N 7.6x10E9/L; L 3x10E9/L; Plaquetas 277x10E9/L; VSG 117 mm/h. Glucosa 98 mg/dL; HbA1c PEND; urea 76 mg/dL; Cr 1.58 mg/dL; FG 30 ml/min; Urat 9.3 mg/dL. Sodio 136.7 mmol/L;potasio 4.06 mmol/L; calcio 9.2 mg/dL; AST 24 UI/L;
+ALT 12 UI/L; GGT 36 UI/L; FA 90 UI/L; proteína 7.5 g/dL. Albúmina 4.0 g/dL. Tirotropina 4.637 mU/L, Tiroxina (lliure) 1.11 ng/dL Vitamina B12 195 pg/mL, Acid fólico  9.5 ng/mL
+-	Coagulación: TP 109%; INR 0.95; TTPA 28.2 seg; Fibrinógeno derivado 6.08 g/L.
+-Perfil lipidico: Colesterol 194 mg/dL, HDL 54 mg/dL, LDL 105 mg/dL, TG 175 mg/dL.
+-	Treponema pallidum (Ac específ) PEND; HIV-1/-2 PEND.
+-TC craneal control (25.07): No se observan cambios significativos respecto a estudio anterior, no se observan lesiones hemorragicas ni areas hipodensas establecidas en el area donde se apreciaba la lesion en TC perfusion (temporo parietal izquierda) que por tanto no habría evolucionado a infarto
+-RM craneal: Pequeños infartos agudos multifragmentado en ínsula y opérculo parietal izquierdo en territorio de la ACM izquierda de probable origen aterotrombótico. Infartos crónicos adyacente al asta frontal derecha, ínsula y hemisferio cerebeloso derecho. Leucoaraiosis grado 1 de Fazekas.
+-EcoScan cardiaco ictus: Estudio suboptimo. Fracción de eyección conservada. Patrón transmitral compatible con alteración de la relajación. No se observan imagenes sugestivas de trombo intrauricular ni ventricular. No se detectan placas de ateroma significativas en arco aórtico.
+- Shunt: Estudio shunt DI con microburbujas por DTC negativo en reposo, positivo tras Valsalva (11 señales).
+
+EVOLUCIÓ CLÍNICA
+Paciente de 81 años que acudio a hospital con clinica de PACI izquierdo, caracterizado por deficit de lenguaje de inicio indeterminado. A su llegada hemodinámicamente estable y afebril, taquicárdica, con un NIHSS de 3 a expensas de afasia leve, disartria inteligible y desorientación. Se realiza TC multimodal, sin lesiones hemorrágicas ni isquémicas establecidas en TC simple,conoclusión de M2 distal y missmatch en dicho territorio. No tributaria de tratamiento con rtPA por inicio indeterminado; se avisa a guardia de Neurovascular, quienes dado el NIHSS bajo (3), rankin y la ausencia de oclusión proximal desestiman tratamiento endovascular. Se pautan medidas de ictus agudo, pendiente de ingreso en Unidad de Ictus para completar estudio y control evolutivo.
+Durante su estancia se mantiene clínciamente estable, destaca a la exploración el primer día paresia facial izquierda (contralateral a la focalidad por la que consulta) por lo que se solicita Rm encefálica para valorar parénquima cerebral que muestra pqueños infartos agudos multifragmentadoen ínsula y opérculo parietal izquierdo en territorio de la ACM izquierda de probable origen aterotrombótico. Se mantiene con telemetría cardiaca sin detectarse arritmias potencialmente durante 72 horas y se realiza eco scan que no se aprecian imágenes sugestivas de trombo intrauricular ni ventricular.
+A nivel analítico destaca de´ficit de Vit B12 y VSD de 117 , por lo que se realiza ecodoppler de temporales sin alteraciones ni clínica sugestiva de arteritis de Horton. Dado el antecedente de TVP con Factor V de Leiden en heterocigosis se realia shunt que es positivo en valsalva, por lo que tras consultar con Hematología se decide inicio de anticoagulación de manera crónica. Se comenta con la paciente la necesidad de toma de anticoagulación y paso a sintrom, quien refiere muy mala tolerancia al sintrom en la toma previa cuando el evento TVP previa, por ello, se solicita uso compasivo de NACO. Estando pendiente de resolución, se mantiene con Clexane a dosis anticoaguladas ajustadas a función renal, con visita sucesiva con Hematología para pauta de Sintrom vs NACO ( financiación privada) tras explicarse situación a la paciente.
+Ante la estabilidad clínica de la paciente, una vez completado el estudio, se decide dar alta para domicilio y control en consultas externas de Neurovascular.
+Al alta NIHSS 1 y Rankin 2.
+
+Informe d'alta d'hospitalització
+
+
+
+
+
+
+
+DIAGNÒSTICS
+Infarto ACM izquierda de etiología insual Deficit de Vit B12
+Factor V leiden
+
+
+PROCEDIMENTS
+TC craneal RM craneal
+EcoScan craneal telemetría cardiaca
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Dieta sin sal y baja en grasas.
+
+-	Clexane 80 mg cada 24 horas subcutánea. Hasta visita control en Hematología.
+-	Atorvastatina 80 mg cada 24 horas
+-	Hidroxil un comprimido cada 12 horas hasta control analítico.
+
+-	Suspender Simvastatina 20 mg
+
+-	Resto de Tratamiento sin cambio: Spiriva 2.5mcg 1inh/24h, budesonida 200mcg 2/24h, bisoprolol 5mg 1/24h, Gabapentina 300mg 1/8h, paroxetina 20mg 1/24h, paracetamol 650mg 1/12h, mirtazapina 30mg 1/24h, salmeterol 25mcg 2/12h, serc 1/24h,
+
+CONTROL
+-	Control estricto de FRCV por MAP. Se recomienda control analítico para valoración de déficit de vit B12
+
+-	Será avisada por correo y/o telefónicamente para visita control en las consultas externas de Hematología del _SS_ y para visita en Neurología del _SS_.
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+28.07.2017
+Pàgina 1 de 4

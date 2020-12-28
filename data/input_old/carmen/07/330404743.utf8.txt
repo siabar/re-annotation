@@ -1,0 +1,182 @@
+
+
+
+
+
+Informe d'Alta Hospitalària	Cognoms i nom:
+_NAME_	NHC:
+_ID_
+	ABS:
+_SS_	CIP:
+_ID_	DNI:
+_ID_
+	Data de naixement:
+_DATE_	Sexe:
+Home	Edat:
+35a	Telèfon:
+_CONTACT_
+	Finançament:
+CatSalut - CATALUNYA	Procedència:
+URGÈNCIES
+	Admissió:
+14.01.2017 - 18:48	Servei:
+NEURO - UNITAT ICTUS HOSP	Data entrada urg.:
+14.01.2017 - 17:28
+Adreça:
+_LOCATION_	Població:
+_LOCATION_	Codi Postal:
+_LOCATION_
+
+
+
+MOTIVO DE INGRESO
+Varón de 35 años que ingresa por infarto en territorio de la ACM derecha por disección carotídea derecha.
+
+
+ANTECEDENTES
+-	No alergias medicamentosas conocidas.
+-	Habitos tóxicos: exfumador 10 cigarrillos/día hasta hace 2 meses. Consumo de enol ocasional.
+-	No otros antecedentes médicos de interés.
+-	No refiere antecedentes personales ni familiares de enfermedades del tejido conjuntivo ni vascular.
+-	No antecedentes de migrañas, epilepsia ni antecedentes neurovasculares
+-	Antecedentes familiares: padre con AITs (HTA y DM2)
+
+Sociofuncional: independiente para las actividades básicas de la vida diaria. Médico intensivista. mRS = 0. Medicación habitual: ninguna
+ENFERMEDAD ACTUAL
+Varón de 35 años que es traído a urgencias como código ictus el día 14.01.2017. El paciente refiere que presenta dolor a nivel cervical y cefalea de inicio súbito a las 23h del día 13.01.2017, tras movimiento cervical brusco. El dolor persiste hasta las hrs 06.00 del día 14/01, cuando el paciente se dirige a dormir. Despierta el día 14/01 a hrs 16.00 presentando pérdida de fuerza en extremidades izquierdas. El paciente llega al hospital a las 17.30 horas.
+
+EXPLORACIÓN FÍSICA
+En Urgencias
+-	Consciente y orientado en las tres esferas.
+-	No alteración del habla ni del lenguaje. No disartria.
+-	Heminegligencia izquierda.
+-	Hemianopsia  homónima izquierda.  Preferencia de  la  mirada a  la  derecha, limitación  para  mirar a  la izquierda.
+-	Paresia facial central izquierda.
+-	Paresia 2/5 braquial izquierda y 4/5 crural izquierda.
+-	No déficit sensitivo.
+-	No dismetrías.
+-	RCP flexor bilateral.
+-	NIHSS = 0.0.0.1.2/2.(0.3).(0.1)/0.0.0.0.1=10.
+
+Unidad de Ictus (15/01/17)
+-	Consciente y orientado en las tres esferas.
+-	No alteración del habla ni del lenguaje. No disartria.
+-	Hemianopsia homónima izquierda. MOEs normales.
+-	Paresia facial central izquierda.
+-	Paresia 2/5 braquial izquierda y 4/5 crural izquierda.
+-	No déficit sensitivo.
+-	No dismetrías.
+-	RCP flexor bilateral.
+-	NIHSS = 0.0.0.0.2/2.(0.3).(0.1)/0.0.0.0.0 = 8.
+
+Unidad de Ictus (16/01/17)
+-	Vigil, orientado en las tres esferas
+-	Lenguaje conservado, sin disartria.
+-	Defecto campimétrico en cuadrante superior izquierdo y negligencia de cuadrante inferior ipsilateral.
+-	Pupilas anisocoricas, derecha miótica, hiporreactiva (Horner).
+-	Hipoestesia facial izquierda
+-	Asimetría facial: paresia facial supranuclear izquierda moderada, con leve compromiso de rama superior.
+-	No presenta trastornos deglutorios, par XI y XII conservado.
+-	Fuerza muscular: plejía braquial izquierda, paresia crural izquierda 4/5. Fuerza conservada en hemicuerpo derecho.
+-	Sensibilidad: hipoalgesia. Apalestesia. Braquio-crural izquieda.
+-	Heminegligencia sensitiva izquierda.
+-	Reflejos: normorreflexia, babinski izquierdo.
+-	NIHSS = 0.0.0.0.1./2.(0.4).(0.1)/0.1.0.0.1 = 10.
+
+En planta de Neurología
+-	Vigil, orientado en las tres esferas.
+-	Lenguaje fluente y coherente sin rasgos disfásicos. No disartria.
+-	Hemianopsia homónima izquierda.
+-	Hipoestesia facial izquierda.
+-	Asimetría facial con ligero déficit orbicular izquierdo y marcada asimetría facial inferior.
+-	No disfonía. No alteraciones de pares craneales inferiores.
+-	Hemiparesia izquierda fascio-braquio(2/5)-crural(3/5).
+-	Hemihipoestesia izquierda
+-	Heminegligencia izquierda
+-	NIHSS = 0.0.0.0.2/2.(0.2).(0.2)/0.1.0.0.1 = 10.
+
+Al alta
+Vigil, orientado.
+- Nomina, repite, evoca y comprende. No disartria
+
+
+-	HHI por confrontación.
+-	Hemihipostesia izquierda
+-	Hemiparesia BC izquierda (4/5) de predominio distal en miembro superior (2/5) NIHSS=0.0.0.0.2/.2.0.1.0.1/0.2.0.0.1=9
+
+EXPLORACIONS COMPLEMENTARIAS
+-	Analítica sanguínia: Sodi 141 mmol/L, Potassi 3,80 mmol/L, Calci 2,23 mmol/L, Fosfat 1,11 mmol/L, Glucosa 4,6 mmol/L, Urea 2,8 mmol/L, Creatinina 78 µmol/L, Urat 246 µmol/L, Bilirubina total 8 µmol/L (< 17), Triglicèrids 0,95 mmol/L, Colesterol 3,61 mmol/L, GOT 18 U/L, GPT 13 U/L, Fosfatasa alcalina 73 U/L, GGT 17 U/L, Proteïna total 64,0 g/L, Albúmina 39,3 g/L, Proteïna C reactiva 44,5 mg/L. Colesterol HDL 53,02 mg/100mL, Colesterol LDL 69,75 mg/100mL, Colesterol VLDL 16,94 mg/100mL, Colesterol quilomicrons 0,00 mg/100mL. Hemoglobina 143 g/L, VCM 83,7 fL, HCM 29,2 pg, Plaquetes 186x10E9/L, Leucòcits 8,79x10E9/L, Neutròfils 68,6 %, Neutròfils absoluts 6,03x10E9/L, Eosinòfils 0,7 %, Eosinòfils absoluts 0,06x10E9/L, Basòfils 0,5 %, Basòfils absoluts 0,04x10E9/L, Monòcits 6,0 %, Monòcits absoluts 0,53x10E9/L, Limfòcits 24,2 %, Limfòcits absoluts 2,13x10E9/L, Velocitat de sedimentació globular (VSG) 11 mm/hora, Vitamina B12 252 pmol/L, Folat sèric 19,7 nmol/L, Hb glicosilada (HbA1c) 4,9 %. Temps de tromboplastina 0,95 RATIO, Temps de protrombina 1,08 INR, Temps de trombina 19,90 s. AUTOIMMUNITAT Ac. antinuclears i citoplasmàtics Negatiu, Ac. anticitoplasma de neutròfil (ANCA) Negatiu.
+-	Rx de tórax: no cardiomeglia, no condensaciones parenquimatosas. Senos costofrénicos libres.
+-	ECG: en ritmo sinusal.
+-	TELEMETRÍA-ECG: sin eventos
+-	TC CRANEAL: No presenta signos de Hemorragia. Isquemia  Aguda  Visible de ACM D, Afectacion fundamentalmente Cortical (ACM), minima del putamen D. Extension de la afectacion isquemica de ACM (ASPECTS =7), Ingurgitacion parenquimatosa y efecto de masa sobre el sistema ventricular (asimetria entre ventriculos laterales, aparenta constitucional). Sin desviacion de la linea media.
+-	ANGIO-TC (TSA E INTRACRANEAL): Diseccion de la ACI D, que disminuye su calibre 1 cm por encima de la bifurcacion, y especialmente a nivel de la union craneo-cervical, donde su pared está engrosada y el lumen está muy disminuido. Dicha ACID está permeable, y hay reconstitucion especialmetne de las porciones petrosa, cavernosa y supraclinoidea. Sin Trombosis/Oclusion arterial de M, ACA, ACPs. Trombosis/oclusion de ramas de la ACM distales al segmento M1(1 rama de la division posterior). Permeabilidad de ACCs, ACI D, ACI Izda, ACCs, AV D, AV Izda. Impresión diagnóstica gobal: Disección de la ACI D a nivel de la union craneo-cervical. Permeabilidad de dicha  ACI D, especialmente a nivel intracraneal. Trombosis/oclusionde una rama M2 de la division posterior de la ACM D. Isquemia aguda en territorio de ACM derecha.
+-	TC craneal de control: Comparativamente con el TC previo del 14/01/2017, la lesiojn isquemica de ACM D es ahora mas visible, al ser subaguda. Existe afectacion cortico-subcortical posterior temporal y sobre todo parietal D, asi como insular D, que tienen un aspecto algo tumefacto. Se observa ahora un minimo aumento del efecto de masa sobre el trigono del ventriculo lateral D, pero no hay desviacion de la linea media. Persiste tambien la hiperdensidad en ramas silvianas de la ACM D, congruente con la oclusion de una rama de la division posterior de dicha ACM D, que era visible en el AngioTC del 14/01/2017. No se observan
+
+otros hallazgos, ni cambios relevantes. Conclusión: Isquemia subaguda en territosio superficial de ACM D, sin otras complicaciones.
+-	Ecocardiograma TT: Ventrículo izquierdo no dilatado ni hipertrofiado. Función sistólica global y segmentaría conservadas. Raíz aórtica no dilatada. Válvula aórtica tricúspide morfológicamente y funcionalmente normal.
+Válvula mitral morfológicamente y funcionalmente normal. Aurícula izquierda no dilatada. Ventrículo derecho no dilatado, con contractilidad global conservada. No se registra señal de regurgitación que permita estimar la PAPs. No existen signos indirectos de aumento de resistencias pulmonares. Válvula pulmonar normofuncionante. Vena cava inferior no dilatada. Ausencia de derrame pericárdico. Ausencia de datos sugestivos de coartación aórtica.
+- Dúplex TSA de control: - TSA: stents permeables en la ACI derecha, con velocidad de flujo normal a lo largo de toda la ACI proximal y media. ACI izqueirda sin alteraciones
+- TC: asimetría del 30% entre ambas ACMs (VSP ACM derecha 80 cm/seg versus ACM izquierda 113 cm/seg), con aceleración de la ACA derecha, sugestivo de persistencia de la oclusión distal de ACM derecha.
+
+EVOLUCIÓN
+A su llegada a urgencias el paciente presenta signos sugestivo de afectación hemisférica derecha, con una NIHSS de 10. Se realiza TC simple donde se observa una lesión isquémica reciente en territorio de la rama posterior de la ACM derecha, con estenosis preoclusiva sugestiva de disección en el angioTC y oclusión a nivel de M2 derecha. Dado que tras el primer interrogatorio se estableció que la duración de los síntomas era de 1.5h, se decide tratamiento de reperfusión en fase aguda con trombólisis intravenosa (inicio a las 17.50 horas). Se realiza una arteriografía urgente confirmando la disección de ACI derecha en segmento cervical. Se decide revascularización con stenting (2 stents) con adecuada recuperación de la luz carotídea. Posteriormente se realizan series intracraneales identificándose oclusión de segmento M2 posterior derecha que coincide con territorio de lesión establecida en TC basal, por lo que se decide no realizar trombectomía. Se inicia antiagregación precoz con aspirina.
+Posteriormente ingresa en la unidad de ictus, donde permanece clínicamente sin cambios. A las 24 horas se inicia dieta oral con buena tolerancia y se inicia rehabilitación. La TC craneal de control no muestra trasnformación hemorrágica y se pauta doble antiagregación (AAS + clopidogrel)
+Durante su estancia posterior en planta permanece clínicamente estable, sin presentar incidencia médicas. A nivel neurológico, presenta una mejoría a nivel motor, principalmente braquial proximal y crural, así como de la heminegligencia. En el momento del alta persiste una hemianopsia homónima izquierda, hemiparesia faciobraquiocrural (braquial proximal 4/5, distal 2/5; crural 4+/5), con hemihipostesa.
+Valorado por equipo de Rehabilitación de nuestro centro, se considera candidato a traslado a Institut Guttmann.
+Al alta: NIHSS=9, mRS=3
+
+
+PROCEDIMENTOS
+
+
+
+- Arteriografía Cerebral: Se realiza arteriografía cerebral confirmando disección de ACID en segmento cervical. Se decide stentar segmento disecado con 2 stent adapt 4-9  x40mm (previa administración de Inyesprin) que cubren toda la disección con adecuada recuperación de la luz carotídea. Posteriormente se realizan series intracraneales identificándose oclusión de segmento M2 posterior derecha que coincide con territorio de lesión establecida en TAC basal, por lo que tomando en consideración el contexto clínico (mayor riesgo de transformación hemorrágica en caso de repermeabilización del vaso sin tejido viable por TC) se decide en conjunto con neurología finalizar el procedimiento. Cierre de punto de punción con sistema percutáneo proglyde. Se coloca vendaje compresivo. Sin incidencias.
+
+
+
+DIAGNÓSTICOS
+-	Infarto isquémico (PACI) en territorio de la ACM derecha de etiología inhabitual (disección carotídea)
+-	Oclusión M2 derecha. Trombólisis intravenosa
+-	Disección espontánea carotídea interna derecha extracraneal. Revascularización con stents.
+
+
+
+TRATAMIENTO
+-	Adiro 100 mg/día
+-	Clopidogrel 75 mg/día hasta el día 14.04.2017.
+-	Ranitidina 150 mg/12h
+-	Paracetamol 1 gr/8h si precisa
+-	Hibor 2500 UI/día si inmovilización.
+-
+-
+-	* Control en Consulta Externa de Neurología (se adjunta)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Responsable clínic: Dra. _NAME_ (NºCol. _ID_)
+Equip mèdic: Dra. _NAME_ (NºCol. _ID_), Dra. _NAME_ (NºCol. _ID_), _NAME_ (NºCol. _ID_)
+
+Servei que ha donat d'alta:
+NEURO - UNITAT ICTUS HOSP	Data d'alta:
+31.01.2017	Nom del metge que informa de l'alta:
+Dra. _NAME_ (NºCol. _ID_)
+
+
+_LOCATION_, 31.01.2017
+Pàg. 1 de   5

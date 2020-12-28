@@ -1,0 +1,69 @@
+INFORME ALTA HOSPITALARIA
+_NAME_
+Núm. Episodi: _ID_ Núm. HC: _ID_
+_SS_ _LOCATION_
+_LOCATION_
+Tel. _CONTACT_Adreça: _LOCATION_	C.A.P.: _SS_ E
+Població: _LOCATION_	Sexe: HOME   Data naixement: _DATE_  Edat: 81a
+Telèfon: _CONTACT_  C.P.: _LOCATION_	T.I.S.: _ID_   DNI/NIF: _ID_
+Procedència: URG	Data Ingrés Hospital: 09/06/2017
+Servei assistencial: NEUROLOGIA HOSP	Data Ingrés Servei: 09/06/2017
+Metge Responsable: _NAME_	Data Alta: 15/06/2017
+
+
+MOTIVO DE INGRESO: afasia de expresión
+
+ANTECEDENTES PERSONALES:
+1.  Alergia a la penicilina.
+2.   Ex-fumador. DA 80 paq/año. Ex-enolismo.
+3.	Dislipemia en tratamiento farmacológico.
+4.	AVC isquémico en territorio de la ACM izquierda en noviembre de 2006, que inicialmente se presenta como AITs de repetición, con alteración del lenguaje y disestesias en hemicuerpo derecho.  TC craneal: hematoma intraparenquimatoso parietal posterior izquierdo de 42 x 37 mm, con discreto edema asociado y abierto al sistema ventricular (lateral ipsilateral, III ventrículo y IV ventrículo). Pequeño foco de sangrado en rodilla de cápsula interna izquierda. RM craneal-Angio RM  TSA y craneal: Extensa área de infarto agudo a nivel de la ínsula izquierda, con extensión a región córtico-subcortical temporo-occipital. Además lesiones isquémicas antiguas en corona radiada, lacunares en cápsulas internas y núcleos lenticulares. En  el  estudio  angioRM  destaca pérdida de morfología del bulbo carotídeo bilateral con una estenosis del 40%. Al alta: hemianopsia homónima derecha, no completa, en campimetría por confrontación. Disfasia mixta: fallos en nominación y repetición. Parafasias. Menos evidente, pero presenta fallos en comprensión.
+5.	AVC isquémico en territorio ACM izquierda de origen indeterminado-ESUS en agosto de 2016.
+6.	AITs de repetición con alteración del lenguaje en 2008 y 2009.
+7.	AIT hemodinámico en contexto de hipotensión e hipovolemia.
+8.	Úlcera duodenal intervenida mediante laparotomía media.
+9.	Colelitiasis diagnosticada en marzo de 2016. CRM: Discreta dilatación de la vía biliar intrahepática de predominio del LHI. También hay discreta ectasia del colédoco, de 11 mm, y del conducto pancreático, sin verse lesión en la zona de la papila. No se observa coledocolitiasis ni estenosis de la vía biliar. Vesícula biliar distendida de paredes discreta y difusamente engrosadas, también discretamente hiperintensas, con un poco de líquido adyacente, y una litiasis en el infundíbulo y un poco de barro, que puede traducir cierto grado de inflamación aguda. El paciente rechazó intervención quirúrgica en ese momento.
+10.	Tendinitis de Quervain bilateral.
+
+Tratamiento  habitual:  Tromalyt  150mg  1comp/24horas;  Plavix  75mg  1comp/24horas;  Crestor  20mg 1comp/24horas; Ketoconazol 2%gel.
+Situación  basal:  vive  con  su  esposa,  independiente  para  las  ABVD.  Cognitivamente  preservado.  mRS0, Barthel 95.
+
+ENFERMEDAD ACTUAL:
+Paciente de 81 años que consulta por alteración del lenguaje de horas de evolución así como desorientación. La familia niega fiebre o clínica infecciosa respiratoria, urinaria o abdominal los días previos.
+
+EXPLORACIÓN FÍSICA:
+Paciente con buen estado general. Normocoloreado y normohidratado.
+AC: Tonos cardíacos rítmicos, sin soplo ni roce. No signos de IC. AR: murmullo vesicular conservado, sin ruidos sobreañadidos. ABD: Abdomen blando y depresible, no doloroso a la palpación. No masa ni megalias. Peristaltismo conservado, sin signos de irritación peritoneal. NRL: Glasgow 15, PICNR. PPCC conservados. Fuerza y sensibilidad conservadas en las 4 extremidades.  No dismetrías. Mutismo. Afasia de expresión. Obedece algunas órdenes. NIHSS 3
+
+EXPLORACIONES COMPLEMENTARIAS:
+Urgencias
+Analítica general: Hb 14.4 g/dL; VCM 83.8 fL; Plaquetas 237.000/mm3; Leucocitos 7660/mm3 (56.9% N; 30.9% L, 8% Mo; 3.5% Eo; 0.7% B). Glucosa 125.4 mg/dL; Urea 39.2 mg/dL; Creatinina 0.8 mg/dL; FG 84 ml/min/1.73m2; Na 142 mmol/L; K 4.4 mmol/L; CL 104.7 mmol/L; TP 88%; TTPa 28.1s; Fibrinogen 4.83 g/L.   TC cranial: TC cranial simple: Estructures de la línia mitja centrades. Signes d'atròfia cortical cerebral global amb sistema ventricular de mida i morfologia normal i centrat a línia mitja. Predomina l'atròfia temporal. Atròfia cerebelosa. Lesió isquèmica antiga occipital esquerre, amb retracció de l'asta occipital i atri venricular. Lesions isquèmiques cròniques a substància blanca periventricular bilateral. No hi ha imatges de sagnat intra ni extraparenquimatoses. Es descarta lesió expansiva intracranial en aquest estudi. ANGIO-TC: Estudi vascular des de la crossa de l'aorta fins a la convexitat cerebral. Correcta permeabilitat dels troncs supraaòrtics amb una sortida conjunta de l'artèria caròtida primitiva amb el tronc innominat dret. Hi ha una correcta permeabilitat de les caròtides primitives i d'ambdues artèries vertebrals. Ateromatosis càlcica a les dues bifurcacions carotidees. Correcta permeabilitat de les artèries caròtides internes intracranials. Les artèries del polígon de Willis són permeables i no mostren altres obstruccions.
+
+Planta de hospitalización
+RMN craneal: pendiente de informe definitivo. Sin lesiones agudas en DWI.
+
+EVOLUCIÓN:
+Paciente con antecedente de múltiples AIT y AVC isquémico en territorio de ACM izquierda que ingresa por alteración del lenguaje en forma de afasia de expresión.
+A su llegada a urgencias el paciente se encuentra hemodinámicamente estable y afebril, objetivando a la exploración neurológica afasia de expresión, sin otra focalidad. Se realiza TC cranial e AngioTC que descartan alteraciones agudas. Se decide ingreso a Neurología para control evolutivo.
+A su llegada a planta el paciente presenta recuperación completa de la afasia, sin presentar otra focalidad neurológica. Se solicita RMN cranial para completar estudio que no muestra lesiones agudas pero muestra múltiples lesiones vasculares crónicas (pendiente de informe definitivo), por lo que se orienta el cuadro como probable crisis comicial en el contexto de dichas lesiones.
+Durante todo el ingreso el paciente se mantiene clínicamente estable, totalmente asintomático, por lo que se decide alta a domicilio con control en Consultas Externas de Neurología. Barthel 95, mRS 0.
+
+JUICIO CLÍNICO:
+Crisis comicial
+Malaltia cerebrovascular crónica 434.11
+
+TRATAMIENTO:
+Keppra 500mg 1 comprimido cada 12 horas Deprax 100mg 1/2c/nit
+
+Tromalyt 150mg 1comp/24horas Crestor 20mg 1comp/24horas Ketoconazol 2%gel
+
+Control en 3 meses en CCEE Neurología (Dr. _NAME_)
+
+
+Signat:
+Dr.: _NAME_	Dra. _NAME_
+Metge adjunt - Neurología	Metge resident - Medicina Interna Número col·legiat: _ID_		Número col·legiat: _ID_
+
+Hospitalització
+Imprès: 15/06/2017 15:48
+Pàg.: 1 de  2

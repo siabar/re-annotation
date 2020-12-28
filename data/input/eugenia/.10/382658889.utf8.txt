@@ -1,0 +1,102 @@
+I.CLINIC DE NEUROCIÈNCIES NEUROCIRURGIA
+_NAME_	NHC: _ID_
+
+
+Sexo/Sexe: Masc.	Fecha nac./Data naix.: _DATE_	Edad/Edat: 59 años Dirección/Adreça: _LOCATION_		CP: _LOCATION_
+Municip. (Prov.): _LOCATION_  ABS:_SS_		Tel.:_CONTACT_ As.: SERVEI CATALA DE LA SALUT	CIP: _ID_	NASS: _ID_
+Nº epis.: _ID_	Tipo/Tipus: HOSPIT.	Inici.: 10.06.2017 Serv: NEUROCIRURGIA	UO Enf.: G045 SALA G DE NEUROCIRURGI Hora: 07:55:14
+Facult. de ref.: _NAME_
+
+
+
+
+Tipo ingreso/Tipus ingrés: Urgent	Motivo/Motiu alta: CSS Conval.
+Diag.:
+HEMATOMA CEREBELOSO ()
+Proc.:
+OTRO PROCEDIMIENTO NCOC (99.99)
+Craniectomía evacuadora (01.24) TAC craneal ()
+OTRAS CRANEOTOMIAS (01.24)
+
+
+
+
+INFORME CLÍNICO ALTA / INFORME CLÍNIC ALTA
+
+Motivo de consulta / Motiu de consulta
+ROTACIÓN DE OBJETOS
+
+Antecedentes e historia previa / Antecedents i història prèvia Antecedentes personales:  Varón de 57 años sin alergias medicamentosas c onocidas, fumador de 1 paquete/día (DA 40 paq·año). Consumo de alcohol d e 3-4 UBE/día. Niega consumo de otros tóxicos. Independiente para las AB VD, mRs 2 por accidente previo. Diestro. * ANTECEDENTES PAT0LÓGICOS: 1.-
+Hipertensión arterial diagnosticada en 2009 en tratamiento farmacológic
+o. 2.- Dislipidemia en tratamiento farmacológico. 3.- Parálisis del nerv  io radial como secuela de un accidente en que se seccionó el brazo izqui erdo a nivel del húmero. Fue sometido a cirugía reconstructiva, persisti
+endo paresia braquial 4-/5 y leve paresia de la mano. 4.- Quemaduras pro vocadas por explosión de gas hace años que requirieroningreso en UCI y t raqueostomía por compromiso de vía aérea. 5.- Probable ictus vertebro-ba silar (09.2014): presentó disartria disartria leve, paresia facial supra nuclear izquierda leve, paresia del hipogloso izquierdo, sensación de ac orchamiento en hemilabio superior izquierdo e hipoestesia de la hemileng ua izquierda (NIHSS 2). Al alta: asintomático (NIHSS 0), TOAST lacunar, mRs 1. Se inicia tratamiento antiagregante, se ajusta medicación antihip ertensiva y se reinician estatinas. * Eco-doppler: ateromatosis carotíde
+a bilateral, sin evidenciar oclusiones ni estenosis significativas en la
+s arterias extra- ni intracraneales. * TC craneal: leucoaraiosis periven tricular y múltiples imágenes lacunares cápsulo-ganglionares bilaterales que podrían corresponder con infartos lacunares antiguos; entre ellos s e observa un ictus lacunar protuberancial izquierdo, de características
+
+.subagudas-crónicas. * TRATAMIENTO HABITUAL: Dolocatil 1g/día, Atorvastat ina 60mg/día, Enalapril/hidroclorotiazida 20/12,5mg c/día, AAS 100mg/día
+, Omeprazol 20mg/día, Amlodipino 5mg/día. Medicación habitual: (actualiz ado 8/3/15): - Dolocatil 1g/día, - Atorvastatina 60mg/día, - Enalapril/h idroclorotiazida 20/12,5mg c/día, - AAS 100mg/día, - Omeprazol 20mg/día,
+- Amlodipino 5mg/día..
+
+Proceso actual / Procés actual
+Hacia las 3:00h presenta cuadro caracterízado por rotación de objetos, sudoración y náuseas, mientras se encontraba sentado en el sofá viendo la televisión. Objetiva hipertensión a 180/110 mmHg, por lo que administra 50 mg de captoprilo y deriva a nuestro centro.
+
+El paciente refiere diplopia más evidente al intentar mirar a la derecha.
+
+Exploración física / Exploració física
+Consciente, orientado, con lenguaje hipofluente sin rasgos afásicos pe ro con marcada disartria. Campimetría por confrontación preservada. Pupi las anisocóricas, con midriasis derecha reactiva lenta. Mirada centrada, con limitación a la adducción del ojo izquierdo y a la abducción del de recho, con imposibilidad de cruzar la línea media. Nistagmus con fase le nta a la izquierda. No presenta skew de la mirada. Paresia facial derech a leve. Resto de pares craneales sin alteraciones. Fuerza y sensibilidad globalmente preservadas, a excepción de mano izquierda ya conocida prev iamente. Dismetría marcada de extremidades derechas. Eupneico, con murmu llo vesicular conservado, sin ruidos sobreañadidos. Tonos cardíacos rítm icos, sin soplos ni roces audibles. No presenta ingurgitación yugular ni  edemas.
+
+Radiología / Radiologia
+11/06/2017 : Tac cerebral : tac cerebral.
+
+Cambios posquirúrgicos por craniectomía de fosa posterior derecha No se observa obliteración de las cisternas peri mesencefálicas ni protuberanciales.Estructuras de la línea media centradas. Sis tema ventricular de tamaño y posición dentro de la normalidad.Hipodensidad de la sustancia blanca periventricular y en ambos centros semiovales en probable relación con microangiopatía crónica. Infartos lacunares crónicos cápsulo-ganglionares bilaterales, t alámico derecho y hemiprotuberancial izquierdo.
+
+14/06/2017 : Tac cerebral : tac cerebral.
+
+Hematoma cerebeloso derecho en evolución, sin cambios. Vasculopatía crón ica y atrofia.
+21/6/2017: TAC cerebral.Resolucion de hematoma cerebeloso derecho en evolución, sin cambios. Vasculopatía crón ica y atrofia.
+
+Intervenciones quirúrgicas / Intervencions quirúrgiques
+10/06/2017 : Informe quirúrgico / informe quirúrgic : craniotomia descom prensiva. Sin incidencias .
+
+Evolución / Evolució
+ALTA
+Paciente de 57 años, con los antecedentes anteriormente descritos que cursa el 10/06/17 a las 03:00h con cuadro caracterízado por rotación de objetos, sudoración y náuseas, asociando hipertensión a 180/110 mmHg. Se traslada a nuestro centro con código ICTUS, destacando a la exploración lenguaje hipofluente sin afasia pero con marcada disartria. Fuerza y sensibilidad globalmente preservadas, a excepción de mano izquierda ya conocida previamente. Se realiza TAC Cerebral urgente:
+
+
+
+1.-  HEMATOMA  CEREBELOSO  DERECHO  (  4.7  x  3.4  x  2.5  cms)  2.-  POSTOPERATORIO  CRANIECTOMÍA
+EVACUADORA Se interviene de forma urgente el 10/06/17 realizando creaniectomía con evacuación de hematoma.
+A la exploración neurologica: consciente y orientado, colaborador, se mantiene disártrico, mínima asimetría de fuerza en miembro superior izquierdo ya conocida por antecedente de lesión nervio radial. Sin alteración evidente de pares craneales y coordinación correcta.
+Durante su estancia en nuestra unidad se mantiene estable clínica y hemodinámicamente sin deterioro neurológico. Afebril. Se mantiene a Famis. SNG productiva pero con peristaltismo presente, por lo que se realiza pinzamiento temporal.
+Se realiza TAC Cerebral de control sin alteraciones destacables.
+Debido a estabilidad clínica y correcta evolución durante su estancia en E043, se decide traslado a Sala de hospitalización para seguimiento e evolución. Es trasladado a sala donde se retira sonda nasogastrica e inica ingesta oral.Se consigue correcto control analgesico. TAC seriados muestran dilatacion ventricular incipiente, a valorar según la evolución. Inicia deambulación, requiriendo cierto grado de ayuda, pues a la enfermedad actual se suma una hemiparesia izquierda de predominio en miembro superior e inestabilidad de la marcha asociada. Ataxia de la marcha con incremento de la base de sustentacion.
+Leucocitosis sin fiebre en relacion a posible  neumonia aspirativa sin confirmacion microbiologica. En tratamiento con Amoxicilina clavulanico.
+Se solicita traslado a centro de rehabilitacion. Control ambulatorio en consultas externas de neurocirugía según citas.
+
+Plan terapéutico / Pla terapèutic
+Amlodipino alter 5 mg comprimidos efg, 30 comprimidos. 5 MG. Vía oral. A las 23:00 horas. Amoxicilina/acido clavulanico tevagen 875 mg/125 mg comprimidos recubier tos con pelicula efg, 30 comprimidos. 1 UND. Vía oral. Cada 8 horas. Adiro 300 mg comprimidos gastrorresistentes efg, 30 comprimidos. 300 MG.  Vía oral. Cada 24 horas. Omeprazol alter 20 mg capsulas duras gastrorresistentes  efg
+, 28 cápsul as. 20 MG. Vía oral. Cada 24 horas. Pramipexol combix 0,18 mg comprimidos efg, 30 comprimidos. 0,09 MG. Vía oral. Desayuno, comida y cena. Serc 16 mg comprimidos , 30 comprimidos. 48 MG. Vía oral. Cada 24 horas. Dolocatil 1000 mg comprimidos efg, 40 comprimidos. 1000 MG. Vía oral. Ca da 24 horas. Enalapril-hidroclorotiazida bexal 20 mg/12,5 mg comprimidos efg , 28 com primidos. 1 UND. Vía oral. Una vez al día, en el desayuno. Atorvastatina davur 60 mg comprimidos recubiertos con pelicula , 28 comp rimidos. 60 MG. Vía oral. A las 23:00 horas.
+
+Otras recomendaciones / Altres recomanacions
+Control ambulatorio en CCEE de NRC en 3 semanas previa realizacion de TC craneal.
+
+
+
+Firma/Signatura1: _NAME_	Firma/Signatura2: _NAME_ Categoría: Resident 5	Categoría: Especialista
+Nº Matrícula HCP: _ID_	Nº Matrícula HCP: _ID_
+
+Fecha/Data Informe: 21.06.2017
+Hora Informe: 10:52:16
+
+Docum.: _ID_
+Hist. Clínica: _ID_
+El _SS_ ha incorporado sus datos al Fichero de Pacientes, para tratarlos con fines sanitarios.
+Puede ejercer sus derechos de acceso, rectificación, cancelación y oposición, así como obtener mas información en la Unidad de Atención al Cliente.
+Vers. 00
+Pag. 2 de
+3
+Episod.: _ID_
+_SS_ ha incorporat les seves dades al Fitxer de Pacients, per a tractar-los amb finalitats sanitàries. Pot exercir els seus drets d'accés, rectificació, cancel·lació i oposició, i obtenir més informació a la Unitat d'Atenció al Client.
+_SS_
+_LOCATION_) _LOCATION_) Tel. _CONTACT_ Fax _CONTACT_
+http://_CONTACT_/

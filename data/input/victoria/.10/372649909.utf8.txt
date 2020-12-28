@@ -1,0 +1,129 @@
+_LOCATION_ Tel. _CONTACT_
+e-mail: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 37 Anys
+NIF/DNI: _ID__NAME_; _NAME_; _NAME_;
+_NAME_
+Informe d'alta d'hospitalització
+_LOCATION_
+_SS_ NEUROLOGIA 19.05.2017	16:43:55
+ABS
+Servei Data d'alta
+_CONTACT_
+DOMICIL/RES.SOC 11.05.2017
+_LOCATION_
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Hematoma capsulolenticular izquierdo
+
+ANTECEDENTS
+Mujer de 37 años, sin alergias medicamentosas conocidas ni hábitos tóxicos. Totalmente autónoma, escala de Rankin 0.
+
+ANTECEDENTES PATOLÓGICOS:
+-	Cesárea el 2/5/2017 por parto estacionado y sospecha de desproporción pélvico-fetal que cursa sin incidencias con postcirugía correcto. Se alta a domicilio el 5/5/2017 sin incidencias. Control gestacional previo correcto, sin incidencias y sin registro de cifras tensionales elevadas en el mismo. En visita puerperal en ASSIR de zona el 8/5/2017 se registran cifras tensionales en torno a 170/100mmHg por lo que se deriva a su médico de família para control de tensión arterial.
+-	Interrupción farmacológica de la lactancia con cabergolina.
+
+MEDICACIÓ HABITUAL
+Fero-gradumet, Natifar.
+
+PROCÉS ACTUAL
+El 10/05/17 se acuesta asintomática a las 22:00. Se despierta pasadas las 23:00 y avisan al SEM ante debilidad de extremidades derechas. Se activa código ictus a las 0:00, llegando a nuestro centro a las 0:12.
+
+EXPLORACIÓ FÍSICA
+
+FC	68 bpm
+Tªaxi 35.7 ºC
+FR	rpm Tªrec  ºC
+TA s	119 mmHg SAT O2 96 %
+TA d   60 mmHg Pes Kg
+
+Murmullo vesicular conservado sin ruidos sobreañadidos. Tonos cardiacos regulares sin soplos ni roce pericárdico. Pulsos centrales sin alteraciones; pulsos periféricos presentes y simétricos. Abdomen blando y depresible sin masas ni megalias.
+
+Exploración neurológica: Consciente y orientada en las tres esferas. Campimetría por confrontación y oculomotricidad normales. Leve paresia facial central derecha. Lenguaje fludio levemente disártrico. Muy leve paresia braquial derecha que no puntúa. Sin otros déficits motores. Muy leve hemihipoestesia derecha. Reflejo cutáneoplantar indiferente derecho, izquierdo flexor.
+
+NIHSS = (0.0.0)0.0//1(0.0)(0.0)//0.1.0. 1.0 = 1
+
+EXPLORACIÓ COMPLEMENTÀRIA
+Analíticas:
+
+Informe d'alta d'hospitalització
+
+
+
+
+Urgente: Hematología (11/05/17): Leucocitos 6100 /µL, (N 60,9 % / L 24,5 / M 12,8 / E 0,8 / B 1), Hties 3,84
+mill/µL, Hb 10,8 g/dL, Hct 33 %, VCM 85,9 fL, Plaquetes 318000 /µL, TP 96 %, INR 1,03 sg, TP ratio 1,03, TTPA
+28,5 sg, TTPA ratio 0,92, Fibrinógeno 503 mg/dL. Bioquímica (11/05/17): Glucosa 82 mg/dL, Urea 29,5, Creatinini
+0,68, Na 143,3 mmol/L, K 4, ALT 52 U/L, Prot-C reactiva 35,1 mg/L. Orina (11/05/17): Densidad 1,006, pH 6,5, Proteína 30 mg/dL, Glucosa [-], C Cetonicos 0 mg/dL, Bilirrubina [-], Hb [-], Urobilinogeno 0,2 mg/dL, Nitritos [-], Esterasa leucocitica 500 leucos/µL, Bacterias Escasas, Eritrocitos 10-20 /cmp, Leucocitos 40-60. Cociente albúmina/Cr: 1215 mg/g. Cociente Alb./Creat.: 1215.5 mg/g.
+
+Ingreso: Bioquimica (12/05/17): Glucosa 80 mg/dL, HbA1c 5,5 %, Urea 17 mg/dL, Creatinini 0,76, Filtrat glomerular estimat >90 mL/min/1.73 m2, Osmolalitat 291 mOsm/Kg, Ca 7,3 mg/dL, Mg 4,64, Na 139,5 mmol/L, K 3,91, GGT 26 U/L, FA 126, Bilirubina 0,31 mg/dL, CK 98 U/L, Prot-C reactiva 22,8 mg/L, Proteïna 61,3 g/L,
+Albumina 32,3. Lípids.- Triglicèrid 215 mg/dL, Colesterol 199, (HDL 35,9 / LDL 120). Hormonas (12/05/17): TSH
+0,772 µUI/mL.
+
+Electrocardiograma: ritmo sinusal a 50lpm sin alteraciones de la repolarización.
+
+TC craneal urgente: hemorragia parenquimatosa aguda lenticular izquierda de aproximadamente 20 x 12 x 15 mm de diámetros máximos aproximados APxLLxCC respectivamente con leve edema perilesional.
+
+Estudio neurosonológico:
+Transcraneal: estenosis politópica con flujo rugoso  a nivel de sifón carotídeo izquierdo  (Vs 180cms), arteria cerebral  media  izuqierda  (280cm/s),  arteria  cerebral  anterior  izquierda  (220cm/s),  arteria  cerebral  posterior izquierda (160-180cm/s), arteria cerebral media derecha (220cm/s), arteria cerebral anterior derecha (120cm/s), resto de arteria intracraneal  de territorio anterior sin alteración.Territorio posterior: Se insonan ambas arterias vertebrales sin alteración de flujo, aceleración focal de arteria basilar hasta 160-180cm/s a 91mm de profundidad. Troncos supraaórticos:  grosor  íntima  media sin alteraciones, se  insonan  ambas arterias carótidas  comunes, internas y externas sin placa de ateroma. Se insonan ambas arterias vertebrales ortodrómicas hasta ostium sin alteración de flujo.
+
+Estudio neurosonológico transcraneal de control: estenosis politópica con flujo rugoso a nivel de sifón carotídeo izquierdo (Vs 180cms), arteria cerebral media izuqierda (220cm/s), arteria cerebral anterior izquierda (180cm/s), arteria cerebral posterior izquierda (150cm/s), arteria cerebral media derecha (220cm/s), arteria cerebral anterior derecha (120cm/s), resto de arteria intracraneal de territorio anterior sin alteración. Territorio posterior: Se insonan ambas arterias vertebrales sin alteración de flujo, acceleración focal de arteria basilar hasta 180cm/s a 91mm de profundidad.
+
+RM craneal y angio-RM: Área focal hiperintensa en la secuencia potenciada en T1 y elevadamente hipointensa en la secuencia potenciada en T2 a nivel lenticular posterior y brazo posterior de la cápsula interna izquierda, compatible con un hematoma, con leve edema perilesional y mínimo efecto de masa sobre el ventrículo lateral izquierdo. Hiperintensidad de la porción proximal del tracto cortico espinal izquierdo adyacente al hematoma en relación a degeneración walleriana incipiente. En la secuencia de susceptibilidad magnéticase aprecian varios focos microhemorrágicos satélites adyacentes a margen superior del hematoma. No se observan otras lesiones. Sistema ventricular simétrico, de tamaño normal.Línea media centrada. Cisternas de la base y perimesencefálicas libres. No se observan otras lesiones en parénquima cerebral, cerebeloso ni en tronco encefálico. En la secuencia de difusión no se observan alteraciones que indiquen isquemia aguda o subaguda. La secuencia angiográfica intracraneal muestra un adelgazamiento difuso del segmento proximal de las arterias cerebrales de la circulación anterior con irregularidad  mural del segmento M1 de la ACM izquierda y estenosis focal crítica proximal del
+
+Informe d'alta d'hospitalització
+
+
+
+
+segmento A1 derecho. Unión cráneo-cervical de características normales. CONCLUSION: Estudio que muestra hematoma focal y microhemorragias ganglio capsular izquierda con  adelgazamiento del diámetro vascular e irregularidad del segmento proximal de las arterias cerebrales de la circulación anterior, lo que no permite descartar un sd de vasoconstricción reversible, a valorar control angiográfico por RM evolutivo.
+
+EVOLUCIÓ CLÍNICA
+Mujer de 37 años, mRS 0, con cifras de TA elevadas registras desde el parto (cesárea 2/5/17) que acude por clínica brusca de hemiparesia y hemihipoestesia derechas de unas dos horas de evolución.
+
+A su llegada está levemente hipertensa y afebril. La exploración evidencia leve paresia facial central derecha, claudicación distal de brazo derecho que no puntúa, muy leve hemihipoestesia derecha y leve disartria (NIHSS 3). Se cursa analítica urgente que no muestra alteraciones relevantes y el ECG está en ritmo sinusal. Se solicita TC craneal que muestra pequeño hematoma intraparenquimatoso profundo izquierdo.
+
+Durante su estancia en Urgencias requiere colocación de BIC de urapidilo y bolus condicionados de hidralazina para mantener cifras tensionales <140/90. Se contacta con Ginecología y se orienta como cuadro altamente suggestivo de preeclampsia, por lo que se decide iniciar sulfato de magnesio a dosis habituales. Se pauta analgesia convencional para la cefalea con buena respuesta y se mantiene clínicamente estable.
+
+Durante su ingreso en la Unidad se ha mantenido hemodinámicamente estable; se ha completado el tratamiento con sulfato de magnesio y se ha iniciado tratamiento con labetalol oral consiguiendo retirar BIC de urapidilo. Es valorada por Rehabilitación que pauta tratamiento específico. Se inicia dieta oral y deambulación con buena tolerancia. Neurológicamente presenta resolución de la disartria y mejoría del déficit motor de extremidad superior derecha, persistiendo muy leve torpeza de mano derecha y hemihipoestesia leve.
+
+Dentro del estudio etiológico se cursa analítica de ingreso que no muestra alteraciones. Se solicita RM cerebral con angio-RM en la que se observa hematoma profundo izquierdo en resolución y estenosis múltiples en todos los territorios vasculares. El estudio neurosonológico confirma estenosis politópicas con troncos supraaórticos sin alteraciones. Se orienta como probable síndrome de vasoconstricción reversible en contexto de preeclampsia puerperal y prescripción de cabergolina para supresión de lactancia. Se repite estudio neurosonológico transcraneal en unos días y se observa persistencia de estenosis politópicas con leve mejoría respecto exploración previa.
+
+Ante estabilidad clínica se decide alta a domicilio con estudio neurosonológico de control y visita con Neurología y Ginecología de nuestro centro en los próximos días, explicando detalladamente las normas de reconsulta.
+
+Al alta: NIHSS = 1
+mRS = 1
+
+DIAGNÒSTICS
+-	Hematoma gangliobasal izquierdo
+-	Probable síndrome de vasoconstricción cerebral reversible en contexto de preeclampsia puerperal y prescripción de cabergolina para supresión de lactancia
+-	
+Informe d'alta d'hospitalització
+
+
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+-	Dieta baja en sal
+-	Labetalol 200 mg/12 h
+-	Paracetamol 1 g/8 h si precisa
+
+Reconsultar de forma urgente a nuestro centro en caso de aparición de nueva focalidad neurológica.
+
+CONTROL
+Se contactará para comunicar día y hora de:
+-	Primera visita en consultas externas de Neurología y Ginecología
+-	Estudio neurosonológico Control estricto de tensión arterial.
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+19.05.2017
+Pàgina 1 de 4

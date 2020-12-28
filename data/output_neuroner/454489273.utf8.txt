@@ -1,0 +1,149 @@
+_SS_
+_LOCATION_)  Tlf. _CONTACT_
+INFORME ALTA HOSPITALITZACIÓ
+CIP	_ID_	Data Naix.   _DATE_	Edat 83	Sexe Dona	NASS	_ID_
+Adreça   _LOCATION_		CP	_LOCATION_
+Població_LOCATION_		Tel.	_CONTACT_
+Episodi  _ID_	Admissió	03.12.2017 21:02		Alta	31.12.2017 14:11
+Servei	MEDUO_SS_ Medicina Interna		Unitat	U04UHHBL
+
+DIAGNÒSTIC ALTA
+
+Codi ICD-9	Descripció Diagnòstic
+434.91/5	AVC ISQUEMIC
+
+DADES INFORME
+
+MOTIVO DE CONSULTA:
+Paciente diestra de 83 años, sin alergias medicamentosas conocidas , refiere intolerancia a Augmentine (diarreas), ni hábitos tóxicos trasladada desde _SS_ tras activarse código ictus.
+
+ANTECEDENTES PATOLÓGICOS
+-	HTA en tratamiento con Hidrosaluretil.
+-	Dislipemia en tratamiento con atorvastatina 80 mg/dia.
+-	Asma bronquial en tto broncodilatador. Episodios de crisis en contexo de infecciones respiratorias, principalmente en invierno.Sigue tratamiento con Seretide.
+-	Cardiopatía isquémica en forma de IAM en 2000. Portadora de stent en CD.  Nuevo IAMEST Killip I por lo que ingresó en nuestro centro desde 8/11/17 hasta 20/11/17. No puede esclarecerse el mecanismo, posibilidad de embolia repermeabilizada coincidiendo con INR infraterapéutico. Se decide iniciar NACO. No se prescribe antiagregación combinada por tratarse de una paciente anciana y sin clara evidnecia de una placas ateromatosas relevanes. Por ecocardiografia fracción de eyección preservada sin segmentarismos.
+*CORONARIOGRAFIA : Estado post-stent: stent en CD media permeable con mínima proliferación neointimal no significativa. Resto de arterias coronarias con mínimas irregularidades no significativas.
+*Ecocardiografia TT: Ventrículo izquierdo no dilatado ni hipertrofiado. FEVI global conservada (60%), sin alteraciones de la motilidad segmentarias. Aurícula izquierda ligeramente dilatada. Raíz aórtica y aorta ascendente de tamaño normal. Válvula aórtica trivalva, sigmoideas esclerosadas con apertura conservada. IAO ligera. Discreta esclerosis mitral. IM central ligera. VD no dilatado normocontractil. AD dilatada ( area 18 cm2). IT moderada que permita estimar HTAp moderada en reposo. No derrame pericárdico. Dilatación de VCI con variacion respiratoria < 50%
+-Infarto isquémico previo desconociendo estudios y etiologia por lo que la paciente seguía tratamiento antiagregante con clopidogrel.
+Infarto isquémico territorio ACM derecha en 11/15 por lo que ingresó en Neurología de nuestro centro. Se realizó tratamiento trombolítico ev con buena evolución clínica y estando al alta asintomática. Se realizó estudio vascular sin ateromatosis hemodinámica significativa. Estudio cardíaco sin cardiopatía estructural y monitorizada en UCi en RS. Al alta se solicitó Holter de forma ambulatoria objetivándose ACxFA paroxística decidiéndose anticoagulación con
+Sintrom como prevención secundaria.
+-FibA paroxística hallada en dic-15 y se inicia tratamiento con ACO.
+-TCE con pérdida de conciencia por lo que consultó en 23/11/17 a urgencias de nuestro centro realizándose TC craneal de control con lesiones isquémicas frontal derecha y parietal derecha crónicas que ya se describían en TC craneal realizado en el _SS_ donde consultó por AIT. Fue valorada por Neurología y Cardiología que orientó como probable síncope ortostático favorecido por tratamiento antianginoso hipotensor, recomendando retirar b-bloqueantes y mononitrato d isosorbide.
+NHC	_ID_	Pacient	_NAME_
+
+
++ Valoración Geriatrica: No deterioro cognitivo conocido. Independiente para ABVD hasta el alta de Cardilogia, desde entonces la familia refiere que no ha salido de casa y deambula con cierta inestabilidad. Vive en domicilio con esposo.Rankin 2.
++ Tratamiento habitual: SERETIDE 50/500 1-0-1,PRADAXA 110 MG/12H,OMEPRAZOL 20 MG/dia, ATORVASTATINA 40 MG COMP 2 COM ORALC/24H-TARD, HIDROCLOROTIAZIDA 50 MG COMP 1 COM ORALC/24H.
+
+ENFERMEDAD ACTUAL:
+Estando ingresada en UCIAS por cuadro de disnea progresiva y pendiente de subir a planta de UCE orientada como Insuficiencia cardíaca descompensada con FEP y FA rápida con  broncoespasmo. La paciente estando en urgencias el dia 1/12/17 presenta episodio brusco de pérdida de fuerza en extremidades izquierdas por lo que se activa código ictus.
+Valorado por NRL: se orienta como  Ictus en territorio de ACM derecha. Se contacta con _SS_ y se traslada para valorar rescate intraarterial. Tras estudio/valoracion se orienta como posible AIT hemisférico derecho de etiología a estudio. No tratamiento con rTPA por NACO, ni trombectomía por ausencia de oclusión. Y se decide nuevo traslado a nuestro centro. Ingresa en NRL.
+
+EXPLORACIÓN FÍSICA en NRL:
+Planta NRL : Afebril, TA 159/75, FC 77x sat O2 (GN) 98%, BMtest 98. Diuresis 1100cc
+E NRL:consciente y orientada en persona, espacio y tiempo, hemianopsia homónima izquierda por confrontación, no nistagmo, PICNR, lenguaje ( nomina 5/5, repetición conservada, comprende órdenes, repite sin parafasias), no disartria, pares craneales conservados, paresia crural 4+/5, hipoestesia crural izquierda, no clara dismetría dedo- nariz, RMTs presentes y simétricos, RCPB flexor, marcha conservada con un punto de apoyo (NIHSS
+0-0-0-0-2/0-(0-0)- (0-1)/0-1-0-0-0=4
+Aus card: tonos arrítmicos sin soplos, no edemas de EEII. Aus resp: eupneica, MVC con sibilantes espiratorios Abdomen: no doloroso, peristaltismo presente
+No signos de TVP
+
+EXPLORACIONES COMPLEMENTARIAS: En _SS_:
+-Analítica: EAB venoso: pH 7.44 ; CO2 65 mmHg; O2 46 mmHg; HCO3- 44.1 mmol/L; EB 16.5 mmol/L; Sat.O2 78%. Hemograma: Hb: 128 g/L, Hto: 38%, Plaquetas: 289 x10E9/L, Leucos: 12.9 x10E9/L; neutrófilos 9.95 x10E9/L
+(9.95%); linfocitos 2.60 x10E9/L (20.2%). Coagulación: TTPA 2.32, TP 1.22 , INR 1.22. Bioquímica: Glucosa 11.5
+mmol/L, Urea 8.0 mmol/L, Creatininina 66 umol/L, Na+: 142 mmol/L, Iopotassi 3.11 mmol/L.
+-Rx tórax: ICT >0.5,parece dudoso pinzamiento seno costodiafragmatico izdo , no condensaciones.
+-ECG: FA con respuesta ventricular controlada.
+-Tc Craneal, Angio TC craneal y de TSA: Cambios involutivos con atrofia. Infarto antiguo frontoopercular derecho. Hipodensidad corticosubcortical en giro precentral del lóbulo frontal derecho, en relación con cambios de isquemia de cronología subaguda. Permeabilidad de los troncos supraaórticos y de segmentos proximales de la circulación intracraneal.
+
+- TC abdominal: Voluminoso hematoma que ocupa el espesor del músculo recto abdominal anterior izquierdo, desde la altura de la cresta iliaca, con importante extensión extraperitoneal paravesical y para-obturatriz.
+Efecto masa sobre estructuras adyacente con desplazamiento importante de ellas. El componente muscular alcanza unos 4x 6.5 cm y el intra-abdominal unos 14x8cm.
+Aspecto heterogéneo con signo del hematocrito en relación a sangrado reciente, apreciando dos puntos de extravasación de contraste, uno en el músculo recto
+en su seg más caudal y otro en el componente intra-abdominal también muy caudal, posterior a la rama iliopubiana. Además, presencia de escaso líquido abdominal en ambas gotieras paracólicas
+En nuestro centro:
+-RM craneal (11/12/17):Signos de atrofia cerebral cortico-subcortical con afectación difusa de la sustancia blanca subcortical en relación a enfermedad microvascular de origen hipoxico-isquémico crónico .Infarto isquémico embólico en fase subaguda en territorio de ACP y ACM derechas .Infartos isquémicos crónicos en territorio de ACM derecha . NOTA :Se revisa el caso valorando una hiperintensidad cortical temporoparietal derecha en T2 y FLAIR y en menor grado en difusión de probable origen isquémico subagudo en territorio de ACM derecha.
+-TC craneal ( 12/12/17): Aumento del tamaño de los surcos cerebrales y cerebelosos.Dilatación ventricular supratentorial proporcionada al tamaño de los surcos.Amplia área de necrosis frontal supraorbitaria derecha com secuelas de antiguo infarto en territorio de ACM derecha.Atrofia focal y encefalomalacia parietal post-rolándica derecha por infarto antiguo en territorio de ACM.En contiguidad hay leve hipoatenuación en parénquima parietal, silviano y temporal derecho como signos de isquemia aguda subaguda.Línea media centrada.No hay signos de sangrado.No se identifica patología neoplásica intracraneal.Cisternas basales y perimesencefálicas libres.
+Densidad normal para la edad de estructuras óseas del cráneo.
+-EEG:Trazado normal.
+-RM craneal (21/12/17): Respecte el control previ del 11/12/17 s'observa una resolució radiològica dels infarts isquèmics en fase subaguda a la regió juxtaventricular dreta i occipital dretes. No obstant, s'observa l'aparició d'altres infarts d'aspecte subagut i de probable etiologia embòlica a la regió cortico-subcortical frontal dreta (territori ACM), a la regió posterior del nucli estriat dret (territori d'artèries lenticulo-estriades) i un altre molt dubtós a la regió
+cortico-subcortical del lòbul parietal esquerre (territori ACP).Signes suggestius de degeneració Walleriana estable al peduncle cerebral dret.
+Àrees encefalomalàciques residuals estables a la regió frontobasal dreta i a la regió parietal post-rolàndica dreta. Signes de leucoencefalopatia hipòxico-isquèmica crònica.
+Moderats signes involutius cerebrals globals.
+-Ecocardio Transesofágico: Válvula aórtica trivalva sigmoideas esclerosdas con apertura conservada. Se observa imagen filamentosa en la vertiente arterial de aprx 10mm de longitud, parece originarse a nivel de la sigmoidea coronaria derecha sugestiva de fibroelastoma. Insuficiencia aortica central ligera. Vàlvula mitral estructuralmente normal con buena apertura. Insuficiencia mitra ligera formada por varios jets .Aurícula izquierda severamente dilatada sin imagenes de trombo en su interior ni a nivel de la orejuela pero con ecocontraste espontáneo. Velocidades intraorejuela bajas < 20cm/s. Tabique interauricular integro sin imagen de foramen oval no permeable . Se administra suero salino agitado sin evidenciarse paso de burbujas a su traves de forma basal Ventriculo izquierdo de aspecto no dilatado. FEVI global-segmentaria normal. Cavidesde derechas normales. IT ligero-moderada. Aorta torácica no dilatada, sin imágenes de placas de ateroma. Cayado aórtico con pequeña placa de ateroma no complicada.
+-	Rx torax: ICT 0.5, no imagenes de condensacion ni derrames.
+-	AG planta: Leucos 22600 (51%N- predomnio L 9000 en total), Hb 13.3, Hto 41%, VCM N, FG 82, iono N, 1.02 y ALT 1.72, bilirubina, FA y GGT normales, calcio normal. proteinas 50, albumina 25,proteinograma :no banda monoclonal. VSG 30. PCR 0.69, digoxina 2.52. lactato Normal. CPK 4.73. B12 y ac fólico normales.
+*serologias VHB, VHC y EB negativas
+-	Estudio en SP: Limfòcits de tamany petit, RNC elevada, cromatina molt madura i citoplasma escàs. Presència
+-
+d'ombres. 2% mielòcits. Recomanem control evolutiu de la limfocitosi i sol.licitar IF en sp per descartar clonalitat si perdura després de l'episodi agut.
+- INF en SP: 17.33% CD19(+) / CD20(+)dim / smIg?(+)dim / CD5(+)dim / CD38(-) / CD23(+) / CD10(-) / CD79b(-) /
+CD200(+) / CD43(+) CONCLUSIÓN: Fenotipo compatible con leucemia linfática crónica.
+-	Sedimento orina : negativo
+-	Cultivo esputo x2: flora saprófita
+-	Coprocultivo: negativo. Toxina clostridium: negativo.
+-	Frotis gripe: negativo
+-	Hemocultivos: negativos
+
+- AS 31.12.2017: AS: Hb 9.7 g/dl, hto 29%. Leucos 30650. Plaquetas 184000. TP 1.10, TTPA 1.10, FG 74, Creat 0.7
+mg/dll, Urea 61
+mg/dl. pH 7.43, HCO3 28, CK normales.
+
+-	TC abdominal 31.12.2017: Voluminoso hematoma que ocupa el espesor del músculo recto abdominal anterior izquierdo, desde la altura de la cresta iliaca, con importante extensión extraperitoneal paravesical y para-obturatriz. Efecto masa sobre estructuras adyacente con desplazamiento importante de ellas.
+El componente muscular alcanza unos 4x 6.5 cm y el intra-abdominal unos 14x8cm.
+Aspecto heterogéneo con signo del hematocrito en relación a sangrado reciente, apreciando dos puntos de extravasación de contraste, uno en el músculo recto
+en su seg más caudal y otro en el componente intra-abdominal también muy caudal, posterior a la rama iliopubiana. Además, presencia de escaso líquido abdominal en ambas gotieras paracólicas
+
+
+EVOLUCIÓN NRL-MI
+Paciente de 83a sin alergias medicamentosasa, ni habitos toxicos(refiere diarreas con augmentine) con AP: HTA, Ictus isquémico de ACM derecha en 2015 probable cardioembólico tras estudio vascular negativo, sin secuelas. Asma bronquial en tto con Seretide sin ingresos; cardiopatia isquemica portadora de stent en CD en 2000, nuevo IAMSEST hace un mes en Nov-17 con KT sin lesiones significativas y EcocardioTT con FEP sin alt de la motilidad segmentarias ni valvuloptias; FA permanente en tto NACOS. Paciente que a los pocos dias del alta sufre TCE con TAC sin alteraciones, orientado secundario a hipotension ortostaica por lo que se retira BB y nitratos.
+Acude a UCIAS por ICC (NTproBNP elevado >3400) con cuadro de broncoespamso. Estando en UCIAS presenta Ictus de ACM derecha de origen cardioemebolico por lo que ingresa en NRL. Consultan a MI para reajustar tto cardiorespiratorio.
+Evolucion por problemas:
+1.	Ictus isquémico de ACM: ingresa en NRL por ictus isquémico territorio ACM derecha de probable etiología cardioembólica en paciente con FRV y con ACxFA paroxística, habiéndose realizado estudio vascular en _SS_ sin ateromatosis significativa. Dada la presencia de nuevas lesiones isquemicas cerebrales a pesar de seguir al paciente en tratamiento anticoagulante con enoxapairna sc incluso durante el ingreso hospitalario se decide solicitar ecocardiograma transesofágico con el fin de descartar trombo intracavitario, no se objetiva el mismo peró si probable fibroelastoma cardíaco por lo que se decide solicitar consulta con cardiologia.Por parte de Neurologia no requiere más controles o estudios.
+Desde el punto de vista neurológico la paciente presenta hemianopsia homónima izquierda como secuela.
+
+2.	Fibroelastoma sobre valvula Ao: Paciente con multiples ictus agudos y subagudos en las diferentes territorios y p de imagen, por lo que se solicita ecocardio TE que evidencia un fibroelastoma Ao, con ligera IAo, probablemente la causa de los AVC de repetición (en FA permanente pero con tto anticoagulante, con AVC en varios territorios). Se solicita valoración por cardiolgia que plantea posibilidad de IQ pero que requiere presentacion en sesion
+medico-quirurgicade _SS_ con Cir cardiaca. Reajusta tratamiento cardiológico y cita en CCEE de cardiolgia para control y planificar IQ de forma programada. Solicitas PFR prequirurgicas.
+
+3.	IC izda descompensada de forma leve en contexto de infeccion respiratoria con broncoespasmo:
+Paciente que al reinterrogatorio refiere tos con cuadro catarral 2 dias antes del ingreso en NRL con sibilantes audibles sin fiebre ni ortopnea, ni DPN, ni edemas de EEII. Desde UCIAS se inicia tto deplectivo ev , BD, corticoides ev y O2, ademas de tratamiento frenador con digoxina por tendencia a FA rápida. Inicialmente estando ingresada en NRL presenta buena evolución clinica con desaparición del fallo cardiaco y mejoría del broncoespasmo. Pero antes del alta de NRL, presenta empeoramiento con esputo francamente purulento, pico febril  y Rx torax de control sin condensaciones. Se orienta como sobreinfeccion respiratoria nosocomial, reintroduciendose corticoides ev y amoxiclavulanico ev. Curso tórpido con persistencia del broncoespasmo, pero saturaciones correctas. Se solicita en varias ocasiones cultivo de esputo que no evidencia germen. Frotis faringeo para gripe negativo.
+Ante la evolución torpida se decide cambio de ATB a levofloxacino con finalmente buen curso clínico. desaparición del broncoespasmo y satO2 basales del 99%.
+
+4.	Leucocitosis con Linfocitosis absoluta a estudio: En analiticas presenta leucocitosis con predomnio de linfocitos. Inicialmente atribuido al propio proceso infeccioso, pero tras resolución del cuadro respiratorio y PCR normales, con cultivos negativos, clostridium negativo y eliminacion de corticoterapia durante el ingreso, la paciente persiste con la leucocitosis alrededor de 20000 con predomnio de linfocitos (12000 absolutos). Solicitado estudio en SP: se objetiva prsencia de sombras de Gumprech y 2% de metamielocitos. Realizado IHF en SP compatible con LLC. Paciente sin adenopatias perifericas ni sintomas B. Se solicita valoracion por Hematolgía que orienta a una posible LLC, remitiendo a CCEE de Hematlgía para completar estudio ambulatoriamente.
+
+**** El dia 31.12.2017, avisan a las 5h porque la apciente presenta dolor abdominal en fosa iliaca izquierda, de 3 dias de evolución pero uqe se ha acusado en las últimas horas.
+
+A la EF: TA:Constantes:TA 110/56 mmHg FC 72x' Sat O2 basal 99% afebril
+Abdomen: blando y depresible pero se palpa zona indurada en fosa iliaca izqueirda muy dolorosa a la palpación, hematoma externo por punción de enoxaparina. Peristaltismo presente
+
+Solicito analítica urgente donde se objetiva un descenso de 10 puntos de hematocrito por lo que solicito TC urgente que muestra un hematoma de rectos con signos de sangrado activo y efecto masa sobre estruvturas adyacentes. Contacto con _SS_ (medicina iNterna y cap de guardia) para traslado. Contacto con SEM
+
+Ahora pacinete con tendencia a la hipotensión 90/50mmHg FC 80x' afrbeil Sat O2 basal 97-98% Solicito transfusión de un concentrado de hematies.
+
+ORIENTACION DIAGNOSTICA:
+-	Hematoma de Ms Recto anterior izquierdo
+-	Infarto isquémico embólicos en el contexto de probable fibroelastoma cardíaco.
+-
+
+-	Infartos isquémicos crónicos territorio ACM y ACA derechas de probable etiología cardioembólico
+-	ACxFA paroxística
+-	ICC en contexto de FA rápida e infeccion respiratoria
+-	Broncoespasmo con infeccion respiratoria nosocomial.
+-	Asma bronquial
+-	Linfocitosis a estudio: posible Leucemia Linfática crónica
+
+
+TRATAMIENTO
+Se adjunta
+
+
+Tipus d'ingrés: Motiu d'alta:	Urgent Trasll.Cent.Ag	
+Metge Adjunt:
+_ID_
+Servei:	_NAME_
+
+MEDUO_SS_ Medicina Interna	Nº Col·legiat Adjunt:
+
+Data informe:  31.12.2017
+
+
+Pàgina 1 de	6
+Data i hora d'impressió:
+31.12.2017 14:49:09

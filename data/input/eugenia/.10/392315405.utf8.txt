@@ -1,0 +1,90 @@
+I.CLINIC DE NEUROCIÈNCIES NEUROLOGIA
+_NAME_	NHC: _ID_
+
+
+Sexo/Sexe: Fem.	Fecha nac./Data naix.: _DATE_	Edad/Edat: 77 años Dirección/Adreça: _LOCATION_		CP: _LOCATION_
+Municip. (Prov.): _LOCATION_  ABS:_SS_	Tel.:_CONTACT_
+As.: SERVEI CATALA DE LA SALUT	CIP: _ID_	NASS: _ID_
+Nº epis.: _ID_	Tipo/Tipus: HOSPIT.	Inici.: 21.07.2017
+Serv: NEUROLOGIA	UO Enf.: I064 SALA G DE NEUROL. INTE   Hora: 22:54:30
+
+
+
+
+
+Tipo ingreso/Tipus ingrés: Urgent	Motivo/Motiu alta: Hospital Ag.
+Diag.:
+ACCIDENTE ISQUÉMICO TRANSITORIO. ()
+Proc.:
+TC CRANEAL () DOPPLER TSA Y TC ()
+
+
+
+
+INFORME CLÍNICO ALTA / INFORME CLÍNIC ALTA
+
+Motivo de consulta / Motiu de consulta
+Alteración del habla y paresia facial súbita (2 episodios).
+
+Antecedentes e historia previa / Antecedents i història prèvia Mujer de 77 años, con alergia a la penicilina y las sulfamidas. No hábitos tóxicos. Independiente (mRs 1).
+
+ANTECEDENTES PERSONALES:
+1.	NEOPLASIA DE MAMA izquierda (1985) y derecha (2000).
+2.	NEOPLASIA DE PULMÓN en 1998 (tratamiento con quimioterapia y radioterapia).
+3.	POLINEUROPATÍA secundaria a radioterapia.
+4.	SÍNDROME DEPRESIVO.
+5.	INTERVENIDA DE APENDICECTOMÍA, MASTECTOMÍA Y FRACTURA DE HÚMERO IZQUIERDO (motivo del ingreso actual).
+
+MEDICACIÓN HABITUAL: anafranil 25mg/24h, orfidal 1mg/24h, bisoprolol 2,5mg/24h, enantyum 25mg/8h y omeprazol 20mg/24. Durante su ingreso además diclofenaco 50mg/8h, bemiparina 3.500UI.
+
+Proceso actual / Procés actual
+Mujer ingresada en _SS_ por intervención el día 19/7 por fractura de húmero izquierdo (prótesis total), que presenta episodio de alteración del habla y paresia facial central derecha leve a las 18.20h, autolimitándose en una hora, para repetir posteriormente a las las 21h, motivo por el cual derivan para valoración.
+
+Exploración física / Exploració física
+
+
+
+21/07/2017-23:00:00: Frecuencia respiratoria (rpm) 18, Glicemia capilar (mg/dl) 101, PAS (mm Hg) 122, PAD (mm Hg) 50, Pulsioximetría (%) 98, Tª axilar (ºC) 35.7.
+NRL: Consciente y orientada en las 3 esferas Lenguaje normofluente sin afasia (nomina, repite y obedece en las 3 esferas). Mirada centrada en posición primaria sin limitaciones en la excursión visual. No paresia facial ni de extremidades. No alteraciones sensitivas. No dismetrías. No extinción ni negligencias. NIHSS 0.
+
+Laboratorio / Laboratori
+Se adjunta analítica
+
+Radiología / Radiologia
+TC CRANEAL: No se aprecian imágenes de sangrado intracraneal. Sin alteraciones significativas en el parénquima encefálico. Cisternas basales libres. Estructuras de la línea media centradas. Sistema ventricular de tamaño y morfología conservada.
+
+Evolución / Evolució
+1. ACCIDENTE ISQUÉMICO TRASITORIO (AIT) (X2).
+A su llegada HDE, afebril. A la exploración neruológica asintomática. Se realiza analítica sanguínea coin filtrado glomerular  de 52mg/dL sin alteraciones en ionograma con HTO delm 30%, sin alteraciones en hemograma. La TC craneal sin lesiones isquémicas ni hemorrágicas agudas. Se realiza estudio vascular mediante dupplex de troncos supraaórticos que muestra leve ateromatosis carotídea izquierda, sin estenosis. Estudio subóptimo transcraneal por mala ventana transtemporal. Se insona ACMD distal y ACPD con flujo normal. En el lado izquierdo únicamente consigue insonarse ACMI proximal (normal). Árbol vertebro-basilar normal. Basilar insonada hasta 83 mm de profundidad con velocidades y patrón de flujo normal.
+Se trata de una paciente con dos episodios de disartria y paresia facial derecha, autolimitadas que se orientan como AITs. Se ha iniciado tratamiento con antiagregación e hipolipemianetes con atorvastatina.
+Durante la estancia en la Unidad de Ictus ha permanecido estable, sin presentar nuevos sintomas, manteniéndose asintomática a nivel neurológico con NIHSS 0. Ante la estabilidad clínica se traslada a su centro de referencia (_SS_) para proseguir el ingreso.
+
+Plan terapéutico / Pla terapèutic
+AAS 100 mg/24h, enoxaparina profiláctica a 40 mg/24h sc, atorvastatina  40 mg/d, control tensional y glucémico y resto de tratamiento habitual.
+
+Otras recomendaciones / Altres recomanacions
+.
+
+
+
+Firma/Signatura1: _NAME_		Firma/Signatura2: _NAME_ Categoría: Esp.Assist.Urg.	Categoría: Especialista
+Nº Matrícula _SS_: _ID_	Nº Matrícula _SS_: _ID_
+
+Fecha/Data Informe: 22.07.2017
+Hora Informe: 14:08:40
+
+
+
+
+
+
+
+
+Docum.: _ID_
+Hist. Clínica: _ID_	Vers. 00	Pag. 2 de	2
+Episod.: _ID_
+El _SS_ ha incorporado sus datos al Fichero de	_SS_	_SS_ ha incorporat les seves dades al
+Pacientes, para tratarlos con fines sanitarios.	_LOCATION_)	Fitxer de Pacients, per a tractar-los amb finalitats
+Puede ejercer sus derechos de acceso, rectificación,	_LOCATION_)	sanitàries. Pot exercir els seus drets d'accés,
+cancelación y oposición, así como obtener mas información	Tel. _CONTACT_ Fax _CONTACT_	rectificació, cancel·lació i oposició, i obtenir més
+en la Unidad de Atención al Cliente.	<_CONTACT_/>	informació a la Unitat d'Atenció al Client.

@@ -1,0 +1,136 @@
+_LOCATION_) Telèfon _SS_  972 _CONTACT_
+Telèfon IDI (Ressonància i TAC) _CONTACT_
+Telèfon ICO _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 89 Anys
+NIF/DNI: _ID__NAME_; _NAME_
+Informe d'alta d'hospitalització
+CP	_LOCATION_
+ABS	_SS_
+Servei	NEUROLOGIA
+Data d'alta  31.01.2017	14:00:00
+_LOCATION_
+_CONTACT_; _CONTACT_; _CONTACT_
+AGUTS 27.01.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Afasia
+
+ANTECEDENTS
+ANTECEDENTS PERSONALS
+Consta reacció amb trombopènia severa en relació a Septrin. No altres al·lergies medicamentoses conegudes No hàbits tòxics actuals
+Parcialment depenent per ABVD, Rankin 2, barthel 85. Viu amb el seu fill a Palafrugell.
+
+ANTECEDENTS PATOLÒGICS
+-	Hipertensió arterial en tractament farmacològic
+-	Cardiopatia isquèmica: IAM el 1990 aproximadament.
+Ultim ecocardiograma TT abril 2014: Insuficiència mitral i aòrtica lleugera. Funció ventricular normal. Auricular equerre 57mm.
+-	FA no valvular en tractament anticoagulant amb Sintrom. La familia aporta últims controls:
+- Juny 2016 2.7
+- Juliol 2016; 1.1
+- Juliol 2016: 1.4
+- Agost 2016: 2.9
+-	Setembre 2016: 4
+-	Setembre 2016: 2.8
+- Octubre 2016: 3.2
+-	Novembre 2016: 2.8
+-	Desembre 2016: 3.3
+- Gener 2017: 2.3
+-	Hemorràgia subdural espontània el 2009, va requerir cirurgia, amb psoterior remissió de l'hematoma.
+-	Fractura  branques pèlviques 2015, va requerir  col·locació  de pròtesi- Va presentar sindrome  confussional, bronquitis, insuficiència cardiaca i RAO en context d'ingrès.
+-	Neoplàsia de pròstata, no disposem de tractament ni actual estat.
+-	Esteatosi hepàtica detectada el 2006
+-	Consta antecedent de tremolor essencial
+
+
+MEDICACIÓ HABITUAL
+Omeprazol 20mg/24h, Sintrom segons pauta
+Telmisartan 40mg/24h,  Furosemida  40mg/24h,  Bisoprolol  2.5mg/12h,  Carduran  neo  (Doxazosina)  4mg/24h, Tamsulosina 0.4mg/24h
+Tardyferon 80mg/24h, Hidroferol, Optovite B12 setmanalment, Acfol 5mg/24h, BoiK Vernies si precisa, Paracetamol 1g/8h si precisa, Trazodona 100mg/24h,
+
+Informe d'alta d'hospitalització
+
+
+
+PROCÉS ACTUAL
+Pacient amb els antecedentts descrits que el 28/01/2017 acudeix avui a _SS_ per dispea en repòs. Estant a urgències amb sospita de insuficiència cardíaca, mentre es valorat, a les 12:55h inicia quadre de dificultat pel llenguatge, pel que activen codi ictus. No es realitza Telemedicina per impossibilitat en aquell moment de realitzar TC de crani a _SS_
+S'activa codi ictus a les 13.04, arriba al nostre centre a les 14.33h i és valroat al moment per neurologia de guàrdia
+
+EXPLORACIÓ FÍSICA
+
+Auscultació respiratòria: eupneic, sibil·làncies disperses, aparent hipofonesi bibasal.
+Exploració neurologica: pacient vigil, afàsia de característiques mixtes amb tendència a verborrea i parafràsies, desorientat, no compren ordres, no nomina ni repeteix. No alteració oculomotora ni campimètrica, no paràlisi facial, no dèficits motors ni aparentment sensitius.
+NIHSS = 02200/00000/00020 = 6
+
+EXPLORACIÓ COMPLEMENTÀRIA
+Analitica saguinia 28/01/2017:
+-	Hemoglobina * 12.3 g/dL; Hematòcrit * 37 %; Plaquetes * 140 K/mcL; Leucòcits 8.88K/mcL;
+-	Tasa protrombina * 62 %; Tasa protrombina (INR) * 1.39; Temps de cefalina (TTPA) 28.8 segons; Temps de cefalina (ratio) 1; Fibrinogen (deduit) 328 mg/dL;
+-	Glucosa * 181 mg/dL; Urea 33 mg/dL; Creatinina 0.81 mg/dL; Urat * 7.7 mg/dL; Proteïna * 6.2 g/dL; Albúmina (sèrum) 3.7 g/dL; Calci (II) 8.7 mg/dL; Ió sodi 139 mEqu/L; Ió potasi 3.8 mEqu/L; - Colesterol 187 mg/dL; Colesterol HDL 63 mg/dL; Colesterol LDL (calcul) 108 mg/dL; Triglicèrid 79 mg/dL; FG (CKD-EPI) 78.8 mL/min
+-	Bilirubina total 0.90 mg/dL; GPT 8 U/L; GGT 15 U/L; Fosfatasa alcalina 49 U/L; Lactat deshidrogenasa 171 U/L; CK16 U/L; Amilasa 46 U/L; ; Troponina T hs (alta sensibili * 25.1 ng/L;
+
+ECG. Fibril·lació auricular amb bloqueig de branca dreta
+Rx tòrax: cardiomegalia severa, augment del patró alveolar bilateral, no pinçament sins costofrènics tot i mala visualització si costofrènic esquerre per Rx poc penetrada
+
+TC cranial amb angioTC: Estudio con artefactos de movimiento. No se identifican lesiones hemorrágicas intracraneales. Parénquima encefálico de dificil valoración por presencia de artefactos. Infarto lacunar crónico lenticular izquierdo. Estructuras de línea media centradas. Sistema ventricular de tamaño proporcional al grado de atrofia. Cisternas de la fosa posterior libres.
+AngioTC: Correcta permeabilidad de arterias carótidas, vertebrales, cerebrales y basilar. Moderada derrame pleural de predominio izquierdo.
+CONCLUSIÓN: Estudio sin evidencia de lesiones hemorrágicas intracraneales ni oclusión de arterias cerebrales.
+
+
+EVOLUCIÓ CLÍNICA
+Amb sospita diagnòstica d'ictus isquèmic minor en territori d'ACM esquerre de probable etiologia cardioembòlica (FA amb nivells infraterapèutics de Sintrom: INR 1.39), pero sense evidència de trombus intracranial, no clínica de TACI complet i antecedent de hematoma subdural espontani, es decideix no administrar tractament fibrinolític.
+
+Informe d'alta d'hospitalització
+
+
+
+
+El pacient ingressa a la Unitat d'Ictus sota tractament anticoagulant amb HBPM, revisant recents controls de TAO i degut a INR infra o supraterapèutic en > 50% dels controls en els últims 6 mesos, es tributari a canvi a tractament amb nou anticoagulant: es decideix Apixaban degut a antecedent d'hemorragia subdural
+
+El pacient presenta milloria a nivell respiratòri amb tractament deplectiu, i presenta milloria a nivell neurològic amb remissió de l'afasia.
+Tendència a la hipertensió pel que es reinicia tractament antihipertensiu habitual. Glicèmies correctes durant l'ingrès.
+Amb estabilitat clínica i hemodinàmica, és alta a domicili.
+
+Escales a l'alta:
+-	NIHSS = 0
+-	Barthel 65%
+-	Rankin 3
+
+
+DIAGNÒSTICS
+436/5  Ictus  isquèmic  ACMe  de  probable  etiologia  cardioembòlica  per  FA  amb  nivells  infraterapèutics  de descoagulació
+
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+STOP Sintrom Tractament a l'alta:
+-	Eliquis (Apixaban) 5mg/12h amb l'esmorzar i el sopar	1-01
+-	Furosemida 40mg amb l'esmorzar i el dinar	1-1-0 durant 10 dies (fins el 09/02/2017)
+-	Atrovent inhalat	1-1-1 durant 10 dies ( fins 9.2.2017) Desprès Furosemida 40mg/24h amb l'esmorzar
+
+Resta de tractament sense canvis: Omeprazol 20mg/24h, Telmisartan 40mg/24h, Bisoprolol 2.5mg/12h, Carduran neo (Doxazosina) 4mg/24h, Tamsulosina 0.4mg/24h, Tardyferon 80mg/24h, Hidroferol, Optovite B12 setmanalment, Acfol 5mg/24h, BoiK, Vernies si precisa, Paracetamol 1g/8h si precisa, Trazodona 100mg/24h,
+
+CONTROL
+Control per Neuròleg _SS_ (cita a cursar per metge d'atenció primària) Control de factors de risc cardiovascular i dispnea per equip d'atenció primària.
+
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+
+
+
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+31.01.2017
+Pàgina 1 de 3

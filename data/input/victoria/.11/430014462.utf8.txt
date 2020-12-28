@@ -1,0 +1,127 @@
+_LOCATION_
+email: _CONTACT_ Telèfon _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 92 Anys
+NIF/DNI: _ID_Equipo Dra. _NAME_ / Dr. _NAME_ (Dra. _NAME_ / Dr. _NAME_)
+Informe de Trasllat a Sociosanitari
+11:32:23
+13.10.2017
+_LOCATION_
+_SS_ NEUROLOGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_; _CONTACT_
+DOMICIL/RES.SOC 03.10.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Paciente de 92 años de edad que ingresa por infarto cerebral.
+
+ANTECEDENTS
+Sin alergias medicamentosas conocidas. Sin hábitos tóxicos.
+
+-Hipertensión arterial esencial en tratamiento farmacológico.
+-Fibrilación auricular en tratamiento frenador con betabloqueantes y anticoagulada con acenocumarol.
+-Enfermedad renal crónica con creatininas habituales en torno a 1.2-1.4mg/dl. Último control  (abril 2016): 1,22 mg/dL.
+-Osteopenia. DMO (2013): T-score columna: -2.27, cadera -1.56
+-Gonartrosis.
+-Queratosis actínica.
+
+Intervenciones quirúrgicas: faquectomía bilateral.
+
+Situación sociofuncional: Independiente para todas las actividades de la vida diaria. mRS 0.
+
+MEDICACIÓ HABITUAL
+Bisoprolol 2.5mg/24h, Lorazepam 1mg/24h, Losartan/Hidroclorotiazida 100/25mg/24h, Sintrom según pauta
+
+PROCÉS ACTUAL
+Mujer de 92 años con antecedentes de HTA y FA en tratamiento frenador con betabloqueantes y anticoagulada con Sintrom que, habiendo sido vista asintomática a la 18:00h, avisa al SEM (teleasistencia) por imposibilidad para movilidad de extremidades derechas y para la emisión del lenguaje por lo que se deriva a nuestro centro como Código Ictus.
+
+EXPLORACIÓ FÍSICA
+
+TA 156/104mmHg, FC 119lpm, Tª 36.5, SatO2 94% a aire ambiente
+Paciente con estado general conservado, normocoloreada, normohidratada y normoperfundida.
+Auscultación  cardiaca  con  tonos  arrítmicos  y  sin  soplos,  no  presenta  edemas  en  miembros  inferiores  ni ingurgitación yugular.
+Auscultación pulmonar con murmullo vesicular conservado sin ruidos sobreañadidos. Abdomen blando, no doloroso. Peristaltismo conservado. No palpo masas ni visceromegalias.
+Neurológicamente  vigil, atenta, afasia grave motora (3), LOC C 2/2, LOC Q 0/2(2), POC izquierda (1), PFSN derecha (2), no defectos campimétricos, plejia braquiocrural (4+4), sensibilidad no valorable (1). NIHSS 17
+
+Informe de Trasllat a Sociosanitari
+
+
+
+EXPLORACIÓ COMPLEMENTÀRIA
+-Electrocardiograma:  Arrítmico  con  FC  media  108lpm,  QRS  80ms,  eje  -30º,  mala  progresión  de  R  en precordiales, sin alteraciones agudas de la repolarización.
+
+-Analítica general: Hties 4.18 x10E12/L; Hb 12.2 g/dL; Hto 38.0 %; VCM 90.9 fL; Leucocitos 6.17 x10E9/L; Neutrófilos 4.3 x10E9/L; Linfocitos 1.4 x10E9/L; Plaquetas 146 x10E9/L. TP >120 %; INR 0.90; TTPA 31.2 seg; Fibrinógeno derivado 4.17 g/L. Glucosa 129 mg/dL; urea 90 mg/dL; creatinina 1.54 mg/dL; FG 29 ml/min; sodio
+139.4 mmol/L; potasio 4.48 mmol/L; calcio 9.4mg/dL; AST 34 UI/L; ALT 45 UI/L; Proteínas 7.4 g/dL.
+
+-TC multimodal: Sin lesiones parenquimatosas agudas. Oclusión en segmento M1 de ACM izquierda.
+
+-TC craneal de control 24h post-TEV: TC craneal control 04/10: Estudio urgente de cráneo que muestra hiperdensidad surcal global, de predominio izquierdo, compatible con retención de contraste extravasado y contaminación hemorrágica del espacio subaracnoideo. Aparición de dilatación de sistema ventrícular supratentorial con contenido hemático en las astas occipitales, III y IV ventrículo. Aparición de lesión isquémica establecida en el territorio profundo de ACM izquierda. Signos radiológicos de edema cerebral.
+
+-Radiografía  de tórax:  marco óseo conservado, ICT >0.5,  seno costofrénico  derecho libre,  izquierdo  no se visualiza correctamente; cisuritis (cisura menor) con dudoso aumento de densidad pericisural.
+
+-Hemocultivos 04/09: negativos
+
+- Analítica general (10/10): Hb 12.5, Hto 36.8, VCM 84.8, leucocitos 11610 (N 77.2, L 12.8, M 9.6), plaquetas
+254000, coagulación sin alteraciones a destacar, glucosa 152, Hb1Ac 6.1%, urea 95, creatinina 1.25, FG 37, urato
+4.4, bilirrubina total 1, bilirrubina directa 0.33, Na 134.2, K 3.53, Cl 97, fosfato 3.3, Mg 2.5, Ca 8.5, AST 86, ALT
+143, FA 93, GGT 112, colesterol total 195, HDK 46, LDL 122, TG 135, proteina 6.6, albúmina 3.2, TSH 0.873
+
+EVOLUCIÓ CLÍNICA
+Se trata por tanto de paciente de 92 años de edad, con antecedentes de fibrilación auricular anticoagulada con Acenocumarol (con mala adherencia al tratamiento, último INR 27/09 de 1, por lo que se había ajustado pauta con Clexane hasta el 29/09), derivada como Código Ictus. A su llegada presenta NIHSS de 15 con clínica compatible con síndrome completo de ACM izquierda de probable etiología cardioembólica. Se realiza TC craneal multimodal, objetivándose un ASPECTS de 10/10 con oclusión de M1 de la ACM izquierda en el angioTC y missmatch en dicho territorio. Se desestima tratamiento fibrinolítico por anticoagulación, y ante ausencia de contraindicaciones absolutas se realiza tratamiento intraarterial primario. En la primera serie realiza a las 22:07 se confirma oclusión. Se realiza un primer pase a las 22:14 objetivándose en serie de control perforación arterial, por lo que se procede a  implantación de coils, consiguiéndose control de sangrado. Se realiza Xpert-CT que muestra HSA con contraste que invade IV ventrículo. Hipertensa durante el procedimiento se consigue control de TA tras administración de 2 ampollas de Urapidilo. Neurológicamente presenta disminución nivel de conciencia (3), mutismo (7), hemiplegia D (8), localiza dolor con hemicuerpo I, resto no valorable, NIHSS 18. Se realiza analítica en la que destaca discreto deterioro de la función renal respecto a previa e INR de 0.9, sin otros hallazgos a destacar. También se realiza electrocardiograma que muestra fibrilación auricular ya conocida. Ingresa en Unidad de Ictus para control evolutivo.
+
+Informe de Trasllat a Sociosanitari
+
+
+
+
+
+A su llegada a la Unidad de Ictus hemodinámicamente estable y afebril, con abundantes secreciones respiratorias y un NIHSS de 23. La radiografía de tórax, en la que se aprecia una dudosa condensación basal derecha. Ha recibido 5 días de tratamiento con Amoxicilina-Clavulánico y Budesonida inhalada, desarrollando muguet que se trató a su vez con nistatina oral. Durante su ingreso presenta fiebre, por lo que se cursan hemocultivos, que resultan negativos. Se realiza TC craneal de control a las 24 post-TEV, en el que destaca la presencia de infarto establecido en territorio profundo de la ACM izquierda con extravasación de contraste y HSA, además de dilatación ventricular secundaria compatible con hidrocefalia secundaria. La paciente se traslada a planta de Neurología para control evolutivo.
+
+A su llegada a planta de Neurología, paciente hemodinámicamente estable y afebril, sin cambios a la exploración clínica. Tolerancia oral correcta, realiza rehabilitación en gimnasio con buena tolerancia. Dada la correcta evolución, se decide traslado a _SS_ para convalecencia y continuar rehabilitación. En el momento del alta, NIHSS de 19 y mRS de 5. En el momento del alta, la paciente se encuentra hemodinámicamente estable y afebril.
+
+DIAGNÒSTICS
+1.	Infarto en territorio de ACM izquierda de probable etiología cardioembólica en contexto de 2. Transformación hemorrágica y HSA secundaria.
+2.	Fibrilación auricular permanente
+3.	Infección respiratoria broncoaspirtativa
+4.	Muguet oral
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Dieta con espesantes.
+
+Resto de tratamiento se adjunta.
+
+CONTROL
+Control por su médico de Atención Primaria y especialistas habituales.
+
+DESTINACIÓ A L'ALTA:	SOCI SANITARI
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+13.10.2017
+Pàgina 1 de 3

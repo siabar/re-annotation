@@ -1,0 +1,106 @@
+_LOCATION_ Tel. _CONTACT_
+e-mail: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 67 Anys
+NIF/DNI: _ID__NAME_; _NAME_;
+ _NAME_,; _NAME_
+Informe d'alta d'hospitalització
+CP	_LOCATION_
+ABS	_SS_
+Servei	NEUROLOGIA
+Data d'alta  26.11.2017	13:47:36
+_LOCATION_
+_CONTACT_
+DOMICIL/RES.SOC 23.11.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Disartria
+
+ANTECEDENTS
+mRs 0
+
+Sin AMC
+Sin antecedentes patológicos médico de interés
+
+
+MEDICACIÓ HABITUAL
+No refiere medicación habituasl
+
+PROCÉS ACTUAL
+Estando previamente asintomática, el día 23/11/2017 sobre las 16:30 presenta sensación de opresión holocraneal seguida de disartria con acorchamiento de ambos pies, recuperado en pocos minutos (aprox 10min). La familiar refiere que ha presentado desviación de la comisura labial izquierda, también recuperada. A la llegada del SEM: glucemia capilar 40mg/dl. Llega a nuestro centro sin activación del código ictus. Se avisa a Neurología a las 18:25. Lleva una semana con náuseas y algun episodio de vómito sin productos patológicos, escasa ingesta, ha perdido dos kilos, previamente no síndrome tóxico. No fiebre.
+
+EXPLORACIÓ FÍSICA
+
+FC	76 bpm
+Tªaxi 36.0 ºC
+FR	rpm Tªrec  ºC
+TA s	138 mmHg SAT O2 95 %
+TA d   94 mmHg Pes Kg
+
+A su llegada:
+
+BMT 75
+Exploración neurológica: consciente y orientada. Obedece órdenes. No trastorno oculomotor ni campimétrico. No paresia facial ni lingual. No déficit motor ni sensitivo. No dismetrías. No afasia ni disartria. No extinciones. RCP flexor bilateral. Marcha sin alteraciones.
+
+Exploración neurológica con clínica: se añade leve apresia facial izquierda y disartria. NIHSS: (0.0.0).0.0//1.(0.0).(0.0)//0.0 .0.1.0 = 2
+
+Exploración sistémica:
+REG, c y O, NH, NC. Glasgow 15
+ACP : MVC, toinos ritmicos , no soplos
+Abdomen : Blando y depresible, no pàlpo masas ni megalias , no  doloroso a la palpación , no  signos de peritonismo, peristaltismo presente , no soplos
+
+Informe d'alta d'hospitalització
+
+
+
+
+
+EXPLORACIÓ COMPLEMENTÀRIA
+Analítica: glucosa 115 mg/dl; urea 29 mg/dl; creatinina 0,71 mg/dl; sodio 134 mmol/L; potasio 4,2 mmol/L; PCR 1,1 mg/L; CK  52 U/L, Hb  glicada 5.2%, proteína 60g/L, FG >90mL/min, perfil hepático correcto, PCR 1.8mg/L, sodio/potasio/calcio correctos, HDL 46, LDL 92, proteinograma pendiente, TSH normal.
+ECG: ritmo sinusal, QRS estrecho, sin alteraciones en la repolarización TC cerebral + angioTC:
+No evidencia de lesiones isquémicas y/o hemorrágicas TC valorables. ASPECTS 10. PCASPECTS 10.
+Cisternas basales y perimesencefálicas libres. Línea media centrada. Sistema ventricular simétrico de tamaño y morfología conservados. Sin alteraciones óseas TC valorables. No se aprecian otras alteraciones intra ni extraaxiales TC valorables. En la exploración de angio TC de TSA, carótidas y arterias cerebrales se aprecia correcta permeabilidad de cayado aórtico, TSA, carótidas primitivas y carótidas internas y externas, con elongación y tortuosidad de ambas arterias carótidas internas. cervicales proximales izquierdas. Placas de ateromatosis calcificada en arteria vertebral proximal izquierda, sin evidencia de estenosis significativa. Circulación posterior con arterias vertebrales, arteria basilar y sus ramas permeables. Polígono de Willis y sus ramas permeables sin estenosis significativas ni defectos de repleción TC valorables. No se observan aneurismas ni otras malformaciones vasculares TC valorables. Las secciones pulmonares incluidas en el estudio no presentan alteraciones TC significativas.
+
+Rx tórax urgente: no consolidaciones ni otros hallazgos.
+
+Laboratorio central:  Glucemia ayunas 85mg/dl, HbA1c 5.2%, FG >90, Colesterol total 157mg/dL, HDL 46mg/dl, LDL 92mg/dL, TG 94mg/dL, TSH normal.
+
+EVOLUCIÓ CLÍNICA
+Mujer de 67 años que acude por clínica de disartria, desv. comisura bucal y parestesias en ambos pies que dura unos 10 min con recuperación completa acompañado de opresión holocraneal., GD: 40mg/dl. A su llegada, normotensa y afebril. A la exploración neurológica no se objetiva focalidad. Marcha sin alteraciones. Se realiza analítica, que no muestra alteraciones. ECG en ritmo sinusal.
+Estando en urgencias presenta un nuevo empeoramiento clínico a expensas únicamente de disartria (NIHSS de 2, sin cumplir criterios de IMAGECAT), por lo que se realiza TC craneal con angioTC para descartar patología arterial, que no muestra lesiones.
+Se orienta como hipoglucemia sintomática vs. AIT lacunar (a descartar capsular warning) por lo que se mantiene ingresa en Unidad de Ictus y se inicia antiagregación y estatinas.
+
+Durante su ingreso en la Unidad de ictus, se mantiene completamente asintomática y en ritmo sinusal durante la monitorización contínua de >72h, control tensional y glucémico adecuado. Tolera via oral sin disfagia, sedestación y bipedestación.
+
+Dada la estabilidad clínica y evolución de la paciente, se considera hipoglucemia sintomática como etiologia más probable de la focalidad neurológica recuperada. No obstante, recomendamos de forma ambulatoria ampliar RM cerebral y mantenemos antiagregación hasta completar estudio. Valorar por parte de su médico de familia, estudio de cuadro de vómitos y pérdida de peso si persisten.
+
+Informe d'alta d'hospitalització
+
+
+
+
+
+NIHSS al alta 0 mRS al alta 0
+
+DIAGNÒSTICS
+Hipoglucemia sintomática
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Adiro 100mg 1 comprimido cada 24h
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+26.11.2017
+Pàgina 1 de 3

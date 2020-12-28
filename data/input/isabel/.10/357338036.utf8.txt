@@ -1,0 +1,125 @@
+_LOCATION_
+Telf:
+_CONTACT_
+_CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 74 Anys
+NIF/DNI: _ID__NAME_; _NAME_
+Informe d'alta d'hospitalització
+CP	_LOCATION_
+ABS	_SS_
+Servei	NEUROLOGIA
+Data d'alta  06.04.2017	11:13:24
+_LOCATION_
+_CONTACT_
+DOMICIL/RES.SOC 27.03.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Paciente de 74 años que ingresa en Neurología procedente de UCIm por ictus isquémico en ACM izquierda
+
+ANTECEDENTS
+-	No alergias medicamentosas conocidas.
+-	Fumador de 1paq/dia.
+-	HTA en tratamiento médico.
+-	Dislipemia.
+-	Diabetes tipo 2 con polineuropatia diabética secundaria.
+-	AIT carotídeo izquierdo en Feb'14 con ateromatosis carotidea bilateral.
+-	Tumoración vesical de bajo riesgo. Se realizó BMN + Mitomicina C postoperatoria en Oct'15. En seguimiento por Urologia.
+-	Lupus cutaneo sin evidencia de patologia sistémica.
+-	Litiasis renal.
+IQ: herniorrafia inguinal izquierda, fractura de olécranon izquierda que requirió cerclaje en Enero 2014, fistula anal, RTU por tumoración vesical en Octubre 2015, protesis por fractura subtrocanterea de femur derecho Octubre 2016.
+
+
+
+MEDICACIÓ HABITUAL
+Clopidogrel 75mg/24h, Enalapril/hidroclorotiazida 20/12,5mg/24h, lormetazepam 30mg/24h, Omeprazol 20mg/24h, Metformina 850mg/8h, Pravastatina 20mg/24h
+
+PROCÉS ACTUAL
+Paciente que estando en domicilio el dia 27/3/17 inicia dificultad para el habla motivo por el que acude a URG de nuestro centro.
+
+EXPLORACIÓ FÍSICA
+
+Buen estado general, normocoloreado y normohidratado, afebril.
+-	NEURO: consciente, afasia de comprensión y motora con emisión de alguna palabra ininteligible, PICNR, campimetria conservada por reflejo de amenaza, mobilidad conservada en las 4 extremidades, RCP flexor bilateral.
+-	AC: ritmico sin soplos ni roces
+-	AR: mvc sin ruidos sobreañadidos, eupneico con gafas nasales.
+-	ABD: blando y depresible sin masas ni megalias, no doloroso a palpación, peristaltismo presente.
+-	EEII: sin edemas ni signos de TVP, pulsos pedios presentes bilaterales
+-	
+Informe d'alta d'hospitalització
+
+
+
+EXPLORACIÓ COMPLEMENTÀRIA
+URGENCIAS: 	
+Analítica sanguínea:
+-	Bioquímica: Glucosa 148 mg/dL; creatinina 0.79 mg/dL; urea 42 mg/dL; Na 137 mE/L; K 4.5 mEq/L;
+-	Hemograma:Leucocitos 5690/mL; Hemoglobina 13 g/dL; Hematocrito 38.2%; Plaquetes 273000/mcL;
+-	Hemostasia: Fibrinogeno 503 mg/dl; INR 1.08; TTPAr 0.76;
+
+-	ECG: RS a 70lpm, PR 144mseg, QRS estrecho, sin alteraciones agudas en la repolarización.
+-	AngioTAC craneal y TSA: estenosis 30% ACI izquierda. Sin oclsuiones inttracraneales.
+
+UCI:  
+-TC craneal control: No se identifican lesiones isquémicas ni hemorrágicas agudas. Dilatación global y simétrica del sistema ventricular, valles silvianos y surcos corticales de la convexidad cerebral, compatible con un patrón de atrofia cortico-subcortical. Hipodensidades periventriulares y centro semioval en relación a gliosis/desmielinización por hipoperfussión crónica. Ausencia de los desplazamientos de estructuras de la linea media y de lesiones hemorrágicas intra o extraparenquimatosas supra e infratentoriales. Cisternas de la base y peritronculares libres. Fosa posterior, tronco encefálico y parénquima cerebral sin alteraciones morfológicas ni densitométricas valorables.
+
+PLANTA DE NEUROLOGÍA
+
+Analítica de ingreso:
+-Hemograma: 11.7 VCM 88.6  Leucocitos 4.06 (N62.1 L28.3 M8.6 E1 B0) Plaquetas 215
+-BQ: glucosa 177  HbA1c 8.1%  Urea 50  Creatinina 0.93  Na 140  K 4  TG 332  Col total 176  HDL 34  LDL 75.6
+AST 14  ALT 17  GGT 59  FA 98  TSH 1.97 T4 1.16
+
+Ecocardiograma transtorácico: HVI con función sistólica conservada. Insuficiencia mitral ligera. Insuficiencia tricuspidea ligera. Auricula izquierda dilatada.
+
+RMN  cerebral:  Leucoaraiosi  supratentorial  moderada.  Infarts  lacunars  crònics  parietals  esquerres.  Signes involutius-atròfia cerebral i cerebel·loso còrtico-subcortical.
+
+Holter cardiac 24H (pendiente de resultados)
+
+EVOLUCIÓ CLÍNICA
+A su llegada se mantiene vigil con afasia mixta, sin focalidad motora, NIHSS 7, estable hemodinámicamente con TA entorno 150-75mmHg por lo que se realiza angioTC craneal que no muestra imágenes de lesión aguda ni oclusión arterial proximal, TSA sin estenosis. Se valora por Neurologia y se considera tributario de tratamiento fibrinolitico con rtPA por clinica compatible con octus isquémico agudo con afasia, NIHSS 7 PACI.
+Se traslada a UCI para inciiar tratamiento trombolítico.
+A su llegada a UCI el paciente se mantiene con clínica de afasia global. A las pocas horas de finalizar el tratamiento el paciente presenta recuperación completa de la clínica quedando asintomático. Se realiza TAC craneal de control postratamiento fibrinolítico en el que no se evidencian lesiones hemorrágicas por lo que iniciamos la AAS. Se mantiene durante todo el ingreso con TA controladas. No se detectan arritmias por telemetria. Dada la buena evolución se traslada a planta de Neurología.
+
+Informe d'alta d'hospitalització
+
+
+
+
+En planta de Neurologia se mantiene estabble y asintomatico plenamente recuperado. El estudio etiológico no muestar lesion parenquimatosa residual ni fuentes mayores ateroemboligenas ni cardiomeboligenas (pendiente de completar con Holter 24h para descartar FA paroxistica).
+Dada la estabi,idad clínica y normalidad de las exploraciones se decide alta hospiatlaria.
+
+
+Valoración funcional:
+Autónomo para todas las AVDB. Requiere uso temporal de muleta en mano derecha para mejor seguridad y confort posterior a IQ cadera derecha reciente.
+NIHSS inicial 7. Al alta 0. Rankin 0.
+I. Barthel 100/100 Hamilton 10/84 AES-C 24.
+
+DIAGNÒSTICS
+436/5 Ictus ACM izquierda de causa embólica y origen indeterminado trombolizado. Estenosis Carotidia 30% ACI E
+
+PROCEDIMENTS
+Codi Ictus / Trombolisis cerebral / Medics / ECG diari / TAC crani / AngioTC crani i TSA / RM cerebral / Ecocardio TT / Holter 24h
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Añadir AAS 100mg 1comp/dia durante 1 mes y despues suspender Resto de su medicación habitual.
+
+Dieta sana mediterranea. Caminar 30m-1 hora diaria.
+
+CONTROL
+- Acudirá a control CCEE RHB Dra. _NAME_,segun citaciones (comentado previamente con el paciente) Seguimiento con control de los FRV por su medico de familia con objetivos de TA <130/80 y colesterol LDL<70.
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+06.04.2017
+Pàgina 1 de 3

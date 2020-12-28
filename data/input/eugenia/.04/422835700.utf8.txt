@@ -1,0 +1,166 @@
+_LOCATION_
+_LOCATION_) Anul·lació/Reprogramació visites:_CONTACT_
+Telèfon Centraleta: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: 17326983
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 84 Anys
+NIF/DNI: _ID__NAME_; _NAME_; _NAME_;
+_NAME_
+Informe d'alta d'hospitalització
+14:30:37
+26.09.2017
+_LOCATION_
+_SS_ NEUROLOGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_; _CONTACT_; _CONTACT_ FILLA DOMICIL/RES.SOC
+12.09.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Ictus isquémico de territorio ACM izquierda. Trombolisisev.
+
+ANTECEDENTS
+- Alérgico a Penicilina y a moxifloxacino
+-	Hábitos tóxicos: No tabaquismo. No hábito enólico.
+-	Factores de riesgo cardiovasular: No HTA, No DM, No DLP.
+-Un episodio de fibrilación auricular revertida con amiodarona durante ingreso en 02/2012 en neumología por infección respiratoria.
+
+-Asma-hiperreactividad bronquial, portador de O2 domiciliario. Silicosis de años de evolución.
+*Espirometría 2014: FVC 3.70 (94 %) VEMS 1.79 (65 %) VEMS % / FVC 48 %.
+*TC tórax Feb 2012: ateromatosis calcificada aórtica y coronaria, signos de silicosis y cambios cicatriciales, nódulo	espiculado en segmento superior del LID estable últimos 2 años, adenopatías mediastínicas, hiliares y abdominales con   clacificaciones, granulomas hepáticos calcificados).
+*Broncoscopia junio 2011: en la que destacan secreciones de aspecto mucoso, placas de antracosis y distorsión	bronquial que reduce la luz bronquial. En LSD se aprecia distorsión y mucosa engrosada de aspecto liso sobre la que se	realizan biopsias bronquiales. Citología benigna, flora habitual y cultivo de micobacterias negativo.
+-Ingreso del 30/1 al 14/2/12 por insuficiencia respiratoria crónica agudizada en el contexto de sde febril y broncoespasmo severo, tratado con tazocel y BIPAP. FA de debut con respuesta ventricular rápida, paroxísitca, que cedió con        amiodarona.
+
+Otros antecedentes:
+-	Gammapatía monoclonal de significado incierto y linfocitosis T. Valorado por Dra _NAME_ y dado de alta de hematologia .
+-	Intervenciones quirúrgicas: RTU próstata, faquectomía
+
+Situación basal: Vive con su esposa. Sin deterioro cognitivo conocido. Independiente para las ABVD. Deambulacíón con bastón ocasional. Disnea en clase funcional III. Ex-trabajador de _LOCATION_ durante unos 30 años. mRankin 2.
+
+MEDICACIÓ HABITUAL
+Escitalopram 10mg 0-0-1, Lansoprazol 30mg 1-0-0, Nasonex 50mcg 1/12h, Onbrez 300mcg inh (Indacaterol maleato) 1-0-0, Miflonide 400mcg inh (Budesonida) 1-0-1, Prednisona 10mg 1/24h, Singulair 10mg (Montekulast) 1/24h, Tromalyt 150mg 1/24h
+
+PROCÉS ACTUAL
+Paciente varón de 84 años que el 13/09, tras ser visto asintomático a las 16.00h, a las 16.15h es encontrado por un familiar sentado en el sofá por familiar, con DOC, ausencia de respuesta verbal y sin responder a órdenes verbales. El paciente refiere que él no era capaz de entender lo que le decía la esposa, que no podía expresarse,
+
+Informe d'alta d'hospitalització
+
+
+
+
+con debilidad hemicuerpo derecho. Se avisa al SEM que a su llegada objetiva afasia y hemiparesia derecha, y posteriormente estando sentado en silla presenta CTCG generalizada con caída al suelo. Se activa código ictus y se traslada al _SS_ para valoración por neurología.
+
+A su llegada al _SS_ a las 17:55h, el paciente se encuentra hemodinámicamente estable (TA 135/80 mmHg, Fc 80 lpm), afebril (35'5ºC), desaturación (94%), Coagucheck 1, DXT 114. El paciente presenta un vómito por lo que se administra antiemético (primperan ev). A la exploración neurológica está somnoliento (1), no responde al mes ni edad (2), no obedece órdenes simples (2), emite lenguaje espontáneo pero no nomina, no evoca ni repite (2), TOC izq (1), hemianopsia homónima derecha (2), simetría facial con PPCC conservados, paresia ESD 1/5 (4), EID no valorable por falta de colaboración (+4), sensibilidad no valorable por afasia (1), siendo el NIHSS 15 (+4). Se realiza TC craneal y angioTC de TSA sin evidenciarse lesiones agudas intraparenquimatosas ni oclusiones de grandes vasos, sí se objetiva abundante atrofia cerebral y leucaraiosis periventricular. En analítica destaca acidosis metabólica (EABv pH 7.32, bicarbonato 17 mmol/L) y leucocitosis (14.500/L) neutrofílica (7.510/L) en probable realción con CTCG, discreta anemia microcrítica (Hb 12g/dL, VCM 76 fL) y trombocitosis leve (313.000/L). En ECG se observa ritmo sinusal, pero en ECG realizado por SEM se observa ritmo rápido de 100 lpm, arrítmico, sin clara visualización de ondas P, compatible con fibrilación auricular.
+
+Se orienta como ictus isquémico de ACM izquierda (TACI) y crisis tónicoclónica generalizada sintomática hiperaguda. Ante la ausencia de contraindicaciones, se administra fibrinolisis ev con rTPA ev (6 mg en bolus y 54 mg en perfusión en 1h) a las 18:40h. Durante la perfusión de trombolisis el paciente presenta episodios repetidos de aparente tiritona (movimientos proximales rítmicos y de baja amplitud de las 4 extremidades, no sugestivos de crisis epilépticas), motivo por el que se extraen 2 hemocultivos, a pesar de estar el  paciente afebril. A la revaloración tras trombolisis el paciente presenta mejoría de la focalidad neurológica siendo el NIHSS de 6 a expensas de desorientación en tiempo y espacio, afasia moderada de predominio motor (nomina 5/5, evoca 0-1/5) (2), obedece 2 órdenes simples, HH D (2), no DOC/TOC, simetría facial conservada, paresia braquial derecha poximal 5-/5 y distal leve 4/5, crural derecha 5/5, sin déficits sensitivos.
+Además, presenta retención aguda de orina con dolor abdominal que precisa de sondaje vesical. Se decide ingreso en la unidad de ictus para control evolutivo y estudio etiológico.
+
+EXPLORACIÓ FÍSICA
+
+TA 111/83mmHg , FC 73 lpm,  T36 ºC, Sat O2 basal 97%
+Telemetría: ritmo auricular arrítmico con ondas "p" de diferente morfología, con extrasístoles supraventriculares frecuentes con pausa compensatoria.
+
+NRL: consciente, orientado en tiempo, espacio y persona, habla conservada, leve afasia con disminución de la fluencia pero nomina 5/5, evoca 5/5, y repite correctamente (1), obedece 2 órdenes simples, no DOC ni TOC, campimetría por confrontación conservada, MOEs conservados, simetría facial conservada, sin déficit motor, hemihipoestesia FBC derecha (1). NIHSS 2
+AC: tonos cardíacos rítmicos, sin soplos
+AP: murmulo vesicular conservado, sin ruidos sobreañadidos
+Abdomen: blando, depresible, no signos de irritación peritoneal. Peristaltismo conservado. EEII: no edemas ni signos de TVP. Pulsos pedios presentes y simétricos.
+Mordedura en lengua y labio inferior, sin sangrado activo.
+
+Informe d'alta d'hospitalització
+
+
+
+EXPLORACIÓ COMPLEMENTÀRIA
+En Urgencias:
+-Analítica: Acidosis metabólica (equilibrio con pH 7.32, bicarbonato 17 mmol/L), anemia microcrítica con  Hb 11g/dL. y VCM 76fL, y trombocitosis leve de 313000, leucocitosis de 14500 con neutrofilia de 7510 y linfocitosis de 4890.TP 1.38. TTPA 1.01.
+-Rx de tórax: Marco óseo conservado. Senos costofrénicos libres,infiltrado intersticial bilateral, no condensación del parenquima. ICT <0.5, hilios pulmonares aumentados de tamaño.
+-ECG en Ritmo sinusal a 100lpm, eje a 0º, PR 0.2,   QRS estrecho, no lateraciones de la repolarización que sugieran isquemia aguda.
+-TC craneal/angioTC craneal: No se identifican signos de isquemia cerebral aguda (ASPECTS 10) ni alteraciones en el angioTC.
+Cambios morfológicos cerebrales sincrónicos con la edad de la paciente.
+- 2 Hemocultivos (12/09): Negativos.
+
+En Neurología:
+-TC craneal 13/09: Compartivo con TC previo del 12/09/2017. No focos de sangrado agudo intracraneal. Resto sin cambios
+-EEG (13/09): anormal per presència de lentificació anterior esquerre d'aspecte lesional. No es registra activitat epiléptica.
+-Analítica ingreso: Función renal y hepática normales. Perfil lipídico y tiroideo normal. Foaltos y Cobalaminas normal. HbA1c 5.5%. Proteinograma normal. Hb 103 g/L, VCM 77 fL, HCM 24 pg, CHCM 307 g/L, no leucositosis. Coagulación normal. Calci(II)  2.06 mmol/L, Fosfat  0.84 mmol/L, Calcidiol 41.3 nmol/L , Paratirina 8.0 pmol/L.
+-Serologías VIH1y2  y Treponema Pallidum: Negativo.
+-Urocultivo (13/09): Negativo.
+
+-RM cerebral: Cambios degenerativos de sustancia blanca en relación con isquemia crónica. Cambios de atrofia cerebral globalInfartos lacunares antiguos
+-Ecocardiografía TT: VI no dilatado ni hipertrófico, con función contráctil conservada. VD no dilatado,  con contractilidad conservada. Aurícula izquierda ligeramente dilatada. Aorta ascendente ligeramente dilatada. Válvula mitral esclerosada, con ligera insuficiencia. Válvula aórtica trivalva, ligera insuficiencia. Insuficiencia tricuspídea ligera. PAPs estimada de 32 mm Hg. PVC no valorable por mala visualización de VCI. Sin derrame pericárdico significativo.
+-Rx columna lumbar: Fractura-aplastamiento L1.
+
+EVOLUCIÓ CLÍNICA
+Paciente con AP a destacar de episodios de fibrilación auricular revertido farmacológicamente y silicosis en tratamiento con oxigenoterapia y corticoterapia que ingresa en Unidad de ictus de neurología por sospecha de ictus isquémico de ACM izquierda tratado en fase aguda con trombolisis ev y crisis tónicoclónica generalizada sintomática hiperaguda por lo que se inicia tratamiento con Levetiracetam
+
+En las primeras 24 horas se realiza EEG que informa de lentificación anterior izquierda de aspecto lesional sin resgitrarse actividad epileptiforme. El paciente presenta un NIHSS de 2 a expensas de disminución de la fluencia e hipoestesia BC izquierda. En TC craneal post-rTPA no se objetiva sangrado intracraneal por lo que se inicia anticoagulación oral sin incidencias.
+
+Informe d'alta d'hospitalització
+
+
+
+
+El paciente se mantiene en la Unidad de ictus durante una semana sin registrarse ningún evento arrítmico, pero dado que en ECG del SEM se detectó FA rápida, se inicia anticoagulación oral (CHA2DS2-VASC = 2)
+
+En analítica destaca anemia microcítica Hb 103 VCM 77, siendo el resto normal. Las serologías son negativas. Como estudio de imagen se realiza RMN cerebal en la que no se objetiva lesión isquémica aguda, sí infartos lacunares antiguos y atrofia cerebral global. Se completa estudio vascular con ecocardiografía transtorácica sin objetivarse alteración de la función sistólica, segmentarismos, ni valvulopatía significativa.
+
+Durante su estancia en planta el paciente se mantiene hemodinámicamente estable, normotenso sin tratamiento antihipertensivo.
+Ha realizado rehabilitación desde el inicio y al alta presenta NIHSS 1 a expensas de parálisis facial derecha leve.
+
+Se orienta como possible ictus isquémico cardioembólico en contexto de FA no anticoagulada a pesar de ausencia de lesión isquémica en RM pero que fué tratado en fase aguda con trombolisis, y crisis epiléptica hiperaguda.
+Dado que no se ha objetivado lesión en RM cerebral y el paciente fue hallado con clínica negativa, no puede descartarse que se tratase de una parálisis de Todd. Se recomienda control con neurología _SS_ valorando la necesidad de nuevo EEG.
+
+Como incidencias presenta:
+-	Fractura-aplastamiento L1 con osteoporosis secundaria por glucocorticoides. Clínica de dorsalgia de inicio agudo tras clínica ictal (12/09), controlado en reposo que se exacerba con el movimiento y la tos. Rx se objetiva
+fractura-aplastamiento vertebral L1. Bioquímica conservada a excepció de hipoalbuminèmia i hipoproteïnèmia. Calci corregit 2.18. Fosfat normal. Calcidiol 41.3 PTH 8.0. Hemograma amb Hb 94 g/L, VCM 79 fL, Leuc 6900 (PMN 3470 L 2220) Plaq 211000. No AP de fracturas previas, en tratamiento corticoideo a dosis medias durante años sin realizar tratamiento antiosteoporosis. No es candidato a corsé por la patología respiratoria. Se inicia tratamiento con hidroferol (puntual), Demilos 1 al día, Aledronato cálcico 70 mg semanal. Debe tomarlo en ayunas con un vaso de agua sin ingerir nada más durante 30 minutos y sin tumbarse. Deberá realizar este tratamiento durante almenos 5 años. Se recomienda seguimiento por MAP/REU de zona.
+-	Anemia microcítica hipocrómica (Hb 111 g/L --> 94 g/L, Hto 35% --> 31%, VCM 79fL, HCM 24pg) en posible relación a hematoma costal derecho de unos 15cm tras caída por CTCG. No exteriorizaciones hemáticas. Se recomienda control analítico con médico de cabecera.
+
+Dada la estabilidad clínica, se decide alta a domicilio.
+
+
+DIAGNÒSTICS
+434.91/5 Avc isquemic.
+733.13/2 Fractura patologica de vertebra.
+427.31 Fibril·lació auricular. 780.39/2 Crisi comicial.
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+STOP Tromalyt 150 mg
+- Aldocumar 10 mg cada 24 horas según pauta hemostasia.
+-	Calcium Sandoz 600mg/400UI cada 24 horas (desayuno)
+-	Aledronato cálcico 70 mg semanal. Debe tomarlo en ayunas con un vaso de agua sin ingerir nada más durante
+-	
+Informe d'alta d'hospitalització
+
+
+
+
+30 minutos y sin tumbarse. Deberá realizar este tratamiento durante almenos 5 años.
+
+-	Tratamiento analgésico según dolor vertebral.
+-	Paracetamol 1 g cada 8horas
+-	Enantyum 50 mg cada 8 horas (si persiste dolor a pesar de paracetamol cada 8h) Alternarse cada 4 horas con	paracetamol
+-	Nolotil 575 mg cada 8 horas (si persiste dolor a pesar de paracetamol y enantyum). Vigilar, si hipotensión arterial dejar	de tomar y consultar con médico de cabecera para reajustar tratamiento.
+
+CONTROL
+-	Control con neurología _SS_. El paciente debe acudir a médico de cabecera para ser derivado.
+-	Se recomienda seguimiento por MAP/Reumatología de zona.
+-	Control en CEX Hemostasia de pauta anticoagulación 03/10/2017 13.00-13.15h
+-	Control anemia microcítica con médico de cabecera habitual.
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+26.09.2017
+Pàgina 1 de 5

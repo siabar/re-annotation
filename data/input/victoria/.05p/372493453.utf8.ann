@@ -1,0 +1,93 @@
+T0	_SUG_Lateralizacion 0 1	I
+T1	FECHA 316 326	06.05.2017
+#1	AnnotatorNotes T1	2017-05-06
+T2	_SUG_Lateralizacion 379 380	E
+T3	HORA 387 392	18:30
+#3	AnnotatorNotes T3	18:30
+T4	SECCION_TIPO_DE_INGRESO 424 449	Tipo ingreso/Tipus ingrés
+T5	SECCION_DIAGNOSTICOS 490 495	Diag.
+T6	_SUG_Ictus_isquemico 497 512	ICTUS ISQUÉMICO
+T7	_SUG_Arteria_afectada 528 532	TICA
+T8	_SUG_Lateralizacion 533 534	D
+T9	SECCION_PROCEDIMIENTOS 538 543	Proc.
+T10	_SUG_TAC_craneal 545 547	TC
+T11	_SUG_TAC_craneal 562 572	TC CRANEAL
+T12	SECCION_MOTIVO_DE_INGRESO 680 718	Motivo de consulta / Motiu de consulta
+T13	SECCION_ANTECEDENTES 755 817	Antecedentes e historia previa / Antecedents i història prèvia
+T14	_SUG_mRankin 1039 1048	mRankin 2
+T15	SECCION_ANTECEDENTES_PATOLOGICOS 1052 1076	ANTECEDENTES PATOLÓGICOS
+T16	FECHA 1510 1521	agosto/2016
+#16	AnnotatorNotes T16	2016-08-UNDEF-day
+T17	SECCION_TRATAMIENTO_HABITUAL 2119 2138	MEDICACIÓN HABITUAL
+T18	FECHA 2140 2148	06/05/17
+#18	AnnotatorNotes T18	2017-05-06
+T19	_SUG_Tratamiento_anticoagulante 2152 2164	Acenocumarol
+T20	SECCION_PROCESO_ACTUAL 2276 2306	Proceso actual / Procés actual
+T21	HORA 2366 2371	16:45
+#21	AnnotatorNotes T21	16:45
+T22	SECCION_PROCESO_ACTUAL 10190 10196	Episod
+T23	SECCION_EXPLORACION_FISICA 2580 2618	Exploración física / Exploració física
+T24	FECHA 2619 2629	06/05/2017
+#24	AnnotatorNotes T24	2017-05-06
+T25	HORA 2630 2635	19:30
+#25	AnnotatorNotes T25	19:30
+T26	FECHA 2670 2680	06/05/2017
+#26	AnnotatorNotes T26	2017-05-06
+T27	HORA 2681 2686	21:00
+#27	AnnotatorNotes T27	21:00
+T28	FECHA 2769 2779	06/05/2017
+#28	AnnotatorNotes T28	2017-05-06
+T29	HORA 2780 2785	22:00
+#29	AnnotatorNotes T29	22:00
+T30	FECHA 2825 2835	09/05/2017
+#30	AnnotatorNotes T30	2017-05-09
+T31	HORA 2837 2842	17:31
+#31	AnnotatorNotes T31	17:31
+T32	_SUG_NIHSS 3615 3624	NIHSS: 24
+T33	FECHA 4084 4092	09/05/17
+#33	AnnotatorNotes T33	2017-05-09
+T34	SECCION_EXPLORACIONES_COMPLEMENTARIAS 4383 4443	Exploraciones complementarias / Exploracions complementàries
+T35	_SUG_Localizacion 4569 4578	posterior
+T36	_SUG_Lateralizacion 5198 5206	esquerre
+T37	_SUG_Lateralizacion 5330 5338	esquerra
+T38	_SUG_Lateralizacion 5448 5452	dret
+T39	SECCION_EVOLUCION 5626 5646	Evolución / Evolució
+T40	_SUG_Arteria_afectada 5698 5722	ARTERIA  CEREBRAL  MEDIA
+T41	_SUG_Lateralizacion 5724 5731	DERECHA
+T42	_SUG_Arteria_afectada 5744 5748	TICA
+T43	_SUG_Lateralizacion 5749 5756	DERECHA
+T44	_SUG_Lateralizacion 5960 5970	izquierdas
+T45	_SUG_Lateralizacion 6183 6190	derecho
+T46	_SUG_NIHSS 6200 6208	NIHSS 20
+T47	_SUG_TAC_craneal 6347 6357	TC craneal
+T48	_SUG_Localizacion 6461 6469	profundo
+T49	_SUG_Arteria_afectada 6702 6705	ACM
+T50	_SUG_Arteria_afectada 6708 6711	ACA
+T51	_SUG_Arteria_afectada 6813 6817	TICA
+T52	_SUG_Lateralizacion 6818 6819	D
+T53	_SUG_Etiologia 6842 6856	cardioembólica
+T54	_SUG_Trombolisis_intravenosa 6971 6983	fibrinolisis
+T55	_SUG_Localizacion 7178 7187	posterior
+T56	FECHA 7210 7214	11/5
+#56	AnnotatorNotes T56	2017-05-11
+T57	_SUG_Lateralizacion 7363 7372	izquierda
+T58	_SUG_NIHSS 7418 7429	NIHSS de 12
+T59	FECHA 7452 7455	9/5
+#59	AnnotatorNotes T59	2017-05-09
+T60	_SUG_TAC_craneal 7552 7554	TC
+T61	_SUG_NIHSS 7673 7683	NIHSS de 5
+T62	_SUG_Lateralizacion 7772 7781	izquierda
+T63	_SUG_Lateralizacion 7822 7831	izquierdo
+T64	FECHA 7854 7857	4/5
+#64	AnnotatorNotes T64	2017-05-04
+T65	_SUG_Lateralizacion 7878 7887	izquierda
+T66	_SUG_Etiologia 8525 8533	habitual
+T67	_SUG_Lateralizacion 8617 8626	izquierdo
+T68	SECCION_EXPLORACION_FISICA_AL_ALTA 9094 9101	AL ALTA
+T69	SECCION_TRATAMIENTO_AL_ALTA 9147 9180	Plan terapéutico / Pla terapèutic
+T70	_SUG_Tratamiento_anticoagulante 9207 9219	Acenocumarol
+T71	SECCION_RECOMENDACIONES 9445 9466	Otras recomendaciones
+T72	FECHA 9858 9868	19.05.2017
+#72	AnnotatorNotes T72	2017-05-19
+T73	HORA 9883 9888	09:45
+#73	AnnotatorNotes T73	09:45

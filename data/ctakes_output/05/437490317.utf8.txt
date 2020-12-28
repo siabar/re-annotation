@@ -1,0 +1,123 @@
+Tel. _CONTACT_
+_CONTACT_ _LOCATION_
+_LOCATION_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 87 anys
+NIF/DNI: _ID__NAME_; _NAME_
+Informe d'alta d'hospitalització
+12:11:44
+04.11.2017
+_LOCATION_
+_SS_ MEDICINA INTERNA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_; _CONTACT_; _CONTACT_
+DOMICIL/RES.SOC 02.11.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Accident Isquèmic Transitori
+
+ANTECEDENTS
+
+vive con su hija, independiente para las ABVD, supervision para la higiene. Va a un centro de dia
+
+AL.LÈRGIES
+08.2016 : Sense al·lergies conegudes
+
+ANTECEDENTS PATOLÒGIC
+Avc isquemic,hace 4 a. Sin secuelas Hta sin tratamiento habitual Dislipemia sin tratamiento habitual
+Sd ansioso depresivo. En tto con paroxetina y lorazepam Obesitat
+Poliartrosi en tratamiento con paracetamol 1g/8h
+Demencia vascular en estudio por AIA. pendiente de prueba de neuroimagen Hiperuricemia Ac urico 8, sin tratamiento habitual
+Insuficiència renal crònica, estadi III (moderada) creatinina 1,6 FG 39
+
+
+MEDICACIÓ HABITUAL
+
+ACIDO ACETILSALICILICO 100MG ORFIDAL 1MG
+PARACETAMOL 1G 40 1 x 8 h. PAROXETINA 20MG
+
+
+PROCÉS ACTUAL
+Paciente que acude procedente del cenro de dia por disartria y desviación de la comisura bucal. Recuperada completamente según  su hija.
+
+
+
+EXPLORACIÓ FÍSICA
+
+Informe d'alta d'hospitalització
+
+
+
+
+FC	58 bpm
+Tªaxi 36.0 ºC
+
+FR	15 rpm Tªrec  ºC
+
+TA s	149 mmHg SAT O2 94 %
+
+TA d   69 mmHg Pes Kg
+
+Buen estado general, Consciente y orientado. Durante la noche del ingreso presenta sd confusional. AC ritmico, no soplos, no edemas, no signos de TV
+AR MV, disceta hipofonesis basal, no estertores.
+NEURO: NIHSS 0. RANKIN 1
+no déficits motor ni sensitivo. no focalidad en pares craneales, Romberg negativo. Deambula con el bastón . Coordinación normal.
+
+
+
+
+EXPLORACIÓ COMPLEMENTÀRIA
+analítica: hb 18,4  leucos 12,5  neutros 36%  INR 1,07  TTPA 29  TTPA rati 0,99  glu 95  Urea 38  Cr 1,59   Filtrat
+41 ALT 22  Na 141
+
+ecg: rs a 50bpm, no transtorno repolarización
+
+TC craneal sin contraste (02.11.2017 /18:32:00) MOTIU. Motiu consulta: ictus
+TÈCNICA: Es realitza TC cranial simple TROBALLES.
+NO s'observen lesions hemorràgiques agudes intra o extraaxials.
+Hipodensitat a nivell del cos del nucli caudat E, en probable relació amb lesió isquèmica subaguda/crònica. Sistema ventriuclar de mida i morfologia conservada per l'edat del pacient.
+Marcada dilatació dels solcs corticals de predomini birontal i biparietal, i probable component d'higroma subdural bilateral a nivell del a convexitat, amb gruix màxim de 14 mm a nivell dret i 18mm a nivell esquerre sense condicionar efecte massa significatiu.
+Estructures de la línia mitja centrades. Cisternes del a base lliures.
+CONCLUSIÓ.
+NO s'observen lesions hemorràgiques agudes intra o extraaxials. Hipodensitat a nivell del cos del nucli caudat E, en probable relació amb lesió isquèmica subaguda/crònica
+Marcada dilatació dels solcs corticals de predomini birontal i biparietal ( atròfia cortical), probable component d'higroma subdural bilateral a nivell de la convexitat, amb gruix màxim de 14 mm a nivell dret i 18mm a nivell esquerre sense condicionar efecte massa significatiu.
+Data: 02.11.2017 Signat Dr.: _NAME_ Nº Col: _ID_
+
+EVOLUCIÓ CLÍNICA
+Paciente de 87a, con FRCV de HTA, DL, obesidad , con demencia vascular (ICTUS hace 4a) que ingresa para observacion neurològica después de presentar un nuevo evento (disartria-desviación comisura bucal) autoliimitado.
+Rankin 1 NIHSS 0.
+En estudio por AIA (demencia)
+
+Informe d'alta d'hospitalització
+
+
+
+
+Durante la estancia no presenta nuevas focalidades neurològicas, si en cambio un Sd Confusional que precisa Quetiapina 25mg nocturna ante la escasa respuesta a haloperidol.
+
+
+DIAGNÒSTICS
+435.1/2 Ait accident isquemic transitori arteria vertebral
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Control por su médico de cabecera
+En el hospital ha precisado quetiapina por la noche
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+04.11.2017
+Pàgina 1 de 3

@@ -1,0 +1,171 @@
+_LOCATION_
+email: _CONTACT_ Telèfon _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 79 Anys
+NIF/DNI: _ID_Informe d'alta d'hospitalització
+12:00:00
+10.02.2017
+_LOCATION_
+_SS_ NEUROLOGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_; _CONTACT_; _CONTACT_
+DOMICIL/RES.SOC 07.02.2017
+Equipo Dra. _NAME_)
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Varón de 79 años que ingresa por ictus PACI de ACM I.
+
+ANTECEDENTS
+Antecedentes personales
+-Sin alergias medicamentosas conocidas.
+-Exfumador hasta hace 33 años
+
+Antecedentes médico-quirúrgicos
+-Hipertensión arterial de difícil control en seguimiento por nefrología de nuestro centro.
+-Hiperlipoproteinemia  bajo tratamiento farmacológico. Último control analítico (Junio 2016): Colesterol total 156 mg/dL, HDL 39 mg/dL, LDL 91 mg/dL.
+-Diabetes mellitus tipo 2 bajo tratamiento farmacológico con hipoglicemiantes orales. Última HbA1c 6.6%.
+-Enfermedad renal crónica de etiología no filiada, probablemente multifactorial (nefroangioesclerosis, DM). Con Cr habitual de 1.5mg/dL.
+-Prostatectomía en 2007 por hiperplasia benigna de próstata.
+-Carcinoma basocelular párpado inferior i extirpado hace unos 8 años con controles correctos desde entonces.
+-Melanoma en hombro izquierdo extirpado hace años.
+-Síncopes de origen cardiológico, en seguimiento por CEX de Cardiología
+*Holter 24 hrs mayo 2016: Asintomático durante el registro. Ritmo sinusal durante todo el registro con una FC media de 68lpm, mínima 27lpm, máxima 100lpm. Extrasístoles supraventriculares aislados poco frecuentes. Extrasístoles ventriculares aislados poco frecuentes con morfología de BRIHH + eje superior. Sin otras arritmias ventriculares ni supraventriculares. Presenta BAV de 1r grado, con episodios de BAV de 2º grado tipo Wenckebach, sin que se observe Bloqueo más avanzado. Sin pausas significativas.
+*Dado de alta tras nuevo episodio sincopal, habiendo aumentado la frecuencia de los mismos en los últimos meses, objetivándose en el ECG bloqueo AV de 1r grado con BRDHH y HBA. Se realizó un estudio electrofisiológico que objetivó parámetros de coducción infrahisiana dentro de la normalidad y se decidió implantar un holter de eventos. Se interroga el Holter de eventos observándose episodio de BAV2º tipo Wenckebach con pausas de 2 segundos de duración máxima que parecen coincidentes en tiempo con los cuadros sincopales por los que consulta. Mientras está siendo valorado, el paciente presenta nuevo episodio sincopal, registrándose pausa sinusal de 5 segundos de duración e hipotensión. Se ha implantado un marcapasos definitivo Sorin Kora 100 DDDR(628BY1C2) por via subclavia derecha sin incidencias
+
+Situación sociofuncional: Vive con su mujer. Independiente para las actividades básicas e instrumentales de la vida diaria. Sin deterioro cognitivo. mRS 0.
+
+MEDICACIÓ HABITUAL
+AdIro 100mg/día, Artedil 20mg/día, Daonil 5mg/día, Fero-gradumet 105mg/día, Hidrosaluretil 50mg/día, Januvia 25mg/día, Metformina 850mg/día, Olmetec 40mg/12h, Omeprazol 20mg/día, Simvastatina 20mg/día.
+
+Informe d'alta d'hospitalització
+
+
+
+PROCÉS ACTUAL
+Paciente con los antecedentes descritos que estando previamente bien, inicia de forma bursca el día 07.02.2017 a las 17:15h dificultad para la emisión del lenguaje y desviación de la comisura bucal a la izquierda. Es derivado a nuestro centro como código ictus. Hora de llegada 18:01h. Hora de TC 18:20h.
+
+EXPLORACIÓ FÍSICA
+
+Exploración física en Urgencias
+Constantes: 160/76 mmHg, BMT 303 mg/dL.
+Afasia motora con comprensión de órdenes sencillas, mutista (2+0+3), paresia facial suprancuelar derecha (2), sin otra focalidad objetivable. NIHSS 7.
+
+Exploración física en Unidad de Ictus
+Constantes: TA 169/82 mmHg, FC 79 lpm, Tª 36.6ºC, BMT 187 mg/dL.
+EN: Vígil, alerta, orientado en las tres esferas. Afasia motora moderada con comprensión preservada (2). LOC Q 2/2, LOC C 2/2. Disartria inteligible (1). PFSN D (2). Balance motor con claudicacióon leve de ESD (1). Hipoestesia de ESD (1). NIHSS 7.
+
+Exploración física en Planta de Neurología
+Constantes: TA 114/60mmHg, FC 71lpm, Tª 36.6ºC, SaO2 98% aa
+Paciente con estado general conservado, normocoloreado, normohidratado y normoperfundido.
+Auscultación cardiaca con tonos rítmicos y sin soplos, no presenta edemas en miembros inferiores ni ingurgitación yugular. Pulsos periféricos presentes y simétricos.
+Auscultación pulmonar con murmullo vesicular conservado sin ruidos sobreañadidos. Eupneico en reposo. Abdomen  depresible, no  se  palpan  masas  ni  megalias, ruidos  hidroaéreos conservados,  no  doloroso  a  la palpación profunda, no signos de peritonismo ni defensa.
+Neurológicamente vigil, atento y orientado en las 3 esferas, afasia motora moderada con bloqueos (2), nomina 3/3, obedece y repite, disartria inteligible (1), pupilas isocóricas y normorreactivas, no presenta restricciones en los MOEs, campimetría por confrontación sin alteraciones, paresia facial supranuclera derecha (2), resto de PPCC conservados. Balance motor y sensitivo conservados. No dismetrías. No extinción ni negligencia. Marcha sin alteraciones. RMP 2/5 global. RCP flexor bilateral. No asterixis ni meningismo. NIHSS 5.
+
+EXPLORACIÓ COMPLEMENTÀRIA
+Exploraciones complementarias en Urgencias
+-Analítica  general:  Htes 4.96 x10E12/L, Hb 14.9 g/dL,  Hto 44.3%, VCM 89.3 fL, HCM 30.0 pg, ADE 13.1%,
+Leucocitos 7.76 x10E9/L (N 75.4%, L 16.2%, M 6.4%, E 1.5%, B 0.5%), Plaquetas 193 x10E9/L. Hemostasia
+coagulada. Glucosa 64 mg/dL, Urea 66 mg/dL, Cr 1.52 mg/dL, FG 43 ml/min/1,73 m2, Na 137.8 mmol/L, K 3.63
+mmol/L, Ca 9.6 mg/dL, AST 22 UI/L, ALT 14 UI/L, Proteínas 7.8 g/dL.
+-TC craneal multimodal: Alteració de la perfusió a nivell del territori superficial posterior d'ACM esquerre sense repercusió en el TC simple en el moment actual i sense identificar oclusió arterial distal en l'AngioTC.
+
+Exploraciones complementarias en Unidad de Ictus
+-Analítica  general  de  ingreso:  Hb  A1c  7.8%,  Urea  49,  Creatinini  1.52,  Urato  7.6,  HDL  37,  Triglicèrid 207, Homocisteïna 16.3, resto normal.
+-TC craneal de control (8/02/2017): Estudio de control muestra hipodensidad en territorio superficial de ramas
+
+Informe d'alta d'hospitalització
+
+
+
+
+distales de ACM I con zona hiperdensa que no permite descartar transformación hemorrágica petequial, con mejoria de la alteración de la perfusión en el territorio de la ACM izquierdo, visualizando una alteración de la perfusión cerebral en el territorio cortical posterior de la ACP izquierda, la cual no tiene repercusión en el estudio simple.
+-Interrogación de marcapasos: se detectan rachas de flutter auricular.
+-TC craneal control (9/02/2017): TC craneal control que muestra la presencia de dos pequeños infartos establecidos en territorio superficial de ramas distales de ambas arterias cerebrales medias, sin claros signos de transformación hemorrágica.
+
+EVOLUCIÓ CLÍNICA
+Paciente con los antecedentes descritos que es traído como código ictus. A su llegada a urgencias, hemodinámicamente estable y afebril, con exploración neurológica compatible con PACI de ACM I con NIHSS 7. Se realiza TC craneal multimodal que no muestra alteraciones. Cumpliendo criterios de inclusión y ninguno de exclusión se incluye en Ensayo TASTE (tPA vs TNK en ictus isquémico agudo) tras firmar esposa consentimiento informado. Es asignado a tPA EV (6.3+56.7 mg). Ingresa en Unidad de ictus para completar estudio etiológico.
+A su llegada a la Unidad de Ictus, permanece estable, clínicamente persiste con NIHSS 7 con clínica de PACI I. Se realiza lectura de MCP que evidencia rachas de flutter auricular, por lo que se orienta como ictus de etiología cardioembólica. El TC craneal control muestra un infarto superficial en territorrio ACM distal con dudosas areas de transformación hemorragica petequial, por lo que se realiza nuevo TC craneal control donde no se visualizan claramente estas hiperdensidades. Se inicia tratamiento de prevención secundaria con clexane y se solicita pauta TAO. La AG ha puesto de manifiesto un regular control glicemico por lo que se ajusta pauta de antidiabeticos orales, recomendandose control ambulatorio. En situación de estabilidad clínica y hemodinámica se decide alta y control en CCEE Neurovascular. En el momento del alta NIHSS 7, mRS 2.
+
+DIAGNÒSTICS
+Ictus ACM I de etiología cardioembolica (TA/Flutter de debut) Ensayo clínico TASTE, recibiendo tratamiento fibrinolítico con rtPA
+
+PROCEDIMENTS
+TC craneal multimodal urgente TC craneal + TC perfusión control Revisión de marcapasos
+TC craneal control AG
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Dieta sin sal diabética Ejercicio fisico moderado
+Suspender Adiro 100 y Simvastatina Añadir a su medicación habitual:
+-	Clexane y sintrom segun pauta de hematología
+-	Pravastatina 20mg, 1 comprimido cada 24 horas después de cenar.
+-	Foli-doce, 1 comprimido cada 24 horas
+-	Aumenar dosis de Metformina 850mg, 1 comprimido con desayuno y comida Resto de tratamiento habitual sin cambios
+-	
+Informe d'alta d'hospitalització
+
+
+
+
+CONTROL
+Control en CCEE Neurovascular el proximo día
+Se solicita 1º visita en CCEE Foniatria y Logopedia, para valoración y tratamiento segun proceda Control por especialistas habituales como tenga previsto
+Control estrecho de FRCV por su CAP
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+10.02.2017
+Pàgina 1 de 4

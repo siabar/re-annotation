@@ -1,0 +1,112 @@
+_LOCATION_
+_LOCATION_) Anul·lació/Reprogramació visites:_CONTACT_
+Telèfon Centraleta: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 76 Anys
+NIF/DNI: _ID_Informe d'epicrisi
+13:00:00
+16.03.2017
+_LOCATION_
+_SS_ NEUROLOGIA
+ABS
+Servei Data d'alta
+_CONTACT_; _CONTACT_; _CONTACT_
+DOMICIL/RES.SOC 11.03.2017
+_NAME_
+_LOCATION_
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Ictus TACI ACM D + oclusió M1.
+
+ANTECEDENTS
+Sense al·lèrgies medicamentoses conegudes.
+Hàbits tóxics: fumador actiu (actualment ha reduit el consum a 3-4 cigarretes diàries, prèviament fumador d'un paquet diari), exenolisme server, no enolisme en l'actualitat.
+Factors de risc cardiovascular: HTA en tractament amb amlodipino. No DLP ni DM conegut.
+Història d'ictus isquèmics de repetició de probable etiologia aterotrombòtica (2003 i 2010) en territori profund d'ACM esquerra. Presenta clínica residual de disàrtria, paràlisis facial supranuclear i hemiparèsia lleu dreta. Consta EcoTSA el 2010 amb plaques calcificades en ambdues ACI no significatives (1-15%). En seguiment pel metge de capçalera. NO consta en tractament crònic antiagregació.
+Intervencions quirúrgiques: fístula anal.
+Situació basal: Viu amb la dona, camina amb bastó, presenta alteració important de la parla secundària a ictus previs. Precisa d'ajuda per a la higiene i per a vestir-se. Controla esfínters. mRankin 3.
+
+MEDICACIÓ HABITUAL
+Atozet (ezetimiba + atorvastatina) 10/40mg 1c/24h, amlodipí, atorvastatina, duodart (tamsulosina + dutaserida 0.5/0.4mg( 1c/24h, ranitidina.
+
+PROCÉS ACTUAL
+Pacient que el dia 10/03 va a dormir al voltant de les 00:00h en el seu estat basal. A les 4:30h la dona sent un soroll i troba el pacient al terra de l'habitació amb empitjorament de la parla i major debilitat de l'hemicós esquerre. Activaen codi ictus via SEM a les 05:00h. Es trasllada a urgències del _SS_ per a valoració. Arriba a les 05:20h. Es fa TC a les 06:30 (es retarda per important inestabilitat hemodinàmica del pacient).
+
+Quan arriba a urgències TA 161/78mmHg, presenta important agitació psicomotriu, per monitor presenta fins a 5 episois de ràfegues de taquicàrdia ventricular sostinguda amb pols no sincopals (10-15 batecs), motiu pel qual s'administra suflat de magnesi i impregnació amb amiodarona. SO2 85% basal que remonta a 92% amb VMK 24%, afebril. Neurològicament presenta tendència a la somnolència (1), desviació oculocefàlica a la dreta (2), pupil·lies isocòriques normoreactives, hemianòpsia homònima dreta per amenaça (2), diu el seu nom i l'edat, impressiona més aviat de disàrtria severa (2+residual) que d'afàsia (nomina 5/5, evoca 5/5, no repeteix), obeeix ordres simples i parcialment complexes, paràlisis facial supranuclear esquerra (2), parèsia 4/4 EESS (1+1 residual) parèsia 4/5 en EIE (2), tot i que crida l'atenció rigidesa important. Heminegligent esquerre, no asomato ni anosognòsia (2), anestèsia esquerra (2), reflex cutani plantar indiferent esquerre, extensor dret. NIHSS 13+3.
+A l'analítica destaca leucocitosis de 10800, resta sense alteracions. l'ECG a 85bpm sense alteracions de la repolarització. La radiografia de tórax (en decúbit) mostra cardiomegàlia i absència de condensacions. El TC cranial, TC de perfusió i angioTSA mostren ASPECTS 9-10 (ínsula). El TC de perfusió mostra mismatch significatiu en territori d'ACM dreta i oclusió M1 istal d'ACM dreta.
+Quan torna del TC es reexplora el pacient, que presenta empitjorament de l'hemiparèsia braquiocrural esqeurra amb plègia de l'ESE i parèsia 2/5 EIE, la resta sense canvis. NIHSS 18+3.
+
+Informe d'epicrisi
+
+
+
+
+S'orienta com a ictus isquèmic en territori ACM dreta (TACI) + oclusió M1 segment distal. No és tributari a rTPA per clínica d'inici incert. Es comenta amb guàrdia de neurovascular, és tributari a tractament de rescat endovascular primari.
+Es trasllada el pacient al DIVAS, es realitza punció a les 7:56h, no s'aconsegueix recanalització després de 6 passes, TICI 0. Presenta a més a més una possible dissecció d'ACI dreta intracranial. Clínicament persiteix la mateixa situació; com a indiències presenta episodi de bradicàrdia extrema que millora amb efedrina i massatge.
+
+S'orienta com a ictus isquèmic en territori ACM dreta (TACI) + oclusió M1 segment distal, tractat en fase aguda amb trombectomia mecànica, que no aconsegueix recanalització (TICI 0). Ingressa a Neurologia a la uniat d'ictus per a control evolutiu i continuïtat de les cures.
+
+EXPLORACIÓ FÍSICA
+
+FC	72 bpm
+Tªaxi 36.9 ºC
+FR	29 rpm Tªrec  ºC
+TA s	155 mmHg SAT O2  %
+TA d   77 mmHg Pes Kg
+
+Neurològicament  presenta  tendència  a  la  somnolència  (1),  desviació  oculocefàlica a  la  dreta  (2),  pupil·lies isocòriques normoreactives, hemianòpsia homònima dreta per amenaça (2), diu el seu nom i l'edat, impressiona més aviat de disàrtria severa (2+residual) que d'afàsia (nomina 5/5, evoca 5/5, no repeteix), obeeix ordres simples i  parcialment complexes,  paràlisis facial  supranuclear  esquerra (2),  plègia ESE,  parèsia residual  ESD  (4+1 residual) parèsia 2/5 en EIE (3), tot i que crida l'atenció rigidesa important. Heminegligent esquerre, no asomato ni anosognòsia (2), anestèsia esquerra (2), reflex cutani plantar indiferent esquerre, extensor dret. NIHSS 20 (+ 2) AC: tons cardíacs rítmics, sense bufs.
+AR: MVC sense sorolls sobreafegits. Taquipneic, fa apnees centrals, no tiratge respiratori. Abdomen tou, depressible, no dolorós a la palpació, presència d'aranyes vasculars i eritema malar. EEII sense signes de TPV, polsos presents.
+
+EXPLORACIÓ COMPLEMENTÀRIA
+EXPLORACIONS COMPLEMENTÀRIES A URGÈNCIES
+Analítica:
+-Equilibrio venoso: alcalosis respiratoria con acidosis metabólica leves.
+-Bioquímica: normal.
+-Cogulación: normal.
+-Hemograma: Hb 162. Plaquetes 286.000/uL. Leucòcits 10.800/uL (FN)
+Rx  de  tórax:  decúbito,  lateralizada,  mal  inspirada.  Pegat  de  desfibrilador. IC  >0,5.  No  otras  alteraciones valorables.
+ECG: salvas de TC de 20-30 latidos, alternando con bigeminismo.
+ECG posterior a perfusión de amiodarona: RS a 85lpm.
+TC cranial, TC de perfusió i angioTSA: Ictus isquémico en territorio superficial de la ACM D (ASPECTS 9), secundario a oclusión en segmento M1 distal de la rama de la división superior de dicha arteria. El estudio TC perfusión muestra alteración del flujo en el territorio superficial y profundo de ACM D, sin alteración del volumen, en relación con missmatch significativo.
+
+Angiografia i angioTAC:  Oclusió de M1 derecha sin conseguir recanalización tras 6 pases de dispositivo.
+
+EXPLORACIONS COMPLEMENTÀRIES A LA PLANTA DE NEUROLOGIA
+Analítica d'ingrés: funció renal (urea, creatinina, filtrat glomerular) normal, hiperK   5.95mmol/L, perfil hepàtic
+
+Informe d'epicrisi
+
+
+
+
+(ALT, AST, GGT, FA) normal a excepció d'AST elevat 0.68ukat/l, perfil lipídic (HDL, LDL, TG) normals, perfil tiroideu (tirotropina, tiroxina) normal, perfil glucídic alterat: HbA1c 6.6%, glucosa mitjana estimada 7.9mmol/L, folats disminuÏts 5.0mmol/L, cobalamines normals. Hemograma: sense anèmia, plaquetes normals, leucocitosis 14400 amb neutrofília, coagulació normal TTPA 0.85, TP 1.04. Serologies negatives. Proteïnograma pendent.
+
+
+
+EVOLUCIÓ CLÍNICA
+Ingressa a Neurologia a la uniat d'ictus després de iniciar rtpa sense resposta y plantejar trombectomia donat NIH de 18. El pacient a pesar de trombectomia no s´aconsegueix recanalització ingressant a unita d´ictus.
+Es manté am clínica de ACM complerta amb evolució a coma per edema e hipertensió intracraneal sen refractari a mesures antiedema per clínica i presentant posteriorment febre i broncoaspiració sens millora a pesar de tractament de suporta..
+D´acord a familia s´inicia tractament de confort sent exitus el 16-03-2017.
+
+DIAGNÒSTICS
+436/5 Ictus
+436 Malaltia cerebrovascular aguda,però maldefinida.Apoplexia,apoplèctic:atac,crisi;accident cerebrovasc.NOS
+
+PROCEDIMENTS
+89.09 Consulta, no especificada de cap altra manera
+93.14 Entrenament de moviments articulars
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+21.03.2017
+Pàgina 1 de 3

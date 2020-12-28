@@ -1,0 +1,187 @@
+
+
+
+
+
+Informe d'Alta Hospitalària	Cognoms i nom:
+_NAME_.	NHC:
+_ID_
+	ABS:
+_SS_	CIP:
+_ID_	DNI:
+_ID_
+	Data de naixement:
+_DATE_	Sexe:
+Dona	Edat:
+86a	Telèfon:
+_CONTACT_
+	Finançament:
+CatSalut - _LOCATION_	Procedència:
+URGÈNCIES
+	Admissió:
+16.06.2017 - 14:58	Servei:
+NEURO - UNITAT ICTUS HOSP	Data entrada urg.:
+16.06.2017 - 12:13
+Adreça:
+_LOCATION_	Població:
+_LOCATION_	Codi Postal:
+_LOCATION_
+
+
+
+Motivo ingreso:
+Mujer de 86 años que ingresa por ictus.
+
+
+ANTECEDENTES
+-	Sin alergias medicamentosas conocidas.
+-	No hábitos tóxicos
+-	FRV: Hipertensión en tratamiento médico, diabetes en tratamiento con ADOs (buenos controles, HbA1C de Febrero 2017 6.9%. Dislipemia e hipertrigliceridemia en analíticas de 2014-2015, sin tratamiento médico actual.
+-	Fibrilación  auricular  en  tratamiento  anticoagulante con  aldocumar,  previamente  con  sintrom  que  fue sustituido por Aldocumar mal control. Último INR hace 1 mes de 2.
+-	Enfermedad renal crónica estadio IV con FG entorno a 45ml/min/m3.
+-	Deterioro cognitivo moderado/grave sin diagnóstico, Pfeiffer 6 en Marzo 2017. En junio de 2016: Barthel de
+50. Test de LOBO de 14. Cuadros previos de emperoamiento marcado cuando se la traslada de su entorno habitual.
+-	Gonartrosis.
+-	Cataratas bilaterales.
+-	Glaucoma.
+-	Anemia ferropénica en 2012.
+-	Situación sociofuncional: Vive sola pero dispone una cuidadora durante el día de 9-21h, es independiente para la mayoría de las ABVD pero necesitaba supervisión y cierta ayuda para el aseo. Deterioro cognitivo moderado. Camina con bastón por la calle debido a la artrosis. mRS 3
+
+Medicación habitual:
+-	Aldocumar 1mg según pauta
+-	Azopt gotas cada 12h
+-	Dolocatil si precisa
+-	Lisinopril/HCTZ 20/12.5mg cada
+-	Orfidal 1mg cada 24h
+-	Trajenta 5mg (linagliptina) cada 24h
+
+
+ENFERMEDAD ACTUAL
+Mujer de 86 años con los antecedentes descritos a destacar FA anticoagulada recientemente con aldocumar, siendo vista por última vez asintomática el día 15/06 a las 20h. La cuidadora la ha encontrado el 16/06 a las 8.20h sudorosa y desorientada, sin alteraciones aparentes del lenguaje o la fuerza. Tras ducharla, sobre las 9h ha detectado una alteración en la emisión del lenguaje y debilidad en hemicuerpo derecho, motivo por el que avisan a su médico de cabecera quien acude a domicilio y detecta paresia en ESD y clínica sugestiva de afasia por lo que informa al SEM activándose código ictus extrahospitalario.
+
+EXPLORACIÓN FÍSICA
+A su llegada a urgencias
+Constantes: TA 179/98mmHg, FC 69, FR 20lpm, Sat de 98%. INR de 1.7, glicemia de 257
+-	AR: MVC sin ruidos añadidos. Eupneica al aire.
+-	AC: TCR con soplo sistólico en foco aórtico que no borra 2nT.
+-	Neurológica: A su llegada a urgencias (16/6): Vigíl, emite lenguaje escaso pero incoherente, no comprende, repite ni nomina, hemianospia derecha dudosa a la campimetría por amenaza, MOEs sin limitaciones, paresia facial central derecha, resto PPCC sin alteraciones, no paresia en extremidades, hipoestesia en ESD, dismetría no valorable. NIHSS = 0.2.2.0.2/1.0.0.0.0/0.1.3.0.0 = 11
+
+A su ingreso en Unidad de Ictus
+-	Vigil, falla el mes pero no la edad, mirada centrada sin limitaciones, inatenta, afasia mixta, obedece ordenes simples pero no semicomplejas, no nomina (emite palabras no inteligibles, con lenguaje espontaneo mejor conservado, repite en ocasiones palabras, no evoca correctamente, No paresia facial, trigemino sensitivo motor correcto, hemiparesia derecha 4/5 con Miller Fisher y Babinski derechos, dudosa hipoalgesia derecha. Disartria moderada.
+-	NIHSS= 0.1.0.0.0/0.0.1.0.1/0.1.2.2.0=8
+
+A su ingreso en Sala de Neurología
+-	Vigil. Desorientada en tiempo y espacio.
+-	Anomia, alteración en la comprensión del lenguaje. Apraxia motora. Agnosia visual. Confunde al personal sanitario con sus familiares (incluyendo su madre ya fallecida) y su cuidadora habitual.
+-	Heminopsia homónima derecha dudosa (antecedentes de cataratas y glaucoma).
+-	MOEs correctos. Disminución importante de visión en ojo izquierdo.
+-	Sin asimetría facial.
+-	Trigémino sensitivo normal.
+-	Pares craneales bajos sin alteraciones.
+-	Balance motor correcto en EESS, paresia 4+/5 en pierna D.
+-	Sin alteraciones de la sensibilidad táctil.
+-	Miller-Fisher correcto.
+-	RCP extensor izquierdo, flexor derecho.
+-	NIHSS: 3 (desorientación y paresia leve en EID).
+
+
+EXPLORACIONES COMPLEMENTARIAS
+-	TC craneal al ingreso: Dudosa área de borramiento cortical insular izquierdo Extensión de la afectación isquémica de ACM ASPECTS >6 Hiperdensidad focal a nivel de la bifurcación silviana de ACM izquierda. Otros hallazgos/comentario: Cambios involutivos inespecíficos. Impresión diagnóstica global: Dudoso foco de isquemia aguda insular izquierdo e hiperdensidad focal a nivel de la bifurcación silviana de ACM izquierda.
+
+Neurosonología (estudio incompleto):
+-	Dúplex TSA: Se exploran ambas ACC, ACI y ACE. Ateromatosis leve en ambas bifurcaciones carotídeas con flujo dentro de la normalidad (ausencia de estenosis).
+-	Dúplex TC: Mala ventana transtemporal derecha, sólo se visualiza ACP derecha con flujo normal. En el lado izquierdo, se explora ACM (M1 y M2), ACI terminal y la ACP, con flujo dentro de la normalidad sin signos de oclusión a nivel proximal.
+
+-	ECG: Ritmo sinusal.
+
+-	Telemetría en unidad de ictus: Predomina ritmo de FA.
+
+-	Analítica al ingreso: Sodi 136 mmol/L ( 136 - 145 ) Potassi 4,58 mmol/L ( 3,50 - 5,10 ) Glucosa 14,0
+mmol/L ( 3,0 - 6,0 ) 252,00 mg/100mL Urea 12,0 mmol/L ( 2,9 - 8,2 ) 72 mg/100mL Creatinina 131 µmol/L (
+0 - 80 ) 1,48 mg/100mL Bilirubina total 8 µmol/L (< 17) 0,44 mg/100mL AST (GOT) 19 U/L ( 0 - 31 ) ALT
+(GPT)  7  U/L  (  0  -  31  )  Fosfatasa  alcalina  214  U/L  (  35  -  110  )  HEMATOLOGIA-HEMATIMETRIA
+Hemograma Hemoglobina 104 g/L ( 120 - 150 ) Hematòcrit 0,33 L/L ( 0,35 - 0,45 ) Hematies 4,13 x10E12/L
+( 3,90 - 5,00 ) VCM 80,1 fL ( 80,0 - 98,0 ) CCMH 314 g/L ( 320 - 360 ) HCM 25,2 pg ( 27,0 - 32,0 ) RDW
+14,5 % ( 12,0 - 15,0 ) Plaquetes 225 x10E9/L ( 140 - 350 ) VPM 9,0 fL ( 7,0 - 10,5 ) Plaquetòcrit 0,30 %
+Leucòcits 10,63 x10E9/L ( 3,80 - 11,00 ) Fórmula leucocitària Neutròfils 82,4 % Neutròfils absoluts 8,76
+x10E9/L ( 1,80 - 7,00 ) Eosinòfils 0,6 % Eosinòfils absoluts 0,06 x10E9/L ( 0,05 - 0,50 ) Basòfils 0,2 %
+Basòfils absoluts 0,02 x10E9/L ( 0,00 - 0,10 ) Monòcits 7,5 % Monòcits absoluts 0,80 x10E9/L ( 0,30 - 1,00 ) Limfòcits 9,3 % Limfòcits absoluts 0,99 x10E9/L ( 1,00 - 4,00 ) HEMOSTÀSIA Temps de tromboplastina 1,09 RATIO ( 0,75 - 1,30 ) Temps de protrombina 1,87 INR ( 0,75 - 1,20)
+
+-	TC craneal control 24h: Actualmente no se llega a definir una lesión isquémica aguda establecida ni otras alteraciones respecto al estudio de ayer, sin identificarse en este estudio el pequeño foco hiperdenso en la bifurcación silviana de ACM izquierda que sugería un pequeño trombo. No se aprecian signos de hemorragia i otras nuevas alteraciones. CONCLUSION : Sin lesiones agudas-subagudas aparentes isquémicas ni hemorrágicas.
+
+-	Analítica de control: Hemograma con Hb 100 normocítica, normocroma. Estudio básico de  anemia: Probable anèmia mixta: Anèmia ferropènica Anèmia associada a l' insuficiència renal. Perfil lipídico normal. Creatinina 102 con Urea normal. TSH normal, lues y VIH negativos. Sin otras alteraciones relevantes.
+
+-	RMN craneal: Pequeños infartos establecidos en fase subaguda de distribución parcheada en territorio superficial frontoinsular, con afectación cortical y subcortical que no condicionan compromiso de linea media, Pequeños focos de leucoaraiosis en la sustancia blanca cerebral que globalmente resulta en grado leve, particularmente para la edad, con leve ventriculomegalia de aspecto involutivo. No se aprecian alteraciones de la señal de resonancia de parénquima cerebral, cerebeloso ni del tronco del encéfalo, sin identificarse focos de microsangrado. El estudio angiográfico IC muestra correcta permeabilidad de los sectores incluidos. Leve dilatación ventricular y de surcos corticales probablemente parcialmente obliterados  por  la  propia  hiperostosis. Línea  media  centrada.  Cisternas  de  la  base  libres.  Charnela
+
+
+cráneo-cervical normal. CONCLUSIÓN: Estudio RM craneal que muestra pequeños infartos discontinuos distribuidos por territorio superficial cortical y subcortical frontoinsular, sin compromiso de linea media ni hallazgos angiográficos significativos.
+
+-	Sedimento urinario: Positivo para Proteus Mirabilis.
+
+
+
+EVOLUCIÓN
+-	Llega al hospital a las 12.13h. A su llegada, con ligera hipertensión e INR de 1.7. Se detecta paresia facial D, afasia, dudosa HHD e hipoestesia en ESD, puntuando un NIHSS: 11. Se realiza TC craneal que muestra un dudoso foco de isquemia aguda insular izquierda e hiperdensidad focal a nivel de la bifurcación silviana de la ACM izquierda. Se orienta como un ictus de la ACM izquierda de mecanismo cardioembólico en contexto de infradescoagulación. Dado el mRS previo, la edad y el INR, se desestima el tratamiento de reperfusión con rTPA intravenoso.
+-	Se decide ingreso en unidad de ictus para monitorización y control evolutivo.
+
+-	Durante su estancia se mantiene monitorizada por telemetría con ritmo de FA. Se realiza test de disfagia que resulta negativo por lo que se inicia dieta oral. Es valorada por medicina rehabilitadora quien inicia fisioterapia.
+-	El TC control a las 24h no muestra lesiones isquémicas agudas, con desaparición de la hiperdensidad en ACM izquierda por lo que se inicia anticoagulación con heparina sódica.
+-	Progresivamente va recuperando el déficit motor facial y sensitivo en ESD y la alteración del lenguaje siendo capaz de nominar, repetir frases y obedecer órdenes complejas.
+-	Dada la buena evolución es traslada a sala de neurología donde se inicia anticoagulación con NACO (Eliquis). Se completa estudio etiológico del ictus con analítica, que no muestra alteraciones relevantes, a excepción de una anemia asociada a la enfermedad renal con componente ferropénico, por lo que se inicia ferroterapia. La RMN craneal evidencia pequeños infartos en territorio superficial cortical y subcortical frontoinsular.
+-	Además, por presentar deterioro cognitivo no estudiado se solicita analítica con factores de maduración y serologías que resultan normales. Se intenta realizar escala de MOCA que no se consigue por escasa colaboración. El conjunto de datos orienta hacia enfermedad degenerativa de tipo E. Alzheimer.
+-	Como complicaciones presenta una infección del tracto urinario por lo que se inicia antibioterapia empírica con amoxicilina-clavulánico.
+-	Finalmente, se decide alta a domicilio habitual. NIHSS al alta: 3 , mRS al alta: 4.
+
+
+PROCEDIMIENTOS
+-ECG
+-Telemetría
+-Analítica
+-TC craneal
+-Neurosonología
+
+
+-RMN craneal
+-Sedimento urinario
+
+
+DIAGNÓSTICOS
+-	Ictus   isquémico   en   territorio   de   ACM   izq   de   probable   etiología   cardioembólica  por   FA infradescoagulada.
+-	Deterioro cognitivo a estudio (sospecha enfermedad de Alzheimer)
+-	Infección urinaria
+
+
+MEDICACIÓN  AL  ALTA
+-	Eliquis 5mg/12h vo.
+-	Lisinopril-hidroclorotiazida 20mg/12'5mg 1c/dia vo.
+-	Trajenta 5mg/dia vo.
+-	Azopt 10mg/ml colirio en suspensión, 1g/12h.
+
+
+TRATAMIENTO Y RECOMENDACIONES AL ALTA
+Recomendaciones generales
+-	Tratamiento de la hipertensión arterial, manteniendo cifras por debajo de 130/85.
+-	Control  y  tratamiento  de  las  enfermedades  cardiacas  (cardiopatía  isquémica,  insuficiencia  cardiaca, arritmias y valvulopatías).
+-	Evitar consumo excesivo de alcohol (se permite una o dos bebidas al día).
+-	Vigilancia y tratamiento del perfil lipídico:
+-	Dieta pobre en grasas, actividad física apropiada.
+-	Tratamiento farmacológico si precisa para mantener niveles de LDL<100mg/dl.
+-	Control de la glucemia, que debe ser <126mg/dl en ayunas, con dieta, antidiabéticos orales o insulina si precisa.
+-	Realizar actividad física, 30 a 60 minutos, de tres a cuatro veces a la semana.
+-	Continuar el tratamiento antiagregante o anticoagulante a las dosis recomendadas, siguiendo los controles necesarios.
+-
+-	Acudir a visita con Hospital de día de Geriatría para valoración de deterioro cognitivo.
+
+
+
+Responsable clínic: Dr. _NAME_ (NºCol. _ID_)
+Equip mèdic: _NAME_ (NºCol. _ID_), Dra. _NAME_ (NºCol. _ID_)
+
+Servei que ha donat d'alta:
+NEUROLOGIA HOSP	Data d'alta:
+27.06.2017	Nom del metge que informa de l'alta:
+Dr. _NAME_ (NºCol. _ID_)
+
+
+Barcelona, 27.06.2017
+Pàg. 1 de   5

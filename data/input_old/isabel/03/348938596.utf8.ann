@@ -1,0 +1,55 @@
+T1	_SUG_Lateralizacion 1 2	I
+T2	_SUG_Lateralizacion 13 14	E
+T3	_SUG_Lateralizacion 15 16	D
+T4	Fecha_de_ingreso 100 110	09/03/2017
+#4	AnnotatorNotes T4	2017-03-09
+T7	FECHA 655 664	mayo 2007
+#7	AnnotatorNotes T7	2007-05-UNDEF-day
+T8	_SUG_Lateralizacion 693 694	e
+T9	FECHA 1053 1066	marzo de 2016
+#9	AnnotatorNotes T9	2016-03-UNDEF-day
+T10	FECHA 1105 1109	2001
+#10	AnnotatorNotes T10	2001-UNDEF-month-UNDEF-day
+T11	FECHA 1347 1351	2014
+#11	AnnotatorNotes T11	2014-UNDEF-month-UNDEF-day
+T12	FECHA 1377 1381	2014
+#12	AnnotatorNotes T12	2014-UNDEF-month-UNDEF-day
+T13	FECHA 1423 1431	oct 2016
+#13	AnnotatorNotes T13	2016-10-UNDEF-day
+T14	FECHA 1471 1475	1996
+#14	AnnotatorNotes T14	1996-UNDEF-month-UNDEF-day
+T15	_SUG_Lateralizacion 1527 1528	D
+T16	FECHA 1529 1535	nov 14
+#16	AnnotatorNotes T16	2014-11-UNDEF-day
+T17	_SUG_Lateralizacion 1983 1990	derecha
+T18	_SUG_Lateralizacion 2924 2931	derecha
+T19	_SUG_Lateralizacion 3920 3929	bilateral
+T20	_SUG_Lateralizacion 3940 3944	dret
+T21	_SUG_Lateralizacion 3971 3974	esq
+T24	_SUG_Localizacion 4057 4065	talámica
+T27	_SUG_TAC_craneal 4131 4134	TAC
+T28	_SUG_Lateralizacion 4219 4223	izda
+T29	_SUG_Etiologia 4342 4354	Ateromatosis
+T30	_SUG_Arteria_afectada 4355 4364	carotídea
+T31	_SUG_Lateralizacion 4365 4374	bilateral
+T32	_SUG_Lateralizacion 4396 4403	derecho
+T33	_SUG_Arteria_afectada 4684 4693	carotídea
+T35	Ictus_isquemico 5234 5249	Ictus isquémico
+T36	Arteria_afectada 5256 5259	ACM
+T37	SECCION_ANTECEDENTES_PATOLOGICOS 361 373	APatológicos
+T38	SECCION_TRATAMIENTO_HABITUAL 1554 1574	Tratamiento habitual
+T39	SECCION_PROCESO_ACTUAL 1843 1860	Enfermedad Actual
+T40	SECCION_EXPLORACIONES_COMPLEMENTARIAS 3003 3032	Exploraciones Complementarias
+T42	SECCION_EVOLUCION 4406 4415	Evolución
+T43	SECCION_DIAGNOSTICOS 5210 5232	Valoracion Diagnóstica
+T44	SECCION_TRATAMIENTO_Y_RECOMENDACIONES_AL_ALTA 5335 5339	Plan
+T6	SECCION_EXPLORACION_FISICA_DURANTE_HOSPITALIZACION 2589 2606	EFísica en planta
+T22	SECCION_EXPLORACION_FISICA_EN_URGENCIAS 2490 2514	A su llegada a urgencias
+T45	Fecha_inicio_sintomas 1892 1893	8
+#1	AnnotatorNotes T45	08/03/2019
+T46	Fecha_de_alta 124 134	15/03/2017
+T47	Hora_inicio_sintomas 1904 1906	23
+T34	Lateralizacion 5260 5263	izq
+T49	Etiologia 5286 5300	cardioembolica
+T50	Tratamiento_anticoagulante_alta 5341 5348	Eliquis
+T5	TAC_craneal 4038 4048	TC craneal

@@ -1,0 +1,94 @@
+INFORME ALTA HOSPITALARIA
+_NAME_
+Núm. Episodi: _ID_ Núm. HC: _ID_
+_SS_ _LOCATION_
+_LOCATION_
+Tel. _CONTACT_: _LOCATION_	C.A.P.: _SS_
+Població: _LOCATION_	Sexe: HOME  Data naixement: _DATE_  Edat: 68a
+Telèfon: _CONTACT_  C.P.: _LOCATION_	T.I.S.: _ID_   DNI/NIF: _ID_
+Procedència:	Data Ingrés Hospital: 15/05/2017
+Servei assistencial: NEUROLOGIA HOSP	Data Ingrés Servei: 15/05/2017
+Metge Responsable: _NAME_	Data Alta: 23/05/2017
+
+
+MOTIVO DE INGRESO: Déficit sensitivo en hemicuerpo derecho
+
+ANTECEDENTES PERSONALES:
+-	Exumador de 3 paquete/día desde los 6 años.
+-	Niega hábito enólico.
+1.	Hipertensión arterial en tratamiento farmacológico
+2.	Diabetes mellitus tipo 2 en tratamiento con antidiabéticos orales
+3.	Dislipemia en tratamiento con estatinas
+4.	Fibrilación auricular diagnosticada en 2010, en tratamiento anticoagulante con pradaxa.
+5.	Accidente vascular cerebral en 2012 de origen cardioembólico por fibrilación auricular. La ECO-doppler de troncos supraaórticos mostró ateromatosis moderada y placa calcificada en bulbo carotídeo derecho
+6.	Obesidad moderada
+7.	Intervenciones quirúrgicas: hernia inguinal derecha
+
+Situación sociofuncional: Vive solo y es independiente para las ABVD. mRS 0. Tratamiento habitual: Metformina, Enalapril, Pradaxa y Simvastatina
+
+
+ENFERMEDAD ACTUAL:
+Paciente de 82 años con buena calidad de vida previa que el día 15 de mayo se despierta con parestesias en cara y brazo derecho, que posteriormente evolucionan a pierna derecha. Se activa código ictus a las 9.24h pero se desactiva por mínima focalidad y mejoría clínica posterior.
+
+
+EXPLORACIÓN FÍSICA: EO.
+Buen estado general. Bien hidratado y prefundido. Normocoloreado de piel y mucosas. Eupneico en reposo. ACR: tonos cardíacos arrítmicos, sin signos de fallo.Murmullo vesicular conservado, sin ruidos sobreañadidos.
+
+E.NRL:
+Buen nivel de vigilancia. Funciones superiores conservadas. Pupilas isocóricas normoreactivas, no alteraciones de pares craneales, no focalidad motora. Hipoestesia en hemicuerpo derecho. No dismetrías. NIHSS 1, mRS 1.
+
+
+EXPLORACIONES COMPLEMENTÀRIAS:
+Urgencias
+Analítica:
+Hemograma: Hematíes 5.13x1E12/L, HCM 31.0 pg/cel, Hemoglobina 15.9 g/dL, Proteína C reactiva
+0.9 mg/dL, Hematocrito 48.5%, VCM 94.5 fL, Leucocitos 6.28x1E9/L, Plaquetas 188x1E9/L. Bioquímica: Glucosa basal 377.2 mg/dL, Creatinina 1.0 mg/dL, Potasio 4.6 mmol/L, FG Hombre Crea alta 73.86, Urea 38.7 mg/dL, Sodio 135.0 mmol/L, Cloruro 94.2 mmol/L.
+Coagulación:  Tiempo  de  protrombina  1.16,  Tiempo  de  Tromboplastina  parcial  44.2s,  Tiempo  de Protrombina 82%, INR 1.2, Tiempo de Tromboplastina parcial (ratio) 1.43.
+
+Rx de tórax: radiografía en decúbito, no bien centrada ni inspirada. No se objetivan claras condensaciones ni signos de redistribución vascular. Silueta cardíaca aumentada de tamaño y  mediastino agrandado probablemente en el contexto de decúbito.
+TC craneal: Estructures de línia mitja no desplaçades. Moderada prominència d'espais aracnoïdals dels solcs de la convexitat i dels valls silvians-insulars, amb lleu dilatació ventricular compatible amb atròfia cortico- subcortical cerebral.LLeu leucoencefalopatia hipòxic-isquèmica periventricular. No hi ha imatges de sagnat intra ni extraparenquimatoses. Infarts lacunars crònics a nucli lenticular dret i àrreee hipodenses a centres semiovals en relació a vasculopatia de petit vas. Cisternes perimesencefàliques i de la base lliures. Gran desviació de l'envà nasal. No es veuen fractures de calota cranial.
+
+Planta de hospitalización
+Analítica:
+Hemograma: Hematíes 4.5x1E12/L, HCM 32 pg/cel, Hemoglobina 14.4 g/dL, Hematocrito  42.7%, VCM
+94.9 fL, Leucocitos 5.49x1E9/L, Plaquetas 207x1E9/L.
+Bioquímica: Glucosa basal 186.9 mg/dL, HbA1c 13.6%, Creatinina 1 mg/dL, Potasio 4.5 mmol/L, FG Hombre Crea alta 81, Sodio 137 mmol/L, Cloruro 100 mmol/L, Calcio 9.4 mg/dL, Proteínas 65 g/L, Albúmina 40 g/L, AST 21.6 U/L, ALT 24.6U/L, GGT 40.2U/L, Colesterol total 100 mg/dL, Colesterol HDL
+34.4 mg/dL, Colesterol LDL 46.4 mg/dL, Triglicéridos 105.9 mg/dL. ECG: FA con FVM de 100lpm.
+Eco-doppler de troncos supra-aórticos:
+A. VERTEBRALS: Flux de direcció cranial amb pics de velocitat sistòlica asimètrics, 56 vs 40 cm/s. EIX  CAROTIDI  DRET:  No  hi  ha  engruiximent  de  l'íntima  arterial  elongació  CPD.  IMT  0.9  mm. S'identifica en el bulb carotidi dret, engruiximent de l'íntima arterial i placa calcificada amb ombra posterior a la paret posterior del bulb carotidi, que condiciona una estenosi de la llum vascular, que es valora entre 50-69 %. Els registres espectrals no mostren signes d'alteració hemodinàmica d'alt grau amb un pic sistòlic de velocitat màxima, concordant (PSV) CID de 71 cm/s i amb un quocient CPD-CID de 1.05. Calcificació CED. Elongació trajecte cervical CID.
+EIX CAROTIDI ESQUERRE: No hi ha engruiximent de l'íntima arterial elongació CPE. IMT 0.9 mm. S'identifica en el bulb carotidi esquerre, engruiximent de l'íntima arterial i placa hipoecogènica a la paret anterior del bulb carotidi, que condiciona una estenosi de la llum vascular, que es valora en <50 %. Els registres espectrals no mostren signes d'alteració hemodinàmica d'alt grau amb un pic sistòlic de velocitat màxima, concordant ( PSV) CIE de 90 cm/s i amb un quocient CPE-CIE de 0.7. Calcificació CEE. Elongació trajecte cervical CIE.
+
+
+EVOLUCIÓN:
+Paciente que ingresa por síndrome sensitivo izquierdo en el contexto de glicemias descontroladas pese a su tratamiento antidiabético. Se observa que en los días previos, se estuvo reajustando las glicemias por mal control, llegando el día del ictus a presentar 377.2mg/dl. Se activó código ictus a las 9.24h en urgencias pero se desactivó por presentar mínima focalidad y mejoría clínica posterior en relación a la mejoría de glicemias, aunque persiste discreta parestesias facio-braquial izquierdo, mejorando a nivel crural.
+Durante su ingreso en planta de neurología, el paciente se ha presentado estable  hemodinámicamente llegando a controlar las glicemias mediante la intensificación del tratamiento antidiabético,  introduciendo insulina lenta por las noches, presentando glicemias alrededor de 140-160mg/dl). En el estudio analítico de control se observa una HbA1c muy elevada de 13.6% con perfil lipídico controlado (LDL 46.4mg/dl). Tampoco a requerido tratamiento hipotensor controlando con dieta con lo que se le suspende tratamiento con control y evolución por su MAP. En ecodoppler TSA se observa placas de ateroma bilateral siendo de mayor tamaño en la ACI derecha pero sin repercusión hemodinámica en ninguna de los dos ejes carotídeos.
+Dado el cuadro clínico y el estudio de neurosonología, la etiología sería de pequeño vaso (lacunar) en el contexto de diabetes mal controlada por lo que no variamos el tratamiento anticoagulante pero si intensificamos el control y tratamiento de los FRV (sobretodo glicemias).
+
+Al alta el paciente continua presentando parestesias e hipoestesia facio-braquial izquierda sin otra focalidad neurológica. NIHSS 1 mRS 1
+
+JUICIO CLÍNICO:
+Síndrome sensitivo puro izquierdo regresivo.
+Ictus lacunar talámico derecho. (LACI derecho) de etiología de pequeño vaso. Diabetes mellitus descompensada.
+Ateromatosis bilateral sin repercusión hemodinámica con mayor afectación en carótida derecha. Fibrilación auricular crónica.
+
+
+TRATAMIENTO:
+Dieta diabética baja en sal.
+Realizar ejercicio de forma diaria (mínimo deambular 30min al día). Dejar el hábito tabáquico.
+
+Pradaxa 150mg cada 12h Simvastatina 40mg cada 24horas Lorazepam 1mg por la noche.
+Metformina 850mg cada 8horas. Januria 50mg cada 12 horas.
+Insulina lantus 24 Ui a las 23h.
+
+Control de los factores de riesgo vascular, en especial las glicemias e hipertensión arterial, por parte de su médico de atención primaria, reajustando la medicación si lo considera necesario.
+Control en consultas externas de neurología en 3 meses para valorar evolución.
+
+
+Atentamente, Firmado:
+Dr.: _NAME_	Dra.: _NAME_
+Metge adjunt - Neurologia	Metge resident-MFYC
+Número col·legiat: _ID_	Número col·legiat: _ID_
+
+Hospitalització
+Imprès: 23/05/2017 12:31
+Pàg.: 1 de  3

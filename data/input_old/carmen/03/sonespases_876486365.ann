@@ -1,0 +1,114 @@
+T1	Fecha_de_alta 15 25	18-04-2018
+#1	AnnotatorNotes T1	2018-04-18
+T4	Arteria_afectada 90 93	ACM
+T5	Lateralizacion 94 95	D
+T6	_SUG_Lateralizacion 102 103	D
+T7	_SUG_NIHSS 177 182	NIHSS
+T8	Etiologia 233 246	INDETERMINADA
+T9	Arteria_afectada 314 323	CAROTIDEA
+T10	Lateralizacion 324 333	BILATERAL
+T11	_SUG_Ataque_isquemico_transitorio 374 379	Ictus
+T12	_SUG_Ataque_isquemico_transitorio 438 443	Ictus
+T13	_SUG_Ataque_isquemico_transitorio 510 515	ICTUS
+T14	_SUG_Ictus_isquemico 510 525	ICTUS ISQUEMICO
+T15	mRankin_previa 802 807	mRS 0
+T16	_SUG_Trombolisis_intravenosa 930 949	tratamiento con AAS
+T19	_SUG_Ataque_isquemico_transitorio 1320 1325	ictus
+T20	_SUG_Lateralizacion 1421 1430	izquierda
+T21	Hora_inicio_sintomas 1574 1579	22:50
+#21	AnnotatorNotes T21	22:50
+T22	_SUG_Ataque_isquemico_transitorio 1601 1606	ictus
+T23	HORA 1608 1613	22:51
+#23	AnnotatorNotes T23	22:51
+T24	Hora_llegada_hospital 1635 1640	23:22
+#24	AnnotatorNotes T24	23:22
+T25	_SUG_TAC_craneal 1648 1650	TC
+T26	Hora_TAC_inicial 1651 1656	23:44
+#26	AnnotatorNotes T26	23:44
+T27	HORA 1666 1671	00:20
+#27	AnnotatorNotes T27	00:20
+T28	HORA 1691 1695	0:17
+#28	AnnotatorNotes T28	0:17
+T29	_SUG_Lateralizacion 2017 2024	derecha
+T30	_SUG_Lateralizacion 2070 2079	izquierda
+T31	_SUG_Lateralizacion 2146 2155	izquierda
+T32	_SUG_Lateralizacion 2455 2462	derecho
+T33	_SUG_Lateralizacion 2473 2482	izquierdo
+T34	_SUG_NIHSS 2511 2514	NIH
+T35	_SUG_Lateralizacion 2581 2586	Ambas
+T36	_SUG_Lateralizacion 2620 2625	Ambas
+T37	_SUG_Localizacion 2769 2776	parcial
+T38	_SUG_Lateralizacion 2820 2829	izquierdo
+T39	_SUG_Lateralizacion 2857 2864	derecha
+T40	_SUG_Lateralizacion 2892 2901	izquierda
+T41	NIHSS_previa 3121 3143	PUNTUACION TOTAL NIH:8
+T42	_SUG_Lateralizacion 3169 3174	ambos
+T44	Fecha_TAC_inicial 3938 3948	15-04-2018
+#44	AnnotatorNotes T44	2018-04-15
+T45	_SUG_TAC_craneal 4252 4254	TC
+T46	FECHA 4278 4288	15-04-2018
+#46	AnnotatorNotes T46	2018-04-15
+T47	_SUG_Localizacion 4358 4374	parietooccipital
+T48	_SUG_Lateralizacion 4375 4382	derecho
+T49	FECHA 4469 4479	15-04-2018
+#49	AnnotatorNotes T49	2018-04-15
+T50	_SUG_Etiologia 4492 4504	ateromatosis
+T51	_SUG_Lateralizacion 4612 4617	ambas
+T52	_SUG_Arteria_afectada 4645 4648	ACM
+T53	_SUG_Arteria_afectada 4650 4653	ACA
+T54	_SUG_Lateralizacion 4684 4691	derecha
+T55	_SUG_Lateralizacion 4722 4731	izquierda
+T56	_SUG_Lateralizacion 4780 4787	derecha
+T57	_SUG_Arteria_afectada 4811 4827	vertebro basilar
+T58	_SUG_Lateralizacion 4851 4858	derecha
+T59	_SUG_Lateralizacion 4942 4949	derecha
+T60	_SUG_Ictus_isquemico 4954 4961	infarto
+T61	_SUG_Lateralizacion 5210 5217	derecho
+T62	_SUG_Lateralizacion 5279 5284	ambas
+T63	_SUG_Lateralizacion 5327 5332	ambas
+T64	_SUG_Etiologia 5663 5675	Ateromatosis
+T65	_SUG_Arteria_afectada 5676 5685	carotidea
+T67	_SUG_TAC_craneal 6174 6186	TAC Cerebral
+T68	_SUG_Localizacion 6205 6222	parieto-occipital
+T69	_SUG_Lateralizacion 6223 6230	derecha
+T70	_SUG_Ictus_isquemico 6246 6253	infarto
+T71	_SUG_NIHSS 6650 6660	NIHSS de 8
+T72	_SUG_Localizacion 6691 6698	parcial
+T73	_SUG_Lateralizacion 6811 6820	izquierda
+T74	_SUG_Lateralizacion 6844 6853	izquierda
+T75	_SUG_NIHSS 6862 6885	NIHSS total de 3 puntos
+T76	_SUG_Ataque_isquemico_transitorio 7029 7034	Ictus
+T77	_SUG_Lateralizacion 7112 7125	indeterminada
+T78	_SUG_Etiologia 7172 7184	ateromatosis
+T79	_SUG_Arteria_afectada 7185 7194	carotídea
+T80	_SUG_Lateralizacion 7195 7204	bilateral
+T81	_SUG_Lateralizacion 7313 7318	ambos
+T82	_SUG_TAC_craneal 7341 7349	angioTAC
+T84	_SUG_Ictus_isquemico 7588 7595	infarto
+T85	_SUG_Lateralizacion 7617 7624	derecho
+T86	_SUG_TAC_craneal 7631 7634	TAC
+T87	_SUG_Ataque_isquemico_transitorio 8088 8093	Ictus
+T89	_SUG_Lateralizacion 8454 8459	dieta
+T93	SECCION_DIAGNOSTICOS 27 39	Diagnosticos
+T94	SECCION_PROCEDIMIENTOS 335 349	Procedimientos
+T95	SECCION_MOTIVO_DE_INGRESO 412 429	Motivo de ingreso
+T96	SECCION_ANTECEDENTES_PATOLOGICOS 712 732	Antecedentes Médicos
+T97	SECCION_SITUACION_FUNCIONAL 778 793	Situación basal
+T98	SECCION_TRATAMIENTO_HABITUAL 1123 1147	Tratamiento domiciliario
+T99	SECCION_EXPLORACION_FISICA 1704 1715	Exploración
+T100	SECCION_EXPLORACIONES_COMPLEMENTARIAS 3487 3521	Resultados pruebas complementarias
+T101	SECCION_EXPLORACIONES_COMPLEMENTARIAS_EN_URGENCIAS 3528 3555	Analítica Sanguínea urgente
+T102	SECCION_EVOLUCION 6572 6594	Evolución Hospitalaria
+T103	SECCION_TRATAMIENTO_Y_RECOMENDACIONES_AL_ALTA 8399 8436	Recomendaciones y tratamiento al alta
+T104	SECCION_TRATAMIENTO_AL_ALTA 9180 9206	Tratamiento médico al alta
+T2	Ictus_isquemico 43 66	ECVA ISQUÉMICA: INFARTO
+T3	Arteria_afectada 98 101	ACP
+#2	AnnotatorNotes T15	0
+T17	SECCION_PROCESO_ACTUAL 1224 1233	Anamnesis
+#3	AnnotatorNotes T41	NIHSS=8
+T18	Tratamiento_antiagregante_alta 9210 9232	Ácido acetilsalicílico
+T66	Fecha_inicio_sintomas 3938 3948	15-04-2018
+#4	AnnotatorNotes T66	2018-04-15
+T83	Fecha_llegada_hospital 3938 3948	15-04-2018
+#5	AnnotatorNotes T83	2018-04-15
+T88	TAC_craneal 3901 3911	TC cerebro

@@ -1,0 +1,96 @@
+I.CLINIC DE NEUROCIÈNCIES
+
+_NAME_	NEUROLOGIA	NHC: _ID_
+Sexo/Sexe: Fem.
+Dirección/Adreça: _LOCATION_	Fecha nac./Data naix.: _DATE_	Edad/Edat: 83 años
+CP: _LOCATION_
+Municip. (Prov.): _LOCATION_  ABS:_SS_	Tel.:_CONTACT_
+As.: SERVEI CATALA DE LA SALUT Nº epis.: _ID_
+Serv: NEUROLOGIA	CIP: _ID_
+Tipo/Tipus: HOSPIT.
+UO Enf.: I064 SALA G DE NEUROL. INTE	NASS: _ID_
+Inici.: 28.04.2017
+Hora: 16:42:42
+
+
+Tipo ingreso/Tipus ingrés: Urgent	Motivo/Motiu alta: Hospital Ag.
+Diag.:
+ICTUS ISQUÉMICO ()
+Proc.:
+
+
+
+
+INFORME CLÍNICO ALTA / INFORME CLÍNIC ALTA
+
+Motivo de consulta / Motiu de consulta
+Debilidad súbita de extremidades izquierdas.
+
+Antecedentes e historia previa / Antecedents i història prèvia
+** ANTECEDENTES PERSONALES:
+Mujer de 83 años, sin alergias medicamentosas conocidas, sin hábitos  tóxicos. Independiente para las actividades básicas de la vida diaria (mRs:2, requiere ayuda la higiena, camina sola).
+
+** ANTECEDENTES PATOLÓGICOS:
+1.- HIPERTENSIÓN ARTERIAL en tratamiento antihipertensivo con 3 farmacos.
+2- TAQUICARDIA PAROXÓISTICA SUPRAVENTRICULA (2005) No informes, Desconocemos más datos. En 2013 repite misma clinica, TPSV que autolimita: ECG a UCIAS: TPSV a 180 bpm, BRDHH. Elevación del ST de 2- 3mm en aVr y descenso del ST en DII, DII, aVF, V2-V6. ECG control: RS a 80 bpm, BRDHH (conocido), sin signos de isquèmia  aguda. MIBI-Spect: Se realiza estudio de perfusión miocárdica, con Dipiridamol, sin complicaciones y sin evidencia de isquèmia bajo estímulo. Visitada por cardiología hasta 2014. Ecocardio 2014: 1- Ventrículo izquierdo no dilatado, ligeramente hipertrófico y con función sistólica conservada. Disfunción diastólica grado 1. 2- Aurícula izquierda severamente dilatada. 3- Raíz aórtica y aorta ascendente de diámetros conservados. Sigmoideas aórticas engrosadas, parcialmente calcificadas. EAo ligera. 4- Anillo mitral calcificado. INSUFICIENCIA MITRAL MODERADA-SEVERA 5- Cavidades derechas dilatadas. VD DILATADO con contractilidad conservada. INSUFICIENCIA TRICUSPIDEA SEVERA con HIPERTENSIÓN PULMONAR SEVERA. 6- Pericardio normal..
+4-	HIPERTIROIDISMO en tratamiento con Tirodril y BB. No segurix control para endocrino. Siempre ha llevado la meteixa dosis (5 mg / día). No transgresiones medicamentosas.
+5-	OSTEOPOROSIS en tratamiento con Bifosfonatos semanales Ca y VitD. 6- HIPERCOLESTEROLEMIA en tratamiento farmacológicos
+7- HEPATITIS hace años en Córdoba, que no sabe precisar y tampoco aporta informes. 8- Apendicectomizada.
+9 - Incontinencia urinaria hace años intervenida.
+10- Iqx de cataratas OD, pendiente de intervención en el izq.
+
+TRATAMIENTO MÉDICO HABITUAL: Valsartan/Hidroclorotiazida 320/25 umg c/24h. Manidon 80 MG c/24h Bisoprolol 5 mg c/24h. Tirodril 5 mg c/24h. Pontalsi 37.5/325 mg c/12h. Serc 8 mg c/8h. Amlodipino 5 mg C/24h. Efferalgan 1 gr c/8h. Adiro 100 mg c/24h.
+
+Proceso actual / Procés actual
+Mujer de 83 años que estaba ingresada en el _SS_ por TSPV con inestabilidad hemodinámica que requirió 2 cardioversiones eléctricas con posterior paso a ritmo sinusal, con elevación de Troponina y Ecocoardio sin presencia de trombos intracardiacos ni signos de derrame pericardico.
+El 28.04.2017 a las 3:00h presenta debilidad de extremidades izquierdas, por lo que se activa código ictus. Última vez vista asintomática 30 minutos antes que había ido al baño.
+
+Exploración física / Exploració física
+28/04/2017-16:44:00: FiO2 (%) 31, Frecuencia respiratoria (rpm) 16, Glic emia capilar (mg/dl) 89, PAS (mm Hg) 178, PAD (mm Hg) 64, Pulsioximetría  (%) 97, Tª axilar (ºC) 36.2.
+Hemodinámicamente estable, afebril, eupeica, normotensa
+NRL: Consciente, orientada en persona y espacio, desorientada en tiempo. Lenguaje hipofluente sin rasgos afásicos. Mirada centrada sin limitaciones. Cuadrantanopsia inferior izquierda. Disartria leve. Paresia facio (leve)-braquio (4/5)-crural (2/5) izquierda. hemihipoestesi izquierda. Dismetría de extremidades izquierdas. NIHSS: 6
+
+Exploraciones complementarias / Exploracions complementàries
+
+RM CEREBRAL: existen varias lesiones puntiformes sugestivas con restricción en la difusión, sugestivas de pequeños infartos en territorio de la arteria cerebral media derecha.
+TC CRANEAL MULTIMODAL: Estructuras de la línea media centradas. Sistema ventricular de tamaño conservado, simétrico. No se observan signos de sangrado agudo intra ni extra axial. Cisternas de la base no colapsadas. En el estudio angio TC se apreca una imagen sugestiva de trombo parcial a nivel de la ACM M1 distal derecha.. No se aprecia repleción de la rama temporal anterior. En los mapas de TC perfsuón se aprecia un retraso en territorio temporal superficial y parte del parietal derecho. Derraame plerua bilateral de predominio derecho. Ateromatosis anivel del cayado, origen de la vertebral derecha y bifuración de la carótida derecha. Placa ateromatosa anivel del tercio inferior y craneal de la carótida comun izda. Estudio artefactuado por los movimientos de la paciente
+
+Evolución / Evolució
+1.- ICTUS ISQUÉMICO EN TERRITORIO DE LA ARTERIA CEREBRAL MEDIA DERECHA (ACMD).
+A su llegada a nuestro centro la paciente se encuentra hemodinámicamente estable, afebril, en la exploración neurológica la paciente presenta síndrome hemisférico derecho parcial (NIHSS: 7). El ECG en ritmo sinusal. La analítica sanguinea sin alteraciones relevantes. La neuroimagen (TC Multimodal) en la secuencia basal sin signos de lesión isquémica aguda, el angio-TC muestra trombo suboclusivo en segmento M1 distal de la ACMD, con área de penumbra isquémica en los mapas de perfusión.
+Se orienta como ictus isquémico en territorio de la ACMD por lo que se inicia tratamiento fibrinolítico con r-tPA a las 04:29 am y se traslada a DIVAS donde se inicia trombectomía mecánica con punción femoral a las 5:05, tras aspiración y 2 pases de TREVO se consigue recanlización completa TICI 3. Durante el procedimiento la paciente presenta inquietud y agitación por lo que requiere 10 mg de Haloperidol. TC craneal de control no muestra complicaciones hemorrágicas.
+Durante su estancia en Unidad de Ictus la paciente presenta mejoría clínica hasta quedar prácticamente asintomática (NIHSS 2 por desorientación y mínima paresia facial).
+Se ha iniciado tratamiento anticoagulante con heparina. Pendiente de completar estudio etiológico del ictus.
+Al alta:
+-	NIHSS (National Institutes of Healt Stroke Scale): 2
+-	
+
+
+-	TOAST: indeterminado
+
+Plan terapéutico / Pla terapèutic
+Se adjunta.
+
+Otras recomendaciones / Altres recomanacions
+Traslado
+
+
+
+Firma/Signatura1: _NAME_	Firma/Signatura2: _NAME_ Categoría: Resident 4	Categoría: Esp.Assist.Urg.
+Nº Matrícula HCP: _ID_	Nº Matrícula HCP: _ID_
+
+Fecha/Data Informe: 01.05.2017
+Hora Informe: 13:25:50
+
+Docum.: _ID_
+Hist. Clínica: _ID_
+El _SS_ ha incorporado sus datos al Fichero de Pacientes, para tratarlos con fines sanitarios.
+Puede ejercer sus derechos de acceso, rectificación, cancelación y oposición, así como obtener mas información en la Unidad de Atención al Cliente.
+Vers. 00
+Pag. 2 de
+3
+Episod.: _ID_
+_SS_ ha incorporat les seves dades al Fitxer de Pacients, per a tractar-los amb finalitats sanitàries. Pot exercir els seus drets d'accés, rectificació, cancel·lació i oposició, i obtenir més informació a la Unitat d'Atenció al Client.
+_SS_
+_LOCATION_) _LOCATION_) Tel. _CONTACT_ Fax _CONTACT_
+http://_CONTACT_/

@@ -1,0 +1,113 @@
+_LOCATION_
+email: _CONTACT_ Telèfon _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 52 Anys
+NIF/DNI: _ID__NAME_; _NAME_, _NAME_
+Informe d'alta d'hospitalització
+15:00:00
+20.04.2017
+_LOCATION_
+_SS_ UNITAT D'ICTUS
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_; _CONTACT_
+DOMICIL/RES.SOC 19.04.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Pacient que ingressa per ictus Isquèmic. Infart cerebral
+
+ANTECEDENTS
+No alergias medicamentosas conocidas No hábitos tóxicos
+
+-Hipertensión arterial esencial en tratamiento dietético
+-Dislipemia en tratamiento con estatinas
+-Bocio multinodular estable. Hemitiroidectomia derecha por nódulo frío a los 18 años. Anteriormente seguimiento CEX Endocrinología de nuestro centro.
+-NH por aves.
+-Obesidad.
+-Histerectomía. mRS0
+MEDICACIÓ HABITUAL
+simvastatina 20 mg dia
+
+PROCÉS ACTUAL
+Estando previamiente bien, presenta hoy 19/4 a las 10.00h cuadro de instauración súbita de trastorno sensitivo hemicuerpo izquierdo así como cierta debilidad ipsilateral. Hora de llegada: 11.51. Hora de TC craneal 11.56. Hora tPA 12.05.
+Els símptomes s'inicien el dia19/04/2017 a les  10:00:00.
+
+EXPLORACIÓ FÍSICA
+
+EXP: FÍSICA A URG:
+TA: 162/109mmHg FC: 84lpm T:afebril ºC SpO2: 98%a/a BMT101mg/dl
+AC: Tonos cardíacos rítmicos sin soplos. AR: murmullo vescicular conservado. A la exploración física neurológica, paciente vigil, orientada. No alteraciones del lenguaje ni el habla. Campimetría por confrontación normal. MOEs sin limitaciones, no diplopia ni nistagmo. PFSN I (1), resto de ppcc normales. Hemiparesia bC izquierda leve (B pronador +1, crural 5-/5). Hemihipoestesia izquierda (1). No extinciones, no dismetrías. Marcha no explorada. NIHSS 2+1
+
+Exploración en Unidad de ictus: TA
+
+Informe d'alta d'hospitalització
+
+
+
+EXPLORACIÓ COMPLEMENTÀRIA
+- Ag: BIOQUÍMICA:	//311-Pla-Sodi.: 137.4 mmol/L, 19.04.2017   //312-Pla-Potassi.: 4.51 mmol/L, 19.04.2017
+//743-Pla-Proteïna C reactiva: 0.28 mg/dL, 16.09.2016, HEMOGRAMA 1010-Hematies: 4.31 x10E12/L, 19.04.2017
+//1011-Hemoglobina: 13.4 g/dL, 19.04.2017   //1012-Hematòcrit: 41.2 %, 19.04.2017   //1013-Volum corpuscular
+mitjà: 95.6 fL, 19.04.2017  //1014-Hgb corpuscular mitjana: 31.1 pg, 19.04.2017  //1015-Concentració hgb corpusc
+mitja: 32.50 g/dL, 19.04.2017   //1016-Distribución volum hematies: 12.1 %, 19.04.2017   //1030-Leucòcits: 9.27
+x10E9/L,  19.04.2017	//1061-Neutròfils  %:  80.9  %,  19.04.2017  ,1066-Neutròfils:  7.5  x10E9/L,  19.04.2017
+//1062-Limfòcits  %: 11.8 %, 19.04.2017 ,1067-Limfòcits: 1.1 x10E9/L, 19.04.2017  //1063-Monòcits	%: 6.0 %,
+19.04.2017 ,1068-Monòcits: 0.6 x10E9/L, 19.04.2017  //1065-Basòfils	%: 0.3 %, 19.04.2017 ,1070-Basòfils: 0.0
+x10E9/L,  19.04.2017	//1064-Eosinòfils  %:  1.0  %,  19.04.2017  ,1069-Eosinòfils:  0.1  x10E9/L,  19.04.2017
+//1080-Plaquetes: 250 x10E9/L, 19.04.2017.  CAOGULACIÓ :  Temps de protrombina (PT): 10 seg, 19.04.2017
+//C12266;;T. de protrombina (INR);;N;0.7;1.2;20170419133211 ;0.86 //TTPA - plasma: 27.6 seg, 19.04.2017
+-TC cranelal multimodal: TC craneal que no muestra alteraciones intracraneales agudas, ni signos indirectos de afectación isquémica (ASPECTS 10). TC perfusión y AngioTC craneal sin alteraciones valorables.
+-	Vscan cardiaco: sin alteraciones en contractilidad, impresiona de FEVI preservada sin otra cardiopatia mayor embolígena.
+-	ECG: RS
+-	Telemetría cardiaca durante 24 horas sin detectarse arritmias potencialmente embolígenas.
+-	TAC craneal de control: CONCLUSION: Estudio TC craneal urgente, en el que no se identifican alteraciones agudas valorables.
+
+
+
+EVOLUCIÓ CLÍNICA
+Mujer de 52 años con factores de riesgo vascular que es derivada como código ictus por síndrome lacunar derecho en forma de hemiparesia-hemihipoestesia izquierda leve. A su llegada, tendencia hipertensión, NIHSS 2+1. Se ha realizado TC multimodal que no muestra lesiones parenquimatosas, sin alteraciones en la perfusión, con permeabilidad de vasculatura intra/ extracraneal. Ante ausencia de contraindicaciones, estando dentro de ventana terapéutica, se inicia tratamiento de reperfusión con rTPA (bolus 8mg a las 12.05, perfusión de 73mg posterior). Ingresa en la Unidad de Ictus. Durante las primeras horas refiere opresión en el pecho similar a otras con anterioridad en conrexto de nerviosismo, por lo con ECG normal, se realiza troponinas y VSCAN sin alteraciones en contractilidad, impresiona de FEVI preservada sin otra cardiopatia mayor embolígena.
+Posteriormente, durante su ingreso en la Unidad de ictus se mantiene hemodinámicamente estable y con recuperación ad integrum de la focalidad. Se solicita TC craneal de control que no muestra lesiones agudas ni complicaciones hemorrágicas.
+Tras estabilidad clínica y hemodinámica, se decide alta hospitalaria orientando etiología del ictus como microangiopáticaen paciente con mal control TA y DLP. Se deja tratamiento preventivo y se solicita RM encefálica ambulatoria y MAPA de TA, así como control en consultas externas de neurovascular.
+Al alta NIHSS 0 y Rankin 0.
+
+DIAGNÒSTICS
+Ictus isquèmic: Petit vas. Fibrinolisis endovenosa
+
+Informe d'alta d'hospitalització
+
+
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Dieta sin sal y baja en grasas. Ejercicio físico que tolere.
+
+-	Adiro 100 mg cadad 24 horas
+-	Atorvastatina 80 mg cada 24 horas
+-	Omeprazol 20 mg cada 24 horas
+-	Enalapril 5mg cada 24 horas
+
+-	SUSPENDER simvastatina 20 mg
+
+
+CONTROL
+-	Control estricto de FRCV por MAP.
+-	Se recomienda control analítico con perfil lipídico por MAP.
+-	Será avisada por correo y/o telefónicamente para realización de RM encefálica ambulatoria en el _SS_ y MAPA de Tensión arterial.
+
+-	Visita control en consultas externas de Neurovascular en la 3a planta anexos del _SS_ el día 15/11/2017 a las 11:00 h.
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+20.04.2017
+Pàgina 1 de 3

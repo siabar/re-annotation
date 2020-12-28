@@ -1,0 +1,81 @@
+INFORME ALTA HOSPITALARIA
+_NAME_
+Núm. Episodi: _ID_ Núm. HC: _ID_
+_SS_ _LOCATION_
+_LOCATION_
+Tel. _CONTACT_Adreça: _LOCATION_	C.A.P.: _SS_
+Població: _LOCATION_	Sexe: DONA  Data naixement: _DATE_  Edat: 93a
+Telèfon: _CONTACT_  C.P.: _LOCATION_	T.I.S.: _ID_  DNI/NIF: _ID_
+
+Procedència:	Data Ingrés Hospital: 17/01/2017
+Servei assistencial: UCI HOSP	Data Ingrés Servei: 17/01/2017
+Metge Responsable: _NAME_	Data Alta: 24/01/2016
+
+
+Paciente de 93 años que a les 09:00h del 17/01/17 inicia cuadro de afasia con desviación de la comisura bucal, y obnubilación, pérdida de fuerza en EESS izquierda
+
+ANTECEDENTS PERSONALS:
+1.	Sin alergias medicamentosas conocidas
+2.	Niega hábitos tóxicos
+3.	Hipertensión arterial en tratamiento médico
+4.	ACxFA en tractament amb clopidogrel. No ACO por riesgo de caídas
+5.	ICC por cardiopatia hipertensiva. última descompensació 2014.
+6.	ITUs de repetició
+7.	AIT en diciembre del 2015 en forma de  amaurosis fugax en ojo derecho y perdida de fuerza y sensibilidad en hemicuerpo izquierdo acompañada de disartria.
+8.	Litiasis vesicular y quistes renales parapielicos evidenciados por Ecografía abdominal del 24/08/2005.
+9.	Gonartrosis.
+10.	Hipoacusia mixta de oido derecho y presbiacusia de oido izquierdo.
+11.	Fractura de Tercio proximal de Humero + Colocación de clavo endomedular y cerclajes 03/12/200
+12.  Osteopenia generalizada, y protusiòn acetabular detectada por rayos x de cadera.
+13. Ruptura parcial de supraespinoso y tendinitis bicipital en 1992
+
+Intervenciones quirúrgicas: Faquectomia + LIO derecha 08/04/2008. ractura de Tercio proximal de Humero + Colocación de clavo endomedular y cerclajes
+
+Situación basal: Barthel 75. cognitivamente preservada. Parcialmente dependiente para ABVD. Vive en una residencia.
+
+Tratamiento habitual: furosemida cinfa 40mg 1c/12h; oftalmolosa eritromicina 0,5% 3,5g 1u/30d, plavix 75mg 1c/24h tobrex 0.3% 5ml colirio 1u/30d; bisoprolol teva 2,5mg 1c/24h omeprazol 20mg 1c/24h, Alopurino 100mg 1c/24h, Enalapril 5mg 1c/24h
+
+MALALTIA ACTUAL:
+Paciente de 93 años que a les 09:00h del 17/01/17 inicia cuadro de afasia con desviación de la comisura bucal, y obnubilación, pérdida de fuerza en EESS izquierda. Rankin 2. Al su llegada a nuestro centro (11:20AM) la paciente se encontraba hemodinámicamente estable (TA: 185/104 mmHg, FC 94lpm) con tendencia a la hipertensión por lo que se le adoministra Urapidil 12.5mg y 10mg de Labetalol normaliazándose la TA. A la exploración física destacaba disartria, hemianopsia izquierda, hemiparesia izquierda facio-braquial de 3-4/5, sin alteración de la sensibilidad (NISSH 14). Se realiza TAC Cranial que no muestra lesiones expansivas o sangrado agudo. Se procede a realizar fibrinolisis. Dado la edad y ranking de la paciente se desestima para trombectomía mecánica. Se ingresa en la UCI donde se finaliza el tratamiento de de rt-PA. Durante su estancia en la UCI se realiza TAC craneal de control que no muestra cambios respecto al inicia. Durante su estancia la paciente se mantiene monitorizada estando hemodinámicamente estable por lo que se decide traslado a la unidad de ICTUS.
+
+EXPLORACIÓ FÍSICA:
+Paciente consciente, normocoloreada, normohidratada AR: MVC, sin ruidos sobreañadidos
+AC: TCR, no ausculto soplos, sin edemas en EEII, sin signos de sobrecarga derecha.
+ABD: blando, no palpo masas ni meglias, no doloroso a la palpación, sin signos de irritación peritoneal
+NRL: Glasgow 15. NISSH 14.PPICNR. Disartria, hemianopsia izquierda, hemiparesia izquierda facio-braquial de 3-4/5, sin alteración de la sensibilidad.
+
+
+EXPLORACIONS COMPLEMENTÀRIES:
+Analitica  general:  Hemoglobina  15.3  g/dL  Hematocrit  47.7  %,  Volum  eritrocitari  mitja  (VCM)  94.1  fL, Hemoglobina eritrocitari mitja (HCM) 30.2 pg/cel, Plaquetes *36 x1E9/L Leucocits 16.57 x1E9/L, Neutròfils %
+76.7 %, Monòcits % 7.5 %, Limfòcits % 15.0 %, Eosinòfils % 0.4 %, Basòfils % 0.4 %, Temps de Protrombina (%) 86 , Temps de Protrombina (INR) 1.1 , Sodi 145.0 (mEq/L) mmol/L, Proteina C reactiva 7.1 mg/dL,, Urea
+46.0 mg/dL, Creatinina 1.2 mg/dL, Potassi 4.5 (mEq/L) mmol/L, Clorur *01.4 (mEq/L) mmol/L.
+TC CRANIAL: Estructures de la línia mitja no desplaçades. Cisternes perimesencefàliques i de la base no obliterades. Augment de mida del sistema ventricular i aixamplament dels espais aracnoïdals dels solcs corticals i valls silvians per atròfia córtico-subcortical. Atròfia cerebel·losa. Hipodensitat de la substància blanca periventricular per leucoencefalopatia hipòxico-isquèmica de petit vas. S'observen alguns petits focus hipodensos a substància blanca fronto-parietal bilateral d'aspecte hipoxic-isquèmic crònic. No hi ha imatges de sagnat. ASPECT basal de 10.
+TC-PERFUSIÓ: S'administra contrast endovenós per estudi de perfusió cerebral. S'observa alteració de la perfusió en el territori de l'artèria cerebral mitja dreta, sobretot dels segments M4, M5 i M6, amb penombra que es valora superior al 50%.
+ANGIO-TC: Estudi vascular des de la crossa de l'aorta fins a la convexitat cerebral. Correcta permeabilitat d'artèries vertebrals, d'artèries caròtides comuns, artèries caròtides internes, artèries cerebrals mitges, cerebrals anteriors, tronc basilar i arteries cerebrals posteriors. No observo defecte de replecció vascular. ASPECT amb contrast de 10.
+ECG: RS 85lpm, PR<0.2; RS estrecho, sin alteraciones de la repolarización
+
+EVOLUCIÓ:
+ICTUS ISQUÉMICO en territorio ACM derecha de origen cardioembólico. Se inicia tratamiento anticoagulante con Xarelto a dosis reducidas dado que previamente estaba en tratamiento con clopidogrel por riesgo de caídas pese a lo cual presenta ICTUS. Evitar la deambulación sin supervisión. Desplazamientos en silla de ruedas.
+Ha  presentado  leves  signos  de  broncoaspiración  con  broncoespasmo  que  ha  requerido  tratamiento broncodilatador que pautamos de forma crónica al alta.
+
+JUDICI CLÍNIC:
+ICTUS ISQUÉMICO territorio de ACM derecha de mecanismo cardioembólico. Fibrinolisis sistémica.
+
+TRATAMIENTO:
+Xarelto 15mg 1c/24h (0-0-1) CHADVASC 7 HASBLED: 3
+Valsartan 160mg 1-0-1
+Amlodipino 5mg 0-1-0 Spiriva 1Inhalacion cada 24h
+Ventolin 1 inhalación cada 8  horas si precisa
+furosemida cinfa 40mg 1c/12h; oftalmolosa eritromicina 0,5% 3,5g 1u/30d, tobrex 0.3% 5ml colirio 1u/30d; bisoprolol teva 2,5mg 1c/24h omeprazol 20mg 1c/24h
+
+Control por sus médicos habituales. Atentament,
+
+
+Signat:
+Dr/a.: _NAME_	Dr/a.:_NAME_
+Metge adjunt - Neurología	Metge resident- Medicina Interna
+Número col·legiat: _ID_	Número col·legiat: _ID_
+
+Hospitalització
+Imprès: 25/01/2017 16:04
+Pàg.: 1 de  2

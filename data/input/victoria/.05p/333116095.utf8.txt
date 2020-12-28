@@ -1,0 +1,192 @@
+SERVEI DE NEUROLOGIA
+INFORME DE ALTANº Historia clínica	_ID_
+Fecha de nacimiento
+_DATE_
+C.I.P.	_ID_	Código Centro	_ID_
+Teléfono	_CONTACT_/_CONTACT_
+Dirección	_LOCATION_
+Fecha ingreso	14/01/17	_LOCATION_
+Fecha de alta	06/02/17	Teléfono	_CONTACT_
+Nº Asistencia	_ID_
+UH	_ID_
+
+
+
+DIAGNÓSTICOS:
+1.	ICTUS TACI EN TERRITORIO DE ACM IZQUIERDA DE CAUSA CARDIOEMBÓLICA.
+2.	FIBRILACIÓN AURICULAR PAROXÍSTICA DE DEBUT
+3.	TROMBECTOMÍA MECÁNICA PRIMARIA (14/01)
+4.	COLONIZACIÓN DE VÍA AERIA CON BAS + para S. aureus MS y S. pyogenes.
+5.	DISFAGIA SEVERA. PORTADORA DE PEG.
+6.	TRAQUEOSTOMÍA.
+7.	CARDIOPATÍA ISQUÉMICA CON ENFERMEDAD DE 3 VASOS.
+8.	HIPERTENSIÓN ARTERIAL
+9.	DISLIPEMIA
+10.	DIABETES MELLITUS.
+
+Paciente de 70 años de edad. Diestra. No hábitos tóxicos ni alergias medicamentosas conocidas. mRs 0.
+
+PROCEDIMIENTOS:
+-	Ingreso en UCI.
+-	Monitorización en Unidad de Ictus.
+-	TC craneal (x3) y angioTC craneal.
+-	Arteriografía terapéutica.
+-	Trombectomía mecánica primaria.
+
+ANTECEDENTES:
+-	Hipertensión arterial. Consta buen control de cifras tensionales.
+-	Dislipemia en tratamiento con estatinas, con buen control lipídico y LDL 61 (2015).
+-	Diabetes mellitus tipo 2 en tratamiento con insulina. Última Hb glicosilada 2014 de 6%.
+-	Obesidad
+-	Cardiopatía isquémica crónica estable, que debuta en 2004 como angina de esfuerzo con multiples cateterismos por angina. Portadora de stent en CD proximal (2004), DA proximal (2005) con stent intrastent en DA (2006), oclusión OM 100%, stent CD distal (2013) y lesión del 60% circunfleja y CD del 40% significativas. Última coronarigrafía en Junio 2015 por angina inestable que muestra arterias coronarias ateromatosas con placas no significativas, stents permeables. Además presenta cardiopatía hipertensiva con hipertrofia ventricular severa y FEVI preservada. Actualmente con angina de mínimos esfuerzos y algún episodio de angina de reposo en contexto de ansiedad, que ceden con nitroglicerina.
+-	Ictus lacunar 2010. Al alta Rankin de 1 y un NIHSS de 2 (dudosa borramiento del surco nasogeniano derecho y paresia leve ESD). Controles por neurología última visita noviembre 2010 sin incidencias.
+-	Anemia microcítica-hipocroma. Noviembre 2012 Colonoscopia normal, FGC con hernia hiatal. Seguimiento por Médico cabecera.
+-	Hipotiroidismo en tratamiento sustitutivo.
+-	SAHS severo en tratamiento con CPAP. Controles por neumología, última visita en septiembre 2016.
+-	Histerocele grado III, se ha pospuesto tratamiento quirúrgico por elevado riesgo, condicionado por su patología cardiaca.
+
+MEDICACIÓN HABITUAL:
+-	AAS 300 mg c/24h
+-	Atorvastatina 40 mg c/24h
+
+
+-	Cafinitrina SL si precisa
+-	Nitroglicerina parche 5 mg c/24h
+-	Nebivolol 5 mg c/24h
+-	Valsartán + Hidroclorotiazida + Amlodipino 10/160/250 mg c/24h
+-	Ranolazida 375 mg c/12h
+-	Metformina 850 mg c/12h
+-	Insulatard 14 UI c/24h
+-	Eutirox 25 mcg c/24h
+-	Omeprazol 20 mg c/12h
+-	Fesoteradina 8 mg c/24h
+
+ENFERMEDAD ACTUAL:
+Traida por el SEM el 14/01/17 a las 06:30h como código ictus extrahospitalario tras ser hallada por su marido afásica, mutista, con relajación de esfínteres hemiparesia braquio-crural derecha. Última vez vista bien a las 00:00h.
+
+EXPLORACIÓN FÍSICA:
+-	Exploración física en UCIAS:
+TA 175/75 mmHg, FC 80 lpm, SpO2 96% con FiO2 0.3
+-	NRL:somnolienta 1, órdenes 1, preguntas 1, mutista 3, preferencia ocular izquierda 1, HH derecha 2,
+parálisis facial derecha 2, paresia ESD 3, EID 4, anestesia derecha 2. NIHSS: 20
+-	Auscultación cardíaca: ruidos cardíacos rítmicos, no ausculto soplos ni roce
+-	Auscultación respiratoria: murmullo vesicular conservado sin ruidos sobreañadidos
+-	Abdomen: blando y depresible, no palpo masas ni megalias
+-	Extremidades inferiores: no edemas ni signos de TVP.
+
+-	Exploración física en Unidad de Ictus:
+Constantes:  PA  129/55mmHg,  FC  73lpm,  T  37.3ºC,  glicemia  capilar  182mg/dl.  portadora  de traqueostomía.
+NRL: paciente somnolienta (1), preguntas (2), órdenes (2), desviación forzada de la mirada hacia la izquierda (2), HH derecha (2). Hemiplejia FBC dertecha (2+4+4), hemianestesia derecha (2). Mutista
+por traqueostomía (+9). NIHSS: 21 (+9). AC: tonos cardíacos rítmicos sin soplos.
+AP: hipofonesis, no ausculto ruidos sobreañadidos.
+
+EXPLORACIONES COMPLEMENTARIAS:
+.- Analítica de sangre (14/01): Glucosa 265 mg/dL, Urea 0.61 mg/dL, FG 92, Na 137.8 mmol/L, K 4.63 mmol/L, CL 102.6 mmol/L, CK 104 UI, PCR 3.0 mg/dL, Hemoglobina 12.1 g/dL, Leucocitos 11.960
+(Neutrófilos 82.7%), Plaquetas 242.000, TP 122.4%, TP ratio 0.94, Fibrinógeno > 500 mg/dL, Dímero-D
+410 mcg/L
+* Gasometría venosa (14/01): pH 7.339, pCO2 41.2 mmHg, pO2 91.9 mmHg, HCO3 21.7 mmol/L, EB - 3,9, saturación arterial 96.2%
+.- Radiografía de torax: No se evidencian infiltrados ni condensaciones. Senos cardio y costofrénicos libres.
+.- ECG (14/01): RS 87 lpm PR constante 150 ms AQRS -30º QRS 100 ms rS en DIII, aVF. Buena progresión de R en precordiales, sin alteraciones de la repolarización.
+.- ECG (15/01): FA 150 lpm QRS estrecho sin alteraciones de la repolarización. (Revierte tras bolus de amiodarona).
+.- TC craneal y Angio-TC (14/01): No se identifica lesión isquémica aguda establecida ni signos hiperagudos de isquemia: ASPECTS 10. Infartos antiguos profundos y en territorio frontera derecho. Estudio angioTc evidencia defecto de repleción en segmento A2/A3 de ACA izquierda y ausencia de rama
+
+
+insular de ACM izquierda, que se refleja en los  mapas de perfusión como un área de penumbra frontoparietal con retraso en el TTM en los territorios de ACA y ACM izquierdas. Los hallazgos podrían estar en relación con doble embolización vascular, pero dada la ausencia de estructura vascular (hiper/isodensidad) en el teórico recorrido de la rama insular de ACM izquierda en el estudio basal, se plantea como otra posibilidad la existencia de variante anatómica con hipoplasia/aplasia de la rama de ACM izquierda y suplencia de la misma por el territorio vascular anterior, comprometiéndonse de esta manera los dos territorios con un único trombo en ACA izquierda.
+.- TC craneal y angio-TC (15/01): Repermeabilización de la región estenótica/defecto de repleción de ACA izquierda. Persistencia del stop a nivel de ACM izquierda en segmento M2 con actualmente una extensa área isquémica establecida frontoparietal ipsilateral. No se evidencian focos de sangrado agudo. Resto sin cambios.
+.- TC craneal (18/01/17)Extenso infarto isquémico subagudo establecido que comprende territorios de ACA y ACM izquierdas, básicamente con afectación frontal (motora y premotora) y con pequeño componente parietal post-central.
+-	Analítica de ingreso 24/01: Urea 40mg/dl; Creatinina 0.66mg/dl; Ác.úrico 5.4mg/dl; Sodi o140mmol/l; Cloro 102mmol/l; LDH 466UI/l; CK 136UI/l; Bilirrubina total 0.2mg/dl; GOT 24UI/l; GPT 20UI/l; Fosfatasa alcalina 104UI7l; Proteinas totales 5.8g/dl; Albúmina 2.7g/dl; Colesterol 117mg/dl; LDL 51mg/dl; HDL 37mg/dl; Triglicéridos 111mg/dl; TSH <0.02mcU/l; T3 1.1pmol(l; T4 ng/dl; Hb glicosilada 7.4%; Hemoglobina 10.6g/dl; Leucocitos 15.410/ul; Neutrófilos 77.4%; Linfocitos 15.1%; VSG 77mm/hora
+-	Gastroscopia para gastrostomía percutánea 3/02: Transilumin: Se consigue la transilumnación adecuada a nivel de Colocación: Se accede a estómago sin problemas. Gran hernia de hiato sin lesiones en su interior. No se objetivan signos de reflujo GE en el esófago y no hay lesiones gástricas ni duodenales. Se obtiene una palpación digital correcta y se introduce el trocar sin problemas después de efectuar un corte a nivel de la piel.
+Se recupera la guía con el asa de polipectomía mediante el endoscopio y se coloca la  Prótesis Endoscópica de Gastrostomía sin problemas después de dilatar el trayecto efectuado por el trocar. La placa externa queda bien situada a poca tensión y se efectúa la cura inmediata. Comprobación: Se efectua la endoscopia de comprobación apreciado que la placa interna de la PEG ha quedado situada correctamente.
+Conclusion: Se coloca coloca la placa externa sin que se ejerza mucha presión a la pared y se efectúa la cura. Material utiliz: Sonda PEG de 24 Fr. No se observan complicaciones inmediatas después del procedimiento.
+
+EVOLUCIÓN:
+Se trata de una paciente de 70 años, con factores de riesgo vascular que presenta cuadro compatible con ictus TACI en territorio de ACM izquierda.
+
+Se realiza TC craneal urgente como código ictus, en el que se evidencia un ASPECTS 10, y en el angioTC se observa una oclusión de M2 y A2 izquierdas, con retraso en mapa de tiempo pero no en volumen en TC de perfusión.
+
+Dada la cronología incierta (ictus del despertar), no se considera tributaria tratamiento fibrinolítico. No cumple criterios de exclusión, por lo que se realiza trombectomía mecánica primaria.
+Bajo anestesia general, se realiza el procedimiento, con un groin puncture de 87 minutos, sin incidencia periprocedimiento.
+No se consigue atravesar la oclusion de ACM izquierda, únicamente se consigue realizar un pase en rama frontal ascendente de ACM izquierda administrándose tratamiento con urokinasa sin conseguir repermeabilizar (se considera como posible oclusión antigua compensada posiblemente hasta el ictus por la ACA). Al segundo pase de solitaire (10.05 horas), se consigue una recanalización completa de ACA izquierda proximal, aunque se observa una rama distal obstruida y se administra urokinasa selectiva.
+
+
+
+En el parenquimograma se observa leve retraso en territorios descritos pero con llenado tardío de practica totalidad del parénquima.
+La paciente ingresa tras el procedimiento en UCI para extubación y control neurológico.
+En TC de control del día 15/01 (24h postrombectomía)se evidencia una importante lesión isquémica establecida hemisférica derecha con clínica completa de ictus TACI derecho (NIHSS 24).
+El 15/01 se evidencia durante la monitorización una fibrilación auricular (confirmada con ECG), por lo que se considera como ictus de origen cardioembólico en este contexto.
+Dado el nivel de consciencia fluctuante y complicación respiratoria con infección con BAS + para S.aureus MS y S.pyogenes (que se trata según antibiograma con cloxacilina) no se considera tributaria de extubación dada la posible claudicación respiratoria; tras comentar con la familia, finalmente se coloca traqueostomía para proteger vía aerea. Actualmente, portadora de una cánula de plata, bien tolerada y sin precisar oxigenoterapia.
+
+La paciente ingresa en Unidad de Ictus para monitorización y estudio neurovascular. Se inicia antiagregación con AAS 300mg, estatinas y heparina profiláctica. Se demora el inicio anticoagulación dada la extensión del infarto.
+
+Se valoran al ingreso el estado de ánimo, las necesidades de rehabilitación y se inician fisioterapia y movilización precoces.
+
+Durante el ingreso se encuentra neurológicamente y clínicamente estable, presentando al alta clínica de hemianopsia, mutismo y hemiplejia derecha.
+
+Presenta disfagia severa, por la que recibe nutrición a través de SNG inicialmente y con colocación de PEG para nutrición enteral el 3/02 sin incidencias.
+Valorada durante el ingreso por nutrición, actualmente tolera puata fraccionada.
+Por lo que respecta la traqueostomía, no presenta distrés ni otra clínica respiratoria actualmente, con correctas saturaciones. Se puede ir probando oclusión de la traqueostomía intermitente según tolerancia.
+Durante el ingreso se realiza educación sanitaria acerca del ictus. No presenta otras complicaciones, y dada la estabilidad clínica se decide alta.
+Precisa  atención  sanitaria  continuada  al alta  por lo  que se realiza  interconsulta  a UFIS Geriatría, considerando a la paciente tributaria de traslado a centro de larga estancia.
+
+Deberá iniciar anticoagulación con Sintrom al alta según pauta adjunta.
+
+Etiología TOAST cardioembólico, Oxford TACI. Al alta NIHSS 15 (+9 por traqueostomía). Rankin 5. Debe seguir controles en CCEE de Neurología en fecha programada. ÍNDEX BARTHEL ALTA : 37.
+
+TRATAMIENTO:
+-	INICIAR SINTROM 4mg
+7/02: 2mg (1/2 comprimido) 8/02: 2mg (1/2 comprimido) 9/02: 1mg (1/4 comprimido).
+CONTROL DE INR Y AJUSTE DE PAUTA
+
+-	ENOXAPARINA SUBCUTANEA XERINGA 40mg A las 20 horas. RETIRAR AL INICIAR SINTROM.
+
+-	CITALOPRAM 10 mg A las 8
+-	PARACETAMOL 1 G A las 8,16,24 Si dolor o T>37.5ºC
+-	AMLODIPINO 5-10 MG A las 8,20 horas. Si TA>140/90
+
+
+Nombre	_NAME_
+
+Nº Historia clínica	_ID_	Nº Asistencia	_ID_
+C.I.P.	_ID_		
+Fecha ingreso	14/01/17	UH	_ID_
+Fecha de alta	06/02/17		
+
+-	BISOPROLOL 2.5 mg A las 8
+-	HIDROCLOROTIAZIDA 50mg A las 13 horas. No dar si TA <130/80mmhg
+-	VALSARTAN 80 MG A las 8
+-	LANSOPRAZOL COMPRIMIDO BUCODISPER 30 mg A las 19
+-	SOLUCION EVACUANTE MOVICOL. A las 8,16,24. Hasta deposición efectiva
+-	INSULINA ASPART SUBCUTANEO VIAL 4 U A las 6,12,18. Si tolera dieta
+-	INSULINA ASPART SUBCUTANEO VIAL U A las 6,12,18,24. BMTEST pauta mòbil insulina ASPARTICA
+-	INSULINA GLARGINA SUBCUTANEA VIAL 18 U A las 22
+-	LEVOTIROXINA 25 MCG A las 7
+-	METFORMINA 850 MG A las 8,13
+-	DIETA ENT. DIABETIS HIPERPROT SONDA GASTROST ENDOSC PERCUT FLASCO 400-400-300-300 ML A las 6,12,18,24
+
+INDICACIONES:
+-	Deberá acudir a visita programada de control en CCEE de Neurología en la fecha programada.
+-	Se recomienda control estricto de enfermedades que aumentan el riesgo de ictus: hipertensión arterial, diabetes, colesterol elevado (dislipemia) y enfermedades del corazón. Realizar el tratamiento de forma adecuada según las recomendaciones de su médico.
+-	Abstención de tabaco y alcohol
+-	Seguir una dieta  adecuada,  con poca sal, evitando  grasas, especialmente  las saturadas (grasas animales, aceites y grasas para cocinar).
+-	Evitar la obesidad y el sobrepeso y realizar ejercicio físico moderado de forma regular.
+
+Dr/a.	_NAME_
+Dr/a.	_NAME_	Dr/a.	_NAME_
+Metge/essa
+Adjunt
+(Nº Colegiado _ID_0)
+Metge/essa
+Resident
+(Nº Colegiado _ID_1)
+Metge/essa
+Resident
+(Nº Colegiado :
+_ID_)
+
+
+
+Les seves dades personals s'incorporen en un fitxer d´usuaris a fi del seu tractament sanitari. Pot exercir el seu dret d´oposició, accés i rectificació de les dades inexactes dirigint-se al Servei de Documentació Clínica.
+Sus datos personales se incorporan en un fichero de usuarios para su tratamiento sanitario. Puede ejercer su derecho de oposición, acceso y rectificación de los datos inexactos dirigiéndose al Servicio de Documentación Clínica
+
+_SS_ | NIF _ID_ |_LOCATION_ | _LOCATION_ | Telèfon _CONTACT_ | Fax _CONTACT_ | _CONTACT_
+Pàgina 1 de 5

@@ -1,0 +1,101 @@
+T0	_SUG_Lateralizacion 245 246	I
+T1	FECHA 307 317	16/12/2017
+#1	AnnotatorNotes T1	2017-12-16
+T2	FECHA 375 385	17/12/2017
+#2	AnnotatorNotes T2	2017-12-17
+T3	FECHA 423 433	29/12/2017
+#3	AnnotatorNotes T3	2017-12-29
+T4	SECCION_ANTECEDENTES_PERSONALES 436 457	ANTECEDENTS PERSONALS
+T5	_SUG_Etiologia 520 531	Hipertensió
+T6	SECCION_SITUACION_FUNCIONAL 596 610	Situació basal
+T7	_SUG_mRankin 652 657	MRS 0
+T8	_SUG_Etiologia 682 690	habitual
+T9	_SUG_Lateralizacion 717 718	D
+T10	FECHA 786 796	16.12.2017
+#10	AnnotatorNotes T10	2017-12-16
+T11	_SUG_Lateralizacion 843 847	dret
+T12	_SUG_Ictus_isquemico 863 868	ictus
+T13	_SUG_TAC_craneal 912 922	TC craneal
+T14	_SUG_Hemorragia_cerebral 950 960	hemorràgic
+T15	_SUG_Trombolisis_intravenosa 974 978	rTPA
+T16	SECCION_EXPLORACION_FISICA 1178 1195	EXPLORACIÓ FÍSICA
+T17	_SUG_Lateralizacion 1327 1328	E
+T18	_SUG_Lateralizacion 1371 1379	esquerre
+T19	_SUG_NIHSS 1466 1471	NIHSS
+T20	_SUG_Lateralizacion 1473 1474	E
+T21	HORA 1491 1493	24
+#21	AnnotatorNotes T21	24:00
+T22	_SUG_Lateralizacion 1533 1538	dreta
+T23	_SUG_NIHSS 1566 1573	NIHSS 2
+T24	SECCION_EXPLORACIONES_COMPLEMENTARIAS_EN_PLANTA_DE_NEUROLOGIA 1575 1598	En planta de neurología
+T25	_SUG_Lateralizacion 1806 1807	E
+T26	_SUG_NIHSS 2122 2129	NIHSS 3
+T27	SECCION_EXPLORACIONES_COMPLEMENTARIAS_EN_PLANTA_DE_NEUROLOGIA 4501 4524	En planta de Neurologia
+T28	_SUG_Localizacion 5097 5112	corona radiadas
+T29	_SUG_Localizacion 5114 5127	subcorticales
+T30	_SUG_Lateralizacion 5145 5156	bilaterales
+T31	_SUG_Ictus_isquemico 5235 5243	infartos
+T32	_SUG_Ictus_isquemico 5295 5302	Infarto
+T33	_SUG_Localizacion 5303 5311	talámico
+T34	_SUG_Lateralizacion 5312 5321	izquierdo
+T35	_SUG_Localizacion 5396 5407	cerebelosos
+T36	_SUG_Hemorragia_cerebral 5502 5512	hemorragia
+T37	_SUG_Localizacion 5583 5591	talámica
+T38	_SUG_Lateralizacion 5598 5607	izquierda
+T39	_SUG_Localizacion 5646 5657	ventricular
+T40	_SUG_Localizacion 5757 5767	ventrículo
+T41	SECCION_EXPLORACIONES_COMPLEMENTARIAS 2131 2159	EXPLORACIONS COMPLEMENTÀRIES
+T42	_SUG_TAC_craneal 3091 3101	TC craneal
+T43	_SUG_Localizacion 3189 3200	ventricular
+T44	_SUG_Localizacion 3282 3292	parietales
+T45	_SUG_Localizacion 3340 3348	profunda
+T46	_SUG_Localizacion 3385 3400	corona radiadas
+T47	_SUG_Ictus_isquemico 3475 3483	Infartos
+T48	_SUG_Localizacion 3493 3502	talámicos
+T49	_SUG_Lateralizacion 3503 3514	bilaterales
+T50	_SUG_Lateralizacion 3580 3589	izquierdo
+T51	_SUG_Arteria_afectada 3721 3738	arteria vertebral
+T52	_SUG_Lateralizacion 3739 3748	izquierda
+T53	_SUG_Arteria_afectada 3751 3778	arterias carótidas internas
+T54	_SUG_TAC_craneal 3799 3807	TC crani
+T55	_SUG_Localizacion 3909 3920	ventricular
+T56	_SUG_Localizacion 4002 4012	parietales
+T57	_SUG_Localizacion 4060 4068	profunda
+T58	_SUG_Localizacion 4105 4120	corona radiadas
+T59	_SUG_Ictus_isquemico 4195 4203	Infartos
+T60	_SUG_Localizacion 4213 4222	talámicos
+T61	_SUG_Lateralizacion 4223 4234	bilaterales
+T62	_SUG_Lateralizacion 4300 4309	izquierdo
+T63	_SUG_Arteria_afectada 4441 4458	arteria vertebral
+T64	_SUG_Lateralizacion 4459 4468	izquierda
+T65	_SUG_Arteria_afectada 4471 4498	arterias carótidas internas
+T66	SECCION_EVOLUCION 5869 5877	EVOLUCIÓ
+T67	_SUG_Ictus_isquemico 5916 5921	ictus
+T68	_SUG_Lateralizacion 5950 5954	dret
+T69	_SUG_TAC_craneal 5997 6005	TC crani
+T70	_SUG_Trombolisis_intravenosa 6019 6031	fibrinolisar
+T71	_SUG_Lateralizacion 6133 6137	dret
+T72	_SUG_TAC_craneal 6166 6168	TC
+T73	_SUG_Ictus_isquemico 6199 6224	transformació hemorràgica
+T74	_SUG_Lateralizacion 6427 6431	dret
+T75	_SUG_Lateralizacion 6629 6634	dieta
+T76	_SUG_Ictus_isquemico 6860 6866	infart
+T77	_SUG_Localizacion 6867 6874	talàmic
+T78	_SUG_Lateralizacion 6875 6883	esquerre
+T79	_SUG_Lateralizacion 7176 7180	dret
+T80	_SUG_NIHSS 7343 7350	NIHSS 1
+T81	_SUG_mRankin 7351 7356	mRS 2
+T82	SECCION_DIAGNOSTICOS 7359 7372	JUDICI CLÍNIC
+T83	_SUG_Lateralizacion 7398 7402	dret
+T84	_SUG_Ictus_isquemico 7404 7418	Ictus isquémic
+T85	_SUG_Localizacion 7419 7426	talàmic
+T86	_SUG_Lateralizacion 7427 7435	esquerre
+T87	SECCION_TRATAMIENTO_AL_ALTA 7486 7496	TRACTAMENT
+T88	_SUG_Lateralizacion 7498 7503	Dieta
+T89	_SUG_Tratamiento_antiagregante 7541 7544	AAS
+T90	_SUG_Lateralizacion 7667 7668	D
+T91	_SUG_Lateralizacion 7796 7801	dieta
+T92	FECHA 7999 8009	01/01/2018
+#92	AnnotatorNotes T92	2018-01-01
+T93	HORA 8010 8015	08:44
+#93	AnnotatorNotes T93	08:44

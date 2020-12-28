@@ -1,0 +1,23 @@
+T1	SECCION_ANTECEDENTES_PERSONALES 776 799	Antecedentes personales
+T2	SECCION_EXPLORACION_FISICA 916 934	EXPLORACIÓN FÍSICA
+T3	_SUG_Test_de_disfagia 1265 1279	Test deglución
+T4	TAC_craneal 2098 2108	TC craneal
+T5	_SUG_TAC_craneal 2322 2324	TC
+T6	_SUG_TAC_craneal 2461 2463	TC
+T7	_SUG_TAC_craneal 2587 2594	craneal
+T8	SECCION_EVOLUCION 3265 3274	Evolución
+T9	_SUG_Trombolisis_intravenosa 3277 3298	tratamiento realizado
+T10	_SUG_Trombectomia_mecanica 3277 3298	tratamiento realizado
+T11	_SUG_TAC_craneal 3620 3632	transcraneal
+T12	SECCION_DESTINO_AL_ALTA 3873 3888	Destino al alta
+T13	SECCION_DIAGNOSTICOS 3937 3949	Diagnósticos
+T14	SECCION_DIAGNOSTICO_PRINCIPAL 3953 3974	Diagnóstico principal
+T15	SECCION_DIAGNOSTICOS_SECUNDARIOS 4013 4037	Diagnósticos secundarios
+T16	SECCION_PROCEDIMIENTOS 4097 4111	Procedimientos
+T17	_SUG_TAC_craneal 4115 4125	TC craneal
+T18	_SUG_TAC_craneal 4131 4138	craneal
+T19	_SUG_TAC_craneal 4160 4172	transcraneal
+T20	_SUG_TAC_craneal 4197 4209	transcraneal
+T21	SECCION_TRATAMIENTO_AL_ALTA 4233 4252	Tratamiento al alta
+T22	SECCION_RECOMENDACIONES 4381 4421	Recomendaciones de prevención secundaria
+T23	SECCION_CONTROL 4858 4865	Control

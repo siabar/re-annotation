@@ -1,0 +1,119 @@
+_LOCATION_
+email: _CONTACT_.net Telèfon _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 69 Anys
+NIF/DNI: _ID__NAME_; _NAME_; _NAME_
+Informe d'alta d'hospitalització
+12:00:24
+14.04.2017
+_LOCATION_
+_SS_ UNITAT D'ICTUS
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_; 3570280
+DOMICIL/RES.SOC 11.04.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Varón de 69 años que acude por trastorno del lenguaje y déficit visual.
+
+ANTECEDENTS
+-No alergias medicamentosas conocidas.
+-No hábitos tóxicos.
+
+Hipertensión arterial en tratamiento. Obesidad.
+Insuficiencia renal crónica. Artritis reumatoide.
+
+Situación sociofuncional: Independiente. Vive con su mujer y su suegra. Camina sin ayuda. mRS: 1.
+
+MEDICACIÓ HABITUAL
+Losartan/Hidroclorotiazida 100/25 mg al día; Adenuric 80 mg al día.
+
+PROCÉS ACTUAL
+Es traido a Urgencias el día 11 de abril porque estando previamente bien, comienza de forma brusca a las 11:00 con cuadro de confusion, dificultad para la emisión del lenguaje, déficit visual en hemicampo derecho. No otra focalidad neurológica asociada. No clínica cardiológica. En este contexto decide avisar al SEM que lo derivan a nuestro centro sin activación de Código Ictus.
+Es valorado por Neurología vascular. Se realiza TAC multimodal objetivándose oclusión en ACI izquierda a nivel cavernoso con infarto establecido en territorio ACP izquierda. Por este motivo se desestima tratamiento con rTPA y se indica tratamiento con trombectomía mecánica. Se relaliza en procedimiento sin incidencias resultado una revascularización TICI 3.
+
+EXPLORACIÓ FÍSICA
+
+Exploración en Urgencias:
+TA 108/86mmHg, FC 80lpm, Tª 36.1ºC, BMTest 206mg/dl
+Auscultación cardiaca con tonos rítmicos y sin soplos, no presenta signos de insuficiencia cardiaca derecha. Neurológicamente vigil, atento, orientado, afasia moderada (2), LOC Q 0/2 (2), LOC C 2/2, no alteración del habla, HHD por confrontación (2), paresia facial supranuclear derecha (2), paresia braquial 4/5 derecha (1), sin afectación crural. Hipoestesia FBC derecha (1). NIHSS 10
+
+Exploración en Unidad de Ictus:
+TA 130/67 mmHg, FC 54 lpm, afebril.
+Vigil, alerta. Disfasia motora con lenguaje poco fluido y bloqueos frecuentes, anomia (2), repetición conservada, comprensión normal. No disartria. HH derecha. No paresia facial. Resto de pares craneales normales. Fuerza
+
+Informe d'alta d'hospitalització
+
+
+
+
+conservada con muy leve claudicación de la mano derecha (+1), sensibilidad normal, no dismetrías. NIHSS: 5
+
+EXPLORACIÓ COMPLEMENTÀRIA
+Realizadas en Urgencias:
+- Analítica urgente, destaca: glucosa 132mg/dl.
+-TAC multimodal: Hipodensidad córtico-subcortical parieto-occipital parasagital izquierdo, ASPECTS 10/10, observándose en el AngioTC defecto de replección de la ACI izquierda a nivel cavernoso distal. ACA y ACM izquierdas permeables a través de la AcoA. En los estudios de perfusión cerebral muestra una extensa afectacón del territorio de la ACP izquierda (que presenta un origen fetal) con disminución del TTP, MTT y CBF con áreas parcheadas de preservación del CBV en probable relación a territorios frontera.
+-Trombectomía intra y extracraneal mecánica (11.04.2017): A través de punción femoral derecha y anestesia local. Se cateteriza de forma selectiva la ACID, la cual es permeable en todo su recorrido y perfunde territorio vascular contralateral a traves de AcomA. La ACII se encuentra ocluida a nivel distal ("T") y por riesgo de progresión y embolia hacia territorio anterior se decide realizar trombectomía. Se realiza trombectomía con Solitaire (6x30) + aspiración distal ACE68 en ACI de forma satisfactoria con TICI 3 final. Angiografía de control evidencia origen fetal de ACP izquierda la cual perfunde territorio infartado visualizado en TC perfusión. Angiografías de ambas carotidas no evidencian estenosis significativas. Cierre percutáneo mediante mynxgrip 6/7F + vendaje compresivo. Procedimiento sin complicaciones inmediatas. Conclusión: Trombectomía de ACI intracraneal satisfactoria con TICI 3 final.
+
+Realizadas en Unidad de Ictus
+-Analítica: Bioquímica: glucosa 111, HbA1c 5.6%, urea 46, Cr 1.5, FG 47, Iones normales. Proteinas 5.8, albúmina
+3.4. Hormonas tiroideas normales. Lipidograma: colesterol total 186, HDL-c 40, LDL-c 124, TAG 108. Hematimetría: Hb 13.8, leucocitos 9000 con fórmula leucocitaria normal, plaquetas 138000. Ferritina 100, transferrina 197, Fe 46. VSG 7. Coagulación: INR 1.06, T Protrombina 91%, TTPA 25.9 seg. Serologías VIH y T, pallidum negativas.
+-TAC control: TC craneal de control que muestra infarto establecido en el territorio superficial de la ACP izquierda, sin signos de transformación hemorrágica.
+-Ecoscopia  cardiaca:  Ventriculo  izquierdo  no  dilatado  ni  hipetrófico.  Fracción  de  eyección  conservada.  No alteraciones segmentarias de la contractilidad. Auricula izquierda  dilatada. No valvulopatias significativas. Patrón transmitral compatible con alteración de la relajación. No se observan imagenes sugestivas de trombo intrauricular ni ventricular. No se objetiva ateromatosis aórtica significativa. No se objetiva aneurisma del septo interauricular Conclusión: Aurícula Izquierda Dilatada
+-Telemetría cardiaca 72 horas: no se detecta arritmias potencialmente embolígenas.
+
+Informe d'alta d'hospitalització
+
+EVOLUCIÓ CLÍNICA
+Varón de 69 años que estando previamente bien el día 11 de abril entre las 10:00 horas (última vez visto asintomático) y las 11:30 horas (primera vez visto sintomático) presenta hemianopsia y dificultad para la emisión del lenguaje por lo que avisan al SEM que lo deriva a nuestro centro sin activación de Código Ictus por lo que, siendo valorado por urgencias de Medicina Interna activa Código Ictus a las 13:25 horas realizándose TC multimodal a las 13:36 horas en el que presenta dudosos signos de isquemia en territorio de ACP izquierda y defecto de replección de la ACI izquierda a nivel cavernoso distal con gran afectación en la perfusión a nivel de ACP (origen fetal) y preservación del volumen (CBV) de manera parcheada. Dados los hallazgos de signos de isquemia se decide no realizar fibrinolisis y hacer trombectomía mecánica primaria consiguiéndose un TICI 3. Tras comprobar que el paciente cumple todos los criterios de inclusión y ninguno de exclusión y firma del consentimiento informado, se incluye en el ensayo clínico ACTION II (Natalizumab en fase aguda del ictus isquémico vs placebo). El paciente ingresa en la Unidad de Ictus para control evolutivo.
+Durante su estancia en la Unidad de Ictus el paciente ha presentado mejoría progresiva quedando afasia leve y hemianopsia homónima derecha. Se ha realizado monitorización cardiaca durante 72 horas en la que no se han identificado arritmias con potencial embolígeno, ecoscopia cardiaca en la que presenta aurícula izquierda dilatada y TC de control en el que presenta infarto establecido en territorio de ACP izquierda. Dada la ausencia de hallazgos sugestivos de cardiopatía embólica y de ateromatosis se mantiene profilaxis secundaria con antiagregación simple y estatinas y se decide alta domiciliaria. Se completará el estudio etiológico mediante una monitorización prolongada con Holter-wearable dentro del estudio clínico CRYPTOFA.
+Se explican normas de reconsulta y signos de alarma. Al alta NIHSS 3 (HHD y afasia leve), mRS 2.
+
+DIAGNÒSTICS
+Infarto isquémico agudo en territorio de ACP izquierda de etiología indeterminada.
+
+PROCEDIMENTS
+TC craneal multimodal Trombectomíacerebral TC craneal
+Telemetría cardiaca Ecoscopia cardiaca ictus
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Dieta sin sal pobre en grasas. Actividad física diaria suave.
+
+1.	AAS 100mg 1 comp/día vo
+2.	Omeprazol 1 comp/día vo
+3.	Atorvastatina 80mg 1 comp/día vo
+
+Resto de su medicación habitual sin cambios.
+Control estricto de factores de riesgo vascular por su Médico de Atención Primaria
+
+CONTROL
+Lectura de Holter-wearable en gabinete Ecoscan (2ª planta centro _SS_) el día 27 de abril del 2017 a las 10:00h.. Control en Unidad de Ictus (2ª planta centro _SS_) el día 10 de Mayo del 2017 a las 12:00h
+Control en CCEE de Neurología-U. Ictus (3ª planta anexos _SS_) el día 11 de Julio del 2017 a las 10:30h.
+
+Informe d'alta d'hospitalització
+
+
+
+
+
+Se avisará telefónicamente o por carta para valoración en CCEE de Logopedia.
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+14.04.2017
+Pàgina 1 de 4

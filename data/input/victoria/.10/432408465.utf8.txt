@@ -1,0 +1,173 @@
+
+
+
+
+
+Informe d'Alta Hospitalària	Cognoms i nom:
+_NAME_	NHC:
+_ID_
+	ABS:
+_SS_	CIP:
+_ID_	DNI:
+_ID_
+	Data de naixement:
+_DATE_	Sexe:
+Dona	Edat:
+76a	Telèfon:
+_CONTACT_
+	Finançament:
+CatSalut - _LOCATION_	Procedència:
+URGÈNCIES
+	Admissió:
+17.10.2017 - 00:47	Servei:
+NEURO - UNITAT ICTUS HOSP	Data entrada urg.:
+16.10.2017 - 23:45
+Adreça:
+_LOCATION_	Població:
+_LOCATION_	Codi Postal:
+_LOCATION_
+
+
+
+Motivo ingreso:
+Mujer de 76 años que ingresa por ictus isquémico
+
+
+ANTECEDENTES PATOLÓGICOS
+-	Sin alergias medicamentosas conocidas
+-	Niega Hábitos tóxicos
+-	Hipertensión desde los 40 años en tratamiento farmacológico. Recientemente mal control debido a clínica depresiva reactiva a enfermedad en una de las hijas.
+-	Sin dislipemia o diabetes. Algunos registros de glicemia basal alterada.
+-	Obesidad
+-	Hernia  de hiato en tratamiento farmacológico.  Refiere  realización  de gastro/colonoscopia  reciente  con hallazgo de pólipo que se resecó.
+-	Artrosis dorsolumbar.
+-	Tos crónica, probablemente secundaria a fármacos (estudio por médico internista).
+-	Difteria a los 3 años
+-	Recientemente presenta síndrome depresivo en relación a enfermedad neoplásica en una de las hijas. Ha iniciado sertralina pero que le cambiaron por Deprax por temblores.
+-	No nefropatías conocidas o hemopatías, no IQs recientes
+-	IQ: Amigdalectomía, fractura de tobillo, hallux valgus.
+
+-	Tratamiento habitual (octubre 2017): HTZ 25mg 0.5 /día, Omeprazol 20mg/d, Nebivolol  5mg/d, Diazepam 2.5mg/d, Simvastatina 10mg/d, losartan 50mg/d, noctamid 2mg/d, ocasional.
+
+-	Situación sociofuncional: Natural de _LOCATION_. Maestra jubilada. Vive con su marido, con buena relación con resto de familiares (viven en mismo edificio). Autónoma para ABVD, mRS 0
+
+-	Antecedentes familiares: Tiene 3 hermanos, dos de los cuales han padecido problemas cardíacos (desconoce tipo). Su madre falleció a los 95a sin causa conocida. Su padre fue exitus por patología cerebelosa, según refiere.
+
+ENFERMEDAD ACTUAL
+Mujer de 76 años con los antecedentes descitos, que presenta alteración del lenguaje y caída al levantarse del sofá hacia las 22:30h del 17/10, estando previamente asintomática. Refiere dolor abdominal inespecífico desde dos días antes.
+Avisa al SEM y acude a Urgencias como código ictus. Niega dolor torácico, cefalea o palpitaciones previas.
+
+
+EXPLORACIÓN FÍSICA
+-	ENRL a su llegada:
+-	Constantes: 200/90mmHg, en TC 172/71 (sin recibir hipotensores). Normoglicemia. SatO2 96%. INR por coagucheck 1.
+-	Consciente.
+-	Afasia hipofluente. Comprende órdenes sencillas
+-	Campimetría por confrontación normal
+-	MOEs normales
+-	Paresia facial central derecha leve.
+-	Paresia braquial distal derecha
+-	Hemihipoestesia.
+-	NIHSS: 0.1.0.0.0./1.0.0/1.1.1.1.0 = 6
+
+-	ENRL en unidad de ictus:
+-	Vigíl y orientada en las 3 esferas
+-	No rasgos afásicos ni disartria
+-	Campimetría normal; MOEs sin limitaciones
+-	Mínima asimetría facial central derecha
+-	Resto de PPCC conservados
+-	No alteración de fuerza o sensibilidad
+-	RMP presentes y simétricos
+-	RCP flexor bilateral
+-	NIHSS: 1 por discreta asimetría facial
+-
+-	ENRL al alta:
+-	Consciente, orientada en las tres esferas.
+-	Lenguaje sin rasgos afásicos ni disartria.
+-	Campimetría por confrontación normal. MOE correcta.
+-	Sin asimetría facial.
+-	Pares craneales bajos normales.
+-	Sin déficit motor o sensitivo.
+-	No dismetrías.
+-	Marcha estable de forma autónoma.
+-	NIHSS de 0.
+
+
+EXPLORACIONES COMPLEMENTARIAS
+-	Analítica Urgencias: Hemograma y coagulación normal. Bioquímica con K 3.2 y glucemia 165 mg/dl.
+-	ECG: Ritmo sinusal a 75lpm, eje 60º, PR <0.2, QRS <0.12, Sin alteraciones agudas de la repolarización.
+-	TC multimodal: TC SIMPLE: No lesiones agudas. Hiperdensidad a nivel del segmento M2 distal izquierdo
+
+
+(dot sign). ASPECTS 10. ANGIO-TC: Se observa una oclusión de la división posterior del segmento M2 distal izquierdo. Permeabilidad de ACCs, ACI D, ACI Izda, ACCs, AV D, AV Izda. TC PERFUSIÓN: Otros hallazgos/comentario: Patrón bilateral y asimétrico en ambos vértices pulmonares caracterizado por opacidades con densidad en vidrio deslustrado asociadas a engrosamientos septales en probable relación a cuadro de ICC.
+-	TC craneal de control a las 24 horas: Se compara con el TC del 16/10/2017. No se observan claras lesiones isquémicas establecidas recientes. No hay signos de sangrado. Resto sin alteraciones significativas o cambios.
+-	Ecocardiografía transtorácica: Ventrículo izquierdo no dilatado, moderadamente hipertrofico de predominio septo basal. Función sistólica global y segmentaría conservadas. Raíz aórtica y porción proximal de aorta ascendente no dilatadas. Válvula aórtica aparentemente tricúspide, morfológica y funcionalmente normal. Válvula mitral engrosada, morfológica y funcionalmente normal, con ligera insuficiencia. Aurícula izquierda ligeramente dilatada. Ventrículo derecho no dilatado, con contractilidad global conservada. Insuficiencia tricuspídea ligera que permite descartar hipertensión pulmonar en reposo. Vena cava inferior no dilatada. Ausencia de derrame pericárdico.
+-	Telemetría 96h: Destaca una salva de fibrilación auricular de menos de 30 segundos.
+-	Analítica de estudio: Hemograma y hemostasia básica sin alteraciones. Ionograma función renal y hepática correctas. HbA1c 6.2%. Estudio lípidos: Triglicèrids 119,48 mg/100mL Colesterol 174,15 mg/100mL, Colesterol HDL 48,38mg/100mL Colesterol LDL 101,70mg/100mL Colesterol VLDL 24,08 mg/100mL Colesterol quilomicrons 0,00 mmol/L
+-	RM craneal con angioRM-TOF: Se aprecian dos pequeñas áreas de infarto subagudo en el territorio superficial de ACM previa donde previamente se apreciaba hipoperfusión, con aparente desaparición del trombo en segmento M2 de ACM izquierda. En la secuencia de susceptibilidad y GE se aprecia un foco laminar de hiposeñal de 4 mm que no permite descartar trombo calcificado, sin lesión isquémica asociada en el parénquima adyacente. Focos de hiperseñal parcialmente confluentes en las secuencias T2 y FLAIR distribuidos por la sustancia blanca subcortical y periventricular de ambos hemisferios cerebrales, de aspecto hipóxicoisquémico. El estudio angiográfico IC muestra correcta permeabilidad de los sectores incluidos. Sistema ventricular de tamaño y morfología normales. Línea media centrada. Cisternas de la base libres. Charnela cráneo-cervical normal. CONCLUSIÓN: Estudio RM craneal que muestra dos pequeñas lesiones isquémicas subagudas superficiales en territorio insular y parietal de ACM izquierda, que coinciden con el área de hipoperfusión en la TC inicial, con desaparición del trombo en el segmento M2.
+
+EVOLUCIÓN
+A su llegada a urgencias a las 23:45h se detecta afasia hipofluente, leve paresia faciobraquial e hipoestesia derechas, puntuando un NIHSS de 6. Se realiza TC craneal con angioTC en el que se evidencia una oclusión a nivel distal del segmento M2 de la arteria cerebral media izquierda, sin signos de isquemia establecida. Dado el tiempo de evolución Se decide iniciar rtpa 8mg bolus, 72mg de perfusión (tiempo puerta-aguja 34 minutos). Por presentar hipertensión marcada se para la infusión en dos ocasiones, durante un total de unos 30 minutos, pudiéndose reiniciar posteriormente sin incidencias.
+Ingresa en unidad de ictus, con mejoría de la clínica hasta NIHSS de 1 por una leve asimetría facial derecha. Se realiza TC cerebral de control a las 24 horas que no muestra lesiones isquémicas establecidas.
+
+
+Se solicita estudio etiológico con analítica sanguínea, telemetría y ecocardiografía en las que destaca una salva de fibrilación auricular de menos de 30 segundos, por lo que se inicia anticoagulación con heparina subcutánea. La RM craneal evidencia dos lesiones isquémicas subagudas en el territorio de la arteria cerebral media izquierda que coincide con el territorio hipoperfundido en la TC inicial.
+Dado que la paciente refería episodios previos de palpitaciones a pesar de la corta duración del episodio, se orienta como un ictus isquémico de etiología cardioembólica por FA de debut y se mantiene tratamiento anticoagulante oral al alta con Sintrom.
+Dada la escasa repercusión clínica no realiza rehabilitación durante el ingreso. Finalmente, se decide alta a su domicilio habitual con controles ambulatorios posteriores. mRS al alta: 0, NIHSS al alta: 0.
+
+PROCEDIMIENTOS
+-	Analítica de sangre
+-	TC cerebral multimodal (TC simple + angioTC + TC perfusión)
+-	TC cerebral simple
+-	Telemetría
+-	Ecocardiografía transtorácia
+-	ECG
+-	RM craneal
+
+
+DIAGNÓSTICOS
+
+-	Infarto   isquémico   en   territorio   de   la   ACM   izquierda   de   mecanismo	embólico	y	etiología
+cardioembólica por fibrilación auricular de debut.			
+-	Fibrinolisis endovenosa.			
+-	Fibrilación auricular.			
+-	Hipertensión.			
+
+TRATAMIENTO  Y  RECOMENDACIONES  AL  ALTA
+Tratamiento al alta:
+-	Hidroclorotiazida 25mg 0.5 /día
+-	Omeprazol 20mg/d
+-	Nebivolol  5mg/d
+-	Trazodona 100mg/noche
+-	Simvastatina 10mg/d
+-	Losartan 50mg/d
+-	Noctamid 2mg/d ocasional
+-	Sintrom e Hibor según pauta adjunta.
+
+*Acudir a visita de control en CEx Neurología según programación adjunta.
+
+*Acudir a visita de control con Hemostasia según programación adjunta (Viernes 27/10).
+*Mantener el resto de visitas por sus médicos habituales.
+
+Recomendaciones generales:
+-	Tratamiento de la hipertensión arterial, manteniendo cifras por debajo de 140/90; en caso de ser diabético, cifras por debajo de 130/85.
+-	Control  y  tratamiento  de  las  enfermedades  cardiacas  (cardiopatía  isquémica,  insuficiencia  cardiaca, arritmias y valvulopatías).
+-	Evitar consumo excesivo de alcohol (se permite una o dos bebidas al día).
+-	Vigilancia y tratamiento del perfil lipídico: Dieta pobre en grasas, actividad física apropiada. Tratamiento farmacológico si precisa para mantener niveles de LDL<100mg/dl.
+-	Control de la glucemia, que debe ser <126mg/dl en ayunas, con dieta, antidiabéticos orales o insulina si precisa.
+-	Realizar actividad física, 30 a 60 minutos, de tres a cuatro veces a la semana.
+-	Continuar el tratamiento anticoagulante a las dosis recomendadas, siguiendo los controles necesarios.
+
+
+
+Responsable clínic: Dra. _NAME_ (NºCol. _ID_)
+Equip mèdic: _NAME_ (NºCol. _ID_)
+
+Servei que ha donat d'alta:
+NEUROLOGIA HOSP	Data d'alta:
+24.10.2017	Nom del metge que informa de l'alta:
+_NAME_ (NºCol. _ID_)
+
+
+_LOCATION_, 24.10.2017
+Pàg. 1 de   5

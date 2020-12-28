@@ -1,0 +1,22 @@
+T1	SECCION_TIPO_DE_INGRESO 428 453	Tipo ingreso/Tipus ingrés
+T2	SECCION_MOTIVO_DEL_ALTA 462 479	Motivo/Motiu alta
+T3	SECCION_DIAGNOSTICOS 493 498	Diag.
+T4	SECCION_PROCEDIMIENTOS 519 524	Proc.
+T5	SECCION_MOTIVO_DE_INGRESO 574 612	Motivo de consulta / Motiu de consulta
+T6	SECCION_ANTECEDENTES 637 699	Antecedentes e historia previa / Antecedents i història prèvia
+T7	SECCION_ANTECEDENTES_PERSONALES 700 724	Antecedentes  personales
+T8	mRankin_previa 828 833	mRs 3
+#8	AnnotatorNotes T8	3
+T9	SECCION_ANTECEDENTES_PATOLOGICOS 835 859	ANTECEDENTES PATOLÓGICOS
+T10	SECCION_TRATAMIENTO_HABITUAL 1745 1764	MEDICACIÓN HABITUAL
+T11	Tratamiento_antiagregante_hab 1793 1815	Acido acetilsalicilico
+T12	SECCION_PROCESO_ACTUAL 2001 2031	Proceso actual / Procés actual
+T13	SECCION_EXPLORACION_FISICA 2337 2375	Exploración física / Exploració física
+T14	SECCION_EXPLORACION_FISICA_EN_URGENCIAS 2527 2551	A SU LLEGADA A URGENCIAS
+T15	NIHSS_previa 3383 3390	NIHSS 2
+#15	AnnotatorNotes T15	2
+T16	SECCION_EXPLORACIONES_COMPLEMENTARIAS 3985 4045	Exploraciones complementarias / Exploracions complementàries
+T17	SECCION_EVOLUCION 4169 4189	Evolución / Evolució
+T18	SECCION_TRATAMIENTO_AL_ALTA 5717 5750	Plan terapéutico / Pla terapèutic
+T19	Tratamiento_anticoagulante_alta 5854 5861	Clexane
+T20	SECCION_RECOMENDACIONES 5983 6027	Otras recomendaciones / Altres recomanacions

@@ -1,0 +1,135 @@
+T1	Fecha_de_ingreso 263 273	05/08/2017
+#1	AnnotatorNotes T1	2017-08-05
+T2	Fecha_de_alta 285 295	10-08-2017
+#2	AnnotatorNotes T2	2017-08-10
+T4	Ictus_isquemico 360 374	Ictus isquèmic
+T5	Lateralizacion 386 387	D
+T6	_SUG_Lateralizacion 441 442	D
+T7	_SUG_Lateralizacion 491 492	D
+T8	_SUG_Lateralizacion 514 515	D
+T9	_SUG_Lateralizacion 1032 1033	I
+T10	FECHA 1035 1039	2011
+#10	AnnotatorNotes T10	2011-UNDEF-month-UNDEF-day
+T11	FECHA 1230 1234	2014
+#11	AnnotatorNotes T11	2014-UNDEF-month-UNDEF-day
+T12	_SUG_Lateralizacion 1301 1311	bilaterals
+T13	_SUG_Lateralizacion 1312 1313	e
+T14	FECHA 1381 1388	04/2017
+#14	AnnotatorNotes T14	2017-04-UNDEF-day
+T15	_SUG_Lateralizacion 1407 1412	dreta
+T16	_SUG_Lateralizacion 1425 1433	esquerre
+T17	HORA 1718 1720	24
+#17	AnnotatorNotes T17	24:00
+T18	HORA 1741 1743	24
+#18	AnnotatorNotes T18	24:00
+T19	HORA 1764 1766	24
+#19	AnnotatorNotes T19	24:00
+T20	HORA 1783 1785	24
+#20	AnnotatorNotes T20	24:00
+T21	HORA 1809 1811	24
+#21	AnnotatorNotes T21	24:00
+T22	HORA 1837 1839	24
+#22	AnnotatorNotes T22	24:00
+T23	HORA 1863 1865	12
+#23	AnnotatorNotes T23	12:00
+T24	HORA 1885 1887	24
+#24	AnnotatorNotes T24	24:00
+T25	FECHA 1904 1908	1/24
+#25	AnnotatorNotes T25	2024-01-UNDEF-day
+T27	FECHA 2304 2314	26/07/2017
+#27	AnnotatorNotes T27	2017-07-26
+T29	_SUG_Ataque_isquemico_transitorio 2648 2653	ictus
+T30	_SUG_Ataque_isquemico_transitorio 2672 2677	ictus
+T31	Hora_llegada_hospital 2705 2710	21:40
+#31	AnnotatorNotes T31	21:40
+T32	_SUG_Lateralizacion 2771 2776	dreta
+T33	_SUG_Ataque_isquemico_transitorio 2809 2814	ictus
+T34	HORA 2821 2826	21:45
+#34	AnnotatorNotes T34	21:45
+T35	_SUG_TAC_craneal 2841 2844	TAC
+T36	_SUG_TAC_craneal 2855 2863	angioTAC
+T37	Hora_TAC_inicial 2870 2875	22:00
+#37	AnnotatorNotes T37	22:00
+T38	_SUG_Ataque_isquemico_transitorio 2902 2907	ictus
+T39	HORA 2914 2919	22:25
+#39	AnnotatorNotes T39	22:25
+T40	FECHA 3220 3230	04/08/2017
+#40	AnnotatorNotes T40	2017-08-04
+T41	_SUG_Lateralizacion 3286 3287	I
+T42	_SUG_Lateralizacion 3487 3492	dreta
+T43	_SUG_Lateralizacion 3640 3645	dreta
+T44	FECHA 3675 3685	07/08/2017
+#44	AnnotatorNotes T44	2017-08-07
+T45	_SUG_Lateralizacion 3810 3819	bilateral
+T46	_SUG_Lateralizacion 4191 4196	dreta
+T47	_SUG_Lateralizacion 4332 4341	bilateral
+T48	_SUG_NIHSS 4515 4520	NHISS
+T50	ASPECTS 4804 4816	Aspects = 10
+T51	_SUG_Etiologia 4910 4917	lacunar
+T52	_SUG_Localizacion 4910 4917	lacunar
+T53	_SUG_Lateralizacion 4945 4949	dret
+T54	_SUG_Lateralizacion 4971 4981	bilaterals
+T55	_SUG_TAC_craneal 5048 5050	TC
+T56	_SUG_Lateralizacion 5095 5100	dreta
+T57	_SUG_Lateralizacion 5139 5144	dreta
+T58	_SUG_Lateralizacion 5285 5293	esquerre
+T59	_SUG_Lateralizacion 5519 5523	dret
+T60	_SUG_Lateralizacion 5935 5939	dret
+T61	_SUG_Etiologia 6451 6462	ateromatosi
+T62	_SUG_Lateralizacion 6476 6485	bilateral
+T63	_SUG_Lateralizacion 6504 6508	dret
+T65	_SUG_Lateralizacion 6562 6567	dreta
+T66	_SUG_Lateralizacion 6699 6700	D
+T67	_SUG_Lateralizacion 6722 6727	dreta
+T68	_SUG_Ataque_isquemico_transitorio 6932 6937	ictus
+T69	_SUG_Ictus_isquemico 6932 6946	ictus isquèmic
+T70	Arteria_afectada 6959 6974	vertebrobasilar
+T71	_SUG_Lateralizacion 6991 6992	D
+T72	_SUG_Lateralizacion 7398 7399	D
+T73	NIHSS_alta 7401 7408	NIHSS 2
+T75	HORA 7591 7593	24
+#75	AnnotatorNotes T75	24:00
+T76	HORA 7614 7616	24
+#76	AnnotatorNotes T76	24:00
+T77	HORA 7637 7639	24
+#77	AnnotatorNotes T77	24:00
+T78	HORA 7656 7658	24
+#78	AnnotatorNotes T78	24:00
+T79	HORA 7682 7684	24
+#79	AnnotatorNotes T79	24:00
+T80	HORA 7710 7712	24
+#80	AnnotatorNotes T80	24:00
+T81	HORA 7736 7738	12
+#81	AnnotatorNotes T81	12:00
+T82	HORA 7758 7760	24
+#82	AnnotatorNotes T82	24:00
+T83	FECHA 7777 7781	1/24
+#83	AnnotatorNotes T83	2024-01-UNDEF-day
+T84	Hora_de_alta 7838 7843	11:27
+#84	AnnotatorNotes T84	11:27
+T85	SECCION_DIAGNOSTICOS 344 355	DIAGNÒSTICS
+T86	SECCION_ANTECEDENTES_PATOLOGICOS 732 754	ANTECEDENTS PATOLÒGICS
+T87	SECCION_TRATAMIENTO_HABITUAL 1682 1701	Tractament habitual
+T88	SECCION_SITUACION_FUNCIONAL 1911 1925	Situació basal
+T89	SECCION_MOTIVO_DE_INGRESO 1987 2001	MOTIU D'INGRÉS
+T90	SECCION_EXPLORACION_FISICA 3170 3187	EXPLORACIÓ FÍSICA
+T91	SECCION_EXPLORACION_FISICA_EN_URGENCIAS 3189 3218	Exploració física a urgències
+T92	SECCION_EXPLORACION_FISICA_DURANTE_HOSPITALIZACION 3647 3673	Exploració física a planta
+T93	SECCION_EXPLORACIONES_COMPLEMENTARIAS 4576 4606	EXPLORACIONS   COMPLEMENTÀRIES
+T94	SECCION_EVOLUCION 6858 6866	EVOLUCIÓ
+T95	SECCION_TRATAMIENTO_HABITUAL 7497 7507	TRACTAMENT
+T96	TAC_craneal 4705 4715	TC cranial
+#3	AnnotatorNotes T50	10
+T49	Etiologia 389 403	aterotrombòtic
+T98	Tratamiento_antiagregante_hab 1770 1773	AAS
+T26	Fecha_llegada_hospital 2477 2487	04/08/2017
+T3	Arteria_afectada 6986 6990	PICA
+#4	AnnotatorNotes T73	2
+T28	mRankin_alta 7410 7418	Rankin 3
+#5	AnnotatorNotes T28	3
+T74	Tratamiento_antiagregante_alta 7509 7520	Clopidogrel
+T97	Tratamiento_antiagregante_alta 7643 7646	AAS
+T99	Arteria_afectada 6537 6561	artèria caròtida interna
+T64	Fecha_TAC_inicial 2477 2487	04/08/2017
+#6	AnnotatorNotes T64	2017-08-04
+#7	AnnotatorNotes T26	2017-08-04

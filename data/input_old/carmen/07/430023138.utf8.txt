@@ -1,0 +1,164 @@
+
+
+
+
+
+Informe d'Alta Hospitalària	Cognoms i nom:
+_NAME_	NHC:
+_ID_
+	ABS:
+_SS_	CIP:
+_ID_	DNI:
+_ID_
+	Data de naixement:
+_DATE_	Sexe:
+Dona	Edat:
+89a	Telèfon:
+_CONTACT_
+	Finançament:
+CatSalut - _LOCATION_	Procedència:
+URGÈNCIES
+	Admissió:
+28.09.2017 - 23:58	Servei:
+NEUROLOGIA HOSP	Data entrada urg.:
+28.09.2017 - 18:26
+Adreça:
+_LOCATION_	Població:
+_LOCATION_	Codi Postal:
+_LOCATION_
+
+
+
+Motivo ingreso:
+Mujer de 89 años que ingresa por afasia.
+
+
+ANTECEDENTES
+-	Sin alergias medicamentosas conocidas.
+-	Hipertensión arterial en tratamiento médico.
+-	Dislipemia en tratamiento médico.
+-	Fibrilación auricular anticoagulada con Sintrom. Última ETT de 2012, sin valvulopatías y con FEVI conservada.
+-	Episodio de afasia motora autolimitada orientada como un un ccidente isquémico transitorio en territorio de la arteria cerebral media izquierda de etiología cardioembólica por fibrilación auricular paroxística en Septiembre 2012. Se cubre al alta con anticoagulación, eligiendo Rivaroxaban por Insuf.Renal y dificultad para acudir a los controles.
+-	Cardiopatía isquémica. Un episodio de angina de pecho antes del año 2000, se realizó cateterismo. Familia desconoce si se realizó alguna intervención terapéutica, no disponemos de informes. No ha presentado clínica anginosa desde entonces.
+-	Osteoporosis. Fractura de fémur derecho y de varias vértebras hace aproximadamente 6 y 2 años respectivamente.
+-	Insuficiencia renal crónica con filtrado glomerular en torno a 30ml/min/1.73m2.
+-	Hiponatremia en Octubre 2017 que requirió ingreso en M. Interna. Se orientó como de origen farmacológico por lo que se suspendió rivaroxaban, micardis y citalopram. Desde entonces anticoagulada con Sintrom.
+-	Vértigo periférico paroxístico benigno.
+-	Problemas de insomnio importantes.
+-	Síndrome de piernas inquietas.
+-	BAV de primer grado.
+-	Trastorno del espectro ansioso en tratamiento médico.
+-	Antecedentes quirúrgicos: colecistectomía hace aproximadamente 20 años. Intervenida de fémur derecho (prótesis) y a nivel vertebral. Intervenida a los 8 años de extravismo
+-	Antecedentes familiares: Padre - fallecido por tumor cerebral alrededor de los 50 años. Madre - fallecida por infarto agudo de miocardio con más de 80 años.
+
+-	Tratamiento habitual: Venlafaxina retard 75mg cada 24h, sintrom según pauta, orfidal 1mg 2 cada 24h, omeprazol 20mg cada 24h, furosemida 40mg 0.25 cada 24h, ramipril 2.5mg, 0.5 cada 24h, pravastatina 20mg cada 24h.
+
+-	Situación sociofuncional: Vive sola con ayuda de cuidadora de 11-17h. Parcialmente independiente para actividades básicas, camina con andador, va sola al aseo, buen nivel cognitivo. No sale de casa sola. mRS de 3.
+
+ENFERMEDAD ACTUAL
+Mujer de 89 años que el día 28/09 a las 17.00h de forma brusca inicia un cuadro de trastorno del lenguaje detectado por su familia mientras acudía a su ambulatorio. Desde allí se deriva como código ictus. Llega a urgencias y se activa código desde triaje (18.34h).
+
+EXPLORACIÓN FÍSICA
+A su llegada a urgencias:
+-	Constantes: TA: 140/66mmHg, Fc: 64, FR: 18, sat: 96%, T: 36.0, Glic: 74mg/dl, INR 1.4
+-	Exploración Neurológica:
+-	Consciente, orientada en espacio y parcialmente en tiempo, nomina 2/4 items, intoxicación a órdenes semicomplejas, hipofluencia con parafasias, oculomotricidad normal, campimetria normal, no asimetria facial, no déficit motor ni sensitivo.
+-	NIHSS: 0.1.0.0.0.0/0(0.0)(0.0)/0.0.2.0.0=3
+
+Durante el empeoramiento en sala de neurología (29.09):
+-Somnolienta.
+-Mutista
+-HHD por amenaza.
+-PICNR, limitación de la mirada a la derecha.
+-No paresia facial al Foix.
+-Balance motor poco valorable, aparente debilidad en ESD, moviliza ambas EEII de forma simétrica.
+-Sensibilidad no valorable.
+NIHSS: 1.2.2.1.2 / 0.0+1.0+0/ 0.0.3.0.0=12
+
+Al alta:
+-Vigil, orientada en persona y espacio. Parcialmente en tiempo.
+-Sin afasia ni disartria.
+-PICNR, MOE correcta.
+-Campimetría por confrontación normal.
+-Trigémino sensitivo normal.
+-Sin asimetría facial.
+-Pares craneales bajos normales.
+-Balance motor con paresia 4/5 en EID.
+-Sensibilidad táctil normal.
+-No negligencia ni extinción. no valorable. NIHSS: 1 (paresia crural drecha)
+
+EXPLORACIONES COMPLEMENTARIAS
+-   Analítica urgente: destaca insuficiencia renal (creatinina 1,44 mg/dl) hiperpotasemia 5,99, Hb 110, INR 1.4
+-	Analítica de control (4.10) PCR elevada (23,6 mg/l). Perfil lipídico: LDL 112 mg/dl. Ionograma correcto, Creat 113 con Urea 10.6, FG 37ml/min/1.73m2, función hepática normal. Hb 116g/L, VSG 88mm/h, HbA1C 5.1%, Vitamina B12 y ácido fólico normal.Triglicèrids 138,95mg/100mL Colesterol 185,37mg/100ml, Perfil lipídico en curso.
+-	Analítica control 11/10 (tras diarrea): hiperpotasemia de 5.8, mejoría de la función renal (Creat 116, Urea 13.4), FG estimado 36ml(min/1.73m2. Perfil hepático y pancreático normal. Hemograma con Hb 112 normocítica, normocroma y sin otras alteraciones relevantes.
+-	Analítica pre-alta (13.10): Sodi 140 mmol/L ( 136 - 145 ) Potassi 5,61 mmol/L ( 3,50 - 5,10 ) Urea 15,6
+mmol/L ( 2,9 - 8,2 ) 94 mg/100mL Creatinina 135 µmol/L ( 0 - 80 ) 1,52 mg/100mL Filtrat glomerular estimat
+30,04 mL/min/1.73m2
+-	ECG: ritmo sinusal, Bloqueo AV de primer grado, BRDHH.
+-	TC craneal urgente: sin lesiones intracraneales agudas, ASPECTS 10.
+-	TC craneal 29/09 (por empeoramiento clínico): Se compara con el TC craneal previo de ayer, sin apreciar cambios significativos. No se observa la presencia de hemorragias intracraneales, lesiones isquémicas agudas, efectos de masa, desplazamientos de la línea media ni otras alteraciones significativas.
+-	Neurosonología: Dúplex TSA: A nivel de TSA muy abundante ateromatosis en segmento común, bulbo y ambas ACIs a expensas de placas calcificadas que no ocasionan estenosis. Dominancia AV izquierda. Dúplex TC: No tiene ventana transtemporal.
+-	EEG: Lentificación difusa.
+-	Sedimento de orina: Positivo para E. Coli sensible a amoxicilina-clavulánico, resistente a ciprofloxacino y levofloxacino.
+-	RM craneal con angioRM: No se observan lesiones isquémicas recientes. Focos de hiperseñal en la sustancia blanca periventricular, subcortical y protuberancia, sugestivos de cambios por microanguiopatía. Foco de microsangrado en corona radiada izquierda. Sistema ventricular de tamaño y morfología normal. Cisternas basales libres. Vacío de señal en T2 de las estructuras vasculares intravasculares indicando permeabilidad. El estudio angiográfico no muestra alteraciones significtaivas en las arterias intracraneales estudiadas. Resto sin alteraciones significativas. Conclusión: Estudio sin lesiones isquémicas recientes. Moderada leucoaraiosis.
+-	Coprocultivo: Negativo incluyendo toxina Cl. difficile.
+
+
+EVOLUCIÓN
+A su llegada a urgencias se encuentra hemodinámicamente estable y afebril, normoglicémica y con INR 1.4 por Coagucheck. A la exploración neurológica destaca una una afasia mixta, puntuando un NIHSS de 3. Se realizó TC craneal simple en el que no se apreciaron lesiones intracraneales agudas u otros signos de isquemia. No se administró tratamiento reperfusor por NIHSS bajos y estado sociofuncional.
+Inicialmente se orientó como un ictus isquémico probablemente cardioembólico en contexto de fibrilación auricular infradescoagulada, por lo que se inició BIC de heparina e ingresó en Sala de Neurología para completar estudio y para seguimiento evolutivo.
+Durante su estancia, el 29/09, presentó un empeoramiento de la focalidad, con afasia global, por lo que se activó código ictus y se realizó una nueva TC craneal que tampoco mostró lesiones parenquimatosas. Dado el tiempo de evolución (al menos 12 horas desde el empeoramiento), la falta de lesiones en la neuroimagen y al tratarse de segundo episodio (el previo con neuroimagen también normal), se planteó una posible causa comicial, por lo que se solicitó un EEG que resultó normal. Fue recuperando el nivel de consciencia de forma progresiva hasta la práctica resolución de la clínica de forma espontánea a las 36h del episodio, persistiendo un síndrome confusuional con desorientación que mejoró porgresivamente en los siguientes días. Desde entonces no ha presentado nuevos episodios, estando subjetivamente asintomática, destacando a la exploración neurológica una leve paresia crural derecha.
+Se completó el estudio con RM craneal que no evidenció lesiones intracraneales agudas por lo que finalmente se orientó como un posible episodio comicial. De momento, se decidió no iniciar tratamiento anticomicial, en espera de la evolución clínica.
+Por  otro  lado,  dada  la  oscilación en  los  controles  previos  de  INR  y  de  acuerdo  con  el  servicio  de hemostasia, se decidió sustituir tratamiento anticoagulante con Sintrom por Xarelto (Rivaroxaban).
+Tras haber completado una semana de tratamiento con amoxicilina-clavulánico por una infección urinaria por E. Coli multisensible y haber reiniciado anticoagulación oral con Xarelto, como incidencias presentó un episodio de dolor abdominal, tres deposiciones diarrecias y vómitos con coprocultivo negativo, incluyendo la toxina de Clostridium difficile. Analíticamente presentó una hiperpotasemia de 5.8mEq/l, por lo que se recomienda restricción dietética de potasio y resincalcio oral, con nuevo control analítico en los próximos días (se cursa pre-alta para control por su médico de atención primaria).
+Finalmente, dada la estabilidad clínica, se decide el alta a su domicilio habitual, con fisioterapia domiciliaria mRS al alta: 4, NIHSS al alta: 1 (mínima paresia ESD).
+
+PROCEDIMIENTOS
+-ECG
+-TC craneal
+-Analítica sanguínea
+-Sedimento de orina
+-RM craneal
+-EEG
+-Coprocultivo
+
+
+DIAGNÓSTICOS
+-	Afasia regresiva de posible etiología comicial.
+-	Fibrilación auricular.
+-	Infección urinaria resuelta.
+-	Gastroenteritis aguda autolimitada
+-	Hiperpotasemia en contexto de diarrea.
+-	Insuficiencia renal crónica
+
+TRATAMIENTO Y RECOMENDACIONES AL ALTA
+Tratamiento al alta:
+-	Dieta con restricción de potasio (se adjunta)
+-	Xarelto 15mg 1 comprimido cada 24h (cena)
+-	Amlodipino 5mg al día
+-	Resincalcio 1 sobre cada 8 horas hasta próximo control analítico
+-	Suspender ramipril. Valorar reintroducirlo  en función de control TA y potasio
+-	suspender Sintrom.
+
+-	Resto del tratamiento habitual: Venlafaxina retard 75mg cada 24h, sintrom según pauta, orfidal 1mg 2 cada 24h, omeprazol 20mg cada 24h, furosemida 40mg 0.25 cada 24h, pravastatina 20mg cada 24h.
+-	Control en Consulta Externa de Neurología (Se adjunta) Recomendaciones generales
+-	Tratamiento de la hipertensión arterial, manteniendo cifras por debajo de 140/90; en caso de ser diabético,
+cifras por debajo de 130/85.
+-	Control  y  tratamiento  de  las  enfermedades  cardiacas  (cardiopatía  isquémica,  insuficiencia  cardiaca, arritmias y valvulopatías).
+-	Evitar consumo excesivo de alcohol (se permite una o dos bebidas al día).
+-	Vigilancia y tratamiento del perfil lipídico: Dieta pobre en grasas, actividad física apropiada. Tratamiento farmacológico si precisa para mantener niveles de LDL<100mg/dl.
+-	Control de la glucemia, que debe ser <126mg/dl en ayunas, con dieta, antidiabéticos orales o insulina si precisa.
+-	Realizar actividad física, 30 a 60 minutos, de tres a cuatro veces a la semana.
+-	Continuar el tratamiento anticoagulante a las dosis recomendadas, siguiendo los controles necesarios.
+
+Responsable clínic: Dra. _NAME_ (NºCol. _ID_)
+Equip mèdic: _NAME_ (NºCol. _ID_), Dr. _NAME_ (NºCol. _ID_)
+
+Servei que ha donat d'alta:
+NEUROLOGIA HOSP	Data d'alta:
+13.10.2017	Nom del metge que informa de l'alta:
+Dra. _NAME_ (NºCol. _ID_)
+
+
+_LOCATION_, 13.10.2017
+Pàg. 1 de   5

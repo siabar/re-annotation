@@ -1,0 +1,162 @@
+
+
+
+
+
+Informe d'Alta d'Urgències	Cognoms i nom:
+_NAME_	NHC:
+_ID_
+	ABS:
+_SS_	CIP:
+_ID_	DNI:
+_ID_
+	Data de naixement:
+_DATE_	Sexe:
+Dona	Edat:
+78a	Telèfon:
+_CONTACT_ FILLA
+	Adreça:
+_LOCATION_
+	Finançament:
+CatSalut - CATALUNYA	Procedència:
+URGÈNCIES
+Episodi:
+_ID_	Admissió:
+11.01.2017 - 11:51	Assistència:
+11.01.2017 - 12:29	Servei:
+URGENCIES MEDICINA
+
+
+
+Motiu Consulta:
+Código ictus.
+
+
+MALALTIA ACTUAL
+Mujer de 78 años traída a las urgencias de nuestro centro como código ictus extrahospitalario.
+
+Antecedentes a destacar de HTA, DM2 de díficil control (control en HSCSP), DLP e infarto isquémico en territorio de la ACM derecha de etiología indetermianda en 2014. Desde el punto de vista sociofuncional presenta deterioro de funciones superiores aparentemente leve y es parcialmente de pendiente (aunque sale a la calle en ocasiones, requiere supervisión para actividades básicas; mRS 3).
+
+Su marido avisó a su hija a las 11:00 am porque la paciente no se despertaba. Fue encontrada por esta tumbada en su cama con incapacidad para emitir lenguaje y ausencia de movilidad de extremidades derechas; última hora vista asintomática a las 22:30 del día anterior. Avisa al SEM quien tras valorarla activan código ictus extrahospitalario (TA 140/11= y glicemia 230 mg/dL a su valoración; obetivaron náuseas con posible aspiración de vómito).
+
+A su llegada (11:50) HD estable (FC 50 lpm, TA 200/80 mmHg, INR 1'1, sat O2 95%). A la exploración destaca paciente somnolienta, mutista, no obedece órdenes simples, presenta anisocoria (OD discoria, OI miosis; fotomotor abolido en ambas), desviación forzada de la mirada a la izquierda que no cruza línea media con oculocefálicos, reflejo corneal izquierdo preservado con derecho menos  reactivo, campimetría poco valorable pero impresiona de HHD, paresia facial central derecha, plejia braquial derecha con fuerza de MID preservada, sin alteraciones en sensibilidad algésica, RCP extensor derecho. NIHSS: 1.2.2.2.0/2.(4.0).(0.0)/0.0.3.2.
+0 = 18.
+
+Se realiza electrocardiograma en el que se objetiva ritmo de la unión a 50 lpm sin alteraciones agudas de la repolarización. En el TC craneal se evidencia lesión isqueémica parietal derecha establecida (ya conocida) y dudosa hipodensidad insular izquierda con dot sign en ACM izq (M2). Se descarta tratamiento de reperfusión por hora de inicio indeterminada.
+
+Durante la realización del TC presentó vómito con probable broncoaspiración asociada. Ante la sospecha de posible crisis comicial se administró rescate de rivotril y se aplicó carga de keppra. Además se pautó augmentine y broncodilatadores ante la alta sospecha de broncoaspiración.
+
+Se orientó como ictus isquémico en territorio de la ACM izquierda de mecanismo y etiología indeterminada por estudio incompleto. Se decide ingreso en U. de Ictus para control evolutivo; ante la ausencia de camas disponibles en el momento actual se traslada a monitorización.
+
+
+
+
+ANTECEDENTS
+
+Hàbits
+TABAQUISME - NO HABIT TABAQUIC ENOLISME - NO HABIT ENOLIC
+Antecedents patològics
+TSV con ablacion de via anomala
+
+Patológicos ANTECEDENTES
+-No AMC
+-No hábitos tóxicos
+
+FRCV:
+-Diabetes tipo 2 diagnosticada a los 45 años. Inicio de tratamiento con hipoglicemiantes orales, insulinización a los 2 años del diagnóstico. Complicaciones crónicas: Nefropatía diabética incipiente. Clínica de polineuropatía. Mal control crónico en contexto de falta de educación diabetológica y posible deterioro cognitivo incipiente. HbA1c 8.8% en septiembre de 2013. Descompensaciones agudas: Hipoglicemia asintomática de 50mg/dl. Actualmente en tratamiento con insulina Novomix 30 19-7-9 unidades en pauta móvil y metformina
+850mg/12h.
+-DLP sin tratamiento. Colesterol 243mg/d
+-Hipertensión  arterial  en  tto  con  Losartan/hidroclorotiazida,  no  toleró  calcio-antagonistas  por  edemas maleolares.
+
+Hº neurológica:
+-Paresia hemicuerpo D sin PC con alteraciones del habla autolimitado en febrero 2014
+- Episodio de Inestabilidad en la marcha, de inicio agudo con lateralización y caída hacia atrás con TCE sin pérdida de consciencia (rompió una vidriera del domicilio) en enero 2014.
+-CEX neurología por temblor y deterioro cognitivo: temblor an ambas manos de acción y depues de hacer esfuerzo, aunque ocasionalmente de reposo. Inicialmente de mano derecha y después bilateral. Desde 2008-2009 refiere que olvida más las cosas, especialmente los nombres y dificultad para encontrar las palabras. Se orienta como temblor mixto sin signos de parkinsonismo y se indica reconsultar  en caso de empeoramiento, desde entonces no ha reacudido a consulta.
+-Caida casual, en diciembre 2012 en la ducha del _SS_ donde estaba ingresada por ITU. Dx de Fractura no desplazada de C2, tratada con collarin blando.
+-Esguince intercostal hemitorax derecho en 2010
+-Ansiedad en tto con BZD puntuales
+-TSV con ablación de via anómala, en Clínica Corachan (no constan informes)
+
+
+
+
+Medicación habitual (2/9/2014)  Acido acetilsalicilico: 100mg/24horas Latanoprost colirio
+Atorvastitina 80mg 1 comprimit/24h Losartan/hidroclorotiazida 100mg/25mg c/12h Metformina 850mg c/12h
+Daktarin crema 1 aplicación cada 24 h Novomix 30 Flexpen 100Ui/ml 40 UI cada 24h Clopidogrel 75mg/día
+
+Situacion sociofuncional (2/9/2014)
+Situación social: Vive con su marido, previamente independiente  para ABVD. Minimental  previo 28/30.
+Problemática social: su hija refiere que el marido no es capaz de ser su cuidador.
+
+Antecedents personals
+Fisiològics - Altres - G3P3A0
+
+Fisiològics - Altres Escolaridad hasta los 9 años.
+
+Antecedents familiars
+Primer Grau - Patològics - DIABETIS MEL.LITUS madre con diabetes tipo 2
+No historia de temblor o demencia.
+
+
+EXPLORACIONS COMPLEMENTÀRIES
+AS: Se adjunta
+
+ECG: ritmo de la unión a 50 lpm sin alteraciones agudas de la repolarización.
+
+TC inicial: TAC CRANEAL: Hemorragia NO Otras lesiones SI: Lesión isquémica antigua en el territorio superficial de la ACM derecha. Isquemia Aguda Visible SI. Isquemia Aguda Visible de ACM SI Localizacion de la Isquemia Aguda: insular izquierda Extension de la afectacion isquemica de ACM (ASPECTS <6; Contraindica TEV) NO Ingurgitacion parenquimatosa NO Efecto de masa sobre el sistema ventricular NO Desviacion de la linea media supratentorial SI/NO Desviacion de la linea media infratentorial  SI/NO Otros hallazgos/comentario: no se realiza angio TC por criterio clínico. Lacunar crónico en cabeza de caudado derecho. Impresión diagnóstica global: Hipodensidad cortical insular izquierda que en el contexto de la paciente es sugestiva de lesión isquémica establecidad en el territorio superficial de ACM I (ASPECTS 9). Hiperdensidad focal en un segmento M2 insular de la ACM izquierda que podría corresponder a pequeño trombo a dicho nivel.
+
+
+
+
+
+
+
+TC control 12.1: Se compara con el TC craneal previo, apreciado una hiperdensidad en la porción distal de la arteria carótida interna e inicial de la media izquierdas, además de una marcada hipodensidad parenquimatosa que afecta a todo el territorio carotídeo izquierdo. Efecto de masa con pérdida de surcos hemisféricos izquierdos y sobre el ventrículo lateral izquierdo, sin deviación de la línea media. No existen hemorragias intracraneales ni otros cambios en el resto del estudio con  respecto al previo del 11-1-17. CONCLUSIÓN: Signos sugestivos de trombosis en ACI distal, inicio de ACM izq, e infarto que afecta a todo el territorio carotídeo izquierdo.
+
+EVOLUCIÓ
+Empitjorament del seu estat neurològic Actualment:
+-Pacient amb important disminució del nivell de conciència. No obra els ulls al dolor però localitza amb el braç esquerra
+No desviació ocular, ROC presents horitzontals i verticals, pupil·les igual que ahir (dreta discòrica, esquerra miòtica, ambdues sense RF), no resposta a l'amenaça visual
+Hemiplegia F=B(0)>C(2 al dolor) dreta, al dolor sembla mobilitzar les extremitats esquerres amb normalitat, però a l'escala NIHSS puntuarien 3
+Resposta disminuida a l'estimul nociceptiu a extremitats dretes Babinski dret
+Respiració normal
+NIHSS: 2+2+2+0+0+2+4+3+4+3+0+1+3+0+0=26
+
+-Telemetria: ritme nodal
+-Constants amb HTA (TAS 160-210), FC 50-60, ahir febricular, glucemies >300 VALORACIO
+Infart antic ACM dreta de causa desconeguda
+Infart agut extens ACM esquerra amb evolucio a ACM maligna per edema Broncoaspiracio
+
+Evolución posterior:
+Informo a la hija de de los resultados del TC (ACM maligna) y mal pronóstico vital. Acordamos limitación al esfuerzo terapéutico para medidas agresivas y se valorará progresivamente la retirada de soporte según evolución y síntomas.
+Revaloro a la paciente, acompañada pos sus dos hijos, ya con tendencia na la hipotensión y bradicardia sin mejoría neurológica, sin interacción con el medio y signos de diconfort ocasionales (se retira VMK...). Entienden el mal pronóstico a corto plazo, por lo que se decide priorizar el control de sintomas y confort de la paciente, siendo éxitus el día 13.1.17 a las 08:00.
+
+DIAGNÒSTICS
+-	Exitus
+
+
+
+Infart antic ACM dreta de causa desconeguda
+Infart agut extens ACM esquerra amb evolucio a ACM maligna per edema Broncoaspiracio
+Insuf Resp 2ª
+
+
+
+
+
+
+
+
+
+
+
+Responsable clínic: Dr. _NAME_ (NºCol. _ID_)
+
+Servei que ha donat d'alta:
+URGENCIES MEDICINA	Data d'alta:
+13.01.2017 - 08:04	Nom del metge que informa de l'alta:
+Dr. _NAME_ (NºCol. _ID_)
+
+
+_LOCATION_, 14.01.2017
+Pàg. 1 de   5

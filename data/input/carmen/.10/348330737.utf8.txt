@@ -1,0 +1,95 @@
+_LOCATION_)
+Tel. _CONTACT_ / Fax. _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 87 anys
+NIF/DNI: _ID_Informe de Trasllat a Sociosanitari
+09:12:33
+14.03.2017
+_LOCATION_
+_SS_ MEDICINA INTERNA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_LOCATION_
+DOMICIL/RES.SOC 27.02.2017
+_NAME_
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Código ictus
+
+ANTECEDENTS
+-	No alergias medicamentosas conocidas.
+-	No hábitos toxicos
+-	HTA en tratamiento farmacologico
+-	ACxFA en tratamiento anticoagulante.
+-	Histerectomia.
+-	Colecistectomia por Colecistitis aguda litiasica gangrenosa y perforada el 23/12/09. Se solicita Colangio-RMN( 4/01/09) por persistencia de ictericia y colúria post-operatória, donde se observó dilatación de la via biliar intra y extrahepática atribuible a coledocolitiasis por lo que se realizó CPRE de forma programada el 14/01/09. Presencia de trombosis de de rama izquierda V Porta intrahepática.
+-	2011 ingreso en _SS_ por. HDA POST-CPRE.
+-	Gonartrosis severa.
+-	2011: fractura húmero I.
+Situación Basal: vive sola, IABVD; no deterioro cognitivo. Viuda reciente.
+
+
+
+MEDICACIÓ HABITUAL
+CALCIO D 1 x 24 h.
+DOXAZOSINA 4MG 1 x 24 h. DOXAZOSINA 8MG . 1 x 24h FENTANILO 25MCG/H 1 x 72 h.
+HIDROCLOROTIAZIDA 50MG 1 x 24 h.
+LORMETAZEPAM 1MG 1 x 24 h.
+LOSARTAN 100MG 1 x 24 h.
+OMEPRAZOL 20MG 1 x 24 h. SINTROM 4MG (13 mg/sem)
+
+
+
+PROCÉS ACTUAL
+Traida por SEM SVI por codigo Ictus. La familia refiere que creen que ha hecho su vida con normalidad hasta las 11:00 h (según reconstrucción de hechos de lo encontrado en su casa), sobre las 13 hs en encontrada en el suelo de casa con deterioro del nivel de alerta y hemiplejia izda, avisando a atención primaria que a su vez acitva codigo ictus. Llega a este centro sobre las 15.25h
+
+Informe de Trasllat a Sociosanitari
+
+
+
+EXPLORACIÓ FÍSICA
+
+FC 97 bpm FR 18 rpm TA s 189 mmHg SAT O2 96 % TA d 89 mmHg REG Resp: MVC
+AC: Arrtimica MMII: no edemas.
+MMSS: eritema en hombro izquierdo.
+NRL: conciente , desorientada, disartrica. Heminegligencia izquierda. Paralisis facial izquierda, Hemiplejia izquierda. RCPE izquierdo, flexor derecho.
+
+
+EXPLORACIÓ COMPLEMENTÀRIA
+Analitica: Hemoglobina, 12.8 g/dL Hematòcrit, 38.6 % V.C.M., 99.7 fL Plaquetes, 167 x10^9 u/L Leucòcits, 11.6
+x10^9 u/L Neutròfils % 92. Limfòcits % 1.9 INR 1.53 Glucosa, 100 mg/dL Creatinini 1.04 mg/dL Urea, 95 mg/dL Alanina aminotransferasa, 30 UI/L Potassi, 4.1 mmol/L Sodi, 145 mmol/L
+ECG: Ritmo de AC x FA 80 lpm, Eje normal, No trastornos agudos de la repolarización. TAC Cráneo:  hipodensidad extensa a nivel parietal derecho. No signos de sangrado. Rx tórax: mala calidad. Calcificación botón aórtico.
+
+
+EVOLUCIÓ CLÍNICA
+Se comenta con NRL de guardia _SS_ que indica que se trata de Ictus isquémico de probable etiología cardioembólia, no siendo candidata a rTPA. Indica manejo conservador (control de constantes, dieta absoluta las 1as horas y test de disfagia para valoración gradual de nutrición). Retirar tto anticoagulante los primeros días y comenzar previo TAC craneal de control con heparina sc. Se hizo así. La evolución ha sido muy buena siendo capaz de caminar y habiendo recuperado sutancialmente de su disartria. ESI: persiste -IV/V. ha iniciado rehabilitación con éxito. Hoy se traslada a SS para continuar recuperación. Quedaría pendiente de realizar TAC cranealk de control esta semana y si no hay transformación hemorrágica reiniciar anticoagulación con sintrom.
+
+
+
+DIAGNÒSTICS
+1.- 436/5 Ictus isquemico de probable etiologia cardioembolica 2.- HTA
+3.- AC x FA en tratamiento anticoagulante. 4.- Artrosis
+
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Ver SAVAC
+
+DESTINACIÓ A L'ALTA:	SOCI SANITARI
+
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+14.03.2017
+Pàgina 1 de 2

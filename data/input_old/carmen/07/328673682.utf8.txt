@@ -1,0 +1,216 @@
+_LOCATION_ Tel. _CONTACT_
+e-mail: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 69 Anys
+NIF/DNI: _ID__NAME_; _NAME_; 
+_NAME_; _NAME_
+Informe d'alta d'hospitalització
+CP	_LOCATION_
+ABS	_SS_
+Servei	NEUROLOGIA
+Data d'alta  27.01.2017	11:30:00
+_LOCATION_
+_CONTACT_; _CONTACT_ (NUERA); _CONTACT_ DOMICIL/RES.SOC
+21.01.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Ictus isquémico de territorio de ACM derecha.
+
+ANTECEDENTS
+Varón de 69 años, sin alergias medicamentosas conocidas, exfumador de hace 2 años. Bebedor habitual. Laboral: Pulidor de vidrio. mRS: 0.
+
+ANTECEDENTES PATOLÓGICOS:
+
+-Paciente  intervenido de stent 200 mm en AFS EII por trombosis arterial recuperando  pulso polpiteo (2013), antiagregado.
+-	Dislipemia.
+-	Bronquitis crónica en tratamiento broncodilatador.
+- Neoplasia de Pulmón: Reciente diagnóstico (Citología 30.12.2017) de un carcinoma pulmonar de LII/LSI, estadio IV, cT3 (7cm, contacto pleura mediastínica) N3 (adenopatías hiliares contralaterales) M1b (lesión sagital frontal izquierda) a raíz de hemoptisis . Dentro de las exploraciones complementarias se realiza
+
+Rx de tórax objetivando imágenes sugestivas de calcificaciones pleurales bilaterales probablemente residuales de asbestosis con pérdida de volumen en ápex y língula.
+
+Fibrobroncoscopia que mostró engrosamiento difuso de mucosa de LSI que no impide paso de FBS, pero que estenosa luz de b. segmentarios en aprox 40%, se realiza biopsia de espolón div língula y culmen (x4), con mucosa de sangrado fácil que precisa SF frío; a nivel de base de pirámide basal izquierda se observa pliegues engrosados de mucosa normal, resto sin alteraciones. Bajo tratamiento antibiótico con levofloxacino se mantiene estable durante todo el ingreso. Se realliza 3 BK esputo y BAS BK que es negativo, quedando  pendiente de Löwenstein.
+
+TC torácico ambulatorio el 18.01.17 que objetiva masa pulmonar compatible con proceso neoproliferativo primario que afecta a LII y LSI con signos de probable invasión mediastínica, adenopatías mediastínicas de aspecto tumoral bilaterales y en receso superior del saco menor, y signos de probable linfangitis carcinomatosa. Placas pleurales calcificadas.
+
+MEDICACIÓ HABITUAL
+AAS 100 mg 1/24h, Atrovent inh 2/12h, Pletal 100 mg 1/12h, Pravastatina 40 mg 1/24h, Ranitidina 150 mg 1/24h, Spiriva 18 mcg 1/24h
+
+PROCÉS ACTUAL
+Paciente que acude vía código ictus por debilidad de hemicuerpo izquierdo de cronología incierta. Última vez visto asintomático el 21.01.17 a las 1.00am. Se activa código ictus a las 12:25h, llegando a nuestro centro a las 12:40h.
+
+FR	rpm	TA s	115 mmHg	TA d   71 mmHg
+
+Informe d'alta d'hospitalització
+
+
+
+EFCXPL90ObRpAmCIÓ FÍSICA
+Tªaxi 35.8 ºC
+
+Tªrec  ºC	SAT O2 97 %	Pes Kg
+
+En Urgencias:
+Consciente y orientado en las tres esferas. Lenguaje sin elementos afásicos. Disartria leve. Preferencia oculocefálica a la derecha que no cruza linea media. Hemianopsia homónima izquierda. Paresia facial central izquierda leve. Hemiparesia izquierda leve de predominio braquial (mano parietal). Hemihipoestesia izquierda. Asomatognosia.
+NIHSS=(0.0.0)1.2/1(1.0)(0.0)/0. 1.0.1.1=8.
+
+Exploración Sietémica:
+AC: Rítmico, sin soplos, no roces
+AP: MV presente, no se evidencian ruídos sobreañadidos Abdomen: Blando, depresible, no doloroso a la palpación
+Extremidades: Simétricas, pulsos pedios presentes, no signos de trombosis venosa profunda
+
+
+En Unidad de Ictus Agudo:
+Consciente y orientado en 3 esferas. Anosognosia y asomatognosia leves. Disartria leve. No afasia. Hemianopsia izquierda. Paresia faciobraquial izqueirda de predominio distal. Hemianestesia izquierda.
+NIHSS: 0,0,0,0,2//1,0,1,0,0//0,2,0,1,2=9.
+
+Al alta: Paciente alerta orientado en espacio, persona no en tiempo, hipoausia bilateral importante, lenguaje fluente, leve disartria, henmianopsia homónima izquierda explorado por confrontación, leve asimetría facial izquierda, motilidad lingual sin alteraciones, ECM y trapecio fuerza preservada, extremidad superior izquierda escayolada sin déficit motor, extremidad superior derecha  y extremidades inferiores sin alteraciones, hemihipoestesia braquio-crural izquierda leve, extincióin sensitiva al doble estímulo sensitivo marcha inestable que mejora con ayuda técnica.
+
+NIHSS: 0-0-0-0-2//1(0-1)-(0-0)//0-0-0-1-2=7
+
+
+
+EXPLORACIÓ COMPLEMENTÀRIA
+En Urgencias:
+ECG (21/01/2017):  ritmo sinusal a 70 lpm, eje 60º, pR 0.12seg, QRS estrecho, sin alteraciones agudas de la repolarización
+
+Analítica (21/01/2017):
+Hemograma: Leucocitos 9900 ()N 63%), Hb 13.7g/dl, Hto 41%, plaquetas 207.000. Hemostasia: TP 74%, fibrinógeno 349mg/dl, TTPA 28.9seg, INR 1.25.
+Bioquímica: Glucosa 101 mg/dL, Urea 19.5 mg/dL, Creatinina  0.83 mg/dL, Sodio 132.6 mmol/L, Potasio 3.8 mmol/L, Cloruro 101.2 mmol/L, Proteína total 71.3 g/L, Calcio 9.1 mg/dL, ALT 14 U/L, PCR 20.5 mg/L, CK 96 U/L.
+
+Informe d'alta d'hospitalització
+
+
+
+
+RM cerebral multiparamétrica (21/1/2017 13:03h): Ictus isquémico parietal derecho (brilla en difusión y restringe en ADC) y lesión frontal izquierda,  ya establecido en FLAIR.
+
+En Unidad de Ictus Agudo: Analítica de ingreso (23/1/2017):
+Bioquímica: Hemoglobina glicosilada 5.3%, Proteína 76.6 g/L, Calcio 9.6 mg/dL, LDH 346 U/L, PCR 29.1 mg/L. Perfil lipídico: Triglicéridos221 mg/dL, Colesterol 205 mg/dL, HDL 41.4 mg/dL, LDL 119 mg/dL.
+TSH: 2.44.
+Marcadores tumorales: Negativos: CEA 0.97 ng/mL, aFP 2.46 ng/mL, CA 19-9 8.7 U/mL.
+Proteinograma: Se observa una banda de movilidad  restringida gamma, con porcentaje componente monoclonal de 12.3%
+
+
+Ecocardiograma transtorácico (23/01/2017): Ventrículo izquierdo no dilatado y ligera-moderadamente hipertrófico. Función sistólica global conservada (FE 57%) con acinesia localizada septal apical. Sin valvulopatías significativas. Alteración diastólica tipo I.
+
+Rx mano izquierda (21/01/2017):  No se aprecian fracturas
+
+EVOLUCIÓ CLÍNICA
+Varón de 69 años, con antecedentes enolismo, dislipemia, bronquitis crónica, trombosis arterial en extremidad inferior izquierda (2013) y de hemoptisis reciente pendiente de informe de TC torácico, que acude a Urgencias el 21.01.2017 por debilidad de extremidades izquierdas del despertar. A su llegada a Urgencias, hemodinámicamente estable y afebril. A la exploración neurológica presenta hemianopsia homónima derecha, debilidad de hemicuerpo izquierdo y hemihipoestesia izquierda puntuando una NIHSS de 8. ECG en ritmo sinusal. Se realiza una analítica urgente que no muestra alteraciones significativas. Se realiza una RM cerebral multiparamétrica que muestra lesiones isquémicas agudas en múltiples territorios con una de mayor tamaño parietal derecha en contexto de oclusión de rama M2 derecha en ausencia de mismatch clínico/angio o DWI/angio así como una lesión frontal izquierda sugestiva de metástasis cerebral. Se orienta como ictus isquémico multiterritorialde mecanismo embólico y etiología a estudio. El paciente no es tributario de tratamiento fibrinolítico por objetivar lesión subaguda ni tratamiento endovascular por ausencia de missmatch. Se inicia tratamiento de prevención con antiagregación y enoxaparina profiláctica y se decide ingreso en Unidad de Ictus Agudo para estudio etiológico y control clínico, hemodinámico y metoabólico.
+
+Durante el ingreso en la Unidad de ictus se objetiva hipertensión arterial que remitió de forma espontánea sin precisar medicación de rescate. La  monitorización cardíaca no objetivó arritmias potencialmente embolígenas. Dentro del estudio etiológico se realizó analítica ordinaria que reveló dislipemia leve (LDL 119 mg/dL) como única alteración significativa. Ecocardiograma transtorácico que fue normal.
+
+Ante el antecednete de hemoptisis, hallazgos en  TAC torácico del 18/01/2017 y citología compatible con neoplasia de pulmón se solicita valoración por neumología se comenta caso en comité de oncología , quienes recomiendan realizar  PET-TAC y RM cerebral con contraste para continuar el estadiaje para decisión terapéutica y pronóstica de forma ambulatoria.
+
+Informe d'alta d'hospitalització
+
+
+
+
+Las primeras horas de evolución en Unidad de Ictus en el contexto de agitación presenta caída desde la cama con traumatismo en extremidad superior izquierda siendo evaluado por el Servicio de Traumatologíaquienes decartaron presencia de fractura por radiografía ósea se pautó inmovilización tratamiento analgésico; se inicia además tratamiento con tiamina por antecednete enólico y bezodiacepinas. Se realiza test de disfagia que es normal , tolera adecuadamente dieta oral, e inicia trataiento rehabilitador.
+
+Se orienta como ictus en territorio de ACM derecha en el contexto de estado protrombótico en paciente con reciente diagnóstico de neoplasia de pulmón pendiente de estudio por oncología médica.
+
+Dada la mejoría clínica desde el punto de vista neurológico se decide alta a domicilio y completará estudio de neoplasia de pulmón de forma ambulatoria y se solicita rehabilitación domiciliaria.
+
+Al Alta:
+NIHSS: 0-0-0-0-2//1(0-1)-(0-0)//0-0-0-1-2=7
+Rankin: 3
+Barthel: 80
+
+
+
+DIAGNÒSTICS
+436/5 Ictus de ACM derecha en el contexto de estado protrombótico secundario a neoplasia de pulmón
+-	Carcinoma pulmonar de LII/LSI, estadio IV  N3  M1b
+
+
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+-	Mantener inmovilización durante 1 semana a 10 días, según criterio de COT zona.
+-	Crioterapia cada 6 horas 20 minutos.
+-	Mantener la mano sobre cojín (cuando esté encamado) o con cabestrillo, como medida antideclive.
+
+- AAS 300 mg 1/24h
+-	Enalapril 5 mg c/ 24 horas
+-	Pravastatina 40 mg c/ 24 horas
+-	Paracetamol 1 gr c/ 8 horas
+-	Diazepam 2.5 1-1-2
+-	Budesonida 200 mcg /inh 2 inhalaciones c/ 12 horas
+-	Tiotropio 2.5 mcg/inh 2 inhalaciones c/ 24 horas
+-	Tiamina 300 mg c/24 horas (2 seamnas) y suspender
+
+CONTROL
+-	Acudir a médico de cabecera para control de traumatismo de extremidad superio izquierda
+-	Control con neurología en consultas externa en tres meses
+-	Pendiente de realizar RM cerebral con contraste (le llamaran por teléfono)
+-	Pendiente de primera visita con oncología médica se le avisará por teléfono
+-	Iniciará tratamiento de rehabilitación domiciliaria
+-	
+Informe d'alta d'hospitalització
+
+
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+27.01.2017
+Pàgina 1 de 5

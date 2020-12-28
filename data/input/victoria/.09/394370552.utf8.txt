@@ -1,0 +1,117 @@
+_LOCATION_
+email: _CONTACT_ Telèfon _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 80 Anys
+NIF/DNI: _ID__NAME_; _NAME_; _NAME_; _NAME_, _NAME_
+Informe d'alta d'hospitalització
+16:24:08
+27.07.2017
+_LOCATION_
+_SS_ NEUROLOGIA
+ABS
+Servei Data d'alta
+_CONTACT_; _CONTACT_; _CONTACT_
+DOMICIL/RES.SOC 25.07.2017
+_LOCATION_
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Varón de 80 años, sin alergias medicamentosas conocidas, ex consumidor de OH, que es traido por agitación psicomotriz
+
+ANTECEDENTS
+-Hipertensión arterial
+-Dislipemia
+-Insuficiencia renal crónica de etiología no filiada. Última creatinina (07/2016) 1.52 mg/dl, FG 43 ml/min/1.73m2.
+-Meningioma paraselar intervenido en 03/2004. Última RM octubre 2016 en la que se observa un incremento del tamaño de los restos tumorales del meningioma conocido dependiente de la superficie meníngeas que tapizan la apófisis clinoides anterior derecha. Pendiente de nuevo control RM
+-Hidrocefalia post-tumoral con derivación ventriculoperitoneal en 09/2016 habiendo presentado clínica de deterioro cognitivo e inestabilidad de la marcha. Útimo TC craneal (10/2016): derivación ventricular frontal izquierda sin complicaciones persistiendo hidrocefalia cronica supratentorial y cambios en region fronto temporal derecha atribuibles a intervencion sobre meningioma.
+-En seguimiento por Neurología por deterioro cognitivo leve, presentó clinica compatible con crisis parciales complejas en forma de episodios de desorientación súbita, por lo que se pautó levetiracetam, que no tomó en ningun momento.
+
+-IQ: hemiartroplastia bipolar de cadera derecha.
+
+Sociofuncional: vive con su mujer. Independiente para las ABVD. Deterioro cognitivo leve
+
+MEDICACIÓ HABITUAL
+Acido acetilsalicilico 100mg 1cp/24h; Alendronato 70mg 1cp/semana; Hidroclorotiazida 50mg 1cp/24h; Levetiracetam 500mg c/12h; Omeprazol 20mg 1cp/24h; Oviscal D sobres
+
+PROCÉS ACTUAL
+Paciente que presentó el día 23/7/2017 caída con desconexión del medio/trastorno del lenguaje y que durante el traslado a _SS_ presenta una crisis epiléptica TCG con desviación oculocefálica derecha (según describen en informe). Objetivandose focalidad neurologica en forma de PFSN I y hemiparesia, se activó codigo ictus derivandose a nuestro centro por sectorización donde se completó estudio con TC craneal simple que no objetivó lesiones agudas y con estabilidad de la lesión tumoral respecto a estudios previos. Valorado tambien por parte de Neurocirugía quienes descartaron disfunción de la válvula. Presentó recuperación posterior, orientandose finalmente como crisis epiléptica con paresia residual resuelta (fenómeno de Todd) de probable etiología tumoral/post-quirúrgica, siendo dado de alta el 24/7/2017 con tratamiento con LEV 500mg cada 12 horas. Reconsultan en la misma noche tras el alta por agitación en domicilio. Niegan otros cambios ni otras incidencias.
+
+EXPLORACIÓ FÍSICA
+
+FC   68 bpm	FR    16 rpm	TA s    114 mmHg	TA d   75 mmHg
+
+Informe d'alta d'hospitalització
+
+
+
+
+Tªaxi 36.0 ºC	Tªrec  ºC	SAT O2 97 %	Pes Kg
+
+Exploración física en Urgencias
+TA 114/75mmHg, FC 68lpm, Tª 36.0ºC, SaO2 97% aa
+Paciente con estado general conservado, normocoloreado, normohidratado y normoperfundido.
+Auscultación cardiaca con tonos rítmicos y sin soplos, no presenta edemas en miembros inferiores ni ingurgitación yugular. Auscultación pulmonar con murmullo vesicular conservado sin ruidos sobreañadidos.
+Neurológicamente vigil, atento, orientado en persona y espacio, parcialmente en tiempo (recuerda día y mes, equivoca el año), no DOC, no defectos campimétricos, no paresia en los MOEs, paresia facial leve supranuclear izquierda de dificil valoración, resto de PPCC conservados. Balance motor y sensitivos conservados. No extinción ni negligencia. No asterixis ni meningismo.
+
+Exploración física en Planta de Neurología
+TA 137/67mmHg, FC 74lpm, Tª 36.7ºC, SaO2 96% aa
+NRL: tendencia a somnolencia, desorientado en espacio y tiempo. No alteraciónes del lenguaje. Disartria inteligible. No déficit campimetrico por confrontación, MOEs sin aparentes restricciones. Paresia facial leve supranuclear izquierda, resto de PPCC conservados. Balance motor y sensitivos conservados. No flapping. No signos meningeos.
+
+
+EXPLORACIÓ COMPLEMENTÀRIA
+Exploraciones complementas en Urgencias
+-Analítica general: Glucosa 92mg/dl, Urea 40mg/dl, Cr 1.23mg/dl, FG estimado 55, Na 139.3mmol/l, K 4.48mmol/l, AST 35UI/L, ALT 14UI/L.
+
+Exploraciones complementas en Planta de Neurología
+-Analitica  General de ingreso:  Hb 14.6 g/dL;  VCM 90.6 fL; HCM 29.9 pg; Leucòcits 7.740 (Neutròfils 3800, Limfòcits 2.200); Plaquetas 243.000; TQ 111%; INR 0.95; Glu  93; Urea  45; Creatinina  1.23 mg/dL; FG  55
+ml/min/1,73 m2; BT 0.63; BD 0.24; Na 144.3; K 3.51;Ca 8.5; AST 49; ALT 20; FA 82; GGT 15; Proteïna 5.4;
+albumina 3.3;
+*Perfil lipidico: colesterol 144; HDL 38; LDL 80; trigliceridos 128
+*Tiroides: TSH 0.970; fT4 1.44;
+
+
+
+EVOLUCIÓ CLÍNICA
+A su llegada paciente hemodinamicamente estable, afebril, sin focalidad neurologica. Orientandose el cuadro de agitación psicomotirz en contexto de mala tolerancia a levetiracetam, se vira tratamiento a valproico 500mg/12h. Ingresa en planta de hospitalización convencional para control evolutivo.
+
+Informe d'alta d'hospitalització
+
+
+
+
+
+En planta presenta nuevo cuadro de agitación psicomotriz que necesita rescate de queitiapina. Se realiza analitica de ingreso que no evidencia alteraciones relevantes. Se pasan Valproico a vía oral con buena tolerancia. Durante su estancia no presenta otras incidencias, ni recurrencias de crisis epileptica, solucionandose el cuadro de agitación psicomotriz. Por otro lado, considerados los antecedentes del paciente y la reciente crisis epileptica, solicitamos visita de seguimiento por Neurocirugia y primera visita en CCEEx de Epilepsia con EEG. Ante estabilidad clínica se decide alta a domicilio.
+
+DIAGNÒSTICS
+-Agitación psicomotriz
+-Meningioma parasela intervenido
+-Crisis tónico-clónica generalizada
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+-Abstinencia de alcohol
+
+-STOP Levetiracetam
+
+-Valproato 500mg c/12h
+-Quetiapina  25mg  medio  comprimido  por  la  noche  si  agitación. Si  no  se  resuelve  agitación en  una  hora, administrar medio comprimido más.
+
+-Resto de medicación sin cambios
+
+CONTROL
+-Control por MAP y facultativos habituales
+-Se solicita visita de seguimiento con Neurocirugía. Le avisaran telefonicamente o por carta de fecha y hora.
+-Se solicita primera visita en CCEEx de Epilepsia con EEG. Le avisaran telefonicamente o por carta de fecha y hora.
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+27.07.2017
+Pàgina 1 de 3

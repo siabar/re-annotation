@@ -1,0 +1,54 @@
+T0	Fecha_de_alta 15 25	05-02-2018
+#0	AnnotatorNotes T0	2018-02-05
+T1	SECCION_DIAGNOSTICOS 27 39	Diagnosticos
+T2	Ictus_isquemico 41 64	ECVA isquémica: infarto
+T3	Arteria_afectada 68 92	territorio indeterminado
+T4	Etiologia 106 119	indeterminada
+T5	Etiologia 128 135	lacunar
+T6	Localizacion 128 135	lacunar
+T7	SECCION_PROCEDIMIENTOS 144 158	Procedimientos
+T8	SECCION_MOTIVO_DE_INGRESO 241 258	Motivo de ingreso
+T9	_SUG_Ictus_isquemico 355 360	ictus
+T10	SECCION_ANTECEDENTES 398 418	Antecedentes Médicos
+T11	_SUG_Lateralizacion 463 464	I
+T12	SECCION_SITUACION_FUNCIONAL 528 543	Situación basal
+T13	mRankin_previa 552 557	mRS 0
+T14	SECCION_TRATAMIENTO_HABITUAL 560 578	Mediación habitual
+T16	Hora_inicio_sintomas 770 774	8:30
+#16	AnnotatorNotes T16	08:30
+T17	_SUG_Tratamiento_antiagregante 977 980	AAS
+T18	HORA 1083 1087	8:30
+#18	AnnotatorNotes T18	08:30
+T19	_SUG_NIHSS 1314 1319	NIHSS
+T20	_SUG_Lateralizacion 1334 1335	I
+T21	_SUG_TAC_craneal 1373 1376	TAC
+T22	_SUG_Ictus_isquemico 1429 1434	ictus
+T23	SECCION_EXPLORACION_FISICA 1523 1534	Exploración
+T24	_SUG_Lateralizacion 2228 2237	bilateral
+T25	NIHSS_previa 2262 2267	NIH:3
+T26	_SUG_Lateralizacion 2283 2288	ambos
+T27	SECCION_EXPLORACIONES_COMPLEMENTARIAS 2799 2833	Resultados pruebas complementarias
+T29	_SUG_Arteria_afectada 3277 3280	ACC
+T30	_SUG_Lateralizacion 3281 3282	D
+T31	_SUG_Arteria_afectada 3288 3297	carotídeo
+T32	_SUG_Arteria_afectada 3467 3476	carotídeo
+T33	_SUG_Lateralizacion 3477 3484	derecho
+T34	SECCION_EVOLUCION 3494 3516	Evolución Hospitalaria
+T35	_SUG_Lateralizacion 4032 4036	izda
+T36	NIHSS_alta 4038 4045	NIHSS 3
+T37	SECCION_TRATAMIENTO_Y_RECOMENDACIONES_AL_ALTA 4051 4088	Recomendaciones y tratamiento al alta
+T38	_SUG_Lateralizacion 4091 4096	Dieta
+T39	Tratamiento_antiagregante_alta 4115 4137	Ácido acetilsalicílico
+T40	_SUG_Ictus_isquemico 4480 4485	ictus
+T41	Localizacion 68 92	territorio indeterminado
+T42	SECCION_ANTECEDENTES_QUIRURGICOS 466 468	Qx
+#1	AnnotatorNotes T13	0
+T43	SECCION_PROCESO_ACTUAL 621 630	Anamnesis
+T44	Fecha_inicio_sintomas 754 763	02/02/218
+#2	AnnotatorNotes T44	2018-02-02
+T15	SECCION_EXPLORACION_FISICA_EN_URGENCIAS 1538 1566	EXPLORACIÓN FÍSICA URGENCIAS
+#3	AnnotatorNotes T25	3
+T45	TAC_craneal 3021 3032	TC cerebral
+#4	AnnotatorNotes T36	3
+T28	Fecha_llegada_hospital 754 763	02/02/218
+#5	AnnotatorNotes T28	2018-02-02

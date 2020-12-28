@@ -1,0 +1,41 @@
+
+_LOCATION_
+Tel. _CONTACT_ - Fax _CONTACT_
+_CONTACT_ _CONTACT_
+ 	_NAME_
+Data de naixement  _DATE_
+Edat  70 anys
+Sexe Dona
+Núm. Història clínica   _ID_	CIP: _ID_
+
+
+SERVEI DE MEDICINA INTERNA Informe d'alta hospitalària
+
+Data d'ingrés: 31/01/2017	Data d'alta: 01/02/2017
+Equip mèdic: Drs _NAME_ /_NAME_ / _NAME_ / _NAME_ / _NAME_ / _NAME_
+
+Pacient de 70 anys d´edat, que consulta per pèrdua de força a hemicós D
+ANTECEDENTS  PERSONALS
+Al·lèrgies: No al·lèrgies medicamentoses conegudes. Hàbits tòxics: No hàbits tòxics.
+Antecedents patològics: HTA, dislipèmia i vertigen perifèric. Artropatia degenerativa. Situació socio- familiar: Viu en família. Funció cognitiva conservadaTractament habitual: Rupafin 10, Paracetamol 1 gr i losartan/HCT 50/12.5,
+
+MALALTIA ACTUAL: Es portada a Urgències per presentar un quadre de pèrdua de força a hemicós D d´inici sobtat amb dificultat a la parla. A Urgències s´objectiva hemiparèsia F-B-C dreta amb RCP extensor D amb milloria espontània.
+EXPLORACIÓ FÍSICA: TA: 128/45 mmHg. FC: 78 bpm. FR: 15 rpm. Tax: 36 ºC. SatO2: 98 %. Glucèmia
+capil·lar: 106 mg/dl. BEG. Normohidratada i normocolorejada. Conscient i orientada. No bufos carotidisAC: tons rítmicsAR: murmuri vesicular conservat.Abdomen: tou i depressiu, no dolorós. No masses ni megàlies. Peristaltisme conservat. Ext. inferiors: no edemes ni signes de TVP.Neurològic: a planta: força i sensibilitat conservades. No alteració de la parla. ROT simètrics. RCP flexor bilateral
+EXAMENS  COMPLEMENTARIS
+Analítica: Hb: 13.9 gr/dl. HCT: 40.9 %. VCM: 88.7 fl. Leucòcits: 7.670(N 41.5 %). Plaquetes: 236.000.
+Glucosa: 135 mg/dl. Urea: 40 mg/dl. Creatinina: 0.79 mg/dl. Na: 137.5 mmol/L. K: 3.2 mmol/L. Quick: 127.5
+%.
+ECG: ritme sinusal amb algun extrasístoles supraventricular
+TAC craniana: leucoarraiosi. No evidència de sagnat ni de lesions isquèmiques.
+
+EVOLUCIÓ: Es tracta d´una pacient que consulta per presentar una pèrdua de força a hemicós D amb dificultat a la parla, de curs autolimitat. Es comenta amb el S. de Neurologia _SS_ acordant visita ambulatòria per tal de completar estudi d´AVC transitori. Es dóna d´alta hospitalària en el dia de la data.
+DIAGNÒSTICS
+TIA HTA
+DISLIPÈMIA
+TRACTAMENT  RECOMANAT
+Adiro 300 mg / dia Omeprazole 20 mg / dia
+Seguir resta de medicació habitual
+_LOCATION_, 01/02/2017
+Facultatiu Responsable de l'alta i de l'informe Dr./a.: _NAME_
+Núm. Col·legiat: _ID_

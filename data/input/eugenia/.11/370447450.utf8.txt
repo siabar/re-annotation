@@ -1,0 +1,103 @@
+_LOCATION_ Tel. _CONTACT_
+_CONTACT_
+Informe Alta Hospitalització
+_NAME_
+HC: _ID_
+
+>
+
+
+Adreça: _LOCATION_	Data naix.: _DATE_ Població: _LOCATION_	Sexe: MASCULI
+Provincia: _LOCATION_	CIP: _ID_
+País: _LOCATION_	NASS: _ID_
+Telèfon: _CONTACT_ / _CONTACT_	DNI o Tarja Residència: _ID_
+
+
+Servei: Neurologia	Data ingrés a URG: 02/05/2017 10:27
+Unitat clínica: Neurologia	Data hospitalització: 03/05/2017 19:22
+Tipus d'ingrés: Urgències	Data alta: 12/05/2017 11:29
+Proveïdor de Serveis: Servei Català de la Salut	Destí: 04 - Derivació Centre Intern Sociosanitari
+
+
+
+Diagnòstic principal:
+
+434.91 AVC ISQUEMIC
+ACM DRETA TACI ATEROTROMBOTIC
+
+
+
+
+
+Pacient de 61 anys d'edat que ingressa per Ictus isquémic
+
+Antecedents:
+
+Malalties prèvies:
+
+DISLIPÈMIA (En tratamiento y seguimiento por su médico habitual. )
+MENINGIOMA (Intervenido en 2008 quedando asintomático des de entonces. En tto con Deprax. .
+
+Antecedents neonatals, obstètrics i quirúrgics:
+
+COLECISTECTOMIA (colecistectomia laparoscopica intervenida el 0515 en a _SS_. .
+
+Al·lèrgies:
+
+El pacient no presenta al·lèrgies conegudes.
+
+Hàbits tòxics: Hábito tabáquico .
+Història Actual:
+
+Pacient de 61 anys, DLP, vasculopatia perifèric en seguiment per cirurgia vascular, antecedents de meningioma frontal intervingut al 2008. No ttm amb FAEs no consten episodis comicials. TC de control al oct/2016 amb estabilitat de les lesions necrogliòtiques frontals. Estenosis <50% en ACI derecha. No consten crisi comicials ni va amb FAEs.
+Portat com a codi ictus per síndrome hemisfèric dret amb caiguda a domicili a la 1h de la matinada. Arriba a les 10:30. No codi per hores d'evolució.
+
+Exploració física:
+
+Expl. NRL: somnolent (+1), HHE (+2), Disàrtria (+2), PFSNE(+2). Plègia braquial esq (+4). Parèsia 3/5 esq (2). Hipoestèsia hemicòs esq (1). NIHSS de 13
+
+
+
+Exploración NRL en planta:
+Somnoliento, tendencia a desviación oculocefálica a la der. HHE. Facial izq. Disartria. No anosgnosico ni asomatognósico. Hemiplejia izquierda (braquial), crural 3/5. Extinción táctil izq.
+ACR: Soplo sistólico de predominio en foco aórtico Ausencia de pulsos periféricos distales.
+
+Resum proves complementàries:
+
+Laboratori:
+
+Leucòcits *16.73 x 10^9/L, Hematies 5.43 x 10^12/L, Hemoglobina 158 g/L, Hematòcrit 0.48 L/L, Volum corpuscular mig 88.8 fL, Hemoglobina corpuscular mitja 29.1 pg, Conc. Hb. corpuscular mitja 328 g/L, Plaquetes 155 x 10^9/L, Neutròfils (%) *77.2 %, Neutròfils *12.93 x 10^9/L, Limfòcits (%) *12.7 %, Limfò cits 2.12 x 10^9/L, Eosinòfils (%) 2.9 %, Eosinòfils 0.48 x 10^9/L, Basòfils (%) 1 %, Basòfils 0.16 x 10^9/L, Monòcits (%) 6.2 %, Monòcits *1.04 x 10^9/L, Temps protrombina 0.93 ratio, T.Tromboplastina parcial activ 1.01 ratio, Glucosa 99 mg/dL, Urea 41 mg/dL, Creatinina 0.93 mg/dL, Sodi 145 mEq/L, Potassi *5.4 mEq/L, Creatinquinasa (CK) 130 U/L, Troponina T u.s. *26 ng/L
+
+Imatge:
+
+ECG en RS, T negatives a V4-V5.
+
+TC de crani: Infarto isquémico agudo del territori vascular profundo de la ACM derecha. Resto del estudio sin otros cambios significativos respecto al previo.
+
+Eco-Doppler TSA: Se observan pequeñas placas de ateroma calcificadas a nivel carotideo bilateral, la de mayor tamaño, en el origen de la ACI derecha de 3x4 mm que no genera una estenosis significativa (<50
+%), con VPS dentro de la normalidad de forma bilateral. Arterias vertebrales permeables y con flujo ascendente.
+
+Ecocardiograma: Doble lesión aòrtica en possible bicúspide con estenosis aòrtica severa e insuficiència ligera. Función sistòlica ventricular izquierda ligeramente deprimida (FEVI: 52%). Disfunción diastòlica grado I (alteración de la relajación). Aurícula izquierda dilatada.
+
+Holter cardíaco 24h: Ritmo sinusal. No pausas ni BAV. ESV muy escasa, con 2 rachas de taquicardia auricular no sostenida de menos de 10 latidos. EV poco frecuente, sin formas complejas.
+
+Evolució i comentaris:
+
+Neurología: Varón de 61 años con antecedentes de intervención de meningioma frontal (Rankin basal de 0), tabaquismo, dislipemia y vasculopatía periférica que ingresa por ictus de ACM no tributario a revascularización por horas de evolución. NIH inicial de 14 con mejoría del nivel de conciencia (NIH al alta de 13 a expensas de disartria, facial, plejia braquial izq, paresia crural 3/5 y extinción visual). El       estudio vascular descarta ateromatosis de TSA y cardiológicamente destaca una estenosis aórtica severa por lo que se realiza interconsulta a cardiología (ver comentario).
+Se decide traslado a RHB programa intensivo. Se incluye al paciente en el estudio SMARRTS.
+
+Cardiología: Paciente de 64 años, DLP, vasculopatía periférica, ingresado por Ictus ACm derecha. Actualmente con hemiparesia braquial izquierda 1/5 i crural E 3/5. hemihipoestèsia Izquierda. Por soplo
+
+
+sistólico se realiza ecocardiograma que demuestra doble lesión aortica (Eao severa (77/45, 4.8m/s, fevi 51% moderadamente hipertrofico, IAo ligera) en contexto de posible aorta bicúspide (AA 46 mm). Sin signos de hipertensión pulmonar. Clínicamente el paciente antes del Ictus no refiere clínica compatible con ortopnea, DPN, disnea de esfuerzo ni dolor torácico. La exploración física no sugiere presencia de IC. En resumen se trata de un paciente con EAo severa en contexto de aorta bicúspide con dilatacion de la aorta ascendente, clínicamente asintomático. Su calidad de vida en este momento está condicionada por el ictus. De momento al estar asintomático y con AA<50 mm no se indica ningún tipo de tratamiento al momento (solo control de los factores de riesgos, particularmente la presión arterial). Valoración con cardi ólogo de zona en aproximadamente 6 meses , si recuperación neurológica, con nuevo ecocardiograma.
+
+Tractament:
+
+Fàrmacs:
+
+Ver monodosis
+
+_LOCATION_, 12/05/2017
+_NAME_	_NAME_
+(Nº col _ID_)	(Nº col _ID_
+Nom i cognoms metge: _NAME_ (Nº col: _ID_Pàg.: 1/3

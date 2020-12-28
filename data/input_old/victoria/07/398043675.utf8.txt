@@ -1,0 +1,86 @@
+Pàgina 1/2INFORME D'ASSISTÈNCIA/ALTA
+
+
+Núm. HC	CIP o pòlissa	Data ingrés	Data alta
+_ID_	_ID_	02/08/2017 23:03	04/08/2017
+Nom i cognoms	Edat	Sexe
+_NAME_	49	Dona
+Adreça	Telèfon
+_LOCATION_	_CONTACT_
+Metge/essa responsable	Servei	Habitació
+_NAME_	Medicina Interna	_ID_
+Destinació a l'alta
+domicili
+
+
+
+Dona de 49 anys que reotrna de Urgències de _SS_ on va ser derivada com un codi ictus.
+
+ANTECEDENTS:
+No al·lèrgies medicamentoses conegudes
+Ex-fumadora de 20 cigarretes/dia des de fa 7 anys.
+-	HTA en tractament farmacològic
+-	Dislipemia en tractament amb estatines
+-	Epilepsia des de la infància en tractament amb carbamazepina i noiafren, en seguiment a Neurologia de _SS_. No disposem d'informes. Refereix crisis setmanals. Per HC3 obtenim informes de EEG (7/2014): enlentiment occipital i intermitent de significat incert sense paroximes epileptiformes. EEG (3/2016): presencia clara de pseudocrisis sense paroxismes epileptiformes.
+-	Cardiopatia isquèmica. IAM no Q Killip I el 6/2010, amb ECG: RS BBD incomplert, T neg V1-V2 i aVL, Troponina I positiva. Coronariografia: placa no significativa (30%) a nivell de DA ostial sense altres lesions coronaries. Ecocardiograma: normal.
+-	Colitis isquèmica el 2011.
+-	IQ per quadres d'oclusió intestinal per brides.
+-	Histerectomia i doble anexectomia per endometriosos.
+-	Hernia de hiat
+-	IQ apendicectomia, quist sinovial canell E
+-	Ingrés a _SS_ el 2014 per sospita de LACI (amb disartria i hemiparesia E), tractat amb trombolisis a l'inici, amb milloria clínica sense remissió dels símptomes, essent la exploració de característiques funcionals. RMN sense evidència de lesió isquemica, angioRMN normal. Es va mantenir la mateixa antiagregació que ja portava per la cariopatia (AAS 100mg/dia). Tanmateix, la pacient refereix seqüeles de l'episodi en forma de certa paresia residual BC esquerre, i dificultat per a la concentració i la memòria.
+-	Seguiment per Psiquiatria del CAP, en tractament farmacològic per una sd depressiva.
+
+Viu amb el seu marit. No treballa (incapacitat laboral). Independent per a les AVD. Marxa autonoma.
+
+Tractament habitual: Amlodipino 10 mg /24 h, Bisoprolol 2.5 mg/día, Enalaprill/hidroclorotiazida 20/12,5 mg /24 h. Atorvastatina 40 mg /24 h, Adiro 100 mg /24 h, Omeprazol 20 mg /24 h. Tegretol 400 mg 1-1-1.5, Noiafren 10 1 cp/24, Zaldiar si dolor, Dislaven 150 mg.
+
+MALALTIA ACTUAL:
+El dia 2/8/17 tenia programada una IQ de tunel carpià D. Ja a l'àrea quirúrgica, s'administra l'anestesia local (bloqueig axilar D ecoguiat) amb mepivacaina 25ml 1l 1.5%, sense sospita d'administració ev. Al cap d'uns 30 minuts, a les 11:30h,   presenta un quadre de transtorn del llenguatge en forma de disartria, i d'hemiparesia esquerre (empitjorament de l'hemiparesia previa residual). Es suspen el rpocediment (no s'havia iniciat), i es trasllada a Urgències on s'activa codi ictus.   A destacar TA 210/110, 70x', resta de constants vitals estables. Es controla la TA amb labetalol ev. Es contacta mitjançant teleictus. No és posisble visualitzar les imatges del TC cranial a través del sistema de teleictus, pel que s'aconsella trasllat a Urgències Neurologia de _SS_ per a valoració.
+A Urgències _SS_ destaca:
+-	Exploració NRL: C i O. Disartria lleu, més aviat sembla tartamudeig, no alteracoins del llenguatge. MOES N, no NN, PFSN E (2), Paresia BC esquerre no congruent, Hoovers + 3/5, hipoestesia BC esquerre. NIHSS 7.
+-	
+-	Angio-TC cranial: discreta hipodensitat a nucli lenticular/braç posteior de la capsula interna que podria traduir canvis d'isquèmia subaguda. En l'estudi vascular no s'identifiquen estenosis significatives e nels vasos intracranials.
+-	ECG: RS.
+S'orienta com un possible PACI dret amb angio-TC sense oclusió. No es realitza tractament de la fase aguda. Es remet al nostre hospital per a completar l'estudi.
+Refereix milloria clínica des de l'inici del quadre, però sense recuperar la seva situació funcional previa.
+
+EXPLORACIÓ FÍSICA:
+130-150/80-95, 62x', 96% B, afebril.
+Conscient i orientada. Normohidratada i normoacolorida. Eupneica. CV tons cardíacs rítmics
+AR MVC
+ABD: Tou i deprimible, no dolorós a la palpació, no masses ni megàlies. EEII: sense edemes ni signes de TVP.
+NRL: PINR, MOES correctes, no nistagmus, campimetria normal, llenguatge normal, resta de PPCC normals. Claudicació en Barré de ESE de caracteristiques funcional i Miller Fisher amb freqüència irregular esquerre, claudicació en Minganzzini EI esquerre, podent tanmateix fer resistència contra gravetat sense problemes. Sensibilitat normal, no extinció sensitiva, no dismetries, RCP flexor bilateral.
+
+EXPLORACIONS COMPLEMENTÀRIES:
+Analítica d'Ingrés: VSG 17; leucocits 4.980 amb fòrmula normal; Hb 12.2; plaquetes 275.000; coagulació normal; glucosa 93; triglicèrids 96; colesterol 190; urat 2.3; creatinina 0.5; urea 27; Na 130; K 3.9. Calci i biologia hepàtica dintre de la normalitat excepte GGT 205; proteïnes 7; albúmina 3.9; proteinograma sense alteracions significatives; LDH 170.
+RMN cranial: dins de la normalitat
+
+EVOLUCIÓ:
+Es tracta de pacient amb les antecedents descrits, que presenta un sd motor-sesitiu esquerre, amb característiques a l'exploració neurològica suggestives de funcionalitat, i amb exploracions complementàries que no evidencien patologia neurologica aguda. Es sospita un sd conversiu, pel que s'aconsella seguiment i tractament per psiquiatre. Alta al domicili.
+
+DIAGNÒSTICS:
+1.- Sd motor-sensitiu esquerre sense evidència de patologia neurologica objectiva 2.- Possible sd conversiu
+3.- Epilesia
+4.- HTA
+5.- Dislipemia
+6.- Cardiopatia isquemica
+
+TRACTAMENT:
+Seguir el seu tractament habitual
+
+Seguiment per Psiquiatre i Neuroleg habituals.
+
+
+
+Atentament,
+
+
+
+
+
+
+Metge/essa: _NAME_ Núm. col·legiat/da: _ID_
+Signatura
+
+D'acord amb la Llei Orgànica de Protecció de Dades, les vostres dades personals seran incorporades a un fitxer informatitzat, el titular del qual és el _SS_ i que té com a finalitat exclusiva disposar de les dades personals dels pacients per a usos medicosanitaris. El ciutadà té dret a exercitar l'accés, la rectificació, l'oposició i la cancel·lació d'aquestes dades personals.

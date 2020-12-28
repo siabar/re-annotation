@@ -1,0 +1,134 @@
+_LOCATION_) Telèfon _SS_  972 _CONTACT_
+Telèfon IDI (Ressonància i TAC) _CONTACT_
+Telèfon ICO _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 70 Anys
+NIF/DNI: _ID__NAME_; _NAME_; _NAME_,
+_NAME_; _NAME_; _NAME_,
+Informe d'alta d'hospitalització
+08:04:39
+12.06.2017
+_LOCATION_
+_SS_ NEUROLOGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_; _CONTACT_
+AGUTS 03.06.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Debilitat hemicós esquerre
+
+ANTECEDENTS
+ANTECEDENTS PERSONALS
+-	Situació basal: vidu. Viu sol. Independent per ABVD. Requereix ajuda per preparar el menjar i netejar la casa. Rankin 2.
+-	Antecedents tòxics: abús d'alcohol, sense dependència, continu. Ex-fumador des de fa 15 anys.
+
+ANTECEDENTS PATOLÒGICS
+-	Sense al·lèrgies mèdiques conegudes.
+-	Hipertensió arterial : En tractament medicamentós
+-	Dislipemia : en tractament mèdic i bon control
+-	Cardiopatia isquèmica amb ETT 2015: HVE, dilatació AE i doble lesió aòrtica.
+-	Aterosclerosi d'extremitats amb claudicació intermitent
+-Ictus previ (2005): ACM dreta de mecanisme embòlic, criptogènic, tractat amb clopidogrel per gastropatia  per AINEs. Pèrdua residual de força a la mà esquerra.
+-	Ictus ACM dreta (gener 2017) aterotrombòtic, pel que va realitzar TEA al gener de 2017. Hipoestèsia esquerre residual.
+-	Artritis reumatoide seronegativa en tractament amb MTX.
+-	En estudi per síndrome tòxica amb diarrea i pèrdua de pes, SOF negativa.
+-	Osteoporosi
+-	Hiperuricèmia
+
+-	Antecedents quirúrgics: herniorrafia umbilical i inguinal.
+
+MEDICACIÓ HABITUAL
+Acfol 5mg Angiodrox 90mg Atorvastatina 80mg Clopidogrel 75mg Dezacor 6mg Enalapril 10mg Ezetrol 10mg
+Ideos
+Metotrexato 2.5mg, clopidogrel 75 mg/d
+atrovastatina 80 mg,
+zetrol 10
+acfol, angiodriox, MTX, dezacor, enalapril, nexium, seretide i ziloric
+
+Informe d'alta d'hospitalització
+
+
+
+PROCÉS ACTUAL
+Pacient que és vist per última vegada sense símptomes el dia 03/06/2017 a les 15:00 mentres conduia. Ha estat portat a _SS_ des d'on truquen i s'activa Codi Ictus.
+Arriba al nostre centre a les 17:46:17 del 03/06/2017
+
+EXPLORACIÓ FÍSICA
+
+FC	85 bpm
+Tªaxi 36.8 ºC
+FR	rpm Tªrec  ºC
+TA s	160 mmHg SAT O2 99 %
+TA d   77 mmHg Pes Kg
+
+A l'exploracio neurològica a urgencies:
+Vigil, hemianòpsia homònima esquerre, desviació oculocefàlica   a l'esquerra, lleu hemiparèsia E, anestèsia E, asomatognòsia
+NIHSS=00012/00100/02001=7
+
+EXPLORACIÓ COMPLEMENTÀRIA
+Analítica d'urgències (3/6): Hematòcrit 28%, Hemoglobina 8.8 g/dL, Volum corpuscular mitjà 101.5 fL, Plaquetes 331 K/mcL, Leucòcits 13.71 K/mcL, Creatinina * 1.52 mg/dL, Troponina T hs * 29.7 ng/L
+Analítica sanguínea (8/6): Hemoglobina * 9.1 g/dL, Hematòcrit * 28 %, Volum corpuscular mitjà 100 fL, Plaquetes 350 K/mcL, Volum plaquetari mig 10.3 fL, Leucòcits 10.76 K/mcL, Valproat * 43.4 mg/L (Marge terapeutic: 50-100 mg/L)
+ECG (3/6): ritme sinusal.
+Estudi ultrasonogràfic TC (3/6): hiperafluxe a hemisferi dret sense detectar-se oclusions arterials. Eco-Doppler (3/6): no es detecten estenosis/oclusions. Hiperafluxe a hemisferi dret: ACM, ACA i ACP.
+TC crani amb angioTC i TC perfusió (3/6): infart ACM D extens antic. No oclusions agudes ni alteració a perfusió.
+
+
+
+EVOLUCIÓ CLÍNICA
+A la arribada del pacient a urgencies s'objectiva deficit mo esquerre amb desviació de la mirada a la esquerre, puntua un NIHSS de 7.
+
+A urgencies es realitza analítica de sang, ECG, TC, angioTC, TC perfusió i eco-doppler. En el TC realitzat destaca l'absència de lesions isquemiques agudes, el estudi de perfusió no mostra alteracions. Donades aquetes dades cliniques i de imatges s'orienta com crisis comicial  focals simples pel que es tractat amb infusio de ac. valproic de 1800 per via endovenosa en 15 minuts.
+
+Un cop ingressada el pacient presenta crisis focals motores a extremitat superior esquerra i musculatura cervical pel que s'afegeix tractament amb amb diazepam 4mg EV, valproat sòdic 1200mg en perfusió contínua, levetiracetam 1000mg/12h, lacosamida 200mg/12h i rivotril 1mg en perfusió contínua, amb millora de les crisis focals, motiu pel qual es redueix el tractament anticomicial, s'optimitza i es passa la medicació a via oral.
+Al moment de l'alta porta medicacio anticomicial amb levetiracetam 1gr c/12hs, depakine crono 500mg c/12hs, lacosamida 100mg c/12hs  amb control clici total de les crisis epileptiques.
+Es demana primera visita amb neurologia del _SS_ per valorar des-escalar el tractament antipeileptic( es sugereix retirar depakine depennt de la evolucio)
+
+Informe d'alta d'hospitalització
+
+
+
+
+
+No presenta altres complicacions i es recupera totalment fins a tornar al seu estat basal amb hipoestèsia hemicós esquerre, extinció visual i sensitiva esquerre. No presenta recurrències de crisis focals.
+
+D'acord amb la família (exdona) és donat d'alta a domicili amb seguiment de controls ambulatoris.
+
+
+
+
+
+DIAGNÒSTICS
+345.50/12 Crisis comicials focals motores secundàries a infart cerebral antic 433.11/6 Infart cerebral antic amb endarterectomia dreta i sequeles
+401.1 Hipertensió essencial benigna
+
+
+PROCEDIMENTS
+89.09 Consulta, no especificada de cap altra manera
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Mantenir el mateix tractament de base Afegir:
+-	Levetiracetam 1gr c/12hs
+-	Lacosamida 100mg c/12hs
+-	Valproat 500mg c/12hs
+
+CONTROL
+Control pel metge de fami´lia i valoració per l'assitent social de la seva situació personal/familiar Control per neuròleg ia vascular i per epilepsies del _SS_.
+
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+12.06.2017
+Pàgina 1 de 3

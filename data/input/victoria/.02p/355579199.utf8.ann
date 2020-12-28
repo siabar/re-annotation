@@ -1,0 +1,78 @@
+T0	_SUG_Lateralizacion 0 1	I
+T1	FECHA 315 325	20.03.2017
+#1	AnnotatorNotes T1	2017-03-20
+T2	HORA 384 389	19:34
+#2	AnnotatorNotes T2	19:34
+T3	SECCION_TIPO_DE_INGRESO 421 446	Tipo ingreso/Tipus ingrés
+T4	_SUG_Ictus_isquemico 493 508	ICTUS ISQUÉMICO
+T5	_SUG_TAC_craneal 577 587	TC CRANEAL
+T6	SECCION_MOTIVO_DE_INGRESO 727 765	Motivo de consulta / Motiu de consulta
+T7	SECCION_ANTECEDENTES 806 868	Antecedentes e historia previa / Antecedents i història prèvia
+T8	SECCION_ANTECEDENTES_PERSONALES 869 895	** ANTECEDENTES PERSONALES
+T9	SECCION_TRATAMIENTO_HABITUAL 1439 1469	** TRATAMIENTO MÉDICO HABITUAL
+T10	SECCION_PROCESO_ACTUAL 1748 1778	Proceso actual / Procés actual
+T11	FECHA 1803 1813	20.03.2017
+#11	AnnotatorNotes T11	2017-03-20
+T12	_SUG_Ictus_isquemico 1904 1909	ictus
+T13	SECCION_PROCESO_ACTUAL 8143 8149	Episod
+T14	SECCION_EXPLORACION_FISICA 1923 1961	Exploración física / Exploració física
+T15	FECHA 1962 1972	20/03/2017
+#15	AnnotatorNotes T15	2017-03-20
+T16	HORA 1973 1978	20:00
+#16	AnnotatorNotes T16	20:00
+T17	FECHA 2073 2083	20/03/2017
+#17	AnnotatorNotes T17	2017-03-20
+T18	HORA 2084 2089	22:00
+#18	AnnotatorNotes T18	22:00
+T19	FECHA 2117 2127	21/03/2017
+#19	AnnotatorNotes T19	2017-03-21
+T20	HORA 2128 2133	13:30
+#20	AnnotatorNotes T20	13:30
+T21	_SUG_Lateralizacion 2540 2547	derecha
+T22	_SUG_NIHSS_alta 2685 2693	NIHSS: 8
+T23	_SUG_NIHSS_previa 2685 2693	NIHSS: 8
+T24	_SUG_Arteria_afectada 2940 2943	ACM
+T25	_SUG_Lateralizacion 2944 2953	izquierda
+T26	_SUG_Localizacion 3011 3019	temporal
+T27	_SUG_Localizacion 3020 3029	posterior
+T28	_SUG_Localizacion 3145 3155	lenticular
+T29	_SUG_Localizacion 3171 3178	caudado
+T30	_SUG_Lateralizacion 3179 3189	izquierdos
+T31	_SUG_Localizacion 3191 3206	Infarto lacunar
+T32	_SUG_Lateralizacion 3239 3246	derecha
+T33	_SUG_Lateralizacion 3290 3299	izquierdo
+T34	_SUG_Arteria_afectada 3424 3427	ACP
+T35	_SUG_Lateralizacion 3428 3435	derecha
+T36	_SUG_Lateralizacion 3469 3476	derecho
+T37	_SUG_Arteria_afectada 3554 3556	M1
+T38	SECCION_EXPLORACIONES_COMPLEMENTARIAS 3559 3619	Exploraciones complementarias / Exploracions complementàries
+T39	_SUG_Etiologia 3943 3954	Hipertensió
+T40	SECCION_EVOLUCION 4023 4043	Evolución / Evolució
+T41	_SUG_Ictus_isquemico 4048 4063	ICTUS ISQUÉMICO
+T42	_SUG_Arteria_afectada 4084 4106	ARTERIA CEREBRAL MEDIA
+T43	_SUG_Lateralizacion 4107 4116	IZQUIERDA
+T44	_SUG_Localizacion 4184 4199	INTRAVENTRICUAR
+T45	_SUG_Ictus_isquemico 4230 4235	ictus
+T46	_SUG_NIHSS_alta 4431 4439	NIHSS: 9
+T47	_SUG_NIHSS_previa 4431 4439	NIHSS: 9
+T48	_SUG_TAC_craneal 4524 4526	TC
+T49	_SUG_ASPECTS 4631 4640	ASPECTS 6
+T50	_SUG_Ictus_isquemico 4746 4761	ictus isquémcio
+T51	_SUG_Etiologia 4783 4796	indeterminada
+T52	_SUG_Tratamiento_antiagregante_alta 4828 4831	AAS
+T53	_SUG_Tratamiento_antiagregante_hab 4828 4831	AAS
+T54	_SUG_Tratamiento_anticoagulante_alta 5120 5128	heparina
+T55	_SUG_Tratamiento_anticoagulante_hab 5120 5128	heparina
+T56	_SUG_Localizacion 5143 5152	posterior
+T57	_SUG_Tratamiento_anticoagulante_alta 5158 5165	sintrom
+T58	_SUG_Tratamiento_anticoagulante_hab 5158 5165	sintrom
+T59	_SUG_Etiologia 5711 5725	cardioembólico
+T60	_SUG_mRankin_alta 5728 5734	mRS: 3
+T61	_SUG_mRankin_previa 5728 5734	mRS: 3
+T62	_SUG_Tratamiento_anticoagulante_alta 7015 7022	Sintrom
+T63	_SUG_Tratamiento_anticoagulante_hab 7015 7022	Sintrom
+T64	SECCION_RECOMENDACIONES 7360 7381	Otras recomendaciones
+T65	FECHA 7811 7821	31.03.2017
+#65	AnnotatorNotes T65	2017-03-31
+T66	HORA 7836 7841	16:33
+#66	AnnotatorNotes T66	16:33

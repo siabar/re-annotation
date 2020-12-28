@@ -1,0 +1,188 @@
+_LOCATION_) Telèfon _SS_  972 _CONTACT_
+Telèfon IDI (Ressonància i TAC) _CONTACT_
+Telèfon ICO _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 40 Anys
+NIF/DNI:_NAME_; _NAME_
+Informe d'alta d'hospitalització
+CP	_LOCATION_
+ABS	_SS_
+Servei	NEUROLOGIA
+Data d'alta  24.12.2017	10:00:00
+_LOCATION_
+_CONTACT_
+DOMICIL/RES.SOC 21.12.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Código ictus.
+
+ANTECEDENTS
+Sin alergias a medicamentosas conocidas. Sin AP de interés.
+No HTA, DM ni DLP conocidas.
+
+MEDICACIÓ HABITUAL
+-No refiere
+
+PROCÉS ACTUAL
+Paciente que inicia clínica brusca de parestesias y pérdida de fuerza en hemicuerpo derecho sobre las 12.15h del día de hoy (21/12/17) precedido de cefalea y sensación nauseosa sin vómitos. Avisan a SEM quienes evidencian focalidad neurológica de hemiparesia braquial y plejía crural, activando código ictus a las 12.46h. A su llegada a urgencias a las 13.14h, es atendido de inmediato por neurologia de guardia. Mejora de clínica neurologica, objetivando PFC derecha, leve paresia BC derecha con claudicacion contragravedad y parestesias en región faciobraquial derecha. NIHSS 4. Se realiza TAC craneal multimodal. ASPECS 10. El estudio de difusión/perfusión y AngioTAC craneal no muestran alteraciones patológicas ni tampoco oclusiones vasculares. Mejora progresiva de síntiomas clínicos a la reexploración post TAC, persitiendo alteración sensitiva y PFC izquierda ( NIHSS3).
+
+Con clínica de sd. lacunar sensitivo motor derecho, ingresa en nuestra unidad de ictus para control neurológico y completar estudio etiológico. No tratamiento fibrinolítico en fase aguda por bajo NIHSS, no tratamiento endovascular por ausencia de trombo en gran vaso. Se inicia antiagregación con Adrio 100mg.
+
+EXPLORACIÓ FÍSICA
+
+FC	72 bpm
+Tªaxi 36.5 ºC
+FR	rpm Tªrec  ºC
+TA s	117 mmHg SAT O2 98 %
+TA d   66 mmHg Pes Kg
+
+EXPLORACIÓN AL INGRESO
+PFC derecha, leve paresia BC derecha con claudicacion contragravedad y parestesias en región faciobraquial derecha.
+NIHSS 00000/11010/00000: 3
+
+EXPLORACIÓN AL ALTA:
+TA: 117/66 mmHg, FC: 72 lpm, Sat basal 98%, T: 36.5ºC, Glicem capilar 92 mg/dL CV: tonos rítmicos, sin soplos ni extratonos.
+PULM: Paciente eupneico, buenas saturaciones basales de O2. MVC sin ruidos añadidos
+NRL: Paciente vigil, orientado, obedece órdenes sencillas y complejas. No alteraciones de lenguaje ni disartria. Pupilas isocóricas y normorreactivas, no alteraciones campimétricas ni de MOe ni de otros PPCC. No deficits
+
+Informe d'alta d'hospitalització
+
+
+
+
+motores ni sensitivos. RCP flexor bilateral. No dismetrías, no otra clínica objetivable. NIHSS: 0
+
+EXPLORACIÓ COMPLEMENTÀRIA
+ECG:
+-	ECG (ingreso): ritmo sinusal
+-	Monitorización Unidad de Ictus: No se objetivan arritmias embolígenas.
+
+ANALÍTICA:
+-	A/S: anodino.
+
+PRUEBAS DE IMAGEN:
+-	Rx de tórax: Rx de tórax poco inspirada poco penetrada, bien centrada. No se observan aumentos de densidad compatibles con condensación ni pinzamiento de senos costofrénicos. ICT dentro de normalidad.
+
+-	Duplex TSA: Sin signos de ateromatosis incpientes ni placas de ateroma complicadas. Si signos de estenosis en grandes vasos arteriales extracraneales.
+-	Duplex transcraneal: Estudio de circulación anterior y posterior dentro de la normalidad.
+
+-	Detección shunt derecha-izquierda: negativo
+
+-	Ecocardiografía TT: Ventrículo izquierdo ligeramente hipertrófico, no dilatado,  con función sistólica global conservada (FE: 62%). No se objetivan alteraciones de la contractilidad segmentaria francas. Válvula aórtica trivalva, con apertura conservada. Válvula mitral con velos ligeramente engrosados, estando la apertura conservada.
+Aurícula izquierda no dilatada, aunque con valores en el límite superior de la normalidad. Raíz aórtica y aorta ascendente de tamaño normal. Cavidades derechas de tamaño normal, con función sistólica global de ventrículo derecho conservada. No derrame pericárdico. VCI no dilatada, con colapso inspiratorio >50%.
+
+-	TAC craneal multimodal.   ASPECS 10. El estudio de difusión/perfusión y AngioTAC craneal no muestran alteraciones patológicas ni tampoco oclusiones vasculares.
+
+EVOLUCIÓ CLÍNICA
+Paciente ingresa en Unidad de Ictus, hemodinámicamente estable y afebril en momento de ingreso, que cursa sin incidencias significativas.
+
+A nivel neurológico, el paciente presenta recuperación completa (NIHSS 0) de deficit motor hemicuerpo derecho a las escasas horas de ingresar, cefalea inicial se controla con analgesia convencional.
+
+Se realiza ecocardiografía transtorácica que muestra ventrículo izquierdo ligeramente hipertrófico, función global sistólica conservada, sin otras alteraciones. Estudio de shunt negativo. ECG al ingreso en ritmo sinusal, que conserva durante resto de monitorización en Unidad de Ictus.
+
+Informe d'alta d'hospitalització
+
+
+
+
+
+Rehistoriando paciente, refiere inicio de cuadro como sensación de mareo, con palidez y sudoración, comienza posteriormente con fotopsias binoculares, y a continuación aparición de deficit motor y parestesias, inicialmente en región proximal de brazo derecho, con progresión posterior a resto de miembro superior derecho, y posteriormente hemicara derecha y miembro inferior ipsilateral, destaca curso progresivo de cuadro, y recuperación de la misma forma (progrsión Jacksoniana). Durante progresión de deficit motor, comienza con cefalea hemicraneal izquierda, de carácter opresivo y pulsátil, e intensidad moderada. No fotofobia-sonofobia, aunque sí náuseas sin llegar a vomitar.
+Refiere cefaleas de similares características, pero sin focalidad neurológica acompañante, con una frecuencia de 1 episodio cada 2 meses aproximadamente. No explica antecedentes familiares de migraña.
+
+Por tanto, se orienta caso como síndrome lacunar sensitivo-motor derecho a estudio, probable migraña con aura vs AIT hemisférico izquierdo, de etiología no determinada. Ante sospecha clínica de evento isquémico, se decide iniciar profilaxis secundaria con AAS 100mg y atorvastatina 40mg, sin incidencias posteriores. Ante dudas diagnósticas, solicitamos realización de RMN cerebral
+Ante buena evolución clínica, se decide alta a domicilio, que se realiza día 24/Diciembre. Escalas al alta:
+-NIHSS:  0
+-mRs:	0
+-Barthel: 100
+
+ORIENTACIÓ DIAGNÒSTICA
+-	Migraña con aura prolongada
+(pendiente de completar estudio RMN-C para descartar embolismo paradójico o infarto migrañoso).
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+-	Tratamiento farmacológico
+-	Adiro 100mg cada 24h después del desayuno (hasta control en CCEE con resultado RMN)
+-	Resto de medicación sin cambios.
+
+-	Dieta baja en sal y grasas.
+-	Control de los factores de riesgo cardiovascular
+-	Colesterol (LDL) <100 mg / dl
+-	Tensión arterial sistólica <140mmHg / Diastólica <90mmHg
+
+
+CONTROL
+-Visita de control en Neurología de nuestro centro (Edificio de Consultas Externas primera planta)
+-Control de los factores de riesgo cardiovascular por su equipo de atención primaria.
+
+-	Se contactará telefonicamente para realizar RMN-C ambulatoria. Cita 13 de Marzo/2018 a las 02.30 horas
+
+-	Mantener AAS hasta visita de control en CCEE de neruología, donde se valorará retirada o continuación según evolución y resultado RMN.
+-	
+Informe d'alta d'hospitalització
+
+
+
+
+
+
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+24.12.2017
+Pàgina 1 de 4

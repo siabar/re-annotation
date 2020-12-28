@@ -1,0 +1,134 @@
+_LOCATION_
+_LOCATION_) Anul·lació/Reprogramació visites:_CONTACT_
+Telèfon Centraleta: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 75 Anys
+NIF/DNI: _ID__NAME_; _NAME_;
+_NAME_; _NAME_
+Informe d'alta d'hospitalització
+08:29:34
+30.07.2017
+_LOCATION_
+_SS_ ANGIOLOGIA I CIRURGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_
+DOMICIL/RES.SOC 20.07.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Hombre de 75 años que ingresa por clínica de inestabilidad, hemiparesia izquierda, hipoestesia facial izquierda y disartria.
+
+ANTECEDENTS
+-	No alergias medicamentosas.
+-	No habitos toxicos
+-	FRCV: DLP en tratamiento dietético. No HTA ni DM.
+-	Polimialgia reumática en tratamiento con Prednisona.
+-No cardioneumopatías conocidas.
+
+-Situación basal: independiente para ABVD. mRankin 0.
+
+MEDICACIÓ HABITUAL
+ACIDO ALENDRONICO 70MG 1x1s.
+DEMILOS 600MG/1000 UI CALCI CARBONAT+COLECALCIFEROL  1 x 24 h. IBUPROFENO ALTER 600MG 1 x 24 h.
+PREDNISONA PENSA 10MG 2x24 h. RANITIDINA VIR 150MG 1 x 24 h.
+
+PROCÉS ACTUAL
+Paciente varon de 75 años que acude al servicio de urgencias por clínica de hemiparesia izquierda de inicio a las 19:30. Refiere que comenzó mientras regaba con mareo e inestabilidad, asi como disartria, hipoestesia facial izquierda y disminución de fuerza en hemicuerpo izquierdo  (predominante en extremidad superior). Acude a urgencias traido por el SEM a las 21:30 con la disartria ya resuelta y con cierta debilidad de extremidades izquierdas.
+A la primera valoración por neurología paciente hemodinámicamente estable TA 160/93 mmHg, INR 0.9, DXT 87 mg/dL. Consciente, dice mes y edad, disartria leve (1), lenguaje conservado. MOEs normales. Campimetría por confrontación normal. No asimetría facial. Resto de PPCC normales. Paresia braquial izquierda 4/5, crural izquierda 4/5 (1+1), hipoestesia FBC izq (1), no agnosias. RCP flexor bilateral. NIHSS 4.
+Se realiza analítica en la que destaca una leucocitosis de 11700 con neutrofilia sin otros hallazgos.  Rx de tórax pendiente y ECG en RS a 60lpm, PR 0.20s, QRS estrecho, sin alteraciones agudas de la repolarización.
+Se orienta el caso como ictus minor de ACM derecha y estenosis de ACI derecha con imágen de trombosis. Ante ausencia de contraindicaciones y encontrándose en periodo ventana se realiza trombolisis endovenosa con bolus 7mg+63mg perfusión, a las 22:12h con TA 169/87 mmHg. Finaliza el procedimiento sin incidencias. No candidato a trombectomía por ausencia de oclusión intracraneal. mRankin 0.
+Se decide ingreso en NRL (U.Ictus) para estudio y control evolutivo.
+
+EXPLORACIÓ FÍSICA
+
+Informe d'alta d'hospitalització
+
+
+
+
+Buen estado general. Hemodinámicamente estable, eupneico y afebril. Normohidratado, normocoloreado.
+-NRL: Consciente y orientado. Disartria leve, lenguaje conservado. No DOC, no HH, sin asimetria facial. PICNR. Hemiparesia BC izquierda 5-/5, no hipoestesia. RCP flexor bilateral. NIHSS 1.
+-	AC: tonos cardíacos rítmicos, sin soplos.
+-	AR: murmullo vesicular conservado sin ruidos sobreañadidos.
+
+EXPLORACIÓ COMPLEMENTÀRIA
+Exploraciones realizadas en urgencias:
+
+Analítica:
+-	EAB venoso: pH 7.49; CO2 32mmHg; O2 50mmHg; HCO3- 24.4mmol/L; EB 1.7mmol/L;
+-	Bioquímica: Glucosa 5.1mmol/L; Urea 7.7mmol/L; Cr 83umol/L; Na 143.mmol/L; K 3.97mmol/L; Cl mmol/L;
+-	Hemograma:  Hb 137g/L; Hto  40%; VCM 88fL; Plaquetas 237x10E9/L; Leucocitos 11.7x10E9/L (Neutrófilos 6.61x10E9/L, Linfocitos 3.90x10E9/L; N 56.4%, L 33.3%).
+-	Coagulación: TTPA 0.75; TP 0.97
+TC craneal y AngioTC: Ausencia de signos sugestivos de isquemia aguda (ASPECTS 10), con presencia de trombosis a nivel de bifurcación carotídea - arteria carotida interna derecha de las características descritas. Cambios involutivos en parénquima encefálico con discretos signos de hipoperfusión crónica de lasustancia blanca.
+Rx  de  tórax:  marco óseo  conservado.  ICT  0.5.  Signos de  redistribución  vascular. Senos  no  pinzados. No condensaciones.
+ECG: RS a 60lpm, PR 0.20s, QRS estrecho, sin alteraciones agudas de la repolarización.
+
+Exploraciones realizadas en neurología:
+-TAC control post-rTPA: Infart agut- subagut tàlem-capsular dret. No hemorràgia intracranial. Resta sense canvis.
+-Analítica de ingreso: función renal con Urea 10.7, con Cr y FG normal. Perfil hepático normal, perfil lipídico con hiperTG 1.89 mmol/L. Perfil tiroideo con TSH 11.30 mu.int./L y tiroxina normal. HbA1c 5.8 %. Hemograma con leucocitosis de 12300 de predominio neutrofílico. VSG 32mm. Coagulación correcta. Serologías negativas. Proteinograma sin bandas.
+-ECO-TSA:  Importants  lesions  ateromatoses carotídies  amb  una  estenosi superior  al  70%  dreta  i  del  50% esquerra.
+
+
+
+
+EVOLUCIÓ CLÍNICA
+Ingresa para estudio y control evolutivo de ictus minor de ACM derecha y estenosis de ACI derecha con imágen de trombosis >50%. Se realiza TAC control post-trombolisis infarto agudo- subagudo tálamo-capsular derecho sin transformación hemorrágica. Se inicia tratamiento antiagregante.
+
+Como parte del estudio vascular se realiza analítica de ingreso con perfil lipídico con hiperTG 1.89 mmol/L por lo que se inicia tratamiento con Atorvastatina. Perfil tiroideo con hipotiroidismo subclínico sin iniciar tratamiento substitutivo. Hemograma con leucocitosis de 12300 de predominio neutrofílico y VSG levemente elevado en probable contexto agudo. Se completa estudio con ECO-TSA que confirma estenosis significativa de ACI derecha, así como RMN pendiente en el momento actual.
+
+Informe d'alta d'hospitalització
+
+
+
+
+
+Desde el punto de vista clínico el paciente mejora durante el ingreso. Asintomático desde el punto de vista neurológico. Buena tolerancia oral, sedestación correcta. Se ha iniciado deambulación sin complicaciones. Rehabilitación desde el inicio. No intercurrencias durante el ingreso.
+Se comenta en sesión de ACV y se decide realización de endarterectomía carotídea derecha. Se orienta el caso como ictus ACM derecha de etiología aterotrombótica.
+Cirugía Vascular:
+Con prequirurgico correcto y sincontraindicación el 27/07/2017 se realiza Endarterectomia de carotida derecha con parche de Dacron y shunt, sin incidencias.
+Posteriomente durante su estancia en la planta se mantiene en todo momento HDME, hidratado, afebril, adecuadas condiciones generales. Neurológicamente: Sin déficit de pares craneales, no focalidades. Cuello: Herida quirurgica en adecuadas condiciones, sin hematoma, no signos de infección. Pulso temporal derecho presente.
+Deambula por si solo, tolerando via oral.
+Por la adecuada evolución clinica se idica alta hospitalaria a domicilio.
+
+DIAGNÒSTICS
+436/5 Ictus
+Estenosis carótidea derecha
+
+PROCEDIMENTS
+IQ: Endarterectomia de carotida derecha con parche de Dacron
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+-	Puede tomar su medicación habitual
+-	Añadir:
+Atovastatina 40 mg cada 24 hrs
+Adiro 100 mg cada 24 hrs
+Omeprazol 20 mg cada 24 hrs
+
+Lavar la herida con agua y jabón, secar bien y aplicar un poco de betadine
+
+CONTROL
+Control por CCEE de Cirugía Vascular (Dra. _NAME_), según programación Control por CCEE de Neurología en su hospital referencia
+
+DESTINACIÓ A L'ALTA:	ALTA CONT.CENTR
+
+
+
+
+
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+30.07.2017
+Pàgina 1 de 3

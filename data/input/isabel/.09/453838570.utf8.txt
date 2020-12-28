@@ -1,0 +1,110 @@
+GERIATRIA
+UNITAT DE GERIATRIA D'AGUTS
+INFORME DE ALTANº Historia clínica	_ID_
+Fecha de nacimiento
+_DATE_
+
+C.I.P.	_ID_	Código Centro	_ID_
+Teléfono	_CONTACT_	Dirección	_LOCATION_
+Fecha ingreso	21/12/17		_LOCATION_
+Fecha de alta	27/12/17	Teléfono	_CONTACT_
+Nº Asistencia	_ID_		
+UH	_ID_		
+
+DIAGNÓSTICOS:
+1.	ENFERMEDAD CEREBROVASCULAR.
+2.	DETERIORO COGNITIVO VASCULAR.
+3.	HTA.
+4.	DM TIPO 2.
+5.	ACXFA CRONICA.
+6.	LCFA.
+7.	ENFERMEDAD DE PARKINSON.
+
+Paciente de 89 años sin alergias medicamentosas conocidas.
+
+ANTECEDENTES:
+-	HTA en tratamiento con IECA y B-bloqueante.
+-	DM tipo 2 en tratamiento con ADO.
+-	ACxFA crónica en tratamiento B-bloqueante y anticoagulación con rivaroxaban.
+-	AIT cardioembólico en el territorio de la ACM izquierda en diciembre/17.
+-	Limitación crónica del flujo aéreo en tratamiento broncodilatador.
+-	Enfermedad de Parkinson en tratamiento con L-dopa.
+-	Síndrome depresivo en tratamiento con ISRS.
+-	Deterioro cognitivo de origen vascular. Trastorno de conducta desde el episodio de AIT en tratamiento neuroléptico.
+-	Degeneración macular.
+
+Tratamiento farmacológico habitual: enalapril 2.5 mg/día, bisoprolol 5 mg/día, rivaroxaban 10 mg/día, metformina 850 mg/día, citalopram 20 mg/día, L-dopa/carvidopa 250/25 mg/8 horas, omeprazol 20 mg/día.
+
+SITUACION FUNCIONAL PREVIA
+-	Físico: independiente para todas las ABVD. Incontinencia urinaria ocasional, continente fecal. Deambulación sin ayudas trayectos > 50 metros, realiza exteriores. Barthel: 95/100, Lawton: 5/8 (compras, dinero, telf, tto, transporte público)
+-	Cognitivo: deterioro cognitivo de origen vascular. Trastorno de conducta desde AIT.
+-	Social: vive solo. Actualmente ingresado en _SS_.
+
+ENFERMEDAD ACTUAL:
+Derivado de CSS por mal estado general y mayor desorientación. No otra sintomatología.
+
+EXPLORACIÓN FÍSICA:
+- TA: 99/65 mm Hg, FC: 83 lat/min, Sat 02 (0.21): 95%.
+-	Consciente y orientado. Palidez cutáneo-mucosa, normohidratado.
+-	C-V: arrítmico, no soplos. No edemas en EEII.
+-	Resp: MVC. No ruidos añadidos.
+-	Abdomen: blando y depresible, no doloroso, no masas ni megalias.
+-	NRL: no focalidad.
+Nombre	_NAME_	
+		
+
+VALORACION GERIATRICA AL INGRESO
+-	Físico: dependiente para ABVD. No deambulación > 50 metros.
+-	Cognitivo: Pfeiffer: 3 errores.
+-	Social: Gijón: 4+1+2: 7.
+-	Comorbilidad: Charlson: 4 (DM, LCFA, AIT, deterioro cognitivo)
+-	Piel: no UPP. Norton: 14.
+-	Nutrición: ingestas medias.
+-	Síndromes  geriátricos  previos:  polifarmacia,  depresión,  deterioro  cognitivo.  Nuevos:  síndrome confusional agudo, trastorno de la marcha.
+
+EXPLORACIONES COMPLEMENTARIAS
+- Analítica: glucosa: 168, urea: 61, creatinina: 0.8, FG: 79, Na: 136.7, K: 4.4, Cl: 100.8, CPK: 22,
+bilirrubina T: 0.6, GOT: 89, GPT: 21, FA: 82, PCR: 36, Hb: 12.8, Hto: 37.7, VCM: 92, HCM: 31,
+leucocitos: 13540 (85% PMN), plaquetas: 406000, TP: 68%.
+- Eq A/B: ph: 7.44, pC02: 38, Bic: 25.
+-	Rx tórax: no condensaciones neumónicas.
+-	Sedimento de orina: hematíes: 0-5, leucocitos: 5-10, no gérmenes.
+
+EVOLUCIÓN:
+1.	ENFERMEDAD CEREBROVASCULAR. Se mantiene estable sin focalidad neurológica.
+2.	DETERIORO COGNITIVO VASCULAR. Presenta trastorno de conducta, controlado con tratamiento neuroléptico a dosis bajas.
+3.	HTA. Normotensión con IECA habitual.
+4.	DM TIPO 2. Buen perfil glicémico con metformina habitual.
+5.	ACXFA CRONICA. Mantiene FVM correcta con bisoprolol habitual. Se mantiene descoagulación.
+6.	LCFA. Se mantiene eupneico, sin broncoespasmo y sin clínica infecciosa.
+7.	ENFERMEDAD DE PARKINSON. Estable con tratamiento habitual.
+8.	ESTREÑIMIENTO. Precisó tratamiento laxante.
+
+En sesión interdisciplinar se decide solicitar ingreso en UME para proseguir _SS_ funcional. La familia rechaza _SS_.
+
+SITUACION FUNCIONAL AL ALTA. 	
+-	Físico: dependiente para todas las ABVD. Ha iniciado fisioterapia realizando bipedestación con ayuda.
+-	Cognitivo: trastorno de conducta durante su ingreso, precisando tratamiento neuroléptico.
+-	Social: intervino trabajo social para gestión de recurso sociosanitario al alta.
+
+TRATAMIENTO:
+-	Enalapril 2.5 mg/día.
+-	Bisoprolol 5 mg/día.
+-	Rivaroxaban 20 mg/día.
+-	Metformina 850 mg/día.
+-	Citalopram 20 mg/día,
+-	L-dopa/carvidopa 250/25 mg/8 horas.
+-	Risperidona 0.5 mg/noche.
+-	Movicol 1 sobre/día.
+-	Omeprazol 20 mg/día.
+
+Dr/a.	_NAME_
+Metge/essa Adjunt
+(Nº Colegiado _ID_
+
+
+Les seves dades personals s'incorporen en un fitxer d´usuaris a fi del seu tractament sanitari. Pot exercir el seu dret d´oposició, accés i rectificació de les dades inexactes dirigint-se al Servei de Documentació Clínica.
+Sus datos personales se incorporan en un fichero de usuarios para su tratamiento sanitario. Puede ejercer su derecho de oposición, acceso y rectificación de los datos inexactos dirigiéndose al Servicio de Documentación Clínica
+
+_SS_ | NIF _ID_ |_LOCATION_ | Telèfon _CONTACT_ | Fax _CONTACT_ | _CONTACT_
+Pàgina 1 de 2

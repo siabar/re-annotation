@@ -1,0 +1,113 @@
+_LOCATION_ Tel. _CONTACT_
+e-mail: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 68 Anys
+NIF/DNI: _ID__NAME_; _NAME_;
+ _NAME_
+Informe d'alta d'hospitalització
+CP	_LOCATION_
+ABS	_SS_
+Servei	NEUROLOGIA
+Data d'alta  31.03.2017	16:03:20
+_LOCATION_
+_CONTACT_
+DOMICIL/RES.SOC 29.03.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Alteración de la emisión del lenguaje
+
+ANTECEDENTS
+68 años, sin alergias medicamentosas conocidas. No hábitos tóxicos.
+Independiente para las actividades de la vida diaria. Va en silla de ruedas desde los 7 años por poliomeilitis durante la infancia.
+
+Antecedentes patológicos:
+-	Hipertensión arterial
+-	Dislipemia
+-	Poliomelitis en la infancia. En silla de ruedas desde los 7 años.
+-	Fractura supracondilia de femur izquierdo. Omalgia crónica.
+
+MEDICACIÓ HABITUAL
+Valsartan 80mg/24h Simvastatina 10mg/24h Omperazol 20mg/24h.
+
+PROCÉS ACTUAL
+El 28.03.17 es vista por última vez asintomática a las 15:30h por su marido. Tras eso acude a la peluquería, y a las 17h intenta hablar por teléfono con su nuera, que detecta alteración de la emisión del lenguaje, por lo que acude de forma autónoma a urgencias del _SS_, donde llega a las 17:56h y la valoran a a las 18:10h. Activan código ictus a las 18:20h a través del SEM. Llega a urgencias de _SS_ a las 19h.
+
+EXPLORACIÓ FÍSICA
+
+FC	82 bpm
+Tªaxi 36.0 ºC
+FR	rpm Tªrec  ºC
+TA s	112 mmHg SAT O2 99 %
+TA d   82 mmHg Pes Kg
+
+En urgencias:
+Glicemia capilar 119mg/dL.
+Exploración neurológica: Vigil, orentación no valorable. Afasia global de  predominio motor con comprensión preservada, con dificultad para obedecer órdenes sencillas, y complejas, siendo capaz de obedecer 1 orden sencilla y 1 compleja. Emisión de sílabas y vocablos sin sentido. No nomina ni repite. No alteraciones de la oculomotricidad. No alteraciones campimétricas por confrontación ni por reflejo de amenaza. No alteración de los pares craneales. Mínima debilidad distal de la mano derecha, sin claudicación de la extremidad superior. Extremidades inferiores no valorables por enfermedad previa. No alteraciones sensitivas. No anosognosia ni asomatognosia.
+Pulsos periféricos presentes en extremidades superiores e inferiores. Pulso regular. Eritema cutaneo craneal.
+
+Informe d'alta d'hospitalització
+
+En planta de neurología:
+Exploración neurológica: vigil, orientada en los tres ejes. Afasia de predominio motor, con parafasias, dificultad para la nominación (4/5) y para la evocación (2/5), repite correctamente. No alteraciones de la oculomotricidad. No alteraciones campimétricas. Balance muscular en extremidades superiores normal, en extremidades inferiores no valorable. No alteraciones sensitivas.
+
+
+EXPLORACIÓ COMPLEMENTÀRIA
+-	Analítica de urgencias:
+Hematologia: Leucocitos 7800 /µL, (N 61,6 % - L 28,1 - M 8 - E 1,8 - B 0,5), Htíes 4,58 mill/µL, Hb 13,6 g/dL, Hcto
+41,5 %, VCM 90,6 fL, Plaquetes 371000 /µL,
+Coagulación: TP 100 %, INR 0,98 sg, TP ratio 0,98, TTPA 29,5 sg, TTPA ratio 0,95, Fibrinógeno 337 mg/dL.
+
+-	Analítica de ingreso:
+Bioquímica: glucosa 89mg/dl. HbA1c 5.7%, proteinas 55.7g/L, creatinina 0.46mg/dl, Ca 8.7mg/dl, Mg 1.98mg/dl, Na 144.2mmol/L, K 3.97mmol/L, FA 21 U/L, CK 46U/L, PCR 4.70 mg/L, osmolalitat 296mOsm/Kg. TG 111mg/dl, colesterol 205mg/dl, HDL 50.4mg/dl, LDL 132mg/dl. TSH 1.647uUI/ml. Proteinograma PENDIENTE.
+
+-	ECG urgente: ritmo sinusal a 80lpm, sin alteraciones agudas de la repolarización.
+
+-	TC craneal urgente (19:20h): No se observan singos precoces de isquemia aguda. ASPECTS 10. Área de alto coeficiente de atenuación frontal izquierda, adyacente al brazo anterior de la capsula interna y caudado, con posibles algunas microcalcificaciones en su interior, que no ejerce efecto masa y no asocia edema periférico. Cisternas basales y perimesencefálicas libres. Calcificaciones cerebelosas y ganglios basales compatibles con enfermedad de Fahr. Línea media centrada. Sistema ventricular simétrico de tamaño y morfología conservados. Sin alteraciones óseas TC valorables. No se aprecian otras alteraciones intra ni extraaxiales TC valorables. Angio TC TSA e intracraneal: No se observa defectos de replección sugestivos de trombosis aguda. No signos TC sugestivos de aneurismas. Aumento de la atenuación de la lesión hiperdensa frontal izquierda descrita en el TC simple, con estructura vascular anómala asociada. Los hallazgos TC descritos pueden corresponder a cavernoma y anomalia de desarrollo venoso.
+
+-	TC craneal urgente 2 (20:20h): No se observan singos precoces de isquemia aguda. ASPECTS 10. Área de alto coeficiente de atenuación frontal izquierda, adyacente al brazo anterior de la capsula interna y caudado, con posibles algunas microcalcificaciones en su interior, que no ejerce efecto masa y no asocia edema periférico. Cisternas basales y perimesencefálicas libres. Calcificaciones cerebelosas y ganglios basales compatibles con enfermedad de Fahr. Línea media centrada. Sistema ventricular simétrico de tamaño y morfología conservados. Sin alteraciones óseas TC valorables. No se aprecian otras alteraciones intra ni extraaxiales TC valorables.
+
+-	Estudio videoelectroencefalográfico: Se realiza registro video-EEG con equipo Deltamed de 40 canales con colocación de electrodos según sistema internacional 10-20 durante 30 minutos en vigilia con ojos abiertos y cerrados. Presenta plejia de extremidades derechas recuperada. La actividad de base está formada por frecuencias alfa a 8 Hz, de amplitud normal, sin asimetrías. Sin paroxismos epileptiformes itnercríticos. No se registran crisis. Impresión: Trazado de base normal, sin paroxismos epileptiformes intercríticos
+
+-	TC craneal de control (29.03.17): Sin cambios respecto a TC previa de 28/03/02/17. No se observan nuevas lesiones isquémicas ni hemorrágicas agudas.
+-	
+Informe d'alta d'hospitalització
+
+-	RM cerebral (30.03.2017): Imagen insular y frontal inferior izquierda que por sus características sería compatible en primer término con lesión glial primaria. Alguna zona de desdiferenciación de alto grado no podría descartarse.
+
+EVOLUCIÓ CLÍNICA
+Mujer de 68 años, con antecedentes de poliomielitis desde la infancia con paraplegia inferior secuelar, independiente para actividades básicas de la vida diaria (mRS 1), hipertensión y dislipemia, que tras ser vista por última vez asintomática a las 15:30h y tras realizar sus actividades habituales, sobre las 17:00h nota alteración del lenguaje al hablar con un familiar por teléfono. Por este motivo acude por su propio pie a urgencias del _SS_ donde se objetiva afasia global, activando el código ictus.
+
+A su llegada a urgencias de nuestro centro a las 19h la paciente se encuentra hemodinámicamente estable, y presenta afasia global de predominio motor, con leve paresia distal de la mano derecha (NIHSS 9). Se realiza analítica urgente que no muestra alteraciones significativas. Se realiza TC craneal que muestra calcificaciones de ambos pálidos y de vasos intracraneales de predominio en fosa posterior. El angioTC no muestra oclusión de gran vaso. Tras el TC craneal la paciente persiste con afasia motora moderada, e imposibilidad para emitir lenguaje,  por lo que inicialmente se orienta como ictus isquémico y se decide administrar tratamiento fibrinolítico (6.3mg en bolus, 56.7mg en infusión en una hora) que se suspende tras 30' de infusión (dosis apróximada admisnitrada de rtPA 30-35mg), tras recibir llamado de Radiología de guardia advirtiendo la presencia de probable malformación arterio-venosa. La paciente se mantiene hemodinámicamente estable en todo momento. A las 20:10h, tras suspender la infusión de rtPA la paciente presenta crisis epiléptica parcial compleja, con versión oculocefálica a la izquierda, movimientos clónicos orolinguales, y recuperación tras unos 2 minutos y administrar 0.5mg de clonazepam. La paciente persiste afásica, con paresia facial central derecha, hemianopsia homónima derecha por reflejo de amenaza y debilidad braquial derecha. Se realiza nuevo TC craneal que descarta presencia de sangrado agudo. Se orienta como posibles crisis epilépticas en relación a MAV frontal izquierda y se inicia tratamiento con levetiracetam 500mg/12h ev. Se decide ingreso en planta de neurología.
+
+Durante su estancia en la planta, se mantiene con constantes vitales normales. A nivel neurológico presenta mejoría, persistiendo leve afasia (solo algunas parafasias y algunos bloqueos). En cuanto al estudio etiológico se realiza analítica general que no muestra alteraciones y una resonancia magnética craneal que muestra una imagen insular y frontal inferior izquierda que por sus características sería compatible en primer término con lesión glial primaria, descartando la opción de MAV e ictus isquémico. Por lo que finalmente se orienta como crisis comiciales secundaria a tumoración glial y se solicita valoración con neurocirugía que tras valorar la paciente deciden que se realizará biopsia de la lesión y se solicita valoración por anestesia. Ante la estabilidad clínica se decide alta a domicilio con tratamiento anticomicial y se le avisará para la realización de la biopsia (Dra. _NAME_).
+
+DIAGNÒSTICS
+1.	Posbile lesión glial de bajo grado insular y frontal izquierda.
+2.	Crisis comicial secundaria a  1.
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Levetiracetam 1000mg/12h Valsartan 80mg/24h Simvastatina 10mg/24h Omperazol 20mg/24h.
+
+Informe d'alta d'hospitalització
+
+Paracetamol 1g/8h si dolor.
+
+
+CONTROL
+Se le avisará telefónicamente para realización de biopsia cerebral.
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+31.03.2017
+Pàgina 1 de 4

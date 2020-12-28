@@ -1,0 +1,85 @@
+_LOCATION_
+email: _CONTACT_ Telèfon _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 75 Anys
+NIF/DNI: _ID_Informe d'alta d'hospitalització
+17:46:51
+01.05.2017
+_LOCATION_
+_SS_ UNITAT D'ICTUS
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_; _CONTACT_; _CONTACT_/_CONTACT_; DOMICIL/RES.SOC
+29.04.2017
+_NAME_
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Paciente de 75 años que ingresa por ictus.
+
+ANTECEDENTS
+Alergia a moxifloxacino, ofloxacino. No hábitos tóxicos.
+Hipertensió essencial inespecificada
+Fibril·lació auricular en tratamient anticogulante, refiere dos episodios previo de descoagulacion sin causa clara. Altres antecedents:Hipertrofia benigna de próstata. Bronquitis crónica
+Rankin previ: 0
+
+MEDICACIÓ HABITUAL
+Duodart, Eklira, Lisinopril, Seretide, Sintrom
+
+PROCÉS ACTUAL
+Paciente que presenta el 29/04/2017 a las 12:00h de forma brusca, sensación de inestabilidad cefálica y dificultad para la marcha, con resolución parcial. A las 18:00h, el paciente vuelve a presentar empeoramiento de  la inestabilidad cefálica, junto con pérdida de fuerza en hemicuerpo izquierdo, por lo que se activa el código ictus desde Urgencias.
+
+Se realiza un TC craneal que no muestra lesiones isquémicas agudas (ASPECTS 10), un angioTC con una oclusión de P2 ACP D y un TC perfusió que muestra un defecto de perfusión correspondiente, con mismatch ++, por lo que se decide tratamiento endovascular primario (paciente en tto con acenocumarol, fuera de ventana terapeútica).
+
+
+EXPLORACIÓ FÍSICA
+
+EXP: FÍSICA A URG: PAS202 , PAD 94 mmHg // FC de116 // NIHSS a sala de0 // NIHSS total de5 , (Disartria leve (1), hemiparesia FBC I leve (1+1+1), dismetría I (1). NRL: vigil, disartria leve (1), hemiparesia FBC I leve (1+1+1), dismetría I (1).
+
+EXPLORACIÓ COMPLEMENTÀRIA
+Analítica: sin alteraciones relevantes. INR 1.62
+
+TC craneal (29/04): Oclusión del segmento P2P de la arteria cerebral posterior derecha, que origina área de penumbra córtico-subcortical occipital derecha observado en el estudio de perfusión. Estudio TC cerebral sin alteraciones agudas valorables (ASPECTS 10/10).
+
+Informe d'alta d'hospitalització
+
+
+
+
+TC craneal (30/04): Estudi urgent que no mostra alteracions intracranials agudes significatives. No s'observen alteracions tomodensitométriques a parènquima encefàlic depenent d'ACMs ni a nivell occipito-temporal dret on prèviament (29.04.2017) s'obserbava una alteració de la perfusió.
+
+
+EVOLUCIÓ CLÍNICA
+Paciente de 72 años, con ictus isquemico (POCI) de probable causa cardioembolica (FA infradescoagulada) con trombosis/oclusion de la ACP derecha tratatada con terapia de reperfusión intraaterial primaria (anticogulado y fuea de ventana terapuetica) con buen resultado clinico (recanalizacion completa y asintomatico a las 24h).
+
+Tractament en fase aguda:TEV primari Es realitza TEVMecànica Primari El pacient presenta un NIHSS pre TEV de 4. Es realitza TEV el29/04/2017 a les 21:49:00, i la primera sèrie a les  22:00:00. Es realitzen 1 passades.
+Revascularització el29/04/2017 a les 22:04:00, i finalitza el procediment a les 22:20:00.
+
+Tras TC craneal de control se inicia anticoagulación con enoxaparina (60mg/12h) pte de paso a anticoagulación oral (valorar NACO) en consultas externas de Hemostasia.
+
+DIAGNÒSTICS
+436/5 Ictus
+401.9 Hipertensió essencial inespecificada
+427.31 Fibril·lació auricular
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Se inicia tto anticoagulante con enoxaparina 60/12h, pte paso a anticoagulacion oral en CCEE Hemostasia (será citado).
+Resto de tratamiento sin cambios.
+Se solicita visitas de seguimiento en Consulta Externa de Hemostasia e Ictus (Neurologia)
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+01.05.2017
+Pàgina 1 de 2

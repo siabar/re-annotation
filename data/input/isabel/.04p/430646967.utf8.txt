@@ -1,0 +1,149 @@
+_LOCATION_
+email: _CONTACT_ Telèfon _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 89 Anys
+NIF/DNI: _ID__NAME_; _NAME_; 
+_NAME_
+Informe de Trasllat a Sociosanitari
+16:26:33
+17.10.2017
+_LOCATION_
+_SS_ NEUROLOGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_; _CONTACT_
+DOMICIL/RES.SOC 10.10.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Mujer de 89 años que ingresa por ictus.
+
+ANTECEDENTS
+Sin alergias medicamentosas conocidas.
+
+-Hipertensión arterial esencial en tratamiento farmacológico.
+-Dislipidemia en tratamiento farmacológico.
+-Diabetes Mellitus tipo 2 en tratamiento con medidas higiénico-dietéticas. Última HbA1c  6.6 % (julio 2017).
+-Insuficiencia cardíaca en tratamiento médico, no constan ingresos por descompensación.
+-Consta Asma bronquial (a pesar de que no objetivo en ninguna PFR reversibilidad para la obstrucción del flujo aéreo). En tratamiento habitual con beta-agonista de larga duración + corticoides inhalados. Últimas PFR (12/2013): FEV1/FVC 69.76, FEV1 0.69 (60%), PBD negativa.
+-Anemia por déficit de B12 en tratamiento sustitutivo. Último control Hb 11.9mg/dl (julio 2017).
+-Enfermedad renal crónica
+-Glaucoma en tratamiento farmacológico tópico.
+-Artritis gotosa. Monoartritis primer dedo pie izquierdo (2014).
+-Artrosis.
+-Síndrome ansioso-depresivo.
+
+Intervenciones quirúrgicas: Injerto de membrana amniótica y parche de membrana amniótica en ojo derecho por edema corneal secundario a glaucoma.
+
+Situación sociofuncional: Vive con su hijo, independiente para sus actividades básicas de la vida diaria. Limitación funcional por artrosis e IC. mRS 1-2.
+
+MEDICACIÓ HABITUAL
+Bisoprolol 2.5mg/día, Candesartan 32mg/día, Foster inhalador (Formoterol/beclometasona) 1/12h, furosemida 40mg/12h, lumigan 0.3mg/ml colirio 1 gota/24h, Alphagan 2mg/ml colirio 2gotas/24h, optovite bisemanal, paroxetina 20mg/día, salbutamol a demanda, Optovite B12 1000mcg 1iny/15días.
+
+PROCÉS ACTUAL
+Habiéndose acostado asintomática anoche a las 00h, despierta esta mañana alrededor de las 8:30h con imposibilidad para la articulación del lenguaje y debilidad de hemicuerpo izquierdo. Su hijo alerta al SEM, quienes activan código ictus a las 9:50h. Hora de llegada 9:52h, hora de TC 10:02h.
+
+EXPLORACIÓ FÍSICA
+
+Informe de Trasllat a Sociosanitari
+
+
+
+
+
+En Urgencias:
+Constantes: TA 207/76 mmHg, FC 77lpm, SatO2 99% (VMK 0.24 2L/min), B;T 157 mg/dL.
+EN: Vígil, somnolienta (1). LOC Q 0/2 (2). LOC C 0/2 (2). POC D (1), HHI (2), PFSN I (2), hemiparesia braquio (4)
+crural (2) izquierda. Anartria (3). Sensibilidad no valorable (1). NIHSS 20.
+
+Al ingreso en la Unidad de Ictus:
+TA: 146/49mmHg FC: 84lpm Tº: 37.6ºC Glicemia capilar: 141mg/dL Sat O2: 96% GN 1L/min
+Paciente soporosa (2) LOC Q 0/2 (2) LOC C 0/2 (2) POC D (1) No responde a estimulo de amenaza (3) PFSN I (2) Hemiparesia ESI 0/5 (4) EII 2/5 (3). Sensibilidad no evaluable. afasia global (3) anartria (3). extinción no evaluable. NIHSS 25
+
+
+EXPLORACIÓ COMPLEMENTÀRIA
+-Analítica general: Htes 3.23 x10E12/L, Hb 11.6 g/dL, Hto 37.6%, VCM 116.4 fL, ADE 19.2%, Leucocitos 7.71
+x10E9/L (N 78%, M 13.9%, M 6.1%, E 1.9%, B 0.1%), Plaquetas 202 x10E9/L, T Protrombina 113%, INR 0.93,
+TTPA 0.88 ratio, Fibrinógeno 4.76 g/L, Glucosa 144 mg/dL, Urea 48 mg/dL, Cr 1.02 mg/dL, FG 49 ml/min, Na
+141.6 mmol/L, K 3.77 mmol/L, Ca 8.2 mg/dL, AST 14 UI/L, ALT 9 UI/L, proteínas 5.3 g/dL. Marcadores de daño miocárdico pendientes.
+-ECG: RS a 90lpm. BRIHH con alteraciones secundarias de la repolarización.
+-TC craneal multimodal: El estudio cerebral,aunque muestra artefactos de movimiento se excluye patología hemorragica intra y extracraneal y tampoco se observaría hipodensidad en territorio superficialACM ,apreciandose asimetría por hipodensidad de ganglios basales derechos (ASPECTS 9). El TAC perfusion muestra lesion en CBV en ganglios basales y caudado asi como en cortex frontal parasagital derecho en la convexidad, con afectación en MTT, TTP y CBV territorio superficial quedando solo parcialmente respetado el lobulo temporal mas inferior. En el angiotac se observa oclusion de carotida interna intracraneal derecha supraclinoidea con permeabilidad de cerebral anterior derecha a traves de comunicante anterior y colaterales intermedias ,en fases adicionales realizadas, que permiten identificar ramas de ACM hasta bifurcacion carotidea.Marcada elongacion de carotida primitva desde su origen y bucle cervical en carotida interna, sin placas calcificadas enla bifurcacion carotidea.Sin otras alteraciones,TSA y resto de vasos intracraneales permeables.
+-Radiografía portátil de tórax 13/10: mala calidad, marco óseo conservado, ICT <0.5, seno costofrénico izquierdo no se visualiza, derecho libre, aumento de densidad parahiliar derecho sin clara condensación parenquimatosa (superposición estructuras?). Calcificación botón aórtico.
+-Analítica de ingreso 11/10: Hematies 3.12 x10E12/L Hemoglobina. 11.4 g/dL Hematòcrit . 36.1 % VCM 115.7 fL HCM 36.5 pg Leucòcits 12.38 x10E9/L Neutròfils 81.0 % Limfòcits 11.1 % Monòcits. 7.0 % Eosinòfils. 0.7 %
+Basòfils 0.2 % Plaquetes . 194 x10E9/L Glicemia: 136 mg/dL HbA1c: 6.1% Urea: 43 mg/dL Creatinina 1.11 mg/dL, Sodio: 142mmol/L Potasio 4.04 mmol/L Calcio8.2mg/dL; Homocisteina: 45.5 umol/L Proteina: 5.3 g/dL PCR 0.96 mg/dL;
+*Marcadores daño miocárdico: Creatina cinasa 2: 1.2ng/mL Troponina I 0.021ng/mL.
+*Perfil lipídico: Colesterol: 224 mg/dL HDL: 43mg/dL Trigliceridos177 mg/dL.
+*Tiroides: TSH 0.289; T3L 2.53 pg/mL; T4L 1.09 ng/dL
+-TC craneal control (11/10/17): Lesion isquemica fronto-parietal derecha parasagital y en cabeza del cuerpo caudado y lenticular derechos, sin afectacion de territorios superficiales de ACM derechas ni transformacion hemorragica.
+-Sedimento de orina 13/10: leucocitos 27.7cel/µL; hematíes 60.7cel/µL; células epiteliales 1.3cel/µL; cilindros hialinos 2.64cil/µL; bacterias 315bact/µL (aisladas).
+-Hemocultivos 12 y 13/10: PENDIENTES.
+
+Informe de Trasllat a Sociosanitari
+
+
+
+
+-Telemetría 72h: flutter auricular.
+
+EVOLUCIÓ CLÍNICA
+A su llegada a urgencias estable hemodinámicamente con tendencia a la hipertensión, afebril, destacando a la exploración física síndrome completo de circulación anterior derecha con NIHSS 20. Se realiza TC craneal multimodal que muestra oclusión en T carotídea derecha (ACI distal - ACM - ACA D), con ASPECTS 9 y missmatch en todo el territorio de cererbal media derecha, con afectacion CBV en ACA derecha. Dado el inicio indeterminado se desestima tratameinto fibrinolítico endovenoso, decidiéndose terapia endovascular primaria.
+Llegada a sala de angiografía 10:20h. Punción femoral 10:28h. Solitaire 6 a las 10:35h con recanalización completa de ACM D con trombo en ACA-A2 D. Segundo pase en división posterior distal de ACM D, finaliza procedimiento tras tercer pase con recanalización TICI 2b. Tras el procedimiento se objetiva cianosis del cuarto dedo de la mano derecha, por lo que se avisa a Guardia de Cirugía Vascular, quienes realizan ecografía arterial, objetivando arterias humeral, radial, cubital y subclavia permeables con cirva trifásica, orientando el cuadro como posible microembolización distal en 4º dedo ESD; descartan actitud quirúrgica urgente y recomiendan iniciar tratamiento con prostaglandinas y heparína sódica. Se inician medidas de ictus agudo y se cursa ingreso en Unidad de Ictus para control evolutivo y completar estudio.
+A su llegada a la Unidad de Ictus hemodinámicamente estable, febricular (37.6ºC), manteniendo saturaciones de oxígeno en torno al 96% con GN 1lpm, presentando a la exporación física presenta un NIHSS de
+25. El ECG muestra BRIHH no documentado previamente, con curva de marcadores de daño miocárdico negativa. La analítica de ingreso no muestra hallazgos relevantes. Se realiza TC de control que muestra lesión isquémica establecida fronto-parietal derecha parasagital y en cabeza del caudado y lenticular derechos, sin afectacion de territorio superficial de ACM derecha ni transformacion hemorrágica, por lo que se inicia anticoagulación con heparina sódica (por isquemia falange). Se completa estudio mediante Telemetría de 72 horas, la cual muestra un flutter auricular (con conducción aberrante por el BRIHH, comentado con Cardiología), por lo que se mantiene anticoagulación que pasamos a HBPM (bajo recomendación de Cirugía Vascular). Durante su estancia presenta fiebre de 38.2ºC, por lo que se realiza Rx de tórax que no muestra clara condensación parenquimatosa y se cursa sedimento de orina sin alteraciones relevantes. Ante sospecha de broncoaspiración pautamos antibioterapia con amoxicilina-clavulánico. Dado que la paciente permanece somnolienta, siendo imposible la alimentación vía oral, se coloca sonda nasogástrica.
+Se traslada a la paciente a la planta de Neurología. Durante su estancia en la planta ha permanedico afebril, manteniendo saturaciones adecuadas con oxígeno a bajos flujos, sin cambios relevantes a la exploración física, con NIHSS 20 y mMRS 5, por lo que se decide mantener sonda urinaria y nasogástrica de momento (a valorar según evolución). Debido a estado de la paciente se decide no ampliar estudio con ecocardiografía u otras pruebas. Del mismo modo, en cuanto a la anticoagulación, recomendamos mantener el tratamiento de la isquemia distal de la mano derecha, pero consideramos, dadas la limitación funcional y cognitiva actuales, que la anticoagulación a largo plazo como profilaxis secundaria de ACV cardioembólico no está indicada en el momento actual. Sin embargo, en caso de producirse una evolución favorable, cabría valorar derivación a Neurología de zona para replantear la indicación de la anticoagulació. Se decide traslado al _SS_.
+
+DIAGNÒSTICS
+-TACI cardioembólico de la arteria cerebral media derecha.
+-Isquemia cardioembólica del 4º dedo de la mano derecha
+-Disfagia
+-Fibrilación auricular de debut
+-Neumonitis por broncoaspiración
+-Diabetes mellitus
+
+Informe de Trasllat a Sociosanitari
+
+
+
+
+-Hipertensión aarterial
+-Asma
+-Insuficiencia cardiaca
+-Osteoartrosis
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+NO PINCHAR GLUCEMIAS EN DEDOS MANO DERECHA.
+
+Se adjunta hoja de tratamiento.
+
+CONTROL
+Según evolución por médico de atención primaria.
+En caso de mejoría significativa, remitir a Neurología de zona.
+
+DESTINACIÓ A L'ALTA:	SOCI SANITARI
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+17.10.2017
+Pàgina 1 de 4

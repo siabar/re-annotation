@@ -1,0 +1,128 @@
+IC DE MEDICINA I DERMATOLOGIA E015 SALA E MED. INT. AVI
+
+_NAME_		NHC: _ID_
+Sexo/Sexe: Masc.	Fecha nac./Data naix.: _DATE_	Edad/Edat: 80 años
+Dirección/Adreça: _LOCATION_		CP: _LOCATION_
+Municip. (Prov.): _LOCATION_  ABS:_SS_		Tel.:_CONTACT_
+As.: SERVEI CATALA DE LA SALUT	CIP: _ID_	NASS: _ID_
+Nº epis.: _ID_	Tipo/Tipus: HOSPIT.	Inici.: 27.05.2017
+Serv: NEUROLOGIA	UO Enf.: I015 SALA C.INTERMÈDIES MDI	Hora: 00:09:03
+
+
+Tipo ingreso/Tipus ingrés: Urgent	Motivo/Motiu alta: Defunc.
+Diag.:
+1.	HEMATOMA LOBAR TEMPORO-OCCIPITAL DERECHO EN CON ()
+2.	EMERGENCIA HIPERTENSIVA ()
+3.	FIBRILACIÓN AURICULAR PAROXÍSTICA ()
+4.	SOBREDESCOAGULACIÓN POR ACENOCUMAROL ()
+Proc.:
+Analítica general y Rx seriadas () TAC CRANEAL ()
+
+
+
+
+INFORME EXITUS
+
+Motivo de consulta / Motiu de consulta
+Ictus hemorrágico lobar temporo-occipital derecho
+
+Antecedentes e historia previa / Antecedents i història prèvia
+Varón de 80 años, no constan alergias medicamentosas conocidas, familiares no refieren hábitos tóxicos. Vive solo, independiente para las ABVD, poco soporte familiar (pobre relación con hermanos, mantiene relación con una sobrina).
+
+*ANTECEDENTES PATOLÓGICOS:
+1.	Fibrilación auricular crónica en tratamiento anticoagulante con Sintrom.
+2.	Hipertensión arterial sin tratamiento farmacológico.
+3.	Dislipemia en tratamiento con estatinas.
+4.	Ictus de repetición
+5.	Hipotiroidismo en tratamiento sustitutivo con levotiroxina.
+
+*MEDICACIÓN HABITUAL (actualizada 29.05.17): levotiroxina 50 mcg/día, pravastatina 40mg/24h, sintrom según pauta.
+
+Proceso actual / Procés actual
+La  noche  del  26/05/17  presenta  cefalea  de  inicio  súbito  a  las  17h  y  posteriormente  debilidad  de extremidades izquierdas.
+A su llegada el SEM lo encuentra hipertenso (PAS 190), afebril y con hemiparesia izquierda por lo que se activa código ictus, traslandándose a nuestro centro.
+A su llegada a urgencias se encuentra hipertenso (PA 160/90mmHg) y afebril. A la exploración neurológica destaca un sindrome hemisférico derecho, con limitación a la abducción de la mirada bilateral (NIHSS 17). Se
+realiza TC cerebral que muestra hematoma extenso (45cc) en varios focos a nivel temporo-occipital derecho, con  estudio  de  contraste   que  descarta  la  presencia  de  lesión  vascular  subyacente.  Se  observa desplazamiento de la linea media, abundante edema y colapso de asta ventricular temporal y 3r ventrículo. En la analítica se observa INR 2,3; plaquetas 174000, resto de hemograma y función renal sin alteraciones a destacar. ECG en FA, con QRS estrecho, no alteraciones en la repolarización.
+Se administra vitamina K y complejo protrombinico para revertir el efecto del acenocumarol. Se comenta con Neurocirugia que no consideran el paciente tributario de cirugia.
+Dada la ausencia de camas en Unidad de Ictus se contacta con Área de Vigilancia Intensiva para ingreso. Ingresa en AVI para control y tratamiento.
+
+Exploración física / Exploració física
+*EXPLORACIÓN EN URGENCIAS:
+Hemianopsia homónima izquierda. Lenguaje sin rasgos afásicos. Paresia facio (mod)-braquio (0/4)-crural (0/4) izquierda. Hemihipostesia izquierd a. RCP extensor izquierdo. NIHSS 0-0-0-1-2-2-4-4- 2-2-0-0-0-0- 0: 17.
+
+*EXPLORAICÓN AL INGRESO EN AVI:
+AC: ruidos cardiacos irregulares con soplo pansistólico IV/VI. Pulsos distales presentes y simétricos. Bien perfundido a nivel distal.
+AR: MVC sin ruidos sobreañadidos.
+ABD: blando, sin masas, no doloroso a la palpación.
+NRL: consciente y orientado pero somnoliento, GCS 15 (O:3; V:5; M:6). No afasia, Disartria leve. Pupilas isocóricas normorreactivas. Hemiparesia facial, braquial de predominio proximal, con contracción de la mano a nivel distal y crural izquierda. RCP extensor izquierdo.
+
+*INDICADORES DE ESTANCIA EN UCI: Indicador de gravedad: APACHE II: 17; Indicador disfunción orgánica: SOFA : 8; Indicadores de procedimiento: Ventilación mecánica invasiva (*); -> Nº días de VMI : 5; -> Nº días sin VMI: 1;
+
+Laboratorio / Laboratori
+*ANALITICA AL INGRESO:
+-Hemograma: leucocitos 10.27x10^9/L, Hemoglobina 138g/L, hematocrito 41%, plaquetas 174x10^9/L.
+-Bioquimica: gucosa 144mg/dL, creatinina 0.86mg/dL, Na 144mmol/L, K 3.7mmol/L.
+-Coagulación: TP 31%. INR 2.3. Tras reversión coagulación TP 68%, INR 1.24.
+
+Radiología / Radiologia
+*TC CRANEAL URGENTE: Hematoma intraparenquimatoso agudo occipitotemporal posterior derecha con extensión parietal de 7.6 x 4 x 6.3 cm de diámetro máximo (ApxTxCC), con moderado edema perilesional, que produce notable efecto de masa con desviación de la línea media hacia la izquierda de 8 mm, colapso de los surcos de la convexidad derecha y colapso parcial del VLD y del III ventrículo. Herniación uncal derecha. Contaminación hemática del ventrículo lateral derecho, sin dilatación valorable del sistema ventricular supratentorial. En vista del importante efecto de masa y el edema perilesional que se extiene hacia la región parietal, se administra contraste endovenoso, sin observar realces patológicos. Hipodensidad focal corticosubcortical parasagital frontal izquierda por lesión isquémica antigua.
+
+*TC CRANEAL DE CONTROL: Se compara con TC previa de hace 8 horas. Extenso hematoma intraparenquimatoso agudo occipitotemporal posterior derecho con extensión parietal ipsilateral, que ha aumentado levemente de tamaño con mayor extensión a la región temporal anterior derecha (previo 7.6 cm; actual 9.6 cm diámetro AP), con persistencia del moderado edema perilesional. En comparación al estudio previo la lesión ejerce un mayor efecto de masa con borramiento de los surcos de la convexidad derecha e izquierda y desviación de la línea media de 12 mm hacia la izquierda (previo de 8 mm). Obliteración de las cisternas  perimesencefálicas  y periprotuberanciales  con signos de herniación uncal  con compresión del
+
+
+
+tronco del encéfalo que ha aumentado respecto al TC previo. Compresión del VLD y del III ventrículos, con persistencia de la contaminación hemática del VLD y restos hemáticos en el asta occipital izquierda de nueva aparición, sin cambios significativos de tamaño del sistema ventricular respecto al estudio previo. No se puede descartar lesión isquémica del territorio de la ACP derecha subyacente. Resto del estudio sin cambios significativos.
+
+*RX TÓRAX: índice cardiotorácico conservado. Senos costofrénicos libres. No infiltrados parenquimatosos.
+
+*ECOGRAFIA ABDOMINAL: Exploración dificultosa por la situación basal del paciente, con mala ventana ecográfica. Hígado de tamaño normal con ecoestructura homogénea, sin lesiones focales evidentes. Vesícula biliar distendida, de paredes finas. Vía biliar no dilatada. Vena porta permeable de calibre normal con flujo hepatofugal. Venas suprahepáticas permeables. Riñones de tamaño y ecoestructura normal, sin dilatación de la vía excretora. Pequeña litiasis calicilar no obstructiva en riñón derecho. No se observan lesiones focales renales. No se observa líquido libre intra- abdominal.
+
+Exploraciones complementarias / Exploracions complementàries
+
+*MICROBIOLOGIA:
+-	ASPIRADO TRAQUEAL (29.05.17): grado 4. Flora mixta sin predominio. S'aïllen més de 1.000.000 i menys de 2.000.000 UFC/mL de Staphylococcus aureus.
+-	FROTIS NASAL (31.05.17): en curso.
+- SEROLOGIAS: Ag Australia (HBsAg): Negatiu, VIH1-2 - Anticossos + p24 VIH1 - Antigen: Negatiu, Virus Hepatitis C - Anticossos: Negatiu, Virus HBc (Core) - Anticossos: Negatiu, Ac anti-Trypanosoma cruzi: Negatiu, RPR.: Negatiu, HTLV I/II - Anticossos: Negatiu, Virus HB( Antigen sup.) - Anticossos: 0 mIU/mL, Anticossos anti Citomegalovirus: Positiu.
+
+*ECG de ingreso en AVI: RS a 75lpm. PR 200ms. AQRS -0º. QRS 80ms. Sin alteraciones en la repolarización.
+
+Evolución / Evolució
+EVOLUCIÓN EN ÁREA DE VIGILANCIA INTENSIVA:
+1.	HEMATOMA LOBAR TEMPORO-OCCIPITAL DERECHO EN CONTEXTO DE 2,4
+2.	EMERGENCIA HIPERTENSIVA
+3.	FIBRILACIÓN AURICULAR PAROXÍSTICA
+4.	SOBREDESCOAGULACIÓN POR ACENOCUMAROL
+1,2. Al ingreso en AVI paciente consciente y orientado (GCS 15) con sindrome hemisférico derecho y mal control de las cifras de presión arterial requiriendo de la administración de varios bolus de labetalol para su control. En las horas siguientes el paciente presenta deterioro del nivel de consciencia destacando en la exploración anisocoria y midriasis derecha arreactiva procediéndose a la intubación orotraqueal para preservar via aérea. En ese contexto se inicia sedoanalgesia con propofolol y remifentanilo y concomitantemente precisa introducción de dosis bajas de noradrenalina (máximo mcg/kg/min) para mantener la PAM > 75mmHg.
+Se realiza TC craneal de control que muestra aumento del hematoma intraparenquimatoso con persistencia del moderado edema perilesional que en comparación al estudio previo la lesión ejerce un mayor efecto de masa con borramiento de los surcos de la convexidad derecha e izquierda y desviación de la línea media, obliteración de las cisternas perimesencefálicas y periprotuberanciales con signos de herniación uncal y con persistencia de la contaminación hemática del VLD y restos hemáticos en el asta occipital izquierda de nueva aparición.
+Se han realizado varias ventanas de sedación en las que se objetiva GCS 5(O1V1M3). Dada la situación clinica del paciente y la lesión intracraneal de gran volumen con desplazamiento de linea media, en un paciente de avanzada edad y con poco soporte familiar (vive solo, escasa relación con hermanos, solo sobrina), se consensua con la familia limitación del soporte vital avanzado, siendo éxitus el miércoles 31 de
+
+
+
+mayo de 2017 a las 15:48h.
+
+Plan terapéutico / Pla terapèutic
+No procede.
+
+Otras recomendaciones / Altres recomanacions
+No procede
+
+
+
+Firma/Signatura1: _NAME_		Firma/Signatura2: _NAME_ Categoría: Resident 4	Categoría: Especialista
+Nº Matrícula HCP: _ID_	Nº Matrícula HCP: _ID_
+
+Fecha/Data Informe: 31.05.2017
+Hora Informe: 19:02:44
+
+Docum.: _ID_
+Hist. Clínica: _ID_
+El _SS_ ha incorporado sus datos al Fichero de Pacientes, para tratarlos con fines sanitarios.
+Puede ejercer sus derechos de acceso, rectificación, cancelación y oposición, así como obtener mas información en la Unidad de Atención al Cliente.
+Vers. 00
+Pag. 2 de
+4
+Episod.: _ID_
+_SS_ ha incorporat les seves dades al Fitxer de Pacients, per a tractar-los amb finalitats sanitàries. Pot exercir els seus drets d'accés, rectificació, cancel·lació i oposició, i obtenir més informació a la Unitat d'Atenció al Client.
+_SS_
+_LOCATION_) _LOCATION_) Tel. _CONTACT_ Fax _CONTACT_
+http://_CONTACT_/

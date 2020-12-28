@@ -1,0 +1,123 @@
+_LOCATION_
+_LOCATION_) Anul·lació/Reprogramació visites:_CONTACT_
+Telèfon Centraleta: _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Dona
+Data de Naixement: _DATE_   Edat: 85 Anys
+NIF/DNI: _ID__NAME_; _NAME_
+Informe d'alta d'hospitalització
+16:23:34
+07.11.2017
+_LOCATION_
+_SS_ NEUROLOGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_; _CONTACT_
+DOMICIL/RES.SOC 27.10.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Ictus ACM derecha.
+
+ANTECEDENTS
+Sin alergias medicamentosas conocidas. Sin hábitos tóxicos.
+Factores de riesgo cardiovascular: HTA en tratamiento con enalapril 20mg/24h, no DM2 ni DLP conocidas. No cardiopatía conocida.
+Cólico nefrítico.
+Situación basal: Vive sola, hace la compra, cuida de su marido, no deterioro cognitivo, mRS 0.
+
+MEDICACIÓ HABITUAL
+Enalapril 20mg/24h Omeoprazol 20mg/24h Paracetamol/codeína si precisa
+
+
+PROCÉS ACTUAL
+Mujer de 85 años que el día 27/10/17 a las 10:30 aproximadamente es encontrada por familiares en el lavabo, vestida, con disatria y plejia izquierda, habiendo sido vista bien por última vez a las 23:00 del día anterior.
+
+A su llegada a urgencias TA 167/74 FC 60 En RS. SaO2 96 % A la exploración se encuentra despierta, con DOC D forzada, HHI completa, PFSN I completa, plejia FBC I hipoestesia, anosoasomatognosia. NIHSS 17.
+El TC craneal (pendiente de informe definitivo) muestra ASPECTS 9 dudoso por hipodensidad subinsular, al angioTC muestra oclusión en segmento M1 derecha distal. Se descarta rTPA por inicio incierto, se indica trombectomía previo consentimiento informado, se conisgue recanalización completa TICI 3 tras un pase.
+El TC de control no muestra signos de sangrado agudo. Se inicia antiagregación con AAS.
+
+Se orienta como ictus ACM derecha con oclusión M1 tratado en fase aguda con trombectomía por recanalización completa.
+
+
+EXPLORACIÓ FÍSICA
+
+FC	70 bpm
+Tªaxi 37.2 ºC
+FR	rpm Tªrec  ºC
+TA s	163 mmHg SAT O2 98 %
+TA d   94 mmHg Pes Kg
+
+NRL: Paciente consciente, orientada en tiempo y espacio, obecede órdenes simples y complejas, sin alteraciones del lenguaje (nomina 5/5, repite, evoca 5/5), PICNR, MOEs conservados, campimetria por confrontación normal, no asimetría facial, balance motor conservado, desaferentización ESD y miller fisher iquierdo, sin alteraciones de la sensibilidad, RCP flexor bilateral. NIHSS 0.
+
+Informe d'alta d'hospitalització
+
+
+
+
+AC: tonos cardiacos rítmicos, sin soplos, no IY ni RHY.
+AR: MVC, se auscultan crepitantes en base derecha, no se auscultan otros ruidos añadidos. Abdomen blando, depresible, no doloroso a la palpación.
+EEII: no edemas, pulsos periféricos palpables, no signos TVP.
+
+EXPLORACIÓ COMPLEMENTÀRIA
+EXPLORACIOENS COMPLEMENTARIAS EN URGENCIAS:
+Arteriografia + Trombectomia intra i extra craneal mecànica (27.10.2017 /14:00:58) Accés femoral comú dreta. (8F) Cateteritzem caròtida interna dreta i la angiografía mostra oclusió de M1 proximal Col.loquem catéter ACE 68 i realitzem tromboaspiració. S'aconsegueix repermeabiltizació, quedant ocluïda la divisió inferior. Col.loquem catéter Rebar 18 i despleguem solitaire de 4x40 mm a la divisió inferior que retirem amb aspiració des del ACE. La angiografia de comprobació mostra recanalització TICI 2b per trombo distal a branca parietal. Deixem col.locat el introductor vascular No es produeixen incidències durant el procediment.
+TC, angioTC TSA: Signos de isquemia ASPECTS 8 en el territorio de la ACM derecha secundario a oclusión del segmento M1. El estudio de perfusión pone de manifiesto una hipoperfusión de todo el territorio de la ACM con infarto establecido en la región ganglionar basal y tejido salvable a nivel del territorio superficial.
+TC craneal de control: sin signos de transformación hemorrágica.
+Analítica de urgencias: acidosis pH 7.30 respiratoria pCO2 56mmHg, glucosa elevada 7.9mmol/L, urea 8.6mmol/L, creatinina 89umiol/L, coagulación (TP, TTPA) sin alteraciones, hemograma: anemia Hb 10.8g/dL, plaquetas 231000, leucocitosis 14100 con neutrofilia 11860.
+
+EXPLORACIONES COMPLEMENTARIAS EN PLANTA DE NEUROLOGÍA:
+Analítica de ingreso: Analítica ingreso: perfil renal levemente alterado: urea 8.4mmol/L, creatinina 94umol/L, FG 48mL/min, iones normales, perfil hepático (AST, ALT, GGT, FA) normal excepto AST levemente elevado 0.64ukat/L, perfiles lipídico, glucídico y tiroideo normales, hemograma: Hb 10.9g/dL, hematocrito 32.30% (probable anemia dilucional), plaquetas normales, serie blanca normal, proteinograma sin bandas. Serologías VHB, VHC, TP, VIH negativas.
+RMN cerebral: Signos de leucoencefalopatía supratentorial moderada por afectación de pequeño vaso. Infartos lacunares antiguos múltiples supra e infratentoriales. Infarto subagudo establecido ganglionar basal derecho.
+Ecocardiografía: Ventrículo izquierdo no dilatado, ligeramente hipertrófico, con función sistólica conservada y sin alteraciones segmentarias de la contractilidad. Ventrículo derecho no dilatado, normocontráctil. Aurícula izquierda ligeramente dilatada. Raíz aórtica no dilatada. Válvula aórtica trivalva, sin estenosis ni regurgitación significativas. Válvula mitral con anillo calcificado, sin estenosis ni regurgitación significativas. Regurgitación tricuspídea ligera, que permite estimar una presión pulmonar normal. Vena cava inferior no dilatada y móvil. Sin derrame pericárdico.
+
+
+EVOLUCIÓ CLÍNICA
+Ingresa para estudio y control evolutivo de ictus de ACM derecha con oclusión en segmento M1 de etiología desconocida, tratada en fase aguda con trombectomía con recanalización completa TICI 3. El TC de control no muestra sangrado, se inicia antiagregación con AAS y dieta oral. Se mantiene la paciente monitorizada en la unidad de ictus donde se detecta una única racha de fibrilación auricular de 30 segundos de duración, sin síntomas.
+
+Clinicamente se ha mantenido estable. En el momento de la realización de este informe presenta en la exploración neurológica desaferentización en la extremidad superior izquierda y miller fisher izquierdo, con NIHSS 0.
+
+Informe d'alta d'hospitalització
+
+
+
+
+
+Como parte del estudio vascular se ha realizado una analítica de ingreso, donde destaca un perfil renal levemente alterado: urea 8.4mmol/L, creatinina 94umol/L, FG 48mL/min, perfil hepático (AST, ALT, GGT, FA) normal excepto AST levemente elevado 0.64ukat/L, anemia con Hb 10.9g/dL, hematocrito 32.30% (probable anemia dilucional), sin otras alteraciones. No se hallan bandas en el proteinograma, las serologías son negativas. La RMN cerebral muestra infartos lacunares múltiples y un infarto subagudo establecido ganglionar basal derecho. Se realiza un ecocardiograma cardiaco sin alteraciones significativas. .
+
+No ha presentado incidencias durante el ingreso. Tolera dieta oral, sedestación y deambulación. Se realiza rehabilitación desde el inicio.
+
+Se orienta como ictus ACM derecha de etiología cardioembólica por FA paroxística, tratada en fase aguda con trombectomía, NIHSS 0. Anticoagulado con sintrom.
+
+DIAGNÒSTICS
+Ictus de ACM derecha,  TACI,  por oclusión de M1  tratada con trombectomía TICI 3,  al alta NIHSS 0, mRS 1 basal.
+
+PROCEDIMENTS
+99.29 Injecció o infusió d'altra substància terapèutica o profilàctica
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+Sintrom según pauta de hemostasia. Se adjunta pauta de hemostasia. Resto de medicación sin cambios.
+
+CONTROL
+Control en CEX Neurología según programación.
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+
+
+
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+07.11.2017
+Pàgina 1 de 3

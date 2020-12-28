@@ -1,0 +1,120 @@
+T1	Hora_de_alta 254 259	13:00
+#1	AnnotatorNotes T1	13:00
+T2	FECHA 263 273	16.03.2017
+#2	AnnotatorNotes T2	2017-03-16
+T3	Fecha_de_ingreso 372 382	11.03.2017
+#3	AnnotatorNotes T3	2017-03-11
+T4	_SUG_Ataque_isquemico_transitorio 469 474	Ictus
+T5	_SUG_Arteria_afectada 480 483	ACM
+T6	_SUG_Lateralizacion 484 485	D
+T7	_SUG_Ictus_isquemico 827 844	d'ictus isquèmics
+T8	_SUG_Lateralizacion 937 945	esquerra
+T9	_SUG_Lateralizacion 1036 1041	dreta
+T10	FECHA 1060 1064	2010
+#10	AnnotatorNotes T10	2010-UNDEF-month-UNDEF-day
+T11	_SUG_Ataque_isquemico_transitorio 1362 1367	ictus
+T12	FECHA 1654 1659	10/03
+#12	AnnotatorNotes T12	2010-03-10
+T13	Hora_inicio_sintomas 1690 1695	00:00
+#13	AnnotatorNotes T13	00:00
+T14	HORA 1726 1730	4:30
+#14	AnnotatorNotes T14	04:30
+T15	_SUG_Lateralizacion 1859 1867	esquerre
+T16	_SUG_Ataque_isquemico_transitorio 1883 1888	ictus
+T17	HORA 1903 1908	05:00
+#17	AnnotatorNotes T17	05:00
+T18	Hora_llegada_hospital 1975 1980	05:20
+#18	AnnotatorNotes T18	05:20
+T19	_SUG_TAC_craneal 1989 1991	TC
+T20	Hora_TAC_inicial 1998 2003	06:30
+#20	AnnotatorNotes T20	06:30
+T21	_SUG_Lateralizacion 2494 2499	dreta
+T22	_SUG_Lateralizacion 2565 2570	dreta
+T23	_SUG_Lateralizacion 2796 2804	esquerra
+T24	_SUG_Lateralizacion 2926 2934	esquerre
+T25	_SUG_Lateralizacion 2977 2985	esquerra
+T26	_SUG_Lateralizacion 3024 3032	esquerre
+T27	_SUG_Lateralizacion 3043 3047	dret
+T28	_SUG_NIHSS 3049 3059	NIHSS 13+3
+T29	_SUG_TAC_craneal 3275 3277	TC
+T30	_SUG_TAC_craneal 3287 3289	TC
+T31	_SUG_ASPECTS 3321 3333	ASPECTS 9-10
+T32	_SUG_TAC_craneal 3347 3349	TC
+T33	_SUG_Lateralizacion 3410 3415	dreta
+T34	_SUG_Lateralizacion 3441 3446	dreta
+T35	_SUG_TAC_craneal 3463 3465	TC
+T36	_SUG_NIHSS 3620 3630	NIHSS 18+3
+T37	_SUG_Ataque_isquemico_transitorio 3672 3677	ictus
+T38	_SUG_Ictus_isquemico 3672 3686	ictus isquèmic
+T39	_SUG_Arteria_afectada 3700 3703	ACM
+T40	_SUG_Lateralizacion 3704 3709	dreta
+T41	Hora_inicio_trombectomia 3955 3959	7:56
+#41	AnnotatorNotes T41	07:56
+T42	_SUG_Etiologia 4057 4066	dissecció
+T43	_SUG_Lateralizacion 4073 4078	dreta
+T44	_SUG_Ataque_isquemico_transitorio 4247 4252	ictus
+T45	_SUG_Ictus_isquemico 4247 4261	ictus isquèmic
+T46	_SUG_Arteria_afectada 4275 4278	ACM
+T47	_SUG_Lateralizacion 4279 4284	dreta
+T48	_SUG_Lateralizacion 4713 4718	dreta
+T49	_SUG_Lateralizacion 4786 4791	dreta
+T50	_SUG_Lateralizacion 5021 5029	esquerra
+T51	_SUG_Lateralizacion 5171 5179	esquerre
+T52	_SUG_Lateralizacion 5222 5230	esquerra
+T53	_SUG_Lateralizacion 5269 5277	esquerre
+T54	_SUG_Lateralizacion 5288 5292	dret
+T56	_SUG_TAC_craneal 5991 5993	TC
+T57	TAC_craneal 6093 6095	TC
+T58	_SUG_TAC_craneal 6105 6107	TC
+T59	_SUG_Ataque_isquemico_transitorio 6132 6137	Ictus
+T60	_SUG_Ictus_isquemico 6132 6147	Ictus isquémico
+T61	Arteria_afectada 6180 6183	ACM
+T62	Lateralizacion 6184 6185	D
+T63	ASPECTS 6187 6196	ASPECTS 9
+T64	_SUG_TAC_craneal 6307 6309	TC
+T65	_SUG_Arteria_afectada 6392 6395	ACM
+T66	_SUG_Lateralizacion 6396 6397	D
+T67	_SUG_TAC_craneal 6483 6491	angioTAC
+T68	_SUG_Lateralizacion 6508 6515	derecha
+T69	_SUG_Ataque_isquemico_transitorio 7436 7441	ictus
+T70	_SUG_Arteria_afectada 7466 7469	ACM
+T71	_SUG_Lateralizacion 7510 7511	e
+T72	_SUG_Lateralizacion 7683 7684	D
+T73	Fecha_de_alta 7747 7757	16-03-2017
+#73	AnnotatorNotes T73	2017-03-16
+T74	Ictus_isquemico 7778 7783	Ictus
+T75	FECHA 8042 8052	21.03.2017
+#75	AnnotatorNotes T75	2017-03-21
+T76	SECCION_MOTIVO_DE_INGRESO 454 468	MOTIU D'INGRÉS
+T77	SECCION_ANTECEDENTES 501 512	ANTECEDENTS
+T78	SECCION_ANTECEDENTES_QUIRURGICOS 1215 1241	Intervencions quirúrgiques
+T79	SECCION_SITUACION_FUNCIONAL 1257 1271	Situació basal
+T80	SECCION_TRATAMIENTO_HABITUAL 1460 1478	MEDICACIÓ HABITUAL
+T81	SECCION_PROCESO_ACTUAL 1621 1634	PROCÉS ACTUAL
+T82	SECCION_EXPLORACION_FISICA 4507 4524	EXPLORACIÓ FÍSICA
+T83	SECCION_EXPLORACIONES_COMPLEMENTARIAS 5583 5608	EXPLORACIÓ COMPLEMENTÀRIA
+T84	SECCION_EXPLORACIONES_COMPLEMENTARIAS_EN_URGENCIAS 5609 5649	EXPLORACIONS COMPLEMENTÀRIES A URGÈNCIES
+T85	SECCION_EXPLORACIONES_COMPLEMENTARIAS_EN_PLANTA_DE_NEUROLOGIA 6575 6629	EXPLORACIONS COMPLEMENTÀRIES A LA PLANTA DE NEUROLOGIA
+T86	SECCION_EVOLUCION 7209 7225	EVOLUCIÓ CLÍNICA
+T87	SECCION_DIAGNOSTICOS 7760 7771	DIAGNÒSTICS
+T88	SECCION_PROCEDIMIENTOS 7894 7906	PROCEDIMENTS
+T89	mRankin_previa 1448 1457	mRankin 3
+#4	AnnotatorNotes T89	3
+T90	Fecha_llegada_hospital 372 382	11.03.2017
+#5	AnnotatorNotes T90	2017-03-11
+T91	Fecha_inicio_sintomas 372 382	11.03.2017
+#6	AnnotatorNotes T91	2017-03-11
+T92	Fecha_TAC_inicial 372 382	11.03.2017
+#7	AnnotatorNotes T92	2017-03-11
+T93	NIHSS_previa 5294 5308	NIHSS 20 (+ 2)
+#8	AnnotatorNotes T93	NIHSS=22
+#9	AnnotatorNotes T63	9
+T55	Arteria_afectada 6233 6235	M1
+T94	Trombectomia_mecanica 7370 7382	trombectomia
+T95	Fecha_inicio_trombectomia 372 382	11.03.2017
+#11	AnnotatorNotes T95	2017-03-11
+T96	Fecha_primera_serie_trombectomia 372 382	11.03.2017
+#15	AnnotatorNotes T96	2017-03-11
+T97	Fecha_fin_trombectomia 372 382	11.03.2017
+#16	AnnotatorNotes T97	2017-03-11
+T98	Localizacion 475 479	TACI

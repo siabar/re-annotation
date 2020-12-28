@@ -1,0 +1,125 @@
+_LOCATION_) Telèfon _SS_  _CONTACT_
+Telèfon IDI (Ressonància i TAC) _CONTACT_
+Telèfon ICO _CONTACT_
+Nº Història Clínica: _ID_
+Cognoms, Nom: _NAME_
+NºEpisodi: _ID_
+CIP: _ID_
+Sexe: Home
+Data de Naixement: _DATE_   Edat: 66 Anys
+NIF/DNI: _ID__NAME_; _NAME_; _NAME_
+Informe d'alta d'hospitalització
+09:00:00
+06.01.2017
+_LOCATION_
+_LOCATION_ NEUROLOGIA
+CP
+ABS
+Servei Data d'alta
+_LOCATION_
+_CONTACT_; _CONTACT_
+DOMICIL/RES.SOC 04.01.2017
+Adreça
+Telèfon Procedència Data d'ingrés Atès per
+
+
+
+MOTIU D'INGRÉS
+Infarto cerebral arteria cerebral media izquierda
+
+ANTECEDENTS
+Antecedentes Personales:
+-	No reacciones alérgicas medicamentosas.
+-	Fumador activo actualmente de 5 cigarrillos al día. No antecedents de consumo de alcohol.
+-	Situación basal: independiente para ABVD. mRS 0.
+
+Antecedentes Patológicos:
+-	HTA en tratamiento farmacológico.
+-	Fibril·lació auricular permanente en tratamiento con sintrom. Refiere mal cumplimiento terapéutico (toma menos dosis)
+-	RTU tumor vesical 1996 con resección  de meato ureteral e instilaciones  posteriores. Actualmente libre de enfermedad. Cistoscopias de control negativas.
+
+MEDICACIÓ HABITUAL
+Sintrom según pauta (paciente refiere que toma menos dosis que la que se le inidca); Amolidipino 10 mg 0-0-1 (dia por medio), Ameride 5/50 0-0-1 (día por medio), candesartán 32 mg 1-0-0, BOI-K 50 1 comprimido al día
+
+PROCÉS ACTUAL
+Varón de 66 años que el día 4/1 se despierta con normalidad a las 09h00 y se va a la ducha. Sobre las 9h15 la mujer nota que no habla bien y posteriormente presenta hemiparesia derecha. Avisan al SEM quienes activan Código Ictus a las 10h25. El paciente llega a nuestro hospital a las 11h07 y es visitado en el acto. El técnico del SEM me explica que durante el traslado el paciente ha ido mejorando desde el punto de vista motor.
+
+EXPLORACIÓ FÍSICA
+
+-	TA 161/84. FC 60 lpm. Glucemia 113 mg/dL. Afebril.
+-	Exploración NRL: alerta y colaborador. Disfasia leve mixta: dice bien su nombre mal su edad (24 años) y mal el mes (noviembre); nomina bien objetos simples, pero confunde el color; comprende órdenes simples, aunque finalmente se intoxica, dificultad en órdenes complejas (comprende orden pero confunde lado corporal). No disartria. Preferencia ocular hacia la izquierda con limitación en la mirada horizontal hacia la  derecha pero sobrepasando línea media. HHD por amenaza. Paresia facial leve derecha. No objetivo déficit motor. Anestesia braquio-crural derecha. RCP indiferente derecho, flexor izquierdo.
+NIHSS 02012/10000/02100 = 9 puntos.
+-	ACP. arrítmica a buena frecuencia. MVC.
+-	
+Informe d'alta d'hospitalització
+
+
+
+EXPLORACIÓ COMPLEMENTÀRIA
+-	ECG (04/01/16): FA a RVM conservada.
+-	Monitorización ECG: no se detectan arritmias durante la monitorización.
+
+-	Analítica sanguinea (04/01/16):
+Hemograma: Hemoglobina  16.3, Hematòcrit 49, Volum corpuscular mitjà 91.8. Plaquetes 253. Leucòcits 8.94
+(Neutròfils 68.4%, Limfòcits * 22.1%).
+Coagulación: Tasa protrombina 89. Tasa protrombina (INR) 1.06. Temps de cefalina (TTPA) 31.3. Temps de cefalina (ratio) 1. Fibrinogen (deduit) * 485
+Bioquímica: Glucosa * 123. Urea 40. Creatinina 1. Urat 6.6. Proteïna 7.2. Albúmina (sèrum) 3.9. Colesterol * 168. Colesterol HDL 45. Colesterol LDL (calcul) 103. Triglicèrid 101. Bilirubina total 0.82. Aspartat aminotransferasa (GOT Mostra hemolitzada.. Alanina. aminotransferasa (GPT) 22. Gamma-glutamiltransferasa 26. Fosfatasa alcalina 62. Lactat deshidrogenasa Mostra hemolitzada.. Creatincinasa (CK) 161,. Amilasa 86. Calci (II) 8.8. Ió sodi
+142. Ió potasi Mostra hemolitzada.Troponina T hs (alta sensibili * 14.3.
+
+-	TC craneal multimodal urgente (04/01/16): Ictus isquémico en el territorio de la arteria cerebral media izquierda, con estudio simple que muestra borramiento de los surcos temporales izquierdos, con pérdida de la diferenciación cortico-subocrtical, lo que corresponde con las áreas M2 y M3 y dudosa M6 (ASPECTS 7-8). Oclusión de la arteria ACM izquierda en su segmento M2 subdivisión posterior. Perfusión parcialmente artefactuada, pero que consigue visualizar área de afectación de territorio superficial posterior de la ACM izquierda, con aumento del MTT y disminución del CBF y CBV, lo que traduce ya probablemente evento isquémico establecido.
+
+-Tc craneal sin contraste post rtpa (05/01/16):No se identifican lesiones hemorrágicas intracraneales., Pequeño infarto parietal izquierdo y dudosa área de hipodensidad temporal anterior, izquierda., Infarto antiguo en territorio de PICA derecha., Estructuras de línea media centradas., Sistema ventricular de tamaño y morfología normal., Cisternas de la fosa posterior libres., CONCLUSIÓN:, Estudio sin evidencia de lesiones hemorrágicas intracraneales
+
+-	Estudio neurosonológico: DTSA (05/01/16): pequeñas placas calcificadas en ambos bulbos que no condicionan ni estenosis ni alteraciones hemodinámicas. Ambas ACCs, ACIs, ACext con curvas de flujo normales y velocidades normales. Ambas AAVV ortodrómicas y con curvas de flujo normales. DTC: insono ambas ACAs y ACMs simétricas y con curvas normales. ACP derecha normal, no consigo insonar  ACP izquierda por mala ventana US (si bien estudio angio-TC normal). Ventana suboccipital: Ambos segmetnos V4 normales. Insono AB a
+85 mm de profundidad normal. Conclusión: mínima ateromatosis carotídea. Resto del estudio sin hallazgos significativos.
+
+-	RX tórax (04/01/16): Placa AP por lo que no es valorable calibre de mediastino ni ICT. No observo imágenes de nódulos, masas ni condensacion pulmonar. Senos costofrénicos libres.
+
+EVOLUCIÓ CLÍNICA
+A su llegada a nuestro centro (11:07) se objetiva déficit neurológico con NIHSS de 9, se realiza TC craneal a las 11:36 que evidencia oclusión de la arteria cerebral media izquierda a nivel de M2. Dado que presenta un INR normal y no presenta otros criterios de contraindicación se decide administrar tratamiento fibrinolítico.
+
+Informe d'alta d'hospitalització
+
+
+
+
+Dado antecedentes de FA del paciente y que él reconoce no seguir dosis de anticoagulante como le fue prescrita, se orienta como un Infarto cerebral del territorio de la arteria cerabral media de etiología cardioembólica por fibrilación auricular anticoagulada en niveles subóptimos. Se decide ingreso a Unidad de ICTUS para monitorización semi-intensiva.
+
+Paciente evoluciona favorablemente, a las 12h del inicio del tratamiento se encuentra hemodinamicamente estable, afebril y sintomático con exploración neurológica normal NIHSS:0. La TC de control evidencia una área de hipodensidad temporal anterior izquierda, sin evidencia de lesiones hemorrágicas intracraneales. Por lo que se inicia HBPM y reintroducimos Sintrom.
+
+Dada la buena evolución que presenta el paciente se decide alta a domicilio, recomendando al paciente respetar dosis de SINTROM indicadas por su médico.
+
+Escalas al alta: NIHSS:0
+Rankin: 0
+Barthel: 100%.
+
+DIAGNÒSTICS
+436/5 Ictus  isquémico de ACM izquierda por oclusión de M2 de mecanismo embólico y etiología cardioembólica por FA anticoagulada en niveles subóptimos.
+427.31/2 Fibril.lacio auricular 401.9/2 HTA
+
+TRACTAMENT I RECOMANACIONS A L'ALTA
+-Dieta hiposódica
+-	Abandono del tabaco y reducción del consumo de alcohol.
+-Control de factores de riesgo cardiovascular
+-Tensión arterial sistólica <140mmHg/diastólica<90mmHg
+-Tratamiento farmacológico:
+-	CLEXANE (Heparina de bajo peso molecular) 100mg cada 12h durante tres días (inicio 05/01)
+-	ACENOCUMAROL (SINTROM) inicio el dia 05/01: 2mg al dia hasta control el lunes 9/01/17 en su centro de referencia.	- Resto de medicación sin cambios.
+
+CONTROL
+Control por su equipo de atención primaria
+Control por Neurologia de zona en 3 meses aproximadamente
+
+DESTINACIÓ A L'ALTA:	A DOMICILI
+
+
+
+
+
+
+
+
+Validat per: _NAME_	Col·legiat: _ID_
+
+06.01.2017
+Pàgina 1 de 3
